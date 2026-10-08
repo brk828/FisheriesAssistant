@@ -23,10 +23,11 @@ SOURCES_DIR = BRAIN_DIR / "01_Sources"
 STUBS_DIR = BRAIN_DIR / "02_Brain"
 DB_PATH = BASE_DIR / ".brain_index.sqlite"
 
-SCHEMA_VERSION = "2"
+SCHEMA_VERSION = "3"
 CHUNK_CHARS = 1500
 MAX_STUBS = 5
 MAX_EXCERPTS = 4
+MAX_TITLE_HITS = 3
 SUMMARY_CHARS = 320
 EXCERPT_CHARS = 700
 RELATED_SHOWN = 6
@@ -140,6 +141,7 @@ def build_index(verbose: bool = True) -> None:
         CREATE VIRTUAL TABLE stubs_fts USING fts5(title, summary, context, tokenize='porter unicode61 remove_diacritics 2');
         CREATE TABLE sources(source_id TEXT PRIMARY KEY, title TEXT, year TEXT, meta TEXT);
         CREATE VIRTUAL TABLE chunks_fts USING fts5(source_id UNINDEXED, heading, body, tokenize='porter unicode61 remove_diacritics 2');
+        CREATE VIRTUAL TABLE titles_fts USING fts5(source_id UNINDEXED, title, tokenize='porter unicode61 remove_diacritics 2');
         CREATE TABLE info(key TEXT PRIMARY KEY, value TEXT);
         """
     )
@@ -165,6 +167,7 @@ def build_index(verbose: bool = True) -> None:
         title = _flatten(fm.get("title")) or titles.get(p.stem, {}).get("title") or p.stem
         meta = " | ".join(f"{k}: {_flatten(fm[k])}" for k in _META_FIELDS if fm.get(k))
         db.execute("INSERT OR REPLACE INTO sources VALUES (?,?,?,?)", (p.stem, title, _flatten(fm.get("year")), meta))
+        db.execute("INSERT INTO titles_fts VALUES (?,?)", (p.stem, title))
         # Frontmatter and title are searchable as a first chunk so species/location queries hit.
         db.execute("INSERT INTO chunks_fts(source_id, heading, body) VALUES (?,?,?)", (p.stem, "Metadata", f"{title}\n{meta}"))
         for head, chunk in _chunks(body):
@@ -306,6 +309,24 @@ def search_brain(query: str) -> str:
             if mentions:
                 out.append(f"    Sources: {', '.join(mentions[:MENTIONS_SHOWN])}")
             mentioned += mentions
+
+        # Documents whose title covers most of the query: the likeliest "this is the paper I mean" hits.
+        title_hits = []
+        if len(terms) >= 2:
+            need = max(2, math.ceil(0.6 * len(terms)))
+            for sid, title, score in db.execute(
+                "SELECT source_id, title, bm25(titles_fts) FROM titles_fts WHERE titles_fts MATCH ? ORDER BY 3 LIMIT 40",
+                (_match_expr(terms),),
+            ).fetchall():
+                low = title.lower()
+                covered = sum(1 for t in terms if t in low)
+                if covered >= need:
+                    title_hits.append((-covered, score, sid, title))
+            title_hits.sort()
+            if title_hits:
+                out.append("\nDOCUMENTS WITH MATCHING TITLES (use read_brain_source with the id):")
+                for _, _, sid, title in title_hits[:MAX_TITLE_HITS]:
+                    out.append(f"- [{sid}] {title}")
 
         # Excerpts: sources linked from the matching stubs first, then global matches.
         excerpts, seen = [], set()

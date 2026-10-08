@@ -97,12 +97,14 @@ Every analysis run is shown to you (tool name and arguments) and only starts aft
 `search_fisheries_brain` is stub-first and runs locally (no tokens until results reach the model):
 1. Concept stubs in `02_Brain` are matched and ranked (text match, title match, number of sources mentioning the concept) and returned with summaries, related concepts and source ids.
 2. Source excerpts follow, preferring sources linked from the matched stubs. `read_brain_source` reads the best passages of one source by id.
-3. Known species names are expanded with their aliases (e.g. squawfish / Colorado pikeminnow / *Ptychocheilus lucius*), and the result says what was expanded.
+3. Source titles are searched too, so a question naming a paper finds it directly.
+4. Known species names are expanded with their aliases (e.g. squawfish / Colorado pikeminnow / *Ptychocheilus lucius*), and the result says what was expanded.
 
 The index (`.brain_index.sqlite`, gitignored) builds automatically on first use (~15 s) and whenever vault files, titles or aliases change. Maintenance commands, run from this folder:
 ```bash
 python -m utils.brain_index "razorback sucker spawning"   # try a search without the agent
 python -m utils.brain_enrich                              # rebuild titles and aliases (local only)
+python -m utils.brain_eval                                # run the retrieval test set (local, no LLM)
 python -m utils.brain_enrich titles-llm --limit 20        # LLM titles for sources lacking one; shows a cost estimate and asks first
 ```
 Fix a wrong or missing alias in `brain_meta/aliases.yaml`; a title can be set by hand in `source_titles.json` with `"from": "manual"`.

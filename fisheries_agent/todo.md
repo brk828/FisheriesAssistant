@@ -33,7 +33,7 @@ Observations about the current brain (affects the design):
 - [x] Source titles: frontmatter, then first heading, then citation (`brain_meta/source_titles.json`). LLM title pass for the remaining ~1,230 untitled sources: `python -m utils.brain_enrich titles-llm` (shows an estimate and asks first; resumable; run it once).
 - [x] Layered retrieval (stub-first): concept stubs ranked by FTS + mention count, related concepts, then source excerpts via `Mentioned In` (`utils/brain_index.py`; `read_brain_source` for deeper reads). Still open: species/place alias table and species/year filters.
 - [ ] Return about 8-12 ranked chunks with source id, title, year and the reason matched.
-- [ ] Evaluation set of 15-20 questions with expected sources (e.g. razorback sucker in Lake Mohave); re-run after every retrieval change.
+- [x] Evaluation set (`brain_meta/eval_questions.yaml`, 27 questions; run `python -m utils.brain_eval`). Re-run after every retrieval change. Its first run found that paper titles were not searchable, which led to the "documents with matching titles" section. Still to do: add questions from real use, and multi-concept questions.
 - [ ] Embeddings only if the evaluation shows keyword search is missing too much.
 
 ### 2. `research_topic` tool

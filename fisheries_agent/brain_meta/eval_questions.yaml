@@ -1,0 +1,91 @@
+# Retrieval test set for search_fisheries_brain.
+# Run: python -m utils.brain_eval [-v]
+# query:    the keywords an agent would pass to the tool (not the whole question)
+# sources:  source ids that answer the question (hit if ANY appears in the results)
+# concepts: concept stub titles that answer it (hit if ANY appears, case-insensitive substring)
+# none:     true = out-of-scope query; passes if the search returns without error
+# Expected ids were taken from source titles, not from search results, so they do not depend on the ranking.
+- ask: What does the rotenone pond reclamation effectiveness study say?
+  query: effectiveness of rotenone in pond reclamation
+  sources: [EffectivenessOfRotenoneInPondR_1953]
+- ask: How does water temperature affect how long rotenone persists in ponds?
+  query: rotenone persistence water temperature ponds
+  sources: [EffectOfTemperatureOnPersisten_13320]
+- ask: Was the rotenone treatment at Lake Mohave coves rescheduled?
+  query: Lake Mohave cove rotenone schedule
+  sources: [CoveRotenoneScheduleChange_1990_09_12]
+- ask: Do electrofishing fields harm juvenile humpback chub?
+  query: electrofishing juvenile humpback chub
+  sources: [CommentsOnResearchProposalEffe_1993_11_03]
+- ask: How well do mark-recapture methods work for Colorado squawfish?
+  query: mark recapture Colorado squawfish
+  sources: [AnEvaluationOfMarkAndRecapture_1993]
+- ask: What was proposed to monitor fish under interim flows from Glen Canyon Dam?
+  query: Glen Canyon Dam interim flow fish monitoring
+  sources: [AProposalToMonitorTheEffectsOf_11482]
+- ask: What did the court rule about critical habitat for spikedace and loach minnow?
+  query: spikedace loach minnow critical habitat court
+  sources: [BoardOfCountyCommissionersOfTh_11767]
+- ask: Do Apache trout hybridize with rainbow trout?
+  query: Apache trout rainbow trout hybrids
+  sources: [AnAnalysisOfFHybridsBetweenApa_1984_09_24]
+- ask: What came out of the Gila trout and Chihuahua chub recovery team meeting?
+  query: Gila trout Chihuahua chub recovery team
+  sources: [GilaTroutAndChihuahuaChubRecov_1997_01_16]
+- ask: Do bullfrogs prey on Pahrump killifish?
+  query: bullfrog predation Pahrump killifish
+  sources: [BullfrogPredation_1985_11_27]
+- ask: Is selenium a problem for razorback suckers in the Green River?
+  query: selenium razorback sucker Green River
+  sources: [SeleniumMayHarmRazorbackSucker_11707]
+- ask: How were bonytail aged from otoliths at Lake Mohave?
+  query: otolith age estimation bonytail Lake Mohave
+  sources: [AgeEstimationFromOtolithsOfBon_1997_02_24]
+- ask: Is there a non-lethal stomach pumping method for bonytail?
+  query: bonytail stomach pumping nonlethal
+  sources: [AdultBonytailFromDexterForStom_13615]
+- ask: How was the barrier net used in the Davis Cove sucker rearing program?
+  query: barrier net berm Davis Cove sucker rearing
+  sources: [BarrierNetbermBurkePainter_15471]
+- ask: What happened when Quartzite Falls was blasted?
+  query: Quartzite Falls blasting native fish barrier
+  sources: [BlastRazesSaltRapidsThreatensR_1994_05_14]
+- ask: How does salinity change the preferred and lethal temperatures of tilapia?
+  query: salinity preferred lethal temperature tilapia
+  sources: [EffectsOfSalinityOnPreferredAn_14746]
+- ask: How is Colorado squawfish reproduction and larval abundance assessed?
+  query: Colorado squawfish larval abundance reproduction
+  sources: [AnnualAssessmentOfColoradoSqua_1993]
+- ask: What genetic variation exists in desert pupfish?
+  query: allozymic variation desert pupfish genetic
+  sources: ["Allozymic variation in desert pupfish from natural and artificial habitats genetic conservation in fluctuating populatio"]
+# Name handling: scientific names, synonyms and common names should reach the same concept
+- ask: Tell me about Xyrauchen texanus.
+  query: Xyrauchen texanus
+  concepts: [Razorback Sucker]
+- ask: What do we know about the humpback sucker?
+  query: humpback sucker
+  concepts: [Razorback Sucker, Humpback Sucker]
+- ask: Where does Poeciliopsis occidentalis live?
+  query: Poeciliopsis occidentalis
+  concepts: [Gila Topminnow, Sonoran Topminnow]
+- ask: What is known about Gila cypha?
+  query: Gila cypha
+  concepts: [Humpback Chub]
+- ask: What do we know about Ptychocheilus lucius?
+  query: Ptychocheilus lucius
+  concepts: [Colorado Pikeminnow, Colorado Squawfish]
+# Concept lookups
+- ask: What is the razorback sucker recovery plan?
+  query: razorback sucker recovery plan
+  concepts: [Razorback Sucker Recovery Plan]
+- ask: What does desert pupfish conservation involve?
+  query: desert pupfish conservation
+  concepts: [Desert Pupfish Conservation]
+- ask: What is the Gila topminnow?
+  query: Gila topminnow
+  concepts: [Gila Topminnow]
+# Out of scope: must return cleanly (no crash, no huge dump)
+- ask: Explain quantum chromodynamics.
+  query: quantum chromodynamics
+  none: true
