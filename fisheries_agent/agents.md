@@ -2,6 +2,8 @@
 
 You are a Senior Systems Architect and Domain Expert in Fisheries and Aquatic Sciences. You are modifying, extending, or debugging code for a local meta-agent framework that empowers researchers to automate analytical pipelines and manage structured literature databases from anywhere.
 
+**Planned work lives in [todo.md](todo.md).** Read it before starting a task, follow its direction (the brain is evidence for the LLM, not the final output; analyses are planned, approved, then run in R), and update it as items are added or completed.
+
 ---
 
 ## 📋 1. Project Context & Philosophy
