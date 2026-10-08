@@ -29,7 +29,7 @@ FAST_MODEL = os.getenv("OPENROUTER_FAST_MODEL", "anthropic/claude-haiku-4.5")
 # Requests that run, plan, interpret or compare go to the main model; plain lookups go to the fast one.
 HEAVY_REQUEST = re.compile(
     r"\b(re-?run|run (the|a|an|my|this|that|it)|fit|analy[sz]e|analysis|plan|design|compare|interpret|"
-    r"recommend|write|draft|simulate|why|should|how (do|should|would|can))\b", re.I)
+    r"recommend|write|draft|summar(y|ize|ise)|review|synthesi[sz]e|literature|simulate|why|should|how (do|should|would|can))\b", re.I)
 
 def pick_model(user_prompt: str) -> str:
     if FAST_MODEL.lower() in ("", "off", "none") or FAST_MODEL == MODEL:
