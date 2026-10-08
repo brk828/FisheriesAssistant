@@ -78,5 +78,4 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 - [[SummaryOfDesertPupfishIntroduc_1989_02_09]]
 - [[SummaryOfDiscussionsToBeUsedAs_1970_06_26]]
 - [[TheRecreationalImpactOfReducin_16581]]
-- [[UniqueWatersNominationBonitaCr_11620 map]]
 - [[UseOfIsolatedHabitatsAsGrowout_1996_06_21]]

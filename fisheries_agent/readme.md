@@ -35,8 +35,12 @@ fisheries_agent/
 ├── project_manifest.yaml        # Generated machine profile (DO NOT COMMIT)
 ├── 00_Fisheries_Brain/          # Prepackaged Obsidian-style Vault
 │   ├── 01_Sources/              # Condensed markdown literature summaries
-│   ├── 02_Brain/                # Synthesized catalogs, indices, and concepts
+│   ├── 02_Brain/                # Concept stubs: summary, related concepts, "Mentioned In" source ids
 │   └── pdfs_to_process/         # Background drop-box for new literature
+├── brain_meta/                  # Derived search metadata (never edits the vault)
+│   ├── source_titles.json       # Source id -> title (frontmatter, heading, citation, or LLM)
+│   ├── aliases_auto.json        # Species name clusters built from the vault
+│   └── aliases.yaml             # Your hand-edited alias groups and ignores (always win)
 ├── 03_Specialized_Agents/      # Expert mathematical code blocks
 │   ├── bayesian_nimble.py       # Mark-resight and population models
 │   ├── zero_inflated_tmb.py     # glmmTMB count regression models
@@ -46,6 +50,8 @@ fisheries_agent/
 └── utils/
     ├── safety.py                # Validates paths and column names from the model
     ├── runner.py                # Runs R/Quarto with timeouts, logging and key redaction
+    ├── brain_index.py           # Local SQLite FTS5 index; stub-first search of the vault
+    ├── brain_enrich.py          # Builds source titles and species aliases (optional LLM title pass)
     └── pdf_processor.py         # (future) Scheduled PDF-to-markdown job
 ```
 
@@ -86,9 +92,23 @@ python main_orchestrator.py
 ## � Run Approval
 Every analysis run is shown to you (tool name and arguments) and only starts after you answer `y`. Outputs and logs are saved under `runs/`.
 
+## 📚 Fisheries Brain Search
+`search_fisheries_brain` is stub-first and runs locally (no tokens until results reach the model):
+1. Concept stubs in `02_Brain` are matched and ranked (text match, title match, number of sources mentioning the concept) and returned with summaries, related concepts and source ids.
+2. Source excerpts follow, preferring sources linked from the matched stubs. `read_brain_source` reads the best passages of one source by id.
+3. Known species names are expanded with their aliases (e.g. squawfish / Colorado pikeminnow / *Ptychocheilus lucius*), and the result says what was expanded.
+
+The index (`.brain_index.sqlite`, gitignored) builds automatically on first use (~15 s) and whenever vault files, titles or aliases change. Maintenance commands, run from this folder:
+```bash
+python -m utils.brain_index "razorback sucker spawning"   # try a search without the agent
+python -m utils.brain_enrich                              # rebuild titles and aliases (local only)
+python -m utils.brain_enrich titles-llm --limit 20        # LLM titles for sources lacking one; shows a cost estimate and asks first
+```
+Fix a wrong or missing alias in `brain_meta/aliases.yaml`; a title can be set by hand in `source_titles.json` with `"from": "manual"`.
+
 ## 🔮 Future Features
 * **Scheduled PDF processor:** a background job that watches `00_Fisheries_Brain/pdfs_to_process/`, summarizes new PDFs into `01_Sources/`, and creates context links between notes (reusing logic from a separate literature-conversion project). Until then, add markdown files to `01_Sources/` and `02_Brain/` by hand.
-* **Smaller Brain:** consolidate the many notes in `02_Brain/` into fewer, richer notes, and add a search index, for faster lookups.
+* **Project memory:** remember each project's key result files and run history between sessions so "latest results" questions need no file discovery (see `todo.md`).
 
 ## �💻 System Dependencies
 Currently supported platform: **Windows**.

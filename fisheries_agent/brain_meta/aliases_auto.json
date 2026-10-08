@@ -1,0 +1,7022 @@
+{
+ "Abraxas grossulariata": {
+  "canonical": "Currant Moth",
+  "names": [
+   {
+    "name": "Currant Moth",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Gooseberry Moth",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Magpie Moth",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Acanthogobius flavimanus": {
+  "canonical": "Oriental Goby",
+  "names": [
+   {
+    "name": "Oriental Goby",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Yellowfin Goby",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Acantholebris curvirostris": {
+  "canonical": "O. F. Müller",
+  "names": [
+   {
+    "name": "O. F. Müller",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Acipenser brevirostrum": {
+  "canonical": "Shortnose Sturgeon",
+  "names": [
+   {
+    "name": "Shortnose Sturgeon",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Acipenser fulvescens": {
+  "canonical": "Lake Sturgeon",
+  "names": [
+   {
+    "name": "Lake Sturgeon",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Acipenser oxyrinchus": {
+  "canonical": "Atlantic Sturgeon",
+  "names": [
+   {
+    "name": "Atlantic Sturgeon",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Acipenser oxyrinchus desotoi": {
+  "canonical": "Gulf Sturgeon",
+  "names": [
+   {
+    "name": "Gulf Sturgeon",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Acipenser transmontanus": {
+  "canonical": "white sturgeon",
+  "names": [
+   {
+    "name": "white sturgeon",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Agonostomus monticola": {
+  "canonical": "Mountain mullet",
+  "names": [
+   {
+    "name": "Mountain mullet",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Agosia chrysogaster": {
+  "canonical": "longfin dace",
+  "names": [
+   {
+    "name": "longfin dace",
+    "count": 18,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Yaqui Longfin Dace",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Alabama sturgeon": {
+  "canonical": "Scaphirhynchus suttkusi",
+  "names": [
+   {
+    "name": "Scaphirhynchus suttkusi",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Alaska blackfish": {
+  "canonical": "Dallia pectoralis",
+  "names": [
+   {
+    "name": "Dallia pectoralis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Alosa pseudoharengus": {
+  "canonical": "Alewife",
+  "names": [
+   {
+    "name": "Alewife",
+    "count": 7,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Alosa sapidissima": {
+  "canonical": "American shad",
+  "names": [
+   {
+    "name": "American shad",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Alternanthera philoxeroides": {
+  "canonical": "alligatorweed",
+  "names": [
+   {
+    "name": "alligatorweed",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Amargosa pupfish": {
+  "canonical": "Cyprinodon nevadensis amargosae",
+  "names": [
+   {
+    "name": "Cyprinodon nevadensis amargosae",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Cyprinodon nevadensis nevadensis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ambloplites rupestris": {
+  "canonical": "Rock bass",
+  "names": [
+   {
+    "name": "Rock bass",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Amblyopsis rosae": {
+  "canonical": "Ozark Cavefish",
+  "names": [
+   {
+    "name": "Ozark Cavefish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Amblyopsis spelaea": {
+  "canonical": "Northern Cavefish",
+  "names": [
+   {
+    "name": "Northern Cavefish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ambystoma tigrinum nebulosum": {
+  "canonical": "Tiger Salamander",
+  "names": [
+   {
+    "name": "Tiger Salamander",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ambystoma tigrinum stebbinsi": {
+  "canonical": "Sonora Tiger Salamander",
+  "names": [
+   {
+    "name": "Sonora Tiger Salamander",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ameiurus natalis": {
+  "canonical": "yellow bullhead",
+  "names": [
+   {
+    "name": "yellow bullhead",
+    "count": 8,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "American burbot": {
+  "canonical": "Lota lota maculosa",
+  "names": [
+   {
+    "name": "Lota lota maculosa",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "American eel": {
+  "canonical": "Anguilla rostrata",
+  "names": [
+   {
+    "name": "Anguilla rostrata",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "American lobster": {
+  "canonical": "Homarus americanus",
+  "names": [
+   {
+    "name": "Homarus americanus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "American shad": {
+  "canonical": "Alosa sapidissima",
+  "names": [
+   {
+    "name": "Alosa sapidissima",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Amia calva": {
+  "canonical": "Bowfin",
+  "names": [
+   {
+    "name": "Bowfin",
+    "count": 7,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Amistad gambusia": {
+  "canonical": "Gambusia amistadensis",
+  "names": [
+   {
+    "name": "Gambusia amistadensis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ammocrypta bifascia": {
+  "canonical": "Florida sand darter",
+  "names": [
+   {
+    "name": "Florida sand darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ammocrypta pellucida": {
+  "canonical": "Mobile Basin",
+  "names": [
+   {
+    "name": "Mobile Basin",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Anguilla anguilla": {
+  "canonical": "European Eel",
+  "names": [
+   {
+    "name": "European Eel",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Anguilla nebulosa labiata": {
+  "canonical": "African Longfin Eel",
+  "names": [
+   {
+    "name": "African Longfin Eel",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Anguilla rostrata": {
+  "canonical": "American Eel",
+  "names": [
+   {
+    "name": "American Eel",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Anodonta californiensis": {
+  "canonical": "California Floater",
+  "names": [
+   {
+    "name": "California Floater",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Anoura brevirostrum": {
+  "canonical": "Short-rostrum tailless bat",
+  "names": [
+   {
+    "name": "Short-rostrum tailless bat",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Aplodinotus grunniens": {
+  "canonical": "Freshwater Drum",
+  "names": [
+   {
+    "name": "Freshwater Drum",
+    "count": 8,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Drum",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Freshwater Sheepshead",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Archoplites interruptus": {
+  "canonical": "Sacramento Perch",
+  "names": [
+   {
+    "name": "Sacramento Perch",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Arizona native fishes": {
+  "canonical": "unspecified taxa",
+  "names": [
+   {
+    "name": "unspecified taxa",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Arizona trout": {
+  "canonical": "Salmo apache",
+  "names": [
+   {
+    "name": "Salmo apache",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Oncorhynchus apache",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Artemia salina": {
+  "canonical": "brine shrimp",
+  "names": [
+   {
+    "name": "brine shrimp",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Arvicola terrestris": {
+  "canonical": "sensu lato",
+  "names": [
+   {
+    "name": "sensu lato",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Astacus trowbridgii": {
+  "canonical": "crayfish",
+  "names": [
+   {
+    "name": "crayfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Atlantic salmon": {
+  "canonical": "Salmo salar",
+  "names": [
+   {
+    "name": "Salmo salar",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Atlantic sturgeon": {
+  "canonical": "Acipenser oxyrhynchus",
+  "names": [
+   {
+    "name": "Acipenser oxyrhynchus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Atlantic tomcod": {
+  "canonical": "Microgadus tomcod",
+  "names": [
+   {
+    "name": "Microgadus tomcod",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Atractosteus spatula": {
+  "canonical": "Alligator Gar",
+  "names": [
+   {
+    "name": "Alligator Gar",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Bagre marinus": {
+  "canonical": "e.g. Galeichthys felis",
+  "names": [
+   {
+    "name": "e.g. Galeichthys felis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Barbus neumayeri": {
+  "canonical": "syn. Barbus luhondo",
+  "names": [
+   {
+    "name": "syn. Barbus luhondo",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Barbus tetrazona": {
+  "canonical": "Tiger Barb",
+  "names": [
+   {
+    "name": "Tiger Barb",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Beautiful shiner": {
+  "canonical": "C. f. mearnsi",
+  "names": [
+   {
+    "name": "C. f. mearnsi",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Cyprinella formosa formosa",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Notropis formosus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Bighead carp": {
+  "canonical": "Aristichthys nobilis",
+  "names": [
+   {
+    "name": "Aristichthys nobilis",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Bison bison": {
+  "canonical": "American Bison",
+  "names": [
+   {
+    "name": "American Bison",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Black bullhead": {
+  "canonical": "Ameiurus melas",
+  "names": [
+   {
+    "name": "Ameiurus melas",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Black carp": {
+  "canonical": "Mylopharyngodon piceus",
+  "names": [
+   {
+    "name": "Mylopharyngodon piceus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Black crappie": {
+  "canonical": "Pomoxis nigro-maculatus",
+  "names": [
+   {
+    "name": "Pomoxis nigro-maculatus",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Pomoxis nigromaculatus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Blacknose dace": {
+  "canonical": "Rhinichthys atratulus",
+  "names": [
+   {
+    "name": "Rhinichthys atratulus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Blue tilapia": {
+  "canonical": "Tilapia aurea",
+  "names": [
+   {
+    "name": "Tilapia aurea",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Oreochromis aureus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Bluehead sucker": {
+  "canonical": "Catostomus discobolus",
+  "names": [
+   {
+    "name": "Catostomus discobolus",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Pantosteus discobolus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Bluntnose minnow": {
+  "canonical": "Hyborhynchus notatus",
+  "names": [
+   {
+    "name": "Hyborhynchus notatus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Bonneville cisco": {
+  "canonical": "Prosopium gemmiferum",
+  "names": [
+   {
+    "name": "Prosopium gemmiferum",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Bonytail chub": {
+  "canonical": "Gila elegans",
+  "names": [
+   {
+    "name": "Gila elegans",
+    "count": 6,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Brevoortia tyrannus": {
+  "canonical": "Atlantic Menhaden",
+  "names": [
+   {
+    "name": "Atlantic Menhaden",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Brook trout": {
+  "canonical": "Salvelinus fontinalis",
+  "names": [
+   {
+    "name": "Salvelinus fontinalis",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Brown bullhead": {
+  "canonical": "Ictalurus nebulosus",
+  "names": [
+   {
+    "name": "Ictalurus nebulosus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Brown darter": {
+  "canonical": "Etheostoma edwini",
+  "names": [
+   {
+    "name": "Etheostoma edwini",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Brown trout": {
+  "canonical": "Salmo trutta",
+  "names": [
+   {
+    "name": "Salmo trutta",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Bubo virginianus": {
+  "canonical": "great horned owl",
+  "names": [
+   {
+    "name": "great horned owl",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Bucephala islandica": {
+  "canonical": "Barrow's goldeneye duck",
+  "names": [
+   {
+    "name": "Barrow's goldeneye duck",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Bufo marinus": {
+  "canonical": "tadpole life stage",
+  "names": [
+   {
+    "name": "tadpole life stage",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Caenis rivulorum": {
+  "canonical": "C. macrura",
+  "names": [
+   {
+    "name": "C. macrura",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "C. moesta",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "C. pseudorivulorum",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "C. robusta",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "California floater": {
+  "canonical": "Anodonta californiensis",
+  "names": [
+   {
+    "name": "Anodonta californiensis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Callipepla gambelii": {
+  "canonical": "Gambel's Quail",
+  "names": [
+   {
+    "name": "Gambel's Quail",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cambarus reburrus": {
+  "canonical": "Hairy Crayfish",
+  "names": [
+   {
+    "name": "Hairy Crayfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Campostoma anomalum": {
+  "canonical": "Central Stoneroller Minnow",
+  "names": [
+   {
+    "name": "Central Stoneroller Minnow",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "stoneroller",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Campostoma ornatum": {
+  "canonical": "Mexican Stoneroller",
+  "names": [
+   {
+    "name": "Mexican Stoneroller",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Capnia hantzschi": {
+  "canonical": "Baffin Land Stonefly",
+  "names": [
+   {
+    "name": "Baffin Land Stonefly",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Carassius auratus": {
+  "canonical": "Goldfish",
+  "names": [
+   {
+    "name": "Goldfish",
+    "count": 21,
+    "from": "frontmatter"
+   },
+   {
+    "name": "bioassay indicator",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Carpiodes carpio": {
+  "canonical": "River Carpsucker",
+  "names": [
+   {
+    "name": "River Carpsucker",
+    "count": 6,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Carpiodes carpio carpio": {
+  "canonical": "Northern River Carpsucker",
+  "names": [
+   {
+    "name": "Northern River Carpsucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Carpiodes cyprinus": {
+  "canonical": "Quillback Carpsucker",
+  "names": [
+   {
+    "name": "Quillback Carpsucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Carpiodes velifer": {
+  "canonical": "Highfin Carpsucker",
+  "names": [
+   {
+    "name": "Highfin Carpsucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Catostomus ardens": {
+  "canonical": "Utah Sucker",
+  "names": [
+   {
+    "name": "Utah Sucker",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Catostomus bernardini": {
+  "canonical": "Yaqui sucker",
+  "names": [
+   {
+    "name": "Yaqui sucker",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Catostomus catostomus": {
+  "canonical": "longnose sucker",
+  "names": [
+   {
+    "name": "longnose sucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Catostomus discobolus yarrowi": {
+  "canonical": "Zuni Mountain sucker",
+  "names": [
+   {
+    "name": "Zuni Mountain sucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Catostomus insignis": {
+  "canonical": "Sonora sucker",
+  "names": [
+   {
+    "name": "Sonora sucker",
+    "count": 7,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Gila Coarsescale Sucker",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Gila Sucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Catostomus latipinnis": {
+  "canonical": "Flannelmouth sucker",
+  "names": [
+   {
+    "name": "Flannelmouth sucker",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Catostomus macrocheilus": {
+  "canonical": "largescale sucker",
+  "names": [
+   {
+    "name": "largescale sucker",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Catostomus occidentalis": {
+  "canonical": "Western Sucker",
+  "names": [
+   {
+    "name": "Western Sucker",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Sacramento sucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Catostomus platyrhynchus": {
+  "canonical": "Mountain Sucker",
+  "names": [
+   {
+    "name": "Mountain Sucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Catostomus syncheilus": {
+  "canonical": "Chiselmouth Sucker",
+  "names": [
+   {
+    "name": "Chiselmouth Sucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Catostomus tahoensis": {
+  "canonical": "Tahoe Sucker",
+  "names": [
+   {
+    "name": "Tahoe Sucker",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Centrarchus macropterus": {
+  "canonical": "Flier",
+  "names": [
+   {
+    "name": "Flier",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "round flier",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Centrocestus formosanus": {
+  "canonical": "comparative parasite",
+  "names": [
+   {
+    "name": "comparative parasite",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Centropomus undecimalis": {
+  "canonical": "Snook",
+  "names": [
+   {
+    "name": "Snook",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cervus canadensis": {
+  "canonical": "Elk",
+  "names": [
+   {
+    "name": "Elk",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chaenobrytius gulosus": {
+  "canonical": "Warmouth Bass",
+  "names": [
+   {
+    "name": "Warmouth Bass",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Channel catfish": {
+  "canonical": "Ictalurus punctatus",
+  "names": [
+   {
+    "name": "Ictalurus punctatus",
+    "count": 5,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chanos chanos": {
+  "canonical": "milkfish",
+  "names": [
+   {
+    "name": "milkfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Charadrius squatarola": {
+  "canonical": "Grey Plover",
+  "names": [
+   {
+    "name": "Grey Plover",
+    "count": 1,
+    "from": "text"
+   }
+  ]
+ },
+ "Chasmistes brevirostris": {
+  "canonical": "Shortnose Sucker",
+  "names": [
+   {
+    "name": "Shortnose Sucker",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chasmistes cujus": {
+  "canonical": "Kuyui",
+  "names": [
+   {
+    "name": "Kuyui",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "cui-ui sucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chelinidea vittiger": {
+  "canonical": "cactus-eating bug",
+  "names": [
+   {
+    "name": "cactus-eating bug",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chelonia mydas": {
+  "canonical": "Green Sea Turtle",
+  "names": [
+   {
+    "name": "Green Sea Turtle",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chelydra serpentina": {
+  "canonical": "Snapping Turtle",
+  "names": [
+   {
+    "name": "Snapping Turtle",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chihuahua chub": {
+  "canonical": "Gila nigrescens",
+  "names": [
+   {
+    "name": "Gila nigrescens",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chironomus riparius": {
+  "canonical": "Non-biting midge larva",
+  "names": [
+   {
+    "name": "Non-biting midge larva",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chondrococcus columnaris": {
+  "canonical": "Flavobacterium columnare",
+  "names": [
+   {
+    "name": "Flavobacterium columnare",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "syn. Flexibacter columnaris",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chrysaora quinquecirrha": {
+  "canonical": "sea nettle",
+  "names": [
+   {
+    "name": "sea nettle",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chrysemys picta": {
+  "canonical": "Painted Terrapin",
+  "names": [
+   {
+    "name": "Painted Terrapin",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chrysophrys auratus": {
+  "canonical": "snapper",
+  "names": [
+   {
+    "name": "snapper",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Chub sucker": {
+  "canonical": "Erimyzon sucetta kennerlii",
+  "names": [
+   {
+    "name": "Erimyzon sucetta kennerlii",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cichla ocellaris": {
+  "canonical": "Peacock Bass",
+  "names": [
+   {
+    "name": "Peacock Bass",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cichlasoma loisellei": {
+  "canonical": "Guapote amarillo",
+  "names": [
+   {
+    "name": "Guapote amarillo",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cichlasoma managuense": {
+  "canonical": "jaguar cichlid",
+  "names": [
+   {
+    "name": "jaguar cichlid",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "tiger guapote",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cichlasoma minckleyi": {
+  "canonical": "Cuatro Ciénegas Cichlid",
+  "names": [
+   {
+    "name": "Cuatro Ciénegas Cichlid",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cichlasoma nigrofasciatum": {
+  "canonical": "convict cichlid",
+  "names": [
+   {
+    "name": "convict cichlid",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cirrhina cirrosa": {
+  "canonical": "white carp",
+  "names": [
+   {
+    "name": "white carp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Clarias batrachus": {
+  "canonical": "Walking Catfish",
+  "names": [
+   {
+    "name": "Walking Catfish",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Colinus virginianus": {
+  "canonical": "northern bobwhite",
+  "names": [
+   {
+    "name": "northern bobwhite",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Colorado squawfish": {
+  "canonical": "Ptychocheilus lucius",
+  "names": [
+   {
+    "name": "Ptychocheilus lucius",
+    "count": 24,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Ptychocheilus lucius Girard",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Columbia pebblesnail": {
+  "canonical": "Fluminicola columbiana",
+  "names": [
+   {
+    "name": "Fluminicola columbiana",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Common carp": {
+  "canonical": "Cyprinus carpio",
+  "names": [
+   {
+    "name": "Cyprinus carpio",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Corbicula fluminea": {
+  "canonical": "Asiatic clam",
+  "names": [
+   {
+    "name": "Asiatic clam",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Coregonus artedii": {
+  "canonical": "Lake Herring",
+  "names": [
+   {
+    "name": "Lake Herring",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Coregonus clupeaformis": {
+  "canonical": "Great Lakes Whitefish",
+  "names": [
+   {
+    "name": "Great Lakes Whitefish",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Lake Whitefish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Coregonus zenithicus": {
+  "canonical": "Shortjaw Cisco",
+  "names": [
+   {
+    "name": "Shortjaw Cisco",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cottus aleuticus": {
+  "canonical": "Coastrange Sculpin",
+  "names": [
+   {
+    "name": "Coastrange Sculpin",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Dwarf Coastrange Sculpin",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cottus bairdi": {
+  "canonical": "Mottled Sculpin",
+  "names": [
+   {
+    "name": "Mottled Sculpin",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cottus bairdi punctulatus": {
+  "canonical": "freshwater sculpin",
+  "names": [
+   {
+    "name": "freshwater sculpin",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cottus gobio": {
+  "canonical": "bullhead",
+  "names": [
+   {
+    "name": "bullhead",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cottus gulosus": {
+  "canonical": "Riffle sculpin",
+  "names": [
+   {
+    "name": "Riffle sculpin",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Couesius plumbeus": {
+  "canonical": "Lake Chub",
+  "names": [
+   {
+    "name": "Lake Chub",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Crangon septemspinosa": {
+  "canonical": "sand shrimp",
+  "names": [
+   {
+    "name": "sand shrimp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Craspedacusta sowerbyi": {
+  "canonical": "Freshwater Jellyfish",
+  "names": [
+   {
+    "name": "Freshwater Jellyfish",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Crassostrea virginica": {
+  "canonical": "Eastern oyster",
+  "names": [
+   {
+    "name": "Eastern oyster",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Creek chub": {
+  "canonical": "Semotilus atromaculatus",
+  "names": [
+   {
+    "name": "Semotilus atromaculatus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Crematogaster opuntiae": {
+  "canonical": "little black cactus ant",
+  "names": [
+   {
+    "name": "little black cactus ant",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Crenichthys baileyi grandis": {
+  "canonical": "Hiko White River Springfish",
+  "names": [
+   {
+    "name": "Hiko White River Springfish",
+    "count": 1,
+    "from": "text"
+   }
+  ]
+ },
+ "Crenichthys nevadae": {
+  "canonical": "Railroad Valley Springfish",
+  "names": [
+   {
+    "name": "Railroad Valley Springfish",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Crepidostomum farionis": {
+  "canonical": "intestinal fluke",
+  "names": [
+   {
+    "name": "intestinal fluke",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ctenopharyngodon idella": {
+  "canonical": "Grass carp",
+  "names": [
+   {
+    "name": "Grass carp",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "White Amur",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Chinese Grass Carp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Culaea inconstans": {
+  "canonical": "Brook Stickleback",
+  "names": [
+   {
+    "name": "Brook Stickleback",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cynolebias adloffi": {
+  "canonical": "Annual Fish",
+  "names": [
+   {
+    "name": "Annual Fish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cynolebias bellotti": {
+  "canonical": "Argentine pearlfish",
+  "names": [
+   {
+    "name": "Argentine pearlfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cynoscion macdonaldi": {
+  "canonical": "Totoaba macdonaldi",
+  "names": [
+   {
+    "name": "Totoaba macdonaldi",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cynoscion nebulosus": {
+  "canonical": "Weakfish",
+  "names": [
+   {
+    "name": "Weakfish",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Speckled Trout",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Speckled Weakfish",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Spotted Seatrout",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cynoscion xanthulus": {
+  "canonical": "Orangemouth Corvina",
+  "names": [
+   {
+    "name": "Orangemouth Corvina",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinella lutrensis": {
+  "canonical": "Plains Red Shiner",
+  "names": [
+   {
+    "name": "Plains Red Shiner",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "not detected",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon bovinus": {
+  "canonical": "Leon Springs pupfish",
+  "names": [
+   {
+    "name": "Leon Springs pupfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon diabolis": {
+  "canonical": "Devils Hole pupfish",
+  "names": [
+   {
+    "name": "Devils Hole pupfish",
+    "count": 8,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Devil's Hole Pupfish",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon elegans": {
+  "canonical": "Comanche Springs pupfish",
+  "names": [
+   {
+    "name": "Comanche Springs pupfish",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon eximius": {
+  "canonical": "Conchos Pupfish",
+  "names": [
+   {
+    "name": "Conchos Pupfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon macularius": {
+  "canonical": "desert pupfish",
+  "names": [
+   {
+    "name": "desert pupfish",
+    "count": 12,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon macularius eremus": {
+  "canonical": "Quitobaquito pupfish",
+  "names": [
+   {
+    "name": "Quitobaquito pupfish",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Quitobaquito Desert Pupfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon milleri": {
+  "canonical": "Cottonball Marsh pupfish",
+  "names": [
+   {
+    "name": "Cottonball Marsh pupfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon nevadensis nevadensis": {
+  "canonical": "Saratoga Springs pupfish",
+  "names": [
+   {
+    "name": "Saratoga Springs pupfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon nevadensis pectoralis": {
+  "canonical": "Warm Springs pupfish",
+  "names": [
+   {
+    "name": "Warm Springs pupfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon nevadensis shoshone": {
+  "canonical": "Shoshone Pupfish",
+  "names": [
+   {
+    "name": "Shoshone Pupfish",
+    "count": 1,
+    "from": "text"
+   }
+  ]
+ },
+ "Cyprinodon pecosensis": {
+  "canonical": "Pecos Pupfish",
+  "names": [
+   {
+    "name": "Pecos Pupfish",
+    "count": 9,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Pecos River pupfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon radiosus": {
+  "canonical": "Owens Pupfish",
+  "names": [
+   {
+    "name": "Owens Pupfish",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon salinus": {
+  "canonical": "Salt Creek pupfish",
+  "names": [
+   {
+    "name": "Salt Creek pupfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinodon variegatus": {
+  "canonical": "Sheepshead minnow",
+  "names": [
+   {
+    "name": "Sheepshead minnow",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Cyprinus carpio": {
+  "canonical": "common carp",
+  "names": [
+   {
+    "name": "common carp",
+    "count": 13,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Albinistic Carp",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "German Carp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Dalles sideband": {
+  "canonical": "Monadenia fidelis minor",
+  "names": [
+   {
+    "name": "Monadenia fidelis minor",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Deltistes luxatus": {
+  "canonical": "Lost River Sucker",
+  "names": [
+   {
+    "name": "Lost River Sucker",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Desert pupfish": {
+  "canonical": "Cyprinodon macularius",
+  "names": [
+   {
+    "name": "Cyprinodon macularius",
+    "count": 7,
+    "from": "frontmatter"
+   },
+   {
+    "name": "C. m. eremus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Desert sucker": {
+  "canonical": "Catostomus [Pantosteus] clarki",
+  "names": [
+   {
+    "name": "Catostomus [Pantosteus] clarki",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Catostomus clarki",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Didelphis virginianus": {
+  "canonical": "Virginia Opossum",
+  "names": [
+   {
+    "name": "Virginia Opossum",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "early reference",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Dionda argentosa": {
+  "canonical": "Manantial Roundnose Minnow",
+  "names": [
+   {
+    "name": "Manantial Roundnose Minnow",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Dionda diaboli": {
+  "canonical": "Devils River Minnow",
+  "names": [
+   {
+    "name": "Devils River Minnow",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Dionda episcopa": {
+  "canonical": "Roundnose Minnow",
+  "names": [
+   {
+    "name": "Roundnose Minnow",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Dorosoma cepedianum": {
+  "canonical": "gizzard shad",
+  "names": [
+   {
+    "name": "gizzard shad",
+    "count": 6,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Dorosoma petenense": {
+  "canonical": "Threadfin shad",
+  "names": [
+   {
+    "name": "Threadfin shad",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Dreissena polymorpha": {
+  "canonical": "Zebra Mussel",
+  "names": [
+   {
+    "name": "Zebra Mussel",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Eichhornia crassipes": {
+  "canonical": "water hyacinth",
+  "names": [
+   {
+    "name": "water hyacinth",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "waterhyacinth",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Eigenmannia virescens": {
+  "canonical": "referenced comparator",
+  "names": [
+   {
+    "name": "referenced comparator",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Elassoma zonatum": {
+  "canonical": "Banded Pygmy Sunfish",
+  "names": [
+   {
+    "name": "Banded Pygmy Sunfish",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Pigmy Sunfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Elops affinis": {
+  "canonical": "Pacific tenpounder",
+  "names": [
+   {
+    "name": "Pacific tenpounder",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Empetrichthys latos latos": {
+  "canonical": "Pahrump Valley Poolfish",
+  "names": [
+   {
+    "name": "Pahrump Valley Poolfish",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Empetrichthys latos pahrump": {
+  "canonical": "extinct subspecies",
+  "names": [
+   {
+    "name": "extinct subspecies",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Empidonax traillii extimus": {
+  "canonical": "Southwestern Willow Flycatcher",
+  "names": [
+   {
+    "name": "Southwestern Willow Flycatcher",
+    "count": 7,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Enneacanthus obesus": {
+  "canonical": "Banded Sunfish",
+  "names": [
+   {
+    "name": "Banded Sunfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Entosphenus tridentatus": {
+  "canonical": "Pacific Lamprey",
+  "names": [
+   {
+    "name": "Pacific Lamprey",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Epinephelus guttatus": {
+  "canonical": "Red Hind",
+  "names": [
+   {
+    "name": "Red Hind",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ericymba buccata": {
+  "canonical": "Silverjaw Minnow",
+  "names": [
+   {
+    "name": "Silverjaw Minnow",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Erimyzon oblongus": {
+  "canonical": "Creek Chubsucker",
+  "names": [
+   {
+    "name": "Creek Chubsucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Erimyzon sucetta": {
+  "canonical": "Chub sucker",
+  "names": [
+   {
+    "name": "Chub sucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Esox americanus": {
+  "canonical": "Redfin Pickerel",
+  "names": [
+   {
+    "name": "Redfin Pickerel",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Esox lucius": {
+  "canonical": "Northern pike",
+  "names": [
+   {
+    "name": "Northern pike",
+    "count": 4,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Esox masquinongy": {
+  "canonical": "Muskellunge",
+  "names": [
+   {
+    "name": "Muskellunge",
+    "count": 4,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Esox niger": {
+  "canonical": "Chain pickerel",
+  "names": [
+   {
+    "name": "Chain pickerel",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Esox vermiculatus": {
+  "canonical": "Mud pickerel",
+  "names": [
+   {
+    "name": "Mud pickerel",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma blennioides": {
+  "canonical": "Greenside Darter",
+  "names": [
+   {
+    "name": "Greenside Darter",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma cragini": {
+  "canonical": "Arkansas Darter",
+  "names": [
+   {
+    "name": "Arkansas Darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma flabellare": {
+  "canonical": "Fantail Darter",
+  "names": [
+   {
+    "name": "Fantail Darter",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma flabellare lineolatum": {
+  "canonical": "Striped Fantail Darter",
+  "names": [
+   {
+    "name": "Striped Fantail Darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma fonticola": {
+  "canonical": "Fountain Darter",
+  "names": [
+   {
+    "name": "Fountain Darter",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma grahami": {
+  "canonical": "Rio Grande Darter",
+  "names": [
+   {
+    "name": "Rio Grande Darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma lepidum": {
+  "canonical": "Greenthroat Darter",
+  "names": [
+   {
+    "name": "Greenthroat Darter",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma nianguae": {
+  "canonical": "Niangua darter",
+  "names": [
+   {
+    "name": "Niangua darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma nigrum": {
+  "canonical": "Johnny Darter",
+  "names": [
+   {
+    "name": "Johnny Darter",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma okaloosae": {
+  "canonical": "Okaloosa darter",
+  "names": [
+   {
+    "name": "Okaloosa darter",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma radiosum": {
+  "canonical": "Orangebelly Darter",
+  "names": [
+   {
+    "name": "Orangebelly Darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma spectabile": {
+  "canonical": "Orangethroat Darter",
+  "names": [
+   {
+    "name": "Orangethroat Darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma squamiceps": {
+  "canonical": "Spottail Darter",
+  "names": [
+   {
+    "name": "Spottail Darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etheostoma wapiti": {
+  "canonical": "Boulder Darter",
+  "names": [
+   {
+    "name": "Boulder Darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Etroplus maculatus": {
+  "canonical": "Orange Chromide",
+  "names": [
+   {
+    "name": "Orange Chromide",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Eupomotis gibbosus": {
+  "canonical": "Lepomis gibbosus - Pumpkinseed",
+  "names": [
+   {
+    "name": "Lepomis gibbosus - Pumpkinseed",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "European perch": {
+  "canonical": "Perca fluviatilis",
+  "names": [
+   {
+    "name": "Perca fluviatilis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Eurycea lucifuga": {
+  "canonical": "Cave Salamander",
+  "names": [
+   {
+    "name": "Cave Salamander",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Extinct hydrobiid snail": {
+  "canonical": "described by Drake",
+  "names": [
+   {
+    "name": "described by Drake",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Falco peregrinus anatum": {
+  "canonical": "Peregrine Falcon",
+  "names": [
+   {
+    "name": "Peregrine Falcon",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Fathead minnow": {
+  "canonical": "Pimephales promelas",
+  "names": [
+   {
+    "name": "Pimephales promelas",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Pimephales promelas promelas",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Faxonella creaseri": {
+  "canonical": "Louisiana Crayfish",
+  "names": [
+   {
+    "name": "Louisiana Crayfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Filamentous algae": {
+  "canonical": "Spirogyra",
+  "names": [
+   {
+    "name": "Spirogyra",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Fisherola nuttalli": {
+  "canonical": "giant Columbia River limpet",
+  "names": [
+   {
+    "name": "giant Columbia River limpet",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "shortface lanx",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Flannelmouth sucker": {
+  "canonical": "Catostomus latipinnis",
+  "names": [
+   {
+    "name": "Catostomus latipinnis",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Florida elodea": {
+  "canonical": "Hydrilla verticillata",
+  "names": [
+   {
+    "name": "Hydrilla verticillata",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Freshwater fish": {
+  "canonical": "global taxon",
+  "names": [
+   {
+    "name": "global taxon",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Freshwater snail": {
+  "canonical": "Potamopyrgus sp",
+  "names": [
+   {
+    "name": "Potamopyrgus sp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Fundulus heteroclitus": {
+  "canonical": "Mummichog",
+  "names": [
+   {
+    "name": "Mummichog",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Killifish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Fundulus notatus": {
+  "canonical": "Blackstripe Topminnow",
+  "names": [
+   {
+    "name": "Blackstripe Topminnow",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Fundulus zebrinus": {
+  "canonical": "Rio Grande Killifish",
+  "names": [
+   {
+    "name": "Rio Grande Killifish",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gadus callarias": {
+  "canonical": "Cod",
+  "names": [
+   {
+    "name": "Cod",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gadus morhua": {
+  "canonical": "Atlantic Cod",
+  "names": [
+   {
+    "name": "Atlantic Cod",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gambusia affinis": {
+  "canonical": "Mosquito Fish",
+  "names": [
+   {
+    "name": "Mosquito Fish",
+    "count": 8,
+    "from": "frontmatter"
+   },
+   {
+    "name": "mosquitofish",
+    "count": 7,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gambusia affinis affinis": {
+  "canonical": "Western Mosquitofish",
+  "names": [
+   {
+    "name": "Western Mosquitofish",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gambusia amistadensis": {
+  "canonical": "Amistad Gambusia",
+  "names": [
+   {
+    "name": "Amistad Gambusia",
+    "count": 19,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gambusia gaigei": {
+  "canonical": "Big Bend gambusia",
+  "names": [
+   {
+    "name": "Big Bend gambusia",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gambusia geiseri": {
+  "canonical": "San Marcos Gambusia",
+  "names": [
+   {
+    "name": "San Marcos Gambusia",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gambusia heterochir": {
+  "canonical": "Clear Creek Gambusia",
+  "names": [
+   {
+    "name": "Clear Creek Gambusia",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gambusia holbrooki": {
+  "canonical": "Eastern Mosquitofish",
+  "names": [
+   {
+    "name": "Eastern Mosquitofish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Game fishes": {
+  "canonical": "catfishes",
+  "names": [
+   {
+    "name": "catfishes",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "sunfishes",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "trouts",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gammarus lacustris": {
+  "canonical": "secondary production",
+  "names": [
+   {
+    "name": "secondary production",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gammarus tigrinus": {
+  "canonical": "tiger amphipod",
+  "names": [
+   {
+    "name": "tiger amphipod",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gasterosteus aculeatus": {
+  "canonical": "threespine stickleback",
+  "names": [
+   {
+    "name": "threespine stickleback",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "three-spined stickleback",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gasterosteus aculeatus williamsoni": {
+  "canonical": "Unarmored Threespine Stickleback",
+  "names": [
+   {
+    "name": "Unarmored Threespine Stickleback",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gephyrochromis lawsi": {
+  "canonical": "Laws' Gephyrochromis",
+  "names": [
+   {
+    "name": "Laws' Gephyrochromis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila atraria": {
+  "canonical": "Utah Chub",
+  "names": [
+   {
+    "name": "Utah Chub",
+    "count": 4,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila bicolor mohavensis": {
+  "canonical": "Lahontan Basin",
+  "names": [
+   {
+    "name": "Lahontan Basin",
+    "count": 1,
+    "from": "text"
+   }
+  ]
+ },
+ "Gila chub": {
+  "canonical": "Gila intermedia",
+  "names": [
+   {
+    "name": "Gila intermedia",
+    "count": 7,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila crassicauda": {
+  "canonical": "Thicktail Chub",
+  "names": [
+   {
+    "name": "Thicktail Chub",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila cypha": {
+  "canonical": "humpback chub",
+  "names": [
+   {
+    "name": "humpback chub",
+    "count": 23,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila ditaenia": {
+  "canonical": "Sonora chub",
+  "names": [
+   {
+    "name": "Sonora chub",
+    "count": 9,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Sonoran chub",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila elegans": {
+  "canonical": "bonytail chub",
+  "names": [
+   {
+    "name": "bonytail chub",
+    "count": 21,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila eremica": {
+  "canonical": "Matape chub",
+  "names": [
+   {
+    "name": "Matape chub",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila intermedia": {
+  "canonical": "Gila chub",
+  "names": [
+   {
+    "name": "Gila chub",
+    "count": 12,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila mountain sucker": {
+  "canonical": "Pantosteus clarki",
+  "names": [
+   {
+    "name": "Pantosteus clarki",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Pantosteus sp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila nigra": {
+  "canonical": "Headwater Chub",
+  "names": [
+   {
+    "name": "Headwater Chub",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila nigrescens": {
+  "canonical": "Chihuahua chub",
+  "names": [
+   {
+    "name": "Chihuahua chub",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Mimbres Chub",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Chihuahuan chub",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila orcutti": {
+  "canonical": "arroyo chub",
+  "names": [
+   {
+    "name": "arroyo chub",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila pandora": {
+  "canonical": "Rio Grande Chub",
+  "names": [
+   {
+    "name": "Rio Grande Chub",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila purpurea": {
+  "canonical": "Yaqui chub",
+  "names": [
+   {
+    "name": "Yaqui chub",
+    "count": 11,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila robusta": {
+  "canonical": "Roundtail chub",
+  "names": [
+   {
+    "name": "Roundtail chub",
+    "count": 10,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Colorado River Chub",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Moapa River population",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Round-tailed Chub",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila robusta complex": {
+  "canonical": "Gila grahami",
+  "names": [
+   {
+    "name": "Gila grahami",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila robusta grahami": {
+  "canonical": "Gila Roundtail Chub",
+  "names": [
+   {
+    "name": "Gila Roundtail Chub",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila robusta jordani": {
+  "canonical": "Pahranagat chub",
+  "names": [
+   {
+    "name": "Pahranagat chub",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "White River roundtail chub",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila robusta seminuda": {
+  "canonical": "Virgin River Roundtail Chub",
+  "names": [
+   {
+    "name": "Virgin River Roundtail Chub",
+    "count": 5,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Virgin Roundtail Chub",
+    "count": 4,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila roundtail chub": {
+  "canonical": "Gila robusta grahami",
+  "names": [
+   {
+    "name": "Gila robusta grahami",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila seminuda": {
+  "canonical": "Virgin chub",
+  "names": [
+   {
+    "name": "Virgin chub",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila spikedace": {
+  "canonical": "Meda fulgida",
+  "names": [
+   {
+    "name": "Meda fulgida",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila topminnow": {
+  "canonical": "Poeciliopsis occidentalis occidentalis",
+  "names": [
+   {
+    "name": "Poeciliopsis occidentalis occidentalis",
+    "count": 13,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Poeciliopsis occidentalis",
+    "count": 7,
+    "from": "frontmatter"
+   },
+   {
+    "name": "P. o. sorensis",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "possibly Poeciliopsis occidentalis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gila trout": {
+  "canonical": "Salmo gilae",
+  "names": [
+   {
+    "name": "Salmo gilae",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gillichthys mirabilis": {
+  "canonical": "Longjaw Mudsucker",
+  "names": [
+   {
+    "name": "Longjaw Mudsucker",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Mudsucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gobiomorus dormitor": {
+  "canonical": "Bigmouth Sleeper",
+  "names": [
+   {
+    "name": "Bigmouth Sleeper",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gobiosoma bosc": {
+  "canonical": "Naked Goby",
+  "names": [
+   {
+    "name": "Naked Goby",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Golden shiner": {
+  "canonical": "Notemigonus crysoleucas",
+  "names": [
+   {
+    "name": "Notemigonus crysoleucas",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Notemigonus crysoleucas auratus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Grass carp": {
+  "canonical": "Ctenopharyngodon idella",
+  "names": [
+   {
+    "name": "Ctenopharyngodon idella",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Green sunfish": {
+  "canonical": "Lepomis cyanellus",
+  "names": [
+   {
+    "name": "Lepomis cyanellus",
+    "count": 5,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Chaenobryttus cyanellus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Grey mullet": {
+  "canonical": "Mugil cephalus",
+  "names": [
+   {
+    "name": "Mugil cephalus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Gymnotus carapo": {
+  "canonical": "electric knife fish",
+  "names": [
+   {
+    "name": "electric knife fish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Hadropterus scierus apristis": {
+  "canonical": "Guadalupe Dusky Darter",
+  "names": [
+   {
+    "name": "Guadalupe Dusky Darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Haliaeetus leucocephalus": {
+  "canonical": "Bald eagle",
+  "names": [
+   {
+    "name": "Bald eagle",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Helobata striata": {
+  "canonical": "Water Scavenger Beetle",
+  "names": [
+   {
+    "name": "Water Scavenger Beetle",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Herotilapia multispinosa": {
+  "canonical": "rainbow cichlid",
+  "names": [
+   {
+    "name": "rainbow cichlid",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Hesperoleucus symmetricus": {
+  "canonical": "California roach",
+  "names": [
+   {
+    "name": "California roach",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Hippoglossus stenolepis": {
+  "canonical": "Pacific Halibut",
+  "names": [
+   {
+    "name": "Pacific Halibut",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Huachuca water umbel": {
+  "canonical": "Lilaeopsis schaffneriana ssp. recurva",
+  "names": [
+   {
+    "name": "Lilaeopsis schaffneriana ssp. recurva",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Humpback chub": {
+  "canonical": "Gila cypha",
+  "names": [
+   {
+    "name": "Gila cypha",
+    "count": 5,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Huso dauricus": {
+  "canonical": "Great Siberian Sturgeon",
+  "names": [
+   {
+    "name": "Great Siberian Sturgeon",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Hyalella texana": {
+  "canonical": "n. sp",
+  "names": [
+   {
+    "name": "n. sp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Hybognathus amarus": {
+  "canonical": "Rio Grande silvery minnow",
+  "names": [
+   {
+    "name": "Rio Grande silvery minnow",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Hybognathus hayi": {
+  "canonical": "Cypress Minnow",
+  "names": [
+   {
+    "name": "Cypress Minnow",
+    "count": 7,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Hypentelium nigricans": {
+  "canonical": "Northern Hogsucker",
+  "names": [
+   {
+    "name": "Northern Hogsucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Hypomesus olidus": {
+  "canonical": "Freshwater Smelt",
+  "names": [
+   {
+    "name": "Freshwater Smelt",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Pond Smelt",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Hypophthalmichthys molitrix": {
+  "canonical": "Silver Carp",
+  "names": [
+   {
+    "name": "Silver Carp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Hypophthalmichthys nobilis": {
+  "canonical": "Bighead carp",
+  "names": [
+   {
+    "name": "Bighead carp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Hysterocarpus traski": {
+  "canonical": "Tule perch",
+  "names": [
+   {
+    "name": "Tule perch",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ichthyomyzon castaneus": {
+  "canonical": "Chestnut Lamprey",
+  "names": [
+   {
+    "name": "Chestnut Lamprey",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ichthyomyzon greeleyi": {
+  "canonical": "Allegheny Brook Lamprey",
+  "names": [
+   {
+    "name": "Allegheny Brook Lamprey",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ichthyomyzon unicuspis": {
+  "canonical": "Silver Lamprey",
+  "names": [
+   {
+    "name": "Silver Lamprey",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ichthyophthirius multifiliis": {
+  "canonical": "Ciliata",
+  "names": [
+   {
+    "name": "Ciliata",
+    "count": 3,
+    "from": "text"
+   }
+  ]
+ },
+ "Ictalurus catus": {
+  "canonical": "White Catfish",
+  "names": [
+   {
+    "name": "White Catfish",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ictalurus furcatus": {
+  "canonical": "Blue Catfish",
+  "names": [
+   {
+    "name": "Blue Catfish",
+    "count": 5,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ictalurus melas": {
+  "canonical": "black bullhead",
+  "names": [
+   {
+    "name": "black bullhead",
+    "count": 5,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ictalurus nebulosus": {
+  "canonical": "Brown Bullhead",
+  "names": [
+   {
+    "name": "Brown Bullhead",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ictalurus pricei": {
+  "canonical": "Yaqui catfish",
+  "names": [
+   {
+    "name": "Yaqui catfish",
+    "count": 11,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ictalurus punctatus": {
+  "canonical": "Channel catfish",
+  "names": [
+   {
+    "name": "Channel catfish",
+    "count": 14,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ictiobus bubalus": {
+  "canonical": "smallmouth buffalo",
+  "names": [
+   {
+    "name": "smallmouth buffalo",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ictiobus niger": {
+  "canonical": "Black Buffalo",
+  "names": [
+   {
+    "name": "Black Buffalo",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Java tilapia": {
+  "canonical": "Tilapia mossambica",
+  "names": [
+   {
+    "name": "Tilapia mossambica",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Justicia americana": {
+  "canonical": "American water-willow",
+  "names": [
+   {
+    "name": "American water-willow",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Kamloops rainbow trout": {
+  "canonical": "Salmo gairdnerii kamloops",
+  "names": [
+   {
+    "name": "Salmo gairdnerii kamloops",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Karok hesperian": {
+  "canonical": "Vespericola karokorum",
+  "names": [
+   {
+    "name": "Vespericola karokorum",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Kinosternon sonoriense": {
+  "canonical": "Sonoran Mud Turtle",
+  "names": [
+   {
+    "name": "Sonoran Mud Turtle",
+    "count": 4,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Kinosternon sonoriense longifemorale": {
+  "canonical": "non-fish bycatch",
+  "names": [
+   {
+    "name": "non-fish bycatch",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Klamath largescale sucker": {
+  "canonical": "Catostomus snyderi",
+  "names": [
+   {
+    "name": "Catostomus snyderi",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Klamath smallscale sucker": {
+  "canonical": "Catostomus rimiculus",
+  "names": [
+   {
+    "name": "Catostomus rimiculus",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Labidesthes sicculus": {
+  "canonical": "Brook Silverside",
+  "names": [
+   {
+    "name": "Brook Silverside",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lagochila lacera": {
+  "canonical": "Harelip Sucker",
+  "names": [
+   {
+    "name": "Harelip Sucker",
+    "count": 1,
+    "from": "text"
+   }
+  ]
+ },
+ "Lahontan cutthroat trout": {
+  "canonical": "Salmo clarkii henshawi",
+  "names": [
+   {
+    "name": "Salmo clarkii henshawi",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Oncorhynchus clarkii henshawi",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lampetra appendix": {
+  "canonical": "American Brook Lamprey",
+  "names": [
+   {
+    "name": "American Brook Lamprey",
+    "count": 1,
+    "from": "text"
+   }
+  ]
+ },
+ "Lampropeltis getula": {
+  "canonical": "Common Kingsnake",
+  "names": [
+   {
+    "name": "Common Kingsnake",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Largemouth bass": {
+  "canonical": "Micropterus salmoides",
+  "names": [
+   {
+    "name": "Micropterus salmoides",
+    "count": 5,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Larus heermanni": {
+  "canonical": "Heermann's Gull",
+  "names": [
+   {
+    "name": "Heermann's Gull",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Larus livens": {
+  "canonical": "Yellow-footed Gull",
+  "names": [
+   {
+    "name": "Yellow-footed Gull",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lates niloticus": {
+  "canonical": "Nile Perch",
+  "names": [
+   {
+    "name": "Nile Perch",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lavinia exilicauda": {
+  "canonical": "Hitch",
+  "names": [
+   {
+    "name": "Hitch",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lebistes reticulatus": {
+  "canonical": "guppy",
+  "names": [
+   {
+    "name": "guppy",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepidomeda mollispinis": {
+  "canonical": "Spine Dace",
+  "names": [
+   {
+    "name": "Spine Dace",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepidomeda mollispinis mollispinis": {
+  "canonical": "Virgin Spinedace",
+  "names": [
+   {
+    "name": "Virgin Spinedace",
+    "count": 7,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepidomeda vittata": {
+  "canonical": "Little Colorado Spinedace",
+  "names": [
+   {
+    "name": "Little Colorado Spinedace",
+    "count": 12,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Little Colorado River Spinedace",
+    "count": 6,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepisosteus osseus": {
+  "canonical": "Longnose gar",
+  "names": [
+   {
+    "name": "Longnose gar",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepisosteus platostomus": {
+  "canonical": "Shortnose gar",
+  "names": [
+   {
+    "name": "Shortnose gar",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepomis auritus": {
+  "canonical": "Red-breast sunfish",
+  "names": [
+   {
+    "name": "Red-breast sunfish",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Redbreast Sunfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepomis cyanellus": {
+  "canonical": "Green sunfish",
+  "names": [
+   {
+    "name": "Green sunfish",
+    "count": 10,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepomis gibbosus": {
+  "canonical": "Pumpkinseed sunfish",
+  "names": [
+   {
+    "name": "Pumpkinseed sunfish",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Common Sunfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepomis humilis": {
+  "canonical": "Orangespotted Sunfish",
+  "names": [
+   {
+    "name": "Orangespotted Sunfish",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Orange-spotted sunfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepomis macrochirus": {
+  "canonical": "Bluegill Sunfish",
+  "names": [
+   {
+    "name": "Bluegill Sunfish",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "reference only",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepomis marginatus": {
+  "canonical": "Dollar Sunfish",
+  "names": [
+   {
+    "name": "Dollar Sunfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepomis megalotis": {
+  "canonical": "Longear sunfish",
+  "names": [
+   {
+    "name": "Longear sunfish",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Long-ear sunfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lepomis microlophus": {
+  "canonical": "Red-ear Sunfish",
+  "names": [
+   {
+    "name": "Red-ear Sunfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Leuresthes tenuis": {
+  "canonical": "California Grunion",
+  "names": [
+   {
+    "name": "California Grunion",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lithobates catesbeianus": {
+  "canonical": "American bullfrog",
+  "names": [
+   {
+    "name": "American bullfrog",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Loach minnow": {
+  "canonical": "Tiaroga cobitis",
+  "names": [
+   {
+    "name": "Tiaroga cobitis",
+    "count": 4,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Longfin dace": {
+  "canonical": "Agosia chrysogaster",
+  "names": [
+   {
+    "name": "Agosia chrysogaster",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Longnose dace": {
+  "canonical": "Rhinichthys cataractae",
+  "names": [
+   {
+    "name": "Rhinichthys cataractae",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lucifuga spelaeotes": {
+  "canonical": "Bahamian cave fish",
+  "names": [
+   {
+    "name": "Bahamian cave fish",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Cave brotulid",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Lutjanus analis": {
+  "canonical": "Mutton Snapper",
+  "names": [
+   {
+    "name": "Mutton Snapper",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Malacca hybrid": {
+  "canonical": "Tilapia hybrid",
+  "names": [
+   {
+    "name": "Tilapia hybrid",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Mallotus villosus": {
+  "canonical": "capelin",
+  "names": [
+   {
+    "name": "capelin",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Meda fulgida": {
+  "canonical": "spikedace",
+  "names": [
+   {
+    "name": "spikedace",
+    "count": 21,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Megalops atlanticus": {
+  "canonical": "Tarpon",
+  "names": [
+   {
+    "name": "Tarpon",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Melanoides tuberculata": {
+  "canonical": "Red-rimmed Melania",
+  "names": [
+   {
+    "name": "Red-rimmed Melania",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "exotic snail host",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Menidia beryllina": {
+  "canonical": "Inland Silverside",
+  "names": [
+   {
+    "name": "Inland Silverside",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Tidewater Silverside",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Mescalero cutthroat trout": {
+  "canonical": "Oncorhynchus clarkii ssp",
+  "names": [
+   {
+    "name": "Oncorhynchus clarkii ssp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Metrichia volada": {
+  "canonical": "Spring Micro Caddisfly",
+  "names": [
+   {
+    "name": "Spring Micro Caddisfly",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Mexican stoneroller": {
+  "canonical": "Campostoma ornatum",
+  "names": [
+   {
+    "name": "Campostoma ornatum",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Microgadus tomcod": {
+  "canonical": "Atlantic Tomcod",
+  "names": [
+   {
+    "name": "Atlantic Tomcod",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Micropogonias undulatus": {
+  "canonical": "Atlantic Croaker",
+  "names": [
+   {
+    "name": "Atlantic Croaker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Micropterus coosae": {
+  "canonical": "Redeye Bass",
+  "names": [
+   {
+    "name": "Redeye Bass",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Micropterus dolomieu": {
+  "canonical": "Smallmouth Black Bass",
+  "names": [
+   {
+    "name": "Smallmouth Black Bass",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Micropterus dolomieui": {
+  "canonical": "smallmouth bass",
+  "names": [
+   {
+    "name": "smallmouth bass",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "M. punctulatus",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "M. treculi",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "White River population",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Micropterus punctulatus": {
+  "canonical": "Spotted bass",
+  "names": [
+   {
+    "name": "Spotted bass",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Kentucky bass",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Micropterus salmoides": {
+  "canonical": "Largemouth bass",
+  "names": [
+   {
+    "name": "Largemouth bass",
+    "count": 6,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Largemouth Black Bass",
+    "count": 5,
+    "from": "frontmatter"
+   },
+   {
+    "name": "comparison only",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "implied \"Bass",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Micropterus salmoides floridanus": {
+  "canonical": "Florida Largemouth Bass",
+  "names": [
+   {
+    "name": "Florida Largemouth Bass",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Florida Bass",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Micropterus salmoides salmoides": {
+  "canonical": "Northern Bass",
+  "names": [
+   {
+    "name": "Northern Bass",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Northern Largemouth Bass",
+    "count": 1,
+    "from": "text"
+   }
+  ]
+ },
+ "Minytrema melanops": {
+  "canonical": "Spotted sucker",
+  "names": [
+   {
+    "name": "Spotted sucker",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Misgurnus anguillicaudatus": {
+  "canonical": "Japanese weatherfish",
+  "names": [
+   {
+    "name": "Japanese weatherfish",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Oriental Weatherfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Moapa dace": {
+  "canonical": "Moapa coriacea",
+  "names": [
+   {
+    "name": "Moapa coriacea",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Moapa roundtail chub": {
+  "canonical": "Gila robusta ssp",
+  "names": [
+   {
+    "name": "Gila robusta ssp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Mohave chub": {
+  "canonical": "Gila bicolor mohavensis",
+  "names": [
+   {
+    "name": "Gila bicolor mohavensis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Mola mola": {
+  "canonical": "ocean sunfish",
+  "names": [
+   {
+    "name": "ocean sunfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Mollienesia formosa": {
+  "canonical": "Amazon Molly",
+  "names": [
+   {
+    "name": "Amazon Molly",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Monadenia fidelis pronotis": {
+  "canonical": "rocky coast sideband",
+  "names": [
+   {
+    "name": "rocky coast sideband",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Morone americana": {
+  "canonical": "White Perch",
+  "names": [
+   {
+    "name": "White Perch",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Morone saxatilis": {
+  "canonical": "Striped bass",
+  "names": [
+   {
+    "name": "Striped bass",
+    "count": 6,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Gulf Coast Striped Bass",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Moxostoma aureolum": {
+  "canonical": "Redhorse",
+  "names": [
+   {
+    "name": "Redhorse",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Moxostoma erythrurum": {
+  "canonical": "Golden Redhorse",
+  "names": [
+   {
+    "name": "Golden Redhorse",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Moxostoma lachneri": {
+  "canonical": "greater jumprock",
+  "names": [
+   {
+    "name": "greater jumprock",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Moxostoma macrolepidotum": {
+  "canonical": "Shorthead Redhorse",
+  "names": [
+   {
+    "name": "Shorthead Redhorse",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Northern Redhorse",
+    "count": 1,
+    "from": "text"
+   }
+  ]
+ },
+ "Mugil cephalus": {
+  "canonical": "Striped mullet",
+  "names": [
+   {
+    "name": "Striped mullet",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Common mullet",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "grey mullet",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Mustela vison": {
+  "canonical": "mink",
+  "names": [
+   {
+    "name": "mink",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Mylopharodon conocephalus": {
+  "canonical": "Hardhead",
+  "names": [
+   {
+    "name": "Hardhead",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Myrica faya": {
+  "canonical": "non-fish keystone invader",
+  "names": [
+   {
+    "name": "non-fish keystone invader",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Najas guadalupensis": {
+  "canonical": "southern naiad",
+  "names": [
+   {
+    "name": "southern naiad",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Natrix sipedon": {
+  "canonical": "Common Watersnake",
+  "names": [
+   {
+    "name": "Common Watersnake",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Neothunnus macropterus": {
+  "canonical": "Yellowfin tuna",
+  "names": [
+   {
+    "name": "Yellowfin tuna",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Nile tilapia": {
+  "canonical": "Oreochromis niloticus",
+  "names": [
+   {
+    "name": "Oreochromis niloticus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Nocomis leptocephalus": {
+  "canonical": "Bluehead Chub",
+  "names": [
+   {
+    "name": "Bluehead Chub",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Northern pike": {
+  "canonical": "Esox lucius",
+  "names": [
+   {
+    "name": "Esox lucius",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notemigonus crysoleucas": {
+  "canonical": "golden shiner",
+  "names": [
+   {
+    "name": "golden shiner",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis albeolus": {
+  "canonical": "white shiner",
+  "names": [
+   {
+    "name": "white shiner",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis ardens": {
+  "canonical": "rosefin shiner",
+  "names": [
+   {
+    "name": "rosefin shiner",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis atherinoides": {
+  "canonical": "emerald shiner",
+  "names": [
+   {
+    "name": "emerald shiner",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis cerasinus": {
+  "canonical": "crescent shiner",
+  "names": [
+   {
+    "name": "crescent shiner",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis dorsalis": {
+  "canonical": "Bigmouth Shiner",
+  "names": [
+   {
+    "name": "Bigmouth Shiner",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis formosus": {
+  "canonical": "Aravaipa Shiner",
+  "names": [
+   {
+    "name": "Aravaipa Shiner",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Guzman Shiner",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Yaqui shiner",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis heterodon": {
+  "canonical": "Black-chinned shiner",
+  "names": [
+   {
+    "name": "Black-chinned shiner",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis heterolepis": {
+  "canonical": "Black-nosed shiner",
+  "names": [
+   {
+    "name": "Black-nosed shiner",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis hubbsi": {
+  "canonical": "Bluehead Shiner",
+  "names": [
+   {
+    "name": "Bluehead Shiner",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis hudsonius": {
+  "canonical": "Spottail Shiner",
+  "names": [
+   {
+    "name": "Spottail Shiner",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis spilopterus": {
+  "canonical": "Spotfin Shiner",
+  "names": [
+   {
+    "name": "Spotfin Shiner",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis stramineus": {
+  "canonical": "Sand Shiner",
+  "names": [
+   {
+    "name": "Sand Shiner",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis topeka": {
+  "canonical": "Topeka Shiner",
+  "names": [
+   {
+    "name": "Topeka Shiner",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Gilbert",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Notropis umbratilis": {
+  "canonical": "Redfin Shiner",
+  "names": [
+   {
+    "name": "Redfin Shiner",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Noturus albater": {
+  "canonical": "Ozark Madtom",
+  "names": [
+   {
+    "name": "Ozark Madtom",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Noturus elegans": {
+  "canonical": "Elegant Madtom",
+  "names": [
+   {
+    "name": "Elegant Madtom",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Noturus exilis": {
+  "canonical": "Slender Madtom",
+  "names": [
+   {
+    "name": "Slender Madtom",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Noturus gyrinus": {
+  "canonical": "Tadpole Madtom",
+  "names": [
+   {
+    "name": "Tadpole Madtom",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Noturus miurus": {
+  "canonical": "Brindled Madtom",
+  "names": [
+   {
+    "name": "Brindled Madtom",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Nuphar advena": {
+  "canonical": "spatterdock",
+  "names": [
+   {
+    "name": "spatterdock",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Okaloosa darter": {
+  "canonical": "Etheostoma okaloosae",
+  "names": [
+   {
+    "name": "Etheostoma okaloosae",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus apache": {
+  "canonical": "Apache trout",
+  "names": [
+   {
+    "name": "Apache trout",
+    "count": 9,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus clarkii": {
+  "canonical": "proposed introduction",
+  "names": [
+   {
+    "name": "proposed introduction",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus clarkii behnkei": {
+  "canonical": "Snake River cutthroat trout",
+  "names": [
+   {
+    "name": "Snake River cutthroat trout",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus clarkii bouvieri": {
+  "canonical": "Yellowstone Cutthroat Trout",
+  "names": [
+   {
+    "name": "Yellowstone Cutthroat Trout",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus clarkii henshawi": {
+  "canonical": "Lahontan Cutthroat Trout",
+  "names": [
+   {
+    "name": "Lahontan Cutthroat Trout",
+    "count": 4,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus clarkii lewisi": {
+  "canonical": "Westslope cutthroat trout",
+  "names": [
+   {
+    "name": "Westslope cutthroat trout",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus clarkii stomias": {
+  "canonical": "Greenback Cutthroat Trout",
+  "names": [
+   {
+    "name": "Greenback Cutthroat Trout",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus clarkii utah": {
+  "canonical": "Bear Lake Cutthroat Trout",
+  "names": [
+   {
+    "name": "Bear Lake Cutthroat Trout",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus clarkii virginalis": {
+  "canonical": "Rio Grande Cutthroat Trout",
+  "names": [
+   {
+    "name": "Rio Grande Cutthroat Trout",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus gilae": {
+  "canonical": "Gila trout",
+  "names": [
+   {
+    "name": "Gila trout",
+    "count": 15,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus gorbuscha": {
+  "canonical": "Pink Salmon",
+  "names": [
+   {
+    "name": "Pink Salmon",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus keta": {
+  "canonical": "chum salmon",
+  "names": [
+   {
+    "name": "chum salmon",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus kisutch": {
+  "canonical": "Silver Salmon",
+  "names": [
+   {
+    "name": "Silver Salmon",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "coho salmon",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus mykiss": {
+  "canonical": "Steelhead Trout",
+  "names": [
+   {
+    "name": "Steelhead Trout",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Summer Steelhead Trout",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus mykiss aquilarum": {
+  "canonical": "Eagle Lake Trout",
+  "names": [
+   {
+    "name": "Eagle Lake Trout",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus mykiss kamloops": {
+  "canonical": "Kamloops Trout",
+  "names": [
+   {
+    "name": "Kamloops Trout",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus mykiss nelsoni": {
+  "canonical": "Nelson's trout",
+  "names": [
+   {
+    "name": "Nelson's trout",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "San Pedro Martir",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus nerka": {
+  "canonical": "Kokanee salmon",
+  "names": [
+   {
+    "name": "Kokanee salmon",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "sockeye salmon",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oncorhynchus tshawytscha": {
+  "canonical": "Spring Chinook Salmon",
+  "names": [
+   {
+    "name": "Spring Chinook Salmon",
+    "count": 8,
+    "from": "frontmatter"
+   },
+   {
+    "name": "chinook salmon",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Fall Chinook Salmon",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "King Salmon",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Orangespotted sunfish": {
+  "canonical": "Lepomis humilis",
+  "names": [
+   {
+    "name": "Lepomis humilis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Orconectes propinquus": {
+  "canonical": "Northern Clearwater Crayfish",
+  "names": [
+   {
+    "name": "Northern Clearwater Crayfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Orconectes rusticus": {
+  "canonical": "Rusty Crayfish",
+  "names": [
+   {
+    "name": "Rusty Crayfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oreochromis aureus": {
+  "canonical": "Blue Tilapia",
+  "names": [
+   {
+    "name": "Blue Tilapia",
+    "count": 5,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oreochromis mossambicus": {
+  "canonical": "Mozambique Tilapia",
+  "names": [
+   {
+    "name": "Mozambique Tilapia",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "syn. Tilapia mossambica",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oreochromis niloticus": {
+  "canonical": "Nile Tilapia",
+  "names": [
+   {
+    "name": "Nile Tilapia",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Tilapia nilotica",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oreohelix grahamensis": {
+  "canonical": "Pinaleno Mountainsnail",
+  "names": [
+   {
+    "name": "Pinaleno Mountainsnail",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oryzias latipes": {
+  "canonical": "medaka",
+  "names": [
+   {
+    "name": "medaka",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Osmerus mordax": {
+  "canonical": "Rainbow Smelt",
+  "names": [
+   {
+    "name": "Rainbow Smelt",
+    "count": 25,
+    "from": "frontmatter"
+   },
+   {
+    "name": "American Smelt",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Owens pupfish": {
+  "canonical": "Cyprinodon radiosus",
+  "names": [
+   {
+    "name": "Cyprinodon radiosus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Owens sucker": {
+  "canonical": "Catostomus fumeiventris",
+  "names": [
+   {
+    "name": "Catostomus fumeiventris",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Oxyloma haydeni kanabensis": {
+  "canonical": "Kanab Ambersnail",
+  "names": [
+   {
+    "name": "Kanab Ambersnail",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pacifastacus leniusculus": {
+  "canonical": "Signal Crayfish",
+  "names": [
+   {
+    "name": "Signal Crayfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pacific salmonids": {
+  "canonical": "specific case",
+  "names": [
+   {
+    "name": "specific case",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pahranagat bonytail": {
+  "canonical": "Gila robusta jordani",
+  "names": [
+   {
+    "name": "Gila robusta jordani",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pahrump killifish": {
+  "canonical": "Empetrichthys latos",
+  "names": [
+   {
+    "name": "Empetrichthys latos",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Palaemonetes paludosus": {
+  "canonical": "Freshwater Shrimp",
+  "names": [
+   {
+    "name": "Freshwater Shrimp",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Glass Shrimp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pandion haliaetus": {
+  "canonical": "Osprey",
+  "names": [
+   {
+    "name": "Osprey",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pantosteus clarki": {
+  "canonical": "Gila Mountain Sucker",
+  "names": [
+   {
+    "name": "Gila Mountain Sucker",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pantosteus discobolus": {
+  "canonical": "Bluehead Sucker",
+  "names": [
+   {
+    "name": "Bluehead Sucker",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pantosteus plebeius": {
+  "canonical": "Rio Grande mountain sucker",
+  "names": [
+   {
+    "name": "Rio Grande mountain sucker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Paralichthys lethostigma": {
+  "canonical": "Southern Flounder",
+  "names": [
+   {
+    "name": "Southern Flounder",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pearl dace": {
+  "canonical": "Semotilus margarita",
+  "names": [
+   {
+    "name": "Semotilus margarita",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pecos gambusia": {
+  "canonical": "Gambusia nobilis",
+  "names": [
+   {
+    "name": "Gambusia nobilis",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pelecanus occidentalis": {
+  "canonical": "Brown Pelican",
+  "names": [
+   {
+    "name": "Brown Pelican",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Penaeus stylirostris": {
+  "canonical": "Litopenaeus stylirostris",
+  "names": [
+   {
+    "name": "Litopenaeus stylirostris",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Perameles gunnii": {
+  "canonical": "Eastern Barred Bandicoot",
+  "names": [
+   {
+    "name": "Eastern Barred Bandicoot",
+    "count": 1,
+    "from": "text"
+   }
+  ]
+ },
+ "Perca flavescens": {
+  "canonical": "Yellow perch",
+  "names": [
+   {
+    "name": "Yellow perch",
+    "count": 5,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Perca fluviatilis": {
+  "canonical": "European Perch",
+  "names": [
+   {
+    "name": "European Perch",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "perch",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Percina antesella": {
+  "canonical": "Amber Darter",
+  "names": [
+   {
+    "name": "Amber Darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Percina caprodes": {
+  "canonical": "Logperch",
+  "names": [
+   {
+    "name": "Logperch",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Log Perch",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Percina maculata": {
+  "canonical": "Blacksided Darter",
+  "names": [
+   {
+    "name": "Blacksided Darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Percina rex": {
+  "canonical": "Roanoke logperch",
+  "names": [
+   {
+    "name": "Roanoke logperch",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Percina tanasi": {
+  "canonical": "Snail Darter",
+  "names": [
+   {
+    "name": "Snail Darter",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Perna perna": {
+  "canonical": "Edible Brown Mussel",
+  "names": [
+   {
+    "name": "Edible Brown Mussel",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Petromyzon marinus": {
+  "canonical": "Sea Lamprey",
+  "names": [
+   {
+    "name": "Sea Lamprey",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Phalacrocorax auritus": {
+  "canonical": "Double-crested Cormorant",
+  "names": [
+   {
+    "name": "Double-crested Cormorant",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Phalacrocorax penicillatus": {
+  "canonical": "Brandt's Cormorant",
+  "names": [
+   {
+    "name": "Brandt's Cormorant",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Phasianus colchicus": {
+  "canonical": "Afghan white-winged pheasant",
+  "names": [
+   {
+    "name": "Afghan white-winged pheasant",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Phenacobius mirabilis": {
+  "canonical": "Suckermouth Minnow",
+  "names": [
+   {
+    "name": "Suckermouth Minnow",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Phocoena sinus": {
+  "canonical": "Vaquita",
+  "names": [
+   {
+    "name": "Vaquita",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Phoxinus cumberlandensis": {
+  "canonical": "Blackside Dace",
+  "names": [
+   {
+    "name": "Blackside Dace",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Phoxinus eos": {
+  "canonical": "Northern Redbelly Dace",
+  "names": [
+   {
+    "name": "Northern Redbelly Dace",
+    "count": 2,
+    "from": "text"
+   }
+  ]
+ },
+ "Phrynosoma mcallii": {
+  "canonical": "Flat-tailed Horned Lizard",
+  "names": [
+   {
+    "name": "Flat-tailed Horned Lizard",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pimephales notatus": {
+  "canonical": "Bluntnose Minnow",
+  "names": [
+   {
+    "name": "Bluntnose Minnow",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pimephales promelas": {
+  "canonical": "fathead minnow",
+  "names": [
+   {
+    "name": "fathead minnow",
+    "count": 9,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Northern Fathead Minnow",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pisidium ultramontanum": {
+  "canonical": "montane peaclam",
+  "names": [
+   {
+    "name": "montane peaclam",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pistia stratiotes": {
+  "canonical": "water lettuce",
+  "names": [
+   {
+    "name": "water lettuce",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pituophis catenifer": {
+  "canonical": "Gopher Snake",
+  "names": [
+   {
+    "name": "Gopher Snake",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Placopecten magellanicus": {
+  "canonical": "giant scallop",
+  "names": [
+   {
+    "name": "giant scallop",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Plagopterus argentissimus": {
+  "canonical": "Woundfin",
+  "names": [
+   {
+    "name": "Woundfin",
+    "count": 40,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Platichthys stellatus": {
+  "canonical": "Starry Flounder",
+  "names": [
+   {
+    "name": "Starry Flounder",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Plethodon punctatus": {
+  "canonical": "Cow Knob",
+  "names": [
+   {
+    "name": "Cow Knob",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "White-spotted Salamander",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Plethodus expansus": {
+  "canonical": "fossil fish",
+  "names": [
+   {
+    "name": "fossil fish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pleurobrachia bachei": {
+  "canonical": "ctenophore",
+  "names": [
+   {
+    "name": "ctenophore",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pneumatophorus japonicus diego": {
+  "canonical": "Pacific mackerel",
+  "names": [
+   {
+    "name": "Pacific mackerel",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Poecilia latipinna": {
+  "canonical": "Sailfin molly",
+  "names": [
+   {
+    "name": "Sailfin molly",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Poecilia reticulata": {
+  "canonical": "Peters",
+  "names": [
+   {
+    "name": "Peters",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Poecilichthys exilis": {
+  "canonical": "Iowa darter",
+  "names": [
+   {
+    "name": "Iowa darter",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Poeciliopsis occidentalis": {
+  "canonical": "Gila Topminnow",
+  "names": [
+   {
+    "name": "Gila Topminnow",
+    "count": 37,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Sonoran Topminnow",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Bylas Topminnow",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Salt Creek Topminnow",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Poeciliopsis occidentalis sonoriensis": {
+  "canonical": "Yaqui topminnow",
+  "names": [
+   {
+    "name": "Yaqui topminnow",
+    "count": 6,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pogonias cromis": {
+  "canonical": "Black Drum",
+  "names": [
+   {
+    "name": "Black Drum",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Polyodon spathula": {
+  "canonical": "Paddlefish",
+  "names": [
+   {
+    "name": "Paddlefish",
+    "count": 9,
+    "from": "frontmatter"
+   },
+   {
+    "name": "American Paddlefish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pomolobus chrysochloris": {
+  "canonical": "Skipjack",
+  "names": [
+   {
+    "name": "Skipjack",
+    "count": 4,
+    "from": "text"
+   }
+  ]
+ },
+ "Pomoxis annularis": {
+  "canonical": "White crappie",
+  "names": [
+   {
+    "name": "White crappie",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pomoxis nigromaculatus": {
+  "canonical": "black crappie",
+  "names": [
+   {
+    "name": "black crappie",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Potamogeton crispus": {
+  "canonical": "Curly-leaf Pondweed",
+  "names": [
+   {
+    "name": "Curly-leaf Pondweed",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Potamogeton pectinatus": {
+  "canonical": "Fennel Pondweed",
+  "names": [
+   {
+    "name": "Fennel Pondweed",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "fennel-leaved pondweed",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Potamopyrgus antipodarum": {
+  "canonical": "New Zealand Mud Snail",
+  "names": [
+   {
+    "name": "New Zealand Mud Snail",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "New Zealand mudsnail",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Prosopium cylindraceum": {
+  "canonical": "round whitefish",
+  "names": [
+   {
+    "name": "round whitefish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Prosopium quadrilaterale": {
+  "canonical": "Menominee Whitefish",
+  "names": [
+   {
+    "name": "Menominee Whitefish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Prosopium williamsoni": {
+  "canonical": "mountain whitefish",
+  "names": [
+   {
+    "name": "mountain whitefish",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Rocky Mountain Whitefish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Prosopium williamsoni cismontanus": {
+  "canonical": "Yellowstone Whitefish",
+  "names": [
+   {
+    "name": "Yellowstone Whitefish",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Protoptila balmorhea": {
+  "canonical": "Balmorhea Saddle-case Caddisfly",
+  "names": [
+   {
+    "name": "Balmorhea Saddle-case Caddisfly",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Psettichthys melanostictus": {
+  "canonical": "Sand Sole",
+  "names": [
+   {
+    "name": "Sand Sole",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pseudopleuronectes americanus": {
+  "canonical": "winter flounder",
+  "names": [
+   {
+    "name": "winter flounder",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ptychocheilus grandis": {
+  "canonical": "Sacramento squawfish",
+  "names": [
+   {
+    "name": "Sacramento squawfish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ptychocheilus lucius": {
+  "canonical": "Colorado squawfish",
+  "names": [
+   {
+    "name": "Colorado squawfish",
+    "count": 66,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Pikeminnow",
+    "count": 11,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Colorado pikeminnow",
+    "count": 8,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Colorado River Squawfish",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "squawfish",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Ptychocheilus oregonensis": {
+  "canonical": "Northern squawfish",
+  "names": [
+   {
+    "name": "Northern squawfish",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "northern pikeminnow",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pungitius pungitius": {
+  "canonical": "ninespine stickleback",
+  "names": [
+   {
+    "name": "ninespine stickleback",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pupilla muscorum": {
+  "canonical": "pulmonate gastropods",
+  "names": [
+   {
+    "name": "pulmonate gastropods",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Pylodictis olivaris": {
+  "canonical": "flathead catfish",
+  "names": [
+   {
+    "name": "flathead catfish",
+    "count": 4,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Quitobaquito pupfish": {
+  "canonical": "Cyprinodon macularius eremus",
+  "names": [
+   {
+    "name": "Cyprinodon macularius eremus",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Cyprinodon eremus",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Cyprinodon macularius ssp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rainbow trout": {
+  "canonical": "Oncorhynchus mykiss",
+  "names": [
+   {
+    "name": "Oncorhynchus mykiss",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Salmo gairdneri",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Salmo gairdneri Richardson",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Salmo gairdnerii Richardson",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rallus longirostris yumanensis": {
+  "canonical": "Yuma Clapper Rail",
+  "names": [
+   {
+    "name": "Yuma Clapper Rail",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rana catesbeiana": {
+  "canonical": "Bullfrog",
+  "names": [
+   {
+    "name": "Bullfrog",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rana chiricahuensis": {
+  "canonical": "Chiricahua Leopard Frog",
+  "names": [
+   {
+    "name": "Chiricahua Leopard Frog",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rana pipiens complex": {
+  "canonical": "leopard frogs",
+  "names": [
+   {
+    "name": "leopard frogs",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rana yavapaiensis": {
+  "canonical": "Lowland Leopard Frog",
+  "names": [
+   {
+    "name": "Lowland Leopard Frog",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Razorback sucker": {
+  "canonical": "Xyrauchen texanus",
+  "names": [
+   {
+    "name": "Xyrauchen texanus",
+    "count": 8,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Red shiner": {
+  "canonical": "Cyprinella lutrensis",
+  "names": [
+   {
+    "name": "Cyprinella lutrensis",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Notropis lutrensis",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Redbelly tilapia": {
+  "canonical": "Tilapia zillii",
+  "names": [
+   {
+    "name": "Tilapia zillii",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Redear sunfish": {
+  "canonical": "Lepomis microlophus",
+  "names": [
+   {
+    "name": "Lepomis microlophus",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rhinichthys atratulus meleagris": {
+  "canonical": "Western Blacknose Dace",
+  "names": [
+   {
+    "name": "Western Blacknose Dace",
+    "count": 5,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rhinichthys cobitis": {
+  "canonical": "syn. Tiaroga cobitis",
+  "names": [
+   {
+    "name": "syn. Tiaroga cobitis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rhinichthys osculus": {
+  "canonical": "Speckled dace",
+  "names": [
+   {
+    "name": "Speckled dace",
+    "count": 13,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Owens dace",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rhinichthys osculus nevadensis": {
+  "canonical": "Ash Meadows speckled dace",
+  "names": [
+   {
+    "name": "Ash Meadows speckled dace",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rhinichthys osculus thermalis": {
+  "canonical": "Kendall Warm Springs dace",
+  "names": [
+   {
+    "name": "Kendall Warm Springs dace",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rhithropanopeus harrisi": {
+  "canonical": "mud crab",
+  "names": [
+   {
+    "name": "mud crab",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Richardsonius balteatus": {
+  "canonical": "redside shiner",
+  "names": [
+   {
+    "name": "redside shiner",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Richardsonius egregius": {
+  "canonical": "Lahontan Redside",
+  "names": [
+   {
+    "name": "Lahontan Redside",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Roanoke bass": {
+  "canonical": "Ambloplites cavifrons",
+  "names": [
+   {
+    "name": "Ambloplites cavifrons",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Roccus mississippiensis": {
+  "canonical": "Yellow Bass",
+  "names": [
+   {
+    "name": "Yellow Bass",
+    "count": 4,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Roundtail chub": {
+  "canonical": "Gila robusta",
+  "names": [
+   {
+    "name": "Gila robusta",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Rutilus rutilus": {
+  "canonical": "Roach",
+  "names": [
+   {
+    "name": "Roach",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sacramento perch": {
+  "canonical": "Archoplites interruptus",
+  "names": [
+   {
+    "name": "Archoplites interruptus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Salmo apache": {
+  "canonical": "Arizona Trout",
+  "names": [
+   {
+    "name": "Arizona Trout",
+    "count": 2,
+    "from": "text"
+   }
+  ]
+ },
+ "Salmo clarki lewisi": {
+  "canonical": "West Slope Cutthroat Trout",
+  "names": [
+   {
+    "name": "West Slope Cutthroat Trout",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Salmo clarki utah": {
+  "canonical": "Bonneville cutthroat trout",
+  "names": [
+   {
+    "name": "Bonneville cutthroat trout",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Salmo gairdneri kamloops": {
+  "canonical": "Kamloops Rainbow Trout",
+  "names": [
+   {
+    "name": "Kamloops Rainbow Trout",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Salmo gairdnerii gairdnerii": {
+  "canonical": "steelhead rainbow trout",
+  "names": [
+   {
+    "name": "steelhead rainbow trout",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Salmo salar": {
+  "canonical": "Atlantic Salmon",
+  "names": [
+   {
+    "name": "Atlantic Salmon",
+    "count": 13,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Landlocked Salmon",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Salmo trutta": {
+  "canonical": "Brown trout",
+  "names": [
+   {
+    "name": "Brown trout",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "German Brown Trout",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "referenced only",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Salvelinus alpinus": {
+  "canonical": "Arctic Char",
+  "names": [
+   {
+    "name": "Arctic Char",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Salvelinus alpinus willughbii": {
+  "canonical": "Windermere Char",
+  "names": [
+   {
+    "name": "Windermere Char",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Salvelinus confluentus": {
+  "canonical": "Bull trout",
+  "names": [
+   {
+    "name": "Bull trout",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Salvelinus fontinalis": {
+  "canonical": "brook trout",
+  "names": [
+   {
+    "name": "brook trout",
+    "count": 4,
+    "from": "frontmatter"
+   },
+   {
+    "name": "eastern brook trout",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "brook charr",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Salvelinus malma": {
+  "canonical": "Dolly Varden",
+  "names": [
+   {
+    "name": "Dolly Varden",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Dolly Varden charr",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Salvelinus namaycush": {
+  "canonical": "Lake trout",
+  "names": [
+   {
+    "name": "Lake trout",
+    "count": 4,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sander vitreus": {
+  "canonical": "Yellow Pike-Perch",
+  "names": [
+   {
+    "name": "Yellow Pike-Perch",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "pikeperch",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sarotherodon melanotheron": {
+  "canonical": "Blackchin Tilapia",
+  "names": [
+   {
+    "name": "Blackchin Tilapia",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Scaphirhynchus albus": {
+  "canonical": "Pallid Sturgeon",
+  "names": [
+   {
+    "name": "Pallid Sturgeon",
+    "count": 4,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Scaphirhynchus suttkusi": {
+  "canonical": "Alabama Sturgeon",
+  "names": [
+   {
+    "name": "Alabama Sturgeon",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Scaturiginichthys vermeilipinnis": {
+  "canonical": "Redfinned Blue-eye",
+  "names": [
+   {
+    "name": "Redfinned Blue-eye",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sceloporus scalaris": {
+  "canonical": "Bunch Grass Lizard",
+  "names": [
+   {
+    "name": "Bunch Grass Lizard",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sciaenops ocellatus": {
+  "canonical": "Red Drum",
+  "names": [
+   {
+    "name": "Red Drum",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sea perch": {
+  "canonical": "Lateolabrax japonicus",
+  "names": [
+   {
+    "name": "Lateolabrax japonicus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Selenastrum capricornutum": {
+  "canonical": "bioassay organism",
+  "names": [
+   {
+    "name": "bioassay organism",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Semotilus atromaculatus": {
+  "canonical": "Creek Chub",
+  "names": [
+   {
+    "name": "Creek Chub",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Semotilus corporalis": {
+  "canonical": "Fallfish",
+  "names": [
+   {
+    "name": "Fallfish",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Senticolis triaspis intermedia": {
+  "canonical": "Green Rat Snake",
+  "names": [
+   {
+    "name": "Green Rat Snake",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Shasta sideband": {
+  "canonical": "Monadenia troglodytes",
+  "names": [
+   {
+    "name": "Monadenia troglodytes",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Shortnose sturgeon": {
+  "canonical": "Acipenser brevirostrum",
+  "names": [
+   {
+    "name": "Acipenser brevirostrum",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Shortnose sucker": {
+  "canonical": "Chasmistes brevirostris",
+  "names": [
+   {
+    "name": "Chasmistes brevirostris",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Shoshone pupfish": {
+  "canonical": "Cyprinodon nevadensis shoshone",
+  "names": [
+   {
+    "name": "Cyprinodon nevadensis shoshone",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Siamese fighting fish": {
+  "canonical": "Betta splendens",
+  "names": [
+   {
+    "name": "Betta splendens",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Silver carp": {
+  "canonical": "Hypophthalmichthys molitrix",
+  "names": [
+   {
+    "name": "Hypophthalmichthys molitrix",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Silvery minnow": {
+  "canonical": "Hybognathus nuchalis nuchalis",
+  "names": [
+   {
+    "name": "Hybognathus nuchalis nuchalis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Siphateles bicolor": {
+  "canonical": "Tui-chub",
+  "names": [
+   {
+    "name": "Tui-chub",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Siredon mexicanum": {
+  "canonical": "Axolotl",
+  "names": [
+   {
+    "name": "Axolotl",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sistrurus catenatus edwardsi": {
+  "canonical": "secondary subject",
+  "names": [
+   {
+    "name": "secondary subject",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sonora chub": {
+  "canonical": "Gila ditaenia",
+  "names": [
+   {
+    "name": "Gila ditaenia",
+    "count": 5,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sonora sucker": {
+  "canonical": "Catostomus insignis",
+  "names": [
+   {
+    "name": "Catostomus insignis",
+    "count": 13,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Catostomus clarkii",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sonora tiger salamander": {
+  "canonical": "Ambystoma tigrinum stebbinsi",
+  "names": [
+   {
+    "name": "Ambystoma tigrinum stebbinsi",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sonorella allynsmithi": {
+  "canonical": "Squaw Park Talussnail",
+  "names": [
+   {
+    "name": "Squaw Park Talussnail",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sonorella christenseni": {
+  "canonical": "Clark Peak Talussnail",
+  "names": [
+   {
+    "name": "Clark Peak Talussnail",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sonorella grahamensis": {
+  "canonical": "Pinaleno Talussnail",
+  "names": [
+   {
+    "name": "Pinaleno Talussnail",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sonorella granulatissima group": {
+  "canonical": "S. danielsi",
+  "names": [
+   {
+    "name": "S. danielsi",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "S. g. latior",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "S. granulatissima",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sonorella imitator": {
+  "canonical": "Mimic Talussnail",
+  "names": [
+   {
+    "name": "Mimic Talussnail",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sonorella macrophallus": {
+  "canonical": "Wet Canyon talussnail",
+  "names": [
+   {
+    "name": "Wet Canyon talussnail",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Speckled dace": {
+  "canonical": "Rhinichthys osculus",
+  "names": [
+   {
+    "name": "Rhinichthys osculus",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sphaerium transversum": {
+  "canonical": "Fingernail Clam",
+  "names": [
+   {
+    "name": "Fingernail Clam",
+    "count": 3,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Pill Clam",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sphagnum papillosum": {
+  "canonical": "bog moss",
+  "names": [
+   {
+    "name": "bog moss",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Spiranthes delitescens": {
+  "canonical": "Canelo Hills ladies'-tresses",
+  "names": [
+   {
+    "name": "Canelo Hills ladies'-tresses",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Spongilla lacustris": {
+  "canonical": "freshwater sponge",
+  "names": [
+   {
+    "name": "freshwater sponge",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Spotfin chub": {
+  "canonical": "Hybopsis monacha",
+  "names": [
+   {
+    "name": "Hybopsis monacha",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Spotted sunfish": {
+  "canonical": "Lepomis punctulatus",
+  "names": [
+   {
+    "name": "Lepomis punctulatus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Stigeoclonium lubricum": {
+  "canonical": "green algae",
+  "names": [
+   {
+    "name": "green algae",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Stizostedion canadense": {
+  "canonical": "Sauger",
+  "names": [
+   {
+    "name": "Sauger",
+    "count": 7,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Stizostedion vitreum glaucum": {
+  "canonical": "Blue Pike",
+  "names": [
+   {
+    "name": "Blue Pike",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Strongylura marina": {
+  "canonical": "Atlantic Needlefish",
+  "names": [
+   {
+    "name": "Atlantic Needlefish",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sula leucogaster": {
+  "canonical": "Brown Booby",
+  "names": [
+   {
+    "name": "Brown Booby",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Sula nebouxii": {
+  "canonical": "Blue-footed Booby",
+  "names": [
+   {
+    "name": "Blue-footed Booby",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Tamiasciurus hudsonicus grahamensis": {
+  "canonical": "Mount Graham Red Squirrel",
+  "names": [
+   {
+    "name": "Mount Graham Red Squirrel",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Tautogolabrus adspersus": {
+  "canonical": "cunner",
+  "names": [
+   {
+    "name": "cunner",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Terapon jarbua": {
+  "canonical": "Crescent Grunter",
+  "names": [
+   {
+    "name": "Crescent Grunter",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Jarbua Terapon",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Thalasseus elegans": {
+  "canonical": "Elegant Tern",
+  "names": [
+   {
+    "name": "Elegant Tern",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Thalasseus maximus": {
+  "canonical": "Royal Tern",
+  "names": [
+   {
+    "name": "Royal Tern",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Thamnophis eques": {
+  "canonical": "Mexican Garter Snake",
+  "names": [
+   {
+    "name": "Mexican Garter Snake",
+    "count": 1,
+    "from": "text"
+   }
+  ]
+ },
+ "Threadfin shad": {
+  "canonical": "Dorosoma petenense",
+  "names": [
+   {
+    "name": "Dorosoma petenense",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Thunnus thynnus": {
+  "canonical": "Bluefin Tuna",
+  "names": [
+   {
+    "name": "Bluefin Tuna",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Thymallus arcticus": {
+  "canonical": "Arctic Grayling",
+  "names": [
+   {
+    "name": "Arctic Grayling",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Fluvial Arctic Grayling",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Tiaroga cobitis": {
+  "canonical": "Loach minnow",
+  "names": [
+   {
+    "name": "Loach minnow",
+    "count": 13,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Loachminnow",
+    "count": 6,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Arizona loach minnow",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Tilapia macrochir": {
+  "canonical": "examples used in methodology",
+  "names": [
+   {
+    "name": "examples used in methodology",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Tilapia mossambica": {
+  "canonical": "Java Tilapia",
+  "names": [
+   {
+    "name": "Java Tilapia",
+    "count": 2,
+    "from": "text"
+   },
+   {
+    "name": "Mouthbrooder",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Oreochromis mossambicus",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Tilapia zillii": {
+  "canonical": "Redbelly Tilapia",
+  "names": [
+   {
+    "name": "Redbelly Tilapia",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Tinca tinca": {
+  "canonical": "Tench",
+  "names": [
+   {
+    "name": "Tench",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Tippecanoe darter": {
+  "canonical": "Etheostoma tippecanoe",
+  "names": [
+   {
+    "name": "Etheostoma tippecanoe",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Trinectes maculatus": {
+  "canonical": "hogchoker",
+  "names": [
+   {
+    "name": "hogchoker",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Trinity bristlesnail": {
+  "canonical": "Monadenia setosa",
+  "names": [
+   {
+    "name": "Monadenia setosa",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Tryonia protea": {
+  "canonical": "Hydrobiid snail",
+  "names": [
+   {
+    "name": "Hydrobiid snail",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Umbra limi": {
+  "canonical": "Mud minnow",
+  "names": [
+   {
+    "name": "Mud minnow",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Undescribed pupfish species": {
+  "canonical": "Cyprinodon sp",
+  "names": [
+   {
+    "name": "Cyprinodon sp",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Urophycis regia": {
+  "canonical": "Spotted Hake",
+  "names": [
+   {
+    "name": "Spotted Hake",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Vallisneria americana": {
+  "canonical": "eelgrass",
+  "names": [
+   {
+    "name": "eelgrass",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Virgin chub": {
+  "canonical": "Gila robusta seminuda",
+  "names": [
+   {
+    "name": "Gila robusta seminuda",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Virgin spinedace": {
+  "canonical": "Lepidomeda mollispinis mollispinis",
+  "names": [
+   {
+    "name": "Lepidomeda mollispinis mollispinis",
+    "count": 5,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Lepidomeda mollispinis",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "White crappie": {
+  "canonical": "Pomoxis annularis",
+  "names": [
+   {
+    "name": "Pomoxis annularis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "White sucker": {
+  "canonical": "Catostomus commersoni",
+  "names": [
+   {
+    "name": "Catostomus commersoni",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Willamette floater": {
+  "canonical": "Anodonta wahlametensis",
+  "names": [
+   {
+    "name": "Anodonta wahlametensis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Windermere char": {
+  "canonical": "Salvelinus alpinus willughbii",
+  "names": [
+   {
+    "name": "Salvelinus alpinus willughbii",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Xenopus laevis": {
+  "canonical": "African clawed frog",
+  "names": [
+   {
+    "name": "African clawed frog",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "amphibian larvae",
+    "count": 1,
+    "from": "frontmatter"
+   },
+   {
+    "name": "experimental subject only",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Xenotis megalotis peltastes": {
+  "canonical": "Longear Sunfish subspecies",
+  "names": [
+   {
+    "name": "Longear Sunfish subspecies",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Xererpes fucorum": {
+  "canonical": "Rockweed Gunnel",
+  "names": [
+   {
+    "name": "Rockweed Gunnel",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Xiphophorus montezumae": {
+  "canonical": "Montezuma Swordtail",
+  "names": [
+   {
+    "name": "Montezuma Swordtail",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Xyrauchen texanus": {
+  "canonical": "razorback sucker",
+  "names": [
+   {
+    "name": "razorback sucker",
+    "count": 67,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Humpback sucker",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Yaqui catfish": {
+  "canonical": "Ictalurus pricei",
+  "names": [
+   {
+    "name": "Ictalurus pricei",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Yaqui chub": {
+  "canonical": "Gila purpurea",
+  "names": [
+   {
+    "name": "Gila purpurea",
+    "count": 3,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Yaqui sucker": {
+  "canonical": "Catostomus bernardini",
+  "names": [
+   {
+    "name": "Catostomus bernardini",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Yaqui topminnow": {
+  "canonical": "Poeciliopsis occidentalis sonoriensis",
+  "names": [
+   {
+    "name": "Poeciliopsis occidentalis sonoriensis",
+    "count": 2,
+    "from": "frontmatter"
+   },
+   {
+    "name": "Poeciliopsis sonoriensis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Yellow bass": {
+  "canonical": "Morone mississippiensis",
+  "names": [
+   {
+    "name": "Morone mississippiensis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Yellow bullhead": {
+  "canonical": "Ictalurus natalis",
+  "names": [
+   {
+    "name": "Ictalurus natalis",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Zenaida asiatica": {
+  "canonical": "White-winged Dove",
+  "names": [
+   {
+    "name": "White-winged Dove",
+    "count": 1,
+    "from": "frontmatter"
+   }
+  ]
+ },
+ "Zenaida macroura": {
+  "canonical": "Mourning Dove",
+  "names": [
+   {
+    "name": "Mourning Dove",
+    "count": 2,
+    "from": "frontmatter"
+   }
+  ]
+ }
+}

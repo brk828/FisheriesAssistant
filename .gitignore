@@ -22,3 +22,6 @@ venv/
 .Rproj.user
 .Rhistory
 FisheriesAssistant.Rproj
+# Local search index (rebuilt automatically)
+fisheries_agent/.brain_index.sqlite
+fisheries_agent/.brain_index.building

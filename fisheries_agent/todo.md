@@ -27,10 +27,11 @@ Observations about the current brain (affects the design):
 ## Phase B: Brain as a reference
 
 ### 1. Brain index and retrieval
-- [ ] Parse front matter and split notes into heading-level chunks.
-- [ ] Build a SQLite FTS5 index (fields: species, habitat, year, source id, chunk text); rebuild only when files change.
-- [ ] Alias table for common/scientific names and place names (e.g. razorback sucker / *Xyrauchen texanus*, Colorado squawfish / pikeminnow).
-- [ ] Layered retrieval: species/location/topic filters, rank chunks matching several, follow wikilinks from `02_Brain` concept notes.
+- [x] Parse front matter and split notes into heading-level chunks.
+- [x] Build a SQLite FTS5 index (fields: species, habitat, year, source id, chunk text); rebuild only when files change.
+- [x] Alias table for common/scientific names, built from the vault (`utils/brain_enrich.py` -> `brain_meta/aliases_auto.json`; hand edits in `brain_meta/aliases.yaml` win) and used to expand searches. Still open: place-name aliases.
+- [x] Source titles: frontmatter, then first heading, then citation (`brain_meta/source_titles.json`). LLM title pass for the remaining ~1,230 untitled sources: `python -m utils.brain_enrich titles-llm` (shows an estimate and asks first; resumable; run it once).
+- [x] Layered retrieval (stub-first): concept stubs ranked by FTS + mention count, related concepts, then source excerpts via `Mentioned In` (`utils/brain_index.py`; `read_brain_source` for deeper reads). Still open: species/place alias table and species/year filters.
 - [ ] Return about 8-12 ranked chunks with source id, title, year and the reason matched.
 - [ ] Evaluation set of 15-20 questions with expected sources (e.g. razorback sucker in Lake Mohave); re-run after every retrieval change.
 - [ ] Embeddings only if the evaluation shows keyword search is missing too much.

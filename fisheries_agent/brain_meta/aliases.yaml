@@ -1,0 +1,8 @@
+# Hand-maintained species/name aliases. Entries here always win over aliases_auto.json.
+#
+# aliases: each group lists names that mean the same thing for searching, for example
+#   - [Colorado pikeminnow, Colorado squawfish, Ptychocheilus lucius]
+# ignore: names that must never be used as an alias (too generic or wrong).
+#   - sucker
+aliases: []
+ignore: []

@@ -7,7 +7,7 @@ from pathlib import Path
 from openai import OpenAI, OpenAIError
 from dotenv import load_dotenv
 
-from utils import gitsync
+from utils import brain_index, gitsync
 from utils.runner import find_rscript, new_run_dir, run_command, run_r_template, truncate
 from utils.safety import (
     SafetyError, clamp_iterations, parse_zi_formula, project_roots, resolve_in_roots,
@@ -17,7 +17,6 @@ from utils.safety import (
 BASE_DIR = Path(__file__).resolve().parent
 ENV_PATH = BASE_DIR / ".env"
 MANIFEST_PATH = BASE_DIR / "project_manifest.yaml"
-BRAIN_SOURCES_DIR = BASE_DIR / "00_Fisheries_Brain" / "01_Sources"
 
 load_dotenv(ENV_PATH)
 
@@ -51,22 +50,12 @@ def load_manifest():
 # =====================================================================
 
 def search_fisheries_brain(keyword: str):
-    """Scans the Obsidian 01_Sources folder markdown files for literature context."""
-    context_snippets = []
-    if not BRAIN_SOURCES_DIR.exists():
-        return "Fisheries brain sources directory missing."
+    """Stub-first search of the Obsidian vault via the local index (concepts, then source excerpts)."""
+    return truncate(brain_index.search_brain(keyword))
 
-    for md_file in BRAIN_SOURCES_DIR.glob("*.md"):
-        try:
-            content = md_file.read_text(encoding="utf-8")
-        except (OSError, UnicodeDecodeError):
-            continue
-        if keyword.lower() in content.lower():
-            context_snippets.append(f"--- Source: {md_file.name} ---\n{content[:1500]}\n")
-
-    if not context_snippets:
-        return f"No direct matches found in literature for keyword: '{keyword}'."
-    return "\n".join(context_snippets[:3])
+def read_brain_source(source_id: str, query: str = ""):
+    """Reads the most relevant passages of one vault source document."""
+    return truncate(brain_index.read_source(source_id, query))
 
 READABLE_SUFFIXES = {".txt", ".md", ".csv", ".tsv", ".log", ".r", ".rmd", ".qmd", ".json", ".yaml", ".yml", ".out", ".html"}
 MAX_LISTED_FILES = 200
@@ -180,8 +169,20 @@ tools = [
         "type": "function",
         "function": {
             "name": "search_fisheries_brain",
-            "description": "Searches the Obsidian literature reference for general fisheries science, methods and guidance. Use ONLY for general fisheries questions or when planning a new analysis. NEVER use it to answer questions about the user's own project results or data; use list_project_files and read_project_file for those.",
+            "description": "Searches the Obsidian literature vault, concept notes first (summary, related concepts, source ids), then source excerpts. Pass a few specific keywords (species, place, method), not a full sentence. To go deeper, search a Related concept's name. Use ONLY for general fisheries questions or when planning a new analysis. NEVER use it to answer questions about the user's own project results or data; use list_project_files and read_project_file for those.",
             "parameters": {"type": "object", "properties": {"keyword": {"type": "string"}}, "required": ["keyword"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "read_brain_source",
+            "description": "Reads the most relevant passages of one vault source document by its id (as listed in search_fisheries_brain results). Use only after a search points to a specific source.",
+            "parameters": {
+                "type": "object",
+                "properties": {"source_id": {"type": "string"}, "query": {"type": "string", "description": "Optional keywords to pick the passages"}},
+                "required": ["source_id"]
+            }
         }
     },
     {
@@ -268,6 +269,7 @@ tools = [
 
 available_functions = {
     "search_fisheries_brain": search_fisheries_brain,
+    "read_brain_source": read_brain_source,
     "list_project_files": list_project_files,
     "read_project_file": read_project_file,
     "run_project_pipeline": run_project_pipeline,
@@ -277,7 +279,7 @@ available_functions = {
 }
 
 # Read-only lookups run without a prompt; everything else needs the user's approval.
-NO_CONFIRMATION_NEEDED = {"search_fisheries_brain", "list_project_files", "read_project_file"}
+NO_CONFIRMATION_NEEDED = {"search_fisheries_brain", "read_brain_source", "list_project_files", "read_project_file"}
 
 def confirm_run(function_name: str, function_args: dict) -> bool:
     print(f"\n🔔 The agent wants to run: {function_name}")

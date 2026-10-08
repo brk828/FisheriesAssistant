@@ -14,10 +14,7 @@ Freshwater fish habitat encompasses the physical, chemical, and biological chara
 > Not applicable in the aquatic sense. The document pertains to **terrestrial rangeland monitoring sites** ("Range Reference Areas") in Arizona, likely used for tracking vegetation, grazing, and land management conditions rather than aquatic habitat, water chemistry, or fish community composition. ...
 > -- *[[MapOfArizonaShowingRangeRefere_1980]]*
 
-> This kind of land-status and site-location map is commonly used in [[Watershed Ecology]] and [[Freshwater Fish Habitat]] studies to correlate land use (grazing, urban development, federal management) with downstream water quality parameters that affect fish and aquatic macroinvertebrate communities.
-> -- *[[UniqueWatersNominationBonitaCr_11620 map]]*
 
 ## Mentioned In
 - [[FluctuationsInConcentrationOfD_16619]]
 - [[MapOfArizonaShowingRangeRefere_1980]]
-- [[UniqueWatersNominationBonitaCr_11620 map]]
