@@ -23,7 +23,7 @@ SOURCES_DIR = BRAIN_DIR / "01_Sources"
 STUBS_DIR = BRAIN_DIR / "02_Brain"
 DB_PATH = BASE_DIR / ".brain_index.sqlite"
 
-SCHEMA_VERSION = "3"
+SCHEMA_VERSION = "4"
 CHUNK_CHARS = 1500
 MAX_STUBS = 5
 MAX_EXCERPTS = 4
@@ -42,6 +42,49 @@ STOPWORDS = {
 _WIKILINK = re.compile(r"\[\[([^\]|#]+)(?:[|#][^\]]*)?\]\]")
 _FRONTMATTER = re.compile(r"\A---\s*\n(.*?)\n---\s*\n?", re.S)
 _META_FIELDS = ("species", "family", "habitat", "region", "location", "study_type", "document_type", "tags")
+
+
+_AUTHOR_FIELDS = ("author", "authors", "institution", "organization", "agency", "issuing_agency", "affiliation")
+_YEAR_FIELDS = ("year", "publication_year", "year_published", "date_published", "date", "date_of_report", "publication_date")
+_YEAR = re.compile(r"\b(1[6-9]\d\d|20[0-4]\d)\b")
+_NAME_YEAR = re.compile(r"_((?:1[6-9]|20)\d\d)(?:_\d\d_\d\d)?$")
+
+
+def _author_and_year(stem: str, fm: dict) -> tuple:
+    """Best available author and year for a citation: frontmatter, then the source citation, then the file name."""
+    author = ""
+    for key in _AUTHOR_FIELDS:
+        value = fm.get(key)
+        if isinstance(value, (list, tuple)):
+            value = "; ".join(str(v) for v in value if v)
+        if value and str(value).strip():
+            author = re.sub(r"\s+", " ", str(value)).strip()
+            break
+    citation = _flatten(fm.get("source_citation") or fm.get("citation"))
+    if not author and citation:
+        m = re.match(r"\s*(.+?)\s*[\(\[]\s*(?:1[6-9]|20)\d\d", citation)
+        if m and len(m.group(1)) < 150:
+            author = m.group(1).strip(" ,.")
+    year = ""
+    for key in _YEAR_FIELDS:
+        m = _YEAR.search(_flatten(fm.get(key)))
+        if m:
+            year = m.group(1)
+            break
+    if not year and citation:
+        m = _YEAR.search(citation)
+        year = m.group(1) if m else ""
+    if not year:
+        m = _NAME_YEAR.search(stem)
+        year = m.group(1) if m else ""
+    return author[:160], year
+
+
+def _citation(sid: str, title: str, author: str, year: str) -> str:
+    """Author (Year). Title. [source id]; with no author the title leads, as in standard practice."""
+    if author:
+        return f"{author} ({year or 'n.d.'}). {title}. [{sid}]"
+    return f"{title} ({year or 'n.d.'}) [{sid}] (no author recorded)"
 
 
 def _signature() -> str:
@@ -139,7 +182,7 @@ def build_index(verbose: bool = True) -> None:
         CREATE TABLE stubs(id INTEGER PRIMARY KEY, title TEXT, title_lc TEXT, summary TEXT,
                            related TEXT, mentions TEXT, n_mentions INTEGER);
         CREATE VIRTUAL TABLE stubs_fts USING fts5(title, summary, context, tokenize='porter unicode61 remove_diacritics 2');
-        CREATE TABLE sources(source_id TEXT PRIMARY KEY, title TEXT, year TEXT, meta TEXT);
+        CREATE TABLE sources(source_id TEXT PRIMARY KEY, title TEXT, year TEXT, meta TEXT, author TEXT);
         CREATE VIRTUAL TABLE chunks_fts USING fts5(source_id UNINDEXED, heading, body, tokenize='porter unicode61 remove_diacritics 2');
         CREATE VIRTUAL TABLE titles_fts USING fts5(source_id UNINDEXED, title, tokenize='porter unicode61 remove_diacritics 2');
         CREATE TABLE info(key TEXT PRIMARY KEY, value TEXT);
@@ -166,7 +209,8 @@ def build_index(verbose: bool = True) -> None:
         fm, body = _split_frontmatter(text)
         title = _flatten(fm.get("title")) or titles.get(p.stem, {}).get("title") or p.stem
         meta = " | ".join(f"{k}: {_flatten(fm[k])}" for k in _META_FIELDS if fm.get(k))
-        db.execute("INSERT OR REPLACE INTO sources VALUES (?,?,?,?)", (p.stem, title, _flatten(fm.get("year")), meta))
+        author, year = _author_and_year(p.stem, fm)
+        db.execute("INSERT OR REPLACE INTO sources VALUES (?,?,?,?,?)", (p.stem, title, year, meta, author))
         db.execute("INSERT INTO titles_fts VALUES (?,?)", (p.stem, title))
         # Frontmatter and title are searchable as a first chunk so species/location queries hit.
         db.execute("INSERT INTO chunks_fts(source_id, heading, body) VALUES (?,?,?)", (p.stem, "Metadata", f"{title}\n{meta}"))
@@ -294,7 +338,7 @@ def search_brain(query: str) -> str:
         if aliases:
             out.append(f"(Also searched equivalent names: {', '.join(aliases[:8])})")
         if top:
-            out.append("CONCEPTS (from the vault's concept notes; follow a related concept by searching its name):")
+            out.append("CONCEPTS (from the vault's concept notes; the number is a count of sources, not an id. Pass a concept's exact name to read_brain_source for its sources with citations, or search a related concept):")
         for rid in top:
             title, summary, related, mentions, n = db.execute(
                 "SELECT title, summary, related, mentions, n_mentions FROM stubs WHERE id=?", (rid,)
@@ -326,7 +370,8 @@ def search_brain(query: str) -> str:
             if title_hits:
                 out.append("\nDOCUMENTS WITH MATCHING TITLES (use read_brain_source with the id):")
                 for _, _, sid, title in title_hits[:MAX_TITLE_HITS]:
-                    out.append(f"- [{sid}] {title}")
+                    author, year = db.execute("SELECT author, year FROM sources WHERE source_id=?", (sid,)).fetchone()
+                    out.append(f"- {_citation(sid, title, author, year)}")
 
         # Excerpts: sources linked from the matching stubs first, then global matches.
         excerpts, seen = [], set()
@@ -336,9 +381,9 @@ def search_brain(query: str) -> str:
                 if sid in seen or head == "Metadata" or len(excerpts) >= MAX_EXCERPTS:
                     continue
                 seen.add(sid)
-                info = db.execute("SELECT title, year FROM sources WHERE source_id=?", (sid,)).fetchone()
-                title, year = info if info else (sid, "")
-                label = f"[{sid}]" + (f" {title}" if title != sid else "") + (f" ({year})" if year else "")
+                info = db.execute("SELECT title, year, author FROM sources WHERE source_id=?", (sid,)).fetchone()
+                title, year, author = info if info else (sid, "", "")
+                label = _citation(sid, title, author, year)
                 where = f" — {head}" if head else ""
                 excerpts.append(f"- {label}{where}: {_best_excerpt(body, terms)}")
 
@@ -363,15 +408,40 @@ def search_brain(query: str) -> str:
         db.close()
 
 
+def _read_concept(db, name: str):
+    """Concept stub by name (case-insensitive): summary, related concepts and cited source list."""
+    row = db.execute(
+        "SELECT title, summary, related, mentions, n_mentions FROM stubs WHERE title_lc = ?", (name.strip().lower(),)
+    ).fetchone()
+    if not row:
+        return None
+    title, summary, related, mentions, n = row
+    related, mentions = json.loads(related), json.loads(mentions)
+    lines = [f"[concept] {title} ({n} sources)", summary or "(no summary)"]
+    if related:
+        lines.append("Related concepts: " + ", ".join(related[:12]))
+    if mentions:
+        lines.append("Sources (read one with read_brain_source):")
+        for sid in mentions[:12]:
+            info = db.execute("SELECT title, year, author FROM sources WHERE source_id=?", (sid,)).fetchone()
+            lines.append("- " + (_citation(sid, info[0], info[2], info[1]) if info else f"[{sid}]"))
+    return "\n".join(lines)
+
+
 def read_source(source_id: str, query: str = "", max_chars: int = 3500) -> str:
-    """Returns the most relevant chunks of one source (or its start when no query is given)."""
-    sid = Path(source_id).stem
+    """Returns the most relevant chunks of one source (or its start when no query is given).
+
+    A concept name is accepted too and returns the concept note with a cited source list."""
+    sid = Path(source_id).stem if source_id.lower().endswith(".md") else source_id.strip()
     db = _connect()
     try:
-        info = db.execute("SELECT title, year, meta FROM sources WHERE source_id=?", (sid,)).fetchone()
+        info = db.execute("SELECT title, year, meta, author FROM sources WHERE source_id=?", (sid,)).fetchone()
         if not info:
-            return f"Error: source '{source_id}' not found in the Fisheries Brain."
-        title, year, meta = info
+            concept = _read_concept(db, source_id)
+            if concept:
+                return concept
+            return f"Error: '{source_id}' is neither a source id nor a concept name in the Fisheries Brain. Search first."
+        title, year, meta, author = info
         terms = _terms(query)
         rows = []
         if terms:
@@ -383,7 +453,7 @@ def read_source(source_id: str, query: str = "", max_chars: int = 3500) -> str:
             rows = db.execute(
                 "SELECT heading, body FROM chunks_fts WHERE source_id = ? AND heading != 'Metadata' ORDER BY rowid LIMIT 6", (sid,)
             ).fetchall()
-        head = f"[{sid}] {title}" + (f" ({year})" if year else "") + (f"\n{meta}" if meta else "")
+        head = "Cite as: " + _citation(sid, title, author, year) + (f"\n{meta}" if meta else "")
         parts, used = [head], len(head)
         for heading, body in rows:
             piece = (f"## {heading}\n" if heading else "") + body.strip()

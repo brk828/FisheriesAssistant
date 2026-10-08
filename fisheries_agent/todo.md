@@ -34,6 +34,7 @@ Observations about the current brain (affects the design):
 - [x] Layered retrieval (stub-first): concept stubs ranked by FTS + mention count, related concepts, then source excerpts via `Mentioned In` (`utils/brain_index.py`; `read_brain_source` for deeper reads). Still open: species/place alias table and species/year filters.
 - [ ] Return about 8-12 ranked chunks with source id, title, year and the reason matched.
 - [x] Evaluation set (`brain_meta/eval_questions.yaml`, 27 questions; run `python -m utils.brain_eval`). Re-run after every retrieval change. Its first run found that paper titles were not searchable, which led to the "documents with matching titles" section. Still to do: add questions from real use, and multi-concept questions.
+- [x] Citations: author/year derived into the index (author for ~870 of 2,977 sources, year for ~2,120); answers cite inline plus a References list with source ids. Still open: authors for the rest (often named only in the body, e.g. letters) could come from an LLM pass with consent.
 - [ ] Embeddings only if the evaluation shows keyword search is missing too much.
 
 ### 2. `research_topic` tool
