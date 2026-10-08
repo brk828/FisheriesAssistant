@@ -51,6 +51,7 @@ fisheries_agent/
     ├── safety.py                # Validates paths and column names from the model
     ├── runner.py                # Runs R/Quarto with timeouts, logging and key redaction
     ├── brain_index.py           # Local SQLite FTS5 index; stub-first search of the vault
+    ├── project_memory.py        # Per-project memory (key files, notes, run history) in project_memory/<project>.yaml
     ├── brain_enrich.py          # Builds source titles and species aliases (optional LLM title pass)
     └── pdf_processor.py         # (future) Scheduled PDF-to-markdown job
 ```
@@ -108,7 +109,7 @@ Fix a wrong or missing alias in `brain_meta/aliases.yaml`; a title can be set by
 
 ## 🔮 Future Features
 * **Scheduled PDF processor:** a background job that watches `00_Fisheries_Brain/pdfs_to_process/`, summarizes new PDFs into `01_Sources/`, and creates context links between notes (reusing logic from a separate literature-conversion project). Until then, add markdown files to `01_Sources/` and `02_Brain/` by hand.
-* **Project memory:** remember each project's key result files and run history between sessions so "latest results" questions need no file discovery (see `todo.md`).
+* **Project memory, next steps:** optional LLM one-line summaries of key files, and indexing the scientist's own reports (see `todo.md`).
 
 ## �💻 System Dependencies
 Currently supported platform: **Windows**.

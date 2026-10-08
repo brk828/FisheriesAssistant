@@ -7,7 +7,7 @@ from pathlib import Path
 from openai import OpenAI, OpenAIError
 from dotenv import load_dotenv
 
-from utils import brain_index, gitsync
+from utils import brain_index, gitsync, project_memory
 from utils.runner import find_rscript, new_run_dir, run_command, run_r_template, truncate
 from utils.safety import (
     SafetyError, clamp_iterations, parse_zi_formula, project_roots, resolve_in_roots,
@@ -96,7 +96,63 @@ def read_project_file(project_name: str, file_path: str):
         return f"Error: '{file_path}' not found in project '{project_name}'."
     if target.suffix.lower() not in READABLE_SUFFIXES:
         return f"Error: files of type '{target.suffix}' cannot be read as text."
-    return truncate(target.read_text(encoding="utf-8", errors="replace"))
+    text = target.read_text(encoding="utf-8", errors="replace")
+    project_memory.record_file(project_name, root, target.relative_to(root).as_posix(), text)
+    return truncate(text)
+
+def _project_for_path(path: Path):
+    """Finds the registered project whose folder contains path, as (name, root) or (None, None)."""
+    for name, info in load_manifest().get("projects", {}).items():
+        root = Path(info["project_path"]).resolve()
+        if Path(path).resolve().is_relative_to(root):
+            return name, root
+    return None, None
+
+def _record_model_run(csv_file: Path, tool: str, label: str, ok: bool, run_dir) -> None:
+    name, root = _project_for_path(csv_file)
+    if name:
+        project_memory.record_run(name, root, tool, ok, label, run_dir, [csv_file.relative_to(root).as_posix()])
+
+def get_project_context(project_name: str):
+    """Returns remembered notes, key files and recent runs for a project (read-only)."""
+    return project_memory.context(project_name, _project_root(project_name))
+
+def get_latest_results(project_name: str, kind: str = "results"):
+    """Finds and reads the newest results (or script/data) file of a project in one step."""
+    if kind not in ("results", "script", "data", "any"):
+        kind = "results"
+    root = _project_root(project_name)
+    candidates = project_memory.latest_candidates(project_name, root, kind)
+    last_run = project_memory.latest_run_dir_output(project_name) if kind == "results" else None
+    parts = []
+    if candidates:
+        rel, mtime = candidates[0]
+        text = read_project_file(project_name, rel)
+        parts.append(f"Newest {kind} file: {rel} (modified {datetime.fromtimestamp(mtime):%Y-%m-%d %H:%M})\n{text}")
+        others = [f"{datetime.fromtimestamp(m):%Y-%m-%d %H:%M}  {r}" for r, m in candidates[1:6]]
+        if others:
+            parts.append("Other recent candidates (read with read_project_file):\n" + "\n".join(others))
+    else:
+        parts.append(f"No {kind} files found in project '{project_name}'. Try list_project_files.")
+    if last_run:
+        parts.append(f"Last recorded run: {last_run['when']} {last_run['tool']} {last_run.get('label', '')} "
+                     f"({'ok' if last_run.get('ok') else 'failed'}); its saved files are in runs/{last_run['run_dir']}.")
+    return "\n\n".join(parts)
+
+def remember_project_fact(project_name: str, fact: str = "", pin_file: str = ""):
+    """Stores a short fact and/or pins an important file in a project's memory."""
+    root = _project_root(project_name)
+    out = []
+    if fact:
+        out.append(project_memory.add_note(project_name, root, fact))
+    if pin_file:
+        target = resolve_in_roots(str(root / pin_file), [root])
+        if not target.is_file():
+            out.append(f"Error: '{pin_file}' not found in project '{project_name}'.")
+        else:
+            project_memory.record_file(project_name, root, target.relative_to(root).as_posix(), pin=True)
+            out.append(f"Pinned {pin_file}.")
+    return "\n".join(out) or "Nothing to remember."
 
 def _result_text(ok: bool, out: str, run_dir, output_name="output.txt") -> str:
     if run_dir and output_name and (Path(run_dir) / output_name).is_file():
@@ -136,7 +192,14 @@ def run_project_pipeline(project_name: str, script_name: str):
         return "Error: Only .R, .Rmd and .qmd files can be run."
 
     run_dir = new_run_dir(f"pipeline_{project_name}")
+    before = project_memory.scan(root)
     ok, out = run_command(cmd, cwd=root, log_dir=run_dir)
+    after = project_memory.scan(root)
+    changed = sorted((r for r, m in after.items() if before.get(r) != m), key=lambda r: -after[r])
+    project_memory.record_run(project_name, root, "run_project_pipeline", ok, script_name, run_dir, changed)
+    for rel in changed[:5]:
+        if project_memory.classify(rel) == "results":
+            project_memory.record_file(project_name, root, rel)
     return _result_text(ok, out, run_dir, output_name=None)
 
 def run_zero_inflated_model(csv_path: str, response_var: str, predictor_vars: list, zero_inflation_formula: str = "~1"):
@@ -145,6 +208,7 @@ def run_zero_inflated_model(csv_path: str, response_var: str, predictor_vars: li
     validate_columns(csv_file, [response_var, *predictor_vars])
     zi = parse_zi_formula(zero_inflation_formula, csv_file)
     ok, out, run_dir = run_r_template("zinb.R", csv_file, [response_var, ",".join(predictor_vars), zi], "zinb")
+    _record_model_run(csv_file, "run_zero_inflated_model", f"{response_var} ~ {' + '.join(predictor_vars)}", ok, run_dir)
     return _result_text(ok, out, run_dir)
 
 def run_nimble_mark_recapture(csv_path: str, capture_history_col: str, iterations: int = 10000):
@@ -152,12 +216,14 @@ def run_nimble_mark_recapture(csv_path: str, capture_history_col: str, iteration
     csv_file = validate_csv(csv_path, project_roots(load_manifest()))
     prefix = validate_prefix_columns(csv_file, capture_history_col)
     ok, out, run_dir = run_r_template("cjs.R", csv_file, [prefix, clamp_iterations(iterations)], "cjs")
+    _record_model_run(csv_file, "run_nimble_mark_recapture", f"CJS on {capture_history_col}", ok, run_dir)
     return _result_text(ok, out, run_dir)
 
 def run_multivariate_exploration(csv_path: str, method: str = "PCA"):
     """Draws a PCA, MDS or heatmap plot with vegan."""
     csv_file = validate_csv(csv_path, project_roots(load_manifest()))
     ok, out, run_dir = run_r_template("explore.R", csv_file, [validate_method(method)], "explore")
+    _record_model_run(csv_file, "run_multivariate_exploration", method, ok, run_dir)
     return _result_text(ok, out, run_dir)
 
 # =====================================================================
@@ -182,6 +248,38 @@ tools = [
                 "type": "object",
                 "properties": {"source_id": {"type": "string"}, "query": {"type": "string", "description": "Optional keywords to pick the passages"}},
                 "required": ["source_id"]
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "get_project_context",
+            "description": "Returns what is remembered about a registered project: notes, key/pinned files with short summaries, and recent runs. Call this FIRST for any question about a project.",
+            "parameters": {"type": "object", "properties": {"project_name": {"type": "string"}}, "required": ["project_name"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "get_latest_results",
+            "description": "One-step lookup: finds and reads the newest results file of a project (or kind='script' or 'data'), and lists other recent candidates. Use for 'latest/most recent results' questions instead of list_project_files plus read_project_file.",
+            "parameters": {
+                "type": "object",
+                "properties": {"project_name": {"type": "string"}, "kind": {"type": "string", "enum": ["results", "script", "data", "any"]}},
+                "required": ["project_name"]
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "remember_project_fact",
+            "description": "Saves a short durable fact about a project (e.g. a convention, an excluded site) and/or pins an important file so future requests find it fast. Use when the user asks you to remember something or says a file is important.",
+            "parameters": {
+                "type": "object",
+                "properties": {"project_name": {"type": "string"}, "fact": {"type": "string"}, "pin_file": {"type": "string", "description": "Path relative to the project folder"}},
+                "required": ["project_name"]
             }
         }
     },
@@ -270,6 +368,9 @@ tools = [
 available_functions = {
     "search_fisheries_brain": search_fisheries_brain,
     "read_brain_source": read_brain_source,
+    "get_project_context": get_project_context,
+    "get_latest_results": get_latest_results,
+    "remember_project_fact": remember_project_fact,
     "list_project_files": list_project_files,
     "read_project_file": read_project_file,
     "run_project_pipeline": run_project_pipeline,
@@ -279,7 +380,10 @@ available_functions = {
 }
 
 # Read-only lookups run without a prompt; everything else needs the user's approval.
-NO_CONFIRMATION_NEEDED = {"search_fisheries_brain", "read_brain_source", "list_project_files", "read_project_file"}
+NO_CONFIRMATION_NEEDED = {
+    "search_fisheries_brain", "read_brain_source", "list_project_files", "read_project_file",
+    "get_project_context", "get_latest_results", "remember_project_fact",
+}
 
 def confirm_run(function_name: str, function_args: dict) -> bool:
     print(f"\n🔔 The agent wants to run: {function_name}")
@@ -412,7 +516,7 @@ Maintain formatting and stylistic habits that mirror the scientist's noted docum
 Every analysis run is shown to the user for approval before it executes.
 
 How to choose tools:
-- Questions about a specific project's own results, data, outputs or scripts (e.g. "what were the results of the last model run for project X"): go straight to the project. Call list_project_files (newest first), then read_project_file on the relevant results/log/report files. Do NOT call search_fisheries_brain for these.
+- Questions about a specific project's own results, data, outputs or scripts (e.g. "what were the results of the last model run for project X"): go straight to the project. Call get_project_context first (remembered key files, notes, recent runs). For "latest/most recent results" call get_latest_results. Use list_project_files and read_project_file for anything else, and remember_project_fact when the user says something should be remembered or a file is important. Do NOT call search_fisheries_brain for these.
 - General fisheries science, methods, or deciding how to approach a NEW analysis: use search_fisheries_brain as a reference.
 - Only use the brain alongside project files if the user asks to interpret results against the literature.
 - If you cannot find the requested results, say what you looked at instead of guessing.

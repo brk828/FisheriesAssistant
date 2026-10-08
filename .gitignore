@@ -25,3 +25,6 @@ FisheriesAssistant.Rproj
 # Local search index (rebuilt automatically)
 fisheries_agent/.brain_index.sqlite
 fisheries_agent/.brain_index.building
+
+# Per-project long-term memory
+fisheries_agent/project_memory/

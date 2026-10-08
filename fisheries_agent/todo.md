@@ -80,5 +80,6 @@ Observations about the current brain (affects the design):
 ## Future features
 - [ ] Scheduled PDF processor: watch `00_Fisheries_Brain/pdfs_to_process/`, summarize new PDFs into `01_Sources/`, create context links between notes (reuse logic from the separate literature-conversion project). Until then, markdown files are added to `01_Sources/` and `02_Brain/` by hand.
 - [ ] Reduce the number of notes in `02_Brain/` by merging them; rely mainly on source chunks, with concept notes as the link graph.
-- [ ] Project memory: index the scientist's own reports in registered projects (optional).
+- [x] Project memory (`utils/project_memory.py`): per-project key files, notes and run history; tools `get_project_context`, `get_latest_results`, `remember_project_fact`; runs recorded automatically.
+- [ ] Project memory, later: optional LLM one-line summaries of key files (with consent); index the scientist's own reports.
 - [ ] macOS/Linux support (currently Windows only).
