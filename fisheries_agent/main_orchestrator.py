@@ -3,7 +3,7 @@ import json
 import shutil
 import yaml
 from pathlib import Path
-from openai import OpenAI
+from openai import OpenAI, OpenAIError
 from dotenv import load_dotenv
 
 from utils.runner import find_rscript, new_run_dir, run_command, run_r_template, truncate
@@ -16,9 +16,11 @@ BASE_DIR = Path(__file__).resolve().parent
 ENV_PATH = BASE_DIR / ".env"
 MANIFEST_PATH = BASE_DIR / "project_manifest.yaml"
 BRAIN_SOURCES_DIR = BASE_DIR / "00_Fisheries_Brain" / "01_Sources"
-MODEL = "anthropic/claude-3.5-sonnet"
 
 load_dotenv(ENV_PATH)
+
+# Override with OPENROUTER_MODEL in .env; pick a tool-capable model from openrouter.ai/models.
+MODEL = os.getenv("OPENROUTER_MODEL", "anthropic/claude-sonnet-4.5")
 
 _client = None
 
@@ -295,3 +297,5 @@ if __name__ == "__main__":
             break
         except RuntimeError as e:
             print(f"❌ {e}")
+        except OpenAIError as e:
+            print(f"❌ OpenRouter request failed: {e}\n   If the model was not found, set OPENROUTER_MODEL in .env (see openrouter.ai/models).")

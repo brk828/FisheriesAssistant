@@ -4,7 +4,7 @@ An intelligent, context-aware orchestrator framework designed specifically for *
 
 ## 🐟 System Architecture Overview
 
-The system operates via a master-orchestrator pattern powered by **OpenRouter (Claude 3.5 Sonnet)** that reads a localized, user-specific profile manifest to selectively route tasks to domain expert sub-agents or local workspace scripts.
+The system operates via a master-orchestrator pattern powered by **OpenRouter** (default model Claude Sonnet 4.5; set `OPENROUTER_MODEL` in `.env` to change it) that reads a localized, user-specific profile manifest to selectively route tasks to domain expert sub-agents or local workspace scripts.
 
 ```text
                   [ Scientist via Tailscale/SSH ]

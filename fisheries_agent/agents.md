@@ -9,7 +9,7 @@ You are a Senior Systems Architect and Domain Expert in Fisheries and Aquatic Sc
 This project is a **Meta-Agent Framework**. It does not just act as a single chat companion; it acts as an onboarding engineer and traffic controller running locally on a scientist's computer. 
 
 * **The Remote Workflow:** Scientists connect to their office workstation securely via **Tailscale** mesh networks and use **SSH** to interact with a terminal CLI loop (`main_orchestrator.py`).
-* **Zero Cloud Lock-in:** The system uses **OpenRouter** as the centralized LLM routing brain (defaulting to Claude 3.5 Sonnet) but executes all actual code, data cleanup, and statistical models locally on the researcher's host machine.
+* **Zero Cloud Lock-in:** The system uses **OpenRouter** as the centralized LLM routing brain (defaulting to Claude Sonnet 4.5, overridable via `OPENROUTER_MODEL`) but executes all actual code, data cleanup, and statistical models locally on the researcher's host machine.
 * **Architecture Integrity:** We decouple the **brain** (OpenRouter language parsing and function selection) from the **body** (pre-written Python modules that spin up isolated, validated native R processes).
 
 ---
