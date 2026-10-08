@@ -445,6 +445,18 @@ Here is the current scientist's machine layout and project structure configurati
     trim_history()
     return answer
 
+HELP_TEXT = """Commands at this prompt:
+  help      show this list
+  clear     reset conversation memory
+  exit      quit
+
+Maintenance (run in a separate terminal from this folder):
+  python -m utils.brain_index "razorback sucker"        try a brain search without the agent
+  python -m utils.brain_enrich                          rebuild source titles and species aliases (local)
+  python -m utils.brain_enrich titles-llm --limit 20    LLM titles for untitled sources (asks first)
+  python -m utils.brain_index rebuild                   force a full brain index rebuild
+Edit brain_meta/aliases.yaml to fix species name aliases."""
+
 if __name__ == "__main__":
     manifest = load_manifest()
     if not manifest:
@@ -453,12 +465,17 @@ if __name__ == "__main__":
 
     print("\n⚓ Master Fisheries Orchestrator Core Fully Loaded & Online ⚓")
     print("-----------------------------------------------------------------")
+    print(HELP_TEXT)
+    print("-----------------------------------------------------------------")
 
     while True:
         try:
             cmd = input("\n🐟 Master Command: ")
             if cmd.lower() == 'exit':
                 break
+            if cmd.strip().lower() in ('help', '/help', '?'):
+                print(HELP_TEXT)
+                continue
             if cmd.strip().lower() in ('clear', '/clear'):
                 clear_history()
                 print("🧹 Conversation memory cleared.")
