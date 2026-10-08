@@ -1,0 +1,50 @@
+---
+type: concept
+auto_enriched: true
+---
+# Gambusia
+
+## Summary
+Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the Americas, most notably represented by the mosquitofish species that have been widely introduced globally for mosquito larval control in aquatic ecosystems. In conservation and aquatic ecology contexts, Gambusia is particularly significant as an invasive species that often negatively impacts native fish populations through predation and competition, posing a major threat to endemic and endangered species in isolated aquatic systems such as springs and small water bodies. The genus exemplifies the complex tradeoffs between disease vector control and ecological conservation, as its introductions for public health purposes have frequently resulted in substantial declines or extinctions of native fish fauna, especially in arid regions and groundwater-dependent ecosystems.
+
+## Context
+> - The checklist documents **209 species** spanning marine stragglers, euryhaline estuarine fishes, and strict freshwater/spring endemics, reflecting Texas's unusually high ichthyofaunal diversity due to its transitional position between temperate, subtropical, and arid biogeographic zones. - **Ta...
+> -- *[[AChecklistOfTexasFreshWaterFis_14208]]*
+
+> This 1968 paper by Cole and Minckley is primarily a **limnological study** documenting anomalous inverse thermal stratification in two small, artificial hypersaline pools near [[Laguna Salada]] in the [[Cuatro Ciénegas Basin]], Coahuila, México. The pools, created for salt harvesting, exhibited a...
+> -- *[[AnomalousThermalConditionsInAH_17103]]*
+
+> This note synthesizes three related abstracts from a systematics/evolutionary biology conference. The first (Lund & Grogan, Abstract 220) presents paleontological evidence for **autodiastyly**, an intermediate jaw suspension condition in Carboniferous [[Paraselachii]], clarifying the evolutionary...
+> -- *[[AutodiastylicSuspensoriumsInPa_16277]]*
+
+> This paper by Robert Rush Miller provides a comprehensive biogeographic synthesis of the native fish fauna of the [[Chihuahuan Desert Region]], a vast arid tableland spanning north-central Mexico and the southwestern United States. The region hosts 107 known native fish species (93 formally descr...
+> -- *[[CompositionAndDerivationOfTheN_15363]]*
+
+> This 1975 study by Alex E. Peden investigates **copulatory behavior** in the poeciliid genus *[[Gambusia]]* as a potential **partial prefertilization isolating mechanism** between species that frequently hybridize in nature. Using artificial female models (plaster-of-Paris bodies filled with shor...
+> -- *[[DifferencesInCopulatoryBehavio_1975]]*
+
+## Mentioned In
+- [[AChecklistOfTexasFreshWaterFis_14208]]
+- [[AnomalousThermalConditionsInAH_17103]]
+- [[AutodiastylicSuspensoriumsInPa_16277]]
+- [[CompositionAndDerivationOfTheN_15363]]
+- [[CopulatoryFunctionOfTheModifie_14265]]
+- [[CorrespondenceOnMexicanFishTax_1993_10_21]]
+- [[DetectionOfPredationOnAustrali_1999]]
+- [[DifferencesInCopulatoryBehavio_1975]]
+- [[FourthAnnualMeetingDeathValley_11111]]
+- [[Gila Topminnow Reintroduction_1996_07_25]]
+- [[GirardinusSonoriensisMczCatalo_1994_09_01]]
+- [[HybridizationOfTwoSpeciesOfMos_13673]]
+- [[LetterRegardingGilaTopminnowRe_1992_12_08]]
+- [[LetterToEPPisterRegardingCuatr_1986_08_11]]
+- [[NotesOnThePoecilidFishesPoecil_15874]]
+- [[OccurrenceOfTheAmazonMollyMoll_19138]]
+- [[PartialBibliographyOnNaturalHi_13786]]
+- [[PrimaryProductivityFishHarvest_1959_11_19]]
+- [[RequestForRenewalOfEndangeredS_1992_11_27]]
+- [[RioBravoFishDistribution_Unknown]]
+- [[RotenoneSampleLakeHavasuJuly_1957_07_12]]
+- [[SodiumCyanideAsAFishPoison_12935]]
+- [[StatusOfPoeciliopsisOOccidenta_1984_07_25]]
+- [[StudiesOfGambusiaCannibalism_14238]]

@@ -1,0 +1,80 @@
+---
+type: concept
+auto_enriched: true
+---
+# Yellow Perch
+
+## Summary
+Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly classified in the panfish guild for fisheries management and conservation purposes, typically targeted at minimum population thresholds of 200 or more individuals per water body. As a food fish with moderate ecological and economic value, yellow perch inhabits littoral zones of lakes and reservoirs and is frequently included in fish community surveys, scale sampling studies, and post-reclamation restocking programs. The species serves as an important indicator of freshwater ecosystem health and represents a key component of balanced panfish communities in North American aquatic systems.
+
+## Context
+> This 1962 note by E. J. Crossman documents a single anomalously coloured specimen of [[Yellow Perch]] (*Perca flavescens*) collected from [[Lake Erie]] near Point Pelee, Ontario. The specimen displayed a bright orange ground colour in place of the typical yellow-to-yellow-green, and completely la...
+> -- *[[AColourMutantOfTheYellowPerchF_18051]]*
+
+> Not applicable in the traditional sense. However, the document situates itself within the **institutional ecology of mid-20th-century fisheries science**, referencing: - Fishery management and creel census programs (e.g., [[Louisiana Wild Life And Fisheries Commission]] creel census work; [[Iowa ...
+> -- *[[AContributionTowardABibliograp_12687]]*
+
+> Species recorded in the creel census (minimum 13 species): - **[[Yellow Bass]]** (*Roccus mississippiensis*) — dominant catch species; population skewed toward older fish prior to 1955 mortality event. - **[[Black Bullhead]]** (*Ictalurus melas*, referred to as "bullheads") — numerically stable c...
+> -- *[[AnglerHarvestInTheSummersOfToA_1957_12_12]]*
+
+> | Species | Lake/Year | Age | Fishing Rate | Natural Mortality | Total Mortality | % Annual Mortality | |---|---|---|---|---|---|---| | [[Bluegill]] | Muskellunge, 1942 | II-V+ | 0.29 | 0.63 | 0.92 | 60% | | [[Bluegill]] | Shoe, 1941 | III-VI+ | 0.60 | 0.83 | 1.43 | 76% | | [[Bluegill]] | Shoe, 1...
+> -- *[[CausesOfDeathAmongIndianaFishe_1945]]*
+
+> **Community/recolonization dynamics:** - "Clean-water fishes" — including [[Stoneroller]], [[Bigeye Chub]], [[Creek Chub]], [[Sand Shiner]], [[Mimic Shiner]], [[Common Shiner]], [[Bluntnose Minnow]], [[White Sucker]], and [[Yellow Perch]] — appeared or increased sharply only after pollution abate...
+> -- *[[ChangesInTheFishPopulationInTh_12453]]*
+
+## Mentioned In
+- [[AColourMutantOfTheYellowPerchF_18051]]
+- [[AContributionTowardABibliograp_12687]]
+- [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
+- [[AnEvaluationOfMassachusettsTro_15488]]
+- [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
+- [[AntimycinFintrolAsAFishToxican_1965_10_18]]
+- [[CausesOfDeathAmongIndianaFishe_1945]]
+- [[ChangesInGrowthRatesOfFishesFo_1948]]
+- [[ChangesInTheFishPopulationInTh_12453]]
+- [[ChangesInWalleyeStizostedionVi_1977_03_18]]
+- [[ChangingChemicalAndBiologicalC_12793]]
+- [[DigestionRateOfThe_15655]]
+- [[DisappearanceOfEndrinFromFishA_12936]]
+- [[EvaluationOfCommercialFishingB_16036]]
+- [[EvaluationOfPPDdtAsAReferenceT_14436]]
+- [[FilletWeightsAndLossOnFilletin_12433]]
+- [[FishPopulationAndCatchDataFrom_1948]]
+- [[FishPopulationConceptsAndManag_1949_03_07]]
+- [[FluctuationsInAbundanceAndDist_13888]]
+- [[FoodHabitsOfTheYellowstoneWhit_1950]]
+- [[FoodOfThePelagicYoungOfWalleye_13890]]
+- [[FoodOfYoungPikeEsoxLuciusLAndA_1951]]
+- [[IncreasedGrowthRateOfRockBassA_15683]]
+- [[LimnologicalObservationsOnSome_1957]]
+- [[ManagementOfWarmWaterFishPopul_1952]]
+- [[MethodsAndProceduresForScaleSa_1956_02_09]]
+- [[NightCollectionOfFishWithElect_16182]]
+- [[NylonVsLinenGillNetsAtClearLak_1956_12_06]]
+- [[OperationalPlanForTheReclamati_13373]]
+- [[PredationByIntroducedMuskellun_20576]]
+- [[ProposedStockingOfNonnativeFis_18716]]
+- [[RatesOfSurvivalAndGrowthOfBlue_12437]]
+- [[RetentionOfMercuryInTheMuscleO_12637]]
+- [[SomeEcologicalRelationshipsBet_15746]]
+- [[SomeLimnologicalFeaturesOfClea_1953_11_15]]
+- [[SomeMeritsOfThreeKindsOfMarker_18096]]
+- [[SomeObservationsOnLimnologyAnd_1954]]
+- [[SpringPickerelCensus_17801]]
+- [[StationProfileOfTheGenoaNation_1993]]
+- [[StationProfileValleyCitybaldhi_1993_12_13]]
+- [[StockingWarmWaterFishMichiganF_14376]]
+- [[TemperaturePreferenceOfTheNort_14743]]
+- [[TheDistributionOfAquaticOligoc_12945]]
+- [[TheFoodAndFeedingChronologyOfY_1979]]
+- [[TheSmeltOsmerusMordaxMitchill_13092]]
+- [[TheUpperStLawrenceRiverIceFish_11241]]
+- [[TheUseOfCopperSulphateToIncrea_13371]]
+- [[TheYellowPerchInvadesTexas_14207]]
+- [[ToxapheneAsAFishToxin_1951]]
+- [[ToxicFreshWaterAlgae_14366]]
+- [[ToxicityOfDimethylSulfoxideDms_13283]]
+- [[TrophicDynamicsOfLakeTroutProd_1970]]
+- [[UtilizationOfGizzardShadByGame_1958_11_20]]
+- [[WhyTheMassachusettsDivisionOfF_15491]]

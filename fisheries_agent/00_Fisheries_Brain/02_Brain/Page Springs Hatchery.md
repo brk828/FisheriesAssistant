@@ -1,0 +1,29 @@
+---
+type: concept
+auto_enriched: true
+---
+# Page Springs Hatchery
+
+## Summary
+Page Springs Hatchery was a fish propagation facility involved in razorback sucker (Xyrauchen texanus) conservation efforts within the Colorado River Basin during the 1980s, serving as a breeding and rearing location for larval and juvenile fish that were subsequently stocked into various reservoir and riverine habitats including Lake Mohave, Lake Powell, and Lake Mead. The hatchery's operations included monitoring growth rates, survival metrics, and environmental stress responses of captive-reared razorbacks, contributing empirical data on the species' reproductive biology and early life history under controlled conditions that informed management strategies for this imperiled native fish species.
+
+## Context
+> - **Habitat range sampled:** [[Lake Mohave]], [[Green River]], [[Lake Powell]], and [[Lake Mead]] — reservoir and riverine habitats within the [[Colorado River Basin]]. - **Reproductive biology/timing:** Lake Mohave razorbacks were observed forming turgid ova and males yielding milt under moderat...
+> -- *[[AnnualReportOnRazorbackSuckerM_1990_11_26]]*
+
+> - **Bonytail Chub population status**: Lake Mohave is considered to hold the only remaining wild population of Bonytail Chub in the lower Colorado River basin, but past collection efforts have yielded only a handful of individuals despite sustained trammel netting. - **Genetic/broodstock urgency*...
+> -- *[[LakeMohaveSamplingForBonytailC_1997_09_14]]*
+
+> This document is a **draft research prospectus** (not a completed study) authored by W. L. Minckley, proposing a one-year, $5,000 investigation into the life history of the [[Razorback Sucker]] (*Xyrauchen texanus*). The proposal outlines three core research thrusts: (1) embryological analysis us...
+> -- *[[LifeHistoryOfTheRazorbackSucke_18590]]*
+
+> - **Rock Tank** (stocked 31 Mar 1987, 30,000 larvae, ~1.0 cm TL): - May 1988: 20.6 cm TL (n=14) - 07 December 1988: 25.7 cm TL (n=44) - 01 October 1989: 24.9 cm TL (n=28) — a decline attributed to differential mortality of larger fish under low-water/high-temperature summer stress. - At the Decem...
+> -- *[[SamplingAtBuenosAiresNwrSeptem_17033]]*
+
+## Mentioned In
+- [[AnnualReintroductionAndMonitor_1986_03_10]]
+- [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
+- [[LakeMohaveSamplingForBonytailC_1997_09_14]]
+- [[LifeHistoryOfTheRazorbackSucke_18590]]
+- [[SamplingAtBuenosAiresNwrSeptem_17033]]
+- [[StudiesOnTheRazorbackSuckerXyr_1974_06_18]]

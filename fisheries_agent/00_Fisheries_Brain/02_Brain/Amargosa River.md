@@ -1,0 +1,24 @@
+---
+type: concept
+auto_enriched: true
+---
+# Amargosa River
+
+## Summary
+The Amargosa River is a closed-basin desert stream system in the Death Valley region that serves as critical habitat for endemic and endangered fish species adapted to its unique hydrogeological conditions. As a spring-fed system with restricted water resources and limited geographic extent, the Amargosa River represents a conservation priority for desert fish management due to its isolated populations of endemic species with minimal genetic and geographic buffering against environmental disturbance. The river system exemplifies the challenges of conserving aquatic biodiversity in arid regions where hydrology, habitat fragmentation, and human water demands directly threaten the persistence of specialized endemic fish communities.
+
+## Context
+> This document is the agenda for the 1987 Death Valley Area Committee Meeting of the [[Desert Fishes Council]], convened at Death Valley National Monument on March 13, 1987, chaired by E.P. Pister. Rather than presenting primary research data, the agenda outlines conservation management priorities...
+> -- *[[AgendaForDeathValleyAreaCommit_1987_03_13]]*
+
+> - **[[Manse Spring]]** — sole natural site for *Empetrichthys latos* (Pahrump killifish); dense vegetation complicates population monitoring. - **[[Corn Creek]]** (near Las Vegas) — transplant site for *E. latos*, where competition with introduced *[[Gambusia Affinis]]* has driven a steep populat...
+> -- *[[SecondAnnualMeetingOfDeathVall_1975_02_21]]*
+
+> - **Spring-fed refugia and marshes**: e.g., [[Devils Hole]], [[Ash Meadows]] spring complex, and [[Cottonball Marsh]] — highly restricted, often single-spring endemics with minimal genetic and geographic buffering against disturbance. - **Closed-basin desert streams**: [[Amargosa River]] and [[Sa...
+> -- *[[AgendaForDeathValleyAreaCommit_1987_03_13]]*
+
+## Mentioned In
+- [[AgendaForDeathValleyAreaCommit_1987_03_13]]
+- [[EndangeredPupfishOfDevilsHoleG_11403]]
+- [[GeneticDivergenceAnd_1972]]
+- [[SecondAnnualMeetingOfDeathVall_1975_02_21]]

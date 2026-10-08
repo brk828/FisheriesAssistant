@@ -1,0 +1,17 @@
+---
+type: concept
+auto_enriched: true
+---
+# Micropterus Dolomieu
+
+## Summary
+*Micropterus dolomieu*, commonly known as the smallmouth bass, is a freshwater centrarchid fish species native to North America that has become an important model organism and management subject in fisheries science and aquatic ecology. In the context of these historical documents regarding southwestern U.S. aquatic conservation, smallmouth bass are referenced as an introduced predatory species whose presence in native fish habitats—particularly in the Gila River basin—poses significant ecological risks to endemic cyprinids and poeciliids through predation and competition. The species' role as both a valued game fish and a potential threat to native biodiversity illustrates the complex conservation challenges associated with non-native species introductions in aquatic ecosystems.
+
+## Context
+> - **Native taxa at risk** — Referenced as "[[Meda]]" (likely *[[Meda fulgida]]*, the spikedace, a small elongate [[Cyprinidae|cyprinid minnow]] endemic to the Gila River basin) and a second native form, tentatively *[[Poeciliopsis occidentalis]]*, the Gila topminnow, a small live-bearing poecilii...
+> -- *[[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]*
+
+## Mentioned In
+- [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
+- [[LetterToWLMinckleyRegardingSpi_1987_03_27]]
+- [[SomeFactorsAffectingTheResista_1964]]

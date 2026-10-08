@@ -1,0 +1,23 @@
+---
+type: concept
+auto_enriched: true
+---
+# Cichlasoma
+
+## Summary
+Cichlasoma is a genus of cichlid fishes that has served as an important model for understanding fish invasion dynamics and ecological displacement in freshwater ecosystems, particularly in North American desert aquatic systems where these competitive, generalist species have demonstrated high establishment success in species-poor communities. As an exotic introduction in vulnerable habitats like the Chihuahuan Desert, Cichlasoma exemplifies how invasive cichlids can outcompete native fish fauna, making it relevant to conservation biology and the study of biological invasions in trophically simplified aquatic ecosystems. The genus represents a critical case study in aquatic ecology for understanding how introduced fish species exploit resource niches and displace endemic fauna in isolated desert springs and reservoirs.
+
+## Context
+> - **Trophic simplicity and invasion vulnerability**: Most Chihuahuan Desert aquatic ecosystems have few organisms per trophic level and are dominated by generalist species, making them highly susceptible to displacement by competitively-selected exotic introductions ([[Hubbs 1972]]). - **Reservoi...
+> -- *[[CompositionAndDerivationOfTheN_15363]]*
+
+> **Biological factors (primary drivers)**: - **Vegetation avoidance**: Significant negative association with *Thalassia testudinum* and *Syringodium filiforme* beds (p < 0.0001, χ² = 35.410), though the species can be abundant among freshwater vascular plants (*Scirpus* sp., *Najas* sp.) in the ab...
+> -- *[[FactorsInfluencingLocalDistrib_17059]]*
+
+> - **Dionda**: a speciose cyprinid genus with at least 13 species, including 3 undescribed forms from the Mezquital drainage; 7 species form a **species flock** endemic to the Río Parruco basin — evidence of rapid, basin-confined diversification. - **Cyprinodontidae** in the Yucatan checklist is f...
+> -- *[[ProbableOriginOfSomeDisjunctFi_15303]]*
+
+## Mentioned In
+- [[CompositionAndDerivationOfTheN_15363]]
+- [[FactorsInfluencingLocalDistrib_17059]]
+- [[ProbableOriginOfSomeDisjunctFi_15303]]

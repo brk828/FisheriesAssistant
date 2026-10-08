@@ -1,0 +1,50 @@
+---
+type: concept
+auto_enriched: true
+---
+# American Fisheries Society
+
+## Summary
+The American Fisheries Society is a professional scientific organization dedicated to advancing knowledge and practices in fish science, conservation biology, and aquatic ecology. As evidenced by its involvement in taxonomic discussions, policy recommendations, and collaborative efforts on endangered species and desert fish conservation, the society serves as a key institutional forum for fisheries professionals and researchers to address scientific controversies, establish best practices, and inform wildlife management decisions. The organization plays a critical role in coordinating conservation efforts across governmental agencies and research institutions, particularly regarding the protection of native freshwater fish species threatened by habitat loss and non-native species displacement.
+
+## Context
+> This draft protocol, developed by the [[American Fisheries Society]] Western Division Endangered Species Committee, addresses the widespread but poorly standardized practice of introducing (translocating) threatened and endangered fishes as a recovery tool. An analysis of 37 approved [[U.S. Fish ...
+> -- *[[AmericanFisheriesSocietyProtoc_12011]]*
+
+> This document is **not a biological or ichthyological research paper**; it is a committee report to the [[American Fisheries Society]] evaluating whether to establish a new quarterly scientific journal, separate from or replacing the Society's long-running publication, the [[Transactions Of The A...
+> -- *[[CommitteeToConsiderEstablishme_17229]]*
+
+> - **Core Issue**: A draft memorandum from the Phoenix Ecological Services office contained a paragraph addressing a taxonomic naming controversy; this paragraph was recommended for deletion by the Regional Fisheries & Federal Aid office. - **Policy Position**: The Fish and Wildlife Service should...
+> -- *[[ControversialTaxonomicNamesOfF_1993_08_05]]*
+
+> - **Habitat**: [[Palm Lake]] is an artificial/impounded lake within the **[[Hassayampa River Preserve]]**, a riparian conservation area in the Sonoran Desert region of Arizona, an ecosystem of high conservation priority for **[[native freshwater fish]]** due to widespread displacement by non-nati...
+> -- *[[HassayampaLakeRenova_16653]]*
+
+> This document is a **policy and news report**, not a primary scientific study, covering a 2000 speech by Oregon Governor John Kitzhaber to the Oregon Chapter of the [[American Fisheries Society]] annual conference. The speech addresses the imminent risk of extinction facing [[Pacific Salmon]] pop...
+> -- *[[KitzhaberCallsForBreachingFour_13544]]*
+
+## Mentioned In
+- [[AmericanFisheriesSocietyPositi_11162]]
+- [[AmericanFisheriesSocietyProtoc_12011]]
+- [[CommentsOnTheDesertFishesCounc_20490]]
+- [[CommentsOnTheIntentionalIntrod_1993_10_20]]
+- [[CommitteeToConsiderEstablishme_17229]]
+- [[ControversialTaxonomicNamesOfF_1993_08_05]]
+- [[EndangeredAndThreatenedWildlif_1993_03_16]]
+- [[HassayampaLakeRenova_16653]]
+- [[HatcheryBashingAUselessPastime_14357]]
+- [[KitzhaberCallsForBreachingFour_13544]]
+- [[LetterRegardingCommitteeQuesti_1993_02_26]]
+- [[LetterRegardingReviewOfPropose_1990_05_03]]
+- [[ListOfFisheryAssociationsInThe_12333]]
+- [[NewDesertFishInterestGroupForm_1990_01_09]]
+- [[PercyVioscaJr_17835]]
+- [[PositionPaperConservingFederal_1994_10_25]]
+- [[PositionStatementOnRecreationa_1994_09_01]]
+- [[ReportOfTheCommitteeOnNamesOfF_17233]]
+- [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
+- [[TerminologyAssociatedWithIntro_11384]]
+- [[ThinkingTitleFromSubjectLineco_1997_05_29]]
+- [[TroutNomenclature_18189]]
+- [[UsFishAndWildlifeServiceMeetin_15771]]
+- [[WaterPollutionAbatementOurGrea_14153]]

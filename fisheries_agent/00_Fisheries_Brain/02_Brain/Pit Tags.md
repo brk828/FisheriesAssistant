@@ -1,0 +1,20 @@
+---
+type: concept
+auto_enriched: true
+---
+# Pit Tags
+
+## Summary
+Pit tags, or Passive Integrated Transponder tags, are small electronic microchips injected into fish that allow researchers to identify and track individual animals without recapture through radiofrequency detection systems. In the context of the Colorado River Recovery Program, pit tags were distributed to cooperating researchers studying endangered fish species, enabling long-term monitoring of fish movements, survival, and population dynamics essential for conservation management. This technology provides a non-lethal, permanent identification method that supports data compilation and adaptive management strategies for threatened aquatic species.
+
+## Context
+> This report is **not a species-specific biological study** but an administrative/data-infrastructure project supporting the [[Colorado River Recovery Program]]. Project 22, led by Frank K. Pfeifer and researcher Charles W. McAda of the [[Colorado River Fishery Project]] (U.S. Fish and Wildlife Se...
+> -- *[[DatabaseManagementProgramColor_1993]]*
+
+> - **Study Duration:** Initiated 1986; ongoing as of FY93. - **PIT Tag Distribution:** 850 [[PIT Tags]] cataloged and distributed to cooperating researchers in FY93 (400 newly purchased; 450 carried over from FY92) for tagging studies on endangered fishes. - **Tagging Data Compilation:** All endan...
+> -- *[[DatabaseManagementProgramColor_1993]]*
+
+## Mentioned In
+- [[DatabaseManagementProgramColor_1993]]
+- [[GlenCanyonEnvironmentalStudies_1992_09_13]]
+- [[LetterToDavidLWegnerRegardingP_1991_08_12]]

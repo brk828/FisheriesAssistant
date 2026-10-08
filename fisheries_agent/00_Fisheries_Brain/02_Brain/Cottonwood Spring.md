@@ -1,0 +1,16 @@
+---
+type: concept
+auto_enriched: true
+---
+# Cottonwood Spring
+
+## Context
+> - **Range**: Historically distributed across the [[Gila River]] basin, including the [[Santa Cruz River]] and [[San Pedro River]] systems, spanning the U.S.–Mexico border in Arizona and Sonora. - **Habitat type**: Desert springs, cienegas (marshy wetlands), and small perennial streams — highly lo...
+> -- *[[MinutesOfTheDesertFishesRecove_1993_04_08]]*
+
+> - **Rediscovery of co-occurrence**: Gila Topminnow was found coexisting with mosquitofish and [[Green Sunfish]] in April 1976 in the upper Santa Cruz River near Locheil — a site sampled five times from 1964–1974 without any topminnow records, highlighting the difficulty of confirming true local e...
+> -- *[[StatusOfTheGilaTopminnowAndIts_13684]]*
+
+## Mentioned In
+- [[MinutesOfTheDesertFishesRecove_1993_04_08]]
+- [[StatusOfTheGilaTopminnowAndIts_13684]]

@@ -1,0 +1,35 @@
+---
+type: concept
+auto_enriched: true
+---
+# Sacramento River
+
+## Summary
+The Sacramento River is a major California river system that serves as a critical habitat and management focus for fish conservation and aquaculture in the region, particularly as the location of important hatchery facilities like Coleman National Fish Hatchery near Anderson. As a significant freshwater river system, it supports various fish populations and represents a key area for fisheries management, species restoration, and ecological study in California's aquatic systems. The river's role in ichthyological research and conservation extends to understanding both native fish populations and the impact of artificial propagation programs on wild fish communities.
+
+## Context
+> - **Yellowstone Hotspot region**: Pierce & Morgan (Abstract 51131) link fish, mollusk, and geomorphic evidence to drainage shifts along the migrating [[Yellowstone Hotspot]] track, including a ~3–5 Ma connection between [[Lake Idaho]] and the [[Sacramento River]], later captured by the [[Hells Ca...
+> -- *[[AbstractsFromTheConferenceGeol_1999_10_28]]*
+
+> - **Habitat**: Kokanee are obligate freshwater, lacustrine fish completing their entire life cycle in lakes and connected tributary streams — unlike the anadromous [[Sockeye Salmon]] from which they are derived. - **Evolutionary origin**: Kokanee likely evolved from "residual" sockeye populations...
+> -- *[[AReviewOfKokaneeInCalifornia_1963]]*
+
+> This 1961 report documents the pioneering effort to culture [[Channel Catfish]] (*Ictalurus punctatus*), a nonnative game fish, at the [[Central Valleys Fish Hatchery]] in Elk Grove, California — the only state-operated warm-water hatchery on the Pacific coast at the time. Beginning with wild bro...
+> -- *[[ChannelCatfishCultureInCalifor_16946]]*
+
+> This 1985 study by [[Peter B. Moyle]] and [[Donald M. Baltz]] examined microhabitat use (depth, velocity, substrate) by an assemblage of eight native California stream fishes in [[Deer Creek]], a relatively unmodified tributary of the [[Sacramento River]] in Tehama County, California. The researc...
+> -- *[[MicrohabitatUseByAnAssemblageO_1985]]*
+
+> This document is a **station profile** for the Coleman National Fish Hatchery (Coleman NFH), a U.S. Fish and Wildlife Service facility located on the [[Sacramento River]] near Anderson, California. Rather than presenting original morphological or ecological research, the source is an administrati...
+> -- *[[StationProfileOfTheColemanNati_19568]]*
+
+## Mentioned In
+- [[AReviewOfKokaneeInCalifornia_1963]]
+- [[AbstractsFromTheConferenceGeol_1999_10_28]]
+- [[ChannelCatfishCultureInCalifor_16946]]
+- [[LargemouthBassTaggingAtClearLa_12532]]
+- [[MicrohabitatUseByAnAssemblageO_1985]]
+- [[PreliminaryReportOnFishRemains_18753]]
+- [[StationProfileOfTheCaliforniaN_19503]]
+- [[StationProfileOfTheColemanNati_19568]]
+- [[TheFreshWaterFishFaunaOfCalifo_11392]]

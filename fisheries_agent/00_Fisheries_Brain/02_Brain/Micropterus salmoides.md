@@ -1,0 +1,46 @@
+---
+type: concept
+auto_enriched: true
+---
+# Micropterus Salmoides
+
+## Summary
+*Micropterus salmoides*, commonly known as the largemouth bass, is a highly adaptable freshwater predator native to North America that has become established in diverse aquatic systems worldwide, including arid regions like the Pecos River basin where it functions as an apex predator. In conservation contexts, its introduction into native fish communities often poses significant ecological risks, as its aggressive piscivory can substantially impact populations of endemic and threatened species, particularly in isolated habitats with limited refuge. Understanding the distribution, ecology, and competitive interactions of *M. salmoides* is therefore critical for assessing and managing invasive species impacts in freshwater ecosystems, especially in biodiverse but fragile environments.
+
+## Context
+> - **Anadromous/diadromous lineages**: [[Petromyzonidae|Lampreys]] (including the invasive [[Petromyzon Marinus|Sea Lamprey]]), [[Anguillidae|American Eel]], and clupeids such as [[Alosa Pseudoharengus|Alewife]] and [[Alosa Sapidissima|American Shad]]. - **Coldwater lake specialists**: [[Salvelinu...
+> -- *[[AListOfOntarioFishes_11321]]*
+
+> Not applicable — this is a policy/conservation genetics position statement rather than a species-specific morphological study. The document does reference genetic and phenotypic divergence as an *outcome* of stock isolation (e.g., [[Micropterus Salmoides|largemouth bass]] northern vs. Florida sub...
+> -- *[[AmericanFisheriesSocietyPositi_11162]]*
+
+> - **Predator-prey interactions:** - Egg predation observed by *[[Notropis zonatus]]*. - Larval/hatchling predation observed by *[[Etheostoma caeruleum]]* and *[[Percina evides]]*. - Additional species congregating near exposed nests (though not directly observed feeding) included *E. flabellare*,...
+> -- *[[AspectsOfTheLifeHistoryOfTheOz_15231]]*
+
+> - **Habitat**: The Pecos River system supports a mix of large-river generalists (e.g., *[[Ictalurus Punctatus]]*, *[[Aplodinotus Grunniens]]*), headwater/upper-reach specialists (e.g., *[[Catostomus Commersoni]]*, *[[Semotilus Atromaculatus]]*, *[[Campostoma Anomalum]]* — all noted "upper Pecos" ...
+> -- *[[ChecklistOfPecosRiverAndMexica_18282]]*
+
+> **Apex Predators**: *[[Micropterus salmoides]]* (Largemouth Bass, non-native but established) and the piscivore morph of *C. minckleyi*, limited to pools with sufficient habitat volume.
+> -- *[[Cuatro Ciénegas Food Web]]*
+
+## Mentioned In
+- [[AListOfOntarioFishes_11321]]
+- [[APreliminarySurveyOfFoodHabits_1954]]
+- [[AgeAndGrowthOfLargemouthBassIn_1964]]
+- [[AmericanFisheriesSocietyPositi_11162]]
+- [[AspectsOfTheLifeHistoryOfTheOz_15231]]
+- [[ChecklistOfPecosRiverAndMexica_18282]]
+- [[Cuatro Ciénegas Food Web]]
+- [[Development of Color Pattern in Pond-Reared Young of Five Bass Species (Micropterus) of Southeastern U. S.]]
+- [[DorosomaPetenenseGüntherNuevoR_13094]]
+- [[ExperimentsOnCommercialFishPro_15100]]
+- [[LargemouthBassTaggingAtClearLa_12532]]
+- [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
+- [[LimnologyOfFlintHillsFarmPonds_1957]]
+- [[NotesOnTheDistributionOfBlackb_14184]]
+- [[OrmeMaxwellDamLandAndWaterProj_1967_03_31]]
+- [[SizeBiasedPredationByTheGilaTo_1980]]
+- [[StationProfileOfMeri_19533]]
+- [[TheSportFisheryInAnArkansasWat_1968_10_21]]
+- [[WaterTemperatureCriteriaToProt_15269]]
+- [[WhyTheMassachusettsDivisionOfF_15491]]

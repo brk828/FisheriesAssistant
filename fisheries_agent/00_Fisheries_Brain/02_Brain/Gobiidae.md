@@ -1,0 +1,30 @@
+---
+type: concept
+auto_enriched: true
+---
+# Gobiidae
+
+## Summary
+Gobiidae is a large and diverse family of small, benthic fish characterized by the fusion of their pelvic fins into a single disc-like structure, which they use for attachment and movement across substrates. Members of this family are found in marine, brackish, and freshwater environments worldwide and are of significant interest to ichthyologists and conservation biologists due to their ecological roles in benthic communities, their diverse reproductive strategies including male brood care behaviors, and their use as model organisms for studying fish behavior and adaptation to variable aquatic habitats. The family includes numerous species with varying morphological and ecological characteristics, making it a rich subject for taxonomic research and ecological investigations.
+
+## Context
+> - **Freshwater residents** are assigned to one or more of the **eight Texas game areas**: (1) East Texas timber/blackland prairie, (2) coastal prairie, (3) South Texas brushlands, (4) main blackland prairie, (5) cross timbers/grand prairie, (6) Edwards Plateau, (7) High Plains, (8) Trans-Pecos. -...
+> -- *[[AChecklistOfTexasFreshWaterFis_14208]]*
+
+> This document (identifier "15497") appears to be a heavily degraded OCR transcription of a **handwritten historical manuscript**, likely 19th-century correspondence or field notes related to ichthyological taxonomy. The text is largely illegible due to OCR misreading of cursive handwriting, but r...
+> -- *[[ContributionToTheSystematicsAn_15497]]*
+
+> - No definitive morphological descriptions could be recovered from the OCR text. - Fragmentary references to body coloration or pattern descriptors may relate to pigmentation or patterning notes for the taxon in question, but these cannot be verified with confidence. - The term **"poecilogus"** (...
+> -- *[[ContributionToTheSystematicsAn_15497]]*
+
+> - The manuscript likely constitutes **taxonomic correspondence** concerning a goby-like species, tentatively linked to the [[Gobiidae]] family, possibly *Gobius poecilogus* or a closely related nominal taxon. - References to specific years (**1854**, **1860**) suggest a timeline relevant to **spe...
+> -- *[[ContributionToTheSystematicsAn_15497]]*
+
+## Mentioned In
+- [[AChecklistOfTexasFreshWaterFis_14208]]
+- [[AnOrientalGobyCollectedInTheSa_12952]]
+- [[ClaveParaLosPecesDeLasAguasCon_1968]]
+- [[ContributionToTheSystematicsAn_15497]]
+- [[Goby_1963]]
+- [[ObservationsOnTheMudsuckerGill_12127]]
+- [[PrevalenceOfMaleBroodCareInTel_1978]]

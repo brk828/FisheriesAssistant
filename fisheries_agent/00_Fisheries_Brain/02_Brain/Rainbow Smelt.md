@@ -1,0 +1,47 @@
+---
+type: concept
+auto_enriched: true
+---
+# Rainbow Smelt
+
+## Summary
+Rainbow Smelt (*Osmerus mordax*) is a small, anadromous forage fish native to Atlantic coastal regions of North America that was proposed for introduction into Lake Powell as a potential food source to support declining populations of native predatory fish species. In the context of these historical documents from the late 1980s and early 1990s, the species became a focal point for debate among ichthyologists, conservation biologists, and resource management agencies regarding the ecological risks of introducing non-native fish into sensitive aquatic ecosystems. The concerns raised centered on potential negative impacts to native species and overall ecosystem integrity, reflecting broader principles in conservation biology about the unintended consequences of species introductions.
+
+## Context
+> This document is a critical policy response, authored on behalf of the Colorado River Wildlife Council, opposing a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] as a forage-fish solution to declining predatory fish populations. The author argues that the proposal...
+> -- *[[AResponseToTheProposalToIntrod_1987]]*
+
+> This document is a **peer review/commentary** (by Robert G. Howells) on a March 1990 management proposal by Gustaveson, Maddux, and Bonebrake evaluating the introduction of a forage fish species — primarily **[[Rainbow Smelt]]** (or an alternative **[[Pygmy Smelt]]** dwarf form) — into **[[Lake P...
+> -- *[[AssessmentOfAForageFishIntrodu_19952]]*
+
+> - **Habitat**: Predominantly the [[St. Lawrence River]] and its estuary, with recoveries extending into the wider Northwest Atlantic coastal zone. - **Migratory Behavior** (documented via tag recovery distances): - [[Atlantic Sturgeon]]: tagged at Isle-aux-Coudres, recovered at Fox Point, Nova Sc...
+> -- *[[FishTagsAndTaggingInQuebecWate_1957]]*
+
+> This document is a brief administrative cover letter from the **National Park Service, Grand Canyon National Park**, addressed to ichthyologist **W. L. Minckley** at Arizona State University. It accompanies enclosed materials (not included in this OCR excerpt) outlining the park's official positi...
+> -- *[[IntroductionOfRainbowSmeltInto_21103]]*
+
+> This document is a formal letter from the **American Society of Ichthyologists and Herpetologists (ASIH) Environmental Quality Committee**, authored by Walter R. Courtenay, Jr., opposing a proposal by the Utah Division of Wildlife Resources to introduce **[[Rainbow Smelt]]** (*Osmerus mordax*) in...
+> -- *[[LetterFromAsihEnvironmentalQua_1990_05_09]]*
+
+## Mentioned In
+- [[AResponseToTheProposalToIntrod_1987]]
+- [[AssessmentOfAForageFishIntrodu_19952]]
+- [[CommentsOnProposedIntroduction_1986_02_04]]
+- [[DispersalOfRainbowSmeltOsmerus_1980]]
+- [[FishTagsAndTaggingInQuebecWate_1957]]
+- [[IntroductionOfRainbowSmeltInto_21103]]
+- [[LakePowellRainbowSmeltStocking_1990_04_18]]
+- [[LetterFromAsihEnvironmentalQua_1990_05_09]]
+- [[LetterOpposingProposedIntroduc_1999_02_08]]
+- [[LetterRegardingProposalForIntr_1989_08_30]]
+- [[LetterRegardingProposedStockin_1989_06_23]]
+- [[LetterRegardingReviewOfPropose_1990_05_03]]
+- [[LetterToCarlSullivanOnRainbowS_1990_05_25]]
+- [[LetterToDrWendellMinckleyOnRai_1990_03_12]]
+- [[LetterToGeorgeSSommerRegarding_1990]]
+- [[LetterToTimothyProvanRegarding_1990_04_10]]
+- [[MemorandumOnStockingOfNonnativ_1989_05_11]]
+- [[ProposedIntroductionOfRainbowS_11577]]
+- [[ProposedIntroductionOfRainbowS_14700]]
+- [[RainbowSmeltIntroductionIntoLa_1989]]
+- [[TheSmeltOsmerusMordaxMitchill_13092]]

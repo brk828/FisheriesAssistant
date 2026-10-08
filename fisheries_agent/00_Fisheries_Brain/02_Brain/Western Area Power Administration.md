@@ -1,0 +1,33 @@
+---
+type: concept
+auto_enriched: true
+---
+# Western Area Power Administration
+
+## Summary
+The Western Area Power Administration (WAPA) is a federal agency responsible for managing hydroelectric power generation and transmission in the western United States, and in the context of aquatic ecology and fish conservation, it serves as a key stakeholder in coordinating dam operations and water releases that directly impact downstream riverine ecosystems and endangered fish species. WAPA's involvement in programs like the Colorado River Endangered Species Recovery Program reflects its role in balancing hydropower production with ecological considerations, particularly regarding how controlled flow regimes from facilities like Glen Canyon Dam affect native fish habitat, river geomorphology, and species recovery in regulated river systems. The agency's participation in interagency coordination underscores the intersection between energy infrastructure management and the ecological restoration needs of threatened aquatic communities.
+
+## Context
+> This document is a compilation of agency and stakeholder comments (1999) responding to a **Lower Colorado River Basin "Big-River Fishes" Management Prospectus** issued by the U.S. Fish and Wildlife Service (USFWS). Rather than presenting primary morphological or ecological data, the source captur...
+> -- *[[CompilationOfCommentsOnBigRive_11763]]*
+
+> - The species inhabits large, free-flowing river systems within this basin. - Its conservation status necessitates interagency coordination, including involvement of the **[[Western Area Power Administration]]**, suggesting potential ecological interactions with **hydropower operations and flow r...
+> -- *[[ErrataSheetFyWorkPlanForTheRec_20993]]*
+
+> - **Underfunded mitigation**: Of **$1.2 billion** spent on Central Utah Project (CUP) developments, less than **$10 million** (<1%) was allocated to fish and wildlife mitigation. - **Proposed funding mechanism** (Colorado Basin Conservation Fund) comprised of three revenue streams: 1. **$1/acre-f...
+> -- *[[EstablishingAColoradoRiverCons_20111]]*
+
+> - **Regulated River Habitat**: The subject matter concerns "Interim Flow" monitoring — i.e., experimental or modified dam release patterns from [[Glen Canyon Dam]] and their downstream ecological effects on the [[Colorado River]] corridor through [[Grand Canyon]]. - **Stakeholder Ecological Exper...
+> -- *[[GlenCanyonEnvironmentalStudies_1992_03_07]]*
+
+> - **Interacting Stakeholder/Management Framework:** - Federal and state agencies ([[U.S. Fish and Wildlife Service]], [[Bureau of Reclamation]], [[Western Area Power Administration]]) manage flow regimes to balance water use with endangered species conservation. - Nonnative fish stocking is gover...
+> -- *[[InterestGroupParticipationInTh_1994_08_05]]*
+
+## Mentioned In
+- [[CompilationOfCommentsOnBigRive_11763]]
+- [[ErrataSheetFyWorkPlanForTheRec_20993]]
+- [[EstablishingAColoradoRiverCons_20111]]
+- [[GlenCanyonEnvironmentalStudies_1992_03_07]]
+- [[InterestGroupParticipationInTh_1994_08_05]]
+- [[MeetingToDiscussTheSpikeFlow_1993_07_09]]
+- [[ReclamationToBeginWorkOnGlenCa_1989_11_02]]

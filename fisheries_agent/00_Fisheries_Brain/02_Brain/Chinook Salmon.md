@@ -1,0 +1,53 @@
+---
+type: concept
+auto_enriched: true
+---
+# Chinook Salmon
+
+## Summary
+Chinook Salmon (*Oncorhynchus tshawytscha*) are the largest Pacific salmon species and are of paramount importance to conservation efforts in western North American river systems, particularly the Columbia River drainage, where they have experienced significant population declines due to habitat loss and dam construction. As an anadromous species, they play critical ecological roles as both predators and nutrient transporters, making their restoration a central focus of federal hatchery programs and habitat rehabilitation initiatives. Their management involves coordinated efforts among multiple agencies to maintain wild populations and support sustainable fisheries through controlled breeding and reintroduction strategies.
+
+## Context
+> This document is a legal/policy case study rather than a primary biological research paper, but it contains substantial fisheries science context relevant to [[Anadromous Fish]] management in the Pacific Northwest. The central case concerns a permit application by the Crown Zellerbach Corporation...
+> -- *[[ACaseStudyOfDecisionMakingInTh_17701]]*
+
+> - Each stock's local environment (physical, chemical, biological) imposes a **unique selection regime** (Futuyma 1986), driving divergence among stocks of the same species. - **Stock** is defined as a randomly breeding group of individuals maintaining spatial, temporal, or behavioral integrity re...
+> -- *[[AmericanFisheriesSocietyPositi_11162]]*
+
+> This paper (Miller, Wetherall & Lenarz, 1967) describes a multidisciplinary research program by the University of Washington's Fisheries Research Institute to study estuarine ecology in Puget Sound, with the [[Duwamish River]] and [[Elliott Bay]] estuary complex as the primary focus. Funded by a ...
+> -- *[[AModernApproachToTheStudyOfEst_1967_03_13]]*
+
+> This 1960 laboratory study examined the ability of four juvenile freshwater fish species — [[Chinook Salmon]], [[Coho Salmon]], [[Largemouth Bass]], and [[Bluegill]] — to detect and avoid water with reduced dissolved-oxygen (DO) concentrations using a custom "channeled avoidance tank." Across 174...
+> -- *[[AvoidanceReactionsOfSalmonidAn_12229]]*
+
+> This is not a species-morphology paper; it is a fishing-effort/creel survey concerned with angler behavior rather than fish anatomy. No morphological data on target species are presented. The [[San Francisco Bay and Delta]] fishery is noted as targeting primarily anadromous species — [[Chinook Sa...
+> -- *[[CaliforniaMarineAndFreshWaterS_15910]]*
+
+## Mentioned In
+- [[ACaseStudyOfDecisionMakingInTh_17701]]
+- [[AModernApproachToTheStudyOfEst_1967_03_13]]
+- [[AmericanFisheriesSocietyPositi_11162]]
+- [[AvoidanceReactionsOfSalmonidAn_12229]]
+- [[CaliforniaMarineAndFreshWaterS_15910]]
+- [[CarsonNationalFishHatcheryStat_19570]]
+- [[ChinookSalmonPondRearingStudie_16813]]
+- [[DeclineOfTheNativeFishFaunaOfT_1974]]
+- [[DrugSensitivityOfChondrococcus_1969]]
+- [[EvaluationOfSpringChinookMigra_1969]]
+- [[FishDistributionNumbersAndWeig_1992]]
+- [[FishSpeciesFromThePointStGeorg_1965_02_22]]
+- [[GenomeSizesOfTheTeleosteanFish_15720]]
+- [[OwnersToDemolishDamThatBlocksF_14938]]
+- [[PlanOfferedToProtectHabitatsOf_18307]]
+- [[ReportOfTheCommitteeOnNamesOfF_17233]]
+- [[ReviewOfFreshwaterFishesOfEast_11318]]
+- [[SomePhysiologicalConsequencesO_1980]]
+- [[StationProfileOfTheAbernathySa_1993]]
+- [[StationProfileOfTheColemanNati_19568]]
+- [[StationProfileOfTheH_19552]]
+- [[StationProfileOfTheLeavenworth_1993]]
+- [[StationProfileOfTheSpringCreek_19519]]
+- [[StressInducedPathologiesInFish_1993]]
+- [[TwoYearCreelCensusOfTheLittleS_1955]]
+- [[UseOfGeneticMarksToAssessStock_11327]]
+- [[WaterRequirementsOfSalmonids_12413]]

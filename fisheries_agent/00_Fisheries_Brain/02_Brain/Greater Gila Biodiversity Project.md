@@ -1,0 +1,16 @@
+---
+type: concept
+auto_enriched: true
+---
+# Greater Gila Biodiversity Project
+
+## Context
+> This document is not a primary scientific study but a legal notice of intent to sue, filed by attorney Matthew Kenna on behalf of the [[Greater Gila Biodiversity Project]] and the [[Southwest Center for Biological Diversity]] against the U.S. Fish and Wildlife Service (FWS). The core issue is the...
+> -- *[[LegalProceedingsAgainstUsfwsTo_17940]]*
+
+> - **Listing Dates**: The [[Loach Minnow]] was listed as Threatened in 1985; the [[Spikedace]] was listed as Threatened on July 8, 1986 (51 F.R. 23769). - **Proposed Critical Habitat**: A critical habitat designation package for both species was proposed on June 18, 1985 (50 F.R. 25390) — notably ...
+> -- *[[LegalProceedingsAgainstUsfwsTo_17940]]*
+
+## Mentioned In
+- [[LegalProceedingsAgainstUsfwsTo_17940]]
+- [[NoticeOfViolationOfSectionOfTh_1993_10_19]]

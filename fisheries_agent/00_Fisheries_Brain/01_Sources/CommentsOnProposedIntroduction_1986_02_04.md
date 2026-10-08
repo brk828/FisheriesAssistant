@@ -1,0 +1,45 @@
+---
+species: "Rainbow Smelt (Osmerus mordax); Striped Bass (Morone saxatilis); Threadfin Shad (Dorosoma petenense); Humpback Chub (Gila cypha); Bonytail (Gila elegans); Razorback Sucker (Xyrauchen texanus); Colorado Squawfish (Ptychocheilus lucius)"
+family: "Osmeridae; Moronidae; Clupeidae; Cyprinidae; Catostomidae"
+habitat: "Deep oligotrophic reservoir (Lake Powell); riverine backwaters; Colorado River mainstem and tributaries (Little Colorado, San Juan, Green Rivers); downstream reservoirs (Lake Mohave, Lake Havasu, Lake Mead)"
+ocean_basin: "N/A (freshwater - Colorado River Basin, southwestern United States)"
+document_type: "Expert commentary letter / policy critique"
+date: "1986-02-04"
+author: "Paul C. Marsh, Arizona State University"
+source_id: "19421"
+---
+
+# Comments on Proposed Introduction of Rainbow Smelt into Lake Powell
+
+#ichthyology #freshwater-biology #Osmeridae #ColoradoRiverBasin #ConservationBiology
+
+## Executive Summary
+This 1986 letter from ichthyologist Paul C. Marsh (Arizona State University) is a formal scientific critique of a proposal by Utah Division of Wildlife biologist Wayne Gustaveson to introduce non-native [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] as a forage enhancement for the reservoir's [[Striped Bass]] fishery. Marsh does not dispute that smelt introduction might enhance striped bass fishing, but raises substantial ecological, regulatory, and data-quality concerns. Central among these is the risk that smelt could migrate downstream (and upstream) throughout the [[Colorado River Basin]], potentially impacting several federally and state-listed endangered native fishes, including [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]], and [[Colorado Squawfish]]. The letter also critiques the underlying trophic-ecology rationale, fishery data quality, and historical management pattern of ad hoc stocking decisions at Lake Powell.
+
+## Background & Description
+While this document is a policy/ecological critique rather than a morphological study, it references several diagnostic and life-history traits relevant to trophic classification:
+
+- **Rainbow Smelt (*Osmerus mordax*)**: A cold-water, deep-dwelling osmerid fish expected to occupy habitat below the thermocline (60–100 ft depth in summer) in Lake Powell. Primarily a **secondary consumer**, with diet dominated by invertebrate prey (zooplankton/benthic invertebrates) rather than phytoplankton.
+- **Threadfin Shad (*Dorosoma petenense*)**: A **primary consumer/planktivore**, with phytoplankton forming a substantial diet component; occupies warm surface waters, making it more accessible to predators and, indirectly, to anglers targeting striped bass.
+- **Striped Bass (*Morone saxatilis*)**: Piscivorous predator implicated in depleting threadfin shad populations in both Lake Powell and (historically) Lake Mead; documented to be declining in individual condition at the time of writing, even while overall abundance may not yet be declining.
+- **Humpback Chub (*Gila cypha*)**: Endangered cyprinid; large extant population in the Little Colorado River (among the largest remaining anywhere) and mainstem Colorado River in Grand Canyon.
+- **Bonytail (*Gila elegans*)**: Described as "the most critically-imperiled fish in the Colorado River basin"; remnant adult population of unknown status in Lake Mohave; scarce enough that recovery plans directed removal of wild-caught individuals into refugia.
+- **Razorback Sucker (*Xyrauchen texanus*)**: State-listed (candidate for federal threatened status); large **non-recruiting** population in Lake Mohave; adults and juveniles recently captured in Lake Havasu and downstream Colorado River.
+- **Colorado Squawfish (*Ptychocheilus lucius*)**: Endangered pikeminnow cyprinid occupying upstream tributaries (San Juan River, Green River) potentially vulnerable to upstream smelt migration.
+
+## Ecological & Environmental Context
+- **Trophic position mismatch**: Smelt occupy a lower trophic tier (secondary consumers of invertebrates) compared to threadfin shad (which access primary production via phytoplankton). Per trophic-energy-transfer principles, if striped bass predation already suppresses/limits threadfin shad (a more energy-efficient prey base), smelt — occupying a less energetically favorable niche — are argued to be even less capable of sustaining predator populations long-term.
+- **Depth stratification**: Smelt are expected to inhabit cold water below the thermocline (60–100 ft), in a reservoir with average depth of 166 feet, shifting striped bass foraging (and thus angler access) away from surface/near-surface zones where shad-based feeding currently occurs. This creates a spatial mismatch between fish distribution and angler accessibility.
+- **Connectivity risk**: Lake Powell has hydrological connectivity to the broader [[Colorado River Basin]], spanning Arizona, California, Colorado, New Mexico, Nevada, and Utah. Downstream migration risk threatens endangered fish in Grand Canyon (humpback chub), Lake Mohave (bonytail, razorback sucker), and Lake Havasu/lower Colorado River (razorback sucker). Upstream migration risk threatens riverine endangered fish populations in the San Juan and Green River tributaries (bonytail, humpback chub, Colorado squawfish).
+- **Community food web context**: The proposal is framed within an already destabilized fish community — largemouth bass decline → threadfin shad stocking → smallmouth bass introduction → striped bass predation collapse of shad — illustrating a reactive, non-strategic history of species introductions in Lake Powell's [[Fish Community Management]].
+
+## Key Findings
+- **Regulatory/conservation objection**: Introducing an exotic forage fish with unknown ecological impacts and basin-wide access constitutes a "basic departure" from established Colorado River conservation philosophy; the letter calls for formal Section 7 consultation with the U.S. Fish and Wildlife Service and a full Environmental Impact Assessment before any introduction proceeds.
+- **Endangered species risk**: All three federally/state-listed native fishes discussed (humpback chub, bonytail, razorback sucker) have already been depleted or extirpated in parts of their range due to interactions with non-native fish; a "substantial case" cannot yet be made that smelt would have no impact on these species.
+- **Quantitative fishery analysis**: Using catch-per-unit-effort (~0.4 fish/hr) and estimated angler-days (~260,000), the letter calculates a total Lake Powell harvest of roughly 832,000 fish, equating to ~5.2 fish/acre across the 161,390-acre reservoir — comparable to Lake Mead's ~6.1 fish/acre, suggesting Lake Powell's fishery is not obviously under-producing relative to comparable systems.
+- **Internal proposal contradiction**: Documents simultaneously call for controlling striped bass population size while proposing a forage species intended to enhance striped bass numbers and size — a goal conflict the letter argues should be resolved via harvest regulation/commercialization rather than additional forage stocking.
+- **Trophic-energy argument against smelt viability**: If striped bass predation already outpaces the productivity supporting threadfin shad (a phytoplankton-linked primary consumer), it is ecologically implausible that smelt (a secondary-consumer, lower-productivity forage base) could sustain striped bass populations any better; the letter predicts an initial population boost in both species followed by decline in both.
+- **Angler accessibility concern**: Because smelt are expected to occupy deep, sub-thermocline waters, striped bass would follow prey to depths of 60–100+ feet, reducing surface-water fishing success and requiring anglers to adapt techniques across an "immense volume of water."
+- **Data quality critique**: The claimed "three-year trend" in threadfin shad abundance is actually derived from only ten years of sparse, spatially limited sampling data — insufficient to support long-term population trend conclusions for a reservoir of Lake Powell's size. Similar data-limitation critiques apply to striped bass abundance records (~decade of data) and to unverified claims about reservoir primary productivity/nutrient adequacy.
+- **Historical management critique**: Lake Powell's stocking record reflects a reactive "hit or miss" pattern (e.g., threadfin shad stocked after largemouth bass decline; smallmouth bass added as black bass fishery weakened; rainbow trout stocking overwhelmed by striped bass predation) rather than a coherent, quantitative, long-term fishery management strategy.
+- **Recommendation**: The letter concludes that the smelt introduction proposal is premature and urges broad consultation with fishery experts across all Colorado River Basin state and federal agencies, plus private organizations and the public, before proceeding.

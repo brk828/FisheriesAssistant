@@ -1,0 +1,15 @@
+---
+type: concept
+auto_enriched: true
+---
+# El Capitan Reservoir
+
+## Context
+> This 1967 California Department of Fish and Game administrative report documents the introduction, growth, diet, and depth distribution of [[Walleye]] (*Stizostedion vitreum*) in [[El Capitan Reservoir]], San Diego County, California. Following an obscure 1874 introduction, a deliberate stocking ...
+> -- *[[TheIntroductionGrowthDietAndDe_15290]]*
+
+> - **Habitat:** [[El Capitan Reservoir]] is described as a eutrophic, warmwater reservoir used for municipal water storage by the City of San Diego, located seven miles east of Lakeside at 553 feet elevation. - **Thermal/oxygen regime:** An oxygen deficit typically develops in the hypolimnion from...
+> -- *[[TheIntroductionGrowthDietAndDe_15290]]*
+
+## Mentioned In
+- [[TheIntroductionGrowthDietAndDe_15290]]

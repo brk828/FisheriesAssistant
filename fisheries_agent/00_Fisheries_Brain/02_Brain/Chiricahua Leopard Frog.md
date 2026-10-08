@@ -1,0 +1,39 @@
+---
+type: concept
+auto_enriched: true
+---
+# Chiricahua Leopard Frog
+
+## Summary
+The Chiricahua Leopard Frog (*Rana chiricahuensis*) is an imperiled riparian and aquatic amphibian endemic to southeastern Arizona that serves as a key indicator species for aquatic ecosystem health and biodiversity in the region's native freshwater stream systems. As a species co-occurring with other threatened aquatic fauna in the Fort Huachuca/Huachuca Mountains and associated watersheds, the frog's conservation status reflects broader threats to hydrologically intact and pristine aquatic habitats in the Gila River Basin and Santa Cruz River drainage. The species' ecological role and vulnerability to habitat degradation make it an important focal point for aquatic conservation efforts and for understanding the interconnected needs of complex native aquatic communities in the American Southwest.
+
+## Context
+> - **Broader ecosystem context**: The memo situates these fish within a wider suite of imperiled Arizona endemics, including the [[Chiricahua Leopard Frog]] (*Rana chiricahuensis*, riparian/aquatic amphibian, Regions 5 shared), two rare spring/stream-dwelling caddisflies (*Protoptila balmorhea*, *...
+> -- *[[CommentsOnAndChangesToAnimalNo_11856]]*
+
+> This grant proposal (Fernandez & Rosen, 1993) documents the ecological impacts of introduced [[Crayfish]] (genus *Orconectes*) on Arizona's native wetland and riparian vertebrate communities. While the primary focus is herpetofauna—[[Chiricahua Leopard Frog]] (*Rana chiricahuensis*), [[Northern L...
+> -- *[[CrayfishImpactsOnWetlandHerps_1993_10_10]]*
+
+> - **Habitat context**: The [[Santa Cruz River]] and its major tributaries exhibit a mosaic of hydrological regimes relevant to species persistence: - Perennial (year-round) flow reaches, including effluent-dependent segments. - Intermittent reaches with seasonal flow (as opposed to storm-driven f...
+> -- *[[EndangeredSpeciesActSectionCon_1994_12_06]]*
+
+> - **Zero fish species were placed in Candidate Category 1** in this 1994 assessment; all ten Arizona candidate fish taxa fell into the lower-certainty **Category 2**, meaning the USFWS lacked sufficient data at the time to support listing despite conservation concern. - The fish candidate list is...
+> -- *[[FederalCandidateSpeciesOfArizo_11661]]*
+
+> - All six fish species are associated with **native freshwater stream systems** in the Fort Huachuca / Huachuca Mountains region of southeastern Arizona, an area of recognized high [[Biological Diversity|biodiversity]] cited by the Service. - These species co-occur on a candidate species list alo...
+> -- *[[FishAndWildlifeServiceLetterOn_1994_08_22]]*
+
+## Mentioned In
+- [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
+- [[CommentsOnAndChangesToAnimalNo_11856]]
+- [[CrayfishImpactsOnWetlandHerps_1993_10_10]]
+- [[EndangeredSpeciesActSectionCon_1994_12_06]]
+- [[FederalCandidateSpeciesOfArizo_11661]]
+- [[FishAndWildlifeServiceLetterOn_1994_08_22]]
+- [[JustificationsForAdditionsToAn_1990_09_11]]
+- [[LetterRegardingAsianTapewormEr_1996_09_06]]
+- [[LetterToDrJohnRinneRegardingMa_1994_09_07]]
+- [[LetterToUSForestServiceRegardi_1991_02_15]]
+- [[MemorandumOnTapewormEradicatio_1996_10_17]]
+- [[ProposalToRenovateFinleyTankNa_1988_12_20]]
+- [[TheNextParagraphIsMissingButTh_11894]]

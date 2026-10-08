@@ -1,0 +1,42 @@
+---
+type: concept
+auto_enriched: true
+---
+# Warmouth
+
+## Summary
+Warmouth (Lepomis gulosus) is a small freshwater sunfish species native to eastern North America that inhabits sluggish streams, swamps, and backwater areas with dense vegetation. In fisheries and aquatic ecology research, warmouth are studied as components of sunfish communities, particularly in relation to stock management, reproductive biology, and ecological interactions with other centrarchid species like redear sunfish. The species serves as both a research subject for understanding fish population dynamics and fecundity estimation methods, and as a model organism for examining the ecological effects of fish stocking programs in freshwater systems.
+
+## Context
+> **Freshwater Game Fish (returned live per regulation, collectively <1% of catch):** - [[White Crappie]] (*Pomoxis annularis*) and [[Black Crappie]] (*Pomoxis nigromaculatus*) - [[Bluegill]] (*Lepomis macrochirus*) - [[Shellcracker]] (*Lepomis microlophus*) - [[Largemouth Bass]] (*Micropterus salm...
+> -- *[[AReportOnCommercialFishingStud_1955]]*
+
+> - **Bioassay indicator species**: [[Notropis lutrensis]] (red shiner) was the primary test organism used to detect lethal rotenone concentrations in water samples via loss of equilibrium and cessation of opercular movement. - **Differential species susceptibility**: [[Green Sunfish]] were observe...
+> -- *[[EffectivenessOfRotenoneInPondR_1953]]*
+
+> - **Context**: Commercial catfish production in the U.S. (~35 million lbs/year in 1966, with a projected potential of 60 million lbs/year) was frequently compromised by unwanted "scalefish" (wild fish) competing with stocked catfish for food and space. - **Prior work**: [[Fred P. Meyer]] (1965) h...
+> -- *[[FieldTrialsOfAntimycinAsASelec_14082]]*
+
+> - **Habitat requirements:** Juvenile razorback suckers were reared in shallow backwater coves (0.10–0.13 ha, 2.0–2.5 m depth) containing rooted aquatic vegetation (*[[Myriophyllum]]* sp., water milfoil) for predator escape cover, and sand/silt substrate with organic/algal accumulation for foragin...
+> -- *[[RazorbackSuckerMonitoringStudy_12705]]*
+
+> - **Study purpose:** To evaluate sodium cyanide against three criteria for an ideal fish poison: (1) high toxicity to fish, (2) reasonable dissipation time, and (3) the ability for affected fish to be revived if removed promptly. - **Institutional context:** Conducted at the Cooperative Fishery R...
+> -- *[[SodiumCyanideAsAFishPoison_12935]]*
+
+## Mentioned In
+- [[AMethodOfEstimatingFecundityWi_15698]]
+- [[AReportOnCommercialFishingStud_1955]]
+- [[CollectionOfGrowoutFacilitiesO_1995_05_27]]
+- [[EffectivenessOfRotenoneInPondR_1953]]
+- [[FieldTrialsOfAntimycinAsASelec_14082]]
+- [[MinnesotaSLookAlikeFish_14682]]
+- [[RazorbackSuckerMonitoringStudy_12705]]
+- [[SelectivePoisoningOfGizzardSha_1954]]
+- [[SodiumCyanideAsAFishPoison_12935]]
+- [[SomeObservationsOnLimnologyAnd_1954]]
+- [[StudyOfAStockingOfTheRedearAnd_16209]]
+- [[TheAgeAndGrowthOfTheSilverjawM_14844]]
+- [[TheOccurrenceOfTheBandedPygmyS_1980]]
+- [[TheOccurrenceOfWarmo_1965]]
+- [[TheSportFisheryOfTenkillerFerr_16926]]
+- [[TrophicInterrelationsAmongIntr_1982]]

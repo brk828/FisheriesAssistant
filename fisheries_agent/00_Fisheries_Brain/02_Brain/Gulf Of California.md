@@ -1,0 +1,45 @@
+---
+type: concept
+auto_enriched: true
+---
+# Gulf Of California
+
+## Summary
+The Gulf of California is a biogeographically significant marine basin in northwestern Mexico that serves as a critical ecosystem and zoogeographic boundary in ichthyological studies, characterized by its role as a confluence zone where freshwater inputs from the Colorado River and Rio Hardy meet marine waters, creating distinct salinity gradients and habitat types that support specialized fish fauna. This region functions as a deep oceanic barrier separating Pacific fish communities from Indo-Pacific assemblages, thereby shaping patterns of species distribution and endemism across the eastern Pacific. The Gulf's ecological health is directly threatened by upstream water management practices, particularly dam construction and river diversion, which have degraded critical wetland habitats and altered the hydrological conditions necessary to maintain the freshwater-brackish transitional zones upon which many native fish species depend.
+
+## Context
+> This study examines the relationship between annual [[Colorado River]] freshwater discharge and commercial [[Penaeid Shrimp]] landings at San Felipe, Baja California — the fishing station closest to the [[Colorado River Delta]] in the Upper [[Gulf of California]]. Using 20 years of landings data ...
+> -- *[[AnalysisOfPenaeidShrimpLanding_16892]]*
+
+> This document is a **conservation funding proposal** by Conservation International (CI) and American Rivers, submitted to the Tode Foundation, requesting $110,000 to conduct a bi-national "Conservation Priority Setting Workshop" for the [[Lower Colorado River Basin]] and [[Gulf Of California]] ec...
+> -- *[[ColoradoBiNationalRiverEcosyst_1995_01_09]]*
+
+> This 1985 field correspondence from Weisman to Minckley documents observations and interviews conducted in the [[Colorado River Delta]] region (El Golfo de Santa Clara, the levee system north to Riíto, and Laguna Salada) concerning a sharp decline in Gulf shrimp catches and the concurrent emergen...
+> -- *[[DeltaNotesFactsAndSpeculationO_1985_01_30]]*
+
+> This 1967 paper by Carl L. Hubbs and Laura C. Hubbs (Scripps Institution of Oceanography) reports thirteen aerial censuses of the eastern Pacific [[Gray Whale]] (*Eschrichtius gibbosus*) population conducted between 1952 and 1964 along the wintering and calving grounds of Baja California, Mexico,...
+> -- *[[GrayWhaleCensusesByAirplaneInM_1967]]*
+
+> - **Deep oceanic barrier**: The broad expanse of open ocean between the New World and Indo-Pacific realm has produced a sharp faunal contrast (per [[Ekman's Biogeographic Model]]), limiting coral-reef fauna in the eastern Pacific. - **Current-mediated connectivity**: The [[Equatorial Counter-curr...
+> -- *[[InfluenceOfLandMassesOnTheDist_14157]]*
+
+## Mentioned In
+- [[AProposalToEvaluateTheLowerCol_15819]]
+- [[AllosebastesNewSubgenusForSeba_1951_11_19]]
+- [[AnalysisOfPenaeidShrimpLanding_16892]]
+- [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
+- [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
+- [[DeltaNotesFactsAndSpeculationO_1985_01_30]]
+- [[DorosomaPetenenseGüntherNuevoR_13094]]
+- [[GrayWhaleCensusesByAirplaneInM_1967]]
+- [[InfluenceOfLandMassesOnTheDist_14157]]
+- [[LateQuaternaryAlluvialStratigr_14923]]
+- [[LetterOfIntentForJointWorkInNa_17188]]
+- [[MiseEnÉvidenceDUnGraniteSubvol_1981_12_14]]
+- [[NoTimeLeftArizonaSNativeFishes_15828]]
+- [[PalaemonetesPaludosu_1969]]
+- [[ProposedIntroductionOfRainbowS_11577]]
+- [[ReminiscencesOfASouthernTrip_15630]]
+- [[ReminiscencesOfASouthernTrip_17598]]
+- [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
+- [[USDryingUpMexicanWetlands_1996_04_30]]

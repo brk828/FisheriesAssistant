@@ -1,0 +1,31 @@
+---
+type: concept
+auto_enriched: true
+---
+# Salt Creek Pupfish
+
+## Summary
+The Salt Creek Pupfish is a small cyprinodontid fish endemic to isolated alkaline spring systems within the Death Valley/Amargosa drainage basin, representing a relict population adapted to extreme desert aquatic environments. As a geographically restricted species inhabiting specialized spring habitats, it exemplifies the conservation challenges facing endemic desert fishes, which face threats from habitat degradation, invasive species, and limited genetic diversity. This species is part of a broader suite of Death Valley area endemic fishes that have been subjects of intensive conservation planning and management since at least the 1980s.
+
+## Context
+> - **Spring systems**: [[Devils Hole Pupfish]] (*Cyprinodon diabolis*) — the most range-restricted vertebrate known, confined to a single geothermal pool at Devils Hole. - **Ash Meadows spring complex**: [[Ash Meadows Speckled Dace]] (*Rhinichthys osculus nevadensis*), [[Ash Meadows Pupfish]] (*Cy...
+> -- *[[AgendaForDeathValleyAreaCommit_1986_03_03]]*
+
+> - **Goodeidae**: [[Pahrump Killifish]] (*Empetrichthys latos*) — a livebearer lineage endemic to the Pahrump Valley springs. - **Cyprinodontidae** (pupfishes): the majority of listed taxa, including [[Devils Hole Pupfish]] (*Cyprinodon diabolis*), [[Ash Meadows Pupfish]] (*Cyprinodon nevadensis m...
+> -- *[[AgendaForDeathValleyAreaCommit_1987_03_13]]*
+
+> - **Desert springs**: e.g., [[Saratoga Springs Pupfish]], [[Amargosa Pupfish]], [[Shoshone Pupfish]], [[Salt Creek Pupfish]] — isolated relict populations in the Death Valley/Amargosa drainage system. - **Alkaline lakes and closed basins**: e.g., [[Eagle Lake Tui Chub]], [[Goose Lake Tui Chub]], ...
+> -- *[[FishSpeciesOfSpecialConcernOfC_15453]]*
+
+> - **[[Devils Hole Pupfish]]** (*Cyprinodon diabolis*) — restricted to [[Devils Hole]], with a small transplanted refuge population near [[Hoover Dam]]. - **[[Pahrump Killifish]]** (*Empetrichthys latos*) — maintained via refugium ponds at [[Corn Creek]], an aquarium population at UNLV, and histor...
+> -- *[[FourthAnnualMeetingDeathValley_11111]]*
+
+> - **[[Pahrump Killifish]]**: extirpated from native Manse Spring; survives only in translocated populations at Corn Creek (~2,500 individuals) and Shoshone Ponds (~2,500 individuals). Threatened by invasive bullfrogs (*Rana catesbeiana*) and proposed MX Missile infrastructure. - **[[Devils Hole P...
+> -- *[[SeventhAnnualMeetingDeathValle_1980_04_09]]*
+
+## Mentioned In
+- [[AgendaForDeathValleyAreaCommit_1986_03_03]]
+- [[AgendaForDeathValleyAreaCommit_1987_03_13]]
+- [[FishSpeciesOfSpecialConcernOfC_15453]]
+- [[FourthAnnualMeetingDeathValley_11111]]
+- [[SeventhAnnualMeetingDeathValle_1980_04_09]]

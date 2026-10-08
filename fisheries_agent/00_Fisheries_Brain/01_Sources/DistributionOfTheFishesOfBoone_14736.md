@@ -1,0 +1,52 @@
+---
+species: "Multiple (53 fish species documented)"
+family: "Cyprinidae (minnows), Percidae/Etheostomatinae (darters), and 15+ other families"
+habitat: "Prairie streams, bluff-creeks, and the Des Moines River (sand-gravel, sand-silt, rubble substrates)"
+ocean_basin: "Freshwater — Mississippi River drainage (Des Moines River & Skunk River systems), Boone County, Iowa"
+study_period: "1946–1947"
+tags: [ichthyology, marine-biology, freshwater-ecology, Cyprinidae, Etheostomatinae, Boone-County-Iowa, Des-Moines-River]
+source_id: "14736"
+---
+
+# Distribution of the Fishes of Boone County, Iowa
+
+## Executive Summary
+This 1950 study by William C. Starrett documents the distribution and habitat associations of **53 fish species** across the streams of Boone County, Iowa, with special emphasis on **minnows ([[Cyprinidae]])** and **darters ([[Etheostomatinae]])**. Based on 719–821 seine collections taken in 1946–1947 across the [[Des Moines River]] and smaller tributary streams, the study established that species richness increases with stream size and watershed area, that habitat preference (substrate, current, stream width) strongly structures minnow and darter distribution, and that diel and seasonal shifts in habitat use occur among several dominant minnow species. The paper is a foundational example of quantitative, percentage-of-occurrence-based fish community ecology in Midwestern prairie streams.
+
+## Background & Description
+- **Study area:** Boone County, Iowa (569 sq. mi.), located entirely within the Wisconsin drift soil region, over 90% farmland, dominated by fertile Carrington loam.
+- **Drainage systems:** Primarily the **[[Des Moines River]]** watershed (drainage area 5,610 sq. mi. at one point in the county; gradient 1.5 ft/mile), with a small portion (four creeks — Squaw, Montgomery, Prairie, and Onion Creek) draining into the **[[Skunk River]]** system in the northeastern corner.
+- **River characteristics:** Channel depth 1.5–4 ft at low water; width 100–250 ft; substrate chiefly sand-gravel, with sand-silt, rubble, and boulders in limited areas; deep holes below riffle areas and bends.
+- **Smaller streams:** Mostly small, meandering prairie creeks with muddy banks, sand bottoms in current, and sand-silt in pools; two "bluff-creeks" confined to the river valley bluffs had steeper gradients. Emergent vegetation was notably present in only one surveyed stream. Headwaters often originated from tile drainage; silt was the only pollution type observed. Drought conditions in August–September 1947 fragmented smaller streams into intermittent pools.
+- **Sampling methodology:** 721 collections at 17 Des Moines River sites using 10, 20, and 30 ft common-sense minnow seines; 100 collections in smaller streams; wire minnow traps used supplementally. Habitat preference expressed as percentage of collections (from a given habitat type) in which a species occurred; relative abundance similarly measured via percentage occurrence (found more reliable than raw counts when ≥25 collections were taken per quarter-mile reach).
+- **Taxonomic authority:** Nomenclature follows [[Hubbs and Lagler 1947]] and [[Eddy and Surber 1947]].
+
+## Ecological & Environmental Context
+- **Species-habitat relationship:** Species richness increased with stream width and watershed size, paralleling patterns described by [[Thompson and Hunt 1930]] in Illinois streams, though Iowa's minnow fauna differed compositionally (e.g., absence of the silverjaw minnow, *Ericymba buccata*, an ecological equivalent of the [[Central Bigmouth Shiner]] in Illinois).
+- **River-restricted species:** 51% of the county's fish species were confined to the Des Moines River. Of the 22 minnow species recorded in the river, 32% occurred there exclusively, including the [[Bullhead Minnow]], [[Common Emerald Shiner]], [[River Shiner]], and [[Silver Chub]] — species considered vulnerable to extirpation from consecutive spawning failures, given their lack of tributary refuge populations.
+- **Pioneer/generalist species:** The [[Central Bigmouth Shiner]] (*Notropis dorsalis dorsalis*) and [[Northern Creek Chub]] (*Semotilus atromaculatus*) were the most widely distributed and abundant species, colonizing headwaters, intermittent pools, and newly formed sandbar habitats in the river alike. Their association index (Dice 1945) was 0.93, reflecting shared broad distribution rather than close ecological association.
+- **Habitat specialists:**
+  - [[Western Blacknose Dace]] (*Rhinichthys atratulus meleagris*) — strongly restricted to steep-gradient bluff-creeks (75% occurrence vs. 14% in comparable prairie streams), illustrating the clearest habitat preference of any species in the county.
+  - [[Speckled Dace]] (*Extrarius aestivalis*) — confined largely to the river's main channel, including under partial ice cover in winter, unlike co-occurring minnows.
+  - [[Suckermouth Minnow]] (*Phenacobius mirabilis*) — preferred rubble substrate with current; absent from streams <10 ft wide.
+  - [[Western Sand Darter]] (*Ammocrypta clara*) — sand-bottomed current habitats; increased surface activity in midsummer coinciding with spawning (gravid females noted).
+  - [[Fathead Minnow]] and [[Brook Stickleback]] — dominant in a single vegetated prairie stream (Union Twp., Sec. 28), suggesting fathead minnow abundance is limited elsewhere by interspecific intolerance/competition (cf. [[Hubbs and Cooper 1936]]).
+- **Oxygen/temperature stress:** In drying intermittent pools, dissolved oxygen as low as 2.4 ppm (water 82°F, air 88°F) was tolerated by a hardy assemblage: [[Central Bigmouth Shiner]], [[Northern Creek Chub]], [[Northern Common Shiner]], [[Central Stoneroller]], and [[Northern Black Bullhead]]. Dominant river species (spotfin shiner, southwestern sand shiner) were comparatively intolerant of crowding/low oxygen, limiting their spread into small streams — consistent with [[Trautman 1942]] on gradient-related distribution and [[Burton and Odum 1945]] on temperature/gradient as key structuring factors in Virginia streams.
+- **Diel and seasonal habitat shifts (Table 5):**
+  - [[Spotfin Shiner]] (*Notropis spilopterus*) moved from mid-channel (daytime) into shallow inshore habitats at dusk and through the night — confirmed via both seine and raise-net sampling across two field seasons.
+  - [[Southwestern Sand Shiner]] (*Notropis deliciosus deliciosus*) formed large spawning schools in shallow current in August, then shifted to deep pools in fall, dominating mixed-species concentrations (up to 14 minnow species).
+  - [[Bullhead Minnow]], [[Bluntnose Minnow]], and [[Brassy Minnow]] formed large mixed aggregations in deep quiet pools in late fall, distinct from sand shiner concentrations; bullhead minnow surged in backwaters during high water (>300 individuals/collection).
+  - Night trap catches (24 days, 1-2 hr intervals) confirmed activity of spotfin shiner, southwestern sand shiner, and bullhead minnow was concentrated in daylight hours, peaking at dusk.
+- **Rare/accidental species as latent colonizers:** Following [[Grinnell 1922]]'s concept of "accidental" species in avian populations, the author suggests the rare [[Spotted Chub]] (*Erimystax* sp.) and [[Topeka Shiner]] (*Notropis topeka*) — occurring occasionally in the river via tributary influx (e.g., Beaver Creek) — could become locally established if environmental conditions shifted favorably, illustrating the ecological importance of rare taxa as sources of future population/community change.
+
+## Key Findings
+- **53 fish species** documented in Boone County, Iowa; only the **[[Redfin]]** (*Notropis lutrensis lutrensis*) was restricted to the Skunk River drainage (Squaw and Onion Creek) and absent from the Des Moines system.
+- **23 minnow species** ([[Cyprinidae]]) recorded, forming the numerical core of the county's fish fauna; darters ([[Etheostomatinae]]) were comparatively less diverse and abundant, with the **[[Central Johnny Darter]]** (*Boleosoma nigrum nigrum*) the most abundant and widely distributed darter (though never in the tens of individuals per collection).
+- The **[[Spotfin Shiner]]** and **[[Southwestern Sand Shiner]]** were identified as the two most abundant fishes in the Des Moines River overall.
+- **[[Carp]]** (*Cyprinus carpio*) and **[[Southern Channel Catfish]]** (*Ictalurus lacustris punctatus*) were the most economically important species for food/angling; channel catfish occurred in 15% of river collections and was the only abundant game fish.
+- Several species were recorded from the county for the first time only via museum specimens or other collectors' records rather than the present survey (marked with *): [[American Eel]], [[Northern Rock Bass]], [[Black Crappie]].
+- Taxonomic ambiguity was noted for the **[[Southwestern Sand Shiner]]**, with evidence suggesting intergradation between *Notropis deliciosus deliciosus* and *N. d. missuriensis* in Boone County populations.
+- Possible taxonomic confusion in historical records (Call, 1892) between the **[[Spotfin Shiner]]** and **[[Redfin]]** was clarified using breeding-color fin differences (yellow/orange-black vs. red).
+- The **[[Silver Chub]]** and **[[River Shiner]]** showed apparent population fluctuations over time relative to historical (1940) museum records, suggesting temporal variability in river minnow abundance.
+- Comparative data tables (Tables 1–4) quantify percentage occurrence of minnows and darters across substrate types (sand, sand-silt, sand-gravel, rubble), stream size categories (<10 ft, 10–40 ft, Des Moines River), and habitat zones (riffles, pools, inlets, marsh), providing one of the earliest systematic habitat-preference datasets for Midwestern prairie-stream cyprinids and darters.
+- Overall synthesis: fish species richness and composition in Boone County are governed primarily by **stream size/watershed position**, **substrate/current type**, **stream gradient**, and **physiological tolerance to oxygen depletion and crowding** during seasonal drought — with rare/accidental species potentially serving as reservoirs for future community shifts under changing environmental conditions.

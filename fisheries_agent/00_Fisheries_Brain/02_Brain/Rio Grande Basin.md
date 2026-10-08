@@ -1,0 +1,16 @@
+---
+type: concept
+auto_enriched: true
+---
+# Rio Grande Basin
+
+## Context
+> This 1993 U.S. Fish and Wildlife Service proposed rule sought to list the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an **endangered species** with designated **critical habitat** under the Endangered Species Act of 1973. Historically one of the most abundant and widespread fishes in...
+> -- *[[EndangeredAndThreatenedWildlif_1993_03_01]]*
+
+> - **Habitat types utilized**: Indoor tankhouse rearing units and outdoor covered raceways (e.g., raceway C-8), reflecting a staged approach to acclimating broodstock from protected indoor environments to more naturalistic outdoor flow conditions. - **Water quality stressor**: Nitrogen supersatura...
+> -- *[[StationProfileOfTheMescaleroNa_1991]]*
+
+## Mentioned In
+- [[EndangeredAndThreatenedWildlif_1993_03_01]]
+- [[StationProfileOfTheMescaleroNa_1991]]

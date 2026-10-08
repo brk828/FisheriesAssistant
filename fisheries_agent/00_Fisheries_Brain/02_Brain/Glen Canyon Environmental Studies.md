@@ -1,0 +1,80 @@
+---
+type: concept
+auto_enriched: true
+---
+# Glen Canyon Environmental Studies
+
+## Summary
+The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency research program coordinated by the U.S. Bureau of Reclamation to monitor and assess the impacts of Glen Canyon Dam operations on aquatic ecosystems and native fish populations in the Colorado River and its tributaries, particularly focusing on endangered species like humpback chub and bonytail. The program integrated multiple concurrent research contracts and field studies to evaluate how dam-induced changes in flow regimes, water temperature, and sediment dynamics affected fish communities, while also coordinating incidental take limits and monitoring protocols for endangered species research activities. GCES served as the primary administrative and scientific framework for reconciling hydroelectric power generation with aquatic conservation objectives and regulatory compliance in the Colorado River basin during the late 1980s and early 1990s.
+
+## Context
+> This document is **not a primary fish-science paper** but an institutional/administrative proposal (dated April 12, 1993) advocating for the merger of the [[NAU/CPSU]] (National Park Service Cooperative Parks Studies Unit at Northern Arizona University) and the [[Glen Canyon Environmental Studies...
+> -- *[[AProposalForConversionOfTheNau_1993_04_12]]*
+
+> This 1992 proposal by the **Hualapai Tribe** outlines a monitoring program to assess the ecological effects of **Interim Flows** from **[[Glen Canyon Dam]]** on the fishery and aquatic resources of the **Lower Colorado River**, specifically the reach from **Diamond Creek to Lake Mead (River Mile ...
+> -- *[[AProposalToMonitorTheEffectsOf_11482]]*
+
+> **Note:** This source contains no extractable fish science (morphology, physiology, ecology, or population data). It documents institutional/administrative coordination of a [[Fisheries Database Management]] effort tied to the broader [[Glen Canyon Environmental Studies]] research program on the ...
+> -- *[[DatabaseIntegrationWithNavajoN_13634]]*
+
+> This document is **not a scientific research paper** but an administrative memorandum issued by the U.S. Fish and Wildlife Service (Ecological Services, Phoenix, Arizona) dated October 27, 1989. It announces two upcoming meetings related to the **[[Glen Canyon Environmental Studies]]** program: (...
+> -- *[[GcesExecutiveReviewCommitteeMe_20141]]*
+
+> - Logistical/environmental impact concern: multiple concurrent research contracts are converging on the **Little Colorado River** camps, raising concern about cumulative human impact from field crews conducting endangered fish research — a non-biological but operationally significant finding for ...
+> -- *[[GlenCanyonEnvironmentalStudies_19698]]*
+
+## Mentioned In
+- [[AProposalForConversionOfTheNau_1993_04_12]]
+- [[AProposalToMonitorTheEffectsOf_11482]]
+- [[AdultBonytailFromDexterForStom_13615]]
+- [[AquaticCoordinationTeamMeeting_1991_10_28]]
+- [[CommentsOnResearchProposalEffe_1993_11_03]]
+- [[CoordinationOfTheAquaticStudie_1990]]
+- [[DatabaseIntegrationWithNavajoN_13634]]
+- [[EndangeredSpeciesProgramReview_1991_11_08]]
+- [[FiscalYearTransitionMonitoring_12933]]
+- [[GcesExecutiveReviewCommitteeMe_20141]]
+- [[GlenCanyonEnvironmentalStudies_19698]]
+- [[GlenCanyonEnvironmentalStudies_1989]]
+- [[GlenCanyonEnvironmentalStudies_1989_12_13]]
+- [[GlenCanyonEnvironmentalStudies_1990_02_26]]
+- [[GlenCanyonEnvironmentalStudies_1990_03_08]]
+- [[GlenCanyonEnvironmentalStudies_1991_07_12]]
+- [[GlenCanyonEnvironmentalStudies_1992_03_07]]
+- [[GlenCanyonEnvironmentalStudies_1992_03_08]]
+- [[GlenCanyonEnvironmentalStudies_1992_03_23]]
+- [[GlenCanyonEnvironmentalStudies_1992_09_13]]
+- [[GlenCanyonEnvironmentalStudies_1993_01_28]]
+- [[GlenCanyonEnvironmentalStudies_1993_09_14]]
+- [[GlenCanyonEnvironmentalStudies_1997_09_15]]
+- [[HabitatCharacteristicsOfTheLit_1992]]
+- [[IncreaseInIncidentalTakeForSec_1993_09_02]]
+- [[LetterConcerningStripedBassThr_1990_06_03]]
+- [[LetterExplainingAcquisitionOfE_1991_09_26]]
+- [[LetterFromGovernorFifeSymingto_1993_07_26]]
+- [[LetterRegardingCommitteeQuesti_1993_02_26]]
+- [[LetterRegardingCooperativeAgre_1991_08_08]]
+- [[LetterRegardingDiscontinuation_1992_12_07]]
+- [[LetterRegardingGlenCanyonEnvir_1991_11_06]]
+- [[LetterToDavidLWegnerRegardingG_1991_05_08]]
+- [[LetterToDavidLWegnerRegardingP_1991_08_12]]
+- [[LetterToDavidWegnerOnAsunnhpRe_1991_06_19]]
+- [[LetterToDavidWegnerRegardingAs_1991_02_21]]
+- [[LetterToDrWLMinckleyOnGcesPhas_1993_11_17]]
+- [[LetterToDrWLMinckleyRegardingE_1994_06_22]]
+- [[LetterToWLMinckleyOnGcesDataSu_1993_10_15]]
+- [[MeetingToDiscussTheSpikeFlow_1993_07_09]]
+- [[MemorandumOnGlenCanyonEnvironm_1991_08_27]]
+- [[MemorandumOnReviewOfDraftAnnua_1994_02_10]]
+- [[NonnativeFishesOfThe_1992_11_18]]
+- [[NotesOfTechnicalReviewMeetingF_1994_03_04]]
+- [[ProposedLowImpactFishSamplingP_1991_11_05]]
+- [[RedsideShinerSpecimenLeesFerry_1996_02_20]]
+- [[ReminderNoticeOnReportingRequi_1993_07_02]]
+- [[ResearchAndMonitoringDuringLat_1994_06_16]]
+- [[ReviewMeetingInTempeFebruary_1992_02_04]]
+- [[ReviewOfTheEndangeredFishResea_1991_10_03]]
+- [[RevisedUsfwsPinetopFaoGeneralS_1991_10_01]]
+- [[TransmittalOfNavajoNationLittl_1992_11_17]]
+- [[UsfwsLcrResearchTripReportHump_11069]]
+- [[VariousProposalsForStudiesOfEn_1993_12_17]]

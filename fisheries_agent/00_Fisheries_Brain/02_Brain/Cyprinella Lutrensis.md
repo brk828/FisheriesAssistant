@@ -1,0 +1,21 @@
+---
+type: concept
+auto_enriched: true
+---
+# Cyprinella Lutrensis
+
+## Summary
+Cyprinella lutrensis, commonly known as the Red Shiner, is a small-bodied cyprinid fish native to North American freshwater systems that has become notable in conservation and aquatic ecology contexts for its high reproductive capacity and invasive potential, particularly in desert stream ecosystems. This species is frequently discussed in the literature alongside endemic and endangered fish species, as its aggressive colonization of altered habitats often displaces native fishes and contributes to changes in aquatic community structure. The Red Shiner's ability to thrive in degraded conditions and compete successfully with native species makes it a significant concern in conservation efforts focused on protecting desert-adapted endemic fishes in regions like the Rio Grande drainage of New Mexico.
+
+## Context
+> 1. **Catfish** (Ictaluridae) — benthic body form; relevant to bottom-crawling/negotiating structures during low flow. 2. **Red Shiner** ([[Cyprinella lutrensis]]) — small-bodied cyprinid; high reproductive/invasive potential in desert streams. 3. **Green Sunfish** / **Smallmouth Bass** (Centrarch...
+> -- *[[NotesFromAugustMeetingOnFishBa_1994_09_28]]*
+
+> - ***Notropis simus simus*** is considered functionally **extinct** in the Rio Grande drainage of New Mexico, with no successful detections despite recent intensive surveys; last verified record dates to 1964. - Listed as **State Endangered, Group I** in New Mexico (24 January 1975) and placed un...
+> -- *[[NotropisSimusSimusCopeRioGrand_1990]]*
+
+## Mentioned In
+- [[LetterToWLMinckleyRegardingSpi_1987_03_27]]
+- [[NotesFromAugustMeetingOnFishBa_1994_09_28]]
+- [[NotropisSimusSimusCopeRioGrand_1990]]
+- [[TheAsianFishTapewormBothriocep_1993]]

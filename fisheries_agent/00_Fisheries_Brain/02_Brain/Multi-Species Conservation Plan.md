@@ -1,0 +1,23 @@
+---
+type: concept
+auto_enriched: true
+---
+# Multi-Species Conservation Plan
+
+## Summary
+A Multi-Species Conservation Plan is an integrated management and protection strategy designed to simultaneously address the conservation needs of multiple aquatic species within a shared ecosystem or geographic area, rather than focusing on single-species management in isolation. In the context of the Lower Colorado River, such plans typically coordinate recovery efforts for federally endangered native fishes like the Bonytail Chub and Razorback Sucker alongside other sensitive species, recognizing that their habitats and ecological requirements are interconnected and that ecosystem-level management is more effective than species-by-species approaches. This framework emphasizes efficient use of limited conservation resources by identifying common management actions and habitat restoration priorities that benefit multiple species simultaneously.
+
+## Context
+> - **Species of primary concern:** - **[[Bonytail Chub]]** (*Gila elegans*) — federally endangered cyprinid of the LCR. - **[[Razorback Sucker]]** (*Xyrauchen texanus*) — federally endangered catostomid; population age estimates from otolith analysis (McCarthy & Minckley 1987) suggest individuals ...
+> -- *[[CommentsOnTheBiologicalAndConf_1997_07_10]]*
+
+> - The consultation area spans from **[[Lake Mead]]** to the **Southerly International Boundary** (U.S.–Mexico border), encompassing critical habitat historically associated with native Colorado River fishes (implied but not named), as well as the **[[Southwestern Willow Flycatcher]]** (a riparian...
+> -- *[[CommentsOnTheFinalBiologicalAn_1997_07_25]]*
+
+> - **Data gaps prioritized over new studies**: The author argues a broad, sufficient scientific base already exists to manage/conserve native Colorado River fishes, and that additional "research funding" for further habitat-preference studies would be an irresponsible diversion of limited conserva...
+> -- *[[CommentsOnTheUSFishAndWildlife_1997_07_25]]*
+
+## Mentioned In
+- [[CommentsOnTheBiologicalAndConf_1997_07_10]]
+- [[CommentsOnTheFinalBiologicalAn_1997_07_25]]
+- [[CommentsOnTheUSFishAndWildlife_1997_07_25]]

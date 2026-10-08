@@ -1,0 +1,30 @@
+---
+type: concept
+auto_enriched: true
+---
+# Silver Salmon
+
+## Summary
+Silver Salmon (*Oncorhynchus kisutch*) are an anadromous Pacific salmon species managed as a key aquaculture and fisheries resource in California state hatchery programs, where they are propagated alongside other commercially and recreationally important species like King Salmon and Steelhead Trout. Research on Silver Salmon has focused on optimizing hatchery rearing techniques, including comparative studies of egg incubation methods in simulated natural gravel redds versus artificial conditions to improve survival rates and reproductive success. As an anadromous species susceptible to various parasitic diseases in aquatic environments, Silver Salmon serve as an important model organism for understanding disease dynamics and host-parasite relationships in salmonid populations managed for both conservation and harvest purposes.
+
+## Context
+> This 1938–1939 study by Shapovalov and Berrian, conducted at the Big Creek State Fish Hatchery in California, experimentally compared the development and survival of [[Silver Salmon]] (*[[Oncorhynchus Kisutch]]*) eggs incubated in a simulated natural gravel redd versus eggs incubated in a standar...
+> -- *[[AnExperimentInHatchingSilverSa_1939]]*
+
+> Key production categories included [[Catchable-Sized Trout]] (7,204,103 fish, 1,549,168 lbs), [[Subcatchable-Sized Trout]] (1,605,812 fish, 171,924 lbs), and anadromous species — [[King Salmon]], [[Silver Salmon]], and [[Steelhead Trout]] — totaling roughly 15,326,753 fish. The [[Warmwater Fish P...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14864]]*
+
+> - **Resident (freshwater) fish**: primarily trout species reared for stocking lakes, rivers, and reservoirs. - **Anadromous fish**: [[King Salmon]] (Chinook), [[Silver Salmon]] (Coho), and [[Steelhead Trout]], reared for release into rivers to support runs blocked by dam construction. - **Warmwat...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14866]]*
+
+> - **Geographic range:** Klamath and Sacramento River drainages, Northern California; multiple coastal river systems; several state hatcheries (Mt. Shasta, Darrah Springs, Crystal Lake) - **Host range:** - *Cryptobia borreli*: Broad host range including [[Steelhead Trout]], [[Brown Trout]], [[King...
+> -- *[[ThreeProtozoanDiseasesOfTroutI_14425]]*
+
+> - **Resident (non-anadromous) trout** were stocked across California's lakes, streams, and reservoirs, with [[Rainbow Trout]] dominating both fingerling and catchable categories. [[Eastern Brook Trout]] and [[Brown Trout]] showed increased resistance to **Ceratomyxa**, a parasitic disease that el...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14864]]*
+
+## Mentioned In
+- [[AnExperimentInHatchingSilverSa_1939]]
+- [[CaliforniaTroutSalmonAndWarmwa_14864]]
+- [[CaliforniaTroutSalmonAndWarmwa_14866]]
+- [[ThreeProtozoanDiseasesOfTroutI_14425]]

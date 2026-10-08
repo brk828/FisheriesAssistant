@@ -1,0 +1,21 @@
+---
+type: concept
+auto_enriched: true
+---
+# Colorado Squawfish Recovery Plan
+
+## Summary
+The Colorado Squawfish Recovery Plan is a comprehensive federal conservation strategy developed by the U.S. Fish and Wildlife Service in the late 1980s to restore populations of the Colorado squawfish (Ptychocheilus lucius), an endangered native species endemic to the Colorado River basin. The plan emphasizes establishing multiple geographically isolated populations through reintroduction and restocking efforts in various river systems, including the Salt River, to reduce extinction risk and ensure long-term species survival. This recovery effort represents a multi-faceted approach to managing an aquatic species threatened by habitat loss, dam construction, and competition from non-native fish species.
+
+## Context
+> This document is **not a primary scientific research paper** but rather an administrative transmittal notice issued by the U.S. Fish and Wildlife Service (Region 6, Denver, Colorado) on December 30, 1988. It accompanies the **Technical Review Draft** of the [[Colorado Squawfish Recovery Plan]], d...
+> -- *[[ColoradoSquawfishRec_1988_12_30]]*
+
+> 5. **Broader recovery strategy**: The reintroduction is part of the FWS [[Colorado Squawfish Recovery Plan]], which emphasizes establishing multiple isolated populations to buffer against catastrophic loss of any single population — with parallel restocking efforts already underway in the Salt an...
+> -- *[[ReCommentsOnTheFederalRegister_11571]]*
+
+## Mentioned In
+- [[AnimasLaPlataProjectColoradoNe_14136]]
+- [[ColoradoSquawfishRec_1988_12_30]]
+- [[ReCommentsOnTheFederalRegister_11571]]
+- [[ReferencesWithNewInformationFo_1987_03_01]]

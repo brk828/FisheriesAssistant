@@ -1,0 +1,20 @@
+---
+type: concept
+auto_enriched: true
+---
+# White-Winged Dove
+
+## Summary
+I cannot provide an accurate definition of "White-Winged Dove" in the context of fish science, conservation biology, or aquatic ecology based on the snippets provided. The White-Winged Dove is an avian species, not a fish or aquatic organism, and while it may be mentioned in these documents as a wildlife component of riparian ecosystems (likely utilizing salt cedar and mesquite vegetation for nesting and roosting), it falls outside the scope of ichthyology and fisheries science. If you're interested in how riparian vegetation changes affect aquatic ecosystems or fish habitat in the Colorado River system, I'd be happy to discuss that instead.
+
+## Context
+> A companion program, the Lower Colorado River Water Salvage and Phreatophyte Control Project, proposed clearing 140,000 acres of salt cedar (*Tamarix* spp.) and mesquite (*Prosopis* spp.) riparian vegetation to reduce evapotranspirative water loss — vegetation that, while non-native/water-consump...
+> -- *[[ColoradoRiverStudies_1966]]*
+
+> **Gila River Riparian Corridor (Phreatophyte Zone):** - Dominant vegetation: salt cedar (*Tamarix* sp.) and mesquite (*Prosopis* sp.), forming a dense river-bottom habitat corridor from the [[San Carlos Indian Reservation]] to the Camelsback Dam site. - Functions as critical nesting, roosting, an...
+> -- *[[InvestigationOfProposedProject_1967_03_31]]*
+
+## Mentioned In
+- [[ColoradoRiverStudies_1966]]
+- [[GilaAndSaltRiverClearingAndCha_1967_03_31]]
+- [[InvestigationOfProposedProject_1967_03_31]]

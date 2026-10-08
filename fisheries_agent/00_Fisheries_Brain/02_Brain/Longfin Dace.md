@@ -1,0 +1,103 @@
+---
+type: concept
+auto_enriched: true
+---
+# Longfin Dace
+
+## Summary
+The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow native to the southwestern United States that serves as an important indicator species in desert aquatic ecosystems and conservation efforts. As a native fish species in arid regions, it has been a subject of genetic and ecological monitoring studies by desert fish recovery programs, particularly in Arizona streams where its presence and population dynamics help inform broader watershed management and native species conservation strategies. The species' sensitivity to habitat degradation and water quality changes makes it valuable for assessing the health of desert aquatic communities and the effectiveness of restoration initiatives.
+
+## Context
+> - **Primary habitat**: Perennial reach of [[Cocio Wash]] downstream of mine seepage inputs, supporting a "normal biological community." - **Riparian vegetation**: dense stands of [[Tamarix Pentandra]] (tamarisk/saltcedar), *Salix* sp. (willows), and *Typha angustifolia* (cattails). - **Co-occurri...
+> -- *[[APhysicoChemicalAndBiologicalA_1974_05_30]]*
+
+> - **[[Longfin Dace]]** (*Agosia chrysogaster*): Typically the most abundant native species; associated with sand substrate, run habitats, and warmer water. Feeds via detritivory/omnivory, indicating a generalized, non-specialized feeding morphology. - **[[Spikedace]]** (*Meda fulgida*): Small-bod...
+> -- *[[AravaipaCreekFishesOctober_1986_01_20]]*
+
+> The native community — [[Longfin Dace]], [[Sonoran Sucker]], [[Desert Sucker]], [[Roundtail Chub]], [[Spikedace]], and [[Loach Minnow]] — reflects a functioning warmwater desert stream guild adapted to flashy, low-gradient hydrology, with [[Longfin Dace]] (AGCH) overwhelmingly dominant in raw abu...
+> -- *[[AravaipaCreekRedShinerSurveySu_1995_12_06]]*
+
+> This 1973 report by McSorley & Minckley (Arizona State University) documents a field assessment of the ecological impacts of untreated domestic wastewater from the City of Patagonia on [[Sonoita Creek]], a small permanent tributary of the (largely dry) Santa Cruz River in southern Arizona. Two in...
+> -- *[[AssessmentOfTheImpactOfDomesti_12350]]*
+
+> This document is a U.S. Fish and Wildlife Service (FWS) Biological Opinion issued in response to a Section 7 consultation request from [[Organ Pipe Cactus National Monument]] regarding the discovery and proposed removal of unauthorized, translocated fish populations from the [[Aguajita Springs Co...
+> -- *[[BiologicalOpinionRemovalOfIntr_1990_05_30]]*
+
+## Mentioned In
+- [[APhysicoChemicalAndBiologicalA_1974_05_30]]
+- [[AravaipaCreekFishesOctober_1986_01_20]]
+- [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
+- [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
+- [[AssessmentOfTheImpactOfDomesti_12350]]
+- [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
+- [[CienegaCreekWatershedWaterSour_18990]]
+- [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
+- [[ConceptualGoalsForManagementOf_1984_10_09]]
+- [[DesertFishesRecoveryTeamAction_11691]]
+- [[DesertFishesRecoveryTeamMeetin_1992_12_07]]
+- [[DesertFishesRecoveryTeamMeetin_1994_09_09]]
+- [[DesertFishesRecoveryTeamRecomm_1993_06_22]]
+- [[DesertPupfishAndSonoranTopminn_1989_12_02]]
+- [[DrainageMapOfArizonaShowingPer_13007]]
+- [[DrainageMapOfArizonaShowingPer_1978]]
+- [[EagleCreekSamplingSummer_1993_07_20]]
+- [[EcologicalInterrelationshipsOf_15560]]
+- [[ElementStewardshipAbstractForA_13166]]
+- [[FederalCandidateSpeciesOfArizo_11661]]
+- [[FederalCandidateSpeciesOfArizo_11893]]
+- [[FieldTripNotes_12290]]
+- [[FinalMinutesOfTheFebruaryMeeti_1993_07_20]]
+- [[FindingOfNoSignificantImpactAr_11493]]
+- [[FishAndWildlifeServiceLetterOn_1994_08_22]]
+- [[FishHealthInspectionReportDext_1999]]
+- [[FisheriesSurveyOfTheApacheSitg_1995_07_06]]
+- [[FisheriesSurveyOfTheApacheSitg_1995_07_18]]
+- [[FisheriesSurveyOfTheChiricahua_1994_10_01]]
+- [[FisherySurveyOfTheGilaRiverWit_1995_09_19]]
+- [[IntraServiceSectionBiologicalE_1993_03_26]]
+- [[LetterToBruceEllisRegardingCap_1993_08_10]]
+- [[LetterToDrJohnRinneRegardingMa_1994_09_07]]
+- [[LetterToDrWLMinckleyRegardingA_1985_04_15]]
+- [[LetterToProfessorMinkleyRegard_1987_06_02]]
+- [[MeetingNotesOnInstreamFlowAlte_17325]]
+- [[MemorandumOnAravaipaCreekMonit_1993_06_30]]
+- [[MemorandumOnAravaipaCreekMonit_1994_06_27]]
+- [[MemorandumOnLeslieCanyonFishSp_1972_05_30]]
+- [[MemorandumOnMonitoringDataArav_1997_10_16]]
+- [[MemorandumOnRazorbackSuckerSto_1984_07_25]]
+- [[MiddleGilaRiverAquaticStudy_12505]]
+- [[MonitoringDataAravaipaCreekJul_1993_07_10]]
+- [[NewLocationForLongfinDace_1994_01_30]]
+- [[PetitionToListTheGilaChubGilaI_11805]]
+- [[PhysicalHabitatEvaluationOfSma_14995]]
+- [[PredationByIctaluridCatfishesA_17030]]
+- [[ProposedMonitoringProtocolElCo_1999]]
+- [[RecentGilaTopminnowRecordsFrom_11903]]
+- [[ReintroductionOfNativeFishInto_1993_07_24]]
+- [[ResultsOfIdentificationOfColle_18206]]
+- [[SamplingOfTheSanCarlosIrrigati_11695]]
+- [[SomeAspectsOfBiologyOfTheLongf_1971_05_25]]
+- [[SonoitaAreaRanchSoldToAnamax_18361]]
+- [[SpeciesAccountCatostomusInsign_13167]]
+- [[SpeciesAccountForDesertSuckerC_13160]]
+- [[StatusOfTheGilaTopminnowAndIts_13684]]
+- [[SummaryOfDiscussionsToBeUsedAs_1970_06_26]]
+- [[SummaryOfMineralCreekFieldSurv_2000_04_14]]
+- [[SummaryOfMonitoringOfAravaipaC_1999_10_18]]
+- [[SummaryReportForFisheriesSurve_1995_07_27]]
+- [[SurveyOfSaltRiverAquaticFaunaH_12968]]
+- [[SycamoreStreamSurveyWarizona_17426]]
+- [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
+- [[TheFishesOfTheVirginRiverATrib_14013]]
+- [[TheNextParagraphIsMissingButTh_11894]]
+- [[TheSantaCatalinaMountainsEcolo_1967_03_10]]
+- [[TheStatusOfTheNativeFishFaunaO_12638]]
+- [[TripReportAravaipaCreekEastEnd_1993_10_25]]
+- [[UpdateOnNongameFishActivities_1987_08_26]]
+- [[UpperVerdeRiverAquaticStudy_15611]]
+- [[VerdeRiverFishResearchSpring_1997_05_20]]
+- [[VerdeRiverFishResearch_1995_07_03]]
+- [[VerdeRiverFishResearch_1998]]
+- [[VerdeRiverFishResearch_1998_02_17]]
+- [[VerdeRiverFishSampling_1989_03_06]]
+- [[WestTurkeyCreekFishS_1996_04_12]]

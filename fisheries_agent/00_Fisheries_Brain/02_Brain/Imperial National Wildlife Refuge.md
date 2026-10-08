@@ -1,0 +1,32 @@
+---
+type: concept
+auto_enriched: true
+---
+# Imperial National Wildlife Refuge
+
+## Summary
+Imperial National Wildlife Refuge is a protected area along the lower Colorado River that serves as critical habitat and management facility for endangered native fish species, particularly the razorback sucker and bonytail chub. The refuge contains isolated ponds and backwater impoundments used for hatchery rearing and repatriation programs, allowing fish managers to maintain populations and prepare hatchery-origin individuals for potential release into the mainstem Colorado River. These refuge habitats also provide essential slow-water refugia for both juvenile and adult native fishes, compensating for the loss of natural backwater habitats in the heavily regulated Colorado River system.
+
+## Context
+> - **Critical Habitat Type:** Backwaters and marshes along the LCR are identified as critical habitat for both the [[Bonytail Chub]] and [[Razorback Sucker]]. - **Life Stage Use:** Backwaters provide essential slow-water refugia for **both young and adult fish**, which are increasingly scarce due ...
+> -- *[[CommentsOnTheBiologicalOpinion_1997_06_15]]*
+
+> **Pilot Region A — Sonoran Desert / Colorado River Delta Complex:** - [[Alto Golfo de California y Delta del Río Colorado Biosphere Reserve]] (Baja California & Sonora, Mexico) - [[El Pinacate y Gran Desierto de Altar Biosphere Reserve]] (Sonora, Mexico) - [[Organ Pipe Cactus National Monument]] ...
+> -- *[[LetterOfIntentForJointWorkInNa_17188]]*
+
+> - **Habitat sampled:** High Levee Pond, an isolated refuge impoundment used for rearing/repatriation of hatchery-origin razorback suckers and bonytail chubs prior to potential release into the mainstem [[Colorado River]]. - **Sampling method:** 400 m of trammel net set for 15 hours (1700–0800 hrs...
+> -- *[[NettingOfHighLeveePondAtCibola_1994_01_06]]*
+
+> 1. **Confirmed range expansion**: *P. paludosus*, introduced to the lower Colorado River (California) in 1958 (approx. 225 individuals near [[Lake Havasu]]; 1,000 individuals in three ponds at [[Imperial National Wildlife Refuge]]), has expanded its range south across the international border int...
+> -- *[[PalaemonetesPaludosu_1969]]*
+
+## Mentioned In
+- [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
+- [[CollectionOfGrowoutFacilitiesO_1995_05_27]]
+- [[CommentsOnTheBiologicalOpinion_1997_06_15]]
+- [[LetterOfIntentForJointWorkInNa_17188]]
+- [[LetterToBruceEllisRegardingCap_1993_08_10]]
+- [[NettingOfHighLeveePondAtCibola_1994_01_06]]
+- [[PalaemonetesPaludosu_1969]]
+- [[StockingOfFarmersPondImperialN_1995_01_20]]
+- [[SummaryOfCaliforniaFisheriesAc_1962]]

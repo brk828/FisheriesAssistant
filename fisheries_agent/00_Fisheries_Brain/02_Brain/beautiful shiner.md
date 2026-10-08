@@ -1,0 +1,51 @@
+---
+type: concept
+auto_enriched: true
+---
+# Beautiful Shiner
+
+## Summary
+The Beautiful Shiner is a small freshwater fish species endemic to the Rio Yaqui basin spanning the Arizona-Sonora border region, recognized as a taxa of conservation concern within desert fish recovery planning efforts. This species appears among priority native fishes requiring federal endangered species protections and recovery plan development, alongside related taxa such as the Yaqui Chub and Yaqui Catfish, as part of broader efforts to conserve aquatic biodiversity in the southwestern United States and northern Mexico.
+
+## Context
+> - **Salmonidae**: [[Apache Trout]] (*Oncorhynchus apache*), [[Gila Trout]] (*O. gilae*) - **Cyprinidae/Leuciscidae**: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Virgin Chub]] (*Gila seminuda*), [[Yaqui Chub]] (*Gila purpurea*), [[Sonora Chub]] (*Gila ditaenia*), [[Pahranag...
+> -- *[[AnnualReportAndSubPermitApplic_1990_12_09]]*
+
+> - **Colorado River Basin mainstem/tributary specialists**: [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail Chub]] (*Gila elegans*, implied by title context) — large-river, turbid, warm-water habitats. - **Sm...
+> -- *[[AttachedDraftListOfSpeciesAssi_14772]]*
+
+> - **Upland, forested headwaters:** [[Gila Trout]] (*Oncorhynchus gila*), [[Apache Trout]] (*Oncorhynchus apache*), [[Little Colorado Spinedace]] (*Lepidomeda vittata*), [[Loach Minnow]] (*Tiaroga cobitis*) - **Woodland/grassland streams at intermediate elevation:** [[Spikedace]] (*Meda fulgida*),...
+> -- *[[DeclarationOfWLMinckleyOnGrazi_15842]]*
+
+> - **Rio Yaqui basin** (Sonora, Mexico / Arizona border region) — habitat for [[Yaqui Chub]], [[Yaqui Catfish]], and [[Beautiful Shiner]]. - **Lower Colorado River basin** — habitat for [[Bonytail Chub]], [[Colorado Squawfish]], and [[Humpback Chub]] populations specifically noted as "lower basin"...
+> -- *[[DesertFishesRecoveryTeamMeetin_1985_12_10]]*
+
+> - **[[Sonora Chub]]** (*Gila ditaenia*) — subject of proposed transplants into Sycamore Canyon tributaries; surveys located chub in Penasco, Atascosa, and Little Tinaja Canyons. - **[[Beautiful Shiner]]** — clarified as a DFRT responsibility species (Rio Yaqui fishes group). - **[[Longfin Dace]]*...
+> -- *[[DesertFishesRecoveryTeamMeetin_1994_09_09]]*
+
+## Mentioned In
+- [[AnnualReportAndSubPermitApplic_1990_12_09]]
+- [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
+- [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
+- [[AsianTapewormEradicationStrate_13118]]
+- [[AttachedDraftListOfSpeciesAssi_14772]]
+- [[DeclarationOfWLMinckleyOnGrazi_15842]]
+- [[DesertFishesRecoveryTeamMeetin_1985_12_10]]
+- [[DesertFishesRecoveryTeamMeetin_1994_09_09]]
+- [[EndangeredSpeciesSubpermitAuth_1993_01_15]]
+- [[FishDistributionNumbersAndWeig_1992]]
+- [[IntraServiceSectionEvaluations_1995_10_24]]
+- [[LetterAnnouncingDesertFishesCo_1988_12_09]]
+- [[LetterRequestingCommentsOnProp_1983_09_28]]
+- [[LetterToDesertFishesCouncilOnS_1990_06_13]]
+- [[LetterToDrJohnRinneRegardingMa_1994_09_07]]
+- [[MemorandumOnDesertFishesRecove_1992_01_07]]
+- [[MemorandumOnFederalEndangeredt_1994_10_12]]
+- [[MinutesOfTheDesertFishesRecove_16659]]
+- [[PhoenixFieldOfficeEndangeredSp_11624]]
+- [[ReportOnPrtActivityFromDecembe_1992_12_01]]
+- [[ReportOnPrtActivityFromDecembe_1993_12_07]]
+- [[RevisionsOfTheDraftRioYaquiFis_1984_06_04]]
+- [[RioYaquiFishesRecoveryPlanTech_1986_04_02]]
+- [[SpeciesResponsibilit_1992_12_25]]
+- [[SpeciesResponsibilitiesOfDeser_1989_12_07]]

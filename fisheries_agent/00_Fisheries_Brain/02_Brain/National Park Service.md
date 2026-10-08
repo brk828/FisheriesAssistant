@@ -1,0 +1,54 @@
+---
+type: concept
+auto_enriched: true
+---
+# National Park Service
+
+## Summary
+The National Park Service (NPS) is a federal agency that plays a significant role in aquatic resource management and fish conservation within protected park lands, particularly in coordinating ecological monitoring efforts across multiple jurisdictions and managing fish populations in riverine ecosystems affected by human infrastructure like dams. In the context of fisheries science and aquatic ecology, the NPS collaborates with other agencies such as the U.S. Fish and Wildlife Service, Bureau of Reclamation, and state game departments to conduct research on native fish species, assess habitat conditions, and implement conservation strategies for endangered aquatic species in areas under its stewardship. This interdisciplinary coordination is essential for addressing complex ecological challenges in regulated river systems where dam operations and environmental flows directly impact native fish communities and their aquatic habitats.
+
+## Context
+> This document is not a species-level scientific study but an **interagency planning agenda** for the development of native fish rearing (backwater) facilities in the Colorado River basin region (Arizona/Nevada), dated March 2, 1990. The meeting convened the [[Bureau of Reclamation]], [[U.S. Fish ...
+> -- *[[AgendaNativeFishRearingFacilit_1990_03_02]]*
+
+> Participating agencies and institutions reflect the interdisciplinary and interjurisdictional nature of this ecological monitoring effort, including the [[Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], [[National Park Service]], [[Arizona Game and Fish Department]], [[Arizona State ...
+> -- *[[AquaticCoordinationTeamMeeting_1991_10_28]]*
+
+> - **Underfunded mitigation**: Of **$1.2 billion** spent on Central Utah Project (CUP) developments, less than **$10 million** (<1%) was allocated to fish and wildlife mitigation. - **Proposed funding mechanism** (Colorado Basin Conservation Fund) comprised of three revenue streams: 1. **$1/acre-f...
+> -- *[[EstablishingAColoradoRiverCons_20111]]*
+
+> - **Purpose**: Coordination between federal agencies, state agencies, academic institutions, and the National Park Service regarding the technical study program supporting the Glen Canyon Dam EIS. - **Key Event Referenced**: An October 6-9, 1989, **Low Flow Test**, an experimental flow manipulati...
+> -- *[[GlenCanyonEnvironmentalStudies_19680]]*
+
+> - Data sources identified for the review include records from **Phase 1 studies**, [[Arizona Game and Fish Department]] (AGF), [[Museum of Northern Arizona]] (MNA), [[National Park Service]] (NPS), [[Arizona State University]] (ASU), and monitoring programs at Lake Powell, Lake Mead, and Glen Can...
+> -- *[[GlenCanyonEnvironmentalStudies_19698]]*
+
+## Mentioned In
+- [[AStudyOfTheMovementsAndDistrib_15476]]
+- [[AgendaNativeFishRearingFacilit_1990_03_02]]
+- [[AquaticCoordinationTeamMeeting_1991_10_28]]
+- [[CommentsOnTheDesertFishesCounc_20490]]
+- [[CreationOfTheNationalBiologica_1993_03_17]]
+- [[EndangeredPupfishOfDevilsHoleG_11403]]
+- [[EstablishingAColoradoRiverCons_20111]]
+- [[GlenCanyonEnvironmentalStudies_19680]]
+- [[GlenCanyonEnvironmentalStudies_19698]]
+- [[GlenCanyonEnvironmentalStudies_1990_03_08]]
+- [[GlenCanyonEnvironmentalStudies_1991_07_12]]
+- [[GlenCanyonEnvironmentalStudies_1992_03_08]]
+- [[InteragencySouthwestStrategyFo_1997_11_12]]
+- [[InterimFlowsForGlenCanyonDam_1991_03_06]]
+- [[LetterFromGovernorFifeSymingto_1993_07_26]]
+- [[LetterToJohnRogersRegardingBon_1993_07_01]]
+- [[LetterToTedStewartRegardingThe_1997_08_28]]
+- [[MeasuresToProtectAndEnhanceHum_11477]]
+- [[MeetingAnnouncementNativeFishW_1993_10_21]]
+- [[MeetingToDiscussTheSpikeFlow_1993_07_09]]
+- [[MemorandumOfUnderstandingOnCon_1994]]
+- [[MemorandumOnFishIntroductionPr_1988_03_14]]
+- [[MinutesOfTheJuneNativeFishWork_1990_06_06]]
+- [[NotificationOfModifiedHoopNetS_17045]]
+- [[ReclamationToBeginWorkOnGlenCa_1989_11_02]]
+- [[RosterLowerBasinRecoveryImplem_21095]]
+- [[SpecialFisheriesReportOnProjec_1961_11_16]]
+- [[StationProfileOfWillowBeachNat_19507]]

@@ -1,0 +1,31 @@
+---
+type: concept
+auto_enriched: true
+---
+# King Salmon
+
+## Summary
+King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to California river systems, particularly the Klamath and Sacramento River drainages, that migrate between freshwater spawning grounds and marine environments as a key component of both commercial and recreational fisheries. As a prominent species in aquaculture and wild stock management programs, king salmon are susceptible to various parasitic and protozoal diseases and represent a significant production category in state hatchery operations. Their conservation and management are critical to maintaining ecosystem health in coastal and riverine systems, given their ecological importance as apex predators and indicator species for water quality and habitat condition.
+
+## Context
+> Key production categories included [[Catchable-Sized Trout]] (7,204,103 fish, 1,549,168 lbs), [[Subcatchable-Sized Trout]] (1,605,812 fish, 171,924 lbs), and anadromous species — [[King Salmon]], [[Silver Salmon]], and [[Steelhead Trout]] — totaling roughly 15,326,753 fish. The [[Warmwater Fish P...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14864]]*
+
+> - **Resident (freshwater) fish**: primarily trout species reared for stocking lakes, rivers, and reservoirs. - **Anadromous fish**: [[King Salmon]] (Chinook), [[Silver Salmon]] (Coho), and [[Steelhead Trout]], reared for release into rivers to support runs blocked by dam construction. - **Warmwat...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14866]]*
+
+> This 1961 study by Warner, Fry, and Culver ([[California Department Of Fish And Game]]) reports on an experimental release of 20,579 marked yearling [[King Salmon]] (*Oncorhynchus tshawytscha*) from [[Nimbus Hatchery]] into the [[American River]] in 1957. Unlike the hatchery's standard practice o...
+> -- *[[HistoryOfYearlingKingSalmonMar_14888]]*
+
+> - **Geographic range:** Klamath and Sacramento River drainages, Northern California; multiple coastal river systems; several state hatcheries (Mt. Shasta, Darrah Springs, Crystal Lake) - **Host range:** - *Cryptobia borreli*: Broad host range including [[Steelhead Trout]], [[Brown Trout]], [[King...
+> -- *[[ThreeProtozoanDiseasesOfTroutI_14425]]*
+
+> - **Resident (non-anadromous) trout** were stocked across California's lakes, streams, and reservoirs, with [[Rainbow Trout]] dominating both fingerling and catchable categories. [[Eastern Brook Trout]] and [[Brown Trout]] showed increased resistance to **Ceratomyxa**, a parasitic disease that el...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14864]]*
+
+## Mentioned In
+- [[CaliforniaTroutSalmonAndWarmwa_14864]]
+- [[CaliforniaTroutSalmonAndWarmwa_14866]]
+- [[HistoryOfYearlingKingSalmonMar_14888]]
+- [[TheDietOfJuvenileAndAdultStrip_1967]]
+- [[ThreeProtozoanDiseasesOfTroutI_14425]]

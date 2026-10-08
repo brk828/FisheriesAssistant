@@ -1,0 +1,24 @@
+---
+type: concept
+auto_enriched: true
+---
+# Osprey
+
+## Summary
+In the context of aquatic ecology and fisheries science, osprey (Pandion haliaetus) function as apex piscivorous predators that serve as important indicators of aquatic ecosystem health and fish population status in freshwater and marine systems. As diving raptors that feed exclusively on fish, osprey populations and breeding success reflect the availability, abundance, and accessibility of harvestable fish stocks, making them valuable sentinel species for monitoring trophic dynamics and contaminant bioaccumulation in aquatic food webs. Their presence and reproductive output in river and coastal ecosystems provide indirect measures of fish community structure and water quality conditions.
+
+## Context
+> - **Producers** — algal/periphyton primary production, tied to light availability and solar input modeling - **Primary consumers** — grazers/aquatic invertebrates, including [[Aquatic Diptera]] studied by NPS-NAU - **Fish** — the vertebrate secondary/tertiary consumer tier, addressed via AGF tail...
+> -- *[[ColoradoRiverTrophicStudiesMee_1991_07_23]]*
+
+> - **System type:** Perennial warmwater desert stream, hard/alkaline water chemistry (hardness >300 mg/L as CaCO₃; pH 7.6–9.4; alkalinity ~187 ± 16 mg/L as CaCO₃), influenced by limestone/dolomite geology. Dissolved oxygen high and stable (8.5 ± 0.8 mg/L). Turbidity low overall (mean 7.1 NTU) but ...
+> -- *[[UpperVerdeRiverAquaticStudy_15611]]*
+
+> - CRiTS functioned as a quarterly interagency coordination forum (NPS, USGS, AGF, BR, NAU, BioWest) for Colorado River aquatic food-base research circa 1991. - Six major research components were being coordinated: (1) USGS synoptic studies, (2) AGF tailwater/downstream fishery studies, (3) NPS-NA...
+> -- *[[ColoradoRiverTrophicStudiesMee_1991_07_23]]*
+
+## Mentioned In
+- [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
+- [[ColoradoRiverTrophicStudiesMee_1991_07_23]]
+- [[LifeHistoryAndEcologyOfTheHump_1994_02_15]]
+- [[UpperVerdeRiverAquaticStudy_15611]]

@@ -1,0 +1,49 @@
+---
+type: concept
+auto_enriched: true
+---
+# Dexter National Fish Hatchery And Technology Center
+
+## Summary
+Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife Service facility dedicated to the propagation, genetics management, and conservation breeding of endangered and threatened native fish species from the Colorado River Basin and southwestern United States, including species such as bonytail chub, Colorado squawfish, razorback sucker, and Gila trout. The center serves as a critical component of recovery programs by producing hatchery-reared fish for reintroduction and experimental stocking into refuge habitats and historical native ranges, while also conducting genetic research and management to maintain genetic diversity and population viability in captive breeding populations. Through its dual roles in fish production and applied conservation science, the facility supports both immediate species recovery goals and long-term ecological restoration of imperiled aquatic fauna in the southwestern United States.
+
+## Context
+> This progress report details a mitochondrial DNA (mtDNA) restriction fragment analysis of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]], conducted under a U.S. Bureau of Reclamation cooperative agreement by researchers at Arizona State University. The ...
+> -- *[[AnnualReportOnUSBureauOfReclam_19117]]*
+
+> This document is an internal U.S. Fish and Wildlife Service (USFWS) memorandum reporting a **1994 stocking event** of hatchery-reared [[Bonytail]] (*Gila elegans*), an endangered cyprinid native to the Colorado River Basin. Fish produced from 1994 broodstock recruitment at the [[Dexter National F...
+> -- *[[BonytailStocking_1994_10_18]]*
+
+> - **Large-river mainstem specialists**: [[Colorado Squawfish]] and [[Razorback Sucker]] are adapted to historically swift, turbid, warm-water reaches of the Colorado River system; the letter specifically references extant **Lake Mohave** wild razorback sucker populations as a source for larvae, e...
+> -- *[[EndangeredSpeciesSubpermitAuth_1993_01_15]]*
+
+> This paper evaluates the genetic status of a captive broodstock of the endangered [[Bonytail Chub]] (*Gila elegans*), one of the most critically imperiled freshwater fishes in North America. Wild bonytail persist only as a declining population of large, old adults in [[Lake Mohave]] on the lower ...
+> -- *[[EstablishingACaptiveBroodstock_18727]]*
+
+> This memo reports the results of a fish sampling survey conducted by Arizona State University's Center for Environmental Studies at the ASU Karsten Golf Course (ASUGC) lakes on 1–2 December 1994. The survey's primary objective was to assess the status of three federally significant native fish sp...
+> -- *[[FishSamplingAtAsuKarstenGolfCo_1994_12_02]]*
+
+## Mentioned In
+- [[AnnualReportOnUSBureauOfReclam_19117]]
+- [[BonytailChubsHeldAtWillowBeach_1993_05_13]]
+- [[BonytailStocking_1994_10_18]]
+- [[EndangeredSpeciesSubpermitAuth_1993_01_15]]
+- [[EstablishingACaptiveBroodstock_18727]]
+- [[FishSamplingAtAsuKarstenGolfCo_1994_12_02]]
+- [[FishSamplingAtAsuKarstenGolfCo_1995_04_25]]
+- [[FishSamplingAtAsuKarstenGolfCo_1996_10_01]]
+- [[LakeMohaveSamplingForBonytailA_1993_12_04]]
+- [[LakeMohaveTripReport_1993_04_29]]
+- [[LangleySNotesOnGeneticsdexterD_1994_01_27]]
+- [[LetterToJohnRogersRegardingBon_1993_07_01]]
+- [[LetterToWLMinckleyOnAgingOfRaz_1993_02_17]]
+- [[LetterToWLMinckleyOnFisheryRes_1994_05_27]]
+- [[MinutesToNativeFishWorkGroupMe_19039]]
+- [[NoteToFilesBonytailChubs_1992_04_26]]
+- [[RazorbackSuckerFingerlingsForD_1992_05_13]]
+- [[ReceiptOfShipmentOfBonytailChu_18535]]
+- [[RecommendationsForEstablishmen_20762]]
+- [[StationProfileOfTheDexterNatio_19564]]
+- [[StockingOfRazorbackSuckersInto_1993_06_19]]
+- [[SummaryOfLakeMohaveCollections_1993_05_19]]
+- [[WillowBeachRazorbackSuckers_1994_03_05]]

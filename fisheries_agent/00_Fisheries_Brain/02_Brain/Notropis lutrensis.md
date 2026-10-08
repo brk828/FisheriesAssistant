@@ -1,0 +1,42 @@
+---
+type: concept
+auto_enriched: true
+---
+# Notropis Lutrensis
+
+## Summary
+Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish native to the central United States that has become a problematic non-native invasive species in western aquatic ecosystems, particularly in the Colorado River and Rio Grande drainages of the Southwest. This species has demonstrated remarkable range expansion capabilities, extending its distribution upstream approximately 150 miles into historically native fish habitats where it often becomes numerically dominant, sometimes comprising over 40% of small fish communities. Its invasion poses significant conservation concerns for native fish species, as it competes for resources and can outcompete endemic fishes in altered aquatic environments, making it a focal species for understanding non-native fish impacts on native biodiversity in arid western regions.
+
+## Context
+> - **Trophic axis**: benthic algal grazers (*[[Pantosteus]]*), omnivorous minnows (*[[Agosia Chrysogaster]]*, *[[Notropis Lutrensis]]*), invertivorous/piscivorous catfishes (*Ictalurus* spp.), planktivorous mosquitofish and mollies, and predatory centrarchids (*[[Lepomis Macrochirus]]*, *[[Pomoxis...
+> -- *[[AListOfTheFishFoundInTheVerdeR_12284]]*
+
+> This 1980 study by Burr, Retzer, and Mayden re-evaluates the distributional status of five [[Cyprinidae|cyprinid]] species in Kentucky, updating information from Clay's 1975 "Fishes of Kentucky" and Babcock's 1977 status assessments. Three species — [[Hybognathus hayi]] (cypress minnow), [[Notrop...
+> -- *[[AReassessmentOfTheDistribution_1980]]*
+
+> - **Historical vs. modern distribution**: Smith compared pre-1908 (mostly 1880–1905) distributional records against post-1950 (mostly 1962–72) collection data using distinct map symbols to visualize range change for each species. Notably, the 1908–1950 interval (which included the significant **[...
+> -- *[[BookReviewTheFishesOfIllinois_1979]]*
+
+> **Small fishes (N = 257):** - Dominated by non-native *[[Notropis Lutrensis]]* (42.0%) - Native *[[Meda Fulgida]]* (23.3%) - Native *[[Gila Robusta]]* (16.7%) - Native *[[Catostomus Insignis]]* (10.1%) - Native *[[Pantosteus Clarki]]* (4.3%) - Native *[[Rhinichthys Osculus]]* (3.1%) - Non-native ...
+> -- *[[ColoradoSquawfishMonitoringVer_19393]]*
+
+> | Taxon | N (localities) | Multivariate Area (A) | Classification | |---|---|---|---| | [[Notropis Lutrensis]] | 78 | 741 | Common-generalist | | [[Campostoma Anomalum]] | 38 | 536 | Common-generalist (limited in turbid environments) | | [[Notropis Stramineus]] | 31 | 448 | Common-generalist (con...
+> -- *[[DistributionOfMidwesternFishes_1978]]*
+
+## Mentioned In
+- [[AListOfTheFishFoundInTheVerdeR_12284]]
+- [[AReassessmentOfTheDistribution_1980]]
+- [[BookReviewTheFishesOfIllinois_1979]]
+- [[ColoradoSquawfishMonitoringVer_19393]]
+- [[DistributionOfMidwesternFishes_1978]]
+- [[EcologicalInterrelationshipsOf_15560]]
+- [[EffectivenessOfRotenoneInPondR_1953]]
+- [[GeographicVariationInThermalTo_1986]]
+- [[ObservationsOnTheFishesOfTheGe_1909_12_08]]
+- [[OnATexasRecordOfNotropisBoopsB_14206]]
+- [[RecordsFromEastTexasOfThreeSpe_1951_09_30]]
+- [[RecordsOfMenidiaBery_13348]]
+- [[ReductionInNumberOfMucousCells_15675]]
+- [[RelativeVariabilityOfHybridsBe_14215]]
+- [[SomeEffectsOfANeutralMixtureOf_1969_06_11]]
+- [[ToleranceOfHeadwaterVsMainstre_15191]]

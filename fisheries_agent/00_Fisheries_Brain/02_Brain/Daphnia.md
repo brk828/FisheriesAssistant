@@ -1,0 +1,28 @@
+---
+type: concept
+auto_enriched: true
+---
+# Daphnia
+
+## Summary
+Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial trophic link in aquatic ecosystems, functioning as primary consumers that feed on phytoplankton and are themselves a vital food source for larval and small fish species. In aquatic ecology and fisheries science, Daphnia are frequently used as indicator organisms for water quality assessment and as model organisms in laboratory studies examining toxicology, population dynamics, and ecosystem responses to environmental stressors. Their sensitivity to chemical contaminants and physical conditions makes them valuable for evaluating the ecological impacts of fish management practices, pesticides, and other aquatic interventions in both experimental and field settings.
+
+## Context
+> - **Habitat Range Tested:** Field trials spanned 17 ponds across six U.S. states (Wisconsin, Georgia, New Hampshire, New York, Arkansas, Nebraska), covering diverse freshwater conditions: - Total hardness: 10–220 p.p.b. - Temperature: 50–90° F - pH: 6.8–8.9 - Turbidity: clear to moderate - Vegeta...
+> -- *[[AntimycinFintrolAsAFishToxican_1965_10_18]]*
+
+> This 1954 two-part paper from *The Aquarium Journal*, authored by [[Clark Hubbs]] and [[Kirk Strawn]] at the University of Texas, details laboratory-tested protocols for culturing live foods for aquarium fish, focusing primarily on [[Drosophila]] (fruit flies) and secondarily on [[Daphnia magna]]...
+> -- *[[CulturingFruitFliesDrosophilaA_14269]]*
+
+> - **Native habitat**: Large rivers, lakes, and ponds of the [[Amur River Basin]], Manchuria, and China, southward to the Chu River in South China. - **Feeding ecology**: - Broadly **omnivorous** as juveniles, shifting toward strong **herbivory** in subadults/adults. - Diet includes aquatic macrop...
+> -- *[[GrassCarpCtenopharyngodonIdell_19237]]*
+
+> 1. **Ontogenetic decline in dorsal light response:** Statistical comparison (Student's t-test) of nymphs disequilibrated under alternating top vs. bottom lighting showed highly significant differences for early (t=18.8), middle (t=24.8), and penultimate (t=22.9) instars, but a much weaker (though...
+> -- *[[OnTheDorsalLightResponseInAMay_14496]]*
+
+## Mentioned In
+- [[AntimycinFintrolAsAFishToxican_1965_10_18]]
+- [[Craspedacusta Sowerbii in Pymatuning Reservoir]]
+- [[CulturingFruitFliesDrosophilaA_14269]]
+- [[GrassCarpCtenopharyngodonIdell_19237]]
+- [[OnTheDorsalLightResponseInAMay_14496]]

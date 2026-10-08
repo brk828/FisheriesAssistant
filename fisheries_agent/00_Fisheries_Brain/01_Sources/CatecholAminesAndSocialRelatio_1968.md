@@ -1,0 +1,39 @@
+---
+species: "Betta splendens (Siamese fighting fish)"
+family: "Osphronemidae (Anabantoidei)"
+habitat: "Freshwater; laboratory aquaria (individual and grouped tanks)"
+ocean_basin: "Not applicable (freshwater, Southeast Asia native range)"
+source_id: "17194"
+---
+
+#ichthyology #marine-biology #Osphronemidae
+
+## Executive Summary
+This 1968 study by Baenninger investigates the pharmacological and behavioural relationship between catecholamines (epinephrine and norepinephrine) and social/aggressive behaviour in male [[Siamese Fighting Fish]] (*Betta splendens*). Using mirror-elicited and live-opponent aggressive displays (gill membrane extensions) as a behavioural proxy for aggression, the author conducted three experiments testing the effects of exogenous catecholamine administration on display frequency, and examined how these effects related to established [[Dominance Hierarchy|dominance hierarchies]]. Both epinephrine and norepinephrine suppressed aggressive displaying relative to saline and freshwater controls, but dominant fish showed markedly greater tolerance to these suppressive effects than subordinate fish, suggesting a possible pharmacological basis for dominance status. Notably, display frequency to a mirror predicted dominance in group encounters but not in paired round-robin encounters, and dominance itself (measured by ability to elicit fleeing) was found to be behaviourally dissociable from display frequency.
+
+## Background & Description
+- **Species**: Male *Betta splendens*, adult, of approximately equal size across experimental cohorts.
+- **Aggressive display morphology**: Includes gill membrane extension, tail-beating, increased saturation of body and fin coloration, and fin erection — collectively termed "displays."
+- **Catecholamine-induced colour change**: Epinephrine exposure caused rapid, characteristic **paling (bleaching)** of the body accompanied by **two dark horizontal bands** running bilaterally from the eyes to the caudal fin — a distinct pigmentary state attributed to melanin aggregation (per [[Waring 1963]] on colour-change mechanisms in cold-blooded vertebrates).
+- Fish in this suppressed/pale-and-banded state were behaviourally and visually indistinguishable between dominant and subordinate individuals, despite underlying differences in true dominance status.
+- Fin damage (torn fins) was common during violent early pair encounters; in surviving groups, fin regrowth was observed after prolonged cohabitation (5 weeks).
+- The species is noted as a **labyrinth fish**, requiring surface air access (relevant to observed suppression of air-gulping behaviour under dominance stress).
+
+## Ecological & Environmental Context
+- **Habitat**: Freshwater; experimental fish were maintained in individual glass aquaria, 1-litre cube-shaped jars, and 5-gallon aquaria, isolated from conspecific visual contact between trials.
+- **Social structure**: *Betta splendens* forms strict, transitive [[Dominance Hierarchy|dominance hierarchies]] when grouped, with a single alpha fish emerging that monopolizes food access and chasing behaviour, and an omega fish subjected to repeated attacks, sometimes resulting in death (cause undetermined: injury, exhaustion, starvation, or asphyxiation from denied air access).
+- **Aggressive behavioural ecology**: Displays (mirror- or conspecific-elicited) function as the primary indicator of aggressive motivation. Encounters with novel conspecifics were characterized by high violence, including jaw-locking and fin-shredding, contrasting with reduced intensity in later, established encounters.
+- **Notable absence of "gentlemanly" restraint**: Unlike some species with evolved inhibitory mechanisms against injuring conspecifics (cf. [[Konrad Lorenz]], *On Aggression*, 1966), *B. splendens* showed no evidence of turning laterally to inhibit attacks, nor tolerance for submissive fish to surface for air — dominant fish continued attacking immobile, submissive, paled fish even in large aquaria.
+- **Individual recognition**: Long-term stability of dominance-submission relationships across intervening group encounters (up to one month) suggests fish are capable of individual conspecific recognition.
+
+## Key Findings
+- **Catecholamine suppression of aggression**: Both epinephrine (at 50 mg, 250 mg, 500 mg per 1000 ml — LE/ME/HE groups) and norepinephrine (48 mg/1000 ml) significantly suppressed mirror-elicited display frequency compared to saline (15 g NaCl/1000 ml) and freshwater controls (Kruskal-Wallis H = 14, P<0.02). No dose-dependent difference was found among epinephrine concentrations (H = 5.19, P>0.05) or between epinephrine and norepinephrine groups (H = 2.16, P>0.05).
+- **pH ruled out as confound**: Suppression effects were not attributable to solution acidity (pH range 4.2–8.1), since the norepinephrine solution (pH 7.1) suppressed displays similarly to acidic epinephrine solutions, while control solutions of similar pH did not suppress displays.
+- **Dominance predicts catecholamine tolerance**: In all six experimental groups, the subject that displayed most frequently to the mirror in Experiment 1 (regardless of solution type — epinephrine, norepinephrine, saline, or water) became the alpha fish in subsequent group dominance encounters (chance probability = 1/56 ≈ 0.000064).
+- **Dissociation of display frequency and round-robin dominance**: Rank order from round-robin paired encounters (based on wins) did *not* correlate with mirror-display frequency rank, indicating display frequency and pairwise dominance are governed by different underlying mechanisms.
+- **Dominance vs. display are behaviourally separable**: In Experiment 3, some dominant fish exposed to epinephrine ceased displaying entirely and became visually indistinguishable from submissive fish (pale, banded) — yet retained the ability to cause subordinate opponents to flee, demonstrating that aggressive displaying and dominance (operationalized as eliciting flight) are independent behavioural constructs.
+- **Stability and individual recognition**: Dominance-submission relationships within fixed pairs remained stable across 8+ weekly encounters and were unaffected by intervening group encounters, with dominant fish increasing display frequency after a 6-week rest period (consistent with prior findings on waning aggressive motivation; [[Baenninger 1966]]).
+- **Novel stimulus (mirror) vs. familiar opponent**: When presented with a mirror instead of a familiar live opponent, some dominant fish failed to display, while one submissive fish displayed vigorously to its mirror image despite never displaying to its usual live opponent — highlighting stimulus-specific and individual-specific behavioural variability.
+- **Physiological stress indicator**: Air-gulping rate in submissive fish dropped from ~once per minute to as infrequently as once every 10 minutes during dominance encounters, suggesting a stress-related suppression of a normally obligate respiratory behaviour in this labyrinth fish.
+- **Mortality in grouped housing**: Deaths of omega (subordinate) fish occurred within groups housed together for extended periods (second week onward), though cause (injury, exhaustion, starvation, or suffocation) could not be conclusively determined.
+- **Theoretical implication**: The consistent association between catecholamine tolerance and dominance status suggests pharmacological/physiological variables may mechanistically underlie the establishment and maintenance of dominance hierarchies in *B. splendens*, linking endocrine/neurochemical state to social rank — a finding relevant to broader research on [[Biogenic Amines and Emotion|biogenic amines and behaviour]] across vertebrates.

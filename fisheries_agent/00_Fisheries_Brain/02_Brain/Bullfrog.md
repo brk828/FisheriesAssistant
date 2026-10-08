@@ -1,0 +1,33 @@
+---
+type: concept
+auto_enriched: true
+---
+# Bullfrog
+
+## Summary
+In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates catesbeianus*) are large, invasive anurans that serve as important indicators of aquatic habitat conditions and biodiversity assessments in freshwater systems. Their presence as both tadpoles and adults in sampled water bodies—such as reservoirs, riverine pools, and canal systems—reflects suitable breeding habitat and water quality conditions, while their invasive status makes them ecologically significant competitors and predators that can negatively impact native fish populations and aquatic communities. Documentation of bullfrog life stages during ichthyological surveys provides incidental but valuable data on ecosystem health and the biotic composition of sampled aquatic environments.
+
+## Context
+> This study (Korschgen & Baskett, 1963) examines the food habits of [[Bullfrog|Bullfrogs]] (*Rana catesbeiana*) in two contrasting Missouri freshwater habitats: a large shallow impoundment (Duck Creek Wildlife Management Area, 1775 acres) and three eastern Missouri streams (Meramec, Bourbeuse, and...
+> -- *[[FoodsOfImpoundmentAndStreamDwe_1963]]*
+
+> This preliminary report presents five years (1990–1994) of mark-recapture data on an isolated population of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense*) inhabiting [[West Turkey Creek]] and associated stock tanks in the Chiricahua Mountains of southeastern Arizona. Although the study org...
+> -- *[[LifeHistoryAndEcologyOfTheSono_16176]]*
+
+> This preliminary report presents five years (1990–1994) of mark-recapture data on an isolated population of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense*) in the [[Chiricahua Mountains]] of southeastern Arizona, focused on the West Turkey Creek (WTC) drainage and associated stock tanks. Re...
+> -- *[[LifeHistoryAndEcologyOfTheSono_1997]]*
+
+> - **Riverine pools** (Olberg Siphon, Gila River below Ashurst/Hayden Dam) — remnant ponded water in the dry riverbed, sampled at water temperatures of 19.5–23°C. - **Reservoir habitat** (Picacho Reservoir) — shallow, low-water conditions (3.75 ft gauge depth), supporting a modestly diverse assemb...
+> -- *[[SamplingOfTheSanCarlosIrrigati_11695]]*
+
+> This 1986 study by Clarkson and DeVos investigated the ecology of the introduced [[Bullfrog]] (*Rana catesbeiana*) along the [[Lower Colorado River]] between Laguna and Morelos Dams (the "Yuma Division"), Arizona-California. Conducted in summer 1981, the research quantified bullfrog density, habi...
+> -- *[[TheBullfrogRanaCatesbeianaShaw_1986]]*
+
+## Mentioned In
+- [[AugustSamplingAtBuenosAiresNwr_19399]]
+- [[FoodsOfImpoundmentAndStreamDwe_1963]]
+- [[LifeHistoryAndEcologyOfTheSono_16176]]
+- [[LifeHistoryAndEcologyOfTheSono_1997]]
+- [[ReDesertPupfishInhabitingCheet_11816]]
+- [[SamplingOfTheSanCarlosIrrigati_11695]]
+- [[TheBullfrogRanaCatesbeianaShaw_1986]]

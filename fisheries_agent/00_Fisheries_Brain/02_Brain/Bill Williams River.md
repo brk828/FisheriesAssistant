@@ -1,0 +1,39 @@
+---
+type: concept
+auto_enriched: true
+---
+# Bill Williams River
+
+## Summary
+The Bill Williams River is a free-flowing desert river system in Arizona that serves as critical habitat for native fish species and riparian ecosystems, with significant ecological values including fish and wildlife resources protected under the Wild and Scenic Rivers Act. As a subject of aquatic conservation efforts in the 1990s, the river represented an important case study in native fish reintroduction and management, particularly regarding species like bonytail chubs in a landscape increasingly threatened by water development projects and impoundment. The river's transition from riverine to lentic (reservoir) habitat through damming exemplifies the conflicts between water resource development and aquatic ecosystem conservation in desert southwestern fisheries management.
+
+## Context
+> - **System type:** Emerging impoundment (desert reservoir) formed by damming the [[Bill Williams River]], transitioning a riverine system into lentic reservoir habitat. - **Anticipated habitat conditions:** High public recreational use expected on the future reservoir, necessitating sanitary and ...
+> -- *[[AlamoDamLandAndWaterProjectsSt_1966]]*
+
+> - The Lower [[Colorado River]] basin is institutionally divided from the Upper Basin per the **1922 Colorado River Compact**, a jurisdictional (not ecological) split, though it correlates with real ecological differences: presence of a high dam (Hoover/Glen Canyon-type infrastructure) fragmenting...
+> -- *[[CommentsAdvanceCopyOfThePrelim_1995_03_31]]*
+
+> - **Habitat type:** Free-flowing desert rivers and associated riparian corridors on BLM-managed public lands in Arizona (spanning nearly 14 million acres under study). - **Qualifying ecological values** under the [[Wild and Scenic Rivers Act]]: scenic, recreational, geologic, **fish and wildlife*...
+> -- *[[DoiAnnouncesRecommendationsFor_18330]]*
+
+> This Arizona Game and Fish Department completion report (August 1966–March 31, 1967) documents highway project review and wildlife mitigation efforts under the Land and Water Projects Investigations program. Of 75 highway projects reviewed (8 interstate, 24 primary, 25 secondary, 18 urban seconda...
+> -- *[[HighwayCoordination_1967_03_31]]*
+
+> - **Habitat type**: Fossil Creek is a **travertine-influenced** stream system; current (reduced-flow) conditions are dominated by shallow run habitat over bedrock, unsuitable for razorback sucker. Under restored/increased base flows, channel morphology is expected to shift toward **travertine dam...
+> -- *[[ReviewOfChildsIrvingBiological_1999_02_05]]*
+
+## Mentioned In
+- [[AlamoDamLandAndWaterProjectsSt_1966]]
+- [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
+- [[DoiAnnouncesRecommendationsFor_18330]]
+- [[GilaTaxonomy_14730]]
+- [[HighwayCoordination_1967_03_31]]
+- [[IntroductionOfBonytailChubsAnd_1994_02_09]]
+- [[LetterToBruceEllisRegardingCap_1993_08_10]]
+- [[ReintroductionOfNativeFishInto_1993_07_24]]
+- [[ReviewOfChildsIrvingBiological_1999_02_05]]
+- [[SomeAspectsOfBiologyOfTheLongf_1971_05_25]]
+- [[SpeciesAccountCatostomusInsign_13167]]
+- [[SpeciesAccountForDesertSuckerC_13160]]
+- [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]

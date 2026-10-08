@@ -1,0 +1,28 @@
+---
+type: concept
+auto_enriched: true
+---
+# Gambusia Nobilis
+
+## Summary
+Gambusia nobilis, commonly known as the Big Bend gambusia, is a small livebearing fish endemic to the Pecos River system that has garnered attention in ichthyological research for its notably high predatory behavior compared to the related species Gambusia affinis. This species is significant in conservation biology due to its restricted range and vulnerability to habitat degradation, while also serving as an important model organism for studying intraspecific predation dynamics, breeding behavior, and cannibalism patterns within the Gambusia genus. Its ecological role and behavioral characteristics make it a valuable subject for understanding predator-prey interactions and population dynamics in freshwater ecosystems.
+
+## Context
+> - **Freshwater residents** are assigned to one or more of the **eight Texas game areas**: (1) East Texas timber/blackland prairie, (2) coastal prairie, (3) South Texas brushlands, (4) main blackland prairie, (5) cross timbers/grand prairie, (6) Edwards Plateau, (7) High Plains, (8) Trans-Pecos. -...
+> -- *[[AChecklistOfTexasFreshWaterFis_14208]]*
+
+> - **Habitat**: The Pecos River system supports a mix of large-river generalists (e.g., *[[Ictalurus Punctatus]]*, *[[Aplodinotus Grunniens]]*), headwater/upper-reach specialists (e.g., *[[Catostomus Commersoni]]*, *[[Semotilus Atromaculatus]]*, *[[Campostoma Anomalum]]* — all noted "upper Pecos" ...
+> -- *[[ChecklistOfPecosRiverAndMexica_18282]]*
+
+> **Q3 – Does predation rate vary by species?** - Yes: *[[Gambusia Nobilis]]* is markedly more predaceous than *[[Gambusia Affinis]]*, per survivorship tables for both male and female predators (Tables 4–5).
+> -- *[[StudiesOfGambusiaCannibalism_14238]]*
+
+> - **53 total fish species** documented for the Pecos River, with *Morone chrysops* noted as an introduced addition to the native fauna count. - **New species description**: *[[Ictalurus Chihuahua]]* n. sp. is introduced in this checklist within [[Ictaluridae]]. - **Conservation status flags** app...
+> -- *[[ChecklistOfPecosRiverAndMexica_18282]]*
+
+## Mentioned In
+- [[AChecklistOfTexasFreshWaterFis_14208]]
+- [[AClassificationOfTexasAquaticC_15773]]
+- [[ChecklistOfPecosRiverAndMexica_18282]]
+- [[ObservationsOnTheBreedingBehav_14392]]
+- [[StudiesOfGambusiaCannibalism_14238]]

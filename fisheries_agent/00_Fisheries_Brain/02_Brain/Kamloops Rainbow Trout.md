@@ -1,0 +1,16 @@
+---
+type: concept
+auto_enriched: true
+---
+# Kamloops Rainbow Trout
+
+## Context
+> This report synthesizes the introduction history, life-history variability, and stocking record of **kokanee salmon** (*Oncorhynchus nerka*), the landlocked, nonanadromous form of [[Sockeye Salmon]], in California waters through June 1963. Kokanee were first introduced to California in 1941 at [[...
+> -- *[[AReviewOfKokaneeInCalifornia_1963]]*
+
+> - **Habitat**: Kokanee are obligate freshwater, lacustrine fish completing their entire life cycle in lakes and connected tributary streams — unlike the anadromous [[Sockeye Salmon]] from which they are derived. - **Evolutionary origin**: Kokanee likely evolved from "residual" sockeye populations...
+> -- *[[AReviewOfKokaneeInCalifornia_1963]]*
+
+## Mentioned In
+- [[AReviewOfKokaneeInCalifornia_1963]]
+- [[TwoNewBloodFlukeParasitesOfTro_14426]]

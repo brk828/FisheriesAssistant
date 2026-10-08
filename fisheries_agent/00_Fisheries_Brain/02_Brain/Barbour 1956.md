@@ -1,0 +1,15 @@
+---
+type: concept
+auto_enriched: true
+---
+# Barbour 1956
+
+## Context
+> This 1962 paper by Robert A. Kuehne presents an annotated checklist of fishes collected from Clemons Fork, a small tributary of Buckhorn Creek in Breathitt County, Kentucky, located within the [[Robinson Forest]] research tract. Based on seine collections from summer 1959 and spring 1961 across s...
+> -- *[[AnnotatedChecklistOfFishesFrom_1962]]*
+
+> - **17 species from 4 families** (Catostomidae, Cyprinidae, Centrarchidae, Percidae) were documented from seven collection stations sampled in 1959 and 1961. - Species richness and abundance were **unexpectedly high** given the small watershed size, suggesting a link between **habitat stability**...
+> -- *[[AnnotatedChecklistOfFishesFrom_1962]]*
+
+## Mentioned In
+- [[AnnotatedChecklistOfFishesFrom_1962]]

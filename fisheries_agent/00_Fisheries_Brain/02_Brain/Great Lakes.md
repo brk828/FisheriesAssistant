@@ -1,0 +1,53 @@
+---
+type: concept
+auto_enriched: true
+---
+# Great Lakes
+
+## Summary
+The Great Lakes represent a vast freshwater ecosystem of continental significance that serves as a critical focus for fish conservation and restoration efforts, particularly regarding native salmonid populations like lake trout that have been decimated by historical overfishing and invasive species such as sea lamprey. This system encompasses multiple interconnected basins with distinct benthic and limnological zones that support complex aquatic communities and require specialized sampling and management approaches. The Great Lakes exemplify the challenges and opportunities in large-scale freshwater fisheries management, where coordinated restoration programs involving hatchery production and strategic stocking are essential to recovering depleted populations and maintaining ecosystem integrity.
+
+## Context
+> - **Species**: *Aplodinotus grunniens* Rafinesque, the [[Freshwater Drum]], is the only freshwater representative of the family [[Sciaenidae]] in North America. - **Common names**: Sheepshead, white perch (regional). - **Distinguishing features**: Silvery coloration, highly arched back, dorsal fi...
+> -- *[[ComparativeMorphometryOfFreshw_12456]]*
+
+> - **Standard length range (104 specimens, December collections):** 41–86 mm, mean = 58.7 mm. - **Age structure (via scale annuli):** individuals aged between 0+ and 1+ years, indicating a young population dominated by juveniles/sub-adults. - These meristic values allocate all Mississippi River sp...
+> -- *[[DispersalOfRainbowSmeltOsmerus_1980]]*
+
+> This work by W. L. Minckley is a **zoogeographic survey** of freshwater fish faunas across the Eastern Arctic region, spanning Siberia east of the Lena-Aldan River, Canada, and Alaska. Rather than focusing on individual species morphology, the paper synthesizes drainage-system biogeography, docum...
+> -- *[[FreshwaterFishesOfTheEasternAr_18569]]*
+
+> This 1968 Bureau of Commercial Fisheries leaflet documents the construction, materials, and operational methods of gill nets used in the commercial fishery of the [[Great Lakes]]. At the time of publication, gill nets accounted for nearly half of the total annual American catch of roughly 60 mill...
+> -- *[[GreatLakesGillNet_11048]]*
+
+> - **Geographic origin of specimens:** - *Semotilus atromaculatus*, *S. corporalis*, *Ambloplites rupestris*, and *Lepomis gibbosus* were collected via trap net and angling from [[Nogies Creek]], Peterborough County, Ontario (June 1975); additional *S. atromaculatus* were collected in eastern Onta...
+> -- *[[LactateDehydrogenaseLdhIsozyme_1978]]*
+
+## Mentioned In
+- [[ComparativeMorphometryOfFreshw_12456]]
+- [[CurrentRoleOfTroutCultureInMan_13158]]
+- [[DispersalOfRainbowSmeltOsmerus_1980]]
+- [[ElectronMicroscopicInvestigati_1964_06_11]]
+- [[FilletWeightsAndLossOnFilletin_12433]]
+- [[FreshwaterFishesOfTheEasternAr_18569]]
+- [[GreatLakesGillNet_11048]]
+- [[LactateDehydrogenaseLdhIsozyme_1978]]
+- [[ModificationsToTheFr_12616]]
+- [[NewUsfwsFisheriesActionPlanWil_15770]]
+- [[OriginAndDispersalOfTheAlewife_1957]]
+- [[PositionStatementOnRecreationa_1994_09_01]]
+- [[ProposedIntroductionOfRainbowS_11577]]
+- [[ReviewOfFreshwaterFishesOfEast_11318]]
+- [[SlicksOnLakeHuron_1962_12_29]]
+- [[SpecialSymposiumOnTheBiotaOfCu_19762]]
+- [[StationProfileJonesHoleNationa_19544]]
+- [[StationProfileOfPendillsCreekN_1993]]
+- [[StationProfileOfTheJordanRiver_19545]]
+- [[StationProfileSaratogaNational_1993_12_11]]
+- [[StatusOfSeaLampreyProblem_15264]]
+- [[TheAmericanSmeltOsmerusMordaxM_1950]]
+- [[TheEffectsOfAtomicRadiationOnO_1957]]
+- [[TheInvasionPresentStatusAndLif_1949_12_01]]
+- [[TheMuskellungInMichigan_12040]]
+- [[TheSmeltOsmerusMordaxMitchill_13092]]
+- [[UsFishAndWildlifeServiceMeetin_15771]]

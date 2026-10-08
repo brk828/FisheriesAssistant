@@ -1,0 +1,40 @@
+---
+type: concept
+auto_enriched: true
+---
+# Salton Sea
+
+## Summary
+The Salton Sea is California's largest inland water body, a closed-basin, hypersaline terminal lake in Riverside and Imperial Counties that has served as a critical subject for fish introduction and conservation research since the mid-20th century. As an extreme aquatic environment characterized by high salinity, high evaporation rates, and geographic isolation, the Salton Sea presented unique challenges for fisheries management and ecological study, including evaluations of non-native species introductions and investigations into the survival and adaptation of native desert fish species. The lake and its associated habitats have been central to conservation efforts for endemic species like the desert pupfish, making it an important case study in aquatic conservation biology and the ecological consequences of human-modified aquatic systems.
+
+## Context
+> - **Habitat type:** The Cuatro Cienegas Basin is a globally significant desert wetland system in Coahuila, Mexico, harboring a highly endemic and geographically restricted aquatic fauna with unique species assemblages referenced as a critical national resource. - **Documented regional impacts of ...
+> -- *[[AfricanCichlidsGenusTilapiaInL_13767]]*
+
+> **Habitat and physical setting:** - The [[Coachella Canal]] is an earthen irrigation channel delivering [[Colorado River]] water via the [[All American Canal]] to the Imperial, Coachella, and Indio valleys, lying within the endorheic [[Salton Sea]] basin ("Colorado Desert"). - Capacity: 70.8 m³/s...
+> -- *[[BenthicInvertebratesOfTheEarth_1983]]*
+
+> **Refugium Populations (managed conservation sites):** - [[Thousand Palms Oasis]] / Simone/McCallum Pond, Riverside County — 50 fish - Pond at [[The Living Desert]], Riverside County — 35 fish - [[Palm Canyon Pond]], Anza-Borrego Desert State Park, San Diego County — 50 fish - [[Cleveland Street ...
+> -- *[[CAFGAnnualPermitReport_1992-12-15]]*
+
+> This 1968 California Department of Fish and Game administrative report by Emmitt L. McClendon evaluates a proposal to introduce "bagre" (sea catfish, family [[Ariidae]]) into the [[Salton Sea]] as a potential forage or sport fish addition. The author concludes that the introduction should **not**...
+> -- *[[EvaluationOfProposedIntroducti_12261]]*
+
+> **Gradients and microhabitat structure:** - Sharp vertical thermal/salinity stratification documented in a Cuatro Ciénegas pit (47°C bottom vs. 24°C only 46 cm above; 111.3‰ bottom salinity vs. dilute surface). - Horizontal/diel movement patterns in *Cyprinodon* at the [[Salton Sea]] (Barlow 1958...
+> -- *[[HabitatsOfNorthAmericanDesertF_1981]]*
+
+## Mentioned In
+- [[AfricanCichlidsGenusTilapiaInL_13767]]
+- [[BenthicInvertebratesOfTheEarth_1983]]
+- [[CAFGAnnualPermitReport_1992-12-15]]
+- [[DesertPupfishCyprinodonMacular_1977]]
+- [[DesertPupfishRecoveryPlan_19432]]
+- [[EvaluationOfProposedIntroducti_12261]]
+- [[FoodOfTheThreadfinShadDorosoma_1967_07_21]]
+- [[HabitatsOfNorthAmericanDesertF_1981]]
+- [[LetterOnDesertPupfishSamplingL_19160]]
+- [[PotentialPopulationManagementP_14777]]
+- [[ProposalToDetermineTheDesertPu_1984_06_06]]
+- [[StockingOfEndangeredDesertPupf_12706]]
+- [[SurvivalOfSomeFishesRecentlyIn_19099]]
+- [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]

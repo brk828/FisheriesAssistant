@@ -1,0 +1,88 @@
+---
+type: concept
+auto_enriched: true
+---
+# Mosquitofish
+
+## Summary
+Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes native to the southeastern United States that have been widely introduced globally for mosquito larval control, though they often become invasive and competitively exclude native fish species in aquatic ecosystems. In conservation and aquatic ecology contexts, mosquitofish are recognized as significant ecological disruptors that can dominate introduced habitats and outcompete native fishes, particularly in isolated systems like springs and small streams, making them a critical concern for native fish conservation efforts. Their ecological role as both a biological control agent and as a potentially harmful invasive species makes them particularly relevant to fisheries management and conservation biology discussions, especially in regions like the southwestern United States where native fish biodiversity is threatened.
+
+## Context
+> - **Regulatory driver**: The [[Endangered Species Act of 1973]] requires USFWS to develop recovery plans for listed species; introductions have become a prominent recovery tool in recent decades. - **Case study — Amistad Gambusia (*Gambusia amistadensis*)**: Known only from Goodenough Spring, inu...
+> -- *[[AmericanFisheriesSocietyProtoc_12011]]*
+
+> - **Primary habitat**: Perennial reach of [[Cocio Wash]] downstream of mine seepage inputs, supporting a "normal biological community." - **Riparian vegetation**: dense stands of [[Tamarix Pentandra]] (tamarisk/saltcedar), *Salix* sp. (willows), and *Typha angustifolia* (cattails). - **Co-occurri...
+> -- *[[APhysicoChemicalAndBiologicalA_1974_05_30]]*
+
+> This report documents a resurvey of fish distribution and abundance in [[Aravaipa Creek]], a hot-desert stream in Graham and Pinal Counties, Arizona, conducted 18–20 October 1985 by W.L. Minckley and Catherine A. Karp for the U.S. Bureau of Land Management and the George Whittell Trust. Ten local...
+> -- *[[AravaipaCreekFishesOctober_1986_01_20]]*
+
+> - **Life history strategy**: Small-bodied, short-lived, livebearing (viviparous) fish with high fecundity, characteristics that make population size estimation difficult via standard sampling methods. - **Body size/type**: Small fish (implied by comparison to invasive [[Mosquitofish]], *Gambusia ...
+> -- *[[BiologicalOpinionOnCienegaCree_1994_02_07]]*
+
+> **Threats:** - Habitat destruction: water diversion, stream downcutting, backwater draining, vegetation clearing, channelization, water impoundment, groundwater pumping, pesticides. - Biological threats: competition and predation from nonnative fishes, notably [[Mosquitofish]] (*Gambusia affinis*...
+> -- *[[BiologicalOpinionOnDraftRevise_1993_09_08]]*
+
+## Mentioned In
+- [[APhysicoChemicalAndBiologicalA_1974_05_30]]
+- [[AdditionOfMisgurnusAnguillicau_1969]]
+- [[AmericanFisheriesSocietyProtoc_12011]]
+- [[AravaipaCreekFishesOctober_1986_01_20]]
+- [[AsuResearchParkYoungOfYearFish_1993_08_02]]
+- [[AttemptedReEstablish_1969_03_06]]
+- [[BiologicalOpinionOnCienegaCree_1994_02_07]]
+- [[BiologicalOpinionOnDraftRevise_1993_09_08]]
+- [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
+- [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
+- [[CommentsOnProposedReclassifica_1987_08_26]]
+- [[DeclineOfTheNativeFishFaunaOfT_1974]]
+- [[DiscoveryAndLossOfANewLocality_12337]]
+- [[DraftInterimGilaTopminnowExtir_11679]]
+- [[DynamicsOfEndrinUptakeAndRelea_16344]]
+- [[EcologyOfSpeciesReplacementInT_1983_06_15]]
+- [[EffectivenessOfRotenoneInPondR_1953]]
+- [[EffectsOfInterimFlowsFromGlenC_13655]]
+- [[EffectsOfInterimFlowsFromGlenC_1993_04_17]]
+- [[EffectsOfInterimFlowsFromGlenC_1993_10_29]]
+- [[FishPopulationMonitoringActivi_14004]]
+- [[FishSamplingAtAsuKarstenGolfCo_1990_05_12]]
+- [[FishSamplingAtAsuResearchParkA_19405]]
+- [[FishSamplingAtAsuResearchPark_1987_04_10]]
+- [[FisheriesSurveyOfTheChiricahua_1994_10_01]]
+- [[FisherySurveyOfTheGilaRiverWit_1995_09_19]]
+- [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
+- [[GrowoutPondsUsefulForColoradoS_13321]]
+- [[GuidelinesForIntroductionsOfTh_12022]]
+- [[IneOfTheMoapaDaceInvolves_13300]]
+- [[InitialObservationsOnSpawningA_1991]]
+- [[LakeMohaveArizonaBackwaterSumm_1987]]
+- [[LimnologicalStudyOfGlenCanyonT_1965_06_30]]
+- [[MemorandumOnRazorbackSuckerSto_1984_07_25]]
+- [[MemorandumOnSeptemberMeetingOn_1995_09_12]]
+- [[MiddleGilaRiverAquaticStudy_12505]]
+- [[NativeFishesOfTheUpperGilaRive_12644]]
+- [[OccurrenceOfTheTigerBarbBarbus_1974]]
+- [[PondSamplingTrip_19772]]
+- [[PotentialOfSodiumSulfiteCataly_13074]]
+- [[RenovationOfPalmLakeForUseAsAN_1988_04_06]]
+- [[SamplingAtAsuResearchParkOctob_1990_10_16]]
+- [[SamplingAtAsuResearchParkSepte_19436]]
+- [[SamplingAtAsuResearchParkSprin_1992_05_28]]
+- [[SizeRelatedFactorsAssociatedWi_13891]]
+- [[StatusAndManagementOfShoshoneP_1990]]
+- [[StatusOfTheGilaTopminnowAndIts_13684]]
+- [[SummaryDataSheetForFisheryStud_11504]]
+- [[SummaryOfEventsAtPalmLake_1992_05_05]]
+- [[SummaryReportForFisheriesSurve_1995_07_27]]
+- [[SwimmingAbilityOfNonNativeFish_1995_06_10]]
+- [[TelephoneConversationRecordSal_1991_09_24]]
+- [[TheAgeAndGrowthOfBluegillLepom_18719]]
+- [[TheFishesOfTheVirginRiverATrib_14013]]
+- [[TheOccurrenceOfTheBandedPygmyS_1980]]
+- [[UseOfAntimycinForSelectiveThin_14083]]
+- [[UtilizationOfPondsAtBuenosAire_1986_06_06]]
+- [[VerdeRiverFishResearchSpring_1997_05_20]]
+- [[VerdeRiverFishResearch_1998]]
+- [[VirginRiverOperationOctober_1988_10_04]]
+- [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
+- [[YaquiTopminnowDraftRecoveryPla_1979]]

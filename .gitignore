@@ -1,0 +1,20 @@
+# Secrets: never commit
+.env
+.env.*
+!.env.template
+
+# Per-user generated files
+project_manifest.yaml
+fisheries_agent/project_manifest.yaml
+*.log
+temp_*.R
+tmb_model_output.txt
+nimble_mcmc_output.txt
+multivariate_plot.png
+fisheries_agent/00_Fisheries_Brain/pdfs_to_process/*
+!fisheries_agent/00_Fisheries_Brain/pdfs_to_process/.gitkeep
+
+__pycache__/
+*.pyc
+.venv/
+venv/

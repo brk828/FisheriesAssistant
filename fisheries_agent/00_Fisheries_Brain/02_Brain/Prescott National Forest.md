@@ -1,0 +1,20 @@
+---
+type: concept
+auto_enriched: true
+---
+# Prescott National Forest
+
+## Summary
+I appreciate your request, but I must be honest that I cannot provide an accurate summary of "Prescott National Forest" as it relates to fish science, conservation biology, or aquatic ecology without access to the actual context excerpts from the three source documents you mentioned. While Prescott National Forest in Arizona does contain aquatic ecosystems and waterways relevant to fish conservation—particularly regarding the Verde River system and native fish species—I cannot reliably characterize its specific scientific significance or role in the documents you've cited without reviewing the actual text. To provide an accurate and useful summary grounded in your source material, I would need to see the relevant passages where this concept appears.
+
+## Context
+> - **373 Gila Topminnow** collected at Redrock Canyon, Santa Cruz County, AZ. - **634 Gila Topminnow** collected at Cave Creek, Maricopa County, AZ, under the auspices of a Biological Opinion tied to a prescribed burn mitigation effort. - Subpermit renewal requested voucher collection allowances f...
+> -- *[[ReportOfEndangeredSpeciesColle_1993_01_07]]*
+
+## Mentioned In
+- [[EndangeredAndThreatenedWildlif_11563]]
+- [[FederalEndangeredFishSpeciesCo_1993_11_19]]
+- [[LetterRegardingRazorbackSucker_1990_05_31]]
+- [[ReportOfEndangeredSpeciesColle_1993_01_07]]
+- [[SummaryDataSheetForFisheryStud_11504]]
+- [[VerdeRiverTemperatureRecorderD_1992_04_02]]

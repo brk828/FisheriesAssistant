@@ -1,0 +1,22 @@
+---
+type: concept
+auto_enriched: true
+---
+# Lesser Long-Nosed Bat
+
+## Context
+> - **Habitat context**: The [[Santa Cruz River]] and its major tributaries exhibit a mosaic of hydrological regimes relevant to species persistence: - Perennial (year-round) flow reaches, including effluent-dependent segments. - Intermittent reaches with seasonal flow (as opposed to storm-driven f...
+> -- *[[EndangeredSpeciesActSectionCon_1994_12_06]]*
+
+> This document is a legal filing — supplemental interrogatory answers in *Southwest Center for Biological Diversity v. McGee* — rather than a primary scientific study. It contains no direct morphological, physiological, or population data on the [[Yaqui Chub]]. However, it provides indirect ecolog...
+> -- *[[SouthwestCenterSSupplementalAn_18100]]*
+
+> 1. **No-effect finding rejected**: The FWS could not concur with the Bureau of Reclamation's determination of "no effect" on listed aquatic species (Gila Topminnow, Desert Pupfish) from CAP water deliveries in the Santa Cruz River Basin. 2. **Likely adverse effects identified**: Construction, ope...
+> -- *[[EndangeredSpeciesActSectionCon_1994_12_06]]*
+
+> - **Habitat type:** Riparian stream corridor within Turkey Creek, part of the West Turkey Creek Allotment in the Chiricahua Mountains portion of the Coronado National Forest. - **Co-occurring species of conservation concern:** [[Lesser Long-Nosed Bat]] (*Leptonycteris curasoae yerbabuenae*), whic...
+> -- *[[SouthwestCenterSSupplementalAn_18100]]*
+
+## Mentioned In
+- [[EndangeredSpeciesActSectionCon_1994_12_06]]
+- [[SouthwestCenterSSupplementalAn_18100]]

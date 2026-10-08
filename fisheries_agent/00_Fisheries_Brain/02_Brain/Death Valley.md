@@ -1,0 +1,32 @@
+---
+type: concept
+auto_enriched: true
+---
+# Death Valley
+
+## Summary
+Death Valley refers to an isolated desert region in the American Southwest characterized by fragmented aquatic habitats in springs and endorheic basins that support relictual fish populations with high levels of endemism. The valley's extreme geographic isolation—surrounded by high mountains and narrow topographic passes—has created a unique biogeographic situation where fish populations have undergone significant divergence and represent a distinctive mixing of faunal elements from different desert biotic zones. This makes Death Valley and adjacent regions like the Amargosa Desert of critical conservation importance, as the endemic fish species inhabiting these isolated springs face heightened vulnerability to extinction due to habitat fragmentation and environmental pressures.
+
+## Context
+> - **Bonneville/Virgin/Colorado system**: Upper Snake River tributaries were formerly linked through the pre-Bonneville Basin to the [[Virgin River]] and lower [[Colorado River]]. [[Death Valley]] and the [[Owens River]] connected to the lower Colorado River and Pacific in the Pliocene; the lower ...
+> -- *[[AbstractsFromTheConferenceGeol_1999_10_28]]*
+
+> This document is **not a primary scientific research paper** but an administrative memorandum announcing the agenda and logistics for the **Fourth Annual Desert Fishes Symposium**, held November 14–15, 1972, at Death Valley National Monument Headquarters, Furnace Creek, California, under the ausp...
+> -- *[[FourthAnnualDesertFishesSympos_1972_09_20]]*
+
+> 1. **Purpose:** Organize an external review of the GCES endangered fish research program, led by Dr. [[Wendell Minckley]]. 2. **Deliverable requested from each Principal Investigator:** A structured synopsis letter covering: - Objective statement - Trips completed to date - Types of data collecte...
+> -- *[[ReviewOfTheEndangeredFishResea_1991_10_03]]*
+
+> - **Biogeographic relictualism**: High surrounding mountains and narrow topographic passes have isolated the valley, perpetuating relictual populations and permitting a distinctive mixing of organisms from the [[Chihuahuan Desert]] and [[Tamaulipan]] biotic zones. - **Deep-time faunal mixing**: [...
+> -- *[[SpecialSymposiumOnTheBiotaOfCu_19762]]*
+
+> - **Habitat type:** Isolated desert springs and other rare aquatic habitats in arid/endorheic basins of the American Southwest, particularly the [[Amargosa Desert]] and [[Death Valley]] regions of the [[Great Basin]]. - **Conservation concern:** Agenda items highlight the fragility and endemism o...
+> -- *[[FourthAnnualDesertFishesSympos_1972_09_20]]*
+
+## Mentioned In
+- [[AbstractsFromTheConferenceGeol_1999_10_28]]
+- [[FourthAnnualDesertFishesSympos_1972_09_20]]
+- [[GeneticDivergenceAnd_1972]]
+- [[LetterToProspectiveAreaCoordin_1977_08_29]]
+- [[ReviewOfTheEndangeredFishResea_1991_10_03]]
+- [[SpecialSymposiumOnTheBiotaOfCu_19762]]

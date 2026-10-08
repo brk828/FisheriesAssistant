@@ -1,0 +1,20 @@
+---
+type: concept
+auto_enriched: true
+---
+# Ruedi Reservoir
+
+## Summary
+Ruedi Reservoir is a water storage facility on the Colorado River system whose release operations were managed under the Endangered Species Act to maintain critical instream flows for endangered fish species, particularly the Colorado squawfish, in the 15-mile reach near Grand Junction, Colorado. The reservoir's water releases were coordinated as part of broader recovery efforts to balance competing water demands while ensuring adequate flow conditions necessary for fish spawning and survival in designated critical habitat reaches.
+
+## Context
+> - **Critical habitat reach**: The **15-mile reach** of the Colorado River near Grand Junction, Colorado, is identified as a priority zone for maintaining instream flows critical to endangered fish survival and spawning. - **Tributary and reservoir flow management**: Proposed water delivery agreem...
+> -- *[[MemorandumOnColoradoRiverRecov_21012]]*
+
+> This 1989 memorandum from the U.S. Fish and Wildlife Service (Service) to the Bureau of Reclamation documents a water management action taken under the Endangered Species Act to benefit the endangered [[Colorado Squawfish]] in the [[15-Mile Reach]] of the [[Colorado River]]. As a condition of a 1...
+> -- *[[RequestForReleasesFromRuedigre_1989_06_08]]*
+
+## Mentioned In
+- [[MemorandumOnColoradoRiverRecov_21012]]
+- [[RequestForReleasesFromRuedigre_1989_06_08]]
+- [[SavingTheSquawfish_20454]]

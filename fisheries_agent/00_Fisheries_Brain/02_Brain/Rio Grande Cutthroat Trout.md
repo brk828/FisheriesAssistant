@@ -1,0 +1,28 @@
+---
+type: concept
+auto_enriched: true
+---
+# Rio Grande Cutthroat Trout
+
+## Summary
+The Rio Grande Cutthroat Trout is a native salmonid species endemic to the Rio Grande basin of New Mexico and Colorado that has become a conservation priority due to habitat loss, water diversions, and competition from introduced trout species. This subspecies is maintained through active broodstock development programs, particularly at facilities like the Mescalero National Fish Hatchery, which supports reintroduction and restoration efforts across southwestern aquatic ecosystems. Its conservation represents a critical component of regional fish management strategies focused on preserving native biodiversity and restoring ecological integrity to historically impaired river systems.
+
+## Context
+> **Species mentioned (native refugium/culture species):** - [[Paddlefish]] (Polyodontidae) — cultured at Uvalde, Texas - [[Comanche Springs Pupfish]] and [[Pecos Pupfish]] (Cyprinodontidae) — Uvalde, Texas - [[Fountain Darter]], [[Longnose Darter]], [[Dusky Darter]], [[Leopard Darter]] (Percidae) ...
+> -- *[[LetterToDrWLMinckleyOnTheHisto_19038]]*
+
+> The **Mescalero National Fish Hatchery** (Mescalero, New Mexico), established in 1965 under the Appropriations Act of July 26, 1963, is a U.S. Fish and Wildlife Service Region 2 facility whose primary mission is to supply [[Rainbow Trout]] and [[Cutthroat Trout]] to the southwestern United States...
+> -- *[[StationProfileOfTheMescaleroNa_1991]]*
+
+> - **Habitat types utilized**: Indoor tankhouse rearing units and outdoor covered raceways (e.g., raceway C-8), reflecting a staged approach to acclimating broodstock from protected indoor environments to more naturalistic outdoor flow conditions. - **Water quality stressor**: Nitrogen supersatura...
+> -- *[[StationProfileOfTheMescaleroNa_1991]]*
+
+> - **Mission focus**: 94% of trout production serves Indian lands in the Southwest; ~6% supplies military installations in Texas and Oklahoma. - **Conservation role**: Active broodstock development for two at-risk taxa — the federally endangered [[Gila Trout]] and the special-concern [[Rio Grande ...
+> -- *[[StationProfileOfTheMescaleroNa_1991]]*
+
+## Mentioned In
+- [[FishnetFisheriesProgramReviewU_1999_05_24]]
+- [[LetterRegardingTheMescaleroCut_1985_12_24]]
+- [[LetterToDrWLMinckleyOnTheHisto_19038]]
+- [[ReopeningOfCommentPeriodOnProp_1989_06_30]]
+- [[StationProfileOfTheMescaleroNa_1991]]

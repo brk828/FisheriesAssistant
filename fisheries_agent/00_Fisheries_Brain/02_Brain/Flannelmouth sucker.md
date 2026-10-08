@@ -1,0 +1,135 @@
+---
+type: concept
+auto_enriched: true
+---
+# Flannelmouth Sucker
+
+## Summary
+The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid fish endemic to the Colorado River basin that has experienced dramatic population declines due to habitat alteration from dam construction, flow regulation, temperature modification, and competition from nonnative species. As a federally protected species of conservation concern in the Lower Colorado River system, it is morphologically distinguished from co-occurring suckers by specific skeletal characteristics including interneural bone and frontoparietal fontanelle morphology, features critical for identifying larvae and early juveniles in ichthyological surveys. Its ecological significance lies in its role as a native benthic grazer in the Colorado River ecosystem and its use as an indicator species for assessing the impacts of anthropogenic river modifications on native fish assemblages.
+
+## Context
+> - **[[Humpback Chub]] (*Gila cypha*)**: Evolutionarily specialized "big-river" cyprinid morphology adapted to swift, turbulent, historically warm-turbid river dynamics; transitions from shoreline-associated juvenile morphology/habitat use to offshore adult habitat use at **175–200 mm TL** (approx...
+> -- *[[AbstractsAndCoordinationOnTheW_1994_05_17]]*
+
+> - **Northern Pike Diet (n=123 stomachs):** - 54.5% empty stomachs. - Of stomachs with food, 97.6% contained fish; 2.4% non-fish items. - 12 fish species identified as prey (9 non-native, 3 native). - Dominant prey: [[Red Shiner]] (*Notropis lutrensis*) and [[Fathead Minnow]] (*Pimephales promelas...
+> -- *[[AbundanceDistributionAndPisciv_13062]]*
+
+> - **Hybridization Identification**: Adult fish collected for a prospective [[Razorback Sucker]] broodstock (Colorado River, upstream of Westwater Canyon; source population at Etter Pond, De Beque, CO) were determined via **genetic analysis** to be hybrids between [[Razorback Sucker]] and [[Flanne...
+> -- *[[AddendumToGeneticsManagementCo_1993]]*
+
+> This 1994 internal memorandum from the Illinois Natural History Survey (Dave Philipp's lab, analysis by Todd Kassler) presents electrophoretic genetic analyses conducted to independently test Dr. Buth's hypothesis that [[Razorback Sucker]] (RBS, *Xyrauchen texanus*) individuals from Etter Pond, C...
+> -- *[[AdditionalRazorbackSuckerGenet_1994_04_28]]*
+
+> | Rank | Species | % of Collection | Number Collected | |------|---------|------------------|-------------------| | 1 | Humpback Chub (*Gila cypha*) | 47.4 | 87 | | 2 | [[Flannelmouth Sucker]] | 30.4 | 56 | | 3 | [[Speckled Dace]] | 11.9 | 22 | | 4 | [[Common Carp]] | 5.9 | 11 | | 5 | [[Channel C...
+> -- *[[AdditionalStudiesOnTheLittleCo_18500]]*
+
+## Mentioned In
+- [[AbstractsAndCoordinationOnTheW_1994_05_17]]
+- [[AbundanceDistributionAndPisciv_13062]]
+- [[AddendumToGeneticsManagementCo_1993]]
+- [[AdditionalRazorbackSuckerGenet_1994_04_28]]
+- [[AdditionalStudiesOnTheLittleCo_18500]]
+- [[AdvancingKnowledgeOnCriticalEa_19494]]
+- [[AgeAndGrowthRateOfTheFlannelmo_13215]]
+- [[AnAnnotatedCheckListOfTheFishe_12726]]
+- [[AnalysisOfPastCollectionsFromT_1993]]
+- [[AnnualAssessmentOfSpawningSucc_1993]]
+- [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
+- [[AnnualReportOnRazorbackSuckerM_1992_11_24]]
+- [[AnnualReportOnUSBureauOfReclam_19117]]
+- [[BiowestFishProtectionAlternati_1992_12_03]]
+- [[ChangesInNativeFishDistributio_1973]]
+- [[CharacterizationOfTheLifeHisto_1991_10_09]]
+- [[CollectionOfYoungSuckersFromLo_1993]]
+- [[ColoradoRiverAquaticBiologists_1997_11_19]]
+- [[ColoradoRiverFishesRecoveryPro_1993_12_10]]
+- [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
+- [[ColoradoRiverTrophicStudiesMee_1991_07_23]]
+- [[CommentsOnAndChangesToAnimalNo_11856]]
+- [[CommentsOnProposedCriticalHabi_1994_01_25]]
+- [[ConceptualGoalsForManagementOf_1984_10_09]]
+- [[DistributionOfFishesInTheSanRa_1980_01_30]]
+- [[DistributionReproductionAndHab_1987]]
+- [[DistributionSpawningAndHabitat_1985]]
+- [[DraftSpawningAndMovementsOfRaz_13052]]
+- [[EffectsOfInterimFlowsFromGlenC_13654]]
+- [[EffectsOfInterimFlowsFromGlenC_13655]]
+- [[EffectsOfInterimFlowsFromGlenC_13659]]
+- [[EffectsOfInterimFlowsFromGlenC_13660]]
+- [[EffectsOfInterimFlowsFromGlenC_1993_04_17]]
+- [[EffectsOfInterimFlowsFromGlenC_1993_10_29]]
+- [[EndangeredAndThreatenedFishInT_1979]]
+- [[EndangeredSpeciesBiologicalAss_11547]]
+- [[EnvironmentalAssessmentQuailCr_13593]]
+- [[FederalCandidateSpeciesOfArizo_11661]]
+- [[FederalCandidateSpeciesOfArizo_11893]]
+- [[FederalListedAndCandidateSpeci_1995_06_12]]
+- [[FishAndWildlifeServiceLetterOn_1994_08_22]]
+- [[FishPopulationMonitoringActivi_14004]]
+- [[FishesCollectedOnTheGrandCanyo_15402]]
+- [[FourthEndangeredColoradoSquawf_1997_07_23]]
+- [[FwsProposedStudiesAndWorkForFy_11072]]
+- [[GilaCyphaARemarkableNewSpecies_15313]]
+- [[GlenCanyonEnvironmentalStudies_1991_04_20]]
+- [[HabitatUseByHumpbackChubGilaCy_1991]]
+- [[HighlightsOfTheRazorbackSucker_1994_09_29]]
+- [[HighlightsOfTheRazorbackSucker_1994_10_22]]
+- [[IdentificationOfRazorbackSucke_1995_02_05]]
+- [[JustificationsForAdditionsToAn_1990_09_11]]
+- [[LetterToDavidWegnerRegardingAs_1991_02_21]]
+- [[LetterToDavidWegnerRegardingLa_1990_12_18]]
+- [[LetterToDrThomasDowlingOnRazor_1992_04_15]]
+- [[LetterToDrWLMinckleyRegardingA_1985_04_15]]
+- [[LetterToMrMichaelSpearRegardin_1986_10_22]]
+- [[LetterToWLMinckleyOnGcesDataSu_1993_10_15]]
+- [[LifeHistoryAndEcologyOfTheHump_1995_06_30]]
+- [[LimnologicalStudyOfGlenCanyonT_1965_06_30]]
+- [[MemorandumOnLongTermMonitoring_1993_01_14]]
+- [[MemorandumOnMeetingWithOwenGor_1994_02_21]]
+- [[MemorandumSummarizingTheGcesBa_1992_12_31]]
+- [[MinutesOfTheDesertFishesRecove_16659]]
+- [[MovementsAndHabitatUseOfYoungC_13049]]
+- [[NotesFromMayMeetingLowerColora_1997_05_28]]
+- [[NotesOnMeetingForCooperatorsAn_1994_03_15]]
+- [[NotesOnTheFishesOfTheColoradoR_13441]]
+- [[ObservedGrowthSurvivalAndCauda_1996]]
+- [[OccurrenceOfTwoEndangeredFishe_1990_07_19]]
+- [[PopulationDifferentiationAndIn_1987]]
+- [[PreliminaryReportOnRazorbackSu_1993_09_20]]
+- [[ProgressReportEcologyAndConser_19092]]
+- [[ProposedRuleToListBonytailChub_12003]]
+- [[ProposedStockingOfNonnativeFis_18716]]
+- [[RazorbackSuckerGeneticSurveyTi_1992]]
+- [[RecommendationForAHighDischarg_1993_07_19]]
+- [[RedShinerEradicationFromTheVir_18545]]
+- [[RedShinerEradicationFromTheVir_1988]]
+- [[ReportOfCollectingActivitiesFo_1992_12_28]]
+- [[ReportOnTheRemovalOfHumpbackCh_18501]]
+- [[ReproductionByHumpbackChubInAW_1995]]
+- [[RequestForRenewalOfEndangeredS_1992_11_27]]
+- [[ResourceOverlapOfAgeColoradoSq_15246]]
+- [[ResponseToSpecificConcernsAbou_1993_12_03]]
+- [[ReviewOfCommissionOrderForCrus_1994_07_27]]
+- [[SemiAnnualReportForAsunnhpCoop_1992_08_07]]
+- [[SomeEffectsOfRotenoneTreatment_1969]]
+- [[SpeciesResponsibilit_1992_12_25]]
+- [[StreamflowRequirementsOfWoundf_1984]]
+- [[SummerDistributionAndReproduct_18541]]
+- [[TheEffectsOfGlenCanyonAndHoove_12550]]
+- [[TheEndangeredWoundfinAndWaterM_14006]]
+- [[TheFishesOfSilverCreek_16916]]
+- [[TheFishesOfTheVirginRiverATrib_14013]]
+- [[TheStatusOfTheFishFaunaOfTheLa_14849]]
+- [[TripReportAgfdNativeFishStudie_11268]]
+- [[TripReportAgfdNativeFishStudie_11269]]
+- [[TripReportSummaryJanuaryAprilP_1993_05_05]]
+- [[TripReportVirginRiverChubListi_1988_10_06]]
+- [[UmbrellaProjectChemoreceptionI_1993]]
+- [[UsfwsLcrResearchTripReportHump_11069]]
+- [[VirginRiverMonitoringArizonaSu_1994_05_16]]
+- [[VirginRiverMonitoringNevadaSum_1995_05_31]]
+- [[VirginRiverOperationOctober_1988_10_04]]
+- [[VirginRiverOperationToSeptembe_1988_09_12]]
+- [[VirginRiverRecoveryTeamMeeting_1997_04_25]]
+- [[VrrtNoticeAndMeetingMinutes_20253]]
+- [[WhiteRiverTaylorDrawProjectPre_17087]]

@@ -1,0 +1,81 @@
+---
+type: concept
+auto_enriched: true
+---
+# Apache Trout
+
+## Summary
+The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species native to Arizona's White Mountains that serves as a critical indicator and focal species for conservation efforts in the American Southwest. Once nearly extinct due to habitat loss, competition from introduced species, and degradation of high-elevation stream ecosystems, Apache Trout recovery programs have become central to broader conservation strategies involving habitat restoration, species reintroduction, and genetics management across multiple federal lands. As a native apex predator in montane aquatic ecosystems, the species' recovery status directly reflects the health of Arizona's coldwater stream habitats and represents a key example of endangered species management under the Endangered Species Act in the region.
+
+## Context
+> This document synthesizes a genetic analysis (conducted by Genean Genetic Laboratories) of [[Apache Trout]] (APT) populations across the White Mountains of Arizona, spanning both the **Fort Apache Indian Reservation (FAIR)** and the **Apache-Sitgreaves National Forest (FS)**. The Pinetop Fishery ...
+> -- *[[AnalysisOfApacheTroutPopulatio_15424]]*
+
+> This study presents the first documented analysis of F1 hybrids between the threatened, native [[Apache Trout]] (*Salmo apache*) and the widely introduced [[Rainbow Trout]] (*Salmo gairdneri*) in Arizona's White Mountains. Two cooperative hybridization experiments (1981, 1983) between the U.S. Fo...
+> -- *[[AnAnalysisOfFHybridsBetweenApa_1984_09_24]]*
+
+> - **Salmonidae**: [[Apache Trout]] (*Oncorhynchus apache*), [[Gila Trout]] (*O. gilae*) - **Cyprinidae/Leuciscidae**: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Virgin Chub]] (*Gila seminuda*), [[Yaqui Chub]] (*Gila purpurea*), [[Sonora Chub]] (*Gila ditaenia*), [[Pahranag...
+> -- *[[AnnualReportAndSubPermitApplic_1990_12_09]]*
+
+> - **River mainstems and large tributaries**: [[Bonytail Chub]], [[Humpback Chub]], [[Colorado Squawfish]], and [[Razorback Sucker]] are all large-river Colorado River Basin endemics associated with historically swift, turbid, warm-water riverine habitats. - **Smaller perennial streams and headwat...
+> -- *[[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]*
+
+> - **Biological Opinion Outcome**: No jeopardy determination for the spinedace; no adverse modification determination for its designated critical habitat. - **Incidental Take Trigger Thresholds** (per individual reservoir system): - More than **1 spinedace** found in the stomach contents of tagged...
+> -- *[[BiologicalOpinionOnUSFishAndWi_13249]]*
+
+## Mentioned In
+- [[AnAnalysisOfFHybridsBetweenApa_1984_09_24]]
+- [[AnalysisOfApacheTroutPopulatio_15424]]
+- [[AnnualReportAndSubPermitApplic_1990_12_09]]
+- [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
+- [[BiologicalOpinionOnUSFishAndWi_13249]]
+- [[BiologicalOpinionsAndConcurren_11655]]
+- [[ColdwaterFishStockingAndNative_1995]]
+- [[ColoradoRiverCutthroatTroutEnd_15756]]
+- [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
+- [[CommentsOnTheEnvironmentalAsse_1990]]
+- [[CrayfishImpactsOnWetlandHerps_1993_10_10]]
+- [[CryopreservationAsAToolForGeno_13953]]
+- [[DeclarationOfWLMinckleyOnGrazi_15842]]
+- [[DenialOfEndangeredSpeciesPermi_1975]]
+- [[DesertFishesRecoveryTeamAction_11691]]
+- [[DocumentsRelatingToSubpermitRe_13803]]
+- [[EndangeredSpeciesSubpermitAuth_1993_01_15]]
+- [[ExistingFishRecovery_1989_01_20]]
+- [[FishDistributionNumbersAndWeig_1992]]
+- [[FisheriesFieldStationSummarySo_1996]]
+- [[FishnetFisheriesProgramReviewU_1999_05_24]]
+- [[GilaTroutAndChihuahuaChubRecov_1997_01_16]]
+- [[GuidelinesForIntroductionsOfTh_12022]]
+- [[IntraServiceSectionEvaluations_1995_10_24]]
+- [[LangleySNotesOnGeneticsdexterD_1994_01_27]]
+- [[LetterConcurringOnTenneyTimber_1994_07_22]]
+- [[LetterToDesertFishesCouncilOnS_1990_06_13]]
+- [[LetterToDrWLMinckleyOnTheHisto_19038]]
+- [[LetterToDrWLMinckleyRegardingE_1994_06_22]]
+- [[LetterToSenatorJohnMccainRegar_1994_12_21]]
+- [[MemorandumOnFederalEndangeredt_1994_10_12]]
+- [[NewUsfwsFisheriesActionPlanWil_15770]]
+- [[ObstaclesToReturnOfTheNative_16538]]
+- [[PanelDiscussionInvitationOnMan_1992_06_19]]
+- [[PanelDiscussionOnManagementTow_1992_06_19]]
+- [[PeerReviewLetterOnInvestigatio_1995_06_30]]
+- [[ProposalForTheHatchingRearingA_14816]]
+- [[RareAndEndangeredSpeciesTheGil_18134]]
+- [[ReYourLetterRegardingTheForest_11890]]
+- [[ReintroductionOfGilaTroutInAri_1996_12_05]]
+- [[ReopeningOfCommentPeriodOnProp_1989_06_30]]
+- [[ReportOnPrtActivityFromDecembe_1992_12_01]]
+- [[ReportOnPrtActivityFromDecembe_1993_12_07]]
+- [[RequestToAmendCommissionOrderF_1997_09_30]]
+- [[ResponseToRepresentativeGriffi_1999_04_01]]
+- [[RoundtailChubGetsPrBoostFromGa_13925]]
+- [[ScientificCollectingPermitRene_1994_11_08]]
+- [[SpotCheckSurveyRegionViGapCree_1992_06_08]]
+- [[StationProfileOfTheAlchesayNat_1991]]
+- [[StationProfileOfTheWilliamsCre_19505]]
+- [[StudiesOfTheAbundanceDistribut_13841]]
+- [[SystematicsAndEcologyOfHydrobi_13705]]
+- [[USFishAndWildlifeServiceWhiteM_1994_12_02]]
+- [[VariationInApacheTroutPopulati_1985]]
+- [[WildlifeOfSpecialConcernInAriz_1996_10_14]]

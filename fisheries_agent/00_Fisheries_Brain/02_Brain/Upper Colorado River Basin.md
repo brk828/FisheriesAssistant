@@ -1,0 +1,75 @@
+---
+type: concept
+auto_enriched: true
+---
+# Upper Colorado River Basin
+
+## Summary
+The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts of Colorado and neighboring states that serves as the primary geographic focus for endangered fish recovery and conservation efforts in the western United States. This region historically supported endemic large-river fish species that are now listed under the Endangered Species Act, making it central to federal habitat management decisions and research programs aimed at understanding early life-history stages and recruitment dynamics of native fish populations. The basin's middle and lower reaches, particularly the Green River, have been the subject of intensive monitoring and data collection efforts by agencies such as the U.S. Fish and Wildlife Service to support species recovery and ecosystem restoration.
+
+## Context
+> This document is **not a primary morphological or ecological research paper**, but rather an administrative activity report and policy memorandum from the [[ASIH Environmental Quality Committee]], chaired by [[Walter R. Courtenay Jr]]. It summarizes the committee's regulatory and advocacy activit...
+> -- *[[ActivityReportToTheBoardOfGove_1994_05_04]]*
+
+> This document is a **FY93 Annual Project Report** (Colorado River Recovery Program, Project #23) rather than a primary morphological or ecological field study. It serves as an addendum to a genetics management report concerning **coordinated hatchery facilities** for four endangered fish taxa nat...
+> -- *[[AddendumToGeneticsManagementCo_1993]]*
+
+> - **Habitat/Location:** Specimens were collected predominantly from the **middle and lower reaches of the Green River, Utah**, during **summer–fall periods across 1986–1992**. - **Life stages targeted:** Late larvae and early juveniles — critical early life-history stages linked to recruitment su...
+> -- *[[AnalysisOfPastCollectionsFromT_1993]]*
+
+> This document is a field protocol issued by the [[Colorado River Fishes Recovery Team]] governing the handling, holding, and transport of wild [[Bonytail]] (*Gila elegans*), a critically endangered cyprinid endemic to the [[Upper Colorado River Basin]]. Rather than a primary morphological or ecol...
+> -- *[[AProtocolForTheHandlingAndTran_13066]]*
+
+> - **Habitat context**: All three species are endemic to the [[Upper Colorado River Basin]], a river system in the western United States subject to significant hydrological alteration (damming, flow regulation). - **Conservation status**: All three species are identified as "rare and endangered," ...
+> -- *[[BiowestReportHabitatSuitabilit_1987_09_29]]*
+
+## Mentioned In
+- [[AProtocolForTheHandlingAndTran_13066]]
+- [[ActivityReportToTheBoardOfGove_1994_05_04]]
+- [[AddendumToGeneticsManagementCo_1993]]
+- [[AnalysisOfPastCollectionsFromT_1993]]
+- [[BiowestReportHabitatSuitabilit_1987_09_29]]
+- [[BrookSticklebackCulaeaInconsta_1996]]
+- [[CommentsOnProceduresForStockin_1994_01_27]]
+- [[CompendiumOfExistingKnowledgeF_1990_06_19]]
+- [[DatabaseManagementProgramColor_1993]]
+- [[DesertFishesRecoveryTeamMeetin_11195]]
+- [[DevelopmentOfABonytailReintrod_20256]]
+- [[DistributionOfFishesInTheSanRa_1980_01_30]]
+- [[DistributionSpawningAndHabitat_1985]]
+- [[DraftReviewRip_18167]]
+- [[DraftSummaryOfNovemberFloodedB_1994_11_17]]
+- [[ErrataSheetFyWorkPlanForTheRec_20993]]
+- [[EvaluationOfTheEffectsOfElectr_11216]]
+- [[FirstMeetingOfGeneticsPanel_1993_11_10]]
+- [[FirstWaterRightsDecreedForEnda_1997_09_11]]
+- [[FiveYearFlamingGorgeFlowRecomm_1993]]
+- [[FloodedBottomlandsRestorationP_1995_02_15]]
+- [[FyAnnualProjectReportGeneticsM_1993]]
+- [[LetterFromTheSecretaryOfTheInt_1989_06_23]]
+- [[LetterRegardingProposedStockin_1989_06_23]]
+- [[LetterToChrisSeldinRegardingNo_1994_01_17]]
+- [[LetterToThomasMellingAndCongre_1989_10_06]]
+- [[LetterToWLMinckleyRegardingThe_1994_05_19]]
+- [[LongRangePlanForTheRecoveryImp_1991_10_04]]
+- [[ManagementGroupMeetingSummaryN_1996_04_10]]
+- [[MemorandumOfUnderstandingOnEnd_11447]]
+- [[MemorandumOnAnnualResearchersQ_18168]]
+- [[MemorandumOnAnnualUpperBasinRe_1994_12_22]]
+- [[MemorandumOnFyWorkPlanForTheRe_1998_01_06]]
+- [[MemorandumOnRazorbackSuckerGen_1994_08_16]]
+- [[MitigatingImpactsOfASevereSust_20513]]
+- [[NoticeOfAvailabilityOfDraftAgr_21027]]
+- [[OccurrenceOfTwoEndangeredFishe_1990_07_19]]
+- [[PopulationSizeAndStatusOfTheRa_1988]]
+- [[PropagationGeneticsManagementP_12080]]
+- [[RareAndEndangeredColoradoRiver_1984_09_11]]
+- [[ReconnaissanceSurveyAndInvento_1993]]
+- [[ReferencesWithNewInformationFo_1987_04_12]]
+- [[ReportsConcerningUpperColorado_1936_05_06]]
+- [[SolicitationOfResearchProposal_1990_03_20]]
+- [[TheRecreationalImpactOfReducin_16581]]
+- [[TheTreeRingRecordOfSevereSusta_20106]]
+- [[ThoughtsOnTheStatusAndRecovery_1990_05_08]]
+- [[UseOfFloodplainHabitatByAgeRaz_16530]]
+- [[WhiteRiverTaylorDrawProjectPre_17087]]

@@ -1,0 +1,47 @@
+---
+type: concept
+auto_enriched: true
+---
+# Chihuahua Chub
+
+## Summary
+The Chihuahua Chub is an endangered cyprinid fish endemic to the Rio Yaqui basin spanning the Sonora, Mexico and Arizona border region, representing one of several at-risk native fish species in southwestern desert aquatic systems. As a member of the Desert Fishes Recovery Team's conservation priorities, this species has been subject to recovery planning and field surveys to assess population status and habitat conditions. The Chihuahua Chub exemplifies the conservation challenges facing small-bodied endemic fishes in arid regions where water scarcity, habitat degradation, and introduced species threaten remaining populations.
+
+## Context
+> - **Rio Yaqui basin** (Sonora, Mexico / Arizona border region) — habitat for [[Yaqui Chub]], [[Yaqui Catfish]], and [[Beautiful Shiner]]. - **Lower Colorado River basin** — habitat for [[Bonytail Chub]], [[Colorado Squawfish]], and [[Humpback Chub]] populations specifically noted as "lower basin"...
+> -- *[[DesertFishesRecoveryTeamMeetin_1985_12_10]]*
+
+> Species discussed span several families: - **Cyprinodontidae**: [[Desert Pupfish]] (*Cyprinodon macularius*), with disjunct populations in California (Salton Sea basin, Anza-Borrego), the Gila River basin (extirpated in the wild), Quitobaquito Spring (Organ Pipe Cactus National Monument), and Mex...
+> -- *[[DesertFishesRecoveryTeamMeetin_1987_12_10]]*
+
+> - **Genus *Gila*** (chubs) — multiple congeners and subspecies distinguished for management: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Virgin River Chub]] (*Gila robusta seminuda*), [[Yaqui Chub]] (*Gila purpurea*), [[Sonora Chub]] (*Gila ditaenia*), [[Chihuahua Chub...
+> -- *[[EndangeredSpeciesSubpermitAuth_1993_01_15]]*
+
+> A **species code table** (pages 3–4) lists roughly 150 species codes, covering a broad taxonomic range including: - Anadromous/salmonid species: [[Chinook Salmon]] (fall, spring, summer, winter, late-fall runs), [[Coho Salmon]], [[Chum Salmon]], [[Sockeye Salmon]], [[Pink Salmon]], [[Atlantic Sal...
+> -- *[[FishDistributionNumbersAndWeig_1992]]*
+
+> - **Salmonids**: [[Apache Trout]] (Threatened), [[Gila Trout]] (Endangered), Brook Trout, Brown Trout, Rainbow Trout - **Catostomids (suckers)**: [[Razorback Sucker]] (Endangered), [[Warner Sucker]] - **Cyprinids (minnows/chubs)**: [[Colorado Squawfish]], [[Bonytail]] (Endangered), [[Chihuahua Ch...
+> -- *[[FisheriesFieldStationSummarySo_1996]]*
+
+## Mentioned In
+- [[DesertFishesRecoveryTeamMeetin_1985_12_10]]
+- [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
+- [[DistributionAndStatusOfTheChih_1990_04_11]]
+- [[EndangeredSpeciesSubpermitAuth_1993_01_15]]
+- [[FishDistributionNumbersAndWeig_1992]]
+- [[FisheriesFieldStationSummarySo_1996]]
+- [[GilaTroutAndChihuahuaChubRecov_1997_01_16]]
+- [[IntraServiceBiologicalAndConfe_1998_04_14]]
+- [[LetterAnnouncingDesertFishesCo_1988_12_09]]
+- [[LetterFromDavidLPropstToRobert_1990_05_10]]
+- [[LetterOnRecoveryRecommendation_1986_10_21]]
+- [[LetterOnTransferOfChihuahuaChu_15710]]
+- [[LetterRegardingChihuahuaChubRe_1987_12_30]]
+- [[LetterToMichaelSpearOnRazorbac_1987_02_25]]
+- [[LetterToMrMichaelSpearRegardin_1986_10_22]]
+- [[ListingOfFederallyThreatenedAn_1992_11_13]]
+- [[MemorandumOnFederalEndangeredt_1994_10_12]]
+- [[MinutesOfTheDesertFishesRecove_16659]]
+- [[RegionalResponseToRecoveryTeam_1992_02_07]]
+- [[SPECIES RESPONSIBILITIES OF DESERT FISHES RECOVERY TEAM]]
+- [[SpeciesResponsibilitiesOfDeser_1989_12_07]]

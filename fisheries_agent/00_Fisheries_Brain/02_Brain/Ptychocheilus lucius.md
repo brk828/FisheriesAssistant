@@ -1,0 +1,47 @@
+---
+type: concept
+auto_enriched: true
+---
+# Ptychocheilus Lucius
+
+## Summary
+Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large native cyprinid fish endemic to the Colorado River basin that has become a focal point for conservation efforts due to its decline from habitat modification, water management, and competition from introduced species. As a piscivorous predator and keystone species in southwestern aquatic ecosystems, it plays an important ecological role in regulating prey fish populations and maintaining native fish community structure. Conservation and recovery programs have emphasized experimental fisheries management, interagency coordination, and habitat restoration to restore populations of this federally listed endangered species.
+
+## Context
+> No morphological, meristic, or anatomical data are provided in this source. The document is administrative in nature and does not describe body form, coloration, size classes, or distinguishing physical traits of [[Colorado Squawfish]], [[Razorback Sucker]], [[Bonytail]], or [[Humpback Chub]]. Fo...
+> -- *[[ColoradoRiverLowerBasinFisheri_1995_03_30]]*
+
+> No morphological, meristic, or anatomical data are provided in this source. The document is purely administrative/regulatory in nature and does not describe body form, coloration, size classes, or diagnostic features of *Ptychocheilus lucius*. (For morphological data, cross-reference [[Ptychochei...
+> -- *[[CorrespondenceRegardingExperim_1986_07_25]]*
+
+> [[Gila Cypha]] | [[Gila Elegans]] | [[Gila Robusta]] | [[Ptychocheilus Lucius]] | [[Catostomus Latipinnis]] | [[Catostomus Discobolus]] | [[Xyrauchen Texanus]] | [[Weberian Apparatus]] | [[Colorado River]] | [[Grand Canyon]] | [[Dinosaur National Monument]] | [[Zooarchaeology]]
+> -- *[[DraftFishRemainsFromStantonSCa_15373]]*
+
+> - **Taxonomic novelty**: *Gila cypha* is described as a new species distinct from all other members of the subgenus *[[Gila (Subgenus)]]*, including *G. robusta*, *G. minacae*, and *G. nigrescens*; it is most similar to *G. r. elegans* but distinguished sharply by its nuchal hump and more extreme...
+> -- *[[GilaCyphaARemarkableNewSpecies_15313]]*
+
+> Additionally, the **Willow Beach National Fish Hatchery** had successfully reared **[[Xyrauchen texanus]]** (razorback sucker) and **[[Ptychocheilus lucius]]** (Colorado pikeminnow), and was attempting propagation of **[[Gila elegans]]** (bonytail chub) that same spring. The **Phoenix Zoo** had a...
+> -- *[[LetterFromJamesEDeaconToClarkH_1975_04_17]]*
+
+## Mentioned In
+- [[AssessmentOfColoradoSquawfishI_14385]]
+- [[ColoradoRiverLowerBasinFisheri_1995_03_30]]
+- [[ColoradoSquawfishInteragencyTr_1973]]
+- [[CommentsOnProposedExperimental_1987_10_07]]
+- [[CorrespondenceRegardingExperim_1986_07_25]]
+- [[DistributionHabitatUseAndGrowt_1991]]
+- [[DraftFishRemainsFromStantonSCa_15373]]
+- [[EstablishmentOfASportFisheryFo_1986_07_31]]
+- [[GilaCyphaARemarkableNewSpecies_15313]]
+- [[HatcheryAndLaboratoryPhaseOfTh_1980]]
+- [[JuvenileRazorbackSuckerXyrauch_16532]]
+- [[LetterFromJamesEDeaconToClarkH_1975_04_17]]
+- [[LetterToPeterBMoyleOnColoradoR_13792]]
+- [[LetterToWLMinckleyOnDesertFish_1986_12_16]]
+- [[MinutesOfTheDesertFishesRecove_1986_10_13]]
+- [[NativeFishesOfTheUpperGilaRive_12644]]
+- [[SamplingAtAsuResearchParkMay_1991_08_14]]
+- [[SpawningAndHatchingOfTheColora_14375]]
+- [[SpeciesAccountRhinichthysOscul_13165]]
+- [[TheAsianFishTapewormBothriocep_1993]]
+- [[UpperBasinStuff_20272]]
