@@ -15,7 +15,7 @@ from pathlib import Path
 
 import yaml
 
-from utils import brain_enrich
+from utils import brain_citations, brain_enrich
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 BRAIN_DIR = BASE_DIR / "00_Fisheries_Brain"
@@ -23,7 +23,7 @@ SOURCES_DIR = BRAIN_DIR / "01_Sources"
 STUBS_DIR = BRAIN_DIR / "02_Brain"
 DB_PATH = BASE_DIR / ".brain_index.sqlite"
 
-SCHEMA_VERSION = "4"
+SCHEMA_VERSION = "5"
 CHUNK_CHARS = 1500
 MAX_STUBS = 5
 MAX_EXCERPTS = 4
@@ -80,11 +80,21 @@ def _author_and_year(stem: str, fm: dict) -> tuple:
     return author[:160], year
 
 
-def _citation(sid: str, title: str, author: str, year: str) -> str:
-    """Author (Year). Title. [source id]; with no author the title leads, as in standard practice."""
+def _citation(sid: str, title: str, author: str, year: str, publication: str = "", kind: str = "") -> str:
+    """Author (Year). Title. Publication. [source id]; with no author the title leads, as in standard practice."""
+    pub = f" {publication.rstrip('.')}." if publication else ""
+    if kind == "Personal Communication":
+        pub = " (personal communication)."
     if author:
-        return f"{author} ({year or 'n.d.'}). {title}. [{sid}]"
-    return f"{title} ({year or 'n.d.'}) [{sid}] (no author recorded)"
+        return f"{author} ({year or 'n.d.'}). {title}.{pub} [{sid}]"
+    return f"{title} ({year or 'n.d.'}).{pub} [{sid}] (no author recorded)"
+
+
+def _cite_line(db, sid: str) -> str:
+    row = db.execute("SELECT cite, short FROM sources WHERE source_id=?", (sid,)).fetchone()
+    if not row:
+        return f"[{sid}]"
+    return f"{row[0]}  Inline: {row[1]}" if row[1] else row[0]
 
 
 def _signature() -> str:
@@ -174,6 +184,7 @@ def _chunks(body: str):
 def build_index(verbose: bool = True) -> None:
     brain_enrich.ensure()
     titles = brain_enrich.load_titles()
+    refs = brain_citations.load()
     tmp = DB_PATH.with_suffix(".building")
     tmp.unlink(missing_ok=True)
     db = sqlite3.connect(tmp)
@@ -182,7 +193,7 @@ def build_index(verbose: bool = True) -> None:
         CREATE TABLE stubs(id INTEGER PRIMARY KEY, title TEXT, title_lc TEXT, summary TEXT,
                            related TEXT, mentions TEXT, n_mentions INTEGER);
         CREATE VIRTUAL TABLE stubs_fts USING fts5(title, summary, context, tokenize='porter unicode61 remove_diacritics 2');
-        CREATE TABLE sources(source_id TEXT PRIMARY KEY, title TEXT, year TEXT, meta TEXT, author TEXT);
+        CREATE TABLE sources(source_id TEXT PRIMARY KEY, title TEXT, year TEXT, meta TEXT, author TEXT, cite TEXT, short TEXT);
         CREATE VIRTUAL TABLE chunks_fts USING fts5(source_id UNINDEXED, heading, body, tokenize='porter unicode61 remove_diacritics 2');
         CREATE VIRTUAL TABLE titles_fts USING fts5(source_id UNINDEXED, title, tokenize='porter unicode61 remove_diacritics 2');
         CREATE TABLE info(key TEXT PRIMARY KEY, value TEXT);
@@ -210,7 +221,13 @@ def build_index(verbose: bool = True) -> None:
         title = _flatten(fm.get("title")) or titles.get(p.stem, {}).get("title") or p.stem
         meta = " | ".join(f"{k}: {_flatten(fm[k])}" for k in _META_FIELDS if fm.get(k))
         author, year = _author_and_year(p.stem, fm)
-        db.execute("INSERT OR REPLACE INTO sources VALUES (?,?,?,?,?)", (p.stem, title, year, meta, author))
+        ref = refs.get(brain_citations.mid_from_source_id(fm.get("source_id")), {})
+        author, year = ref.get("authors") or author, ref.get("year") or year
+        cite_title = ref.get("title") or title
+        short = brain_citations.short_author(author)
+        short = f"({short} {year})" if short and year else (f"({short}, n.d.)" if short else "")
+        cite = _citation(p.stem, cite_title, author, year, ref.get("publication", ""), ref.get("type", ""))
+        db.execute("INSERT OR REPLACE INTO sources VALUES (?,?,?,?,?,?,?)", (p.stem, title, year, meta, author, cite, short))
         db.execute("INSERT INTO titles_fts VALUES (?,?)", (p.stem, title))
         # Frontmatter and title are searchable as a first chunk so species/location queries hit.
         db.execute("INSERT INTO chunks_fts(source_id, heading, body) VALUES (?,?,?)", (p.stem, "Metadata", f"{title}\n{meta}"))
@@ -370,8 +387,7 @@ def search_brain(query: str) -> str:
             if title_hits:
                 out.append("\nDOCUMENTS WITH MATCHING TITLES (use read_brain_source with the id):")
                 for _, _, sid, title in title_hits[:MAX_TITLE_HITS]:
-                    author, year = db.execute("SELECT author, year FROM sources WHERE source_id=?", (sid,)).fetchone()
-                    out.append(f"- {_citation(sid, title, author, year)}")
+                    out.append(f"- {_cite_line(db, sid)}")
 
         # Excerpts: sources linked from the matching stubs first, then global matches.
         excerpts, seen = [], set()
@@ -381,9 +397,7 @@ def search_brain(query: str) -> str:
                 if sid in seen or head == "Metadata" or len(excerpts) >= MAX_EXCERPTS:
                     continue
                 seen.add(sid)
-                info = db.execute("SELECT title, year, author FROM sources WHERE source_id=?", (sid,)).fetchone()
-                title, year, author = info if info else (sid, "", "")
-                label = _citation(sid, title, author, year)
+                label = _cite_line(db, sid)
                 where = f" — {head}" if head else ""
                 excerpts.append(f"- {label}{where}: {_best_excerpt(body, terms)}")
 
@@ -423,8 +437,7 @@ def _read_concept(db, name: str):
     if mentions:
         lines.append("Sources (read one with read_brain_source):")
         for sid in mentions[:12]:
-            info = db.execute("SELECT title, year, author FROM sources WHERE source_id=?", (sid,)).fetchone()
-            lines.append("- " + (_citation(sid, info[0], info[2], info[1]) if info else f"[{sid}]"))
+            lines.append("- " + _cite_line(db, sid))
     return "\n".join(lines)
 
 
@@ -453,7 +466,7 @@ def read_source(source_id: str, query: str = "", max_chars: int = 3500) -> str:
             rows = db.execute(
                 "SELECT heading, body FROM chunks_fts WHERE source_id = ? AND heading != 'Metadata' ORDER BY rowid LIMIT 6", (sid,)
             ).fetchall()
-        head = "Cite as: " + _citation(sid, title, author, year) + (f"\n{meta}" if meta else "")
+        head = "Cite as: " + _cite_line(db, sid) + (f"\n{meta}" if meta else "")
         parts, used = [head], len(head)
         for heading, body in rows:
             piece = (f"## {heading}\n" if heading else "") + body.strip()
