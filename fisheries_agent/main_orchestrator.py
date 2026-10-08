@@ -1,11 +1,13 @@
 import os
 import json
 import shutil
+from datetime import datetime
 import yaml
 from pathlib import Path
 from openai import OpenAI, OpenAIError
 from dotenv import load_dotenv
 
+from utils import gitsync
 from utils.runner import find_rscript, new_run_dir, run_command, run_r_template, truncate
 from utils.safety import (
     SafetyError, clamp_iterations, parse_zi_formula, project_roots, resolve_in_roots,
@@ -65,6 +67,47 @@ def search_fisheries_brain(keyword: str):
     if not context_snippets:
         return f"No direct matches found in literature for keyword: '{keyword}'."
     return "\n".join(context_snippets[:3])
+
+READABLE_SUFFIXES = {".txt", ".md", ".csv", ".tsv", ".log", ".r", ".rmd", ".qmd", ".json", ".yaml", ".yml", ".out", ".html"}
+MAX_LISTED_FILES = 200
+
+def _project_root(project_name: str) -> Path:
+    project = load_manifest().get("projects", {}).get(project_name)
+    if not project:
+        raise SafetyError(f"Project '{project_name}' is not recognized in the system manifest.")
+    return Path(project["project_path"]).resolve()
+
+def list_project_files(project_name: str, subfolder: str = ""):
+    """Lists files in a registered project, newest first (read-only)."""
+    root = _project_root(project_name)
+    base = resolve_in_roots(str(root / subfolder), [root])
+    if not base.is_dir():
+        return f"Error: '{subfolder}' is not a folder in project '{project_name}'."
+    found = []
+    for dirpath, dirnames, filenames in os.walk(base):
+        dirnames[:] = [d for d in dirnames if not d.startswith(".")]
+        for name in filenames:
+            if name.startswith("."):
+                continue
+            full = Path(dirpath) / name
+            try:
+                found.append((full.stat().st_mtime, full.relative_to(root).as_posix()))
+            except (OSError, ValueError):
+                continue
+    found.sort(reverse=True)
+    lines = [f"{datetime.fromtimestamp(m):%Y-%m-%d %H:%M}  {rel}" for m, rel in found[:MAX_LISTED_FILES]]
+    note = f"\n(showing {len(lines)} of {len(found)} files, newest first)" if found else "No files found."
+    return "\n".join(lines) + note
+
+def read_project_file(project_name: str, file_path: str):
+    """Reads a text-based file (results, logs, scripts, small tables) from a registered project."""
+    root = _project_root(project_name)
+    target = resolve_in_roots(str(root / file_path), [root])
+    if not target.is_file() or target.name.startswith("."):
+        return f"Error: '{file_path}' not found in project '{project_name}'."
+    if target.suffix.lower() not in READABLE_SUFFIXES:
+        return f"Error: files of type '{target.suffix}' cannot be read as text."
+    return truncate(target.read_text(encoding="utf-8", errors="replace"))
 
 def _result_text(ok: bool, out: str, run_dir, output_name="output.txt") -> str:
     if run_dir and output_name and (Path(run_dir) / output_name).is_file():
@@ -137,8 +180,32 @@ tools = [
         "type": "function",
         "function": {
             "name": "search_fisheries_brain",
-            "description": "Searches Obsidian literature summaries for biological or methodology guidelines.",
+            "description": "Searches the Obsidian literature reference for general fisheries science, methods and guidance. Use ONLY for general fisheries questions or when planning a new analysis. NEVER use it to answer questions about the user's own project results or data; use list_project_files and read_project_file for those.",
             "parameters": {"type": "object", "properties": {"keyword": {"type": "string"}}, "required": ["keyword"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "list_project_files",
+            "description": "Lists files in one of the user's registered projects, newest first. Use first for any question about a project's existing results, outputs, data or scripts.",
+            "parameters": {
+                "type": "object",
+                "properties": {"project_name": {"type": "string"}, "subfolder": {"type": "string", "description": "Optional folder relative to the project root"}},
+                "required": ["project_name"]
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "read_project_file",
+            "description": "Reads a text file (results, logs, scripts, csv, md, qmd) from a registered project to report what a past run produced.",
+            "parameters": {
+                "type": "object",
+                "properties": {"project_name": {"type": "string"}, "file_path": {"type": "string", "description": "Path relative to the project folder"}},
+                "required": ["project_name", "file_path"]
+            }
         }
     },
     {
@@ -201,6 +268,8 @@ tools = [
 
 available_functions = {
     "search_fisheries_brain": search_fisheries_brain,
+    "list_project_files": list_project_files,
+    "read_project_file": read_project_file,
     "run_project_pipeline": run_project_pipeline,
     "run_zero_inflated_model": run_zero_inflated_model,
     "run_nimble_mark_recapture": run_nimble_mark_recapture,
@@ -208,7 +277,7 @@ available_functions = {
 }
 
 # Read-only lookups run without a prompt; everything else needs the user's approval.
-NO_CONFIRMATION_NEEDED = {"search_fisheries_brain"}
+NO_CONFIRMATION_NEEDED = {"search_fisheries_brain", "list_project_files", "read_project_file"}
 
 def confirm_run(function_name: str, function_args: dict) -> bool:
     print(f"\n🔔 The agent wants to run: {function_name}")
@@ -216,6 +285,30 @@ def confirm_run(function_name: str, function_args: dict) -> bool:
         print(f"     {key}: {value}")
     answer = input("   Approve this run? (y/n): ").strip().lower()
     return answer in ("y", "yes")
+
+# Tools that can create or modify files inside a project folder.
+PROJECT_WRITING_TOOLS = {"run_project_pipeline"}
+
+def _git_root_for_call(function_name: str, function_args: dict):
+    if function_name not in PROJECT_WRITING_TOOLS:
+        return None
+    try:
+        root = _project_root(function_args.get("project_name", ""))
+    except SafetyError:
+        return None
+    return root if gitsync.is_git_project(root) else None
+
+def _git_followup(root: Path, before: dict, label: str) -> str:
+    summary = gitsync.commit_changes(root, before, f"Fisheries agent: {label}")
+    print(f"\n📦 {root.name}: {summary}")
+    if summary.startswith("Git: committed"):
+        answer = input("   Sync this project now (git pull --rebase, then push)? (y/n): ").strip().lower()
+        if answer in ("y", "yes"):
+            summary += "\n" + gitsync.sync(root)
+            print(f"   {summary.splitlines()[-1]}")
+        else:
+            summary += "\nThe user chose not to sync yet."
+    return summary
 
 def execute_tool_call(function_name: str, raw_arguments: str) -> str:
     function_to_call = available_functions.get(function_name)
@@ -229,9 +322,16 @@ def execute_tool_call(function_name: str, raw_arguments: str) -> str:
     if function_name not in NO_CONFIRMATION_NEEDED and not confirm_run(function_name, function_args):
         return "The user declined this run. Do not retry; ask what they would like to change."
 
+    git_root = _git_root_for_call(function_name, function_args)
+    before = gitsync.snapshot(git_root) if git_root else None
+
     print(f"🔄 Running: {function_name}...")
     try:
-        return function_to_call(**function_args)
+        result = function_to_call(**function_args)
+        if git_root:
+            label = f"{function_name} {function_args.get('script_name', '')}".strip()
+            result += "\n\n" + _git_followup(git_root, before, label)
+        return result
     except SafetyError as e:
         return f"Rejected: {e}"
     except TypeError as e:
@@ -241,6 +341,8 @@ def execute_tool_call(function_name: str, raw_arguments: str) -> str:
 # --- ORCHESTRATION ENGINE LOOP ---
 # =====================================================================
 
+MAX_TOOL_ROUNDS = 6
+
 def ask_orchestrator(user_prompt: str, manifest: dict):
     manifest_context = yaml.dump(manifest, default_flow_style=False)
 
@@ -249,18 +351,25 @@ You run locally on this machine and manage a suite of specialized analysis tools
 Maintain formatting and stylistic habits that mirror the scientist's noted documentation habits.
 Every analysis run is shown to the user for approval before it executes.
 
+How to choose tools:
+- Questions about a specific project's own results, data, outputs or scripts (e.g. "what were the results of the last model run for project X"): go straight to the project. Call list_project_files (newest first), then read_project_file on the relevant results/log/report files. Do NOT call search_fisheries_brain for these.
+- General fisheries science, methods, or deciding how to approach a NEW analysis: use search_fisheries_brain as a reference.
+- Only use the brain alongside project files if the user asks to interpret results against the literature.
+- If you cannot find the requested results, say what you looked at instead of guessing.
+
 Here is the current scientist's machine layout and project structure configuration:
 {manifest_context}"""
 
     messages = [{"role": "system", "content": system_prompt}, {"role": "user", "content": user_prompt}]
 
     client = get_client()
-    response = client.chat.completions.create(model=MODEL, messages=messages, tools=tools, tool_choice="auto")
+    for _ in range(MAX_TOOL_ROUNDS):
+        response = client.chat.completions.create(model=MODEL, messages=messages, tools=tools, tool_choice="auto")
+        response_message = response.choices[0].message
+        tool_calls = response_message.tool_calls
+        if not tool_calls:
+            return response_message.content
 
-    response_message = response.choices[0].message
-    tool_calls = response_message.tool_calls
-
-    if tool_calls:
         messages.append(response_message)
         for tool_call in tool_calls:
             tool_output = execute_tool_call(tool_call.function.name, tool_call.function.arguments)
@@ -271,10 +380,8 @@ Here is the current scientist's machine layout and project structure configurati
                 "content": tool_output,
             })
 
-        second_response = client.chat.completions.create(model=MODEL, messages=messages)
-        return second_response.choices[0].message.content
-
-    return response_message.content
+    final = client.chat.completions.create(model=MODEL, messages=messages)
+    return final.choices[0].message.content
 
 if __name__ == "__main__":
     manifest = load_manifest()
