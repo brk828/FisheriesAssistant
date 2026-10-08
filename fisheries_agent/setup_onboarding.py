@@ -17,6 +17,9 @@ def print_api_key_instructions():
     print("  - If a key is ever exposed, revoke it on openrouter.ai and create a new one.")
     print(f" Status: .env {'found' if env_file.exists() else 'not found yet'}.")
 
+WINDOWS_RESERVED_NAMES = {'CON', 'PRN', 'AUX', 'NUL', *(f'COM{i}' for i in range(1, 10)), *(f'LPT{i}' for i in range(1, 10))}
+
+
 def run_onboarding():
     print("=========================================================")
     print("⚓ FISHERIES AI AGENT FRAMEWORK - MACHINE ONBOARDING ⚓")
@@ -63,7 +66,11 @@ def run_onboarding():
         for root, _, files in os.walk(project_path):
             for file in files:
                 if file.startswith('.'): continue  # also skips .env files; keys are never read
-                rel_path = os.path.relpath(os.path.join(root, file), project_path)
+                if file.split('.')[0].upper() in WINDOWS_RESERVED_NAMES: continue  # e.g. stray 'nul' files
+                try:
+                    rel_path = os.path.relpath(os.path.join(root, file), project_path)
+                except ValueError:
+                    continue
                 all_files.append(rel_path)
                 if file.endswith('.Rmd'): has_rmd = True
                 if file.endswith('.qmd'): has_qmd = True
