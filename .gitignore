@@ -7,7 +7,8 @@
 project_manifest.yaml
 fisheries_agent/project_manifest.yaml
 *.log
-temp_*.R
+runs/
+fisheries_agent/runs/
 tmb_model_output.txt
 nimble_mcmc_output.txt
 multivariate_plot.png

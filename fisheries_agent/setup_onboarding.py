@@ -3,20 +3,19 @@ import yaml
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-# .env sits beside main_orchestrator.py, which may be one level above this folder.
-ENV_DIR = HERE.parent if (HERE.parent / "main_orchestrator.py").exists() else HERE
+ENV_DIR = HERE
 
 def print_api_key_instructions():
     env_file = ENV_DIR / ".env"
     print("\n--- 4. OPENROUTER API KEY (DO THIS YOURSELF, NOT IN THIS PROGRAM) ---")
     print(" This setup never asks for, reads, or stores your key.")
     print(" 1. Create a key at https://openrouter.ai/keys (set a credit limit on it).")
-    print(f" 2. Copy the template:  cp {ENV_DIR / '.env.template'} {env_file}")
+    print(f" 2. Copy the template:  copy \"{ENV_DIR / '.env.template'}\" \"{env_file}\"")
     print(f" 3. Open {env_file} in a text editor and replace the placeholder:")
     print("        OPENROUTER_API_KEY=sk-or-v1-...")
     print(" Keep the key safe:")
     print("  - Only put it in the .env file. Never in the YAML, R scripts, chat, or terminal history.")
-    print("  - Never commit .env to git or share it (the .gitignore already excludes it).")
+    print("  - Never commit .env to git, email it, or share it.")
     print("  - If a key is ever exposed, revoke it on openrouter.ai and create a new one.")
     print(f" Status: .env {'found' if env_file.exists() else 'not found yet'}. Run main_orchestrator.py to confirm the key works.")
 
