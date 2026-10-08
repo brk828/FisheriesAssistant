@@ -4,7 +4,7 @@ An intelligent, context-aware orchestrator framework designed specifically for *
 
 ## 🐟 System Architecture Overview
 
-The system operates via a master-orchestrator pattern powered by **OpenRouter** (default model Claude Sonnet 4.5; set `OPENROUTER_MODEL` in `.env` to change it) that reads a localized, user-specific profile manifest to selectively route tasks to domain expert sub-agents or local workspace scripts.
+The system operates via a master-orchestrator pattern powered by **OpenRouter** (default model Claude Sonnet 4.5; set `OPENROUTER_MODEL` in `.env` to change it). Simple lookups (project files, brain search) use a cheaper model, Claude Haiku 4.5 by default; requests to run, plan, interpret or compare use the main model. Set `OPENROUTER_FAST_MODEL` to change the cheaper one, or to `off` to always use the main model that reads a localized, user-specific profile manifest to selectively route tasks to domain expert sub-agents or local workspace scripts.
 
 ```text
                   [ Scientist via Tailscale/SSH ]

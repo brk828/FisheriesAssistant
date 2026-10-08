@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import shutil
 from datetime import datetime
@@ -22,6 +23,18 @@ load_dotenv(ENV_PATH)
 
 # Override with OPENROUTER_MODEL in .env; pick a tool-capable model from openrouter.ai/models.
 MODEL = os.getenv("OPENROUTER_MODEL", "anthropic/claude-sonnet-4.5")
+# Cheaper model for simple lookups (project files, brain search). Set OPENROUTER_FAST_MODEL=off to always use MODEL.
+FAST_MODEL = os.getenv("OPENROUTER_FAST_MODEL", "anthropic/claude-haiku-4.5")
+
+# Requests that run, plan, interpret or compare go to the main model; plain lookups go to the fast one.
+HEAVY_REQUEST = re.compile(
+    r"\b(re-?run|run (the|a|an|my|this|that|it)|fit|analy[sz]e|analysis|plan|design|compare|interpret|"
+    r"recommend|write|draft|simulate|why|should|how (do|should|would|can))\b", re.I)
+
+def pick_model(user_prompt: str) -> str:
+    if FAST_MODEL.lower() in ("", "off", "none") or FAST_MODEL == MODEL:
+        return MODEL
+    return MODEL if HEAVY_REQUEST.search(user_prompt) else FAST_MODEL
 
 _client = None
 
@@ -463,6 +476,16 @@ def _msg_chars(msg: dict) -> int:
 def _history_chars() -> int:
     return sum(_msg_chars(m) for turn in history for m in turn)
 
+SESSION_NOTES_CHARS = 1600
+session_notes = []               # one short line per dropped turn, so old context is not lost entirely
+
+def _note_dropped_turn(turn: list) -> None:
+    question = (turn[0].get("content") or "").strip().replace("\n", " ")[:160]
+    answer = next((m.get("content") for m in reversed(turn) if m.get("role") == "assistant" and m.get("content")), "")
+    session_notes.append(f"- Q: {question} | A: {answer.strip().replace(chr(10), ' ')[:240]}")
+    while len(session_notes) > 1 and sum(len(n) for n in session_notes) > SESSION_NOTES_CHARS:
+        session_notes.pop(0)
+
 def _compact_turn(turn: list) -> list:
     out = []
     for m in turn:
@@ -476,11 +499,12 @@ def trim_history():
     for i in range(len(history) - RECENT_TURNS_KEPT_FULL):
         history[i] = _compact_turn(history[i])
     while len(history) > 1 and _history_chars() > HISTORY_CHAR_BUDGET:
-        history.pop(0)
+        _note_dropped_turn(history.pop(0))
 
 def clear_history():
     global last_prompt_tokens
     history.clear()
+    session_notes.clear()
     last_prompt_tokens = None
 
 def context_status() -> str:
@@ -499,16 +523,36 @@ def _assistant_dict(message) -> dict:
         ]
     return d
 
-def _complete(client, messages, **kwargs):
+def _complete(client, messages, model=MODEL, **kwargs):
     global last_prompt_tokens
-    response = client.chat.completions.create(model=MODEL, messages=messages, **kwargs)
+    response = client.chat.completions.create(model=model, messages=messages, **kwargs)
     usage = getattr(response, "usage", None)
     if usage and getattr(usage, "prompt_tokens", None):
         last_prompt_tokens = usage.prompt_tokens
     return response.choices[0].message
 
+def compact_manifest(manifest: dict) -> str:
+    """Only what the model needs: project names, paths and style. File lists come from the file tools and project memory."""
+    slim = {"projects": {
+        name: {k: info[k] for k in ("project_path", "primary_format", "documentation_habit") if k in info}
+        for name, info in (manifest.get("projects") or {}).items()
+    }}
+    return yaml.dump(slim, default_flow_style=False)
+
+def _system_messages(system_prompt: str, model: str) -> list:
+    """The prompt is identical between requests, so Anthropic models can cache it (and the tool list before it)."""
+    content = system_prompt
+    if model.startswith("anthropic/"):
+        content = [{"type": "text", "text": system_prompt, "cache_control": {"type": "ephemeral"}}]
+    msgs = [{"role": "system", "content": content}]
+    if session_notes:
+        msgs.append({"role": "system", "content": "Earlier in this session (older turns dropped from memory):\n" + "\n".join(session_notes)})
+    return msgs
+
 def ask_orchestrator(user_prompt: str, manifest: dict):
-    manifest_context = yaml.dump(manifest, default_flow_style=False)
+    manifest_context = compact_manifest(manifest)
+    model = pick_model(user_prompt)
+    print(f"🧭 Model: {model}")
 
     system_prompt = f"""You are the Master Fisheries Orchestrator Agent.
 You run locally on this machine and manage a suite of specialized analysis tools and an Obsidian vault context window.
@@ -526,12 +570,12 @@ Here is the current scientist's machine layout and project structure configurati
 {manifest_context}"""
 
     turn = [{"role": "user", "content": user_prompt}]
-    base = [{"role": "system", "content": system_prompt}] + [m for t in history for m in t]
+    base = _system_messages(system_prompt, model) + [m for t in history for m in t]
     client = get_client()
     answer = None
 
     for _ in range(MAX_TOOL_ROUNDS):
-        message = _complete(client, base + turn, tools=tools, tool_choice="auto")
+        message = _complete(client, base + turn, model, tools=tools, tool_choice="auto")
         turn.append(_assistant_dict(message))
         if not message.tool_calls:
             answer = message.content
@@ -541,7 +585,7 @@ Here is the current scientist's machine layout and project structure configurati
             turn.append({"tool_call_id": tool_call.id, "role": "tool", "name": tool_call.function.name, "content": output})
 
     if answer is None:
-        message = _complete(client, base + turn)
+        message = _complete(client, base + turn, model)
         turn.append({"role": "assistant", "content": message.content or ""})
         answer = message.content
 

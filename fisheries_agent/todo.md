@@ -65,6 +65,8 @@ Observations about the current brain (affects the design):
 ### 7. Router and conversation memory
 - [ ] Keep message history; route requests as literature question, plan, run or file lookup.
 - [ ] Allow several tool rounds per request (e.g. retrieve, profile, then plan).
+- [x] Prompt slimming: manifest reduced to project name/path/format/habit (no file lists), Anthropic prompt caching on the system prompt, local keyword router picks the fast model for simple lookups, dropped turns kept as one-line session notes.
+- [ ] Later: send only the tool schemas relevant to the route; tune `HEAVY_REQUEST` after real use; compare token use before and after.
 
 ## Packaging and quality
 - [x] One-step launcher (`start.bat` / `start.py`) and hidden-input key setup (`setup_api_key.py`); needs a test on a clean Windows machine.
