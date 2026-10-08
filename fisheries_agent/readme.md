@@ -4,7 +4,7 @@ An intelligent, context-aware orchestrator framework designed specifically for *
 
 ## 🐟 System Architecture Overview
 
-The system operates via a master-orchestrator pattern powered by **OpenRouter (Claude 3.5 Sonnet)** that reads a localized, user-specific profile manifest to selectively route tasks to domain expert sub-agents or local workspace scripts.
+The system operates via a master-orchestrator pattern powered by **OpenRouter** (default model Claude Sonnet 4.5; set `OPENROUTER_MODEL` in `.env` to change it) that reads a localized, user-specific profile manifest to selectively route tasks to domain expert sub-agents or local workspace scripts.
 
 ```text
                   [ Scientist via Tailscale/SSH ]
@@ -26,6 +26,9 @@ The system operates via a master-orchestrator pattern powered by **OpenRouter (C
 fisheries_agent/
 ├── .env.template                # Placeholder config; copy to .env (never commit .env)
 ├── agents.md                    # Developer/system-prompt context for this framework
+├── start.bat                    # One-step launcher (Windows): runs start.py
+├── start.py                     # Runs dependency check, onboarding, key setup, then the orchestrator
+├── setup_api_key.py             # Saves your OpenRouter key to .env from hidden input
 ├── verify_and_install_deps.py   # Checks and optionally installs Python/R dependencies
 ├── setup_onboarding.py          # Interactive system/project parsing script
 ├── main_orchestrator.py         # Master CLI gateway run over remote terminals
@@ -48,6 +51,9 @@ fisheries_agent/
 
 ## 🚀 Installation & Onboarding
 
+### Quick start (Windows)
+With Python 3.10+ installed, double-click `start.bat` (or run it from a terminal). It checks dependencies, runs onboarding, saves your OpenRouter key from hidden input, then launches the orchestrator. The steps below describe what each part does and how to run it on its own.
+
 ### Phase 1: Dependency Check
 ```bash
 python verify_and_install_deps.py
@@ -60,6 +66,9 @@ python setup_onboarding.py
 ```
 
 ### Phase 3: Environment Provisioning
+Easiest: `python setup_api_key.py` and paste the key when asked. Input is hidden, and the key is saved only to `.env` (never displayed or logged).
+
+Or do it by hand:
 1. Duplicate the template file: `copy .env.template .env`
 2. Open `.env` in your own editor and fill in your OpenRouter key (never commit or share this file):
 ```env

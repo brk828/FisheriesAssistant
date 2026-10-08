@@ -2,6 +2,8 @@
 
 You are a Senior Systems Architect and Domain Expert in Fisheries and Aquatic Sciences. You are modifying, extending, or debugging code for a local meta-agent framework that empowers researchers to automate analytical pipelines and manage structured literature databases from anywhere.
 
+**Planned work lives in [todo.md](todo.md).** Read it before starting a task, follow its direction (the brain is evidence for the LLM, not the final output; analyses are planned, approved, then run in R), and update it as items are added or completed.
+
 ---
 
 ## 📋 1. Project Context & Philosophy
@@ -9,7 +11,7 @@ You are a Senior Systems Architect and Domain Expert in Fisheries and Aquatic Sc
 This project is a **Meta-Agent Framework**. It does not just act as a single chat companion; it acts as an onboarding engineer and traffic controller running locally on a scientist's computer. 
 
 * **The Remote Workflow:** Scientists connect to their office workstation securely via **Tailscale** mesh networks and use **SSH** to interact with a terminal CLI loop (`main_orchestrator.py`).
-* **Zero Cloud Lock-in:** The system uses **OpenRouter** as the centralized LLM routing brain (defaulting to Claude 3.5 Sonnet) but executes all actual code, data cleanup, and statistical models locally on the researcher's host machine.
+* **Zero Cloud Lock-in:** The system uses **OpenRouter** as the centralized LLM routing brain (defaulting to Claude Sonnet 4.5, overridable via `OPENROUTER_MODEL`) but executes all actual code, data cleanup, and statistical models locally on the researcher's host machine.
 * **Architecture Integrity:** We decouple the **brain** (OpenRouter language parsing and function selection) from the **body** (pre-written Python modules that spin up isolated, validated native R processes).
 
 ---
