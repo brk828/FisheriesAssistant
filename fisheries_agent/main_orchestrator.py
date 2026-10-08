@@ -343,6 +343,64 @@ def execute_tool_call(function_name: str, raw_arguments: str) -> str:
 
 MAX_TOOL_ROUNDS = 6
 
+# Conversation memory: each turn is the list of messages from one user prompt to its final answer.
+HISTORY_CHAR_BUDGET = 40000      # ~10k tokens of remembered conversation
+RECENT_TURNS_KEPT_FULL = 2       # newer turns keep full tool output; older ones are compacted
+COMPACT_TOOL_CHARS = 600
+
+history = []                     # list of turns (each a list of message dicts)
+last_prompt_tokens = None
+
+def _msg_chars(msg: dict) -> int:
+    return len(json.dumps(msg, default=str))
+
+def _history_chars() -> int:
+    return sum(_msg_chars(m) for turn in history for m in turn)
+
+def _compact_turn(turn: list) -> list:
+    out = []
+    for m in turn:
+        if m.get("role") == "tool" and len(m.get("content") or "") > COMPACT_TOOL_CHARS:
+            m = {**m, "content": m["content"][:COMPACT_TOOL_CHARS] + "\n...[older tool output trimmed; re-run the tool if you need it again]"}
+        out.append(m)
+    return out
+
+def trim_history():
+    """Compacts old tool output first, then drops the oldest whole turns while over budget."""
+    for i in range(len(history) - RECENT_TURNS_KEPT_FULL):
+        history[i] = _compact_turn(history[i])
+    while len(history) > 1 and _history_chars() > HISTORY_CHAR_BUDGET:
+        history.pop(0)
+
+def clear_history():
+    global last_prompt_tokens
+    history.clear()
+    last_prompt_tokens = None
+
+def context_status() -> str:
+    used = _history_chars()
+    pct = min(100, round(100 * used / HISTORY_CHAR_BUDGET))
+    bar = "#" * (pct // 10) + "-" * (10 - pct // 10)
+    api = f", last request {last_prompt_tokens} tokens" if last_prompt_tokens else ""
+    return f"🧠 Memory: {len(history)} turn(s), ~{used // 4} tokens [{bar}] {pct}% of budget{api}. Type 'clear' to reset."
+
+def _assistant_dict(message) -> dict:
+    d = {"role": "assistant", "content": message.content or ""}
+    if message.tool_calls:
+        d["tool_calls"] = [
+            {"id": tc.id, "type": "function", "function": {"name": tc.function.name, "arguments": tc.function.arguments}}
+            for tc in message.tool_calls
+        ]
+    return d
+
+def _complete(client, messages, **kwargs):
+    global last_prompt_tokens
+    response = client.chat.completions.create(model=MODEL, messages=messages, **kwargs)
+    usage = getattr(response, "usage", None)
+    if usage and getattr(usage, "prompt_tokens", None):
+        last_prompt_tokens = usage.prompt_tokens
+    return response.choices[0].message
+
 def ask_orchestrator(user_prompt: str, manifest: dict):
     manifest_context = yaml.dump(manifest, default_flow_style=False)
 
@@ -356,32 +414,34 @@ How to choose tools:
 - General fisheries science, methods, or deciding how to approach a NEW analysis: use search_fisheries_brain as a reference.
 - Only use the brain alongside project files if the user asks to interpret results against the literature.
 - If you cannot find the requested results, say what you looked at instead of guessing.
+- This is an ongoing conversation. Follow-up questions ("the parameter estimates", "that model") refer to the project, files and results already discussed; reuse them instead of asking the user to repeat. Older tool output may be trimmed, so re-read the file if you need exact numbers. Only ask for clarification if the earlier conversation really doesn't settle it.
 
 Here is the current scientist's machine layout and project structure configuration:
 {manifest_context}"""
 
-    messages = [{"role": "system", "content": system_prompt}, {"role": "user", "content": user_prompt}]
-
+    turn = [{"role": "user", "content": user_prompt}]
+    base = [{"role": "system", "content": system_prompt}] + [m for t in history for m in t]
     client = get_client()
+    answer = None
+
     for _ in range(MAX_TOOL_ROUNDS):
-        response = client.chat.completions.create(model=MODEL, messages=messages, tools=tools, tool_choice="auto")
-        response_message = response.choices[0].message
-        tool_calls = response_message.tool_calls
-        if not tool_calls:
-            return response_message.content
+        message = _complete(client, base + turn, tools=tools, tool_choice="auto")
+        turn.append(_assistant_dict(message))
+        if not message.tool_calls:
+            answer = message.content
+            break
+        for tool_call in message.tool_calls:
+            output = execute_tool_call(tool_call.function.name, tool_call.function.arguments)
+            turn.append({"tool_call_id": tool_call.id, "role": "tool", "name": tool_call.function.name, "content": output})
 
-        messages.append(response_message)
-        for tool_call in tool_calls:
-            tool_output = execute_tool_call(tool_call.function.name, tool_call.function.arguments)
-            messages.append({
-                "tool_call_id": tool_call.id,
-                "role": "tool",
-                "name": tool_call.function.name,
-                "content": tool_output,
-            })
+    if answer is None:
+        message = _complete(client, base + turn)
+        turn.append({"role": "assistant", "content": message.content or ""})
+        answer = message.content
 
-    final = client.chat.completions.create(model=MODEL, messages=messages)
-    return final.choices[0].message.content
+    history.append(turn)
+    trim_history()
+    return answer
 
 if __name__ == "__main__":
     manifest = load_manifest()
@@ -397,9 +457,14 @@ if __name__ == "__main__":
             cmd = input("\n🐟 Master Command: ")
             if cmd.lower() == 'exit':
                 break
+            if cmd.strip().lower() in ('clear', '/clear'):
+                clear_history()
+                print("🧹 Conversation memory cleared.")
+                continue
             if not cmd.strip():
                 continue
             print(f"\n🤖 Agent Response:\n{ask_orchestrator(cmd, manifest)}")
+            print(f"\n{context_status()}")
         except KeyboardInterrupt:
             break
         except RuntimeError as e:
