@@ -45,10 +45,12 @@ def new_run_dir(label: str) -> Path:
 
 def run_command(cmd: list, cwd=None, timeout: int = DEFAULT_TIMEOUT, log_dir=None) -> tuple:
     """Runs cmd without a shell. Returns (ok, redacted_and_truncated_output)."""
+    # Child programs (R, user scripts) must not inherit the API key loaded from .env.
+    child_env = {k: v for k, v in os.environ.items() if not k.upper().startswith("OPENROUTER_")}
     try:
         result = subprocess.run(
             cmd, cwd=cwd, capture_output=True, text=True, encoding="utf-8", errors="replace",
-            timeout=timeout, creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0),
+            timeout=timeout, env=child_env, creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0),
         )
         ok, out = result.returncode == 0, (result.stdout or "") + (result.stderr or "")
     except subprocess.TimeoutExpired:

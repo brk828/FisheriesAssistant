@@ -66,6 +66,7 @@ Observations about the current brain (affects the design):
 - [ ] Allow several tool rounds per request (e.g. retrieve, profile, then plan).
 
 ## Packaging and quality
+- [x] One-step launcher (`start.bat` / `start.py`) and hidden-input key setup (`setup_api_key.py`); needs a test on a clean Windows machine.
 - [ ] File-lookup tools limited to registered project folders (`find_files`, `list_reports`, `read_report`).
 - [ ] `verify_and_install_deps.py`: use the same Rscript lookup as `utils/runner.py` (R installed but not on PATH); consider a virtual environment.
 - [ ] `requirements.txt` and a Windows launcher script.

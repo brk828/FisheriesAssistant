@@ -7,17 +7,15 @@ ENV_DIR = HERE
 
 def print_api_key_instructions():
     env_file = ENV_DIR / ".env"
-    print("\n--- 4. OPENROUTER API KEY (DO THIS YOURSELF, NOT IN THIS PROGRAM) ---")
-    print(" This setup never asks for, reads, or stores your key.")
-    print(" 1. Create a key at https://openrouter.ai/keys (set a credit limit on it).")
-    print(f" 2. Copy the template:  copy \"{ENV_DIR / '.env.template'}\" \"{env_file}\"")
-    print(f" 3. Open {env_file} in a text editor and replace the placeholder:")
-    print("        OPENROUTER_API_KEY=sk-or-v1-...")
+    print("\n--- 4. OPENROUTER API KEY ---")
+    print(" Create a key at https://openrouter.ai/keys (set a credit limit on it), then either:")
+    print("  A. Run 'python setup_api_key.py' and paste it (hidden input; it is saved to .env only), or")
+    print(f"  B. Edit {env_file} yourself:  OPENROUTER_API_KEY=sk-or-v1-...")
     print(" Keep the key safe:")
-    print("  - Only put it in the .env file. Never in the YAML, R scripts, chat, or terminal history.")
+    print("  - Only put it in the .env file. Never in the YAML, R scripts, or chat.")
     print("  - Never commit .env to git, email it, or share it.")
     print("  - If a key is ever exposed, revoke it on openrouter.ai and create a new one.")
-    print(f" Status: .env {'found' if env_file.exists() else 'not found yet'}. Run main_orchestrator.py to confirm the key works.")
+    print(f" Status: .env {'found' if env_file.exists() else 'not found yet'}.")
 
 def run_onboarding():
     print("=========================================================")
@@ -26,7 +24,7 @@ def run_onboarding():
     
     # --- STEP 1: INTERVIEW THE USER ---
     print("--- 1. PROJECT DISCOVERY ---")
-    r_projects_root = input("Enter the absolute path to your RProjects folder (e.g., /Users/drsmith/RProjects): ").strip()
+    r_projects_root = input("Enter the absolute path to your RProjects folder (e.g., C:\\Users\\drsmith\\RProjects): ").strip()
     
     root_path = Path(r_projects_root)
     if not root_path.exists():
@@ -120,7 +118,7 @@ def run_onboarding():
     print("\n=========================================================")
     print("🎉 ONBOARDING INITIALIZATION SETUP SUCCESSFUL!")
     print(" Next steps for the scientist:")
-    print(" 1. Add your OpenRouter API key to '.env' as described above.")
+    print(" 1. Make sure your OpenRouter API key is saved in '.env' (see above).")
     print(" 2. Log in securely from anywhere using Tailscale and SSH.")
     print(" 3. Fire up 'main_orchestrator.py' to direct your workflows.")
     print("=========================================================")

@@ -123,7 +123,7 @@ if __name__ == "__main__":
     
     if not missing_py and not missing_r:
         print(f"🎉 {GREEN}HEALTH CHECK PASSED!{RESET} Your environment is fully configured.")
-        print(" Move forward by executing: 'python setup_onboarding.py'")
+        print(" Next: run 'start.bat' (or 'python start.py') to continue setup.")
         print("=========================================================")
         sys.exit(0)
         
@@ -146,6 +146,8 @@ if __name__ == "__main__":
         print(f"🏁 {GREEN}INSTALLATION ROUTINE COMPLETED.{RESET}")
         print(" Re-run 'python verify_and_install_deps.py' to confirm full verification status.")
         print("=========================================================")
+        sys.exit(2)  # installed; needs a fresh process to re-check
     else:
         print(f"\n❌ Installation aborted. Please resolve dependencies manually before continuing.")
         print("=========================================================")
+        sys.exit(1)
