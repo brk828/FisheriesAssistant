@@ -54,3 +54,8 @@ When writing or modifying code for this framework, you must strictly follow thes
 * **R Environment Safety:** R script outputs should use structured `sink()` wrappers to dump terminal logs to deterministic local text files (`tmb_model_output.txt`, etc.) which the Python layer can cleanly ingest, parse, and report back to the user.
 * **No Hallucinated R Packages:** Stick entirely to base R, `glmmTMB`, `nimble`, `vegan`, and `ggplot2`. Do not introduce fringe libraries that will break the scientist's environment.
 * **Clean Code Overwrite:** Ensure temporary R script generation paths do not collide during active terminal sessions. Clean up (`os.remove`) runtime wrappers inside a `finally:` block immediately after execution completes.
+
+## Minckley Library reference
+- `brain_meta/minckley_library.csv` is the reference for Minckley citations (11,264 rows; built from the curated `00_Fisheries_Brain/MinckleyLibrary.xlsx`). `brain_citations` reads it instead of the old Google sheet.
+- Rebuild after editing the Excel file: `python -m utils.minckley_reference build` then `python -m utils.brain_citations import`. The conservative spell check logs each change to `brain_meta/minckley_spellfix_log.csv`; it skips names, taxa and non-English words.
+- 27 MIDs appear on more than one row (127 rows; listed in `brain_meta/minckley_duplicate_mids.csv`). The importer keeps one row per MID, so these need review.

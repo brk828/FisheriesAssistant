@@ -23,6 +23,8 @@ CITATIONS_PATH = BASE_DIR / "brain_meta" / "citations.json"
 EXTERNAL_CITATIONS_PATH = BASE_DIR / "brain_meta" / "external_citations.json"
 SHEET_ID = "1VdcIpJ4rXUVFOwW6i0VvpDJIgZpCgkElMry7sXPEP34"
 DEFAULT_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv"
+# Curated reference (built from MinckleyLibrary.xlsx by utils/minckley_reference.py); preferred over the old Google sheet.
+REFERENCE_CSV = BASE_DIR / "brain_meta" / "minckley_library.csv"
 
 _PERSON = re.compile(r"\b[A-Z]\.")
 
@@ -111,6 +113,8 @@ def parse_sheet(text: str, wanted: set = None) -> dict:
 
 
 def fetch_sheet_text(url: str = "") -> str:
+    if not url and REFERENCE_CSV.exists():
+        return REFERENCE_CSV.read_text(encoding="utf-8")
     with urllib.request.urlopen(url or DEFAULT_URL, timeout=90) as resp:
         return resp.read().decode("utf-8")
 
@@ -167,8 +171,7 @@ def _main(argv: list) -> int:
     if opt("--file"):
         text = Path(opt("--file")).read_text(encoding="utf-8")
     else:
-        with urllib.request.urlopen(opt("--url") or DEFAULT_URL, timeout=90) as resp:
-            text = resp.read().decode("utf-8")
+        text = fetch_sheet_text(opt("--url"))
     n = import_sheet(text)
     print(f"Saved citations for {n} vault sources to {CITATIONS_PATH.name}.")
     return 0
