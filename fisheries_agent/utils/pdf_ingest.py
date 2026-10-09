@@ -60,7 +60,9 @@ MANIFEST_PATH = META_DIR / "ingest_manifest.json"
 ID_PREFIX = "X-"
 MIN_PAGE_CHARS = 80  # fewer characters than this on a page means "no text layer"; OCR it
 OCR_DPI = 200
-MAX_NOTE_CHARS = 90_000
+MAX_NOTE_CHARS = 150_000   # default cap on text sent for the note; longer documents are flagged for a case-by-case decision
+FULL_NOTE_CHARS = 450_000  # ceiling when the user chooses to process a long document in full (~110k tokens, inside the model's context)
+OCR_SAMPLE_PAGES = 3
 CITE_SAMPLE_CHARS = 3500
 NOTE_OUT_TOKENS = 3000
 DEFAULT_MODEL = "anthropic/claude-sonnet-4.5"
@@ -466,8 +468,8 @@ def _strip_fence(text: str) -> str:
     return (m.group(1) if m else text).strip()
 
 
-def synthesize_note(client, model: str, text: str) -> str:
-    body = text[:MAX_NOTE_CHARS]
+def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS) -> str:
+    body = text[:limit]
     for _ in range(2):
         note = _strip_fence(_chat(client, model, NOTE_SYSTEM, body, max_tokens=NOTE_OUT_TOKENS + 1500))
         note = re.sub(r"\A.*?^(?=---\s*$)", "", note, count=1, flags=re.S | re.M)  # drop chatty preamble before the frontmatter
@@ -660,26 +662,64 @@ def _stub_tokens(note: str, n_names: int) -> tuple:
 
 
 def estimate_tokens(char_counts: list) -> tuple:
-    """(input, output) tokens for the whole pipeline per document: note, citation read, concept-stub summaries (~15 new)."""
+    """(input, output) tokens for the whole pipeline per document: note, citation read, concept-stub summaries (~15 new).
+    char_counts are the characters that will actually be sent for the note (already capped)."""
     in_tok = out_tok = 0
     for chars in char_counts:
-        in_tok += min(chars, MAX_NOTE_CHARS) // 4 + len(NOTE_SYSTEM) // 4 + 1200        # note
+        in_tok += chars // 4 + len(NOTE_SYSTEM) // 4 + 1200                              # note (callers pass the characters that will be sent)
         in_tok += CITE_SAMPLE_CHARS // 4 + len(CITE_SYSTEM) // 4                        # citation read
         si, so = _stub_tokens("x" * min(chars, STUB_SOURCE_CHARS), 15)
         in_tok, out_tok = in_tok + si, out_tok + so + NOTE_OUT_TOKENS + 150 + 100
     return in_tok, out_tok
 
 
-def quick_estimate(path: Path) -> tuple:
-    """(characters, pages, pages needing OCR) from the text layer alone; no OCR is run. Unreadable PDFs return (0, 0, 0)."""
+def quick_estimate(path: Path, digest: str = "", calibrate: bool = False) -> tuple:
+    """(characters, pages, pages needing OCR) before any full OCR. Text pages count their real characters. Scanned pages
+    use a measured average from OCRing a few sample pages when calibrate=True (about 10-15 s), else a flat 3,500 guess.
+    A document already extracted is exact. Unreadable PDFs return (0, 0, 0)."""
+    cached = _load_json(CACHE_DIR / f"{digest[:16]}.json") if digest else {}
+    if cached.get("text"):
+        return len(cached["text"]), cached.get("pages", 0), 0
     try:
         from pypdf import PdfReader
         pages = PdfReader(str(path)).pages
         sizes = [len((pg.extract_text() or "").strip()) for pg in pages]
     except Exception:
         return 0, 0, 0
-    ocr = sum(1 for n in sizes if n < MIN_PAGE_CHARS)
-    return sum(n for n in sizes if n >= MIN_PAGE_CHARS) + ocr * 3500, len(sizes), ocr  # ~3,500 characters per scanned page
+    need = [i for i, n in enumerate(sizes) if n < MIN_PAGE_CHARS]
+    per_page = 3500
+    if calibrate and need:
+        step = max(1, len(need) // OCR_SAMPLE_PAGES)
+        sample = need[len(need) // (2 * OCR_SAMPLE_PAGES)::step][:OCR_SAMPLE_PAGES] or need[:1]
+        try:
+            counts = [len(_ocr_page(path, i + 1).strip()) for i in sample]
+            per_page = max(1, sum(counts) // len(counts))
+        except Exception:
+            pass  # OCR tools missing: fall back to the flat guess
+    return sum(n for n in sizes if n >= MIN_PAGE_CHARS) + len(need) * per_page, len(sizes), len(need)
+
+
+def choose_limit(name: str, chars: int, pages: int, model: str, mode: str = "ask") -> int:
+    """Characters to send for the note, or 0 to skip. Documents at or under the cap go through untouched.
+    mode: ask | cap | full | skip (what to do with long documents; ask falls back to cap when nobody can answer)."""
+    if chars <= MAX_NOTE_CHARS:
+        return MAX_NOTE_CHARS
+    full = min(chars, FULL_NOTE_CHARS)
+    price = _price(model)
+    def cost(n):
+        i, o = estimate_tokens([n])
+        return f"${i * price[0] + o * price[1]:.2f}" if price else "cost unknown"
+    print(f"   LONG DOCUMENT: {name} is about {chars:,} characters ({pages} pages); the cap is {MAX_NOTE_CHARS:,}.")
+    print(f"     [c]ap  - send the first {MAX_NOTE_CHARS:,} characters (~{cost(MAX_NOTE_CHARS)}); later text such as conclusions may be cut")
+    print(f"     [f]ull - send {full:,} characters (~{cost(full)})" + ("; truncated at the hard ceiling" if full < chars else ""))
+    print("     [s]kip - do not process (review the PDF first, then re-add it)")
+    if mode == "ask":
+        try:
+            ans = input("   Choose [c/f/s] (Enter = cap): ").strip().lower()
+        except EOFError:
+            ans = "c"
+        mode = {"f": "full", "s": "skip"}.get(ans[:1], "cap")
+    return {"full": full, "skip": 0}.get(mode, MAX_NOTE_CHARS)
 
 
 class PdfWatcher:
@@ -751,11 +791,12 @@ class PdfWatcher:
         print(f"\n📄 {len(items)} PDF(s) waiting to be added to the Fisheries Brain:")
         sizes = []
         for p, d in items:
-            chars, pages, ocr = quick_estimate(p)
-            sizes.append(chars)
+            chars, pages, ocr = quick_estimate(p, d, calibrate=True)
+            sizes.append(min(chars, MAX_NOTE_CHARS) if chars else 20_000)
+            long_note = f" -- LONG (~{chars:,} chars; you'll choose cap/full/skip)" if chars > MAX_NOTE_CHARS else ""
             kind = "unreadable (will be tried anyway)" if not pages else (f"{pages} pages, {ocr} need OCR (slower)" if ocr else f"{pages} pages, text-based")
-            print(f"   - {p.name}: {kind}")
-        in_tok, out_tok = estimate_tokens([c or 20_000 for c in sizes])
+            print(f"   - {p.name}: {kind}{long_note}")
+        in_tok, out_tok = estimate_tokens(sizes)
         print(f"   Model: {model}. {_cost_text(model, in_tok, out_tok)}")
         print("   Adding sends each document's text to OpenRouter (note, citation, concept summaries).")
         answer = input("   Add them to the brain now? [y]es / [n]o (ask again only for new files) / [l]ater: ").strip().lower()
@@ -820,10 +861,18 @@ def cmd_process(args) -> int:
         return 0
 
     print(f"Preparing {len(todo)} PDF(s): extracting text (OCR where needed) and looking up citations.")
-    prepared, mids, new_sheet = [], {}, {}
+    prepared, mids, new_sheet, limits = [], {}, {}, {}
     catalog = _vault_catalog()
+    model = args.model or os.getenv("OPENROUTER_INGEST_MODEL") or os.getenv("OPENROUTER_MODEL") or DEFAULT_MODEL
     for p, d in todo:
         print(f"-> {p.name}")
+        est, est_pages, _ = quick_estimate(p, d, calibrate=True)  # before the full OCR, so a huge scan can be declined
+        limit = choose_limit(p.name, est, est_pages, model, getattr(args, "long", "ask"))
+        if not limit:
+            manifest[d] = _record(p, d, "skipped", reason="too long; skipped by user")
+            print("   Skipped. The PDF stays in the folder; run process on it again after review if you change your mind.")
+            continue
+        limits[d] = limit
         try:
             ex = extract_text(p, d)
         except Exception as e:
@@ -852,8 +901,7 @@ def cmd_process(args) -> int:
     if not prepared:
         return 1
 
-    model = args.model or os.getenv("OPENROUTER_INGEST_MODEL") or os.getenv("OPENROUTER_MODEL") or DEFAULT_MODEL
-    in_tok, out_tok = estimate_tokens([len(ex["text"]) for _, _, ex, _ in prepared])
+    in_tok, out_tok = estimate_tokens([min(len(ex["text"]), limits[d]) for _, d, ex, _ in prepared])
     print(f"\nModel: {model}\n{_cost_text(model, in_tok, out_tok)}")
     print("This sends the full text of each document (and its first page for citation reading) to OpenRouter.")
     if not args.yes and input("Proceed? [y/N] ").strip().lower() not in ("y", "yes"):
@@ -878,7 +926,7 @@ def cmd_process(args) -> int:
                     _save_json(MANIFEST_PATH, manifest)
                     print("   Skipped.")
                     continue
-            note = synthesize_note(client, model, ex["text"])
+            note = synthesize_note(client, model, ex["text"], limits[d])
             title = cite.get("title") or note_title(note) or p.stem
             cite["title"] = title
             stem = note_stem(title, cite.get("year", ""), sid)
@@ -940,6 +988,7 @@ def main(argv: list = None) -> int:
             sp.add_argument("--yes", action="store_true", help="skip the cost confirmation")
             sp.add_argument("--limit", type=int, default=0)
             sp.add_argument("--mid", default="", help="Minckley Library ID for a single PDF (else read from the filename)")
+            sp.add_argument("--long", choices=["ask", "cap", "full", "skip"], default="ask", help="what to do with documents over the character cap")
             sp.add_argument("--keep", action="store_true", help="do not delete PDFs after processing")
             sp.add_argument("--model", default="")
     args = ap.parse_args(argv)
