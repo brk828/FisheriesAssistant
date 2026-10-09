@@ -39,6 +39,8 @@ Observations about the current brain (affects the design):
 - [ ] Embeddings only if the evaluation shows keyword search is missing too much.
 
 - [ ] (low priority) Review the 69 recovered citations (`python -m utils.recover_citations --report`): fill in the 17 missing authors and 2 missing years where the original PDF is available, and check the Minckley-addressed letters and multi-organization authors.
+- [ ] (low priority) Review the 27 Minckley MIDs that appear on more than one row (`brain_meta/minckley_duplicate_mids.csv`) and decide whether to split or merge them; the importer keeps only one row per MID.
+- [ ] (low priority) Review the Minckley spell-check log (`brain_meta/minckley_spellfix_log.csv`, 148 changes) for wrong fixes (for example "Mexicao" to "Mexico"), and manually check scientific and author names, which the check skips.
 
 ### 2. `research_topic` tool
 - [ ] Replace `search_fisheries_brain` with an evidence pack plus a coverage note ("matched N sources, showing M").
