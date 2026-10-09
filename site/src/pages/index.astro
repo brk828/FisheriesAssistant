@@ -1,0 +1,98 @@
+---
+import Base from "../layouts/Base.astro";
+import { SITE_BLURB } from "../config";
+const base = import.meta.env.BASE_URL;
+---
+<Base>
+  <h1>Search the library</h1>
+  <p class="blurb">{SITE_BLURB}</p>
+  <form id="f" role="search">
+    <input id="q" type="search" placeholder="Keyword, author or year, e.g. razorback sucker, Minckley, 1985" autocomplete="off" autofocus />
+  </form>
+  <div class="bar">
+    <label>Library <select id="library"><option value="">All</option></select></label>
+    <label>Decade <select id="decade"><option value="">All</option></select></label>
+    <label>Sort <select id="sort"><option value="">Best match</option><option value="year:desc">Year, newest first</option><option value="year:asc">Year, oldest first</option></select></label>
+  </div>
+  <p id="status" aria-live="polite"></p>
+  <ol id="results"></ol>
+  <button id="more" hidden>Show more</button>
+  <noscript>Search needs JavaScript.</noscript>
+
+  <script define:vars={{ base }}>
+    const PAGE = 20;
+    const $ = (id) => document.getElementById(id);
+    let pf, hits = [], shown = 0, runId = 0;
+
+    const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+    async function init() {
+      pf = await import(`${base.replace(/\/$/, "")}/pagefind/pagefind.js`);
+      const filters = await pf.filters();
+      for (const [name, el] of [["library", $("library")], ["decade", $("decade")]]) {
+        const vals = Object.keys(filters[name] || {}).sort();
+        for (const v of vals) el.append(new Option(`${v} (${filters[name][v]})`, v));
+      }
+      const q = new URLSearchParams(location.search).get("q");
+      if (q) $("q").value = q;
+      run();
+    }
+
+    async function run() {
+      const id = ++runId;
+      const term = $("q").value.trim();
+      const filters = {};
+      if ($("library").value) filters.library = $("library").value;
+      if ($("decade").value) filters.decade = $("decade").value;
+      const opts = { filters };
+      const [k, dir] = $("sort").value.split(":");
+      if (k) opts.sort = { [k]: dir };
+      $("status").textContent = "Searching...";
+      // A null term returns every document, which allows browsing by filter.
+      const res = await pf.search(term || null, opts);
+      if (id !== runId) return;
+      hits = res.results;
+      shown = 0;
+      $("results").innerHTML = "";
+      $("status").textContent = `${hits.length.toLocaleString()} result${hits.length === 1 ? "" : "s"}`;
+      history.replaceState(null, "", term ? `?q=${encodeURIComponent(term)}` : location.pathname);
+      await more(id);
+    }
+
+    async function more(id = runId) {
+      const slice = hits.slice(shown, shown + PAGE);
+      shown += slice.length;
+      const data = await Promise.all(slice.map((h) => h.data()));
+      if (id !== runId) return;
+      for (const d of data) {
+        const li = document.createElement("li");
+        li.innerHTML = `<a href="${esc(d.url)}">${esc(d.meta.citation || d.meta.title)}</a>` +
+          (d.excerpt ? `<div class="ex">${d.excerpt}</div>` : "");
+        $("results").append(li);
+      }
+      $("more").hidden = shown >= hits.length;
+    }
+
+    let t;
+    $("q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(run, 250); });
+    $("f").addEventListener("submit", (e) => { e.preventDefault(); run(); });
+    for (const id of ["library", "decade", "sort"]) $(id).addEventListener("change", run);
+    $("more").addEventListener("click", () => more());
+    init().catch(() => { $("status").textContent = "Search index not found. Run a full build (npm run build) to create it."; });
+  </script>
+
+  <style>
+    h1 { margin-top:0; }
+    .blurb { color:var(--muted); }
+    #q { width:100%; padding:.8rem 1rem; font-size:1.1rem; border:1px solid var(--line); border-radius:8px; }
+    .bar { display:flex; gap:1rem; flex-wrap:wrap; margin:.8rem 0; font-size:.9rem; color:var(--muted); }
+    .bar select { padding:.25rem; }
+    #results { list-style:none; padding:0; margin:0; }
+    #results li { background:#fff; border:1px solid var(--line); border-radius:8px; padding:.7rem 1rem; margin:.6rem 0; }
+    #results a { font-weight:600; text-decoration:none; }
+    #results a:hover { text-decoration:underline; }
+    .ex { color:var(--muted); font-size:.9rem; margin-top:.3rem; }
+    mark { background:#fff1a8; }
+    #more { padding:.6rem 1.2rem; border:1px solid var(--accent); background:#fff; color:var(--accent); border-radius:8px; cursor:pointer; }
+  </style>
+</Base>

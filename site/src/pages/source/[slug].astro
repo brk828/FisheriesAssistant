@@ -1,0 +1,51 @@
+---
+import fs from "node:fs";
+import Base from "../../layouts/Base.astro";
+import { REQUEST_PDF_TEXT } from "../../config";
+
+export function getStaticPaths() {
+  const items = JSON.parse(fs.readFileSync("src/generated/sources.json", "utf-8"));
+  return items.map((s) => ({ params: { slug: s.slug }, props: { s } }));
+}
+const { s } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+<Base title={`${s.title} | Fisheries Library Search`}>
+  <p><a href={base}>&larr; Back to search</a></p>
+  <article
+    data-pagefind-body
+    data-library={s.minckleyId ? "Minckley Library" : "Other sources"}
+    data-decade={s.year ? `${s.year.slice(0, 3)}0s` : "Unknown"}
+    data-year={s.year || "0"}
+    data-pagefind-filter="library[data-library], decade[data-decade]"
+    data-pagefind-sort="year[data-year]"
+  >
+    <h1 data-pagefind-meta="title">{s.title}</h1>
+    <p class="cite" data-pagefind-meta="citation">{s.citation}</p>
+    <div class="request">
+      {s.minckleyId ? (
+        <p><strong>Minckley Library ID: {s.minckleyId}.</strong> {REQUEST_PDF_TEXT}</p>
+      ) : (
+        <p>
+          {s.doi ? <>Full text: <a href={`https://doi.org/${s.doi}`}>doi.org/{s.doi}</a>. </> : null}
+          To obtain the full text, request it from the publisher or journal using the citation above.
+        </p>
+      )}
+    </div>
+    {(s.species || s.location) && (
+      <p class="facts">
+        {s.species && <span><strong>Species:</strong> {s.species}. </span>}
+        {s.location && <span><strong>Location:</strong> {s.location}.</span>}
+      </p>
+    )}
+    <div class="summary" set:html={s.html} />
+  </article>
+  <style>
+    h1 { font-size:1.5rem; line-height:1.25; margin:.2rem 0 .6rem; }
+    .cite { color:var(--muted); margin-top:0; }
+    .request { background:#fff; border:1px solid var(--line); border-left:4px solid var(--accent); padding:.1rem 1rem; margin:1rem 0; }
+    .facts { color:var(--muted); font-size:.95rem; }
+    .summary :global(h2) { font-size:1.2rem; margin-top:1.6rem; border-bottom:1px solid var(--line); }
+    .summary :global(h3) { font-size:1.05rem; }
+  </style>
+</Base>

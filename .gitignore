@@ -28,3 +28,9 @@ fisheries_agent/.brain_index.building
 
 # Per-project long-term memory
 fisheries_agent/project_memory/
+
+# Search site
+site/node_modules/
+site/dist/
+site/.astro/
+site/src/generated/
