@@ -1,4 +1,4 @@
-# Fisheries Library Search site
+# Minckley Library Search site
 
 Static Astro site that searches the AI-generated summaries in `fisheries_agent/00_Fisheries_Brain/01_Sources`.
 Search runs in the browser (Pagefind); there are no concept stubs or server. Results show citations first; clicking one opens the full summary.
