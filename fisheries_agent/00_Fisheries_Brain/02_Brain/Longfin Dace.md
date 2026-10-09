@@ -23,6 +23,9 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 > This document is a U.S. Fish and Wildlife Service (FWS) Biological Opinion issued in response to a Section 7 consultation request from [[Organ Pipe Cactus National Monument]] regarding the discovery and proposed removal of unauthorized, translocated fish populations from the [[Aguajita Springs Co...
 > -- *[[BiologicalOpinionRemovalOfIntr_1990_05_30]]*
 
+> A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
+> -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -101,3 +104,4 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 - [[VerdeRiverFishResearch_1998_02_17]]
 - [[VerdeRiverFishSampling_1989_03_06]]
 - [[WestTurkeyCreekFishS_1996_04_12]]
+- [[SurveyOfFishesOfAravaipaCreekG_20605]]

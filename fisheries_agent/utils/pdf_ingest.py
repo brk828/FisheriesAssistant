@@ -23,6 +23,13 @@ Pipeline per PDF
      without this step a new note would not surface for a topic question. No LLM involved.
   6. brain_meta/ingest_manifest.json records each file (by hash) so reruns skip finished work.
 
+Minckley Library PDFs keep their ID: put the 5-6 digit MID in the filename ('15631 Smith 1980.pdf') or pass --mid. The MID must
+exist in the library sheet (brain_meta/citations.json); the note then uses source_id = MID, the sheet citation (no citation LLM
+call, no Crossref) and the standard TitleLetters_MID filename, and the citation text ends "Minckley Library ID: N".
+Before anything is sent: an exact duplicate (same file hash) is rejected and removed; a similar document already in
+01_Sources (same MID, same DOI or near-identical title) is shown and you choose skip or process anyway.
+Finished PDFs (and their extraction cache) are deleted from pdfs_to_process; the manifest keeps the hash so they are never redone.
+
 Newly created stubs also get a short LLM `## Summary` (part of the same consent/estimate).
 Also: python -m utils.pdf_ingest stubs [note stems...] [--summaries]   (re)applies step 5 to ingested notes; safe to repeat.
 """
@@ -37,6 +44,8 @@ import urllib.request
 from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
+
+from utils import brain_citations, brain_index
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 BRAIN_DIR = BASE_DIR / "00_Fisheries_Brain"
@@ -110,6 +119,58 @@ def _norm(text: str) -> str:
 
 def _similar(a: str, b: str) -> float:
     return SequenceMatcher(None, _norm(a), _norm(b)).ratio()
+
+
+def detect_mid(path: Path) -> str:
+    """A 5-6 digit number in the filename is taken as a Minckley Library ID candidate ('15631 Smith 1980.pdf'); 4 digits is a year."""
+    m = re.search(r"(?<!\d)(\d{5,6})(?!\d)", path.stem)
+    return m.group(1) if m else ""
+
+
+def _vault_catalog() -> list:
+    """[(stem, source_id, doi, title, year)] for every note in 01_Sources, with sheet/external titles filled in."""
+    refs = brain_citations.load()
+    out = []
+    for f in sorted(SOURCES_DIR.glob("*.md")):
+        fm, _ = brain_index._split_frontmatter(f.read_text(encoding="utf-8", errors="replace"))
+        sid = str(fm.get("source_id") or "").strip()
+        sid = brain_citations.mid_from_source_id(sid) or brain_citations.mid_from_stem(f.stem) or sid
+        ref = brain_citations.lookup(refs, sid, f.stem)
+        title = ref.get("title") or str(fm.get("title") or "")
+        out.append((f.stem, sid, (ref.get("doi") or str(fm.get("doi") or "")).lower(), title, str(ref.get("year") or "")))
+    return out
+
+
+def find_similar(cite: dict, mid: str, catalog: list) -> list:
+    """[(stem, reason)] for existing notes that look like the same document: same Minckley ID, same DOI, or near-identical title."""
+    hits = []
+    doi, title, year = (cite.get("doi") or "").lower(), cite.get("title") or "", str(cite.get("year") or "")
+    for stem, sid, d, t, y in catalog:
+        if mid and sid == mid:
+            hits.append((stem, f"same Minckley ID {mid}"))
+        elif doi and d == doi:
+            hits.append((stem, f"same DOI {doi}"))
+        elif title and t and len(_norm(title)) > 15 and _similar(title, t) >= 0.88 and (not year or not y or year == y):
+            hits.append((stem, f"very similar title: {t[:80]}"))
+    return hits
+
+
+def ask_duplicate(name: str, hits: list) -> bool:
+    """True to process anyway. Defaults to skipping, including when no one can answer."""
+    print(f"   {name} looks like a document already in the brain:")
+    for stem, why in hits[:4]:
+        print(f"     - {stem} ({why})")
+    try:
+        return input("   [s]kip (default) / [p]rocess anyway (a note with the same Minckley ID is overwritten; git can restore it): ").strip().lower().startswith("p")
+    except EOFError:
+        return False
+
+
+def _discard(path: Path, digest: str) -> None:
+    """Removes a finished PDF and its extraction cache; only ever touches files inside pdfs_to_process."""
+    if path.parent.resolve() == PDF_DIR.resolve():
+        path.unlink(missing_ok=True)
+        (CACHE_DIR / f"{digest[:16]}.json").unlink(missing_ok=True)
 
 
 def list_pdfs(names: list = None) -> list:
@@ -376,6 +437,9 @@ def _client():
     return OpenAI(base_url="https://openrouter.ai/api/v1", api_key=key)
 
 
+USAGE = {"in": 0, "out": 0}  # tokens actually billed this run, for comparing with the estimate
+
+
 def _chat(client, model: str, system: str, user: str, max_tokens: int, tries: int = 3) -> str:
     import time
     last = None
@@ -385,6 +449,10 @@ def _chat(client, model: str, system: str, user: str, max_tokens: int, tries: in
                 model=model, temperature=0, max_tokens=max_tokens,
                 messages=[{"role": "system", "content": system}, {"role": "user", "content": user}],
             )
+            u = getattr(r, "usage", None)
+            if u:
+                USAGE["in"] += getattr(u, "prompt_tokens", 0) or 0
+                USAGE["out"] += getattr(u, "completion_tokens", 0) or 0
             return r.choices[0].message.content or ""
         except Exception as e:  # network / rate limit: back off and retry
             last = e
@@ -426,11 +494,14 @@ def format_citation(c: dict) -> str:
     year = c.get("year") or "n.d."
     tail = " ".join(x for x in (c.get("title", "").rstrip("."), ) if x)
     pub = c.get("publication", "")
-    return f"{who} ({year}). {tail}." + (f" {pub}" if pub else "")
+    mid = f" Minckley Library ID: {c['mid']}." if c.get("mid") else ""
+    return f"{who} ({year}). {tail}." + (f" {pub}" if pub else "") + mid
 
 
 def note_stem(title: str, year: str, sid: str) -> str:
     letters = re.sub(r"[^A-Za-z ]", "", title or "").title().replace(" ", "")[:30] or "Untitled"
+    if sid.isdigit():  # Minckley convention: TitleLetters_MID
+        return f"{letters}_{sid}"
     stem = f"{letters}_{year or sid}"
     if (SOURCES_DIR / f"{stem}.md").exists():
         stem = f"{stem}_{sid}"
@@ -653,7 +724,7 @@ class PdfWatcher:
                 continue  # still being copied
             key = (p.name, st.st_size, st.st_mtime)
             d = self._hashes.get(key) or self._hashes.setdefault(key, file_hash(p))
-            if manifest.get(d, {}).get("status") == "done" or d in self._declined:
+            if manifest.get(d, {}).get("status") in ("done", "skipped") or d in self._declined:
                 continue
             found.append((p, d))
         with self._lock:
@@ -727,11 +798,18 @@ def cmd_extract(args) -> int:
 
 def cmd_process(args) -> int:
     manifest = _load_json(MANIFEST_PATH)
+    sheet = _load_json(brain_citations.CITATIONS_PATH)
     todo = []
-    for p in list_pdfs(args.files):
+    files = list_pdfs(args.files)
+    if getattr(args, "mid", "") and len(files) != 1:
+        print("--mid applies to exactly one PDF; name it explicitly.")
+        return 1
+    for p in files:
         d = file_hash(p)
         if manifest.get(d, {}).get("status") == "done":
-            print(f"Skipping {p.name} (already processed as {manifest[d]['note']})")
+            print(f"Rejected {p.name}: exact duplicate of {manifest[d]['note']}, which is already in the brain (redundant). Removing the extra copy.")
+            if not getattr(args, "keep", False):
+                _discard(p, d)
             continue
         todo.append((p, d))
     if args.limit:
@@ -741,7 +819,8 @@ def cmd_process(args) -> int:
         return 0
 
     print(f"Preparing {len(todo)} PDF(s): extracting text (OCR where needed) and looking up citations.")
-    prepared = []
+    prepared, mids, new_sheet = [], {}, {}
+    catalog = _vault_catalog()
     for p, d in todo:
         print(f"-> {p.name}")
         try:
@@ -750,8 +829,23 @@ def cmd_process(args) -> int:
             print(f"   FAILED extraction: {e}")
             manifest[d] = _record(p, d, "failed", reason=f"extraction: {e}")
             continue
-        cite = free_citation(p, ex, not args.no_crossref)
-        print(f"   {ex['pages']} pages, text={ex['method']}, citation so far: {cite.get('citation_source') or 'none'}")
+        mid = getattr(args, "mid", "") or detect_mid(p)
+        ref = (sheet.get(mid) or brain_citations.fetch_entry(mid)) if mid else {}
+        if mid and not ref:
+            print(f"   {mid} is not in the Minckley library sheet (or the sheet is unreachable); treating {p.name} as a non-Minckley document.")
+            mid = ""
+        if mid:
+            new_sheet[mid] = ref
+            cite = {**{k: ref.get(k, "") for k in ("authors", "year", "title", "publication", "type")}, "citation_source": "minckley-sheet", "mid": mid}
+            mids[d] = mid
+        else:
+            cite = free_citation(p, ex, not args.no_crossref)
+        print(f"   {ex['pages']} pages, text={ex['method']}, citation so far: {cite.get('citation_source') or 'none'}" + (f", Minckley ID {mid}" if mid else ""))
+        hits = find_similar(cite, mid, catalog)
+        if hits and not ask_duplicate(p.name, hits):
+            manifest[d] = _record(p, d, "skipped", reason="similar document already in the brain: " + hits[0][0])
+            print("   Skipped.")
+            continue
         prepared.append((p, d, ex, cite))
     _save_json(MANIFEST_PATH, manifest)
     if not prepared:
@@ -769,20 +863,30 @@ def cmd_process(args) -> int:
     citations = _load_json(EXTERNAL_CITATIONS_PATH)
     done = 0
     for p, d, ex, cite in prepared:
-        sid = source_id_for(d)
+        mid = mids.get(d, "")
+        sid = mid or source_id_for(d)
         print(f"-> {p.name} [{sid}]")
         try:
-            if cite.get("citation_source") != "crossref":
+            if not mid and cite.get("citation_source") != "crossref":
                 llm = llm_citation(client, model, ex["text"])
                 upgraded = crossref_by_title(llm.get("title", ""), llm.get("authors", ""), llm.get("year", "")) if llm and not args.no_crossref else {}
                 cite = _merge(upgraded, llm, cite)
+                hits = find_similar(cite, "", catalog)
+                if hits and not ask_duplicate(p.name, hits):
+                    manifest[d] = _record(p, d, "skipped", reason="similar document already in the brain: " + hits[0][0])
+                    _save_json(MANIFEST_PATH, manifest)
+                    print("   Skipped.")
+                    continue
             note = synthesize_note(client, model, ex["text"])
             title = cite.get("title") or note_title(note) or p.stem
             cite["title"] = title
             stem = note_stem(title, cite.get("year", ""), sid)
+            if mid:  # re-processing a document already in the vault replaces its note
+                stem = next((c[0] for c in catalog if c[1] == mid), stem)
             note = set_frontmatter(note, {
                 "title": title,
                 "source_id": sid,
+                "minckley_id": mid,
                 "source_citation": format_citation(cite),
                 "doi": cite.get("doi", ""),
                 "source_file": p.name,
@@ -793,15 +897,24 @@ def cmd_process(args) -> int:
             upd, created = update_stubs(stem, note)
             new = len(created)
             summarized = summarize_new_stubs(client, model, note, created) if created else 0
-            citations[sid] = {k: cite.get(k, "") for k in ("authors", "year", "title", "publication", "type", "doi", "citation_source")}
-            _save_json(EXTERNAL_CITATIONS_PATH, citations)
+            if mid:
+                brain_citations.save_entries({mid: new_sheet[mid]})  # so a later index rebuild cites it by MID
+            else:
+                citations[sid] = {k: cite.get(k, "") for k in ("authors", "year", "title", "publication", "type", "doi", "citation_source")}
+                _save_json(EXTERNAL_CITATIONS_PATH, citations)
             manifest[d] = _record(p, d, "done", note=f"{stem}.md", method=ex["method"], citation_source=cite.get("citation_source", ""))
             done += 1
+            if not getattr(args, "keep", False):
+                _discard(p, d)
             print(f"   wrote {stem}.md, {upd} concept stubs updated ({new} new, {summarized} summarized)  (citation: {cite.get('citation_source') or 'none'}; {cite.get('authors') or '?'} {cite.get('year') or '?'})")
         except Exception as e:
             print(f"   FAILED: {e}")
             manifest[d] = _record(p, d, "failed", reason=str(e))
         _save_json(MANIFEST_PATH, manifest)
+    price = _price(model)
+    if USAGE["in"] or USAGE["out"]:
+        cost = f", about ${USAGE['in'] * price[0] + USAGE['out'] * price[1]:.2f}" if price else ""
+        print(f"\nActual usage: {USAGE['in']:,} input + {USAGE['out']:,} output tokens{cost}.")
     print(f"\n{done}/{len(prepared)} notes written to {SOURCES_DIR}. Citations that came from the filename or an LLM read are worth a glance in {EXTERNAL_CITATIONS_PATH.name}.")
     return 0 if done == len(prepared) else 1
 
@@ -825,6 +938,8 @@ def main(argv: list = None) -> int:
         if name == "process":
             sp.add_argument("--yes", action="store_true", help="skip the cost confirmation")
             sp.add_argument("--limit", type=int, default=0)
+            sp.add_argument("--mid", default="", help="Minckley Library ID for a single PDF (else read from the filename)")
+            sp.add_argument("--keep", action="store_true", help="do not delete PDFs after processing")
             sp.add_argument("--model", default="")
     args = ap.parse_args(argv)
     return {"status": cmd_status, "stubs": cmd_stubs, "extract": cmd_extract, "process": cmd_process}[args.cmd](args)

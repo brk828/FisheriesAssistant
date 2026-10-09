@@ -23,6 +23,9 @@ The Black River refers to a cold-water montane stream drainage system in Arizona
 > | Map No. | Feature | Salinity Status | |---|---|---| | 1 | [[Salt Banks]] springs (northerly bank) | Salty | | 2 | Cottonwood Wash | Salty (seep unlocated) | | 3 | Small seep (northerly bank) | Not salty | | 4 | Bog Springs area wash | Not salty | | 5 | [[Abdoula Canyon]] springs | Salty | | 6 |...
 > -- *[[InvestigationOfSaltSeepsOnTheU_1976_05_14]]*
 
+> A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
+> -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
@@ -33,3 +36,4 @@ The Black River refers to a cold-water montane stream drainage system in Arizona
 - [[ProposedRuleToListBonytailChub_12003]]
 - [[StudiesOfTheAbundanceDistribut_13841]]
 - [[SummaryOfPertinentProblemsPert_1961_01_15]]
+- [[SurveyOfFishesOfAravaipaCreekG_20605]]

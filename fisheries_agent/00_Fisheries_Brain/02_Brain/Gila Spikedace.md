@@ -14,7 +14,11 @@ The Gila Spikedace (*Meda fulgida*) is a small cyprinid minnow native to the sou
 > - **[[Colorado River]] mainstem and larger tributaries** — historically hosted large-bodied pelagic and benthic specialists such as the [[Colorado River Squawfish]] (*Ptychocheilus lucius*), [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[WildlifeStatusInArizonaFishes_18591]]*
 
+> A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
+> -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
+
 ## Mentioned In
 - [[EcologicalInterrelationshipsOf_15560]]
 - [[SomeAspectsOfBiologyOfTheLongf_1971_05_25]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[SurveyOfFishesOfAravaipaCreekG_20605]]

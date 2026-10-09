@@ -88,12 +88,12 @@ def _clean(value) -> str:
     return re.sub(r"\s+", " ", value or "").strip()
 
 
-def import_sheet(text: str) -> int:
-    wanted = _vault_mids()
+def parse_sheet(text: str, wanted: set = None) -> dict:
+    """{MID: citation entry} from the library sheet CSV; only the MIDs in `wanted` when given."""
     out = {}
     for row in csv.DictReader(io.StringIO(text)):
         mid = mid_from_source_id(row.get("MID"))
-        if not mid or mid not in wanted:
+        if not mid or (wanted is not None and mid not in wanted):
             continue
         year = re.search(r"\d{4}", row.get("year") or "")
         entry = {
@@ -107,6 +107,30 @@ def import_sheet(text: str) -> int:
         # A repeated MID keeps the row with more filled-in fields.
         if old is None or sum(bool(v) for v in entry.values()) > sum(bool(v) for v in old.values()):
             out[mid] = entry
+    return out
+
+
+def fetch_sheet_text(url: str = "") -> str:
+    with urllib.request.urlopen(url or DEFAULT_URL, timeout=90) as resp:
+        return resp.read().decode("utf-8")
+
+
+def fetch_entry(mid: str) -> dict:
+    """One MID's citation from the live sheet (for PDFs not yet in the vault); {} if offline or absent."""
+    try:
+        return parse_sheet(fetch_sheet_text(), {mid}).get(mid, {})
+    except Exception:
+        return {}
+
+
+def save_entries(entries: dict) -> None:
+    current = _load_file(CITATIONS_PATH)
+    current.update(entries)
+    CITATIONS_PATH.write_text(json.dumps(current, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
+
+
+def import_sheet(text: str) -> int:
+    out = parse_sheet(text, _vault_mids())
     CITATIONS_PATH.parent.mkdir(parents=True, exist_ok=True)
     CITATIONS_PATH.write_text(json.dumps(out, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
     return len(out)

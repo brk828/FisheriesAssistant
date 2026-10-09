@@ -23,6 +23,9 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > - **[[Longfin Dace]]** (*Agosia chrysogaster*): Typically the most abundant native species; associated with sand substrate, run habitats, and warmer water. Feeds via detritivory/omnivory, indicating a generalized, non-specialized feeding morphology. - **[[Spikedace]]** (*Meda fulgida*): Small-bod...
 > -- *[[AravaipaCreekFishesOctober_1986_01_20]]*
 
+> A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
+> -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -136,3 +139,4 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
 - [[VrrtNoticeAndMeetingMinutes_20253]]
+- [[SurveyOfFishesOfAravaipaCreekG_20605]]

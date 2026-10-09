@@ -23,6 +23,9 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 > This report documents a targeted eradication-monitoring survey conducted by the Arizona Game and Fish Department (AGFD), in cooperation with The Nature Conservancy (TNC), Bureau of Reclamation (BOR), Bureau of Land Management (BLM), ADEQ, NRCS, and academic partners, to detect the presence of non...
 > -- *[[AravaipaCreekRedShinerSurveySu_1995_12_06]]*
 
+> A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
+> -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -107,3 +110,4 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 - [[TripReportAravaipaCreekEastEnd_1993_10_25]]
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[UpperVerdeRiverAquaticStudy_15611]]
+- [[SurveyOfFishesOfAravaipaCreekG_20605]]

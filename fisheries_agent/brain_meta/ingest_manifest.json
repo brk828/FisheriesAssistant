@@ -1,4 +1,20 @@
 {
+ "1c8ea6305e087da38526125a75cc0441b0f17a380227425ef51e761436e9e121": {
+  "citation_source": "minckley-sheet",
+  "file": "20605.pdf",
+  "method": "ocr",
+  "note": "SurveyOfFishesOfAravaipaCreekG_20605.md",
+  "source_id": "X-1c8ea630",
+  "status": "done",
+  "timestamp": "2026-10-09T17:17:41+00:00"
+ },
+ "3de2b3788e3232e4fcc07525e218a18d7d81a158d452654317a044163dfb710b": {
+  "file": "15631 test.pdf",
+  "reason": "similar document already in the brain: AModificationOfWinkl_15631",
+  "source_id": "X-3de2b378",
+  "status": "skipped",
+  "timestamp": "2026-10-09T17:14:13+00:00"
+ },
  "87f389c0ab983d8e3938cef446dec529ef6b795c1297ee05fc38251dc55e3189": {
   "citation_source": "crossref",
   "file": "Nowlin et al. 2006 gape limitation large mouth bass.pdf",

@@ -23,6 +23,9 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 > - **Run/riffle/pool sequences** with boulder-dominated substrate limiting seine effectiveness (as low as 10% channel coverage at some sites). - **Braided, shallow channel sections** near the terminus of surface flow, where the creek was suspected to transition to subsurface flow approximately 6 k...
 > -- *[[AravaipaCreekRedShinerSurveySu_1995_12_06]]*
 
+> A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
+> -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -162,3 +165,4 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[UpdateOnNongameFishActivities_1987_08_26]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[SurveyOfFishesOfAravaipaCreekG_20605]]

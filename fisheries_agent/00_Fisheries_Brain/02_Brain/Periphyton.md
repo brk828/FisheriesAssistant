@@ -23,9 +23,13 @@ Periphyton refers to the community of algae, bacteria, and other microorganisms 
 > - **Habitat**: Both species inhabit the [[Lake Mohave]] reservoir system and the riverine [[Black Canyon]] reach immediately below [[Hoover Dam]]. The Bonytail Chub is noted as existing **only** in Lake Mohave among extant wild populations at the time (1980). - **Trophic base**: The study explici...
 > -- *[[RequestForParticipationAndPart_1980]]*
 
+> A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
+> -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
+
 ## Mentioned In
 - [[CommentsOnTheThirdDraftOfTheLo_1993_04_30]]
 - [[RequestForParticipationAndPart_1980]]
 - [[SeasonalChangesInTheProximateC_17760]]
 - [[TheLightClimateForPlantsInRive_12168]]
 - [[UptakeAndAssimilationOfNitroge_1969]]
+- [[SurveyOfFishesOfAravaipaCreekG_20605]]

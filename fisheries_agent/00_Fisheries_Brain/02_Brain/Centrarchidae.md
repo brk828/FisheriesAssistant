@@ -23,6 +23,9 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 > - **Production Limnology**: Studies of tannins and phenolic compounds (from yellow pine litter) and their effects on pond chemistry, alkalinity, and oxygen concentration, directly influencing fish productivity in [[Small Impoundments]]. - **Trophic Manipulation**: Experimental addition of soluble...
 > -- *[[AnnualReportArizonaCooperative_1966]]*
 
+> A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
+> -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AGrowthStudyAndBloodProteinAna_15288]]
@@ -103,3 +106,4 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 - [[TheYellowPerchInvadesTexas_14207]]
 - [[WaterQualityCriteriaToProtectA_14646]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
+- [[SurveyOfFishesOfAravaipaCreekG_20605]]

@@ -23,6 +23,9 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 > - **Centrarchids**: [[Green Sunfish]], [[Bluegill]], [[Black Crappie]], [[Largemouth Bass]] — studied as a warmwater community assemblage in [[Pena Blanca Lake]]. - **Ictalurids**: [[Channel Catfish]] and [[Brown Bullhead]] — subjects of feeding ecology and small-impoundment population studies. -...
 > -- *[[AnnualReportArizonaCooperative_1966]]*
 
+> A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
+> -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AFishPopulationStudyOfThirdSis_1942]]
@@ -167,3 +170,4 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 - [[VirginRiverMonitoringArizonaSu_1994_10_05]]
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
+- [[SurveyOfFishesOfAravaipaCreekG_20605]]

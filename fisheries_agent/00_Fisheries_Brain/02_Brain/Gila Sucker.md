@@ -23,6 +23,9 @@ The Gila Sucker (*Catostomus insignis*) is a native cyprinid fish species endemi
 > - **Habitat**: Artificial pond system (North, Middle, South Ponds/Lakes) at the ASU Research Park, hydrologically linked to the Salt River Project (SRP) canal system, which serves as a colonization source for several non-native taxa (e.g., threadfin shad, red shiner, channel catfish). - **Stockin...
 > -- *[[FishSamplingAtAsuResearchParkA_1988_04_22]]*
 
+> A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
+> -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
+
 ## Mentioned In
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
 - [[DesertFishesRecoveryTeamMeetin_1992_12_07]]
@@ -33,3 +36,4 @@ The Gila Sucker (*Catostomus insignis*) is a native cyprinid fish species endemi
 - [[IchthyologyAdditionsToTheKnown_15323]]
 - [[SurveyOfSaltRiverAquaticFaunaH_12968]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
+- [[SurveyOfFishesOfAravaipaCreekG_20605]]

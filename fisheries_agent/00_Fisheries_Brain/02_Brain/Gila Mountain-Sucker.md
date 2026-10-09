@@ -17,6 +17,10 @@ auto_enriched: true
 > - Domestic sewage effluent from the City of Patagonia caused severe, chronic organic pollution in the uppermost ~0.3–0.6 km of Sonoita Creek during both March and May 1972 sampling. - Drought conditions and upstream aquifer pumping reduced natural stream flow to a level insufficient for effective...
 > -- *[[AssessmentOfTheImpactOfDomesti_12350]]*
 
+> A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
+> -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[StatusOfTheGilaTopminnowAndIts_13684]]
+- [[SurveyOfFishesOfAravaipaCreekG_20605]]
