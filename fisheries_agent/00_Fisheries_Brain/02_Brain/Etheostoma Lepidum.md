@@ -17,6 +17,10 @@ auto_enriched: true
 > - **Hatching temperature range**: Fertilized *F. kansae* eggs hatched successfully between **12.6°C and 35.8°C**. - **Full successful development** (hatch, swim normally, deplete yolk) occurred between **15°C and 34.3°C**; more than half of eggs were successful between **16.8°C and 33.5°C**. - **...
 > -- *[[DevelopmentalRatesAndTolerance_12106]]*
 
+> This comprehensive study analyzed over 500,000 darter eggs from 1954 to 1965 to investigate geographic variation in hybrid survival among etheostomatine fishes (darters). More than 130 hybrid combinations were tested, with both reciprocals reared for 70 combinations. Key findings include: (1)...
+> -- *[[GeographicVariationsInSurvival_14227]]*
+
 ## Mentioned In
 - [[DevelopmentalRatesAndTolerance_12106]]
 - [[LaboratoryHybridCombinationsAm_14219]]
+- [[GeographicVariationsInSurvival_14227]]

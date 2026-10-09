@@ -14,5 +14,9 @@ auto_enriched: true
 > 1. **New Subgenus Established:** *Ozarka* is diagnosed to contain five species previously split between *Oligocephalus* and *Psychromaster*, based on shared breeding tubercle patterns, coloration, and spawning habitat. 2. **Type Species:** *[[Etheostoma punctulatum]]* (Agassiz, 1854), originally ...
 > -- *[[OzarkaANewSubgenusOfEtheostoma_12006]]*
 
+> This comprehensive study analyzed over 500,000 darter eggs from 1954 to 1965 to investigate geographic variation in hybrid survival among etheostomatine fishes (darters). More than 130 hybrid combinations were tested, with both reciprocals reared for 70 combinations. Key findings include: (1)...
+> -- *[[GeographicVariationsInSurvival_14227]]*
+
 ## Mentioned In
 - [[OzarkaANewSubgenusOfEtheostoma_12006]]
+- [[GeographicVariationsInSurvival_14227]]

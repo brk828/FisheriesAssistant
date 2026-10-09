@@ -23,6 +23,9 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 > This 1975 survey by Burgess and Schwartz documents **skeletal and pigmentation anomalies** across 23 fish species collected from freshwater and marine habitats of the Eastern United States, with the majority of specimens originating from North Carolina waters. The study spans **4 freshwater famil...
 > -- *[[Anomalies Encountered in Freshwater and Marine Fishes from the Eastern United States]]*
 
+> This comprehensive study analyzed over 500,000 darter eggs from 1954 to 1965 to investigate geographic variation in hybrid survival among etheostomatine fishes (darters). More than 130 hybrid combinations were tested, with both reciprocals reared for 70 combinations. Key findings include: (1)...
+> -- *[[GeographicVariationsInSurvival_14227]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -72,3 +75,4 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 - [[TheYellowPerchInvadesTexas_14207]]
 - [[TwoNaturalDarterHybridsInvolvi_1980]]
 - [[VariationsOnRereadingWalleyeSc_17403]]
+- [[GeographicVariationsInSurvival_14227]]

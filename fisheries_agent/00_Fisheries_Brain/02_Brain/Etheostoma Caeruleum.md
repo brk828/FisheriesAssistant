@@ -23,8 +23,12 @@ Etheostoma caeruleum, commonly known as the rainbow darter, is a small freshwate
 > **[[Etheostoma caeruleum]] (Rainbow Darter)** - Comprised 0–50% of riffle community; most abundant species overall. - Males outnumbered females ~2:1 across all sub-regions. - Found throughout riffle zones; two nests observed at riffle crest in 6–8 inch deep water (South Branch and West Branch of ...
 > -- *[[DensitiesAndEcologyOfTheDarter_13404]]*
 
+> This comprehensive study analyzed over 500,000 darter eggs from 1954 to 1965 to investigate geographic variation in hybrid survival among etheostomatine fishes (darters). More than 130 hybrid combinations were tested, with both reciprocals reared for 70 combinations. Key findings include: (1)...
+> -- *[[GeographicVariationsInSurvival_14227]]*
+
 ## Mentioned In
 - [[AspectsOfTheLifeHistoryOfTheOz_15231]]
 - [[DensitiesAndEcologyOfTheDarter_13404]]
 - [[LaboratoryHybridCombinationsAm_14219]]
 - [[TwoNaturalDarterHybridsInvolvi_1980]]
+- [[GeographicVariationsInSurvival_14227]]

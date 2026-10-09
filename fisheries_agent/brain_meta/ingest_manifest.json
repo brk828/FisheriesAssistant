@@ -15,6 +15,15 @@
   "status": "skipped",
   "timestamp": "2026-10-09T17:14:13+00:00"
  },
+ "5e48089f56274f748af6a8c67c09ec5104b7e3b04aab4970e8b77e7d2c37611f": {
+  "citation_source": "minckley-sheet",
+  "file": "14227.pdf",
+  "method": "ocr",
+  "note": "GeographicVariationsInSurvival_14227.md",
+  "source_id": "X-5e48089f",
+  "status": "done",
+  "timestamp": "2026-10-09T20:41:31+00:00"
+ },
  "82eacd980e75f45f3c58891eaab81bace3ffa8cbb68413435d2f59c3a8bf7b38": {
   "citation_source": "minckley-sheet",
   "file": "15621.pdf",

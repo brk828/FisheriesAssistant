@@ -17,6 +17,9 @@ Percina caprodes, commonly known as the logperch, is a benthic darter species na
 > - **Near-universal hybridization capacity**: Virtually any two darter species can be experimentally hybridized to produce viable larvae, regardless of phylogenetic distance — supporting and extending the conclusions of [[C. Hubbs and Strawn 1957a]]. - **Data scope**: This paper adds 25 previously...
 > -- *[[LaboratoryHybridCombinationsAm_14219]]*
 
+> This comprehensive study analyzed over 500,000 darter eggs from 1954 to 1965 to investigate geographic variation in hybrid survival among etheostomatine fishes (darters). More than 130 hybrid combinations were tested, with both reciprocals reared for 70 combinations. Key findings include: (1)...
+> -- *[[GeographicVariationsInSurvival_14227]]*
+
 ## Mentioned In
 - [[DensitiesAndEcologyOfTheDarter_13404]]
 - [[GeographicVariationsInEggCompl_14245]]
@@ -25,3 +28,4 @@ Percina caprodes, commonly known as the logperch, is a benthic darter species na
 - [[NoticeOfACollectionOfFishesMad_1902]]
 - [[RelativeVariabilityOfHybridsBe_14215]]
 - [[TheRelationOfHydrologicalCondi_20023]]
+- [[GeographicVariationsInSurvival_14227]]

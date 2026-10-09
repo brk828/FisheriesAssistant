@@ -20,8 +20,12 @@ Etheostoma blennioides, commonly known as the greenside darter, is a small fresh
 > **[[Etheostoma blennioides]] (Greenside Darter)** - Females slightly outnumbered males (~1.1:1) consistently across sub-regions. - Ranges far upstream but replaced by *E. caeruleum* and *E. zonale* in smaller headwater streams. - Preferred lower two-thirds of riffle; generally absent from vegetat...
 > -- *[[DensitiesAndEcologyOfTheDarter_13404]]*
 
+> This comprehensive study analyzed over 500,000 darter eggs from 1954 to 1965 to investigate geographic variation in hybrid survival among etheostomatine fishes (darters). More than 130 hybrid combinations were tested, with both reciprocals reared for 70 combinations. Key findings include: (1)...
+> -- *[[GeographicVariationsInSurvival_14227]]*
+
 ## Mentioned In
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
 - [[DensitiesAndEcologyOfTheDarter_13404]]
 - [[ProvenanceAndDispositionOfFish_16999]]
 - [[SystematicStudiesOfDartersFrom_1963]]
+- [[GeographicVariationsInSurvival_14227]]
