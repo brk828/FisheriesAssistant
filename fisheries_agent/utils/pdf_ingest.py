@@ -23,7 +23,8 @@ Pipeline per PDF
      without this step a new note would not surface for a topic question. No LLM involved.
   6. brain_meta/ingest_manifest.json records each file (by hash) so reruns skip finished work.
 
-Also: python -m utils.pdf_ingest stubs [note stems...]   (re)applies step 5 to ingested notes; safe to repeat.
+Newly created stubs also get a short LLM `## Summary` (part of the same consent/estimate).
+Also: python -m utils.pdf_ingest stubs [note stems...] [--summaries]   (re)applies step 5 to ingested notes; safe to repeat.
 """
 import argparse
 import hashlib
@@ -69,6 +70,10 @@ The text may come from OCR; silently fix obvious scan errors (e.g. 'f1sh' -> 'fi
 
 CITE_SYSTEM = """You read the first page of a scientific document and report its bibliographic details. Reply with only a JSON object with these keys (use "" when not stated on the page; never guess):
 "title", "authors" (format 'K. J. Hartman, C. D. Smith': initials then surname, comma-separated; an organization name if there are no personal authors), "year" (4 digits), "publication" (journal/series/report series name only), "volume", "issue", "pages", "doi", "document_type" (Journal Article, Report, Thesis, Book Chapter, Letter, Other)."""
+
+STUB_SYSTEM = """You write short concept-note summaries for a fisheries knowledge base. You get the text of one source note and a list of concept names that the note links to. For each concept write a 2-3 sentence plain-language summary of what it is and what this source says about it. Use only what the source supports, plus the basic identity of well-known species or terms; never invent findings. Reply with only a JSON object mapping each concept name exactly as given to its summary."""
+STUB_BATCH = 20
+STUB_SOURCE_CHARS = 12_000
 
 REQUIRED_HEADERS = ("## Executive Summary", "## Key Findings")
 
@@ -457,12 +462,12 @@ def _stub_index() -> dict:
 
 
 def update_stubs(stem: str, note: str, index: dict = None) -> tuple:
-    """Adds the note to the stub of every concept it links; returns (updated, created) counts."""
+    """Adds the note to the stub of every concept it links; returns (number updated, names of stubs created)."""
     index = _stub_index() if index is None else index
     excerpt = _excerpt(note)
     quote = f"> {excerpt}\n> -- *[[{stem}]]*\n" if excerpt else ""
     names = list(dict.fromkeys(n.strip() for n in _WIKILINK.findall(note) if n.strip() and n.strip() != stem))
-    updated = created = 0
+    updated, created = 0, []
     STUBS_DIR.mkdir(parents=True, exist_ok=True)
     for name in names:
         if _STUB_BAD_CHARS.search(name) or len(name) > 100:
@@ -472,7 +477,7 @@ def update_stubs(stem: str, note: str, index: dict = None) -> tuple:
             path = STUBS_DIR / f"{name}.md"
             path.write_bytes(f"---\ntype: concept\n---\n# {name}\n\n## Context\n\n## Mentioned In\n".replace("\n", "\r\n").encode("utf-8"))
             index[name.lower()] = path
-            created += 1
+            created.append(name)
         raw = path.read_bytes().decode("utf-8", errors="replace")
         eol = "\r\n" if "\r\n" in raw else "\n"  # the vault's stubs use CRLF; keep each file's own style
         text = raw.replace("\r\n", "\n")
@@ -495,17 +500,73 @@ def update_stubs(stem: str, note: str, index: dict = None) -> tuple:
     return updated, created
 
 
+def summarize_new_stubs(client, model: str, note: str, names: list, index: dict = None) -> int:
+    """One LLM call per batch of new concept names; writes a `## Summary` into each stub. Returns how many were written."""
+    index = _stub_index() if index is None else index
+    written = 0
+    for i in range(0, len(names), STUB_BATCH):
+        batch = names[i:i + STUB_BATCH]
+        user = f"SOURCE NOTE:\n{note[:STUB_SOURCE_CHARS]}\n\nCONCEPTS:\n" + "\n".join(f"- {n}" for n in batch)
+        m = re.search(r"\{.*\}", _chat(client, model, STUB_SYSTEM, user, max_tokens=150 * len(batch) + 100), re.S)
+        try:
+            data = json.loads(m.group(0)) if m else {}
+        except json.JSONDecodeError:
+            continue
+        for name in batch:
+            text = re.sub(r"\s+", " ", str(data.get(name) or "")).strip()
+            path = index.get(name.lower())
+            if not text or path is None:
+                continue
+            raw = path.read_bytes().decode("utf-8", errors="replace")
+            eol = "\r\n" if "\r\n" in raw else "\n"
+            body = raw.replace("\r\n", "\n")
+            if re.search(r"^## Summary\s*$", body, re.M):
+                continue
+            body, n = re.subn(r"^(# .+\n)\n?", lambda x: x.group(1) + f"\n## Summary\n{text}\n\n", body, count=1, flags=re.M)
+            if n:
+                path.write_bytes(body.replace("\n", eol).encode("utf-8"))
+                written += 1
+    return written
+
+
+def stubs_without_summary(note: str, index: dict) -> list:
+    out = []
+    for name in dict.fromkeys(n.strip() for n in _WIKILINK.findall(note) if n.strip()):
+        path = index.get(name.lower())
+        if path and not re.search(r"^## Summary\s*$", path.read_text(encoding="utf-8", errors="replace"), re.M):
+            out.append(name)
+    return out
+
+
 def cmd_stubs(args) -> int:
     manifest = _load_json(MANIFEST_PATH)
     stems = [Path(a).stem for a in args.notes] or [r["note"][:-3] for r in manifest.values() if r.get("status") == "done"]
     index = _stub_index()
+    todo = []
     for stem in stems:
         path = SOURCES_DIR / f"{stem}.md"
         if not path.is_file():
             print(f"Not found: {path.name}")
             continue
-        u, c = update_stubs(stem, path.read_text(encoding="utf-8"), index)
-        print(f"{stem}: {u} stubs updated ({c} new)")
+        note = path.read_text(encoding="utf-8")
+        u, created = update_stubs(stem, note, index)
+        print(f"{stem}: {u} stubs updated ({len(created)} new)")
+        if args.summaries:
+            missing = stubs_without_summary(note, index)
+            if missing:
+                todo.append((stem, note, missing))
+    if args.summaries and todo:
+        model = os.getenv("OPENROUTER_INGEST_MODEL") or os.getenv("OPENROUTER_MODEL") or DEFAULT_MODEL
+        n = sum(len(m) for _, _, m in todo)
+        in_tok, out_tok = sum(_stub_tokens(note, len(m))[0] for _, note, m in todo), n * 150
+        print(f"\n{n} stubs have no summary. Model: {model}. {_cost_text(model, in_tok, out_tok)}")
+        print("This sends the text of the related notes to OpenRouter.")
+        if input("Proceed? [y/N] ").strip().lower() in ("y", "yes"):
+            client = _client()
+            for stem, note, missing in todo:
+                print(f"{stem}: {summarize_new_stubs(client, model, note, missing, index)} summaries written")
+        else:
+            print("Cancelled; nothing was sent.")
     return 0
 
 
@@ -513,6 +574,128 @@ def cmd_stubs(args) -> int:
 def _price(model: str):
     from utils import brain_enrich
     return brain_enrich._model_price(model)
+
+
+def _cost_text(model: str, in_tok: int, out_tok: int) -> str:
+    price = _price(model)
+    if not price:
+        return f"Estimated usage ~{in_tok:,} input + ~{out_tok:,} output tokens; price unavailable (check openrouter.ai/models)."
+    return f"Estimated usage ~{in_tok:,} input + ~{out_tok:,} output tokens; about ${in_tok * price[0] + out_tok * price[1]:.2f}."
+
+
+def _stub_tokens(note: str, n_names: int) -> tuple:
+    return min(len(note), STUB_SOURCE_CHARS) // 4 + len(STUB_SYSTEM) // 4 + n_names * 10, n_names * 150
+
+
+def estimate_tokens(char_counts: list) -> tuple:
+    """(input, output) tokens for the whole pipeline per document: note, citation read, concept-stub summaries (~15 new)."""
+    in_tok = out_tok = 0
+    for chars in char_counts:
+        in_tok += min(chars, MAX_NOTE_CHARS) // 4 + len(NOTE_SYSTEM) // 4 + 1200        # note
+        in_tok += CITE_SAMPLE_CHARS // 4 + len(CITE_SYSTEM) // 4                        # citation read
+        si, so = _stub_tokens("x" * min(chars, STUB_SOURCE_CHARS), 15)
+        in_tok, out_tok = in_tok + si, out_tok + so + NOTE_OUT_TOKENS + 150 + 100
+    return in_tok, out_tok
+
+
+def quick_estimate(path: Path) -> tuple:
+    """(characters, pages, pages needing OCR) from the text layer alone; no OCR is run. Unreadable PDFs return (0, 0, 0)."""
+    try:
+        from pypdf import PdfReader
+        pages = PdfReader(str(path)).pages
+        sizes = [len((pg.extract_text() or "").strip()) for pg in pages]
+    except Exception:
+        return 0, 0, 0
+    ocr = sum(1 for n in sizes if n < MIN_PAGE_CHARS)
+    return sum(n for n in sizes if n >= MIN_PAGE_CHARS) + ocr * 3500, len(sizes), ocr  # ~3,500 characters per scanned page
+
+
+class PdfWatcher:
+    """Polls pdfs_to_process/ for PDFs that are not in the manifest. Only detects and announces; asking and
+    processing happen on the caller's thread through offer(), so prompts never fight over the console."""
+
+    def __init__(self, interval: int = 60):
+        import threading
+        self.interval = interval
+        self._lock = threading.Lock()
+        self._stop = threading.Event()
+        self._thread = threading.Thread(target=self._run, name="pdf-watcher", daemon=True)
+        self._hashes = {}      # (name, size, mtime) -> sha256, so unchanged files are not rehashed every minute
+        self._seen = set()     # hashes already announced
+        self._declined = set() # hashes the user said no to this session
+        self._pending = []     # [(path, hash)]
+
+    def start(self):
+        self._thread.start()
+
+    def stop(self):
+        self._stop.set()
+
+    def _run(self):
+        self.scan(announce=True)
+        while not self._stop.wait(self.interval):
+            try:
+                self.scan(announce=True)
+            except Exception:
+                pass  # a bad poll must never take the agent down
+
+    def scan(self, announce: bool = False) -> list:
+        """Refreshes and returns the pending [(path, hash)] list."""
+        import time
+        manifest = _load_json(MANIFEST_PATH)
+        found = []
+        for p in list_pdfs():
+            try:
+                st = p.stat()
+            except OSError:
+                continue
+            if time.time() - st.st_mtime < 5:
+                continue  # still being copied
+            key = (p.name, st.st_size, st.st_mtime)
+            d = self._hashes.get(key) or self._hashes.setdefault(key, file_hash(p))
+            if manifest.get(d, {}).get("status") == "done" or d in self._declined:
+                continue
+            found.append((p, d))
+        with self._lock:
+            self._pending = found
+            fresh = [p for p, d in found if d not in self._seen]
+            self._seen.update(d for _, d in found)
+        if announce and fresh:
+            names = ", ".join(p.name for p in fresh)
+            print(f"\n📄 New PDF in pdfs_to_process: {names}\n   Press Enter (or type 'ingest') to review and add to the brain.", flush=True)
+        return found
+
+    def pending(self) -> list:
+        with self._lock:
+            return list(self._pending)
+
+    def offer(self) -> bool:
+        """Asks (with a cost estimate) whether to add the pending PDFs; processes them on yes. Returns True if it asked."""
+        self.scan()
+        items = self.pending()
+        if not items:
+            return False
+        model = os.getenv("OPENROUTER_INGEST_MODEL") or os.getenv("OPENROUTER_MODEL") or DEFAULT_MODEL
+        print(f"\n📄 {len(items)} PDF(s) waiting to be added to the Fisheries Brain:")
+        sizes = []
+        for p, d in items:
+            chars, pages, ocr = quick_estimate(p)
+            sizes.append(chars)
+            kind = "unreadable (will be tried anyway)" if not pages else (f"{pages} pages, {ocr} need OCR (slower)" if ocr else f"{pages} pages, text-based")
+            print(f"   - {p.name}: {kind}")
+        in_tok, out_tok = estimate_tokens([c or 20_000 for c in sizes])
+        print(f"   Model: {model}. {_cost_text(model, in_tok, out_tok)}")
+        print("   Adding sends each document's text to OpenRouter (note, citation, concept summaries).")
+        answer = input("   Add them to the brain now? [y]es / [n]o (ask again only for new files) / [l]ater: ").strip().lower()
+        if answer in ("y", "yes"):
+            cmd_process(argparse.Namespace(files=[str(p) for p, _ in items], yes=True, limit=0, model=model, no_crossref=False))
+            self.scan()
+        elif answer in ("n", "no"):
+            self._declined.update(d for _, d in items)
+            print("   Skipped for this session.")
+        else:
+            print("   OK, type 'ingest' whenever you want to add them.")
+        return True
 
 
 def cmd_status(_args) -> int:
@@ -575,11 +758,8 @@ def cmd_process(args) -> int:
         return 1
 
     model = args.model or os.getenv("OPENROUTER_INGEST_MODEL") or os.getenv("OPENROUTER_MODEL") or DEFAULT_MODEL
-    in_tok = sum(min(len(ex["text"]), MAX_NOTE_CHARS) // 4 + len(NOTE_SYSTEM) // 4 + 1200 for _, _, ex, _ in prepared)
-    out_tok = len(prepared) * (NOTE_OUT_TOKENS + 150)
-    price = _price(model)
-    cost = f"about ${in_tok * price[0] + out_tok * price[1]:.2f}" if price else "price unavailable (check openrouter.ai/models)"
-    print(f"\nModel: {model}\nEstimated usage: ~{in_tok:,} input + ~{out_tok:,} output tokens; {cost}.")
+    in_tok, out_tok = estimate_tokens([len(ex["text"]) for _, _, ex, _ in prepared])
+    print(f"\nModel: {model}\n{_cost_text(model, in_tok, out_tok)}")
     print("This sends the full text of each document (and its first page for citation reading) to OpenRouter.")
     if not args.yes and input("Proceed? [y/N] ").strip().lower() not in ("y", "yes"):
         print("Cancelled; nothing was sent.")
@@ -610,12 +790,14 @@ def cmd_process(args) -> int:
             })
             SOURCES_DIR.mkdir(parents=True, exist_ok=True)
             (SOURCES_DIR / f"{stem}.md").write_text(note, encoding="utf-8")
-            upd, new = update_stubs(stem, note)
+            upd, created = update_stubs(stem, note)
+            new = len(created)
+            summarized = summarize_new_stubs(client, model, note, created) if created else 0
             citations[sid] = {k: cite.get(k, "") for k in ("authors", "year", "title", "publication", "type", "doi", "citation_source")}
             _save_json(EXTERNAL_CITATIONS_PATH, citations)
             manifest[d] = _record(p, d, "done", note=f"{stem}.md", method=ex["method"], citation_source=cite.get("citation_source", ""))
             done += 1
-            print(f"   wrote {stem}.md, {upd} concept stubs updated ({new} new)  (citation: {cite.get('citation_source') or 'none'}; {cite.get('authors') or '?'} {cite.get('year') or '?'})")
+            print(f"   wrote {stem}.md, {upd} concept stubs updated ({new} new, {summarized} summarized)  (citation: {cite.get('citation_source') or 'none'}; {cite.get('authors') or '?'} {cite.get('year') or '?'})")
         except Exception as e:
             print(f"   FAILED: {e}")
             manifest[d] = _record(p, d, "failed", reason=str(e))
@@ -635,6 +817,7 @@ def main(argv: list = None) -> int:
     sub.add_parser("status")
     sp = sub.add_parser("stubs")
     sp.add_argument("notes", nargs="*", help="note stems in 01_Sources; default is every ingested note")
+    sp.add_argument("--summaries", action="store_true", help="also write LLM summaries for linked stubs that lack one (asks first)")
     for name in ("extract", "process"):
         sp = sub.add_parser(name)
         sp.add_argument("files", nargs="*", help="PDF names (in pdfs_to_process) or paths; default is all")

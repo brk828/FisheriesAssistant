@@ -115,7 +115,7 @@ python -m utils.brain_enrich titles-llm --limit 20        # LLM titles for sourc
 Fix a wrong or missing alias in `brain_meta/aliases.yaml`; a title can be set by hand in `source_titles.json` with `"from": "manual"`.
 
 ## 🔮 Future Features
-* **Scheduled PDF processor:** `utils/pdf_ingest.py` already converts PDFs from `00_Fisheries_Brain/pdfs_to_process/` into `01_Sources/` notes on demand (OCR where needed, citation read from the PDF). It also updates the `02_Brain/` concept stubs so the new notes are searchable. Still to do: run it on a schedule. Markdown from the Minckley process is added to `01_Sources/` and `02_Brain/` by hand.
+* **Scheduled PDF processor:** `utils/pdf_ingest.py` already converts PDFs from `00_Fisheries_Brain/pdfs_to_process/` into `01_Sources/` notes on demand (OCR where needed, citation read from the PDF). It also updates the `02_Brain/` concept stubs so the new notes are searchable. The running agent checks the folder every minute and, on Enter or `ingest`, shows an estimated cost and asks before adding new PDFs. Markdown from the Minckley process is added to `01_Sources/` and `02_Brain/` by hand.
 * **Project memory, next steps:** optional LLM one-line summaries of key files, and indexing the scientist's own reports (see `todo.md`).
 
 ## �💻 System Dependencies

@@ -4,6 +4,9 @@ auto_enriched: true
 ---
 # Bay Anchovy
 
+## Summary
+Bay Anchovy (Anchoa mitchilli) is one of the natural prey species found in striped bass stomachs collected from mid-Chesapeake Bay and tributaries during the field diet study (January 1990-March 1992, N=788 prey items). It is morphologically similar to the shiners used in laboratory foraging trials.
+
 ## Context
 > This 1962 paper by Reznat M. Darnell reconstructs the ~5,000-year ecological and geological history of [[Lake Pontchartrain]], a Louisiana estuary, tracing its transformation from a marine tidal-flat embayment to a shallow, near-fresh, impounded lake. Using fossil mollusk assemblages and geologic...
 > -- *[[EcologicalHistoryOfLakePontcha_13947]]*

@@ -8,7 +8,7 @@ from pathlib import Path
 from openai import OpenAI, OpenAIError
 from dotenv import load_dotenv
 
-from utils import brain_index, gitsync, project_memory
+from utils import brain_index, gitsync, pdf_ingest, project_memory
 from utils.runner import find_rscript, new_run_dir, run_command, run_r_template, truncate
 from utils.safety import (
     SafetyError, clamp_iterations, parse_zi_formula, project_roots, resolve_in_roots,
@@ -597,6 +597,7 @@ Here is the current scientist's machine layout and project structure configurati
 HELP_TEXT = """Commands at this prompt:
   help      show this list
   clear     reset conversation memory
+  ingest    review PDFs waiting in 00_Fisheries_Brain/pdfs_to_process (checked every minute)
   exit      quit
 
 Maintenance (run in a separate terminal from this folder):
@@ -617,11 +618,19 @@ if __name__ == "__main__":
     print(HELP_TEXT)
     print("-----------------------------------------------------------------")
 
+    # Checks pdfs_to_process/ once a minute; PDFs are only added after the user confirms the cost estimate.
+    pdf_watcher = pdf_ingest.PdfWatcher(interval=60)
+    pdf_watcher.start()
+
     while True:
         try:
             cmd = input("\n🐟 Master Command: ")
             if cmd.lower() == 'exit':
                 break
+            if cmd.strip().lower() in ('ingest', '/ingest') or pdf_watcher.pending():
+                pdf_watcher.offer()
+                if cmd.strip().lower() in ('ingest', '/ingest', ''):
+                    continue
             if cmd.strip().lower() in ('help', '/help', '?'):
                 print(HELP_TEXT)
                 continue

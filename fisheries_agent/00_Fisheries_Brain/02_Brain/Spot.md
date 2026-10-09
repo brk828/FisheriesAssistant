@@ -4,6 +4,9 @@ auto_enriched: true
 ---
 # Spot
 
+## Summary
+Spot (Leiostomus xanthurus) is one of the prey fish species identified in the stomach contents of 300-400 mm total length striped bass collected from mid-Chesapeake Bay and tributaries between January 1990 and March 1992. It was among the species used to calculate the field prey-to-predator size ratios that were compared to laboratory-derived optimal foraging predictions.
+
 ## Context
 > - **[[Bay Anchovy]]** (*Anchoa mitchilli*) — the sole fish species identified as a large, endemic, year-round resident population in the lake; presumably tolerant of a wide salinity range given its residency in a highly fluctuating brackish system. - **[[Gulf Menhaden]]** (*Brevoortia patronus*) ...
 > -- *[[EcologicalHistoryOfLakePontcha_13947]]*

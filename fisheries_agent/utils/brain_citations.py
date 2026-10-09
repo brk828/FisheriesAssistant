@@ -62,9 +62,16 @@ def load() -> dict:
     return {**_load_file(EXTERNAL_CITATIONS_PATH), **_load_file(CITATIONS_PATH)}
 
 
-def lookup(refs: dict, source_id) -> dict:
+def mid_from_stem(stem: str) -> str:
+    """'AModificationOfWinkl_15631' -> '15631'. Only 5-6 digit suffixes count; 4 digits is a year."""
+    m = re.search(r"_(\d{5,6})$", stem or "")
+    return m.group(1) if m else ""
+
+
+def lookup(refs: dict, source_id, stem: str = "") -> dict:
+    """Citation by source_id, falling back to the MID embedded in the note's filename."""
     sid = str(source_id or "").strip()
-    return refs.get(sid) or refs.get(mid_from_source_id(sid)) or {}
+    return refs.get(sid) or refs.get(mid_from_source_id(sid)) or refs.get(mid_from_stem(stem)) or {}
 
 
 def _vault_mids() -> set:
@@ -105,7 +112,30 @@ def import_sheet(text: str) -> int:
     return len(out)
 
 
+def unmatched_report() -> int:
+    """Lists vault sources that still have no sheet/external citation after the filename fallback."""
+    from utils import brain_index
+    refs = load()
+    groups = {"sheet-less ID": [], "no identifier": []}
+    total = 0
+    for p in sorted(brain_index.SOURCES_DIR.glob("*.md")):
+        fm, _ = brain_index._split_frontmatter(p.read_text(encoding="utf-8", errors="replace"))
+        if lookup(refs, fm.get("source_id"), p.stem):
+            continue
+        total += 1
+        sid = str(fm.get("source_id") or "").strip()
+        groups["sheet-less ID" if sid else "no identifier"].append((p.stem, sid))
+    print(f"{total} sources have no sheet/external citation.")
+    for name, items in groups.items():
+        print(f"\n== {name} ({len(items)}) ==")
+        for stem, sid in items:
+            print(f"  {stem}" + (f"  [source_id: {sid}]" if sid else ""))
+    return 0
+
+
 def _main(argv: list) -> int:
+    if argv and argv[0] == "unmatched":
+        return unmatched_report()
     if not argv or argv[0] != "import":
         print(__doc__)
         return 1
