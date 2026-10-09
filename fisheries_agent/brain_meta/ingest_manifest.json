@@ -1,0 +1,20 @@
+{
+ "87f389c0ab983d8e3938cef446dec529ef6b795c1297ee05fc38251dc55e3189": {
+  "citation_source": "crossref",
+  "file": "Nowlin et al. 2006 gape limitation large mouth bass.pdf",
+  "method": "ocr",
+  "note": "GapeLimitationPreySizeRefugesA_2006.md",
+  "source_id": "X-87f389c0",
+  "status": "done",
+  "timestamp": "2026-10-09T16:17:04+00:00"
+ },
+ "d59165ffb821605e339abc5379f200b2ebd08a55e81c11339a4bf730214e11b5": {
+  "citation_source": "crossref",
+  "file": "Hartman 2000 - The influence of size on striped bass foraging.pdf",
+  "method": "text",
+  "note": "TheInfluenceOfSizeOnStripedBas_2000.md",
+  "source_id": "X-d59165ff",
+  "status": "done",
+  "timestamp": "2026-10-09T16:16:14+00:00"
+ }
+}

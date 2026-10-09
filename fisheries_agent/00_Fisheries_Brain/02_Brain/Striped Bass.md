@@ -23,6 +23,9 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This 1990 field report summarizes the third annual collaborative electrofishing and trammel-netting effort on [[Lake Mohave]] (Arizona-Nevada) targeting two Colorado River Basin native fishes of conservation concern: the endangered [[Bonytail]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauche...
 > -- *[[BonytailRazorbackSuckerEffortL_17043]]*
 
+> This laboratory and field study quantified how prey-to-predator size ratio (PPR) affects foraging success in [[Striped Bass]] (*Morone saxatilis*). Capture success declined linearly with increasing PPR (attack success = 0.861 - 1.82PPR), while handling time increased exponentially (h =...
+> -- *[[TheInfluenceOfSizeOnStripedBas_2000]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -126,3 +129,4 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[TripReportTaskForceMonitoringR_1990]]
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[UsFishAndWildlifeServiceMeetin_15771]]
+- [[TheInfluenceOfSizeOnStripedBas_2000]]

@@ -19,6 +19,8 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 SOURCES_DIR = BASE_DIR / "00_Fisheries_Brain" / "01_Sources"
 CITATIONS_PATH = BASE_DIR / "brain_meta" / "citations.json"
+# Non-Minckley sources (utils/pdf_ingest.py), keyed by their full source_id; never overwritten by the sheet import.
+EXTERNAL_CITATIONS_PATH = BASE_DIR / "brain_meta" / "external_citations.json"
 SHEET_ID = "1VdcIpJ4rXUVFOwW6i0VvpDJIgZpCgkElMry7sXPEP34"
 DEFAULT_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv"
 
@@ -47,12 +49,22 @@ def short_author(authors: str) -> str:
     return f"{surnames[0]} et al."
 
 
-def load() -> dict:
+def _load_file(path) -> dict:
     try:
-        data = json.loads(CITATIONS_PATH.read_text(encoding="utf-8"))
+        data = json.loads(path.read_text(encoding="utf-8"))
         return data if isinstance(data, dict) else {}
     except (OSError, ValueError):
         return {}
+
+
+def load() -> dict:
+    """Sheet citations (keyed by MID) plus external ones (keyed by full source_id); the sheet wins on a clash."""
+    return {**_load_file(EXTERNAL_CITATIONS_PATH), **_load_file(CITATIONS_PATH)}
+
+
+def lookup(refs: dict, source_id) -> dict:
+    sid = str(source_id or "").strip()
+    return refs.get(sid) or refs.get(mid_from_source_id(sid)) or {}
 
 
 def _vault_mids() -> set:

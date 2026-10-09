@@ -1,3 +1,4 @@
+import os
 import sys
 import shutil
 import subprocess
@@ -26,6 +27,8 @@ def check_python_dependencies():
         "openai": ("openai", "OpenRouter API communication layer"),
         "pyyaml": ("yaml", "PyYAML framework manifest reader"),
         "pypdf": ("pypdf", "PyPDF background literature text extractor"),
+        "pdf2image": ("pdf2image", "PDF page rasterizer for OCR (needs Poppler)"),
+        "pytesseract": ("pytesseract", "OCR for scanned PDFs (needs Tesseract)"),
         "python-dotenv": ("dotenv", "python-dotenv credential manager")
     }
     
@@ -80,6 +83,52 @@ def check_r_dependencies():
             
     return missing_r
 
+def check_system_dependencies():
+    """Tesseract (OCR) and Poppler (PDF page images) are needed only for scanned PDFs, so a miss is a warning, not a stop."""
+    print("\n📄 Checking PDF OCR tools (used by utils/pdf_ingest.py for scanned PDFs)...")
+    from utils.pdf_ingest import find_poppler, find_tesseract
+    missing = []
+    exe = find_tesseract()
+    if exe:
+        print(f"  [{GREEN}PASS{RESET}] Tesseract OCR found at: {exe}")
+    else:
+        print(f"  [{YELLOW}WARN{RESET}] Tesseract OCR is MISSING! (reads scanned PDF pages)")
+        missing.append("tesseract")
+    if find_poppler()[0]:
+        print(f"  [{GREEN}PASS{RESET}] Poppler (pdftoppm) found.")
+    else:
+        print(f"  [{YELLOW}WARN{RESET}] Poppler is MISSING! (turns PDF pages into images for OCR)")
+        missing.append("poppler")
+    return missing
+
+# package names per installer: (winget id, brew formula, apt package)
+SYSTEM_PACKAGES = {
+    "tesseract": ("UB-Mannheim.TesseractOCR", "tesseract", "tesseract-ocr"),
+    "poppler": ("oschwartz10612.Poppler", "poppler", "poppler-utils"),
+}
+
+def install_system_packages(missing):
+    """Installs OCR tools with the platform's package manager (winget, Homebrew or apt)."""
+    print(f"\n⚡ Installing OCR tools: {missing}...")
+    if sys.platform == "win32" and shutil.which("winget"):
+        cmds = [["winget", "install", "-e", "--id", SYSTEM_PACKAGES[m][0], "--accept-package-agreements", "--accept-source-agreements"] for m in missing]
+    elif sys.platform == "darwin" and shutil.which("brew"):
+        cmds = [["brew", "install", SYSTEM_PACKAGES[m][1]] for m in missing]
+    elif shutil.which("apt-get"):
+        prefix = [] if hasattr(os, "geteuid") and os.geteuid() == 0 else ["sudo"]
+        cmds = [prefix + ["apt-get", "install", "-y"] + [SYSTEM_PACKAGES[m][2] for m in missing]]
+    else:
+        print(f"  [{RED}ERROR{RESET}] No supported package manager found (winget, brew, apt-get).")
+        print("         Install manually: Tesseract (github.com/UB-Mannheim/tesseract/wiki) and Poppler (github.com/oschwartz10612/poppler-windows).")
+        return
+    for cmd in cmds:
+        try:
+            subprocess.run(cmd, check=True)
+            print(f"  [{GREEN}SUCCESS{RESET}] {' '.join(cmd)}")
+        except (subprocess.CalledProcessError, OSError) as e:
+            print(f"  [{RED}ERROR{RESET}] Failed: {' '.join(cmd)} ({e})")
+    print("         If a tool is still reported missing, open a new terminal so PATH refreshes, or set TESSERACT_CMD / POPPLER_PATH in .env.")
+
 def install_python_packages(packages):
     """Programmatically installs missing pip packages."""
     print(f"\n⚡ Installing missing Python packages: {packages}...")
@@ -113,6 +162,7 @@ if __name__ == "__main__":
     
     missing_py = check_python_dependencies()
     missing_r = check_r_dependencies()
+    missing_sys = check_system_dependencies() if not missing_py else []
     
     # R environment evaluation safety fallback
     if missing_r is None:
@@ -121,6 +171,12 @@ if __name__ == "__main__":
         
     print("\n=========================================================")
     
+    if missing_sys and not missing_py and not missing_r:
+        print(f"⚠️ {YELLOW}Optional:{RESET} {missing_sys} not found. Only scanned PDFs need them; text-based PDFs and everything else work without.")
+        if input("Install them now? (y/n): ").strip().lower() in ["y", "yes"]:
+            install_system_packages(missing_sys)
+            print(" Re-run 'python verify_and_install_deps.py' to confirm.")
+            sys.exit(2)
     if not missing_py and not missing_r:
         print(f"🎉 {GREEN}HEALTH CHECK PASSED!{RESET} Your environment is fully configured.")
         print(" Next: run 'start.bat' (or 'python start.py') to continue setup.")
@@ -141,6 +197,8 @@ if __name__ == "__main__":
             install_python_packages(missing_py)
         if missing_r:
             install_r_packages(missing_r)
+        if missing_sys:
+            install_system_packages(missing_sys)
             
         print("\n=========================================================")
         print(f"🏁 {GREEN}INSTALLATION ROUTINE COMPLETED.{RESET}")

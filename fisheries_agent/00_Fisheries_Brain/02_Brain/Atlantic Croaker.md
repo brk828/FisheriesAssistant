@@ -23,9 +23,13 @@ The Atlantic Croaker (*Micropogonias undulatus*) is a sciaenid fish species comm
 > - **[[Tarpon]]** (*Megalops atlanticus*): 34 individuals released into Victor Braunig Reservoir (Dec 1984–Mar 1985) as survivors/controls from freshwater cold-tolerance laboratory trials. Released into a heated power-plant reservoir rather than returned to the coast due to cool seasonal ocean tem...
 > -- *[[SpeciesStockingHistoryInTexasD_1987]]*
 
+> This laboratory and field study quantified how prey-to-predator size ratio (PPR) affects foraging success in [[Striped Bass]] (*Morone saxatilis*). Capture success declined linearly with increasing PPR (attack success = 0.861 - 1.82PPR), while handling time increased exponentially (h =...
+> -- *[[TheInfluenceOfSizeOnStripedBas_2000]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[EcologicalHistoryOfLakePontcha_13947]]
 - [[EstuarineFishesOfLouisiana_1966_11_18]]
 - [[ExperimentalIntroductionOfFish_1955]]
 - [[SpeciesStockingHistoryInTexasD_1987]]
+- [[TheInfluenceOfSizeOnStripedBas_2000]]

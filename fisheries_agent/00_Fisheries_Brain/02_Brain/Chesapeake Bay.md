@@ -23,6 +23,9 @@ The Chesapeake Bay is a major Atlantic estuarine system and historically signifi
 > - **Water Source:** The hatchery's primary water supply is [[McKinney Lake]], which drains into [[Hitchcock Creek]], a tributary of the [[Pee Dee River]] — situating the facility within the greater Atlantic slope drainage system. - **Habitat Infrastructure:** Consists of 23 earthen ponds, 16 tank...
 > -- *[[StationProfileOfMckinneyLakeNa_1994]]*
 
+> This laboratory and field study quantified how prey-to-predator size ratio (PPR) affects foraging success in [[Striped Bass]] (*Morone saxatilis*). Capture success declined linearly with increasing PPR (attack success = 0.861 - 1.82PPR), while handling time increased exponentially (h =...
+> -- *[[TheInfluenceOfSizeOnStripedBas_2000]]*
+
 ## Mentioned In
 - [[AnEvaluationOfStripedBassAngli_1969]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -32,3 +35,4 @@ The Chesapeake Bay is a major Atlantic estuarine system and historically signifi
 - [[StationProfileOfMckinneyLakeNa_1994]]
 - [[StationProfileOfTheB_1993]]
 - [[UseOfMSInAnesthetizingAndTrans_11291]]
+- [[TheInfluenceOfSizeOnStripedBas_2000]]

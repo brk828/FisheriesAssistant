@@ -23,6 +23,9 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 > - **Habitat**: Introduced population inhabiting an engineered irrigation canal system (Coachella Canal), sampled across three isolated sections (blocked by nets and earthen dikes) during a water outage, including a concrete box siphon structure. - **Sampling method**: Emulsifiable rotenone applie...
 > -- *[[AgeAndGrowthAndLengthWeightRel_1983]]*
 
+> This experimental pond study examined the top-down effects of piscivorous [[Largemouth Bass]] (*Micropterus salmoides*) on nutrients, turbidity, phytoplankton, zooplankton, and fish communities in shallow eutrophic ponds. The fish assemblage included [[Western Mosquitofish]] (*Gambusia affinis*),...
+> -- *[[GapeLimitationPreySizeRefugesA_2006]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -215,3 +218,4 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
 - [[WhyTheMassachusettsDivisionOfF_15491]]
+- [[GapeLimitationPreySizeRefugesA_2006]]

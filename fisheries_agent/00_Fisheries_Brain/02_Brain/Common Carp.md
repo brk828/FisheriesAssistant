@@ -23,6 +23,9 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 > Species recorded in the creel census (minimum 13 species): - **[[Yellow Bass]]** (*Roccus mississippiensis*) — dominant catch species; population skewed toward older fish prior to 1955 mortality event. - **[[Black Bullhead]]** (*Ictalurus melas*, referred to as "bullheads") — numerically stable c...
 > -- *[[AnglerHarvestInTheSummersOfToA_1957_12_12]]*
 
+> This experimental pond study examined the top-down effects of piscivorous [[Largemouth Bass]] (*Micropterus salmoides*) on nutrients, turbidity, phytoplankton, zooplankton, and fish communities in shallow eutrophic ponds. The fish assemblage included [[Western Mosquitofish]] (*Gambusia affinis*),...
+> -- *[[GapeLimitationPreySizeRefugesA_2006]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -166,3 +169,4 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 - [[VerdeRiverFishResearch_1998_02_17]]
 - [[VerdeRiverFishSampling_1989_03_06]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
+- [[GapeLimitationPreySizeRefugesA_2006]]

@@ -29,6 +29,7 @@ TITLES_PATH = META_DIR / "source_titles.json"
 AUTO_ALIASES_PATH = META_DIR / "aliases_auto.json"
 MANUAL_ALIASES_PATH = META_DIR / "aliases.yaml"
 CITATIONS_PATH = META_DIR / "citations.json"
+EXTERNAL_CITATIONS_PATH = META_DIR / "external_citations.json"
 
 MANUAL_ALIASES_TEMPLATE = """# Hand-maintained species/name aliases. Entries here always win over aliases_auto.json.
 #
@@ -483,7 +484,7 @@ def llm_titles(assume_yes: bool = False, limit: int = 0, model: str = "") -> Non
 
 def metadata_signature() -> str:
     parts = []
-    for p in (TITLES_PATH, AUTO_ALIASES_PATH, MANUAL_ALIASES_PATH, CITATIONS_PATH):
+    for p in (TITLES_PATH, AUTO_ALIASES_PATH, MANUAL_ALIASES_PATH, CITATIONS_PATH, EXTERNAL_CITATIONS_PATH):
         parts.append(f"{int(p.stat().st_mtime)}:{p.stat().st_size}" if p.exists() else "-")
     return "|".join(parts)
 

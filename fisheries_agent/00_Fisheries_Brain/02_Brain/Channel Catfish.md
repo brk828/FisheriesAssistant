@@ -23,6 +23,9 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > | Rank | Species | % of Collection | Number Collected | |------|---------|------------------|-------------------| | 1 | Humpback Chub (*Gila cypha*) | 47.4 | 87 | | 2 | [[Flannelmouth Sucker]] | 30.4 | 56 | | 3 | [[Speckled Dace]] | 11.9 | 22 | | 4 | [[Common Carp]] | 5.9 | 11 | | 5 | [[Channel C...
 > -- *[[AdditionalStudiesOnTheLittleCo_18500]]*
 
+> This experimental pond study examined the top-down effects of piscivorous [[Largemouth Bass]] (*Micropterus salmoides*) on nutrients, turbidity, phytoplankton, zooplankton, and fish communities in shallow eutrophic ponds. The fish assemblage included [[Western Mosquitofish]] (*Gambusia affinis*),...
+> -- *[[GapeLimitationPreySizeRefugesA_2006]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -260,3 +263,4 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[WaterQualityCriteriaToProtectA_14646]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
+- [[GapeLimitationPreySizeRefugesA_2006]]

@@ -221,7 +221,7 @@ def build_index(verbose: bool = True) -> None:
         title = _flatten(fm.get("title")) or titles.get(p.stem, {}).get("title") or p.stem
         meta = " | ".join(f"{k}: {_flatten(fm[k])}" for k in _META_FIELDS if fm.get(k))
         author, year = _author_and_year(p.stem, fm)
-        ref = refs.get(brain_citations.mid_from_source_id(fm.get("source_id")), {})
+        ref = brain_citations.lookup(refs, fm.get("source_id"))
         author, year = ref.get("authors") or author, ref.get("year") or year
         cite_title = ref.get("title") or title
         short = brain_citations.short_author(author)
@@ -303,7 +303,7 @@ def _terms(query: str):
 
 
 def _match_expr(terms, columns: str = "") -> str:
-    quoted = " OR ".join(f'"{t}"' for t in terms)
+    quoted = " OR ".join('"' + t.replace('"', '""') + '"' for t in terms)
     return f"{columns}({quoted})" if columns else quoted
 
 

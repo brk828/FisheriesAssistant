@@ -53,7 +53,8 @@ fisheries_agent/
     ├── brain_index.py           # Local SQLite FTS5 index; stub-first search of the vault
     ├── project_memory.py        # Per-project memory (key files, notes, run history) in project_memory/<project>.yaml
     ├── brain_enrich.py          # Builds source titles and species aliases (optional LLM title pass)
-    └── pdf_processor.py         # (future) Scheduled PDF-to-markdown job
+    ├── brain_citations.py       # Citations: Minckley sheet import + external (non-Minckley) citations
+    └── pdf_ingest.py            # PDFs -> notes: text/OCR, citation from the PDF, LLM synthesis
 ```
 
 ## 🚀 Installation & Onboarding
@@ -106,17 +107,20 @@ The index (`.brain_index.sqlite`, gitignored) builds automatically on first use 
 python -m utils.brain_index "razorback sucker spawning"   # try a search without the agent
 python -m utils.brain_enrich                              # rebuild titles and aliases (local only)
 python -m utils.brain_citations import                  # refresh authors/years/titles from the library spreadsheet
+python -m utils.pdf_ingest stubs                        # re-apply concept-stub updates for ingested notes
+python -m utils.pdf_ingest status                       # PDFs waiting in pdfs_to_process (extract = text/OCR + citation only; process = notes, asks before sending text)
 python -m utils.brain_eval                                # run the retrieval test set (local, no LLM)
 python -m utils.brain_enrich titles-llm --limit 20        # LLM titles for sources lacking one; shows a cost estimate and asks first
 ```
 Fix a wrong or missing alias in `brain_meta/aliases.yaml`; a title can be set by hand in `source_titles.json` with `"from": "manual"`.
 
 ## 🔮 Future Features
-* **Scheduled PDF processor:** a background job that watches `00_Fisheries_Brain/pdfs_to_process/`, summarizes new PDFs into `01_Sources/`, and creates context links between notes (reusing logic from a separate literature-conversion project). Until then, add markdown files to `01_Sources/` and `02_Brain/` by hand.
+* **Scheduled PDF processor:** `utils/pdf_ingest.py` already converts PDFs from `00_Fisheries_Brain/pdfs_to_process/` into `01_Sources/` notes on demand (OCR where needed, citation read from the PDF). It also updates the `02_Brain/` concept stubs so the new notes are searchable. Still to do: run it on a schedule. Markdown from the Minckley process is added to `01_Sources/` and `02_Brain/` by hand.
 * **Project memory, next steps:** optional LLM one-line summaries of key files, and indexing the scientist's own reports (see `todo.md`).
 
 ## �💻 System Dependencies
 Currently supported platform: **Windows**.
 Ensure the host operating system has the following core binaries globally accessible:
-* **Python 3.10+** (`openai`, `pyyaml`, `pypdf`, `python-dotenv`)
+* **Python 3.10+** (`openai`, `pyyaml`, `pypdf`, `python-dotenv`; PDF ingest also `pdf2image`, `pytesseract`)
+* **Tesseract OCR and Poppler** (only for scanned PDFs in `pdf_ingest`); `verify_and_install_deps.py` checks for them and offers to install via winget, Homebrew or apt
 * **R Environment** (`glmmTMB`, `nimble`, `vegan`, `ggplot2`)

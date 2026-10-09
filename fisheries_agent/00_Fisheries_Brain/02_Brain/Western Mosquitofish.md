@@ -23,6 +23,9 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 > This is a 1984 research proposal submitted by Dr. David L. Galat (Arizona State University) to the U.S. Fish & Wildlife Service, targeting management needs at the [[San Bernardino National Wildlife Refuge]] (SBNWR) in the Yaqui River Basin, Arizona. The proposal addresses two federally endangered...
 > -- *[[InteractionsAmongPoeciliopsisO_16885]]*
 
+> This experimental pond study examined the top-down effects of piscivorous [[Largemouth Bass]] (*Micropterus salmoides*) on nutrients, turbidity, phytoplankton, zooplankton, and fish communities in shallow eutrophic ponds. The fish assemblage included [[Western Mosquitofish]] (*Gambusia affinis*),...
+> -- *[[GapeLimitationPreySizeRefugesA_2006]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
@@ -54,3 +57,4 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 - [[VerdeRiverFishSampling_1989_03_06]]
 - [[VirginRiverMonitoringNevadaSum_1995_05_31]]
 - [[YaquiChubStockingIntoSanBernar_1980_10_31]]
+- [[GapeLimitationPreySizeRefugesA_2006]]

@@ -23,6 +23,9 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This U.S. Bureau of Reclamation study (Mueller, Bryant & Burke) examined fishery impacts of concrete-lining a 3.4 km section of the [[Coachella Canal]] in Imperial County, California, by dewatering and directly sampling the fish community in November 1984. The study is a direct follow-up to pre-l...
 > -- *[[AnExaminationOfTheFisheryImpac_15463]]*
 
+> This experimental pond study examined the top-down effects of piscivorous [[Largemouth Bass]] (*Micropterus salmoides*) on nutrients, turbidity, phytoplankton, zooplankton, and fish communities in shallow eutrophic ponds. The fish assemblage included [[Western Mosquitofish]] (*Gambusia affinis*),...
+> -- *[[GapeLimitationPreySizeRefugesA_2006]]*
+
 ## Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -256,3 +259,4 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
 - [[WaterQualityCriteriaToProtectA_14646]]
 - [[WhyTheMassachusettsDivisionOfF_15491]]
+- [[GapeLimitationPreySizeRefugesA_2006]]

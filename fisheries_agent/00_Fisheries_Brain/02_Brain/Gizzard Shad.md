@@ -23,6 +23,9 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 > **Community composition observed via minnow-seine sampling:** - [[Largemouth Bass]] and [[Bluegill Sunfish]] were the dominant/near-universal species (present in >80% of ponds examined; other species found in <20% of ponds). - Secondary species included [[White Crappie]] and [[Green Sunfish]] (mo...
 > -- *[[CatalogingOfSmallImpoundmentOf_12167]]*
 
+> This experimental pond study examined the top-down effects of piscivorous [[Largemouth Bass]] (*Micropterus salmoides*) on nutrients, turbidity, phytoplankton, zooplankton, and fish communities in shallow eutrophic ponds. The fish assemblage included [[Western Mosquitofish]] (*Gambusia affinis*),...
+> -- *[[GapeLimitationPreySizeRefugesA_2006]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -59,3 +62,4 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 - [[UnexploitedPotentialsOfOurFres_1958]]
 - [[UtilizationOfGizzardShadByGame_1958_11_20]]
 - [[YoungFishDistributionInBackwat_1989]]
+- [[GapeLimitationPreySizeRefugesA_2006]]
