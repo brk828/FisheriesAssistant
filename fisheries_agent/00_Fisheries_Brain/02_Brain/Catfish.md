@@ -23,6 +23,9 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 > - **Species Diversity Captured:** 20+ taxa recorded, including: - Rough/commercial fish: [[Carp]] (*Cyprinus carpio*), [[Buffalo (Fish)|Buffalo]] (Bigmouth *Megastomatobus cyprinella*, Black *Ictiobus niger*, Smallmouth *Ictiobus bubalus*), [[Carpsucker]] (*Carpiodes* spp.), [[Catfish]] (Blue *Ic...
 > -- *[[SelectivityAndEffectivenessOfC_12188]]*
 
+> This 1968 economic study examined the processing and marketing potential of commercial fishery products from [[Montana]] reservoirs, focusing on [[Carp]], [[Buffalofish]], [[Sucker]], and [[Goldeye]]. The research found that Montana's commercial fisheries face significant challenges including...
+> -- *[[AnEconomicStudyOfTheProcessing_15621]]*
+
 ## Mentioned In
 - [[AsuProfsStudyEndangeredFishes_12227]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
@@ -34,3 +37,4 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 - [[SelectivityAndEffectivenessOfC_12188]]
 - [[StationProfileOfWarmSpringsNat_1993]]
 - [[TheSportFisheryOfTenkillerFerr_16926]]
+- [[AnEconomicStudyOfTheProcessing_15621]]

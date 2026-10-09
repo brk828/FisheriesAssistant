@@ -23,8 +23,12 @@ Suckers are freshwater fish of the family Catostomidae, commonly represented by 
 > 1. **Carrying capacity is not truly constant** in northern lakes: it fluctuates due to (a) short- and long-term variation in fish food supply, and (b) longer-cycle variation in fish population structure — meaning fish populations are rarely, if ever, sitting exactly at carrying capacity. 2. **Sta...
 > -- *[[FishPopulationConceptsAndManag_1949_03_07]]*
 
+> This 1968 economic study examined the processing and marketing potential of commercial fishery products from [[Montana]] reservoirs, focusing on [[Carp]], [[Buffalofish]], [[Sucker]], and [[Goldeye]]. The research found that Montana's commercial fisheries face significant challenges including...
+> -- *[[AnEconomicStudyOfTheProcessing_15621]]*
+
 ## Mentioned In
 - [[FishPopulationConceptsAndManag_1949_03_07]]
 - [[RadioactiveMaterialsInAquaticA_13967]]
 - [[TheFoodAndFeedingChronologyOfY_1979]]
 - [[ToxicFreshWaterAlgae_14366]]
+- [[AnEconomicStudyOfTheProcessing_15621]]

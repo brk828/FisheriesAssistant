@@ -17,7 +17,11 @@ Buffalofish are large, bottom-feeding cyprinids (family Cyprinidae) native to No
 > - **Habitat**: Native Arizona reptiles and amphibians occupy arid and microhabitat-dependent niches described as "fragile." The memo explicitly flags **habitat loss and degradation** — linked to intensified collection activity — as a major threat, noting it is "probably the single most important ...
 > -- *[[CommissionPresentationOnCaptiv_1994_12_08]]*
 
+> This 1968 economic study examined the processing and marketing potential of commercial fishery products from [[Montana]] reservoirs, focusing on [[Carp]], [[Buffalofish]], [[Sucker]], and [[Goldeye]]. The research found that Montana's commercial fisheries face significant challenges including...
+> -- *[[AnEconomicStudyOfTheProcessing_15621]]*
+
 ## Mentioned In
 - [[CommissionPresentationOnCaptiv_1994_12_08]]
 - [[OccurrenceOfTwoSpeciesOfFreshw_11814]]
 - [[TheConservationDilemmaOfNonNat_15856]]
+- [[AnEconomicStudyOfTheProcessing_15621]]

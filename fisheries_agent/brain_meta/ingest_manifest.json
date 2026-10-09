@@ -15,6 +15,15 @@
   "status": "skipped",
   "timestamp": "2026-10-09T17:14:13+00:00"
  },
+ "82eacd980e75f45f3c58891eaab81bace3ffa8cbb68413435d2f59c3a8bf7b38": {
+  "citation_source": "minckley-sheet",
+  "file": "15621.pdf",
+  "method": "ocr",
+  "note": "AnEconomicStudyOfTheProcessing_15621.md",
+  "source_id": "X-82eacd98",
+  "status": "done",
+  "timestamp": "2026-10-09T17:42:15+00:00"
+ },
  "87f389c0ab983d8e3938cef446dec529ef6b795c1297ee05fc38251dc55e3189": {
   "citation_source": "crossref",
   "file": "Nowlin et al. 2006 gape limitation large mouth bass.pdf",

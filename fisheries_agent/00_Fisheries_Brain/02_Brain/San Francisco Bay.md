@@ -11,7 +11,11 @@ San Francisco Bay is a major estuary on the California coast that serves as a cr
 > This 1965 study by Harold K. Chadwick (California Department of Fish and Game) examined the reproductive maturity of female [[Striped Bass]] caught by anglers in [[San Francisco Bay]] and [[San Pablo Bay]] during spring and summer 1961. The work sought to apply and test previously established ooc...
 > -- *[[DeterminationOfSexualMaturityI_1965]]*
 
+> This 1968 economic study examined the processing and marketing potential of commercial fishery products from [[Montana]] reservoirs, focusing on [[Carp]], [[Buffalofish]], [[Sucker]], and [[Goldeye]]. The research found that Montana's commercial fisheries face significant challenges including...
+> -- *[[AnEconomicStudyOfTheProcessing_15621]]*
+
 ## Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[DeterminationOfSexualMaturityI_1965]]
 - [[IntroductionOfPondSmeltFromJap_14428]]
+- [[AnEconomicStudyOfTheProcessing_15621]]

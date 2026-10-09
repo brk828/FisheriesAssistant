@@ -23,6 +23,9 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > - **[[Carp]]** (*Cyprinus carpio*) — dominant early collections were composed largely of young-of-the-year individuals. - **[[Black Bullhead]]** (*Ictalurus melas*) — consistently dominant across nearly all samples (up to 96.7% relative abundance in the June 1959 pre-strike sample); many individu...
 > -- *[[ChangesInTheFishPopulationInTh_12453]]*
 
+> This 1968 economic study examined the processing and marketing potential of commercial fishery products from [[Montana]] reservoirs, focusing on [[Carp]], [[Buffalofish]], [[Sucker]], and [[Goldeye]]. The research found that Montana's commercial fisheries face significant challenges including...
+> -- *[[AnEconomicStudyOfTheProcessing_15621]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -74,3 +77,4 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[ToxicityOfDimethylSulfoxideDms_13283]]
 - [[UnexploitedPotentialsOfOurFres_1958]]
 - [[WaterQualityCriteriaToProtectA_14646]]
+- [[AnEconomicStudyOfTheProcessing_15621]]

@@ -470,6 +470,7 @@ def synthesize_note(client, model: str, text: str) -> str:
     body = text[:MAX_NOTE_CHARS]
     for _ in range(2):
         note = _strip_fence(_chat(client, model, NOTE_SYSTEM, body, max_tokens=NOTE_OUT_TOKENS + 1500))
+        note = re.sub(r"\A.*?^(?=---\s*$)", "", note, count=1, flags=re.S | re.M)  # drop chatty preamble before the frontmatter
         if note.startswith("---") and all(h in note for h in REQUIRED_HEADERS):
             return note
     raise RuntimeError("model did not return a complete note (missing frontmatter or required sections)")
@@ -495,7 +496,7 @@ def format_citation(c: dict) -> str:
     tail = " ".join(x for x in (c.get("title", "").rstrip("."), ) if x)
     pub = c.get("publication", "")
     mid = f" Minckley Library ID: {c['mid']}." if c.get("mid") else ""
-    return f"{who} ({year}). {tail}." + (f" {pub}" if pub else "") + mid
+    return f"{who} ({year}). {tail}." + (f" {pub.rstrip('.')}." if pub else "") + mid
 
 
 def note_stem(title: str, year: str, sid: str) -> str:

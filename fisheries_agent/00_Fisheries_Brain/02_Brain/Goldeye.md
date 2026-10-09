@@ -14,7 +14,11 @@ Goldeye (*Hiodon alosoides*) is a small, silvery freshwater fish species native 
 > - **Food Fish**: [[Channel Catfish]] (*Ictalurus punctatus*) — dominant species; [[Black Crappie]] (*Pomoxis nigromaculatus*); [[White Crappie]] (*P. annularis*); [[Bluegill]] (*Lepomis macrochirus*); [[Pumpkinseed]] (*L. gibbosus*); [[Yellow Perch]] (*Perca flavescens*). - **Rough Fish**: [[Shov...
 > -- *[[EvaluationOfCommercialFishingB_16036]]*
 
+> This 1968 economic study examined the processing and marketing potential of commercial fishery products from [[Montana]] reservoirs, focusing on [[Carp]], [[Buffalofish]], [[Sucker]], and [[Goldeye]]. The research found that Montana's commercial fisheries face significant challenges including...
+> -- *[[AnEconomicStudyOfTheProcessing_15621]]*
+
 ## Mentioned In
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
 - [[DifferencesInTheOccurrenceOfNy_1947]]
 - [[EvaluationOfCommercialFishingB_16036]]
+- [[AnEconomicStudyOfTheProcessing_15621]]
