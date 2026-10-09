@@ -71,7 +71,7 @@ def mid_from_stem(stem: str) -> str:
 def lookup(refs: dict, source_id, stem: str = "") -> dict:
     """Citation by source_id, falling back to the MID embedded in the note's filename."""
     sid = str(source_id or "").strip()
-    return refs.get(sid) or refs.get(mid_from_source_id(sid)) or refs.get(mid_from_stem(stem)) or {}
+    return refs.get(sid) or refs.get(mid_from_source_id(sid)) or refs.get(mid_from_stem(stem)) or refs.get(stem) or {}
 
 
 def _vault_mids() -> set:

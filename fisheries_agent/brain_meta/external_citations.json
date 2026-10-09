@@ -1,4 +1,625 @@
 {
+ "APreliminaryNoteOnAMultipleApp_1958": {
+  "authors": "D.R. Swift",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "Proc. Indo-Pacific Fish. Coun.",
+  "title": "A Preliminary Note on a Multiple Apparatus Recording the Activity of Fish in Semi-Wild Conditions",
+  "type": "Journal Article",
+  "year": "1958"
+ },
+ "ArizonaEndangeredSpeciesLeadRe_1989_01_20": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Arizona Endangered Species Lead Responsibilities for Fish Species",
+  "type": "Memorandum",
+  "year": "1989"
+ },
+ "Bureaucratic Mischief Recognizing Endangered Species and Subspecies": {
+  "authors": "Stephen J. O'Brien, Ernst Mayr",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "Science",
+  "title": "Bureaucratic Mischief: Recognizing Endangered Species and Subspecies",
+  "type": "Journal Article",
+  "year": "1991"
+ },
+ "CAFGAnnualPermitReport_1992-12-15": {
+  "authors": "California Department of Fish and Game",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Annual permit report for Desert Pupfish collection activities under federal Permit No. BOLSBC",
+  "type": "Permit Report",
+  "year": "1992"
+ },
+ "CollectionAndTransportationOfR_1981_01_16": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "medium",
+  "publication": "",
+  "title": "Collection and Transportation of Razorback Suckers from Lake Mohave to Dexter National Fish Hatchery",
+  "type": "Report",
+  "year": "1981"
+ },
+ "ColoradoEndangeredFishResearch_1989_10_10": {
+  "authors": "Colorado Division of Wildlife",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to endangered fish researchers regarding FY90 work plan proposal review",
+  "type": "Letter",
+  "year": "1989"
+ },
+ "ColoradoRiverFishesRecoveryPro_1988_11_02": {
+  "authors": "John Hamill",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Memorandum regarding Colorado River Fishes Recovery Team coordination meeting at Desert Fishes Council Symposium",
+  "type": "Memorandum",
+  "year": "1988"
+ },
+ "CommentsOnTheIntentionalIntrod_1993_10_20": {
+  "authors": "Walter R. Courtenay, Jr., W.L. Minckley",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Comments on the Intentional Introductions Policy Review Report by the ANS Task Force",
+  "type": "Letter",
+  "year": "1993"
+ },
+ "CommissionPresentationOnCaptiv_1994_12_08": {
+  "authors": "Tim Wade",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Memo to Bruce Taubert regarding captive propagation rule petition for native Arizona reptiles and amphibians",
+  "type": "Memorandum",
+  "year": "1994"
+ },
+ "CorrespondenceOnMexicanFishTax_1993_10_21": {
+  "authors": "Robert R. Miller",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to W. L. Minckley regarding Mexican fish taxonomy",
+  "type": "Letter",
+  "year": "1993"
+ },
+ "CorrespondenceRegardingBattleA_1989_11_30": {
+  "authors": "E. P. Pister",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to Barbara Beaty regarding publication of 'Battle Against Extinction, Native Fish Management in the American West'",
+  "type": "Letter",
+  "year": "1989"
+ },
+ "CorrespondenceRegardingResearc_1986_08_06": {
+  "authors": "Reginald W. Owens",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to Paul Marsh regarding research access to ASU Research Park lakes",
+  "type": "Letter",
+  "year": "1986"
+ },
+ "Cuatro Ciénegas Food Web": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "low",
+  "publication": "",
+  "title": "Cuatro Ciénegas Food Web: Cichlasoma minckleyi and Invasive Species Impacts",
+  "type": "Report",
+  "year": ""
+ },
+ "CuatroCienegasFishesResearchRe_13699": {
+  "authors": "W. L. Minckley",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Cuatro Ciénegas Fishes: Research Review and a Local Test of Diversity Versus Habitat Size",
+  "type": "Journal Article",
+  "year": "1984"
+ },
+ "DeclineOfTheNativeFishFaunaOfT_1974": {
+  "authors": "Peter B. Moyle, Robert D. Nichols",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Decline of the Native Fish Fauna of the Sierra Nevada Foothills, Central California",
+  "type": "Journal Article",
+  "year": "1974"
+ },
+ "DepartmentRepresentativeChange_1993_02_11": {
+  "authors": "Arizona Game & Fish Department",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter requesting change of department representative on Desert Fishes Recovery Team",
+  "type": "Letter",
+  "year": "1993"
+ },
+ "DesertFishesRecoveryTeamMeetin_1994_09_09": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Desert Fishes Recovery Team Meeting Minutes",
+  "type": "Meeting Minutes",
+  "year": "1994"
+ },
+ "ElectricEel_1963": {
+  "authors": "Carl L. Hubbs",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "Encyclopaedia Britannica",
+  "title": "Electric Eel",
+  "type": "Book Chapter",
+  "year": "1963"
+ },
+ "ExistingFishRecovery_1989_01_20": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Existing Fish Recovery Teams in Arizona",
+  "type": "Report",
+  "year": "1989"
+ },
+ "ExperimentsOnControlOfReleaseO_1967": {
+  "authors": "H. B. N. Hynes, B. J. Greib",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "Proceedings, Tenth Conference on Great Lakes Research",
+  "title": "Experiments on Control of Release of Phosphate from Lake Muds",
+  "type": "Journal Article",
+  "year": "1967"
+ },
+ "FirstAnnualMeeting_1993_11_30": {
+  "authors": "Wayne Gustaveson",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "First Annual Meeting announcement and agenda for Colorado River biologists",
+  "type": "Meeting Minutes",
+  "year": "1993"
+ },
+ "FishDistributionPercentByProgr_1994_03_30": {
+  "authors": "U.S. Fish and Wildlife Service - Division of Fish Hatcheries",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Fish Distribution (Percent) by Program, FY 1992",
+  "type": "Report",
+  "year": "1994"
+ },
+ "FishSamplingAtAsuKarstenGoldCo_1992_12_10": {
+  "authors": "Paul C. Marsh",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Memorandum regarding fish sampling at ASU Karsten Golf Course",
+  "type": "Memorandum",
+  "year": "1992"
+ },
+ "FollowUpWorkAssignmentsFromDes_1989_12_12": {
+  "authors": "W.L. Minckley",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Follow-up Work Assignments from Desert Fishes Recovery Team Meeting",
+  "type": "Memorandum",
+  "year": "1989"
+ },
+ "Gila Topminnow Reintroduction_1996_07_25": {
+  "authors": "U.S. Fish & Wildlife Service",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Memorandum regarding parasite assessment for Gila Topminnow reintroduction at Bylas Spring",
+  "type": "Memorandum",
+  "year": "1996"
+ },
+ "HooverDamPowerplantUpratingAnd_1993_11_02": {
+  "authors": "Bureau of Reclamation",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Memorandum regarding Hoover Dam Powerplant uprating and coordination meeting on Lower Colorado River management",
+  "type": "Memorandum",
+  "year": "1993"
+ },
+ "InteragencySouthwestStrategyFo_1997_11_12": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Interagency Southwest Strategy Follow-Up Direction",
+  "type": "Memorandum",
+  "year": "1997"
+ },
+ "IntroductionOfExoticFishesInto_1984": {
+  "authors": "E. J. Crossman",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "Distribution, Biology, and Management of Exotic Fishes",
+  "title": "Introduction of Exotic Fishes into Canada",
+  "type": "Book Chapter",
+  "year": "1984"
+ },
+ "IssuesAndAlternativesForUseOfH_1994_05_31": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Issues and Alternatives for Use of Hatcheries in Recovery of Threatened and Endangered Aquatic Species",
+  "type": "Report",
+  "year": "1994"
+ },
+ "LernaeidsAndLernaeop_1959": {
+  "authors": "Ernest J. Hugghins",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "Journal of Parasitology",
+  "title": "Lernaeids and Lernaeopodids (Arthropoda: Eucopepoda) from Fishes in Eastern South Dakota",
+  "type": "Journal Article",
+  "year": "1959"
+ },
+ "LetterFromAsihEnvironmentalQua_1988_03_30": {
+  "authors": "Walter R. Courtenay, Jr.",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to James E. Johnson regarding Strawberry Valley Fishery Restoration",
+  "type": "Letter",
+  "year": "1988"
+ },
+ "LetterFromJamesEDeaconToClarkH_1975_04_17": {
+  "authors": "James E. Deacon",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to Clark Hubbs regarding fish refugia in Nevada",
+  "type": "Letter",
+  "year": "1975"
+ },
+ "LetterFromPeterBMoyleToWalterR_1991_01_22": {
+  "authors": "Peter B. Moyle",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to Walter R. Courtenay, Jr. regarding exotic fishes of Southern California",
+  "type": "Letter",
+  "year": "1991"
+ },
+ "LetterToBruceEllisRegardingCap_1993_08_10": {
+  "authors": "C.O. Minckley",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to Bruce Ellis regarding CAP enhancement actions for Lower Colorado River fisheries",
+  "type": "Letter",
+  "year": "1993"
+ },
+ "LetterToDrWLMinckleyOnDesertFi_1993_02_25": {
+  "authors": "C.O. Minckley",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to Dr. W.L. Minckley regarding Desert Fishes Recovery Team functions",
+  "type": "Letter",
+  "year": "1993"
+ },
+ "LetterToJerryConleyOnStateFede_1994_08_09": {
+  "authors": "Steven M. Huffaker",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to Jerry Conley regarding state-federal fisheries management conflicts",
+  "type": "Letter",
+  "year": "1994"
+ },
+ "LetterToTedStewartRegardingThe_1997_08_28": {
+  "authors": "Grand Canyon Trust, American Rivers, Southern Utah Wilderness Alliance, Southwest Resource Council",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to Ted Stewart regarding the Virgin River Basin Integrated Resource Management and Recovery Program",
+  "type": "Letter",
+  "year": "1997"
+ },
+ "LowerColoradoRiverBigRiverFish_1995_02_17": {
+  "authors": "U.S. Fish and Wildlife Service",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Memorandum regarding Big River Fishes Management Plan for the Lower Colorado River",
+  "type": "Memorandum",
+  "year": "1995"
+ },
+ "MemorandumOfClarificationOfThe_1995": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Memorandum of Clarification of the 1995 Memorandum of Agreement for the Lower Colorado River Multi-Species Conservation Program",
+  "type": "Memorandum",
+  "year": "1995"
+ },
+ "MemorandumOnDesertFishesRecove_1986_02_20": {
+  "authors": "W. L. Minckley",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Memorandum on Desert Fishes Recovery Team progress and meeting plans",
+  "type": "Memorandum",
+  "year": "1986"
+ },
+ "MinutesOfTheFebruaryDesertFish_1992_04_20": {
+  "authors": "W.L. Minckley",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Minutes of the 5-6 February 1992 Desert Fishes Recovery Team Meeting",
+  "type": "Meeting Minutes",
+  "year": "1992"
+ },
+ "NatureOfVariabilityInBloodLact_1965_09_23": {
+  "authors": "Charles W. Caillouet, Jr.",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Nature of Variability in Blood Lactic Acid Data from Fishes",
+  "type": "Journal Article",
+  "year": "1965"
+ },
+ "NotesFromMayMeetingLowerColora_1997_05_28": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Notes from May 20, 1997 Meeting - Lower Colorado River Multi-Species Conservation Program",
+  "type": "Meeting Minutes",
+  "year": "1997"
+ },
+ "NoticeOfAppealBoardOfCountyCom_1994_12_12": {
+  "authors": "United States Department of Justice",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Notice of Appeal — Board of County Commissioners of Catron County v. U.S. Fish and Wildlife Service",
+  "type": "Other",
+  "year": "1994"
+ },
+ "PanelDiscussionInvitationOnMan_1992_06_19": {
+  "authors": "Trout Unlimited, Arizona State Council",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Invitation to panel discussion on management toward recovery of Apache Trout",
+  "type": "Letter",
+  "year": "1992"
+ },
+ "PersonalLetterToMinkRegardingM_1972_08_01": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "medium",
+  "publication": "",
+  "title": "Letter to Mink regarding manuscript review and research updates",
+  "type": "Letter",
+  "year": "1972"
+ },
+ "PopulationDifferentiationAndIn_1987": {
+  "authors": "Donald G. Buth, Robert W. Murphy, Linda Ulmer",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "Transactions of the American Fisheries Society",
+  "title": "Population Differentiation and Introgressive Hybridization of the Flannelmouth Sucker and Razorback Sucker",
+  "type": "Journal Article",
+  "year": "1987"
+ },
+ "PositionPaperConservingFederal_1994_10_25": {
+  "authors": "U.S. Fish and Wildlife Service, National Marine Fisheries Service",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Position Paper: Conserving Federally Threatened, Endangered, and Proposed Species while Enhancing Recreational Fisheries",
+  "type": "Report",
+  "year": "1994"
+ },
+ "PrimaryProductionInInlandWater_1958": {
+  "authors": "J. W. G. Lund",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "The Biological Productivity of Britain (Institute of Biology)",
+  "title": "Primary Production in Inland Waters",
+  "type": "Book Chapter",
+  "year": "1958"
+ },
+ "PropagationAndFacilitiesDevelo_1993": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "Colorado River Recovery Program",
+  "title": "Propagation and Facilities Development (FY93 Annual Report)",
+  "type": "Report",
+  "year": "1993"
+ },
+ "ReintroductionOfGilaTroutInAri_1996_12_05": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "medium",
+  "publication": "",
+  "title": "Correspondence regarding reintroduction of Gila trout in Arizona",
+  "type": "Letter",
+  "year": "1996"
+ },
+ "ReminiscencesOfASouthernTrip_15630": {
+  "authors": "Charles Battye",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "The Needles Eye",
+  "title": "Reminiscences of a Southern Trip",
+  "type": "Journal Article",
+  "year": "1909"
+ },
+ "RioBravoFishDistribution_Unknown": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "low",
+  "publication": "",
+  "title": "Distribución Geográfica de Peces de la Cuenca Geohidrológica Mexicana del Río Bravo",
+  "type": "Book",
+  "year": ""
+ },
+ "SedimentTransportFromBigSagebr_1975_08_11": {
+  "authors": "David L. Sturges",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Sediment Transport from Big Sagebrush Watersheds",
+  "type": "Journal Article",
+  "year": "1975"
+ },
+ "SlicksOnLakeHuron_1962_12_29": {
+  "authors": "G. T. Csanady, H. K. Ellenton, R. E. Deane",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "Nature",
+  "title": "Slicks on Lake Huron",
+  "type": "Journal Article",
+  "year": "1962"
+ },
+ "SomeHarpacticoidsFromSubterran_1981_03_09": {
+  "authors": "Giuseppe Lucio Pesce",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "Boll. Zool.",
+  "title": "Some Harpacticoids from Subterranean Waters of Greece (Crustacea: Copepoda)",
+  "type": "Journal Article",
+  "year": "1981"
+ },
+ "StationProfileValleyCitybaldhi_1993_12_13": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Station Profile: Valley City/Baldhill Dam National Fish Hatchery",
+  "type": "Report",
+  "year": "1993"
+ },
+ "StatusOfRefugialGilaTopminnow_1995_12_27": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "medium",
+  "publication": "",
+  "title": "Status of Refugial Gila Topminnow",
+  "type": "Report",
+  "year": "1995"
+ },
+ "StatusOfTheGilaTopminnowAndIts_13684": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "USDA Forest Service Research Paper RM-198",
+  "title": "Status of the Gila Topminnow and its Co-occurrence with Mosquitofish",
+  "type": "Report",
+  "year": "1977"
+ },
+ "SurfaceRunoffAndErosionInTheLo_1961": {
+  "authors": "Lowell R. Rich",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "USDA Forest Service, Rocky Mountain Forest and Range Experiment Station, Station Paper 66",
+  "title": "Surface Runoff and Erosion in the Lower Chaparral Zone, Arizona",
+  "type": "Report",
+  "year": "1961"
+ },
+ "TheControlOfPopulationDensityT_1959": {
+  "authors": "V. C. Wynne-Edwards",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "The Control of Population-Density through Social Behaviour: A Hypothesis",
+  "type": "Journal Article",
+  "year": "1959"
+ },
+ "ThePlanktonSamplerAnInstrument_1950": {
+  "authors": "G. L. Clarke, D. F. Bumpus",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "American Society of Limnology and Oceanography, Special Publication No. 5",
+  "title": "The Plankton Sampler — An Instrument for Quantitative Plankton Investigations",
+  "type": "Journal Article",
+  "year": "1950"
+ },
+ "TheSolubilityOfOxygenInPureWat_1955": {
+  "authors": "G. A. Truesdale, A. L. Downing, G. F. Lowden",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "Journal of Applied Chemistry",
+  "title": "The Solubility of Oxygen in Pure Water and Sea-Water",
+  "type": "Journal Article",
+  "year": "1955"
+ },
+ "TheStrategyAndDesignOfTheEffec_1997_11_13": {
+  "authors": "",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "The Strategy and Design of the Effectiveness Monitoring Program for the Northwest Forest Plan",
+  "type": "Report",
+  "year": "1997"
+ },
+ "TremAr_12976": {
+  "authors": "U.S. Fish and Wildlife Service, Dexter Fishery Assistance Office",
+  "citation_source": "note-llm",
+  "confidence": "medium",
+  "publication": "",
+  "title": "Stocking record for Bonytail Chub and Razorback Sucker in Lake Mohave",
+  "type": "Letter",
+  "year": "1990"
+ },
+ "Untitled_1991_11_04": {
+  "authors": "Michael Yard",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Memorandum to W.L. Minckley regarding coordination of Endangered Species Research Program in Grand Canyon",
+  "type": "Memorandum",
+  "year": "1991"
+ },
+ "UpsetForMilankovitchTheory_1992_10_29": {
+  "authors": "W. S. Broecker",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "Nature",
+  "title": "Upset for Milankovitch theory",
+  "type": "Journal Article",
+  "year": "1992"
+ },
+ "UsfwsLetterRegardingProposedEn_1990_07_09": {
+  "authors": "U.S. Fish and Wildlife Service",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to W.L. Minckley regarding proposed endangered listing of razorback sucker",
+  "type": "Letter",
+  "year": "1990"
+ },
+ "VirginSpinedaceListingPackageR_1994_09_08": {
+  "authors": "Paul C. Marsh",
+  "citation_source": "note-llm",
+  "confidence": "high",
+  "publication": "",
+  "title": "Letter to Robert D. Williams regarding Virgin spinedace listing proposal",
+  "type": "Letter",
+  "year": "1994"
+ },
  "X-87f389c0": {
   "authors": "W. H. Nowlin, R. W. Drenner, K. R. Guckenberger, M. A. Lauden, G. T. Alonso, J. E. Fennell, J. L. Smith",
   "citation_source": "crossref",
