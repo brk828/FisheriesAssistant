@@ -23,6 +23,9 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 > This study examines an undisturbed alluvial groundwater basin in the upper [[San Pedro River]] Valley (southern Arizona) to determine how the mineralogy of surrounding fault-block mountains controls the natural ionic composition of groundwater. Seventy-nine groundwater samples were analyzed for *...
 > -- *[[DispersionOfNaturallyOccurring_1970]]*
 
+> The [[Southwest Center for Biological Diversity]] (SWCBD) and Dr. Robin Silver filed a lawsuit in U.S. District Court (Phoenix) against [[Ft. Huachuca]] and the Defense Department for violations of the [[National Environmental Policy Act]] (NEPA). The suit alleges illegal failure to evaluate,...
+> -- *[[LawsuitFiledAgainstFtHuachucaT_18965]]*
+
 ## Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -71,3 +74,4 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 - [[TheNextParagraphIsMissingButTh_11894]]
 - [[ThinkingTitleIsALetterReviewin_12039]]
 - [[TripReportAravaipaCreekEastEnd_1993_10_25]]
+- [[LawsuitFiledAgainstFtHuachucaT_18965]]

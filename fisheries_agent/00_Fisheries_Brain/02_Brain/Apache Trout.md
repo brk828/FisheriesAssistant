@@ -23,6 +23,9 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 > - **Biological Opinion Outcome**: No jeopardy determination for the spinedace; no adverse modification determination for its designated critical habitat. - **Incidental Take Trigger Thresholds** (per individual reservoir system): - More than **1 spinedace** found in the stomach contents of tagged...
 > -- *[[BiologicalOpinionOnUSFishAndWi_13249]]*
 
+> This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
+> -- *[[ListedAndCandidateSpeciesRespo_11941]]*
+
 ## Mentioned In
 - [[AnAnalysisOfFHybridsBetweenApa_1984_09_24]]
 - [[AnalysisOfApacheTroutPopulatio_15424]]
@@ -79,3 +82,4 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 - [[USFishAndWildlifeServiceWhiteM_1994_12_02]]
 - [[VariationInApacheTroutPopulati_1985]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
+- [[ListedAndCandidateSpeciesRespo_11941]]

@@ -23,6 +23,9 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > **Gradients and microhabitat structure:** - Sharp vertical thermal/salinity stratification documented in a Cuatro Ciénegas pit (47°C bottom vs. 24°C only 46 cm above; 111.3‰ bottom salinity vs. dilute surface). - Horizontal/diel movement patterns in *Cyprinodon* at the [[Salton Sea]] (Barlow 1958...
 > -- *[[HabitatsOfNorthAmericanDesertF_1981]]*
 
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[BenthicInvertebratesOfTheEarth_1983]]
@@ -38,3 +41,4 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[StockingOfEndangeredDesertPupf_12706]]
 - [[SurvivalOfSomeFishesRecentlyIn_19099]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
+- [[InformalSectionConsultationReP_13297]]

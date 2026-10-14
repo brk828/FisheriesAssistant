@@ -17,8 +17,12 @@ Scripps Institution of Oceanography is a leading marine research facility affili
 > - **No extractable fish science data**: The source text is a letterhead/address fragment from **[[Scripps Institution of Oceanography]]**, not a scientific report, paper, or dataset. - **Institutional context only**: Confirms correspondence originated from or was sent to Scripps Institution of Oc...
 > -- *[[LetterFromScrippsInstitutionOf_14278]]*
 
+> This paper documents the first known occurrence of the [[Oilfish]] (*Ruvettus pretiosus*) in the eastern Pacific Ocean. A single specimen measuring 475 mm standard length was caught off [[Encinitas]], [[San Diego County]], California on August 13, 1942. This represents only the second gempylid...
+> -- *[[RecordOfTheOilfishRuvettusPret_15600]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CorrespondenceReCollectionLoca_1964_04_07]]
 - [[ExtensionsOfRangeForBlennioidF_14285]]
 - [[LetterFromScrippsInstitutionOf_14278]]
+- [[RecordOfTheOilfishRuvettusPret_15600]]

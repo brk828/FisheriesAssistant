@@ -23,6 +23,12 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > - **Habitat range sampled:** [[Lake Mohave]], [[Green River]], [[Lake Powell]], and [[Lake Mead]] — reservoir and riverine habitats within the [[Colorado River Basin]]. - **Reproductive biology/timing:** Lake Mohave razorbacks were observed forming turgid ova and males yielding milt under moderat...
 > -- *[[AnnualReportOnRazorbackSuckerM_1990_11_26]]*
 
+> This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
+> -- *[[ListedAndCandidateSpeciesRespo_11941]]*
+
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -150,3 +156,5 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[WoundfinTransferFromDexterNati_1993_11_03]]
 - [[YaquiChubStockingIntoSanBernar_1980_10_31]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
+- [[ListedAndCandidateSpeciesRespo_11941]]
+- [[EvaluationsAndSuggestionsConce_16480]]

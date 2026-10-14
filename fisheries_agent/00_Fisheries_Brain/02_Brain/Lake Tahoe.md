@@ -17,6 +17,9 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 > - **Habitat:** [[Donner Lake]], a high-elevation reservoir/lake in Nevada County, California, used for water storage, with fluctuating surface area (650–862 acres). - **Introduction history:** Lake trout were first introduced to California in May 1895 via a planting of 65,000 fry in [[Lake Tahoe]...
 > -- *[[NoteOnSpringFoodHabitsOfTheLak_12533]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -26,3 +29,4 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 - [[LetterOnDefiningCuiUiRecoveryA_1989_09_06]]
 - [[NoteOnSpringFoodHabitsOfTheLak_12533]]
 - [[SomeLahontanFishesInTheSacrame_12526]]
+- [[AConservationorientedClassific_15455]]

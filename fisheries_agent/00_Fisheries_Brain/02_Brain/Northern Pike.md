@@ -23,6 +23,9 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 > - **Species of interest**: [[Walleye]] (*Stizostedion vitreum vitreum*), family [[Percidae]]; also discusses associated species — [[Sauger]] (*Stizostedion canadense*), [[Northern Pike]] (*Esox lucius*), [[Lake Whitefish]] (*Coregonus clupeaformis*), [[Cisco]] (*Coregonus artedii*), [[Burbot]] (*...
 > -- *[[ChangesInWalleyeStizostedionVi_1977_03_18]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -71,3 +74,4 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 - [[TheUpperStLawrenceRiverIceFish_11241]]
 - [[UtilizationOfGizzardShadByGame_1958_11_20]]
 - [[VariationsInTheFecundityOfPike_1969]]
+- [[ABibliographyAndHostListForThe_15289]]

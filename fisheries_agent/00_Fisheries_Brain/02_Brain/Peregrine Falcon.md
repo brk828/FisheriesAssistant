@@ -23,6 +23,9 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 > - **Mainstem Colorado River / Glen Canyon Dam tailwater**: Subject to managed flow regimens (steady summer flows, research flows, daily fluctuating flows) hypothesized to affect backwater habitat quality, [[Cladophora]] algal sloughing, marsh vegetation growth, and riparian wildlife. - **Little C...
 > -- *[[ReRequestForIdentificationOfSp_13985]]*
 
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -34,3 +37,4 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 - [[MinimallyInvasiveTissueSamplin_15426]]
 - [[ReRequestForIdentificationOfSp_13985]]
 - [[SummerDistributionAndReproduct_18541]]
+- [[InformalSectionConsultationReP_13297]]

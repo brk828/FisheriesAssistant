@@ -23,6 +23,9 @@ The Bureau of Indian Affairs, in the context of fish science and aquatic conserv
 > - **Physical Infrastructure:** 36 raceways (8' x 80') and 3 larger raceways (10' x 100') provide the controlled aquatic environment for broodstock holding, egg incubation, and early rearing. - **Distribution Network:** Eggs were shipped to hatcheries across 28 states (AZ, AR, CA, CO, CT, GA, ID, ...
 > -- *[[StationProfileEnnisNationalFis_1993_12_21]]*
 
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[InteragencySouthwestStrategyFo_1997_11_12]]
@@ -32,3 +35,4 @@ The Bureau of Indian Affairs, in the context of fish science and aquatic conserv
 - [[StationProfileEnnisNationalFis_1993_12_21]]
 - [[StationProfileValleyCitybaldhi_1993_12_13]]
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

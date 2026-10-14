@@ -23,6 +23,9 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 > - **Bioassay indicator species**: [[Notropis lutrensis]] (red shiner) was the primary test organism used to detect lethal rotenone concentrations in water samples via loss of equilibrium and cessation of opercular movement. - **Differential species susceptibility**: [[Green Sunfish]] were observe...
 > -- *[[EffectivenessOfRotenoneInPondR_1953]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[ANoteOnTheResultsOfFeedingFire_1960]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -62,3 +65,4 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 - [[TheUseOfRotenoneOnCityWaterSup_12653]]
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[UseOfAntimycinForSelectiveThin_14083]]
+- [[ABibliographyAndHostListForThe_15289]]

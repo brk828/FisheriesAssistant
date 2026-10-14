@@ -14,7 +14,11 @@ American Rivers is a conservation organization that has played a significant rol
 > - **Setting**: The meeting addressed the entire hydrological continuum from Hoover Dam/Glen Canyon Dam through the [[Lower Colorado River]] mainstem, into the [[Colorado River Delta]], and terminating in the [[Upper Gulf of California Biosphere Reserve]]. - **Institutional context**: Convened joi...
 > -- *[[MeetingOnLowerColoradoRiverCol_1994_11_02]]*
 
+> This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
+> -- *[[AmericanRiversStacMeetingOfJun_17977]]*
+
 ## Mentioned In
 - [[GroupsReachAgreementToRemoveDa_1999_08_23]]
 - [[LetterOnFirstYearDeliverablesF_1994_04_14]]
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
+- [[AmericanRiversStacMeetingOfJun_17977]]

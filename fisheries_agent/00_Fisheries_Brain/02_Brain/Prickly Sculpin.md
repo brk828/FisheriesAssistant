@@ -14,7 +14,11 @@ The Prickly Sculpin (*Cottus asper*) is a small benthic freshwater fish native t
 > - Standardized measurement protocol: fish lengths reported as **total length (TL)**, **fork length (FL)**, or **standard length (SL)**, with SL preferred where data allow. - Many included taxa are **morphologically and ecologically distinctive isolated populations** (e.g., subspecies of [[Tui Chu...
 > -- *[[FishSpeciesOfSpecialConcernOfC_15453]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[DeclineOfTheNativeFishFaunaOfT_1974]]
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
+- [[AConservationorientedClassific_15455]]

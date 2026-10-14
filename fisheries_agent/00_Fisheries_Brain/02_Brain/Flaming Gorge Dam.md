@@ -23,6 +23,9 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > 5. **Thermal sensitivity hypothesis:** Recorded spawning temperatures (15–15.5°C average) fall below the 20°C optimum for embryo hatching success identified by Marsh (1985), who documented complete embryo mortality at 5–10°C and significantly reduced hatch at 15°C — suggesting river thermal regim...
 > -- *[[DistributionReproductionAndHab_1987]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -63,3 +66,4 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[ThoughtsOnTheStatusAndRecovery_1990_05_08]]
 - [[TimelapsePhotographyOnTheGreen_1979]]
 - [[WinterMovementAndHabitatOfAdul_1993_12_16]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

@@ -23,6 +23,9 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 > - **Comparative context:** This study builds directly on developmental and reproductive data generated for other *Noturus* species (Burr and Mayden, 1982), reinforcing patterns of nest-guarding, non-feeding brooding males, and rapid larval development shared across the genus [[Noturus]] and famil...
 > -- *[[AspectsOfTheLifeHistoryOfTheOz_15231]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[ACaseOfAlbinismInTheTadpoleMad_20472]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -72,3 +75,4 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[VariationsInDdtConcentrationIn_13889]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
+- [[ABibliographyAndHostListForThe_15289]]

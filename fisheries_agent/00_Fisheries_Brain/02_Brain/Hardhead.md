@@ -23,9 +23,13 @@ Hardhead (*Mylopharodon conocephalus*) is a larger cyprinid fish native to Calif
 > Resident species common to both reaches: - [[Sacramento Sucker]] (*Catostomus occidentalis*) - [[Sacramento Squawfish]] (*Ptychocheilus grandis*) - [[Hardhead]] (*Mylopharodon conocephalus*) - [[Riffle Sculpin]] (*Cottus gulosus*) - [[Rainbow Trout]] (*Salmo gairdneri*) - [[Smallmouth Bass]] (*Mi...
 > -- *[[ResponsesOfFishPopulationsInTh_1983]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[ChemicalTreatmentOfTheMercedRi_13362]]
 - [[DeclineOfTheNativeFishFaunaOfT_1974]]
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[MicrohabitatUseByAnAssemblageO_1985]]
 - [[ResponsesOfFishPopulationsInTh_1983]]
+- [[AConservationorientedClassific_15455]]

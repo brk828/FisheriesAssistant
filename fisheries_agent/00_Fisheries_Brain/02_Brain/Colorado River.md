@@ -23,6 +23,21 @@ The Colorado River is a major southwestern North American river system that serv
 > - **Historic range:** Formerly common-to-abundant throughout mainstream channels and major tributaries of the [[Colorado River]] system, from Mexico north into Wyoming. - **Current range:** Restricted to sporadic, low-abundance collections in the upper Colorado River basin (e.g., Cataract Canyon,...
 > -- *[[AgeEstimationFromOtolithsOfBon_1997_02_24]]*
 
+> This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
+> -- *[[ListedAndCandidateSpeciesRespo_11941]]*
+
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
+> This study examined the production efficiency of [[Threadfin Shad]] (*Dorosoma petenense*) in experimental ponds at varying stocking densities (100–1,600 adults per acre) to determine optimal rates for maximum forage production. Total production ranged from 84.5 to 290.0 pounds per acre, with net...
+> -- *[[ProductionOfTheThreadfinShadDo_15096]]*
+
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -340,3 +355,8 @@ The Colorado River is a major southwestern North American river system that serv
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[YourCurrentUsFishAndWildlifeSe_1993_04_02]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
+- [[ListedAndCandidateSpeciesRespo_11941]]
+- [[InformalSectionConsultationReP_13297]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[ProductionOfTheThreadfinShadDo_15096]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

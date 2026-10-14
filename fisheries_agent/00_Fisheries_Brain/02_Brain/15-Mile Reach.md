@@ -23,8 +23,12 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > - **Primary habitat:** The [[15-Mile Reach]] of the [[Colorado River]], a critical habitat segment for the endangered Colorado squawfish, situated between the Grand Valley diversion and the confluence with the [[Gunnison River]]. - **Flow dependency:** Habitat availability for both adult and larv...
 > -- *[[RequestForReleasesFromRuedigre_1989_06_08]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
 - [[MeetingSummaryColoradoRiverTec_1989_03_30]]
 - [[RequestForReleasesFromRuedigre_1989_06_08]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

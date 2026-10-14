@@ -23,6 +23,15 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > - **Yerba Mansa Spring Survey (April 20, 1992):** 18 individuals of *P. o. occidentalis* were collected; **zero** *C. macularius* were captured. All specimens released alive at the site. - **Cienega Creek Survey (December 21, 1992):** 2 individuals of *P. o. occidentalis* collected as bycatch whi...
 > -- *[[AmendmentToAnnualEndangeredSpe_1992_12_22]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
+> This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
+> -- *[[AmericanRiversStacMeetingOfJun_17977]]*
+
+> This 1987 letter from Donald W. to Dr. W.L. Minckley discusses concerns about the U.S. Fish and Wildlife Service's endangered species recovery approach, particularly the practice of spreading rare species across multiple locations ("Johnny Applefish" approach) and over-reliance on aquarium...
+> -- *[[LetterToMinckley_20487]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -312,3 +321,6 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[VirginChubGilaRobustaSeminuda_1989_09_07]]
 - [[VirginSpinedaceProposedAsThrea_1994_05_28]]
 - [[YourCurrentUsFishAndWildlifeSe_1993_04_02]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[AmericanRiversStacMeetingOfJun_17977]]
+- [[LetterToMinckley_20487]]

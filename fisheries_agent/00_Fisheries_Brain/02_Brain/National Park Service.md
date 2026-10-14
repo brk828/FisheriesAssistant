@@ -23,6 +23,12 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > - Data sources identified for the review include records from **Phase 1 studies**, [[Arizona Game and Fish Department]] (AGF), [[Museum of Northern Arizona]] (MNA), [[National Park Service]] (NPS), [[Arizona State University]] (ASU), and monitoring programs at Lake Powell, Lake Mead, and Glen Can...
 > -- *[[GlenCanyonEnvironmentalStudies_19698]]*
 
+> This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
+> -- *[[AmericanRiversStacMeetingOfJun_17977]]*
+
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -52,3 +58,5 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[RosterLowerBasinRecoveryImplem_21095]]
 - [[SpecialFisheriesReportOnProjec_1961_11_16]]
 - [[StationProfileOfWillowBeachNat_19507]]
+- [[AmericanRiversStacMeetingOfJun_17977]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

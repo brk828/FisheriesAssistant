@@ -26,6 +26,12 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > This experimental pond study examined the top-down effects of piscivorous [[Largemouth Bass]] (*Micropterus salmoides*) on nutrients, turbidity, phytoplankton, zooplankton, and fish communities in shallow eutrophic ponds. The fish assemblage included [[Western Mosquitofish]] (*Gambusia affinis*),...
 > -- *[[GapeLimitationPreySizeRefugesA_2006]]*
 
+> This 1957 study by [[Howard P. Clemens]] and [[Kermit E. Sneed]] documents the spawning behavior of [[Channel Catfish]] (*Ictalurus punctatus*) induced to spawn in glass aquaria via fish pituitary injections. The research was conducted under the [[Saltonstall-Kennedy Act]] at the [[U.S. Fish...
+> -- *[[TheSpawningBehaviorOfTheChanne_15949]]*
+
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -264,3 +270,5 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
 - [[GapeLimitationPreySizeRefugesA_2006]]
+- [[TheSpawningBehaviorOfTheChanne_15949]]
+- [[ABibliographyAndHostListForThe_15289]]

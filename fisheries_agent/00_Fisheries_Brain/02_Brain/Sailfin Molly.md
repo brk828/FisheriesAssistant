@@ -17,7 +17,11 @@ The Sailfin Molly (*Mollienesia latipinna*) is a livebearing fish native to Sout
 > **Trophic guild structure identified:** - **Detritivores:** [[Threadfin Shad]], [[Red Shiner]], [[Mouthbrooder]], [[Sailfin Molly]], [[Striped Mullet]] — feed principally on fibrous higher-plant detritus, some gelatinous organic material, and clam pseudofeces. - **Facultative planktivores/omnivor...
 > -- *[[TrophicInterrelationsAmongIntr_1982]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[OccurrenceOfTheAmazonMollyMoll_19138]]
 - [[TripReportForTheJuneThPaintedR_1997_06_26]]
 - [[TrophicInterrelationsAmongIntr_1982]]
+- [[ABibliographyAndHostListForThe_15289]]

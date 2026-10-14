@@ -23,6 +23,9 @@ The San Pedro Riparian National Conservation Area encompasses the San Pedro Rive
 > - **No fish-specific data** (species occurrence, abundance, morphology, or habitat use) is present in this source document. - The newsletter documents administrative milestones for the [[San Pedro Riparian National Conservation Area]], including BLM land acquisition, congressional legislative act...
 > -- *[[SanPedroRiverBlmNewsletterIssu_1987]]*
 
+> The [[Southwest Center for Biological Diversity]] (SWCBD) and Dr. Robin Silver filed a lawsuit in U.S. District Court (Phoenix) against [[Ft. Huachuca]] and the Defense Department for violations of the [[National Environmental Policy Act]] (NEPA). The suit alleges illegal failure to evaluate,...
+> -- *[[LawsuitFiledAgainstFtHuachucaT_18965]]*
+
 ## Mentioned In
 - [[CommentLetterOnDraftGilaBoxRip_1993_12_30]]
 - [[EnvironmentalistsSueFortHuachu_11897]]
@@ -32,3 +35,4 @@ The San Pedro Riparian National Conservation Area encompasses the San Pedro Rive
 - [[SanPedroRiverBlmNewsletterIssu_1987]]
 - [[SanPedroRiverNewsletter_11463]]
 - [[TheNextParagraphIsMissingButTh_11894]]
+- [[LawsuitFiledAgainstFtHuachucaT_18965]]

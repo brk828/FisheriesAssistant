@@ -14,9 +14,13 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > - **Habitat type:** California's native fresh-water fish fauna is characterized as a **relict fauna of an arid region**, less diversified than eastern US, European, or Asian faunas. Many species are anadromous or salt-tolerant, reflecting adaptation to variable coastal drainage conditions. - **Dr...
 > -- *[[TheFreshWaterFishFaunaOfCalifo_11392]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
 - [[ScopeOfWorkForShortnoseAndLost_1986_12_08]]
 - [[StationProfileOfTheCaliforniaN_19503]]
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
+- [[AConservationorientedClassific_15455]]

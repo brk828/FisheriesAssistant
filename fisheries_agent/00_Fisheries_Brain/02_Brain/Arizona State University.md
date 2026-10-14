@@ -23,6 +23,9 @@ Arizona State University is a major research institution that has played a signi
 > - **Biological Opinion determination**: The proposed fish removal project was found **not likely to jeopardize** the continued existence of the endangered Desert Pupfish, nor to destroy or adversely modify its designated [[Critical Habitat]]. - **Primary conservation concern**: Genetic integrity ...
 > -- *[[BiologicalOpinionRemovalOfIntr_1990_05_30]]*
 
+> This 1987 letter from Donald W. to Dr. W.L. Minckley discusses concerns about the U.S. Fish and Wildlife Service's endangered species recovery approach, particularly the practice of spreading rare species across multiple locations ("Johnny Applefish" approach) and over-reliance on aquarium...
+> -- *[[LetterToMinckley_20487]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -141,3 +144,4 @@ Arizona State University is a major research institution that has played a signi
 - [[VirginRiverMonitoringArizonaSu_1994_10_05]]
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
+- [[LetterToMinckley_20487]]

@@ -14,8 +14,12 @@ Chara is an aquatic macrophyte (stonewort) that serves as critical habitat struc
 > - **Habitat partitioning**: Radio-tagged [[Razorback Sucker]] preferentially used backwater habitats, while [[Flathead Catfish]] were most frequently detected in the main channel — indicating clear niche segregation between native and invasive benthic/pelagic species in the lower Colorado River. ...
 > -- *[[ColoradoRiverAquaticBiologists_1997_11_19]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
 - [[RatesOfSurvivalAndGrowthOfBlue_12437]]
 - [[SomeEcologicalRelationshipsBet_15746]]
+- [[EndangeredSpeciesInformationSy_14003]]

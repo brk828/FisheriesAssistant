@@ -23,6 +23,9 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 > The Fish and Wildlife Service (Service) concluded that the proposed action is **likely to jeopardize** the continued existence of the **[[Humpback Chub]]** (*Gila cypha*) and **[[Razorback Sucker]]** (*Xyrauchen texanus*), two endangered fish species endemic to the Colorado River system. The opin...
 > -- *[[DraftBiologicalOpinionSummaryE_1993_05_17]]*
 
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[BiologicalOpinionOnTheProposed_13196]]
@@ -45,3 +48,4 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 - [[RecommendationForAHighDischarg_1993_07_19]]
 - [[ReportingFederalExpendituresPu_1992_11_25]]
 - [[TripReportTaskForceMonitoringR_1990]]
+- [[InformalSectionConsultationReP_13297]]

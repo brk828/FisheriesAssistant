@@ -23,6 +23,9 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > **Threats:** - Habitat destruction: water diversion, stream downcutting, backwater draining, vegetation clearing, channelization, water impoundment, groundwater pumping, pesticides. - Biological threats: competition and predation from nonnative fishes, notably [[Mosquitofish]] (*Gambusia affinis*...
 > -- *[[BiologicalOpinionOnDraftRevise_1993_09_08]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -86,3 +89,4 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
+- [[EndangeredSpeciesInformationSy_14003]]

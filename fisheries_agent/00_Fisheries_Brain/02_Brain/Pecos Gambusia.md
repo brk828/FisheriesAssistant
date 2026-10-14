@@ -20,6 +20,9 @@ The Pecos Gambusia (*Gambusia nobilis*) is an extremely rare, critically endange
 > - **[[Conservation Genetics]] of threatened fishes** (Talk 1, 14–19): genic diversity, mitochondrial DNA analysis of [[Cutthroat Trout]] subspecies, genetic status of the [[Pecos Pupfish]] and [[Pecos Gambusia]], heterozygosity/fitness in [[Sonora Topminnow]] (*Poeciliopsis occidentalis*), and sa...
 > -- *[[TwentiethAnnualSymposiumOfTheD_1988_11_16]]*
 
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[AspectsOfTheThermalEcologyOfCy_13860]]
@@ -27,3 +30,4 @@ The Pecos Gambusia (*Gambusia nobilis*) is an extremely rare, critically endange
 - [[ListingOfFederallyThreatenedAn_1992_11_13]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
+- [[EvaluationsAndSuggestionsConce_16480]]

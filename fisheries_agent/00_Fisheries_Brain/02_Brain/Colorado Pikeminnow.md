@@ -23,6 +23,9 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 > - **[[Suckers]]** (Catostomidae) - **[[Squawfish]]** (Cyprinidae, e.g., [[Colorado Pikeminnow]]) - **[[Pupfish]]** (Cyprinodontidae), including the [[Devils Hole Pupfish]] - **[[Goodeids]]** (Goodeidae) — livebearing cyprinodontoids - **[[Killifish]]** (Cyprinodontidae/Fundulidae) - **[[Live-bear...
 > -- *[[BattleAgainstExtinctionNativeF_17606]]*
 
+> This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
+> -- *[[ListedAndCandidateSpeciesRespo_11941]]*
+
 ## Mentioned In
 - [[ActingProgramDirector_1990_03_29]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -196,3 +199,4 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 - [[VerdeRiverFishSampling_1989_03_06]]
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
 - [[WesternAreaPowerAdministration_19148]]
+- [[ListedAndCandidateSpeciesRespo_11941]]

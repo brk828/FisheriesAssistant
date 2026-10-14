@@ -23,6 +23,9 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This FY93 annual project report documents an ongoing investigation (Colorado River Recovery Program Project #18(10)) into the ecological role of fish predation within backwater habitats of the [[Green River]], a critical nursery habitat for the endangered [[Colorado Squawfish]] (*Ptychocheilus lu...
 > -- *[[AnEvaluationOfFishPredationInB_1993]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -100,3 +103,4 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
 - [[WinterMovementAndHabitatOfAdul_1993_12_16]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

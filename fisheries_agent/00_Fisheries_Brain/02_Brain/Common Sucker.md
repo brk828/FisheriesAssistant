@@ -23,6 +23,9 @@ The Common Sucker refers to a group of freshwater fish species belonging to the 
 > - **Habitat:** Standard Lake, 32.5 acres total, max depth 31 ft, divided into a north basin (16.5 acres) and south basin (16.0 acres) connected by a shallow (~1 ft), ~200 ft-wide channel permitting free fish passage - **Community composition (south basin, pre-treatment census, Table 1):** - [[Yel...
 > -- *[[IncreasedGrowthRateOfRockBassA_15683]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -30,3 +33,4 @@ The Common Sucker refers to a group of freshwater fish species belonging to the 
 - [[ExperimentalIntroductionsOfFre_1960_01_01]]
 - [[HowToTellApartFishThatLookAlik_12444]]
 - [[IncreasedGrowthRateOfRockBassA_15683]]
+- [[ABibliographyAndHostListForThe_15289]]

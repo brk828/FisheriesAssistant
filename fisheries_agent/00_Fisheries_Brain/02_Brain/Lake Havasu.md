@@ -23,6 +23,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > - **Habitat**: Mainstem Lower Colorado River and associated reservoirs — [[Lake Mead]], [[Lake Mohave]], and [[Lake Havasu]] — plus historic reintroduction sites in the Gila, Salt, and Verde Rivers. - **Trophic interactions**: The dominant ecological pressure on native fish recruitment is identif...
 > -- *[[ColoradoRiverBoardOfCalifornia_1997_07_25]]*
 
+> This study examined the production efficiency of [[Threadfin Shad]] (*Dorosoma petenense*) in experimental ponds at varying stocking densities (100–1,600 adults per acre) to determine optimal rates for maximum forage production. Total production ranged from 84.5 to 290.0 pounds per acre, with net...
+> -- *[[ProductionOfTheThreadfinShadDo_15096]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -70,3 +73,4 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[TheAgeAndGrowthOfBluegillLepom_18719]]
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[UseOfIsolatedHabitatsAsGrowout_1996_06_21]]
+- [[ProductionOfTheThreadfinShadDo_15096]]

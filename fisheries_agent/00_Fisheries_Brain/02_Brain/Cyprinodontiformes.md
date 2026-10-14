@@ -20,6 +20,9 @@ Cyprinodontiformes is an order of small, primarily freshwater and brackish-water
 > - **Habitat:** Endemic to isolated desert spring systems and spring-fed impoundments in the Mojave Desert region of Nevada; part of the broader **[[Death Valley System]]** pupfish/poolfish radiation - **Thermal ecology:** - Laboratory culture temperature (24.5°C ± 2.5°C) selected to approximate t...
 > -- *[[ReproductionAndGrowthOfThePahr_15649]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[AReDescriptionOfAphaniusGinaon_1980]]
 - [[DevelopmentAndComparativeMorph_13429]]
@@ -27,3 +30,4 @@ Cyprinodontiformes is an order of small, primarily freshwater and brackish-water
 - [[GuideToTheFreshwaterFishesOfMe_15301]]
 - [[LetterRequestingPermitAmendmen_1992_06_16]]
 - [[ReproductionAndGrowthOfThePahr_15649]]
+- [[EndangeredSpeciesInformationSy_14003]]

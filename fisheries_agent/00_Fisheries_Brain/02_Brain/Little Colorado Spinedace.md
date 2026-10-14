@@ -23,6 +23,9 @@ The Little Colorado Spinedace (*Lepidomeda vittata*) is a small endemic cyprinid
 > This document is a **Biological Opinion (BO)** issued under Section 7 of the Endangered Species Act, addressing the U.S. Fish and Wildlife Service's Federal Aid support to the Arizona Game and Fish Department (AGFD) for stocking catchable-size (8–10 inch) [[Rainbow Trout]] into three impoundments...
 > -- *[[BiologicalOpinionOnUSFishAndWi_13249]]*
 
+> This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
+> -- *[[ListedAndCandidateSpeciesRespo_11941]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -52,3 +55,4 @@ The Little Colorado Spinedace (*Lepidomeda vittata*) is a small endemic cyprinid
 - [[SectionConsultationLetterOnLar_1997_10_09]]
 - [[SpeciesResponsibilitiesOfDeser_1989_12_07]]
 - [[TheFishesOfSilverCreek_16916]]
+- [[ListedAndCandidateSpeciesRespo_11941]]

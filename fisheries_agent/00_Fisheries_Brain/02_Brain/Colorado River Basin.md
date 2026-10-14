@@ -23,6 +23,9 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > - **Habitat range sampled:** [[Lake Mohave]], [[Green River]], [[Lake Powell]], and [[Lake Mead]] — reservoir and riverine habitats within the [[Colorado River Basin]]. - **Reproductive biology/timing:** Lake Mohave razorbacks were observed forming turgid ova and males yielding milt under moderat...
 > -- *[[AnnualReportOnRazorbackSuckerM_1990_11_26]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -306,3 +309,4 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
 - [[WillowBeachRazorbackSuckers_1994_03_05]]
 - [[YampaRiverChannelMonitoring_1993]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

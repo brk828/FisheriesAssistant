@@ -23,6 +23,9 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > | Species | Size Range Tested (inches) | |---|---| | [[Golden Shiner]] | 0.5–4 | | [[White Sucker]] | 1.5–4 | | [[Largemouth Bass]] | 1–12 | | [[Bluegill]] | 1–6 | | [[Channel Catfish]] | 9–16 | | [[Trout]] (brook, rainbow, brook x brown hybrid) | 2–15 | | [[Fathead Minnow]] | 0.75–2.5 |
 > -- *[[EffectsOfFiveHerbicidesOnFarmP_15811]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -60,3 +63,4 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[ToxicityOfDursbanToThreeSpecie_16343]]
 - [[UseOfAntimycinForSelectiveThin_14083]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
+- [[ABibliographyAndHostListForThe_15289]]

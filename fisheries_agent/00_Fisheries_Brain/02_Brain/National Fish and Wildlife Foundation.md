@@ -11,8 +11,12 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 > 5. **Future Directions Identified**: - **Ecosystem Approach**: Under Director [[Mollie Beattie]], the Service is shifting toward ecosystem-level management rather than single-species focus, potentially decentralizing authority from Regional Offices to field-level operations. - **Conservation of N...
 > -- *[[TheRoleAndResponsibilitiesOfTh_19662]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[CooperativeAgreementColoradoRi_1989_06_30]]
 - [[HassayampaLakeRenova_16653]]
 - [[LetterOnFirstYearDeliverablesF_1994_04_14]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

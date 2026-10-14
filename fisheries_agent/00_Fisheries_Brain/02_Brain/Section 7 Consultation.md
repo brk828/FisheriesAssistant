@@ -23,6 +23,9 @@ Section 7 Consultation refers to the mandatory process under the Endangered Spec
 > **Related concepts:** [[Endangered Species Act]] · [[Section 7 Consultation]] · [[Glen Canyon Environmental Studies]] · [[Colorado River Basin]] · [[Fish Health Center]] · [[Recovery Plan]]
 > -- *[[LetterToDrWLMinckleyRegardingE_1994_06_22]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
 - [[AnimasLaPlataProjectColoradoNe_14136]]
@@ -46,3 +49,4 @@ Section 7 Consultation refers to the mandatory process under the Endangered Spec
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[UtilizationOfPondsAtBuenosAire_1986_06_06]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

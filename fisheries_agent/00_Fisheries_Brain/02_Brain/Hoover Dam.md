@@ -23,6 +23,9 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 > - **[[Devils Hole Pupfish]]** (*Cyprinodon diabolis*) — restricted to [[Devils Hole]], with a small transplanted refuge population near [[Hoover Dam]]. - **[[Pahrump Killifish]]** (*Empetrichthys latos*) — maintained via refugium ponds at [[Corn Creek]], an aquarium population at UNLV, and histor...
 > -- *[[FourthAnnualMeetingDeathValley_11111]]*
 
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -62,3 +65,4 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 - [[TheHumpbackChubGilaCyphaExcerp_13277]]
 - [[TheStatusOfTheFishFaunaOfTheLa_14849]]
 - [[USDryingUpMexicanWetlands_1996_04_30]]
+- [[InformalSectionConsultationReP_13297]]

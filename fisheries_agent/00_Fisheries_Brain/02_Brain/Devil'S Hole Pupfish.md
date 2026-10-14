@@ -17,6 +17,10 @@ auto_enriched: true
 > - **[[Devil's Hole Pupfish]] as a legal/ecological precedent**: The 1976 U.S. Supreme Court ruling favoring pupfish habitat protection over groundwater pumping rights is cited as proof that species protection and regional economic development are not mutually exclusive -- Arizona's economy did no...
 > -- *[[WesternWaterPolicyFromReclamat_1999_06_08]]*
 
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
 ## Mentioned In
 - [[CommentsOnTheDesertFishesCounc_20490]]
 - [[WesternWaterPolicyFromReclamat_1999_06_08]]
+- [[InformalSectionConsultationReP_13297]]

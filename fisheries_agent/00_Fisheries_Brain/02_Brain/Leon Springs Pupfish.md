@@ -17,8 +17,12 @@ The Leon Springs Pupfish is a small cyprinodontid fish species endemic to limite
 > This 1993 preliminary project report from the U.S. EPA Environmental Research Laboratory (Gulf Breeze, FL), in cooperation with the U.S. Fish and Wildlife Service National Fisheries Contaminant Research Center, describes an ongoing study evaluating whether common, non-listed surrogate fish specie...
 > -- *[[UseOfSurrogateSpec_15243]]*
 
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[FisheriesFieldStationSummarySo_1996]]
 - [[SubpermitAuthorizationForColle_1990]]
 - [[UseOfSurrogateSpec_15243]]
+- [[EvaluationsAndSuggestionsConce_16480]]

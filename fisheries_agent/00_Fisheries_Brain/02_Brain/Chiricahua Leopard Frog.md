@@ -23,6 +23,9 @@ The Chiricahua Leopard Frog (*Rana chiricahuensis*) is an imperiled riparian and
 > - All six fish species are associated with **native freshwater stream systems** in the Fort Huachuca / Huachuca Mountains region of southeastern Arizona, an area of recognized high [[Biological Diversity|biodiversity]] cited by the Service. - These species co-occur on a candidate species list alo...
 > -- *[[FishAndWildlifeServiceLetterOn_1994_08_22]]*
 
+> This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
+> -- *[[AddendumToTheMarchEnvironmenta_11496]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[CommentsOnAndChangesToAnimalNo_11856]]
@@ -37,3 +40,4 @@ The Chiricahua Leopard Frog (*Rana chiricahuensis*) is an imperiled riparian and
 - [[MemorandumOnTapewormEradicatio_1996_10_17]]
 - [[ProposalToRenovateFinleyTankNa_1988_12_20]]
 - [[TheNextParagraphIsMissingButTh_11894]]
+- [[AddendumToTheMarchEnvironmenta_11496]]

@@ -23,6 +23,9 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 > - **Primary Habitat:** The Colorado River mainstem and tributaries between [[Glen Canyon Dam]] and [[Lake Mead]], including the San Juan Arm of [[Lake Powell]] (critical habitat for Razorback Sucker). - **Critical Micro-habitat:** **Backwater habitats** are identified as crucial nursery areas. Th...
 > -- *[[CommentsOnGlenCanyonDamOperati_1994_04_11]]*
 
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
@@ -51,3 +54,4 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 - [[ResearchOnEndangeredFishesInTh_14023]]
 - [[SummerDistributionAndReproduct_18541]]
 - [[TheEffectsOfDamOperationsOnAqu_1991]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

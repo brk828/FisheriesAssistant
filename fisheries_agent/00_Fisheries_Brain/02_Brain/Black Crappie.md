@@ -23,6 +23,9 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 > - **Large [[Black Crappie]], [[Yellow Bullhead]], and other large-bodied sunfish** are noted to be difficult for predatory fish and birds to capture and swallow due to their size, undermining the "predator control" hypothesis commonly proposed by anglers and the public. - No detailed morphometric...
 > -- *[[CausesOfDeathAmongIndianaFishe_1945]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -87,3 +90,4 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[UtilizationOfGizzardShadByGame_1958_11_20]]
 - [[VirginRiverOperationOctober_1988_10_04]]
+- [[ABibliographyAndHostListForThe_15289]]

@@ -23,6 +23,9 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 > This document is **not a scientific or ichthyological source**. It is a 1994 press release from the U.S. Department of the Interior announcing the appointment of Dr. H. Ronald Pulliam, an ecologist from the University of Georgia, as Director of the newly established [[National Biological Survey]]...
 > -- *[[UniversityOfGeorgiaProfessorTa_1994_05_02]]*
 
+> This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
+> -- *[[AmericanRiversStacMeetingOfJun_17977]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -34,3 +37,4 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 - [[LetterToSecretaryBabbittReques_1993_10_08]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
+- [[AmericanRiversStacMeetingOfJun_17977]]

@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Palmer Drought Severity Index
+
+## Summary
+The Palmer Drought Severity Index (PDSI) is a quantitative measure of moisture deficits that can lead to drought conditions, affecting habitat contraction, reduced dissolved oxygen, and increased salinity in aquatic systems. This source computed PDSI values for 18 climatological divisions across Mexico from 1947-1988, using monthly temperature and precipitation data with missing values replaced by divisional period-of-record means.
+
+## Context
+
+> This document describes a comprehensive climatological database for Mexico developed by Dr. Arthur Douglas (Creighton University). The dataset comprises monthly temperature and precipitation records from 280 precipitation stations and 92 temperature stations across 18 climatological divisions in...
+> -- *[[DouglasMexicanTemperaturePreci_12378]]*
+
+## Mentioned In
+- [[DouglasMexicanTemperaturePreci_12378]]

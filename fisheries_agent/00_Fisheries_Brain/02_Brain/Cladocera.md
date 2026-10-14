@@ -14,6 +14,9 @@ Cladocera are small crustacean zooplankton organisms that inhabit freshwater aqu
 > - **Habitat**: Four oligotrophic lakes in Algonquin Park, Ontario — Opeongo, Redrock, Merchants, and Happy Isle — subject to angling pressure intense enough to approximate maximum equilibrium yield ([[Ricker's Yield Model]]). - **Diet spectrum**: Lake trout diets ranged continuously from near-pur...
 > -- *[[TrophicDynamicsOfLakeTroutProd_1970]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[ANoteOnTheNumberOfEggsInTheEph_1956]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -21,3 +24,4 @@ Cladocera are small crustacean zooplankton organisms that inhabit freshwater aqu
 - [[ObservationsOnTheFoodOfCladoce_16410]]
 - [[Species Composition and Seasonal Distribution of Limnetic Crustacean Zooplankton of Northeastern Kansas]]
 - [[TrophicDynamicsOfLakeTroutProd_1970]]
+- [[EndangeredSpeciesInformationSy_14003]]

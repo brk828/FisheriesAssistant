@@ -23,6 +23,9 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 > Although not explicitly detailed, the correspondence implies an ecological context centered on: - **Desert aquatic habitats**: isolated springs, spring-fed streams, and remnant river systems characteristic of arid Southwestern ecosystems (e.g., the [[Gila River Basin]], [[Colorado River Basin]])....
 > -- *[[DepartmentRepresentativeChange_1993_02_11]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReDescriptionOfAphaniusGinaon_1980]]
@@ -78,3 +81,4 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 - [[TheDistributionOfTheOviparousK_16815]]
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
 - [[WeitereUntersuchungenZumGeschl_11192]]
+- [[EndangeredSpeciesInformationSy_14003]]

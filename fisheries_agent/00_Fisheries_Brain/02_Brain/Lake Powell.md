@@ -23,6 +23,9 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > - **Wild population sampling sites**: [[Lake Mohave]], [[Lake Powell]], the [[Green River]]/[[Yampa River]] confluence area, and the Colorado River mainstem near [[Grand Junction]] (including Highline Lake and Etter Pond), representing both lentic (reservoir) and lotic (riverine) habitats within ...
 > -- *[[AnnualReportOnUSBureauOfReclam_19117]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -89,3 +92,4 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[SolicitationOfResearchProposal_1990_03_20]]
 - [[TheHumpbackChubGilaCyphaExcerp_13277]]
 - [[ThousandsOfEndangeredFishToBeS_1997_09_18]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

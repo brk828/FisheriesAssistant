@@ -23,6 +23,18 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This 1994 internal memorandum from the Illinois Natural History Survey (Dave Philipp's lab, analysis by Todd Kassler) presents electrophoretic genetic analyses conducted to independently test Dr. Buth's hypothesis that [[Razorback Sucker]] (RBS, *Xyrauchen texanus*) individuals from Etter Pond, C...
 > -- *[[AdditionalRazorbackSuckerGenet_1994_04_28]]*
 
+> This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
+> -- *[[ListedAndCandidateSpeciesRespo_11941]]*
+
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
+> This 1987 letter from Donald W. to Dr. W.L. Minckley discusses concerns about the U.S. Fish and Wildlife Service's endangered species recovery approach, particularly the practice of spreading rare species across multiple locations ("Johnny Applefish" approach) and over-reliance on aquarium...
+> -- *[[LetterToMinckley_20487]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -586,3 +598,7 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[WithdrawalOfProposedRuleForExp_1993_12_10]]
 - [[YourCurrentUsFishAndWildlifeSe_1993_04_02]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
+- [[ListedAndCandidateSpeciesRespo_11941]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[EvaluationsAndSuggestionsConce_16480]]
+- [[LetterToMinckley_20487]]

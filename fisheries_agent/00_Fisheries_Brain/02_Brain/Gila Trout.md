@@ -23,6 +23,9 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 > - The [[Desert Fishes Recovery Team]] operates under the U.S. Fish and Wildlife Service's Albuquerque Regional Office, coordinating recovery planning across federal jurisdictions. - Consultants (such as Charles Kennedy of the Coronado National Forest) may be called upon selectively, primarily whe...
 > -- *[[ConsultantAppointmentCorrespon_1986_04_16]]*
 
+> This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
+> -- *[[AddendumToTheMarchEnvironmenta_11496]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -84,3 +87,4 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 - [[WildlifeConservationActAmendme_1995]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[AddendumToTheMarchEnvironmenta_11496]]

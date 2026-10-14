@@ -23,6 +23,9 @@ The Common Shiner is a small cyprinid minnow species utilized as a forage and ba
 > **Kansas River Basin close associates (clear, spring-fed streams):** - [[White Sucker]] (*Catostomus commersoni*) - [[Creek Chub]] (*Semotilus atromaculatus*) - [[Southern Redbelly Dace]] (*Chrosomus erythrogaster*) - [[Common Shiner]] (*Notropis cornutus*) - [[Bluntnose Minnow]] (*Pimephales not...
 > -- *[[DistributionHabitatAndAbundanc_1959]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -37,3 +40,4 @@ The Common Shiner is a small cyprinid minnow species utilized as a forage and ba
 - [[NaturalProductivityOfFishAndCr_1940]]
 - [[StudyOfToxicityAndDispersionOf_12586]]
 - [[UseOfBioassaysInDeterminingLev_13904]]
+- [[ABibliographyAndHostListForThe_15289]]

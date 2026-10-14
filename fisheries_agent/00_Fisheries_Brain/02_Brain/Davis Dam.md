@@ -23,6 +23,9 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > 1. **Population status**: No viable, reproducing populations remained anywhere in the Colorado River Basin as of 1980. The sole confirmed population (Lake Mohave) comprised only elderly adults; spawning behavior was observed but produced no surviving young. 2. **Primary threat — habitat alteratio...
 > -- *[[DeterminationThatTheBonytailCh_1980_04_23]]*
 
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
 ## Mentioned In
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -41,3 +44,4 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[RecommendationsForEstablishmen_20762]]
 - [[ReportToTheColoradoR_19845]]
 - [[TheStatusOfTheFishFaunaOfTheLa_14849]]
+- [[InformalSectionConsultationReP_13297]]

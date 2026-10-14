@@ -23,6 +23,12 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > - **Habitat**: Mainstem Lower Colorado River and associated reservoirs — [[Lake Mead]], [[Lake Mohave]], and [[Lake Havasu]] — plus historic reintroduction sites in the Gila, Salt, and Verde Rivers. - **Trophic interactions**: The dominant ecological pressure on native fish recruitment is identif...
 > -- *[[ColoradoRiverBoardOfCalifornia_1997_07_25]]*
 
+> This 1957 study by [[Howard P. Clemens]] and [[Kermit E. Sneed]] documents the spawning behavior of [[Channel Catfish]] (*Ictalurus punctatus*) induced to spawn in glass aquaria via fish pituitary injections. The research was conducted under the [[Saltonstall-Kennedy Act]] at the [[U.S. Fish...
+> -- *[[TheSpawningBehaviorOfTheChanne_15949]]*
+
+> This study examined the production efficiency of [[Threadfin Shad]] (*Dorosoma petenense*) in experimental ponds at varying stocking densities (100–1,600 adults per acre) to determine optimal rates for maximum forage production. Total production ranged from 84.5 to 290.0 pounds per acre, with net...
+> -- *[[ProductionOfTheThreadfinShadDo_15096]]*
+
 ## Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -74,3 +80,5 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[VerdeRiverFishResearch_1998]]
 - [[VerdeRiverFishResearch_1998_02_17]]
 - [[VerdeRiverFishSampling_1989_03_06]]
+- [[TheSpawningBehaviorOfTheChanne_15949]]
+- [[ProductionOfTheThreadfinShadDo_15096]]

@@ -14,7 +14,11 @@ Ruedi Reservoir is a water storage facility on the Colorado River system whose r
 > This 1989 memorandum from the U.S. Fish and Wildlife Service (Service) to the Bureau of Reclamation documents a water management action taken under the Endangered Species Act to benefit the endangered [[Colorado Squawfish]] in the [[15-Mile Reach]] of the [[Colorado River]]. As a condition of a 1...
 > -- *[[RequestForReleasesFromRuedigre_1989_06_08]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[MemorandumOnColoradoRiverRecov_21012]]
 - [[RequestForReleasesFromRuedigre_1989_06_08]]
 - [[SavingTheSquawfish_20454]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

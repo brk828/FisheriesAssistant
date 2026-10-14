@@ -23,9 +23,13 @@ The Arroyo Chub (Gila orcuttii) is a small cyprinid fish endemic to southern Cal
 > **Cachuma Reservoir** (large, deep): - Located on the Santa Ynez River, 25 mi NE of Santa Barbara; watershed = 421 sq mi - Max depth: 190 ft; max storage: 205,000 acre-feet (3,250 acres); study period max volume: 170,000 acre-feet - Steep-sided, rocky shoreline; grassy terrain with oak as climax ...
 > -- *[[TheAgeAndGrowthOfBluegillLepom_18719]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
 - [[LatePleistoceneFreshwaterFishe_1989]]
 - [[OriginOfBroodStockAndAllozymeV_1989]]
 - [[TheAgeAndGrowthOfBluegillLepom_18719]]
+- [[AConservationorientedClassific_15455]]

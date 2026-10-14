@@ -23,6 +23,9 @@ Ash Meadows is a spring-fed complex of isolated wetland habitats in the Death Va
 > - **[[Devils Hole Pupfish]]** (*Cyprinodon diabolis*) — restricted to [[Devils Hole]], with a small transplanted refuge population near [[Hoover Dam]]. - **[[Pahrump Killifish]]** (*Empetrichthys latos*) — maintained via refugium ponds at [[Corn Creek]], an aquarium population at UNLV, and histor...
 > -- *[[FourthAnnualMeetingDeathValley_11111]]*
 
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -44,3 +47,4 @@ Ash Meadows is a spring-fed complex of isolated wetland habitats in the Death Va
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[SpecialSymposiumOnTheBiotaOfCu_19762]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
+- [[InformalSectionConsultationReP_13297]]

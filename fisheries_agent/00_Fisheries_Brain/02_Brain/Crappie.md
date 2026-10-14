@@ -23,6 +23,9 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 > - **Study site**: Backwater eddies at the Green–Duchesne confluence, identified as critical **nursery habitat** for juvenile [[Colorado Pikeminnow]] and other native [[Colorado River Fishes|Colorado River endemic fishes]]. - **Habitat dynamics**: Backwaters become increasingly isolated from main ...
 > -- *[[ControlOfNonnativeFishAtTheCon_1993_12_10]]*
 
+> This 1957 study by [[Howard P. Clemens]] and [[Kermit E. Sneed]] documents the spawning behavior of [[Channel Catfish]] (*Ictalurus punctatus*) induced to spawn in glass aquaria via fish pituitary injections. The research was conducted under the [[Saltonstall-Kennedy Act]] at the [[U.S. Fish...
+> -- *[[TheSpawningBehaviorOfTheChanne_15949]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -44,3 +47,4 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[ToxicFreshWaterAlgae_14366]]
+- [[TheSpawningBehaviorOfTheChanne_15949]]

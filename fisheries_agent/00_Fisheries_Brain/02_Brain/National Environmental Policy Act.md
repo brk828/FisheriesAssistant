@@ -23,6 +23,12 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 > This document is not a conventional species-level scientific paper but a 1993 internal memorandum authored by W.L. Minckley (Arizona State University, Department of Zoology) addressing the institutional and policy failures underlying native fish recovery efforts in the [[Lower Colorado River Basi...
 > -- *[[MemorandumOnNativeFishRecovery_15822]]*
 
+> The [[Southwest Center for Biological Diversity]] (SWCBD) and Dr. Robin Silver filed a lawsuit in U.S. District Court (Phoenix) against [[Ft. Huachuca]] and the Defense Department for violations of the [[National Environmental Policy Act]] (NEPA). The suit alleges illegal failure to evaluate,...
+> -- *[[LawsuitFiledAgainstFtHuachucaT_18965]]*
+
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[BoardOfCountyCommissionersOfTh_11767]]
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
@@ -38,3 +44,5 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 - [[NoticeOfInteragencyCooperative_1994_07_01]]
 - [[PlanOfferedToProtectHabitatsOf_18307]]
 - [[RulingOrdersUniversityToStopCu_1994_07_29]]
+- [[LawsuitFiledAgainstFtHuachucaT_18965]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

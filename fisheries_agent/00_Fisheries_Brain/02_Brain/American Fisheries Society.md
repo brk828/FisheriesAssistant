@@ -23,6 +23,9 @@ The American Fisheries Society is a professional scientific organization dedicat
 > This document is a **policy and news report**, not a primary scientific study, covering a 2000 speech by Oregon Governor John Kitzhaber to the Oregon Chapter of the [[American Fisheries Society]] annual conference. The speech addresses the imminent risk of extinction facing [[Pacific Salmon]] pop...
 > -- *[[KitzhaberCallsForBreachingFour_13544]]*
 
+> This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
+> -- *[[AmericanRiversStacMeetingOfJun_17977]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[AmericanFisheriesSocietyProtoc_12011]]
@@ -48,3 +51,4 @@ The American Fisheries Society is a professional scientific organization dedicat
 - [[TroutNomenclature_18189]]
 - [[UsFishAndWildlifeServiceMeetin_15771]]
 - [[WaterPollutionAbatementOurGrea_14153]]
+- [[AmericanRiversStacMeetingOfJun_17977]]

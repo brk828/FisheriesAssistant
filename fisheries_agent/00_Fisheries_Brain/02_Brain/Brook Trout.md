@@ -23,6 +23,9 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > This 1981 study documents a chemical renovation (piscicide) effort on Ord Creek, a high-elevation tributary stream in the White Mountains of east-central Arizona, undertaken to eliminate invasive [[Brown Trout]] (*Salmo trutta*) and [[Brook Trout]] (*Salvelinus fontinalis*) and restore the threat...
 > -- *[[ChemicalTreatmentOfOrdCreekApa_15012]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -97,3 +100,4 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[WaterTemperatureReductionInSho_1959]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[WinterObservationsOnBottomOrga_16187]]
+- [[ABibliographyAndHostListForThe_15289]]

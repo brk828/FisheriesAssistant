@@ -23,6 +23,9 @@ Salmon are anadromous fish species belonging to the family Salmonidae that migra
 > This paper by C. Lavett Smith (American Museum of Natural History) is a methodological/taxonomic essay rather than a field or morphometric study. It argues that classifications of freshwater fishes—specifically the ordering of [[Minnows]] (Cyprinidae), [[Suckers]] (Catostomidae), and [[Catfishes]...
 > -- *[[MinnowsFirstThenTrout_21137]]*
 
+> This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
+> -- *[[AmericanRiversStacMeetingOfJun_17977]]*
+
 ## Mentioned In
 - [[ASystemForRecordingMeasurement_1947]]
 - [[BlameTheArmyForMuckyRiversToo_1995_04_17]]
@@ -33,3 +36,4 @@ Salmon are anadromous fish species belonging to the family Salmonidae that migra
 - [[ListOfFisheryAssociationsInThe_12333]]
 - [[MinnowsFirstThenTrout_21137]]
 - [[TheRealPartnershipQuestion_1994_07_29]]
+- [[AmericanRiversStacMeetingOfJun_17977]]

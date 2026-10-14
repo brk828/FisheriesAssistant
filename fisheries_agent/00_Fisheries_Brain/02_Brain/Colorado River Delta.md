@@ -23,6 +23,9 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 > - The historic (pre-dam) Colorado River delta functioned as a high-nutrient estuarine system supporting a commercially and recreationally important [[Totoaba]] fishery and a productive shrimp fishery — both now severely diminished. - Local fishermen in El Golfo de Santa Clara and other Upper Gulf...
 > -- *[[HumanResponsesToADynamicRiverT_1994_11_08]]*
 
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AnalysisOfPenaeidShrimpLanding_16892]]
@@ -37,3 +40,4 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 - [[SantaClaraSloughSurveys_1992_09_08]]
 - [[TestimonyOfDalePontiusOnTheLow_1994_06_08]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
+- [[InformalSectionConsultationReP_13297]]

@@ -14,6 +14,10 @@ auto_enriched: true
 > **Interspecific Hybridization:** - [[Lost River Sucker]] and [[Shortnose Sucker]] both hybridize with [[Klamath Largescale Sucker]]. - Hybridization between Lost River and Shortnose Suckers themselves is **less common** than hybridization of either with Klamath Largescale Sucker. - Hybridization ...
 > -- *[[ScopeOfWorkForShortnoseAndLost_1986_12_08]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[GeneticsMorphologyAndSystemati_19379]]
 - [[ScopeOfWorkForShortnoseAndLost_1986_12_08]]
+- [[AConservationorientedClassific_15455]]

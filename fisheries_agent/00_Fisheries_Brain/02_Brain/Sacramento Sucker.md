@@ -23,8 +23,12 @@ The Sacramento Sucker (*Catostomus occidentalis*) is a native cyprinid fish spec
 > - **24 total species** collected (12 native / 12 introduced) across 167 sites in Fresno, Tulare, Madera, Mariposa, Tuolumne, Stanislaus, and Calaveras counties. - **Range contraction in natives**: [[California Roach]], [[Hardhead]], [[Sacramento Squawfish]], and [[Sacramento Sucker]] show substan...
 > -- *[[DeclineOfTheNativeFishFaunaOfT_1974]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[DeclineOfTheNativeFishFaunaOfT_1974]]
 - [[GeneticsMorphologyAndSystemati_19379]]
 - [[MicrohabitatUseByAnAssemblageO_1985]]
 - [[ResponsesOfFishPopulationsInTh_1983]]
+- [[AConservationorientedClassific_15455]]

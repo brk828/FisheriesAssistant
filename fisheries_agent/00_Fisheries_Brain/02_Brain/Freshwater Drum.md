@@ -23,6 +23,9 @@ The freshwater drum (Aplodinotus grunniens) is a benthic-feeding cypriniform fis
 > Between January and May 1965, an unprecedented epizootic (disease-driven die-off, as distinct from a pollution-caused "fish-kill") swept through [[Kentucky Lake]] and the adjacent [[Pickwick Reservoir]] on the Tennessee River. Beginning below [[Pickwick Dam]] with mass mortality of [[Freshwater D...
 > -- *[[CatastrophicFishMortalitiesOnK_1965_11_16]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -45,3 +48,4 @@ The freshwater drum (Aplodinotus grunniens) is a benthic-feeding cypriniform fis
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[TheMusselPopulationOfAnAreaOfL_14967]]
 - [[TheSportFisheryOfTenkillerFerr_16926]]
+- [[ABibliographyAndHostListForThe_15289]]

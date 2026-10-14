@@ -17,7 +17,11 @@ The Narrow-Headed Garter Snake is an aquatic or semi-aquatic reptile species nat
 > - **Habitat integrity**: The Blue River watershed is described as being in "relative pristine condition" with a "relatively unaltered hydrograph," which is cited as the key factor enabling persistence of one of the last intact native fish communities in the [[Gila River Basin]]. - **Community com...
 > -- *[[LetterToUSForestServiceRegardi_1991_02_15]]*
 
+> This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
+> -- *[[AddendumToTheMarchEnvironmenta_11496]]*
+
 ## Mentioned In
 - [[CrayfishImpactsOnWetlandHerps_1993_10_10]]
 - [[FederalCandidateSpeciesOfArizo_11661]]
 - [[LetterToUSForestServiceRegardi_1991_02_15]]
+- [[AddendumToTheMarchEnvironmenta_11496]]

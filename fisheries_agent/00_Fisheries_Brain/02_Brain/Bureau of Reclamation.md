@@ -23,6 +23,15 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > This completion report, prepared by Bud Bristow for the [[Arizona Game and Fish Department]] under Project FW-16-R-6, documents fish and wildlife management activities on the [[Lower Colorado River]] from August 1966 to March 1967. Rather than focusing on individual species biology, the study add...
 > -- *[[ColoradoRiverStudies_1967_03_31]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
+> This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
+> -- *[[AmericanRiversStacMeetingOfJun_17977]]*
+
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -90,3 +99,6 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[VerdeRiverFishResearch_1995_07_03]]
 - [[VerdeRiverFishResearch_1998_02_17]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[AmericanRiversStacMeetingOfJun_17977]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

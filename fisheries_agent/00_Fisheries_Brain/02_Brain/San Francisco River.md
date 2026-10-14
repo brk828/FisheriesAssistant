@@ -23,6 +23,9 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 > - **[[Gila River]] / [[San Francisco River]] / [[Verde River]] systems**: Discussed as focal areas for critical habitat reproposal and reintroduction planning for spikedace and loach minnow. The Alma Valley reach of the San Francisco River, a candidate reintroduction site, seasonally dries due to...
 > -- *[[FinalMinutesOfTheFebruaryMeeti_1993_07_20]]*
 
+> This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
+> -- *[[AddendumToTheMarchEnvironmenta_11496]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -43,3 +46,4 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 - [[TheGilaBoxAWildernessCanyonOnT_13093]]
 - [[TripReportBlueRiverDecember_1994_12_16]]
 - [[UpperVerdeRiverAquaticStudy_15611]]
+- [[AddendumToTheMarchEnvironmenta_11496]]

@@ -23,6 +23,9 @@ The Chihuahua Chub is an endangered cyprinid fish endemic to the Rio Yaqui basin
 > - **Salmonids**: [[Apache Trout]] (Threatened), [[Gila Trout]] (Endangered), Brook Trout, Brown Trout, Rainbow Trout - **Catostomids (suckers)**: [[Razorback Sucker]] (Endangered), [[Warner Sucker]] - **Cyprinids (minnows/chubs)**: [[Colorado Squawfish]], [[Bonytail]] (Endangered), [[Chihuahua Ch...
 > -- *[[FisheriesFieldStationSummarySo_1996]]*
 
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
 ## Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1985_12_10]]
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
@@ -45,3 +48,4 @@ The Chihuahua Chub is an endangered cyprinid fish endemic to the Rio Yaqui basin
 - [[RegionalResponseToRecoveryTeam_1992_02_07]]
 - [[SPECIES RESPONSIBILITIES OF DESERT FISHES RECOVERY TEAM]]
 - [[SpeciesResponsibilitiesOfDeser_1989_12_07]]
+- [[EvaluationsAndSuggestionsConce_16480]]

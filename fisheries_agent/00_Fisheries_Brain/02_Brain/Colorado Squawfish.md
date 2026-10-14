@@ -23,6 +23,12 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This FY93 annual project report documents an ongoing investigation (Colorado River Recovery Program Project #18(10)) into the ecological role of fish predation within backwater habitats of the [[Green River]], a critical nursery habitat for the endangered [[Colorado Squawfish]] (*Ptychocheilus lu...
 > -- *[[AnEvaluationOfFishPredationInB_1993]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -215,3 +221,5 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[WinterMovementAndHabitatOfAdul_1993_12_16]]
 - [[WithdrawalOfProposedRuleForExp_1993_12_10]]
 - [[YampaRiverChannelMonitoring_1993]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[EvaluationsAndSuggestionsConce_16480]]

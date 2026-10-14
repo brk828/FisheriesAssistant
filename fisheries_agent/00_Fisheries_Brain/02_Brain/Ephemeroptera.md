@@ -23,6 +23,9 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 > - **Habitat Structure**: Researchers specifically selected stations to include both riffle and pool habitats to capture a representative sample of the [[Lotic Ecosystem]]. - **Community Interactions**: The confluence with the Clinch River (Station 7) showed fish diversity patterns skewed by an up...
 > -- *[[TheEffectsOfAnOilSpillOnTheMac_1976]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[ComparativeEcologyOfNotropisAl_14679]]
@@ -37,3 +40,4 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 - [[TheLargeRiverAsAHabitatReferen_14556]]
 - [[TitleClearDateStuttgartMarzYea_13338]]
 - [[WinterObservationsOnBottomOrga_16187]]
+- [[EndangeredSpeciesInformationSy_14003]]

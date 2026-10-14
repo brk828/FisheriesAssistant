@@ -20,6 +20,9 @@ The hyporheic zone is the subsurface region of saturated sediment beneath and ad
 > - **Habitat definition**: The **[[Hyporheic Zone]]** is the saturated interstitial sediment zone beneath and lateral to a stream channel where surface water and groundwater actively exchange (sensu Orghidan 1959; Ward 1989). - **Four-dimensional stream ecosystem concept**: Ward (1989) extended lo...
 > -- *[[PerspectivesOnTheHyporheicZone_1993]]*
 
+> This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
+> -- *[[AmericanRiversStacMeetingOfJun_17977]]*
+
 ## Mentioned In
 - [[ContributionOfTheHyporheicZone_17791]]
 - [[HyporheicSurfaceWaterExchangeI_13668]]
@@ -27,3 +30,4 @@ The hyporheic zone is the subsurface region of saturated sediment beneath and ad
 - [[PerspectivesOnTheHyporheicZone_1993]]
 - [[PrimiDatiSullaComposizioneDell_1983_12_30]]
 - [[TheRecolonizationMechanismsOfS_11992]]
+- [[AmericanRiversStacMeetingOfJun_17977]]

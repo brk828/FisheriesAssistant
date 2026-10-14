@@ -23,6 +23,9 @@ The cui-ui (*Chasmistics cujus*) is an endangered catostomid fish (sucker family
 > This document combines a [[Cui-ui Recovery Team]] meeting notice (October 14–15, 1993, Reno, NV) with a U.S. Fish and Wildlife Service (FWS) news release reporting a dramatic increase in the adult population of the endangered [[Cui-ui]] (*Chasmistes cujus*), a catostomid fish endemic to [[Pyramid...
 > -- *[[CuiUiRecoveryTeamMeetingNotice_1993_09_14]]*
 
+> Field survey conducted May 4-5, 1989 at [[Pyramid Lake]], Nevada to assess hybridization between endangered [[Cui-ui]] (*Chasmistes cujus*) and [[Tahoe Sucker]] (*Catostomus tahoensis*). Approximately 300-400 cui-ui were tagged during one day of trap netting operations; nearly 8,000 fish tagged...
+> -- *[[SummaryOfPyramidLakeTrip_13173]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[AllozymeDifferencesDuplicateGe_11423]]
@@ -60,3 +63,4 @@ The cui-ui (*Chasmistics cujus*) is an endangered catostomid fish (sucker family
 - [[ReviewOfThirdDraftCuiUiRecover_1991_03_25]]
 - [[TitleAnalysisOfTheCaseByUSFish_14626]]
 - [[TwentyFirstAnnualDesertFishesC_1989_11_16]]
+- [[SummaryOfPyramidLakeTrip_13173]]

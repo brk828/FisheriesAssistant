@@ -17,9 +17,13 @@ Baetidae is a major family of mayflies (order Ephemeroptera) that comprises smal
 > - **Taxon:** *Baetis harrisoni* Barnard (Order Ephemeroptera, Family [[Baetidae]]) - **Life stage examined:** Aquatic nymph, across multiple instars (approx. 4th–8th instar "early stages," 12th–16th instar "middle stages," penultimate instar, and ultimate instar) - **Key sensory structures implic...
 > -- *[[OnTheDorsalLightResponseInAMay_14496]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[MiddleGilaRiverAquaticStudy_12505]]
 - [[MiseEnÉvidenceDUnCaractèreSexu_1970]]
 - [[OnTheDorsalLightResponseInAMay_14496]]
 - [[TagNachtrhythmusVonBaetidenlar_1963]]
+- [[EndangeredSpeciesInformationSy_14003]]

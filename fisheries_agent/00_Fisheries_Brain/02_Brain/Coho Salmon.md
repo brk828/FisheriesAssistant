@@ -23,6 +23,9 @@ Coho Salmon (*Oncorhynchus kisutch*) are anadromous salmonids native to North Pa
 > A **species code table** (pages 3–4) lists roughly 150 species codes, covering a broad taxonomic range including: - Anadromous/salmonid species: [[Chinook Salmon]] (fall, spring, summer, winter, late-fall runs), [[Coho Salmon]], [[Chum Salmon]], [[Sockeye Salmon]], [[Pink Salmon]], [[Atlantic Sal...
 > -- *[[FishDistributionNumbersAndWeig_1992]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[APopulationOfDwarfCoastrangeSc_1960]]
@@ -48,3 +51,4 @@ Coho Salmon (*Oncorhynchus kisutch*) are anadromous salmonids native to North Pa
 - [[StationProfileOfTheQ_1993]]
 - [[UseOfGeneticMarksToAssessStock_11327]]
 - [[WaterRequirementsOfSalmonids_12413]]
+- [[AConservationorientedClassific_15455]]

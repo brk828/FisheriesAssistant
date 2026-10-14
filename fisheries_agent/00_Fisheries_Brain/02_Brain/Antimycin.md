@@ -23,8 +23,12 @@ Antimycin is a potent piscicide (fish toxicant) used in fisheries management and
 > - **Habitat context:** All species are freshwater fish native to North American lakes, rivers, and hatchery systems; tested in reconstituted deionized water under controlled laboratory water-quality regimes (soft, medium, hard — categorized by CaSO₄, MgSO₄, and KCl concentrations). - **Trophic/ta...
 > -- *[[ToxicityOfDimethylSulfoxideDms_13283]]*
 
+> This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
+> -- *[[AddendumToTheMarchEnvironmenta_11496]]*
+
 ## Mentioned In
 - [[LetterFromGailGriffinToArizona_1999_04_07]]
 - [[MinutesOfMeetingOfFisheryBiolo_2000_05_24]]
 - [[ToxicityOfDimethylSulfoxideDms_13283]]
 - [[UseOfAntimycinForSelectiveThin_14083]]
+- [[AddendumToTheMarchEnvironmenta_11496]]

@@ -23,6 +23,9 @@ The Clean Water Act, particularly Section 404, is a federal statute that regulat
 > - Restore, reconstruct, or rehabilitate the **structure, distribution, connectivity, and function** of ecosystems upon which listed species depend. - Develop recovery plans for **entire communities of species** occupying shared ecosystems, rather than a strict single-species approach. - Integrate...
 > -- *[[NoticeOfInteragencyCooperative_1994_07_01]]*
 
+> This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
+> -- *[[AmericanRiversStacMeetingOfJun_17977]]*
+
 ## Mentioned In
 - [[DesertFishesCouncilLetterToSec_1990_06_06]]
 - [[FaxogramRegardingAravaipaCreek_1990_12_19]]
@@ -32,3 +35,4 @@ The Clean Water Act, particularly Section 404, is a federal statute that regulat
 - [[NoticeOfInteragencyCooperative_1994_07_01]]
 - [[StatementByThePresidentOnEndan_18327]]
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
+- [[AmericanRiversStacMeetingOfJun_17977]]

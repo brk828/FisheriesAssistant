@@ -23,6 +23,9 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > - **Wild population sampling sites**: [[Lake Mohave]], [[Lake Powell]], the [[Green River]]/[[Yampa River]] confluence area, and the Colorado River mainstem near [[Grand Junction]] (including Highline Lake and Etter Pond), representing both lentic (reservoir) and lotic (riverine) habitats within ...
 > -- *[[AnnualReportOnUSBureauOfReclam_19117]]*
 
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -188,3 +191,4 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[WillowBeachRazorbackSuckers_1994_03_05]]
 - [[YourCurrentUsFishAndWildlifeSe_1993_04_02]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
+- [[InformalSectionConsultationReP_13297]]

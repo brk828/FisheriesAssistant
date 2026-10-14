@@ -23,6 +23,9 @@ The Pahrump Killifish (*Empetrichthys latos*) is a small livebearing fish endemi
 > - **Habitat:** Endemic to isolated desert spring systems and spring-fed impoundments in the Mojave Desert region of Nevada; part of the broader **[[Death Valley System]]** pupfish/poolfish radiation - **Thermal ecology:** - Laboratory culture temperature (24.5°C ± 2.5°C) selected to approximate t...
 > -- *[[ReproductionAndGrowthOfThePahr_15649]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[BullfrogPredation_1985_11_27]]
@@ -32,3 +35,4 @@ The Pahrump Killifish (*Empetrichthys latos*) is a small livebearing fish endemi
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[ReproductionAndGrowthOfThePahr_15649]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
+- [[EndangeredSpeciesInformationSy_14003]]

@@ -23,6 +23,9 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 > This 1985 invited editorial by fishery biologist Edwin P. Pister (California Department of Fish and Game) is a first-person reflective account—not a primary data paper—chronicling his career transition from managing put-and-take trout fisheries in the [[Owens Valley]] to becoming a central figure...
 > -- *[[DesertPupfishesReflectionsOnRe_11118]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
@@ -37,3 +40,4 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 - [[OccurrenceOfTheTigerBarbBarbus_1974]]
 - [[OurDisappearingDesertFishes_1980]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
+- [[AConservationorientedClassific_15455]]

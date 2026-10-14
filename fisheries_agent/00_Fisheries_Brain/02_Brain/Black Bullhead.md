@@ -23,6 +23,9 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 > **High resistance (up to 120 p.p.b.):** - [[Black Bullhead]], [[Yellow Bullhead]]
 > -- *[[AntimycinFintrolAsAFishToxican_1965_10_18]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
@@ -94,3 +97,4 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
+- [[ABibliographyAndHostListForThe_15289]]

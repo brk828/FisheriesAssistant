@@ -23,6 +23,9 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 > - Logistical/environmental impact concern: multiple concurrent research contracts are converging on the **Little Colorado River** camps, raising concern about cumulative human impact from field crews conducting endangered fish research — a non-biological but operationally significant finding for ...
 > -- *[[GlenCanyonEnvironmentalStudies_19698]]*
 
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -78,3 +81,4 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 - [[TransmittalOfNavajoNationLittl_1992_11_17]]
 - [[UsfwsLcrResearchTripReportHump_11069]]
 - [[VariousProposalsForStudiesOfEn_1993_12_17]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

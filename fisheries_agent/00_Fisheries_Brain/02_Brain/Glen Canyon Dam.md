@@ -23,6 +23,9 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > #ichthyology #freshwater-ecology #riverine-ecology #cyprinidae #[[Glen Canyon Dam]]
 > -- *[[AProposalToMonitorTheEffectsOf_11482]]*
 
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -131,3 +134,4 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[TheHumpbackChubGilaCyphaExcerp_13277]]
 - [[TransmittalOfNavajoNationLittl_1992_11_17]]
 - [[Untitled_1991_11_04]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

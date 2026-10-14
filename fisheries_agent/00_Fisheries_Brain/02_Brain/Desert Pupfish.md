@@ -23,6 +23,12 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > - **Regulatory driver**: The [[Endangered Species Act of 1973]] requires USFWS to develop recovery plans for listed species; introductions have become a prominent recovery tool in recent decades. - **Case study — Amistad Gambusia (*Gambusia amistadensis*)**: Known only from Goodenough Spring, inu...
 > -- *[[AmericanFisheriesSocietyProtoc_12011]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -191,3 +197,5 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[UtilizationOfPondsAtBuenosAire_1986_06_06]]
 - [[WaterTableDeclineInTheSouthCen_1986]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
+- [[AConservationorientedClassific_15455]]
+- [[EvaluationsAndSuggestionsConce_16480]]

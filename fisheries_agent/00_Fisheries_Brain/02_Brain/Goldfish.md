@@ -23,6 +23,9 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 > - **[[Yellow Perch]]** (*Perca flavescens*) — Percidae - **[[Pumpkinseed]]** (*Lepomis gibbosus*) — Centrarchidae - **[[Bluegill]]** (*Lepomis macrochirus*) — Centrarchidae - **[[Black Crappie]]** (*Pomoxis nigromaculatus*) — Centrarchidae - **[[Largemouth Bass]]** (*Micropterus salmoides*) — Cen...
 > -- *[[DisappearanceOfEndrinFromFishA_12936]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -64,3 +67,4 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 - [[TheToxicityOfCadmiumToRainbowT_17294]]
 - [[TheToxicityToWarmWaterFishesOf_14914]]
 - [[TurtlesInTheHomeAquarium_13269]]
+- [[EndangeredSpeciesInformationSy_14003]]

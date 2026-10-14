@@ -14,6 +14,9 @@ Nevada in the context of fish science and conservation refers to the geographic 
 > - **Establishment**: Founded in 1962 under Public Land Order No. 1941 (Federal Register Vol. 24, Num. 162, August 19, 1959). - **Primary Mission**: Mitigation hatchery producing [[Rainbow Trout]] for the coldwater fishery created by [[Hoover Dam]]. - **Infrastructure**: Includes a hatchery buildi...
 > -- *[[StationProfileOfWillowBeachNat_19507]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[DemographicsOfTroutAnglersInTh_12587]]
 - [[EndanderedAndThreatenedWildlif_16520]]
@@ -21,3 +24,4 @@ Nevada in the context of fish science and conservation refers to the geographic 
 - [[RainbowSmeltIntroductionIntoLa_1989]]
 - [[StationProfileOfWillowBeachNat_19507]]
 - [[VirginChubGilaRobustaSeminuda_1989_09_07]]
+- [[EndangeredSpeciesInformationSy_14003]]

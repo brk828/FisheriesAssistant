@@ -23,6 +23,9 @@ Chinook Salmon (*Oncorhynchus tshawytscha*) are the largest Pacific salmon speci
 > This is not a species-morphology paper; it is a fishing-effort/creel survey concerned with angler behavior rather than fish anatomy. No morphological data on target species are presented. The [[San Francisco Bay and Delta]] fishery is noted as targeting primarily anadromous species — [[Chinook Sa...
 > -- *[[CaliforniaMarineAndFreshWaterS_15910]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
@@ -51,3 +54,4 @@ Chinook Salmon (*Oncorhynchus tshawytscha*) are the largest Pacific salmon speci
 - [[TwoYearCreelCensusOfTheLittleS_1955]]
 - [[UseOfGeneticMarksToAssessStock_11327]]
 - [[WaterRequirementsOfSalmonids_12413]]
+- [[AConservationorientedClassific_15455]]

@@ -23,6 +23,9 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > This third-year annual report (submitted by Thomas E. Dowling, Arizona State University, to the U.S. Bureau of Reclamation) presents mitochondrial DNA (mtDNA) restriction fragment analysis of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the Colorado River Basin. Samples were anal...
 > -- *[[AnnualReportOnRazorbackSuckerM_1992_11_24]]*
 
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -105,3 +108,4 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[TheHumpbackChubGilaCyphaExcerp_13277]]
 - [[TheStatusOfTheFishFaunaOfTheLa_14849]]
 - [[WhatIsAmericanRiversDoingInThe_1997]]
+- [[InformalSectionConsultationReP_13297]]

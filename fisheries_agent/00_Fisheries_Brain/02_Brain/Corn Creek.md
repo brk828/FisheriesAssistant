@@ -11,6 +11,10 @@ auto_enriched: true
 > - **[[Manse Spring]]** — sole natural site for *Empetrichthys latos* (Pahrump killifish); dense vegetation complicates population monitoring. - **[[Corn Creek]]** (near Las Vegas) — transplant site for *E. latos*, where competition with introduced *[[Gambusia Affinis]]* has driven a steep populat...
 > -- *[[SecondAnnualMeetingOfDeathVall_1975_02_21]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[FourthAnnualMeetingDeathValley_11111]]
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
+- [[EndangeredSpeciesInformationSy_14003]]

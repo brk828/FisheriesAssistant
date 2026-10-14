@@ -23,6 +23,9 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 > - **Anadromous migratory corridor:** [[Chinook Salmon]] smolts emigrated from Rapid River Hatchery between March 26–April 9, 1969, with peak emigration April 6–8, transiting downstream through the [[Snake River]] and [[Columbia River]] system to [[Ice Harbor Dam]], where peak arrival was recorded...
 > -- *[[EvaluationOfSpringChinookMigra_1969]]*
 
+> This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
+> -- *[[AmericanRiversStacMeetingOfJun_17977]]*
+
 ## Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AccumulationAndRetentionOfRadi_1957]]
@@ -44,3 +47,4 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
 - [[UptakeAndAssimilationOfNitroge_1969]]
 - [[ViewsOfAFishBiologistFromAFede_15069]]
+- [[AmericanRiversStacMeetingOfJun_17977]]

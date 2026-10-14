@@ -14,6 +14,9 @@ The Gila National Forest is a protected forest area in New Mexico that encompass
 > - **Habitat**: The focus is the mainstem [[Gila River]] within the [[Gila National Forest]], New Mexico, with ambiguity as to whether the survey extent includes the **Cliff/Gila Valley** downstream reach. - **Sampling design**: Fish sampling occurs at intervals of approximately **1 mile** along t...
 > -- *[[MemorandumSpikedaceAndLoachMin_14807]]*
 
+> This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
+> -- *[[AddendumToTheMarchEnvironmenta_11496]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11563]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -24,3 +27,4 @@ The Gila National Forest is a protected forest area in New Mexico that encompass
 - [[MinutesOfTheFebruaryDesertFish_1992_04_20]]
 - [[ReportForestServiceDisruptedOw_15528]]
 - [[StipulationRegardingLivestockG_1998_04_16]]
+- [[AddendumToTheMarchEnvironmenta_11496]]

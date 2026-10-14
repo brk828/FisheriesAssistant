@@ -20,8 +20,12 @@ The Sacramento Perch (*Archoplites interruptus*) is a centrarchid (sunfish famil
 > - **Endemism**: 65 of 113 California native freshwater fish taxa (~58%) are state-endemic, driven by long isolation of drainage basins. - **Extinction and Listing Status**: 5 taxa extinct; 16 taxa already federally/state listed as threatened or endangered (Table 1). - **New Special Concern Design...
 > -- *[[FishSpeciesOfSpecialConcernOfC_15453]]*
 
+> Field survey conducted May 4-5, 1989 at [[Pyramid Lake]], Nevada to assess hybridization between endangered [[Cui-ui]] (*Chasmistes cujus*) and [[Tahoe Sucker]] (*Catostomus tahoensis*). Approximately 300-400 cui-ui were tagged during one day of trap netting operations; nearly 8,000 fish tagged...
+> -- *[[SummaryOfPyramidLakeTrip_13173]]*
+
 ## Mentioned In
 - [[DeclineOfTheNativeFishFaunaOfT_1974]]
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[LetterToWLMinckleyRegardingThe_1994_05_19]]
 - [[VariableKinematicsOfSacramento_1982]]
+- [[SummaryOfPyramidLakeTrip_13173]]

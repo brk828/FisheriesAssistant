@@ -26,6 +26,18 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This experimental pond study examined the top-down effects of piscivorous [[Largemouth Bass]] (*Micropterus salmoides*) on nutrients, turbidity, phytoplankton, zooplankton, and fish communities in shallow eutrophic ponds. The fish assemblage included [[Western Mosquitofish]] (*Gambusia affinis*),...
 > -- *[[GapeLimitationPreySizeRefugesA_2006]]*
 
+> This 1957 study by [[Howard P. Clemens]] and [[Kermit E. Sneed]] documents the spawning behavior of [[Channel Catfish]] (*Ictalurus punctatus*) induced to spawn in glass aquaria via fish pituitary injections. The research was conducted under the [[Saltonstall-Kennedy Act]] at the [[U.S. Fish...
+> -- *[[TheSpawningBehaviorOfTheChanne_15949]]*
+
+> This study examined the production efficiency of [[Threadfin Shad]] (*Dorosoma petenense*) in experimental ponds at varying stocking densities (100–1,600 adults per acre) to determine optimal rates for maximum forage production. Total production ranged from 84.5 to 290.0 pounds per acre, with net...
+> -- *[[ProductionOfTheThreadfinShadDo_15096]]*
+
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
 ## Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -260,3 +272,7 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[WaterQualityCriteriaToProtectA_14646]]
 - [[WhyTheMassachusettsDivisionOfF_15491]]
 - [[GapeLimitationPreySizeRefugesA_2006]]
+- [[TheSpawningBehaviorOfTheChanne_15949]]
+- [[ProductionOfTheThreadfinShadDo_15096]]
+- [[ABibliographyAndHostListForThe_15289]]
+- [[EvaluationsAndSuggestionsConce_16480]]

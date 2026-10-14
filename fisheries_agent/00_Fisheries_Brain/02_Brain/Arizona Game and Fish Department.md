@@ -23,6 +23,9 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > Participating agencies and institutions reflect the interdisciplinary and interjurisdictional nature of this ecological monitoring effort, including the [[Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], [[National Park Service]], [[Arizona Game and Fish Department]], [[Arizona State ...
 > -- *[[AquaticCoordinationTeamMeeting_1991_10_28]]*
 
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -196,3 +199,4 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[VerdeRiverFishResearch_1998_02_17]]
 - [[VerdeRiverTemperatureRecorderD_1992_04_02]]
 - [[VirginRiverMonitoringArizonaSu_1994_05_16]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

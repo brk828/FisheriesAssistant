@@ -23,8 +23,12 @@ Big Lake is a high-elevation Arizona freshwater lake managed as a recreational f
 > - **[[Big Lake]]**: A high-elevation lake subject to seasonal ice-over (Nov 20, 1957 – Apr 12, 1958) and persistent snow cover, compounded by low water levels (16.5 ft below spillway) and dense aquatic macrophyte growth. These conditions created a classic **winter kill** scenario driven by light-...
 > -- *[[AManipulationOfEnvironmentalCo_1959_01_15]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[CreelCensusLakesFisheryInvesti_1966_12_31]]
 - [[ReportOnLunaLakeApacheCountyAr_19495]]
 - [[SummaryOfPertinentProblemsPert_1961_01_15]]
+- [[AConservationorientedClassific_15455]]

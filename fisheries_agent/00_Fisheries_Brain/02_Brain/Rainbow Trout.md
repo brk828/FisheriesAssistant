@@ -23,6 +23,12 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > This 1962 completion report presents the third consecutive year of creel census data on [[Oak Creek]] (Arizona), focused on managing a stocked [[Rainbow Trout]] fishery, alongside a limited supplementary census of the [[Channel Catfish]] fishery at [[Lee's Ferry]] on the [[Colorado River]]. An es...
 > -- *[[ACreelCensusOfStreamsInDistric_1962_10_31]]*
 
+> This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
+> -- *[[AddendumToTheMarchEnvironmenta_11496]]*
+
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -291,3 +297,5 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[WildTroutAndPlantedTroutBalanc_16089]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[WinterObservationsOnBottomOrga_16187]]
+- [[AddendumToTheMarchEnvironmenta_11496]]
+- [[ABibliographyAndHostListForThe_15289]]

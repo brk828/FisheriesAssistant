@@ -23,6 +23,9 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 > - **Habitat referenced:** [[Little Colorado River]], a major tributary of the [[Colorado River]] within [[Glen Canyon]], Arizona — recognized as a critical spawning and rearing habitat for the endangered Humpback Chub. - **Conservation status invoked:** The Humpback Chub is referred to as an "end...
 > -- *[[MemorandumOnGlenCanyonEnvironm_1991_08_27]]*
 
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[FishHandlingAssessmentOnGrandC_1991_09_05]]
@@ -40,3 +43,4 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 - [[ReviewOfTheEndangeredFishResea_1991_10_03]]
 - [[SurrogateSpeciesSelectionForPh_1981_05_07]]
 - [[TransmittalOfNavajoNationLittl_1992_11_17]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

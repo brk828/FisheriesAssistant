@@ -23,6 +23,9 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > This trip report (Trip #6, 1991) documents field research conducted by BIO/WEST, Inc. for the Bureau of Reclamation as part of a multi-year effort to characterize the life history and ecology of the [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. During the trip (June 6-22, 1991), resea...
 > -- *[[CharacterizationOfTheLifeHisto_1991_07_03]]*
 
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -114,3 +117,4 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[UsfwsLcrResearchTripReportHump_11069]]
 - [[WesternWaterPolicyFromReclamat_1999_06_08]]
 - [[Zoogeography_18180]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

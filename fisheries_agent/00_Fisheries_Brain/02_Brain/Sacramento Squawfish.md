@@ -23,9 +23,13 @@ The Sacramento Squawfish (*Ptychocheilus grandis*) is a large native cyprinid en
 > - **Family:** [[Cyprinidae]] — squawfish are the largest native cyprinids in North America. - **Four recognized species**, each associated with a major drainage basin: - **Colorado squawfish** (*P. lucius*) — largest species, individuals reported up to **36 kg**; range drastically reduced by damm...
 > -- *[[TheImpactOfSquawfishOnSalmonid_1981]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[ChemicalTreatmentOfTheMercedRi_13362]]
 - [[DeclineOfTheNativeFishFaunaOfT_1974]]
 - [[MicrohabitatUseByAnAssemblageO_1985]]
 - [[ResponsesOfFishPopulationsInTh_1983]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
+- [[AConservationorientedClassific_15455]]

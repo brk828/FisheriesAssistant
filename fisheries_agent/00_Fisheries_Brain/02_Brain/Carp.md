@@ -26,6 +26,9 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This 1968 economic study examined the processing and marketing potential of commercial fishery products from [[Montana]] reservoirs, focusing on [[Carp]], [[Buffalofish]], [[Sucker]], and [[Goldeye]]. The research found that Montana's commercial fisheries face significant challenges including...
 > -- *[[AnEconomicStudyOfTheProcessing_15621]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -78,3 +81,4 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[UnexploitedPotentialsOfOurFres_1958]]
 - [[WaterQualityCriteriaToProtectA_14646]]
 - [[AnEconomicStudyOfTheProcessing_15621]]
+- [[ABibliographyAndHostListForThe_15289]]

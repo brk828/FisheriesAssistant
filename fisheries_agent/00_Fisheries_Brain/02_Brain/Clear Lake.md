@@ -23,6 +23,9 @@ Clear Lake, Iowa is a shallow, turbid freshwater lake characterized by limited w
 > - **Trophic role**: Yellow Perch functions as an opportunistic, visually-feeding predator combining benthic probing (for cottids, chironomids, snails) with open-water interception of mysid shrimp near the lake bottom. - **Prey base**: - [[Cottus asper]] (prickly sculpin) — dominant by volume (62....
 > -- *[[TheFoodAndFeedingChronologyOfY_1979]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[ASimpleTransportableLakeShocke_1966]]
 - [[AgeAndGrowthOfLargemouthBassIn_1964]]
@@ -37,3 +40,4 @@ Clear Lake, Iowa is a shallow, turbid freshwater lake characterized by limited w
 - [[TheFoodAndFeedingChronologyOfY_1979]]
 - [[TheLimnologyPrimaryProductionA_14690]]
 - [[VariationsOnRereadingWalleyeSc_17403]]
+- [[AConservationorientedClassific_15455]]

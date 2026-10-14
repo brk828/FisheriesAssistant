@@ -23,6 +23,9 @@ A Recovery Implementation Program (RIP) is a structured, multi-stakeholder admin
 > - **Regulatory driver:** The November 1992 Biological Opinion determined that "historic" (pre-1992) FGD operations **jeopardized the continued existence** of humpback chub, bonytail, Colorado squawfish, and razorback sucker, triggering a Reasonable and Prudent Alternative (RPA). - **Program struc...
 > -- *[[FiveYearFlamingGorgeFlowRecomm_1993]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -37,3 +40,4 @@ A Recovery Implementation Program (RIP) is a structured, multi-stakeholder admin
 - [[PropagationGeneticsManagementP_12080]]
 - [[ReferencesWithNewInformationFo_1987_03_01]]
 - [[SolicitationOfResearchProposal_1990_03_20]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

@@ -23,6 +23,9 @@ Goodeidae is a family of small, viviparous (live-bearing) freshwater fishes ende
 > This study by Turner, Mendoza, and Reifel examines the development and comparative anatomy of the **gonopodium** — a modified male anal fin used for internal fertilization — across representative species of the family [[Goodeidae]]. All goodeids are viviparous cyprinodont fishes restricted to the...
 > -- *[[DevelopmentAndComparativeMorph_13429]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheAdultGoodeid_19652]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
@@ -43,3 +46,4 @@ Goodeidae is a family of small, viviparous (live-bearing) freshwater fishes ende
 - [[RioBravoFishDistribution_Unknown]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[TheRelationOfHydrologicalCondi_20023]]
+- [[EndangeredSpeciesInformationSy_14003]]

@@ -23,6 +23,12 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > This document is a **FY93 Annual Project Report** (Colorado River Recovery Program, Project #23) rather than a primary morphological or ecological field study. It serves as an addendum to a genetics management report concerning **coordinated hatchery facilities** for four endangered fish taxa nat...
 > -- *[[AddendumToGeneticsManagementCo_1993]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -366,3 +372,5 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[WesternAreaPowerAdministration_19148]]
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[EvaluationsAndSuggestionsConce_16480]]

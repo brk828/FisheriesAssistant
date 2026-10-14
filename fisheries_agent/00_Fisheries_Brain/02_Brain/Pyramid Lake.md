@@ -23,6 +23,9 @@ Pyramid Lake is a terminal freshwater lake in Nevada that serves as the primary 
 > This document set comprises administrative and technical correspondence for the **Cui-ui Recovery Team Meeting** (August 9-10, 1994, Reno, NV), organized by Tom Strekal (Bureau of Indian Affairs). The core scientific content is a Bureau of Reclamation technical review, "Review of Pyramid Lake Inf...
 > -- *[[CuiUiRecoveryTeamMeetingAgenda_1994_07_29]]*
 
+> Field survey conducted May 4-5, 1989 at [[Pyramid Lake]], Nevada to assess hybridization between endangered [[Cui-ui]] (*Chasmistes cujus*) and [[Tahoe Sucker]] (*Catostomus tahoensis*). Approximately 300-400 cui-ui were tagged during one day of trap netting operations; nearly 8,000 fish tagged...
+> -- *[[SummaryOfPyramidLakeTrip_13173]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[AllozymeDifferencesDuplicateGe_11423]]
@@ -65,3 +68,4 @@ Pyramid Lake is a terminal freshwater lake in Nevada that serves as the primary 
 - [[ThePlioceneGlennsFerryOoliteLa_15126]]
 - [[ThePlioceneGlennsFerryOoliteLa_1980_03_14]]
 - [[TitleAnalysisOfTheCaseByUSFish_14626]]
+- [[SummaryOfPyramidLakeTrip_13173]]

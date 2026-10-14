@@ -23,6 +23,9 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 > - **Reservoir and tailwater habitats**: Distinct fish communities are recognized across a chain of connected but ecologically distinct habitats: - [[Lake Havasu]] and its tailwater - [[Lake Mohave]] - [[Lake Mead]] - [[Lake Powell]] and the [[Lee's Ferry Tailwater]] - [[CAP Canal]] and other inla...
 > -- *[[FirstAnnualMeeting_1993_11_30]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -46,3 +49,4 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 - [[RefinementOfRecoveryGoalsForTh_1990_12_03]]
 - [[TheTreeRingRecordOfSevereSusta_20106]]
 - [[TopTenFisheriesActiv_1996_10_14]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

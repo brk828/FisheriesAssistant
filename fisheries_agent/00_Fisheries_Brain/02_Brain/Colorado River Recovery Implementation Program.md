@@ -23,9 +23,13 @@ The Colorado River Recovery Implementation Program is a comprehensive, multi-age
 > This document is an administrative/organizational memorandum from the **[[Colorado River Recovery Implementation Program]]** (FWS Region 6) rather than a primary scientific research paper. It outlines a 1990 proposal to reorganize the Program's Technical Group and Management Group structure in re...
 > -- *[[RecommendationsOnOperationAndO_1990_05_31]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[ColoradoRiverImplementationCom_1989_01_31]]
 - [[FirstMeetingOfGeneticsPanel_1993_11_10]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
 - [[MemorandumOnAnnualUpperBasinRe_1994_12_22]]
 - [[RecommendationsOnOperationAndO_1990_05_31]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

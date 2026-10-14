@@ -23,6 +23,9 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 > This 1959 paper by Curt Kosswig synthesizes decades of genetic crossing experiments in xiphophorine toothcarps ([[Poeciliidae]]), a livebearer family exhibiting extraordinary diversity in sex-determination mechanisms. The work documents interspecific hybridization between species with different s...
 > -- *[[BeiträgeZurGenetischenAnalyseX_1959]]*
 
+> The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
+> -- *[[EndangeredSpeciesInformationSy_14003]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -109,3 +112,4 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
+- [[EndangeredSpeciesInformationSy_14003]]

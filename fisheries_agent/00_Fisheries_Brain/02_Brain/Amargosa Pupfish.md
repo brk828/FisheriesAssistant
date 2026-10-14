@@ -23,6 +23,9 @@ The Amargosa Pupfish is an endemic species of small cyprinodont fish inhabiting 
 > - **[[Devils Hole Pupfish]]** (*Cyprinodon diabolis*) — restricted to [[Devils Hole]], with a small transplanted refuge population near [[Hoover Dam]]. - **[[Pahrump Killifish]]** (*Empetrichthys latos*) — maintained via refugium ponds at [[Corn Creek]], an aquarium population at UNLV, and histor...
 > -- *[[FourthAnnualMeetingDeathValley_11111]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
@@ -32,3 +35,4 @@ The Amargosa Pupfish is an endemic species of small cyprinodont fish inhabiting 
 - [[OurDisappearingDesertFishes_1980]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[StatusAndManagementOfShoshoneP_1990]]
+- [[AConservationorientedClassific_15455]]

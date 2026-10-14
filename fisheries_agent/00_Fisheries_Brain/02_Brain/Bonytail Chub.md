@@ -23,6 +23,15 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 > This document is not a species-level scientific study but an **interagency planning agenda** for the development of native fish rearing (backwater) facilities in the Colorado River basin region (Arizona/Nevada), dated March 2, 1990. The meeting convened the [[Bureau of Reclamation]], [[U.S. Fish ...
 > -- *[[AgendaNativeFishRearingFacilit_1990_03_02]]*
 
+> This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
+> -- *[[ListedAndCandidateSpeciesRespo_11941]]*
+
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[ANonLethalStomachPumpingTechni_14917]]
 - [[ANonlethalTechniqueToRecoverGu_1994]]
@@ -287,3 +296,6 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 - [[WesternAreaPowerAdministration_1997_07_25]]
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
+- [[ListedAndCandidateSpeciesRespo_11941]]
+- [[InformalSectionConsultationReP_13297]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

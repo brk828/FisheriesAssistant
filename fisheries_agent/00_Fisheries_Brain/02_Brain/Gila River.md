@@ -23,6 +23,9 @@ The Gila River is a major tributary system in the southwestern United States tha
 > This 1997 annual report by W. L. Minckley (Arizona State University) documents progress on the "Fishes of Arizona"/"Fishes of the American Southwest" project, funded via U.S. Bureau of Reclamation contract GR-5FG3200420. The project's core objective is compiling museum and literature-based distri...
 > -- *[[AnnualReportFishesOfArizonaCon_1997_09_23]]*
 
+> This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
+> -- *[[AddendumToTheMarchEnvironmenta_11496]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -154,3 +157,4 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[VerdeRiverFishResearch_1995_07_03]]
 - [[VerdeRiverFishResearch_1998_02_17]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[AddendumToTheMarchEnvironmenta_11496]]

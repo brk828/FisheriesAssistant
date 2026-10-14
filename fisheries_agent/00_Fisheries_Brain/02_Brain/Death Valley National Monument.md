@@ -20,8 +20,12 @@ Death Valley National Monument serves as a critical research site and conservati
 > This document is the official program for the **Twentieth Annual Symposium of the Desert Fishes Council**, held November 16–19, 1988, at [[Death Valley National Monument]] Headquarters, Furnace Creek, California. Rather than a single research paper, it is a structured proceedings agenda listing a...
 > -- *[[TwentiethAnnualSymposiumOfTheD_1988_11_16]]*
 
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
 ## Mentioned In
 - [[FourthAnnualMeetingDeathValley_11111]]
 - [[ResearchOnEndangeredFishesInTh_14023]]
 - [[TheEcologyOfSmallMammalsAtSara_12881]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
+- [[InformalSectionConsultationReP_13297]]

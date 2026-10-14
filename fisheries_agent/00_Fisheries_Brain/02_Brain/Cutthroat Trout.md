@@ -23,6 +23,9 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 > - **Lake Mead**: A warmwater fishery ecosystem dominated by [[Largemouth Bass]] (80.16% of catch composition at combined boat landings), with [[Channel Catfish]] and [[Black Crappie]] as secondary components. [[Bluegill]] and [[Rainbow Trout]] present in minor proportions. Angling success has bee...
 > -- *[[ArizonaNevadaCooperativeFisher_1962]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[APopulationOfDwarfCoastrangeSc_1960]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -77,3 +80,4 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 - [[WhyHaveFishHatcheriesInCanadaS_11783]]
 - [[WildTroutAndPlantedTroutBalanc_16089]]
 - [[WinterObservationsOnBottomOrga_16187]]
+- [[ABibliographyAndHostListForThe_15289]]

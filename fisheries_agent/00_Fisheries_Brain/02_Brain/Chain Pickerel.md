@@ -23,6 +23,9 @@ Chain Pickerel (Esox niger) is a freshwater predatory fish species belonging to 
 > - **Habitat types studied**: shallow, weedy, stumpy littoral zones; open shoreline; deep water areas (used by [[Alewife]] and [[Black Crappie]]); stream mouths (used by suckers, especially in spring); swampy areas ([[Brown Bullhead]] habitat). - **Water chemistry as a limiting ecological factor**...
 > -- *[[NightCollectionOfFishWithElect_16182]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -35,3 +38,4 @@ Chain Pickerel (Esox niger) is a freshwater predatory fish species belonging to 
 - [[SacoRiverFisheryManagement_12824]]
 - [[SpringPickerelCensus_17801]]
 - [[WhyTheMassachusettsDivisionOfF_15491]]
+- [[ABibliographyAndHostListForThe_15289]]
