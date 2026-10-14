@@ -26,6 +26,9 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 > This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
 > -- *[[AProposalToMonitorTheEffectsOf_17697]]*
 
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
 ## Mentioned In
 - [[CommentsOnDraftColoradoRiverEn_1993_12_28]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -42,3 +45,4 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 - [[TheChemistryOfTheColoradoRiver_1979]]
 - [[TripReportSummaryJanuaryAprilP_1993_05_05]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
+- [[RiverResourceMonitoringProject_18503]]

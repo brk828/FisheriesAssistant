@@ -41,6 +41,24 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
 > -- *[[AlternativeApproachesToHcpsFor_16735]]*
 
+> This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
+> -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
+
+> This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
+> -- *[[RequestForProposalspresubmitta_18342]]*
+
+> This legal brief, filed August 18, 1992, supports a motion for summary judgment compelling the [[U.S. Fish and Wildlife Service]] (FWS) to designate critical habitat for the [[Razorback Sucker]] (*Xyrauchen texanus*) under the [[Endangered Species Act]] (ESA). The [[Colorado Wildlife Federation]]...
+> -- *[[BriefInSupportOfPlaintiffsMoti_18646]]*
+
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
+> This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
+> -- *[[NoticeOfIntentToSueForViolatio_20521]]*
+
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -336,3 +354,9 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
 - [[AlternativeApproachesToHcpsFor_16735]]
+- [[AgendaAttendeesAndSummariesOfP_14401]]
+- [[RequestForProposalspresubmitta_18342]]
+- [[BriefInSupportOfPlaintiffsMoti_18646]]
+- [[IntraserviceSectionConsultatio_20152]]
+- [[NoticeOfIntentToSueForViolatio_20521]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]

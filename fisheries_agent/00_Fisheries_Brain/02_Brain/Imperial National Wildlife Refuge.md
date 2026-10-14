@@ -20,6 +20,12 @@ Imperial National Wildlife Refuge is a protected area along the lower Colorado R
 > 1. **Confirmed range expansion**: *P. paludosus*, introduced to the lower Colorado River (California) in 1958 (approx. 225 individuals near [[Lake Havasu]]; 1,000 individuals in three ponds at [[Imperial National Wildlife Refuge]]), has expanded its range south across the international border int...
 > -- *[[PalaemonetesPaludosu_1969]]*
 
+> This 1990 U.S. Fish and Wildlife Service biological opinion addresses a formal Section 7 consultation on the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles)...
+> -- *[[IntraserviceSectionConsultatio_11829]]*
+
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[CollectionOfGrowoutFacilitiesO_1995_05_27]]
@@ -30,3 +36,5 @@ Imperial National Wildlife Refuge is a protected area along the lower Colorado R
 - [[PalaemonetesPaludosu_1969]]
 - [[StockingOfFarmersPondImperialN_1995_01_20]]
 - [[SummaryOfCaliforniaFisheriesAc_1962]]
+- [[IntraserviceSectionConsultatio_11829]]
+- [[IntraserviceSectionConsultatio_20152]]

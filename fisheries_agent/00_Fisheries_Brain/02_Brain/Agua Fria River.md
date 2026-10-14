@@ -23,6 +23,9 @@ The Agua Fria River is a free-flowing desert river system in Arizona that serves
 > - **Historic range:** Likely encompassed the entire Gila basin except the [[Salt River]] drainage above Roosevelt Lake - **Current range:** Persists in most major sub-basins — [[Verde River]], [[Agua Fria River]], [[San Pedro River]], and [[Santa Cruz River]] - **Extirpation:** Apparently lost fr...
 > -- *[[TaxonomicHistoryAndStatusOfThe_1995_12_01]]*
 
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnDraftRevise_1993_09_08]]
 - [[BiologicalOpinionTuleCreekRipa_1991_09_03]]
@@ -31,3 +34,4 @@ The Agua Fria River is a free-flowing desert river system in Arizona that serves
 - [[LetterToDrWLMinckleyRegardingA_1985_04_15]]
 - [[LetterToMsJenniferRSampsonRega_1995_01_18]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]

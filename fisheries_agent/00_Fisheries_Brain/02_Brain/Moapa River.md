@@ -23,6 +23,9 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 > The [[Virgin River]] system drains mountain ranges of southwestern Utah, flowing ~250 miles from ~9000 ft elevation down to 1163 ft at Lake Mead, passing through Utah, Arizona, and Nevada. Historically (pre-Lake Mead impoundment), the Virgin River flowed directly into the Colorado River, and the ...
 > -- *[[TheFishesOfTheVirginRiverATrib_14013]]*
 
+> This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
+> -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
+
 ## Mentioned In
 - [[DistributionOfFishesInTheSanRa_1980_01_30]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -30,3 +33,4 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 - [[GilaTaxonomy_14730]]
 - [[IneOfTheMoapaDaceInvolves_13300]]
 - [[TheFishesOfTheVirginRiverATrib_14013]]
+- [[VirginRiverFishRecoveryTeamSpr_20244]]

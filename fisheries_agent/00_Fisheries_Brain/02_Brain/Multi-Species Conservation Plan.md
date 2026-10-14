@@ -17,7 +17,11 @@ A Multi-Species Conservation Plan is an integrated management and protection str
 > - **Data gaps prioritized over new studies**: The author argues a broad, sufficient scientific base already exists to manage/conserve native Colorado River fishes, and that additional "research funding" for further habitat-preference studies would be an irresponsible diversion of limited conserva...
 > -- *[[CommentsOnTheUSFishAndWildlife_1997_07_25]]*
 
+> This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
+> -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
+
 ## Mentioned In
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
 - [[CommentsOnTheFinalBiologicalAn_1997_07_25]]
 - [[CommentsOnTheUSFishAndWildlife_1997_07_25]]
+- [[AgendaAttendeesAndSummariesOfP_14401]]

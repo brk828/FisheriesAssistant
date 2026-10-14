@@ -17,7 +17,11 @@ Orme Dam (also known as Maxwell Dam) was a proposed water infrastructure project
 > This 1967 completion report from the Arizona Game and Fish Department evaluates the fish and wildlife impacts of the proposed **[[Orme Dam]]** (also called Maxwell Dam), a Central Arizona Project feature planned for the confluence of the **[[Salt River]]** and **[[Verde River]]** near Phoenix, Ar...
 > -- *[[OrmeMaxwellDamLandAndWaterProj_1967_03_31]]*
 
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[LandAndWaterProjectsInvestigat_1966]]
 - [[OrmeMaxwellDamLandAndWaterProj_1967_03_31]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]

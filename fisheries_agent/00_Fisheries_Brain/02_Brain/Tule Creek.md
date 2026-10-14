@@ -20,8 +20,12 @@ Tule Creek is a lotic (flowing water) system in Arizona that has served as a stu
 > - **Population variability:** Using age-stratified Jolly-Seber models (program JOLLYAGE), [[Lowland Leopard Frog]] population estimates fluctuated dramatically: - [[Big Springs]] (Graham County): 55–351 individuals (mean 220); mean capture probability 0.27 (range 0.15–0.44). - [[Tule Creek]] (Yav...
 > -- *[[ThJointAnnualMeetingEcosystemM_1994_02_03]]*
 
+> This memorandum documents a May 3, 1990 site visit by biologists from the [[U.S. Fish and Wildlife Service]], [[Arizona Game and Fish Department]], and [[Bureau of Reclamation]] to evaluate four potential fish barrier sites on [[Tule Creek]], [[Yavapai County]], Arizona. The group reached consensus...
+> -- *[[SiteVisitPotentialFishBarrierS_11854]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnDraftRevise_1993_09_08]]
 - [[BiologicalOpinionTuleCreekRipa_1991_09_03]]
 - [[MesquiteSpringPupfishStockingA_1991_10_09]]
 - [[ThJointAnnualMeetingEcosystemM_1994_02_03]]
+- [[SiteVisitPotentialFishBarrierS_11854]]

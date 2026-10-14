@@ -11,7 +11,11 @@ The Navajo Natural Heritage Program appears to be a Navajo Nation-led initiative
 > 1. **Protocol change**: Hoop net check intervals in the [[Little Colorado River]] will be extended from a fixed 12 hours to a flexible **12–72 hour** range, based on logistical and animal welfare reasoning. 2. **Justification gap acknowledged**: The authors concede that concerns about confinement...
 > -- *[[NotificationOfModifiedHoopNetS_17045]]*
 
+> This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
+> -- *[[EndangeredSpeciesProgramReview_19696]]*
+
 ## Mentioned In
 - [[DatabaseIntegrationWithNavajoN_13634]]
 - [[NotificationOfModifiedHoopNetS_17045]]
 - [[TransmittalOfNavajoNationLittl_1992_11_17]]
+- [[EndangeredSpeciesProgramReview_19696]]

@@ -35,6 +35,15 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This annual report summarizes research activities conducted during 1966 by multiple hydrobiological, ichthyological, fisheries, fish disease, and waterfowl research units affiliated with the [[Natural History Club]] in Brno, Czechoslovakia. The report covers work by university departments, Academy...
 > -- *[[HydrobiologicalAndIchthyologic_12963]]*
 
+> This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
+> -- *[[AnnualReportOncorhynchusApache_11989]]*
+
+> This draft Conservation Agreement addresses the proposed listing of [[Virgin Spinedace]] (*Lepidomeda mollispinis*) as a threatened species under the Endangered Species Act of 1973. The [[Virgin Spinedace]] is a small cyprinid minnow endemic to the [[Virgin River]] drainage in southwestern Utah,...
+> -- *[[DraftConservationAgreementForV_13234]]*
+
+> This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
+> -- *[[TroutFishingAtCliffPondBrewste_15489]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -159,3 +168,6 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[HydrobiologicalAndIchthyologic_12963]]
+- [[AnnualReportOncorhynchusApache_11989]]
+- [[DraftConservationAgreementForV_13234]]
+- [[TroutFishingAtCliffPondBrewste_15489]]

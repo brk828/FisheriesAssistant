@@ -26,6 +26,15 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 > These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
 
+> This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
+> -- *[[TechnicalReviewDraftPahranagat_13301]]*
+
+> This memorandum documents severe flood damage to the [[Big Spring]] [[Gila Topminnow]] reintroduction site in [[Graham County]], Arizona, following an intense localized storm on August 21, 1990. The flood destroyed critical pool habitat, reduced the observable topminnow population from abundant to...
+> -- *[[ReportOfFloodDamageToBigSpring_18984]]*
+
+> This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
+> -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -83,3 +92,6 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 - [[TheRecreationalImpactOfReducin_16581]]
 - [[UseOfIsolatedHabitatsAsGrowout_1996_06_21]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[TechnicalReviewDraftPahranagat_13301]]
+- [[ReportOfFloodDamageToBigSpring_18984]]
+- [[VirginRiverFishRecoveryTeamSpr_20244]]

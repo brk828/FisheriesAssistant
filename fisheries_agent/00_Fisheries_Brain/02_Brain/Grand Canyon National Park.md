@@ -29,6 +29,21 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 > This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
 > -- *[[AProposalToMonitorTheEffectsOf_17697]]*
 
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
+> -- *[[RequestForProposalspresubmitta_18342]]*
+
+> This proposal, submitted 21 August 1995 by researchers from [[Northern Arizona University]], requests $201,816 to continue transitional monitoring of [[Colorado River]] sand bars and backwaters in [[Grand Canyon National Park]]. The project bridges ongoing research to a long-term monitoring program...
+> -- *[[BridgingTheGapToLongtermMonito_18440]]*
+
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
+> This document records the meeting notes from the [[Glen Canyon Environmental Studies]] (GCES) Executive Review Committee (ERC) meeting held June 15, 1989, in Flagstaff, Arizona. The ERC, composed of representatives from the [[Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], [[Western...
+> -- *[[ExecutiveReviewCommitteeMeetin_19686]]*
+
 ## Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
@@ -59,3 +74,8 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 - [[TheEffectsOfDamOperationsOnAqu_1991]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[RequestForProposalspresubmitta_18342]]
+- [[BridgingTheGapToLongtermMonito_18440]]
+- [[RiverResourceMonitoringProject_18503]]
+- [[ExecutiveReviewCommitteeMeetin_19686]]

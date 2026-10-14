@@ -17,6 +17,12 @@ Cibola National Wildlife Refuge is a protected area along the Lower Colorado Riv
 > - **Reservoir/riverine habitat mosaic**: Populations are managed across a series of impounded and free-flowing reaches, including [[Lake Mohave]], [[Lake Havasu]], and [[Lake Mead]] (notably the Overton Arm coves), plus off-channel backwaters, tribal lands, and National Wildlife Refuges (e.g., [[...
 > -- *[[LowerColoradoRiverEndangeredSp_1995_06_16]]*
 
+> This 1990 U.S. Fish and Wildlife Service biological opinion addresses a formal Section 7 consultation on the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles)...
+> -- *[[IntraserviceSectionConsultatio_11829]]*
+
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
 ## Mentioned In
 - [[BonytailStocking_1994_10_18]]
 - [[CollectionOfGrowoutFacilitiesO_1995_05_27]]
@@ -27,3 +33,5 @@ Cibola National Wildlife Refuge is a protected area along the Lower Colorado Riv
 - [[MarchRazorbackCollectionsOnLak_1994_04_11]]
 - [[NettingOfHighLeveePondAtCibola_1994_01_06]]
 - [[UseOfIsolatedHabitatsAsGrowout_1996_06_21]]
+- [[IntraserviceSectionConsultatio_11829]]
+- [[IntraserviceSectionConsultatio_20152]]

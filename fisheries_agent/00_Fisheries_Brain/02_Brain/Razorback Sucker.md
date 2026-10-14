@@ -53,6 +53,27 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This map documents the spatial distribution and abundance of larval [[Razorback Sucker]] (*Xyrauchen texanus*) captures throughout the [[Upper Colorado River Basin]] during the period 1992-1995. The survey covered major river systems including the [[Green River]], [[Colorado River]], [[San Juan...
+> -- *[[CapturesOfLarvalRazorbackSucke_18287]]*
+
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
+> This legal brief, filed August 18, 1992, supports a motion for summary judgment compelling the [[U.S. Fish and Wildlife Service]] (FWS) to designate critical habitat for the [[Razorback Sucker]] (*Xyrauchen texanus*) under the [[Endangered Species Act]] (ESA). The [[Colorado Wildlife Federation]]...
+> -- *[[BriefInSupportOfPlaintiffsMoti_18646]]*
+
+> This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
+> -- *[[NoticeOfIntentToSueForViolatio_20521]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -626,3 +647,10 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[NativeFishWorkGroupMeetingMinu_15000]]
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[RecoveryEffortsForBonytailChub_11837]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[CapturesOfLarvalRazorbackSucke_18287]]
+- [[LowerColoradoRiverBasinManagem_18432]]
+- [[BriefInSupportOfPlaintiffsMoti_18646]]
+- [[NoticeOfIntentToSueForViolatio_20521]]

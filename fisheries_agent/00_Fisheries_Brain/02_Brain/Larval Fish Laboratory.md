@@ -14,6 +14,9 @@ The Larval Fish Laboratory is a specialized research facility, housed at Colorad
 > This FY93 report (Colorado River Recovery Program, Project 18-6) describes an ongoing archival specimen-analysis study led by the [[Larval Fish Laboratory]] (Colorado State University) aimed at determining whether young [[Razorback Sucker]] or [[Humpback Chub]] were present in historic ichthyopla...
 > -- *[[AnalysisOfPastCollectionsFromT_1993]]*
 
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
 ## Mentioned In
 - [[AdditionalStudiesToFacilitateE_1993]]
 - [[AnalysisOfPastCollectionsFromT_1993]]
@@ -21,3 +24,4 @@ The Larval Fish Laboratory is a specialized research facility, housed at Colorad
 - [[AnnualAssessmentOfSpawningSucc_1993]]
 - [[EvaluationOfTheEffectsOfElectr_11216]]
 - [[IdentificationOfRazorbackSucke_1995_02_05]]
+- [[EffectsOfElectrofishingFieldsO_15544]]

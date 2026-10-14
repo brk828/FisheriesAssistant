@@ -26,6 +26,18 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> This proposal, submitted 21 August 1995 by researchers from [[Northern Arizona University]], requests $201,816 to continue transitional monitoring of [[Colorado River]] sand bars and backwaters in [[Grand Canyon National Park]]. The project bridges ongoing research to a long-term monitoring program...
+> -- *[[BridgingTheGapToLongtermMonito_18440]]*
+
+> This document records the meeting notes from the [[Glen Canyon Environmental Studies]] (GCES) Executive Review Committee (ERC) meeting held June 15, 1989, in Flagstaff, Arizona. The ERC, composed of representatives from the [[Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], [[Western...
+> -- *[[ExecutiveReviewCommitteeMeetin_19686]]*
+
+> This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
+> -- *[[EndangeredSpeciesProgramReview_19696]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -82,3 +94,7 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 - [[UsfwsLcrResearchTripReportHump_11069]]
 - [[VariousProposalsForStudiesOfEn_1993_12_17]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[BridgingTheGapToLongtermMonito_18440]]
+- [[ExecutiveReviewCommitteeMeetin_19686]]
+- [[EndangeredSpeciesProgramReview_19696]]

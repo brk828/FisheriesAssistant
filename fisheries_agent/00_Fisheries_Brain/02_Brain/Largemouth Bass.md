@@ -50,6 +50,21 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
 > -- *[[FederalAidToFishRestorationAnn_19654]]*
 
+> This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
+> -- *[[UseOfHydroelectricDamsToContro_11232]]*
+
+> This draft Conservation Agreement addresses the proposed listing of [[Virgin Spinedace]] (*Lepidomeda mollispinis*) as a threatened species under the Endangered Species Act of 1973. The [[Virgin Spinedace]] is a small cyprinid minnow endemic to the [[Virgin River]] drainage in southwestern Utah,...
+> -- *[[DraftConservationAgreementForV_13234]]*
+
+> This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
+> -- *[[TechnicalReviewDraftPahranagat_13301]]*
+
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
+> This administrative report documents record-breaking fish production from [[California Department of Fish and Game]] hatcheries during fiscal year 1966-67. Total production reached 52,167,408 fish weighing 2,380,115 pounds, representing the highest weight produced in thirteen years despite two...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14867]]*
+
 ## Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -292,3 +307,8 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[ProposalForSupportOfResearchOn_15568]]
 - [[FederalAidToFishRestorationAnn_19654]]
+- [[UseOfHydroelectricDamsToContro_11232]]
+- [[DraftConservationAgreementForV_13234]]
+- [[TechnicalReviewDraftPahranagat_13301]]
+- [[FisheryInvestigationsOnFortGib_14674]]
+- [[CaliforniaTroutSalmonAndWarmwa_14867]]

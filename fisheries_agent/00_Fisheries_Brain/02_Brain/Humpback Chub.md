@@ -38,6 +38,27 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
 > -- *[[AlternativeApproachesToHcpsFor_16735]]*
 
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
+> This legal brief, filed August 18, 1992, supports a motion for summary judgment compelling the [[U.S. Fish and Wildlife Service]] (FWS) to designate critical habitat for the [[Razorback Sucker]] (*Xyrauchen texanus*) under the [[Endangered Species Act]] (ESA). The [[Colorado Wildlife Federation]]...
+> -- *[[BriefInSupportOfPlaintiffsMoti_18646]]*
+
+> This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
+> -- *[[EndangeredSpeciesProgramReview_19696]]*
+
+> This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
+> -- *[[NoticeOfIntentToSueForViolatio_20521]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -386,3 +407,10 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
 - [[RecoveryTeamMeetingFebruary_14137]]
 - [[AlternativeApproachesToHcpsFor_16735]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[LowerColoradoRiverBasinManagem_18432]]
+- [[RiverResourceMonitoringProject_18503]]
+- [[BriefInSupportOfPlaintiffsMoti_18646]]
+- [[EndangeredSpeciesProgramReview_19696]]
+- [[NoticeOfIntentToSueForViolatio_20521]]

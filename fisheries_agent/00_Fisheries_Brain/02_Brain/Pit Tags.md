@@ -20,9 +20,13 @@ Pit tags, or Passive Integrated Transponder tags, are small electronic microchip
 > The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
 > -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
 
+> This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
+> -- *[[EndangeredSpeciesProgramReview_19696]]*
+
 ## Mentioned In
 - [[DatabaseManagementProgramColor_1993]]
 - [[GlenCanyonEnvironmentalStudies_1992_09_13]]
 - [[LetterToDavidLWegnerRegardingP_1991_08_12]]
 - [[RequestedMeetingnativeFishWork_15023]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[EndangeredSpeciesProgramReview_19696]]

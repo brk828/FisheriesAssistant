@@ -23,6 +23,9 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 > - **Study system:** [[Sycamore Creek]], a Sonoran Desert stream northeast of Phoenix, Arizona, flowing ~55 km to its confluence with the [[Verde River]]. Watershed area = 505 km², elevation range 2164–427 m. - **Substrate:** Boulder-dominated steep riffles and fine gravel/coarse sand (phi = -1) i...
 > -- *[[HyporheicSurfaceWaterExchangeI_13668]]*
 
+> This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
+> -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
@@ -37,3 +40,4 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 - [[SomeAspectsOfBiologyOfTheLongf_1971_05_25]]
 - [[SonoraChubMonitoringMeeting_1993_04_29]]
 - [[ThirdQuarterlyProgressReportSp_1987_09_28]]
+- [[FeedingDynamicsNitrogenBudgets_17775]]

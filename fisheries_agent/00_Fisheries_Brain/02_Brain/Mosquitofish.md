@@ -26,6 +26,9 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
 > -- *[[EndangeredSpeciesInformationSy_14003]]*
 
+> This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
+> -- *[[TechnicalReviewDraftPahranagat_13301]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -90,3 +93,4 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
 - [[EndangeredSpeciesInformationSy_14003]]
+- [[TechnicalReviewDraftPahranagat_13301]]

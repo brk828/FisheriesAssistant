@@ -23,6 +23,12 @@ Pantosteus clarki, commonly known as the Desert Sucker, is a native benthic cato
 > - **[[Meda Fulgida]] (Spikedace):** Numerous individuals observed with brassy coloration, indicative of breeding condition. - **[[Pantosteus Clarki]] (Desert Sucker):** At least one adult retained nuptial tuberculation, suggesting a late/extended breeding season. - **[[Tiaroga Cobitis]] (Loach Mi...
 > -- *[[MemorandumOnAravaipaCreekMonit_1994_06_27]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
+> -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
+
 ## Mentioned In
 - [[ColoradoSquawfishMonitoringVer_19393]]
 - [[DataForAravaipaCreekFishCount_1995_10_07]]
@@ -34,3 +40,5 @@ Pantosteus clarki, commonly known as the Desert Sucker, is a native benthic cato
 - [[ReportOfCollectingActivitiesFo_1992_12_28]]
 - [[SerumHaptoglobinsInSomeNorthAm_1966]]
 - [[SpeciesAccountRhinichthysOscul_13165]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[FeedingDynamicsNitrogenBudgets_17775]]

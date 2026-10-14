@@ -29,6 +29,9 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 > During the 1964-65 fiscal year, California Department of Fish and Game hatcheries planted a record-breaking **60,129,973 fish** totaling **1,879,769 pounds**, though total weight was 207,290 pounds less than the previous year. The December 1964 flood destroyed [[Cedar Creek Hatchery]] on the [[Eel...
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14865]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
 ## Mentioned In
 - [[ANoteOnTheResultsOfFeedingFire_1960]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -70,3 +73,4 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 - [[UseOfAntimycinForSelectiveThin_14083]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
+- [[FisheryInvestigationsOnFortGib_14674]]

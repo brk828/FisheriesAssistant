@@ -29,6 +29,12 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
+> -- *[[UseOfHydroelectricDamsToContro_11232]]*
+
+> This map documents the spatial distribution and abundance of larval [[Razorback Sucker]] (*Xyrauchen texanus*) captures throughout the [[Upper Colorado River Basin]] during the period 1992-1995. The survey covered major river systems including the [[Green River]], [[Colorado River]], [[San Juan...
+> -- *[[CapturesOfLarvalRazorbackSucke_18287]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -97,3 +103,5 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[ThousandsOfEndangeredFishToBeS_1997_09_18]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[UseOfHydroelectricDamsToContro_11232]]
+- [[CapturesOfLarvalRazorbackSucke_18287]]

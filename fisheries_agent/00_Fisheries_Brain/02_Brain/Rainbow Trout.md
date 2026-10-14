@@ -38,6 +38,15 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
 > -- *[[FederalAidToFishRestorationAnn_19654]]*
 
+> This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
+> -- *[[AnnualReportOncorhynchusApache_11989]]*
+
+> This draft Conservation Agreement addresses the proposed listing of [[Virgin Spinedace]] (*Lepidomeda mollispinis*) as a threatened species under the Endangered Species Act of 1973. The [[Virgin Spinedace]] is a small cyprinid minnow endemic to the [[Virgin River]] drainage in southwestern Utah,...
+> -- *[[DraftConservationAgreementForV_13234]]*
+
+> This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
+> -- *[[TroutFishingAtCliffPondBrewste_15489]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -311,3 +320,6 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[FederalAidToFishRestorationAnn_19654]]
+- [[AnnualReportOncorhynchusApache_11989]]
+- [[DraftConservationAgreementForV_13234]]
+- [[TroutFishingAtCliffPondBrewste_15489]]

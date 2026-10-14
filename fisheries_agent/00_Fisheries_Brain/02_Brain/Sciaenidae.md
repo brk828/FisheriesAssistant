@@ -23,6 +23,9 @@ Sciaenidae is a diverse family of primarily marine and estuarine teleost fishes 
 > The source texts contain no direct morphological description of the totoaba or any other fish species. NMFS explicitly notes that the draft BA's "descriptive information" on totoaba biology was inadequate, and supplementary reference documents (not reproduced in this text) were provided to Reclam...
 > -- *[[CompletionAndDeliveryOfBiologi_1996_07_24]]*
 
+> This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
+> -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnExoticOccurrenceOfFreshWater_12926]]
@@ -41,3 +44,4 @@ Sciaenidae is a diverse family of primarily marine and estuarine teleost fishes 
 - [[Retinal Tapetum Lucidum A Novel Reflecting System in the Eye of Teleosts]]
 - [[RioBravoFishDistribution_Unknown]]
 - [[SoundDiscriminationByMalesOfTw_12764]]
+- [[TheFaunalArchaeologyOfTheTubac_20377]]

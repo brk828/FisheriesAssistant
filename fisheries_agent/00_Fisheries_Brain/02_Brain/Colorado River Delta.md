@@ -29,6 +29,9 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 > This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
 > -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
 
+> This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
+> -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AnalysisOfPenaeidShrimpLanding_16892]]
@@ -45,3 +48,4 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 - [[InformalSectionConsultationReP_13297]]
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
+- [[AgendaAttendeesAndSummariesOfP_14401]]

@@ -20,6 +20,9 @@ The Colorado River Indian Tribes refers to a sovereign Native American nation wi
 > - The letter concerns the **[[Lower Colorado River]]** ecosystem, specifically the river section bounded by the **[[Colorado River Indian Reservation]]**. - Habitats discussed include riparian and aquatic zones historically shaped by natural river dynamics, which have been altered by Reclamation'...
 > -- *[[CommentsOnTheBiologicalAndConf_1997_07_24]]*
 
+> This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
+> -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
+
 ## Mentioned In
 - [[ColoradoRiverIndianTribesCritC_1991_12_20]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_24]]
@@ -27,3 +30,4 @@ The Colorado River Indian Tribes refers to a sovereign Native American nation wi
 - [[ReceiptAndDispersalOfBonytailC_1996_07_23]]
 - [[RecoveryOfRazorbackSuckersFrom_1993_01_08]]
 - [[RosterLowerBasinRecoveryImplem_21095]]
+- [[AgendaAttendeesAndSummariesOfP_14401]]

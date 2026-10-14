@@ -23,6 +23,9 @@ Tonto National Forest represents a key geographic region within Arizona's Gila R
 > - **Habitat type**: Native cold-water streams within the [[Gila River]] drainage system in Arizona and New Mexico — a large drainage area described as well-suited for reintroduction efforts. - **Historical range**: Arizona portion of the Gila River drainage, including waters within the [[Tonto Na...
 > -- *[[ReintroductionOfGilaTroutInAri_1996_12_05]]*
 
+> This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
+> -- *[[DraftEvaluationOfPotentialsFor_15827]]*
+
 ## Mentioned In
 - [[FederalEndangeredFishSpeciesCo_1993_11_19]]
 - [[FindingOfNoSignificantImpactAr_11493]]
@@ -38,3 +41,4 @@ Tonto National Forest represents a key geographic region within Arizona's Gila R
 - [[RooseveltLakeRazorbackSuckerRe_1994]]
 - [[SectionComplianceLetterOnTheCo_1991_02_25]]
 - [[SummaryDataSheetForFisheryStud_11504]]
+- [[DraftEvaluationOfPotentialsFor_15827]]

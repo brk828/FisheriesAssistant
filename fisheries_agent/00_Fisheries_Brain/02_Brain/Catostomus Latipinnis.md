@@ -23,6 +23,9 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 > - **[[Pantosteus discobolus]]** (Bluehead Sucker): Noted as possessing **two distinct morphological types** within the sampled populations, suggesting either significant intraspecific variation or potential cryptic taxa warranting genetic scrutiny. - **[[Pantosteus platyrhynchus]]** (Mountain Suc...
 > -- *[[LetterToDrDonaldGButhRegarding_1989_12_26]]*
 
+> This 1980 report by W. L. Minckley examines morphological variation in suckers of the genus [[Catostomus]] from the middle [[Colorado River]] region, including [[Grand Canyon]], [[Glen Canyon]], [[Virgin River]], and [[Little Colorado River]] basins. The study reveals that populations previously...
+> -- *[[MorphologicalVariationInCatost_13689]]*
+
 ## Mentioned In
 - [[CommentsOnAndChangesToAnimalNo_11856]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -36,3 +39,4 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 - [[ReportOnKanabCreekResearchTrip_1993_05_20]]
 - [[ReviewLetterStrawberryValleyEn_14234]]
 - [[SerumHaptoglobinsInSomeNorthAm_1966]]
+- [[MorphologicalVariationInCatost_13689]]

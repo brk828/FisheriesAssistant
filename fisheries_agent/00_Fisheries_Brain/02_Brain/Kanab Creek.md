@@ -23,6 +23,9 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 > This study documents the first significant outbreak of the introduced parasitic copepod **[[Lernaea Cyprinaceae]]** ("anchor worm") on native fishes of the Grand Canyon reach of the [[Colorado River]], including the first-ever reported parasitism on the endangered **[[Humpback Chub]]** (*Gila cyp...
 > -- *[[InfestationsOfTheCopepodParasi_13216]]*
 
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
 ## Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -34,3 +37,4 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 - [[OrganicMatterRetentionInEddies_17089]]
 - [[ReportOnKanabCreekResearchTrip_1993_05_20]]
 - [[TripReportAgfdNativeFishStudie_11269]]
+- [[RiverResourceMonitoringProject_18503]]

@@ -20,9 +20,13 @@ The St. Lawrence River represents a critical freshwater and estuarine system in 
 > - **Habitat**: Predominantly the [[St. Lawrence River]] and its estuary, with recoveries extending into the wider Northwest Atlantic coastal zone. - **Migratory Behavior** (documented via tag recovery distances): - [[Atlantic Sturgeon]]: tagged at Isle-aux-Coudres, recovered at Fox Point, Nova Sc...
 > -- *[[FishTagsAndTaggingInQuebecWate_1957]]*
 
+> This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
+> -- *[[DraftliteratureReviewOfTheStri_15768]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfASmallStreamPopu_15038]]
 - [[ComparativeMorphometryOfFreshw_12456]]
 - [[FishTagsAndTaggingInQuebecWate_1957]]
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
 - [[TheUpperStLawrenceRiverIceFish_11241]]
+- [[DraftliteratureReviewOfTheStri_15768]]

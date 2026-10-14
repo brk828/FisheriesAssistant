@@ -29,6 +29,12 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
+> -- *[[UseOfHydroelectricDamsToContro_11232]]*
+
+> This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
+> -- *[[RequestForProposalspresubmitta_18342]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -70,3 +76,5 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 - [[USDryingUpMexicanWetlands_1996_04_30]]
 - [[InformalSectionConsultationReP_13297]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[UseOfHydroelectricDamsToContro_11232]]
+- [[RequestForProposalspresubmitta_18342]]

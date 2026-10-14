@@ -23,6 +23,9 @@ Blue Catfish (*Ictalurus furcatus*) is a large, opportunistic ictalurid catfish 
 > A **species code table** (pages 3–4) lists roughly 150 species codes, covering a broad taxonomic range including: - Anadromous/salmonid species: [[Chinook Salmon]] (fall, spring, summer, winter, late-fall runs), [[Coho Salmon]], [[Chum Salmon]], [[Sockeye Salmon]], [[Pink Salmon]], [[Atlantic Sal...
 > -- *[[FishDistributionNumbersAndWeig_1992]]*
 
+> This 1987 survey assessed ictalurid (catfish family) populations in the [[Yadkin River]] and [[South Yadkin River]] above and below [[Idols Dam]] and [[Cooleemee Dam]] to determine whether [[Flathead Catfish]] (*Pylodictis olivaris*) should be stocked upstream of these barriers. Using...
+> -- *[[SurveyOfIctaluridPopulationsIn_15266]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AProvisionalCheckListOfTheFish_15941]]
@@ -39,3 +42,4 @@ Blue Catfish (*Ictalurus furcatus*) is a large, opportunistic ictalurid catfish 
 - [[StationProfileOfOrangeburgNati_19526]]
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
+- [[SurveyOfIctaluridPopulationsIn_15266]]

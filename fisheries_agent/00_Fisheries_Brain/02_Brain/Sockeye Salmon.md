@@ -23,6 +23,9 @@ Sockeye salmon (Oncorhynchus nerka) are anadromous Pacific salmon species charac
 > This theoretical paper by W.E. Ricker (Fisheries Research Board of Canada, 1952) develops a conceptual and mathematical framework for understanding how predator abundance influences prey survival, with direct application to fisheries management and predator control programs. Ricker identifies thr...
 > -- *[[NumericalRelationsBetweenAbund_16863]]*
 
+> This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
+> -- *[[TroutFishingAtCliffPondBrewste_15489]]*
+
 ## Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[AbundanceOfStJohnsRiverShad_1960_03_08]]
@@ -39,3 +42,4 @@ Sockeye salmon (Oncorhynchus nerka) are anadromous Pacific salmon species charac
 - [[StationProfileOfTheLeavenworth_1993]]
 - [[TheFoodAndFeedingChronologyOfY_1979]]
 - [[TheSurvivalOfChondrococcusColu_1968_09_27]]
+- [[TroutFishingAtCliffPondBrewste_15489]]

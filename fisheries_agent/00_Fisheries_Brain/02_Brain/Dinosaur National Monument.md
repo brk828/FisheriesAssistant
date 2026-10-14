@@ -23,6 +23,9 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 > - **Native fish fauna of the Grand Canyon/Marble Gorge reach of the Colorado River** historically included six species across two families: - Cyprinidae: *Gila cypha*, *Gila elegans* (probably present), *Ptychocheilus lucius*, and rarely *Gila robusta*. - Catostomidae: *Catostomus latipinnis*, *C...
 > -- *[[DraftFishRemainsFromStantonSCa_15373]]*
 
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -40,3 +43,4 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 - [[ProposedRuleToListBonytailChub_12003]]
 - [[ReviewOfGreenRiverFishEradicat_1963_03_25]]
 - [[RiverAquaticSystems_14708]]
+- [[EffectsOfElectrofishingFieldsO_15544]]

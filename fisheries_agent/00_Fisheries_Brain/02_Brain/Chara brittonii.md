@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Chara brittonii
+
+## Summary
+Chara brittonii is a monoecious, diplostephanous, ecorticate species of stonewort. This study found it has N=14 chromosomes and groups cytologically with other haplostephanous ecorticate species, suggesting that stipulode number is less taxonomically significant than cortication and ploidy-sex correlations.
+
+## Context
+
+> This progress report covers the first six months (through January 1, 1961) of NSF Research Grant G13261 investigating the [[Characeae]] (stoneworts), a group of complex aquatic plants. Principal Investigator Arland Hotchkiss from the [[University of Louisville]] Department of Biology reports...
+> -- *[[TheBearingOfCytologicalAndCert_19928]]*
+
+## Mentioned In
+- [[TheBearingOfCytologicalAndCert_19928]]

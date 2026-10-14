@@ -23,6 +23,9 @@ The Longear Sunfish (*Lepomis megalotis*) is a small North American sunfish spec
 > - **Bioassay indicator species**: [[Notropis lutrensis]] (red shiner) was the primary test organism used to detect lethal rotenone concentrations in water samples via loss of equilibrium and cessation of opercular movement. - **Differential species susceptibility**: [[Green Sunfish]] were observe...
 > -- *[[EffectivenessOfRotenoneInPondR_1953]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -41,3 +44,4 @@ The Longear Sunfish (*Lepomis megalotis*) is a small North American sunfish spec
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[TheGrowthRatesOfSomeKentuckyFi_13369]]
 - [[TheOccurrenceOfTheBandedPygmyS_1980]]
+- [[FisheryInvestigationsOnFortGib_14674]]

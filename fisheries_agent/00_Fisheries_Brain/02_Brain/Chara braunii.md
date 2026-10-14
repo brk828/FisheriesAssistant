@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Chara braunii
+
+## Summary
+Chara braunii is an ecorticate Chara species (including variety schweinitzii) with N=14 chromosomes, contradicting a previous report of N=12 that had suggested affinity with Nitelleae. The study found this species shows distinct cytological characteristics from corticate Chara species, and its consistent N=14 count regardless of sex expression (unlike corticate species) supports generic distinction from corticate Chara, though not placement in Nitelleae as previously proposed.
+
+## Context
+
+> This progress report covers the first six months (through January 1, 1961) of NSF Research Grant G13261 investigating the [[Characeae]] (stoneworts), a group of complex aquatic plants. Principal Investigator Arland Hotchkiss from the [[University of Louisville]] Department of Biology reports...
+> -- *[[TheBearingOfCytologicalAndCert_19928]]*
+
+## Mentioned In
+- [[TheBearingOfCytologicalAndCert_19928]]

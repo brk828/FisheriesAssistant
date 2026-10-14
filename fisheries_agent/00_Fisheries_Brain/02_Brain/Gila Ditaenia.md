@@ -23,6 +23,9 @@ Gila ditaenia, commonly known as the Yaqui chub, is a small cyprinid fish endemi
 > - **Yaqui fishes Recovery Plan** — nearly finalized, pending concurrence with the [[San Bernardino National Wildlife Refuge]] Management Plan. - **Sonoran Chub ([[Gila Ditaenia]]) Recovery Plan** — draft completed ~1.5 years prior; described by team members as unfairly criticized ("needed a lot o...
 > -- *[[MinutesOfTheDesertFishesRecove_16659]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
@@ -37,3 +40,4 @@ Gila ditaenia, commonly known as the Yaqui chub, is a small cyprinid fish endemi
 - [[RioMagdalenaBasinFishSurveyTra_1986_11_24]]
 - [[SonoraChubMonitoringMeeting_1993_04_29]]
 - [[SuggestedAgendaItemsForDesertF_1988_12_06]]
+- [[MinutesDesertFishesRecoveryTea_15843]]

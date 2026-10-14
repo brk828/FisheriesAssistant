@@ -23,6 +23,9 @@ Phytoplankton are microscopic photosynthetic organisms that form the foundation 
 > This 1957 study by Eville Gorham presents detailed ionic composition analyses of nine lowland lakes ("meres") in Cheshire, England, comparing them to the world average freshwater and to waters of the [[English Lake District]]. While the paper is fundamentally a **water chemistry (limnochemistry)*...
 > -- *[[TheIonicCompositionOfSomeLowla_11054]]*
 
+> This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
+> -- *[[DraftEvaluationOfPotentialsFor_15827]]*
+
 ## Mentioned In
 - [[EcologicalValueOfFloodedBottom_20860]]
 - [[FactorsInfluencingFishDistribu_15011]]
@@ -38,3 +41,4 @@ Phytoplankton are microscopic photosynthetic organisms that form the foundation 
 - [[ThePlanktonSamplerAnInstrument_1950]]
 - [[TheTemporalDistributionOfChlor_1966]]
 - [[TheoreticalAspectsOfTheCompara_1965]]
+- [[DraftEvaluationOfPotentialsFor_15827]]

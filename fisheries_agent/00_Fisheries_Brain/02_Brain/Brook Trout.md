@@ -26,6 +26,12 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
+> -- *[[AnnualReportOncorhynchusApache_11989]]*
+
+> This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
+> -- *[[TroutFishingAtCliffPondBrewste_15489]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -101,3 +107,5 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[WinterObservationsOnBottomOrga_16187]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[AnnualReportOncorhynchusApache_11989]]
+- [[TroutFishingAtCliffPondBrewste_15489]]

@@ -23,6 +23,9 @@ Salt Creek is an isolated, spring-fed desert stream in Riverside County, Califor
 > - **Target habitats**: Highly saline inland lakes and impoundments of North Central Texas unsuitable for native freshwater game fish, and fertile but low-diversity Panhandle lakes with excessive rough fish populations. - **Species salinity tolerance**: The core management premise relied on the to...
 > -- *[[ExperimentalIntroductionOfFish_1955]]*
 
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[CAFGAnnualPermitReport_1992-12-15]]
@@ -35,3 +38,4 @@ Salt Creek is an isolated, spring-fed desert stream in Riverside County, Califor
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
 - [[SwimmingSpeedOfTheWesternSucke_14423]]
 - [[TelephoneConversationRecordSal_1991_09_24]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]

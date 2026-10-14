@@ -23,8 +23,12 @@ Lake Pontchartrain is a shallow Louisiana estuary and model system for understan
 > The paper frames the estuary—using [[Lake Pontchartrain]] as the model system—as a transitional and dynamic habitat requiring integrated study of physical, chemical, and biological factors. Key ecological dimensions outlined include:
 > -- *[[AnOutlineForTheStudyOfEstuarin_1954_10_31]]*
 
+> This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
+> -- *[[DraftliteratureReviewOfTheStri_15768]]*
+
 ## Mentioned In
 - [[AnOutlineForTheStudyOfEstuarin_1954_10_31]]
 - [[EcologicalHistoryOfLakePontcha_13947]]
 - [[EstuarineFishesOfLouisiana_1966_11_18]]
 - [[SpatialAndTemporalVariationInT_16050]]
+- [[DraftliteratureReviewOfTheStri_15768]]

@@ -26,6 +26,15 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 > These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
 > -- *[[LectureNotesFromBiologyClass_13784]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
+> -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
+
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
 ## Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[CienegaCreekWatershedWaterSour_18990]]
@@ -40,3 +49,6 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 - [[TableVulnerableSpeciesInPimaCo_18770]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[LectureNotesFromBiologyClass_13784]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[TheFaunalArchaeologyOfTheTubac_20377]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]

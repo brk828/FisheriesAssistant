@@ -35,6 +35,15 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
+> -- *[[UseOfHydroelectricDamsToContro_11232]]*
+
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -204,3 +213,6 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[RequestedMeetingnativeFishWork_15023]]
 - [[ReReviewOfFloodedBottomLandRes_13862]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[UseOfHydroelectricDamsToContro_11232]]
+- [[LowerColoradoRiverBasinManagem_18432]]
+- [[RiverResourceMonitoringProject_18503]]

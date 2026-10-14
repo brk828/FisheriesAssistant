@@ -26,6 +26,9 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
 > -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -69,3 +72,4 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[UseOfFloodplainHabitatByAgeRaz_16530]]
 - [[UsfwsLetterRegardingProposedEn_1990_07_09]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[MinutesDesertFishesRecoveryTea_15843]]

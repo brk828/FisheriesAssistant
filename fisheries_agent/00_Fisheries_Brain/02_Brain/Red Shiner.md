@@ -26,6 +26,18 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
 > -- *[[EndangeredAndThreatenedWildlif_11551]]*
 
+> This draft Conservation Agreement addresses the proposed listing of [[Virgin Spinedace]] (*Lepidomeda mollispinis*) as a threatened species under the Endangered Species Act of 1973. The [[Virgin Spinedace]] is a small cyprinid minnow endemic to the [[Virgin River]] drainage in southwestern Utah,...
+> -- *[[DraftConservationAgreementForV_13234]]*
+
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
+> This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
+> -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -155,3 +167,7 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[VirginRiverWoundfinPlanForBroo_16685]]
 - [[VrrtNoticeAndMeetingMinutes_20253]]
 - [[EndangeredAndThreatenedWildlif_11551]]
+- [[DraftConservationAgreementForV_13234]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[IntraserviceSectionConsultatio_20152]]
+- [[VirginRiverFishRecoveryTeamSpr_20244]]

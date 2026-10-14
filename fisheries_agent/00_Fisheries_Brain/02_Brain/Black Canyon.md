@@ -20,9 +20,13 @@ Black Canyon refers to the riverine reach of the Colorado River immediately belo
 > - The [[Bonytail Chub]] was federally listed as **endangered** on May 13, 1980, with Lake Mohave representing its sole known extant population at the time. - The [[Razorback Sucker]], while "common" in Black Canyon below Hoover Dam, was anticipated to be listed as endangered within a few years of...
 > -- *[[RequestForParticipationAndPart_1980]]*
 
+> This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
+> -- *[[UseOfHydroelectricDamsToContro_11232]]*
+
 ## Mentioned In
 - [[EndangeredPupfishOfDevilsHoleG_11403]]
 - [[GilaTroutAndChihuahuaChubRecov_1997_01_16]]
 - [[LakeMohaveSampling_1987_10_01]]
 - [[RequestForParticipationAndPart_1980]]
 - [[TheBiologyOfTheRazorbackSucker_1979_10_22]]
+- [[UseOfHydroelectricDamsToContro_11232]]

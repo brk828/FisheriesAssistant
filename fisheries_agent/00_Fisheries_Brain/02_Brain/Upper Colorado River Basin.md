@@ -29,6 +29,12 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This document comprises correspondence and program proposals (1994) regarding the [[Upper Colorado River Basin]] [[Flooded Bottom Land Restoration Program]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*). Dr. C.F. Bryan of the [[Louisiana Cooperative Fish and...
 > -- *[[ReReviewOfFloodedBottomLandRes_13862]]*
 
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> This map documents the spatial distribution and abundance of larval [[Razorback Sucker]] (*Xyrauchen texanus*) captures throughout the [[Upper Colorado River Basin]] during the period 1992-1995. The survey covered major river systems including the [[Green River]], [[Colorado River]], [[San Juan...
+> -- *[[CapturesOfLarvalRazorbackSucke_18287]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -81,3 +87,5 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[ReReviewOfFloodedBottomLandRes_13862]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[CapturesOfLarvalRazorbackSucke_18287]]

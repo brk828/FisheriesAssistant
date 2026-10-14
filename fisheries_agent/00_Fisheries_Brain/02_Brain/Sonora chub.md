@@ -23,6 +23,9 @@ The Sonora Chub (*Gila ditaenia*) is a small endemic cyprinid fish native to the
 > - **Upland, forested headwaters:** [[Gila Trout]] (*Oncorhynchus gila*), [[Apache Trout]] (*Oncorhynchus apache*), [[Little Colorado Spinedace]] (*Lepidomeda vittata*), [[Loach Minnow]] (*Tiaroga cobitis*) - **Woodland/grassland streams at intermediate elevation:** [[Spikedace]] (*Meda fulgida*),...
 > -- *[[DeclarationOfWLMinckleyOnGrazi_15842]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -48,3 +51,4 @@ The Sonora Chub (*Gila ditaenia*) is a small endemic cyprinid fish native to the
 - [[SonoraChubMonitoringMeeting_1993_04_29]]
 - [[SpeciesResponsibilit_1992_12_25]]
 - [[SpeciesResponsibilitiesOfDeser_1989_12_07]]
+- [[MinutesDesertFishesRecoveryTea_15843]]

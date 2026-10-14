@@ -29,6 +29,21 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This document comprises correspondence and program proposals (1994) regarding the [[Upper Colorado River Basin]] [[Flooded Bottom Land Restoration Program]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*). Dr. C.F. Bryan of the [[Louisiana Cooperative Fish and...
 > -- *[[ReReviewOfFloodedBottomLandRes_13862]]*
 
+> This 1990 U.S. Fish and Wildlife Service biological opinion addresses a formal Section 7 consultation on the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles)...
+> -- *[[IntraserviceSectionConsultatio_11829]]*
+
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> This map documents the spatial distribution and abundance of larval [[Razorback Sucker]] (*Xyrauchen texanus*) captures throughout the [[Upper Colorado River Basin]] during the period 1992-1995. The survey covered major river systems including the [[Green River]], [[Colorado River]], [[San Juan...
+> -- *[[CapturesOfLarvalRazorbackSucke_18287]]*
+
+> This legal brief, filed August 18, 1992, supports a motion for summary judgment compelling the [[U.S. Fish and Wildlife Service]] (FWS) to designate critical habitat for the [[Razorback Sucker]] (*Xyrauchen texanus*) under the [[Endangered Species Act]] (ESA). The [[Colorado Wildlife Federation]]...
+> -- *[[BriefInSupportOfPlaintiffsMoti_18646]]*
+
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
 ## Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -108,3 +123,8 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[WinterMovementAndHabitatOfAdul_1993_12_16]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[ReReviewOfFloodedBottomLandRes_13862]]
+- [[IntraserviceSectionConsultatio_11829]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[CapturesOfLarvalRazorbackSucke_18287]]
+- [[BriefInSupportOfPlaintiffsMoti_18646]]
+- [[IntraserviceSectionConsultatio_20152]]

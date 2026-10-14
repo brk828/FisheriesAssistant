@@ -26,6 +26,9 @@ Ichthyology is the scientific study of fish, encompassing their taxonomy, physio
 > This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
 > -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
 
+> This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
+> -- *[[DraftEvaluationOfPotentialsFor_15827]]*
+
 ## Mentioned In
 - [[A Proposed Code System for Storage and Retrieval of Information in Systematic Zoology]]
 - [[AListOfTheMayfliesEphemeropter_1970]]
@@ -66,3 +69,4 @@ Ichthyology is the scientific study of fish, encompassing their taxonomy, physio
 - [[TimeToReviveSystematics_1985_12_13]]
 - [[ZurKenntnisDerOligochaetenDerW_14403]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[DraftEvaluationOfPotentialsFor_15827]]

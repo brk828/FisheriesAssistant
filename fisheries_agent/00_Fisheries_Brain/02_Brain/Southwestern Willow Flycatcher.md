@@ -29,6 +29,9 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
+> -- *[[NoticeOfIntentToSueForViolatio_20521]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -59,3 +62,4 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 - [[WhatIsAmericanRiversDoingInThe_1997]]
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[NoticeOfIntentToSueForViolatio_20521]]

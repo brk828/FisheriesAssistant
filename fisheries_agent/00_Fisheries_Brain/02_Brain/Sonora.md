@@ -17,9 +17,13 @@ Sonora refers to a Mexican state located in northwestern Mexico along the Pacifi
 > These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
 > -- *[[LectureNotesFromBiologyClass_13784]]*
 
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
 ## Mentioned In
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
 - [[IdentificaciónDelimitaciónDeLa_13133]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[DouglasMexicanTemperaturePreci_12378]]
 - [[LectureNotesFromBiologyClass_13784]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]

@@ -14,6 +14,9 @@ The Fort Apache Indian Reservation in Arizona is a significant geographic and ad
 > **Related concepts**: [[Apache Trout]] | [[Mexican Spotted Owl]] | [[Endangered Species Act]] | [[Tribal Self-Determination]] | [[Watershed Ecosystem Management]] | [[Fort Apache Indian Reservation]]
 > -- *[[USFishAndWildlifeServiceWhiteM_1994_12_02]]*
 
+> This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
+> -- *[[AnnualReportOncorhynchusApache_11989]]*
+
 ## Mentioned In
 - [[CryopreservationAsAToolForGeno_13953]]
 - [[ProposalForTheHatchingRearingA_14816]]
@@ -21,3 +24,4 @@ The Fort Apache Indian Reservation in Arizona is a significant geographic and ad
 - [[StudiesOfTheAbundanceDistribut_13841]]
 - [[USFishAndWildlifeServiceWhiteM_1994_12_02]]
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
+- [[AnnualReportOncorhynchusApache_11989]]

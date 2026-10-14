@@ -47,6 +47,21 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
+> This memorandum documents the transfer of 18 [[Bonytail Chub]] (*Gila elegans*) from [[Bubbling Ponds Fish Hatchery]] to [[Arizona State University Research Park]] on July 24, 1992. The fish were originally salvaged from [[Palm Lake]] at the [[Hassayampa River Preserve]] near Wickenburg, Arizona in...
+> -- *[[BonytailChubSalvagedfromPalkLa_12812]]*
+
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
+> This legal brief, filed August 18, 1992, supports a motion for summary judgment compelling the [[U.S. Fish and Wildlife Service]] (FWS) to designate critical habitat for the [[Razorback Sucker]] (*Xyrauchen texanus*) under the [[Endangered Species Act]] (ESA). The [[Colorado Wildlife Federation]]...
+> -- *[[BriefInSupportOfPlaintiffsMoti_18646]]*
+
+> This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
+> -- *[[NoticeOfIntentToSueForViolatio_20521]]*
+
 ## Mentioned In
 - [[ANonLethalStomachPumpingTechni_14917]]
 - [[ANonlethalTechniqueToRecoverGu_1994]]
@@ -319,3 +334,8 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 - [[NativeFishWorkGroupMeetingMinu_15000]]
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[RecoveryEffortsForBonytailChub_11837]]
+- [[BonytailChubSalvagedfromPalkLa_12812]]
+- [[RiverResourceMonitoringProject_18503]]
+- [[BriefInSupportOfPlaintiffsMoti_18646]]
+- [[NoticeOfIntentToSueForViolatio_20521]]

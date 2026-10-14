@@ -23,6 +23,9 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 > *See [[Gila intermedia]] for general species morphology from other sources.*
 > -- *[[GilaChubTransfer_1987_11_05]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
@@ -35,3 +38,4 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
 - [[RazorbackSuckerRecapture_1986_08_18]]
 - [[ResultsOfIdentificationOfColle_18206]]
+- [[MinutesDesertFishesRecoveryTea_15843]]

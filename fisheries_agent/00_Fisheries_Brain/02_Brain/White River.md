@@ -23,6 +23,12 @@ The White River refers to a river system in the south-central United States (pri
 > - **[[Colorado Squawfish]]**: A large-river piscivore requiring extensive, undammed river segments to complete its life cycle. Notably does **not** concentrate in discrete locales; adults undertake long-distance migrations to spawning grounds, and larvae drift long distances to reach nursery habi...
 > -- *[[ProposalToConductPopulationVia_1991_08_01]]*
 
+> This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
+> -- *[[TechnicalReviewDraftPahranagat_13301]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -49,3 +55,5 @@ The White River refers to a river system in the south-central United States (pri
 - [[TripReportWhiteRiver_1988_09_19]]
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
+- [[TechnicalReviewDraftPahranagat_13301]]
+- [[MinutesDesertFishesRecoveryTea_15843]]

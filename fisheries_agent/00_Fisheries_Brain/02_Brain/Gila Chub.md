@@ -23,6 +23,9 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 > - **Colorado River Basin mainstem/tributary specialists**: [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail Chub]] (*Gila elegans*, implied by title context) — large-river, turbid, warm-water habitats. - **Sm...
 > -- *[[AttachedDraftListOfSpeciesAssi_14772]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AfaPolicyMemorandumOnHybrids_1984_02_10]]
@@ -120,3 +123,4 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 - [[TheSantaCatalinaMountainsEcolo_1967_03_10]]
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
 - [[WildlifeConservationActAmendme_1995]]
+- [[MinutesDesertFishesRecoveryTea_15843]]

@@ -17,6 +17,9 @@ The Arizona Game and Fish Commission is the state regulatory agency responsible 
 > - The MOC formally interprets the 1995 MOA as establishing the [[Multi-Species Conservation Program]] (MSCP) with the joint goals of species/habitat conservation and continued water/power operations on the [[Lower Colorado River]]. - The document explicitly **disclaims any "regulatory assurance"*...
 > -- *[[MemorandumOfClarificationOfThe_1995]]*
 
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
 ## Mentioned In
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
 - [[CaliforniaReptileInvestigation_1994_09_27]]
@@ -24,3 +27,4 @@ The Arizona Game and Fish Commission is the state regulatory agency responsible 
 - [[MemorandumOfClarificationOfThe_1995]]
 - [[TheGilaBoxAWildernessCanyonOnT_13093]]
 - [[ToxapheneAsAFishToxin_1951]]
+- [[RiverResourceMonitoringProject_18503]]

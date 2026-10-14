@@ -20,6 +20,9 @@ White catfish (Ameiurus catus) are a North American freshwater species belonging
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This 1987 survey assessed ictalurid (catfish family) populations in the [[Yadkin River]] and [[South Yadkin River]] above and below [[Idols Dam]] and [[Cooleemee Dam]] to determine whether [[Flathead Catfish]] (*Pylodictis olivaris*) should be stocked upstream of these barriers. Using...
+> -- *[[SurveyOfIctaluridPopulationsIn_15266]]*
+
 ## Mentioned In
 - [[ChemicalTreatmentOfTheMercedRi_13362]]
 - [[EstimationOfStandingCropsAndRa_15117]]
@@ -30,3 +33,4 @@ White catfish (Ameiurus catus) are a North American freshwater species belonging
 - [[TheAgeAndGrowthOfBluegillLepom_18719]]
 - [[SummaryOfPyramidLakeTrip_13173]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[SurveyOfIctaluridPopulationsIn_15266]]

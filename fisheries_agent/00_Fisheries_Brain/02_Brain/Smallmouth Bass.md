@@ -29,6 +29,12 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 > This document comprises correspondence and program proposals (1994) regarding the [[Upper Colorado River Basin]] [[Flooded Bottom Land Restoration Program]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*). Dr. C.F. Bryan of the [[Louisiana Cooperative Fish and...
 > -- *[[ReReviewOfFloodedBottomLandRes_13862]]*
 
+> This 1950s-era bulletin from the [[Massachusetts Division of Fisheries and Game]] addresses the growing problem of aquatic weed infestations in Commonwealth inland waters and evaluates various control methods. The document establishes that the Division does not assume responsibility for weed...
+> -- *[[WeedControlPossibilitiesInMass_14648]]*
+
+> This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
+> -- *[[TroutFishingAtCliffPondBrewste_15489]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -113,3 +119,5 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 - [[WaterQualityCriteriaToProtectA_14646]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[ReReviewOfFloodedBottomLandRes_13862]]
+- [[WeedControlPossibilitiesInMass_14648]]
+- [[TroutFishingAtCliffPondBrewste_15489]]

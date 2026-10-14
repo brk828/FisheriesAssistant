@@ -23,6 +23,9 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 > - **Taxonomic history**: First collected from the Virgin River near Washington, Utah, by the Wheeler Survey and originally described as intermediate between [[Gila Robusta]] and [[Gila Elegans]] (Cope and Yarrow 1875). Later treated as a subspecies of *G. robusta* (Ellis 1914; Miller 1946; LaRive...
 > -- *[[EndangeredAndThreatenedWildlif_11621]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
 ## Mentioned In
 - [[BonytailUpdate_16371]]
 - [[CageCulturingTheEndangeredBony_1999]]
@@ -54,3 +57,4 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[VoucherSpecimensDonatedToDepar_1997_01_08]]
+- [[MinutesDesertFishesRecoveryTea_15843]]

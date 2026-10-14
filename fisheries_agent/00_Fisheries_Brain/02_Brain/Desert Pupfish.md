@@ -32,6 +32,15 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
 > -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
 
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
+> This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
+> -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
+
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -203,3 +212,6 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[AConservationorientedClassific_15455]]
 - [[EvaluationsAndSuggestionsConce_16480]]
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
+- [[RecoveryEffortsForBonytailChub_11837]]
+- [[BriefVerbalSynopsisOfFindingsO_13416]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]

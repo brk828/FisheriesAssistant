@@ -23,6 +23,12 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 > - **[[Colorado Squawfish]]** (*Ptychocheilus lucius*) — large-bodied [[Cyprinidae|cyprinid]] historically requiring "large-sized individuals" for successful reintroduction; hatchery-reared progeny referenced as being of insufficient size for establishment success. - **[[Woundfin]]** (*Plagopterus...
 > -- *[[CommentsAdvanceCopyOfThePrelim_1995_03_31]]*
 
+> This draft Conservation Agreement addresses the proposed listing of [[Virgin Spinedace]] (*Lepidomeda mollispinis*) as a threatened species under the Endangered Species Act of 1973. The [[Virgin Spinedace]] is a small cyprinid minnow endemic to the [[Virgin River]] drainage in southwestern Utah,...
+> -- *[[DraftConservationAgreementForV_13234]]*
+
+> This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
+> -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AttachedDraftListOfSpeciesAssi_14772]]
@@ -54,3 +60,5 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 - [[VirginSpinedaceListingPackageR_1994_09_08]]
 - [[VirginSpinedaceProposedAsThrea_1994_05_28]]
 - [[VrrtNoticeAndMeetingMinutes_20253]]
+- [[DraftConservationAgreementForV_13234]]
+- [[VirginRiverFishRecoveryTeamSpr_20244]]

@@ -23,6 +23,9 @@ Pantosteus is a genus of suckers (family Catostomidae) that comprises freshwater
 > No direct morphological data, measurements, or diagnostic descriptions are provided in this source. The letter is policy- and management-focused. Taxa referenced by name include: - **[[Razorback Sucker]]** (*Xyrauchen texanus*) — family [[Catostomidae]] - **[[Colorado Pikeminnow]]** (historically...
 > -- *[[LetterToWLMinckleyOnFisheryRes_1994_05_27]]*
 
+> This 1980 report by W. L. Minckley examines morphological variation in suckers of the genus [[Catostomus]] from the middle [[Colorado River]] region, including [[Grand Canyon]], [[Glen Canyon]], [[Virgin River]], and [[Little Colorado River]] basins. The study reveals that populations previously...
+> -- *[[MorphologicalVariationInCatost_13689]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[CorrespondenceOnMexicanFishTax_1993_10_21]]
@@ -34,3 +37,4 @@ Pantosteus is a genus of suckers (family Catostomidae) that comprises freshwater
 - [[SpeciesAccountForDesertSuckerC_13160]]
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[MorphologicalVariationInCatost_13689]]

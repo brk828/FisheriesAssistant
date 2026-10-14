@@ -56,6 +56,60 @@ The Colorado River is a major southwestern North American river system that serv
 > The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
 > -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
 
+> This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
+> -- *[[UseOfHydroelectricDamsToContro_11232]]*
+
+> This 1990 U.S. Fish and Wildlife Service biological opinion addresses a formal Section 7 consultation on the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles)...
+> -- *[[IntraserviceSectionConsultatio_11829]]*
+
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
+> This memorandum documents the transfer of 18 [[Bonytail Chub]] (*Gila elegans*) from [[Bubbling Ponds Fish Hatchery]] to [[Arizona State University Research Park]] on July 24, 1992. The fish were originally salvaged from [[Palm Lake]] at the [[Hassayampa River Preserve]] near Wickenburg, Arizona in...
+> -- *[[BonytailChubSalvagedfromPalkLa_12812]]*
+
+> This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
+> -- *[[TechnicalReviewDraftPahranagat_13301]]*
+
+> This 1980 report by W. L. Minckley examines morphological variation in suckers of the genus [[Catostomus]] from the middle [[Colorado River]] region, including [[Grand Canyon]], [[Glen Canyon]], [[Virgin River]], and [[Little Colorado River]] basins. The study reveals that populations previously...
+> -- *[[MorphologicalVariationInCatost_13689]]*
+
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
+> -- *[[DraftliteratureReviewOfTheStri_15768]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This map documents the spatial distribution and abundance of larval [[Razorback Sucker]] (*Xyrauchen texanus*) captures throughout the [[Upper Colorado River Basin]] during the period 1992-1995. The survey covered major river systems including the [[Green River]], [[Colorado River]], [[San Juan...
+> -- *[[CapturesOfLarvalRazorbackSucke_18287]]*
+
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
+> This proposal, submitted 21 August 1995 by researchers from [[Northern Arizona University]], requests $201,816 to continue transitional monitoring of [[Colorado River]] sand bars and backwaters in [[Grand Canyon National Park]]. The project bridges ongoing research to a long-term monitoring program...
+> -- *[[BridgingTheGapToLongtermMonito_18440]]*
+
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
+> This legal brief, filed August 18, 1992, supports a motion for summary judgment compelling the [[U.S. Fish and Wildlife Service]] (FWS) to designate critical habitat for the [[Razorback Sucker]] (*Xyrauchen texanus*) under the [[Endangered Species Act]] (ESA). The [[Colorado Wildlife Federation]]...
+> -- *[[BriefInSupportOfPlaintiffsMoti_18646]]*
+
+> This document records the meeting notes from the [[Glen Canyon Environmental Studies]] (GCES) Executive Review Committee (ERC) meeting held June 15, 1989, in Flagstaff, Arizona. The ERC, composed of representatives from the [[Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], [[Western...
+> -- *[[ExecutiveReviewCommitteeMeetin_19686]]*
+
+> This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
+> -- *[[EndangeredSpeciesProgramReview_19696]]*
+
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -384,3 +438,21 @@ The Colorado River is a major southwestern North American river system that serv
 - [[ReReviewOfFloodedBottomLandRes_13862]]
 - [[RecoveryTeamMeetingFebruary_14137]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[UseOfHydroelectricDamsToContro_11232]]
+- [[IntraserviceSectionConsultatio_11829]]
+- [[RecoveryEffortsForBonytailChub_11837]]
+- [[BonytailChubSalvagedfromPalkLa_12812]]
+- [[TechnicalReviewDraftPahranagat_13301]]
+- [[MorphologicalVariationInCatost_13689]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[DraftliteratureReviewOfTheStri_15768]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[CapturesOfLarvalRazorbackSucke_18287]]
+- [[LowerColoradoRiverBasinManagem_18432]]
+- [[BridgingTheGapToLongtermMonito_18440]]
+- [[RiverResourceMonitoringProject_18503]]
+- [[BriefInSupportOfPlaintiffsMoti_18646]]
+- [[ExecutiveReviewCommitteeMeetin_19686]]
+- [[EndangeredSpeciesProgramReview_19696]]
+- [[IntraserviceSectionConsultatio_20152]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]

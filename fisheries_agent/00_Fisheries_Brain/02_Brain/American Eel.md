@@ -20,9 +20,13 @@ The American Eel is a catadromous fish species native to Atlantic coastal waters
 > **Comparative Tag Return Rates by Species** (strap tag vs. split ring, percent returned): | Species | Strap Tag Return | Split Ring Return | |---|---|---| | [[Lake Sturgeon]] | 6.7% | — | | [[Atlantic Sturgeon]] | 25.9% | — | | [[American Eel]] | up to 11% | 6% (3% in some data) | | [[Channel Cat...
 > -- *[[FishTagsAndTaggingInQuebecWate_1957]]*
 
+> This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
+> -- *[[Eel_14169]]*
+
 ## Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 - [[ChangingChemicalAndBiologicalC_12793]]
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
 - [[DistributionOfTheFishesOfBoone_14736]]
 - [[FishTagsAndTaggingInQuebecWate_1957]]
+- [[Eel_14169]]

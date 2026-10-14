@@ -29,6 +29,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
 > -- *[[FederalAidToFishRestorationAnn_19654]]*
 
+> This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
+> -- *[[TroutFishingAtCliffPondBrewste_15489]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -86,3 +89,4 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[WhyTheMassachusettsDivisionOfF_15491]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[FederalAidToFishRestorationAnn_19654]]
+- [[TroutFishingAtCliffPondBrewste_15489]]

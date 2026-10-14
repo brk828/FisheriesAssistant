@@ -11,7 +11,11 @@ auto_enriched: true
 > - **Native taxa at risk** — Referenced as "[[Meda]]" (likely *[[Meda fulgida]]*, the spikedace, a small elongate [[Cyprinidae|cyprinid minnow]] endemic to the Gila River basin) and a second native form, tentatively *[[Poeciliopsis occidentalis]]*, the Gila topminnow, a small live-bearing poecilii...
 > -- *[[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]*
 
+> This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
+> -- *[[TroutFishingAtCliffPondBrewste_15489]]*
+
 ## Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[LetterToWLMinckleyRegardingSpi_1987_03_27]]
 - [[SomeFactorsAffectingTheResista_1964]]
+- [[TroutFishingAtCliffPondBrewste_15489]]

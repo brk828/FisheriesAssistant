@@ -14,6 +14,10 @@ auto_enriched: true
 > - **Interpretation**: Razorback suckers strongly preferred the [[Imperial Dam Impoundment|impoundment]] (Jacob's D = +0.71) and moderately preferred [[Backwater Habitat|backwaters]] (+0.21) and [[Squaw Lake]] (+0.30), while strongly avoiding the [[Main Channel Habitat|main channel]] (−0.79). [[Si...
 > -- *[[LowerColoradoRiverEndangeredFi_12878]]*
 
+> This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
+> -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
+
 ## Mentioned In
 - [[InvestigationOfTheUnlinedCoach_17022]]
 - [[LowerColoradoRiverEndangeredFi_12878]]
+- [[AgendaAttendeesAndSummariesOfP_14401]]

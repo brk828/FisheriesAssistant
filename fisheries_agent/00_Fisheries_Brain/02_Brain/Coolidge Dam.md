@@ -17,7 +17,11 @@ Coolidge Dam is a water management structure on the Gila River in Arizona that s
 > This document is a **scoping statement** issued by the Bureau of Reclamation for an Environmental Assessment (EA) evaluating proposed safety modifications to **[[Coolidge Dam]]**, part of the **[[San Carlos Irrigation Project]]** on the **[[Gila River]]** in Arizona. While the source is primarily...
 > -- *[[ModificationOfCoolidgeDamAFeat_11478]]*
 
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
 ## Mentioned In
 - [[CommentsOnProposedBonytailChub_1986_01_07]]
 - [[GeologicRelationsOfTheGilaCong_11466]]
 - [[ModificationOfCoolidgeDamAFeat_11478]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]

@@ -20,6 +20,9 @@ The orangespotted sunfish (Lepomis humilis) is a small centrarchid species commo
 > 1. **Stratification barrier**: Rotenone applied to the surface of thermally stratified ponds did not penetrate to bottom waters even at 4x the standard concentration (0.5 vs 2.0 p.p.m. emulsifiable rotenone tested at [[Rattlesnake Pond]] and [[Ranch House Pond]]). 2. **Agitation improves mixing**...
 > -- *[[EffectivenessOfRotenoneInPondR_1953]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[DistributionHabitatAndAbundanc_1959]]
@@ -28,3 +31,4 @@ The orangespotted sunfish (Lepomis humilis) is a small centrarchid species commo
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[UseOfAntimycinForSelectiveThin_14083]]
+- [[FisheryInvestigationsOnFortGib_14674]]

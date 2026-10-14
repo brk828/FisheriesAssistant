@@ -35,6 +35,9 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -231,3 +234,4 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 - [[TheSpawningBehaviorOfTheChanne_15949]]
 - [[ProductionOfTheThreadfinShadDo_15096]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[FisheryInvestigationsOnFortGib_14674]]

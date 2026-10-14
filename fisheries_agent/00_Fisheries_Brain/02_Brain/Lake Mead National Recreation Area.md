@@ -23,6 +23,9 @@ Lake Mead National Recreation Area is a federally managed landscape encompassing
 > - **Establishment**: Founded in 1962 under Public Land Order No. 1941 (Federal Register Vol. 24, Num. 162, August 19, 1959). - **Primary Mission**: Mitigation hatchery producing [[Rainbow Trout]] for the coldwater fishery created by [[Hoover Dam]]. - **Infrastructure**: Includes a hatchery buildi...
 > -- *[[StationProfileOfWillowBeachNat_19507]]*
 
+> This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
+> -- *[[RequestForProposalspresubmitta_18342]]*
+
 ## Mentioned In
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
 - [[EffectsOfInterimFlowsFromGlenC_1993_04_17]]
@@ -34,3 +37,4 @@ Lake Mead National Recreation Area is a federally managed landscape encompassing
 - [[ProposedHooverDamPowerplantMod_1991_07_15]]
 - [[ReviewOfTheBiologicalAssessmen_1991_06_24]]
 - [[StationProfileOfWillowBeachNat_19507]]
+- [[RequestForProposalspresubmitta_18342]]

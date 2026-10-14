@@ -26,6 +26,9 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
+> -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
+
 ## Mentioned In
 - [[ACaseOfAlbinismInTheTadpoleMad_20472]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -76,3 +79,4 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 - [[VariationsInDdtConcentrationIn_13889]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[TheFaunalArchaeologyOfTheTubac_20377]]

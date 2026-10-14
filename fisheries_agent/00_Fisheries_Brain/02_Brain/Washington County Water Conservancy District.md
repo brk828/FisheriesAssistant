@@ -11,8 +11,12 @@ The Washington County Water Conservancy District is a regional water management 
 > This document is a critical scientific commentary by [[James E. Deacon]] on the Virgin River Habitat Conservation and Management Plan, addressed to the [[Washington County Water Conservancy District]]. Rather than presenting new morphological or taxonomic data, the letter is an expert critique of...
 > -- *[[CommentsOnTheVirginRiverHabita_1995_02_14]]*
 
+> This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
+> -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
+
 ## Mentioned In
 - [[CommentsOnTheVirginRiverHabita_1995_02_14]]
 - [[LetterToBobWilliamsRegardingVi_1994_09_06]]
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
 - [[ResponseToWashingtonCountyWate_1998]]
+- [[VirginRiverFishRecoveryTeamSpr_20244]]

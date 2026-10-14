@@ -23,6 +23,9 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 > **Cross-references:** [[Gila River]], [[Bonita Creek]], [[Gila Box Riparian National Conservation Area]], [[Arizona Desert Wilderness Act of 1990]], [[Limits of Acceptable Change (LAC) Framework]], [[Bureau of Land Management]]
 > -- *[[BlmGilaBoxAdvisoryCommitteeMee_1991_12_24]]*
 
+> This memorandum documents severe flood damage to the [[Big Spring]] [[Gila Topminnow]] reintroduction site in [[Graham County]], Arizona, following an intense localized storm on August 21, 1990. The flood destroyed critical pool habitat, reduced the observable topminnow population from abundant to...
+> -- *[[ReportOfFloodDamageToBigSpring_18984]]*
+
 ## Mentioned In
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
 - [[BlmGilaBoxAdvisoryCommitteeMee_1991_12_24]]
@@ -33,3 +36,4 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 - [[RazorbackSuckerRecapture_1986_08_18]]
 - [[TheGilaBoxAWildernessCanyonOnT_13093]]
 - [[UpperVerdeRiverAquaticStudy_15611]]
+- [[ReportOfFloodDamageToBigSpring_18984]]

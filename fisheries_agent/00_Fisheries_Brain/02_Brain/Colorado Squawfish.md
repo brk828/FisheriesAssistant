@@ -41,6 +41,30 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
 > -- *[[AlternativeApproachesToHcpsFor_16735]]*
 
+> This 1990 U.S. Fish and Wildlife Service biological opinion addresses a formal Section 7 consultation on the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles)...
+> -- *[[IntraserviceSectionConsultatio_11829]]*
+
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
+> This legal brief, filed August 18, 1992, supports a motion for summary judgment compelling the [[U.S. Fish and Wildlife Service]] (FWS) to designate critical habitat for the [[Razorback Sucker]] (*Xyrauchen texanus*) under the [[Endangered Species Act]] (ESA). The [[Colorado Wildlife Federation]]...
+> -- *[[BriefInSupportOfPlaintiffsMoti_18646]]*
+
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
+> This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
+> -- *[[NoticeOfIntentToSueForViolatio_20521]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -239,3 +263,11 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[ReReviewOfFloodedBottomLandRes_13862]]
 - [[RecoveryTeamMeetingFebruary_14137]]
 - [[AlternativeApproachesToHcpsFor_16735]]
+- [[IntraserviceSectionConsultatio_11829]]
+- [[RecoveryEffortsForBonytailChub_11837]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[LowerColoradoRiverBasinManagem_18432]]
+- [[BriefInSupportOfPlaintiffsMoti_18646]]
+- [[IntraserviceSectionConsultatio_20152]]
+- [[NoticeOfIntentToSueForViolatio_20521]]

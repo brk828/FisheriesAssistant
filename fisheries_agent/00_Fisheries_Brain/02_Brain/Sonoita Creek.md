@@ -23,6 +23,9 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 > This 1977 USDA Forest Service research paper examines the decline of the endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and its complex ecological relationship with the invasive [[Mosquitofish]] (*Gambusia affinis*). Contrary to prior assumptions of rapid (within one yea...
 > -- *[[StatusOfTheGilaTopminnowAndIts_13684]]*
 
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -33,3 +36,4 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 - [[RequestForTheCommissionToAppro_1997_07_14]]
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[StatusOfTheGilaTopminnowAndIts_13684]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]

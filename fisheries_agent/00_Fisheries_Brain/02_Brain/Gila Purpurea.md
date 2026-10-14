@@ -23,6 +23,9 @@ Gila purpurea, commonly known as the Yaqui chub, is a small endemic cyprinid fis
 > This report documents a single-day fish survey conducted on **West Turkey Creek** (Chiricahua Mountains, Arizona) on October 31, 1997, using electro-shocking techniques. The survey targeted a series of pools along the creek, from the "Campsite" pool downstream/upstream through "Tributary," "Sycam...
 > -- *[[WestTurkeyCreekFishS_1997_10_31]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
 ## Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -35,3 +38,4 @@ Gila purpurea, commonly known as the Yaqui chub, is a small endemic cyprinid fis
 - [[WestTurkeyCreekFishS_1997_10_31]]
 - [[WestTurkeyCreekFishS_1999_11_29]]
 - [[YaquiChubStockingIntoSanBernar_1980_10_31]]
+- [[MinutesDesertFishesRecoveryTea_15843]]

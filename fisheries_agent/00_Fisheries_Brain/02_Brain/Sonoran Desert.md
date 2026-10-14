@@ -26,6 +26,12 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 > This biological assessment was conducted 8–18 July 1994 for the [[Papago Park Military Reservation]] (PPMR) in Phoenix, Arizona, in support of an environmental assessment for proposed construction of a consolidated maintenance facility by the Arizona Army National Guard. The survey documented 36...
 > -- *[[PapagoParkMilitaryReservationB_13351]]*
 
+> This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
+> -- *[[DraftEvaluationOfPotentialsFor_15827]]*
+
+> This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
+> -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[CorrespondenceRegardingDesertF_12709]]
@@ -57,3 +63,5 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 - [[StockingOfGilaTopminnowAtPhoen_11815]]
 - [[TheConservationDilemmaOfNonNat_15856]]
 - [[PapagoParkMilitaryReservationB_13351]]
+- [[DraftEvaluationOfPotentialsFor_15827]]
+- [[FeedingDynamicsNitrogenBudgets_17775]]

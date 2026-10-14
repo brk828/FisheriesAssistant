@@ -26,6 +26,9 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
 > -- *[[AlternativeApproachesToHcpsFor_16735]]*
 
+> This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
+> -- *[[DraftEvaluationOfPotentialsFor_15827]]*
+
 ## Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -55,3 +58,4 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[StatusOfGeneticAnalysisOfSpine_1993_03_02]]
 - [[StatusReportGilaRiverWatershed_17809]]
 - [[AlternativeApproachesToHcpsFor_16735]]
+- [[DraftEvaluationOfPotentialsFor_15827]]

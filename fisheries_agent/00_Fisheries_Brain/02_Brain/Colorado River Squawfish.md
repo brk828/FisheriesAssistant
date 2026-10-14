@@ -23,6 +23,9 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 > This document is an administrative letter dated December 6, 1988, from Dean A. Hendrickson, Native Fish Biologist at the Arizona Game & Fish Department, addressed to Dr. W. L. Minckley of Arizona State University. The letter is not a primary research paper but a call to convene a coordination mee...
 > -- *[[LetterCallingMeetingOnLowerCol_1988_12_06]]*
 
+> This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
+> -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[ArthropodsAndVertebratesOfAriz_16220]]
@@ -39,3 +42,4 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 - [[RenovationOfPalmLakeForUseAsAN_1988_04_06]]
 - [[RoundtailChubGetsPrBoostFromGa_13925]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[TheFaunalArchaeologyOfTheTubac_20377]]

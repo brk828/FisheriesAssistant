@@ -23,6 +23,9 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 > 1. **Pre-impoundment baseline**: ~57,000 lbs/year commercial catch of buffalo, drum, and catfish on the future Wheeler Reservoir site (1935–1936 census). 2. **Sanford Act (1936)** prohibited all netting in impounded waters, restricting legal commercial fishing to baited lines from 1936–1941, whic...
 > -- *[[ChangesInTheCommercialFisheryO_13861]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -63,3 +66,4 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[UseOfAntimycinForSelectiveThin_14083]]
+- [[FisheryInvestigationsOnFortGib_14674]]

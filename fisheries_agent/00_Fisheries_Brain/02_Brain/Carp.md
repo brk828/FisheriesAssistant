@@ -32,6 +32,12 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
 > -- *[[FederalAidToFishRestorationAnn_19654]]*
 
+> This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
+> -- *[[TechnicalReviewDraftPahranagat_13301]]*
+
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -86,3 +92,5 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[AnEconomicStudyOfTheProcessing_15621]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[FederalAidToFishRestorationAnn_19654]]
+- [[TechnicalReviewDraftPahranagat_13301]]
+- [[FisheryInvestigationsOnFortGib_14674]]

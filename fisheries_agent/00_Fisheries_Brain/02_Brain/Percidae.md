@@ -26,6 +26,9 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 > This comprehensive study analyzed over 500,000 darter eggs from 1954 to 1965 to investigate geographic variation in hybrid survival among etheostomatine fishes (darters). More than 130 hybrid combinations were tested, with both reciprocals reared for 70 combinations. Key findings include: (1)...
 > -- *[[GeographicVariationsInSurvival_14227]]*
 
+> This technical note describes a practical method for mounting fish scales for age and growth studies, developed at the [[Iowa Cooperative Fisheries Research Unit]]. The technique uses two microscope slides bound with waterproof adhesive tape to create permanent, easily stored mounts that preserve...
+> -- *[[ASimpleMethodOfMountingScales_20311]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -76,3 +79,4 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 - [[TwoNaturalDarterHybridsInvolvi_1980]]
 - [[VariationsOnRereadingWalleyeSc_17403]]
 - [[GeographicVariationsInSurvival_14227]]
+- [[ASimpleMethodOfMountingScales_20311]]

@@ -26,6 +26,9 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 > The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
 > -- *[[EndangeredAndThreatenedWildlif_11551]]*
 
+> This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
+> -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -44,3 +47,4 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 - [[SomeEffectsOfANeutralMixtureOf_1969_06_11]]
 - [[ToleranceOfHeadwaterVsMainstre_15191]]
 - [[EndangeredAndThreatenedWildlif_11551]]
+- [[FeedingDynamicsNitrogenBudgets_17775]]

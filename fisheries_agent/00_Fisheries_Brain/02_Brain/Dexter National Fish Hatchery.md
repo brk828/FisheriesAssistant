@@ -38,6 +38,27 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
 > -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
 
+> This 1990 U.S. Fish and Wildlife Service biological opinion addresses a formal Section 7 consultation on the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles)...
+> -- *[[IntraserviceSectionConsultatio_11829]]*
+
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> This 1991 report documents a biochemical genetic analysis of [[Yaqui Catfish]] (*Ictalurus pricei*) held at [[Dexter National Fish Hatchery]] using horizontal starch gel electrophoresis. The study aimed to develop non-lethal tissue sampling methods, characterize genetic relationships between Yaqui...
+> -- *[[BiochemicalAnalysisOfGeneProdu_17930]]*
+
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
+> This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
+> -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -170,3 +191,10 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[SummaryOfRazorbackSuckerCollec_19428]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[IntraserviceSectionConsultatio_11829]]
+- [[RecoveryEffortsForBonytailChub_11837]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[BiochemicalAnalysisOfGeneProdu_17930]]
+- [[LowerColoradoRiverBasinManagem_18432]]
+- [[IntraserviceSectionConsultatio_20152]]
+- [[VirginRiverFishRecoveryTeamSpr_20244]]

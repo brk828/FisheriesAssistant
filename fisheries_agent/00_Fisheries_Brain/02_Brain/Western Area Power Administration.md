@@ -32,6 +32,9 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This document records the meeting notes from the [[Glen Canyon Environmental Studies]] (GCES) Executive Review Committee (ERC) meeting held June 15, 1989, in Flagstaff, Arizona. The ERC, composed of representatives from the [[Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], [[Western...
+> -- *[[ExecutiveReviewCommitteeMeetin_19686]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[ErrataSheetFyWorkPlanForTheRec_20993]]
@@ -43,3 +46,4 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 - [[BureauOfReclamationAnnouncesDe_20789]]
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[ExecutiveReviewCommitteeMeetin_19686]]

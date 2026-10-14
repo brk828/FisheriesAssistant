@@ -26,6 +26,9 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 > This document comprises correspondence and program proposals (1994) regarding the [[Upper Colorado River Basin]] [[Flooded Bottom Land Restoration Program]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*). Dr. C.F. Bryan of the [[Louisiana Cooperative Fish and...
 > -- *[[ReReviewOfFloodedBottomLandRes_13862]]*
 
+> This map documents the spatial distribution and abundance of larval [[Razorback Sucker]] (*Xyrauchen texanus*) captures throughout the [[Upper Colorado River Basin]] during the period 1992-1995. The survey covered major river systems including the [[Green River]], [[Colorado River]], [[San Juan...
+> -- *[[CapturesOfLarvalRazorbackSucke_18287]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -42,3 +45,4 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
 - [[ThousandsOfEndangeredFishToBeS_1997_09_18]]
 - [[ReReviewOfFloodedBottomLandRes_13862]]
+- [[CapturesOfLarvalRazorbackSucke_18287]]

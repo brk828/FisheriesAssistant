@@ -26,6 +26,12 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 > The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
 > -- *[[EndangeredSpeciesInformationSy_14003]]*
 
+> This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
+> -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
+
+> This document presents information about the [[Devil's Hole Pupfish]] (*Cyprinodon diabolis*), an extremely rare and geographically restricted species endemic to [[Devil's Hole]], Nevada. The document includes a photograph credited to Edwin Phil Pister, documenting this critically endangered desert...
+> -- *[[DevilsHolePupfishCyprinodonDia_18341]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReDescriptionOfAphaniusGinaon_1980]]
@@ -82,3 +88,5 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
 - [[WeitereUntersuchungenZumGeschl_11192]]
 - [[EndangeredSpeciesInformationSy_14003]]
+- [[BriefVerbalSynopsisOfFindingsO_13416]]
+- [[DevilsHolePupfishCyprinodonDia_18341]]

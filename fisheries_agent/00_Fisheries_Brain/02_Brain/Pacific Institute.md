@@ -17,6 +17,10 @@ auto_enriched: true
 > **Cross-links**: [[Colorado River Delta]] | [[Upper Gulf of California]] | [[Salton Sea]] | [[Cienega de Santa Clara]] | [[Ramsar Site]] | [[Pacific Institute]] | [[SEMARNAP]] | [[Research Advisory Committee]] | [[Upper Gulf of California-Colorado River Delta Biosphere Reserve]]
 > -- *[[TheColoradoRiverDeltaAndUpperG_1998_08_01]]*
 
+> This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
+> -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
+
 ## Mentioned In
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
+- [[AgendaAttendeesAndSummariesOfP_14401]]

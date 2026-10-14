@@ -32,6 +32,18 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 > This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
 > -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
 
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
+> -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
+
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
 ## Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -83,3 +95,7 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 - [[LawsuitFiledAgainstFtHuachucaT_18965]]
 - [[LectureNotesFromBiologyClass_13784]]
 - [[ZoogeographicalAnalysisAndRevi_15920]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[TheFaunalArchaeologyOfTheTubac_20377]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]

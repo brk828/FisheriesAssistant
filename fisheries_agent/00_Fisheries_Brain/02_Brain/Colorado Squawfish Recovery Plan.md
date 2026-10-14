@@ -14,8 +14,12 @@ The Colorado Squawfish Recovery Plan is a comprehensive federal conservation str
 > 5. **Broader recovery strategy**: The reintroduction is part of the FWS [[Colorado Squawfish Recovery Plan]], which emphasizes establishing multiple isolated populations to buffer against catastrophic loss of any single population — with parallel restocking efforts already underway in the Salt an...
 > -- *[[ReCommentsOnTheFederalRegister_11571]]*
 
+> This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
+> -- *[[NoticeOfIntentToSueForViolatio_20521]]*
+
 ## Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[ColoradoSquawfishRec_1988_12_30]]
 - [[ReCommentsOnTheFederalRegister_11571]]
 - [[ReferencesWithNewInformationFo_1987_03_01]]
+- [[NoticeOfIntentToSueForViolatio_20521]]

@@ -20,7 +20,11 @@ Perca flavescens, commonly known as yellow perch, is a temperate freshwater tele
 > **Category 2 — Sex Ratio Changes Gradually with Age/Life Stage:** - [[Perca flavescens]]: ratio increases with age due to differential fishing-related mortality of males. - [[Gambusia holbrooki]]: 19–~90% females; males less viable, ratio increases with age. - [[Leucichthys artedi]] (cisco): ~10%...
 > -- *[[SexRatiosAquaticAnimals_13946]]*
 
+> This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
+> -- *[[TroutFishingAtCliffPondBrewste_15489]]*
+
 ## Mentioned In
 - [[SexRatiosAquaticAnimals_13946]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 - [[SomeFactorsAffectingTheResista_1964]]
+- [[TroutFishingAtCliffPondBrewste_15489]]

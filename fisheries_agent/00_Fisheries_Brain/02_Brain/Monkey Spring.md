@@ -20,6 +20,9 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 > - **Habitat type:** Isolated desert spring and creek systems within the Gila River basin of Arizona — a fragmented, relict aquatic habitat type highly vulnerable to desiccation, invasive species, and habitat degradation. - **Source populations (wild, sampled 1994):** - [[Roper Lake]] (Bylas stock...
 > -- *[[StatusOfRefugialGilaTopminnow_1995_12_27]]*
 
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
 ## Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -28,3 +31,4 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
 - [[ReAsuTopminnowPopulations_12698]]
 - [[StatusOfRefugialGilaTopminnow_1995_12_27]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]

@@ -26,6 +26,15 @@ The Lower Colorado River Basin refers to the downstream portion of the Colorado 
 > This memorandum from the U.S. Fish and Wildlife Service Regional Director announces a [[Colorado River Fishes Recovery Team]] meeting scheduled for February 23-24, 1989, in Phoenix, Arizona. The meeting's purpose is to resolve outstanding technical issues concerning recovery plans for three...
 > -- *[[RecoveryTeamMeetingFebruary_14137]]*
 
+> This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
+> -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
+
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
+> This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
+> -- *[[NoticeOfIntentToSueForViolatio_20521]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[BriefingNotesEndangeredFishInC_14950]]
@@ -57,3 +66,6 @@ The Lower Colorado River Basin refers to the downstream portion of the Colorado 
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[WesternAreaPowerAdministration_19148]]
 - [[RecoveryTeamMeetingFebruary_14137]]
+- [[AgendaAttendeesAndSummariesOfP_14401]]
+- [[LowerColoradoRiverBasinManagem_18432]]
+- [[NoticeOfIntentToSueForViolatio_20521]]

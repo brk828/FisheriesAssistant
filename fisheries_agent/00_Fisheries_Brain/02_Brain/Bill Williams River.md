@@ -26,6 +26,9 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 > These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
 > -- *[[LectureNotesFromBiologyClass_13784]]*
 
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
 ## Mentioned In
 - [[AlamoDamLandAndWaterProjectsSt_1966]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -41,3 +44,4 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 - [[SpeciesAccountForDesertSuckerC_13160]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[LectureNotesFromBiologyClass_13784]]
+- [[IntraserviceSectionConsultatio_20152]]

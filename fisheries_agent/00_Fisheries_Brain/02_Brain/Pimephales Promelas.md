@@ -23,6 +23,9 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 > 2. **Bonita Creek Backwater:** A lotic-adjacent backwater habitat near the San Carlos Apache Indian Reservation boundary, sampled via seine. This site shows a more intact native fish assemblage: - [[Agosia chrysogaster]] (Longfin Dace) – *Native* - [[Gila intermedia]] (Gila Chub) – *Native* - [[P...
 > -- *[[RazorbackSuckerRecapture_1986_08_18]]*
 
+> This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
+> -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
+
 ## Mentioned In
 - [[DistributionOfMidwesternFishes_1978]]
 - [[FiveNewSpeciesOfGyrodactylusTr_12149]]
@@ -34,3 +37,4 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 - [[RuckerCanyonFisheriesSurvey_1997_07_30]]
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[WestTurkeyCreekFishS_1997_10_31]]
+- [[FeedingDynamicsNitrogenBudgets_17775]]

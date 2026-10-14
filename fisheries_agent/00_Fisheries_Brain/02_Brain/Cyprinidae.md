@@ -32,6 +32,12 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > This memorandum from the U.S. Fish and Wildlife Service Regional Director announces a [[Colorado River Fishes Recovery Team]] meeting scheduled for February 23-24, 1989, in Phoenix, Arizona. The meeting's purpose is to resolve outstanding technical issues concerning recovery plans for three...
 > -- *[[RecoveryTeamMeetingFebruary_14137]]*
 
+> This memorandum documents a May 3, 1990 site visit by biologists from the [[U.S. Fish and Wildlife Service]], [[Arizona Game and Fish Department]], and [[Bureau of Reclamation]] to evaluate four potential fish barrier sites on [[Tule Creek]], [[Yavapai County]], Arizona. The group reached consensus...
+> -- *[[SiteVisitPotentialFishBarrierS_11854]]*
+
+> This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
+> -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
+
 ## Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -283,3 +289,5 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[RecoveryTeamMeetingFebruary_14137]]
+- [[SiteVisitPotentialFishBarrierS_11854]]
+- [[TheFaunalArchaeologyOfTheTubac_20377]]

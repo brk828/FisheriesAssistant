@@ -23,6 +23,9 @@ W. L. Minckley was a prominent ichthyologist and conservation biologist who cond
 > - **No turtle population decline detected** (preliminary/anecdotal): The author states that despite the extreme flood magnitude, current data suggest "so far it looks like nothing" happened to the turtle community — i.e., no apparent catastrophic population-level effect was observed following the...
 > -- *[[EffectOfCatastrophicFloodingOn_12289]]*
 
+> This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
+> -- *[[DraftEvaluationOfPotentialsFor_15827]]*
+
 ## Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[BehindTheScenesBeingThereNatio_1995_05_17]]
@@ -62,3 +65,4 @@ W. L. Minckley was a prominent ichthyologist and conservation biologist who cond
 - [[SpecialSymposiumOnTheBiotaOfCu_19762]]
 - [[SummaryOfDesertPupfishIntroduc_1989_02_09]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
+- [[DraftEvaluationOfPotentialsFor_15827]]

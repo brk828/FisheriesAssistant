@@ -26,6 +26,9 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 > This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
 > -- *[[ListedAndCandidateSpeciesRespo_11941]]*
 
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
 ## Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -76,3 +79,4 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 - [[VoucherSpecimensDonatedToDepar_1997_01_08]]
 - [[WillowBeachRazorbackSuckers_1994_03_05]]
 - [[ListedAndCandidateSpeciesRespo_11941]]
+- [[LowerColoradoRiverBasinManagem_18432]]

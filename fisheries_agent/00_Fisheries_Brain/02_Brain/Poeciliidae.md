@@ -26,6 +26,9 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 > The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
 > -- *[[EndangeredSpeciesInformationSy_14003]]*
 
+> This memorandum documents a May 3, 1990 site visit by biologists from the [[U.S. Fish and Wildlife Service]], [[Arizona Game and Fish Department]], and [[Bureau of Reclamation]] to evaluate four potential fish barrier sites on [[Tule Creek]], [[Yavapai County]], Arizona. The group reached consensus...
+> -- *[[SiteVisitPotentialFishBarrierS_11854]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -113,3 +116,4 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
 - [[EndangeredSpeciesInformationSy_14003]]
+- [[SiteVisitPotentialFishBarrierS_11854]]

@@ -17,9 +17,17 @@ Chara is an aquatic macrophyte (stonewort) that serves as critical habitat struc
 > The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
 > -- *[[EndangeredSpeciesInformationSy_14003]]*
 
+> This 1950s-era bulletin from the [[Massachusetts Division of Fisheries and Game]] addresses the growing problem of aquatic weed infestations in Commonwealth inland waters and evaluates various control methods. The document establishes that the Division does not assume responsibility for weed...
+> -- *[[WeedControlPossibilitiesInMass_14648]]*
+
+> This progress report covers the first six months (through January 1, 1961) of NSF Research Grant G13261 investigating the [[Characeae]] (stoneworts), a group of complex aquatic plants. Principal Investigator Arland Hotchkiss from the [[University of Louisville]] Department of Biology reports...
+> -- *[[TheBearingOfCytologicalAndCert_19928]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
 - [[RatesOfSurvivalAndGrowthOfBlue_12437]]
 - [[SomeEcologicalRelationshipsBet_15746]]
 - [[EndangeredSpeciesInformationSy_14003]]
+- [[WeedControlPossibilitiesInMass_14648]]
+- [[TheBearingOfCytologicalAndCert_19928]]

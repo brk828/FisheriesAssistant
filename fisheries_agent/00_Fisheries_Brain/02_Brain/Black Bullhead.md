@@ -29,6 +29,9 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 > The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
 > -- *[[EndangeredAndThreatenedWildlif_11551]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
@@ -102,3 +105,4 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[EndangeredAndThreatenedWildlif_11551]]
+- [[FisheryInvestigationsOnFortGib_14674]]

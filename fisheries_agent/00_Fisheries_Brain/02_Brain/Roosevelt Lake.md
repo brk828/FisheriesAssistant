@@ -23,6 +23,9 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 > The Salt River originates from the confluence of the White River and Black River in the White Mountains of Arizona and flows southwest to join the [[Gila River]] near Phoenix. The watershed drains the south-facing **Mogollon Rim** escarpment and is regulated by a series of four dams and reservoir...
 > -- *[[InvestigationOfSaltSeepsOnTheU_1976_05_14]]*
 
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AlbinisticCarpCyprinusCarpioFr_1968_04_18]]
@@ -37,3 +40,4 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 - [[RequestForTheCommissionToAppro_1997_07_14]]
 - [[RooseveltLakeRazorbackSuckerRe_1994]]
 - [[RooseveltLakeRazorbackSuckerRe_1994_08_19]]
+- [[IntraserviceSectionConsultatio_20152]]

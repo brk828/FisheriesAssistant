@@ -23,6 +23,9 @@ The Blue River is a tributary of the Gila River located in Greenlee County, Ariz
 > This trip report documents a fisheries survey of the lower [[Blue River]] and portions of the [[San Francisco River]] within the Apache-Sitgreaves National Forests, Arizona, conducted 6–10 July 1995. Using electrofishing, dip nets, and seining, researchers from Arizona State University and the U....
 > -- *[[FisheriesSurveyOfTheApacheSitg_1995_07_06]]*
 
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
 ## Mentioned In
 - [[ConcurrenceWithEffectsDetermin_1997_05_02]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -38,3 +41,4 @@ The Blue River is a tributary of the Gila River located in Greenlee County, Ariz
 - [[RequestToAmendCommissionOrderF_1997_09_30]]
 - [[SecondQuarterlyProgressReportO_1987_08_09]]
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
+- [[RecoveryEffortsForBonytailChub_11837]]

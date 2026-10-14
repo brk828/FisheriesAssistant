@@ -14,8 +14,12 @@ The Water and Power Resources Service (WAPRS) refers to a federal agency or bure
 > - No formal, nationally written USFWS policy existed (as of 1980) explicitly addressing whether Section 7 consultation applies to artificial environments housing listed species. - The memo's authors interpret the **intent of Congress** and the legislative record behind the [[Endangered Species Ac...
 > -- *[[ConsultationRequirementsForSpe_14815]]*
 
+> This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
+> -- *[[UseOfHydroelectricDamsToContro_11232]]*
+
 ## Mentioned In
 - [[AnotherRazorbackCaughtInCanal_18270]]
 - [[ChangeInSpeciesStatusInRegardT_1980_06_01]]
 - [[ConsultationRequirementsForSpe_14815]]
 - [[MemorandumOnUpdateOfHbsTelemet_1980_02_25]]
+- [[UseOfHydroelectricDamsToContro_11232]]

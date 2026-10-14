@@ -29,6 +29,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -78,3 +81,4 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[UseOfIsolatedHabitatsAsGrowout_1996_06_21]]
 - [[ProductionOfTheThreadfinShadDo_15096]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[LowerColoradoRiverBasinManagem_18432]]

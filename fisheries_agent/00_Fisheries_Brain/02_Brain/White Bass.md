@@ -23,6 +23,12 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > - **Specimen sourcing**: Salmonids ([[Rainbow Trout]], [[Brown Trout]], [[Brook Trout]], [[Lake Trout]]) and [[Goldfish]] were obtained from state/national hatcheries; other species ([[Shovelnose Sturgeon]], [[Spotted Sucker]], [[Northern Redhorse]], [[Brown Bullhead]], [[White Bass]], [[Largemou...
 > -- *[[EvaluationOfAnElectronicMethod_14437]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
+> This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
+> -- *[[DraftliteratureReviewOfTheStri_15768]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -48,3 +54,5 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[TheEffectsOfControlledSpawning_14971]]
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
+- [[FisheryInvestigationsOnFortGib_14674]]
+- [[DraftliteratureReviewOfTheStri_15768]]

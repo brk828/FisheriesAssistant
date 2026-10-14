@@ -23,6 +23,9 @@ Conservation Biology, as applied to fish science and aquatic ecology, is the sci
 > - **Federal Standards**: The U.S. federal "Fishery Biologist" classification requires ≥30 semester hours in biological/aquatic sciences and 15 hours in physical/mathematical sciences, explicitly including [[Ichthyology]] and [[Limnology]] coursework. - **Curriculum Renaming**: Recommendation to r...
 > -- *[[MemorandumOnWildlifeConservati_1994_12_13]]*
 
+> This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
+> -- *[[DraftEvaluationOfPotentialsFor_15827]]*
+
 ## Mentioned In
 - [[ApplicationForRenewedScientifi_1998_12_28]]
 - [[ApplicationForScientificCollec_13805]]
@@ -33,3 +36,4 @@ Conservation Biology, as applied to fish science and aquatic ecology, is the sci
 - [[MemorandumOnWildlifeConservati_1994_12_13]]
 - [[TheBiologicalDiversityCrisisAC_12097]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
+- [[DraftEvaluationOfPotentialsFor_15827]]

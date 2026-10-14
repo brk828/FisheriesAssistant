@@ -26,6 +26,12 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
 > -- *[[AlternativeApproachesToHcpsFor_16735]]*
 
+> This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
+> -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
+
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -45,3 +51,5 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[ResolutionRelativeToTheListing_1985_02_22]]
 - [[RestoringNativeFishToTheLowerC_1999_04_08]]
 - [[AlternativeApproachesToHcpsFor_16735]]
+- [[AgendaAttendeesAndSummariesOfP_14401]]
+- [[EffectsOfElectrofishingFieldsO_15544]]

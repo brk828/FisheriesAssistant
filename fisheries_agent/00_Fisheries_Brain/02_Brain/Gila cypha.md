@@ -23,6 +23,9 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 > - All three taxa (*[[Gila cypha]]*, *[[Gila elegans]]*, *[[Gila robusta]]*) exhibit a **high degree of morphological variation**, which currently **frustrates positive field identification**. - No **definitive diagnostic criteria** exist to reliably separate the three species from one another or ...
 > -- *[[InvestigationAndClarificationO_1988_05_25]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdditionalStudiesOnTheLittleCo_18500]]
@@ -46,3 +49,4 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 - [[SPECIES RESPONSIBILITIES OF DESERT FISHES RECOVERY TEAM]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[UpperBasinStuff_20272]]
+- [[MinutesDesertFishesRecoveryTea_15843]]

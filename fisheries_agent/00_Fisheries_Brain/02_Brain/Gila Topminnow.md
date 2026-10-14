@@ -23,6 +23,21 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > - **Habitat diversity covered**: natural and artificial aquatic habitats across the Southwest, including springs, streams, stock ponds, irrigation ditches, and canal systems (e.g., the Central Arizona Canal system). - **Human impacts**: Part II of the manuscript explicitly addresses how human int...
 > -- *[[AnnualReportFishesOfArizonaCon_1997_09_23]]*
 
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
+> This memorandum documents a May 3, 1990 site visit by biologists from the [[U.S. Fish and Wildlife Service]], [[Arizona Game and Fish Department]], and [[Bureau of Reclamation]] to evaluate four potential fish barrier sites on [[Tule Creek]], [[Yavapai County]], Arizona. The group reached consensus...
+> -- *[[SiteVisitPotentialFishBarrierS_11854]]*
+
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This memorandum documents severe flood damage to the [[Big Spring]] [[Gila Topminnow]] reintroduction site in [[Graham County]], Arizona, following an intense localized storm on August 21, 1990. The flood destroyed critical pool habitat, reduced the observable topminnow population from abundant to...
+> -- *[[ReportOfFloodDamageToBigSpring_18984]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -203,3 +218,8 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
+- [[RecoveryEffortsForBonytailChub_11837]]
+- [[SiteVisitPotentialFishBarrierS_11854]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[ReportOfFloodDamageToBigSpring_18984]]

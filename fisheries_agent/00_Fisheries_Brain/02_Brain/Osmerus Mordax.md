@@ -14,7 +14,11 @@ Osmerus mordax, commonly known as rainbow smelt, is a small euryhaline teleost f
 > **Category 1 — Highly Variable Sex Ratios (locality/season dependent):** - [[Uca pugnax]]: sex ratio increases in higher intertidal zones. - [[Mirounga angustirostris]]: 1–71% females; high in breeding rookeries, low in outlying groups. - [[Micropogon undulatus]]: 43–78% females; male spawning mi...
 > -- *[[SexRatiosAquaticAnimals_13946]]*
 
+> This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
+> -- *[[TroutFishingAtCliffPondBrewste_15489]]*
+
 ## Mentioned In
 - [[SexRatiosAquaticAnimals_13946]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 - [[TheRelationOfHydrologicalCondi_20023]]
+- [[TroutFishingAtCliffPondBrewste_15489]]

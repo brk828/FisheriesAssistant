@@ -23,6 +23,12 @@ The California Department of Fish and Game (now the California Department of Fis
 > - **Habitat type:** Desert aquatic habitats of the arid American Southwest, likely including isolated springs, spring-fed streams, and remnant river reaches supporting relict and endangered [[Desert Fish]] populations. - **Geographic scope:** Spans Arizona, New Mexico, and California, reflecting ...
 > -- *[[LetterRecommendingConsultantsF_1986_02_20]]*
 
+> This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
+> -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
+
+> This administrative report documents record-breaking fish production from [[California Department of Fish and Game]] hatcheries during fiscal year 1966-67. Total production reached 52,167,408 fish weighing 2,380,115 pounds, representing the highest weight produced in thirteen years despite two...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14867]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -40,3 +46,5 @@ The California Department of Fish and Game (now the California Department of Fis
 - [[ProceduresForIntroductionOfAqu_17182]]
 - [[ThreeProtozoanDiseasesOfTroutI_14425]]
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
+- [[BriefVerbalSynopsisOfFindingsO_13416]]
+- [[CaliforniaTroutSalmonAndWarmwa_14867]]

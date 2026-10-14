@@ -26,6 +26,9 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
+> -- *[[DraftliteratureReviewOfTheStri_15768]]*
+
 ## Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -37,3 +40,4 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 - [[SpeciesStockingHistoryInTexasD_1987]]
 - [[TheUseOfCopperSulphateToIncrea_13371]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[DraftliteratureReviewOfTheStri_15768]]

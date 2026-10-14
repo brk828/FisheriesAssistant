@@ -14,8 +14,12 @@ San Francisco Bay is a major estuary on the California coast that serves as a cr
 > This 1968 economic study examined the processing and marketing potential of commercial fishery products from [[Montana]] reservoirs, focusing on [[Carp]], [[Buffalofish]], [[Sucker]], and [[Goldeye]]. The research found that Montana's commercial fisheries face significant challenges including...
 > -- *[[AnEconomicStudyOfTheProcessing_15621]]*
 
+> This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
+> -- *[[DraftliteratureReviewOfTheStri_15768]]*
+
 ## Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[DeterminationOfSexualMaturityI_1965]]
 - [[IntroductionOfPondSmeltFromJap_14428]]
 - [[AnEconomicStudyOfTheProcessing_15621]]
+- [[DraftliteratureReviewOfTheStri_15768]]

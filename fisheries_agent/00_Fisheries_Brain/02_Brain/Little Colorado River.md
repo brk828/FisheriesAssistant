@@ -32,6 +32,24 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
 > -- *[[LectureNotesFromBiologyClass_13784]]*
 
+> This 1980 report by W. L. Minckley examines morphological variation in suckers of the genus [[Catostomus]] from the middle [[Colorado River]] region, including [[Grand Canyon]], [[Glen Canyon]], [[Virgin River]], and [[Little Colorado River]] basins. The study reveals that populations previously...
+> -- *[[MorphologicalVariationInCatost_13689]]*
+
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
+> This proposal, submitted 21 August 1995 by researchers from [[Northern Arizona University]], requests $201,816 to continue transitional monitoring of [[Colorado River]] sand bars and backwaters in [[Grand Canyon National Park]]. The project bridges ongoing research to a long-term monitoring program...
+> -- *[[BridgingTheGapToLongtermMonito_18440]]*
+
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
+> This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
+> -- *[[EndangeredSpeciesProgramReview_19696]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -153,3 +171,9 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
 - [[LectureNotesFromBiologyClass_13784]]
+- [[MorphologicalVariationInCatost_13689]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[LowerColoradoRiverBasinManagem_18432]]
+- [[BridgingTheGapToLongtermMonito_18440]]
+- [[RiverResourceMonitoringProject_18503]]
+- [[EndangeredSpeciesProgramReview_19696]]

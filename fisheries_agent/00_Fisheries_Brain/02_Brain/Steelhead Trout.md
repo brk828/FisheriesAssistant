@@ -29,6 +29,9 @@ Steelhead trout are anadromous salmonids that migrate between freshwater rivers 
 > During the 1964-65 fiscal year, California Department of Fish and Game hatcheries planted a record-breaking **60,129,973 fish** totaling **1,879,769 pounds**, though total weight was 207,290 pounds less than the previous year. The December 1964 flood destroyed [[Cedar Creek Hatchery]] on the [[Eel...
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14865]]*
 
+> This administrative report documents record-breaking fish production from [[California Department of Fish and Game]] hatcheries during fiscal year 1966-67. Total production reached 52,167,408 fish weighing 2,380,115 pounds, representing the highest weight produced in thirteen years despite two...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14867]]*
+
 ## Mentioned In
 - [[BlameTheArmyForMuckyRiversToo_1995_04_17]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -49,3 +52,4 @@ Steelhead trout are anadromous salmonids that migrate between freshwater rivers 
 - [[VateriteAsTheCrystallineStruct_12254]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
+- [[CaliforniaTroutSalmonAndWarmwa_14867]]

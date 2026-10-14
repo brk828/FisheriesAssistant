@@ -11,7 +11,11 @@ Anguilla anguilla, commonly known as the European eel, is a catadromous fish spe
 > - **Habitat-related vulnerability**: Anatomical/behavioral adaptation to habitat affects catchability. Bottom-dwelling species such as [[Sculpins]] and [[Darters]] are less readily captured than midwater species such as [[Bluegill]] and shiners; minnows occupying both habitats show intermediate c...
 > -- *[[EffectsOfElectricCurrentOnFish_20855]]*
 
+> This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
+> -- *[[Eel_14169]]*
+
 ## Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 - [[DiskussionsbeitragÜberProbleme_1961]]
 - [[EffectsOfElectricCurrentOnFish_20855]]
+- [[Eel_14169]]

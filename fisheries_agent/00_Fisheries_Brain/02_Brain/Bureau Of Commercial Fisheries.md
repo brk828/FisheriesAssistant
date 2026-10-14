@@ -11,6 +11,10 @@ auto_enriched: true
 > This document is **not a biological or taxonomic research paper**; it is an administrative/organizational directory published by the U.S. Department of the Interior's [[Bureau of Commercial Fisheries]] (Fish and Wildlife Service). It catalogs national and regional **fishery trade associations** i...
 > -- *[[ListOfFisheryAssociationsInThe_12333]]*
 
+> This study documents the persistence and decomposition of dead [[Pink Salmon]] (Oncorhynchus gorbuscha) eggs and larvae in [[Sashin Creek]], [[Baranof Island]], [[Alaska]] from October 1961 through March 1963. Researchers tracked the 1961 brood year to determine whether residual dead eggs remained...
+> -- *[[DisappearanceOfDeadPinkSalmonE_12341]]*
+
 ## Mentioned In
 - [[DisposalOfRadioactiveMaterials_16140]]
 - [[ListOfFisheryAssociationsInThe_12333]]
+- [[DisappearanceOfDeadPinkSalmonE_12341]]

@@ -14,8 +14,12 @@ Sediment transport refers to the movement of soil, sand, gravel, and other parti
 > [[Dynamic Equilibrium]] · [[Fluvial Geomorphology]] · [[Channel Morphology]] · [[Nickpoint]] · [[Sediment Transport]] · [[Watershed Management]] · [[Large Woody Debris]] · [[Stream Habitat Structure]] · [[Graded River Concept]] · [[Colorado Rocky Mountains]] · [[Arizona White Mountains]]
 > -- *[[WatershedIndicatorsOfLandformD_16588]]*
 
+> This document presents engineering plans for improving a main canal inlet system serving a series of interconnected wetland pond units (L-1 through L-10). The project encompasses eight major components including inlet redesign, jetty construction, canal cleaning, and pond regrading. Water surface...
+> -- *[[OurayWildlifeRefugeImprovement_16470]]*
+
 ## Mentioned In
 - [[EquilibriumConditionAndSedimen_1976]]
 - [[FlowModificationsToTheGlenCany_18321]]
 - [[GlenCanyonEnvironmentalStudies_19680]]
 - [[WatershedIndicatorsOfLandformD_16588]]
+- [[OurayWildlifeRefugeImprovement_16470]]

@@ -23,6 +23,9 @@ The Bigmouth Buffalo (Ictiobus cyprinellus) is a large North American cyprinid f
 > Key taxonomic groups documented include: - **[[Petromyzonidae]]**: Six lamprey taxa, including the [[Western Lamprey]] (*Ichthyomyzon castaneus*), [[Southern Brook Lamprey]] (*I. gagei*), and an unnamed "Mountain brook lamprey." - **[[Acipenseridae]]** and **[[Polyodontidae]]**: The [[Paddlefish]...
 > -- *[[ListOfTheFishesOfTheTennesseeR_1939_02_08]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -35,3 +38,4 @@ The Bigmouth Buffalo (Ictiobus cyprinellus) is a large North American cyprinid f
 - [[RevisedProceduresForCommercial_15105]]
 - [[SomeEffectsOfThreadfinShadIntr_15693]]
 - [[ThePropagationOfBuffalo_14839]]
+- [[FisheryInvestigationsOnFortGib_14674]]

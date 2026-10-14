@@ -38,6 +38,27 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > During the 1964-65 fiscal year, California Department of Fish and Game hatcheries planted a record-breaking **60,129,973 fish** totaling **1,879,769 pounds**, though total weight was 207,290 pounds less than the previous year. The December 1964 flood destroyed [[Cedar Creek Hatchery]] on the [[Eel...
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14865]]*
 
+> This 1990 U.S. Fish and Wildlife Service biological opinion addresses a formal Section 7 consultation on the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles)...
+> -- *[[IntraserviceSectionConsultatio_11829]]*
+
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
+> This administrative report documents record-breaking fish production from [[California Department of Fish and Game]] hatcheries during fiscal year 1966-67. Total production reached 52,167,408 fish weighing 2,380,115 pounds, representing the highest weight produced in thirteen years despite two...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14867]]*
+
+> This 1987 survey assessed ictalurid (catfish family) populations in the [[Yadkin River]] and [[South Yadkin River]] above and below [[Idols Dam]] and [[Cooleemee Dam]] to determine whether [[Flathead Catfish]] (*Pylodictis olivaris*) should be stocked upstream of these barriers. Using...
+> -- *[[SurveyOfIctaluridPopulationsIn_15266]]*
+
+> This 1991 report documents a biochemical genetic analysis of [[Yaqui Catfish]] (*Ictalurus pricei*) held at [[Dexter National Fish Hatchery]] using horizontal starch gel electrophoresis. The study aimed to develop non-lethal tissue sampling methods, characterize genetic relationships between Yaqui...
+> -- *[[BiochemicalAnalysisOfGeneProdu_17930]]*
+
+> This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
+> -- *[[EndangeredSpeciesProgramReview_19696]]*
+
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -280,3 +301,10 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[ABibliographyAndHostListForThe_15289]]
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
+- [[IntraserviceSectionConsultatio_11829]]
+- [[FisheryInvestigationsOnFortGib_14674]]
+- [[CaliforniaTroutSalmonAndWarmwa_14867]]
+- [[SurveyOfIctaluridPopulationsIn_15266]]
+- [[BiochemicalAnalysisOfGeneProdu_17930]]
+- [[EndangeredSpeciesProgramReview_19696]]
+- [[IntraserviceSectionConsultatio_20152]]

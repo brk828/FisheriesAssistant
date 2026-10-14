@@ -23,6 +23,9 @@ West Turkey Creek is a perennial stream in the Rio Yaqui drainage basin of south
 > This document is not a primary research paper but the **minutes of the August 2, 1995 meeting of the Southeast Arizona Native Fish Team**, an interagency working group (AGFD, USFWS, USFS, BLM, Bureau of Reclamation, University of Arizona, Arizona State University) coordinating native fish conserv...
 > -- *[[MinutesSummaryOfTheAugustMeeti_1995_08_17]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
 ## Mentioned In
 - [[ChiricahuaRegionalCouncilNewsl_16142]]
 - [[FishHealthInspectionReportDext_1999]]
@@ -32,3 +35,4 @@ West Turkey Creek is a perennial stream in the Rio Yaqui drainage basin of south
 - [[MinutesSummaryOfTheAugustMeeti_1995_08_17]]
 - [[TheConservationDilemmaOfNonNat_15856]]
 - [[WestTurkeyCreekFishS_1997_10_31]]
+- [[MinutesDesertFishesRecoveryTea_15843]]

@@ -35,6 +35,15 @@ Arizona State University is a major research institution that has played a signi
 > The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
 > -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
 
+> This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
+> -- *[[DraftEvaluationOfPotentialsFor_15827]]*
+
+> This correspondence from [[Steven P. Platania]] at the [[University of New Mexico]] to Dr. W.L. Minckley at [[Arizona State University]] outlines organizational details for a [[Desert Fishes Council]]-sponsored "Fish Count" monitoring program. The letter, dated July 6, 1988, describes program...
+> -- *[[OctoberFishCount_18607]]*
+
+> This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
+> -- *[[EndangeredSpeciesProgramReview_19696]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -157,3 +166,6 @@ Arizona State University is a major research institution that has played a signi
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[RequestedMeetingnativeFishWork_15023]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[DraftEvaluationOfPotentialsFor_15827]]
+- [[OctoberFishCount_18607]]
+- [[EndangeredSpeciesProgramReview_19696]]

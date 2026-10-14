@@ -23,6 +23,9 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 > **Predator interactions:** - **[[Gambusia heterochir]]** (endemic Clear Creek gambusia), restricted mainly to the area above the upper dam, feeds substantially on *H. texana*, aided by a comparatively powerful jaw, sturdier teeth, and blunter gill rakers — traits interpreted as adaptations for am...
 > -- *[[DescriptionAndEcologyOfHyalell_14834]]*
 
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -58,3 +61,4 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 - [[StudiesOfGambusiaCannibalism_14238]]
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]

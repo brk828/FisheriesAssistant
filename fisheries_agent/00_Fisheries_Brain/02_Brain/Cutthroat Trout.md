@@ -29,6 +29,9 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 > During the 1964-65 fiscal year, California Department of Fish and Game hatcheries planted a record-breaking **60,129,973 fish** totaling **1,879,769 pounds**, though total weight was 207,290 pounds less than the previous year. The December 1964 flood destroyed [[Cedar Creek Hatchery]] on the [[Eel...
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14865]]*
 
+> This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
+> -- *[[AnnualReportOncorhynchusApache_11989]]*
+
 ## Mentioned In
 - [[APopulationOfDwarfCoastrangeSc_1960]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -85,3 +88,4 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 - [[WinterObservationsOnBottomOrga_16187]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
+- [[AnnualReportOncorhynchusApache_11989]]

@@ -26,6 +26,9 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -121,3 +124,4 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[VerdeRiverFishResearch_1998_02_17]]
 - [[WaterQualityCriteriaToProtectA_14646]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[EffectsOfElectrofishingFieldsO_15544]]

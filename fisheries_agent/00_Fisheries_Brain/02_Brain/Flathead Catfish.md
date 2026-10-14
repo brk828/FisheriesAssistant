@@ -29,6 +29,12 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > This study examined the production efficiency of [[Threadfin Shad]] (*Dorosoma petenense*) in experimental ponds at varying stocking densities (100–1,600 adults per acre) to determine optimal rates for maximum forage production. Total production ranged from 84.5 to 290.0 pounds per acre, with net...
 > -- *[[ProductionOfTheThreadfinShadDo_15096]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
+> This 1987 survey assessed ictalurid (catfish family) populations in the [[Yadkin River]] and [[South Yadkin River]] above and below [[Idols Dam]] and [[Cooleemee Dam]] to determine whether [[Flathead Catfish]] (*Pylodictis olivaris*) should be stocked upstream of these barriers. Using...
+> -- *[[SurveyOfIctaluridPopulationsIn_15266]]*
+
 ## Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -82,3 +88,5 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[VerdeRiverFishSampling_1989_03_06]]
 - [[TheSpawningBehaviorOfTheChanne_15949]]
 - [[ProductionOfTheThreadfinShadDo_15096]]
+- [[FisheryInvestigationsOnFortGib_14674]]
+- [[SurveyOfIctaluridPopulationsIn_15266]]

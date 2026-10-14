@@ -26,6 +26,15 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
 > -- *[[InformalSectionConsultationReP_13297]]*
 
+> This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
+> -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
+
+> This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
+> -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
+
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[BenthicInvertebratesOfTheEarth_1983]]
@@ -42,3 +51,6 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[SurvivalOfSomeFishesRecentlyIn_19099]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 - [[InformalSectionConsultationReP_13297]]
+- [[BriefVerbalSynopsisOfFindingsO_13416]]
+- [[AgendaAttendeesAndSummariesOfP_14401]]
+- [[LowerColoradoRiverBasinManagem_18432]]

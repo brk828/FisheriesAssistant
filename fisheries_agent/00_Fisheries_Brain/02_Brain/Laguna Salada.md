@@ -20,9 +20,13 @@ Laguna Salada is a hypersaline lake in the Cuatro Ciénegas Basin of Coahuila, M
 > - **Habitat type**: Small (~3.5 x 5.0 m), man-made, vertical-sided salt-harvesting pools, 45–50 cm deep, hydrologically connected to [[Laguna Salada]], within the [[Cuatro Ciénegas Basin]] — a globally significant desert wetland endemism hotspot. - **Substrate**: Pool bottoms matted with blue-gre...
 > -- *[[AnomalousThermalConditionsInAH_17103]]*
 
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[AnomalousThermalConditionsInAH_17103]]
 - [[BiologicalOpinionResearchProje_20155]]
 - [[PotentialPopulationManagementP_14777]]
 - [[PreliminaryLimnologicInformati_1968_12_31]]
+- [[LowerColoradoRiverBasinManagem_18432]]

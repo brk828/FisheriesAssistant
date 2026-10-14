@@ -17,9 +17,17 @@ A National Wildlife Refuge is a federally protected area managed to conserve fis
 > - **Habitat alteration and mitigation**: Federally licensed, funded, or permitted water development projects (dams, hydropower, navigation projects) can permanently alter aquatic systems, sometimes preventing natural fish production and necessitating perpetual hatchery-based augmentation (Objecti...
 > -- *[[RoleAndResponsibilitiesForRecr_1996_08_07]]*
 
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
 ## Mentioned In
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
 - [[ReCommentsOnTheFederalRegister_11571]]
 - [[RoleAndResponsibilitiesForRecr_1996_08_07]]
 - [[StationProfileValleyCitybaldhi_1993_12_13]]
 - [[StockingOfEndangeredBonytailCh_1986_09_18]]
+- [[RecoveryEffortsForBonytailChub_11837]]
+- [[IntraserviceSectionConsultatio_20152]]

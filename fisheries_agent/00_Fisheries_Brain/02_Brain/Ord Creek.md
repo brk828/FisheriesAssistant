@@ -23,9 +23,13 @@ Ord Creek is a small mountain stream in Apache County, Arizona, within the Gila 
 > - **Habitat**: [[Ord Creek]] originates at Bull Cienega (2,650 m elevation) and flows north ~11 km to the North Fork of the White River within the [[Gila River Basin]]. The stream alternates between open riparian marshlands (cienegas) and spruce-fir forest, over gravel/boulder substrates. - **Dis...
 > -- *[[EffectsOfChemicalTreatmentForF_15892]]*
 
+> This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
+> -- *[[AnnualReportOncorhynchusApache_11989]]*
+
 ## Mentioned In
 - [[AnalysisOfApacheTroutPopulatio_15424]]
 - [[EffectsOfChemicalTreatmentForF_15892]]
 - [[RareAndEndangeredSpeciesTheGil_18134]]
 - [[StudiesOfTheAbundanceDistribut_13841]]
 - [[VariationInApacheTroutPopulati_1985]]
+- [[AnnualReportOncorhynchusApache_11989]]

@@ -14,8 +14,12 @@ Anguilla rostrata, commonly known as the American eel, is a catadromous fish spe
 > **Skull:** - Total skull length: 6.2 mm (posterior edge of supraoccipital to anterior end of premaxillo-mesethmo-vomer, PEV) - PEV: triangular anterior expansion, tapering posteriorly; articulation with frontal not preserved - Frontals: elongate, articulate laterally with dermopterotics, posterio...
 > -- *[[UrenchelysAbditusNewSpeciesThe_11967]]*
 
+> This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
+> -- *[[Eel_14169]]*
+
 ## Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 - [[NocturnalTerrestrialHabitsOfTh_1955_08_19]]
 - [[RioBravoFishDistribution_Unknown]]
 - [[UrenchelysAbditusNewSpeciesThe_11967]]
+- [[Eel_14169]]

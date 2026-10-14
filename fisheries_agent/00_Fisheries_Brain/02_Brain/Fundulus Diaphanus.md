@@ -17,5 +17,9 @@ auto_enriched: true
 > - **Dominant fish species**: [[Fundulus diaphanus]] and [[Salvelinus fontinalis]] were "by far the most common" fishes across the surveyed granite, Meguma, and carboniferous lakes — the only direct ichthyological data point in the paper. - **Water chemistry as habitat proxy**: Median total ion co...
 > -- *[[TheChemicalCompositionOfLakeWa_11055]]*
 
+> This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
+> -- *[[TroutFishingAtCliffPondBrewste_15489]]*
+
 ## Mentioned In
 - [[TheChemicalCompositionOfLakeWa_11055]]
+- [[TroutFishingAtCliffPondBrewste_15489]]

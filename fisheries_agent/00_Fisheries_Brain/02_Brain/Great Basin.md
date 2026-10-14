@@ -20,9 +20,13 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 > **Cross-references:** [[Desert Fishes Council]] · [[Cyprinodontidae]] · [[Amargosa Desert]] · [[Death Valley]] · [[Great Basin]] · [[Endangered Species Preservation]] · [[Refugium (Conservation)]] · [[Habitat Fragmentation in Arid Ecosystems]]
 > -- *[[FourthAnnualDesertFishesSympos_1972_09_20]]*
 
+> This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
+> -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[FourthAnnualDesertFishesSympos_1972_09_20]]
 - [[LetterRegardingReEvaluationOfD_1977_05_16]]
 - [[LetterRequestingUtahFishAndMol_1997_10_27]]
+- [[BriefVerbalSynopsisOfFindingsO_13416]]

@@ -26,6 +26,9 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 > This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
 > -- *[[ListedAndCandidateSpeciesRespo_11941]]*
 
+> This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
+> -- *[[AnnualReportOncorhynchusApache_11989]]*
+
 ## Mentioned In
 - [[AnAnalysisOfFHybridsBetweenApa_1984_09_24]]
 - [[AnalysisOfApacheTroutPopulatio_15424]]
@@ -83,3 +86,4 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 - [[VariationInApacheTroutPopulati_1985]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[ListedAndCandidateSpeciesRespo_11941]]
+- [[AnnualReportOncorhynchusApache_11989]]
