@@ -23,6 +23,9 @@ Spotted Bass (Micropterus punctulatus) is a centrarchid fish species characteriz
 > **Post-impoundment shifts (Coosa River → Lay Lake → Jordan Lake):** - **[[Gizzard Shad]]**: E value rose from 0.3–1.5 (river) to 27.9–58.3% (impoundments); favored coves over open water. - **[[Freshwater Drum]]**: E value fell from 33.8–74.2 (river) to 0.1–12.8% (impoundments); favored open water...
 > -- *[[FishPopulationsInAlabamaRivers_1954]]*
 
+> This study examined the production efficiency of [[Threadfin Shad]] (*Dorosoma petenense*) in experimental ponds at varying stocking densities (100–1,600 adults per acre) to determine optimal rates for maximum forage production. Total production ranged from 84.5 to 290.0 pounds per acre, with net...
+> -- *[[ProductionOfTheThreadfinShadDo_15096]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[FishDistributionAndAbundanceCo_1942]]
@@ -39,3 +42,4 @@ Spotted Bass (Micropterus punctulatus) is a centrarchid fish species characteriz
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[TemperaturesSelectedAndAvoided_1975]]
 - [[TheSportFisheryOfTenkillerFerr_16926]]
+- [[ProductionOfTheThreadfinShadDo_15096]]

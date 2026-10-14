@@ -23,6 +23,9 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 > - **Bio-region I**: Mainstem Colorado River fauna including [[Humpback Chub]], [[Bonytail]] (extirpated), [[Roundtail Chub]] (extirpated), [[Woundfin]] (extirpated), [[Colorado Squawfish]] (extirpated), [[Speckled Dace]], [[Flannelmouth Sucker]], [[Bluehead Sucker]], and [[Razorback Sucker]]. - *...
 > -- *[[ColoradoRiverLowerBasinFisheri_1995_04_10]]*
 
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -105,3 +108,4 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 - [[VrrtNoticeAndMeetingMinutes_20253]]
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[WoundfinTransferFromDexterNati_1993_11_03]]
+- [[EvaluationsAndSuggestionsConce_16480]]

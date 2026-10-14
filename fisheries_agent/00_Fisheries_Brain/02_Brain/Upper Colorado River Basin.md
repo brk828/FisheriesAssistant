@@ -23,6 +23,9 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > - **Habitat context**: All three species are endemic to the [[Upper Colorado River Basin]], a river system in the western United States subject to significant hydrological alteration (damming, flow regulation). - **Conservation status**: All three species are identified as "rare and endangered," ...
 > -- *[[BiowestReportHabitatSuitabilit_1987_09_29]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -73,3 +76,4 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[ThoughtsOnTheStatusAndRecovery_1990_05_08]]
 - [[UseOfFloodplainHabitatByAgeRaz_16530]]
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

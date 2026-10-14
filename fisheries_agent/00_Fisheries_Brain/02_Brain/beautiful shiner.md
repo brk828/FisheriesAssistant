@@ -23,6 +23,9 @@ The Beautiful Shiner is a small freshwater fish species endemic to the Rio Yaqui
 > - **[[Sonora Chub]]** (*Gila ditaenia*) — subject of proposed transplants into Sycamore Canyon tributaries; surveys located chub in Penasco, Atascosa, and Little Tinaja Canyons. - **[[Beautiful Shiner]]** — clarified as a DFRT responsibility species (Rio Yaqui fishes group). - **[[Longfin Dace]]*...
 > -- *[[DesertFishesRecoveryTeamMeetin_1994_09_09]]*
 
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -49,3 +52,4 @@ The Beautiful Shiner is a small freshwater fish species endemic to the Rio Yaqui
 - [[RioYaquiFishesRecoveryPlanTech_1986_04_02]]
 - [[SpeciesResponsibilit_1992_12_25]]
 - [[SpeciesResponsibilitiesOfDeser_1989_12_07]]
+- [[EvaluationsAndSuggestionsConce_16480]]

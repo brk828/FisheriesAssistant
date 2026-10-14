@@ -23,6 +23,9 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > - **Colorado River mainstem & tributaries**: [[Humpback Chub]] (Colorado & Little Colorado River), [[Bonytail Chub]] (Lake Mohave), [[Razorback Sucker]] (Lake Mohave; targeted for Gila River drainage reintroduction), [[Colorado Squawfish]] (extirpated, targeted for reintroduction with radio telem...
 > -- *[[ConceptualGoalsForManagementOf_1984_10_09]]*
 
+> This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
+> -- *[[ListedAndCandidateSpeciesRespo_11941]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -66,3 +69,4 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[SuggestedAgendaItemsForDesertF_1988_12_06]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
+- [[ListedAndCandidateSpeciesRespo_11941]]

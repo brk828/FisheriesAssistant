@@ -23,6 +23,9 @@ The Southwest Center for Biological Diversity is a nonprofit conservation organi
 > - Five federally listed fish species — [[Gila Topminnow]], [[Desert Pupfish]], [[Spikedace]], [[Loach Minnow]], and [[Razorback Sucker]] — are cited as being imperiled by habitat destruction linked to activities at [[Fort Huachuca]]. - The lawsuit represents the second legal action by the [[South...
 > -- *[[EnvironmentalistsSueFortHuachu_11897]]*
 
+> The [[Southwest Center for Biological Diversity]] (SWCBD) and Dr. Robin Silver filed a lawsuit in U.S. District Court (Phoenix) against [[Ft. Huachuca]] and the Defense Department for violations of the [[National Environmental Policy Act]] (NEPA). The suit alleges illegal failure to evaluate,...
+> -- *[[LawsuitFiledAgainstFtHuachucaT_18965]]*
+
 ## Mentioned In
 - [[ArmyFoundAtFaultOnRiverAreaGro_1995_09_27]]
 - [[CityOfPhoenixCommentsOnTheFina_1997_07_25]]
@@ -34,3 +37,4 @@ The Southwest Center for Biological Diversity is a nonprofit conservation organi
 - [[ReportForestServiceDisruptedOw_15528]]
 - [[ReviewOfChildsIrvingBiological_1999_02_05]]
 - [[WhatIsAmericanRiversDoingInThe_1997]]
+- [[LawsuitFiledAgainstFtHuachucaT_18965]]

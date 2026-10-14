@@ -11,7 +11,11 @@ Sonora refers to a Mexican state located in northwestern Mexico along the Pacifi
 > - **Institution:** Instituto del Medio Ambiente y el Desarrollo Sustentable del Estado de Sonora (IMADES), Dirección de Conservación de los Recursos Naturales, Hermosillo, Sonora. - **Principal Investigator:** María Elena Robles Baldenegro (M.Sc., Biología de los Sistemas y Recursos Acuáticos, UN...
 > -- *[[IdentificaciónDelimitaciónDeLa_13133]]*
 
+> This document describes a comprehensive climatological database for Mexico developed by Dr. Arthur Douglas (Creighton University). The dataset comprises monthly temperature and precipitation records from 280 precipitation stations and 92 temperature stations across 18 climatological divisions in...
+> -- *[[DouglasMexicanTemperaturePreci_12378]]*
+
 ## Mentioned In
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
 - [[IdentificaciónDelimitaciónDeLa_13133]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
+- [[DouglasMexicanTemperaturePreci_12378]]

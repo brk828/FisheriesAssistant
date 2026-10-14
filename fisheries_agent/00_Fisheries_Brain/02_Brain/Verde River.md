@@ -23,6 +23,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This document is an internal U.S. Fish and Wildlife Service (USFWS) briefing package for the **Desert Fishes Recovery Team** (September 1994, Phoenix, Arizona), rather than a primary research paper. It compiles administrative and conservation-status updates on a suite of imperiled southwestern de...
 > -- *[[DesertFishesRecoveryTeamAction_11691]]*
 
+> This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
+> -- *[[AddendumToTheMarchEnvironmenta_11496]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -94,3 +97,4 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[VerdeRiverFishSampling_1989_03_06]]
 - [[VerdeRiverTemperatureRecorderD_1992_04_02]]
 - [[WithdrawalOfProposedRuleForExp_1993_12_10]]
+- [[AddendumToTheMarchEnvironmenta_11496]]

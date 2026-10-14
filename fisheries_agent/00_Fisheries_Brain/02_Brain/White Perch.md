@@ -23,6 +23,9 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 > - **[[White Perch]]** (*Morone americana*): Legal minimum length of 7 inches used as a benchmark for "harvestable" fish. In Cedar Meadow Pond, initial populations showed <1% of individuals exceeding 7 inches (1949), improving to 15% by 1951 following repeated net removals — interpreted as reduced...
 > -- *[[ManagementOfWarmWaterFishPopul_1952]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -33,3 +36,4 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 - [[SebecLakeCreelCensus_16335]]
 - [[SpeciesStockingHistoryInTexasD_1987]]
 - [[TheUseOfCopperSulphateToIncrea_13371]]
+- [[ABibliographyAndHostListForThe_15289]]

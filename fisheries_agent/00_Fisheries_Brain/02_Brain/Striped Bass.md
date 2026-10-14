@@ -26,6 +26,12 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This laboratory and field study quantified how prey-to-predator size ratio (PPR) affects foraging success in [[Striped Bass]] (*Morone saxatilis*). Capture success declined linearly with increasing PPR (attack success = 0.861 - 1.82PPR), while handling time increased exponentially (h =...
 > -- *[[TheInfluenceOfSizeOnStripedBas_2000]]*
 
+> This study examined the production efficiency of [[Threadfin Shad]] (*Dorosoma petenense*) in experimental ponds at varying stocking densities (100–1,600 adults per acre) to determine optimal rates for maximum forage production. Total production ranged from 84.5 to 290.0 pounds per acre, with net...
+> -- *[[ProductionOfTheThreadfinShadDo_15096]]*
+
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -130,3 +136,5 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[UsFishAndWildlifeServiceMeetin_15771]]
 - [[TheInfluenceOfSizeOnStripedBas_2000]]
+- [[ProductionOfTheThreadfinShadDo_15096]]
+- [[ABibliographyAndHostListForThe_15289]]

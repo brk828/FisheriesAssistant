@@ -23,6 +23,9 @@ Steelhead trout are anadromous salmonids that migrate between freshwater rivers 
 > - **Blood**: Collected via cardiac puncture, caudal vein/gill puncture, or (in small fish like guppies) suborbital sinus puncture using fire-polished capillary micropipettes with mouth suction. Requires rapid processing due to poor anticoagulant performance in fish blood and rapid clotting. - **L...
 > -- *[[MinimallyInvasiveTissueSamplin_15426]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[BlameTheArmyForMuckyRiversToo_1995_04_17]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -41,3 +44,4 @@ Steelhead trout are anadromous salmonids that migrate between freshwater rivers 
 - [[ThreeProtozoanDiseasesOfTroutI_14425]]
 - [[TwoYearCreelCensusOfTheLittleS_1955]]
 - [[VateriteAsTheCrystallineStruct_12254]]
+- [[ABibliographyAndHostListForThe_15289]]

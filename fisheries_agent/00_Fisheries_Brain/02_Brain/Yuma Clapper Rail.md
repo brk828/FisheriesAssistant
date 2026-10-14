@@ -23,6 +23,9 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > - The **Bureau of Reclamation's Lower Colorado Regional Office** reported FY1992 species-specific expenditures for endangered species conservation and Endangered Species Act consultation. - Fish species received substantial allocated funding, reflecting significant conservation investment in Colo...
 > -- *[[ReportingFederalExpendituresPu_1992_11_25]]*
 
+> This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
+> -- *[[InformalSectionConsultationReP_13297]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -32,3 +35,4 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[ReportingFederalExpendituresPu_1992_11_25]]
 - [[SantaClaraSloughSurveys_1992_09_08]]
 - [[TestimonyOfDalePontiusOnTheLow_1994_06_08]]
+- [[InformalSectionConsultationReP_13297]]

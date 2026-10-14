@@ -23,6 +23,9 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 > - **Interacting Stakeholder/Management Framework:** - Federal and state agencies ([[U.S. Fish and Wildlife Service]], [[Bureau of Reclamation]], [[Western Area Power Administration]]) manage flow regimes to balance water use with endangered species conservation. - Nonnative fish stocking is gover...
 > -- *[[InterestGroupParticipationInTh_1994_08_05]]*
 
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[ErrataSheetFyWorkPlanForTheRec_20993]]
@@ -31,3 +34,4 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 - [[InterestGroupParticipationInTh_1994_08_05]]
 - [[MeetingToDiscussTheSpikeFlow_1993_07_09]]
 - [[ReclamationToBeginWorkOnGlenCa_1989_11_02]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

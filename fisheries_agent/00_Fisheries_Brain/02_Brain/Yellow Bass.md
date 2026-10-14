@@ -23,6 +23,9 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 > Other invaders (source: Salt River Project canal system), previously collected but not encountered this round: - [[Desert Sucker]] - [[Sonora Sucker]] - [[Yellow Bass]]
 > -- *[[FishSamplingAtAsuKarstenGolfCo_1990_05_12]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -47,3 +50,4 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 - [[TripReportForTheJulySurveyOfTh_1994_09_01]]
 - [[TripReportForTheSeptemberSurve_1996_09_15]]
 - [[UtilizationOfGizzardShadByGame_1958_11_20]]
+- [[ABibliographyAndHostListForThe_15289]]

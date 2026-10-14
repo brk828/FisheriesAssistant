@@ -23,6 +23,9 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 > This internal memorandum, authored by Chief Aquatic Biologist Richard H. Stroud, evaluates candidate game fish species for introduction and development in Quabbin Reservoir, Massachusetts. The analysis compares cold-water salmonids ([[Brook Trout]], [[Brown Trout]], [[Rainbow Trout]], [[Landlocke...
 > -- *[[BigGameFishSpeciesMostSuitedTo_14647]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -77,3 +80,4 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 - [[UtilizationOfGizzardShadByGame_1958_11_20]]
 - [[VariationsOnRereadingWalleyeSc_17403]]
 - [[VeWwTheColoragaRiver_14809]]
+- [[ABibliographyAndHostListForThe_15289]]

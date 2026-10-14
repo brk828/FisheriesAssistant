@@ -17,7 +17,11 @@ I appreciate your question, but I must clarify that the Spotted Owl is not a fis
 > 5. **Future Directions Identified**: - **Ecosystem Approach**: Under Director [[Mollie Beattie]], the Service is shifting toward ecosystem-level management rather than single-species focus, potentially decentralizing authority from Regional Offices to field-level operations. - **Conservation of N...
 > -- *[[TheRoleAndResponsibilitiesOfTh_19662]]*
 
+> This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
+> -- *[[AddendumToTheMarchEnvironmenta_11496]]*
+
 ## Mentioned In
 - [[EndangeredSpeciesLawSubjectOfC_1998_12_31]]
 - [[EstablishingAColoradoRiverCons_20111]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
+- [[AddendumToTheMarchEnvironmenta_11496]]

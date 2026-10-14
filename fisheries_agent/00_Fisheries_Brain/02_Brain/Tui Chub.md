@@ -17,6 +17,10 @@ auto_enriched: true
 > | Class of food | Frequency of occurrence | % Frequency of occurrence | % Total volume | |---|---|---|---| | **Fish (total)** | 27 | 100 | 98.2 | | [[Tui Chub]] (*Siphateles bicolor*) | 16 | 39.2 | 89.2 | | [[Lahontan Redside]] (*Richardsonius egregius*) | 1 | 3.7 | 2.4 | | [[Lahontan Mountain Su...
 > -- *[[NoteOnSpringFoodHabitsOfTheLak_12533]]*
 
+> Field survey conducted May 4-5, 1989 at [[Pyramid Lake]], Nevada to assess hybridization between endangered [[Cui-ui]] (*Chasmistes cujus*) and [[Tahoe Sucker]] (*Catostomus tahoensis*). Approximately 300-400 cui-ui were tagged during one day of trap netting operations; nearly 8,000 fish tagged...
+> -- *[[SummaryOfPyramidLakeTrip_13173]]*
+
 ## Mentioned In
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[NoteOnSpringFoodHabitsOfTheLak_12533]]
+- [[SummaryOfPyramidLakeTrip_13173]]

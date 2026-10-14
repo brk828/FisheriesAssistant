@@ -11,9 +11,13 @@ A Water Pollution Research Laboratory is a specialized facility dedicated to inv
 > - **Method principle:** Solid carbonate samples are digested with acid; liberated CO₂ is transferred in an air stream to a closed flask containing standardized Ba(OH)₂ (baryta), where it is absorbed by shaking (rather than via traditional gas bubblers). - **Advantage over bubblers:** Bubbler-base...
 > -- *[[DeterminationOfCarbonateInSoli_14364]]*
 
+> This 1959 paper by [[A. B. Wheatland]], [[M. J. Barrett]], and [[A. M. Bruce]] from the [[Water Pollution Research Laboratory]] investigates bacterial denitrification in polluted rivers and estuaries, with particular focus on the [[Thames Estuary]]. The authors demonstrate that nitrate serves as an...
+> -- *[[SomeObservationsOnDenitrificat_12181]]*
+
 ## Mentioned In
 - [[DeterminationOfCarbonateInSoli_14364]]
 - [[PolarographicMeasurementOfTheR_12575]]
 - [[TheSusceptibilityOfSalmonidFis_16705]]
 - [[TheToxicityOfAmmoniaToRainbowT_16169]]
 - [[TheToxicityOfMixturesOfZincAnd_16168]]
+- [[SomeObservationsOnDenitrificat_12181]]

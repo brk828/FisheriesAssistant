@@ -23,6 +23,15 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > Participating agencies and institutions reflect the interdisciplinary and interjurisdictional nature of this ecological monitoring effort, including the [[Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], [[National Park Service]], [[Arizona Game and Fish Department]], [[Arizona State ...
 > -- *[[AquaticCoordinationTeamMeeting_1991_10_28]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
+> This 1987 letter from Donald W. to Dr. W.L. Minckley discusses concerns about the U.S. Fish and Wildlife Service's endangered species recovery approach, particularly the practice of spreading rare species across multiple locations ("Johnny Applefish" approach) and over-reliance on aquarium...
+> -- *[[LetterToMinckley_20487]]*
+
+> The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
+> -- *[[BureauOfReclamationAnnouncesDe_20789]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -234,3 +243,6 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[VirginRiverMonitoringArizonaSu_1994_05_16]]
 - [[VirginRiverMonitoringArizonaSu_1994_10_05]]
 - [[VirginSpinedaceProposedAsThrea_1994_05_28]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[LetterToMinckley_20487]]
+- [[BureauOfReclamationAnnouncesDe_20789]]

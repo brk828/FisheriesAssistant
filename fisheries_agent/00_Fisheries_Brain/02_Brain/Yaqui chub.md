@@ -23,6 +23,12 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > - **[[Yaqui Chub]]**: A federally endangered cyprinid native to the Rio Yaqui drainage system, historically found in [[West Turkey Creek]]. - **[[Yaqui Longfin Dace]]**: A native, currently non-listed but co-occurring cyprinid species sharing the same habitat and conservation concern. - **[[Fathe...
 > -- *[[ChiricahuaRegionalCouncilNewsl_16142]]*
 
+> This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
+> -- *[[ListedAndCandidateSpeciesRespo_11941]]*
+
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
 ## Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -78,3 +84,5 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[WestTurkeyCreekFishS_1996_04_12]]
 - [[YaquiChubStockingIntoSanBernar_1980_10_31]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
+- [[ListedAndCandidateSpeciesRespo_11941]]
+- [[EvaluationsAndSuggestionsConce_16480]]

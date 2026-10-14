@@ -20,6 +20,9 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 > This 1962 study by John M. Bates documents the ecological transformation of the mussel fauna in **[[Kentucky Reservoir]]** on the **[[Tennessee River]]** following impoundment by the **[[Tennessee Valley Authority (TVA)]]**. Sampling conducted in October 1958 across ~16 river miles (mile 88–105) ...
 > -- *[[TheImpactOfImpoundmentOnTheMus_15633]]*
 
+> This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
+> -- *[[AmericanRiversStacMeetingOfJun_17977]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[AFreshwaterMolluskSurveyOfNort_15956]]
@@ -31,3 +34,4 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 - [[RecordsOfFishesInWesternKentuc_1979]]
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
+- [[AmericanRiversStacMeetingOfJun_17977]]

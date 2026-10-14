@@ -23,6 +23,9 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 > This document is an internal U.S. Fish & Wildlife Service (USFWS) memorandum, not a primary biological or morphological study. It addresses a regulatory/legal question regarding whether the [[Endangered Species Act]] Section 7 interagency consultation process applies to actions by other federal a...
 > -- *[[ConsultationRequirementsForSpe_14815]]*
 
+> This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
+> -- *[[ListedAndCandidateSpeciesRespo_11941]]*
+
 ## Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -72,3 +75,4 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 - [[TremAr_12976]]
 - [[VoucherSpecimensDonatedToDepar_1997_01_08]]
 - [[WillowBeachRazorbackSuckers_1994_03_05]]
+- [[ListedAndCandidateSpeciesRespo_11941]]

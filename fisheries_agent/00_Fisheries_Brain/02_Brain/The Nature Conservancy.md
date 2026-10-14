@@ -23,6 +23,12 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 > This document is primarily a U.S. Fish and Wildlife Service policy notice discontinuing the "Category-2 candidate" species designation under the [[Endangered Species Act]], shifting reliance to external databases such as [[The Nature Conservancy]]'s Natural Heritage Central Database for tracking ...
 > -- *[[IdentificationOfCandidatesForL_19325]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
+> This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
+> -- *[[AmericanRiversStacMeetingOfJun_17977]]*
+
 ## Mentioned In
 - [[AssignmentsMadeAtFebruaryMeeti_1992_02_19]]
 - [[AttemptedReEstablish_1969_03_06]]
@@ -52,3 +58,5 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 - [[StatusReportGilaRiverWatershed_17809]]
 - [[TripReportForTheJulySurveyOfTh_1994_09_01]]
 - [[YaquiChubStockingIntoSanBernar_1980_10_31]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[AmericanRiversStacMeetingOfJun_17977]]

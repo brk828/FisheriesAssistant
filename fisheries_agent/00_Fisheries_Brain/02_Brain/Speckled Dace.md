@@ -26,6 +26,12 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
 > -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
 
+> This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
+> -- *[[AddendumToTheMarchEnvironmenta_11496]]*
+
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -140,3 +146,5 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
 - [[VrrtNoticeAndMeetingMinutes_20253]]
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
+- [[AddendumToTheMarchEnvironmenta_11496]]
+- [[AConservationorientedClassific_15455]]

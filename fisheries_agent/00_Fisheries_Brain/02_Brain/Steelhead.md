@@ -23,6 +23,9 @@ Steelhead are the anadromous (sea-run) life-history form of *Oncorhynchus mykiss
 > - **Three-component stress model** (Moberg 1985): (1) recognition of a threat to homeostasis by the CNS, (2) organization of a stress response via behavioral, autonomic, or neuroendocrine systems, and (3) consequences of stress ranging from resolution to a prepathological state to overt pathology...
 > -- *[[StressInducedPathologiesInFish_1993]]*
 
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[StationProfileOfTheH_19552]]
@@ -30,3 +33,4 @@ Steelhead are the anadromous (sea-run) life-history form of *Oncorhynchus mykiss
 - [[StationProfileOfTheQ_1993]]
 - [[StressInducedPathologiesInFish_1993]]
 - [[WaterRequirementsOfSalmonids_12413]]
+- [[AConservationorientedClassific_15455]]

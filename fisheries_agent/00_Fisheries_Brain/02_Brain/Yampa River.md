@@ -23,6 +23,9 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > - **Zero-release policy for identified bonytail**: All wild bonytail meeting identification criteria are retained alive rather than released, reflecting the species' critically low population status circa 1989. - **Mandatory field equipment kit** for crews sampling likely bonytail habitat: 100–15...
 > -- *[[AProtocolForTheHandlingAndTran_13066]]*
 
+> These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -78,3 +81,4 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
 - [[WinterMovementAndHabitatOfAdul_1993_12_16]]
 - [[YampaRiverChannelMonitoring_1993]]
+- [[MinutesfebruaryRecoveryImpleme_19220]]

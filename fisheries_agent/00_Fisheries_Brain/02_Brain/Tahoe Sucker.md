@@ -23,6 +23,12 @@ The Tahoe Sucker (*Catostomus tahoe*) is a native cyprinid fish species endemic 
 > This document records the minutes of the reconvened [[Cui-ui Recovery Team]] meeting (August 2, 1989, Reno, NV), formed under the 1988 Amendments to the [[Endangered Species Act]]. The meeting outlines the mandate to rewrite the [[Cui-ui Recovery Plan]] with site-specific recovery actions, measur...
 > -- *[[MinutesOfTheCuiUiRecoveryTeamM_1989_08_02]]*
 
+> Field survey conducted May 4-5, 1989 at [[Pyramid Lake]], Nevada to assess hybridization between endangered [[Cui-ui]] (*Chasmistes cujus*) and [[Tahoe Sucker]] (*Catostomus tahoensis*). Approximately 300-400 cui-ui were tagged during one day of trap netting operations; nearly 8,000 fish tagged...
+> -- *[[SummaryOfPyramidLakeTrip_13173]]*
+
+> This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
+> -- *[[AConservationorientedClassific_15455]]*
+
 ## Mentioned In
 - [[AllozymeDifferencesDuplicateGe_11423]]
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
@@ -36,3 +42,5 @@ The Tahoe Sucker (*Catostomus tahoe*) is a native cyprinid fish species endemic 
 - [[LetterOnCuiUiRecoveryTeamMeeti_1990_01_24]]
 - [[MinutesOfTheCuiUiRecoveryTeamM_1989_08_02]]
 - [[PotentialFishHabitatBenefitsIn_18308]]
+- [[SummaryOfPyramidLakeTrip_13173]]
+- [[AConservationorientedClassific_15455]]

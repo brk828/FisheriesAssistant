@@ -23,6 +23,12 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 > This report documents the 1962 joint fisheries management program between the [[Arizona Game and Fish Department]] and the [[Nevada Fish and Game Department]] on the [[Colorado River]], focusing on the reservoirs [[Lake Mead]] and [[Lake Mohave]] and the riverine reach below [[Davis Dam]]. The su...
 > -- *[[ArizonaNevadaCooperativeFisher_1962]]*
 
+> This study examined the production efficiency of [[Threadfin Shad]] (*Dorosoma petenense*) in experimental ponds at varying stocking densities (100–1,600 adults per acre) to determine optimal rates for maximum forage production. Total production ranged from 84.5 to 290.0 pounds per acre, with net...
+> -- *[[ProductionOfTheThreadfinShadDo_15096]]*
+
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -92,3 +98,5 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 - [[TripReportForTheSeptemberSurve_1996_09_15]]
 - [[TripReportTaskForceMonitoringR_1990]]
 - [[TrophicInterrelationsAmongIntr_1982]]
+- [[ProductionOfTheThreadfinShadDo_15096]]
+- [[ABibliographyAndHostListForThe_15289]]

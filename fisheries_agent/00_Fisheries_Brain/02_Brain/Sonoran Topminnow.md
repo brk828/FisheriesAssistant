@@ -23,6 +23,9 @@ The Sonoran Topminnow (*Poeciliopsis occidentalis*) is a small-bodied, live-bear
 > This 1989 letter from the U.S. Fish and Wildlife Service (Region 2, Albuquerque) to Professor W. L. Minckley, chair of the [[Desert Fishes Recovery Team]], provides a formal status update on recovery planning for a suite of imperiled southwestern desert fish species. Rather than presenting new mo...
 > -- *[[LetterToProfessorWLMinckleyOnD_1989_05_15]]*
 
+> This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
+> -- *[[EvaluationsAndSuggestionsConce_16480]]*
+
 ## Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -34,3 +37,4 @@ The Sonoran Topminnow (*Poeciliopsis occidentalis*) is a small-bodied, live-bear
 - [[SystematicsAndEcologyOfHydrobi_13705]]
 - [[TwentyFirstAnnualDesertFishesC_1989_11_16]]
 - [[USFishAndWildlifeServiceEndang_1994]]
+- [[EvaluationsAndSuggestionsConce_16480]]

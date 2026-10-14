@@ -23,6 +23,9 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > - **Bio-region I**: Mainstem Colorado River fauna including [[Humpback Chub]], [[Bonytail]] (extirpated), [[Roundtail Chub]] (extirpated), [[Woundfin]] (extirpated), [[Colorado Squawfish]] (extirpated), [[Speckled Dace]], [[Flannelmouth Sucker]], [[Bluehead Sucker]], and [[Razorback Sucker]]. - *...
 > -- *[[ColoradoRiverLowerBasinFisheri_1995_04_10]]*
 
+> This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
+> -- *[[ListedAndCandidateSpeciesRespo_11941]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -55,3 +58,4 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[SwimmingAbilityOfNonNativeFish_1995_06_10]]
 - [[YaquiChubStockingIntoSanBernar_1980_10_31]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
+- [[ListedAndCandidateSpeciesRespo_11941]]

@@ -23,6 +23,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > **Community/recolonization dynamics:** - "Clean-water fishes" — including [[Stoneroller]], [[Bigeye Chub]], [[Creek Chub]], [[Sand Shiner]], [[Mimic Shiner]], [[Common Shiner]], [[Bluntnose Minnow]], [[White Sucker]], and [[Yellow Perch]] — appeared or increased sharply only after pollution abate...
 > -- *[[ChangesInTheFishPopulationInTh_12453]]*
 
+> [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
+> -- *[[ABibliographyAndHostListForThe_15289]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -78,3 +81,4 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[TrophicDynamicsOfLakeTroutProd_1970]]
 - [[UtilizationOfGizzardShadByGame_1958_11_20]]
 - [[WhyTheMassachusettsDivisionOfF_15491]]
+- [[ABibliographyAndHostListForThe_15289]]
