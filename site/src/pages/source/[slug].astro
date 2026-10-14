@@ -28,7 +28,7 @@ const base = import.meta.env.BASE_URL;
         s.pdfUrl ? (
           <p>
             <strong>Minckley Library ID: {s.minckleyId}.</strong> The full PDF of this document is available.
-            View it at <a href={s.pdfUrl}><strong>Minckley Library: {s.minckleyId}</strong></a>.
+            View it at <a href={s.pdfUrl} target="_blank" rel="noopener noreferrer"><strong>Minckley Library: {s.minckleyId}</strong></a>.
           </p>
         ) : (
           <p><strong>Minckley Library ID: {s.minckleyId}.</strong> {REQUEST_PDF_TEXT}</p>
