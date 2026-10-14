@@ -628,7 +628,7 @@ if __name__ == "__main__":
             if cmd.lower() == 'exit':
                 break
             if cmd.strip().lower() in ('ingest', '/ingest') or pdf_watcher.pending():
-                pdf_watcher.offer()
+                pdf_watcher.offer(manual=cmd.strip().lower() in ('ingest', '/ingest'))
                 if cmd.strip().lower() in ('ingest', '/ingest', ''):
                     continue
             if cmd.strip().lower() in ('help', '/help', '?'):
