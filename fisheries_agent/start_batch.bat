@@ -1,17 +1,17 @@
 @echo off
-rem One-step batch processing: tab 1 = agent (answers the ingest prompt), tab 2 = Minckley batch feeder.
+rem Batch processing: window 1 = agent (main_orchestrator.py), window 2 = Minckley batch feeder.
+rem Skips onboarding; run start.bat once first if project_manifest.yaml or the API key are missing.
 cd /d "%~dp0"
+set PYTHONUTF8=1
 
 set "PY=python"
 where python >nul 2>nul || set "PY=py -3"
 
-set "AGENT=$env:PYTHONUTF8=1; %PY% start.py"
-set "BATCH=$env:PYTHONUTF8=1; %PY% -m utils.minckley_batch"
-
-where wt >nul 2>nul
-if %errorlevel%==0 (
-    wt -d "%CD%" --title "Agent" powershell -NoExit -Command "%AGENT%" ; new-tab -d "%CD%" --title "Batch" powershell -NoExit -Command "%BATCH%"
-) else (
-    start "Agent" powershell -NoExit -Command "Set-Location -LiteralPath '%CD%'; %AGENT%"
-    start "Batch" powershell -NoExit -Command "Set-Location -LiteralPath '%CD%'; %BATCH%"
+if not exist project_manifest.yaml (
+    echo project_manifest.yaml not found. Run start.bat once to complete onboarding first.
+    pause
+    exit /b 1
 )
+
+start "Agent" /D "%CD%" cmd /k %PY% main_orchestrator.py
+start "Batch" /D "%CD%" cmd /k %PY% -m utils.minckley_batch
