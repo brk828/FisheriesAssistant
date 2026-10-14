@@ -9,3 +9,4 @@ Search runs in the browser (Pagefind); there are no concept stubs or server. Res
 - Edit wording (title, blurb, how to request a PDF) in `src/config.ts`.
 - Deploys to GitHub Pages through `.github/workflows/deploy-site.yml` on pushes to `main` that touch the site, the summaries or the citation files. In the repo settings, set Pages > Source to "GitHub Actions". `SITE_URL` / `SITE_BASE` (default `https://brk828.github.io` and `/FisheriesAssistant`) change the address.
 - Pages from a private repository needs a paid GitHub plan, and the published site is public either way.
+- Public-domain Minckley items link to the full PDF at `marsheducation.org/library/textpdf/<MID>.pdf`. `npm run build` first runs `scripts/verify-pdfs.mjs`, which checks each PDF exists and records 404s in `pdf-missing.json` (committed; those pages fall back to the request text). Remove entries from it when the PDF is later uploaded.

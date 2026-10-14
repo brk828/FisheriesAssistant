@@ -14,6 +14,34 @@ const refs = {
   ...readJson(path.join(agent, "brain_meta", "citations.json")),
 };
 
+// Minckley Library permissions: only "public domain" items have a freely hosted full PDF.
+const PDF_BASE = "https://www.marsheducation.org/library/textpdf/";
+const publicDomain = new Set();
+const csvPath = path.join(agent, "brain_meta", "minckley_library.csv");
+if (fs.existsSync(csvPath)) {
+  const rows = parseCsv(fs.readFileSync(csvPath, "utf-8").replace(/^\uFEFF/, ""));
+  const head = rows[0] || [];
+  const iMid = head.indexOf("MID"), iPerm = head.indexOf("permission");
+  for (const r of rows.slice(1)) if ((r[iPerm] || "").trim().toLowerCase() === "public domain") publicDomain.add((r[iMid] || "").trim());
+}
+const missingPath = path.resolve(here, "../pdf-missing.json");
+const missing = new Set(readJson(missingPath).missing || []);
+
+function parseCsv(t) {
+  const rows = [];
+  let row = [], f = "", q = false;
+  for (let i = 0; i < t.length; i++) {
+    const c = t[i];
+    if (q) { if (c === '"') { if (t[i + 1] === '"') { f += '"'; i++; } else q = false; } else f += c; }
+    else if (c === '"') q = true;
+    else if (c === ",") { row.push(f); f = ""; }
+    else if (c === "\n") { row.push(f.replace(/\r$/, "")); rows.push(row); row = []; f = ""; }
+    else f += c;
+  }
+  if (f || row.length) { row.push(f); rows.push(row); }
+  return rows;
+}
+
 const midFromId = (v) => (String(v || "").match(/^\s*(\d+)/) || [])[1] || "";
 const midFromStem = (s) => (s.match(/_(\d{5,6})$/) || [])[1] || "";
 const lookup = (id, stem) => refs[id] || refs[midFromId(id)] || refs[midFromStem(stem)] || refs[stem] || {};
@@ -79,6 +107,7 @@ for (const file of fs.readdirSync(sourcesDir).filter((f) => f.endsWith(".md")).s
     type: ref.type || "",
     doi,
     minckleyId,
+    pdfUrl: minckleyId && publicDomain.has(minckleyId) && !missing.has(minckleyId) ? `${PDF_BASE}${minckleyId}.pdf` : "",
     species: fm.common_name || fm.species || "",
     location: fm.location || "",
     citation: citationText(ref, title, minckleyId),
@@ -90,4 +119,4 @@ for (const file of fs.readdirSync(sourcesDir).filter((f) => f.endsWith(".md")).s
 const out = path.resolve(here, "../src/generated/sources.json");
 fs.mkdirSync(path.dirname(out), { recursive: true });
 fs.writeFileSync(out, JSON.stringify(items));
-console.log(`Wrote ${items.length} sources (${items.filter((i) => i.minckleyId).length} with Minckley IDs) to ${path.relative(process.cwd(), out)}`);
+console.log(`Wrote ${items.length} sources (${items.filter((i) => i.minckleyId).length} with Minckley IDs, ${items.filter((i) => i.pdfUrl).length} with public-domain PDFs) to ${path.relative(process.cwd(), out)}`);

@@ -5,8 +5,9 @@
   "private": true,
   "scripts": {
     "prepare-data": "node scripts/build-data.mjs",
+    "verify-pdfs": "node scripts/verify-pdfs.mjs",
     "dev": "npm run prepare-data && astro dev",
-    "build": "npm run prepare-data && astro build && pagefind --site dist",
+    "build": "npm run prepare-data && npm run verify-pdfs && npm run prepare-data && astro build && pagefind --site dist",
     "preview": "astro preview"
   },
   "dependencies": {
