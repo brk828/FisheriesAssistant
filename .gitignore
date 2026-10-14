@@ -26,6 +26,9 @@ FisheriesAssistant.Rproj
 fisheries_agent/.brain_index.sqlite
 fisheries_agent/.brain_index.building
 
+# Per-machine Minckley batch progress
+fisheries_agent/brain_meta/minckley_batch_state.json
+
 # Per-project long-term memory
 fisheries_agent/project_memory/
 
