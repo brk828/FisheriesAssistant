@@ -17,7 +17,8 @@ const base = import.meta.env.BASE_URL;
     data-library={s.minckleyId ? "Minckley Library" : "Other sources"}
     data-decade={s.year ? `${s.year.slice(0, 3)}0s` : "Unknown"}
     data-year={s.year || "0"}
-    data-pagefind-filter="library[data-library], decade[data-decade]"
+    data-pdf={s.pdfUrl ? "Available" : "Not available"}
+    data-pagefind-filter="library[data-library], decade[data-decade], fullpdf[data-pdf]"
     data-pagefind-sort="year[data-year]"
   >
     <h1 data-pagefind-meta="title">{s.title}</h1>
