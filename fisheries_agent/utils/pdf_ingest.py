@@ -734,6 +734,40 @@ def choose_limit(name: str, chars: int, pages: int, model: str, mode: str = "ask
     return {"full": full, "skip": 0}.get(mode, MAX_NOTE_CHARS)
 
 
+SYNC_PATHS = ("00_Fisheries_Brain/01_Sources", "00_Fisheries_Brain/02_Brain", "brain_meta")
+
+
+def sync_to_github(message: str = "Add processed PDFs to the Fisheries Brain") -> bool:
+    """Commits the brain notes, stubs and shared meta files, rebases on the remote, and pushes. Only SYNC_PATHS are
+    committed, so unrelated local edits are never swept in. Returns True when the push succeeded."""
+    import subprocess
+
+    def git(*a):
+        return subprocess.run(["git", *a], cwd=BASE_DIR, capture_output=True, text=True)
+
+    top = git("rev-parse", "--show-toplevel")
+    if top.returncode:
+        print("   Not a git repository; nothing synced.")
+        return False
+    git("add", "--", *SYNC_PATHS)
+    if not git("diff", "--cached", "--name-only", "--", *SYNC_PATHS).stdout.strip():
+        print("   Nothing new to commit.")
+        return False
+    r = git("commit", "-m", message + "\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>", "--", *SYNC_PATHS)
+    if r.returncode:
+        print(f"   Commit failed: {(r.stderr or r.stdout).strip()[:300]}")
+        return False
+    for step in (("pull", "--rebase", "--autostash"), ("push",)):
+        r = git(*step)
+        if r.returncode:
+            if step[0] == "pull":
+                git("rebase", "--abort")
+            print(f"   git {step[0]} failed: {(r.stderr or r.stdout).strip()[:300]}\n   Committed locally; resolve and push manually.")
+            return False
+    print("   Committed and pushed to GitHub.")
+    return True
+
+
 class PdfWatcher:
     """Polls pdfs_to_process/ for PDFs that are not in the manifest. Only detects and announces; asking and
     processing happen on the caller's thread through offer(), so prompts never fight over the console."""
@@ -803,6 +837,16 @@ class PdfWatcher:
         with self._lock:
             return list(self._failed)
 
+    def _offer_sync(self):
+        """After a run, asks before committing and pushing the new notes (set AUTO_GIT_SYNC=1 to skip the question)."""
+        if os.getenv("AUTO_GIT_SYNC") != "1":
+            try:
+                if input("   Commit and push the new notes to GitHub now? [y/N]: ").strip().lower() not in ("y", "yes"):
+                    return
+            except EOFError:
+                return
+        sync_to_github()
+
     def offer(self, manual: bool = False) -> bool:
         """Asks (with a cost estimate) whether to add the pending PDFs; processes them on yes. Returns True if it asked.
         PDFs that failed on an earlier run are listed separately and retried only if the user chooses; with manual=True
@@ -838,9 +882,11 @@ class PdfWatcher:
         if answer.startswith("r") and failed:
             cmd_process(argparse.Namespace(files=[str(p) for p, _ in items] + retry_files, yes=not failed, limit=0, model=model, no_crossref=False))
             self.scan()
+            self._offer_sync()
         elif answer in ("y", "yes"):
             cmd_process(argparse.Namespace(files=[str(p) for p, _ in items], yes=True, limit=0, model=model, no_crossref=False))
             self.scan()
+            self._offer_sync()
         elif answer in ("n", "no"):
             self._declined.update(d for _, d in items)
             print("   Skipped for this session.")

@@ -1,4 +1,4 @@
-"""Feeds the unprocessed public-domain Minckley PDFs to the ingest watcher ten at a time, smallest first.
+"""Feeds the unprocessed public-domain Minckley PDFs to the ingest watcher in batches (default 10, up to 100; --size N), smallest first.
 
 Run from fisheries_agent (with main_orchestrator.py running in another terminal to answer the ingest prompt):
     python -m utils.minckley_batch
@@ -26,6 +26,7 @@ STATE_PATH = META_DIR / "minckley_batch_state.json"
 DEFAULT_SOURCE = "C:/Obsidian/Fish_Science_Brain/PDFs_To_Process"
 FIELDS = ["source_filename", "mid"]
 BATCH_SIZE = 10
+MAX_BATCH_SIZE = 100
 POLL_SECONDS = 15
 
 
@@ -151,7 +152,27 @@ def wait_and_finish(state: dict) -> None:
     _save_json(STATE_PATH, state)
 
 
-def main() -> int:
+def _clamp(n: int) -> int:
+    return max(1, min(MAX_BATCH_SIZE, n))
+
+
+def ask_size(current: int) -> int:
+    """Lets the user change the batch size (1-100); Enter keeps the current value."""
+    raw = input(f"Documents per batch [{current}] (1-{MAX_BATCH_SIZE}, Enter to keep): ").strip()
+    if not raw:
+        return current
+    if not raw.isdigit() or not 1 <= int(raw) <= MAX_BATCH_SIZE:
+        print(f"Not a number from 1 to {MAX_BATCH_SIZE}; keeping {current}.")
+        return current
+    return int(raw)
+
+
+def main(argv: list = None) -> int:
+    import argparse
+    ap = argparse.ArgumentParser(prog="minckley_batch")
+    ap.add_argument("--size", type=int, default=0, help=f"documents per batch, 1-{MAX_BATCH_SIZE} (default {BATCH_SIZE}; asked interactively if omitted)")
+    args = ap.parse_args(argv)
+    size = _clamp(args.size) if args.size else None
     try:
         from dotenv import load_dotenv
         load_dotenv(pdf_ingest.BASE_DIR / ".env")
@@ -171,7 +192,9 @@ def main() -> int:
                 if not items:
                     print("Nothing left to process. The Minckley backlog is complete; you can remove this tool.")
                     return 0
-                batch = items[:BATCH_SIZE]
+                if size is None:
+                    size = ask_size(BATCH_SIZE)
+                batch = items[:size]
                 print(f"{len(items)} documents remain.")
                 show_estimate(batch)
                 if input(f"\nCopy these {len(batch)} into pdfs_to_process? [y/N] ").strip().lower() not in ("y", "yes"):
@@ -182,8 +205,9 @@ def main() -> int:
                 for it in batch:
                     stage(it)
             wait_and_finish(state)
-            if input("\nProcess another ten? [y/N] ").strip().lower() not in ("y", "yes"):
+            if input(f"\nProcess another {size}? [y/N] ").strip().lower() not in ("y", "yes"):
                 return 0
+            size = ask_size(size)
     except KeyboardInterrupt:
         print("\nStopped. Rerun to resume.")
         return 0
