@@ -20,6 +20,9 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 > - **Location context**: The project centers on **[[Hoover Dam]]**, situated between **[[Lake Mead]]** (upstream reservoir) and the downstream Colorado River, a system historically home to endemic native fish populations of conservation concern (e.g., [[Razorback Sucker]], [[Bonytail Chub]], [[Hum...
 > -- *[[ProposedHooverDamPowerplantMod_1991_07_15]]*
 
+> The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
+> -- *[[RequestedMeetingnativeFishWork_15023]]*
+
 ## Mentioned In
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -34,3 +37,4 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 - [[RequestNotificationOfFishStock_1989_01_13]]
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
+- [[RequestedMeetingnativeFishWork_15023]]

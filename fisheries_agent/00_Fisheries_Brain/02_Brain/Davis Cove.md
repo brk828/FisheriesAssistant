@@ -23,6 +23,9 @@ Davis Cove is a managed backwater habitat within Lake Havasu on the Lower Colora
 > This document is a 1993–1994 administrative record from the Bureau of Reclamation's Lower Colorado Regional Office concerning the **Native Fish Work Group (NFWG)**, a multi-agency body formed in 1990 to conserve the **[[Razorback Sucker]]** (*Xyrauchen texanus*) population of **[[Lake Mohave]]**....
 > -- *[[MeetingAnnouncementNativeFishW_1994_01_11]]*
 
+> The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
+> -- *[[RequestedMeetingnativeFishWork_15023]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -40,3 +43,4 @@ Davis Cove is a managed backwater habitat within Lake Havasu on the Lower Colora
 - [[RecaptureDataForJuvenileRazorb_1993_03_19]]
 - [[ScheduledMeetingNativeFishWork_1990_06_04]]
 - [[SpringSurveyForRazorbackSucker_1993_03_26]]
+- [[RequestedMeetingnativeFishWork_15023]]

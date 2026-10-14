@@ -26,6 +26,9 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
+> -- *[[FederalAidToFishRestorationAnn_19654]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -91,3 +94,4 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 - [[UtilizationOfGizzardShadByGame_1958_11_20]]
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[FederalAidToFishRestorationAnn_19654]]

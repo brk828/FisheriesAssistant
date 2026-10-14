@@ -35,6 +35,12 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This 1987 letter from Donald W. to Dr. W.L. Minckley discusses concerns about the U.S. Fish and Wildlife Service's endangered species recovery approach, particularly the practice of spreading rare species across multiple locations ("Johnny Applefish" approach) and over-reliance on aquarium...
 > -- *[[LetterToMinckley_20487]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
+> This report documents the status of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae stocked into eight tanks at [[Buenos Aires National Wildlife Refuge]] in March 1989. Sampling conducted 17-18 April 1989 recovered fish from four of eight tanks (Pozo Nuevo, Mosca, Suffrido, Carrizo Dam), with...
+> -- *[[SummaryOfRazorbackSuckerCollec_19428]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -602,3 +608,5 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[EvaluationsAndSuggestionsConce_16480]]
 - [[LetterToMinckley_20487]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]
+- [[SummaryOfRazorbackSuckerCollec_19428]]

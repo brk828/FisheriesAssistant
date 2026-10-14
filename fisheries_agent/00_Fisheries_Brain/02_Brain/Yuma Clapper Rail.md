@@ -26,6 +26,9 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
 > -- *[[InformalSectionConsultationReP_13297]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -36,3 +39,4 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[SantaClaraSloughSurveys_1992_09_08]]
 - [[TestimonyOfDalePontiusOnTheLow_1994_06_08]]
 - [[InformalSectionConsultationReP_13297]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]

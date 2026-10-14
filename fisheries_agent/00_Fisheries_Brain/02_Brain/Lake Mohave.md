@@ -26,6 +26,9 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
 > -- *[[InformalSectionConsultationReP_13297]]*
 
+> The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
+> -- *[[RequestedMeetingnativeFishWork_15023]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -192,3 +195,4 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[YourCurrentUsFishAndWildlifeSe_1993_04_02]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
 - [[InformalSectionConsultationReP_13297]]
+- [[RequestedMeetingnativeFishWork_15023]]

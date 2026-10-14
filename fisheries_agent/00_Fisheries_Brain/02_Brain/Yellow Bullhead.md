@@ -23,6 +23,9 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > - **Large [[Black Crappie]], [[Yellow Bullhead]], and other large-bodied sunfish** are noted to be difficult for predatory fish and birds to capture and swallow due to their size, undermining the "predator control" hypothesis commonly proposed by anglers and the public. - No detailed morphometric...
 > -- *[[CausesOfDeathAmongIndianaFishe_1945]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -84,3 +87,4 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[VerdeRiverFishSampling_1989_03_06]]
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
+- [[EndangeredAndThreatenedWildlif_11551]]

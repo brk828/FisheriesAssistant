@@ -14,7 +14,11 @@ Northern Arizona University appears in these historical documents as a research 
 > The report catalogs permit-authorized activities involving federally protected fish species in Arizona, conducted primarily by [[Arizona Game and Fish Department]] (AGFD) Research Branch, in cooperation with the [[U.S. Fish and Wildlife Service]] (USFWS), [[Arizona State University]] (ASU), [[Nor...
 > -- *[[ReportOnPrtActivityFromDecembe_1992_12_01]]*
 
+> This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
+> -- *[[AProposalToMonitorTheEffectsOf_17697]]*
+
 ## Mentioned In
 - [[LetterToWLMinckleyOnLittleColo_1987_01_26]]
 - [[MeetingNoticeOnLittleColoradoR_1994_01_21]]
 - [[ReportOnPrtActivityFromDecembe_1992_12_01]]
+- [[AProposalToMonitorTheEffectsOf_17697]]

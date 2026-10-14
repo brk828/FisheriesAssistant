@@ -23,6 +23,9 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > - **Taxonomic novelty**: *Gila cypha* is described as a new species distinct from all other members of the subgenus *[[Gila (Subgenus)]]*, including *G. robusta*, *G. minacae*, and *G. nigrescens*; it is most similar to *G. r. elegans* but distinguished sharply by its nuchal hump and more extreme...
 > -- *[[GilaCyphaARemarkableNewSpecies_15313]]*
 
+> This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
+> -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -65,3 +68,4 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[UpperBasinStuff_20272]]
 - [[UseOfFloodplainHabitatByAgeRaz_16530]]
 - [[UsfwsLetterRegardingProposedEn_1990_07_09]]
+- [[ProgressAndLackOfSameNextMeeti_13734]]

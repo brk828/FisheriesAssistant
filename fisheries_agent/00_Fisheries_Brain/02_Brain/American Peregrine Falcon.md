@@ -23,7 +23,11 @@ I appreciate the detailed context provided, but I must note that the American Pe
 > - The project constitutes an **ex-situ conservation strategy** for two federally endangered Colorado River Basin fishes, leveraging a non-native (zoo) setting to reduce extinction risk. - Physical design incorporates **multiple redundant containment features** (gravel filtration on intake, fine s...
 > -- *[[BiologicalAssessmentForDevelop_18529]]*
 
+> This biological assessment was conducted 8–18 July 1994 for the [[Papago Park Military Reservation]] (PPMR) in Phoenix, Arizona, in support of an environmental assessment for proposed construction of a consolidated maintenance facility by the Arizona Army National Guard. The survey documented 36...
+> -- *[[PapagoParkMilitaryReservationB_13351]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
 - [[ReportingFederalExpendituresPu_1992_11_25]]
+- [[PapagoParkMilitaryReservationB_13351]]

@@ -23,6 +23,9 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 > > **Note:** This source lacks empirical scientific content (no species counts, measurements, habitat metrics, or population data). For substantive ichthyological data on Southwestern desert fishes, cross-reference materials directly authored by the [[Desert Fishes Recovery Team]] or by [[W.L. Min...
 > -- *[[CorrespondenceAppointmentOfCon_16439]]*
 
+> This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
+> -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -109,3 +112,4 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 - [[SuggestedAgendaItemsForDesertF_1988_12_06]]
 - [[SummaryOfDesertPupfishIntroduc_1988_12_16]]
 - [[TelephoneConversationRecordRou_1994_02_23]]
+- [[ProgressAndLackOfSameNextMeeti_13734]]

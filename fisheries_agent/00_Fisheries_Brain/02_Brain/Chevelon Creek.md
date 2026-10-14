@@ -17,8 +17,12 @@ Chevelon Creek is a tributary of the Little Colorado River in Arizona that serve
 > - **[[Chevelon Creek]] (Points of Wildcat Gaging Station):** Most fish-diverse site sampled, using seine, experimental gill net, minnow trap, and backpack electroshocker. Notable for large-bodied LCR sucker population (avg. 333.4 mm TL) and multiple size classes of roundtail chub (25–250 mm TL), ...
 > -- *[[LittleColoradoRiverSpinedaceSu_1991_07_29]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[LittleColoradoRiverSpinedaceSu_1991_07_29]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
 - [[MitochondrialDnaVariationWithi_1993_09_14]]
 - [[RequestToAmendCommissionOrderF_1997_09_30]]
+- [[EndangeredAndThreatenedWildlif_11551]]

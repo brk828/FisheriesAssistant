@@ -32,6 +32,9 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This 1987 letter from Donald W. to Dr. W.L. Minckley discusses concerns about the U.S. Fish and Wildlife Service's endangered species recovery approach, particularly the practice of spreading rare species across multiple locations ("Johnny Applefish" approach) and over-reliance on aquarium...
 > -- *[[LetterToMinckley_20487]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -324,3 +327,4 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[LetterToMinckley_20487]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]

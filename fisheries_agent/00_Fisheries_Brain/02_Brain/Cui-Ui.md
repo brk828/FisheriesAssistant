@@ -26,6 +26,9 @@ The cui-ui (*Chasmistics cujus*) is an endangered catostomid fish (sucker family
 > Field survey conducted May 4-5, 1989 at [[Pyramid Lake]], Nevada to assess hybridization between endangered [[Cui-ui]] (*Chasmistes cujus*) and [[Tahoe Sucker]] (*Catostomus tahoensis*). Approximately 300-400 cui-ui were tagged during one day of trap netting operations; nearly 8,000 fish tagged...
 > -- *[[SummaryOfPyramidLakeTrip_13173]]*
 
+> This report documents the 1987 spawning runs of the endangered [[Cui-ui]] (*Chasmistes cujus*) and threatened [[Lahontan Cutthroat Trout]] (*Salmo clarki henshawi*) at [[Marble Bluff Fish Facility]], [[Nixon, Nevada]]. The cui-ui spawning run totaled 5,301 individuals, representing 45 percent of...
+> -- *[[CuiuiAndLahontanCutthroatTrout_13865]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[AllozymeDifferencesDuplicateGe_11423]]
@@ -64,3 +67,4 @@ The cui-ui (*Chasmistics cujus*) is an endangered catostomid fish (sucker family
 - [[TitleAnalysisOfTheCaseByUSFish_14626]]
 - [[TwentyFirstAnnualDesertFishesC_1989_11_16]]
 - [[SummaryOfPyramidLakeTrip_13173]]
+- [[CuiuiAndLahontanCutthroatTrout_13865]]

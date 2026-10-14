@@ -23,6 +23,9 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This ichthyological note by W. L. Minckley addresses the long-disputed taxonomy of chub fishes (genus *[[Gila]]*) inhabiting the Gila River Basin of Arizona, New Mexico (USA), and Sonora (México). Historically lumped as a polytypic *[[Gila Robusta]]* or treated as a "*Gila robusta* complex," thes...
 > -- *[[ChubsTeleosteiGenusGilaOfTheGi_15853]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AResumeOfTheDetoxificationPhas_1963]]
@@ -65,3 +68,4 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[VirginChubGilaRobustaSeminuda_1989_09_07]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[EndangeredAndThreatenedWildlif_11551]]

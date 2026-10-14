@@ -11,8 +11,12 @@ Gila robusta seminuda, commonly known as the Virgin River chub, is a subspecies 
 > - **Recovery planning delays**: The first Team deadline (15 January) for reviewing the **[[Gila nigrescens]]** technical draft recovery plan largely failed — only one reviewer submitted comments, another declined citing insufficient information, and the remainder (including the author) did not re...
 > -- *[[MemorandumOnDesertFishesRecove_1986_02_20]]*
 
+> This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
+> -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
+
 ## Mentioned In
 - [[MemorandumOnDesertFishesRecove_1986_02_20]]
 - [[ReviewOfTheTaxonomicStatusOfRo_1985_12_03]]
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[VirginChubGilaRobustaSeminuda_1989_09_07]]
+- [[ProgressAndLackOfSameNextMeeti_13734]]

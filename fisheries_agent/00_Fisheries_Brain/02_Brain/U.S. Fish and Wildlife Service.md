@@ -32,6 +32,9 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
+> -- *[[FederalAidToFishRestorationAnn_19654]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -246,3 +249,4 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[LetterToMinckley_20487]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[FederalAidToFishRestorationAnn_19654]]

@@ -36,11 +36,13 @@
   "timestamp": "2026-10-09T17:17:41+00:00"
  },
  "3358d371a72d4e12d7808d4ac8bda519f2d7b48a92840e7acbdac6b06c795b9f": {
+  "citation_source": "minckley-sheet",
   "file": "17697.pdf",
-  "reason": "model did not return a complete note (missing frontmatter or required sections)",
+  "method": "ocr",
+  "note": "AProposalToMonitorTheEffectsOf_17697.md",
   "source_id": "X-3358d371",
-  "status": "failed",
-  "timestamp": "2026-10-14T17:52:12+00:00"
+  "status": "done",
+  "timestamp": "2026-10-14T18:53:32+00:00"
  },
  "3de2b3788e3232e4fcc07525e218a18d7d81a158d452654317a044163dfb710b": {
   "file": "15631 test.pdf",
@@ -57,6 +59,15 @@
   "source_id": "X-42c17b1c",
   "status": "done",
   "timestamp": "2026-10-14T17:32:11+00:00"
+ },
+ "455dc03877a83d0c2292ed0729b7e05c5151acb1d7087c1e32e3c182df33a3c3": {
+  "citation_source": "minckley-sheet",
+  "file": "13351.pdf",
+  "method": "ocr",
+  "note": "PapagoParkMilitaryReservationB_13351.md",
+  "source_id": "X-455dc038",
+  "status": "done",
+  "timestamp": "2026-10-14T18:44:49+00:00"
  },
  "4a67754927636cd5c5c4570f130b5429ba413bdafa75d323350f7a1bf0290330": {
   "citation_source": "minckley-sheet",
@@ -184,12 +195,41 @@
   "status": "done",
   "timestamp": "2026-10-14T17:24:53+00:00"
  },
+ "9c2dad8a680aee6f66c44f76e605214523ca9004e57a76399e8f5264e8ae6263": {
+  "citation_source": "minckley-sheet",
+  "file": "11551.pdf",
+  "method": "ocr",
+  "note": "EndangeredAndThreatenedWildlif_11551.md",
+  "source_id": "X-9c2dad8a",
+  "status": "done",
+  "timestamp": "2026-10-14T18:42:29+00:00"
+ },
+ "9e7f52bc10fc4936b09a8d491e84840fd42f4c4309986ea0f6d5afb3b838d8e0": {
+  "citation_source": "minckley-sheet",
+  "file": "15568.pdf",
+  "method": "ocr",
+  "note": "ProposalForSupportOfResearchOn_15568.md",
+  "source_id": "X-9e7f52bc",
+  "status": "done",
+  "timestamp": "2026-10-14T18:52:47+00:00"
+ },
+ "bb28354c9b7d95c9213d92d4eed79df23f72e210d397ce932976399a0d6a9a78": {
+  "citation_source": "minckley-sheet",
+  "file": "13865.pdf",
+  "method": "ocr",
+  "note": "CuiuiAndLahontanCutthroatTrout_13865.md",
+  "source_id": "X-bb28354c",
+  "status": "done",
+  "timestamp": "2026-10-14T18:46:14+00:00"
+ },
  "bdfda1ab1d473feecb68818be6f4c6a4fd71da4c6e9c1c2c7d8c9b1e42978961": {
+  "citation_source": "minckley-sheet",
   "file": "19654.pdf",
-  "reason": "model did not return a complete note (missing frontmatter or required sections)",
+  "method": "ocr",
+  "note": "FederalAidToFishRestorationAnn_19654.md",
   "source_id": "X-bdfda1ab",
-  "status": "failed",
-  "timestamp": "2026-10-14T17:53:24+00:00"
+  "status": "done",
+  "timestamp": "2026-10-14T18:54:57+00:00"
  },
  "d1d4762908fde972caa5fdac0ee838ba3a87c1c1edcfbb624adcb82e9b270ab0": {
   "citation_source": "minckley-sheet",
@@ -199,6 +239,24 @@
   "source_id": "X-d1d47629",
   "status": "done",
   "timestamp": "2026-10-14T17:49:06+00:00"
+ },
+ "d5365fe62382d2f7fe847f65d269cd99e50b24cd4f8b607f387ed0e861f71267": {
+  "citation_source": "minckley-sheet",
+  "file": "14865.pdf",
+  "method": "ocr",
+  "note": "CaliforniaTroutSalmonAndWarmwa_14865.md",
+  "source_id": "X-d5365fe6",
+  "status": "done",
+  "timestamp": "2026-10-14T18:47:19+00:00"
+ },
+ "d557ba8cc29d99afdfaacfc5b1c7a4ad3f0ada365d2809e800fa80e9e7ada2d3": {
+  "citation_source": "minckley-sheet",
+  "file": "12761.pdf",
+  "method": "ocr",
+  "note": "ReCommentsOnFinalBiologicalAnd_12761.md",
+  "source_id": "X-d557ba8c",
+  "status": "done",
+  "timestamp": "2026-10-14T18:43:15+00:00"
  },
  "d59165ffb821605e339abc5379f200b2ebd08a55e81c11339a4bf730214e11b5": {
   "citation_source": "crossref",
@@ -218,6 +276,15 @@
   "status": "done",
   "timestamp": "2026-10-14T17:26:55+00:00"
  },
+ "da011ebe6a0245d707fb3b5b4c1c8eea2acef8d9419d3860f0afe7db91c6a9d9": {
+  "citation_source": "minckley-sheet",
+  "file": "19428.pdf",
+  "method": "ocr",
+  "note": "SummaryOfRazorbackSuckerCollec_19428.md",
+  "source_id": "X-da011ebe",
+  "status": "done",
+  "timestamp": "2026-10-14T18:49:05+00:00"
+ },
  "dd337695e2a3e631c3c0723271458f03a91ae4a069418b94dedbde10ac4a6e95": {
   "citation_source": "minckley-sheet",
   "file": "12378.pdf",
@@ -226,5 +293,32 @@
   "source_id": "X-dd337695",
   "status": "done",
   "timestamp": "2026-10-14T17:25:57+00:00"
+ },
+ "e6825eac8170261d65e95c5c7c6564042fa0278a534d19ddd0978eca38756d4a": {
+  "citation_source": "minckley-sheet",
+  "file": "15023.pdf",
+  "method": "ocr",
+  "note": "RequestedMeetingnativeFishWork_15023.md",
+  "source_id": "X-e6825eac",
+  "status": "done",
+  "timestamp": "2026-10-14T18:47:34+00:00"
+ },
+ "e901f19fdf4fbeaaedd18c99bc3b280bb6bc2ac1ce7b51c69fd8752bed92bd6d": {
+  "citation_source": "minckley-sheet",
+  "file": "16475.pdf",
+  "method": "ocr",
+  "note": "OurayWildlifeRefugeSeminatural_16475.md",
+  "source_id": "X-e901f19f",
+  "status": "done",
+  "timestamp": "2026-10-14T18:48:00+00:00"
+ },
+ "f7f8ca07db4ef3da6ee62183f54b3b736c184ec7a63c624e71ba25620409404d": {
+  "citation_source": "minckley-sheet",
+  "file": "13734.pdf",
+  "method": "ocr",
+  "note": "ProgressAndLackOfSameNextMeeti_13734.md",
+  "source_id": "X-f7f8ca07",
+  "status": "done",
+  "timestamp": "2026-10-14T18:45:19+00:00"
  }
 }

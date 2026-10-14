@@ -23,6 +23,9 @@ Ichthyology is the scientific study of fish, encompassing their taxonomy, physio
 > - The document is an **administrative reminder letter**, not a peer-reviewed scientific report. - It references **U.S. Fish and Wildlife Service Subpermit PRT-676811**, held by Dr. W. L. Minckley. - An **annual report** associated with this subpermit was due **December 1, 1988**. - A **Form 3-200...
 > -- *[[AnnualReportUnderUsfwsSubpermi_20894]]*
 
+> This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
+> -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
+
 ## Mentioned In
 - [[A Proposed Code System for Storage and Retrieval of Information in Systematic Zoology]]
 - [[AListOfTheMayfliesEphemeropter_1970]]
@@ -62,3 +65,4 @@ Ichthyology is the scientific study of fish, encompassing their taxonomy, physio
 - [[TheBiologicalDiversityCrisisAC_12097]]
 - [[TimeToReviveSystematics_1985_12_13]]
 - [[ZurKenntnisDerOligochaetenDerW_14403]]
+- [[ProgressAndLackOfSameNextMeeti_13734]]

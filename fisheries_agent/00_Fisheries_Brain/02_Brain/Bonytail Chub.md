@@ -32,6 +32,9 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 > These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
 ## Mentioned In
 - [[ANonLethalStomachPumpingTechni_14917]]
 - [[ANonlethalTechniqueToRecoverGu_1994]]
@@ -299,3 +302,4 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 - [[ListedAndCandidateSpeciesRespo_11941]]
 - [[InformalSectionConsultationReP_13297]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]

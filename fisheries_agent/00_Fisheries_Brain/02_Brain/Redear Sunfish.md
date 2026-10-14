@@ -26,6 +26,9 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> During the 1964-65 fiscal year, California Department of Fish and Game hatcheries planted a record-breaking **60,129,973 fish** totaling **1,879,769 pounds**, though total weight was 207,290 pounds less than the previous year. The December 1964 flood destroyed [[Cedar Creek Hatchery]] on the [[Eel...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14865]]*
+
 ## Mentioned In
 - [[ANoteOnTheResultsOfFeedingFire_1960]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -66,3 +69,4 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[UseOfAntimycinForSelectiveThin_14083]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[CaliforniaTroutSalmonAndWarmwa_14865]]

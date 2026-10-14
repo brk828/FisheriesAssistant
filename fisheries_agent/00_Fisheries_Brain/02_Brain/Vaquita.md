@@ -23,6 +23,9 @@ The vaquita (*Phocoena sinus*) is a critically endangered porpoise endemic to th
 > - The [[Colorado River]] system from Davis Dam to the Upper Gulf retains restoration potential despite decades of degradation, per bi-national scientific consensus reached at a November 1994 CI/American Rivers workshop. - A dam-driven **reduction in freshwater and sediment flow** has been identif...
 > -- *[[ColoradoBiNationalRiverEcosyst_1995_01_09]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
@@ -30,3 +33,4 @@ The vaquita (*Phocoena sinus*) is a critically endangered porpoise endemic to th
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
 - [[ReminiscencesOfASouthernTrip_15630]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]

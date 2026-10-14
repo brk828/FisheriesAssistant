@@ -14,7 +14,11 @@ The White Mountains refers to a mountain range in east-central Arizona that serv
 > This 1918 Academy of Natural Sciences of Philadelphia report (Pilsbry & Ferriss, "Mollusca of the Southwestern States—IX, X") is primarily a **malacological survey**, not a fish-focused study. It documents land snail (and a few freshwater mollusk) faunas across a series of "sky island" mountain r...
 > -- *[[MolluscaOfTheSouthwesternState_1918]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[ColdwaterFishStockingAndNative_1995]]
 - [[CommentsOnTheEnvironmentalAsse_1990]]
 - [[MolluscaOfTheSouthwesternState_1918]]
+- [[EndangeredAndThreatenedWildlif_11551]]

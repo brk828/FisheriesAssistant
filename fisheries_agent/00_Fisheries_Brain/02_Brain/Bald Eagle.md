@@ -26,6 +26,9 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 > This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
 > -- *[[InformalSectionConsultationReP_13297]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[BiologicalOpinionOnTheProposed_13196]]
@@ -49,3 +52,4 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 - [[ReportingFederalExpendituresPu_1992_11_25]]
 - [[TripReportTaskForceMonitoringR_1990]]
 - [[InformalSectionConsultationReP_13297]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]

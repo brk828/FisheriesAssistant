@@ -23,6 +23,9 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 > This document combines a [[Cui-ui Recovery Team]] meeting notice (October 14–15, 1993, Reno, NV) with a U.S. Fish and Wildlife Service (FWS) news release reporting a dramatic increase in the adult population of the endangered [[Cui-ui]] (*Chasmistes cujus*), a catostomid fish endemic to [[Pyramid...
 > -- *[[CuiUiRecoveryTeamMeetingNotice_1993_09_14]]*
 
+> This report documents the 1987 spawning runs of the endangered [[Cui-ui]] (*Chasmistes cujus*) and threatened [[Lahontan Cutthroat Trout]] (*Salmo clarki henshawi*) at [[Marble Bluff Fish Facility]], [[Nixon, Nevada]]. The cui-ui spawning run totaled 5,301 individuals, representing 45 percent of...
+> -- *[[CuiuiAndLahontanCutthroatTrout_13865]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -47,3 +50,4 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 - [[ResolutionOfThePyramidLakePaiu_18309]]
 - [[ReviewOfThirdDraftCuiUiRecover_1991_03_25]]
 - [[TitleAnalysisOfTheCaseByUSFish_14626]]
+- [[CuiuiAndLahontanCutthroatTrout_13865]]

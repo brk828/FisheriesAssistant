@@ -29,6 +29,9 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
+> -- *[[RequestedMeetingnativeFishWork_15023]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -60,3 +63,4 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[StationProfileOfWillowBeachNat_19507]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[RequestedMeetingnativeFishWork_15023]]

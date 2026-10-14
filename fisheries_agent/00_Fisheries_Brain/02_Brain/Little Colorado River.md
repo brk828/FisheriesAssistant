@@ -23,6 +23,12 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > This third-year annual report (submitted by Thomas E. Dowling, Arizona State University, to the U.S. Bureau of Reclamation) presents mitochondrial DNA (mtDNA) restriction fragment analysis of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the Colorado River Basin. Samples were anal...
 > -- *[[AnnualReportOnRazorbackSuckerM_1992_11_24]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
+> This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
+> -- *[[AProposalToMonitorTheEffectsOf_17697]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -141,3 +147,5 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[UsfwsLcrResearchTripReportHump_11069]]
 - [[VariousProposalsForStudiesOfEn_1993_12_17]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[EndangeredAndThreatenedWildlif_11551]]
+- [[AProposalToMonitorTheEffectsOf_17697]]

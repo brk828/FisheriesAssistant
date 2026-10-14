@@ -23,6 +23,9 @@ The Totoaba is an endangered large fish species native to the Gulf of California
 > This document is a set of research proposals and internal memoranda (1994) from the University of Arizona's Bureau of Applied Research in Anthropology, proposing interdisciplinary (anthropological, oceanographic, and fisheries economics) research into the relationship between Colorado River fresh...
 > -- *[[HumanResponsesToADynamicRiverT_1994_11_08]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
@@ -34,3 +37,4 @@ The Totoaba is an endangered large fish species native to the Gulf of California
 - [[ReminiscencesOfASouthernTrip_15630]]
 - [[ReminiscencesOfASouthernTrip_17598]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]

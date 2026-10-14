@@ -23,6 +23,9 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 > - **Lower Colorado River Basin endemics**: [[Bonytail chub]], [[Colorado squawfish]] (now *Ptychocheilus lucius*, Colorado pikeminnow), and [[Humpback chub]] — large-river specialists adapted to historically turbid, high-flow, canyon-bound reaches of the Colorado River system. Their responsibilit...
 > -- *[[SPECIES RESPONSIBILITIES OF DESERT FISHES RECOVERY TEAM]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -37,3 +40,4 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 - [[TheFishesOfTheVirginRiverATrib_14013]]
 - [[TwentyFirstAnnualDesertFishesC_1989_11_16]]
 - [[VirginRiverOperationOctober_1988_10_04]]
+- [[EndangeredAndThreatenedWildlif_11551]]

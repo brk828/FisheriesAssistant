@@ -23,6 +23,9 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > - **[[Aravaipa Shiner]]** (*Notropis formosus*): A small-bodied cyprinid endemic to the [[Aravaipa Creek]] watershed, notable as a narrow-range endemic minnow specifically targeted in this monitoring effort. - **[[Spikedace]]** (*Meda fulgida*): A small native cyprinid with a distinctive spiny do...
 > -- *[[AravaipaShinerSurveyJuly_1998_07_10]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -151,3 +154,4 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[VirginRiverRecoveryTeamMeeting_1997_04_25]]
 - [[VirginRiverWoundfinPlanForBroo_16685]]
 - [[VrrtNoticeAndMeetingMinutes_20253]]
+- [[EndangeredAndThreatenedWildlif_11551]]

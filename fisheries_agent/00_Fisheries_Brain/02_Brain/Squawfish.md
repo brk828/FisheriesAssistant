@@ -23,8 +23,12 @@ Squawfish (genus *Ptychocheilus*, family Cyprinidae) are native North American c
 > - **Sex-based differences**: Females contained more fish prey by volume (mean 1.54) than males (mean 0.63); females also ingested larger prey fish (>8.3 mm) than males, which never contained prey of that size. - **Size-class patterns**: No major dietary distinction across the 100–350 mm size rang...
 > -- *[[TheFoodAndFeedingChronologyOfY_1979]]*
 
+> This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
+> -- *[[FederalAidToFishRestorationAnn_19654]]*
+
 ## Mentioned In
 - [[BattleAgainstExtinctionNativeF_17606]]
 - [[LetterToDrWendellMinckleyOnRaz_1975_05_02]]
 - [[TheFoodAndFeedingChronologyOfY_1979]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
+- [[FederalAidToFishRestorationAnn_19654]]

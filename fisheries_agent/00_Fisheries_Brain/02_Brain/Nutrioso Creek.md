@@ -11,7 +11,11 @@ Nutrioso Creek is a tributary stream system in Arizona that represents one of th
 > 2. **Proposed sanctuary tributaries**: The authors recommend prioritizing conservation/management action in **[[Nutrioso Creek]]**, upper **[[Verde River]]**, **[[West Clear Creek]]**, **[[Tonto Creek]]**, and **[[Aravaipa Creek]]** as the strongest remaining native fish systems.
 > -- *[[LetterToFisheriesSummitPartici_1993_09_10]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
 - [[MitochondrialDnaVariationWithi_1993_09_14]]
 - [[StatusOfGeneticAnalysisOfSpine_1993_03_02]]
+- [[EndangeredAndThreatenedWildlif_11551]]

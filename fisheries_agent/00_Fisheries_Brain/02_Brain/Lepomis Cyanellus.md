@@ -23,6 +23,9 @@ Lepomis cyanellus, commonly known as the green sunfish, is a native centrarchid 
 > This field report documents a 16-day research expedition (21 April–7 May 1993) on [[Kanab Creek]], a tributary of the [[Colorado River]] in the [[Grand Canyon]], conducted by the Arizona Cooperative Fish and Wildlife Research Unit. The study had three objectives: (1) characterize seasonal habitat...
 > -- *[[ReportOnKanabCreekResearchTrip_1993_05_20]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[ARelativeStudyOfOxygenConsumpt_16948]]
@@ -38,3 +41,4 @@ Lepomis cyanellus, commonly known as the green sunfish, is a native centrarchid 
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[VariableKinematicsOfSacramento_1982]]
+- [[EndangeredAndThreatenedWildlif_11551]]

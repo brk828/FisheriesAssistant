@@ -23,6 +23,9 @@ Gammarus lacustris is a freshwater amphipod crustacean that serves as a critical
 > - **[[Gammarus tigrinus]]**: Brackish and tidal fresh waters, Gulf of St. Lawrence to North Carolina, plus a disjunct Florida (St. John's River) population; co-occurs with sibling species **[[Gammarus daiberi]]** in the Chesapeake–Delaware Bay region. Introduced to England, Ireland, Germany, and ...
 > -- *[[TheEpimeraOfNorthAmericanFresh_1970_09_25]]*
 
+> This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
+> -- *[[AProposalToMonitorTheEffectsOf_17697]]*
+
 ## Mentioned In
 - [[EffectsOfThermalConstancyAndSe_1976]]
 - [[FlowModificationsToTheGlenCany_18321]]
@@ -31,3 +34,4 @@ Gammarus lacustris is a freshwater amphipod crustacean that serves as a critical
 - [[TheEpimeraOfNorthAmericanFresh_1970_09_25]]
 - [[TheImportanceOfTheAcanthocepha_1963]]
 - [[TheRelationshipBetweenDissolve_14575]]
+- [[AProposalToMonitorTheEffectsOf_17697]]

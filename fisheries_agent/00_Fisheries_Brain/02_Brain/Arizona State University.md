@@ -26,6 +26,12 @@ Arizona State University is a major research institution that has played a signi
 > This 1987 letter from Donald W. to Dr. W.L. Minckley discusses concerns about the U.S. Fish and Wildlife Service's endangered species recovery approach, particularly the practice of spreading rare species across multiple locations ("Johnny Applefish" approach) and over-reliance on aquarium...
 > -- *[[LetterToMinckley_20487]]*
 
+> This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
+> -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
+
+> The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
+> -- *[[RequestedMeetingnativeFishWork_15023]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -145,3 +151,5 @@ Arizona State University is a major research institution that has played a signi
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
 - [[LetterToMinckley_20487]]
+- [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[RequestedMeetingnativeFishWork_15023]]

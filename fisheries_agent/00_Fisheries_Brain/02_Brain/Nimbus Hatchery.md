@@ -23,7 +23,11 @@ Nimbus Hatchery is a major California state fish hatchery located on the America
 > - **Thermal constraints**: [[Nimbus Hatchery]] water temperatures are a limiting factor for salmon egg incubation and juvenile rearing until into November, driving the hatchery's reliance on late-running stock and standard early releases. - **Migration timing as heritable trait**: A key ecologica...
 > -- *[[HistoryOfYearlingKingSalmonMar_14888]]*
 
+> During the 1964-65 fiscal year, California Department of Fish and Game hatcheries planted a record-breaking **60,129,973 fish** totaling **1,879,769 pounds**, though total weight was 207,290 pounds less than the previous year. The December 1964 flood destroyed [[Cedar Creek Hatchery]] on the [[Eel...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14865]]*
+
 ## Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
 - [[HistoryOfYearlingKingSalmonMar_14888]]
+- [[CaliforniaTroutSalmonAndWarmwa_14865]]

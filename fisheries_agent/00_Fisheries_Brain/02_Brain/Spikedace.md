@@ -23,6 +23,9 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 > The native community — [[Longfin Dace]], [[Sonoran Sucker]], [[Desert Sucker]], [[Roundtail Chub]], [[Spikedace]], and [[Loach Minnow]] — reflects a functioning warmwater desert stream guild adapted to flashy, low-gradient hydrology, with [[Longfin Dace]] (AGCH) overwhelmingly dominant in raw abu...
 > -- *[[AravaipaCreekRedShinerSurveySu_1995_12_06]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -171,3 +174,4 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 - [[VerdeRiverFishResearch_1998]]
 - [[VerdeRiverFishResearch_1998_02_17]]
 - [[VerdeRiverFishSampling_1989_03_06]]
+- [[EndangeredAndThreatenedWildlif_11551]]

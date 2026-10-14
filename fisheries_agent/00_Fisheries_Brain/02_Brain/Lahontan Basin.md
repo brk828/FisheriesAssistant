@@ -20,6 +20,9 @@ The Lahontan Basin is a hydrographic region in the Great Basin of northwestern N
 > - **Habitat type:** California's native fresh-water fish fauna is characterized as a **relict fauna of an arid region**, less diversified than eastern US, European, or Asian faunas. Many species are anadromous or salt-tolerant, reflecting adaptation to variable coastal drainage conditions. - **Dr...
 > -- *[[TheFreshWaterFishFaunaOfCalifo_11392]]*
 
+> This report documents the 1987 spawning runs of the endangered [[Cui-ui]] (*Chasmistes cujus*) and threatened [[Lahontan Cutthroat Trout]] (*Salmo clarki henshawi*) at [[Marble Bluff Fish Facility]], [[Nixon, Nevada]]. The cui-ui spawning run totaled 5,301 individuals, representing 45 percent of...
+> -- *[[CuiuiAndLahontanCutthroatTrout_13865]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
@@ -29,3 +32,4 @@ The Lahontan Basin is a hydrographic region in the Great Basin of northwestern N
 - [[PreliminaryReportOnFishRemains_18753]]
 - [[StationProfileOfTheLahontanNat_19542]]
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
+- [[CuiuiAndLahontanCutthroatTrout_13865]]

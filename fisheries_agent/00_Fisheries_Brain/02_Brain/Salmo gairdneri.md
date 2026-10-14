@@ -14,6 +14,9 @@ Salmo gairdneri, commonly known as the rainbow trout, is a coldwater fish specie
 > **Threats and interactions:** - The extirpation of [[Poeciliopsis Occidentalis Occidentalis]] from Frisco Hot Spring is attributed to predation/competition from introduced [[Gambusia Affinis]] (mosquitofish), stream incision, or anthropogenic habitat destruction. - The decline of [[Gila Robusta G...
 > -- *[[NativeFishesOfTheUpperGilaRive_12644]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AssimilationEfficiencyOfTheFre_1990]]
@@ -22,3 +25,4 @@ Salmo gairdneri, commonly known as the rainbow trout, is a coldwater fish specie
 - [[NativeFishesOfTheUpperGilaRive_12644]]
 - [[PaperOnTwoNewSpeciesOfCyprinod_15302]]
 - [[SalmonidGeneticsBreedingGuidel_1983]]
+- [[EndangeredAndThreatenedWildlif_11551]]

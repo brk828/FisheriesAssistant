@@ -23,6 +23,9 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 > These criteria highlight the species' adaptation to small, shallow, low-elevation desert waters typical of the [[Sonoran Desert]] and [[Gila River Basin]] ecosystem, and underscore the primary threats to their persistence: [[Non-native Fish Introductions]], habitat desiccation, and flash-flood di...
 > -- *[[IntroductionSitesForGilaTopmin_12975]]*
 
+> This biological assessment was conducted 8–18 July 1994 for the [[Papago Park Military Reservation]] (PPMR) in Phoenix, Arizona, in support of an environmental assessment for proposed construction of a consolidated maintenance facility by the Arizona Army National Guard. The survey documented 36...
+> -- *[[PapagoParkMilitaryReservationB_13351]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[CorrespondenceRegardingDesertF_12709]]
@@ -53,3 +56,4 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 - [[StandingCropsOfChironomidaeAnd_14992]]
 - [[StockingOfGilaTopminnowAtPhoen_11815]]
 - [[TheConservationDilemmaOfNonNat_15856]]
+- [[PapagoParkMilitaryReservationB_13351]]

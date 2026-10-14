@@ -14,7 +14,11 @@ I cannot provide an accurate definition of "White-Winged Dove" in the context of
 > **Gila River Riparian Corridor (Phreatophyte Zone):** - Dominant vegetation: salt cedar (*Tamarix* sp.) and mesquite (*Prosopis* sp.), forming a dense river-bottom habitat corridor from the [[San Carlos Indian Reservation]] to the Camelsback Dam site. - Functions as critical nesting, roosting, an...
 > -- *[[InvestigationOfProposedProject_1967_03_31]]*
 
+> This biological assessment was conducted 8–18 July 1994 for the [[Papago Park Military Reservation]] (PPMR) in Phoenix, Arizona, in support of an environmental assessment for proposed construction of a consolidated maintenance facility by the Arizona Army National Guard. The survey documented 36...
+> -- *[[PapagoParkMilitaryReservationB_13351]]*
+
 ## Mentioned In
 - [[ColoradoRiverStudies_1966]]
 - [[GilaAndSaltRiverClearingAndCha_1967_03_31]]
 - [[InvestigationOfProposedProject_1967_03_31]]
+- [[PapagoParkMilitaryReservationB_13351]]

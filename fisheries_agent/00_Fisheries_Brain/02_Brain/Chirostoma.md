@@ -23,7 +23,11 @@ Chirostoma is a genus of freshwater silverside fishes (family Atherinopsidae) en
 > - The Mesa Central fish fauna (~80 species) is analogized to the Galápagos as a natural laboratory for studying gene–geography interactions in speciation. - Three testable hypotheses were proposed: (1) shared geologic events underlie diversification across [[Goodeidae]], [[Algansea]]/[[Yuriria]],...
 > -- *[[MolecularEvolutionAndBiogeogra_1994_06_28]]*
 
+> This research proposal by Clyde D. Barbour (University of Utah) requests two years of funding from the National Science Foundation to conduct systematic and evolutionary studies of fishes endemic to the [[Mesa Central]] of Mexico. The project focuses on the family [[Goodeidae]] (viviparous...
+> -- *[[ProposalForSupportOfResearchOn_15568]]*
+
 ## Mentioned In
 - [[LetterFromClydeBarbourRegardin_1996_11_06]]
 - [[MolecularEvolutionAndBiogeogra_1994_06_28]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
+- [[ProposalForSupportOfResearchOn_15568]]

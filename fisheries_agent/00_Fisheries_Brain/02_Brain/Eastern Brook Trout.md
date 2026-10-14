@@ -23,6 +23,9 @@ Eastern Brook Trout (*Salvelinus fontinalis*) is a coldwater salmonid species na
 > - **Habitat**: Steep, high-gradient headwater streams; strongly associated with gradients ranging 167–394 ft/mile (vs. ~35 ft/mile in lower river). Substrate dominated by rubble and large gravel; minimal pool habitat (average depth 0.74 ft, Brown 1935). - **Distribution within drainage**: Concent...
 > -- *[[LifeHistoryOfTheCutthroatTrout_1951]]*
 
+> During the 1964-65 fiscal year, California Department of Fish and Game hatcheries planted a record-breaking **60,129,973 fish** totaling **1,879,769 pounds**, though total weight was 207,290 pounds less than the previous year. The December 1964 flood destroyed [[Cedar Creek Hatchery]] on the [[Eel...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14865]]*
+
 ## Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -37,3 +40,4 @@ Eastern Brook Trout (*Salvelinus fontinalis*) is a coldwater salmonid species na
 - [[TwoNewBloodFlukeParasitesOfTro_14426]]
 - [[TwoYearCreelCensusOfTheLittleS_1955]]
 - [[WhyHaveFishHatcheriesInCanadaS_11783]]
+- [[CaliforniaTroutSalmonAndWarmwa_14865]]

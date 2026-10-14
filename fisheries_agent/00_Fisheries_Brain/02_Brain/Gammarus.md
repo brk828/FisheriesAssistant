@@ -23,6 +23,9 @@ Gammarus is a genus of freshwater and brackish-water amphipod crustaceans that p
 > - **[[Humpback Chub]] (*Gila cypha*)**: Population estimates reported for individuals **>150 mm total length (TL)**; length/age/growth relationships (Figure 5.5) noted as valuable; small juvenile size classes ("very small juvenile chubs") flagged for standardized life-stage terminology (larvae vs...
 > -- *[[MemorandumOnReviewOfDraftAnnua_1994_02_10]]*
 
+> This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
+> -- *[[AProposalToMonitorTheEffectsOf_17697]]*
+
 ## Mentioned In
 - [[AnfipodesTroglobios_1951]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -39,3 +42,4 @@ Gammarus is a genus of freshwater and brackish-water amphipod crustaceans that p
 - [[TheImportanceOfTheAcanthocepha_1963]]
 - [[TheIonicCompositionOfSomeLowla_11054]]
 - [[TheOccurrenceAndDist_19880]]
+- [[AProposalToMonitorTheEffectsOf_17697]]

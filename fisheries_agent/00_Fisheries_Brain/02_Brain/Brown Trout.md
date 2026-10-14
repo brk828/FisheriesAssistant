@@ -26,6 +26,12 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
 > -- *[[AddendumToTheMarchEnvironmenta_11496]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
+> During the 1964-65 fiscal year, California Department of Fish and Game hatcheries planted a record-breaking **60,129,973 fish** totaling **1,879,769 pounds**, though total weight was 207,290 pounds less than the previous year. The December 1964 flood destroyed [[Cedar Creek Hatchery]] on the [[Eel...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14865]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -147,3 +153,5 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[WinterObservationsOnBottomOrga_16187]]
 - [[AddendumToTheMarchEnvironmenta_11496]]
+- [[EndangeredAndThreatenedWildlif_11551]]
+- [[CaliforniaTroutSalmonAndWarmwa_14865]]

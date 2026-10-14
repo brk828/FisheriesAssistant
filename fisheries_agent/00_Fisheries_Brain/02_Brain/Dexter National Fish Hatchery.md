@@ -29,6 +29,12 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
 > -- *[[EvaluationsAndSuggestionsConce_16480]]*
 
+> This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
+> -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
+
+> This report documents the status of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae stocked into eight tanks at [[Buenos Aires National Wildlife Refuge]] in March 1989. Sampling conducted 17-18 April 1989 recovered fish from four of eight tanks (Pozo Nuevo, Mosca, Suffrido, Carrizo Dam), with...
+> -- *[[SummaryOfRazorbackSuckerCollec_19428]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -158,3 +164,5 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
 - [[ListedAndCandidateSpeciesRespo_11941]]
 - [[EvaluationsAndSuggestionsConce_16480]]
+- [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[SummaryOfRazorbackSuckerCollec_19428]]

@@ -26,6 +26,9 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -118,3 +121,4 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[WesternWaterPolicyFromReclamat_1999_06_08]]
 - [[Zoogeography_18180]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]

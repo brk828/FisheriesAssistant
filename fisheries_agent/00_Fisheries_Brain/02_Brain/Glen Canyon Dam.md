@@ -26,6 +26,9 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
+> -- *[[AProposalToMonitorTheEffectsOf_17697]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -135,3 +138,4 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[TransmittalOfNavajoNationLittl_1992_11_17]]
 - [[Untitled_1991_11_04]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[AProposalToMonitorTheEffectsOf_17697]]

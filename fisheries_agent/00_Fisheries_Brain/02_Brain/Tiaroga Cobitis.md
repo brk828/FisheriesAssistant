@@ -23,6 +23,9 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 > **Federally Listed Species (Team Responsibility):** | Species | Common Reference | |---|---| | [[Meda Fulgida]] | Spikedace | | [[Tiaroga Cobitis]] | Loach Minnow | | [[Poeciliopsis Occidentalis Occidentalis]] | Gila Topminnow (Gila subspecies) | | [[Poeciliopsis Occidentalis Sonoriensis]] | Gila...
 > -- *[[DesertFishesRecoveryTeamMember_1999_01_31]]*
 
+> This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
+> -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -52,3 +55,4 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 - [[SuggestedAgendaItemsForDesertF_1988_12_06]]
 - [[TripReportAravaipaCreekEastEnd_1993_10_25]]
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
+- [[ProgressAndLackOfSameNextMeeti_13734]]

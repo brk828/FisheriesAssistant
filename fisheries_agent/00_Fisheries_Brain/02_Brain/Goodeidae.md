@@ -26,6 +26,9 @@ Goodeidae is a family of small, viviparous (live-bearing) freshwater fishes ende
 > The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
 > -- *[[EndangeredSpeciesInformationSy_14003]]*
 
+> This research proposal by Clyde D. Barbour (University of Utah) requests two years of funding from the National Science Foundation to conduct systematic and evolutionary studies of fishes endemic to the [[Mesa Central]] of Mexico. The project focuses on the family [[Goodeidae]] (viviparous...
+> -- *[[ProposalForSupportOfResearchOn_15568]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheAdultGoodeid_19652]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
@@ -47,3 +50,4 @@ Goodeidae is a family of small, viviparous (live-bearing) freshwater fishes ende
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[EndangeredSpeciesInformationSy_14003]]
+- [[ProposalForSupportOfResearchOn_15568]]

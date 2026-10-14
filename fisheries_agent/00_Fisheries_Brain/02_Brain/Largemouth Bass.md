@@ -38,6 +38,18 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
 > -- *[[EvaluationsAndSuggestionsConce_16480]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
+> During the 1964-65 fiscal year, California Department of Fish and Game hatcheries planted a record-breaking **60,129,973 fish** totaling **1,879,769 pounds**, though total weight was 207,290 pounds less than the previous year. The December 1964 flood destroyed [[Cedar Creek Hatchery]] on the [[Eel...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14865]]*
+
+> This research proposal by Clyde D. Barbour (University of Utah) requests two years of funding from the National Science Foundation to conduct systematic and evolutionary studies of fishes endemic to the [[Mesa Central]] of Mexico. The project focuses on the family [[Goodeidae]] (viviparous...
+> -- *[[ProposalForSupportOfResearchOn_15568]]*
+
+> This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
+> -- *[[FederalAidToFishRestorationAnn_19654]]*
+
 ## Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -276,3 +288,7 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[ProductionOfTheThreadfinShadDo_15096]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[EvaluationsAndSuggestionsConce_16480]]
+- [[EndangeredAndThreatenedWildlif_11551]]
+- [[CaliforniaTroutSalmonAndWarmwa_14865]]
+- [[ProposalForSupportOfResearchOn_15568]]
+- [[FederalAidToFishRestorationAnn_19654]]

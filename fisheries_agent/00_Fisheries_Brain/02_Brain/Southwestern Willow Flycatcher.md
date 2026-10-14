@@ -23,6 +23,9 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 > - **Habitat type:** Big-river fish species dependent on **near-shore habitats** of the Lower Colorado River, historically shaped by natural hydrologic and geomorphic processes. - **Habitat degradation drivers:** - **Dam operations** have altered natural hydrologic regimes (flow, temperature, sedi...
 > -- *[[CommentsOnDraftBiologicalAsses_1996_05_15]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -51,3 +54,4 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 - [[SaltcedarAndBiologicalControls_12770]]
 - [[StipulationRegardingLivestockG_1998_04_16]]
 - [[WhatIsAmericanRiversDoingInThe_1997]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]

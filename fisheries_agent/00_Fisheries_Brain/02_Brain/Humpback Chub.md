@@ -29,6 +29,9 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
 > -- *[[EvaluationsAndSuggestionsConce_16480]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -374,3 +377,4 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[EvaluationsAndSuggestionsConce_16480]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]

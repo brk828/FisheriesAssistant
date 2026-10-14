@@ -23,6 +23,9 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 > This is a 1984 research proposal submitted by Dr. David L. Galat (Arizona State University) to the U.S. Fish & Wildlife Service, targeting management needs at the [[San Bernardino National Wildlife Refuge]] (SBNWR) in the Yaqui River Basin, Arizona. The proposal addresses two federally endangered...
 > -- *[[InteractionsAmongPoeciliopsisO_16885]]*
 
+> This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
+> -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AsianTapewormEradicationStrate_13118]]
@@ -51,3 +54,4 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 - [[RestorationProposalForSanBerna_13383]]
 - [[RevisionsOfTheDraftRioYaquiFis_1984_06_04]]
 - [[RioYaquiFishesCaptureAndTransp_1987_01_12]]
+- [[ProgressAndLackOfSameNextMeeti_13734]]

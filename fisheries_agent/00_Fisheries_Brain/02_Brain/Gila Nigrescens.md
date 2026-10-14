@@ -23,6 +23,9 @@ Gila nigrescens, commonly known as the Chihuahua chub, is a native cyprinid fish
 > - **[[Cyprinodon macularius]]**: Populations in the Santa Clara Slough (Sonora/Baja California del Norte) persist in modified thermal/canal habitats; sympatric with invasive **Tilapia aurea** and **Tilapia mossambica**. - **[[Gila elegans]] (Bonytail Chub)**: Captive stock at Dexter National Fish...
 > -- *[[MinutesOfTheDesertFishesRecove_1986_10_13]]*
 
+> This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
+> -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
+
 ## Mentioned In
 - [[GilaPandoraACyprinidNewToTheTe_15392]]
 - [[LetterRegardingChihuahuaChubRe_1987_12_30]]
@@ -30,3 +33,4 @@ Gila nigrescens, commonly known as the Chihuahua chub, is a native cyprinid fish
 - [[MemorandumOnDesertFishesRecove_1986_02_20]]
 - [[MinutesOfTheDesertFishesRecove_1986_10_13]]
 - [[RioYaquiFishesCaptureAndTransp_1987_01_12]]
+- [[ProgressAndLackOfSameNextMeeti_13734]]

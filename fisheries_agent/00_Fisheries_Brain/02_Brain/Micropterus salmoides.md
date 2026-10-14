@@ -23,6 +23,12 @@ auto_enriched: true
 > **Apex Predators**: *[[Micropterus salmoides]]* (Largemouth Bass, non-native but established) and the piscivore morph of *C. minckleyi*, limited to pools with sufficient habitat volume.
 > -- *[[Cuatro Ciénegas Food Web]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
+> This research proposal by Clyde D. Barbour (University of Utah) requests two years of funding from the National Science Foundation to conduct systematic and evolutionary studies of fishes endemic to the [[Mesa Central]] of Mexico. The project focuses on the family [[Goodeidae]] (viviparous...
+> -- *[[ProposalForSupportOfResearchOn_15568]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -44,3 +50,5 @@ auto_enriched: true
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[WaterTemperatureCriteriaToProt_15269]]
 - [[WhyTheMassachusettsDivisionOfF_15491]]
+- [[EndangeredAndThreatenedWildlif_11551]]
+- [[ProposalForSupportOfResearchOn_15568]]

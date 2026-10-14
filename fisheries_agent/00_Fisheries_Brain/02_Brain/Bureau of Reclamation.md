@@ -32,6 +32,15 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
+> The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
+> -- *[[RequestedMeetingnativeFishWork_15023]]*
+
+> This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
+> -- *[[FederalAidToFishRestorationAnn_19654]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -102,3 +111,6 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]
+- [[RequestedMeetingnativeFishWork_15023]]
+- [[FederalAidToFishRestorationAnn_19654]]

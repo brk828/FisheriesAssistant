@@ -23,6 +23,9 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 > This paper presents preliminary results of an ongoing (initiated 1987) macroinvertebrate and habitat monitoring program at [[Box Canyon Creek]], the eleventh-largest spring in the United States, located in Southern Idaho and designated an Area of Critical Environmental Concern (ACEC) under Bureau...
 > -- *[[OnGoingMacroinvertebrateAnalys_1989_11_16]]*
 
+> This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
+> -- *[[FederalAidToFishRestorationAnn_19654]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[EvaluationOfSpringChinookMigra_1969]]
@@ -35,3 +38,4 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
 - [[TheCurrentStatusOfTheBruneauHo_1989_11_16]]
 - [[TribalAndTreatyObligationsIssu_18113]]
+- [[FederalAidToFishRestorationAnn_19654]]

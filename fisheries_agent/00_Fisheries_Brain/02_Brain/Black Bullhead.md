@@ -26,6 +26,9 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
@@ -98,3 +101,4 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[EndangeredAndThreatenedWildlif_11551]]

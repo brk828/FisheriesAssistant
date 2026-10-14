@@ -26,6 +26,12 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
+> -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
+
+> The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
+> -- *[[RequestedMeetingnativeFishWork_15023]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -200,3 +206,5 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[VerdeRiverTemperatureRecorderD_1992_04_02]]
 - [[VirginRiverMonitoringArizonaSu_1994_05_16]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[RequestedMeetingnativeFishWork_15023]]

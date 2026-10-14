@@ -23,6 +23,9 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 > **Native species (habitat associations):** - *Gila cypha* (Humpback Chub) — Main river channel specialist; rare, found in low numbers. - *Rhinichthys osculus* (Speckled Dace) — Tributary-dominant; documented in [[Bright Angel Creek]], [[Shinumo Creek]], [[Tapeats Creek]], and [[Diamond Creek]]; r...
 > -- *[[FishesCollectedOnTheGrandCanyo_15402]]*
 
+> This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
+> -- *[[AProposalToMonitorTheEffectsOf_17697]]*
+
 ## Mentioned In
 - [[EffectsOfInterimFlowsFromGlenC_13655]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
@@ -31,3 +34,4 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 - [[FishesCollectedOnTheGrandCanyo_15402]]
 - [[TheEffectsOfGlenCanyonAndHoove_12550]]
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
+- [[AProposalToMonitorTheEffectsOf_17697]]

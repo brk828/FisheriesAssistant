@@ -23,6 +23,12 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > - A final [[Biological Opinion]] (issued April 15, 1994) concluded that CAP water transport/delivery to the Gila River Basin would **jeopardize** the continued existence of four listed/candidate fish species: [[Spikedace]], [[Loach Minnow]], [[Gila Topminnow]], and [[Razorback Sucker]]. - A **Rea...
 > -- *[[MeetingOnNativeFishConservatio_1994_09_13]]*
 
+> This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
+> -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
+
+> The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
+> -- *[[RequestedMeetingnativeFishWork_15023]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -45,3 +51,5 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[TheStrategyAndDesignOfTheEffec_1997_11_13]]
 - [[TinyNativeFishMakeBigSplash_1995_06_06]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
+- [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[RequestedMeetingnativeFishWork_15023]]

@@ -26,6 +26,9 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
 > -- *[[InformalSectionConsultationReP_13297]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -109,3 +112,4 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[TheStatusOfTheFishFaunaOfTheLa_14849]]
 - [[WhatIsAmericanRiversDoingInThe_1997]]
 - [[InformalSectionConsultationReP_13297]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]

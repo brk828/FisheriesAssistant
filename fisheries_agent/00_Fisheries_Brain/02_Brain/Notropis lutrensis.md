@@ -23,6 +23,9 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 > | Taxon | N (localities) | Multivariate Area (A) | Classification | |---|---|---|---| | [[Notropis Lutrensis]] | 78 | 741 | Common-generalist | | [[Campostoma Anomalum]] | 38 | 536 | Common-generalist (limited in turbid environments) | | [[Notropis Stramineus]] | 31 | 448 | Common-generalist (con...
 > -- *[[DistributionOfMidwesternFishes_1978]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -40,3 +43,4 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 - [[RelativeVariabilityOfHybridsBe_14215]]
 - [[SomeEffectsOfANeutralMixtureOf_1969_06_11]]
 - [[ToleranceOfHeadwaterVsMainstre_15191]]
+- [[EndangeredAndThreatenedWildlif_11551]]

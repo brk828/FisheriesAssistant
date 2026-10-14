@@ -17,6 +17,10 @@ auto_enriched: true
 > - **Habitat type:** Riparian stream corridor within Turkey Creek, part of the West Turkey Creek Allotment in the Chiricahua Mountains portion of the Coronado National Forest. - **Co-occurring species of conservation concern:** [[Lesser Long-Nosed Bat]] (*Leptonycteris curasoae yerbabuenae*), whic...
 > -- *[[SouthwestCenterSSupplementalAn_18100]]*
 
+> This biological assessment was conducted 8–18 July 1994 for the [[Papago Park Military Reservation]] (PPMR) in Phoenix, Arizona, in support of an environmental assessment for proposed construction of a consolidated maintenance facility by the Arizona Army National Guard. The survey documented 36...
+> -- *[[PapagoParkMilitaryReservationB_13351]]*
+
 ## Mentioned In
 - [[EndangeredSpeciesActSectionCon_1994_12_06]]
 - [[SouthwestCenterSSupplementalAn_18100]]
+- [[PapagoParkMilitaryReservationB_13351]]

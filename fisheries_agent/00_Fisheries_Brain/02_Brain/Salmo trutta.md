@@ -23,6 +23,9 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 > - **Native fauna**: Described as small-bodied, "non-competitive," and adapted to **stream- and warm-water** habitats. - **Non-native established fishes**: Generally adapted to **lake/reservoir** conditions; [[Salmonidae|salmonids]] specifically are **cold-adapted**, though capable of tolerating w...
 > -- *[[LetterToChrisSeldinRegardingNo_1994_01_17]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
@@ -38,3 +41,4 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 - [[SwimmingSpeedOfTheWesternSucke_14423]]
 - [[THE FOOD OF TROUT (SALMO TRUITA) IN A DARTMOOR STREAM]]
 - [[TheUseOfTheScalesOfTheBrownTro_12553]]
+- [[EndangeredAndThreatenedWildlif_11551]]

@@ -14,7 +14,11 @@ Pit tags, or Passive Integrated Transponder tags, are small electronic microchip
 > - **Study Duration:** Initiated 1986; ongoing as of FY93. - **PIT Tag Distribution:** 850 [[PIT Tags]] cataloged and distributed to cooperating researchers in FY93 (400 newly purchased; 450 carried over from FY92) for tagging studies on endangered fishes. - **Tagging Data Compilation:** All endan...
 > -- *[[DatabaseManagementProgramColor_1993]]*
 
+> The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
+> -- *[[RequestedMeetingnativeFishWork_15023]]*
+
 ## Mentioned In
 - [[DatabaseManagementProgramColor_1993]]
 - [[GlenCanyonEnvironmentalStudies_1992_09_13]]
 - [[LetterToDavidLWegnerRegardingP_1991_08_12]]
+- [[RequestedMeetingnativeFishWork_15023]]

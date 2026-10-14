@@ -23,6 +23,9 @@ I apologize, but I cannot provide a definition for "Stampede Reservoir" based on
 > This 1987 U.S. Fish and Wildlife Service report by Chester C. Buchanan establishes minimum flow and lake-elevation requirements for two imperiled Lahontan Basin fishes: the Endangered [[Cui-ui]] and the Threatened [[Lahontan Cutthroat Trout]], both obligate stream spawners dependent on the lower ...
 > -- *[[PyramidLakeInflowRequiredForCu_1987_05_15]]*
 
+> This report documents the 1987 spawning runs of the endangered [[Cui-ui]] (*Chasmistes cujus*) and threatened [[Lahontan Cutthroat Trout]] (*Salmo clarki henshawi*) at [[Marble Bluff Fish Facility]], [[Nixon, Nevada]]. The cui-ui spawning run totaled 5,301 individuals, representing 45 percent of...
+> -- *[[CuiuiAndLahontanCutthroatTrout_13865]]*
+
 ## Mentioned In
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
 - [[CuiUiRecoveryPlan_1994_08_29]]
@@ -32,3 +35,4 @@ I apologize, but I cannot provide a definition for "Stampede Reservoir" based on
 - [[PotentialFishHabitatBenefitsIn_18308]]
 - [[PyramidLakeInflowRequiredForCu_1987_05_15]]
 - [[TitleAnalysisOfTheCaseByUSFish_14626]]
+- [[CuiuiAndLahontanCutthroatTrout_13865]]

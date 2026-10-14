@@ -23,6 +23,12 @@ Buenos Aires National Wildlife Refuge is a U.S. Fish and Wildlife Service facili
 > This field report documents a September 1987 survey conducted by Arizona State University personnel at [[Buenos Aires National Wildlife Refuge]], Arizona, with two primary objectives: (1) assessing stock status and growth of reintroduced [[Razorback Sucker]] (*Xyrauchen texanus*) populations acro...
 > -- *[[SeptemberSamplingAtBuenosAires_1987_09_04]]*
 
+> This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
+> -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
+
+> This report documents the status of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae stocked into eight tanks at [[Buenos Aires National Wildlife Refuge]] in March 1989. Sampling conducted 17-18 April 1989 recovered fish from four of eight tanks (Pozo Nuevo, Mosca, Suffrido, Carrizo Dam), with...
+> -- *[[SummaryOfRazorbackSuckerCollec_19428]]*
+
 ## Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[LetterToDougMcqueenSupportingN_1986_06_27]]
@@ -39,3 +45,5 @@ Buenos Aires National Wildlife Refuge is a U.S. Fish and Wildlife Service facili
 - [[StockingOfEndangeredBonytailCh_1986_09_18]]
 - [[ThreatenedAndEndangeredFisheri_1987]]
 - [[UtilizationOfPondsAtBuenosAire_1986_06_06]]
+- [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[SummaryOfRazorbackSuckerCollec_19428]]

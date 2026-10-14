@@ -23,6 +23,9 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 > **Light and primary production constraints:** - Turbidity limits autochthonous primary production: the river is turbid ~60% of the time below the Paria River, ~80% below the Little Colorado River (LCR), and even higher below [[Kanab Creek]]. - Sand substrates in eddies are too unstable for persis...
 > -- *[[OrganicMatterRetentionInEddies_17089]]*
 
+> This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
+> -- *[[AProposalToMonitorTheEffectsOf_17697]]*
+
 ## Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -37,3 +40,4 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 - [[StudiesOfTheBiologyOfTheChubsG_12656]]
 - [[TheComparativeFoodHabitsOfTheC_1950_07_15]]
 - [[TheEffectsOfBiologicalCommunit_12165]]
+- [[AProposalToMonitorTheEffectsOf_17697]]

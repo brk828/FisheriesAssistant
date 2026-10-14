@@ -17,7 +17,11 @@ I appreciate your detailed request, but I must note that the Flat-Tailed Horned 
 > - **Dam impacts on riparian/aquatic habitat**: The source document (as quoted) states that "the placement of dams, large or small, inundates riparian habitats and creates reservoirs or ponds and blocks migration upstream from the location" — a direct reference to barriers affecting migratory aqua...
 > -- *[[LetterRegardingBiologicalAndCo_1997_07_22]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
 ## Mentioned In
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
 - [[CommentsOnTheUSFishAndWildlife_1997_07_08]]
 - [[LetterRegardingBiologicalAndCo_1997_07_22]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]

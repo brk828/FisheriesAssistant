@@ -23,6 +23,9 @@ The Redside Shiner is a small cyprinid fish native to western North American riv
 > 1. **Primary threat**: Habitat destruction/modification via mainstream and tributary dam construction, impoundment, and irrigation diversion — converting free-flowing river habitat into reservoirs and cold tailwaters unsuitable for spawning. 2. **Reservoir population dynamics**: Both species show...
 > -- *[[ProposedRuleToListBonytailChub_12003]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -38,3 +41,4 @@ The Redside Shiner is a small cyprinid fish native to western North American riv
 - [[ResourceOverlapOfAgeColoradoSq_15246]]
 - [[TechnicalReportAnalyzingTheImp_14024]]
 - [[TheFishesOfTheVirginRiverATrib_14013]]
+- [[EndangeredAndThreatenedWildlif_11551]]

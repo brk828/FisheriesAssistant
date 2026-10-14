@@ -23,6 +23,9 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 > - **Habitat use**: Razorback suckers were found in both riverine (river mile 35-45) and lacustrine (reservoir) habitats, indicating the species utilizes a range of habitat types within the regulated Colorado River/[[Lake Mohave]] system. - **Movement/dispersal**: Three hatchery-raised razorback s...
 > -- *[[TripReportLakeMohave_1993_03_26]]*
 
+> The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
+> -- *[[RequestedMeetingnativeFishWork_15023]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -43,3 +46,4 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 - [[ScheduledMeetingNativeFishWork_1990_06_04]]
 - [[TripReportLakeMohave_1993_03_26]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
+- [[RequestedMeetingnativeFishWork_15023]]

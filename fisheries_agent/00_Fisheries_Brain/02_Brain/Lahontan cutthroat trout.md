@@ -26,6 +26,9 @@ The Lahontan Cutthroat Trout is a threatened native salmonid species endemic to 
 > This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
 > -- *[[AConservationorientedClassific_15455]]*
 
+> This report documents the 1987 spawning runs of the endangered [[Cui-ui]] (*Chasmistes cujus*) and threatened [[Lahontan Cutthroat Trout]] (*Salmo clarki henshawi*) at [[Marble Bluff Fish Facility]], [[Nixon, Nevada]]. The cui-ui spawning run totaled 5,301 individuals, representing 45 percent of...
+> -- *[[CuiuiAndLahontanCutthroatTrout_13865]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -44,3 +47,4 @@ The Lahontan Cutthroat Trout is a threatened native salmonid species endemic to 
 - [[SubpermitAuthorizationForWound_1989_06_06]]
 - [[TwoNewBloodFlukeParasitesOfTro_14426]]
 - [[AConservationorientedClassific_15455]]
+- [[CuiuiAndLahontanCutthroatTrout_13865]]

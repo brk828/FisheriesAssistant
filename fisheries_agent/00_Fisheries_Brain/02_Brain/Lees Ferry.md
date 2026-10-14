@@ -23,6 +23,9 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 > - **[[Humpback Chub]]** ("chub"): A long-lived cyprinid species with multi-year recruitment cycles; young-of-year exhibit strong association with the [[Little Colorado River]] (LCR) as nursery habitat, timing their presence there through at least April. - **[[Flannelmouth Sucker]]** and **[[Blueh...
 > -- *[[RecommendationForAHighDischarg_1993_07_19]]*
 
+> This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
+> -- *[[AProposalToMonitorTheEffectsOf_17697]]*
+
 ## Mentioned In
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
 - [[FlowModificationsToTheGlenCany_18321]]
@@ -32,3 +35,4 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 - [[RecommendationForAHighDischarg_1993_07_19]]
 - [[RedsideShinerSpecimenLeesFerry_1996_02_20]]
 - [[TheEffectsOfDamOperationsOnAqu_1991]]
+- [[AProposalToMonitorTheEffectsOf_17697]]

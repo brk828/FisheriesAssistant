@@ -20,9 +20,13 @@ East Clear Creek is a tributary stream system within the Little Colorado River w
 > - **Habitat type:** Riparian and aquatic stream habitat within the [[Little Colorado River]] watershed, specifically the [[East Clear Creek]] system and its tributaries on the [[Coconino National Forest]]. - **Distribution:** Endemic to portions of the Little Colorado River drainage in Arizona; o...
 > -- *[[LetterToWLMinckleyOnLittleColo_1987_01_26]]*
 
+> The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
+> -- *[[EndangeredAndThreatenedWildlif_11551]]*
+
 ## Mentioned In
 - [[LetterToWLMinckleyOnLittleColo_1987_01_26]]
 - [[LittleColoradoRiverSpinedaceSu_1991_07_29]]
 - [[MitochondrialDnaVariationWithi_1993_09_14]]
 - [[RequestToAmendCommissionOrderF_1997_09_30]]
 - [[StatusOfGeneticAnalysisOfSpine_1993_03_02]]
+- [[EndangeredAndThreatenedWildlif_11551]]

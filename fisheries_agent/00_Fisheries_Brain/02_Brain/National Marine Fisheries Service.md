@@ -23,6 +23,9 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This draft policy (April 12, 1994), jointly developed by the [[U.S. Fish and Wildlife Service]] and the [[National Marine Fisheries Service]], establishes unified guidance for the **controlled propagation** of species listed under the [[Endangered Species Act]] (ESA) of 1973. It aims to (1) stand...
 > -- *[[InteragencyCooperativePolicyFo_1994_04_12]]*
 
+> This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
+> -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -39,3 +42,4 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[ReportFromWashingtonEndangered_11988]]
 - [[StationProfileOfTheLittleWhite_1993]]
 - [[TribalAndTreatyObligationsIssu_18113]]
+- [[ReCommentsOnFinalBiologicalAnd_12761]]

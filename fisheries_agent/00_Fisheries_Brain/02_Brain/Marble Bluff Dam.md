@@ -17,9 +17,13 @@ Marble Bluff Dam is a water management structure on the lower Truckee River in N
 > - **Key infrastructure discussed:** - **[[Marble Bluff Dam]]** — a low-head dam on the lower Truckee River constructed to aid passage of cui-ui and cutthroat trout to Pyramid Lake, equipped with fish-handling facilities. - **[[Pyramid Lake Fishway]]** — a constructed fish passage structure allowi...
 > -- *[[RecommendationsForMarbleBluffF_1989_11_08]]*
 
+> This report documents the 1987 spawning runs of the endangered [[Cui-ui]] (*Chasmistes cujus*) and threatened [[Lahontan Cutthroat Trout]] (*Salmo clarki henshawi*) at [[Marble Bluff Fish Facility]], [[Nixon, Nevada]]. The cui-ui spawning run totaled 5,301 individuals, representing 45 percent of...
+> -- *[[CuiuiAndLahontanCutthroatTrout_13865]]*
+
 ## Mentioned In
 - [[CuiUiRecoveryTeamMeetingMinute_1990_01_12]]
 - [[CuiUiRecoveryTeamMeeting_1990_11_29]]
 - [[MarbleBluffFishFacilityStation_1994_02_04]]
 - [[RecommendationsForMarbleBluffF_1989_11_08]]
 - [[StationProfileOfTheLahontanNat_19542]]
+- [[CuiuiAndLahontanCutthroatTrout_13865]]
