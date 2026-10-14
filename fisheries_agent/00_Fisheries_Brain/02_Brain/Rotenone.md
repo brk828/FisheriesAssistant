@@ -23,6 +23,9 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 > - **Stocking ratio**: Standard Ohio practice stocks 100 fingerlings each of [[Largemouth Bass]] and [[Bluegill]] per acre. - **Harvest ratio for balance**: Anglers should remove 12 bluegills for every bass removed, with all bluegills kept (none released), to maintain population balance. - **Harve...
 > -- *[[FarmPondManagement_13979]]*
 
+> The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
+> -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
+
 ## Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -51,3 +54,4 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 - [[TheUseOfRotenoneAndElectrofish_17705]]
 - [[TheUseOfRotenoneOnCityWaterSup_12653]]
 - [[UseOfAntimycinForSelectiveThin_14083]]
+- [[NativeFishWorkGroupMeetingMinu_15000]]

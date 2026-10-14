@@ -26,6 +26,12 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
 > -- *[[InformalSectionConsultationReP_13297]]*
 
+> The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
+> -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
+
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -45,3 +51,5 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[ReportToTheColoradoR_19845]]
 - [[TheStatusOfTheFishFaunaOfTheLa_14849]]
 - [[InformalSectionConsultationReP_13297]]
+- [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[TransmittalRegardingReasonable_19809]]

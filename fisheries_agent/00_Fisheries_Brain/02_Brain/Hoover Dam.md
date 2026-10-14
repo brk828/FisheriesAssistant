@@ -26,6 +26,9 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 > This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
 > -- *[[InformalSectionConsultationReP_13297]]*
 
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -66,3 +69,4 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 - [[TheStatusOfTheFishFaunaOfTheLa_14849]]
 - [[USDryingUpMexicanWetlands_1996_04_30]]
 - [[InformalSectionConsultationReP_13297]]
+- [[TransmittalRegardingReasonable_19809]]

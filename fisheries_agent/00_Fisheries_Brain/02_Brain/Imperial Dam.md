@@ -20,6 +20,9 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > - **Temperature:** 85-90°F in summer; 50-55°F in winter (minimum). - **Dissolved Oxygen:** Adequate across all lakes, ranging up to 6.0 ppm. - **pH:** Fairly stable, around 8.0-8.5. - Sluicing operations at [[Imperial Dam]] (1947/48–1958, intermittently through 1960) to remove silt occurred conti...
 > -- *[[ProgressReportLowerColoradoRiv_14984]]*
 
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[CommentsOnTheProposedNonessent_1987_10_07]]
 - [[HabitatUseByRazorbackSuckersRe_1995]]
@@ -27,3 +30,4 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[RazorbackSuckersFoundInGallean_1993_12_17]]
 - [[ReCommentsOnTheFederalRegister_11571]]
 - [[StockingOfSportFishSpeciesRain_1994_06_16]]
+- [[TransmittalRegardingReasonable_19809]]

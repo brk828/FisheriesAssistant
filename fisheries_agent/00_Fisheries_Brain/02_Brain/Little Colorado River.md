@@ -29,6 +29,9 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
 > -- *[[AProposalToMonitorTheEffectsOf_17697]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -149,3 +152,4 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
+- [[LectureNotesFromBiologyClass_13784]]

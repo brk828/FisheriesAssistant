@@ -23,6 +23,9 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 > The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
 > -- *[[RequestedMeetingnativeFishWork_15023]]*
 
+> The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
+> -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
+
 ## Mentioned In
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -38,3 +41,4 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
 - [[RequestedMeetingnativeFishWork_15023]]
+- [[NativeFishWorkGroupMeetingMinu_15000]]

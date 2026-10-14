@@ -32,6 +32,12 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
 > -- *[[RequestedMeetingnativeFishWork_15023]]*
 
+> The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
+> -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
+
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -64,3 +70,5 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
 - [[RequestedMeetingnativeFishWork_15023]]
+- [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[TransmittalRegardingReasonable_19809]]

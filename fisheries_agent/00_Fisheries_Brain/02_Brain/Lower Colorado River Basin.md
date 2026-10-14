@@ -23,6 +23,9 @@ The Lower Colorado River Basin refers to the downstream portion of the Colorado 
 > - **Habitat type**: Historically dependent on lotic (free-flowing, turbid, warm-water) mainstem river habitats; the [[Lower Colorado River Basin]] has been converted predominantly to lacustrine (reservoir) habitat due to large dam infrastructure, a key distinction raised relative to the Upper Bas...
 > -- *[[CompilationOfCommentsOnBigRive_11763]]*
 
+> This memorandum from the U.S. Fish and Wildlife Service Regional Director announces a [[Colorado River Fishes Recovery Team]] meeting scheduled for February 23-24, 1989, in Phoenix, Arizona. The meeting's purpose is to resolve outstanding technical issues concerning recovery plans for three...
+> -- *[[RecoveryTeamMeetingFebruary_14137]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[BriefingNotesEndangeredFishInC_14950]]
@@ -53,3 +56,4 @@ The Lower Colorado River Basin refers to the downstream portion of the Colorado 
 - [[SexualDimorphismInTheAdultRazo_1974_11_15]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[WesternAreaPowerAdministration_19148]]
+- [[RecoveryTeamMeetingFebruary_14137]]

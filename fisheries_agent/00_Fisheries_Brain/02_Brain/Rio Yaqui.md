@@ -23,6 +23,9 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 > - **[[San Bernardino National Wildlife Refuge]] / [[Rio Yaqui]] system**: Threatened by groundwater pumping for agricultural development in Sonora, Mexico (crop shift from alfalfa to chiles, land clearing for buffelgrass). The refuge is installing well-monitoring systems to track pumping impacts....
 > -- *[[FinalMinutesOfTheFebruaryMeeti_1993_07_20]]*
 
+> This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
+> -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -45,3 +48,4 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 - [[SomeAspectsOfBiologyOfTheLongf_1971_05_25]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[ZoogeographicalAnalysisAndRevi_15920]]

@@ -26,6 +26,15 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
+> This memorandum from the U.S. Fish and Wildlife Service Regional Director announces a [[Colorado River Fishes Recovery Team]] meeting scheduled for February 23-24, 1989, in Phoenix, Arizona. The meeting's purpose is to resolve outstanding technical issues concerning recovery plans for three...
+> -- *[[RecoveryTeamMeetingFebruary_14137]]*
+
+> This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
+> -- *[[AlternativeApproachesToHcpsFor_16735]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -310,3 +319,6 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[WillowBeachRazorbackSuckers_1994_03_05]]
 - [[YampaRiverChannelMonitoring_1993]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[LectureNotesFromBiologyClass_13784]]
+- [[RecoveryTeamMeetingFebruary_14137]]
+- [[AlternativeApproachesToHcpsFor_16735]]

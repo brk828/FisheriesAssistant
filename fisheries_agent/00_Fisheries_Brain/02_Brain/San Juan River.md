@@ -26,6 +26,9 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 > These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
 ## Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -50,3 +53,4 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 - [[TheTreeRingRecordOfSevereSusta_20106]]
 - [[TopTenFisheriesActiv_1996_10_14]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[LectureNotesFromBiologyClass_13784]]

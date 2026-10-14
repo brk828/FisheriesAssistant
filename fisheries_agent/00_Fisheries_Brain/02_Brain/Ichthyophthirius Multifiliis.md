@@ -23,6 +23,9 @@ Ichthyophthirius multifiliis, commonly known as "ich," is a parasitic ciliate pr
 > - **10 parasite species / 6 genera** recovered from 7 native fish species in Aravaipa Creek (1980–1981 seasonal survey). - **[[Ichthyophthirius Multifiliis]]** is maintained in the creek primarily via *Catostomus insignis*, whose pool-dwelling, sluggish habits favor persistent parasite associatio...
 > -- *[[EcologicalNotesOnParasitesOfFi_1982]]*
 
+> This annual report summarizes research activities conducted during 1966 by multiple hydrobiological, ichthyological, fisheries, fish disease, and waterfowl research units affiliated with the [[Natural History Club]] in Brno, Czechoslovakia. The report covers work by university departments, Academy...
+> -- *[[HydrobiologicalAndIchthyologic_12963]]*
+
 ## Mentioned In
 - [[AKeyToTheCommonParasiticProtoz_1966_03_01]]
 - [[EcologicalNotesOnParasitesOfFi_1982]]
@@ -32,3 +35,4 @@ Ichthyophthirius multifiliis, commonly known as "ich," is a parasitic ciliate pr
 - [[StationProfileOfKooskiaNationa_19543]]
 - [[StationProfileOfWhiteRiverNati_1993]]
 - [[TheGrassCarp_11260]]
+- [[HydrobiologicalAndIchthyologic_12963]]

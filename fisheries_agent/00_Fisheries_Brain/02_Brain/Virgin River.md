@@ -23,6 +23,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 > - **[[Lake Mohave]] (Arizona-Nevada)**: Primary habitat for the remnant wild [[Razorback Sucker]] population and also supports [[Bonytail]] (*Gila elegans*). This reservoir on the lower [[Colorado River]] is characterized by **low productivity**, which is hypothesized to starve razorback sucker l...
 > -- *[[DocumentsRelatingToSubpermitRe_13803]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -80,3 +83,4 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[VirginSpinedaceProposedAsThrea_1994_05_28]]
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[WoundfinTransferFromDexterNati_1993_11_03]]
+- [[LectureNotesFromBiologyClass_13784]]

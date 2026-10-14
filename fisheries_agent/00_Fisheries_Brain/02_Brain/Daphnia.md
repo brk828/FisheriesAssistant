@@ -20,9 +20,13 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 > 1. **Ontogenetic decline in dorsal light response:** Statistical comparison (Student's t-test) of nymphs disequilibrated under alternating top vs. bottom lighting showed highly significant differences for early (t=18.8), middle (t=24.8), and penultimate (t=22.9) instars, but a much weaker (though...
 > -- *[[OnTheDorsalLightResponseInAMay_14496]]*
 
+> This annual report summarizes research activities conducted during 1966 by multiple hydrobiological, ichthyological, fisheries, fish disease, and waterfowl research units affiliated with the [[Natural History Club]] in Brno, Czechoslovakia. The report covers work by university departments, Academy...
+> -- *[[HydrobiologicalAndIchthyologic_12963]]*
+
 ## Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[Craspedacusta Sowerbii in Pymatuning Reservoir]]
 - [[CulturingFruitFliesDrosophilaA_14269]]
 - [[GrassCarpCtenopharyngodonIdell_19237]]
 - [[OnTheDorsalLightResponseInAMay_14496]]
+- [[HydrobiologicalAndIchthyologic_12963]]

@@ -23,6 +23,9 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > - **Decommissioning driver**: APS proposed surrender of its FERC license by 31 December 2004, which would restore full natural flow (~43 cfs) to Fossil Creek and enable ecosystem recovery — but would also make future in-stream construction and piscicide renovation far more difficult once flows ar...
 > -- *[[MinutesOfMeetingOfFisheryBiolo_2000_05_24]]*
 
+> This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
+> -- *[[AlternativeApproachesToHcpsFor_16735]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -41,3 +44,4 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[RequestForNationalParkServiceP_1994_04_22]]
 - [[ResolutionRelativeToTheListing_1985_02_22]]
 - [[RestoringNativeFishToTheLowerC_1999_04_08]]
+- [[AlternativeApproachesToHcpsFor_16735]]

@@ -26,6 +26,9 @@ The Gila River is a major tributary system in the southwestern United States tha
 > This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
 > -- *[[AddendumToTheMarchEnvironmenta_11496]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -158,3 +161,4 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[VerdeRiverFishResearch_1998_02_17]]
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[AddendumToTheMarchEnvironmenta_11496]]
+- [[LectureNotesFromBiologyClass_13784]]

@@ -23,6 +23,9 @@ Senator Wash Reservoir is a lentic (stillwater) impoundment along the Lower Colo
 > - **Initial cohort:** 25 razorback suckers (489–592 mm TL) tagged and released in December 1995 into the Imperial Division, distributed proportionally among habitat types - **Attrition timeline:** - 1 fish died within the first week post-release - 4 additional fish left the study area by the fift...
 > -- *[[ContinuedResearchOfTheLowerCol_1996_09_04]]*
 
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -33,3 +36,4 @@ Senator Wash Reservoir is a lentic (stillwater) impoundment along the Lower Colo
 - [[MemorandumOnUpdateOfHbsTelemet_1980_02_25]]
 - [[PopulationDifferentiationAndIn_1987]]
 - [[RazorbackSuckersFoundInGallean_1993_12_17]]
+- [[TransmittalRegardingReasonable_19809]]

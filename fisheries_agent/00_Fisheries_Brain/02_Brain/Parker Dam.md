@@ -17,6 +17,9 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 > - Western Area Power Administration formally disputes the FWS Biological Opinion's causal attribution of poor native fish spawning/recruitment success to **daily fluctuating flows**, arguing the opinion lacks supporting rationale/documentation (critiquing BO p. 137 and RPA Item 1, p. 172). - Thre...
 > -- *[[WesternAreaPowerAdministration_1997_07_25]]*
 
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[HumpbackChubGilaCypha_18257]]
 - [[ReCommentsOnTheFederalRegister_11571]]
@@ -24,3 +27,4 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 - [[StockingOfSportFishSpeciesRain_1994_06_16]]
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[WesternAreaPowerAdministration_1997_07_25]]
+- [[TransmittalRegardingReasonable_19809]]

@@ -26,6 +26,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This addendum to the March 24, 1980 Environmental Analysis addresses the restoration of [[Mogollon Creek]] in the [[Gila National Forest]] to secure populations of the endangered [[Gila Trout]] (*Oncorhynchus gilae*). In 1993, [[Brown Trout]] (*Salmo trutta*) were discovered upstream of a barrier...
 > -- *[[AddendumToTheMarchEnvironmenta_11496]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -98,3 +101,4 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[VerdeRiverTemperatureRecorderD_1992_04_02]]
 - [[WithdrawalOfProposedRuleForExp_1993_12_10]]
 - [[AddendumToTheMarchEnvironmenta_11496]]
+- [[LectureNotesFromBiologyClass_13784]]

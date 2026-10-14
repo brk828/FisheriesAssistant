@@ -29,6 +29,9 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
 > -- *[[EndangeredAndThreatenedWildlif_11551]]*
 
+> This memorandum from the U.S. Fish and Wildlife Service Regional Director announces a [[Colorado River Fishes Recovery Team]] meeting scheduled for February 23-24, 1989, in Phoenix, Arizona. The meeting's purpose is to resolve outstanding technical issues concerning recovery plans for three...
+> -- *[[RecoveryTeamMeetingFebruary_14137]]*
+
 ## Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -279,3 +282,4 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[ZolTechniquesInConservationBio_1992_03_06]]
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
 - [[EndangeredAndThreatenedWildlif_11551]]
+- [[RecoveryTeamMeetingFebruary_14137]]

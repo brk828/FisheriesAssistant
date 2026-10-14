@@ -23,6 +23,9 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 > This document is a **faunal checklist** cataloging the fish species known from the **Rio Conchos**, a major tributary of the **[[Rio Grande]] / Río Bravo del Norte** drainage in Chihuahua, Mexico, located within the **[[Chihuahuan Desert]]** ecoregion. The list enumerates **37 species** across **...
 > -- *[[FishesOfTheRioConcho_18283]]*
 
+> This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
+> -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -39,3 +42,4 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 - [[RegionEndangeredSpeciesCandida_1994_09_09]]
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
+- [[ZoogeographicalAnalysisAndRevi_15920]]

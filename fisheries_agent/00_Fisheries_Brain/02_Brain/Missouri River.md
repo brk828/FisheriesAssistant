@@ -23,6 +23,9 @@ The Missouri River is a major North American river system of significant importa
 > **Comparative context:** Unlike the [[Missouri River]], where ~54% of ingested fish food derives from terrestrial (allochthonous) sources (Berner 1951), the lower Colorado River's sparse riparian zone and large channel-to-riparian ratio favor an **autochthonous-based food web**, consistent with M...
 > -- *[[TrophicInterrelationsAmongIntr_1982]]*
 
+> This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
+> -- *[[AlternativeApproachesToHcpsFor_16735]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -39,3 +42,4 @@ The Missouri River is a major North American river system of significant importa
 - [[ThePopulationAndMovementOfFish_1952]]
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[VariationInTheRedShinerNotropi_11433]]
+- [[AlternativeApproachesToHcpsFor_16735]]

@@ -23,6 +23,9 @@ A Habitat Conservation Plan (HCP) is a comprehensive, legally binding document r
 > - The **[[Section 10 Incidental Take Permit]]** is issued under the [[Endangered Species Act]] and requires a complete application package: permit application, [[Habitat Conservation Plan]], NEPA document (EA or EIS), and an [[Implementing Agreement]]. - **Six statutory issuance criteria** must b...
 > -- *[[OverviewEndangeredSpeciesActSe_13258]]*
 
+> This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
+> -- *[[AlternativeApproachesToHcpsFor_16735]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[BriefingNotesEndangeredFishInC_14950]]
@@ -31,3 +34,4 @@ A Habitat Conservation Plan (HCP) is a comprehensive, legally binding document r
 - [[LetterToJohnGRogersRegardingMe_1995_10_17]]
 - [[OverviewEndangeredSpeciesActSe_13258]]
 - [[ProposedMonitoringProtocolElCo_1999]]
+- [[AlternativeApproachesToHcpsFor_16735]]

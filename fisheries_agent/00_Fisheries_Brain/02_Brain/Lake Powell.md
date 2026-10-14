@@ -26,6 +26,9 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
 
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -93,3 +96,4 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[TheHumpbackChubGilaCyphaExcerp_13277]]
 - [[ThousandsOfEndangeredFishToBeS_1997_09_18]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[TransmittalRegardingReasonable_19809]]

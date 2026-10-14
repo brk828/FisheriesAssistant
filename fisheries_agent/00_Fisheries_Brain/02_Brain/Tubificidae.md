@@ -23,6 +23,9 @@ Tubificidae are a family of small, aquatic oligochaete worms (segmented worms) c
 > - **Family [[Naididae]]** — Eight species recorded, including *Paranais litoralis*, *Ophidonais serpentina*, two *Stylaria* species (validity of separation questioned), and *Dero digitata* (the most abundant naidid, widespread in the inner bay). - **Family [[Tubificidae]]** — Eighteen species rec...
 > -- *[[TheDistributionOfAquaticOligoc_12945]]*
 
+> This annual report summarizes research activities conducted during 1966 by multiple hydrobiological, ichthyological, fisheries, fish disease, and waterfowl research units affiliated with the [[Natural History Club]] in Brno, Czechoslovakia. The report covers work by university departments, Academy...
+> -- *[[HydrobiologicalAndIchthyologic_12963]]*
+
 ## Mentioned In
 - [[AnOccurrenceOfBranchiuraSowerb_16007]]
 - [[DetectionAndAssessmentOfWaterP_1966]]
@@ -32,3 +35,4 @@ Tubificidae are a family of small, aquatic oligochaete worms (segmented worms) c
 - [[StandingCropsOfChironomidaeAnd_14992]]
 - [[TheDistributionOfAquaticOligoc_12945]]
 - [[TheEffectsOfOrganismsOnPolluti_12169]]
+- [[HydrobiologicalAndIchthyologic_12963]]

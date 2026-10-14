@@ -8,6 +8,15 @@
   "status": "done",
   "timestamp": "2026-10-14T17:28:28+00:00"
  },
+ "0b0fa109cfe769021ecb92f3eee7dcd666791367bcdd1ce92af278c1ddc7fe36": {
+  "citation_source": "minckley-sheet",
+  "file": "13784.pdf",
+  "method": "ocr",
+  "note": "LectureNotesFromBiologyClass_13784.md",
+  "source_id": "X-0b0fa109",
+  "status": "done",
+  "timestamp": "2026-10-14T19:27:27+00:00"
+ },
  "1a58630192541be3f0b23019dca927e9f9a48e05411fdc5c5effc4b5103c0bdc": {
   "citation_source": "minckley-sheet",
   "file": "15949.pdf",
@@ -26,6 +35,15 @@
   "status": "done",
   "timestamp": "2026-10-14T17:50:30+00:00"
  },
+ "1c493a708d7e6917720787540404b4a26d52530f8b6aa00f7f1af97bd8c41685": {
+  "citation_source": "minckley-sheet",
+  "file": "15920.pdf",
+  "method": "ocr",
+  "note": "ZoogeographicalAnalysisAndRevi_15920.md",
+  "source_id": "X-1c493a70",
+  "status": "done",
+  "timestamp": "2026-10-14T19:29:57+00:00"
+ },
  "1c8ea6305e087da38526125a75cc0441b0f17a380227425ef51e761436e9e121": {
   "citation_source": "minckley-sheet",
   "file": "20605.pdf",
@@ -34,6 +52,15 @@
   "source_id": "X-1c8ea630",
   "status": "done",
   "timestamp": "2026-10-09T17:17:41+00:00"
+ },
+ "2a45968ca91da690da63dc911ee3786226fdcb52e9e2dd39ad4d3c8551640acc": {
+  "citation_source": "minckley-sheet",
+  "file": "12024.pdf",
+  "method": "ocr",
+  "note": "DesertFishesCouncilProceedings_12024.md",
+  "source_id": "X-2a45968c",
+  "status": "done",
+  "timestamp": "2026-10-14T19:24:32+00:00"
  },
  "3358d371a72d4e12d7808d4ac8bda519f2d7b48a92840e7acbdac6b06c795b9f": {
   "citation_source": "minckley-sheet",
@@ -195,6 +222,15 @@
   "status": "done",
   "timestamp": "2026-10-14T17:24:53+00:00"
  },
+ "9bcd24141fb04e4005c117bccd7d85d3003aa8d293231b18c0ce09745da6f6f7": {
+  "citation_source": "minckley-sheet",
+  "file": "17328.pdf",
+  "method": "ocr",
+  "note": "SeriesOfInterofficeMemosJulyAr_17328.md",
+  "source_id": "X-9bcd2414",
+  "status": "done",
+  "timestamp": "2026-10-14T19:32:05+00:00"
+ },
  "9c2dad8a680aee6f66c44f76e605214523ca9004e57a76399e8f5264e8ae6263": {
   "citation_source": "minckley-sheet",
   "file": "11551.pdf",
@@ -212,6 +248,15 @@
   "source_id": "X-9e7f52bc",
   "status": "done",
   "timestamp": "2026-10-14T18:52:47+00:00"
+ },
+ "a69f32595e1aeddff707d60e712bbe47b7766d9459a5850f92d8128fc99accb6": {
+  "citation_source": "minckley-sheet",
+  "file": "12963.pdf",
+  "method": "ocr",
+  "note": "HydrobiologicalAndIchthyologic_12963.md",
+  "source_id": "X-a69f3259",
+  "status": "done",
+  "timestamp": "2026-10-14T19:26:00+00:00"
  },
  "bb28354c9b7d95c9213d92d4eed79df23f72e210d397ce932976399a0d6a9a78": {
   "citation_source": "minckley-sheet",
@@ -267,6 +312,15 @@
   "status": "done",
   "timestamp": "2026-10-09T16:16:14+00:00"
  },
+ "d5e1a2ff0f5ca63d1b9b3fb72c3436c76b09f5d07b71d354a7b4868cb5af22c0": {
+  "citation_source": "minckley-sheet",
+  "file": "15000.pdf",
+  "method": "ocr",
+  "note": "NativeFishWorkGroupMeetingMinu_15000.md",
+  "source_id": "X-d5e1a2ff",
+  "status": "done",
+  "timestamp": "2026-10-14T19:29:02+00:00"
+ },
  "d64227055fb1bda102ec61b9946b3ebcb335a74b94c9bfef286e404373e19796": {
   "citation_source": "minckley-sheet",
   "file": "13297.pdf",
@@ -303,6 +357,15 @@
   "status": "done",
   "timestamp": "2026-10-14T18:47:34+00:00"
  },
+ "e76bf77edf7fd354a0b285f936db2f49a6756bd5bba8b365db39e7db3f825265": {
+  "citation_source": "minckley-sheet",
+  "file": "16735.pdf",
+  "method": "ocr",
+  "note": "AlternativeApproachesToHcpsFor_16735.md",
+  "source_id": "X-e76bf77e",
+  "status": "done",
+  "timestamp": "2026-10-14T19:31:11+00:00"
+ },
  "e901f19fdf4fbeaaedd18c99bc3b280bb6bc2ac1ce7b51c69fd8752bed92bd6d": {
   "citation_source": "minckley-sheet",
   "file": "16475.pdf",
@@ -312,6 +375,24 @@
   "status": "done",
   "timestamp": "2026-10-14T18:48:00+00:00"
  },
+ "eac05e811e2175649bfee0f920fa9087fd4c0873e15079c018cb47a11490e7b4": {
+  "citation_source": "minckley-sheet",
+  "file": "13862.pdf",
+  "method": "ocr",
+  "note": "ReReviewOfFloodedBottomLandRes_13862.md",
+  "source_id": "X-eac05e81",
+  "status": "done",
+  "timestamp": "2026-10-14T19:28:20+00:00"
+ },
+ "f5dc0afe1bea2cf20f47bf6c1106677e1c21e3b73fb8c6f07eec56ab06507ce8": {
+  "citation_source": "minckley-sheet",
+  "file": "14137.pdf",
+  "method": "ocr",
+  "note": "RecoveryTeamMeetingFebruary_14137.md",
+  "source_id": "X-f5dc0afe",
+  "status": "done",
+  "timestamp": "2026-10-14T19:28:37+00:00"
+ },
  "f7f8ca07db4ef3da6ee62183f54b3b736c184ec7a63c624e71ba25620409404d": {
   "citation_source": "minckley-sheet",
   "file": "13734.pdf",
@@ -320,5 +401,14 @@
   "source_id": "X-f7f8ca07",
   "status": "done",
   "timestamp": "2026-10-14T18:45:19+00:00"
+ },
+ "fc511328b2e08c0c7f639912b8a14c48c8a1cbf0d13ae2cfbaa112e7237625c0": {
+  "citation_source": "minckley-sheet",
+  "file": "19809.pdf",
+  "method": "ocr",
+  "note": "TransmittalRegardingReasonable_19809.md",
+  "source_id": "X-fc511328",
+  "status": "done",
+  "timestamp": "2026-10-14T19:33:10+00:00"
  }
 }

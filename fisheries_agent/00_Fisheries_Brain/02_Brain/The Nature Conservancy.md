@@ -29,6 +29,9 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 > This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
 > -- *[[AmericanRiversStacMeetingOfJun_17977]]*
 
+> This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
+> -- *[[AlternativeApproachesToHcpsFor_16735]]*
+
 ## Mentioned In
 - [[AssignmentsMadeAtFebruaryMeeti_1992_02_19]]
 - [[AttemptedReEstablish_1969_03_06]]
@@ -60,3 +63,4 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 - [[YaquiChubStockingIntoSanBernar_1980_10_31]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
+- [[AlternativeApproachesToHcpsFor_16735]]

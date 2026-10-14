@@ -26,6 +26,12 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 > The [[Southwest Center for Biological Diversity]] (SWCBD) and Dr. Robin Silver filed a lawsuit in U.S. District Court (Phoenix) against [[Ft. Huachuca]] and the Defense Department for violations of the [[National Environmental Policy Act]] (NEPA). The suit alleges illegal failure to evaluate,...
 > -- *[[LawsuitFiledAgainstFtHuachucaT_18965]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
+> This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
+> -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
+
 ## Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -75,3 +81,5 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 - [[ThinkingTitleIsALetterReviewin_12039]]
 - [[TripReportAravaipaCreekEastEnd_1993_10_25]]
 - [[LawsuitFiledAgainstFtHuachucaT_18965]]
+- [[LectureNotesFromBiologyClass_13784]]
+- [[ZoogeographicalAnalysisAndRevi_15920]]

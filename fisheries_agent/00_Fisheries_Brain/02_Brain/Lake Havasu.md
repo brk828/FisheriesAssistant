@@ -26,6 +26,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This study examined the production efficiency of [[Threadfin Shad]] (*Dorosoma petenense*) in experimental ponds at varying stocking densities (100–1,600 adults per acre) to determine optimal rates for maximum forage production. Total production ranged from 84.5 to 290.0 pounds per acre, with net...
 > -- *[[ProductionOfTheThreadfinShadDo_15096]]*
 
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -74,3 +77,4 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[UseOfIsolatedHabitatsAsGrowout_1996_06_21]]
 - [[ProductionOfTheThreadfinShadDo_15096]]
+- [[TransmittalRegardingReasonable_19809]]

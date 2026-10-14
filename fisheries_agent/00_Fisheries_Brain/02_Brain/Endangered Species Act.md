@@ -35,6 +35,12 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
 > -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
 
+> The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
+> -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
+
+> This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
+> -- *[[AlternativeApproachesToHcpsFor_16735]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -328,3 +334,5 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[LetterToMinckley_20487]]
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
+- [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[AlternativeApproachesToHcpsFor_16735]]

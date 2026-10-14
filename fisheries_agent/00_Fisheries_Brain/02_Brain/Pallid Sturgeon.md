@@ -23,6 +23,9 @@ The Pallid Sturgeon (*Scaphirhynchus albus*) is a critically endangered species 
 > This note documents new, vouchered Kentucky distribution records for three sturgeon species inhabiting the Mississippi River adjacent to Kentucky: the [[Lake Sturgeon]] (*Acipenser fulvescens*), [[Pallid Sturgeon]] (*Scaphirhynchus albus*), and [[Shovelnose Sturgeon]] (*Scaphirhynchus platorynchu...
 > -- *[[MississippiRiverSturgeonsNewKe_1985]]*
 
+> This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
+> -- *[[AlternativeApproachesToHcpsFor_16735]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[BigMuddyDeathOfARiver_1999_04_13]]
@@ -37,3 +40,4 @@ The Pallid Sturgeon (*Scaphirhynchus albus*) is a critically endangered species 
 - [[StationProfileOfNatchitochesNa_1993]]
 - [[StationProfileOfTheNeoshoNatio_1993]]
 - [[SubpermitAuthorizationLetterTo_1993_06_17]]
+- [[AlternativeApproachesToHcpsFor_16735]]

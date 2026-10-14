@@ -17,5 +17,9 @@ auto_enriched: true
 > 1. **Petition drafting deficiencies**: The document contains undefined blanks, incorrect scientific nomenclature formatting (e.g., failure to italicize/capitalize genus names such as *[[Pituophis]]*), and inconsistent terminology (e.g., conflating "progeny," "breeding stock," and "captive bred")....
 > -- *[[PetitionForNewRuleOnCaptivePro_1994_07_08]]*
 
+> This document is a compilation of inter-office memoranda from multiple [[Arizona Game and Fish Department]] regional supervisors, law enforcement officers, and wildlife managers responding to a petition for rule change that would allow captive propagation and commercial sale of native [[Arizona]]...
+> -- *[[SeriesOfInterofficeMemosJulyAr_17328]]*
+
 ## Mentioned In
 - [[PetitionForNewRuleOnCaptivePro_1994_07_08]]
+- [[SeriesOfInterofficeMemosJulyAr_17328]]

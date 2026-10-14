@@ -26,6 +26,9 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 > The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
 > -- *[[RequestedMeetingnativeFishWork_15023]]*
 
+> The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
+> -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[FishAndWildlifeServiceReviewOf_1990_09_11]]
@@ -52,3 +55,4 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 - [[SpringSurveyForRazorbackSucker_1993_03_26]]
 - [[SummaryOfManualSpawningOfRazor_1993_03_26]]
 - [[RequestedMeetingnativeFishWork_15023]]
+- [[NativeFishWorkGroupMeetingMinu_15000]]

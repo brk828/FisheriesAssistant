@@ -23,6 +23,9 @@ The Grand Canyon Protection Act is a federal mandate that requires ecosystem-bas
 > - **Habitat structure**: Eddies, backwaters, and channel-margin marshes are proposed as the most biologically/metabolically active zones in the river, rivaled only by certain gravel bars and the clear-water reaches of [[Glen Canyon]]. - **Turbidity regime**: Light limitation is severe and variabl...
 > -- *[[OrganicMatterRetentionInEddies_17090]]*
 
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
@@ -30,3 +33,4 @@ The Grand Canyon Protection Act is a federal mandate that requires ecosystem-bas
 - [[LetterFromGovernorFifeSymingto_1993_07_26]]
 - [[NrcWstbGcmrcCommitteeStrategic_1998_07_30]]
 - [[OrganicMatterRetentionInEddies_17090]]
+- [[TransmittalRegardingReasonable_19809]]

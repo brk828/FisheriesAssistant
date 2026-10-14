@@ -23,6 +23,9 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 > The project involves coordination with the [[Colorado River Fishes Recovery Team]], the Biology Committee of the Recovery Program, the **Lower Colorado River Basin Multi-Species Conservation Program (LCR MSCP)**, the **San Juan River Recovery Program**, the **Native Fish Work Group**, and the **G...
 > -- *[[DevelopingRecoveryGoalsForTheF_1999_07_29]]*
 
+> This memorandum from the U.S. Fish and Wildlife Service Regional Director announces a [[Colorado River Fishes Recovery Team]] meeting scheduled for February 23-24, 1989, in Phoenix, Arizona. The meeting's purpose is to resolve outstanding technical issues concerning recovery plans for three...
+> -- *[[RecoveryTeamMeetingFebruary_14137]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -43,3 +46,4 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 - [[OriginOfBroodStockAndAllozymeV_1989]]
 - [[ProposedIntroductionOfRainbowS_14700]]
 - [[RefinementOfRecoveryGoalsForTh_1990_12_03]]
+- [[RecoveryTeamMeetingFebruary_14137]]

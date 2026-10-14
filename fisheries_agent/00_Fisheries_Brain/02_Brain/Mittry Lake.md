@@ -14,6 +14,10 @@ auto_enriched: true
 > **Water Chemistry Summary:** | Lake | Total Solids (ppm) | Chlorides (ppm) | Sulfates (ppm) | Total Alkalinity (ppm) | |---|---|---|---|---| | [[Mittry Lake]] | ~2,500 | ~600 | 550–106 | ~350 | | [[Martinez Lake]] | ~750 | 120 | ~218 | 125 | | No Name #1 & #2 | ~700 | - | - | 132 |
 > -- *[[ProgressReportLowerColoradoRiv_14984]]*
 
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[ProgressReportLowerColoradoRiv_14984]]
 - [[ReviewOfCommissionOrderForCrus_1994_07_27]]
+- [[TransmittalRegardingReasonable_19809]]

@@ -11,6 +11,9 @@ Utah is a geographic region in the western United States that serves as a critic
 > This document is not a primary field or laboratory study but an **interagency policy instrument** — a Memorandum of Understanding (MOU) executed between the [[United States Fish And Wildlife Service]], the [[United States Bureau Of Reclamation]], and the states of [[Colorado]], [[Utah]], and [[Wy...
 > -- *[[MemorandumOfUnderstandingOnEnd_11447]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
 ## Mentioned In
 - [[EndanderedAndThreatenedWildlif_16520]]
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
@@ -18,3 +21,4 @@ Utah is a geographic region in the western United States that serves as a critic
 - [[RainbowSmeltIntroductionIntoLa_1989]]
 - [[ReopeningOfPublicCommentPeriod_1990_07_27]]
 - [[VirginChubGilaRobustaSeminuda_1989_09_07]]
+- [[LectureNotesFromBiologyClass_13784]]

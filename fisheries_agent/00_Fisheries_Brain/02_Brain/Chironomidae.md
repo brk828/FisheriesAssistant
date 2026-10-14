@@ -23,6 +23,9 @@ Chironomidae, commonly known as midges or non-biting midges, are a family of sma
 > - **Sampling method**: [[Electrical Stunning|Electrofishing]] (electrical stunning machine) - **Stomach preservation**: 10% formaldehyde, pipetted directly into stomach cavity - **Dry weight determination**: Oven-dried at 65°C for 3 days (Allen 1951 method); freeze-drying validated as equivalent ...
 > -- *[[THE FOOD OF TROUT (SALMO TRUITA) IN A DARTMOOR STREAM]]*
 
+> This annual report summarizes research activities conducted during 1966 by multiple hydrobiological, ichthyological, fisheries, fish disease, and waterfowl research units affiliated with the [[Natural History Club]] in Brno, Czechoslovakia. The report covers work by university departments, Academy...
+> -- *[[HydrobiologicalAndIchthyologic_12963]]*
+
 ## Mentioned In
 - [[ComparativeEcologyOfNotropisAl_14679]]
 - [[DifferencesInLittoralFaunaDueT_1972]]
@@ -38,3 +41,4 @@ Chironomidae, commonly known as midges or non-biting midges, are a family of sma
 - [[SummerFoodHabitsOfYellowBassAn_1962]]
 - [[THE FOOD OF TROUT (SALMO TRUITA) IN A DARTMOOR STREAM]]
 - [[TheRecolonizationMechanismsOfS_11992]]
+- [[HydrobiologicalAndIchthyologic_12963]]

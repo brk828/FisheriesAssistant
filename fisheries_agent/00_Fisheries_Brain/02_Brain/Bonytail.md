@@ -26,6 +26,9 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 > This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
 > -- *[[EvaluationsAndSuggestionsConce_16480]]*
 
+> This document comprises correspondence and program proposals (1994) regarding the [[Upper Colorado River Basin]] [[Flooded Bottom Land Restoration Program]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*). Dr. C.F. Bryan of the [[Louisiana Cooperative Fish and...
+> -- *[[ReReviewOfFloodedBottomLandRes_13862]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -160,3 +163,4 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 - [[UsfwsLetterRegardingProposedEn_1990_07_09]]
 - [[VoucherSpecimensDonatedToDepar_1997_01_08]]
 - [[EvaluationsAndSuggestionsConce_16480]]
+- [[ReReviewOfFloodedBottomLandRes_13862]]

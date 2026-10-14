@@ -20,8 +20,12 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 > 1. **Red shiner predation is severe and rapid**: In the larval experiment (three replicate cages of 250 razorback sucker + 250 red shiners), all razorback sucker larvae were consumed by red shiners within 45 minutes of exposure. 2. **Juvenile razorback sucker also highly vulnerable**: In a follow...
 > -- *[[AvailabilityOfHabitatCharacter_1993]]*
 
+> This document comprises correspondence and program proposals (1994) regarding the [[Upper Colorado River Basin]] [[Flooded Bottom Land Restoration Program]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*). Dr. C.F. Bryan of the [[Louisiana Cooperative Fish and...
+> -- *[[ReReviewOfFloodedBottomLandRes_13862]]*
+
 ## Mentioned In
 - [[AdditionalRazorbackSuckerGenet_1994_04_28]]
 - [[AvailabilityOfHabitatCharacter_1993]]
 - [[FyProjectReportWetlandsRestora_1993]]
 - [[JuvenileRazorbackSuckerXyrauch_16532]]
+- [[ReReviewOfFloodedBottomLandRes_13862]]

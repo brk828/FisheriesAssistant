@@ -20,7 +20,11 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 > - The letter itself contains **no extractable fish science data** (no species records, counts, measurements, or ecological metrics). - It documents institutional coordination: the [[Bureau of Reclamation]], [[International Boundary and Water Commission]] (both U.S. and Mexican Sections), and acad...
 > -- *[[CoordinatedResourceActivitiesC_1997_04_16]]*
 
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[CoordinatedResourceActivitiesC_1997_04_16]]
 - [[NoticeOfIntentToFileCitizenSui_1995_05_24]]
 - [[RosterLowerBasinRecoveryImplem_21095]]
+- [[TransmittalRegardingReasonable_19809]]

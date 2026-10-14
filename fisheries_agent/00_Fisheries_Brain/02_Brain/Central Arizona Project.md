@@ -23,6 +23,9 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 > This document is an administrative memorandum from the U.S. Bureau of Reclamation (Phoenix Area Office), dated September 13, 1994, announcing a stakeholder meeting to discuss native fish conservation projects mandated by a Biological Opinion issued April 15, 1994. The Opinion addressed the enviro...
 > -- *[[MeetingOnNativeFishConservatio_1994_09_13]]*
 
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -43,3 +46,4 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 - [[SectionConsultationAmendingThe_1998_04_28]]
 - [[SwimmingAbilityOfNonNativeFish_1995_06_10]]
 - [[TinyNativeFishMakeBigSplash_1995_06_06]]
+- [[TransmittalRegardingReasonable_19809]]

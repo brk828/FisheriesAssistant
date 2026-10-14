@@ -8,6 +8,14 @@ auto_enriched: true
 > - **[[Colorado Plateau]]** - **[[Rocky Mountains]]** - **[[Southern Appalachian Mountains]]** - **[[North Atlantic Coast]]**
 > -- *[[CooperativeEcosystemStudiesUni_1999]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
+> This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
+> -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[CooperativeEcosystemStudiesUni_1999]]
+- [[LectureNotesFromBiologyClass_13784]]
+- [[ZoogeographicalAnalysisAndRevi_15920]]

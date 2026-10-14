@@ -23,6 +23,9 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 > - **Habitat type**: Fossil Creek is a **travertine-influenced** stream system; current (reduced-flow) conditions are dominated by shallow run habitat over bedrock, unsuitable for razorback sucker. Under restored/increased base flows, channel morphology is expected to shift toward **travertine dam...
 > -- *[[ReviewOfChildsIrvingBiological_1999_02_05]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
 ## Mentioned In
 - [[AlamoDamLandAndWaterProjectsSt_1966]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -37,3 +40,4 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 - [[SpeciesAccountCatostomusInsign_13167]]
 - [[SpeciesAccountForDesertSuckerC_13160]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
+- [[LectureNotesFromBiologyClass_13784]]

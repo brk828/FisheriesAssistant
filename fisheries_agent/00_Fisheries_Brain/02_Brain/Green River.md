@@ -26,6 +26,9 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
 
+> This document comprises correspondence and program proposals (1994) regarding the [[Upper Colorado River Basin]] [[Flooded Bottom Land Restoration Program]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*). Dr. C.F. Bryan of the [[Louisiana Cooperative Fish and...
+> -- *[[ReReviewOfFloodedBottomLandRes_13862]]*
+
 ## Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -104,3 +107,4 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
 - [[WinterMovementAndHabitatOfAdul_1993_12_16]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[ReReviewOfFloodedBottomLandRes_13862]]

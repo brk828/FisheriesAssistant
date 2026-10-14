@@ -32,6 +32,18 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
 > -- *[[RequestedMeetingnativeFishWork_15023]]*
 
+> This memorandum from the U.S. Fish and Wildlife Service Regional Director announces a [[Colorado River Fishes Recovery Team]] meeting scheduled for February 23-24, 1989, in Phoenix, Arizona. The meeting's purpose is to resolve outstanding technical issues concerning recovery plans for three...
+> -- *[[RecoveryTeamMeetingFebruary_14137]]*
+
+> The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
+> -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
+
+> This document is a compilation of inter-office memoranda from multiple [[Arizona Game and Fish Department]] regional supervisors, law enforcement officers, and wildlife managers responding to a petition for rule change that would allow captive propagation and commercial sale of native [[Arizona]]...
+> -- *[[SeriesOfInterofficeMemosJulyAr_17328]]*
+
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -208,3 +220,7 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[BureauOfReclamationAnnouncesDe_20789]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[RequestedMeetingnativeFishWork_15023]]
+- [[RecoveryTeamMeetingFebruary_14137]]
+- [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[SeriesOfInterofficeMemosJulyAr_17328]]
+- [[TransmittalRegardingReasonable_19809]]

@@ -23,6 +23,9 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 > These defects were suspected to result from **formalin treatments for *Costia* (Ichthyobodo)** during early life stages, though a genetic origin could not be ruled out. Of an original 108 fish in this group, only 25 remained, and these were deemed unsuitable for the proposed experimental stocking...
 > -- *[[PropagationAndFacilitiesDevelo_1993]]*
 
+> This document comprises correspondence and program proposals (1994) regarding the [[Upper Colorado River Basin]] [[Flooded Bottom Land Restoration Program]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*). Dr. C.F. Bryan of the [[Louisiana Cooperative Fish and...
+> -- *[[ReReviewOfFloodedBottomLandRes_13862]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -38,3 +41,4 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 - [[RoundtableDiscussionOnStreamfl_1994_12_22]]
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
 - [[ThousandsOfEndangeredFishToBeS_1997_09_18]]
+- [[ReReviewOfFloodedBottomLandRes_13862]]

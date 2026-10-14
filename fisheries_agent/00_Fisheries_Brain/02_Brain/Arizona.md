@@ -26,6 +26,15 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 > A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
 > -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
+> This document is a compilation of inter-office memoranda from multiple [[Arizona Game and Fish Department]] regional supervisors, law enforcement officers, and wildlife managers responding to a petition for rule change that would allow captive propagation and commercial sale of native [[Arizona]]...
+> -- *[[SeriesOfInterofficeMemosJulyAr_17328]]*
+
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[AuthorizationLetterForGilaTopm_1990_11_21]]
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
@@ -39,3 +48,6 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 - [[StationProfileOfWillowBeachNat_19507]]
 - [[VirginChubGilaRobustaSeminuda_1989_09_07]]
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
+- [[LectureNotesFromBiologyClass_13784]]
+- [[SeriesOfInterofficeMemosJulyAr_17328]]
+- [[TransmittalRegardingReasonable_19809]]

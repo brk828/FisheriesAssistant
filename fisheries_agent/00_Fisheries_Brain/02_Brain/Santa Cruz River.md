@@ -23,6 +23,9 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 > - **Allozyme variation**: Data cover all Gila basin populations except the [[Santa Cruz River]] and Mexican rivers. The [[Sharp Spring]] population is the only U.S. population with detected heterozygosity at surveyed loci. - **Fixed genetic differences**: Both [[Cienega Creek]] and [[Monkey Sprin...
 > -- *[[MinutesOfTheDesertFishesRecove_1993_04_08]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
 ## Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[CienegaCreekWatershedWaterSour_18990]]
@@ -36,3 +39,4 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 - [[StatusOfTheGilaTopminnowAndIts_13684]]
 - [[TableVulnerableSpeciesInPimaCo_18770]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
+- [[LectureNotesFromBiologyClass_13784]]

@@ -23,6 +23,9 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > - **Location**: Upper [[Verde River]], a tributary system within the Lower [[Colorado River]] Region of Arizona. - **Habitat type**: Freshwater lotic (flowing river) ecosystem, potentially supporting native Southwestern desert fish species of conservation concern (e.g., taxa historically associat...
 > -- *[[FormalSectionConsultationCentr_1988_10_28]]*
 
+> This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
+> -- *[[AlternativeApproachesToHcpsFor_16735]]*
+
 ## Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -51,3 +54,4 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[StationProfileEnnisNationalFis_1993_12_21]]
 - [[StatusOfGeneticAnalysisOfSpine_1993_03_02]]
 - [[StatusReportGilaRiverWatershed_17809]]
+- [[AlternativeApproachesToHcpsFor_16735]]

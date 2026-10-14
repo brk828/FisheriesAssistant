@@ -23,6 +23,9 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 > This document is the **Preface/Prólogo** to the proceedings of a special symposium on the biota of **[[Cuatro Ciénegas]]**, Coahuila, México, held during the 14th Annual Meeting of the **[[Desert Fishes Council]]** (18–20 November 1983, Arizona State University). Edited by Paul C. Marsh, the volu...
 > -- *[[BiotaOfCuatroCienegasCoahuilaM_17006]]*
 
+> This memorandum from Jack Williams to Paul Holden, W.L. Minckley, and Phil Pister proposes revisions to the [[Desert Fishes Council]] (DFC) Proceedings publication format and editorial structure. The proposal aims to reduce the burden on Phil Pister, improve timeliness, and enhance the professional...
+> -- *[[DesertFishesCouncilProceedings_12024]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -118,3 +121,4 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 - [[TheFutureOfFishes_14521]]
 - [[ThinkingTitleIsALetterReviewin_12039]]
 - [[TwentyFirstAnnualDesertFishesC_1989_11_16]]
+- [[DesertFishesCouncilProceedings_12024]]

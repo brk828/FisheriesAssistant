@@ -23,6 +23,9 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 > This document is a formal recommendation letter from the [[Colorado River Fishes Recovery Team]] to the U.S. Fish and Wildlife Service, addressing revisions to the draft **Colorado Squawfish Recovery Plan** (dated March 23, 1990). The core issue is whether to formally designate the **San Juan Riv...
 > -- *[[DesertFishesRecoveryTeamMeetin_11195]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfChannelCatfishIc_14101]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -67,3 +70,4 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[VerdeRiverFishResearch_1998_02_17]]
 - [[WithdrawalOfProposedRuleForExp_1993_12_10]]
+- [[LectureNotesFromBiologyClass_13784]]

@@ -23,6 +23,12 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > This source is **not a primary scientific study** on fish morphology or ecology, but rather a **1988 administrative tracking table** produced by the U.S. Fish and Wildlife Service (USFWS) Phoenix Field Office, cataloguing endangered, threatened, and candidate ("Status 2," "3C") species within its...
 > -- *[[AttachedDraftListOfSpeciesAssi_14772]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
+> This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
+> -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -147,3 +153,5 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[USFishAndWildlifeServiceEndang_1994]]
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[VerdeRiverFishResearchSpring_1997_05_20]]
+- [[LectureNotesFromBiologyClass_13784]]
+- [[ZoogeographicalAnalysisAndRevi_15920]]

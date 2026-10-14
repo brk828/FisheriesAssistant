@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Lampetra gracilis
+
+## Summary
+Lampetra gracilis is a lamprey species investigated in the Carpathian Mountains region. Research examined its relationship with Lampetra danfordi, as well as larval stage duration and metamorphosis.
+
+## Context
+
+> This annual report summarizes research activities conducted during 1966 by multiple hydrobiological, ichthyological, fisheries, fish disease, and waterfowl research units affiliated with the [[Natural History Club]] in Brno, Czechoslovakia. The report covers work by university departments, Academy...
+> -- *[[HydrobiologicalAndIchthyologic_12963]]*
+
+## Mentioned In
+- [[HydrobiologicalAndIchthyologic_12963]]

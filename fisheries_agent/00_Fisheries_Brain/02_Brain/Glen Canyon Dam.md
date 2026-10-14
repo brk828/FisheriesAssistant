@@ -29,6 +29,9 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
 > -- *[[AProposalToMonitorTheEffectsOf_17697]]*
 
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -139,3 +142,4 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[Untitled_1991_11_04]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
+- [[TransmittalRegardingReasonable_19809]]

@@ -17,7 +17,11 @@ The Sierra Madre Occidental is a major physiographic and tectonic province in no
 > - The species list is tied to the **[[Huachuca Mountains]]** and the **[[San Pedro River]]** drainage, an area described as one of the most biologically diverse mountain ranges in southern Arizona, shaped by rugged topography, varied substrates, bi-seasonal rainfall, perennial surface water, and ...
 > -- *[[TheNextParagraphIsMissingButTh_11894]]*
 
+> This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
+> -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
+
 ## Mentioned In
 - [[MiseEnÉvidenceDUnGraniteSubvol_1981_12_14]]
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
 - [[TheNextParagraphIsMissingButTh_11894]]
+- [[ZoogeographicalAnalysisAndRevi_15920]]

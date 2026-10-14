@@ -29,6 +29,12 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
 > -- *[[RequestedMeetingnativeFishWork_15023]]*
 
+> This document comprises correspondence and program proposals (1994) regarding the [[Upper Colorado River Basin]] [[Flooded Bottom Land Restoration Program]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*). Dr. C.F. Bryan of the [[Louisiana Cooperative Fish and...
+> -- *[[ReReviewOfFloodedBottomLandRes_13862]]*
+
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -196,3 +202,5 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
 - [[InformalSectionConsultationReP_13297]]
 - [[RequestedMeetingnativeFishWork_15023]]
+- [[ReReviewOfFloodedBottomLandRes_13862]]
+- [[TransmittalRegardingReasonable_19809]]

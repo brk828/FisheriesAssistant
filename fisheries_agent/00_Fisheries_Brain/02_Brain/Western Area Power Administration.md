@@ -26,6 +26,12 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
+> -- *[[AlternativeApproachesToHcpsFor_16735]]*
+
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[ErrataSheetFyWorkPlanForTheRec_20993]]
@@ -35,3 +41,5 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 - [[MeetingToDiscussTheSpikeFlow_1993_07_09]]
 - [[ReclamationToBeginWorkOnGlenCa_1989_11_02]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[AlternativeApproachesToHcpsFor_16735]]
+- [[TransmittalRegardingReasonable_19809]]

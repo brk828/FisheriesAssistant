@@ -14,7 +14,19 @@ In the context of fish science and aquatic ecology, California refers to the geo
 > - **Establishment**: Founded in 1962 under Public Land Order No. 1941 (Federal Register Vol. 24, Num. 162, August 19, 1959). - **Primary Mission**: Mitigation hatchery producing [[Rainbow Trout]] for the coldwater fishery created by [[Hoover Dam]]. - **Infrastructure**: Includes a hatchery buildi...
 > -- *[[StationProfileOfWillowBeachNat_19507]]*
 
+> These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
+> -- *[[LectureNotesFromBiologyClass_13784]]*
+
+> This document is a compilation of inter-office memoranda from multiple [[Arizona Game and Fish Department]] regional supervisors, law enforcement officers, and wildlife managers responding to a petition for rule change that would allow captive propagation and commercial sale of native [[Arizona]]...
+> -- *[[SeriesOfInterofficeMemosJulyAr_17328]]*
+
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[RainbowSmeltIntroductionIntoLa_1989]]
 - [[StationProfileOfWillowBeachNat_19507]]
+- [[LectureNotesFromBiologyClass_13784]]
+- [[SeriesOfInterofficeMemosJulyAr_17328]]
+- [[TransmittalRegardingReasonable_19809]]

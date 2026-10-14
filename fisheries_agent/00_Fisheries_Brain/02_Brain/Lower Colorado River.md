@@ -29,6 +29,9 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 > The [[Bureau of Reclamation]] Lower Colorado Regional Office scheduled a [[Native Fish Work Group]] meeting for January 10, 1991, to discuss the finalization of the Rearing Facility Management/Research Plan for [[Lake Mohave]]. Primary topics included progress on backwater renovation at [[Yuma...
 > -- *[[RequestedMeetingnativeFishWork_15023]]*
 
+> This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
+> -- *[[TransmittalRegardingReasonable_19809]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
@@ -98,3 +101,4 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 - [[WhatIsAmericanRiversDoingInThe_1997]]
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
 - [[RequestedMeetingnativeFishWork_15023]]
+- [[TransmittalRegardingReasonable_19809]]
