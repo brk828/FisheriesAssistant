@@ -194,6 +194,12 @@ The Colorado River is a major southwestern North American river system that serv
 > This biological assessment evaluates potential impacts of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species: [[Bonytail Chub]] (*Gila elegans*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bald Eagle]] (*Haliaeetus leucocephalus*),...
 > -- *[[BiologicalAssessmentOnThreaten_19806]]*
 
+> This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
+> -- *[[DistributionAndPoststockingSur_2016]]*
+
+> This three-year study (2008-2011) examined demographics and post-stocking survival of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir. The wild population has declined to fewer than 50 individuals, making the repatriation program...
+> -- *[[DemographicsAndPoststockingSur_2012]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -568,3 +574,5 @@ The Colorado River is a major southwestern North American river system that serv
 - [[ProjectReportGrandLakeShadowMo_16322]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[BiologicalAssessmentOnThreaten_19806]]
+- [[DistributionAndPoststockingSur_2016]]
+- [[DemographicsAndPoststockingSur_2012]]

@@ -32,6 +32,9 @@ Black Canyon refers to the riverine reach of the Colorado River immediately belo
 > This biological assessment evaluates potential impacts of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species: [[Bonytail Chub]] (*Gila elegans*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bald Eagle]] (*Haliaeetus leucocephalus*),...
 > -- *[[BiologicalAssessmentOnThreaten_19806]]*
 
+> This three-year study (2008-2011) examined demographics and post-stocking survival of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir. The wild population has declined to fewer than 50 individuals, making the repatriation program...
+> -- *[[DemographicsAndPoststockingSur_2012]]*
+
 ## Mentioned In
 - [[EndangeredPupfishOfDevilsHoleG_11403]]
 - [[GilaTroutAndChihuahuaChubRecov_1997_01_16]]
@@ -42,3 +45,4 @@ Black Canyon refers to the riverine reach of the Colorado River immediately belo
 - [[BiologicalAssessmentOfTheImpac_16261]]
 - [[BiologicalAssessmentProbableEf_11481]]
 - [[BiologicalAssessmentOnThreaten_19806]]
+- [[DemographicsAndPoststockingSur_2012]]

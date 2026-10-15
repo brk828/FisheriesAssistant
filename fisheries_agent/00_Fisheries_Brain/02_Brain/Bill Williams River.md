@@ -29,6 +29,9 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
+> -- *[[DistributionAndPoststockingSur_2016]]*
+
 ## Mentioned In
 - [[AlamoDamLandAndWaterProjectsSt_1966]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -45,3 +48,4 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[LectureNotesFromBiologyClass_13784]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[DistributionAndPoststockingSur_2016]]

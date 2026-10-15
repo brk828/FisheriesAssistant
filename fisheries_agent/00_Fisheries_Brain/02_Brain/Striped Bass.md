@@ -50,6 +50,12 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This document outlines a comprehensive research plan for the [[Glen Canyon Environmental Studies]] (GCES) program, designed to investigate the ecological and economic impacts of [[Glen Canyon Dam]] operations on the [[Colorado River]] ecosystem through [[Grand Canyon]]. The plan addresses multiple...
 > -- *[[GcesPlanningDocumentResearchPl_18452]]*
 
+> This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
+> -- *[[DistributionAndPoststockingSur_2016]]*
+
+> This three-year study (2008-2011) examined demographics and post-stocking survival of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir. The wild population has declined to fewer than 50 individuals, making the repatriation program...
+> -- *[[DemographicsAndPoststockingSur_2012]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -162,3 +168,5 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[InterimProceduresForStockingNo_15423]]
 - [[BiologicalAssessmentOfTheImpac_16261]]
 - [[GcesPlanningDocumentResearchPl_18452]]
+- [[DistributionAndPoststockingSur_2016]]
+- [[DemographicsAndPoststockingSur_2012]]

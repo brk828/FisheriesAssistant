@@ -215,6 +215,15 @@
   "status": "done",
   "timestamp": "2026-10-15T17:31:32+00:00"
  },
+ "1faa5dfa70d2424ba548a8c07cdbd83d3dda063f8bd84e92fb4f88f64f81af8c": {
+  "citation_source": "llm",
+  "file": "Humphrey et al. 2016 - Distribution and post-stocking survival of bonytail in Lake Havasu Final Report.pdf",
+  "method": "mixed",
+  "note": "DistributionAndPoststockingSur_2016.md",
+  "source_id": "X-1faa5dfa",
+  "status": "done",
+  "timestamp": "2026-10-15T22:47:41+00:00"
+ },
  "239cb09f096f39bcb8c0b5932a1e8803c4bb6903da6dd1eb592f065bcfeb10ae": {
   "citation_source": "minckley-sheet",
   "file": "14674.pdf",
@@ -277,6 +286,15 @@
   "source_id": "X-2a45968c",
   "status": "done",
   "timestamp": "2026-10-14T19:24:32+00:00"
+ },
+ "2e11e933f8e05b981fffd1a6084a3fc454ef3821120d62ccf139449ee98707a8": {
+  "citation_source": "llm",
+  "file": "R09AP30002 Mohave Final Project Report 2012.pdf",
+  "method": "text",
+  "note": "DemographicsAndPoststockingSur_2012.md",
+  "source_id": "X-2e11e933",
+  "status": "done",
+  "timestamp": "2026-10-15T22:50:15+00:00"
  },
  "3358d371a72d4e12d7808d4ac8bda519f2d7b48a92840e7acbdac6b06c795b9f": {
   "citation_source": "minckley-sheet",
@@ -975,6 +993,15 @@
   "source_id": "X-b1f1107e",
   "status": "done",
   "timestamp": "2026-10-15T20:30:11+00:00"
+ },
+ "b3f0eb93e598d82d8a3d436b9a2b3ff755f1e650f0b3ca3c46afca0f95768eed": {
+  "citation_source": "llm",
+  "file": "Miller et al. 2020 - Razorback Sucker monitoring 2015-2019 Final.pdf",
+  "method": "mixed",
+  "note": "DemographicsAndMonitoringOfRep_2020.md",
+  "source_id": "X-b3f0eb93",
+  "status": "done",
+  "timestamp": "2026-10-15T22:49:08+00:00"
  },
  "b4a4fb9233053c125bb307dca50f64deca5cede462578524a88df6cfe773fa5a": {
   "citation_source": "minckley-sheet",

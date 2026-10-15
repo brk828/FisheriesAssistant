@@ -50,6 +50,9 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 > This document is correspondence from the Bureau of Reclamation dated February 4, 1993, announcing a meeting of the Reservoir Work Group scheduled for February 12, 1993, in Phoenix, Arizona. The meeting focuses on selective withdrawal operations at [[Glen Canyon Dam]] to modify downstream water...
 > -- *[[CorrespondenceRegardingMeeting_13520]]*
 
+> This five-year final report (2015–2019) documents the demographics and monitoring of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], part of the [[Lower Colorado River Multi-Species Conservation Program]]. The wild razorback sucker population has functionally disappeared,...
+> -- *[[DemographicsAndMonitoringOfRep_2020]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
@@ -126,3 +129,4 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 - [[CommentsOnFinalBiologicalAndCo_14379]]
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[CorrespondenceRegardingMeeting_13520]]
+- [[DemographicsAndMonitoringOfRep_2020]]

@@ -41,6 +41,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This 1982 research proposal, submitted by Linda Ulmer (California Department of Fish and Game) to the U.S. Fish and Wildlife Service, outlines a two-phase electrophoretic study to assess genetic purity of [[Razorback Sucker]] (*Xyrauchen texanus*) breeding stocks. The study addresses concerns that...
 > -- *[[LetterToJimJohnsonWithEncolose_11425]]*
 
+> This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
+> -- *[[DistributionAndPoststockingSur_2016]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -94,3 +97,4 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[IndigenousBigriverFishesColora_18295]]
 - [[LetterToJimJohnsonWithEncolose_11425]]
+- [[DistributionAndPoststockingSur_2016]]

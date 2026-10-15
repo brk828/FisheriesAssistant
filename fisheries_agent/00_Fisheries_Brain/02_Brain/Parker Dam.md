@@ -20,6 +20,9 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
+> -- *[[DistributionAndPoststockingSur_2016]]*
+
 ## Mentioned In
 - [[HumpbackChubGilaCypha_18257]]
 - [[ReCommentsOnTheFederalRegister_11571]]
@@ -28,3 +31,4 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[WesternAreaPowerAdministration_1997_07_25]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[DistributionAndPoststockingSur_2016]]

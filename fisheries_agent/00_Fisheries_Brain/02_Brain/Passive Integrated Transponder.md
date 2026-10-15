@@ -11,5 +11,9 @@ auto_enriched: true
 > - **Size-based legal thresholds**: The petition proposed maximum body sizes for "saleable progeny" and defined "hatchling" status by size for species including the [[Gila Monster]], but the memo criticizes the lack of methodology (total length vs. snout-vent length) and calls the thresholds arbit...
 > -- *[[PetitionForNewRuleOnCaptivePro_1994_07_08]]*
 
+> This five-year final report (2015–2019) documents the demographics and monitoring of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], part of the [[Lower Colorado River Multi-Species Conservation Program]]. The wild razorback sucker population has functionally disappeared,...
+> -- *[[DemographicsAndMonitoringOfRep_2020]]*
+
 ## Mentioned In
 - [[PetitionForNewRuleOnCaptivePro_1994_07_08]]
+- [[DemographicsAndMonitoringOfRep_2020]]

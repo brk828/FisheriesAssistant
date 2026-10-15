@@ -23,9 +23,13 @@ Cottonwood Cove is a shallow nearshore habitat zone in Lake Mohave characterized
 > - **[[Cottonwood Cove]]**: Shallow (1–5 m) nearshore habitat over cobble substrate; used by adult bonytail and razorback sucker, particularly during nocturnal periods. Overwhelmingly dominated numerically by invasive **[[Carp]]**, indicating heavy competitive/ecological pressure on native catosto...
 > -- *[[LakeMohaveSamplingMay_1991_06_02]]*
 
+> This five-year final report (2015–2019) documents the demographics and monitoring of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], part of the [[Lower Colorado River Multi-Species Conservation Program]]. The wild razorback sucker population has functionally disappeared,...
+> -- *[[DemographicsAndMonitoringOfRep_2020]]*
+
 ## Mentioned In
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
 - [[LakeMohaveSamplingMay_1991_06_02]]
 - [[LakeMohaveSamplingNovember_1995_12_03]]
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
+- [[DemographicsAndMonitoringOfRep_2020]]

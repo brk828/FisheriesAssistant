@@ -50,6 +50,12 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 > This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
 > -- *[[TentativeAgendaForTheUpperColo_15254]]*
 
+> This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
+> -- *[[DistributionAndPoststockingSur_2016]]*
+
+> This five-year final report (2015–2019) documents the demographics and monitoring of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], part of the [[Lower Colorado River Multi-Species Conservation Program]]. The wild razorback sucker population has functionally disappeared,...
+> -- *[[DemographicsAndMonitoringOfRep_2020]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -192,3 +198,5 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 - [[IndigenousBigriverFishesColora_18295]]
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
 - [[TentativeAgendaForTheUpperColo_15254]]
+- [[DistributionAndPoststockingSur_2016]]
+- [[DemographicsAndMonitoringOfRep_2020]]

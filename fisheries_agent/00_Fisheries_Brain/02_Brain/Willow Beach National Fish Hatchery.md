@@ -35,6 +35,9 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 > This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
 > -- *[[IndigenousBigriverFishesColora_18295]]*
 
+> This five-year final report (2015–2019) documents the demographics and monitoring of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], part of the [[Lower Colorado River Multi-Species Conservation Program]]. The wild razorback sucker population has functionally disappeared,...
+> -- *[[DemographicsAndMonitoringOfRep_2020]]*
+
 ## Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -88,3 +91,4 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 - [[LowerColoradoRiverBasinManagem_18432]]
 - [[BiologicalAssessmentOfTheImpac_16261]]
 - [[IndigenousBigriverFishesColora_18295]]
+- [[DemographicsAndMonitoringOfRep_2020]]

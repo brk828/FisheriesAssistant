@@ -86,6 +86,9 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
+> -- *[[DistributionAndPoststockingSur_2016]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -390,3 +393,4 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[DistributionAndPoststockingSur_2016]]

@@ -47,6 +47,9 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > This biological assessment evaluates potential impacts of removing the [[Roosevelt Diversion Dam]] on the [[Salt River]], Arizona. Electrofishing surveys conducted March 15-16, 1988 documented stark differences in fish assemblages above versus below the dam. Above the dam, 230 fish (23,680 gm total...
 > -- *[[SaltRiverProjectRooseveltDiver_15070]]*
 
+> This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
+> -- *[[DistributionAndPoststockingSur_2016]]*
+
 ## Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -106,3 +109,4 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[FisheryInventoryOfTheCoachella_13687]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[SaltRiverProjectRooseveltDiver_15070]]
+- [[DistributionAndPoststockingSur_2016]]
