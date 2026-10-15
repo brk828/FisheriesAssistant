@@ -26,6 +26,9 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 > This 1957 study by [[Howard P. Clemens]] and [[Kermit E. Sneed]] documents the spawning behavior of [[Channel Catfish]] (*Ictalurus punctatus*) induced to spawn in glass aquaria via fish pituitary injections. The research was conducted under the [[Saltonstall-Kennedy Act]] at the [[U.S. Fish...
 > -- *[[TheSpawningBehaviorOfTheChanne_15949]]*
 
+> Two Oklahoma State University zoology professors, Dr. Troy C. Dorris and Dr. Robert C. Summerfelt, conducted a three-week study of fish populations in [[Lake Atitlan]], [[Guatemala]], in 1967 to address perceived fish shortages affecting the community of [[Santiago Atitlan]] (population 14,000)....
+> -- *[[FishPlentifulInGuatemalaLake_19070]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -48,3 +51,4 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[ToxicFreshWaterAlgae_14366]]
 - [[TheSpawningBehaviorOfTheChanne_15949]]
+- [[FishPlentifulInGuatemalaLake_19070]]

@@ -41,6 +41,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
 > -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
 
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -104,3 +107,4 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[MorphologicalVariationInCatost_13689]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

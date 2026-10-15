@@ -26,6 +26,9 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
 > -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
 
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -43,3 +46,4 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[StationProfileOfTheLittleWhite_1993]]
 - [[TribalAndTreatyObligationsIssu_18113]]
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
+- [[InlandCommercialFisheriesWorks_15658]]

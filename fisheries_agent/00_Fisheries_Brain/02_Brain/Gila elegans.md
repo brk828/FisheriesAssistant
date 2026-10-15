@@ -26,6 +26,15 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
 > -- *[[MinutesDesertFishesRecoveryTea_15843]]*
 
+> This memorandum from Ken Wiley to David Mladenoff, dated July 1, 1987, presents a first draft plan for renovating [[Palm Lake]] at the [[Hassayampa River Preserve]] in Arizona. The project aims to remove exotic fish species and introduce endangered native species, specifically [[Gila elegans]]...
+> -- *[[RenovationOfPalmLakeHassayampa_11969]]*
+
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
+> This study evaluated the effectiveness of qualitative morphological rankings versus quantitative measurements for field identification of closely related cyprinid fishes in the genus [[Gila]] from the [[Yampa River]], [[Colorado]]. Six field technicians with no specialized systematic training...
+> -- *[[QualitativeCharactersIdentific_19084]]*
+
 ## Mentioned In
 - [[BonytailUpdate_16371]]
 - [[CageCulturingTheEndangeredBony_1999]]
@@ -58,3 +67,6 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[VoucherSpecimensDonatedToDepar_1997_01_08]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
+- [[RenovationOfPalmLakeHassayampa_11969]]
+- [[DistributionalAndLocalVernacul_13815]]
+- [[QualitativeCharactersIdentific_19084]]

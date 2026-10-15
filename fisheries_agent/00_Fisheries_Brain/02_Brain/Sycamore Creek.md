@@ -26,6 +26,15 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 > This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
 > -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
+> This master's thesis by Craig Stephen Ivanyi (University of Arizona, 1989) examines selected life history aspects of the [[Desert Sucker]] (*Catostomus clarkii*, also referred to as *Pantosteus clarkii*) in four southeastern Arizona streams. The study focused primarily on [[Sonoita Creek]], with...
+> -- *[[SelectedAspectsOfTheNaturalHis_14397]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
@@ -41,3 +50,6 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 - [[SonoraChubMonitoringMeeting_1993_04_29]]
 - [[ThirdQuarterlyProgressReportSp_1987_09_28]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[EndangeredAndThreatenedWildlif_11554]]
+- [[SelectedAspectsOfTheNaturalHis_14397]]

@@ -23,6 +23,9 @@ The Devils Hole Pupfish (*Cyprinodon diabolis*) is an extremely endangered cypri
 > This 1985 invited editorial by fishery biologist Edwin P. Pister (California Department of Fish and Game) is a first-person reflective account—not a primary data paper—chronicling his career transition from managing put-and-take trout fisheries in the [[Owens Valley]] to becoming a central figure...
 > -- *[[DesertPupfishesReflectionsOnRe_11118]]*
 
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
@@ -53,3 +56,4 @@ The Devils Hole Pupfish (*Cyprinodon diabolis*) is an extremely endangered cypri
 - [[StatusAndManagementOfShoshoneP_1990]]
 - [[SubpermitAuthorizationForColle_1990]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

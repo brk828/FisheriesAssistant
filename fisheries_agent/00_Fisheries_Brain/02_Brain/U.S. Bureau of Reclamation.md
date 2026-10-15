@@ -32,6 +32,12 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
 > -- *[[EffectsOfElectrofishingFieldsO_15544]]*
 
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -53,3 +59,5 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
 - [[EffectsOfElectrofishingFieldsO_15544]]
+- [[EffectsOfElectrofishingFieldsO_15548]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]

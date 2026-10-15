@@ -35,6 +35,9 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 > This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
 > -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
 
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -95,3 +98,4 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 - [[TechnicalReviewDraftPahranagat_13301]]
 - [[ReportOfFloodDamageToBigSpring_18984]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
+- [[EndangeredAndThreatenedWildlif_11580]]

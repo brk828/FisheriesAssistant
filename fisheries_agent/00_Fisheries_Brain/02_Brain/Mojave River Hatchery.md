@@ -11,6 +11,10 @@ auto_enriched: true
 > Major hatcheries referenced include [[Darrah Springs]], [[San Joaquin Hatchery]], [[Fish Springs Hatchery]], [[Mojave River Hatchery]], [[Moccasin Creek Hatchery]], [[Trinity River Hatchery]], [[Nimbus Hatchery]], and [[Mokelumne River Fish Installation]].
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14866]]*
 
+> This administrative report documents a record-breaking year for [[California Department of Fish and Game]] hatchery operations during fiscal year 1967-68. Despite two hatcheries being out of service for the entire year, the Department planted 2,706,909 lb of fish, exceeding the previous year's...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14868]]*
+
 ## Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
+- [[CaliforniaTroutSalmonAndWarmwa_14868]]

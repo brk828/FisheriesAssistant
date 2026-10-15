@@ -23,6 +23,9 @@ Striped Mullet (*Mugil cephalus*) is a euryhaline fish species of significant co
 > **Trophic guild structure identified:** - **Detritivores:** [[Threadfin Shad]], [[Red Shiner]], [[Mouthbrooder]], [[Sailfin Molly]], [[Striped Mullet]] — feed principally on fibrous higher-plant detritus, some gelatinous organic material, and clam pseudofeces. - **Facultative planktivores/omnivor...
 > -- *[[TrophicInterrelationsAmongIntr_1982]]*
 
+> This study documents the distribution patterns of [[Striped Mullet]] (Mugil cephalus) in the [[Colorado River]] and [[Gulf of California]] during 1967-1968, revealing evidence of upstream migration and questioning traditional understanding of salinity requirements for spawning. Collections from...
+> -- *[[DifferentialDistributionOfTheS_19750]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -33,3 +36,4 @@ Striped Mullet (*Mugil cephalus*) is a euryhaline fish species of significant co
 - [[NotesOnTheEnergyCostOfGillVent_1970]]
 - [[TripReportForTheJuneThPaintedR_1997_06_26]]
 - [[TrophicInterrelationsAmongIntr_1982]]
+- [[DifferentialDistributionOfTheS_19750]]

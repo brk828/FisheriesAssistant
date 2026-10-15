@@ -14,8 +14,12 @@ auto_enriched: true
 > These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
 > -- *[[LectureNotesFromBiologyClass_13784]]*
 
+> This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
+> -- *[[APetitionPursuantToArticleOfTh_17637]]*
+
 ## Mentioned In
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[DouglasMexicanTemperaturePreci_12378]]
 - [[LectureNotesFromBiologyClass_13784]]
+- [[APetitionPursuantToArticleOfTh_17637]]

@@ -26,6 +26,12 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 > This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
 > -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
 
+> This 1972 Master's thesis reports the first identification of the tapeworm *Ophiotaenia fragilus* from the [[Colorado River Squawfish]] (*Ptychocheilus lucius*), a native cyprinid that has experienced dramatic population decline over 30 years. Thirty-nine cestode specimens were recovered from the...
+> -- *[[AnIntestinalCestodeOfTheColora_13882]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[ArthropodsAndVertebratesOfAriz_16220]]
@@ -43,3 +49,5 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 - [[RoundtailChubGetsPrBoostFromGa_13925]]
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[TheFaunalArchaeologyOfTheTubac_20377]]
+- [[AnIntestinalCestodeOfTheColora_13882]]
+- [[BiologicalAssessmentOfTheImpac_16261]]

@@ -11,6 +11,10 @@ auto_enriched: true
 > - **Geographic Range Served:** California and Nevada - **National Fish Hatcheries supported:** [[Coleman National Fish Hatchery]] and [[Lahontan National Fish Hatchery]] - **Fisheries Resource Offices:** Red Bluff, Arcata, Stockton, Coastal, Klamath, and Trinity River offices - **Fish and Wildlif...
 > -- *[[StationProfileOfTheCaliforniaN_19503]]*
 
+> This dissertation proposal by Timothy J. Kim (Arizona State University, 1998) outlines research to investigate Major Histocompatibility Complex (MHC) genetic variation and parasite resistance in two federally-listed endangered fish species: the [[Sacramento Winter-Run Chinook Salmon]] and the...
+> -- *[[MhcVariationAndParasiteResista_12519]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[StationProfileOfTheCaliforniaN_19503]]
+- [[MhcVariationAndParasiteResista_12519]]

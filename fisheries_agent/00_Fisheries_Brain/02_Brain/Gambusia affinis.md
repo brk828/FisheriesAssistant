@@ -26,6 +26,9 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 > This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
 > -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
 
+> This memorandum from Ken Wiley to David Mladenoff, dated July 1, 1987, presents a first draft plan for renovating [[Palm Lake]] at the [[Hassayampa River Preserve]] in Arizona. The project aims to remove exotic fish species and introduce endangered native species, specifically [[Gila elegans]]...
+> -- *[[RenovationOfPalmLakeHassayampa_11969]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -62,3 +65,4 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
 - [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[RenovationOfPalmLakeHassayampa_11969]]

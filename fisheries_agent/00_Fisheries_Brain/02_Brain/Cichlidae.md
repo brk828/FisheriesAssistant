@@ -23,6 +23,9 @@ Cichlidae is a diverse family of freshwater and brackish-water fish found primar
 > - **[[Petromyzontidae]]** (lampreys): *Lampetra geminis*, *Lampetra spadicea* — both classified as sensitive (S). - **[[Cyprinidae]]** (minnows/carps): includes native genera *Algansea*, *Notropis (Hybopsis)*, *Yuriria*, plus introduced exotics *Carassius auratus* (goldfish) and *Cyprinus carpio*...
 > -- *[[FishAsIndicatorsOfEnvironmenta_1998]]*
 
+> This administrative report presents a comprehensive bibliography of 213 selected references on [[Tilapia mossambica]] (Mozambique Tilapia), compiled by the California Department of Fish and Game, Region 5, Inland Fisheries in January 1967. The bibliography encompasses all significant papers known...
+> -- *[[BibliographyOfPublicationsConc_14697]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AquaticConservationNetworkCorr_1993_03_10]]
@@ -53,3 +56,4 @@ Cichlidae is a diverse family of freshwater and brackish-water fish found primar
 - [[SomeMechanismsUnderlyingTherma_1967]]
 - [[TheBiologyOfTilapiaNiloticaLin_1961]]
 - [[TheCichlidFishesOfTheGenusTris_1960_12_30]]
+- [[BibliographyOfPublicationsConc_14697]]

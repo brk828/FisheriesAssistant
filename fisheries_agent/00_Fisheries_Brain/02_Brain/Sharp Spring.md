@@ -20,6 +20,9 @@ Sharp Spring is a small, isolated desert spring population in the Gila River bas
 > - **Habitat type:** Isolated desert spring and creek systems within the Gila River basin of Arizona — a fragmented, relict aquatic habitat type highly vulnerable to desiccation, invasive species, and habitat degradation. - **Source populations (wild, sampled 1994):** - [[Roper Lake]] (Bylas stock...
 > -- *[[StatusOfRefugialGilaTopminnow_1995_12_27]]*
 
+> This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
+> -- *[[MolecularVariationAndEvolution_18435]]*
+
 ## Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[MhcVariationInTheEndangeredGil_20763]]
@@ -27,3 +30,4 @@ Sharp Spring is a small, isolated desert spring population in the Gila River bas
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
 - [[StatusOfRefugialGilaTopminnow_1995_12_27]]
 - [[StockingOfGilaTopminnowAtPhoen_11815]]
+- [[MolecularVariationAndEvolution_18435]]

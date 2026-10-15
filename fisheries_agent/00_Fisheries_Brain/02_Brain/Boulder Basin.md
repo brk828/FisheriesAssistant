@@ -11,6 +11,10 @@ auto_enriched: true
 > This U.S. Fish and Wildlife Service memorandum (September 5, 1979) provides a species list for Section 7 consultation regarding the proposed [[Hoover Dam]] Powerplant Modification Project. The assessment area extends from [[Hoover Dam]] north approximately 3,000 yards to [[Boulder Basin]], south...
 > -- *[[InformalSectionConsultationReP_13297]]*
 
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
 ## Mentioned In
 - [[PotentialUseOfHydroelectricFac_11245]]
 - [[InformalSectionConsultationReP_13297]]
+- [[BiologicalAssessmentOfTheImpac_16261]]

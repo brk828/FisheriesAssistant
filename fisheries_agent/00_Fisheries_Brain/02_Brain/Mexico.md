@@ -11,5 +11,9 @@ Mexico is the location of the Cienega de Santa Clara wetland in Sonora, which wa
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
+> -- *[[APetitionPursuantToArticleOfTh_17637]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[APetitionPursuantToArticleOfTh_17637]]

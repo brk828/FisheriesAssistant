@@ -23,6 +23,9 @@ The Lahontan Basin is a hydrographic region in the Great Basin of northwestern N
 > This report documents the 1987 spawning runs of the endangered [[Cui-ui]] (*Chasmistes cujus*) and threatened [[Lahontan Cutthroat Trout]] (*Salmo clarki henshawi*) at [[Marble Bluff Fish Facility]], [[Nixon, Nevada]]. The cui-ui spawning run totaled 5,301 individuals, representing 45 percent of...
 > -- *[[CuiuiAndLahontanCutthroatTrout_13865]]*
 
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
@@ -33,3 +36,4 @@ The Lahontan Basin is a hydrographic region in the Great Basin of northwestern N
 - [[StationProfileOfTheLahontanNat_19542]]
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
 - [[CuiuiAndLahontanCutthroatTrout_13865]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

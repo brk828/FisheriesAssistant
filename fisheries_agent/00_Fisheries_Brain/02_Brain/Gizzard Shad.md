@@ -32,6 +32,12 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 > This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
 > -- *[[FisheryInvestigationsOnFortGib_14674]]*
 
+> This report documents fisheries management activities in reclaimed coal strip-pit lakes across southeastern Kansas (Crawford, Cherokee, and Linn Counties) from approximately 1951 through spring 1956. The [[Kansas Forestry Fish and Game Commission]] conducted reconditioning and restocking programs...
+> -- *[[SummaryOfFishGrowthAndFishingS_14038]]*
+
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -71,3 +77,5 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 - [[GapeLimitationPreySizeRefugesA_2006]]
 - [[ProductionOfTheThreadfinShadDo_15096]]
 - [[FisheryInvestigationsOnFortGib_14674]]
+- [[SummaryOfFishGrowthAndFishingS_14038]]
+- [[InlandCommercialFisheriesWorks_15658]]

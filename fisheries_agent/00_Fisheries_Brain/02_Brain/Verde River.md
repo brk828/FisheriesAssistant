@@ -41,6 +41,15 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -118,3 +127,6 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[RecoveryEffortsForBonytailChub_11837]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[EndangeredAndThreatenedWildlif_11554]]

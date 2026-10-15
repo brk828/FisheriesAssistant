@@ -29,6 +29,9 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 > This map documents the spatial distribution and abundance of larval [[Razorback Sucker]] (*Xyrauchen texanus*) captures throughout the [[Upper Colorado River Basin]] during the period 1992-1995. The survey covered major river systems including the [[Green River]], [[Colorado River]], [[San Juan...
 > -- *[[CapturesOfLarvalRazorbackSucke_18287]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -46,3 +49,4 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 - [[ThousandsOfEndangeredFishToBeS_1997_09_18]]
 - [[ReReviewOfFloodedBottomLandRes_13862]]
 - [[CapturesOfLarvalRazorbackSucke_18287]]
+- [[TheColoradoRiverFishesRecovery_11196]]

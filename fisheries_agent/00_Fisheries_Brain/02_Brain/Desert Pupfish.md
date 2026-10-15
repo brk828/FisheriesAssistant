@@ -41,6 +41,12 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
 > -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
 
+> This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
+> -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
+
+> This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
+> -- *[[AllocatingFreshWaterToAquaticE_18641]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -215,3 +221,5 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[RecoveryEffortsForBonytailChub_11837]]
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[ReContinuationOfTheUsArmysSanP_11808]]
+- [[AllocatingFreshWaterToAquaticE_18641]]

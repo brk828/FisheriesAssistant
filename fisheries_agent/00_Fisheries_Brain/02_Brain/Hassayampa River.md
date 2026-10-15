@@ -23,6 +23,9 @@ The Hassayampa River is a desert river system in Arizona that represents a criti
 > - **Predation bottleneck**: Only stocking programs using larger native fish specimens are likely to succeed in re-establishing [[Colorado River Squawfish]] and [[Razorback Sucker]] populations in Arizona rivers, necessitating dedicated grow-out ponds. - **Broodstock security rationale**: Geograph...
 > -- *[[RenovationOfPalmLakeForUseAsAN_16649]]*
 
+> This memorandum from Ken Wiley to David Mladenoff, dated July 1, 1987, presents a first draft plan for renovating [[Palm Lake]] at the [[Hassayampa River Preserve]] in Arizona. The project aims to remove exotic fish species and introduce endangered native species, specifically [[Gila elegans]]...
+> -- *[[RenovationOfPalmLakeHassayampa_11969]]*
+
 ## Mentioned In
 - [[DoiAnnouncesRecommendationsFor_18330]]
 - [[FishProductionAJointPublicatio_11438]]
@@ -31,3 +34,4 @@ The Hassayampa River is a desert river system in Arizona that represents a criti
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
 - [[RenovationOfPalmLakeForUseAsAN_16649]]
 - [[RenovationOfPalmLakeForUseAsAN_1988_04_06]]
+- [[RenovationOfPalmLakeHassayampa_11969]]

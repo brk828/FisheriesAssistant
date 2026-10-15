@@ -11,5 +11,9 @@ Lee Ferry is a location on the Colorado River approximately 30 miles upstream fr
 > This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
 > -- *[[RiverResourceMonitoringProject_18503]]*
 
+> This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
+> -- *[[AllocatingFreshWaterToAquaticE_18641]]*
+
 ## Mentioned In
 - [[RiverResourceMonitoringProject_18503]]
+- [[AllocatingFreshWaterToAquaticE_18641]]

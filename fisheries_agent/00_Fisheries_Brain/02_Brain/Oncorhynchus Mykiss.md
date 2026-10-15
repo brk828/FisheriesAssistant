@@ -20,6 +20,12 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 > - **Diagnostic vs. exhaustive description**: Argues that abbreviated diagnoses based on unique, consistently observable character sets are sufficient for rapid species recognition, rather than exhaustive morphometric tables for large series of similar species. - **Case-specific character validity...
 > -- *[[SystematicStudiesAndBiodiversi_12427]]*
 
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[LeesFerryTrophyTroutFishery_18301]]
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
@@ -27,3 +33,5 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 - [[SystematicStudiesAndBiodiversi_12427]]
 - [[TheEffectOfTemperatureOnTheAcu_1967]]
 - [[WestTurkeyCreekFishS_1996_04_12]]
+- [[EndangeredAndThreatenedWildlif_11554]]
+- [[DistributionalAndLocalVernacul_13815]]

@@ -14,6 +14,10 @@ auto_enriched: true
 > - The [[Colorado River]] system from Davis Dam to the Upper Gulf retains restoration potential despite decades of degradation, per bi-national scientific consensus reached at a November 1994 CI/American Rivers workshop. - A dam-driven **reduction in freshwater and sediment flow** has been identif...
 > -- *[[ColoradoBiNationalRiverEcosyst_1995_01_09]]*
 
+> This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
+> -- *[[AllocatingFreshWaterToAquaticE_18641]]*
+
 ## Mentioned In
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
 - [[ReminiscencesOfASouthernTrip_17598]]
+- [[AllocatingFreshWaterToAquaticE_18641]]

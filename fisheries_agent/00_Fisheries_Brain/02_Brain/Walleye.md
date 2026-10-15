@@ -26,6 +26,18 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> The U.S. Fish and Wildlife Service published a final rule on July 20, 1994, listing the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the Endangered Species Act of 1973. This cyprinid fish, historically one of the most abundant and widespread fishes in the...
+> -- *[[EndangeredAndThreatenedWildlif_11651]]*
+
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -81,3 +93,7 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 - [[VariationsOnRereadingWalleyeSc_17403]]
 - [[VeWwTheColoragaRiver_14809]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[EndangeredAndThreatenedWildlif_11651]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[InlandCommercialFisheriesWorks_15658]]

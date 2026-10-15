@@ -65,6 +65,24 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This document contains three technical proposals submitted by [[BIO/WEST]] to modify Contract No. 0-CS-40-09110 for [[Humpback Chub]] studies in the [[Colorado River]] through [[Grand Canyon]]. The proposals, dated December 8, 1993, request additional funding totaling $270,983.63 to complete: (1) a...
+> -- *[[RevisedTechnicalProposalsToMod_13629]]*
+
+> This document comprises expert commentary from Dr. W.L. Minckley (Arizona State University) on the U.S. Fish & Wildlife Service's Biological Opinion (BO) for Lower Colorado River operations and maintenance. The correspondence, dated July 10, 1997, critiques the BO's approach to recovering...
+> -- *[[CommentsOnFinalBiologicalAndCo_14379]]*
+
+> This document consists of interagency correspondence between the [[Bureau of Reclamation]] Upper Colorado Regional Office and the [[U.S. Fish and Wildlife Service]] initiating formal Section 7 Consultation under the Endangered Species Act of 1973. The consultation addresses potential impacts of...
+> -- *[[SectionConsultationOperationOf_14814]]*
+
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -146,3 +164,9 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[RevisedTechnicalProposalsToMod_13629]]
+- [[CommentsOnFinalBiologicalAndCo_14379]]
+- [[SectionConsultationOperationOf_14814]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

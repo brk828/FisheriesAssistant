@@ -65,6 +65,30 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
 > -- *[[NoticeOfIntentToSueForViolatio_20521]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
+> This document consists of interagency correspondence between the [[Bureau of Reclamation]] Upper Colorado Regional Office and the [[U.S. Fish and Wildlife Service]] initiating formal Section 7 Consultation under the Endangered Species Act of 1973. The consultation addresses potential impacts of...
+> -- *[[SectionConsultationOperationOf_14814]]*
+
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
+> This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
+> -- *[[IndigenousBigriverFishesColora_18295]]*
+
+> This study evaluated the effectiveness of qualitative morphological rankings versus quantitative measurements for field identification of closely related cyprinid fishes in the genus [[Gila]] from the [[Yampa River]], [[Colorado]]. Six field technicians with no specialized systematic training...
+> -- *[[QualitativeCharactersIdentific_19084]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -271,3 +295,11 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[BriefInSupportOfPlaintiffsMoti_18646]]
 - [[IntraserviceSectionConsultatio_20152]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[SectionConsultationOperationOf_14814]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[EffectsOfElectrofishingFieldsO_15548]]
+- [[IndigenousBigriverFishesColora_18295]]
+- [[QualitativeCharactersIdentific_19084]]

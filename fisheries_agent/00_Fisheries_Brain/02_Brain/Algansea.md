@@ -20,7 +20,11 @@ auto_enriched: true
 > This research proposal by Clyde D. Barbour (University of Utah) requests two years of funding from the National Science Foundation to conduct systematic and evolutionary studies of fishes endemic to the [[Mesa Central]] of Mexico. The project focuses on the family [[Goodeidae]] (viviparous...
 > -- *[[ProposalForSupportOfResearchOn_15568]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[MolecularEvolutionAndBiogeogra_1994_06_28]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[ProposalForSupportOfResearchOn_15568]]
+- [[DistributionalAndLocalVernacul_13815]]

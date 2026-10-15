@@ -23,8 +23,12 @@ The Little Snake River is a major tributary of the Yampa River in the Upper Colo
 > These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
 ## Mentioned In
 - [[OccurrenceOfTwoEndangeredFishe_1990_07_19]]
 - [[StationProfileSaratogaNational_1993_12_11]]
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[TheColoradoRiverFishesRecovery_11196]]

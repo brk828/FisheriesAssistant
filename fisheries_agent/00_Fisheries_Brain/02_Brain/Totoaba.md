@@ -26,6 +26,9 @@ The Totoaba is an endangered large fish species native to the Gulf of California
 > This document comprises formal comments from Defenders of Wildlife on the U.S. Fish and Wildlife Service's Final Biological and Conference Opinion regarding Lower Colorado River operations and maintenance (Lake Mead to Southerly International Boundary). The organization critiques the consultation...
 > -- *[[ReCommentsOnFinalBiologicalAnd_12761]]*
 
+> This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
+> -- *[[AllocatingFreshWaterToAquaticE_18641]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
@@ -38,3 +41,4 @@ The Totoaba is an endangered large fish species native to the Gulf of California
 - [[ReminiscencesOfASouthernTrip_17598]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
+- [[AllocatingFreshWaterToAquaticE_18641]]

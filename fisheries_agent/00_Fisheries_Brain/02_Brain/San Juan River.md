@@ -38,6 +38,12 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This taxonomic report by [[Carl H. Eigenmann]] and Homer G. Fisher documents the distribution and collection records of the family [[Gymnotidae]] (electric knifefishes) from Trans-Andean Colombia and Ecuador. The study reports on extensive collections made between 1912-1913 in the [[Magdalena...
+> -- *[[TheGymnotidaeOfTransandeanColo_15808]]*
+
 ## Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -66,3 +72,5 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 - [[IntraserviceSectionConsultatio_11829]]
 - [[CapturesOfLarvalRazorbackSucke_18287]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[TheGymnotidaeOfTransandeanColo_15808]]

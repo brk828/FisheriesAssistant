@@ -23,6 +23,9 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 > This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
 > -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
 
+> This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
+> -- *[[MolecularVariationAndEvolution_18435]]*
+
 ## Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -32,3 +35,4 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 - [[ReAsuTopminnowPopulations_12698]]
 - [[StatusOfRefugialGilaTopminnow_1995_12_27]]
 - [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[MolecularVariationAndEvolution_18435]]

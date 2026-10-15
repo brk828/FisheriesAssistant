@@ -23,6 +23,15 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > - **Poeciliidae**: [[Gila Topminnow]] (endangered) — small live-bearing fish restricted to isolated spring and stream refugia. - **Cyprinodontidae**: [[Desert Pupfish]] (endangered, Arizona populations) — extremely restricted to spring systems like [[Quitobaquito Springs]]. - **Cyprinidae**: [[Sp...
 > -- *[[DesertFishesRecoveryTeamAction_11691]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> This master's thesis by Craig Stephen Ivanyi (University of Arizona, 1989) examines selected life history aspects of the [[Desert Sucker]] (*Catostomus clarkii*, also referred to as *Pantosteus clarkii*) in four southeastern Arizona streams. The study focused primarily on [[Sonoita Creek]], with...
+> -- *[[SelectedAspectsOfTheNaturalHis_14397]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -97,3 +106,6 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
 - [[VirginRiverRecoveryTeamMeeting_1997_04_25]]
 - [[VrrtNoticeAndMeetingMinutes_20253]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[SelectedAspectsOfTheNaturalHis_14397]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]

@@ -59,6 +59,9 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
 > -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
 
+> This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
+> -- *[[IndigenousBigriverFishesColora_18295]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -198,3 +201,4 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[LowerColoradoRiverBasinManagem_18432]]
 - [[IntraserviceSectionConsultatio_20152]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
+- [[IndigenousBigriverFishesColora_18295]]

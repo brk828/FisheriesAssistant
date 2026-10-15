@@ -23,6 +23,9 @@ The Huachuca Water Umbel appears to be a native aquatic plant species associated
 > - The species list is tied to the **[[Huachuca Mountains]]** and the **[[San Pedro River]]** drainage, an area described as one of the most biologically diverse mountain ranges in southern Arizona, shaped by rugged topography, varied substrates, bi-seasonal rainfall, perennial surface water, and ...
 > -- *[[TheNextParagraphIsMissingButTh_11894]]*
 
+> This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
+> -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
+
 ## Mentioned In
 - [[FishAndWildlifeServiceLetterOn_1994_08_22]]
 - [[IntraServiceSectionBiologicalE_1993_03_26]]
@@ -30,3 +33,4 @@ The Huachuca Water Umbel appears to be a native aquatic plant species associated
 - [[MemorandumOnTapewormEradicatio_1996_10_17]]
 - [[NoticeOfDayFindingsOnPetitions_1993_12_14]]
 - [[TheNextParagraphIsMissingButTh_11894]]
+- [[ReContinuationOfTheUsArmysSanP_11808]]

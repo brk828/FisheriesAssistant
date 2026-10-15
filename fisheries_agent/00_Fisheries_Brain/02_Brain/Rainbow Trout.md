@@ -47,6 +47,21 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
 > -- *[[TroutFishingAtCliffPondBrewste_15489]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
+> This comprehensive life history study of the [[Piute Sculpin]] (*Cottus beldingii*) in [[Lake Tahoe]] examined 6,424 specimens collected from September 1963 through September 1964. The research focused on diet composition, age and growth patterns, reproductive biology, and parasite loads. Sculpins...
+> -- *[[ContributionsToTheLifeHistoryO_15724]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This document outlines a comprehensive research plan for the [[Glen Canyon Environmental Studies]] (GCES) program, designed to investigate the ecological and economic impacts of [[Glen Canyon Dam]] operations on the [[Colorado River]] ecosystem through [[Grand Canyon]]. The plan addresses multiple...
+> -- *[[GcesPlanningDocumentResearchPl_18452]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -323,3 +338,8 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[DraftConservationAgreementForV_13234]]
 - [[TroutFishingAtCliffPondBrewste_15489]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[ContributionsToTheLifeHistoryO_15724]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[GcesPlanningDocumentResearchPl_18452]]

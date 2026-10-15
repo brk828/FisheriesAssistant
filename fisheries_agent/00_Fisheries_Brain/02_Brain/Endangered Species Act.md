@@ -59,6 +59,30 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This Federal Register notice from May 16, 1996, documents the U.S. Fish and Wildlife Service's restart of the endangered species listing program following a 13-month moratorium and severe funding constraints. The Service announces final listing priority guidance to allocate limited appropriations...
+> -- *[[EndangeredAndThreatenedWildlif_11734]]*
+
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
+> -- *[[APetitionPursuantToArticleOfTh_17637]]*
+
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -360,3 +384,11 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[IntraserviceSectionConsultatio_20152]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[EndangeredAndThreatenedWildlif_11564]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[EndangeredAndThreatenedWildlif_11734]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[APetitionPursuantToArticleOfTh_17637]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

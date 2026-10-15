@@ -23,7 +23,11 @@ The Rio Conchos is a major tributary of the Rio Grande located in the Mexico-Tex
 > - **Conservation recommendations:** - Continued monitoring of creek-mouth habitats supporting endangered Chihuahuan Desert fishes. - Cessation of further bait-minnow introductions to curb spread of exotics such as *Fundulus kansae*. - Targeted survey of the lower [[Rio Conchos]] to determine poss...
 > -- *[[FishesInhabitingTheRioGrandeTe_1977_07_09]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[CorrespondenceReCollectionLoca_1964_04_07]]
 - [[FishesInhabitingTheRioGrandeTe_1977_07_09]]
+- [[DistributionalAndLocalVernacul_13815]]

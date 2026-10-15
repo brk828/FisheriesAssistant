@@ -11,8 +11,12 @@ Apache-Sitgreaves National Forest is a large forest management area in Arizona t
 > This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
 > -- *[[AnnualReportOncorhynchusApache_11989]]*
 
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
 ## Mentioned In
 - [[FisheriesSurveyOfTheApacheSitg_1995_07_18]]
 - [[MinutesOfTheFebruaryDesertFish_1992_04_20]]
 - [[StipulationRegardingLivestockG_1998_04_16]]
 - [[AnnualReportOncorhynchusApache_11989]]
+- [[EndangeredAndThreatenedWildlif_11564]]

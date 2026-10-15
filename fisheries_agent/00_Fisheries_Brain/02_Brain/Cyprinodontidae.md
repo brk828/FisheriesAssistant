@@ -32,6 +32,9 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 > This document presents information about the [[Devil's Hole Pupfish]] (*Cyprinodon diabolis*), an extremely rare and geographically restricted species endemic to [[Devil's Hole]], Nevada. The document includes a photograph credited to Edwin Phil Pister, documenting this critically endangered desert...
 > -- *[[DevilsHolePupfishCyprinodonDia_18341]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReDescriptionOfAphaniusGinaon_1980]]
@@ -90,3 +93,4 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[DevilsHolePupfishCyprinodonDia_18341]]
+- [[DistributionalAndLocalVernacul_13815]]

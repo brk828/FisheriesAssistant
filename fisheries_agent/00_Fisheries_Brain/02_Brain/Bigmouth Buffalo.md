@@ -26,6 +26,9 @@ The Bigmouth Buffalo (Ictiobus cyprinellus) is a large North American cyprinid f
 > This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
 > -- *[[FisheryInvestigationsOnFortGib_14674]]*
 
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -39,3 +42,4 @@ The Bigmouth Buffalo (Ictiobus cyprinellus) is a large North American cyprinid f
 - [[SomeEffectsOfThreadfinShadIntr_15693]]
 - [[ThePropagationOfBuffalo_14839]]
 - [[FisheryInvestigationsOnFortGib_14674]]
+- [[InlandCommercialFisheriesWorks_15658]]

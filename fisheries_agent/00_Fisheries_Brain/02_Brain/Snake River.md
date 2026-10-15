@@ -26,6 +26,9 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 > This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
 > -- *[[FederalAidToFishRestorationAnn_19654]]*
 
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[EvaluationOfSpringChinookMigra_1969]]
@@ -39,3 +42,4 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 - [[TheCurrentStatusOfTheBruneauHo_1989_11_16]]
 - [[TribalAndTreatyObligationsIssu_18113]]
 - [[FederalAidToFishRestorationAnn_19654]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

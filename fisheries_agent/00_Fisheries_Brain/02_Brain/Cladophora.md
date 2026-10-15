@@ -26,6 +26,9 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 > This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
 > -- *[[AProposalToMonitorTheEffectsOf_17697]]*
 
+> This document outlines a comprehensive research plan for the [[Glen Canyon Environmental Studies]] (GCES) program, designed to investigate the ecological and economic impacts of [[Glen Canyon Dam]] operations on the [[Colorado River]] ecosystem through [[Grand Canyon]]. The plan addresses multiple...
+> -- *[[GcesPlanningDocumentResearchPl_18452]]*
+
 ## Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -41,3 +44,4 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 - [[TheComparativeFoodHabitsOfTheC_1950_07_15]]
 - [[TheEffectsOfBiologicalCommunit_12165]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
+- [[GcesPlanningDocumentResearchPl_18452]]

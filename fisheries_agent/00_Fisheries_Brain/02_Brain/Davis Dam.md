@@ -38,6 +38,12 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
+> -- *[[IndigenousBigriverFishesColora_18295]]*
+
 ## Mentioned In
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -61,3 +67,5 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[TransmittalRegardingReasonable_19809]]
 - [[LowerColoradoRiverBasinManagem_18432]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[IndigenousBigriverFishesColora_18295]]

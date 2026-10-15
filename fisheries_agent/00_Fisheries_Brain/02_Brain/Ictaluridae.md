@@ -29,6 +29,9 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 > This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
 > -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[ACaseOfAlbinismInTheTadpoleMad_20472]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -80,3 +83,4 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 - [[ZolTechniquesInConservationBio_1992_03_06]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[TheFaunalArchaeologyOfTheTubac_20377]]
+- [[DistributionalAndLocalVernacul_13815]]

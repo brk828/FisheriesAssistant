@@ -26,6 +26,9 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 > The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
 > -- *[[EndangeredSpeciesInformationSy_14003]]*
 
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -68,3 +71,4 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 - [[TheToxicityToWarmWaterFishesOf_14914]]
 - [[TurtlesInTheHomeAquarium_13269]]
 - [[EndangeredSpeciesInformationSy_14003]]
+- [[FisheryInventoryOfTheCoachella_13687]]

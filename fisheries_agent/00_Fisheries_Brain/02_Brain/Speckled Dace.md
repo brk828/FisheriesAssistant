@@ -35,6 +35,9 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
 > -- *[[AnnualReportOncorhynchusApache_11989]]*
 
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -152,3 +155,4 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[AddendumToTheMarchEnvironmenta_11496]]
 - [[AConservationorientedClassific_15455]]
 - [[AnnualReportOncorhynchusApache_11989]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

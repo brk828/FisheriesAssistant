@@ -32,6 +32,12 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
 > -- *[[TroutFishingAtCliffPondBrewste_15489]]*
 
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -90,3 +96,5 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[ABibliographyAndHostListForThe_15289]]
 - [[FederalAidToFishRestorationAnn_19654]]
 - [[TroutFishingAtCliffPondBrewste_15489]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[InlandCommercialFisheriesWorks_15658]]

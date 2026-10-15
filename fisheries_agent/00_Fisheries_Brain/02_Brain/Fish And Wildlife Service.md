@@ -32,6 +32,9 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -57,3 +60,4 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[RequestedMeetingnativeFishWork_15023]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

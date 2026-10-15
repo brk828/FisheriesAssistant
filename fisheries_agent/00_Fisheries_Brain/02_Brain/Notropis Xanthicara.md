@@ -11,6 +11,10 @@ auto_enriched: true
 > - The [[Cuatro Ciénegas Basin]] harbors a disproportionately high number of **endemic fish taxa** relative to its small geographic footprint, a pattern explicitly reviewed by Minckley (1978) in "Endemic fishes of the Cuatro Ciénegas Basin, Northern Coahuila, Mexico." - Taxonomic novelty is a recu...
 > -- *[[PartialBibliographyOnNaturalHi_13786]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[CuatroCienegasFishesResearchRe_13699]]
 - [[PartialBibliographyOnNaturalHi_13786]]
+- [[DistributionalAndLocalVernacul_13815]]

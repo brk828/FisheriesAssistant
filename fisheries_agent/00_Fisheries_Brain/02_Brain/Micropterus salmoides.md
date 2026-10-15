@@ -29,6 +29,12 @@ auto_enriched: true
 > This research proposal by Clyde D. Barbour (University of Utah) requests two years of funding from the National Science Foundation to conduct systematic and evolutionary studies of fishes endemic to the [[Mesa Central]] of Mexico. The project focuses on the family [[Goodeidae]] (viviparous...
 > -- *[[ProposalForSupportOfResearchOn_15568]]*
 
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -52,3 +58,5 @@ auto_enriched: true
 - [[WhyTheMassachusettsDivisionOfF_15491]]
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[ProposalForSupportOfResearchOn_15568]]
+- [[EndangeredAndThreatenedWildlif_11554]]
+- [[EndangeredAndThreatenedWildlif_11564]]

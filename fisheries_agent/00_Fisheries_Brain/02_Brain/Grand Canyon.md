@@ -56,6 +56,24 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This document contains three technical proposals submitted by [[BIO/WEST]] to modify Contract No. 0-CS-40-09110 for [[Humpback Chub]] studies in the [[Colorado River]] through [[Grand Canyon]]. The proposals, dated December 8, 1993, request additional funding totaling $270,983.63 to complete: (1) a...
+> -- *[[RevisedTechnicalProposalsToMod_13629]]*
+
+> This document consists of interagency correspondence between the [[Bureau of Reclamation]] Upper Colorado Regional Office and the [[U.S. Fish and Wildlife Service]] initiating formal Section 7 Consultation under the Endangered Species Act of 1973. The consultation addresses potential impacts of...
+> -- *[[SectionConsultationOperationOf_14814]]*
+
+> This document outlines a comprehensive research plan for the [[Glen Canyon Environmental Studies]] (GCES) program, designed to investigate the ecological and economic impacts of [[Glen Canyon Dam]] operations on the [[Colorado River]] ecosystem through [[Grand Canyon]]. The plan addresses multiple...
+> -- *[[GcesPlanningDocumentResearchPl_18452]]*
+
+> This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
+> -- *[[AllocatingFreshWaterToAquaticE_18641]]*
+
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -158,3 +176,9 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[EndangeredSpeciesProgramReview_19696]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[RevisedTechnicalProposalsToMod_13629]]
+- [[SectionConsultationOperationOf_14814]]
+- [[GcesPlanningDocumentResearchPl_18452]]
+- [[AllocatingFreshWaterToAquaticE_18641]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

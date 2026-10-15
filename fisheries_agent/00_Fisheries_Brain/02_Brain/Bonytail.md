@@ -38,6 +38,12 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 > This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
 > -- *[[LowerColoradoRiverBasinManagem_18432]]*
 
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
+> This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
+> -- *[[IndigenousBigriverFishesColora_18295]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -176,3 +182,5 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 - [[EffectsOfElectrofishingFieldsO_15544]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[LowerColoradoRiverBasinManagem_18432]]
+- [[EffectsOfElectrofishingFieldsO_15548]]
+- [[IndigenousBigriverFishesColora_18295]]

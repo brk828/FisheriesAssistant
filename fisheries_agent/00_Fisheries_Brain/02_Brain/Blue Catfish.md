@@ -26,6 +26,9 @@ Blue Catfish (*Ictalurus furcatus*) is a large, opportunistic ictalurid catfish 
 > This 1987 survey assessed ictalurid (catfish family) populations in the [[Yadkin River]] and [[South Yadkin River]] above and below [[Idols Dam]] and [[Cooleemee Dam]] to determine whether [[Flathead Catfish]] (*Pylodictis olivaris*) should be stocked upstream of these barriers. Using...
 > -- *[[SurveyOfIctaluridPopulationsIn_15266]]*
 
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AProvisionalCheckListOfTheFish_15941]]
@@ -43,3 +46,4 @@ Blue Catfish (*Ictalurus furcatus*) is a large, opportunistic ictalurid catfish 
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[SurveyOfIctaluridPopulationsIn_15266]]
+- [[InlandCommercialFisheriesWorks_15658]]

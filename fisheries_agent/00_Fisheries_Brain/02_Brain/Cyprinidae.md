@@ -38,6 +38,21 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
 > -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
 ## Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -291,3 +306,8 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[RecoveryTeamMeetingFebruary_14137]]
 - [[SiteVisitPotentialFishBarrierS_11854]]
 - [[TheFaunalArchaeologyOfTheTubac_20377]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[EndangeredAndThreatenedWildlif_11564]]
+- [[DistributionalAndLocalVernacul_13815]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]

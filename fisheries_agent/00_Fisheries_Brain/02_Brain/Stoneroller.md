@@ -23,6 +23,9 @@ Stoneroller refers to cyprinid fishes of the genus Campostoma, particularly comm
 > - **Species richness:** 38 species plus one hybrid documented; dominant taxa were cyprinids (minnows/shiners). - **Most abundant species:** [[Bluntnose Minnow]] (*Pimephales notatus*) — 27.8% of total catch; primarily a bottom feeder on dipterous larvae, ooze, and plant material; spawns after Jun...
 > -- *[[FishesOfKinkaidCreekIllinois_14812]]*
 
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
 ## Mentioned In
 - [[AnnotatedChecklistOfFishesFrom_1962]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -32,3 +35,4 @@ Stoneroller refers to cyprinid fishes of the genus Campostoma, particularly comm
 - [[FishesOfKinkaidCreekIllinois_14812]]
 - [[FishesOfTheHeadwatersOfShavers_11342]]
 - [[NaturalProductivityOfFishAndCr_1940]]
+- [[InlandCommercialFisheriesWorks_15658]]

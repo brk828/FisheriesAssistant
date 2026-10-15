@@ -38,6 +38,18 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 > This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
 > -- *[[EndangeredSpeciesProgramReview_19696]]*
 
+> This document contains three technical proposals submitted by [[BIO/WEST]] to modify Contract No. 0-CS-40-09110 for [[Humpback Chub]] studies in the [[Colorado River]] through [[Grand Canyon]]. The proposals, dated December 8, 1993, request additional funding totaling $270,983.63 to complete: (1) a...
+> -- *[[RevisedTechnicalProposalsToMod_13629]]*
+
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
+> This document outlines a comprehensive research plan for the [[Glen Canyon Environmental Studies]] (GCES) program, designed to investigate the ecological and economic impacts of [[Glen Canyon Dam]] operations on the [[Colorado River]] ecosystem through [[Grand Canyon]]. The plan addresses multiple...
+> -- *[[GcesPlanningDocumentResearchPl_18452]]*
+
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -98,3 +110,7 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 - [[BridgingTheGapToLongtermMonito_18440]]
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[EndangeredSpeciesProgramReview_19696]]
+- [[RevisedTechnicalProposalsToMod_13629]]
+- [[EffectsOfElectrofishingFieldsO_15548]]
+- [[GcesPlanningDocumentResearchPl_18452]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

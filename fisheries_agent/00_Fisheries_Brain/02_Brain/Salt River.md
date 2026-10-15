@@ -41,6 +41,18 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfChannelCatfishIc_14101]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -91,3 +103,7 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[IntraserviceSectionConsultatio_20152]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[EndangeredAndThreatenedWildlif_11554]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]

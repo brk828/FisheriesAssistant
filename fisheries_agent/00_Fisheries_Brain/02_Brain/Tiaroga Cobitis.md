@@ -29,6 +29,9 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
 > -- *[[MinutesDesertFishesRecoveryTea_15843]]*
 
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Tiaroga cobitis]] (loach minnow) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, historically distributed throughout the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11552]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -60,3 +63,4 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
+- [[EndangeredAndThreatenedWildlif_11552]]

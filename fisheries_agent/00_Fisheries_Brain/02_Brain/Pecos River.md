@@ -23,6 +23,12 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 > This document is an administrative and operational summary of the U.S. Fish and Wildlife Service (USFWS) **Southwest Region** fisheries program, covering Arizona, New Mexico, Oklahoma, and Texas. As of the 1995 ecosystem-based reorganization, the Division of Fisheries operated **seven National Fi...
 > -- *[[FisheriesFieldStationSummarySo_1996]]*
 
+> This comprehensive study assessed ecological suitability for two imperiled Rio Grande basin fishes—[[Rio Grande Chub]] (*Gila pandora*) and [[Rio Grande Sucker]] (*Pantosteus plebeius*)—using dual modeling approaches across their overlapping ranges in Colorado and New Mexico. Researchers conducted...
+> -- *[[SiteAndLandscapescaleEstimates_2026]]*
+
+> The U.S. Fish and Wildlife Service published a final rule on July 20, 1994, listing the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the Endangered Species Act of 1973. This cyprinid fish, historically one of the most abundant and widespread fishes in the...
+> -- *[[EndangeredAndThreatenedWildlif_11651]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[CompositionAndDerivationOfTheN_15363]]
@@ -36,3 +42,5 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 - [[ListingOfFederallyThreatenedAn_1992_11_13]]
 - [[ParasitesOfSelectedFishesOfThe_1980_02_08]]
 - [[RequestForInformationOnPropose_1997_03_13]]
+- [[SiteAndLandscapescaleEstimates_2026]]
+- [[EndangeredAndThreatenedWildlif_11651]]

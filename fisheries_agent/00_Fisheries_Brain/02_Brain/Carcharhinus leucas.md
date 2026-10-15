@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Carcharhinus leucas
+
+## Summary
+Carcharhinus leucas is the bull shark, a euryhaline species that regularly enters freshwater environments. This source documents that bull sharks penetrate far inland in major tropical rivers of Mexico.
+
+## Context
+
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
+## Mentioned In
+- [[DistributionalAndLocalVernacul_13815]]

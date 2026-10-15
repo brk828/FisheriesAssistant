@@ -26,6 +26,12 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 > This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
 > -- *[[FisheryInvestigationsOnFortGib_14674]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 20, 1994, listing the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the Endangered Species Act of 1973. This cyprinid fish, historically one of the most abundant and widespread fishes in the...
+> -- *[[EndangeredAndThreatenedWildlif_11651]]*
+
+> This report documents fisheries management activities in reclaimed coal strip-pit lakes across southeastern Kansas (Crawford, Cherokee, and Linn Counties) from approximately 1951 through spring 1956. The [[Kansas Forestry Fish and Game Commission]] conducted reconditioning and restocking programs...
+> -- *[[SummaryOfFishGrowthAndFishingS_14038]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -67,3 +73,5 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[UseOfAntimycinForSelectiveThin_14083]]
 - [[FisheryInvestigationsOnFortGib_14674]]
+- [[EndangeredAndThreatenedWildlif_11651]]
+- [[SummaryOfFishGrowthAndFishingS_14038]]

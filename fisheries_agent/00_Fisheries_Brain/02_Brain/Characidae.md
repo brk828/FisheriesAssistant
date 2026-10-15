@@ -17,6 +17,9 @@ Characidae is a large and diverse family of freshwater fishes native primarily t
 > - **Venomous defensive structures**: [[Scorpaenidae]] (scorpionfishes, turkeyfishes/[[Pterois]], stonefishes/[[Synanceja]]) possess venomous spines; [[Siganidae]] (rabbitfishes) and [[Plotosidae]] (tropical marine/freshwater catfishes) also carry venom apparatus, though noted as "apparently rathe...
 > -- *[[LetterToRayVaughnOpposingRestr_1973_04_13]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
 - [[BookReviewOfHowToKnowTheFreshw_1959]]
@@ -25,3 +28,4 @@ Characidae is a large and diverse family of freshwater fishes native primarily t
 - [[GuideToTheFreshwaterFishesOfMe_15301]]
 - [[KeyToTheSpeciesOfTheGenusColos_1983_09_12]]
 - [[LetterToRayVaughnOpposingRestr_1973_04_13]]
+- [[DistributionalAndLocalVernacul_13815]]

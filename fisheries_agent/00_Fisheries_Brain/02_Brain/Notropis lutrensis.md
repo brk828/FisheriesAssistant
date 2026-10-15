@@ -29,6 +29,15 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 > This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
 > -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
 
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Tiaroga cobitis]] (loach minnow) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, historically distributed throughout the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11552]]*
+
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -48,3 +57,6 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 - [[ToleranceOfHeadwaterVsMainstre_15191]]
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
+- [[EndangeredAndThreatenedWildlif_11552]]
+- [[EndangeredAndThreatenedWildlif_11554]]
+- [[EndangeredAndThreatenedWildlif_11564]]

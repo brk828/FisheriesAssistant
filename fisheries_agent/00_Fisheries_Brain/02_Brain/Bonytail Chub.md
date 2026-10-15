@@ -62,6 +62,24 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 > This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
 > -- *[[NoticeOfIntentToSueForViolatio_20521]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This document comprises expert commentary from Dr. W.L. Minckley (Arizona State University) on the U.S. Fish & Wildlife Service's Biological Opinion (BO) for Lower Colorado River operations and maintenance. The correspondence, dated July 10, 1997, critiques the BO's approach to recovering...
+> -- *[[CommentsOnFinalBiologicalAndCo_14379]]*
+
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This study evaluated the effectiveness of qualitative morphological rankings versus quantitative measurements for field identification of closely related cyprinid fishes in the genus [[Gila]] from the [[Yampa River]], [[Colorado]]. Six field technicians with no specialized systematic training...
+> -- *[[QualitativeCharactersIdentific_19084]]*
+
 ## Mentioned In
 - [[ANonLethalStomachPumpingTechni_14917]]
 - [[ANonlethalTechniqueToRecoverGu_1994]]
@@ -339,3 +357,9 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 - [[RiverResourceMonitoringProject_18503]]
 - [[BriefInSupportOfPlaintiffsMoti_18646]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[CommentsOnFinalBiologicalAndCo_14379]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[QualitativeCharactersIdentific_19084]]

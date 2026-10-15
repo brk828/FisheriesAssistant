@@ -35,6 +35,12 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 > This document records the meeting notes from the [[Glen Canyon Environmental Studies]] (GCES) Executive Review Committee (ERC) meeting held June 15, 1989, in Flagstaff, Arizona. The ERC, composed of representatives from the [[Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], [[Western...
 > -- *[[ExecutiveReviewCommitteeMeetin_19686]]*
 
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[ErrataSheetFyWorkPlanForTheRec_20993]]
@@ -47,3 +53,5 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[TransmittalRegardingReasonable_19809]]
 - [[ExecutiveReviewCommitteeMeetin_19686]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

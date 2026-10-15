@@ -26,6 +26,9 @@ West Turkey Creek is a perennial stream in the Rio Yaqui drainage basin of south
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
 > -- *[[MinutesDesertFishesRecoveryTea_15843]]*
 
+> This 15-month study (1996-97) evaluated the ecological effects of fitted-stone erosion control structures ("gabions") installed across ~15 years on the 6,153-hectare [[El Coronado Ranch]] in the northwestern [[Chiricahua Mountains]], Arizona. The ranch, historically overgrazed, experienced...
+> -- *[[EcosystemRepairByHeadwaterEros_15854]]*
+
 ## Mentioned In
 - [[ChiricahuaRegionalCouncilNewsl_16142]]
 - [[FishHealthInspectionReportDext_1999]]
@@ -36,3 +39,4 @@ West Turkey Creek is a perennial stream in the Rio Yaqui drainage basin of south
 - [[TheConservationDilemmaOfNonNat_15856]]
 - [[WestTurkeyCreekFishS_1997_10_31]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
+- [[EcosystemRepairByHeadwaterEros_15854]]

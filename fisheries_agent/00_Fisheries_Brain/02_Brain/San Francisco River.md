@@ -29,6 +29,15 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 > This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[RecoveryEffortsForBonytailChub_11837]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Tiaroga cobitis]] (loach minnow) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, historically distributed throughout the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11552]]*
+
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -51,3 +60,6 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 - [[UpperVerdeRiverAquaticStudy_15611]]
 - [[AddendumToTheMarchEnvironmenta_11496]]
 - [[RecoveryEffortsForBonytailChub_11837]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[EndangeredAndThreatenedWildlif_11552]]
+- [[EndangeredAndThreatenedWildlif_11554]]

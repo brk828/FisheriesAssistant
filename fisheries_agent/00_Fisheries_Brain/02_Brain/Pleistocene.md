@@ -17,7 +17,11 @@ The Pleistocene epoch (approximately 2.6 million to 11,700 years ago) is signifi
 > - **Deep oceanic barrier**: The broad expanse of open ocean between the New World and Indo-Pacific realm has produced a sharp faunal contrast (per [[Ekman's Biogeographic Model]]), limiting coral-reef fauna in the eastern Pacific. - **Current-mediated connectivity**: The [[Equatorial Counter-curr...
 > -- *[[InfluenceOfLandMassesOnTheDist_14157]]*
 
+> This bachelor's thesis by Lydia A. Breunig (Arizona State University, 1995) presents results from a telephone survey of 448 Arizona residents examining public awareness, knowledge, and support for conserving [[Arizona Native Fish]]. The study employed a pre-test/post-test design to assess whether...
+> -- *[[DraftpublicPerceptionsOfAndSup_12930]]*
+
 ## Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[EvolutionarySignificanceOfIntr_19106]]
 - [[InfluenceOfLandMassesOnTheDist_14157]]
+- [[DraftpublicPerceptionsOfAndSup_12930]]

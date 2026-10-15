@@ -11,5 +11,9 @@ Colorado State University houses the Larval Fish Laboratory, whose biologists pa
 > This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
 > -- *[[EffectsOfElectrofishingFieldsO_15544]]*
 
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
 ## Mentioned In
 - [[EffectsOfElectrofishingFieldsO_15544]]
+- [[EffectsOfElectrofishingFieldsO_15548]]

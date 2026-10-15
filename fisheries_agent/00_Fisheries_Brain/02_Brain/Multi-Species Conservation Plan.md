@@ -20,8 +20,12 @@ A Multi-Species Conservation Plan is an integrated management and protection str
 > This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
 > -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
 
+> This document comprises expert commentary from Dr. W.L. Minckley (Arizona State University) on the U.S. Fish & Wildlife Service's Biological Opinion (BO) for Lower Colorado River operations and maintenance. The correspondence, dated July 10, 1997, critiques the BO's approach to recovering...
+> -- *[[CommentsOnFinalBiologicalAndCo_14379]]*
+
 ## Mentioned In
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
 - [[CommentsOnTheFinalBiologicalAn_1997_07_25]]
 - [[CommentsOnTheUSFishAndWildlife_1997_07_25]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
+- [[CommentsOnFinalBiologicalAndCo_14379]]

@@ -23,6 +23,9 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 > This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
 > -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
 
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -30,3 +33,4 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 - [[LetterRegardingReEvaluationOfD_1977_05_16]]
 - [[LetterRequestingUtahFishAndMol_1997_10_27]]
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

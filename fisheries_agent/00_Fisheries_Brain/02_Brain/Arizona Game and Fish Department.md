@@ -71,6 +71,21 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
+> This document contains three technical proposals submitted by [[BIO/WEST]] to modify Contract No. 0-CS-40-09110 for [[Humpback Chub]] studies in the [[Colorado River]] through [[Grand Canyon]]. The proposals, dated December 8, 1993, request additional funding totaling $270,983.63 to complete: (1) a...
+> -- *[[RevisedTechnicalProposalsToMod_13629]]*
+
+> This document is a cooperative agreement proposal between [[Arizona State University]] (ASU) and the [[Arizona Game and Fish Department]] for non-game wildlife and fisheries investigations. Proposed by W. L. Minckley, Professor of Zoology at ASU, in collaboration with James E. Brooks, Biologist in...
+> -- *[[NongameWildlifeAndFisheriesInv_13701]]*
+
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -260,3 +275,8 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[RiverResourceMonitoringProject_18503]]
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[EndangeredAndThreatenedWildlif_11564]]
+- [[RevisedTechnicalProposalsToMod_13629]]
+- [[NongameWildlifeAndFisheriesInv_13701]]
+- [[EffectsOfElectrofishingFieldsO_15548]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]

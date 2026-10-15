@@ -17,9 +17,13 @@ Leuciscidae is a family of freshwater cypriniform fishes that was established th
 > - **[[Cyprinodontidae]] (Pupfish)** — *Cyprinodon macularius*: small-bodied, robust desert cyprinodontiforms adapted to extreme salinity and temperature fluctuation; the [[Quitobaquito Pupfish]] is a recognized subspecies (*C. m. eremus*) noted as "soon to be elevated to full-species status" per ...
 > -- *[[TableVulnerableSpeciesInPimaCo_18770]]*
 
+> This comprehensive study assessed ecological suitability for two imperiled Rio Grande basin fishes—[[Rio Grande Chub]] (*Gila pandora*) and [[Rio Grande Sucker]] (*Pantosteus plebeius*)—using dual modeling approaches across their overlapping ranges in Colorado and New Mexico. Researchers conducted...
+> -- *[[SiteAndLandscapescaleEstimates_2026]]*
+
 ## Mentioned In
 - [[CliolaHybopsisTopekaGilbertCur_18324]]
 - [[DesertFishesCouncilLetterOfSup_1985_07_19]]
 - [[MeetingNoticeOnLittleColoradoR_1994_01_21]]
 - [[RequestToStockNativeFishAtAsuG_1988_06_29]]
 - [[TableVulnerableSpeciesInPimaCo_18770]]
+- [[SiteAndLandscapescaleEstimates_2026]]

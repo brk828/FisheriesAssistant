@@ -26,6 +26,12 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 > This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
 > -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
 
+> This master's thesis by Craig Stephen Ivanyi (University of Arizona, 1989) examines selected life history aspects of the [[Desert Sucker]] (*Catostomus clarkii*, also referred to as *Pantosteus clarkii*) in four southeastern Arizona streams. The study focused primarily on [[Sonoita Creek]], with...
+> -- *[[SelectedAspectsOfTheNaturalHis_14397]]*
+
+> This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
+> -- *[[MolecularVariationAndEvolution_18435]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -37,3 +43,5 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[StatusOfTheGilaTopminnowAndIts_13684]]
 - [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[SelectedAspectsOfTheNaturalHis_14397]]
+- [[MolecularVariationAndEvolution_18435]]

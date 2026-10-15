@@ -35,6 +35,21 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
 > -- *[[DraftliteratureReviewOfTheStri_15768]]*
 
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
+> This administrative report documents a record-breaking year for [[California Department of Fish and Game]] hatchery operations during fiscal year 1967-68. Despite two hatcheries being out of service for the entire year, the Department planted 2,706,909 lb of fish, exceeding the previous year's...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14868]]*
+
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This document outlines a comprehensive research plan for the [[Glen Canyon Environmental Studies]] (GCES) program, designed to investigate the ecological and economic impacts of [[Glen Canyon Dam]] operations on the [[Colorado River]] ecosystem through [[Grand Canyon]]. The plan addresses multiple...
+> -- *[[GcesPlanningDocumentResearchPl_18452]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -142,3 +157,8 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[ProductionOfTheThreadfinShadDo_15096]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[DraftliteratureReviewOfTheStri_15768]]
+- [[FisheryInventoryOfTheCoachella_13687]]
+- [[CaliforniaTroutSalmonAndWarmwa_14868]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[GcesPlanningDocumentResearchPl_18452]]

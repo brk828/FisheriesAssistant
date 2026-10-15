@@ -44,6 +44,18 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
 > -- *[[TroutFishingAtCliffPondBrewste_15489]]*
 
+> This comprehensive study assessed ecological suitability for two imperiled Rio Grande basin fishes—[[Rio Grande Chub]] (*Gila pandora*) and [[Rio Grande Sucker]] (*Pantosteus plebeius*)—using dual modeling approaches across their overlapping ranges in Colorado and New Mexico. Researchers conducted...
+> -- *[[SiteAndLandscapescaleEstimates_2026]]*
+
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
+> This comprehensive life history study of the [[Piute Sculpin]] (*Cottus beldingii*) in [[Lake Tahoe]] examined 6,424 specimens collected from September 1963 through September 1964. The research focused on diet composition, age and growth patterns, reproductive biology, and parasite loads. Sculpins...
+> -- *[[ContributionsToTheLifeHistoryO_15724]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -171,3 +183,7 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[DraftConservationAgreementForV_13234]]
 - [[TroutFishingAtCliffPondBrewste_15489]]
+- [[SiteAndLandscapescaleEstimates_2026]]
+- [[EndangeredAndThreatenedWildlif_11564]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[ContributionsToTheLifeHistoryO_15724]]

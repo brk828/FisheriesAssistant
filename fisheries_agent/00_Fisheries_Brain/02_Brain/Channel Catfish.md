@@ -59,6 +59,48 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
+> This 1972 Master's thesis reports the first identification of the tapeworm *Ophiotaenia fragilus* from the [[Colorado River Squawfish]] (*Ptychocheilus lucius*), a native cyprinid that has experienced dramatic population decline over 30 years. Thirty-nine cestode specimens were recovered from the...
+> -- *[[AnIntestinalCestodeOfTheColora_13882]]*
+
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
+> This report documents fisheries management activities in reclaimed coal strip-pit lakes across southeastern Kansas (Crawford, Cherokee, and Linn Counties) from approximately 1951 through spring 1956. The [[Kansas Forestry Fish and Game Commission]] conducted reconditioning and restocking programs...
+> -- *[[SummaryOfFishGrowthAndFishingS_14038]]*
+
+> This administrative report documents a record-breaking year for [[California Department of Fish and Game]] hatchery operations during fiscal year 1967-68. Despite two hatcheries being out of service for the entire year, the Department planted 2,706,909 lb of fish, exceeding the previous year's...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14868]]*
+
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
+> Research at [[Auburn University]] Agricultural Experiment Station demonstrated that intensive pond management can yield up to 1.5 tons of [[Channel Catfish]] (Ictalurus punctatus) per acre annually. The optimal stocking combination consists of 3,000 catfish, 1,000 [[Fathead Minnow]]s (Pimephales...
+> -- *[[OverATonOfChannelCatfishPerAcr_18668]]*
+
+> This Master's thesis (1971) investigated the ecology of juvenile fish (10-100 mm) in [[Imperial Reservoir]], a 2955-hectare impoundment on the [[Lower Colorado River]] north of Yuma, Arizona. The study was motivated by planned channelization that could alter critical spawning and rearing habitats....
+> -- *[[EcologyOfJuvenileFishInImperia_19643]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -308,3 +350,17 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[BiochemicalAnalysisOfGeneProdu_17930]]
 - [[EndangeredSpeciesProgramReview_19696]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[EndangeredAndThreatenedWildlif_11564]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[FisheryInventoryOfTheCoachella_13687]]
+- [[AnIntestinalCestodeOfTheColora_13882]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[SummaryOfFishGrowthAndFishingS_14038]]
+- [[CaliforniaTroutSalmonAndWarmwa_14868]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[InlandCommercialFisheriesWorks_15658]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]
+- [[OverATonOfChannelCatfishPerAcr_18668]]
+- [[EcologyOfJuvenileFishInImperia_19643]]

@@ -23,6 +23,9 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 > - Notable peak production in FY1991 (~1.53 million fish distributed), followed by a decline in FY1992. - All distributions in this period went to "Other" federal waters and state waters; no fish reported to private waters or direct FWS-managed federal waters in this dataset. - **Unique Regional R...
 > -- *[[StationProfileOfWalhallaNation_19515]]*
 
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
 ## Mentioned In
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
@@ -31,3 +34,4 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 - [[StationProfileOfDale_1994]]
 - [[StationProfileOfWalhallaNation_19515]]
 - [[StationProfileOfWolf_1994]]
+- [[EndangeredAndThreatenedWildlif_11580]]

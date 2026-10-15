@@ -20,9 +20,13 @@ The White Mountains refers to a mountain range in east-central Arizona that serv
 > This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
 > -- *[[AnnualReportOncorhynchusApache_11989]]*
 
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
 ## Mentioned In
 - [[ColdwaterFishStockingAndNative_1995]]
 - [[CommentsOnTheEnvironmentalAsse_1990]]
 - [[MolluscaOfTheSouthwesternState_1918]]
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[AnnualReportOncorhynchusApache_11989]]
+- [[EndangeredAndThreatenedWildlif_11564]]

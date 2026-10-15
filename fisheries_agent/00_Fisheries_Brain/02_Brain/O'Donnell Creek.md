@@ -11,6 +11,10 @@ auto_enriched: true
 > - **40 total sites** across Arizona were evaluated and formally declared extirpated for stocked [[Gila Topminnow]] and [[Desert Pupfish]] populations, based on the 1995 and 1996 AGFD Provisional Extirpation Reports. - Extirpation declarations followed a formal, multi-agency review process involvi...
 > -- *[[SitesDeclaredExtirpatedForGila_11752]]*
 
+> This master's thesis by Craig Stephen Ivanyi (University of Arizona, 1989) examines selected life history aspects of the [[Desert Sucker]] (*Catostomus clarkii*, also referred to as *Pantosteus clarkii*) in four southeastern Arizona streams. The study focused primarily on [[Sonoita Creek]], with...
+> -- *[[SelectedAspectsOfTheNaturalHis_14397]]*
+
 ## Mentioned In
 - [[ODonnellWatershedStockTankSurv_16516]]
 - [[SitesDeclaredExtirpatedForGila_11752]]
+- [[SelectedAspectsOfTheNaturalHis_14397]]

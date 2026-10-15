@@ -20,7 +20,11 @@ Aravaipa Canyon Wilderness is a protected area in Arizona centered on Aravaipa C
 > - **Habitat structure**: Aravaipa Creek is described as containing "the largest assemblage of native fish in the State of Arizona." The surrounding watershed includes approximately 100 dirt/masonry stock tanks distributed across four BLM grazing allotments (South Rim, Aravaipa, Dry Camp, Painted ...
 > -- *[[AcquiredLandsExoticFishRemoval_1987]]*
 
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[SummaryOfDiscussionsToBeUsedAs_1970_06_26]]
 - [[TheRecreationalImpactOfReducin_16581]]
+- [[EndangeredAndThreatenedWildlif_11554]]

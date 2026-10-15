@@ -68,6 +68,30 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> This memorandum from Ken Wiley to David Mladenoff, dated July 1, 1987, presents a first draft plan for renovating [[Palm Lake]] at the [[Hassayampa River Preserve]] in Arizona. The project aims to remove exotic fish species and introduce endangered native species, specifically [[Gila elegans]]...
+> -- *[[RenovationOfPalmLakeHassayampa_11969]]*
+
+> This document contains three technical proposals submitted by [[BIO/WEST]] to modify Contract No. 0-CS-40-09110 for [[Humpback Chub]] studies in the [[Colorado River]] through [[Grand Canyon]]. The proposals, dated December 8, 1993, request additional funding totaling $270,983.63 to complete: (1) a...
+> -- *[[RevisedTechnicalProposalsToMod_13629]]*
+
+> This document consists of interagency correspondence between the [[Bureau of Reclamation]] Upper Colorado Regional Office and the [[U.S. Fish and Wildlife Service]] initiating formal Section 7 Consultation under the Endangered Species Act of 1973. The consultation addresses potential impacts of...
+> -- *[[SectionConsultationOperationOf_14814]]*
+
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
+> -- *[[APetitionPursuantToArticleOfTh_17637]]*
+
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -294,3 +318,11 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[IntraserviceSectionConsultatio_20152]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[RenovationOfPalmLakeHassayampa_11969]]
+- [[RevisedTechnicalProposalsToMod_13629]]
+- [[SectionConsultationOperationOf_14814]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[APetitionPursuantToArticleOfTh_17637]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

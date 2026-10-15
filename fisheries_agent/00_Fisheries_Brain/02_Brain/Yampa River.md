@@ -38,6 +38,27 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
+> -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
+
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
+> This study evaluated the effectiveness of qualitative morphological rankings versus quantitative measurements for field identification of closely related cyprinid fishes in the genus [[Gila]] from the [[Yampa River]], [[Colorado]]. Six field technicians with no specialized systematic training...
+> -- *[[QualitativeCharactersIdentific_19084]]*
+
+> This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
+> -- *[[MitochondrialDnaDiversityWithi_19127]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -98,3 +119,10 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[EffectsOfElectrofishingFieldsO_15544]]
 - [[BriefInSupportOfPlaintiffsMoti_18646]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[TheRazorbackSuckerXyrauchenTex_15245]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[EffectsOfElectrofishingFieldsO_15548]]
+- [[QualitativeCharactersIdentific_19084]]
+- [[MitochondrialDnaDiversityWithi_19127]]

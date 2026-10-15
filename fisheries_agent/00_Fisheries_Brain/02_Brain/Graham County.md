@@ -14,6 +14,10 @@ Graham County is a county in Arizona that contains part of Aravaipa Creek. The 1
 > This memorandum documents severe flood damage to the [[Big Spring]] [[Gila Topminnow]] reintroduction site in [[Graham County]], Arizona, following an intense localized storm on August 21, 1990. The flood destroyed critical pool habitat, reduced the observable topminnow population from abundant to...
 > -- *[[ReportOfFloodDamageToBigSpring_18984]]*
 
+> This 1987 baseline report documents vegetation and breeding bird communities along a 3 km cattle exclosure established in 1984 on [[Lower Bonita Creek]], [[Graham County]], [[Arizona]]. The study was conducted by [[William C. Hunter]] from [[Arizona State University]] for the [[U.S. Bureau of Land...
+> -- *[[ChangesInRiparianVegetationAnd_14524]]*
+
 ## Mentioned In
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
 - [[ReportOfFloodDamageToBigSpring_18984]]
+- [[ChangesInRiparianVegetationAnd_14524]]

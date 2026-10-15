@@ -23,6 +23,9 @@ Notropis is a genus of small freshwater cyprinid fishes (minnows) distributed th
 > - **Subspecies-level resolution**: Trinomials (subspecies designations) are used only where subspecific distribution could be confidently determined (e.g., *[[Clinostomus funduloides|Clinostomus f. funduloides]]*, *[[Clinostomus funduloides|Clinostomus f. estor]]*, *[[Etheostoma blennioides|Etheo...
 > -- *[[ChecklistOfTheFishesOfTheCentr_1982_04_13]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[ASystematicAndGeographicalStud_1961]]
@@ -35,3 +38,4 @@ Notropis is a genus of small freshwater cyprinid fishes (minnows) distributed th
 - [[ObservationsOnTheFishesOfTheGe_1909_12_08]]
 - [[OccasionalPapersOfTheMuseumOfZ_1965]]
 - [[SoundDiscriminationByMalesOfTw_12764]]
+- [[DistributionalAndLocalVernacul_13815]]

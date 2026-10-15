@@ -23,8 +23,16 @@ The Colorado River, in the context of fish science and conservation, refers to a
 > - **Establishment**: Founded in 1962 under Public Land Order No. 1941 (Federal Register Vol. 24, Num. 162, August 19, 1959). - **Primary Mission**: Mitigation hatchery producing [[Rainbow Trout]] for the coldwater fishery created by [[Hoover Dam]]. - **Infrastructure**: Includes a hatchery buildi...
 > -- *[[StationProfileOfWillowBeachNat_19507]]*
 
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This study evaluated the effectiveness of qualitative morphological rankings versus quantitative measurements for field identification of closely related cyprinid fishes in the genus [[Gila]] from the [[Yampa River]], [[Colorado]]. Six field technicians with no specialized systematic training...
+> -- *[[QualitativeCharactersIdentific_19084]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
 - [[MemorandumOfUnderstandingOnEnd_11447]]
 - [[StationProfileOfWillowBeachNat_19507]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[QualitativeCharactersIdentific_19084]]

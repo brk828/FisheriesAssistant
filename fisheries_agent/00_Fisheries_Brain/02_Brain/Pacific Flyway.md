@@ -11,5 +11,9 @@ The Pacific Flyway is a major migratory bird route along North America's Pacific
 > This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
 > -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
 
+> This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
+> -- *[[AllocatingFreshWaterToAquaticE_18641]]*
+
 ## Mentioned In
 - [[AgendaAttendeesAndSummariesOfP_14401]]
+- [[AllocatingFreshWaterToAquaticE_18641]]

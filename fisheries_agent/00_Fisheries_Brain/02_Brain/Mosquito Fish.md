@@ -11,8 +11,12 @@ Mosquito fish (Gambusia affinis) are small, hardy livebearing cyprinodontids com
 > 1. **Uncontaminated Source (State College, Oktibbeha Co., MS):** Fish collected from farm ponds isolated from known pesticide use, serving as a baseline "susceptible" population. 2. **Contaminated Source (Mississippi Delta):** * [[Golden Shiner]] and [[Green Sunfish]] collected from a bayou borde...
 > -- *[[ToxicityOfDursbanToThreeSpecie_16343]]*
 
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
 ## Mentioned In
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
 - [[TolerancesToFiveChlorinatedHyd_16339]]
 - [[ToxicityOfDursbanToThreeSpecie_16343]]
+- [[InterimProceduresForStockingNo_15423]]

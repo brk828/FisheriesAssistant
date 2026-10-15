@@ -20,6 +20,9 @@ The Arizona Game and Fish Commission is the state regulatory agency responsible 
 > This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
 > -- *[[RiverResourceMonitoringProject_18503]]*
 
+> This document is a cooperative agreement proposal between [[Arizona State University]] (ASU) and the [[Arizona Game and Fish Department]] for non-game wildlife and fisheries investigations. Proposed by W. L. Minckley, Professor of Zoology at ASU, in collaboration with James E. Brooks, Biologist in...
+> -- *[[NongameWildlifeAndFisheriesInv_13701]]*
+
 ## Mentioned In
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
 - [[CaliforniaReptileInvestigation_1994_09_27]]
@@ -28,3 +31,4 @@ The Arizona Game and Fish Commission is the state regulatory agency responsible 
 - [[TheGilaBoxAWildernessCanyonOnT_13093]]
 - [[ToxapheneAsAFishToxin_1951]]
 - [[RiverResourceMonitoringProject_18503]]
+- [[NongameWildlifeAndFisheriesInv_13701]]

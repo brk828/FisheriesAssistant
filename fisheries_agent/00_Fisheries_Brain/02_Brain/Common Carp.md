@@ -26,6 +26,21 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 > This experimental pond study examined the top-down effects of piscivorous [[Largemouth Bass]] (*Micropterus salmoides*) on nutrients, turbidity, phytoplankton, zooplankton, and fish communities in shallow eutrophic ponds. The fish assemblage included [[Western Mosquitofish]] (*Gambusia affinis*),...
 > -- *[[GapeLimitationPreySizeRefugesA_2006]]*
 
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -170,3 +185,8 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 - [[VerdeRiverFishSampling_1989_03_06]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
 - [[GapeLimitationPreySizeRefugesA_2006]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[InlandCommercialFisheriesWorks_15658]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]

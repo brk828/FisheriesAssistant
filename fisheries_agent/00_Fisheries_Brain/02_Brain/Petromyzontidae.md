@@ -23,6 +23,9 @@ Petromyzontidae is a family of jawless fish commonly known as lampreys, characte
 > - **Primary freshwater families** (Division I): [[Hiodontidae]], [[Umbridae]], [[Esocidae]], [[Dalliidae]], [[Catostomidae]], [[Cyprinidae]], [[Ictaluridae]], [[Percopsidae]], [[Percidae]], [[Centrarchidae]], [[Cobitidae]] - **Divisions III/IV (more salt-tolerant/anadromous lineages)**: [[Petromy...
 > -- *[[FreshwaterFishesOfTheEasternAr_18569]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AProvisionalCheckListOfTheFish_15941]]
@@ -35,3 +38,4 @@ Petromyzontidae is a family of jawless fish commonly known as lampreys, characte
 - [[OccurrenceOfTheLampreyIchthyom_15942]]
 - [[ReviewOfFreshwaterFishesOfCana_17244]]
 - [[SelectedReferencesOnElectrofis_1980_05_06]]
+- [[DistributionalAndLocalVernacul_13815]]

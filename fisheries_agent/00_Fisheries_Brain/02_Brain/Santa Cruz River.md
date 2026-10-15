@@ -35,6 +35,12 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> This master's thesis by Craig Stephen Ivanyi (University of Arizona, 1989) examines selected life history aspects of the [[Desert Sucker]] (*Catostomus clarkii*, also referred to as *Pantosteus clarkii*) in four southeastern Arizona streams. The study focused primarily on [[Sonoita Creek]], with...
+> -- *[[SelectedAspectsOfTheNaturalHis_14397]]*
+
+> This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
+> -- *[[MolecularVariationAndEvolution_18435]]*
+
 ## Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[CienegaCreekWatershedWaterSour_18990]]
@@ -52,3 +58,5 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[TheFaunalArchaeologyOfTheTubac_20377]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[SelectedAspectsOfTheNaturalHis_14397]]
+- [[MolecularVariationAndEvolution_18435]]

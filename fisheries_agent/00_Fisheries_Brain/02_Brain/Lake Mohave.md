@@ -44,6 +44,24 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
 > -- *[[RiverResourceMonitoringProject_18503]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This document comprises expert commentary from Dr. W.L. Minckley (Arizona State University) on the U.S. Fish & Wildlife Service's Biological Opinion (BO) for Lower Colorado River operations and maintenance. The correspondence, dated July 10, 1997, critiques the BO's approach to recovering...
+> -- *[[CommentsOnFinalBiologicalAndCo_14379]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
+> -- *[[IndigenousBigriverFishesColora_18295]]*
+
+> This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
+> -- *[[MitochondrialDnaDiversityWithi_19127]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -216,3 +234,9 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[UseOfHydroelectricDamsToContro_11232]]
 - [[LowerColoradoRiverBasinManagem_18432]]
 - [[RiverResourceMonitoringProject_18503]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[CommentsOnFinalBiologicalAndCo_14379]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[IndigenousBigriverFishesColora_18295]]
+- [[MitochondrialDnaDiversityWithi_19127]]

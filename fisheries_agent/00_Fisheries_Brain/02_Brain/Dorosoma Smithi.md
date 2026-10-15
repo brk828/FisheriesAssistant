@@ -20,6 +20,10 @@ auto_enriched: true
 > 1. A total of **20 fish species** were recorded from 24 collections across the lower Rio Yaqui basin in August 1988: **50% native, 45% exotic, 5% euryhaline**. 2. **78.5% of native species** occurrences were concentrated in the uppermost effluents/tributaries, contrasting with exotic species whic...
 > -- *[[EcologicalObservationsOfNative_1988]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
 - [[EcologicalObservationsOfNative_1988]]
+- [[DistributionalAndLocalVernacul_13815]]

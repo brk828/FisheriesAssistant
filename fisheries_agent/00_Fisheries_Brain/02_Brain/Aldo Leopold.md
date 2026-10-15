@@ -20,9 +20,13 @@ Aldo Leopold, as referenced in fish science and aquatic conservation contexts, r
 > - **Central thesis**: Livestock grazing, not solely historical fire suppression, is identified across multiple peer-reviewed studies as the principal cause of conifer overstocking in Southwestern U.S. forests. - Three field studies specifically isolated grazing from fire-suppression effects (all ...
 > -- *[[GrazingIsTheMajorCauseOfForest_1995_05_09]]*
 
+> This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
+> -- *[[APetitionPursuantToArticleOfTh_17637]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[DesertFishesCouncilLetterToSec_1990_06_06]]
 - [[DevelopmentOfTroutFisheriesInT_11971]]
 - [[GrazingIsTheMajorCauseOfForest_1995_05_09]]
 - [[NotesOnTheRecommendationToDecl_1962]]
+- [[APetitionPursuantToArticleOfTh_17637]]

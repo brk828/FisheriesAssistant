@@ -32,6 +32,9 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 > This 1991 report documents a biochemical genetic analysis of [[Yaqui Catfish]] (*Ictalurus pricei*) held at [[Dexter National Fish Hatchery]] using horizontal starch gel electrophoresis. The study aimed to develop non-lethal tissue sampling methods, characterize genetic relationships between Yaqui...
 > -- *[[BiochemicalAnalysisOfGeneProdu_17930]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -57,3 +60,4 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 - [[ZoogeographicalAnalysisAndRevi_15920]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[BiochemicalAnalysisOfGeneProdu_17930]]
+- [[DistributionalAndLocalVernacul_13815]]

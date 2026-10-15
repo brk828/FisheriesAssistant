@@ -26,6 +26,9 @@ The Agua Fria River is a free-flowing desert river system in Arizona that serves
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnDraftRevise_1993_09_08]]
 - [[BiologicalOpinionTuleCreekRipa_1991_09_03]]
@@ -35,3 +38,4 @@ The Agua Fria River is a free-flowing desert river system in Arizona that serves
 - [[LetterToMsJenniferRSampsonRega_1995_01_18]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[EndangeredAndThreatenedWildlif_11554]]

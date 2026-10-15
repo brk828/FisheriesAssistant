@@ -35,6 +35,12 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 > This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
 > -- *[[RequestForProposalspresubmitta_18342]]*
 
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -78,3 +84,5 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 - [[TransmittalRegardingReasonable_19809]]
 - [[UseOfHydroelectricDamsToContro_11232]]
 - [[RequestForProposalspresubmitta_18342]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

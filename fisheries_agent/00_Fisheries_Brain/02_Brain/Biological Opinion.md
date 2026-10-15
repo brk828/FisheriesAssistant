@@ -23,6 +23,9 @@ A Biological Opinion is a formal regulatory assessment issued by the U.S. Fish a
 > This document is **not a primary scientific paper** but a regulatory compliance letter from the U.S. Fish and Wildlife Service (FWS), Arizona Ecological Services Field Office, to the U.S. Forest Service, dated October 22, 1993. It addresses non-compliance with a May 7, 1993, [[Biological Opinion]...
 > -- *[[ReYourLetterRegardingTheForest_11890]]*
 
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[CityOfPhoenixCommentsOnTheFina_1997_07_25]]
 - [[CommentsOnTheUSFishAndWildlife_1997_07_08]]
@@ -33,3 +36,4 @@ A Biological Opinion is a formal regulatory assessment issued by the U.S. Fish a
 - [[ReYourLetterRegardingTheForest_11890]]
 - [[ResponseToWashingtonCountyWate_1998]]
 - [[StockingOfSportFishSpeciesRain_1994_06_16]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

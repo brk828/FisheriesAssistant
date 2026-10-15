@@ -11,6 +11,10 @@ auto_enriched: true
 > - **Historical gap filled**: Eddy's manual, alongside [[Fishes of Ohio]] (Trautman) and Moore's contribution to *Vertebrate Animals of the United States*, represents the first adequate identification treatment of U.S. freshwater fishes since [[Jordan and Evermann]]'s work at the turn of the 20th ...
 > -- *[[BookReviewOfHowToKnowTheFreshw_1959]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
 - [[BookReviewOfHowToKnowTheFreshw_1959]]
+- [[DistributionalAndLocalVernacul_13815]]

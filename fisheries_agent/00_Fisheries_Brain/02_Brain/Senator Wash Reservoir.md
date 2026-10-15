@@ -26,6 +26,9 @@ Senator Wash Reservoir is a lentic (stillwater) impoundment along the Lower Colo
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -37,3 +40,4 @@ Senator Wash Reservoir is a lentic (stillwater) impoundment along the Lower Colo
 - [[PopulationDifferentiationAndIn_1987]]
 - [[RazorbackSuckersFoundInGallean_1993_12_17]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[EndangeredAndThreatenedWildlif_11580]]

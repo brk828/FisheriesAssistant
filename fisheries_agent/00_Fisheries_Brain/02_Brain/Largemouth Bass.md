@@ -65,6 +65,45 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This administrative report documents record-breaking fish production from [[California Department of Fish and Game]] hatcheries during fiscal year 1966-67. Total production reached 52,167,408 fish weighing 2,380,115 pounds, representing the highest weight produced in thirteen years despite two...
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14867]]*
 
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> The U.S. Fish and Wildlife Service published a final rule on July 20, 1994, listing the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the Endangered Species Act of 1973. This cyprinid fish, historically one of the most abundant and widespread fishes in the...
+> -- *[[EndangeredAndThreatenedWildlif_11651]]*
+
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
+> This report documents fisheries management activities in reclaimed coal strip-pit lakes across southeastern Kansas (Crawford, Cherokee, and Linn Counties) from approximately 1951 through spring 1956. The [[Kansas Forestry Fish and Game Commission]] conducted reconditioning and restocking programs...
+> -- *[[SummaryOfFishGrowthAndFishingS_14038]]*
+
+> This administrative report documents a record-breaking year for [[California Department of Fish and Game]] hatchery operations during fiscal year 1967-68. Despite two hatcheries being out of service for the entire year, the Department planted 2,706,909 lb of fish, exceeding the previous year's...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14868]]*
+
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
+> Research at [[Auburn University]] Agricultural Experiment Station demonstrated that intensive pond management can yield up to 1.5 tons of [[Channel Catfish]] (Ictalurus punctatus) per acre annually. The optimal stocking combination consists of 3,000 catfish, 1,000 [[Fathead Minnow]]s (Pimephales...
+> -- *[[OverATonOfChannelCatfishPerAcr_18668]]*
+
+> Two Oklahoma State University zoology professors, Dr. Troy C. Dorris and Dr. Robert C. Summerfelt, conducted a three-week study of fish populations in [[Lake Atitlan]], [[Guatemala]], in 1967 to address perceived fish shortages affecting the community of [[Santiago Atitlan]] (population 14,000)....
+> -- *[[FishPlentifulInGuatemalaLake_19070]]*
+
+> This Master's thesis (1971) investigated the ecology of juvenile fish (10-100 mm) in [[Imperial Reservoir]], a 2955-hectare impoundment on the [[Lower Colorado River]] north of Yuma, Arizona. The study was motivated by planned channelization that could alter critical spawning and rearing habitats....
+> -- *[[EcologyOfJuvenileFishInImperia_19643]]*
+
 ## Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -312,3 +351,16 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[TechnicalReviewDraftPahranagat_13301]]
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[CaliforniaTroutSalmonAndWarmwa_14867]]
+- [[EndangeredAndThreatenedWildlif_11564]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[EndangeredAndThreatenedWildlif_11651]]
+- [[FisheryInventoryOfTheCoachella_13687]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[SummaryOfFishGrowthAndFishingS_14038]]
+- [[CaliforniaTroutSalmonAndWarmwa_14868]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]
+- [[OverATonOfChannelCatfishPerAcr_18668]]
+- [[FishPlentifulInGuatemalaLake_19070]]
+- [[EcologyOfJuvenileFishInImperia_19643]]

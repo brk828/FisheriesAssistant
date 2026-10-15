@@ -17,8 +17,12 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 > 6. **Implications for Instream Flow Incremental Methodology (IFIM)**: The authors caution against building habitat suitability curves from raw use data alone; such curves must be corrected against habitat availability, developed on-site (or in comparable streams), incorporate population density e...
 > -- *[[MicrohabitatUseByAnAssemblageO_1985]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
 ## Mentioned In
 - [[AnInstreamFlowPhilosophyForRec_13064]]
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
 - [[MicrohabitatUseByAnAssemblageO_1985]]
 - [[ResponseToWashingtonCountyWate_1998]]
+- [[BiologicalAssessmentForTheSpik_11476]]

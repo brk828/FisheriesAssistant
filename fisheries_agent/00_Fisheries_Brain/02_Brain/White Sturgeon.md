@@ -23,6 +23,9 @@ White Sturgeon (Acipenser transmontanus) is a large, long-lived anadromous and p
 > - **[[Gila Topminnow]]** and **[[Desert Pupfish]]**: small-bodied, live in marginal desert wetland habitats; vulnerable to fin-shredding by predatory mosquitofish, leading to secondary infections. - **[[Western Mosquitofish]]** (*Gambusia affinis*): small livebearer, aggressive fin-nipper and egg...
 > -- *[[TheConservationDilemmaOfNonNat_15856]]*
 
+> This administrative report documents a record-breaking year for [[California Department of Fish and Game]] hatchery operations during fiscal year 1967-68. Despite two hatcheries being out of service for the entire year, the Department planted 2,706,909 lb of fish, exceeding the previous year's...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14868]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[ObservationsOnTheFoodHabitsOfJ_20603]]
@@ -31,3 +34,4 @@ White Sturgeon (Acipenser transmontanus) is a large, long-lived anadromous and p
 - [[StationProfileOfTheAbernathySa_1993]]
 - [[TheConservationDilemmaOfNonNat_15856]]
 - [[WhiteSturgeonWithSevenRowsOfSc_17276]]
+- [[CaliforniaTroutSalmonAndWarmwa_14868]]

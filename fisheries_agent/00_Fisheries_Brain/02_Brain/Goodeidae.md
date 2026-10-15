@@ -29,6 +29,12 @@ Goodeidae is a family of small, viviparous (live-bearing) freshwater fishes ende
 > This research proposal by Clyde D. Barbour (University of Utah) requests two years of funding from the National Science Foundation to conduct systematic and evolutionary studies of fishes endemic to the [[Mesa Central]] of Mexico. The project focuses on the family [[Goodeidae]] (viviparous...
 > -- *[[ProposalForSupportOfResearchOn_15568]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheAdultGoodeid_19652]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
@@ -51,3 +57,5 @@ Goodeidae is a family of small, viviparous (live-bearing) freshwater fishes ende
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[ProposalForSupportOfResearchOn_15568]]
+- [[DistributionalAndLocalVernacul_13815]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

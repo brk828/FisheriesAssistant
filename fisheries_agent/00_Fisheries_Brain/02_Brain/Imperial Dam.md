@@ -32,6 +32,9 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This study documents the distribution patterns of [[Striped Mullet]] (Mugil cephalus) in the [[Colorado River]] and [[Gulf of California]] during 1967-1968, revealing evidence of upstream migration and questioning traditional understanding of salinity requirements for spawning. Collections from...
+> -- *[[DifferentialDistributionOfTheS_19750]]*
+
 ## Mentioned In
 - [[CommentsOnTheProposedNonessent_1987_10_07]]
 - [[HabitatUseByRazorbackSuckersRe_1995]]
@@ -43,3 +46,4 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[UseOfHydroelectricDamsToContro_11232]]
 - [[IntraserviceSectionConsultatio_11829]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[DifferentialDistributionOfTheS_19750]]

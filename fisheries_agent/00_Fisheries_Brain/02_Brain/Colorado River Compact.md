@@ -14,8 +14,12 @@ The Colorado River Compact is the 1922 interstate water allocation agreement tha
 > This document records the meeting notes from the [[Glen Canyon Environmental Studies]] (GCES) Executive Review Committee (ERC) meeting held June 15, 1989, in Flagstaff, Arizona. The ERC, composed of representatives from the [[Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], [[Western...
 > -- *[[ExecutiveReviewCommitteeMeetin_19686]]*
 
+> This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
+> -- *[[AllocatingFreshWaterToAquaticE_18641]]*
+
 ## Mentioned In
 - [[HydrologicScenariosForSevereSu_13465]]
 - [[MitigatingImpactsOfASevereSust_20513]]
 - [[ReclamationToBeginWorkOnGlenCa_1989_11_02]]
 - [[ExecutiveReviewCommitteeMeetin_19686]]
+- [[AllocatingFreshWaterToAquaticE_18641]]

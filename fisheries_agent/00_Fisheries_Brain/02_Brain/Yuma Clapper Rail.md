@@ -38,6 +38,9 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
 > -- *[[NoticeOfIntentToSueForViolatio_20521]]*
 
+> This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
+> -- *[[AllocatingFreshWaterToAquaticE_18641]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -52,3 +55,4 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[IntraserviceSectionConsultatio_11829]]
 - [[IntraserviceSectionConsultatio_20152]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
+- [[AllocatingFreshWaterToAquaticE_18641]]

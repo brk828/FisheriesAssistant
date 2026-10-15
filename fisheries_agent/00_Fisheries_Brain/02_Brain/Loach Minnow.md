@@ -29,6 +29,9 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
 > -- *[[MinutesDesertFishesRecoveryTea_15843]]*
 
+> This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
+> -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -170,3 +173,4 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
+- [[ReContinuationOfTheUsArmysSanP_11808]]

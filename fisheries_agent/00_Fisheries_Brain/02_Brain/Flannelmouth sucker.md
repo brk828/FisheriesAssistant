@@ -26,6 +26,15 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > This draft Conservation Agreement addresses the proposed listing of [[Virgin Spinedace]] (*Lepidomeda mollispinis*) as a threatened species under the Endangered Species Act of 1973. The [[Virgin Spinedace]] is a small cyprinid minnow endemic to the [[Virgin River]] drainage in southwestern Utah,...
 > -- *[[DraftConservationAgreementForV_13234]]*
 
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
+> -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
+
+> This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
+> -- *[[MitochondrialDnaDiversityWithi_19127]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -137,3 +146,6 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 - [[VrrtNoticeAndMeetingMinutes_20253]]
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
 - [[DraftConservationAgreementForV_13234]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[TheRazorbackSuckerXyrauchenTex_15245]]
+- [[MitochondrialDnaDiversityWithi_19127]]

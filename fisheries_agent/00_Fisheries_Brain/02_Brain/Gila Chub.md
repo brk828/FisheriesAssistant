@@ -26,6 +26,9 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
 > -- *[[MinutesDesertFishesRecoveryTea_15843]]*
 
+> This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
+> -- *[[MolecularVariationAndEvolution_18435]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AfaPolicyMemorandumOnHybrids_1984_02_10]]
@@ -124,3 +127,4 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
 - [[WildlifeConservationActAmendme_1995]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
+- [[MolecularVariationAndEvolution_18435]]

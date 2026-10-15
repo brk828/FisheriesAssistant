@@ -32,6 +32,9 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -75,3 +78,4 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[ReReviewOfFloodedBottomLandRes_13862]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[InterimProceduresForStockingNo_15423]]

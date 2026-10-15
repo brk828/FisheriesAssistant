@@ -11,9 +11,13 @@ The Bonneville Basin is a large inland drainage system in the western United Sta
 > - **Great Basin phylogeography**: Molecular phylogenetic analysis of DNA sequences (Dowling et al., Abstract 50823) supports historical connections between the [[Lahontan Basin]] and Snake River, and between the [[Bonneville Basin]], Virgin River, and pluvial White River systems, with both Pleist...
 > -- *[[AbstractsFromTheConferenceGeol_1999_10_28]]*
 
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[DesertFishesCouncilOverviewAnd_1974_07_26]]
 - [[EvolutionarySignificanceOfIntr_19106]]
 - [[LetterToProspectiveAreaCoordin_1977_08_29]]
 - [[SnyderichthysANewGenericNameFo_1944_11_22]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

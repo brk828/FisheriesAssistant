@@ -26,6 +26,9 @@ The Grand Canyon Protection Act is a federal mandate that requires ecosystem-bas
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
+> -- *[[IndigenousBigriverFishesColora_18295]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
@@ -34,3 +37,4 @@ The Grand Canyon Protection Act is a federal mandate that requires ecosystem-bas
 - [[NrcWstbGcmrcCommitteeStrategic_1998_07_30]]
 - [[OrganicMatterRetentionInEddies_17090]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[IndigenousBigriverFishesColora_18295]]

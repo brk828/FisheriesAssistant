@@ -26,6 +26,9 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 > This memorandum from the U.S. Fish and Wildlife Service Regional Director announces a [[Colorado River Fishes Recovery Team]] meeting scheduled for February 23-24, 1989, in Phoenix, Arizona. The meeting's purpose is to resolve outstanding technical issues concerning recovery plans for three...
 > -- *[[RecoveryTeamMeetingFebruary_14137]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -47,3 +50,4 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 - [[ProposedIntroductionOfRainbowS_14700]]
 - [[RefinementOfRecoveryGoalsForTh_1990_12_03]]
 - [[RecoveryTeamMeetingFebruary_14137]]
+- [[TheColoradoRiverFishesRecovery_11196]]

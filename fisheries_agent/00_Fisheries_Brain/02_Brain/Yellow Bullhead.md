@@ -26,6 +26,15 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
 > -- *[[EndangeredAndThreatenedWildlif_11551]]*
 
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
+> This Master's thesis (1971) investigated the ecology of juvenile fish (10-100 mm) in [[Imperial Reservoir]], a 2955-hectare impoundment on the [[Lower Colorado River]] north of Yuma, Arizona. The study was motivated by planned channelization that could alter critical spawning and rearing habitats....
+> -- *[[EcologyOfJuvenileFishInImperia_19643]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -88,3 +97,6 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
 - [[EndangeredAndThreatenedWildlif_11551]]
+- [[EndangeredAndThreatenedWildlif_11564]]
+- [[FisheryInventoryOfTheCoachella_13687]]
+- [[EcologyOfJuvenileFishInImperia_19643]]

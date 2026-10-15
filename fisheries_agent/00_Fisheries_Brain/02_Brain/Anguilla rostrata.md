@@ -17,9 +17,13 @@ Anguilla rostrata, commonly known as the American eel, is a catadromous fish spe
 > This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
 > -- *[[Eel_14169]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 - [[NocturnalTerrestrialHabitsOfTh_1955_08_19]]
 - [[RioBravoFishDistribution_Unknown]]
 - [[UrenchelysAbditusNewSpeciesThe_11967]]
 - [[Eel_14169]]
+- [[DistributionalAndLocalVernacul_13815]]

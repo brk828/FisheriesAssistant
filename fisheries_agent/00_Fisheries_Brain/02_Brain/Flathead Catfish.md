@@ -35,6 +35,12 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > This 1987 survey assessed ictalurid (catfish family) populations in the [[Yadkin River]] and [[South Yadkin River]] above and below [[Idols Dam]] and [[Cooleemee Dam]] to determine whether [[Flathead Catfish]] (*Pylodictis olivaris*) should be stocked upstream of these barriers. Using...
 > -- *[[SurveyOfIctaluridPopulationsIn_15266]]*
 
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
 ## Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -90,3 +96,5 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[ProductionOfTheThreadfinShadDo_15096]]
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[SurveyOfIctaluridPopulationsIn_15266]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[FisheryInventoryOfTheCoachella_13687]]

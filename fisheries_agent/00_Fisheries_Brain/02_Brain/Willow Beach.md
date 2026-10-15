@@ -20,6 +20,9 @@ Willow Beach is a critical location on Lake Mohave in the lower Colorado River s
 > - **Recapture success (March 1994 "Razorback Roundup")**: 7 individuals from the 1992 year class and 3 individuals from the 1993 year class were recaptured, confirming that the stocking and marking techniques used by the program are effective for long-term monitoring. - **Larval collection**: Ove...
 > -- *[[MeetingAnnouncementNativeFishW_1994_12_21]]*
 
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
 ## Mentioned In
 - [[ArizonaNevadaCooperativeFisher_1961]]
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
@@ -27,3 +30,4 @@ Willow Beach is a critical location on Lake Mohave in the lower Colorado River s
 - [[MeetingAnnouncementNativeFishW_1994_12_21]]
 - [[RESULTS OF CUTTHROAT TROUT INTRODUCTION]]
 - [[RecentBonytailChubMortalityAtW_1995_05_27]]
+- [[BiologicalAssessmentOfTheImpac_16261]]

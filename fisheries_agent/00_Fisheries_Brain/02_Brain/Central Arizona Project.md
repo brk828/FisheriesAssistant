@@ -35,6 +35,9 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -59,3 +62,4 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 - [[AgendaAttendeesAndSummariesOfP_14401]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[BiologicalAssessmentForTheSpik_11476]]

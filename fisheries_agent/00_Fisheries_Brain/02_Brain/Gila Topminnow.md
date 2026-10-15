@@ -38,6 +38,15 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > This memorandum documents severe flood damage to the [[Big Spring]] [[Gila Topminnow]] reintroduction site in [[Graham County]], Arizona, following an intense localized storm on August 21, 1990. The flood destroyed critical pool habitat, reduced the observable topminnow population from abundant to...
 > -- *[[ReportOfFloodDamageToBigSpring_18984]]*
 
+> This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
+> -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
+
+> This dissertation proposal by Timothy J. Kim (Arizona State University, 1998) outlines research to investigate Major Histocompatibility Complex (MHC) genetic variation and parasite resistance in two federally-listed endangered fish species: the [[Sacramento Winter-Run Chinook Salmon]] and the...
+> -- *[[MhcVariationAndParasiteResista_12519]]*
+
+> This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
+> -- *[[MolecularVariationAndEvolution_18435]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -223,3 +232,6 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[ReportOfFloodDamageToBigSpring_18984]]
+- [[ReContinuationOfTheUsArmysSanP_11808]]
+- [[MhcVariationAndParasiteResista_12519]]
+- [[MolecularVariationAndEvolution_18435]]

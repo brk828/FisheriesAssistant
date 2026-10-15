@@ -26,6 +26,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > During the 1964-65 fiscal year, California Department of Fish and Game hatcheries planted a record-breaking **60,129,973 fish** totaling **1,879,769 pounds**, though total weight was 207,290 pounds less than the previous year. The December 1964 flood destroyed [[Cedar Creek Hatchery]] on the [[Eel...
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14865]]*
 
+> This administrative report documents a record-breaking year for [[California Department of Fish and Game]] hatchery operations during fiscal year 1967-68. Despite two hatcheries being out of service for the entire year, the Department planted 2,706,909 lb of fish, exceeding the previous year's...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14868]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -38,3 +41,4 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[ThreeProtozoanDiseasesOfTroutI_14425]]
 - [[WildTroutAndPlantedTroutBalanc_16089]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
+- [[CaliforniaTroutSalmonAndWarmwa_14868]]

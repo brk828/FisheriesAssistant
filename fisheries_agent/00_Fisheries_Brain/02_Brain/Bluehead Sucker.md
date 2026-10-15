@@ -23,6 +23,9 @@ The Bluehead Sucker (Pantosteus delphinus) is a native catostomid fish species f
 > This 1992 BIO/WEST memorandum (authored by Rich Valdez) presents the **Seasonally-Adjusted Steady/Fluctuating Flow Alternative**, a proposed dam operations strategy for **Glen Canyon Dam** developed for the Glen Canyon Environmental Impact Statement (EIS) process. The alternative was designed in ...
 > -- *[[BiowestFishProtectionAlternati_1992_12_03]]*
 
+> This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
+> -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -74,3 +77,4 @@ The Bluehead Sucker (Pantosteus delphinus) is a native catostomid fish species f
 - [[TripReportVirginRiverChubListi_1988_10_06]]
 - [[UsfwsLcrResearchTripReportHump_11069]]
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
+- [[TheRazorbackSuckerXyrauchenTex_15245]]

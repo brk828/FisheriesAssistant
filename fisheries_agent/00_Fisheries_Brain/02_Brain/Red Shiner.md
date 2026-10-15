@@ -38,6 +38,24 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
 > -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -171,3 +189,9 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[IntraserviceSectionConsultatio_20152]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[EndangeredAndThreatenedWildlif_11564]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[FisheryInventoryOfTheCoachella_13687]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]

@@ -17,8 +17,12 @@ Bylas Spring is one of the four remaining natural refuge populations of the enda
 > This memorandum documents severe flood damage to the [[Big Spring]] [[Gila Topminnow]] reintroduction site in [[Graham County]], Arizona, following an intense localized storm on August 21, 1990. The flood destroyed critical pool habitat, reduced the observable topminnow population from abundant to...
 > -- *[[ReportOfFloodDamageToBigSpring_18984]]*
 
+> This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
+> -- *[[MolecularVariationAndEvolution_18435]]*
+
 ## Mentioned In
 - [[MhcVariationInTheEndangeredGil_20763]]
 - [[MinutesDesertFishesRecoveryTea_1997_12_19]]
 - [[ReAsuTopminnowPopulations_12698]]
 - [[ReportOfFloodDamageToBigSpring_18984]]
+- [[MolecularVariationAndEvolution_18435]]

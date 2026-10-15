@@ -26,6 +26,15 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 > This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
 > -- *[[EffectsOfElectrofishingFieldsO_15544]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
+> This study evaluated the effectiveness of qualitative morphological rankings versus quantitative measurements for field identification of closely related cyprinid fishes in the genus [[Gila]] from the [[Yampa River]], [[Colorado]]. Six field technicians with no specialized systematic training...
+> -- *[[QualitativeCharactersIdentific_19084]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -44,3 +53,6 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 - [[ReviewOfGreenRiverFishEradicat_1963_03_25]]
 - [[RiverAquaticSystems_14708]]
 - [[EffectsOfElectrofishingFieldsO_15544]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[EffectsOfElectrofishingFieldsO_15548]]
+- [[QualitativeCharactersIdentific_19084]]

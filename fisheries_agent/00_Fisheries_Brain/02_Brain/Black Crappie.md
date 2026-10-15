@@ -32,6 +32,21 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 > This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
 > -- *[[FisheryInvestigationsOnFortGib_14674]]*
 
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
+> This report documents fisheries management activities in reclaimed coal strip-pit lakes across southeastern Kansas (Crawford, Cherokee, and Linn Counties) from approximately 1951 through spring 1956. The [[Kansas Forestry Fish and Game Commission]] conducted reconditioning and restocking programs...
+> -- *[[SummaryOfFishGrowthAndFishingS_14038]]*
+
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This Master's thesis (1971) investigated the ecology of juvenile fish (10-100 mm) in [[Imperial Reservoir]], a 2955-hectare impoundment on the [[Lower Colorado River]] north of Yuma, Arizona. The study was motivated by planned channelization that could alter critical spawning and rearing habitats....
+> -- *[[EcologyOfJuvenileFishInImperia_19643]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -99,3 +114,8 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 - [[ABibliographyAndHostListForThe_15289]]
 - [[FederalAidToFishRestorationAnn_19654]]
 - [[FisheryInvestigationsOnFortGib_14674]]
+- [[FisheryInventoryOfTheCoachella_13687]]
+- [[SummaryOfFishGrowthAndFishingS_14038]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[EcologyOfJuvenileFishInImperia_19643]]

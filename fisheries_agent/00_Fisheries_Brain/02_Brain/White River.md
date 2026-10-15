@@ -29,6 +29,9 @@ The White River refers to a river system in the south-central United States (pri
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
 > -- *[[MinutesDesertFishesRecoveryTea_15843]]*
 
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -57,3 +60,4 @@ The White River refers to a river system in the south-central United States (pri
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
 - [[TechnicalReviewDraftPahranagat_13301]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

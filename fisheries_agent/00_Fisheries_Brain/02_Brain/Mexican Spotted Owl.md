@@ -23,6 +23,9 @@ The Mexican Spotted Owl is not directly relevant to fish science or aquatic ecol
 > This document is **not a scientific or ichthyological source**. It is a 1994 political letter from then-Arizona Governor Fife Symington to U.S. Senator John McCain, advocating for the repeal of the [[Endangered Species Act]]. The letter is framed around economic and political grievances related t...
 > -- *[[LetterToSenatorJohnMccainRegar_1994_12_21]]*
 
+> This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
+> -- *[[APetitionPursuantToArticleOfTh_17637]]*
+
 ## Mentioned In
 - [[ConcurrenceLetterOnBearCanyonT_1997_02_21]]
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
@@ -33,3 +36,4 @@ The Mexican Spotted Owl is not directly relevant to fish science or aquatic ecol
 - [[LetterToSenatorJohnMccainRegar_1994_12_21]]
 - [[ReportForestServiceDisruptedOw_15528]]
 - [[USFishAndWildlifeServiceWhiteM_1994_12_02]]
+- [[APetitionPursuantToArticleOfTh_17637]]

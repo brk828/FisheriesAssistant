@@ -29,6 +29,9 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
 > -- *[[DraftliteratureReviewOfTheStri_15768]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 20, 1994, listing the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the Endangered Species Act of 1973. This cyprinid fish, historically one of the most abundant and widespread fishes in the...
+> -- *[[EndangeredAndThreatenedWildlif_11651]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -56,3 +59,4 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[DraftliteratureReviewOfTheStri_15768]]
+- [[EndangeredAndThreatenedWildlif_11651]]

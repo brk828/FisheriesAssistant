@@ -32,6 +32,9 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 > This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
 > -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
 
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -113,3 +116,4 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
 - [[SiteVisitPotentialFishBarrierS_11854]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]

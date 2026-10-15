@@ -16,8 +16,12 @@ Minckley refers to W.L. Minckley, a seminal ichthyologist and conservation biolo
 > - **Historical decline pattern**: [[Minckley]] and Deacon (1968) first documented the disappearance of loach minnow and spikedace correlating with red shiner abundance, though the causal mechanism remains unresolved. - **Proposed interaction mechanisms** (4 categories driving native decline): 1. ...
 > -- *[[ResearchProposalAnInvestigatio_13703]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
 ## Mentioned In
 - [[LetterToDrWLMinckleyRegardingE_1993_10_25]]
 - [[LetterToEPPisterRegardingCuatr_1986_08_11]]
 - [[MhcVariationInTheEndangeredGil_20763]]
 - [[ResearchProposalAnInvestigatio_13703]]
+- [[BiologicalAssessmentForTheSpik_11476]]

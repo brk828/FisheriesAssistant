@@ -20,6 +20,12 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 > This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
 > -- *[[AConservationorientedClassific_15455]]*
 
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
+> This comprehensive life history study of the [[Piute Sculpin]] (*Cottus beldingii*) in [[Lake Tahoe]] examined 6,424 specimens collected from September 1963 through September 1964. The research focused on diet composition, age and growth patterns, reproductive biology, and parasite loads. Sculpins...
+> -- *[[ContributionsToTheLifeHistoryO_15724]]*
+
 ## Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -30,3 +36,5 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 - [[NoteOnSpringFoodHabitsOfTheLak_12533]]
 - [[SomeLahontanFishesInTheSacrame_12526]]
 - [[AConservationorientedClassific_15455]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[ContributionsToTheLifeHistoryO_15724]]

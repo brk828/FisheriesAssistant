@@ -26,6 +26,12 @@ The Southwest Center for Biological Diversity is a nonprofit conservation organi
 > The [[Southwest Center for Biological Diversity]] (SWCBD) and Dr. Robin Silver filed a lawsuit in U.S. District Court (Phoenix) against [[Ft. Huachuca]] and the Defense Department for violations of the [[National Environmental Policy Act]] (NEPA). The suit alleges illegal failure to evaluate,...
 > -- *[[LawsuitFiledAgainstFtHuachucaT_18965]]*
 
+> This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
+> -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
+
+> This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
+> -- *[[APetitionPursuantToArticleOfTh_17637]]*
+
 ## Mentioned In
 - [[ArmyFoundAtFaultOnRiverAreaGro_1995_09_27]]
 - [[CityOfPhoenixCommentsOnTheFina_1997_07_25]]
@@ -38,3 +44,5 @@ The Southwest Center for Biological Diversity is a nonprofit conservation organi
 - [[ReviewOfChildsIrvingBiological_1999_02_05]]
 - [[WhatIsAmericanRiversDoingInThe_1997]]
 - [[LawsuitFiledAgainstFtHuachucaT_18965]]
+- [[ReContinuationOfTheUsArmysSanP_11808]]
+- [[APetitionPursuantToArticleOfTh_17637]]

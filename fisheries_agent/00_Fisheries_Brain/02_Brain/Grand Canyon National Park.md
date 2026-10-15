@@ -44,6 +44,9 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 > This document records the meeting notes from the [[Glen Canyon Environmental Studies]] (GCES) Executive Review Committee (ERC) meeting held June 15, 1989, in Flagstaff, Arizona. The ERC, composed of representatives from the [[Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], [[Western...
 > -- *[[ExecutiveReviewCommitteeMeetin_19686]]*
 
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
 ## Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
@@ -79,3 +82,4 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 - [[BridgingTheGapToLongtermMonito_18440]]
 - [[RiverResourceMonitoringProject_18503]]
 - [[ExecutiveReviewCommitteeMeetin_19686]]
+- [[EffectsOfElectrofishingFieldsO_15548]]

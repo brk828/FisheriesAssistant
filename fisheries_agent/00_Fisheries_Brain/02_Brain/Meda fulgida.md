@@ -29,6 +29,12 @@ Meda fulgida, commonly known as the spikedace, is a small native cyprinid minnow
 > This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
 > -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
 
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
 ## Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[ColoradoSquawfishMonitoringVer_19393]]
@@ -60,3 +66,5 @@ Meda fulgida, commonly known as the spikedace, is a small native cyprinid minnow
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[EndangeredAndThreatenedWildlif_11554]]
+- [[EndangeredAndThreatenedWildlif_11564]]

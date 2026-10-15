@@ -59,6 +59,39 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
 > -- *[[NoticeOfIntentToSueForViolatio_20521]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This document contains three technical proposals submitted by [[BIO/WEST]] to modify Contract No. 0-CS-40-09110 for [[Humpback Chub]] studies in the [[Colorado River]] through [[Grand Canyon]]. The proposals, dated December 8, 1993, request additional funding totaling $270,983.63 to complete: (1) a...
+> -- *[[RevisedTechnicalProposalsToMod_13629]]*
+
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
+> This document consists of interagency correspondence between the [[Bureau of Reclamation]] Upper Colorado Regional Office and the [[U.S. Fish and Wildlife Service]] initiating formal Section 7 Consultation under the Endangered Species Act of 1973. The consultation addresses potential impacts of...
+> -- *[[SectionConsultationOperationOf_14814]]*
+
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
+> -- *[[IndigenousBigriverFishesColora_18295]]*
+
+> This document outlines a comprehensive research plan for the [[Glen Canyon Environmental Studies]] (GCES) program, designed to investigate the ecological and economic impacts of [[Glen Canyon Dam]] operations on the [[Colorado River]] ecosystem through [[Grand Canyon]]. The plan addresses multiple...
+> -- *[[GcesPlanningDocumentResearchPl_18452]]*
+
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -414,3 +447,14 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[BriefInSupportOfPlaintiffsMoti_18646]]
 - [[EndangeredSpeciesProgramReview_19696]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[RevisedTechnicalProposalsToMod_13629]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[SectionConsultationOperationOf_14814]]
+- [[InterimProceduresForStockingNo_15423]]
+- [[EffectsOfElectrofishingFieldsO_15548]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[IndigenousBigriverFishesColora_18295]]
+- [[GcesPlanningDocumentResearchPl_18452]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

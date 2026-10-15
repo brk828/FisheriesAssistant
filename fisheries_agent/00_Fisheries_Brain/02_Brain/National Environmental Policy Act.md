@@ -35,6 +35,9 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[BoardOfCountyCommissionersOfTh_11767]]
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
@@ -54,3 +57,4 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 - [[BureauOfReclamationAnnouncesDe_20789]]
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

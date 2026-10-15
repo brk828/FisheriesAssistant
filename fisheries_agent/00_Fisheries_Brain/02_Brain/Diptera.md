@@ -17,9 +17,13 @@ Diptera is an order of insects that includes flies and midges, which are ecologi
 > - **Primary study species**: Rainbow trout (*Salmo gairdneri*), the most numerous game fish in the study section. - **Size threshold for study**: Only rainbow trout exceeding 7 inches total length were included in movement analysis. - **Long-distance migrants**: Four trout exhibiting wide-ranging...
 > -- *[[WinterObservationsOnBottomOrga_16187]]*
 
+> This study confirms that [[Simulium ornatum]] var. nitidifrons, a blackfly species from a chalk stream near [[Romsey]], [[Hampshire]], undergoes six larval instars before pupation. Larvae were reared from field-collected eggs in laboratory apparatus. Instars were distinguished by measuring...
+> -- *[[TheInstarsOfSimuliumOrnatumVar_20678]]*
+
 ## Mentioned In
 - [[FoodHabitsOfTheYellowBassRoccu_1963]]
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
 - [[TitleClearDateStuttgartMarzYea_13338]]
 - [[WinterObservationsOnBottomOrga_16187]]
+- [[TheInstarsOfSimuliumOrnatumVar_20678]]

@@ -29,6 +29,12 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
 > -- *[[TechnicalReviewDraftPahranagat_13301]]*
 
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
+> This Master's thesis (1971) investigated the ecology of juvenile fish (10-100 mm) in [[Imperial Reservoir]], a 2955-hectare impoundment on the [[Lower Colorado River]] north of Yuma, Arizona. The study was motivated by planned channelization that could alter critical spawning and rearing habitats....
+> -- *[[EcologyOfJuvenileFishInImperia_19643]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -94,3 +100,5 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[TechnicalReviewDraftPahranagat_13301]]
+- [[FisheryInventoryOfTheCoachella_13687]]
+- [[EcologyOfJuvenileFishInImperia_19643]]

@@ -11,8 +11,12 @@ Rhinichthys cobitis, commonly known as the loach minnow, is a small cyprinid fis
 > No further physical characteristics (body size, fin structure, scale counts) are present in this source. Cross-reference [[Rhinichthys cobitis]] and [[Meda fulgida]] for detailed species accounts from other literature.
 > -- *[[EndangeredAndThreatenedWildlif_1998_03_25]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1998_03_25]]
 - [[LetterFromDavidLPropstToDrRich_1993_07_06]]
 - [[LetterRegardingTaxonomicChange_1993_06_18]]
 - [[LoachMinnowResearchProposal_1997_04_10]]
+- [[DistributionalAndLocalVernacul_13815]]

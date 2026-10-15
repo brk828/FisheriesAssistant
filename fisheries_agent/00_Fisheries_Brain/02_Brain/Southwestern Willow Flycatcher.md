@@ -32,6 +32,12 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 > This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
 > -- *[[NoticeOfIntentToSueForViolatio_20521]]*
 
+> This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
+> -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
+
+> This document comprises expert commentary from Dr. W.L. Minckley (Arizona State University) on the U.S. Fish & Wildlife Service's Biological Opinion (BO) for Lower Colorado River operations and maintenance. The correspondence, dated July 10, 1997, critiques the BO's approach to recovering...
+> -- *[[CommentsOnFinalBiologicalAndCo_14379]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -63,3 +69,5 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
 - [[TransmittalRegardingReasonable_19809]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
+- [[ReContinuationOfTheUsArmysSanP_11808]]
+- [[CommentsOnFinalBiologicalAndCo_14379]]

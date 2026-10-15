@@ -56,6 +56,24 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This document contains three technical proposals submitted by [[BIO/WEST]] to modify Contract No. 0-CS-40-09110 for [[Humpback Chub]] studies in the [[Colorado River]] through [[Grand Canyon]]. The proposals, dated December 8, 1993, request additional funding totaling $270,983.63 to complete: (1) a...
+> -- *[[RevisedTechnicalProposalsToMod_13629]]*
+
+> This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
+> -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
+
+> This study evaluated the effectiveness of qualitative morphological rankings versus quantitative measurements for field identification of closely related cyprinid fishes in the genus [[Gila]] from the [[Yampa River]], [[Colorado]]. Six field technicians with no specialized systematic training...
+> -- *[[QualitativeCharactersIdentific_19084]]*
+
+> This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
+> -- *[[MitochondrialDnaDiversityWithi_19127]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -350,3 +368,9 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[RiverResourceMonitoringProject_18503]]
 - [[BriefInSupportOfPlaintiffsMoti_18646]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[RevisedTechnicalProposalsToMod_13629]]
+- [[TheRazorbackSuckerXyrauchenTex_15245]]
+- [[QualitativeCharactersIdentific_19084]]
+- [[MitochondrialDnaDiversityWithi_19127]]

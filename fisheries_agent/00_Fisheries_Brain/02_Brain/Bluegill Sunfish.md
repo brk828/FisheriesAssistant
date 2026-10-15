@@ -23,6 +23,9 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 > This inter-office memo from the Arizona Game and Fish Department documents a 1998 stock tank survey conducted in the [[O'Donnell Creek]] and [[Turkey Creek]] watersheds of Region V, Arizona. Of the stock tanks surveyed, only two contained water at the time of survey, both located in the Turkey Cr...
 > -- *[[ODonnellWatershedStockTankSurv_16516]]*
 
+> Two Oklahoma State University zoology professors, Dr. Troy C. Dorris and Dr. Robert C. Summerfelt, conducted a three-week study of fish populations in [[Lake Atitlan]], [[Guatemala]], in 1967 to address perceived fish shortages affecting the community of [[Santiago Atitlan]] (population 14,000)....
+> -- *[[FishPlentifulInGuatemalaLake_19070]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[CatalogingOfSmallImpoundmentOf_12167]]
@@ -32,3 +35,4 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 - [[TheEffectOfCalciumSulphateOnTh_16691]]
 - [[TheEffectOfThermalAcclimationO_15619]]
 - [[TripReportLakeMohave_1993_03_26]]
+- [[FishPlentifulInGuatemalaLake_19070]]

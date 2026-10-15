@@ -23,6 +23,9 @@ Fort Huachuca is a U.S. Army installation in Arizona whose military operations, 
 > - The source is a **BLM Surface Management Plan map**, not a biological or ichthyological survey — it contains zero fish species records, counts, measurements, or ecological metrics. - Land status categories identified: Public Land, Private Land, State Land, and Military Land (the latter correspo...
 > -- *[[SanPedroRiverRiparianManagemen_11617 map]]*
 
+> This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
+> -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
+
 ## Mentioned In
 - [[ArmyFoundAtFaultOnRiverAreaGro_1995_09_27]]
 - [[CityOfficialsDeclareWarOnEnvir_1995_09_27]]
@@ -31,3 +34,4 @@ Fort Huachuca is a U.S. Army installation in Arizona whose military operations, 
 - [[GilaChubTransfer_1987_11_05]]
 - [[GroundWaterGeomorphicProcesses_1988_08_28]]
 - [[SanPedroRiverRiparianManagemen_11617 map]]
+- [[ReContinuationOfTheUsArmysSanP_11808]]

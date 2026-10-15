@@ -11,6 +11,9 @@ The Colorado River Drainage refers to the extensive hydrological system and wate
 > - **Species:** [[Razorback Sucker]] (*Xyrauchen texanus*), family [[Catostomidae]] — a long-lived sucker endemic to the [[Colorado River Drainage]] (McCarthy and Minckley 1987). - **Age-0 cohort (Old Charley Wash, fall 1995), n = 28:** - Total length: mean 94.4 mm (range 74–125 mm) - Weight: mean...
 > -- *[[UseOfFloodplainHabitatByAgeRaz_16530]]*
 
+> This master's thesis by Craig Stephen Ivanyi (University of Arizona, 1989) examines selected life history aspects of the [[Desert Sucker]] (*Catostomus clarkii*, also referred to as *Pantosteus clarkii*) in four southeastern Arizona streams. The study focused primarily on [[Sonoita Creek]], with...
+> -- *[[SelectedAspectsOfTheNaturalHis_14397]]*
+
 ## Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[JuvenileRazorbackSuckerXyrauch_16532]]
@@ -19,3 +22,4 @@ The Colorado River Drainage refers to the extensive hydrological system and wate
 - [[PharyngealTeethInTheEndangered_1988]]
 - [[ReintroductionAndMonitoringOfC_1986_03_10]]
 - [[UseOfFloodplainHabitatByAgeRaz_16530]]
+- [[SelectedAspectsOfTheNaturalHis_14397]]

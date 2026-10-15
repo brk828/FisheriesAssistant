@@ -26,6 +26,9 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 > This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
 > -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
 
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[DistributionOfFishesInTheSanRa_1980_01_30]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -34,3 +37,4 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 - [[IneOfTheMoapaDaceInvolves_13300]]
 - [[TheFishesOfTheVirginRiverATrib_14013]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

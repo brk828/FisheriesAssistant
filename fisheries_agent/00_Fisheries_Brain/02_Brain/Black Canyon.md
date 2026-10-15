@@ -23,6 +23,9 @@ Black Canyon refers to the riverine reach of the Colorado River immediately belo
 > This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
 > -- *[[UseOfHydroelectricDamsToContro_11232]]*
 
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
 ## Mentioned In
 - [[EndangeredPupfishOfDevilsHoleG_11403]]
 - [[GilaTroutAndChihuahuaChubRecov_1997_01_16]]
@@ -30,3 +33,4 @@ Black Canyon refers to the riverine reach of the Colorado River immediately belo
 - [[RequestForParticipationAndPart_1980]]
 - [[TheBiologyOfTheRazorbackSucker_1979_10_22]]
 - [[UseOfHydroelectricDamsToContro_11232]]
+- [[BiologicalAssessmentOfTheImpac_16261]]

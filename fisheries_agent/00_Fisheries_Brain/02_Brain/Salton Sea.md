@@ -35,6 +35,15 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
 > -- *[[LowerColoradoRiverBasinManagem_18432]]*
 
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
+> This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
+> -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
+
+> This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
+> -- *[[AllocatingFreshWaterToAquaticE_18641]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[BenthicInvertebratesOfTheEarth_1983]]
@@ -54,3 +63,6 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
 - [[LowerColoradoRiverBasinManagem_18432]]
+- [[FisheryInventoryOfTheCoachella_13687]]
+- [[TheRazorbackSuckerXyrauchenTex_15245]]
+- [[AllocatingFreshWaterToAquaticE_18641]]

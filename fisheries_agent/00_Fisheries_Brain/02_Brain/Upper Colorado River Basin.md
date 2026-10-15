@@ -35,6 +35,9 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This map documents the spatial distribution and abundance of larval [[Razorback Sucker]] (*Xyrauchen texanus*) captures throughout the [[Upper Colorado River Basin]] during the period 1992-1995. The survey covered major river systems including the [[Green River]], [[Colorado River]], [[San Juan...
 > -- *[[CapturesOfLarvalRazorbackSucke_18287]]*
 
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -89,3 +92,4 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[ReReviewOfFloodedBottomLandRes_13862]]
 - [[EffectsOfElectrofishingFieldsO_15544]]
 - [[CapturesOfLarvalRazorbackSucke_18287]]
+- [[InterimProceduresForStockingNo_15423]]

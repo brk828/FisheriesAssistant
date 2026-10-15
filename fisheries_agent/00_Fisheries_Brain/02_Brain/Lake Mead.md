@@ -44,6 +44,33 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
 > -- *[[RiverResourceMonitoringProject_18503]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This document comprises expert commentary from Dr. W.L. Minckley (Arizona State University) on the U.S. Fish & Wildlife Service's Biological Opinion (BO) for Lower Colorado River operations and maintenance. The correspondence, dated July 10, 1997, critiques the BO's approach to recovering...
+> -- *[[CommentsOnFinalBiologicalAndCo_14379]]*
+
+> This document consists of interagency correspondence between the [[Bureau of Reclamation]] Upper Colorado Regional Office and the [[U.S. Fish and Wildlife Service]] initiating formal Section 7 Consultation under the Endangered Species Act of 1973. The consultation addresses potential impacts of...
+> -- *[[SectionConsultationOperationOf_14814]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
+> -- *[[IndigenousBigriverFishesColora_18295]]*
+
+> This document outlines a comprehensive research plan for the [[Glen Canyon Environmental Studies]] (GCES) program, designed to investigate the ecological and economic impacts of [[Glen Canyon Dam]] operations on the [[Colorado River]] ecosystem through [[Grand Canyon]]. The plan addresses multiple...
+> -- *[[GcesPlanningDocumentResearchPl_18452]]*
+
+> This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
+> -- *[[AllocatingFreshWaterToAquaticE_18641]]*
+
+> This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
+> -- *[[MitochondrialDnaDiversityWithi_19127]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -133,3 +160,12 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[UseOfHydroelectricDamsToContro_11232]]
 - [[RequestForProposalspresubmitta_18342]]
 - [[RiverResourceMonitoringProject_18503]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[CommentsOnFinalBiologicalAndCo_14379]]
+- [[SectionConsultationOperationOf_14814]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[IndigenousBigriverFishesColora_18295]]
+- [[GcesPlanningDocumentResearchPl_18452]]
+- [[AllocatingFreshWaterToAquaticE_18641]]
+- [[MitochondrialDnaDiversityWithi_19127]]
