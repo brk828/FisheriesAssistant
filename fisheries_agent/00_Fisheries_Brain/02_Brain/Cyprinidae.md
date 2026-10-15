@@ -53,6 +53,15 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
 > -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
+> This document is a critical evaluation by Associate Professor Donald G. Buth (UCLA) of M.d. Rosenfeld's draft report on allozyme variation in upper [[Colorado River]] species of [[Gila]]. The evaluation, dated 16 February 1988 and addressed to Utah Natural Resources Wildlife Resources, identifies...
+> -- *[[EvaluationOfMjRosenfeldsBioche_14124]]*
+
 ## Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -311,3 +320,6 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[DistributionalAndLocalVernacul_13815]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]
+- [[EvaluationOfMjRosenfeldsBioche_14124]]

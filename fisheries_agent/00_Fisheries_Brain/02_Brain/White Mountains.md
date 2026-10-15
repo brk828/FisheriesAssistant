@@ -23,6 +23,9 @@ The White Mountains refers to a mountain range in east-central Arizona that serv
 > The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
 > -- *[[EndangeredAndThreatenedWildlif_11564]]*
 
+> This January 1990 letter from Dr. John N. Rinne (USFS Rocky Mountain Forestry Sciences Lab) to Jim Hanson (USFWS Pinetop) discusses electrophoretic genetic studies of [[Apache Trout]] populations in the [[White Mountains]] and their implications for conservation management. Rinne compares recent...
+> -- *[[ReTheElectrophoreticStudyOfWhi_14999]]*
+
 ## Mentioned In
 - [[ColdwaterFishStockingAndNative_1995]]
 - [[CommentsOnTheEnvironmentalAsse_1990]]
@@ -30,3 +33,4 @@ The White Mountains refers to a mountain range in east-central Arizona that serv
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[EndangeredAndThreatenedWildlif_11564]]
+- [[ReTheElectrophoreticStudyOfWhi_14999]]

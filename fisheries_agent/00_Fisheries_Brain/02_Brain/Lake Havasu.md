@@ -38,6 +38,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
 > -- *[[IndigenousBigriverFishesColora_18295]]*
 
+> This 1982 research proposal, submitted by Linda Ulmer (California Department of Fish and Game) to the U.S. Fish and Wildlife Service, outlines a two-phase electrophoretic study to assess genetic purity of [[Razorback Sucker]] (*Xyrauchen texanus*) breeding stocks. The study addresses concerns that...
+> -- *[[LetterToJimJohnsonWithEncolose_11425]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -90,3 +93,4 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[LowerColoradoRiverBasinManagem_18432]]
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[IndigenousBigriverFishesColora_18295]]
+- [[LetterToJimJohnsonWithEncolose_11425]]

@@ -20,8 +20,12 @@ Mitochondrial DNA (mtDNA) in fish science refers to the genetic material contain
 > This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
 > -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
 
+> This document is a critical evaluation by Associate Professor Donald G. Buth (UCLA) of M.d. Rosenfeld's draft report on allozyme variation in upper [[Colorado River]] species of [[Gila]]. The evaluation, dated 16 February 1988 and addressed to Utah Natural Resources Wildlife Resources, identifies...
+> -- *[[EvaluationOfMjRosenfeldsBioche_14124]]*
+
 ## Mentioned In
 - [[MhcVariationInTheEndangeredGil_20763]]
 - [[PreProposalForStudiesOfMtdnaGe_1989_12_26]]
 - [[RazorbackSuckerCaptivePropagat_1994_12_06]]
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
+- [[EvaluationOfMjRosenfeldsBioche_14124]]

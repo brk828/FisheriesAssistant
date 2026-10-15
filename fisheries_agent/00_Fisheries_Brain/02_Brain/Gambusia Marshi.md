@@ -20,8 +20,12 @@ Gambusia marshi is a poeciliid (livebearing fish) species endemic to the Cuatro 
 > - **22 fish taxa** known from within and immediately outside the Cuatro Cienegas Basin; **10 of these considered endemic** (1 formally described: see *[[Gambusia marshi]]*, Minckley 1962; 9 additional undescribed, with 4 under active description). - Two new, reproductively distinct **undescribed ...
 > -- *[[OriginAndEvolutionOfTheFishesO_1962_12_10]]*
 
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[AnomalousThermalConditionsInAH_17103]]
 - [[CuatroCienegasFishesResearchRe_13699]]
 - [[HybridizationOfTwoSpeciesOfMos_13673]]
 - [[OriginAndEvolutionOfTheFishesO_1962_12_10]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]

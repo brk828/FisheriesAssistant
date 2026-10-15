@@ -23,6 +23,9 @@ The Bowfin (Amia calva) is a primitive freshwater fish species of North American
 > - The eastern Canadian freshwater fish fauna, especially in the **Great Lakes and St. Lawrence River region**, is undergoing rapid decline driven by pollution, dam construction, and watershed diversion — sufficient to require major revisions to species accounts between the 1955 and 1967 editions....
 > -- *[[ReviewOfFreshwaterFishesOfEast_11318]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[CausesOfDeathAmongIndianaFishe_1945]]
@@ -33,3 +36,4 @@ The Bowfin (Amia calva) is a primitive freshwater fish species of North American
 - [[TheOccurrenceOfTheBandedPygmyS_1980]]
 - [[TheRoleOfPhysicalFitnessOfFora_1967_10_02]]
 - [[VateriteAsTheCrystallineStruct_12254]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

@@ -23,7 +23,11 @@ Poecilia formosa, commonly known as the Amazon molly, is a freshwater poeciliid 
 > - **Genetic laws of transplantation apply to fish**, with a general one-to-one relationship between H-genes and transplantation antigens, though exceptions occur at weak histoincompatibility barriers. - **Gene dosage effect confirmed:** F₁ hybrid grafts survive significantly longer than parental ...
 > -- *[[GeneticsOfTissueTransplantatio_17874]]*
 
+> This 1967 NSF proposal requests continuation funding ($32,370.56 for one year) for a multidisciplinary systematic study of [[Poecilia]] species in northeastern Mexico, with particular focus on the all-female gynogenetic species [[Poecilia formosa]] (Amazon Molly). The research team led by Rezneat...
+> -- *[[SystematicsOfPoeciliaInNorthea_13950]]*
+
 ## Mentioned In
 - [[GeneticsOfTissueTransplantatio_17874]]
 - [[NotesOnThePoecilidFishesPoecil_15874]]
 - [[SurvivalAndAbundanceOfIntroduc_14259]]
+- [[SystematicsOfPoeciliaInNorthea_13950]]

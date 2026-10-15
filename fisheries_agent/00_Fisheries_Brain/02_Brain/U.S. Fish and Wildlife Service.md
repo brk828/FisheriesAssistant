@@ -92,6 +92,15 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
 > -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
 
+> This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
+> -- *[[EndangeredAndThreatenedWildlif_11592]]*
+
+> This March 1994 policy document from the [[U.S. Fish and Wildlife Service]] outlines the agency's adoption of an ecosystem approach to conserve the nation's biological diversity more effectively. The approach emphasizes protecting or restoring ecosystem function, structure, and species composition...
+> -- *[[AnEcosystemApproachToFishAndWi_11650]]*
+
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -326,3 +335,6 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[BiologicalAssessmentOfTheImpac_16261]]
 - [[APetitionPursuantToArticleOfTh_17637]]
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
+- [[EndangeredAndThreatenedWildlif_11592]]
+- [[AnEcosystemApproachToFishAndWi_11650]]
+- [[TentativeAgendaForTheUpperColo_15254]]

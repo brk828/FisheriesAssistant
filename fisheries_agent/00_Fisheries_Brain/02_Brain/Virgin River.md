@@ -44,6 +44,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
 > -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
 
+> This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
+> -- *[[CorrespondenceBetweenMinckleyA_16449]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -108,3 +111,4 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[CorrespondenceBetweenMinckleyA_16449]]

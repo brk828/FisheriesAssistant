@@ -23,6 +23,9 @@ Lake Sturgeon (*Acipenser fulvescens*) is a large, long-lived anadromous fish sp
 > This 1988 faunal survey paper reports new distributional records for 12 fish species in Illinois, based on recent field surveys (primarily in southern Illinois) and re-examination of historical fish collections from the late 1930s–1940s housed at the [[University of Michigan Museum of Zoology]]. ...
 > -- *[[NewDistributionalRecordsOfIlli_1988]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[ChangesInWalleyeStizostedionVi_1977_03_18]]
 - [[EndangeredThreatenedAndRarePla_14903]]
@@ -32,3 +35,4 @@ Lake Sturgeon (*Acipenser fulvescens*) is a large, long-lived anadromous fish sp
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[SomeAspectsOfWaterQualityAndBi_12230]]
 - [[StationProfileOfMammothSpringN_19535]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

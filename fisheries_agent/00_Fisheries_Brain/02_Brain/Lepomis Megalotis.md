@@ -14,7 +14,11 @@ auto_enriched: true
 > **Species interactions and community structure:** - The catch was numerically and functionally dominated by three species: [[Largemouth Bass]], [[Bluegill]], and [[White Crappie]], with secondary contributions from spotted bass ([[Micropterus punctulatus]]), black crappie ([[Pomoxis nigromaculatu...
 > -- *[[TheSportFisheryInAnArkansasWat_1968_10_21]]*
 
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[AspectsOfTheLifeHistoryOfTheOz_15231]]
 - [[TheReproductiveBehaviorOfTheGr_14522]]
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]

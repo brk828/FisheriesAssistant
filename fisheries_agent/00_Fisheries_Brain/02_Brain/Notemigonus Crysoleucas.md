@@ -17,8 +17,12 @@ Notemigonus crysoleucas, commonly known as the golden shiner, is a cyprinid fish
 > This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
 > -- *[[TroutFishingAtCliffPondBrewste_15489]]*
 
+> This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
+> -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
+
 ## Mentioned In
 - [[PhylogeneticsOfNorthAmericanCh_20485]]
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[TroutFishingAtCliffPondBrewste_15489]]
+- [[EffectsOfOilRefineryAndDomesti_11169]]

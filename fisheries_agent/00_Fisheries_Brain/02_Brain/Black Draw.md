@@ -11,6 +11,10 @@ auto_enriched: true
 > 1. **Habitat-Species Mismatch:** The Yaqui fishes occupy their historic *range* but not their historic *habitat type* — a critical distinction driving the restoration rationale. 2. **Artificial Life Support:** Since 1982, survival of these ESA-listed fish populations has depended entirely on arte...
 > -- *[[RestorationProposalForSanBerna_13383]]*
 
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[AsianTapewormEradicationStrate_13118]]
 - [[RestorationProposalForSanBerna_13383]]
+- [[TentativeSummaryOfCollectingAc_13171]]

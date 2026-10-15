@@ -68,6 +68,12 @@ Arizona State University is a major research institution that has played a signi
 > This document appears to be a fragmentary administrative or correspondence item from Arizona State University. The text is heavily degraded, likely from poor OCR quality or document damage, making substantive content extraction impossible. Only the institutional header identifying "ARIZONA STATE...
 > -- *[[SamplingAtBuenosAriesNwrDecemb_19411]]*
 
+> This letter from W.L. Minckley ([[Arizona State University]]) to Dr. Robert R. Miller ([[University of Michigan]]) dated June 30, 1988, addresses the discovery of [[Tilapia]] introduction into the [[Cuatro Cienegas]] basin in Mexico. Minckley outlines his position on appropriate response protocols,...
+> -- *[[TilapiaInCuatroCienegas_13761]]*
+
+> This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
+> -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -201,3 +207,5 @@ Arizona State University is a major research institution that has played a signi
 - [[BiologicalAssessmentOfTheImpac_16261]]
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[SamplingAtBuenosAriesNwrDecemb_19411]]
+- [[TilapiaInCuatroCienegas_13761]]
+- [[UsfwsmexicoCooperativeProgramG_16498]]

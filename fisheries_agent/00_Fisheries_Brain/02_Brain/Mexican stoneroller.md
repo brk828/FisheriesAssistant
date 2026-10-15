@@ -23,6 +23,12 @@ The Mexican Stoneroller (*Campostoma ornatum*) is a small cyprinid fish native t
 > - **[[Gila Chub]]** and **[[Roundtail Chub]]** — both *Gila* species inhabiting pools and slower-flowing reaches of desert streams; both are considered part of the broader **Gila River native fish assemblage** experiencing habitat loss from dewatering, impoundment, and non-native species introduc...
 > -- *[[FederalCandidateSpeciesOfArizo_11661]]*
 
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
@@ -36,3 +42,5 @@ The Mexican Stoneroller (*Campostoma ornatum*) is a small cyprinid fish native t
 - [[SpeciesResponsibilit_1992_12_25]]
 - [[SpeciesResponsibilitiesOfDeser_1989_12_07]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
+- [[ReportOfTheOctoberFishCount_11417]]
+- [[TentativeSummaryOfCollectingAc_13171]]

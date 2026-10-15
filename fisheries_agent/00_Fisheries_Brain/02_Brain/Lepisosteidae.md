@@ -26,6 +26,9 @@ Lepisosteidae, commonly known as gars, is a family of primitive freshwater and b
 > This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
 > -- *[[DistributionalAndLocalVernacul_13815]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -42,3 +45,4 @@ Lepisosteidae, commonly known as gars, is a family of primitive freshwater and b
 - [[SpatialAndTemporalVariationInT_16050]]
 - [[UnexploitedPotentialsOfOurFres_1958]]
 - [[DistributionalAndLocalVernacul_13815]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

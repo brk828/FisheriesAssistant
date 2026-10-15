@@ -35,6 +35,9 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > This Master's thesis (1971) investigated the ecology of juvenile fish (10-100 mm) in [[Imperial Reservoir]], a 2955-hectare impoundment on the [[Lower Colorado River]] north of Yuma, Arizona. The study was motivated by planned channelization that could alter critical spawning and rearing habitats....
 > -- *[[EcologyOfJuvenileFishInImperia_19643]]*
 
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -102,3 +105,4 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[TechnicalReviewDraftPahranagat_13301]]
 - [[FisheryInventoryOfTheCoachella_13687]]
 - [[EcologyOfJuvenileFishInImperia_19643]]
+- [[ReportOfTheOctoberFishCount_11417]]

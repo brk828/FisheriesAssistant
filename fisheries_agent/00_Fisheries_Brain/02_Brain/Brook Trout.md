@@ -32,6 +32,15 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
 > -- *[[TroutFishingAtCliffPondBrewste_15489]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
+> This January 1990 letter from Dr. John N. Rinne (USFS Rocky Mountain Forestry Sciences Lab) to Jim Hanson (USFWS Pinetop) discusses electrophoretic genetic studies of [[Apache Trout]] populations in the [[White Mountains]] and their implications for conservation management. Rinne compares recent...
+> -- *[[ReTheElectrophoreticStudyOfWhi_14999]]*
+
+> This 1953 fisheries management report documents comprehensive investigations of three connected water bodies in Colorado: [[Granby Reservoir]], [[Shadow Mountain Reservoir]], and [[Grand Lake]]. The study employed creel census, rough fish control operations, limnological sampling, food habit...
+> -- *[[ProjectReportGrandLakeShadowMo_16322]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -109,3 +118,6 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[ABibliographyAndHostListForThe_15289]]
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[TroutFishingAtCliffPondBrewste_15489]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[ReTheElectrophoreticStudyOfWhi_14999]]
+- [[ProjectReportGrandLakeShadowMo_16322]]

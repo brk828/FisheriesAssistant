@@ -38,6 +38,9 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
 > -- *[[InterimProceduresForStockingNo_15423]]*
 
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -93,3 +96,4 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[EffectsOfElectrofishingFieldsO_15544]]
 - [[CapturesOfLarvalRazorbackSucke_18287]]
 - [[InterimProceduresForStockingNo_15423]]
+- [[TentativeAgendaForTheUpperColo_15254]]

@@ -17,7 +17,11 @@ Umbridae is a family of small freshwater fishes commonly known as mudminnows, cl
 > - **[[Lepidomeda]]** (genus, spiny-rayed cyprinid/Plagopterini) — shared between the White/Virgin/Las Vegas Wash Section and Little Colorado Section of the Middle Colorado Province, used as evidence of their sister-group relationship. - **[[Novumbra hubbsi]]** (family [[Umbridae]]) — mudminnow sp...
 > -- *[[LetterToMrDonnellyHillRegardin_1994_08_29]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[FreshwaterFishesOfTheEasternAr_18569]]
 - [[Kontinentalverschiebungstheori_1954]]
 - [[LetterToMrDonnellyHillRegardin_1994_08_29]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

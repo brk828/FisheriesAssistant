@@ -23,6 +23,9 @@ The Creek Chub (*Semotilus atromaculatus*) is a cyprinid minnow that functions a
 > - **[[Colorado Pikeminnow]]** (referred to historically as "Colorado squawfish"): - Green River (Fall 1992): 3 individuals, 34–45 mm TL - Utah reach, Colorado River (Fall 1992): 26 specimens, 19.6–48.0 mm TL - Colorado River (Spring 1993): 15 individuals (size not specified, all captured ≤ river ...
 > -- *[[CooperativeAgreementForResearc_1993]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -43,3 +46,4 @@ The Creek Chub (*Semotilus atromaculatus*) is a cyprinid minnow that functions a
 - [[TheToxicityToWarmWaterFishesOf_14914]]
 - [[UseOfBioassaysInDeterminingLev_13904]]
 - [[VariabilityOfInfectionOfBlackS_1959]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

@@ -41,6 +41,9 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 > This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
 > -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
 
+> This biological assessment evaluates potential impacts of removing the [[Roosevelt Diversion Dam]] on the [[Salt River]], Arizona. Electrofishing surveys conducted March 15-16, 1988 documented stark differences in fish assemblages above versus below the dam. Above the dam, 230 fish (23,680 gm total...
+> -- *[[SaltRiverProjectRooseveltDiver_15070]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -190,3 +193,4 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 - [[InterimProceduresForStockingNo_15423]]
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
+- [[SaltRiverProjectRooseveltDiver_15070]]

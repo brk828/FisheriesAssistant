@@ -20,6 +20,9 @@ The Colorado River Fishery Project is a U.S. Fish and Wildlife Service administr
 > - **Program Goal Established**: "To restore or enhance natural flood plain functions for recovery of endangered fishes in the upper Colorado River basin." - **Experimental Design Proposed** by the Technical Advisory Group: - Short-term stabilization via controlled, nonnative-free flood plain pond...
 > -- *[[DraftSummaryOfNovemberFloodedB_1994_11_17]]*
 
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ConcentrationsOfTotalDissolved_11144]]
@@ -31,3 +34,4 @@ The Colorado River Fishery Project is a U.S. Fish and Wildlife Service administr
 - [[LetterToWLMinckleyOnAgingOfRaz_1993_02_17]]
 - [[RecommendationsOnBonytailRetri_1987_09_03]]
 - [[SeleniumMayHarmRazorbackSucker_11707]]
+- [[TentativeAgendaForTheUpperColo_15254]]

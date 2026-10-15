@@ -20,7 +20,11 @@ Pomoxis nigromaculatus, commonly known as black crappie, is a freshwater centrar
 > 1. **First confirmed record** of *Dorosoma petenense* in the Rio Yaqui Basin (Sonora), based on specimens deposited in the ichthyological reference collection of the **Centro Ecológico de Sonora** (Cat. No. CES-0442, CES-0633). 2. The population is established near the river mouth (~30 km from th...
 > -- *[[DorosomaPetenenseGüntherNuevoR_13094]]*
 
+> This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
+> -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
+- [[EffectsOfOilRefineryAndDomesti_11169]]

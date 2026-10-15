@@ -23,6 +23,12 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 > - **Desert fish faunas and pluvial lake systems**: Extensive work on the [[Death Valley System]] (California–Nevada), correlating fish distribution with Pleistocene/Holocene hydrographic history in the [[Great Basin]]. - **Endemism and speciation in isolated waters**: Studies of *Cyprinodon* (pup...
 > -- *[[CurriculumVitaeOfRobertRushMil_15383]]*
 
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
+> This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
+> -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
+
 ## Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[ButterfliesFromCoahuilaMexico_1968]]
@@ -36,3 +42,5 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 - [[PaperOnTwoNewSpeciesOfCyprinod_15302]]
 - [[PartialBibliographyOnNaturalHi_13786]]
 - [[SpecialSymposiumOnTheBiotaOfCu_19762]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]
+- [[UsfwsmexicoCooperativeProgramG_16498]]

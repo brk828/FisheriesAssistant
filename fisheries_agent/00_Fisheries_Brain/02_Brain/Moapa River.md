@@ -29,6 +29,9 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 > This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
 > -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
 
+> This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
+> -- *[[CorrespondenceBetweenMinckleyA_16449]]*
+
 ## Mentioned In
 - [[DistributionOfFishesInTheSanRa_1980_01_30]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -38,3 +41,4 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 - [[TheFishesOfTheVirginRiverATrib_14013]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[CorrespondenceBetweenMinckleyA_16449]]

@@ -44,6 +44,9 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 > This Master's thesis (1971) investigated the ecology of juvenile fish (10-100 mm) in [[Imperial Reservoir]], a 2955-hectare impoundment on the [[Lower Colorado River]] north of Yuma, Arizona. The study was motivated by planned channelization that could alter critical spawning and rearing habitats....
 > -- *[[EcologyOfJuvenileFishInImperia_19643]]*
 
+> This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
+> -- *[[EndangeredAndThreatenedWildlif_11592]]*
+
 ## Mentioned In
 - [[ANoteOnTheResultsOfFeedingFire_1960]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -90,3 +93,4 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 - [[FisheryInventoryOfTheCoachella_13687]]
 - [[SelectedAspectsOfTheNaturalHis_14397]]
 - [[EcologyOfJuvenileFishInImperia_19643]]
+- [[EndangeredAndThreatenedWildlif_11592]]

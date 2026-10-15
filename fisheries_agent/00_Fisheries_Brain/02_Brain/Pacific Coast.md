@@ -11,5 +11,9 @@ The Pacific Coast refers to the western seaboard of North America where striped 
 > This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
 > -- *[[DraftliteratureReviewOfTheStri_15768]]*
 
+> This paper reviews Quaternary paleoclimatic trends along the [[Pacific Coast]] of [[North America]], emphasizing long-term cooling and increasing aridity from the Tertiary through the Pleistocene to Recent times. [[Carl L. Hubbs]] synthesizes evidence from paleobotany, paleontology, archaeology,...
+> -- *[[QuaternaryPaleoclimatologyOfTh_14159]]*
+
 ## Mentioned In
 - [[DraftliteratureReviewOfTheStri_15768]]
+- [[QuaternaryPaleoclimatologyOfTh_14159]]

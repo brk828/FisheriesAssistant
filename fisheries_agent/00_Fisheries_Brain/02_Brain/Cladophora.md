@@ -29,6 +29,9 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 > This document outlines a comprehensive research plan for the [[Glen Canyon Environmental Studies]] (GCES) program, designed to investigate the ecological and economic impacts of [[Glen Canyon Dam]] operations on the [[Colorado River]] ecosystem through [[Grand Canyon]]. The plan addresses multiple...
 > -- *[[GcesPlanningDocumentResearchPl_18452]]*
 
+> This document is correspondence from the Bureau of Reclamation dated February 4, 1993, announcing a meeting of the Reservoir Work Group scheduled for February 12, 1993, in Phoenix, Arizona. The meeting focuses on selective withdrawal operations at [[Glen Canyon Dam]] to modify downstream water...
+> -- *[[CorrespondenceRegardingMeeting_13520]]*
+
 ## Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -45,3 +48,4 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 - [[TheEffectsOfBiologicalCommunit_12165]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
 - [[GcesPlanningDocumentResearchPl_18452]]
+- [[CorrespondenceRegardingMeeting_13520]]

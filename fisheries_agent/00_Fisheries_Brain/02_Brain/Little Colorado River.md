@@ -71,6 +71,12 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
 > -- *[[MitochondrialDnaDiversityWithi_19127]]*
 
+> This document is a formal rebuttal by USFWS biologists Owen T. Gorman and Stuart C. Leon (dated May 15, 1992) responding to criticisms by Duncan Patten, Senior Scientific Advisor for the Glen Canyon Environmental Studies (GCES), regarding the justification of study area selection in the [[Little...
+> -- *[[RebuttalToCriticismsByDuncanPa_11089]]*
+
+> This document is correspondence from the Bureau of Reclamation dated February 4, 1993, announcing a meeting of the Reservoir Work Group scheduled for February 12, 1993, in Phoenix, Arizona. The meeting focuses on selective withdrawal operations at [[Glen Canyon Dam]] to modify downstream water...
+> -- *[[CorrespondenceRegardingMeeting_13520]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -205,3 +211,5 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[IndigenousBigriverFishesColora_18295]]
 - [[GcesPlanningDocumentResearchPl_18452]]
 - [[MitochondrialDnaDiversityWithi_19127]]
+- [[RebuttalToCriticismsByDuncanPa_11089]]
+- [[CorrespondenceRegardingMeeting_13520]]

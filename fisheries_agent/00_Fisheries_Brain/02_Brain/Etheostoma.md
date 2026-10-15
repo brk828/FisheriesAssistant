@@ -23,6 +23,9 @@ Etheostoma is a genus of small freshwater darters within the family Percidae, co
 > - Bottom-feeding taxa (*[[Campostoma Anomalum]]*, *[[Etheostoma]]* spp., *[[Percina]]* spp.) were disproportionately affected because their food supply (benthic invertebrates) was eliminated by silt smothering.
 > -- *[[EffectsOfStripMiningOnSmallStr_1972_02_29]]*
 
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[AProvisionalCheckListOfTheFish_15941]]
@@ -41,3 +44,4 @@ Etheostoma is a genus of small freshwater darters within the family Percidae, co
 - [[SystematicStudiesOfDartersFrom_1963]]
 - [[TheSpottailDarterEtheostomaSqu_1976]]
 - [[TwoNaturalDarterHybridsInvolvi_1980]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]

@@ -41,6 +41,9 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 > This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
 > -- *[[MolecularVariationAndEvolution_18435]]*
 
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
 ## Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[CienegaCreekWatershedWaterSour_18990]]
@@ -60,3 +63,4 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[SelectedAspectsOfTheNaturalHis_14397]]
 - [[MolecularVariationAndEvolution_18435]]
+- [[ReportOfTheOctoberFishCount_11417]]

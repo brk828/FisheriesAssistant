@@ -32,6 +32,9 @@ Agosia chrysogaster, commonly known as the longfin dace, is a small native cypri
 > This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
 > -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
 
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgosiaChrysogasterACyprinidFro_17955]]
@@ -57,3 +60,4 @@ Agosia chrysogaster, commonly known as the longfin dace, is a small native cypri
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
+- [[TentativeSummaryOfCollectingAc_13171]]

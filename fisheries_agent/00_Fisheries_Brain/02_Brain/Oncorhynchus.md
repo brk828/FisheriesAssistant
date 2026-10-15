@@ -20,6 +20,9 @@ Oncorhynchus is a genus of anadromous and semelparous fish in the salmon family 
 > This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
 > -- *[[DistributionalAndLocalVernacul_13815]]*
 
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[Bureaucratic Mischief Recognizing Endangered Species and Subspecies]]
 - [[KitzhaberCallsForBreachingFour_13544]]
@@ -29,3 +32,4 @@ Oncorhynchus is a genus of anadromous and semelparous fish in the salmon family 
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[TroutNomenclature_18189]]
 - [[DistributionalAndLocalVernacul_13815]]
+- [[TentativeSummaryOfCollectingAc_13171]]

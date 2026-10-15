@@ -23,6 +23,9 @@ The Johnny Darter (*Etheostoma nigrum*) is a small benthic darter species common
 > - **Panfish guild**: [[Yellow Perch]], [[White Perch]], [[Black Crappie]] — targeted at ≥200 individuals per species per water body. - **Game fish guild**: [[Pickerel]] (Chain and Redfin), [[Bass]] (Largemouth, Smallmouth, Rock, Striped), [[Trout]] (Brown, Rainbow, Eastern Brook) — same 200-indiv...
 > -- *[[MethodsAndProceduresForScaleSa_1956_02_09]]*
 
+> The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
+> -- *[[Perch_16750]]*
+
 ## Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[AgeGrowthFecundityAndFoodHabit_1964]]
@@ -31,3 +34,4 @@ The Johnny Darter (*Etheostoma nigrum*) is a small benthic darter species common
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[NaturalProductivityOfFishAndCr_1940]]
+- [[Perch_16750]]

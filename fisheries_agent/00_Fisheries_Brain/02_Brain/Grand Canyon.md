@@ -74,6 +74,12 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
 > -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
 
+> This document is a formal rebuttal by USFWS biologists Owen T. Gorman and Stuart C. Leon (dated May 15, 1992) responding to criticisms by Duncan Patten, Senior Scientific Advisor for the Glen Canyon Environmental Studies (GCES), regarding the justification of study area selection in the [[Little...
+> -- *[[RebuttalToCriticismsByDuncanPa_11089]]*
+
+> This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
+> -- *[[EndangeredAndThreatenedWildlif_11592]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -182,3 +188,5 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[GcesPlanningDocumentResearchPl_18452]]
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
+- [[RebuttalToCriticismsByDuncanPa_11089]]
+- [[EndangeredAndThreatenedWildlif_11592]]

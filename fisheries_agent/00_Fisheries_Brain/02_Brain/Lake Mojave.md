@@ -20,6 +20,9 @@ Lake Mojave is a major reservoir on the lower Colorado River that serves as the 
 > - **Study Rationale**: Broad genetic survey intended to (1) characterize all known wild/captive populations, (2) define breeding/management units, (3) assess genetic risk and conservation priority, (4) inform migration/spawning studies, and (5) evaluate introgression/hybridization risk with other...
 > -- *[[RazorbackSuckerGeneticSurveyTi_1992]]*
 
+> This 1982 research proposal, submitted by Linda Ulmer (California Department of Fish and Game) to the U.S. Fish and Wildlife Service, outlines a two-phase electrophoretic study to assess genetic purity of [[Razorback Sucker]] (*Xyrauchen texanus*) breeding stocks. The study addresses concerns that...
+> -- *[[LetterToJimJohnsonWithEncolose_11425]]*
+
 ## Mentioned In
 - [[BonytailChubStrategicPlan_13206]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -27,3 +30,4 @@ Lake Mojave is a major reservoir on the lower Colorado River that serves as the 
 - [[DevelopingRecoveryGoalsForTheF_1999_07_29]]
 - [[LakeMohaveSamplingParticipatio_1990_01_11]]
 - [[RazorbackSuckerGeneticSurveyTi_1992]]
+- [[LetterToJimJohnsonWithEncolose_11425]]

@@ -32,6 +32,9 @@ The White River refers to a river system in the south-central United States (pri
 > This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
 > -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
 
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -61,3 +64,4 @@ The White River refers to a river system in the south-central United States (pri
 - [[TechnicalReviewDraftPahranagat_13301]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[TentativeAgendaForTheUpperColo_15254]]

@@ -26,6 +26,12 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 > This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
 > -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
 
+> This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
+> -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
+
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[DistributionOfMidwesternFishes_1978]]
 - [[FiveNewSpeciesOfGyrodactylusTr_12149]]
@@ -38,3 +44,5 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[WestTurkeyCreekFishS_1997_10_31]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
+- [[EffectsOfOilRefineryAndDomesti_11169]]
+- [[TentativeSummaryOfCollectingAc_13171]]

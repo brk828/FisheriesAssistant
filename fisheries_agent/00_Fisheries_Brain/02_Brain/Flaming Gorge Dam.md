@@ -35,6 +35,9 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
 > -- *[[InterimProceduresForStockingNo_15423]]*
 
+> This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
+> -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -79,3 +82,4 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[ReReviewOfFloodedBottomLandRes_13862]]
 - [[IntraserviceSectionConsultatio_20152]]
 - [[InterimProceduresForStockingNo_15423]]
+- [[FyAnnualProjectReportEarlyBiol_18213]]

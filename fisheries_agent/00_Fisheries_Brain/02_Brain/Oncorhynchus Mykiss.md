@@ -26,6 +26,9 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 > This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
 > -- *[[DistributionalAndLocalVernacul_13815]]*
 
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[LeesFerryTrophyTroutFishery_18301]]
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
@@ -35,3 +38,4 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 - [[WestTurkeyCreekFishS_1996_04_12]]
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[DistributionalAndLocalVernacul_13815]]
+- [[TentativeSummaryOfCollectingAc_13171]]

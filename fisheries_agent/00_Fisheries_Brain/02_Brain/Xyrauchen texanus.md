@@ -32,6 +32,9 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
 > -- *[[DistributionalAndLocalVernacul_13815]]*
 
+> This paper reviews Quaternary paleoclimatic trends along the [[Pacific Coast]] of [[North America]], emphasizing long-term cooling and increasing aridity from the Tertiary through the Pleistocene to Recent times. [[Carl L. Hubbs]] synthesizes evidence from paleobotany, paleontology, archaeology,...
+> -- *[[QuaternaryPaleoclimatologyOfTh_14159]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -77,3 +80,4 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[DistributionalAndLocalVernacul_13815]]
+- [[QuaternaryPaleoclimatologyOfTh_14159]]

@@ -35,6 +35,9 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 > This master's thesis by Craig Stephen Ivanyi (University of Arizona, 1989) examines selected life history aspects of the [[Desert Sucker]] (*Catostomus clarkii*, also referred to as *Pantosteus clarkii*) in four southeastern Arizona streams. The study focused primarily on [[Sonoita Creek]], with...
 > -- *[[SelectedAspectsOfTheNaturalHis_14397]]*
 
+> This document is the 1987-1988 annual report for a multi-faceted investigation contracted by the U.S. Fish and Wildlife Service, Arizona Game and Fish Department, and New Mexico Department of Fish and Game to Arizona State University. The study evaluates interactions between the invasive [[Red...
+> -- *[[DraftOfTheAnnualReportForSpike_13757]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
@@ -53,3 +56,4 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 - [[BiologicalAssessmentForTheSpik_11476]]
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[SelectedAspectsOfTheNaturalHis_14397]]
+- [[DraftOfTheAnnualReportForSpike_13757]]

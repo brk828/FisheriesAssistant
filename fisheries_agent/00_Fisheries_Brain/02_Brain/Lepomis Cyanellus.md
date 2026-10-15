@@ -35,6 +35,9 @@ Lepomis cyanellus, commonly known as the green sunfish, is a native centrarchid 
 > This memorandum from Ken Wiley to David Mladenoff, dated July 1, 1987, presents a first draft plan for renovating [[Palm Lake]] at the [[Hassayampa River Preserve]] in Arizona. The project aims to remove exotic fish species and introduce endangered native species, specifically [[Gila elegans]]...
 > -- *[[RenovationOfPalmLakeHassayampa_11969]]*
 
+> This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
+> -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[ARelativeStudyOfOxygenConsumpt_16948]]
@@ -54,3 +57,4 @@ Lepomis cyanellus, commonly known as the green sunfish, is a native centrarchid 
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[RenovationOfPalmLakeHassayampa_11969]]
+- [[EffectsOfOilRefineryAndDomesti_11169]]

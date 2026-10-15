@@ -23,6 +23,9 @@ Poeciliopsis is a genus of small livebearing fish native to Mexico and the south
 > This theoretical review examines the genetic, developmental, and ecological constraints limiting the origins, establishment, and persistence of unisexual vertebrate species. Despite comprising only ~0.1% of named vertebrate species, unisexual forms (approximately 50 recognized "species") provide...
 > -- *[[GeneticAndEcologicalConstraint_13156]]*
 
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[AnnualReportUnderUsfwsSubpermi_20894]]
 - [[DesertFishesRecoveryTeamConsul_1988_04_16]]
@@ -32,3 +35,4 @@ Poeciliopsis is a genus of small livebearing fish native to Mexico and the south
 - [[LetterFromDeanAHendricksonToCa_1990_01_09]]
 - [[RioMagdalenaBasinFishSurveyTra_1986_11_24]]
 - [[GeneticAndEcologicalConstraint_13156]]
+- [[TentativeSummaryOfCollectingAc_13171]]

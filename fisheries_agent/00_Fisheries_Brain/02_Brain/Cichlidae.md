@@ -26,6 +26,12 @@ Cichlidae is a diverse family of freshwater and brackish-water fish found primar
 > This administrative report presents a comprehensive bibliography of 213 selected references on [[Tilapia mossambica]] (Mozambique Tilapia), compiled by the California Department of Fish and Game, Region 5, Inland Fisheries in January 1967. The bibliography encompasses all significant papers known...
 > -- *[[BibliographyOfPublicationsConc_14697]]*
 
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
+> This letter from W.L. Minckley ([[Arizona State University]]) to Dr. Robert R. Miller ([[University of Michigan]]) dated June 30, 1988, addresses the discovery of [[Tilapia]] introduction into the [[Cuatro Cienegas]] basin in Mexico. Minckley outlines his position on appropriate response protocols,...
+> -- *[[TilapiaInCuatroCienegas_13761]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AquaticConservationNetworkCorr_1993_03_10]]
@@ -57,3 +63,5 @@ Cichlidae is a diverse family of freshwater and brackish-water fish found primar
 - [[TheBiologyOfTilapiaNiloticaLin_1961]]
 - [[TheCichlidFishesOfTheGenusTris_1960_12_30]]
 - [[BibliographyOfPublicationsConc_14697]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]
+- [[TilapiaInCuatroCienegas_13761]]

@@ -23,6 +23,9 @@ The Cuatro Ciénegas Basin is a unique hydrogeological system in Mexico characte
 > - **Habitat type**: Desert spring systems ("cienegas") — isolated, often thermally and chemically stable freshwater spring habitats characteristic of arid basin-and-range terrain, notable for high endemism. - **Basin significance**: The [[Cuatro Cienegas Basin]] in Coahuila, Mexico, is globally r...
 > -- *[[LetterFromRobertHershlerToWLMi_16717]]*
 
+> This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
+> -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[CochliopinaMilleriCuatroCiéneg_19811]]
@@ -31,3 +34,4 @@ The Cuatro Ciénegas Basin is a unique hydrogeological system in Mexico characte
 - [[LetterToJackWoodyRegardingIlle_1987_03_18]]
 - [[OriginAndEvolutionOfTheFishesO_1962_12_10]]
 - [[SomeEcologicalFeaturesOfTheCua_1998_06_15]]
+- [[UsfwsmexicoCooperativeProgramG_16498]]

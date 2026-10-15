@@ -35,6 +35,9 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 > Two Oklahoma State University zoology professors, Dr. Troy C. Dorris and Dr. Robert C. Summerfelt, conducted a three-week study of fish populations in [[Lake Atitlan]], [[Guatemala]], in 1967 to address perceived fish shortages affecting the community of [[Santiago Atitlan]] (population 14,000)....
 > -- *[[FishPlentifulInGuatemalaLake_19070]]*
 
+> This letter from W.L. Minckley ([[Arizona State University]]) to Dr. Robert R. Miller ([[University of Michigan]]) dated June 30, 1988, addresses the discovery of [[Tilapia]] introduction into the [[Cuatro Cienegas]] basin in Mexico. Minckley outlines his position on appropriate response protocols,...
+> -- *[[TilapiaInCuatroCienegas_13761]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -76,3 +79,4 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[FishPlentifulInGuatemalaLake_19070]]
+- [[TilapiaInCuatroCienegas_13761]]

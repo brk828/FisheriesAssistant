@@ -23,8 +23,12 @@ The River Chub (*Nocomis micropogon*) is a cyprinid fish species inhabiting loti
 > 1. **Two new state records**: [[Taillight Shiner]] (*Notropis maculatus*) and [[Inland Silverside]] (*Menidia beryllina*) are formally added to the Illinois fish fauna, raising the state total to 202 species (with the anomalous Atlantic salmon record also factored in). 2. **Taillight Shiner conse...
 > -- *[[NewDistributionalRecordsOfIlli_1988]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[FishesOfTheHeadwatersOfShavers_11342]]
 - [[NewDistributionalRecordsOfIlli_1988]]
 - [[TheComparativeFoodHabitsOfTheC_1950_07_15]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

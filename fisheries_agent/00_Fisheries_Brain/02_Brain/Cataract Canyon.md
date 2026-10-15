@@ -23,6 +23,9 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 > - **Spawning & Reproductive Habitat**: Studies sought to link river flow and sediment transport to substrate conditions (composition, particle size, percent fines, percent embeddedness) required for successful [[Colorado Squawfish]] spawning, embryo survival, and larval emergence. - **Larval Drif...
 > -- *[[SolicitationOfResearchProposal_1990_03_20]]*
 
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
 ## Mentioned In
 - [[FeedingActivityAndSpawning_11266]]
 - [[FyAnnualProjectReportGilaTaxon_1993_12_06]]
@@ -33,3 +36,4 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 - [[SolicitationOfResearchProposal_1990_03_20]]
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
+- [[TentativeAgendaForTheUpperColo_15254]]

@@ -35,6 +35,9 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
 > -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
 
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -61,3 +64,4 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[RequestedMeetingnativeFishWork_15023]]
 - [[TransmittalRegardingReasonable_19809]]
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
+- [[TentativeAgendaForTheUpperColo_15254]]

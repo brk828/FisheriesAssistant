@@ -47,6 +47,9 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 > This Master's thesis (1971) investigated the ecology of juvenile fish (10-100 mm) in [[Imperial Reservoir]], a 2955-hectare impoundment on the [[Lower Colorado River]] north of Yuma, Arizona. The study was motivated by planned channelization that could alter critical spawning and rearing habitats....
 > -- *[[EcologyOfJuvenileFishInImperia_19643]]*
 
+> This document is correspondence from the Bureau of Reclamation dated February 4, 1993, announcing a meeting of the Reservoir Work Group scheduled for February 12, 1993, in Phoenix, Arizona. The meeting focuses on selective withdrawal operations at [[Glen Canyon Dam]] to modify downstream water...
+> -- *[[CorrespondenceRegardingMeeting_13520]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
@@ -122,3 +125,4 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[CommentsOnFinalBiologicalAndCo_14379]]
 - [[EcologyOfJuvenileFishInImperia_19643]]
+- [[CorrespondenceRegardingMeeting_13520]]

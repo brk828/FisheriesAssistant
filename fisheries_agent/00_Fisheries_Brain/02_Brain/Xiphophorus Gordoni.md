@@ -17,7 +17,11 @@ Xiphophorus gordoni is an endemic platyfish (family Poeciliidae) described by Mi
 > - The [[Cuatro Ciénegas Basin]] harbors a disproportionately high number of **endemic fish taxa** relative to its small geographic footprint, a pattern explicitly reviewed by Minckley (1978) in "Endemic fishes of the Cuatro Ciénegas Basin, Northern Coahuila, Mexico." - Taxonomic novelty is a recu...
 > -- *[[PartialBibliographyOnNaturalHi_13786]]*
 
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[CuatroCienegasFishesResearchRe_13699]]
 - [[PartialBibliographyOnNaturalHi_13786]]
 - [[PreliminaryLimnologicInformati_1968_12_31]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]

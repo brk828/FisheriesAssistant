@@ -32,6 +32,9 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > The U.S. Fish and Wildlife Service published a final rule on July 20, 1994, listing the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the Endangered Species Act of 1973. This cyprinid fish, historically one of the most abundant and widespread fishes in the...
 > -- *[[EndangeredAndThreatenedWildlif_11651]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -60,3 +63,4 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[EndangeredAndThreatenedWildlif_11651]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

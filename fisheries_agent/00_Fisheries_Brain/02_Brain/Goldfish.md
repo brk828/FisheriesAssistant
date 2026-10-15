@@ -29,6 +29,9 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 > This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
 > -- *[[FisheryInventoryOfTheCoachella_13687]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -72,3 +75,4 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 - [[TurtlesInTheHomeAquarium_13269]]
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[FisheryInventoryOfTheCoachella_13687]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

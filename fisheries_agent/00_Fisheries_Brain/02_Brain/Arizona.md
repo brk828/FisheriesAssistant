@@ -41,6 +41,9 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 > This 1987 baseline report documents vegetation and breeding bird communities along a 3 km cattle exclosure established in 1984 on [[Lower Bonita Creek]], [[Graham County]], [[Arizona]]. The study was conducted by [[William C. Hunter]] from [[Arizona State University]] for the [[U.S. Bureau of Land...
 > -- *[[ChangesInRiparianVegetationAnd_14524]]*
 
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
 ## Mentioned In
 - [[AuthorizationLetterForGilaTopm_1990_11_21]]
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
@@ -59,3 +62,4 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 - [[TransmittalRegardingReasonable_19809]]
 - [[NongameWildlifeAndFisheriesInv_13701]]
 - [[ChangesInRiparianVegetationAnd_14524]]
+- [[ReportOfTheOctoberFishCount_11417]]

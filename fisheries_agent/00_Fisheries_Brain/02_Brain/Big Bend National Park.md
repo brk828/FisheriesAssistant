@@ -17,7 +17,11 @@ Big Bend National Park, located in Texas along the Rio Grande, is a critical con
 > **Pilot Region B — Chihuahuan Desert / Rio Grande Complex:** - [[Maderas del Carmen Wildlife Protection Area]] (Coahuila, Mexico) - [[Cañón de Santa Elena Wildlife Protection Area]] (Chihuahua, Mexico) - [[Big Bend National Park]] (Texas, USA)
 > -- *[[LetterOfIntentForJointWorkInNa_17188]]*
 
+> This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
+> -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
+
 ## Mentioned In
 - [[DraftDesertFishesRecoveryPlan_1987_01_22]]
 - [[FishesInhabitingTheRioGrandeTe_1977_07_09]]
 - [[LetterOfIntentForJointWorkInNa_17188]]
+- [[UsfwsmexicoCooperativeProgramG_16498]]

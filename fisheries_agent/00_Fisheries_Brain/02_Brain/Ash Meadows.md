@@ -29,6 +29,9 @@ Ash Meadows is a spring-fed complex of isolated wetland habitats in the Death Va
 > This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
 > -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
 
+> This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
+> -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -52,3 +55,4 @@ Ash Meadows is a spring-fed complex of isolated wetland habitats in the Death Va
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[InformalSectionConsultationReP_13297]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[UsfwsmexicoCooperativeProgramG_16498]]

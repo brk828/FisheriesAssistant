@@ -56,6 +56,15 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This comprehensive life history study of the [[Piute Sculpin]] (*Cottus beldingii*) in [[Lake Tahoe]] examined 6,424 specimens collected from September 1963 through September 1964. The research focused on diet composition, age and growth patterns, reproductive biology, and parasite loads. Sculpins...
 > -- *[[ContributionsToTheLifeHistoryO_15724]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
+> This January 1990 letter from Dr. John N. Rinne (USFS Rocky Mountain Forestry Sciences Lab) to Jim Hanson (USFWS Pinetop) discusses electrophoretic genetic studies of [[Apache Trout]] populations in the [[White Mountains]] and their implications for conservation management. Rinne compares recent...
+> -- *[[ReTheElectrophoreticStudyOfWhi_14999]]*
+
+> This 1953 fisheries management report documents comprehensive investigations of three connected water bodies in Colorado: [[Granby Reservoir]], [[Shadow Mountain Reservoir]], and [[Grand Lake]]. The study employed creel census, rough fish control operations, limnological sampling, food habit...
+> -- *[[ProjectReportGrandLakeShadowMo_16322]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -187,3 +196,6 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[ContributionsToTheLifeHistoryO_15724]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[ReTheElectrophoreticStudyOfWhi_14999]]
+- [[ProjectReportGrandLakeShadowMo_16322]]

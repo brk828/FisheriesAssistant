@@ -29,6 +29,9 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
 > -- *[[MinutesDesertFishesRecoveryTea_15843]]*
 
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -63,3 +66,4 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
 - [[ListedAndCandidateSpeciesRespo_11941]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
+- [[TentativeSummaryOfCollectingAc_13171]]

@@ -26,6 +26,9 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This biological assessment evaluates potential impacts of removing the [[Roosevelt Diversion Dam]] on the [[Salt River]], Arizona. Electrofishing surveys conducted March 15-16, 1988 documented stark differences in fish assemblages above versus below the dam. Above the dam, 230 fish (23,680 gm total...
+> -- *[[SaltRiverProjectRooseveltDiver_15070]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AlbinisticCarpCyprinusCarpioFr_1968_04_18]]
@@ -41,3 +44,4 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 - [[RooseveltLakeRazorbackSuckerRe_1994]]
 - [[RooseveltLakeRazorbackSuckerRe_1994_08_19]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[SaltRiverProjectRooseveltDiver_15070]]

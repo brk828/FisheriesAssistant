@@ -26,9 +26,13 @@ The Little Snake River is a major tributary of the Yampa River in the Upper Colo
 > This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
 > -- *[[TheColoradoRiverFishesRecovery_11196]]*
 
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
 ## Mentioned In
 - [[OccurrenceOfTwoEndangeredFishe_1990_07_19]]
 - [[StationProfileSaratogaNational_1993_12_11]]
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[TheColoradoRiverFishesRecovery_11196]]
+- [[TentativeAgendaForTheUpperColo_15254]]

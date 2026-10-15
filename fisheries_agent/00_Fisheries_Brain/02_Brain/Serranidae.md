@@ -23,6 +23,9 @@ Serranidae is a fish family commonly recognized in fisheries management and spor
 > This technical note describes a practical method for mounting fish scales for age and growth studies, developed at the [[Iowa Cooperative Fisheries Research Unit]]. The technique uses two microscope slides bound with waterproof adhesive tape to create permanent, easily stored mounts that preserve...
 > -- *[[ASimpleMethodOfMountingScales_20311]]*
 
+> The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
+> -- *[[Perch_16750]]*
+
 ## Mentioned In
 - [[AProvisionalCheckListOfTheFish_15941]]
 - [[HatschekiaPacificaNewSpeciesCo_1970]]
@@ -30,3 +33,4 @@ Serranidae is a fish family commonly recognized in fisheries management and spor
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[ASimpleMethodOfMountingScales_20311]]
+- [[Perch_16750]]

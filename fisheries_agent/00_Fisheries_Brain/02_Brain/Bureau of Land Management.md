@@ -38,6 +38,12 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 > This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
 > -- *[[EndangeredAndThreatenedWildlif_11580]]*
 
+> In March 1994, [[Motorola]] and [[GeoResearch Inc.]] donated critical GPS equipment and mapping software to the Cooperative Park Studies Unit at the University of Arizona (CPSU/UA) and the Advanced Resources Technology (ART) program. The donation includes two complete LGT1000 GPS/GIS-receiver field...
+> -- *[[NewEquipmentAndSoftwareWillEnh_13224]]*
+
+> This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
+> -- *[[CorrespondenceBetweenMinckleyA_16449]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -99,3 +105,5 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 - [[ReportOfFloodDamageToBigSpring_18984]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 - [[EndangeredAndThreatenedWildlif_11580]]
+- [[NewEquipmentAndSoftwareWillEnh_13224]]
+- [[CorrespondenceBetweenMinckleyA_16449]]

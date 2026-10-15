@@ -23,6 +23,9 @@ The Pyramid Lake Fishway is an infrastructure facility designed to facilitate th
 > - **Population trend**: Adult cui-ui numbers increased from ~150,000 (early 1980s) to ~1.1 million (1993) — roughly a 7-fold increase over roughly a decade. - **Primary driver**: The increase is attributed mainly to a few thousand successful spawning adults during a series of high-runoff years in...
 > -- *[[CuiUiRecoveryTeamMeetingNotice_1993_09_14]]*
 
+> This document is the second revision of the [[Cui-ui]] (*Chasmistes cujus*) Recovery Plan, approved November 22, 1983, providing direction through FY 1986. The [[Cui-ui]] is an endangered sucker endemic to [[Pyramid Lake]] and the [[Truckee River]] system in Nevada. The plan's goal remains...
+> -- *[[CuiuiChasmistesCujusRevision_13303]]*
+
 ## Mentioned In
 - [[CuiUiRecoveryTeamMeetingAgenda_1994_07_29]]
 - [[CuiUiRecoveryTeamMeetingNotice_1993_09_14]]
@@ -30,3 +33,4 @@ The Pyramid Lake Fishway is an infrastructure facility designed to facilitate th
 - [[MarbleBluffFishFacilityStation_1994_02_04]]
 - [[PyramidLakeInflowRequiredForCu_1987_05_15]]
 - [[RecommendationsForMarbleBluffF_1989_11_08]]
+- [[CuiuiChasmistesCujusRevision_13303]]

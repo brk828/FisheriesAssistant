@@ -23,6 +23,9 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > - **Habitat Context:** Both species were laboratory-acclimated in reconstituted water at 12°C following [[Lennon and Walker 1964]] protocols. Channel Catfish were sourced directly from Mississippi River populations (National Fish Hatcheries at Guttenberg, Fairport, and Genoa). - **Comparative Phy...
 > -- *[[EffectsOfAntimycinAOnTissueRes_11530]]*
 
+> The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
+> -- *[[Perch_16750]]*
+
 ## Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -50,3 +53,4 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[TheEffectsOfDamOperationsOnAqu_1991]]
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
 - [[TheSmeltOsmerusMordaxMitchill_13092]]
+- [[Perch_16750]]

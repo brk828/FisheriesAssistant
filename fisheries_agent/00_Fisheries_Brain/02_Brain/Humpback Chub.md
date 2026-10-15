@@ -92,6 +92,21 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
 > -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
 
+> This document is a formal rebuttal by USFWS biologists Owen T. Gorman and Stuart C. Leon (dated May 15, 1992) responding to criticisms by Duncan Patten, Senior Scientific Advisor for the Glen Canyon Environmental Studies (GCES), regarding the justification of study area selection in the [[Little...
+> -- *[[RebuttalToCriticismsByDuncanPa_11089]]*
+
+> This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
+> -- *[[EndangeredAndThreatenedWildlif_11592]]*
+
+> This document is correspondence from the Bureau of Reclamation dated February 4, 1993, announcing a meeting of the Reservoir Work Group scheduled for February 12, 1993, in Phoenix, Arizona. The meeting focuses on selective withdrawal operations at [[Glen Canyon Dam]] to modify downstream water...
+> -- *[[CorrespondenceRegardingMeeting_13520]]*
+
+> This administrative correspondence from Arizona State University's Department of Zoology (dated 30 September 1991) documents planning for a scientific review committee meeting to assess ongoing research on [[Humpback Chub]] (*Gila cypha*) under the [[Glen Canyon Environmental Studies]] (GCES)...
+> -- *[[PreliminaryMeetingInformationF_13798]]*
+
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -458,3 +473,8 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[IndigenousBigriverFishesColora_18295]]
 - [[GcesPlanningDocumentResearchPl_18452]]
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
+- [[RebuttalToCriticismsByDuncanPa_11089]]
+- [[EndangeredAndThreatenedWildlif_11592]]
+- [[CorrespondenceRegardingMeeting_13520]]
+- [[PreliminaryMeetingInformationF_13798]]
+- [[TentativeAgendaForTheUpperColo_15254]]

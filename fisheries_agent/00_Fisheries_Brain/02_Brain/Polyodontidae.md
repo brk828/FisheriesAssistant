@@ -23,6 +23,9 @@ Polyodontidae is a family of primitive freshwater fishes characterized by cartil
 > - **[[Striped Bass]]** (*Morone saxatilis*) — anadromous [[Moronidae]] species, reared through Phase I (early juvenile) stage. - **[[Paddlefish]]** (*Polyodon spathula*) — primitive [[Polyodontidae]] species with cartilaginous skeleton and elongate rostrum, used for restoration and TVA mitigation...
 > -- *[[StationProfileOfNatchitochesNa_1993]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -32,3 +35,4 @@ Polyodontidae is a family of primitive freshwater fishes characterized by cartil
 - [[ListOfTheFishesOfTheTennesseeR_1939_02_08]]
 - [[StationProfileOfMeri_19533]]
 - [[StationProfileOfNatchitochesNa_1993]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

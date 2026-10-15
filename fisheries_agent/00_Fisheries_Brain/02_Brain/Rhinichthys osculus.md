@@ -23,6 +23,9 @@ Rhinichthys osculus, commonly known as the speckled dace, is a small native cypr
 > - **Freshwater systems**: Records span diverse North American drainages — the Kanawha and Potomac River systems (Virginia), the Gila/Colorado River Basin (Arizona), the Sacramento/Pit River system (California), the Santa Clara River Basin (southern California), and Pacific Northwest lakes (Oregon...
 > -- *[[DistributionalRecordsForNorthA_1946_06_15]]*
 
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[AravaipaCreekMonitoringData_1993_07_15]]
 - [[BlueSpringsMiLittleColoradoRiv_1971]]
@@ -42,3 +45,4 @@ Rhinichthys osculus, commonly known as the speckled dace, is a small native cypr
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[TripReportAravaipaCreekEastEnd_1993_10_25]]
+- [[TentativeSummaryOfCollectingAc_13171]]

@@ -23,6 +23,9 @@ The American Eel is a catadromous fish species native to Atlantic coastal waters
 > This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
 > -- *[[Eel_14169]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 - [[ChangingChemicalAndBiologicalC_12793]]
@@ -30,3 +33,4 @@ The American Eel is a catadromous fish species native to Atlantic coastal waters
 - [[DistributionOfTheFishesOfBoone_14736]]
 - [[FishTagsAndTaggingInQuebecWate_1957]]
 - [[Eel_14169]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

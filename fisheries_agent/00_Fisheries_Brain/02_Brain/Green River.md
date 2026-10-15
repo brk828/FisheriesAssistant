@@ -71,6 +71,18 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
 > -- *[[MitochondrialDnaDiversityWithi_19127]]*
 
+> This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
+> -- *[[EndangeredAndThreatenedWildlif_11592]]*
+
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
+> This document presents a proposed infrastructure improvement scheme for an existing canal and pond system. The proposal outlines modifications to water flow control structures, including culverts, gates, and drainage features. The plan involves removal of existing infrastructure components,...
+> -- *[[OurayWildlifeRefugeSemicontrol_16473]]*
+
+> This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
+> -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
+
 ## Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -164,3 +176,7 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[BiologicalAssessmentOfTheImpac_16261]]
 - [[QualitativeCharactersIdentific_19084]]
 - [[MitochondrialDnaDiversityWithi_19127]]
+- [[EndangeredAndThreatenedWildlif_11592]]
+- [[TentativeAgendaForTheUpperColo_15254]]
+- [[OurayWildlifeRefugeSemicontrol_16473]]
+- [[FyAnnualProjectReportEarlyBiol_18213]]

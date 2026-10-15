@@ -14,8 +14,12 @@ Pickerel refers to a guild of game fish species within freshwater ecosystems, pr
 > This 1950s-era bulletin from the [[Massachusetts Division of Fisheries and Game]] addresses the growing problem of aquatic weed infestations in Commonwealth inland waters and evaluates various control methods. The document establishes that the Division does not assume responsibility for weed...
 > -- *[[WeedControlPossibilitiesInMass_14648]]*
 
+> The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
+> -- *[[Perch_16750]]*
+
 ## Mentioned In
 - [[AnElectricalSurfaceDeviceForCa_16181]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[WeedControlPossibilitiesInMass_14648]]
+- [[Perch_16750]]

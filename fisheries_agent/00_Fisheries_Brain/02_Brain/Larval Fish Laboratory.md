@@ -17,6 +17,9 @@ The Larval Fish Laboratory is a specialized research facility, housed at Colorad
 > This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
 > -- *[[EffectsOfElectrofishingFieldsO_15544]]*
 
+> This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
+> -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
+
 ## Mentioned In
 - [[AdditionalStudiesToFacilitateE_1993]]
 - [[AnalysisOfPastCollectionsFromT_1993]]
@@ -25,3 +28,4 @@ The Larval Fish Laboratory is a specialized research facility, housed at Colorad
 - [[EvaluationOfTheEffectsOfElectr_11216]]
 - [[IdentificationOfRazorbackSucke_1995_02_05]]
 - [[EffectsOfElectrofishingFieldsO_15544]]
+- [[FyAnnualProjectReportEarlyBiol_18213]]

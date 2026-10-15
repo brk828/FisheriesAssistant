@@ -14,8 +14,12 @@ Cyprinodon eximius, commonly known as the Cuatro Cienegas pupfish, is a small cy
 > - **Endangered / range-restricted taxa highlighted:** - *[[Gambusia gaigei]]* — Big Bend endemic, endangered, restricted to tributary waters only. - *[[Cyprinodon eximius]]*, *[[Campostoma ornatum]]*, *[[Notropis chihuahua]]* — commonly listed as endangered due to U.S. range restricted to creek-m...
 > -- *[[FishesInhabitingTheRioGrandeTe_1977_07_09]]*
 
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[AClassificationOfTexasAquaticC_15773]]
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[EcologyAndEffectsOfIntestinalG_1967_04_21]]
 - [[FishesInhabitingTheRioGrandeTe_1977_07_09]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]

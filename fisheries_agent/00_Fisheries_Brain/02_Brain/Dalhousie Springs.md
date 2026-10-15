@@ -17,6 +17,10 @@ auto_enriched: true
 > - Mound springs are surface expressions of [[Great Artesian Basin]] groundwater escaping along basement rock fracture zones, forming a broad arc across Queensland, NSW, and South Australia. - [[Dalhousie Springs]] represents the largest and most significant mound spring complex in Australia (~60 ...
 > -- *[[SouthAustraliaSMoundSpringsSom_20663]]*
 
+> This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
+> -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
+
 ## Mentioned In
 - [[LetterToDrWLMinckleyRequesting_1994_07_11]]
 - [[SouthAustraliaSMoundSpringsSom_20663]]
+- [[UsfwsmexicoCooperativeProgramG_16498]]

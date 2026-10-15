@@ -17,9 +17,13 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 > 1. **Recruitment bottleneck**: Failed recruitment of age-0 [[Colorado Squawfish]] to juvenile/adult stages is a primary driver of the species' endangered status in the Upper Colorado River Basin; the **first overwintering period** is identified as a critical early-life-history bottleneck. 2. **Sp...
 > -- *[[WinterMovementAndHabitatOfAdul_1993_12_16]]*
 
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DetermineStatusOfColoradoSquaw_11150]]
 - [[SurvivalOfAgeColoradoSquawfish_1993_05_03]]
 - [[ThoughtsOnTheStatusAndRecovery_1990_05_08]]
 - [[WinterMovementAndHabitatOfAdul_1993_12_16]]
+- [[TentativeAgendaForTheUpperColo_15254]]

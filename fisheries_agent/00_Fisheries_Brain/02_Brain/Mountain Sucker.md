@@ -23,6 +23,9 @@ The Mountain Sucker (*Pantosteus platyrhynchus*) is a native cypriniform fish of
 > | Species | Common Name | Distribution/Habitat Notes | Temp Range at Capture (°F) | |---|---|---|---| | *Salmo trutta* | [[Brown Trout]] | Extreme headwaters only; cool, clear year-round streams | 37–68 | | *Salmo gairdneri* | [[Rainbow Trout]] | Headwaters; slightly more abundant than brown trou...
 > -- *[[TheFishesOfTheVirginRiverATrib_14013]]*
 
+> This biological assessment evaluates potential impacts of removing the [[Roosevelt Diversion Dam]] on the [[Salt River]], Arizona. Electrofishing surveys conducted March 15-16, 1988 documented stark differences in fish assemblages above versus below the dam. Above the dam, 230 fish (23,680 gm total...
+> -- *[[SaltRiverProjectRooseveltDiver_15070]]*
+
 ## Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
@@ -31,3 +34,4 @@ The Mountain Sucker (*Pantosteus platyrhynchus*) is a native cypriniform fish of
 - [[TheFishesOfTheVirginRiverATrib_14013]]
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
+- [[SaltRiverProjectRooseveltDiver_15070]]

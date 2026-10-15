@@ -83,6 +83,12 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
 > -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
 
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
+> This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
+> -- *[[CorrespondenceBetweenMinckleyA_16449]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -170,3 +176,5 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[CommentsOnFinalBiologicalAndCo_14379]]
 - [[SectionConsultationOperationOf_14814]]
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
+- [[TentativeAgendaForTheUpperColo_15254]]
+- [[CorrespondenceBetweenMinckleyA_16449]]

@@ -32,6 +32,9 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 > This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
 > -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
 
+> This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
+> -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[CorrespondenceRegardingDesertF_12709]]
@@ -65,3 +68,4 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 - [[PapagoParkMilitaryReservationB_13351]]
 - [[DraftEvaluationOfPotentialsFor_15827]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
+- [[UsfwsmexicoCooperativeProgramG_16498]]

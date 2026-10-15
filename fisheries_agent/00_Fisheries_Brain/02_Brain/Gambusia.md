@@ -23,6 +23,12 @@ Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the
 > This 1975 study by Alex E. Peden investigates **copulatory behavior** in the poeciliid genus *[[Gambusia]]* as a potential **partial prefertilization isolating mechanism** between species that frequently hybridize in nature. Using artificial female models (plaster-of-Paris bodies filled with shor...
 > -- *[[DifferencesInCopulatoryBehavio_1975]]*
 
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnomalousThermalConditionsInAH_17103]]
@@ -48,3 +54,5 @@ Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the
 - [[SodiumCyanideAsAFishPoison_12935]]
 - [[StatusOfPoeciliopsisOOccidenta_1984_07_25]]
 - [[StudiesOfGambusiaCannibalism_14238]]
+- [[TentativeSummaryOfCollectingAc_13171]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]
