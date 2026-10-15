@@ -1133,6 +1133,8 @@ def cmd_process(args) -> int:
             if not getattr(args, "keep", False):
                 _discard(p, d)
             print(f"   wrote {stem}.md, {upd} concept stubs updated ({new} new, {summarized} summarized)  (citation: {cite.get('citation_source') or 'none'}; {cite.get('authors') or '?'} {cite.get('year') or '?'})")
+            if not smoke_check(stem, title):
+                print(f"   WARNING: searching for '{title[:60]}' did not return {stem}; check the note and rebuild the index.")
         except Exception as e:
             print(f"   FAILED: {e}")
             manifest[d] = _record(p, d, "failed", reason=str(e))
@@ -1143,6 +1145,14 @@ def cmd_process(args) -> int:
         print(f"\nActual usage: {USAGE['in']:,} input + {USAGE['out']:,} output tokens{cost}.")
     print(f"\n{done}/{len(prepared)} notes written to {SOURCES_DIR}. Citations that came from the filename or an LLM read are worth a glance in {EXTERNAL_CITATIONS_PATH.name}.")
     return 0 if done == len(prepared) else 1
+
+
+def smoke_check(stem: str, title: str) -> bool:
+    """True when searching the note's title returns the note; the index rebuilds itself if the vault changed."""
+    try:
+        return stem in brain_index.search_brain(title)
+    except Exception:
+        return False
 
 
 def _record(path: Path, digest: str, status: str, **extra) -> dict:
