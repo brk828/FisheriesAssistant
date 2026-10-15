@@ -17,7 +17,11 @@ I appreciate your request, but I need to clarify that based on the context snipp
 > - **No regulatory change** proposed for Commission Order 42 (Crustaceans and Mollusks) for 1995 — status quo maintained, including the harvest ban on [[Kanab Ambersnail]]. - Arizona has **20 native fish species listed as threatened or endangered**, driving a fundamental shift in sportfish managem...
 > -- *[[ReviewOfCommissionOrderForCrus_1994_07_27]]*
 
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
 ## Mentioned In
 - [[ReportOnLunaLakeApacheCountyAr_19495]]
 - [[RequestForTheCommissionToAppro_1997_07_14]]
 - [[ReviewOfCommissionOrderForCrus_1994_07_27]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]

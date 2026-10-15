@@ -26,6 +26,15 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 > This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
 > -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This 1991 report documents a biochemical genetic analysis of [[Yaqui Catfish]] (*Ictalurus pricei*) held at [[Dexter National Fish Hatchery]] using horizontal starch gel electrophoresis. The study aimed to develop non-lethal tissue sampling methods, characterize genetic relationships between Yaqui...
+> -- *[[BiochemicalAnalysisOfGeneProdu_17930]]*
+
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -49,3 +58,6 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[ZoogeographicalAnalysisAndRevi_15920]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[BiochemicalAnalysisOfGeneProdu_17930]]
+- [[DistributionalAndLocalVernacul_13815]]

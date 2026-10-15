@@ -32,6 +32,36 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
 > -- *[[FederalAidToFishRestorationAnn_19654]]*
 
+> This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
+> -- *[[TechnicalReviewDraftPahranagat_13301]]*
+
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
+> This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
+> -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
+
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This biological assessment evaluates probable effects of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species under the [[Endangered Species Act]]. The Bureau of Reclamation proposes adding 500 MW of generating capacity through construction of a...
+> -- *[[BiologicalAssessmentProbableEf_11481]]*
+
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
+> This biological assessment evaluates potential impacts of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species: [[Bonytail Chub]] (*Gila elegans*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bald Eagle]] (*Haliaeetus leucocephalus*),...
+> -- *[[BiologicalAssessmentOnThreaten_19806]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -86,3 +116,13 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[AnEconomicStudyOfTheProcessing_15621]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[FederalAidToFishRestorationAnn_19654]]
+- [[TechnicalReviewDraftPahranagat_13301]]
+- [[FisheryInvestigationsOnFortGib_14674]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[FisheryInventoryOfTheCoachella_13687]]
+- [[TheRazorbackSuckerXyrauchenTex_15245]]
+- [[InlandCommercialFisheriesWorks_15658]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[BiologicalAssessmentProbableEf_11481]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[BiologicalAssessmentOnThreaten_19806]]

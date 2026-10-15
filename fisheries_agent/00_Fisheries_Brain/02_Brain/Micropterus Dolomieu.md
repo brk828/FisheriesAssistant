@@ -11,7 +11,15 @@ auto_enriched: true
 > - **Native taxa at risk** — Referenced as "[[Meda]]" (likely *[[Meda fulgida]]*, the spikedace, a small elongate [[Cyprinidae|cyprinid minnow]] endemic to the Gila River basin) and a second native form, tentatively *[[Poeciliopsis occidentalis]]*, the Gila topminnow, a small live-bearing poecilii...
 > -- *[[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]*
 
+> This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
+> -- *[[TroutFishingAtCliffPondBrewste_15489]]*
+
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
 ## Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[LetterToWLMinckleyRegardingSpi_1987_03_27]]
 - [[SomeFactorsAffectingTheResista_1964]]
+- [[TroutFishingAtCliffPondBrewste_15489]]
+- [[EndangeredAndThreatenedWildlif_11554]]

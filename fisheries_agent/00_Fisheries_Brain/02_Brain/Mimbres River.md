@@ -17,9 +17,13 @@ The Mimbres River is a river system located in Luna County, New Mexico that hist
 > [[Desert Fishes Recovery Team]] | [[Endangered Species Act]] | [[Razorback Sucker]] | [[Chihuahua Chub]] | [[Gila River]] | [[Mimbres River]] | [[Dexter National Fish Hatchery]] | [[Genetic Heterozygosity in Hatchery Stocks]] | [[Conservation Genetics]]
 > -- *[[LetterToMichaelSpearOnRazorbac_1987_02_25]]*
 
+> This comprehensive study assessed ecological suitability for two imperiled Rio Grande basin fishes—[[Rio Grande Chub]] (*Gila pandora*) and [[Rio Grande Sucker]] (*Pantosteus plebeius*)—using dual modeling approaches across their overlapping ranges in Colorado and New Mexico. Researchers conducted...
+> -- *[[SiteAndLandscapescaleEstimates_2026]]*
+
 ## Mentioned In
 - [[LetterOnRecoveryRecommendation_1986_10_21]]
 - [[LetterRegardingChihuahuaChubRe_1987_12_30]]
 - [[LetterToMichaelSpearOnRazorbac_1987_02_25]]
 - [[LetterToMrMichaelSpearRegardin_1986_10_22]]
 - [[NotropisSimusSimusCopeRioGrand_1990]]
+- [[SiteAndLandscapescaleEstimates_2026]]

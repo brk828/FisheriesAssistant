@@ -26,6 +26,18 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This administrative document provides a directory of U.S. Fish and Wildlife Service field office personnel and their responsibilities for listed and candidate species across Arizona, California, and Nevada. The document assigns lead and support roles for various threatened and endangered species,...
 > -- *[[ListedAndCandidateSpeciesRespo_11941]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This 1991 report documents a biochemical genetic analysis of [[Yaqui Catfish]] (*Ictalurus pricei*) held at [[Dexter National Fish Hatchery]] using horizontal starch gel electrophoresis. The study aimed to develop non-lethal tissue sampling methods, characterize genetic relationships between Yaqui...
+> -- *[[BiochemicalAnalysisOfGeneProdu_17930]]*
+
+> This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
+> -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
+
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -70,3 +82,7 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
 - [[ListedAndCandidateSpeciesRespo_11941]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[BiochemicalAnalysisOfGeneProdu_17930]]
+- [[TheFaunalArchaeologyOfTheTubac_20377]]
+- [[ReportOfTheOctoberFishCount_11417]]

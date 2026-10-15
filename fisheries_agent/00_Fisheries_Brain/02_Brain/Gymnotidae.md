@@ -14,8 +14,16 @@ Gymnotidae is a family of South American freshwater fishes characterized by thei
 > - **Natural habitat**: Native to South American freshwater systems, where ambient pH is described as **slightly acidic**. - **Laboratory conditions**: Fish were maintained at an elevated pH of **7.9–8.0** and temperature of **24.0–25.0°C** for at least two months prior to experimentation — a devi...
 > -- *[[ATechniqueForMeasuringTheActio_12426]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
+> This taxonomic report by [[Carl H. Eigenmann]] and Homer G. Fisher documents the distribution and collection records of the family [[Gymnotidae]] (electric knifefishes) from Trans-Andean Colombia and Ecuador. The study reports on extensive collections made between 1912-1913 in the [[Magdalena...
+> -- *[[TheGymnotidaeOfTransandeanColo_15808]]*
+
 ## Mentioned In
 - [[ATechniqueForMeasuringTheActio_12426]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]
 - [[ElectricEel_1963]]
+- [[DistributionalAndLocalVernacul_13815]]
+- [[TheGymnotidaeOfTransandeanColo_15808]]

@@ -23,6 +23,12 @@ Clupeidae is a large family of ray-finned fishes that includes herrings, sardine
 > - **Life history / migration**: [[American Shad]] are anadromous [[Clupeidae|clupeids]], migrating from marine/estuarine feeding habitats into freshwater rivers (the Connecticut River) to spawn. The study assumes river-specific homing — that Connecticut River shad return to their natal river to s...
 > -- *[[PreliminaryStudiesOfTheShadAlo_15433]]*
 
+> This 1929 taxonomic revision by [[Carl L Hubbs]] establishes the new genus *Sardinops* for the [[California Sardine]] and related Pacific species, distinguishing them from the European sardines (genus *Sardina*). The work resolves long-standing confusion in sardine nomenclature by demonstrating...
+> -- *[[TheGenericRelationshipsAndNome_19993]]*
+
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[AbundanceOfStJohnsRiverShad_1960_03_08]]
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
@@ -38,3 +44,5 @@ Clupeidae is a large family of ray-finned fishes that includes herrings, sardine
 - [[PreliminaryStudiesOfTheShadAlo_15433]]
 - [[SpatialAndTemporalVariationInT_16050]]
 - [[VertebralAnomaliesInHumpbacked_1968_07_19]]
+- [[TheGenericRelationshipsAndNome_19993]]
+- [[DistributionalAndLocalVernacul_13815]]

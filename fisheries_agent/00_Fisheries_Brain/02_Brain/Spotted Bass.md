@@ -26,6 +26,9 @@ Spotted Bass (Micropterus punctulatus) is a centrarchid fish species characteriz
 > This study examined the production efficiency of [[Threadfin Shad]] (*Dorosoma petenense*) in experimental ponds at varying stocking densities (100–1,600 adults per acre) to determine optimal rates for maximum forage production. Total production ranged from 84.5 to 290.0 pounds per acre, with net...
 > -- *[[ProductionOfTheThreadfinShadDo_15096]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[FishDistributionAndAbundanceCo_1942]]
@@ -43,3 +46,4 @@ Spotted Bass (Micropterus punctulatus) is a centrarchid fish species characteriz
 - [[TemperaturesSelectedAndAvoided_1975]]
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[ProductionOfTheThreadfinShadDo_15096]]
+- [[FisheryInvestigationsOnFortGib_14674]]

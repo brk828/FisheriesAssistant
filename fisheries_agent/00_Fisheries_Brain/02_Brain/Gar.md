@@ -17,7 +17,11 @@ Gar are a complex of primitive, elongated predatory fishes in the genus Lepisost
 > - **Species Diversity Captured:** 20+ taxa recorded, including: - Rough/commercial fish: [[Carp]] (*Cyprinus carpio*), [[Buffalo (Fish)|Buffalo]] (Bigmouth *Megastomatobus cyprinella*, Black *Ictiobus niger*, Smallmouth *Ictiobus bubalus*), [[Carpsucker]] (*Carpiodes* spp.), [[Catfish]] (Blue *Ic...
 > -- *[[SelectivityAndEffectivenessOfC_12188]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[CausesOfDeathAmongIndianaFishe_1945]]
 - [[SelectivityAndEffectivenessOfC_12188]]
+- [[FisheryInvestigationsOnFortGib_14674]]

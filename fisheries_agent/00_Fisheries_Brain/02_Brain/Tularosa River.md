@@ -14,7 +14,11 @@ The Tularosa River is a tributary stream system in New Mexico that serves as cri
 > * **Primary Habitat:** Shallow, swift riffles in low-gradient, hydrologically stable streams (e.g., [[Aravaipa Creek]]) as well as larger, higher-gradient mainstem rivers (e.g., [[Gila River]], [[Tularosa River]]). * **Behavioral Adaptation to Current:** The species does not swim continuously in ...
 > -- *[[MicrohabitatUtilizationOfLoach_14998]]*
 
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Tiaroga cobitis]] (loach minnow) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, historically distributed throughout the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11552]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_16787]]
 - [[MicrohabitatUtilizationOfLoach_14998]]
 - [[NoticeOfDayAndMonthFindingsOnA_1994_07_21]]
+- [[EndangeredAndThreatenedWildlif_11552]]

@@ -26,6 +26,12 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 > This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
 > -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
 
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -113,3 +119,5 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 - [[SummaryOfDesertPupfishIntroduc_1988_12_16]]
 - [[TelephoneConversationRecordRou_1994_02_23]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[MinutesDesertFishesRecoveryTea_15843]]

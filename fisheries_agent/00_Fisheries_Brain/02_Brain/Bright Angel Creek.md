@@ -23,6 +23,12 @@ Bright Angel Creek is a significant tributary of the Colorado River within Grand
 > - **Primary Focal Habitat:** [[Little Colorado River]] (both inside and outside Grand Canyon National Park boundaries, the latter requiring Navajo Fish and Wildlife Department permitting). - **Additional Tributaries Surveyed:** [[Paria River]], [[Bright Angel Creek]], [[Shinumo Creek]], [[Tapeats...
 > -- *[[LetterExplainingAcquisitionOfE_1991_09_26]]*
 
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
@@ -33,3 +39,5 @@ Bright Angel Creek is a significant tributary of the Colorado River within Grand
 - [[SummerDistributionAndReproduct_18541]]
 - [[TheChemistryOfTheColoradoRiver_1979]]
 - [[TripReportAgfdNativeFishStudie_11269]]
+- [[RiverResourceMonitoringProject_18503]]
+- [[TheColoradoRiverFishesRecovery_11196]]

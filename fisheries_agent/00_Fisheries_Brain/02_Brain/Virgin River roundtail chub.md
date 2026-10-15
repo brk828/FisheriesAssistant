@@ -23,6 +23,9 @@ The Virgin River Roundtail Chub (*Gila robusta seminuda*) is a federally endange
 > - **Lower Colorado River Basin endemics**: [[Bonytail chub]], [[Colorado squawfish]] (now *Ptychocheilus lucius*, Colorado pikeminnow), and [[Humpback chub]] — large-river specialists adapted to historically turbid, high-flow, canyon-bound reaches of the Colorado River system. Their responsibilit...
 > -- *[[SPECIES RESPONSIBILITIES OF DESERT FISHES RECOVERY TEAM]]*
 
+> This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
+> -- *[[CorrespondenceBetweenMinckleyA_16449]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -33,3 +36,4 @@ The Virgin River Roundtail Chub (*Gila robusta seminuda*) is a federally endange
 - [[SPECIES RESPONSIBILITIES OF DESERT FISHES RECOVERY TEAM]]
 - [[TechnicalReportAnalyzingTheImp_14024]]
 - [[VirginRiverMonitoringNevadaSum_1995_05_31]]
+- [[CorrespondenceBetweenMinckleyA_16449]]

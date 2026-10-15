@@ -17,6 +17,9 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 > This document records the minutes of an interagency meeting held on 12 April 2000 at Arizona State University to develop long-term fisheries management strategies for [[Fossil Creek]], Arizona, in anticipation of the decommissioning of the Arizona Public Service (APS) Childs/Irving Hydroelectric ...
 > -- *[[MinutesOfMeetingOfFisheryBiolo_2000_05_24]]*
 
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
 ## Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[DesertFishesRecoveryTeamAction_11691]]
@@ -25,3 +28,4 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 - [[LetterRegardingRazorbackSucker_1990_05_31]]
 - [[MeetingNotesOnInstreamFlowAlte_17325]]
 - [[MinutesOfMeetingOfFisheryBiolo_2000_05_24]]
+- [[ReportOfTheOctoberFishCount_11417]]

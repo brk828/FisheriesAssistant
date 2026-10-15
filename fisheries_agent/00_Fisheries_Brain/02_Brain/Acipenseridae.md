@@ -23,6 +23,12 @@ Acipenseridae is the family of true sturgeons, ancient anadromous fish character
 > - **[[Atlantic Sturgeon]]**: Anadromous species inhabiting estuarine/coastal river systems along the Atlantic seaboard; sampled incidentally in the [[James River]] (Virginia) via VIMS trawl surveys (1964–1994). Juvenile stages may compete with shortnose sturgeon for food or space. - **[[Shortnose...
 > -- *[[EstimatingTheProbabilityThatHi_1998]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -42,3 +48,5 @@ Acipenseridae is the family of true sturgeons, ancient anadromous fish character
 - [[StationProfileOfNatchitochesNa_1993]]
 - [[Status of Atlantic, Acipenser oxyrhynchus, and Shortnose, A. brevirostrum, Sturgeons in North Carolina (Pisces, Acipense]]
 - [[WhiteSturgeonWithSevenRowsOfSc_17276]]
+- [[DistributionalAndLocalVernacul_13815]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

@@ -11,6 +11,14 @@ auto_enriched: true
 > - **Habitat type**: warm thermal spring pools, spring feeders, small outflow streams, and the mainstem river channel within roughly one mile below the spring inflow. - **Thermal requirements**: strongly associated with water temperatures of 28–32°C; the species is largely restricted to these ther...
 > -- *[[IneOfTheMoapaDaceInvolves_13300]]*
 
+> This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
+> -- *[[TechnicalReviewDraftPahranagat_13301]]*
+
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[GrowthAndSurvivorshipOfMoapaDa_11312]]
 - [[IneOfTheMoapaDaceInvolves_13300]]
+- [[TechnicalReviewDraftPahranagat_13301]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

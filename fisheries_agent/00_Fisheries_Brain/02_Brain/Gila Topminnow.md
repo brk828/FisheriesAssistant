@@ -23,6 +23,33 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > - **Habitat diversity covered**: natural and artificial aquatic habitats across the Southwest, including springs, streams, stock ponds, irrigation ditches, and canal systems (e.g., the Central Arizona Canal system). - **Human impacts**: Part II of the manuscript explicitly addresses how human int...
 > -- *[[AnnualReportFishesOfArizonaCon_1997_09_23]]*
 
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
+> This memorandum documents a May 3, 1990 site visit by biologists from the [[U.S. Fish and Wildlife Service]], [[Arizona Game and Fish Department]], and [[Bureau of Reclamation]] to evaluate four potential fish barrier sites on [[Tule Creek]], [[Yavapai County]], Arizona. The group reached consensus...
+> -- *[[SiteVisitPotentialFishBarrierS_11854]]*
+
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This memorandum documents severe flood damage to the [[Big Spring]] [[Gila Topminnow]] reintroduction site in [[Graham County]], Arizona, following an intense localized storm on August 21, 1990. The flood destroyed critical pool habitat, reduced the observable topminnow population from abundant to...
+> -- *[[ReportOfFloodDamageToBigSpring_18984]]*
+
+> This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
+> -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
+
+> This dissertation proposal by Timothy J. Kim (Arizona State University, 1998) outlines research to investigate Major Histocompatibility Complex (MHC) genetic variation and parasite resistance in two federally-listed endangered fish species: the [[Sacramento Winter-Run Chinook Salmon]] and the...
+> -- *[[MhcVariationAndParasiteResista_12519]]*
+
+> This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
+> -- *[[MolecularVariationAndEvolution_18435]]*
+
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -203,3 +230,12 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
+- [[RecoveryEffortsForBonytailChub_11837]]
+- [[SiteVisitPotentialFishBarrierS_11854]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[ReportOfFloodDamageToBigSpring_18984]]
+- [[ReContinuationOfTheUsArmysSanP_11808]]
+- [[MhcVariationAndParasiteResista_12519]]
+- [[MolecularVariationAndEvolution_18435]]
+- [[ReportOfTheOctoberFishCount_11417]]

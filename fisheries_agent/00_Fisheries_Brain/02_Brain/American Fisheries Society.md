@@ -26,6 +26,9 @@ The American Fisheries Society is a professional scientific organization dedicat
 > This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
 > -- *[[AmericanRiversStacMeetingOfJun_17977]]*
 
+> This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
+> -- *[[CorrespondenceBetweenMinckleyA_16449]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[AmericanFisheriesSocietyProtoc_12011]]
@@ -52,3 +55,4 @@ The American Fisheries Society is a professional scientific organization dedicat
 - [[UsFishAndWildlifeServiceMeetin_15771]]
 - [[WaterPollutionAbatementOurGrea_14153]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
+- [[CorrespondenceBetweenMinckleyA_16449]]

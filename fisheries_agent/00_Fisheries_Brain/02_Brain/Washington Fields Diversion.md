@@ -20,8 +20,12 @@ The Washington Fields Diversion is a water extraction structure on the Virgin Ri
 > 1. **Habitat modeling critique**: The Plan's near-exclusive reliance on Dr. Thom Hardy's depth/velocity flow studies is scientifically insufficient and methodologically unverified within the broader desert fish research community; depth and velocity are not shown to correlate directly with popula...
 > -- *[[CommentsOnTheDraftVirginRiverH_1994_02_27]]*
 
+> This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
+> -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
+
 ## Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
 - [[CommentsOnTheVirginRiverHabita_1995_02_14]]
 - [[ReportOfCollectingActivitiesFo_1992_12_28]]
 - [[ResponseToWashingtonCountyWate_1998]]
+- [[VirginRiverFishRecoveryTeamSpr_20244]]

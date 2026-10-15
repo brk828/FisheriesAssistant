@@ -17,8 +17,16 @@ Belonidae is a family of elongated, predatory fishes commonly known as needlefis
 > - **Freshwater riverine core**: The majority of species (Mapas 1–148) occupy purely freshwater habitats within the Río Bravo/Rio Grande drainage, spanning main channel, tributaries, and spring-fed systems. - **Spring/phreatic endemics**: Numerous narrow-range endemics are restricted to isolated d...
 > -- *[[RioBravoFishDistribution_Unknown]]*
 
+> This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
+> -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
+
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[FishesOfTheWorldAKeyToFamilies_1975]]
 - [[FurtherCommentsOnSuppressionOf_17136]]
 - [[RioBravoFishDistribution_Unknown]]
+- [[TheFaunalArchaeologyOfTheTubac_20377]]
+- [[DistributionalAndLocalVernacul_13815]]

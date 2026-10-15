@@ -26,6 +26,18 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 > A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
 > -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
+> -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
+
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
+> This document is the 1987-1988 annual report for a multi-faceted investigation contracted by the U.S. Fish and Wildlife Service, Arizona Game and Fish Department, and New Mexico Department of Fish and Game to Arizona State University. The study evaluates interactions between the invasive [[Red...
+> -- *[[DraftOfTheAnnualReportForSpike_13757]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -166,3 +178,7 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 - [[UpdateOnNongameFishActivities_1987_08_26]]
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[ReContinuationOfTheUsArmysSanP_11808]]
+- [[ReportOfTheOctoberFishCount_11417]]
+- [[DraftOfTheAnnualReportForSpike_13757]]

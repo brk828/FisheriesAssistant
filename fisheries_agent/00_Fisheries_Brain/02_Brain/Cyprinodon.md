@@ -23,6 +23,9 @@ Cyprinodon is a genus of small, euryhaline cyprinodont fishes (pupfishes) widely
 > *No direct morphological data on fish specimens is present in this excerpt.* The passage is geological/hydrological in nature, focusing on the physical evidence of former water bodies (lake terraces, wave-cut sea cliffs, gravel bars) rather than fish anatomy. Any morphological analysis of desert ...
 > -- *[[FishesOfTheDesert_1940]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[AReDescriptionOfAphaniusGinaon_1980]]
 - [[Allozymic variation in desert pupfish from natural and artificial habitats genetic conservation in fluctuating populatio]]
@@ -57,3 +60,4 @@ Cyprinodon is a genus of small, euryhaline cyprinodont fishes (pupfishes) widely
 - [[RioBravoFishDistribution_Unknown]]
 - [[SomeAspectsOfBiologyOfTheLongf_1971_05_25]]
 - [[SubpermitAuthorizationForColle_1990]]
+- [[DistributionalAndLocalVernacul_13815]]

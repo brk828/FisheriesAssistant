@@ -26,6 +26,15 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 > This comprehensive study analyzed over 500,000 darter eggs from 1954 to 1965 to investigate geographic variation in hybrid survival among etheostomatine fishes (darters). More than 130 hybrid combinations were tested, with both reciprocals reared for 70 combinations. Key findings include: (1)...
 > -- *[[GeographicVariationsInSurvival_14227]]*
 
+> This technical note describes a practical method for mounting fish scales for age and growth studies, developed at the [[Iowa Cooperative Fisheries Research Unit]]. The technique uses two microscope slides bound with waterproof adhesive tape to create permanent, easily stored mounts that preserve...
+> -- *[[ASimpleMethodOfMountingScales_20311]]*
+
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -76,3 +85,6 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 - [[TwoNaturalDarterHybridsInvolvi_1980]]
 - [[VariationsOnRereadingWalleyeSc_17403]]
 - [[GeographicVariationsInSurvival_14227]]
+- [[ASimpleMethodOfMountingScales_20311]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]

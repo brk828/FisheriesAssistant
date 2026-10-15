@@ -29,6 +29,15 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 > The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
 > -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
 
+> This biological assessment evaluates probable effects of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species under the [[Endangered Species Act]]. The Bureau of Reclamation proposes adding 500 MW of generating capacity through construction of a...
+> -- *[[BiologicalAssessmentProbableEf_11481]]*
+
+> This five-year final report (2015–2019) documents the demographics and monitoring of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], part of the [[Lower Colorado River Multi-Species Conservation Program]]. The wild razorback sucker population has functionally disappeared,...
+> -- *[[DemographicsAndMonitoringOfRep_2020]]*
+
+> This three-year study (2008-2011) examined demographics and post-stocking survival of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir. The wild population has declined to fewer than 50 individuals, making the repatriation program...
+> -- *[[DemographicsAndPoststockingSur_2012]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -51,3 +60,6 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
 - [[RequestedMeetingnativeFishWork_15023]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[BiologicalAssessmentProbableEf_11481]]
+- [[DemographicsAndMonitoringOfRep_2020]]
+- [[DemographicsAndPoststockingSur_2012]]

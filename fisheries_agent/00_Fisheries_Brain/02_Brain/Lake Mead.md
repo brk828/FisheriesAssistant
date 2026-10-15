@@ -35,6 +35,60 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
+> -- *[[UseOfHydroelectricDamsToContro_11232]]*
+
+> This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
+> -- *[[RequestForProposalspresubmitta_18342]]*
+
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This document comprises expert commentary from Dr. W.L. Minckley (Arizona State University) on the U.S. Fish & Wildlife Service's Biological Opinion (BO) for Lower Colorado River operations and maintenance. The correspondence, dated July 10, 1997, critiques the BO's approach to recovering...
+> -- *[[CommentsOnFinalBiologicalAndCo_14379]]*
+
+> This document consists of interagency correspondence between the [[Bureau of Reclamation]] Upper Colorado Regional Office and the [[U.S. Fish and Wildlife Service]] initiating formal Section 7 Consultation under the Endangered Species Act of 1973. The consultation addresses potential impacts of...
+> -- *[[SectionConsultationOperationOf_14814]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
+> -- *[[IndigenousBigriverFishesColora_18295]]*
+
+> This document outlines a comprehensive research plan for the [[Glen Canyon Environmental Studies]] (GCES) program, designed to investigate the ecological and economic impacts of [[Glen Canyon Dam]] operations on the [[Colorado River]] ecosystem through [[Grand Canyon]]. The plan addresses multiple...
+> -- *[[GcesPlanningDocumentResearchPl_18452]]*
+
+> This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
+> -- *[[AllocatingFreshWaterToAquaticE_18641]]*
+
+> This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
+> -- *[[MitochondrialDnaDiversityWithi_19127]]*
+
+> This 1982 research proposal, submitted by Linda Ulmer (California Department of Fish and Game) to the U.S. Fish and Wildlife Service, outlines a two-phase electrophoretic study to assess genetic purity of [[Razorback Sucker]] (*Xyrauchen texanus*) breeding stocks. The study addresses concerns that...
+> -- *[[LetterToJimJohnsonWithEncolose_11425]]*
+
+> This biological assessment evaluates probable effects of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species under the [[Endangered Species Act]]. The Bureau of Reclamation proposes adding 500 MW of generating capacity through construction of a...
+> -- *[[BiologicalAssessmentProbableEf_11481]]*
+
+> This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
+> -- *[[EndangeredAndThreatenedWildlif_11592]]*
+
+> This document is correspondence from the Bureau of Reclamation dated February 4, 1993, announcing a meeting of the Reservoir Work Group scheduled for February 12, 1993, in Phoenix, Arizona. The meeting focuses on selective withdrawal operations at [[Glen Canyon Dam]] to modify downstream water...
+> -- *[[CorrespondenceRegardingMeeting_13520]]*
+
+> This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
+> -- *[[CorrespondenceBetweenMinckleyA_16449]]*
+
+> This biological assessment evaluates potential impacts of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species: [[Bonytail Chub]] (*Gila elegans*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bald Eagle]] (*Haliaeetus leucocephalus*),...
+> -- *[[BiologicalAssessmentOnThreaten_19806]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -121,3 +175,21 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[UseOfHydroelectricDamsToContro_11232]]
+- [[RequestForProposalspresubmitta_18342]]
+- [[RiverResourceMonitoringProject_18503]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[CommentsOnFinalBiologicalAndCo_14379]]
+- [[SectionConsultationOperationOf_14814]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[IndigenousBigriverFishesColora_18295]]
+- [[GcesPlanningDocumentResearchPl_18452]]
+- [[AllocatingFreshWaterToAquaticE_18641]]
+- [[MitochondrialDnaDiversityWithi_19127]]
+- [[LetterToJimJohnsonWithEncolose_11425]]
+- [[BiologicalAssessmentProbableEf_11481]]
+- [[EndangeredAndThreatenedWildlif_11592]]
+- [[CorrespondenceRegardingMeeting_13520]]
+- [[CorrespondenceBetweenMinckleyA_16449]]
+- [[BiologicalAssessmentOnThreaten_19806]]

@@ -17,7 +17,11 @@ The Atlantic Ocean in fish science represents a major biogeographic region and c
 > - **Marine species** (shad, cod, haddock, sheepshead, mackerel, flounder): Coastal and oceanic [[Atlantic Ocean]] populations subject to large-scale historical hatchery stocking programs (1887–1897). - **Freshwater systems**: Rivers, lakes, and ponds where [[Restocking]] practices were applied to...
 > -- *[[IsArtificialPropagationOfMarin_1957_03_21]]*
 
+> This 1929 taxonomic revision by [[Carl L Hubbs]] establishes the new genus *Sardinops* for the [[California Sardine]] and related Pacific species, distinguishing them from the European sardines (genus *Sardina*). The work resolves long-standing confusion in sardine nomenclature by demonstrating...
+> -- *[[TheGenericRelationshipsAndNome_19993]]*
+
 ## Mentioned In
 - [[AKeyToTheSnooksGenusCentropomu_17270]]
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
 - [[IsArtificialPropagationOfMarin_1957_03_21]]
+- [[TheGenericRelationshipsAndNome_19993]]

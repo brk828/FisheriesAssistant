@@ -11,6 +11,10 @@ auto_enriched: true
 > - **Listing Dates**: The [[Loach Minnow]] was listed as Threatened in 1985; the [[Spikedace]] was listed as Threatened on July 8, 1986 (51 F.R. 23769). - **Proposed Critical Habitat**: A critical habitat designation package for both species was proposed on June 18, 1985 (50 F.R. 25390) — notably ...
 > -- *[[LegalProceedingsAgainstUsfwsTo_17940]]*
 
+> This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
+> -- *[[APetitionPursuantToArticleOfTh_17637]]*
+
 ## Mentioned In
 - [[LegalProceedingsAgainstUsfwsTo_17940]]
 - [[NoticeOfViolationOfSectionOfTh_1993_10_19]]
+- [[APetitionPursuantToArticleOfTh_17637]]

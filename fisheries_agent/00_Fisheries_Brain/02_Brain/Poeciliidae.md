@@ -26,6 +26,15 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 > The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
 > -- *[[EndangeredSpeciesInformationSy_14003]]*
 
+> This memorandum documents a May 3, 1990 site visit by biologists from the [[U.S. Fish and Wildlife Service]], [[Arizona Game and Fish Department]], and [[Bureau of Reclamation]] to evaluate four potential fish barrier sites on [[Tule Creek]], [[Yavapai County]], Arizona. The group reached consensus...
+> -- *[[SiteVisitPotentialFishBarrierS_11854]]*
+
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
+> This 1967 NSF proposal requests continuation funding ($32,370.56 for one year) for a multidisciplinary systematic study of [[Poecilia]] species in northeastern Mexico, with particular focus on the all-female gynogenetic species [[Poecilia formosa]] (Amazon Molly). The research team led by Rezneat...
+> -- *[[SystematicsOfPoeciliaInNorthea_13950]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -113,3 +122,6 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
 - [[EndangeredSpeciesInformationSy_14003]]
+- [[SiteVisitPotentialFishBarrierS_11854]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]
+- [[SystematicsOfPoeciliaInNorthea_13950]]

@@ -14,8 +14,12 @@ Doe Run is a spring-fed tributary stream of the Ohio River located in Meade Coun
 > - **Habitat:** [[Doe Run]] is described as a large torrent spring rising near Ekron, Meade County, KY, flowing ~3.5 miles into Doe Valley Lake (a 500+ acre impoundment) before continuing to the [[Ohio River]]. - **Population Structure:** The study area supported three complete age classes (0, I, ...
 > -- *[[AgeAndGrowthOfTheWesternBlackn_1968]]*
 
+> This progress report covers the first six months (through January 1, 1961) of NSF Research Grant G13261 investigating the [[Characeae]] (stoneworts), a group of complex aquatic plants. Principal Investigator Arland Hotchkiss from the [[University of Louisville]] Department of Biology reports...
+> -- *[[TheBearingOfCytologicalAndCert_19928]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
 - [[AnIntegratedApplicationOfThree_13353]]
 - [[RoadLogOfTheBiologyOfDoeRunMea_1960]]
 - [[TheFreshwaterStreamAComplexEco_1970_01_01]]
+- [[TheBearingOfCytologicalAndCert_19928]]

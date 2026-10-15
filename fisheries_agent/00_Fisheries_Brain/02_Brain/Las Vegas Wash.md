@@ -23,7 +23,11 @@ The Las Vegas Wash is a nutrient-rich effluent stream that enters Lake Mead thro
 > - **Habitat structure:** Two sampling stations at the [[Las Vegas Wash]]–[[Las Vegas Bay]] junction (Station 1, 7 m depth, adjacent to marina buoy; Station 2, 14 m depth, 1 km east) capture a gradient from riverine influent to lacustrine bay environment. - **Density current dynamics:** Nutrient-r...
 > -- *[[PhytoplanktonSuccessionsAndLak_12610]]*
 
+> This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
+> -- *[[UseOfHydroelectricDamsToContro_11232]]*
+
 ## Mentioned In
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
 - [[PhytoplanktonSuccessionsAndLak_12610]]
 - [[ReviewOfChildsIrvingBiological_1999_02_05]]
+- [[UseOfHydroelectricDamsToContro_11232]]

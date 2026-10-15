@@ -11,5 +11,9 @@ auto_enriched: true
 > - **[[Dorosoma petenense]]** exhibits wide salinity tolerance, inhabiting large rivers, bays, reservoirs, lakes, estuaries, and marine environments (per Miller 1963; Minckley 1973). - Original native range: Belize to the Ohio River (Kentucky, USA), type locality Lake Petén, Guatemala. - Extensive...
 > -- *[[DorosomaPetenenseGüntherNuevoR_13094]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
+- [[DistributionalAndLocalVernacul_13815]]

@@ -23,6 +23,15 @@ Smallmouth buffalo (Ictiobus bubalus) is a large, native North American cyprinid
 > - **[[Speckled Bullhead]]**: Reproduces readily in ponds; small bones limit desirability at small sizes; salable at 0.5–1 lb sizes. - **[[Common Carp]]**: Contains numerous small bones limiting restaurant trade use; must reach >2 lb (preferably 5 lb) for salability; flavor compares favorably to o...
 > -- *[[ExperimentsOnCommercialFishPro_15100]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[ExperimentsOnCommercialFishPro_15100]]
@@ -32,3 +41,6 @@ Smallmouth buffalo (Ictiobus bubalus) is a large, native North American cyprinid
 - [[SodiumCyanideAsAFishPoison_12935]]
 - [[SomeEffectsOfThreadfinShadIntr_15693]]
 - [[ThePropagationOfBuffalo_14839]]
+- [[FisheryInvestigationsOnFortGib_14674]]
+- [[InlandCommercialFisheriesWorks_15658]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

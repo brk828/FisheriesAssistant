@@ -14,6 +14,10 @@ auto_enriched: true
 > - **Habitat type**: Historically dependent on lotic (free-flowing, turbid, warm-water) mainstem river habitats; the [[Lower Colorado River Basin]] has been converted predominantly to lacustrine (reservoir) habitat due to large dam infrastructure, a key distinction raised relative to the Upper Bas...
 > -- *[[CompilationOfCommentsOnBigRive_11763]]*
 
+> This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
+> -- *[[RequestForProposalspresubmitta_18342]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[MemorandumOfClarificationOfThe_1995]]
+- [[RequestForProposalspresubmitta_18342]]

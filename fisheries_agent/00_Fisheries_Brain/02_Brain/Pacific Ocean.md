@@ -17,8 +17,12 @@ The Pacific Ocean, in the context of fish science and conservation biology, repr
 > A brief preceding section (likely from a companion paper on Western [[Pacific Ocean]] marine resources) discusses potential fisheries for mantis shrimp and oysters in Japanese, Chinese, and Malayan waters, and describes large schools of porpoises, tuna, and scombrids in Oriental tropical waters a...
 > -- *[[TheFreshWaterFishFaunaOfCalifo_11392]]*
 
+> This 1929 taxonomic revision by [[Carl L Hubbs]] establishes the new genus *Sardinops* for the [[California Sardine]] and related Pacific species, distinguishing them from the European sardines (genus *Sardina*). The work resolves long-standing confusion in sardine nomenclature by demonstrating...
+> -- *[[TheGenericRelationshipsAndNome_19993]]*
+
 ## Mentioned In
 - [[AKeyToTheSnooksGenusCentropomu_17270]]
 - [[StationProfileOfKooskiaNationa_19543]]
 - [[StationProfileOfTheColemanNati_19568]]
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
+- [[TheGenericRelationshipsAndNome_19993]]

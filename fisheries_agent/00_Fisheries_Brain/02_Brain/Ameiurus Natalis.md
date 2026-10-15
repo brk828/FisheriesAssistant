@@ -23,8 +23,12 @@ Ameiurus natalis, commonly known as the yellow bullhead, is a small catfish spec
 > **Large fishes (N = 151):** - Dominated by native *[[Gila Robusta]]* (51.0%) - Native *[[Catostomus Insignis]]* (17.2%) - Native *[[Pantosteus Clarki]]* (16.6%) - Non-native *[[Ameiurus Natalis]]* (9.3%) - Non-native *[[Ictalurus Punctatus]]* (2.0%) - Non-native *[[Cyprinus Carpio]]* (1.3%) - Non...
 > -- *[[ColoradoSquawfishMonitoringVer_19393]]*
 
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
 ## Mentioned In
 - [[ColoradoSquawfishMonitoringVer_19393]]
 - [[DataForAravaipaCreekFishCount_1995_10_07]]
 - [[DistributionalRecordsForNorthA_1946_06_15]]
 - [[OrmeMaxwellDamLandAndWaterProj_1967_03_31]]
+- [[EndangeredAndThreatenedWildlif_11554]]

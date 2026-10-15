@@ -29,6 +29,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
 > -- *[[EvaluationsAndSuggestionsConce_16480]]*
 
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
 ## Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -86,3 +89,4 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
 - [[ListedAndCandidateSpeciesRespo_11941]]
 - [[EvaluationsAndSuggestionsConce_16480]]
+- [[ReportOfTheOctoberFishCount_11417]]

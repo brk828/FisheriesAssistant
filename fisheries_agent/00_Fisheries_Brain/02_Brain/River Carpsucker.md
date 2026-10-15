@@ -23,6 +23,15 @@ The river carpsucker is a freshwater cyprinid fish species found in North Americ
 > - **Relative abundance by river (Table 1)**: Nearly all groups (gar, forage fish, channel catfish, flathead catfish, sunfish, crappie, bass) were more abundant per unit effort in the **Neosho River** than in the **Marais des Cygnes River**; only rough fish, bullhead, and freshwater drum were more...
 > -- *[[SurveyOfFishPopulationsInStrea_13990]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
@@ -32,3 +41,6 @@ The river carpsucker is a freshwater cyprinid fish species found in North Americ
 - [[SomeObservationsOnLimnologyAnd_1954]]
 - [[SpawningPeriodicityOfTheRiverC_1965]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
+- [[FisheryInvestigationsOnFortGib_14674]]
+- [[InlandCommercialFisheriesWorks_15658]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

@@ -23,6 +23,9 @@ Spencer Creek is a tributary inlet to the Colorado River in the lower reaches of
 > **Habitat associations:** - The [[Humpback Chub]] capture site — a strong eddy near [[Salt Creek]] — was noted as habitat "very similar to that occupied by chub near the [[Little Colorado River]]," suggesting eddy/backwater habitat is a key niche feature for this species in the Lower Grand Canyon...
 > -- *[[EffectsOfInterimFlowsFromGlenC_1993_10_29]]*
 
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
 ## Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[EffectsOfInterimFlowsFromGlenC_13654]]
@@ -32,3 +35,4 @@ Spencer Creek is a tributary inlet to the Colorado River in the lower reaches of
 - [[EffectsOfInterimFlowsFromGlenC_1993_04_17]]
 - [[EffectsOfInterimFlowsFromGlenC_1993_10_29]]
 - [[TheEffectsOfGlenCanyonAndHoove_12550]]
+- [[RiverResourceMonitoringProject_18503]]

@@ -11,6 +11,10 @@ auto_enriched: true
 > - **Predation is the dominant biological threat** to native fish persistence — non-native predators (carp, bass, sunfish, catfish, mosquitofish) consume eggs and juveniles, causing recruitment failure even while long-lived adult natives persist for decades before population collapse. - **Competit...
 > -- *[[TheConservationDilemmaOfNonNat_15856]]*
 
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
 ## Mentioned In
 - [[MemorandumOnAravaipaCreekMonit_1994_06_27]]
 - [[TheConservationDilemmaOfNonNat_15856]]
+- [[ReportOfTheOctoberFishCount_11417]]

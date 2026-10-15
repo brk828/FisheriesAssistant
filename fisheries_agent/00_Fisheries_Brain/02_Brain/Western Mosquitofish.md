@@ -26,6 +26,12 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 > This experimental pond study examined the top-down effects of piscivorous [[Largemouth Bass]] (*Micropterus salmoides*) on nutrients, turbidity, phytoplankton, zooplankton, and fish communities in shallow eutrophic ponds. The fish assemblage included [[Western Mosquitofish]] (*Gambusia affinis*),...
 > -- *[[GapeLimitationPreySizeRefugesA_2006]]*
 
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
@@ -58,3 +64,5 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 - [[VirginRiverMonitoringNevadaSum_1995_05_31]]
 - [[YaquiChubStockingIntoSanBernar_1980_10_31]]
 - [[GapeLimitationPreySizeRefugesA_2006]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]
+- [[TentativeSummaryOfCollectingAc_13171]]

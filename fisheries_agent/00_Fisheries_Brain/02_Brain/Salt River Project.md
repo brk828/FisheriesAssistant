@@ -17,9 +17,17 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 > - **Habitat context**: The study reach is a hydrologically-controlled tailwater below Stewart Mountain Dam, historically subject to reduced/variable winter flows. The [[Verde River]] below Bartlett Dam is cited as a comparative reach for baseline study. - **Coexistence of native and nonnative fau...
 > -- *[[MeetingNotesFromAugustLowerSal_1997_09_22]]*
 
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[MeetingNotesFromAugustLowerSal_1997_09_22]]
 - [[RequestToStockNativeFishesAtAs_1988_08_04]]
 - [[TripReportTaskForceMonitoringR_1990]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]

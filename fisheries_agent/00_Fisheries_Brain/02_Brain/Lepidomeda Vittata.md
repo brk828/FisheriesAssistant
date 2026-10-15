@@ -29,6 +29,9 @@ Lepidomeda vittata, commonly known as the Little Colorado spinedace, is a small-
 > This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
 > -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
 
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
 ## Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
 - [[JanuaryMeetingOfDesertFishesRe_1989_01_10]]
@@ -43,3 +46,4 @@ Lepidomeda vittata, commonly known as the Little Colorado spinedace, is a small-
 - [[SuggestedAgendaItemsForDesertF_1988_12_06]]
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[EndangeredAndThreatenedWildlif_11564]]

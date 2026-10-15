@@ -1,0 +1,54 @@
+---
+species: "Micropterus salmoides, Lepomis macrochirus, Lepomis gulosus, Lepomis microlophus, Lepomis cyanellus, Dorosoma petenense, Gambusia affinis, Ictalurus natalis, Ictalurus punctatus, Pomoxis nigromaculatus"
+common_name: "Largemouth Bass, Bluegill, Warmouth, Redear Sunfish, Green Sunfish, Threadfin Shad, Mosquitofish, Yellow Bullhead, Channel Catfish, Black Crappie"
+family: "Centrarchidae, Clupeidae, Poeciliidae, Ictaluridae"
+habitat: "Shallow lakes, submerged vegetation (Najas marina), cattail zones, mud/gravel/rock bottoms, eutrophic conditions"
+ocean_basin: "N/A"
+location: "Imperial Reservoir, Lower Colorado River, Arizona, USA (32°43'N, 114°27'W)"
+tags: [thesis, reservoir-ecology, spawning, juvenile-fish, growth-rates, habitat-preference, food-habits, warm-water-fishery, Arizona, 1970s]
+title: "Ecology of juvenile fish in Imperial Reservoir"
+source_id: "19643"
+minckley_id: "19643"
+source_citation: "R. O. Weaver (1971). Ecology of juvenile fish in Imperial Reservoir. . Tucson, AZ: University of Arizona. Minckley Library ID: 19643."
+source_file: "19643.pdf"
+text_extraction: "ocr"
+---
+# Ecology of Juvenile Fish in Imperial Reservoir
+
+#ichthyology #marine-biology #Centrarchidae #reservoir-ecology #largemouth-bass #bluegill
+
+## Executive Summary
+
+This Master's thesis (1971) investigated the ecology of juvenile fish (10-100 mm) in [[Imperial Reservoir]], a 2955-hectare impoundment on the [[Lower Colorado River]] north of Yuma, Arizona. The study was motivated by planned channelization that could alter critical spawning and rearing habitats. Using rotenone sampling in five representative lakes over 14 months (September 1969 - October 1970), the research documented species composition, habitat preferences, spawning chronology, food habits, and growth rates. [[Largemouth Bass]] and [[Bluegill]] were the primary focus due to their importance to the sport fishery (0.54 fish per man-hour catch rate in 1969). The study found that juvenile fish strongly preferred habitats with mud, gravel, or rock bottoms combined with dense beds of [[Najas marina]] (spiny naiad) and [[Najas]]-[[Typha]] (cattail) transition zones. Spawning phenology showed temporal separation: bass spawned March-May while bluegill spawned May-August, allowing young-of-the-year bass to prey on bluegill fry and preventing bluegill overpopulation and stunting. Both species exhibited isometric growth with no evidence of stunting, attributed to an 11-month growing season with four months at optimum temperatures (27-30°C).
+
+## Background & Description
+
+[[Imperial Reservoir]] was completed in 1938 by the Bureau of Reclamation for water storage, with initial capacity of 85,000 acre-feet subsequently reduced by siltation. The reservoir supports an excellent warm-water sport fishery experiencing increasing pressure (80,000 visitor-days in 1968, projected to 150,000). Five small "lakes" (outpockets connected to the main river) on the Arizona side served as study areas, ranging from 0.91 to 7.19 hectares with maximum depths of approximately 3 meters (average <1 meter). Lake bottoms consisted primarily of silt and detritus with sand and gravel near shores, with sapropel deposits exceeding 0.6 meters depth in places.
+
+The dominant emergent vegetation was [[Typha latifolia]] (cattail) growing to 4.56 meters tall in dense stands. [[Najas marina]] was widespread and became so dense during spring and summer that navigation was occasionally impaired; it regressed to deeper water in winter. Blue-green algae formed mats on submerged vegetation and lake bottoms throughout most of the year. The climate is arid with annual precipitation of 8.45 cm, maximum air temperatures of 46-49°C, mean annual air temperature of 22.4°C, and annual evaporation of 195 cm.
+
+The study collected 1,124 fish from 101 samples using rotenone (Pro-Noxfish, 2.5% emulsion at 1-2 ppm) applied to approximately 15 square meters per sample. Other methods (electrofishing, gillnets, trapnets, minnow traps) proved ineffective for capturing juvenile fish. Potassium permanganate was used to neutralize rotenone after collections.
+
+## Ecological & Environmental Context
+
+Water temperatures ranged from 7.8°C (January minimum) to 32.2°C (August maximum), closely tracking mean monthly air temperatures. The pH remained stable near 8.0 throughout the study period. The reservoir is holomictic, mixed primarily by wind action, and protected from natural floods by the [[Colorado River]] dam system.
+
+The lakes are eutrophic with abundant invertebrate fauna. Sampling revealed zooplankton (predominantly calanoid copepods) in plankton tows, chironomid larvae in bottom samples, and dragonflies, damselflies, shrimp ([[Palaemonetes paludosus]]), and snails associated with [[Najas]] beds. The vegetation zones where fish were captured showed clear preferences: most juveniles were found in [[Najas]] zones, followed by [[Najas]]-[[Typha]] combination zones (characterized by [[Najas]] separated from shoreline [[Typha]] by 0.3-2.5 meters of water <0.6 meters deep). Submerged mesquite branches along shores also provided shelter, especially for schooling bass.
+
+Parasites were common but showed no apparent effect on fish condition. The trematode [[Posthodiplostomum minimum]] (Neascus larvae) was found in varying numbers as cysts on livers, while nematodes [[Contracaecum brachyurum]] and [[Contracaecum spiculigerum]] were found near the esophagus and in viscera. Incidence rates: 43.3% of bluegill, 31.1% of largemouth bass, and 18.2% of warmouth had trematodes; nematodes were less common except in green sunfish.
+
+## Key Findings
+
+**Species Composition and Distribution**: Total catch of 1,124 fish included: 507 [[Bluegill]] (45%), 299 [[Largemouth Bass]] (27%), 113 [[Warmouth]] (10%), 75 [[Redear Sunfish]] (7%), 49 [[Yellow Bullhead]] (4%), 30 [[Mosquitofish]] (3%), 25 [[Green Sunfish]] (2%), 15 [[Threadfin Shad]] (1%), 10 [[Black Crappie]] (1%), and 1 [[Channel Catfish]]. Lakes 1 (7.19 ha) and 5 (3.32 ha) were most productive with mean frequencies of 14.50 and 16.85 fish per collection, respectively.
+
+**Spawning Chronology**: [[Largemouth Bass]] spawned from March through May at water temperatures around 18.5°C (65°F). Back-calculations from growth data indicated bass collected in late March hatched approximately March 8. [[Bluegill]] spawning occurred from May through August, with adults observed over nests during this period. This temporal separation in spawning is critical: bass fingerlings reached 17-60 mm by June when first bluegill spawn appeared, allowing young-of-the-year bass to prey on bluegill fry. The smallest bass recorded consuming fish was 65 mm (containing a 22-mm bluegill). Spawning occurred in shallow water on mud, gravel, or rock substrates, with bluegill using rocky shores and shallow mud-bottom coves, while bass spawned mainly on rocky shorelines.
+
+**Food Habits**: Analysis of 401 stomachs revealed ontogenetic diet shifts and seasonal variation. [[Largemouth Bass]] consumed primarily zooplankton when small, with shrimp ([[Palaemonetes paludosus]]) important in fall (36.4% occurrence) and zooplankton dominant in winter (61.0%), spring (71.2%), and summer (76.0%). Bass began eating fish when exceeding 65 mm length. [[Bluegill]] preferred chironomid larvae in fall (48.0% occurrence) and zooplankton in winter (91.0%), spring (71.2%), and summer (76.0%). [[Warmouth]] predominantly ate chironomid larvae in fall (40.0%), spring (32.0%), and summer (32.0%), with zooplankton preferred in winter (76.0%). [[Green Sunfish]] consumed mainly zooplankton in fall, snails in winter and spring, and ostracods in summer. Odonata (dragonfly and damselfly naiads) were eaten by many species but never dominant in any season.
+
+**Growth Rates and Length-Weight Relationships**: Both [[Largemouth Bass]] and [[Bluegill]] exhibited isometric growth. For bass: log a = -4.1448, n = 2.9065 (285 fish measured, 10-100 mm range). For bluegill: log a = -4.7415, n = 2.9661 (470 fish measured, 10-100 mm range). These values compare favorably with other regions: bass n-values were similar to Lake George, Minnesota (n = 2.9621) and lower than Florida ponds (n = 3.03-3.19), indicating good growth. The growing season extended approximately 11 months, with water temperatures in the optimal range (27-30°C or 80-86°F) for four months. Water temperatures remained above 15.5°C (60°F) for extended periods, and the minimum of 7.8°C (46°F) in January still permitted some bass feeding activity.
+
+**Habitat Preferences**: Juvenile fish strongly selected specific microhabitats. [[Najas marina]] beds were the most important habitat, harboring the majority of captured fish. The [[Najas]]-[[Typha]] transition zone was second in importance, with fish observed feeding at edges of both vegetation types on either side of the open water strip during spring and summer. During winter, fish followed receding [[Najas]] beds into deeper water. Submerged tree branches (primarily mesquite) provided cover for schooling bass and larger juveniles when other cover was unavailable. Young bass schools were observed with adult guardians in [[Typha]], submerged mesquite branches, and under floating mats of dead [[Typha]]. After parental protection ended, fingerlings moved to protective [[Najas]] and [[Typha]] zones.
+
+**Population Dynamics**: No evidence of stunting was observed in any species. The temporal separation of bass and bluegill spawning creates a predator-prey relationship that prevents bluegill overpopulation—a condition sought by fisheries biologists but rarely achieved in managed impoundments. The regression of [[Najas]] in fall and winter appeared to make forage fish more available to bass, similar to effects observed when dense aquatic vegetation dies suddenly in ponds. Late-spawning bluegill and redear produced fry that became available as prey for bass and other piscivores. The sport fishery catch rate of 0.54 fish per man-hour (1969) indicated excellent fishing quality.
+
+**Management Implications**: The study identified five critical ecological components for maintaining the fishery: (1) shallow spawning areas with mud, gravel, or rock substrates; (2) [[Najas marina]] beds for juvenile rearing; (3) [[Najas]]-[[Typha]] transition zones for feeding; (4) submerged woody structure for cover; (5) temporal separation of bass and bluegill spawning maintained by the 11-month growing season and warm temperatures. Removal or alteration of any of these components by the proposed dredging and channelization would adversely affect the sport fishery. The study concluded that the existing habitat configuration should be preserved or recreated if channelization proceeds.

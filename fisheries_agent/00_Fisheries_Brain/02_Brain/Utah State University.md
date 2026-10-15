@@ -14,6 +14,9 @@ Utah State University, particularly through its Institute for Natural Systems En
 > This document is an administrative permit renewal request submitted by Dr. Thomas B. Hardy (Utah State University, Institute for Natural Systems Engineering) to the U.S. Fish and Wildlife Service (Region 2, Albuquerque). The request seeks renewal of **Endangered Species Subpermit PRT-676811**, au...
 > -- *[[RequestForRenewalOfEndangeredS_1992_11_27]]*
 
+> This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
+> -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
+
 ## Mentioned In
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
 - [[MeetingToDiscussTheSpikeFlow_1993_07_09]]
@@ -21,3 +24,4 @@ Utah State University, particularly through its Institute for Natural Systems En
 - [[SixYearFlamingGorgeFlowRecomme_1991_12_11]]
 - [[VirginRiverMonitoringArizonaSu_1994_05_16]]
 - [[VirginRiverMonitoringArizonaSu_1994_10_05]]
+- [[VirginRiverFishRecoveryTeamSpr_20244]]

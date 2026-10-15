@@ -26,6 +26,18 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 > The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
 > -- *[[EndangeredSpeciesInformationSy_14003]]*
 
+> This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
+> -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
+
+> This document presents information about the [[Devil's Hole Pupfish]] (*Cyprinodon diabolis*), an extremely rare and geographically restricted species endemic to [[Devil's Hole]], Nevada. The document includes a photograph credited to Edwin Phil Pister, documenting this critically endangered desert...
+> -- *[[DevilsHolePupfishCyprinodonDia_18341]]*
+
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReDescriptionOfAphaniusGinaon_1980]]
@@ -82,3 +94,7 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
 - [[WeitereUntersuchungenZumGeschl_11192]]
 - [[EndangeredSpeciesInformationSy_14003]]
+- [[BriefVerbalSynopsisOfFindingsO_13416]]
+- [[DevilsHolePupfishCyprinodonDia_18341]]
+- [[DistributionalAndLocalVernacul_13815]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]

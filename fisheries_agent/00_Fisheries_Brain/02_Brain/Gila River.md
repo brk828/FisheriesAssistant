@@ -29,6 +29,75 @@ The Gila River is a major tributary system in the southwestern United States tha
 > These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
 > -- *[[LectureNotesFromBiologyClass_13784]]*
 
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
+> -- *[[LowerColoradoRiverBasinManagem_18432]]*
+
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Tiaroga cobitis]] (loach minnow) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, historically distributed throughout the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11552]]*
+
+> The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
+> -- *[[EndangeredAndThreatenedWildlif_11554]]*
+
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This memorandum from Ken Wiley to David Mladenoff, dated July 1, 1987, presents a first draft plan for renovating [[Palm Lake]] at the [[Hassayampa River Preserve]] in Arizona. The project aims to remove exotic fish species and introduce endangered native species, specifically [[Gila elegans]]...
+> -- *[[RenovationOfPalmLakeHassayampa_11969]]*
+
+> This dissertation proposal by Timothy J. Kim (Arizona State University, 1998) outlines research to investigate Major Histocompatibility Complex (MHC) genetic variation and parasite resistance in two federally-listed endangered fish species: the [[Sacramento Winter-Run Chinook Salmon]] and the...
+> -- *[[MhcVariationAndParasiteResista_12519]]*
+
+> This master's thesis by Craig Stephen Ivanyi (University of Arizona, 1989) examines selected life history aspects of the [[Desert Sucker]] (*Catostomus clarkii*, also referred to as *Pantosteus clarkii*) in four southeastern Arizona streams. The study focused primarily on [[Sonoita Creek]], with...
+> -- *[[SelectedAspectsOfTheNaturalHis_14397]]*
+
+> This 1987 baseline report documents vegetation and breeding bird communities along a 3 km cattle exclosure established in 1984 on [[Lower Bonita Creek]], [[Graham County]], [[Arizona]]. The study was conducted by [[William C. Hunter]] from [[Arizona State University]] for the [[U.S. Bureau of Land...
+> -- *[[ChangesInRiparianVegetationAnd_14524]]*
+
+> This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
+> -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
+> This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
+> -- *[[MolecularVariationAndEvolution_18435]]*
+
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
+> This 1982 research proposal, submitted by Linda Ulmer (California Department of Fish and Game) to the U.S. Fish and Wildlife Service, outlines a two-phase electrophoretic study to assess genetic purity of [[Razorback Sucker]] (*Xyrauchen texanus*) breeding stocks. The study addresses concerns that...
+> -- *[[LetterToJimJohnsonWithEncolose_11425]]*
+
+> This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
+> -- *[[EndangeredAndThreatenedWildlif_11592]]*
+
+> This document is the 1987-1988 annual report for a multi-faceted investigation contracted by the U.S. Fish and Wildlife Service, Arizona Game and Fish Department, and New Mexico Department of Fish and Game to Arizona State University. The study evaluates interactions between the invasive [[Red...
+> -- *[[DraftOfTheAnnualReportForSpike_13757]]*
+
+> This biological assessment evaluates potential impacts of removing the [[Roosevelt Diversion Dam]] on the [[Salt River]], Arizona. Electrofishing surveys conducted March 15-16, 1988 documented stark differences in fish assemblages above versus below the dam. Above the dam, 230 fish (23,680 gm total...
+> -- *[[SaltRiverProjectRooseveltDiver_15070]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -162,3 +231,26 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[AddendumToTheMarchEnvironmenta_11496]]
 - [[LectureNotesFromBiologyClass_13784]]
+- [[RecoveryEffortsForBonytailChub_11837]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[LowerColoradoRiverBasinManagem_18432]]
+- [[IntraserviceSectionConsultatio_20152]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[EndangeredAndThreatenedWildlif_11552]]
+- [[EndangeredAndThreatenedWildlif_11554]]
+- [[EndangeredAndThreatenedWildlif_11564]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[RenovationOfPalmLakeHassayampa_11969]]
+- [[MhcVariationAndParasiteResista_12519]]
+- [[SelectedAspectsOfTheNaturalHis_14397]]
+- [[ChangesInRiparianVegetationAnd_14524]]
+- [[TheRazorbackSuckerXyrauchenTex_15245]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]
+- [[MolecularVariationAndEvolution_18435]]
+- [[ReportOfTheOctoberFishCount_11417]]
+- [[LetterToJimJohnsonWithEncolose_11425]]
+- [[EndangeredAndThreatenedWildlif_11592]]
+- [[DraftOfTheAnnualReportForSpike_13757]]
+- [[SaltRiverProjectRooseveltDiver_15070]]

@@ -23,6 +23,9 @@ Mugilidae is a family of euryhaline fishes commonly known as mullets, characteri
 > This study investigated the reproductive biology and feeding ecology of the [[Mountain Mullet]] (*Agonostomus monticola*), a freshwater member of the family [[Mugilidae]], in streams of northeastern Trinidad. Based on macroscopic and microscopic examination of 250 fish collected from five rivers,...
 > -- *[[ReproductionAndFeedingOfTheMou_1993]]*
 
+> This study documents the distribution patterns of [[Striped Mullet]] (Mugil cephalus) in the [[Colorado River]] and [[Gulf of California]] during 1967-1968, revealing evidence of upstream migration and questioning traditional understanding of salinity requirements for spawning. Collections from...
+> -- *[[DifferentialDistributionOfTheS_19750]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AlgunasNotasSobreLaBiologiaYLa_17604]]
@@ -36,3 +39,4 @@ Mugilidae is a family of euryhaline fishes commonly known as mullets, characteri
 - [[RioBravoFishDistribution_Unknown]]
 - [[TheFeedingEcologyOfJuvenileMul_17669]]
 - [[TheSheddingOfGillRakerFilament_1975]]
+- [[DifferentialDistributionOfTheS_19750]]

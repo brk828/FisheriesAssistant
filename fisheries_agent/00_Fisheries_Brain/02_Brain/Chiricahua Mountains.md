@@ -17,9 +17,17 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 > - **Historic/Current Range**: The [[Yaqui Chub]] is restricted to the upper Rio Yaqui basin in southern Arizona and northern Sonora, Mexico. It formerly occupied the endorheic [[Sulphur Springs Valley]] of Arizona. - **Reintroduction History**: In 1986, USFWS restocked the chub into at least one ...
 > -- *[[MemorandumOfUnderstandingToEst_1995]]*
 
+> This historical account documents the botanical work of Swiss-born botanist [[Jacob Corwin Blumer]] (1872-1947) in southeastern [[Arizona Territory]] between August 1906 and October 1907. Blumer made the first extensive plant collections in the [[Chiricahua Mountains]], traveling more than 1,600...
+> -- *[[ABotanistInArizonaTerritoryJac_13225]]*
+
+> This 15-month study (1996-97) evaluated the ecological effects of fitted-stone erosion control structures ("gabions") installed across ~15 years on the 6,153-hectare [[El Coronado Ranch]] in the northwestern [[Chiricahua Mountains]], Arizona. The ranch, historically overgrazed, experienced...
+> -- *[[EcosystemRepairByHeadwaterEros_15854]]*
+
 ## Mentioned In
 - [[AshmunellaAngulataEsuritorLent_18478]]
 - [[ChiricahuaRegionalCouncilNewsl_16142]]
 - [[LifeHistoryAndEcologyOfTheSono_1997]]
 - [[MemorandumOfUnderstandingToEst_1995]]
 - [[StatusOfTheBunchGrassLizardSce_17305]]
+- [[ABotanistInArizonaTerritoryJac_13225]]
+- [[EcosystemRepairByHeadwaterEros_15854]]

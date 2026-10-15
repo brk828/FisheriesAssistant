@@ -17,7 +17,15 @@ Cichlasoma is a genus of cichlid fishes that has served as an important model fo
 > - **Dionda**: a speciose cyprinid genus with at least 13 species, including 3 undescribed forms from the Mezquital drainage; 7 species form a **species flock** endemic to the Río Parruco basin — evidence of rapid, basin-confined diversification. - **Cyprinodontidae** in the Yucatan checklist is f...
 > -- *[[ProbableOriginOfSomeDisjunctFi_15303]]*
 
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
+> This letter from W.L. Minckley ([[Arizona State University]]) to Dr. Robert R. Miller ([[University of Michigan]]) dated June 30, 1988, addresses the discovery of [[Tilapia]] introduction into the [[Cuatro Cienegas]] basin in Mexico. Minckley outlines his position on appropriate response protocols,...
+> -- *[[TilapiaInCuatroCienegas_13761]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[FactorsInfluencingLocalDistrib_17059]]
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]
+- [[TilapiaInCuatroCienegas_13761]]

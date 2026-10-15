@@ -23,6 +23,9 @@ The Utah Chub (Gila atraria) is a cyprinid fish species native to the Great Basi
 > - Both [[Kokanee]] and [[Utah Chub]] are **zooplanktivorous pelagic fishes** occupying overlapping trophic niches in [[Flaming Gorge Reservoir]], with prior work (Schneidervin 1985) reporting **95% diet overlap**, and both species preferentially consuming *Daphnia pulex*. - The reservoir exhibits...
 > -- *[[CompetitionBetweenKokaneesAndU_1996]]*
 
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
 ## Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[EndangeredAndThreatenedFishInT_1979]]
@@ -30,3 +33,4 @@ The Utah Chub (Gila atraria) is a cyprinid fish species native to the Great Basi
 - [[ProposedStockingOfNonnativeFis_18716]]
 - [[ResponseToAmericanSocietyOfIch_1987_10_09]]
 - [[SurrogateSpeciesSelectionForPh_1981_05_07]]
+- [[InterimProceduresForStockingNo_15423]]

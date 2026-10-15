@@ -23,6 +23,9 @@ The Sand Shiner is a nonnative cyprinid fish species that has become established
 > - **Species richness:** 38 species plus one hybrid documented; dominant taxa were cyprinids (minnows/shiners). - **Most abundant species:** [[Bluntnose Minnow]] (*Pimephales notatus*) — 27.8% of total catch; primarily a bottom feeder on dipterous larvae, ooze, and plant material; spawns after Jun...
 > -- *[[FishesOfKinkaidCreekIllinois_14812]]*
 
+> This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
+> -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
+
 ## Mentioned In
 - [[AdditionalStudiesToFacilitateE_1993]]
 - [[ChangesInTheFishPopulationInTh_12453]]
@@ -35,3 +38,4 @@ The Sand Shiner is a nonnative cyprinid fish species that has become established
 - [[OccurrenceOfTwoEndangeredFishe_1990_07_19]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[SurvivalOfAgeColoradoSquawfish_1993_05_03]]
+- [[FyAnnualProjectReportEarlyBiol_18213]]

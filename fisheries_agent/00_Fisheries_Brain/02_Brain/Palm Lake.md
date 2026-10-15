@@ -17,7 +17,15 @@ Palm Lake is an artificial impounded reservoir located within the Hassayampa Riv
 > - All four species are native, imperiled freshwater fishes historically associated with the **[[Colorado River Basin]]** and/or Gila River drainage in the arid Southwestern United States. - The management strategy described involves an **ex situ conservation** approach: small founder populations ...
 > -- *[[RequestForPermitToHoldAndDispl_1987_06_29]]*
 
+> This memorandum documents the transfer of 18 [[Bonytail Chub]] (*Gila elegans*) from [[Bubbling Ponds Fish Hatchery]] to [[Arizona State University Research Park]] on July 24, 1992. The fish were originally salvaged from [[Palm Lake]] at the [[Hassayampa River Preserve]] near Wickenburg, Arizona in...
+> -- *[[BonytailChubSalvagedfromPalkLa_12812]]*
+
+> This memorandum from Ken Wiley to David Mladenoff, dated July 1, 1987, presents a first draft plan for renovating [[Palm Lake]] at the [[Hassayampa River Preserve]] in Arizona. The project aims to remove exotic fish species and introduce endangered native species, specifically [[Gila elegans]]...
+> -- *[[RenovationOfPalmLakeHassayampa_11969]]*
+
 ## Mentioned In
 - [[HassayampaLakeRenova_16653]]
 - [[PalmLakeNativeFishRenovationPr_1987_06_29]]
 - [[RequestForPermitToHoldAndDispl_1987_06_29]]
+- [[BonytailChubSalvagedfromPalkLa_12812]]
+- [[RenovationOfPalmLakeHassayampa_11969]]

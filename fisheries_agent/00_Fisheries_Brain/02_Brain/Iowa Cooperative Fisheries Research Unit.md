@@ -11,6 +11,9 @@ The Iowa Cooperative Fisheries Research Unit is a research institution that cond
 > This study, conducted by the [[Iowa Cooperative Fisheries Research Unit]] from 1955–1963, summarizes tagging and recapture data for multiple fish species in the [[Des Moines River]], Boone County, Iowa. The primary goals were to estimate minimum angler harvest rates and characterize movement patt...
 > -- *[[MovementAndAnglerHarvestOfFish_15696]]*
 
+> This technical note describes a practical method for mounting fish scales for age and growth studies, developed at the [[Iowa Cooperative Fisheries Research Unit]]. The technique uses two microscope slides bound with waterproof adhesive tape to create permanent, easily stored mounts that preserve...
+> -- *[[ASimpleMethodOfMountingScales_20311]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfLargemouthBassIn_1964]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -18,3 +21,4 @@ The Iowa Cooperative Fisheries Research Unit is a research institution that cond
 - [[NylonVsLinenGillNetsAtClearLak_1956_12_06]]
 - [[SubimaginalMoltOfCaenisHilaris_18833]]
 - [[TheGrowthOfGreenSunfishLepomis_1955_05_15]]
+- [[ASimpleMethodOfMountingScales_20311]]

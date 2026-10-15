@@ -23,6 +23,9 @@ Cienega Creek is a desert stream system in the BLM Tucson Resource Area of Arizo
 > - **Widespread loss of perennial flow and cienegas**: Multiple 19th-century travelers/surveyors (Bartlett 1852; Bell 1869; Leach 1858; Way 1858) documented perennial or marshy reaches — e.g., the [[Babocomari River]], [[San Pedro River]], [[Santa Cruz River]], [[San Simon Cienega]], [[Cienega Cre...
 > -- *[[DrainageMapOfArizonaShowingPer_13007]]*
 
+> This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
+> -- *[[MolecularVariationAndEvolution_18435]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
@@ -41,3 +44,4 @@ Cienega Creek is a desert stream system in the BLM Tucson Resource Area of Arizo
 - [[RequestToAmendCommissionOrderF_1997_09_30]]
 - [[SonoitaAreaRanchSoldToAnamax_18361]]
 - [[StatusOfRefugialGilaTopminnow_1995_12_27]]
+- [[MolecularVariationAndEvolution_18435]]

@@ -17,6 +17,9 @@ The University of Arizona served as an institutional partner in federally-author
 > - **Taxonomic scope:** Records are split by subspecies — *C. m. macularius* ([[Gila Desert Pupfish]]) and *C. m. eremus* ([[Quitobaquito Pupfish]]) — reflecting distinct management units under the Desert Fishes Recovery Team. - **Timeframe of records:** August 1982 – September 1988. - **Stocking ...
 > -- *[[SummaryOfDesertPupfishIntroduc_1989_02_09]]*
 
+> This document contains three technical proposals submitted by [[BIO/WEST]] to modify Contract No. 0-CS-40-09110 for [[Humpback Chub]] studies in the [[Colorado River]] through [[Grand Canyon]]. The proposals, dated December 8, 1993, request additional funding totaling $270,983.63 to complete: (1) a...
+> -- *[[RevisedTechnicalProposalsToMod_13629]]*
+
 ## Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -25,3 +28,4 @@ The University of Arizona served as an institutional partner in federally-author
 - [[MemorandumOnTapewormEradicatio_1996_10_17]]
 - [[ReminderNoticeOnReportingRequi_1993_07_02]]
 - [[SummaryOfDesertPupfishIntroduc_1989_02_09]]
+- [[RevisedTechnicalProposalsToMod_13629]]

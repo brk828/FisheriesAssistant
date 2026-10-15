@@ -17,6 +17,9 @@ The Moapa Dace (*Moapa coriacea*) is a critically endangered cyprinid fish that 
 > - **21 of 23** federally endangered fish species in the United States (at time of writing) are desert-dwelling species, reflecting the disproportionate vulnerability of these isolated ecosystems. - **Habitat loss via water diversion** has eliminated native fish from portions of nearly every deser...
 > -- *[[OurDisappearingDesertFishes_1980]]*
 
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[GrowthAndSurvivorshipOfMoapaDa_11312]]
@@ -25,3 +28,4 @@ The Moapa Dace (*Moapa coriacea*) is a critically endangered cyprinid fish that 
 - [[ProposalToChangeVirginRiverChu_1994_05_27]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[ReviewOfTheTaxonomicStatusOfRo_1985_12_03]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

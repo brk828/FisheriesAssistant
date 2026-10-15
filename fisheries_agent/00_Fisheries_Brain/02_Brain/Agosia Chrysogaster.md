@@ -23,6 +23,18 @@ Agosia chrysogaster, commonly known as the longfin dace, is a small native cypri
 > 1. **[[Thoburnia rhothoeca]]** range is definitively extended to the Kanawha and Potomac River drainages in Virginia, based on 1885 McDonald collections, resolving prior doubt from Hubbs (1930) and Hubbs and Raney (1944). 2. **[[Agosia chrysogaster]]**, previously confined to the Gila River Basin...
 > -- *[[DistributionalRecordsForNorthA_1946_06_15]]*
 
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
+> -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
+
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgosiaChrysogasterACyprinidFro_17955]]
@@ -45,3 +57,7 @@ Agosia chrysogaster, commonly known as the longfin dace, is a small native cypri
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[WestTurkeyCreekFishS_1997_10_31]]
 - [[WestTurkeyCreekFishS_1999_11_29]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[FeedingDynamicsNitrogenBudgets_17775]]
+- [[TentativeSummaryOfCollectingAc_13171]]

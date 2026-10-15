@@ -23,6 +23,12 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 > - **Invasive Predator:** [[Northern Pike]] — A non-salmonid, non-native piscivore introduced into the [[Green River]] system. - **Target Prey/Species of Concern:** Young-of-year (YOY) [[Colorado Pikeminnow]] (Colorado squawfish), an endangered [[Cyprinidae|cyprinid]] endemic to the Colorado River...
 > -- *[[SixYearFlamingGorgeFlowRecomme_1991_12_11]]*
 
+> This map documents the spatial distribution and abundance of larval [[Razorback Sucker]] (*Xyrauchen texanus*) captures throughout the [[Upper Colorado River Basin]] during the period 1992-1995. The survey covered major river systems including the [[Green River]], [[Colorado River]], [[San Juan...
+> -- *[[CapturesOfLarvalRazorbackSucke_18287]]*
+
+> This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
+> -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
+
 ## Mentioned In
 - [[AnalysisOfPastCollectionsFromT_1993]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -34,3 +40,5 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 - [[RadiotelemetryOfColoradoSquawf_1980]]
 - [[SixYearFlamingGorgeFlowRecomme_1991_12_11]]
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
+- [[CapturesOfLarvalRazorbackSucke_18287]]
+- [[FyAnnualProjectReportEarlyBiol_18213]]

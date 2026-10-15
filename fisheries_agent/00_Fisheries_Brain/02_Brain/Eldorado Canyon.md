@@ -11,7 +11,11 @@ Eldorado Canyon is a geographical location within the Lake Mead reservoir system
 > - **Lake Mead**: A warmwater fishery ecosystem dominated by [[Largemouth Bass]] (80.16% of catch composition at combined boat landings), with [[Channel Catfish]] and [[Black Crappie]] as secondary components. [[Bluegill]] and [[Rainbow Trout]] present in minor proportions. Angling success has bee...
 > -- *[[ArizonaNevadaCooperativeFisher_1962]]*
 
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ArizonaNevadaCooperativeFisher_1961]]
 - [[ArizonaNevadaCooperativeFisher_1962]]
+- [[BiologicalAssessmentOfTheImpac_16261]]

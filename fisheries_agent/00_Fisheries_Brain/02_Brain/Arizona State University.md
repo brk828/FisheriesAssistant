@@ -35,6 +35,45 @@ Arizona State University is a major research institution that has played a signi
 > The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
 > -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
 
+> This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
+> -- *[[DraftEvaluationOfPotentialsFor_15827]]*
+
+> This correspondence from [[Steven P. Platania]] at the [[University of New Mexico]] to Dr. W.L. Minckley at [[Arizona State University]] outlines organizational details for a [[Desert Fishes Council]]-sponsored "Fish Count" monitoring program. The letter, dated July 6, 1988, describes program...
+> -- *[[OctoberFishCount_18607]]*
+
+> This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
+> -- *[[EndangeredSpeciesProgramReview_19696]]*
+
+> This memorandum from Ken Wiley to David Mladenoff, dated July 1, 1987, presents a first draft plan for renovating [[Palm Lake]] at the [[Hassayampa River Preserve]] in Arizona. The project aims to remove exotic fish species and introduce endangered native species, specifically [[Gila elegans]]...
+> -- *[[RenovationOfPalmLakeHassayampa_11969]]*
+
+> This bachelor's thesis by Lydia A. Breunig (Arizona State University, 1995) presents results from a telephone survey of 448 Arizona residents examining public awareness, knowledge, and support for conserving [[Arizona Native Fish]]. The study employed a pre-test/post-test design to assess whether...
+> -- *[[DraftpublicPerceptionsOfAndSup_12930]]*
+
+> This document contains three technical proposals submitted by [[BIO/WEST]] to modify Contract No. 0-CS-40-09110 for [[Humpback Chub]] studies in the [[Colorado River]] through [[Grand Canyon]]. The proposals, dated December 8, 1993, request additional funding totaling $270,983.63 to complete: (1) a...
+> -- *[[RevisedTechnicalProposalsToMod_13629]]*
+
+> This document is a cooperative agreement proposal between [[Arizona State University]] (ASU) and the [[Arizona Game and Fish Department]] for non-game wildlife and fisheries investigations. Proposed by W. L. Minckley, Professor of Zoology at ASU, in collaboration with James E. Brooks, Biologist in...
+> -- *[[NongameWildlifeAndFisheriesInv_13701]]*
+
+> This 1987 baseline report documents vegetation and breeding bird communities along a 3 km cattle exclosure established in 1984 on [[Lower Bonita Creek]], [[Graham County]], [[Arizona]]. The study was conducted by [[William C. Hunter]] from [[Arizona State University]] for the [[U.S. Bureau of Land...
+> -- *[[ChangesInRiparianVegetationAnd_14524]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
+> This document appears to be a fragmentary administrative or correspondence item from Arizona State University. The text is heavily degraded, likely from poor OCR quality or document damage, making substantive content extraction impossible. Only the institutional header identifying "ARIZONA STATE...
+> -- *[[SamplingAtBuenosAriesNwrDecemb_19411]]*
+
+> This letter from W.L. Minckley ([[Arizona State University]]) to Dr. Robert R. Miller ([[University of Michigan]]) dated June 30, 1988, addresses the discovery of [[Tilapia]] introduction into the [[Cuatro Cienegas]] basin in Mexico. Minckley outlines his position on appropriate response protocols,...
+> -- *[[TilapiaInCuatroCienegas_13761]]*
+
+> This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
+> -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -157,3 +196,16 @@ Arizona State University is a major research institution that has played a signi
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[RequestedMeetingnativeFishWork_15023]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[DraftEvaluationOfPotentialsFor_15827]]
+- [[OctoberFishCount_18607]]
+- [[EndangeredSpeciesProgramReview_19696]]
+- [[RenovationOfPalmLakeHassayampa_11969]]
+- [[DraftpublicPerceptionsOfAndSup_12930]]
+- [[RevisedTechnicalProposalsToMod_13629]]
+- [[NongameWildlifeAndFisheriesInv_13701]]
+- [[ChangesInRiparianVegetationAnd_14524]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]
+- [[SamplingAtBuenosAriesNwrDecemb_19411]]
+- [[TilapiaInCuatroCienegas_13761]]
+- [[UsfwsmexicoCooperativeProgramG_16498]]

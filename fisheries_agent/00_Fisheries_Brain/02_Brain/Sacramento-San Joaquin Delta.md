@@ -17,6 +17,9 @@ The Sacramento-San Joaquin Delta is a complex estuarine system in northern Calif
 > - **Collection habitat**: Freshwater to brackish-transition environment of the [[Sacramento-San Joaquin Delta]], sampled mainly at the Tracy Pumping Plant fish-salvage facility and several tributary rivers. - **Host-parasite specificity**: *Posthodiplostomum minimum centrarchi* shows apparent hos...
 > -- *[[SomeEndoparasitesOfFishesFromT_1968]]*
 
+> This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
+> -- *[[DraftliteratureReviewOfTheStri_15768]]*
+
 ## Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[DeterminationOfSexualMaturityI_1965]]
@@ -28,3 +31,4 @@ The Sacramento-San Joaquin Delta is a complex estuarine system in northern Calif
 - [[TheDietOfJuvenileAndAdultStrip_1967]]
 - [[TheGrassCarp_11260]]
 - [[TheMillertonLakeFresnomaderaSt_12103]]
+- [[DraftliteratureReviewOfTheStri_15768]]

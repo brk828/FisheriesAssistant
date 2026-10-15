@@ -26,6 +26,27 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 > A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
 > -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
 
+> This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
+> -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
+
+> This comprehensive study assessed ecological suitability for two imperiled Rio Grande basin fishes—[[Rio Grande Chub]] (*Gila pandora*) and [[Rio Grande Sucker]] (*Pantosteus plebeius*)—using dual modeling approaches across their overlapping ranges in Colorado and New Mexico. Researchers conducted...
+> -- *[[SiteAndLandscapescaleEstimates_2026]]*
+
+> This theoretical review examines the genetic, developmental, and ecological constraints limiting the origins, establishment, and persistence of unisexual vertebrate species. Despite comprising only ~0.1% of named vertebrate species, unisexual forms (approximately 50 recognized "species") provide...
+> -- *[[GeneticAndEcologicalConstraint_13156]]*
+
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
+> This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
+> -- *[[EndangeredAndThreatenedWildlif_11592]]*
+
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AListOfOntarioFishes_11321]]
@@ -205,3 +226,10 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
+- [[TheFaunalArchaeologyOfTheTubac_20377]]
+- [[SiteAndLandscapescaleEstimates_2026]]
+- [[GeneticAndEcologicalConstraint_13156]]
+- [[DistributionalAndLocalVernacul_13815]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]
+- [[EndangeredAndThreatenedWildlif_11592]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

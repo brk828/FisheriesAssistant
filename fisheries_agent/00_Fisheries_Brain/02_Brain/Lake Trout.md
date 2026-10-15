@@ -26,6 +26,9 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 > During the 1964-65 fiscal year, California Department of Fish and Game hatcheries planted a record-breaking **60,129,973 fish** totaling **1,879,769 pounds**, though total weight was 207,290 pounds less than the previous year. The December 1964 flood destroyed [[Cedar Creek Hatchery]] on the [[Eel...
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14865]]*
 
+> This comprehensive life history study of the [[Piute Sculpin]] (*Cottus beldingii*) in [[Lake Tahoe]] examined 6,424 specimens collected from September 1963 through September 1964. The research focused on diet composition, age and growth patterns, reproductive biology, and parasite loads. Sculpins...
+> -- *[[ContributionsToTheLifeHistoryO_15724]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -72,3 +75,4 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 - [[WaterRequirementsOfSalmonids_12413]]
 - [[WhyHaveFishHatcheriesInCanadaS_11783]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
+- [[ContributionsToTheLifeHistoryO_15724]]

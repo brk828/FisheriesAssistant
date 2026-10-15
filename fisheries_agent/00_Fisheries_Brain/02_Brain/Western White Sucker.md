@@ -17,6 +17,10 @@ auto_enriched: true
 > - **Location**: 35-mile stretch of the [[Missouri River]] between [[Holter Dam]] and Cascade, Montana. Upper 15 miles traverse a narrow meadowland valley; middle 8 miles pass through a canyon; remaining downstream section flows through open farmland valley. - **Gradient**: Relatively low, at 3.1 ...
 > -- *[[GrowthRateOfFourSpeciesOfFishB_17891]]*
 
+> This 1953 fisheries management report documents comprehensive investigations of three connected water bodies in Colorado: [[Granby Reservoir]], [[Shadow Mountain Reservoir]], and [[Grand Lake]]. The study employed creel census, rough fish control operations, limnological sampling, food habit...
+> -- *[[ProjectReportGrandLakeShadowMo_16322]]*
+
 ## Mentioned In
 - [[GrowthRateOfFourSpeciesOfFishB_17891]]
 - [[ThePopulationAndMovementOfFish_1952]]
+- [[ProjectReportGrandLakeShadowMo_16322]]

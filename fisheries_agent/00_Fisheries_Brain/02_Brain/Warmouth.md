@@ -23,6 +23,18 @@ Warmouth (Lepomis gulosus) is a small freshwater sunfish species native to easte
 > - **Study purpose:** To evaluate sodium cyanide against three criteria for an ideal fish poison: (1) high toxicity to fish, (2) reasonable dissipation time, and (3) the ability for affected fish to be revived if removed promptly. - **Institutional context:** Conducted at the Cooperative Fishery R...
 > -- *[[SodiumCyanideAsAFishPoison_12935]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
+> This report documents fisheries management activities in reclaimed coal strip-pit lakes across southeastern Kansas (Crawford, Cherokee, and Linn Counties) from approximately 1951 through spring 1956. The [[Kansas Forestry Fish and Game Commission]] conducted reconditioning and restocking programs...
+> -- *[[SummaryOfFishGrowthAndFishingS_14038]]*
+
+> This Master's thesis (1971) investigated the ecology of juvenile fish (10-100 mm) in [[Imperial Reservoir]], a 2955-hectare impoundment on the [[Lower Colorado River]] north of Yuma, Arizona. The study was motivated by planned channelization that could alter critical spawning and rearing habitats....
+> -- *[[EcologyOfJuvenileFishInImperia_19643]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -40,3 +52,7 @@ Warmouth (Lepomis gulosus) is a small freshwater sunfish species native to easte
 - [[TheOccurrenceOfWarmo_1965]]
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[TrophicInterrelationsAmongIntr_1982]]
+- [[FisheryInvestigationsOnFortGib_14674]]
+- [[FisheryInventoryOfTheCoachella_13687]]
+- [[SummaryOfFishGrowthAndFishingS_14038]]
+- [[EcologyOfJuvenileFishInImperia_19643]]

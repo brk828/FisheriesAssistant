@@ -23,9 +23,13 @@ The Coachella Canal is an unlined earthen irrigation channel in southeastern Cal
 > This 1980 cooperative study by Arizona State University and the U.S. Water and Power Resources Service investigated the benthic macroinvertebrate community of the unlined [[Coachella Canal]] in southeastern California, ahead of a planned conversion to a concrete-lined channel. While the study's p...
 > -- *[[InvestigationOfTheUnlinedCoach_17022]]*
 
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
 ## Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AnExaminationOfTheFisheryImpac_15463]]
 - [[AquaticResourceSurveyOfTheUnli_17285]]
 - [[BenthicInvertebratesOfTheEarth_1983]]
 - [[InvestigationOfTheUnlinedCoach_17022]]
+- [[FisheryInventoryOfTheCoachella_13687]]

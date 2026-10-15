@@ -20,6 +20,12 @@ Anguillidae is a family of catadromous freshwater eels that exhibit complex diad
 > - **Primary freshwater families** (Division I): [[Hiodontidae]], [[Umbridae]], [[Esocidae]], [[Dalliidae]], [[Catostomidae]], [[Cyprinidae]], [[Ictaluridae]], [[Percopsidae]], [[Percidae]], [[Centrarchidae]], [[Cobitidae]] - **Divisions III/IV (more salt-tolerant/anadromous lineages)**: [[Petromy...
 > -- *[[FreshwaterFishesOfTheEasternAr_18569]]*
 
+> This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
+> -- *[[Eel_14169]]*
+
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
@@ -27,3 +33,5 @@ Anguillidae is a family of catadromous freshwater eels that exhibit complex diad
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[FirstRecordOfTheElverOfTheAfri_1957_03_16]]
 - [[FreshwaterFishesOfTheEasternAr_18569]]
+- [[Eel_14169]]
+- [[DistributionalAndLocalVernacul_13815]]

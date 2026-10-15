@@ -23,6 +23,9 @@ Chum salmon (Oncorhynchus keta) are an anadromous Pacific salmonid species that 
 > - **[[Fall Chinook Salmon]]** — primary production species; smolt production goal of 3,500,000. - **[[Coho Salmon]]** — distributed as part of restoration stocking. - **[[Chum Salmon]]** — distributed as part of restoration stocking. - **[[Steelhead]]** — anadromous rainbow trout form; production...
 > -- *[[StationProfileOfTheMakahNation_1993_12_13]]*
 
+> This study documents the persistence and decomposition of dead [[Pink Salmon]] (Oncorhynchus gorbuscha) eggs and larvae in [[Sashin Creek]], [[Baranof Island]], [[Alaska]] from October 1961 through March 1963. Researchers tracked the 1961 brood year to determine whether residual dead eggs remained...
+> -- *[[DisappearanceOfDeadPinkSalmonE_12341]]*
+
 ## Mentioned In
 - [[EffectOfActivitySalinityAndTem_1969]]
 - [[FishDistributionNumbersAndWeig_1992]]
@@ -33,3 +36,4 @@ Chum salmon (Oncorhynchus keta) are an anadromous Pacific salmonid species that 
 - [[StationProfileOfTheMakahNation_1993_12_13]]
 - [[StationProfileOfTheQ_1993]]
 - [[UseOfGeneticMarksToAssessStock_11327]]
+- [[DisappearanceOfDeadPinkSalmonE_12341]]

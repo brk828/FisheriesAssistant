@@ -23,6 +23,12 @@ Lee's Ferry is a cold-water tailwater reach of the Colorado River located immedi
 > - **Flow regime and sediment transport**: The rhodamine dye study (Julie Graf, USGS) found that a dye "slug" moved at ~1 mile/hour through the [[Lee's Ferry]] reach, with velocity slightly increased by two fluctuation cycles between Lee's Ferry and Grand Canyon gaging stations. This directly affe...
 > -- *[[GlenCanyonEnvironmentalStudies_1989_12_13]]*
 
+> This document consists of interagency correspondence between the [[Bureau of Reclamation]] Upper Colorado Regional Office and the [[U.S. Fish and Wildlife Service]] initiating formal Section 7 Consultation under the Endangered Species Act of 1973. The consultation addresses potential impacts of...
+> -- *[[SectionConsultationOperationOf_14814]]*
+
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -36,3 +42,5 @@ Lee's Ferry is a cold-water tailwater reach of the Colorado River located immedi
 - [[LimnologicalStudyOfGlenCanyonT_1965_06_30]]
 - [[ReportOnFishesOfTheColoradoRiv_1975]]
 - [[StudiesOnTheRazorbackSuckerXyr_1974_06_18]]
+- [[SectionConsultationOperationOf_14814]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

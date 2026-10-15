@@ -29,6 +29,15 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
 > -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
+> This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
+> -- *[[MitochondrialDnaDiversityWithi_19127]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -155,3 +164,6 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[VerdeRiverFishResearchSpring_1997_05_20]]
 - [[LectureNotesFromBiologyClass_13784]]
 - [[ZoogeographicalAnalysisAndRevi_15920]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]
+- [[MitochondrialDnaDiversityWithi_19127]]

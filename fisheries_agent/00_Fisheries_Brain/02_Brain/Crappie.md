@@ -26,6 +26,15 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 > This 1957 study by [[Howard P. Clemens]] and [[Kermit E. Sneed]] documents the spawning behavior of [[Channel Catfish]] (*Ictalurus punctatus*) induced to spawn in glass aquaria via fish pituitary injections. The research was conducted under the [[Saltonstall-Kennedy Act]] at the [[U.S. Fish...
 > -- *[[TheSpawningBehaviorOfTheChanne_15949]]*
 
+> Two Oklahoma State University zoology professors, Dr. Troy C. Dorris and Dr. Robert C. Summerfelt, conducted a three-week study of fish populations in [[Lake Atitlan]], [[Guatemala]], in 1967 to address perceived fish shortages affecting the community of [[Santiago Atitlan]] (population 14,000)....
+> -- *[[FishPlentifulInGuatemalaLake_19070]]*
+
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
+> The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
+> -- *[[Perch_16750]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -48,3 +57,6 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[ToxicFreshWaterAlgae_14366]]
 - [[TheSpawningBehaviorOfTheChanne_15949]]
+- [[FishPlentifulInGuatemalaLake_19070]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[Perch_16750]]

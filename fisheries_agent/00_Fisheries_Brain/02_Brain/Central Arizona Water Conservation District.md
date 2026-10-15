@@ -14,6 +14,10 @@ auto_enriched: true
 > - Four native Arizona fish species — [[Gila Topminnow]], [[Loach Minnow]], [[Spikedace]], and [[Razorback Sucker]] — are at the center of an ESA-driven regulatory dispute tied to CAP canal operations. - FWS biologists assert the CAP Canal creates a novel invasion pathway allowing non-native, aggr...
 > -- *[[TinyNativeFishMakeBigSplash_1995_06_06]]*
 
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[TinyNativeFishMakeBigSplash_1995_06_06]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]

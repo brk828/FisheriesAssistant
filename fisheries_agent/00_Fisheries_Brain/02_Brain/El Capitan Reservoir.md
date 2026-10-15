@@ -11,5 +11,9 @@ auto_enriched: true
 > - **Habitat:** [[El Capitan Reservoir]] is described as a eutrophic, warmwater reservoir used for municipal water storage by the City of San Diego, located seven miles east of Lakeside at 553 feet elevation. - **Thermal/oxygen regime:** An oxygen deficit typically develops in the hypolimnion from...
 > -- *[[TheIntroductionGrowthDietAndDe_15290]]*
 
+> This 1966 administrative report by the California Department of Fish and Game examines artificial destratification of lakes using compressed air as a fisheries management technique. The study focuses on two California reservoirs: [[Lake Wohlford]] (Escondido) and [[El Capitan Reservoir]] (San Diego...
+> -- *[[ArtificialDestratificationOfLa_16316]]*
+
 ## Mentioned In
 - [[TheIntroductionGrowthDietAndDe_15290]]
+- [[ArtificialDestratificationOfLa_16316]]

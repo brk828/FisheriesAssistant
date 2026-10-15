@@ -26,6 +26,15 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 > A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
 > -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
 
+> This technical note describes a practical method for mounting fish scales for age and growth studies, developed at the [[Iowa Cooperative Fisheries Research Unit]]. The technique uses two microscope slides bound with waterproof adhesive tape to create permanent, easily stored mounts that preserve...
+> -- *[[ASimpleMethodOfMountingScales_20311]]*
+
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AGrowthStudyAndBloodProteinAna_15288]]
@@ -107,3 +116,6 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 - [[WaterQualityCriteriaToProtectA_14646]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
+- [[ASimpleMethodOfMountingScales_20311]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]

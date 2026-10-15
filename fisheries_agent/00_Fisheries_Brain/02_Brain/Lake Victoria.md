@@ -23,6 +23,9 @@ Lake Victoria is a major African freshwater lake and globally significant center
 > The cichlid species flock of [[Lake Victoria]] represents one of the most dramatic vertebrate extinction events on record. More than 150 endemic haplochromine species have not been observed since the mid-1980s, primarily attributed to the population explosion of the introduced predatory [[Nile Pe...
 > -- *[[CichlidSpeciesRescueEffortsInS_11326]]*
 
+> This administrative report presents a comprehensive bibliography of 213 selected references on [[Tilapia mossambica]] (Mozambique Tilapia), compiled by the California Department of Fish and Game, Region 5, Inland Fisheries in January 1967. The bibliography encompasses all significant papers known...
+> -- *[[BibliographyOfPublicationsConc_14697]]*
+
 ## Mentioned In
 - [[AquaticConservationNetworkCorr_1993_03_10]]
 - [[CichlidSpeciesRescueEffortsInS_11326]]
@@ -30,3 +33,4 @@ Lake Victoria is a major African freshwater lake and globally significant center
 - [[DesertFishesCouncilLetterSuppo_1986_02_21]]
 - [[GeneticDivergenceSpeciationAnd_1992_07_01]]
 - [[WhyAreThereSoManyCichlidSpecie_16893]]
+- [[BibliographyOfPublicationsConc_14697]]

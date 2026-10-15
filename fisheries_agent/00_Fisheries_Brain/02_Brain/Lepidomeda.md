@@ -17,6 +17,9 @@ Lepidomeda is a genus of small cyprinid fishes endemic to the southwestern Unite
 > - **[[Gila Robusta]] (roundtail chub)** — three recognized subspecies (*grahami*, *seminuda*, and nominal *robusta*) differentiated by drainage: Verde/Salt/Gila tributaries, Colorado River mainstem, and mixed populations, respectively. - **[[Catostomus]] sucker complex** — multiple undescribed *C...
 > -- *[[WildlifeStatusInArizonaFishes_18591]]*
 
+> This 1980 report by W. L. Minckley examines morphological variation in suckers of the genus [[Catostomus]] from the middle [[Colorado River]] region, including [[Grand Canyon]], [[Glen Canyon]], [[Virgin River]], and [[Little Colorado River]] basins. The study reveals that populations previously...
+> -- *[[MorphologicalVariationInCatost_13689]]*
+
 ## Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[EndanderedAndThreatenedWildlif_16520]]
@@ -25,3 +28,4 @@ Lepidomeda is a genus of small cyprinid fishes endemic to the southwestern Unite
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[VirginSpinedaceProposedAsThrea_1994_05_28]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[MorphologicalVariationInCatost_13689]]

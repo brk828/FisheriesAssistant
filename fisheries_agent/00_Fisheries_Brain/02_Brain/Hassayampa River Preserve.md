@@ -23,6 +23,12 @@ The Hassayampa River Preserve is a riparian conservation area in Arizona's Sonor
 > No morphological, anatomical, or taxonomic data are provided in this source. The letter does not specify the identity of the "endangered species" intended for display, nor does it describe body form, coloration, size class, or other physical characteristics. This absence is notable and should be ...
 > -- *[[LetterRegardingNativeFishDispl_1987_07_31]]*
 
+> This memorandum documents the transfer of 18 [[Bonytail Chub]] (*Gila elegans*) from [[Bubbling Ponds Fish Hatchery]] to [[Arizona State University Research Park]] on July 24, 1992. The fish were originally salvaged from [[Palm Lake]] at the [[Hassayampa River Preserve]] near Wickenburg, Arizona in...
+> -- *[[BonytailChubSalvagedfromPalkLa_12812]]*
+
+> This memorandum from Ken Wiley to David Mladenoff, dated July 1, 1987, presents a first draft plan for renovating [[Palm Lake]] at the [[Hassayampa River Preserve]] in Arizona. The project aims to remove exotic fish species and introduce endangered native species, specifically [[Gila elegans]]...
+> -- *[[RenovationOfPalmLakeHassayampa_11969]]*
+
 ## Mentioned In
 - [[BonytailFromHassayampaRiverPre_20126]]
 - [[DocumentsRelatingToSubpermitRe_13803]]
@@ -32,3 +38,5 @@ The Hassayampa River Preserve is a riparian conservation area in Arizona's Sonor
 - [[RemovalOfAdditionalBonytailChu_1994_04_04]]
 - [[RequestForPermitToHoldAndDispl_1987_06_29]]
 - [[TripReportForTheJulySurveyOfTh_1994_09_01]]
+- [[BonytailChubSalvagedfromPalkLa_12812]]
+- [[RenovationOfPalmLakeHassayampa_11969]]

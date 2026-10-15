@@ -23,6 +23,9 @@ The Fish and Wildlife Coordination Act is a federal statute that requires federa
 > This 1989 letter from the U.S. Fish and Wildlife Service (Phoenix Ecological Services office) to the Apache-Sitgreaves National Forests raises a comprehensive set of pre-consultation questions regarding a proposed reservoir on Pigeon Creek, a tributary of the [[Blue River]] in Arizona. The docume...
 > -- *[[FollowUpQuestionsOnPigeonCreek_1989_12_13]]*
 
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[AssessmentOfEffectsOfAlteredSt_1975_05_09]]
@@ -39,3 +42,4 @@ The Fish and Wildlife Coordination Act is a federal statute that requires federa
 - [[StationProfileOfDale_1994]]
 - [[StationProfileOfGree_1994]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]

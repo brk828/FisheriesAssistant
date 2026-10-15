@@ -23,6 +23,9 @@ The Mississippi River represents a major North American fluvial system of critic
 > This work by W. L. Minckley is a **zoogeographic survey** of freshwater fish faunas across the Eastern Arctic region, spanning Siberia east of the Lena-Aldan River, Canada, and Alaska. Rather than focusing on individual species morphology, the paper synthesizes drainage-system biogeography, docum...
 > -- *[[FreshwaterFishesOfTheEasternAr_18569]]*
 
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerInPoolOfTh_16034]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -41,3 +44,4 @@ The Mississippi River represents a major North American fluvial system of critic
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
 - [[VerticalDistributionAndBurrowi_1976]]
 - [[YoungFishDistributionInBackwat_1989]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]

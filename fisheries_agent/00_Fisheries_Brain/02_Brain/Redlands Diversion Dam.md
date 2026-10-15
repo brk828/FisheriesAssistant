@@ -14,8 +14,12 @@ The Redlands Diversion Dam is a water infrastructure structure on the Colorado R
 > - **Historical context**: All four species were once widespread across the lower and upper basins of the [[Colorado River]], including the Gila and Salt River drainages, prior to dam construction and diversions. - **Primary driver of decline (Assumption 1)**: Disruption of natural hydrological re...
 > -- *[[ThoughtsOnTheStatusAndRecovery_1990_05_08]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
 ## Mentioned In
 - [[FourthEndangeredColoradoSquawf_1997_07_23]]
 - [[InterestGroupParticipationInTh_1994_08_05]]
 - [[MeetingRecordUcrbRoadMapRevisi_13515]]
 - [[ThoughtsOnTheStatusAndRecovery_1990_05_08]]
+- [[TheColoradoRiverFishesRecovery_11196]]

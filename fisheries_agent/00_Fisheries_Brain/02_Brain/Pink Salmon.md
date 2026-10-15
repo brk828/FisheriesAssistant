@@ -23,6 +23,12 @@ Pink salmon (Oncorhynchus gorbuscha) are a Pacific salmon species characterized 
 > - The eastern Canadian freshwater fish fauna, especially in the **Great Lakes and St. Lawrence River region**, is undergoing rapid decline driven by pollution, dam construction, and watershed diversion — sufficient to require major revisions to species accounts between the 1955 and 1967 editions....
 > -- *[[ReviewOfFreshwaterFishesOfEast_11318]]*
 
+> This study documents the persistence and decomposition of dead [[Pink Salmon]] (Oncorhynchus gorbuscha) eggs and larvae in [[Sashin Creek]], [[Baranof Island]], [[Alaska]] from October 1961 through March 1963. Researchers tracked the 1961 brood year to determine whether residual dead eggs remained...
+> -- *[[DisappearanceOfDeadPinkSalmonE_12341]]*
+
+> This study examined the 1963 brood year of [[Pink Salmon]] (Oncorhynchus gorbuscha) in [[Sashin Creek]], [[Southeastern Alaska]], focusing on spawner distribution, density, and progeny survival from egg deposition through fry emergence. The escapement totaled 16,757 fish (8,740 females), with...
+> -- *[[DistributionOfSpawningPinkSalm_12342]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[NotesOnTheLeapingOfThePacificS_14869]]
@@ -31,3 +37,5 @@ Pink salmon (Oncorhynchus gorbuscha) are a Pacific salmon species characterized 
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
 - [[SalmonidGeneticsBreedingGuidel_1983]]
 - [[UseOfGeneticMarksToAssessStock_11327]]
+- [[DisappearanceOfDeadPinkSalmonE_12341]]
+- [[DistributionOfSpawningPinkSalm_12342]]

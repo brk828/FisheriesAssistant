@@ -14,6 +14,10 @@ auto_enriched: true
 > - **Dominant species**: [[Mesquite]] (*Prosopis velutina*) overwhelmingly dominated both plots, averaging **452 individuals/ha** across the combined plots, with average canopy height of **3.3 m**. - **Structural diversity contributor**: Large, isolated [[Fremont Cottonwood]] (*Populus fremontii*)...
 > -- *[[ADescriptiveAnalysisOfWoodyRip_12995]]*
 
+> This 1987 baseline report documents vegetation and breeding bird communities along a 3 km cattle exclosure established in 1984 on [[Lower Bonita Creek]], [[Graham County]], [[Arizona]]. The study was conducted by [[William C. Hunter]] from [[Arizona State University]] for the [[U.S. Bureau of Land...
+> -- *[[ChangesInRiparianVegetationAnd_14524]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[CommentsOnTheUSFishAndWildlife_1997_07_08]]
+- [[ChangesInRiparianVegetationAnd_14524]]

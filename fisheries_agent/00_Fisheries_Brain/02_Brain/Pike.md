@@ -17,6 +17,9 @@ Pike are large predatory freshwater fish that serve as apex or near-apex predato
 > - **Measurement technique**: Maximum ("natural") girth measured by encircling the fish with string without constricting flesh, then measuring against a ruler — following the method of [[Margetts 1954]]. - This technique may slightly **underestimate** true minimum sizes, since fish that squeeze th...
 > -- *[[SomeEstimatesOfTheoreticalMini_1963]]*
 
+> The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
+> -- *[[Perch_16750]]*
+
 ## Mentioned In
 - [[BiologicalMeansOfIncreasingPro_1968]]
 - [[CausesOfDeathAmongIndianaFishe_1945]]
@@ -24,3 +27,4 @@ Pike are large predatory freshwater fish that serve as apex or near-apex predato
 - [[IrishSalmonDiseaseAnInterimRep_13819]]
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
 - [[SomeEstimatesOfTheoreticalMini_1963]]
+- [[Perch_16750]]

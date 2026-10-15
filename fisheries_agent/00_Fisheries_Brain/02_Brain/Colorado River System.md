@@ -14,9 +14,17 @@ The Colorado River System, in the context of fisheries and aquatic ecology, refe
 > This document is not a primary scientific research paper but a piece of **administrative correspondence** dated early 1994, sent from the Colorado River Board of California (on behalf of the Lower Division states: California, Nevada, Arizona) to the U.S. Department of the Interior. The letter add...
 > -- *[[CriticalHabitatDesignationForC_11237]]*
 
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[CriticalHabitatDesignationForC_11237]]
 - [[PopulationDifferentiationAndIn_1987]]
 - [[RequestNotificationOfFishStock_1989_01_13]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[EffectsOfElectrofishingFieldsO_15548]]

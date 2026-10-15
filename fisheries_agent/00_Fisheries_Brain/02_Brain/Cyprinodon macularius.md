@@ -26,6 +26,9 @@ Cyprinodon macularius, commonly known as the desert pupfish, is a small-bodied c
 > This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
 > -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
 
+> This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
+> -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
@@ -63,3 +66,4 @@ Cyprinodon macularius, commonly known as the desert pupfish, is a small-bodied c
 - [[SummaryOfDesertPupfishIntroduc_1988_12_16]]
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[BriefVerbalSynopsisOfFindingsO_13416]]

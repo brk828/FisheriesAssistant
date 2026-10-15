@@ -26,6 +26,15 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
 > -- *[[AlternativeApproachesToHcpsFor_16735]]*
 
+> This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
+> -- *[[DraftEvaluationOfPotentialsFor_15827]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This 1994 status assessment documents the dramatic decline of native fish fauna in the [[Middle Rio Grande]] between Espanola and [[Elephant Butte Reservoir]], New Mexico. Of 45 fish species known historically, only 17 (38%) are native, with 6 (11%) endemic to the system. Seven native species have...
+> -- *[[FishFaunaOfTheMiddleRioGrandeS_15005]]*
+
 ## Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -55,3 +64,6 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[StatusOfGeneticAnalysisOfSpine_1993_03_02]]
 - [[StatusReportGilaRiverWatershed_17809]]
 - [[AlternativeApproachesToHcpsFor_16735]]
+- [[DraftEvaluationOfPotentialsFor_15827]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[FishFaunaOfTheMiddleRioGrandeS_15005]]

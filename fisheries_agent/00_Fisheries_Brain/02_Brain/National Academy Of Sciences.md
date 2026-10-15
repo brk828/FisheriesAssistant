@@ -20,8 +20,12 @@ The National Academy of Sciences is a prestigious, congressionally chartered ins
 > - **Waste classification** (high/intermediate/low-level) is based on radioactivity level, which governs handling and disposal method — this is explicitly an arbitrary but functionally necessary classification system. - **High-level wastes** (fission products from fuel reprocessing) remain unsolve...
 > -- *[[DisposalOfRadioactiveMaterials_16140]]*
 
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[DisposalOfRadioactiveMaterials_16140]]
 - [[GlenCanyonEnvironmentalStudies_1992_03_08]]
 - [[TheEffectsOfAtomicRadiationOnO_1957]]
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

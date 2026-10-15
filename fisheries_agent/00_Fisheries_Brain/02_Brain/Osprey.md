@@ -17,8 +17,12 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 > - CRiTS functioned as a quarterly interagency coordination forum (NPS, USGS, AGF, BR, NAU, BioWest) for Colorado River aquatic food-base research circa 1991. - Six major research components were being coordinated: (1) USGS synoptic studies, (2) AGF tailwater/downstream fishery studies, (3) NPS-NA...
 > -- *[[ColoradoRiverTrophicStudiesMee_1991_07_23]]*
 
+> This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
+> -- *[[DistributionAndPoststockingSur_2016]]*
+
 ## Mentioned In
 - [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
 - [[ColoradoRiverTrophicStudiesMee_1991_07_23]]
 - [[LifeHistoryAndEcologyOfTheHump_1994_02_15]]
 - [[UpperVerdeRiverAquaticStudy_15611]]
+- [[DistributionAndPoststockingSur_2016]]

@@ -23,8 +23,16 @@ Cienega de Santa Clara is a wetland preserve located in the Colorado River Delta
 > No morphological data are provided in this document. The letter is purely administrative in nature and does not describe any fish species, anatomical features, or physical characteristics of organisms inhabiting the [[Cienega de Santa Clara]].
 > -- *[[CoordinatedResourceActivitiesC_1997_04_16]]*
 
+> This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
+> -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
+
+> This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
+> -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
+
 ## Mentioned In
 - [[CoordinatedResourceActivitiesC_1997_04_16]]
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 - [[USDryingUpMexicanWetlands_1996_04_30]]
+- [[AgendaAttendeesAndSummariesOfP_14401]]
+- [[SummaryOfJulyMeetingOnCentralA_20608]]

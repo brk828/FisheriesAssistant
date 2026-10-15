@@ -17,8 +17,12 @@ auto_enriched: true
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
+> -- *[[CorrespondenceBetweenMinckleyA_16449]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[StatementByThePresidentOnEndan_18327]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[CorrespondenceBetweenMinckleyA_16449]]

@@ -23,6 +23,9 @@ Campostoma Ornatum is a cyprinid fish species endemic to the southwestern United
 > - **[[Ictalurus pricei]]** (Yaqui catfish) – native Ictaluridae, recorded in very low numbers. - **[[Cichlasoma beani]]** – native cichlid, recorded in very low numbers. - **[[Poeciliopsis occidentalis]]** – native poeciliid, recorded in very low numbers. - **[[Dorosoma smithi]]** – native gizzar...
 > -- *[[EcologicalObservationsOfNative_1988]]*
 
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -34,3 +37,4 @@ Campostoma Ornatum is a cyprinid fish species endemic to the southwestern United
 - [[LetterRegardingPlansToObtainLi_1986_12_10]]
 - [[LetterToDrWLMinckleyRegardingD_1990_11_05]]
 - [[RuckerCanyonFisheriesSurvey_1997_07_30]]
+- [[TentativeSummaryOfCollectingAc_13171]]

@@ -8,5 +8,9 @@ auto_enriched: true
 > This paper (Kubly & Cole, 1979) is **not a fish-specific study** but a foundational hydrochemical survey of the [[Colorado River]] mainstem and its tributary springs and creeks through [[Marble Canyon]] and [[Grand Canyon]], conducted across six raft-supported field trips in 1975–1976. The author...
 > -- *[[TheChemistryOfTheColoradoRiver_1979]]*
 
+> This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
+> -- *[[IntraserviceSectionConsultatio_20152]]*
+
 ## Mentioned In
 - [[TheChemistryOfTheColoradoRiver_1979]]
+- [[IntraserviceSectionConsultatio_20152]]

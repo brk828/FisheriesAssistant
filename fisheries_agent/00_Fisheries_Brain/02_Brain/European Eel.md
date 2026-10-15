@@ -20,6 +20,9 @@ The European Eel (Anguilla anguilla) is a catadromous fish species that undertak
 > - **Host range**: Primarily migratory adult [[Atlantic Salmon]]; parr and smolts in freshwater were, at time of writing, unaffected. Credible but limited evidence of infection in [[Pike]], [[Roach]], occasional [[Brown Trout]], and possibly [[European Eel]]. - **Habitat zones affected**: Freshwat...
 > -- *[[IrishSalmonDiseaseAnInterimRep_13819]]*
 
+> This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
+> -- *[[Eel_14169]]*
+
 ## Mentioned In
 - [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
@@ -27,3 +30,4 @@ The European Eel (Anguilla anguilla) is a catadromous fish species that undertak
 - [[EffectsOfAntimycinAOnTissueRes_11530]]
 - [[IrishSalmonDiseaseAnInterimRep_13819]]
 - [[TheEffectOfCalciumSulphateOnTh_16691]]
+- [[Eel_14169]]

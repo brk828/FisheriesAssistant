@@ -14,8 +14,12 @@ Cladophora glomerata is a filamentous green alga commonly found in freshwater ec
 > This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
 > -- *[[AProposalToMonitorTheEffectsOf_17697]]*
 
+> This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
+> -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[NonLethalStomachPumpingTechniq_1992_08_10]]
 - [[RiverPollutionBiologicalEffect_14557]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
+- [[FeedingDynamicsNitrogenBudgets_17775]]

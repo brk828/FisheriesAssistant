@@ -26,6 +26,9 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
+> -- *[[DraftliteratureReviewOfTheStri_15768]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -51,3 +54,4 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 - [[TripReportForTheSeptemberSurve_1996_09_15]]
 - [[UtilizationOfGizzardShadByGame_1958_11_20]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[DraftliteratureReviewOfTheStri_15768]]

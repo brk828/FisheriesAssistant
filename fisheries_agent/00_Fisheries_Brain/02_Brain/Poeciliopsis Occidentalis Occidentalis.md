@@ -23,6 +23,12 @@ Poeciliopsis occidentalis occidentalis, commonly known as the Gila Topminnow, is
 > - **[[Meda Fulgida]]** (spikedace) and **[[Tiaroga Cobitis]]** (loach minnow) — monotypic, endemic genera restricted to the Gila River basin; adapted to swift riffle habitats. - **[[Salmo Gilae]]** (Gila trout) — described as an "ancient, endemic relict" species (Miller 1972b), found in isolated ...
 > -- *[[NativeFishesOfTheUpperGilaRive_12644]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This dissertation proposal by Timothy J. Kim (Arizona State University, 1998) outlines research to investigate Major Histocompatibility Complex (MHC) genetic variation and parasite resistance in two federally-listed endangered fish species: the [[Sacramento Winter-Run Chinook Salmon]] and the...
+> -- *[[MhcVariationAndParasiteResista_12519]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -30,3 +36,5 @@ Poeciliopsis occidentalis occidentalis, commonly known as the Gila Topminnow, is
 - [[LetterToRayVaughnOpposingRestr_1973_04_13]]
 - [[LetterToWLMinckleyOnNativeAriz_1985_02_08]]
 - [[NativeFishesOfTheUpperGilaRive_12644]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[MhcVariationAndParasiteResista_12519]]

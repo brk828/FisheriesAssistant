@@ -17,8 +17,16 @@ In the context of fish science and conservation biology, "Big Spring" refers to 
 > This study documents an 11-year (1978–1989) case history of a refuge (introduced) population of the [[Railroad Valley Springfish]] (*Crenichthys nevadae*) at [[Chimney Hot Springs]], Nevada, established to buffer the species against extinction risk from habitat degradation at its native spring lo...
 > -- *[[RefugeManagementForTheThreaten_1989]]*
 
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
+> This memorandum documents severe flood damage to the [[Big Spring]] [[Gila Topminnow]] reintroduction site in [[Graham County]], Arizona, following an intense localized storm on August 21, 1990. The flood destroyed critical pool habitat, reduced the observable topminnow population from abundant to...
+> -- *[[ReportOfFloodDamageToBigSpring_18984]]*
+
 ## Mentioned In
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
 - [[FourthAnnualMeetingDeathValley_11111]]
 - [[OurDisappearingDesertFishes_1980]]
 - [[RefugeManagementForTheThreaten_1989]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[ReportOfFloodDamageToBigSpring_18984]]

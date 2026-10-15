@@ -26,6 +26,12 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 > This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
 > -- *[[AmericanRiversStacMeetingOfJun_17977]]*
 
+> This 1959 document by [[Conrad P. Straub]], [[Abraham S. Goldin]], and [[Albert G. Friend]] of the Robert A. Taft Sanitary Engineering Center addresses the environmental implications of radioactive waste disposal in stream environments. The paper examines increasing volumes of radioactive materials...
+> -- *[[EnvironmentalImplicationsOfRad_14607]]*
+
+> This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
+> -- *[[DraftliteratureReviewOfTheStri_15768]]*
+
 ## Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AccumulationAndRetentionOfRadi_1957]]
@@ -48,3 +54,5 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 - [[UptakeAndAssimilationOfNitroge_1969]]
 - [[ViewsOfAFishBiologistFromAFede_15069]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
+- [[EnvironmentalImplicationsOfRad_14607]]
+- [[DraftliteratureReviewOfTheStri_15768]]

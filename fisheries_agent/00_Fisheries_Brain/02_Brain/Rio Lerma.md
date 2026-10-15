@@ -8,5 +8,9 @@ auto_enriched: true
 > This document is a 1994 grant proposal (National Geographic Society, Committee for Research and Exploration) submitted by Clyde D. Barbour (Wright State University), with co-investigators Dan E. Krane and Salvador Contreras-Balderas, proposing a molecular phylogenetic and biogeographic study of t...
 > -- *[[MolecularEvolutionAndBiogeogra_1994_06_28]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[MolecularEvolutionAndBiogeogra_1994_06_28]]
+- [[DistributionalAndLocalVernacul_13815]]

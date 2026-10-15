@@ -26,6 +26,36 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> This proposal, submitted 21 August 1995 by researchers from [[Northern Arizona University]], requests $201,816 to continue transitional monitoring of [[Colorado River]] sand bars and backwaters in [[Grand Canyon National Park]]. The project bridges ongoing research to a long-term monitoring program...
+> -- *[[BridgingTheGapToLongtermMonito_18440]]*
+
+> This document records the meeting notes from the [[Glen Canyon Environmental Studies]] (GCES) Executive Review Committee (ERC) meeting held June 15, 1989, in Flagstaff, Arizona. The ERC, composed of representatives from the [[Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], [[Western...
+> -- *[[ExecutiveReviewCommitteeMeetin_19686]]*
+
+> This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
+> -- *[[EndangeredSpeciesProgramReview_19696]]*
+
+> This document contains three technical proposals submitted by [[BIO/WEST]] to modify Contract No. 0-CS-40-09110 for [[Humpback Chub]] studies in the [[Colorado River]] through [[Grand Canyon]]. The proposals, dated December 8, 1993, request additional funding totaling $270,983.63 to complete: (1) a...
+> -- *[[RevisedTechnicalProposalsToMod_13629]]*
+
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
+> This document outlines a comprehensive research plan for the [[Glen Canyon Environmental Studies]] (GCES) program, designed to investigate the ecological and economic impacts of [[Glen Canyon Dam]] operations on the [[Colorado River]] ecosystem through [[Grand Canyon]]. The plan addresses multiple...
+> -- *[[GcesPlanningDocumentResearchPl_18452]]*
+
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
+> This document is correspondence from the Bureau of Reclamation dated February 4, 1993, announcing a meeting of the Reservoir Work Group scheduled for February 12, 1993, in Phoenix, Arizona. The meeting focuses on selective withdrawal operations at [[Glen Canyon Dam]] to modify downstream water...
+> -- *[[CorrespondenceRegardingMeeting_13520]]*
+
+> This administrative correspondence from Arizona State University's Department of Zoology (dated 30 September 1991) documents planning for a scientific review committee meeting to assess ongoing research on [[Humpback Chub]] (*Gila cypha*) under the [[Glen Canyon Environmental Studies]] (GCES)...
+> -- *[[PreliminaryMeetingInformationF_13798]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -82,3 +112,13 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 - [[UsfwsLcrResearchTripReportHump_11069]]
 - [[VariousProposalsForStudiesOfEn_1993_12_17]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[BridgingTheGapToLongtermMonito_18440]]
+- [[ExecutiveReviewCommitteeMeetin_19686]]
+- [[EndangeredSpeciesProgramReview_19696]]
+- [[RevisedTechnicalProposalsToMod_13629]]
+- [[EffectsOfElectrofishingFieldsO_15548]]
+- [[GcesPlanningDocumentResearchPl_18452]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]
+- [[CorrespondenceRegardingMeeting_13520]]
+- [[PreliminaryMeetingInformationF_13798]]

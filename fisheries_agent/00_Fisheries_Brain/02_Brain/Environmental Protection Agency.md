@@ -17,8 +17,12 @@ The Environmental Protection Agency (EPA) serves as a critical federal regulator
 > - The Effectiveness Monitoring Program is organized around **four priority resources**: Late-Successional/Old-Growth Forests, [[Northern Spotted Owl]], [[Marbled Murrelet]], and [[Aquatic and Riparian Ecosystems]] (the latter module was still under development at time of publication). - The progr...
 > -- *[[TheStrategyAndDesignOfTheEffec_1997_11_13]]*
 
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
 ## Mentioned In
 - [[DuesDonationsAndTheGreatestSym_1980_11_12]]
 - [[InterimFlowsForGlenCanyonDam_1991_03_06]]
 - [[ResponseToAmericanSocietyOfIch_1987_10_09]]
 - [[TheStrategyAndDesignOfTheEffec_1997_11_13]]
+- [[EndangeredAndThreatenedWildlif_11580]]

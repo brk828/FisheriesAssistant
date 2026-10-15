@@ -23,6 +23,9 @@ Ictalurus pricei, commonly known as the Yaqui catfish, is a native North America
 > - **[[Ictalurus pricei]]** (Yaqui Catfish) — Family [[Ictaluridae]]; a native North American catfish endemic to the Rio Yaqui basin. - **[[Notropis formosus]]** (referred to as a "shiner," likely synonymous with or closely related to the Yaqui/beautiful shiner) — Family [[Cyprinidae]]; small-bodi...
 > -- *[[ItineraryForRioYaquiFishesCapt_1987_09_14]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
 ## Mentioned In
 - [[CorrespondenceOnMexicanFishTax_1993_10_21]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -34,3 +37,4 @@ Ictalurus pricei, commonly known as the Yaqui catfish, is a native North America
 - [[LetterRegardingPlansToObtainLi_1986_12_10]]
 - [[LetterToDrWLMinckleyRegardingD_1990_11_05]]
 - [[ReEvaluationOfTheNativeFishesO_12336]]
+- [[MinutesDesertFishesRecoveryTea_15843]]

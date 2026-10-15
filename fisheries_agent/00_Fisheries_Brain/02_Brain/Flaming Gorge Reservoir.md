@@ -23,6 +23,15 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 > This document is a March 1963 U.S. Department of the Interior review of the **[[Green River Fish Eradication Program]]**, a chemical treatment operation conducted in September 1962 by the Utah and Wyoming game and fish departments under supervision of the **[[Bureau of Sport Fisheries and Wildlif...
 > -- *[[ReviewOfGreenRiverFishEradicat_1963_03_25]]*
 
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
+> -- *[[EndangeredAndThreatenedWildlif_11592]]*
+
+> This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
+> -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
+
 ## Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[MeasuresToImproveSportFishingA_1962]]
@@ -31,3 +40,6 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 - [[ReviewOfGreenRiverFishEradicat_1963_03_25]]
 - [[SomeEffectsOfRotenoneTreatment_1969]]
 - [[StationProfileJonesHoleNationa_19544]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[EndangeredAndThreatenedWildlif_11592]]
+- [[FyAnnualProjectReportEarlyBiol_18213]]

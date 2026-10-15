@@ -23,6 +23,9 @@ The Gulf of Mexico is a major biogeographic region and drainage basin in ichthyo
 > - **Native/typical habitat**: Coastal and estuarine brackish waters of the Texas Gulf Coast region ([[Gulf of Mexico]] drainage). - **Documented range extension**: - ~150 miles upstream in the **Rio Grande River** (Robinson, 1959) - **Colorado River** near La Grange, Texas (single specimen, Tilto...
 > -- *[[RecordsOfMenidiaBery_13348]]*
 
+> This March 1994 policy document from the [[U.S. Fish and Wildlife Service]] outlines the agency's adoption of an ecosystem approach to conserve the nation's biological diversity more effectively. The approach emphasizes protecting or restoring ecosystem function, structure, and species composition...
+> -- *[[AnEcosystemApproachToFishAndWi_11650]]*
+
 ## Mentioned In
 - [[AnOutlineForTheStudyOfEstuarin_1954_10_31]]
 - [[BookReviewOfFreshwaterFishesOf_1969]]
@@ -37,3 +40,4 @@ The Gulf of Mexico is a major biogeographic region and drainage basin in ichthyo
 - [[StationProfileOfMammothSpringN_19535]]
 - [[StationProfileOfMeri_19533]]
 - [[StationProfileOfNatchitochesNa_1993]]
+- [[AnEcosystemApproachToFishAndWi_11650]]

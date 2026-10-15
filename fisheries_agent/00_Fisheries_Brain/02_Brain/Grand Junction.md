@@ -20,7 +20,19 @@ Grand Junction is a geographic sampling location on the Colorado River mainstem 
 > - **Habitat range sampled**: Populations spanned a longitudinal/altitudinal gradient along the Colorado River system: - [[Lake Mohave]] (Lower Colorado River, downstream reservoir) - [[Lake Mead]] (Lower Colorado River reservoir) - [[Lake Powell]] (Upper Colorado River reservoir) - [[Green River]...
 > -- *[[AnnualReportOnRazorbackSuckerM_1992_11_24]]*
 
+> This map documents the spatial distribution and abundance of larval [[Razorback Sucker]] (*Xyrauchen texanus*) captures throughout the [[Upper Colorado River Basin]] during the period 1992-1995. The survey covered major river systems including the [[Green River]], [[Colorado River]], [[San Juan...
+> -- *[[CapturesOfLarvalRazorbackSucke_18287]]*
+
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
+> -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
+
 ## Mentioned In
 - [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
 - [[AnnualReportOnRazorbackSuckerM_1992_11_24]]
 - [[AnnualReportOnUSBureauOfReclam_19117]]
+- [[CapturesOfLarvalRazorbackSucke_18287]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[TheRazorbackSuckerXyrauchenTex_15245]]

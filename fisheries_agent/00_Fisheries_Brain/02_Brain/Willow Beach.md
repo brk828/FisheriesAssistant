@@ -20,6 +20,15 @@ Willow Beach is a critical location on Lake Mohave in the lower Colorado River s
 > - **Recapture success (March 1994 "Razorback Roundup")**: 7 individuals from the 1992 year class and 3 individuals from the 1993 year class were recaptured, confirming that the stocking and marking techniques used by the program are effective for long-term monitoring. - **Larval collection**: Ove...
 > -- *[[MeetingAnnouncementNativeFishW_1994_12_21]]*
 
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This five-year final report (2015–2019) documents the demographics and monitoring of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], part of the [[Lower Colorado River Multi-Species Conservation Program]]. The wild razorback sucker population has functionally disappeared,...
+> -- *[[DemographicsAndMonitoringOfRep_2020]]*
+
+> This three-year study (2008-2011) examined demographics and post-stocking survival of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir. The wild population has declined to fewer than 50 individuals, making the repatriation program...
+> -- *[[DemographicsAndPoststockingSur_2012]]*
+
 ## Mentioned In
 - [[ArizonaNevadaCooperativeFisher_1961]]
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
@@ -27,3 +36,6 @@ Willow Beach is a critical location on Lake Mohave in the lower Colorado River s
 - [[MeetingAnnouncementNativeFishW_1994_12_21]]
 - [[RESULTS OF CUTTHROAT TROUT INTRODUCTION]]
 - [[RecentBonytailChubMortalityAtW_1995_05_27]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[DemographicsAndMonitoringOfRep_2020]]
+- [[DemographicsAndPoststockingSur_2012]]

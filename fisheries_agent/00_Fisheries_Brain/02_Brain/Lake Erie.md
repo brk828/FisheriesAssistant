@@ -23,6 +23,9 @@ Lake Erie is one of the five Great Lakes and serves as a critical freshwater eco
 > The Allegheny National Fish Hatchery, established in 1959 under Public Law 86-205 and located in Warren, Pennsylvania, is a federal propagation facility whose primary mission is the restoration of [[Lake Trout]] populations in [[Lake Erie]] and [[Lake Ontario]]. During Fiscal Year 1993, the stati...
 > -- *[[StationProfileOfTheAlleghenyNa_1993]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[ASystematicStudyOfTheGreenside_1964]]
@@ -42,3 +45,4 @@ Lake Erie is one of the five Great Lakes and serves as a critical freshwater eco
 - [[TheInvasionPresentStatusAndLif_1949_12_01]]
 - [[TheLimnologyPrimaryProductionA_14690]]
 - [[TheTemporalDistributionOfChlor_1966]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

@@ -26,6 +26,9 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 > This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
 > -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
 
+> This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
+> -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AsianTapewormEradicationStrate_13118]]
@@ -55,3 +58,4 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 - [[RevisionsOfTheDraftRioYaquiFis_1984_06_04]]
 - [[RioYaquiFishesCaptureAndTransp_1987_01_12]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[UsfwsmexicoCooperativeProgramG_16498]]

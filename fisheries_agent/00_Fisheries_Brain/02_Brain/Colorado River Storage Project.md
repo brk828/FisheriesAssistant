@@ -14,7 +14,11 @@ The Colorado River Storage Project (CRSP) is a major federal water development i
 > - **Primary Habitat Context:** The hatchery serves as a mitigation facility for the **[[Colorado River Storage Project]]**, replacing salmonid habitat/production lost to federal dam and water development projects. Fish are stocked into: - Federal waters (managed by [[U.S. Fish and Wildlife Servic...
 > -- *[[StationProfileJonesHoleNationa_19544]]*
 
+> These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
+> -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
+
 ## Mentioned In
 - [[EstablishingAColoradoRiverCons_20111]]
 - [[StationProfileHotchkissNationa_19549]]
 - [[StationProfileJonesHoleNationa_19544]]
+- [[DraftMeetingNotesGlenCanyonEnv_19677]]

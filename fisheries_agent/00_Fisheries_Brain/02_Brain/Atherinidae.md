@@ -23,6 +23,9 @@ Atherinidae is a family of small, primarily euryhaline fishes commonly known as 
 > - **[[Lepisosteidae]] (Gars)** — *Lepisosteus osseus*, *L. oculatus*, *Atractosteus spatula*: elongated ganoid-scaled bodies, elongated snouts, primitive actinopterygian morphology. - **[[Cyprinidae]] (Minnows/Carps)** — largest family represented (~50 species, Mapas 11–58), including genera *Cyp...
 > -- *[[RioBravoFishDistribution_Unknown]]*
 
+> This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
+> -- *[[DraftliteratureReviewOfTheStri_15768]]*
+
 ## Mentioned In
 - [[AnEnzymeMethodOfClearingAndSta_1967]]
 - [[Anomalies Encountered in Freshwater and Marine Fishes from the Eastern United States]]
@@ -30,3 +33,4 @@ Atherinidae is a family of small, primarily euryhaline fishes commonly known as 
 - [[JoseAlvarezDelVillar_13131]]
 - [[RioBravoFishDistribution_Unknown]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
+- [[DraftliteratureReviewOfTheStri_15768]]

@@ -23,6 +23,21 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 > Represented taxa span diverse morphological/functional groups, including: - **Cyprinids** (common carp *Cyprinus carpio*, grass carp *Ctenopharyngodon idella*, [[Silver Carp]] *Hypophthalmichthys molitrix*, [[Bighead Carp]] *H. nobilis*, goldfish *Carassius auratus*) - **Cichlids** ([[Tilapia]] s...
 > -- *[[ComputerizedDataBaseForExoticF_1991]]*
 
+> This administrative report presents a comprehensive bibliography of 213 selected references on [[Tilapia mossambica]] (Mozambique Tilapia), compiled by the California Department of Fish and Game, Region 5, Inland Fisheries in January 1967. The bibliography encompasses all significant papers known...
+> -- *[[BibliographyOfPublicationsConc_14697]]*
+
+> This administrative report documents a record-breaking year for [[California Department of Fish and Game]] hatchery operations during fiscal year 1967-68. Despite two hatcheries being out of service for the entire year, the Department planted 2,706,909 lb of fish, exceeding the previous year's...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14868]]*
+
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
+> Two Oklahoma State University zoology professors, Dr. Troy C. Dorris and Dr. Robert C. Summerfelt, conducted a three-week study of fish populations in [[Lake Atitlan]], [[Guatemala]], in 1967 to address perceived fish shortages affecting the community of [[Santiago Atitlan]] (population 14,000)....
+> -- *[[FishPlentifulInGuatemalaLake_19070]]*
+
+> This letter from W.L. Minckley ([[Arizona State University]]) to Dr. Robert R. Miller ([[University of Michigan]]) dated June 30, 1988, addresses the discovery of [[Tilapia]] introduction into the [[Cuatro Cienegas]] basin in Mexico. Minckley outlines his position on appropriate response protocols,...
+> -- *[[TilapiaInCuatroCienegas_13761]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -60,3 +75,8 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 - [[TheEffectsOfTilapiaIntroductio_1990]]
 - [[TripReportForTheJuneThPaintedR_1997_06_26]]
 - [[TripReportTaskForceMonitoringR_1990]]
+- [[BibliographyOfPublicationsConc_14697]]
+- [[CaliforniaTroutSalmonAndWarmwa_14868]]
+- [[InlandCommercialFisheriesWorks_15658]]
+- [[FishPlentifulInGuatemalaLake_19070]]
+- [[TilapiaInCuatroCienegas_13761]]

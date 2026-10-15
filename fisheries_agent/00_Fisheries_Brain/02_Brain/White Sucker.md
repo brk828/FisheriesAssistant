@@ -23,6 +23,15 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 > - **Species of interest**: [[Walleye]] (*Stizostedion vitreum vitreum*), family [[Percidae]]; also discusses associated species — [[Sauger]] (*Stizostedion canadense*), [[Northern Pike]] (*Esox lucius*), [[Lake Whitefish]] (*Coregonus clupeaformis*), [[Cisco]] (*Coregonus artedii*), [[Burbot]] (*...
 > -- *[[ChangesInWalleyeStizostedionVi_1977_03_18]]*
 
+> This comprehensive study assessed ecological suitability for two imperiled Rio Grande basin fishes—[[Rio Grande Chub]] (*Gila pandora*) and [[Rio Grande Sucker]] (*Pantosteus plebeius*)—using dual modeling approaches across their overlapping ranges in Colorado and New Mexico. Researchers conducted...
+> -- *[[SiteAndLandscapescaleEstimates_2026]]*
+
+> This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
+> -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
+
+> This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
+> -- *[[InlandCommercialFisheriesWorks_15658]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -53,3 +62,6 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 - [[TemperaturePreferenceAndAvoida_1983]]
 - [[TheMacroinvertebratesAndFishOf_17377]]
 - [[WinterObservationsOnBottomOrga_16187]]
+- [[SiteAndLandscapescaleEstimates_2026]]
+- [[TheRazorbackSuckerXyrauchenTex_15245]]
+- [[InlandCommercialFisheriesWorks_15658]]

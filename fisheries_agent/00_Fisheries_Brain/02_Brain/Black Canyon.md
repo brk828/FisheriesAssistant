@@ -20,9 +20,29 @@ Black Canyon refers to the riverine reach of the Colorado River immediately belo
 > - The [[Bonytail Chub]] was federally listed as **endangered** on May 13, 1980, with Lake Mohave representing its sole known extant population at the time. - The [[Razorback Sucker]], while "common" in Black Canyon below Hoover Dam, was anticipated to be listed as endangered within a few years of...
 > -- *[[RequestForParticipationAndPart_1980]]*
 
+> This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
+> -- *[[UseOfHydroelectricDamsToContro_11232]]*
+
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
+> This biological assessment evaluates probable effects of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species under the [[Endangered Species Act]]. The Bureau of Reclamation proposes adding 500 MW of generating capacity through construction of a...
+> -- *[[BiologicalAssessmentProbableEf_11481]]*
+
+> This biological assessment evaluates potential impacts of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species: [[Bonytail Chub]] (*Gila elegans*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bald Eagle]] (*Haliaeetus leucocephalus*),...
+> -- *[[BiologicalAssessmentOnThreaten_19806]]*
+
+> This three-year study (2008-2011) examined demographics and post-stocking survival of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir. The wild population has declined to fewer than 50 individuals, making the repatriation program...
+> -- *[[DemographicsAndPoststockingSur_2012]]*
+
 ## Mentioned In
 - [[EndangeredPupfishOfDevilsHoleG_11403]]
 - [[GilaTroutAndChihuahuaChubRecov_1997_01_16]]
 - [[LakeMohaveSampling_1987_10_01]]
 - [[RequestForParticipationAndPart_1980]]
 - [[TheBiologyOfTheRazorbackSucker_1979_10_22]]
+- [[UseOfHydroelectricDamsToContro_11232]]
+- [[BiologicalAssessmentOfTheImpac_16261]]
+- [[BiologicalAssessmentProbableEf_11481]]
+- [[BiologicalAssessmentOnThreaten_19806]]
+- [[DemographicsAndPoststockingSur_2012]]

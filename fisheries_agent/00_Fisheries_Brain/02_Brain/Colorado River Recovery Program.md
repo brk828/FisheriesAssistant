@@ -23,6 +23,9 @@ The Colorado River Recovery Program is a comprehensive, federally-coordinated co
 > - **Programmatic significance**: This project functions as the genetic-data backbone for the [[Colorado River Recovery Program]], directly supporting RIPRAP Recovery Action Plan Element IV (conserve genetic integrity, augment/restore populations) for both target species.
 > -- *[[FyAnnualProjectReportGeneticsM_1993]]*
 
+> This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
+> -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
+
 ## Mentioned In
 - [[ActingProgramDirector_1990_03_29]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -49,3 +52,4 @@ The Colorado River Recovery Program is a comprehensive, federally-coordinated co
 - [[UmbrellaProjectChemoreceptionI_1993]]
 - [[VirginRiverWoundfinPlanForBroo_16685]]
 - [[YampaRiverChannelMonitoring_1993]]
+- [[FyAnnualProjectReportEarlyBiol_18213]]

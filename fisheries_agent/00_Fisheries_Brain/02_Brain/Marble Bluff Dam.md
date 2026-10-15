@@ -20,6 +20,9 @@ Marble Bluff Dam is a water management structure on the lower Truckee River in N
 > This report documents the 1987 spawning runs of the endangered [[Cui-ui]] (*Chasmistes cujus*) and threatened [[Lahontan Cutthroat Trout]] (*Salmo clarki henshawi*) at [[Marble Bluff Fish Facility]], [[Nixon, Nevada]]. The cui-ui spawning run totaled 5,301 individuals, representing 45 percent of...
 > -- *[[CuiuiAndLahontanCutthroatTrout_13865]]*
 
+> This document is the second revision of the [[Cui-ui]] (*Chasmistes cujus*) Recovery Plan, approved November 22, 1983, providing direction through FY 1986. The [[Cui-ui]] is an endangered sucker endemic to [[Pyramid Lake]] and the [[Truckee River]] system in Nevada. The plan's goal remains...
+> -- *[[CuiuiChasmistesCujusRevision_13303]]*
+
 ## Mentioned In
 - [[CuiUiRecoveryTeamMeetingMinute_1990_01_12]]
 - [[CuiUiRecoveryTeamMeeting_1990_11_29]]
@@ -27,3 +30,4 @@ Marble Bluff Dam is a water management structure on the lower Truckee River in N
 - [[RecommendationsForMarbleBluffF_1989_11_08]]
 - [[StationProfileOfTheLahontanNat_19542]]
 - [[CuiuiAndLahontanCutthroatTrout_13865]]
+- [[CuiuiChasmistesCujusRevision_13303]]

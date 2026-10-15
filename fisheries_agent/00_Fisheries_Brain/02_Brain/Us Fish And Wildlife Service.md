@@ -20,6 +20,12 @@ The U.S. Fish and Wildlife Service is the primary federal agency responsible for
 > - The [[Catron County Commission]] adopted a **Comprehensive Land Use and Policy Plan** asserting a legal right to "coordinate" with federal/state agencies (including the [[US Fish and Wildlife Service]]) on management of natural resources, explicitly including **threatened and endangered species...
 > -- *[[LetterFromCatronCountyCommissi_1992_12_01]]*
 
+> This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
+> -- *[[RequestForProposalspresubmitta_18342]]*
+
+> This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
+> -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
+
 ## Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1992_03_08]]
 - [[LetterFromCatronCountyCommissi_1992_12_01]]
@@ -32,3 +38,5 @@ The U.S. Fish and Wildlife Service is the primary federal agency responsible for
 - [[RecaptureDataForJuvenileRazorb_1993_03_19]]
 - [[SummaryDataSheetForFisheryStud_11504]]
 - [[TheConservationDilemmaOfNonNat_15856]]
+- [[RequestForProposalspresubmitta_18342]]
+- [[VirginRiverFishRecoveryTeamSpr_20244]]

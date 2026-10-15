@@ -14,7 +14,11 @@ The Babocomari River is a historically perennial waterway in the southwestern Un
 > - **[[Cyprinodon macularius]]**: Occupies isolated desert spring, slough, and canal habitats in the Sonoran Desert (Santa Clara Slough, Salinity Canal, El Doctor Spring). Habitat degraded by geothermal exploration and conversion to Tilapia aquaculture; threatened by flooding-mediated invasion of ...
 > -- *[[MinutesOfTheDesertFishesRecove_1986_10_13]]*
 
+> This master's thesis by Craig Stephen Ivanyi (University of Arizona, 1989) examines selected life history aspects of the [[Desert Sucker]] (*Catostomus clarkii*, also referred to as *Pantosteus clarkii*) in four southeastern Arizona streams. The study focused primarily on [[Sonoita Creek]], with...
+> -- *[[SelectedAspectsOfTheNaturalHis_14397]]*
+
 ## Mentioned In
 - [[DrainageMapOfArizonaShowingPer_13007]]
 - [[LetterRegardingGilaChubStockin_1987_07_10]]
 - [[MinutesOfTheDesertFishesRecove_1986_10_13]]
+- [[SelectedAspectsOfTheNaturalHis_14397]]

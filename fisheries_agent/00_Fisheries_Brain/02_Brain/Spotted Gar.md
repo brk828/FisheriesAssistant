@@ -23,8 +23,12 @@ The Spotted Gar (*Lepisosteus oculatus*) is a longnose gar species that inhabits
 > - **Wetland drainage and agricultural conversion** — threatening [[Central Mudminnow]], [[Cypress Minnow]], [[Golden Topminnow]], and [[Dollar Sunfish]] populations in the Reelfoot Lake drainage and West Fork Clarks River (Graves and Fulton counties). - **Coal mining and oil/gas exploration pollu...
 > -- *[[DrainageRecordsAndConservation_14901]]*
 
+> This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
+> -- *[[FisheryInvestigationsOnFortGib_14674]]*
+
 ## Mentioned In
 - [[DrainageRecordsAndConservation_14901]]
 - [[EstuarineFishesOfLouisiana_1966_11_18]]
 - [[NewDistributionalRecordsOfIlli_1988]]
 - [[NewRecordsDistributionAndStatu_14897]]
+- [[FisheryInvestigationsOnFortGib_14674]]

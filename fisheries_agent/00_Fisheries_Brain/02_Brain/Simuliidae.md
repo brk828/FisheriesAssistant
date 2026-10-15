@@ -23,6 +23,9 @@ Simuliidae is a family of aquatic insects commonly known as black flies, whose l
 > - **Study Design**: Ten sites sampled bimonthly across [[Colorado River]] miles 0–220, spanning wide reaches (Lees Ferry, Nankoweap, Little Colorado River confluence, Tanner Canyon, Spring Canyon) and narrow reaches (South Canyon, Grand Canyon gauge/Bright Angel Creek, Kanab Creek, Havasu Creek/N...
 > -- *[[TheEffectsOfDamOperationsOnAqu_1991]]*
 
+> This study confirms that [[Simulium ornatum]] var. nitidifrons, a blackfly species from a chalk stream near [[Romsey]], [[Hampshire]], undergoes six larval instars before pupation. Larvae were reared from field-collected eggs in laboratory apparatus. Instars were distinguished by measuring...
+> -- *[[TheInstarsOfSimuliumOrnatumVar_20678]]*
+
 ## Mentioned In
 - [[LifeHistoryOfTheBrindledMadtom_14059]]
 - [[MiddleGilaRiverAquaticStudy_12505]]
@@ -30,3 +33,4 @@ Simuliidae is a family of aquatic insects commonly known as black flies, whose l
 - [[SomeEffectsOfRotenoneTreatment_1969]]
 - [[TheDisappearanceOfFourLeafLeac_1975]]
 - [[TheEffectsOfDamOperationsOnAqu_1991]]
+- [[TheInstarsOfSimuliumOrnatumVar_20678]]

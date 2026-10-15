@@ -20,8 +20,12 @@ Clear Creek is a drainage system in Illinois that historically supported populat
 > - **Historical Illinois range (7 sites, 1930s–1940):** [[Big Muddy River]], [[Beaucoup Creek]], [[Little Muddy River]], [[Horseshoe Lake]], and [[Cache River]] drainages, plus [[Clear Creek]] drainage. - **Confirmed extirpations:** Big Muddy River and Clear Creek drainages — no specimens found de...
 > -- *[[DistributionAbundanceAndStatus_14900]]*
 
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
 ## Mentioned In
 - [[DistributionAbundanceAndStatus_14900]]
 - [[NewRecordsDistributionAndStatu_14897]]
 - [[ObservationsOnTheLongnoseSucke_1954]]
 - [[StatusOfTheCypressMinnowHybogn_1982_01_15]]
+- [[EndangeredAndThreatenedWildlif_11564]]

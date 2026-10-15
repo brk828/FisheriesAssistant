@@ -23,6 +23,18 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 > **Predator interactions:** - **[[Gambusia heterochir]]** (endemic Clear Creek gambusia), restricted mainly to the area above the upper dam, feeds substantially on *H. texana*, aided by a comparatively powerful jaw, sturdier teeth, and blunter gill rakers — traits interpreted as adaptations for am...
 > -- *[[DescriptionAndEcologyOfHyalell_14834]]*
 
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
+> This memorandum from Ken Wiley to David Mladenoff, dated July 1, 1987, presents a first draft plan for renovating [[Palm Lake]] at the [[Hassayampa River Preserve]] in Arizona. The project aims to remove exotic fish species and introduce endangered native species, specifically [[Gila elegans]]...
+> -- *[[RenovationOfPalmLakeHassayampa_11969]]*
+
+> This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
+> -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
+
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -58,3 +70,7 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 - [[StudiesOfGambusiaCannibalism_14238]]
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[RenovationOfPalmLakeHassayampa_11969]]
+- [[EffectsOfOilRefineryAndDomesti_11169]]
+- [[TentativeSummaryOfCollectingAc_13171]]

@@ -23,6 +23,12 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 > - **[[Eagle Creek]]:** Razorback suckers were released at the upper end of a channelized, high-velocity reach known as **"the narrows,"** a site chosen to test dispersal behavior under natural flow constraints. This reach represents a bottleneck habitat likely influencing directional movement and...
 > -- *[[FallVerdeAndSaltRiverRazorback_1987_12_16]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyWa_1994_01_31]]
 - [[CommentsOnTheDraftActivityPlan_13812]]
@@ -39,3 +45,5 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 - [[TheGilaBoxAWildernessCanyonOnT_13093]]
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[UpperVerdeRiverAquaticStudy_15611]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[FisheryInventoryOfTheCoachella_13687]]

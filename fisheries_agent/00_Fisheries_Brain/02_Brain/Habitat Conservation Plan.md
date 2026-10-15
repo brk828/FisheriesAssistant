@@ -26,6 +26,9 @@ A Habitat Conservation Plan (HCP) is a comprehensive, legally binding document r
 > This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
 > -- *[[AlternativeApproachesToHcpsFor_16735]]*
 
+> This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
+> -- *[[RequestForProposalspresubmitta_18342]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[BriefingNotesEndangeredFishInC_14950]]
@@ -35,3 +38,4 @@ A Habitat Conservation Plan (HCP) is a comprehensive, legally binding document r
 - [[OverviewEndangeredSpeciesActSe_13258]]
 - [[ProposedMonitoringProtocolElCo_1999]]
 - [[AlternativeApproachesToHcpsFor_16735]]
+- [[RequestForProposalspresubmitta_18342]]

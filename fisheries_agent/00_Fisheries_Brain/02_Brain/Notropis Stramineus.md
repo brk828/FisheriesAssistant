@@ -23,9 +23,13 @@ Notropis stramineus, commonly known as the sand shiner, is a small freshwater cy
 > - **[[Ericymba buccata]]** (silverjaw minnow) — historically restricted to Doe Run, Meade County, eastward; newly discovered at 19 sites in the lower Green and Tradewater rivers (Ohio, Daviess, McLean, Hopkins, Henderson, Webster counties). - **[[Hybognathus hayi]]** (cypress minnow) — previously...
 > -- *[[AReassessmentOfTheDistribution_1980]]*
 
+> This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
+> -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReassessmentOfTheDistribution_1980]]
 - [[DistributionOfMidwesternFishes_1978]]
 - [[FishesOfSouthDakota_1962]]
 - [[NicheBreadthFoodOfNotropisLutr_14678]]
+- [[EffectsOfOilRefineryAndDomesti_11169]]

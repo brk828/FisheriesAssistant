@@ -35,6 +35,15 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This document is a cooperative agreement proposal between [[Arizona State University]] (ASU) and the [[Arizona Game and Fish Department]] for non-game wildlife and fisheries investigations. Proposed by W. L. Minckley, Professor of Zoology at ASU, in collaboration with James E. Brooks, Biologist in...
+> -- *[[NongameWildlifeAndFisheriesInv_13701]]*
+
+> This 1987 baseline report documents vegetation and breeding bird communities along a 3 km cattle exclosure established in 1984 on [[Lower Bonita Creek]], [[Graham County]], [[Arizona]]. The study was conducted by [[William C. Hunter]] from [[Arizona State University]] for the [[U.S. Bureau of Land...
+> -- *[[ChangesInRiparianVegetationAnd_14524]]*
+
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
 ## Mentioned In
 - [[AuthorizationLetterForGilaTopm_1990_11_21]]
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
@@ -51,3 +60,6 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 - [[LectureNotesFromBiologyClass_13784]]
 - [[SeriesOfInterofficeMemosJulyAr_17328]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[NongameWildlifeAndFisheriesInv_13701]]
+- [[ChangesInRiparianVegetationAnd_14524]]
+- [[ReportOfTheOctoberFishCount_11417]]

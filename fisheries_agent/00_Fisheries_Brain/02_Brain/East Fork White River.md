@@ -11,7 +11,11 @@ The East Fork White River is a tributary system within the White River drainage 
 > - **Habitat conditions**: Flows were low and clear during sampling; riparian vegetation (extensive willow and cottonwood) was in good condition along both the North Fork and mainstem. - **Substrate preference**: Loach minnow habitat is characterized by large rubble substrate in swift current at s...
 > -- *[[TripReportWhiteRiver_1988_09_19]]*
 
+> This January 1990 letter from Dr. John N. Rinne (USFS Rocky Mountain Forestry Sciences Lab) to Jim Hanson (USFWS Pinetop) discusses electrophoretic genetic studies of [[Apache Trout]] populations in the [[White Mountains]] and their implications for conservation management. Rinne compares recent...
+> -- *[[ReTheElectrophoreticStudyOfWhi_14999]]*
+
 ## Mentioned In
 - [[StudiesOfTheAbundanceDistribut_13841]]
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
 - [[TripReportWhiteRiver_1988_09_19]]
+- [[ReTheElectrophoreticStudyOfWhi_14999]]

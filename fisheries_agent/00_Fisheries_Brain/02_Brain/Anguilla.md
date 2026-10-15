@@ -14,7 +14,11 @@ Anguilla refers to a genus of catadromous eels found in freshwater and estuarine
 > - Mexico's freshwater ichthyofauna totals at least **503 species**, ~25% primary freshwater fishes (127 spp.) and ~43% secondary freshwater fishes (218 spp.), with the remainder marine-derived or autochthonous. - Three largest families: [[Poeciliidae]] (86 species), [[Cyprinidae]] (76 species), [...
 > -- *[[GuideToTheFreshwaterFishesOfMe_15301]]*
 
+> This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
+> -- *[[Eel_14169]]*
+
 ## Mentioned In
 - [[FirstRecordOfTheElverOfTheAfri_1957_03_16]]
 - [[GuideToTheFreshwaterFishesOfMe_15301]]
 - [[TheRelationOfHydrologicalCondi_20023]]
+- [[Eel_14169]]

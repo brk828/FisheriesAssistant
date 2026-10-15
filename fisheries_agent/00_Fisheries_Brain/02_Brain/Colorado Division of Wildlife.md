@@ -11,9 +11,13 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 > - **Primary habitat:** The [[15-Mile Reach]] of the [[Colorado River]], a critical habitat segment for the endangered Colorado squawfish, situated between the Grand Valley diversion and the confluence with the [[Gunnison River]]. - **Flow dependency:** Habitat availability for both adult and larv...
 > -- *[[RequestForReleasesFromRuedigre_1989_06_08]]*
 
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
 ## Mentioned In
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
 - [[ColoradoSquawfishInteragencyTr_1973]]
 - [[MemorandumOnStockingOfNonnativ_1989_05_11]]
 - [[ProceduresForIntroductionOfAqu_17182]]
 - [[RequestForReleasesFromRuedigre_1989_06_08]]
+- [[InterimProceduresForStockingNo_15423]]

@@ -23,6 +23,9 @@ Havasu Creek is a cooler tributary stream within the Grand Canyon that serves as
 > The [[GCES Phase II Studies]] (1991–1994) were designed primarily to *collect* extensive habitat and fish-use data in the Grand Canyon reach of the Colorado River, particularly in the [[Little Colorado River]] and its confluence with the mainstem, as well as other tributary confluences ([[Shinumo...
 > -- *[[FwsProposedStudiesAndWorkForFy_11072]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
 ## Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DiscussionOfBiowestSWorkPlan_1991_09_23]]
@@ -36,3 +39,4 @@ Havasu Creek is a cooler tributary stream within the Grand Canyon that serves as
 - [[ProposalToGcesGeochemicalChara_1994_03_15]]
 - [[TheChemistryOfTheColoradoRiver_1979]]
 - [[TripReportAgfdNativeFishStudie_11269]]
+- [[TheColoradoRiverFishesRecovery_11196]]

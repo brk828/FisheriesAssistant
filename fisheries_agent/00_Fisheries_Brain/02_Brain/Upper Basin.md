@@ -17,7 +17,11 @@ The Upper Basin, in the context of Colorado River fish science and conservation,
 > - The species' life history and survival are explicitly tied to **dam operations** (flow regimes, presumably temperature and sediment regime effects, though not detailed in text). - The assessment scope extends beyond the single species to the **entire fish assemblage** and the **food base** of t...
 > -- *[[StrategyForDevelopmentOfATechn_1993_10_26]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
 ## Mentioned In
 - [[LowerBasinBigRiverFishesRecove_1989_01_09]]
 - [[MemorandumOnFebruaryLowerBasin_1989_02_13]]
 - [[StrategyForDevelopmentOfATechn_1993_10_26]]
+- [[TheColoradoRiverFishesRecovery_11196]]

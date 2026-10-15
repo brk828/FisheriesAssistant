@@ -23,6 +23,18 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 > **Cross-references:** [[Gila River]], [[Bonita Creek]], [[Gila Box Riparian National Conservation Area]], [[Arizona Desert Wilderness Act of 1990]], [[Limits of Acceptable Change (LAC) Framework]], [[Bureau of Land Management]]
 > -- *[[BlmGilaBoxAdvisoryCommitteeMee_1991_12_24]]*
 
+> This memorandum documents severe flood damage to the [[Big Spring]] [[Gila Topminnow]] reintroduction site in [[Graham County]], Arizona, following an intense localized storm on August 21, 1990. The flood destroyed critical pool habitat, reduced the observable topminnow population from abundant to...
+> -- *[[ReportOfFloodDamageToBigSpring_18984]]*
+
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
+> This 1987 baseline report documents vegetation and breeding bird communities along a 3 km cattle exclosure established in 1984 on [[Lower Bonita Creek]], [[Graham County]], [[Arizona]]. The study was conducted by [[William C. Hunter]] from [[Arizona State University]] for the [[U.S. Bureau of Land...
+> -- *[[ChangesInRiparianVegetationAnd_14524]]*
+
 ## Mentioned In
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
 - [[BlmGilaBoxAdvisoryCommitteeMee_1991_12_24]]
@@ -33,3 +45,7 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 - [[RazorbackSuckerRecapture_1986_08_18]]
 - [[TheGilaBoxAWildernessCanyonOnT_13093]]
 - [[UpperVerdeRiverAquaticStudy_15611]]
+- [[ReportOfFloodDamageToBigSpring_18984]]
+- [[TheColoradoRiverFishesRecovery_11196]]
+- [[FisheryInventoryOfTheCoachella_13687]]
+- [[ChangesInRiparianVegetationAnd_14524]]

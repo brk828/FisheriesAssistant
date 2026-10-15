@@ -23,6 +23,9 @@ Ariidae is a family of catfishes commonly known as sea catfishes, characterized 
 > - **Freshwater riverine core**: The majority of species (Mapas 1–148) occupy purely freshwater habitats within the Río Bravo/Rio Grande drainage, spanning main channel, tributaries, and spring-fed systems. - **Spring/phreatic endemics**: Numerous narrow-range endemics are restricted to isolated d...
 > -- *[[RioBravoFishDistribution_Unknown]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
 ## Mentioned In
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]
@@ -31,3 +34,4 @@ Ariidae is a family of catfishes commonly known as sea catfishes, characterized 
 - [[GuideToTheFreshwaterFishesOfMe_15301]]
 - [[InfluenceOfLandMassesOnTheDist_14157]]
 - [[RioBravoFishDistribution_Unknown]]
+- [[DistributionalAndLocalVernacul_13815]]

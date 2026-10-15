@@ -23,6 +23,15 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 > This memo reports the results of a fish sampling survey conducted by Arizona State University's Center for Environmental Studies at the ASU Karsten Golf Course (ASUGC) lakes on 1–2 December 1994. The survey's primary objective was to assess the status of three federally significant native fish sp...
 > -- *[[FishSamplingAtAsuKarstenGolfCo_1994_12_02]]*
 
+> This research proposal, submitted by Robert T. Muth (Principal Investigator) to the [[U.S. Bureau of Reclamation]] in December 1993, outlines a Phase II laboratory study to evaluate acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15544]]*
+
+> This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
+> -- *[[EffectsOfElectrofishingFieldsO_15548]]*
+
+> This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
+> -- *[[IndigenousBigriverFishesColora_18295]]*
+
 ## Mentioned In
 - [[AnnualReportOnUSBureauOfReclam_19117]]
 - [[BonytailChubsHeldAtWillowBeach_1993_05_13]]
@@ -47,3 +56,6 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 - [[StockingOfRazorbackSuckersInto_1993_06_19]]
 - [[SummaryOfLakeMohaveCollections_1993_05_19]]
 - [[WillowBeachRazorbackSuckers_1994_03_05]]
+- [[EffectsOfElectrofishingFieldsO_15544]]
+- [[EffectsOfElectrofishingFieldsO_15548]]
+- [[IndigenousBigriverFishesColora_18295]]

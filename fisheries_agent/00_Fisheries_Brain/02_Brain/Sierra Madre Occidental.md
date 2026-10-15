@@ -20,8 +20,12 @@ The Sierra Madre Occidental is a major physiographic and tectonic province in no
 > This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
 > -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
 
+> This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
+> -- *[[APetitionPursuantToArticleOfTh_17637]]*
+
 ## Mentioned In
 - [[MiseEnÉvidenceDUnGraniteSubvol_1981_12_14]]
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
 - [[TheNextParagraphIsMissingButTh_11894]]
 - [[ZoogeographicalAnalysisAndRevi_15920]]
+- [[APetitionPursuantToArticleOfTh_17637]]

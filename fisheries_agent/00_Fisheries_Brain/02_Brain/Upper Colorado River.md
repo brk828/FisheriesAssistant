@@ -23,6 +23,9 @@ The Upper Colorado River refers to the section of the Colorado River system abov
 > - **Habitat range**: The affected species occupy the mainstem and tributary reaches of the [[Upper Colorado River]] system, including the [[Green River]], [[Gunnison River]], [[Duchesne River]], [[Little Snake River]], and [[White River]], spanning multiple biological "strata" used for stratified...
 > -- *[[ThinkingTitleFromSubjectLineco_1997_05_29]]*
 
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
 ## Mentioned In
 - [[DesertFishesCouncilOverviewAnd_1974_07_26]]
 - [[DevelopAndRefineYearRoundFlowN_1993]]
@@ -34,3 +37,4 @@ The Upper Colorado River refers to the section of the Colorado River system abov
 - [[PopulationDifferentiationAndIn_1987]]
 - [[ReportsConcerningUpperColorado_1936_05_06]]
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
+- [[TentativeAgendaForTheUpperColo_15254]]

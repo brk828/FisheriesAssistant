@@ -26,6 +26,15 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 > This memorandum from Jack Williams to Paul Holden, W.L. Minckley, and Phil Pister proposes revisions to the [[Desert Fishes Council]] (DFC) Proceedings publication format and editorial structure. The proposal aims to reduce the burden on Phil Pister, improve timeliness, and enhance the professional...
 > -- *[[DesertFishesCouncilProceedings_12024]]*
 
+> This correspondence from [[Steven P. Platania]] at the [[University of New Mexico]] to Dr. W.L. Minckley at [[Arizona State University]] outlines organizational details for a [[Desert Fishes Council]]-sponsored "Fish Count" monitoring program. The letter, dated July 6, 1988, describes program...
+> -- *[[OctoberFishCount_18607]]*
+
+> This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
+> -- *[[CorrespondenceBetweenMinckleyA_16449]]*
+
+> This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
+> -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -122,3 +131,6 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 - [[ThinkingTitleIsALetterReviewin_12039]]
 - [[TwentyFirstAnnualDesertFishesC_1989_11_16]]
 - [[DesertFishesCouncilProceedings_12024]]
+- [[OctoberFishCount_18607]]
+- [[CorrespondenceBetweenMinckleyA_16449]]
+- [[UsfwsmexicoCooperativeProgramG_16498]]

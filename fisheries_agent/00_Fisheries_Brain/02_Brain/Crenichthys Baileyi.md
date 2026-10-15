@@ -11,8 +11,12 @@ Crenichthys baileyi, commonly known as the White River spinedace, is a small end
 > - **[[Cyprinodon diabolis]]** (Devils Hole pupfish) - **[[Empetrichthys latos]]** (Pahrump poolfish) - **[[Crenichthys baileyi]]** (White River springfish) - **[[Gila robusta jordani]]** (Pahranagat roundtail chub) - **[[Moapa coriacea]]** (Moapa dace) - **[[Cyprinodon nevadensis mionectes]]** (A...
 > -- *[[LetterFromJamesEDeaconToClarkH_1975_04_17]]*
 
+> This 1980 report by W. L. Minckley examines morphological variation in suckers of the genus [[Catostomus]] from the middle [[Colorado River]] region, including [[Grand Canyon]], [[Glen Canyon]], [[Virgin River]], and [[Little Colorado River]] basins. The study reveals that populations previously...
+> -- *[[MorphologicalVariationInCatost_13689]]*
+
 ## Mentioned In
 - [[ArtificialHybridizationOfCreni_14299]]
 - [[LetterFromJamesEDeaconToClarkH_1975_04_17]]
 - [[ResearchOnEndangeredFishesInTh_14023]]
 - [[TheAsianFishTapewormBothriocep_1993]]
+- [[MorphologicalVariationInCatost_13689]]

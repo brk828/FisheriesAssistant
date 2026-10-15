@@ -11,6 +11,10 @@ auto_enriched: true
 > Major hatcheries referenced include [[Darrah Springs]], [[San Joaquin Hatchery]], [[Fish Springs Hatchery]], [[Mojave River Hatchery]], [[Moccasin Creek Hatchery]], [[Trinity River Hatchery]], [[Nimbus Hatchery]], and [[Mokelumne River Fish Installation]].
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14866]]*
 
+> This administrative report documents record-breaking fish production from [[California Department of Fish and Game]] hatcheries during fiscal year 1966-67. Total production reached 52,167,408 fish weighing 2,380,115 pounds, representing the highest weight produced in thirteen years despite two...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_14867]]*
+
 ## Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
+- [[CaliforniaTroutSalmonAndWarmwa_14867]]

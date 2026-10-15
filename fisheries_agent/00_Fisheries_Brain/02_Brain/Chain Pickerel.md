@@ -26,6 +26,12 @@ Chain Pickerel (Esox niger) is a freshwater predatory fish species belonging to 
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This 1950s-era bulletin from the [[Massachusetts Division of Fisheries and Game]] addresses the growing problem of aquatic weed infestations in Commonwealth inland waters and evaluates various control methods. The document establishes that the Division does not assume responsibility for weed...
+> -- *[[WeedControlPossibilitiesInMass_14648]]*
+
+> This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
+> -- *[[TroutFishingAtCliffPondBrewste_15489]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -39,3 +45,5 @@ Chain Pickerel (Esox niger) is a freshwater predatory fish species belonging to 
 - [[SpringPickerelCensus_17801]]
 - [[WhyTheMassachusettsDivisionOfF_15491]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[WeedControlPossibilitiesInMass_14648]]
+- [[TroutFishingAtCliffPondBrewste_15489]]

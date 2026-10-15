@@ -14,7 +14,11 @@ The Bonytail Chub Recovery Plan is a U.S. Fish and Wildlife Service initiative d
 > - **Habitat types studied**: Backwater habitats and higher-velocity run habitats within the [[Green River]], representative of natural bonytail chub habitat in the Colorado River Basin. - **Captive-to-wild transition**: The study is framed around the [[Bonytail Chub Recovery Plan]] (USFWS 1990), ...
 > -- *[[EvaluationOfPreIntroductionStr_16534]]*
 
+> This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
+> -- *[[NoticeOfIntentToSueForViolatio_20521]]*
+
 ## Mentioned In
 - [[ColoradoRiverBoardOfCalifornia_1997_07_25]]
 - [[EvaluationOfPreIntroductionStr_16534]]
 - [[ReviewOfAgencyDraftOfTheBonyta_1988_08_02]]
+- [[NoticeOfIntentToSueForViolatio_20521]]

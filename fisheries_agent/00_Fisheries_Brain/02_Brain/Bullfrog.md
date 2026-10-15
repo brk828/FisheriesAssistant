@@ -23,6 +23,9 @@ In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates cates
 > This 1986 study by Clarkson and DeVos investigated the ecology of the introduced [[Bullfrog]] (*Rana catesbeiana*) along the [[Lower Colorado River]] between Laguna and Morelos Dams (the "Yuma Division"), Arizona-California. Conducted in summer 1981, the research quantified bullfrog density, habi...
 > -- *[[TheBullfrogRanaCatesbeianaShaw_1986]]*
 
+> This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
+> -- *[[TechnicalReviewDraftPahranagat_13301]]*
+
 ## Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[FoodsOfImpoundmentAndStreamDwe_1963]]
@@ -31,3 +34,4 @@ In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates cates
 - [[ReDesertPupfishInhabitingCheet_11816]]
 - [[SamplingOfTheSanCarlosIrrigati_11695]]
 - [[TheBullfrogRanaCatesbeianaShaw_1986]]
+- [[TechnicalReviewDraftPahranagat_13301]]

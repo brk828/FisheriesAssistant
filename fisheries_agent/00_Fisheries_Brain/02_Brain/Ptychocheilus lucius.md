@@ -23,6 +23,12 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 > Additionally, the **Willow Beach National Fish Hatchery** had successfully reared **[[Xyrauchen texanus]]** (razorback sucker) and **[[Ptychocheilus lucius]]** (Colorado pikeminnow), and was attempting propagation of **[[Gila elegans]]** (bonytail chub) that same spring. The **Phoenix Zoo** had a...
 > -- *[[LetterFromJamesEDeaconToClarkH_1975_04_17]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
+> This 1972 Master's thesis reports the first identification of the tapeworm *Ophiotaenia fragilus* from the [[Colorado River Squawfish]] (*Ptychocheilus lucius*), a native cyprinid that has experienced dramatic population decline over 30 years. Thirty-nine cestode specimens were recovered from the...
+> -- *[[AnIntestinalCestodeOfTheColora_13882]]*
+
 ## Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[ColoradoRiverLowerBasinFisheri_1995_03_30]]
@@ -45,3 +51,5 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[UpperBasinStuff_20272]]
+- [[DistributionalAndLocalVernacul_13815]]
+- [[AnIntestinalCestodeOfTheColora_13882]]

@@ -23,6 +23,18 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 > - **[[Longfin Dace]] (*Agosia chrysogaster*)** — small-bodied [[Cyprinidae|cyprinid]] minnow, genetic study target. - **[[Desert Sucker]] (*Pantosteus clarki*)** — [[Catostomidae|catostomid]] with subterminal, cartilaginous-edged mouth typical of algae-grazing suckers. - **[[Sonora Sucker]] (*Cat...
 > -- *[[EagleCreekSamplingSummer_1993_07_20]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
+> -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
+
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
+> This 1982 research proposal, submitted by Linda Ulmer (California Department of Fish and Game) to the U.S. Fish and Wildlife Service, outlines a two-phase electrophoretic study to assess genetic purity of [[Razorback Sucker]] (*Xyrauchen texanus*) breeding stocks. The study addresses concerns that...
+> -- *[[LetterToJimJohnsonWithEncolose_11425]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -72,3 +84,7 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 - [[VerdeRiverFishResearch_1998_02_17]]
 - [[VerdeRiverFishSampling_1989_03_06]]
 - [[VerdeRiverTemperatureRecorderD_1992_04_02]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[SummaryOfFyFishSurveysInBehalf_17018]]
+- [[ReportOfTheOctoberFishCount_11417]]
+- [[LetterToJimJohnsonWithEncolose_11425]]

@@ -23,6 +23,9 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 > - **[[Yaqui Chub]]** (*Gila purpurea*): Native cyprinid, small-bodied; small individuals reportedly capable of passing through 1/2-inch gill net mesh, suggesting a slender body form conducive to escapement. - **[[Bluegill]]** (*Lepomis macrochirus*): Introduced centrarchid, laterally compressed s...
 > -- *[[FisheriesSurveyOfTheChiricahua_1994_10_01]]*
 
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
 ## Mentioned In
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -44,3 +47,4 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 - [[TripReportForTheAprilSurveyOfT_1996_04_11]]
 - [[TripReportForTheDecemberSurvey_1994_12_01]]
 - [[TripReportForTheJulySurveyOfTh_1994_09_01]]
+- [[EndangeredAndThreatenedWildlif_11580]]

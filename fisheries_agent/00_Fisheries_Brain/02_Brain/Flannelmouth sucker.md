@@ -23,6 +23,27 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > | Rank | Species | % of Collection | Number Collected | |------|---------|------------------|-------------------| | 1 | Humpback Chub (*Gila cypha*) | 47.4 | 87 | | 2 | [[Flannelmouth Sucker]] | 30.4 | 56 | | 3 | [[Speckled Dace]] | 11.9 | 22 | | 4 | [[Common Carp]] | 5.9 | 11 | | 5 | [[Channel C...
 > -- *[[AdditionalStudiesOnTheLittleCo_18500]]*
 
+> This draft Conservation Agreement addresses the proposed listing of [[Virgin Spinedace]] (*Lepidomeda mollispinis*) as a threatened species under the Endangered Species Act of 1973. The [[Virgin Spinedace]] is a small cyprinid minnow endemic to the [[Virgin River]] drainage in southwestern Utah,...
+> -- *[[DraftConservationAgreementForV_13234]]*
+
+> This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
+> -- *[[EndangeredAndThreatenedWildlif_11580]]*
+
+> This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
+> -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
+
+> This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
+> -- *[[MitochondrialDnaDiversityWithi_19127]]*
+
+> This 1982 research proposal, submitted by Linda Ulmer (California Department of Fish and Game) to the U.S. Fish and Wildlife Service, outlines a two-phase electrophoretic study to assess genetic purity of [[Razorback Sucker]] (*Xyrauchen texanus*) breeding stocks. The study addresses concerns that...
+> -- *[[LetterToJimJohnsonWithEncolose_11425]]*
+
+> This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
+> -- *[[EndangeredAndThreatenedWildlif_11592]]*
+
+> This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
+> -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -133,3 +154,10 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 - [[VirginRiverRecoveryTeamMeeting_1997_04_25]]
 - [[VrrtNoticeAndMeetingMinutes_20253]]
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
+- [[DraftConservationAgreementForV_13234]]
+- [[EndangeredAndThreatenedWildlif_11580]]
+- [[TheRazorbackSuckerXyrauchenTex_15245]]
+- [[MitochondrialDnaDiversityWithi_19127]]
+- [[LetterToJimJohnsonWithEncolose_11425]]
+- [[EndangeredAndThreatenedWildlif_11592]]
+- [[FyAnnualProjectReportEarlyBiol_18213]]

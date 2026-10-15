@@ -23,6 +23,12 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 > This inter-office memo from the Arizona Game and Fish Department documents a 1998 stock tank survey conducted in the [[O'Donnell Creek]] and [[Turkey Creek]] watersheds of Region V, Arizona. Of the stock tanks surveyed, only two contained water at the time of survey, both located in the Turkey Cr...
 > -- *[[ODonnellWatershedStockTankSurv_16516]]*
 
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[AravaipaShinerSurveyJuly_1998_07_10]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -37,3 +43,5 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 - [[ODonnellWatershedStockTankSurv_16516]]
 - [[PreliminaryEvaluationOfGilaPur_16886]]
 - [[SouthwestCenterSSupplementalAn_18100]]
+- [[ReportOfTheOctoberFishCount_11417]]
+- [[TentativeSummaryOfCollectingAc_13171]]

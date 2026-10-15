@@ -23,6 +23,9 @@ In the context of fish science and aquatic ecology, California refers to the geo
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
+> -- *[[FisheryInventoryOfTheCoachella_13687]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[RainbowSmeltIntroductionIntoLa_1989]]
@@ -30,3 +33,4 @@ In the context of fish science and aquatic ecology, California refers to the geo
 - [[LectureNotesFromBiologyClass_13784]]
 - [[SeriesOfInterofficeMemosJulyAr_17328]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[FisheryInventoryOfTheCoachella_13687]]

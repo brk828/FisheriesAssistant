@@ -17,7 +17,15 @@ Elephant Butte Reservoir is a large impoundment on the Rio Grande in New Mexico 
 > - **Reservoir and tailwater habitats**: Distinct fish communities are recognized across a chain of connected but ecologically distinct habitats: - [[Lake Havasu]] and its tailwater - [[Lake Mohave]] - [[Lake Mead]] - [[Lake Powell]] and the [[Lee's Ferry Tailwater]] - [[CAP Canal]] and other inla...
 > -- *[[FirstAnnualMeeting_1993_11_30]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 20, 1994, listing the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the Endangered Species Act of 1973. This cyprinid fish, historically one of the most abundant and widespread fishes in the...
+> -- *[[EndangeredAndThreatenedWildlif_11651]]*
+
+> This 1994 status assessment documents the dramatic decline of native fish fauna in the [[Middle Rio Grande]] between Espanola and [[Elephant Butte Reservoir]], New Mexico. Of 45 fish species known historically, only 17 (38%) are native, with 6 (11%) endemic to the system. Seven native species have...
+> -- *[[FishFaunaOfTheMiddleRioGrandeS_15005]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
 - [[FirstAnnualMeeting_1993_11_30]]
+- [[EndangeredAndThreatenedWildlif_11651]]
+- [[FishFaunaOfTheMiddleRioGrandeS_15005]]

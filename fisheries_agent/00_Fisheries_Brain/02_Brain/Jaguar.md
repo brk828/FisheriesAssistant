@@ -14,6 +14,10 @@ auto_enriched: true
 > - **Federal Endangered Species Act listings** apply to: [[Sonoran Pronghorn]], [[Mexican Gray Wolf]], [[Ocelot]], [[Jaguar]] — all listed as "endangered." - **No federal or state listing** currently applies to [[Mule Deer]], [[Mountain Lion]], or the [[Jaguarundi]] (though jaguarundi sightings re...
 > -- *[[UmbrellacorridorDesignSpeciesP_1999_07_07]]*
 
+> This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
+> -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
+
 ## Mentioned In
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
+- [[ReContinuationOfTheUsArmysSanP_11808]]

@@ -8,6 +8,10 @@ auto_enriched: true
 > - **[[Gila Topminnow]]** (*Poeciliopsis occidentalis*): Collected from two distinct Arizona habitats — [[Redrock Canyon]] (Santa Cruz County) and [[Cave Creek]] (Maricopa County) — indicating a distribution across small desert stream systems associated with the [[Sonoran Desert]] riparian corrido...
 > -- *[[ReportOfEndangeredSpeciesColle_1993_01_07]]*
 
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[ReportOfEndangeredSpeciesColle_1993_01_07]]
 - [[SpeciesAccountRhinichthysOscul_13165]]
+- [[TentativeSummaryOfCollectingAc_13171]]

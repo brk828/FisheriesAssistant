@@ -26,6 +26,9 @@ The Chesapeake Bay is a major Atlantic estuarine system and historically signifi
 > This laboratory and field study quantified how prey-to-predator size ratio (PPR) affects foraging success in [[Striped Bass]] (*Morone saxatilis*). Capture success declined linearly with increasing PPR (attack success = 0.861 - 1.82PPR), while handling time increased exponentially (h =...
 > -- *[[TheInfluenceOfSizeOnStripedBas_2000]]*
 
+> This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
+> -- *[[DraftliteratureReviewOfTheStri_15768]]*
+
 ## Mentioned In
 - [[AnEvaluationOfStripedBassAngli_1969]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -36,3 +39,4 @@ The Chesapeake Bay is a major Atlantic estuarine system and historically signifi
 - [[StationProfileOfTheB_1993]]
 - [[UseOfMSInAnesthetizingAndTrans_11291]]
 - [[TheInfluenceOfSizeOnStripedBas_2000]]
+- [[DraftliteratureReviewOfTheStri_15768]]

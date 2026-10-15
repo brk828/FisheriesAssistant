@@ -23,6 +23,9 @@ Campostoma anomalum, commonly known as the central stoneroller, is a small cypri
 > This study investigates the **indirect effects of fish chemical cues (skin mucus)** on the foraging behaviour of the facultative shredder isopod *[[Lirceus fontinalis]]*, and how fish-induced behavioural changes cascade to affect **leaf litter processing** in low-order streams. Rather than a dire...
 > -- *[[IndirectEffectsOfFishOnForagin_1992]]*
 
+> This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
+> -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
+
 ## Mentioned In
 - [[ASimpleSystemOfReplicatedRecir_15208]]
 - [[ChecklistOfPecosRiverAndMexica_18282]]
@@ -33,3 +36,4 @@ Campostoma anomalum, commonly known as the central stoneroller, is a small cypri
 - [[ReviewOfFreshwaterFishesOfCana_17244]]
 - [[SurvivalAndAbundanceOfIntroduc_14259]]
 - [[WhyLinkSpeciesAndEcosystemsAPe_1994]]
+- [[EffectsOfOilRefineryAndDomesti_11169]]

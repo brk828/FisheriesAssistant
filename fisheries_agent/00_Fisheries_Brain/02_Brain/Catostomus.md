@@ -23,6 +23,9 @@ Catostomus is a genus of freshwater suckers (family Catostomidae) native to Nort
 > This volume compiles Occasional Papers 639–669 from the University of Michigan Museum of Zoology, spanning mammalogy, herpetology, ornithology, entomology, malacology, and — most relevant here — **ichthyology and paleoichthyology**. Six papers within this range treat fish taxa directly: the phylo...
 > -- *[[OccasionalPapersOfTheMuseumOfZ_1965]]*
 
+> This 1980 report by W. L. Minckley examines morphological variation in suckers of the genus [[Catostomus]] from the middle [[Colorado River]] region, including [[Grand Canyon]], [[Glen Canyon]], [[Virgin River]], and [[Little Colorado River]] basins. The study reveals that populations previously...
+> -- *[[MorphologicalVariationInCatost_13689]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -36,3 +39,4 @@ Catostomus is a genus of freshwater suckers (family Catostomidae) native to Nort
 - [[SpawningOfTheDesertSucker_1987]]
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[MorphologicalVariationInCatost_13689]]

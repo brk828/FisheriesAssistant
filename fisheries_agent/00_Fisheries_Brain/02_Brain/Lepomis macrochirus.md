@@ -17,6 +17,9 @@ auto_enriched: true
 > This paper by Charles F. Cole reports a year-round creel census conducted from August 1957 through December 1961 on **Lake Fort Smith**, a 525-acre oligotrophic water supply reservoir in the Boston Mountains of Arkansas. The study was initiated because the lake's fishing reputation had declined, ...
 > -- *[[TheSportFisheryInAnArkansasWat_1968_10_21]]*
 
+> This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
+> -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 - [[StationProfileOfMeri_19533]]
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
+- [[EffectsOfOilRefineryAndDomesti_11169]]

@@ -26,6 +26,9 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 > This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
 > -- *[[AmericanRiversStacMeetingOfJun_17977]]*
 
+> This March 1994 policy document from the [[U.S. Fish and Wildlife Service]] outlines the agency's adoption of an ecosystem approach to conserve the nation's biological diversity more effectively. The approach emphasizes protecting or restoring ecosystem function, structure, and species composition...
+> -- *[[AnEcosystemApproachToFishAndWi_11650]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -38,3 +41,4 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
+- [[AnEcosystemApproachToFishAndWi_11650]]

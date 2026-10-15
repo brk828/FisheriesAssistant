@@ -23,6 +23,18 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 > - **Colorado River Basin mainstem/tributary specialists**: [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail Chub]] (*Gila elegans*, implied by title context) — large-river, turbid, warm-water habitats. - **Sm...
 > -- *[[AttachedDraftListOfSpeciesAssi_14772]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
+> -- *[[MolecularVariationAndEvolution_18435]]*
+
+> The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
+> -- *[[ReportOfTheOctoberFishCount_11417]]*
+
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AfaPolicyMemorandumOnHybrids_1984_02_10]]
@@ -120,3 +132,7 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 - [[TheSantaCatalinaMountainsEcolo_1967_03_10]]
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
 - [[WildlifeConservationActAmendme_1995]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[MolecularVariationAndEvolution_18435]]
+- [[ReportOfTheOctoberFishCount_11417]]
+- [[TentativeSummaryOfCollectingAc_13171]]

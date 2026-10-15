@@ -23,7 +23,11 @@ Blue Springs refers to a significant spring-influenced site located at river mil
 > - **Critical habitat as proposed (8 miles of LCR) is argued to be biologically inadequate**, failing to secure the species against upstream water development impacts or to support a future "jeopardy" or "destruction/adverse modification" finding under Section 7 of the Endangered Species Act. - Th...
 > -- *[[CommentsOnProposedCriticalHabi_1994_01_25]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
 ## Mentioned In
 - [[BlueSpringsMiLittleColoradoRiv_1971]]
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[HabitatUseByHumpbackChubGilaCy_1991]]
+- [[TheColoradoRiverFishesRecovery_11196]]

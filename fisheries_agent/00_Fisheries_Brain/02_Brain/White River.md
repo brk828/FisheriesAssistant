@@ -23,6 +23,18 @@ The White River refers to a river system in the south-central United States (pri
 > - **[[Colorado Squawfish]]**: A large-river piscivore requiring extensive, undammed river segments to complete its life cycle. Notably does **not** concentrate in discrete locales; adults undertake long-distance migrations to spawning grounds, and larvae drift long distances to reach nursery habi...
 > -- *[[ProposalToConductPopulationVia_1991_08_01]]*
 
+> This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
+> -- *[[TechnicalReviewDraftPahranagat_13301]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
+> This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
+> -- *[[TentativeAgendaForTheUpperColo_15254]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -49,3 +61,7 @@ The White River refers to a river system in the south-central United States (pri
 - [[TripReportWhiteRiver_1988_09_19]]
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
+- [[TechnicalReviewDraftPahranagat_13301]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[TentativeAgendaForTheUpperColo_15254]]

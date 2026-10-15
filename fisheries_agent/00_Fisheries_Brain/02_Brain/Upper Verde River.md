@@ -17,7 +17,11 @@ The Upper Verde River is a segment of the Verde River system in Arizona that ser
 > This document is an internal USDA Forest Service transmittal (Tonto National Forest, dated 1998) summarizing a fish and habitat survey of the **[[Upper Verde River]]** conducted in **spring 1998** by the **[[Rocky Mountain Research Station]]**, in cooperation with the Arizona Game and Fish Depart...
 > -- *[[VerdeRiverFishResearch_1998]]*
 
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
 ## Mentioned In
 - [[FormalSectionConsultationCentr_1988_10_28]]
 - [[LetterToDrWLMinckleyRegardingA_1985_04_15]]
 - [[VerdeRiverFishResearch_1998]]
+- [[RecoveryEffortsForBonytailChub_11837]]

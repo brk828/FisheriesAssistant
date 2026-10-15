@@ -23,6 +23,9 @@ The Shortnose Gar (*Lepisosteus platostomus*) is a primitive holostean fish spec
 > - **Species richness:** 38 species plus one hybrid documented; dominant taxa were cyprinids (minnows/shiners). - **Most abundant species:** [[Bluntnose Minnow]] (*Pimephales notatus*) — 27.8% of total catch; primarily a bottom feeder on dipterous larvae, ooze, and plant material; spawns after Jun...
 > -- *[[FishesOfKinkaidCreekIllinois_14812]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -30,3 +33,4 @@ The Shortnose Gar (*Lepisosteus platostomus*) is a primitive holostean fish spec
 - [[EvaluationOfCommercialFishingB_16036]]
 - [[FishesOfKinkaidCreekIllinois_14812]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

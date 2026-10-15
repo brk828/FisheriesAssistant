@@ -26,6 +26,12 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> This 1980 report by W. L. Minckley examines morphological variation in suckers of the genus [[Catostomus]] from the middle [[Colorado River]] region, including [[Grand Canyon]], [[Glen Canyon]], [[Virgin River]], and [[Little Colorado River]] basins. The study reveals that populations previously...
+> -- *[[MorphologicalVariationInCatost_13689]]*
+
+> This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
+> -- *[[RiverResourceMonitoringProject_18503]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[FishHandlingAssessmentOnGrandC_1991_09_05]]
@@ -44,3 +50,5 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 - [[SurrogateSpeciesSelectionForPh_1981_05_07]]
 - [[TransmittalOfNavajoNationLittl_1992_11_17]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[MorphologicalVariationInCatost_13689]]
+- [[RiverResourceMonitoringProject_18503]]

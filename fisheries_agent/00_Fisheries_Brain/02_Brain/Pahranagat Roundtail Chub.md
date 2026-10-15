@@ -14,7 +14,11 @@ The Pahranagat Roundtail Chub is a cyprinid (minnow family) fish species endemic
 > - **Salmonids**: [[Apache Trout]] (Threatened), [[Gila Trout]] (Endangered), Brook Trout, Brown Trout, Rainbow Trout - **Catostomids (suckers)**: [[Razorback Sucker]] (Endangered), [[Warner Sucker]] - **Cyprinids (minnows/chubs)**: [[Colorado Squawfish]], [[Bonytail]] (Endangered), [[Chihuahua Ch...
 > -- *[[FisheriesFieldStationSummarySo_1996]]*
 
+> This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
+> -- *[[TechnicalReviewDraftPahranagat_13301]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[FisheriesFieldStationSummarySo_1996]]
 - [[LetterOnCuiUiRecoveryPlanForma_1989_08_21]]
+- [[TechnicalReviewDraftPahranagat_13301]]

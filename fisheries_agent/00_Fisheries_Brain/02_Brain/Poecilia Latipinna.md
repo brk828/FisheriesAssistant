@@ -17,6 +17,10 @@ auto_enriched: true
 > **Braunig Reservoir (power-plant cooling reservoir, sampled Sept. 29, 1977):** - 14 total species; 7 likely native (*Dorosoma cepedianum, D. petenense, Pimephales vigilax, Gambusia affinis, Lepomis cyanellus, L. megalotis, L. macrochirus*), 1 possibly native (*Notemigonus crysoleucas*). - **[[Cyp...
 > -- *[[SurvivalAndAbundanceOfIntroduc_14259]]*
 
+> This 1967 NSF proposal requests continuation funding ($32,370.56 for one year) for a multidisciplinary systematic study of [[Poecilia]] species in northeastern Mexico, with particular focus on the all-female gynogenetic species [[Poecilia formosa]] (Amazon Molly). The research team led by Rezneat...
+> -- *[[SystematicsOfPoeciliaInNorthea_13950]]*
+
 ## Mentioned In
 - [[LetterToPeterBMoyleOnColoradoR_13792]]
 - [[SurvivalAndAbundanceOfIntroduc_14259]]
+- [[SystematicsOfPoeciliaInNorthea_13950]]

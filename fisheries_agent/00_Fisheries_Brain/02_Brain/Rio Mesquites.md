@@ -14,6 +14,10 @@ auto_enriched: true
 > - **Invasive taxon:** *Tilapia* spp. (African cichlids, family Cichlidae), noted as a "prolific and desirable food fish" under controlled aquaculture but a severe ecological liability when released into open waters. - **First detection:** Paul Marsh and the letter's author discovered tilapias in ...
 > -- *[[AfricanCichlidsGenusTilapiaInL_13767]]*
 
+> This letter from W.L. Minckley ([[Arizona State University]]) to Dr. Robert R. Miller ([[University of Michigan]]) dated June 30, 1988, addresses the discovery of [[Tilapia]] introduction into the [[Cuatro Cienegas]] basin in Mexico. Minckley outlines his position on appropriate response protocols,...
+> -- *[[TilapiaInCuatroCienegas_13761]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[AlonzoRiosContreras_20775]]
+- [[TilapiaInCuatroCienegas_13761]]

@@ -14,9 +14,13 @@ Leslie Creek is a tributary of Whitewater Draw within the Rio Yaqui drainage sys
 > - **Preferred habitat**: shallow water (<20 cm depth), warm temperatures (>20° C), with adults concentrated below riffles in areas of moderate current and within algal mats along margins of flowing streams. Substrate in existing habitats is generally sandy. - **Juveniles**: more often found in th...
 > -- *[[YaquiTopminnowDraftRecoveryPla_1979]]*
 
+> This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
+> -- *[[TentativeSummaryOfCollectingAc_13171]]*
+
 ## Mentioned In
 - [[IntraServiceBiologicalAndConfe_1998_04_14]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
 - [[PreliminaryEvaluationOfGilaPur_16886]]
 - [[ReEvaluationOfTheNativeFishesO_12336]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
+- [[TentativeSummaryOfCollectingAc_13171]]

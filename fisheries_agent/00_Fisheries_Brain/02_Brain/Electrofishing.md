@@ -23,6 +23,9 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 > This technical paper, presented by Alexis E. Knight of the U.S. Fish and Wildlife Service at the 1978 [[Electrofishing Workshop]] in Minneapolis, MN, provides practical engineering guidance for the design, construction, and safe operation of [[Electrofishing]] equipment used in fisheries sampling...
 > -- *[[ElectrofishingConstructionPrac_1978_03_09]]*
 
+> Two Oklahoma State University zoology professors, Dr. Troy C. Dorris and Dr. Robert C. Summerfelt, conducted a three-week study of fish populations in [[Lake Atitlan]], [[Guatemala]], in 1967 to address perceived fish shortages affecting the community of [[Santiago Atitlan]] (population 14,000)....
+> -- *[[FishPlentifulInGuatemalaLake_19070]]*
+
 ## Mentioned In
 - [[ANonlethalTechniqueToRecoverGu_1994]]
 - [[ASimpleTransportableLakeShocke_1966]]
@@ -38,3 +41,4 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 - [[QualitativeAndQuantitativeAppl_20856]]
 - [[SelectedReferencesOnElectrofis_1980_05_06]]
 - [[TheUseOfRotenoneAndElectrofish_17705]]
+- [[FishPlentifulInGuatemalaLake_19070]]

@@ -26,6 +26,15 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
 > -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
+> -- *[[MinutesDesertFishesRecoveryTea_15843]]*
+
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
+> This paper reviews Quaternary paleoclimatic trends along the [[Pacific Coast]] of [[North America]], emphasizing long-term cooling and increasing aridity from the Tertiary through the Pleistocene to Recent times. [[Carl L. Hubbs]] synthesizes evidence from paleobotany, paleontology, archaeology,...
+> -- *[[QuaternaryPaleoclimatologyOfTh_14159]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -69,3 +78,6 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[UseOfFloodplainHabitatByAgeRaz_16530]]
 - [[UsfwsLetterRegardingProposedEn_1990_07_09]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[MinutesDesertFishesRecoveryTea_15843]]
+- [[DistributionalAndLocalVernacul_13815]]
+- [[QuaternaryPaleoclimatologyOfTh_14159]]

@@ -23,6 +23,9 @@ The Longnose Dace (*Rhinichthys cataractae*) is a small cyprinid minnow commonly
 > - **Species-dependent infection severity**: [[Pearl Dace]] consistently showed the lowest infection rates and intensity of all species examined, at both locations and on all sampling dates. - **Heavily infected species**: [[Blacknose Dace]], [[Longnose Dace]], and [[Creek Chub]] all exhibited hig...
 > -- *[[VariabilityOfInfectionOfBlackS_1959]]*
 
+> This comprehensive study assessed ecological suitability for two imperiled Rio Grande basin fishes—[[Rio Grande Chub]] (*Gila pandora*) and [[Rio Grande Sucker]] (*Pantosteus plebeius*)—using dual modeling approaches across their overlapping ranges in Colorado and New Mexico. Researchers conducted...
+> -- *[[SiteAndLandscapescaleEstimates_2026]]*
+
 ## Mentioned In
 - [[BreedingBiologyOfTheLakeChubCo_1970]]
 - [[FishesOfTheHeadwatersOfShavers_11342]]
@@ -31,3 +34,4 @@ The Longnose Dace (*Rhinichthys cataractae*) is a small cyprinid minnow commonly
 - [[LifeHistoryNotesRelevantToTheC_11254]]
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[VariabilityOfInfectionOfBlackS_1959]]
+- [[SiteAndLandscapescaleEstimates_2026]]

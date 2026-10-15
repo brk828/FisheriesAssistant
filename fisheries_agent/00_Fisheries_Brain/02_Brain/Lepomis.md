@@ -23,6 +23,9 @@ Lepomis is a genus of centrarchid fishes commonly known as sunfish, which are sm
 > - **[[Lepomis cyanellus]]** (green sunfish, family [[Centrarchidae]]) — a predatory fish species used as a confined mucus-cue source in leaf-processing trials. - **[[Lepomis]]** spp. (sunfish, [[Centrarchidae]]) — generally predatory feeding habit; mucus cues elicited the strongest isopod activit...
 > -- *[[IndirectEffectsOfFishOnForagin_1992]]*
 
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[DonTThrowGrandpaBack_14198]]
 - [[IndirectEffectsOfFishOnForagin_1992]]
@@ -32,3 +35,4 @@ Lepomis is a genus of centrarchid fishes commonly known as sunfish, which are sm
 - [[ReviewCommentsOnPreliminaryDra_1996_06_28]]
 - [[SexRatiosAquaticAnimals_13946]]
 - [[YoungFishDistributionInBackwat_1989]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]

@@ -23,6 +23,9 @@ The Gulf of California is a biogeographically significant marine basin in northw
 > - **Deep oceanic barrier**: The broad expanse of open ocean between the New World and Indo-Pacific realm has produced a sharp faunal contrast (per [[Ekman's Biogeographic Model]]), limiting coral-reef fauna in the eastern Pacific. - **Current-mediated connectivity**: The [[Equatorial Counter-curr...
 > -- *[[InfluenceOfLandMassesOnTheDist_14157]]*
 
+> This study documents the distribution patterns of [[Striped Mullet]] (Mugil cephalus) in the [[Colorado River]] and [[Gulf of California]] during 1967-1968, revealing evidence of upstream migration and questioning traditional understanding of salinity requirements for spawning. Collections from...
+> -- *[[DifferentialDistributionOfTheS_19750]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -43,3 +46,4 @@ The Gulf of California is a biogeographically significant marine basin in northw
 - [[ReminiscencesOfASouthernTrip_17598]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 - [[USDryingUpMexicanWetlands_1996_04_30]]
+- [[DifferentialDistributionOfTheS_19750]]

@@ -23,7 +23,11 @@ The Rio Grande Killifish (*Fundulus zebrinus*) is a small cyprinodontid fish nat
 > - **Reproduction confirmed (via young-of-year/juveniles) in:** - All four native species: [[Speckled Dace]], [[Bluehead Sucker]], [[Flannelmouth Sucker]], [[Bonytail Chub]] - Three exotic species: [[Fathead Minnow]], [[Rio Grande Killifish]], [[Rainbow Trout]] - Reproducing rainbow trout populati...
 > -- *[[SummerDistributionAndReproduct_18541]]*
 
+> The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
+> -- *[[EndangeredAndThreatenedWildlif_11564]]*
+
 ## Mentioned In
 - [[GlenCanyonEnvironmentalStudies_19698]]
 - [[NotesOnTheFishesOfTheColoradoR_13441]]
 - [[SummerDistributionAndReproduct_18541]]
+- [[EndangeredAndThreatenedWildlif_11564]]

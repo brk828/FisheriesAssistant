@@ -17,7 +17,15 @@ Defenders of Wildlife is a prominent conservation organization that has actively
 > - **Ecosystem in focus**: The [[Colorado River Delta]]-[[Upper Gulf Of California]] system, described in the letter as a "vital ecosystem and its communities," implying recognition of interconnected freshwater, estuarine, and marine habitats. - **Binational context**: The workshop emphasized that...
 > -- *[[LetterSummarizingTheColoradoRi_1997_11_19]]*
 
+> This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
+> -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
+
+> This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
+> -- *[[NoticeOfIntentToSueForViolatio_20521]]*
+
 ## Mentioned In
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
 - [[WhatIsAmericanRiversDoingInThe_1997]]
+- [[AgendaAttendeesAndSummariesOfP_14401]]
+- [[NoticeOfIntentToSueForViolatio_20521]]

@@ -23,6 +23,9 @@ Tilapia mossambica is a cichlid fish species widely utilized in aquaculture and 
 > - **Habitat**: Quarter-acre experimental fertilized ponds (fertility treatments: 0-0-0, 0-8-2, and 8-8-2 N-P-K, four replicates each) and natural streams used for comparative and pollution-related studies. - **Trophic structure examined**: - Basic productivity (light/dark bottle methods, chloroph...
 > -- *[[SamplingBenthosToEstimateProdu_12795]]*
 
+> This administrative report presents a comprehensive bibliography of 213 selected references on [[Tilapia mossambica]] (Mozambique Tilapia), compiled by the California Department of Fish and Game, Region 5, Inland Fisheries in January 1967. The bibliography encompasses all significant papers known...
+> -- *[[BibliographyOfPublicationsConc_14697]]*
+
 ## Mentioned In
 - [[ComparativeEvaluationOfTwoTila_15110]]
 - [[EstablishmentOfTilap_1970]]
@@ -32,3 +35,4 @@ Tilapia mossambica is a cichlid fish species widely utilized in aquaculture and 
 - [[GrowthRatesOfPaddlef_15095]]
 - [[PreliminaryReportOnTheMalaccaT_12279]]
 - [[SamplingBenthosToEstimateProdu_12795]]
+- [[BibliographyOfPublicationsConc_14697]]

@@ -26,6 +26,9 @@ Coho Salmon (*Oncorhynchus kisutch*) are anadromous salmonids native to North Pa
 > This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
 > -- *[[AConservationorientedClassific_15455]]*
 
+> This study documents the persistence and decomposition of dead [[Pink Salmon]] (Oncorhynchus gorbuscha) eggs and larvae in [[Sashin Creek]], [[Baranof Island]], [[Alaska]] from October 1961 through March 1963. Researchers tracked the 1961 brood year to determine whether residual dead eggs remained...
+> -- *[[DisappearanceOfDeadPinkSalmonE_12341]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[APopulationOfDwarfCoastrangeSc_1960]]
@@ -52,3 +55,4 @@ Coho Salmon (*Oncorhynchus kisutch*) are anadromous salmonids native to North Pa
 - [[UseOfGeneticMarksToAssessStock_11327]]
 - [[WaterRequirementsOfSalmonids_12413]]
 - [[AConservationorientedClassific_15455]]
+- [[DisappearanceOfDeadPinkSalmonE_12341]]

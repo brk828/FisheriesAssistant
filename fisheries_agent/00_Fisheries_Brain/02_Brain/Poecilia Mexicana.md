@@ -14,7 +14,11 @@ Poecilia mexicana is a livebearer fish species native to Mexico that inhabits fr
 > - **[[Lake Quitzeo]] / Rio Quitzeo (Michoacán, ~6,000 ft elevation):** A high-elevation lake system supporting an endemic poeciliid (*Platypoecilus quitzeoensis*), as well as *[[Leuciscus nigrescens]]* (with well-developed eggs, suggesting local breeding), *[[Chirostoma jordani]]*, *[[Fundulus ro...
 > -- *[[NotesOnACollectionOfFishesFrom_15665]]*
 
+> This 1967 NSF proposal requests continuation funding ($32,370.56 for one year) for a multidisciplinary systematic study of [[Poecilia]] species in northeastern Mexico, with particular focus on the all-female gynogenetic species [[Poecilia formosa]] (Amazon Molly). The research team led by Rezneat...
+> -- *[[SystematicsOfPoeciliaInNorthea_13950]]*
+
 ## Mentioned In
 - [[LetterToPeterBMoyleOnColoradoR_13792]]
 - [[NotesOnACollectionOfFishesFrom_15665]]
 - [[TheAsianFishTapewormBothriocep_1993]]
+- [[SystematicsOfPoeciliaInNorthea_13950]]

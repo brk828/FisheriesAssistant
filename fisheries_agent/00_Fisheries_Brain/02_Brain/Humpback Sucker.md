@@ -23,6 +23,9 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 > This document is a 1994 memo from Bob Wiley (Wyoming fisheries biologist) to Phil Pister, forwarding a 1993 letter Wiley wrote to Secretary of the Interior Bruce Babbitt. Rather than presenting primary morphological or survey data, the letter is a policy-oriented ecological argument concerning th...
 > -- *[[MemoOnDesertFishesCouncilRevie_1994_05_11]]*
 
+> This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
+> -- *[[BiologicalAssessmentOfTheImpac_16261]]*
+
 ## Mentioned In
 - [[ArthropodsAndVertebratesOfAriz_16220]]
 - [[ChangesInNativeFishDistributio_1973]]
@@ -31,3 +34,4 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 - [[MemoOnDesertFishesCouncilRevie_1994_05_11]]
 - [[NotesOnTheFishesOfTheColoradoR_13441]]
 - [[SpecialFisheriesReportOnProjec_1961_11_16]]
+- [[BiologicalAssessmentOfTheImpac_16261]]

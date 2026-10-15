@@ -23,6 +23,9 @@ Cuatro Ciénegas is a globally significant desert spring ecosystem in the Chihua
 > This 1986 letter from the [[Desert Fishes Council]] to Dr. M.J.P. van Oijen of the Rijksmuseum van Naturlijke Historie is a formal testimonial supporting a resolution to protect the endemic [[Lake Victoria Cichlids|Lake Victoria cichlid species flock]] from the introduced [[Nile Perch]] (*Lates n...
 > -- *[[DesertFishesCouncilLetterSuppo_1986_02_21]]*
 
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[ARemarkableSnailFaunaFromCoahu_1966]]
 - [[AlonzoRiosContreras_20775]]
@@ -47,3 +50,4 @@ Cuatro Ciénegas is a globally significant desert spring ecosystem in the Chihua
 - [[RioBravoFishDistribution_Unknown]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[SpecialSymposiumOnTheBiotaOfCu_19762]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]

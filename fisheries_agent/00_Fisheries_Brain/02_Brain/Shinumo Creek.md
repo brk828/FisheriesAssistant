@@ -23,6 +23,9 @@ Shinumo Creek is a tributary of the Colorado River within the Grand Canyon that 
 > - **Focal Species**: [[Humpback Chub]] (*Gila cypha*), a Colorado River Basin endemic and federally endangered cyprinid, is the central conservation target. - **Secondary Species**: [[Bluehead Sucker]] (*Catostomus discobolus*) is studied concurrently for comparative habitat utilization data, tho...
 > -- *[[GlenCanyonEnvironmentalStudies_1992_12_22]]*
 
+> This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
+> -- *[[TheColoradoRiverFishesRecovery_11196]]*
+
 ## Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DiscussionOfBiowestSWorkPlan_1991_09_23]]
@@ -33,3 +36,4 @@ Shinumo Creek is a tributary of the Colorado River within the Grand Canyon that 
 - [[NotesOnMeetingForCooperatorsAn_1994_03_15]]
 - [[ResponseToSpecificConcernsAbou_1993_12_03]]
 - [[TripReportAgfdNativeFishStudie_11269]]
+- [[TheColoradoRiverFishesRecovery_11196]]

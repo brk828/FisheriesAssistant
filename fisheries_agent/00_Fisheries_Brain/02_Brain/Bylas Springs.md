@@ -20,9 +20,13 @@ Bylas Springs refers to an isolated desert spring-fed habitat system located in 
 > This trip report documents a maintenance and repair action conducted on July 9, 1990, to address a leaking fish barrier at Bos/Medicine Springs, part of the [[Bylas Springs]] complex on the San Carlos Indian Reservation, Arizona. The barrier system was constructed to protect native [[Gila Topminn...
 > -- *[[TripReportBylasSpringsBarrierR_1990_07_10]]*
 
+> This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
+> -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
+
 ## Mentioned In
 - [[GilaTopminnowReintroductionSBy_1996_08_27]]
 - [[HistoryOfBylasTopminnowPopulat_1989_02_08]]
 - [[MinutesDesertFishesRecoveryTea_1997_12_19]]
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
 - [[TripReportBylasSpringsBarrierR_1990_07_10]]
+- [[IntraofficeMemoTopminnowpupfis_13822]]

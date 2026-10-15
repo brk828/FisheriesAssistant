@@ -17,8 +17,12 @@ The Amargosa River is a closed-basin desert stream system in the Death Valley re
 > - **Spring-fed refugia and marshes**: e.g., [[Devils Hole]], [[Ash Meadows]] spring complex, and [[Cottonball Marsh]] — highly restricted, often single-spring endemics with minimal genetic and geographic buffering against disturbance. - **Closed-basin desert streams**: [[Amargosa River]] and [[Sa...
 > -- *[[AgendaForDeathValleyAreaCommit_1987_03_13]]*
 
+> This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
+> -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[EndangeredPupfishOfDevilsHoleG_11403]]
 - [[GeneticDivergenceAnd_1972]]
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
+- [[AnnotatedListOfTheFishesOfNeva_14026]]

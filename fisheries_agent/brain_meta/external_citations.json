@@ -620,6 +620,33 @@
   "type": "Letter",
   "year": "1994"
  },
+ "X-1faa5dfa": {
+  "authors": "Kristen G. Humphrey, Brian R. Kesner, Paul C. Marsh",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "Lower Colorado River Multi-Species Conservation Program.",
+  "title": "Distribution and Post-Stocking Survival of Bonytail in Lake Havasu",
+  "type": "Report",
+  "year": "2016"
+ },
+ "X-2e11e933": {
+  "authors": "Brian R. Kesner, Abraham P. Karam, Carol A. Pacey, Kristen A. Patterson, Paul C. Marsh",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "Demographics and post-stocking survival of repatriated razorback sucker in Lake Mohave",
+  "type": "Report",
+  "year": "2012"
+ },
+ "X-365e2fb8": {
+  "authors": "R. J. Friebertshauser, K. R. Bestgen",
+  "citation_source": "crossref",
+  "doi": "10.1093/tafafs/vnag031",
+  "publication": "Transactions of the American Fisheries Society.",
+  "title": "Site- and landscape-scale estimates of ecological suitability inform desert fish conservation",
+  "type": "Journal Article",
+  "year": "2026"
+ },
  "X-87f389c0": {
   "authors": "W. H. Nowlin, R. W. Drenner, K. R. Guckenberger, M. A. Lauden, G. T. Alonso, J. E. Fennell, J. L. Smith",
   "citation_source": "crossref",
@@ -628,6 +655,15 @@
   "title": "Gape Limitation, Prey Size Refuges and the Top–down Impacts of Piscivorous Largemouth Bass in Shallow Pond Ecosystems",
   "type": "Journal Article",
   "year": "2006"
+ },
+ "X-b3f0eb93": {
+  "authors": "B. J. Miller, B. R. Kesner, C. A. Pacey, P. C. Marsh",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "Lower Colorado River Multi-Species Conservation Program: 69.",
+  "title": "Demographics and Monitoring of Repatriated Razorback Sucker in Lake Mohave",
+  "type": "Report",
+  "year": "2020"
  },
  "X-d59165ff": {
   "authors": "K. Hartman",

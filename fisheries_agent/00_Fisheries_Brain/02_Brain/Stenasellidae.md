@@ -20,6 +20,10 @@ auto_enriched: true
 > 7. **Taxonomic reclassification context**: Confirms elevation of former subfamilies Asellinae and Stenasellinae to full family rank ([[Asellidae]] and [[Stenasellidae]]) following Henry and Magniez (1968, 1970), with further genus-level splitting of the former broad genus *Stenasellus* into *Sten...
 > -- *[[StenasellidIsopodCrustaceansIn_1972_02_29]]*
 
+> This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
+> -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
+
 ## Mentioned In
 - [[StenasellidIsopodCrustaceansIn_1972_02_29]]
 - [[StenasellidiDelSudEstAsiaticoS_1981]]
+- [[EndemicFishesOfTheCuatroCieneg_13685]]

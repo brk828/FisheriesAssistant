@@ -11,8 +11,12 @@ The Recovery Implementation Program for Endangered Fish Species in the Upper Col
 > This document is a 1989 administrative letter from the U.S. Secretary of the Interior to Colorado Governor Roy Romer, concerning federal funding commitments to the **[[Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin]]** (referred to as the "Recovery P...
 > -- *[[LetterFromTheSecretaryOfTheInt_1989_06_23]]*
 
+> This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
+> -- *[[EndangeredAndThreatenedWildlif_11592]]*
+
 ## Mentioned In
 - [[LetterFromTheSecretaryOfTheInt_1989_06_23]]
 - [[LetterOpposingProposedIntroduc_1999_02_08]]
 - [[LetterRegardingProposedStockin_1989_06_23]]
 - [[LetterToDuaneLShroufeOnGrandCa_1989_04_24]]
+- [[EndangeredAndThreatenedWildlif_11592]]

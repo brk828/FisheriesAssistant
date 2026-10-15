@@ -23,6 +23,9 @@ The Bluntnose Minnow is a small freshwater cyprinid fish commonly found in North
 > - **Bioassay indicator species**: [[Notropis lutrensis]] (red shiner) was the primary test organism used to detect lethal rotenone concentrations in water samples via loss of equilibrium and cessation of opercular movement. - **Differential species susceptibility**: [[Green Sunfish]] were observe...
 > -- *[[EffectivenessOfRotenoneInPondR_1953]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[AnnotatedChecklistOfFishesFrom_1962]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
@@ -38,3 +41,4 @@ The Bluntnose Minnow is a small freshwater cyprinid fish commonly found in North
 - [[NaturalProductivityOfFishAndCr_1940]]
 - [[NotesOnSomeCaptiveMinnowsPimep_1961]]
 - [[ToxicFreshWaterAlgae_14366]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

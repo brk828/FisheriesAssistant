@@ -26,6 +26,9 @@ Section 7 Consultation refers to the mandatory process under the Endangered Spec
 > These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
 
+> This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
+> -- *[[InterimProceduresForStockingNo_15423]]*
+
 ## Mentioned In
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
 - [[AnimasLaPlataProjectColoradoNe_14136]]
@@ -50,3 +53,4 @@ Section 7 Consultation refers to the mandatory process under the Endangered Spec
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[UtilizationOfPondsAtBuenosAire_1986_06_06]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[InterimProceduresForStockingNo_15423]]

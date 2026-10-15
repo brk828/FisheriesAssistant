@@ -11,7 +11,11 @@ The Colorado River Indian Reservation represents a significant geographic and ju
 > - The letter concerns the **[[Lower Colorado River]]** ecosystem, specifically the river section bounded by the **[[Colorado River Indian Reservation]]**. - Habitats discussed include riparian and aquatic zones historically shaped by natural river dynamics, which have been altered by Reclamation'...
 > -- *[[CommentsOnTheBiologicalAndConf_1997_07_24]]*
 
+> This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[RecoveryEffortsForBonytailChub_11837]]*
+
 ## Mentioned In
 - [[AnotherRazorbackCaughtInCanal_18270]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_24]]
 - [[SummaryOfCaliforniaFisheriesAc_1962]]
+- [[RecoveryEffortsForBonytailChub_11837]]

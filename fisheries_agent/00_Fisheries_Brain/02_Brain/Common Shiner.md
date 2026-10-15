@@ -26,6 +26,9 @@ The Common Shiner is a small cyprinid minnow species utilized as a forage and ba
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
+> -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -41,3 +44,4 @@ The Common Shiner is a small cyprinid minnow species utilized as a forage and ba
 - [[StudyOfToxicityAndDispersionOf_12586]]
 - [[UseOfBioassaysInDeterminingLev_13904]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[TheChangingFishFaunaOfTheUpper_12661]]

@@ -23,6 +23,12 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 > - The **Lower Basin Recovery Implementation Scientific Workgroup** comprises a small group of academic ichthyologists (e.g., [[James E. Deacon]], [[Paul Marsh]], [[William Matthews]], [[W.L. Minckley]], [[Dave Propst]]) and agency biologists (e.g., [[Owen T. Gorman]], [[C.O. Minckley]], [[Gordon ...
 > -- *[[RosterLowerBasinRecoveryImplem_21095]]*
 
+> This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
+> -- *[[BiologicalAssessmentForTheSpik_11476]]*
+
+> This March 1994 policy document from the [[U.S. Fish and Wildlife Service]] outlines the agency's adoption of an ecosystem approach to conserve the nation's biological diversity more effectively. The approach emphasizes protecting or restoring ecosystem function, structure, and species composition...
+> -- *[[AnEcosystemApproachToFishAndWi_11650]]*
+
 ## Mentioned In
 - [[CreationOfTheNationalBiologica_1993_03_17]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -32,3 +38,5 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 - [[RosterLowerBasinRecoveryImplem_21095]]
 - [[StatusReportGilaRiverWatershed_17809]]
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
+- [[BiologicalAssessmentForTheSpik_11476]]
+- [[AnEcosystemApproachToFishAndWi_11650]]

@@ -11,6 +11,14 @@ auto_enriched: true
 > This 1963 Bureau of Sport Fisheries and Wildlife report documents a three-day fish sampling survey conducted by Colorado State University field crews (under Joseph Banks, William B. Miller, and Mr. Babcock) along the [[Green River]] and [[Yampa River]] in Colorado and Utah. The survey aimed to re...
 > -- *[[FisheryManagementReportGreenRi_1963_10_11]]*
 
+> This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
+> -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
+
+> This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
+> -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
+
 ## Mentioned In
 - [[AvailabilityOfHabitatCharacter_1993]]
 - [[FisheryManagementReportGreenRi_1963_10_11]]
+- [[TheRazorbackSuckerXyrauchenTex_15245]]
+- [[FyAnnualProjectReportEarlyBiol_18213]]

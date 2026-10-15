@@ -23,6 +23,15 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 > * **[[Cyprinella]] specimens (Ojo Galeana, Santa Maria drainage):** Ripe male specimens were observed to exhibit an "intense tangerine orange" coloration, suggesting active breeding condition at the time of collection. * **[[Gila]] sp.:** No specific morphological descriptions provided, though th...
 > -- *[[LetterFromDavidLPropstToRobert_1990_05_10]]*
 
+> This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
+> -- *[[DistributionalAndLocalVernacul_13815]]*
+
+> This study evaluated the effectiveness of qualitative morphological rankings versus quantitative measurements for field identification of closely related cyprinid fishes in the genus [[Gila]] from the [[Yampa River]], [[Colorado]]. Six field technicians with no specialized systematic training...
+> -- *[[QualitativeCharactersIdentific_19084]]*
+
+> This document is a critical evaluation by Associate Professor Donald G. Buth (UCLA) of M.d. Rosenfeld's draft report on allozyme variation in upper [[Colorado River]] species of [[Gila]]. The evaluation, dated 16 February 1988 and addressed to Utah Natural Resources Wildlife Resources, identifies...
+> -- *[[EvaluationOfMjRosenfeldsBioche_14124]]*
+
 ## Mentioned In
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
 - [[ColoradoRiverFishesRecoveryPro_1993_12_10]]
@@ -47,3 +56,6 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 - [[SurrogateSpeciesSelectionForPh_1981_05_07]]
 - [[SurvivalOfAgeColoradoSquawfish_1993_05_03]]
 - [[TheRelationOfHydrologicalCondi_20023]]
+- [[DistributionalAndLocalVernacul_13815]]
+- [[QualitativeCharactersIdentific_19084]]
+- [[EvaluationOfMjRosenfeldsBioche_14124]]

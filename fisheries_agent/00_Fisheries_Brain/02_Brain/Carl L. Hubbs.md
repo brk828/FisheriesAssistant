@@ -20,6 +20,9 @@ Carl L. Hubbs was a pioneering American ichthyologist and evolutionary biologist
 > This 1946 systematics paper by [[Carl L. Hubbs]] and [[Luis R. Rivas]] resolves a long-standing taxonomic enigma surrounding *Atherina microps* Poey, 1860, a species originally described from Cuba but left unplaced at the genus level (noted as "undetermined genus" within Atherinopsinae by [[Jorda...
 > -- *[[SystematicsOfTheAmericanAtheri_1946_11_15]]*
 
+> This paper reviews Quaternary paleoclimatic trends along the [[Pacific Coast]] of [[North America]], emphasizing long-term cooling and increasing aridity from the Tertiary through the Pleistocene to Recent times. [[Carl L. Hubbs]] synthesizes evidence from paleobotany, paleontology, archaeology,...
+> -- *[[QuaternaryPaleoclimatologyOfTh_14159]]*
+
 ## Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -30,3 +33,4 @@ Carl L. Hubbs was a pioneering American ichthyologist and evolutionary biologist
 - [[InfluenceOfLandMassesOnTheDist_14157]]
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[SystematicsOfTheAmericanAtheri_1946_11_15]]
+- [[QuaternaryPaleoclimatologyOfTh_14159]]

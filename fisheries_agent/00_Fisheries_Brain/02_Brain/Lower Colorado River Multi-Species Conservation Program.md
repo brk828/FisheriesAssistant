@@ -23,6 +23,15 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 > **Institutional Follow-up**: By August 1996, oversight transitioned to the **[[Lower Colorado River Multi-Species Conservation Program]] Biology Subcommittee**, tasked with reviewing Interim Conservation Measures (ICMs), anticipated future budgets, and prioritizing critical biological needs — ind...
 > -- *[[LowerColoradoRiverBasinStudies_1995_07_17]]*
 
+> This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
+> -- *[[RequestForProposalspresubmitta_18342]]*
+
+> This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
+> -- *[[DistributionAndPoststockingSur_2016]]*
+
+> This five-year final report (2015–2019) documents the demographics and monitoring of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], part of the [[Lower Colorado River Multi-Species Conservation Program]]. The wild razorback sucker population has functionally disappeared,...
+> -- *[[DemographicsAndMonitoringOfRep_2020]]*
+
 ## Mentioned In
 - [[BonytailReceivedCaughtInLakeMo_15286]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -37,3 +46,6 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 - [[NotesFromMayMeetingLowerColora_1997_05_28]]
 - [[ReReviewOfFinalBiologicalAndCo_14378]]
 - [[RestoringNativeFishToTheLowerC_1999_04_08]]
+- [[RequestForProposalspresubmitta_18342]]
+- [[DistributionAndPoststockingSur_2016]]
+- [[DemographicsAndMonitoringOfRep_2020]]

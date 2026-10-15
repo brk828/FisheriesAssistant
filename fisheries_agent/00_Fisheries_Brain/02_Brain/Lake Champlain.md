@@ -17,7 +17,11 @@ Lake Champlain is a major freshwater system on the Vermont-New York border that 
 > - The 1948 South Bay fishery removed 51,382 pounds of smelt, equating to a catch of 2.2 lbs per acre of bay surface. - Age-group II dominated the spawning catch (54%), followed by age-group III (38%) and age-group IV (8%); age-group I was entirely absent from the spawning run despite comprising 1...
 > -- *[[TheAmericanSmeltOsmerusMordaxM_1950]]*
 
+> The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
+> -- *[[Perch_16750]]*
+
 ## Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[StationProfileOfThePittsfordNa_1993]]
 - [[TheAmericanSmeltOsmerusMordaxM_1950]]
+- [[Perch_16750]]

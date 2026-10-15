@@ -11,5 +11,9 @@ auto_enriched: true
 > The document also situates fish conservation alongside co-occurring listed/sensitive taxa in the same riparian-aquatic corridor: **[[Willow Flycatcher]]**, **[[Yellow-Billed Cuckoo]]**, **[[Relict Leopard Frog]]**, and **[[Yuma Clapper Rail]]**, reflecting an ecosystem-level, multi-species approa...
 > -- *[[NotesFromMayMeetingLowerColora_1997_05_28]]*
 
+> This 1987 baseline report documents vegetation and breeding bird communities along a 3 km cattle exclosure established in 1984 on [[Lower Bonita Creek]], [[Graham County]], [[Arizona]]. The study was conducted by [[William C. Hunter]] from [[Arizona State University]] for the [[U.S. Bureau of Land...
+> -- *[[ChangesInRiparianVegetationAnd_14524]]*
+
 ## Mentioned In
 - [[NotesFromMayMeetingLowerColora_1997_05_28]]
+- [[ChangesInRiparianVegetationAnd_14524]]
