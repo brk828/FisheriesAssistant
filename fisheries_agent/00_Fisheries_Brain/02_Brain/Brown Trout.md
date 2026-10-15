@@ -65,6 +65,9 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This 1953 fisheries management report documents comprehensive investigations of three connected water bodies in Colorado: [[Granby Reservoir]], [[Shadow Mountain Reservoir]], and [[Grand Lake]]. The study employed creel census, rough fish control operations, limnological sampling, food habit...
 > -- *[[ProjectReportGrandLakeShadowMo_16322]]*
 
+> **Primary Sampling Purpose**: This study evaluated the effects of 9-mm PIT (Passive Integrated Transponder) tags on survival, growth, and tag retention in [[Mountain Galaxias]] (Galaxias olidus) to assess the suitability of PIT telemetry for monitoring small-bodied galaxiid fishes, particularly...
+> -- *[[PotentialImpactsOfPitTaggingOn_2018]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -199,3 +202,4 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[ReTheElectrophoreticStudyOfWhi_14999]]
 - [[ProjectReportGrandLakeShadowMo_16322]]
+- [[PotentialImpactsOfPitTaggingOn_2018]]

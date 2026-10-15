@@ -82,6 +82,66 @@ The text may come from OCR; silently fix obvious scan errors (e.g. 'f1sh' -> 'fi
 CITE_SYSTEM = """You read the first page of a scientific document and report its bibliographic details. Reply with only a JSON object with these keys (use "" when not stated on the page; never guess):
 "title", "authors" (format 'K. J. Hartman, C. D. Smith': initials then surname, comma-separated; an organization name if there are no personal authors), "year" (4 digits), "publication" (journal/series/report series name only), "volume", "issue", "pages", "doi", "document_type" (Journal Article, Report, Thesis, Book Chapter, Letter, Other)."""
 
+DIGEST_TYPES = ("analyses_and_modeling", "sampling_design", "ecological_and_biological")
+DEFAULT_DIGEST = "ecological_and_biological"
+DIGEST_OUT_TOKENS = 4500
+
+# Section headers and type-specific frontmatter keys for each digest (see 00_Fisheries_Brain/ThreeDigestSystem.md).
+DIGEST_SPECS = {
+    "analyses_and_modeling": {
+        "focus": "statistical techniques, mathematical models and quantitative workflows",
+        "keys": "analytical_category (list), model_framework, software_environment (list), data_requirements (list), key_assumptions (list), keywords_stubs (list of #hashtags)",
+        "sections": (
+            ("Analytical Objective & Scope", "Core Problem Addressed; Methodological Classification (novel method, adaptation of an existing model, or standard empirical application)"),
+            ("Mathematical & Statistical Framework", "Model Formulation (equations, state-space or likelihood forms); Variables & Covariates (response, predictors, random effects, offsets); Fit Diagnostics & Metrics (convergence, intervals, AIC/WAIC/R^2 as reported)"),
+            ("Data Requirements & Preprocessing", "Input Data Schema (minimum sample size, zero-inflation, missing data); Sampling Cross-References (keyword stubs for companion sampling-design documents)"),
+            ("Code Logic", "key pseudocode, R or Python given in the document; write 'Not reported' when the document has none, never invent code"),
+            ("Biological & Management Synthesis", "Model-to-Decision Mapping: how results translate into reference points, status or management guidance"),
+        ),
+    },
+    "sampling_design": {
+        "focus": "field sampling protocols, gear, and spatial/temporal design",
+        "keys": "sampling_type (list), gear_types (list), spatial_scale, temporal_frequency, sample_size_requirements (list), environmental_covariates (list), keywords_stubs (list of #hashtags)",
+        "sections": (
+            ("Survey Objectives & Target Population", "Primary Sampling Purpose; Target Population & Spatial Boundaries"),
+            ("Gear Specifications & Standardization", "Equipment & Mesh/Gear Parameters; Deployment & Effort Standardization; Selectivity & Bias Considerations"),
+            ("Experimental & Spatial Design Framework", "Stratification & Allocation; Temporal Scheduling; Detection & Bias Mitigation"),
+            ("Field Data Schema & Variable Definitions", "Primary Biological Measurements; Environmental & Spatial Covariates; QA/QC & Data Entry Protocols"),
+            ("Analytical Linkages", "Downstream Model Compatibility: which analyses or models this protocol feeds (as keyword stubs)"),
+        ),
+    },
+    "ecological_and_biological": {
+        "focus": "species biology, behavior, ecology, conservation status and management",
+        "keys": "focus_domains (list), life_stages_covered (list), geographic_region (list), conservation_status, management_jurisdiction (list), keywords_stubs (list of #hashtags)",
+        "sections": (
+            ("Species Profile & Ecological Context", "Taxonomic & Life-History Summary (age, maturity, fecundity, growth parameters); Habitat Associations"),
+            ("Behavioral & Ecological Findings", "Movement Patterns & Migration; Trophic & Community Interactions; Environmental Drivers"),
+            ("Conservation Status & Population Dynamics", "Population Trajectory; Threat & Risk Assessment"),
+            ("Management Guidance & Policy Takeaways", "Actionable Recommendations; Biological Reference Points"),
+            ("Keyword Stubs & Cross-Schema Linkages", "Companion Cross-References: keyword stubs linking to related analysis or sampling-design topics"),
+        ),
+    },
+}
+
+CLASSIFY_SYSTEM = """You classify a scientific document for a fisheries knowledge base. Reply with only a JSON object: {"doc_type": one of "analyses_and_modeling" (the paper's main contribution is a statistical or mathematical method or model), "sampling_design" (main contribution is a field protocol, gear evaluation or survey design), "ecological_and_biological" (biology, behavior, ecology, status or management findings); "secondary_type": another of those three if the paper substantially also fits it, else ""; "confidence": "high", "medium" or "low"}. Pick the one type that best describes the paper's primary contribution."""
+
+
+def digest_system(doc_type: str) -> str:
+    spec = DIGEST_SPECS[doc_type]
+    sections = "\n".join(f"   - ## {name}: {hint}" for name, hint in spec["sections"])
+    return f"""You are an aquatic ecologist and expert ichthyologist, and a data architect. Extract scientific data from the provided document text and output a highly structured Markdown digest optimized for Obsidian. This digest type covers {spec['focus']}; stay faithful to what the document actually covers.
+
+Strictly follow this format:
+1. YAML frontmatter at the very top with: species (list of every species the document names, scientific names), target_species (the main species of interest, as 'Common Name (Scientific name)'; "N/A" when there is no single focus), common_name, family, habitat, ocean_basin, location, tags, and these type-specific keys: {spec['keys']}. Use "N/A" for fields the document does not address. Do NOT include title, doc_type, source_id or citation fields; they are added separately.
+2. A single `# Title` heading, then Obsidian tags on one line: #ichthyology #<specific-family-or-taxon>. For non-fish taxa tag that taxon instead.
+3. Exactly these sections, in order (the bullets after the colon are the points to cover, as bold labels inside the section):
+{sections}
+4. Use [[Double Brackets]] to cross-link related concepts (species, places, methods), always in Title Case, e.g. [[Largemouth Bass]].
+5. Report numbers, sample sizes, equations and statistics exactly as given; never invent data. Write 'Not reported' for points the document does not address. Skip figure/table debris.
+
+The text may come from OCR; silently fix obvious scan errors. Return ONLY raw Markdown."""
+
+
 STUB_SYSTEM = """You write short concept-note summaries for a fisheries knowledge base. You get the text of one source note and a list of concept names that the note links to. For each concept write a 2-3 sentence plain-language summary of what it is and what this source says about it. Use only what the source supports, plus the basic identity of well-known species or terms; never invent findings. Reply with only a JSON object mapping each concept name exactly as given to its summary."""
 STUB_BATCH = 20
 STUB_SOURCE_CHARS = 12_000
@@ -234,6 +294,9 @@ def _ocr_page(path: Path, page_no: int) -> str:
     return "\n".join(pytesseract.image_to_string(im) for im in images)
 
 
+_GLYPH_CODE = re.compile(r"/C\d{1,3}")
+
+
 def extract_text(path: Path, digest: str, verbose: bool = True) -> dict:
     """Returns {"text", "pages", "ocr_pages", "method", "metadata"}; cached by file hash."""
     cache = CACHE_DIR / f"{digest[:16]}.json"
@@ -253,7 +316,7 @@ def extract_text(path: Path, digest: str, verbose: bool = True) -> dict:
             text = (page.extract_text() or "").strip()
         except Exception:
             text = ""
-        if len(text) < MIN_PAGE_CHARS:
+        if len(text) < MIN_PAGE_CHARS or len(_GLYPH_CODE.findall(text)) > 20:  # unmapped-font text layer ('/C70/C108...') is as useless as none
             if verbose and sys.stdout.isatty():
                 print(f"   OCR page {i}/{len(reader.pages)}", end="\r", flush=True)
             try:
@@ -426,6 +489,23 @@ def llm_citation(client, model: str, text: str) -> dict:
 
 
 # --------------------------------------------------------------------- LLM
+def classify_doc(client, model: str, text: str, forced: str = "") -> dict:
+    """{'doc_type', 'secondary_type'}: one primary digest per paper. A low-confidence call falls back to the ecological digest."""
+    if forced in DIGEST_TYPES:
+        return {"doc_type": forced, "secondary_type": ""}
+    reply = _chat(client, model, CLASSIFY_SYSTEM, text[:CITE_SAMPLE_CHARS], max_tokens=100)
+    m = re.search(r"\{.*\}", reply or "", re.S)
+    try:
+        data = json.loads(m.group(0)) if m else {}
+    except json.JSONDecodeError:
+        data = {}
+    primary = data.get("doc_type") if data.get("doc_type") in DIGEST_TYPES else DEFAULT_DIGEST
+    if str(data.get("confidence", "")).lower() == "low":
+        primary = DEFAULT_DIGEST
+    second = data.get("secondary_type") if data.get("secondary_type") in DIGEST_TYPES and data.get("secondary_type") != primary else ""
+    return {"doc_type": primary, "secondary_type": second}
+
+
 def _client():
     try:
         from dotenv import load_dotenv
@@ -468,7 +548,8 @@ def _strip_fence(text: str) -> str:
     return (m.group(1) if m else text).strip()
 
 
-def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS) -> str:
+def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS, doc_type: str = "", secondary_type: str = "") -> str:
+    """doc_type selects one of the three digests; empty keeps the original single layout (Minckley notes)."""
     # The document goes inside tags with an instruction after it. Sent bare, a proposal or scanned report can look like
     # text to continue, and the model echoes the document tail instead of writing the note.
     body = (
@@ -479,11 +560,18 @@ def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS) 
         f"<document>\n{text[:limit]}\n</document>\n\n"
         "Now write the note: start with the --- YAML frontmatter and include ## Executive Summary and ## Key Findings."
     )
+    system, headers, budget = NOTE_SYSTEM, REQUIRED_HEADERS, NOTE_OUT_TOKENS + 1500
+    if doc_type in DIGEST_SPECS:
+        system, budget = digest_system(doc_type), DIGEST_OUT_TOKENS
+        headers = tuple(f"## {name}" for name, _ in DIGEST_SPECS[doc_type]["sections"])
+        body = body.rsplit("Now write the note:", 1)[0] + "Now write the digest: start with the --- YAML frontmatter and include every required section."
+        if secondary_type:
+            body += f" The paper also has a substantial {secondary_type} component: mention it in the last section as keyword stubs, not as extra sections."
     last = ""
     for _ in range(2):
-        note = _strip_fence(_chat(client, model, NOTE_SYSTEM, body, max_tokens=NOTE_OUT_TOKENS + 1500))
+        note = _strip_fence(_chat(client, model, system, body, max_tokens=budget))
         note = re.sub(r"\A.*?^(?=---\s*$)", "", note, count=1, flags=re.S | re.M)  # drop chatty preamble before the frontmatter
-        if note.startswith("---") and all(h in note for h in REQUIRED_HEADERS):
+        if note.startswith("---") and all(h in note for h in headers):
             return note
         last = note
     start = re.sub(r"\s+", " ", last)[:80]
@@ -535,7 +623,8 @@ EXCERPT_CHARS = 300
 
 
 def _excerpt(note: str) -> str:
-    m = re.search(r"^## Executive Summary\s*\n(.*?)(?=^## |\Z)", note, re.S | re.M)
+    m = re.search(r"^## Executive Summary\s*\n(.*?)(?=^## |\Z)", note, re.S | re.M) \
+        or re.search(r"^## [^\n]+\n(.*?)(?=^## |\Z)", note, re.S | re.M)  # digests have no Executive Summary; use the first section
     text = _WIKILINK.sub(lambda x: x.group(0), m.group(1) if m else "")
     text = re.sub(r"\s+", " ", text).strip()
     if len(text) > EXCERPT_CHARS:
@@ -1010,7 +1099,10 @@ def cmd_process(args) -> int:
                     _save_json(MANIFEST_PATH, manifest)
                     print("   Skipped.")
                     continue
-            note = synthesize_note(client, model, ex["text"], limits[d])
+            kind = {"doc_type": "", "secondary_type": ""} if mid else classify_doc(client, model, ex["text"], getattr(args, "type", ""))
+            if kind["doc_type"]:
+                print(f"   digest: {kind['doc_type']}" + (f" (also {kind['secondary_type']})" if kind["secondary_type"] else ""))
+            note = synthesize_note(client, model, ex["text"], limits[d], kind["doc_type"], kind["secondary_type"])
             title = cite.get("title") or note_title(note) or p.stem
             cite["title"] = title
             stem = note_stem(title, cite.get("year", ""), sid)
@@ -1020,6 +1112,7 @@ def cmd_process(args) -> int:
                 "title": title,
                 "source_id": sid,
                 "minckley_id": mid,
+                "doc_type": kind["doc_type"],
                 "source_citation": format_citation(cite),
                 "doi": cite.get("doi", ""),
                 "source_file": p.name,
@@ -1035,7 +1128,7 @@ def cmd_process(args) -> int:
             else:
                 citations[sid] = {k: cite.get(k, "") for k in ("authors", "year", "title", "publication", "type", "doi", "citation_source")}
                 _save_json(EXTERNAL_CITATIONS_PATH, citations)
-            manifest[d] = _record(p, d, "done", note=f"{stem}.md", method=ex["method"], citation_source=cite.get("citation_source", ""))
+            manifest[d] = _record(p, d, "done", note=f"{stem}.md", method=ex["method"], citation_source=cite.get("citation_source", ""), doc_type=kind["doc_type"])
             done += 1
             if not getattr(args, "keep", False):
                 _discard(p, d)
@@ -1073,6 +1166,7 @@ def main(argv: list = None) -> int:
             sp.add_argument("--limit", type=int, default=0)
             sp.add_argument("--mid", default="", help="Minckley Library ID for a single PDF (else read from the filename)")
             sp.add_argument("--long", choices=["ask", "cap", "full", "skip"], default="ask", help="what to do with documents over the character cap")
+            sp.add_argument("--type", choices=DIGEST_TYPES, default="", help="force the digest type for non-Minckley PDFs (default: classified by the model)")
             sp.add_argument("--keep", action="store_true", help="do not delete PDFs after processing")
             sp.add_argument("--model", default="")
     args = ap.parse_args(argv)

@@ -41,6 +41,9 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This study evaluated the effectiveness of qualitative morphological rankings versus quantitative measurements for field identification of closely related cyprinid fishes in the genus [[Gila]] from the [[Yampa River]], [[Colorado]]. Six field technicians with no specialized systematic training...
 > -- *[[QualitativeCharactersIdentific_19084]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AResumeOfTheDetoxificationPhas_1963]]
@@ -89,3 +92,4 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[QualitativeCharactersIdentific_19084]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

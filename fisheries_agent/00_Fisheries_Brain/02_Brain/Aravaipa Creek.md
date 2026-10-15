@@ -53,6 +53,9 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 > This document is the 1987-1988 annual report for a multi-faceted investigation contracted by the U.S. Fish and Wildlife Service, Arizona Game and Fish Department, and New Mexico Department of Fish and Game to Arizona State University. The study evaluates interactions between the invasive [[Red...
 > -- *[[DraftOfTheAnnualReportForSpike_13757]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -147,3 +150,4 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 - [[ChangesInRiparianVegetationAnd_14524]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[DraftOfTheAnnualReportForSpike_13757]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

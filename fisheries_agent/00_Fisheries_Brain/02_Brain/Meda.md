@@ -11,6 +11,10 @@ auto_enriched: true
 > - **Native taxa at risk** — Referenced as "[[Meda]]" (likely *[[Meda fulgida]]*, the spikedace, a small elongate [[Cyprinidae|cyprinid minnow]] endemic to the Gila River basin) and a second native form, tentatively *[[Poeciliopsis occidentalis]]*, the Gila topminnow, a small live-bearing poecilii...
 > -- *[[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[GilaCyphaARemarkableNewSpecies_15313]]
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

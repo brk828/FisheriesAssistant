@@ -23,6 +23,9 @@ Catostomus insignis, commonly known as the Sonora sucker, is a native North Amer
 > - **[[Lepidomeda vittata]]** (Little Colorado spinedace) — small-bodied cyprinid; documented as vulnerable to displacement by introduced [[rainbow trout]] in Nutrioso Creek. - **[[Meda fulgida]]** (spikedace) — small minnow, potentially present in West Clear Creek; part of the broader Verde River...
 > -- *[[LetterToFisheriesSummitPartici_1993_09_10]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[AravaipaCreekMonitoringData_1993_07_15]]
 - [[ColoradoSquawfishMonitoringVer_19393]]
@@ -34,3 +37,4 @@ Catostomus insignis, commonly known as the Sonora sucker, is a native North Amer
 - [[RazorbackSuckerRecapture_1986_08_18]]
 - [[SerumHaptoglobinsInSomeNorthAm_1966]]
 - [[SpeciesAccountRhinichthysOscul_13165]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

@@ -35,6 +35,9 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This paper reviews Quaternary paleoclimatic trends along the [[Pacific Coast]] of [[North America]], emphasizing long-term cooling and increasing aridity from the Tertiary through the Pleistocene to Recent times. [[Carl L. Hubbs]] synthesizes evidence from paleobotany, paleontology, archaeology,...
 > -- *[[QuaternaryPaleoclimatologyOfTh_14159]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -81,3 +84,4 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

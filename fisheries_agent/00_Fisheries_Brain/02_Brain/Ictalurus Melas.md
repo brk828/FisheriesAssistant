@@ -17,6 +17,9 @@ Ictalurus melas, commonly known as the black bullhead, is a freshwater catfish s
 > This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
 > -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[ChecklistOfParasitesFromCatfis_1959]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
@@ -24,3 +27,4 @@ Ictalurus melas, commonly known as the black bullhead, is a freshwater catfish s
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

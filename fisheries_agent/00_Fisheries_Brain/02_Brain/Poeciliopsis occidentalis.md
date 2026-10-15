@@ -23,6 +23,9 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 > This study, presented at the XXI Annual [[Desert Fishes Council]] Meeting (1989), documents the ichthyofauna of two major Gulf of California drainages in northwestern Mexico: the [[Rio Mayo Basin]] and the [[Rio Fuerte Basin]]. Based on 19 collections in the Rio Mayo and 11 in the Rio Fuerte cond...
 > -- *[[FishesOfTheRiosMayoAndFuerteBa_1989_11_16]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -41,3 +44,4 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 - [[ReEvaluationOfTheNativeFishesO_12336]]
 - [[RequestForTheCommissionToAppro_1997_07_14]]
 - [[SPECIES RESPONSIBILITIES OF DESERT FISHES RECOVERY TEAM]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

@@ -35,6 +35,9 @@ Agosia chrysogaster, commonly known as the longfin dace, is a small native cypri
 > This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
 > -- *[[TentativeSummaryOfCollectingAc_13171]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgosiaChrysogasterACyprinidFro_17955]]
@@ -61,3 +64,4 @@ Agosia chrysogaster, commonly known as the longfin dace, is a small native cypri
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
 - [[TentativeSummaryOfCollectingAc_13171]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

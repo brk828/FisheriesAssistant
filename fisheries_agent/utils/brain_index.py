@@ -41,7 +41,9 @@ STOPWORDS = {
 
 _WIKILINK = re.compile(r"\[\[([^\]|#]+)(?:[|#][^\]]*)?\]\]")
 _FRONTMATTER = re.compile(r"\A---\s*\n(.*?)\n---\s*\n?", re.S)
-_META_FIELDS = ("species", "family", "habitat", "region", "location", "study_type", "document_type", "tags")
+_META_FIELDS = ("species", "target_species", "family", "habitat", "region", "location", "study_type", "document_type", "doc_type", "tags",
+                "geographic_region", "focus_domains", "conservation_status", "analytical_category", "model_framework",
+                "sampling_type", "gear_types", "keywords_stubs")
 
 
 _AUTHOR_FIELDS = ("author", "authors", "institution", "organization", "agency", "issuing_agency", "affiliation")

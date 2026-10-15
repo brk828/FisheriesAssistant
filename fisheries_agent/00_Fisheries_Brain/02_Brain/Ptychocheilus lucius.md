@@ -29,6 +29,9 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 > This 1972 Master's thesis reports the first identification of the tapeworm *Ophiotaenia fragilus* from the [[Colorado River Squawfish]] (*Ptychocheilus lucius*), a native cyprinid that has experienced dramatic population decline over 30 years. Thirty-nine cestode specimens were recovered from the...
 > -- *[[AnIntestinalCestodeOfTheColora_13882]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[ColoradoRiverLowerBasinFisheri_1995_03_30]]
@@ -53,3 +56,4 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 - [[UpperBasinStuff_20272]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[AnIntestinalCestodeOfTheColora_13882]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

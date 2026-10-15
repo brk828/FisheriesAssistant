@@ -77,6 +77,9 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > This three-year study (2008-2011) examined demographics and post-stocking survival of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir. The wild population has declined to fewer than 50 individuals, making the repatriation program...
 > -- *[[DemographicsAndPoststockingSur_2012]]*
 
+> **Primary Sampling Purpose**: This study evaluated the effects of 9-mm PIT (Passive Integrated Transponder) tags on survival, growth, and tag retention in [[Mountain Galaxias]] (Galaxias olidus) to assess the suitability of PIT telemetry for monitoring small-bodied galaxiid fishes, particularly...
+> -- *[[PotentialImpactsOfPitTaggingOn_2018]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -363,3 +366,4 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[ReTheElectrophoreticStudyOfWhi_14999]]
 - [[ProjectReportGrandLakeShadowMo_16322]]
 - [[DemographicsAndPoststockingSur_2012]]
+- [[PotentialImpactsOfPitTaggingOn_2018]]

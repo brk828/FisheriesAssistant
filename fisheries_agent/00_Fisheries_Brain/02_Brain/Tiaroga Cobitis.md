@@ -32,6 +32,9 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 > The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Tiaroga cobitis]] (loach minnow) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, historically distributed throughout the [[Gila River]] system upstream from Phoenix,...
 > -- *[[EndangeredAndThreatenedWildlif_11552]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -64,3 +67,4 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[EndangeredAndThreatenedWildlif_11552]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

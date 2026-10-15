@@ -26,6 +26,9 @@ Rhinichthys osculus, commonly known as the speckled dace, is a small native cypr
 > This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
 > -- *[[TentativeSummaryOfCollectingAc_13171]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[AravaipaCreekMonitoringData_1993_07_15]]
 - [[BlueSpringsMiLittleColoradoRiv_1971]]
@@ -46,3 +49,4 @@ Rhinichthys osculus, commonly known as the speckled dace, is a small native cypr
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[TripReportAravaipaCreekEastEnd_1993_10_25]]
 - [[TentativeSummaryOfCollectingAc_13171]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

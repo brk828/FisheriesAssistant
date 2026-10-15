@@ -29,6 +29,9 @@ Pantosteus clarki, commonly known as the Desert Sucker, is a native benthic cato
 > This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
 > -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[ColoradoSquawfishMonitoringVer_19393]]
 - [[DataForAravaipaCreekFishCount_1995_10_07]]
@@ -42,3 +45,4 @@ Pantosteus clarki, commonly known as the Desert Sucker, is a native benthic cato
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

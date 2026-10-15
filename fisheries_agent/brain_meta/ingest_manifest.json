@@ -260,6 +260,16 @@
   "status": "done",
   "timestamp": "2026-10-15T20:33:18+00:00"
  },
+ "2897fa8f42b6af6bd4354c7056b3771b55a0962b339237d49fa48bc14cd168ed": {
+  "citation_source": "crossref",
+  "doc_type": "sampling_design",
+  "file": "Allen et al. 2018 - PIT tagging small fish galaxids.pdf",
+  "method": "text",
+  "note": "PotentialImpactsOfPitTaggingOn_2018.md",
+  "source_id": "X-2897fa8f",
+  "status": "done",
+  "timestamp": "2026-10-15T23:23:58+00:00"
+ },
  "28fbd61f1b95a6b0415a78a3a1282f8c8dc8f1df69496939136b286f9d793895": {
   "citation_source": "minckley-sheet",
   "file": "11580.pdf",
@@ -555,6 +565,16 @@
   "status": "done",
   "timestamp": "2026-10-14T17:23:24+00:00"
  },
+ "5c166405e61a71e3c9aa3825c8b08964db6cc04f09a938dc2dfc10542780894f": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Barber and Minckley 1966-Fishes of Aravipa Creek.pdf",
+  "method": "text",
+  "note": "FishesOfAravaipaCreekGrahamAnd_1966.md",
+  "source_id": "X-5c166405",
+  "status": "done",
+  "timestamp": "2026-10-15T23:25:14+00:00"
+ },
  "5cd1cab7be50bfba24c1374291d4bb0ccedebd33a6412ee64a6c23328f5353e3": {
   "citation_source": "minckley-sheet",
   "file": "13798.pdf",
@@ -680,6 +700,16 @@
   "source_id": "X-7a2baf0c",
   "status": "done",
   "timestamp": "2026-10-14T20:09:50+00:00"
+ },
+ "7bdd8757ef643e241f7d7bd5ac93bb613370244d085d12abe1d80079006a10ab": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "age and length based size structure.pdf",
+  "method": "ocr",
+  "note": "FleksibestanAgelengthStructure_2002.md",
+  "source_id": "X-7bdd8757",
+  "status": "done",
+  "timestamp": "2026-10-15T23:31:17+00:00"
  },
  "7c1762d598e3a61bd55ff9cdc1fd756be3878ef9f37a0bcd3a77f4d6afd59f32": {
   "citation_source": "minckley-sheet",

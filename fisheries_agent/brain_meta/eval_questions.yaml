@@ -85,6 +85,25 @@
 - ask: What is the Gila topminnow?
   query: Gila topminnow
   concepts: [Gila Topminnow]
+# Three-digest notes (analyses_and_modeling, sampling_design, ecological_and_biological)
+- ask: How does the Fleksibest age-length structured stock assessment model work?
+  query: Fleksibest age-length structured stock assessment model
+  sources: [FleksibestanAgelengthStructure_2002]
+- ask: What model assumptions are used to assess North-East Arctic cod?
+  query: North-East Arctic cod stock assessment model
+  sources: [FleksibestanAgelengthStructure_2002]
+- ask: Does PIT tagging harm small-bodied fish like mountain galaxias?
+  query: PIT tagging mountain galaxias
+  sources: [PotentialImpactsOfPitTaggingOn_2018]
+- ask: What PIT tag trial design was used for Galaxias olidus in the Cotter River?
+  query: PIT tag trial Galaxias olidus Cotter River
+  sources: [PotentialImpactsOfPitTaggingOn_2018]
+- ask: Which fishes live in Aravaipa Creek, Arizona?
+  query: fishes of Aravaipa Creek Arizona
+  sources: [FishesOfAravaipaCreekGrahamAnd_1966]
+- ask: What native fish assemblage was found in Aravaipa Creek in the 1960s?
+  query: Aravaipa Creek native fish Graham Pinal County
+  sources: [FishesOfAravaipaCreekGrahamAnd_1966]
 # Out of scope: must return cleanly (no crash, no huge dump)
 - ask: Explain quantum chromodynamics.
   query: quantum chromodynamics

@@ -26,6 +26,9 @@ Pantosteus is a genus of suckers (family Catostomidae) that comprises freshwater
 > This 1980 report by W. L. Minckley examines morphological variation in suckers of the genus [[Catostomus]] from the middle [[Colorado River]] region, including [[Grand Canyon]], [[Glen Canyon]], [[Virgin River]], and [[Little Colorado River]] basins. The study reveals that populations previously...
 > -- *[[MorphologicalVariationInCatost_13689]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[CorrespondenceOnMexicanFishTax_1993_10_21]]
@@ -38,3 +41,4 @@ Pantosteus is a genus of suckers (family Catostomidae) that comprises freshwater
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[MorphologicalVariationInCatost_13689]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]

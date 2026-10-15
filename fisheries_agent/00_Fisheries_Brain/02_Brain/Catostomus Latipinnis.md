@@ -26,6 +26,9 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 > This 1980 report by W. L. Minckley examines morphological variation in suckers of the genus [[Catostomus]] from the middle [[Colorado River]] region, including [[Grand Canyon]], [[Glen Canyon]], [[Virgin River]], and [[Little Colorado River]] basins. The study reveals that populations previously...
 > -- *[[MorphologicalVariationInCatost_13689]]*
 
+> **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
+
 ## Mentioned In
 - [[CommentsOnAndChangesToAnimalNo_11856]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -40,3 +43,4 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 - [[ReviewLetterStrawberryValleyEn_14234]]
 - [[SerumHaptoglobinsInSomeNorthAm_1966]]
 - [[MorphologicalVariationInCatost_13689]]
+- [[FishesOfAravaipaCreekGrahamAnd_1966]]
