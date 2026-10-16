@@ -38,6 +38,12 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
+> -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
+
+> Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
+> -- *[[FieldNotesOfTripToSanBernardin_13172]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AfaPolicyMemorandumOnHybrids_1984_02_10]]
@@ -140,3 +146,5 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[LetterReviewOfBogHoleRenovatio_12470]]
+- [[FieldNotesOfTripToSanBernardin_13172]]

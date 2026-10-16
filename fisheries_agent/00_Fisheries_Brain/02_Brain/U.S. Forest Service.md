@@ -35,6 +35,9 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > This 1994 status assessment documents the dramatic decline of native fish fauna in the [[Middle Rio Grande]] between Espanola and [[Elephant Butte Reservoir]], New Mexico. Of 45 fish species known historically, only 17 (38%) are native, with 6 (11%) endemic to the system. Seven native species have...
 > -- *[[FishFaunaOfTheMiddleRioGrandeS_15005]]*
 
+> This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
+> -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
+
 ## Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -67,3 +70,4 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[DraftEvaluationOfPotentialsFor_15827]]
 - [[EndangeredAndThreatenedWildlif_11580]]
 - [[FishFaunaOfTheMiddleRioGrandeS_15005]]
+- [[LetterReviewOfBogHoleRenovatio_12470]]

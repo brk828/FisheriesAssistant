@@ -47,6 +47,12 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 > This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
 > -- *[[EffectsOfElectrofishingFieldsO_15548]]*
 
+> This administrative correspondence from April 25, 1968, documents the [[National Park Service]] response to Mr. William Minkley of [[Arizona State University]] regarding a research permit application to collect [[Humpback Chub]] (Gila cypha) eggs within [[Grand Canyon National Park]]. The letter...
+> -- *[[HumpbackChubEggCollectionInGra_13013]]*
+
+> This document is a formal letter dated January 3, 1990, from [[Grand Canyon National Park]] Superintendent John H. Davis to Wayne Gustaveson of the [[Utah Division of Wildlife]], expressing opposition to a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The...
+> -- *[[ReProposalToIntroduceRainbowSm_13975]]*
+
 ## Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
@@ -83,3 +89,5 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 - [[RiverResourceMonitoringProject_18503]]
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[EffectsOfElectrofishingFieldsO_15548]]
+- [[HumpbackChubEggCollectionInGra_13013]]
+- [[ReProposalToIntroduceRainbowSm_13975]]

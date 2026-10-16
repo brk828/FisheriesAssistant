@@ -32,6 +32,12 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
 > -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
 
+> This unsolicited proposal to the [[U.S. Bureau of Reclamation]] outlines a three-year genetic monitoring program for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*) populations in [[Lake Mohave]], Arizona-Nevada. Submitted by researchers from [[Arizona...
+> -- *[[GeneticMonitoringOfRepatriated_17010]]*
+
+> This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
+> -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[FishAndWildlifeServiceReviewOf_1990_09_11]]
@@ -60,3 +66,5 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 - [[RequestedMeetingnativeFishWork_15023]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
+- [[GeneticMonitoringOfRepatriated_17010]]
+- [[ReportOfTheAccomplishmentsOfTh_19807]]

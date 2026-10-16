@@ -95,6 +95,9 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
 > -- *[[InvasionPotentialOfNonnativeFi_2026]]*
 
+> This draft management plan addresses the recovery of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftLowerColoradoRiverBasinNa_11716]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -227,3 +230,4 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[PreliminaryMeetingInformationF_13798]]
 - [[BiologicalAssessmentOnThreaten_19806]]
 - [[InvasionPotentialOfNonnativeFi_2026]]
+- [[DraftLowerColoradoRiverBasinNa_11716]]

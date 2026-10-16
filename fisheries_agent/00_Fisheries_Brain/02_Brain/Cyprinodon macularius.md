@@ -32,6 +32,9 @@ Cyprinodon macularius, commonly known as the desert pupfish, is a small-bodied c
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
+> -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
@@ -71,3 +74,4 @@ Cyprinodon macularius, commonly known as the desert pupfish, is a small-bodied c
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[ArizonaAndMexicanDesertPupfish_12498]]

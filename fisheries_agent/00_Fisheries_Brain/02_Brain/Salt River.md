@@ -74,6 +74,18 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 > **Taxonomic & Life-History Summary**: Two non-native centrarchid species are documented. [[Redeye Bass]] (*Micropterus coosae*) reaches maximum size about 19 in (47 cm). [[Smallmouth Bass]] (*Micropterus dolomieu*) is thick and chunky with large mouth, upper jaw extending almost to rear margin of...
 > -- *[[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]*
 
+> The U.S. Fish and Wildlife Service establishes "nonessential experimental" populations of [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Woundfin]] (*Plagopterus argentissimus*) in the [[Gila River]] drainage of Arizona under Section 10(j) of the Endangered Species Act of 1973. This...
+> -- *[[EndangeredAndThreatenedWildlif_11550]]*
+
+> This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
+> -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
+
+> This monitoring report documents the status of native fish species stocked at [[Palm Lake]], [[Hassayampa River Preserve]], Arizona, sampled on 2-3 April 1990. The assessment evaluated survival and condition of [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*)...
+> -- *[[FishMonitoringOfPalmLakeHassay_16635]]*
+
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
+> -- *[[WrittenCommentsOnDraftBiologic_20522]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfChannelCatfishIc_14101]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -135,3 +147,7 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 - [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]
 - [[ACaseOfMistakenIdentityGenetic_2021]]
 - [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
+- [[EndangeredAndThreatenedWildlif_11550]]
+- [[ProgressReportOnGilaTaxonomyPr_14729]]
+- [[FishMonitoringOfPalmLakeHassay_16635]]
+- [[WrittenCommentsOnDraftBiologic_20522]]

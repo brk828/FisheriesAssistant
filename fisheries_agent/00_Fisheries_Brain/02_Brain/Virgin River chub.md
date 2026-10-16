@@ -29,6 +29,9 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
 > -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
 
+> This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
+> -- *[[RainbowSmeltProposallakePowell_21115]]*
+
 ## Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -72,3 +75,4 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[VrrtNoticeAndMeetingMinutes_20253]]
 - [[DraftConservationAgreementForV_13234]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
+- [[RainbowSmeltProposallakePowell_21115]]

@@ -38,6 +38,15 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
 > -- *[[TentativeAgendaForTheUpperColo_15254]]*
 
+> This memorandum from the [[Arizona Ecological Services State Office]] to the Assistant Regional Director provides detailed comments on proposed joint counterpart section 7 regulations for the [[Forest Service]] and [[Bureau of Land Management]]. Dated August 25, 1995, the document expresses support...
+> -- *[[ReviewOfProposedCounterpartReg_11907]]*
+
+> A 1957 survey of U.S. state fisheries programs reveals widespread adoption of scuba diving as a fisheries management tool. Of responding states (89.6% response rate), 14 states actively use scuba diving, four plan to implement it, and one utilizes volunteer skin diving clubs. The technology enables...
+> -- *[[StatesIncorporateScubaDivingIn_16035]]*
+
+> This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
+> -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -65,3 +74,6 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[TransmittalRegardingReasonable_19809]]
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
 - [[TentativeAgendaForTheUpperColo_15254]]
+- [[ReviewOfProposedCounterpartReg_11907]]
+- [[StatesIncorporateScubaDivingIn_16035]]
+- [[ReportOfTheAccomplishmentsOfTh_19807]]

@@ -20,8 +20,12 @@ auto_enriched: true
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> The U.S. Fish and Wildlife Service establishes "nonessential experimental" populations of [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Woundfin]] (*Plagopterus argentissimus*) in the [[Gila River]] drainage of Arizona under Section 10(j) of the Endangered Species Act of 1973. This...
+> -- *[[EndangeredAndThreatenedWildlif_11550]]*
+
 ## Mentioned In
 - [[FactorsInfluencingFishDistribu_15011]]
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[EndangeredAndThreatenedWildlif_11550]]

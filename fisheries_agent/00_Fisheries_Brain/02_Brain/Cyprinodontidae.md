@@ -38,6 +38,12 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 > This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
 > -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
 
+> This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
+> -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
+
+> This 1906 taxonomic review by [[Jordan]] and [[Snyder]] documents two species of killifishes (family [[Poeciliidae]]) from Japan: [[Fundulichthys virescens]] and [[Oryzias latipes]]. Both are small fishes inhabiting rice swamps, pools, and ditches in southern Japan, likely feeding on mosquitoes....
+> -- *[[AReviewOfThePoeciliidaeOrKillf_19855]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReDescriptionOfAphaniusGinaon_1980]]
@@ -98,3 +104,5 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 - [[DevilsHolePupfishCyprinodonDia_18341]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
+- [[ArizonaAndMexicanDesertPupfish_12498]]
+- [[AReviewOfThePoeciliidaeOrKillf_19855]]

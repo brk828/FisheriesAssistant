@@ -107,6 +107,27 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > **Taxonomic & Life-History Summary:** Three centrarchid species are described: [[Lepomis microlophus]] (redear sunfish), [[Micropterus dolomieui]] (smallmouth bass), and [[Micropterus punctulatus]] (spotted bass). [[Lepomis microlophus]] exhibits geographic variation with two forms: one with 40-47...
 > -- *[[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
+> This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
+> -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
+
+> This document presents a comprehensive set of recovery alternatives for four endangered big river fishes of the [[Colorado River Basin]], prepared for the Six Agency Committee in August 1993. The proposal outlines three primary recovery concepts: habitat creation and management, propagation, and...
+> -- *[[ColoradoRiverEndangeredFishRec_15072]]*
+
+> This unsolicited proposal to the [[U.S. Bureau of Reclamation]] outlines a three-year genetic monitoring program for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*) populations in [[Lake Mohave]], Arizona-Nevada. Submitted by researchers from [[Arizona...
+> -- *[[GeneticMonitoringOfRepatriated_17010]]*
+
+> This study investigated reproductive isolating mechanisms between [[Humpback Chub]] (*Gila cypha*) and [[Roundtail Chub]] (*G. robusta*) in the [[Upper Colorado River]] at [[Black Rocks]], Colorado, during 1983-1985. Using gonadosomatic indices, gamete expression, and radiotelemetry, researchers...
+> -- *[[TemporalAndSpatialRelationsBet_17861]]*
+
+> This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
+> -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
+
+> This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
+> -- *[[RainbowSmeltProposallakePowell_21115]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -418,3 +439,10 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]
+- [[DraftmanagementPlanForTheRazor_11427]]
+- [[ProgressReportOnGilaTaxonomyPr_14729]]
+- [[ColoradoRiverEndangeredFishRec_15072]]
+- [[GeneticMonitoringOfRepatriated_17010]]
+- [[TemporalAndSpatialRelationsBet_17861]]
+- [[AsuCostProposalForGilaTaxonomy_18173]]
+- [[RainbowSmeltProposallakePowell_21115]]

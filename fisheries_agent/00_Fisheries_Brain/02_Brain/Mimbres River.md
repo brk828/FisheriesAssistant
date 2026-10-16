@@ -20,6 +20,9 @@ The Mimbres River is a river system located in Luna County, New Mexico that hist
 > This comprehensive study assessed ecological suitability for two imperiled Rio Grande basin fishes—[[Rio Grande Chub]] (*Gila pandora*) and [[Rio Grande Sucker]] (*Pantosteus plebeius*)—using dual modeling approaches across their overlapping ranges in Colorado and New Mexico. Researchers conducted...
 > -- *[[SiteAndLandscapescaleEstimates_2026]]*
 
+> This final report (February 1980) documents comprehensive taxonomic, morphometric, and reproductive studies of the [[Chihuahua Chub]] (*Gila nigrescens*), an endangered cyprinid inhabiting the [[Mimbres River]] in New Mexico and several drainages in Chihuahua, Mexico. The study examined 202+...
+> -- *[[TaxonomicStatusEcologyAndDistr_15409]]*
+
 ## Mentioned In
 - [[LetterOnRecoveryRecommendation_1986_10_21]]
 - [[LetterRegardingChihuahuaChubRe_1987_12_30]]
@@ -27,3 +30,4 @@ The Mimbres River is a river system located in Luna County, New Mexico that hist
 - [[LetterToMrMichaelSpearRegardin_1986_10_22]]
 - [[NotropisSimusSimusCopeRioGrand_1990]]
 - [[SiteAndLandscapescaleEstimates_2026]]
+- [[TaxonomicStatusEcologyAndDistr_15409]]

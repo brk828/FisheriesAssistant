@@ -32,6 +32,9 @@ Pantosteus clarki, commonly known as the Desert Sucker, is a native benthic cato
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This study examines putative F₁ hybrids between [[Catostomus insignis]] (Sonoran sucker) and [[Pantosteus clarki]] (desert sucker) from [[Aravaipa Creek]] and [[Bonita Creek]] in southeastern Arizona. Morphological analyses using hybrid index (HI), discriminant function analysis (DFA), and...
+> -- *[[MorphologyAndFoodsOfHybridCata_15933]]*
+
 ## Mentioned In
 - [[ColoradoSquawfishMonitoringVer_19393]]
 - [[DataForAravaipaCreekFishCount_1995_10_07]]
@@ -46,3 +49,4 @@ Pantosteus clarki, commonly known as the Desert Sucker, is a native benthic cato
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[MorphologyAndFoodsOfHybridCata_15933]]

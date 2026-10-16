@@ -35,6 +35,9 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This 1980s-era correspondence from the [[Desert Fishes Council]] to the U.S. Bureau of Reclamation opposes proposed dam construction on the [[Gila River]] in New Mexico. The letter focuses on threats to the [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]), both endemic...
+> -- *[[ProposedConstructionOfADamOnTh_13721]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -68,3 +71,4 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[EndangeredAndThreatenedWildlif_11552]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[ProposedConstructionOfADamOnTh_13721]]

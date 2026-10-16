@@ -35,6 +35,9 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 > This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
 > -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
 
+> This proposal from the [[Southwest Center for Education and the Natural Environment]] (SCENE) to the [[Arizona Community Foundation]] outlines a three-year program to involve high school students in authentic scientific research at [[Arizona State University]]. The project aims to engage 120...
+> -- *[[ScientificResearchExperiencesF_20483]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[CorrespondenceRegardingDesertF_12709]]
@@ -69,3 +72,4 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 - [[DraftEvaluationOfPotentialsFor_15827]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
+- [[ScientificResearchExperiencesF_20483]]

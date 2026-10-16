@@ -29,6 +29,12 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 > This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
 > -- *[[TheColoradoRiverFishesRecovery_11196]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
+> This correspondence from the [[Colorado River Fishes Recovery Team]] Leader to the U.S. Fish and Wildlife Service Regional Director outlines six critical recommendations regarding endangered fish recovery in the [[Colorado River]] system. Primary concerns include upgrading the listing status of...
+> -- *[[RecommendationsToColoradoRiver_14701]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -51,3 +57,5 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 - [[RefinementOfRecoveryGoalsForTh_1990_12_03]]
 - [[RecoveryTeamMeetingFebruary_14137]]
 - [[TheColoradoRiverFishesRecovery_11196]]
+- [[DraftmanagementPlanForTheRazor_11427]]
+- [[RecommendationsToColoradoRiver_14701]]

@@ -35,6 +35,12 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 > This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
 > -- *[[AllocatingFreshWaterToAquaticE_18641]]*
 
+> This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
+> -- *[[SummaryOfEvents_18368]]*
+
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
+> -- *[[WrittenCommentsOnDraftBiologic_20522]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AnalysisOfPenaeidShrimpLanding_16892]]
@@ -53,3 +59,5 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
 - [[AllocatingFreshWaterToAquaticE_18641]]
+- [[SummaryOfEvents_18368]]
+- [[WrittenCommentsOnDraftBiologic_20522]]

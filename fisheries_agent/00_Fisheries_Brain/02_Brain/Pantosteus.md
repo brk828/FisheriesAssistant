@@ -32,6 +32,9 @@ Pantosteus is a genus of suckers (family Catostomidae) that comprises freshwater
 > **Taxonomic & Life-History Summary:** [[Smallmouth Bass]] (*Micropterus dolomieui dolomieui*) is a member of family [[Centrarchidae]]. Body thick and chunky with moderate-sized mouth; upper jaw usually not reaching posteriad past front of eye. Spinous dorsal fin low, soft dorsal fin with 13-15...
 > -- *[[SmallmouthBassMicropterusDolom_X-013f4e27]]*
 
+> This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
+> -- *[[WoundfinPlagopterusArgentissim_14022]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[CorrespondenceOnMexicanFishTax_1993_10_21]]
@@ -46,3 +49,4 @@ Pantosteus is a genus of suckers (family Catostomidae) that comprises freshwater
 - [[MorphologicalVariationInCatost_13689]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
+- [[WoundfinPlagopterusArgentissim_14022]]

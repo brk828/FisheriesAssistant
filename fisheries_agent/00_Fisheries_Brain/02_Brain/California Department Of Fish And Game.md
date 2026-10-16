@@ -32,6 +32,9 @@ The California Department of Fish and Game (now the California Department of Fis
 > This administrative report documents a record-breaking year for [[California Department of Fish and Game]] hatchery operations during fiscal year 1967-68. Despite two hatcheries being out of service for the entire year, the Department planted 2,706,909 lb of fish, exceeding the previous year's...
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14868]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -52,3 +55,4 @@ The California Department of Fish and Game (now the California Department of Fis
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[CaliforniaTroutSalmonAndWarmwa_14867]]
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
+- [[DraftmanagementPlanForTheRazor_11427]]

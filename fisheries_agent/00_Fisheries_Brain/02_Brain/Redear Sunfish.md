@@ -47,6 +47,9 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 > This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
 > -- *[[EndangeredAndThreatenedWildlif_11592]]*
 
+> This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
+> -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
+
 ## Mentioned In
 - [[ANoteOnTheResultsOfFeedingFire_1960]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -94,3 +97,4 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 - [[SelectedAspectsOfTheNaturalHis_14397]]
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[EndangeredAndThreatenedWildlif_11592]]
+- [[ResultsOfAnOpeningWeekCreelCen_17745]]

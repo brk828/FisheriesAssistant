@@ -92,6 +92,21 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > **Taxonomic & Life-History Summary**: Two non-native centrarchid species are documented. [[Redeye Bass]] (*Micropterus coosae*) reaches maximum size about 19 in (47 cm). [[Smallmouth Bass]] (*Micropterus dolomieu*) is thick and chunky with large mouth, upper jaw extending almost to rear margin of...
 > -- *[[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
+> This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
+> -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
+
+> This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
+> -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
+
+> This proposal from the [[Southwest Center for Education and the Natural Environment]] (SCENE) to the [[Arizona Community Foundation]] outlines a three-year program to involve high school students in authentic scientific research at [[Arizona State University]]. The project aims to engage 120...
+> -- *[[ScientificResearchExperiencesF_20483]]*
+
+> This correspondence from the [[Arizona Game and Fish Department]] (AGFD) to [[The Nature Conservancy]] (TNC) summarizes action items and deadlines from a January 14, 1993 meeting regarding [[Palm Lake]] at the [[Hassayampa River Preserve]] in [[Wickenburg, Arizona]]. The letter outlines...
+> -- *[[PalmLakeMeetingjanuary_20906]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -288,3 +303,8 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
+- [[DraftmanagementPlanForTheRazor_11427]]
+- [[LetterReviewOfBogHoleRenovatio_12470]]
+- [[ReportOfTheAccomplishmentsOfTh_19807]]
+- [[ScientificResearchExperiencesF_20483]]
+- [[PalmLakeMeetingjanuary_20906]]

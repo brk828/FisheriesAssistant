@@ -32,6 +32,12 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 > This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
 > -- *[[TentativeSummaryOfCollectingAc_13171]]*
 
+> Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
+> -- *[[FieldNotesOfTripToSanBernardin_13172]]*
+
+> This monitoring report documents the status of native fish species stocked at [[Palm Lake]], [[Hassayampa River Preserve]], Arizona, sampled on 2-3 April 1990. The assessment evaluated survival and condition of [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*)...
+> -- *[[FishMonitoringOfPalmLakeHassay_16635]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
@@ -66,3 +72,5 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 - [[GapeLimitationPreySizeRefugesA_2006]]
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[TentativeSummaryOfCollectingAc_13171]]
+- [[FieldNotesOfTripToSanBernardin_13172]]
+- [[FishMonitoringOfPalmLakeHassay_16635]]

@@ -11,5 +11,9 @@ auto_enriched: true
 > - At least **56 endemic organisms** had been formally described from Cuatro Ciénegas at the time of the symposium, spanning plants, crustaceans, molluscs, reptiles, amphibians, fishes, birds, and parasites. - The valley serves as a natural model system for studying **speciation, niche segregation...
 > -- *[[SpecialSymposiumOnTheBiotaOfCu_19762]]*
 
+> This correspondence documents collaboration between Mexican biologists at [[Universidad Autónoma Metropolitana]] and Dr. [[W. L. Minckley]] of [[Arizona State University]] regarding the first management plan for the proposed [[Cuatro Ciénegas]] watershed [[Biosphere Reserve]] in [[Coahuila]],...
+> -- *[[CuatroCienegasWatershedCoahuil_16108]]*
+
 ## Mentioned In
 - [[SpecialSymposiumOnTheBiotaOfCu_19762]]
+- [[CuatroCienegasWatershedCoahuil_16108]]

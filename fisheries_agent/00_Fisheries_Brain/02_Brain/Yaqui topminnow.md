@@ -32,6 +32,9 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
 > -- *[[TentativeSummaryOfCollectingAc_13171]]*
 
+> Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
+> -- *[[FieldNotesOfTripToSanBernardin_13172]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -67,3 +70,4 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[ListedAndCandidateSpeciesRespo_11941]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[TentativeSummaryOfCollectingAc_13171]]
+- [[FieldNotesOfTripToSanBernardin_13172]]

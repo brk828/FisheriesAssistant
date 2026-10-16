@@ -23,6 +23,9 @@ The Sonoran Sucker (Catostomus insignis) is a native cyprinid fish species endem
 > - **Pond system**: Three artificial ponds (Lakes A, B, C) at ASU Research Park, hydrologically connected to and supplied by the Tempe Canal (part of the Salt River Project canal system), which serves as a continual conduit for unintentional fish introductions. - **Trophic role of tilapia**: Intro...
 > -- *[[FishSamplingAtAsuResearchPark_1987_04_10]]*
 
+> This memorandum documents a 14-day cooperative monitoring effort in March 1985 to detect reintroduced [[Razorback Sucker]] (*Xyrauchen texanus*) in three Arizona reservoirs: [[Bartlett Reservoir]] (Verde River), [[Roosevelt Reservoir]] (Salt River), and [[San Carlos Reservoir]] (Gila River). The...
+> -- *[[RazorbackSuckerMonitoringEffor_13702]]*
+
 ## Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -33,3 +36,4 @@ The Sonoran Sucker (Catostomus insignis) is a native cyprinid fish species endem
 - [[SpeciesAccountCatostomusInsign_13167]]
 - [[TableVulnerableSpeciesInPimaCo_18770]]
 - [[UpperVerdeRiverAquaticStudy_15611]]
+- [[RazorbackSuckerMonitoringEffor_13702]]

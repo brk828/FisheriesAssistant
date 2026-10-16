@@ -35,6 +35,9 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This study documents the distribution patterns of [[Striped Mullet]] (Mugil cephalus) in the [[Colorado River]] and [[Gulf of California]] during 1967-1968, revealing evidence of upstream migration and questioning traditional understanding of salinity requirements for spawning. Collections from...
 > -- *[[DifferentialDistributionOfTheS_19750]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
 ## Mentioned In
 - [[CommentsOnTheProposedNonessent_1987_10_07]]
 - [[HabitatUseByRazorbackSuckersRe_1995]]
@@ -47,3 +50,4 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[IntraserviceSectionConsultatio_11829]]
 - [[IntraserviceSectionConsultatio_20152]]
 - [[DifferentialDistributionOfTheS_19750]]
+- [[DraftmanagementPlanForTheRazor_11427]]

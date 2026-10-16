@@ -83,6 +83,21 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
+> This report summarizes a peer review and roundtable discussion conducted February 6-7, 1995, in Grand Junction, Colorado, evaluating the relationship between streamflow, geomorphology, and food web studies in the [[Upper Colorado River Basin]] Recovery Program for four endangered fishes:...
+> -- *[[HighlightsOfAPeerReviewAndRoun_11448]]*
+
+> This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
+> -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
+
+> This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
+> -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
+
+> This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
+> -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
+
 ## Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -180,3 +195,8 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[OurayWildlifeRefugeSemicontrol_16473]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[DraftmanagementPlanForTheRazor_11427]]
+- [[HighlightsOfAPeerReviewAndRoun_11448]]
+- [[ProgressReportOnGilaTaxonomyPr_14729]]
+- [[AsuCostProposalForGilaTaxonomy_18173]]
+- [[ReportOfTheAccomplishmentsOfTh_19807]]

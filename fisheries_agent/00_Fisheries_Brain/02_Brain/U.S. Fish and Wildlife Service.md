@@ -101,6 +101,33 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
 > -- *[[TentativeAgendaForTheUpperColo_15254]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
+> This report summarizes a peer review and roundtable discussion conducted February 6-7, 1995, in Grand Junction, Colorado, evaluating the relationship between streamflow, geomorphology, and food web studies in the [[Upper Colorado River Basin]] Recovery Program for four endangered fishes:...
+> -- *[[HighlightsOfAPeerReviewAndRoun_11448]]*
+
+> This administrative correspondence from April 25, 1968, documents the [[National Park Service]] response to Mr. William Minkley of [[Arizona State University]] regarding a research permit application to collect [[Humpback Chub]] (Gila cypha) eggs within [[Grand Canyon National Park]]. The letter...
+> -- *[[HumpbackChubEggCollectionInGra_13013]]*
+
+> This 1993 memorandum from the Office of the Solicitor, U.S. Department of the Interior, clarifies that hybrid offspring whose parents are both listed as endangered or threatened under the [[Endangered Species Act]] (ESA) are not protected under the Act. The opinion addresses a specific case...
+> -- *[[StatusOfTheHybridOffspringOfTw_15617]]*
+
+> This unsolicited proposal to the [[U.S. Bureau of Reclamation]] outlines a three-year genetic monitoring program for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*) populations in [[Lake Mohave]], Arizona-Nevada. Submitted by researchers from [[Arizona...
+> -- *[[GeneticMonitoringOfRepatriated_17010]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
+> -- *[[AprilManagementGroupMeetingSum_19221]]*
+
+> This proposal from the [[Southwest Center for Education and the Natural Environment]] (SCENE) to the [[Arizona Community Foundation]] outlines a three-year program to involve high school students in authentic scientific research at [[Arizona State University]]. The project aims to engage 120...
+> -- *[[ScientificResearchExperiencesF_20483]]*
+
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
+> -- *[[WrittenCommentsOnDraftBiologic_20522]]*
+
+> This correspondence from the [[Arizona Game and Fish Department]] (AGFD) to [[The Nature Conservancy]] (TNC) summarizes action items and deadlines from a January 14, 1993 meeting regarding [[Palm Lake]] at the [[Hassayampa River Preserve]] in [[Wickenburg, Arizona]]. The letter outlines...
+> -- *[[PalmLakeMeetingjanuary_20906]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -338,3 +365,12 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[AnEcosystemApproachToFishAndWi_11650]]
 - [[TentativeAgendaForTheUpperColo_15254]]
+- [[DraftmanagementPlanForTheRazor_11427]]
+- [[HighlightsOfAPeerReviewAndRoun_11448]]
+- [[HumpbackChubEggCollectionInGra_13013]]
+- [[StatusOfTheHybridOffspringOfTw_15617]]
+- [[GeneticMonitoringOfRepatriated_17010]]
+- [[AprilManagementGroupMeetingSum_19221]]
+- [[ScientificResearchExperiencesF_20483]]
+- [[WrittenCommentsOnDraftBiologic_20522]]
+- [[PalmLakeMeetingjanuary_20906]]

@@ -23,6 +23,9 @@ Dissolved oxygen (DO) is the concentration of oxygen gas dissolved in water that
 > 7. **Companion note (Benson, Davidson County ponds):** A separate, mechanistically distinct fish-kill phenomenon was documented in small ponds, linked not to columnaris but to a cloudy period following several days of high air temperature, implicating a collapse in the photosynthesis–respiration ...
 > -- *[[OutbreaksOfColumnarisInCenterH_1959]]*
 
+> This correspondence from the [[Arizona Game and Fish Department]] (AGFD) to [[The Nature Conservancy]] (TNC) summarizes action items and deadlines from a January 14, 1993 meeting regarding [[Palm Lake]] at the [[Hassayampa River Preserve]] in [[Wickenburg, Arizona]]. The letter outlines...
+> -- *[[PalmLakeMeetingjanuary_20906]]*
+
 ## Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[ConsiderationsForAcceptableCon_15438]]
@@ -41,3 +44,4 @@ Dissolved oxygen (DO) is the concentration of oxygen gas dissolved in water that
 - [[TheToxicityOfAmmoniaToRainbowT_16169]]
 - [[TheUseOfBiologyInTheStudyOfWat_1964]]
 - [[TheUseOfFertilizersInNewHampsh_1950]]
+- [[PalmLakeMeetingjanuary_20906]]

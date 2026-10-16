@@ -47,6 +47,9 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
+> -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
+
 ## Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[CienegaCreekWatershedWaterSour_18990]]
@@ -68,3 +71,4 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 - [[MolecularVariationAndEvolution_18435]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[LetterReviewOfBogHoleRenovatio_12470]]

@@ -89,6 +89,27 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 > This biological assessment evaluates potential impacts of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species: [[Bonytail Chub]] (*Gila elegans*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bald Eagle]] (*Haliaeetus leucocephalus*),...
 > -- *[[BiologicalAssessmentOnThreaten_19806]]*
 
+> This draft management plan addresses the recovery of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftLowerColoradoRiverBasinNa_11716]]*
+
+> This document presents a comprehensive set of recovery alternatives for four endangered big river fishes of the [[Colorado River Basin]], prepared for the Six Agency Committee in August 1993. The proposal outlines three primary recovery concepts: habitat creation and management, propagation, and...
+> -- *[[ColoradoRiverEndangeredFishRec_15072]]*
+
+> This monitoring report documents the status of native fish species stocked at [[Palm Lake]], [[Hassayampa River Preserve]], Arizona, sampled on 2-3 April 1990. The assessment evaluated survival and condition of [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*)...
+> -- *[[FishMonitoringOfPalmLakeHassay_16635]]*
+
+> This unsolicited proposal to the [[U.S. Bureau of Reclamation]] outlines a three-year genetic monitoring program for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*) populations in [[Lake Mohave]], Arizona-Nevada. Submitted by researchers from [[Arizona...
+> -- *[[GeneticMonitoringOfRepatriated_17010]]*
+
+> This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
+> -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
+
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
+> -- *[[WrittenCommentsOnDraftBiologic_20522]]*
+
+> This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
+> -- *[[RainbowSmeltProposallakePowell_21115]]*
+
 ## Mentioned In
 - [[ANonLethalStomachPumpingTechni_14917]]
 - [[ANonlethalTechniqueToRecoverGu_1994]]
@@ -375,3 +396,10 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 - [[BiologicalAssessmentProbableEf_11481]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[BiologicalAssessmentOnThreaten_19806]]
+- [[DraftLowerColoradoRiverBasinNa_11716]]
+- [[ColoradoRiverEndangeredFishRec_15072]]
+- [[FishMonitoringOfPalmLakeHassay_16635]]
+- [[GeneticMonitoringOfRepatriated_17010]]
+- [[ReportOfTheAccomplishmentsOfTh_19807]]
+- [[WrittenCommentsOnDraftBiologic_20522]]
+- [[RainbowSmeltProposallakePowell_21115]]

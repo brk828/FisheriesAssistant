@@ -23,6 +23,12 @@ Paul Marsh is an ichthyologist and researcher affiliated with Arizona State Univ
 > - A formal **inter-institutional protocol** was established for sequential processing of frozen bonytail specimens: (1) genetic tissue removal → (2) shipment frozen to ASU → (3) possible additional genetic tissue removal → (4) thawing and [[Videoscan Morphology|videoscan morphological analysis]] ...
 > -- *[[LetterOnDispositionOfFrozenBon_1993_10_01]]*
 
+> This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
+> -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
+
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
+> -- *[[WrittenCommentsOnDraftBiologic_20522]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[BonytailReceivedCaughtInLakeMo_15286]]
@@ -49,3 +55,5 @@ Paul Marsh is an ichthyologist and researcher affiliated with Arizona State Univ
 - [[TripReportColdSpringSeepAugust_1990_08_08]]
 - [[TripReportForTheAprilSurveyOfT_1996_04_11]]
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
+- [[AsuCostProposalForGilaTaxonomy_18173]]
+- [[WrittenCommentsOnDraftBiologic_20522]]

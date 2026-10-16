@@ -44,6 +44,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
 > -- *[[DistributionAndPoststockingSur_2016]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -98,3 +101,4 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[IndigenousBigriverFishesColora_18295]]
 - [[LetterToJimJohnsonWithEncolose_11425]]
 - [[DistributionAndPoststockingSur_2016]]
+- [[DraftmanagementPlanForTheRazor_11427]]

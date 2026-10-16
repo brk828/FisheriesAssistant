@@ -17,9 +17,13 @@ Roosevelt Dam, constructed on the Salt River in Arizona, is a major water infras
 > This biological assessment evaluates potential impacts of removing the [[Roosevelt Diversion Dam]] on the [[Salt River]], Arizona. Electrofishing surveys conducted March 15-16, 1988 documented stark differences in fish assemblages above versus below the dam. Above the dam, 230 fish (23,680 gm total...
 > -- *[[SaltRiverProjectRooseveltDiver_15070]]*
 
+> The U.S. Fish and Wildlife Service establishes "nonessential experimental" populations of [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Woundfin]] (*Plagopterus argentissimus*) in the [[Gila River]] drainage of Arizona under Section 10(j) of the Endangered Species Act of 1973. This...
+> -- *[[EndangeredAndThreatenedWildlif_11550]]*
+
 ## Mentioned In
 - [[EndangeredFishes_12619]]
 - [[FaunalResourceUseInThePrehisto_17343]]
 - [[ManagingNaturalResourcesAtASma_13227]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[SaltRiverProjectRooseveltDiver_15070]]
+- [[EndangeredAndThreatenedWildlif_11550]]

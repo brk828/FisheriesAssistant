@@ -29,6 +29,9 @@ Davis Cove is a managed backwater habitat within Lake Havasu on the Lower Colora
 > The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
 > -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
 
+> This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
+> -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -48,3 +51,4 @@ Davis Cove is a managed backwater habitat within Lake Havasu on the Lower Colora
 - [[SpringSurveyForRazorbackSucker_1993_03_26]]
 - [[RequestedMeetingnativeFishWork_15023]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[ReportOfTheAccomplishmentsOfTh_19807]]

@@ -13,7 +13,11 @@ Florida represents a critical geographic region in ichthyological and conservati
 > - **Recipient ecosystem**: The [[Cuatro Ciénegas Basin]] is described (via context and Minckley's assessment) as an isolated, spring-fed desert wetland system harboring a high concentration of narrowly endemic aquatic species — a classic model system for [[desert fish endemism]]. - **Threat mecha...
 > -- *[[LetterRegardingTilapiaIntroduc_17612]]*
 
+> A 1957 survey of U.S. state fisheries programs reveals widespread adoption of scuba diving as a fisheries management tool. Of responding states (89.6% response rate), 14 states actively use scuba diving, four plan to implement it, and one utilizes volunteer skin diving clubs. The technology enables...
+> -- *[[StatesIncorporateScubaDivingIn_16035]]*
+
 ## Mentioned In
 - [[ASystematicAndGeographicalStud_1961]]
 - [[ConservationStatusOfTheNorthAm_1990]]
 - [[LetterRegardingTilapiaIntroduc_17612]]
+- [[StatesIncorporateScubaDivingIn_16035]]

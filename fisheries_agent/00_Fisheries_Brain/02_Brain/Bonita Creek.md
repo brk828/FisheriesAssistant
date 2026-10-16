@@ -35,6 +35,9 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 > This 1987 baseline report documents vegetation and breeding bird communities along a 3 km cattle exclosure established in 1984 on [[Lower Bonita Creek]], [[Graham County]], [[Arizona]]. The study was conducted by [[William C. Hunter]] from [[Arizona State University]] for the [[U.S. Bureau of Land...
 > -- *[[ChangesInRiparianVegetationAnd_14524]]*
 
+> This study examines putative F₁ hybrids between [[Catostomus insignis]] (Sonoran sucker) and [[Pantosteus clarki]] (desert sucker) from [[Aravaipa Creek]] and [[Bonita Creek]] in southeastern Arizona. Morphological analyses using hybrid index (HI), discriminant function analysis (DFA), and...
+> -- *[[MorphologyAndFoodsOfHybridCata_15933]]*
+
 ## Mentioned In
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
 - [[BlmGilaBoxAdvisoryCommitteeMee_1991_12_24]]
@@ -49,3 +52,4 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[FisheryInventoryOfTheCoachella_13687]]
 - [[ChangesInRiparianVegetationAnd_14524]]
+- [[MorphologyAndFoodsOfHybridCata_15933]]

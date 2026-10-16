@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Iron Cap Mine
+
+## Summary
+The Iron Cap Mine produced sulfide ore that contributed to the tailings at the Klondyke site, though this was considered a minority fraction of the total tailings. Sulfide ores have greater potential for acid mine drainage than the oxide ores that dominated the site.
+
+## Context
+
+> This correspondence from the [[Arizona Department of Environmental Quality]] documents a March 31, 1993 field assessment of mine tailings at [[Klondyke]] and their impact on [[Aravaipa Creek]] water quality. Twenty-four samples were collected including well water, surface water, subsurface water,...
+> -- *[[ReevidenceOfTailingsTransportI_14555]]*
+
+## Mentioned In
+- [[ReevidenceOfTailingsTransportI_14555]]

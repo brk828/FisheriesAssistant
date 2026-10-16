@@ -23,6 +23,9 @@ Pit tags, or Passive Integrated Transponder tags, are small electronic microchip
 > This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
 > -- *[[EndangeredSpeciesProgramReview_19696]]*
 
+> This unsolicited proposal to the [[U.S. Bureau of Reclamation]] outlines a three-year genetic monitoring program for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*) populations in [[Lake Mohave]], Arizona-Nevada. Submitted by researchers from [[Arizona...
+> -- *[[GeneticMonitoringOfRepatriated_17010]]*
+
 ## Mentioned In
 - [[DatabaseManagementProgramColor_1993]]
 - [[GlenCanyonEnvironmentalStudies_1992_09_13]]
@@ -30,3 +33,4 @@ Pit tags, or Passive Integrated Transponder tags, are small electronic microchip
 - [[RequestedMeetingnativeFishWork_15023]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
 - [[EndangeredSpeciesProgramReview_19696]]
+- [[GeneticMonitoringOfRepatriated_17010]]

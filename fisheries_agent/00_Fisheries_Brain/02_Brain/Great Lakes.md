@@ -26,6 +26,9 @@ The Great Lakes represent a vast freshwater ecosystem of continental significanc
 > **Taxonomic & Life-History Summary:** [[Smallmouth Bass]] (*Micropterus dolomieui dolomieui*) is a member of family [[Centrarchidae]]. Body thick and chunky with moderate-sized mouth; upper jaw usually not reaching posteriad past front of eye. Spinous dorsal fin low, soft dorsal fin with 13-15...
 > -- *[[SmallmouthBassMicropterusDolom_X-013f4e27]]*
 
+> This document is a formal letter dated January 3, 1990, from [[Grand Canyon National Park]] Superintendent John H. Davis to Wayne Gustaveson of the [[Utah Division of Wildlife]], expressing opposition to a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The...
+> -- *[[ReProposalToIntroduceRainbowSm_13975]]*
+
 ## Mentioned In
 - [[ComparativeMorphometryOfFreshw_12456]]
 - [[CurrentRoleOfTroutCultureInMan_13158]]
@@ -55,3 +58,4 @@ The Great Lakes represent a vast freshwater ecosystem of continental significanc
 - [[TheSmeltOsmerusMordaxMitchill_13092]]
 - [[UsFishAndWildlifeServiceMeetin_15771]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
+- [[ReProposalToIntroduceRainbowSm_13975]]

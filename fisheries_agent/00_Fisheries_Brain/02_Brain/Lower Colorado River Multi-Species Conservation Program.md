@@ -35,6 +35,12 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 > **Taxonomic & Life-History Summary** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid endemic to the [[Colorado River Basin]] of western North America. Historically distributed throughout the mainstem Colorado River and medium to large tributaries, the species has experienced...
 > -- *[[AdaptiveManagementOfAnImperile_2016]]*
 
+> This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
+> -- *[[SummaryOfEvents_18368]]*
+
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
+> -- *[[WrittenCommentsOnDraftBiologic_20522]]*
+
 ## Mentioned In
 - [[BonytailReceivedCaughtInLakeMo_15286]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -53,3 +59,5 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 - [[DistributionAndPoststockingSur_2016]]
 - [[DemographicsAndMonitoringOfRep_2020]]
 - [[AdaptiveManagementOfAnImperile_2016]]
+- [[SummaryOfEvents_18368]]
+- [[WrittenCommentsOnDraftBiologic_20522]]

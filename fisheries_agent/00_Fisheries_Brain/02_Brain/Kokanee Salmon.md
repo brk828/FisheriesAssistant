@@ -32,6 +32,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This 1953 fisheries management report documents comprehensive investigations of three connected water bodies in Colorado: [[Granby Reservoir]], [[Shadow Mountain Reservoir]], and [[Grand Lake]]. The study employed creel census, rough fish control operations, limnological sampling, food habit...
 > -- *[[ProjectReportGrandLakeShadowMo_16322]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -46,3 +49,4 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
 - [[ProjectReportGrandLakeShadowMo_16322]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]

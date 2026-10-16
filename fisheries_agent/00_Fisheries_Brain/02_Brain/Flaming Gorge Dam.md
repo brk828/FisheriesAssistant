@@ -38,6 +38,12 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
+> This report summarizes a peer review and roundtable discussion conducted February 6-7, 1995, in Grand Junction, Colorado, evaluating the relationship between streamflow, geomorphology, and food web studies in the [[Upper Colorado River Basin]] Recovery Program for four endangered fishes:...
+> -- *[[HighlightsOfAPeerReviewAndRoun_11448]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -83,3 +89,5 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[IntraserviceSectionConsultatio_20152]]
 - [[InterimProceduresForStockingNo_15423]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[DraftmanagementPlanForTheRazor_11427]]
+- [[HighlightsOfAPeerReviewAndRoun_11448]]

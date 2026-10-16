@@ -41,6 +41,9 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
+> -- *[[RainbowSmeltProposallakePowell_21115]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -171,3 +174,4 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[MitochondrialDnaDiversityWithi_19127]]
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[RainbowSmeltProposallakePowell_21115]]

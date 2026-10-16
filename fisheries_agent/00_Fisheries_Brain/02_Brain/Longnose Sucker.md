@@ -23,6 +23,9 @@ The Longnose Sucker (Catostomus catostomus) is a benthic cyprinid fish species c
 > | Species | Yr1 | Yr2 | Yr3 | Yr4 | Yr5 | Yr6 | Yr7 | Yr8 | Yr9 | |---|---|---|---|---|---|---|---|---|---| | [[Rainbow Trout]] | 3.2 | 7.9 | 11.1 | 13.5 | 15.9 | 16.6 | 18.5 | — | — | | [[Brown Trout]] | 3.9 | 8.1 | 12.0 | 15.3 | 18.2 | 20.0 | 21.7 | 22.2 | 21.6 | | [[Longnose Sucker]] | 3.0 | 5...
 > -- *[[GrowthRateOfFourSpeciesOfFishB_17891]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[FreshwaterFishesOfTheEasternAr_18569]]
@@ -31,3 +34,4 @@ The Longnose Sucker (Catostomus catostomus) is a benthic cyprinid fish species c
 - [[ObservationsOnTheLongnoseSucke_1954]]
 - [[TheMacroinvertebratesAndFishOf_17377]]
 - [[ThePopulationAndMovementOfFish_1952]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]

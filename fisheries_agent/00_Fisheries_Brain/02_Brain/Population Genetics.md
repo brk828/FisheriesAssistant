@@ -17,6 +17,9 @@ Population genetics in fish science examines the genetic variation and evolution
 > 1. **Random sampling is essential**: True random sampling (not haphazard collection) requires equal probability of capture for every individual in the target population; most historical **museum fish/vertebrate collections are statistically biased** and unsuitable for rigorous variability analysi...
 > -- *[[QuantitativeAndExperimentalMet_12847]]*
 
+> This philosophical analysis examines a major methodological controversy in [[Community Ecology]] concerning the use of [[Null Hypotheses]] to test explanations of [[Community Structure]] based on [[Interspecific Competition]]. The author (Peter B. Sloep, Department of Animal Physiology, Haren,...
+> -- *[[NullHypothesesInEcologyAnAttem_19026]]*
+
 ## Mentioned In
 - [[APrimerOfPopulationBiology_1971]]
 - [[BlueSpringsMiLittleColoradoRiv_1971]]
@@ -25,3 +28,4 @@ Population genetics in fish science examines the genetic variation and evolution
 - [[PatternsOfGeneticVar_1993_05_07]]
 - [[QuantitativeAndExperimentalMet_12847]]
 - [[ReReviewOfPikeminnowReport_1998_10_28]]
+- [[NullHypothesesInEcologyAnAttem_19026]]

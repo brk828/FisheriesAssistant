@@ -47,6 +47,15 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 > **Primary Sampling Purpose**: Continue monitoring species occurrence and abundance in the upper [[Verde River]] in compliance with statewide protocol standards and statewide sportfish stocking consultation conservation measures. This survey represents the third in a series (2016, 2019, 2023)...
 > -- *[[VerdeRiverPerkinsvillesycamore_2023]]*
 
+> This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
+> -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
+
+> Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
+> -- *[[FieldNotesOfTripToSanBernardin_13172]]*
+
+> This U.S. Fish and Wildlife Service biological opinion, issued August 18, 1994, evaluates the effects of repairing Forest Road 449A in [[Gila County]], [[Arizona]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis). The consultation addresses a 1.5-mile road repair project crossing...
+> -- *[[ReBiologicalOpinionOnRepairOfF_15004]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -133,3 +142,6 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[IntegrationOfNewMethodologiesI_2025]]
 - [[VerdeRiverPerkinsvillesycamore_2023]]
+- [[ArizonaAndMexicanDesertPupfish_12498]]
+- [[FieldNotesOfTripToSanBernardin_13172]]
+- [[ReBiologicalOpinionOnRepairOfF_15004]]

@@ -14,7 +14,11 @@ The Aspinall Unit refers to a series of four large federal hydroelectric dams an
 > - **Funding Structure**: FY91 program funding (~$2.7M) was split between 24 "ongoing" priority projects (Attachment 1, totaling $1,782,000) and new initiatives; lead agencies included [[U.S. Fish and Wildlife Service]], [[Bureau of Reclamation]], State of Colorado, State of Utah, and U.S. Forest ...
 > -- *[[SolicitationOfResearchProposal_1990_03_20]]*
 
+> This report summarizes a peer review and roundtable discussion conducted February 6-7, 1995, in Grand Junction, Colorado, evaluating the relationship between streamflow, geomorphology, and food web studies in the [[Upper Colorado River Basin]] Recovery Program for four endangered fishes:...
+> -- *[[HighlightsOfAPeerReviewAndRoun_11448]]*
+
 ## Mentioned In
 - [[InterestGroupParticipationInTh_1994_08_05]]
 - [[RoundtableDiscussionOnStreamfl_1994_12_22]]
 - [[SolicitationOfResearchProposal_1990_03_20]]
+- [[HighlightsOfAPeerReviewAndRoun_11448]]

@@ -44,6 +44,12 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
 > -- *[[Perch_16750]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
+> This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
+> -- *[[SomeObservationsOnTheReclamati_15490]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -106,3 +112,5 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[Perch_16750]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[SomeObservationsOnTheReclamati_15490]]

@@ -89,6 +89,30 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
 > -- *[[CorrespondenceBetweenMinckleyA_16449]]*
 
+> This memorandum from the [[Arizona Ecological Services State Office]] to the Assistant Regional Director provides detailed comments on proposed joint counterpart section 7 regulations for the [[Forest Service]] and [[Bureau of Land Management]]. Dated August 25, 1995, the document expresses support...
+> -- *[[ReviewOfProposedCounterpartReg_11907]]*
+
+> This correspondence from the [[Colorado River Fishes Recovery Team]] Leader to the U.S. Fish and Wildlife Service Regional Director outlines six critical recommendations regarding endangered fish recovery in the [[Colorado River]] system. Primary concerns include upgrading the listing status of...
+> -- *[[RecommendationsToColoradoRiver_14701]]*
+
+> This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
+> -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
+
+> This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
+> -- *[[SummaryOfEvents_18368]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
+> -- *[[AprilManagementGroupMeetingSum_19221]]*
+
+> This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
+> -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
+
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
+> -- *[[WrittenCommentsOnDraftBiologic_20522]]*
+
+> This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
+> -- *[[RainbowSmeltProposallakePowell_21115]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -178,3 +202,11 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[CorrespondenceBetweenMinckleyA_16449]]
+- [[ReviewOfProposedCounterpartReg_11907]]
+- [[RecommendationsToColoradoRiver_14701]]
+- [[AsuCostProposalForGilaTaxonomy_18173]]
+- [[SummaryOfEvents_18368]]
+- [[AprilManagementGroupMeetingSum_19221]]
+- [[ReportOfTheAccomplishmentsOfTh_19807]]
+- [[WrittenCommentsOnDraftBiologic_20522]]
+- [[RainbowSmeltProposallakePowell_21115]]

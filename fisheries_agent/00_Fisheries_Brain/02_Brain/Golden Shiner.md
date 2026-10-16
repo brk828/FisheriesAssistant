@@ -35,6 +35,9 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
 > -- *[[InlandCommercialFisheriesWorks_15658]]*
 
+> This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
+> -- *[[SomeObservationsOnTheReclamati_15490]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -76,3 +79,4 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[InlandCommercialFisheriesWorks_15658]]
+- [[SomeObservationsOnTheReclamati_15490]]

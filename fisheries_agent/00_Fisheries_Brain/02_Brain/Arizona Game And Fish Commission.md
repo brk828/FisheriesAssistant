@@ -23,6 +23,9 @@ The Arizona Game and Fish Commission is the state regulatory agency responsible 
 > This document is a cooperative agreement proposal between [[Arizona State University]] (ASU) and the [[Arizona Game and Fish Department]] for non-game wildlife and fisheries investigations. Proposed by W. L. Minckley, Professor of Zoology at ASU, in collaboration with James E. Brooks, Biologist in...
 > -- *[[NongameWildlifeAndFisheriesInv_13701]]*
 
+> This administrative correspondence from April 25, 1968, documents the [[National Park Service]] response to Mr. William Minkley of [[Arizona State University]] regarding a research permit application to collect [[Humpback Chub]] (Gila cypha) eggs within [[Grand Canyon National Park]]. The letter...
+> -- *[[HumpbackChubEggCollectionInGra_13013]]*
+
 ## Mentioned In
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
 - [[CaliforniaReptileInvestigation_1994_09_27]]
@@ -32,3 +35,4 @@ The Arizona Game and Fish Commission is the state regulatory agency responsible 
 - [[ToxapheneAsAFishToxin_1951]]
 - [[RiverResourceMonitoringProject_18503]]
 - [[NongameWildlifeAndFisheriesInv_13701]]
+- [[HumpbackChubEggCollectionInGra_13013]]

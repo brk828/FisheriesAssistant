@@ -26,6 +26,9 @@ Catostomus insignis, commonly known as the Sonora sucker, is a native North Amer
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This study examines putative F₁ hybrids between [[Catostomus insignis]] (Sonoran sucker) and [[Pantosteus clarki]] (desert sucker) from [[Aravaipa Creek]] and [[Bonita Creek]] in southeastern Arizona. Morphological analyses using hybrid index (HI), discriminant function analysis (DFA), and...
+> -- *[[MorphologyAndFoodsOfHybridCata_15933]]*
+
 ## Mentioned In
 - [[AravaipaCreekMonitoringData_1993_07_15]]
 - [[ColoradoSquawfishMonitoringVer_19393]]
@@ -38,3 +41,4 @@ Catostomus insignis, commonly known as the Sonora sucker, is a native North Amer
 - [[SerumHaptoglobinsInSomeNorthAm_1966]]
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[MorphologyAndFoodsOfHybridCata_15933]]

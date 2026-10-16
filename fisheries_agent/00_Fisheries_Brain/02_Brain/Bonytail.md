@@ -65,6 +65,12 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
+> This report summarizes a peer review and roundtable discussion conducted February 6-7, 1995, in Grand Junction, Colorado, evaluating the relationship between streamflow, geomorphology, and food web studies in the [[Upper Colorado River Basin]] Recovery Program for four endangered fishes:...
+> -- *[[HighlightsOfAPeerReviewAndRoun_11448]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -212,3 +218,5 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 - [[InvasionPotentialOfNonnativeFi_2026]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[DraftmanagementPlanForTheRazor_11427]]
+- [[HighlightsOfAPeerReviewAndRoun_11448]]

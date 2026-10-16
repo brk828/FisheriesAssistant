@@ -35,6 +35,12 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 > This 1967 NSF proposal requests continuation funding ($32,370.56 for one year) for a multidisciplinary systematic study of [[Poecilia]] species in northeastern Mexico, with particular focus on the all-female gynogenetic species [[Poecilia formosa]] (Amazon Molly). The research team led by Rezneat...
 > -- *[[SystematicsOfPoeciliaInNorthea_13950]]*
 
+> This U.S. Fish and Wildlife Service biological opinion, issued August 18, 1994, evaluates the effects of repairing Forest Road 449A in [[Gila County]], [[Arizona]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis). The consultation addresses a 1.5-mile road repair project crossing...
+> -- *[[ReBiologicalOpinionOnRepairOfF_15004]]*
+
+> This 1906 taxonomic review by [[Jordan]] and [[Snyder]] documents two species of killifishes (family [[Poeciliidae]]) from Japan: [[Fundulichthys virescens]] and [[Oryzias latipes]]. Both are small fishes inhabiting rice swamps, pools, and ditches in southern Japan, likely feeding on mosquitoes....
+> -- *[[AReviewOfThePoeciliidaeOrKillf_19855]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -125,3 +131,5 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 - [[SiteVisitPotentialFishBarrierS_11854]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[SystematicsOfPoeciliaInNorthea_13950]]
+- [[ReBiologicalOpinionOnRepairOfF_15004]]
+- [[AReviewOfThePoeciliidaeOrKillf_19855]]

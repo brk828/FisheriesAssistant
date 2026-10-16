@@ -38,6 +38,9 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 > This document comprises expert commentary from Dr. W.L. Minckley (Arizona State University) on the U.S. Fish & Wildlife Service's Biological Opinion (BO) for Lower Colorado River operations and maintenance. The correspondence, dated July 10, 1997, critiques the BO's approach to recovering...
 > -- *[[CommentsOnFinalBiologicalAndCo_14379]]*
 
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
+> -- *[[WrittenCommentsOnDraftBiologic_20522]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -71,3 +74,4 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 - [[NoticeOfIntentToSueForViolatio_20521]]
 - [[ReContinuationOfTheUsArmysSanP_11808]]
 - [[CommentsOnFinalBiologicalAndCo_14379]]
+- [[WrittenCommentsOnDraftBiologic_20522]]

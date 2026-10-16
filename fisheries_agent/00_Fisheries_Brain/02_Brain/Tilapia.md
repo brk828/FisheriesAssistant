@@ -38,6 +38,9 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 > This letter from W.L. Minckley ([[Arizona State University]]) to Dr. Robert R. Miller ([[University of Michigan]]) dated June 30, 1988, addresses the discovery of [[Tilapia]] introduction into the [[Cuatro Cienegas]] basin in Mexico. Minckley outlines his position on appropriate response protocols,...
 > -- *[[TilapiaInCuatroCienegas_13761]]*
 
+> This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
+> -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -80,3 +83,4 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[FishPlentifulInGuatemalaLake_19070]]
 - [[TilapiaInCuatroCienegas_13761]]
+- [[ArizonaAndMexicanDesertPupfish_12498]]

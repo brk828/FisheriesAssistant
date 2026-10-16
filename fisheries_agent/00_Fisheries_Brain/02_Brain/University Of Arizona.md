@@ -20,6 +20,9 @@ The University of Arizona served as an institutional partner in federally-author
 > This document contains three technical proposals submitted by [[BIO/WEST]] to modify Contract No. 0-CS-40-09110 for [[Humpback Chub]] studies in the [[Colorado River]] through [[Grand Canyon]]. The proposals, dated December 8, 1993, request additional funding totaling $270,983.63 to complete: (1) a...
 > -- *[[RevisedTechnicalProposalsToMod_13629]]*
 
+> This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
+> -- *[[SummaryOfEvents_18368]]*
+
 ## Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -29,3 +32,4 @@ The University of Arizona served as an institutional partner in federally-author
 - [[ReminderNoticeOnReportingRequi_1993_07_02]]
 - [[SummaryOfDesertPupfishIntroduc_1989_02_09]]
 - [[RevisedTechnicalProposalsToMod_13629]]
+- [[SummaryOfEvents_18368]]

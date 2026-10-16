@@ -53,6 +53,15 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 > **Core Problem Addressed**: Evaluate the population-level consequences of a decade-long [[Common Carp]] removal effort in [[Utah Lake]] (>12,000 tons harvested 2009-2018) and determine whether current mechanical removal strategies can maintain carp biomass below management targets (75% reduction)...
 > -- *[[CompensatoryRecruitmentDynamic_2020]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
+> This 1985 study investigated the early life history and ecology of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae in [[Lake Mohave]], Arizona-Nevada, to determine causes of recruitment failure in the only substantial remaining population of this endemic Colorado River species. Adult suckers...
+> -- *[[EarlyLifeHistoryOfRazorbackSuc_12707]]*
+
+> This memorandum documents a 14-day cooperative monitoring effort in March 1985 to detect reintroduced [[Razorback Sucker]] (*Xyrauchen texanus*) in three Arizona reservoirs: [[Bartlett Reservoir]] (Verde River), [[Roosevelt Reservoir]] (Salt River), and [[San Carlos Reservoir]] (Gila River). The...
+> -- *[[RazorbackSuckerMonitoringEffor_13702]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -206,3 +215,6 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 - [[InvasionPotentialOfNonnativeFi_2026]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
 - [[CompensatoryRecruitmentDynamic_2020]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[EarlyLifeHistoryOfRazorbackSuc_12707]]
+- [[RazorbackSuckerMonitoringEffor_13702]]

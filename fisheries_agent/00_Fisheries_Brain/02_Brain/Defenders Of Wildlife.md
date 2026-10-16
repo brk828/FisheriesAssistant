@@ -23,9 +23,17 @@ Defenders of Wildlife is a prominent conservation organization that has actively
 > This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
 > -- *[[NoticeOfIntentToSueForViolatio_20521]]*
 
+> This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
+> -- *[[SummaryOfEvents_18368]]*
+
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
+> -- *[[WrittenCommentsOnDraftBiologic_20522]]*
+
 ## Mentioned In
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
 - [[WhatIsAmericanRiversDoingInThe_1997]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
+- [[SummaryOfEvents_18368]]
+- [[WrittenCommentsOnDraftBiologic_20522]]

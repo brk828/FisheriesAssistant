@@ -23,6 +23,12 @@ San Carlos Reservoir is an impounded lentic (lake-like) water body on the Gila R
 > - **Habitat System**: The relevant aquatic habitat consists of two distinct zones affected by dam operations: - **[[San Carlos Reservoir]]** (impounded lentic/lake habitat upstream of the dam), with conservation storage currently restricted to elevation 2511 ft due to inoperative spillway gates, ...
 > -- *[[ModificationOfCoolidgeDamAFeat_11478]]*
 
+> The U.S. Fish and Wildlife Service establishes "nonessential experimental" populations of [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Woundfin]] (*Plagopterus argentissimus*) in the [[Gila River]] drainage of Arizona under Section 10(j) of the Endangered Species Act of 1973. This...
+> -- *[[EndangeredAndThreatenedWildlif_11550]]*
+
+> This memorandum documents a 14-day cooperative monitoring effort in March 1985 to detect reintroduced [[Razorback Sucker]] (*Xyrauchen texanus*) in three Arizona reservoirs: [[Bartlett Reservoir]] (Verde River), [[Roosevelt Reservoir]] (Salt River), and [[San Carlos Reservoir]] (Gila River). The...
+> -- *[[RazorbackSuckerMonitoringEffor_13702]]*
+
 ## Mentioned In
 - [[ModificationOfCoolidgeDamAFeat_11478]]
 - [[RadiotaggingRazorbackSuckersGi_1989_06_12]]
@@ -30,3 +36,5 @@ San Carlos Reservoir is an impounded lentic (lake-like) water body on the Gila R
 - [[ReportOnLunaLakeApacheCountyAr_19495]]
 - [[ReviewOfMayDraftBiologicalOpin_1991_07_23]]
 - [[ToxapheneAsAFishToxin_1951]]
+- [[EndangeredAndThreatenedWildlif_11550]]
+- [[RazorbackSuckerMonitoringEffor_13702]]

@@ -80,6 +80,9 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> This draft management plan addresses the recovery of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftLowerColoradoRiverBasinNa_11716]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -217,3 +220,4 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[RebuttalToCriticismsByDuncanPa_11089]]
 - [[CorrespondenceRegardingMeeting_13520]]
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[DraftLowerColoradoRiverBasinNa_11716]]

@@ -23,6 +23,9 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 > This annual report summarizes research activities conducted during 1966 by multiple hydrobiological, ichthyological, fisheries, fish disease, and waterfowl research units affiliated with the [[Natural History Club]] in Brno, Czechoslovakia. The report covers work by university departments, Academy...
 > -- *[[HydrobiologicalAndIchthyologic_12963]]*
 
+> This 1985 study investigated the early life history and ecology of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae in [[Lake Mohave]], Arizona-Nevada, to determine causes of recruitment failure in the only substantial remaining population of this endemic Colorado River species. Adult suckers...
+> -- *[[EarlyLifeHistoryOfRazorbackSuc_12707]]*
+
 ## Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[Craspedacusta Sowerbii in Pymatuning Reservoir]]
@@ -30,3 +33,4 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 - [[GrassCarpCtenopharyngodonIdell_19237]]
 - [[OnTheDorsalLightResponseInAMay_14496]]
 - [[HydrobiologicalAndIchthyologic_12963]]
+- [[EarlyLifeHistoryOfRazorbackSuc_12707]]

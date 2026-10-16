@@ -32,6 +32,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
 > -- *[[ReportOfTheOctoberFishCount_11417]]*
 
+> This draft management plan addresses the recovery of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftLowerColoradoRiverBasinNa_11716]]*
+
 ## Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -90,3 +93,4 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[ListedAndCandidateSpeciesRespo_11941]]
 - [[EvaluationsAndSuggestionsConce_16480]]
 - [[ReportOfTheOctoberFishCount_11417]]
+- [[DraftLowerColoradoRiverBasinNa_11716]]

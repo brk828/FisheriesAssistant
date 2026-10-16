@@ -17,7 +17,15 @@ Arizona Bay is a shallow nearshore habitat within Lake Mohave (on the Arizona-Ne
 > - **[[Cottonwood Cove]]**: Shallow (1–5 m) nearshore habitat over cobble substrate; used by adult bonytail and razorback sucker, particularly during nocturnal periods. Overwhelmingly dominated numerically by invasive **[[Carp]]**, indicating heavy competitive/ecological pressure on native catosto...
 > -- *[[LakeMohaveSamplingMay_1991_06_02]]*
 
+> This 1985 study investigated the early life history and ecology of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae in [[Lake Mohave]], Arizona-Nevada, to determine causes of recruitment failure in the only substantial remaining population of this endemic Colorado River species. Adult suckers...
+> -- *[[EarlyLifeHistoryOfRazorbackSuc_12707]]*
+
+> This unsolicited proposal to the [[U.S. Bureau of Reclamation]] outlines a three-year genetic monitoring program for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*) populations in [[Lake Mohave]], Arizona-Nevada. Submitted by researchers from [[Arizona...
+> -- *[[GeneticMonitoringOfRepatriated_17010]]*
+
 ## Mentioned In
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
 - [[LakeMohaveSamplingMay_1991_06_02]]
 - [[LakeMohaveSamplingMay_1992_06_10]]
+- [[EarlyLifeHistoryOfRazorbackSuc_12707]]
+- [[GeneticMonitoringOfRepatriated_17010]]

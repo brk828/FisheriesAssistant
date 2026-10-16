@@ -23,6 +23,9 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 > This 15-month study (1996-97) evaluated the ecological effects of fitted-stone erosion control structures ("gabions") installed across ~15 years on the 6,153-hectare [[El Coronado Ranch]] in the northwestern [[Chiricahua Mountains]], Arizona. The ranch, historically overgrazed, experienced...
 > -- *[[EcosystemRepairByHeadwaterEros_15854]]*
 
+> Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
+> -- *[[FieldNotesOfTripToSanBernardin_13172]]*
+
 ## Mentioned In
 - [[AshmunellaAngulataEsuritorLent_18478]]
 - [[ChiricahuaRegionalCouncilNewsl_16142]]
@@ -31,3 +34,4 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 - [[StatusOfTheBunchGrassLizardSce_17305]]
 - [[ABotanistInArizonaTerritoryJac_13225]]
 - [[EcosystemRepairByHeadwaterEros_15854]]
+- [[FieldNotesOfTripToSanBernardin_13172]]

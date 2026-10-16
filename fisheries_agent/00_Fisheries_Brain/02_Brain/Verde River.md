@@ -77,6 +77,24 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > **Primary Sampling Purpose**: Continue monitoring species occurrence and abundance in the upper [[Verde River]] in compliance with statewide protocol standards and statewide sportfish stocking consultation conservation measures. This survey represents the third in a series (2016, 2019, 2023)...
 > -- *[[VerdeRiverPerkinsvillesycamore_2023]]*
 
+> The U.S. Fish and Wildlife Service establishes "nonessential experimental" populations of [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Woundfin]] (*Plagopterus argentissimus*) in the [[Gila River]] drainage of Arizona under Section 10(j) of the Endangered Species Act of 1973. This...
+> -- *[[EndangeredAndThreatenedWildlif_11550]]*
+
+> This 1980s-era correspondence from the [[Desert Fishes Council]] to the U.S. Bureau of Reclamation opposes proposed dam construction on the [[Gila River]] in New Mexico. The letter focuses on threats to the [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]), both endemic...
+> -- *[[ProposedConstructionOfADamOnTh_13721]]*
+
+> This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
+> -- *[[WoundfinPlagopterusArgentissim_14022]]*
+
+> This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
+> -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
+
+> This monitoring report documents the status of native fish species stocked at [[Palm Lake]], [[Hassayampa River Preserve]], Arizona, sampled on 2-3 April 1990. The assessment evaluated survival and condition of [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*)...
+> -- *[[FishMonitoringOfPalmLakeHassay_16635]]*
+
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
+> -- *[[WrittenCommentsOnDraftBiologic_20522]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -166,3 +184,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[ACaseOfMistakenIdentityGenetic_2021]]
 - [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
 - [[VerdeRiverPerkinsvillesycamore_2023]]
+- [[EndangeredAndThreatenedWildlif_11550]]
+- [[ProposedConstructionOfADamOnTh_13721]]
+- [[WoundfinPlagopterusArgentissim_14022]]
+- [[ProgressReportOnGilaTaxonomyPr_14729]]
+- [[FishMonitoringOfPalmLakeHassay_16635]]
+- [[WrittenCommentsOnDraftBiologic_20522]]

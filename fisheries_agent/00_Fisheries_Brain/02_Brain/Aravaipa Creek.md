@@ -56,6 +56,15 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This 1980s-era correspondence from the [[Desert Fishes Council]] to the U.S. Bureau of Reclamation opposes proposed dam construction on the [[Gila River]] in New Mexico. The letter focuses on threats to the [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]), both endemic...
+> -- *[[ProposedConstructionOfADamOnTh_13721]]*
+
+> This correspondence from the [[Arizona Department of Environmental Quality]] documents a March 31, 1993 field assessment of mine tailings at [[Klondyke]] and their impact on [[Aravaipa Creek]] water quality. Twenty-four samples were collected including well water, surface water, subsurface water,...
+> -- *[[ReevidenceOfTailingsTransportI_14555]]*
+
+> This study examines putative F₁ hybrids between [[Catostomus insignis]] (Sonoran sucker) and [[Pantosteus clarki]] (desert sucker) from [[Aravaipa Creek]] and [[Bonita Creek]] in southeastern Arizona. Morphological analyses using hybrid index (HI), discriminant function analysis (DFA), and...
+> -- *[[MorphologyAndFoodsOfHybridCata_15933]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -151,3 +160,6 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[DraftOfTheAnnualReportForSpike_13757]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[ProposedConstructionOfADamOnTh_13721]]
+- [[ReevidenceOfTailingsTransportI_14555]]
+- [[MorphologyAndFoodsOfHybridCata_15933]]

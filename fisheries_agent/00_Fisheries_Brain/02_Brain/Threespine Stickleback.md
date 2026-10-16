@@ -23,6 +23,9 @@ The threespine stickleback (Gasterosteus aculeatus) is a small, euryhaline fish 
 > This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
 > -- *[[AConservationorientedClassific_15455]]*
 
+> This note documents seven historical records of fish emergence from deep wells and artesian sources in [[California]], spanning 1870-1953. The author examines whether these fish truly originated from subterranean waters or were inadvertently introduced during drilling operations. Geological...
+> -- *[[TheReportedEmergenceOfFishesFr_16686]]*
+
 ## Mentioned In
 - [[DeclineOfTheNativeFishFaunaOfT_1974]]
 - [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
@@ -30,3 +33,4 @@ The threespine stickleback (Gasterosteus aculeatus) is a small, euryhaline fish 
 - [[LatePleistoceneFreshwaterFishe_1989]]
 - [[RecoveryPlanForTheUnarmoredThr_18261]]
 - [[AConservationorientedClassific_15455]]
+- [[TheReportedEmergenceOfFishesFr_16686]]

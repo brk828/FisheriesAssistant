@@ -26,6 +26,9 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 > This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
 > -- *[[EndangeredAndThreatenedWildlif_11580]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
 ## Mentioned In
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -48,3 +51,4 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 - [[TripReportForTheDecemberSurvey_1994_12_01]]
 - [[TripReportForTheJulySurveyOfTh_1994_09_01]]
 - [[EndangeredAndThreatenedWildlif_11580]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]

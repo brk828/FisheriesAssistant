@@ -29,6 +29,9 @@ Rhinichthys osculus, commonly known as the speckled dace, is a small native cypr
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
+> -- *[[WoundfinPlagopterusArgentissim_14022]]*
+
 ## Mentioned In
 - [[AravaipaCreekMonitoringData_1993_07_15]]
 - [[BlueSpringsMiLittleColoradoRiv_1971]]
@@ -50,3 +53,4 @@ Rhinichthys osculus, commonly known as the speckled dace, is a small native cypr
 - [[TripReportAravaipaCreekEastEnd_1993_10_25]]
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[WoundfinPlagopterusArgentissim_14022]]

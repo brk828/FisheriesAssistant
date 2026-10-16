@@ -50,6 +50,12 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 > **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
 > -- *[[InvasionPotentialOfNonnativeFi_2026]]*
 
+> This 1985 study investigated the early life history and ecology of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae in [[Lake Mohave]], Arizona-Nevada, to determine causes of recruitment failure in the only substantial remaining population of this endemic Colorado River species. Adult suckers...
+> -- *[[EarlyLifeHistoryOfRazorbackSuc_12707]]*
+
+> This memorandum documents a 14-day cooperative monitoring effort in March 1985 to detect reintroduced [[Razorback Sucker]] (*Xyrauchen texanus*) in three Arizona reservoirs: [[Bartlett Reservoir]] (Verde River), [[Roosevelt Reservoir]] (Salt River), and [[San Carlos Reservoir]] (Gila River). The...
+> -- *[[RazorbackSuckerMonitoringEffor_13702]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -128,3 +134,5 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 - [[BiologicalAssessmentOfTheImpac_16261]]
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[InvasionPotentialOfNonnativeFi_2026]]
+- [[EarlyLifeHistoryOfRazorbackSuc_12707]]
+- [[RazorbackSuckerMonitoringEffor_13702]]

@@ -86,6 +86,21 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 > **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
 > -- *[[InvasionPotentialOfNonnativeFi_2026]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
+> This 1985 study investigated the early life history and ecology of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae in [[Lake Mohave]], Arizona-Nevada, to determine causes of recruitment failure in the only substantial remaining population of this endemic Colorado River species. Adult suckers...
+> -- *[[EarlyLifeHistoryOfRazorbackSuc_12707]]*
+
+> This memorandum documents a 14-day cooperative monitoring effort in March 1985 to detect reintroduced [[Razorback Sucker]] (*Xyrauchen texanus*) in three Arizona reservoirs: [[Bartlett Reservoir]] (Verde River), [[Roosevelt Reservoir]] (Salt River), and [[San Carlos Reservoir]] (Gila River). The...
+> -- *[[RazorbackSuckerMonitoringEffor_13702]]*
+
+> This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
+> -- *[[SomeObservationsOnTheReclamati_15490]]*
+
+> This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
+> -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -299,3 +314,8 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 - [[DemographicsAndPoststockingSur_2012]]
 - [[AdaptiveManagementOfAnImperile_2016]]
 - [[InvasionPotentialOfNonnativeFi_2026]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[EarlyLifeHistoryOfRazorbackSuc_12707]]
+- [[RazorbackSuckerMonitoringEffor_13702]]
+- [[SomeObservationsOnTheReclamati_15490]]
+- [[ResultsOfAnOpeningWeekCreelCen_17745]]

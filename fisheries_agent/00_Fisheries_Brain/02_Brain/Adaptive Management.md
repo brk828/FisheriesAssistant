@@ -11,7 +11,11 @@ Adaptive management in fish science and aquatic ecology is an iterative decision
 > 1. **No adequate mechanistic model exists** for predicting incremental flow–habitat–biomass relationships for the endangered fishes in large, complex rivers such as the Upper Colorado — simple deterministic or fully dynamic ecosystem models are both deemed unattainable/impractical. 2. **Prudent a...
 > -- *[[ReviewOfInstreamFlowMethodsAnd_1993]]*
 
+> This report summarizes a peer review and roundtable discussion conducted February 6-7, 1995, in Grand Junction, Colorado, evaluating the relationship between streamflow, geomorphology, and food web studies in the [[Upper Colorado River Basin]] Recovery Program for four endangered fishes:...
+> -- *[[HighlightsOfAPeerReviewAndRoun_11448]]*
+
 ## Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1993_09_14]]
 - [[PerspectivesOnRiverRestoration_15751]]
 - [[ReviewOfInstreamFlowMethodsAnd_1993]]
+- [[HighlightsOfAPeerReviewAndRoun_11448]]

@@ -35,6 +35,12 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 > This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
 > -- *[[TentativeSummaryOfCollectingAc_13171]]*
 
+> This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
+> -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
+
+> Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
+> -- *[[FieldNotesOfTripToSanBernardin_13172]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -74,3 +80,5 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 - [[RenovationOfPalmLakeHassayampa_11969]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[TentativeSummaryOfCollectingAc_13171]]
+- [[ArizonaAndMexicanDesertPupfish_12498]]
+- [[FieldNotesOfTripToSanBernardin_13172]]

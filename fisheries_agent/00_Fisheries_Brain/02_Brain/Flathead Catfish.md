@@ -53,6 +53,12 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
 > -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
+> This memorandum documents a 14-day cooperative monitoring effort in March 1985 to detect reintroduced [[Razorback Sucker]] (*Xyrauchen texanus*) in three Arizona reservoirs: [[Bartlett Reservoir]] (Verde River), [[Roosevelt Reservoir]] (Salt River), and [[San Carlos Reservoir]] (Gila River). The...
+> -- *[[RazorbackSuckerMonitoringEffor_13702]]*
+
 ## Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -114,3 +120,5 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[SaltRiverProjectRooseveltDiver_15070]]
 - [[DistributionAndPoststockingSur_2016]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[RazorbackSuckerMonitoringEffor_13702]]

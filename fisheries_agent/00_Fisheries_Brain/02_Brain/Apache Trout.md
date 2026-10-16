@@ -32,6 +32,9 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 > This January 1990 letter from Dr. John N. Rinne (USFS Rocky Mountain Forestry Sciences Lab) to Jim Hanson (USFWS Pinetop) discusses electrophoretic genetic studies of [[Apache Trout]] populations in the [[White Mountains]] and their implications for conservation management. Rinne compares recent...
 > -- *[[ReTheElectrophoreticStudyOfWhi_14999]]*
 
+> This draft management plan addresses the recovery of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftLowerColoradoRiverBasinNa_11716]]*
+
 ## Mentioned In
 - [[AnAnalysisOfFHybridsBetweenApa_1984_09_24]]
 - [[AnalysisOfApacheTroutPopulatio_15424]]
@@ -91,3 +94,4 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 - [[ListedAndCandidateSpeciesRespo_11941]]
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[ReTheElectrophoreticStudyOfWhi_14999]]
+- [[DraftLowerColoradoRiverBasinNa_11716]]

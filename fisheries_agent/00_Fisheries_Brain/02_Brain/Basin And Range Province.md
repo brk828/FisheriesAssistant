@@ -23,9 +23,13 @@ The Basin and Range Province is a physiographic and tectonic region characterize
 > **Not applicable.** There is no ecological, habitat, or biotic community information in this text. The document instead describes a **physiographic and tectonic setting**: - Regional geologic provinces: [[Sierra Madre Occidental]] (calc-alkaline ignimbrite plateau) vs. [[Basin And Range Province]...
 > -- *[[MiseEnÉvidenceDUnGraniteSubvol_1981_12_14]]*
 
+> This 1980s-era correspondence from the [[Desert Fishes Council]] to the U.S. Bureau of Reclamation opposes proposed dam construction on the [[Gila River]] in New Mexico. The letter focuses on threats to the [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]), both endemic...
+> -- *[[ProposedConstructionOfADamOnTh_13721]]*
+
 ## Mentioned In
 - [[CorrelationOfSomePostLaramideT_11365]]
 - [[DispersionOfNaturallyOccurring_1970]]
 - [[GeologyGeochronologyAndGeochem_11380]]
 - [[MagnitudeOfCrustalExtensionInT_12160]]
 - [[MiseEnÉvidenceDUnGraniteSubvol_1981_12_14]]
+- [[ProposedConstructionOfADamOnTh_13721]]

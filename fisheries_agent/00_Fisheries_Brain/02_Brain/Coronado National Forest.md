@@ -23,6 +23,9 @@ The Coronado National Forest in southeastern Arizona is a critical management ar
 > This document is a legal filing — supplemental interrogatory answers in *Southwest Center for Biological Diversity v. McGee* — rather than a primary scientific study. It contains no direct morphological, physiological, or population data on the [[Yaqui Chub]]. However, it provides indirect ecolog...
 > -- *[[SouthwestCenterSSupplementalAn_18100]]*
 
+> This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
+> -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
+
 ## Mentioned In
 - [[ConsultantAppointmentCorrespon_1986_04_16]]
 - [[FederalEndangeredFishSpeciesCo_1993_11_19]]
@@ -36,3 +39,4 @@ The Coronado National Forest in southeastern Arizona is a critical management ar
 - [[ReportOfEndangeredSpeciesColle_1993_01_07]]
 - [[SouthwestCenterSSupplementalAn_18100]]
 - [[StatusOfPoeciliopsisOOccidenta_1984_07_25]]
+- [[LetterReviewOfBogHoleRenovatio_12470]]

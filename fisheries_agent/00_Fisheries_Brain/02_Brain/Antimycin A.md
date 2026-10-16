@@ -23,6 +23,9 @@ Antimycin A is an antibiotic-derived piscicide used in fisheries management to s
 > - **Research context**: Conducted at the [[Fish Control Laboratory]] (La Crosse, WI) and in collaboration with the [[Southeastern Fish Control Laboratory]] (Warm Springs, GA) and Ben Venue Laboratories (Bedford, OH), as part of an ongoing search for selective and general **piscicides**. - **Chemi...
 > -- *[[RelationOfChemicalStructureToF_14435]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
 ## Mentioned In
 - [[ChemicalTreatmentOfOrdCreekApa_15012]]
 - [[EffectsOfAntimycinAOnTissueRes_11530]]
@@ -30,3 +33,4 @@ Antimycin A is an antibiotic-derived piscicide used in fisheries management to s
 - [[HistoryOfBylasTopminnowPopulat_1989_02_08]]
 - [[RelationOfChemicalStructureToF_14435]]
 - [[ResponseToRepresentativeGriffi_1999_04_01]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]

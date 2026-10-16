@@ -23,6 +23,9 @@ Rhinichthys is a genus of small freshwater cyprinid fishes commonly known as dac
 > - **Family Cyprinidae** comprises >2,070 species worldwide (Nelson, 1984) and ~300 species in ~50 genera in North America (Burr and Mayden, 1992), making it the most diverse North American fish family. - Cladistic analyses based on **osteology and scale (lepidological) morphology** (Chen et al., ...
 > -- *[[PhylogeneticsOfNorthAmericanCh_20485]]*
 
+> This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
+> -- *[[WoundfinPlagopterusArgentissim_14022]]*
+
 ## Mentioned In
 - [[DiagnosesOfNewCyprinidFishesOf_1972_09_29]]
 - [[DistributionAndStatusOfLoachMi_20268]]
@@ -32,3 +35,4 @@ Rhinichthys is a genus of small freshwater cyprinid fishes commonly known as dac
 - [[PhylogeneticsOfNorthAmericanCh_20485]]
 - [[SnyderichthysANewGenericNameFo_1944_11_22]]
 - [[TheRelationOfHydrologicalCondi_20023]]
+- [[WoundfinPlagopterusArgentissim_14022]]

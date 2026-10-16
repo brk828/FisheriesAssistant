@@ -32,6 +32,9 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
 > -- *[[MinutesDesertFishesRecoveryTea_15843]]*
 
+> This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
+> -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -121,3 +124,4 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
+- [[LetterReviewOfBogHoleRenovatio_12470]]

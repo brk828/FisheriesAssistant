@@ -110,6 +110,36 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
+> This report summarizes a peer review and roundtable discussion conducted February 6-7, 1995, in Grand Junction, Colorado, evaluating the relationship between streamflow, geomorphology, and food web studies in the [[Upper Colorado River Basin]] Recovery Program for four endangered fishes:...
+> -- *[[HighlightsOfAPeerReviewAndRoun_11448]]*
+
+> This draft management plan addresses the recovery of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftLowerColoradoRiverBasinNa_11716]]*
+
+> This administrative correspondence from April 25, 1968, documents the [[National Park Service]] response to Mr. William Minkley of [[Arizona State University]] regarding a research permit application to collect [[Humpback Chub]] (Gila cypha) eggs within [[Grand Canyon National Park]]. The letter...
+> -- *[[HumpbackChubEggCollectionInGra_13013]]*
+
+> This document is a formal letter dated January 3, 1990, from [[Grand Canyon National Park]] Superintendent John H. Davis to Wayne Gustaveson of the [[Utah Division of Wildlife]], expressing opposition to a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The...
+> -- *[[ReProposalToIntroduceRainbowSm_13975]]*
+
+> This correspondence from the [[Colorado River Fishes Recovery Team]] Leader to the U.S. Fish and Wildlife Service Regional Director outlines six critical recommendations regarding endangered fish recovery in the [[Colorado River]] system. Primary concerns include upgrading the listing status of...
+> -- *[[RecommendationsToColoradoRiver_14701]]*
+
+> This document presents a comprehensive set of recovery alternatives for four endangered big river fishes of the [[Colorado River Basin]], prepared for the Six Agency Committee in August 1993. The proposal outlines three primary recovery concepts: habitat creation and management, propagation, and...
+> -- *[[ColoradoRiverEndangeredFishRec_15072]]*
+
+> This study investigated reproductive isolating mechanisms between [[Humpback Chub]] (*Gila cypha*) and [[Roundtail Chub]] (*G. robusta*) in the [[Upper Colorado River]] at [[Black Rocks]], Colorado, during 1983-1985. Using gonadosomatic indices, gamete expression, and radiotelemetry, researchers...
+> -- *[[TemporalAndSpatialRelationsBet_17861]]*
+
+> This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
+> -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
+
+> This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
+> -- *[[RainbowSmeltProposallakePowell_21115]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -482,3 +512,13 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[PreliminaryMeetingInformationF_13798]]
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[DraftmanagementPlanForTheRazor_11427]]
+- [[HighlightsOfAPeerReviewAndRoun_11448]]
+- [[DraftLowerColoradoRiverBasinNa_11716]]
+- [[HumpbackChubEggCollectionInGra_13013]]
+- [[ReProposalToIntroduceRainbowSm_13975]]
+- [[RecommendationsToColoradoRiver_14701]]
+- [[ColoradoRiverEndangeredFishRec_15072]]
+- [[TemporalAndSpatialRelationsBet_17861]]
+- [[ReportOfTheAccomplishmentsOfTh_19807]]
+- [[RainbowSmeltProposallakePowell_21115]]

@@ -26,6 +26,9 @@ The Sand Shiner is a nonnative cyprinid fish species that has become established
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> This document presents a comprehensive set of recovery alternatives for four endangered big river fishes of the [[Colorado River Basin]], prepared for the Six Agency Committee in August 1993. The proposal outlines three primary recovery concepts: habitat creation and management, propagation, and...
+> -- *[[ColoradoRiverEndangeredFishRec_15072]]*
+
 ## Mentioned In
 - [[AdditionalStudiesToFacilitateE_1993]]
 - [[ChangesInTheFishPopulationInTh_12453]]
@@ -39,3 +42,4 @@ The Sand Shiner is a nonnative cyprinid fish species that has become established
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[SurvivalOfAgeColoradoSquawfish_1993_05_03]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[ColoradoRiverEndangeredFishRec_15072]]

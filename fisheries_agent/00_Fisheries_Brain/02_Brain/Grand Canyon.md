@@ -89,6 +89,9 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > **Taxonomic & Life-History Summary**: Two non-native centrarchid species are documented. [[Redeye Bass]] (*Micropterus coosae*) reaches maximum size about 19 in (47 cm). [[Smallmouth Bass]] (*Micropterus dolomieu*) is thick and chunky with large mouth, upper jaw extending almost to rear margin of...
 > -- *[[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]*
 
+> This draft management plan addresses the recovery of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftLowerColoradoRiverBasinNa_11716]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -202,3 +205,4 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[InvasionPotentialOfNonnativeFi_2026]]
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
+- [[DraftLowerColoradoRiverBasinNa_11716]]

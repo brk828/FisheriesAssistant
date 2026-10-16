@@ -38,6 +38,9 @@ Senator Wash Reservoir is a lentic (stillwater) impoundment along the Lower Colo
 > This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
 > -- *[[EndangeredAndThreatenedWildlif_11592]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -53,3 +56,4 @@ Senator Wash Reservoir is a lentic (stillwater) impoundment along the Lower Colo
 - [[LetterToJimJohnsonWithEncolose_11425]]
 - [[BiologicalAssessmentProbableEf_11481]]
 - [[EndangeredAndThreatenedWildlif_11592]]
+- [[DraftmanagementPlanForTheRazor_11427]]

@@ -32,6 +32,9 @@ Lepidomeda vittata, commonly known as the Little Colorado spinedace, is a small-
 > The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
 > -- *[[EndangeredAndThreatenedWildlif_11564]]*
 
+> This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
+> -- *[[WoundfinPlagopterusArgentissim_14022]]*
+
 ## Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
 - [[JanuaryMeetingOfDesertFishesRe_1989_01_10]]
@@ -47,3 +50,4 @@ Lepidomeda vittata, commonly known as the Little Colorado spinedace, is a small-
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[EndangeredAndThreatenedWildlif_11564]]
+- [[WoundfinPlagopterusArgentissim_14022]]

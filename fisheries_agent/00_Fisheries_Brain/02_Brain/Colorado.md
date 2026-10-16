@@ -29,6 +29,15 @@ The Colorado River, in the context of fish science and conservation, refers to a
 > This study evaluated the effectiveness of qualitative morphological rankings versus quantitative measurements for field identification of closely related cyprinid fishes in the genus [[Gila]] from the [[Yampa River]], [[Colorado]]. Six field technicians with no specialized systematic training...
 > -- *[[QualitativeCharactersIdentific_19084]]*
 
+> This report presents results of hydroacoustic surveys conducted in September 1980 to assess fish abundance and distribution in [[Twin Lakes]], [[Colorado]], prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Using echo-counting techniques with a 120 kHz Simrad EK-120 system,...
+> -- *[[HydroacousticSurveysOfFishAbun_13336]]*
+
+> A 1957 survey of U.S. state fisheries programs reveals widespread adoption of scuba diving as a fisheries management tool. Of responding states (89.6% response rate), 14 states actively use scuba diving, four plan to implement it, and one utilizes volunteer skin diving clubs. The technology enables...
+> -- *[[StatesIncorporateScubaDivingIn_16035]]*
+
+> This two-year fisheries management study (1947-1948) on the [[North Fork of South Platte River]] in [[Colorado]] evaluated the effectiveness of stocking legal-size [[Rainbow Trout]] and [[Brook Trout]] (referred to as "lochs") in a heavily fished mountain stream. Conducted by the [[Colorado Game...
+> -- *[[NorthForkOfSouthPlatteMultiple_16595]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
@@ -36,3 +45,6 @@ The Colorado River, in the context of fish science and conservation, refers to a
 - [[StationProfileOfWillowBeachNat_19507]]
 - [[InterimProceduresForStockingNo_15423]]
 - [[QualitativeCharactersIdentific_19084]]
+- [[HydroacousticSurveysOfFishAbun_13336]]
+- [[StatesIncorporateScubaDivingIn_16035]]
+- [[NorthForkOfSouthPlatteMultiple_16595]]

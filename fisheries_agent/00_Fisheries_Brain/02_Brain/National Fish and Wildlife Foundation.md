@@ -17,6 +17,9 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 > This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
 > -- *[[RequestForProposalspresubmitta_18342]]*
 
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
+> -- *[[AprilManagementGroupMeetingSum_19221]]*
+
 ## Mentioned In
 - [[CooperativeAgreementColoradoRi_1989_06_30]]
 - [[HassayampaLakeRenova_16653]]
@@ -24,3 +27,4 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[RequestForProposalspresubmitta_18342]]
+- [[AprilManagementGroupMeetingSum_19221]]

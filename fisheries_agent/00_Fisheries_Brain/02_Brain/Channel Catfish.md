@@ -125,6 +125,21 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
 > -- *[[InvasionPotentialOfNonnativeFi_2026]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
+> This 1985 study investigated the early life history and ecology of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae in [[Lake Mohave]], Arizona-Nevada, to determine causes of recruitment failure in the only substantial remaining population of this endemic Colorado River species. Adult suckers...
+> -- *[[EarlyLifeHistoryOfRazorbackSuc_12707]]*
+
+> This memorandum documents a 14-day cooperative monitoring effort in March 1985 to detect reintroduced [[Razorback Sucker]] (*Xyrauchen texanus*) in three Arizona reservoirs: [[Bartlett Reservoir]] (Verde River), [[Roosevelt Reservoir]] (Salt River), and [[San Carlos Reservoir]] (Gila River). The...
+> -- *[[RazorbackSuckerMonitoringEffor_13702]]*
+
+> This document presents a comprehensive set of recovery alternatives for four endangered big river fishes of the [[Colorado River Basin]], prepared for the Six Agency Committee in August 1993. The proposal outlines three primary recovery concepts: habitat creation and management, propagation, and...
+> -- *[[ColoradoRiverEndangeredFishRec_15072]]*
+
+> This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
+> -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -396,3 +411,8 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[DemographicsAndPoststockingSur_2012]]
 - [[AdaptiveManagementOfAnImperile_2016]]
 - [[InvasionPotentialOfNonnativeFi_2026]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[EarlyLifeHistoryOfRazorbackSuc_12707]]
+- [[RazorbackSuckerMonitoringEffor_13702]]
+- [[ColoradoRiverEndangeredFishRec_15072]]
+- [[ResultsOfAnOpeningWeekCreelCen_17745]]

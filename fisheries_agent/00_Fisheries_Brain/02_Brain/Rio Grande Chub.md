@@ -17,8 +17,12 @@ auto_enriched: true
 > This 1994 status assessment documents the dramatic decline of native fish fauna in the [[Middle Rio Grande]] between Espanola and [[Elephant Butte Reservoir]], New Mexico. Of 45 fish species known historically, only 17 (38%) are native, with 6 (11%) endemic to the system. Seven native species have...
 > -- *[[FishFaunaOfTheMiddleRioGrandeS_15005]]*
 
+> This final report (February 1980) documents comprehensive taxonomic, morphometric, and reproductive studies of the [[Chihuahua Chub]] (*Gila nigrescens*), an endangered cyprinid inhabiting the [[Mimbres River]] in New Mexico and several drainages in Chihuahua, Mexico. The study examined 202+...
+> -- *[[TaxonomicStatusEcologyAndDistr_15409]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
 - [[SiteAndLandscapescaleEstimates_2026]]
 - [[EndangeredAndThreatenedWildlif_11651]]
 - [[FishFaunaOfTheMiddleRioGrandeS_15005]]
+- [[TaxonomicStatusEcologyAndDistr_15409]]

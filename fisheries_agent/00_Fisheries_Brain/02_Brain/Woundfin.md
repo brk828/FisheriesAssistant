@@ -38,6 +38,12 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 > This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
 > -- *[[CorrespondenceBetweenMinckleyA_16449]]*
 
+> The U.S. Fish and Wildlife Service establishes "nonessential experimental" populations of [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Woundfin]] (*Plagopterus argentissimus*) in the [[Gila River]] drainage of Arizona under Section 10(j) of the Endangered Species Act of 1973. This...
+> -- *[[EndangeredAndThreatenedWildlif_11550]]*
+
+> This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
+> -- *[[RainbowSmeltProposallakePowell_21115]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -125,3 +131,5 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 - [[DraftConservationAgreementForV_13234]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 - [[CorrespondenceBetweenMinckleyA_16449]]
+- [[EndangeredAndThreatenedWildlif_11550]]
+- [[RainbowSmeltProposallakePowell_21115]]

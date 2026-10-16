@@ -38,6 +38,9 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > **Taxonomic & Life-History Summary**: This document covers multiple introduced bass and sunfish species in Arizona waters. [[Yellow Bass]] (*Roccus mississippiensis*) reached approximately one pound in weight in [[San Carlos Lake]] (1950) and [[Canyon Lake]] (1953), with larger individuals reported...
 > -- *[[TheVertebratesOfArizona_1964]]*
 
+> This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
+> -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -68,3 +71,4 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[EndangeredAndThreatenedWildlif_11651]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[TheVertebratesOfArizona_1964]]
+- [[ResultsOfAnOpeningWeekCreelCen_17745]]

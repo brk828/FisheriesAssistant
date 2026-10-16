@@ -53,6 +53,9 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > **Primary Sampling Purpose**: Continue monitoring species occurrence and abundance in the upper [[Verde River]] in compliance with statewide protocol standards and statewide sportfish stocking consultation conservation measures. This survey represents the third in a series (2016, 2019, 2023)...
 > -- *[[VerdeRiverPerkinsvillesycamore_2023]]*
 
+> Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
+> -- *[[FieldNotesOfTripToSanBernardin_13172]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -176,3 +179,4 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[IntegrationOfNewMethodologiesI_2025]]
 - [[VerdeRiverPerkinsvillesycamore_2023]]
+- [[FieldNotesOfTripToSanBernardin_13172]]

@@ -68,6 +68,9 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > **Taxonomic & Life-History Summary**: This document covers multiple introduced bass and sunfish species in Arizona waters. [[Yellow Bass]] (*Roccus mississippiensis*) reached approximately one pound in weight in [[San Carlos Lake]] (1950) and [[Canyon Lake]] (1953), with larger individuals reported...
 > -- *[[TheVertebratesOfArizona_1964]]*
 
+> This document is a formal letter dated January 3, 1990, from [[Grand Canyon National Park]] Superintendent John H. Davis to Wayne Gustaveson of the [[Utah Division of Wildlife]], expressing opposition to a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The...
+> -- *[[ReProposalToIntroduceRainbowSm_13975]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -186,3 +189,4 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[InvasionPotentialOfNonnativeFi_2026]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
 - [[TheVertebratesOfArizona_1964]]
+- [[ReProposalToIntroduceRainbowSm_13975]]

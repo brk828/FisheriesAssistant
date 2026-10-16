@@ -44,6 +44,15 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 > **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae* sensu stricto) is native to the Coosa River system of Alabama, Georgia, and Tennessee. The species was originally described in 1940 and has since undergone genetic revision separating it into several species within the...
 > -- *[[ACaseOfMistakenIdentityGenetic_2021]]*
 
+> This draft management plan addresses the recovery of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftLowerColoradoRiverBasinNa_11716]]*
+
+> This 1980s-era correspondence from the [[Desert Fishes Council]] to the U.S. Bureau of Reclamation opposes proposed dam construction on the [[Gila River]] in New Mexico. The letter focuses on threats to the [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]), both endemic...
+> -- *[[ProposedConstructionOfADamOnTh_13721]]*
+
+> This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
+> -- *[[RainbowSmeltProposallakePowell_21115]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -190,3 +199,6 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 - [[DraftOfTheAnnualReportForSpike_13757]]
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[ACaseOfMistakenIdentityGenetic_2021]]
+- [[DraftLowerColoradoRiverBasinNa_11716]]
+- [[ProposedConstructionOfADamOnTh_13721]]
+- [[RainbowSmeltProposallakePowell_21115]]

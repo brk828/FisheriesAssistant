@@ -17,9 +17,13 @@ Cladophora glomerata is a filamentous green alga commonly found in freshwater ec
 > This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
 > -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
 
+> This study examines putative F₁ hybrids between [[Catostomus insignis]] (Sonoran sucker) and [[Pantosteus clarki]] (desert sucker) from [[Aravaipa Creek]] and [[Bonita Creek]] in southeastern Arizona. Morphological analyses using hybrid index (HI), discriminant function analysis (DFA), and...
+> -- *[[MorphologyAndFoodsOfHybridCata_15933]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[NonLethalStomachPumpingTechniq_1992_08_10]]
 - [[RiverPollutionBiologicalEffect_14557]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
+- [[MorphologyAndFoodsOfHybridCata_15933]]

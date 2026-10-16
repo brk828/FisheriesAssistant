@@ -62,6 +62,18 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
 > -- *[[InvasionPotentialOfNonnativeFi_2026]]*
 
+> The U.S. Fish and Wildlife Service establishes "nonessential experimental" populations of [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Woundfin]] (*Plagopterus argentissimus*) in the [[Gila River]] drainage of Arizona under Section 10(j) of the Endangered Species Act of 1973. This...
+> -- *[[EndangeredAndThreatenedWildlif_11550]]*
+
+> This document is a formal letter dated January 3, 1990, from [[Grand Canyon National Park]] Superintendent John H. Davis to Wayne Gustaveson of the [[Utah Division of Wildlife]], expressing opposition to a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The...
+> -- *[[ReProposalToIntroduceRainbowSm_13975]]*
+
+> This correspondence from the [[Colorado River Fishes Recovery Team]] Leader to the U.S. Fish and Wildlife Service Regional Director outlines six critical recommendations regarding endangered fish recovery in the [[Colorado River]] system. Primary concerns include upgrading the listing status of...
+> -- *[[RecommendationsToColoradoRiver_14701]]*
+
+> This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
+> -- *[[RainbowSmeltProposallakePowell_21115]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -141,3 +153,7 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[CorrespondenceRegardingMeeting_13520]]
 - [[InvasionPotentialOfNonnativeFi_2026]]
+- [[EndangeredAndThreatenedWildlif_11550]]
+- [[ReProposalToIntroduceRainbowSm_13975]]
+- [[RecommendationsToColoradoRiver_14701]]
+- [[RainbowSmeltProposallakePowell_21115]]

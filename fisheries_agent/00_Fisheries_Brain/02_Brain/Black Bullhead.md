@@ -53,6 +53,15 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 > **Primary Sampling Purpose**: Continue monitoring species occurrence and abundance in the upper [[Verde River]] in compliance with statewide protocol standards and statewide sportfish stocking consultation conservation measures. This survey represents the third in a series (2016, 2019, 2023)...
 > -- *[[VerdeRiverPerkinsvillesycamore_2023]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
+> This document presents a comprehensive set of recovery alternatives for four endangered big river fishes of the [[Colorado River Basin]], prepared for the Six Agency Committee in August 1993. The proposal outlines three primary recovery concepts: habitat creation and management, propagation, and...
+> -- *[[ColoradoRiverEndangeredFishRec_15072]]*
+
+> This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
+> -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
@@ -134,3 +143,6 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[BlackBullheadRemovalFromAHeadw_2020]]
 - [[VerdeRiverPerkinsvillesycamore_2023]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[ColoradoRiverEndangeredFishRec_15072]]
+- [[ResultsOfAnOpeningWeekCreelCen_17745]]

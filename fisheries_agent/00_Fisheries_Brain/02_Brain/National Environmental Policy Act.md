@@ -38,6 +38,9 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 > These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
 > -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
 
+> This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
+> -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
+
 ## Mentioned In
 - [[BoardOfCountyCommissionersOfTh_11767]]
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
@@ -58,3 +61,4 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
+- [[ReportOfTheAccomplishmentsOfTh_19807]]

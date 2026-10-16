@@ -29,6 +29,9 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
+> -- *[[WoundfinPlagopterusArgentissim_14022]]*
+
 ## Mentioned In
 - [[CommentsOnAndChangesToAnimalNo_11856]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -44,3 +47,4 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 - [[SerumHaptoglobinsInSomeNorthAm_1966]]
 - [[MorphologicalVariationInCatost_13689]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[WoundfinPlagopterusArgentissim_14022]]

@@ -11,9 +11,13 @@ The University of Michigan has been a significant institutional contributor to i
 > This letter from W.L. Minckley ([[Arizona State University]]) to Dr. Robert R. Miller ([[University of Michigan]]) dated June 30, 1988, addresses the discovery of [[Tilapia]] introduction into the [[Cuatro Cienegas]] basin in Mexico. Minckley outlines his position on appropriate response protocols,...
 > -- *[[TilapiaInCuatroCienegas_13761]]*
 
+> This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
+> -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[LetterFromDeanAHendricksonToCa_1990_01_09]]
 - [[RangeOfChriodorus_17137]]
 - [[TilapiaInCuatroCienegas_13761]]
+- [[ProgressReportOnGilaTaxonomyPr_14729]]

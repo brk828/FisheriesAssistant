@@ -20,6 +20,9 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 > - **Biological Opinion determination**: The proposed fish removal project was found **not likely to jeopardize** the continued existence of the endangered Desert Pupfish, nor to destroy or adversely modify its designated [[Critical Habitat]]. - **Primary conservation concern**: Genetic integrity ...
 > -- *[[BiologicalOpinionRemovalOfIntr_1990_05_30]]*
 
+> This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
+> -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
@@ -29,3 +32,4 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 - [[LetterRegardingRemovalOfQuitob_1988_01_08]]
 - [[LetterRequestingCollectionOfQu_1987_12_01]]
 - [[NonNativeFishSurveyOfTheQuitob_11721]]
+- [[ArizonaAndMexicanDesertPupfish_12498]]

@@ -152,6 +152,24 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae* sensu stricto) is native to the Coosa River system of Alabama, Georgia, and Tennessee. The species was originally described in 1940 and has since undergone genetic revision separating it into several species within the...
 > -- *[[ACaseOfMistakenIdentityGenetic_2021]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
+> This 1985 study investigated the early life history and ecology of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae in [[Lake Mohave]], Arizona-Nevada, to determine causes of recruitment failure in the only substantial remaining population of this endemic Colorado River species. Adult suckers...
+> -- *[[EarlyLifeHistoryOfRazorbackSuc_12707]]*
+
+> This memorandum documents a 14-day cooperative monitoring effort in March 1985 to detect reintroduced [[Razorback Sucker]] (*Xyrauchen texanus*) in three Arizona reservoirs: [[Bartlett Reservoir]] (Verde River), [[Roosevelt Reservoir]] (Salt River), and [[San Carlos Reservoir]] (Gila River). The...
+> -- *[[RazorbackSuckerMonitoringEffor_13702]]*
+
+> This document presents a comprehensive set of recovery alternatives for four endangered big river fishes of the [[Colorado River Basin]], prepared for the Six Agency Committee in August 1993. The proposal outlines three primary recovery concepts: habitat creation and management, propagation, and...
+> -- *[[ColoradoRiverEndangeredFishRec_15072]]*
+
+> This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
+> -- *[[SomeObservationsOnTheReclamati_15490]]*
+
+> This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
+> -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
+
 ## Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -428,3 +446,9 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[DistributionBiologyAndConserva_2002]]
 - [[StatusAssesmentOfAShoalBassPop_2012]]
 - [[ACaseOfMistakenIdentityGenetic_2021]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[EarlyLifeHistoryOfRazorbackSuc_12707]]
+- [[RazorbackSuckerMonitoringEffor_13702]]
+- [[ColoradoRiverEndangeredFishRec_15072]]
+- [[SomeObservationsOnTheReclamati_15490]]
+- [[ResultsOfAnOpeningWeekCreelCen_17745]]

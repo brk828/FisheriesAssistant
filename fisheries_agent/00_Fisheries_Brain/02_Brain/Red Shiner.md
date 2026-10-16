@@ -77,6 +77,12 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > **Primary Sampling Purpose**: Continue monitoring species occurrence and abundance in the upper [[Verde River]] in compliance with statewide protocol standards and statewide sportfish stocking consultation conservation measures. This survey represents the third in a series (2016, 2019, 2023)...
 > -- *[[VerdeRiverPerkinsvillesycamore_2023]]*
 
+> The U.S. Fish and Wildlife Service establishes "nonessential experimental" populations of [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Woundfin]] (*Plagopterus argentissimus*) in the [[Gila River]] drainage of Arizona under Section 10(j) of the Endangered Species Act of 1973. This...
+> -- *[[EndangeredAndThreatenedWildlif_11550]]*
+
+> This document presents a comprehensive set of recovery alternatives for four endangered big river fishes of the [[Colorado River Basin]], prepared for the Six Agency Committee in August 1993. The proposal outlines three primary recovery concepts: habitat creation and management, propagation, and...
+> -- *[[ColoradoRiverEndangeredFishRec_15072]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -223,3 +229,5 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[IncreasingDroughtFavorsNonnati_2019]]
 - [[VerdeRiverPerkinsvillesycamore_2023]]
+- [[EndangeredAndThreatenedWildlif_11550]]
+- [[ColoradoRiverEndangeredFishRec_15072]]

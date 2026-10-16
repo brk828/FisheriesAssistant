@@ -35,6 +35,9 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 > **Taxonomic & Life-History Summary:** [[Smallmouth Bass]] (*Micropterus dolomieui dolomieui*) is a member of family [[Centrarchidae]]. Body thick and chunky with moderate-sized mouth; upper jaw usually not reaching posteriad past front of eye. Spinous dorsal fin low, soft dorsal fin with 13-15...
 > -- *[[SmallmouthBassMicropterusDolom_X-013f4e27]]*
 
+> This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
+> -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
+
 ## Mentioned In
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
 - [[ColoradoRiverFishesRecoveryPro_1993_12_10]]
@@ -63,3 +66,4 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 - [[QualitativeCharactersIdentific_19084]]
 - [[EvaluationOfMjRosenfeldsBioche_14124]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
+- [[ProgressReportOnGilaTaxonomyPr_14729]]

@@ -89,6 +89,15 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > This biological assessment evaluates potential impacts of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species: [[Bonytail Chub]] (*Gila elegans*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bald Eagle]] (*Haliaeetus leucocephalus*),...
 > -- *[[BiologicalAssessmentOnThreaten_19806]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
+> This document is a formal letter dated January 3, 1990, from [[Grand Canyon National Park]] Superintendent John H. Davis to Wayne Gustaveson of the [[Utah Division of Wildlife]], expressing opposition to a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The...
+> -- *[[ReProposalToIntroduceRainbowSm_13975]]*
+
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
+> -- *[[WrittenCommentsOnDraftBiologic_20522]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -193,3 +202,6 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[CorrespondenceRegardingMeeting_13520]]
 - [[CorrespondenceBetweenMinckleyA_16449]]
 - [[BiologicalAssessmentOnThreaten_19806]]
+- [[DraftmanagementPlanForTheRazor_11427]]
+- [[ReProposalToIntroduceRainbowSm_13975]]
+- [[WrittenCommentsOnDraftBiologic_20522]]

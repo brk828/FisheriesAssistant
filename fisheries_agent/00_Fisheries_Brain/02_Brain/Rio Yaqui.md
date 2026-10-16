@@ -35,6 +35,9 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 > This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
 > -- *[[DistributionalAndLocalVernacul_13815]]*
 
+> This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
+> -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -61,3 +64,4 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[BiochemicalAnalysisOfGeneProdu_17930]]
 - [[DistributionalAndLocalVernacul_13815]]
+- [[ProgressReportOnGilaTaxonomyPr_14729]]

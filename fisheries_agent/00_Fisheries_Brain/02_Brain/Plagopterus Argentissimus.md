@@ -13,8 +13,12 @@ Plagopterus argentissimus, commonly known as the Colorado River squawfish or pik
 > - **Ash Meadows**, Nevada — home to multiple pupfish (*Cyprinodon*) subspecies and the Ash Meadows stock of **[[Rhinichthys osculus]]** (speckled dace) - **Moapa Valley** — habitat of *Moapa coriacea* - **Pyramid Lake** — habitat of **[[Chasmistes cujus]]** (cui-ui), a lake sucker - **White River...
 > -- *[[LetterFromJamesEDeaconToClarkH_1975_04_17]]*
 
+> This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
+> -- *[[WoundfinPlagopterusArgentissim_14022]]*
+
 ## Mentioned In
 - [[LetterFromJamesEDeaconToClarkH_1975_04_17]]
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[SubpermitAuthorizationForWound_1989_06_06]]
 - [[TheAsianFishTapewormBothriocep_1993]]
+- [[WoundfinPlagopterusArgentissim_14022]]

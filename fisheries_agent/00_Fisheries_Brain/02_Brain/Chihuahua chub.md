@@ -26,6 +26,9 @@ The Chihuahua Chub is an endangered cyprinid fish endemic to the Rio Yaqui basin
 > This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
 > -- *[[EvaluationsAndSuggestionsConce_16480]]*
 
+> This final report (February 1980) documents comprehensive taxonomic, morphometric, and reproductive studies of the [[Chihuahua Chub]] (*Gila nigrescens*), an endangered cyprinid inhabiting the [[Mimbres River]] in New Mexico and several drainages in Chihuahua, Mexico. The study examined 202+...
+> -- *[[TaxonomicStatusEcologyAndDistr_15409]]*
+
 ## Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1985_12_10]]
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
@@ -49,3 +52,4 @@ The Chihuahua Chub is an endangered cyprinid fish endemic to the Rio Yaqui basin
 - [[SPECIES RESPONSIBILITIES OF DESERT FISHES RECOVERY TEAM]]
 - [[SpeciesResponsibilitiesOfDeser_1989_12_07]]
 - [[EvaluationsAndSuggestionsConce_16480]]
+- [[TaxonomicStatusEcologyAndDistr_15409]]

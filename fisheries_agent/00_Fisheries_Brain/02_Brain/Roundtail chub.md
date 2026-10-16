@@ -71,6 +71,12 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 > **Primary Sampling Purpose**: Continue monitoring species occurrence and abundance in the upper [[Verde River]] in compliance with statewide protocol standards and statewide sportfish stocking consultation conservation measures. This survey represents the third in a series (2016, 2019, 2023)...
 > -- *[[VerdeRiverPerkinsvillesycamore_2023]]*
 
+> This final report (February 1980) documents comprehensive taxonomic, morphometric, and reproductive studies of the [[Chihuahua Chub]] (*Gila nigrescens*), an endangered cyprinid inhabiting the [[Mimbres River]] in New Mexico and several drainages in Chihuahua, Mexico. The study examined 202+...
+> -- *[[TaxonomicStatusEcologyAndDistr_15409]]*
+
+> This study investigated reproductive isolating mechanisms between [[Humpback Chub]] (*Gila cypha*) and [[Roundtail Chub]] (*G. robusta*) in the [[Upper Colorado River]] at [[Black Rocks]], Colorado, during 1983-1985. Using gonadosomatic indices, gamete expression, and radiotelemetry, researchers...
+> -- *[[TemporalAndSpatialRelationsBet_17861]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -196,3 +202,5 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[IntegrationOfNewMethodologiesI_2025]]
 - [[VerdeRiverPerkinsvillesycamore_2023]]
+- [[TaxonomicStatusEcologyAndDistr_15409]]
+- [[TemporalAndSpatialRelationsBet_17861]]

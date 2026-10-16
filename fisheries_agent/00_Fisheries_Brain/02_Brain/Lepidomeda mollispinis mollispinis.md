@@ -11,5 +11,9 @@ Lepidomeda mollispinis mollispinis (Virgin River spinedace) is another spinedace
 > The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
 > -- *[[EndangeredAndThreatenedWildlif_11551]]*
 
+> This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
+> -- *[[WoundfinPlagopterusArgentissim_14022]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11551]]
+- [[WoundfinPlagopterusArgentissim_14022]]

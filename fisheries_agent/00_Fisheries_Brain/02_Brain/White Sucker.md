@@ -32,6 +32,12 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 > This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
 > -- *[[InlandCommercialFisheriesWorks_15658]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
+> This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
+> -- *[[SomeObservationsOnTheReclamati_15490]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -65,3 +71,5 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 - [[SiteAndLandscapescaleEstimates_2026]]
 - [[TheRazorbackSuckerXyrauchenTex_15245]]
 - [[InlandCommercialFisheriesWorks_15658]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[SomeObservationsOnTheReclamati_15490]]
