@@ -23,6 +23,12 @@ Conservation genetics is the application of genetic analysis and theory to under
 > - **Broader Significance:** This letter illustrates the practical, collaborative process underlying [[Conservation Genetics]] studies of endangered desert fishes, highlighting how historical baseline data (Turner 1984) and structured refugium management inform contemporary sampling design for the...
 > -- *[[LetterOnDesertPupfishSamplingL_19160]]*
 
+> **Taxonomic & Life-History Summary:** This study revises the [[Redeye Bass]] (*Micropterus coosae*) species complex, originally described by Hubbs and Bailey (1940) from the Mobile River basin, Chattahoochee, and Savannah rivers. Examination of morphological variation and mitochondrial DNA (ND2...
+> -- *[[DiversityWithinTheRedeyeBassMi_2013]]*
+
+> **Taxonomic & Life-History Summary**: [[Shoal Bass]] (*Micropterus cataractae*) is a black bass endemic to the [[Apalachicola-Chattahoochee-Flint Basin]] of Alabama, Florida, and Georgia, formally described in 1999 by Williams and Burgess. The species belongs to family [[Centrarchidae]], order...
+> -- *[[StatusAssesmentOfAShoalBassPop_2012]]*
+
 ## Mentioned In
 - [[AddendumToGeneticsManagementCo_1993]]
 - [[AfaPolicyMemorandumOnHybrids_1984_02_10]]
@@ -50,3 +56,5 @@ Conservation genetics is the application of genetic analysis and theory to under
 - [[ResponseToReviewOfGilaSeminuda_1992_03_03]]
 - [[SubpermitAuthorizationForWound_1989_06_06]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
+- [[DiversityWithinTheRedeyeBassMi_2013]]
+- [[StatusAssesmentOfAShoalBassPop_2012]]

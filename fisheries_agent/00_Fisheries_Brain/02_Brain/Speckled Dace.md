@@ -47,6 +47,12 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> **Primary Sampling Purpose**: This study integrated emerging remote sensing and molecular technologies (UAV, terrestrial lidar, RTK survey, eDNA) to assess current riparian and in-stream habitat conditions on the [[Upper Verde River]] and compare them to 2009 baseline assessments. The objective was...
+> -- *[[IntegrationOfNewMethodologiesI_2025]]*
+
+> **Primary Sampling Purpose**: Continue monitoring species occurrence and abundance in the upper [[Verde River]] in compliance with statewide protocol standards and statewide sportfish stocking consultation conservation measures. This survey represents the third in a series (2016, 2019, 2023)...
+> -- *[[VerdeRiverPerkinsvillesycamore_2023]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -168,3 +174,5 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[IntegrationOfNewMethodologiesI_2025]]
+- [[VerdeRiverPerkinsvillesycamore_2023]]

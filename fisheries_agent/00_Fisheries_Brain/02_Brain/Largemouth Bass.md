@@ -137,6 +137,21 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
 > -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
 
+> **Taxonomic & Life-History Summary**: This document covers multiple introduced bass and sunfish species in Arizona waters. [[Yellow Bass]] (*Roccus mississippiensis*) reached approximately one pound in weight in [[San Carlos Lake]] (1950) and [[Canyon Lake]] (1953), with larger individuals reported...
+> -- *[[TheVertebratesOfArizona_1964]]*
+
+> **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae*) is the smallest of the black basses, endemic to the Black Warrior, Cahaba, Coosa, and Tallapoosa rivers and Alabama River tributaries above the Fall Line in Alabama, the Chattahoochee River above Columbus, Georgia, and...
+> -- *[[IntrogressiveHybridizationOfRe_1991]]*
+
+> **Taxonomic & Life-History Summary** Four black bass species ([[Micropterus]]) have relatively restricted ranges and specialized habitat requirements: - **[[Guadalupe Bass]] (M. treculi)**: Endemic to Central Texas, occurring in portions of the Brazos, Colorado, Guadalupe, and San Antonio river...
+> -- *[[DistributionBiologyAndConserva_2002]]*
+
+> **Taxonomic & Life-History Summary**: [[Shoal Bass]] (*Micropterus cataractae*) is a black bass endemic to the [[Apalachicola-Chattahoochee-Flint Basin]] of Alabama, Florida, and Georgia, formally described in 1999 by Williams and Burgess. The species belongs to family [[Centrarchidae]], order...
+> -- *[[StatusAssesmentOfAShoalBassPop_2012]]*
+
+> **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae* sensu stricto) is native to the Coosa River system of Alabama, Georgia, and Tennessee. The species was originally described in 1940 and has since undergone genetic revision separating it into several species within the...
+> -- *[[ACaseOfMistakenIdentityGenetic_2021]]*
+
 ## Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -408,3 +423,8 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[AdaptiveManagementOfAnImperile_2016]]
 - [[InvasionPotentialOfNonnativeFi_2026]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
+- [[TheVertebratesOfArizona_1964]]
+- [[IntrogressiveHybridizationOfRe_1991]]
+- [[DistributionBiologyAndConserva_2002]]
+- [[StatusAssesmentOfAShoalBassPop_2012]]
+- [[ACaseOfMistakenIdentityGenetic_2021]]

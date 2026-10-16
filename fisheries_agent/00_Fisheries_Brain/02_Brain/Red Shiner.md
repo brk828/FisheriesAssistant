@@ -74,6 +74,9 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > **Core Problem Addressed**: Understanding how native and nonnative fish populations respond to changing flow regimes (drought and flood sequences) in dryland rivers under climate change. The study addresses the challenge of modeling novel biological assemblages in non-stationary environmental...
 > -- *[[IncreasingDroughtFavorsNonnati_2019]]*
 
+> **Primary Sampling Purpose**: Continue monitoring species occurrence and abundance in the upper [[Verde River]] in compliance with statewide protocol standards and statewide sportfish stocking consultation conservation measures. This survey represents the third in a series (2016, 2019, 2023)...
+> -- *[[VerdeRiverPerkinsvillesycamore_2023]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -219,3 +222,4 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[CorrespondenceBetweenMinckleyA_16449]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[IncreasingDroughtFavorsNonnati_2019]]
+- [[VerdeRiverPerkinsvillesycamore_2023]]

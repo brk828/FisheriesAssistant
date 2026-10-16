@@ -20,8 +20,12 @@ The Upper Verde River is a segment of the Verde River system in Arizona that ser
 > This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[RecoveryEffortsForBonytailChub_11837]]*
 
+> **Primary Sampling Purpose**: This study integrated emerging remote sensing and molecular technologies (UAV, terrestrial lidar, RTK survey, eDNA) to assess current riparian and in-stream habitat conditions on the [[Upper Verde River]] and compare them to 2009 baseline assessments. The objective was...
+> -- *[[IntegrationOfNewMethodologiesI_2025]]*
+
 ## Mentioned In
 - [[FormalSectionConsultationCentr_1988_10_28]]
 - [[LetterToDrWLMinckleyRegardingA_1985_04_15]]
 - [[VerdeRiverFishResearch_1998]]
 - [[RecoveryEffortsForBonytailChub_11837]]
+- [[IntegrationOfNewMethodologiesI_2025]]

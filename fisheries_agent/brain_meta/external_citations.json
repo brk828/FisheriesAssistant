@@ -620,6 +620,24 @@
   "type": "Letter",
   "year": "1994"
  },
+ "X-013f4e27": {
+  "authors": "",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "Smallmouth Bass (Micropterus dolomieui dolomieui) - Arizona Distribution and Ecology",
+  "type": "Book Chapter",
+  "year": ""
+ },
+ "X-06a35229": {
+  "authors": "Richard E. Strauss, Carl E. Bond",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "Taxonomic Methods: Morphology",
+  "type": "Book Chapter",
+  "year": "1990"
+ },
  "X-1faa5dfa": {
   "authors": "Kristen G. Humphrey, Brian R. Kesner, Paul C. Marsh",
   "citation_source": "llm",
@@ -665,6 +683,15 @@
   "type": "Journal Article",
   "year": "2020"
  },
+ "X-30c00334": {
+  "authors": "J. C. Pipas, F. J. Bulow",
+  "citation_source": "crossref",
+  "doi": "10.1577/1548-8659(1998)127<0141:hbrbas>2.0.co;2",
+  "publication": "Transactions of the American Fisheries Society 127(1): 141-146.",
+  "title": "Hybridization between Redeye Bass and Smallmouth Bass in Tennessee Streams",
+  "type": "Journal Article",
+  "year": "1998"
+ },
  "X-365e2fb8": {
   "authors": "R. J. Friebertshauser, K. R. Bestgen",
   "citation_source": "crossref",
@@ -682,6 +709,24 @@
   "title": "Environmental (e)RNA advances the reliability of eDNA by predicting its age",
   "type": "Journal Article",
   "year": "2021"
+ },
+ "X-4575b698": {
+  "authors": "",
+  "citation_source": "crossref",
+  "doi": "10.1353/book.109750",
+  "publication": "",
+  "title": "The Vertebrates of Arizona",
+  "type": "Book Chapter",
+  "year": "1964"
+ },
+ "X-5284bec5": {
+  "authors": "Andrew Thomas Taylor",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "STATUS ASSESMENT OF A SHOAL BASS POPULATION IN THE LOWER FLINT RIVER, GEORGIA",
+  "type": "Thesis",
+  "year": "2012"
  },
  "X-59ef16c0": {
   "authors": "B. R. Kesner, J. B. Wisenall, P. C. Marsh",
@@ -755,6 +800,24 @@
   "type": "Journal Article",
   "year": "2011"
  },
+ "X-9b0a8240": {
+  "authors": "",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "INLAND FISHES OF THE GREATER SOUTHWEST",
+  "type": "Book Chapter",
+  "year": ""
+ },
+ "X-a013b5b9": {
+  "authors": "Nate Jackson, Matt Chmiel",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "Verde River: Perkinsville-Sycamore Creek Fish Survey Report",
+  "type": "Report",
+  "year": "2023"
+ },
  "X-a1386ca0": {
   "authors": "S. D. Hoyle, R. A. Campbell, N. D. Ducharme-Barth, A. Grüss, B. R. Moore, J. T. Thorson, L. Tremblay-Boyer, H. Winker, S. Zhou, M. N. Maunder",
   "citation_source": "crossref",
@@ -772,6 +835,15 @@
   "title": "Compensatory recruitment, dynamic habitat, and selective gear present challenges to large‐scale invasive species control",
   "type": "Journal Article",
   "year": "2020"
+ },
+ "X-b0613d25": {
+  "authors": "J. T. Nichols, C. L. Hubbs, R. M. Bailey",
+  "citation_source": "crossref",
+  "doi": "10.2307/1437996",
+  "publication": "Copeia 1940(3): 209.",
+  "title": "A Revision of the Black Basses (Micropterus and Huro) with Descriptions of Four New Forms",
+  "type": "Journal Article",
+  "year": "1940"
  },
  "X-b31e6b33": {
   "authors": "J. S. Rogosch, J. D. Tonkin, D. A. Lytle, D. M. Merritt, L. V. Reynolds, J. D. Olden",
@@ -791,6 +863,42 @@
   "type": "Report",
   "year": "2020"
  },
+ "X-b9cf183a": {
+  "authors": "Mettee",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "Fishes of Alabama",
+  "type": "Book Chapter",
+  "year": "1990"
+ },
+ "X-ba840eba": {
+  "authors": "M. J. Valente, C. E. Benson, M. R. Chmiel, M. R. Lewis, E. Peatman, H. L. Eaton",
+  "citation_source": "crossref",
+  "doi": "10.3996/jfwm-21-013",
+  "publication": "Journal of Fish and Wildlife Management 12(2): 554-564.",
+  "title": "A Case of Mistaken Identity: Genetic and Morphological Evidence for the Presence of Redeye Bass in the Verde River, Arizona",
+  "type": "Journal Article",
+  "year": "2021"
+ },
+ "X-cea5aa0d": {
+  "authors": "John M. Turner, Frank J. Bulow, Christopher J. O'Bara",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "Great International Smallmouth Bass Symposium: 143-150.",
+  "title": "Introgressive Hybridization of Redeye Bass and Smallmouth Bass and Its Management Implications",
+  "type": "Book Chapter",
+  "year": "1991"
+ },
+ "X-d1cf07c6": {
+  "authors": "",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "Field Guide to Fishes of the Grand Canyon State",
+  "type": "Other",
+  "year": ""
+ },
  "X-d59165ff": {
   "authors": "K. Hartman",
   "citation_source": "crossref",
@@ -799,5 +907,32 @@
   "title": "The influence of size on striped bass foraging",
   "type": "Journal Article",
   "year": "2000"
+ },
+ "X-d8107fdd": {
+  "authors": "J. B. Koppelman, G. P. Garrett",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "American Fisheries Society Symposium 31: 333-341.",
+  "title": "Distribution, Biology, and Conservation of the Rare Black Bass Species",
+  "type": "Journal Article",
+  "year": "2002"
+ },
+ "X-eb51a0d3": {
+  "authors": "W. H. BAKER, R. E. BLANTON, C. E. JOHNSTON",
+  "citation_source": "crossref",
+  "doi": "10.11646/zootaxa.3635.4.3",
+  "publication": "Zootaxa 3635(4).",
+  "title": "Diversity within the Redeye Bass, Micropterus coosae (Perciformes: Centrarchidae) species group, with descriptions of four new species",
+  "type": "Journal Article",
+  "year": "2013"
+ },
+ "X-f9ddaa54": {
+  "authors": "J. M. Leonard, T. T. Sankey, L. L. Tango, R. W. Tyler",
+  "citation_source": "crossref",
+  "doi": "10.1016/j.jenvman.2025.127508",
+  "publication": "Journal of Environmental Management 394: 127508.",
+  "title": "Integration of new methodologies in monitoring native fish habitat and populations in the southwestern U.S.",
+  "type": "Journal Article",
+  "year": "2025"
  }
 }

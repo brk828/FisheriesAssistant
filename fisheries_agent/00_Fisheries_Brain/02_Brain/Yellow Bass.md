@@ -29,6 +29,9 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 > This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
 > -- *[[DraftliteratureReviewOfTheStri_15768]]*
 
+> **Taxonomic & Life-History Summary**: This document covers multiple introduced bass and sunfish species in Arizona waters. [[Yellow Bass]] (*Roccus mississippiensis*) reached approximately one pound in weight in [[San Carlos Lake]] (1950) and [[Canyon Lake]] (1953), with larger individuals reported...
+> -- *[[TheVertebratesOfArizona_1964]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -55,3 +58,4 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 - [[UtilizationOfGizzardShadByGame_1958_11_20]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[DraftliteratureReviewOfTheStri_15768]]
+- [[TheVertebratesOfArizona_1964]]

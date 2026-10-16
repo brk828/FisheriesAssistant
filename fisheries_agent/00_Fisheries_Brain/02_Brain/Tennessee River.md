@@ -23,6 +23,9 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 > This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
 > -- *[[AmericanRiversStacMeetingOfJun_17977]]*
 
+> **Primary Sampling Purpose**: This document provides taxonomic identification keys and natural history information for sunfishes (family [[Centrarchidae]]) in Alabama, with detailed species accounts for [[Redeye Bass]] ([[Micropterus coosae]]) and [[Smallmouth Bass]] ([[Micropterus dolomieu]]). The...
+> -- *[[FishesOfAlabama_1990]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[AFreshwaterMolluskSurveyOfNort_15956]]
@@ -35,3 +38,4 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
+- [[FishesOfAlabama_1990]]

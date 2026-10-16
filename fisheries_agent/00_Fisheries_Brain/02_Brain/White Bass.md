@@ -35,6 +35,9 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> **Taxonomic & Life-History Summary**: This document covers multiple introduced bass and sunfish species in Arizona waters. [[Yellow Bass]] (*Roccus mississippiensis*) reached approximately one pound in weight in [[San Carlos Lake]] (1950) and [[Canyon Lake]] (1953), with larger individuals reported...
+> -- *[[TheVertebratesOfArizona_1964]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -64,3 +67,4 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[EndangeredAndThreatenedWildlif_11651]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[TheVertebratesOfArizona_1964]]

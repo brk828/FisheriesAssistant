@@ -14,7 +14,11 @@ Lampreys are jawless fish (agnathans) belonging to the class Petromyzontida, cha
 > - **[[Weberian Apparatus]]**: A specialized modification of the first four (or five) vertebrae connecting the swim bladder to the inner ear for sound transmission. This complex, unique structure unites [[Minnows]] (Cyprinidae), [[Suckers]] (Catostomidae), and [[Catfishes]] (Ictaluridae) into the ...
 > -- *[[MinnowsFirstThenTrout_21137]]*
 
+> **Primary Sampling Purpose**: This document provides comprehensive methodological guidance for morphological characterization of fishes for taxonomic and systematic studies. The primary purpose is to describe standardized protocols for measuring, counting, photographing, and analyzing morphological...
+> -- *[[TaxonomicMethodsMorphology_1990]]*
+
 ## Mentioned In
 - [[CommentsOnTheClassificationAnd_1980]]
 - [[MinnowsFirstThenTrout_21137]]
 - [[ReviewOfFreshwaterFishesInMiss_15045]]
+- [[TaxonomicMethodsMorphology_1990]]

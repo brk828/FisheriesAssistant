@@ -29,6 +29,9 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 > This biological assessment evaluates potential impacts of removing the [[Roosevelt Diversion Dam]] on the [[Salt River]], Arizona. Electrofishing surveys conducted March 15-16, 1988 documented stark differences in fish assemblages above versus below the dam. Above the dam, 230 fish (23,680 gm total...
 > -- *[[SaltRiverProjectRooseveltDiver_15070]]*
 
+> **Taxonomic & Life-History Summary**: This document covers multiple introduced bass and sunfish species in Arizona waters. [[Yellow Bass]] (*Roccus mississippiensis*) reached approximately one pound in weight in [[San Carlos Lake]] (1950) and [[Canyon Lake]] (1953), with larger individuals reported...
+> -- *[[TheVertebratesOfArizona_1964]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AlbinisticCarpCyprinusCarpioFr_1968_04_18]]
@@ -45,3 +48,4 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 - [[RooseveltLakeRazorbackSuckerRe_1994_08_19]]
 - [[IntraserviceSectionConsultatio_20152]]
 - [[SaltRiverProjectRooseveltDiver_15070]]
+- [[TheVertebratesOfArizona_1964]]

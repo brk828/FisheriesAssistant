@@ -14,8 +14,12 @@ Salmonids refer to fish in the family Salmonidae, which includes salmon and trou
 > - **Habitat type:** Desert intermittent stream ecosystem, prone to extreme seasonal temperature fluctuations (hot summers, cold winters) typical of arid Southern California terrain. - **Thermal regime:** Shallow pools can become quite warm during summer months; acclimation temperatures tested in ...
 > -- *[[ThermalAndRespiratoryStudiesWi_16327]]*
 
+> **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae*) is the smallest of the black basses, endemic to the Black Warrior, Cahaba, Coosa, and Tallapoosa rivers and Alabama River tributaries above the Fall Line in Alabama, the Chattahoochee River above Columbus, Georgia, and...
+> -- *[[IntrogressiveHybridizationOfRe_1991]]*
+
 ## Mentioned In
 - [[GrowoutPondsUsefulForColoradoS_13321]]
 - [[IntroductionOfPondSmeltFromJap_14428]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
 - [[ThermalAndRespiratoryStudiesWi_16327]]
+- [[IntrogressiveHybridizationOfRe_1991]]

@@ -65,6 +65,9 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
 > -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
 
+> **Taxonomic & Life-History Summary**: This document covers multiple introduced bass and sunfish species in Arizona waters. [[Yellow Bass]] (*Roccus mississippiensis*) reached approximately one pound in weight in [[San Carlos Lake]] (1950) and [[Canyon Lake]] (1953), with larger individuals reported...
+> -- *[[TheVertebratesOfArizona_1964]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -182,3 +185,4 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[AdaptiveManagementOfAnImperile_2016]]
 - [[InvasionPotentialOfNonnativeFi_2026]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
+- [[TheVertebratesOfArizona_1964]]

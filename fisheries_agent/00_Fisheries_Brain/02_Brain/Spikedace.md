@@ -44,6 +44,12 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae* sensu stricto) is native to the Coosa River system of Alabama, Georgia, and Tennessee. The species was originally described in 1940 and has since undergone genetic revision separating it into several species within the...
+> -- *[[ACaseOfMistakenIdentityGenetic_2021]]*
+
+> **Primary Sampling Purpose**: This study integrated emerging remote sensing and molecular technologies (UAV, terrestrial lidar, RTK survey, eDNA) to assess current riparian and in-stream habitat conditions on the [[Upper Verde River]] and compare them to 2009 baseline assessments. The objective was...
+> -- *[[IntegrationOfNewMethodologiesI_2025]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -199,3 +205,5 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[DraftOfTheAnnualReportForSpike_13757]]
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[ACaseOfMistakenIdentityGenetic_2021]]
+- [[IntegrationOfNewMethodologiesI_2025]]

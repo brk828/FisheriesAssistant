@@ -20,7 +20,11 @@ The Flint River is a Georgia river system that has served as an important study 
 > - **Species**: [[Flathead Catfish]] (*Pylodictis olivaris*), family [[Ictaluridae]], an exotic/introduced predatory catfish in the [[Flint River]]. - **Introduction history**: Reportedly introduced to the Flint River by individual anglers around 1950 (Quinn 1987); first documented below Albany Da...
 > -- *[[FlatheadCatfishAbundanceAndGro_1985]]*
 
+> **Taxonomic & Life-History Summary**: [[Shoal Bass]] (*Micropterus cataractae*) is a black bass endemic to the [[Apalachicola-Chattahoochee-Flint Basin]] of Alabama, Florida, and Georgia, formally described in 1999 by Williams and Burgess. The species belongs to family [[Centrarchidae]], order...
+> -- *[[StatusAssesmentOfAShoalBassPop_2012]]*
+
 ## Mentioned In
 - [[AFreshwaterMolluskSurveyOfNort_15956]]
 - [[DiscoveryOfThePercidGenusAmmoc_1979]]
 - [[FlatheadCatfishAbundanceAndGro_1985]]
+- [[StatusAssesmentOfAShoalBassPop_2012]]

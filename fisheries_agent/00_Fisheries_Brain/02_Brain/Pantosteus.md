@@ -29,6 +29,9 @@ Pantosteus is a genus of suckers (family Catostomidae) that comprises freshwater
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> **Taxonomic & Life-History Summary:** [[Smallmouth Bass]] (*Micropterus dolomieui dolomieui*) is a member of family [[Centrarchidae]]. Body thick and chunky with moderate-sized mouth; upper jaw usually not reaching posteriad past front of eye. Spinous dorsal fin low, soft dorsal fin with 13-15...
+> -- *[[SmallmouthBassMicropterusDolom_X-013f4e27]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[CorrespondenceOnMexicanFishTax_1993_10_21]]
@@ -42,3 +45,4 @@ Pantosteus is a genus of suckers (family Catostomidae) that comprises freshwater
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[MorphologicalVariationInCatost_13689]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[SmallmouthBassMicropterusDolom_X-013f4e27]]

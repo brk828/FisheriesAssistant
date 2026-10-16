@@ -38,6 +38,12 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 > **Core Problem Addressed**: Understanding how native and nonnative fish populations respond to changing flow regimes (drought and flood sequences) in dryland rivers under climate change. The study addresses the challenge of modeling novel biological assemblages in non-stationary environmental...
 > -- *[[IncreasingDroughtFavorsNonnati_2019]]*
 
+> **Primary Sampling Purpose**: This study integrated emerging remote sensing and molecular technologies (UAV, terrestrial lidar, RTK survey, eDNA) to assess current riparian and in-stream habitat conditions on the [[Upper Verde River]] and compare them to 2009 baseline assessments. The objective was...
+> -- *[[IntegrationOfNewMethodologiesI_2025]]*
+
+> **Primary Sampling Purpose**: Continue monitoring species occurrence and abundance in the upper [[Verde River]] in compliance with statewide protocol standards and statewide sportfish stocking consultation conservation measures. This survey represents the third in a series (2016, 2019, 2023)...
+> -- *[[VerdeRiverPerkinsvillesycamore_2023]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -92,3 +98,5 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[LetterToJimJohnsonWithEncolose_11425]]
 - [[IncreasingDroughtFavorsNonnati_2019]]
+- [[IntegrationOfNewMethodologiesI_2025]]
+- [[VerdeRiverPerkinsvillesycamore_2023]]

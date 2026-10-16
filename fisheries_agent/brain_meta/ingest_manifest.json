@@ -8,6 +8,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:25:51+00:00"
  },
+ "013f4e27d3b903c27da4aece9bfef208129cf820335e6f85a8d4c72dcab022f3": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "1973MinckleyFishesofArizona.pdf",
+  "method": "ocr",
+  "note": "SmallmouthBassMicropterusDolom_X-013f4e27.md",
+  "source_id": "X-013f4e27",
+  "status": "done",
+  "timestamp": "2026-10-16T17:21:55+00:00"
+ },
  "01af74b3bcaedb2bda8f33a8c813df899b32682193b7f2f726e527541878904a": {
   "citation_source": "minckley-sheet",
   "file": "13757.pdf",
@@ -43,6 +53,16 @@
   "source_id": "X-06a33422",
   "status": "done",
   "timestamp": "2026-10-14T17:28:28+00:00"
+ },
+ "06a35229a63af64ed37b17e753b1a8c29eb55e4e9cdfd45f4cd712e26488fe03": {
+  "citation_source": "llm",
+  "doc_type": "sampling_design",
+  "file": "1990StraussBond.pdf",
+  "method": "text",
+  "note": "TaxonomicMethodsMorphology_1990.md",
+  "source_id": "X-06a35229",
+  "status": "done",
+  "timestamp": "2026-10-16T17:23:34+00:00"
  },
  "08ed96e8bfc701b44ca50a569fc8a55c736598e83c8f33424a47b0e0153cc75a": {
   "citation_source": "minckley-sheet",
@@ -326,6 +346,16 @@
   "status": "done",
   "timestamp": "2026-10-15T23:50:04+00:00"
  },
+ "30c00334a9c2deecb8c5fb11a1f8a621e92b52e8094a9743fa428bd392ffb8f1": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "1998Pipas- Hybridization between Redeye Bass and Smallmouth Bass in Tennessee Streams.pdf",
+  "method": "text",
+  "note": "HybridizationBetweenRedeyeBass_1998.md",
+  "source_id": "X-30c00334",
+  "status": "done",
+  "timestamp": "2026-10-16T17:26:09+00:00"
+ },
  "3358d371a72d4e12d7808d4ac8bda519f2d7b48a92840e7acbdac6b06c795b9f": {
   "citation_source": "minckley-sheet",
   "file": "17697.pdf",
@@ -478,6 +508,16 @@
   "status": "done",
   "timestamp": "2026-10-14T18:44:49+00:00"
  },
+ "4575b69834503213fc1e830a2a37de62018c567e60bdaeb1c493c9ae7c3d5674": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "1964MillerLowe.pdf",
+  "method": "ocr",
+  "note": "TheVertebratesOfArizona_1964.md",
+  "source_id": "X-4575b698",
+  "status": "done",
+  "timestamp": "2026-10-16T17:21:03+00:00"
+ },
  "462962e68c06dc4885be599426eb586382f5127bded3b35fbea92a64ccfc0ab5": {
   "citation_source": "minckley-sheet",
   "file": "19928.pdf",
@@ -558,6 +598,16 @@
   "source_id": "X-4f04ff89",
   "status": "done",
   "timestamp": "2026-10-15T00:02:41+00:00"
+ },
+ "5284bec5974d467ae059c71341cec5d21b96093a8d1e8b9ef94fcd1c0ff9a1fe": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "2021Taylor & 1999Williams&Burgess.pdf",
+  "method": "mixed",
+  "note": "StatusAssesmentOfAShoalBassPop_2012.md",
+  "source_id": "X-5284bec5",
+  "status": "done",
+  "timestamp": "2026-10-16T17:33:28+00:00"
  },
  "53d44ac57897c7f3f93e788d5e7dc20973e51f1f2cd1bf11876d26d80bd4c99e": {
   "citation_source": "minckley-sheet",
@@ -998,6 +1048,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:53:22+00:00"
  },
+ "9b0a8240290d2586a293ba3f485230b2ff5bf0ee66aca460e257430f3e56c401": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "2009Minckley&MarshInlandFishesoftheGreaterSouthwest.pdf",
+  "method": "ocr",
+  "note": "InlandFishesOfTheGreaterSouthw_X-9b0a8240.md",
+  "source_id": "X-9b0a8240",
+  "status": "done",
+  "timestamp": "2026-10-16T17:29:34+00:00"
+ },
  "9bcd24141fb04e4005c117bccd7d85d3003aa8d293231b18c0ce09745da6f6f7": {
   "citation_source": "minckley-sheet",
   "file": "17328.pdf",
@@ -1061,6 +1121,16 @@
   "status": "done",
   "timestamp": "2026-10-14T23:15:50+00:00"
  },
+ "a013b5b94baa6420024335db90965b59bccc191a8554f3a815f64a9bcaa54eec": {
+  "citation_source": "llm",
+  "doc_type": "sampling_design",
+  "file": "AZGFD_2022_R3_VerdeRiver.pdf",
+  "method": "text",
+  "note": "VerdeRiverPerkinsvillesycamore_2023.md",
+  "source_id": "X-a013b5b9",
+  "status": "done",
+  "timestamp": "2026-10-16T17:37:24+00:00"
+ },
  "a1386ca058a1a2a5ba7b1412238230f4ab0703d8e085fb9d409028f96a7b76eb": {
   "citation_source": "crossref",
   "doc_type": "analyses_and_modeling",
@@ -1114,6 +1184,16 @@
   "source_id": "X-aeda062c",
   "status": "done",
   "timestamp": "2026-10-14T20:46:43+00:00"
+ },
+ "b0613d25cd15d65ab09d3302044a811457f2dd7bd57c17cc2d994ecfb5e22bc8": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "1940HubbsBailey.pdf",
+  "method": "mixed",
+  "note": "ARevisionOfTheBlackBassesMicro_1940.md",
+  "source_id": "X-b0613d25",
+  "status": "done",
+  "timestamp": "2026-10-16T17:20:18+00:00"
  },
  "b1f1107e216b7b77cadd064b6c0f8292b22101c59205a7c741aa786d3322eeee": {
   "citation_source": "minckley-sheet",
@@ -1188,6 +1268,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:11:22+00:00"
  },
+ "b9cf183a053dc9f9d7f7c3b161cbd5cde11928d4ff9ba5cf1442ebfbf879ebff": {
+  "citation_source": "llm",
+  "doc_type": "sampling_design",
+  "file": "1996MetteeFishesofAlabama.pdf",
+  "method": "ocr",
+  "note": "FishesOfAlabama_1990.md",
+  "source_id": "X-b9cf183a",
+  "status": "done",
+  "timestamp": "2026-10-16T17:25:14+00:00"
+ },
  "ba7c7bc2bede2670644addaa30b62528ca5064aae66d80d2f5bababefd929fd5": {
   "citation_source": "minckley-sheet",
   "file": "15544.pdf",
@@ -1196,6 +1286,16 @@
   "source_id": "X-ba7c7bc2",
   "status": "done",
   "timestamp": "2026-10-14T20:22:25+00:00"
+ },
+ "ba840eba0395b587f40a26402459e70e730cc0b0c940cda0645bd640c5139ed6": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "2021Valente.pdf",
+  "method": "text",
+  "note": "ACaseOfMistakenIdentityGenetic_2021.md",
+  "source_id": "X-ba840eba",
+  "status": "done",
+  "timestamp": "2026-10-16T17:34:36+00:00"
  },
  "bab78a33abd481ab9dd68b365a0b9dce6374e63211dd1a81355b8ca54a1b9fb6": {
   "citation_source": "minckley-sheet",
@@ -1323,6 +1423,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:29:48+00:00"
  },
+ "cea5aa0d1b72ba1129c1c03dfd568aa9011c4aa1a8e23ac0546887fbede21f00": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "1991Turner et al..pdf",
+  "method": "ocr",
+  "note": "IntrogressiveHybridizationOfRe_1991.md",
+  "source_id": "X-cea5aa0d",
+  "status": "done",
+  "timestamp": "2026-10-16T17:24:32+00:00"
+ },
  "d10b1ab7ea0ba8b17b9df699b22a42b7b86462c8e5e363e7ab5b3dc418e74463": {
   "citation_source": "minckley-sheet",
   "file": "11829.pdf",
@@ -1331,6 +1441,16 @@
   "source_id": "X-d10b1ab7",
   "status": "done",
   "timestamp": "2026-10-14T20:03:42+00:00"
+ },
+ "d1cf07c698e93eaf05c53d3f3a974a3a34155c4eb09c558cfbf1bae048c747bf": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "2024MarshFieldGuideFishesoftheGrandCanyonState.pdf",
+  "method": "ocr",
+  "note": "FieldGuideToFishesOfTheGrandCa_X-d1cf07c6.md",
+  "source_id": "X-d1cf07c6",
+  "status": "done",
+  "timestamp": "2026-10-16T17:34:58+00:00"
  },
  "d1d4762908fde972caa5fdac0ee838ba3a87c1c1edcfbb624adcb82e9b270ab0": {
   "citation_source": "minckley-sheet",
@@ -1394,6 +1514,16 @@
   "source_id": "X-d6422705",
   "status": "done",
   "timestamp": "2026-10-14T17:26:55+00:00"
+ },
+ "d8107fdd54737e49f218f250cfb8503ebf0f1365a7863d081b32b95f9348689d": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "2002KoppelmanGarrett.pdf",
+  "method": "ocr",
+  "note": "DistributionBiologyAndConserva_2002.md",
+  "source_id": "X-d8107fdd",
+  "status": "done",
+  "timestamp": "2026-10-16T17:27:55+00:00"
  },
  "da011ebe6a0245d707fb3b5b4c1c8eea2acef8d9419d3860f0afe7db91c6a9d9": {
   "citation_source": "minckley-sheet",
@@ -1493,6 +1623,13 @@
   "source_id": "X-e2b66f2a",
   "status": "done",
   "timestamp": "2026-10-15T20:25:38+00:00"
+ },
+ "e34329a00e3f9d213a178fc69a062c5b08aeea218da893382fc6f0e77f160cb2": {
+  "file": "2000Warren et al. (USDA Forest Service).pdf",
+  "reason": "too long; skipped by user",
+  "source_id": "X-e34329a0",
+  "status": "skipped",
+  "timestamp": "2026-10-16T17:17:33+00:00"
  },
  "e35961bcec73761c6ef99c453b43e49867add9d5bdd3df1682e13adbf944f8af": {
   "citation_source": "minckley-sheet",
@@ -1601,6 +1738,16 @@
   "source_id": "X-eac05e81",
   "status": "done",
   "timestamp": "2026-10-14T19:28:20+00:00"
+ },
+ "eb51a0d37f5a89b0647b23a954891883af4ae6c874188127314d84559d8c2ced": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "2013Baker.pdf",
+  "method": "text",
+  "note": "DiversityWithinTheRedeyeBassMi_2013.md",
+  "source_id": "X-eb51a0d3",
+  "status": "done",
+  "timestamp": "2026-10-16T17:31:13+00:00"
  },
  "eb67fa661b22f82492bc17551264924c4e34b3f533c12137b881d8ad2a15dc56": {
   "citation_source": "minckley-sheet",
@@ -1718,6 +1865,16 @@
   "source_id": "X-f9bce0c6",
   "status": "done",
   "timestamp": "2026-10-14T20:08:52+00:00"
+ },
+ "f9ddaa54aefbc7e0a3a5e637ef3e34ec2db889165728bc44eeff37faddf62bf5": {
+  "citation_source": "crossref",
+  "doc_type": "sampling_design",
+  "file": "2025Leonard.pdf",
+  "method": "text",
+  "note": "IntegrationOfNewMethodologiesI_2025.md",
+  "source_id": "X-f9ddaa54",
+  "status": "done",
+  "timestamp": "2026-10-16T17:36:26+00:00"
  },
  "fb161096a458a19791c5c32e007af4c9de9aa9a35ce0ecf6a910d4691fb49067": {
   "citation_source": "minckley-sheet",

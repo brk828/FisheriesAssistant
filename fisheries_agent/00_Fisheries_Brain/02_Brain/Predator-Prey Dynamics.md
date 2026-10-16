@@ -11,8 +11,12 @@ Predator-prey dynamics in fish ecology refers to the complex interactions betwee
 > - **Habitat**: Artificial pond system (North, Middle, South Ponds/Lakes) at the ASU Research Park, hydrologically linked to the Salt River Project (SRP) canal system, which serves as a colonization source for several non-native taxa (e.g., threadfin shad, red shiner, channel catfish). - **Stockin...
 > -- *[[FishSamplingAtAsuResearchParkA_1988_04_22]]*
 
+> **Taxonomic & Life-History Summary:** Three centrarchid species are described: [[Lepomis microlophus]] (redear sunfish), [[Micropterus dolomieui]] (smallmouth bass), and [[Micropterus punctulatus]] (spotted bass). [[Lepomis microlophus]] exhibits geographic variation with two forms: one with 40-47...
+> -- *[[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]*
+
 ## Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
 - [[FishSamplingAtAsuResearchParkA_1988_04_22]]
 - [[PredationByIntroducedMuskellun_20576]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
+- [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]

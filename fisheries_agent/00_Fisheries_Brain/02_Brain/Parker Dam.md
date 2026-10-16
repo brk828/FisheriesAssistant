@@ -26,6 +26,9 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
 > -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
 
+> **Taxonomic & Life-History Summary**: This document covers multiple introduced bass and sunfish species in Arizona waters. [[Yellow Bass]] (*Roccus mississippiensis*) reached approximately one pound in weight in [[San Carlos Lake]] (1950) and [[Canyon Lake]] (1953), with larger individuals reported...
+> -- *[[TheVertebratesOfArizona_1964]]*
+
 ## Mentioned In
 - [[HumpbackChubGilaCypha_18257]]
 - [[ReCommentsOnTheFederalRegister_11571]]
@@ -36,3 +39,4 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 - [[TransmittalRegardingReasonable_19809]]
 - [[DistributionAndPoststockingSur_2016]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
+- [[TheVertebratesOfArizona_1964]]

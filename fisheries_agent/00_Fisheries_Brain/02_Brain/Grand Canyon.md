@@ -86,6 +86,9 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> **Taxonomic & Life-History Summary**: Two non-native centrarchid species are documented. [[Redeye Bass]] (*Micropterus coosae*) reaches maximum size about 19 in (47 cm). [[Smallmouth Bass]] (*Micropterus dolomieu*) is thick and chunky with large mouth, upper jaw extending almost to rear margin of...
+> -- *[[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -198,3 +201,4 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[InvasionPotentialOfNonnativeFi_2026]]
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]

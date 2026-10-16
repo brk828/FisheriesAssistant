@@ -38,6 +38,9 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 > This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
 > -- *[[BiologicalAssessmentForTheSpik_11476]]*
 
+> **Taxonomic & Life-History Summary**: Two non-native centrarchid species are documented. [[Redeye Bass]] (*Micropterus coosae*) reaches maximum size about 19 in (47 cm). [[Smallmouth Bass]] (*Micropterus dolomieu*) is thick and chunky with large mouth, upper jaw extending almost to rear margin of...
+> -- *[[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -63,3 +66,4 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[BiologicalAssessmentForTheSpik_11476]]
+- [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
