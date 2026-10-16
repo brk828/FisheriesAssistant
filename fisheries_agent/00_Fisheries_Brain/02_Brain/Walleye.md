@@ -41,6 +41,9 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 > This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
 > -- *[[EndangeredAndThreatenedWildlif_11592]]*
 
+> **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
+> -- *[[InvasionPotentialOfNonnativeFi_2026]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -101,3 +104,4 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 - [[InterimProceduresForStockingNo_15423]]
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[EndangeredAndThreatenedWildlif_11592]]
+- [[InvasionPotentialOfNonnativeFi_2026]]

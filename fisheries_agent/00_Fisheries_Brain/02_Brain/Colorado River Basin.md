@@ -89,6 +89,21 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
 > -- *[[DistributionAndPoststockingSur_2016]]*
 
+> **Taxonomic & Life-History Summary** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid endemic to the [[Colorado River Basin]] of western North America. Historically distributed throughout the mainstem Colorado River and medium to large tributaries, the species has experienced...
+> -- *[[AdaptiveManagementOfAnImperile_2016]]*
+
+> **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
+> -- *[[InvasionPotentialOfNonnativeFi_2026]]*
+
+> **Core Problem Addressed**: Understanding how native and nonnative fish populations respond to changing flow regimes (drought and flood sequences) in dryland rivers under climate change. The study addresses the challenge of modeling novel biological assemblages in non-stationary environmental...
+> -- *[[IncreasingDroughtFavorsNonnati_2019]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
+> -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
+
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -394,3 +409,8 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[DistributionAndPoststockingSur_2016]]
+- [[AdaptiveManagementOfAnImperile_2016]]
+- [[InvasionPotentialOfNonnativeFi_2026]]
+- [[IncreasingDroughtFavorsNonnati_2019]]
+- [[SurvivalOfRazorbackSuckerInThe_2008]]
+- [[HolisticSpeciesDelimitationSup_2026]]

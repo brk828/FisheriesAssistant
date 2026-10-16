@@ -41,6 +41,9 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 > This document is the 1987-1988 annual report for a multi-faceted investigation contracted by the U.S. Fish and Wildlife Service, Arizona Game and Fish Department, and New Mexico Department of Fish and Game to Arizona State University. The study evaluates interactions between the invasive [[Red...
 > -- *[[DraftOfTheAnnualReportForSpike_13757]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -195,3 +198,4 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 - [[ReContinuationOfTheUsArmysSanP_11808]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[DraftOfTheAnnualReportForSpike_13757]]
+- [[HolisticSpeciesDelimitationSup_2026]]

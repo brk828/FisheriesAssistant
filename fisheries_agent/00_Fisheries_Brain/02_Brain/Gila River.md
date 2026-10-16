@@ -98,6 +98,9 @@ The Gila River is a major tributary system in the southwestern United States tha
 > This biological assessment evaluates potential impacts of removing the [[Roosevelt Diversion Dam]] on the [[Salt River]], Arizona. Electrofishing surveys conducted March 15-16, 1988 documented stark differences in fish assemblages above versus below the dam. Above the dam, 230 fish (23,680 gm total...
 > -- *[[SaltRiverProjectRooseveltDiver_15070]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -254,3 +257,4 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[DraftOfTheAnnualReportForSpike_13757]]
 - [[SaltRiverProjectRooseveltDiver_15070]]
+- [[HolisticSpeciesDelimitationSup_2026]]

@@ -68,6 +68,12 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 > This biological assessment evaluates potential impacts of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species: [[Bonytail Chub]] (*Gila elegans*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bald Eagle]] (*Haliaeetus leucocephalus*),...
 > -- *[[BiologicalAssessmentOnThreaten_19806]]*
 
+> **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
+> -- *[[InvasionPotentialOfNonnativeFi_2026]]*
+
+> **Core Problem Addressed**: Understanding how native and nonnative fish populations respond to changing flow regimes (drought and flood sequences) in dryland rivers under climate change. The study addresses the challenge of modeling novel biological assemblages in non-stationary environmental...
+> -- *[[IncreasingDroughtFavorsNonnati_2019]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AFishPopulationStudyOfThirdSis_1942]]
@@ -227,3 +233,5 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 - [[SaltRiverProjectRooseveltDiver_15070]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[BiologicalAssessmentOnThreaten_19806]]
+- [[InvasionPotentialOfNonnativeFi_2026]]
+- [[IncreasingDroughtFavorsNonnati_2019]]

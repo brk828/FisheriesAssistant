@@ -29,6 +29,9 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 > The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
 > -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
+> -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[FishAndWildlifeServiceReviewOf_1990_09_11]]
@@ -56,3 +59,4 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 - [[SummaryOfManualSpawningOfRazor_1993_03_26]]
 - [[RequestedMeetingnativeFishWork_15023]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[SurvivalOfRazorbackSuckerInThe_2008]]

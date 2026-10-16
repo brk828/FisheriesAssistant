@@ -59,6 +59,9 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 > This biological assessment evaluates potential impacts of removing the [[Roosevelt Diversion Dam]] on the [[Salt River]], Arizona. Electrofishing surveys conducted March 15-16, 1988 documented stark differences in fish assemblages above versus below the dam. Above the dam, 230 fish (23,680 gm total...
 > -- *[[SaltRiverProjectRooseveltDiver_15070]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfChannelCatfishIc_14101]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -115,3 +118,4 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[SaltRiverProjectRooseveltDiver_15070]]
+- [[HolisticSpeciesDelimitationSup_2026]]

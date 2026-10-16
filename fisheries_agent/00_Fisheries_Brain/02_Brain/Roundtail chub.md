@@ -59,6 +59,12 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 > The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
 > -- *[[ReportOfTheOctoberFishCount_11417]]*
 
+> **Core Problem Addressed**: Understanding how native and nonnative fish populations respond to changing flow regimes (drought and flood sequences) in dryland rivers under climate change. The study addresses the challenge of modeling novel biological assemblages in non-stationary environmental...
+> -- *[[IncreasingDroughtFavorsNonnati_2019]]*
+
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -180,3 +186,5 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 - [[EffectsOfElectrofishingFieldsO_15548]]
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[ReportOfTheOctoberFishCount_11417]]
+- [[IncreasingDroughtFavorsNonnati_2019]]
+- [[HolisticSpeciesDelimitationSup_2026]]

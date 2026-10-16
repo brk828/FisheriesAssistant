@@ -68,6 +68,12 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 > This three-year study (2008-2011) examined demographics and post-stocking survival of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir. The wild population has declined to fewer than 50 individuals, making the repatriation program...
 > -- *[[DemographicsAndPoststockingSur_2012]]*
 
+> **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
+> -- *[[InvasionPotentialOfNonnativeFi_2026]]*
+
+> **Core Problem Addressed**: Understanding how native and nonnative fish populations respond to changing flow regimes (drought and flood sequences) in dryland rivers under climate change. The study addresses the challenge of modeling novel biological assemblages in non-stationary environmental...
+> -- *[[IncreasingDroughtFavorsNonnati_2019]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -165,3 +171,5 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 - [[SaltRiverProjectRooseveltDiver_15070]]
 - [[Perch_16750]]
 - [[DemographicsAndPoststockingSur_2012]]
+- [[InvasionPotentialOfNonnativeFi_2026]]
+- [[IncreasingDroughtFavorsNonnati_2019]]

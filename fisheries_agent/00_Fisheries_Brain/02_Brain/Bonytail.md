@@ -56,6 +56,15 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 > This five-year final report (2015–2019) documents the demographics and monitoring of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], part of the [[Lower Colorado River Multi-Species Conservation Program]]. The wild razorback sucker population has functionally disappeared,...
 > -- *[[DemographicsAndMonitoringOfRep_2020]]*
 
+> **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
+> -- *[[InvasionPotentialOfNonnativeFi_2026]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
+> -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
+
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -200,3 +209,6 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[DistributionAndPoststockingSur_2016]]
 - [[DemographicsAndMonitoringOfRep_2020]]
+- [[InvasionPotentialOfNonnativeFi_2026]]
+- [[SurvivalOfRazorbackSuckerInThe_2008]]
+- [[HolisticSpeciesDelimitationSup_2026]]

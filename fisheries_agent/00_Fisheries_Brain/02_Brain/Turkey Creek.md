@@ -29,6 +29,9 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 > This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
 > -- *[[TentativeSummaryOfCollectingAc_13171]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[AravaipaShinerSurveyJuly_1998_07_10]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -45,3 +48,4 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 - [[SouthwestCenterSSupplementalAn_18100]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[TentativeSummaryOfCollectingAc_13171]]
+- [[HolisticSpeciesDelimitationSup_2026]]

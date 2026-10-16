@@ -44,6 +44,9 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
+> -- *[[InvasionPotentialOfNonnativeFi_2026]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -161,3 +164,4 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 - [[LetterToJimJohnsonWithEncolose_11425]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[InvasionPotentialOfNonnativeFi_2026]]

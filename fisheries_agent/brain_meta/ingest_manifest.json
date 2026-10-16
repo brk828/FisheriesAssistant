@@ -224,6 +224,16 @@
   "status": "done",
   "timestamp": "2026-10-15T22:47:41+00:00"
  },
+ "22d381718cb2f1a1a91ae89e2da3288933f84650d83c711860627e4ae549a4aa": {
+  "citation_source": "crossref",
+  "doc_type": "sampling_design",
+  "file": "Buxton et al 2025 PIT tags in Santa Ana sucker.pdf",
+  "method": "text",
+  "note": "EffectOfPassiveIntegratedTrans_2025.md",
+  "source_id": "X-22d38171",
+  "status": "done",
+  "timestamp": "2026-10-15T23:51:23+00:00"
+ },
  "239cb09f096f39bcb8c0b5932a1e8803c4bb6903da6dd1eb592f065bcfeb10ae": {
   "citation_source": "minckley-sheet",
   "file": "14674.pdf",
@@ -306,6 +316,16 @@
   "status": "done",
   "timestamp": "2026-10-15T22:50:15+00:00"
  },
+ "30778970467e693870c6c589fd61fa55c0a227d82043db64a09474c171f5fe6c": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Barabe 2020 - Black bullhead removal in trout stream.pdf",
+  "method": "text",
+  "note": "BlackBullheadRemovalFromAHeadw_2020.md",
+  "source_id": "X-30778970",
+  "status": "done",
+  "timestamp": "2026-10-15T23:50:04+00:00"
+ },
  "3358d371a72d4e12d7808d4ac8bda519f2d7b48a92840e7acbdac6b06c795b9f": {
   "citation_source": "minckley-sheet",
   "file": "17697.pdf",
@@ -377,6 +397,16 @@
   "source_id": "X-3929230d",
   "status": "done",
   "timestamp": "2026-10-14T23:57:38+00:00"
+ },
+ "3a2a82812cb7c3b969be62534cabe2386368992f101d60a7bc0e06c8dd57c5d4": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "Marshall et al. 2021 - eRNA advances reliabiltiy of eDNA.pdf",
+  "method": "text",
+  "note": "EnvironmentalErnaAdvancesTheRe_2021.md",
+  "source_id": "X-3a2a8281",
+  "status": "done",
+  "timestamp": "2026-10-15T23:57:21+00:00"
  },
  "3de2b3788e3232e4fcc07525e218a18d7d81a158d452654317a044163dfb710b": {
   "file": "15631 test.pdf",
@@ -547,6 +577,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:12:18+00:00"
  },
+ "59ef16c080719d184cf125049e65cb49be15b33f2566e7f12fa769dca87b6bc8": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Adaptive Management of an Imperiled Catostomid in Lake Mohave, Lower Colorado River, USA.pdf",
+  "method": "mixed",
+  "note": "AdaptiveManagementOfAnImperile_2016.md",
+  "source_id": "X-59ef16c0",
+  "status": "done",
+  "timestamp": "2026-10-15T23:47:35+00:00"
+ },
  "5a2a20ec69437db3d327f5ac22dde08b9d65e1358c3d163a662494aa773d068a": {
   "citation_source": "minckley-sheet",
   "file": "19127.pdf",
@@ -620,6 +660,16 @@
   "status": "done",
   "timestamp": "2026-10-09T20:41:31+00:00"
  },
+ "5e6160f28aa9a4d38f826f01062eb1faed0952aa84209d070dadd8ca754a91ec": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Friesen et al. 2026 invasion potential.pdf",
+  "method": "text",
+  "note": "InvasionPotentialOfNonnativeFi_2026.md",
+  "source_id": "X-5e6160f2",
+  "status": "done",
+  "timestamp": "2026-10-15T23:54:28+00:00"
+ },
  "601e44e4d6bdd72d077172c9793519f444f493834f957d951825a0c1780d777e": {
   "citation_source": "minckley-sheet",
   "file": "16480.pdf",
@@ -628,6 +678,16 @@
   "source_id": "X-601e44e4",
   "status": "done",
   "timestamp": "2026-10-14T17:51:21+00:00"
+ },
+ "613f28f45a70c5af03a30abe76f159b001f5762a6e28f5d97b6ae9f8a13cafd9": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "Schooley et al. 2006-2008 LCR Razorback Final Project Reort.pdf",
+  "method": "text",
+  "note": "SurvivalOfRazorbackSuckerInThe_2008.md",
+  "source_id": "X-613f28f4",
+  "status": "done",
+  "timestamp": "2026-10-16T00:00:54+00:00"
  },
  "61f655e6d43854283b631322c6e265011171af23bc14243558cf441fef6d91e6": {
   "citation_source": "minckley-sheet",
@@ -828,6 +888,16 @@
   "status": "done",
   "timestamp": "2026-10-15T20:27:08+00:00"
  },
+ "8d62234c95291d0a2b173ce08c4621e28e7e1e5c30f8a9d05949760aa92d7e20": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Turner et al. 2026. Gila Complex.pdf",
+  "method": "text",
+  "note": "HolisticSpeciesDelimitationSup_2026.md",
+  "source_id": "X-8d62234c",
+  "status": "done",
+  "timestamp": "2026-10-16T00:02:06+00:00"
+ },
  "8ecaef2f8046e85c43fdd5afa9df0057ec6d4720c23f6a87001cfa0249ea7561": {
   "citation_source": "minckley-sheet",
   "file": "11496.pdf",
@@ -863,6 +933,16 @@
   "source_id": "X-8fa72e35",
   "status": "done",
   "timestamp": "2026-10-14T20:19:54+00:00"
+ },
+ "90b8f5bfa1d2efbf92f66509a0018e59858c5eaef56eb389e99c9e0f98273bcf": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Clairborne et al. 2011 - Size-Selective Mortality  and Age of Maturity Yearling Chinook Salmon.pdf",
+  "method": "text",
+  "note": "SizeAtReleaseSizeselectiveMort_2011.md",
+  "source_id": "X-90b8f5bf",
+  "status": "done",
+  "timestamp": "2026-10-15T23:52:40+00:00"
  },
  "93dd3d61e4b13acb4c6333a747e53025c71d1ace20fee1871712716fab3db6bf": {
   "citation_source": "minckley-sheet",
@@ -981,12 +1061,32 @@
   "status": "done",
   "timestamp": "2026-10-14T23:15:50+00:00"
  },
+ "a1386ca058a1a2a5ba7b1412238230f4ab0703d8e085fb9d409028f96a7b76eb": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "Hoyle et al. CPUE modeling for stock assessment.pdf",
+  "method": "text",
+  "note": "CatchPerUnitEffortModellingFor_2024.md",
+  "source_id": "X-a1386ca0",
+  "status": "done",
+  "timestamp": "2026-10-15T23:56:11+00:00"
+ },
  "a17b5b20218af3eb721966698236ed3a89f52abbb03820521beae72688429132": {
   "file": "12540.pdf",
   "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: ''",
   "source_id": "X-a17b5b20",
   "status": "failed",
   "timestamp": "2026-10-15T17:31:38+00:00"
+ },
+ "a514c7e472fb3e51c9243ab4e9b36459c59ac2f1bf152761746b8f875fec3458": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "Walsworth 2020 - Carp dynamics Utah Lake.pdf",
+  "method": "mixed",
+  "note": "CompensatoryRecruitmentDynamic_2020.md",
+  "source_id": "X-a514c7e4",
+  "status": "done",
+  "timestamp": "2026-10-16T00:03:47+00:00"
  },
  "a69f32595e1aeddff707d60e712bbe47b7766d9459a5850f92d8128fc99accb6": {
   "citation_source": "minckley-sheet",
@@ -1023,6 +1123,16 @@
   "source_id": "X-b1f1107e",
   "status": "done",
   "timestamp": "2026-10-15T20:30:11+00:00"
+ },
+ "b31e6b33f7010da587291d33af0020e29b2ff6382ce27e80beb8b45745e313fa": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "Rogosch et al. 2019 - Increasing drought favors nonnative fishes in a dryland river  evidence from a multispecies.pdf",
+  "method": "mixed",
+  "note": "IncreasingDroughtFavorsNonnati_2019.md",
+  "source_id": "X-b31e6b33",
+  "status": "done",
+  "timestamp": "2026-10-15T23:58:52+00:00"
  },
  "b3f0eb93e598d82d8a3d436b9a2b3ff755f1e650f0b3ca3c46afca0f95768eed": {
   "citation_source": "llm",

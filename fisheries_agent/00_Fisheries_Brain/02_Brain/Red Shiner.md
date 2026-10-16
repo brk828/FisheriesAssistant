@@ -71,6 +71,9 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> **Core Problem Addressed**: Understanding how native and nonnative fish populations respond to changing flow regimes (drought and flood sequences) in dryland rivers under climate change. The study addresses the challenge of modeling novel biological assemblages in non-stationary environmental...
+> -- *[[IncreasingDroughtFavorsNonnati_2019]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -215,3 +218,4 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[SaltRiverProjectRooseveltDiver_15070]]
 - [[CorrespondenceBetweenMinckleyA_16449]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[IncreasingDroughtFavorsNonnati_2019]]

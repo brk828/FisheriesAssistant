@@ -47,6 +47,9 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 > This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
 > -- *[[InlandCommercialFisheriesWorks_15658]]*
 
+> **Taxonomic & Life-History Summary**: [[Black Bullhead]] (*Ameiurus melas*) is a stout-bodied catfish native to central North American drainages but now widely distributed across western states through intentional introductions. Life history attributes facilitating range expansion include high...
+> -- *[[BlackBullheadRemovalFromAHeadw_2020]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
@@ -126,3 +129,4 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
 - [[TheRazorbackSuckerXyrauchenTex_15245]]
 - [[InlandCommercialFisheriesWorks_15658]]
+- [[BlackBullheadRemovalFromAHeadw_2020]]

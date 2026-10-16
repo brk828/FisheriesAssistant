@@ -11,5 +11,9 @@ auto_enriched: true
 > - **Habitat context:** The fish were recovered from **agricultural irrigation canals** fed by the lower [[Colorado River]], adjacent to the CRIT Reservation south of Parker, Arizona. This suggests that subadult Razorback Suckers were entrained from the river/reservoir system into diversion canals...
 > -- *[[CaptureOfRazorbackSuckersIrrig_1987_02_12]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
+> -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
+
 ## Mentioned In
 - [[CaptureOfRazorbackSuckersIrrig_1987_02_12]]
+- [[SurvivalOfRazorbackSuckerInThe_2008]]

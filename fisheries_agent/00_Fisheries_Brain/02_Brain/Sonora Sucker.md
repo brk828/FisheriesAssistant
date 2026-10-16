@@ -35,6 +35,9 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 > This 1982 research proposal, submitted by Linda Ulmer (California Department of Fish and Game) to the U.S. Fish and Wildlife Service, outlines a two-phase electrophoretic study to assess genetic purity of [[Razorback Sucker]] (*Xyrauchen texanus*) breeding stocks. The study addresses concerns that...
 > -- *[[LetterToJimJohnsonWithEncolose_11425]]*
 
+> **Core Problem Addressed**: Understanding how native and nonnative fish populations respond to changing flow regimes (drought and flood sequences) in dryland rivers under climate change. The study addresses the challenge of modeling novel biological assemblages in non-stationary environmental...
+> -- *[[IncreasingDroughtFavorsNonnati_2019]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -88,3 +91,4 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[LetterToJimJohnsonWithEncolose_11425]]
+- [[IncreasingDroughtFavorsNonnati_2019]]

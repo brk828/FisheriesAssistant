@@ -17,9 +17,13 @@ auto_enriched: true
 > This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
 > -- *[[MitochondrialDnaDiversityWithi_19127]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[CooperativeEcosystemStudiesUni_1999]]
 - [[LectureNotesFromBiologyClass_13784]]
 - [[ZoogeographicalAnalysisAndRevi_15920]]
 - [[MitochondrialDnaDiversityWithi_19127]]
+- [[HolisticSpeciesDelimitationSup_2026]]

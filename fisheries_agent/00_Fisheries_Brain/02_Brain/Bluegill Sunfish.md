@@ -26,6 +26,9 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 > Two Oklahoma State University zoology professors, Dr. Troy C. Dorris and Dr. Robert C. Summerfelt, conducted a three-week study of fish populations in [[Lake Atitlan]], [[Guatemala]], in 1967 to address perceived fish shortages affecting the community of [[Santiago Atitlan]] (population 14,000)....
 > -- *[[FishPlentifulInGuatemalaLake_19070]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
+> -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[CatalogingOfSmallImpoundmentOf_12167]]
@@ -36,3 +39,4 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 - [[TheEffectOfThermalAcclimationO_15619]]
 - [[TripReportLakeMohave_1993_03_26]]
 - [[FishPlentifulInGuatemalaLake_19070]]
+- [[SurvivalOfRazorbackSuckerInThe_2008]]

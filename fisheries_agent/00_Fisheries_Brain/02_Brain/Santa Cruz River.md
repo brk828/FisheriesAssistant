@@ -44,6 +44,9 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 > The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
 > -- *[[ReportOfTheOctoberFishCount_11417]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[CienegaCreekWatershedWaterSour_18990]]
@@ -64,3 +67,4 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 - [[SelectedAspectsOfTheNaturalHis_14397]]
 - [[MolecularVariationAndEvolution_18435]]
 - [[ReportOfTheOctoberFishCount_11417]]
+- [[HolisticSpeciesDelimitationSup_2026]]

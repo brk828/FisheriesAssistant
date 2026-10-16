@@ -50,6 +50,9 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
 > -- *[[DistributionAndPoststockingSur_2016]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
+> -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
+
 ## Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -110,3 +113,4 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[SaltRiverProjectRooseveltDiver_15070]]
 - [[DistributionAndPoststockingSur_2016]]
+- [[SurvivalOfRazorbackSuckerInThe_2008]]

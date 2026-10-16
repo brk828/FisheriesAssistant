@@ -68,6 +68,9 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -131,3 +134,4 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[HolisticSpeciesDelimitationSup_2026]]

@@ -29,6 +29,9 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 > This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
 > -- *[[FisheryInventoryOfTheCoachella_13687]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyWa_1994_01_31]]
 - [[CommentsOnTheDraftActivityPlan_13812]]
@@ -47,3 +50,4 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 - [[UpperVerdeRiverAquaticStudy_15611]]
 - [[BiologicalAssessmentForTheSpik_11476]]
 - [[FisheryInventoryOfTheCoachella_13687]]
+- [[HolisticSpeciesDelimitationSup_2026]]

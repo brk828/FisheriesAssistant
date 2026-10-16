@@ -32,6 +32,9 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 > This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
 > -- *[[DistributionAndPoststockingSur_2016]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[AlamoDamLandAndWaterProjectsSt_1966]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -49,3 +52,4 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 - [[LectureNotesFromBiologyClass_13784]]
 - [[IntraserviceSectionConsultatio_20152]]
 - [[DistributionAndPoststockingSur_2016]]
+- [[HolisticSpeciesDelimitationSup_2026]]

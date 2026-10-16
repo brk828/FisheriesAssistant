@@ -80,6 +80,12 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
 > -- *[[EndangeredAndThreatenedWildlif_11592]]*
 
+> **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
+> -- *[[InvasionPotentialOfNonnativeFi_2026]]*
+
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -190,3 +196,5 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
 - [[RebuttalToCriticismsByDuncanPa_11089]]
 - [[EndangeredAndThreatenedWildlif_11592]]
+- [[InvasionPotentialOfNonnativeFi_2026]]
+- [[HolisticSpeciesDelimitationSup_2026]]

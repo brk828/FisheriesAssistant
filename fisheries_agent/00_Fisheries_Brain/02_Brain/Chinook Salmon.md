@@ -35,6 +35,9 @@ Chinook Salmon (*Oncorhynchus tshawytscha*) are the largest Pacific salmon speci
 > This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
 > -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
 
+> **Taxonomic & Life-History Summary**: [[Chinook Salmon]] (*Oncorhynchus tshawytscha*) from the [[Willamette River]] exhibit both yearling (migrate to sea after first winter) and subyearling (migrate before first winter) life histories, though this study focused exclusively on hatchery-produced...
+> -- *[[SizeAtReleaseSizeselectiveMort_2011]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
@@ -67,3 +70,4 @@ Chinook Salmon (*Oncorhynchus tshawytscha*) are the largest Pacific salmon speci
 - [[TroutFishingAtCliffPondBrewste_15489]]
 - [[MhcVariationAndParasiteResista_12519]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[SizeAtReleaseSizeselectiveMort_2011]]

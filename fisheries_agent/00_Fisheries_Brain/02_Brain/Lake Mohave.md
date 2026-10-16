@@ -77,6 +77,9 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This three-year study (2008-2011) examined demographics and post-stocking survival of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir. The wild population has declined to fewer than 50 individuals, making the repatriation program...
 > -- *[[DemographicsAndPoststockingSur_2012]]*
 
+> **Taxonomic & Life-History Summary** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid endemic to the [[Colorado River Basin]] of western North America. Historically distributed throughout the mainstem Colorado River and medium to large tributaries, the species has experienced...
+> -- *[[AdaptiveManagementOfAnImperile_2016]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -260,3 +263,4 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[BiologicalAssessmentOnThreaten_19806]]
 - [[DemographicsAndMonitoringOfRep_2020]]
 - [[DemographicsAndPoststockingSur_2012]]
+- [[AdaptiveManagementOfAnImperile_2016]]

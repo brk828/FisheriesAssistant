@@ -32,6 +32,9 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 > This five-year final report (2015–2019) documents the demographics and monitoring of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], part of the [[Lower Colorado River Multi-Species Conservation Program]]. The wild razorback sucker population has functionally disappeared,...
 > -- *[[DemographicsAndMonitoringOfRep_2020]]*
 
+> **Taxonomic & Life-History Summary** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid endemic to the [[Colorado River Basin]] of western North America. Historically distributed throughout the mainstem Colorado River and medium to large tributaries, the species has experienced...
+> -- *[[AdaptiveManagementOfAnImperile_2016]]*
+
 ## Mentioned In
 - [[BonytailReceivedCaughtInLakeMo_15286]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -49,3 +52,4 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 - [[RequestForProposalspresubmitta_18342]]
 - [[DistributionAndPoststockingSur_2016]]
 - [[DemographicsAndMonitoringOfRep_2020]]
+- [[AdaptiveManagementOfAnImperile_2016]]

@@ -56,6 +56,15 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This three-year study (2008-2011) examined demographics and post-stocking survival of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir. The wild population has declined to fewer than 50 individuals, making the repatriation program...
 > -- *[[DemographicsAndPoststockingSur_2012]]*
 
+> **Taxonomic & Life-History Summary** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid endemic to the [[Colorado River Basin]] of western North America. Historically distributed throughout the mainstem Colorado River and medium to large tributaries, the species has experienced...
+> -- *[[AdaptiveManagementOfAnImperile_2016]]*
+
+> **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
+> -- *[[InvasionPotentialOfNonnativeFi_2026]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
+> -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -170,3 +179,6 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[GcesPlanningDocumentResearchPl_18452]]
 - [[DistributionAndPoststockingSur_2016]]
 - [[DemographicsAndPoststockingSur_2012]]
+- [[AdaptiveManagementOfAnImperile_2016]]
+- [[InvasionPotentialOfNonnativeFi_2026]]
+- [[SurvivalOfRazorbackSuckerInThe_2008]]

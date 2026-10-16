@@ -35,6 +35,9 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
 > -- *[[ReportOfTheOctoberFishCount_11417]]*
 
+> **Core Problem Addressed**: Understanding how native and nonnative fish populations respond to changing flow regimes (drought and flood sequences) in dryland rivers under climate change. The study addresses the challenge of modeling novel biological assemblages in non-stationary environmental...
+> -- *[[IncreasingDroughtFavorsNonnati_2019]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -113,3 +116,4 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[SelectedAspectsOfTheNaturalHis_14397]]
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[ReportOfTheOctoberFishCount_11417]]
+- [[IncreasingDroughtFavorsNonnati_2019]]

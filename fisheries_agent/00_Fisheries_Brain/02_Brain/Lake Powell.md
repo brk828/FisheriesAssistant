@@ -59,6 +59,9 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > This document is correspondence from the Bureau of Reclamation dated February 4, 1993, announcing a meeting of the Reservoir Work Group scheduled for February 12, 1993, in Phoenix, Arizona. The meeting focuses on selective withdrawal operations at [[Glen Canyon Dam]] to modify downstream water...
 > -- *[[CorrespondenceRegardingMeeting_13520]]*
 
+> **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
+> -- *[[InvasionPotentialOfNonnativeFi_2026]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -137,3 +140,4 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[MitochondrialDnaDiversityWithi_19127]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[CorrespondenceRegardingMeeting_13520]]
+- [[InvasionPotentialOfNonnativeFi_2026]]

@@ -20,6 +20,9 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 > The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
 > -- *[[ReportOfTheOctoberFishCount_11417]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[DesertFishesRecoveryTeamAction_11691]]
@@ -29,3 +32,4 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 - [[MeetingNotesOnInstreamFlowAlte_17325]]
 - [[MinutesOfMeetingOfFisheryBiolo_2000_05_24]]
 - [[ReportOfTheOctoberFishCount_11417]]
+- [[HolisticSpeciesDelimitationSup_2026]]

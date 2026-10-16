@@ -32,6 +32,9 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 > This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
 > -- *[[DraftliteratureReviewOfTheStri_15768]]*
 
+> **Taxonomic & Life-History Summary**: [[Chinook Salmon]] (*Oncorhynchus tshawytscha*) from the [[Willamette River]] exhibit both yearling (migrate to sea after first winter) and subyearling (migrate before first winter) life histories, though this study focused exclusively on hatchery-produced...
+> -- *[[SizeAtReleaseSizeselectiveMort_2011]]*
+
 ## Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AccumulationAndRetentionOfRadi_1957]]
@@ -56,3 +59,4 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[EnvironmentalImplicationsOfRad_14607]]
 - [[DraftliteratureReviewOfTheStri_15768]]
+- [[SizeAtReleaseSizeselectiveMort_2011]]

@@ -629,6 +629,15 @@
   "type": "Report",
   "year": "2016"
  },
+ "X-22d38171": {
+  "authors": "J. M. Buxton, M. L. Wulff, B. M. Huntsman, K. Palenscar, B. Mills, K. Russell, A. Ruan, T. Bui",
+  "citation_source": "crossref",
+  "doi": "10.1093/najfmt/vqaf109",
+  "publication": "North American Journal of Fisheries Management 46(1): 269-275.",
+  "title": "Effect of passive integrated transponder tag size on survival, tag loss, and growth of Santa Ana Sucker",
+  "type": "Journal Article",
+  "year": "2025"
+ },
  "X-2897fa8f": {
   "authors": "H. Allan, P. Unmack, R. P. Duncan, M. Lintermans",
   "citation_source": "crossref",
@@ -647,6 +656,15 @@
   "type": "Report",
   "year": "2012"
  },
+ "X-30778970": {
+  "authors": "R. Barabe",
+  "citation_source": "crossref",
+  "doi": "10.1002/nafm.10470",
+  "publication": "North American Journal of Fisheries Management 41(S1): S64-S70.",
+  "title": "Black Bullhead Removal from a Headwater Trout Stream in Southern California",
+  "type": "Journal Article",
+  "year": "2020"
+ },
  "X-365e2fb8": {
   "authors": "R. J. Friebertshauser, K. R. Bestgen",
   "citation_source": "crossref",
@@ -656,6 +674,24 @@
   "type": "Journal Article",
   "year": "2026"
  },
+ "X-3a2a8281": {
+  "authors": "N. T. Marshall, H. A. Vanderploeg, S. R. Chaganti",
+  "citation_source": "crossref",
+  "doi": "10.1038/s41598-021-82205-4",
+  "publication": "Scientific Reports 11(1).",
+  "title": "Environmental (e)RNA advances the reliability of eDNA by predicting its age",
+  "type": "Journal Article",
+  "year": "2021"
+ },
+ "X-59ef16c0": {
+  "authors": "B. R. Kesner, J. B. Wisenall, P. C. Marsh",
+  "citation_source": "crossref",
+  "doi": "10.5772/63808",
+  "publication": "Lake Sciences and Climate Change.",
+  "title": "Adaptive Management of an Imperiled Catostomid in Lake Mohave, Lower Colorado River, USA",
+  "type": "Book Chapter",
+  "year": "2016"
+ },
  "X-5c166405": {
   "authors": "W. E. Barber, W. L. Minckley",
   "citation_source": "crossref",
@@ -664,6 +700,24 @@
   "title": "Fishes of Aravaipa Creek, Graham and Pinal Counties, Arizona",
   "type": "Journal Article",
   "year": "1966"
+ },
+ "X-5e6160f2": {
+  "authors": "B. Friesen, C. A. Pennock, P. Budy",
+  "citation_source": "crossref",
+  "doi": "10.1007/s10750-026-06137-8",
+  "publication": "Hydrobiologia 853(11): 3249-3268.",
+  "title": "Invasion potential of nonnative fishes through a large western dam into an iconic and vulnerable ecosystem",
+  "type": "Journal Article",
+  "year": "2026"
+ },
+ "X-613f28f4": {
+  "authors": "Jason D. Schooley, Brian R. Kesner, Joshua R. Campbell, Judith M. Barkstedt, Paul C. Marsh",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "Survival of razorback sucker in the lower Colorado River",
+  "type": "Report",
+  "year": "2008"
  },
  "X-7bdd8757": {
   "authors": "K. Guldbrandsen Frøysa, B. Bogstad, D. W. Skagen",
@@ -682,6 +736,51 @@
   "title": "Gape Limitation, Prey Size Refuges and the Top–down Impacts of Piscivorous Largemouth Bass in Shallow Pond Ecosystems",
   "type": "Journal Article",
   "year": "2006"
+ },
+ "X-8d62234c": {
+  "authors": "T. F. Turner, T. E. Dowling, P. C. Marsh, R. W. Clarkson, D. L. Propst, S. P. Platania, M. J. Osborne, G. Caeiro-Dias",
+  "citation_source": "crossref",
+  "doi": "10.1643/i2025026",
+  "publication": "Ichthyology &amp; Herpetology 114(2): 190-203.",
+  "title": "Holistic Species Delimitation Supports Recognition of Multiple Lineages in the Gila robusta Complex of the American Southwest",
+  "type": "Journal Article",
+  "year": "2026"
+ },
+ "X-90b8f5bf": {
+  "authors": "A. M. Claiborne, J. P. Fisher, S. A. Hayes, R. L. Emmett",
+  "citation_source": "crossref",
+  "doi": "10.1080/00028487.2011.607050",
+  "publication": "Transactions of the American Fisheries Society 140(4): 1135-1144.",
+  "title": "Size at Release, Size‐Selective Mortality, and Age of Maturity of Willamette River Hatchery Yearling Chinook Salmon",
+  "type": "Journal Article",
+  "year": "2011"
+ },
+ "X-a1386ca0": {
+  "authors": "S. D. Hoyle, R. A. Campbell, N. D. Ducharme-Barth, A. Grüss, B. R. Moore, J. T. Thorson, L. Tremblay-Boyer, H. Winker, S. Zhou, M. N. Maunder",
+  "citation_source": "crossref",
+  "doi": "10.1016/j.fishres.2023.106860",
+  "publication": "Fisheries Research 269: 106860.",
+  "title": "Catch per unit effort modelling for stock assessment: A summary of good practices",
+  "type": "Journal Article",
+  "year": "2024"
+ },
+ "X-a514c7e4": {
+  "authors": "T. E. Walsworth, K. Landom, J. W. Gaeta",
+  "citation_source": "crossref",
+  "doi": "10.1002/ecs2.3158",
+  "publication": "Ecosphere 11(6).",
+  "title": "Compensatory recruitment, dynamic habitat, and selective gear present challenges to large‐scale invasive species control",
+  "type": "Journal Article",
+  "year": "2020"
+ },
+ "X-b31e6b33": {
+  "authors": "J. S. Rogosch, J. D. Tonkin, D. A. Lytle, D. M. Merritt, L. V. Reynolds, J. D. Olden",
+  "citation_source": "crossref",
+  "doi": "10.1002/ecs2.2681",
+  "publication": "Ecosphere 10(4).",
+  "title": "Increasing drought favors nonnative fishes in a dryland river: evidence from a multispecies demographic model",
+  "type": "Journal Article",
+  "year": "2019"
  },
  "X-b3f0eb93": {
   "authors": "B. J. Miller, B. R. Kesner, C. A. Pacey, P. C. Marsh",

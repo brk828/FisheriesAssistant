@@ -56,6 +56,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This document is the 1987-1988 annual report for a multi-faceted investigation contracted by the U.S. Fish and Wildlife Service, Arizona Game and Fish Department, and New Mexico Department of Fish and Game to Arizona State University. The study evaluates interactions between the invasive [[Red...
 > -- *[[DraftOfTheAnnualReportForSpike_13757]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -138,3 +141,4 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[DraftOfTheAnnualReportForSpike_13757]]
+- [[HolisticSpeciesDelimitationSup_2026]]

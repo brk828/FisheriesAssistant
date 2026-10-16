@@ -26,6 +26,9 @@ The Gulf of California is a biogeographically significant marine basin in northw
 > This study documents the distribution patterns of [[Striped Mullet]] (Mugil cephalus) in the [[Colorado River]] and [[Gulf of California]] during 1967-1968, revealing evidence of upstream migration and questioning traditional understanding of salinity requirements for spawning. Collections from...
 > -- *[[DifferentialDistributionOfTheS_19750]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -47,3 +50,4 @@ The Gulf of California is a biogeographically significant marine basin in northw
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 - [[USDryingUpMexicanWetlands_1996_04_30]]
 - [[DifferentialDistributionOfTheS_19750]]
+- [[HolisticSpeciesDelimitationSup_2026]]

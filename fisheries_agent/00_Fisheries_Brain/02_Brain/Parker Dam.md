@@ -23,6 +23,9 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 > This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
 > -- *[[DistributionAndPoststockingSur_2016]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
+> -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
+
 ## Mentioned In
 - [[HumpbackChubGilaCypha_18257]]
 - [[ReCommentsOnTheFederalRegister_11571]]
@@ -32,3 +35,4 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 - [[WesternAreaPowerAdministration_1997_07_25]]
 - [[TransmittalRegardingReasonable_19809]]
 - [[DistributionAndPoststockingSur_2016]]
+- [[SurvivalOfRazorbackSuckerInThe_2008]]

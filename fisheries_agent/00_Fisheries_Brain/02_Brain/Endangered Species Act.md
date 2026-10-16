@@ -92,6 +92,9 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
 > -- *[[CorrespondenceBetweenMinckleyA_16449]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -404,3 +407,4 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[BiologicalAssessmentProbableEf_11481]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[CorrespondenceBetweenMinckleyA_16449]]
+- [[HolisticSpeciesDelimitationSup_2026]]

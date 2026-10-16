@@ -38,6 +38,9 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 > The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
 > -- *[[EndangeredAndThreatenedWildlif_11554]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -63,3 +66,4 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 - [[BiologicalAssessmentForTheSpik_11476]]
 - [[EndangeredAndThreatenedWildlif_11552]]
 - [[EndangeredAndThreatenedWildlif_11554]]
+- [[HolisticSpeciesDelimitationSup_2026]]

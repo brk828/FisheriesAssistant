@@ -26,6 +26,9 @@ The Upper Colorado River refers to the section of the Colorado River system abov
 > This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
 > -- *[[TentativeAgendaForTheUpperColo_15254]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[DesertFishesCouncilOverviewAnd_1974_07_26]]
 - [[DevelopAndRefineYearRoundFlowN_1993]]
@@ -38,3 +41,4 @@ The Upper Colorado River refers to the section of the Colorado River system abov
 - [[ReportsConcerningUpperColorado_1936_05_06]]
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
 - [[TentativeAgendaForTheUpperColo_15254]]
+- [[HolisticSpeciesDelimitationSup_2026]]
