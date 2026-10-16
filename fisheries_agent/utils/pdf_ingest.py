@@ -1150,7 +1150,14 @@ def cmd_process(args) -> int:
 def smoke_check(stem: str, title: str) -> bool:
     """True when searching the note's title returns the note; the index rebuilds itself if the vault changed."""
     try:
-        return stem in brain_index.search_brain(title)
+        result = brain_index.search_brain(title)
+        db = brain_index._connect()
+        try:
+            cite = brain_index._cite_line(db, stem)
+        finally:
+            db.close()
+        # Results show a source's citation line (or [id]), never the file stem.
+        return stem in result or cite in result
     except Exception:
         return False
 
