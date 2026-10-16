@@ -23,6 +23,9 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 > - **Prevalence of introductions in recovery plans**: 32 of 39 (82%) reviewed U.S. recovery plans for endangered/threatened fishes included provisions for introductions (Table 1), spanning taxa such as [[Apache Trout]], [[Gila Trout]], [[Humpback Chub]], [[Woundfin]], [[Cui-ui]], and multiple pupf...
 > -- *[[GuidelinesForIntroductionsOfTh_12022]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
 ## Mentioned In
 - [[BerkshireNationalFishHatcheryS_19579]]
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
@@ -55,3 +58,4 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 - [[TheAcuteToxicityOfPhenolToRain_1967_08_09]]
 - [[TheSusceptibilityOfSalmonidFis_16705]]
 - [[TitleEffectOfTemperatureOnMort_15091]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]

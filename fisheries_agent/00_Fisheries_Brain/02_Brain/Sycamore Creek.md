@@ -38,6 +38,18 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 > This document is the 1987-1988 annual report for a multi-faceted investigation contracted by the U.S. Fish and Wildlife Service, Arizona Game and Fish Department, and New Mexico Department of Fish and Game to Arizona State University. The study evaluates interactions between the invasive [[Red...
 > -- *[[DraftOfTheAnnualReportForSpike_13757]]*
 
+> **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae* sensu stricto) is native to the Coosa River system of Alabama, Georgia, and Tennessee. The species was originally described in 1940 and has since undergone genetic revision separating it into several species within the...
+> -- *[[ACaseOfMistakenIdentityGenetic_2021]]*
+
+> **Primary Sampling Purpose**: Continue monitoring species occurrence and abundance in the upper [[Verde River]] in compliance with statewide protocol standards and statewide sportfish stocking consultation conservation measures. This survey represents the third in a series (2016, 2019, 2023)...
+> -- *[[VerdeRiverPerkinsvillesycamore_2023]]*
+
+> This 1980s-era correspondence from the [[Desert Fishes Council]] to the U.S. Bureau of Reclamation opposes proposed dam construction on the [[Gila River]] in New Mexico. The letter focuses on threats to the [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]), both endemic...
+> -- *[[ProposedConstructionOfADamOnTh_13721]]*
+
+> This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
+> -- *[[WoundfinPlagopterusArgentissim_14022]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
@@ -57,3 +69,7 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[SelectedAspectsOfTheNaturalHis_14397]]
 - [[DraftOfTheAnnualReportForSpike_13757]]
+- [[ACaseOfMistakenIdentityGenetic_2021]]
+- [[VerdeRiverPerkinsvillesycamore_2023]]
+- [[ProposedConstructionOfADamOnTh_13721]]
+- [[WoundfinPlagopterusArgentissim_14022]]

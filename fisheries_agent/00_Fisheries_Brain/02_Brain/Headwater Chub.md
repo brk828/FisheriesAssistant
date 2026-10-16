@@ -14,6 +14,10 @@ auto_enriched: true
 > - **Decommissioning driver**: APS proposed surrender of its FERC license by 31 December 2004, which would restore full natural flow (~43 cfs) to Fossil Creek and enable ecosystem recovery — but would also make future in-stream construction and piscicide renovation far more difficult once flows ar...
 > -- *[[MinutesOfMeetingOfFisheryBiolo_2000_05_24]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[MinutesOfMeetingOfFisheryBiolo_2000_05_24]]
 - [[SummaryOfMineralCreekFieldSurv_2000_04_14]]
+- [[HolisticSpeciesDelimitationSup_2026]]

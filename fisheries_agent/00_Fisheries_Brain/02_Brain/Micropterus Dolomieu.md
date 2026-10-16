@@ -17,9 +17,13 @@ auto_enriched: true
 > The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
 > -- *[[EndangeredAndThreatenedWildlif_11554]]*
 
+> **Primary Sampling Purpose**: This document provides taxonomic identification keys and natural history information for sunfishes (family [[Centrarchidae]]) in Alabama, with detailed species accounts for [[Redeye Bass]] ([[Micropterus coosae]]) and [[Smallmouth Bass]] ([[Micropterus dolomieu]]). The...
+> -- *[[FishesOfAlabama_1990]]*
+
 ## Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[LetterToWLMinckleyRegardingSpi_1987_03_27]]
 - [[SomeFactorsAffectingTheResista_1964]]
 - [[TroutFishingAtCliffPondBrewste_15489]]
 - [[EndangeredAndThreatenedWildlif_11554]]
+- [[FishesOfAlabama_1990]]

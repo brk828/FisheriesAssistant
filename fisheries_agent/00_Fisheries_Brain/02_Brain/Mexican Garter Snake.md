@@ -17,8 +17,12 @@ The Mexican Garter Snake (*Thamnophis eques*) is a semi-aquatic reptile species 
 > - All six fish species are associated with **native freshwater stream systems** in the Fort Huachuca / Huachuca Mountains region of southeastern Arizona, an area of recognized high [[Biological Diversity|biodiversity]] cited by the Service. - These species co-occur on a candidate species list alo...
 > -- *[[FishAndWildlifeServiceLetterOn_1994_08_22]]*
 
+> This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
+> -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
+
 ## Mentioned In
 - [[CrayfishImpactsOnWetlandHerps_1993_10_10]]
 - [[FederalCandidateSpeciesOfArizo_11661]]
 - [[FishAndWildlifeServiceLetterOn_1994_08_22]]
 - [[ProposalToRenovateFinleyTankNa_1988_12_20]]
+- [[LetterReviewOfBogHoleRenovatio_12470]]

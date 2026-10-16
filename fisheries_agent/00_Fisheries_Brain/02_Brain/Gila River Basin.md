@@ -38,6 +38,12 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
 > -- *[[MitochondrialDnaDiversityWithi_19127]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
+> This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
+> -- *[[RainbowSmeltProposallakePowell_21115]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -167,3 +173,5 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[BiologicalAssessmentForTheSpik_11476]]
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[MitochondrialDnaDiversityWithi_19127]]
+- [[HolisticSpeciesDelimitationSup_2026]]
+- [[RainbowSmeltProposallakePowell_21115]]

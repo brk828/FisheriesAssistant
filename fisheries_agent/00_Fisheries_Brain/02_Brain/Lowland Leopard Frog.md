@@ -23,6 +23,9 @@ The Lowland Leopard Frog is an amphibian species associated with native freshwat
 > - **Habitat type**: Warmwater desert stream system (Arnett Creek/Telegraph Canyon) within Sonoran desert scrub, part of the [[Gila River]] drainage basin. - **Community structure**: Native fish assemblage (cyprinids, catostomids, poeciliids) historically displaced or suppressed by non-native pred...
 > -- *[[FindingOfNoSignificantImpactAr_11493]]*
 
+> This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
+> -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[FieldMonitoringOfPeoplesCanyon_1990_01_09]]
@@ -31,3 +34,4 @@ The Lowland Leopard Frog is an amphibian species associated with native freshwat
 - [[LetterToUSForestServiceRegardi_1991_02_15]]
 - [[SummaryOfMineralCreekFieldSurv_2000_04_14]]
 - [[ThJointAnnualMeetingEcosystemM_1994_02_03]]
+- [[LetterReviewOfBogHoleRenovatio_12470]]

@@ -26,6 +26,15 @@ The Gulf of California is a biogeographically significant marine basin in northw
 > This study documents the distribution patterns of [[Striped Mullet]] (Mugil cephalus) in the [[Colorado River]] and [[Gulf of California]] during 1967-1968, revealing evidence of upstream migration and questioning traditional understanding of salinity requirements for spawning. Collections from...
 > -- *[[DifferentialDistributionOfTheS_19750]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
+> This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
+> -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
+
+> This report documents the first occurrence of the [[Red Pike-Conger]] (*Cynoponticus coniceps*) in the upper [[Gulf of California]], representing a significant northward range extension of approximately 1,055 km from previously known distributions. Two specimens were captured near [[El...
+> -- *[[OccurrenceOfTheRedPikecongerCy_21112]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -47,3 +56,6 @@ The Gulf of California is a biogeographically significant marine basin in northw
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 - [[USDryingUpMexicanWetlands_1996_04_30]]
 - [[DifferentialDistributionOfTheS_19750]]
+- [[HolisticSpeciesDelimitationSup_2026]]
+- [[AsuCostProposalForGilaTaxonomy_18173]]
+- [[OccurrenceOfTheRedPikecongerCy_21112]]

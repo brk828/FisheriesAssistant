@@ -17,7 +17,11 @@ auto_enriched: true
 > This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
 > -- *[[RequestForProposalspresubmitta_18342]]*
 
+> This memorandum from the [[Arizona Ecological Services State Office]] to the Assistant Regional Director provides detailed comments on proposed joint counterpart section 7 regulations for the [[Forest Service]] and [[Bureau of Land Management]]. Dated August 25, 1995, the document expresses support...
+> -- *[[ReviewOfProposedCounterpartReg_11907]]*
+
 ## Mentioned In
 - [[DiscoveryOfThePercidGenusAmmoc_1979]]
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[RequestForProposalspresubmitta_18342]]
+- [[ReviewOfProposedCounterpartReg_11907]]

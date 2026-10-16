@@ -38,6 +38,12 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
 > -- *[[ReportOfTheOctoberFishCount_11417]]*
 
+> This 1985 study investigated the early life history and ecology of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae in [[Lake Mohave]], Arizona-Nevada, to determine causes of recruitment failure in the only substantial remaining population of this endemic Colorado River species. Adult suckers...
+> -- *[[EarlyLifeHistoryOfRazorbackSuc_12707]]*
+
+> This U.S. Fish and Wildlife Service biological opinion, issued August 18, 1994, evaluates the effects of repairing Forest Road 449A in [[Gila County]], [[Arizona]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis). The consultation addresses a 1.5-mile road repair project crossing...
+> -- *[[ReBiologicalOpinionOnRepairOfF_15004]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -106,3 +112,5 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[FisheryInventoryOfTheCoachella_13687]]
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[ReportOfTheOctoberFishCount_11417]]
+- [[EarlyLifeHistoryOfRazorbackSuc_12707]]
+- [[ReBiologicalOpinionOnRepairOfF_15004]]

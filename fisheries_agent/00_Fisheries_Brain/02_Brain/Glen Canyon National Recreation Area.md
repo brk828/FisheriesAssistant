@@ -11,6 +11,9 @@ Glen Canyon National Recreation Area encompasses the Colorado River ecosystem do
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
+> -- *[[RainbowSmeltProposallakePowell_21115]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[LetterConcerningStripedBassThr_1990_06_03]]
@@ -18,3 +21,4 @@ Glen Canyon National Recreation Area encompasses the Colorado River ecosystem do
 - [[MarchRazorbackCollectionsOnLak_1994_04_11]]
 - [[ReclamationToBeginWorkOnGlenCa_1989_11_02]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[RainbowSmeltProposallakePowell_21115]]

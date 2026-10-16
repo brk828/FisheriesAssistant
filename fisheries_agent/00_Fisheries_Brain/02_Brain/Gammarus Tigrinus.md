@@ -23,7 +23,11 @@ Gammarus tigrinus is a North American amphipod species that has become an invasi
 > Prior to Bousfield's (1958) foundational work applying European taxonomic refinements to Nearctic fauna, confusion was widespread — e.g., **[[Gammarus minus]]** has historically been conflated with *G. pseudolimnaeus*, *G. troglophilus*, *G. pecos*, and *G. lacustris*. Similarly, the status of **...
 > -- *[[TheEpimeraOfNorthAmericanFresh_1970_09_25]]*
 
+> This comparative taxonomic study examines seven populations of freshwater-to-miohaline amphipods from the [[Gammarus-Pecos Complex]] inhabiting springs and streams in areas of Texas and New Mexico once overlain by [[Permian Seas]]. The study includes three described species—[[Gammarus Pecos]],...
+> -- *[[TheGammaruspecosComplexCrustac_16002]]*
+
 ## Mentioned In
 - [[FurtherObservationsOnTheMigrat_1974_03_28]]
 - [[FurtherObservationsOnTheRangeE_12854]]
 - [[TheEpimeraOfNorthAmericanFresh_1970_09_25]]
+- [[TheGammaruspecosComplexCrustac_16002]]

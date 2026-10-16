@@ -20,7 +20,11 @@ auto_enriched: true
 > This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
 > -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
 
+> This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
+> -- *[[SummaryOfEvents_18368]]*
+
 ## Mentioned In
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
+- [[SummaryOfEvents_18368]]

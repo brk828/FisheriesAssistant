@@ -23,6 +23,12 @@ The pumpkinseed (*Lepomis gibbosus*) is a centrarchid sunfish species commonly e
 > - **Food Fish**: [[Channel Catfish]] (*Ictalurus punctatus*) — dominant species; [[Black Crappie]] (*Pomoxis nigromaculatus*); [[White Crappie]] (*P. annularis*); [[Bluegill]] (*Lepomis macrochirus*); [[Pumpkinseed]] (*L. gibbosus*); [[Yellow Perch]] (*Perca flavescens*). - **Rough Fish**: [[Shov...
 > -- *[[EvaluationOfCommercialFishingB_16036]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
+> This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
+> -- *[[SomeObservationsOnTheReclamati_15490]]*
+
 ## Mentioned In
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -45,3 +51,5 @@ The pumpkinseed (*Lepomis gibbosus*) is a centrarchid sunfish species commonly e
 - [[TheUseOfCopperSulphateToIncrea_13371]]
 - [[ToxicFreshWaterAlgae_14366]]
 - [[VariableKinematicsOfSacramento_1982]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[SomeObservationsOnTheReclamati_15490]]

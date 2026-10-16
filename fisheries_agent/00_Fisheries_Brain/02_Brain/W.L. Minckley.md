@@ -23,6 +23,9 @@ W.L. Minckley was a pioneering ichthyologist and conservation biologist who dedi
 > **Distribution list**: Jean Hendrickson (AZGFD), Dan Langhorst (CADFG), Doug McQueen (ASURF), [[W.L. Minckley]] (ASU), Dexter National Fish Hatchery (NFH), USFWS Albuquerque.
 > -- *[[FishSamplingAtAsuResearchParkM_19416]]*
 
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
+> -- *[[WrittenCommentsOnDraftBiologic_20522]]*
+
 ## Mentioned In
 - [[AllozymeDifferencesDuplicateGe_11423]]
 - [[Allozymic variation in desert pupfish from natural and artificial habitats genetic conservation in fluctuating populatio]]
@@ -96,3 +99,4 @@ W.L. Minckley was a pioneering ichthyologist and conservation biologist who dedi
 - [[VerdeRiverTemperatureRecorderD_1992_04_02]]
 - [[VirginRiverMeetingOf_11186]]
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
+- [[WrittenCommentsOnDraftBiologic_20522]]

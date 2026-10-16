@@ -68,6 +68,42 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 > This three-year study (2008-2011) examined demographics and post-stocking survival of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir. The wild population has declined to fewer than 50 individuals, making the repatriation program...
 > -- *[[DemographicsAndPoststockingSur_2012]]*
 
+> **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
+> -- *[[InvasionPotentialOfNonnativeFi_2026]]*
+
+> **Core Problem Addressed**: Understanding how native and nonnative fish populations respond to changing flow regimes (drought and flood sequences) in dryland rivers under climate change. The study addresses the challenge of modeling novel biological assemblages in non-stationary environmental...
+> -- *[[IncreasingDroughtFavorsNonnati_2019]]*
+
+> **Taxonomic & Life-History Summary**: This document covers multiple introduced bass and sunfish species in Arizona waters. [[Yellow Bass]] (*Roccus mississippiensis*) reached approximately one pound in weight in [[San Carlos Lake]] (1950) and [[Canyon Lake]] (1953), with larger individuals reported...
+> -- *[[TheVertebratesOfArizona_1964]]*
+
+> **Taxonomic & Life-History Summary:** [[Smallmouth Bass]] (*Micropterus dolomieui dolomieui*) is a member of family [[Centrarchidae]]. Body thick and chunky with moderate-sized mouth; upper jaw usually not reaching posteriad past front of eye. Spinous dorsal fin low, soft dorsal fin with 13-15...
+> -- *[[SmallmouthBassMicropterusDolom_X-013f4e27]]*
+
+> **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae*) is the smallest of the black basses, endemic to the Black Warrior, Cahaba, Coosa, and Tallapoosa rivers and Alabama River tributaries above the Fall Line in Alabama, the Chattahoochee River above Columbus, Georgia, and...
+> -- *[[IntrogressiveHybridizationOfRe_1991]]*
+
+> **Primary Sampling Purpose**: This document provides taxonomic identification keys and natural history information for sunfishes (family [[Centrarchidae]]) in Alabama, with detailed species accounts for [[Redeye Bass]] ([[Micropterus coosae]]) and [[Smallmouth Bass]] ([[Micropterus dolomieu]]). The...
+> -- *[[FishesOfAlabama_1990]]*
+
+> **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae*) is one of four black bass species with limited ranges, naturally occurring in the Black Warrior, Cahaba, Coosa, and Tallapoosa portions of the Mobile River basin and tributaries of the Alabama River above the fall line in...
+> -- *[[HybridizationBetweenRedeyeBass_1998]]*
+
+> **Taxonomic & Life-History Summary** Four black bass species ([[Micropterus]]) have relatively restricted ranges and specialized habitat requirements: - **[[Guadalupe Bass]] (M. treculi)**: Endemic to Central Texas, occurring in portions of the Brazos, Colorado, Guadalupe, and San Antonio river...
+> -- *[[DistributionBiologyAndConserva_2002]]*
+
+> **Taxonomic & Life-History Summary**: [[Shoal Bass]] (*Micropterus cataractae*) is a black bass endemic to the [[Apalachicola-Chattahoochee-Flint Basin]] of Alabama, Florida, and Georgia, formally described in 1999 by Williams and Burgess. The species belongs to family [[Centrarchidae]], order...
+> -- *[[StatusAssesmentOfAShoalBassPop_2012]]*
+
+> **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae* sensu stricto) is native to the Coosa River system of Alabama, Georgia, and Tennessee. The species was originally described in 1940 and has since undergone genetic revision separating it into several species within the...
+> -- *[[ACaseOfMistakenIdentityGenetic_2021]]*
+
+> **Taxonomic & Life-History Summary**: Two non-native centrarchid species are documented. [[Redeye Bass]] (*Micropterus coosae*) reaches maximum size about 19 in (47 cm). [[Smallmouth Bass]] (*Micropterus dolomieu*) is thick and chunky with large mouth, upper jaw extending almost to rear margin of...
+> -- *[[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]*
+
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -165,3 +201,15 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 - [[SaltRiverProjectRooseveltDiver_15070]]
 - [[Perch_16750]]
 - [[DemographicsAndPoststockingSur_2012]]
+- [[InvasionPotentialOfNonnativeFi_2026]]
+- [[IncreasingDroughtFavorsNonnati_2019]]
+- [[TheVertebratesOfArizona_1964]]
+- [[SmallmouthBassMicropterusDolom_X-013f4e27]]
+- [[IntrogressiveHybridizationOfRe_1991]]
+- [[FishesOfAlabama_1990]]
+- [[HybridizationBetweenRedeyeBass_1998]]
+- [[DistributionBiologyAndConserva_2002]]
+- [[StatusAssesmentOfAShoalBassPop_2012]]
+- [[ACaseOfMistakenIdentityGenetic_2021]]
+- [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]

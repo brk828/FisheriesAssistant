@@ -14,5 +14,9 @@ auto_enriched: true
 > - The book is assessed as **the best state ichthyology reference for any southern U.S. state** at the time of review, useful to both students and professional ichthyologists. - **Faunal composition of Alabama (per reviewer's count)**: - 230 verified native freshwater species - 10 species of proba...
 > -- *[[BookReviewOfFreshwaterFishesOf_1969]]*
 
+> **Taxonomic & Life-History Summary:** This study revises the [[Redeye Bass]] (*Micropterus coosae*) species complex, originally described by Hubbs and Bailey (1940) from the Mobile River basin, Chattahoochee, and Savannah rivers. Examination of morphological variation and mitochondrial DNA (ND2...
+> -- *[[DiversityWithinTheRedeyeBassMi_2013]]*
+
 ## Mentioned In
 - [[BookReviewOfFreshwaterFishesOf_1969]]
+- [[DiversityWithinTheRedeyeBassMi_2013]]

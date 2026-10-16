@@ -14,7 +14,15 @@ Micropterus punctulatus, commonly known as the spotted bass, is a freshwater bla
 > **Species interactions and community structure:** - The catch was numerically and functionally dominated by three species: [[Largemouth Bass]], [[Bluegill]], and [[White Crappie]], with secondary contributions from spotted bass ([[Micropterus punctulatus]]), black crappie ([[Pomoxis nigromaculatu...
 > -- *[[TheSportFisheryInAnArkansasWat_1968_10_21]]*
 
+> **Taxonomic & Life-History Summary:** This monograph revises the taxonomy of North American black basses, increasing recognized forms from 2-3 species to 7 distinct taxa across two genera: [[Micropterus]] (smallmouthed and spotted basses) and [[Huro]] (largemouthed bass). The genus Micropterus now...
+> -- *[[ARevisionOfTheBlackBassesMicro_1940]]*
+
+> **Taxonomic & Life-History Summary:** Three centrarchid species are described: [[Lepomis microlophus]] (redear sunfish), [[Micropterus dolomieui]] (smallmouth bass), and [[Micropterus punctulatus]] (spotted bass). [[Lepomis microlophus]] exhibits geographic variation with two forms: one with 40-47...
+> -- *[[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]*
+
 ## Mentioned In
 - [[Development of Color Pattern in Pond-Reared Young of Five Bass Species (Micropterus) of Southeastern U. S.]]
 - [[NotesOnTheDistributionOfBlackb_14184]]
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
+- [[ARevisionOfTheBlackBassesMicro_1940]]
+- [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]

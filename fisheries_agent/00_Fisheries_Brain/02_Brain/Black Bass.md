@@ -23,6 +23,9 @@ Black Bass refers to freshwater fish species in the family Centrarchidae, primar
 > This 1967 Oklahoma Fishery Research Laboratory bulletin (Gasaway, 1967) reports results of an intensive creel survey conducted on [[Tenkiller Ferry Reservoir]], Oklahoma, from May 1964 to June 1965, comparing findings to prior surveys (1953–1956). The study found daytime fishing pressure of 33.1 ...
 > -- *[[TheSportFisheryOfTenkillerFerr_16926]]*
 
+> **Taxonomic & Life-History Summary:** This study revises the [[Redeye Bass]] (*Micropterus coosae*) species complex, originally described by Hubbs and Bailey (1940) from the Mobile River basin, Chattahoochee, and Savannah rivers. Examination of morphological variation and mitochondrial DNA (ND2...
+> -- *[[DiversityWithinTheRedeyeBassMi_2013]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[CommentsOnFishAndWildlifeServi_1997_07_08]]
@@ -31,3 +34,4 @@ Black Bass refers to freshwater fish species in the family Centrarchidae, primar
 - [[TheAgeAndGrowthOfTheWhiteBassR_13370]]
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[WhyTheMassachusettsDivisionOfF_15491]]
+- [[DiversityWithinTheRedeyeBassMi_2013]]

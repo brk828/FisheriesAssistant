@@ -53,6 +53,12 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
+> This document presents a comprehensive set of recovery alternatives for four endangered big river fishes of the [[Colorado River Basin]], prepared for the Six Agency Committee in August 1993. The proposal outlines three primary recovery concepts: habitat creation and management, propagation, and...
+> -- *[[ColoradoRiverEndangeredFishRec_15072]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -157,3 +163,5 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[SaltRiverProjectRooseveltDiver_15070]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[ColoradoRiverEndangeredFishRec_15072]]

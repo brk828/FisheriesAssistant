@@ -23,6 +23,9 @@ Fisheries Management encompasses the science and practice of sustainably regulat
 > - All species inhabit sub-thermocline (deepwater) zones of the Great Lakes, are morphologically very similar, and spawn during nearly overlapping seasons — factors that make the [[Biological Species Concept]] difficult to apply. - *C. alpenae* and *C. zenithicus* were sampled from Lake Michigan (...
 > -- *[[EnvironmentalAndGeneticContrib_1981]]*
 
+> A 1957 survey of U.S. state fisheries programs reveals widespread adoption of scuba diving as a fisheries management tool. Of responding states (89.6% response rate), 14 states actively use scuba diving, four plan to implement it, and one utilizes volunteer skin diving clubs. The technology enables...
+> -- *[[StatesIncorporateScubaDivingIn_16035]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[ASystemForRecordingMeasurement_1947]]
@@ -36,3 +39,4 @@ Fisheries Management encompasses the science and practice of sustainably regulat
 - [[SalmonidHatcheryWastewaterTrea_12415]]
 - [[StationProfileOfTheGenoaNation_1993]]
 - [[TheRealPartnershipQuestion_1994_07_29]]
+- [[StatesIncorporateScubaDivingIn_16035]]

@@ -62,6 +62,9 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > This document is a critical evaluation by Associate Professor Donald G. Buth (UCLA) of M.d. Rosenfeld's draft report on allozyme variation in upper [[Colorado River]] species of [[Gila]]. The evaluation, dated 16 February 1988 and addressed to Utah Natural Resources Wildlife Resources, identifies...
 > -- *[[EvaluationOfMjRosenfeldsBioche_14124]]*
 
+> This correspondence from the [[Colorado River Fishes Recovery Team]] Leader to the U.S. Fish and Wildlife Service Regional Director outlines six critical recommendations regarding endangered fish recovery in the [[Colorado River]] system. Primary concerns include upgrading the listing status of...
+> -- *[[RecommendationsToColoradoRiver_14701]]*
+
 ## Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -323,3 +326,4 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[EvaluationOfMjRosenfeldsBioche_14124]]
+- [[RecommendationsToColoradoRiver_14701]]

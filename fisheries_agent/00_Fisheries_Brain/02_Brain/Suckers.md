@@ -23,9 +23,13 @@ Suckers (family Catostomidae) are freshwater fishes native to North America and 
 > - **[[Weberian Apparatus]]**: A specialized modification of the first four (or five) vertebrae connecting the swim bladder to the inner ear for sound transmission. This complex, unique structure unites [[Minnows]] (Cyprinidae), [[Suckers]] (Catostomidae), and [[Catfishes]] (Ictaluridae) into the ...
 > -- *[[MinnowsFirstThenTrout_21137]]*
 
+> **Primary Sampling Purpose**: This document provides comprehensive methodological guidance for morphological characterization of fishes for taxonomic and systematic studies. The primary purpose is to describe standardized protocols for measuring, counting, photographing, and analyzing morphological...
+> -- *[[TaxonomicMethodsMorphology_1990]]*
+
 ## Mentioned In
 - [[BattleAgainstExtinctionNativeF_17606]]
 - [[EffectsOfAntimycinAOnTissueRes_11530]]
 - [[MinnowsFirstThenTrout_21137]]
 - [[RecommendationForAHighDischarg_1993_07_19]]
 - [[UsFishAndWildlifeServiceMeetin_15771]]
+- [[TaxonomicMethodsMorphology_1990]]

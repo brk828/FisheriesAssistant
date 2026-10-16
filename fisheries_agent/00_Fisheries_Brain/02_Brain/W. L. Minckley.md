@@ -26,6 +26,12 @@ W. L. Minckley was a prominent ichthyologist and conservation biologist who cond
 > This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
 > -- *[[DraftEvaluationOfPotentialsFor_15827]]*
 
+> This correspondence documents collaboration between Mexican biologists at [[Universidad Autónoma Metropolitana]] and Dr. [[W. L. Minckley]] of [[Arizona State University]] regarding the first management plan for the proposed [[Cuatro Ciénegas]] watershed [[Biosphere Reserve]] in [[Coahuila]],...
+> -- *[[CuatroCienegasWatershedCoahuil_16108]]*
+
+> This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
+> -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
+
 ## Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[BehindTheScenesBeingThereNatio_1995_05_17]]
@@ -66,3 +72,5 @@ W. L. Minckley was a prominent ichthyologist and conservation biologist who cond
 - [[SummaryOfDesertPupfishIntroduc_1989_02_09]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
 - [[DraftEvaluationOfPotentialsFor_15827]]
+- [[CuatroCienegasWatershedCoahuil_16108]]
+- [[AsuCostProposalForGilaTaxonomy_18173]]

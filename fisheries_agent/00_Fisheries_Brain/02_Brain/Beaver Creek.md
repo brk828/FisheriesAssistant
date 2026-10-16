@@ -20,7 +20,15 @@ Beaver Creek represents a significant study site in Kentucky ichthyological rese
 > **Community structure — longitudinal succession:** - Fish species richness/abundance increased from headwaters to mouth (consistent with [[Kuehne 1962]] findings in nearby Buckhorn Creek). - **Bear Branch (pre-mining control):** 9 genera, 17 species; ~15.4 lb fish/acre (Oct 1968) in lower reaches...
 > -- *[[EffectsOfStripMiningOnSmallStr_1972_02_29]]*
 
+> **Taxonomic & Life-History Summary**: This document covers multiple introduced bass and sunfish species in Arizona waters. [[Yellow Bass]] (*Roccus mississippiensis*) reached approximately one pound in weight in [[San Carlos Lake]] (1950) and [[Canyon Lake]] (1953), with larger individuals reported...
+> -- *[[TheVertebratesOfArizona_1964]]*
+
+> **Taxonomic & Life-History Summary**: Two non-native centrarchid species are documented. [[Redeye Bass]] (*Micropterus coosae*) reaches maximum size about 19 in (47 cm). [[Smallmouth Bass]] (*Micropterus dolomieu*) is thick and chunky with large mouth, upper jaw extending almost to rear margin of...
+> -- *[[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]*
+
 ## Mentioned In
 - [[EffectsOfStripMiningOnSmallStr_1972_02_29]]
 - [[FishDistributionAndAbundanceCo_1942]]
 - [[TheGrowthRatesOfSomeKentuckyFi_13369]]
+- [[TheVertebratesOfArizona_1964]]
+- [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]

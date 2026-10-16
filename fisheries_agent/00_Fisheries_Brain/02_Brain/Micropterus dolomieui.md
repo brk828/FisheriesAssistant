@@ -20,9 +20,13 @@ Micropterus dolomieui, commonly known as the smallmouth bass, is a freshwater ce
 > - **Species-specific and stage-specific tolerance**: Thermal tolerance varies enormously across taxa and life stages; fewer than 5% of ~1,900 fish species in the U.S./Canada (per American Fisheries Society 1960 list) had been specifically tested for temperature response at time of writing—an inad...
 > -- *[[WaterTemperatureCriteriaToProt_15269]]*
 
+> **Taxonomic & Life-History Summary:** Three centrarchid species are described: [[Lepomis microlophus]] (redear sunfish), [[Micropterus dolomieui]] (smallmouth bass), and [[Micropterus punctulatus]] (spotted bass). [[Lepomis microlophus]] exhibits geographic variation with two forms: one with 40-47...
+> -- *[[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]*
+
 ## Mentioned In
 - [[Development of Color Pattern in Pond-Reared Young of Five Bass Species (Micropterus) of Southeastern U. S.]]
 - [[DistributionAndTaxonomicStatus_1976_01_15]]
 - [[NativeFishesOfTheUpperGilaRive_12644]]
 - [[NotesOnTheDistributionOfBlackb_14184]]
 - [[WaterTemperatureCriteriaToProt_15269]]
+- [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]

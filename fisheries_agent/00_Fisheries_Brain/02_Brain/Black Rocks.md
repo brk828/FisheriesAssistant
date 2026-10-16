@@ -14,8 +14,16 @@ Black Rocks is a geomorphological section of the Upper Colorado River located be
 > - **Habitat range**: The affected species occupy the mainstem and tributary reaches of the [[Upper Colorado River]] system, including the [[Green River]], [[Gunnison River]], [[Duchesne River]], [[Little Snake River]], and [[White River]], spanning multiple biological "strata" used for stratified...
 > -- *[[ThinkingTitleFromSubjectLineco_1997_05_29]]*
 
+> This study investigated reproductive isolating mechanisms between [[Humpback Chub]] (*Gila cypha*) and [[Roundtail Chub]] (*G. robusta*) in the [[Upper Colorado River]] at [[Black Rocks]], Colorado, during 1983-1985. Using gonadosomatic indices, gamete expression, and radiotelemetry, researchers...
+> -- *[[TemporalAndSpatialRelationsBet_17861]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
+> -- *[[AprilManagementGroupMeetingSum_19221]]*
+
 ## Mentioned In
 - [[HatcheryAndLaboratoryPhaseOfTh_1980]]
 - [[InteragencyStandardizedMonitor_1993]]
 - [[InvestigationAndClarificationO_1988_05_25]]
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
+- [[TemporalAndSpatialRelationsBet_17861]]
+- [[AprilManagementGroupMeetingSum_19221]]

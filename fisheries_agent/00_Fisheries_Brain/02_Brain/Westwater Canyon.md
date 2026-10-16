@@ -14,8 +14,16 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 > - **Nursery habitat / early life stages**: Studies on availability and quality of nursery habitat for [[Colorado Pikeminnow]] and sympatric species in relation to [[Gunnison River]] flow manipulation (Project 44); overwinter nursery habitat for age-0 Colorado Pikeminnow in the [[Green River]] bel...
 > -- *[[RoundtableDiscussionOnStreamfl_1994_12_22]]*
 
+> This study investigated reproductive isolating mechanisms between [[Humpback Chub]] (*Gila cypha*) and [[Roundtail Chub]] (*G. robusta*) in the [[Upper Colorado River]] at [[Black Rocks]], Colorado, during 1983-1985. Using gonadosomatic indices, gamete expression, and radiotelemetry, researchers...
+> -- *[[TemporalAndSpatialRelationsBet_17861]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
+> -- *[[AprilManagementGroupMeetingSum_19221]]*
+
 ## Mentioned In
 - [[DetermineStatusOfColoradoSquaw_11150]]
 - [[InteragencyStandardizedMonitor_1993]]
 - [[InvestigationAndClarificationO_1988_05_25]]
 - [[RoundtableDiscussionOnStreamfl_1994_12_22]]
+- [[TemporalAndSpatialRelationsBet_17861]]
+- [[AprilManagementGroupMeetingSum_19221]]

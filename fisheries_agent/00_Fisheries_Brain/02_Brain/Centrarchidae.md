@@ -35,6 +35,21 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 > This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
 > -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
 
+> **Taxonomic & Life-History Summary:** [[Smallmouth Bass]] (*Micropterus dolomieui dolomieui*) is a member of family [[Centrarchidae]]. Body thick and chunky with moderate-sized mouth; upper jaw usually not reaching posteriad past front of eye. Spinous dorsal fin low, soft dorsal fin with 13-15...
+> -- *[[SmallmouthBassMicropterusDolom_X-013f4e27]]*
+
+> **Primary Sampling Purpose**: This document provides taxonomic identification keys and natural history information for sunfishes (family [[Centrarchidae]]) in Alabama, with detailed species accounts for [[Redeye Bass]] ([[Micropterus coosae]]) and [[Smallmouth Bass]] ([[Micropterus dolomieu]]). The...
+> -- *[[FishesOfAlabama_1990]]*
+
+> **Taxonomic & Life-History Summary:** Three centrarchid species are described: [[Lepomis microlophus]] (redear sunfish), [[Micropterus dolomieui]] (smallmouth bass), and [[Micropterus punctulatus]] (spotted bass). [[Lepomis microlophus]] exhibits geographic variation with two forms: one with 40-47...
+> -- *[[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]*
+
+> **Taxonomic & Life-History Summary:** This study revises the [[Redeye Bass]] (*Micropterus coosae*) species complex, originally described by Hubbs and Bailey (1940) from the Mobile River basin, Chattahoochee, and Savannah rivers. Examination of morphological variation and mitochondrial DNA (ND2...
+> -- *[[DiversityWithinTheRedeyeBassMi_2013]]*
+
+> **Taxonomic & Life-History Summary**: [[Shoal Bass]] (*Micropterus cataractae*) is a black bass endemic to the [[Apalachicola-Chattahoochee-Flint Basin]] of Alabama, Florida, and Georgia, formally described in 1999 by Williams and Burgess. The species belongs to family [[Centrarchidae]], order...
+> -- *[[StatusAssesmentOfAShoalBassPop_2012]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AGrowthStudyAndBloodProteinAna_15288]]
@@ -119,3 +134,8 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 - [[ASimpleMethodOfMountingScales_20311]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
+- [[SmallmouthBassMicropterusDolom_X-013f4e27]]
+- [[FishesOfAlabama_1990]]
+- [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]
+- [[DiversityWithinTheRedeyeBassMi_2013]]
+- [[StatusAssesmentOfAShoalBassPop_2012]]

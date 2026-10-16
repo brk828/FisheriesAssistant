@@ -11,5 +11,9 @@ Imperial Reservoir is a 2955-hectare impoundment on the Lower Colorado River nor
 > This Master's thesis (1971) investigated the ecology of juvenile fish (10-100 mm) in [[Imperial Reservoir]], a 2955-hectare impoundment on the [[Lower Colorado River]] north of Yuma, Arizona. The study was motivated by planned channelization that could alter critical spawning and rearing habitats....
 > -- *[[EcologyOfJuvenileFishInImperia_19643]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
 ## Mentioned In
 - [[EcologyOfJuvenileFishInImperia_19643]]
+- [[DraftmanagementPlanForTheRazor_11427]]

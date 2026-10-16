@@ -23,6 +23,9 @@ Native Fish Conservation refers to the science and practice of protecting, resto
 > - **Habitat Suitability Assessment**: Evaluation of Potato Lake's viability as [[Refugia Habitat]] for a native, range-restricted species. - **Water Quality/Quantity**: A prerequisite parameter for assessing lake habitability, suggesting sensitivity of the species to abiotic water conditions. - *...
 > -- *[[MeetingNoticeOnLittleColoradoR_1994_01_21]]*
 
+> **Taxonomic & Life-History Summary:** Three centrarchid species are described: [[Lepomis microlophus]] (redear sunfish), [[Micropterus dolomieui]] (smallmouth bass), and [[Micropterus punctulatus]] (spotted bass). [[Lepomis microlophus]] exhibits geographic variation with two forms: one with 40-47...
+> -- *[[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]*
+
 ## Mentioned In
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
 - [[FieldTripNotes_12290]]
@@ -44,3 +47,4 @@ Native Fish Conservation refers to the science and practice of protecting, resto
 - [[SummaryOfMonitoringOfAravaipaC_1999_10_18]]
 - [[VerdeRiverFishResearch_1998]]
 - [[WestTurkeyCreekFishS_1996_04_12]]
+- [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]

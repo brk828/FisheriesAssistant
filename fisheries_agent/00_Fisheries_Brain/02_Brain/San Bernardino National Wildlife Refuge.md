@@ -29,6 +29,9 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 > This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
 > -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
 
+> Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
+> -- *[[FieldNotesOfTripToSanBernardin_13172]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AsianTapewormEradicationStrate_13118]]
@@ -59,3 +62,4 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 - [[RioYaquiFishesCaptureAndTransp_1987_01_12]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
+- [[FieldNotesOfTripToSanBernardin_13172]]

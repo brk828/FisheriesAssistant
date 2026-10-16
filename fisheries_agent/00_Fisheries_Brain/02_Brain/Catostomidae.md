@@ -47,6 +47,9 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This correspondence from the [[Colorado River Fishes Recovery Team]] Leader to the U.S. Fish and Wildlife Service Regional Director outlines six critical recommendations regarding endangered fish recovery in the [[Colorado River]] system. Primary concerns include upgrading the listing status of...
+> -- *[[RecommendationsToColoradoRiver_14701]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AListOfOntarioFishes_11321]]
@@ -233,3 +236,4 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[RecommendationsToColoradoRiver_14701]]

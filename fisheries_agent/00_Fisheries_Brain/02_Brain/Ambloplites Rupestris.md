@@ -14,7 +14,11 @@ auto_enriched: true
 > - **Habitat**: North Branch of Otter Creek, a tributary of the [[Wabash River]], Vigo Co., Indiana. Stream flows through Illinoian drift substrate (sand, fine gravel, silt, some clay); gradient ~6.7 ft/mile; typical depths 6 inches–3 ft. - **Relative abundance**: *Ericymba buccata* was the **most...
 > -- *[[TheAgeAndGrowthOfTheSilverjawM_14844]]*
 
+> **Primary Sampling Purpose**: This document provides taxonomic identification keys and natural history information for sunfishes (family [[Centrarchidae]]) in Alabama, with detailed species accounts for [[Redeye Bass]] ([[Micropterus coosae]]) and [[Smallmouth Bass]] ([[Micropterus dolomieu]]). The...
+> -- *[[FishesOfAlabama_1990]]*
+
 ## Mentioned In
 - [[DistributionAndTaxonomicStatus_1976_01_15]]
 - [[SomeFactorsAffectingTheResista_1964]]
 - [[TheAgeAndGrowthOfTheSilverjawM_14844]]
+- [[FishesOfAlabama_1990]]

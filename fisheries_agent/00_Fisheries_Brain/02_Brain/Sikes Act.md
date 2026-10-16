@@ -14,7 +14,11 @@ The Sikes Act is a foundational federal statute that grants the U.S. Fish and Wi
 > 1. **Legislative Foundations**: The Service's fisheries authority derives from multiple acts, including the [[Fish and Wildlife Act of 1956]], [[Fish and Wildlife Coordination Act]] (1934/1946), [[Sikes Act]], [[Refuge Recreation Act of 1962]], [[Endangered Species Act]], the [[Lacey Act]], and t...
 > -- *[[TheRoleAndResponsibilitiesOfTh_19662]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
 ## Mentioned In
 - [[RoleAndResponsibilitiesForRecr_1996_08_07]]
 - [[StationProfileLeadvilleNationa_1993_12_16]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
+- [[DraftmanagementPlanForTheRazor_11427]]

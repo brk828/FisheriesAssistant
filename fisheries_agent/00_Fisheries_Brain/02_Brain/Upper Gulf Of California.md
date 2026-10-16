@@ -23,9 +23,13 @@ The Upper Gulf of California refers to the northernmost marine section of the Gu
 > - **Ecosystem in focus**: The [[Colorado River Delta]]-[[Upper Gulf Of California]] system, described in the letter as a "vital ecosystem and its communities," implying recognition of interconnected freshwater, estuarine, and marine habitats. - **Binational context**: The workshop emphasized that...
 > -- *[[LetterSummarizingTheColoradoRi_1997_11_19]]*
 
+> This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
+> -- *[[SummaryOfEvents_18368]]*
+
 ## Mentioned In
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
 - [[SantaClaraSloughSurveys_1992_09_08]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
+- [[SummaryOfEvents_18368]]

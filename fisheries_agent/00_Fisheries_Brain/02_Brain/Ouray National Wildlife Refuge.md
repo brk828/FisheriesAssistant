@@ -23,6 +23,9 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > 5. **Imprinting-response testing was delayed** due to inability to bring fish into migratory physiological condition and administrative delays in preparing the Leota Pond 4 semi-natural test channel at [[Ouray National Wildlife Refuge]].
 > -- *[[UmbrellaProjectChemoreceptionI_1993]]*
 
+> This unsolicited proposal to the [[U.S. Bureau of Reclamation]] outlines a three-year genetic monitoring program for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*) populations in [[Lake Mohave]], Arizona-Nevada. Submitted by researchers from [[Arizona...
+> -- *[[GeneticMonitoringOfRepatriated_17010]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -30,3 +33,4 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[ThoughtsOnTheStatusAndRecovery_1990_05_08]]
 - [[UmbrellaProjectChemoreceptionI_1993]]
 - [[UseOfFloodplainHabitatByAgeRaz_16530]]
+- [[GeneticMonitoringOfRepatriated_17010]]

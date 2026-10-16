@@ -26,6 +26,9 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 > The [[Native Fish Work Group]] convened on August 19, 1991, in [[Boulder City]], Nevada, to review progress on native fish restoration efforts at [[Lake Mead]] and plan future actions. The meeting focused on the [[Yuma Cove]] backwater project involving [[Razorback Sucker]] (*Xyrauchen texanus*)...
 > -- *[[NativeFishWorkGroupMeetingMinu_15000]]*
 
+> This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
+> -- *[[SomeObservationsOnTheReclamati_15490]]*
+
 ## Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -55,3 +58,4 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 - [[TheUseOfRotenoneOnCityWaterSup_12653]]
 - [[UseOfAntimycinForSelectiveThin_14083]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
+- [[SomeObservationsOnTheReclamati_15490]]

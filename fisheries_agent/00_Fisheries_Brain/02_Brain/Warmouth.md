@@ -35,6 +35,9 @@ Warmouth (Lepomis gulosus) is a small freshwater sunfish species native to easte
 > This Master's thesis (1971) investigated the ecology of juvenile fish (10-100 mm) in [[Imperial Reservoir]], a 2955-hectare impoundment on the [[Lower Colorado River]] north of Yuma, Arizona. The study was motivated by planned channelization that could alter critical spawning and rearing habitats....
 > -- *[[EcologyOfJuvenileFishInImperia_19643]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -56,3 +59,4 @@ Warmouth (Lepomis gulosus) is a small freshwater sunfish species native to easte
 - [[FisheryInventoryOfTheCoachella_13687]]
 - [[SummaryOfFishGrowthAndFishingS_14038]]
 - [[EcologyOfJuvenileFishInImperia_19643]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]

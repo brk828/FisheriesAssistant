@@ -26,6 +26,9 @@ The Coachella Canal is an unlined earthen irrigation channel in southeastern Cal
 > This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
 > -- *[[FisheryInventoryOfTheCoachella_13687]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
 ## Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AnExaminationOfTheFisheryImpac_15463]]
@@ -33,3 +36,4 @@ The Coachella Canal is an unlined earthen irrigation channel in southeastern Cal
 - [[BenthicInvertebratesOfTheEarth_1983]]
 - [[InvestigationOfTheUnlinedCoach_17022]]
 - [[FisheryInventoryOfTheCoachella_13687]]
+- [[DraftmanagementPlanForTheRazor_11427]]

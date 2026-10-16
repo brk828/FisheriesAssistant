@@ -20,6 +20,9 @@ Lepidomeda is a genus of small cyprinid fishes endemic to the southwestern Unite
 > This 1980 report by W. L. Minckley examines morphological variation in suckers of the genus [[Catostomus]] from the middle [[Colorado River]] region, including [[Grand Canyon]], [[Glen Canyon]], [[Virgin River]], and [[Little Colorado River]] basins. The study reveals that populations previously...
 > -- *[[MorphologicalVariationInCatost_13689]]*
 
+> This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
+> -- *[[WoundfinPlagopterusArgentissim_14022]]*
+
 ## Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[EndanderedAndThreatenedWildlif_16520]]
@@ -29,3 +32,4 @@ Lepidomeda is a genus of small cyprinid fishes endemic to the southwestern Unite
 - [[VirginSpinedaceProposedAsThrea_1994_05_28]]
 - [[WildlifeStatusInArizonaFishes_18591]]
 - [[MorphologicalVariationInCatost_13689]]
+- [[WoundfinPlagopterusArgentissim_14022]]

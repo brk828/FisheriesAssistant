@@ -38,6 +38,12 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 > This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
 > -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
 
+> This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
+> -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
+
+> This correspondence from the [[Arizona Game and Fish Department]] (AGFD) to [[The Nature Conservancy]] (TNC) summarizes action items and deadlines from a January 14, 1993 meeting regarding [[Palm Lake]] at the [[Hassayampa River Preserve]] in [[Wickenburg, Arizona]]. The letter outlines...
+> -- *[[PalmLakeMeetingjanuary_20906]]*
+
 ## Mentioned In
 - [[AssignmentsMadeAtFebruaryMeeti_1992_02_19]]
 - [[AttemptedReEstablish_1969_03_06]]
@@ -72,3 +78,5 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[RenovationOfPalmLakeHassayampa_11969]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
+- [[LetterReviewOfBogHoleRenovatio_12470]]
+- [[PalmLakeMeetingjanuary_20906]]

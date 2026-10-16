@@ -20,9 +20,21 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 > - **Habitat**: [[Oak Creek]] is a narrow montane freshwater stream system within Oak Creek Canyon, Arizona, comprising fewer than 40 surface acres of trout water accessible to the public — a comparatively small habitat under disproportionately intense fishing pressure. - **Population management c...
 > -- *[[NotesOnTheRecommendationToDecl_1962]]*
 
+> **Taxonomic & Life-History Summary**: This document covers multiple introduced bass and sunfish species in Arizona waters. [[Yellow Bass]] (*Roccus mississippiensis*) reached approximately one pound in weight in [[San Carlos Lake]] (1950) and [[Canyon Lake]] (1953), with larger individuals reported...
+> -- *[[TheVertebratesOfArizona_1964]]*
+
+> **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae* sensu stricto) is native to the Coosa River system of Alabama, Georgia, and Tennessee. The species was originally described in 1940 and has since undergone genetic revision separating it into several species within the...
+> -- *[[ACaseOfMistakenIdentityGenetic_2021]]*
+
+> **Taxonomic & Life-History Summary**: Two non-native centrarchid species are documented. [[Redeye Bass]] (*Micropterus coosae*) reaches maximum size about 19 in (47 cm). [[Smallmouth Bass]] (*Micropterus dolomieu*) is thick and chunky with large mouth, upper jaw extending almost to rear margin of...
+> -- *[[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
 - [[NotesOnTheRecommendationToDecl_1962]]
 - [[StreamProtectionSoughtToImprov_15530]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
+- [[TheVertebratesOfArizona_1964]]
+- [[ACaseOfMistakenIdentityGenetic_2021]]
+- [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]

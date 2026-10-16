@@ -11,7 +11,11 @@ Invasive species impacts refer to the ecological and biological consequences res
 > These threat categories align with broader patterns documented in freshwater conservation literature and connect conceptually to [[Habitat Degradation]], [[Invasive Species Impacts]], and [[Freshwater Ecosystem Health]].
 > -- *[[FreshwaterFishActionPlan_1992_11_13]]*
 
+> **Taxonomic & Life-History Summary:** [[Smallmouth Bass]] (*Micropterus dolomieui dolomieui*) is a member of family [[Centrarchidae]]. Body thick and chunky with moderate-sized mouth; upper jaw usually not reaching posteriad past front of eye. Spinous dorsal fin low, soft dorsal fin with 13-15...
+> -- *[[SmallmouthBassMicropterusDolom_X-013f4e27]]*
+
 ## Mentioned In
 - [[BullfrogPredation_1985_11_27]]
 - [[FreshwaterFishActionPlan_1992_11_13]]
 - [[VirginSpinedaceProposedAsThrea_1994_05_28]]
+- [[SmallmouthBassMicropterusDolom_X-013f4e27]]

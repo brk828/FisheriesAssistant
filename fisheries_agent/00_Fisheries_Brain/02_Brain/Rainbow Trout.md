@@ -80,6 +80,24 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > **Primary Sampling Purpose**: This study evaluated the effects of 9-mm PIT (Passive Integrated Transponder) tags on survival, growth, and tag retention in [[Mountain Galaxias]] (Galaxias olidus) to assess the suitability of PIT telemetry for monitoring small-bodied galaxiid fishes, particularly...
 > -- *[[PotentialImpactsOfPitTaggingOn_2018]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
+> This 1985 study investigated the early life history and ecology of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae in [[Lake Mohave]], Arizona-Nevada, to determine causes of recruitment failure in the only substantial remaining population of this endemic Colorado River species. Adult suckers...
+> -- *[[EarlyLifeHistoryOfRazorbackSuc_12707]]*
+
+> This report presents results of hydroacoustic surveys conducted in September 1980 to assess fish abundance and distribution in [[Twin Lakes]], [[Colorado]], prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Using echo-counting techniques with a 120 kHz Simrad EK-120 system,...
+> -- *[[HydroacousticSurveysOfFishAbun_13336]]*
+
+> This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
+> -- *[[SomeObservationsOnTheReclamati_15490]]*
+
+> This two-year fisheries management study (1947-1948) on the [[North Fork of South Platte River]] in [[Colorado]] evaluated the effectiveness of stocking legal-size [[Rainbow Trout]] and [[Brook Trout]] (referred to as "lochs") in a heavily fished mountain stream. Conducted by the [[Colorado Game...
+> -- *[[NorthForkOfSouthPlatteMultiple_16595]]*
+
+> This note documents seven historical records of fish emergence from deep wells and artesian sources in [[California]], spanning 1870-1953. The author examines whether these fish truly originated from subterranean waters or were inadvertently introduced during drilling operations. Geological...
+> -- *[[TheReportedEmergenceOfFishesFr_16686]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -367,3 +385,9 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[ProjectReportGrandLakeShadowMo_16322]]
 - [[DemographicsAndPoststockingSur_2012]]
 - [[PotentialImpactsOfPitTaggingOn_2018]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[EarlyLifeHistoryOfRazorbackSuc_12707]]
+- [[HydroacousticSurveysOfFishAbun_13336]]
+- [[SomeObservationsOnTheReclamati_15490]]
+- [[NorthForkOfSouthPlatteMultiple_16595]]
+- [[TheReportedEmergenceOfFishesFr_16686]]

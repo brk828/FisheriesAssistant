@@ -41,6 +41,15 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > This 1953 fisheries management report documents comprehensive investigations of three connected water bodies in Colorado: [[Granby Reservoir]], [[Shadow Mountain Reservoir]], and [[Grand Lake]]. The study employed creel census, rough fish control operations, limnological sampling, food habit...
 > -- *[[ProjectReportGrandLakeShadowMo_16322]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
+> This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
+> -- *[[SomeObservationsOnTheReclamati_15490]]*
+
+> This two-year fisheries management study (1947-1948) on the [[North Fork of South Platte River]] in [[Colorado]] evaluated the effectiveness of stocking legal-size [[Rainbow Trout]] and [[Brook Trout]] (referred to as "lochs") in a heavily fished mountain stream. Conducted by the [[Colorado Game...
+> -- *[[NorthForkOfSouthPlatteMultiple_16595]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -121,3 +130,6 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[ReTheElectrophoreticStudyOfWhi_14999]]
 - [[ProjectReportGrandLakeShadowMo_16322]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[SomeObservationsOnTheReclamati_15490]]
+- [[NorthForkOfSouthPlatteMultiple_16595]]

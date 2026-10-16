@@ -11,5 +11,9 @@ auto_enriched: true
 > - **First record of *[[Notropis uranoscopus]]* outside the Cahaba River drainage**, documented at three localities below the Fall Line in the Tallapoosa system; habitat and meristic counts closely match the original Cahaba River description. - **Range extension for *[[Notropis zonistius]]*** into...
 > -- *[[RecordsOfThreeCyprinidFishesFr_11996]]*
 
+> **Primary Sampling Purpose**: This document provides taxonomic identification keys and natural history information for sunfishes (family [[Centrarchidae]]) in Alabama, with detailed species accounts for [[Redeye Bass]] ([[Micropterus coosae]]) and [[Smallmouth Bass]] ([[Micropterus dolomieu]]). The...
+> -- *[[FishesOfAlabama_1990]]*
+
 ## Mentioned In
 - [[RecordsOfThreeCyprinidFishesFr_11996]]
+- [[FishesOfAlabama_1990]]

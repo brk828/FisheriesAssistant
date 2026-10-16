@@ -32,6 +32,9 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 > This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
 > -- *[[TheColoradoRiverFishesRecovery_11196]]*
 
+> This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
+> -- *[[WoundfinPlagopterusArgentissim_14022]]*
+
 ## Mentioned In
 - [[CommentsOnDraftColoradoRiverEn_1993_12_28]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -50,3 +53,4 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 - [[AProposalToMonitorTheEffectsOf_17697]]
 - [[RiverResourceMonitoringProject_18503]]
 - [[TheColoradoRiverFishesRecovery_11196]]
+- [[WoundfinPlagopterusArgentissim_14022]]

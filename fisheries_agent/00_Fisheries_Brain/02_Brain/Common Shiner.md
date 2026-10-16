@@ -29,6 +29,9 @@ The Common Shiner is a small cyprinid minnow species utilized as a forage and ba
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
+> -- *[[SomeObservationsOnTheReclamati_15490]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -45,3 +48,4 @@ The Common Shiner is a small cyprinid minnow species utilized as a forage and ba
 - [[UseOfBioassaysInDeterminingLev_13904]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[SomeObservationsOnTheReclamati_15490]]

@@ -29,6 +29,9 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 > The U.S. Fish and Wildlife Service published a final rule on July 20, 1994, listing the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the Endangered Species Act of 1973. This cyprinid fish, historically one of the most abundant and widespread fishes in the...
 > -- *[[EndangeredAndThreatenedWildlif_11651]]*
 
+> This comparative taxonomic study examines seven populations of freshwater-to-miohaline amphipods from the [[Gammarus-Pecos Complex]] inhabiting springs and streams in areas of Texas and New Mexico once overlain by [[Permian Seas]]. The study includes three described species—[[Gammarus Pecos]],...
+> -- *[[TheGammaruspecosComplexCrustac_16002]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[CompositionAndDerivationOfTheN_15363]]
@@ -44,3 +47,4 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 - [[RequestForInformationOnPropose_1997_03_13]]
 - [[SiteAndLandscapescaleEstimates_2026]]
 - [[EndangeredAndThreatenedWildlif_11651]]
+- [[TheGammaruspecosComplexCrustac_16002]]

@@ -38,6 +38,9 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 > This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
 > -- *[[EndangeredAndThreatenedWildlif_11592]]*
 
+> This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
+> -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -91,3 +94,4 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 - [[EndangeredAndThreatenedWildlif_11651]]
 - [[InterimProceduresForStockingNo_15423]]
 - [[EndangeredAndThreatenedWildlif_11592]]
+- [[AResumeOnFieldApplicationsOfAn_11531]]

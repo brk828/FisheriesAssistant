@@ -11,8 +11,12 @@ The Phoenix Zoo refers to a conservation facility that developed a significant r
 > This 1996 U.S. Fish and Wildlife Service biological assessment outlines a conservation project to convert an existing 5.0-acre ornamental lake at the [[Phoenix Zoo]] into a long-term refugial habitat for two federally endangered Colorado River Basin fishes: the [[Razorback Sucker]] and the [[Bony...
 > -- *[[BiologicalAssessmentForDevelop_18529]]*
 
+> This proposal from the [[Southwest Center for Education and the Natural Environment]] (SCENE) to the [[Arizona Community Foundation]] outlines a three-year program to involve high school students in authentic scientific research at [[Arizona State University]]. The project aims to engage 120...
+> -- *[[ScientificResearchExperiencesF_20483]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[LetterToDougMcqueenSupportingN_1986_06_27]]
 - [[ReDesertPupfishInhabitingCheet_11816]]
 - [[StockingOfGilaTopminnowAtPhoen_11815]]
+- [[ScientificResearchExperiencesF_20483]]

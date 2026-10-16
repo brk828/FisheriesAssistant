@@ -23,8 +23,12 @@ Tilapia zillii, commonly known as the redbelly tilapia, is a cichlid species nat
 > - **Endorheic desert spring ecosystems**: Nearly all species discussed are relictual endemics confined to single or few isolated spring/pool systems, remnants of Pleistocene pluvial lakes, making them acutely vulnerable to habitat loss, groundwater withdrawal, and stochastic events (e.g., flash f...
 > -- *[[FourthAnnualMeetingDeathValley_11111]]*
 
+> This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
+> -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
+
 ## Mentioned In
 - [[FishSamplingAtAsuResearchParkA_1988_04_22]]
 - [[FourthAnnualMeetingDeathValley_11111]]
 - [[GrassCarpCtenopharyngodonIdell_19237]]
 - [[LetterToPeterBMoyleOnColoradoR_13792]]
+- [[ArizonaAndMexicanDesertPupfish_12498]]

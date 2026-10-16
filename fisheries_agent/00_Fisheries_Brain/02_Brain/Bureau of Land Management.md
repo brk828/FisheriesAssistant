@@ -44,6 +44,9 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 > This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
 > -- *[[CorrespondenceBetweenMinckleyA_16449]]*
 
+> This memorandum from the [[Arizona Ecological Services State Office]] to the Assistant Regional Director provides detailed comments on proposed joint counterpart section 7 regulations for the [[Forest Service]] and [[Bureau of Land Management]]. Dated August 25, 1995, the document expresses support...
+> -- *[[ReviewOfProposedCounterpartReg_11907]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -107,3 +110,4 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 - [[EndangeredAndThreatenedWildlif_11580]]
 - [[NewEquipmentAndSoftwareWillEnh_13224]]
 - [[CorrespondenceBetweenMinckleyA_16449]]
+- [[ReviewOfProposedCounterpartReg_11907]]

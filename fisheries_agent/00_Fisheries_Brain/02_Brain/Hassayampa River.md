@@ -26,6 +26,12 @@ The Hassayampa River is a desert river system in Arizona that represents a criti
 > This memorandum from Ken Wiley to David Mladenoff, dated July 1, 1987, presents a first draft plan for renovating [[Palm Lake]] at the [[Hassayampa River Preserve]] in Arizona. The project aims to remove exotic fish species and introduce endangered native species, specifically [[Gila elegans]]...
 > -- *[[RenovationOfPalmLakeHassayampa_11969]]*
 
+> The U.S. Fish and Wildlife Service establishes "nonessential experimental" populations of [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Woundfin]] (*Plagopterus argentissimus*) in the [[Gila River]] drainage of Arizona under Section 10(j) of the Endangered Species Act of 1973. This...
+> -- *[[EndangeredAndThreatenedWildlif_11550]]*
+
+> This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
+> -- *[[WoundfinPlagopterusArgentissim_14022]]*
+
 ## Mentioned In
 - [[DoiAnnouncesRecommendationsFor_18330]]
 - [[FishProductionAJointPublicatio_11438]]
@@ -35,3 +41,5 @@ The Hassayampa River is a desert river system in Arizona that represents a criti
 - [[RenovationOfPalmLakeForUseAsAN_16649]]
 - [[RenovationOfPalmLakeForUseAsAN_1988_04_06]]
 - [[RenovationOfPalmLakeHassayampa_11969]]
+- [[EndangeredAndThreatenedWildlif_11550]]
+- [[WoundfinPlagopterusArgentissim_14022]]

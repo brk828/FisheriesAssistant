@@ -23,6 +23,9 @@ The Colorado River Indian Tribes refers to a sovereign Native American nation wi
 > This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
 > -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
 ## Mentioned In
 - [[ColoradoRiverIndianTribesCritC_1991_12_20]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_24]]
@@ -31,3 +34,4 @@ The Colorado River Indian Tribes refers to a sovereign Native American nation wi
 - [[RecoveryOfRazorbackSuckersFrom_1993_01_08]]
 - [[RosterLowerBasinRecoveryImplem_21095]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
+- [[DraftmanagementPlanForTheRazor_11427]]

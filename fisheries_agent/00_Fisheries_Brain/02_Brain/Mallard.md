@@ -11,5 +11,9 @@ The Mallard (Anas platyrhynchos) is a common duck species studied extensively fo
 > This annual report summarizes research activities conducted during 1966 by multiple hydrobiological, ichthyological, fisheries, fish disease, and waterfowl research units affiliated with the [[Natural History Club]] in Brno, Czechoslovakia. The report covers work by university departments, Academy...
 > -- *[[HydrobiologicalAndIchthyologic_12963]]*
 
+> This 1993 memorandum from the Office of the Solicitor, U.S. Department of the Interior, clarifies that hybrid offspring whose parents are both listed as endangered or threatened under the [[Endangered Species Act]] (ESA) are not protected under the Act. The opinion addresses a specific case...
+> -- *[[StatusOfTheHybridOffspringOfTw_15617]]*
+
 ## Mentioned In
 - [[HydrobiologicalAndIchthyologic_12963]]
+- [[StatusOfTheHybridOffspringOfTw_15617]]

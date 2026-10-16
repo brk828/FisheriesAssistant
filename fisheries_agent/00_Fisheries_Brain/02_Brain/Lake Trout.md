@@ -29,6 +29,9 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 > This comprehensive life history study of the [[Piute Sculpin]] (*Cottus beldingii*) in [[Lake Tahoe]] examined 6,424 specimens collected from September 1963 through September 1964. The research focused on diet composition, age and growth patterns, reproductive biology, and parasite loads. Sculpins...
 > -- *[[ContributionsToTheLifeHistoryO_15724]]*
 
+> This report presents results of hydroacoustic surveys conducted in September 1980 to assess fish abundance and distribution in [[Twin Lakes]], [[Colorado]], prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Using echo-counting techniques with a 120 kHz Simrad EK-120 system,...
+> -- *[[HydroacousticSurveysOfFishAbun_13336]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -76,3 +79,4 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 - [[WhyHaveFishHatcheriesInCanadaS_11783]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[ContributionsToTheLifeHistoryO_15724]]
+- [[HydroacousticSurveysOfFishAbun_13336]]

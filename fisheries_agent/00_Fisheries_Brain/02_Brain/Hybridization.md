@@ -17,6 +17,9 @@ Hybridization in fish science refers to the interbreeding between different spec
 > - **Distinguishing dorsal hump**: Taxonomic and distributional status addressed by Valdez (1980), who examined range and species identity of *Gila cypha* in the Upper Colorado River. - **Morphometric analysis**: Rosenfeld (1986) conducted principal component analysis (PCA) on chubs of genus *Gila...
 > -- *[[ReferencesWithNewInformationFo_1987_04_12]]*
 
+> **Taxonomic & Life-History Summary:** This study revises the [[Redeye Bass]] (*Micropterus coosae*) species complex, originally described by Hubbs and Bailey (1940) from the Mobile River basin, Chattahoochee, and Savannah rivers. Examination of morphological variation and mitochondrial DNA (ND2...
+> -- *[[DiversityWithinTheRedeyeBassMi_2013]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[DifferentiationInFishesOfTheAm_12774]]
@@ -24,3 +27,4 @@ Hybridization in fish science refers to the interbreeding between different spec
 - [[HybridsAndTheEndangeredSpecies_1983_12_05]]
 - [[LongDurationOfSpermFunctionInT_1958]]
 - [[ReferencesWithNewInformationFo_1987_04_12]]
+- [[DiversityWithinTheRedeyeBassMi_2013]]

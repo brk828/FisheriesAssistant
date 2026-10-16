@@ -20,6 +20,9 @@ Leuciscidae is a family of freshwater cypriniform fishes that was established th
 > This comprehensive study assessed ecological suitability for two imperiled Rio Grande basin fishes—[[Rio Grande Chub]] (*Gila pandora*) and [[Rio Grande Sucker]] (*Pantosteus plebeius*)—using dual modeling approaches across their overlapping ranges in Colorado and New Mexico. Researchers conducted...
 > -- *[[SiteAndLandscapescaleEstimates_2026]]*
 
+> **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
+> -- *[[HolisticSpeciesDelimitationSup_2026]]*
+
 ## Mentioned In
 - [[CliolaHybopsisTopekaGilbertCur_18324]]
 - [[DesertFishesCouncilLetterOfSup_1985_07_19]]
@@ -27,3 +30,4 @@ Leuciscidae is a family of freshwater cypriniform fishes that was established th
 - [[RequestToStockNativeFishAtAsuG_1988_06_29]]
 - [[TableVulnerableSpeciesInPimaCo_18770]]
 - [[SiteAndLandscapescaleEstimates_2026]]
+- [[HolisticSpeciesDelimitationSup_2026]]

@@ -23,6 +23,9 @@ The Rio Sonoyta is a river system in the southwestern United States-Mexico borde
 > - **Habitat type**: The Aguajita Springs Complex is described as "a very small spring and its outflow," isolated from all other water bodies, and historically fishless. The pool in question was formed only in **August 1988** during heavy rains and never exceeded **one-third of a meter (~33 cm) in...
 > -- *[[BiologicalOpinionRemovalOfIntr_1990_05_30]]*
 
+> This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
+> -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
+
 ## Mentioned In
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -33,3 +36,4 @@ The Rio Sonoyta is a river system in the southwestern United States-Mexico borde
 - [[PotentialPopulationManagementP_14777]]
 - [[SomeAspectsOfBiologyOfTheLongf_1971_05_25]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[ArizonaAndMexicanDesertPupfish_12498]]

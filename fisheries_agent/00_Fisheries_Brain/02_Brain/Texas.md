@@ -11,6 +11,10 @@ auto_enriched: true
 > This 1957 study by [[Howard P. Clemens]] and [[Kermit E. Sneed]] documents the spawning behavior of [[Channel Catfish]] (*Ictalurus punctatus*) induced to spawn in glass aquaria via fish pituitary injections. The research was conducted under the [[Saltonstall-Kennedy Act]] at the [[U.S. Fish...
 > -- *[[TheSpawningBehaviorOfTheChanne_15949]]*
 
+> A 1957 survey of U.S. state fisheries programs reveals widespread adoption of scuba diving as a fisheries management tool. Of responding states (89.6% response rate), 14 states actively use scuba diving, four plan to implement it, and one utilizes volunteer skin diving clubs. The technology enables...
+> -- *[[StatesIncorporateScubaDivingIn_16035]]*
+
 ## Mentioned In
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[TheSpawningBehaviorOfTheChanne_15949]]
+- [[StatesIncorporateScubaDivingIn_16035]]

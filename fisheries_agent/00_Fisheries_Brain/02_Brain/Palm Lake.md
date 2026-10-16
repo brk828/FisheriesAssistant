@@ -23,9 +23,17 @@ Palm Lake is an artificial impounded reservoir located within the Hassayampa Riv
 > This memorandum from Ken Wiley to David Mladenoff, dated July 1, 1987, presents a first draft plan for renovating [[Palm Lake]] at the [[Hassayampa River Preserve]] in Arizona. The project aims to remove exotic fish species and introduce endangered native species, specifically [[Gila elegans]]...
 > -- *[[RenovationOfPalmLakeHassayampa_11969]]*
 
+> This monitoring report documents the status of native fish species stocked at [[Palm Lake]], [[Hassayampa River Preserve]], Arizona, sampled on 2-3 April 1990. The assessment evaluated survival and condition of [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*)...
+> -- *[[FishMonitoringOfPalmLakeHassay_16635]]*
+
+> This correspondence from the [[Arizona Game and Fish Department]] (AGFD) to [[The Nature Conservancy]] (TNC) summarizes action items and deadlines from a January 14, 1993 meeting regarding [[Palm Lake]] at the [[Hassayampa River Preserve]] in [[Wickenburg, Arizona]]. The letter outlines...
+> -- *[[PalmLakeMeetingjanuary_20906]]*
+
 ## Mentioned In
 - [[HassayampaLakeRenova_16653]]
 - [[PalmLakeNativeFishRenovationPr_1987_06_29]]
 - [[RequestForPermitToHoldAndDispl_1987_06_29]]
 - [[BonytailChubSalvagedfromPalkLa_12812]]
 - [[RenovationOfPalmLakeHassayampa_11969]]
+- [[FishMonitoringOfPalmLakeHassay_16635]]
+- [[PalmLakeMeetingjanuary_20906]]

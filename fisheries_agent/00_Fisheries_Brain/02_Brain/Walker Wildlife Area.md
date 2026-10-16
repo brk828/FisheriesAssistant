@@ -11,5 +11,9 @@ Walker Wildlife Area is a flooded gravel pit near Grand Junction, Colorado, that
 > This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
 > -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
 
+> This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
+> -- *[[DraftmanagementPlanForTheRazor_11427]]*
+
 ## Mentioned In
 - [[TheRazorbackSuckerXyrauchenTex_15245]]
+- [[DraftmanagementPlanForTheRazor_11427]]

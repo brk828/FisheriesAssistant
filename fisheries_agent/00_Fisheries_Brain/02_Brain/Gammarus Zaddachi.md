@@ -20,7 +20,11 @@ Gammarus zaddachi is a brackish-water amphipod commonly found in European estuar
 > | Species | Chlorinity Range | |---|---| | [[Gammarus zaddachi]] | >2,000 mg/L | | [[Gammarus duebeni duebeni]] | down to 500 mg/L | | [[Gammarus tigrinus]] | ~100 to several thousand mg/L | | [[Gammarus pulex pulex]] | rare in brine-influenced waters |
 > -- *[[FurtherObservationsOnTheRangeE_12854]]*
 
+> This comparative taxonomic study examines seven populations of freshwater-to-miohaline amphipods from the [[Gammarus-Pecos Complex]] inhabiting springs and streams in areas of Texas and New Mexico once overlain by [[Permian Seas]]. The study includes three described species—[[Gammarus Pecos]],...
+> -- *[[TheGammaruspecosComplexCrustac_16002]]*
+
 ## Mentioned In
 - [[CircatidalActivityRhythmsAndTh_1977]]
 - [[FurtherObservationsOnTheMigrat_1974_03_28]]
 - [[FurtherObservationsOnTheRangeE_12854]]
+- [[TheGammaruspecosComplexCrustac_16002]]

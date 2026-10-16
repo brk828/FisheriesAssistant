@@ -17,7 +17,11 @@ The June Sucker is an endangered catostomid fish endemic to the Virgin River in 
 > - **Habitat**: Virgin River channel in Utah — a warm-water, turbid, desert river system tributary to the Colorado River, characterized by fluctuating flows typical of arid Southwestern USA streams. - **Spatial sampling design**: Collections were mandated to be distributed across **four or more sa...
 > -- *[[SubpermitAuthorizationLetterTo_1993_06_17]]*
 
+> **Core Problem Addressed**: Evaluate the population-level consequences of a decade-long [[Common Carp]] removal effort in [[Utah Lake]] (>12,000 tons harvested 2009-2018) and determine whether current mechanical removal strategies can maintain carp biomass below management targets (75% reduction)...
+> -- *[[CompensatoryRecruitmentDynamic_2020]]*
+
 ## Mentioned In
 - [[EndangeredSpeciesTodayExtinctT_1977]]
 - [[SubpermitAuthorizationForWound_1989_06_06]]
 - [[SubpermitAuthorizationLetterTo_1993_06_17]]
+- [[CompensatoryRecruitmentDynamic_2020]]

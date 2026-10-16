@@ -4,5 +4,14 @@ auto_enriched: true
 ---
 # Arizona Department Of Environmental Quality
 
+## Context
+> This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
+> -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
+
+> This correspondence from the [[Arizona Department of Environmental Quality]] documents a March 31, 1993 field assessment of mine tailings at [[Klondyke]] and their impact on [[Aravaipa Creek]] water quality. Twenty-four samples were collected including well water, surface water, subsurface water,...
+> -- *[[ReevidenceOfTailingsTransportI_14555]]*
+
 ## Mentioned In
 - [[LetterAppointingWendellMinckle_1993_05_18]]
+- [[LetterReviewOfBogHoleRenovatio_12470]]
+- [[ReevidenceOfTailingsTransportI_14555]]

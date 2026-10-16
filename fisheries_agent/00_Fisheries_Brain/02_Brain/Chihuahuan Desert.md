@@ -29,6 +29,9 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 > This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
 > -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
 
+> This correspondence documents collaboration between Mexican biologists at [[Universidad Autónoma Metropolitana]] and Dr. [[W. L. Minckley]] of [[Arizona State University]] regarding the first management plan for the proposed [[Cuatro Ciénegas]] watershed [[Biosphere Reserve]] in [[Coahuila]],...
+> -- *[[CuatroCienegasWatershedCoahuil_16108]]*
+
 ## Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[ButterfliesFromCoahuilaMexico_1968]]
@@ -44,3 +47,4 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 - [[SpecialSymposiumOnTheBiotaOfCu_19762]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
+- [[CuatroCienegasWatershedCoahuil_16108]]

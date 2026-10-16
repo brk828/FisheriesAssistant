@@ -14,9 +14,13 @@ Interspecific competition in fish and aquatic ecology refers to the interaction 
 > This 1961 study by Kenneth B. Armitage documents the species composition and seasonal distribution of limnetic (open-water) crustacean [[Zooplankton]] across six lakes in northeastern Kansas, based on 17 qualitative plankton hauls collected between September 1956 and June 1960. Sampling used a #2...
 > -- *[[Species Composition and Seasonal Distribution of Limnetic Crustacean Zooplankton of Northeastern Kansas]]*
 
+> This philosophical analysis examines a major methodological controversy in [[Community Ecology]] concerning the use of [[Null Hypotheses]] to test explanations of [[Community Structure]] based on [[Interspecific Competition]]. The author (Peter B. Sloep, Department of Animal Physiology, Haren,...
+> -- *[[NullHypothesesInEcologyAnAttem_19026]]*
+
 ## Mentioned In
 - [[DonTThrowGrandpaBack_14198]]
 - [[FurtherObservationsOnTheRangeE_12854]]
 - [[OnTheOccurrenceOfGammarusDuebe_14565]]
 - [[Species Composition and Seasonal Distribution of Limnetic Crustacean Zooplankton of Northeastern Kansas]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
+- [[NullHypothesesInEcologyAnAttem_19026]]

@@ -23,9 +23,13 @@ Mitochondrial DNA (mtDNA) in fish science refers to the genetic material contain
 > This document is a critical evaluation by Associate Professor Donald G. Buth (UCLA) of M.d. Rosenfeld's draft report on allozyme variation in upper [[Colorado River]] species of [[Gila]]. The evaluation, dated 16 February 1988 and addressed to Utah Natural Resources Wildlife Resources, identifies...
 > -- *[[EvaluationOfMjRosenfeldsBioche_14124]]*
 
+> **Taxonomic & Life-History Summary:** This study revises the [[Redeye Bass]] (*Micropterus coosae*) species complex, originally described by Hubbs and Bailey (1940) from the Mobile River basin, Chattahoochee, and Savannah rivers. Examination of morphological variation and mitochondrial DNA (ND2...
+> -- *[[DiversityWithinTheRedeyeBassMi_2013]]*
+
 ## Mentioned In
 - [[MhcVariationInTheEndangeredGil_20763]]
 - [[PreProposalForStudiesOfMtdnaGe_1989_12_26]]
 - [[RazorbackSuckerCaptivePropagat_1994_12_06]]
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[EvaluationOfMjRosenfeldsBioche_14124]]
+- [[DiversityWithinTheRedeyeBassMi_2013]]

@@ -26,6 +26,12 @@ In the context of fish science and aquatic ecology, California refers to the geo
 > This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
 > -- *[[FisheryInventoryOfTheCoachella_13687]]*
 
+> A 1957 survey of U.S. state fisheries programs reveals widespread adoption of scuba diving as a fisheries management tool. Of responding states (89.6% response rate), 14 states actively use scuba diving, four plan to implement it, and one utilizes volunteer skin diving clubs. The technology enables...
+> -- *[[StatesIncorporateScubaDivingIn_16035]]*
+
+> This note documents seven historical records of fish emergence from deep wells and artesian sources in [[California]], spanning 1870-1953. The author examines whether these fish truly originated from subterranean waters or were inadvertently introduced during drilling operations. Geological...
+> -- *[[TheReportedEmergenceOfFishesFr_16686]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[RainbowSmeltIntroductionIntoLa_1989]]
@@ -34,3 +40,5 @@ In the context of fish science and aquatic ecology, California refers to the geo
 - [[SeriesOfInterofficeMemosJulyAr_17328]]
 - [[TransmittalRegardingReasonable_19809]]
 - [[FisheryInventoryOfTheCoachella_13687]]
+- [[StatesIncorporateScubaDivingIn_16035]]
+- [[TheReportedEmergenceOfFishesFr_16686]]
