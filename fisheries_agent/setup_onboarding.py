@@ -20,6 +20,25 @@ def print_api_key_instructions():
 WINDOWS_RESERVED_NAMES = {'CON', 'PRN', 'AUX', 'NUL', *(f'COM{i}' for i in range(1, 10)), *(f'LPT{i}' for i in range(1, 10))}
 
 
+def offer_icm_workspaces(projects):
+    """Optional: restructure each selected project into an ICM workspace (the original is never modified)."""
+    from utils import icm_integration, icm_restructure
+    print("\n--- ICM WORKSPACES (optional) ---")
+    print(" An ICM workspace gives a project staged folders, an AGENTS.md and project skills. Originals are never changed.")
+    for project in projects:
+        if icm_integration.is_workspace(project):
+            continue
+        if input(f"Create an ICM workspace for '{project.name}' now? (y/N): ").strip().lower() not in ("y", "yes"):
+            continue
+        try:
+            dest = icm_restructure.run(project)
+        except (SystemExit, Exception) as e:
+            print(f" Skipped '{project.name}': {e}")
+            continue
+        if dest:
+            print(f" Registered {icm_integration.register_workspace(dest, original=project.name)}")
+
+
 def run_onboarding():
     print("=========================================================")
     print("⚓ FISHERIES AI AGENT FRAMEWORK - MACHINE ONBOARDING ⚓")
@@ -109,9 +128,16 @@ def run_onboarding():
     
     # Write out YAML infrastructure map
     manifest_file = HERE / "project_manifest.yaml"
+    if manifest_file.exists():  # keep existing ICM links when onboarding is re-run
+        old = (yaml.safe_load(manifest_file.read_text(encoding="utf-8")) or {}).get("projects", {})
+        for name, info in old.items():
+            if info.get("icm_workspace"):
+                manifest_data["projects"].setdefault(name, {"project_path": info["project_path"]})["icm_workspace"] = info["icm_workspace"]
     with open(manifest_file, "w") as f:
         yaml.dump(manifest_data, f, default_flow_style=False)
     print(f"✅ Generated infrastructure backbone: {manifest_file.resolve()}")
+
+    offer_icm_workspaces(target_projects)
     
     # Write out .env.template if missing
     env_template = ENV_DIR / ".env.template"

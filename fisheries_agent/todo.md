@@ -85,6 +85,10 @@ Observations about the current brain (affects the design):
 - [ ] Set `PYTHONUTF8=1` (or avoid emoji output) for SSH/redirected sessions on Windows.
 - [ ] Verify the three R templates (`zinb.R`, `cjs.R`, `explore.R`) on a Windows machine; `cjs.R` initial-value handling is the least certain.
 
+## ICM follow-ups
+- [ ] Phase 5 (maintenance): `icm_update` workflow, brain reference refresh, optional upstream contribution (see `ICMDevelopment.md`).
+- [ ] Try the Phase 4 flows (create, restructure, validate, refresh, layered context) with a live model on a real project; tool functions in `main_orchestrator.py` have no direct tests yet.
+
 ## Future features
 - [x] (done: once-a-minute check in the agent with consent prompt; see agents.md) Scheduled PDF processor: watch `00_Fisheries_Brain/pdfs_to_process/`, summarize new PDFs into `01_Sources/`, create context links between notes (reuse logic from the separate literature-conversion project). Until then, markdown files are added to `01_Sources/` and `02_Brain/` by hand.
 - [ ] Reduce the number of notes in `02_Brain/` by merging them; rely mainly on source chunks, with concept notes as the link graph.

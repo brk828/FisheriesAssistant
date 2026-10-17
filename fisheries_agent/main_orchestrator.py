@@ -8,7 +8,7 @@ from pathlib import Path
 from openai import OpenAI, OpenAIError
 from dotenv import load_dotenv
 
-from utils import brain_index, gitsync, pdf_ingest, project_memory
+from utils import brain_index, gitsync, icm_data, icm_integration, icm_seed, pdf_ingest, project_memory
 from utils.runner import find_rscript, new_run_dir, run_command, run_r_template, truncate
 from utils.safety import (
     SafetyError, clamp_iterations, parse_zi_formula, project_roots, resolve_in_roots,
@@ -148,9 +148,58 @@ def _record_model_run(csv_file: Path, tool: str, label: str, ok: bool, run_dir) 
     if name:
         project_memory.record_run(name, root, tool, ok, label, run_dir, [csv_file.relative_to(root).as_posix()])
 
-def get_project_context(project_name: str):
-    """Returns remembered notes, key files and recent runs for a project (read-only)."""
-    return project_memory.context(project_name, _project_root(project_name))
+def _workspace(project_name: str):
+    return icm_integration.workspace_of(load_manifest().get("projects", {}).get(project_name))
+
+def get_project_context(project_name: str, stage: str = ""):
+    """Returns the ICM layers (when the project has a workspace) plus remembered notes, key files and recent runs (read-only)."""
+    memory = project_memory.context(project_name, _project_root(project_name))
+    ws = _workspace(project_name)
+    return icm_integration.layered_context(ws, stage) + "\n\n" + memory if ws else memory
+
+def validate_project(project_name: str, full_data_check: bool = False):
+    """Checks a project's ICM workspace against the conventions and its linked data against the manifest (read-only)."""
+    ws = _workspace(project_name)
+    if not ws:
+        return f"Project '{project_name}' has no ICM workspace. Offer restructure_project or create_icm_project."
+    return icm_integration.validate_workspace(ws, full_data_check)
+
+def refresh_project_references(project_name: str, apply: bool = False):
+    """Compares copied reference notes with the brain; with apply=true, updates the changed ones."""
+    ws = _workspace(project_name)
+    if not ws:
+        return f"Project '{project_name}' has no ICM workspace."
+    changes = icm_seed.refresh(ws, apply=apply)
+    if not changes:
+        return "All copied reference notes match the brain."
+    lines = "\n".join(f"- {folder}: {sid} {status}" for folder, sid, status in changes)
+    return lines + ("\nApplied." if apply else "\nNot applied; call again with apply=true to update.")
+
+def _flow_result(run_flow):
+    try:
+        return run_flow()
+    except SystemExit as e:
+        return f"Cancelled: {e}" if e.code not in (None, 0) else "Cancelled."
+    except (RuntimeError, ValueError, FileExistsError) as e:
+        return f"Error: {e}"
+
+def create_icm_project():
+    """Runs the interactive new-project flow, then registers the workspace in the manifest."""
+    from utils import icm_wizard
+    def flow():
+        dest = icm_wizard.run()
+        return f"Created ICM project '{icm_integration.register_workspace(dest)}' at {dest} and registered it."
+    return _flow_result(flow)
+
+def restructure_project(project_name: str):
+    """Runs the interactive restructure flow for a registered project into a new _icm folder; the original is untouched."""
+    from utils import icm_restructure
+    source = _project_root(project_name)
+    def flow():
+        dest = icm_restructure.run(source)
+        name = icm_integration.register_workspace(dest, original=project_name)
+        return f"Restructured '{project_name}' into '{name}' at {dest}; the original was not changed."
+    return _flow_result(flow)
 
 def get_latest_results(project_name: str, kind: str = "results"):
     """Finds and reads the newest results (or script/data) file of a project in one step."""
@@ -226,6 +275,13 @@ def run_project_pipeline(project_name: str, script_name: str):
     else:
         return "Error: Only .R, .Rmd and .qmd files can be run."
 
+    ws = icm_integration.workspace_of(project)
+    stale = icm_data.warnings(ws) if ws else []
+    if stale:
+        print("\n⚠️ Linked data differs from the workspace manifest:\n" + "\n".join(f"   - {w}" for w in stale))
+        if input("   Run anyway? (y/n): ").strip().lower() not in ("y", "yes"):
+            return "Not run: linked data changed or is missing:\n" + "\n".join(stale) + "\nAsk the user whether to accept the changes (python -m utils.icm_data <workspace> --accept) or fix the files."
+
     run_dir = new_run_dir(f"pipeline_{project_name}")
     before = project_memory.scan(root)
     ok, out = run_command(cmd, cwd=root, log_dir=run_dir)
@@ -290,7 +346,39 @@ tools = [
         "type": "function",
         "function": {
             "name": "get_project_context",
-            "description": "Returns what is remembered about a registered project: notes, key/pinned files with short summaries, and recent runs. Call this FIRST for any question about a project.",
+            "description": "Returns what is known about a registered project: for ICM workspaces its AGENTS.md and CONTEXT.md (plus one stage contract when stage is given), then remembered notes, key/pinned files and recent runs. Call this FIRST for any question about a project; load a stage only when working on that stage.",
+            "parameters": {"type": "object", "properties": {"project_name": {"type": "string"}, "stage": {"type": "string", "description": "Optional stage folder name, e.g. 03-analysis"}}, "required": ["project_name"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "validate_project",
+            "description": "Validates a project's ICM workspace (structure, stage contracts, skill citations) and checks that linked data files still match the workspace manifest. Use for 'validate project X'.",
+            "parameters": {"type": "object", "properties": {"project_name": {"type": "string"}, "full_data_check": {"type": "boolean", "description": "Recompute hashes of every linked file"}}, "required": ["project_name"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "refresh_project_references",
+            "description": "Checks whether reference notes copied into a project's ICM workspace have changed in the Fisheries Brain. Without apply it only reports; with apply=true (needs user approval) it updates them. Use for 'refresh project references'.",
+            "parameters": {"type": "object", "properties": {"project_name": {"type": "string"}, "apply": {"type": "boolean"}}, "required": ["project_name"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "create_icm_project",
+            "description": "Starts the interactive new-project flow (questions, project type, folder tree, git options, optional brain seeding) in the user's terminal and registers the resulting ICM workspace. Takes no arguments; the user answers the questions directly. Use for 'create a project'.",
+            "parameters": {"type": "object", "properties": {}}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "restructure_project",
+            "description": "Starts the interactive flow that restructures an existing registered project into a new ICM workspace folder (name plus _icm). The original is never modified. The user answers the questions directly. Use for 'restructure project X'.",
             "parameters": {"type": "object", "properties": {"project_name": {"type": "string"}}, "required": ["project_name"]}
         }
     },
@@ -422,6 +510,10 @@ available_functions = {
     "read_brain_source": read_brain_source,
     "get_project_context": get_project_context,
     "get_latest_results": get_latest_results,
+    "validate_project": validate_project,
+    "refresh_project_references": refresh_project_references,
+    "create_icm_project": create_icm_project,
+    "restructure_project": restructure_project,
     "remember_project_fact": remember_project_fact,
     "list_project_files": list_project_files,
     "read_project_file": read_project_file,
@@ -435,8 +527,13 @@ available_functions = {
 # Read-only lookups run without a prompt; everything else needs the user's approval.
 NO_CONFIRMATION_NEEDED = {
     "search_fisheries_brain", "read_brain_source", "list_project_files", "read_project_file",
-    "get_project_context", "get_latest_results", "remember_project_fact",
+    "get_project_context", "get_latest_results", "remember_project_fact", "validate_project", "refresh_project_references",
 }
+
+def needs_confirmation(function_name: str, function_args: dict) -> bool:
+    if function_name == "refresh_project_references":
+        return bool(function_args.get("apply"))
+    return function_name not in NO_CONFIRMATION_NEEDED
 
 def confirm_run(function_name: str, function_args: dict) -> bool:
     print(f"\n🔔 The agent wants to run: {function_name}")
@@ -478,7 +575,7 @@ def execute_tool_call(function_name: str, raw_arguments: str) -> str:
     except json.JSONDecodeError:
         return "Error: tool arguments were not valid JSON."
 
-    if function_name not in NO_CONFIRMATION_NEEDED and not confirm_run(function_name, function_args):
+    if needs_confirmation(function_name, function_args) and not confirm_run(function_name, function_args):
         return "The user declined this run. Do not retry; ask what they would like to change."
 
     git_root = _git_root_for_call(function_name, function_args)
@@ -574,7 +671,7 @@ def _complete(client, messages, model=MODEL, **kwargs):
 def compact_manifest(manifest: dict) -> str:
     """Only what the model needs: project names, paths and style. File lists come from the file tools and project memory."""
     slim = {"projects": {
-        name: {k: info[k] for k in ("project_path", "primary_format", "documentation_habit") if k in info}
+        name: {k: info[k] for k in ("project_path", "primary_format", "documentation_habit", "icm_workspace") if k in info}
         for name, info in (manifest.get("projects") or {}).items()
     }}
     return yaml.dump(slim, default_flow_style=False)
@@ -601,6 +698,7 @@ Every analysis run is shown to the user for approval before it executes.
 
 How to choose tools:
 - Questions about a specific project's own results, data, outputs or scripts (e.g. "what were the results of the last model run for project X"): go straight to the project. Call get_project_context first (remembered key files, notes, recent runs). For "latest/most recent results" call get_latest_results. Use list_project_files and read_project_file for anything else, and remember_project_fact when the user says something should be remembered or a file is important. Do NOT call search_fisheries_brain for these.
+- Projects with an icm_workspace are ICM workspaces: get_project_context returns their AGENTS.md and CONTEXT.md; follow them, and pass stage to load one stage contract when working on that stage. Use validate_project, refresh_project_references (report first, apply only if the user wants), create_icm_project and restructure_project when the user asks to validate, refresh, create or restructure a project. The last two are interactive: the user answers in the terminal, so just call them without asking the questions yourself.
 - General fisheries science, methods, or deciding how to approach a NEW analysis: use search_fisheries_brain as a reference.
 - Only use the brain alongside project files if the user asks to interpret results against the literature.
 - Literature answers: no preamble or commentary between tool calls; search once, read at most 3-4 of the most relevant sources, then write the answer. Every paragraph that uses vault material must carry inline citations, using the "Inline:" form each source line gives (for example (Smith 1993)), and the answer must finish with a References list made of the full citation lines the tools gave you (without the "Inline:" part), keeping the bracketed source id in each. Never invent an author or year. A line marked "(no author recorded)" starts with the title: check the passage you read for a named author or agency and use it if present, otherwise cite by a short form of the title, e.g. (Lake Mohave Population Survey 1996); "n.d." means no year is known. Say which statements come from the vault and which are your general knowledge.

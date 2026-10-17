@@ -1,6 +1,8 @@
 # ICM-Based Project Management: Development Plan
 
-Status: Phases 1-3 complete (standalone tools, not yet wired into the orchestrator); Phase 4 next.
+Status: Phases 1-4 complete; Phase 5 (maintenance) next.
+
+Done (Phase 4): `utils/icm_integration.py` (manifest link, layered context, validation wrapper); orchestrator tools `validate_project`, `refresh_project_references` (apply needs approval), `create_icm_project`, `restructure_project`, and `get_project_context(stage)`; `run_project_pipeline` warns when linked data changed; onboarding offers restructure per project and keeps existing links on re-run. 27 tests. Not yet tried against a live model or a real project.
 
 Done so far (Phase 1):
 - `fisheries_agent/icm_core/`: vendored ICM core (MIT, pinned to upstream commit `02ba5d8`), with `LICENSE` and `UPSTREAM.json`.

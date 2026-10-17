@@ -8,7 +8,7 @@ import json
 import sqlite3
 
 from utils import brain_index, gitsync, icm_git, icm_scaffold, icm_seed, icm_skills, icm_validate, icm_wizard
-from utils import icm_data, icm_restructure
+from utils import icm_data, icm_integration, icm_restructure
 import hashlib
 import os
 
@@ -258,6 +258,46 @@ class FindSourcesTests(unittest.TestCase):
                 self.assertEqual(brain_index.find_sources("the of", 5), [])
         finally:
             Path(db_file.name).unlink(missing_ok=True)
+
+
+class IntegrationTests(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.base = Path(self.tmp.name)
+        self.manifest = self.base / "project_manifest.yaml"
+        self.orig = self.base / "Chub"
+        self.orig.mkdir()
+        self.manifest.write_text(f"projects:\n  Chub:\n    project_path: {self.orig}\n    primary_format: Quarto (qmd)\n", encoding="utf-8")
+        self.ws = icm_scaffold.scaffold(self.base, "Chub_icm", "Chub", "mark_recapture", profile="Likes R.")
+
+    def tearDown(self):
+        self.tmp.cleanup()
+
+    def test_register_links_original_and_adds_workspace(self):
+        name = icm_integration.register_workspace(self.ws, original="Chub", manifest_path=self.manifest)
+        import yaml
+        projects = yaml.safe_load(self.manifest.read_text())["projects"]
+        self.assertEqual(name, "Chub_icm")
+        self.assertEqual(projects["Chub"]["icm_workspace"], str(self.ws.resolve()))
+        self.assertEqual(projects["Chub_icm"]["project_path"], str(self.ws.resolve()))
+        self.assertEqual(icm_integration.workspace_of(projects["Chub"]), self.ws.resolve())
+        self.assertIsNone(icm_integration.workspace_of({"icm_workspace": str(self.base / "gone")}))
+
+    def test_layered_context_loads_one_stage(self):
+        text = icm_integration.layered_context(self.ws, "02-model-design")
+        self.assertIn("Likes R.", text)
+        self.assertIn("stages/02-model-design/CONTEXT.md", text)
+        self.assertNotIn("stages/03-analysis/CONTEXT.md\n", text)
+        self.assertIn("Stages (ask for one", icm_integration.layered_context(self.ws))
+        self.assertIn("not found", icm_integration.layered_context(self.ws, "nope"))
+
+    def test_validate_reports_linked_data_changes(self):
+        self.assertIn("passes", icm_integration.validate_workspace(self.ws))
+        linked = self.base / "caps.csv"
+        linked.write_text("a\n1\n")
+        icm_data.save(self.ws, [icm_data.make_entry(linked, "data")])
+        linked.write_text("a\n1\n2\n")
+        self.assertIn("changed", icm_integration.validate_workspace(self.ws))
 
 
 class RestructureTests(unittest.TestCase):

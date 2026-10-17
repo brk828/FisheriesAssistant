@@ -114,6 +114,9 @@ python -m utils.brain_enrich titles-llm --limit 20        # LLM titles for sourc
 ```
 Fix a wrong or missing alias in `brain_meta/aliases.yaml`; a title can be set by hand in `source_titles.json` with `"from": "manual"`.
 
+## ICM Workspaces
+Projects can be staged ICM workspaces (`AGENTS.md`, `CONTEXT.md`, stage folders, brain-seeded references and skills). A workspace is linked from `project_manifest.yaml` through `icm_workspace`, and the agent loads it in layers: `get_project_context` returns `AGENTS.md` and `CONTEXT.md`, plus one stage contract when a stage is asked for. Ask the agent to create a project, restructure project X, validate project X or refresh its references; creating and restructuring ask their questions in the terminal. Onboarding offers to restructure each selected project, and the original is never changed. Before a script runs, linked data files are checked against `data/manifest.yaml` and you are asked if any changed. Standalone commands: `python -m utils.icm_wizard`, `icm_restructure`, `icm_validate`, `icm_seed`, `icm_skills`, `icm_data`.
+
 ## 🔮 Future Features
 * **Scheduled PDF processor:** `utils/pdf_ingest.py` already converts PDFs from `00_Fisheries_Brain/pdfs_to_process/` into `01_Sources/` notes on demand (OCR where needed, citation read from the PDF). It also updates the `02_Brain/` concept stubs so the new notes are searchable. The running agent checks the folder every minute and, on Enter or `ingest`, shows an estimated cost and asks before adding new PDFs. Markdown from the Minckley process is added to `01_Sources/` and `02_Brain/` by hand.
 * **Project memory, next steps:** optional LLM one-line summaries of key files, and indexing the scientist's own reports (see `todo.md`).
