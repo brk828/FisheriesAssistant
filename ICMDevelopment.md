@@ -1,6 +1,6 @@
 # ICM-Based Project Management: Development Plan
 
-Status: Phase 1 in progress.
+Status: Phase 1 complete (standalone); Phase 2 next.
 
 Done so far (Phase 1):
 - `fisheries_agent/icm_core/`: vendored ICM core (MIT, pinned to upstream commit `02ba5d8`), with `LICENSE` and `UPSTREAM.json`.
@@ -9,7 +9,11 @@ Done so far (Phase 1):
 - `utils/icm_scaffold.py`: folder naming, `AGENTS.md` (profile block plus routing block), `CONTEXT.md`, stage contracts, `data/`, never overwrites.
 - `utils/icm_git.py`: optional git init, `.gitignore` rules and the 50 MB size cap.
 - `utils/icm_validate.py`: convention checks.
-- `tests/test_icm.py`: 12 tests (`python -m unittest tests.test_icm` from `fisheries_agent`).
+- `utils/icm_wizard.py`: `python -m utils.icm_wizard` runs the new-project flow (one-time user profile into `brain_meta/user_profile.md`, flat questionnaire, suggested type and tree for approval, git and ignore questions, LLM-written routing with a plain fallback).
+- `utils/gitsync.py`: `commit_changes` now skips files over a workspace's `git.max_file_mb` and reports them.
+- `tests/test_icm.py`: 15 tests (`python -m unittest tests.test_icm` from `fisheries_agent`).
+
+Phase 1 is complete except for orchestrator and onboarding integration, which is planned for Phase 4. Next: Phase 2 (brain seeding, skills, gap reports).
 
 Still to do in Phase 1: the questionnaire and suggester conversation flow, the `user_profile.md` collection step, LLM-written routing text, and the `gitsync` commit-time size check.
 

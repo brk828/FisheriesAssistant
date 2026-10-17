@@ -51,6 +51,19 @@ def snapshot(root: Path) -> dict:
     return state
 
 
+def _max_file_bytes(root: Path):
+    """Size cap from an ICM workspace's _config/project.yaml (git.max_file_mb), or None for other projects."""
+    cfg = Path(root) / "_config" / "project.yaml"
+    if not cfg.is_file():
+        return None
+    try:
+        import yaml
+        mb = ((yaml.safe_load(cfg.read_text(encoding="utf-8")) or {}).get("git") or {}).get("max_file_mb")
+        return float(mb) * 1024 * 1024 if mb else None
+    except Exception:
+        return None
+
+
 def commit_changes(root: Path, before: dict, message: str) -> str:
     """Commits only the files that changed since `before`. Returns a summary for the user/agent."""
     after = snapshot(root)
@@ -58,6 +71,12 @@ def commit_changes(root: Path, before: dict, message: str) -> str:
     skipped = [p for p in changed if _SECRET_PATTERN.search(p)]
     changed = [p for p in changed if p not in skipped]
     note = f" (not committed, looks sensitive: {', '.join(skipped)})" if skipped else ""
+    cap = _max_file_bytes(root)
+    if cap:
+        big = [p for p in changed if (after[p][2] or 0) > cap]
+        if big:
+            changed = [p for p in changed if p not in big]
+            note += f" (not committed, over the project's size cap: {', '.join(big)}; move to data/ or raise the cap)"
     if not changed:
         return "Git: no new project changes to commit." + note
 
