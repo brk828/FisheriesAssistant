@@ -113,6 +113,28 @@ def read_project_file(project_name: str, file_path: str):
     project_memory.record_file(project_name, root, target.relative_to(root).as_posix(), text)
     return truncate(text)
 
+WRITABLE_SUFFIXES = {".r", ".rmd", ".qmd", ".md", ".txt", ".csv", ".yaml", ".yml", ".json"}
+MAX_WRITE_CHARS = 200_000
+
+def write_project_file(project_name: str, file_path: str, content: str, overwrite: bool = False):
+    """Creates (or, with overwrite, replaces) a text file such as an R script inside a registered project."""
+    root = _project_root(project_name)
+    target = resolve_in_roots(str(root / file_path), [root])
+    rel = target.relative_to(root)
+    if any(part.startswith(".") for part in rel.parts):
+        return "Error: hidden files and folders cannot be written."
+    if target.suffix.lower() not in WRITABLE_SUFFIXES:
+        return f"Error: files of type '{target.suffix}' cannot be written. Allowed: {', '.join(sorted(WRITABLE_SUFFIXES))}."
+    if len(content) > MAX_WRITE_CHARS:
+        return f"Error: content is too large ({len(content)} characters)."
+    if target.exists() and not overwrite:
+        return f"Error: '{rel.as_posix()}' already exists. Choose a new name, or call again with overwrite=true if the user wants it replaced."
+    target.parent.mkdir(parents=True, exist_ok=True)
+    with open(target, "w", encoding="utf-8", newline="\n") as f:
+        f.write(content)
+    project_memory.record_file(project_name, root, rel.as_posix(), content)
+    return f"Wrote {rel.as_posix()} ({len(content)} characters) in project '{project_name}'."
+
 def _project_for_path(path: Path):
     """Finds the registered project whose folder contains path, as (name, root) or (None, None)."""
     for name, info in load_manifest().get("projects", {}).items():
@@ -323,6 +345,23 @@ tools = [
     {
         "type": "function",
         "function": {
+            "name": "write_project_file",
+            "description": "Creates a text file (e.g. a new .R, .Rmd, .qmd script, .md or .csv) inside a registered project. The user must approve each write. Refuses to replace an existing file unless overwrite is true. Use this to save scripts you have written; then offer to run them with run_project_pipeline.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "project_name": {"type": "string"},
+                    "file_path": {"type": "string", "description": "Path relative to the project folder, e.g. scripts/model.R"},
+                    "content": {"type": "string", "description": "Full file contents"},
+                    "overwrite": {"type": "boolean"}
+                },
+                "required": ["project_name", "file_path", "content"]
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
             "name": "run_project_pipeline",
             "description": "Runs an existing .R, .Rmd or .qmd script inside one of the user's registered projects.",
             "parameters": {
@@ -386,6 +425,7 @@ available_functions = {
     "remember_project_fact": remember_project_fact,
     "list_project_files": list_project_files,
     "read_project_file": read_project_file,
+    "write_project_file": write_project_file,
     "run_project_pipeline": run_project_pipeline,
     "run_zero_inflated_model": run_zero_inflated_model,
     "run_nimble_mark_recapture": run_nimble_mark_recapture,
@@ -406,7 +446,7 @@ def confirm_run(function_name: str, function_args: dict) -> bool:
     return answer in ("y", "yes")
 
 # Tools that can create or modify files inside a project folder.
-PROJECT_WRITING_TOOLS = {"run_project_pipeline"}
+PROJECT_WRITING_TOOLS = {"run_project_pipeline", "write_project_file"}
 
 def _git_root_for_call(function_name: str, function_args: dict):
     if function_name not in PROJECT_WRITING_TOOLS:
@@ -448,7 +488,7 @@ def execute_tool_call(function_name: str, raw_arguments: str) -> str:
     try:
         result = function_to_call(**function_args)
         if git_root:
-            label = f"{function_name} {function_args.get('script_name', '')}".strip()
+            label = f"{function_name} {function_args.get('script_name') or function_args.get('file_path', '')}".strip()
             result += "\n\n" + _git_followup(git_root, before, label)
         return result
     except SafetyError as e:
