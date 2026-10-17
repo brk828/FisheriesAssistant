@@ -1,0 +1,51 @@
+# Reference topics per project type and stage, used to seed stages/<slug>/references/ from the brain.
+# Per topic: topic, query ({species} and {region} are replaced from the questionnaire), why, source_hint.
+# Stages not listed get no seeded references.
+
+mark_recapture:
+  01-data-prep:
+    - topic: Data quality and tag handling
+      query: "PIT tag data quality capture records {species}"
+      why: Cleaning rules should follow how tags and captures are recorded for this species.
+      source_hint: A protocol or data-management guide for tagging programs
+  02-model-design:
+    - topic: Prior abundance estimates and study designs
+      query: "abundance estimate mark-recapture {species} {region}"
+      why: Earlier designs and estimates inform model choice and expected ranges.
+      source_hint: A published abundance study for the species or river
+  04-review:
+    - topic: Published estimates for comparison
+      query: "population estimate {species} {region}"
+      why: Results are reviewed against published values.
+      source_hint: A published population estimate for the species or river
+  05-report:
+    - topic: Species and region background
+      query: "{species} {region} status distribution life history"
+      why: The report needs accurate background and citations.
+      source_hint: A status report or life-history review for the species
+
+monitoring_cpue:
+  01-data-prep:
+    - topic: Sampling protocols
+      query: "sampling protocol monitoring {species} {region}"
+      why: Cleaning and effort rules follow the sampling protocol.
+      source_hint: The monitoring protocol for the program
+  04-report:
+    - topic: Species and region background
+      query: "{species} {region} status distribution life history"
+      why: The report needs accurate background and citations.
+      source_hint: A status report or life-history review for the species
+
+literature_synthesis:
+  02-evidence:
+    - topic: Evidence on the question
+      query: "{species} {region}"
+      why: The evidence stage works from sources on the stated question.
+      source_hint: Key papers or reports on the question
+
+report:
+  02-draft:
+    - topic: Species and region background
+      query: "{species} {region}"
+      why: Background sections need citations.
+      source_hint: A status report or life-history review

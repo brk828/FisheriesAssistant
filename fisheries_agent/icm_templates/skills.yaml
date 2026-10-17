@@ -1,0 +1,55 @@
+# Skill outlines. These list the topics a generated SKILL.md must cover; the LLM writes the content from brain
+# evidence only. Per topic: name, query (brain search terms; {species} is replaced from the questionnaire),
+# why (why it matters, shown in gap reports), source_hint (kind of source that would fill a gap).
+
+mark-recapture:
+  description: Design, assumptions, model choice and diagnostics for mark-recapture abundance and survival estimates.
+  topics:
+    - name: Study design and sampling assumptions
+      query: "mark-recapture study design assumptions {species}"
+      why: Estimates are only valid if closure, tag retention and equal-capture assumptions are met or modeled.
+      source_hint: A methods paper or agency protocol describing mark-recapture study design
+    - name: Closed-population models
+      query: "closed population capture-recapture abundance estimator Lincoln-Petersen Schnabel Huggins"
+      why: Chooses between simple and heterogeneity-aware estimators for short sampling windows.
+      source_hint: A primary reference for closed-population estimators (e.g. Otis et al., Huggins)
+    - name: Open-population models and survival
+      query: "open population Cormack-Jolly-Seber Jolly-Seber survival apparent survival"
+      why: Needed when the population changes across occasions or survival is a target.
+      source_hint: A primary reference for CJS or Jolly-Seber models
+    - name: Tag loss and detection
+      query: "PIT tag retention tag loss detection probability {species}"
+      why: Tag loss and imperfect detection bias abundance and survival.
+      source_hint: A tag-retention or detection-probability study for the species or similar fishes
+    - name: Heterogeneity and bias
+      query: "capture heterogeneity trap response bias recapture estimates {species}"
+      why: Unequal capture probability biases estimates low.
+      source_hint: A paper on capture heterogeneity or behavioral response in fish
+    - name: Software and Bayesian implementation
+      query: "Nimble Bayesian mark-recapture MARK RMark software implementation"
+      why: Determines the R packages and checks used in the analysis stage.
+      source_hint: Package documentation or a methods paper using the chosen software
+    - name: Model diagnostics and reporting
+      query: "goodness of fit model selection AIC convergence mark-recapture reporting"
+      why: Defines how fit, selection and uncertainty are checked and reported.
+      source_hint: A paper or guideline on model selection and goodness-of-fit for mark-recapture
+
+cpue-standardization:
+  description: Defining and standardizing catch per unit effort across gear, effort and season.
+  topics:
+    - name: CPUE definition and effort measures
+      query: "catch per unit effort definition effort measure electrofishing {species}"
+      why: CPUE is only comparable if effort is measured consistently.
+      source_hint: An agency protocol or methods paper defining CPUE for the gear used
+    - name: Gear and size selectivity
+      query: "gear selectivity catchability size bias {species}"
+      why: Different gears and sizes are caught at different rates.
+      source_hint: A gear-comparison or selectivity study
+    - name: Standardization models
+      query: "standardizing CPUE generalized linear model GAM delta-lognormal abundance index"
+      why: Chooses the model that removes effects of gear, season and site from the index.
+      source_hint: A methods paper on CPUE standardization
+    - name: Trend estimation and uncertainty
+      query: "relative abundance index trend analysis uncertainty monitoring {species}"
+      why: Determines how trends and their uncertainty are reported.
+      source_hint: A paper or protocol on trend analysis for fish monitoring data

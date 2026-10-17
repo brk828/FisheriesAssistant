@@ -130,7 +130,7 @@ def scaffold(projects_root, folder: str, project_name: str, type_key: str, answe
     for skill in ptype.get("skills", []):
         _write(dest / "skills" / skill / "SKILL.md", f"---\nname: {skill}\nstatus: not generated\n---\n\n# {skill}\n\nNot generated yet.\n")
         _write(dest / "skills" / skill / "references" / ".gitkeep", "")
-    _write(dest / "shared" / "sources.md", "# Sources\n\nSource id | Title | Year | Location\n---|---|---|---\n")
+    _write(dest / "shared" / "sources.md", "# Sources\n\nCanonical bibliography. Cite as [[source_id]] and give the full citation from this table.\n\n| Source id | Citation | Used in |\n| --- | --- | --- |\n\n## External references (not in the brain)\n\n")
     _write(dest / "data" / "raw" / ".gitkeep", "")
     _write(dest / "data" / "models" / ".gitkeep", "")
     _write(dest / "data" / "manifest.yaml", "files: []\n")

@@ -488,3 +488,38 @@ if __name__ == "__main__":
         print(search_brain(" ".join(sys.argv[1:])))
     else:
         build_index()
+
+
+def find_sources(query: str, limit: int = 10, core: str = "") -> list:
+    """Structured source search for building project references. Returns dicts sorted best first:
+    source_id, title, year, cite, short, heading, excerpt, coverage (share of the core terms, default all query terms,
+    found in the title or best chunk), score. Pass `core` to judge relevance on the topic words only (not species or place)."""
+    terms = _terms(query)
+    if not terms:
+        return []
+    match_terms = terms + [a.lower() for a in _expand(query) if a.lower() not in terms]
+    cov_terms = _terms(core) or terms
+    db = _connect()
+    try:
+        best = {}
+        for sid, head, body, score in db.execute(
+            "SELECT source_id, heading, body, bm25(chunks_fts, 0.0, 2.0, 1.0) FROM chunks_fts WHERE chunks_fts MATCH ? ORDER BY 4 LIMIT 200",
+            (_match_expr(match_terms),),
+        ).fetchall():
+            if head == "Metadata" or (sid in best and best[sid][0] <= score):
+                continue
+            best[sid] = (score, head, body)
+        out = []
+        for sid, (score, head, body) in best.items():
+            row = db.execute("SELECT title, year, cite, short FROM sources WHERE source_id=?", (sid,)).fetchone()
+            if not row:
+                continue
+            title, year, cite, short = row
+            hay = f"{title} {body}".lower()
+            coverage = sum(1 for t in cov_terms if all(part in hay for part in re.split(r"[^a-z0-9]+", t) if part)) / len(cov_terms)
+            out.append({"source_id": sid, "title": title, "year": year, "cite": cite, "short": short, "heading": head,
+                        "excerpt": _best_excerpt(body, terms), "coverage": round(coverage, 2), "score": score})
+        out.sort(key=lambda d: (-d["coverage"], d["score"]))
+        return out[:limit]
+    finally:
+        db.close()

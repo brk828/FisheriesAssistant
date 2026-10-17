@@ -1,6 +1,6 @@
 # ICM-Based Project Management: Development Plan
 
-Status: Phase 1 complete (standalone); Phase 2 next.
+Status: Phases 1 and 2 complete (standalone tools, not yet wired into the orchestrator); Phase 3 next.
 
 Done so far (Phase 1):
 - `fisheries_agent/icm_core/`: vendored ICM core (MIT, pinned to upstream commit `02ba5d8`), with `LICENSE` and `UPSTREAM.json`.
@@ -13,7 +13,15 @@ Done so far (Phase 1):
 - `utils/gitsync.py`: `commit_changes` now skips files over a workspace's `git.max_file_mb` and reports them.
 - `tests/test_icm.py`: 15 tests (`python -m unittest tests.test_icm` from `fisheries_agent`).
 
-Phase 1 is complete except for orchestrator and onboarding integration, which is planned for Phase 4. Next: Phase 2 (brain seeding, skills, gap reports).
+Done (Phase 2):
+- `brain_index.find_sources(query, limit, core)`: structured source search. Coverage is judged on the topic words (`core`) so species and place names alone cannot make a source count as relevant.
+- `icm_templates/reference_topics.yaml` and `icm_templates/skills.yaml`: topic outlines (query, why it matters, kind of source needed). They hold no skill content.
+- `utils/icm_seed.py`: `seed` (propose, approve, copy snapshots with hashes in `references/_provenance.json`, write `shared/sources.md` and root `GAPS.md`), `refresh [--apply]`, and `supply` (PDF goes to the ingest inbox; a citation or URL is recorded as an external reference).
+- `utils/icm_skills.py`: LLM drafts each `SKILL.md` from copied evidence only, citation audit (unknown ids removed, uncited statements marked), `skills/<name>/GAPS.md`, `status: draft`, and `status: reviewed` protects a skill from regeneration unless `--force`.
+- `icm_wizard` offers seeding and skill drafting after a project is created.
+- 22 tests in `tests/test_icm.py`.
+
+Not yet done: LLM skill drafts have not been run against a live model, and orchestrator and onboarding integration is planned for Phase 4. Next: Phase 3 (restructuring existing projects).
 
 ## 1. Goal
 
