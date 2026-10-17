@@ -826,10 +826,12 @@ def choose_limit(name: str, chars: int, pages: int, model: str, mode: str = "ask
 SYNC_PATHS = ("00_Fisheries_Brain/01_Sources", "00_Fisheries_Brain/02_Brain", "brain_meta")
 
 
-def sync_to_github(message: str = "Add processed PDFs to the Fisheries Brain") -> bool:
+def sync_to_github(message: str = "Add processed PDFs to the Fisheries Brain", extra_paths: tuple = ()) -> bool:
     """Commits the brain notes, stubs and shared meta files, rebases on the remote, and pushes. Only SYNC_PATHS are
     committed, so unrelated local edits are never swept in. Returns True when the push succeeded."""
     import subprocess
+
+    paths = SYNC_PATHS + tuple(extra_paths)
 
     def git(*a):
         return subprocess.run(["git", *a], cwd=BASE_DIR, capture_output=True, text=True)
@@ -838,11 +840,11 @@ def sync_to_github(message: str = "Add processed PDFs to the Fisheries Brain") -
     if top.returncode:
         print("   Not a git repository; nothing synced.")
         return False
-    git("add", "--", *SYNC_PATHS)
-    if not git("diff", "--cached", "--name-only", "--", *SYNC_PATHS).stdout.strip():
+    git("add", "--", *paths)
+    if not git("diff", "--cached", "--name-only", "--", *paths).stdout.strip():
         print("   Nothing new to commit.")
         return False
-    r = git("commit", "-m", message + "\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>", "--", *SYNC_PATHS)
+    r = git("commit", "-m", message + "\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>", "--", *paths)
     if r.returncode:
         print(f"   Commit failed: {(r.stderr or r.stdout).strip()[:300]}")
         return False

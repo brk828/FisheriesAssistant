@@ -1,0 +1,15 @@
+{
+  "repo": "https://github.com/RinDig/Interpretable-Context-Methodology",
+  "commit": "02ba5d85c7871b75c7c702a2d8da6524723d53d4",
+  "license": "MIT",
+  "credit": "Interpretable Context Methodology, created by Jake Van Clief; copyright Model Workspace Protocol Contributors",
+  "files": {
+    "LICENSE": "LICENSE",
+    "_core": "_core",
+    "workspace-builder/CONTEXT.md": "workspaces/workspace-builder/CONTEXT.md",
+    "workspace-builder/CLAUDE.md": "workspaces/workspace-builder/CLAUDE.md",
+    "workspace-builder/setup": "workspaces/workspace-builder/setup",
+    "workspace-builder/stages": "workspaces/workspace-builder/stages",
+    "workspace-builder/references/conventions-reference.md": "workspaces/workspace-builder/references/conventions-reference.md"
+  }
+}

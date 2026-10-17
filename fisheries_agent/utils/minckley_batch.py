@@ -150,6 +150,7 @@ def wait_and_finish(state: dict) -> None:
     print(f"Recorded {len(ok)} MIDs in {DONE_CSV.name}.")
     state.pop("batch")
     _save_json(STATE_PATH, state)
+    pdf_ingest.sync_to_github("Update processed Minckley MIDs", extra_paths=(DONE_CSV.relative_to(pdf_ingest.BASE_DIR).as_posix(),))
 
 
 def _clamp(n: int) -> int:

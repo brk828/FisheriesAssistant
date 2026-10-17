@@ -1,0 +1,228 @@
+# Fixed stage trees per project type. The scaffold writer copies these exactly, so every project of a type has
+# the same folders. The LLM fills in project-specific routing and skills, never the tree (except type "custom").
+# Per stage: slug (folder under stages/), title, purpose, inputs (rows of [source, location, scope, why]),
+# process (numbered steps), outputs (rows of [artifact, location, format]),
+# checkpoint (optional [after step, agent presents, human decides]), audit (optional rows of [check, pass condition]).
+
+mark_recapture:
+  title: Mark-recapture / abundance estimation
+  suggest_if: [mark-recapture, mark recapture, capture-recapture, abundance, population estimate, pit tag, cjs, nimble]
+  skills: [mark-recapture]
+  stages:
+    - slug: 01-data-prep
+      title: Data preparation
+      purpose: Turn raw capture and detection records into clean capture histories.
+      inputs:
+        - [Raw data, "../../data/manifest.yaml", Listed files only, Linked source records]
+      process:
+        - Read data/manifest.yaml and confirm each linked file is unchanged.
+        - Profile the raw records (columns, ranges, duplicates, missing tags).
+        - Build capture histories and a data-quality note.
+        - Save to output/.
+      outputs:
+        - [Capture histories, "output/capture-histories.csv", One row per individual and one column per occasion]
+        - [Data-quality note, "output/data-quality.md", Markdown]
+      checkpoint: [3, Data-quality findings and proposed cleaning rules, Which rules to apply]
+      audit:
+        - [Tag integrity, No duplicate tag in conflicting states]
+        - [Occasions, Every record maps to a defined sampling occasion]
+    - slug: 02-model-design
+      title: Model design
+      purpose: Choose the model and write an analysis plan for approval.
+      inputs:
+        - [Previous stage, "../01-data-prep/output/", Full folder, Clean capture histories]
+        - [Skill, "../../skills/mark-recapture/SKILL.md", Model selection and assumptions, Method guidance]
+      process:
+        - Summarize the design (closed or open population, covariates, effort).
+        - Propose candidate models with assumptions and cited justification.
+        - Write the analysis plan and stop for approval.
+      outputs:
+        - [Analysis plan, "output/analysis-plan.md", Markdown with model list and sources]
+      checkpoint: [3, Candidate models and assumptions, Approve or change the plan]
+      audit:
+        - [Citations, Every model choice cites a source in references/ or is marked unsourced]
+    - slug: 03-analysis
+      title: Analysis
+      purpose: Run the approved plan in R and collect results.
+      inputs:
+        - [Previous stage, "../02-model-design/output/analysis-plan.md", Full file, Approved plan]
+        - [Data, "../01-data-prep/output/capture-histories.csv", Full file, Model input]
+      process:
+        - Generate the R script from the approved plan.
+        - Run it through the R agent after the user approves the run.
+        - Store large fits in data/models/ and save summaries and diagnostics to output/.
+      outputs:
+        - [Results tables, "output/results.csv", Estimates with intervals]
+        - [Diagnostics, "output/diagnostics.md", Convergence and fit notes]
+      audit:
+        - [Convergence, Diagnostics reported for every fitted model]
+    - slug: 04-review
+      title: Review
+      purpose: Check results against the plan and the literature.
+      inputs:
+        - [Results, "../03-analysis/output/", Full folder, Results and diagnostics]
+      process:
+        - Compare results with the plan and with published estimates in references/.
+        - List caveats and unresolved issues.
+      outputs:
+        - [Review notes, "output/review.md", Markdown]
+      checkpoint: [2, Issues found, Accept or rerun analysis]
+    - slug: 05-report
+      title: Report
+      purpose: Write the report from reviewed results.
+      inputs:
+        - [Review, "../04-review/output/review.md", Full file, Accepted findings]
+        - [Results, "../03-analysis/output/results.csv", Full file, Numbers to report]
+      process:
+        - Draft the report with citations from shared/sources.md.
+        - Save to output/.
+      outputs:
+        - [Report, "output/report.md", Markdown (Quarto or RMarkdown on request)]
+      audit:
+        - [Numbers, Every reported value matches results.csv]
+
+monitoring_cpue:
+  title: Monitoring and CPUE trends
+  suggest_if: [cpue, catch per unit effort, monitoring, electrofishing, trend, relative abundance, index]
+  skills: [cpue-standardization]
+  stages:
+    - slug: 01-data-prep
+      title: Data preparation
+      purpose: Clean catch and effort records.
+      inputs:
+        - [Raw data, "../../data/manifest.yaml", Listed files only, Linked source records]
+      process:
+        - Confirm linked files are unchanged.
+        - Profile catch, effort, gear and site fields.
+        - Build a clean catch-and-effort table and a data-quality note.
+      outputs:
+        - [Catch and effort, "output/catch-effort.csv", One row per sample]
+        - [Data-quality note, "output/data-quality.md", Markdown]
+      checkpoint: [3, Data-quality findings, Which cleaning rules to apply]
+    - slug: 02-standardization
+      title: Standardization
+      purpose: Plan how CPUE is standardized across gear, effort and season.
+      inputs:
+        - [Previous stage, "../01-data-prep/output/", Full folder, Clean data]
+        - [Skill, "../../skills/cpue-standardization/SKILL.md", Method choices, Method guidance]
+      process:
+        - Propose the CPUE definition and standardization model with cited justification.
+        - Write the plan and stop for approval.
+      outputs:
+        - [Analysis plan, "output/analysis-plan.md", Markdown]
+      checkpoint: [2, Proposed model, Approve or change]
+    - slug: 03-analysis
+      title: Analysis
+      purpose: Run the approved plan in R.
+      inputs:
+        - [Plan, "../02-standardization/output/analysis-plan.md", Full file, Approved plan]
+        - [Data, "../01-data-prep/output/catch-effort.csv", Full file, Model input]
+      process:
+        - Generate the R script and, after approval, run it.
+        - Save trend estimates and diagnostics.
+      outputs:
+        - [Trend estimates, "output/trends.csv", Index by year with intervals]
+        - [Diagnostics, "output/diagnostics.md", Markdown]
+    - slug: 04-report
+      title: Report
+      purpose: Write up the trends.
+      inputs:
+        - [Analysis, "../03-analysis/output/", Full folder, Results]
+      process:
+        - Draft the report with citations from shared/sources.md.
+      outputs:
+        - [Report, "output/report.md", Markdown]
+      audit:
+        - [Numbers, Every reported value matches trends.csv]
+
+literature_synthesis:
+  title: Literature synthesis
+  suggest_if: [literature, review, synthesis, state of knowledge, background, annotated bibliography]
+  skills: []
+  stages:
+    - slug: 01-question
+      title: Question
+      purpose: Define the question, scope and inclusion rules.
+      inputs: []
+      process:
+        - Restate the question and its scope (species, region, time span).
+        - List sub-questions and inclusion rules.
+      outputs:
+        - [Scope, "output/scope.md", Markdown]
+      checkpoint: [2, Draft scope, Approve or narrow]
+    - slug: 02-evidence
+      title: Evidence
+      purpose: Collect and tabulate evidence from references.
+      inputs:
+        - [Previous stage, "../01-question/output/scope.md", Full file, Scope]
+        - [Sources, "references/", Matching notes, Evidence]
+      process:
+        - Pull evidence per sub-question with source ids.
+        - Record gaps where no source was found.
+      outputs:
+        - [Evidence table, "output/evidence.md", Table of claim, source id and quote]
+    - slug: 03-synthesis
+      title: Synthesis
+      purpose: Combine evidence into findings.
+      inputs:
+        - [Previous stage, "../02-evidence/output/evidence.md", Full file, Evidence]
+      process:
+        - Group findings by sub-question, noting agreement and conflict.
+      outputs:
+        - [Findings, "output/findings.md", Markdown]
+      audit:
+        - [Citations, Every finding cites at least one source id]
+    - slug: 04-draft
+      title: Draft
+      purpose: Write the synthesis document.
+      inputs:
+        - [Findings, "../03-synthesis/output/findings.md", Full file, Findings]
+      process:
+        - Draft the document with citations from shared/sources.md.
+      outputs:
+        - [Draft, "output/draft.md", Markdown]
+
+report:
+  title: Report or manuscript
+  suggest_if: [report, manuscript, paper, summary report, annual report, presentation]
+  skills: []
+  stages:
+    - slug: 01-outline
+      title: Outline
+      purpose: Agree the structure and key messages.
+      inputs: []
+      process:
+        - Propose an outline from the project goal and available material.
+      outputs:
+        - [Outline, "output/outline.md", Markdown]
+      checkpoint: [1, Proposed outline, Approve or reorder]
+    - slug: 02-draft
+      title: Draft
+      purpose: Write the first full draft.
+      inputs:
+        - [Previous stage, "../01-outline/output/outline.md", Full file, Outline]
+      process:
+        - Draft each section with citations from shared/sources.md.
+      outputs:
+        - [Draft, "output/draft.md", Markdown]
+    - slug: 03-review
+      title: Review
+      purpose: Check accuracy, citations and clarity.
+      inputs:
+        - [Previous stage, "../02-draft/output/draft.md", Full file, Draft]
+      process:
+        - Check numbers and citations and list changes.
+      outputs:
+        - [Review notes, "output/review.md", Markdown]
+      audit:
+        - [Citations, Every cited source exists in shared/sources.md]
+    - slug: 04-final
+      title: Final
+      purpose: Produce the final version.
+      inputs:
+        - [Draft, "../02-draft/output/draft.md", Full file, Draft]
+        - [Review, "../03-review/output/review.md", Full file, Changes to apply]
+      process:
+        - Apply accepted changes and save the final version.
+      outputs:
+        - [Final, "output/final.md", Markdown]
