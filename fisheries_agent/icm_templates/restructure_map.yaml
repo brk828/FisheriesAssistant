@@ -1,0 +1,28 @@
+# Where copied files from an existing project go, per project type. Keys are file categories found by the
+# restructure scan: script, results, doc, other (small text files are copied), plus data, model and report,
+# which are linked by path (data and model files live in data/, never in stages).
+# Value: the stage slug whose references/legacy/ folder receives the copies. "legacy" means legacy/files/ at the root.
+
+mark_recapture:
+  script: 03-analysis
+  results: 04-review
+  doc: legacy
+  other: legacy
+
+monitoring_cpue:
+  script: 03-analysis
+  results: 03-analysis
+  doc: legacy
+  other: legacy
+
+literature_synthesis:
+  script: legacy
+  results: 03-synthesis
+  doc: 02-evidence
+  other: legacy
+
+report:
+  script: legacy
+  results: 02-draft
+  doc: 02-draft
+  other: legacy

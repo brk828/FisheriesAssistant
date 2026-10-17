@@ -6,7 +6,7 @@
 
 mark_recapture:
   title: Mark-recapture / abundance estimation
-  suggest_if: [mark-recapture, mark recapture, capture-recapture, abundance, population estimate, pit tag, cjs, nimble]
+  suggest_if: [mark-recapture, mark recapture, capture-recapture, abundance, population estimate, pit tag, cjs, nimble, rmark, rcapture]
   skills: [mark-recapture]
   stages:
     - slug: 01-data-prep

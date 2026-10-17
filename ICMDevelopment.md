@@ -1,6 +1,6 @@
 # ICM-Based Project Management: Development Plan
 
-Status: Phases 1 and 2 complete (standalone tools, not yet wired into the orchestrator); Phase 3 next.
+Status: Phases 1-3 complete (standalone tools, not yet wired into the orchestrator); Phase 4 next.
 
 Done so far (Phase 1):
 - `fisheries_agent/icm_core/`: vendored ICM core (MIT, pinned to upstream commit `02ba5d8`), with `LICENSE` and `UPSTREAM.json`.
@@ -21,7 +21,7 @@ Done (Phase 2):
 - `icm_wizard` offers seeding and skill drafting after a project is created.
 - 22 tests in `tests/test_icm.py`.
 
-Not yet done: LLM skill drafts have not been run against a live model, and orchestrator and onboarding integration is planned for Phase 4. Next: Phase 3 (restructuring existing projects).
+Not yet done: LLM skill drafts have not been run against a live model, and orchestrator and onboarding integration is planned for Phase 4. Phase 3 (restructuring) is done: `python -m utils.icm_restructure <folder> [--dry-run] [--copy-small-data]`, with `utils/icm_data.py` for the size+mtime linked-file checks. Next: Phase 4.
 
 ## 1. Goal
 

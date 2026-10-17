@@ -8,6 +8,9 @@ import json
 import sqlite3
 
 from utils import brain_index, gitsync, icm_git, icm_scaffold, icm_seed, icm_skills, icm_validate, icm_wizard
+from utils import icm_data, icm_restructure
+import hashlib
+import os
 
 
 class FolderNameTests(unittest.TestCase):
@@ -255,6 +258,63 @@ class FindSourcesTests(unittest.TestCase):
                 self.assertEqual(brain_index.find_sources("the of", 5), [])
         finally:
             Path(db_file.name).unlink(missing_ok=True)
+
+
+class RestructureTests(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        base = Path(self.tmp.name)
+        self.src = base / "projects" / "Pikeminnow"
+        self.root = base / "projects"
+        for rel, data in {"analysis/fit.R": b"library(marked)\nlibrary(nimble)\n", "data/caps.csv": b"a,b\n1,2\n",
+                          "out/model.rds": b"x" * 100, "notes.md": b"# notes\n", ".env": b"KEY=1", "report.docx": b"d",
+                          "fig.png": b"p", ".git/config": b"c", "results/summary_table.csv": b"s\n"}.items():
+            f = self.src / rel
+            f.parent.mkdir(parents=True, exist_ok=True)
+            f.write_bytes(data)
+
+    def tearDown(self):
+        self.tmp.cleanup()
+
+    def digest(self):
+        h = hashlib.sha256()
+        for r, _, fs in sorted(os.walk(self.src)):
+            for n in sorted(fs):
+                h.update(n.encode() + (Path(r) / n).read_bytes())
+        return h.hexdigest()
+
+    def test_restructure_end_to_end(self):
+        before = self.digest()
+        plan = icm_restructure.build_plan(self.src, "mark_recapture")
+        dest = icm_restructure.execute(plan, self.root, "Pikeminnow", folder="Pikeminnow_icm")
+        self.assertEqual(self.digest(), before)
+        self.assertEqual(dest.name, "Pikeminnow_icm")
+        acts = {e["rel"]: e["action"] for e in plan["entries"]}
+        self.assertEqual(acts["analysis/fit.R"], "copy")
+        self.assertEqual(acts["data/caps.csv"], "link")
+        self.assertEqual(acts["out/model.rds"], "link")
+        self.assertEqual(acts[".env"], "skip")
+        self.assertEqual(acts["fig.png"], "skip")
+        self.assertFalse(any(dest.rglob(".env")))
+        self.assertFalse(any("caps.csv" in str(p) for p in dest.rglob("*") if p.is_file() and "manifest" not in p.name and "MIGRATION" not in p.name))
+        self.assertEqual(icm_validate.validate(dest), [])
+        self.assertEqual([c for c in icm_data.check(dest) if c["status"] != "ok"], [])
+        (self.src / "data" / "caps.csv").write_bytes(b"a,b\n9,9,9\n")
+        (self.src / "out" / "model.rds").unlink()
+        st = {c["path"]: c["status"] for c in icm_data.check(dest)}
+        self.assertEqual(st[str(self.src / "data" / "caps.csv")], "changed")
+        self.assertEqual(st[str(self.src / "out" / "model.rds")], "missing")
+
+    def test_guards_and_dry_plan(self):
+        plan = icm_restructure.build_plan(self.src, "mark_recapture")
+        self.assertEqual(list(self.root.glob("*_icm")), [])
+        dest = icm_restructure.execute(plan, self.root, "Pikeminnow", folder="Pikeminnow_icm")
+        with self.assertRaises(FileExistsError):
+            icm_restructure.execute(plan, self.root, "Pikeminnow", folder="Pikeminnow_icm")
+        with self.assertRaises(ValueError):
+            icm_restructure.execute(icm_restructure.build_plan(dest, "mark_recapture"), self.root, "x", folder="y_icm")
+        with self.assertRaises(ValueError):
+            icm_restructure.execute(plan, self.src, "Pikeminnow", folder="inner_icm")
 
 
 if __name__ == "__main__":

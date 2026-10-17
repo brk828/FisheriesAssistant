@@ -106,7 +106,7 @@ def _write(path: Path, text: str) -> None:
 
 
 def scaffold(projects_root, folder: str, project_name: str, type_key: str, answers: dict = None,
-             git_cfg: dict = None, routing: str = None, profile: str = None) -> Path:
+             git_cfg: dict = None, routing: str = None, profile: str = None, legacy: dict = None) -> Path:
     """Creates the workspace under projects_root/folder. Raises FileExistsError rather than overwrite."""
     types = load_types()
     if type_key not in types:
@@ -121,7 +121,8 @@ def scaffold(projects_root, folder: str, project_name: str, type_key: str, answe
     _write(dest / "CONTEXT.md", root_context(project_name, ptype))
     _write(dest / "_config" / "project.yaml", yaml.safe_dump({
         "name": project_name, "type": type_key, "folder": folder,
-        "answers": answers or {}, "git": git_cfg or icm_git.settings(False)}, sort_keys=False))
+        "answers": answers or {}, "git": git_cfg or icm_git.settings(False),
+        **({"legacy": legacy} if legacy else {})}, sort_keys=False))
     for s in ptype["stages"]:
         base = dest / "stages" / s["slug"]
         _write(base / "CONTEXT.md", stage_context(s))

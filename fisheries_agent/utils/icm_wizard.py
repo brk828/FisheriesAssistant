@@ -146,6 +146,19 @@ def show_tree(type_key: str, folder: str) -> None:
     print("  skills/ shared/ data/ (not versioned)")
 
 
+def offer_seeding(dest, ptype: dict, llm=None) -> None:
+    if ask_yes_no("Seed references and draft skills from the Fisheries Brain now?", True):
+        from utils import icm_seed, icm_skills
+        r = icm_seed.seed(dest, approve=icm_seed.prompt_approve)
+        print(f"Copied {r['copied']} reference note(s); {r['gaps']} gap(s) listed in GAPS.md.")
+        llm = llm if llm is not None else make_llm()
+        if llm is None:
+            print("No OPENROUTER_API_KEY configured; skill drafts were skipped (run python -m utils.icm_skills later).")
+        for skill in ptype.get("skills", []):
+            res = icm_skills.generate(dest, skill, llm, approve=icm_seed.prompt_approve)
+            print(f"Skill {skill}: {res['status']}, {res['gaps']} gap(s) (see skills/{skill}/GAPS.md)")
+
+
 def run(llm=None, root: Path = None) -> Path:
     root = root or projects_root()
     if not PROFILE_PATH.is_file() or not PROFILE_PATH.read_text(encoding="utf-8").strip():
@@ -170,16 +183,7 @@ def run(llm=None, root: Path = None) -> Path:
     print(f"Created {dest}")
     if git_cfg["enabled"]:
         print("Git repository initialized; large files and data/ are ignored.")
-    if ask_yes_no("Seed references and draft skills from the Fisheries Brain now?", True):
-        from utils import icm_seed, icm_skills
-        r = icm_seed.seed(dest, approve=icm_seed.prompt_approve)
-        print(f"Copied {r['copied']} reference note(s); {r['gaps']} gap(s) listed in GAPS.md.")
-        llm = llm if llm is not None else make_llm()
-        if llm is None:
-            print("No OPENROUTER_API_KEY configured; skill drafts were skipped (run python -m utils.icm_skills later).")
-        for skill in ptype.get("skills", []):
-            res = icm_skills.generate(dest, skill, llm, approve=icm_seed.prompt_approve)
-            print(f"Skill {skill}: {res['status']}, {res['gaps']} gap(s) (see skills/{skill}/GAPS.md)")
+    offer_seeding(dest, ptype, llm)
     return dest
 
 
