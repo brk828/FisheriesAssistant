@@ -23,6 +23,12 @@ Shortnose sturgeon (Acipenser brevirostrum) is a benthic anadromous fish species
 > This station profile describes the **Edenton National Fish Hatchery**, a U.S. Fish and Wildlife Service facility established in 1899 and operating under the authority of the [[Fish and Wildlife Act of 1956]] (70 Stat. 1119) and subsequent appropriations legislation (71 Stat. 26). Located in Edent...
 > -- *[[StationProfileOfEdentonNationa_19560]]*
 
+> This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
+> -- *[[UnitedStatesListOfEndangeredFa_11533]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[EstimatingTheProbabilityThatHi_1998]]
 - [[FishDistributionNumbersAndWeig_1992]]
@@ -32,3 +38,5 @@ Shortnose sturgeon (Acipenser brevirostrum) is a benthic anadromous fish species
 - [[StationProfileOfEdentonNationa_19560]]
 - [[StationProfileOfOrangeburgNati_19526]]
 - [[Status of Atlantic, Acipenser oxyrhynchus, and Shortnose, A. brevirostrum, Sturgeons in North Carolina (Pisces, Acipense]]
+- [[UnitedStatesListOfEndangeredFa_11533]]
+- [[ProvisionalChecklistOfCanadian_21104]]

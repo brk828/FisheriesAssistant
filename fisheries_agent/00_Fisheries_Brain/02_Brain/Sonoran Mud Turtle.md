@@ -17,6 +17,9 @@ The Sonoran Mud Turtle (Kinosternon sonoriense) is a small, semi-aquatic cheloni
 > This preliminary report presents five years (1990–1994) of mark-recapture data on an isolated population of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense*) in the [[Chiricahua Mountains]] of southeastern Arizona, focused on the West Turkey Creek (WTC) drainage and associated stock tanks. Re...
 > -- *[[LifeHistoryAndEcologyOfTheSono_1997]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
 ## Mentioned In
 - [[CrayfishImpactsOnWetlandHerps_1993_10_10]]
 - [[FossilCreekTrammelNetSampling_2000_09_29]]
@@ -26,3 +29,4 @@ The Sonoran Mud Turtle (Kinosternon sonoriense) is a small, semi-aquatic cheloni
 - [[ProposalToRenovateFinleyTankNa_1988_12_20]]
 - [[StatusOfPoeciliopsisOOccidenta_1984_07_25]]
 - [[TripReportQuitobaquitoSpringMa_1995_05_08]]
+- [[LowerColoradoRiverMultispecies_11766]]

@@ -53,6 +53,15 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 > This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
 > -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
+> This completion report (Project F-7-R-4, Work Plan 4, Job A-1) documents a comprehensive fisheries investigation of backwater lakes along the [[Lower Colorado River]] within the [[Imperial National Wildlife Refuge]], Arizona, conducted from January 16 to October 15, 1961. The study aimed to...
+> -- *[[ABasicSurveyOfWatersInDistrict_14982]]*
+
+> This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
+> -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -127,3 +136,6 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[RazorbackSuckerMonitoringEffor_13702]]
 - [[ResultsOfAnOpeningWeekCreelCen_17745]]
+- [[WhatHaveICaught_12929]]
+- [[ABasicSurveyOfWatersInDistrict_14982]]
+- [[OutlineOfSanBernardinoRanchMan_20829]]

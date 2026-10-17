@@ -41,6 +41,12 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
 > -- *[[WrittenCommentsOnDraftBiologic_20522]]*
 
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
+> This genetic survey assessed mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations (226 specimens) and one captive stock at [[Dexter National Fish Hatchery]] (33 specimens). Using PCR-SSCP analysis of the mitochondrial ND2 gene and D-loop sequencing, the study...
+> -- *[[GeneticVariationInDesertPupfis_15731]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AnalysisOfPenaeidShrimpLanding_16892]]
@@ -61,3 +67,5 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[SummaryOfEvents_18368]]
 - [[WrittenCommentsOnDraftBiologic_20522]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[GeneticVariationInDesertPupfis_15731]]

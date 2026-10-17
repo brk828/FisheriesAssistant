@@ -17,6 +17,10 @@ auto_enriched: true
 > - **Comparative Lake Quality:** Among Imperial Refuge lakes, [[Martinez Lake]] was assessed as having the most favorable limnological/biological conditions, followed by No Name #1 and No Name #2.
 > -- *[[ProgressReportLowerColoradoRiv_14984]]*
 
+> This completion report (Project F-7-R-4, Work Plan 4, Job A-1) documents a comprehensive fisheries investigation of backwater lakes along the [[Lower Colorado River]] within the [[Imperial National Wildlife Refuge]], Arizona, conducted from January 16 to October 15, 1961. The study aimed to...
+> -- *[[ABasicSurveyOfWatersInDistrict_14982]]*
+
 ## Mentioned In
 - [[HabitatUseByRazorbackSuckersRe_1995]]
 - [[ProgressReportLowerColoradoRiv_14984]]
+- [[ABasicSurveyOfWatersInDistrict_14982]]

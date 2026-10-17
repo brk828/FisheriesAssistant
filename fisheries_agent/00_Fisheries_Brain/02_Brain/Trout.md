@@ -26,6 +26,9 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
 > -- *[[Perch_16750]]*
 
+> This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
+> -- *[[RoughFishControl_20167]]*
+
 ## Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -54,3 +57,4 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
 - [[TheSmeltOsmerusMordaxMitchill_13092]]
 - [[Perch_16750]]
+- [[RoughFishControl_20167]]

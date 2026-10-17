@@ -29,6 +29,9 @@ The Creek Chub (*Semotilus atromaculatus*) is a cyprinid minnow that functions a
 > This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
 > -- *[[SomeObservationsOnTheReclamati_15490]]*
 
+> This technical report from the Michigan Department of Conservation Institute for Fisheries Research provides comprehensive guidance on the biology, ecology, and commercial culture of minnows (family [[Cyprinidae]]) in Michigan waters. The [[Cyprinidae]] is one of the largest fish families globally,...
+> -- *[[MinnowsCyprinidae_17384]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -51,3 +54,4 @@ The Creek Chub (*Semotilus atromaculatus*) is a cyprinid minnow that functions a
 - [[VariabilityOfInfectionOfBlackS_1959]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[SomeObservationsOnTheReclamati_15490]]
+- [[MinnowsCyprinidae_17384]]

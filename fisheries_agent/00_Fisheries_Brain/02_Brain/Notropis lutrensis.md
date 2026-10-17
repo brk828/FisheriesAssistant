@@ -47,6 +47,9 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 > This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
 > -- *[[WoundfinPlagopterusArgentissim_14022]]*
 
+> This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
+> -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -72,3 +75,4 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[WoundfinPlagopterusArgentissim_14022]]
+- [[ListOfFishesKnownOrExpectedToB_14196]]

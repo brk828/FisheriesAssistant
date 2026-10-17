@@ -20,9 +20,13 @@ The Amargosa River is a closed-basin desert stream system in the Death Valley re
 > This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
 > -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
 
+> This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
+> -- *[[FishesAndAquaticResourcesOfThe_15407]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[EndangeredPupfishOfDevilsHoleG_11403]]
 - [[GeneticDivergenceAnd_1972]]
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[FishesAndAquaticResourcesOfThe_15407]]

@@ -38,6 +38,12 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 > This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
 > -- *[[SomeObservationsOnTheReclamati_15490]]*
 
+> This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
+> -- *[[DraftdistributionAndIncidenceO_12207]]*
+
+> This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
+> -- *[[PrelimaryObservationsOnTheToxi_14434]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -73,3 +79,5 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[SomeObservationsOnTheReclamati_15490]]
+- [[DraftdistributionAndIncidenceO_12207]]
+- [[PrelimaryObservationsOnTheToxi_14434]]

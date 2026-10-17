@@ -17,8 +17,12 @@ The University of Nevada Las Vegas serves as an important academic institution s
 > This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
 > -- *[[BiologicalAssessmentOfTheImpac_16261]]*
 
+> This correspondence between Dr. James E. Deacon ([[University of Nevada Las Vegas]]) and Dr. Robert R. Miller ([[University of Michigan]]) concerns the identification of a [[Gila]] specimen collected from [[Shingumu Creek]] on August 1, 1975. The specimen was tentatively identified as [[Gila...
+> -- *[[PictureAndInformationOnGilaTak_13997]]*
+
 ## Mentioned In
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
 - [[RazorbackSuckersInLakeMead_1990_05_07]]
 - [[RosterLowerBasinRecoveryImplem_21095]]
 - [[BiologicalAssessmentOfTheImpac_16261]]
+- [[PictureAndInformationOnGilaTak_13997]]

@@ -110,6 +110,39 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 > This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
 > -- *[[RainbowSmeltProposallakePowell_21115]]*
 
+> This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
+> -- *[[LetterOnImplementationCommitte_11623]]*
+
+> This document comprises formal comments submitted by the [[Southern Nevada Water Authority]] (SNWA) to the [[U.S. Bureau of Reclamation]] regarding the [[Fish and Wildlife Service]] Final Biological and Conference Opinion on [[Lower Colorado River]] Operations and Maintenance from [[Lake Mead]] to...
+> -- *[[CommentsOnBiologicalAndConfere_11800]]*
+
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
+> This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
+> -- *[[ConcernsAboutIntroductionOfRai_13174]]*
+
+> This 1989 memorandum from the U.S. Fish and Wildlife Service transmits interim streamflow recommendations for the [[Yampa River]] to protect four rare and endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila...
+> -- *[[StreamflowNeedsOfRareAndEndang_14141]]*
+
+> This document outlines a comprehensive research proposal by Wayne C. Starnes ([[Smithsonian Institution]]) to address taxonomic and genetic questions regarding [[Gila]] species in the [[Colorado River]] basin under a cooperative agreement with [[USFWS]]. The project aims to resolve the taxonomic...
+> -- *[[GilaTaxonomyProjectIssuesAndPr_14720]]*
+
+> This paper examines the dramatic decline of aquatic habitats and native fishes in the arid American Southwest over the past half century. Physical habitat changes from dams, diversions, channelization, and stream drying, combined with extensive introduction of non-native fish species, have severely...
+> -- *[[DecliningSouthwesternAquaticHa_15002]]*
+
+> This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
+> -- *[[CommentsOnTheBiologicalOpinion_17166]]*
+
+> This memorandum and Federal Register notice document the extension of the public comment period for the proposed critical habitat designation for four endangered fish species in the [[Colorado River Basin]]: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[ExtensionOfPublicCommentPeriod_17380]]*
+
+> This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
+> -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
+
+> This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
+> -- *[[SummaryjanuaryManagementGroupM_21002]]*
+
 ## Mentioned In
 - [[ANonLethalStomachPumpingTechni_14917]]
 - [[ANonlethalTechniqueToRecoverGu_1994]]
@@ -403,3 +436,14 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
 - [[WrittenCommentsOnDraftBiologic_20522]]
 - [[RainbowSmeltProposallakePowell_21115]]
+- [[LetterOnImplementationCommitte_11623]]
+- [[CommentsOnBiologicalAndConfere_11800]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[ConcernsAboutIntroductionOfRai_13174]]
+- [[StreamflowNeedsOfRareAndEndang_14141]]
+- [[GilaTaxonomyProjectIssuesAndPr_14720]]
+- [[DecliningSouthwesternAquaticHa_15002]]
+- [[CommentsOnTheBiologicalOpinion_17166]]
+- [[ExtensionOfPublicCommentPeriod_17380]]
+- [[OutlineOfSanBernardinoRanchMan_20829]]
+- [[SummaryjanuaryManagementGroupM_21002]]

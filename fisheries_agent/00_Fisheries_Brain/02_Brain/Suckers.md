@@ -26,6 +26,9 @@ Suckers (family Catostomidae) are freshwater fishes native to North America and 
 > **Primary Sampling Purpose**: This document provides comprehensive methodological guidance for morphological characterization of fishes for taxonomic and systematic studies. The primary purpose is to describe standardized protocols for measuring, counting, photographing, and analyzing morphological...
 > -- *[[TaxonomicMethodsMorphology_1990]]*
 
+> This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
+> -- *[[RoughFishControl_20167]]*
+
 ## Mentioned In
 - [[BattleAgainstExtinctionNativeF_17606]]
 - [[EffectsOfAntimycinAOnTissueRes_11530]]
@@ -33,3 +36,4 @@ Suckers (family Catostomidae) are freshwater fishes native to North America and 
 - [[RecommendationForAHighDischarg_1993_07_19]]
 - [[UsFishAndWildlifeServiceMeetin_15771]]
 - [[TaxonomicMethodsMorphology_1990]]
+- [[RoughFishControl_20167]]

@@ -11,6 +11,10 @@ auto_enriched: true
 > This comparative taxonomic study examines seven populations of freshwater-to-miohaline amphipods from the [[Gammarus-Pecos Complex]] inhabiting springs and streams in areas of Texas and New Mexico once overlain by [[Permian Seas]]. The study includes three described species—[[Gammarus Pecos]],...
 > -- *[[TheGammaruspecosComplexCrustac_16002]]*
 
+> This study documents temporal changes in a long-standing hybrid swarm between the endangered endemic [[Gambusia heterochir]] (Clear Creek Gambusia) and [[Gambusia affinis]] (Western Mosquitofish) in [[Clear Creek]], [[Menard County]], Texas, following reconstruction of the uppermost dam in 1979....
+> -- *[[TemporalChangesInTheGambusiaHe_15772]]*
+
 ## Mentioned In
 - [[AspectsOfTheThermalEcologyOfCy_13860]]
 - [[TheGammaruspecosComplexCrustac_16002]]
+- [[TemporalChangesInTheGambusiaHe_15772]]

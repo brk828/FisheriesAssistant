@@ -23,6 +23,9 @@ Potameton pectinatus, commonly known as fennel pondweed, is a submerged aquatic 
 > This 1962 study by Hynes & Roberts examined the biological effects of synthetic detergent (ABS) pollution in the River Lee, Hertfordshire, a river almost entirely composed of sewage effluent from Luton (and, to a lesser extent, Harpenden). Between 1950 and 1961, detergent concentrations in the ef...
 > -- *[[TheBiologicalEffectsOfSyntheti_1962]]*
 
+> This paper describes research conducted at the [[Water Pollution Research Laboratory]] in Stevenage, England, examining how rooted aquatic plants and benthic macro-invertebrates affect the oxygen balance in small streams. The study develops and applies methods for measuring photosynthesis,...
+> -- *[[SomeEffectsOfPlantsAndAnimalsO_15778]]*
+
 ## Mentioned In
 - [[AModelForQuantitativeStudiesOf_1966_05_05]]
 - [[AquaticMacrophytesAndTheOxygen_12171]]
@@ -33,3 +36,4 @@ Potameton pectinatus, commonly known as fennel pondweed, is a submerged aquatic 
 - [[TheEffectsOfBiologicalCommunit_12165]]
 - [[TheEffectsOfOrganismsOnPolluti_12169]]
 - [[TheLightClimateForPlantsInRive_12168]]
+- [[SomeEffectsOfPlantsAndAnimalsO_15778]]

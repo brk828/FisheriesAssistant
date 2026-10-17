@@ -68,6 +68,18 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
 > -- *[[RainbowSmeltProposallakePowell_21115]]*
 
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
+> This paper examines the dramatic decline of aquatic habitats and native fishes in the arid American Southwest over the past half century. Physical habitat changes from dams, diversions, channelization, and stream drying, combined with extensive introduction of non-native fish species, have severely...
+> -- *[[DecliningSouthwesternAquaticHa_15002]]*
+
+> This genetic survey assessed mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations (226 specimens) and one captive stock at [[Dexter National Fish Hatchery]] (33 specimens). Using PCR-SSCP analysis of the mitochondrial ND2 gene and D-loop sequencing, the study...
+> -- *[[GeneticVariationInDesertPupfis_15731]]*
+
+> This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
+> -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -251,3 +263,7 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[FishMonitoringOfPalmLakeHassay_16635]]
 - [[WrittenCommentsOnDraftBiologic_20522]]
 - [[RainbowSmeltProposallakePowell_21115]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[DecliningSouthwesternAquaticHa_15002]]
+- [[GeneticVariationInDesertPupfis_15731]]
+- [[NoticeOfIntentToFileTwoLawsuit_18970]]

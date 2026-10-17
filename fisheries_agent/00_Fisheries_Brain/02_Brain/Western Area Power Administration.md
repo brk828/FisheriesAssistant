@@ -41,6 +41,9 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 > These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
 > -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
 
+> This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
+> -- *[[SummaryjanuaryManagementGroupM_21002]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[ErrataSheetFyWorkPlanForTheRec_20993]]
@@ -55,3 +58,4 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[EndangeredAndThreatenedWildlif_11580]]
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
+- [[SummaryjanuaryManagementGroupM_21002]]

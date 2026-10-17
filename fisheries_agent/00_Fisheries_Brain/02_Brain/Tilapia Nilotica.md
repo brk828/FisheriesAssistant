@@ -14,9 +14,13 @@ Tilapia nilotica, commonly known as the Nile tilapia, is a highly adaptable cich
 > - **[[Barbus neumayeri]]** (syn. *Barbus luhondo* Pappenheim & Boulenger, 1914): A small-bodied barbel; noted by original 1907 collectors as not growing to a larger size. Previously treated as a subspecies of *Barbus kerstenii* (Greenwood 1962), now considered a junior synonym of *B. neumayeri*. ...
 > -- *[[TheEffectsOfTilapiaIntroductio_1990]]*
 
+> This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
+> -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
+
 ## Mentioned In
 - [[ComparativeEvaluationOfTwoTila_15110]]
 - [[GrowthRatesOfPaddlef_15095]]
 - [[TheBiologyOfTilapiaNiloticaLin_1961]]
 - [[TheCichlidFishesOfTheGenusTris_1960_12_30]]
 - [[TheEffectsOfTilapiaIntroductio_1990]]
+- [[ExoticFishesOfTheGenusTilapiaP_15612]]

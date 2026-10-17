@@ -17,8 +17,12 @@ Fundulidae is a family of small freshwater and brackish-water killifishes native
 > - **Dionda**: a speciose cyprinid genus with at least 13 species, including 3 undescribed forms from the Mezquital drainage; 7 species form a **species flock** endemic to the Río Parruco basin — evidence of rapid, basin-confined diversification. - **Cyprinodontidae** in the Yucatan checklist is f...
 > -- *[[ProbableOriginOfSomeDisjunctFi_15303]]*
 
+> This 1907 publication by [[David Starr Jordan]] and [[Robert Earl Richardson]] describes a new species of killifish, *[[Lucania browni]]*, collected from a hot spring in northeastern [[Lower California]] (Baja California). Six specimens were obtained by [[Herbert Brown]] from water at 128°F (53°C),...
+> -- *[[DescriptionOfANewSpeciesOfKill_19850]]*
+
 ## Mentioned In
 - [[BookReviewsTransactionsOfTheAm_1985]]
 - [[DescriptionsOfNewSpeciesOfFish_17274]]
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
 - [[SpatialAndTemporalVariationInT_16050]]
+- [[DescriptionOfANewSpeciesOfKill_19850]]

@@ -77,6 +77,15 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 > This study investigated reproductive isolating mechanisms between [[Humpback Chub]] (*Gila cypha*) and [[Roundtail Chub]] (*G. robusta*) in the [[Upper Colorado River]] at [[Black Rocks]], Colorado, during 1983-1985. Using gonadosomatic indices, gamete expression, and radiotelemetry, researchers...
 > -- *[[TemporalAndSpatialRelationsBet_17861]]*
 
+> This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
+> -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
+
+> This document outlines a comprehensive research proposal by Wayne C. Starnes ([[Smithsonian Institution]]) to address taxonomic and genetic questions regarding [[Gila]] species in the [[Colorado River]] basin under a cooperative agreement with [[USFWS]]. The project aims to resolve the taxonomic...
+> -- *[[GilaTaxonomyProjectIssuesAndPr_14720]]*
+
+> This report documents the status, distribution, and habitat use of native fish species in [[Bass Creek]] and [[Hotsprings Creek]] within the [[Muleshoe Preserve]], Arizona, based on surveys conducted in January, March, and June 1987. The study area comprises 18 km of perennial stream in the [[Gila...
+> -- *[[AReportToTheArizonaNatureConse_15171]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -204,3 +213,6 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 - [[VerdeRiverPerkinsvillesycamore_2023]]
 - [[TaxonomicStatusEcologyAndDistr_15409]]
 - [[TemporalAndSpatialRelationsBet_17861]]
+- [[StreamSurveyOfTheSanFranciscoR_11523]]
+- [[GilaTaxonomyProjectIssuesAndPr_14720]]
+- [[AReportToTheArizonaNatureConse_15171]]

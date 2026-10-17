@@ -32,6 +32,9 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
 ## Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[ColoradoRiverLowerBasinFisheri_1995_03_30]]
@@ -57,3 +60,4 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 - [[DistributionalAndLocalVernacul_13815]]
 - [[AnIntestinalCestodeOfTheColora_13882]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[DraftecologicalDeterminismHybr_12773]]

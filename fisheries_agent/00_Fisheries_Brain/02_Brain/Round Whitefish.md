@@ -11,5 +11,9 @@ auto_enriched: true
 > This gastropod community occupies a keystone trophic position, linking littoral primary productivity to multiple fish species across different feeding strategies: - **[[Round Whitefish]]** and **[[Alaska Blackfish]]** consume large numbers of *Menetus cooperi planospirus*. - **[[Dolly Varden Char...
 > -- *[[SnailsFromUpperPeninsulaOfAlas_12911]]*
 
+> This article provides an overview of whitefish species in New York waters, focusing primarily on the [[Adirondack Whitefish]] or [[Labrador Whitefish]] (Coregonus clupeaformis). Whitefish are highly valued food fish with an international reputation for flavor, occurring in at least 48 New York...
+> -- *[[Whitefish_19228]]*
+
 ## Mentioned In
 - [[SnailsFromUpperPeninsulaOfAlas_12911]]
+- [[Whitefish_19228]]

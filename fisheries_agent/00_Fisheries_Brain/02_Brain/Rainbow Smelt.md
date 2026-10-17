@@ -41,6 +41,9 @@ Rainbow Smelt (*Osmerus mordax*) is a small, anadromous forage fish native to At
 > This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
 > -- *[[RainbowSmeltProposallakePowell_21115]]*
 
+> This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
+> -- *[[ConcernsAboutIntroductionOfRai_13174]]*
+
 ## Mentioned In
 - [[AResponseToTheProposalToIntrod_1987]]
 - [[AssessmentOfAForageFishIntrodu_19952]]
@@ -69,3 +72,4 @@ Rainbow Smelt (*Osmerus mordax*) is a small, anadromous forage fish native to At
 - [[ReProposalToIntroduceRainbowSm_13975]]
 - [[RecommendationsToColoradoRiver_14701]]
 - [[RainbowSmeltProposallakePowell_21115]]
+- [[ConcernsAboutIntroductionOfRai_13174]]

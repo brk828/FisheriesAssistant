@@ -134,6 +134,60 @@ The Gila River is a major tributary system in the southwestern United States tha
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
 > -- *[[WrittenCommentsOnDraftBiologic_20522]]*
 
+> This draft management plan addresses four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). Submitted by the...
+> -- *[[DraftLowerColoradoRiverBasinNa_11647]]*
+
+> This document comprises field collection notes from aquatic surveys conducted by James F. LeRousty throughout the [[Gila River]] Basin and [[San Pedro River]] system in Arizona and New Mexico during 1973. The notes document multiple sampling locations from April through December 1973, recording...
+> -- *[[FieldNotesAtTheSanPedroGilaAnd_12645]]*
+
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
+> This study used allozyme electrophoresis to assess phylogenetic relationships within the cyprinid tribe [[Plagopterini]] of western North America. The research examined 28 presumptive gene loci across multiple genera including [[Lepidomeda]], [[Meda]], [[Plagopterus]], and [[Gila copei]], plus five...
+> -- *[[AllozymicVariationAndSystemati_12782]]*
+
+> This report documents the first-year monitoring results of [[Gila Topminnow]] (*Poeciliopsis o. occidentalis*) reintroductions conducted in 1982 across four [[Arizona]] National Forests under a tripartite Memorandum of Understanding between the U.S. Fish and Wildlife Service, U.S. Forest Service,...
+> -- *[[FactorsAffectingTheSuccessOfGi_12971]]*
+
+> This memorandum from the Management Biologist at [[Dexter National Fish Hatchery]] provides detailed review comments on a proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species. Dated January 12, 1990, the document critiques the technical accuracy, writing...
+> -- *[[ReviewOfProposedRazorbackSucke_12984]]*
+
+> American Rivers, in collaboration with Dr. W.L. Minckley of Arizona State University, is undertaking a two-year historical and scientific study to map the presence and distribution changes of all native fish species in the [[Gila River]] basin over time. The project will incorporate existing fish...
+> -- *[[GilaRiverBasinNativeFishStudy_14553]]*
+
+> This final rule by the U.S. Fish and Wildlife Service designates approximately 257 kilometers (159 miles) of critical habitat for the threatened [[Loach Minnow]] (*Tiaroga cobitis*) under the Endangered Species Act. The loach minnow was listed as threatened on October 28, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14801]]*
+
+> The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14803]]*
+
+> This paper examines the dramatic decline of aquatic habitats and native fishes in the arid American Southwest over the past half century. Physical habitat changes from dams, diversions, channelization, and stream drying, combined with extensive introduction of non-native fish species, have severely...
+> -- *[[DecliningSouthwesternAquaticHa_15002]]*
+
+> This report documents the status, distribution, and habitat use of native fish species in [[Bass Creek]] and [[Hotsprings Creek]] within the [[Muleshoe Preserve]], Arizona, based on surveys conducted in January, March, and June 1987. The study area comprises 18 km of perennial stream in the [[Gila...
+> -- *[[AReportToTheArizonaNatureConse_15171]]*
+
+> This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
+> -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
+
+> This genetic survey assessed mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations (226 specimens) and one captive stock at [[Dexter National Fish Hatchery]] (33 specimens). Using PCR-SSCP analysis of the mitochondrial ND2 gene and D-loop sequencing, the study...
+> -- *[[GeneticVariationInDesertPupfis_15731]]*
+
+> This revised draft management plan, submitted by the [[Parker Fishery Resource Office]] to the [[U.S. Fish and Wildlife Service]] Region II in November 1996, addresses conservation of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*),...
+> -- *[[LowerColoradoRiverBasinManagem_18433]]*
+
+> This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
+> -- *[[EvolutionaryRelationshipsOfThe_19110]]*
+
+> This correspondence from the [[Bureau of Reclamation]] (March 18, 1988) responds to a request for federal support of [[Conner Dam]] construction on the [[Gila River]] in New Mexico as part of the [[Central Arizona Project]]. The Bureau declined further consideration, citing economic infeasibility...
+> -- *[[ConnerDamAsPartOfCentralArizon_19170]]*
+
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
+> This legal notice, dated September 12, 1994, from the Gila Watershed Partnership to the U.S. Fish and Wildlife Service challenges the adequacy of critical habitat designated for [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*) on March 8, 1994. The notice argues that the...
+> -- *[[SixtydayNoticeOfIntentToSueOve_20449]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -302,3 +356,21 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[MorphologyAndFoodsOfHybridCata_15933]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
 - [[WrittenCommentsOnDraftBiologic_20522]]
+- [[DraftLowerColoradoRiverBasinNa_11647]]
+- [[FieldNotesAtTheSanPedroGilaAnd_12645]]
+- [[DraftecologicalDeterminismHybr_12773]]
+- [[AllozymicVariationAndSystemati_12782]]
+- [[FactorsAffectingTheSuccessOfGi_12971]]
+- [[ReviewOfProposedRazorbackSucke_12984]]
+- [[GilaRiverBasinNativeFishStudy_14553]]
+- [[EndangeredAndThreatenedWildlif_14801]]
+- [[EndangeredAndThreatenedWildlif_14803]]
+- [[DecliningSouthwesternAquaticHa_15002]]
+- [[AReportToTheArizonaNatureConse_15171]]
+- [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[GeneticVariationInDesertPupfis_15731]]
+- [[LowerColoradoRiverBasinManagem_18433]]
+- [[EvolutionaryRelationshipsOfThe_19110]]
+- [[ConnerDamAsPartOfCentralArizon_19170]]
+- [[ConservationGeneticsInTheManag_20087]]
+- [[SixtydayNoticeOfIntentToSueOve_20449]]

@@ -38,6 +38,12 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 > This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
 > -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
 
+> This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
+> -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
+
+> This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
+> -- *[[CompositionAndDerivationOfTheF_15375]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -59,3 +65,5 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 - [[EndangeredAndThreatenedWildlif_11651]]
 - [[FishFaunaOfTheMiddleRioGrandeS_15005]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
+- [[ListOfFishesKnownOrExpectedToB_14196]]
+- [[CompositionAndDerivationOfTheF_15375]]

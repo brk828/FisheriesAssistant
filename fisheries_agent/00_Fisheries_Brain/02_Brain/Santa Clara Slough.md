@@ -11,9 +11,13 @@ Santa Clara Slough is an aquatic habitat system in the southwestern United State
 > This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
 > -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
 
+> This genetic survey assessed mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations (226 specimens) and one captive stock at [[Dexter National Fish Hatchery]] (33 specimens). Using PCR-SSCP analysis of the mitochondrial ND2 gene and D-loop sequencing, the study...
+> -- *[[GeneticVariationInDesertPupfis_15731]]*
+
 ## Mentioned In
 - [[LetterRequestingCollectionOfQu_1987_12_01]]
 - [[LetterToMarkStrombergRegarding_1986_06_02]]
 - [[PupfishPopulationSupplementPeo_1988_09_20]]
 - [[SantaClaraSloughSurveys_1992_09_08]]
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
+- [[GeneticVariationInDesertPupfis_15731]]

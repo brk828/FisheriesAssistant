@@ -23,6 +23,12 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > - **Site**: [[Quitobaquito Springs]] oasis, elevation 332 m, located 100–300 m north of the US-Mexico international boundary within Organ Pipe Cactus National Monument. - **Hydrology**: Two perennial springs feed a system of ditches and weirs into a diked, man-made pond (~60 x 70 m), constructed ...
 > -- *[[ADescriptiveAnalysisOfWoodyRip_12995]]*
 
+> This genetic survey assessed mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations (226 specimens) and one captive stock at [[Dexter National Fish Hatchery]] (33 specimens). Using PCR-SSCP analysis of the mitochondrial ND2 gene and D-loop sequencing, the study...
+> -- *[[GeneticVariationInDesertPupfis_15731]]*
+
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -34,3 +40,5 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[LetterRequestingCollectionOfQu_1987_12_01]]
 - [[LetterToWlMinckleyPupfish_19866]]
 - [[PermitReportAndPermitRequestUn_1993_11_28]]
+- [[GeneticVariationInDesertPupfis_15731]]
+- [[ConservationGeneticsInTheManag_20087]]

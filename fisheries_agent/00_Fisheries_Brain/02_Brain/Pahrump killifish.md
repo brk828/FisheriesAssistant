@@ -26,6 +26,9 @@ The Pahrump Killifish (*Empetrichthys latos*) is a small livebearing fish endemi
 > The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
 > -- *[[EndangeredSpeciesInformationSy_14003]]*
 
+> This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
+> -- *[[UnitedStatesListOfEndangeredFa_11533]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[BullfrogPredation_1985_11_27]]
@@ -36,3 +39,4 @@ The Pahrump Killifish (*Empetrichthys latos*) is a small livebearing fish endemi
 - [[ReproductionAndGrowthOfThePahr_15649]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[EndangeredSpeciesInformationSy_14003]]
+- [[UnitedStatesListOfEndangeredFa_11533]]

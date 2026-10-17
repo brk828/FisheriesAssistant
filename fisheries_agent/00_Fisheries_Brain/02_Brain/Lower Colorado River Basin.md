@@ -47,6 +47,15 @@ The Lower Colorado River Basin refers to the downstream portion of the Colorado 
 > This draft management plan addresses the recovery of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DraftLowerColoradoRiverBasinNa_11716]]*
 
+> This draft management plan addresses four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). Submitted by the...
+> -- *[[DraftLowerColoradoRiverBasinNa_11647]]*
+
+> This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
+> -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
+
+> This revised draft management plan, submitted by the [[Parker Fishery Resource Office]] to the [[U.S. Fish and Wildlife Service]] Region II in November 1996, addresses conservation of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*),...
+> -- *[[LowerColoradoRiverBasinManagem_18433]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[BriefingNotesEndangeredFishInC_14950]]
@@ -85,3 +94,6 @@ The Lower Colorado River Basin refers to the downstream portion of the Colorado 
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[IndigenousBigriverFishesColora_18295]]
 - [[DraftLowerColoradoRiverBasinNa_11716]]
+- [[DraftLowerColoradoRiverBasinNa_11647]]
+- [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[LowerColoradoRiverBasinManagem_18433]]

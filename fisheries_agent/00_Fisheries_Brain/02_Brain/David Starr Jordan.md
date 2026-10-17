@@ -17,9 +17,13 @@ David Starr Jordan was a pioneering American ichthyologist and naturalist of the
 > - **Earliest records (1820s–1870s):** [[Constantine Samuel Rafinesque]]'s *Ichthyologia Ohiensis* (1820) marked the first ichthyological work touching Indiana, based on an 1818 survey of the Falls of the Ohio River near Jeffersonville. Rafinesque described roughly 100 new species but preserved no...
 > -- *[[AHistoryOfTheStudyOfFishesInIn_16964]]*
 
+> This 1907 publication by [[David Starr Jordan]] and [[Robert Earl Richardson]] describes a new species of killifish, *[[Lucania browni]]*, collected from a hot spring in northeastern [[Lower California]] (Baja California). Six specimens were obtained by [[Herbert Brown]] from water at 128°F (53°C),...
+> -- *[[DescriptionOfANewSpeciesOfKill_19850]]*
+
 ## Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CommentsOnTheProposedRejection_14473]]
 - [[FirstRecordOfTheCypressMinnow_17935]]
 - [[NotesOnFishesCollectedByCaptCh_15664]]
+- [[DescriptionOfANewSpeciesOfKill_19850]]

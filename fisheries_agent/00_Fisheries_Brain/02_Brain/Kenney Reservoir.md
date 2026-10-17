@@ -17,8 +17,12 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
 > -- *[[TentativeAgendaForTheUpperColo_15254]]*
 
+> This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
+> -- *[[SummaryjanuaryManagementGroupM_21002]]*
+
 ## Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
 - [[MemorandumOnStockingOfNonnativ_1989_05_11]]
 - [[TentativeAgendaForTheUpperColo_15254]]
+- [[SummaryjanuaryManagementGroupM_21002]]

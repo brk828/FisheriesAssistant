@@ -32,6 +32,15 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 > This report presents results of hydroacoustic surveys conducted in September 1980 to assess fish abundance and distribution in [[Twin Lakes]], [[Colorado]], prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Using echo-counting techniques with a 120 kHz Simrad EK-120 system,...
 > -- *[[HydroacousticSurveysOfFishAbun_13336]]*
 
+> This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
+> -- *[[ConcernsAboutIntroductionOfRai_13174]]*
+
+> This technical report from the Michigan Department of Conservation Institute for Fisheries Research provides comprehensive guidance on the biology, ecology, and commercial culture of minnows (family [[Cyprinidae]]) in Michigan waters. The [[Cyprinidae]] is one of the largest fish families globally,...
+> -- *[[MinnowsCyprinidae_17384]]*
+
+> This article provides an overview of whitefish species in New York waters, focusing primarily on the [[Adirondack Whitefish]] or [[Labrador Whitefish]] (Coregonus clupeaformis). Whitefish are highly valued food fish with an international reputation for flavor, occurring in at least 48 New York...
+> -- *[[Whitefish_19228]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -80,3 +89,6 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[ContributionsToTheLifeHistoryO_15724]]
 - [[HydroacousticSurveysOfFishAbun_13336]]
+- [[ConcernsAboutIntroductionOfRai_13174]]
+- [[MinnowsCyprinidae_17384]]
+- [[Whitefish_19228]]

@@ -44,6 +44,12 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 > Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
 > -- *[[FieldNotesOfTripToSanBernardin_13172]]*
 
+> This paper examines the dramatic decline of aquatic habitats and native fishes in the arid American Southwest over the past half century. Physical habitat changes from dams, diversions, channelization, and stream drying, combined with extensive introduction of non-native fish species, have severely...
+> -- *[[DecliningSouthwesternAquaticHa_15002]]*
+
+> This report documents the status, distribution, and habitat use of native fish species in [[Bass Creek]] and [[Hotsprings Creek]] within the [[Muleshoe Preserve]], Arizona, based on surveys conducted in January, March, and June 1987. The study area comprises 18 km of perennial stream in the [[Gila...
+> -- *[[AReportToTheArizonaNatureConse_15171]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AfaPolicyMemorandumOnHybrids_1984_02_10]]
@@ -148,3 +154,5 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
+- [[DecliningSouthwesternAquaticHa_15002]]
+- [[AReportToTheArizonaNatureConse_15171]]

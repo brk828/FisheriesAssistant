@@ -26,6 +26,9 @@ A Biological Opinion is a formal regulatory assessment issued by the U.S. Fish a
 > These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
 > -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
 
+> This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
+> -- *[[CommentsOnTheBiologicalOpinion_17166]]*
+
 ## Mentioned In
 - [[CityOfPhoenixCommentsOnTheFina_1997_07_25]]
 - [[CommentsOnTheUSFishAndWildlife_1997_07_08]]
@@ -37,3 +40,4 @@ A Biological Opinion is a formal regulatory assessment issued by the U.S. Fish a
 - [[ResponseToWashingtonCountyWate_1998]]
 - [[StockingOfSportFishSpeciesRain_1994_06_16]]
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
+- [[CommentsOnTheBiologicalOpinion_17166]]

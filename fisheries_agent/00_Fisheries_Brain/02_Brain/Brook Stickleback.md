@@ -23,6 +23,9 @@ The Brook Stickleback (*Culaea inconstans*) is a small freshwater fish native to
 > - **[[Brook Stickleback]]**: A freshwater species native to Canada and the upper Mississippi/Missouri River systems; previously documented in Pennsylvania only from the Ohio River drainage in the northwest of the state. A "rare" population was noted in the Unadilla River (New York), part of the e...
 > -- *[[AdditionsToThePennsylvaniaIcht_1975_10_28]]*
 
+> This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
+> -- *[[PrelimaryObservationsOnTheToxi_14434]]*
+
 ## Mentioned In
 - [[AdditionsToThePennsylvaniaIcht_1975_10_28]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -30,3 +33,4 @@ The Brook Stickleback (*Culaea inconstans*) is a small freshwater fish native to
 - [[DistributionOfTheFishesOfBoone_14736]]
 - [[EvaluationOfPPDdtAsAReferenceT_14436]]
 - [[FoodOfYoungPikeEsoxLuciusLAndA_1951]]
+- [[PrelimaryObservationsOnTheToxi_14434]]

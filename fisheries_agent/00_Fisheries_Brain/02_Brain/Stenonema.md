@@ -11,5 +11,9 @@ auto_enriched: true
 > - **Taxonomic scope**: 12 families represented — [[Siphlonuridae]], [[Baetidae]], [[Heptageniidae]], [[Ametropodidae]], [[Leptophlebiidae]], [[Ephemerellidae]], [[Tricorythidae]], [[Potamanthidae]], [[Ephemeridae]], [[Polymitarcidae]], [[Caenidae]], and [[Baetiscidae]]. - **New state records**: N...
 > -- *[[AListOfTheMayfliesEphemeropter_1970]]*
 
+> This article describes the occurrence and life history of late-summer mayflies in Michigan trout streams, with particular focus on [[Stenonema rubrum]] and related species. Written for anglers, it documents the timing, behavior, and identification characteristics of these mayflies that emerge...
+> -- *[[MayfliesInAugust_20287]]*
+
 ## Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
+- [[MayfliesInAugust_20287]]

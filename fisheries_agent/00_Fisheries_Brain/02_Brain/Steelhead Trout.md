@@ -35,6 +35,12 @@ Steelhead trout are anadromous salmonids that migrate between freshwater rivers 
 > This administrative report documents a record-breaking year for [[California Department of Fish and Game]] hatchery operations during fiscal year 1967-68. Despite two hatcheries being out of service for the entire year, the Department planted 2,706,909 lb of fish, exceeding the previous year's...
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14868]]*
 
+> This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
+> -- *[[ConservationOfNativeFreshwater_15444]]*
+
+> This 1966 Federal Aid completion report (F-18-R-13, Job 1) by Ted C. Bjornn evaluates two methods for estimating [[Chinook Salmon]] and [[Steelhead Trout]] harvest in Idaho waters: postal card questionnaires and salmon/steelhead permits. The study found that questionnaire-based estimates contained...
+> -- *[[StatewideFishingHarvestSurvey_17659]]*
+
 ## Mentioned In
 - [[BlameTheArmyForMuckyRiversToo_1995_04_17]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -57,3 +63,5 @@ Steelhead trout are anadromous salmonids that migrate between freshwater rivers 
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[CaliforniaTroutSalmonAndWarmwa_14867]]
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
+- [[ConservationOfNativeFreshwater_15444]]
+- [[StatewideFishingHarvestSurvey_17659]]

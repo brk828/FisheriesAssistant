@@ -65,6 +65,18 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 > This study examines putative F₁ hybrids between [[Catostomus insignis]] (Sonoran sucker) and [[Pantosteus clarki]] (desert sucker) from [[Aravaipa Creek]] and [[Bonita Creek]] in southeastern Arizona. Morphological analyses using hybrid index (HI), discriminant function analysis (DFA), and...
 > -- *[[MorphologyAndFoodsOfHybridCata_15933]]*
 
+> This final rule by the U.S. Fish and Wildlife Service designates approximately 257 kilometers (159 miles) of critical habitat for the threatened [[Loach Minnow]] (*Tiaroga cobitis*) under the Endangered Species Act. The loach minnow was listed as threatened on October 28, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14801]]*
+
+> The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14803]]*
+
+> This paper examines the dramatic decline of aquatic habitats and native fishes in the arid American Southwest over the past half century. Physical habitat changes from dams, diversions, channelization, and stream drying, combined with extensive introduction of non-native fish species, have severely...
+> -- *[[DecliningSouthwesternAquaticHa_15002]]*
+
+> This legal notice, dated September 12, 1994, from the Gila Watershed Partnership to the U.S. Fish and Wildlife Service challenges the adequacy of critical habitat designated for [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*) on March 8, 1994. The notice argues that the...
+> -- *[[SixtydayNoticeOfIntentToSueOve_20449]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -163,3 +175,7 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 - [[ProposedConstructionOfADamOnTh_13721]]
 - [[ReevidenceOfTailingsTransportI_14555]]
 - [[MorphologyAndFoodsOfHybridCata_15933]]
+- [[EndangeredAndThreatenedWildlif_14801]]
+- [[EndangeredAndThreatenedWildlif_14803]]
+- [[DecliningSouthwesternAquaticHa_15002]]
+- [[SixtydayNoticeOfIntentToSueOve_20449]]

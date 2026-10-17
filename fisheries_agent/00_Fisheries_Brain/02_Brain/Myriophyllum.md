@@ -23,7 +23,11 @@ Myriophyllum, commonly known as water milfoil, is a submerged aquatic macrophyte
 > - **Habitat type:** Small standing freshwater bodies (ponds) within [[District I]] waters of Arizona, management under the [[Arizona Game and Fish Department]] fisheries program. - **Vegetation role:** Both [[Myriophyllum]] and [[Ranunculus]] are submerged/emergent aquatic macrophytes capable of ...
 > -- *[[ExperimentalAquaticVegetationC_13842]]*
 
+> This study documents temporal changes in a long-standing hybrid swarm between the endangered endemic [[Gambusia heterochir]] (Clear Creek Gambusia) and [[Gambusia affinis]] (Western Mosquitofish) in [[Clear Creek]], [[Menard County]], Texas, following reconstruction of the uppermost dam in 1979....
+> -- *[[TemporalChangesInTheGambusiaHe_15772]]*
+
 ## Mentioned In
 - [[ExperimentalAquaticVegetationC_13842]]
 - [[FoodsOfImpoundmentAndStreamDwe_1963]]
 - [[RazorbackSuckerMonitoringStudy_12705]]
+- [[TemporalChangesInTheGambusiaHe_15772]]

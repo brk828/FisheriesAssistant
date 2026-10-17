@@ -26,6 +26,9 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 > This 1985 study investigated the early life history and ecology of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae in [[Lake Mohave]], Arizona-Nevada, to determine causes of recruitment failure in the only substantial remaining population of this endemic Colorado River species. Adult suckers...
 > -- *[[EarlyLifeHistoryOfRazorbackSuc_12707]]*
 
+> This Federal Aid to Fish Restoration report documents population dynamics, species composition, limnological conditions, and management strategies for [[Arrowrock Reservoir]] and [[Lucky Peak Reservoir]] on the [[Boise River]], Idaho, from July 1965 through February 1968. Extensive gill netting...
+> -- *[[LakeAndReservoirInvestigations_12145]]*
+
 ## Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[Craspedacusta Sowerbii in Pymatuning Reservoir]]
@@ -34,3 +37,4 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 - [[OnTheDorsalLightResponseInAMay_14496]]
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[EarlyLifeHistoryOfRazorbackSuc_12707]]
+- [[LakeAndReservoirInvestigations_12145]]

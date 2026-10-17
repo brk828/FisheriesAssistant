@@ -47,6 +47,18 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > **Taxonomic & Life-History Summary**: This study examined 14 fish species in Lake Powell, with nonnative fishes comprising >99% of total catch (n=3,586 individuals across gillnets and minnow traps). Eight nonnative species were prevalent enough for modeling: [[Smallmouth Bass]] (*Micropterus...
 > -- *[[InvasionPotentialOfNonnativeFi_2026]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
+> -- *[[DraftdistributionAndIncidenceO_12207]]*
+
+> This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
+> -- *[[CharacterizationOfTheLifeHisto_13649]]*
+
+> This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
+> -- *[[ExecutiveSummariescoloradoRive_19604]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -165,3 +177,7 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[InvasionPotentialOfNonnativeFi_2026]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[DraftdistributionAndIncidenceO_12207]]
+- [[CharacterizationOfTheLifeHisto_13649]]
+- [[ExecutiveSummariescoloradoRive_19604]]

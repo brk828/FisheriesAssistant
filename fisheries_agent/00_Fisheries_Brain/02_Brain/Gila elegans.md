@@ -38,6 +38,12 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
 > -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
 
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
+> This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
+> -- *[[CompositionAndDerivationOfTheF_15375]]*
+
 ## Mentioned In
 - [[BonytailUpdate_16371]]
 - [[CageCulturingTheEndangeredBony_1999]]
@@ -74,3 +80,5 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[DistributionalAndLocalVernacul_13815]]
 - [[QualitativeCharactersIdentific_19084]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
+- [[DraftecologicalDeterminismHybr_12773]]
+- [[CompositionAndDerivationOfTheF_15375]]

@@ -11,5 +11,9 @@ Hanford was a major nuclear reactor facility that discharged approximately 8.0 Ã
 > This 1959 document by [[Conrad P. Straub]], [[Abraham S. Goldin]], and [[Albert G. Friend]] of the Robert A. Taft Sanitary Engineering Center addresses the environmental implications of radioactive waste disposal in stream environments. The paper examines increasing volumes of radioactive materials...
 > -- *[[EnvironmentalImplicationsOfRad_14607]]*
 
+> This document (HW-25021) reports on a limnological study of radiobiological and ecological nature conducted to determine effects of [[Hanford]] pile effluents on organisms in the [[Columbia River]]. The study, initiated in fall 1948 with completion planned for April 1, 1952, examined radioactivity...
+> -- *[[TheRadioactivityAndEcologyOfAq_14009]]*
+
 ## Mentioned In
 - [[EnvironmentalImplicationsOfRad_14607]]
+- [[TheRadioactivityAndEcologyOfAq_14009]]

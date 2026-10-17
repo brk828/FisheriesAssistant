@@ -26,6 +26,9 @@ The Colorado River Indian Tribes refers to a sovereign Native American nation wi
 > This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
 > -- *[[DraftmanagementPlanForTheRazor_11427]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
 ## Mentioned In
 - [[ColoradoRiverIndianTribesCritC_1991_12_20]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_24]]
@@ -35,3 +38,4 @@ The Colorado River Indian Tribes refers to a sovereign Native American nation wi
 - [[RosterLowerBasinRecoveryImplem_21095]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
 - [[DraftmanagementPlanForTheRazor_11427]]
+- [[LowerColoradoRiverMultispecies_11766]]

@@ -11,9 +11,17 @@ In ichthyological research, perch refers to members of the family Percidae, fres
 > - **Habitat:** Benthic zone of a temperate lake ([[Windermere]]), at depths of 1.8–2.4 m (6–8 ft) - **Confinement apparatus:** Netting cages, 2.4 m (8 ft) long × 0.6 m (2 ft) cross-section, elevated 0.6 m (2 ft) above the lake bed on wooden legs - **Feeding ecology (experimental):** - Fish 5 & 6:...
 > -- *[[ActivityCyclesInTheBrownTroutS_1964]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
+> This progress report documents the second year (1951) of the [[Adirondack Trout Restoration Project]], an experimental fisheries management program aimed at reclaiming former trout waters now inhabited by less desirable species. The reclamation procedure involves chemical eradication using...
+> -- *[[TroutRestorationInTheAdirondac_20206]]*
+
 ## Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
 - [[DispersionAndDynamicsOfChirono_1965]]
 - [[EffectOfTemperatureO_1965_05_01]]
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
+- [[WhatHaveICaught_12929]]
+- [[TroutRestorationInTheAdirondac_20206]]

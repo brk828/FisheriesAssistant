@@ -29,6 +29,12 @@ The Bluehead Sucker (Pantosteus delphinus) is a native catostomid fish species f
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
+> -- *[[CharacterizationOfTheLifeHisto_13649]]*
+
+> This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
+> -- *[[ExecutiveSummariescoloradoRive_19604]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -82,3 +88,5 @@ The Bluehead Sucker (Pantosteus delphinus) is a native catostomid fish species f
 - [[WhiteRiverTaylorDrawProjectPre_17087]]
 - [[TheRazorbackSuckerXyrauchenTex_15245]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[CharacterizationOfTheLifeHisto_13649]]
+- [[ExecutiveSummariescoloradoRive_19604]]

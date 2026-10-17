@@ -47,6 +47,12 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
+> This study used allozyme electrophoresis to assess phylogenetic relationships within the cyprinid tribe [[Plagopterini]] of western North America. The research examined 28 presumptive gene loci across multiple genera including [[Lepidomeda]], [[Meda]], [[Plagopterus]], and [[Gila copei]], plus five...
+> -- *[[AllozymicVariationAndSystemati_12782]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AResumeOfTheDetoxificationPhas_1963]]
@@ -97,3 +103,5 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[QualitativeCharactersIdentific_19084]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[DraftecologicalDeterminismHybr_12773]]
+- [[AllozymicVariationAndSystemati_12782]]

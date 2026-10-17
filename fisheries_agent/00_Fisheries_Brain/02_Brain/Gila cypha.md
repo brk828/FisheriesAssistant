@@ -32,6 +32,12 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 > This study evaluated the effectiveness of qualitative morphological rankings versus quantitative measurements for field identification of closely related cyprinid fishes in the genus [[Gila]] from the [[Yampa River]], [[Colorado]]. Six field technicians with no specialized systematic training...
 > -- *[[QualitativeCharactersIdentific_19084]]*
 
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
+> This correspondence between Dr. James E. Deacon ([[University of Nevada Las Vegas]]) and Dr. Robert R. Miller ([[University of Michigan]]) concerns the identification of a [[Gila]] specimen collected from [[Shingumu Creek]] on August 1, 1975. The specimen was tentatively identified as [[Gila...
+> -- *[[PictureAndInformationOnGilaTak_13997]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdditionalStudiesOnTheLittleCo_18500]]
@@ -58,3 +64,5 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[RevisedTechnicalProposalsToMod_13629]]
 - [[QualitativeCharactersIdentific_19084]]
+- [[DraftecologicalDeterminismHybr_12773]]
+- [[PictureAndInformationOnGilaTak_13997]]

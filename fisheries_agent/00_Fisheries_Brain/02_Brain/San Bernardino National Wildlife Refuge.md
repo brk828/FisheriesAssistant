@@ -32,6 +32,9 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 > Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
 > -- *[[FieldNotesOfTripToSanBernardin_13172]]*
 
+> This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
+> -- *[[DraftRecoveryPlanForTheEndange_15977]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AsianTapewormEradicationStrate_13118]]
@@ -63,3 +66,4 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
+- [[DraftRecoveryPlanForTheEndange_15977]]

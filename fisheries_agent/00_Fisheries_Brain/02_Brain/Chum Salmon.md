@@ -26,6 +26,12 @@ Chum salmon (Oncorhynchus keta) are an anadromous Pacific salmonid species that 
 > This study documents the persistence and decomposition of dead [[Pink Salmon]] (Oncorhynchus gorbuscha) eggs and larvae in [[Sashin Creek]], [[Baranof Island]], [[Alaska]] from October 1961 through March 1963. Researchers tracked the 1961 brood year to determine whether residual dead eggs remained...
 > -- *[[DisappearanceOfDeadPinkSalmonE_12341]]*
 
+> This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
+> -- *[[ConservationOfNativeFreshwater_15444]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[EffectOfActivitySalinityAndTem_1969]]
 - [[FishDistributionNumbersAndWeig_1992]]
@@ -37,3 +43,5 @@ Chum salmon (Oncorhynchus keta) are an anadromous Pacific salmonid species that 
 - [[StationProfileOfTheQ_1993]]
 - [[UseOfGeneticMarksToAssessStock_11327]]
 - [[DisappearanceOfDeadPinkSalmonE_12341]]
+- [[ConservationOfNativeFreshwater_15444]]
+- [[ProvisionalChecklistOfCanadian_21104]]

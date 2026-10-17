@@ -101,6 +101,24 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 > This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
 > -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
+> This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
+> -- *[[PrelimaryObservationsOnTheToxi_14434]]*
+
+> This note documents the first records of [[Red-ear Sunfish]] (*Lepomis microlophus*) and [[Smallmouth Bass]] (*Micropterus dolomieui*) in the lower [[Colorado River]], California. The red-ear sunfish represents a new addition to California's freshwater fish fauna, while the smallmouth bass was...
+> -- *[[TheOccurrenceOfTwoAdditionalCe_18140]]*
+
+> This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
+> -- *[[InvestigationsOfCommercialFish_18562]]*
+
+> This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
+> -- *[[ExecutiveSummariescoloradoRive_19604]]*
+
+> This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
+> -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -319,3 +337,9 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 - [[RazorbackSuckerMonitoringEffor_13702]]
 - [[SomeObservationsOnTheReclamati_15490]]
 - [[ResultsOfAnOpeningWeekCreelCen_17745]]
+- [[WhatHaveICaught_12929]]
+- [[PrelimaryObservationsOnTheToxi_14434]]
+- [[TheOccurrenceOfTwoAdditionalCe_18140]]
+- [[InvestigationsOfCommercialFish_18562]]
+- [[ExecutiveSummariescoloradoRive_19604]]
+- [[OutlineOfSanBernardinoRanchMan_20829]]

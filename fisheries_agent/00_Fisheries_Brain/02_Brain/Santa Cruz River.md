@@ -50,6 +50,9 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 > This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
 > -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
 
+> The [[Arizona Department of Water Resources]] contracted [[Earth Technology Corporation]] in 1984 to reassess the feasibility of constructing a permanent-pool recreational lake on [[Leslie Creek]] in [[Cochise County]], Arizona. The original 1960s-1970s feasibility studies estimated average annual...
+> -- *[[FeasibilityStudyOfLeslieCanyon_15717]]*
+
 ## Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[CienegaCreekWatershedWaterSour_18990]]
@@ -72,3 +75,4 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
+- [[FeasibilityStudyOfLeslieCanyon_15717]]

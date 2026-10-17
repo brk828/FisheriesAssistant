@@ -11,9 +11,13 @@ Copepoda are small crustacean zooplankton that form a crucial component of fresh
 > This 1961 study by Kenneth B. Armitage documents the species composition and seasonal distribution of limnetic (open-water) crustacean [[Zooplankton]] across six lakes in northeastern Kansas, based on 17 qualitative plankton hauls collected between September 1956 and June 1960. Sampling used a #2...
 > -- *[[Species Composition and Seasonal Distribution of Limnetic Crustacean Zooplankton of Northeastern Kansas]]*
 
+> This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
+> -- *[[RoughFishControl_20167]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[ChecklistOfParasitesFromCatfis_1959]]
 - [[NitocrellaMorettiiNSpFromPhrea_11222]]
 - [[Species Composition and Seasonal Distribution of Limnetic Crustacean Zooplankton of Northeastern Kansas]]
 - [[ThePlanktonSamplerAnInstrument_1950]]
+- [[RoughFishControl_20167]]

@@ -11,5 +11,9 @@ México is the country containing the Cuatro Ciénegas basin in Coahuila, a uniq
 > This correspondence documents collaboration between Mexican biologists at [[Universidad Autónoma Metropolitana]] and Dr. [[W. L. Minckley]] of [[Arizona State University]] regarding the first management plan for the proposed [[Cuatro Ciénegas]] watershed [[Biosphere Reserve]] in [[Coahuila]],...
 > -- *[[CuatroCienegasWatershedCoahuil_16108]]*
 
+> This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
+> -- *[[CompositionAndDerivationOfTheF_15375]]*
+
 ## Mentioned In
 - [[CuatroCienegasWatershedCoahuil_16108]]
+- [[CompositionAndDerivationOfTheF_15375]]

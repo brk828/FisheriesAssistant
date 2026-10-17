@@ -29,6 +29,9 @@ Lee's Ferry is a cold-water tailwater reach of the Colorado River located immedi
 > These draft meeting notes and program documents from September 1988 detail stakeholder discussions and the implementation framework for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The meetings in Las Vegas and Flagstaff addressed organizational structure, constituent...
 > -- *[[DraftMeetingNotesGlenCanyonEnv_19677]]*
 
+> This 1991 report presents scientifically based recommendations for interim operating procedures at [[Glen Canyon Dam]] to protect downstream aquatic and riparian resources in [[Grand Canyon National Park]] during the period between research flows (ending July 1991) and implementation of a Record of...
+> -- *[[InterimFlowsForGrandCanyonReco_18454]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -44,3 +47,4 @@ Lee's Ferry is a cold-water tailwater reach of the Colorado River located immedi
 - [[StudiesOnTheRazorbackSuckerXyr_1974_06_18]]
 - [[SectionConsultationOperationOf_14814]]
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
+- [[InterimFlowsForGrandCanyonReco_18454]]

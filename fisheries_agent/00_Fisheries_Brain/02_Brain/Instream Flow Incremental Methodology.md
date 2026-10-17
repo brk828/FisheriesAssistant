@@ -20,9 +20,13 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 > This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
 > -- *[[BiologicalAssessmentForTheSpik_11476]]*
 
+> This paper presents methods and results from radiotelemetry studies of [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the [[Green River]] basin (1980-1985), evaluating radiotracking success in high-conductivity waters and comparing habitat data obtained via radiotelemetry versus electrofishing....
+> -- *[[AcquisitionOfHabitatPreference_11568]]*
+
 ## Mentioned In
 - [[AnInstreamFlowPhilosophyForRec_13064]]
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
 - [[MicrohabitatUseByAnAssemblageO_1985]]
 - [[ResponseToWashingtonCountyWate_1998]]
 - [[BiologicalAssessmentForTheSpik_11476]]
+- [[AcquisitionOfHabitatPreference_11568]]

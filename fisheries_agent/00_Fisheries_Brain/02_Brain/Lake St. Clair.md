@@ -17,8 +17,12 @@ Lake St. Clair is a shallow freshwater lake located between Lake Huron and Lake 
 > 1. **Distribution concentrated near Great Lakes:** Muskellunge occurrence in Michigan is almost entirely restricted to counties bordering the Great Lakes, with [[Lake St. Clair]]/[[Detroit River]] as the dominant fishery by an order of magnitude over other locations. 2. **Capture method influence...
 > -- *[[TheMuskellungInMichigan_12040]]*
 
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[FirstCanadianRecordOfAFlathead_1979]]
 - [[OriginAndDispersalOfTheAlewife_1957]]
 - [[RetentionOfMercuryInTheMuscleO_12637]]
 - [[TheMuskellungInMichigan_12040]]
+- [[ProvisionalChecklistOfCanadian_21104]]

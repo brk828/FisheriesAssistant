@@ -38,6 +38,15 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 > This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
 > -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
 
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
+> The [[Arizona Department of Water Resources]] contracted [[Earth Technology Corporation]] in 1984 to reassess the feasibility of constructing a permanent-pool recreational lake on [[Leslie Creek]] in [[Cochise County]], Arizona. The original 1960s-1970s feasibility studies estimated average annual...
+> -- *[[FeasibilityStudyOfLeslieCanyon_15717]]*
+
+> This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
+> -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -65,3 +74,6 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 - [[BiochemicalAnalysisOfGeneProdu_17930]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
+- [[DraftecologicalDeterminismHybr_12773]]
+- [[FeasibilityStudyOfLeslieCanyon_15717]]
+- [[OutlineOfSanBernardinoRanchMan_20829]]

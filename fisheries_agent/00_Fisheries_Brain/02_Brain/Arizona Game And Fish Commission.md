@@ -26,6 +26,9 @@ The Arizona Game and Fish Commission is the state regulatory agency responsible 
 > This administrative correspondence from April 25, 1968, documents the [[National Park Service]] response to Mr. William Minkley of [[Arizona State University]] regarding a research permit application to collect [[Humpback Chub]] (Gila cypha) eggs within [[Grand Canyon National Park]]. The letter...
 > -- *[[HumpbackChubEggCollectionInGra_13013]]*
 
+> The [[Arizona Department of Water Resources]] contracted [[Earth Technology Corporation]] in 1984 to reassess the feasibility of constructing a permanent-pool recreational lake on [[Leslie Creek]] in [[Cochise County]], Arizona. The original 1960s-1970s feasibility studies estimated average annual...
+> -- *[[FeasibilityStudyOfLeslieCanyon_15717]]*
+
 ## Mentioned In
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
 - [[CaliforniaReptileInvestigation_1994_09_27]]
@@ -36,3 +39,4 @@ The Arizona Game and Fish Commission is the state regulatory agency responsible 
 - [[RiverResourceMonitoringProject_18503]]
 - [[NongameWildlifeAndFisheriesInv_13701]]
 - [[HumpbackChubEggCollectionInGra_13013]]
+- [[FeasibilityStudyOfLeslieCanyon_15717]]

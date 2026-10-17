@@ -17,8 +17,12 @@ Tilapia aurea, commonly known as the blue tilapia, is a cichlid species native t
 > - **Habitat**: Artificial pond system (North, Middle, South Ponds/Lakes) at the ASU Research Park, hydrologically linked to the Salt River Project (SRP) canal system, which serves as a colonization source for several non-native taxa (e.g., threadfin shad, red shiner, channel catfish). - **Stockin...
 > -- *[[FishSamplingAtAsuResearchParkA_1988_04_22]]*
 
+> This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
+> -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[EvaluationOfThePotentialOfTila_15172]]
 - [[FishSamplingAtAsuResearchParkA_1988_04_22]]
 - [[SterilizationOfTheCichlidFishT_15750]]
+- [[ExoticFishesOfTheGenusTilapiaP_15612]]

@@ -47,6 +47,15 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This monitoring report documents the status of native fish species stocked at [[Palm Lake]], [[Hassayampa River Preserve]], Arizona, sampled on 2-3 April 1990. The assessment evaluated survival and condition of [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*)...
 > -- *[[FishMonitoringOfPalmLakeHassay_16635]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
+> This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
+> -- *[[PrelimaryObservationsOnTheToxi_14434]]*
+
+> This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
+> -- *[[PalmLakenativeFishStatus_20905]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -116,3 +125,6 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[VerdeRiverPerkinsvillesycamore_2023]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[FishMonitoringOfPalmLakeHassay_16635]]
+- [[WhatHaveICaught_12929]]
+- [[PrelimaryObservationsOnTheToxi_14434]]
+- [[PalmLakenativeFishStatus_20905]]

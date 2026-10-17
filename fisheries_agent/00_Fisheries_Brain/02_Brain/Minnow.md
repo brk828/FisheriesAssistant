@@ -23,7 +23,11 @@ Minnow is a term referring to small freshwater fish species, particularly those 
 > - The 1989 revision of Arizona's **Live Wildlife Rules (Article 4)** restricted commercialization of native wildlife, explicitly limiting permitted activities to historically grandfathered practices (e.g., trapping, [[Minnow]]/[[Waterdog]] sales) and exotic species control measures (e.g., [[Carp]...
 > -- *[[PetitionForAdoptionOfANewRuleT_1995_01_03]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[CyclicalActivityOfTheThyroidGl_15081]]
 - [[PetitionForAdoptionOfANewRuleT_1995_01_03]]
 - [[TheEffectOfTheEnvironmentOnThe_16172]]
+- [[WhatHaveICaught_12929]]

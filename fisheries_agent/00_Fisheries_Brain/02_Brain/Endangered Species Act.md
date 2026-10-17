@@ -119,6 +119,48 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
 > -- *[[RainbowSmeltProposallakePowell_21115]]*
 
+> This Bureau of Land Management (BLM) Manual Section 6840, dated September 16, 1988, establishes comprehensive policy and guidance for the conservation of Special Status Species (plants and animals) and their habitats on BLM-administered lands. Special Status Species include those proposed for...
+> -- *[[SpecialStatusSpeciesManagement_11467]]*
+
+> This Federal Register notice documents the completion of the U.S. Fish and Wildlife Service's mandatory five-year review of species listed as endangered or threatened in 1978 under the [[Endangered Species Act]] of 1973. The review examined 39 species total, including three fish species: [[Leopard...
+> -- *[[EndangeredAndThreatenedWildlif_11553]]*
+
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> This document comprises formal comments submitted by the [[Southern Nevada Water Authority]] (SNWA) to the [[U.S. Bureau of Reclamation]] regarding the [[Fish and Wildlife Service]] Final Biological and Conference Opinion on [[Lower Colorado River]] Operations and Maintenance from [[Lake Mead]] to...
+> -- *[[CommentsOnBiologicalAndConfere_11800]]*
+
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
+> The [[Pima Pineapple Cactus]] (*Coryphantha scheeri* var. *robustispina*) was listed as endangered by the [[US Fish and Wildlife Service]] in October 1993. This rare [[Sonoran Desert]] species occurs in a restricted range from south [[Tucson]] to south of [[Nogales]], [[Mexico]]. The [[National...
+> -- *[[EndangeredCactusOffersNbsOppor_13220]]*
+
+> This document contains two Federal Register notices from June 1997. The primary notice proposes codification of the [[Endangered Species Act]] "No Surprises" policy, which provides regulatory assurances to holders of incidental take permits under [[Habitat Conservation Plans]] (HCPs). The policy...
+> -- *[[InteriorPublishesProposedNoSup_14551]]*
+
+> The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14803]]*
+
+> This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
+> -- *[[ConservationOfNativeFreshwater_15444]]*
+
+> This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
+> -- *[[CommentsOnTheBiologicalOpinion_17166]]*
+
+> This memorandum and Federal Register notice document the extension of the public comment period for the proposed critical habitat designation for four endangered fish species in the [[Colorado River Basin]]: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[ExtensionOfPublicCommentPeriod_17380]]*
+
+> This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
+> -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
+
+> This correspondence from the [[Bureau of Land Management]] [[Tucson Resource Area Office]] to Dr. W.L. Minckley, Team Leader of the [[Desert Fishes Recovery Team]], provides input on the Recovery Team's functions and duties. Written by Jeffrey R. Simms and transmitted March 16, 1993, the letter...
+> -- *[[DfrtAccomplishmentsduties_18989]]*
+
+> This correspondence from the [[Bureau of Reclamation]] (March 18, 1988) responds to a request for federal support of [[Conner Dam]] construction on the [[Gila River]] in New Mexico as part of the [[Central Arizona Project]]. The Bureau declined further consideration, citing economic infeasibility...
+> -- *[[ConnerDamAsPartOfCentralArizon_19170]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -440,3 +482,17 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
 - [[WrittenCommentsOnDraftBiologic_20522]]
 - [[RainbowSmeltProposallakePowell_21115]]
+- [[SpecialStatusSpeciesManagement_11467]]
+- [[EndangeredAndThreatenedWildlif_11553]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[CommentsOnBiologicalAndConfere_11800]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[EndangeredCactusOffersNbsOppor_13220]]
+- [[InteriorPublishesProposedNoSup_14551]]
+- [[EndangeredAndThreatenedWildlif_14803]]
+- [[ConservationOfNativeFreshwater_15444]]
+- [[CommentsOnTheBiologicalOpinion_17166]]
+- [[ExtensionOfPublicCommentPeriod_17380]]
+- [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[DfrtAccomplishmentsduties_18989]]
+- [[ConnerDamAsPartOfCentralArizon_19170]]

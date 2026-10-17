@@ -44,6 +44,18 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 > The U.S. Fish and Wildlife Service establishes "nonessential experimental" populations of [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Woundfin]] (*Plagopterus argentissimus*) in the [[Gila River]] drainage of Arizona under Section 10(j) of the Endangered Species Act of 1973. This...
 > -- *[[EndangeredAndThreatenedWildlif_11550]]*
 
+> This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
+> -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
+
+> This document comprises field collection notes from aquatic surveys conducted by James F. LeRousty throughout the [[Gila River]] Basin and [[San Pedro River]] system in Arizona and New Mexico during 1973. The notes document multiple sampling locations from April through December 1973, recording...
+> -- *[[FieldNotesAtTheSanPedroGilaAnd_12645]]*
+
+> This final rule by the U.S. Fish and Wildlife Service designates approximately 257 kilometers (159 miles) of critical habitat for the threatened [[Loach Minnow]] (*Tiaroga cobitis*) under the Endangered Species Act. The loach minnow was listed as threatened on October 28, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14801]]*
+
+> This legal notice, dated September 12, 1994, from the Gila Watershed Partnership to the U.S. Fish and Wildlife Service challenges the adequacy of critical habitat designated for [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*) on March 8, 1994. The notice argues that the...
+> -- *[[SixtydayNoticeOfIntentToSueOve_20449]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -71,3 +83,7 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[EndangeredAndThreatenedWildlif_11550]]
+- [[StreamSurveyOfTheSanFranciscoR_11523]]
+- [[FieldNotesAtTheSanPedroGilaAnd_12645]]
+- [[EndangeredAndThreatenedWildlif_14801]]
+- [[SixtydayNoticeOfIntentToSueOve_20449]]

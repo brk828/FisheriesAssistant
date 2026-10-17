@@ -14,6 +14,9 @@ The New Mexico Department of Game and Fish is the state regulatory agency respon
 > - A final [[Biological Opinion]] (issued April 15, 1994) concluded that CAP water transport/delivery to the Gila River Basin would **jeopardize** the continued existence of four listed/candidate fish species: [[Spikedace]], [[Loach Minnow]], [[Gila Topminnow]], and [[Razorback Sucker]]. - A **Rea...
 > -- *[[MeetingOnNativeFishConservatio_1994_09_13]]*
 
+> This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
+> -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[LetterClarifyingReportingDates_1987_08_03]]
@@ -22,3 +25,4 @@ The New Mexico Department of Game and Fish is the state regulatory agency respon
 - [[MinutesOfTheFebruaryDesertFish_1992_04_20]]
 - [[ProceduresForIntroductionOfAqu_17182]]
 - [[WildlifeConservationActAmendme_1995]]
+- [[StreamSurveyOfTheSanFranciscoR_11523]]

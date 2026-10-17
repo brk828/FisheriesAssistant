@@ -41,6 +41,18 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 > Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
 > -- *[[FieldNotesOfTripToSanBernardin_13172]]*
 
+> This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
+> -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
+
+> This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
+> -- *[[FishesAndAquaticResourcesOfThe_15407]]*
+
+> This study documents temporal changes in a long-standing hybrid swarm between the endangered endemic [[Gambusia heterochir]] (Clear Creek Gambusia) and [[Gambusia affinis]] (Western Mosquitofish) in [[Clear Creek]], [[Menard County]], Texas, following reconstruction of the uppermost dam in 1979....
+> -- *[[TemporalChangesInTheGambusiaHe_15772]]*
+
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -82,3 +94,7 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
+- [[ListOfFishesKnownOrExpectedToB_14196]]
+- [[FishesAndAquaticResourcesOfThe_15407]]
+- [[TemporalChangesInTheGambusiaHe_15772]]
+- [[ConservationGeneticsInTheManag_20087]]

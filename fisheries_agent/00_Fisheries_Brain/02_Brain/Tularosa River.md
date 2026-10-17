@@ -17,8 +17,16 @@ The Tularosa River is a tributary stream system in New Mexico that serves as cri
 > The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Tiaroga cobitis]] (loach minnow) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, historically distributed throughout the [[Gila River]] system upstream from Phoenix,...
 > -- *[[EndangeredAndThreatenedWildlif_11552]]*
 
+> This final rule by the U.S. Fish and Wildlife Service designates approximately 257 kilometers (159 miles) of critical habitat for the threatened [[Loach Minnow]] (*Tiaroga cobitis*) under the Endangered Species Act. The loach minnow was listed as threatened on October 28, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14801]]*
+
+> This legal notice, dated September 12, 1994, from the Gila Watershed Partnership to the U.S. Fish and Wildlife Service challenges the adequacy of critical habitat designated for [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*) on March 8, 1994. The notice argues that the...
+> -- *[[SixtydayNoticeOfIntentToSueOve_20449]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_16787]]
 - [[MicrohabitatUtilizationOfLoach_14998]]
 - [[NoticeOfDayAndMonthFindingsOnA_1994_07_21]]
 - [[EndangeredAndThreatenedWildlif_11552]]
+- [[EndangeredAndThreatenedWildlif_14801]]
+- [[SixtydayNoticeOfIntentToSueOve_20449]]

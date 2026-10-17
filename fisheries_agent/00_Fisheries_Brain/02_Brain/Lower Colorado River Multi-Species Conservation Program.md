@@ -41,6 +41,12 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
 > -- *[[WrittenCommentsOnDraftBiologic_20522]]*
 
+> This document comprises formal comments submitted by the [[Southern Nevada Water Authority]] (SNWA) to the [[U.S. Bureau of Reclamation]] regarding the [[Fish and Wildlife Service]] Final Biological and Conference Opinion on [[Lower Colorado River]] Operations and Maintenance from [[Lake Mead]] to...
+> -- *[[CommentsOnBiologicalAndConfere_11800]]*
+
+> This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
+> -- *[[CommentsOnTheBiologicalOpinion_17166]]*
+
 ## Mentioned In
 - [[BonytailReceivedCaughtInLakeMo_15286]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -61,3 +67,5 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 - [[AdaptiveManagementOfAnImperile_2016]]
 - [[SummaryOfEvents_18368]]
 - [[WrittenCommentsOnDraftBiologic_20522]]
+- [[CommentsOnBiologicalAndConfere_11800]]
+- [[CommentsOnTheBiologicalOpinion_17166]]

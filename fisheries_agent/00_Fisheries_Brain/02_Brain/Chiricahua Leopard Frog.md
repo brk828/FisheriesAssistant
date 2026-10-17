@@ -29,6 +29,9 @@ The Chiricahua Leopard Frog (*Rana chiricahuensis*) is an imperiled riparian and
 > This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
 > -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
 
+> This Federal Register notice, published September 19, 1997, by the U.S. Fish and Wildlife Service presents an updated list of plant and animal taxa native to the United States that are candidates or proposed for listing as endangered or threatened under the Endangered Species Act of 1973, as...
+> -- *[[EndangeredAndThreatenedWildlif_11741]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[CommentsOnAndChangesToAnimalNo_11856]]
@@ -45,3 +48,4 @@ The Chiricahua Leopard Frog (*Rana chiricahuensis*) is an imperiled riparian and
 - [[TheNextParagraphIsMissingButTh_11894]]
 - [[AddendumToTheMarchEnvironmenta_11496]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
+- [[EndangeredAndThreatenedWildlif_11741]]

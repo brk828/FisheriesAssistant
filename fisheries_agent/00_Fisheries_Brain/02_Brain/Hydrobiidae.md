@@ -23,6 +23,9 @@ Hydrobiidae is a family of small freshwater and brackish-water gastropod mollusk
 > This paper documents the critical decline of the **Bruneau Hot Springs Snail**, an undescribed monotypic genus within the family [[Hydrobiidae]], endemic to a highly restricted geothermal habitat at Hot Creek and adjacent thermal seeps along the [[Bruneau River]] in Owyhee County, southern Idaho....
 > -- *[[TheCurrentStatusOfTheBruneauHo_1989_11_16]]*
 
+> This Federal Register notice, published September 19, 1997, by the U.S. Fish and Wildlife Service presents an updated list of plant and animal taxa native to the United States that are candidates or proposed for listing as endangered or threatened under the Endangered Species Act of 1973, as...
+> -- *[[EndangeredAndThreatenedWildlif_11741]]*
+
 ## Mentioned In
 - [[ARemarkableSnailFaunaFromCoahu_1966]]
 - [[AustralianFreshwaterMolluscaCo_1994_06_30]]
@@ -32,3 +35,4 @@ Hydrobiidae is a family of small freshwater and brackish-water gastropod mollusk
 - [[SystematicsAndEcologyOfHydrobi_13705]]
 - [[TheCurrentStatusOfTheBruneauHo_1989_11_16]]
 - [[TheMoundSpringsOfSouthAustrali_20662]]
+- [[EndangeredAndThreatenedWildlif_11741]]

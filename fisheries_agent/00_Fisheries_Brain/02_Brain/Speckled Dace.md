@@ -56,6 +56,18 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
 > -- *[[FieldNotesOfTripToSanBernardin_13172]]*
 
+> This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
+> -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
+
+> This Federal Aid to Fish Restoration report documents population dynamics, species composition, limnological conditions, and management strategies for [[Arrowrock Reservoir]] and [[Lucky Peak Reservoir]] on the [[Boise River]], Idaho, from July 1965 through February 1968. Extensive gill netting...
+> -- *[[LakeAndReservoirInvestigations_12145]]*
+
+> This report documents the status, distribution, and habitat use of native fish species in [[Bass Creek]] and [[Hotsprings Creek]] within the [[Muleshoe Preserve]], Arizona, based on surveys conducted in January, March, and June 1987. The study area comprises 18 km of perennial stream in the [[Gila...
+> -- *[[AReportToTheArizonaNatureConse_15171]]*
+
+> This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
+> -- *[[ExecutiveSummariescoloradoRive_19604]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -180,3 +192,7 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[IntegrationOfNewMethodologiesI_2025]]
 - [[VerdeRiverPerkinsvillesycamore_2023]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
+- [[StreamSurveyOfTheSanFranciscoR_11523]]
+- [[LakeAndReservoirInvestigations_12145]]
+- [[AReportToTheArizonaNatureConse_15171]]
+- [[ExecutiveSummariescoloradoRive_19604]]

@@ -26,8 +26,12 @@ Chirostoma is a genus of freshwater silverside fishes (family Atherinopsidae) en
 > This research proposal by Clyde D. Barbour (University of Utah) requests two years of funding from the National Science Foundation to conduct systematic and evolutionary studies of fishes endemic to the [[Mesa Central]] of Mexico. The project focuses on the family [[Goodeidae]] (viviparous...
 > -- *[[ProposalForSupportOfResearchOn_15568]]*
 
+> This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
+> -- *[[CompositionAndDerivationOfTheF_15375]]*
+
 ## Mentioned In
 - [[LetterFromClydeBarbourRegardin_1996_11_06]]
 - [[MolecularEvolutionAndBiogeogra_1994_06_28]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[ProposalForSupportOfResearchOn_15568]]
+- [[CompositionAndDerivationOfTheF_15375]]

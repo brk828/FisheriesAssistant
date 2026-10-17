@@ -23,6 +23,9 @@ Cyprinodon elegans is a cyprinodontid fish species belonging to the genus Cyprin
 > - **53 total fish species** documented for the Pecos River, with *Morone chrysops* noted as an introduced addition to the native fauna count. - **New species description**: *[[Ictalurus Chihuahua]]* n. sp. is introduced in this checklist within [[Ictaluridae]]. - **Conservation status flags** app...
 > -- *[[ChecklistOfPecosRiverAndMexica_18282]]*
 
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[AClassificationOfTexasAquaticC_15773]]
 - [[ChecklistOfPecosRiverAndMexica_18282]]
@@ -30,3 +33,4 @@ Cyprinodon elegans is a cyprinodontid fish species belonging to the genus Cyprin
 - [[DescriptionsOfNewSpeciesOfFish_17274]]
 - [[ObservationsOnTheBreedingBehav_14392]]
 - [[RequestForInformationOnPropose_1997_03_13]]
+- [[ConservationGeneticsInTheManag_20087]]

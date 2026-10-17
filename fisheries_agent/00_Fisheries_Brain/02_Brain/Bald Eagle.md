@@ -47,6 +47,15 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 > This biological assessment evaluates potential impacts of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species: [[Bonytail Chub]] (*Gila elegans*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bald Eagle]] (*Haliaeetus leucocephalus*),...
 > -- *[[BiologicalAssessmentOnThreaten_19806]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
+> This 1991 report presents scientifically based recommendations for interim operating procedures at [[Glen Canyon Dam]] to protect downstream aquatic and riparian resources in [[Grand Canyon National Park]] during the period between research flows (ending July 1991) and implementation of a Record of...
+> -- *[[InterimFlowsForGrandCanyonReco_18454]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[BiologicalOpinionOnTheProposed_13196]]
@@ -77,3 +86,6 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 - [[BiologicalAssessmentProbableEf_11481]]
 - [[SaltRiverProjectRooseveltDiver_15070]]
 - [[BiologicalAssessmentOnThreaten_19806]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[InterimFlowsForGrandCanyonReco_18454]]

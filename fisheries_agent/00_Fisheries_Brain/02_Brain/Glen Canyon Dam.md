@@ -98,6 +98,45 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > This draft management plan addresses the recovery of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DraftLowerColoradoRiverBasinNa_11716]]*
 
+> This draft management plan addresses four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). Submitted by the...
+> -- *[[DraftLowerColoradoRiverBasinNa_11647]]*
+
+> This preliminary draft management prospectus, submitted by the Arizona Fishery Resources Office to the U.S. Fish & Wildlife Service Southwest Regional Director in February 1995, outlines a comprehensive fisheries management plan for four federally endangered "big-river" fish species in the Lower...
+> -- *[[PreliminaryDraftColoradoRiverL_11719]]*
+
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
+> -- *[[DraftdistributionAndIncidenceO_12207]]*
+
+> This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
+> -- *[[CharacterizationOfTheLifeHisto_13649]]*
+
+> This document contains the official minutes from the [[Cui-ui]] Recovery Team meeting held October 23, 1989 in Reno, Nevada. The meeting addressed critical issues in developing a recovery plan for [[Chasmistes cujus]], an endangered sucker species endemic to [[Pyramid Lake]]. Key concerns included...
+> -- *[[CuiuiRecoveryTeamMeetingMinute_13872]]*
+
+> This Bureau of Reclamation document summarizes an April 6, 1993 Selective Withdrawal Investigations Workgroup meeting held in Phoenix, Arizona. The multi-disciplinary workgroup evaluated the feasibility and potential impacts of installing selective withdrawal facilities at [[Glen Canyon Dam]] to...
+> -- *[[SelectiveWithdrawalWorkgroupMe_15753]]*
+
+> This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
+> -- *[[LongtermLimnologicalAndWaterQu_17092]]*
+
+> This proposal by [[Michael J.C. Kearsley]] and [[Tina J. Ayers]] from [[Northern Arizona University]] requests funding to continue monitoring riparian and wetland plant assemblages in the [[Colorado River]] corridor downstream of [[Glen Canyon Dam]] in [[Grand Canyon National Park]]. The 12-month...
+> -- *[[TransitionMonitoringForRiparia_17903]]*
+
+> This revised draft management plan, submitted by the [[Parker Fishery Resource Office]] to the [[U.S. Fish and Wildlife Service]] Region II in November 1996, addresses conservation of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*),...
+> -- *[[LowerColoradoRiverBasinManagem_18433]]*
+
+> This 1991 report presents scientifically based recommendations for interim operating procedures at [[Glen Canyon Dam]] to protect downstream aquatic and riparian resources in [[Grand Canyon National Park]] during the period between research flows (ending July 1991) and implementation of a Record of...
+> -- *[[InterimFlowsForGrandCanyonReco_18454]]*
+
+> This memorandum from the [[Glen Canyon Environmental Studies]] program announces a technical review meeting scheduled for June 11, 1993, to evaluate the [[U.S. Fish and Wildlife Service]] flow scenario for [[Glen Canyon Dam]] operations. The meeting was relocated to accommodate increased attendance...
+> -- *[[GlenCanyonEnvironmentalStudies_19728]]*
+
+> This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
+> -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -231,3 +270,16 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[BiologicalAssessmentOnThreaten_19806]]
 - [[InvasionPotentialOfNonnativeFi_2026]]
 - [[DraftLowerColoradoRiverBasinNa_11716]]
+- [[DraftLowerColoradoRiverBasinNa_11647]]
+- [[PreliminaryDraftColoradoRiverL_11719]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[DraftdistributionAndIncidenceO_12207]]
+- [[CharacterizationOfTheLifeHisto_13649]]
+- [[CuiuiRecoveryTeamMeetingMinute_13872]]
+- [[SelectiveWithdrawalWorkgroupMe_15753]]
+- [[LongtermLimnologicalAndWaterQu_17092]]
+- [[TransitionMonitoringForRiparia_17903]]
+- [[LowerColoradoRiverBasinManagem_18433]]
+- [[InterimFlowsForGrandCanyonReco_18454]]
+- [[GlenCanyonEnvironmentalStudies_19728]]
+- [[AgencyRecalcitranceAndEvasionR_20349]]

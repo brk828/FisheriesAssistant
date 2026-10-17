@@ -20,6 +20,9 @@ The Sacramento-San Joaquin Delta is a complex estuarine system in northern Calif
 > This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
 > -- *[[DraftliteratureReviewOfTheStri_15768]]*
 
+> This tagging study (1963-1966) investigated the migration patterns of [[Striped Bass]] (*Roccus saxatilis*) in [[Tomales Bay]], California, located 40 miles northwest of [[San Francisco]]. A total of 207 striped bass were tagged using disk-dangler tags, with 65 tag returns received by July 1968....
+> -- *[[MigrationsOfStripedBassOccurri_18606]]*
+
 ## Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[DeterminationOfSexualMaturityI_1965]]
@@ -32,3 +35,4 @@ The Sacramento-San Joaquin Delta is a complex estuarine system in northern Calif
 - [[TheGrassCarp_11260]]
 - [[TheMillertonLakeFresnomaderaSt_12103]]
 - [[DraftliteratureReviewOfTheStri_15768]]
+- [[MigrationsOfStripedBassOccurri_18606]]

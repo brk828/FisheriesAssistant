@@ -23,6 +23,9 @@ Muskellunge (Esox masquinongy) is a large, predatory freshwater fish species in 
 > This study is a continuation of long-term research (Gammon & Hasler, 1965) examining the ecological consequences of introducing young-of-the-year [[Muskellunge]] into two Wisconsin bog lakes (George Lake and Corrine Lake) devoid of native pike species. Conducted during years 8-9 post-introduction...
 > -- *[[PredationByIntroducedMuskellun_20576]]*
 
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[BigGameFishSpeciesMostSuitedTo_14647]]
 - [[ChangesInWalleyeStizostedionVi_1977_03_18]]
@@ -37,3 +40,4 @@ Muskellunge (Esox masquinongy) is a large, predatory freshwater fish species in 
 - [[TheMuskellungInMichigan_12040]]
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
 - [[TheUpperStLawrenceRiverIceFish_11241]]
+- [[ProvisionalChecklistOfCanadian_21104]]

@@ -14,7 +14,11 @@ Lake Bonneville was a large Pleistocene pluvial lake that once covered much of t
 > - **[[Bonneville Province]]**: Novel proposal placing the upper Snake River (above Shoshone Falls) fauna within the Bonneville system rather than treating it as part of the Columbia/Snake system, based on Pliocene–Pleistocene lake-spillover connections during high stands of [[Lake Bonneville]].
 > -- *[[LetterToMrDonnellyHillRegardin_1994_08_29]]*
 
+> This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
+> -- *[[EvolutionaryRelationshipsOfThe_19110]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[LetterToMrDonnellyHillRegardin_1994_08_29]]
 - [[SnyderichthysANewGenericNameFo_1944_11_22]]
+- [[EvolutionaryRelationshipsOfThe_19110]]

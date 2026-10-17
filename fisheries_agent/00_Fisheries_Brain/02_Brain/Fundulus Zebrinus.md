@@ -23,8 +23,12 @@ Fundulus zebrinus, commonly known as the plains killifish, is a small cyprinodon
 > **Spatial Distribution & Habitat Partitioning** - [[Catostomus discobolus]] distribution was strictly bounded to the lower 6.0 km of Kanab Creek, terminating at a bedrock reach (6.4–6.6 km) and an associated boulder jam/vertical drop velocity barrier at 6.3 km - A secondary partial barrier — a bo...
 > -- *[[ReportOnKanabCreekResearchTrip_1993_05_20]]*
 
+> This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
+> -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
+
 ## Mentioned In
 - [[DistributionOfMidwesternFishes_1978]]
 - [[NicheBreadthFoodOfNotropisLutr_14678]]
 - [[ReportOnFishesOfTheColoradoRiv_1975]]
 - [[ReportOnKanabCreekResearchTrip_1993_05_20]]
+- [[ListOfFishesKnownOrExpectedToB_14196]]

@@ -92,6 +92,42 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > This draft management plan addresses the recovery of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DraftLowerColoradoRiverBasinNa_11716]]*
 
+> This draft management plan addresses four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). Submitted by the...
+> -- *[[DraftLowerColoradoRiverBasinNa_11647]]*
+
+> This document comprises formal comments submitted by the [[Southern Nevada Water Authority]] (SNWA) to the [[U.S. Bureau of Reclamation]] regarding the [[Fish and Wildlife Service]] Final Biological and Conference Opinion on [[Lower Colorado River]] Operations and Maintenance from [[Lake Mead]] to...
+> -- *[[CommentsOnBiologicalAndConfere_11800]]*
+
+> This study used allozyme electrophoresis to assess phylogenetic relationships within the cyprinid tribe [[Plagopterini]] of western North America. The research examined 28 presumptive gene loci across multiple genera including [[Lepidomeda]], [[Meda]], [[Plagopterus]], and [[Gila copei]], plus five...
+> -- *[[AllozymicVariationAndSystemati_12782]]*
+
+> This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
+> -- *[[CharacterizationOfTheLifeHisto_13649]]*
+
+> This document outlines a comprehensive research proposal by Wayne C. Starnes ([[Smithsonian Institution]]) to address taxonomic and genetic questions regarding [[Gila]] species in the [[Colorado River]] basin under a cooperative agreement with [[USFWS]]. The project aims to resolve the taxonomic...
+> -- *[[GilaTaxonomyProjectIssuesAndPr_14720]]*
+
+> This Bureau of Reclamation document summarizes an April 6, 1993 Selective Withdrawal Investigations Workgroup meeting held in Phoenix, Arizona. The multi-disciplinary workgroup evaluated the feasibility and potential impacts of installing selective withdrawal facilities at [[Glen Canyon Dam]] to...
+> -- *[[SelectiveWithdrawalWorkgroupMe_15753]]*
+
+> This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
+> -- *[[LongtermLimnologicalAndWaterQu_17092]]*
+
+> This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
+> -- *[[CommentsOnTheBiologicalOpinion_17166]]*
+
+> This revised draft management plan, submitted by the [[Parker Fishery Resource Office]] to the [[U.S. Fish and Wildlife Service]] Region II in November 1996, addresses conservation of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*),...
+> -- *[[LowerColoradoRiverBasinManagem_18433]]*
+
+> This 1991 report presents scientifically based recommendations for interim operating procedures at [[Glen Canyon Dam]] to protect downstream aquatic and riparian resources in [[Grand Canyon National Park]] during the period between research flows (ending July 1991) and implementation of a Record of...
+> -- *[[InterimFlowsForGrandCanyonReco_18454]]*
+
+> This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
+> -- *[[ExecutiveSummariescoloradoRive_19604]]*
+
+> This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
+> -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -206,3 +242,15 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
 - [[DraftLowerColoradoRiverBasinNa_11716]]
+- [[DraftLowerColoradoRiverBasinNa_11647]]
+- [[CommentsOnBiologicalAndConfere_11800]]
+- [[AllozymicVariationAndSystemati_12782]]
+- [[CharacterizationOfTheLifeHisto_13649]]
+- [[GilaTaxonomyProjectIssuesAndPr_14720]]
+- [[SelectiveWithdrawalWorkgroupMe_15753]]
+- [[LongtermLimnologicalAndWaterQu_17092]]
+- [[CommentsOnTheBiologicalOpinion_17166]]
+- [[LowerColoradoRiverBasinManagem_18433]]
+- [[InterimFlowsForGrandCanyonReco_18454]]
+- [[ExecutiveSummariescoloradoRive_19604]]
+- [[AgencyRecalcitranceAndEvasionR_20349]]

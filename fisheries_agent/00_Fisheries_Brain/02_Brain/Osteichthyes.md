@@ -11,7 +11,11 @@ Osteichthyes refers to the class of bony fishes, characterized by the presence o
 > - **Historical gap filled**: Eddy's manual, alongside [[Fishes of Ohio]] (Trautman) and Moore's contribution to *Vertebrate Animals of the United States*, represents the first adequate identification treatment of U.S. freshwater fishes since [[Jordan and Evermann]]'s work at the turn of the 20th ...
 > -- *[[BookReviewOfHowToKnowTheFreshw_1959]]*
 
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
 - [[BookReviewOfHowToKnowTheFreshw_1959]]
 - [[NonLethalStomachPumpingTechniq_1992_08_10]]
+- [[ProvisionalChecklistOfCanadian_21104]]

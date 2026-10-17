@@ -35,6 +35,12 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 > This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
 > -- *[[WoundfinPlagopterusArgentissim_14022]]*
 
+> This draft management plan addresses four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). Submitted by the...
+> -- *[[DraftLowerColoradoRiverBasinNa_11647]]*
+
+> This 1991 report presents scientifically based recommendations for interim operating procedures at [[Glen Canyon Dam]] to protect downstream aquatic and riparian resources in [[Grand Canyon National Park]] during the period between research flows (ending July 1991) and implementation of a Record of...
+> -- *[[InterimFlowsForGrandCanyonReco_18454]]*
+
 ## Mentioned In
 - [[CommentsOnDraftColoradoRiverEn_1993_12_28]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -54,3 +60,5 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 - [[RiverResourceMonitoringProject_18503]]
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[WoundfinPlagopterusArgentissim_14022]]
+- [[DraftLowerColoradoRiverBasinNa_11647]]
+- [[InterimFlowsForGrandCanyonReco_18454]]

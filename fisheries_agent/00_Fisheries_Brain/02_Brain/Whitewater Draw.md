@@ -23,8 +23,12 @@ Whitewater Draw is a tributary drainage system in the Rio Yaqui basin of southea
 > - **Braided stream environment (15,000–8000 B.P., unit D):** A high-water-table system with a 0.65-km-wide floodplain, massive gravels, sand, and interbedded silt/clay lenses. Cottonwood and hickory charcoal indicate riparian vegetation. This period corresponds to a mesic (cooler, wetter) climati...
 > -- *[[LateQuaternaryAlluvialStratigr_14923]]*
 
+> The [[Arizona Department of Water Resources]] contracted [[Earth Technology Corporation]] in 1984 to reassess the feasibility of constructing a permanent-pool recreational lake on [[Leslie Creek]] in [[Cochise County]], Arizona. The original 1960s-1970s feasibility studies estimated average annual...
+> -- *[[FeasibilityStudyOfLeslieCanyon_15717]]*
+
 ## Mentioned In
 - [[DrainageMapOfArizonaShowingPer_13007]]
 - [[EarlyHoloceneOccupationAlongWh_1985]]
 - [[LateQuaternaryAlluvialStratigr_14923]]
 - [[ReEvaluationOfTheNativeFishesO_12336]]
+- [[FeasibilityStudyOfLeslieCanyon_15717]]

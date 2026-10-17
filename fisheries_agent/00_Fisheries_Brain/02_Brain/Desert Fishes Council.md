@@ -44,6 +44,15 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
 > -- *[[AprilManagementGroupMeetingSum_19221]]*
 
+> The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14803]]*
+
+> This paper examines the dramatic decline of aquatic habitats and native fishes in the arid American Southwest over the past half century. Physical habitat changes from dams, diversions, channelization, and stream drying, combined with extensive introduction of non-native fish species, have severely...
+> -- *[[DecliningSouthwesternAquaticHa_15002]]*
+
+> This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
+> -- *[[FishesAndAquaticResourcesOfThe_15407]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -146,3 +155,6 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 - [[ProposedConstructionOfADamOnTh_13721]]
 - [[ReProposalToIntroduceRainbowSm_13975]]
 - [[AprilManagementGroupMeetingSum_19221]]
+- [[EndangeredAndThreatenedWildlif_14803]]
+- [[DecliningSouthwesternAquaticHa_15002]]
+- [[FishesAndAquaticResourcesOfThe_15407]]

@@ -44,6 +44,9 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
 > -- *[[RainbowSmeltProposallakePowell_21115]]*
 
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -175,3 +178,4 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[MitochondrialDnaDiversityWithi_19127]]
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[RainbowSmeltProposallakePowell_21115]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]

@@ -23,6 +23,12 @@ Bullhead refers to a group of catfish species (genus Ictalurus, particularly bla
 > - **Context**: Presented at the 14th North American Wildlife Conference (1949); synthesizes 3 years of state-wide Minnesota fish population survey data (gillnetting: 164 lakes; hoopnetting: 112 lakes; seining: ~150–164 lakes) plus creel census and bait-dealer reports. - **Core species discussed**...
 > -- *[[FishPopulationConceptsAndManag_1949_03_07]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
+> This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
+> -- *[[RoughFishControl_20167]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -34,3 +40,5 @@ Bullhead refers to a group of catfish species (genus Ictalurus, particularly bla
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[TheUseOfRotenoneOnCityWaterSup_12653]]
 - [[UnexploitedPotentialsOfOurFres_1958]]
+- [[WhatHaveICaught_12929]]
+- [[RoughFishControl_20167]]

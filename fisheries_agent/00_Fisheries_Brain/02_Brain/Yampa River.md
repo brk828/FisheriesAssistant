@@ -77,6 +77,18 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
 > -- *[[AprilManagementGroupMeetingSum_19221]]*
 
+> This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
+> -- *[[LetterOnImplementationCommitte_11623]]*
+
+> This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
+> -- *[[DraftdistributionAndIncidenceO_12207]]*
+
+> This 1989 memorandum from the U.S. Fish and Wildlife Service transmits interim streamflow recommendations for the [[Yampa River]] to protect four rare and endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila...
+> -- *[[StreamflowNeedsOfRareAndEndang_14141]]*
+
+> This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
+> -- *[[SummaryjanuaryManagementGroupM_21002]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -150,3 +162,7 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
 - [[AprilManagementGroupMeetingSum_19221]]
+- [[LetterOnImplementationCommitte_11623]]
+- [[DraftdistributionAndIncidenceO_12207]]
+- [[StreamflowNeedsOfRareAndEndang_14141]]
+- [[SummaryjanuaryManagementGroupM_21002]]

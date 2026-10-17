@@ -26,6 +26,9 @@ Longnose Gar (*Lepisosteus longirostus*) is a primitive freshwater fish species 
 > This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
 > -- *[[FisheryInvestigationsOnFortGib_14674]]*
 
+> This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
+> -- *[[PrelimaryObservationsOnTheToxi_14434]]*
+
 ## Mentioned In
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
 - [[DynamicsOfMsInTheBloodAndBrain_14518]]
@@ -37,3 +40,4 @@ Longnose Gar (*Lepisosteus longirostus*) is a primitive freshwater fish species 
 - [[SomeObservationsOnLimnologyAnd_1954]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[FisheryInvestigationsOnFortGib_14674]]
+- [[PrelimaryObservationsOnTheToxi_14434]]

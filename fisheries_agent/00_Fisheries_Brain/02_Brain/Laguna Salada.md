@@ -23,6 +23,9 @@ Laguna Salada is a hypersaline lake in the Cuatro Ciénegas Basin of Coahuila, M
 > This 1994 management plan from the [[Parker Fishery Resource Office]] addresses recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and...
 > -- *[[LowerColoradoRiverBasinManagem_18432]]*
 
+> This genetic survey assessed mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations (226 specimens) and one captive stock at [[Dexter National Fish Hatchery]] (33 specimens). Using PCR-SSCP analysis of the mitochondrial ND2 gene and D-loop sequencing, the study...
+> -- *[[GeneticVariationInDesertPupfis_15731]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[AnomalousThermalConditionsInAH_17103]]
@@ -30,3 +33,4 @@ Laguna Salada is a hypersaline lake in the Cuatro Ciénegas Basin of Coahuila, M
 - [[PotentialPopulationManagementP_14777]]
 - [[PreliminaryLimnologicInformati_1968_12_31]]
 - [[LowerColoradoRiverBasinManagem_18432]]
+- [[GeneticVariationInDesertPupfis_15731]]

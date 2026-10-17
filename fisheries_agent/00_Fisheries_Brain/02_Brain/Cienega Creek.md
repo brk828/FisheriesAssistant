@@ -26,6 +26,12 @@ Cienega Creek is a desert stream system in the BLM Tucson Resource Area of Arizo
 > This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
 > -- *[[MolecularVariationAndEvolution_18435]]*
 
+> This report documents the first-year monitoring results of [[Gila Topminnow]] (*Poeciliopsis o. occidentalis*) reintroductions conducted in 1982 across four [[Arizona]] National Forests under a tripartite Memorandum of Understanding between the U.S. Fish and Wildlife Service, U.S. Forest Service,...
+> -- *[[FactorsAffectingTheSuccessOfGi_12971]]*
+
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
@@ -45,3 +51,5 @@ Cienega Creek is a desert stream system in the BLM Tucson Resource Area of Arizo
 - [[SonoitaAreaRanchSoldToAnamax_18361]]
 - [[StatusOfRefugialGilaTopminnow_1995_12_27]]
 - [[MolecularVariationAndEvolution_18435]]
+- [[FactorsAffectingTheSuccessOfGi_12971]]
+- [[ConservationGeneticsInTheManag_20087]]

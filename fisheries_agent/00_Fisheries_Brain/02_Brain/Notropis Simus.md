@@ -17,7 +17,11 @@ Notropis simus, commonly known as the bluntnose minnow, is a small cyprinid fish
 > - ***Notropis simus simus***: Originally described as *Alburnellus simus* (Cope, 1876); later reclassified under *Notropis (Hudsonius)* and finally as a subspecies within *[[Notropis Simus]]* (Chernoff et al. 1982). - ***Cyprinella formosa***: Originally described as *Moniana formosa* (Girard, 18...
 > -- *[[NotropisSimusSimusCopeRioGrand_1990]]*
 
+> This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
+> -- *[[CompositionAndDerivationOfTheF_15375]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[FishesInhabitingTheRioGrandeTe_1977_07_09]]
 - [[NotropisSimusSimusCopeRioGrand_1990]]
+- [[CompositionAndDerivationOfTheF_15375]]

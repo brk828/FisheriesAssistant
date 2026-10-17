@@ -23,8 +23,12 @@ Bartlett Lake is a recreational reservoir in Arizona that served as one of five 
 > - **Legislative status:** By the end of the reporting segment, the Colorado River Basin Bill (HR 4671), which encompasses the Central Arizona Project, had cleared the House Committee on Interior and Insular Affairs and awaited scheduling by the House Rules Committee. Passage was delayed by contro...
 > -- *[[CentralArizonaProjectCompletio_1966_07_31]]*
 
+> This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
+> -- *[[InvestigationsOfCommercialFish_18562]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
 - [[RiverBasinInvestigationsCooper_12958]]
 - [[RiverBasinInvestigationsVisito_12729]]
+- [[InvestigationsOfCommercialFish_18562]]

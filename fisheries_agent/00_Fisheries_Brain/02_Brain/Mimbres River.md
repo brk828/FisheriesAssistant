@@ -23,6 +23,9 @@ The Mimbres River is a river system located in Luna County, New Mexico that hist
 > This final report (February 1980) documents comprehensive taxonomic, morphometric, and reproductive studies of the [[Chihuahua Chub]] (*Gila nigrescens*), an endangered cyprinid inhabiting the [[Mimbres River]] in New Mexico and several drainages in Chihuahua, Mexico. The study examined 202+...
 > -- *[[TaxonomicStatusEcologyAndDistr_15409]]*
 
+> This document contains specific review comments on a recovery plan for an endangered chub species in the [[Mimbres River]] system. The reviewers provide detailed feedback on distribution mapping, habitat assessment, reasons for population decline, and conservation strategies. Key concerns include...
+> -- *[[CommentsOnTheChihuahuaChubReco_13915]]*
+
 ## Mentioned In
 - [[LetterOnRecoveryRecommendation_1986_10_21]]
 - [[LetterRegardingChihuahuaChubRe_1987_12_30]]
@@ -31,3 +34,4 @@ The Mimbres River is a river system located in Luna County, New Mexico that hist
 - [[NotropisSimusSimusCopeRioGrand_1990]]
 - [[SiteAndLandscapescaleEstimates_2026]]
 - [[TaxonomicStatusEcologyAndDistr_15409]]
+- [[CommentsOnTheChihuahuaChubReco_13915]]

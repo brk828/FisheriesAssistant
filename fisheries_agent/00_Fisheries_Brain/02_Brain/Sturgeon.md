@@ -23,6 +23,9 @@ Sturgeons (family Acipenseridae) are large, long-lived, anadromous or potadromou
 > The [[Welaka National Fish Hatchery]] is a federally operated fish culture station located in Welaka, Florida, originally established in 1926 by the Florida Shell Fish Commission as the **Welaka Fish Cultural Station** and transferred to Federal ownership in 1938 under the Farm Tenant Act. Initia...
 > -- *[[StationProfileOfWela_1994]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[DifferencesInTheOccurrenceOfNy_1947]]
 - [[MississippiRiverSturgeonsNewKe_1985]]
@@ -31,3 +34,4 @@ Sturgeons (family Acipenseridae) are large, long-lived, anadromous or potadromou
 - [[StationProfileOfMammothSpringN_19535]]
 - [[StationProfileOfWela_1994]]
 - [[VateriteAsTheCrystallineStruct_12254]]
+- [[WhatHaveICaught_12929]]

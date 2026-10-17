@@ -113,6 +113,39 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
 > -- *[[RainbowSmeltProposallakePowell_21115]]*
 
+> This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
+> -- *[[LetterOnImplementationCommitte_11623]]*
+
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
+> -- *[[CharacterizationOfTheLifeHisto_13649]]*
+
+> Minutes from the October 23, 1989 [[Cui-ui]] Recovery Team meeting in Reno, Nevada, documenting critical discussions about recovery plan development, hybridization concerns, and management strategies for this endangered sucker species. The team addressed timeline extensions, leadership transitions,...
+> -- *[[DraftMinutesOfTheOctoberRecove_13868]]*
+
+> This document contains the official minutes from the [[Cui-ui]] Recovery Team meeting held October 23, 1989 in Reno, Nevada. The meeting addressed critical issues in developing a recovery plan for [[Chasmistes cujus]], an endangered sucker species endemic to [[Pyramid Lake]]. Key concerns included...
+> -- *[[CuiuiRecoveryTeamMeetingMinute_13872]]*
+
+> This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
+> -- *[[LongtermLimnologicalAndWaterQu_17092]]*
+
+> This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
+> -- *[[CommentsOnTheBiologicalOpinion_17166]]*
+
+> This correspondence from the [[Bureau of Reclamation]] (March 18, 1988) responds to a request for federal support of [[Conner Dam]] construction on the [[Gila River]] in New Mexico as part of the [[Central Arizona Project]]. The Bureau declined further consideration, citing economic infeasibility...
+> -- *[[ConnerDamAsPartOfCentralArizon_19170]]*
+
+> This memorandum from the [[Glen Canyon Environmental Studies]] program announces a technical review meeting scheduled for June 11, 1993, to evaluate the [[U.S. Fish and Wildlife Service]] flow scenario for [[Glen Canyon Dam]] operations. The meeting was relocated to accommodate increased attendance...
+> -- *[[GlenCanyonEnvironmentalStudies_19728]]*
+
+> This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
+> -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
+
+> This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
+> -- *[[SummaryjanuaryManagementGroupM_21002]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -210,3 +243,14 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
 - [[WrittenCommentsOnDraftBiologic_20522]]
 - [[RainbowSmeltProposallakePowell_21115]]
+- [[LetterOnImplementationCommitte_11623]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[CharacterizationOfTheLifeHisto_13649]]
+- [[DraftMinutesOfTheOctoberRecove_13868]]
+- [[CuiuiRecoveryTeamMeetingMinute_13872]]
+- [[LongtermLimnologicalAndWaterQu_17092]]
+- [[CommentsOnTheBiologicalOpinion_17166]]
+- [[ConnerDamAsPartOfCentralArizon_19170]]
+- [[GlenCanyonEnvironmentalStudies_19728]]
+- [[AgencyRecalcitranceAndEvasionR_20349]]
+- [[SummaryjanuaryManagementGroupM_21002]]

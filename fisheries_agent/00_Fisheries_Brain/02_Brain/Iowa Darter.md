@@ -23,9 +23,13 @@ The Iowa Darter is a small freshwater fish species documented in mid-20th centur
 > - **Stocking accuracy issues:** Actual fry counts deviated substantially from intended targets (up to 61.7% error), attributable to fry fragility, developmental stage-dependent packing density in sampling tubes, and yolk-sac-driven activity differences. Younger, more yolk-laden fry (golden colore...
 > -- *[[RatesOfSurvivalAndGrowthOfBlue_12437]]*
 
+> This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
+> -- *[[PrelimaryObservationsOnTheToxi_14434]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[FoodOfYoungPikeEsoxLuciusLAndA_1951]]
 - [[IncreasedGrowthRateOfRockBassA_15683]]
 - [[RatesOfSurvivalAndGrowthOfBlue_12437]]
+- [[PrelimaryObservationsOnTheToxi_14434]]

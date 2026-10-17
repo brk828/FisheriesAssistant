@@ -83,6 +83,24 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > This document presents a comprehensive set of recovery alternatives for four endangered big river fishes of the [[Colorado River Basin]], prepared for the Six Agency Committee in August 1993. The proposal outlines three primary recovery concepts: habitat creation and management, propagation, and...
 > -- *[[ColoradoRiverEndangeredFishRec_15072]]*
 
+> This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
+> -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
+
+> This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
+> -- *[[LetterOnImplementationCommitte_11623]]*
+
+> The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14803]]*
+
+> This paper examines the dramatic decline of aquatic habitats and native fishes in the arid American Southwest over the past half century. Physical habitat changes from dams, diversions, channelization, and stream drying, combined with extensive introduction of non-native fish species, have severely...
+> -- *[[DecliningSouthwesternAquaticHa_15002]]*
+
+> This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
+> -- *[[ExecutiveSummariescoloradoRive_19604]]*
+
+> This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
+> -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -231,3 +249,9 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[VerdeRiverPerkinsvillesycamore_2023]]
 - [[EndangeredAndThreatenedWildlif_11550]]
 - [[ColoradoRiverEndangeredFishRec_15072]]
+- [[StreamSurveyOfTheSanFranciscoR_11523]]
+- [[LetterOnImplementationCommitte_11623]]
+- [[EndangeredAndThreatenedWildlif_14803]]
+- [[DecliningSouthwesternAquaticHa_15002]]
+- [[ExecutiveSummariescoloradoRive_19604]]
+- [[OutlineOfSanBernardinoRanchMan_20829]]

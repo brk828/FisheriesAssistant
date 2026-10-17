@@ -56,6 +56,15 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
 > -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
+> -- *[[FishesAndAquaticResourcesOfThe_15407]]*
+
+> This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
+> -- *[[LongtermLimnologicalAndWaterQu_17092]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -96,3 +105,6 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[HumpbackChubEggCollectionInGra_13013]]
 - [[RecommendationsToColoradoRiver_14701]]
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[FishesAndAquaticResourcesOfThe_15407]]
+- [[LongtermLimnologicalAndWaterQu_17092]]

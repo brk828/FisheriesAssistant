@@ -11,5 +11,9 @@ Bubbling Ponds State Fish Hatchery is a state-operated fish culture facility ide
 > This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
 > -- *[[IndigenousBigriverFishesColora_18295]]*
 
+> This preliminary draft management prospectus, submitted by the Arizona Fishery Resources Office to the U.S. Fish & Wildlife Service Southwest Regional Director in February 1995, outlines a comprehensive fisheries management plan for four federally endangered "big-river" fish species in the Lower...
+> -- *[[PreliminaryDraftColoradoRiverL_11719]]*
+
 ## Mentioned In
 - [[IndigenousBigriverFishesColora_18295]]
+- [[PreliminaryDraftColoradoRiverL_11719]]

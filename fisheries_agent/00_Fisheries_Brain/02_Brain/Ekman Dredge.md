@@ -14,6 +14,10 @@ auto_enriched: true
 > - The **multiple-plate sampler** provides a practical, inexpensive, and easily operated method for estimating benthic productivity via colonization of artificial substrate, complementing traditional [[Ekman Dredge]] sampling. - Dry-weight biomass from sampler colonization **correlated with fish y...
 > -- *[[SamplingBenthosToEstimateProdu_12795]]*
 
+> This study examined the impact of toxaphene treatment for fish eradication on the benthic invertebrate community of [[Hartlaub Lake]], Wisconsin. The 37-acre lake was treated with 0.1 ppm toxaphene on July 10, 1962, to remove undesirable fish populations. Sampling from the profundal zone (23 feet...
+> -- *[[TheEffectOfAToxapheneTreatment_20404]]*
+
 ## Mentioned In
 - [[ChydoridCladoceraRemainsInSurf_12201]]
 - [[SamplingBenthosToEstimateProdu_12795]]
+- [[TheEffectOfAToxapheneTreatment_20404]]

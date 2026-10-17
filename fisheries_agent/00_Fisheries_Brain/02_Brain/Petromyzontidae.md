@@ -26,6 +26,12 @@ Petromyzontidae is a family of jawless fish commonly known as lampreys, characte
 > This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
 > -- *[[DistributionalAndLocalVernacul_13815]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AProvisionalCheckListOfTheFish_15941]]
@@ -39,3 +45,5 @@ Petromyzontidae is a family of jawless fish commonly known as lampreys, characte
 - [[ReviewOfFreshwaterFishesOfCana_17244]]
 - [[SelectedReferencesOnElectrofis_1980_05_06]]
 - [[DistributionalAndLocalVernacul_13815]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ProvisionalChecklistOfCanadian_21104]]

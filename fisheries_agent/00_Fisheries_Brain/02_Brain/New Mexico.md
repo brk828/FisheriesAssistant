@@ -17,9 +17,13 @@ auto_enriched: true
 > This U.S. Fish and Wildlife Service biological opinion, issued August 18, 1994, evaluates the effects of repairing Forest Road 449A in [[Gila County]], [[Arizona]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis). The consultation addresses a 1.5-mile road repair project crossing...
 > -- *[[ReBiologicalOpinionOnRepairOfF_15004]]*
 
+> This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
+> -- *[[UnitedStatesListOfEndangeredFa_11533]]*
+
 ## Mentioned In
 - [[RainbowSmeltIntroductionIntoLa_1989]]
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[LectureNotesFromBiologyClass_13784]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[ReBiologicalOpinionOnRepairOfF_15004]]
+- [[UnitedStatesListOfEndangeredFa_11533]]

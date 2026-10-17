@@ -32,6 +32,9 @@ Cienega de Santa Clara is a wetland preserve located in the Colorado River Delta
 > This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
 > -- *[[SummaryOfEvents_18368]]*
 
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
 ## Mentioned In
 - [[CoordinatedResourceActivitiesC_1997_04_16]]
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
@@ -40,3 +43,4 @@ Cienega de Santa Clara is a wetland preserve located in the Colorado River Delta
 - [[AgendaAttendeesAndSummariesOfP_14401]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[SummaryOfEvents_18368]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]

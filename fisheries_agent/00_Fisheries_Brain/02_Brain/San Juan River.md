@@ -59,6 +59,15 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 > This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
 > -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
 
+> This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
+> -- *[[LetterOnImplementationCommitte_11623]]*
+
+> This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
+> -- *[[LongtermLimnologicalAndWaterQu_17092]]*
+
+> This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
+> -- *[[SummaryjanuaryManagementGroupM_21002]]*
+
 ## Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -94,3 +103,6 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 - [[DraftmanagementPlanForTheRazor_11427]]
 - [[RecommendationsToColoradoRiver_14701]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
+- [[LetterOnImplementationCommitte_11623]]
+- [[LongtermLimnologicalAndWaterQu_17092]]
+- [[SummaryjanuaryManagementGroupM_21002]]

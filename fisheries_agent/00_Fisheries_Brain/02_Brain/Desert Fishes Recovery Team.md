@@ -35,6 +35,9 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 > This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
 > -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
 
+> This correspondence from the [[Bureau of Land Management]] [[Tucson Resource Area Office]] to Dr. W.L. Minckley, Team Leader of the [[Desert Fishes Recovery Team]], provides input on the Recovery Team's functions and duties. Written by Jeffrey R. Simms and transmitted March 16, 1993, the letter...
+> -- *[[DfrtAccomplishmentsduties_18989]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -125,3 +128,4 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
+- [[DfrtAccomplishmentsduties_18989]]

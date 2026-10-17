@@ -251,6 +251,99 @@ The Colorado River is a major southwestern North American river system that serv
 > This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
 > -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
 
+> This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
+> -- *[[UnitedStatesListOfEndangeredFa_11533]]*
+
+> This paper presents methods and results from radiotelemetry studies of [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the [[Green River]] basin (1980-1985), evaluating radiotracking success in high-conductivity waters and comparing habitat data obtained via radiotelemetry versus electrofishing....
+> -- *[[AcquisitionOfHabitatPreference_11568]]*
+
+> This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
+> -- *[[LetterOnImplementationCommitte_11623]]*
+
+> This draft management plan addresses four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). Submitted by the...
+> -- *[[DraftLowerColoradoRiverBasinNa_11647]]*
+
+> This preliminary draft management prospectus, submitted by the Arizona Fishery Resources Office to the U.S. Fish & Wildlife Service Southwest Regional Director in February 1995, outlines a comprehensive fisheries management plan for four federally endangered "big-river" fish species in the Lower...
+> -- *[[PreliminaryDraftColoradoRiverL_11719]]*
+
+> This correspondence from J. Holt Williamson (Fishery Biologist, U.S. Fish and Wildlife Service) to Paul C. Marsh at Arizona State University expresses interest in participating in scheduled sampling activities for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) during...
+> -- *[[ReceivedNoticeOnRazorbackSucke_12078]]*
+
+> This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
+> -- *[[DraftdistributionAndIncidenceO_12207]]*
+
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
+> This study used allozyme electrophoresis to assess phylogenetic relationships within the cyprinid tribe [[Plagopterini]] of western North America. The research examined 28 presumptive gene loci across multiple genera including [[Lepidomeda]], [[Meda]], [[Plagopterus]], and [[Gila copei]], plus five...
+> -- *[[AllozymicVariationAndSystemati_12782]]*
+
+> This memorandum from the Management Biologist at [[Dexter National Fish Hatchery]] provides detailed review comments on a proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species. Dated January 12, 1990, the document critiques the technical accuracy, writing...
+> -- *[[ReviewOfProposedRazorbackSucke_12984]]*
+
+> This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
+> -- *[[ConcernsAboutIntroductionOfRai_13174]]*
+
+> This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
+> -- *[[CharacterizationOfTheLifeHisto_13649]]*
+
+> This document is a formal request from Arizona State University's Department of Zoology to the U.S. Fish and Wildlife Service for tissue samples and gametes of [[Razorback Sucker]] (*Xyrauchen texanus*) from two facilities: [[Dexter National Fish Hatchery]] (DNFH) and [[Ouray Endangered Fish...
+> -- *[[RequestForTissuesAndGametesOfR_13796]]*
+
+> This document outlines a comprehensive research proposal by Wayne C. Starnes ([[Smithsonian Institution]]) to address taxonomic and genetic questions regarding [[Gila]] species in the [[Colorado River]] basin under a cooperative agreement with [[USFWS]]. The project aims to resolve the taxonomic...
+> -- *[[GilaTaxonomyProjectIssuesAndPr_14720]]*
+
+> This paper examines the dramatic decline of aquatic habitats and native fishes in the arid American Southwest over the past half century. Physical habitat changes from dams, diversions, channelization, and stream drying, combined with extensive introduction of non-native fish species, have severely...
+> -- *[[DecliningSouthwesternAquaticHa_15002]]*
+
+> This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
+> -- *[[ConservationOfNativeFreshwater_15444]]*
+
+> This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
+> -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
+
+> This Bureau of Reclamation document summarizes an April 6, 1993 Selective Withdrawal Investigations Workgroup meeting held in Phoenix, Arizona. The multi-disciplinary workgroup evaluated the feasibility and potential impacts of installing selective withdrawal facilities at [[Glen Canyon Dam]] to...
+> -- *[[SelectiveWithdrawalWorkgroupMe_15753]]*
+
+> This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
+> -- *[[LongtermLimnologicalAndWaterQu_17092]]*
+
+> This memorandum and Federal Register notice document the extension of the public comment period for the proposed critical habitat designation for four endangered fish species in the [[Colorado River Basin]]: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[ExtensionOfPublicCommentPeriod_17380]]*
+
+> This proposal by [[Michael J.C. Kearsley]] and [[Tina J. Ayers]] from [[Northern Arizona University]] requests funding to continue monitoring riparian and wetland plant assemblages in the [[Colorado River]] corridor downstream of [[Glen Canyon Dam]] in [[Grand Canyon National Park]]. The 12-month...
+> -- *[[TransitionMonitoringForRiparia_17903]]*
+
+> This note documents the first records of [[Red-ear Sunfish]] (*Lepomis microlophus*) and [[Smallmouth Bass]] (*Micropterus dolomieui*) in the lower [[Colorado River]], California. The red-ear sunfish represents a new addition to California's freshwater fish fauna, while the smallmouth bass was...
+> -- *[[TheOccurrenceOfTwoAdditionalCe_18140]]*
+
+> This 1991 report presents scientifically based recommendations for interim operating procedures at [[Glen Canyon Dam]] to protect downstream aquatic and riparian resources in [[Grand Canyon National Park]] during the period between research flows (ending July 1991) and implementation of a Record of...
+> -- *[[InterimFlowsForGrandCanyonReco_18454]]*
+
+> This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
+> -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
+
+> This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
+> -- *[[EvolutionaryRelationshipsOfThe_19110]]*
+
+> This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
+> -- *[[ExecutiveSummariescoloradoRive_19604]]*
+
+> This document is a memorandum and program proposal from the Recovery Program for Endangered Fishes of the Upper Colorado River Basin, dated September 23, 1994. It announces a meeting scheduled for November 8-10, 1994, to discuss goals, strategies, and issues of the [[Flooded Bottom Lands...
+> -- *[[MeetingToDiscussProgramGoalsSt_19639]]*
+
+> This memorandum from the [[Glen Canyon Environmental Studies]] program announces a technical review meeting scheduled for June 11, 1993, to evaluate the [[U.S. Fish and Wildlife Service]] flow scenario for [[Glen Canyon Dam]] operations. The meeting was relocated to accommodate increased attendance...
+> -- *[[GlenCanyonEnvironmentalStudies_19728]]*
+
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
+> This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
+> -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -644,3 +737,34 @@ The Colorado River is a major southwestern North American river system that serv
 - [[ColoradoRiverEndangeredFishRec_15072]]
 - [[TemporalAndSpatialRelationsBet_17861]]
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
+- [[UnitedStatesListOfEndangeredFa_11533]]
+- [[AcquisitionOfHabitatPreference_11568]]
+- [[LetterOnImplementationCommitte_11623]]
+- [[DraftLowerColoradoRiverBasinNa_11647]]
+- [[PreliminaryDraftColoradoRiverL_11719]]
+- [[ReceivedNoticeOnRazorbackSucke_12078]]
+- [[DraftdistributionAndIncidenceO_12207]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[DraftecologicalDeterminismHybr_12773]]
+- [[AllozymicVariationAndSystemati_12782]]
+- [[ReviewOfProposedRazorbackSucke_12984]]
+- [[ConcernsAboutIntroductionOfRai_13174]]
+- [[CharacterizationOfTheLifeHisto_13649]]
+- [[RequestForTissuesAndGametesOfR_13796]]
+- [[GilaTaxonomyProjectIssuesAndPr_14720]]
+- [[DecliningSouthwesternAquaticHa_15002]]
+- [[ConservationOfNativeFreshwater_15444]]
+- [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[SelectiveWithdrawalWorkgroupMe_15753]]
+- [[LongtermLimnologicalAndWaterQu_17092]]
+- [[ExtensionOfPublicCommentPeriod_17380]]
+- [[TransitionMonitoringForRiparia_17903]]
+- [[TheOccurrenceOfTwoAdditionalCe_18140]]
+- [[InterimFlowsForGrandCanyonReco_18454]]
+- [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[EvolutionaryRelationshipsOfThe_19110]]
+- [[ExecutiveSummariescoloradoRive_19604]]
+- [[MeetingToDiscussProgramGoalsSt_19639]]
+- [[GlenCanyonEnvironmentalStudies_19728]]
+- [[ConservationGeneticsInTheManag_20087]]
+- [[AgencyRecalcitranceAndEvasionR_20349]]

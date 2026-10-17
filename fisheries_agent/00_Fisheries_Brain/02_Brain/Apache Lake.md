@@ -20,7 +20,11 @@ Apache Lake is a warm, monomictic desert reservoir on the Salt River in central 
 > The proposal frames the resident fish community of **[[Apache Lake]]** as largely composed of species adapted to **quiet-water (lentic) habitats**, making them potentially vulnerable to altered current regimes introduced by pump-storage operations. Key ecological considerations outlined include:
 > -- *[[ProposalForAquaticInvestigatio_1979_04_20]]*
 
+> This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
+> -- *[[InvestigationsOfCommercialFish_18562]]*
+
 ## Mentioned In
 - [[FactorsInfluencingFishDistribu_15011]]
 - [[OccurrenceOfTwoSpeciesOfFreshw_11814]]
 - [[ProposalForAquaticInvestigatio_1979_04_20]]
+- [[InvestigationsOfCommercialFish_18562]]

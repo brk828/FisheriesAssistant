@@ -17,5 +17,9 @@ auto_enriched: true
 > - **Test design:** Three 50 ft × 50 ft plots treated with granular Simazine at increasing rates: 100, 150, and 200 lbs/acre (applied May 16, 1960). - **Simazine result:** **No control effect** observed on heavy [[Myriophyllum]] growth at any tested dosage, up to 200 lbs/acre — indicating ineffect...
 > -- *[[ExperimentalAquaticVegetationC_13842]]*
 
+> This paper describes research conducted at the [[Water Pollution Research Laboratory]] in Stevenage, England, examining how rooted aquatic plants and benthic macro-invertebrates affect the oxygen balance in small streams. The study develops and applies methods for measuring photosynthesis,...
+> -- *[[SomeEffectsOfPlantsAndAnimalsO_15778]]*
+
 ## Mentioned In
 - [[ExperimentalAquaticVegetationC_13842]]
+- [[SomeEffectsOfPlantsAndAnimalsO_15778]]

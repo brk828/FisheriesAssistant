@@ -20,9 +20,13 @@ Gambusia nobilis, commonly known as the Big Bend gambusia, is a small livebearin
 > - **53 total fish species** documented for the Pecos River, with *Morone chrysops* noted as an introduced addition to the native fauna count. - **New species description**: *[[Ictalurus Chihuahua]]* n. sp. is introduced in this checklist within [[Ictaluridae]]. - **Conservation status flags** app...
 > -- *[[ChecklistOfPecosRiverAndMexica_18282]]*
 
+> This study documents temporal changes in a long-standing hybrid swarm between the endangered endemic [[Gambusia heterochir]] (Clear Creek Gambusia) and [[Gambusia affinis]] (Western Mosquitofish) in [[Clear Creek]], [[Menard County]], Texas, following reconstruction of the uppermost dam in 1979....
+> -- *[[TemporalChangesInTheGambusiaHe_15772]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AClassificationOfTexasAquaticC_15773]]
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[ObservationsOnTheBreedingBehav_14392]]
 - [[StudiesOfGambusiaCannibalism_14238]]
+- [[TemporalChangesInTheGambusiaHe_15772]]

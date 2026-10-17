@@ -29,6 +29,9 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
 > -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
 
+> This completion report (Project F-7-R-4, Work Plan 4, Job A-1) documents a comprehensive fisheries investigation of backwater lakes along the [[Lower Colorado River]] within the [[Imperial National Wildlife Refuge]], Arizona, conducted from January 16 to October 15, 1961. The study aimed to...
+> -- *[[ABasicSurveyOfWatersInDistrict_14982]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[CatalogingOfSmallImpoundmentOf_12167]]
@@ -40,3 +43,4 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 - [[TripReportLakeMohave_1993_03_26]]
 - [[FishPlentifulInGuatemalaLake_19070]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
+- [[ABasicSurveyOfWatersInDistrict_14982]]

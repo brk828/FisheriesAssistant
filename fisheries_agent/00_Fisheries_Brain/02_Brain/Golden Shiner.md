@@ -38,6 +38,18 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
 > -- *[[SomeObservationsOnTheReclamati_15490]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
+> This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
+> -- *[[PrelimaryObservationsOnTheToxi_14434]]*
+
+> This technical report from the Michigan Department of Conservation Institute for Fisheries Research provides comprehensive guidance on the biology, ecology, and commercial culture of minnows (family [[Cyprinidae]]) in Michigan waters. The [[Cyprinidae]] is one of the largest fish families globally,...
+> -- *[[MinnowsCyprinidae_17384]]*
+
+> This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
+> -- *[[RoughFishControl_20167]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -80,3 +92,7 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[SomeObservationsOnTheReclamati_15490]]
+- [[WhatHaveICaught_12929]]
+- [[PrelimaryObservationsOnTheToxi_14434]]
+- [[MinnowsCyprinidae_17384]]
+- [[RoughFishControl_20167]]

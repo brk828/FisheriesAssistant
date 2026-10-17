@@ -77,6 +77,18 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 > This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
 > -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
 
+> This document comprises field collection notes from aquatic surveys conducted by James F. LeRousty throughout the [[Gila River]] Basin and [[San Pedro River]] system in Arizona and New Mexico during 1973. The notes document multiple sampling locations from April through December 1973, recording...
+> -- *[[FieldNotesAtTheSanPedroGilaAnd_12645]]*
+
+> This correspondence from the Bureau of Land Management Safford District Office invites Dr. W.L. Minckley to participate in a meeting of the San Pedro Biological Resources Technical Committee scheduled for April 5, 1990. The meeting's purpose is to discuss and draft objectives and planned actions...
+> -- *[[SanPredoBiologicalResourcesTec_17354]]*
+
+> This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
+> -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
+
+> The [[Bureau of Land Management]] (BLM) announced a temporary six-month suspension of land acquisitions along the [[San Pedro River]] in southeastern Arizona following June 10 discussions with Natural Resource Conservation Districts (NRCDs). The decision responds to concerns from private landowners...
+> -- *[[BlmRespondsToPublicConcernsAlo_19144]]*
+
 ## Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -143,3 +155,7 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[EndangeredAndThreatenedWildlif_11550]]
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
+- [[FieldNotesAtTheSanPedroGilaAnd_12645]]
+- [[SanPredoBiologicalResourcesTec_17354]]
+- [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[BlmRespondsToPublicConcernsAlo_19144]]

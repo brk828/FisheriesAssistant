@@ -29,6 +29,15 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
 > -- *[[InlandCommercialFisheriesWorks_15658]]*
 
+> This Bureau of Land Management (BLM) Manual Section 6840, dated September 16, 1988, establishes comprehensive policy and guidance for the conservation of Special Status Species (plants and animals) and their habitats on BLM-administered lands. Special Status Species include those proposed for...
+> -- *[[SpecialStatusSpeciesManagement_11467]]*
+
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
+> This document contains two Federal Register notices from June 1997. The primary notice proposes codification of the [[Endangered Species Act]] "No Surprises" policy, which provides regulatory assurances to holders of incidental take permits under [[Habitat Conservation Plans]] (HCPs). The policy...
+> -- *[[InteriorPublishesProposedNoSup_14551]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -47,3 +56,6 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[TribalAndTreatyObligationsIssu_18113]]
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
 - [[InlandCommercialFisheriesWorks_15658]]
+- [[SpecialStatusSpeciesManagement_11467]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[InteriorPublishesProposedNoSup_14551]]

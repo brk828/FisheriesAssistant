@@ -11,6 +11,14 @@ auto_enriched: true
 > Research at [[Auburn University]] Agricultural Experiment Station demonstrated that intensive pond management can yield up to 1.5 tons of [[Channel Catfish]] (Ictalurus punctatus) per acre annually. The optimal stocking combination consists of 3,000 catfish, 1,000 [[Fathead Minnow]]s (Pimephales...
 > -- *[[OverATonOfChannelCatfishPerAcr_18668]]*
 
+> This document describes the evolution of pond fertilization methods developed by [[Auburn University]] Agricultural Experiment Station from 1934-1938 and refined through continued research. The research demonstrates that older ponds (5-15 years of fertilization history) require only phosphate...
+> -- *[[FertilizingFarmFishPonds_15115]]*
+
+> This experimental study by [[George N. Greene]] at [[Auburn University]] (1967-1968) investigated the effects of three nitrogen sources (sodium nitrate, ammonium carbonate, and cottonseed meal) and the presence of [[Cecil Soil]] on fish production and water chemistry in fertilized plastic pools....
+> -- *[[EffectOfDifferentNitrogenSourc_19233]]*
+
 ## Mentioned In
 - [[ExperimentsOnCommercialFishPro_15109]]
 - [[OverATonOfChannelCatfishPerAcr_18668]]
+- [[FertilizingFarmFishPonds_15115]]
+- [[EffectOfDifferentNitrogenSourc_19233]]

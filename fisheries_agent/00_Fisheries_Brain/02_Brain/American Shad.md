@@ -26,6 +26,12 @@ American Shad (Alosa sapidissima) is a diadromous fish species of significant ec
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
+> -- *[[ConservationOfNativeFreshwater_15444]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[AbundanceOfStJohnsRiverShad_1960_03_08]]
 - [[EvidenceOfAmericanSh_1965]]
@@ -38,3 +44,5 @@ American Shad (Alosa sapidissima) is a diadromous fish species of significant ec
 - [[PreliminaryStudiesOfTheShadAlo_15433]]
 - [[UsFishAndWildlifeServiceMeetin_15771]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[ConservationOfNativeFreshwater_15444]]
+- [[ProvisionalChecklistOfCanadian_21104]]

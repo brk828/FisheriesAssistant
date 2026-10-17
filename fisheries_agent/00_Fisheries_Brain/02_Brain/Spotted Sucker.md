@@ -23,6 +23,12 @@ The Spotted Sucker is a freshwater fish species found in eastern North American 
 > **Community Structure — Pre-Impoundment (1960–1962):** Dominated by (in decreasing abundance): minnows ([[Cyprinidae]]), [[Redhorse]] (*Moxostoma* spp.), [[Longear Sunfish]] (*Lepomis megalotis*), darters ([[Percidae]]), and [[Madtoms]] (*Noturus* spp.). Other common taxa: [[Rock Bass]] (*Amblopl...
 > -- *[[InfluenceOfAKentuckyFloodContr_15125]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[ChangesInTheFishPopulationInTh_12453]]
@@ -31,3 +37,5 @@ The Spotted Sucker is a freshwater fish species found in eastern North American 
 - [[InfluenceOfAKentuckyFloodContr_15125]]
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
 - [[SomeObservationsOnLimnologyAnd_1954]]
+- [[WhatHaveICaught_12929]]
+- [[ProvisionalChecklistOfCanadian_21104]]

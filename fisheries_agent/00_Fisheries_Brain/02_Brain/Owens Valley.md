@@ -20,7 +20,11 @@ The Owens Valley represents a significant case study in the historical transitio
 > - **Spring-fed refugia and marshes**: e.g., [[Devils Hole]], [[Ash Meadows]] spring complex, and [[Cottonball Marsh]] — highly restricted, often single-spring endemics with minimal genetic and geographic buffering against disturbance. - **Closed-basin desert streams**: [[Amargosa River]] and [[Sa...
 > -- *[[AgendaForDeathValleyAreaCommit_1987_03_13]]*
 
+> This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
+> -- *[[FishesAndAquaticResourcesOfThe_15407]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[DesertPupfishesReflectionsOnRe_11118]]
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
+- [[FishesAndAquaticResourcesOfThe_15407]]

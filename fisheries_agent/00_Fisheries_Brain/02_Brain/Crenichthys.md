@@ -11,7 +11,11 @@ Crenichthys is a genus of small cyprinodontid fishes commonly known as springfis
 > - **[[Fundulus]]** (topminnows): Relatively easily hybridized genus within Cyprinodontidae; broad geographic and habitat distribution across North American fresh and brackish waters. - **[[Crenichthys]]** (springfish, e.g., *Crenichthys baileyi*): A comparatively **difficult-to-hybridize genus** ...
 > -- *[[TheUseOfHybridizationInTheDete_14223]]*
 
+> This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
+> -- *[[FishesAndAquaticResourcesOfThe_15407]]*
+
 ## Mentioned In
 - [[CyprinodonAndRelatedGeneraStud_15366]]
 - [[LifeHistoryStudiesOfThePahrump_1964_01_01]]
 - [[TheUseOfHybridizationInTheDete_14223]]
+- [[FishesAndAquaticResourcesOfThe_15407]]

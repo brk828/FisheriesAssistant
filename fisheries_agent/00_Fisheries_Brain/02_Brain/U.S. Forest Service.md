@@ -38,6 +38,9 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
 > -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
 
+> The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14803]]*
+
 ## Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -71,3 +74,4 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[EndangeredAndThreatenedWildlif_11580]]
 - [[FishFaunaOfTheMiddleRioGrandeS_15005]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
+- [[EndangeredAndThreatenedWildlif_14803]]

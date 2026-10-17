@@ -20,6 +20,9 @@ The Gila National Forest is a protected forest area in New Mexico that encompass
 > The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Meda fulgida]] (spikedace) as a threatened species under the Endangered Species Act of 1973, as amended, and to designate critical habitat. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix,...
 > -- *[[EndangeredAndThreatenedWildlif_11554]]*
 
+> This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
+> -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11563]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -32,3 +35,4 @@ The Gila National Forest is a protected forest area in New Mexico that encompass
 - [[StipulationRegardingLivestockG_1998_04_16]]
 - [[AddendumToTheMarchEnvironmenta_11496]]
 - [[EndangeredAndThreatenedWildlif_11554]]
+- [[StreamSurveyOfTheSanFranciscoR_11523]]

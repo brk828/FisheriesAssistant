@@ -29,6 +29,9 @@ A Habitat Conservation Plan (HCP) is a comprehensive, legally binding document r
 > This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
 > -- *[[RequestForProposalspresubmitta_18342]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[BriefingNotesEndangeredFishInC_14950]]
@@ -39,3 +42,4 @@ A Habitat Conservation Plan (HCP) is a comprehensive, legally binding document r
 - [[ProposedMonitoringProtocolElCo_1999]]
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[RequestForProposalspresubmitta_18342]]
+- [[LowerColoradoRiverMultispecies_11766]]

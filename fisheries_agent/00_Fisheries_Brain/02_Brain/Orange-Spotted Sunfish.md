@@ -11,7 +11,11 @@ The Orange-Spotted Sunfish (Lepomis humilis) is a small, colorful North American
 > - **System type**: Small (95-acre), deep (max 55 ft), clear-water impoundment fed by a 1,600-acre tall-grass pasture drainage; siltation negligible. - **Habitat structure**: Abundant [[Chara]] and smartweed growth along most of the shoreline provided cover/spawning habitat; ~5 acres of shallow wa...
 > -- *[[ATenYearCreelCensusOnLakePawhu_1951]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
 - [[ToxicFreshWaterAlgae_14366]]
+- [[WhatHaveICaught_12929]]

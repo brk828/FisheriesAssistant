@@ -20,8 +20,12 @@ Big Bend National Park, located in Texas along the Rio Grande, is a critical con
 > This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
 > -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
 
+> This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
+> -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
+
 ## Mentioned In
 - [[DraftDesertFishesRecoveryPlan_1987_01_22]]
 - [[FishesInhabitingTheRioGrandeTe_1977_07_09]]
 - [[LetterOfIntentForJointWorkInNa_17188]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
+- [[ListOfFishesKnownOrExpectedToB_14196]]

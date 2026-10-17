@@ -32,6 +32,9 @@ Catostomus is a genus of freshwater suckers (family Catostomidae) native to Nort
 > **Taxonomic & Life-History Summary:** [[Smallmouth Bass]] (*Micropterus dolomieui dolomieui*) is a member of family [[Centrarchidae]]. Body thick and chunky with moderate-sized mouth; upper jaw usually not reaching posteriad past front of eye. Spinous dorsal fin low, soft dorsal fin with 13-15...
 > -- *[[SmallmouthBassMicropterusDolom_X-013f4e27]]*
 
+> This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
+> -- *[[CompositionAndDerivationOfTheF_15375]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -48,3 +51,4 @@ Catostomus is a genus of freshwater suckers (family Catostomidae) native to Nort
 - [[MorphologicalVariationInCatost_13689]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
+- [[CompositionAndDerivationOfTheF_15375]]

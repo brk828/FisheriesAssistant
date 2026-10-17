@@ -23,6 +23,9 @@ The Fountain Darter (*Etheostoma fonticola*) is a small, endangered percid fish 
 > - **Refugium function**: Hatcheries such as Dexter NFH&TC (New Mexico) and Willow Beach NFH (Arizona) serve as genetic and demographic refugia for imperiled Colorado River basin fishes ([[Razorback Sucker]], [[Colorado Squawfish]], [[Bonytail Chub]]), some populations retained since a 1974 year c...
 > -- *[[LetterToDrWLMinckleyOnTheHisto_19038]]*
 
+> This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
+> -- *[[UnitedStatesListOfEndangeredFa_11533]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[DistributionOfAnUndescribedDig_1999_12_14]]
@@ -30,3 +33,4 @@ The Fountain Darter (*Etheostoma fonticola*) is a small, endangered percid fish 
 - [[FountainDarterEtheostomaFontic_1993_05_19]]
 - [[LetterToDrWLMinckleyOnTheHisto_19038]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
+- [[UnitedStatesListOfEndangeredFa_11533]]

@@ -44,6 +44,15 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 > This unsolicited proposal to the [[U.S. Bureau of Reclamation]] outlines a three-year genetic monitoring program for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*) populations in [[Lake Mohave]], Arizona-Nevada. Submitted by researchers from [[Arizona...
 > -- *[[GeneticMonitoringOfRepatriated_17010]]*
 
+> This draft management plan addresses four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). Submitted by the...
+> -- *[[DraftLowerColoradoRiverBasinNa_11647]]*
+
+> This preliminary draft management prospectus, submitted by the Arizona Fishery Resources Office to the U.S. Fish & Wildlife Service Southwest Regional Director in February 1995, outlines a comprehensive fisheries management plan for four federally endangered "big-river" fish species in the Lower...
+> -- *[[PreliminaryDraftColoradoRiverL_11719]]*
+
+> This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
+> -- *[[ExecutiveSummariescoloradoRive_19604]]*
+
 ## Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -100,3 +109,6 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 - [[DemographicsAndMonitoringOfRep_2020]]
 - [[DraftLowerColoradoRiverBasinNa_11716]]
 - [[GeneticMonitoringOfRepatriated_17010]]
+- [[DraftLowerColoradoRiverBasinNa_11647]]
+- [[PreliminaryDraftColoradoRiverL_11719]]
+- [[ExecutiveSummariescoloradoRive_19604]]

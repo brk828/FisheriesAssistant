@@ -50,6 +50,15 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > This draft management plan addresses the recovery of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DraftLowerColoradoRiverBasinNa_11716]]*
 
+> This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
+> -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
+
+> This genetic survey assessed mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations (226 specimens) and one captive stock at [[Dexter National Fish Hatchery]] (33 specimens). Using PCR-SSCP analysis of the mitochondrial ND2 gene and D-loop sequencing, the study...
+> -- *[[GeneticVariationInDesertPupfis_15731]]*
+
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[BenthicInvertebratesOfTheEarth_1983]]
@@ -74,3 +83,6 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[DraftmanagementPlanForTheRazor_11427]]
 - [[DraftLowerColoradoRiverBasinNa_11716]]
+- [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[GeneticVariationInDesertPupfis_15731]]
+- [[ConservationGeneticsInTheManag_20087]]

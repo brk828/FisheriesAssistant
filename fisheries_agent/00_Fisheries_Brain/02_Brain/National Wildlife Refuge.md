@@ -23,6 +23,9 @@ A National Wildlife Refuge is a federally protected area managed to conserve fis
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This revised draft management plan, submitted by the [[Parker Fishery Resource Office]] to the [[U.S. Fish and Wildlife Service]] Region II in November 1996, addresses conservation of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*),...
+> -- *[[LowerColoradoRiverBasinManagem_18433]]*
+
 ## Mentioned In
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
 - [[ReCommentsOnTheFederalRegister_11571]]
@@ -31,3 +34,4 @@ A National Wildlife Refuge is a federally protected area managed to conserve fis
 - [[StockingOfEndangeredBonytailCh_1986_09_18]]
 - [[RecoveryEffortsForBonytailChub_11837]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[LowerColoradoRiverBasinManagem_18433]]

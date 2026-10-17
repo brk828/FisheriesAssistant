@@ -17,8 +17,12 @@ Lake Huron, one of the North American Great Lakes, is a critical freshwater ecos
 > This 1967 study by Ralph O. Brinkhurst examines the distribution of aquatic oligochaete worms (segmented annelids) in the benthic sediments of [[Saginaw Bay]], [[Lake Huron]], based on samples collected jointly by the Michigan State Conservation Department and the U.S. Bureau of Commercial Fisher...
 > -- *[[TheDistributionOfAquaticOligoc_12945]]*
 
+> This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
+> -- *[[ConcernsAboutIntroductionOfRai_13174]]*
+
 ## Mentioned In
 - [[SlicksOnLakeHuron_1962_12_29]]
 - [[StatusOfSeaLampreyProblem_15264]]
 - [[TheAmericanSmeltOsmerusMordaxM_1950]]
 - [[TheDistributionOfAquaticOligoc_12945]]
+- [[ConcernsAboutIntroductionOfRai_13174]]

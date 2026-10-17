@@ -38,6 +38,9 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 > This biological assessment evaluates potential impacts of the proposed [[Hoover Dam]] powerplant modification project on five federally listed or candidate species: [[Bonytail Chub]] (*Gila elegans*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bald Eagle]] (*Haliaeetus leucocephalus*),...
 > -- *[[BiologicalAssessmentOnThreaten_19806]]*
 
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -54,3 +57,4 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 - [[NoticeOfIntentToSueForViolatio_20521]]
 - [[BiologicalAssessmentProbableEf_11481]]
 - [[BiologicalAssessmentOnThreaten_19806]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]

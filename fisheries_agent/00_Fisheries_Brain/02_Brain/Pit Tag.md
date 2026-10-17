@@ -14,8 +14,12 @@ A Pit Tag, or Passive Integrated Transponder tag, is a microchip implant used to
 > - **[[Humpback Chub]]** — adults/subadults are physiologically robust to flow magnitude changes but require large peak/base flow ratios (three orders of magnitude) before adverse effects are observed; **eggs and larvae are vulnerable to washout** at much lower flow perturbations. - All native fis...
 > -- *[[NotesOfTechnicalReviewMeetingF_1994_03_04]]*
 
+> This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
+> -- *[[CharacterizationOfTheLifeHisto_13649]]*
+
 ## Mentioned In
 - [[FishHandlingProtocolAsunnhpPro_17005]]
 - [[LetterToDavidLWegnerRegardingH_1991_05_28]]
 - [[NotesOfTechnicalReviewMeetingF_1994_03_04]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
+- [[CharacterizationOfTheLifeHisto_13649]]

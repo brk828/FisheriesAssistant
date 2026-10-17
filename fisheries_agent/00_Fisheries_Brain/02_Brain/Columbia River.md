@@ -35,6 +35,15 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 > **Taxonomic & Life-History Summary**: [[Chinook Salmon]] (*Oncorhynchus tshawytscha*) from the [[Willamette River]] exhibit both yearling (migrate to sea after first winter) and subyearling (migrate before first winter) life histories, though this study focused exclusively on hatchery-produced...
 > -- *[[SizeAtReleaseSizeselectiveMort_2011]]*
 
+> This document (HW-25021) reports on a limnological study of radiobiological and ecological nature conducted to determine effects of [[Hanford]] pile effluents on organisms in the [[Columbia River]]. The study, initiated in fall 1948 with completion planned for April 1, 1952, examined radioactivity...
+> -- *[[TheRadioactivityAndEcologyOfAq_14009]]*
+
+> This 1966 Federal Aid completion report (F-18-R-13, Job 1) by Ted C. Bjornn evaluates two methods for estimating [[Chinook Salmon]] and [[Steelhead Trout]] harvest in Idaho waters: postal card questionnaires and salmon/steelhead permits. The study found that questionnaire-based estimates contained...
+> -- *[[StatewideFishingHarvestSurvey_17659]]*
+
+> This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
+> -- *[[EvolutionaryRelationshipsOfThe_19110]]*
+
 ## Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AccumulationAndRetentionOfRadi_1957]]
@@ -60,3 +69,6 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 - [[EnvironmentalImplicationsOfRad_14607]]
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[SizeAtReleaseSizeselectiveMort_2011]]
+- [[TheRadioactivityAndEcologyOfAq_14009]]
+- [[StatewideFishingHarvestSurvey_17659]]
+- [[EvolutionaryRelationshipsOfThe_19110]]

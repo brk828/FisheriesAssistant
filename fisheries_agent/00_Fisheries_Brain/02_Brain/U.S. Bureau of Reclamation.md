@@ -44,6 +44,18 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This unsolicited proposal to the [[U.S. Bureau of Reclamation]] outlines a three-year genetic monitoring program for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*) populations in [[Lake Mohave]], Arizona-Nevada. Submitted by researchers from [[Arizona...
 > -- *[[GeneticMonitoringOfRepatriated_17010]]*
 
+> This document comprises formal comments submitted by the [[Southern Nevada Water Authority]] (SNWA) to the [[U.S. Bureau of Reclamation]] regarding the [[Fish and Wildlife Service]] Final Biological and Conference Opinion on [[Lower Colorado River]] Operations and Maintenance from [[Lake Mead]] to...
+> -- *[[CommentsOnBiologicalAndConfere_11800]]*
+
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
+> This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
+> -- *[[CommentsOnTheBiologicalOpinion_17166]]*
+
+> This is a research proposal submitted by [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] in January 1990 to study genetic diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations using [[Mitochondrial DNA]] analysis. Principal investigator Professor [[Thomas E....
+> -- *[[GeneticDiversityOfRazorbackSuc_18428]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -69,3 +81,7 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[HighlightsOfAPeerReviewAndRoun_11448]]
 - [[GeneticMonitoringOfRepatriated_17010]]
+- [[CommentsOnBiologicalAndConfere_11800]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[CommentsOnTheBiologicalOpinion_17166]]
+- [[GeneticDiversityOfRazorbackSuc_18428]]

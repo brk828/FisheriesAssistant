@@ -17,9 +17,13 @@ Pickerel refers to a guild of game fish species within freshwater ecosystems, pr
 > The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
 > -- *[[Perch_16750]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[AnElectricalSurfaceDeviceForCa_16181]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[WeedControlPossibilitiesInMass_14648]]
 - [[Perch_16750]]
+- [[WhatHaveICaught_12929]]

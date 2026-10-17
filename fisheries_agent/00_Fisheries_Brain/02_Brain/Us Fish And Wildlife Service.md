@@ -26,6 +26,12 @@ The U.S. Fish and Wildlife Service is the primary federal agency responsible for
 > This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
 > -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
 
+> This letter from Dr. Richard N. Williams ([[Portland State University]]) to Jim French ([[Nevada Department of Wildlife]]) addresses a dispute over authorship claims for a research proposal concerning native [[Cutthroat Trout]] management in the western United States. Dr. Williams formally refutes...
+> -- *[[MrRosenfeldHadNoPartInThePlann_12044]]*
+
+> The [[Pima Pineapple Cactus]] (*Coryphantha scheeri* var. *robustispina*) was listed as endangered by the [[US Fish and Wildlife Service]] in October 1993. This rare [[Sonoran Desert]] species occurs in a restricted range from south [[Tucson]] to south of [[Nogales]], [[Mexico]]. The [[National...
+> -- *[[EndangeredCactusOffersNbsOppor_13220]]*
+
 ## Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1992_03_08]]
 - [[LetterFromCatronCountyCommissi_1992_12_01]]
@@ -40,3 +46,5 @@ The U.S. Fish and Wildlife Service is the primary federal agency responsible for
 - [[TheConservationDilemmaOfNonNat_15856]]
 - [[RequestForProposalspresubmitta_18342]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
+- [[MrRosenfeldHadNoPartInThePlann_12044]]
+- [[EndangeredCactusOffersNbsOppor_13220]]

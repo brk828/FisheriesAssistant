@@ -23,7 +23,11 @@ The Alabama Sturgeon (*Scaphirhynchus suttkusi*) is a critically endangered, end
 > The source document does not provide morphological data (e.g., meristics, body proportions, coloration) for *Scaphirhynchus suttkusi*. As a member of the family [[Acipenseridae]] and genus *Scaphirhynchus*, the [[Alabama Sturgeon]] is understood taxonomically to be closely related to the [[Shovel...
 > -- *[[NotificationOfPublicationOfExt_1994_09_20]]*
 
+> This Federal Register notice, published September 19, 1997, by the U.S. Fish and Wildlife Service presents an updated list of plant and animal taxa native to the United States that are candidates or proposed for listing as endangered or threatened under the Endangered Species Act of 1973, as...
+> -- *[[EndangeredAndThreatenedWildlif_11741]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11660]]
 - [[EstimatingTheProbabilityThatHi_1998]]
 - [[NotificationOfPublicationOfExt_1994_09_20]]
+- [[EndangeredAndThreatenedWildlif_11741]]

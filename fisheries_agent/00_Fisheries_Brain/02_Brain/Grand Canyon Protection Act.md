@@ -29,6 +29,9 @@ The Grand Canyon Protection Act is a federal mandate that requires ecosystem-bas
 > This preliminary draft management plan (December 1994) addresses the conservation and recovery of four federally endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]]...
 > -- *[[IndigenousBigriverFishesColora_18295]]*
 
+> This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
+> -- *[[LongtermLimnologicalAndWaterQu_17092]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
@@ -38,3 +41,4 @@ The Grand Canyon Protection Act is a federal mandate that requires ecosystem-bas
 - [[OrganicMatterRetentionInEddies_17090]]
 - [[TransmittalRegardingReasonable_19809]]
 - [[IndigenousBigriverFishesColora_18295]]
+- [[LongtermLimnologicalAndWaterQu_17092]]

@@ -11,5 +11,9 @@ Alaska, specifically Southeastern Alaska, is the geographic region where this st
 > This study documents the persistence and decomposition of dead [[Pink Salmon]] (Oncorhynchus gorbuscha) eggs and larvae in [[Sashin Creek]], [[Baranof Island]], [[Alaska]] from October 1961 through March 1963. Researchers tracked the 1961 brood year to determine whether residual dead eggs remained...
 > -- *[[DisappearanceOfDeadPinkSalmonE_12341]]*
 
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[DisappearanceOfDeadPinkSalmonE_12341]]
+- [[ProvisionalChecklistOfCanadian_21104]]

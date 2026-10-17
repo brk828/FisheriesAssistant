@@ -41,6 +41,15 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 > This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
 > -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
 
+> This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
+> -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
+
+> This correspondence from the [[Bureau of Reclamation]] (March 18, 1988) responds to a request for federal support of [[Conner Dam]] construction on the [[Gila River]] in New Mexico as part of the [[Central Arizona Project]]. The Bureau declined further consideration, citing economic infeasibility...
+> -- *[[ConnerDamAsPartOfCentralArizon_19170]]*
+
+> This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
+> -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
+
 ## Mentioned In
 - [[BoardOfCountyCommissionersOfTh_11767]]
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
@@ -62,3 +71,6 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
+- [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[ConnerDamAsPartOfCentralArizon_19170]]
+- [[AgencyRecalcitranceAndEvasionR_20349]]

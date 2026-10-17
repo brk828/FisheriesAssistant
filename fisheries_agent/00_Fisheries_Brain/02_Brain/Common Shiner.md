@@ -32,6 +32,9 @@ The Common Shiner is a small cyprinid minnow species utilized as a forage and ba
 > This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
 > -- *[[SomeObservationsOnTheReclamati_15490]]*
 
+> This technical report from the Michigan Department of Conservation Institute for Fisheries Research provides comprehensive guidance on the biology, ecology, and commercial culture of minnows (family [[Cyprinidae]]) in Michigan waters. The [[Cyprinidae]] is one of the largest fish families globally,...
+> -- *[[MinnowsCyprinidae_17384]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -49,3 +52,4 @@ The Common Shiner is a small cyprinid minnow species utilized as a forage and ba
 - [[ABibliographyAndHostListForThe_15289]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[SomeObservationsOnTheReclamati_15490]]
+- [[MinnowsCyprinidae_17384]]

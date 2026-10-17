@@ -26,6 +26,9 @@ White Sturgeon (Acipenser transmontanus) is a large, long-lived anadromous and p
 > This administrative report documents a record-breaking year for [[California Department of Fish and Game]] hatchery operations during fiscal year 1967-68. Despite two hatcheries being out of service for the entire year, the Department planted 2,706,909 lb of fish, exceeding the previous year's...
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14868]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[ObservationsOnTheFoodHabitsOfJ_20603]]
@@ -35,3 +38,4 @@ White Sturgeon (Acipenser transmontanus) is a large, long-lived anadromous and p
 - [[TheConservationDilemmaOfNonNat_15856]]
 - [[WhiteSturgeonWithSevenRowsOfSc_17276]]
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]

@@ -26,6 +26,9 @@ Salt Creek is an isolated, spring-fed desert stream in Riverside County, Califor
 > This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
 > -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
 
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[CAFGAnnualPermitReport_1992-12-15]]
@@ -39,3 +42,4 @@ Salt Creek is an isolated, spring-fed desert stream in Riverside County, Califor
 - [[SwimmingSpeedOfTheWesternSucke_14423]]
 - [[TelephoneConversationRecordSal_1991_09_24]]
 - [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[ConservationGeneticsInTheManag_20087]]

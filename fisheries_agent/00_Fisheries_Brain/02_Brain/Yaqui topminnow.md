@@ -35,6 +35,12 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
 > -- *[[FieldNotesOfTripToSanBernardin_13172]]*
 
+> The [[Arizona Department of Water Resources]] contracted [[Earth Technology Corporation]] in 1984 to reassess the feasibility of constructing a permanent-pool recreational lake on [[Leslie Creek]] in [[Cochise County]], Arizona. The original 1960s-1970s feasibility studies estimated average annual...
+> -- *[[FeasibilityStudyOfLeslieCanyon_15717]]*
+
+> This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
+> -- *[[DraftRecoveryPlanForTheEndange_15977]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -71,3 +77,5 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
+- [[FeasibilityStudyOfLeslieCanyon_15717]]
+- [[DraftRecoveryPlanForTheEndange_15977]]

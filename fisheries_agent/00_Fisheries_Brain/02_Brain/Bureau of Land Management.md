@@ -47,6 +47,21 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 > This memorandum from the [[Arizona Ecological Services State Office]] to the Assistant Regional Director provides detailed comments on proposed joint counterpart section 7 regulations for the [[Forest Service]] and [[Bureau of Land Management]]. Dated August 25, 1995, the document expresses support...
 > -- *[[ReviewOfProposedCounterpartReg_11907]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14803]]*
+
+> This correspondence from the Bureau of Land Management Safford District Office invites Dr. W.L. Minckley to participate in a meeting of the San Pedro Biological Resources Technical Committee scheduled for April 5, 1990. The meeting's purpose is to discuss and draft objectives and planned actions...
+> -- *[[SanPredoBiologicalResourcesTec_17354]]*
+
+> This correspondence from the [[Bureau of Land Management]] [[Tucson Resource Area Office]] to Dr. W.L. Minckley, Team Leader of the [[Desert Fishes Recovery Team]], provides input on the Recovery Team's functions and duties. Written by Jeffrey R. Simms and transmitted March 16, 1993, the letter...
+> -- *[[DfrtAccomplishmentsduties_18989]]*
+
+> The [[Bureau of Land Management]] (BLM) announced a temporary six-month suspension of land acquisitions along the [[San Pedro River]] in southeastern Arizona following June 10 discussions with Natural Resource Conservation Districts (NRCDs). The decision responds to concerns from private landowners...
+> -- *[[BlmRespondsToPublicConcernsAlo_19144]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -111,3 +126,8 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 - [[NewEquipmentAndSoftwareWillEnh_13224]]
 - [[CorrespondenceBetweenMinckleyA_16449]]
 - [[ReviewOfProposedCounterpartReg_11907]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[EndangeredAndThreatenedWildlif_14803]]
+- [[SanPredoBiologicalResourcesTec_17354]]
+- [[DfrtAccomplishmentsduties_18989]]
+- [[BlmRespondsToPublicConcernsAlo_19144]]

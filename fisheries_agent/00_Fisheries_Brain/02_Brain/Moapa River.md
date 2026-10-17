@@ -38,6 +38,9 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 > This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
 > -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
 
+> This document outlines a comprehensive research proposal by Wayne C. Starnes ([[Smithsonian Institution]]) to address taxonomic and genetic questions regarding [[Gila]] species in the [[Colorado River]] basin under a cooperative agreement with [[USFWS]]. The project aims to resolve the taxonomic...
+> -- *[[GilaTaxonomyProjectIssuesAndPr_14720]]*
+
 ## Mentioned In
 - [[DistributionOfFishesInTheSanRa_1980_01_30]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -50,3 +53,4 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 - [[CorrespondenceBetweenMinckleyA_16449]]
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
+- [[GilaTaxonomyProjectIssuesAndPr_14720]]

@@ -29,6 +29,12 @@ The Great Lakes represent a vast freshwater ecosystem of continental significanc
 > This document is a formal letter dated January 3, 1990, from [[Grand Canyon National Park]] Superintendent John H. Davis to Wayne Gustaveson of the [[Utah Division of Wildlife]], expressing opposition to a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The...
 > -- *[[ReProposalToIntroduceRainbowSm_13975]]*
 
+> This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
+> -- *[[ConcernsAboutIntroductionOfRai_13174]]*
+
+> This technical report from the Michigan Department of Conservation Institute for Fisheries Research provides comprehensive guidance on the biology, ecology, and commercial culture of minnows (family [[Cyprinidae]]) in Michigan waters. The [[Cyprinidae]] is one of the largest fish families globally,...
+> -- *[[MinnowsCyprinidae_17384]]*
+
 ## Mentioned In
 - [[ComparativeMorphometryOfFreshw_12456]]
 - [[CurrentRoleOfTroutCultureInMan_13158]]
@@ -59,3 +65,5 @@ The Great Lakes represent a vast freshwater ecosystem of continental significanc
 - [[UsFishAndWildlifeServiceMeetin_15771]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
 - [[ReProposalToIntroduceRainbowSm_13975]]
+- [[ConcernsAboutIntroductionOfRai_13174]]
+- [[MinnowsCyprinidae_17384]]

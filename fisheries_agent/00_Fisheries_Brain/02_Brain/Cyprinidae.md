@@ -65,6 +65,30 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > This correspondence from the [[Colorado River Fishes Recovery Team]] Leader to the U.S. Fish and Wildlife Service Regional Director outlines six critical recommendations regarding endangered fish recovery in the [[Colorado River]] system. Primary concerns include upgrading the listing status of...
 > -- *[[RecommendationsToColoradoRiver_14701]]*
 
+> This correspondence from J. Holt Williamson (Fishery Biologist, U.S. Fish and Wildlife Service) to Paul C. Marsh at Arizona State University expresses interest in participating in scheduled sampling activities for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) during...
+> -- *[[ReceivedNoticeOnRazorbackSucke_12078]]*
+
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
+> -- *[[ConservationOfNativeFreshwater_15444]]*
+
+> This memorandum and Federal Register notice document the extension of the public comment period for the proposed critical habitat designation for four endangered fish species in the [[Colorado River Basin]]: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[ExtensionOfPublicCommentPeriod_17380]]*
+
+> This technical report from the Michigan Department of Conservation Institute for Fisheries Research provides comprehensive guidance on the biology, ecology, and commercial culture of minnows (family [[Cyprinidae]]) in Michigan waters. The [[Cyprinidae]] is one of the largest fish families globally,...
+> -- *[[MinnowsCyprinidae_17384]]*
+
+> This administrative document represents a research proposal submission from [[Arizona State University]] to the [[Arizona Game and Fish Department]] for a study focused on [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*). The proposal was submitted on July 30, 1986, with...
+> -- *[[MedatiarogaStudy_19000]]*
+
+> This legal notice, dated September 12, 1994, from the Gila Watershed Partnership to the U.S. Fish and Wildlife Service challenges the adequacy of critical habitat designated for [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*) on March 8, 1994. The notice argues that the...
+> -- *[[SixtydayNoticeOfIntentToSueOve_20449]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -327,3 +351,11 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[EvaluationOfMjRosenfeldsBioche_14124]]
 - [[RecommendationsToColoradoRiver_14701]]
+- [[ReceivedNoticeOnRazorbackSucke_12078]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ConservationOfNativeFreshwater_15444]]
+- [[ExtensionOfPublicCommentPeriod_17380]]
+- [[MinnowsCyprinidae_17384]]
+- [[MedatiarogaStudy_19000]]
+- [[SixtydayNoticeOfIntentToSueOve_20449]]
+- [[ProvisionalChecklistOfCanadian_21104]]

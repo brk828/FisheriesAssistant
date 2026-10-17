@@ -29,6 +29,12 @@ The San Pedro Riparian National Conservation Area encompasses the San Pedro Rive
 > This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
 > -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
 
+> This correspondence from the Bureau of Land Management Safford District Office invites Dr. W.L. Minckley to participate in a meeting of the San Pedro Biological Resources Technical Committee scheduled for April 5, 1990. The meeting's purpose is to discuss and draft objectives and planned actions...
+> -- *[[SanPredoBiologicalResourcesTec_17354]]*
+
+> The [[Bureau of Land Management]] (BLM) announced a temporary six-month suspension of land acquisitions along the [[San Pedro River]] in southeastern Arizona following June 10 discussions with Natural Resource Conservation Districts (NRCDs). The decision responds to concerns from private landowners...
+> -- *[[BlmRespondsToPublicConcernsAlo_19144]]*
+
 ## Mentioned In
 - [[CommentLetterOnDraftGilaBoxRip_1993_12_30]]
 - [[EnvironmentalistsSueFortHuachu_11897]]
@@ -40,3 +46,5 @@ The San Pedro Riparian National Conservation Area encompasses the San Pedro Rive
 - [[TheNextParagraphIsMissingButTh_11894]]
 - [[LawsuitFiledAgainstFtHuachucaT_18965]]
 - [[ReContinuationOfTheUsArmysSanP_11808]]
+- [[SanPredoBiologicalResourcesTec_17354]]
+- [[BlmRespondsToPublicConcernsAlo_19144]]

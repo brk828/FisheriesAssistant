@@ -38,6 +38,9 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 > This monitoring report documents the status of native fish species stocked at [[Palm Lake]], [[Hassayampa River Preserve]], Arizona, sampled on 2-3 April 1990. The assessment evaluated survival and condition of [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*)...
 > -- *[[FishMonitoringOfPalmLakeHassay_16635]]*
 
+> This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
+> -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
@@ -74,3 +77,4 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
 - [[FishMonitoringOfPalmLakeHassay_16635]]
+- [[StreamSurveyOfTheSanFranciscoR_11523]]

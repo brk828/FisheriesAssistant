@@ -35,6 +35,9 @@ Cyprinodon macularius, commonly known as the desert pupfish, is a small-bodied c
 > This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
 > -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
 
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
@@ -75,3 +78,4 @@ Cyprinodon macularius, commonly known as the desert pupfish, is a small-bodied c
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
+- [[ConservationGeneticsInTheManag_20087]]

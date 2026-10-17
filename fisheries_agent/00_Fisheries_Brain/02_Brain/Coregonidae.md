@@ -20,8 +20,12 @@ Coregonidae is a family of coldwater freshwater fish commonly known as whitefish
 > - The Ontario fish fauna as catalogued in 1961 comprised **133 species/subspecies across 26 families**, representing a benchmark inventory prior to major Great Lakes ecosystem disruptions. - The **[[Coregonidae]]** (whitefishes and ciscoes) show the greatest species-level diversity among coldwate...
 > -- *[[AListOfOntarioFishes_11321]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[BiologyOfCoregonidFishesBookRe_1971]]
 - [[ChangesInAnExploitedPopulation_1967]]
 - [[ComparativeMorphometryOfFreshw_12456]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]

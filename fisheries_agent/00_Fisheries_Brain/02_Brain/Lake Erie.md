@@ -26,6 +26,9 @@ Lake Erie is one of the five Great Lakes and serves as a critical freshwater eco
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This article provides an overview of whitefish species in New York waters, focusing primarily on the [[Adirondack Whitefish]] or [[Labrador Whitefish]] (Coregonus clupeaformis). Whitefish are highly valued food fish with an international reputation for flavor, occurring in at least 48 New York...
+> -- *[[Whitefish_19228]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[ASystematicStudyOfTheGreenside_1964]]
@@ -46,3 +49,4 @@ Lake Erie is one of the five Great Lakes and serves as a critical freshwater eco
 - [[TheLimnologyPrimaryProductionA_14690]]
 - [[TheTemporalDistributionOfChlor_1966]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[Whitefish_19228]]

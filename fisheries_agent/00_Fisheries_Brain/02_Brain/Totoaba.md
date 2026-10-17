@@ -29,6 +29,12 @@ The Totoaba is an endangered large fish species native to the Gulf of California
 > This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
 > -- *[[AllocatingFreshWaterToAquaticE_18641]]*
 
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
+> This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
+> -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
@@ -42,3 +48,5 @@ The Totoaba is an endangered large fish species native to the Gulf of California
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
 - [[AllocatingFreshWaterToAquaticE_18641]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[NoticeOfIntentToFileTwoLawsuit_18970]]

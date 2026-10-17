@@ -11,8 +11,12 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 > **Broader Implication** - The near-total absence of forage fish (e.g., muddlers absent above Station 24) in upper Logan River is proposed as a key limiting factor for the small body size of cutthroat trout in this system, despite otherwise adequate standing biomass. - Historical note: native [[Ut...
 > -- *[[LifeHistoryOfTheCutthroatTrout_1951]]*
 
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
 - [[ObservationsOnTheLongnoseSucke_1954]]
 - [[RESULTS OF CUTTHROAT TROUT INTRODUCTION]]
 - [[ResponseToAmericanSocietyOfIch_1987_10_09]]
+- [[ProvisionalChecklistOfCanadian_21104]]

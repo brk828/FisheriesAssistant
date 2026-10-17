@@ -17,7 +17,15 @@ San Bernardino Creek is a small tributary stream within the Rio Yaqui drainage b
 > This 1974 re-evaluation by Randy M. McNatt (Arizona State University) reassesses the native fish fauna of the [[Rio Yaqui]] drainage within the United States, focused on two sub-systems in extreme southeastern Arizona: [[Whitewater Draw]] (with tributaries [[Rucker Canyon]] and [[Leslie Creek]]) ...
 > -- *[[ReEvaluationOfTheNativeFishesO_12336]]*
 
+> This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
+> -- *[[DraftRecoveryPlanForTheEndange_15977]]*
+
+> This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
+> -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
+
 ## Mentioned In
 - [[DrainageMapOfArizonaShowingPer_13007]]
 - [[GirardinusSonoriensisMczCatalo_1994_09_01]]
 - [[ReEvaluationOfTheNativeFishesO_12336]]
+- [[DraftRecoveryPlanForTheEndange_15977]]
+- [[OutlineOfSanBernardinoRanchMan_20829]]

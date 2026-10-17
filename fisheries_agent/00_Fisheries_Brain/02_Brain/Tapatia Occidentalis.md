@@ -11,6 +11,10 @@ auto_enriched: true
 > - **[[Tapatia occidentalis]]**: A goodeid taxon described from the Santa Rosa locality (Jalisco), representing one of the oldest fossil goodeids known, indicating this livebearer family was already differentiated by the Early Pliocene/Miocene. - **[[Chapalichthys encaustus]]**: An extinct or foss...
 > -- *[[TheFossilFreshwaterFishesOfMex_1978_01_19]]*
 
+> This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
+> -- *[[CompositionAndDerivationOfTheF_15375]]*
+
 ## Mentioned In
 - [[JoseAlvarezDelVillar_13131]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
+- [[CompositionAndDerivationOfTheF_15375]]

@@ -35,6 +35,9 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 > Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
 > -- *[[FieldNotesOfTripToSanBernardin_13172]]*
 
+> This document comprises field collection notes from aquatic surveys conducted by James F. LeRousty throughout the [[Gila River]] Basin and [[San Pedro River]] system in Arizona and New Mexico during 1973. The notes document multiple sampling locations from April through December 1973, recording...
+> -- *[[FieldNotesAtTheSanPedroGilaAnd_12645]]*
+
 ## Mentioned In
 - [[AravaipaShinerSurveyJuly_1998_07_10]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -53,3 +56,4 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
+- [[FieldNotesAtTheSanPedroGilaAnd_12645]]

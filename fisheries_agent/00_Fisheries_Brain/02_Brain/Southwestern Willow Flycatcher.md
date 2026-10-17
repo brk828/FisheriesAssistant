@@ -41,6 +41,24 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
 > -- *[[WrittenCommentsOnDraftBiologic_20522]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> This document comprises formal comments submitted by the [[Southern Nevada Water Authority]] (SNWA) to the [[U.S. Bureau of Reclamation]] regarding the [[Fish and Wildlife Service]] Final Biological and Conference Opinion on [[Lower Colorado River]] Operations and Maintenance from [[Lake Mead]] to...
+> -- *[[CommentsOnBiologicalAndConfere_11800]]*
+
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
+> This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
+> -- *[[CommentsOnTheBiologicalOpinion_17166]]*
+
+> This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
+> -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
+
+> This U.S. Fish and Wildlife Service memorandum (July 22, 1994) provides formal consultation findings for road construction project FAIR 42(3) on the Fort Apache Indian Reservation, Arizona. The project involves paving 0.67 miles of road, constructing a bridge over the [[East Fork White River]], and...
+> -- *[[ReviewOfProjectFair_21120]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -75,3 +93,9 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 - [[ReContinuationOfTheUsArmysSanP_11808]]
 - [[CommentsOnFinalBiologicalAndCo_14379]]
 - [[WrittenCommentsOnDraftBiologic_20522]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[CommentsOnBiologicalAndConfere_11800]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[CommentsOnTheBiologicalOpinion_17166]]
+- [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[ReviewOfProjectFair_21120]]

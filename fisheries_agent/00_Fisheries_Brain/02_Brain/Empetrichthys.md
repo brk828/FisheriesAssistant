@@ -14,7 +14,11 @@ Empetrichthys is a genus of small cyprinodont fish endemic to the Death Valley r
 > - **Near-extinction event avoided**: Independent, non-bureaucratic action by multiple agencies in the late 1960s prevented the extinction of at least two, and likely five, fish species across two genera in the Death Valley drainage system, including the entire genus **[[Empetrichthys]]**. - **Sys...
 > -- *[[APilgrimSProgressFromGroupAToG_1987]]*
 
+> This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
+> -- *[[FishesAndAquaticResourcesOfThe_15407]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[ArtificialHybridizationOfCreni_14299]]
 - [[CyprinodonAndRelatedGeneraStud_15366]]
+- [[FishesAndAquaticResourcesOfThe_15407]]

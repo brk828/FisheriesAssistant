@@ -20,9 +20,13 @@ Cisco (*Coregonus artedii*) is a commercially and recreationally important fresh
 > - **Invasive/introduced species establishing populations**: [[Sea Lamprey]], [[Alewife]], and [[White Perch]] have invaded the region, contributing to ecosystem-level disruption. - **Declining or extirpated native populations**: [[Blue Pike]], [[Lake Whitefish]], [[Cisco]], and [[Lake Trout]] pop...
 > -- *[[ReviewOfFreshwaterFishesOfEast_11318]]*
 
+> This article provides an overview of whitefish species in New York waters, focusing primarily on the [[Adirondack Whitefish]] or [[Labrador Whitefish]] (Coregonus clupeaformis). Whitefish are highly valued food fish with an international reputation for flavor, occurring in at least 48 New York...
+> -- *[[Whitefish_19228]]*
+
 ## Mentioned In
 - [[ChangesInAnExploitedPopulation_1967]]
 - [[ChangesInWalleyeStizostedionVi_1977_03_18]]
 - [[HowToTellApartFishThatLookAlik_12444]]
 - [[OriginAndDispersalOfTheAlewife_1957]]
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
+- [[Whitefish_19228]]

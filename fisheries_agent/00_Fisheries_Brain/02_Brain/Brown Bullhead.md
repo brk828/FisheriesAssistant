@@ -41,6 +41,12 @@ The Brown Bullhead is a freshwater catfish species that appears in ichthyologica
 > This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
 > -- *[[SomeObservationsOnTheReclamati_15490]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
+> -- *[[PrelimaryObservationsOnTheToxi_14434]]*
+
 ## Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -69,3 +75,5 @@ The Brown Bullhead is a freshwater catfish species that appears in ichthyologica
 - [[TroutFishingAtCliffPondBrewste_15489]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[SomeObservationsOnTheReclamati_15490]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[PrelimaryObservationsOnTheToxi_14434]]

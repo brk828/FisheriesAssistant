@@ -29,6 +29,9 @@ Grand Junction is a geographic sampling location on the Colorado River mainstem 
 > This technical paper documents the distribution, abundance, life history, and reproductive ecology of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]] during 1974-76. The species, recommended for "threatened" status, was found in relatively large concentrations...
 > -- *[[TheRazorbackSuckerXyrauchenTex_15245]]*
 
+> This document is a formal request from Arizona State University's Department of Zoology to the U.S. Fish and Wildlife Service for tissue samples and gametes of [[Razorback Sucker]] (*Xyrauchen texanus*) from two facilities: [[Dexter National Fish Hatchery]] (DNFH) and [[Ouray Endangered Fish...
+> -- *[[RequestForTissuesAndGametesOfR_13796]]*
+
 ## Mentioned In
 - [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
 - [[AnnualReportOnRazorbackSuckerM_1992_11_24]]
@@ -36,3 +39,4 @@ Grand Junction is a geographic sampling location on the Colorado River mainstem 
 - [[CapturesOfLarvalRazorbackSucke_18287]]
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[TheRazorbackSuckerXyrauchenTex_15245]]
+- [[RequestForTissuesAndGametesOfR_13796]]

@@ -26,6 +26,9 @@ Black Bass refers to freshwater fish species in the family Centrarchidae, primar
 > **Taxonomic & Life-History Summary:** This study revises the [[Redeye Bass]] (*Micropterus coosae*) species complex, originally described by Hubbs and Bailey (1940) from the Mobile River basin, Chattahoochee, and Savannah rivers. Examination of morphological variation and mitochondrial DNA (ND2...
 > -- *[[DiversityWithinTheRedeyeBassMi_2013]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[CommentsOnFishAndWildlifeServi_1997_07_08]]
@@ -35,3 +38,4 @@ Black Bass refers to freshwater fish species in the family Centrarchidae, primar
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[WhyTheMassachusettsDivisionOfF_15491]]
 - [[DiversityWithinTheRedeyeBassMi_2013]]
+- [[WhatHaveICaught_12929]]

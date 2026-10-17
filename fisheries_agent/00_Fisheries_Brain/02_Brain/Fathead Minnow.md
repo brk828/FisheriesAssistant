@@ -59,6 +59,15 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This document presents a comprehensive set of recovery alternatives for four endangered big river fishes of the [[Colorado River Basin]], prepared for the Six Agency Committee in August 1993. The proposal outlines three primary recovery concepts: habitat creation and management, propagation, and...
 > -- *[[ColoradoRiverEndangeredFishRec_15072]]*
 
+> This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
+> -- *[[PrelimaryObservationsOnTheToxi_14434]]*
+
+> This report documents the status, distribution, and habitat use of native fish species in [[Bass Creek]] and [[Hotsprings Creek]] within the [[Muleshoe Preserve]], Arizona, based on surveys conducted in January, March, and June 1987. The study area comprises 18 km of perennial stream in the [[Gila...
+> -- *[[AReportToTheArizonaNatureConse_15171]]*
+
+> This experimental study by [[George N. Greene]] at [[Auburn University]] (1967-1968) investigated the effects of three nitrogen sources (sodium nitrate, ammonium carbonate, and cottonseed meal) and the presence of [[Cecil Soil]] on fish production and water chemistry in fertilized plastic pools....
+> -- *[[EffectOfDifferentNitrogenSourc_19233]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -165,3 +174,6 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[ColoradoRiverEndangeredFishRec_15072]]
+- [[PrelimaryObservationsOnTheToxi_14434]]
+- [[AReportToTheArizonaNatureConse_15171]]
+- [[EffectOfDifferentNitrogenSourc_19233]]

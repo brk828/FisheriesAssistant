@@ -44,6 +44,21 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > This U.S. Fish and Wildlife Service biological opinion, issued August 18, 1994, evaluates the effects of repairing Forest Road 449A in [[Gila County]], [[Arizona]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis). The consultation addresses a 1.5-mile road repair project crossing...
 > -- *[[ReBiologicalOpinionOnRepairOfF_15004]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This paper examines the dramatic decline of aquatic habitats and native fishes in the arid American Southwest over the past half century. Physical habitat changes from dams, diversions, channelization, and stream drying, combined with extensive introduction of non-native fish species, have severely...
+> -- *[[DecliningSouthwesternAquaticHa_15002]]*
+
+> This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
+> -- *[[DraftRecoveryPlanForTheEndange_15977]]*
+
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
+> This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
+> -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -114,3 +129,8 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[EarlyLifeHistoryOfRazorbackSuc_12707]]
 - [[ReBiologicalOpinionOnRepairOfF_15004]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[DecliningSouthwesternAquaticHa_15002]]
+- [[DraftRecoveryPlanForTheEndange_15977]]
+- [[ConservationGeneticsInTheManag_20087]]
+- [[OutlineOfSanBernardinoRanchMan_20829]]

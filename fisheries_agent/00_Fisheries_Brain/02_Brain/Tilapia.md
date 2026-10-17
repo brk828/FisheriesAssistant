@@ -41,6 +41,9 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 > This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
 > -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
 
+> This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
+> -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -84,3 +87,4 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 - [[FishPlentifulInGuatemalaLake_19070]]
 - [[TilapiaInCuatroCienegas_13761]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
+- [[ExoticFishesOfTheGenusTilapiaP_15612]]

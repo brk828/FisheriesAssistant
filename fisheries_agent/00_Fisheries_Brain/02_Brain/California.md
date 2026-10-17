@@ -32,6 +32,18 @@ In the context of fish science and aquatic ecology, California refers to the geo
 > This note documents seven historical records of fish emergence from deep wells and artesian sources in [[California]], spanning 1870-1953. The author examines whether these fish truly originated from subterranean waters or were inadvertently introduced during drilling operations. Geological...
 > -- *[[TheReportedEmergenceOfFishesFr_16686]]*
 
+> This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
+> -- *[[UnitedStatesListOfEndangeredFa_11533]]*
+
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This document is a brief piece of correspondence dated May 6, 1975, from [[Carl L. Hubbs]], Professor of Biology Emeritus at [[Scripps Institution of Oceanography]], [[University of California]], [[La Jolla]]. The document appears to be fragmentary or poorly preserved, with limited legible content...
+> -- *[[RefugiaInNevadaForCertainRareA_14193]]*
+
+> This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
+> -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[RainbowSmeltIntroductionIntoLa_1989]]
@@ -42,3 +54,7 @@ In the context of fish science and aquatic ecology, California refers to the geo
 - [[FisheryInventoryOfTheCoachella_13687]]
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[TheReportedEmergenceOfFishesFr_16686]]
+- [[UnitedStatesListOfEndangeredFa_11533]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[RefugiaInNevadaForCertainRareA_14193]]
+- [[ExoticFishesOfTheGenusTilapiaP_15612]]

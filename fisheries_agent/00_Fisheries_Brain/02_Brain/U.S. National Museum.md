@@ -14,7 +14,11 @@ The U.S. National Museum served as a major institutional repository for fish spe
 > **2. [[Catostomus Gila]]** Kirsch, sp. nov. (new species) - Three specimens, 12–14 inches long. - Closely allied to *C. ardens* but distinguished by: more compressed body, less elevated antedorsal region, shorter/more compressed caudal peduncle, shorter and higher dorsal fin, and longer, more poi...
 > -- *[[NotesOnACollectionOfFishesObta_1889]]*
 
+> This 1907 publication by [[David Starr Jordan]] and [[Robert Earl Richardson]] describes a new species of killifish, *[[Lucania browni]]*, collected from a hot spring in northeastern [[Lower California]] (Baja California). Six specimens were obtained by [[Herbert Brown]] from water at 128°F (53°C),...
+> -- *[[DescriptionOfANewSpeciesOfKill_19850]]*
+
 ## Mentioned In
 - [[DistributionalRecordsForNorthA_1946_06_15]]
 - [[LetterToJohnRogersRegardingBon_1993_07_01]]
 - [[NotesOnACollectionOfFishesObta_1889]]
+- [[DescriptionOfANewSpeciesOfKill_19850]]

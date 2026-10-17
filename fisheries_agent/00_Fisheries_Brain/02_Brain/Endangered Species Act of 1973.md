@@ -23,6 +23,9 @@ The Endangered Species Act of 1973 is a landmark federal legislation that provid
 > - Native fish comprise only ~34–40% of species recorded in the upper Colorado River system; introduced species now dominate (60–66%). - All 10 native and 15 of 19 introduced species documented by Holden (1973) were reconfirmed in the lower Yampa River during 1974–76, **except** the bonytail chub,...
 > -- *[[EndangeredAndThreatenedFishInT_1979]]*
 
+> The [[Arizona Department of Water Resources]] contracted [[Earth Technology Corporation]] in 1984 to reassess the feasibility of constructing a permanent-pool recreational lake on [[Leslie Creek]] in [[Cochise County]], Arizona. The original 1960s-1970s feasibility studies estimated average annual...
+> -- *[[FeasibilityStudyOfLeslieCanyon_15717]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[CorrespondenceRegardingExperim_1986_07_25]]
@@ -42,3 +45,4 @@ The Endangered Species Act of 1973 is a landmark federal legislation that provid
 - [[ResolutionRelativeToTheListing_1985_02_22]]
 - [[UsFishAndWildlifeServiceMeetin_15771]]
 - [[WildlifeConservationActAmendme_1995]]
+- [[FeasibilityStudyOfLeslieCanyon_15717]]

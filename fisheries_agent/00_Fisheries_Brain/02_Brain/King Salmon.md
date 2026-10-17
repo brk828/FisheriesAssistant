@@ -32,6 +32,9 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 > This administrative report documents a record-breaking year for [[California Department of Fish and Game]] hatchery operations during fiscal year 1967-68. Despite two hatcheries being out of service for the entire year, the Department planted 2,706,909 lb of fish, exceeding the previous year's...
 > -- *[[CaliforniaTroutSalmonAndWarmwa_14868]]*
 
+> This 1932-1933 study documented the fall migration of [[Steelhead]] (*Oncorhynchus mykiss*) from the [[Klamath River]] into [[Shasta River]], California. Using a counting rack with observation gates, researchers enumerated 8,525 steelhead between September 19 and December 10, 1932. The migration...
+> -- *[[ASteelheadMigrationInShastaRiv_21255]]*
+
 ## Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -41,3 +44,4 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[CaliforniaTroutSalmonAndWarmwa_14867]]
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
+- [[ASteelheadMigrationInShastaRiv_21255]]

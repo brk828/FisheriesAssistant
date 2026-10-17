@@ -11,6 +11,10 @@ auto_enriched: true
 > *Gila crassicauda* occupied sluggish lowland waters — the same habitat type preferred by the sympatric **[[Hitch|Lavinia Exilicauda]]**. The two species likely partitioned resources via diet: *G. crassicauda* was probably chiefly **carnivorous**, inferred from its hooked pharyngeal teeth lacking ...
 > -- *[[SynonymyCharactersAndVariation_15339]]*
 
+> This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
+> -- *[[RoughFishControl_20167]]*
+
 ## Mentioned In
 - [[EarlyDevelopmentOfTheHitchLavi_1965]]
 - [[SynonymyCharactersAndVariation_15339]]
+- [[RoughFishControl_20167]]

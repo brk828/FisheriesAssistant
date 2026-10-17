@@ -26,6 +26,18 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 > This proposal by Dean W. Blinn ([[Northern Arizona University]]) and Lawrence E. Stevens ([[Grand Canyon National Park]]) requests $293,117 over 20 months (June 1992–February 1994) to monitor the effects of interim flow releases from [[Glen Canyon Dam]] on the aquatic food base in the [[Colorado...
 > -- *[[AProposalToMonitorTheEffectsOf_17697]]*
 
+> This Bureau of Reclamation document summarizes an April 6, 1993 Selective Withdrawal Investigations Workgroup meeting held in Phoenix, Arizona. The multi-disciplinary workgroup evaluated the feasibility and potential impacts of installing selective withdrawal facilities at [[Glen Canyon Dam]] to...
+> -- *[[SelectiveWithdrawalWorkgroupMe_15753]]*
+
+> This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
+> -- *[[LongtermLimnologicalAndWaterQu_17092]]*
+
+> This proposal by [[Michael J.C. Kearsley]] and [[Tina J. Ayers]] from [[Northern Arizona University]] requests funding to continue monitoring riparian and wetland plant assemblages in the [[Colorado River]] corridor downstream of [[Glen Canyon Dam]] in [[Grand Canyon National Park]]. The 12-month...
+> -- *[[TransitionMonitoringForRiparia_17903]]*
+
+> This revised draft management plan, submitted by the [[Parker Fishery Resource Office]] to the [[U.S. Fish and Wildlife Service]] Region II in November 1996, addresses conservation of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*),...
+> -- *[[LowerColoradoRiverBasinManagem_18433]]*
+
 ## Mentioned In
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
 - [[FlowModificationsToTheGlenCany_18321]]
@@ -36,3 +48,7 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 - [[RedsideShinerSpecimenLeesFerry_1996_02_20]]
 - [[TheEffectsOfDamOperationsOnAqu_1991]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
+- [[SelectiveWithdrawalWorkgroupMe_15753]]
+- [[LongtermLimnologicalAndWaterQu_17092]]
+- [[TransitionMonitoringForRiparia_17903]]
+- [[LowerColoradoRiverBasinManagem_18433]]

@@ -20,8 +20,12 @@ Shad refers to a group of anadromous and semi-anadromous fish species in the fam
 > - Reference to **[[Shad]]** (possible subject species) - Reference to a **liver** measurement, possibly in grams (gm), suggestive of an organosomatic or condition index study - Reference to a "Tank" with an "average" value, possibly tank-averaged growth or production data - Location/context terms...
 > -- *[[FebruarySamplingAtBuenosAiresN_19403]]*
 
+> This article provides an overview of whitefish species in New York waters, focusing primarily on the [[Adirondack Whitefish]] or [[Labrador Whitefish]] (Coregonus clupeaformis). Whitefish are highly valued food fish with an international reputation for flavor, occurring in at least 48 New York...
+> -- *[[Whitefish_19228]]*
+
 ## Mentioned In
 - [[FebruarySamplingAtBuenosAiresN_19403]]
 - [[LetterRegardingProposalForIntr_1989_08_30]]
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[SelectivityAndEffectivenessOfC_12188]]
+- [[Whitefish_19228]]

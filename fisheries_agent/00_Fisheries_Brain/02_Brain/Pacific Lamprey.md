@@ -14,8 +14,12 @@ The Pacific lamprey (Entosphenus tridentatus) is a jawless fish native to wester
 > | Species | Common Name | Stations Occupied | Status | |---|---|---|---| | *Gasterosteus aculeatus* | [[Threespine Stickleback]] | 42 | Native | | *Gila orcutti* | [[Arroyo Chub]] | 37 | Introduced | | *Gambusia affinis* | [[Mosquitofish]] | 24 | Introduced (1922) | | *Catostomus (Pantosteus) san...
 > -- *[[FishesOfTheSantaClaraRiverSyst_1978_05_15]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
 ## Mentioned In
 - [[DeclineOfTheNativeFishFaunaOfT_1974]]
 - [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
 - [[OccurrenceOfThePacificLampreyE_1967_12_13]]
 - [[OwnersToDemolishDamThatBlocksF_14938]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]

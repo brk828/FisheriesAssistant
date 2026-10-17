@@ -11,5 +11,9 @@ Ft. Huachuca is a U.S. military base in Arizona whose operations have been docum
 > The [[Southwest Center for Biological Diversity]] (SWCBD) and Dr. Robin Silver filed a lawsuit in U.S. District Court (Phoenix) against [[Ft. Huachuca]] and the Defense Department for violations of the [[National Environmental Policy Act]] (NEPA). The suit alleges illegal failure to evaluate,...
 > -- *[[LawsuitFiledAgainstFtHuachucaT_18965]]*
 
+> This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
+> -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
+
 ## Mentioned In
 - [[LawsuitFiledAgainstFtHuachucaT_18965]]
+- [[NoticeOfIntentToFileTwoLawsuit_18970]]

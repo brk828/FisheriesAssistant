@@ -29,6 +29,15 @@ Pink salmon (Oncorhynchus gorbuscha) are a Pacific salmon species characterized 
 > This study examined the 1963 brood year of [[Pink Salmon]] (Oncorhynchus gorbuscha) in [[Sashin Creek]], [[Southeastern Alaska]], focusing on spawner distribution, density, and progeny survival from egg deposition through fry emergence. The escapement totaled 16,757 fish (8,740 females), with...
 > -- *[[DistributionOfSpawningPinkSalm_12342]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
+> -- *[[ConservationOfNativeFreshwater_15444]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[NotesOnTheLeapingOfThePacificS_14869]]
@@ -39,3 +48,6 @@ Pink salmon (Oncorhynchus gorbuscha) are a Pacific salmon species characterized 
 - [[UseOfGeneticMarksToAssessStock_11327]]
 - [[DisappearanceOfDeadPinkSalmonE_12341]]
 - [[DistributionOfSpawningPinkSalm_12342]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ConservationOfNativeFreshwater_15444]]
+- [[ProvisionalChecklistOfCanadian_21104]]

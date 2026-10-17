@@ -20,6 +20,9 @@ auto_enriched: true
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
 > -- *[[AprilManagementGroupMeetingSum_19221]]*
 
+> This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
+> -- *[[SummaryjanuaryManagementGroupM_21002]]*
+
 ## Mentioned In
 - [[FyProjectReportWetlandsRestora_1993]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[HighlightsOfAPeerReviewAndRoun_11448]]
 - [[AprilManagementGroupMeetingSum_19221]]
+- [[SummaryjanuaryManagementGroupM_21002]]

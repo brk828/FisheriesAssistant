@@ -23,6 +23,9 @@ Norris Reservoir is a Tennessee Valley Authority (TVA) storage reservoir that se
 > - **Overall tag return rate:** 74 of 595 tagged largemouth bass (12.4%) were recovered between 1952–1956. - **Recovery timing:** 65 of 74 returns (88%) occurred in the same calendar year as tagging; the remaining 9 (12%) were recovered in the first calendar year after tagging. No fish were recove...
 > -- *[[HarvestingOfLargemouthBassOnWh_14508]]*
 
+> This note documents the first records of [[Red-ear Sunfish]] (*Lepomis microlophus*) and [[Smallmouth Bass]] (*Micropterus dolomieui*) in the lower [[Colorado River]], California. The red-ear sunfish represents a new addition to California's freshwater fish fauna, while the smallmouth bass was...
+> -- *[[TheOccurrenceOfTwoAdditionalCe_18140]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[AgeGrowthAndConditionOfBlackCr_13075]]
@@ -32,3 +35,4 @@ Norris Reservoir is a Tennessee Valley Authority (TVA) storage reservoir that se
 - [[ObservationsOnTheNeedForAndThe_12214]]
 - [[PredictingDepthDistributionOfF_1948]]
 - [[RateOfGrowthAndConditionOfGame_14639]]
+- [[TheOccurrenceOfTwoAdditionalCe_18140]]

@@ -35,6 +35,15 @@ The Little Snake River is a major tributary of the Yampa River in the Upper Colo
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
 > -- *[[AprilManagementGroupMeetingSum_19221]]*
 
+> This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
+> -- *[[LetterOnImplementationCommitte_11623]]*
+
+> This 1989 memorandum from the U.S. Fish and Wildlife Service transmits interim streamflow recommendations for the [[Yampa River]] to protect four rare and endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila...
+> -- *[[StreamflowNeedsOfRareAndEndang_14141]]*
+
+> This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
+> -- *[[SummaryjanuaryManagementGroupM_21002]]*
+
 ## Mentioned In
 - [[OccurrenceOfTwoEndangeredFishe_1990_07_19]]
 - [[StationProfileSaratogaNational_1993_12_11]]
@@ -44,3 +53,6 @@ The Little Snake River is a major tributary of the Yampa River in the Upper Colo
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
 - [[AprilManagementGroupMeetingSum_19221]]
+- [[LetterOnImplementationCommitte_11623]]
+- [[StreamflowNeedsOfRareAndEndang_14141]]
+- [[SummaryjanuaryManagementGroupM_21002]]

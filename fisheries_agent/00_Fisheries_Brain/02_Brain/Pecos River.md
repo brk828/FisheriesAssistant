@@ -32,6 +32,9 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 > This comparative taxonomic study examines seven populations of freshwater-to-miohaline amphipods from the [[Gammarus-Pecos Complex]] inhabiting springs and streams in areas of Texas and New Mexico once overlain by [[Permian Seas]]. The study includes three described species—[[Gammarus Pecos]],...
 > -- *[[TheGammaruspecosComplexCrustac_16002]]*
 
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[CompositionAndDerivationOfTheN_15363]]
@@ -48,3 +51,4 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 - [[SiteAndLandscapescaleEstimates_2026]]
 - [[EndangeredAndThreatenedWildlif_11651]]
 - [[TheGammaruspecosComplexCrustac_16002]]
+- [[ConservationGeneticsInTheManag_20087]]

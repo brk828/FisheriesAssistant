@@ -20,6 +20,12 @@ Gobiidae is a large and diverse family of small, benthic fish characterized by t
 > - The manuscript likely constitutes **taxonomic correspondence** concerning a goby-like species, tentatively linked to the [[Gobiidae]] family, possibly *Gobius poecilogus* or a closely related nominal taxon. - References to specific years (**1854**, **1860**) suggest a timeline relevant to **spe...
 > -- *[[ContributionToTheSystematicsAn_15497]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This 1920 taxonomic description by Carl L. Hubbs establishes [[Sicydium montanum]] as a new species of goby collected from a mountain brook in [[Macuto]], [[Caracas]], [[Venezuela]]. The species is distinguished from related congeners [[Sicydium punctatum]] and [[Sicydium buscki]] by its larger...
+> -- *[[SicydiumMontanumANewSpeciesOfG_19968]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnOrientalGobyCollectedInTheSa_12952]]
@@ -28,3 +34,5 @@ Gobiidae is a large and diverse family of small, benthic fish characterized by t
 - [[Goby_1963]]
 - [[ObservationsOnTheMudsuckerGill_12127]]
 - [[PrevalenceOfMaleBroodCareInTel_1978]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[SicydiumMontanumANewSpeciesOfG_19968]]

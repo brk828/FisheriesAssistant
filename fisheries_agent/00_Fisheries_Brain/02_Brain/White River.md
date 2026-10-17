@@ -41,6 +41,15 @@ The White River refers to a river system in the south-central United States (pri
 > This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
 > -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
 
+> This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
+> -- *[[DraftdistributionAndIncidenceO_12207]]*
+
+> This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
+> -- *[[EvolutionaryRelationshipsOfThe_19110]]*
+
+> This legal notice, dated September 12, 1994, from the Gila Watershed Partnership to the U.S. Fish and Wildlife Service challenges the adequacy of critical habitat designated for [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*) on March 8, 1994. The notice argues that the...
+> -- *[[SixtydayNoticeOfIntentToSueOve_20449]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -73,3 +82,6 @@ The White River refers to a river system in the south-central United States (pri
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
+- [[DraftdistributionAndIncidenceO_12207]]
+- [[EvolutionaryRelationshipsOfThe_19110]]
+- [[SixtydayNoticeOfIntentToSueOve_20449]]

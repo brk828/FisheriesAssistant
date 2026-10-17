@@ -101,6 +101,30 @@ Arizona State University is a major research institution that has played a signi
 > This proposal from the [[Southwest Center for Education and the Natural Environment]] (SCENE) to the [[Arizona Community Foundation]] outlines a three-year program to involve high school students in authentic scientific research at [[Arizona State University]]. The project aims to engage 120...
 > -- *[[ScientificResearchExperiencesF_20483]]*
 
+> This 1987 correspondence from the [[Arizona Game and Fish Department]] proposes establishing annual collaborative meetings between the Department and Arizona universities ([[University of Arizona]], [[Northern Arizona University]], [[Arizona State University]]) to promote cooperative wildlife...
+> -- *[[CooperationBetweenArizonaGameA_13469]]*
+
+> This 1988-89 research assistantship application by W. L. Minckley proposes a systematic study of cyprinid fishes in the genus [[Gila]], focusing on cladistic analysis to understand evolutionary relationships and their connection to geological history. The project addresses approximately 30 extant...
+> -- *[[ResearchAssistantshipRequestSy_13746]]*
+
+> This is a research proposal submitted by [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] in January 1990 to study genetic diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations using [[Mitochondrial DNA]] analysis. Principal investigator Professor [[Thomas E....
+> -- *[[GeneticDiversityOfRazorbackSuc_18428]]*
+
+> This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
+> -- *[[InvestigationsOfCommercialFish_18562]]*
+
+> This correspondence from the [[Bureau of Land Management]] [[Tucson Resource Area Office]] to Dr. W.L. Minckley, Team Leader of the [[Desert Fishes Recovery Team]], provides input on the Recovery Team's functions and duties. Written by Jeffrey R. Simms and transmitted March 16, 1993, the letter...
+> -- *[[DfrtAccomplishmentsduties_18989]]*
+
+> This administrative document represents a research proposal submission from [[Arizona State University]] to the [[Arizona Game and Fish Department]] for a study focused on [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*). The proposal was submitted on July 30, 1986, with...
+> -- *[[MedatiarogaStudy_19000]]*
+
+> This memorandum from the [[Glen Canyon Environmental Studies]] program announces a technical review meeting scheduled for June 11, 1993, to evaluate the [[U.S. Fish and Wildlife Service]] flow scenario for [[Glen Canyon Dam]] operations. The meeting was relocated to accommodate increased attendance...
+> -- *[[GlenCanyonEnvironmentalStudies_19728]]*
+
+> This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
+> -- *[[PalmLakenativeFishStatus_20905]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -245,3 +269,11 @@ Arizona State University is a major research institution that has played a signi
 - [[SummaryOfEvents_18368]]
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
 - [[ScientificResearchExperiencesF_20483]]
+- [[CooperationBetweenArizonaGameA_13469]]
+- [[ResearchAssistantshipRequestSy_13746]]
+- [[GeneticDiversityOfRazorbackSuc_18428]]
+- [[InvestigationsOfCommercialFish_18562]]
+- [[DfrtAccomplishmentsduties_18989]]
+- [[MedatiarogaStudy_19000]]
+- [[GlenCanyonEnvironmentalStudies_19728]]
+- [[PalmLakenativeFishStatus_20905]]

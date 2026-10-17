@@ -11,7 +11,11 @@ Gila robusta robusta is a subspecies of the roundtail chub endemic to the southw
 > - Target taxa occupy North American freshwater drainages, with specific focus on the **American Southwest** (Gila River and Little Colorado River systems, Arizona) and **Midwestern (Illinois) waterways**. - Several southwestern species are habitat specialists with restricted, threatened distribut...
 > -- *[[PhylogeneticsOfNorthAmericanCh_20485]]*
 
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
 ## Mentioned In
 - [[HumpbackChubGilaCypha_18257]]
 - [[PhylogeneticsOfNorthAmericanCh_20485]]
 - [[ReviewOfTheTaxonomicStatusOfRo_1985_12_03]]
+- [[DraftecologicalDeterminismHybr_12773]]

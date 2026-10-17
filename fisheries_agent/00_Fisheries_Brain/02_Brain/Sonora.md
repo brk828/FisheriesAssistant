@@ -23,6 +23,9 @@ Sonora refers to a Mexican state located in northwestern Mexico along the Pacifi
 > This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
 > -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
 
+> The [[Pima Pineapple Cactus]] (*Coryphantha scheeri* var. *robustispina*) was listed as endangered by the [[US Fish and Wildlife Service]] in October 1993. This rare [[Sonoran Desert]] species occurs in a restricted range from south [[Tucson]] to south of [[Nogales]], [[Mexico]]. The [[National...
+> -- *[[EndangeredCactusOffersNbsOppor_13220]]*
+
 ## Mentioned In
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
 - [[IdentificaciónDelimitaciónDeLa_13133]]
@@ -31,3 +34,4 @@ Sonora refers to a Mexican state located in northwestern Mexico along the Pacifi
 - [[LectureNotesFromBiologyClass_13784]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
+- [[EndangeredCactusOffersNbsOppor_13220]]

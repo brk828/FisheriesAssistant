@@ -86,6 +86,21 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
 > -- *[[WrittenCommentsOnDraftBiologic_20522]]*
 
+> This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
+> -- *[[DraftdistributionAndIncidenceO_12207]]*
+
+> This memorandum from the Management Biologist at [[Dexter National Fish Hatchery]] provides detailed review comments on a proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species. Dated January 12, 1990, the document critiques the technical accuracy, writing...
+> -- *[[ReviewOfProposedRazorbackSucke_12984]]*
+
+> This paper examines the dramatic decline of aquatic habitats and native fishes in the arid American Southwest over the past half century. Physical habitat changes from dams, diversions, channelization, and stream drying, combined with extensive introduction of non-native fish species, have severely...
+> -- *[[DecliningSouthwesternAquaticHa_15002]]*
+
+> This revised draft management plan, submitted by the [[Parker Fishery Resource Office]] to the [[U.S. Fish and Wildlife Service]] Region II in November 1996, addresses conservation of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*),...
+> -- *[[LowerColoradoRiverBasinManagem_18433]]*
+
+> This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
+> -- *[[InvestigationsOfCommercialFish_18562]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfChannelCatfishIc_14101]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -151,3 +166,8 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
 - [[FishMonitoringOfPalmLakeHassay_16635]]
 - [[WrittenCommentsOnDraftBiologic_20522]]
+- [[DraftdistributionAndIncidenceO_12207]]
+- [[ReviewOfProposedRazorbackSucke_12984]]
+- [[DecliningSouthwesternAquaticHa_15002]]
+- [[LowerColoradoRiverBasinManagem_18433]]
+- [[InvestigationsOfCommercialFish_18562]]

@@ -14,8 +14,12 @@ The Utah Sucker (*Catostomus ardens*) is a native cyprinid species of the Colora
 > **Nonnative fish community (established)**: - Reservoirs/Fish Lake: [[Utah Chub]], [[Utah Sucker]], [[Redside Shiner]], [[Yellow Perch]] (illegally introduced to Fish Lake pre-1965), and recently detected [[Common Carp]]. - Mid-river reaches: rainbow trout, brown trout (*Salmo trutta*), brook tro...
 > -- *[[ProposedStockingOfNonnativeFis_18716]]*
 
+> This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
+> -- *[[DraftdistributionAndIncidenceO_12207]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedFishInT_1979]]
 - [[PopulationDifferentiationAndIn_1987]]
 - [[ProposedStockingOfNonnativeFis_18716]]
 - [[ResponseToAmericanSocietyOfIch_1987_10_09]]
+- [[DraftdistributionAndIncidenceO_12207]]

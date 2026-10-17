@@ -17,8 +17,12 @@ Endrin is a highly toxic organochlorine insecticide that poses severe risks to f
 > Related concepts: [[DDT]], [[Endrin]], [[Dieldrin]], [[Organophosphate Pesticides]], [[Chlorinated Hydrocarbon Pesticides]], [[Bioaccumulation]], [[Estuarine Ecosystem]], [[Eastern Oyster]], [[Spot (Fish)]], [[Sheepshead Minnow]].
 > -- *[[EffectsOfPesticidesOnFishAndWi_14331]]*
 
+> This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
+> -- *[[RoughFishControl_20167]]*
+
 ## Mentioned In
 - [[DisappearanceOfEndrinFromFishA_12936]]
 - [[DynamicsOfEndrinUptakeAndRelea_16344]]
 - [[EffectsOfPesticidesOnFishAndWi_14331]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
+- [[RoughFishControl_20167]]

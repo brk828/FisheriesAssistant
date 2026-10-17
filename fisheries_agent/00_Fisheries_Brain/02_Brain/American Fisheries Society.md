@@ -29,6 +29,15 @@ The American Fisheries Society is a professional scientific organization dedicat
 > This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
 > -- *[[CorrespondenceBetweenMinckleyA_16449]]*
 
+> The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14803]]*
+
+> This document is a comprehensive catalog of fisheries and wildlife journals held by the [[William Jasper Kerr Library]] at [[Oregon State University]] as of December 1979. Compiled by Mary J. Lewis, Zoology/Oceanography Librarian, it lists current subscriptions and selected discontinued titles from...
+> -- *[[ListOfCurrentFisheriesAndWildl_20304]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[AmericanFisheriesSocietyProtoc_12011]]
@@ -56,3 +65,6 @@ The American Fisheries Society is a professional scientific organization dedicat
 - [[WaterPollutionAbatementOurGrea_14153]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[CorrespondenceBetweenMinckleyA_16449]]
+- [[EndangeredAndThreatenedWildlif_14803]]
+- [[ListOfCurrentFisheriesAndWildl_20304]]
+- [[ProvisionalChecklistOfCanadian_21104]]

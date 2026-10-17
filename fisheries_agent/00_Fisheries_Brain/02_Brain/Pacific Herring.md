@@ -23,6 +23,12 @@ Pacific Herring (Clupea pallasi) is a forage fish species characterized by early
 > - **Growth Type A** — point of inflection **early in life**; approximates rapid early growth, later deceleration. Empirically approximated by the [[Pacific Herring]] (*Clupea pallasi*). - **Growth Type B** — point of inflection **about mid-life**; intermediate growth pattern. - **Growth Type C** ...
 > -- *[[TheoreticalYieldsAtVariousRate_1953]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[LifeHistoryVariationsInPopulat_16023]]
 - [[NumericalRelationsBetweenAbund_16863]]
@@ -30,3 +36,5 @@ Pacific Herring (Clupea pallasi) is a forage fish species characterized by early
 - [[StomachContentsOfAdultStarryFl_15271]]
 - [[TheDietOfJuvenileAndAdultStrip_1967]]
 - [[TheoreticalYieldsAtVariousRate_1953]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ProvisionalChecklistOfCanadian_21104]]

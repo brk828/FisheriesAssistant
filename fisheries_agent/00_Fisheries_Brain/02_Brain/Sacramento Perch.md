@@ -23,9 +23,17 @@ The Sacramento Perch (*Archoplites interruptus*) is a centrarchid (sunfish famil
 > Field survey conducted May 4-5, 1989 at [[Pyramid Lake]], Nevada to assess hybridization between endangered [[Cui-ui]] (*Chasmistes cujus*) and [[Tahoe Sucker]] (*Catostomus tahoensis*). Approximately 300-400 cui-ui were tagged during one day of trap netting operations; nearly 8,000 fish tagged...
 > -- *[[SummaryOfPyramidLakeTrip_13173]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
+> -- *[[ConservationOfNativeFreshwater_15444]]*
+
 ## Mentioned In
 - [[DeclineOfTheNativeFishFaunaOfT_1974]]
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[LetterToWLMinckleyRegardingThe_1994_05_19]]
 - [[VariableKinematicsOfSacramento_1982]]
 - [[SummaryOfPyramidLakeTrip_13173]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ConservationOfNativeFreshwater_15444]]

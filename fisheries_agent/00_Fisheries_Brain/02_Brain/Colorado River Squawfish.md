@@ -32,6 +32,15 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 > This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
 > -- *[[BiologicalAssessmentOfTheImpac_16261]]*
 
+> This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
+> -- *[[UnitedStatesListOfEndangeredFa_11533]]*
+
+> This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
+> -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
+
+> This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
+> -- *[[PalmLakenativeFishStatus_20905]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[ArthropodsAndVertebratesOfAriz_16220]]
@@ -51,3 +60,6 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 - [[TheFaunalArchaeologyOfTheTubac_20377]]
 - [[AnIntestinalCestodeOfTheColora_13882]]
 - [[BiologicalAssessmentOfTheImpac_16261]]
+- [[UnitedStatesListOfEndangeredFa_11533]]
+- [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[PalmLakenativeFishStatus_20905]]

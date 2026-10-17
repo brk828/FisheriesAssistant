@@ -26,6 +26,9 @@ Havasu Creek is a cooler tributary stream within the Grand Canyon that serves as
 > This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
 > -- *[[TheColoradoRiverFishesRecovery_11196]]*
 
+> This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
+> -- *[[CharacterizationOfTheLifeHisto_13649]]*
+
 ## Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DiscussionOfBiowestSWorkPlan_1991_09_23]]
@@ -40,3 +43,4 @@ Havasu Creek is a cooler tributary stream within the Grand Canyon that serves as
 - [[TheChemistryOfTheColoradoRiver_1979]]
 - [[TripReportAgfdNativeFishStudie_11269]]
 - [[TheColoradoRiverFishesRecovery_11196]]
+- [[CharacterizationOfTheLifeHisto_13649]]

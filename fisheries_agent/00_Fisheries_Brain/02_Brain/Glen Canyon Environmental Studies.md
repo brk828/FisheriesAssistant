@@ -56,6 +56,12 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 > This administrative correspondence from Arizona State University's Department of Zoology (dated 30 September 1991) documents planning for a scientific review committee meeting to assess ongoing research on [[Humpback Chub]] (*Gila cypha*) under the [[Glen Canyon Environmental Studies]] (GCES)...
 > -- *[[PreliminaryMeetingInformationF_13798]]*
 
+> This 1991 report presents scientifically based recommendations for interim operating procedures at [[Glen Canyon Dam]] to protect downstream aquatic and riparian resources in [[Grand Canyon National Park]] during the period between research flows (ending July 1991) and implementation of a Record of...
+> -- *[[InterimFlowsForGrandCanyonReco_18454]]*
+
+> This memorandum from the [[Glen Canyon Environmental Studies]] program announces a technical review meeting scheduled for June 11, 1993, to evaluate the [[U.S. Fish and Wildlife Service]] flow scenario for [[Glen Canyon Dam]] operations. The meeting was relocated to accommodate increased attendance...
+> -- *[[GlenCanyonEnvironmentalStudies_19728]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -122,3 +128,5 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
 - [[CorrespondenceRegardingMeeting_13520]]
 - [[PreliminaryMeetingInformationF_13798]]
+- [[InterimFlowsForGrandCanyonReco_18454]]
+- [[GlenCanyonEnvironmentalStudies_19728]]

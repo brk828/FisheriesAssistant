@@ -20,6 +20,9 @@ Pike are large predatory freshwater fish that serve as apex or near-apex predato
 > The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
 > -- *[[Perch_16750]]*
 
+> This progress report documents the second year (1951) of the [[Adirondack Trout Restoration Project]], an experimental fisheries management program aimed at reclaiming former trout waters now inhabited by less desirable species. The reclamation procedure involves chemical eradication using...
+> -- *[[TroutRestorationInTheAdirondac_20206]]*
+
 ## Mentioned In
 - [[BiologicalMeansOfIncreasingPro_1968]]
 - [[CausesOfDeathAmongIndianaFishe_1945]]
@@ -28,3 +31,4 @@ Pike are large predatory freshwater fish that serve as apex or near-apex predato
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
 - [[SomeEstimatesOfTheoreticalMini_1963]]
 - [[Perch_16750]]
+- [[TroutRestorationInTheAdirondac_20206]]

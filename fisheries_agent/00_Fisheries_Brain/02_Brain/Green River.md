@@ -98,6 +98,27 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
 > -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
 
+> This paper presents methods and results from radiotelemetry studies of [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the [[Green River]] basin (1980-1985), evaluating radiotracking success in high-conductivity waters and comparing habitat data obtained via radiotelemetry versus electrofishing....
+> -- *[[AcquisitionOfHabitatPreference_11568]]*
+
+> This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
+> -- *[[LetterOnImplementationCommitte_11623]]*
+
+> This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
+> -- *[[DraftdistributionAndIncidenceO_12207]]*
+
+> This 1989 memorandum from the U.S. Fish and Wildlife Service transmits interim streamflow recommendations for the [[Yampa River]] to protect four rare and endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila...
+> -- *[[StreamflowNeedsOfRareAndEndang_14141]]*
+
+> This document outlines a comprehensive research proposal by Wayne C. Starnes ([[Smithsonian Institution]]) to address taxonomic and genetic questions regarding [[Gila]] species in the [[Colorado River]] basin under a cooperative agreement with [[USFWS]]. The project aims to resolve the taxonomic...
+> -- *[[GilaTaxonomyProjectIssuesAndPr_14720]]*
+
+> This document is a memorandum and program proposal from the Recovery Program for Endangered Fishes of the Upper Colorado River Basin, dated September 23, 1994. It announces a meeting scheduled for November 8-10, 1994, to discuss goals, strategies, and issues of the [[Flooded Bottom Lands...
+> -- *[[MeetingToDiscussProgramGoalsSt_19639]]*
+
+> This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
+> -- *[[SummaryjanuaryManagementGroupM_21002]]*
+
 ## Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -200,3 +221,10 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
+- [[AcquisitionOfHabitatPreference_11568]]
+- [[LetterOnImplementationCommitte_11623]]
+- [[DraftdistributionAndIncidenceO_12207]]
+- [[StreamflowNeedsOfRareAndEndang_14141]]
+- [[GilaTaxonomyProjectIssuesAndPr_14720]]
+- [[MeetingToDiscussProgramGoalsSt_19639]]
+- [[SummaryjanuaryManagementGroupM_21002]]

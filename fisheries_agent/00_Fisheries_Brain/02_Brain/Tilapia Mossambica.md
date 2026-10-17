@@ -26,6 +26,9 @@ Tilapia mossambica is a cichlid fish species widely utilized in aquaculture and 
 > This administrative report presents a comprehensive bibliography of 213 selected references on [[Tilapia mossambica]] (Mozambique Tilapia), compiled by the California Department of Fish and Game, Region 5, Inland Fisheries in January 1967. The bibliography encompasses all significant papers known...
 > -- *[[BibliographyOfPublicationsConc_14697]]*
 
+> This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
+> -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
+
 ## Mentioned In
 - [[ComparativeEvaluationOfTwoTila_15110]]
 - [[EstablishmentOfTilap_1970]]
@@ -36,3 +39,4 @@ Tilapia mossambica is a cichlid fish species widely utilized in aquaculture and 
 - [[PreliminaryReportOnTheMalaccaT_12279]]
 - [[SamplingBenthosToEstimateProdu_12795]]
 - [[BibliographyOfPublicationsConc_14697]]
+- [[ExoticFishesOfTheGenusTilapiaP_15612]]

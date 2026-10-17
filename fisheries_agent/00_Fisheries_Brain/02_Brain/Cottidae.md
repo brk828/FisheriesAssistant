@@ -23,6 +23,9 @@ Cottidae is a family of benthic freshwater and marine fishes commonly known as s
 > - **Primary freshwater families** (Division I): [[Hiodontidae]], [[Umbridae]], [[Esocidae]], [[Dalliidae]], [[Catostomidae]], [[Cyprinidae]], [[Ictaluridae]], [[Percopsidae]], [[Percidae]], [[Centrarchidae]], [[Cobitidae]] - **Divisions III/IV (more salt-tolerant/anadromous lineages)**: [[Petromy...
 > -- *[[FreshwaterFishesOfTheEasternAr_18569]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AListOfOntarioFishes_11321]]
@@ -35,3 +38,4 @@ Cottidae is a family of benthic freshwater and marine fishes commonly known as s
 - [[TheDevelopmentalRateOfTheGreen_14262]]
 - [[TheEffectsOfAnOilSpillOnTheMac_1976]]
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]

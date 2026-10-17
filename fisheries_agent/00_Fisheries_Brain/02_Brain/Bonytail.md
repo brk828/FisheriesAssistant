@@ -71,6 +71,36 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 > This report summarizes a peer review and roundtable discussion conducted February 6-7, 1995, in Grand Junction, Colorado, evaluating the relationship between streamflow, geomorphology, and food web studies in the [[Upper Colorado River Basin]] Recovery Program for four endangered fishes:...
 > -- *[[HighlightsOfAPeerReviewAndRoun_11448]]*
 
+> This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
+> -- *[[UnitedStatesListOfEndangeredFa_11533]]*
+
+> This draft management plan addresses four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). Submitted by the...
+> -- *[[DraftLowerColoradoRiverBasinNa_11647]]*
+
+> This preliminary draft management prospectus, submitted by the Arizona Fishery Resources Office to the U.S. Fish & Wildlife Service Southwest Regional Director in February 1995, outlines a comprehensive fisheries management plan for four federally endangered "big-river" fish species in the Lower...
+> -- *[[PreliminaryDraftColoradoRiverL_11719]]*
+
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> This correspondence from J. Holt Williamson (Fishery Biologist, U.S. Fish and Wildlife Service) to Paul C. Marsh at Arizona State University expresses interest in participating in scheduled sampling activities for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) during...
+> -- *[[ReceivedNoticeOnRazorbackSucke_12078]]*
+
+> This revised draft management plan, submitted by the [[Parker Fishery Resource Office]] to the [[U.S. Fish and Wildlife Service]] Region II in November 1996, addresses conservation of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*),...
+> -- *[[LowerColoradoRiverBasinManagem_18433]]*
+
+> This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
+> -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
+
+> This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
+> -- *[[ExecutiveSummariescoloradoRive_19604]]*
+
+> This document is a memorandum and program proposal from the Recovery Program for Endangered Fishes of the Upper Colorado River Basin, dated September 23, 1994. It announces a meeting scheduled for November 8-10, 1994, to discuss goals, strategies, and issues of the [[Flooded Bottom Lands...
+> -- *[[MeetingToDiscussProgramGoalsSt_19639]]*
+
+> This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
+> -- *[[PalmLakenativeFishStatus_20905]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -220,3 +250,13 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[DraftmanagementPlanForTheRazor_11427]]
 - [[HighlightsOfAPeerReviewAndRoun_11448]]
+- [[UnitedStatesListOfEndangeredFa_11533]]
+- [[DraftLowerColoradoRiverBasinNa_11647]]
+- [[PreliminaryDraftColoradoRiverL_11719]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[ReceivedNoticeOnRazorbackSucke_12078]]
+- [[LowerColoradoRiverBasinManagem_18433]]
+- [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[ExecutiveSummariescoloradoRive_19604]]
+- [[MeetingToDiscussProgramGoalsSt_19639]]
+- [[PalmLakenativeFishStatus_20905]]

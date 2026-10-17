@@ -41,6 +41,18 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 > This 1906 taxonomic review by [[Jordan]] and [[Snyder]] documents two species of killifishes (family [[Poeciliidae]]) from Japan: [[Fundulichthys virescens]] and [[Oryzias latipes]]. Both are small fishes inhabiting rice swamps, pools, and ditches in southern Japan, likely feeding on mosquitoes....
 > -- *[[AReviewOfThePoeciliidaeOrKillf_19855]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This report documents the first-year monitoring results of [[Gila Topminnow]] (*Poeciliopsis o. occidentalis*) reintroductions conducted in 1982 across four [[Arizona]] National Forests under a tripartite Memorandum of Understanding between the U.S. Fish and Wildlife Service, U.S. Forest Service,...
+> -- *[[FactorsAffectingTheSuccessOfGi_12971]]*
+
+> This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
+> -- *[[CompositionAndDerivationOfTheF_15375]]*
+
+> This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
+> -- *[[DraftRecoveryPlanForTheEndange_15977]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -133,3 +145,7 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 - [[SystematicsOfPoeciliaInNorthea_13950]]
 - [[ReBiologicalOpinionOnRepairOfF_15004]]
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[FactorsAffectingTheSuccessOfGi_12971]]
+- [[CompositionAndDerivationOfTheF_15375]]
+- [[DraftRecoveryPlanForTheEndange_15977]]

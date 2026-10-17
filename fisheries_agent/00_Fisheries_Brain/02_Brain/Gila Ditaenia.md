@@ -26,6 +26,9 @@ Gila ditaenia, commonly known as the Yaqui chub, is a small cyprinid fish endemi
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
 > -- *[[MinutesDesertFishesRecoveryTea_15843]]*
 
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
@@ -41,3 +44,4 @@ Gila ditaenia, commonly known as the Yaqui chub, is a small cyprinid fish endemi
 - [[SonoraChubMonitoringMeeting_1993_04_29]]
 - [[SuggestedAgendaItemsForDesertF_1988_12_06]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
+- [[DraftecologicalDeterminismHybr_12773]]

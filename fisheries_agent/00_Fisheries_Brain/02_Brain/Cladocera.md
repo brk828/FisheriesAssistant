@@ -20,6 +20,9 @@ Cladocera are small crustacean zooplankton organisms that inhabit freshwater aqu
 > This annual report summarizes research activities conducted during 1966 by multiple hydrobiological, ichthyological, fisheries, fish disease, and waterfowl research units affiliated with the [[Natural History Club]] in Brno, Czechoslovakia. The report covers work by university departments, Academy...
 > -- *[[HydrobiologicalAndIchthyologic_12963]]*
 
+> This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
+> -- *[[RoughFishControl_20167]]*
+
 ## Mentioned In
 - [[ANoteOnTheNumberOfEggsInTheEph_1956]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -29,3 +32,4 @@ Cladocera are small crustacean zooplankton organisms that inhabit freshwater aqu
 - [[TrophicDynamicsOfLakeTroutProd_1970]]
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[HydrobiologicalAndIchthyologic_12963]]
+- [[RoughFishControl_20167]]

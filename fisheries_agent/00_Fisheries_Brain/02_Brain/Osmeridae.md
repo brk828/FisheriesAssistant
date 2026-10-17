@@ -17,6 +17,9 @@ Osmeridae is a family of small, silvery forage fishes characterized by the prese
 > *Note: [[Rainbow Smelt]] is a small anadromous/lacustrine forage fish species (family [[Osmeridae]]) but morphological details are outside the scope of this correspondence.*
 > -- *[[LetterOpposingProposedIntroduc_1999_02_08]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
 ## Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[FreshwaterFishesOfTheEasternAr_18569]]
@@ -24,3 +27,4 @@ Osmeridae is a family of small, silvery forage fishes characterized by the prese
 - [[LetterOpposingProposedIntroduc_1999_02_08]]
 - [[LetterRegardingProposedStockin_1989_06_23]]
 - [[WesternRangeExtensionOfTheSurf_1968]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]

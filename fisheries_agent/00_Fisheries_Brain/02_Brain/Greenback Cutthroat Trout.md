@@ -23,6 +23,12 @@ The Greenback Cutthroat Trout is a native North American salmonid species that a
 > - **Habitat**: [[Virgin River]], Utah — a warm, turbid, sand/silt-bottomed desert stream in the [[Colorado River Basin]]. - **Life stage targeted**: Young-of-year (YOY) woundfin specifically targeted for collection, suggesting a focus on recruitment-stage genetic sampling. - **Sampling design**: ...
 > -- *[[SubpermitAuthorizationForWound_1989_06_06]]*
 
+> This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
+> -- *[[UnitedStatesListOfEndangeredFa_11533]]*
+
+> This Federal Register notice documents the completion of the U.S. Fish and Wildlife Service's mandatory five-year review of species listed as endangered or threatened in 1978 under the [[Endangered Species Act]] of 1973. The review examined 39 species total, including three fish species: [[Leopard...
+> -- *[[EndangeredAndThreatenedWildlif_11553]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[CurrentRoleOfTroutCultureInMan_13158]]
@@ -30,3 +36,5 @@ The Greenback Cutthroat Trout is a native North American salmonid species that a
 - [[ReferencesRelatedToRareFishesA_1987_04_12]]
 - [[StatePerspectiveOnTheCurrentRo_13150]]
 - [[SubpermitAuthorizationForWound_1989_06_06]]
+- [[UnitedStatesListOfEndangeredFa_11533]]
+- [[EndangeredAndThreatenedWildlif_11553]]

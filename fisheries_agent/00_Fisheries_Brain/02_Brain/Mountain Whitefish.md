@@ -23,6 +23,9 @@ Mountain Whitefish (Prosopium williamsoni) is a native North American salmonid s
 > - **Primary producers** ([[Algae]], phytoplankton, sessile algae): highest diversity and quantity of accumulated isotopes, attributed to direct nutrient uptake from water and large surface-area adsorption. - **Second trophic level – [[Sucker|Catostomus Macrocheilus]]**: feeds directly on sessile ...
 > -- *[[RadioactiveMaterialsInAquaticA_13967]]*
 
+> This Federal Aid to Fish Restoration report documents population dynamics, species composition, limnological conditions, and management strategies for [[Arrowrock Reservoir]] and [[Lucky Peak Reservoir]] on the [[Boise River]], Idaho, from July 1965 through February 1968. Extensive gill netting...
+> -- *[[LakeAndReservoirInvestigations_12145]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
@@ -34,3 +37,4 @@ Mountain Whitefish (Prosopium williamsoni) is a native North American salmonid s
 - [[SomeEffectsOfRotenoneTreatment_1969]]
 - [[ThePopulationAndMovementOfFish_1952]]
 - [[TwoYearCreelCensusOfTheLittleS_1955]]
+- [[LakeAndReservoirInvestigations_12145]]

@@ -23,6 +23,9 @@ The Tennessee Valley Authority (TVA) is a major federal agency responsible for m
 > - **Anadromous restoration role**: Striped bass are propagated specifically to restore depleted anadromous populations historically present in the [[Gulf of Mexico]], linking freshwater hatchery production to coastal marine recruitment. - **Interjurisdictional riverine restoration**: Paddlefish a...
 > -- *[[StationProfileOfNatchitochesNa_1993]]*
 
+> This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
+> -- *[[InvestigationsOfCommercialFish_18562]]*
+
 ## Mentioned In
 - [[EndangeredSpeciesLawSubjectOfC_1998_12_31]]
 - [[FishDistributionNumbersAndWeig_1992]]
@@ -31,3 +34,4 @@ The Tennessee Valley Authority (TVA) is a major federal agency responsible for m
 - [[StationProfileO_19523]]
 - [[StationProfileOfMammothSpringN_19535]]
 - [[StationProfileOfNatchitochesNa_1993]]
+- [[InvestigationsOfCommercialFish_18562]]

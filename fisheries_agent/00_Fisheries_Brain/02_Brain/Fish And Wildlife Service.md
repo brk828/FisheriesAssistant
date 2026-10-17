@@ -47,6 +47,24 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
 > -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> This document comprises formal comments submitted by the [[Southern Nevada Water Authority]] (SNWA) to the [[U.S. Bureau of Reclamation]] regarding the [[Fish and Wildlife Service]] Final Biological and Conference Opinion on [[Lower Colorado River]] Operations and Maintenance from [[Lake Mead]] to...
+> -- *[[CommentsOnBiologicalAndConfere_11800]]*
+
+> Minutes from the October 23, 1989 [[Cui-ui]] Recovery Team meeting in Reno, Nevada, documenting critical discussions about recovery plan development, hybridization concerns, and management strategies for this endangered sucker species. The team addressed timeline extensions, leadership transitions,...
+> -- *[[DraftMinutesOfTheOctoberRecove_13868]]*
+
+> This document contains the official minutes from the [[Cui-ui]] Recovery Team meeting held October 23, 1989 in Reno, Nevada. The meeting addressed critical issues in developing a recovery plan for [[Chasmistes cujus]], an endangered sucker species endemic to [[Pyramid Lake]]. Key concerns included...
+> -- *[[CuiuiRecoveryTeamMeetingMinute_13872]]*
+
+> This document contains two Federal Register notices from June 1997. The primary notice proposes codification of the [[Endangered Species Act]] "No Surprises" policy, which provides regulatory assurances to holders of incidental take permits under [[Habitat Conservation Plans]] (HCPs). The policy...
+> -- *[[InteriorPublishesProposedNoSup_14551]]*
+
+> This correspondence from the [[Bureau of Land Management]] [[Tucson Resource Area Office]] to Dr. W.L. Minckley, Team Leader of the [[Desert Fishes Recovery Team]], provides input on the Recovery Team's functions and duties. Written by Jeffrey R. Simms and transmitted March 16, 1993, the letter...
+> -- *[[DfrtAccomplishmentsduties_18989]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -77,3 +95,9 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[ReviewOfProposedCounterpartReg_11907]]
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[CommentsOnBiologicalAndConfere_11800]]
+- [[DraftMinutesOfTheOctoberRecove_13868]]
+- [[CuiuiRecoveryTeamMeetingMinute_13872]]
+- [[InteriorPublishesProposedNoSup_14551]]
+- [[DfrtAccomplishmentsduties_18989]]

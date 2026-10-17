@@ -29,6 +29,9 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 > This paper reviews Quaternary paleoclimatic trends along the [[Pacific Coast]] of [[North America]], emphasizing long-term cooling and increasing aridity from the Tertiary through the Pleistocene to Recent times. [[Carl L. Hubbs]] synthesizes evidence from paleobotany, paleontology, archaeology,...
 > -- *[[QuaternaryPaleoclimatologyOfTh_14159]]*
 
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -38,3 +41,4 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
+- [[ConservationGeneticsInTheManag_20087]]

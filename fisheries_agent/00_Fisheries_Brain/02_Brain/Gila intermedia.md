@@ -26,6 +26,9 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
 > -- *[[MinutesDesertFishesRecoveryTea_15843]]*
 
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
@@ -39,3 +42,4 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 - [[RazorbackSuckerRecapture_1986_08_18]]
 - [[ResultsOfIdentificationOfColle_18206]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
+- [[DraftecologicalDeterminismHybr_12773]]

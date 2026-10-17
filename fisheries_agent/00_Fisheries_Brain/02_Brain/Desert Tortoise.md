@@ -20,9 +20,13 @@ auto_enriched: true
 > This correspondence from the [[Colorado River Fishes Recovery Team]] Leader to the U.S. Fish and Wildlife Service Regional Director outlines six critical recommendations regarding endangered fish recovery in the [[Colorado River]] system. Primary concerns include upgrading the listing status of...
 > -- *[[RecommendationsToColoradoRiver_14701]]*
 
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
 ## Mentioned In
 - [[ReportingFederalExpendituresPu_1992_11_25]]
 - [[PapagoParkMilitaryReservationB_13351]]
 - [[BiologicalAssessmentProbableEf_11481]]
 - [[BiologicalAssessmentOnThreaten_19806]]
 - [[RecommendationsToColoradoRiver_14701]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]

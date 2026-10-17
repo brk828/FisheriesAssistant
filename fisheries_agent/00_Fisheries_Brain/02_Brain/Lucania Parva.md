@@ -23,8 +23,12 @@ Lucania parva is a small cyprinodontid (killifish) species that inhabits freshwa
 > - **Marine vs. freshwater hybrid frequency**: The authors invoke [[Hubbs 1955]]'s observation that natural hybridization is much rarer among marine/estuarine fishes than freshwater fishes, attributing this partly to the greater environmental stability of marine habitats reducing opportunities/pre...
 > -- *[[SurvivalOfFHybridsBetweenCypri_1959]]*
 
+> This study documents temporal changes in a long-standing hybrid swarm between the endangered endemic [[Gambusia heterochir]] (Clear Creek Gambusia) and [[Gambusia affinis]] (Western Mosquitofish) in [[Clear Creek]], [[Menard County]], Texas, following reconstruction of the uppermost dam in 1979....
+> -- *[[TemporalChangesInTheGambusiaHe_15772]]*
+
 ## Mentioned In
 - [[PartialBibliographyOnNaturalHi_13786]]
 - [[PreliminaryLimnologicInformati_1968_12_31]]
 - [[SurvivalOfFHybridsBetweenCypri_1959]]
 - [[TheDistributionOfTheOviparousK_16815]]
+- [[TemporalChangesInTheGambusiaHe_15772]]

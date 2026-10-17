@@ -44,6 +44,9 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 > This 1906 taxonomic review by [[Jordan]] and [[Snyder]] documents two species of killifishes (family [[Poeciliidae]]) from Japan: [[Fundulichthys virescens]] and [[Oryzias latipes]]. Both are small fishes inhabiting rice swamps, pools, and ditches in southern Japan, likely feeding on mosquitoes....
 > -- *[[AReviewOfThePoeciliidaeOrKillf_19855]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReDescriptionOfAphaniusGinaon_1980]]
@@ -106,3 +109,4 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]

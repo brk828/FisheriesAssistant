@@ -23,6 +23,9 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > - Shad are **anadromous** and do not feed during the freshwater spawning migration (Walburg & Nichols, 1967), so energy allocation during migration is a zero-sum trade-off between **fecundity, growth, and post-spawning survival**. - The [[Mactaquac Dam]], completed in 1967, introduced a mechanica...
 > -- *[[LifeHistoryVariationsInPopulat_16023]]*
 
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -31,3 +34,4 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[LifeHistoryVariationsInPopulat_16023]]
 - [[PotentialFishHabitatBenefitsIn_18308]]
 - [[StationProfileOfTheLeavenworth_1993]]
+- [[ProvisionalChecklistOfCanadian_21104]]

@@ -23,6 +23,9 @@ Lake Ontario is one of the five Great Lakes and represents a critical conservati
 > This 1966 study by Matheson and Anderson reports three years (1963–1965) of chlorophyll data collected from municipal water intakes at [[Hamilton, Ontario]] and [[Burlington, Ontario]] on western [[Lake Ontario]]. The authors argue that water treatment plant intake sampling is an inexpensive, con...
 > -- *[[TheTemporalDistributionOfChlor_1966]]*
 
+> This article provides an overview of whitefish species in New York waters, focusing primarily on the [[Adirondack Whitefish]] or [[Labrador Whitefish]] (Coregonus clupeaformis). Whitefish are highly valued food fish with an international reputation for flavor, occurring in at least 48 New York...
+> -- *[[Whitefish_19228]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[ExperimentalIntroductionsOfFre_1960_01_01]]
@@ -30,3 +33,4 @@ Lake Ontario is one of the five Great Lakes and represents a critical conservati
 - [[StationProfileOfTheAlleghenyNa_1993]]
 - [[TheInvasionPresentStatusAndLif_1949_12_01]]
 - [[TheTemporalDistributionOfChlor_1966]]
+- [[Whitefish_19228]]

@@ -32,6 +32,9 @@ The Missouri River is a major North American river system of significant importa
 > **Taxonomic & Life-History Summary:** [[Smallmouth Bass]] (*Micropterus dolomieui dolomieui*) is a member of family [[Centrarchidae]]. Body thick and chunky with moderate-sized mouth; upper jaw usually not reaching posteriad past front of eye. Spinous dorsal fin low, soft dorsal fin with 13-15...
 > -- *[[SmallmouthBassMicropterusDolom_X-013f4e27]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -51,3 +54,4 @@ The Missouri River is a major North American river system of significant importa
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
+- [[WhatHaveICaught_12929]]

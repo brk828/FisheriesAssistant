@@ -23,6 +23,9 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 > **Large fishes (N = 151):** - Dominated by native *[[Gila Robusta]]* (51.0%) - Native *[[Catostomus Insignis]]* (17.2%) - Native *[[Pantosteus Clarki]]* (16.6%) - Non-native *[[Ameiurus Natalis]]* (9.3%) - Non-native *[[Ictalurus Punctatus]]* (2.0%) - Non-native *[[Cyprinus Carpio]]* (1.3%) - Non...
 > -- *[[ColoradoSquawfishMonitoringVer_19393]]*
 
+> This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
+> -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -41,3 +44,4 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 - [[ReportOnKanabCreekResearchTrip_1993_05_20]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 - [[TheRelationOfHydrologicalCondi_20023]]
+- [[ListOfFishesKnownOrExpectedToB_14196]]

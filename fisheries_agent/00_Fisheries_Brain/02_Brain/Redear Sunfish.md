@@ -50,6 +50,12 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 > This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
 > -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
 
+> This completion report (Project F-7-R-4, Work Plan 4, Job A-1) documents a comprehensive fisheries investigation of backwater lakes along the [[Lower Colorado River]] within the [[Imperial National Wildlife Refuge]], Arizona, conducted from January 16 to October 15, 1961. The study aimed to...
+> -- *[[ABasicSurveyOfWatersInDistrict_14982]]*
+
+> This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
+> -- *[[ExecutiveSummariescoloradoRive_19604]]*
+
 ## Mentioned In
 - [[ANoteOnTheResultsOfFeedingFire_1960]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -98,3 +104,5 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[ResultsOfAnOpeningWeekCreelCen_17745]]
+- [[ABasicSurveyOfWatersInDistrict_14982]]
+- [[ExecutiveSummariescoloradoRive_19604]]

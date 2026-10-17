@@ -11,9 +11,13 @@ San Bernardino Ranch refers to a specific riparian property and aquatic ecosyste
 > This 1974 re-evaluation by Randy M. McNatt (Arizona State University) reassesses the native fish fauna of the [[Rio Yaqui]] drainage within the United States, focused on two sub-systems in extreme southeastern Arizona: [[Whitewater Draw]] (with tributaries [[Rucker Canyon]] and [[Leslie Creek]]) ...
 > -- *[[ReEvaluationOfTheNativeFishesO_12336]]*
 
+> This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
+> -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
+
 ## Mentioned In
 - [[LetterInvitingDrMinckleyToVisi_1987_09_03]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
 - [[ReEvaluationOfTheNativeFishesO_12336]]
 - [[TotalFloristicStudyOfTheSanBer_14669]]
 - [[YaquiChubStockingIntoSanBernar_1980_10_31]]
+- [[OutlineOfSanBernardinoRanchMan_20829]]

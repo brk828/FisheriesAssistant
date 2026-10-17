@@ -32,6 +32,15 @@ Salmonidae is a family of teleost fishes that includes salmon, trout, and char s
 > This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
 > -- *[[InterimProceduresForStockingNo_15423]]*
 
+> This Federal Register notice documents the completion of the U.S. Fish and Wildlife Service's mandatory five-year review of species listed as endangered or threatened in 1978 under the [[Endangered Species Act]] of 1973. The review examined 39 species total, including three fish species: [[Leopard...
+> -- *[[EndangeredAndThreatenedWildlif_11553]]*
+
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -126,3 +135,6 @@ Salmonidae is a family of teleost fishes that includes salmon, trout, and char s
 - [[GeneticAndEcologicalConstraint_13156]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[InterimProceduresForStockingNo_15423]]
+- [[EndangeredAndThreatenedWildlif_11553]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ProvisionalChecklistOfCanadian_21104]]

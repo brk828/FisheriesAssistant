@@ -44,6 +44,12 @@ Spotted Bass (Micropterus punctulatus) is a centrarchid fish species characteriz
 > **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae* sensu stricto) is native to the Coosa River system of Alabama, Georgia, and Tennessee. The species was originally described in 1940 and has since undergone genetic revision separating it into several species within the...
 > -- *[[ACaseOfMistakenIdentityGenetic_2021]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[FishDistributionAndAbundanceCo_1942]]
@@ -67,3 +73,5 @@ Spotted Bass (Micropterus punctulatus) is a centrarchid fish species characteriz
 - [[DistributionBiologyAndConserva_2002]]
 - [[StatusAssesmentOfAShoalBassPop_2012]]
 - [[ACaseOfMistakenIdentityGenetic_2021]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[WhatHaveICaught_12929]]

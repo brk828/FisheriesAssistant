@@ -23,6 +23,12 @@ Sunfish (family Centrarchidae) are small to medium-sized freshwater fishes nativ
 > - **Population structure:** Tagging data suggest sunfish in different major lake areas (e.g., Area 2/3 complex, Lone Tree Cove/Point, Farmers Beach/Cove, Island East/West) form largely separate, semi-independent populations, with limited cross-area movement. - **Recapture rates by species:** - Pu...
 > -- *[[MovementAndHomingOfSunfishesIn_1965]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
+> This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
+> -- *[[RoughFishControl_20167]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -43,3 +49,5 @@ Sunfish (family Centrarchidae) are small to medium-sized freshwater fishes nativ
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[TheYellowPerchInvadesTexas_14207]]
 - [[UseOfAntimycinForSelectiveThin_14083]]
+- [[WhatHaveICaught_12929]]
+- [[RoughFishControl_20167]]

@@ -53,6 +53,18 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 > This document is a formal letter dated January 3, 1990, from [[Grand Canyon National Park]] Superintendent John H. Davis to Wayne Gustaveson of the [[Utah Division of Wildlife]], expressing opposition to a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The...
 > -- *[[ReProposalToIntroduceRainbowSm_13975]]*
 
+> This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
+> -- *[[CommentsOnTheBiologicalOpinion_17166]]*
+
+> This proposal by [[Michael J.C. Kearsley]] and [[Tina J. Ayers]] from [[Northern Arizona University]] requests funding to continue monitoring riparian and wetland plant assemblages in the [[Colorado River]] corridor downstream of [[Glen Canyon Dam]] in [[Grand Canyon National Park]]. The 12-month...
+> -- *[[TransitionMonitoringForRiparia_17903]]*
+
+> This 1991 report presents scientifically based recommendations for interim operating procedures at [[Glen Canyon Dam]] to protect downstream aquatic and riparian resources in [[Grand Canyon National Park]] during the period between research flows (ending July 1991) and implementation of a Record of...
+> -- *[[InterimFlowsForGrandCanyonReco_18454]]*
+
+> This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
+> -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
+
 ## Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
@@ -91,3 +103,7 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 - [[EffectsOfElectrofishingFieldsO_15548]]
 - [[HumpbackChubEggCollectionInGra_13013]]
 - [[ReProposalToIntroduceRainbowSm_13975]]
+- [[CommentsOnTheBiologicalOpinion_17166]]
+- [[TransitionMonitoringForRiparia_17903]]
+- [[InterimFlowsForGrandCanyonReco_18454]]
+- [[AgencyRecalcitranceAndEvasionR_20349]]

@@ -20,6 +20,9 @@ Anguilla rostrata, commonly known as the American eel, is a catadromous fish spe
 > This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
 > -- *[[DistributionalAndLocalVernacul_13815]]*
 
+> This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
+> -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
+
 ## Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 - [[NocturnalTerrestrialHabitsOfTh_1955_08_19]]
@@ -27,3 +30,4 @@ Anguilla rostrata, commonly known as the American eel, is a catadromous fish spe
 - [[UrenchelysAbditusNewSpeciesThe_11967]]
 - [[Eel_14169]]
 - [[DistributionalAndLocalVernacul_13815]]
+- [[ListOfFishesKnownOrExpectedToB_14196]]

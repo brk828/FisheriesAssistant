@@ -14,7 +14,11 @@ The Northern Redhorse (Moxostoma macrolepidotum) is a cyprinid fish species belo
 > - **Relative abundance by river (Table 1)**: Nearly all groups (gar, forage fish, channel catfish, flathead catfish, sunfish, crappie, bass) were more abundant per unit effort in the **Neosho River** than in the **Marais des Cygnes River**; only rough fish, bullhead, and freshwater drum were more...
 > -- *[[SurveyOfFishPopulationsInStrea_13990]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
 - [[EvaluationOfAnElectronicMethod_14437]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
+- [[WhatHaveICaught_12929]]

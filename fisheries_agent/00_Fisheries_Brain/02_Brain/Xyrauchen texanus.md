@@ -38,6 +38,12 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
+> This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
+> -- *[[CompositionAndDerivationOfTheF_15375]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -85,3 +91,5 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[DistributionalAndLocalVernacul_13815]]
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[DraftecologicalDeterminismHybr_12773]]
+- [[CompositionAndDerivationOfTheF_15375]]

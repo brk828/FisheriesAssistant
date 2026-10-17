@@ -14,8 +14,12 @@ Arctic Grayling (Thymallus arcticus) is a freshwater salmonid species characteri
 > - **Invasive/introduced species establishing populations**: [[Sea Lamprey]], [[Alewife]], and [[White Perch]] have invaded the region, contributing to ecosystem-level disruption. - **Declining or extirpated native populations**: [[Blue Pike]], [[Lake Whitefish]], [[Cisco]], and [[Lake Trout]] pop...
 > -- *[[ReviewOfFreshwaterFishesOfEast_11318]]*
 
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[PeerReviewLetterOnInvestigatio_1995_06_30]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
+- [[ProvisionalChecklistOfCanadian_21104]]

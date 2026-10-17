@@ -17,8 +17,12 @@ Saguaro Lake is a warm-water desert reservoir in Arizona characterized by high r
 > - **License sales trend**: 320,132 total hunting/fishing/combination licenses sold in 1966 vs. 296,084 in 1965 — an **8.1% increase**, reflecting rising angler demand on Arizona's limited water resources. - **Fishery composition**: [[Pena Blanca Lake]] creel census showed trout at 54% of total ca...
 > -- *[[RiverBasinInvestigationsCooper_12958]]*
 
+> This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
+> -- *[[InvestigationsOfCommercialFish_18562]]*
+
 ## Mentioned In
 - [[BranchiuraSowerbyiBeddardAnnel_16017]]
 - [[RiverBasinInvestigationsCooper_12958]]
 - [[RiverBasinInvestigationsVisito_12729]]
 - [[RooseveltLakeRazorbackSuckerRe_1994_08_19]]
+- [[InvestigationsOfCommercialFish_18562]]

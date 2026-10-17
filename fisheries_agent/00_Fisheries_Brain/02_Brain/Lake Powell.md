@@ -74,6 +74,27 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
 > -- *[[RainbowSmeltProposallakePowell_21115]]*
 
+> This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
+> -- *[[DraftdistributionAndIncidenceO_12207]]*
+
+> This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
+> -- *[[ConcernsAboutIntroductionOfRai_13174]]*
+
+> This document is a formal request from Arizona State University's Department of Zoology to the U.S. Fish and Wildlife Service for tissue samples and gametes of [[Razorback Sucker]] (*Xyrauchen texanus*) from two facilities: [[Dexter National Fish Hatchery]] (DNFH) and [[Ouray Endangered Fish...
+> -- *[[RequestForTissuesAndGametesOfR_13796]]*
+
+> Minutes from the October 23, 1989 [[Cui-ui]] Recovery Team meeting in Reno, Nevada, documenting critical discussions about recovery plan development, hybridization concerns, and management strategies for this endangered sucker species. The team addressed timeline extensions, leadership transitions,...
+> -- *[[DraftMinutesOfTheOctoberRecove_13868]]*
+
+> This Bureau of Reclamation document summarizes an April 6, 1993 Selective Withdrawal Investigations Workgroup meeting held in Phoenix, Arizona. The multi-disciplinary workgroup evaluated the feasibility and potential impacts of installing selective withdrawal facilities at [[Glen Canyon Dam]] to...
+> -- *[[SelectiveWithdrawalWorkgroupMe_15753]]*
+
+> This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
+> -- *[[LongtermLimnologicalAndWaterQu_17092]]*
+
+> This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
+> -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -157,3 +178,10 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[ReProposalToIntroduceRainbowSm_13975]]
 - [[RecommendationsToColoradoRiver_14701]]
 - [[RainbowSmeltProposallakePowell_21115]]
+- [[DraftdistributionAndIncidenceO_12207]]
+- [[ConcernsAboutIntroductionOfRai_13174]]
+- [[RequestForTissuesAndGametesOfR_13796]]
+- [[DraftMinutesOfTheOctoberRecove_13868]]
+- [[SelectiveWithdrawalWorkgroupMe_15753]]
+- [[LongtermLimnologicalAndWaterQu_17092]]
+- [[AgencyRecalcitranceAndEvasionR_20349]]

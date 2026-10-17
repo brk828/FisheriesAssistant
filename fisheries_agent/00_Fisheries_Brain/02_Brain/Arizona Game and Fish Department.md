@@ -107,6 +107,30 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > This correspondence from the [[Arizona Game and Fish Department]] (AGFD) to [[The Nature Conservancy]] (TNC) summarizes action items and deadlines from a January 14, 1993 meeting regarding [[Palm Lake]] at the [[Hassayampa River Preserve]] in [[Wickenburg, Arizona]]. The letter outlines...
 > -- *[[PalmLakeMeetingjanuary_20906]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
+> -- *[[ConcernsAboutIntroductionOfRai_13174]]*
+
+> This 1987 correspondence from the [[Arizona Game and Fish Department]] proposes establishing annual collaborative meetings between the Department and Arizona universities ([[University of Arizona]], [[Northern Arizona University]], [[Arizona State University]]) to promote cooperative wildlife...
+> -- *[[CooperationBetweenArizonaGameA_13469]]*
+
+> This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
+> -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
+
+> The [[Arizona Department of Water Resources]] contracted [[Earth Technology Corporation]] in 1984 to reassess the feasibility of constructing a permanent-pool recreational lake on [[Leslie Creek]] in [[Cochise County]], Arizona. The original 1960s-1970s feasibility studies estimated average annual...
+> -- *[[FeasibilityStudyOfLeslieCanyon_15717]]*
+
+> This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
+> -- *[[InvestigationsOfCommercialFish_18562]]*
+
+> This administrative document represents a research proposal submission from [[Arizona State University]] to the [[Arizona Game and Fish Department]] for a study focused on [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*). The proposal was submitted on July 30, 1986, with...
+> -- *[[MedatiarogaStudy_19000]]*
+
+> This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
+> -- *[[PalmLakenativeFishStatus_20905]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -308,3 +332,11 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
 - [[ScientificResearchExperiencesF_20483]]
 - [[PalmLakeMeetingjanuary_20906]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[ConcernsAboutIntroductionOfRai_13174]]
+- [[CooperationBetweenArizonaGameA_13469]]
+- [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[FeasibilityStudyOfLeslieCanyon_15717]]
+- [[InvestigationsOfCommercialFish_18562]]
+- [[MedatiarogaStudy_19000]]
+- [[PalmLakenativeFishStatus_20905]]

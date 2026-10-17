@@ -50,6 +50,9 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 > This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
 > -- *[[WoundfinPlagopterusArgentissim_14022]]*
 
+> The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14803]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
@@ -73,3 +76,4 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 - [[VerdeRiverPerkinsvillesycamore_2023]]
 - [[ProposedConstructionOfADamOnTh_13721]]
 - [[WoundfinPlagopterusArgentissim_14022]]
+- [[EndangeredAndThreatenedWildlif_14803]]

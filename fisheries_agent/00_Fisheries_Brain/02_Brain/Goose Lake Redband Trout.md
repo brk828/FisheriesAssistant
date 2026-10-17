@@ -11,6 +11,10 @@ auto_enriched: true
 > - **Habitat context**: The salmonids under discussion occupy North Pacific freshwater and anadromous marine systems, including lacustrine (lake), riverine, and coastal marine environments. - **Evolutionary/ecological history** (per attached speculative phylogeny): 1. **Miocene radiation** of larg...
 > -- *[[LetterToDADuffOnSalmoAndParasa_1988_03_09]]*
 
+> This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
+> -- *[[ConservationOfNativeFreshwater_15444]]*
+
 ## Mentioned In
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[LetterToDADuffOnSalmoAndParasa_1988_03_09]]
+- [[ConservationOfNativeFreshwater_15444]]

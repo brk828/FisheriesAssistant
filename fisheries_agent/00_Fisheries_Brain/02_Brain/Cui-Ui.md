@@ -35,6 +35,15 @@ The cui-ui (*Chasmistics cujus*) is an endangered catostomid fish (sucker family
 > This document is the second revision of the [[Cui-ui]] (*Chasmistes cujus*) Recovery Plan, approved November 22, 1983, providing direction through FY 1986. The [[Cui-ui]] is an endangered sucker endemic to [[Pyramid Lake]] and the [[Truckee River]] system in Nevada. The plan's goal remains...
 > -- *[[CuiuiChasmistesCujusRevision_13303]]*
 
+> This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
+> -- *[[UnitedStatesListOfEndangeredFa_11533]]*
+
+> Minutes from the October 23, 1989 [[Cui-ui]] Recovery Team meeting in Reno, Nevada, documenting critical discussions about recovery plan development, hybridization concerns, and management strategies for this endangered sucker species. The team addressed timeline extensions, leadership transitions,...
+> -- *[[DraftMinutesOfTheOctoberRecove_13868]]*
+
+> This document contains the official minutes from the [[Cui-ui]] Recovery Team meeting held October 23, 1989 in Reno, Nevada. The meeting addressed critical issues in developing a recovery plan for [[Chasmistes cujus]], an endangered sucker species endemic to [[Pyramid Lake]]. Key concerns included...
+> -- *[[CuiuiRecoveryTeamMeetingMinute_13872]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[AllozymeDifferencesDuplicateGe_11423]]
@@ -76,3 +85,6 @@ The cui-ui (*Chasmistics cujus*) is an endangered catostomid fish (sucker family
 - [[CuiuiAndLahontanCutthroatTrout_13865]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[CuiuiChasmistesCujusRevision_13303]]
+- [[UnitedStatesListOfEndangeredFa_11533]]
+- [[DraftMinutesOfTheOctoberRecove_13868]]
+- [[CuiuiRecoveryTeamMeetingMinute_13872]]

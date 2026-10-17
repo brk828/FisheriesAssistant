@@ -17,9 +17,13 @@ The Colorado River Compact is the 1922 interstate water allocation agreement tha
 > This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
 > -- *[[AllocatingFreshWaterToAquaticE_18641]]*
 
+> This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
+> -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
+
 ## Mentioned In
 - [[HydrologicScenariosForSevereSu_13465]]
 - [[MitigatingImpactsOfASevereSust_20513]]
 - [[ReclamationToBeginWorkOnGlenCa_1989_11_02]]
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[AllocatingFreshWaterToAquaticE_18641]]
+- [[AgencyRecalcitranceAndEvasionR_20349]]

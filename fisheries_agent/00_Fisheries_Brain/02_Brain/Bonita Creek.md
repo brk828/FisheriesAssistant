@@ -38,6 +38,9 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 > This study examines putative F₁ hybrids between [[Catostomus insignis]] (Sonoran sucker) and [[Pantosteus clarki]] (desert sucker) from [[Aravaipa Creek]] and [[Bonita Creek]] in southeastern Arizona. Morphological analyses using hybrid index (HI), discriminant function analysis (DFA), and...
 > -- *[[MorphologyAndFoodsOfHybridCata_15933]]*
 
+> This document comprises field collection notes from aquatic surveys conducted by James F. LeRousty throughout the [[Gila River]] Basin and [[San Pedro River]] system in Arizona and New Mexico during 1973. The notes document multiple sampling locations from April through December 1973, recording...
+> -- *[[FieldNotesAtTheSanPedroGilaAnd_12645]]*
+
 ## Mentioned In
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
 - [[BlmGilaBoxAdvisoryCommitteeMee_1991_12_24]]
@@ -53,3 +56,4 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 - [[FisheryInventoryOfTheCoachella_13687]]
 - [[ChangesInRiparianVegetationAnd_14524]]
 - [[MorphologyAndFoodsOfHybridCata_15933]]
+- [[FieldNotesAtTheSanPedroGilaAnd_12645]]

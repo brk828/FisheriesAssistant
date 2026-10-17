@@ -20,9 +20,13 @@ Notemigonus crysoleucas, commonly known as the golden shiner, is a cyprinid fish
 > This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
 > -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
 
+> This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
+> -- *[[EvolutionaryRelationshipsOfThe_19110]]*
+
 ## Mentioned In
 - [[PhylogeneticsOfNorthAmericanCh_20485]]
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[TroutFishingAtCliffPondBrewste_15489]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
+- [[EvolutionaryRelationshipsOfThe_19110]]

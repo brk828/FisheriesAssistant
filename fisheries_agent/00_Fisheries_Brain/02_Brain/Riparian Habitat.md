@@ -14,9 +14,13 @@ Riparian habitat refers to the vegetated zone adjacent to streams and rivers tha
 > This report is **not a fish-specific study** but a habitat-scale inventory and mapping assessment of riparian ecosystems across Arizona, conducted by the Arizona Game and Fish Department's Nongame and Endangered Wildlife Program under the "Waters – Riparian Protection Program" (A.R.S. 45-101). Be...
 > -- *[[StatewideRiparianInventoryAndM_12471]]*
 
+> The [[Bureau of Land Management]] (BLM) announced a temporary six-month suspension of land acquisitions along the [[San Pedro River]] in southeastern Arizona following June 10 discussions with Natural Resource Conservation Districts (NRCDs). The decision responds to concerns from private landowners...
+> -- *[[BlmRespondsToPublicConcernsAlo_19144]]*
+
 ## Mentioned In
 - [[ConstructionAndOperatingEf_19150]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
 - [[MesquiteCoveTheNextHavasuFishi_1996]]
 - [[PlanOfferedToProtectHabitatsOf_18307]]
 - [[StatewideRiparianInventoryAndM_12471]]
+- [[BlmRespondsToPublicConcernsAlo_19144]]

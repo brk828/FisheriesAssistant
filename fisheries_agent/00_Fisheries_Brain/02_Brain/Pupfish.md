@@ -23,6 +23,9 @@ Pupfish (family Cyprinodontidae, genus Cyprinodon) are small-bodied, highly adap
 > Key definitional issues raised: - **Captive vs. Wild Habitat**: Brooks proposes that a population should be classified as "wild" if both water source and delivery are natural, and the habitat (natural or manmade) is secure from catastrophic disruption. A "captive" designation applies when water s...
 > -- *[[MemoFromJimBrooksOnTopminnowRe_1989_12_01]]*
 
+> This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
+> -- *[[ConservationOfNativeFreshwater_15444]]*
+
 ## Mentioned In
 - [[BattleAgainstExtinctionNativeF_17606]]
 - [[CorrespondenceBetweenRobertRMi_15382]]
@@ -37,3 +40,4 @@ Pupfish (family Cyprinodontidae, genus Cyprinodon) are small-bodied, highly adap
 - [[StatusOfTheGilaTopminnowAndIts_13684]]
 - [[SubpermitAuthorizationForColle_1990]]
 - [[TheFutureOfFishes_14521]]
+- [[ConservationOfNativeFreshwater_15444]]

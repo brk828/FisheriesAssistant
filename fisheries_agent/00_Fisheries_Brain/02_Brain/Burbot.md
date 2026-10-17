@@ -23,6 +23,9 @@ The burbot (*Lota lota*) is a freshwater gadiform fish species and the only true
 > Trans-Beringian faunal connections are documented via species shared across the [[Bering Strait]], including *Lampetra japonica* ([[Arctic Lamprey]]), *Lota lota* ([[Burbot]]), *Cottus cognatus* ([[Slimy Sculpin]]), and *Pungitius pungitius* ([[Ninespine Stickleback]]), indicating historic connec...
 > -- *[[FreshwaterFishesOfTheEasternAr_18569]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
 - [[ChangesInWalleyeStizostedionVi_1977_03_18]]
@@ -31,3 +34,4 @@ The burbot (*Lota lota*) is a freshwater gadiform fish species and the only true
 - [[FreshwaterDrumAplodinotusGrunn_14145]]
 - [[FreshwaterFishesOfTheEasternAr_18569]]
 - [[TheSmeltOsmerusMordaxMitchill_13092]]
+- [[WhatHaveICaught_12929]]

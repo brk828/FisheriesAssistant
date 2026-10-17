@@ -35,6 +35,9 @@ Goodeidae is a family of small, viviparous (live-bearing) freshwater fishes ende
 > This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
 > -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
 
+> This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
+> -- *[[CompositionAndDerivationOfTheF_15375]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheAdultGoodeid_19652]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
@@ -59,3 +62,4 @@ Goodeidae is a family of small, viviparous (live-bearing) freshwater fishes ende
 - [[ProposalForSupportOfResearchOn_15568]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[CompositionAndDerivationOfTheF_15375]]

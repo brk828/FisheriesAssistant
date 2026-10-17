@@ -44,6 +44,15 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > This report summarizes a peer review and roundtable discussion conducted February 6-7, 1995, in Grand Junction, Colorado, evaluating the relationship between streamflow, geomorphology, and food web studies in the [[Upper Colorado River Basin]] Recovery Program for four endangered fishes:...
 > -- *[[HighlightsOfAPeerReviewAndRoun_11448]]*
 
+> This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
+> -- *[[LetterOnImplementationCommitte_11623]]*
+
+> This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
+> -- *[[DraftdistributionAndIncidenceO_12207]]*
+
+> This 1989 memorandum from the U.S. Fish and Wildlife Service transmits interim streamflow recommendations for the [[Yampa River]] to protect four rare and endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila...
+> -- *[[StreamflowNeedsOfRareAndEndang_14141]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -91,3 +100,6 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[DraftmanagementPlanForTheRazor_11427]]
 - [[HighlightsOfAPeerReviewAndRoun_11448]]
+- [[LetterOnImplementationCommitte_11623]]
+- [[DraftdistributionAndIncidenceO_12207]]
+- [[StreamflowNeedsOfRareAndEndang_14141]]

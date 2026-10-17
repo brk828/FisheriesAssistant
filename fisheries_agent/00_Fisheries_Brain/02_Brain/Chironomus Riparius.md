@@ -20,8 +20,12 @@ Chironomus riparius, commonly known as the midge or chironomid, is a benthic inv
 > - **Tubificidae** (sludge worms): reported densities up to **72,000 individuals/m²** in badly polluted water ([[Richardson 1928]], Illinois River). - **Asellus aquaticus** and **[[Chironomus riparius]]** larvae: densities exceeding **100,000 individuals/m²** each under milder pollution conditions...
 > -- *[[TheEffectsOfOrganismsOnPolluti_12169]]*
 
+> This paper describes research conducted at the [[Water Pollution Research Laboratory]] in Stevenage, England, examining how rooted aquatic plants and benthic macro-invertebrates affect the oxygen balance in small streams. The study develops and applies methods for measuring photosynthesis,...
+> -- *[[SomeEffectsOfPlantsAndAnimalsO_15778]]*
+
 ## Mentioned In
 - [[PolarographicMeasurementOfTheR_12575]]
 - [[TheEffectOfLarvaeOfChironomusR_15777]]
 - [[TheEffectsOfBiologicalCommunit_12165]]
 - [[TheEffectsOfOrganismsOnPolluti_12169]]
+- [[SomeEffectsOfPlantsAndAnimalsO_15778]]

@@ -32,6 +32,12 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 > This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
 > -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
 
+> This letter from Dr. Richard N. Williams ([[Portland State University]]) to Jim French ([[Nevada Department of Wildlife]]) addresses a dispute over authorship claims for a research proposal concerning native [[Cutthroat Trout]] management in the western United States. Dr. Williams formally refutes...
+> -- *[[MrRosenfeldHadNoPartInThePlann_12044]]*
+
+> This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
+> -- *[[ConcernsAboutIntroductionOfRai_13174]]*
+
 ## Mentioned In
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -50,3 +56,5 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 - [[NativeFishWorkGroupMeetingMinu_15000]]
 - [[DraftmanagementPlanForTheRazor_11427]]
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
+- [[MrRosenfeldHadNoPartInThePlann_12044]]
+- [[ConcernsAboutIntroductionOfRai_13174]]

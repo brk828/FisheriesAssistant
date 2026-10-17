@@ -14,6 +14,9 @@ The University of Michigan has been a significant institutional contributor to i
 > This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
 > -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
 
+> This correspondence between Dr. James E. Deacon ([[University of Nevada Las Vegas]]) and Dr. Robert R. Miller ([[University of Michigan]]) concerns the identification of a [[Gila]] specimen collected from [[Shingumu Creek]] on August 1, 1975. The specimen was tentatively identified as [[Gila...
+> -- *[[PictureAndInformationOnGilaTak_13997]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -21,3 +24,4 @@ The University of Michigan has been a significant institutional contributor to i
 - [[RangeOfChriodorus_17137]]
 - [[TilapiaInCuatroCienegas_13761]]
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
+- [[PictureAndInformationOnGilaTak_13997]]

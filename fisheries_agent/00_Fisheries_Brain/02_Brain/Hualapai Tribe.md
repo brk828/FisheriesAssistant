@@ -23,6 +23,12 @@ The Hualapai Tribe is a Native American nation with territorial and resource man
 > - **Habitat**: Both species inhabit the mainstem and tributary reaches of the [[Colorado River]] within [[Grand Canyon National Park]], a designated critical habitat and focal research area for endangered fish conservation. - **Conservation Status**: Both [[Humpback Chub]] and [[Razorback Sucker]...
 > -- *[[ReminderNoticeOnReportingRequi_1993_07_02]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
+> -- *[[CommentsOnTheBiologicalOpinion_17166]]*
+
 ## Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[GlenCanyonEnvironmentalStudies_1992_03_07]]
@@ -31,3 +37,5 @@ The Hualapai Tribe is a Native American nation with territorial and resource man
 - [[RazorbackSuckerHoldingReleaseR_1996_07_15]]
 - [[ReminderNoticeOnReportingRequi_1993_07_02]]
 - [[TheEffectsOfGlenCanyonAndHoove_12550]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[CommentsOnTheBiologicalOpinion_17166]]

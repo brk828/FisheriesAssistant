@@ -26,9 +26,17 @@ The River Chub (*Nocomis micropogon*) is a cyprinid fish species inhabiting loti
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
+> This technical report from the Michigan Department of Conservation Institute for Fisheries Research provides comprehensive guidance on the biology, ecology, and commercial culture of minnows (family [[Cyprinidae]]) in Michigan waters. The [[Cyprinidae]] is one of the largest fish families globally,...
+> -- *[[MinnowsCyprinidae_17384]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[FishesOfTheHeadwatersOfShavers_11342]]
 - [[NewDistributionalRecordsOfIlli_1988]]
 - [[TheComparativeFoodHabitsOfTheC_1950_07_15]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[WhatHaveICaught_12929]]
+- [[MinnowsCyprinidae_17384]]

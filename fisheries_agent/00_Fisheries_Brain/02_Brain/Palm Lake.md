@@ -29,6 +29,9 @@ Palm Lake is an artificial impounded reservoir located within the Hassayampa Riv
 > This correspondence from the [[Arizona Game and Fish Department]] (AGFD) to [[The Nature Conservancy]] (TNC) summarizes action items and deadlines from a January 14, 1993 meeting regarding [[Palm Lake]] at the [[Hassayampa River Preserve]] in [[Wickenburg, Arizona]]. The letter outlines...
 > -- *[[PalmLakeMeetingjanuary_20906]]*
 
+> This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
+> -- *[[PalmLakenativeFishStatus_20905]]*
+
 ## Mentioned In
 - [[HassayampaLakeRenova_16653]]
 - [[PalmLakeNativeFishRenovationPr_1987_06_29]]
@@ -37,3 +40,4 @@ Palm Lake is an artificial impounded reservoir located within the Hassayampa Riv
 - [[RenovationOfPalmLakeHassayampa_11969]]
 - [[FishMonitoringOfPalmLakeHassay_16635]]
 - [[PalmLakeMeetingjanuary_20906]]
+- [[PalmLakenativeFishStatus_20905]]

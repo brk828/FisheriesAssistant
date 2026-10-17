@@ -20,9 +20,13 @@ Hyalella azteca is a small freshwater amphipod crustacean widely used as a model
 > - **Leaf discs**: ~1 cm diameter, punched from water-soaked autumn-shed leaves using a cork borer; standardized as experimental units. - **Initial protein/nitrogen baselines**: Elm leaves had an initial protein content of 5.7% and nitrogen content of 1.02%; oak leaves had an initial protein value...
 > -- *[[TheRelationshipBetweenDissolve_14575]]*
 
+> This study documents temporal changes in a long-standing hybrid swarm between the endangered endemic [[Gambusia heterochir]] (Clear Creek Gambusia) and [[Gambusia affinis]] (Western Mosquitofish) in [[Clear Creek]], [[Menard County]], Texas, following reconstruction of the uppermost dam in 1979....
+> -- *[[TemporalChangesInTheGambusiaHe_15772]]*
+
 ## Mentioned In
 - [[ContrastsAmongCalanoidCopepods_16016]]
 - [[DescriptionAndEcologyOfHyalell_14834]]
 - [[DeterminationOfFeedingChronolo_13949]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 - [[TheRelationshipBetweenDissolve_14575]]
+- [[TemporalChangesInTheGambusiaHe_15772]]

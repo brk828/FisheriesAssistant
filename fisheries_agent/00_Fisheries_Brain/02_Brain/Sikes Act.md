@@ -17,8 +17,12 @@ The Sikes Act is a foundational federal statute that grants the U.S. Fish and Wi
 > This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
 > -- *[[DraftmanagementPlanForTheRazor_11427]]*
 
+> This Bureau of Land Management (BLM) Manual Section 6840, dated September 16, 1988, establishes comprehensive policy and guidance for the conservation of Special Status Species (plants and animals) and their habitats on BLM-administered lands. Special Status Species include those proposed for...
+> -- *[[SpecialStatusSpeciesManagement_11467]]*
+
 ## Mentioned In
 - [[RoleAndResponsibilitiesForRecr_1996_08_07]]
 - [[StationProfileLeadvilleNationa_1993_12_16]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[DraftmanagementPlanForTheRazor_11427]]
+- [[SpecialStatusSpeciesManagement_11467]]

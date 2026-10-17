@@ -20,8 +20,12 @@ A splake is a hybrid fish resulting from the cross between a female brook trout 
 > - The eastern Canadian freshwater fish fauna, especially in the **Great Lakes and St. Lawrence River region**, is undergoing rapid decline driven by pollution, dam construction, and watershed diversion — sufficient to require major revisions to species accounts between the 1955 and 1967 editions....
 > -- *[[ReviewOfFreshwaterFishesOfEast_11318]]*
 
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
 - [[StationProfileOfTheAlleghenyNa_1993]]
 - [[WaterRequirementsOfSalmonids_12413]]
+- [[ProvisionalChecklistOfCanadian_21104]]

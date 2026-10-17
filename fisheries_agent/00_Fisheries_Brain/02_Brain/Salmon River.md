@@ -17,8 +17,12 @@ A Salmon River refers to any river system or tributary that supports Pacific sal
 > - **Habitat**: The [[Little Salmon River]] watershed drains approximately 582 square miles, flowing north to its confluence with the [[Salmon River]] at Riggins, Idaho. The census area comprised the lower 24 miles of the main stem, paralleled by U.S. Highway 95, and divided into six ~4-mile secti...
 > -- *[[TwoYearCreelCensusOfTheLittleS_1955]]*
 
+> This 1966 Federal Aid completion report (F-18-R-13, Job 1) by Ted C. Bjornn evaluates two methods for estimating [[Chinook Salmon]] and [[Steelhead Trout]] harvest in Idaho waters: postal card questionnaires and salmon/steelhead permits. The study found that questionnaire-based estimates contained...
+> -- *[[StatewideFishingHarvestSurvey_17659]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[ChinookSalmonPondRearingStudie_16813]]
 - [[StationProfileDworshakNational_19562]]
 - [[TwoYearCreelCensusOfTheLittleS_1955]]
+- [[StatewideFishingHarvestSurvey_17659]]

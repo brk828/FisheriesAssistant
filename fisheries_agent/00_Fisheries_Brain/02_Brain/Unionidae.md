@@ -26,6 +26,9 @@ Unionidae is a family of obligate freshwater mussels that are ecologically signi
 > This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
 > -- *[[EndangeredAndThreatenedWildlif_11592]]*
 
+> This Federal Register notice, published September 19, 1997, by the U.S. Fish and Wildlife Service presents an updated list of plant and animal taxa native to the United States that are candidates or proposed for listing as endangered or threatened under the Endangered Species Act of 1973, as...
+> -- *[[EndangeredAndThreatenedWildlif_11741]]*
+
 ## Mentioned In
 - [[ChangesInTheCommercialFisheryO_13861]]
 - [[DifferencesInLittoralFaunaDueT_1972]]
@@ -36,3 +39,4 @@ Unionidae is a family of obligate freshwater mussels that are ecologically signi
 - [[ObservationOfTheGlochid_12767]]
 - [[TheMusselPopulationOfAnAreaOfL_14967]]
 - [[EndangeredAndThreatenedWildlif_11592]]
+- [[EndangeredAndThreatenedWildlif_11741]]

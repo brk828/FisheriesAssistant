@@ -14,6 +14,9 @@ The ASU Research Park is an experimental facility in central Arizona that served
 > - **Artificial Habitat as Refuge**: The golf course water features were expected to be initially devoid of non-native fishes, creating a temporary predator/competitor-free environment allowing native fish to grow and mature — a rare condition for these species in the wild. - **Anticipated Invasio...
 > -- *[[RequestToStockNativeFishAtAsuG_1988_06_29]]*
 
+> This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
+> -- *[[PalmLakenativeFishStatus_20905]]*
+
 ## Mentioned In
 - [[AsuResearchParkYoungOfYearFish_1993_08_02]]
 - [[ColoradoSquawfishAndBonytailCh_1986_10_08]]
@@ -24,3 +27,4 @@ The ASU Research Park is an experimental facility in central Arizona that served
 - [[RequestToStockNativeFishesAtAs_1988_08_04]]
 - [[TripReportForTheJulySurveyOfTh_1994_09_01]]
 - [[TripReportForTheSeptemberSurve_1996_09_15]]
+- [[PalmLakenativeFishStatus_20905]]

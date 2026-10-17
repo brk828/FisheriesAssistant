@@ -29,6 +29,9 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 > This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
 > -- *[[TentativeSummaryOfCollectingAc_13171]]*
 
+> This Federal Register notice, published September 19, 1997, by the U.S. Fish and Wildlife Service presents an updated list of plant and animal taxa native to the United States that are candidates or proposed for listing as endangered or threatened under the Endangered Species Act of 1973, as...
+> -- *[[EndangeredAndThreatenedWildlif_11741]]*
+
 ## Mentioned In
 - [[LeesFerryTrophyTroutFishery_18301]]
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
@@ -39,3 +42,4 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[TentativeSummaryOfCollectingAc_13171]]
+- [[EndangeredAndThreatenedWildlif_11741]]

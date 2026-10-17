@@ -29,6 +29,12 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 > This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
 > -- *[[TheColoradoRiverFishesRecovery_11196]]*
 
+> This Bureau of Reclamation document summarizes an April 6, 1993 Selective Withdrawal Investigations Workgroup meeting held in Phoenix, Arizona. The multi-disciplinary workgroup evaluated the feasibility and potential impacts of installing selective withdrawal facilities at [[Glen Canyon Dam]] to...
+> -- *[[SelectiveWithdrawalWorkgroupMe_15753]]*
+
+> This proposal by [[Michael J.C. Kearsley]] and [[Tina J. Ayers]] from [[Northern Arizona University]] requests funding to continue monitoring riparian and wetland plant assemblages in the [[Colorado River]] corridor downstream of [[Glen Canyon Dam]] in [[Grand Canyon National Park]]. The 12-month...
+> -- *[[TransitionMonitoringForRiparia_17903]]*
+
 ## Mentioned In
 - [[EffectsOfInterimFlowsFromGlenC_13655]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
@@ -39,3 +45,5 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
 - [[TheColoradoRiverFishesRecovery_11196]]
+- [[SelectiveWithdrawalWorkgroupMe_15753]]
+- [[TransitionMonitoringForRiparia_17903]]

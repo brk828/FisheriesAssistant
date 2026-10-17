@@ -14,6 +14,10 @@ auto_enriched: true
 > - **Historical Illinois range (7 sites, 1930s–1940):** [[Big Muddy River]], [[Beaucoup Creek]], [[Little Muddy River]], [[Horseshoe Lake]], and [[Cache River]] drainages, plus [[Clear Creek]] drainage. - **Confirmed extirpations:** Big Muddy River and Clear Creek drainages — no specimens found de...
 > -- *[[DistributionAbundanceAndStatus_14900]]*
 
+> This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
+> -- *[[InvestigationsOfCommercialFish_18562]]*
+
 ## Mentioned In
 - [[DistributionAbundanceAndStatus_14900]]
 - [[StatusOfTheCypressMinnowHybogn_1982_01_15]]
+- [[InvestigationsOfCommercialFish_18562]]

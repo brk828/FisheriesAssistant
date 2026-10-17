@@ -50,6 +50,15 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > This two-year fisheries management study (1947-1948) on the [[North Fork of South Platte River]] in [[Colorado]] evaluated the effectiveness of stocking legal-size [[Rainbow Trout]] and [[Brook Trout]] (referred to as "lochs") in a heavily fished mountain stream. Conducted by the [[Colorado Game...
 > -- *[[NorthForkOfSouthPlatteMultiple_16595]]*
 
+> This paper examines the dramatic decline of aquatic habitats and native fishes in the arid American Southwest over the past half century. Physical habitat changes from dams, diversions, channelization, and stream drying, combined with extensive introduction of non-native fish species, have severely...
+> -- *[[DecliningSouthwesternAquaticHa_15002]]*
+
+> This progress report documents the second year (1951) of the [[Adirondack Trout Restoration Project]], an experimental fisheries management program aimed at reclaiming former trout waters now inhabited by less desirable species. The reclamation procedure involves chemical eradication using...
+> -- *[[TroutRestorationInTheAdirondac_20206]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -133,3 +142,6 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[SomeObservationsOnTheReclamati_15490]]
 - [[NorthForkOfSouthPlatteMultiple_16595]]
+- [[DecliningSouthwesternAquaticHa_15002]]
+- [[TroutRestorationInTheAdirondac_20206]]
+- [[ProvisionalChecklistOfCanadian_21104]]

@@ -38,6 +38,9 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 > This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
 > -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
 ## Mentioned In
 - [[ACaseOfAlbinismInTheTadpoleMad_20472]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -92,3 +95,4 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 - [[DistributionalAndLocalVernacul_13815]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]

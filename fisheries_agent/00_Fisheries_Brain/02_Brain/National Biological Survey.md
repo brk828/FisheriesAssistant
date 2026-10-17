@@ -29,6 +29,9 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 > This March 1994 policy document from the [[U.S. Fish and Wildlife Service]] outlines the agency's adoption of an ecosystem approach to conserve the nation's biological diversity more effectively. The approach emphasizes protecting or restoring ecosystem function, structure, and species composition...
 > -- *[[AnEcosystemApproachToFishAndWi_11650]]*
 
+> The [[Pima Pineapple Cactus]] (*Coryphantha scheeri* var. *robustispina*) was listed as endangered by the [[US Fish and Wildlife Service]] in October 1993. This rare [[Sonoran Desert]] species occurs in a restricted range from south [[Tucson]] to south of [[Nogales]], [[Mexico]]. The [[National...
+> -- *[[EndangeredCactusOffersNbsOppor_13220]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -42,3 +45,4 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[AnEcosystemApproachToFishAndWi_11650]]
+- [[EndangeredCactusOffersNbsOppor_13220]]

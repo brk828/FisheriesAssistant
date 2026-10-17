@@ -26,6 +26,9 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 > This 1968 economic study examined the processing and marketing potential of commercial fishery products from [[Montana]] reservoirs, focusing on [[Carp]], [[Buffalofish]], [[Sucker]], and [[Goldeye]]. The research found that Montana's commercial fisheries face significant challenges including...
 > -- *[[AnEconomicStudyOfTheProcessing_15621]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[AsuProfsStudyEndangeredFishes_12227]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
@@ -38,3 +41,4 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 - [[StationProfileOfWarmSpringsNat_1993]]
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[AnEconomicStudyOfTheProcessing_15621]]
+- [[WhatHaveICaught_12929]]

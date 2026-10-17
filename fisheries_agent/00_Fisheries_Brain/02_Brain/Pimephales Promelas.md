@@ -32,6 +32,9 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 > This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
 > -- *[[TentativeSummaryOfCollectingAc_13171]]*
 
+> This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
+> -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
+
 ## Mentioned In
 - [[DistributionOfMidwesternFishes_1978]]
 - [[FiveNewSpeciesOfGyrodactylusTr_12149]]
@@ -46,3 +49,4 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 - [[FeedingDynamicsNitrogenBudgets_17775]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[TentativeSummaryOfCollectingAc_13171]]
+- [[ListOfFishesKnownOrExpectedToB_14196]]

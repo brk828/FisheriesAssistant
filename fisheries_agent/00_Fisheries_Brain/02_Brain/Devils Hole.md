@@ -23,6 +23,9 @@ Devils Hole is a spring-fed aquifer in southern Nevada that serves as a critical
 > The article reports on a scientific controversy in **paleoclimatology**: a 560,000-year temperature record derived from a mineral core drilled at [[Devils Hole]], Nevada, appears to contradict the well-established [[Milankovitch Theory]] of ice ages. The core, analyzed by Dr. Isaac J. Winograd (U...
 > -- *[[InUnexpectedPlacesCluesToAncie_14832]]*
 
+> This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
+> -- *[[FishesAndAquaticResourcesOfThe_15407]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[DesertPupfishesReflectionsOnRe_11118]]
@@ -38,3 +41,4 @@ Devils Hole is a spring-fed aquifer in southern Nevada that serves as a critical
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[UpsetForMilankovitchTheory_1992_10_29]]
 - [[WaterTableDeclineInTheSouthCen_1986]]
+- [[FishesAndAquaticResourcesOfThe_15407]]

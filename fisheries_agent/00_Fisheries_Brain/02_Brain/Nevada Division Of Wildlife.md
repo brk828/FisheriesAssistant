@@ -11,6 +11,9 @@ The Nevada Division of Wildlife is the state wildlife management agency responsi
 > - The MOC formally interprets the 1995 MOA as establishing the [[Multi-Species Conservation Program]] (MSCP) with the joint goals of species/habitat conservation and continued water/power operations on the [[Lower Colorado River]]. - The document explicitly **disclaims any "regulatory assurance"*...
 > -- *[[MemorandumOfClarificationOfThe_1995]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[LetterToJohnRogersRegardingBon_1993_07_01]]
@@ -18,3 +21,4 @@ The Nevada Division of Wildlife is the state wildlife management agency responsi
 - [[MemorandumOfClarificationOfThe_1995]]
 - [[VirginRiverMonitoringArizonaSu_1994_05_16]]
 - [[VirginRiverMonitoringArizonaSu_1994_10_05]]
+- [[LowerColoradoRiverMultispecies_11766]]

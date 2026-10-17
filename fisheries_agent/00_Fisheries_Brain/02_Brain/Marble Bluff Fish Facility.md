@@ -29,6 +29,12 @@ The Marble Bluff Fish Facility (MBFF) is a fish passage structure located on the
 > This document is the second revision of the [[Cui-ui]] (*Chasmistes cujus*) Recovery Plan, approved November 22, 1983, providing direction through FY 1986. The [[Cui-ui]] is an endangered sucker endemic to [[Pyramid Lake]] and the [[Truckee River]] system in Nevada. The plan's goal remains...
 > -- *[[CuiuiChasmistesCujusRevision_13303]]*
 
+> Minutes from the October 23, 1989 [[Cui-ui]] Recovery Team meeting in Reno, Nevada, documenting critical discussions about recovery plan development, hybridization concerns, and management strategies for this endangered sucker species. The team addressed timeline extensions, leadership transitions,...
+> -- *[[DraftMinutesOfTheOctoberRecove_13868]]*
+
+> This document contains the official minutes from the [[Cui-ui]] Recovery Team meeting held October 23, 1989 in Reno, Nevada. The meeting addressed critical issues in developing a recovery plan for [[Chasmistes cujus]], an endangered sucker species endemic to [[Pyramid Lake]]. Key concerns included...
+> -- *[[CuiuiRecoveryTeamMeetingMinute_13872]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -41,3 +47,5 @@ The Marble Bluff Fish Facility (MBFF) is a fish passage structure located on the
 - [[PyramidLakeInflowRequiredForCu_1987_05_15]]
 - [[CuiuiAndLahontanCutthroatTrout_13865]]
 - [[CuiuiChasmistesCujusRevision_13303]]
+- [[DraftMinutesOfTheOctoberRecove_13868]]
+- [[CuiuiRecoveryTeamMeetingMinute_13872]]

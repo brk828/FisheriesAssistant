@@ -14,5 +14,9 @@ auto_enriched: true
 > - **Unresolved phylogenetic problem**: The systematic position of *[[Rhinichthys]]* and *[[Agosia]]* relative to the North American chub clade remains unresolved using morphological/osteological data alone; Coburn and Cavender (1992) explicitly called for further investigation. - **Proposed dual ...
 > -- *[[PhylogeneticsOfNorthAmericanCh_20485]]*
 
+> This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
+> -- *[[EvolutionaryRelationshipsOfThe_19110]]*
+
 ## Mentioned In
 - [[PhylogeneticsOfNorthAmericanCh_20485]]
+- [[EvolutionaryRelationshipsOfThe_19110]]

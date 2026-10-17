@@ -23,6 +23,12 @@ Death Valley refers to an isolated desert region in the American Southwest chara
 > - **Habitat type:** Isolated desert springs and other rare aquatic habitats in arid/endorheic basins of the American Southwest, particularly the [[Amargosa Desert]] and [[Death Valley]] regions of the [[Great Basin]]. - **Conservation concern:** Agenda items highlight the fragility and endemism o...
 > -- *[[FourthAnnualDesertFishesSympos_1972_09_20]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[FourthAnnualDesertFishesSympos_1972_09_20]]
@@ -30,3 +36,5 @@ Death Valley refers to an isolated desert region in the American Southwest chara
 - [[LetterToProspectiveAreaCoordin_1977_08_29]]
 - [[ReviewOfTheEndangeredFishResea_1991_10_03]]
 - [[SpecialSymposiumOnTheBiotaOfCu_19762]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ConservationGeneticsInTheManag_20087]]

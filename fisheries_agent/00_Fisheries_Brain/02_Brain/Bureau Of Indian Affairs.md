@@ -26,6 +26,9 @@ The Bureau of Indian Affairs, in the context of fish science and aquatic conserv
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[InteragencySouthwestStrategyFo_1997_11_12]]
@@ -36,3 +39,4 @@ The Bureau of Indian Affairs, in the context of fish science and aquatic conserv
 - [[StationProfileValleyCitybaldhi_1993_12_13]]
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[LowerColoradoRiverMultispecies_11766]]

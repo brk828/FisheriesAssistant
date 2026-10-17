@@ -17,9 +17,13 @@ Aplodinotus grunniens, commonly known as the freshwater drum, is a large catosto
 > - **Total native fauna**: 107 native species (93 described, ≥14 undescribed — "at least 15%"), across 40 genera and 16 families. - 6 families primary/strictly freshwater (57–63 species) - 5 families secondary, salinity-tolerant (31 species) - 5 families peripheral/marine-associated or diadromous ...
 > -- *[[CompositionAndDerivationOfTheN_15363]]*
 
+> This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
+> -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
+
 ## Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[ComparativeMorphometryOfFreshw_12456]]
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[FreshwaterDrumAplodinotusGrunn_14145]]
+- [[ListOfFishesKnownOrExpectedToB_14196]]

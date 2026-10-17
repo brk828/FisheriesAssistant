@@ -23,6 +23,9 @@ Bass refers to a group of freshwater game fish species, including largemouth bas
 > This theoretical paper by Nancy B. Grimm (Arizona State University), presented at the Vth Cary Conference, argues for greater integration between population/community ecology and ecosystem ecology. While not a primary fish-focused study, it uses a well-known case study — the interaction between t...
 > -- *[[WhyLinkSpeciesAndEcosystemsAPe_1994]]*
 
+> This progress report documents the second year (1951) of the [[Adirondack Trout Restoration Project]], an experimental fisheries management program aimed at reclaiming former trout waters now inhabited by less desirable species. The reclamation procedure involves chemical eradication using...
+> -- *[[TroutRestorationInTheAdirondac_20206]]*
+
 ## Mentioned In
 - [[BaitMinnowsAndTheirPropagation_14538]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -31,3 +34,4 @@ Bass refers to a group of freshwater game fish species, including largemouth bas
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[OperationalPlanForTheReclamati_13373]]
 - [[WhyLinkSpeciesAndEcosystemsAPe_1994]]
+- [[TroutRestorationInTheAdirondac_20206]]

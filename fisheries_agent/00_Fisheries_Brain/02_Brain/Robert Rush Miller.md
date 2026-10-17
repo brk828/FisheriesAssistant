@@ -20,6 +20,9 @@ Robert Rush Miller was a prominent ichthyologist who collaborated with Carl L. H
 > The study was commissioned by the National Park Service under the Colorado River Research Program to build a scientific foundation for visitor-use planning along the Colorado River corridor from Lee's Ferry to Grand Wash Cliffs. It builds on earlier ichthyofaunal work by [[Robert Rush Miller]] (1...
 > -- *[[SummerDistributionAndReproduct_18541]]*
 
+> This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
+> -- *[[FishesAndAquaticResourcesOfThe_15407]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CommentsOnTheProposedConservat_15239]]
@@ -28,3 +31,4 @@ Robert Rush Miller was a prominent ichthyologist who collaborated with Carl L. H
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[SummerDistributionAndReproduct_18541]]
+- [[FishesAndAquaticResourcesOfThe_15407]]

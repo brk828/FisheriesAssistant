@@ -23,6 +23,9 @@ Lake Michigan is one of the five Great Lakes and serves as a critical freshwater
 > - **Overall average total chlorophyll** across Hamilton and Burlington intakes (no significant difference between sites): **8.6 µg/L**, markedly higher than [[Lake Superior]]/[[Lake Michigan]] values (0.4–2.8 µg/L; Saunders 1964) and Bay of Quinte values (1.8–2.1 µg/L; Tucker 1949), but comparabl...
 > -- *[[TheTemporalDistributionOfChlor_1966]]*
 
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[OriginAndDispersalOfTheAlewife_1957]]
@@ -31,3 +34,4 @@ Lake Michigan is one of the five Great Lakes and serves as a critical freshwater
 - [[TheAmericanSmeltOsmerusMordaxM_1950]]
 - [[TheSmeltOsmerusMordaxMitchill_13092]]
 - [[TheTemporalDistributionOfChlor_1966]]
+- [[ProvisionalChecklistOfCanadian_21104]]

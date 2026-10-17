@@ -17,8 +17,12 @@ Redhorse (genus *Moxostoma*) are benthic-feeding cyprinid fishes characterized b
 > This job completion report documents comprehensive fishery investigations conducted on [[Fort Gibson Reservoir]], Oklahoma, from January through December 1959 under Federal Aid Project F-6-R-3. The study encompassed three major components: (1) rotenone population sampling in three dissimilar coves...
 > -- *[[FisheryInvestigationsOnFortGib_14674]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[HowToTellApartFishThatLookAlik_12444]]
 - [[InfluenceOfAKentuckyFloodContr_15125]]
 - [[SelectivityAndEffectivenessOfC_12188]]
 - [[FisheryInvestigationsOnFortGib_14674]]
+- [[WhatHaveICaught_12929]]

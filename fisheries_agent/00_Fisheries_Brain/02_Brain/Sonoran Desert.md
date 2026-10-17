@@ -38,6 +38,15 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 > This proposal from the [[Southwest Center for Education and the Natural Environment]] (SCENE) to the [[Arizona Community Foundation]] outlines a three-year program to involve high school students in authentic scientific research at [[Arizona State University]]. The project aims to engage 120...
 > -- *[[ScientificResearchExperiencesF_20483]]*
 
+> The [[Pima Pineapple Cactus]] (*Coryphantha scheeri* var. *robustispina*) was listed as endangered by the [[US Fish and Wildlife Service]] in October 1993. This rare [[Sonoran Desert]] species occurs in a restricted range from south [[Tucson]] to south of [[Nogales]], [[Mexico]]. The [[National...
+> -- *[[EndangeredCactusOffersNbsOppor_13220]]*
+
+> This report documents the status, distribution, and habitat use of native fish species in [[Bass Creek]] and [[Hotsprings Creek]] within the [[Muleshoe Preserve]], Arizona, based on surveys conducted in January, March, and June 1987. The study area comprises 18 km of perennial stream in the [[Gila...
+> -- *[[AReportToTheArizonaNatureConse_15171]]*
+
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[CorrespondenceRegardingDesertF_12709]]
@@ -73,3 +82,6 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 - [[FeedingDynamicsNitrogenBudgets_17775]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
 - [[ScientificResearchExperiencesF_20483]]
+- [[EndangeredCactusOffersNbsOppor_13220]]
+- [[AReportToTheArizonaNatureConse_15171]]
+- [[ConservationGeneticsInTheManag_20087]]

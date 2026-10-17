@@ -17,6 +17,9 @@ Coregonus is a genus of freshwater fish within the Coregonidae family, commonly 
 > 5. **Taxonomic and management implications**: The results support treating *C. hoyi* and *C. kiyi* as genetically distinct, locally adapted forms, but suggest that samples labeled *C. alpenae* and *C. zenithicus* may represent a single species subject to strong environmental morphological plastic...
 > -- *[[EnvironmentalAndGeneticContrib_1981]]*
 
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[BiologyOfCoregonidFishesBookRe_1971]]
 - [[ChangesInAnExploitedPopulation_1967]]
@@ -24,3 +27,4 @@ Coregonus is a genus of freshwater fish within the Coregonidae family, commonly 
 - [[DispersionAndDynamicsOfChirono_1965]]
 - [[EnvironmentalAndGeneticContrib_1981]]
 - [[NotesOnFishesCollectedByCaptCh_15664]]
+- [[ProvisionalChecklistOfCanadian_21104]]

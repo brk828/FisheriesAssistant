@@ -50,6 +50,30 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 > This correspondence from the [[Colorado River Fishes Recovery Team]] Leader to the U.S. Fish and Wildlife Service Regional Director outlines six critical recommendations regarding endangered fish recovery in the [[Colorado River]] system. Primary concerns include upgrading the listing status of...
 > -- *[[RecommendationsToColoradoRiver_14701]]*
 
+> This correspondence from J. Holt Williamson (Fishery Biologist, U.S. Fish and Wildlife Service) to Paul C. Marsh at Arizona State University expresses interest in participating in scheduled sampling activities for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) during...
+> -- *[[ReceivedNoticeOnRazorbackSucke_12078]]*
+
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This memorandum from the Management Biologist at [[Dexter National Fish Hatchery]] provides detailed review comments on a proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species. Dated January 12, 1990, the document critiques the technical accuracy, writing...
+> -- *[[ReviewOfProposedRazorbackSucke_12984]]*
+
+> Minutes from the October 23, 1989 [[Cui-ui]] Recovery Team meeting in Reno, Nevada, documenting critical discussions about recovery plan development, hybridization concerns, and management strategies for this endangered sucker species. The team addressed timeline extensions, leadership transitions,...
+> -- *[[DraftMinutesOfTheOctoberRecove_13868]]*
+
+> This document contains the official minutes from the [[Cui-ui]] Recovery Team meeting held October 23, 1989 in Reno, Nevada. The meeting addressed critical issues in developing a recovery plan for [[Chasmistes cujus]], an endangered sucker species endemic to [[Pyramid Lake]]. Key concerns included...
+> -- *[[CuiuiRecoveryTeamMeetingMinute_13872]]*
+
+> This memorandum and Federal Register notice document the extension of the public comment period for the proposed critical habitat designation for four endangered fish species in the [[Colorado River Basin]]: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[ExtensionOfPublicCommentPeriod_17380]]*
+
+> This is a research proposal submitted by [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] in January 1990 to study genetic diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations using [[Mitochondrial DNA]] analysis. Principal investigator Professor [[Thomas E....
+> -- *[[GeneticDiversityOfRazorbackSuc_18428]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AListOfOntarioFishes_11321]]
@@ -237,3 +261,11 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[RecommendationsToColoradoRiver_14701]]
+- [[ReceivedNoticeOnRazorbackSucke_12078]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ReviewOfProposedRazorbackSucke_12984]]
+- [[DraftMinutesOfTheOctoberRecove_13868]]
+- [[CuiuiRecoveryTeamMeetingMinute_13872]]
+- [[ExtensionOfPublicCommentPeriod_17380]]
+- [[GeneticDiversityOfRazorbackSuc_18428]]
+- [[ProvisionalChecklistOfCanadian_21104]]

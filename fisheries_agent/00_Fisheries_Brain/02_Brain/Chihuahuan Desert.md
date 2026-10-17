@@ -32,6 +32,9 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 > This correspondence documents collaboration between Mexican biologists at [[Universidad Autónoma Metropolitana]] and Dr. [[W. L. Minckley]] of [[Arizona State University]] regarding the first management plan for the proposed [[Cuatro Ciénegas]] watershed [[Biosphere Reserve]] in [[Coahuila]],...
 > -- *[[CuatroCienegasWatershedCoahuil_16108]]*
 
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[ButterfliesFromCoahuilaMexico_1968]]
@@ -48,3 +51,4 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
 - [[CuatroCienegasWatershedCoahuil_16108]]
+- [[ConservationGeneticsInTheManag_20087]]

@@ -23,8 +23,12 @@ Gambusia heterochir, commonly known as the Clear Creek gambusia, is a small live
 > - **Habitat**: Freshwater systems (springs, streams) of the southern United States, Mexico, and Central America. - **Taxonomic scope**: Tribe **Gambusiini**, comprising four genera (per Carl L. Hubbs 1926) within the family [[Poeciliidae]] — live-bearing (viviparous) fishes with internal fertiliz...
 > -- *[[CopulatoryFunctionOfTheModifie_14265]]*
 
+> This study documents temporal changes in a long-standing hybrid swarm between the endangered endemic [[Gambusia heterochir]] (Clear Creek Gambusia) and [[Gambusia affinis]] (Western Mosquitofish) in [[Clear Creek]], [[Menard County]], Texas, following reconstruction of the uppermost dam in 1979....
+> -- *[[TemporalChangesInTheGambusiaHe_15772]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AClassificationOfTexasAquaticC_15773]]
 - [[CopulatoryFunctionOfTheModifie_14265]]
 - [[DescriptionAndEcologyOfHyalell_14834]]
+- [[TemporalChangesInTheGambusiaHe_15772]]

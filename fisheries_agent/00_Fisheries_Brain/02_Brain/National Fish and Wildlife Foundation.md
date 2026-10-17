@@ -20,6 +20,12 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
 > -- *[[AprilManagementGroupMeetingSum_19221]]*
 
+> This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
+> -- *[[LetterOnImplementationCommitte_11623]]*
+
+> This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
+> -- *[[SummaryjanuaryManagementGroupM_21002]]*
+
 ## Mentioned In
 - [[CooperativeAgreementColoradoRi_1989_06_30]]
 - [[HassayampaLakeRenova_16653]]
@@ -28,3 +34,5 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[RequestForProposalspresubmitta_18342]]
 - [[AprilManagementGroupMeetingSum_19221]]
+- [[LetterOnImplementationCommitte_11623]]
+- [[SummaryjanuaryManagementGroupM_21002]]

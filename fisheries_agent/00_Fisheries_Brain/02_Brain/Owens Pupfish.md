@@ -26,6 +26,9 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 > This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
 > -- *[[AConservationorientedClassific_15455]]*
 
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
@@ -41,3 +44,4 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 - [[OurDisappearingDesertFishes_1980]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[AConservationorientedClassific_15455]]
+- [[ConservationGeneticsInTheManag_20087]]

@@ -26,6 +26,9 @@ Gila nigrescens, commonly known as the Chihuahua chub, is a native cyprinid fish
 > This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
 > -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
 
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
 ## Mentioned In
 - [[GilaPandoraACyprinidNewToTheTe_15392]]
 - [[LetterRegardingChihuahuaChubRe_1987_12_30]]
@@ -34,3 +37,4 @@ Gila nigrescens, commonly known as the Chihuahua chub, is a native cyprinid fish
 - [[MinutesOfTheDesertFishesRecove_1986_10_13]]
 - [[RioYaquiFishesCaptureAndTransp_1987_01_12]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[DraftecologicalDeterminismHybr_12773]]

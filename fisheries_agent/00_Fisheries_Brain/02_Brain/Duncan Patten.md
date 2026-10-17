@@ -14,7 +14,11 @@ I appreciate your detailed request, but I must be honest: based on the context s
 > - The memo identifies **three primary research entities** conducting studies on Humpback Chub in the Little Colorado River, coordinated under the [[Glen Canyon Environmental Studies]] program (a Bureau of Reclamation initiative, Upper Colorado Region). - Key personnel/institutions associated with...
 > -- *[[MemorandumOnGlenCanyonEnvironm_1991_08_27]]*
 
+> This memorandum from the [[Glen Canyon Environmental Studies]] program announces a technical review meeting scheduled for June 11, 1993, to evaluate the [[U.S. Fish and Wildlife Service]] flow scenario for [[Glen Canyon Dam]] operations. The meeting was relocated to accommodate increased attendance...
+> -- *[[GlenCanyonEnvironmentalStudies_19728]]*
+
 ## Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1992_03_08]]
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
 - [[MemorandumOnGlenCanyonEnvironm_1991_08_27]]
+- [[GlenCanyonEnvironmentalStudies_19728]]

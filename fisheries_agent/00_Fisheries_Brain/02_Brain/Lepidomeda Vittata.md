@@ -35,6 +35,9 @@ Lepidomeda vittata, commonly known as the Little Colorado spinedace, is a small-
 > This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
 > -- *[[WoundfinPlagopterusArgentissim_14022]]*
 
+> This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
+> -- *[[EvolutionaryRelationshipsOfThe_19110]]*
+
 ## Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
 - [[JanuaryMeetingOfDesertFishesRe_1989_01_10]]
@@ -51,3 +54,4 @@ Lepidomeda vittata, commonly known as the Little Colorado spinedace, is a small-
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[WoundfinPlagopterusArgentissim_14022]]
+- [[EvolutionaryRelationshipsOfThe_19110]]

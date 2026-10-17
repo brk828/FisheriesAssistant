@@ -35,6 +35,15 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 > This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
 > -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
 
+> This Federal Register notice documents the completion of the U.S. Fish and Wildlife Service's mandatory five-year review of species listed as endangered or threatened in 1978 under the [[Endangered Species Act]] of 1973. The review examined 39 species total, including three fish species: [[Leopard...
+> -- *[[EndangeredAndThreatenedWildlif_11553]]*
+
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -88,3 +97,6 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 - [[ASimpleMethodOfMountingScales_20311]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
+- [[EndangeredAndThreatenedWildlif_11553]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ProvisionalChecklistOfCanadian_21104]]

@@ -32,6 +32,9 @@ W. L. Minckley was a prominent ichthyologist and conservation biologist who cond
 > This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
 > -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
 
+> This is a research proposal submitted by [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] in January 1990 to study genetic diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations using [[Mitochondrial DNA]] analysis. Principal investigator Professor [[Thomas E....
+> -- *[[GeneticDiversityOfRazorbackSuc_18428]]*
+
 ## Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[BehindTheScenesBeingThereNatio_1995_05_17]]
@@ -74,3 +77,4 @@ W. L. Minckley was a prominent ichthyologist and conservation biologist who cond
 - [[DraftEvaluationOfPotentialsFor_15827]]
 - [[CuatroCienegasWatershedCoahuil_16108]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
+- [[GeneticDiversityOfRazorbackSuc_18428]]

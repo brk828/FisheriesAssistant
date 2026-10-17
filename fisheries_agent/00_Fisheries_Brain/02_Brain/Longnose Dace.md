@@ -26,6 +26,9 @@ The Longnose Dace (*Rhinichthys cataractae*) is a small cyprinid minnow commonly
 > This comprehensive study assessed ecological suitability for two imperiled Rio Grande basin fishes—[[Rio Grande Chub]] (*Gila pandora*) and [[Rio Grande Sucker]] (*Pantosteus plebeius*)—using dual modeling approaches across their overlapping ranges in Colorado and New Mexico. Researchers conducted...
 > -- *[[SiteAndLandscapescaleEstimates_2026]]*
 
+> This Federal Aid to Fish Restoration report documents population dynamics, species composition, limnological conditions, and management strategies for [[Arrowrock Reservoir]] and [[Lucky Peak Reservoir]] on the [[Boise River]], Idaho, from July 1965 through February 1968. Extensive gill netting...
+> -- *[[LakeAndReservoirInvestigations_12145]]*
+
 ## Mentioned In
 - [[BreedingBiologyOfTheLakeChubCo_1970]]
 - [[FishesOfTheHeadwatersOfShavers_11342]]
@@ -35,3 +38,4 @@ The Longnose Dace (*Rhinichthys cataractae*) is a small cyprinid minnow commonly
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[VariabilityOfInfectionOfBlackS_1959]]
 - [[SiteAndLandscapescaleEstimates_2026]]
+- [[LakeAndReservoirInvestigations_12145]]

@@ -20,9 +20,13 @@ The Environmental Protection Agency (EPA) serves as a critical federal regulator
 > This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
 > -- *[[EndangeredAndThreatenedWildlif_11580]]*
 
+> This legal analysis examines the regulatory framework for mining waste under the [[Resource Conservation and Recovery Act]] (RCRA) Subtitle D from an industry perspective. The document traces the complex legislative and regulatory history from RCRA's 1976 inception through proposed 1989-1990...
+> -- *[[AnIndustryViewOfTheRegulationO_12522]]*
+
 ## Mentioned In
 - [[DuesDonationsAndTheGreatestSym_1980_11_12]]
 - [[InterimFlowsForGlenCanyonDam_1991_03_06]]
 - [[ResponseToAmericanSocietyOfIch_1987_10_09]]
 - [[TheStrategyAndDesignOfTheEffec_1997_11_13]]
 - [[EndangeredAndThreatenedWildlif_11580]]
+- [[AnIndustryViewOfTheRegulationO_12522]]

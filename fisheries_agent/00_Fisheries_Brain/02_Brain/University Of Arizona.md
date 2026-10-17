@@ -23,6 +23,12 @@ The University of Arizona served as an institutional partner in federally-author
 > This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
 > -- *[[SummaryOfEvents_18368]]*
 
+> The [[Pima Pineapple Cactus]] (*Coryphantha scheeri* var. *robustispina*) was listed as endangered by the [[US Fish and Wildlife Service]] in October 1993. This rare [[Sonoran Desert]] species occurs in a restricted range from south [[Tucson]] to south of [[Nogales]], [[Mexico]]. The [[National...
+> -- *[[EndangeredCactusOffersNbsOppor_13220]]*
+
+> This 1987 correspondence from the [[Arizona Game and Fish Department]] proposes establishing annual collaborative meetings between the Department and Arizona universities ([[University of Arizona]], [[Northern Arizona University]], [[Arizona State University]]) to promote cooperative wildlife...
+> -- *[[CooperationBetweenArizonaGameA_13469]]*
+
 ## Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -33,3 +39,5 @@ The University of Arizona served as an institutional partner in federally-author
 - [[SummaryOfDesertPupfishIntroduc_1989_02_09]]
 - [[RevisedTechnicalProposalsToMod_13629]]
 - [[SummaryOfEvents_18368]]
+- [[EndangeredCactusOffersNbsOppor_13220]]
+- [[CooperationBetweenArizonaGameA_13469]]

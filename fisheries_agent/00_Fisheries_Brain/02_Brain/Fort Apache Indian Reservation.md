@@ -17,6 +17,9 @@ The Fort Apache Indian Reservation in Arizona is a significant geographic and ad
 > This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
 > -- *[[AnnualReportOncorhynchusApache_11989]]*
 
+> This U.S. Fish and Wildlife Service memorandum (July 22, 1994) provides formal consultation findings for road construction project FAIR 42(3) on the Fort Apache Indian Reservation, Arizona. The project involves paving 0.67 miles of road, constructing a bridge over the [[East Fork White River]], and...
+> -- *[[ReviewOfProjectFair_21120]]*
+
 ## Mentioned In
 - [[CryopreservationAsAToolForGeno_13953]]
 - [[ProposalForTheHatchingRearingA_14816]]
@@ -25,3 +28,4 @@ The Fort Apache Indian Reservation in Arizona is a significant geographic and ad
 - [[USFishAndWildlifeServiceWhiteM_1994_12_02]]
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[AnnualReportOncorhynchusApache_11989]]
+- [[ReviewOfProjectFair_21120]]

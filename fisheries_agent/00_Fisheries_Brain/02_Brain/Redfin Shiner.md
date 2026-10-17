@@ -14,7 +14,11 @@ The Redfin Shiner (*Notropis umbratilis*) is a small cyprinid minnow species com
 > - **Species richness:** 38 species plus one hybrid documented; dominant taxa were cyprinids (minnows/shiners). - **Most abundant species:** [[Bluntnose Minnow]] (*Pimephales notatus*) — 27.8% of total catch; primarily a bottom feeder on dipterous larvae, ooze, and plant material; spawns after Jun...
 > -- *[[FishesOfKinkaidCreekIllinois_14812]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[DistributionHabitatAndAbundanc_1959]]
 - [[FishesOfKinkaidCreekIllinois_14812]]
 - [[NewLocalityRecordsForSomeKansa_1981]]
+- [[WhatHaveICaught_12929]]

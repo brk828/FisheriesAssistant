@@ -38,6 +38,9 @@ The Colorado River, in the context of fish science and conservation, refers to a
 > This two-year fisheries management study (1947-1948) on the [[North Fork of South Platte River]] in [[Colorado]] evaluated the effectiveness of stocking legal-size [[Rainbow Trout]] and [[Brook Trout]] (referred to as "lochs") in a heavily fished mountain stream. Conducted by the [[Colorado Game...
 > -- *[[NorthForkOfSouthPlatteMultiple_16595]]*
 
+> This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
+> -- *[[UnitedStatesListOfEndangeredFa_11533]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
@@ -48,3 +51,4 @@ The Colorado River, in the context of fish science and conservation, refers to a
 - [[HydroacousticSurveysOfFishAbun_13336]]
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[NorthForkOfSouthPlatteMultiple_16595]]
+- [[UnitedStatesListOfEndangeredFa_11533]]

@@ -26,6 +26,9 @@ The Basin and Range Province is a physiographic and tectonic region characterize
 > This 1980s-era correspondence from the [[Desert Fishes Council]] to the U.S. Bureau of Reclamation opposes proposed dam construction on the [[Gila River]] in New Mexico. The letter focuses on threats to the [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]), both endemic...
 > -- *[[ProposedConstructionOfADamOnTh_13721]]*
 
+> This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
+> -- *[[DraftecologicalDeterminismHybr_12773]]*
+
 ## Mentioned In
 - [[CorrelationOfSomePostLaramideT_11365]]
 - [[DispersionOfNaturallyOccurring_1970]]
@@ -33,3 +36,4 @@ The Basin and Range Province is a physiographic and tectonic region characterize
 - [[MagnitudeOfCrustalExtensionInT_12160]]
 - [[MiseEnÉvidenceDUnGraniteSubvol_1981_12_14]]
 - [[ProposedConstructionOfADamOnTh_13721]]
+- [[DraftecologicalDeterminismHybr_12773]]

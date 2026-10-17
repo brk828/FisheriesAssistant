@@ -29,6 +29,12 @@ Acipenseridae is the family of true sturgeons, ancient anadromous fish character
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -50,3 +56,5 @@ Acipenseridae is the family of true sturgeons, ancient anadromous fish character
 - [[WhiteSturgeonWithSevenRowsOfSc_17276]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ProvisionalChecklistOfCanadian_21104]]

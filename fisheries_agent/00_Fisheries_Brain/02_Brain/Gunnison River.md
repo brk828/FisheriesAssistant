@@ -38,6 +38,12 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 > This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
 > -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
 
+> This document is a memorandum and program proposal from the Recovery Program for Endangered Fishes of the Upper Colorado River Basin, dated September 23, 1994. It announces a meeting scheduled for November 8-10, 1994, to discuss goals, strategies, and issues of the [[Flooded Bottom Lands...
+> -- *[[MeetingToDiscussProgramGoalsSt_19639]]*
+
+> This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
+> -- *[[SummaryjanuaryManagementGroupM_21002]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -58,3 +64,5 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[HighlightsOfAPeerReviewAndRoun_11448]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
+- [[MeetingToDiscussProgramGoalsSt_19639]]
+- [[SummaryjanuaryManagementGroupM_21002]]

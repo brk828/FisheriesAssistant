@@ -26,6 +26,12 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 > This Federal Register notice (May 22, 1990) proposes listing the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]]. Once abundant throughout 5,635 km of the [[Colorado River Basin]], the species now occupies approximately 25% of its original...
 > -- *[[EndangeredAndThreatenedWildlif_11580]]*
 
+> The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
+> -- *[[LowerColoradoRiverMultispecies_11766]]*
+
+> This correspondence from the [[Bureau of Reclamation]] (March 18, 1988) responds to a request for federal support of [[Conner Dam]] construction on the [[Gila River]] in New Mexico as part of the [[Central Arizona Project]]. The Bureau declined further consideration, citing economic infeasibility...
+> -- *[[ConnerDamAsPartOfCentralArizon_19170]]*
+
 ## Mentioned In
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
@@ -35,3 +41,5 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 - [[StationProfileOfWalhallaNation_19515]]
 - [[StationProfileOfWolf_1994]]
 - [[EndangeredAndThreatenedWildlif_11580]]
+- [[LowerColoradoRiverMultispecies_11766]]
+- [[ConnerDamAsPartOfCentralArizon_19170]]

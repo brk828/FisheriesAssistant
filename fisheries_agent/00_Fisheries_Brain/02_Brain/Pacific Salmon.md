@@ -23,6 +23,9 @@ Pacific Salmon refers to anadromous fish species (primarily Oncorhynchus spp.) n
 > This document is a **policy and news report**, not a primary scientific study, covering a 2000 speech by Oregon Governor John Kitzhaber to the Oregon Chapter of the [[American Fisheries Society]] annual conference. The speech addresses the imminent risk of extinction facing [[Pacific Salmon]] pop...
 > -- *[[KitzhaberCallsForBreachingFour_13544]]*
 
+> This 1932-1933 study documented the fall migration of [[Steelhead]] (*Oncorhynchus mykiss*) from the [[Klamath River]] into [[Shasta River]], California. Using a counting rack with observation gates, researchers enumerated 8,525 steelhead between September 19 and December 10, 1932. The migration...
+> -- *[[ASteelheadMigrationInShastaRiv_21255]]*
+
 ## Mentioned In
 - [[ASystemForRecordingMeasurement_1947]]
 - [[DamRemovalWhoShouldPay_1999_09_26]]
@@ -46,3 +49,4 @@ Pacific Salmon refers to anadromous fish species (primarily Oncorhynchus spp.) n
 - [[TribalAndTreatyObligationsIssu_18113]]
 - [[UpperColoradoFishRecoveryPlanI_20990]]
 - [[WesternWaterPolicyFromReclamat_1999_06_08]]
+- [[ASteelheadMigrationInShastaRiv_21255]]

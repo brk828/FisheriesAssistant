@@ -50,6 +50,12 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 > **Taxonomic & Life-History Summary**: [[Shoal Bass]] (*Micropterus cataractae*) is a black bass endemic to the [[Apalachicola-Chattahoochee-Flint Basin]] of Alabama, Florida, and Georgia, formally described in 1999 by Williams and Burgess. The species belongs to family [[Centrarchidae]], order...
 > -- *[[StatusAssesmentOfAShoalBassPop_2012]]*
 
+> This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
+> -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
+
+> This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
+> -- *[[ProvisionalChecklistOfCanadian_21104]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AGrowthStudyAndBloodProteinAna_15288]]
@@ -139,3 +145,5 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 - [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]
 - [[DiversityWithinTheRedeyeBassMi_2013]]
 - [[StatusAssesmentOfAShoalBassPop_2012]]
+- [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ProvisionalChecklistOfCanadian_21104]]

@@ -128,6 +128,27 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
 > -- *[[RainbowSmeltProposallakePowell_21115]]*
 
+> This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
+> -- *[[DraftdistributionAndIncidenceO_12207]]*
+
+> This memorandum from the Management Biologist at [[Dexter National Fish Hatchery]] provides detailed review comments on a proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species. Dated January 12, 1990, the document critiques the technical accuracy, writing...
+> -- *[[ReviewOfProposedRazorbackSucke_12984]]*
+
+> This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
+> -- *[[CharacterizationOfTheLifeHisto_13649]]*
+
+> This 1988-89 research assistantship application by W. L. Minckley proposes a systematic study of cyprinid fishes in the genus [[Gila]], focusing on cladistic analysis to understand evolutionary relationships and their connection to geological history. The project addresses approximately 30 extant...
+> -- *[[ResearchAssistantshipRequestSy_13746]]*
+
+> This memorandum and Federal Register notice document the extension of the public comment period for the proposed critical habitat designation for four endangered fish species in the [[Colorado River Basin]]: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[ExtensionOfPublicCommentPeriod_17380]]*
+
+> This is a research proposal submitted by [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] in January 1990 to study genetic diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations using [[Mitochondrial DNA]] analysis. Principal investigator Professor [[Thomas E....
+> -- *[[GeneticDiversityOfRazorbackSuc_18428]]*
+
+> This revised draft management plan, submitted by the [[Parker Fishery Resource Office]] to the [[U.S. Fish and Wildlife Service]] Region II in November 1996, addresses conservation of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*),...
+> -- *[[LowerColoradoRiverBasinManagem_18433]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -446,3 +467,10 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[TemporalAndSpatialRelationsBet_17861]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
 - [[RainbowSmeltProposallakePowell_21115]]
+- [[DraftdistributionAndIncidenceO_12207]]
+- [[ReviewOfProposedRazorbackSucke_12984]]
+- [[CharacterizationOfTheLifeHisto_13649]]
+- [[ResearchAssistantshipRequestSy_13746]]
+- [[ExtensionOfPublicCommentPeriod_17380]]
+- [[GeneticDiversityOfRazorbackSuc_18428]]
+- [[LowerColoradoRiverBasinManagem_18433]]

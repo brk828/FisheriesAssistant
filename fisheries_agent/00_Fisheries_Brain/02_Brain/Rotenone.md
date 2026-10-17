@@ -29,6 +29,12 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 > This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
 > -- *[[SomeObservationsOnTheReclamati_15490]]*
 
+> This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
+> -- *[[RoughFishControl_20167]]*
+
+> This progress report documents the second year (1951) of the [[Adirondack Trout Restoration Project]], an experimental fisheries management program aimed at reclaiming former trout waters now inhabited by less desirable species. The reclamation procedure involves chemical eradication using...
+> -- *[[TroutRestorationInTheAdirondac_20206]]*
+
 ## Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -59,3 +65,5 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 - [[UseOfAntimycinForSelectiveThin_14083]]
 - [[NativeFishWorkGroupMeetingMinu_15000]]
 - [[SomeObservationsOnTheReclamati_15490]]
+- [[RoughFishControl_20167]]
+- [[TroutRestorationInTheAdirondac_20206]]

@@ -29,6 +29,9 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 > This March 1994 policy document from the [[U.S. Fish and Wildlife Service]] outlines the agency's adoption of an ecosystem approach to conserve the nation's biological diversity more effectively. The approach emphasizes protecting or restoring ecosystem function, structure, and species composition...
 > -- *[[AnEcosystemApproachToFishAndWi_11650]]*
 
+> This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
+> -- *[[LongtermLimnologicalAndWaterQu_17092]]*
+
 ## Mentioned In
 - [[CreationOfTheNationalBiologica_1993_03_17]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -40,3 +43,4 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
 - [[BiologicalAssessmentForTheSpik_11476]]
 - [[AnEcosystemApproachToFishAndWi_11650]]
+- [[LongtermLimnologicalAndWaterQu_17092]]

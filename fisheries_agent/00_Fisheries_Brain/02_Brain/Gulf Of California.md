@@ -35,6 +35,24 @@ The Gulf of California is a biogeographically significant marine basin in northw
 > This report documents the first occurrence of the [[Red Pike-Conger]] (*Cynoponticus coniceps*) in the upper [[Gulf of California]], representing a significant northward range extension of approximately 1,055 km from previously known distributions. Two specimens were captured near [[El...
 > -- *[[OccurrenceOfTheRedPikecongerCy_21112]]*
 
+> This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
+> -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
+
+> This study used allozyme electrophoresis to assess phylogenetic relationships within the cyprinid tribe [[Plagopterini]] of western North America. The research examined 28 presumptive gene loci across multiple genera including [[Lepidomeda]], [[Meda]], [[Plagopterus]], and [[Gila copei]], plus five...
+> -- *[[AllozymicVariationAndSystemati_12782]]*
+
+> This document outlines a comprehensive research proposal by Wayne C. Starnes ([[Smithsonian Institution]]) to address taxonomic and genetic questions regarding [[Gila]] species in the [[Colorado River]] basin under a cooperative agreement with [[USFWS]]. The project aims to resolve the taxonomic...
+> -- *[[GilaTaxonomyProjectIssuesAndPr_14720]]*
+
+> This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
+> -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
+
+> This genetic survey assessed mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations (226 specimens) and one captive stock at [[Dexter National Fish Hatchery]] (33 specimens). Using PCR-SSCP analysis of the mitochondrial ND2 gene and D-loop sequencing, the study...
+> -- *[[GeneticVariationInDesertPupfis_15731]]*
+
+> This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
+> -- *[[DraftRecoveryPlanForTheEndange_15977]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -59,3 +77,9 @@ The Gulf of California is a biogeographically significant marine basin in northw
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
 - [[OccurrenceOfTheRedPikecongerCy_21112]]
+- [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[AllozymicVariationAndSystemati_12782]]
+- [[GilaTaxonomyProjectIssuesAndPr_14720]]
+- [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[GeneticVariationInDesertPupfis_15731]]
+- [[DraftRecoveryPlanForTheEndange_15977]]

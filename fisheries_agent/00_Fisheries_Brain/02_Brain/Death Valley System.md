@@ -23,6 +23,9 @@ The Death Valley System refers to a cluster of isolated desert spring ecosystems
 > All taxa discussed are restricted to **isolated, thermally and chemically distinctive spring systems, seeps, and short stream reaches** within the endorheic [[Death Valley System]], a classic model of desert fish speciation via Pleistocene lake fragmentation. Key niche and habitat notes:
 > -- *[[SecondAnnualMeetingOfDeathVall_1975_02_21]]*
 
+> This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
+> -- *[[FishesAndAquaticResourcesOfThe_15407]]*
+
 ## Mentioned In
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[DesertFishesCouncilOverviewAnd_1974_07_26]]
@@ -33,3 +36,4 @@ The Death Valley System refers to a cluster of isolated desert spring ecosystems
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[StatusAndManagementOfShoshoneP_1990]]
+- [[FishesAndAquaticResourcesOfThe_15407]]

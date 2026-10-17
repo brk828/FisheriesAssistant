@@ -26,6 +26,9 @@ The Sacramento River is a major California river system that serves as a critica
 > This dissertation proposal by Timothy J. Kim (Arizona State University, 1998) outlines research to investigate Major Histocompatibility Complex (MHC) genetic variation and parasite resistance in two federally-listed endangered fish species: the [[Sacramento Winter-Run Chinook Salmon]] and the...
 > -- *[[MhcVariationAndParasiteResista_12519]]*
 
+> This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
+> -- *[[ConservationOfNativeFreshwater_15444]]*
+
 ## Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -37,3 +40,4 @@ The Sacramento River is a major California river system that serves as a critica
 - [[StationProfileOfTheColemanNati_19568]]
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
 - [[MhcVariationAndParasiteResista_12519]]
+- [[ConservationOfNativeFreshwater_15444]]

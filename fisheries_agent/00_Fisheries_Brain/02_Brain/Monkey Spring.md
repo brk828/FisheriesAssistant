@@ -26,6 +26,9 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 > This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
 > -- *[[MolecularVariationAndEvolution_18435]]*
 
+> This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
+> -- *[[ConservationGeneticsInTheManag_20087]]*
+
 ## Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -36,3 +39,4 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 - [[StatusOfRefugialGilaTopminnow_1995_12_27]]
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[MolecularVariationAndEvolution_18435]]
+- [[ConservationGeneticsInTheManag_20087]]

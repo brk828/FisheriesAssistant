@@ -23,6 +23,9 @@ Nevada in the context of fish science and conservation refers to the geographic 
 > This memorandum and attached analysis document the [[Bureau of Reclamation]]'s response to provision 13(a) of the Reasonable and Prudent Alternative (RPA) in the [[U.S. Fish and Wildlife Service]]'s Final Biological and Conference Opinion (Consultation No. 2-21-95-F-216) on [[Lower Colorado River]]...
 > -- *[[TransmittalRegardingReasonable_19809]]*
 
+> This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
+> -- *[[UnitedStatesListOfEndangeredFa_11533]]*
+
 ## Mentioned In
 - [[DemographicsOfTroutAnglersInTh_12587]]
 - [[EndanderedAndThreatenedWildlif_16520]]
@@ -33,3 +36,4 @@ Nevada in the context of fish science and conservation refers to the geographic 
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[LectureNotesFromBiologyClass_13784]]
 - [[TransmittalRegardingReasonable_19809]]
+- [[UnitedStatesListOfEndangeredFa_11533]]

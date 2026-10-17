@@ -32,6 +32,12 @@ Smallmouth buffalo (Ictiobus bubalus) is a large, native North American cyprinid
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
+> This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
+> -- *[[InvestigationsOfCommercialFish_18562]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[ExperimentsOnCommercialFishPro_15100]]
@@ -44,3 +50,5 @@ Smallmouth buffalo (Ictiobus bubalus) is a large, native North American cyprinid
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[WhatHaveICaught_12929]]
+- [[InvestigationsOfCommercialFish_18562]]

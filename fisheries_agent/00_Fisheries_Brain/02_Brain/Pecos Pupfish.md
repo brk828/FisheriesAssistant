@@ -23,6 +23,9 @@ The Pecos Pupfish (*Cyprinodon pecosensis*) is a small cyprinodont endemic to th
 > This document is a 1997 U.S. Fish and Wildlife Service (USFWS) request-for-information letter and status summary regarding the proposed federal listing of the [[Pecos Pupfish]] (*Cyprinodon pecosensis*) under the Endangered Species Act. First proposed for listing consideration in 1991, the specie...
 > -- *[[RequestForInformationOnPropose_1997_03_13]]*
 
+> This Federal Register notice, published September 19, 1997, by the U.S. Fish and Wildlife Service presents an updated list of plant and animal taxa native to the United States that are candidates or proposed for listing as endangered or threatened under the Endangered Species Act of 1973, as...
+> -- *[[EndangeredAndThreatenedWildlif_11741]]*
+
 ## Mentioned In
 - [[ConservationAgreementForThePec_1998]]
 - [[DraftConservationAgreementForT_1998_12_28]]
@@ -31,3 +34,4 @@ The Pecos Pupfish (*Cyprinodon pecosensis*) is a small cyprinodont endemic to th
 - [[LetterToDrWLMinckleyOnTheHisto_19038]]
 - [[RequestForInformationOnPropose_1997_03_13]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
+- [[EndangeredAndThreatenedWildlif_11741]]

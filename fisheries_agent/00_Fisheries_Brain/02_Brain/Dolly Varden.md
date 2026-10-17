@@ -20,9 +20,13 @@ Dolly Varden (*Salvelinus malma*) is a species of char in the Salmonidae family 
 > - **Native fish fauna** of the Mountain National Parks prior to hatchery intervention: [[Lake Trout]], [[Cutthroat Trout]], [[Dolly Varden]], and [[Rocky Mountain Whitefish]], restricted to main stream systems and a few connected lakes. - **~120 previously fish-free ("virgin") high-elevation lake...
 > -- *[[WhyHaveFishHatcheriesInCanadaS_11783]]*
 
+> This Federal Aid to Fish Restoration report documents population dynamics, species composition, limnological conditions, and management strategies for [[Arrowrock Reservoir]] and [[Lucky Peak Reservoir]] on the [[Boise River]], Idaho, from July 1965 through February 1968. Extensive gill netting...
+> -- *[[LakeAndReservoirInvestigations_12145]]*
+
 ## Mentioned In
 - [[APopulationOfDwarfCoastrangeSc_1960]]
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[MemorandumOnFishIntroductionPr_1988_03_14]]
 - [[TwoYearCreelCensusOfTheLittleS_1955]]
 - [[WhyHaveFishHatcheriesInCanadaS_11783]]
+- [[LakeAndReservoirInvestigations_12145]]

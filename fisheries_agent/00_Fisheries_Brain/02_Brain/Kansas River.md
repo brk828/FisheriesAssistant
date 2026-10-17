@@ -14,8 +14,12 @@ The Kansas River is a major fluvial system in northeastern Kansas that serves as
 > 1. **Lower-mainstream group** — species common in the [[Kansas River]] with limited upstream penetration: *Lepisosteus osseus*, *Carpiodes carpio carpio*, *Ictiobus cyprinella*, *Moxostoma aureolum*, *Cyprinus carpio*, *Hybopsis storeriana*, *Hybopsis aestivalis*, *Notropis percobromus*, *Hybogna...
 > -- *[[FishesOfTheWakarusaRiverInKans_14015]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[FishesOfTheWakarusaRiverInKans_14015]]
 - [[NewLocalityRecordsForSomeKansa_1981]]
 - [[OccurenceOfTheSturgeonChubHybo_18028]]
 - [[SomeEffectsOfANeutralMixtureOf_1969_06_11]]
+- [[WhatHaveICaught_12929]]

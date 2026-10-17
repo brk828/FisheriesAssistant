@@ -23,7 +23,11 @@ Semotilus is a genus of North American cyprinid fishes (freshwater chubs) compri
 > - **Habitat:** Slow to moderate flowing freshwater streams in Virginia, North Carolina, and Georgia (studied 1986–1990). - **Reproductive Strategy:** Breeding males construct pebble mound nests during spring spawning season. Eggs and sperm are deposited in a discrete spawning pit on the upstream ...
 > -- *[[WaterCurrentsInSpawningAreasOf_15217]]*
 
+> This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
+> -- *[[EvolutionaryRelationshipsOfThe_19110]]*
+
 ## Mentioned In
 - [[PhylogeneticsOfNorthAmericanCh_20485]]
 - [[ThePreferredTemperaturesOfThre_14745]]
 - [[WaterCurrentsInSpawningAreasOf_15217]]
+- [[EvolutionaryRelationshipsOfThe_19110]]

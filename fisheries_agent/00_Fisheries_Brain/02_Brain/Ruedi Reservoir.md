@@ -20,9 +20,13 @@ Ruedi Reservoir is a water storage facility on the Colorado River system whose r
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
 > -- *[[AprilManagementGroupMeetingSum_19221]]*
 
+> This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
+> -- *[[SummaryjanuaryManagementGroupM_21002]]*
+
 ## Mentioned In
 - [[MemorandumOnColoradoRiverRecov_21012]]
 - [[RequestForReleasesFromRuedigre_1989_06_08]]
 - [[SavingTheSquawfish_20454]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[AprilManagementGroupMeetingSum_19221]]
+- [[SummaryjanuaryManagementGroupM_21002]]

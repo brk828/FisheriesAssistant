@@ -20,9 +20,17 @@ Northern Arizona University appears in these historical documents as a research 
 > This proposal, submitted 21 August 1995 by researchers from [[Northern Arizona University]], requests $201,816 to continue transitional monitoring of [[Colorado River]] sand bars and backwaters in [[Grand Canyon National Park]]. The project bridges ongoing research to a long-term monitoring program...
 > -- *[[BridgingTheGapToLongtermMonito_18440]]*
 
+> This 1987 correspondence from the [[Arizona Game and Fish Department]] proposes establishing annual collaborative meetings between the Department and Arizona universities ([[University of Arizona]], [[Northern Arizona University]], [[Arizona State University]]) to promote cooperative wildlife...
+> -- *[[CooperationBetweenArizonaGameA_13469]]*
+
+> This proposal by [[Michael J.C. Kearsley]] and [[Tina J. Ayers]] from [[Northern Arizona University]] requests funding to continue monitoring riparian and wetland plant assemblages in the [[Colorado River]] corridor downstream of [[Glen Canyon Dam]] in [[Grand Canyon National Park]]. The 12-month...
+> -- *[[TransitionMonitoringForRiparia_17903]]*
+
 ## Mentioned In
 - [[LetterToWLMinckleyOnLittleColo_1987_01_26]]
 - [[MeetingNoticeOnLittleColoradoR_1994_01_21]]
 - [[ReportOnPrtActivityFromDecembe_1992_12_01]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
 - [[BridgingTheGapToLongtermMonito_18440]]
+- [[CooperationBetweenArizonaGameA_13469]]
+- [[TransitionMonitoringForRiparia_17903]]

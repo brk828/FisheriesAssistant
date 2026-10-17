@@ -32,6 +32,9 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 > This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
 > -- *[[RiverResourceMonitoringProject_18503]]*
 
+> This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
+> -- *[[LongtermLimnologicalAndWaterQu_17092]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[FishHandlingAssessmentOnGrandC_1991_09_05]]
@@ -52,3 +55,4 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 - [[BureauOfReclamationAnnouncesDe_20789]]
 - [[MorphologicalVariationInCatost_13689]]
 - [[RiverResourceMonitoringProject_18503]]
+- [[LongtermLimnologicalAndWaterQu_17092]]

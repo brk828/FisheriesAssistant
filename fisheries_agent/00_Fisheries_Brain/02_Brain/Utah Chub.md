@@ -26,6 +26,9 @@ The Utah Chub (Gila atraria) is a cyprinid fish species native to the Great Basi
 > This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
 > -- *[[InterimProceduresForStockingNo_15423]]*
 
+> This Federal Aid to Fish Restoration report documents population dynamics, species composition, limnological conditions, and management strategies for [[Arrowrock Reservoir]] and [[Lucky Peak Reservoir]] on the [[Boise River]], Idaho, from July 1965 through February 1968. Extensive gill netting...
+> -- *[[LakeAndReservoirInvestigations_12145]]*
+
 ## Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[EndangeredAndThreatenedFishInT_1979]]
@@ -34,3 +37,4 @@ The Utah Chub (Gila atraria) is a cyprinid fish species native to the Great Basi
 - [[ResponseToAmericanSocietyOfIch_1987_10_09]]
 - [[SurrogateSpeciesSelectionForPh_1981_05_07]]
 - [[InterimProceduresForStockingNo_15423]]
+- [[LakeAndReservoirInvestigations_12145]]

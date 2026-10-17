@@ -26,6 +26,9 @@ Mitochondrial DNA (mtDNA) in fish science refers to the genetic material contain
 > **Taxonomic & Life-History Summary:** This study revises the [[Redeye Bass]] (*Micropterus coosae*) species complex, originally described by Hubbs and Bailey (1940) from the Mobile River basin, Chattahoochee, and Savannah rivers. Examination of morphological variation and mitochondrial DNA (ND2...
 > -- *[[DiversityWithinTheRedeyeBassMi_2013]]*
 
+> This is a research proposal submitted by [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] in January 1990 to study genetic diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations using [[Mitochondrial DNA]] analysis. Principal investigator Professor [[Thomas E....
+> -- *[[GeneticDiversityOfRazorbackSuc_18428]]*
+
 ## Mentioned In
 - [[MhcVariationInTheEndangeredGil_20763]]
 - [[PreProposalForStudiesOfMtdnaGe_1989_12_26]]
@@ -33,3 +36,4 @@ Mitochondrial DNA (mtDNA) in fish science refers to the genetic material contain
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[EvaluationOfMjRosenfeldsBioche_14124]]
 - [[DiversityWithinTheRedeyeBassMi_2013]]
+- [[GeneticDiversityOfRazorbackSuc_18428]]

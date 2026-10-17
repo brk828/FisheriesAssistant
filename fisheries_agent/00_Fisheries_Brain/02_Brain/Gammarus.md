@@ -29,6 +29,9 @@ Gammarus is a genus of freshwater and brackish-water amphipod crustaceans that p
 > This document is correspondence from the Bureau of Reclamation dated February 4, 1993, announcing a meeting of the Reservoir Work Group scheduled for February 12, 1993, in Phoenix, Arizona. The meeting focuses on selective withdrawal operations at [[Glen Canyon Dam]] to modify downstream water...
 > -- *[[CorrespondenceRegardingMeeting_13520]]*
 
+> This Bureau of Reclamation document summarizes an April 6, 1993 Selective Withdrawal Investigations Workgroup meeting held in Phoenix, Arizona. The multi-disciplinary workgroup evaluated the feasibility and potential impacts of installing selective withdrawal facilities at [[Glen Canyon Dam]] to...
+> -- *[[SelectiveWithdrawalWorkgroupMe_15753]]*
+
 ## Mentioned In
 - [[AnfipodesTroglobios_1951]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -47,3 +50,4 @@ Gammarus is a genus of freshwater and brackish-water amphipod crustaceans that p
 - [[TheOccurrenceAndDist_19880]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
 - [[CorrespondenceRegardingMeeting_13520]]
+- [[SelectiveWithdrawalWorkgroupMe_15753]]

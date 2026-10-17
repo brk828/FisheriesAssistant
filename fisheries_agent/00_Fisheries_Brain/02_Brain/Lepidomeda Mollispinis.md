@@ -11,6 +11,9 @@ Lepidomeda mollispinis, commonly known as the Virgin River spinedace, is a small
 > - **Ash Meadows**, Nevada — home to multiple pupfish (*Cyprinodon*) subspecies and the Ash Meadows stock of **[[Rhinichthys osculus]]** (speckled dace) - **Moapa Valley** — habitat of *Moapa coriacea* - **Pyramid Lake** — habitat of **[[Chasmistes cujus]]** (cui-ui), a lake sucker - **White River...
 > -- *[[LetterFromJamesEDeaconToClarkH_1975_04_17]]*
 
+> This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
+> -- *[[EvolutionaryRelationshipsOfThe_19110]]*
+
 ## Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[EndangeredAndThreatenedWildlif_1993_03_16]]
@@ -18,3 +21,4 @@ Lepidomeda mollispinis, commonly known as the Virgin River spinedace, is a small
 - [[LetterToBobWilliamsRegardingVi_1994_09_06]]
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[TheAsianFishTapewormBothriocep_1993]]
+- [[EvolutionaryRelationshipsOfThe_19110]]

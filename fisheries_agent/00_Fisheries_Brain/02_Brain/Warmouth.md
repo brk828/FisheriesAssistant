@@ -38,6 +38,9 @@ Warmouth (Lepomis gulosus) is a small freshwater sunfish species native to easte
 > This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
 > -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
 
+> This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
+> -- *[[WhatHaveICaught_12929]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -60,3 +63,4 @@ Warmouth (Lepomis gulosus) is a small freshwater sunfish species native to easte
 - [[SummaryOfFishGrowthAndFishingS_14038]]
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[WhatHaveICaught_12929]]

@@ -35,6 +35,15 @@ The Blue River is a tributary of the Gila River located in Greenlee County, Ariz
 > This document is the 1987-1988 annual report for a multi-faceted investigation contracted by the U.S. Fish and Wildlife Service, Arizona Game and Fish Department, and New Mexico Department of Fish and Game to Arizona State University. The study evaluates interactions between the invasive [[Red...
 > -- *[[DraftOfTheAnnualReportForSpike_13757]]*
 
+> This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
+> -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
+
+> This final rule by the U.S. Fish and Wildlife Service designates approximately 257 kilometers (159 miles) of critical habitat for the threatened [[Loach Minnow]] (*Tiaroga cobitis*) under the Endangered Species Act. The loach minnow was listed as threatened on October 28, 1986, but critical habitat...
+> -- *[[EndangeredAndThreatenedWildlif_14801]]*
+
+> This legal notice, dated September 12, 1994, from the Gila Watershed Partnership to the U.S. Fish and Wildlife Service challenges the adequacy of critical habitat designated for [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*) on March 8, 1994. The notice argues that the...
+> -- *[[SixtydayNoticeOfIntentToSueOve_20449]]*
+
 ## Mentioned In
 - [[ConcurrenceWithEffectsDetermin_1997_05_02]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -54,3 +63,6 @@ The Blue River is a tributary of the Gila River located in Greenlee County, Ariz
 - [[EndangeredAndThreatenedWildlif_11552]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[DraftOfTheAnnualReportForSpike_13757]]
+- [[StreamSurveyOfTheSanFranciscoR_11523]]
+- [[EndangeredAndThreatenedWildlif_14801]]
+- [[SixtydayNoticeOfIntentToSueOve_20449]]

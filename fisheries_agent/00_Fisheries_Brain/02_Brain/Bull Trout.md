@@ -20,8 +20,12 @@ Bull Trout are a native, cold-water salmonid species valued in conservation and 
 > - **Indicator Species Suitability**: Wild, native trout are argued to be superior biological indicators of ecosystem/habitat health compared to planted or exotic trout, because their populations directly reflect natural habitat processes and functions, whereas planted populations are buffered fro...
 > -- *[[ViewsOfAFishBiologistFromAFede_15069]]*
 
+> This Federal Register notice, published September 19, 1997, by the U.S. Fish and Wildlife Service presents an updated list of plant and animal taxa native to the United States that are candidates or proposed for listing as endangered or threatened under the Endangered Species Act of 1973, as...
+> -- *[[EndangeredAndThreatenedWildlif_11741]]*
+
 ## Mentioned In
 - [[CrestonNationalFishHatcherySta_1994_01_03]]
 - [[OwnersToDemolishDamThatBlocksF_14938]]
 - [[StatePerspectiveOnTheCurrentRo_13150]]
 - [[ViewsOfAFishBiologistFromAFede_15069]]
+- [[EndangeredAndThreatenedWildlif_11741]]
