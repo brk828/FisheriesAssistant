@@ -15,8 +15,6 @@ Done so far (Phase 1):
 
 Phase 1 is complete except for orchestrator and onboarding integration, which is planned for Phase 4. Next: Phase 2 (brain seeding, skills, gap reports).
 
-Still to do in Phase 1: the questionnaire and suggester conversation flow, the `user_profile.md` collection step, LLM-written routing text, and the `gitsync` commit-time size check.
-
 ## 1. Goal
 
 Extend the project-management side of the agent so it can:
