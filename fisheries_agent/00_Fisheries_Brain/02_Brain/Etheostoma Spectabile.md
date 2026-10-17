@@ -26,6 +26,9 @@ Etheostoma spectabile, commonly known as the Orangespotted Darter, is a small No
 > This comprehensive study analyzed over 500,000 darter eggs from 1954 to 1965 to investigate geographic variation in hybrid survival among etheostomatine fishes (darters). More than 130 hybrid combinations were tested, with both reciprocals reared for 70 combinations. Key findings include: (1)...
 > -- *[[GeographicVariationsInSurvival_14227]]*
 
+> This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
+> -- *[[GeneticDifferentiationAmongSub_18497]]*
+
 ## Mentioned In
 - [[AReassessmentOfTheDistribution_1980]]
 - [[EtheostomaRadiosumOrangebellyD_1986]]
@@ -36,3 +39,4 @@ Etheostoma spectabile, commonly known as the Orangespotted Darter, is a small No
 - [[ProvenanceAndDispositionOfFish_16999]]
 - [[RelativeVariabilityOfHybridsBe_14215]]
 - [[GeographicVariationsInSurvival_14227]]
+- [[GeneticDifferentiationAmongSub_18497]]

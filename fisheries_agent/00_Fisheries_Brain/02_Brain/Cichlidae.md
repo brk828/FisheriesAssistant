@@ -32,6 +32,9 @@ Cichlidae is a diverse family of freshwater and brackish-water fish found primar
 > This letter from W.L. Minckley ([[Arizona State University]]) to Dr. Robert R. Miller ([[University of Michigan]]) dated June 30, 1988, addresses the discovery of [[Tilapia]] introduction into the [[Cuatro Cienegas]] basin in Mexico. Minckley outlines his position on appropriate response protocols,...
 > -- *[[TilapiaInCuatroCienegas_13761]]*
 
+> This document is correspondence from the [[University of Michigan]] [[Museum of Zoology]] in Ann Arbor, Michigan. The handwritten letter appears to reference cichlid specimens, specifically mentioning [[Cichlasoma]], a genus in the family [[Cichlidae]]. The document quality is poor due to OCR...
+> -- *[[TilapiaAtCuatroCienegasMexico_15378]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AquaticConservationNetworkCorr_1993_03_10]]
@@ -65,3 +68,4 @@ Cichlidae is a diverse family of freshwater and brackish-water fish found primar
 - [[BibliographyOfPublicationsConc_14697]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[TilapiaInCuatroCienegas_13761]]
+- [[TilapiaAtCuatroCienegasMexico_15378]]

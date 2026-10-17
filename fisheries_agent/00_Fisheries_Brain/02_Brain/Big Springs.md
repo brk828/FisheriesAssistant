@@ -14,5 +14,9 @@ auto_enriched: true
 > - **Population variability:** Using age-stratified Jolly-Seber models (program JOLLYAGE), [[Lowland Leopard Frog]] population estimates fluctuated dramatically: - [[Big Springs]] (Graham County): 55–351 individuals (mean 220); mean capture probability 0.27 (range 0.15–0.44). - [[Tule Creek]] (Yav...
 > -- *[[ThJointAnnualMeetingEcosystemM_1994_02_03]]*
 
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
 ## Mentioned In
 - [[ThJointAnnualMeetingEcosystemM_1994_02_03]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]

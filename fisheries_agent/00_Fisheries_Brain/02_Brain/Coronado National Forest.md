@@ -26,6 +26,9 @@ The Coronado National Forest in southeastern Arizona is a critical management ar
 > This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
 > -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
 
+> This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
+> -- *[[MasterPlanForBuenosAiresWildli_13323]]*
+
 ## Mentioned In
 - [[ConsultantAppointmentCorrespon_1986_04_16]]
 - [[FederalEndangeredFishSpeciesCo_1993_11_19]]
@@ -40,3 +43,4 @@ The Coronado National Forest in southeastern Arizona is a critical management ar
 - [[SouthwestCenterSSupplementalAn_18100]]
 - [[StatusOfPoeciliopsisOOccidenta_1984_07_25]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
+- [[MasterPlanForBuenosAiresWildli_13323]]

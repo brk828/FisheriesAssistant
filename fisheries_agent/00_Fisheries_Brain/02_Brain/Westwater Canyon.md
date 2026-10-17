@@ -20,6 +20,9 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
 > -- *[[AprilManagementGroupMeetingSum_19221]]*
 
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
 ## Mentioned In
 - [[DetermineStatusOfColoradoSquaw_11150]]
 - [[InteragencyStandardizedMonitor_1993]]
@@ -27,3 +30,4 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 - [[RoundtableDiscussionOnStreamfl_1994_12_22]]
 - [[TemporalAndSpatialRelationsBet_17861]]
 - [[AprilManagementGroupMeetingSum_19221]]
+- [[BonytailReintroductionPlanForT_20248]]

@@ -26,6 +26,9 @@ Potameton pectinatus, commonly known as fennel pondweed, is a submerged aquatic 
 > This paper describes research conducted at the [[Water Pollution Research Laboratory]] in Stevenage, England, examining how rooted aquatic plants and benthic macro-invertebrates affect the oxygen balance in small streams. The study develops and applies methods for measuring photosynthesis,...
 > -- *[[SomeEffectsOfPlantsAndAnimalsO_15778]]*
 
+> The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
+> -- *[[IntroductionOfPalaemonetesPalu_20723]]*
+
 ## Mentioned In
 - [[AModelForQuantitativeStudiesOf_1966_05_05]]
 - [[AquaticMacrophytesAndTheOxygen_12171]]
@@ -37,3 +40,4 @@ Potameton pectinatus, commonly known as fennel pondweed, is a submerged aquatic 
 - [[TheEffectsOfOrganismsOnPolluti_12169]]
 - [[TheLightClimateForPlantsInRive_12168]]
 - [[SomeEffectsOfPlantsAndAnimalsO_15778]]
+- [[IntroductionOfPalaemonetesPalu_20723]]

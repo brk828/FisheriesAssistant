@@ -107,6 +107,39 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
 > -- *[[EvolutionaryRelationshipsOfThe_19110]]*
 
+> The U.S. Environmental Protection Agency (EPA) Region IX and U.S. Army Corps of Engineers (Corps) conducted an Advanced Identification (ADID) project for the [[Verde River]] in Arizona under Section 404 of the Clean Water Act. This document announces public workshops (April 25-26, 1994) to discuss...
+> -- *[[VerdeRiverAdvancedIdentificati_11367]]*
+
+> This study plan outlines an Advanced Identification (ADID) process for the [[Verde River]], Arizona, conducted by the U.S. Fish and Wildlife Service Phoenix Field Office in August 1991. The ADID aims to protect the Verde River aquatic ecosystem by evaluating approximately 125 river miles from...
+> -- *[[AdvancedIdentificationOfFuncti_11587]]*
+
+> This biological opinion, issued February 18, 1993, by the U.S. Fish and Wildlife Service Arizona Ecological Services Field Office, addresses formal Section 7 consultation for the [[Lake Havasu]] Fisheries Improvement Partnership Program. The Bureau of Land Management proposed installing artificial...
+> -- *[[BiologicalOpinionForLakeHavasu_11881]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
+> This document is a peer review letter dated 26 July 1989 from a U.S. Fish and Wildlife Service Fishery Management Biologist to Dr. Dean Hendrickson regarding a draft report by Marsh et al. on interactions between threatened [[Spikedace]] ([[Meda fulgida]]) and introduced [[Red Shiner]]...
+> -- *[[ReviewOfTheDraftReportEntitled_12980]]*
+
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
+> This genetic study examined 11 stream populations of presumed [[Gila Trout]] (*Oncorhynchus gilae*) using horizontal starch gel electrophoresis of 48 protein-coding loci to address two critical conservation issues: (1) detection of hybridization with [[Rainbow Trout]] (*O. mykiss*) and (2)...
+> -- *[[GeneticIssuesInTheConservation_20219]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -206,3 +239,14 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[LowerColoradoRiverBasinManagem_18433]]
 - [[InvestigationsOfCommercialFish_18562]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
+- [[VerdeRiverAdvancedIdentificati_11367]]
+- [[AdvancedIdentificationOfFuncti_11587]]
+- [[BiologicalOpinionForLakeHavasu_11881]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[GeneticVariationAmongLowerColo_12776]]
+- [[ReviewOfTheDraftReportEntitled_12980]]
+- [[FurtherInformationOnTheSpikeda_13737]]
+- [[DesertFishesRecoveryTeamAddres_13785]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]
+- [[GeneticIssuesInTheConservation_20219]]

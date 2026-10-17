@@ -38,6 +38,18 @@ The California Department of Fish and Game (now the California Department of Fis
 > The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
 > -- *[[LowerColoradoRiverMultispecies_11766]]*
 
+> This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
+> -- *[[MovementsOfInlandAnglersWithin_11325]]*
+
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> This 1956 administrative report (revised 1960) by the [[California Department of Fish and Game]] provides comprehensive guidance on commercial bait minnow culture in California. The document focuses on three introduced cyprinid species—[[Fathead Minnow]] (*Pimephales promelas*), [[Golden Shiner]]...
+> -- *[[PropagationOfBaitMinnowsInCali_18150]]*
+
+> The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
+> -- *[[IntroductionOfPalaemonetesPalu_20723]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -60,3 +72,7 @@ The California Department of Fish and Game (now the California Department of Fis
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
 - [[DraftmanagementPlanForTheRazor_11427]]
 - [[LowerColoradoRiverMultispecies_11766]]
+- [[MovementsOfInlandAnglersWithin_11325]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[PropagationOfBaitMinnowsInCali_18150]]
+- [[IntroductionOfPalaemonetesPalu_20723]]

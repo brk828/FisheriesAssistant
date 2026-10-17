@@ -23,6 +23,9 @@ Mugil cephalus, commonly known as flathead mullet, is a euryhaline teleost fish 
 > - **Habitat affinity:** Strong preference for calm, still-water habitats — quiet pools, sheltered littoral zones, and vegetated margins in both perennial/annual rivers ([[Gaigher 1973]]; [[Pienaar 1968]]) and estuarine lakes. - **Current avoidance threshold:** Choice-chamber experiments (n=5 tria...
 > -- *[[TheDistributionOfTheFreshwater_1979]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[FieldObservationsOnTheLepidoph_1979]]
@@ -31,3 +34,4 @@ Mugil cephalus, commonly known as flathead mullet, is a euryhaline teleost fish 
 - [[ReproductionAndFeedingOfTheMou_1993]]
 - [[TheDistributionOfTheFreshwater_1979]]
 - [[TheFeedingEcologyOfJuvenileMul_17669]]
+- [[ReportToTheDesertFishesCouncil_13683]]

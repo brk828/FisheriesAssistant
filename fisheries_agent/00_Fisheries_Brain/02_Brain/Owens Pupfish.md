@@ -29,6 +29,9 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
@@ -45,3 +48,4 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[AConservationorientedClassific_15455]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]

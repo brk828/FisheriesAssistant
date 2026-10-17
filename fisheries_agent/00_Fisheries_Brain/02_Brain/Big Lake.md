@@ -26,9 +26,13 @@ Big Lake is a high-elevation Arizona freshwater lake managed as a recreational f
 > This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
 > -- *[[AConservationorientedClassific_15455]]*
 
+> This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
+> -- *[[TheMaineSmallmouth_14928]]*
+
 ## Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[CreelCensusLakesFisheryInvesti_1966_12_31]]
 - [[ReportOnLunaLakeApacheCountyAr_19495]]
 - [[SummaryOfPertinentProblemsPert_1961_01_15]]
 - [[AConservationorientedClassific_15455]]
+- [[TheMaineSmallmouth_14928]]

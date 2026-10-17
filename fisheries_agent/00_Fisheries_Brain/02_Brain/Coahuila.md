@@ -14,8 +14,12 @@ auto_enriched: true
 > This correspondence documents collaboration between Mexican biologists at [[Universidad Autónoma Metropolitana]] and Dr. [[W. L. Minckley]] of [[Arizona State University]] regarding the first management plan for the proposed [[Cuatro Ciénegas]] watershed [[Biosphere Reserve]] in [[Coahuila]],...
 > -- *[[CuatroCienegasWatershedCoahuil_16108]]*
 
+> This document presents a comprehensive overview of the exceptional aquatic and semi-aquatic fauna of the [[Cuatro Ciénegas Basin]] in [[Coahuila]], [[Mexico]]. The basin contains an extraordinarily diverse assemblage of organisms for a desert region, including 18 fish species (10 endemic to the...
+> -- *[[ASummaryOfInformationAboutTheA_18574]]*
+
 ## Mentioned In
 - [[BehindTheScenesBeingThereNatio_1995_05_17]]
 - [[DouglasMexicanTemperaturePreci_12378]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[CuatroCienegasWatershedCoahuil_16108]]
+- [[ASummaryOfInformationAboutTheA_18574]]

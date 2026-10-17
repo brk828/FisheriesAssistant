@@ -23,8 +23,12 @@ Catostomus bernardini is a native sucker species (Family Catostomidae) endemic t
 > - **Habitat partitioning**: Native species predominantly occupy the uppermost effluents/tributary streams (78.5% of native occurrences), while exotic species preferentially occupy the main channel of the [[Rio Yaqui]]. - **Habitat overlap**: [[Tilapia]] is notable for sharing habitat with most na...
 > -- *[[EcologicalObservationsOfNative_1988]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[EcologicalObservationsOfNative_1988]]
 - [[ItineraryForRioYaquiFishesCapt_1987_09_14]]
 - [[LetterRegardingPlansToObtainLi_1986_12_10]]
 - [[ReEvaluationOfTheNativeFishesO_12336]]
+- [[ReportToTheDesertFishesCouncil_13683]]

@@ -47,6 +47,9 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 > This genetic survey assessed mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations (226 specimens) and one captive stock at [[Dexter National Fish Hatchery]] (33 specimens). Using PCR-SSCP analysis of the mitochondrial ND2 gene and D-loop sequencing, the study...
 > -- *[[GeneticVariationInDesertPupfis_15731]]*
 
+> Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
+> -- *[[MinutesDesertFishesRecoveryTea_13749]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AnalysisOfPenaeidShrimpLanding_16892]]
@@ -69,3 +72,4 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 - [[WrittenCommentsOnDraftBiologic_20522]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[GeneticVariationInDesertPupfis_15731]]
+- [[MinutesDesertFishesRecoveryTea_13749]]

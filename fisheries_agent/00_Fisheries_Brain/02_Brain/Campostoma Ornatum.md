@@ -29,6 +29,9 @@ Campostoma Ornatum is a cyprinid fish species endemic to the southwestern United
 > This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
 > -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -42,3 +45,4 @@ Campostoma Ornatum is a cyprinid fish species endemic to the southwestern United
 - [[RuckerCanyonFisheriesSurvey_1997_07_30]]
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
+- [[ReportToTheDesertFishesCouncil_13683]]

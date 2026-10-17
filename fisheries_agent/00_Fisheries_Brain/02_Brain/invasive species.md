@@ -23,6 +23,9 @@ An invasive species in fish science refers to a non-native fish species that has
 > - The first formal AFS attempt to categorize introduced fish occurred at the 1969 "Invitational Conference on Exotic Fishes and Related Problems," co-sponsored with the American Society of Ichthyologists and Herpetologists (ASIH), which defined exotic and transplanted species based on national/wa...
 > -- *[[TerminologyAssociatedWithIntro_11384]]*
 
+> This document is a comprehensive member's guide for the [[IUCN]] [[Species Survival Commission]] (SSC) covering the 1994-1996 triennium. The SSC is described as the largest global network of volunteer experts working for species conservation, comprising approximately 5,000 members in 170 countries....
+> -- *[[SpeciesSurvivalCommissionAMemb_14399]]*
+
 ## Mentioned In
 - [[ConcernAboutThePresenceOfASpec_14235]]
 - [[DistributionAndStatusOfTheGras_11158]]
@@ -31,3 +34,4 @@ An invasive species in fish science refers to a non-native fish species that has
 - [[IntroductionOfRainbowSmeltInto_21103]]
 - [[StatusOfPoeciliopsisOOccidenta_1984_07_25]]
 - [[TerminologyAssociatedWithIntro_11384]]
+- [[SpeciesSurvivalCommissionAMemb_14399]]

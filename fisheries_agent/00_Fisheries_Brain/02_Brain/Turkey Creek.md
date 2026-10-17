@@ -38,6 +38,9 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 > This document comprises field collection notes from aquatic surveys conducted by James F. LeRousty throughout the [[Gila River]] Basin and [[San Pedro River]] system in Arizona and New Mexico during 1973. The notes document multiple sampling locations from April through December 1973, recording...
 > -- *[[FieldNotesAtTheSanPedroGilaAnd_12645]]*
 
+> This document announces public meetings (April 14-17, 1986) regarding the Bureau of Reclamation's Upper Gila Water Supply Study and selection of a proposed action for the Draft Environmental Impact Statement. The study evaluates six alternative plans (including a "No Federal Action" option) to...
+> -- *[[PublicMeetingsAnnoucnementAndP_11475]]*
+
 ## Mentioned In
 - [[AravaipaShinerSurveyJuly_1998_07_10]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -57,3 +60,4 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
+- [[PublicMeetingsAnnoucnementAndP_11475]]

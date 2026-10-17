@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Santa Cruz
+
+## Summary
+Santa Cruz is a phase of the Hohokam Sedentary period in Arizona. La Lomita Pequeña was occupied during the Santa Cruz/Sacaton Phase transition (approximately A.D. 990-1050), and faunal patterns from this period show consistency with other Santa Cruz-Sacaton phase sites like Snaketown.
+
+## Context
+
+> This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
+> -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
+
+## Mentioned In
+- [[ArchaeofaunaFromLaLomitaPequea_12928]]

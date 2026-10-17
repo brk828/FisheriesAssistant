@@ -53,6 +53,21 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This study used allozyme electrophoresis to assess phylogenetic relationships within the cyprinid tribe [[Plagopterini]] of western North America. The research examined 28 presumptive gene loci across multiple genera including [[Lepidomeda]], [[Meda]], [[Plagopterus]], and [[Gila copei]], plus five...
 > -- *[[AllozymicVariationAndSystemati_12782]]*
 
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
+> This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
+> -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
+
+> This February 1988 letter from Harold M. Tyus (USFWS Colorado River Fish Project Leader) to Randy D. Radant (Utah Division of Wildlife Resources) provides critical review of two draft reports by Mark J. Rosenfeld examining the systematics of [[Gila]] species in the [[Colorado River Basin]]. Tyus...
+> -- *[[CommentsOnMRosenfeldsGilaTaxon_13067]]*
+
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
+> This study applies multivariate discriminant analysis to meristic and morphometric data to resolve long-standing confusion in identifying three endangered [[Gila]] species from the [[Colorado Plateau]]: [[Gila robusta]] (roundtail chub), [[Gila cypha]] (humpback chub), and [[Gila elegans]]...
+> -- *[[MultivariateDiscriminationOfCo_19077]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AResumeOfTheDetoxificationPhas_1963]]
@@ -105,3 +120,8 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[DraftecologicalDeterminismHybr_12773]]
 - [[AllozymicVariationAndSystemati_12782]]
+- [[GeneticVariationAmongLowerColo_12776]]
+- [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[CommentsOnMRosenfeldsGilaTaxon_13067]]
+- [[LiteratureReviewAndImpactRepor_14988]]
+- [[MultivariateDiscriminationOfCo_19077]]

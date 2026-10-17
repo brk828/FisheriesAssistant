@@ -59,6 +59,21 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 > This U.S. Fish and Wildlife Service memorandum (July 22, 1994) provides formal consultation findings for road construction project FAIR 42(3) on the Fort Apache Indian Reservation, Arizona. The project involves paving 0.67 miles of road, constructing a bridge over the [[East Fork White River]], and...
 > -- *[[ReviewOfProjectFair_21120]]*
 
+> The U.S. Environmental Protection Agency (EPA) Region IX and U.S. Army Corps of Engineers (Corps) conducted an Advanced Identification (ADID) project for the [[Verde River]] in Arizona under Section 404 of the Clean Water Act. This document announces public workshops (April 25-26, 1994) to discuss...
+> -- *[[VerdeRiverAdvancedIdentificati_11367]]*
+
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This document comprises Pima County, Arizona's Resolution No. 1998-250 establishing the [[Sonoran Desert Conservation Plan]] (SDCP), correspondence soliciting expert input on species selection, and a preliminary species list for multi-species habitat conservation planning. Passed December 3, 1998,...
+> -- *[[AResolutionOfTheBoardOfSupervi_18593]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -99,3 +114,8 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 - [[CommentsOnTheBiologicalOpinion_17166]]
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
 - [[ReviewOfProjectFair_21120]]
+- [[VerdeRiverAdvancedIdentificati_11367]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[AResolutionOfTheBoardOfSupervi_18593]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

@@ -17,9 +17,13 @@ The University of Michigan Museum of Zoology is a major institutional repository
 > This final report (February 1980) documents comprehensive taxonomic, morphometric, and reproductive studies of the [[Chihuahua Chub]] (*Gila nigrescens*), an endangered cyprinid inhabiting the [[Mimbres River]] in New Mexico and several drainages in Chihuahua, Mexico. The study examined 202+...
 > -- *[[TaxonomicStatusEcologyAndDistr_15409]]*
 
+> This letter from Robert R. Miller, Curator of Fishes at the [[University of Michigan Museum of Zoology]], to the [[American Museum of Natural History]] reviews a manuscript describing two new species of [[Catostomus]] (suckers) from northern Mexico. Miller confirms the validity of both species as...
+> -- *[[ReManuscriptDescribingTwoNewSp_15374]]*
+
 ## Mentioned In
 - [[CorrespondenceBetweenRobertRMi_15382]]
 - [[NewDistributionalRecordsOfIlli_1988]]
 - [[RangeOfChriodorus_17137]]
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[TaxonomicStatusEcologyAndDistr_15409]]
+- [[ReManuscriptDescribingTwoNewSp_15374]]

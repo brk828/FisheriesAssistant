@@ -62,6 +62,9 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 > This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
 > -- *[[InvestigationsOfCommercialFish_18562]]*
 
+> This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
+> -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -129,3 +132,4 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 - [[StreamflowNeedsOfRareAndEndang_14141]]
 - [[PrelimaryObservationsOnTheToxi_14434]]
 - [[InvestigationsOfCommercialFish_18562]]
+- [[ALiteratureReviewOfTheEffectsO_20478]]

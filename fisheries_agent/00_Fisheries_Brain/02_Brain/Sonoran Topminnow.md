@@ -35,6 +35,18 @@ The Sonoran Topminnow (*Poeciliopsis occidentalis*) is a small-bodied, live-bear
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
+> Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
+> -- *[[MinutesDesertFishesRecoveryTea_13749]]*
+
+> This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
+> -- *[[AuthorizationToUseTheRegionalD_15706]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
 ## Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -50,3 +62,7 @@ The Sonoran Topminnow (*Poeciliopsis occidentalis*) is a small-bodied, live-bear
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[FactorsAffectingTheSuccessOfGi_12971]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[StatusReportForNaturalAndIntro_12972]]
+- [[MinutesDesertFishesRecoveryTea_13749]]
+- [[AuthorizationToUseTheRegionalD_15706]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]

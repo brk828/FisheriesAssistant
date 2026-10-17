@@ -20,6 +20,9 @@ auto_enriched: true
 > This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
 > -- *[[DraftRecoveryPlanForTheEndange_15977]]*
 
+> The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
+> -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
+
 ## Mentioned In
 - [[TotalFloristicStudyOfTheSanBer_14669]]
 - [[ReContinuationOfTheUsArmysSanP_11808]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
+- [[BlmReleasesDraftSanPedroRiverM_11464]]

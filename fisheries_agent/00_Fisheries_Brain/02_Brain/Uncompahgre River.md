@@ -11,5 +11,9 @@ The Uncompahgre River is a tributary in Colorado within the Colorado River Basin
 > This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
 > -- *[[DraftdistributionAndIncidenceO_12207]]*
 
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
 ## Mentioned In
 - [[DraftdistributionAndIncidenceO_12207]]
+- [[ManagementGroupMeetingSummary_19219]]

@@ -32,6 +32,12 @@ Imperial National Wildlife Refuge is a protected area along the lower Colorado R
 > This completion report (Project F-7-R-4, Work Plan 4, Job A-1) documents a comprehensive fisheries investigation of backwater lakes along the [[Lower Colorado River]] within the [[Imperial National Wildlife Refuge]], Arizona, conducted from January 16 to October 15, 1961. The study aimed to...
 > -- *[[ABasicSurveyOfWatersInDistrict_14982]]*
 
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
+> -- *[[IntroductionOfPalaemonetesPalu_20723]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[CollectionOfGrowoutFacilitiesO_1995_05_27]]
@@ -46,3 +52,5 @@ Imperial National Wildlife Refuge is a protected area along the lower Colorado R
 - [[IntraserviceSectionConsultatio_20152]]
 - [[DraftmanagementPlanForTheRazor_11427]]
 - [[ABasicSurveyOfWatersInDistrict_14982]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[IntroductionOfPalaemonetesPalu_20723]]

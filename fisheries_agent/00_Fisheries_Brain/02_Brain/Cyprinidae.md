@@ -89,6 +89,24 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> The [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*) is a threatened subspecies of cyprinid fish endemic to [[Meadow Valley Wash]] in [[Lincoln County]], Nevada. The only extant population occupies a 5-mile section of stream through [[Condor Canyon]], making it extremely vulnerable to...
+> -- *[[BigSpringSpinedaceLepidomedaMo_11635]]*
+
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
+> This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
+> -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
+
+> This February 1990 memorandum from the U.S. Fish and Wildlife Service (FWS) to the Bureau of Reclamation addresses Section 7 consultation regarding [[Glen Canyon Dam]] operations and their impacts on the endangered [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The FWS concurs with seven...
+> -- *[[OperationOfGlenCanyonDamBrazSe_14783]]*
+
+> This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
+> -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
+
+> This 1956 administrative report (revised 1960) by the [[California Department of Fish and Game]] provides comprehensive guidance on commercial bait minnow culture in California. The document focuses on three introduced cyprinid species—[[Fathead Minnow]] (*Pimephales promelas*), [[Golden Shiner]]...
+> -- *[[PropagationOfBaitMinnowsInCali_18150]]*
+
 ## Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -359,3 +377,9 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[MedatiarogaStudy_19000]]
 - [[SixtydayNoticeOfIntentToSueOve_20449]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[BigSpringSpinedaceLepidomedaMo_11635]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]
+- [[TissueSampleAnalysisOfCuiuihyb_14120]]
+- [[OperationOfGlenCanyonDamBrazSe_14783]]
+- [[FishesOfAfghanistanAnAnnotated_15968]]
+- [[PropagationOfBaitMinnowsInCali_18150]]

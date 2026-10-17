@@ -23,6 +23,9 @@ The Lake Chubsucker (*Erimyzon sucetta*) is a freshwater cyprinid species common
 > - **[[Spotted Gar]]** (*Lepisosteus oculatus*) — not readily captured with small seines, implying deep-bodied, evasive morphology suited to dense vegetated wetland habitat. - **[[Lake Chubsucker]]** (*Erimyzon sucetta*) vs. its congener *E. oblongus* ([[Creek Chubsucker]]) — sympatric but ecologi...
 > -- *[[NewRecordsDistributionAndStatu_14897]]*
 
+> This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
+> -- *[[ReviewOfPotentialForageFishInt_19139]]*
+
 ## Mentioned In
 - [[EndangeredThreatenedAndRarePla_14903]]
 - [[ManagementOfWarmWaterFishPopul_1952]]
@@ -30,3 +33,4 @@ The Lake Chubsucker (*Erimyzon sucetta*) is a freshwater cyprinid species common
 - [[NewDistributionalRecordsOfIlli_1988]]
 - [[NewRecordsDistributionAndStatu_14897]]
 - [[TheOccurrenceOfTheBandedPygmyS_1980]]
+- [[ReviewOfPotentialForageFishInt_19139]]

@@ -11,7 +11,11 @@ auto_enriched: true
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
+> -- *[[SummaryStatementOfInsightsFrom_20854]]*
+
 ## Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[WesternRangeExtensionOfTheSurf_1968]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[SummaryStatementOfInsightsFrom_20854]]

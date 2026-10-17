@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Schroeder Reservoir
+
+## Summary
+Schroeder Reservoir is an impoundment on Beaver Dam Wash that has inundated historic Virgin spinedace habitat. This conservation strategy identifies it as one of three reservoirs that have collectively inundated approximately 6.8 km of the species' historic range.
+
+## Context
+
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+## Mentioned In
+- [[DraftConservationStrategyVirgi_11659]]

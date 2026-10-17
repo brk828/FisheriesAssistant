@@ -17,8 +17,12 @@ Silver Carp (*Hypophthalmichthys molitrix*) is a planktivorous cyprinid fish nat
 > - **[[Nile Tilapia]]** (*Oreochromis niloticus*) and **[[Blue Tilapia]]** (*Oreochromis aureus*) — Family [[Cichlidae]]; deep-bodied, laterally compressed mouth-brooding cichlids known for rapid maturation and high reproductive output. - **[[Silver Carp]]** (*Hypophthalmichthys molitrix*), **[[Gr...
 > -- *[[LetterFromDesertFishesCouncilO_1984_07_30]]*
 
+> This memorandum from the California Department of Fish and Game to the Fish and Game Commission addresses a request by [[United Energy Corporation]] (UEC) to import and possess eight exotic fish species for aquaculture and research at a facility near [[Yermo]], [[San Bernardino County]]. The...
+> -- *[[RequestByUecToImportAndPossess_18439]]*
+
 ## Mentioned In
 - [[ComputerizedDataBaseForExoticF_1991]]
 - [[EscapeOfHybridGrassXBigheadCar_1983]]
 - [[EvaluationOfBalanceBetweenFish_13453]]
 - [[LetterFromDesertFishesCouncilO_1984_07_30]]
+- [[RequestByUecToImportAndPossess_18439]]

@@ -56,6 +56,12 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 > This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
 > -- *[[ExecutiveSummariescoloradoRive_19604]]*
 
+> This multi-job completion report documents experimental pond management studies conducted by the West Virginia Conservation Commission during 1955-1956 (Project F-3-R-4). The investigation focused on establishing experimental ponds, conducting creel censuses, sampling fish populations, and testing...
+> -- *[[EstablishmentOfNewOrReclaimedP_12166]]*
+
+> This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
+> -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
+
 ## Mentioned In
 - [[ANoteOnTheResultsOfFeedingFire_1960]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -106,3 +112,5 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 - [[ResultsOfAnOpeningWeekCreelCen_17745]]
 - [[ABasicSurveyOfWatersInDistrict_14982]]
 - [[ExecutiveSummariescoloradoRive_19604]]
+- [[EstablishmentOfNewOrReclaimedP_12166]]
+- [[ALiteratureReviewOfTheEffectsO_20478]]

@@ -50,6 +50,12 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 > This report documents the status, distribution, and habitat use of native fish species in [[Bass Creek]] and [[Hotsprings Creek]] within the [[Muleshoe Preserve]], Arizona, based on surveys conducted in January, March, and June 1987. The study area comprises 18 km of perennial stream in the [[Gila...
 > -- *[[AReportToTheArizonaNatureConse_15171]]*
 
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
+> This document comprises Pima County, Arizona's Resolution No. 1998-250 establishing the [[Sonoran Desert Conservation Plan]] (SDCP), correspondence soliciting expert input on species selection, and a preliminary species list for multi-species habitat conservation planning. Passed December 3, 1998,...
+> -- *[[AResolutionOfTheBoardOfSupervi_18593]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AfaPolicyMemorandumOnHybrids_1984_02_10]]
@@ -156,3 +162,5 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 - [[FieldNotesOfTripToSanBernardin_13172]]
 - [[DecliningSouthwesternAquaticHa_15002]]
 - [[AReportToTheArizonaNatureConse_15171]]
+- [[StatusReportForNaturalAndIntro_12972]]
+- [[AResolutionOfTheBoardOfSupervi_18593]]

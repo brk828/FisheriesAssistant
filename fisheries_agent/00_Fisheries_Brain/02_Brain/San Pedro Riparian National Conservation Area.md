@@ -35,6 +35,12 @@ The San Pedro Riparian National Conservation Area encompasses the San Pedro Rive
 > The [[Bureau of Land Management]] (BLM) announced a temporary six-month suspension of land acquisitions along the [[San Pedro River]] in southeastern Arizona following June 10 discussions with Natural Resource Conservation Districts (NRCDs). The decision responds to concerns from private landowners...
 > -- *[[BlmRespondsToPublicConcernsAlo_19144]]*
 
+> The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
+> -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
+
+> This administrative correspondence from the Bureau of Land Management Safford District Office documents a meeting notice dated September 15, 1989, convening the [[San Pedro River]] Biological Resources Committee. The meeting was scheduled to discuss the planned Habitat Management Plan for the [[San...
+> -- *[[SanPedroRiverBiologicalResourc_17351]]*
+
 ## Mentioned In
 - [[CommentLetterOnDraftGilaBoxRip_1993_12_30]]
 - [[EnvironmentalistsSueFortHuachu_11897]]
@@ -48,3 +54,5 @@ The San Pedro Riparian National Conservation Area encompasses the San Pedro Rive
 - [[ReContinuationOfTheUsArmysSanP_11808]]
 - [[SanPredoBiologicalResourcesTec_17354]]
 - [[BlmRespondsToPublicConcernsAlo_19144]]
+- [[BlmReleasesDraftSanPedroRiverM_11464]]
+- [[SanPedroRiverBiologicalResourc_17351]]

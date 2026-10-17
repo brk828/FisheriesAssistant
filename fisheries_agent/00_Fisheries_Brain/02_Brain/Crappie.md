@@ -35,6 +35,9 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 > The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
 > -- *[[Perch_16750]]*
 
+> In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
+> -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -60,3 +63,4 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 - [[FishPlentifulInGuatemalaLake_19070]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[Perch_16750]]
+- [[ProjectVelaUniformLakeMeadTest_20812]]

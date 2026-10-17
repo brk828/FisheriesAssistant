@@ -29,6 +29,9 @@ The Mississippi River represents a major North American fluvial system of critic
 > **Taxonomic & Life-History Summary:** [[Smallmouth Bass]] (*Micropterus dolomieui dolomieui*) is a member of family [[Centrarchidae]]. Body thick and chunky with moderate-sized mouth; upper jaw usually not reaching posteriad past front of eye. Spinous dorsal fin low, soft dorsal fin with 13-15...
 > -- *[[SmallmouthBassMicropterusDolom_X-013f4e27]]*
 
+> This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
+> -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerInPoolOfTh_16034]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -49,3 +52,4 @@ The Mississippi River represents a major North American fluvial system of critic
 - [[YoungFishDistributionInBackwat_1989]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
+- [[ALiteratureReviewOfTheEffectsO_20478]]

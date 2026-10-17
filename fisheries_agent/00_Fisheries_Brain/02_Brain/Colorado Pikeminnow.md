@@ -35,6 +35,9 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 > This monitoring report documents the status of native fish species stocked at [[Palm Lake]], [[Hassayampa River Preserve]], Arizona, sampled on 2-3 April 1990. The assessment evaluated survival and condition of [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*)...
 > -- *[[FishMonitoringOfPalmLakeHassay_16635]]*
 
+> This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
+> -- *[[FyReportingAndAccounting_21020]]*
+
 ## Mentioned In
 - [[ActingProgramDirector_1990_03_29]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -212,3 +215,4 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[FishMonitoringOfPalmLakeHassay_16635]]
+- [[FyReportingAndAccounting_21020]]

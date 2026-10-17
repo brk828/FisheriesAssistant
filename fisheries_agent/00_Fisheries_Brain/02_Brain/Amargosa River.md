@@ -23,6 +23,12 @@ The Amargosa River is a closed-basin desert stream system in the Death Valley re
 > This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
 > -- *[[FishesAndAquaticResourcesOfThe_15407]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[EndangeredPupfishOfDevilsHoleG_11403]]
@@ -30,3 +36,5 @@ The Amargosa River is a closed-basin desert stream system in the Death Valley re
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[FishesAndAquaticResourcesOfThe_15407]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[DraftDayFindingForDesertFishes_20489]]

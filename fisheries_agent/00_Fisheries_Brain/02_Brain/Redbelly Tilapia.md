@@ -23,6 +23,9 @@ Redbelly Tilapia is a cichlid species that appears in aquatic monitoring studies
 > This report documents fish community monitoring conducted by Arizona State University at the **ASU Research Park (ASURP)** lakes in Tempe, Arizona, on 19–20 September 1989, using overnight trammel netting and shoreline seining. The study is part of an ongoing conservation monitoring effort focuse...
 > -- *[[SamplingAtAsuResearchParkSepte_19436]]*
 
+> Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
+> -- *[[SamplingAtAsuResearchParkAutum_19458]]*
+
 ## Mentioned In
 - [[AsuResearchParkYoungOfYearFish_1993_08_02]]
 - [[FishSamplingAtAsuResearchParkA_19405]]
@@ -31,3 +34,4 @@ Redbelly Tilapia is a cichlid species that appears in aquatic monitoring studies
 - [[SamplingAtAsuResearchParkMay_1990_05_18]]
 - [[SamplingAtAsuResearchParkOctob_1990_10_16]]
 - [[SamplingAtAsuResearchParkSepte_19436]]
+- [[SamplingAtAsuResearchParkAutum_19458]]

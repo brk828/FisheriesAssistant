@@ -26,8 +26,12 @@ The Rio Conchos is a major tributary of the Rio Grande located in the Mexico-Tex
 > This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
 > -- *[[DistributionalAndLocalVernacul_13815]]*
 
+> This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
+> -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[CorrespondenceReCollectionLoca_1964_04_07]]
 - [[FishesInhabitingTheRioGrandeTe_1977_07_09]]
 - [[DistributionalAndLocalVernacul_13815]]
+- [[TaxonomicStatusEcologyAndDistr_14514]]

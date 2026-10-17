@@ -68,6 +68,21 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 > This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
 > -- *[[SummaryjanuaryManagementGroupM_21002]]*
 
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
+> On April 10, 1990, the U.S. Fish and Wildlife Service issued a draft jeopardy biological opinion regarding the [[Animas-La Plata]] irrigation project in southwest Colorado and northeast New Mexico. The opinion concludes that construction of the project would likely jeopardize the continued...
+> -- *[[FishAndWildlifeServiceIssuesDr_20983]]*
+
+> This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
+> -- *[[FyReportingAndAccounting_21020]]*
+
 ## Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -106,3 +121,8 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 - [[LetterOnImplementationCommitte_11623]]
 - [[LongtermLimnologicalAndWaterQu_17092]]
 - [[SummaryjanuaryManagementGroupM_21002]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[ManagementGroupMeetingSummary_19219]]
+- [[FishAndWildlifeServiceIssuesDr_20983]]
+- [[FyReportingAndAccounting_21020]]

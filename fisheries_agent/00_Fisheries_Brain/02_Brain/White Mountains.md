@@ -26,6 +26,9 @@ The White Mountains refers to a mountain range in east-central Arizona that serv
 > This January 1990 letter from Dr. John N. Rinne (USFS Rocky Mountain Forestry Sciences Lab) to Jim Hanson (USFWS Pinetop) discusses electrophoretic genetic studies of [[Apache Trout]] populations in the [[White Mountains]] and their implications for conservation management. Rinne compares recent...
 > -- *[[ReTheElectrophoreticStudyOfWhi_14999]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
 ## Mentioned In
 - [[ColdwaterFishStockingAndNative_1995]]
 - [[CommentsOnTheEnvironmentalAsse_1990]]
@@ -34,3 +37,4 @@ The White Mountains refers to a mountain range in east-central Arizona that serv
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[ReTheElectrophoreticStudyOfWhi_14999]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]

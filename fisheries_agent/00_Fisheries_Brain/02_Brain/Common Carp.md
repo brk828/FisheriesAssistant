@@ -74,6 +74,15 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 > This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
 > -- *[[ExecutiveSummariescoloradoRive_19604]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
+> -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -234,3 +243,6 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 - [[ConservationOfNativeFreshwater_15444]]
 - [[CommentsOnTheBiologicalOpinion_17166]]
 - [[ExecutiveSummariescoloradoRive_19604]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[ProjectVelaUniformLakeMeadTest_20812]]

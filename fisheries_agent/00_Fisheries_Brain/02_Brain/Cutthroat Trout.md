@@ -38,6 +38,12 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 > This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
 > -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
 
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
+> This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
+> -- *[[SummaryStatementOfInsightsFrom_20854]]*
+
 ## Mentioned In
 - [[APopulationOfDwarfCoastrangeSc_1960]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -97,3 +103,5 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[MrRosenfeldHadNoPartInThePlann_12044]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[SummaryStatementOfInsightsFrom_20854]]

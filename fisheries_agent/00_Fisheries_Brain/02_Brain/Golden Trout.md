@@ -29,6 +29,9 @@ Golden Trout (Oncorhynchus aguabonita) is a high-elevation salmonid species nati
 > This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
 > -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
 
+> This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
+> -- *[[SummaryStatementOfInsightsFrom_20854]]*
+
 ## Mentioned In
 - [[AGrowthStudyAndBloodProteinAna_15288]]
 - [[APilgrimSProgressFromGroupAToG_1987]]
@@ -38,3 +41,4 @@ Golden Trout (Oncorhynchus aguabonita) is a high-elevation salmonid species nati
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[SummaryStatementOfInsightsFrom_20854]]

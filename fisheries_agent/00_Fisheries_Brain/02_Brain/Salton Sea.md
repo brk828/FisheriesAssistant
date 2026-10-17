@@ -59,6 +59,9 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
+> -- *[[MinutesDesertFishesRecoveryTea_13749]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[BenthicInvertebratesOfTheEarth_1983]]
@@ -86,3 +89,4 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
 - [[GeneticVariationInDesertPupfis_15731]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[MinutesDesertFishesRecoveryTea_13749]]

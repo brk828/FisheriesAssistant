@@ -20,7 +20,11 @@ Astyanax mexicanus is a small characin fish native to Mexico that has become a s
 > **San Antonio River (spring run, sampled Nov. 18, 1977):** - 17 total fish species; 11 likely native (*Notropis lutrensis, N. amabilis, N. volucellus, Ictalurus natalis, Gambusia affinis, Micropterus salmoides, Lepomis gulosus, L. cyanellus, L. megalotis, L. punctatus, L. macrochirus*). - **[[Ast...
 > -- *[[SurvivalAndAbundanceOfIntroduc_14259]]*
 
+> This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
+> -- *[[GeneticDifferentiationAmongSub_18497]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[LetterToRayVaughnOpposingRestr_1973_04_13]]
 - [[SurvivalAndAbundanceOfIntroduc_14259]]
+- [[GeneticDifferentiationAmongSub_18497]]

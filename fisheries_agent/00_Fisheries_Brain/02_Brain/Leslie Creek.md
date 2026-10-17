@@ -26,6 +26,9 @@ Leslie Creek is a tributary of Whitewater Draw within the Rio Yaqui drainage sys
 > This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
 > -- *[[DraftRecoveryPlanForTheEndange_15977]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[IntraServiceBiologicalAndConfe_1998_04_14]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
@@ -36,3 +39,4 @@ Leslie Creek is a tributary of Whitewater Draw within the Rio Yaqui drainage sys
 - [[FieldNotesOfTripToSanBernardin_13172]]
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
+- [[ReportToTheDesertFishesCouncil_13683]]

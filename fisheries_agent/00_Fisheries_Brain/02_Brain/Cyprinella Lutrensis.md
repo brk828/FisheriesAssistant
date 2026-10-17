@@ -14,8 +14,12 @@ Cyprinella lutrensis, commonly known as the Red Shiner, is a small-bodied cyprin
 > - ***Notropis simus simus*** is considered functionally **extinct** in the Rio Grande drainage of New Mexico, with no successful detections despite recent intensive surveys; last verified record dates to 1964. - Listed as **State Endangered, Group I** in New Mexico (24 January 1975) and placed un...
 > -- *[[NotropisSimusSimusCopeRioGrand_1990]]*
 
+> This document is a peer review letter dated 26 July 1989 from a U.S. Fish and Wildlife Service Fishery Management Biologist to Dr. Dean Hendrickson regarding a draft report by Marsh et al. on interactions between threatened [[Spikedace]] ([[Meda fulgida]]) and introduced [[Red Shiner]]...
+> -- *[[ReviewOfTheDraftReportEntitled_12980]]*
+
 ## Mentioned In
 - [[LetterToWLMinckleyRegardingSpi_1987_03_27]]
 - [[NotesFromAugustMeetingOnFishBa_1994_09_28]]
 - [[NotropisSimusSimusCopeRioGrand_1990]]
 - [[TheAsianFishTapewormBothriocep_1993]]
+- [[ReviewOfTheDraftReportEntitled_12980]]

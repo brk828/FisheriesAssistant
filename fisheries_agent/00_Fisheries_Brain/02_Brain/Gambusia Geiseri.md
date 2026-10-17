@@ -23,7 +23,11 @@ Gambusia geiseri is a species of livebearing mosquitofish in the family Poecilii
 > - **53 total fish species** documented for the Pecos River, with *Morone chrysops* noted as an introduced addition to the native fauna count. - **New species description**: *[[Ictalurus Chihuahua]]* n. sp. is introduced in this checklist within [[Ictaluridae]]. - **Conservation status flags** app...
 > -- *[[ChecklistOfPecosRiverAndMexica_18282]]*
 
+> This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
+> -- *[[GeneticDifferentiationAmongSub_18497]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[CopulatoryFunctionOfTheModifie_14265]]
+- [[GeneticDifferentiationAmongSub_18497]]

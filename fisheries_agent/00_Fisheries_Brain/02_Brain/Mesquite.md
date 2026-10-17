@@ -14,6 +14,10 @@ auto_enriched: true
 > The [[Pima Pineapple Cactus]] (*Coryphantha scheeri* var. *robustispina*) was listed as endangered by the [[US Fish and Wildlife Service]] in October 1993. This rare [[Sonoran Desert]] species occurs in a restricted range from south [[Tucson]] to south of [[Nogales]], [[Mexico]]. The [[National...
 > -- *[[EndangeredCactusOffersNbsOppor_13220]]*
 
+> This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
+> -- *[[MasterPlanForBuenosAiresWildli_13323]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
+- [[MasterPlanForBuenosAiresWildli_13323]]

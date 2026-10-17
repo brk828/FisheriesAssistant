@@ -23,9 +23,13 @@ The Apache-Sitgreaves National Forests represent a critical landscape for the co
 > - **Habitat type:** Constructed freshwater marsh wetlands fed by treated municipal wastewater effluent, situated within a broader landscape dominated by [[Ponderosa Pine]] forest (41%), Pinyon-Juniper (38%), Spruce-Fir/Mixed Conifer (10%), Grassland (10%), Aspen (6%), and minor riparian habitat, ...
 > -- *[[IfReleasedIntoLocalStreams_11974]]*
 
+> This biological opinion, issued April 21, 1995, addresses emergency and follow-up repair of flood damage to a low-water ford crossing of the [[Blue River]] on Forest Road 475 in the [[Apache-Sitgreaves National Forests]], [[Greenlee County]], [[Arizona]]. The U.S. Forest Service (lead agency) and...
+> -- *[[SummaryBiologicalOpinionForRep_11720]]*
+
 ## Mentioned In
 - [[ChallengeCostShareAgreementBet_1993_09_15]]
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
 - [[IfReleasedIntoLocalStreams_11974]]
 - [[LetterConcurringOnTenneyTimber_1994_07_22]]
 - [[TripReportBlueRiverDecember_1994_12_16]]
+- [[SummaryBiologicalOpinionForRep_11720]]

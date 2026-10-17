@@ -1,0 +1,19 @@
+---
+type: concept
+---
+# Greenlee County
+
+## Summary
+Greenlee County is a county in Arizona that contains portions of the Blue River system. This biological opinion addresses ford repair work on the Blue River within Greenlee County, in an area that provides habitat for the threatened Loach Minnow and falls within the species' designated critical habitat.
+
+## Context
+
+> This biological opinion, issued April 21, 1995, addresses emergency and follow-up repair of flood damage to a low-water ford crossing of the [[Blue River]] on Forest Road 475 in the [[Apache-Sitgreaves National Forests]], [[Greenlee County]], [[Arizona]]. The U.S. Forest Service (lead agency) and...
+> -- *[[SummaryBiologicalOpinionForRep_11720]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+## Mentioned In
+- [[SummaryBiologicalOpinionForRep_11720]]
+- [[BiologicalOpinionToRepairErosi_11916]]

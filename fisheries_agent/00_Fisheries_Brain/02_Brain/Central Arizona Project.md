@@ -59,6 +59,15 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 > This correspondence from the [[Bureau of Reclamation]] (March 18, 1988) responds to a request for federal support of [[Conner Dam]] construction on the [[Gila River]] in New Mexico as part of the [[Central Arizona Project]]. The Bureau declined further consideration, citing economic infeasibility...
 > -- *[[ConnerDamAsPartOfCentralArizon_19170]]*
 
+> This document announces public meetings (April 14-17, 1986) regarding the Bureau of Reclamation's Upper Gila Water Supply Study and selection of a proposed action for the Draft Environmental Impact Statement. The study evaluates six alternative plans (including a "No Federal Action" option) to...
+> -- *[[PublicMeetingsAnnoucnementAndP_11475]]*
+
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
+> This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
+> -- *[[BureauOfReclamationsFailureToR_18964]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -91,3 +100,6 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
 - [[ConnerDamAsPartOfCentralArizon_19170]]
+- [[PublicMeetingsAnnoucnementAndP_11475]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[BureauOfReclamationsFailureToR_18964]]

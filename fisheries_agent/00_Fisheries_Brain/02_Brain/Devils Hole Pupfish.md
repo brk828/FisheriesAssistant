@@ -29,6 +29,9 @@ The Devils Hole Pupfish (*Cyprinodon diabolis*) is an extremely endangered cypri
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
@@ -61,3 +64,4 @@ The Devils Hole Pupfish (*Cyprinodon diabolis*) is an extremely endangered cypri
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[DraftDayFindingForDesertFishes_20489]]

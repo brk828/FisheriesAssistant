@@ -14,8 +14,12 @@ The New Mexico Game and Fish Department is a state wildlife management agency re
 > - **System studied:** [[Gila River]] drainage, spanning portions of **Arizona** and **New Mexico**, a major tributary system of the [[Colorado River Basin]]. - **Conservation designation:** Segments of the Gila River system are recognized as "**biosphere reserve**" projects by [[The Nature Conser...
 > -- *[[StatusReportGilaRiverWatershed_17809]]*
 
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
 ## Mentioned In
 - [[CorrespondenceOnSpikedaceLoach_1987_11_30]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
 - [[InterstateinternationalStockin_17947]]
 - [[StatusReportGilaRiverWatershed_17809]]
+- [[FurtherInformationOnTheSpikeda_13737]]

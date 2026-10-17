@@ -119,6 +119,36 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
+> An experimental [[Razorback Sucker]] hatchery was established in 1987 at [[Ouray National Wildlife Refuge]] to evaluate streamside spawning and rearing techniques for this endangered species. The facility consisted of three 1/10 acre ponds and a building with incubators and rearing tanks. From...
+> -- *[[OurayRazorbackHatcherySummary_13377]]*
+
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
+> -- *[[MinutesDesertFishesRecoveryTea_13749]]*
+
+> This letter from an Arizona State University zoologist to the U.S. Fish and Wildlife Service, dated July 20, 1990, provides expert commentary on the proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as endangered under the Endangered Species Act. While strongly supporting the...
+> -- *[[SupportForListingTheRazorbackS_13791]]*
+
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
+> This study examines mitochondrial DNA (mtDNA) diversity in the endangered [[Razorback Sucker]] (*Xyrauchen texanus*), a large catostomid endemic to the [[Colorado River]] drainage. Researchers analyzed genetic variation in a source population from [[Lake Mohave]] (Arizona-Nevada) and three...
+> -- *[[MitochondrialDnaVariabilityInT_19125]]*
+
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -278,3 +308,13 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[DraftRecoveryPlanForTheEndange_15977]]
 - [[LowerColoradoRiverBasinManagem_18433]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[StatusReportForNaturalAndIntro_12972]]
+- [[OurayRazorbackHatcherySummary_13377]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[MinutesDesertFishesRecoveryTea_13749]]
+- [[SupportForListingTheRazorbackS_13791]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[MitochondrialDnaVariabilityInT_19125]]
+- [[BonytailReintroductionPlanForT_20248]]

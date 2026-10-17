@@ -59,6 +59,18 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This comprehensive report by Dr. C. M. McCay documents experimental work on trout nutrition conducted at the [[Connecticut State Hatchery]] at Burlington and the [[Cortland Experimental Hatchery]] in New York from 1927-1934. The research, representing cooperation between the New York State...
+> -- *[[ObservationsOnTheNutritionOfTr_12259]]*
+
+> This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
+> -- *[[TheMaineSmallmouth_14928]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
+> This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
+> -- *[[SummaryStatementOfInsightsFrom_20854]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -145,3 +157,7 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[DecliningSouthwesternAquaticHa_15002]]
 - [[TroutRestorationInTheAdirondac_20206]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[ObservationsOnTheNutritionOfTr_12259]]
+- [[TheMaineSmallmouth_14928]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[SummaryStatementOfInsightsFrom_20854]]

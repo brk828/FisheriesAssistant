@@ -26,6 +26,9 @@ The Beautiful Shiner is a small freshwater fish species endemic to the Rio Yaqui
 > This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
 > -- *[[EvaluationsAndSuggestionsConce_16480]]*
 
+> This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
+> -- *[[AuthorizationToUseTheRegionalD_15706]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -53,3 +56,4 @@ The Beautiful Shiner is a small freshwater fish species endemic to the Rio Yaqui
 - [[SpeciesResponsibilit_1992_12_25]]
 - [[SpeciesResponsibilitiesOfDeser_1989_12_07]]
 - [[EvaluationsAndSuggestionsConce_16480]]
+- [[AuthorizationToUseTheRegionalD_15706]]

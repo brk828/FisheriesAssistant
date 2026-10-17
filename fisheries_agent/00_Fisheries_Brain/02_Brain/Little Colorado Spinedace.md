@@ -35,6 +35,9 @@ The Little Colorado Spinedace (*Lepidomeda vittata*) is a small endemic cyprinid
 > This paper examines the dramatic decline of aquatic habitats and native fishes in the arid American Southwest over the past half century. Physical habitat changes from dams, diversions, channelization, and stream drying, combined with extensive introduction of non-native fish species, have severely...
 > -- *[[DecliningSouthwesternAquaticHa_15002]]*
 
+> This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
+> -- *[[AuthorizationToUseTheRegionalD_15706]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -68,3 +71,4 @@ The Little Colorado Spinedace (*Lepidomeda vittata*) is a small endemic cyprinid
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[DecliningSouthwesternAquaticHa_15002]]
+- [[AuthorizationToUseTheRegionalD_15706]]

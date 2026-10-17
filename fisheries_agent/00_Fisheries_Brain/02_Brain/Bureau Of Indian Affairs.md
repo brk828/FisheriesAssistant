@@ -29,6 +29,9 @@ The Bureau of Indian Affairs, in the context of fish science and aquatic conserv
 > The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
 > -- *[[LowerColoradoRiverMultispecies_11766]]*
 
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[InteragencySouthwestStrategyFo_1997_11_12]]
@@ -40,3 +43,4 @@ The Bureau of Indian Affairs, in the context of fish science and aquatic conserv
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
 - [[LowerColoradoRiverMultispecies_11766]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]

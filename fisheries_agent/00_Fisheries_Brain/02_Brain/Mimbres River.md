@@ -26,6 +26,9 @@ The Mimbres River is a river system located in Luna County, New Mexico that hist
 > This document contains specific review comments on a recovery plan for an endangered chub species in the [[Mimbres River]] system. The reviewers provide detailed feedback on distribution mapping, habitat assessment, reasons for population decline, and conservation strategies. Key concerns include...
 > -- *[[CommentsOnTheChihuahuaChubReco_13915]]*
 
+> Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
+> -- *[[MinutesDesertFishesRecoveryTea_13749]]*
+
 ## Mentioned In
 - [[LetterOnRecoveryRecommendation_1986_10_21]]
 - [[LetterRegardingChihuahuaChubRe_1987_12_30]]
@@ -35,3 +38,4 @@ The Mimbres River is a river system located in Luna County, New Mexico that hist
 - [[SiteAndLandscapescaleEstimates_2026]]
 - [[TaxonomicStatusEcologyAndDistr_15409]]
 - [[CommentsOnTheChihuahuaChubReco_13915]]
+- [[MinutesDesertFishesRecoveryTea_13749]]

@@ -74,6 +74,15 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
 > -- *[[ExecutiveSummariescoloradoRive_19604]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This internal memorandum provides critical review of a U.S. Fish and Wildlife Service Environmental Assessment (EA) proposing rotenone treatment of the [[Virgin River]] to eradicate introduced [[Red Shiner]] (*Cyprinella lutrensis*) and facilitate recovery of the endangered [[Woundfin]]...
+> -- *[[CommentsOnVirginRiverEa_19382]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -148,3 +157,6 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[AllozymicVariationAndSystemati_12782]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
 - [[ExecutiveSummariescoloradoRive_19604]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[CommentsOnVirginRiverEa_19382]]

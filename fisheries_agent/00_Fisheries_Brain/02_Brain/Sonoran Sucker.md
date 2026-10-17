@@ -32,6 +32,9 @@ The Sonoran Sucker (Catostomus insignis) is a native cyprinid fish species endem
 > This report documents the status, distribution, and habitat use of native fish species in [[Bass Creek]] and [[Hotsprings Creek]] within the [[Muleshoe Preserve]], Arizona, based on surveys conducted in January, March, and June 1987. The study area comprises 18 km of perennial stream in the [[Gila...
 > -- *[[AReportToTheArizonaNatureConse_15171]]*
 
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
 ## Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -45,3 +48,4 @@ The Sonoran Sucker (Catostomus insignis) is a native cyprinid fish species endem
 - [[RazorbackSuckerMonitoringEffor_13702]]
 - [[DraftdistributionAndIncidenceO_12207]]
 - [[AReportToTheArizonaNatureConse_15171]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]

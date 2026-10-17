@@ -23,6 +23,12 @@ Crayfish are freshwater decapod crustaceans that serve as important components o
 > This 1940 study by B.L. Wickliff (Ohio Division of Conservation and Natural Resources) presents one of the earliest quantitative assessments of natural forage fish and crayfish productivity in stream riffles, conducted as part of a WPA-funded stream research project on [[Blacklick Creek]], Ohio. ...
 > -- *[[NaturalProductivityOfFishAndCr_1940]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
+> This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
+> -- *[[TheMaineSmallmouth_14928]]*
+
 ## Mentioned In
 - [[A New Material for Marking Kordite Line and Various Animals]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -36,3 +42,5 @@ Crayfish are freshwater decapod crustaceans that serve as important components o
 - [[RadioactiveMaterialsInAquaticA_13967]]
 - [[TheBullfrogRanaCatesbeianaShaw_1986]]
 - [[TrophicInterrelationsAmongIntr_1982]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[TheMaineSmallmouth_14928]]

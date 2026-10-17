@@ -23,9 +23,13 @@ The Owens Sucker (*Catostomus* sp.) is a cyprinid fish species endemic to the Ow
 > - **[[Devils Hole Pupfish]]** (*Cyprinodon diabolis*) — restricted to [[Devils Hole]], with a small transplanted refuge population near [[Hoover Dam]]. - **[[Pahrump Killifish]]** (*Empetrichthys latos*) — maintained via refugium ponds at [[Corn Creek]], an aquarium population at UNLV, and histor...
 > -- *[[FourthAnnualMeetingDeathValley_11111]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[FourthAnnualMeetingDeathValley_11111]]
 - [[GeneticsMorphologyAndSystemati_19379]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]

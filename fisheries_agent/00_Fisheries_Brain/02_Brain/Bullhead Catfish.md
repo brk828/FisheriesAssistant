@@ -14,7 +14,11 @@ Bullhead catfish (Ictalurus species, including black bullhead, yellow bullhead, 
 > **Community composition observed via minnow-seine sampling:** - [[Largemouth Bass]] and [[Bluegill Sunfish]] were the dominant/near-universal species (present in >80% of ponds examined; other species found in <20% of ponds). - Secondary species included [[White Crappie]] and [[Green Sunfish]] (mo...
 > -- *[[CatalogingOfSmallImpoundmentOf_12167]]*
 
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
 ## Mentioned In
 - [[AnglingSuccessAndSeasonalDistr_14152]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[CatalogingOfSmallImpoundmentOf_12167]]
+- [[FurtherInformationOnTheSpikeda_13737]]

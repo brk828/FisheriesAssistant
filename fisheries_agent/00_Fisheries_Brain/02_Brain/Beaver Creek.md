@@ -26,9 +26,13 @@ Beaver Creek represents a significant study site in Kentucky ichthyological rese
 > **Taxonomic & Life-History Summary**: Two non-native centrarchid species are documented. [[Redeye Bass]] (*Micropterus coosae*) reaches maximum size about 19 in (47 cm). [[Smallmouth Bass]] (*Micropterus dolomieu*) is thick and chunky with large mouth, upper jaw extending almost to rear margin of...
 > -- *[[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]*
 
+> The U.S. Environmental Protection Agency (EPA) Region IX and U.S. Army Corps of Engineers (Corps) conducted an Advanced Identification (ADID) project for the [[Verde River]] in Arizona under Section 404 of the Clean Water Act. This document announces public workshops (April 25-26, 1994) to discuss...
+> -- *[[VerdeRiverAdvancedIdentificati_11367]]*
+
 ## Mentioned In
 - [[EffectsOfStripMiningOnSmallStr_1972_02_29]]
 - [[FishDistributionAndAbundanceCo_1942]]
 - [[TheGrowthRatesOfSomeKentuckyFi_13369]]
 - [[TheVertebratesOfArizona_1964]]
 - [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
+- [[VerdeRiverAdvancedIdentificati_11367]]

@@ -17,9 +17,13 @@ Lake herring (*Coregonus artedii*), also known as cisco, is a small coregonine s
 > - **Body form:** Slender, silvery fish with a translucent greenish back; body shape resembles the [[Lake Herring]] - **Scales:** Thin, moderately large, easily dislodged ("rubbed off") - **Fins:** Deeply-forked caudal (tail) fin; small fatty [[Adipose Fin]] located behind the dorsal fin - **Head/...
 > -- *[[TheSmeltOsmerusMordaxMitchill_13092]]*
 
+> This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
+> -- *[[ReviewOfPotentialForageFishInt_19139]]*
+
 ## Mentioned In
 - [[ChangesInAnExploitedPopulation_1967]]
 - [[InfluenceOfTurbidInflowsOnVert_1984]]
 - [[LifeHistoryVariationsInPopulat_16023]]
 - [[TheAgeAndGrowthOfTheSilverjawM_14844]]
 - [[TheSmeltOsmerusMordaxMitchill_13092]]
+- [[ReviewOfPotentialForageFishInt_19139]]

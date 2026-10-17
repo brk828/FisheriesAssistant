@@ -29,6 +29,9 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
+> -- *[[MovementsOfInlandAnglersWithin_11325]]*
+
 ## Mentioned In
 - [[AsuProfsStudyEndangeredFishes_12227]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
@@ -42,3 +45,4 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 - [[TheSportFisheryOfTenkillerFerr_16926]]
 - [[AnEconomicStudyOfTheProcessing_15621]]
 - [[WhatHaveICaught_12929]]
+- [[MovementsOfInlandAnglersWithin_11325]]

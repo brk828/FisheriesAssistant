@@ -47,6 +47,15 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This technical report presents a comprehensive baseline study of the [[Desert Pupfish]] (*Cyprinodon macularius*) population at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona, conducted from March 1975 to August 1976. The study documented population demography,...
+> -- *[[PreliminaryStudyOfTheDesertPup_12499]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This document comprises Pima County, Arizona's Resolution No. 1998-250 establishing the [[Sonoran Desert Conservation Plan]] (SDCP), correspondence soliciting expert input on species selection, and a preliminary species list for multi-species habitat conservation planning. Passed December 3, 1998,...
+> -- *[[AResolutionOfTheBoardOfSupervi_18593]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[CorrespondenceRegardingDesertF_12709]]
@@ -85,3 +94,6 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[AReportToTheArizonaNatureConse_15171]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[PreliminaryStudyOfTheDesertPup_12499]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[AResolutionOfTheBoardOfSupervi_18593]]

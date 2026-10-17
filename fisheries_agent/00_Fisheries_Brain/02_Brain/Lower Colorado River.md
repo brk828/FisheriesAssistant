@@ -77,6 +77,12 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 > This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
 > -- *[[CommentsOnTheBiologicalOpinion_17166]]*
 
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
+> -- *[[IntroductionOfPalaemonetesPalu_20723]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
@@ -162,3 +168,5 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 - [[CommentsOnBiologicalAndConfere_11800]]
 - [[ABasicSurveyOfWatersInDistrict_14982]]
 - [[CommentsOnTheBiologicalOpinion_17166]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[IntroductionOfPalaemonetesPalu_20723]]

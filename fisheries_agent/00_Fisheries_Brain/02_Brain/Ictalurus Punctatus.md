@@ -38,6 +38,15 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 > This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
 > -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
 
+> This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
+> -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
+
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
+> The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
+> -- *[[IntroductionOfPalaemonetesPalu_20723]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[ChecklistOfParasitesFromCatfis_1959]]
@@ -54,3 +63,6 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
+- [[TaxonomicStatusEcologyAndDistr_14514]]
+- [[LiteratureReviewAndImpactRepor_14988]]
+- [[IntroductionOfPalaemonetesPalu_20723]]

@@ -11,5 +11,9 @@ The Las Vegas Dace (Rhinichthys sp.) is an extinct species of dace that was nati
 > This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
 > -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
 
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
 ## Mentioned In
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[DraftDayFindingForDesertFishes_20489]]

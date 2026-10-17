@@ -62,6 +62,21 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
 > -- *[[SummaryjanuaryManagementGroupM_21002]]*
 
+> This February 1988 letter from Harold M. Tyus (USFWS Colorado River Fish Project Leader) to Randy D. Radant (Utah Division of Wildlife Resources) provides critical review of two draft reports by Mark J. Rosenfeld examining the systematics of [[Gila]] species in the [[Colorado River Basin]]. Tyus...
+> -- *[[CommentsOnMRosenfeldsGilaTaxon_13067]]*
+
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
+> On April 10, 1990, the U.S. Fish and Wildlife Service issued a draft jeopardy biological opinion regarding the [[Animas-La Plata]] irrigation project in southwest Colorado and northeast New Mexico. The opinion concludes that construction of the project would likely jeopardize the continued...
+> -- *[[FishAndWildlifeServiceIssuesDr_20983]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -125,3 +140,8 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[ReceivedNoticeOnRazorbackSucke_12078]]
 - [[StreamflowNeedsOfRareAndEndang_14141]]
 - [[SummaryjanuaryManagementGroupM_21002]]
+- [[CommentsOnMRosenfeldsGilaTaxon_13067]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[ManagementGroupMeetingSummary_19219]]
+- [[BonytailReintroductionPlanForT_20248]]
+- [[FishAndWildlifeServiceIssuesDr_20983]]

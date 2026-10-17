@@ -65,6 +65,18 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 > This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
 > -- *[[ExecutiveSummariescoloradoRive_19604]]*
 
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
+> -- *[[ReviewOfPotentialForageFishInt_19139]]*
+
+> Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
+> -- *[[SamplingAtAsuResearchParkAutum_19458]]*
+
+> In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
+> -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -148,3 +160,7 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 - [[ABasicSurveyOfWatersInDistrict_14982]]
 - [[InvestigationsOfCommercialFish_18562]]
 - [[ExecutiveSummariescoloradoRive_19604]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[ReviewOfPotentialForageFishInt_19139]]
+- [[SamplingAtAsuResearchParkAutum_19458]]
+- [[ProjectVelaUniformLakeMeadTest_20812]]

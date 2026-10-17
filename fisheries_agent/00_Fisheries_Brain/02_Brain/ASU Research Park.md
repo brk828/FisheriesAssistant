@@ -17,6 +17,9 @@ The ASU Research Park is an experimental facility in central Arizona that served
 > This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
 > -- *[[PalmLakenativeFishStatus_20905]]*
 
+> Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
+> -- *[[SamplingAtAsuResearchParkAutum_19458]]*
+
 ## Mentioned In
 - [[AsuResearchParkYoungOfYearFish_1993_08_02]]
 - [[ColoradoSquawfishAndBonytailCh_1986_10_08]]
@@ -28,3 +31,4 @@ The ASU Research Park is an experimental facility in central Arizona that served
 - [[TripReportForTheJulySurveyOfTh_1994_09_01]]
 - [[TripReportForTheSeptemberSurve_1996_09_15]]
 - [[PalmLakenativeFishStatus_20905]]
+- [[SamplingAtAsuResearchParkAutum_19458]]

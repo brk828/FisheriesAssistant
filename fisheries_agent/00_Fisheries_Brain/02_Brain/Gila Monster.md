@@ -20,6 +20,10 @@ auto_enriched: true
 > This document is a compilation of inter-office memoranda from multiple [[Arizona Game and Fish Department]] regional supervisors, law enforcement officers, and wildlife managers responding to a petition for rule change that would allow captive propagation and commercial sale of native [[Arizona]]...
 > -- *[[SeriesOfInterofficeMemosJulyAr_17328]]*
 
+> This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
+> -- *[[PlanningEffortNearItsConclusio_11515]]*
+
 ## Mentioned In
 - [[PetitionForNewRuleOnCaptivePro_1994_07_08]]
 - [[SeriesOfInterofficeMemosJulyAr_17328]]
+- [[PlanningEffortNearItsConclusio_11515]]

@@ -14,7 +14,11 @@ Bitter Lake National Wildlife Refuge is a critical conservation area located in 
 > - **Historical Range**: - Pecos River mainstream from [[Bitter Lake National Wildlife Refuge]] and [[Bottomless Lakes State Park]] (near Roswell, Chaves County, NM) downstream ~650 km (404 mi) to the mouth of Independence Creek near Sheffield, Pecos County, TX - Associated gypsum sinkholes, salin...
 > -- *[[EndangeredAndThreatenedWildlif_1998_01_30]]*
 
+> This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
+> -- *[[GeneticDifferentiationAmongSub_18497]]*
+
 ## Mentioned In
 - [[ConservationAgreementForThePec_1998]]
 - [[EndangeredAndThreatenedWildlif_1998_01_30]]
 - [[GrantAgreementBetweenUSFishAnd_11765]]
+- [[GeneticDifferentiationAmongSub_18497]]

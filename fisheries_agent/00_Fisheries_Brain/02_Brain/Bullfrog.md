@@ -26,6 +26,15 @@ In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates cates
 > This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
 > -- *[[TechnicalReviewDraftPahranagat_13301]]*
 
+> The [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*) is a threatened subspecies of cyprinid fish endemic to [[Meadow Valley Wash]] in [[Lincoln County]], Nevada. The only extant population occupies a 5-mile section of stream through [[Condor Canyon]], making it extremely vulnerable to...
+> -- *[[BigSpringSpinedaceLepidomedaMo_11635]]*
+
+> This U.S. Fish and Wildlife Service biological opinion, issued December 1, 1989, evaluates a Bureau of Land Management proposal to stock endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into two spring systems in Graham County, Arizona that already support populations of...
+> -- *[[BiologicalOpinionStockingOfDes_11850]]*
+
+> This draft recovery plan for the [[Warm Springs Pupfish]] (*Cyprinodon nevadensis pectoralis*) was prepared by an interagency recovery team in April 1976. The subspecies is one of six described forms of *C. nevadensis*, with two already extinct. *C. n. pectoralis* has the most localized...
+> -- *[[WarmSpringsPupfish_13288]]*
+
 ## Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[FoodsOfImpoundmentAndStreamDwe_1963]]
@@ -35,3 +44,6 @@ In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates cates
 - [[SamplingOfTheSanCarlosIrrigati_11695]]
 - [[TheBullfrogRanaCatesbeianaShaw_1986]]
 - [[TechnicalReviewDraftPahranagat_13301]]
+- [[BigSpringSpinedaceLepidomedaMo_11635]]
+- [[BiologicalOpinionStockingOfDes_11850]]
+- [[WarmSpringsPupfish_13288]]

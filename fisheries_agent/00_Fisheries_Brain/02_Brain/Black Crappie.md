@@ -62,6 +62,15 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 > This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
 > -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This 1953 report documents severe fishery losses resulting from [[Bureau of Reclamation]] channelization of the lower [[Colorado River]] between [[Needles]] and [[Topock]], California. Between 1936-1938, completion of [[Hoover Dam]], [[Parker Dam]], and [[Imperial Dam]] created favorable conditions...
+> -- *[[EffectOfChannelizationOnTheFis_18139]]*
+
+> The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
+> -- *[[IntroductionOfPalaemonetesPalu_20723]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -139,3 +148,6 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 - [[WhatHaveICaught_12929]]
 - [[ABasicSurveyOfWatersInDistrict_14982]]
 - [[OutlineOfSanBernardinoRanchMan_20829]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[EffectOfChannelizationOnTheFis_18139]]
+- [[IntroductionOfPalaemonetesPalu_20723]]

@@ -20,6 +20,9 @@ Diptera is an order of insects that includes flies and midges, which are ecologi
 > This study confirms that [[Simulium ornatum]] var. nitidifrons, a blackfly species from a chalk stream near [[Romsey]], [[Hampshire]], undergoes six larval instars before pupation. Larvae were reared from field-collected eggs in laboratory apparatus. Instars were distinguished by measuring...
 > -- *[[TheInstarsOfSimuliumOrnatumVar_20678]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[FoodHabitsOfTheYellowBassRoccu_1963]]
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
@@ -27,3 +30,4 @@ Diptera is an order of insects that includes flies and midges, which are ecologi
 - [[TitleClearDateStuttgartMarzYea_13338]]
 - [[WinterObservationsOnBottomOrga_16187]]
 - [[TheInstarsOfSimuliumOrnatumVar_20678]]
+- [[LiteratureReviewAndImpactRepor_14988]]

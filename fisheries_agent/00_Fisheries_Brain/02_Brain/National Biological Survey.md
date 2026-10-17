@@ -32,6 +32,9 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 > The [[Pima Pineapple Cactus]] (*Coryphantha scheeri* var. *robustispina*) was listed as endangered by the [[US Fish and Wildlife Service]] in October 1993. This rare [[Sonoran Desert]] species occurs in a restricted range from south [[Tucson]] to south of [[Nogales]], [[Mexico]]. The [[National...
 > -- *[[EndangeredCactusOffersNbsOppor_13220]]*
 
+> The BIOTA (Biodiversity Team Assessment) Project is a collaborative proposal developed in 1993 by representatives from the [[Arizona Game and Fish Department]], [[Arizona Association of Conservation Districts]], [[Arizona Gap Analysis Program]], [[The Nature Conservancy]], and the [[U.S. Fish and...
+> -- *[[AProposedDemonstrationModelToI_17636]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -46,3 +49,4 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[AnEcosystemApproachToFishAndWi_11650]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
+- [[AProposedDemonstrationModelToI_17636]]

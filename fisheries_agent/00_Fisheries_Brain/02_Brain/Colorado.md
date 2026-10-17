@@ -41,6 +41,9 @@ The Colorado River, in the context of fish science and conservation, refers to a
 > This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
 > -- *[[UnitedStatesListOfEndangeredFa_11533]]*
 
+> This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
+> -- *[[SummaryStatementOfInsightsFrom_20854]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
@@ -52,3 +55,4 @@ The Colorado River, in the context of fish science and conservation, refers to a
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[NorthForkOfSouthPlatteMultiple_16595]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
+- [[SummaryStatementOfInsightsFrom_20854]]

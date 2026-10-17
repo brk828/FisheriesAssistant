@@ -38,6 +38,15 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 > This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
 > -- *[[ConcernsAboutIntroductionOfRai_13174]]*
 
+> The [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*) is a threatened subspecies of cyprinid fish endemic to [[Meadow Valley Wash]] in [[Lincoln County]], Nevada. The only extant population occupies a 5-mile section of stream through [[Condor Canyon]], making it extremely vulnerable to...
+> -- *[[BigSpringSpinedaceLepidomedaMo_11635]]*
+
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
 ## Mentioned In
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -58,3 +67,6 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
 - [[MrRosenfeldHadNoPartInThePlann_12044]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
+- [[BigSpringSpinedaceLepidomedaMo_11635]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[DraftDayFindingForDesertFishes_20489]]

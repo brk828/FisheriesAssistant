@@ -44,6 +44,15 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 > This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
 > -- *[[SummaryjanuaryManagementGroupM_21002]]*
 
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -66,3 +75,6 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 - [[AsuCostProposalForGilaTaxonomy_18173]]
 - [[MeetingToDiscussProgramGoalsSt_19639]]
 - [[SummaryjanuaryManagementGroupM_21002]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[ManagementGroupMeetingSummary_19219]]

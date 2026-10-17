@@ -29,6 +29,9 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 > This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
 > -- *[[DraftecologicalDeterminismHybr_12773]]*
 
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
@@ -43,3 +46,4 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 - [[ResultsOfIdentificationOfColle_18206]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[DraftecologicalDeterminismHybr_12773]]
+- [[GeneticVariationAmongLowerColo_12776]]

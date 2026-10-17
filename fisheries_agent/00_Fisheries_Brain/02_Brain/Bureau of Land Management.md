@@ -62,6 +62,27 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 > The [[Bureau of Land Management]] (BLM) announced a temporary six-month suspension of land acquisitions along the [[San Pedro River]] in southeastern Arizona following June 10 discussions with Natural Resource Conservation Districts (NRCDs). The decision responds to concerns from private landowners...
 > -- *[[BlmRespondsToPublicConcernsAlo_19144]]*
 
+> The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
+> -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
+
+> The [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*) is a threatened subspecies of cyprinid fish endemic to [[Meadow Valley Wash]] in [[Lincoln County]], Nevada. The only extant population occupies a 5-mile section of stream through [[Condor Canyon]], making it extremely vulnerable to...
+> -- *[[BigSpringSpinedaceLepidomedaMo_11635]]*
+
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
+> -- *[[MinutesDesertFishesRecoveryTea_13749]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -131,3 +152,10 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 - [[SanPredoBiologicalResourcesTec_17354]]
 - [[DfrtAccomplishmentsduties_18989]]
 - [[BlmRespondsToPublicConcernsAlo_19144]]
+- [[BlmReleasesDraftSanPedroRiverM_11464]]
+- [[BigSpringSpinedaceLepidomedaMo_11635]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[MinutesDesertFishesRecoveryTea_13749]]
+- [[DesertFishesRecoveryTeamAddres_13785]]

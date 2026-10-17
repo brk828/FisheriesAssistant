@@ -23,6 +23,9 @@ The Little Colorado River Spinedace is a small cyprinid fish endemic to the Litt
 > This is a 1990 administrative letter from the U.S. Fish and Wildlife Service (Region 2, Albuquerque) to the [[Desert Fishes Council]], responding to Council Resolution 89-2. The resolution urged prioritization of recovery plan completion/revision for 16 native North American desert fish species. ...
 > -- *[[LetterToDesertFishesCouncilOnS_1990_06_13]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
 ## Mentioned In
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
 - [[DesertFishesRecoveryTeamMeetin_1985_12_10]]
@@ -37,3 +40,4 @@ The Little Colorado River Spinedace is a small cyprinid fish endemic to the Litt
 - [[MemorandumOnDesertFishesRecove_13712]]
 - [[RequestToAmendCommissionOrderF_1997_09_30]]
 - [[WildlifeStatusInArizonaFishes_18591]]
+- [[DraftConservationStrategyVirgi_11659]]

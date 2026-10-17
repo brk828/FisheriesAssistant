@@ -23,9 +23,13 @@ Coolidge Dam is a water management structure on the Gila River in Arizona that s
 > This document comprises field collection notes from aquatic surveys conducted by James F. LeRousty throughout the [[Gila River]] Basin and [[San Pedro River]] system in Arizona and New Mexico during 1973. The notes document multiple sampling locations from April through December 1973, recording...
 > -- *[[FieldNotesAtTheSanPedroGilaAnd_12645]]*
 
+> Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
+> -- *[[MinutesDesertFishesRecoveryTea_13749]]*
+
 ## Mentioned In
 - [[CommentsOnProposedBonytailChub_1986_01_07]]
 - [[GeologicRelationsOfTheGilaCong_11466]]
 - [[ModificationOfCoolidgeDamAFeat_11478]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
+- [[MinutesDesertFishesRecoveryTea_13749]]

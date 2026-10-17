@@ -68,6 +68,21 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
 > -- *[[ExecutiveSummariescoloradoRive_19604]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
+> This report documents intensive field research conducted during May 1988 on the [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona. The study employed multiple netting methods (trammel nets, hoop nets, fyke nets, seines, drift nets) operated continuously over 28...
+> -- *[[SummaryReportOnResearchConduct_18505]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -196,3 +211,8 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[LakeAndReservoirInvestigations_12145]]
 - [[AReportToTheArizonaNatureConse_15171]]
 - [[ExecutiveSummariescoloradoRive_19604]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[SummaryReportOnResearchConduct_18505]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]

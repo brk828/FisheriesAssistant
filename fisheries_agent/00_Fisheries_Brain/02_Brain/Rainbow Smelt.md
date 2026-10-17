@@ -44,6 +44,9 @@ Rainbow Smelt (*Osmerus mordax*) is a small, anadromous forage fish native to At
 > This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
 > -- *[[ConcernsAboutIntroductionOfRai_13174]]*
 
+> This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
+> -- *[[ReviewOfPotentialForageFishInt_19139]]*
+
 ## Mentioned In
 - [[AResponseToTheProposalToIntrod_1987]]
 - [[AssessmentOfAForageFishIntrodu_19952]]
@@ -73,3 +76,4 @@ Rainbow Smelt (*Osmerus mordax*) is a small, anadromous forage fish native to At
 - [[RecommendationsToColoradoRiver_14701]]
 - [[RainbowSmeltProposallakePowell_21115]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
+- [[ReviewOfPotentialForageFishInt_19139]]

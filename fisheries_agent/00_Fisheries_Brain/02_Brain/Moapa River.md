@@ -41,6 +41,12 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 > This document outlines a comprehensive research proposal by Wayne C. Starnes ([[Smithsonian Institution]]) to address taxonomic and genetic questions regarding [[Gila]] species in the [[Colorado River]] basin under a cooperative agreement with [[USFWS]]. The project aims to resolve the taxonomic...
 > -- *[[GilaTaxonomyProjectIssuesAndPr_14720]]*
 
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
 ## Mentioned In
 - [[DistributionOfFishesInTheSanRa_1980_01_30]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -54,3 +60,5 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
 - [[GilaTaxonomyProjectIssuesAndPr_14720]]
+- [[GeneticVariationAmongLowerColo_12776]]
+- [[DraftDayFindingForDesertFishes_20489]]

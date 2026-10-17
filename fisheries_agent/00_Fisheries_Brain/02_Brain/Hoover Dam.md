@@ -80,6 +80,15 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 > This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
 > -- *[[CommentsOnTheBiologicalOpinion_17166]]*
 
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This 1953 report documents severe fishery losses resulting from [[Bureau of Reclamation]] channelization of the lower [[Colorado River]] between [[Needles]] and [[Topock]], California. Between 1936-1938, completion of [[Hoover Dam]], [[Parker Dam]], and [[Imperial Dam]] created favorable conditions...
+> -- *[[EffectOfChannelizationOnTheFis_18139]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -138,3 +147,6 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 - [[DraftdistributionAndIncidenceO_12207]]
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[CommentsOnTheBiologicalOpinion_17166]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[EffectOfChannelizationOnTheFis_18139]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]

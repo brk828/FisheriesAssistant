@@ -26,6 +26,9 @@ The Mountain Sucker (*Pantosteus platyrhynchus*) is a native cypriniform fish of
 > This biological assessment evaluates potential impacts of removing the [[Roosevelt Diversion Dam]] on the [[Salt River]], Arizona. Electrofishing surveys conducted March 15-16, 1988 documented stark differences in fish assemblages above versus below the dam. Above the dam, 230 fish (23,680 gm total...
 > -- *[[SaltRiverProjectRooseveltDiver_15070]]*
 
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
 ## Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
@@ -35,3 +38,4 @@ The Mountain Sucker (*Pantosteus platyrhynchus*) is a native cypriniform fish of
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[VirginRiverOperationToSeptembe_1988_09_12]]
 - [[SaltRiverProjectRooseveltDiver_15070]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]

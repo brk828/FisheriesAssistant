@@ -32,6 +32,9 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 > This completion report (Project F-7-R-4, Work Plan 4, Job A-1) documents a comprehensive fisheries investigation of backwater lakes along the [[Lower Colorado River]] within the [[Imperial National Wildlife Refuge]], Arizona, conducted from January 16 to October 15, 1961. The study aimed to...
 > -- *[[ABasicSurveyOfWatersInDistrict_14982]]*
 
+> This multi-job completion report documents experimental pond management studies conducted by the West Virginia Conservation Commission during 1955-1956 (Project F-3-R-4). The investigation focused on establishing experimental ponds, conducting creel censuses, sampling fish populations, and testing...
+> -- *[[EstablishmentOfNewOrReclaimedP_12166]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[CatalogingOfSmallImpoundmentOf_12167]]
@@ -44,3 +47,4 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 - [[FishPlentifulInGuatemalaLake_19070]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
 - [[ABasicSurveyOfWatersInDistrict_14982]]
+- [[EstablishmentOfNewOrReclaimedP_12166]]

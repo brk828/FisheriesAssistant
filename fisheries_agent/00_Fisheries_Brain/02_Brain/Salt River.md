@@ -101,6 +101,27 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 > This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
 > -- *[[InvestigationsOfCommercialFish_18562]]*
 
+> This biological opinion, issued February 18, 1993, by the U.S. Fish and Wildlife Service Arizona Ecological Services Field Office, addresses formal Section 7 consultation for the [[Lake Havasu]] Fisheries Improvement Partnership Program. The Bureau of Land Management proposed installing artificial...
+> -- *[[BiologicalOpinionForLakeHavasu_11881]]*
+
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfChannelCatfishIc_14101]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -171,3 +192,10 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 - [[DecliningSouthwesternAquaticHa_15002]]
 - [[LowerColoradoRiverBasinManagem_18433]]
 - [[InvestigationsOfCommercialFish_18562]]
+- [[BiologicalOpinionForLakeHavasu_11881]]
+- [[GeneticVariationAmongLowerColo_12776]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[FurtherInformationOnTheSpikeda_13737]]
+- [[LiteratureReviewAndImpactRepor_14988]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]

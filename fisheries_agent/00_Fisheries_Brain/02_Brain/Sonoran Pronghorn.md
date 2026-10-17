@@ -20,8 +20,12 @@ auto_enriched: true
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
+> -- *[[MasterPlanForBuenosAiresWildli_13323]]*
+
 ## Mentioned In
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
 - [[ListedAndCandidateSpeciesRespo_11941]]
 - [[IntraserviceSectionConsultatio_11829]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[MasterPlanForBuenosAiresWildli_13323]]

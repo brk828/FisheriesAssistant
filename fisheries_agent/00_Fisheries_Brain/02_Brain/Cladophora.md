@@ -38,6 +38,9 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 > This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
 > -- *[[LongtermLimnologicalAndWaterQu_17092]]*
 
+> This doctoral dissertation by William R. Duffer (Oklahoma State University, 1965) examines community metabolism and oxygen dynamics in the relatively undisturbed [[Blue River]] in southeastern Oklahoma from June 1963 to August 1964. The study investigated how different geological substrates...
+> -- *[[OxygenBalanceInASouthernGreatP_19151]]*
+
 ## Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -57,3 +60,4 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 - [[CorrespondenceRegardingMeeting_13520]]
 - [[SelectiveWithdrawalWorkgroupMe_15753]]
 - [[LongtermLimnologicalAndWaterQu_17092]]
+- [[OxygenBalanceInASouthernGreatP_19151]]

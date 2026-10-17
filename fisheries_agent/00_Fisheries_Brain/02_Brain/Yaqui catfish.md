@@ -44,6 +44,12 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
 > -- *[[DraftRecoveryPlanForTheEndange_15977]]*
 
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
+> This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
+> -- *[[AuthorizationToUseTheRegionalD_15706]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -94,3 +100,5 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[DraftLowerColoradoRiverBasinNa_11716]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]
+- [[AuthorizationToUseTheRegionalD_15706]]

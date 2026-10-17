@@ -23,6 +23,12 @@ The Colorado River Fishery Project is a U.S. Fish and Wildlife Service administr
 > This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
 > -- *[[TentativeAgendaForTheUpperColo_15254]]*
 
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ConcentrationsOfTotalDissolved_11144]]
@@ -35,3 +41,5 @@ The Colorado River Fishery Project is a U.S. Fish and Wildlife Service administr
 - [[RecommendationsOnBonytailRetri_1987_09_03]]
 - [[SeleniumMayHarmRazorbackSucker_11707]]
 - [[TentativeAgendaForTheUpperColo_15254]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[ProposalToListTheRazorbackSuck_14703]]

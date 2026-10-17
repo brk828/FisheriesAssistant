@@ -35,6 +35,15 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 > This correspondence from the [[Colorado River Fishes Recovery Team]] Leader to the U.S. Fish and Wildlife Service Regional Director outlines six critical recommendations regarding endangered fish recovery in the [[Colorado River]] system. Primary concerns include upgrading the listing status of...
 > -- *[[RecommendationsToColoradoRiver_14701]]*
 
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -59,3 +68,6 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[DraftmanagementPlanForTheRazor_11427]]
 - [[RecommendationsToColoradoRiver_14701]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[ManagementGroupMeetingSummary_19219]]

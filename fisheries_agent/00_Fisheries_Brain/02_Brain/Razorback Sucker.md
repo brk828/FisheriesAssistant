@@ -254,6 +254,63 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
 > -- *[[SummaryjanuaryManagementGroupM_21002]]*
 
+> The U.S. Environmental Protection Agency (EPA) Region IX and U.S. Army Corps of Engineers (Corps) conducted an Advanced Identification (ADID) project for the [[Verde River]] in Arizona under Section 404 of the Clean Water Act. This document announces public workshops (April 25-26, 1994) to discuss...
+> -- *[[VerdeRiverAdvancedIdentificati_11367]]*
+
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This biological opinion, issued February 18, 1993, by the U.S. Fish and Wildlife Service Arizona Ecological Services Field Office, addresses formal Section 7 consultation for the [[Lake Havasu]] Fisheries Improvement Partnership Program. The Bureau of Land Management proposed installing artificial...
+> -- *[[BiologicalOpinionForLakeHavasu_11881]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
+> -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
+
+> An experimental [[Razorback Sucker]] hatchery was established in 1987 at [[Ouray National Wildlife Refuge]] to evaluate streamside spawning and rearing techniques for this endangered species. The facility consisted of three 1/10 acre ponds and a building with incubators and rearing tanks. From...
+> -- *[[OurayRazorbackHatcherySummary_13377]]*
+
+> This document describes the comprehensive database structure developed by BIO/WEST, Inc. for the [[Glen Canyon Environmental Studies]] (GCES) investigation of [[Humpback Chub]] (*Gila cypha*) in [[Grand Canyon]]. The database encompasses 36 monthly field trips from October 1990 through November...
+> -- *[[StatusOfTheBiowestDatabase_13632]]*
+
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> This letter from an Arizona State University zoologist to the U.S. Fish and Wildlife Service, dated July 20, 1990, provides expert commentary on the proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as endangered under the Endangered Species Act. While strongly supporting the...
+> -- *[[SupportForListingTheRazorbackS_13791]]*
+
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
+> -- *[[BureauOfReclamationsFailureToR_18964]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
+> This study examines mitochondrial DNA (mtDNA) diversity in the endangered [[Razorback Sucker]] (*Xyrauchen texanus*), a large catostomid endemic to the [[Colorado River]] drainage. Researchers analyzed genetic variation in a source population from [[Lake Mohave]] (Arizona-Nevada) and three...
+> -- *[[MitochondrialDnaVariabilityInT_19125]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
+> Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
+> -- *[[SamplingAtAsuResearchParkAutum_19458]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
+> This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
+> -- *[[FyReportingAndAccounting_21020]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -894,3 +951,22 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[MeetingToDiscussProgramGoalsSt_19639]]
 - [[PalmLakenativeFishStatus_20905]]
 - [[SummaryjanuaryManagementGroupM_21002]]
+- [[VerdeRiverAdvancedIdentificati_11367]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[BiologicalOpinionForLakeHavasu_11881]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[OurayRazorbackHatcherySummary_13377]]
+- [[StatusOfTheBiowestDatabase_13632]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[SupportForListingTheRazorbackS_13791]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[BureauOfReclamationsFailureToR_18964]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[MitochondrialDnaVariabilityInT_19125]]
+- [[ManagementGroupMeetingSummary_19219]]
+- [[SamplingAtAsuResearchParkAutum_19458]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[FyReportingAndAccounting_21020]]

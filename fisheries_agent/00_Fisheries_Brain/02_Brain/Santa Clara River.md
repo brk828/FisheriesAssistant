@@ -26,6 +26,9 @@ The Santa Clara River is a major river system in southern California that drains
 > This draft Conservation Agreement addresses the proposed listing of [[Virgin Spinedace]] (*Lepidomeda mollispinis*) as a threatened species under the Endangered Species Act of 1973. The [[Virgin Spinedace]] is a small cyprinid minnow endemic to the [[Virgin River]] drainage in southwestern Utah,...
 > -- *[[DraftConservationAgreementForV_13234]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
 ## Mentioned In
 - [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
 - [[RecoveryPlanForTheUnarmoredThr_18261]]
@@ -33,3 +36,4 @@ The Santa Clara River is a major river system in southern California that drains
 - [[ThermalAndRespiratoryStudiesWi_16327]]
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[DraftConservationAgreementForV_13234]]
+- [[DraftConservationStrategyVirgi_11659]]

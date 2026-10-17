@@ -14,6 +14,9 @@ The Gila River Drainage is a major hydrological basin in the southwestern United
 > - **Drainage systems sampled**: [[Salt River Drainage]] (Cedar Creek, Carrizo Creek, Cibicue Creek, White River–East Fork) and [[Gila River Drainage]] (Blue River, Aravaipa Creek, Eagle Creek). - **Habitat context**: Collections were made in perennial montane/desert stream reaches within the [[Fo...
 > -- *[[ResultsOfIdentificationOfColle_18206]]*
 
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
 ## Mentioned In
 - [[AgosiaChrysogasterACyprinidFro_17955]]
 - [[DistributionAndStatusOfLoachMi_20268]]
@@ -24,3 +27,4 @@ The Gila River Drainage is a major hydrological basin in the southwestern United
 - [[RazorbackSuckerRecapture_1986_08_18]]
 - [[ResultsOfIdentificationOfColle_18206]]
 - [[VitaOfDavidEBrown_13009]]
+- [[BiologicalOpinionToRepairErosi_11916]]

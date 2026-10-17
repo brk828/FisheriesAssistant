@@ -32,6 +32,12 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 > This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
 > -- *[[MolecularVariationAndEvolution_18435]]*
 
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -45,3 +51,5 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[SelectedAspectsOfTheNaturalHis_14397]]
 - [[MolecularVariationAndEvolution_18435]]
+- [[StatusReportForNaturalAndIntro_12972]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]

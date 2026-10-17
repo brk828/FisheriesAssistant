@@ -131,6 +131,39 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
 > -- *[[ExecutiveSummariescoloradoRive_19604]]*
 
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This biological opinion, issued February 18, 1993, by the U.S. Fish and Wildlife Service Arizona Ecological Services Field Office, addresses formal Section 7 consultation for the [[Lake Havasu]] Fisheries Improvement Partnership Program. The Bureau of Land Management proposed installing artificial...
+> -- *[[BiologicalOpinionForLakeHavasu_11881]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This letter from an Arizona State University zoologist to the U.S. Fish and Wildlife Service, dated July 20, 1990, provides expert commentary on the proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as endangered under the Endangered Species Act. While strongly supporting the...
+> -- *[[SupportForListingTheRazorbackS_13791]]*
+
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
+> This study examines mitochondrial DNA (mtDNA) diversity in the endangered [[Razorback Sucker]] (*Xyrauchen texanus*), a large catostomid endemic to the [[Colorado River]] drainage. Researchers analyzed genetic variation in a source population from [[Lake Mohave]] (Arizona-Nevada) and three...
+> -- *[[MitochondrialDnaVariabilityInT_19125]]*
+
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -332,3 +365,14 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[CommentsOnTheBiologicalOpinion_17166]]
 - [[LowerColoradoRiverBasinManagem_18433]]
 - [[ExecutiveSummariescoloradoRive_19604]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[BiologicalOpinionForLakeHavasu_11881]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[SupportForListingTheRazorbackS_13791]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[MitochondrialDnaVariabilityInT_19125]]
+- [[BonytailReintroductionPlanForT_20248]]

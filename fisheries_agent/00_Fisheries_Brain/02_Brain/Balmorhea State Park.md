@@ -14,6 +14,10 @@ auto_enriched: true
 > This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
 > -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
 
+> This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
+> -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
+
 ## Mentioned In
 - [[AspectsOfTheThermalEcologyOfCy_13860]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
+- [[TaxonomicStatusEcologyAndDistr_14514]]

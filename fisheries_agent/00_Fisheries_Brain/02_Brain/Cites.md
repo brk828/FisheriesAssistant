@@ -14,7 +14,11 @@ CITES (the Convention on International Trade in Endangered Species of Wild Fauna
 > Key background points: - On **16 May 1994**, Mexico published the **[[NOM-059-ECOL-1994]]** in the Diario Oficial de la Federación, replacing an earlier 1991 listing framework. This norm classifies terrestrial and aquatic wild species (flora and fauna) into four risk categories: *en peligro de ex...
 > -- *[[InvitaciónALaReuniónDelComitéC_13115]]*
 
+> This document is a comprehensive member's guide for the [[IUCN]] [[Species Survival Commission]] (SSC) covering the 1994-1996 triennium. The SSC is described as the largest global network of volunteer experts working for species conservation, comprising approximately 5,000 members in 170 countries....
+> -- *[[SpeciesSurvivalCommissionAMemb_14399]]*
+
 ## Mentioned In
 - [[InvitaciónALaReuniónDelComitéC_13115]]
 - [[ProceduresForObtainingMexicanP_20830]]
 - [[ReportFromWashingtonEndangered_11988]]
+- [[SpeciesSurvivalCommissionAMemb_14399]]

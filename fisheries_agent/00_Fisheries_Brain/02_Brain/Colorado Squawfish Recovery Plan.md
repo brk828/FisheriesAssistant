@@ -17,9 +17,13 @@ The Colorado Squawfish Recovery Plan is a comprehensive federal conservation str
 > This legal notice, dated February 6, 1996, from [[Defenders of Wildlife]] to the [[U.S. Department of the Interior]], [[U.S. Fish and Wildlife Service]], and [[Bureau of Reclamation]], alleges violations of the [[Endangered Species Act]] (ESA) in connection with a Memorandum of Agreement (MOA) for...
 > -- *[[NoticeOfIntentToSueForViolatio_20521]]*
 
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
 ## Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[ColoradoSquawfishRec_1988_12_30]]
 - [[ReCommentsOnTheFederalRegister_11571]]
 - [[ReferencesWithNewInformationFo_1987_03_01]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
+- [[ManagementGroupMeetingSummary_19219]]

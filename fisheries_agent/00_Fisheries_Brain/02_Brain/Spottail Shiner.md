@@ -20,7 +20,11 @@ The Spottail Shiner is a small cyprinid forage fish commonly found in freshwater
 > - **Habitat:** [[Clear Lake (Iowa)]] is a shallow (max depth 5 m), eutrophic, glacially-formed lake spanning 1,474 hectares (7.7 km × 3.3 km) in north-central Iowa; supports 43 known fish species (Bailey and Harrison 1945). - **Sampling zone:** Eastern portion of the lake, pelagic zone, both midd...
 > -- *[[FoodOfThePelagicYoungOfWalleye_13890]]*
 
+> This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
+> -- *[[ReviewOfPotentialForageFishInt_19139]]*
+
 ## Mentioned In
 - [[FoodOfThePelagicYoungOfWalleye_13890]]
 - [[FoodOfYoungPikeEsoxLuciusLAndA_1951]]
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
+- [[ReviewOfPotentialForageFishInt_19139]]

@@ -26,6 +26,9 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 > This document is the meeting announcement and agenda for the seventh annual [[Upper Colorado River]] Endangered Fishes Researchers meeting, scheduled for February 14-15, 1989, in Grand Junction, Colorado. The meeting convened researchers, agency personnel, and water users working on the recovery of...
 > -- *[[TentativeAgendaForTheUpperColo_15254]]*
 
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
 ## Mentioned In
 - [[FeedingActivityAndSpawning_11266]]
 - [[FyAnnualProjectReportGilaTaxon_1993_12_06]]
@@ -37,3 +40,4 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[TentativeAgendaForTheUpperColo_15254]]
+- [[BonytailReintroductionPlanForT_20248]]

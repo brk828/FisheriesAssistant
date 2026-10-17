@@ -14,7 +14,11 @@ auto_enriched: true
 > This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
 > -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
 
+> The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
+> -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
+
 ## Mentioned In
 - [[GroundWaterGeomorphicProcesses_1988_08_28]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[ReContinuationOfTheUsArmysSanP_11808]]
+- [[BlmReleasesDraftSanPedroRiverM_11464]]

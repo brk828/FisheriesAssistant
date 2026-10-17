@@ -29,6 +29,9 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 > This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
 > -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
 ## Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -39,3 +42,4 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 - [[VirginRiverWoundfinPlanForBroo_16685]]
 - [[DraftConservationAgreementForV_13234]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
+- [[DraftConservationStrategyVirgi_11659]]

@@ -23,8 +23,12 @@ Pomoxis nigromaculatus, commonly known as black crappie, is a freshwater centrar
 > This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
 > -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
 
+> The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
+> -- *[[IntroductionOfPalaemonetesPalu_20723]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
+- [[IntroductionOfPalaemonetesPalu_20723]]

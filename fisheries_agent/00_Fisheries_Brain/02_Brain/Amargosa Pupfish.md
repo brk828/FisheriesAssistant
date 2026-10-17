@@ -29,6 +29,9 @@ The Amargosa Pupfish is an endemic species of small cyprinodont fish inhabiting 
 > This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
 > -- *[[ConservationOfNativeFreshwater_15444]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
@@ -40,3 +43,4 @@ The Amargosa Pupfish is an endemic species of small cyprinodont fish inhabiting 
 - [[StatusAndManagementOfShoshoneP_1990]]
 - [[AConservationorientedClassific_15455]]
 - [[ConservationOfNativeFreshwater_15444]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]

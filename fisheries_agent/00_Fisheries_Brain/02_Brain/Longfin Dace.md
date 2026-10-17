@@ -62,6 +62,12 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 > This report documents the status, distribution, and habitat use of native fish species in [[Bass Creek]] and [[Hotsprings Creek]] within the [[Muleshoe Preserve]], Arizona, based on surveys conducted in January, March, and June 1987. The study area comprises 18 km of perennial stream in the [[Gila...
 > -- *[[AReportToTheArizonaNatureConse_15171]]*
 
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -153,3 +159,5 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 - [[ReBiologicalOpinionOnRepairOfF_15004]]
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
 - [[AReportToTheArizonaNatureConse_15171]]
+- [[StatusReportForNaturalAndIntro_12972]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]

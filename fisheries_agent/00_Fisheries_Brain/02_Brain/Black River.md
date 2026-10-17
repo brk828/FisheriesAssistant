@@ -32,6 +32,12 @@ The Black River refers to a cold-water montane stream drainage system in Arizona
 > **Taxonomic & Life-History Summary:** Three centrarchid species are described: [[Lepomis microlophus]] (redear sunfish), [[Micropterus dolomieui]] (smallmouth bass), and [[Micropterus punctulatus]] (spotted bass). [[Lepomis microlophus]] exhibits geographic variation with two forms: one with 40-47...
 > -- *[[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]*
 
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
+> -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
@@ -45,3 +51,5 @@ The Black River refers to a cold-water montane stream drainage system in Arizona
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
 - [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[TaxonomicStatusEcologyAndDistr_14514]]

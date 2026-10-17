@@ -29,6 +29,9 @@ Poeciliopsis occidentalis occidentalis, commonly known as the Gila Topminnow, is
 > This dissertation proposal by Timothy J. Kim (Arizona State University, 1998) outlines research to investigate Major Histocompatibility Complex (MHC) genetic variation and parasite resistance in two federally-listed endangered fish species: the [[Sacramento Winter-Run Chinook Salmon]] and the...
 > -- *[[MhcVariationAndParasiteResista_12519]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -38,3 +41,4 @@ Poeciliopsis occidentalis occidentalis, commonly known as the Gila Topminnow, is
 - [[NativeFishesOfTheUpperGilaRive_12644]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[MhcVariationAndParasiteResista_12519]]
+- [[ReportToTheDesertFishesCouncil_13683]]

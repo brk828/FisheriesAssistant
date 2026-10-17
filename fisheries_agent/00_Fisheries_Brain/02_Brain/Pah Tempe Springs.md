@@ -23,8 +23,12 @@ Pah Tempe Springs is a significant spring system along the Virgin River in south
 > - **System**: Virgin River, a desert riverine system in the Colorado River Basin (Washington County, Utah / Arizona border region), including the reach from [[Hurricane Bridge]] to the [[Washington Fields Diversion]], and further downstream past [[Quail Creek]] and [[Quail Creek Reservoir]]. - **...
 > -- *[[CommentsOnTheDraftVirginRiverH_1994_02_27]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
 ## Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
 - [[RequestForRenewalOfEndangeredS_1992_11_27]]
 - [[TheEndangeredWoundfinAndWaterM_14006]]
+- [[DraftConservationStrategyVirgi_11659]]

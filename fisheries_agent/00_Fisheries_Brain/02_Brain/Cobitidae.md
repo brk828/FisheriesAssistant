@@ -23,9 +23,13 @@ Cobitidae is a family of small, benthic freshwater fishes commonly known as loac
 > - **Total regional fauna**: Canada and Alaska combined support ~177 freshwater fish species across 26 families and ~70 genera. - **Drainage-based diversity gradient**: Species richness decreases markedly from Hudson Bay (45 species) → Arctic Ocean drainage (17 species) → Bering Sea drainage (5 sp...
 > -- *[[FreshwaterFishesOfTheEasternAr_18569]]*
 
+> This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
+> -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
+
 ## Mentioned In
 - [[AdditionOfMisgurnusAnguillicau_1969]]
 - [[EstablishmentAndEarlyDispersal_20617]]
 - [[FreshwaterFishesOfTheEasternAr_18569]]
 - [[PublicationsOfFKrupp_1988]]
 - [[TheRelationOfHydrologicalCondi_20023]]
+- [[FishesOfAfghanistanAnAnnotated_15968]]

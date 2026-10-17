@@ -17,8 +17,12 @@ auto_enriched: true
 > This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
 > -- *[[DraftmanagementPlanForTheRazor_11427]]*
 
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
 ## Mentioned In
 - [[CommentsOnTheUSFishAndWildlife_1997_07_08]]
 - [[ContinuedResearchOfTheLowerCol_1996_09_04]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
 - [[DraftmanagementPlanForTheRazor_11427]]
+- [[DraftEnvironmentalAssessmentLo_11489]]

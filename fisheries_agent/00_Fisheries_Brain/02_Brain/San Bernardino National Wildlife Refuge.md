@@ -35,6 +35,9 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 > This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
 > -- *[[DraftRecoveryPlanForTheEndange_15977]]*
 
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AsianTapewormEradicationStrate_13118]]
@@ -67,3 +70,4 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 - [[UsfwsmexicoCooperativeProgramG_16498]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]

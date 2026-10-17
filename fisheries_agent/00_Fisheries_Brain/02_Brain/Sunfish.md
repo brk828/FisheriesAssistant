@@ -29,6 +29,9 @@ Sunfish (family Centrarchidae) are small to medium-sized freshwater fishes nativ
 > This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
 > -- *[[RoughFishControl_20167]]*
 
+> This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
+> -- *[[TheMaineSmallmouth_14928]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -51,3 +54,4 @@ Sunfish (family Centrarchidae) are small to medium-sized freshwater fishes nativ
 - [[UseOfAntimycinForSelectiveThin_14083]]
 - [[WhatHaveICaught_12929]]
 - [[RoughFishControl_20167]]
+- [[TheMaineSmallmouth_14928]]

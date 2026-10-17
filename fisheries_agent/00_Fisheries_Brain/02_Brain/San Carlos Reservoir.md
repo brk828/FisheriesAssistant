@@ -29,6 +29,9 @@ San Carlos Reservoir is an impounded lentic (lake-like) water body on the Gila R
 > This memorandum documents a 14-day cooperative monitoring effort in March 1985 to detect reintroduced [[Razorback Sucker]] (*Xyrauchen texanus*) in three Arizona reservoirs: [[Bartlett Reservoir]] (Verde River), [[Roosevelt Reservoir]] (Salt River), and [[San Carlos Reservoir]] (Gila River). The...
 > -- *[[RazorbackSuckerMonitoringEffor_13702]]*
 
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
 ## Mentioned In
 - [[ModificationOfCoolidgeDamAFeat_11478]]
 - [[RadiotaggingRazorbackSuckersGi_1989_06_12]]
@@ -38,3 +41,4 @@ San Carlos Reservoir is an impounded lentic (lake-like) water body on the Gila R
 - [[ToxapheneAsAFishToxin_1951]]
 - [[EndangeredAndThreatenedWildlif_11550]]
 - [[RazorbackSuckerMonitoringEffor_13702]]
+- [[FurtherInformationOnTheSpikeda_13737]]

@@ -17,9 +17,13 @@ Coleoptera, the order of beetles, represents an important terrestrial food sourc
 > The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
 > -- *[[EndangeredSpeciesInformationSy_14003]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[FeedingHabitsOfTheSanPedroMart_15896]]
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
 - [[WinterObservationsOnBottomOrga_16187]]
 - [[EndangeredSpeciesInformationSy_14003]]
+- [[LiteratureReviewAndImpactRepor_14988]]

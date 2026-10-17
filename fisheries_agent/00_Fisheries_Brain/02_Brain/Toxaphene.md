@@ -14,8 +14,12 @@ Toxaphene is a chlorinated camphene-based insecticide that was employed as a pis
 > This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
 > -- *[[RoughFishControl_20167]]*
 
+> This comprehensive 1964 report from the [[Fish and Wildlife Service]] documents extensive research on pesticide effects across multiple taxa and ecosystems. The [[Denver Wildlife Research Center]] shifted emphasis from general surveillance to intensive investigation of new pesticides as potential...
+> -- *[[WildlifeStudiesDenverWildlifeR_14329]]*
+
 ## Mentioned In
 - [[ControlOfCarpCyprinusCarpioLin_14811]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
 - [[ToxapheneAsAFishToxin_1951]]
 - [[RoughFishControl_20167]]
+- [[WildlifeStudiesDenverWildlifeR_14329]]

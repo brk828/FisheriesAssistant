@@ -11,5 +11,9 @@ The Basin and Range refers to a geological province in western North America cha
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
 ## Mentioned In
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[GeneticVariationAmongLowerColo_12776]]

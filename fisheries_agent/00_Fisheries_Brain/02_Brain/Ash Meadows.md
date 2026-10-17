@@ -32,6 +32,12 @@ Ash Meadows is a spring-fed complex of isolated wetland habitats in the Death Va
 > This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
 > -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
 
+> This draft recovery plan for the [[Warm Springs Pupfish]] (*Cyprinodon nevadensis pectoralis*) was prepared by an interagency recovery team in April 1976. The subspecies is one of six described forms of *C. nevadensis*, with two already extinct. *C. n. pectoralis* has the most localized...
+> -- *[[WarmSpringsPupfish_13288]]*
+
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -56,3 +62,5 @@ Ash Meadows is a spring-fed complex of isolated wetland habitats in the Death Va
 - [[InformalSectionConsultationReP_13297]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
+- [[WarmSpringsPupfish_13288]]
+- [[DraftDayFindingForDesertFishes_20489]]

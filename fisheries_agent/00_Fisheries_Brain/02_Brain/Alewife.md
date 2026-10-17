@@ -23,6 +23,9 @@ The alewife (*Alosa pseudoharengus*) is a small, schooling forage fish species t
 > - **Panfish guild**: [[Yellow Perch]], [[White Perch]], [[Black Crappie]] — targeted at ≥200 individuals per species per water body. - **Game fish guild**: [[Pickerel]] (Chain and Redfin), [[Bass]] (Largemouth, Smallmouth, Rock, Striped), [[Trout]] (Brown, Rainbow, Eastern Brook) — same 200-indiv...
 > -- *[[MethodsAndProceduresForScaleSa_1956_02_09]]*
 
+> This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
+> -- *[[ReviewOfPotentialForageFishInt_19139]]*
+
 ## Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[EstimatingTheProbabilityThatHi_1998]]
@@ -33,3 +36,4 @@ The alewife (*Alosa pseudoharengus*) is a small, schooling forage fish species t
 - [[OriginAndDispersalOfTheAlewife_1957]]
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
 - [[TrophicDynamicsOfLakeTroutProd_1970]]
+- [[ReviewOfPotentialForageFishInt_19139]]

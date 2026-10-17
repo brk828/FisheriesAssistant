@@ -11,6 +11,10 @@ auto_enriched: true
 > - **[[Gila Topminnow]]** (*Poeciliopsis occidentalis*): Collected from two distinct Arizona habitats — [[Redrock Canyon]] (Santa Cruz County) and [[Cave Creek]] (Maricopa County) — indicating a distribution across small desert stream systems associated with the [[Sonoran Desert]] riparian corrido...
 > -- *[[ReportOfEndangeredSpeciesColle_1993_01_07]]*
 
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
 ## Mentioned In
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
 - [[ReportOfEndangeredSpeciesColle_1993_01_07]]
+- [[StatusReportForNaturalAndIntro_12972]]

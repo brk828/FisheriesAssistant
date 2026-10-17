@@ -11,7 +11,11 @@ Ctenopharyngodon idella, commonly known as the grass carp, is a large cyprinid f
 > Notable ecological patterns include: - **Diadromous/euryhaline species** (coded Ma) such as [[American Eel]] (*Anguilla rostrata*), [[Alosa|Alosa spp.]] (shads/herrings), and gars (*[[Lepisosteus]] spp.*) occur across nearly all Atlantic Slope drainages, reflecting connectivity to the [[Atlantic ...
 > -- *[[ChecklistOfTheFishesOfTheCentr_1982_04_13]]*
 
+> This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
+> -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
+
 ## Mentioned In
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
 - [[DistributionAndStatusOfTheGras_11158]]
 - [[TheAsianFishTapewormBothriocep_1993]]
+- [[FishesOfAfghanistanAnAnnotated_15968]]

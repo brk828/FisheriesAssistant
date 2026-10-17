@@ -35,6 +35,9 @@ Acipenseridae is the family of true sturgeons, ancient anadromous fish character
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
+> -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -58,3 +61,4 @@ Acipenseridae is the family of true sturgeons, ancient anadromous fish character
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[FishesOfAfghanistanAnAnnotated_15968]]

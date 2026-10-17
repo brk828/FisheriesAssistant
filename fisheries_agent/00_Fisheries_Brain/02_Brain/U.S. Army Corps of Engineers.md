@@ -32,6 +32,12 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 > This correspondence from the [[Bureau of Reclamation]] (March 18, 1988) responds to a request for federal support of [[Conner Dam]] construction on the [[Gila River]] in New Mexico as part of the [[Central Arizona Project]]. The Bureau declined further consideration, citing economic infeasibility...
 > -- *[[ConnerDamAsPartOfCentralArizon_19170]]*
 
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
 ## Mentioned In
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
@@ -43,3 +49,5 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 - [[EndangeredAndThreatenedWildlif_11580]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[ConnerDamAsPartOfCentralArizon_19170]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[ManagementGroupMeetingSummary_19219]]

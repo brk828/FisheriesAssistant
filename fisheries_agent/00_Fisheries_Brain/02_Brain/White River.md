@@ -50,6 +50,18 @@ The White River refers to a river system in the south-central United States (pri
 > This legal notice, dated September 12, 1994, from the Gila Watershed Partnership to the U.S. Fish and Wildlife Service challenges the adequacy of critical habitat designated for [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*) on March 8, 1994. The notice argues that the...
 > -- *[[SixtydayNoticeOfIntentToSueOve_20449]]*
 
+> The [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*) is a threatened subspecies of cyprinid fish endemic to [[Meadow Valley Wash]] in [[Lincoln County]], Nevada. The only extant population occupies a 5-mile section of stream through [[Condor Canyon]], making it extremely vulnerable to...
+> -- *[[BigSpringSpinedaceLepidomedaMo_11635]]*
+
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This doctoral dissertation by William R. Duffer (Oklahoma State University, 1965) examines community metabolism and oxygen dynamics in the relatively undisturbed [[Blue River]] in southeastern Oklahoma from June 1963 to August 1964. The study investigated how different geological substrates...
+> -- *[[OxygenBalanceInASouthernGreatP_19151]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -85,3 +97,7 @@ The White River refers to a river system in the south-central United States (pri
 - [[DraftdistributionAndIncidenceO_12207]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
 - [[SixtydayNoticeOfIntentToSueOve_20449]]
+- [[BigSpringSpinedaceLepidomedaMo_11635]]
+- [[FurtherInformationOnTheSpikeda_13737]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[OxygenBalanceInASouthernGreatP_19151]]

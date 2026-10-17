@@ -26,6 +26,9 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 > The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
 > -- *[[ReportOfTheOctoberFishCount_11417]]*
 
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
 ## Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -37,3 +40,4 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 - [[ScientificCollectingPermitRene_1994_11_08]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
 - [[ReportOfTheOctoberFishCount_11417]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]

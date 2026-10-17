@@ -20,8 +20,12 @@ Yuma is a city in southwestern Arizona at very low elevation. The lecture notes 
 > This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
 > -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
 
+> This article describes the specialized morphological adaptations of fringe-toed lizards (genus *Uma*) that enable efficient locomotion on desert sand dunes. Three species inhabit the warm deserts of the southwestern United States: [[Coachella Valley Fringe-Toed Lizard]], [[Colorado Desert...
+> -- *[[FringetoedLizardstheSnowshoeHa_13222]]*
+
 ## Mentioned In
 - [[LectureNotesFromBiologyClass_13784]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[FringetoedLizardstheSnowshoeHa_13222]]

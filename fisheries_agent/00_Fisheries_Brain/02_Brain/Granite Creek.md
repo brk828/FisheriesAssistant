@@ -11,5 +11,9 @@ Granite Creek is a location on the Verde River system that marks one end of the 
 > **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae* sensu stricto) is native to the Coosa River system of Alabama, Georgia, and Tennessee. The species was originally described in 1940 and has since undergone genetic revision separating it into several species within the...
 > -- *[[ACaseOfMistakenIdentityGenetic_2021]]*
 
+> This study plan outlines an Advanced Identification (ADID) process for the [[Verde River]], Arizona, conducted by the U.S. Fish and Wildlife Service Phoenix Field Office in August 1991. The ADID aims to protect the Verde River aquatic ecosystem by evaluating approximately 125 river miles from...
+> -- *[[AdvancedIdentificationOfFuncti_11587]]*
+
 ## Mentioned In
 - [[ACaseOfMistakenIdentityGenetic_2021]]
+- [[AdvancedIdentificationOfFuncti_11587]]

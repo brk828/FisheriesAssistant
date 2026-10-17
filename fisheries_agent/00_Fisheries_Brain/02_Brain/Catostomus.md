@@ -35,6 +35,12 @@ Catostomus is a genus of freshwater suckers (family Catostomidae) native to Nort
 > This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
 > -- *[[CompositionAndDerivationOfTheF_15375]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
+> This letter from Robert R. Miller, Curator of Fishes at the [[University of Michigan Museum of Zoology]], to the [[American Museum of Natural History]] reviews a manuscript describing two new species of [[Catostomus]] (suckers) from northern Mexico. Miller confirms the validity of both species as...
+> -- *[[ReManuscriptDescribingTwoNewSp_15374]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -52,3 +58,5 @@ Catostomus is a genus of freshwater suckers (family Catostomidae) native to Nort
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
 - [[CompositionAndDerivationOfTheF_15375]]
+- [[LiteratureReviewAndImpactRepor_14988]]
+- [[ReManuscriptDescribingTwoNewSp_15374]]

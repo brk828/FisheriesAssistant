@@ -23,9 +23,13 @@ Bull Trout are a native, cold-water salmonid species valued in conservation and 
 > This Federal Register notice, published September 19, 1997, by the U.S. Fish and Wildlife Service presents an updated list of plant and animal taxa native to the United States that are candidates or proposed for listing as endangered or threatened under the Endangered Species Act of 1973, as...
 > -- *[[EndangeredAndThreatenedWildlif_11741]]*
 
+> This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
+> -- *[[SummaryStatementOfInsightsFrom_20854]]*
+
 ## Mentioned In
 - [[CrestonNationalFishHatcherySta_1994_01_03]]
 - [[OwnersToDemolishDamThatBlocksF_14938]]
 - [[StatePerspectiveOnTheCurrentRo_13150]]
 - [[ViewsOfAFishBiologistFromAFede_15069]]
 - [[EndangeredAndThreatenedWildlif_11741]]
+- [[SummaryStatementOfInsightsFrom_20854]]

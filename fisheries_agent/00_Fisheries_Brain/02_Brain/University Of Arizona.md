@@ -29,6 +29,18 @@ The University of Arizona served as an institutional partner in federally-author
 > This 1987 correspondence from the [[Arizona Game and Fish Department]] proposes establishing annual collaborative meetings between the Department and Arizona universities ([[University of Arizona]], [[Northern Arizona University]], [[Arizona State University]]) to promote cooperative wildlife...
 > -- *[[CooperationBetweenArizonaGameA_13469]]*
 
+> The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
+> -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
+
+> This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
+> -- *[[PlanningEffortNearItsConclusio_11515]]*
+
+> This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
+> -- *[[MasterPlanForBuenosAiresWildli_13323]]*
+
+> This document is official correspondence from the [[National Park Service]] (NPS) dated March 24, 1989, addressed to Dr. John C. Gordon, Dean of the [[Yale School of Forestry and Environmental Studies]], regarding the establishment of a Commission on Research and Resource Management Policy in the...
+> -- *[[NationalParksAndConservationAs_15435]]*
+
 ## Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -41,3 +53,7 @@ The University of Arizona served as an institutional partner in federally-author
 - [[SummaryOfEvents_18368]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[CooperationBetweenArizonaGameA_13469]]
+- [[BlmReleasesDraftSanPedroRiverM_11464]]
+- [[PlanningEffortNearItsConclusio_11515]]
+- [[MasterPlanForBuenosAiresWildli_13323]]
+- [[NationalParksAndConservationAs_15435]]

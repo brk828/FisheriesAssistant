@@ -35,6 +35,18 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
 > -- *[[ExecutiveSummariescoloradoRive_19604]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This biological opinion, issued February 18, 1993, by the U.S. Fish and Wildlife Service Arizona Ecological Services Field Office, addresses formal Section 7 consultation for the [[Lake Havasu]] Fisheries Improvement Partnership Program. The Bureau of Land Management proposed installing artificial...
+> -- *[[BiologicalOpinionForLakeHavasu_11881]]*
+
+> This internal memorandum provides critical review of a U.S. Fish and Wildlife Service Environmental Assessment (EA) proposing rotenone treatment of the [[Virgin River]] to eradicate introduced [[Red Shiner]] (*Cyprinella lutrensis*) and facilitate recovery of the endangered [[Woundfin]]...
+> -- *[[CommentsOnVirginRiverEa_19382]]*
+
 ## Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -80,3 +92,7 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 - [[RainbowSmeltProposallakePowell_21115]]
 - [[ExecutiveSummariescoloradoRive_19604]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[BiologicalOpinionForLakeHavasu_11881]]
+- [[CommentsOnVirginRiverEa_19382]]

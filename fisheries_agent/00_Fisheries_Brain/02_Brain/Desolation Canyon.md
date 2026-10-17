@@ -23,6 +23,12 @@ Desolation Canyon is a significant reach of the Green River in the upper Colorad
 > - **[[Little Colorado River]]** - **[[Grand Canyon]]** reach of the Colorado River - **Upper mainstem Colorado River**, including [[Debeque Canyon]], [[Black Rocks]], [[Westwater Canyon]], and [[Cataract Canyon]] - **[[Green River]]**, including [[Desolation Canyon]] and [[Whirlpool Canyon]] - **...
 > -- *[[InvestigationAndClarificationO_1988_05_25]]*
 
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
 ## Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[ChangesInNativeFishDistributio_1973]]
@@ -33,3 +39,5 @@ Desolation Canyon is a significant reach of the Green River in the upper Colorad
 - [[GilaTaxonomy_14730]]
 - [[InvestigationAndClarificationO_1988_05_25]]
 - [[ProposedRuleToListBonytailChub_12003]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[BonytailReintroductionPlanForT_20248]]

@@ -59,6 +59,24 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This revised draft management plan, submitted by the [[Parker Fishery Resource Office]] to the [[U.S. Fish and Wildlife Service]] Region II in November 1996, addresses conservation of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*),...
 > -- *[[LowerColoradoRiverBasinManagem_18433]]*
 
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This biological opinion, issued February 18, 1993, by the U.S. Fish and Wildlife Service Arizona Ecological Services Field Office, addresses formal Section 7 consultation for the [[Lake Havasu]] Fisheries Improvement Partnership Program. The Bureau of Land Management proposed installing artificial...
+> -- *[[BiologicalOpinionForLakeHavasu_11881]]*
+
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
+> The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
+> -- *[[IntroductionOfPalaemonetesPalu_20723]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -118,3 +136,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[DraftdistributionAndIncidenceO_12207]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
 - [[LowerColoradoRiverBasinManagem_18433]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[BiologicalOpinionForLakeHavasu_11881]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[BonytailReintroductionPlanForT_20248]]
+- [[IntroductionOfPalaemonetesPalu_20723]]

@@ -23,6 +23,9 @@ Plecoptera is an order of freshwater macroinvertebrates commonly known as stonef
 > > **Note:** This source addresses a freshwater macroinvertebrate community rather than fish. Tags and framing below reflect the actual taxa studied (springbrook macroinvertebrates including [[Trichoptera]], [[Ephemeroptera]], [[Plecoptera]], [[Diptera]], [[Gastropoda]], [[Turbellaria]], and [[Amp...
 > -- *[[TitleClearDateStuttgartMarzYea_13338]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[APreliminaryListOfStonefliesPl_16849]]
 - [[FoodHabitsOfTheYellowstoneWhit_1950]]
@@ -35,3 +38,4 @@ Plecoptera is an order of freshwater macroinvertebrates commonly known as stonef
 - [[TitleClearDateStuttgartMarzYea_13338]]
 - [[VersuchEinerAllgemeinenBiozöno_1961]]
 - [[WinterObservationsOnBottomOrga_16187]]
+- [[LiteratureReviewAndImpactRepor_14988]]

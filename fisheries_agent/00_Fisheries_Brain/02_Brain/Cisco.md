@@ -23,6 +23,9 @@ Cisco (*Coregonus artedii*) is a commercially and recreationally important fresh
 > This article provides an overview of whitefish species in New York waters, focusing primarily on the [[Adirondack Whitefish]] or [[Labrador Whitefish]] (Coregonus clupeaformis). Whitefish are highly valued food fish with an international reputation for flavor, occurring in at least 48 New York...
 > -- *[[Whitefish_19228]]*
 
+> This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
+> -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
+
 ## Mentioned In
 - [[ChangesInAnExploitedPopulation_1967]]
 - [[ChangesInWalleyeStizostedionVi_1977_03_18]]
@@ -30,3 +33,4 @@ Cisco (*Coregonus artedii*) is a commercially and recreationally important fresh
 - [[OriginAndDispersalOfTheAlewife_1957]]
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
 - [[Whitefish_19228]]
+- [[ALiteratureReviewOfTheEffectsO_20478]]

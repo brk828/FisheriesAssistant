@@ -23,6 +23,12 @@ Gila seminuda, commonly known as the Gila topminnow, is a small native fish spec
 > Six taxa historically recognized in the Colorado River basin *Gila* complex: - *[[Gila Elegans]]* (Bonytail) — large rivers, slender body, expansive fins, highest meristic counts - *[[Gila Cypha]]* (Humpback Chub) - *Gila intermedia* — small streams/marshes, opposite phenotypic extreme from *G. e...
 > -- *[[TaxonomicHistoryAndStatusOfThe_1995_12_01]]*
 
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
+> This study applies multivariate discriminant analysis to meristic and morphometric data to resolve long-standing confusion in identifying three endangered [[Gila]] species from the [[Colorado Plateau]]: [[Gila robusta]] (roundtail chub), [[Gila cypha]] (humpback chub), and [[Gila elegans]]...
+> -- *[[MultivariateDiscriminationOfCo_19077]]*
+
 ## Mentioned In
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
 - [[EvolutionarySignificanceOfIntr_19106]]
@@ -31,3 +37,5 @@ Gila seminuda, commonly known as the Gila topminnow, is a small native fish spec
 - [[ResponseToReviewOfGilaSeminuda_1992_03_03]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[VirginRiverMonitoringArizonaSu_1994_05_16]]
+- [[GeneticVariationAmongLowerColo_12776]]
+- [[MultivariateDiscriminationOfCo_19077]]

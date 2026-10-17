@@ -29,6 +29,9 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 > This Federal Aid to Fish Restoration report documents population dynamics, species composition, limnological conditions, and management strategies for [[Arrowrock Reservoir]] and [[Lucky Peak Reservoir]] on the [[Boise River]], Idaho, from July 1965 through February 1968. Extensive gill netting...
 > -- *[[LakeAndReservoirInvestigations_12145]]*
 
+> This document from the New York State Conservation Department examines the challenges and limitations of artificial propagation and stocking programs for [[Smallmouth Bass]] (Micropterus dolomieu). The article contrasts early optimistic assumptions about warm-water fish stocking—based on successful...
+> -- *[[FishFacts_20746]]*
+
 ## Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[Craspedacusta Sowerbii in Pymatuning Reservoir]]
@@ -38,3 +41,4 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[EarlyLifeHistoryOfRazorbackSuc_12707]]
 - [[LakeAndReservoirInvestigations_12145]]
+- [[FishFacts_20746]]

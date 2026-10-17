@@ -56,6 +56,27 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 > This 1991 report presents scientifically based recommendations for interim operating procedures at [[Glen Canyon Dam]] to protect downstream aquatic and riparian resources in [[Grand Canyon National Park]] during the period between research flows (ending July 1991) and implementation of a Record of...
 > -- *[[InterimFlowsForGrandCanyonReco_18454]]*
 
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
+> -- *[[PlanningEffortNearItsConclusio_11515]]*
+
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This biological opinion, issued February 18, 1993, by the U.S. Fish and Wildlife Service Arizona Ecological Services Field Office, addresses formal Section 7 consultation for the [[Lake Havasu]] Fisheries Improvement Partnership Program. The Bureau of Land Management proposed installing artificial...
+> -- *[[BiologicalOpinionForLakeHavasu_11881]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This comprehensive 1964 report from the [[Fish and Wildlife Service]] documents extensive research on pesticide effects across multiple taxa and ecosystems. The [[Denver Wildlife Research Center]] shifted emphasis from general surveillance to intensive investigation of new pesticides as potential...
+> -- *[[WildlifeStudiesDenverWildlifeR_14329]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[BiologicalOpinionOnTheProposed_13196]]
@@ -89,3 +110,10 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[InterimFlowsForGrandCanyonReco_18454]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[PlanningEffortNearItsConclusio_11515]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[BiologicalOpinionForLakeHavasu_11881]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[WildlifeStudiesDenverWildlifeR_14329]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

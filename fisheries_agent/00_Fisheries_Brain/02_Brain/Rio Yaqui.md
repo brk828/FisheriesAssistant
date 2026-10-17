@@ -47,6 +47,9 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 > This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
 > -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -77,3 +80,4 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 - [[DraftecologicalDeterminismHybr_12773]]
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
 - [[OutlineOfSanBernardinoRanchMan_20829]]
+- [[ReportToTheDesertFishesCouncil_13683]]

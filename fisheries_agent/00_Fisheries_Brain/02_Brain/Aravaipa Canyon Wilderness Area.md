@@ -23,8 +23,12 @@ Aravaipa Canyon Wilderness Area is a protected perennial desert stream ecosystem
 > - **Water temperature**: 18°C–28°C, consistent with warm-water lotic desert stream conditions in early summer. - **Turbidity**: Moderate creek-wide turbidity overall, but **extremely high turbidity (0% visibility) at Station 2 (Chimney Rock)** due to active road construction upstream — substrate ...
 > -- *[[AravaipaCreekMonitoringData_1993_07_15]]*
 
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
 ## Mentioned In
 - [[AravaipaCreekMonitoringData_1993_07_15]]
 - [[MemorandumOnAravaipaCreekMonit_1993_06_30]]
 - [[MemorandumOnAravaipaCreekMonit_1994_06_27]]
 - [[MemorandumOnMonitoringDataArav_1997_10_16]]
+- [[DesertFishesRecoveryTeamAddres_13785]]

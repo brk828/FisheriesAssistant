@@ -26,6 +26,9 @@ The Rio Yaqui Basin is a desert aquatic system in the southwestern United States
 > This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
 > -- *[[DraftRecoveryPlanForTheEndange_15977]]*
 
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
 ## Mentioned In
 - [[AttachedDraftListOfSpeciesAssi_14772]]
 - [[ConfirmationOfReceipt_1986_07_25]]
@@ -42,3 +45,4 @@ The Rio Yaqui Basin is a desert aquatic system in the southwestern United States
 - [[WestTurkeyCreekFishS_1997_10_31]]
 - [[YaquiChubStockingIntoSanBernar_1980_10_31]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]

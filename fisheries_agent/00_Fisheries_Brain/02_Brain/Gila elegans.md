@@ -44,6 +44,15 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
 > -- *[[CompositionAndDerivationOfTheF_15375]]*
 
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
+> This study applies multivariate discriminant analysis to meristic and morphometric data to resolve long-standing confusion in identifying three endangered [[Gila]] species from the [[Colorado Plateau]]: [[Gila robusta]] (roundtail chub), [[Gila cypha]] (humpback chub), and [[Gila elegans]]...
+> -- *[[MultivariateDiscriminationOfCo_19077]]*
+
 ## Mentioned In
 - [[BonytailUpdate_16371]]
 - [[CageCulturingTheEndangeredBony_1999]]
@@ -82,3 +91,6 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[AsuCostProposalForGilaTaxonomy_18173]]
 - [[DraftecologicalDeterminismHybr_12773]]
 - [[CompositionAndDerivationOfTheF_15375]]
+- [[GeneticVariationAmongLowerColo_12776]]
+- [[LiteratureReviewAndImpactRepor_14988]]
+- [[MultivariateDiscriminationOfCo_19077]]

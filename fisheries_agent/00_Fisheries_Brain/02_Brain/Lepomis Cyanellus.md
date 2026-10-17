@@ -41,6 +41,9 @@ Lepomis cyanellus, commonly known as the green sunfish, is a native centrarchid 
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[ARelativeStudyOfOxygenConsumpt_16948]]
@@ -62,3 +65,4 @@ Lepomis cyanellus, commonly known as the green sunfish, is a native centrarchid 
 - [[RenovationOfPalmLakeHassayampa_11969]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[LiteratureReviewAndImpactRepor_14988]]

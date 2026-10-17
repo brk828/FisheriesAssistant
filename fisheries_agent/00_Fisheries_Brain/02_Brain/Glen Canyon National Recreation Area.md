@@ -14,6 +14,9 @@ Glen Canyon National Recreation Area encompasses the Colorado River ecosystem do
 > This October 24, 1991 memorandum from the U.S. Fish and Wildlife Service Region 2 to Region 6 addresses serious concerns regarding Utah's proposed introduction of [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. The document challenges the State of Utah Division of Wildlife Resources'...
 > -- *[[RainbowSmeltProposallakePowell_21115]]*
 
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[LetterConcerningStripedBassThr_1990_06_03]]
@@ -22,3 +25,4 @@ Glen Canyon National Recreation Area encompasses the Colorado River ecosystem do
 - [[ReclamationToBeginWorkOnGlenCa_1989_11_02]]
 - [[BureauOfReclamationAnnouncesDe_20789]]
 - [[RainbowSmeltProposallakePowell_21115]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

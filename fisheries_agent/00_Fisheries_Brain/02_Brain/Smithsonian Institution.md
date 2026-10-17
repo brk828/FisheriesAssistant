@@ -20,9 +20,13 @@ auto_enriched: true
 > This document outlines a comprehensive research proposal by Wayne C. Starnes ([[Smithsonian Institution]]) to address taxonomic and genetic questions regarding [[Gila]] species in the [[Colorado River]] basin under a cooperative agreement with [[USFWS]]. The project aims to resolve the taxonomic...
 > -- *[[GilaTaxonomyProjectIssuesAndPr_14720]]*
 
+> This document presents a comprehensive overview of the exceptional aquatic and semi-aquatic fauna of the [[Cuatro Ciénegas Basin]] in [[Coahuila]], [[Mexico]]. The basin contains an extraordinarily diverse assemblage of organisms for a desert region, including 18 fish species (10 endemic to the...
+> -- *[[ASummaryOfInformationAboutTheA_18574]]*
+
 ## Mentioned In
 - [[LetterOnDispositionOfFrozenBon_1993_10_01]]
 - [[ReviewOfTheEndangeredFishResea_1991_10_03]]
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
 - [[CuatroCienegasWatershedCoahuil_16108]]
 - [[GilaTaxonomyProjectIssuesAndPr_14720]]
+- [[ASummaryOfInformationAboutTheA_18574]]

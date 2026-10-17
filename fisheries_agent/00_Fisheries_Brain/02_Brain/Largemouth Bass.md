@@ -203,6 +203,72 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
 > -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
 
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> The [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*) is a threatened subspecies of cyprinid fish endemic to [[Meadow Valley Wash]] in [[Lincoln County]], Nevada. The only extant population occupies a 5-mile section of stream through [[Condor Canyon]], making it extremely vulnerable to...
+> -- *[[BigSpringSpinedaceLepidomedaMo_11635]]*
+
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This U.S. Fish and Wildlife Service biological opinion, issued December 1, 1989, evaluates a Bureau of Land Management proposal to stock endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into two spring systems in Graham County, Arizona that already support populations of...
+> -- *[[BiologicalOpinionStockingOfDes_11850]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This multi-job completion report documents experimental pond management studies conducted by the West Virginia Conservation Commission during 1955-1956 (Project F-3-R-4). The investigation focused on establishing experimental ponds, conducting creel censuses, sampling fish populations, and testing...
+> -- *[[EstablishmentOfNewOrReclaimedP_12166]]*
+
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
+> -- *[[TheMaineSmallmouth_14928]]*
+
+> This 1957 technical report documents a comprehensive survey of bass tapeworm ([[Proteocephalus ambloplitis]]) infections across 124 lakes and ponds in southern [[New Hampshire]]. Conducted during 1955-1956 under the Dingell-Johnson Project F-8-R, the study examined 1,960 fish representing 12...
+> -- *[[TheIncidenceAndDistributionOfT_15429]]*
+
+> This 1953 report documents severe fishery losses resulting from [[Bureau of Reclamation]] channelization of the lower [[Colorado River]] between [[Needles]] and [[Topock]], California. Between 1936-1938, completion of [[Hoover Dam]], [[Parker Dam]], and [[Imperial Dam]] created favorable conditions...
+> -- *[[EffectOfChannelizationOnTheFis_18139]]*
+
+> This 1956 administrative report (revised 1960) by the [[California Department of Fish and Game]] provides comprehensive guidance on commercial bait minnow culture in California. The document focuses on three introduced cyprinid species—[[Fathead Minnow]] (*Pimephales promelas*), [[Golden Shiner]]...
+> -- *[[PropagationOfBaitMinnowsInCali_18150]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
+> This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
+> -- *[[BureauOfReclamationsFailureToR_18964]]*
+
+> This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
+> -- *[[ReviewOfPotentialForageFishInt_19139]]*
+
+> Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
+> -- *[[SamplingAtAsuResearchParkAutum_19458]]*
+
+> This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
+> -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
+
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
+> The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
+> -- *[[IntroductionOfPalaemonetesPalu_20723]]*
+
+> In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
+> -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
+
 ## Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -496,3 +562,25 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[ExecutiveSummariescoloradoRive_19604]]
 - [[RoughFishControl_20167]]
 - [[OutlineOfSanBernardinoRanchMan_20829]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[BigSpringSpinedaceLepidomedaMo_11635]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[BiologicalOpinionStockingOfDes_11850]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[EstablishmentOfNewOrReclaimedP_12166]]
+- [[StatusReportForNaturalAndIntro_12972]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[FurtherInformationOnTheSpikeda_13737]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[TheMaineSmallmouth_14928]]
+- [[TheIncidenceAndDistributionOfT_15429]]
+- [[EffectOfChannelizationOnTheFis_18139]]
+- [[PropagationOfBaitMinnowsInCali_18150]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]
+- [[BureauOfReclamationsFailureToR_18964]]
+- [[ReviewOfPotentialForageFishInt_19139]]
+- [[SamplingAtAsuResearchParkAutum_19458]]
+- [[ALiteratureReviewOfTheEffectsO_20478]]
+- [[DraftDayFindingForDesertFishes_20489]]
+- [[IntroductionOfPalaemonetesPalu_20723]]
+- [[ProjectVelaUniformLakeMeadTest_20812]]

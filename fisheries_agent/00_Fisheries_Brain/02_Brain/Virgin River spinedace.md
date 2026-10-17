@@ -26,6 +26,9 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 > The U.S. Fish and Wildlife Service proposed in 1985 to list [[Lepidomeda vittata]] (Little Colorado spinedace) as a threatened species under the Endangered Species Act. This small cyprinid fish, endemic to the upper [[Little Colorado River]] drainage in eastern Arizona, has experienced severe range...
 > -- *[[EndangeredAndThreatenedWildlif_11551]]*
 
+> The [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*) is a threatened subspecies of cyprinid fish endemic to [[Meadow Valley Wash]] in [[Lincoln County]], Nevada. The only extant population occupies a 5-mile section of stream through [[Condor Canyon]], making it extremely vulnerable to...
+> -- *[[BigSpringSpinedaceLepidomedaMo_11635]]*
+
 ## Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -41,3 +44,4 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 - [[TwentyFirstAnnualDesertFishesC_1989_11_16]]
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[EndangeredAndThreatenedWildlif_11551]]
+- [[BigSpringSpinedaceLepidomedaMo_11635]]

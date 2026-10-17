@@ -23,6 +23,9 @@ Bighead carp (Hypophthalmichthys nobilis) is a large Asian cyprinid fish that ha
 > - **Historical introduction pattern**: A cited figure ("Introductions of the Warmwater Fishes of Arizona, 1850–1990," Arizona Game and Fish Department) documents decades of deliberate nonnative sport fish stocking in Arizona waters, including bass, catfish, sunfish, and crappie species — establis...
 > -- *[[ReviewOfMayDraftBiologicalOpin_1991_07_23]]*
 
+> This memorandum from the California Department of Fish and Game to the Fish and Game Commission addresses a request by [[United Energy Corporation]] (UEC) to import and possess eight exotic fish species for aquaculture and research at a facility near [[Yermo]], [[San Bernardino County]]. The...
+> -- *[[RequestByUecToImportAndPossess_18439]]*
+
 ## Mentioned In
 - [[BibliographyOfStudiesOnIntrodu_13347]]
 - [[ComputerizedDataBaseForExoticF_1991]]
@@ -30,3 +33,4 @@ Bighead carp (Hypophthalmichthys nobilis) is a large Asian cyprinid fish that ha
 - [[EvaluationOfBalanceBetweenFish_13453]]
 - [[LetterFromDesertFishesCouncilO_1984_07_30]]
 - [[ReviewOfMayDraftBiologicalOpin_1991_07_23]]
+- [[RequestByUecToImportAndPossess_18439]]

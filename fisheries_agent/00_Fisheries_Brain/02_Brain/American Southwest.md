@@ -23,6 +23,9 @@ The American Southwest, in the context of fish science and aquatic ecology, refe
 > All species discussed are native to isolated desert aquatic ecosystems of the [[American Southwest]] and the [[Sonoran Desert]], spanning several major drainage basins:
 > -- *[[LetterToDesertFishesCouncilOnS_1990_06_13]]*
 
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
 ## Mentioned In
 - [[AnnualReportUnderUsfwsSubpermi_20894]]
 - [[ChallengeCostShareAgreementBet_1993_09_15]]
@@ -33,3 +36,4 @@ The American Southwest, in the context of fish science and aquatic ecology, refe
 - [[MemorandumOnBiannualAndAnnualP_1997_10_30]]
 - [[MemorandumOnDesertFishesRecove_1989_10_25]]
 - [[PatternsOfGeneticVar_1993_05_07]]
+- [[GeneticVariationAmongLowerColo_12776]]

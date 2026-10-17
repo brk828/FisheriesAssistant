@@ -38,6 +38,9 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 > This revised draft management plan, submitted by the [[Parker Fishery Resource Office]] to the [[U.S. Fish and Wildlife Service]] Region II in November 1996, addresses conservation of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*),...
 > -- *[[LowerColoradoRiverBasinManagem_18433]]*
 
+> This document describes the comprehensive database structure developed by BIO/WEST, Inc. for the [[Glen Canyon Environmental Studies]] (GCES) investigation of [[Humpback Chub]] (*Gila cypha*) in [[Grand Canyon]]. The database encompasses 36 monthly field trips from October 1990 through November...
+> -- *[[StatusOfTheBiowestDatabase_13632]]*
+
 ## Mentioned In
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
 - [[FlowModificationsToTheGlenCany_18321]]
@@ -52,3 +55,4 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 - [[LongtermLimnologicalAndWaterQu_17092]]
 - [[TransitionMonitoringForRiparia_17903]]
 - [[LowerColoradoRiverBasinManagem_18433]]
+- [[StatusOfTheBiowestDatabase_13632]]

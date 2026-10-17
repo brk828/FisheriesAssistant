@@ -47,6 +47,15 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
 > -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
 
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
+> This letter from an Arizona State University zoologist to the U.S. Fish and Wildlife Service, dated July 20, 1990, provides expert commentary on the proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as endangered under the Endangered Species Act. While strongly supporting the...
+> -- *[[SupportForListingTheRazorbackS_13791]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -179,3 +188,6 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[RainbowSmeltProposallakePowell_21115]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[GeneticVariationAmongLowerColo_12776]]
+- [[SupportForListingTheRazorbackS_13791]]

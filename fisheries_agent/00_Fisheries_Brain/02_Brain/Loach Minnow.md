@@ -83,6 +83,36 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 > This U.S. Fish and Wildlife Service memorandum (July 22, 1994) provides formal consultation findings for road construction project FAIR 42(3) on the Fort Apache Indian Reservation, Arizona. The project involves paving 0.67 miles of road, constructing a bridge over the [[East Fork White River]], and...
 > -- *[[ReviewOfProjectFair_21120]]*
 
+> This document announces public meetings (April 14-17, 1986) regarding the Bureau of Reclamation's Upper Gila Water Supply Study and selection of a proposed action for the Draft Environmental Impact Statement. The study evaluates six alternative plans (including a "No Federal Action" option) to...
+> -- *[[PublicMeetingsAnnoucnementAndP_11475]]*
+
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
+> This biological opinion, issued April 21, 1995, addresses emergency and follow-up repair of flood damage to a low-water ford crossing of the [[Blue River]] on Forest Road 475 in the [[Apache-Sitgreaves National Forests]], [[Greenlee County]], [[Arizona]]. The U.S. Forest Service (lead agency) and...
+> -- *[[SummaryBiologicalOpinionForRep_11720]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
+> This November 17, 1988 correspondence from the U.S. Fish and Wildlife Service (FWS) Region 2 to the New Mexico Department of Game and Fish addresses concerns regarding draft recovery plans for [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*). The letter clarifies FWS...
+> -- *[[CommentsOnDraftRecoveryPlansFo_15705]]*
+
+> This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
+> -- *[[AuthorizationToUseTheRegionalD_15706]]*
+
+> This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
+> -- *[[BureauOfReclamationsFailureToR_18964]]*
+
+> This internal memorandum provides critical review of a U.S. Fish and Wildlife Service Environmental Assessment (EA) proposing rotenone treatment of the [[Virgin River]] to eradicate introduced [[Red Shiner]] (*Cyprinella lutrensis*) and facilitate recovery of the endangered [[Woundfin]]...
+> -- *[[CommentsOnVirginRiverEa_19382]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -242,3 +272,13 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 - [[ConnerDamAsPartOfCentralArizon_19170]]
 - [[SixtydayNoticeOfIntentToSueOve_20449]]
 - [[ReviewOfProjectFair_21120]]
+- [[PublicMeetingsAnnoucnementAndP_11475]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[SummaryBiologicalOpinionForRep_11720]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[FurtherInformationOnTheSpikeda_13737]]
+- [[DesertFishesRecoveryTeamAddres_13785]]
+- [[CommentsOnDraftRecoveryPlansFo_15705]]
+- [[AuthorizationToUseTheRegionalD_15706]]
+- [[BureauOfReclamationsFailureToR_18964]]
+- [[CommentsOnVirginRiverEa_19382]]

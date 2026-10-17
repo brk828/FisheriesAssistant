@@ -44,6 +44,9 @@ Pyramid Lake is a terminal freshwater lake in Nevada that serves as the primary 
 > This document contains the official minutes from the [[Cui-ui]] Recovery Team meeting held October 23, 1989 in Reno, Nevada. The meeting addressed critical issues in developing a recovery plan for [[Chasmistes cujus]], an endangered sucker species endemic to [[Pyramid Lake]]. Key concerns included...
 > -- *[[CuiuiRecoveryTeamMeetingMinute_13872]]*
 
+> This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
+> -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[AllozymeDifferencesDuplicateGe_11423]]
@@ -93,3 +96,4 @@ Pyramid Lake is a terminal freshwater lake in Nevada that serves as the primary 
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[DraftMinutesOfTheOctoberRecove_13868]]
 - [[CuiuiRecoveryTeamMeetingMinute_13872]]
+- [[TissueSampleAnalysisOfCuiuihyb_14120]]

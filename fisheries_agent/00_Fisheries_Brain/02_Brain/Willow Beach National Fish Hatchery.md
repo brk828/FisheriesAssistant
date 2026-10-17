@@ -53,6 +53,15 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 > This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
 > -- *[[ExecutiveSummariescoloradoRive_19604]]*
 
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> This letter from an Arizona State University zoologist to the U.S. Fish and Wildlife Service, dated July 20, 1990, provides expert commentary on the proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as endangered under the Endangered Species Act. While strongly supporting the...
+> -- *[[SupportForListingTheRazorbackS_13791]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
 ## Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -112,3 +121,6 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 - [[DraftLowerColoradoRiverBasinNa_11647]]
 - [[PreliminaryDraftColoradoRiverL_11719]]
 - [[ExecutiveSummariescoloradoRive_19604]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[SupportForListingTheRazorbackS_13791]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]

@@ -17,7 +17,15 @@ Phoenix is a major city in central Arizona where urban fishery opportunities wer
 > This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
 > -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
 
+> The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
+> -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
+
+> This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
+> -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[BlmReleasesDraftSanPedroRiverM_11464]]
+- [[ArchaeofaunaFromLaLomitaPequea_12928]]

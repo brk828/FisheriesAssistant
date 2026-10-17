@@ -20,6 +20,12 @@ Odonata is the taxonomic order comprising dragonflies and damselflies, which are
 > This transition is not merely qualitative but deeply **quantitative**: - In the Salmonid region, [[Trichoptera]] and [[Plecoptera]] comprise ~25% of total individual abundance - In the Barbel region, these groups are largely displaced - Conversely, [[Isopoda]], [[Nematoda]], [[Hirudinea]] (leeche...
 > -- *[[VersuchEinerAllgemeinenBiozöno_1961]]*
 
+> This 1963 doctoral dissertation by Richard Arnold Tubb examines the population dynamics of bottom-dwelling midge fly larvae (family [[Tendipedidae]], also known as [[Chironomidae]]) in a series of ten oil refinery effluent holding-ponds in [[Stillwater, Oklahoma]]. Monthly sampling from November...
+> -- *[[PopulationDynamicsOfHerbivorou_13410]]*
+
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[ComparativeEcologyOfNotropisAl_14679]]
 - [[DragonfliesCollectedInKentucky_1984_06_26]]
@@ -29,3 +35,5 @@ Odonata is the taxonomic order comprising dragonflies and damselflies, which are
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
 - [[TheOdonataOfCapeCodMassachuset_16984]]
 - [[VersuchEinerAllgemeinenBiozöno_1961]]
+- [[PopulationDynamicsOfHerbivorou_13410]]
+- [[LiteratureReviewAndImpactRepor_14988]]

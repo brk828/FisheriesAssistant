@@ -161,6 +161,39 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
 > -- *[[ExecutiveSummariescoloradoRive_19604]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This 1953 report documents severe fishery losses resulting from [[Bureau of Reclamation]] channelization of the lower [[Colorado River]] between [[Needles]] and [[Topock]], California. Between 1936-1938, completion of [[Hoover Dam]], [[Parker Dam]], and [[Imperial Dam]] created favorable conditions...
+> -- *[[EffectOfChannelizationOnTheFis_18139]]*
+
+> This report documents intensive field research conducted during May 1988 on the [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona. The study employed multiple netting methods (trammel nets, hoop nets, fyke nets, seines, drift nets) operated continuously over 28...
+> -- *[[SummaryReportOnResearchConduct_18505]]*
+
+> Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
+> -- *[[SamplingAtAsuResearchParkAutum_19458]]*
+
+> The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
+> -- *[[IntroductionOfPalaemonetesPalu_20723]]*
+
+> In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
+> -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -444,3 +477,14 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[DraftRecoveryPlanForTheEndange_15977]]
 - [[InvestigationsOfCommercialFish_18562]]
 - [[ExecutiveSummariescoloradoRive_19604]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[EffectOfChannelizationOnTheFis_18139]]
+- [[SummaryReportOnResearchConduct_18505]]
+- [[SamplingAtAsuResearchParkAutum_19458]]
+- [[IntroductionOfPalaemonetesPalu_20723]]
+- [[ProjectVelaUniformLakeMeadTest_20812]]

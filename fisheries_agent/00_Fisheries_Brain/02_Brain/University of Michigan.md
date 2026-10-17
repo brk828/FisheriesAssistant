@@ -17,6 +17,18 @@ The University of Michigan has been a significant institutional contributor to i
 > This correspondence between Dr. James E. Deacon ([[University of Nevada Las Vegas]]) and Dr. Robert R. Miller ([[University of Michigan]]) concerns the identification of a [[Gila]] specimen collected from [[Shingumu Creek]] on August 1, 1975. The specimen was tentatively identified as [[Gila...
 > -- *[[PictureAndInformationOnGilaTak_13997]]*
 
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
+> -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
+
+> This document is correspondence from the [[University of Michigan]] [[Museum of Zoology]] in Ann Arbor, Michigan. The handwritten letter appears to reference cichlid specimens, specifically mentioning [[Cichlasoma]], a genus in the family [[Cichlidae]]. The document quality is poor due to OCR...
+> -- *[[TilapiaAtCuatroCienegasMexico_15378]]*
+
+> This document presents a comprehensive overview of the exceptional aquatic and semi-aquatic fauna of the [[Cuatro Ciénegas Basin]] in [[Coahuila]], [[Mexico]]. The basin contains an extraordinarily diverse assemblage of organisms for a desert region, including 18 fish species (10 endemic to the...
+> -- *[[ASummaryOfInformationAboutTheA_18574]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -25,3 +37,7 @@ The University of Michigan has been a significant institutional contributor to i
 - [[TilapiaInCuatroCienegas_13761]]
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
 - [[PictureAndInformationOnGilaTak_13997]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[TaxonomicStatusEcologyAndDistr_14514]]
+- [[TilapiaAtCuatroCienegasMexico_15378]]
+- [[ASummaryOfInformationAboutTheA_18574]]

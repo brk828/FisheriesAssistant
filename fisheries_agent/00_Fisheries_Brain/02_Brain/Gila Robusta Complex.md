@@ -17,8 +17,12 @@ The Gila Robusta Complex refers to a group of closely related chub species and p
 > Key taxonomic entities mentioned: - **[[Gila elegans]]** — subject of a near-complete draft manuscript combining allozyme data with other lines of evidence. - **[[Gila robusta complex]]** — a species complex within genus *Gila* undergoing active genetic/taxonomic clarification; described as havin...
 > -- *[[LetterRegardingGilaElegansArti_1988_04_24]]*
 
+> This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
+> -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
+
 ## Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[FyAnnualProjectReportGilaTaxon_1993_12_06]]
 - [[LetterOnDispositionOfFrozenBon_1993_10_01]]
 - [[LetterRegardingGilaElegansArti_1988_04_24]]
+- [[TissueSampleAnalysisOfCuiuihyb_14120]]

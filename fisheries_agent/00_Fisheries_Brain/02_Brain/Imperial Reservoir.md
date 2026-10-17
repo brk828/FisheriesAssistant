@@ -17,7 +17,15 @@ Imperial Reservoir is a 2955-hectare impoundment on the Lower Colorado River nor
 > This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
 > -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
 
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This 1953 report documents severe fishery losses resulting from [[Bureau of Reclamation]] channelization of the lower [[Colorado River]] between [[Needles]] and [[Topock]], California. Between 1936-1938, completion of [[Hoover Dam]], [[Parker Dam]], and [[Imperial Dam]] created favorable conditions...
+> -- *[[EffectOfChannelizationOnTheFis_18139]]*
+
 ## Mentioned In
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[DraftmanagementPlanForTheRazor_11427]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[EffectOfChannelizationOnTheFis_18139]]

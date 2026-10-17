@@ -17,6 +17,10 @@ auto_enriched: true
 > - The expedition was planned as a **binational conservation translocation effort**, involving AGFD, New Mexico Game & Fish (NMGF), Dexter National Fish Hatchery, and Mexico's Centro Ecológico, reflecting early interagency cooperation on Rio Yaqui native fish conservation. - Target species for cap...
 > -- *[[RioYaquiFishesCaptureAndTransp_1987_01_12]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[ReEvaluationOfTheNativeFishesO_12336]]
 - [[RioYaquiFishesCaptureAndTransp_1987_01_12]]
+- [[ReportToTheDesertFishesCouncil_13683]]

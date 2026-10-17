@@ -14,9 +14,13 @@ Mosquito fish (Gambusia affinis) are small, hardy livebearing cyprinodontids com
 > This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
 > -- *[[InterimProceduresForStockingNo_15423]]*
 
+> This draft recovery plan for the [[Warm Springs Pupfish]] (*Cyprinodon nevadensis pectoralis*) was prepared by an interagency recovery team in April 1976. The subspecies is one of six described forms of *C. nevadensis*, with two already extinct. *C. n. pectoralis* has the most localized...
+> -- *[[WarmSpringsPupfish_13288]]*
+
 ## Mentioned In
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
 - [[TolerancesToFiveChlorinatedHyd_16339]]
 - [[ToxicityOfDursbanToThreeSpecie_16343]]
 - [[InterimProceduresForStockingNo_15423]]
+- [[WarmSpringsPupfish_13288]]

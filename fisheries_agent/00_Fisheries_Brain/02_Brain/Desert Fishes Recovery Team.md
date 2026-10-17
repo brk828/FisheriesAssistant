@@ -38,6 +38,9 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 > This correspondence from the [[Bureau of Land Management]] [[Tucson Resource Area Office]] to Dr. W.L. Minckley, Team Leader of the [[Desert Fishes Recovery Team]], provides input on the Recovery Team's functions and duties. Written by Jeffrey R. Simms and transmitted March 16, 1993, the letter...
 > -- *[[DfrtAccomplishmentsduties_18989]]*
 
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -129,3 +132,4 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[DfrtAccomplishmentsduties_18989]]
+- [[DesertFishesRecoveryTeamAddres_13785]]

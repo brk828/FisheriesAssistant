@@ -344,6 +344,84 @@ The Colorado River is a major southwestern North American river system that serv
 > This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
 > -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
+> This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
+> -- *[[MovementsOfInlandAnglersWithin_11325]]*
+
+> The [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*) is a threatened subspecies of cyprinid fish endemic to [[Meadow Valley Wash]] in [[Lincoln County]], Nevada. The only extant population occupies a 5-mile section of stream through [[Condor Canyon]], making it extremely vulnerable to...
+> -- *[[BigSpringSpinedaceLepidomedaMo_11635]]*
+
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This memorandum from the [[Fish and Wildlife Service]] documents the November 8, 1989 briefing regarding the October 24, 1989 [[Executive Review Committee]] (ERC) meeting for [[Glen Canyon Environmental Studies]] (GCES). The document addresses ongoing environmental studies related to [[Glen Canyon...
+> -- *[[NotesOfTheBriefingHeldNovember_11848]]*
+
+> This document describes the comprehensive database structure developed by BIO/WEST, Inc. for the [[Glen Canyon Environmental Studies]] (GCES) investigation of [[Humpback Chub]] (*Gila cypha*) in [[Grand Canyon]]. The database encompasses 36 monthly field trips from October 1990 through November...
+> -- *[[StatusOfTheBiowestDatabase_13632]]*
+
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
+> This letter from an Arizona State University zoologist to the U.S. Fish and Wildlife Service, dated July 20, 1990, provides expert commentary on the proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as endangered under the Endangered Species Act. While strongly supporting the...
+> -- *[[SupportForListingTheRazorbackS_13791]]*
+
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This February 1990 memorandum from the U.S. Fish and Wildlife Service (FWS) to the Bureau of Reclamation addresses Section 7 consultation regarding [[Glen Canyon Dam]] operations and their impacts on the endangered [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The FWS concurs with seven...
+> -- *[[OperationOfGlenCanyonDamBrazSe_14783]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This 1953 report documents severe fishery losses resulting from [[Bureau of Reclamation]] channelization of the lower [[Colorado River]] between [[Needles]] and [[Topock]], California. Between 1936-1938, completion of [[Hoover Dam]], [[Parker Dam]], and [[Imperial Dam]] created favorable conditions...
+> -- *[[EffectOfChannelizationOnTheFis_18139]]*
+
+> This 1956 administrative report (revised 1960) by the [[California Department of Fish and Game]] provides comprehensive guidance on commercial bait minnow culture in California. The document focuses on three introduced cyprinid species—[[Fathead Minnow]] (*Pimephales promelas*), [[Golden Shiner]]...
+> -- *[[PropagationOfBaitMinnowsInCali_18150]]*
+
+> This report documents intensive field research conducted during May 1988 on the [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona. The study employed multiple netting methods (trammel nets, hoop nets, fyke nets, seines, drift nets) operated continuously over 28...
+> -- *[[SummaryReportOnResearchConduct_18505]]*
+
+> This study applies multivariate discriminant analysis to meristic and morphometric data to resolve long-standing confusion in identifying three endangered [[Gila]] species from the [[Colorado Plateau]]: [[Gila robusta]] (roundtail chub), [[Gila cypha]] (humpback chub), and [[Gila elegans]]...
+> -- *[[MultivariateDiscriminationOfCo_19077]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
+> This study examines mitochondrial DNA (mtDNA) diversity in the endangered [[Razorback Sucker]] (*Xyrauchen texanus*), a large catostomid endemic to the [[Colorado River]] drainage. Researchers analyzed genetic variation in a source population from [[Lake Mohave]] (Arizona-Nevada) and three...
+> -- *[[MitochondrialDnaVariabilityInT_19125]]*
+
+> This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
+> -- *[[ReviewOfPotentialForageFishInt_19139]]*
+
+> Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
+> -- *[[SamplingAtAsuResearchParkAutum_19458]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
+> On April 10, 1990, the U.S. Fish and Wildlife Service issued a draft jeopardy biological opinion regarding the [[Animas-La Plata]] irrigation project in southwest Colorado and northeast New Mexico. The opinion concludes that construction of the project would likely jeopardize the continued...
+> -- *[[FishAndWildlifeServiceIssuesDr_20983]]*
+
+> This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
+> -- *[[FyReportingAndAccounting_21020]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -768,3 +846,29 @@ The Colorado River is a major southwestern North American river system that serv
 - [[GlenCanyonEnvironmentalStudies_19728]]
 - [[ConservationGeneticsInTheManag_20087]]
 - [[AgencyRecalcitranceAndEvasionR_20349]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]
+- [[MovementsOfInlandAnglersWithin_11325]]
+- [[BigSpringSpinedaceLepidomedaMo_11635]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[NotesOfTheBriefingHeldNovember_11848]]
+- [[StatusOfTheBiowestDatabase_13632]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[FurtherInformationOnTheSpikeda_13737]]
+- [[SupportForListingTheRazorbackS_13791]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[OperationOfGlenCanyonDamBrazSe_14783]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[EffectOfChannelizationOnTheFis_18139]]
+- [[PropagationOfBaitMinnowsInCali_18150]]
+- [[SummaryReportOnResearchConduct_18505]]
+- [[MultivariateDiscriminationOfCo_19077]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[MitochondrialDnaVariabilityInT_19125]]
+- [[ReviewOfPotentialForageFishInt_19139]]
+- [[SamplingAtAsuResearchParkAutum_19458]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[BonytailReintroductionPlanForT_20248]]
+- [[FishAndWildlifeServiceIssuesDr_20983]]
+- [[FyReportingAndAccounting_21020]]

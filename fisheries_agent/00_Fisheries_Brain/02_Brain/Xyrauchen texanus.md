@@ -44,6 +44,15 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
 > -- *[[CompositionAndDerivationOfTheF_15375]]*
 
+> This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
+> -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -93,3 +102,6 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[DraftecologicalDeterminismHybr_12773]]
 - [[CompositionAndDerivationOfTheF_15375]]
+- [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[LiteratureReviewAndImpactRepor_14988]]

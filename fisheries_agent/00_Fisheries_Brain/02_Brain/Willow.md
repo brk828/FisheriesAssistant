@@ -14,7 +14,11 @@ auto_enriched: true
 > This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
 > -- *[[SummaryOfEvents_18368]]*
 
+> This document provides construction specifications and guidelines for "Trash Catcher" dams, simple and inexpensive structures designed to improve fish habitat in streams. These low-profile dams (maximum 20 inches high) use steel posts, hogwire fencing, rocks, and accumulated stream debris to create...
+> -- *[[TrashCatcherFishStreamDams_16100]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnCienegaCree_1994_02_07]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
 - [[SummaryOfEvents_18368]]
+- [[TrashCatcherFishStreamDams_16100]]

@@ -35,6 +35,9 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 > This progress report documents the second year (1951) of the [[Adirondack Trout Restoration Project]], an experimental fisheries management program aimed at reclaiming former trout waters now inhabited by less desirable species. The reclamation procedure involves chemical eradication using...
 > -- *[[TroutRestorationInTheAdirondac_20206]]*
 
+> This internal memorandum provides critical review of a U.S. Fish and Wildlife Service Environmental Assessment (EA) proposing rotenone treatment of the [[Virgin River]] to eradicate introduced [[Red Shiner]] (*Cyprinella lutrensis*) and facilitate recovery of the endangered [[Woundfin]]...
+> -- *[[CommentsOnVirginRiverEa_19382]]*
+
 ## Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -67,3 +70,4 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 - [[SomeObservationsOnTheReclamati_15490]]
 - [[RoughFishControl_20167]]
 - [[TroutRestorationInTheAdirondac_20206]]
+- [[CommentsOnVirginRiverEa_19382]]

@@ -17,7 +17,11 @@ auto_enriched: true
 > This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
 > -- *[[CompositionAndDerivationOfTheF_15375]]*
 
+> This document presents a comprehensive overview of the exceptional aquatic and semi-aquatic fauna of the [[Cuatro Ciénegas Basin]] in [[Coahuila]], [[Mexico]]. The basin contains an extraordinarily diverse assemblage of organisms for a desert region, including 18 fish species (10 endemic to the...
+> -- *[[ASummaryOfInformationAboutTheA_18574]]*
+
 ## Mentioned In
 - [[MolecularEvolutionAndBiogeogra_1994_06_28]]
 - [[ProposalForSupportOfResearchOn_15568]]
 - [[CompositionAndDerivationOfTheF_15375]]
+- [[ASummaryOfInformationAboutTheA_18574]]

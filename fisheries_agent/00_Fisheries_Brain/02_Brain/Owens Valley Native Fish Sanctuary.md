@@ -14,7 +14,11 @@ The Owens Valley Native Fish Sanctuary represents a conservation initiative focu
 > This document is the report of the **Seventh Annual Meeting of the [[Death Valley System Committee]]** of the **[[Desert Fishes Council]]**, held February 22, 1980, at Furnace Creek, Death Valley. The meeting addressed conservation status, threats, and management actions for the endemic fish faun...
 > -- *[[SeventhAnnualMeetingDeathValle_1980_04_09]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
 ## Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]

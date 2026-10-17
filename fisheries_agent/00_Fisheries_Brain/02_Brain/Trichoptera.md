@@ -23,6 +23,9 @@ Trichoptera, commonly known as caddisflies, are an order of freshwater aquatic i
 > This transition is not merely qualitative but deeply **quantitative**: - In the Salmonid region, [[Trichoptera]] and [[Plecoptera]] comprise ~25% of total individual abundance - In the Barbel region, these groups are largely displaced - Conversely, [[Isopoda]], [[Nematoda]], [[Hirudinea]] (leeche...
 > -- *[[VersuchEinerAllgemeinenBiozöno_1961]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[DifferencesInTheOccurrenceOfNy_1947]]
 - [[FeedingHabitsOfTheSanPedroMart_15896]]
@@ -35,3 +38,4 @@ Trichoptera, commonly known as caddisflies, are an order of freshwater aquatic i
 - [[TitleClearDateStuttgartMarzYea_13338]]
 - [[VersuchEinerAllgemeinenBiozöno_1961]]
 - [[WinterObservationsOnBottomOrga_16187]]
+- [[LiteratureReviewAndImpactRepor_14988]]

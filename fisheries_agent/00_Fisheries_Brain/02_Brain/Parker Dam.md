@@ -47,6 +47,15 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 > This note documents the first records of [[Red-ear Sunfish]] (*Lepomis microlophus*) and [[Smallmouth Bass]] (*Micropterus dolomieui*) in the lower [[Colorado River]], California. The red-ear sunfish represents a new addition to California's freshwater fish fauna, while the smallmouth bass was...
 > -- *[[TheOccurrenceOfTwoAdditionalCe_18140]]*
 
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This 1953 report documents severe fishery losses resulting from [[Bureau of Reclamation]] channelization of the lower [[Colorado River]] between [[Needles]] and [[Topock]], California. Between 1936-1938, completion of [[Hoover Dam]], [[Parker Dam]], and [[Imperial Dam]] created favorable conditions...
+> -- *[[EffectOfChannelizationOnTheFis_18139]]*
+
+> The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
+> -- *[[IntroductionOfPalaemonetesPalu_20723]]*
+
 ## Mentioned In
 - [[HumpbackChubGilaCypha_18257]]
 - [[ReCommentsOnTheFederalRegister_11571]]
@@ -64,3 +73,6 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 - [[DraftdistributionAndIncidenceO_12207]]
 - [[CommentsOnTheBiologicalOpinion_17166]]
 - [[TheOccurrenceOfTwoAdditionalCe_18140]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[EffectOfChannelizationOnTheFis_18139]]
+- [[IntroductionOfPalaemonetesPalu_20723]]

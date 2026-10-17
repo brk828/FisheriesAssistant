@@ -14,6 +14,10 @@ Sullivan Lake is located at the headwaters of the Verde River. The proposed Pres
 > The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
 > -- *[[EndangeredAndThreatenedWildlif_14803]]*
 
+> The U.S. Environmental Protection Agency (EPA) Region IX and U.S. Army Corps of Engineers (Corps) conducted an Advanced Identification (ADID) project for the [[Verde River]] in Arizona under Section 404 of the Clean Water Act. This document announces public workshops (April 25-26, 1994) to discuss...
+> -- *[[VerdeRiverAdvancedIdentificati_11367]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForTheSpik_11476]]
 - [[EndangeredAndThreatenedWildlif_14803]]
+- [[VerdeRiverAdvancedIdentificati_11367]]

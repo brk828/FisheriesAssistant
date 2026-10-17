@@ -65,6 +65,21 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > This correspondence from the [[Bureau of Land Management]] [[Tucson Resource Area Office]] to Dr. W.L. Minckley, Team Leader of the [[Desert Fishes Recovery Team]], provides input on the Recovery Team's functions and duties. Written by Jeffrey R. Simms and transmitted March 16, 1993, the letter...
 > -- *[[DfrtAccomplishmentsduties_18989]]*
 
+> This study plan outlines an Advanced Identification (ADID) process for the [[Verde River]], Arizona, conducted by the U.S. Fish and Wildlife Service Phoenix Field Office in August 1991. The ADID aims to protect the Verde River aquatic ecosystem by evaluating approximately 125 river miles from...
+> -- *[[AdvancedIdentificationOfFuncti_11587]]*
+
+> This memorandum from the [[Fish and Wildlife Service]] documents the November 8, 1989 briefing regarding the October 24, 1989 [[Executive Review Committee]] (ERC) meeting for [[Glen Canyon Environmental Studies]] (GCES). The document addresses ongoing environmental studies related to [[Glen Canyon...
+> -- *[[NotesOfTheBriefingHeldNovember_11848]]*
+
+> This 1977 legal memorandum from the U.S. Department of the Interior Office of the Solicitor addresses whether hybrids of endangered or threatened species are protected under the [[Endangered Species Act]] of 1973. The Assistant Solicitor concludes that hybrids are covered by the Act based on...
+> -- *[[WhetherHybridsAreCoveredByTheE_12686]]*
+
+> This comprehensive 1964 report from the [[Fish and Wildlife Service]] documents extensive research on pesticide effects across multiple taxa and ecosystems. The [[Denver Wildlife Research Center]] shifted emphasis from general surveillance to intensive investigation of new pesticides as potential...
+> -- *[[WildlifeStudiesDenverWildlifeR_14329]]*
+
+> This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
+> -- *[[BureauOfReclamationsFailureToR_18964]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -101,3 +116,8 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[CuiuiRecoveryTeamMeetingMinute_13872]]
 - [[InteriorPublishesProposedNoSup_14551]]
 - [[DfrtAccomplishmentsduties_18989]]
+- [[AdvancedIdentificationOfFuncti_11587]]
+- [[NotesOfTheBriefingHeldNovember_11848]]
+- [[WhetherHybridsAreCoveredByTheE_12686]]
+- [[WildlifeStudiesDenverWildlifeR_14329]]
+- [[BureauOfReclamationsFailureToR_18964]]

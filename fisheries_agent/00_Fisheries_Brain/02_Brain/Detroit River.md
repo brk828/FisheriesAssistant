@@ -14,6 +14,10 @@ auto_enriched: true
 > 1. **Distribution concentrated near Great Lakes:** Muskellunge occurrence in Michigan is almost entirely restricted to counties bordering the Great Lakes, with [[Lake St. Clair]]/[[Detroit River]] as the dominant fishery by an order of magnitude over other locations. 2. **Capture method influence...
 > -- *[[TheMuskellungInMichigan_12040]]*
 
+> This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
+> -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
+
 ## Mentioned In
 - [[OriginAndDispersalOfTheAlewife_1957]]
 - [[TheMuskellungInMichigan_12040]]
+- [[ALiteratureReviewOfTheEffectsO_20478]]

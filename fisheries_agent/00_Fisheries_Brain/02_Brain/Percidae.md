@@ -44,6 +44,9 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This U.S. Fish and Wildlife Service technical report presents Habitat Suitability Index (HSI) models for the [[Slough Darter]] (*Etheostoma gracile*), a small [[Percidae]] species inhabiting lowland aquatic systems across the south-central United States. The models synthesize literature on habitat...
+> -- *[[HabitatSuitabilityIndexModelsS_15765]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -100,3 +103,4 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 - [[EndangeredAndThreatenedWildlif_11553]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[HabitatSuitabilityIndexModelsS_15765]]

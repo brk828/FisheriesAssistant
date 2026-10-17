@@ -22,6 +22,9 @@ Plagopterus argentissimus, commonly known as the Colorado River squawfish or pik
 > This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
 > -- *[[EvolutionaryRelationshipsOfThe_19110]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[LetterFromJamesEDeaconToClarkH_1975_04_17]]
 - [[SpeciesAccountRhinichthysOscul_13165]]
@@ -30,3 +33,4 @@ Plagopterus argentissimus, commonly known as the Colorado River squawfish or pik
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[AllozymicVariationAndSystemati_12782]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
+- [[ReportToTheDesertFishesCouncil_13683]]

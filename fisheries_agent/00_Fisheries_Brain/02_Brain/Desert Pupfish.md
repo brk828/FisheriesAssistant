@@ -80,6 +80,36 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
 > -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
 
+> This U.S. Fish and Wildlife Service biological opinion, issued December 1, 1989, evaluates a Bureau of Land Management proposal to stock endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into two spring systems in Graham County, Arizona that already support populations of...
+> -- *[[BiologicalOpinionStockingOfDes_11850]]*
+
+> This technical report presents a comprehensive baseline study of the [[Desert Pupfish]] (*Cyprinodon macularius*) population at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona, conducted from March 1975 to August 1976. The study documented population demography,...
+> -- *[[PreliminaryStudyOfTheDesertPup_12499]]*
+
+> This document is a formal reintroduction plan for the [[Desert Pupfish]] (*Cyprinodon macularius*) into selected waters on the Phoenix District of the U.S. Bureau of Land Management (BLM). Developed under a Memorandum of Understanding between BLM Arizona and the Arizona Game & Fish Department...
+> -- *[[ReintroductionOfDesertPupfishI_12969]]*
+
+> This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
+> -- *[[MasterPlanForBuenosAiresWildli_13323]]*
+
+> Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
+> -- *[[MinutesDesertFishesRecoveryTea_13749]]*
+
+> This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
+> -- *[[AuthorizationToUseTheRegionalD_15706]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
+> This document comprises Pima County, Arizona's Resolution No. 1998-250 establishing the [[Sonoran Desert Conservation Plan]] (SDCP), correspondence soliciting expert input on species selection, and a preliminary species list for multi-species habitat conservation planning. Passed December 3, 1998,...
+> -- *[[AResolutionOfTheBoardOfSupervi_18593]]*
+
+> This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
+> -- *[[BureauOfReclamationsFailureToR_18964]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -267,3 +297,13 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[DecliningSouthwesternAquaticHa_15002]]
 - [[GeneticVariationInDesertPupfis_15731]]
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[BiologicalOpinionStockingOfDes_11850]]
+- [[PreliminaryStudyOfTheDesertPup_12499]]
+- [[ReintroductionOfDesertPupfishI_12969]]
+- [[MasterPlanForBuenosAiresWildli_13323]]
+- [[MinutesDesertFishesRecoveryTea_13749]]
+- [[AuthorizationToUseTheRegionalD_15706]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]
+- [[AResolutionOfTheBoardOfSupervi_18593]]
+- [[BureauOfReclamationsFailureToR_18964]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]

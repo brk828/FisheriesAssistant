@@ -14,6 +14,9 @@ The Owens River is a critical freshwater system in California's eastern Sierra N
 > - **Hatching mechanism breakthrough**: Successful egg hatching was only achieved after installing a mechanical paddle apparatus that mimicked the natural fanning behavior of guarding male catfish; paddles cycled at 72 passes/minute (36 rpm shaft, 2 sweeps/revolution). - **Chemical treatments**: -...
 > -- *[[ChannelCatfishCultureInCalifor_16946]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -21,3 +24,4 @@ The Owens River is a critical freshwater system in California's eastern Sierra N
 - [[DesertFishesCouncilMeetsInMont_1980_11_13]]
 - [[LetterToCurtisMillironOnLongVa_1988_12_29]]
 - [[LetterToWLMinckleyRegardingThe_1994_05_19]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]

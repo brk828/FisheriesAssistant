@@ -29,6 +29,12 @@ auto_enriched: true
 > This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
 > -- *[[EvolutionaryRelationshipsOfThe_19110]]*
 
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
+> This study applies multivariate discriminant analysis to meristic and morphometric data to resolve long-standing confusion in identifying three endangered [[Gila]] species from the [[Colorado Plateau]]: [[Gila robusta]] (roundtail chub), [[Gila cypha]] (humpback chub), and [[Gila elegans]]...
+> -- *[[MultivariateDiscriminationOfCo_19077]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[CooperativeEcosystemStudiesUni_1999]]
@@ -39,3 +45,5 @@ auto_enriched: true
 - [[DraftecologicalDeterminismHybr_12773]]
 - [[AllozymicVariationAndSystemati_12782]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
+- [[GeneticVariationAmongLowerColo_12776]]
+- [[MultivariateDiscriminationOfCo_19077]]

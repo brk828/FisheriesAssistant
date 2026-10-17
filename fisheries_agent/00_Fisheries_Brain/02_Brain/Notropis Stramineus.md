@@ -26,6 +26,9 @@ Notropis stramineus, commonly known as the sand shiner, is a small freshwater cy
 > This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
 > -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
 
+> This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
+> -- *[[GeneticDifferentiationAmongSub_18497]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -33,3 +36,4 @@ Notropis stramineus, commonly known as the sand shiner, is a small freshwater cy
 - [[FishesOfSouthDakota_1962]]
 - [[NicheBreadthFoodOfNotropisLutr_14678]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
+- [[GeneticDifferentiationAmongSub_18497]]

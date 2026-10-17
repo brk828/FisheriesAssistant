@@ -53,6 +53,9 @@ The Gulf of California is a biogeographically significant marine basin in northw
 > This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
 > -- *[[DraftRecoveryPlanForTheEndange_15977]]*
 
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -83,3 +86,4 @@ The Gulf of California is a biogeographically significant marine basin in northw
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
 - [[GeneticVariationInDesertPupfis_15731]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]

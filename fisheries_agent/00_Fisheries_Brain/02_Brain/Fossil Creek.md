@@ -32,6 +32,12 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 > **Taxonomic & Life-History Summary**: Two non-native centrarchid species are documented. [[Redeye Bass]] (*Micropterus coosae*) reaches maximum size about 19 in (47 cm). [[Smallmouth Bass]] (*Micropterus dolomieu*) is thick and chunky with large mouth, upper jaw extending almost to rear margin of...
 > -- *[[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]*
 
+> The U.S. Environmental Protection Agency (EPA) Region IX and U.S. Army Corps of Engineers (Corps) conducted an Advanced Identification (ADID) project for the [[Verde River]] in Arizona under Section 404 of the Clean Water Act. This document announces public workshops (April 25-26, 1994) to discuss...
+> -- *[[VerdeRiverAdvancedIdentificati_11367]]*
+
+> This study plan outlines an Advanced Identification (ADID) process for the [[Verde River]], Arizona, conducted by the U.S. Fish and Wildlife Service Phoenix Field Office in August 1991. The ADID aims to protect the Verde River aquatic ecosystem by evaluating approximately 125 river miles from...
+> -- *[[AdvancedIdentificationOfFuncti_11587]]*
+
 ## Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[DesertFishesRecoveryTeamAction_11691]]
@@ -45,3 +51,5 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 - [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]
 - [[ACaseOfMistakenIdentityGenetic_2021]]
 - [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
+- [[VerdeRiverAdvancedIdentificati_11367]]
+- [[AdvancedIdentificationOfFuncti_11587]]

@@ -14,8 +14,12 @@ The Nevada Fish and Game Department is the state regulatory agency responsible f
 > Recording trucks equipped with seismic/shock instrumentation were stationed at varying distances to capture blast wave data. Wildlife mortality cleanup and cataloguing were coordinated by the [[Nevada Fish and Game Department]], with assistance from the [[Arizona Game and Fish Department]], [[Nat...
 > -- *[[SpecialFisheriesReportOnProjec_1961_11_16]]*
 
+> In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
+> -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
+
 ## Mentioned In
 - [[ArizonaNevadaCooperativeFisher_1961]]
 - [[ArizonaNevadaCooperativeFisher_1962]]
 - [[KOKANEE SALMON INTRODUCTION]]
 - [[SpecialFisheriesReportOnProjec_1961_11_16]]
+- [[ProjectVelaUniformLakeMeadTest_20812]]

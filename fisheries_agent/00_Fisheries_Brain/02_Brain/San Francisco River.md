@@ -56,6 +56,21 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 > This legal notice, dated September 12, 1994, from the Gila Watershed Partnership to the U.S. Fish and Wildlife Service challenges the adequacy of critical habitat designated for [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*) on March 8, 1994. The notice argues that the...
 > -- *[[SixtydayNoticeOfIntentToSueOve_20449]]*
 
+> This document announces public meetings (April 14-17, 1986) regarding the Bureau of Reclamation's Upper Gila Water Supply Study and selection of a proposed action for the Draft Environmental Impact Statement. The study evaluates six alternative plans (including a "No Federal Action" option) to...
+> -- *[[PublicMeetingsAnnoucnementAndP_11475]]*
+
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
+> This genetic study examined 11 stream populations of presumed [[Gila Trout]] (*Oncorhynchus gilae*) using horizontal starch gel electrophoresis of 48 protein-coding loci to address two critical conservation issues: (1) detection of hybridization with [[Rainbow Trout]] (*O. mykiss*) and (2)...
+> -- *[[GeneticIssuesInTheConservation_20219]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -87,3 +102,8 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[EndangeredAndThreatenedWildlif_14801]]
 - [[SixtydayNoticeOfIntentToSueOve_20449]]
+- [[PublicMeetingsAnnoucnementAndP_11475]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[DesertFishesRecoveryTeamAddres_13785]]
+- [[GeneticIssuesInTheConservation_20219]]

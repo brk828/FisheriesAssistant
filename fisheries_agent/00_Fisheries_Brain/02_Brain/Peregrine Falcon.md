@@ -41,6 +41,27 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 > This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
 > -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
 
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
+> -- *[[PlanningEffortNearItsConclusio_11515]]*
+
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This biological opinion, issued February 18, 1993, by the U.S. Fish and Wildlife Service Arizona Ecological Services Field Office, addresses formal Section 7 consultation for the [[Lake Havasu]] Fisheries Improvement Partnership Program. The Bureau of Land Management proposed installing artificial...
+> -- *[[BiologicalOpinionForLakeHavasu_11881]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
+> -- *[[MasterPlanForBuenosAiresWildli_13323]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -58,3 +79,10 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 - [[BiologicalAssessmentProbableEf_11481]]
 - [[BiologicalAssessmentOnThreaten_19806]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[PlanningEffortNearItsConclusio_11515]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[BiologicalOpinionForLakeHavasu_11881]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[MasterPlanForBuenosAiresWildli_13323]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

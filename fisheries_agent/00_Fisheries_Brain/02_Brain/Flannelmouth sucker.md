@@ -59,6 +59,18 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > This document compiles executive summaries of multiple research and management projects focused on endangered and native fishes of the [[Colorado River]] Basin as of April 1999. The work encompasses monitoring, stocking, and recovery efforts for four federally endangered species: [[Woundfin]]...
 > -- *[[ExecutiveSummariescoloradoRive_19604]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This report documents intensive field research conducted during May 1988 on the [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona. The study employed multiple netting methods (trammel nets, hoop nets, fyke nets, seines, drift nets) operated continuously over 28...
+> -- *[[SummaryReportOnResearchConduct_18505]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -181,3 +193,7 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 - [[DraftdistributionAndIncidenceO_12207]]
 - [[CharacterizationOfTheLifeHisto_13649]]
 - [[ExecutiveSummariescoloradoRive_19604]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[SummaryReportOnResearchConduct_18505]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

@@ -17,9 +17,13 @@ The Emerald Shiner (*Notropis atherinoides*) is a small, silvery cyprinid minnow
 > This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
 > -- *[[ConcernsAboutIntroductionOfRai_13174]]*
 
+> This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
+> -- *[[ReviewOfPotentialForageFishInt_19139]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
 - [[YoungFishDistributionInBackwat_1989]]
 - [[TheInfluenceOfSizeOnStripedBas_2000]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
+- [[ReviewOfPotentialForageFishInt_19139]]

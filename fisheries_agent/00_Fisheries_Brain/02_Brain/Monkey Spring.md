@@ -29,6 +29,12 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
 ## Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -40,3 +46,5 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[MolecularVariationAndEvolution_18435]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[StatusReportForNaturalAndIntro_12972]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]

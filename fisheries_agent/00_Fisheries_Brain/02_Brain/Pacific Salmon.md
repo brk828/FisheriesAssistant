@@ -26,6 +26,9 @@ Pacific Salmon refers to anadromous fish species (primarily Oncorhynchus spp.) n
 > This 1932-1933 study documented the fall migration of [[Steelhead]] (*Oncorhynchus mykiss*) from the [[Klamath River]] into [[Shasta River]], California. Using a counting rack with observation gates, researchers enumerated 8,525 steelhead between September 19 and December 10, 1932. The migration...
 > -- *[[ASteelheadMigrationInShastaRiv_21255]]*
 
+> This fishery leaflet provides a comprehensive overview of columnaris disease, a significant bacterial infection affecting freshwater fishes. The disease, caused by slime bacteria (*Chondrococcus columnaris* or *Cytophaga columnaris*), manifests as grayish-white lesions resembling fungal infections...
+> -- *[[ColumnarisDiseaseOfFishes_21236]]*
+
 ## Mentioned In
 - [[ASystemForRecordingMeasurement_1947]]
 - [[DamRemovalWhoShouldPay_1999_09_26]]
@@ -50,3 +53,4 @@ Pacific Salmon refers to anadromous fish species (primarily Oncorhynchus spp.) n
 - [[UpperColoradoFishRecoveryPlanI_20990]]
 - [[WesternWaterPolicyFromReclamat_1999_06_08]]
 - [[ASteelheadMigrationInShastaRiv_21255]]
+- [[ColumnarisDiseaseOfFishes_21236]]

@@ -20,8 +20,12 @@ The Warm Springs Pupfish is a critically endangered endemic species belonging to
 > - **[[Pahrump Killifish]]**: extirpated from native Manse Spring; survives only in translocated populations at Corn Creek (~2,500 individuals) and Shoshone Ponds (~2,500 individuals). Threatened by invasive bullfrogs (*Rana catesbeiana*) and proposed MX Missile infrastructure. - **[[Devils Hole P...
 > -- *[[SeventhAnnualMeetingDeathValle_1980_04_09]]*
 
+> This draft recovery plan for the [[Warm Springs Pupfish]] (*Cyprinodon nevadensis pectoralis*) was prepared by an interagency recovery team in April 1976. The subspecies is one of six described forms of *C. nevadensis*, with two already extinct. *C. n. pectoralis* has the most localized...
+> -- *[[WarmSpringsPupfish_13288]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[FourthAnnualMeetingDeathValley_11111]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
+- [[WarmSpringsPupfish_13288]]

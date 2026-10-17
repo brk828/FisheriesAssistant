@@ -53,6 +53,9 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 > This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
 > -- *[[DraftRecoveryPlanForTheEndange_15977]]*
 
+> This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
+> -- *[[GeneticDifferentiationAmongSub_18497]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -149,3 +152,4 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 - [[FactorsAffectingTheSuccessOfGi_12971]]
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
+- [[GeneticDifferentiationAmongSub_18497]]

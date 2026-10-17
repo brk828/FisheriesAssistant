@@ -35,6 +35,15 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
+> -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
+
+> This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
+> -- *[[GeneticDifferentiationAmongSub_18497]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[CompositionAndDerivationOfTheN_15363]]
@@ -52,3 +61,6 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 - [[EndangeredAndThreatenedWildlif_11651]]
 - [[TheGammaruspecosComplexCrustac_16002]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[TaxonomicStatusEcologyAndDistr_14514]]
+- [[GeneticDifferentiationAmongSub_18497]]

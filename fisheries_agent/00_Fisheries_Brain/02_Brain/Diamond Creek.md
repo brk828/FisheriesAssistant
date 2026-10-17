@@ -35,6 +35,9 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 > This proposal by [[Michael J.C. Kearsley]] and [[Tina J. Ayers]] from [[Northern Arizona University]] requests funding to continue monitoring riparian and wetland plant assemblages in the [[Colorado River]] corridor downstream of [[Glen Canyon Dam]] in [[Grand Canyon National Park]]. The 12-month...
 > -- *[[TransitionMonitoringForRiparia_17903]]*
 
+> This document describes the comprehensive database structure developed by BIO/WEST, Inc. for the [[Glen Canyon Environmental Studies]] (GCES) investigation of [[Humpback Chub]] (*Gila cypha*) in [[Grand Canyon]]. The database encompasses 36 monthly field trips from October 1990 through November...
+> -- *[[StatusOfTheBiowestDatabase_13632]]*
+
 ## Mentioned In
 - [[EffectsOfInterimFlowsFromGlenC_13655]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
@@ -47,3 +50,4 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[SelectiveWithdrawalWorkgroupMe_15753]]
 - [[TransitionMonitoringForRiparia_17903]]
+- [[StatusOfTheBiowestDatabase_13632]]

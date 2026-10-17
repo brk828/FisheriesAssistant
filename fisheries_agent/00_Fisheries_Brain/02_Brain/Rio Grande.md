@@ -44,6 +44,9 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 > This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
 > -- *[[CompositionAndDerivationOfTheF_15375]]*
 
+> This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
+> -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -67,3 +70,4 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[CompositionAndDerivationOfTheF_15375]]
+- [[TaxonomicStatusEcologyAndDistr_14514]]

@@ -119,6 +119,39 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
 > -- *[[SummaryjanuaryManagementGroupM_21002]]*
 
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This February 1988 letter from Harold M. Tyus (USFWS Colorado River Fish Project Leader) to Randy D. Radant (Utah Division of Wildlife Resources) provides critical review of two draft reports by Mark J. Rosenfeld examining the systematics of [[Gila]] species in the [[Colorado River Basin]]. Tyus...
+> -- *[[CommentsOnMRosenfeldsGilaTaxon_13067]]*
+
+> An experimental [[Razorback Sucker]] hatchery was established in 1987 at [[Ouray National Wildlife Refuge]] to evaluate streamside spawning and rearing techniques for this endangered species. The facility consisted of three 1/10 acre ponds and a building with incubators and rearing tanks. From...
+> -- *[[OurayRazorbackHatcherySummary_13377]]*
+
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This study examines mitochondrial DNA (mtDNA) diversity in the endangered [[Razorback Sucker]] (*Xyrauchen texanus*), a large catostomid endemic to the [[Colorado River]] drainage. Researchers analyzed genetic variation in a source population from [[Lake Mohave]] (Arizona-Nevada) and three...
+> -- *[[MitochondrialDnaVariabilityInT_19125]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
+> On April 10, 1990, the U.S. Fish and Wildlife Service issued a draft jeopardy biological opinion regarding the [[Animas-La Plata]] irrigation project in southwest Colorado and northeast New Mexico. The opinion concludes that construction of the project would likely jeopardize the continued...
+> -- *[[FishAndWildlifeServiceIssuesDr_20983]]*
+
+> This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
+> -- *[[FyReportingAndAccounting_21020]]*
+
 ## Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -228,3 +261,14 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[GilaTaxonomyProjectIssuesAndPr_14720]]
 - [[MeetingToDiscussProgramGoalsSt_19639]]
 - [[SummaryjanuaryManagementGroupM_21002]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[CommentsOnMRosenfeldsGilaTaxon_13067]]
+- [[OurayRazorbackHatcherySummary_13377]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[MitochondrialDnaVariabilityInT_19125]]
+- [[ManagementGroupMeetingSummary_19219]]
+- [[BonytailReintroductionPlanForT_20248]]
+- [[FishAndWildlifeServiceIssuesDr_20983]]
+- [[FyReportingAndAccounting_21020]]

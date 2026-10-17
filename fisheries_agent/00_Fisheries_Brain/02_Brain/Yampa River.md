@@ -89,6 +89,21 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
 > -- *[[SummaryjanuaryManagementGroupM_21002]]*
 
+> This February 1988 letter from Harold M. Tyus (USFWS Colorado River Fish Project Leader) to Randy D. Radant (Utah Division of Wildlife Resources) provides critical review of two draft reports by Mark J. Rosenfeld examining the systematics of [[Gila]] species in the [[Colorado River Basin]]. Tyus...
+> -- *[[CommentsOnMRosenfeldsGilaTaxon_13067]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This study applies multivariate discriminant analysis to meristic and morphometric data to resolve long-standing confusion in identifying three endangered [[Gila]] species from the [[Colorado Plateau]]: [[Gila robusta]] (roundtail chub), [[Gila cypha]] (humpback chub), and [[Gila elegans]]...
+> -- *[[MultivariateDiscriminationOfCo_19077]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
+> This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
+> -- *[[FyReportingAndAccounting_21020]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -166,3 +181,8 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[DraftdistributionAndIncidenceO_12207]]
 - [[StreamflowNeedsOfRareAndEndang_14141]]
 - [[SummaryjanuaryManagementGroupM_21002]]
+- [[CommentsOnMRosenfeldsGilaTaxon_13067]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[MultivariateDiscriminationOfCo_19077]]
+- [[ManagementGroupMeetingSummary_19219]]
+- [[FyReportingAndAccounting_21020]]

@@ -14,6 +14,10 @@ auto_enriched: true
 > 1. **Four endangered species** define the conservation focus of Colorado River water management: Humpback Chub, Colorado Squawfish, Bonytail Chub, and Razorback Sucker. 2. **Primary decline drivers**: dam/canal construction (range reduction, migration blockage, thermal alteration), loss of backwa...
 > -- *[[BriefingNotesEndangeredFishInC_14950]]*
 
+> This document describes the comprehensive database structure developed by BIO/WEST, Inc. for the [[Glen Canyon Environmental Studies]] (GCES) investigation of [[Humpback Chub]] (*Gila cypha*) in [[Grand Canyon]]. The database encompasses 36 monthly field trips from October 1990 through November...
+> -- *[[StatusOfTheBiowestDatabase_13632]]*
+
 ## Mentioned In
 - [[BriefingNotesEndangeredFishInC_14950]]
 - [[MemorandumOnAnnualResearchersQ_18168]]
+- [[StatusOfTheBiowestDatabase_13632]]

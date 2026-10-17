@@ -23,6 +23,9 @@ The Gila Mountain Sucker (Pantosteus clarki) is a native endemic sucker species 
 > - **[[Gila Trout]] (*Salmo gilae*)**: Historically widespread at higher elevations, potentially down to the Redrock Valley. Now restricted to **three (paper text also notes four) isolated tributary headwater populations** due to introduced rainbow and brown trout, which compete for resources and ...
 > -- *[[TheStatusOfTheNativeFishFaunaO_12638]]*
 
+> This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
+> -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
+
 ## Mentioned In
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
 - [[FishSamplingAtAsuResearchParkA_19405]]
@@ -31,3 +34,4 @@ The Gila Mountain Sucker (Pantosteus clarki) is a native endemic sucker species 
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[TheStatusOfTheNativeFishFaunaO_12638]]
 - [[UpdateOnNongameFishActivities_1987_08_26]]
+- [[ArchaeofaunaFromLaLomitaPequea_12928]]

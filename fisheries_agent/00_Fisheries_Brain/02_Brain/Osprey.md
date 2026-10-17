@@ -26,6 +26,9 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 > This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
 > -- *[[CharacterizationOfTheLifeHisto_13649]]*
 
+> This comprehensive 1964 report from the [[Fish and Wildlife Service]] documents extensive research on pesticide effects across multiple taxa and ecosystems. The [[Denver Wildlife Research Center]] shifted emphasis from general surveillance to intensive investigation of new pesticides as potential...
+> -- *[[WildlifeStudiesDenverWildlifeR_14329]]*
+
 ## Mentioned In
 - [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
 - [[ColoradoRiverTrophicStudiesMee_1991_07_23]]
@@ -34,3 +37,4 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 - [[DistributionAndPoststockingSur_2016]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[CharacterizationOfTheLifeHisto_13649]]
+- [[WildlifeStudiesDenverWildlifeR_14329]]

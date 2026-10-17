@@ -14,8 +14,12 @@ auto_enriched: true
 > This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
 > -- *[[LetterOnImplementationCommitte_11623]]*
 
+> This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
+> -- *[[FyReportingAndAccounting_21020]]*
+
 ## Mentioned In
 - [[BiowestReportHabitatSuitabilit_1987_09_29]]
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[AcquisitionOfHabitatPreference_11568]]
 - [[LetterOnImplementationCommitte_11623]]
+- [[FyReportingAndAccounting_21020]]

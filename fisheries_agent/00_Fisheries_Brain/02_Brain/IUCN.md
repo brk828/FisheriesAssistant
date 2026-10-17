@@ -20,7 +20,15 @@ The IUCN (International Union for Conservation of Nature) is a global authority 
 > - **Commercial fishery history (*A. oxyrhynchus*):** - Pre-1900 landings: at least **436,900 lbs (198,174 kg)**, valued at **$18,894 in 1880**. - **Gear shift timeline:** - **1880–1902:** Predominantly gill nets and seines. - **Since 1967:** Shift to otter trawls and gill nets. - Present-day land...
 > -- *[[Status of Atlantic, Acipenser oxyrhynchus, and Shortnose, A. brevirostrum, Sturgeons in North Carolina (Pisces, Acipense]]*
 
+> This document is a comprehensive member's guide for the [[IUCN]] [[Species Survival Commission]] (SSC) covering the 1994-1996 triennium. The SSC is described as the largest global network of volunteer experts working for species conservation, comprising approximately 5,000 members in 170 countries....
+> -- *[[SpeciesSurvivalCommissionAMemb_14399]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
 ## Mentioned In
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[GlobalActionPlanForFreshwaterF_1993_05_05]]
 - [[Status of Atlantic, Acipenser oxyrhynchus, and Shortnose, A. brevirostrum, Sturgeons in North Carolina (Pisces, Acipense]]
+- [[SpeciesSurvivalCommissionAMemb_14399]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]

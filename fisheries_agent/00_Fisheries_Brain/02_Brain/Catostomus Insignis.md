@@ -29,6 +29,9 @@ Catostomus insignis, commonly known as the Sonora sucker, is a native North Amer
 > This study examines putative F₁ hybrids between [[Catostomus insignis]] (Sonoran sucker) and [[Pantosteus clarki]] (desert sucker) from [[Aravaipa Creek]] and [[Bonita Creek]] in southeastern Arizona. Morphological analyses using hybrid index (HI), discriminant function analysis (DFA), and...
 > -- *[[MorphologyAndFoodsOfHybridCata_15933]]*
 
+> This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
+> -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
+
 ## Mentioned In
 - [[AravaipaCreekMonitoringData_1993_07_15]]
 - [[ColoradoSquawfishMonitoringVer_19393]]
@@ -42,3 +45,4 @@ Catostomus insignis, commonly known as the Sonora sucker, is a native North Amer
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[MorphologyAndFoodsOfHybridCata_15933]]
+- [[ArchaeofaunaFromLaLomitaPequea_12928]]

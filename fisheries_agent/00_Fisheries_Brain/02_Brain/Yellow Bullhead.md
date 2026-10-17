@@ -56,6 +56,9 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
 > -- *[[PalmLakenativeFishStatus_20905]]*
 
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -128,3 +131,4 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[WhatHaveICaught_12929]]
 - [[PrelimaryObservationsOnTheToxi_14434]]
 - [[PalmLakenativeFishStatus_20905]]
+- [[BiologicalOpinionToRepairErosi_11916]]

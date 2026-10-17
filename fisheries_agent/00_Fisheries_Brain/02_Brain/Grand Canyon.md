@@ -128,6 +128,27 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
 > -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This memorandum from the [[Fish and Wildlife Service]] documents the November 8, 1989 briefing regarding the October 24, 1989 [[Executive Review Committee]] (ERC) meeting for [[Glen Canyon Environmental Studies]] (GCES). The document addresses ongoing environmental studies related to [[Glen Canyon...
+> -- *[[NotesOfTheBriefingHeldNovember_11848]]*
+
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
+> This document describes the comprehensive database structure developed by BIO/WEST, Inc. for the [[Glen Canyon Environmental Studies]] (GCES) investigation of [[Humpback Chub]] (*Gila cypha*) in [[Grand Canyon]]. The database encompasses 36 monthly field trips from October 1990 through November...
+> -- *[[StatusOfTheBiowestDatabase_13632]]*
+
+> This February 1990 memorandum from the U.S. Fish and Wildlife Service (FWS) to the Bureau of Reclamation addresses Section 7 consultation regarding [[Glen Canyon Dam]] operations and their impacts on the endangered [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The FWS concurs with seven...
+> -- *[[OperationOfGlenCanyonDamBrazSe_14783]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -254,3 +275,10 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[InterimFlowsForGrandCanyonReco_18454]]
 - [[ExecutiveSummariescoloradoRive_19604]]
 - [[AgencyRecalcitranceAndEvasionR_20349]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[NotesOfTheBriefingHeldNovember_11848]]
+- [[GeneticVariationAmongLowerColo_12776]]
+- [[StatusOfTheBiowestDatabase_13632]]
+- [[OperationOfGlenCanyonDamBrazSe_14783]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]

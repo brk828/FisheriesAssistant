@@ -14,6 +14,9 @@ Allozyme electrophoresis is a molecular technique that separates protein variant
 > - **Core objective**: Develop and test captive propagation strategies specifically designed to meet **genetic management goals** for endangered fishes, rather than relying on untested or ad hoc hatchery protocols. - **Critique of prior genetic studies**: The author challenges the validity of conc...
 > -- *[[RazorbackSuckerCaptivePropagat_1994_12_06]]*
 
+> This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
+> -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
+
 ## Mentioned In
 - [[AdditionalRazorbackSuckerGenet_1994_04_28]]
 - [[Allozymic variation in desert pupfish from natural and artificial habitats genetic conservation in fluctuating populatio]]
@@ -25,3 +28,4 @@ Allozyme electrophoresis is a molecular technique that separates protein variant
 - [[RazorbackSuckerCaptivePropagat_1994_12_06]]
 - [[RazorbackSuckerGeneticSurveyTi_1992]]
 - [[ResponseToReviewOfGilaSeminuda_1992_03_03]]
+- [[TissueSampleAnalysisOfCuiuihyb_14120]]

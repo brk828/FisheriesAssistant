@@ -20,6 +20,9 @@ Etheostoma radiosum, commonly known as the orangebelly darter, is a small benthi
 > This comprehensive study analyzed over 500,000 darter eggs from 1954 to 1965 to investigate geographic variation in hybrid survival among etheostomatine fishes (darters). More than 130 hybrid combinations were tested, with both reciprocals reared for 70 combinations. Key findings include: (1)...
 > -- *[[GeographicVariationsInSurvival_14227]]*
 
+> This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
+> -- *[[GeneticDifferentiationAmongSub_18497]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AClassificationOfTexasAquaticC_15773]]
@@ -27,3 +30,4 @@ Etheostoma radiosum, commonly known as the orangebelly darter, is a small benthi
 - [[FiveNewSpeciesOfGyrodactylusTr_12149]]
 - [[LaboratoryHybridCombinationsAm_14219]]
 - [[GeographicVariationsInSurvival_14227]]
+- [[GeneticDifferentiationAmongSub_18497]]

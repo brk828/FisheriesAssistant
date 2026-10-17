@@ -11,6 +11,10 @@ auto_enriched: true
 > - Mainstem Colorado River chemistry at Lee's Ferry has become chemically and thermally stabilized since Glen Canyon Dam closure, replacing pre-dam seasonal variability with diurnal fluctuation — a regime shift with direct implications for native fish adapted to the historic warm, turbid, seasonal...
 > -- *[[TheChemistryOfTheColoradoRiver_1979]]*
 
+> This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
+> -- *[[GeneticDifferentiationAmongSub_18497]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[TheChemistryOfTheColoradoRiver_1979]]
+- [[GeneticDifferentiationAmongSub_18497]]

@@ -38,6 +38,12 @@ Agosia chrysogaster, commonly known as the longfin dace, is a small native cypri
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
+> -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
+
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgosiaChrysogasterACyprinidFro_17955]]
@@ -65,3 +71,5 @@ Agosia chrysogaster, commonly known as the longfin dace, is a small native cypri
 - [[FeedingDynamicsNitrogenBudgets_17775]]
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[TissueSampleAnalysisOfCuiuihyb_14120]]
+- [[LiteratureReviewAndImpactRepor_14988]]

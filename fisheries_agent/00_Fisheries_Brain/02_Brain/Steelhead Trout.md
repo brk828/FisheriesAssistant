@@ -41,6 +41,9 @@ Steelhead trout are anadromous salmonids that migrate between freshwater rivers 
 > This 1966 Federal Aid completion report (F-18-R-13, Job 1) by Ted C. Bjornn evaluates two methods for estimating [[Chinook Salmon]] and [[Steelhead Trout]] harvest in Idaho waters: postal card questionnaires and salmon/steelhead permits. The study found that questionnaire-based estimates contained...
 > -- *[[StatewideFishingHarvestSurvey_17659]]*
 
+> This fishery leaflet provides a comprehensive overview of columnaris disease, a significant bacterial infection affecting freshwater fishes. The disease, caused by slime bacteria (*Chondrococcus columnaris* or *Cytophaga columnaris*), manifests as grayish-white lesions resembling fungal infections...
+> -- *[[ColumnarisDiseaseOfFishes_21236]]*
+
 ## Mentioned In
 - [[BlameTheArmyForMuckyRiversToo_1995_04_17]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -65,3 +68,4 @@ Steelhead trout are anadromous salmonids that migrate between freshwater rivers 
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
 - [[ConservationOfNativeFreshwater_15444]]
 - [[StatewideFishingHarvestSurvey_17659]]
+- [[ColumnarisDiseaseOfFishes_21236]]

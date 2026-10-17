@@ -26,8 +26,12 @@ Blue Springs refers to a significant spring-influenced site located at river mil
 > This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
 > -- *[[TheColoradoRiverFishesRecovery_11196]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
 ## Mentioned In
 - [[BlueSpringsMiLittleColoradoRiv_1971]]
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[HabitatUseByHumpbackChubGilaCy_1991]]
 - [[TheColoradoRiverFishesRecovery_11196]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]

@@ -14,7 +14,11 @@ Sheehy Spring is a desert spring locality within the Gila River basin (likely in
 > - **Rediscovery of co-occurrence**: Gila Topminnow was found coexisting with mosquitofish and [[Green Sunfish]] in April 1976 in the upper Santa Cruz River near Locheil — a site sampled five times from 1964–1974 without any topminnow records, highlighting the difficulty of confirming true local e...
 > -- *[[StatusOfTheGilaTopminnowAndIts_13684]]*
 
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
 ## Mentioned In
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
 - [[ReAsuTopminnowPopulations_12698]]
 - [[StatusOfTheGilaTopminnowAndIts_13684]]
+- [[StatusReportForNaturalAndIntro_12972]]

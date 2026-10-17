@@ -146,6 +146,42 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
 > -- *[[SummaryjanuaryManagementGroupM_21002]]*
 
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This memorandum from the [[Fish and Wildlife Service]] documents the November 8, 1989 briefing regarding the October 24, 1989 [[Executive Review Committee]] (ERC) meeting for [[Glen Canyon Environmental Studies]] (GCES). The document addresses ongoing environmental studies related to [[Glen Canyon...
+> -- *[[NotesOfTheBriefingHeldNovember_11848]]*
+
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
+> This 1953 report documents severe fishery losses resulting from [[Bureau of Reclamation]] channelization of the lower [[Colorado River]] between [[Needles]] and [[Topock]], California. Between 1936-1938, completion of [[Hoover Dam]], [[Parker Dam]], and [[Imperial Dam]] created favorable conditions...
+> -- *[[EffectOfChannelizationOnTheFis_18139]]*
+
+> This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
+> -- *[[BureauOfReclamationsFailureToR_18964]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
+> This memorandum from the [[Bureau of Reclamation]]'s [[Glen Canyon Environmental Studies]] program addresses coordination issues regarding permits and data acquisition for research on the [[Little Colorado River]]. The document schedules a meeting among principal investigators and agency...
+> -- *[[GlenCanyonEnvironmentalStudies_19715]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
+> On April 10, 1990, the U.S. Fish and Wildlife Service issued a draft jeopardy biological opinion regarding the [[Animas-La Plata]] irrigation project in southwest Colorado and northeast New Mexico. The opinion concludes that construction of the project would likely jeopardize the continued...
+> -- *[[FishAndWildlifeServiceIssuesDr_20983]]*
+
+> This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
+> -- *[[FyReportingAndAccounting_21020]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -254,3 +290,15 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[GlenCanyonEnvironmentalStudies_19728]]
 - [[AgencyRecalcitranceAndEvasionR_20349]]
 - [[SummaryjanuaryManagementGroupM_21002]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[NotesOfTheBriefingHeldNovember_11848]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[DesertFishesRecoveryTeamAddres_13785]]
+- [[EffectOfChannelizationOnTheFis_18139]]
+- [[BureauOfReclamationsFailureToR_18964]]
+- [[ManagementGroupMeetingSummary_19219]]
+- [[GlenCanyonEnvironmentalStudies_19715]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[FishAndWildlifeServiceIssuesDr_20983]]
+- [[FyReportingAndAccounting_21020]]

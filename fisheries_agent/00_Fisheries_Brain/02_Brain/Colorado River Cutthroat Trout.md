@@ -23,6 +23,9 @@ Colorado River Cutthroat Trout is a native salmonid species historically endemic
 > This document is the 1993 U.S. Fish and Wildlife Service Station Profile for the [[Saratoga National Fish Hatchery]] in Saratoga, Wyoming, established in 1915 under authority of 36 Stat. (March 4, 1911). The station's core mission centers on egg production and distribution for three [[Salmonidae]...
 > -- *[[StationProfileSaratogaNational_1993_12_11]]*
 
+> This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
+> -- *[[SummaryStatementOfInsightsFrom_20854]]*
+
 ## Mentioned In
 - [[ColoradoRiverCutthroatTroutEnd_15756]]
 - [[ConstructionAndOperatingEf_19150]]
@@ -30,3 +33,4 @@ Colorado River Cutthroat Trout is a native salmonid species historically endemic
 - [[ProposedStockingOfNonnativeFis_18716]]
 - [[ReferencesRelatedToRareFishesA_1987_04_12]]
 - [[StationProfileSaratogaNational_1993_12_11]]
+- [[SummaryStatementOfInsightsFrom_20854]]

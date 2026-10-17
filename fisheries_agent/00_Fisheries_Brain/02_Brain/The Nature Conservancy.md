@@ -59,6 +59,18 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 > This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
 > -- *[[SummaryjanuaryManagementGroupM_21002]]*
 
+> The [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*) is a threatened subspecies of cyprinid fish endemic to [[Meadow Valley Wash]] in [[Lincoln County]], Nevada. The only extant population occupies a 5-mile section of stream through [[Condor Canyon]], making it extremely vulnerable to...
+> -- *[[BigSpringSpinedaceLepidomedaMo_11635]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
+> The BIOTA (Biodiversity Team Assessment) Project is a collaborative proposal developed in 1993 by representatives from the [[Arizona Game and Fish Department]], [[Arizona Association of Conservation Districts]], [[Arizona Gap Analysis Program]], [[The Nature Conservancy]], and the [[U.S. Fish and...
+> -- *[[AProposedDemonstrationModelToI_17636]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
 ## Mentioned In
 - [[AssignmentsMadeAtFebruaryMeeti_1992_02_19]]
 - [[AttemptedReEstablish_1969_03_06]]
@@ -100,3 +112,7 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 - [[OutlineOfSanBernardinoRanchMan_20829]]
 - [[PalmLakenativeFishStatus_20905]]
 - [[SummaryjanuaryManagementGroupM_21002]]
+- [[BigSpringSpinedaceLepidomedaMo_11635]]
+- [[DesertFishesRecoveryTeamAddres_13785]]
+- [[AProposedDemonstrationModelToI_17636]]
+- [[ManagementGroupMeetingSummary_19219]]

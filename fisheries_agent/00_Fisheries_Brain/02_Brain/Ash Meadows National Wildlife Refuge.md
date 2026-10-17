@@ -11,7 +11,11 @@ Ash Meadows National Wildlife Refuge is a protected desert aquatic ecosystem in 
 > - **Natural habitat**: Devils Hole, a deep geothermal limestone cavern/spring in Ash Meadows, Nevada — an extremely restricted, isolated desert aquatic habitat with a shallow rock shelf critical for feeding and spawning. - **Population size**: The natural population rarely exceeds 500 individuals...
 > -- *[[EvaluationOfTheRoleOfRefugiaIn_1988]]*
 
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
 ## Mentioned In
 - [[EvaluationOfTheRoleOfRefugiaIn_1988]]
 - [[LetterRequestingApprovalForJos_1985_10_02]]
 - [[OpeningOfTheAshMeadowsNational_1986_06_27]]
+- [[DraftDayFindingForDesertFishes_20489]]

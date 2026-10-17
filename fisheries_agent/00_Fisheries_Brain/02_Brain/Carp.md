@@ -83,6 +83,18 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This report documents intensive field research conducted during May 1988 on the [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona. The study employed multiple netting methods (trammel nets, hoop nets, fyke nets, seines, drift nets) operated continuously over 28...
+> -- *[[SummaryReportOnResearchConduct_18505]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -154,3 +166,7 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[InvestigationsOfCommercialFish_18562]]
 - [[RoughFishControl_20167]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[FurtherInformationOnTheSpikeda_13737]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[SummaryReportOnResearchConduct_18505]]

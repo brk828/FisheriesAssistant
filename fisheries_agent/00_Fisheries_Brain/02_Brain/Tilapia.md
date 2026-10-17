@@ -44,6 +44,12 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 > This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
 > -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
 
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This memorandum from the California Department of Fish and Game to the Fish and Game Commission addresses a request by [[United Energy Corporation]] (UEC) to import and possess eight exotic fish species for aquaculture and research at a facility near [[Yermo]], [[San Bernardino County]]. The...
+> -- *[[RequestByUecToImportAndPossess_18439]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -88,3 +94,5 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 - [[TilapiaInCuatroCienegas_13761]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[RequestByUecToImportAndPossess_18439]]

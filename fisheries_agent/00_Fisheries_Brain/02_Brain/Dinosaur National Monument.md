@@ -44,6 +44,12 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 > This administrative correspondence from April 25, 1968, documents the [[National Park Service]] response to Mr. William Minkley of [[Arizona State University]] regarding a research permit application to collect [[Humpback Chub]] (Gila cypha) eggs within [[Grand Canyon National Park]]. The letter...
 > -- *[[HumpbackChubEggCollectionInGra_13013]]*
 
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -68,3 +74,5 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[HumpbackChubEggCollectionInGra_13013]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[BonytailReintroductionPlanForT_20248]]

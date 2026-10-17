@@ -35,6 +35,9 @@ Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the
 > This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
 > -- *[[InvestigationsOfCommercialFish_18562]]*
 
+> This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
+> -- *[[GeneticDifferentiationAmongSub_18497]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnomalousThermalConditionsInAH_17103]]
@@ -64,3 +67,4 @@ Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[InvestigationsOfCommercialFish_18562]]
+- [[GeneticDifferentiationAmongSub_18497]]

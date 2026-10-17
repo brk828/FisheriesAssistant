@@ -20,6 +20,9 @@ Cladophora glomerata is a filamentous green alga commonly found in freshwater ec
 > This study examines putative F₁ hybrids between [[Catostomus insignis]] (Sonoran sucker) and [[Pantosteus clarki]] (desert sucker) from [[Aravaipa Creek]] and [[Bonita Creek]] in southeastern Arizona. Morphological analyses using hybrid index (HI), discriminant function analysis (DFA), and...
 > -- *[[MorphologyAndFoodsOfHybridCata_15933]]*
 
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[NonLethalStomachPumpingTechniq_1992_08_10]]
@@ -27,3 +30,4 @@ Cladophora glomerata is a filamentous green alga commonly found in freshwater ec
 - [[AProposalToMonitorTheEffectsOf_17697]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
 - [[MorphologyAndFoodsOfHybridCata_15933]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

@@ -1,0 +1,52 @@
+---
+species: "Multiple species (84 species recorded from Afghanistan)"
+common_name: "N/A"
+family: "Multiple families (Cyprinidae, Cobitidae, Acipenseridae, Salmonidae, Bagridae, Siluridae, Schilbeidae, Sisoridae, Poeciliidae, Gasterosteidae, Percidae, Gobiidae, Channidae, Mastacembelidae)"
+habitat: "Freshwater rivers, lakes, streams, springs, kariz systems"
+ocean_basin: "N/A"
+location: "Afghanistan, including Kabul River basin, Amu Darya basin, Helmand-Sistan basin, Hari Rud basin, Murgab River basin, Chamkani River basin, Zhob-Gowmal basin, Pishin Lora basin"
+tags: ["ichthyology", "freshwater", "biogeography", "checklist", "Afghanistan", "Central Asia", "Cyprinidae", "Cobitidae", "zoogeography"]
+title: "Fishes of Afghanistan, an annotated check-list"
+source_id: "15968"
+minckley_id: "15968"
+source_citation: "B. W. Coad (1981). Fishes of Afghanistan, an annotated check-list. Publications in Zoology 14. Minckley Library ID: 15968."
+source_file: "15968.pdf"
+text_extraction: "ocr"
+---
+# Fishes of Afghanistan: An Annotated Check-List
+
+#ichthyology #freshwater #biogeography #checklist #Afghanistan #Central-Asia #Cyprinidae #Cobitidae
+
+## Executive Summary
+
+This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is dominated by [[Cyprinidae]] (56.9%) and [[Cobitidae]] (24.5%), with [[Siluriformes]] comprising most of the remainder (11.8%). The three major drainage basins show distinct faunal compositions: the [[Kabul River]] basin (27.7% of species) contains Oriental elements from the [[Indus River]], the [[Amu Darya]] basin (20.4%) derives its fauna from the [[Caspian Sea]] basin, and the endorheic [[Helmand River]] basin (16.7%) is the most isolated and least diverse. The fauna represents a mixture of Oriental and Palaearctic species reflecting Afghanistan's position at the junction of major zoogeographic regions.
+
+## Background & Description
+
+Afghanistan's ichthyofauna has been studied intermittently since [[William Griffith]]'s collections in the 1830s, described by [[McClelland]] (1842). Subsequent major contributions include work by [[Keyserling]] (1861), [[Day]] (1876, 1878), [[Günther]] (1889), [[Hora]] (1933b, 1935), and various Soviet ichthyologists on the [[Amu Darya]] system. The country's fish fauna is impoverished compared to lowland regions due to isolation and high altitude. Surface water originates from precipitation and snowmelt over central mountain ranges including the [[Hindu Kush]], [[Paropamisus Mountains]], and [[Selseleh-ye Kuh-e Baba]]. Many rivers experience seasonal flow variations, with maximum discharge in spring/early summer and minimum in late summer to winter. Rivers often dry up or are reduced to isolated pools during low-flow periods, aggravated by irrigation abstraction.
+
+The check-list covers eight drainage basins: three flowing to the sea via the [[Indus River]] ([[Kabul River]], [[Chamkani-Kurram River]], [[Zhob-Gowmal River]]) and five endorheic or arheic basins ([[Helmand-Sistan]], [[Hari Rud]], [[Murgab River]], [[Amu Darya]], [[Pishin Lora]]). The [[Amu Darya]] forms Afghanistan's northern boundary with the USSR, flowing approximately 2500 km from the [[Pamirs]] to the [[Aral Sea]]. The [[Helmand River]], at 1050-1300 km, drains about 40% of Afghanistan and empties into the [[Sistan Lakes]], mostly in Iran. The [[Kabul River]] rises at [[Sar Chashmeh]] and flows 350 km east to join the Indus north of Attock.
+
+## Ecological & Environmental Context
+
+The fish fauna reflects Afghanistan's position at the junction of Oriental and Palaearctic zoogeographic regions. The [[Kabul River]] basin, though smallest in area, contains the greatest species diversity due to Oriental elements ascending from the [[Indus River]] system. Upper reaches are dominated by cold-adapted [[Schizothoracini]] (snow trout) and [[Cobitidae]] species adapted to fast mountain streams. The [[Amu Darya]] basin fauna shows strong affinities with the [[Caspian Sea]] basin, with transgressions linking these basins at various times including the end of the Pleistocene via the [[Uzboi Valley]]. Endemic genera include [[Aspiolucius]] and [[Pseudoscaphirhynchus]], and endemic species include [[Alburnoides taeniatus]], [[Capoetobrama kuschakewitschi]], [[Leuciscus lehmanni]], [[Noemacheilus amudarjensis]], [[Noemacheilus oxianus]], and [[Glyptosternum akhtari]].
+
+The [[Helmand River]] drainage, largest in area but most isolated hydrographically, has the least diverse fauna with only [[Cyprinidae]] and [[Cobitidae]] families represented. Seven species are shared with the [[Amu Darya]], seven with [[Indus River]] drainages, and eleven are endemic or shared with eastern Iran and Pakistani Baluchistan. Species like [[Noemacheilus stoliczkae]] and [[Schizothorax intermedius]] occur in all three major drainages, presumably through headwater capture. The upper [[Amu Darya]] is impoverished compared to lower reaches, attributed to glacial impoundment creating temporary lake connections between basins during the Pleistocene.
+
+Springs and [[kariz]] (qanat) systems serve as refuges for small fish populations throughout eastern, southern and southwestern Afghanistan. The [[Sistan]] basin consists of several lakes of variable extent depending on water flow from Afghan rivers, with the [[Hamun-e Helmand]] reaching 160 km long by 8-24 km wide at depths of 1-3 meters. The [[Shelah River]] carries overflow south to the [[Gowd-e Zereh]], a salt flat, providing flushing that maintains freshwater character.
+
+## Key Findings
+
+**Species Diversity and Distribution**: Of 84 species recorded from Afghanistan, 67 are found in only one basin, 15 in two basins, 12 in three basins, 7 in four basins, and 1 ([[Garra rossica]]) in five basins. The [[Kabul River]] basin contains 27.7% of species, [[Amu Darya]] 20.4%, and [[Helmand River]] 16.7%. Family composition shows [[Cyprinidae]] dominance at 56.9%, [[Cobitidae]] at 24.5%, and [[Siluriformes]] at 11.8%. Minor families include [[Acipenseridae]], [[Salmonidae]], [[Channidae]], and [[Mastacembelidae]].
+
+**Taxonomic Highlights**: The check-list documents three species of [[Acipenseridae]] in the [[Amu Darya]] ([[Acipenser nudiventris]], [[Pseudoscaphirhynchus hermanni]], [[Pseudoscaphirhynchus kaufmanni]]). [[Salmo trutta]] occurs as subspecies *aralensis* in the lower [[Amu Darya]] and *oxianus* in upper reaches. [[Salmo gairdneri]] (rainbow trout) has been introduced with 500,000 fingerlings released into [[Salang River]] and [[Panjsher River]] since 1966. The [[Cyprinidae]] includes 50 species with complex generic assignments, particularly in [[Schizothorax]] (13 species) and related genera. [[Cobitidae]] comprises 28 species, predominantly [[Noemacheilus]] (27 species) with subgenera given generic rank by some authors.
+
+**Introduced Species**: Several species have been introduced to Afghanistan, including [[Carassius auratus]] (goldfish) in [[Kabul River]], [[Sistan]], and [[Amu Darya]] drainages; [[Ctenopharyngodon idella]] (grass carp), [[Hypophthalmichthys molitrix]] (silver carp), and [[Rhodeus sinensis]] in breeding pools at [[Daruntah]]; [[Gambusia affinis]] in [[Sistan]], [[Tedzhen River]], [[Murgab River]], and [[Amu Darya]] basin; and [[Rhinogobius similis]] near [[Khanabad River]]. A fish research and breeding center established at Daruntah in 1967 with Chinese assistance introduced four varieties of carp (species not specified).
+
+**Zoogeographic Patterns**: The fauna represents approximately equal division between Oriental and Palaearctic elements. [[Kabul River]] Oriental species include all [[Cyprinidae]] except [[Schizothoracini]], all [[Siluriformes]] except [[Glyptosternum reticulatum]] and [[Glyptothorax jalalensis]], and all [[Channidae]]. Species shared between [[Amu Darya]] and [[Caspian Sea]] basins include [[Acipenser nudiventris]], [[Salmo trutta]], [[Barbus brachycephalus]], [[Barbus capito]], [[Capoeta capoeta]], [[Pelecus cultratus]], [[Rutilus rutilus]], [[Noemacheilus malapterurus]], [[Sabanajewia aurata]], and [[Silurus glanis]]. Some subspecies are identical between basins (e.g., [[Alburnoides bipunctatus eichwaldi]], [[Aspius aspius taeniatus]]), indicating recent connections.
+
+**Historical Collections**: Major collecting efforts include [[William Griffith]]'s 1830s collections (though some specimens were damaged or lost), [[Alexander Burnes]]' 1836-1838 mission to Kabul, [[N. Chanikoff]]'s 1858-1859 expedition (6 species including 5 new), [[Douglas Forsyth]]'s 1873 Yarkand expedition (4 species from upper [[Amu Darya]]), [[J.E.T. Aitchison]]'s Afghan Delimitation Commission collections (7 species, 3 new), [[N.A. Zarudnyi]]'s 1896-1901 eastern Iran collections (5 new species), and various 20th century expeditions by the Zoological Survey of India, Danish Scientific Investigations, and Czechoslovakian institutions.
+
+**Systematic Issues**: Many species described by [[McClelland]] (1842) are of uncertain systematic status due to damaged specimens or descriptions from drawings only. Generic placement is disputed for many [[Cyprinidae]] and [[Cobitidae]] species. Several endemic species, particularly in [[Schizothorax]] and [[Noemacheilus]], may prove synonymous with more widely distributed species pending systematic revision. [[Schizothorax anjac]] and [[Schizothorax schumacheri]] from [[Sistan]] are regarded as synonyms of other species by some authors. The systematics of [[Noemacheilus]] requires comprehensive revision.
+
+**Conservation Context**: Natural flow variations and water abstraction for irrigation cause many rivers to disappear or reduce to isolated pools during low-flow periods. The [[Aral Sea]] sturgeon [[Acipenser nudiventris]] is reported as "almost entirely exterminated" in the [[Amu Darya]]. Accidental and deliberate introductions from USSR stocking programs may add species to Afghanistan's fauna unintentionally. Environmental changes including damming (e.g., [[Daruntah]] gorge, [[Kajaki]] dam) and irrigation development affect fish habitats and distributions.

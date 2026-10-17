@@ -62,6 +62,15 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
 > -- *[[PrelimaryObservationsOnTheToxi_14434]]*
 
+> This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
+> -- *[[TheMaineSmallmouth_14928]]*
+
+> This 1957 technical report documents a comprehensive survey of bass tapeworm ([[Proteocephalus ambloplitis]]) infections across 124 lakes and ponds in southern [[New Hampshire]]. Conducted during 1955-1956 under the Dingell-Johnson Project F-8-R, the study examined 1,960 fish representing 12...
+> -- *[[TheIncidenceAndDistributionOfT_15429]]*
+
+> This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
+> -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -130,3 +139,6 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
 - [[PrelimaryObservationsOnTheToxi_14434]]
+- [[TheMaineSmallmouth_14928]]
+- [[TheIncidenceAndDistributionOfT_15429]]
+- [[ALiteratureReviewOfTheEffectsO_20478]]

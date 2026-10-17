@@ -35,6 +35,12 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 > This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
 > -- *[[DraftecologicalDeterminismHybr_12773]]*
 
+> This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
+> -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
+
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[ColoradoRiverLowerBasinFisheri_1995_03_30]]
@@ -61,3 +67,5 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 - [[AnIntestinalCestodeOfTheColora_13882]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[DraftecologicalDeterminismHybr_12773]]
+- [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[LiteratureReviewAndImpactRepor_14988]]

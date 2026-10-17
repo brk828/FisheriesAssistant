@@ -11,9 +11,13 @@ I appreciate your question, but I must clarify that "Dean Hendrickson" does not 
 > - **Listing status ambiguity**: A transcription error in 1967 combined domestic/foreign species lists, erroneously recording the Gila Topminnow as listed range-wide; internal FWS review concluded the original listing was U.S.-only, but no formal Federal Register correction was ever published. Thi...
 > -- *[[MinutesOfTheDesertFishesRecove_1993_04_08]]*
 
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
 ## Mentioned In
 - [[CorrespondenceOnSpikedaceLoach_1987_11_30]]
 - [[LetterRequestingCollectionOfQu_1987_12_01]]
 - [[LetterRequestingSupportForDese_1987_12_01]]
 - [[LetterToDuaneLShroufeOnGrandCa_1989_04_24]]
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]

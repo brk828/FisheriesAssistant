@@ -26,6 +26,15 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This unsolicited proposal to the [[U.S. Bureau of Reclamation]] outlines a three-year genetic monitoring program for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*) populations in [[Lake Mohave]], Arizona-Nevada. Submitted by researchers from [[Arizona...
 > -- *[[GeneticMonitoringOfRepatriated_17010]]*
 
+> An experimental [[Razorback Sucker]] hatchery was established in 1987 at [[Ouray National Wildlife Refuge]] to evaluate streamside spawning and rearing techniques for this endangered species. The facility consisted of three 1/10 acre ponds and a building with incubators and rearing tanks. From...
+> -- *[[OurayRazorbackHatcherySummary_13377]]*
+
+> This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
+> -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -34,3 +43,6 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[UmbrellaProjectChemoreceptionI_1993]]
 - [[UseOfFloodplainHabitatByAgeRaz_16530]]
 - [[GeneticMonitoringOfRepatriated_17010]]
+- [[OurayRazorbackHatcherySummary_13377]]
+- [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[ManagementGroupMeetingSummary_19219]]

@@ -131,6 +131,48 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
 > -- *[[PalmLakenativeFishStatus_20905]]*
 
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
+> -- *[[PlanningEffortNearItsConclusio_11515]]*
+
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
+> This biological opinion, issued April 21, 1995, addresses emergency and follow-up repair of flood damage to a low-water ford crossing of the [[Blue River]] on Forest Road 475 in the [[Apache-Sitgreaves National Forests]], [[Greenlee County]], [[Arizona]]. The U.S. Forest Service (lead agency) and...
+> -- *[[SummaryBiologicalOpinionForRep_11720]]*
+
+> This memorandum from the [[Fish and Wildlife Service]] documents the November 8, 1989 briefing regarding the October 24, 1989 [[Executive Review Committee]] (ERC) meeting for [[Glen Canyon Environmental Studies]] (GCES). The document addresses ongoing environmental studies related to [[Glen Canyon...
+> -- *[[NotesOfTheBriefingHeldNovember_11848]]*
+
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
+> This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
+> -- *[[MasterPlanForBuenosAiresWildli_13323]]*
+
+> This document describes the comprehensive database structure developed by BIO/WEST, Inc. for the [[Glen Canyon Environmental Studies]] (GCES) investigation of [[Humpback Chub]] (*Gila cypha*) in [[Grand Canyon]]. The database encompasses 36 monthly field trips from October 1990 through November...
+> -- *[[StatusOfTheBiowestDatabase_13632]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
+> The BIOTA (Biodiversity Team Assessment) Project is a collaborative proposal developed in 1993 by representatives from the [[Arizona Game and Fish Department]], [[Arizona Association of Conservation Districts]], [[Arizona Gap Analysis Program]], [[The Nature Conservancy]], and the [[U.S. Fish and...
+> -- *[[AProposedDemonstrationModelToI_17636]]*
+
+> Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
+> -- *[[SamplingAtAsuResearchParkAutum_19458]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
+> The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
+> -- *[[IntroductionOfPalaemonetesPalu_20723]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -340,3 +382,17 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[InvestigationsOfCommercialFish_18562]]
 - [[MedatiarogaStudy_19000]]
 - [[PalmLakenativeFishStatus_20905]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[PlanningEffortNearItsConclusio_11515]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[SummaryBiologicalOpinionForRep_11720]]
+- [[NotesOfTheBriefingHeldNovember_11848]]
+- [[StatusReportForNaturalAndIntro_12972]]
+- [[MasterPlanForBuenosAiresWildli_13323]]
+- [[StatusOfTheBiowestDatabase_13632]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[DesertFishesRecoveryTeamAddres_13785]]
+- [[AProposedDemonstrationModelToI_17636]]
+- [[SamplingAtAsuResearchParkAutum_19458]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[IntroductionOfPalaemonetesPalu_20723]]

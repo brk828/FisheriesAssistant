@@ -29,6 +29,9 @@ The Chesapeake Bay is a major Atlantic estuarine system and historically signifi
 > This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
 > -- *[[DraftliteratureReviewOfTheStri_15768]]*
 
+> This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
+> -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
+
 ## Mentioned In
 - [[AnEvaluationOfStripedBassAngli_1969]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -40,3 +43,4 @@ The Chesapeake Bay is a major Atlantic estuarine system and historically signifi
 - [[UseOfMSInAnesthetizingAndTrans_11291]]
 - [[TheInfluenceOfSizeOnStripedBas_2000]]
 - [[DraftliteratureReviewOfTheStri_15768]]
+- [[ALiteratureReviewOfTheEffectsO_20478]]

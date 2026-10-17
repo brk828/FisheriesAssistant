@@ -23,6 +23,9 @@ Carassius auratus, commonly known as the goldfish, is a domesticated cyprinid fi
 > - **Native habitat**: Large rivers, lakes, and ponds of the [[Amur River Basin]], Manchuria, and China, southward to the Chu River in South China. - **Feeding ecology**: - Broadly **omnivorous** as juveniles, shifting toward strong **herbivory** in subadults/adults. - Diet includes aquatic macrop...
 > -- *[[GrassCarpCtenopharyngodonIdell_19237]]*
 
+> This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
+> -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -33,3 +36,4 @@ Carassius auratus, commonly known as the goldfish, is a domesticated cyprinid fi
 - [[GrowthOfUnderyearlingSockeyeSa_15918]]
 - [[InfluenceOfAppearanceOfPreyAnd_1973]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
+- [[FishesOfAfghanistanAnAnnotated_15968]]

@@ -14,7 +14,11 @@ Oreochromis niloticus, commonly known as the Nile tilapia, is a cichlid fish spe
 > This paper (De Vos, Snoeks & Thys van den Audenaerde, 1990) documents a historical case study of catastrophic faunal turnover in [[Lake Luhondo]], Rwanda, following the introduction of [[Tilapia]] species. Prior to 1934, the lake's fish fauna was dominated by three native cyprinid species: a smal...
 > -- *[[TheEffectsOfTilapiaIntroductio_1990]]*
 
+> This memorandum from the California Department of Fish and Game to the Fish and Game Commission addresses a request by [[United Energy Corporation]] (UEC) to import and possess eight exotic fish species for aquaculture and research at a facility near [[Yermo]], [[San Bernardino County]]. The...
+> -- *[[RequestByUecToImportAndPossess_18439]]*
+
 ## Mentioned In
 - [[EffectsOfSalinityOnPreferredAn_14746]]
 - [[LetterToPeterBMoyleOnColoradoR_13792]]
 - [[TheEffectsOfTilapiaIntroductio_1990]]
+- [[RequestByUecToImportAndPossess_18439]]

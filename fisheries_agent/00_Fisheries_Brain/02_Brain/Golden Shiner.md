@@ -50,6 +50,12 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
 > -- *[[RoughFishControl_20167]]*
 
+> This 1956 administrative report (revised 1960) by the [[California Department of Fish and Game]] provides comprehensive guidance on commercial bait minnow culture in California. The document focuses on three introduced cyprinid species—[[Fathead Minnow]] (*Pimephales promelas*), [[Golden Shiner]]...
+> -- *[[PropagationOfBaitMinnowsInCali_18150]]*
+
+> This report documents intensive field research conducted during May 1988 on the [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona. The study employed multiple netting methods (trammel nets, hoop nets, fyke nets, seines, drift nets) operated continuously over 28...
+> -- *[[SummaryReportOnResearchConduct_18505]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -96,3 +102,5 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[PrelimaryObservationsOnTheToxi_14434]]
 - [[MinnowsCyprinidae_17384]]
 - [[RoughFishControl_20167]]
+- [[PropagationOfBaitMinnowsInCali_18150]]
+- [[SummaryReportOnResearchConduct_18505]]

@@ -119,6 +119,30 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This study establishes toxicity curves for cyanide exposure in [[Brown Trout]] (*Salmo trutta*) and [[Smallmouth Bass]] (*Micropterus dolomieu*) under controlled laboratory conditions. Using a constant-flow, constant-temperature apparatus, researchers determined median lethal times across a range...
+> -- *[[ToxicityOfCyanideToBrownTroutA_13902]]*
+
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
+> -- *[[TheMaineSmallmouth_14928]]*
+
+> This 1957 technical report documents a comprehensive survey of bass tapeworm ([[Proteocephalus ambloplitis]]) infections across 124 lakes and ponds in southern [[New Hampshire]]. Conducted during 1955-1956 under the Dingell-Johnson Project F-8-R, the study examined 1,960 fish representing 12...
+> -- *[[TheIncidenceAndDistributionOfT_15429]]*
+
+> This document from the New York State Conservation Department examines the challenges and limitations of artificial propagation and stocking programs for [[Smallmouth Bass]] (Micropterus dolomieu). The article contrasts early optimistic assumptions about warm-water fish stocking—based on successful...
+> -- *[[FishFacts_20746]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -233,3 +257,11 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 - [[WhatHaveICaught_12929]]
 - [[TheOccurrenceOfTwoAdditionalCe_18140]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[ToxicityOfCyanideToBrownTroutA_13902]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[TheMaineSmallmouth_14928]]
+- [[TheIncidenceAndDistributionOfT_15429]]
+- [[FishFacts_20746]]

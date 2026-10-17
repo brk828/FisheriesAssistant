@@ -23,9 +23,13 @@ The Upper Verde River is a segment of the Verde River system in Arizona that ser
 > **Primary Sampling Purpose**: This study integrated emerging remote sensing and molecular technologies (UAV, terrestrial lidar, RTK survey, eDNA) to assess current riparian and in-stream habitat conditions on the [[Upper Verde River]] and compare them to 2009 baseline assessments. The objective was...
 > -- *[[IntegrationOfNewMethodologiesI_2025]]*
 
+> This study plan outlines an Advanced Identification (ADID) process for the [[Verde River]], Arizona, conducted by the U.S. Fish and Wildlife Service Phoenix Field Office in August 1991. The ADID aims to protect the Verde River aquatic ecosystem by evaluating approximately 125 river miles from...
+> -- *[[AdvancedIdentificationOfFuncti_11587]]*
+
 ## Mentioned In
 - [[FormalSectionConsultationCentr_1988_10_28]]
 - [[LetterToDrWLMinckleyRegardingA_1985_04_15]]
 - [[VerdeRiverFishResearch_1998]]
 - [[RecoveryEffortsForBonytailChub_11837]]
 - [[IntegrationOfNewMethodologiesI_2025]]
+- [[AdvancedIdentificationOfFuncti_11587]]

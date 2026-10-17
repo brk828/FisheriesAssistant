@@ -41,6 +41,9 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 > This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
 > -- *[[PalmLakenativeFishStatus_20905]]*
 
+> This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
+> -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[ArthropodsAndVertebratesOfAriz_16220]]
@@ -63,3 +66,4 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
 - [[PalmLakenativeFishStatus_20905]]
+- [[ArchaeofaunaFromLaLomitaPequea_12928]]

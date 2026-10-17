@@ -26,6 +26,12 @@ The Fish and Wildlife Coordination Act is a federal statute that requires federa
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> This memorandum from the [[Fish and Wildlife Service]] documents the November 8, 1989 briefing regarding the October 24, 1989 [[Executive Review Committee]] (ERC) meeting for [[Glen Canyon Environmental Studies]] (GCES). The document addresses ongoing environmental studies related to [[Glen Canyon...
+> -- *[[NotesOfTheBriefingHeldNovember_11848]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[AssessmentOfEffectsOfAlteredSt_1975_05_09]]
@@ -43,3 +49,5 @@ The Fish and Wildlife Coordination Act is a federal statute that requires federa
 - [[StationProfileOfGree_1994]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[NotesOfTheBriefingHeldNovember_11848]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

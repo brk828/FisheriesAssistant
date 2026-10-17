@@ -32,6 +32,9 @@ Gila purpurea, commonly known as the Yaqui chub, is a small endemic cyprinid fis
 > This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
 > -- *[[DraftecologicalDeterminismHybr_12773]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -47,3 +50,4 @@ Gila purpurea, commonly known as the Yaqui chub, is a small endemic cyprinid fis
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[DraftecologicalDeterminismHybr_12773]]
+- [[ReportToTheDesertFishesCouncil_13683]]

@@ -20,6 +20,9 @@ auto_enriched: true
 > This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
 > -- *[[UnitedStatesListOfEndangeredFa_11533]]*
 
+> This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
+> -- *[[GeneticDifferentiationAmongSub_18497]]*
+
 ## Mentioned In
 - [[RainbowSmeltIntroductionIntoLa_1989]]
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[ReBiologicalOpinionOnRepairOfF_15004]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
+- [[GeneticDifferentiationAmongSub_18497]]

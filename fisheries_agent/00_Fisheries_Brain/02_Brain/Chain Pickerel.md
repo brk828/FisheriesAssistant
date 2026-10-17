@@ -38,6 +38,9 @@ Chain Pickerel (Esox niger) is a freshwater predatory fish species belonging to 
 > This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
 > -- *[[SomeObservationsOnTheReclamati_15490]]*
 
+> This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
+> -- *[[TheMaineSmallmouth_14928]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -55,3 +58,4 @@ Chain Pickerel (Esox niger) is a freshwater predatory fish species belonging to 
 - [[TroutFishingAtCliffPondBrewste_15489]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[SomeObservationsOnTheReclamati_15490]]
+- [[TheMaineSmallmouth_14928]]

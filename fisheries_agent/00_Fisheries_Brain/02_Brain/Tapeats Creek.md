@@ -23,6 +23,9 @@ Tapeats Creek is a tributary of the Colorado River within the Grand Canyon that 
 > This 1975 survey report documents fish fauna along the [[Colorado River]] between [[Lee's Ferry]] and [[Surprise Canyon, Arizona]], conducted by the Museum of Northern Arizona under U.S. National Park Service sponsorship. Twenty-one stations were sampled between July 7–21, 1975, though unusually ...
 > -- *[[ReportOnFishesOfTheColoradoRiv_1975]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
 ## Mentioned In
 - [[FishesCollectedOnTheGrandCanyo_15402]]
 - [[FwsProposedStudiesAndWorkForFy_11072]]
@@ -30,3 +33,4 @@ Tapeats Creek is a tributary of the Colorado River within the Grand Canyon that 
 - [[LetterExplainingAcquisitionOfE_1991_09_26]]
 - [[ReportOnFishesOfTheColoradoRiv_1975]]
 - [[SummerDistributionAndReproduct_18541]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]

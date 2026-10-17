@@ -89,6 +89,33 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This comprehensive report by Dr. C. M. McCay documents experimental work on trout nutrition conducted at the [[Connecticut State Hatchery]] at Burlington and the [[Cortland Experimental Hatchery]] in New York from 1927-1934. The research, representing cooperation between the New York State...
+> -- *[[ObservationsOnTheNutritionOfTr_12259]]*
+
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
+> This study establishes toxicity curves for cyanide exposure in [[Brown Trout]] (*Salmo trutta*) and [[Smallmouth Bass]] (*Micropterus dolomieu*) under controlled laboratory conditions. Using a constant-flow, constant-temperature apparatus, researchers determined median lethal times across a range...
+> -- *[[ToxicityOfCyanideToBrownTroutA_13902]]*
+
+> This report documents the first British record of the parasitic copepod *[[Ergasilus sieboldi]]* Nordmann, discovered in July 1967 on [[Brown Trout]] (*Salmo trutta*) in [[Howbrook Reservoir]], Yorkshire. Previously common on freshwater fishes throughout continental Europe but absent from Britain,...
+> -- *[[TheParasiticCopepodErgasilusSi_18883]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
+> This genetic study examined 11 stream populations of presumed [[Gila Trout]] (*Oncorhynchus gilae*) using horizontal starch gel electrophoresis of 48 protein-coding loci to address two critical conservation issues: (1) detection of hybridization with [[Rainbow Trout]] (*O. mykiss*) and (2)...
+> -- *[[GeneticIssuesInTheConservation_20219]]*
+
+> This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
+> -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
+
+> This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
+> -- *[[SummaryStatementOfInsightsFrom_20854]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -231,3 +258,12 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[PrelimaryObservationsOnTheToxi_14434]]
 - [[DecliningSouthwesternAquaticHa_15002]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[ObservationsOnTheNutritionOfTr_12259]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[ToxicityOfCyanideToBrownTroutA_13902]]
+- [[TheParasiticCopepodErgasilusSi_18883]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[GeneticIssuesInTheConservation_20219]]
+- [[ALiteratureReviewOfTheEffectsO_20478]]
+- [[SummaryStatementOfInsightsFrom_20854]]

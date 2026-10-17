@@ -29,6 +29,12 @@ Buenos Aires National Wildlife Refuge is a U.S. Fish and Wildlife Service facili
 > This report documents the status of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae stocked into eight tanks at [[Buenos Aires National Wildlife Refuge]] in March 1989. Sampling conducted 17-18 April 1989 recovered fish from four of eight tanks (Pozo Nuevo, Mosca, Suffrido, Carrizo Dam), with...
 > -- *[[SummaryOfRazorbackSuckerCollec_19428]]*
 
+> This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
+> -- *[[PlanningEffortNearItsConclusio_11515]]*
+
+> This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
+> -- *[[MasterPlanForBuenosAiresWildli_13323]]*
+
 ## Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[LetterToDougMcqueenSupportingN_1986_06_27]]
@@ -47,3 +53,5 @@ Buenos Aires National Wildlife Refuge is a U.S. Fish and Wildlife Service facili
 - [[UtilizationOfPondsAtBuenosAire_1986_06_06]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[SummaryOfRazorbackSuckerCollec_19428]]
+- [[PlanningEffortNearItsConclusio_11515]]
+- [[MasterPlanForBuenosAiresWildli_13323]]

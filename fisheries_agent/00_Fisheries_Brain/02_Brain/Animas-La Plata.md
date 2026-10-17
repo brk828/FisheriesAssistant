@@ -14,6 +14,10 @@ The Animas-La Plata Project was undergoing Section 7 Consultation as of February
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held April 25, 1990, in Lakewood, Colorado. The meeting addressed organizational restructuring, budget allocations, water rights acquisition, Section 7 consultations, and...
 > -- *[[AprilManagementGroupMeetingSum_19221]]*
 
+> On April 10, 1990, the U.S. Fish and Wildlife Service issued a draft jeopardy biological opinion regarding the [[Animas-La Plata]] irrigation project in southwest Colorado and northeast New Mexico. The opinion concludes that construction of the project would likely jeopardize the continued...
+> -- *[[FishAndWildlifeServiceIssuesDr_20983]]*
+
 ## Mentioned In
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[AprilManagementGroupMeetingSum_19221]]
+- [[FishAndWildlifeServiceIssuesDr_20983]]

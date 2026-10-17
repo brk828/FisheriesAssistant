@@ -20,8 +20,12 @@ The Ash Meadows Speckled Dace (*Rhinichthys osculus nevadensis*) is a subspecies
 > - **[[Pahrump Killifish]]**: extirpated from native Manse Spring; survives only in translocated populations at Corn Creek (~2,500 individuals) and Shoshone Ponds (~2,500 individuals). Threatened by invasive bullfrogs (*Rana catesbeiana*) and proposed MX Missile infrastructure. - **[[Devils Hole P...
 > -- *[[SeventhAnnualMeetingDeathValle_1980_04_09]]*
 
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[FourthAnnualMeetingDeathValley_11111]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
+- [[DraftDayFindingForDesertFishes_20489]]

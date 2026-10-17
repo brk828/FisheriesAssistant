@@ -20,9 +20,13 @@ auto_enriched: true
 > This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
 > -- *[[EvolutionaryRelationshipsOfThe_19110]]*
 
+> This document presents a comprehensive overview of the exceptional aquatic and semi-aquatic fauna of the [[Cuatro Ciénegas Basin]] in [[Coahuila]], [[Mexico]]. The basin contains an extraordinarily diverse assemblage of organisms for a desert region, including 18 fish species (10 endemic to the...
+> -- *[[ASummaryOfInformationAboutTheA_18574]]*
+
 ## Mentioned In
 - [[BookReviewsTransactionsOfTheAm_1985]]
 - [[RequestForARulingToCorrectHomo_17135]]
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
 - [[MinnowsCyprinidae_17384]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
+- [[ASummaryOfInformationAboutTheA_18574]]

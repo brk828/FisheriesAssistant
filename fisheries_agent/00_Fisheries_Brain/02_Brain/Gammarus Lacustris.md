@@ -32,6 +32,9 @@ Gammarus lacustris is a freshwater amphipod crustacean that serves as a critical
 > This Bureau of Reclamation document summarizes an April 6, 1993 Selective Withdrawal Investigations Workgroup meeting held in Phoenix, Arizona. The multi-disciplinary workgroup evaluated the feasibility and potential impacts of installing selective withdrawal facilities at [[Glen Canyon Dam]] to...
 > -- *[[SelectiveWithdrawalWorkgroupMe_15753]]*
 
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[EffectsOfThermalConstancyAndSe_1976]]
 - [[FlowModificationsToTheGlenCany_18321]]
@@ -43,3 +46,4 @@ Gammarus lacustris is a freshwater amphipod crustacean that serves as a critical
 - [[AProposalToMonitorTheEffectsOf_17697]]
 - [[CorrespondenceRegardingMeeting_13520]]
 - [[SelectiveWithdrawalWorkgroupMe_15753]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

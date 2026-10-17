@@ -38,6 +38,9 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 > This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
 > -- *[[PrelimaryObservationsOnTheToxi_14434]]*
 
+> The [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*) is a threatened subspecies of cyprinid fish endemic to [[Meadow Valley Wash]] in [[Lincoln County]], Nevada. The only extant population occupies a 5-mile section of stream through [[Condor Canyon]], making it extremely vulnerable to...
+> -- *[[BigSpringSpinedaceLepidomedaMo_11635]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -83,3 +86,4 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 - [[SummaryOfFishGrowthAndFishingS_14038]]
 - [[WhatHaveICaught_12929]]
 - [[PrelimaryObservationsOnTheToxi_14434]]
+- [[BigSpringSpinedaceLepidomedaMo_11635]]

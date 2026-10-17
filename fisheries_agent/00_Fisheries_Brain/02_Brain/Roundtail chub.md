@@ -86,6 +86,18 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 > This report documents the status, distribution, and habitat use of native fish species in [[Bass Creek]] and [[Hotsprings Creek]] within the [[Muleshoe Preserve]], Arizona, based on surveys conducted in January, March, and June 1987. The study area comprises 18 km of perennial stream in the [[Gila...
 > -- *[[AReportToTheArizonaNatureConse_15171]]*
 
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -216,3 +228,7 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
 - [[GilaTaxonomyProjectIssuesAndPr_14720]]
 - [[AReportToTheArizonaNatureConse_15171]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]
+- [[BonytailReintroductionPlanForT_20248]]

@@ -20,7 +20,11 @@ Coward Springs is a district in South Australia characterized by mound springs a
 > - **Habitat type:** Permanent, naturally occurring artesian water sources in an arid/semi-arid environment, forming isolated aquatic "island" ecosystems. - **Distribution in South Australia:** 1. [[Lake Frome]], [[Lake Callabonna]], and [[Lake Blanche]] area — relatively minor springs with small ...
 > -- *[[SouthAustraliaSMoundSpringsSom_20663]]*
 
+> This document is an extensive unpublished bibliography compiled by Peter J. Unmack in 1995, cataloging scientific and technical literature on the [[Great Artesian Basin]] and its associated [[Mound Springs]] in Australia. The bibliography encompasses over 300 references spanning from the 1870s to...
+> -- *[[AustralianDesertSpringsgreatAr_11445]]*
+
 ## Mentioned In
 - [[BirdsOfTheMoundSpringsAndBores_17193]]
 - [[ReptilesOfTheMoundSpringsArea_1985]]
 - [[SouthAustraliaSMoundSpringsSom_20663]]
+- [[AustralianDesertSpringsgreatAr_11445]]

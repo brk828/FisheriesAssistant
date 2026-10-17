@@ -11,5 +11,9 @@ auto_enriched: true
 > - **Primary habitat**: Perennial reach of [[Cocio Wash]] downstream of mine seepage inputs, supporting a "normal biological community." - **Riparian vegetation**: dense stands of [[Tamarix Pentandra]] (tamarisk/saltcedar), *Salix* sp. (willows), and *Typha angustifolia* (cattails). - **Co-occurri...
 > -- *[[APhysicoChemicalAndBiologicalA_1974_05_30]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
+- [[ReportToTheDesertFishesCouncil_13683]]

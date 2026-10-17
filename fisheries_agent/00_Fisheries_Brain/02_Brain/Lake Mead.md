@@ -128,6 +128,18 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
 > -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
+> -- *[[ReviewOfPotentialForageFishInt_19139]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
+> In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
+> -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -245,3 +257,7 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[CommentsOnTheBiologicalOpinion_17166]]
 - [[ExecutiveSummariescoloradoRive_19604]]
 - [[AgencyRecalcitranceAndEvasionR_20349]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[ReviewOfPotentialForageFishInt_19139]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[ProjectVelaUniformLakeMeadTest_20812]]

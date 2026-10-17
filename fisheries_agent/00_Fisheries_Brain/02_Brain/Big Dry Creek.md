@@ -14,6 +14,10 @@ Big Dry Creek received a replicated population of Gila Trout from Spruce Creek i
 > This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
 > -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
 
+> This genetic study examined 11 stream populations of presumed [[Gila Trout]] (*Oncorhynchus gilae*) using horizontal starch gel electrophoresis of 48 protein-coding loci to address two critical conservation issues: (1) detection of hybridization with [[Rainbow Trout]] (*O. mykiss*) and (2)...
+> -- *[[GeneticIssuesInTheConservation_20219]]*
+
 ## Mentioned In
 - [[AddendumToTheMarchEnvironmenta_11496]]
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
+- [[GeneticIssuesInTheConservation_20219]]

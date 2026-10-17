@@ -23,6 +23,9 @@ Deer Creek is a relatively unmodified tributary of the Sacramento River in Teham
 > This 1985 study by [[Peter B. Moyle]] and [[Donald M. Baltz]] examined microhabitat use (depth, velocity, substrate) by an assemblage of eight native California stream fishes in [[Deer Creek]], a relatively unmodified tributary of the [[Sacramento River]] in Tehama County, California. The researc...
 > -- *[[MicrohabitatUseByAnAssemblageO_1985]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
 ## Mentioned In
 - [[BibliographyOfStudiesOnIntrodu_13347]]
 - [[FishesOfTheWakarusaRiverInKans_14015]]
@@ -30,3 +33,4 @@ Deer Creek is a relatively unmodified tributary of the Sacramento River in Teham
 - [[LetterExplainingAcquisitionOfE_1991_09_26]]
 - [[MicrohabitatUseByAnAssemblageO_1985]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]

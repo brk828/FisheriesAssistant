@@ -17,8 +17,12 @@ auto_enriched: true
 > This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
 > -- *[[AllocatingFreshWaterToAquaticE_18641]]*
 
+> This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
+> -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
+
 ## Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[SurvivalOfSomeFishesRecentlyIn_19099]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[AllocatingFreshWaterToAquaticE_18641]]
+- [[ArchaeofaunaFromLaLomitaPequea_12928]]

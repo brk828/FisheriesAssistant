@@ -11,5 +11,9 @@ Bulrush (Scirpus sp.) is emergent vegetation that provides cover habitat utilize
 > This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
 > -- *[[DistributionAndPoststockingSur_2016]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
 ## Mentioned In
 - [[DistributionAndPoststockingSur_2016]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]

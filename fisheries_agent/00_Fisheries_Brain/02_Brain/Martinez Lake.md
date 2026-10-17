@@ -20,7 +20,11 @@ auto_enriched: true
 > This completion report (Project F-7-R-4, Work Plan 4, Job A-1) documents a comprehensive fisheries investigation of backwater lakes along the [[Lower Colorado River]] within the [[Imperial National Wildlife Refuge]], Arizona, conducted from January 16 to October 15, 1961. The study aimed to...
 > -- *[[ABasicSurveyOfWatersInDistrict_14982]]*
 
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
 ## Mentioned In
 - [[HabitatUseByRazorbackSuckersRe_1995]]
 - [[ProgressReportLowerColoradoRiv_14984]]
 - [[ABasicSurveyOfWatersInDistrict_14982]]
+- [[DraftEnvironmentalAssessmentLo_11489]]

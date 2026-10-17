@@ -50,6 +50,9 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 > This U.S. Fish and Wildlife Service memorandum (July 22, 1994) provides formal consultation findings for road construction project FAIR 42(3) on the Fort Apache Indian Reservation, Arizona. The project involves paving 0.67 miles of road, constructing a bridge over the [[East Fork White River]], and...
 > -- *[[ReviewOfProjectFair_21120]]*
 
+> This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
+> -- *[[AuthorizationToUseTheRegionalD_15706]]*
+
 ## Mentioned In
 - [[AnAnalysisOfFHybridsBetweenApa_1984_09_24]]
 - [[AnalysisOfApacheTroutPopulatio_15424]]
@@ -115,3 +118,4 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 - [[DecliningSouthwesternAquaticHa_15002]]
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
 - [[ReviewOfProjectFair_21120]]
+- [[AuthorizationToUseTheRegionalD_15706]]

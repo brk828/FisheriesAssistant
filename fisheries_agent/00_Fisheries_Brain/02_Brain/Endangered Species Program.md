@@ -14,9 +14,13 @@ The Endangered Species Program refers to coordinated federal conservation initia
 > - **Purpose of Candidate Conservation**: To reduce threats to candidate species and their ecosystems sufficiently to make ESA listing unnecessary, or to stabilize declining species while listing of higher-priority species proceeds. - **Legal Authorities Leveraged**: - **Section 6** — grants to St...
 > -- *[[ReviewOfDraftCandidateConserva_15752]]*
 
+> This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
+> -- *[[PlanningEffortNearItsConclusio_11515]]*
+
 ## Mentioned In
 - [[CancellationOfNextMeeting_1986_07_14]]
 - [[EndangeredSpeciesProgramReview_1991_11_08]]
 - [[MemorandumOnNewMexicoScientifi_16554]]
 - [[ReviewOfDraftCandidateConserva_15752]]
 - [[StudiesOnTheRazorbackSuckerXyr_1974_06_18]]
+- [[PlanningEffortNearItsConclusio_11515]]

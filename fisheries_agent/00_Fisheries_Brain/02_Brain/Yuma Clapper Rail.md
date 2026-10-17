@@ -56,6 +56,15 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
 > -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
 
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> This document is a formal Section 7 Biological Opinion issued by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services Field Office]] on February 18, 1993, responding to a consultation request from the [[Bureau of Land Management]] [[Yuma District Office]]. The opinion addresses the...
+> -- *[[BiologicalOpinionForLakeHavasu_11704]]*
+
+> This biological opinion, issued February 18, 1993, by the U.S. Fish and Wildlife Service Arizona Ecological Services Field Office, addresses formal Section 7 consultation for the [[Lake Havasu]] Fisheries Improvement Partnership Program. The Bureau of Land Management proposed installing artificial...
+> -- *[[BiologicalOpinionForLakeHavasu_11881]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -76,3 +85,6 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[CommentsOnTheBiologicalOpinion_17166]]
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[BiologicalOpinionForLakeHavasu_11704]]
+- [[BiologicalOpinionForLakeHavasu_11881]]

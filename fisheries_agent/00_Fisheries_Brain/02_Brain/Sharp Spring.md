@@ -26,6 +26,9 @@ Sharp Spring is a small, isolated desert spring population in the Gila River bas
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
 ## Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[MhcVariationInTheEndangeredGil_20763]]
@@ -35,3 +38,4 @@ Sharp Spring is a small, isolated desert spring population in the Gila River bas
 - [[StockingOfGilaTopminnowAtPhoen_11815]]
 - [[MolecularVariationAndEvolution_18435]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[StatusReportForNaturalAndIntro_12972]]

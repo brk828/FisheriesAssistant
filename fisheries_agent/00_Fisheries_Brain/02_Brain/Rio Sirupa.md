@@ -14,5 +14,9 @@ auto_enriched: true
 > - The expedition was planned as a **binational conservation translocation effort**, involving AGFD, New Mexico Game & Fish (NMGF), Dexter National Fish Hatchery, and Mexico's Centro Ecológico, reflecting early interagency cooperation on Rio Yaqui native fish conservation. - Target species for cap...
 > -- *[[RioYaquiFishesCaptureAndTransp_1987_01_12]]*
 
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
 ## Mentioned In
 - [[RioYaquiFishesCaptureAndTransp_1987_01_12]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]

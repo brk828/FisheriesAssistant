@@ -137,6 +137,27 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
 > -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
+> This memorandum from the [[Fish and Wildlife Service]] documents the November 8, 1989 briefing regarding the October 24, 1989 [[Executive Review Committee]] (ERC) meeting for [[Glen Canyon Environmental Studies]] (GCES). The document addresses ongoing environmental studies related to [[Glen Canyon...
+> -- *[[NotesOfTheBriefingHeldNovember_11848]]*
+
+> This document describes the comprehensive database structure developed by BIO/WEST, Inc. for the [[Glen Canyon Environmental Studies]] (GCES) investigation of [[Humpback Chub]] (*Gila cypha*) in [[Grand Canyon]]. The database encompasses 36 monthly field trips from October 1990 through November...
+> -- *[[StatusOfTheBiowestDatabase_13632]]*
+
+> This February 1990 memorandum from the U.S. Fish and Wildlife Service (FWS) to the Bureau of Reclamation addresses Section 7 consultation regarding [[Glen Canyon Dam]] operations and their impacts on the endangered [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The FWS concurs with seven...
+> -- *[[OperationOfGlenCanyonDamBrazSe_14783]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -283,3 +304,10 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[InterimFlowsForGrandCanyonReco_18454]]
 - [[GlenCanyonEnvironmentalStudies_19728]]
 - [[AgencyRecalcitranceAndEvasionR_20349]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]
+- [[NotesOfTheBriefingHeldNovember_11848]]
+- [[StatusOfTheBiowestDatabase_13632]]
+- [[OperationOfGlenCanyonDamBrazSe_14783]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

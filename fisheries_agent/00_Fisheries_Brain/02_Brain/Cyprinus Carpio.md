@@ -26,6 +26,9 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 > This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
 > -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -45,3 +48,4 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
+- [[LiteratureReviewAndImpactRepor_14988]]

@@ -26,6 +26,9 @@ The Mexican Spotted Owl is not directly relevant to fish science or aquatic ecol
 > This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
 > -- *[[APetitionPursuantToArticleOfTh_17637]]*
 
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
 ## Mentioned In
 - [[ConcurrenceLetterOnBearCanyonT_1997_02_21]]
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
@@ -37,3 +40,4 @@ The Mexican Spotted Owl is not directly relevant to fish science or aquatic ecol
 - [[ReportForestServiceDisruptedOw_15528]]
 - [[USFishAndWildlifeServiceWhiteM_1994_12_02]]
 - [[APetitionPursuantToArticleOfTh_17637]]
+- [[BiologicalOpinionToRepairErosi_11916]]

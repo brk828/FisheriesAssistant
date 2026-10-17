@@ -23,8 +23,12 @@ Lake Chub (*Couesius plumbeus*) is a small cyprinid fish species widely distribu
 > - **Habitat Use**: The [[Lake Chub]] demonstrates habitat plasticity, spawning successfully across multiple substrate types — rocks, silt, leaves, gravel, and wood fragments — and in two distinct settings (riverine shallows and lacustrine rocky shores/shoals). - **Thermal Regulation of Spawning**...
 > -- *[[BreedingBiologyOfTheLakeChubCo_1970]]*
 
+> This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
+> -- *[[ReviewOfPotentialForageFishInt_19139]]*
+
 ## Mentioned In
 - [[BreedingBiologyOfTheLakeChubCo_1970]]
 - [[FreshwaterFishesOfTheEasternAr_18569]]
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[TheSmeltOsmerusMordaxMitchill_13092]]
+- [[ReviewOfPotentialForageFishInt_19139]]

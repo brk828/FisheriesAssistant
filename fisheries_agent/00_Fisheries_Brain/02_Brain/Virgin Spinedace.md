@@ -29,6 +29,12 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 > This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
 > -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This internal memorandum provides critical review of a U.S. Fish and Wildlife Service Environmental Assessment (EA) proposing rotenone treatment of the [[Virgin River]] to eradicate introduced [[Red Shiner]] (*Cyprinella lutrensis*) and facilitate recovery of the endangered [[Woundfin]]...
+> -- *[[CommentsOnVirginRiverEa_19382]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AttachedDraftListOfSpeciesAssi_14772]]
@@ -62,3 +68,5 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 - [[VrrtNoticeAndMeetingMinutes_20253]]
 - [[DraftConservationAgreementForV_13234]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[CommentsOnVirginRiverEa_19382]]

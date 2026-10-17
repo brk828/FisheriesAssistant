@@ -50,6 +50,9 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > This report documents the status, distribution, and habitat use of native fish species in [[Bass Creek]] and [[Hotsprings Creek]] within the [[Muleshoe Preserve]], Arizona, based on surveys conducted in January, March, and June 1987. The study area comprises 18 km of perennial stream in the [[Gila...
 > -- *[[AReportToTheArizonaNatureConse_15171]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -133,3 +136,4 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[VerdeRiverPerkinsvillesycamore_2023]]
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
 - [[AReportToTheArizonaNatureConse_15171]]
+- [[DraftConservationStrategyVirgi_11659]]

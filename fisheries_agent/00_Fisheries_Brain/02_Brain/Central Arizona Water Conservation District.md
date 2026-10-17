@@ -17,7 +17,11 @@ auto_enriched: true
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[TinyNativeFishMakeBigSplash_1995_06_06]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]

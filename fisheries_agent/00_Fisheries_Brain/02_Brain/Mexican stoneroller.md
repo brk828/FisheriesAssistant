@@ -32,6 +32,9 @@ The Mexican Stoneroller (*Campostoma ornatum*) is a small cyprinid fish native t
 > Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
 > -- *[[FieldNotesOfTripToSanBernardin_13172]]*
 
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
@@ -48,3 +51,4 @@ The Mexican Stoneroller (*Campostoma ornatum*) is a small cyprinid fish native t
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]

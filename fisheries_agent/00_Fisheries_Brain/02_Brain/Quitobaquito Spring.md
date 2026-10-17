@@ -11,7 +11,11 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 > **Water chemistry classification:** - Dilute freshwater = calcium-bicarbonate type [Ca(HCO₃)₂], typical of humid regions. - Desert evaporative concentration series: Ca-HCO₃ → NaCl (via CaCO₃ precipitation, since CaCO₃ solubility is ~20,000× lower than NaCl). - Gypsum waters (CaSO₄) evolve toward ...
 > -- *[[HabitatsOfNorthAmericanDesertF_1981]]*
 
+> Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
+> -- *[[MinutesDesertFishesRecoveryTea_13749]]*
+
 ## Mentioned In
 - [[HabitatsOfNorthAmericanDesertF_1981]]
 - [[LetterRegardingQuitobaquitoDes_1987_01_15]]
 - [[TripReportQuitobaquitoSpringMa_1995_05_08]]
+- [[MinutesDesertFishesRecoveryTea_13749]]

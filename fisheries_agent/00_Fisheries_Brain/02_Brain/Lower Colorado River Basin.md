@@ -56,6 +56,9 @@ The Lower Colorado River Basin refers to the downstream portion of the Colorado 
 > This revised draft management plan, submitted by the [[Parker Fishery Resource Office]] to the [[U.S. Fish and Wildlife Service]] Region II in November 1996, addresses conservation of four federally endangered "big-river" fishes in the [[Lower Colorado River Basin]]: [[Bonytail]] (*Gila elegans*),...
 > -- *[[LowerColoradoRiverBasinManagem_18433]]*
 
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[BriefingNotesEndangeredFishInC_14950]]
@@ -97,3 +100,4 @@ The Lower Colorado River Basin refers to the downstream portion of the Colorado 
 - [[DraftLowerColoradoRiverBasinNa_11647]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
 - [[LowerColoradoRiverBasinManagem_18433]]
+- [[GeneticVariationAmongLowerColo_12776]]

@@ -38,6 +38,15 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 > This correspondence between Dr. James E. Deacon ([[University of Nevada Las Vegas]]) and Dr. Robert R. Miller ([[University of Michigan]]) concerns the identification of a [[Gila]] specimen collected from [[Shingumu Creek]] on August 1, 1975. The specimen was tentatively identified as [[Gila...
 > -- *[[PictureAndInformationOnGilaTak_13997]]*
 
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
+> This February 1988 letter from Harold M. Tyus (USFWS Colorado River Fish Project Leader) to Randy D. Radant (Utah Division of Wildlife Resources) provides critical review of two draft reports by Mark J. Rosenfeld examining the systematics of [[Gila]] species in the [[Colorado River Basin]]. Tyus...
+> -- *[[CommentsOnMRosenfeldsGilaTaxon_13067]]*
+
+> This study applies multivariate discriminant analysis to meristic and morphometric data to resolve long-standing confusion in identifying three endangered [[Gila]] species from the [[Colorado Plateau]]: [[Gila robusta]] (roundtail chub), [[Gila cypha]] (humpback chub), and [[Gila elegans]]...
+> -- *[[MultivariateDiscriminationOfCo_19077]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdditionalStudiesOnTheLittleCo_18500]]
@@ -66,3 +75,6 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 - [[QualitativeCharactersIdentific_19084]]
 - [[DraftecologicalDeterminismHybr_12773]]
 - [[PictureAndInformationOnGilaTak_13997]]
+- [[GeneticVariationAmongLowerColo_12776]]
+- [[CommentsOnMRosenfeldsGilaTaxon_13067]]
+- [[MultivariateDiscriminationOfCo_19077]]

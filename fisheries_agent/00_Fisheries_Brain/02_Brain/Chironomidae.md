@@ -29,6 +29,9 @@ Chironomidae, commonly known as midges or non-biting midges, are a family of sma
 > This study examines the feeding ecology, nitrogen budgets, and ecosystem role of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The research demonstrates that this cyprinid is an opportunistic omnivore that shifts diet composition based on prey...
 > -- *[[FeedingDynamicsNitrogenBudgets_17775]]*
 
+> This 1963 doctoral dissertation by Richard Arnold Tubb examines the population dynamics of bottom-dwelling midge fly larvae (family [[Tendipedidae]], also known as [[Chironomidae]]) in a series of ten oil refinery effluent holding-ponds in [[Stillwater, Oklahoma]]. Monthly sampling from November...
+> -- *[[PopulationDynamicsOfHerbivorou_13410]]*
+
 ## Mentioned In
 - [[ComparativeEcologyOfNotropisAl_14679]]
 - [[DifferencesInLittoralFaunaDueT_1972]]
@@ -46,3 +49,4 @@ Chironomidae, commonly known as midges or non-biting midges, are a family of sma
 - [[TheRecolonizationMechanismsOfS_11992]]
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[FeedingDynamicsNitrogenBudgets_17775]]
+- [[PopulationDynamicsOfHerbivorou_13410]]

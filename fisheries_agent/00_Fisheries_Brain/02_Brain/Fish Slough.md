@@ -23,6 +23,9 @@ A fish slough refers to a shallow, marshy waterbody or drainage channel in arid 
 > - **[[Cuatro Ciénegas]]** (Coahuila, México) — translated as "four marshes," an area of exceptional biological endemism, described as the Mexican analog to [[Ash Meadows]]. Threatened by regional development; Council collaborated with the Smithsonian Institution and The Nature Conservancy to nego...
 > -- *[[LetterFromDesertFishesCouncilT_1987_07_07]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
 ## Mentioned In
 - [[DesertFishesCouncilMeetsInMont_1980_11_13]]
 - [[DesertPupfishesReflectionsOnRe_11118]]
@@ -30,3 +33,4 @@ A fish slough refers to a shallow, marshy waterbody or drainage channel in arid 
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[LetterFromDesertFishesCouncilT_1987_07_07]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]

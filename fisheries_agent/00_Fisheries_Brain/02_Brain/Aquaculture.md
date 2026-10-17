@@ -23,6 +23,9 @@ Aquaculture refers to the controlled cultivation and rearing of fish and other a
 > 1. **Review panel bias**: The respondent alleges the hatchery review outcome is predetermined and that panel composition may be biased against hatcheries as a conservation tool, questioning panel qualification criteria and stakeholder input mechanisms. 2. **Hatcheries as tools, not programs**: Ha...
 > -- *[[SampleInterviewRecordOnHatcher_1994_05_13]]*
 
+> This Alabama Polytechnic Institute Extension Service leaflet (4H-35) provides practical guidance for clearing muddy fishponds using gypsum (calcium sulfate) treatment. Authored by Earl Franklin Kennamer, Specialist in Fish and Wildlife Marketing, the document addresses the negative impacts of...
+> -- *[[ClearingMuddyFishponds_17942]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -35,3 +38,4 @@ Aquaculture refers to the controlled cultivation and rearing of fish and other a
 - [[SalmonidHatcheryWastewaterTrea_12415]]
 - [[SampleInterviewRecordOnHatcher_1994_05_13]]
 - [[StressInducedPathologiesInFish_1993]]
+- [[ClearingMuddyFishponds_17942]]

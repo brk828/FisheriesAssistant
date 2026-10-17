@@ -53,6 +53,12 @@ Meda fulgida, commonly known as the spikedace, is a small native cyprinid minnow
 > This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
 > -- *[[EvolutionaryRelationshipsOfThe_19110]]*
 
+> This document is a peer review letter dated 26 July 1989 from a U.S. Fish and Wildlife Service Fishery Management Biologist to Dr. Dean Hendrickson regarding a draft report by Marsh et al. on interactions between threatened [[Spikedace]] ([[Meda fulgida]]) and introduced [[Red Shiner]]...
+> -- *[[ReviewOfTheDraftReportEntitled_12980]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[ColoradoSquawfishMonitoringVer_19393]]
@@ -92,3 +98,5 @@ Meda fulgida, commonly known as the spikedace, is a small native cyprinid minnow
 - [[DraftecologicalDeterminismHybr_12773]]
 - [[AllozymicVariationAndSystemati_12782]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
+- [[ReviewOfTheDraftReportEntitled_12980]]
+- [[ReportToTheDesertFishesCouncil_13683]]

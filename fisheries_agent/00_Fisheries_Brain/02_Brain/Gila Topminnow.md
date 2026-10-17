@@ -83,6 +83,27 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
 > -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
 
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
+> This U.S. Fish and Wildlife Service biological opinion, issued December 1, 1989, evaluates a Bureau of Land Management proposal to stock endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into two spring systems in Graham County, Arizona that already support populations of...
+> -- *[[BiologicalOpinionStockingOfDes_11850]]*
+
+> This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
+> -- *[[MasterPlanForBuenosAiresWildli_13323]]*
+
+> This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
+> -- *[[AuthorizationToUseTheRegionalD_15706]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
+> This document comprises Pima County, Arizona's Resolution No. 1998-250 establishing the [[Sonoran Desert Conservation Plan]] (SDCP), correspondence soliciting expert input on species selection, and a preliminary species list for multi-species habitat conservation planning. Passed December 3, 1998,...
+> -- *[[AResolutionOfTheBoardOfSupervi_18593]]*
+
+> This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
+> -- *[[BureauOfReclamationsFailureToR_18964]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -283,3 +304,10 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[DecliningSouthwesternAquaticHa_15002]]
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
 - [[OutlineOfSanBernardinoRanchMan_20829]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[BiologicalOpinionStockingOfDes_11850]]
+- [[MasterPlanForBuenosAiresWildli_13323]]
+- [[AuthorizationToUseTheRegionalD_15706]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]
+- [[AResolutionOfTheBoardOfSupervi_18593]]
+- [[BureauOfReclamationsFailureToR_18964]]

@@ -29,6 +29,12 @@ The Chihuahua Chub is an endangered cyprinid fish endemic to the Rio Yaqui basin
 > This final report (February 1980) documents comprehensive taxonomic, morphometric, and reproductive studies of the [[Chihuahua Chub]] (*Gila nigrescens*), an endangered cyprinid inhabiting the [[Mimbres River]] in New Mexico and several drainages in Chihuahua, Mexico. The study examined 202+...
 > -- *[[TaxonomicStatusEcologyAndDistr_15409]]*
 
+> Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
+> -- *[[MinutesDesertFishesRecoveryTea_13749]]*
+
+> This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
+> -- *[[AuthorizationToUseTheRegionalD_15706]]*
+
 ## Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1985_12_10]]
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
@@ -53,3 +59,5 @@ The Chihuahua Chub is an endangered cyprinid fish endemic to the Rio Yaqui basin
 - [[SpeciesResponsibilitiesOfDeser_1989_12_07]]
 - [[EvaluationsAndSuggestionsConce_16480]]
 - [[TaxonomicStatusEcologyAndDistr_15409]]
+- [[MinutesDesertFishesRecoveryTea_13749]]
+- [[AuthorizationToUseTheRegionalD_15706]]

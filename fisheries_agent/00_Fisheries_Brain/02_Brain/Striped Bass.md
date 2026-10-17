@@ -92,6 +92,21 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This tagging study (1963-1966) investigated the migration patterns of [[Striped Bass]] (*Roccus saxatilis*) in [[Tomales Bay]], California, located 40 miles northwest of [[San Francisco]]. A total of 207 striped bass were tagged using disk-dangler tags, with 65 tag returns received by July 1968....
 > -- *[[MigrationsOfStripedBassOccurri_18606]]*
 
+> This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
+> -- *[[MovementsOfInlandAnglersWithin_11325]]*
+
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
+> -- *[[ReviewOfPotentialForageFishInt_19139]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -218,3 +233,8 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[ConservationOfNativeFreshwater_15444]]
 - [[LowerColoradoRiverBasinManagem_18433]]
 - [[MigrationsOfStripedBassOccurri_18606]]
+- [[MovementsOfInlandAnglersWithin_11325]]
+- [[DraftEnvironmentalAssessmentLo_11489]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[ReviewOfPotentialForageFishInt_19139]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

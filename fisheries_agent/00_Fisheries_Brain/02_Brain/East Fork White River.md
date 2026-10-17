@@ -17,9 +17,13 @@ The East Fork White River is a tributary system within the White River drainage 
 > This U.S. Fish and Wildlife Service memorandum (July 22, 1994) provides formal consultation findings for road construction project FAIR 42(3) on the Fort Apache Indian Reservation, Arizona. The project involves paving 0.67 miles of road, constructing a bridge over the [[East Fork White River]], and...
 > -- *[[ReviewOfProjectFair_21120]]*
 
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
 ## Mentioned In
 - [[StudiesOfTheAbundanceDistribut_13841]]
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
 - [[TripReportWhiteRiver_1988_09_19]]
 - [[ReTheElectrophoreticStudyOfWhi_14999]]
 - [[ReviewOfProjectFair_21120]]
+- [[DesertFishesRecoveryTeamAddres_13785]]

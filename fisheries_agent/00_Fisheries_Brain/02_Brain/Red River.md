@@ -23,6 +23,9 @@ The Red River refers to a major river drainage system in North America that serv
 > This document is an internal administrative summary from the U.S. Fish and Wildlife Service (USFWS), Region 2, dated October 14, 1996, outlining the agency's top ten fisheries management priorities. Rather than presenting primary morphological or ecological research data on a single species, the ...
 > -- *[[TopTenFisheriesActiv_1996_10_14]]*
 
+> This doctoral dissertation by William R. Duffer (Oklahoma State University, 1965) examines community metabolism and oxygen dynamics in the relatively undisturbed [[Blue River]] in southeastern Oklahoma from June 1963 to August 1964. The study investigated how different geological substrates...
+> -- *[[OxygenBalanceInASouthernGreatP_19151]]*
+
 ## Mentioned In
 - [[ASystematicAndGeographicalStud_1961]]
 - [[IntraSpecificVariationInTheCom_11434]]
@@ -31,3 +34,4 @@ The Red River refers to a major river drainage system in North America that serv
 - [[TheMusselPopulationOfAnAreaOfL_14967]]
 - [[ThreeShinersNotropisOrtenburge_14255]]
 - [[TopTenFisheriesActiv_1996_10_14]]
+- [[OxygenBalanceInASouthernGreatP_19151]]

@@ -14,7 +14,11 @@ auto_enriched: true
 > This Federal Aid to Fish Restoration report documents population dynamics, species composition, limnological conditions, and management strategies for [[Arrowrock Reservoir]] and [[Lucky Peak Reservoir]] on the [[Boise River]], Idaho, from July 1965 through February 1968. Extensive gill netting...
 > -- *[[LakeAndReservoirInvestigations_12145]]*
 
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
 ## Mentioned In
 - [[EquilibriumConditionAndSedimen_1976]]
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[LakeAndReservoirInvestigations_12145]]
+- [[BiologicalOpinionToRepairErosi_11916]]

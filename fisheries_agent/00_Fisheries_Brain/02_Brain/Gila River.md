@@ -188,6 +188,63 @@ The Gila River is a major tributary system in the southwestern United States tha
 > This legal notice, dated September 12, 1994, from the Gila Watershed Partnership to the U.S. Fish and Wildlife Service challenges the adequacy of critical habitat designated for [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*) on March 8, 1994. The notice argues that the...
 > -- *[[SixtydayNoticeOfIntentToSueOve_20449]]*
 
+> This document announces public meetings (April 14-17, 1986) regarding the Bureau of Reclamation's Upper Gila Water Supply Study and selection of a proposed action for the Draft Environmental Impact Statement. The study evaluates six alternative plans (including a "No Federal Action" option) to...
+> -- *[[PublicMeetingsAnnoucnementAndP_11475]]*
+
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
+> This U.S. Fish and Wildlife Service biological opinion, issued December 1, 1989, evaluates a Bureau of Land Management proposal to stock endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into two spring systems in Graham County, Arizona that already support populations of...
+> -- *[[BiologicalOpinionStockingOfDes_11850]]*
+
+> This biological opinion, issued February 18, 1993, by the U.S. Fish and Wildlife Service Arizona Ecological Services Field Office, addresses formal Section 7 consultation for the [[Lake Havasu]] Fisheries Improvement Partnership Program. The Bureau of Land Management proposed installing artificial...
+> -- *[[BiologicalOpinionForLakeHavasu_11881]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
+> This document is a formal reintroduction plan for the [[Desert Pupfish]] (*Cyprinodon macularius*) into selected waters on the Phoenix District of the U.S. Bureau of Land Management (BLM). Developed under a Memorandum of Understanding between BLM Arizona and the Arizona Game & Fish Department...
+> -- *[[ReintroductionOfDesertPupfishI_12969]]*
+
+> This document is a peer review letter dated 26 July 1989 from a U.S. Fish and Wildlife Service Fishery Management Biologist to Dr. Dean Hendrickson regarding a draft report by Marsh et al. on interactions between threatened [[Spikedace]] ([[Meda fulgida]]) and introduced [[Red Shiner]]...
+> -- *[[ReviewOfTheDraftReportEntitled_12980]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
+> Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
+> -- *[[MinutesDesertFishesRecoveryTea_13749]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
+> This November 17, 1988 correspondence from the U.S. Fish and Wildlife Service (FWS) Region 2 to the New Mexico Department of Game and Fish addresses concerns regarding draft recovery plans for [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*). The letter clarifies FWS...
+> -- *[[CommentsOnDraftRecoveryPlansFo_15705]]*
+
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
+> This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
+> -- *[[BureauOfReclamationsFailureToR_18964]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
+> This genetic study examined 11 stream populations of presumed [[Gila Trout]] (*Oncorhynchus gilae*) using horizontal starch gel electrophoresis of 48 protein-coding loci to address two critical conservation issues: (1) detection of hybridization with [[Rainbow Trout]] (*O. mykiss*) and (2)...
+> -- *[[GeneticIssuesInTheConservation_20219]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -374,3 +431,22 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[ConnerDamAsPartOfCentralArizon_19170]]
 - [[ConservationGeneticsInTheManag_20087]]
 - [[SixtydayNoticeOfIntentToSueOve_20449]]
+- [[PublicMeetingsAnnoucnementAndP_11475]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[BiologicalOpinionStockingOfDes_11850]]
+- [[BiologicalOpinionForLakeHavasu_11881]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[GeneticVariationAmongLowerColo_12776]]
+- [[ReintroductionOfDesertPupfishI_12969]]
+- [[ReviewOfTheDraftReportEntitled_12980]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[FurtherInformationOnTheSpikeda_13737]]
+- [[MinutesDesertFishesRecoveryTea_13749]]
+- [[DesertFishesRecoveryTeamAddres_13785]]
+- [[LiteratureReviewAndImpactRepor_14988]]
+- [[CommentsOnDraftRecoveryPlansFo_15705]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]
+- [[BureauOfReclamationsFailureToR_18964]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[GeneticIssuesInTheConservation_20219]]

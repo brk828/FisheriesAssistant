@@ -68,6 +68,18 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This experimental study by [[George N. Greene]] at [[Auburn University]] (1967-1968) investigated the effects of three nitrogen sources (sodium nitrate, ammonium carbonate, and cottonseed meal) and the presence of [[Cecil Soil]] on fish production and water chemistry in fertilized plastic pools....
 > -- *[[EffectOfDifferentNitrogenSourc_19233]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This 1956 administrative report (revised 1960) by the [[California Department of Fish and Game]] provides comprehensive guidance on commercial bait minnow culture in California. The document focuses on three introduced cyprinid species—[[Fathead Minnow]] (*Pimephales promelas*), [[Golden Shiner]]...
+> -- *[[PropagationOfBaitMinnowsInCali_18150]]*
+
+> This report documents intensive field research conducted during May 1988 on the [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona. The study employed multiple netting methods (trammel nets, hoop nets, fyke nets, seines, drift nets) operated continuously over 28...
+> -- *[[SummaryReportOnResearchConduct_18505]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -177,3 +189,7 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[PrelimaryObservationsOnTheToxi_14434]]
 - [[AReportToTheArizonaNatureConse_15171]]
 - [[EffectOfDifferentNitrogenSourc_19233]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[PropagationOfBaitMinnowsInCali_18150]]
+- [[SummaryReportOnResearchConduct_18505]]

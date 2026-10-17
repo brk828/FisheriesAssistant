@@ -23,6 +23,9 @@ The Moapa Dace (*Moapa coriacea*) is a critically endangered cyprinid fish that 
 > This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
 > -- *[[UnitedStatesListOfEndangeredFa_11533]]*
 
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[GrowthAndSurvivorshipOfMoapaDa_11312]]
@@ -33,3 +36,4 @@ The Moapa Dace (*Moapa coriacea*) is a critically endangered cyprinid fish that 
 - [[ReviewOfTheTaxonomicStatusOfRo_1985_12_03]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
+- [[DraftDayFindingForDesertFishes_20489]]

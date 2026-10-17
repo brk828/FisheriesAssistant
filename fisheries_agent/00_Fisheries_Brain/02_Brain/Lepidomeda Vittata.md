@@ -38,6 +38,9 @@ Lepidomeda vittata, commonly known as the Little Colorado spinedace, is a small-
 > This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
 > -- *[[EvolutionaryRelationshipsOfThe_19110]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
 - [[JanuaryMeetingOfDesertFishesRe_1989_01_10]]
@@ -55,3 +58,4 @@ Lepidomeda vittata, commonly known as the Little Colorado spinedace, is a small-
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
+- [[LiteratureReviewAndImpactRepor_14988]]

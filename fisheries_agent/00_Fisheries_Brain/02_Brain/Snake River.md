@@ -41,6 +41,9 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 > This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
 > -- *[[EvolutionaryRelationshipsOfThe_19110]]*
 
+> This annual progress report documents the 1966 [[Chinook Salmon]] spawning ground surveys conducted in the [[Salmon River]] drainage, Idaho, from August 1 to September 30, 1966. Spring and summer chinook salmon spawning runs into Idaho in 1966 were larger than those of 1965, though the summer-run...
+> -- *[[SalmonAndSteelheadInvestigatio_12147]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[EvaluationOfSpringChinookMigra_1969]]
@@ -59,3 +62,4 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 - [[TheRadioactivityAndEcologyOfAq_14009]]
 - [[StatewideFishingHarvestSurvey_17659]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
+- [[SalmonAndSteelheadInvestigatio_12147]]

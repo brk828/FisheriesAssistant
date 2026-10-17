@@ -101,6 +101,15 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 > This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
 > -- *[[PalmLakenativeFishStatus_20905]]*
 
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
+> Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
+> -- *[[SamplingAtAsuResearchParkAutum_19458]]*
+
+> This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
+> -- *[[FyReportingAndAccounting_21020]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -260,3 +269,6 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 - [[ExecutiveSummariescoloradoRive_19604]]
 - [[MeetingToDiscussProgramGoalsSt_19639]]
 - [[PalmLakenativeFishStatus_20905]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[SamplingAtAsuResearchParkAutum_19458]]
+- [[FyReportingAndAccounting_21020]]

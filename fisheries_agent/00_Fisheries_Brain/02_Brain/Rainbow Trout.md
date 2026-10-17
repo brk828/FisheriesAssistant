@@ -116,6 +116,48 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
+> The [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*) is a threatened subspecies of cyprinid fish endemic to [[Meadow Valley Wash]] in [[Lincoln County]], Nevada. The only extant population occupies a 5-mile section of stream through [[Condor Canyon]], making it extremely vulnerable to...
+> -- *[[BigSpringSpinedaceLepidomedaMo_11635]]*
+
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This multi-job completion report documents experimental pond management studies conducted by the West Virginia Conservation Commission during 1955-1956 (Project F-3-R-4). The investigation focused on establishing experimental ponds, conducting creel censuses, sampling fish populations, and testing...
+> -- *[[EstablishmentOfNewOrReclaimedP_12166]]*
+
+> This comprehensive report by Dr. C. M. McCay documents experimental work on trout nutrition conducted at the [[Connecticut State Hatchery]] at Burlington and the [[Cortland Experimental Hatchery]] in New York from 1927-1934. The research, representing cooperation between the New York State...
+> -- *[[ObservationsOnTheNutritionOfTr_12259]]*
+
+> This study establishes toxicity curves for cyanide exposure in [[Brown Trout]] (*Salmo trutta*) and [[Smallmouth Bass]] (*Micropterus dolomieu*) under controlled laboratory conditions. Using a constant-flow, constant-temperature apparatus, researchers determined median lethal times across a range...
+> -- *[[ToxicityOfCyanideToBrownTroutA_13902]]*
+
+> This report documents intensive field research conducted during May 1988 on the [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona. The study employed multiple netting methods (trammel nets, hoop nets, fyke nets, seines, drift nets) operated continuously over 28...
+> -- *[[SummaryReportOnResearchConduct_18505]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
+> This genetic study examined 11 stream populations of presumed [[Gila Trout]] (*Oncorhynchus gilae*) using horizontal starch gel electrophoresis of 48 protein-coding loci to address two critical conservation issues: (1) detection of hybridization with [[Rainbow Trout]] (*O. mykiss*) and (2)...
+> -- *[[GeneticIssuesInTheConservation_20219]]*
+
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
+> In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
+> -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
+
+> This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
+> -- *[[SummaryStatementOfInsightsFrom_20854]]*
+
+> This fishery leaflet provides a comprehensive overview of columnaris disease, a significant bacterial infection affecting freshwater fishes. The disease, caused by slime bacteria (*Chondrococcus columnaris* or *Cytophaga columnaris*), manifests as grayish-white lesions resembling fungal infections...
+> -- *[[ColumnarisDiseaseOfFishes_21236]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -415,3 +457,17 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[DecliningSouthwesternAquaticHa_15002]]
 - [[ExecutiveSummariescoloradoRive_19604]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]
+- [[BigSpringSpinedaceLepidomedaMo_11635]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[EstablishmentOfNewOrReclaimedP_12166]]
+- [[ObservationsOnTheNutritionOfTr_12259]]
+- [[ToxicityOfCyanideToBrownTroutA_13902]]
+- [[SummaryReportOnResearchConduct_18505]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[GeneticIssuesInTheConservation_20219]]
+- [[DraftDayFindingForDesertFishes_20489]]
+- [[ProjectVelaUniformLakeMeadTest_20812]]
+- [[SummaryStatementOfInsightsFrom_20854]]
+- [[ColumnarisDiseaseOfFishes_21236]]

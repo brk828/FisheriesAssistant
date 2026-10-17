@@ -23,6 +23,9 @@ The Cuatro Ciénegas Basin is an isolated, ancient desert wetland system in Coah
 > - **[[Rio Grande]] (Río Bravo del Norte)** — the major through-flowing stream; historically supported large fishes (sturgeon, gar, [[Blue Sucker]] — *Cycleptus*) as far upstream as Albuquerque before modern dewatering between El Paso and Ojinaga-Presidio. - **[[Pecos River]]** — a major Rio Grand...
 > -- *[[CompositionAndDerivationOfTheN_15363]]*
 
+> This document presents a comprehensive overview of the exceptional aquatic and semi-aquatic fauna of the [[Cuatro Ciénegas Basin]] in [[Coahuila]], [[Mexico]]. The basin contains an extraordinarily diverse assemblage of organisms for a desert region, including 18 fish species (10 endemic to the...
+> -- *[[ASummaryOfInformationAboutTheA_18574]]*
+
 ## Mentioned In
 - [[ANewSpeciesOfLeptocarisCrustac_13646]]
 - [[AlonzoRiosContreras_20775]]
@@ -46,3 +49,4 @@ The Cuatro Ciénegas Basin is an isolated, ancient desert wetland system in Coah
 - [[ReconnaissanceFromMonclovaToQu_1846_11_14]]
 - [[SpeocirolanaThermydronisCrusta_1968_10_16]]
 - [[StenasellidIsopodCrustaceansIn_1972_02_29]]
+- [[ASummaryOfInformationAboutTheA_18574]]

@@ -35,6 +35,9 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 > This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
 > -- *[[DraftecologicalDeterminismHybr_12773]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[CommentsOnAndChangesToAnimalNo_11856]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -52,3 +55,4 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[DraftecologicalDeterminismHybr_12773]]
+- [[LiteratureReviewAndImpactRepor_14988]]

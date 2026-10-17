@@ -32,6 +32,12 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 > The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
 > -- *[[Perch_16750]]*
 
+> This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
+> -- *[[TheMaineSmallmouth_14928]]*
+
+> This 1957 technical report documents a comprehensive survey of bass tapeworm ([[Proteocephalus ambloplitis]]) infections across 124 lakes and ponds in southern [[New Hampshire]]. Conducted during 1955-1956 under the Dingell-Johnson Project F-8-R, the study examined 1,960 fish representing 12...
+> -- *[[TheIncidenceAndDistributionOfT_15429]]*
+
 ## Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -45,3 +51,5 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 - [[ABibliographyAndHostListForThe_15289]]
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[Perch_16750]]
+- [[TheMaineSmallmouth_14928]]
+- [[TheIncidenceAndDistributionOfT_15429]]

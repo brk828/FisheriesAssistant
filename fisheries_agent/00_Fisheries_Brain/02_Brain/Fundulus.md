@@ -17,9 +17,13 @@ Fundulus is a genus of small topminnows in the family Cyprinodontidae that are w
 > - Florida contains 19–21 species of oviparous cyprinodontids, with 3 species endemic to the state ([[Cyprinodon hubbsi]], [[Fundulus seminolis]], [[Jordanella floridae]]). - The genus **[[Fundulus]]** dominates Florida's killifish diversity (10–12 species), representing nearly half of all U.S. Fu...
 > -- *[[TheDistributionOfTheOviparousK_16815]]*
 
+> This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
+> -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
+
 ## Mentioned In
 - [[ArtificialHybridizationOfCreni_14299]]
 - [[ElectronMicroscopicInvestigati_1964_06_11]]
 - [[LetterFromDeanAHendricksonToCa_1990_01_09]]
 - [[TheDistributionOfTheOviparousK_16815]]
 - [[TheUseOfHybridizationInTheDete_14223]]
+- [[ALiteratureReviewOfTheEffectsO_20478]]

@@ -35,6 +35,9 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 > This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
 > -- *[[InvestigationsOfCommercialFish_18562]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AlbinisticCarpCyprinusCarpioFr_1968_04_18]]
@@ -53,3 +56,4 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 - [[SaltRiverProjectRooseveltDiver_15070]]
 - [[TheVertebratesOfArizona_1964]]
 - [[InvestigationsOfCommercialFish_18562]]
+- [[ReportToTheDesertFishesCouncil_13683]]

@@ -38,6 +38,12 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 > This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
 > -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
 
+> This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
+> -- *[[AuthorizationToUseTheRegionalD_15706]]*
+
+> This genetic study examined 11 stream populations of presumed [[Gila Trout]] (*Oncorhynchus gilae*) using horizontal starch gel electrophoresis of 48 protein-coding loci to address two critical conservation issues: (1) detection of hybridization with [[Rainbow Trout]] (*O. mykiss*) and (2)...
+> -- *[[GeneticIssuesInTheConservation_20219]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -104,3 +110,5 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[AuthorizationToUseTheRegionalD_15706]]
+- [[GeneticIssuesInTheConservation_20219]]

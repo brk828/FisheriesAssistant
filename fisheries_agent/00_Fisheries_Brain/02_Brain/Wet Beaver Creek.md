@@ -14,6 +14,10 @@ Wet Beaver Creek is a tributary of the Verde River system in Arizona where Redey
 > **Taxonomic & Life-History Summary**: Two non-native centrarchid species are documented. [[Redeye Bass]] (*Micropterus coosae*) reaches maximum size about 19 in (47 cm). [[Smallmouth Bass]] (*Micropterus dolomieu*) is thick and chunky with large mouth, upper jaw extending almost to rear margin of...
 > -- *[[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]*
 
+> This study plan outlines an Advanced Identification (ADID) process for the [[Verde River]], Arizona, conducted by the U.S. Fish and Wildlife Service Phoenix Field Office in August 1991. The ADID aims to protect the Verde River aquatic ecosystem by evaluating approximately 125 river miles from...
+> -- *[[AdvancedIdentificationOfFuncti_11587]]*
+
 ## Mentioned In
 - [[ACaseOfMistakenIdentityGenetic_2021]]
 - [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
+- [[AdvancedIdentificationOfFuncti_11587]]

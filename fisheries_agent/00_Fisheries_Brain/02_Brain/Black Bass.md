@@ -29,6 +29,9 @@ Black Bass refers to freshwater fish species in the family Centrarchidae, primar
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
+> -- *[[MovementsOfInlandAnglersWithin_11325]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[CommentsOnFishAndWildlifeServi_1997_07_08]]
@@ -39,3 +42,4 @@ Black Bass refers to freshwater fish species in the family Centrarchidae, primar
 - [[WhyTheMassachusettsDivisionOfF_15491]]
 - [[DiversityWithinTheRedeyeBassMi_2013]]
 - [[WhatHaveICaught_12929]]
+- [[MovementsOfInlandAnglersWithin_11325]]

@@ -17,7 +17,11 @@ Colorado State University houses the Larval Fish Laboratory, whose biologists pa
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
 ## Mentioned In
 - [[EffectsOfElectrofishingFieldsO_15544]]
 - [[EffectsOfElectrofishingFieldsO_15548]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[ManagementGroupMeetingSummary_19219]]

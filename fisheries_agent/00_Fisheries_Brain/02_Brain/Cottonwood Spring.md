@@ -17,8 +17,12 @@ auto_enriched: true
 > This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
 > -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
 
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
 ## Mentioned In
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
 - [[StatusOfTheGilaTopminnowAndIts_13684]]
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[OutlineOfSanBernardinoRanchMan_20829]]
+- [[StatusReportForNaturalAndIntro_12972]]

@@ -38,6 +38,21 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 > The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
 > -- *[[EndangeredAndThreatenedWildlif_14803]]*
 
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
+> -- *[[GeneticVariationAmongLowerColo_12776]]*
+
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyWa_1994_01_31]]
 - [[CommentsOnTheDraftActivityPlan_13812]]
@@ -59,3 +74,8 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[EndangeredAndThreatenedWildlif_14803]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[GeneticVariationAmongLowerColo_12776]]
+- [[FurtherInformationOnTheSpikeda_13737]]
+- [[DesertFishesRecoveryTeamAddres_13785]]

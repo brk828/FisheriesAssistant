@@ -35,6 +35,9 @@ The Great Lakes represent a vast freshwater ecosystem of continental significanc
 > This technical report from the Michigan Department of Conservation Institute for Fisheries Research provides comprehensive guidance on the biology, ecology, and commercial culture of minnows (family [[Cyprinidae]]) in Michigan waters. The [[Cyprinidae]] is one of the largest fish families globally,...
 > -- *[[MinnowsCyprinidae_17384]]*
 
+> This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
+> -- *[[TheMaineSmallmouth_14928]]*
+
 ## Mentioned In
 - [[ComparativeMorphometryOfFreshw_12456]]
 - [[CurrentRoleOfTroutCultureInMan_13158]]
@@ -67,3 +70,4 @@ The Great Lakes represent a vast freshwater ecosystem of continental significanc
 - [[ReProposalToIntroduceRainbowSm_13975]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
 - [[MinnowsCyprinidae_17384]]
+- [[TheMaineSmallmouth_14928]]

@@ -125,6 +125,36 @@ Arizona State University is a major research institution that has played a signi
 > This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
 > -- *[[PalmLakenativeFishStatus_20905]]*
 
+> The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
+> -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
+
+> This biological opinion, issued April 21, 1995, addresses emergency and follow-up repair of flood damage to a low-water ford crossing of the [[Blue River]] on Forest Road 475 in the [[Apache-Sitgreaves National Forests]], [[Greenlee County]], [[Arizona]]. The U.S. Forest Service (lead agency) and...
+> -- *[[SummaryBiologicalOpinionForRep_11720]]*
+
+> An experimental [[Razorback Sucker]] hatchery was established in 1987 at [[Ouray National Wildlife Refuge]] to evaluate streamside spawning and rearing techniques for this endangered species. The facility consisted of three 1/10 acre ponds and a building with incubators and rearing tanks. From...
+> -- *[[OurayRazorbackHatcherySummary_13377]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
+> This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
+> -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
+
+> This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
+> -- *[[AuthorizationToUseTheRegionalD_15706]]*
+
+> This document comprises Pima County, Arizona's Resolution No. 1998-250 establishing the [[Sonoran Desert Conservation Plan]] (SDCP), correspondence soliciting expert input on species selection, and a preliminary species list for multi-species habitat conservation planning. Passed December 3, 1998,...
+> -- *[[AResolutionOfTheBoardOfSupervi_18593]]*
+
+> Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
+> -- *[[SamplingAtAsuResearchParkAutum_19458]]*
+
+> This memorandum from the [[Bureau of Reclamation]]'s [[Glen Canyon Environmental Studies]] program addresses coordination issues regarding permits and data acquisition for research on the [[Little Colorado River]]. The document schedules a meeting among principal investigators and agency...
+> -- *[[GlenCanyonEnvironmentalStudies_19715]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -277,3 +307,13 @@ Arizona State University is a major research institution that has played a signi
 - [[MedatiarogaStudy_19000]]
 - [[GlenCanyonEnvironmentalStudies_19728]]
 - [[PalmLakenativeFishStatus_20905]]
+- [[BlmReleasesDraftSanPedroRiverM_11464]]
+- [[SummaryBiologicalOpinionForRep_11720]]
+- [[OurayRazorbackHatcherySummary_13377]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[DesertFishesRecoveryTeamAddres_13785]]
+- [[TissueSampleAnalysisOfCuiuihyb_14120]]
+- [[AuthorizationToUseTheRegionalD_15706]]
+- [[AResolutionOfTheBoardOfSupervi_18593]]
+- [[SamplingAtAsuResearchParkAutum_19458]]
+- [[GlenCanyonEnvironmentalStudies_19715]]

@@ -29,6 +29,15 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 > This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
 > -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This memorandum from the California Department of Fish and Game to the Fish and Game Commission addresses a request by [[United Energy Corporation]] (UEC) to import and possess eight exotic fish species for aquaculture and research at a facility near [[Yermo]], [[San Bernardino County]]. The...
+> -- *[[RequestByUecToImportAndPossess_18439]]*
+
+> Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
+> -- *[[SamplingAtAsuResearchParkAutum_19458]]*
+
 ## Mentioned In
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -52,3 +61,6 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 - [[TripReportForTheJulySurveyOfTh_1994_09_01]]
 - [[EndangeredAndThreatenedWildlif_11580]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[RequestByUecToImportAndPossess_18439]]
+- [[SamplingAtAsuResearchParkAutum_19458]]

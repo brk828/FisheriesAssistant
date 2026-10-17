@@ -26,6 +26,9 @@ The Huachuca Water Umbel appears to be a native aquatic plant species associated
 > This June 1997 correspondence from Dr. Robin Silver of the [[Southwest Center for Biological Diversity]] to the Commander of [[Fort Huachuca]] documents serious concerns about groundwater depletion impacts on the [[San Pedro River]] ecosystem. The letter challenges the Army's Environmental...
 > -- *[[ReContinuationOfTheUsArmysSanP_11808]]*
 
+> This document comprises Pima County, Arizona's Resolution No. 1998-250 establishing the [[Sonoran Desert Conservation Plan]] (SDCP), correspondence soliciting expert input on species selection, and a preliminary species list for multi-species habitat conservation planning. Passed December 3, 1998,...
+> -- *[[AResolutionOfTheBoardOfSupervi_18593]]*
+
 ## Mentioned In
 - [[FishAndWildlifeServiceLetterOn_1994_08_22]]
 - [[IntraServiceSectionBiologicalE_1993_03_26]]
@@ -34,3 +37,4 @@ The Huachuca Water Umbel appears to be a native aquatic plant species associated
 - [[NoticeOfDayFindingsOnPetitions_1993_12_14]]
 - [[TheNextParagraphIsMissingButTh_11894]]
 - [[ReContinuationOfTheUsArmysSanP_11808]]
+- [[AResolutionOfTheBoardOfSupervi_18593]]

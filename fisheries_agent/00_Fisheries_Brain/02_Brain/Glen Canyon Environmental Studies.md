@@ -62,6 +62,21 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 > This memorandum from the [[Glen Canyon Environmental Studies]] program announces a technical review meeting scheduled for June 11, 1993, to evaluate the [[U.S. Fish and Wildlife Service]] flow scenario for [[Glen Canyon Dam]] operations. The meeting was relocated to accommodate increased attendance...
 > -- *[[GlenCanyonEnvironmentalStudies_19728]]*
 
+> This memorandum from the [[Fish and Wildlife Service]] documents the November 8, 1989 briefing regarding the October 24, 1989 [[Executive Review Committee]] (ERC) meeting for [[Glen Canyon Environmental Studies]] (GCES). The document addresses ongoing environmental studies related to [[Glen Canyon...
+> -- *[[NotesOfTheBriefingHeldNovember_11848]]*
+
+> This document describes the comprehensive database structure developed by BIO/WEST, Inc. for the [[Glen Canyon Environmental Studies]] (GCES) investigation of [[Humpback Chub]] (*Gila cypha*) in [[Grand Canyon]]. The database encompasses 36 monthly field trips from October 1990 through November...
+> -- *[[StatusOfTheBiowestDatabase_13632]]*
+
+> This February 1990 memorandum from the U.S. Fish and Wildlife Service (FWS) to the Bureau of Reclamation addresses Section 7 consultation regarding [[Glen Canyon Dam]] operations and their impacts on the endangered [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The FWS concurs with seven...
+> -- *[[OperationOfGlenCanyonDamBrazSe_14783]]*
+
+> This memorandum from the [[Bureau of Reclamation]]'s [[Glen Canyon Environmental Studies]] program addresses coordination issues regarding permits and data acquisition for research on the [[Little Colorado River]]. The document schedules a meeting among principal investigators and agency...
+> -- *[[GlenCanyonEnvironmentalStudies_19715]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -130,3 +145,8 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 - [[PreliminaryMeetingInformationF_13798]]
 - [[InterimFlowsForGrandCanyonReco_18454]]
 - [[GlenCanyonEnvironmentalStudies_19728]]
+- [[NotesOfTheBriefingHeldNovember_11848]]
+- [[StatusOfTheBiowestDatabase_13632]]
+- [[OperationOfGlenCanyonDamBrazSe_14783]]
+- [[GlenCanyonEnvironmentalStudies_19715]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

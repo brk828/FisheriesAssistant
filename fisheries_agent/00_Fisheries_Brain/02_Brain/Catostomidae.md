@@ -74,6 +74,21 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> An experimental [[Razorback Sucker]] hatchery was established in 1987 at [[Ouray National Wildlife Refuge]] to evaluate streamside spawning and rearing techniques for this endangered species. The facility consisted of three 1/10 acre ponds and a building with incubators and rearing tanks. From...
+> -- *[[OurayRazorbackHatcherySummary_13377]]*
+
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
+> This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
+> -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
+
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This letter from Robert R. Miller, Curator of Fishes at the [[University of Michigan Museum of Zoology]], to the [[American Museum of Natural History]] reviews a manuscript describing two new species of [[Catostomus]] (suckers) from northern Mexico. Miller confirms the validity of both species as...
+> -- *[[ReManuscriptDescribingTwoNewSp_15374]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AListOfOntarioFishes_11321]]
@@ -269,3 +284,8 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 - [[ExtensionOfPublicCommentPeriod_17380]]
 - [[GeneticDiversityOfRazorbackSuc_18428]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[OurayRazorbackHatcherySummary_13377]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]
+- [[TissueSampleAnalysisOfCuiuihyb_14120]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[ReManuscriptDescribingTwoNewSp_15374]]

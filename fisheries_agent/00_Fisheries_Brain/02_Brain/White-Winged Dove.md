@@ -17,8 +17,12 @@ I cannot provide an accurate definition of "White-Winged Dove" in the context of
 > This biological assessment was conducted 8–18 July 1994 for the [[Papago Park Military Reservation]] (PPMR) in Phoenix, Arizona, in support of an environmental assessment for proposed construction of a consolidated maintenance facility by the Arizona Army National Guard. The survey documented 36...
 > -- *[[PapagoParkMilitaryReservationB_13351]]*
 
+> This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
+> -- *[[PlanningEffortNearItsConclusio_11515]]*
+
 ## Mentioned In
 - [[ColoradoRiverStudies_1966]]
 - [[GilaAndSaltRiverClearingAndCha_1967_03_31]]
 - [[InvestigationOfProposedProject_1967_03_31]]
 - [[PapagoParkMilitaryReservationB_13351]]
+- [[PlanningEffortNearItsConclusio_11515]]

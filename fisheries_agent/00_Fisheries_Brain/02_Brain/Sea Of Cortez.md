@@ -14,8 +14,16 @@ auto_enriched: true
 > This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
 > -- *[[AllocatingFreshWaterToAquaticE_18641]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
 ## Mentioned In
 - [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
 - [[AllocatingFreshWaterToAquaticE_18641]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]

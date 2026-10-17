@@ -23,8 +23,12 @@ The Owens Valley represents a significant case study in the historical transitio
 > This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
 > -- *[[FishesAndAquaticResourcesOfThe_15407]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[DesertPupfishesReflectionsOnRe_11118]]
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
 - [[FishesAndAquaticResourcesOfThe_15407]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]

@@ -17,9 +17,13 @@ Chironomid larvae are aquatic insect larvae of the family Chironomidae (non-biti
 > - **Habitat:** [[Clear Lake, Iowa]] — a shallow, turbid, eutrophic lake; fish sampled via seining in littoral zones. - **Trophic role:** Primary benthic invertivore; main prey is [[Chironomid Larvae]], supplemented by detritus, vegetation, adult insects, and fish fry. - **Co-occurring species uti...
 > -- *[[DigestionRateOfThe_15655]]*
 
+> This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
+> -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[DigestionRateOfThe_15655]]
 - [[EstimationOfBluegillLepomisMac_1974]]
 - [[LimnologicalStudyOfGlenCanyonT_1965_06_30]]
 - [[RelationshipOfPhOfPondWatersTo_1961]]
+- [[OwensPupfishCyprinodonRadiosus_13308]]

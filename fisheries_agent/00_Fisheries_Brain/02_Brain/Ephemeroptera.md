@@ -29,6 +29,9 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 > This annual report summarizes research activities conducted during 1966 by multiple hydrobiological, ichthyological, fisheries, fish disease, and waterfowl research units affiliated with the [[Natural History Club]] in Brno, Czechoslovakia. The report covers work by university departments, Academy...
 > -- *[[HydrobiologicalAndIchthyologic_12963]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[ComparativeEcologyOfNotropisAl_14679]]
@@ -45,3 +48,4 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 - [[WinterObservationsOnBottomOrga_16187]]
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[HydrobiologicalAndIchthyologic_12963]]
+- [[LiteratureReviewAndImpactRepor_14988]]

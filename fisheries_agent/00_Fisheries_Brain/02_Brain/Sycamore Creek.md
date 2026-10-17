@@ -53,6 +53,15 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 > The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
 > -- *[[EndangeredAndThreatenedWildlif_14803]]*
 
+> The U.S. Environmental Protection Agency (EPA) Region IX and U.S. Army Corps of Engineers (Corps) conducted an Advanced Identification (ADID) project for the [[Verde River]] in Arizona under Section 404 of the Clean Water Act. This document announces public workshops (April 25-26, 1994) to discuss...
+> -- *[[VerdeRiverAdvancedIdentificati_11367]]*
+
+> This study plan outlines an Advanced Identification (ADID) process for the [[Verde River]], Arizona, conducted by the U.S. Fish and Wildlife Service Phoenix Field Office in August 1991. The ADID aims to protect the Verde River aquatic ecosystem by evaluating approximately 125 river miles from...
+> -- *[[AdvancedIdentificationOfFuncti_11587]]*
+
+> This document is a peer review letter dated 26 July 1989 from a U.S. Fish and Wildlife Service Fishery Management Biologist to Dr. Dean Hendrickson regarding a draft report by Marsh et al. on interactions between threatened [[Spikedace]] ([[Meda fulgida]]) and introduced [[Red Shiner]]...
+> -- *[[ReviewOfTheDraftReportEntitled_12980]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
@@ -77,3 +86,6 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 - [[ProposedConstructionOfADamOnTh_13721]]
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[EndangeredAndThreatenedWildlif_14803]]
+- [[VerdeRiverAdvancedIdentificati_11367]]
+- [[AdvancedIdentificationOfFuncti_11587]]
+- [[ReviewOfTheDraftReportEntitled_12980]]

@@ -23,6 +23,9 @@ Fall Chinook Salmon are a specific run or population of Chinook salmon (Oncorhyn
 > This document is a **station profile** (Exhibit 1) for the **Spring Creek National Fish Hatchery**, a U.S. Fish and Wildlife Service facility located on the Columbia River near Underwood, Washington. Established in 1901, the hatchery's primary mission is the **mitigation of [[Fall Chinook Salmon]...
 > -- *[[StationProfileOfTheSpringCreek_19519]]*
 
+> This technical paper reports on seven seasons (1959-1966) of experimental operation of the [[Abernathy Channel]], a 2,000-foot artificial spawning and incubation channel near [[Longview, Washington]]. The facility was designed to incubate [[Fall Chinook Salmon]] (*Oncorhynchus tshawytscha*) and...
+> -- *[[OperationOfAbernathyChannelFor_13574]]*
+
 ## Mentioned In
 - [[GarrisonDamNationalFishHatcher_19557]]
 - [[GroupsReachAgreementToRemoveDa_1999_08_23]]
@@ -31,3 +34,4 @@ Fall Chinook Salmon are a specific run or population of Chinook salmon (Oncorhyn
 - [[StationProfileOfTheMakahNation_1993_12_13]]
 - [[StationProfileOfTheQ_1993]]
 - [[StationProfileOfTheSpringCreek_19519]]
+- [[OperationOfAbernathyChannelFor_13574]]

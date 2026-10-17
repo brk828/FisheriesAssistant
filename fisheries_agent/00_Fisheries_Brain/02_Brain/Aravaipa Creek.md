@@ -77,6 +77,24 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 > This legal notice, dated September 12, 1994, from the Gila Watershed Partnership to the U.S. Fish and Wildlife Service challenges the adequacy of critical habitat designated for [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*) on March 8, 1994. The notice argues that the...
 > -- *[[SixtydayNoticeOfIntentToSueOve_20449]]*
 
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
+> Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
+> -- *[[MinutesDesertFishesRecoveryTea_13749]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
+> -- *[[DesertFishesRecoveryTeamAddres_13785]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -179,3 +197,9 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 - [[EndangeredAndThreatenedWildlif_14803]]
 - [[DecliningSouthwesternAquaticHa_15002]]
 - [[SixtydayNoticeOfIntentToSueOve_20449]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[FurtherInformationOnTheSpikeda_13737]]
+- [[MinutesDesertFishesRecoveryTea_13749]]
+- [[DesertFishesRecoveryTeamAddres_13785]]

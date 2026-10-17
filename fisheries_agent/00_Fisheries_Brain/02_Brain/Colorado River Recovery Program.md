@@ -26,6 +26,9 @@ The Colorado River Recovery Program is a comprehensive, federally-coordinated co
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
+> -- *[[FyReportingAndAccounting_21020]]*
+
 ## Mentioned In
 - [[ActingProgramDirector_1990_03_29]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -53,3 +56,4 @@ The Colorado River Recovery Program is a comprehensive, federally-coordinated co
 - [[VirginRiverWoundfinPlanForBroo_16685]]
 - [[YampaRiverChannelMonitoring_1993]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[FyReportingAndAccounting_21020]]

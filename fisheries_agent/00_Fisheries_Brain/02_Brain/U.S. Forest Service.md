@@ -41,6 +41,18 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
 > -- *[[EndangeredAndThreatenedWildlif_14803]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
+> This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
+> -- *[[MasterPlanForBuenosAiresWildli_13323]]*
+
+> The BIOTA (Biodiversity Team Assessment) Project is a collaborative proposal developed in 1993 by representatives from the [[Arizona Game and Fish Department]], [[Arizona Association of Conservation Districts]], [[Arizona Gap Analysis Program]], [[The Nature Conservancy]], and the [[U.S. Fish and...
+> -- *[[AProposedDemonstrationModelToI_17636]]*
+
 ## Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -75,3 +87,7 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[FishFaunaOfTheMiddleRioGrandeS_15005]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[EndangeredAndThreatenedWildlif_14803]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[StatusReportForNaturalAndIntro_12972]]
+- [[MasterPlanForBuenosAiresWildli_13323]]
+- [[AProposedDemonstrationModelToI_17636]]

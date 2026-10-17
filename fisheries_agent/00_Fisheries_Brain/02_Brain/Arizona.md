@@ -65,6 +65,27 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 > This correspondence from the [[Bureau of Land Management]] [[Tucson Resource Area Office]] to Dr. W.L. Minckley, Team Leader of the [[Desert Fishes Recovery Team]], provides input on the Recovery Team's functions and duties. Written by Jeffrey R. Simms and transmitted March 16, 1993, the letter...
 > -- *[[DfrtAccomplishmentsduties_18989]]*
 
+> The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
+> -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
+
+> This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
+> -- *[[PlanningEffortNearItsConclusio_11515]]*
+
+> This biological opinion, issued April 21, 1995, addresses emergency and follow-up repair of flood damage to a low-water ford crossing of the [[Blue River]] on Forest Road 475 in the [[Apache-Sitgreaves National Forests]], [[Greenlee County]], [[Arizona]]. The U.S. Forest Service (lead agency) and...
+> -- *[[SummaryBiologicalOpinionForRep_11720]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
+> -- *[[MasterPlanForBuenosAiresWildli_13323]]*
+
+> This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
+> -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
 ## Mentioned In
 - [[AuthorizationLetterForGilaTopm_1990_11_21]]
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
@@ -91,3 +112,10 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 - [[DecliningSouthwesternAquaticHa_15002]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
 - [[DfrtAccomplishmentsduties_18989]]
+- [[BlmReleasesDraftSanPedroRiverM_11464]]
+- [[PlanningEffortNearItsConclusio_11515]]
+- [[SummaryBiologicalOpinionForRep_11720]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[MasterPlanForBuenosAiresWildli_13323]]
+- [[TissueSampleAnalysisOfCuiuihyb_14120]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]

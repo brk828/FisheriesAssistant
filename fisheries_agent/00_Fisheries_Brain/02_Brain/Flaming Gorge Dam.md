@@ -53,6 +53,18 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > This 1989 memorandum from the U.S. Fish and Wildlife Service transmits interim streamflow recommendations for the [[Yampa River]] to protect four rare and endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila...
 > -- *[[StreamflowNeedsOfRareAndEndang_14141]]*
 
+> This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
+> -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
+
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -103,3 +115,7 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[LetterOnImplementationCommitte_11623]]
 - [[DraftdistributionAndIncidenceO_12207]]
 - [[StreamflowNeedsOfRareAndEndang_14141]]
+- [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[ManagementGroupMeetingSummary_19219]]
+- [[BonytailReintroductionPlanForT_20248]]

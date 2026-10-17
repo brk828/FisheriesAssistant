@@ -29,6 +29,9 @@ Lake Erie is one of the five Great Lakes and serves as a critical freshwater eco
 > This article provides an overview of whitefish species in New York waters, focusing primarily on the [[Adirondack Whitefish]] or [[Labrador Whitefish]] (Coregonus clupeaformis). Whitefish are highly valued food fish with an international reputation for flavor, occurring in at least 48 New York...
 > -- *[[Whitefish_19228]]*
 
+> This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
+> -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[ASystematicStudyOfTheGreenside_1964]]
@@ -50,3 +53,4 @@ Lake Erie is one of the five Great Lakes and serves as a critical freshwater eco
 - [[TheTemporalDistributionOfChlor_1966]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[Whitefish_19228]]
+- [[ALiteratureReviewOfTheEffectsO_20478]]

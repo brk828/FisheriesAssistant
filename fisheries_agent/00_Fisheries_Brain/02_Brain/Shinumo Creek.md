@@ -29,6 +29,9 @@ Shinumo Creek is a tributary of the Colorado River within the Grand Canyon that 
 > This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
 > -- *[[CharacterizationOfTheLifeHisto_13649]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
 ## Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DiscussionOfBiowestSWorkPlan_1991_09_23]]
@@ -41,3 +44,4 @@ Shinumo Creek is a tributary of the Colorado River within the Grand Canyon that 
 - [[TripReportAgfdNativeFishStudie_11269]]
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[CharacterizationOfTheLifeHisto_13649]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]

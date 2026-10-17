@@ -11,7 +11,11 @@ Livestock grazing, in the context of aquatic ecology and fish conservation, refe
 > - **[[Fire Suppression]]** vs. **[[Livestock Grazing]]** as competing/compounding causal factors in forest overstocking. - Grazing reduces herbaceous understory ([[Pine Grass]]) competition, which the studies argue is the "prime factor" enabling dense tree seedling establishment — more significan...
 > -- *[[LivestockGrazingIsAMajorCauseO_1995_05_09]]*
 
+> The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
+> -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
+
 ## Mentioned In
 - [[GilaTroutHabitatDeclineAndCons_1994_05_02]]
 - [[InvitationToBogHoleHabitatImpr_1989_02_03]]
 - [[LivestockGrazingIsAMajorCauseO_1995_05_09]]
+- [[BlmReleasesDraftSanPedroRiverM_11464]]

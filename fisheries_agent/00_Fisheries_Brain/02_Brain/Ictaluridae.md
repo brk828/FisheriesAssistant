@@ -41,6 +41,9 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 > This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
 > -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
 
+> This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
+> -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
+
 ## Mentioned In
 - [[ACaseOfAlbinismInTheTadpoleMad_20472]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -96,3 +99,4 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[PlansToObtainLiveRioYaquiFishe_14087]]

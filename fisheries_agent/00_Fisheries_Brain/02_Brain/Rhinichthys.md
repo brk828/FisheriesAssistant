@@ -29,6 +29,9 @@ Rhinichthys is a genus of small freshwater cyprinid fishes commonly known as dac
 > This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
 > -- *[[EvolutionaryRelationshipsOfThe_19110]]*
 
+> This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
+> -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
+
 ## Mentioned In
 - [[DiagnosesOfNewCyprinidFishesOf_1972_09_29]]
 - [[DistributionAndStatusOfLoachMi_20268]]
@@ -40,3 +43,4 @@ Rhinichthys is a genus of small freshwater cyprinid fishes commonly known as dac
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
+- [[TissueSampleAnalysisOfCuiuihyb_14120]]

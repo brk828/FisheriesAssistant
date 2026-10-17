@@ -35,6 +35,12 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 > The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
 > -- *[[EndangeredAndThreatenedWildlif_11564]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
+> This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
+> -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
@@ -54,3 +60,5 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[EndangeredAndThreatenedWildlif_11564]]
+- [[LiteratureReviewAndImpactRepor_14988]]
+- [[FishesOfAfghanistanAnAnnotated_15968]]

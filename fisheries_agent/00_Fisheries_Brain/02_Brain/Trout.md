@@ -29,6 +29,21 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
 > -- *[[RoughFishControl_20167]]*
 
+> This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
+> -- *[[MovementsOfInlandAnglersWithin_11325]]*
+
+> This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
+> -- *[[TheMaineSmallmouth_14928]]*
+
+> This document from the New York State Conservation Department examines the challenges and limitations of artificial propagation and stocking programs for [[Smallmouth Bass]] (Micropterus dolomieu). The article contrasts early optimistic assumptions about warm-water fish stocking—based on successful...
+> -- *[[FishFacts_20746]]*
+
+> This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
+> -- *[[SummaryStatementOfInsightsFrom_20854]]*
+
+> This fishery leaflet provides a comprehensive overview of columnaris disease, a significant bacterial infection affecting freshwater fishes. The disease, caused by slime bacteria (*Chondrococcus columnaris* or *Cytophaga columnaris*), manifests as grayish-white lesions resembling fungal infections...
+> -- *[[ColumnarisDiseaseOfFishes_21236]]*
+
 ## Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -58,3 +73,8 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[TheSmeltOsmerusMordaxMitchill_13092]]
 - [[Perch_16750]]
 - [[RoughFishControl_20167]]
+- [[MovementsOfInlandAnglersWithin_11325]]
+- [[TheMaineSmallmouth_14928]]
+- [[FishFacts_20746]]
+- [[SummaryStatementOfInsightsFrom_20854]]
+- [[ColumnarisDiseaseOfFishes_21236]]

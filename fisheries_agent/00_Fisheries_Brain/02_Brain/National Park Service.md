@@ -65,6 +65,27 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
 > -- *[[LongtermLimnologicalAndWaterQu_17092]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This memorandum from the [[Fish and Wildlife Service]] documents the November 8, 1989 briefing regarding the October 24, 1989 [[Executive Review Committee]] (ERC) meeting for [[Glen Canyon Environmental Studies]] (GCES). The document addresses ongoing environmental studies related to [[Glen Canyon...
+> -- *[[NotesOfTheBriefingHeldNovember_11848]]*
+
+> This technical report presents a comprehensive baseline study of the [[Desert Pupfish]] (*Cyprinodon macularius*) population at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona, conducted from March 1975 to August 1976. The study documented population demography,...
+> -- *[[PreliminaryStudyOfTheDesertPup_12499]]*
+
+> This document is official correspondence from the [[National Park Service]] (NPS) dated March 24, 1989, addressed to Dr. John C. Gordon, Dean of the [[Yale School of Forestry and Environmental Studies]], regarding the establishment of a Commission on Research and Resource Management Policy in the...
+> -- *[[NationalParksAndConservationAs_15435]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
+> In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
+> -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -108,3 +129,10 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[LongtermLimnologicalAndWaterQu_17092]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[NotesOfTheBriefingHeldNovember_11848]]
+- [[PreliminaryStudyOfTheDesertPup_12499]]
+- [[NationalParksAndConservationAs_15435]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[DraftDayFindingForDesertFishes_20489]]
+- [[ProjectVelaUniformLakeMeadTest_20812]]

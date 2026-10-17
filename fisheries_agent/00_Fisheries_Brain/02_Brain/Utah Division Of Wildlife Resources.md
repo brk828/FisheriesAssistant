@@ -17,6 +17,9 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 > This paper, presented from the perspective of the [[Utah Division of Wildlife Resources]], argues that the "wild trout vs. stocked trout" debate is a false dichotomy. Instead, the author (Bruce R. Schmidt) frames the issue as one of "appropriate uses of wild and stocked trout" depending on habita...
 > -- *[[WildTroutVSStockedTroutAStateM_20563]]*
 
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
 ## Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[CaptureOfRareFishInLakePowell_1988_08_18]]
@@ -34,3 +37,4 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 - [[VirginRiverMonitoringArizonaSu_1994_05_16]]
 - [[VirginRiverMonitoringArizonaSu_1994_10_05]]
 - [[WildTroutVSStockedTroutAStateM_20563]]
+- [[DraftConservationStrategyVirgi_11659]]

@@ -23,6 +23,9 @@ Bylas Springs refers to an isolated desert spring-fed habitat system located in 
 > This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
 > -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
 
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
 ## Mentioned In
 - [[GilaTopminnowReintroductionSBy_1996_08_27]]
 - [[HistoryOfBylasTopminnowPopulat_1989_02_08]]
@@ -30,3 +33,4 @@ Bylas Springs refers to an isolated desert spring-fed habitat system located in 
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
 - [[TripReportBylasSpringsBarrierR_1990_07_10]]
 - [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[StatusReportForNaturalAndIntro_12972]]

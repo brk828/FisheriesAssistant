@@ -14,6 +14,14 @@ The East Fork is a tributary of the Gila River in New Mexico that historically s
 > This 1966 Federal Aid completion report (F-18-R-13, Job 1) by Ted C. Bjornn evaluates two methods for estimating [[Chinook Salmon]] and [[Steelhead Trout]] harvest in Idaho waters: postal card questionnaires and salmon/steelhead permits. The study found that questionnaire-based estimates contained...
 > -- *[[StatewideFishingHarvestSurvey_17659]]*
 
+> This annual progress report documents the 1966 [[Chinook Salmon]] spawning ground surveys conducted in the [[Salmon River]] drainage, Idaho, from August 1 to September 30, 1966. Spring and summer chinook salmon spawning runs into Idaho in 1966 were larger than those of 1965, though the summer-run...
+> -- *[[SalmonAndSteelheadInvestigatio_12147]]*
+
+> This report documents biological characteristics of [[Pink Salmon]] (*Oncorhynchus gorbuscha*) spawning populations in [[Olsen Creek]], [[Prince William Sound]], Alaska during 1962-63. [[Prince William Sound]] is unique among major pink salmon-producing areas in that a significant portion (35-77%)...
+> -- *[[BiologicalCharacteristicsOfInt_16617]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[StatewideFishingHarvestSurvey_17659]]
+- [[SalmonAndSteelheadInvestigatio_12147]]
+- [[BiologicalCharacteristicsOfInt_16617]]

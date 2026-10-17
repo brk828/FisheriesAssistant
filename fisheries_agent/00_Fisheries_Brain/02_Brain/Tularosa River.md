@@ -23,6 +23,9 @@ The Tularosa River is a tributary stream system in New Mexico that serves as cri
 > This legal notice, dated September 12, 1994, from the Gila Watershed Partnership to the U.S. Fish and Wildlife Service challenges the adequacy of critical habitat designated for [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*) on March 8, 1994. The notice argues that the...
 > -- *[[SixtydayNoticeOfIntentToSueOve_20449]]*
 
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_16787]]
 - [[MicrohabitatUtilizationOfLoach_14998]]
@@ -30,3 +33,4 @@ The Tularosa River is a tributary stream system in New Mexico that serves as cri
 - [[EndangeredAndThreatenedWildlif_11552]]
 - [[EndangeredAndThreatenedWildlif_14801]]
 - [[SixtydayNoticeOfIntentToSueOve_20449]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]

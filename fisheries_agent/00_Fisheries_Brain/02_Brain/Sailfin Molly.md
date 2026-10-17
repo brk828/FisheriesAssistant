@@ -26,6 +26,9 @@ The Sailfin Molly (*Mollienesia latipinna*) is a livebearing fish native to Sout
 > This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
 > -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
 
+> This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
+> -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
+
 ## Mentioned In
 - [[OccurrenceOfTheAmazonMollyMoll_19138]]
 - [[TripReportForTheJuneThPaintedR_1997_06_26]]
@@ -33,3 +36,4 @@ The Sailfin Molly (*Mollienesia latipinna*) is a livebearing fish native to Sout
 - [[ABibliographyAndHostListForThe_15289]]
 - [[FisheryInventoryOfTheCoachella_13687]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[FishWithoutARiverTheCaptiveBre_19094]]

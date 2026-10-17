@@ -14,8 +14,12 @@ auto_enriched: true
 > The [[Arizona Department of Water Resources]] contracted [[Earth Technology Corporation]] in 1984 to reassess the feasibility of constructing a permanent-pool recreational lake on [[Leslie Creek]] in [[Cochise County]], Arizona. The original 1960s-1970s feasibility studies estimated average annual...
 > -- *[[FeasibilityStudyOfLeslieCanyon_15717]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[ReEvaluationOfTheNativeFishesO_12336]]
 - [[RuckerCanyonFisheriesSurvey_1997_07_30]]
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
+- [[ReportToTheDesertFishesCouncil_13683]]

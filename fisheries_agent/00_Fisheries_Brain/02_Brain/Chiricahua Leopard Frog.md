@@ -32,6 +32,9 @@ The Chiricahua Leopard Frog (*Rana chiricahuensis*) is an imperiled riparian and
 > This Federal Register notice, published September 19, 1997, by the U.S. Fish and Wildlife Service presents an updated list of plant and animal taxa native to the United States that are candidates or proposed for listing as endangered or threatened under the Endangered Species Act of 1973, as...
 > -- *[[EndangeredAndThreatenedWildlif_11741]]*
 
+> This document comprises Pima County, Arizona's Resolution No. 1998-250 establishing the [[Sonoran Desert Conservation Plan]] (SDCP), correspondence soliciting expert input on species selection, and a preliminary species list for multi-species habitat conservation planning. Passed December 3, 1998,...
+> -- *[[AResolutionOfTheBoardOfSupervi_18593]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[CommentsOnAndChangesToAnimalNo_11856]]
@@ -49,3 +52,4 @@ The Chiricahua Leopard Frog (*Rana chiricahuensis*) is an imperiled riparian and
 - [[AddendumToTheMarchEnvironmenta_11496]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[EndangeredAndThreatenedWildlif_11741]]
+- [[AResolutionOfTheBoardOfSupervi_18593]]

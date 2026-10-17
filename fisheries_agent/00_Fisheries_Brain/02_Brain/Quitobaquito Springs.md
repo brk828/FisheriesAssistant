@@ -29,6 +29,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This technical report presents a comprehensive baseline study of the [[Desert Pupfish]] (*Cyprinodon macularius*) population at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona, conducted from March 1975 to August 1976. The study documented population demography,...
+> -- *[[PreliminaryStudyOfTheDesertPup_12499]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -42,3 +45,4 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[PermitReportAndPermitRequestUn_1993_11_28]]
 - [[GeneticVariationInDesertPupfis_15731]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[PreliminaryStudyOfTheDesertPup_12499]]

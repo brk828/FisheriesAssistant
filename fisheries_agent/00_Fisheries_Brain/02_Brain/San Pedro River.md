@@ -89,6 +89,18 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 > The [[Bureau of Land Management]] (BLM) announced a temporary six-month suspension of land acquisitions along the [[San Pedro River]] in southeastern Arizona following June 10 discussions with Natural Resource Conservation Districts (NRCDs). The decision responds to concerns from private landowners...
 > -- *[[BlmRespondsToPublicConcernsAlo_19144]]*
 
+> The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
+> -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
+
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
+> This administrative correspondence from the Bureau of Land Management Safford District Office documents a meeting notice dated September 15, 1989, convening the [[San Pedro River]] Biological Resources Committee. The meeting was scheduled to discuss the planned Habitat Management Plan for the [[San...
+> -- *[[SanPedroRiverBiologicalResourc_17351]]*
+
+> This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
+> -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
+
 ## Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -159,3 +171,7 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 - [[SanPredoBiologicalResourcesTec_17354]]
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
 - [[BlmRespondsToPublicConcernsAlo_19144]]
+- [[BlmReleasesDraftSanPedroRiverM_11464]]
+- [[LiteratureReviewAndImpactRepor_14988]]
+- [[SanPedroRiverBiologicalResourc_17351]]
+- [[FishesOfTheSonoitaCreekDrainag_18558]]

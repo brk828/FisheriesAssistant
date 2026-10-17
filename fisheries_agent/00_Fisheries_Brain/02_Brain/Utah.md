@@ -17,6 +17,9 @@ Utah is a geographic region in the western United States that serves as a critic
 > This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
 > -- *[[InterimProceduresForStockingNo_15423]]*
 
+> This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
+> -- *[[SummaryStatementOfInsightsFrom_20854]]*
+
 ## Mentioned In
 - [[EndanderedAndThreatenedWildlif_16520]]
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
@@ -26,3 +29,4 @@ Utah is a geographic region in the western United States that serves as a critic
 - [[VirginChubGilaRobustaSeminuda_1989_09_07]]
 - [[LectureNotesFromBiologyClass_13784]]
 - [[InterimProceduresForStockingNo_15423]]
+- [[SummaryStatementOfInsightsFrom_20854]]

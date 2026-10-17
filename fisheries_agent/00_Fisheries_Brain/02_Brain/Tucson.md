@@ -14,6 +14,10 @@ Tucson is a major city in central Arizona served by the Central Arizona Project 
 > The [[Pima Pineapple Cactus]] (*Coryphantha scheeri* var. *robustispina*) was listed as endangered by the [[US Fish and Wildlife Service]] in October 1993. This rare [[Sonoran Desert]] species occurs in a restricted range from south [[Tucson]] to south of [[Nogales]], [[Mexico]]. The [[National...
 > -- *[[EndangeredCactusOffersNbsOppor_13220]]*
 
+> The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
+> -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
+- [[BlmReleasesDraftSanPedroRiverM_11464]]

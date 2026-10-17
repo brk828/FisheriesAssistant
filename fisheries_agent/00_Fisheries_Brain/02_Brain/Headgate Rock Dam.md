@@ -17,7 +17,15 @@ Headgate Rock Dam is a structure on the Colorado River at river mile 524.5 that 
 > This note documents the first records of [[Red-ear Sunfish]] (*Lepomis microlophus*) and [[Smallmouth Bass]] (*Micropterus dolomieui*) in the lower [[Colorado River]], California. The red-ear sunfish represents a new addition to California's freshwater fish fauna, while the smallmouth bass was...
 > -- *[[TheOccurrenceOfTwoAdditionalCe_18140]]*
 
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
+> This 1953 report documents severe fishery losses resulting from [[Bureau of Reclamation]] channelization of the lower [[Colorado River]] between [[Needles]] and [[Topock]], California. Between 1936-1938, completion of [[Hoover Dam]], [[Parker Dam]], and [[Imperial Dam]] created favorable conditions...
+> -- *[[EffectOfChannelizationOnTheFis_18139]]*
+
 ## Mentioned In
 - [[IntraserviceSectionConsultatio_11829]]
 - [[IntraserviceSectionConsultatio_20152]]
 - [[TheOccurrenceOfTwoAdditionalCe_18140]]
+- [[ProposalToListTheRazorbackSuck_14703]]
+- [[EffectOfChannelizationOnTheFis_18139]]

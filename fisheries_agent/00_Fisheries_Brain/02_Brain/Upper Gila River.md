@@ -20,7 +20,11 @@ The Upper Gila River is a critical reach of the Gila River system in the southwe
 > - **Basin significance**: The Blue River's native fish assemblage (6 species) ranks among the richest remaining native fish communities in the [[Gila River Basin]], comparable only to the [[Verde River]] and surpassed only by the [[Upper Gila River]] and [[Aravaipa Creek]].
 > -- *[[LetterToUSForestServiceRegardi_1991_02_15]]*
 
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
 ## Mentioned In
 - [[LetterToUSForestServiceRegardi_1991_02_15]]
 - [[LetterToWLMinckleyOnFisheryRes_1994_05_27]]
 - [[SecondQuarterlyProgressReportO_1987_08_09]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]

@@ -41,6 +41,9 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 > This 1991 report presents scientifically based recommendations for interim operating procedures at [[Glen Canyon Dam]] to protect downstream aquatic and riparian resources in [[Grand Canyon National Park]] during the period between research flows (ending July 1991) and implementation of a Record of...
 > -- *[[InterimFlowsForGrandCanyonReco_18454]]*
 
+> This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
+
 ## Mentioned In
 - [[CommentsOnDraftColoradoRiverEn_1993_12_28]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -62,3 +65,4 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[DraftLowerColoradoRiverBasinNa_11647]]
 - [[InterimFlowsForGrandCanyonReco_18454]]
+- [[HabitatUseByHumpbackChubGilaCy_11090]]

@@ -23,9 +23,13 @@ Mexico is the location of the Cienega de Santa Clara wetland in Sonora, which wa
 > This memorandum and Federal Register notice document the extension of the public comment period for the proposed critical habitat designation for four endangered fish species in the [[Colorado River Basin]]: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[ExtensionOfPublicCommentPeriod_17380]]*
 
+> This document presents a comprehensive overview of the exceptional aquatic and semi-aquatic fauna of the [[Cuatro Ciénegas Basin]] in [[Coahuila]], [[Mexico]]. The basin contains an extraordinarily diverse assemblage of organisms for a desert region, including 18 fish species (10 endemic to the...
+> -- *[[ASummaryOfInformationAboutTheA_18574]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[APetitionPursuantToArticleOfTh_17637]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[ExtensionOfPublicCommentPeriod_17380]]
+- [[ASummaryOfInformationAboutTheA_18574]]

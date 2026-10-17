@@ -35,6 +35,9 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
+> -- *[[GeneticDifferentiationAmongSub_18497]]*
+
 ## Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[ButterfliesFromCoahuilaMexico_1968]]
@@ -52,3 +55,4 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 - [[UsfwsmexicoCooperativeProgramG_16498]]
 - [[CuatroCienegasWatershedCoahuil_16108]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[GeneticDifferentiationAmongSub_18497]]

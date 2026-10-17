@@ -20,7 +20,11 @@ auto_enriched: true
 > This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
 > -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
 
+> This document is an extensive unpublished bibliography compiled by Peter J. Unmack in 1995, cataloging scientific and technical literature on the [[Great Artesian Basin]] and its associated [[Mound Springs]] in Australia. The bibliography encompasses over 300 references spanning from the 1870s to...
+> -- *[[AustralianDesertSpringsgreatAr_11445]]*
+
 ## Mentioned In
 - [[LetterToDrWLMinckleyRequesting_1994_07_11]]
 - [[SouthAustraliaSMoundSpringsSom_20663]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
+- [[AustralianDesertSpringsgreatAr_11445]]

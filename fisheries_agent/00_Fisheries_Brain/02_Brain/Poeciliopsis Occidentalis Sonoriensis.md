@@ -14,8 +14,12 @@ auto_enriched: true
 > This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
 > -- *[[TentativeSummaryOfCollectingAc_13171]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
 ## Mentioned In
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
 - [[LetterToDrWLMinckleyRegardingD_1990_11_05]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[TentativeSummaryOfCollectingAc_13171]]
+- [[ReportToTheDesertFishesCouncil_13683]]

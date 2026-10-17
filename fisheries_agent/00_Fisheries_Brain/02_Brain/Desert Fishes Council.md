@@ -53,6 +53,12 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 > This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
 > -- *[[FishesAndAquaticResourcesOfThe_15407]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -158,3 +164,5 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 - [[EndangeredAndThreatenedWildlif_14803]]
 - [[DecliningSouthwesternAquaticHa_15002]]
 - [[FishesAndAquaticResourcesOfThe_15407]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[DraftDayFindingForDesertFishes_20489]]

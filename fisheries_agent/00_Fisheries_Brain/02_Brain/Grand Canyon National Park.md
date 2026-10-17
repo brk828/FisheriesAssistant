@@ -65,6 +65,9 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 > This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
 > -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
 
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
@@ -107,3 +110,4 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 - [[TransitionMonitoringForRiparia_17903]]
 - [[InterimFlowsForGrandCanyonReco_18454]]
 - [[AgencyRecalcitranceAndEvasionR_20349]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

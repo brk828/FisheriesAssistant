@@ -11,5 +11,21 @@ auto_enriched: true
 > - **Federal Endangered Species Act listings** apply to: [[Sonoran Pronghorn]], [[Mexican Gray Wolf]], [[Ocelot]], [[Jaguar]] — all listed as "endangered." - **No federal or state listing** currently applies to [[Mule Deer]], [[Mountain Lion]], or the [[Jaguarundi]] (though jaguarundi sightings re...
 > -- *[[UmbrellacorridorDesignSpeciesP_1999_07_07]]*
 
+> This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
+> -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
+
+> This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
+> -- *[[MasterPlanForBuenosAiresWildli_13323]]*
+
+> This comprehensive 1964 report from the [[Fish and Wildlife Service]] documents extensive research on pesticide effects across multiple taxa and ecosystems. The [[Denver Wildlife Research Center]] shifted emphasis from general surveillance to intensive investigation of new pesticides as potential...
+> -- *[[WildlifeStudiesDenverWildlifeR_14329]]*
+
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
+- [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[MasterPlanForBuenosAiresWildli_13323]]
+- [[WildlifeStudiesDenverWildlifeR_14329]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

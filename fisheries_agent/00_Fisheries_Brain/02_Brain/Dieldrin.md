@@ -11,9 +11,13 @@ Dieldrin is a persistent organochlorine pesticide that bioaccumulates in aquatic
 > Related concepts: [[DDT]], [[Endrin]], [[Dieldrin]], [[Organophosphate Pesticides]], [[Chlorinated Hydrocarbon Pesticides]], [[Bioaccumulation]], [[Estuarine Ecosystem]], [[Eastern Oyster]], [[Spot (Fish)]], [[Sheepshead Minnow]].
 > -- *[[EffectsOfPesticidesOnFishAndWi_14331]]*
 
+> This comprehensive 1964 report from the [[Fish and Wildlife Service]] documents extensive research on pesticide effects across multiple taxa and ecosystems. The [[Denver Wildlife Research Center]] shifted emphasis from general surveillance to intensive investigation of new pesticides as potential...
+> -- *[[WildlifeStudiesDenverWildlifeR_14329]]*
+
 ## Mentioned In
 - [[AccumulationAndEliminationOfDi_1977]]
 - [[EffectsOfPesticidesOnFishAndWi_14331]]
 - [[EquilibriumBetweenUptakeAndEli_11390]]
 - [[SizeRelatedFactorsAssociatedWi_13891]]
 - [[VariationsInDdtConcentrationIn_13889]]
+- [[WildlifeStudiesDenverWildlifeR_14329]]

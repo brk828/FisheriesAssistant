@@ -14,6 +14,10 @@ The Mallard (Anas platyrhynchos) is a common duck species studied extensively fo
 > This 1993 memorandum from the Office of the Solicitor, U.S. Department of the Interior, clarifies that hybrid offspring whose parents are both listed as endangered or threatened under the [[Endangered Species Act]] (ESA) are not protected under the Act. The opinion addresses a specific case...
 > -- *[[StatusOfTheHybridOffspringOfTw_15617]]*
 
+> This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
+
 ## Mentioned In
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[StatusOfTheHybridOffspringOfTw_15617]]
+- [[FishAndWildlifeResourcesAndOpe_20151]]

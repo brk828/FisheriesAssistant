@@ -29,6 +29,9 @@ The Greenback Cutthroat Trout is a native North American salmonid species that a
 > This Federal Register notice documents the completion of the U.S. Fish and Wildlife Service's mandatory five-year review of species listed as endangered or threatened in 1978 under the [[Endangered Species Act]] of 1973. The review examined 39 species total, including three fish species: [[Leopard...
 > -- *[[EndangeredAndThreatenedWildlif_11553]]*
 
+> This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
+> -- *[[SummaryStatementOfInsightsFrom_20854]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[CurrentRoleOfTroutCultureInMan_13158]]
@@ -38,3 +41,4 @@ The Greenback Cutthroat Trout is a native North American salmonid species that a
 - [[SubpermitAuthorizationForWound_1989_06_06]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[EndangeredAndThreatenedWildlif_11553]]
+- [[SummaryStatementOfInsightsFrom_20854]]

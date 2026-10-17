@@ -23,6 +23,9 @@ auto_enriched: true
 > This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
 > -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
 
+> This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
+> -- *[[PlanningEffortNearItsConclusio_11515]]*
+
 ## Mentioned In
 - [[ReportingFederalExpendituresPu_1992_11_25]]
 - [[PapagoParkMilitaryReservationB_13351]]
@@ -30,3 +33,4 @@ auto_enriched: true
 - [[BiologicalAssessmentOnThreaten_19806]]
 - [[RecommendationsToColoradoRiver_14701]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[PlanningEffortNearItsConclusio_11515]]

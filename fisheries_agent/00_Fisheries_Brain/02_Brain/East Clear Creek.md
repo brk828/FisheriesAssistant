@@ -26,6 +26,9 @@ East Clear Creek is a tributary stream system within the Little Colorado River w
 > The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
 > -- *[[EndangeredAndThreatenedWildlif_11564]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[LetterToWLMinckleyOnLittleColo_1987_01_26]]
 - [[LittleColoradoRiverSpinedaceSu_1991_07_29]]
@@ -34,3 +37,4 @@ East Clear Creek is a tributary stream system within the Little Colorado River w
 - [[StatusOfGeneticAnalysisOfSpine_1993_03_02]]
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[EndangeredAndThreatenedWildlif_11564]]
+- [[LiteratureReviewAndImpactRepor_14988]]

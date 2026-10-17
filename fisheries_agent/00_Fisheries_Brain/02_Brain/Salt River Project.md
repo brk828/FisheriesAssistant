@@ -23,6 +23,9 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 > This report summarizes fish population monitoring conducted in the [[Gila River Basin]], Arizona during fiscal year 1999 (October 1998 - September 1999) under Cooperative Agreement 1425-97-FC-32-00780 between the [[U.S. Bureau of Reclamation]] and [[Arizona State University]]. Sampling was...
 > -- *[[SummaryOfFyFishSurveysInBehalf_17018]]*
 
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[CompilationOfCommentsOnBigRive_11763]]
@@ -31,3 +34,4 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 - [[TripReportTaskForceMonitoringR_1990]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]

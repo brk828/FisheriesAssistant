@@ -14,6 +14,10 @@ Sandstone Reservoir was the subject of an ongoing Section 7 Consultation as of F
 > This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
 > -- *[[EndangeredAndThreatenedWildlif_11592]]*
 
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
+> -- *[[ManagementGroupMeetingSummary_19219]]*
+
 ## Mentioned In
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[EndangeredAndThreatenedWildlif_11592]]
+- [[ManagementGroupMeetingSummary_19219]]

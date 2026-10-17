@@ -71,6 +71,12 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
 > -- *[[CommentsOnTheBiologicalOpinion_17166]]*
 
+> This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
+> -- *[[ReportToTheDesertFishesCouncil_13683]]*
+
+> This 1953 report documents severe fishery losses resulting from [[Bureau of Reclamation]] channelization of the lower [[Colorado River]] between [[Needles]] and [[Topock]], California. Between 1936-1938, completion of [[Hoover Dam]], [[Parker Dam]], and [[Imperial Dam]] created favorable conditions...
+> -- *[[EffectOfChannelizationOnTheFis_18139]]*
+
 ## Mentioned In
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -105,3 +111,5 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[CommentsOnBiologicalAndConfere_11800]]
 - [[DraftdistributionAndIncidenceO_12207]]
 - [[CommentsOnTheBiologicalOpinion_17166]]
+- [[ReportToTheDesertFishesCouncil_13683]]
+- [[EffectOfChannelizationOnTheFis_18139]]

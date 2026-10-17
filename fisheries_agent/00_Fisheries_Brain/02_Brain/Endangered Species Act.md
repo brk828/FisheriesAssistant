@@ -161,6 +161,45 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This correspondence from the [[Bureau of Reclamation]] (March 18, 1988) responds to a request for federal support of [[Conner Dam]] construction on the [[Gila River]] in New Mexico as part of the [[Central Arizona Project]]. The Bureau declined further consideration, citing economic infeasibility...
 > -- *[[ConnerDamAsPartOfCentralArizon_19170]]*
 
+> This document announces public meetings (April 14-17, 1986) regarding the Bureau of Reclamation's Upper Gila Water Supply Study and selection of a proposed action for the Draft Environmental Impact Statement. The study evaluates six alternative plans (including a "No Federal Action" option) to...
+> -- *[[PublicMeetingsAnnoucnementAndP_11475]]*
+
+> This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
+> -- *[[DraftConservationStrategyVirgi_11659]]*
+
+> This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
+> -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
+
+> This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
+> -- *[[BiologicalOpinionToRepairErosi_11916]]*
+
+> This 1977 legal memorandum from the U.S. Department of the Interior Office of the Solicitor addresses whether hybrids of endangered or threatened species are protected under the [[Endangered Species Act]] of 1973. The Assistant Solicitor concludes that hybrids are covered by the Act based on...
+> -- *[[WhetherHybridsAreCoveredByTheE_12686]]*
+
+> This letter from an Arizona State University zoologist to the U.S. Fish and Wildlife Service, dated July 20, 1990, provides expert commentary on the proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as endangered under the Endangered Species Act. While strongly supporting the...
+> -- *[[SupportForListingTheRazorbackS_13791]]*
+
+> This 1981 legal memorandum from the Assistant Solicitor for Fish and Wildlife to the Associate Director of Federal Assistance addresses whether hybrids of listed species receive protection under the [[Endangered Species Act]] of 1973. The memo defines hybrids as offspring of two animals or plants...
+> -- *[[ProtectionOfHybridsOfListedSpe_15616]]*
+
+> This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
+> -- *[[AuthorizationToUseTheRegionalD_15706]]*
+
+> This document comprises Pima County, Arizona's Resolution No. 1998-250 establishing the [[Sonoran Desert Conservation Plan]] (SDCP), correspondence soliciting expert input on species selection, and a preliminary species list for multi-species habitat conservation planning. Passed December 3, 1998,...
+> -- *[[AResolutionOfTheBoardOfSupervi_18593]]*
+
+> This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
+> -- *[[BureauOfReclamationsFailureToR_18964]]*
+
+> This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
+> -- *[[BonytailReintroductionPlanForT_20248]]*
+
+> On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
+> -- *[[DraftDayFindingForDesertFishes_20489]]*
+
+> On April 10, 1990, the U.S. Fish and Wildlife Service issued a draft jeopardy biological opinion regarding the [[Animas-La Plata]] irrigation project in southwest Colorado and northeast New Mexico. The opinion concludes that construction of the project would likely jeopardize the continued...
+> -- *[[FishAndWildlifeServiceIssuesDr_20983]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -496,3 +535,16 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
 - [[DfrtAccomplishmentsduties_18989]]
 - [[ConnerDamAsPartOfCentralArizon_19170]]
+- [[PublicMeetingsAnnoucnementAndP_11475]]
+- [[DraftConservationStrategyVirgi_11659]]
+- [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[BiologicalOpinionToRepairErosi_11916]]
+- [[WhetherHybridsAreCoveredByTheE_12686]]
+- [[SupportForListingTheRazorbackS_13791]]
+- [[ProtectionOfHybridsOfListedSpe_15616]]
+- [[AuthorizationToUseTheRegionalD_15706]]
+- [[AResolutionOfTheBoardOfSupervi_18593]]
+- [[BureauOfReclamationsFailureToR_18964]]
+- [[BonytailReintroductionPlanForT_20248]]
+- [[DraftDayFindingForDesertFishes_20489]]
+- [[FishAndWildlifeServiceIssuesDr_20983]]

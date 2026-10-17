@@ -32,6 +32,9 @@ Rhinichthys osculus, commonly known as the speckled dace, is a small native cypr
 > This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
 > -- *[[WoundfinPlagopterusArgentissim_14022]]*
 
+> This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
+> -- *[[LiteratureReviewAndImpactRepor_14988]]*
+
 ## Mentioned In
 - [[AravaipaCreekMonitoringData_1993_07_15]]
 - [[BlueSpringsMiLittleColoradoRiv_1971]]
@@ -54,3 +57,4 @@ Rhinichthys osculus, commonly known as the speckled dace, is a small native cypr
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[WoundfinPlagopterusArgentissim_14022]]
+- [[LiteratureReviewAndImpactRepor_14988]]

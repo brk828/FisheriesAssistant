@@ -56,6 +56,9 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This is a research proposal submitted by [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] in January 1990 to study genetic diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations using [[Mitochondrial DNA]] analysis. Principal investigator Professor [[Thomas E....
 > -- *[[GeneticDiversityOfRazorbackSuc_18428]]*
 
+> This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
+> -- *[[DraftEnvironmentalAssessmentLo_11489]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -85,3 +88,4 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[CommentsOnTheBiologicalOpinion_17166]]
 - [[GeneticDiversityOfRazorbackSuc_18428]]
+- [[DraftEnvironmentalAssessmentLo_11489]]

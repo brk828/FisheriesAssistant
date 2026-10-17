@@ -23,6 +23,12 @@ Blue Tilapia (Oreochromis aureus) is a non-native cichlid species that became es
 > This report documents fish community monitoring conducted by Arizona State University at the **ASU Research Park (ASURP)** lakes in Tempe, Arizona, on 19–20 September 1989, using overnight trammel netting and shoreline seining. The study is part of an ongoing conservation monitoring effort focuse...
 > -- *[[SamplingAtAsuResearchParkSepte_19436]]*
 
+> This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
+> -- *[[FurtherInformationOnTheSpikeda_13737]]*
+
+> Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
+> -- *[[SamplingAtAsuResearchParkAutum_19458]]*
+
 ## Mentioned In
 - [[FishSamplingAtAsuResearchParkA_19405]]
 - [[LetterFromDesertFishesCouncilO_1984_07_30]]
@@ -35,3 +41,5 @@ Blue Tilapia (Oreochromis aureus) is a non-native cichlid species that became es
 - [[TripReportForTheAprilSurveyOfT_1996_04_11]]
 - [[TripReportForTheDecemberSurvey_1994_12_01]]
 - [[TripReportForTheSeptemberSurve_1996_09_15]]
+- [[FurtherInformationOnTheSpikeda_13737]]
+- [[SamplingAtAsuResearchParkAutum_19458]]

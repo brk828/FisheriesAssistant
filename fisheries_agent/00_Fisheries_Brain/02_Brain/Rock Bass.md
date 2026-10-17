@@ -32,6 +32,9 @@ Rock bass (Ambloplites rupestris) is a small to medium-sized centrarchid (sunfis
 > This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
 > -- *[[ConcernsAboutIntroductionOfRai_13174]]*
 
+> This 1957 technical report documents a comprehensive survey of bass tapeworm ([[Proteocephalus ambloplitis]]) infections across 124 lakes and ponds in southern [[New Hampshire]]. Conducted during 1955-1956 under the Dingell-Johnson Project F-8-R, the study examined 1,960 fish representing 12...
+> -- *[[TheIncidenceAndDistributionOfT_15429]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -53,3 +56,4 @@ Rock bass (Ambloplites rupestris) is a small to medium-sized centrarchid (sunfis
 - [[TheVertebratesOfArizona_1964]]
 - [[WhatHaveICaught_12929]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
+- [[TheIncidenceAndDistributionOfT_15429]]

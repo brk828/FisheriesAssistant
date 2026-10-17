@@ -41,6 +41,9 @@ Senator Wash Reservoir is a lentic (stillwater) impoundment along the Lower Colo
 > This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
 > -- *[[DraftmanagementPlanForTheRazor_11427]]*
 
+> This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
+> -- *[[ProposalToListTheRazorbackSuck_14703]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -57,3 +60,4 @@ Senator Wash Reservoir is a lentic (stillwater) impoundment along the Lower Colo
 - [[BiologicalAssessmentProbableEf_11481]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[DraftmanagementPlanForTheRazor_11427]]
+- [[ProposalToListTheRazorbackSuck_14703]]

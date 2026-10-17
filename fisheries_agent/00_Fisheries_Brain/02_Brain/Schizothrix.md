@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Schizothrix
+
+## Summary
+Schizothrix is a filamentous cyanobacterium (blue-green alga) that was among the principal primary producers in the Blue River. It contributed to the benthic algal community responsible for photosynthetic oxygen production in the stream.
+
+## Context
+
+> This doctoral dissertation by William R. Duffer (Oklahoma State University, 1965) examines community metabolism and oxygen dynamics in the relatively undisturbed [[Blue River]] in southeastern Oklahoma from June 1963 to August 1964. The study investigated how different geological substrates...
+> -- *[[OxygenBalanceInASouthernGreatP_19151]]*
+
+## Mentioned In
+- [[OxygenBalanceInASouthernGreatP_19151]]

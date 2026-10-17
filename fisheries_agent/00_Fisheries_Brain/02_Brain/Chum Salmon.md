@@ -32,6 +32,12 @@ Chum salmon (Oncorhynchus keta) are an anadromous Pacific salmonid species that 
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This technical paper reports on seven seasons (1959-1966) of experimental operation of the [[Abernathy Channel]], a 2,000-foot artificial spawning and incubation channel near [[Longview, Washington]]. The facility was designed to incubate [[Fall Chinook Salmon]] (*Oncorhynchus tshawytscha*) and...
+> -- *[[OperationOfAbernathyChannelFor_13574]]*
+
+> This report documents biological characteristics of [[Pink Salmon]] (*Oncorhynchus gorbuscha*) spawning populations in [[Olsen Creek]], [[Prince William Sound]], Alaska during 1962-63. [[Prince William Sound]] is unique among major pink salmon-producing areas in that a significant portion (35-77%)...
+> -- *[[BiologicalCharacteristicsOfInt_16617]]*
+
 ## Mentioned In
 - [[EffectOfActivitySalinityAndTem_1969]]
 - [[FishDistributionNumbersAndWeig_1992]]
@@ -45,3 +51,5 @@ Chum salmon (Oncorhynchus keta) are an anadromous Pacific salmonid species that 
 - [[DisappearanceOfDeadPinkSalmonE_12341]]
 - [[ConservationOfNativeFreshwater_15444]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[OperationOfAbernathyChannelFor_13574]]
+- [[BiologicalCharacteristicsOfInt_16617]]

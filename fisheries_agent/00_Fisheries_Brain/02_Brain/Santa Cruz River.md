@@ -53,6 +53,9 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 > The [[Arizona Department of Water Resources]] contracted [[Earth Technology Corporation]] in 1984 to reassess the feasibility of constructing a permanent-pool recreational lake on [[Leslie Creek]] in [[Cochise County]], Arizona. The original 1960s-1970s feasibility studies estimated average annual...
 > -- *[[FeasibilityStudyOfLeslieCanyon_15717]]*
 
+> This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
+> -- *[[StatusReportForNaturalAndIntro_12972]]*
+
 ## Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[CienegaCreekWatershedWaterSour_18990]]
@@ -76,3 +79,4 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
+- [[StatusReportForNaturalAndIntro_12972]]

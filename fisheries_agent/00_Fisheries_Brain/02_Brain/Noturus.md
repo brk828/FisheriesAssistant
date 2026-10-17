@@ -14,9 +14,13 @@ Noturus is a genus of small North American catfishes, commonly known as madtoms,
 > The list is organized taxonomically by family, genus, and species, largely following the nomenclature conventions of the early 20th century (using genera such as *Hybopsis*, *Notropis*, *Hadropterus*, *Boleosoma*, and *Schilbeodes*, many of which have since been synonymized or reclassified under ...
 > -- *[[ListOfTheFishesOfTheTennesseeR_1939_02_08]]*
 
+> This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
+> -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
+
 ## Mentioned In
 - [[ACaseOfAlbinismInTheTadpoleMad_20472]]
 - [[AspectsOfTheLifeHistoryOfTheOz_15231]]
 - [[AspectsOfTheLifeHistoryOfTheSl_13168]]
 - [[ListOfTheFishesOfTheTennesseeR_1939_02_08]]
 - [[NestsEggsAndLarvaeOfTheElegant_1981]]
+- [[TaxonomicStatusEcologyAndDistr_14514]]
