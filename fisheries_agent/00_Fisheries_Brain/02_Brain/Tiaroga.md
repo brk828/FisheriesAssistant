@@ -14,8 +14,16 @@ I appreciate your question, but I cannot provide an accurate definition of "Tiar
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This correspondence from the Arizona Game & Fish Department provides a detailed review of a draft final report examining interactions between the threatened [[Spikedace]] (*[[Meda fulgida]]*) and the introduced [[Red Shiner]] (*[[Cyprinella lutrensis]]*). The review, dated August 2, 1989, was...
+> -- *[[ReviewOfTheDraftReportEntitled_12983]]*
+
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
 ## Mentioned In
 - [[CorrespondenceOnMexicanFishTax_1993_10_21]]
 - [[DesertFishesRecoveryTeamMeetin_1994_09_09]]
 - [[LetterFromDavidLPropstToDrRich_1993_07_06]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[ReviewOfTheDraftReportEntitled_12983]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]

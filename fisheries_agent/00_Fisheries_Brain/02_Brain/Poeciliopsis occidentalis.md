@@ -29,6 +29,12 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This correspondence from the [[U.S. Forest Service]] [[Coronado National Forest]] summarizes a March 1989 work session regarding management of the [[Bog Hole]] in the [[San Rafael Valley]], Arizona. The meeting brought together representatives from [[Arizona Game and Fish Department]], [[U.S. Fish...
+> -- *[[BogHoleProjectMeetingSummary_12749]]*
+
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -49,3 +55,5 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 - [[SPECIES RESPONSIBILITIES OF DESERT FISHES RECOVERY TEAM]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[BogHoleProjectMeetingSummary_12749]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

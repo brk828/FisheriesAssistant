@@ -44,6 +44,18 @@ In the context of fish science and aquatic ecology, California refers to the geo
 > This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
 > -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
 
+> This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
+> -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
+
+> This 1955 report documents the distribution and status of the introduced [[Pumpkinseed]] (*Lepomis gibbosus*) in [[California]]. The species was considered rare in the state, with scattered populations in widely separated locations. The authors compile historical records from 1939-1954, correcting...
+> -- *[[TheStatusOfThePumpkinseedLepom_12862]]*
+
+> This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
+> -- *[[PublicationsOfPeterBMoyle_15442]]*
+
+> This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
+> -- *[[FisheriesManagementOfElCapitan_16317]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[RainbowSmeltIntroductionIntoLa_1989]]
@@ -58,3 +70,7 @@ In the context of fish science and aquatic ecology, California refers to the geo
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[RefugiaInNevadaForCertainRareA_14193]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[SafetyAsRelatedToTheUseOfChemi_11812]]
+- [[TheStatusOfThePumpkinseedLepom_12862]]
+- [[PublicationsOfPeterBMoyle_15442]]
+- [[FisheriesManagementOfElCapitan_16317]]

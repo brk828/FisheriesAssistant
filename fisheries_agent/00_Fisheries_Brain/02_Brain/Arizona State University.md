@@ -155,6 +155,33 @@ Arizona State University is a major research institution that has played a signi
 > This memorandum from the [[Bureau of Reclamation]]'s [[Glen Canyon Environmental Studies]] program addresses coordination issues regarding permits and data acquisition for research on the [[Little Colorado River]]. The document schedules a meeting among principal investigators and agency...
 > -- *[[GlenCanyonEnvironmentalStudies_19715]]*
 
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This March 7, 1988 correspondence from SWCA, Inc. Environmental Consultants to Dr. W. L. Minckley at [[Arizona State University]] outlines an environmental investigation for the [[Salt River Project]] regarding the proposed removal of [[Roosevelt Diversion Dam]]. The assessment focuses on four...
+> -- *[[LetterToWlMinckleyRemovalOfRoo_12727]]*
+
+> This correspondence from the Arizona Game & Fish Department provides a detailed review of a draft final report examining interactions between the threatened [[Spikedace]] (*[[Meda fulgida]]*) and the introduced [[Red Shiner]] (*[[Cyprinella lutrensis]]*). The review, dated August 2, 1989, was...
+> -- *[[ReviewOfTheDraftReportEntitled_12983]]*
+
+> This document is a review memo from Jim to Minck evaluating ongoing [[Glen Canyon Environmental Studies]] projects focused on [[Humpback Chub]] (*Gila cypha*) recovery. The reviewer assesses research conducted by [[Arizona State University]]/[[Navajo Nation]], [[Arizona Fish and Game Department]],...
+> -- *[[ReviewOfGlenCanyonEnvironmenta_14007]]*
+
+> This memorandum documents a significant mortality event involving endangered [[Bonytail Chub]] (*Gila elegans*) collected from [[Lake Mohave]] in May 1993. Of 15 fish captured and transported to [[Dexter National Fish Hatchery]] for broodstock purposes, 10 died (67% mortality) due to handling...
+> -- *[[LossOfLakeMohaveBonytailChub_14539]]*
+
+> This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
+> -- *[[AmericanRiversScientificAndTec_15167]]*
+
+> This memorandum and preliminary draft management plan, dated August 11, 1998, addresses implementation of Reasonable and Prudent Alternative (RPA) 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The RPA requires establishment of...
+> -- *[[PreliminaryDraftManagementPlan_16433]]*
+
+> This document is a research proposal submitted by [[Arizona State University]] to the [[U.S. Fish and Wildlife Service]] Region 2 on December 5, 1988. The proposal, titled "Fish Community Reorganization in a Perturbed Stream, The Virgin River, Utah-Arizona-Nevada," seeks funding to study fish...
+> -- *[[FishCommunityReorganizationInA_18427]]*
+
+> This document comprises museum correspondence and specimen records from May 1995 regarding holdings of [[Cyprinella formosa]] (Beautiful Shiner) from the [[Mimbres River]] in [[New Mexico]]. The records document specimens held at the Museum of Southwestern Biology (MSB) and the University of...
+> -- *[[CyprinellaFormosaMimbresRiverE_21256]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -317,3 +344,12 @@ Arizona State University is a major research institution that has played a signi
 - [[AResolutionOfTheBoardOfSupervi_18593]]
 - [[SamplingAtAsuResearchParkAutum_19458]]
 - [[GlenCanyonEnvironmentalStudies_19715]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[LetterToWlMinckleyRemovalOfRoo_12727]]
+- [[ReviewOfTheDraftReportEntitled_12983]]
+- [[ReviewOfGlenCanyonEnvironmenta_14007]]
+- [[LossOfLakeMohaveBonytailChub_14539]]
+- [[AmericanRiversScientificAndTec_15167]]
+- [[PreliminaryDraftManagementPlan_16433]]
+- [[FishCommunityReorganizationInA_18427]]
+- [[CyprinellaFormosaMimbresRiverE_21256]]

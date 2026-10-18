@@ -26,6 +26,9 @@ The Bureau of Sport Fisheries and Wildlife was a federal agency responsible for 
 > This fishery leaflet provides a comprehensive overview of columnaris disease, a significant bacterial infection affecting freshwater fishes. The disease, caused by slime bacteria (*Chondrococcus columnaris* or *Cytophaga columnaris*), manifests as grayish-white lesions resembling fungal infections...
 > -- *[[ColumnarisDiseaseOfFishes_21236]]*
 
+> Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
+> -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
+
 ## Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
 - [[ArizonaNevadaCooperativeFisher_1961]]
@@ -37,3 +40,4 @@ The Bureau of Sport Fisheries and Wildlife was a federal agency responsible for 
 - [[ReviewOfGreenRiverFishEradicat_1963_03_25]]
 - [[SurveyOfTroutHepatoma_11519]]
 - [[ColumnarisDiseaseOfFishes_21236]]
+- [[MinutesOfTheMeetingOfTheTechni_20887]]

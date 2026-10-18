@@ -35,6 +35,12 @@ Lee's Ferry is a cold-water tailwater reach of the Colorado River located immedi
 > This memorandum from the [[Fish and Wildlife Service]] documents the November 8, 1989 briefing regarding the October 24, 1989 [[Executive Review Committee]] (ERC) meeting for [[Glen Canyon Environmental Studies]] (GCES). The document addresses ongoing environmental studies related to [[Glen Canyon...
 > -- *[[NotesOfTheBriefingHeldNovember_11848]]*
 
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -52,3 +58,5 @@ Lee's Ferry is a cold-water tailwater reach of the Colorado River located immedi
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
 - [[InterimFlowsForGrandCanyonReco_18454]]
 - [[NotesOfTheBriefingHeldNovember_11848]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[TailwaterFisheryInvestigationC_14594]]

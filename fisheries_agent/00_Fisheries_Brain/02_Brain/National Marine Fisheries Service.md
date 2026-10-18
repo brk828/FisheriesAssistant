@@ -38,6 +38,9 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This document contains two Federal Register notices from June 1997. The primary notice proposes codification of the [[Endangered Species Act]] "No Surprises" policy, which provides regulatory assurances to holders of incidental take permits under [[Habitat Conservation Plans]] (HCPs). The policy...
 > -- *[[InteriorPublishesProposedNoSup_14551]]*
 
+> This 1971 NOAA technical report by [[Robert C. May]] compiles an annotated bibliography of scientific papers describing attempts to rear marine fish larvae in laboratory settings from 1878 through 1969. The work was prepared to support researchers at the [[Bureau of Commercial Fisheries]] (later...
+> -- *[[AnAnnotatedBibliographyOfAttem_15220]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -59,3 +62,4 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[SpecialStatusSpeciesManagement_11467]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[InteriorPublishesProposedNoSup_14551]]
+- [[AnAnnotatedBibliographyOfAttem_15220]]

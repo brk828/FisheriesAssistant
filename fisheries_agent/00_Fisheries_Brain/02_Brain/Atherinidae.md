@@ -26,6 +26,9 @@ Atherinidae is a family of small, primarily euryhaline fishes commonly known as 
 > This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
 > -- *[[DraftliteratureReviewOfTheStri_15768]]*
 
+> This 1971 NOAA technical report by [[Robert C. May]] compiles an annotated bibliography of scientific papers describing attempts to rear marine fish larvae in laboratory settings from 1878 through 1969. The work was prepared to support researchers at the [[Bureau of Commercial Fisheries]] (later...
+> -- *[[AnAnnotatedBibliographyOfAttem_15220]]*
+
 ## Mentioned In
 - [[AnEnzymeMethodOfClearingAndSta_1967]]
 - [[Anomalies Encountered in Freshwater and Marine Fishes from the Eastern United States]]
@@ -34,3 +37,4 @@ Atherinidae is a family of small, primarily euryhaline fishes commonly known as 
 - [[RioBravoFishDistribution_Unknown]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[DraftliteratureReviewOfTheStri_15768]]
+- [[AnAnnotatedBibliographyOfAttem_15220]]

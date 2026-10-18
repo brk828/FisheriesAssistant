@@ -17,7 +17,11 @@ The Red-Bellied Dace is a small cyprinid fish species found in North American fr
 > - **Habitat:** Standard Lake, 32.5 acres total, max depth 31 ft, divided into a north basin (16.5 acres) and south basin (16.0 acres) connected by a shallow (~1 ft), ~200 ft-wide channel permitting free fish passage - **Community composition (south basin, pre-treatment census, Table 1):** - [[Yel...
 > -- *[[IncreasedGrowthRateOfRockBassA_15683]]*
 
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
 ## Mentioned In
 - [[BreedingBiologyOfTheLakeChubCo_1970]]
 - [[FishDistributionAndAbundanceCo_1942]]
 - [[IncreasedGrowthRateOfRockBassA_15683]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]

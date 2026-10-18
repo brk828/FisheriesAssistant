@@ -35,6 +35,9 @@ Bright Angel Creek is a significant tributary of the Colorado River within Grand
 > This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
 > -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
 
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
@@ -49,3 +52,4 @@ Bright Angel Creek is a significant tributary of the Colorado River within Grand
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[CharacterizationOfTheLifeHisto_13649]]
 - [[HabitatUseByHumpbackChubGilaCy_11090]]
+- [[TailwaterFisheryInvestigationC_14594]]

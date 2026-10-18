@@ -116,6 +116,24 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
 > -- *[[SummaryStatementOfInsightsFrom_20854]]*
 
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
+> On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
+> -- *[[LoachMinnow_19034]]*
+
+> Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
+> -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -267,3 +285,9 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[GeneticIssuesInTheConservation_20219]]
 - [[ALiteratureReviewOfTheEffectsO_20478]]
 - [[SummaryStatementOfInsightsFrom_20854]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[TailwaterFisheryInvestigationC_14594]]
+- [[NativeRockyMountainTroutAndSto_17773]]
+- [[LoachMinnow_19034]]
+- [[MinutesOfTheMeetingOfTheTechni_20887]]

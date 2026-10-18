@@ -20,8 +20,12 @@ The East Verde River is an aquatic habitat in Arizona where multiple sampling si
 > This study plan outlines an Advanced Identification (ADID) process for the [[Verde River]], Arizona, conducted by the U.S. Fish and Wildlife Service Phoenix Field Office in August 1991. The ADID aims to protect the Verde River aquatic ecosystem by evaluating approximately 125 river miles from...
 > -- *[[AdvancedIdentificationOfFuncti_11587]]*
 
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[ACaseOfMistakenIdentityGenetic_2021]]
 - [[VerdeRiverAdvancedIdentificati_11367]]
 - [[AdvancedIdentificationOfFuncti_11587]]
+- [[ArizonaComparativeRiskProjectE_15833]]

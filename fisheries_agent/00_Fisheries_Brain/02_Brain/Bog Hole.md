@@ -14,8 +14,12 @@ A bog hole is a small, isolated water body or pool, typically found in desert or
 > This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
 > -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
 
+> This correspondence from the [[U.S. Forest Service]] [[Coronado National Forest]] summarizes a March 1989 work session regarding management of the [[Bog Hole]] in the [[San Rafael Valley]], Arizona. The meeting brought together representatives from [[Arizona Game and Fish Department]], [[U.S. Fish...
+> -- *[[BogHoleProjectMeetingSummary_12749]]*
+
 ## Mentioned In
 - [[InvitationToBogHoleHabitatImpr_1989_02_03]]
 - [[ProposalToRenovateFinleyTankNa_1988_12_20]]
 - [[SuggestedAgendaItemsForDesertF_1988_12_06]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
+- [[BogHoleProjectMeetingSummary_12749]]

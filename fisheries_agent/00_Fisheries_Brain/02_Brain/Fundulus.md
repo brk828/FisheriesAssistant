@@ -20,6 +20,12 @@ Fundulus is a genus of small topminnows in the family Cyprinodontidae that are w
 > This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
 > -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
 
+> This 1960 research paper by William N. McFarland from the [[Institute of Marine Science]], [[University of Texas]], Port Aransas, provides comprehensive experimental evidence for the use of chemical anesthetics in fisheries operations. The study demonstrates that properly induced anesthesia...
+> -- *[[TheUseOfAnestheticsForTheHandl_12317]]*
+
+> This 1971 academic paper by John N. Rinne examines the [[Pleistocene Epoch]] from multiple perspectives: climatic causes, chronological methods, hydrological conditions, and faunal evidence. The document emphasizes that the Pleistocene was characterized by dramatic climatic oscillations, extensive...
+> -- *[[ThePleistoceneItsClimateCauses_14987]]*
+
 ## Mentioned In
 - [[ArtificialHybridizationOfCreni_14299]]
 - [[ElectronMicroscopicInvestigati_1964_06_11]]
@@ -27,3 +33,5 @@ Fundulus is a genus of small topminnows in the family Cyprinodontidae that are w
 - [[TheDistributionOfTheOviparousK_16815]]
 - [[TheUseOfHybridizationInTheDete_14223]]
 - [[ALiteratureReviewOfTheEffectsO_20478]]
+- [[TheUseOfAnestheticsForTheHandl_12317]]
+- [[ThePleistoceneItsClimateCauses_14987]]

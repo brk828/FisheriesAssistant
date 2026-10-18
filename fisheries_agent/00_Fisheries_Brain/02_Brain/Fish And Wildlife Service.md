@@ -80,6 +80,12 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
 > -- *[[BureauOfReclamationsFailureToR_18964]]*
 
+> This 1977 legal memorandum from the U.S. Department of the Interior Office of the Solicitor reverses an earlier opinion regarding whether hybrid offspring of endangered or threatened species are protected under the [[Endangered Species Act]] of 1973. After receiving biological information...
+> -- *[[WhetherHybridsAreCoveredByTheE_15615]]*
+
+> This memorandum and preliminary draft management plan, dated August 11, 1998, addresses implementation of Reasonable and Prudent Alternative (RPA) 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The RPA requires establishment of...
+> -- *[[PreliminaryDraftManagementPlan_16433]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -121,3 +127,5 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[WhetherHybridsAreCoveredByTheE_12686]]
 - [[WildlifeStudiesDenverWildlifeR_14329]]
 - [[BureauOfReclamationsFailureToR_18964]]
+- [[WhetherHybridsAreCoveredByTheE_15615]]
+- [[PreliminaryDraftManagementPlan_16433]]

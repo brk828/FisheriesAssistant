@@ -14,6 +14,10 @@ Santa Cruz County is a county in southern Arizona that is part of the native ran
 > This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
 > -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
 
+> This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
+> -- *[[GilaTopminnowsantaCruzRiver_20207]]*
+
 ## Mentioned In
 - [[FactorsAffectingTheSuccessOfGi_12971]]
 - [[FishesOfTheSonoitaCreekDrainag_18558]]
+- [[GilaTopminnowsantaCruzRiver_20207]]

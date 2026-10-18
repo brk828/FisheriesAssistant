@@ -23,7 +23,11 @@ auto_enriched: true
 > This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
 > -- *[[PlanningEffortNearItsConclusio_11515]]*
 
+> This document is a formal petition submitted to the [[Arizona Game and Fish Commission]] in 1994 by M. Brent Peugnet and the [[Arizona Herpetological Association]] (AHA, 222 members, 147 Arizona residents) requesting establishment of a new rule permitting commercial captive propagation of specific...
+> -- *[[DraftAndRevisedVersionsOfPetit_11208]]*
+
 ## Mentioned In
 - [[PetitionForNewRuleOnCaptivePro_1994_07_08]]
 - [[SeriesOfInterofficeMemosJulyAr_17328]]
 - [[PlanningEffortNearItsConclusio_11515]]
+- [[DraftAndRevisedVersionsOfPetit_11208]]

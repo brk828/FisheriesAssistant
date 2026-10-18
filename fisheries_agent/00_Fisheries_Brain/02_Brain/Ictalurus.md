@@ -17,9 +17,17 @@ auto_enriched: true
 > This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
 > -- *[[CompositionAndDerivationOfTheF_15375]]*
 
+> This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
+> -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[FactorsInfluencingLocalDistrib_17059]]
 - [[NestsEggsAndLarvaeOfTheElegant_1981]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[CompositionAndDerivationOfTheF_15375]]
+- [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[SelectionsFromUniversityOfMich_18288]]

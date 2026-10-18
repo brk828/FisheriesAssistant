@@ -14,7 +14,11 @@ Lake Lahontan was a large Pleistocene pluvial lake system in the Great Basin tha
 > - **Management implications:** - Despite lack of statistical significance, the presence of unique alleles in the 1950 cohort justifies prioritizing this age class (and older fish, if available) for hatchery spawning at the [[Koch Cui-ui Hatchery]]. - Recommend spawning **all age classes in equal ...
 > -- *[[HeterozygosityLevelsOfAgeClass_12950]]*
 
+> This 1971 academic paper by John N. Rinne examines the [[Pleistocene Epoch]] from multiple perspectives: climatic causes, chronological methods, hydrological conditions, and faunal evidence. The document emphasizes that the Pleistocene was characterized by dramatic climatic oscillations, extensive...
+> -- *[[ThePleistoceneItsClimateCauses_14987]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[HeterozygosityLevelsOfAgeClass_12950]]
 - [[ThePlioceneGlennsFerryOoliteLa_1980_03_14]]
+- [[ThePleistoceneItsClimateCauses_14987]]

@@ -32,6 +32,9 @@ Salt Creek is an isolated, spring-fed desert stream in Riverside County, Califor
 > This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
 > -- *[[StatusReportForNaturalAndIntro_12972]]*
 
+> This document appears to be fragmentary correspondence or meeting notes from the [[Desert Fishes Council]] dated January 22, 1984. The material discusses conservation concerns related to desert fish populations, including stocking proposals and habitat management issues in [[San Felipe Creek]] and...
+> -- *[[MemorandumLowerBasinSubcommitt_11426]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[CAFGAnnualPermitReport_1992-12-15]]
@@ -47,3 +50,4 @@ Salt Creek is an isolated, spring-fed desert stream in Riverside County, Califor
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[ConservationGeneticsInTheManag_20087]]
 - [[StatusReportForNaturalAndIntro_12972]]
+- [[MemorandumLowerBasinSubcommitt_11426]]

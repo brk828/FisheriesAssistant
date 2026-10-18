@@ -41,6 +41,9 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 > This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
 > -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
@@ -78,3 +81,4 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 - [[FieldNotesOfTripToSanBernardin_13172]]
 - [[FishMonitoringOfPalmLakeHassay_16635]]
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

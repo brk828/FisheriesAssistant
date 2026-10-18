@@ -26,6 +26,12 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
+> This 1951 report documents the introduction program of [[Kokanee]] salmon (*Oncorhynchus nerka kennerlyi*), a landlocked form of red salmon, into [[Lake Tahoe]] to restore game fish populations following the decline of native [[Cutthroat Trout]]. The program, conducted jointly by California and...
+> -- *[[TheIntroductionOfKokaneeRedSal_18826]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -35,3 +41,5 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[PotentialFishHabitatBenefitsIn_18308]]
 - [[StationProfileOfTheLeavenworth_1993]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[TailwaterFisheryInvestigationC_14594]]
+- [[TheIntroductionOfKokaneeRedSal_18826]]

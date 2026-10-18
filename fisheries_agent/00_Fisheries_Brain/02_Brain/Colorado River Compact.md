@@ -20,6 +20,9 @@ The Colorado River Compact is the 1922 interstate water allocation agreement tha
 > This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
 > -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
 
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
 ## Mentioned In
 - [[HydrologicScenariosForSevereSu_13465]]
 - [[MitigatingImpactsOfASevereSust_20513]]
@@ -27,3 +30,4 @@ The Colorado River Compact is the 1922 interstate water allocation agreement tha
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[AgencyRecalcitranceAndEvasionR_20349]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]

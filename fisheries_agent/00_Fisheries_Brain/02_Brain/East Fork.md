@@ -20,8 +20,12 @@ The East Fork is a tributary of the Gila River in New Mexico that historically s
 > This report documents biological characteristics of [[Pink Salmon]] (*Oncorhynchus gorbuscha*) spawning populations in [[Olsen Creek]], [[Prince William Sound]], Alaska during 1962-63. [[Prince William Sound]] is unique among major pink salmon-producing areas in that a significant portion (35-77%)...
 > -- *[[BiologicalCharacteristicsOfInt_16617]]*
 
+> This annual progress report documents chinook salmon spawning ground surveys conducted in the [[Salmon River]] drainage, Idaho, from August 1, 1966 to September 30, 1966 (reported in 1967-1968). The survey recorded 7,546 chinook salmon redds across the drainage, representing a 4.6% increase from...
+> -- *[[SalmonSpawningGroundSurveysSal_17594]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[StatewideFishingHarvestSurvey_17659]]
 - [[SalmonAndSteelheadInvestigatio_12147]]
 - [[BiologicalCharacteristicsOfInt_16617]]
+- [[SalmonSpawningGroundSurveysSal_17594]]

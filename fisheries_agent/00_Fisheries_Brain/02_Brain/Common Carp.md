@@ -83,6 +83,24 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 > In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
 > -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
 
+> This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
+> -- *[[AStudyToDetermineTheBiological_11576]]*
+
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This Federal Aid completion report documents a 14-year experimental program (1957-1971) introducing marine fish species from the [[Gulf of Mexico]] into the saline waters of the [[Pecos River System]] in western Texas. The program was initiated because high salinity levels (800-7,000 ppm chlorides)...
+> -- *[[MarineIntroductionsTexas_13536]]*
+
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
+> This 1973 study evaluated two experimental fish diets combining roasted soybeans with fresh [[Gizzard Shad]] (Dorosoma cepedianum) as alternatives to commercial [[Oregon Pellets]] for feeding yearling [[Channel Catfish]] (Ictalurus punctatus). Both experimental formulations—one with 50% roasted...
+> -- *[[APreliminaryEvaluationOfAFishD_20313]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -246,3 +264,9 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 - [[HabitatUseByHumpbackChubGilaCy_11090]]
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[ProjectVelaUniformLakeMeadTest_20812]]
+- [[AStudyToDetermineTheBiological_11576]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[MarineIntroductionsTexas_13536]]
+- [[ArizonaComparativeRiskProjectE_15833]]
+- [[SelectionsFromUniversityOfMich_18288]]
+- [[APreliminaryEvaluationOfAFishD_20313]]

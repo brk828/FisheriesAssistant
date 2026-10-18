@@ -17,6 +17,9 @@ Cyprinodon nevadensis, commonly known as the Nevada pupfish, is a small, endemic
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
+> -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[DesertPupfishCyprinodonMacular_1977]]
@@ -25,3 +28,4 @@ Cyprinodon nevadensis, commonly known as the Nevada pupfish, is a small, endemic
 - [[HotSpringsAndFishLife_15318]]
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[TwoLettersConcerningStudyOfSpe_13691]]

@@ -77,6 +77,24 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > On April 10, 1990, the U.S. Fish and Wildlife Service issued a draft jeopardy biological opinion regarding the [[Animas-La Plata]] irrigation project in southwest Colorado and northeast New Mexico. The opinion concludes that construction of the project would likely jeopardize the continued...
 > -- *[[FishAndWildlifeServiceIssuesDr_20983]]*
 
+> This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
+> -- *[[AStudyToDetermineTheBiological_11576]]*
+
+> This draft Long Range Plan (October 3, 1991) outlines the comprehensive recovery strategy for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[DraftLongRangePlan_11590]]*
+
+> This document presents the Fiscal Year 1992 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on August 15, 1991, the plan allocates $2,988,900 across five recovery...
+> -- *[[FiscalYearWorkPlan_11594]]*
+
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
+> This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
+> -- *[[CompletionReportYampawhitePhys_18677]]*
+
+> This document presents a restoration plan for the federally endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Upper Colorado River Basin]]. Once abundant throughout the [[Colorado River Basin]], the species has been virtually extirpated from riverine habitats in the lower basin due to...
+> -- *[[RestorationPlanForRazorbackSuc_20599]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -145,3 +163,9 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[ManagementGroupMeetingSummary_19219]]
 - [[BonytailReintroductionPlanForT_20248]]
 - [[FishAndWildlifeServiceIssuesDr_20983]]
+- [[AStudyToDetermineTheBiological_11576]]
+- [[DraftLongRangePlan_11590]]
+- [[FiscalYearWorkPlan_11594]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[CompletionReportYampawhitePhys_18677]]
+- [[RestorationPlanForRazorbackSuc_20599]]

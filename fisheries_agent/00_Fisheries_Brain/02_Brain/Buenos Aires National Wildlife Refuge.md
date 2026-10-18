@@ -35,6 +35,12 @@ Buenos Aires National Wildlife Refuge is a U.S. Fish and Wildlife Service facili
 > This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
 > -- *[[MasterPlanForBuenosAiresWildli_13323]]*
 
+> This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
+> -- *[[BuildingSuccessfulPartnerships_13226]]*
+
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[LetterToDougMcqueenSupportingN_1986_06_27]]
@@ -55,3 +61,5 @@ Buenos Aires National Wildlife Refuge is a U.S. Fish and Wildlife Service facili
 - [[SummaryOfRazorbackSuckerCollec_19428]]
 - [[PlanningEffortNearItsConclusio_11515]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
+- [[BuildingSuccessfulPartnerships_13226]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

@@ -32,6 +32,9 @@ Poeciliopsis occidentalis occidentalis, commonly known as the Gila Topminnow, is
 > This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
 > -- *[[ReportToTheDesertFishesCouncil_13683]]*
 
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -42,3 +45,4 @@ Poeciliopsis occidentalis occidentalis, commonly known as the Gila Topminnow, is
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[MhcVariationAndParasiteResista_12519]]
 - [[ReportToTheDesertFishesCouncil_13683]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]

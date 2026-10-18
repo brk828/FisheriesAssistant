@@ -14,6 +14,10 @@ auto_enriched: true
 > This 1966 administrative report by the California Department of Fish and Game examines artificial destratification of lakes using compressed air as a fisheries management technique. The study focuses on two California reservoirs: [[Lake Wohlford]] (Escondido) and [[El Capitan Reservoir]] (San Diego...
 > -- *[[ArtificialDestratificationOfLa_16316]]*
 
+> This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
+> -- *[[FisheriesManagementOfElCapitan_16317]]*
+
 ## Mentioned In
 - [[TheIntroductionGrowthDietAndDe_15290]]
 - [[ArtificialDestratificationOfLa_16316]]
+- [[FisheriesManagementOfElCapitan_16317]]

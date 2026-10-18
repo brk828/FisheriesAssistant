@@ -62,6 +62,21 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 > This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
 > -- *[[GeneticDifferentiationAmongSub_18497]]*
 
+> This 1960 research paper by William N. McFarland from the [[Institute of Marine Science]], [[University of Texas]], Port Aransas, provides comprehensive experimental evidence for the use of chemical anesthetics in fisheries operations. The study demonstrates that properly induced anesthesia...
+> -- *[[TheUseOfAnestheticsForTheHandl_12317]]*
+
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
+> This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
+> -- *[[FishesAndAquaticResourcesDeath_15415]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -110,3 +125,8 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
 - [[GeneticDifferentiationAmongSub_18497]]
+- [[TheUseOfAnestheticsForTheHandl_12317]]
+- [[ProgressReportOfTheCultureOfTi_14692]]
+- [[SkyIslandAquaticResourcesHabit_15003]]
+- [[FishesAndAquaticResourcesDeath_15415]]
+- [[SelectionsFromUniversityOfMich_18288]]

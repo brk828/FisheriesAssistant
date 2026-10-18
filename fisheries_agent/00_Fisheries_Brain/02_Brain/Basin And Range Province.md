@@ -29,6 +29,9 @@ The Basin and Range Province is a physiographic and tectonic region characterize
 > This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
 > -- *[[DraftecologicalDeterminismHybr_12773]]*
 
+> This 1971 academic paper by John N. Rinne examines the [[Pleistocene Epoch]] from multiple perspectives: climatic causes, chronological methods, hydrological conditions, and faunal evidence. The document emphasizes that the Pleistocene was characterized by dramatic climatic oscillations, extensive...
+> -- *[[ThePleistoceneItsClimateCauses_14987]]*
+
 ## Mentioned In
 - [[CorrelationOfSomePostLaramideT_11365]]
 - [[DispersionOfNaturallyOccurring_1970]]
@@ -37,3 +40,4 @@ The Basin and Range Province is a physiographic and tectonic region characterize
 - [[MiseEnÉvidenceDUnGraniteSubvol_1981_12_14]]
 - [[ProposedConstructionOfADamOnTh_13721]]
 - [[DraftecologicalDeterminismHybr_12773]]
+- [[ThePleistoceneItsClimateCauses_14987]]

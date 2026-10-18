@@ -23,7 +23,11 @@ Lake Kemp is a highly saline inland reservoir in North Central Texas that served
 > **Species and rationale:** - **Redfish** and **Speckled Weakfish**: Captured live from Gulf of Mexico waters along the Texas Coast (notably near Rockport) and transported to the highly saline waters of [[Lake Kemp]] and the upper [[Big Wichita River]], including the tributary [[Salt Creek]]. The ...
 > -- *[[ExperimentalIntroductionOfFish_1958]]*
 
+> This Federal Aid completion report documents a 14-year experimental program (1957-1971) introducing marine fish species from the [[Gulf of Mexico]] into the saline waters of the [[Pecos River System]] in western Texas. The program was initiated because high salinity levels (800-7,000 ppm chlorides)...
+> -- *[[MarineIntroductionsTexas_13536]]*
+
 ## Mentioned In
 - [[ExperimentalIntroductionOfFish_1955]]
 - [[ExperimentalIntroductionOfFish_1957]]
 - [[ExperimentalIntroductionOfFish_1958]]
+- [[MarineIntroductionsTexas_13536]]

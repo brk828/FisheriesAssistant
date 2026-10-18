@@ -35,6 +35,9 @@ Rock bass (Ambloplites rupestris) is a small to medium-sized centrarchid (sunfis
 > This 1957 technical report documents a comprehensive survey of bass tapeworm ([[Proteocephalus ambloplitis]]) infections across 124 lakes and ponds in southern [[New Hampshire]]. Conducted during 1955-1956 under the Dingell-Johnson Project F-8-R, the study examined 1,960 fish representing 12...
 > -- *[[TheIncidenceAndDistributionOfT_15429]]*
 
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -57,3 +60,4 @@ Rock bass (Ambloplites rupestris) is a small to medium-sized centrarchid (sunfis
 - [[WhatHaveICaught_12929]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
 - [[TheIncidenceAndDistributionOfT_15429]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]

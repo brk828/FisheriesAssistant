@@ -14,7 +14,11 @@ auto_enriched: true
 > This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
 > -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
 
+> This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
+> -- *[[AStudyToDetermineTheBiological_11576]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[AStudyToDetermineTheBiological_11576]]

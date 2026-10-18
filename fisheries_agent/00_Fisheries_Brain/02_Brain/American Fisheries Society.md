@@ -47,6 +47,15 @@ The American Fisheries Society is a professional scientific organization dedicat
 > This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
 > -- *[[SummaryStatementOfInsightsFrom_20854]]*
 
+> This correspondence from the [[U.S. Forest Service]] [[Coronado National Forest]] summarizes a March 1989 work session regarding management of the [[Bog Hole]] in the [[San Rafael Valley]], Arizona. The meeting brought together representatives from [[Arizona Game and Fish Department]], [[U.S. Fish...
+> -- *[[BogHoleProjectMeetingSummary_12749]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
+> -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[AmericanFisheriesSocietyProtoc_12011]]
@@ -80,3 +89,6 @@ The American Fisheries Society is a professional scientific organization dedicat
 - [[DraftConservationStrategyVirgi_11659]]
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[SummaryStatementOfInsightsFrom_20854]]
+- [[BogHoleProjectMeetingSummary_12749]]
+- [[PresenceOfAlienPupfishMayJeopa_13727]]
+- [[FishIntroductionsGoodManagemen_17630]]

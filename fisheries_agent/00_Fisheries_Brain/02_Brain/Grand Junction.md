@@ -32,6 +32,9 @@ Grand Junction is a geographic sampling location on the Colorado River mainstem 
 > This document is a formal request from Arizona State University's Department of Zoology to the U.S. Fish and Wildlife Service for tissue samples and gametes of [[Razorback Sucker]] (*Xyrauchen texanus*) from two facilities: [[Dexter National Fish Hatchery]] (DNFH) and [[Ouray Endangered Fish...
 > -- *[[RequestForTissuesAndGametesOfR_13796]]*
 
+> This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
+> -- *[[AStudyToDetermineTheBiological_11576]]*
+
 ## Mentioned In
 - [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
 - [[AnnualReportOnRazorbackSuckerM_1992_11_24]]
@@ -40,3 +43,4 @@ Grand Junction is a geographic sampling location on the Colorado River mainstem 
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[TheRazorbackSuckerXyrauchenTex_15245]]
 - [[RequestForTissuesAndGametesOfR_13796]]
+- [[AStudyToDetermineTheBiological_11576]]

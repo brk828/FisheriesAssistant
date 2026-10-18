@@ -29,6 +29,12 @@ Bullhead refers to a group of catfish species (genus Ictalurus, particularly bla
 > This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
 > -- *[[RoughFishControl_20167]]*
 
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -42,3 +48,5 @@ Bullhead refers to a group of catfish species (genus Ictalurus, particularly bla
 - [[UnexploitedPotentialsOfOurFres_1958]]
 - [[WhatHaveICaught_12929]]
 - [[RoughFishControl_20167]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[FishingEffortAndHarvestByArizo_15066]]

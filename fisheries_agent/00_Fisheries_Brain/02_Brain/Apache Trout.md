@@ -53,6 +53,12 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 > This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
 > -- *[[AuthorizationToUseTheRegionalD_15706]]*
 
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[AnAnalysisOfFHybridsBetweenApa_1984_09_24]]
 - [[AnalysisOfApacheTroutPopulatio_15424]]
@@ -119,3 +125,5 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
 - [[ReviewOfProjectFair_21120]]
 - [[AuthorizationToUseTheRegionalD_15706]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[ArizonaComparativeRiskProjectE_15833]]

@@ -35,6 +35,9 @@ Black Canyon refers to the riverine reach of the Colorado River immediately belo
 > This three-year study (2008-2011) examined demographics and post-stocking survival of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir. The wild population has declined to fewer than 50 individuals, making the repatriation program...
 > -- *[[DemographicsAndPoststockingSur_2012]]*
 
+> This master's thesis documents a 17-month telemetry study (November 1994–August 1996) tracking movements of 20 adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a 108-km regulatory reservoir on the [[Colorado River]]. Ten individuals (4 males, 6 females) survived the study...
+> -- *[[MovementsOfAdultRazorbackSucke_12585]]*
+
 ## Mentioned In
 - [[EndangeredPupfishOfDevilsHoleG_11403]]
 - [[GilaTroutAndChihuahuaChubRecov_1997_01_16]]
@@ -46,3 +49,4 @@ Black Canyon refers to the riverine reach of the Colorado River immediately belo
 - [[BiologicalAssessmentProbableEf_11481]]
 - [[BiologicalAssessmentOnThreaten_19806]]
 - [[DemographicsAndPoststockingSur_2012]]
+- [[MovementsOfAdultRazorbackSucke_12585]]

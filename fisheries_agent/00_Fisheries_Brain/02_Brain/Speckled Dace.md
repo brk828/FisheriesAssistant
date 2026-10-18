@@ -83,6 +83,15 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
 > -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
 
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
+> -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
+
+> This report presents the third year of monitoring the endangered [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona, during May 1989. Research teams established two camps and deployed up to 26 nets over 30 days, sampling from the confluence with the [[Colorado...
+> -- *[[FinalReportOnResearchConducted_18507]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -216,3 +225,6 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[SummaryReportOnResearchConduct_18505]]
 - [[FishesOfTheSonoitaCreekDrainag_18558]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[HabitatStudyOfRoundtailChubGil_18268]]
+- [[FinalReportOnResearchConducted_18507]]

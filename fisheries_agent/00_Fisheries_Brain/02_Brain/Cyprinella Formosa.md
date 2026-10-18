@@ -17,7 +17,15 @@ Cyprinella formosa, commonly known as the beautiful shiner, is a cyprinid fish s
 > - **[[Cyprinella Formosa]]** (beautiful shiner): - Type locality: Rio Mimbres, originally attributed to Chihuahua, later corrected to Mimbres River, Luna County, New Mexico (Gilbert 1978). - New Mexico range: Endemic to the [[Mimbres River]] system; now extirpated. - Broader range (extant): Mexic...
 > -- *[[NotropisSimusSimusCopeRioGrand_1990]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
+> This document comprises museum correspondence and specimen records from May 1995 regarding holdings of [[Cyprinella formosa]] (Beautiful Shiner) from the [[Mimbres River]] in [[New Mexico]]. The records document specimens held at the Museum of Southwestern Biology (MSB) and the University of...
+> -- *[[CyprinellaFormosaMimbresRiverE_21256]]*
+
 ## Mentioned In
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
 - [[LetterToDrWLMinckleyRegardingD_1990_11_05]]
 - [[NotropisSimusSimusCopeRioGrand_1990]]
+- [[SkyIslandAquaticResourcesHabit_15003]]
+- [[CyprinellaFormosaMimbresRiverE_21256]]

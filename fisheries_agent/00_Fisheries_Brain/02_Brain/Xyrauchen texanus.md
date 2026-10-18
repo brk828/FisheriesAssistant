@@ -53,6 +53,9 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
 > -- *[[LiteratureReviewAndImpactRepor_14988]]*
 
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -105,3 +108,4 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[LiteratureReviewAndImpactRepor_14988]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]

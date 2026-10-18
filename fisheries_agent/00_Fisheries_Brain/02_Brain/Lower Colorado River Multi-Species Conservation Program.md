@@ -47,6 +47,9 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 > This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
 > -- *[[CommentsOnTheBiologicalOpinion_17166]]*
 
+> This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
+> -- *[[AmericanRiversScientificAndTec_15167]]*
+
 ## Mentioned In
 - [[BonytailReceivedCaughtInLakeMo_15286]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -69,3 +72,4 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 - [[WrittenCommentsOnDraftBiologic_20522]]
 - [[CommentsOnBiologicalAndConfere_11800]]
 - [[CommentsOnTheBiologicalOpinion_17166]]
+- [[AmericanRiversScientificAndTec_15167]]

@@ -26,6 +26,12 @@ The Sacramento-San Joaquin Delta is a complex estuarine system in northern Calif
 > This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
 > -- *[[MovementsOfInlandAnglersWithin_11325]]*
 
+> This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
+> -- *[[PublicationsOfPeterBMoyle_15442]]*
+
+> This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
+> -- *[[TheDesirabilityOfIntroducingWh_16080]]*
+
 ## Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[DeterminationOfSexualMaturityI_1965]]
@@ -40,3 +46,5 @@ The Sacramento-San Joaquin Delta is a complex estuarine system in northern Calif
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[MigrationsOfStripedBassOccurri_18606]]
 - [[MovementsOfInlandAnglersWithin_11325]]
+- [[PublicationsOfPeterBMoyle_15442]]
+- [[TheDesirabilityOfIntroducingWh_16080]]

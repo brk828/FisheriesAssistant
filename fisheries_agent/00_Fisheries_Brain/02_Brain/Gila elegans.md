@@ -53,6 +53,12 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This study applies multivariate discriminant analysis to meristic and morphometric data to resolve long-standing confusion in identifying three endangered [[Gila]] species from the [[Colorado Plateau]]: [[Gila robusta]] (roundtail chub), [[Gila cypha]] (humpback chub), and [[Gila elegans]]...
 > -- *[[MultivariateDiscriminationOfCo_19077]]*
 
+> This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
+> -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
+
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
 ## Mentioned In
 - [[BonytailUpdate_16371]]
 - [[CageCulturingTheEndangeredBony_1999]]
@@ -94,3 +100,5 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[GeneticVariationAmongLowerColo_12776]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[MultivariateDiscriminationOfCo_19077]]
+- [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]

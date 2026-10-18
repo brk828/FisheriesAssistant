@@ -65,6 +65,15 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 > This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
 > -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
 
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
+> This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
+> -- *[[FisheriesManagementOfElCapitan_16317]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -133,3 +142,6 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 - [[PrelimaryObservationsOnTheToxi_14434]]
 - [[InvestigationsOfCommercialFish_18562]]
 - [[ALiteratureReviewOfTheEffectsO_20478]]
+- [[FishingEffortAndHarvestByArizo_15066]]
+- [[FisheriesManagementOfElCapitan_16317]]
+- [[FishIntroductionsGoodManagemen_17630]]

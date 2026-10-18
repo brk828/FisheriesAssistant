@@ -11,5 +11,9 @@ Mississippi Silverside (Menidia audens) is a small surface-dwelling fish from th
 > This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
 > -- *[[ReviewOfPotentialForageFishInt_19139]]*
 
+> This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
+> -- *[[PublicationsOfPeterBMoyle_15442]]*
+
 ## Mentioned In
 - [[ReviewOfPotentialForageFishInt_19139]]
+- [[PublicationsOfPeterBMoyle_15442]]

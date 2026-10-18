@@ -32,6 +32,9 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 > This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
 > -- *[[LiteratureReviewAndImpactRepor_14988]]*
 
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
 ## Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[ComparativeEcologyOfNotropisAl_14679]]
@@ -49,3 +52,4 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[LiteratureReviewAndImpactRepor_14988]]
+- [[ProgressReportOfTheCultureOfTi_14692]]

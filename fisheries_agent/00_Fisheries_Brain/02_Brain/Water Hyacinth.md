@@ -23,8 +23,12 @@ Water hyacinth (*Eichhornia crassipes*) is a prolific floating aquatic macrophyt
 > - **Habitat matrix:** Fifteen experimental ponds partitioned into five triplicate treatment groups: 1. Unfertilized, no hyacinth (control) 2. Unfertilized, with hyacinth 3. 0-8-0 (NPK) fertilized, no hyacinth 4. 8-8-0 (NPK) fertilized, no hyacinth 5. 8-8-0 (NPK) fertilized, with hyacinth - Hyacin...
 > -- *[[EffectsOfWaterHyacinthsOnFishP_1969]]*
 
+> This 1965 Master's thesis by Jerry Brashier examined age and growth of [[Largemouth Bass]] (*Micropterus salmoides*) in two Louisiana oxbow lakes: [[False River]] and [[Old River]], located 15 miles apart in [[Pointe Coupee Parish]]. Collections occurred March–November 1964 using electric shockers...
+> -- *[[AStudyOfTheAgeAndGrowthOfLarge_12917]]*
+
 ## Mentioned In
 - [[EffectOfWaterHyacinthsAndFerti_14413]]
 - [[EffectsOfWaterHyacinthsOnFishP_1969]]
 - [[SeasonalChangesInTheProximateC_17760]]
 - [[TheGrassCarp_11260]]
+- [[AStudyOfTheAgeAndGrowthOfLarge_12917]]

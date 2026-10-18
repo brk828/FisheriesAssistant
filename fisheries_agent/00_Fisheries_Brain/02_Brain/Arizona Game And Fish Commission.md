@@ -29,6 +29,9 @@ The Arizona Game and Fish Commission is the state regulatory agency responsible 
 > The [[Arizona Department of Water Resources]] contracted [[Earth Technology Corporation]] in 1984 to reassess the feasibility of constructing a permanent-pool recreational lake on [[Leslie Creek]] in [[Cochise County]], Arizona. The original 1960s-1970s feasibility studies estimated average annual...
 > -- *[[FeasibilityStudyOfLeslieCanyon_15717]]*
 
+> This document is a formal petition submitted to the [[Arizona Game and Fish Commission]] in 1994 by M. Brent Peugnet and the [[Arizona Herpetological Association]] (AHA, 222 members, 147 Arizona residents) requesting establishment of a new rule permitting commercial captive propagation of specific...
+> -- *[[DraftAndRevisedVersionsOfPetit_11208]]*
+
 ## Mentioned In
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
 - [[CaliforniaReptileInvestigation_1994_09_27]]
@@ -40,3 +43,4 @@ The Arizona Game and Fish Commission is the state regulatory agency responsible 
 - [[NongameWildlifeAndFisheriesInv_13701]]
 - [[HumpbackChubEggCollectionInGra_13013]]
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
+- [[DraftAndRevisedVersionsOfPetit_11208]]

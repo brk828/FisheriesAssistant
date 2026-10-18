@@ -29,6 +29,9 @@ Steelhead are the anadromous (sea-run) life-history form of *Oncorhynchus mykiss
 > This 1932-1933 study documented the fall migration of [[Steelhead]] (*Oncorhynchus mykiss*) from the [[Klamath River]] into [[Shasta River]], California. Using a counting rack with observation gates, researchers enumerated 8,525 steelhead between September 19 and December 10, 1932. The migration...
 > -- *[[ASteelheadMigrationInShastaRiv_21255]]*
 
+> This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
+> -- *[[PublicationsOfPeterBMoyle_15442]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[StationProfileOfTheH_19552]]
@@ -38,3 +41,4 @@ Steelhead are the anadromous (sea-run) life-history form of *Oncorhynchus mykiss
 - [[WaterRequirementsOfSalmonids_12413]]
 - [[AConservationorientedClassific_15455]]
 - [[ASteelheadMigrationInShastaRiv_21255]]
+- [[PublicationsOfPeterBMoyle_15442]]

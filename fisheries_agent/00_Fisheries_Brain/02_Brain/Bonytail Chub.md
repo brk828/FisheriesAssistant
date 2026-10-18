@@ -167,6 +167,24 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 > This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
 > -- *[[BonytailReintroductionPlanForT_20248]]*
 
+> This draft Long Range Plan (October 3, 1991) outlines the comprehensive recovery strategy for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[DraftLongRangePlan_11590]]*
+
+> This document presents the Fiscal Year 1992 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on August 15, 1991, the plan allocates $2,988,900 across five recovery...
+> -- *[[FiscalYearWorkPlan_11594]]*
+
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
+> This memorandum documents a significant mortality event involving endangered [[Bonytail Chub]] (*Gila elegans*) collected from [[Lake Mohave]] in May 1993. Of 15 fish captured and transported to [[Dexter National Fish Hatchery]] for broodstock purposes, 10 died (67% mortality) due to handling...
+> -- *[[LossOfLakeMohaveBonytailChub_14539]]*
+
+> This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
+> -- *[[DraftbonytailChubGilaElegans_14696]]*
+
+> This memorandum and preliminary draft management plan, dated August 11, 1998, addresses implementation of Reasonable and Prudent Alternative (RPA) 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The RPA requires establishment of...
+> -- *[[PreliminaryDraftManagementPlan_16433]]*
+
 ## Mentioned In
 - [[ANonLethalStomachPumpingTechni_14917]]
 - [[ANonlethalTechniqueToRecoverGu_1994]]
@@ -479,3 +497,9 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 - [[RecoveryPlanForTheEndangeredBo_17173]]
 - [[ManagementGroupMeetingSummary_19219]]
 - [[BonytailReintroductionPlanForT_20248]]
+- [[DraftLongRangePlan_11590]]
+- [[FiscalYearWorkPlan_11594]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[LossOfLakeMohaveBonytailChub_14539]]
+- [[DraftbonytailChubGilaElegans_14696]]
+- [[PreliminaryDraftManagementPlan_16433]]

@@ -23,7 +23,11 @@ Bairdiella is a genus of small croaker fish (family Sciaenidae) found in coastal
 > - Between 1948 and 1952, four expeditions to San Felipe, Mexico, delivered approximately **10,000 marine fish** of multiple species to the Salton Sea as experimental plants. - **January 17, 1952**: A 22-inch, 4–6 lb [[Orangemouth Corvina]] was captured in a gill net near Mullet Island, confirming...
 > -- *[[SurvivalOfSomeFishesRecentlyIn_19099]]*
 
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[ComputerizedDataBaseForExoticF_1991]]
 - [[EvaluationOfProposedIntroducti_12261]]
 - [[SurvivalOfSomeFishesRecentlyIn_19099]]
+- [[FishIntroductionsGoodManagemen_17630]]

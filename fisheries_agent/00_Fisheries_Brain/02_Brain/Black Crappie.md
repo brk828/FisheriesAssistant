@@ -71,6 +71,18 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 > The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
 > -- *[[IntroductionOfPalaemonetesPalu_20723]]*
 
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This report documents the fourth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The study, conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]] from February 1, 1966 to January 31, 1967,...
+> -- *[[ReservoirFisheriesInvestigatio_14589]]*
+
+> This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
+> -- *[[PublicationsOfPeterBMoyle_15442]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -151,3 +163,7 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 - [[DraftConservationStrategyVirgi_11659]]
 - [[EffectOfChannelizationOnTheFis_18139]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[ReservoirFisheriesInvestigatio_14589]]
+- [[PublicationsOfPeterBMoyle_15442]]
+- [[FishIntroductionsGoodManagemen_17630]]

@@ -14,7 +14,11 @@ The Mozambique Tilapia (Oreochromis mossambicus) is a cichlid fish native to Afr
 > **Entanglement net catch (Table 1)** — 90 individuals, 12 taxa across Lakes A, B, C: - [[Threadfin Shad]]: 33% of total catch (30 individuals), primarily via gill nets - [[Largemouth Bass]]: 22% (20 individuals) - [[Razorback Sucker]]: 12% (11 individuals) - [[Bluegill]]: 7% (6 individuals) - [[R...
 > -- *[[SamplingAtAsuResearchParkOctob_1990_10_16]]*
 
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[LetterFromPeterBMoyleToWalterR_1991_01_22]]
 - [[SamplingAtAsuResearchParkMay_1990_05_18]]
 - [[SamplingAtAsuResearchParkOctob_1990_10_16]]
+- [[FishIntroductionsGoodManagemen_17630]]

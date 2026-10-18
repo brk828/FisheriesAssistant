@@ -146,6 +146,21 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 > The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
 > -- *[[IntroductionOfPalaemonetesPalu_20723]]*
 
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
+> This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
+> -- *[[FisheriesManagementOfElCapitan_16317]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
+> This study evaluated the accuracy of the scale method for age determination in [[Largemouth Bass]] (*Micropterus salmoides*) and [[Bluegill]] (*Lepomis macrochirus*) from Alabama waters using fish of known ages from experimental ponds. Photographic prints of scales were examined by a technician...
+> -- *[[ANoteOnTheAccuracyOfTheScaleMe_18667]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -379,3 +394,8 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 - [[SamplingAtAsuResearchParkAutum_19458]]
 - [[ALiteratureReviewOfTheEffectsO_20478]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[FishingEffortAndHarvestByArizo_15066]]
+- [[FisheriesManagementOfElCapitan_16317]]
+- [[FishIntroductionsGoodManagemen_17630]]
+- [[ANoteOnTheAccuracyOfTheScaleMe_18667]]

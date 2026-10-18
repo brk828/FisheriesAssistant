@@ -26,6 +26,9 @@ Carl L. Hubbs was a pioneering American ichthyologist and evolutionary biologist
 > This document is a brief piece of correspondence dated May 6, 1975, from [[Carl L. Hubbs]], Professor of Biology Emeritus at [[Scripps Institution of Oceanography]], [[University of California]], [[La Jolla]]. The document appears to be fragmentary or poorly preserved, with limited legible content...
 > -- *[[RefugiaInNevadaForCertainRareA_14193]]*
 
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -38,3 +41,4 @@ Carl L. Hubbs was a pioneering American ichthyologist and evolutionary biologist
 - [[SystematicsOfTheAmericanAtheri_1946_11_15]]
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
 - [[RefugiaInNevadaForCertainRareA_14193]]
+- [[SelectionsFromUniversityOfMich_18288]]

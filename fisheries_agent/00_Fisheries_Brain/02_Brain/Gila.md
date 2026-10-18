@@ -71,6 +71,9 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 > This study applies multivariate discriminant analysis to meristic and morphometric data to resolve long-standing confusion in identifying three endangered [[Gila]] species from the [[Colorado Plateau]]: [[Gila robusta]] (roundtail chub), [[Gila cypha]] (humpback chub), and [[Gila elegans]]...
 > -- *[[MultivariateDiscriminationOfCo_19077]]*
 
+> This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
+> -- *[[FishesAndAquaticResourcesDeath_15415]]*
+
 ## Mentioned In
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
 - [[ColoradoRiverFishesRecoveryPro_1993_12_10]]
@@ -111,3 +114,4 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 - [[GeneticVariationAmongLowerColo_12776]]
 - [[CommentsOnMRosenfeldsGilaTaxon_13067]]
 - [[MultivariateDiscriminationOfCo_19077]]
+- [[FishesAndAquaticResourcesDeath_15415]]

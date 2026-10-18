@@ -35,6 +35,9 @@ The Common Shiner is a small cyprinid minnow species utilized as a forage and ba
 > This technical report from the Michigan Department of Conservation Institute for Fisheries Research provides comprehensive guidance on the biology, ecology, and commercial culture of minnows (family [[Cyprinidae]]) in Michigan waters. The [[Cyprinidae]] is one of the largest fish families globally,...
 > -- *[[MinnowsCyprinidae_17384]]*
 
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -53,3 +56,4 @@ The Common Shiner is a small cyprinid minnow species utilized as a forage and ba
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[SomeObservationsOnTheReclamati_15490]]
 - [[MinnowsCyprinidae_17384]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]

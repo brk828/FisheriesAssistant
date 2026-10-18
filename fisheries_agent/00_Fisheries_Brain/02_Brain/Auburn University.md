@@ -17,8 +17,24 @@ auto_enriched: true
 > This experimental study by [[George N. Greene]] at [[Auburn University]] (1967-1968) investigated the effects of three nitrogen sources (sodium nitrate, ammonium carbonate, and cottonseed meal) and the presence of [[Cecil Soil]] on fish production and water chemistry in fertilized plastic pools....
 > -- *[[EffectOfDifferentNitrogenSourc_19233]]*
 
+> This document reports the discovery and identification of freshwater sponges in experimental fish ponds at [[Auburn University]] Agricultural Experiment Station and the U.S. Fish Cultural Station in [[Marion, Alabama]]. Three species were identified: [[Meyenia crateriformis]], [[Heteromeyenia...
+> -- *[[SpongesInFishPonds_12801]]*
+
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
+> This study evaluated the accuracy of the scale method for age determination in [[Largemouth Bass]] (*Micropterus salmoides*) and [[Bluegill]] (*Lepomis macrochirus*) from Alabama waters using fish of known ages from experimental ponds. Photographic prints of scales were examined by a technician...
+> -- *[[ANoteOnTheAccuracyOfTheScaleMe_18667]]*
+
+> This 1960 study by E. E. Prater and H. S. Swingle at [[Auburn University]] Agricultural Experiment Station evaluated [[White Catfish]] (*Ictalurus catus*) as a commercial pondfish species. Experiments conducted in 1959-1960 demonstrated that white catfish production rates, feed conversion, and...
+> -- *[[PreliminaryResultsOnTheProduct_18670]]*
+
 ## Mentioned In
 - [[ExperimentsOnCommercialFishPro_15109]]
 - [[OverATonOfChannelCatfishPerAcr_18668]]
 - [[FertilizingFarmFishPonds_15115]]
 - [[EffectOfDifferentNitrogenSourc_19233]]
+- [[SpongesInFishPonds_12801]]
+- [[ProgressReportOfTheCultureOfTi_14692]]
+- [[ANoteOnTheAccuracyOfTheScaleMe_18667]]
+- [[PreliminaryResultsOnTheProduct_18670]]

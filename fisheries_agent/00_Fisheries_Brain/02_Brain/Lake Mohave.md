@@ -164,6 +164,27 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
 > -- *[[BonytailReintroductionPlanForT_20248]]*
 
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This master's thesis documents a 17-month telemetry study (November 1994–August 1996) tracking movements of 20 adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a 108-km regulatory reservoir on the [[Colorado River]]. Ten individuals (4 males, 6 females) survived the study...
+> -- *[[MovementsOfAdultRazorbackSucke_12585]]*
+
+> This memorandum documents a significant mortality event involving endangered [[Bonytail Chub]] (*Gila elegans*) collected from [[Lake Mohave]] in May 1993. Of 15 fish captured and transported to [[Dexter National Fish Hatchery]] for broodstock purposes, 10 died (67% mortality) due to handling...
+> -- *[[LossOfLakeMohaveBonytailChub_14539]]*
+
+> This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
+> -- *[[DraftbonytailChubGilaElegans_14696]]*
+
+> This memorandum and preliminary draft management plan, dated August 11, 1998, addresses implementation of Reasonable and Prudent Alternative (RPA) 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The RPA requires establishment of...
+> -- *[[PreliminaryDraftManagementPlan_16433]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
+> This FY 1993 annual project report documents a genetic diversity study of the [[Razorback Sucker]] (*Xyrauchen texanus*), a large, long-lived catostomid endemic to the [[Colorado River]] drainage. The research examined mitochondrial DNA (mtDNA) variation in the [[Lake Mohave]] source population and...
+> -- *[[FyAnnualProjectReportColoradoR_19124]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -376,3 +397,10 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[FishWithoutARiverTheCaptiveBre_19094]]
 - [[MitochondrialDnaVariabilityInT_19125]]
 - [[BonytailReintroductionPlanForT_20248]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[MovementsOfAdultRazorbackSucke_12585]]
+- [[LossOfLakeMohaveBonytailChub_14539]]
+- [[DraftbonytailChubGilaElegans_14696]]
+- [[PreliminaryDraftManagementPlan_16433]]
+- [[FishIntroductionsGoodManagemen_17630]]
+- [[FyAnnualProjectReportColoradoR_19124]]

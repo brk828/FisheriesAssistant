@@ -41,6 +41,9 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 > This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
 > -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
 
+> This master's thesis documents a 17-month telemetry study (November 1994–August 1996) tracking movements of 20 adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a 108-km regulatory reservoir on the [[Colorado River]]. Ten individuals (4 males, 6 females) survived the study...
+> -- *[[MovementsOfAdultRazorbackSucke_12585]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -67,3 +70,4 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 - [[DemographicsAndMonitoringOfRep_2020]]
 - [[DemographicsAndPoststockingSur_2012]]
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
+- [[MovementsOfAdultRazorbackSucke_12585]]

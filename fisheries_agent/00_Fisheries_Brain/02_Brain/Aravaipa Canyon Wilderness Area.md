@@ -26,9 +26,13 @@ Aravaipa Canyon Wilderness Area is a protected perennial desert stream ecosystem
 > This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
 > -- *[[DesertFishesRecoveryTeamAddres_13785]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[AravaipaCreekMonitoringData_1993_07_15]]
 - [[MemorandumOnAravaipaCreekMonit_1993_06_30]]
 - [[MemorandumOnAravaipaCreekMonit_1994_06_27]]
 - [[MemorandumOnMonitoringDataArav_1997_10_16]]
 - [[DesertFishesRecoveryTeamAddres_13785]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

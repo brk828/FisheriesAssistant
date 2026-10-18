@@ -56,6 +56,9 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 > This document comprises Pima County, Arizona's Resolution No. 1998-250 establishing the [[Sonoran Desert Conservation Plan]] (SDCP), correspondence soliciting expert input on species selection, and a preliminary species list for multi-species habitat conservation planning. Passed December 3, 1998,...
 > -- *[[AResolutionOfTheBoardOfSupervi_18593]]*
 
+> This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
+> -- *[[BuildingSuccessfulPartnerships_13226]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[CorrespondenceRegardingDesertF_12709]]
@@ -97,3 +100,4 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 - [[PreliminaryStudyOfTheDesertPup_12499]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[AResolutionOfTheBoardOfSupervi_18593]]
+- [[BuildingSuccessfulPartnerships_13226]]

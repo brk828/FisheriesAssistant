@@ -26,6 +26,9 @@ The Johnny Darter (*Etheostoma nigrum*) is a small benthic darter species common
 > The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
 > -- *[[Perch_16750]]*
 
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
 ## Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[AgeGrowthFecundityAndFoodHabit_1964]]
@@ -35,3 +38,4 @@ The Johnny Darter (*Etheostoma nigrum*) is a small benthic darter species common
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[NaturalProductivityOfFishAndCr_1940]]
 - [[Perch_16750]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]

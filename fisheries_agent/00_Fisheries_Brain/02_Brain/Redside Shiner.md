@@ -35,6 +35,9 @@ The Redside Shiner is a small cyprinid fish native to western North American riv
 > This Federal Aid to Fish Restoration report documents population dynamics, species composition, limnological conditions, and management strategies for [[Arrowrock Reservoir]] and [[Lucky Peak Reservoir]] on the [[Boise River]], Idaho, from July 1965 through February 1968. Extensive gill netting...
 > -- *[[LakeAndReservoirInvestigations_12145]]*
 
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
 ## Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -54,3 +57,4 @@ The Redside Shiner is a small cyprinid fish native to western North American riv
 - [[DraftConservationAgreementForV_13234]]
 - [[InterimProceduresForStockingNo_15423]]
 - [[LakeAndReservoirInvestigations_12145]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]

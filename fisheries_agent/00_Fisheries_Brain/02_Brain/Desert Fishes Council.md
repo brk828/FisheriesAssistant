@@ -59,6 +59,15 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 > On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
 > -- *[[DraftDayFindingForDesertFishes_20489]]*
 
+> This document appears to be fragmentary correspondence or meeting notes from the [[Desert Fishes Council]] dated January 22, 1984. The material discusses conservation concerns related to desert fish populations, including stocking proposals and habitat management issues in [[San Felipe Creek]] and...
+> -- *[[MemorandumLowerBasinSubcommitt_11426]]*
+
+> This correspondence from the [[U.S. Forest Service]] [[Coronado National Forest]] summarizes a March 1989 work session regarding management of the [[Bog Hole]] in the [[San Rafael Valley]], Arizona. The meeting brought together representatives from [[Arizona Game and Fish Department]], [[U.S. Fish...
+> -- *[[BogHoleProjectMeetingSummary_12749]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
+> -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -166,3 +175,6 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[DraftDayFindingForDesertFishes_20489]]
+- [[MemorandumLowerBasinSubcommitt_11426]]
+- [[BogHoleProjectMeetingSummary_12749]]
+- [[PresenceOfAlienPupfishMayJeopa_13727]]

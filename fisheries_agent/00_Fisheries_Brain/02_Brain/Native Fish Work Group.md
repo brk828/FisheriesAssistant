@@ -41,6 +41,9 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 > This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
 > -- *[[CommentsOnTheBiologicalOpinion_17166]]*
 
+> This master's thesis documents a 17-month telemetry study (November 1994–August 1996) tracking movements of 20 adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a 108-km regulatory reservoir on the [[Colorado River]]. Ten individuals (4 males, 6 females) survived the study...
+> -- *[[MovementsOfAdultRazorbackSucke_12585]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[FishAndWildlifeServiceReviewOf_1990_09_11]]
@@ -72,3 +75,4 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 - [[GeneticMonitoringOfRepatriated_17010]]
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
 - [[CommentsOnTheBiologicalOpinion_17166]]
+- [[MovementsOfAdultRazorbackSucke_12585]]

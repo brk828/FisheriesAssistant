@@ -29,6 +29,12 @@ Beaver Creek represents a significant study site in Kentucky ichthyological rese
 > The U.S. Environmental Protection Agency (EPA) Region IX and U.S. Army Corps of Engineers (Corps) conducted an Advanced Identification (ADID) project for the [[Verde River]] in Arizona under Section 404 of the Clean Water Act. This document announces public workshops (April 25-26, 1994) to discuss...
 > -- *[[VerdeRiverAdvancedIdentificati_11367]]*
 
+> This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
+> -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[EffectsOfStripMiningOnSmallStr_1972_02_29]]
 - [[FishDistributionAndAbundanceCo_1942]]
@@ -36,3 +42,5 @@ Beaver Creek represents a significant study site in Kentucky ichthyological rese
 - [[TheVertebratesOfArizona_1964]]
 - [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
 - [[VerdeRiverAdvancedIdentificati_11367]]
+- [[HabitatStudyOfRoundtailChubGil_18268]]
+- [[SelectionsFromUniversityOfMich_18288]]

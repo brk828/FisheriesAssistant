@@ -17,7 +17,11 @@ auto_enriched: true
 > This study used allozyme electrophoresis to assess phylogenetic relationships within the cyprinid tribe [[Plagopterini]] of western North America. The research examined 28 presumptive gene loci across multiple genera including [[Lepidomeda]], [[Meda]], [[Plagopterus]], and [[Gila copei]], plus five...
 > -- *[[AllozymicVariationAndSystemati_12782]]*
 
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
 ## Mentioned In
 - [[CooperativeEcosystemStudiesUni_1999]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[AllozymicVariationAndSystemati_12782]]
+- [[NativeRockyMountainTroutAndSto_17773]]

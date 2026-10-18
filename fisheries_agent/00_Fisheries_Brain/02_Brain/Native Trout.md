@@ -17,6 +17,10 @@ auto_enriched: true
 > This 1953 fisheries management report documents comprehensive investigations of three connected water bodies in Colorado: [[Granby Reservoir]], [[Shadow Mountain Reservoir]], and [[Grand Lake]]. The study employed creel census, rough fish control operations, limnological sampling, food habit...
 > -- *[[ProjectReportGrandLakeShadowMo_16322]]*
 
+> This three-year study (1952-1954) of [[Forest Lake]], a 32.5-acre reservoir on [[Grand Mesa]] in [[Delta County]], [[Colorado]], evaluated marked fish returns, creel census data, food utilization, limnology, and age-growth characteristics of [[Rainbow Trout]], [[Brook Trout]], and [[Native Trout]]...
+> -- *[[ForestLakeMarkedFishStudies_15614]]*
+
 ## Mentioned In
 - [[SummaryOfPertinentProblemsPert_1961_01_15]]
 - [[ProjectReportGrandLakeShadowMo_16322]]
+- [[ForestLakeMarkedFishStudies_15614]]

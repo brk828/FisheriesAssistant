@@ -11,5 +11,9 @@ Schroeder Reservoir is an impoundment on Beaver Dam Wash that has inundated hist
 > This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
 > -- *[[DraftConservationStrategyVirgi_11659]]*
 
+> This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
+> -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
+
 ## Mentioned In
 - [[DraftConservationStrategyVirgi_11659]]
+- [[BiologicalOpinionOnTheEffectsO_11915]]

@@ -44,6 +44,12 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 > This annual progress report documents the 1966 [[Chinook Salmon]] spawning ground surveys conducted in the [[Salmon River]] drainage, Idaho, from August 1 to September 30, 1966. Spring and summer chinook salmon spawning runs into Idaho in 1966 were larger than those of 1965, though the summer-run...
 > -- *[[SalmonAndSteelheadInvestigatio_12147]]*
 
+> This 1971 academic paper by John N. Rinne examines the [[Pleistocene Epoch]] from multiple perspectives: climatic causes, chronological methods, hydrological conditions, and faunal evidence. The document emphasizes that the Pleistocene was characterized by dramatic climatic oscillations, extensive...
+> -- *[[ThePleistoceneItsClimateCauses_14987]]*
+
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[EvaluationOfSpringChinookMigra_1969]]
@@ -63,3 +69,5 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 - [[StatewideFishingHarvestSurvey_17659]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
 - [[SalmonAndSteelheadInvestigatio_12147]]
+- [[ThePleistoceneItsClimateCauses_14987]]
+- [[NativeRockyMountainTroutAndSto_17773]]

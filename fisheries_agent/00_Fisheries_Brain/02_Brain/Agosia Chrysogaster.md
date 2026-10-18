@@ -44,6 +44,9 @@ Agosia chrysogaster, commonly known as the longfin dace, is a small native cypri
 > This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
 > -- *[[LiteratureReviewAndImpactRepor_14988]]*
 
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgosiaChrysogasterACyprinidFro_17955]]
@@ -73,3 +76,4 @@ Agosia chrysogaster, commonly known as the longfin dace, is a small native cypri
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
 - [[LiteratureReviewAndImpactRepor_14988]]
+- [[SelectionsFromUniversityOfMich_18288]]

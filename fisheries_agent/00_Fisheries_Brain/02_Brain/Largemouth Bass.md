@@ -269,6 +269,57 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
 > -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
 
+> This Federal Register document (Vol. 51, No. 61, March 31, 1986) announces the U.S. Fish and Wildlife Service's final determination to list the [[Desert Pupfish]] (*Cyprinodon macularius*) as an endangered species under the Endangered Species Act of 1973, as amended. The rule also designates...
+> -- *[[EndangeredAndThreatenedWildlif_11555]]*
+
+> The [[White River Spinedace]] (*Lepidomeda albivallis*) is a federally endangered cyprinid fish endemic to northern [[White River Valley]] in [[Nevada]]. As of June 1991, the species persisted in only one of seven historically occupied habitats—the northern spring of the [[Flag Springs]]...
+> -- *[[WhiteRiverSpinedaceLepidomedaA_11636]]*
+
+> This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
+> -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
+
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
+> This 1965 Master's thesis by Jerry Brashier examined age and growth of [[Largemouth Bass]] (*Micropterus salmoides*) in two Louisiana oxbow lakes: [[False River]] and [[Old River]], located 15 miles apart in [[Pointe Coupee Parish]]. Collections occurred March–November 1964 using electric shockers...
+> -- *[[AStudyOfTheAgeAndGrowthOfLarge_12917]]*
+
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This report documents the second year (February 1, 1965 - January 31, 1966) of cooperative fisheries investigation at [[Lake Powell]] ([[Glen Canyon Reservoir]]) conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. The study combined systematic creel census...
+> -- *[[GlenCanyonUnitcoloradoRiverSto_14583]]*
+
+> This report documents the fourth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The study, conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]] from February 1, 1966 to January 31, 1967,...
+> -- *[[ReservoirFisheriesInvestigatio_14589]]*
+
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
+> This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
+> -- *[[PublicationsOfPeterBMoyle_15442]]*
+
+> This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
+> -- *[[FisheriesManagementOfElCapitan_16317]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
+> This study evaluated the accuracy of the scale method for age determination in [[Largemouth Bass]] (*Micropterus salmoides*) and [[Bluegill]] (*Lepomis macrochirus*) from Alabama waters using fish of known ages from experimental ponds. Photographic prints of scales were examined by a technician...
+> -- *[[ANoteOnTheAccuracyOfTheScaleMe_18667]]*
+
+> On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
+> -- *[[LoachMinnow_19034]]*
+
 ## Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -584,3 +635,20 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
 - [[ProjectVelaUniformLakeMeadTest_20812]]
+- [[EndangeredAndThreatenedWildlif_11555]]
+- [[WhiteRiverSpinedaceLepidomedaA_11636]]
+- [[BiologicalOpinionOnTheEffectsO_11915]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[GlenCanyonUnitcoloradoRiverSto_14583]]
+- [[ReservoirFisheriesInvestigatio_14589]]
+- [[TailwaterFisheryInvestigationC_14594]]
+- [[ProgressReportOfTheCultureOfTi_14692]]
+- [[SkyIslandAquaticResourcesHabit_15003]]
+- [[FishingEffortAndHarvestByArizo_15066]]
+- [[PublicationsOfPeterBMoyle_15442]]
+- [[FisheriesManagementOfElCapitan_16317]]
+- [[FishIntroductionsGoodManagemen_17630]]
+- [[ANoteOnTheAccuracyOfTheScaleMe_18667]]
+- [[LoachMinnow_19034]]

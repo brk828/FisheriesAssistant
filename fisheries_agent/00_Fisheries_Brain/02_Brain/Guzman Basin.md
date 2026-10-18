@@ -17,9 +17,13 @@ The Guzman Basin is a geographic region in the Rio Yaqui watershed system that s
 > - The expedition was planned as a **binational conservation translocation effort**, involving AGFD, New Mexico Game & Fish (NMGF), Dexter National Fish Hatchery, and Mexico's Centro Ecológico, reflecting early interagency cooperation on Rio Yaqui native fish conservation. - Target species for cap...
 > -- *[[RioYaquiFishesCaptureAndTransp_1987_01_12]]*
 
+> This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
+> -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[DistributionAndStatusOfTheChih_1990_04_11]]
 - [[DraftDesertFishesRecoveryPlan_1987_01_22]]
 - [[FisheriesNews_1993_12_21]]
 - [[RioYaquiFishesCaptureAndTransp_1987_01_12]]
+- [[TwoLettersConcerningStudyOfSpe_13691]]

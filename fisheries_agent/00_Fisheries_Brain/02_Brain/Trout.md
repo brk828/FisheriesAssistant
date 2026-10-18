@@ -44,6 +44,12 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > This fishery leaflet provides a comprehensive overview of columnaris disease, a significant bacterial infection affecting freshwater fishes. The disease, caused by slime bacteria (*Chondrococcus columnaris* or *Cytophaga columnaris*), manifests as grayish-white lesions resembling fungal infections...
 > -- *[[ColumnarisDiseaseOfFishes_21236]]*
 
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
 ## Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -78,3 +84,5 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[FishFacts_20746]]
 - [[SummaryStatementOfInsightsFrom_20854]]
 - [[ColumnarisDiseaseOfFishes_21236]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[FishingEffortAndHarvestByArizo_15066]]

@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Lassen County
+
+## Summary
+Lassen County is a county in northeastern California where Pumpkinseed populations were documented in the Susan River system. Collections from 1942, 1953, and 1954 showed the species maintained a persistent population for at least 12 years, with the 1954 survey finding several hundred individuals ranging from 0.9 to 6.1 inches fork length in the lower Susan River near Honey Lake.
+
+## Context
+
+> This 1955 report documents the distribution and status of the introduced [[Pumpkinseed]] (*Lepomis gibbosus*) in [[California]]. The species was considered rare in the state, with scattered populations in widely separated locations. The authors compile historical records from 1939-1954, correcting...
+> -- *[[TheStatusOfThePumpkinseedLepom_12862]]*
+
+## Mentioned In
+- [[TheStatusOfThePumpkinseedLepom_12862]]

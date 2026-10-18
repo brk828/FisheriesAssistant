@@ -32,6 +32,9 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[MeasuresToImproveSportFishingA_1962]]
@@ -43,3 +46,4 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 - [[EndangeredAndThreatenedWildlif_11580]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[FishIntroductionsGoodManagemen_17630]]

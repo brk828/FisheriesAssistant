@@ -53,6 +53,9 @@ The Brown Bullhead is a freshwater catfish species that appears in ichthyologica
 > This 1957 technical report documents a comprehensive survey of bass tapeworm ([[Proteocephalus ambloplitis]]) infections across 124 lakes and ponds in southern [[New Hampshire]]. Conducted during 1955-1956 under the Dingell-Johnson Project F-8-R, the study examined 1,960 fish representing 12...
 > -- *[[TheIncidenceAndDistributionOfT_15429]]*
 
+> This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
+> -- *[[FisheriesManagementOfElCapitan_16317]]*
+
 ## Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -85,3 +88,4 @@ The Brown Bullhead is a freshwater catfish species that appears in ichthyologica
 - [[PrelimaryObservationsOnTheToxi_14434]]
 - [[TheMaineSmallmouth_14928]]
 - [[TheIncidenceAndDistributionOfT_15429]]
+- [[FisheriesManagementOfElCapitan_16317]]

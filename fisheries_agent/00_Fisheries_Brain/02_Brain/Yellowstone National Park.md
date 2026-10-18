@@ -14,7 +14,11 @@ auto_enriched: true
 > This letter from Dr. Richard N. Williams ([[Portland State University]]) to Jim French ([[Nevada Department of Wildlife]]) addresses a dispute over authorship claims for a research proposal concerning native [[Cutthroat Trout]] management in the western United States. Dr. Williams formally refutes...
 > -- *[[MrRosenfeldHadNoPartInThePlann_12044]]*
 
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
 ## Mentioned In
 - [[ObservationsOnTheLongnoseSucke_1954]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[MrRosenfeldHadNoPartInThePlann_12044]]
+- [[NativeRockyMountainTroutAndSto_17773]]

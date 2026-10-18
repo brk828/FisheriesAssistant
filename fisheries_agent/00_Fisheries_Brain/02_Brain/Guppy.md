@@ -23,6 +23,9 @@ The guppy (Poecilia reticulata) is a small live-bearing fish of the family Poeci
 > This primer note describes the isolation and characterization of microsatellite DNA loci from the endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), developed to assess neutral genetic variation across four isolated Arizona watershed populations. Ten microsatellite primer s...
 > -- *[[IsolationAndCharacterizationOf_1998]]*
 
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[AccumulationAndRetentionOfRadi_1957]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -35,3 +38,4 @@ The guppy (Poecilia reticulata) is a small live-bearing fish of the family Poeci
 - [[ModificationOfTheResponseToHig_1973_05_10]]
 - [[TheCurrentStatusOfTheBruneauHo_1989_11_16]]
 - [[TheEffectsOfRelativeDensityUpo_1973]]
+- [[ArizonaComparativeRiskProjectE_15833]]

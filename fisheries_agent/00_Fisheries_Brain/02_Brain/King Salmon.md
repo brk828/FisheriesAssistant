@@ -35,6 +35,9 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 > This 1932-1933 study documented the fall migration of [[Steelhead]] (*Oncorhynchus mykiss*) from the [[Klamath River]] into [[Shasta River]], California. Using a counting rack with observation gates, researchers enumerated 8,525 steelhead between September 19 and December 10, 1932. The migration...
 > -- *[[ASteelheadMigrationInShastaRiv_21255]]*
 
+> This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
+> -- *[[TheDesirabilityOfIntroducingWh_16080]]*
+
 ## Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -45,3 +48,4 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 - [[CaliforniaTroutSalmonAndWarmwa_14867]]
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
 - [[ASteelheadMigrationInShastaRiv_21255]]
+- [[TheDesirabilityOfIntroducingWh_16080]]

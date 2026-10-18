@@ -17,8 +17,12 @@ Lake Bonneville was a large Pleistocene pluvial lake that once covered much of t
 > This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
 > -- *[[EvolutionaryRelationshipsOfThe_19110]]*
 
+> This 1971 academic paper by John N. Rinne examines the [[Pleistocene Epoch]] from multiple perspectives: climatic causes, chronological methods, hydrological conditions, and faunal evidence. The document emphasizes that the Pleistocene was characterized by dramatic climatic oscillations, extensive...
+> -- *[[ThePleistoceneItsClimateCauses_14987]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[LetterToMrDonnellyHillRegardin_1994_08_29]]
 - [[SnyderichthysANewGenericNameFo_1944_11_22]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
+- [[ThePleistoceneItsClimateCauses_14987]]

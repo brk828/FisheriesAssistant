@@ -62,6 +62,9 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 > This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
 > -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
 
+> This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
+> -- *[[DraftbonytailChubGilaElegans_14696]]*
+
 ## Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -124,3 +127,4 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 - [[DraftcoloradoRiverEndangeredFi_13664]]
 - [[SupportForListingTheRazorbackS_13791]]
 - [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[DraftbonytailChubGilaElegans_14696]]

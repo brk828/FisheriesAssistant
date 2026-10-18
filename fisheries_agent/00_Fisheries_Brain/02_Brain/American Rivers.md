@@ -17,8 +17,12 @@ American Rivers is a conservation organization that has played a significant rol
 > This document is a memorandum and agenda for the American Rivers Scientific and Technical Advisory Committee (STAC) annual meeting and "State of America's Rivers" Forum held June 3–4, 1993, in Washington, DC. The forum brought together leading river scientists and natural resource policy analysts...
 > -- *[[AmericanRiversStacMeetingOfJun_17977]]*
 
+> This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
+> -- *[[AmericanRiversScientificAndTec_15167]]*
+
 ## Mentioned In
 - [[GroupsReachAgreementToRemoveDa_1999_08_23]]
 - [[LetterOnFirstYearDeliverablesF_1994_04_14]]
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
+- [[AmericanRiversScientificAndTec_15167]]

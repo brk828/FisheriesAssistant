@@ -128,6 +128,27 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
 > -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
 
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
+> This document is a review memo from Jim to Minck evaluating ongoing [[Glen Canyon Environmental Studies]] projects focused on [[Humpback Chub]] (*Gila cypha*) recovery. The reviewer assesses research conducted by [[Arizona State University]]/[[Navajo Nation]], [[Arizona Fish and Game Department]],...
+> -- *[[ReviewOfGlenCanyonEnvironmenta_14007]]*
+
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
+> This report presents the third year of monitoring the endangered [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona, during May 1989. Research teams established two camps and deployed up to 26 nets over 30 days, sampling from the confluence with the [[Colorado...
+> -- *[[FinalReportOnResearchConducted_18507]]*
+
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -281,3 +302,10 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[SummaryReportOnResearchConduct_18505]]
 - [[GlenCanyonEnvironmentalStudies_19715]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[ReviewOfGlenCanyonEnvironmenta_14007]]
+- [[TailwaterFisheryInvestigationC_14594]]
+- [[SelectionsFromUniversityOfMich_18288]]
+- [[FinalReportOnResearchConducted_18507]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]

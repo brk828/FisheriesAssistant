@@ -11,6 +11,9 @@ Pit tagging is a non-lethal fish identification and tracking method that involve
 > This project exemplifies the **data governance backbone** of large-scale, multi-agency endangered species recovery efforts, illustrating how [[PIT Tagging]] programs, standardized metadata practices, and interagency data-sharing protocols (per [[RIPRAP]] Task V.A.2) support long-term monitoring o...
 > -- *[[DatabaseManagementProgramColor_1993]]*
 
+> This document is a formal petition submitted to the [[Arizona Game and Fish Commission]] in 1994 by M. Brent Peugnet and the [[Arizona Herpetological Association]] (AHA, 222 members, 147 Arizona residents) requesting establishment of a new rule permitting commercial captive propagation of specific...
+> -- *[[DraftAndRevisedVersionsOfPetit_11208]]*
+
 ## Mentioned In
 - [[DatabaseManagementProgramColor_1993]]
 - [[DetermineStatusOfColoradoSquaw_11150]]
@@ -19,3 +22,4 @@ Pit tagging is a non-lethal fish identification and tracking method that involve
 - [[LakeMohaveSamplingMay_1991_06_02]]
 - [[LetterOnTrammelNettingOfColora_1992_11_23]]
 - [[RazorbackSuckerGeneticSurveyTi_1992]]
+- [[DraftAndRevisedVersionsOfPetit_11208]]

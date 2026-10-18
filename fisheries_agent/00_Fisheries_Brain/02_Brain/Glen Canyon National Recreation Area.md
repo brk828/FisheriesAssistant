@@ -17,6 +17,12 @@ Glen Canyon National Recreation Area encompasses the Colorado River ecosystem do
 > This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
 > -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
 
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
+> This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
+> -- *[[BureauOfReclamationAnnouncesPu_20788]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[LetterConcerningStripedBassThr_1990_06_03]]
@@ -26,3 +32,5 @@ Glen Canyon National Recreation Area encompasses the Colorado River ecosystem do
 - [[BureauOfReclamationAnnouncesDe_20789]]
 - [[RainbowSmeltProposallakePowell_21115]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[BureauOfReclamationAnnouncesPu_20788]]

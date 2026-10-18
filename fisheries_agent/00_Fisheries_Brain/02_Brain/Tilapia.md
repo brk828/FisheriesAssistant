@@ -50,6 +50,18 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 > This memorandum from the California Department of Fish and Game to the Fish and Game Commission addresses a request by [[United Energy Corporation]] (UEC) to import and possess eight exotic fish species for aquaculture and research at a facility near [[Yermo]], [[San Bernardino County]]. The...
 > -- *[[RequestByUecToImportAndPossess_18439]]*
 
+> This Federal Register document (Vol. 51, No. 61, March 31, 1986) announces the U.S. Fish and Wildlife Service's final determination to list the [[Desert Pupfish]] (*Cyprinodon macularius*) as an endangered species under the Endangered Species Act of 1973, as amended. The rule also designates...
+> -- *[[EndangeredAndThreatenedWildlif_11555]]*
+
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -96,3 +108,7 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
 - [[ProposalToListTheRazorbackSuck_14703]]
 - [[RequestByUecToImportAndPossess_18439]]
+- [[EndangeredAndThreatenedWildlif_11555]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[FishingEffortAndHarvestByArizo_15066]]
+- [[FishIntroductionsGoodManagemen_17630]]

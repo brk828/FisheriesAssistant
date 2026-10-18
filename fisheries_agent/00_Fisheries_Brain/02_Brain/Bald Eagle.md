@@ -77,6 +77,15 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 > This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
 > -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
 
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
+> This March 7, 1988 correspondence from SWCA, Inc. Environmental Consultants to Dr. W. L. Minckley at [[Arizona State University]] outlines an environmental investigation for the [[Salt River Project]] regarding the proposed removal of [[Roosevelt Diversion Dam]]. The assessment focuses on four...
+> -- *[[LetterToWlMinckleyRemovalOfRoo_12727]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[BiologicalOpinionOnTheProposed_13196]]
@@ -117,3 +126,6 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[WildlifeStudiesDenverWildlifeR_14329]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[LetterToWlMinckleyRemovalOfRoo_12727]]

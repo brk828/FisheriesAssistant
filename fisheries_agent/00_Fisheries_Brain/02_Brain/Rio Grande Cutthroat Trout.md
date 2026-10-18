@@ -23,6 +23,9 @@ The Rio Grande Cutthroat Trout is a native salmonid species endemic to the Rio G
 > This 1994 status assessment documents the dramatic decline of native fish fauna in the [[Middle Rio Grande]] between Espanola and [[Elephant Butte Reservoir]], New Mexico. Of 45 fish species known historically, only 17 (38%) are native, with 6 (11%) endemic to the system. Seven native species have...
 > -- *[[FishFaunaOfTheMiddleRioGrandeS_15005]]*
 
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
 ## Mentioned In
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
 - [[LetterRegardingTheMescaleroCut_1985_12_24]]
@@ -30,3 +33,4 @@ The Rio Grande Cutthroat Trout is a native salmonid species endemic to the Rio G
 - [[ReopeningOfCommentPeriodOnProp_1989_06_30]]
 - [[StationProfileOfTheMescaleroNa_1991]]
 - [[FishFaunaOfTheMiddleRioGrandeS_15005]]
+- [[NativeRockyMountainTroutAndSto_17773]]

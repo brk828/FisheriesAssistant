@@ -128,6 +128,27 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
 > -- *[[BonytailReintroductionPlanForT_20248]]*
 
+> This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
+> -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
+
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
+> This correspondence from the Arizona Game & Fish Department provides a detailed review of a draft final report examining interactions between the threatened [[Spikedace]] (*[[Meda fulgida]]*) and the introduced [[Red Shiner]] (*[[Cyprinella lutrensis]]*). The review, dated August 2, 1989, was...
+> -- *[[ReviewOfTheDraftReportEntitled_12983]]*
+
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
+> -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
+
+> This report presents the third year of monitoring the endangered [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona, during May 1989. Research teams established two camps and deployed up to 26 nets over 30 days, sampling from the confluence with the [[Colorado...
+> -- *[[FinalReportOnResearchConducted_18507]]*
+
+> On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
+> -- *[[LoachMinnow_19034]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -291,3 +312,10 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[ReviewOfPotentialForageFishInt_19139]]
 - [[CommentsOnVirginRiverEa_19382]]
 - [[BonytailReintroductionPlanForT_20248]]
+- [[BiologicalOpinionOnTheEffectsO_11915]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[ReviewOfTheDraftReportEntitled_12983]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[HabitatStudyOfRoundtailChubGil_18268]]
+- [[FinalReportOnResearchConducted_18507]]
+- [[LoachMinnow_19034]]

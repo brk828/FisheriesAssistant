@@ -89,6 +89,15 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 > This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
 > -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
 
+> This master's thesis documents a 17-month telemetry study (November 1994–August 1996) tracking movements of 20 adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a 108-km regulatory reservoir on the [[Colorado River]]. Ten individuals (4 males, 6 females) survived the study...
+> -- *[[MovementsOfAdultRazorbackSucke_12585]]*
+
+> This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
+> -- *[[FishesAndAquaticResourcesDeath_15415]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -150,3 +159,6 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 - [[BiologicalOpinionForLakeHavasu_11704]]
 - [[EffectOfChannelizationOnTheFis_18139]]
 - [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[MovementsOfAdultRazorbackSucke_12585]]
+- [[FishesAndAquaticResourcesDeath_15415]]
+- [[FishIntroductionsGoodManagemen_17630]]

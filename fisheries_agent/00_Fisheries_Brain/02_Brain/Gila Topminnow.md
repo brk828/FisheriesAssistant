@@ -104,6 +104,27 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
 > -- *[[BureauOfReclamationsFailureToR_18964]]*
 
+> This correspondence documents an agreement between the U.S. Forest Service Globe Ranger District and U.S. Fish & Wildlife Service regarding the failed [[Gila Topminnow]] population at [[Sycamore Spring]] and proposed reintroduction into alternative sites with natural water supplies. The population...
+> -- *[[AgreementRegardingThePopulatio_12215]]*
+
+> This correspondence from the [[U.S. Forest Service]] [[Coronado National Forest]] summarizes a March 1989 work session regarding management of the [[Bog Hole]] in the [[San Rafael Valley]], Arizona. The meeting brought together representatives from [[Arizona Game and Fish Department]], [[U.S. Fish...
+> -- *[[BogHoleProjectMeetingSummary_12749]]*
+
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
+> -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
+
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
+> This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
+> -- *[[LetterToCentralArizonaWaterCon_17898]]*
+
+> This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
+> -- *[[GilaTopminnowsantaCruzRiver_20207]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -311,3 +332,10 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[FishesOfTheSonoitaCreekDrainag_18558]]
 - [[AResolutionOfTheBoardOfSupervi_18593]]
 - [[BureauOfReclamationsFailureToR_18964]]
+- [[AgreementRegardingThePopulatio_12215]]
+- [[BogHoleProjectMeetingSummary_12749]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[PresenceOfAlienPupfishMayJeopa_13727]]
+- [[SkyIslandAquaticResourcesHabit_15003]]
+- [[LetterToCentralArizonaWaterCon_17898]]
+- [[GilaTopminnowsantaCruzRiver_20207]]

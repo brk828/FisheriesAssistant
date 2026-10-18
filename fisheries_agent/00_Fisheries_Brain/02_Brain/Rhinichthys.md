@@ -32,6 +32,9 @@ Rhinichthys is a genus of small freshwater cyprinid fishes commonly known as dac
 > This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
 > -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
 
+> This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
+> -- *[[FishesAndAquaticResourcesDeath_15415]]*
+
 ## Mentioned In
 - [[DiagnosesOfNewCyprinidFishesOf_1972_09_29]]
 - [[DistributionAndStatusOfLoachMi_20268]]
@@ -44,3 +47,4 @@ Rhinichthys is a genus of small freshwater cyprinid fishes commonly known as dac
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
+- [[FishesAndAquaticResourcesDeath_15415]]

@@ -41,6 +41,9 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 > This article provides an overview of whitefish species in New York waters, focusing primarily on the [[Adirondack Whitefish]] or [[Labrador Whitefish]] (Coregonus clupeaformis). Whitefish are highly valued food fish with an international reputation for flavor, occurring in at least 48 New York...
 > -- *[[Whitefish_19228]]*
 
+> This 1951 report documents the introduction program of [[Kokanee]] salmon (*Oncorhynchus nerka kennerlyi*), a landlocked form of red salmon, into [[Lake Tahoe]] to restore game fish populations following the decline of native [[Cutthroat Trout]]. The program, conducted jointly by California and...
+> -- *[[TheIntroductionOfKokaneeRedSal_18826]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -92,3 +95,4 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 - [[ConcernsAboutIntroductionOfRai_13174]]
 - [[MinnowsCyprinidae_17384]]
 - [[Whitefish_19228]]
+- [[TheIntroductionOfKokaneeRedSal_18826]]

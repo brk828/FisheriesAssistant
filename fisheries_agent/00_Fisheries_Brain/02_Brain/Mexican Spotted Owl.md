@@ -29,6 +29,9 @@ The Mexican Spotted Owl is not directly relevant to fish science or aquatic ecol
 > This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
 > -- *[[BiologicalOpinionToRepairErosi_11916]]*
 
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
 ## Mentioned In
 - [[ConcurrenceLetterOnBearCanyonT_1997_02_21]]
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
@@ -41,3 +44,4 @@ The Mexican Spotted Owl is not directly relevant to fish science or aquatic ecol
 - [[USFishAndWildlifeServiceWhiteM_1994_12_02]]
 - [[APetitionPursuantToArticleOfTh_17637]]
 - [[BiologicalOpinionToRepairErosi_11916]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]

@@ -77,6 +77,9 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > This 1953 report documents severe fishery losses resulting from [[Bureau of Reclamation]] channelization of the lower [[Colorado River]] between [[Needles]] and [[Topock]], California. Between 1936-1938, completion of [[Hoover Dam]], [[Parker Dam]], and [[Imperial Dam]] created favorable conditions...
 > -- *[[EffectOfChannelizationOnTheFis_18139]]*
 
+> This master's thesis documents a 17-month telemetry study (November 1994–August 1996) tracking movements of 20 adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a 108-km regulatory reservoir on the [[Colorado River]]. Ten individuals (4 males, 6 females) survived the study...
+> -- *[[MovementsOfAdultRazorbackSucke_12585]]*
+
 ## Mentioned In
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -113,3 +116,4 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[CommentsOnTheBiologicalOpinion_17166]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[EffectOfChannelizationOnTheFis_18139]]
+- [[MovementsOfAdultRazorbackSucke_12585]]

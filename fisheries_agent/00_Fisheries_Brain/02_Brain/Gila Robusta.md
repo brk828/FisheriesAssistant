@@ -68,6 +68,12 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This study applies multivariate discriminant analysis to meristic and morphometric data to resolve long-standing confusion in identifying three endangered [[Gila]] species from the [[Colorado Plateau]]: [[Gila robusta]] (roundtail chub), [[Gila cypha]] (humpback chub), and [[Gila elegans]]...
 > -- *[[MultivariateDiscriminationOfCo_19077]]*
 
+> This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
+> -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AResumeOfTheDetoxificationPhas_1963]]
@@ -125,3 +131,5 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[CommentsOnMRosenfeldsGilaTaxon_13067]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[MultivariateDiscriminationOfCo_19077]]
+- [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[SelectionsFromUniversityOfMich_18288]]

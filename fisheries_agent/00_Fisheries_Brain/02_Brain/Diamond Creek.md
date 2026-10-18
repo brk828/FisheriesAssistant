@@ -38,6 +38,9 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 > This document describes the comprehensive database structure developed by BIO/WEST, Inc. for the [[Glen Canyon Environmental Studies]] (GCES) investigation of [[Humpback Chub]] (*Gila cypha*) in [[Grand Canyon]]. The database encompasses 36 monthly field trips from October 1990 through November...
 > -- *[[StatusOfTheBiowestDatabase_13632]]*
 
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
 ## Mentioned In
 - [[EffectsOfInterimFlowsFromGlenC_13655]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
@@ -51,3 +54,4 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 - [[SelectiveWithdrawalWorkgroupMe_15753]]
 - [[TransitionMonitoringForRiparia_17903]]
 - [[StatusOfTheBiowestDatabase_13632]]
+- [[TailwaterFisheryInvestigationC_14594]]

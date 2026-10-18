@@ -35,6 +35,9 @@ The pumpkinseed (*Lepomis gibbosus*) is a centrarchid sunfish species commonly e
 > This note documents the first records of [[Red-ear Sunfish]] (*Lepomis microlophus*) and [[Smallmouth Bass]] (*Micropterus dolomieui*) in the lower [[Colorado River]], California. The red-ear sunfish represents a new addition to California's freshwater fish fauna, while the smallmouth bass was...
 > -- *[[TheOccurrenceOfTwoAdditionalCe_18140]]*
 
+> This 1955 report documents the distribution and status of the introduced [[Pumpkinseed]] (*Lepomis gibbosus*) in [[California]]. The species was considered rare in the state, with scattered populations in widely separated locations. The authors compile historical records from 1939-1954, correcting...
+> -- *[[TheStatusOfThePumpkinseedLepom_12862]]*
+
 ## Mentioned In
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -61,3 +64,4 @@ The pumpkinseed (*Lepomis gibbosus*) is a centrarchid sunfish species commonly e
 - [[SomeObservationsOnTheReclamati_15490]]
 - [[PrelimaryObservationsOnTheToxi_14434]]
 - [[TheOccurrenceOfTwoAdditionalCe_18140]]
+- [[TheStatusOfThePumpkinseedLepom_12862]]

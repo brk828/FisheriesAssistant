@@ -44,6 +44,12 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 > This genetic study examined 11 stream populations of presumed [[Gila Trout]] (*Oncorhynchus gilae*) using horizontal starch gel electrophoresis of 48 protein-coding loci to address two critical conservation issues: (1) detection of hybridization with [[Rainbow Trout]] (*O. mykiss*) and (2)...
 > -- *[[GeneticIssuesInTheConservation_20219]]*
 
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -112,3 +118,5 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
 - [[AuthorizationToUseTheRegionalD_15706]]
 - [[GeneticIssuesInTheConservation_20219]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[ArizonaComparativeRiskProjectE_15833]]

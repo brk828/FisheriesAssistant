@@ -29,6 +29,12 @@ Crayfish are freshwater decapod crustaceans that serve as important components o
 > This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
 > -- *[[TheMaineSmallmouth_14928]]*
 
+> This 1965 Master's thesis by Jerry Brashier examined age and growth of [[Largemouth Bass]] (*Micropterus salmoides*) in two Louisiana oxbow lakes: [[False River]] and [[Old River]], located 15 miles apart in [[Pointe Coupee Parish]]. Collections occurred March–November 1964 using electric shockers...
+> -- *[[AStudyOfTheAgeAndGrowthOfLarge_12917]]*
+
+> This FAO Fisheries Circular (No. 724 Revision 2) is a comprehensive bibliographic compilation of 255 selected reference books and monographs on freshwater aquaculture published between 1951 and 1984. Compiled by André G. Coche of the [[Inland Water Resources and Aquaculture Service]], the document...
+> -- *[[AquacultureInFreshWatersAListO_15987]]*
+
 ## Mentioned In
 - [[A New Material for Marking Kordite Line and Various Animals]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -44,3 +50,5 @@ Crayfish are freshwater decapod crustaceans that serve as important components o
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[TheMaineSmallmouth_14928]]
+- [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
+- [[AquacultureInFreshWatersAListO_15987]]

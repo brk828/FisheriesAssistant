@@ -38,6 +38,12 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 > Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
 > -- *[[SamplingAtAsuResearchParkAutum_19458]]*
 
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -64,3 +70,5 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 - [[DraftConservationStrategyVirgi_11659]]
 - [[RequestByUecToImportAndPossess_18439]]
 - [[SamplingAtAsuResearchParkAutum_19458]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[ArizonaComparativeRiskProjectE_15833]]

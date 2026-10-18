@@ -35,6 +35,9 @@ The vaquita (*Phocoena sinus*) is a critically endangered porpoise endemic to th
 > This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
 > -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
 
+> This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
+> -- *[[BuildingSuccessfulPartnerships_13226]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
@@ -46,3 +49,4 @@ The vaquita (*Phocoena sinus*) is a critically endangered porpoise endemic to th
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[BuildingSuccessfulPartnerships_13226]]

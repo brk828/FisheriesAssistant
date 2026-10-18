@@ -35,6 +35,9 @@ Section 7 Consultation refers to the mandatory process under the Endangered Spec
 > This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
 > -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
 
+> This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
+> -- *[[GilaTopminnowsantaCruzRiver_20207]]*
+
 ## Mentioned In
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
 - [[AnimasLaPlataProjectColoradoNe_14136]]
@@ -62,3 +65,4 @@ Section 7 Consultation refers to the mandatory process under the Endangered Spec
 - [[InterimProceduresForStockingNo_15423]]
 - [[SummaryjanuaryManagementGroupM_21002]]
 - [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[GilaTopminnowsantaCruzRiver_20207]]

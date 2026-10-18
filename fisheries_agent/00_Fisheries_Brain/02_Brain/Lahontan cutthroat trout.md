@@ -29,6 +29,9 @@ The Lahontan Cutthroat Trout is a threatened native salmonid species endemic to 
 > This report documents the 1987 spawning runs of the endangered [[Cui-ui]] (*Chasmistes cujus*) and threatened [[Lahontan Cutthroat Trout]] (*Salmo clarki henshawi*) at [[Marble Bluff Fish Facility]], [[Nixon, Nevada]]. The cui-ui spawning run totaled 5,301 individuals, representing 45 percent of...
 > -- *[[CuiuiAndLahontanCutthroatTrout_13865]]*
 
+> This taxonomic revision demonstrates that *[[Salmo evermanni]]*, described by Jordan and Grinnell in 1908 from the upper [[Santa Ana River]] in the [[San Bernardino Mountains]], is a junior synonym of *[[Salmo clarkii henshawi]]* (Lahontan cutthroat trout) from [[Lake Tahoe]]. The authors...
+> -- *[[SalmoEvermanniASynonymOfSalmoC_18176]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -48,3 +51,4 @@ The Lahontan Cutthroat Trout is a threatened native salmonid species endemic to 
 - [[TwoNewBloodFlukeParasitesOfTro_14426]]
 - [[AConservationorientedClassific_15455]]
 - [[CuiuiAndLahontanCutthroatTrout_13865]]
+- [[SalmoEvermanniASynonymOfSalmoC_18176]]

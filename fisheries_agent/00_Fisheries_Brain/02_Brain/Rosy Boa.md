@@ -20,6 +20,10 @@ auto_enriched: true
 > This document is a compilation of inter-office memoranda from multiple [[Arizona Game and Fish Department]] regional supervisors, law enforcement officers, and wildlife managers responding to a petition for rule change that would allow captive propagation and commercial sale of native [[Arizona]]...
 > -- *[[SeriesOfInterofficeMemosJulyAr_17328]]*
 
+> This document is a formal petition submitted to the [[Arizona Game and Fish Commission]] in 1994 by M. Brent Peugnet and the [[Arizona Herpetological Association]] (AHA, 222 members, 147 Arizona residents) requesting establishment of a new rule permitting commercial captive propagation of specific...
+> -- *[[DraftAndRevisedVersionsOfPetit_11208]]*
+
 ## Mentioned In
 - [[PetitionForNewRuleOnCaptivePro_1994_07_08]]
 - [[SeriesOfInterofficeMemosJulyAr_17328]]
+- [[DraftAndRevisedVersionsOfPetit_11208]]

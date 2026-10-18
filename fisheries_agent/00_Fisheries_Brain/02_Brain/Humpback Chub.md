@@ -233,6 +233,36 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
 > -- *[[BonytailReintroductionPlanForT_20248]]*
 
+> This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
+> -- *[[AStudyToDetermineTheBiological_11576]]*
+
+> This draft Long Range Plan (October 3, 1991) outlines the comprehensive recovery strategy for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[DraftLongRangePlan_11590]]*
+
+> This document presents the Fiscal Year 1992 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on August 15, 1991, the plan allocates $2,988,900 across five recovery...
+> -- *[[FiscalYearWorkPlan_11594]]*
+
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
+> This document is a review memo from Jim to Minck evaluating ongoing [[Glen Canyon Environmental Studies]] projects focused on [[Humpback Chub]] (*Gila cypha*) recovery. The reviewer assesses research conducted by [[Arizona State University]]/[[Navajo Nation]], [[Arizona Fish and Game Department]],...
+> -- *[[ReviewOfGlenCanyonEnvironmenta_14007]]*
+
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
+> This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
+> -- *[[DraftbonytailChubGilaElegans_14696]]*
+
+> This report presents the third year of monitoring the endangered [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona, during May 1989. Research teams established two camps and deployed up to 26 nets over 30 days, sampling from the confluence with the [[Colorado...
+> -- *[[FinalReportOnResearchConducted_18507]]*
+
+> This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
+> -- *[[CompletionReportYampawhitePhys_18677]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -646,3 +676,13 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[ManagementGroupMeetingSummary_19219]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[BonytailReintroductionPlanForT_20248]]
+- [[AStudyToDetermineTheBiological_11576]]
+- [[DraftLongRangePlan_11590]]
+- [[FiscalYearWorkPlan_11594]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[ReviewOfGlenCanyonEnvironmenta_14007]]
+- [[TailwaterFisheryInvestigationC_14594]]
+- [[DraftbonytailChubGilaElegans_14696]]
+- [[FinalReportOnResearchConducted_18507]]
+- [[CompletionReportYampawhitePhys_18677]]

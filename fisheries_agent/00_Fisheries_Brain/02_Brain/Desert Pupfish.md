@@ -110,6 +110,33 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
 > -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
 
+> This Federal Register document (Vol. 51, No. 61, March 31, 1986) announces the U.S. Fish and Wildlife Service's final determination to list the [[Desert Pupfish]] (*Cyprinodon macularius*) as an endangered species under the Endangered Species Act of 1973, as amended. The rule also designates...
+> -- *[[EndangeredAndThreatenedWildlif_11555]]*
+
+> This correspondence from the [[U.S. Forest Service]] [[Coronado National Forest]] summarizes a March 1989 work session regarding management of the [[Bog Hole]] in the [[San Rafael Valley]], Arizona. The meeting brought together representatives from [[Arizona Game and Fish Department]], [[U.S. Fish...
+> -- *[[BogHoleProjectMeetingSummary_12749]]*
+
+> This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
+> -- *[[BuildingSuccessfulPartnerships_13226]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
+> -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
+
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
+> This Bureau of Land Management report documents the 1991 renovation of [[Mesquite Spring]] in Pinal County, Arizona, and an unsuccessful attempt to re-establish a population of [[Desert Pupfish]] (*Cyprinodon macularius macularius*). The spring had been originally stocked with 200 pupfish in...
+> -- *[[RenovationOfMesquiteSpringAndS_17653]]*
+
+> This study examines allozymic variation in wild and captive populations of endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) from the [[Lower Colorado River]] basin and [[Salton Sink]]. Four polymorphic loci were surveyed across 13 populations (9 captive, 4 wild). Few consistent...
+> -- *[[AllozymicVariationInDesertPupf_19162]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -307,3 +334,12 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[AResolutionOfTheBoardOfSupervi_18593]]
 - [[BureauOfReclamationsFailureToR_18964]]
 - [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[EndangeredAndThreatenedWildlif_11555]]
+- [[BogHoleProjectMeetingSummary_12749]]
+- [[BuildingSuccessfulPartnerships_13226]]
+- [[PresenceOfAlienPupfishMayJeopa_13727]]
+- [[SkyIslandAquaticResourcesHabit_15003]]
+- [[ArizonaComparativeRiskProjectE_15833]]
+- [[FishIntroductionsGoodManagemen_17630]]
+- [[RenovationOfMesquiteSpringAndS_17653]]
+- [[AllozymicVariationInDesertPupf_19162]]

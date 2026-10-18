@@ -11,5 +11,9 @@ The White Mountain Apache Reservation contains four Gila populations in Salt Riv
 > This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
 > -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
 
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
 ## Mentioned In
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]

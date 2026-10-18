@@ -23,6 +23,9 @@ Black Rocks is a geomorphological section of the Upper Colorado River located be
 > This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
 > -- *[[BonytailReintroductionPlanForT_20248]]*
 
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
 ## Mentioned In
 - [[HatcheryAndLaboratoryPhaseOfTh_1980]]
 - [[InteragencyStandardizedMonitor_1993]]
@@ -31,3 +34,4 @@ Black Rocks is a geomorphological section of the Upper Colorado River located be
 - [[TemporalAndSpatialRelationsBet_17861]]
 - [[AprilManagementGroupMeetingSum_19221]]
 - [[BonytailReintroductionPlanForT_20248]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]

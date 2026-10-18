@@ -38,6 +38,9 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 > This 1957 technical report documents a comprehensive survey of bass tapeworm ([[Proteocephalus ambloplitis]]) infections across 124 lakes and ponds in southern [[New Hampshire]]. Conducted during 1955-1956 under the Dingell-Johnson Project F-8-R, the study examined 1,960 fish representing 12...
 > -- *[[TheIncidenceAndDistributionOfT_15429]]*
 
+> This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
+> -- *[[TheDesirabilityOfIntroducingWh_16080]]*
+
 ## Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -53,3 +56,4 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 - [[Perch_16750]]
 - [[TheMaineSmallmouth_14928]]
 - [[TheIncidenceAndDistributionOfT_15429]]
+- [[TheDesirabilityOfIntroducingWh_16080]]

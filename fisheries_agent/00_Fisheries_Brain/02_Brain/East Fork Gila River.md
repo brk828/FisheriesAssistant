@@ -11,7 +11,11 @@ auto_enriched: true
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
+> -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_16787]]
 - [[FisherySurveyOfTheGilaRiverWit_1995_09_19]]
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[HabitatStudyOfRoundtailChubGil_18268]]

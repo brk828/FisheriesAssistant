@@ -23,6 +23,9 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 > This paper presents methods and results from radiotelemetry studies of [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the [[Green River]] basin (1980-1985), evaluating radiotracking success in high-conductivity waters and comparing habitat data obtained via radiotelemetry versus electrofishing....
 > -- *[[AcquisitionOfHabitatPreference_11568]]*
 
+> This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
+> -- *[[CompletionReportYampawhitePhys_18677]]*
+
 ## Mentioned In
 - [[AnInstreamFlowPhilosophyForRec_13064]]
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
@@ -30,3 +33,4 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 - [[ResponseToWashingtonCountyWate_1998]]
 - [[BiologicalAssessmentForTheSpik_11476]]
 - [[AcquisitionOfHabitatPreference_11568]]
+- [[CompletionReportYampawhitePhys_18677]]

@@ -26,8 +26,12 @@ The Rio Grande Killifish (*Fundulus zebrinus*) is a small cyprinodontid fish nat
 > The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
 > -- *[[EndangeredAndThreatenedWildlif_11564]]*
 
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
 ## Mentioned In
 - [[GlenCanyonEnvironmentalStudies_19698]]
 - [[NotesOnTheFishesOfTheColoradoR_13441]]
 - [[SummerDistributionAndReproduct_18541]]
 - [[EndangeredAndThreatenedWildlif_11564]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]

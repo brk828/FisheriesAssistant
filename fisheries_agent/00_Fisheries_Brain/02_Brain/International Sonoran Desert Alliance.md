@@ -11,5 +11,9 @@ The International Sonoran Desert Alliance is a non-governmental organization tha
 > This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
 > -- *[[SummaryOfEvents_18368]]*
 
+> This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
+> -- *[[BuildingSuccessfulPartnerships_13226]]*
+
 ## Mentioned In
 - [[SummaryOfEvents_18368]]
+- [[BuildingSuccessfulPartnerships_13226]]

@@ -11,7 +11,11 @@ auto_enriched: true
 > This correspondence from the [[Arizona Department of Environmental Quality]] documents a March 31, 1993 field assessment of mine tailings at [[Klondyke]] and their impact on [[Aravaipa Creek]] water quality. Twenty-four samples were collected including well water, surface water, subsurface water,...
 > -- *[[ReevidenceOfTailingsTransportI_14555]]*
 
+> This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
+> -- *[[GilaTopminnowsantaCruzRiver_20207]]*
+
 ## Mentioned In
 - [[LetterAppointingWendellMinckle_1993_05_18]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[ReevidenceOfTailingsTransportI_14555]]
+- [[GilaTopminnowsantaCruzRiver_20207]]

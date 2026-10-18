@@ -11,5 +11,9 @@ Virginia Polytechnic Institute is the academic institution where Dr. Bruce J. Tu
 > This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
 > -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
 
+> This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
+> -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
+
 ## Mentioned In
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
+- [[PresenceOfAlienPupfishMayJeopa_13727]]

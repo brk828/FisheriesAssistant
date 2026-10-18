@@ -47,6 +47,9 @@ Pyramid Lake is a terminal freshwater lake in Nevada that serves as the primary 
 > This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
 > -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
 
+> This document is correspondence from Tom Strekal, Team Leader, scheduling a [[Cui-ui]] Recovery Team meeting for November 29, 1990, in Reno, Nevada. The meeting addresses the urgent completion of the draft [[Cui-ui]] Recovery Plan, mandated by Senate Bill 3084 (Truckee-Carson-Pyramid Lake Water...
+> -- *[[IssuesToDiscussAndResolveAtCui_14619]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[AllozymeDifferencesDuplicateGe_11423]]
@@ -97,3 +100,4 @@ Pyramid Lake is a terminal freshwater lake in Nevada that serves as the primary 
 - [[DraftMinutesOfTheOctoberRecove_13868]]
 - [[CuiuiRecoveryTeamMeetingMinute_13872]]
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
+- [[IssuesToDiscussAndResolveAtCui_14619]]

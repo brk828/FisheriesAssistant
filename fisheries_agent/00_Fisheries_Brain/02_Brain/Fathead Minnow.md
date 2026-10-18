@@ -80,6 +80,18 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This report documents intensive field research conducted during May 1988 on the [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona. The study employed multiple netting methods (trammel nets, hoop nets, fyke nets, seines, drift nets) operated continuously over 28...
 > -- *[[SummaryReportOnResearchConduct_18505]]*
 
+> This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
+> -- *[[AStudyToDetermineTheBiological_11576]]*
+
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
+> This report presents the third year of monitoring the endangered [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona, during May 1989. Research teams established two camps and deployed up to 26 nets over 30 days, sampling from the confluence with the [[Colorado...
+> -- *[[FinalReportOnResearchConducted_18507]]*
+
+> This 1973 study evaluated two experimental fish diets combining roasted soybeans with fresh [[Gizzard Shad]] (Dorosoma cepedianum) as alternatives to commercial [[Oregon Pellets]] for feeding yearling [[Channel Catfish]] (Ictalurus punctatus). Both experimental formulations—one with 50% roasted...
+> -- *[[APreliminaryEvaluationOfAFishD_20313]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -193,3 +205,7 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[PropagationOfBaitMinnowsInCali_18150]]
 - [[SummaryReportOnResearchConduct_18505]]
+- [[AStudyToDetermineTheBiological_11576]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[FinalReportOnResearchConducted_18507]]
+- [[APreliminaryEvaluationOfAFishD_20313]]

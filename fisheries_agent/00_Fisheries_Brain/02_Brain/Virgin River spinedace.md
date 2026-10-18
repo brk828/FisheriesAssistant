@@ -29,6 +29,15 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 > The [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*) is a threatened subspecies of cyprinid fish endemic to [[Meadow Valley Wash]] in [[Lincoln County]], Nevada. The only extant population occupies a 5-mile section of stream through [[Condor Canyon]], making it extremely vulnerable to...
 > -- *[[BigSpringSpinedaceLepidomedaMo_11635]]*
 
+> The [[White River Spinedace]] (*Lepidomeda albivallis*) is a federally endangered cyprinid fish endemic to northern [[White River Valley]] in [[Nevada]]. As of June 1991, the species persisted in only one of seven historically occupied habitats—the northern spring of the [[Flag Springs]]...
+> -- *[[WhiteRiverSpinedaceLepidomedaA_11636]]*
+
+> This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
+> -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
+
+> This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
+> -- *[[AmericanRiversScientificAndTec_15167]]*
+
 ## Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -45,3 +54,6 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 - [[VirginRiverOperationOctober_1988_10_04]]
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[BigSpringSpinedaceLepidomedaMo_11635]]
+- [[WhiteRiverSpinedaceLepidomedaA_11636]]
+- [[BiologicalOpinionOnTheEffectsO_11915]]
+- [[AmericanRiversScientificAndTec_15167]]

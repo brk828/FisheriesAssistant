@@ -20,9 +20,13 @@ Sculpins are small benthic fishes found in freshwater and marine environments th
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
 ## Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
 - [[ChemicalTreatmentOfTheMercedRi_13362]]
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]

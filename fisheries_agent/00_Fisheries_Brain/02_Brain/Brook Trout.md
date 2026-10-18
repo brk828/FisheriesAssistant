@@ -71,6 +71,18 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
 > -- *[[SummaryStatementOfInsightsFrom_20854]]*
 
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
+> This three-year study (1952-1954) of [[Forest Lake]], a 32.5-acre reservoir on [[Grand Mesa]] in [[Delta County]], [[Colorado]], evaluated marked fish returns, creel census data, food utilization, limnology, and age-growth characteristics of [[Rainbow Trout]], [[Brook Trout]], and [[Native Trout]]...
+> -- *[[ForestLakeMarkedFishStudies_15614]]*
+
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -161,3 +173,7 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[TheMaineSmallmouth_14928]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[SummaryStatementOfInsightsFrom_20854]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[ForestLakeMarkedFishStudies_15614]]
+- [[NativeRockyMountainTroutAndSto_17773]]

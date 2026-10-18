@@ -32,6 +32,9 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This 1971 academic paper by John N. Rinne examines the [[Pleistocene Epoch]] from multiple perspectives: climatic causes, chronological methods, hydrological conditions, and faunal evidence. The document emphasizes that the Pleistocene was characterized by dramatic climatic oscillations, extensive...
+> -- *[[ThePleistoceneItsClimateCauses_14987]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -42,3 +45,4 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[ThePleistoceneItsClimateCauses_14987]]

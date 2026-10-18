@@ -47,6 +47,12 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 > This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
 > -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
 
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -104,3 +110,5 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 - [[IntegrationOfNewMethodologiesI_2025]]
 - [[VerdeRiverPerkinsvillesycamore_2023]]
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]

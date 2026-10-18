@@ -23,6 +23,12 @@ A Salmon River refers to any river system or tributary that supports Pacific sal
 > This annual progress report documents the 1966 [[Chinook Salmon]] spawning ground surveys conducted in the [[Salmon River]] drainage, Idaho, from August 1 to September 30, 1966. Spring and summer chinook salmon spawning runs into Idaho in 1966 were larger than those of 1965, though the summer-run...
 > -- *[[SalmonAndSteelheadInvestigatio_12147]]*
 
+> This annual progress report documents chinook salmon spawning ground surveys conducted in the [[Salmon River]] drainage, Idaho, from August 1, 1966 to September 30, 1966 (reported in 1967-1968). The survey recorded 7,546 chinook salmon redds across the drainage, representing a 4.6% increase from...
+> -- *[[SalmonSpawningGroundSurveysSal_17594]]*
+
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[ChinookSalmonPondRearingStudie_16813]]
@@ -30,3 +36,5 @@ A Salmon River refers to any river system or tributary that supports Pacific sal
 - [[TwoYearCreelCensusOfTheLittleS_1955]]
 - [[StatewideFishingHarvestSurvey_17659]]
 - [[SalmonAndSteelheadInvestigatio_12147]]
+- [[SalmonSpawningGroundSurveysSal_17594]]
+- [[NativeRockyMountainTroutAndSto_17773]]

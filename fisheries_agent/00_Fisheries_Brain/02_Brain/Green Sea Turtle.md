@@ -17,7 +17,11 @@ auto_enriched: true
 > This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
 > -- *[[AllocatingFreshWaterToAquaticE_18641]]*
 
+> This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
+> -- *[[BuildingSuccessfulPartnerships_13226]]*
+
 ## Mentioned In
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
 - [[ReminiscencesOfASouthernTrip_17598]]
 - [[AllocatingFreshWaterToAquaticE_18641]]
+- [[BuildingSuccessfulPartnerships_13226]]

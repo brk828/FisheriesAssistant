@@ -86,6 +86,18 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 > This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
 > -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
 
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This December 26, 1984 memorandum from the Regional Director of [[U.S. Fish and Wildlife Service]] Region 2 (Southeast) updates internal procedures for [[Endangered Species Act]] (ESA) Section 7 consultations. Effective immediately, Ecological Services field offices will conduct intra-Service...
+> -- *[[RegionEndangeredSpeciesActIntr_11825]]*
+
+> This correspondence from the Arizona Game & Fish Department provides a detailed review of a draft final report examining interactions between the threatened [[Spikedace]] (*[[Meda fulgida]]*) and the introduced [[Red Shiner]] (*[[Cyprinella lutrensis]]*). The review, dated August 2, 1989, was...
+> -- *[[ReviewOfTheDraftReportEntitled_12983]]*
+
+> This legal analysis examines the comprehensive federal and state environmental regulatory framework governing the domestic copper mining industry in the United States as of the early 1990s. The document focuses on major environmental statutes including the [[Resource Conservation and Recovery Act]]...
+> -- *[[OverviewOfEnvironmentalRegulat_18083]]*
+
 ## Mentioned In
 - [[AuthorizationLetterForGilaTopm_1990_11_21]]
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
@@ -119,3 +131,7 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
 - [[FishesOfTheSonoitaCreekDrainag_18558]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[RegionEndangeredSpeciesActIntr_11825]]
+- [[ReviewOfTheDraftReportEntitled_12983]]
+- [[OverviewOfEnvironmentalRegulat_18083]]

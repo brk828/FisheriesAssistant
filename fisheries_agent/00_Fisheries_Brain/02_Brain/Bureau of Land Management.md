@@ -83,6 +83,15 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 > This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
 > -- *[[DesertFishesRecoveryTeamAddres_13785]]*
 
+> This document is the final rule issued by the [[U.S. Fish and Wildlife Service]] on August 27, 1984, implementing Section 10(j) of the [[Endangered Species Act]] (ESA) as amended in 1982. The rule establishes procedures for designating and managing "experimental populations" of endangered or...
+> -- *[[EndangeredAndThreatenedWildlif_11548]]*
+
+> This memorandum and preliminary draft management plan, dated August 11, 1998, addresses implementation of Reasonable and Prudent Alternative (RPA) 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The RPA requires establishment of...
+> -- *[[PreliminaryDraftManagementPlan_16433]]*
+
+> This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
+> -- *[[CompletionReportYampawhitePhys_18677]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -159,3 +168,6 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[MinutesDesertFishesRecoveryTea_13749]]
 - [[DesertFishesRecoveryTeamAddres_13785]]
+- [[EndangeredAndThreatenedWildlif_11548]]
+- [[PreliminaryDraftManagementPlan_16433]]
+- [[CompletionReportYampawhitePhys_18677]]

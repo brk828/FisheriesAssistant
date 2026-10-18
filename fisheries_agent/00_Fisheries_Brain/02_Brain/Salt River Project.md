@@ -26,6 +26,15 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 > This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
 > -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
 
+> This March 7, 1988 correspondence from SWCA, Inc. Environmental Consultants to Dr. W. L. Minckley at [[Arizona State University]] outlines an environmental investigation for the [[Salt River Project]] regarding the proposed removal of [[Roosevelt Diversion Dam]]. The assessment focuses on four...
+> -- *[[LetterToWlMinckleyRemovalOfRoo_12727]]*
+
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
+> -- *[[LetterToCentralArizonaWaterCon_17898]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[CompilationOfCommentsOnBigRive_11763]]
@@ -35,3 +44,6 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[SummaryOfFyFishSurveysInBehalf_17018]]
 - [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[LetterToWlMinckleyRemovalOfRoo_12727]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[LetterToCentralArizonaWaterCon_17898]]

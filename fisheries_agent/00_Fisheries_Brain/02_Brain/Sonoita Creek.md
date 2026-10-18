@@ -38,6 +38,12 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 > This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
 > -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
+> This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
+> -- *[[GilaTopminnowsantaCruzRiver_20207]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -53,3 +59,5 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 - [[MolecularVariationAndEvolution_18435]]
 - [[StatusReportForNaturalAndIntro_12972]]
 - [[FishesOfTheSonoitaCreekDrainag_18558]]
+- [[SkyIslandAquaticResourcesHabit_15003]]
+- [[GilaTopminnowsantaCruzRiver_20207]]

@@ -11,6 +11,10 @@ auto_enriched: true
 > - **Habitat context:** All species are freshwater fish native to North American lakes, rivers, and hatchery systems; tested in reconstituted deionized water under controlled laboratory water-quality regimes (soft, medium, hard — categorized by CaSO₄, MgSO₄, and KCl concentrations). - **Trophic/ta...
 > -- *[[ToxicityOfDimethylSulfoxideDms_13283]]*
 
+> This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
+> -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
+
 ## Mentioned In
 - [[FindingOfNoSignificantImpactAr_11493]]
 - [[ToxicityOfDimethylSulfoxideDms_13283]]
+- [[SafetyAsRelatedToTheUseOfChemi_11812]]

@@ -29,6 +29,9 @@ Pacific Salmon refers to anadromous fish species (primarily Oncorhynchus spp.) n
 > This fishery leaflet provides a comprehensive overview of columnaris disease, a significant bacterial infection affecting freshwater fishes. The disease, caused by slime bacteria (*Chondrococcus columnaris* or *Cytophaga columnaris*), manifests as grayish-white lesions resembling fungal infections...
 > -- *[[ColumnarisDiseaseOfFishes_21236]]*
 
+> This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
+> -- *[[AStudyToDetermineTheBiological_11576]]*
+
 ## Mentioned In
 - [[ASystemForRecordingMeasurement_1947]]
 - [[DamRemovalWhoShouldPay_1999_09_26]]
@@ -54,3 +57,4 @@ Pacific Salmon refers to anadromous fish species (primarily Oncorhynchus spp.) n
 - [[WesternWaterPolicyFromReclamat_1999_06_08]]
 - [[ASteelheadMigrationInShastaRiv_21255]]
 - [[ColumnarisDiseaseOfFishes_21236]]
+- [[AStudyToDetermineTheBiological_11576]]

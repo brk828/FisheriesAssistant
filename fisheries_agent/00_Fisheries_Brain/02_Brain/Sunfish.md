@@ -32,6 +32,9 @@ Sunfish (family Centrarchidae) are small to medium-sized freshwater fishes nativ
 > This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
 > -- *[[TheMaineSmallmouth_14928]]*
 
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -55,3 +58,4 @@ Sunfish (family Centrarchidae) are small to medium-sized freshwater fishes nativ
 - [[WhatHaveICaught_12929]]
 - [[RoughFishControl_20167]]
 - [[TheMaineSmallmouth_14928]]
+- [[FishingEffortAndHarvestByArizo_15066]]

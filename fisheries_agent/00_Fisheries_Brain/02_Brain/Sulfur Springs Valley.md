@@ -11,5 +11,9 @@ Sulfur Springs Valley is an immense valley in southeastern Arizona whose floor w
 > This historical account documents the botanical work of Swiss-born botanist [[Jacob Corwin Blumer]] (1872-1947) in southeastern [[Arizona Territory]] between August 1906 and October 1907. Blumer made the first extensive plant collections in the [[Chiricahua Mountains]], traveling more than 1,600...
 > -- *[[ABotanistInArizonaTerritoryJac_13225]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[ABotanistInArizonaTerritoryJac_13225]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

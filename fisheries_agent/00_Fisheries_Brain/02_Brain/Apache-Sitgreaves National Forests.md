@@ -26,6 +26,12 @@ The Apache-Sitgreaves National Forests represent a critical landscape for the co
 > This biological opinion, issued April 21, 1995, addresses emergency and follow-up repair of flood damage to a low-water ford crossing of the [[Blue River]] on Forest Road 475 in the [[Apache-Sitgreaves National Forests]], [[Greenlee County]], [[Arizona]]. The U.S. Forest Service (lead agency) and...
 > -- *[[SummaryBiologicalOpinionForRep_11720]]*
 
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
 ## Mentioned In
 - [[ChallengeCostShareAgreementBet_1993_09_15]]
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
@@ -33,3 +39,5 @@ The Apache-Sitgreaves National Forests represent a critical landscape for the co
 - [[LetterConcurringOnTenneyTimber_1994_07_22]]
 - [[TripReportBlueRiverDecember_1994_12_16]]
 - [[SummaryBiologicalOpinionForRep_11720]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]

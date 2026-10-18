@@ -38,6 +38,9 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 > This study plan outlines an Advanced Identification (ADID) process for the [[Verde River]], Arizona, conducted by the U.S. Fish and Wildlife Service Phoenix Field Office in August 1991. The ADID aims to protect the Verde River aquatic ecosystem by evaluating approximately 125 river miles from...
 > -- *[[AdvancedIdentificationOfFuncti_11587]]*
 
+> This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
+> -- *[[AmericanRiversScientificAndTec_15167]]*
+
 ## Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[DesertFishesRecoveryTeamAction_11691]]
@@ -53,3 +56,4 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 - [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
 - [[VerdeRiverAdvancedIdentificati_11367]]
 - [[AdvancedIdentificationOfFuncti_11587]]
+- [[AmericanRiversScientificAndTec_15167]]

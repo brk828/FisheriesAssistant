@@ -26,9 +26,13 @@ Catostomus bernardini is a native sucker species (Family Catostomidae) endemic t
 > This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
 > -- *[[ReportToTheDesertFishesCouncil_13683]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[EcologicalObservationsOfNative_1988]]
 - [[ItineraryForRioYaquiFishesCapt_1987_09_14]]
 - [[LetterRegardingPlansToObtainLi_1986_12_10]]
 - [[ReEvaluationOfTheNativeFishesO_12336]]
 - [[ReportToTheDesertFishesCouncil_13683]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

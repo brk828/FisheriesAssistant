@@ -56,6 +56,18 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > This letter from an Arizona State University zoologist to the U.S. Fish and Wildlife Service, dated July 20, 1990, provides expert commentary on the proposed rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as endangered under the Endangered Species Act. While strongly supporting the...
 > -- *[[SupportForListingTheRazorbackS_13791]]*
 
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
+> -- *[[LetterToCentralArizonaWaterCon_17898]]*
+
+> This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
+> -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -191,3 +203,7 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[PreliminaryReviewAndAnalysisOf_11672]]
 - [[GeneticVariationAmongLowerColo_12776]]
 - [[SupportForListingTheRazorbackS_13791]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[LetterToCentralArizonaWaterCon_17898]]
+- [[HabitatStudyOfRoundtailChubGil_18268]]

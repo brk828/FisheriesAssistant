@@ -14,7 +14,11 @@ auto_enriched: true
 > This genetic survey assessed mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations (226 specimens) and one captive stock at [[Dexter National Fish Hatchery]] (33 specimens). Using PCR-SSCP analysis of the mitochondrial ND2 gene and D-loop sequencing, the study...
 > -- *[[GeneticVariationInDesertPupfis_15731]]*
 
+> This study examines allozymic variation in wild and captive populations of endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) from the [[Lower Colorado River]] basin and [[Salton Sink]]. Four polymorphic loci were surveyed across 13 populations (9 captive, 4 wild). Few consistent...
+> -- *[[AllozymicVariationInDesertPupf_19162]]*
+
 ## Mentioned In
 - [[EvaluationOfDesertPupfishRecov_19158]]
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
 - [[GeneticVariationInDesertPupfis_15731]]
+- [[AllozymicVariationInDesertPupf_19162]]

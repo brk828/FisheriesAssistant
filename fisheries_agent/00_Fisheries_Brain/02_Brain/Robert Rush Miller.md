@@ -26,6 +26,9 @@ Robert Rush Miller was a prominent ichthyologist who collaborated with Carl L. H
 > This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
 > -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
 
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CommentsOnTheProposedConservat_15239]]
@@ -36,3 +39,4 @@ Robert Rush Miller was a prominent ichthyologist who collaborated with Carl L. H
 - [[SummerDistributionAndReproduct_18541]]
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[TaxonomicStatusEcologyAndDistr_14514]]
+- [[SelectionsFromUniversityOfMich_18288]]

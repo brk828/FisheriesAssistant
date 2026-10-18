@@ -47,6 +47,9 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This internal memorandum provides critical review of a U.S. Fish and Wildlife Service Environmental Assessment (EA) proposing rotenone treatment of the [[Virgin River]] to eradicate introduced [[Red Shiner]] (*Cyprinella lutrensis*) and facilitate recovery of the endangered [[Woundfin]]...
 > -- *[[CommentsOnVirginRiverEa_19382]]*
 
+> This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
+> -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
+
 ## Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -96,3 +99,4 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[BiologicalOpinionForLakeHavasu_11704]]
 - [[BiologicalOpinionForLakeHavasu_11881]]
 - [[CommentsOnVirginRiverEa_19382]]
+- [[BiologicalOpinionOnTheEffectsO_11915]]

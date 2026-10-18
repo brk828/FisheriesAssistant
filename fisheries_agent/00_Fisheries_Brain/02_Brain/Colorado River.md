@@ -422,6 +422,96 @@ The Colorado River is a major southwestern North American river system that serv
 > This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
 > -- *[[FyReportingAndAccounting_21020]]*
 
+> This dissertation proposal by Carol L. Secor (Arizona State University, 1998) outlines a comprehensive study to test whether introgressive hybridization with [[Pantosteus discobolus]] (bluehead sucker) has shaped the genetic and morphological patterns observed in the [[Pantosteus clarki]] (desert...
+> -- *[[DrafInfluenceOfHybridizationOn_11330]]*
+
+> This Federal Register document (Vol. 51, No. 61, March 31, 1986) announces the U.S. Fish and Wildlife Service's final determination to list the [[Desert Pupfish]] (*Cyprinodon macularius*) as an endangered species under the Endangered Species Act of 1973, as amended. The rule also designates...
+> -- *[[EndangeredAndThreatenedWildlif_11555]]*
+
+> This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
+> -- *[[AStudyToDetermineTheBiological_11576]]*
+
+> This draft Long Range Plan (October 3, 1991) outlines the comprehensive recovery strategy for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[DraftLongRangePlan_11590]]*
+
+> This document presents the Fiscal Year 1992 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on August 15, 1991, the plan allocates $2,988,900 across five recovery...
+> -- *[[FiscalYearWorkPlan_11594]]*
+
+> The [[White River Spinedace]] (*Lepidomeda albivallis*) is a federally endangered cyprinid fish endemic to northern [[White River Valley]] in [[Nevada]]. As of June 1991, the species persisted in only one of seven historically occupied habitats—the northern spring of the [[Flag Springs]]...
+> -- *[[WhiteRiverSpinedaceLepidomedaA_11636]]*
+
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
+> This master's thesis documents a 17-month telemetry study (November 1994–August 1996) tracking movements of 20 adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a 108-km regulatory reservoir on the [[Colorado River]]. Ten individuals (4 males, 6 females) survived the study...
+> -- *[[MovementsOfAdultRazorbackSucke_12585]]*
+
+> This document is a review memo from Jim to Minck evaluating ongoing [[Glen Canyon Environmental Studies]] projects focused on [[Humpback Chub]] (*Gila cypha*) recovery. The reviewer assesses research conducted by [[Arizona State University]]/[[Navajo Nation]], [[Arizona Fish and Game Department]],...
+> -- *[[ReviewOfGlenCanyonEnvironmenta_14007]]*
+
+> This report documents the fourth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The study, conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]] from February 1, 1966 to January 31, 1967,...
+> -- *[[ReservoirFisheriesInvestigatio_14589]]*
+
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
+> This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
+> -- *[[DraftbonytailChubGilaElegans_14696]]*
+
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
+> This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
+> -- *[[AmericanRiversScientificAndTec_15167]]*
+
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
+> This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
+> -- *[[FisheriesManagementOfElCapitan_16317]]*
+
+> This memorandum and preliminary draft management plan, dated August 11, 1998, addresses implementation of Reasonable and Prudent Alternative (RPA) 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The RPA requires establishment of...
+> -- *[[PreliminaryDraftManagementPlan_16433]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
+> This report presents the third year of monitoring the endangered [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona, during May 1989. Research teams established two camps and deployed up to 26 nets over 30 days, sampling from the confluence with the [[Colorado...
+> -- *[[FinalReportOnResearchConducted_18507]]*
+
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
+> This FY 1993 annual project report documents a genetic diversity study of the [[Razorback Sucker]] (*Xyrauchen texanus*), a large, long-lived catostomid endemic to the [[Colorado River]] drainage. The research examined mitochondrial DNA (mtDNA) variation in the [[Lake Mohave]] source population and...
+> -- *[[FyAnnualProjectReportColoradoR_19124]]*
+
+> This study examines allozymic variation in wild and captive populations of endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) from the [[Lower Colorado River]] basin and [[Salton Sink]]. Four polymorphic loci were surveyed across 13 populations (9 captive, 4 wild). Few consistent...
+> -- *[[AllozymicVariationInDesertPupf_19162]]*
+
+> This document presents a restoration plan for the federally endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Upper Colorado River Basin]]. Once abundant throughout the [[Colorado River Basin]], the species has been virtually extirpated from riverine habitats in the lower basin due to...
+> -- *[[RestorationPlanForRazorbackSuc_20599]]*
+
+> This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
+> -- *[[BureauOfReclamationAnnouncesPu_20788]]*
+
+> Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
+> -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
+
+> This 1918 taxonomic description by [[John Otterbein Snyder]] documents the fish fauna of the [[Mohave River]] in southern California, identifying a single species belonging to the genus *[[Siphateles]]*. The author describes *Siphateles mohavensis* as a new species distinct from geographically...
+> -- *[[TheFishesOfMohaveRiverCaliforn_21253]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -872,3 +962,33 @@ The Colorado River is a major southwestern North American river system that serv
 - [[BonytailReintroductionPlanForT_20248]]
 - [[FishAndWildlifeServiceIssuesDr_20983]]
 - [[FyReportingAndAccounting_21020]]
+- [[DrafInfluenceOfHybridizationOn_11330]]
+- [[EndangeredAndThreatenedWildlif_11555]]
+- [[AStudyToDetermineTheBiological_11576]]
+- [[DraftLongRangePlan_11590]]
+- [[FiscalYearWorkPlan_11594]]
+- [[WhiteRiverSpinedaceLepidomedaA_11636]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[MovementsOfAdultRazorbackSucke_12585]]
+- [[ReviewOfGlenCanyonEnvironmenta_14007]]
+- [[ReservoirFisheriesInvestigatio_14589]]
+- [[TailwaterFisheryInvestigationC_14594]]
+- [[ProgressReportOfTheCultureOfTi_14692]]
+- [[DraftbonytailChubGilaElegans_14696]]
+- [[FishingEffortAndHarvestByArizo_15066]]
+- [[AmericanRiversScientificAndTec_15167]]
+- [[ArizonaComparativeRiskProjectE_15833]]
+- [[FisheriesManagementOfElCapitan_16317]]
+- [[PreliminaryDraftManagementPlan_16433]]
+- [[FishIntroductionsGoodManagemen_17630]]
+- [[NativeRockyMountainTroutAndSto_17773]]
+- [[SelectionsFromUniversityOfMich_18288]]
+- [[FinalReportOnResearchConducted_18507]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]
+- [[FyAnnualProjectReportColoradoR_19124]]
+- [[AllozymicVariationInDesertPupf_19162]]
+- [[RestorationPlanForRazorbackSuc_20599]]
+- [[BureauOfReclamationAnnouncesPu_20788]]
+- [[MinutesOfTheMeetingOfTheTechni_20887]]
+- [[TheFishesOfMohaveRiverCaliforn_21253]]

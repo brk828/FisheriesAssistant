@@ -11,6 +11,10 @@ auto_enriched: true
 > These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
 > -- *[[LectureNotesFromBiologyClass_13784]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[DrainageMapOfArizonaShowingPer_13007]]
 - [[LectureNotesFromBiologyClass_13784]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

@@ -41,6 +41,18 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
 > -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
 
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
+> This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
+> -- *[[TheDesirabilityOfIntroducingWh_16080]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -72,3 +84,7 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[TheVertebratesOfArizona_1964]]
 - [[ResultsOfAnOpeningWeekCreelCen_17745]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[FishingEffortAndHarvestByArizo_15066]]
+- [[TheDesirabilityOfIntroducingWh_16080]]
+- [[FishIntroductionsGoodManagemen_17630]]

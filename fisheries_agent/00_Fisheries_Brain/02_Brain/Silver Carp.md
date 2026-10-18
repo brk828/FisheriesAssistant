@@ -20,9 +20,13 @@ Silver Carp (*Hypophthalmichthys molitrix*) is a planktivorous cyprinid fish nat
 > This memorandum from the California Department of Fish and Game to the Fish and Game Commission addresses a request by [[United Energy Corporation]] (UEC) to import and possess eight exotic fish species for aquaculture and research at a facility near [[Yermo]], [[San Bernardino County]]. The...
 > -- *[[RequestByUecToImportAndPossess_18439]]*
 
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[ComputerizedDataBaseForExoticF_1991]]
 - [[EscapeOfHybridGrassXBigheadCar_1983]]
 - [[EvaluationOfBalanceBetweenFish_13453]]
 - [[LetterFromDesertFishesCouncilO_1984_07_30]]
 - [[RequestByUecToImportAndPossess_18439]]
+- [[ArizonaComparativeRiskProjectE_15833]]

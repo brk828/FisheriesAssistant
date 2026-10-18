@@ -35,6 +35,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
 > -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
 
+> Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
+> -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -50,3 +53,4 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
 - [[ProjectReportGrandLakeShadowMo_16322]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[MinutesOfTheMeetingOfTheTechni_20887]]

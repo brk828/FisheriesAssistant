@@ -20,6 +20,9 @@ Page Springs Hatchery was a fish propagation facility involved in razorback suck
 > - **Rock Tank** (stocked 31 Mar 1987, 30,000 larvae, ~1.0 cm TL): - May 1988: 20.6 cm TL (n=14) - 07 December 1988: 25.7 cm TL (n=44) - 01 October 1989: 24.9 cm TL (n=28) — a decline attributed to differential mortality of larger fish under low-water/high-temperature summer stress. - At the Decem...
 > -- *[[SamplingAtBuenosAiresNwrSeptem_17033]]*
 
+> This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
+> -- *[[DraftbonytailChubGilaElegans_14696]]*
+
 ## Mentioned In
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
 - [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
@@ -27,3 +30,4 @@ Page Springs Hatchery was a fish propagation facility involved in razorback suck
 - [[LifeHistoryOfTheRazorbackSucke_18590]]
 - [[SamplingAtBuenosAiresNwrSeptem_17033]]
 - [[StudiesOnTheRazorbackSuckerXyr_1974_06_18]]
+- [[DraftbonytailChubGilaElegans_14696]]

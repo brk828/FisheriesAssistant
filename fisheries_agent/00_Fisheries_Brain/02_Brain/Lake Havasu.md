@@ -77,6 +77,15 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
 > -- *[[IntroductionOfPalaemonetesPalu_20723]]*
 
+> This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
+> -- *[[DraftbonytailChubGilaElegans_14696]]*
+
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
+> Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
+> -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -142,3 +151,6 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[RecoveryPlanForTheEndangeredBo_17173]]
 - [[BonytailReintroductionPlanForT_20248]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
+- [[DraftbonytailChubGilaElegans_14696]]
+- [[ArizonaComparativeRiskProjectE_15833]]
+- [[MinutesOfTheMeetingOfTheTechni_20887]]

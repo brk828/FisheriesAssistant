@@ -17,9 +17,13 @@ Salmonids refer to fish in the family Salmonidae, which includes salmon and trou
 > **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae*) is the smallest of the black basses, endemic to the Black Warrior, Cahaba, Coosa, and Tallapoosa rivers and Alabama River tributaries above the Fall Line in Alabama, the Chattahoochee River above Columbus, Georgia, and...
 > -- *[[IntrogressiveHybridizationOfRe_1991]]*
 
+> This FAO Fisheries Circular (No. 724 Revision 2) is a comprehensive bibliographic compilation of 255 selected reference books and monographs on freshwater aquaculture published between 1951 and 1984. Compiled by André G. Coche of the [[Inland Water Resources and Aquaculture Service]], the document...
+> -- *[[AquacultureInFreshWatersAListO_15987]]*
+
 ## Mentioned In
 - [[GrowoutPondsUsefulForColoradoS_13321]]
 - [[IntroductionOfPondSmeltFromJap_14428]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
 - [[ThermalAndRespiratoryStudiesWi_16327]]
 - [[IntrogressiveHybridizationOfRe_1991]]
+- [[AquacultureInFreshWatersAListO_15987]]

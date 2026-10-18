@@ -20,9 +20,17 @@ auto_enriched: true
 > This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
 > -- *[[GeneticDifferentiationAmongSub_18497]]*
 
+> This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
+> -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
+
+> This December 26, 1984 memorandum from the Regional Director of [[U.S. Fish and Wildlife Service]] Region 2 (Southeast) updates internal procedures for [[Endangered Species Act]] (ESA) Section 7 consultations. Effective immediately, Ecological Services field offices will conduct intra-Service...
+> -- *[[RegionEndangeredSpeciesActIntr_11825]]*
+
 ## Mentioned In
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[TheSpawningBehaviorOfTheChanne_15949]]
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[GeneticDifferentiationAmongSub_18497]]
+- [[SafetyAsRelatedToTheUseOfChemi_11812]]
+- [[RegionEndangeredSpeciesActIntr_11825]]

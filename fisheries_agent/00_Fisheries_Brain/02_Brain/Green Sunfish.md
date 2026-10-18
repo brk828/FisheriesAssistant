@@ -143,6 +143,48 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 > The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
 > -- *[[IntroductionOfPalaemonetesPalu_20723]]*
 
+> This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
+> -- *[[AStudyToDetermineTheBiological_11576]]*
+
+> This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
+> -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
+
+> This correspondence documents an agreement between the U.S. Forest Service Globe Ranger District and U.S. Fish & Wildlife Service regarding the failed [[Gila Topminnow]] population at [[Sycamore Spring]] and proposed reintroduction into alternative sites with natural water supplies. The population...
+> -- *[[AgreementRegardingThePopulatio_12215]]*
+
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
+> This 1955 report documents the distribution and status of the introduced [[Pumpkinseed]] (*Lepomis gibbosus*) in [[California]]. The species was considered rare in the state, with scattered populations in widely separated locations. The authors compile historical records from 1939-1954, correcting...
+> -- *[[TheStatusOfThePumpkinseedLepom_12862]]*
+
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This report documents the second year (February 1, 1965 - January 31, 1966) of cooperative fisheries investigation at [[Lake Powell]] ([[Glen Canyon Reservoir]]) conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. The study combined systematic creel census...
+> -- *[[GlenCanyonUnitcoloradoRiverSto_14583]]*
+
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
+> This 1967 Master's thesis investigated the feasibility of using crawfish processing waste as a supplemental feed for [[Channel Catfish]] (*Ictalurus punctatus*) in shallow Louisiana ponds. The study compared raw ground crawfish waste and pelleted crawfish waste meal against a commercial fish...
+> -- *[[CrawfishWasteAsASuplementalDie_14842]]*
+
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
+> This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
+> -- *[[FisheriesManagementOfElCapitan_16317]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
+> On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
+> -- *[[LoachMinnow_19034]]*
+
+> This 1973 study evaluated two experimental fish diets combining roasted soybeans with fresh [[Gizzard Shad]] (Dorosoma cepedianum) as alternatives to commercial [[Oregon Pellets]] for feeding yearling [[Channel Catfish]] (Ictalurus punctatus). Both experimental formulations—one with 50% roasted...
+> -- *[[APreliminaryEvaluationOfAFishD_20313]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AFishPopulationStudyOfThirdSis_1942]]
@@ -327,3 +369,17 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 - [[FishesOfTheSonoitaCreekDrainag_18558]]
 - [[SamplingAtAsuResearchParkAutum_19458]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
+- [[AStudyToDetermineTheBiological_11576]]
+- [[BiologicalOpinionOnTheEffectsO_11915]]
+- [[AgreementRegardingThePopulatio_12215]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[TheStatusOfThePumpkinseedLepom_12862]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[GlenCanyonUnitcoloradoRiverSto_14583]]
+- [[TailwaterFisheryInvestigationC_14594]]
+- [[CrawfishWasteAsASuplementalDie_14842]]
+- [[SkyIslandAquaticResourcesHabit_15003]]
+- [[FisheriesManagementOfElCapitan_16317]]
+- [[SelectionsFromUniversityOfMich_18288]]
+- [[LoachMinnow_19034]]
+- [[APreliminaryEvaluationOfAFishD_20313]]

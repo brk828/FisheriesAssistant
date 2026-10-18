@@ -62,6 +62,9 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 > This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
 > -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
 
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -86,3 +89,4 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]

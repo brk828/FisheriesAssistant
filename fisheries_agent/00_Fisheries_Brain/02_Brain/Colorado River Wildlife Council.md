@@ -17,8 +17,12 @@ The Colorado River Wildlife Council appears to be an interagency coordination bo
 > - **Founding & Authority**: Established in 1974 under the Fish and Wildlife Act of 1956 (P.L. 1024); led by Ronald D. Major (Region 2). - **Multi-state service area**: Provides fish health services and disease certification across four states (AZ, NM, TX, OK), covering 9 National Fish Hatcheries,...
 > -- *[[StationProfileOfTheP_1991_11_28]]*
 
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[LetterRegardingProposalForIntr_1989_08_30]]
 - [[ProceduresForIntroductionOfAqu_17182]]
 - [[ScheduleChangeForTheJanuaryNat_1990_12_20]]
 - [[StationProfileOfTheP_1991_11_28]]
+- [[FishIntroductionsGoodManagemen_17630]]

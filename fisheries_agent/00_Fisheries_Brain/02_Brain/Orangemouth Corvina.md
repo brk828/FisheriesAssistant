@@ -23,9 +23,13 @@ Orangemouth Corvina is a marine fish species that has been documented in the con
 > This 1953 California Fish and Game report documents the early results of a fish introduction program into the [[Salton Sea]], an inland, saline, terminal lake in Riverside and Imperial Counties, California. Beginning in 1948, the California Department of Fish and Game conducted four expeditions t...
 > -- *[[SurvivalOfSomeFishesRecentlyIn_19099]]*
 
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[ComputerizedDataBaseForExoticF_1991]]
 - [[EvaluationOfProposedIntroducti_12261]]
 - [[ExperimentalIntroductionOfFish_1955]]
 - [[SpeciesStockingHistoryInTexasD_1987]]
 - [[SurvivalOfSomeFishesRecentlyIn_19099]]
+- [[FishIntroductionsGoodManagemen_17630]]

@@ -14,7 +14,11 @@ auto_enriched: true
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
+> -- *[[AmericanRiversScientificAndTec_15167]]*
+
 ## Mentioned In
 - [[BaitMinnowsAndTheirPropagation_14538]]
 - [[StatusOfTheCypressMinnowHybogn_1982_01_15]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[AmericanRiversScientificAndTec_15167]]

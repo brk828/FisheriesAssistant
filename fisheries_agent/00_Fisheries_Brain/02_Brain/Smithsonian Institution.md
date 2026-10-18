@@ -23,6 +23,9 @@ auto_enriched: true
 > This document presents a comprehensive overview of the exceptional aquatic and semi-aquatic fauna of the [[Cuatro Ciénegas Basin]] in [[Coahuila]], [[Mexico]]. The basin contains an extraordinarily diverse assemblage of organisms for a desert region, including 18 fish species (10 endemic to the...
 > -- *[[ASummaryOfInformationAboutTheA_18574]]*
 
+> This taxonomic paper describes *Laccocythere aotearoa*, a new genus and species of entocytherid ostracod commensal on the freshwater crayfish [[Paranephrops planifrons]] from [[Pelorus Valley]], [[South Island]], [[New Zealand]]. The new genus *Laccocythere* is placed in the subfamily...
+> -- *[[ANewOstracodEntocytheridaeNoto_20684]]*
+
 ## Mentioned In
 - [[LetterOnDispositionOfFrozenBon_1993_10_01]]
 - [[ReviewOfTheEndangeredFishResea_1991_10_03]]
@@ -30,3 +33,4 @@ auto_enriched: true
 - [[CuatroCienegasWatershedCoahuil_16108]]
 - [[GilaTaxonomyProjectIssuesAndPr_14720]]
 - [[ASummaryOfInformationAboutTheA_18574]]
+- [[ANewOstracodEntocytheridaeNoto_20684]]

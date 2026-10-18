@@ -59,6 +59,15 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 > This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
 > -- *[[ReviewOfPotentialForageFishInt_19139]]*
 
+> This Federal Aid completion report documents a 14-year experimental program (1957-1971) introducing marine fish species from the [[Gulf of Mexico]] into the saline waters of the [[Pecos River System]] in western Texas. The program was initiated because high salinity levels (800-7,000 ppm chlorides)...
+> -- *[[MarineIntroductionsTexas_13536]]*
+
+> This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
+> -- *[[TheDesirabilityOfIntroducingWh_16080]]*
+
+> This 1973 study evaluated two experimental fish diets combining roasted soybeans with fresh [[Gizzard Shad]] (Dorosoma cepedianum) as alternatives to commercial [[Oregon Pellets]] for feeding yearling [[Channel Catfish]] (Ictalurus punctatus). Both experimental formulations—one with 50% roasted...
+> -- *[[APreliminaryEvaluationOfAFishD_20313]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -107,3 +116,6 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 - [[PrelimaryObservationsOnTheToxi_14434]]
 - [[RoughFishControl_20167]]
 - [[ReviewOfPotentialForageFishInt_19139]]
+- [[MarineIntroductionsTexas_13536]]
+- [[TheDesirabilityOfIntroducingWh_16080]]
+- [[APreliminaryEvaluationOfAFishD_20313]]

@@ -11,5 +11,9 @@ Whitewater Creek is a tributary of the San Francisco River in Catron County, New
 > The U.S. Fish and Wildlife Service proposed on June 18, 1985, to list [[Tiaroga cobitis]] (loach minnow) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, historically distributed throughout the [[Gila River]] system upstream from Phoenix,...
 > -- *[[EndangeredAndThreatenedWildlif_11552]]*
 
+> On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
+> -- *[[LoachMinnow_19034]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11552]]
+- [[LoachMinnow_19034]]

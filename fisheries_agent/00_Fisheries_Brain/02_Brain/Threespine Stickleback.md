@@ -26,6 +26,9 @@ The threespine stickleback (Gasterosteus aculeatus) is a small, euryhaline fish 
 > This note documents seven historical records of fish emergence from deep wells and artesian sources in [[California]], spanning 1870-1953. The author examines whether these fish truly originated from subterranean waters or were inadvertently introduced during drilling operations. Geological...
 > -- *[[TheReportedEmergenceOfFishesFr_16686]]*
 
+> This study analyzed 387 [[Striped Bass]] (*Roccus saxatilis*) stomachs collected by anglers over one year (1947-1948) in [[San Francisco Bay]] and the [[San Joaquin River]] Delta. The sample was divided into summer/fall (229 stomachs) and winter/spring (158 stomachs) collections. [[Crago]] shrimp...
+> -- *[[FoodHabitsOfCaliforniaStripedB_19825]]*
+
 ## Mentioned In
 - [[DeclineOfTheNativeFishFaunaOfT_1974]]
 - [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
@@ -34,3 +37,4 @@ The threespine stickleback (Gasterosteus aculeatus) is a small, euryhaline fish 
 - [[RecoveryPlanForTheUnarmoredThr_18261]]
 - [[AConservationorientedClassific_15455]]
 - [[TheReportedEmergenceOfFishesFr_16686]]
+- [[FoodHabitsOfCaliforniaStripedB_19825]]

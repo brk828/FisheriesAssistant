@@ -26,6 +26,9 @@ Cichlasoma cyanoguttatum, commonly known as the Texas cichlid, is a native fresh
 > This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
 > -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
 
+> This 1988 letter from W. L. Minckley (Arizona State University) to Salvador Contreras Balderas (Universidad Autonoma de Nuevo Leon) proposes collaborative research on the endemic cichlid fishes of [[Cuatro Cienegas Basin]], Coahuila, Mexico. The proposal outlines a comprehensive study combining...
+> -- *[[ProposalForCollaborationBetwee_13766]]*
+
 ## Mentioned In
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[ConcernAboutThePresenceOfASpec_14235]]
@@ -33,3 +36,4 @@ Cichlasoma cyanoguttatum, commonly known as the Texas cichlid, is a native fresh
 - [[SurvivalAndAbundanceOfIntroduc_14259]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
+- [[ProposalForCollaborationBetwee_13766]]

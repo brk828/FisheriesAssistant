@@ -23,9 +23,17 @@ Dorosoma petenense, commonly known as threadfin shad, is a euryhaline forage fis
 > This paper by Charles F. Cole reports a year-round creel census conducted from August 1957 through December 1961 on **Lake Fort Smith**, a 525-acre oligotrophic water supply reservoir in the Boston Mountains of Arkansas. The study was initiated because the lake's fishing reputation had declined, ...
 > -- *[[TheSportFisheryInAnArkansasWat_1968_10_21]]*
 
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[AProvisionalCheckListOfTheFish_15941]]
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
 - [[EcologicalObservationsOfNative_1988]]
 - [[TheIntroductionOfTheRedeyeBlac_12528]]
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
+- [[ProgressReportOfTheCultureOfTi_14692]]
+- [[FishIntroductionsGoodManagemen_17630]]

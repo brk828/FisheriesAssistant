@@ -11,8 +11,12 @@ Water temperature is a critical abiotic factor that regulates physiological proc
 > This positions the salmonid hatchery as an engineered analog of a lotic (flowing-water) ecological niche, where [[Dissolved Oxygen Dynamics]] and [[Water Temperature]] jointly regulate stocking density and fish welfare, echoing constraints found in natural riverine salmonid habitats.
 > -- *[[WaterRequirementsOfSalmonids_12413]]*
 
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[APreliminaryNoteOnAMultipleApp_1958]]
 - [[SeasonalVariationsInTheGrowthH_15086]]
 - [[TemperaturUndTagesperiodikDerO_1963]]
 - [[WaterRequirementsOfSalmonids_12413]]
+- [[ArizonaComparativeRiskProjectE_15833]]

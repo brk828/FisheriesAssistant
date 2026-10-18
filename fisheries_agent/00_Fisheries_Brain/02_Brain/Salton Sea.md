@@ -62,6 +62,27 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
 > -- *[[MinutesDesertFishesRecoveryTea_13749]]*
 
+> This Federal Register document (Vol. 51, No. 61, March 31, 1986) announces the U.S. Fish and Wildlife Service's final determination to list the [[Desert Pupfish]] (*Cyprinodon macularius*) as an endangered species under the Endangered Species Act of 1973, as amended. The rule also designates...
+> -- *[[EndangeredAndThreatenedWildlif_11555]]*
+
+> This 1955 report documents the distribution and status of the introduced [[Pumpkinseed]] (*Lepomis gibbosus*) in [[California]]. The species was considered rare in the state, with scattered populations in widely separated locations. The authors compile historical records from 1939-1954, correcting...
+> -- *[[TheStatusOfThePumpkinseedLepom_12862]]*
+
+> This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
+> -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
+
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
+> This study examines allozymic variation in wild and captive populations of endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) from the [[Lower Colorado River]] basin and [[Salton Sink]]. Four polymorphic loci were surveyed across 13 populations (9 captive, 4 wild). Few consistent...
+> -- *[[AllozymicVariationInDesertPupf_19162]]*
+
+> Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
+> -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[BenthicInvertebratesOfTheEarth_1983]]
@@ -90,3 +111,10 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[GeneticVariationInDesertPupfis_15731]]
 - [[ConservationGeneticsInTheManag_20087]]
 - [[MinutesDesertFishesRecoveryTea_13749]]
+- [[EndangeredAndThreatenedWildlif_11555]]
+- [[TheStatusOfThePumpkinseedLepom_12862]]
+- [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[ProgressReportOfTheCultureOfTi_14692]]
+- [[FishIntroductionsGoodManagemen_17630]]
+- [[AllozymicVariationInDesertPupf_19162]]
+- [[MinutesOfTheMeetingOfTheTechni_20887]]

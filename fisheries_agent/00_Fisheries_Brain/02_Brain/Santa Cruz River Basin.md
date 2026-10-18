@@ -17,8 +17,12 @@ The Santa Cruz River Basin is a hydrological and ecological system in Arizona th
 > This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
 > -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
 
+> This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
+> -- *[[LetterToCentralArizonaWaterCon_17898]]*
+
 ## Mentioned In
 - [[EndangeredSpeciesActSectionCon_1994_12_06]]
 - [[InvestigationOfProposedProject_1966_07_31]]
 - [[PotentialPopulationManagementP_14777]]
 - [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[LetterToCentralArizonaWaterCon_17898]]

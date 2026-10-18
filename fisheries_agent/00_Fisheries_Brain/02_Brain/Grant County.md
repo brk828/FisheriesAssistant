@@ -14,6 +14,10 @@ Grant County is a county in New Mexico that includes portions of the upper Gila 
 > This document contains specific review comments on a recovery plan for an endangered chub species in the [[Mimbres River]] system. The reviewers provide detailed feedback on distribution mapping, habitat assessment, reasons for population decline, and conservation strategies. Key concerns include...
 > -- *[[CommentsOnTheChihuahuaChubReco_13915]]*
 
+> This document comprises museum correspondence and specimen records from May 1995 regarding holdings of [[Cyprinella formosa]] (Beautiful Shiner) from the [[Mimbres River]] in [[New Mexico]]. The records document specimens held at the Museum of Southwestern Biology (MSB) and the University of...
+> -- *[[CyprinellaFormosaMimbresRiverE_21256]]*
+
 ## Mentioned In
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[CommentsOnTheChihuahuaChubReco_13915]]
+- [[CyprinellaFormosaMimbresRiverE_21256]]

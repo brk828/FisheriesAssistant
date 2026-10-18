@@ -17,8 +17,16 @@ The Aspinall Unit refers to a series of four large federal hydroelectric dams an
 > This report summarizes a peer review and roundtable discussion conducted February 6-7, 1995, in Grand Junction, Colorado, evaluating the relationship between streamflow, geomorphology, and food web studies in the [[Upper Colorado River Basin]] Recovery Program for four endangered fishes:...
 > -- *[[HighlightsOfAPeerReviewAndRoun_11448]]*
 
+> This draft Long Range Plan (October 3, 1991) outlines the comprehensive recovery strategy for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[DraftLongRangePlan_11590]]*
+
+> This document presents the Fiscal Year 1992 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on August 15, 1991, the plan allocates $2,988,900 across five recovery...
+> -- *[[FiscalYearWorkPlan_11594]]*
+
 ## Mentioned In
 - [[InterestGroupParticipationInTh_1994_08_05]]
 - [[RoundtableDiscussionOnStreamfl_1994_12_22]]
 - [[SolicitationOfResearchProposal_1990_03_20]]
 - [[HighlightsOfAPeerReviewAndRoun_11448]]
+- [[DraftLongRangePlan_11590]]
+- [[FiscalYearWorkPlan_11594]]

@@ -26,6 +26,9 @@ Spencer Creek is a tributary inlet to the Colorado River in the lower reaches of
 > This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
 > -- *[[RiverResourceMonitoringProject_18503]]*
 
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
 ## Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[EffectsOfInterimFlowsFromGlenC_13654]]
@@ -36,3 +39,4 @@ Spencer Creek is a tributary inlet to the Colorado River in the lower reaches of
 - [[EffectsOfInterimFlowsFromGlenC_1993_10_29]]
 - [[TheEffectsOfGlenCanyonAndHoove_12550]]
 - [[RiverResourceMonitoringProject_18503]]
+- [[TailwaterFisheryInvestigationC_14594]]

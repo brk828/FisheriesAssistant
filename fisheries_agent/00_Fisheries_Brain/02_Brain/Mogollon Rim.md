@@ -20,6 +20,9 @@ auto_enriched: true
 > This study used allozyme electrophoresis to assess phylogenetic relationships within the cyprinid tribe [[Plagopterini]] of western North America. The research examined 28 presumptive gene loci across multiple genera including [[Lepidomeda]], [[Meda]], [[Plagopterus]], and [[Gila copei]], plus five...
 > -- *[[AllozymicVariationAndSystemati_12782]]*
 
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[Zoogeography_18180]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[LectureNotesFromBiologyClass_13784]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[AllozymicVariationAndSystemati_12782]]
+- [[ArizonaComparativeRiskProjectE_15833]]

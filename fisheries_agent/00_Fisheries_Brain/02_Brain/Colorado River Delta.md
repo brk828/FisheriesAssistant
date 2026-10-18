@@ -50,6 +50,12 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 > Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
 > -- *[[MinutesDesertFishesRecoveryTea_13749]]*
 
+> This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
+> -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
+
+> This study examines allozymic variation in wild and captive populations of endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) from the [[Lower Colorado River]] basin and [[Salton Sink]]. Four polymorphic loci were surveyed across 13 populations (9 captive, 4 wild). Few consistent...
+> -- *[[AllozymicVariationInDesertPupf_19162]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AnalysisOfPenaeidShrimpLanding_16892]]
@@ -73,3 +79,5 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[GeneticVariationInDesertPupfis_15731]]
 - [[MinutesDesertFishesRecoveryTea_13749]]
+- [[PresenceOfAlienPupfishMayJeopa_13727]]
+- [[AllozymicVariationInDesertPupf_19162]]

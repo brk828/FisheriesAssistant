@@ -32,6 +32,9 @@ Clupeidae is a large family of ray-finned fishes that includes herrings, sardine
 > This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
 > -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
 
+> This 1971 NOAA technical report by [[Robert C. May]] compiles an annotated bibliography of scientific papers describing attempts to rear marine fish larvae in laboratory settings from 1878 through 1969. The work was prepared to support researchers at the [[Bureau of Commercial Fisheries]] (later...
+> -- *[[AnAnnotatedBibliographyOfAttem_15220]]*
+
 ## Mentioned In
 - [[AbundanceOfStJohnsRiverShad_1960_03_08]]
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
@@ -50,3 +53,4 @@ Clupeidae is a large family of ray-finned fishes that includes herrings, sardine
 - [[TheGenericRelationshipsAndNome_19993]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[AnAnnotatedBibliographyOfAttem_15220]]

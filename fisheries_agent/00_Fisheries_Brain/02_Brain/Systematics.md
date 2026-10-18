@@ -17,8 +17,12 @@ Systematics is the scientific discipline focused on classifying and understandin
 > Not applicable — no habitat, ocean basin, biogeographic, or ecological niche data are present in the extracted text. The article's likely broader concern is the systemic/institutional "niche" of [[Systematics]] within the biological sciences (i.e., its role as an infrastructural discipline suppor...
 > -- *[[TimeToReviveSystematics_1985_12_13]]*
 
+> This 1986 NSF memorandum from James P. Collins (Program Director, PBPE) to John L. Brooks (Division Director, BSR) outlines the rationale for developing a research emphasis in evolutionary genetics for the FY 88 budget. The document traces the historical convergence of genetics, ecology, and...
+> -- *[[DevelopmentOfSupportForAResear_17152]]*
+
 ## Mentioned In
 - [[AshmunellaAngulataEsuritorLent_18478]]
 - [[TheBiologicalDiversityCrisisAC_12097]]
 - [[TimeToReviveSystematics_1985_12_13]]
 - [[WhiteSturgeonWithSevenRowsOfSc_17276]]
+- [[DevelopmentOfSupportForAResear_17152]]

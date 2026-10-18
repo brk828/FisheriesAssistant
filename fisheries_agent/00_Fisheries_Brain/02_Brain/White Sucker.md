@@ -44,6 +44,15 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 > This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
 > -- *[[PrelimaryObservationsOnTheToxi_14434]]*
 
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
+> This document presents a restoration plan for the federally endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Upper Colorado River Basin]]. Once abundant throughout the [[Colorado River Basin]], the species has been virtually extirpated from riverine habitats in the lower basin due to...
+> -- *[[RestorationPlanForRazorbackSuc_20599]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -81,3 +90,6 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 - [[SomeObservationsOnTheReclamati_15490]]
 - [[DraftdistributionAndIncidenceO_12207]]
 - [[PrelimaryObservationsOnTheToxi_14434]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[RestorationPlanForRazorbackSuc_20599]]

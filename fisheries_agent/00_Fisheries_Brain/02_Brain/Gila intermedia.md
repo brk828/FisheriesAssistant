@@ -32,6 +32,15 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 > This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
 > -- *[[GeneticVariationAmongLowerColo_12776]]*
 
+> This correspondence from the [[U.S. Forest Service]] [[Coronado National Forest]] summarizes a March 1989 work session regarding management of the [[Bog Hole]] in the [[San Rafael Valley]], Arizona. The meeting brought together representatives from [[Arizona Game and Fish Department]], [[U.S. Fish...
+> -- *[[BogHoleProjectMeetingSummary_12749]]*
+
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
@@ -47,3 +56,6 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[DraftecologicalDeterminismHybr_12773]]
 - [[GeneticVariationAmongLowerColo_12776]]
+- [[BogHoleProjectMeetingSummary_12749]]
+- [[SkyIslandAquaticResourcesHabit_15003]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]

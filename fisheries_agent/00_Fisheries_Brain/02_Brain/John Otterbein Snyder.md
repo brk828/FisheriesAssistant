@@ -14,7 +14,11 @@ John Otterbein Snyder was a prominent ichthyologist and fisheries scientist who 
 > - **Pluvial lake basins of the American West:** Beginning with a 1915 survey of the ancient **[[Lake Bonneville]]** basin (now Great Salt Lake) under [[John Otterbein Snyder]], and continuing with [[Robert Rush Miller]], Hubbs mapped fish faunas isolated in now-desiccated basins, reconstructing f...
 > -- *[[CarlLeavittHubbsMcgrawHillMode_1968]]*
 
+> This 1918 taxonomic description by [[John Otterbein Snyder]] documents the fish fauna of the [[Mohave River]] in southern California, identifying a single species belonging to the genus *[[Siphateles]]*. The author describes *Siphateles mohavensis* as a new species distinct from geographically...
+> -- *[[TheFishesOfMohaveRiverCaliforn_21253]]*
+
 ## Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[SnyderichthysANewGenericNameFo_1944_11_22]]
+- [[TheFishesOfMohaveRiverCaliforn_21253]]

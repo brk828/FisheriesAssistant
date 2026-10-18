@@ -38,6 +38,9 @@ The Great Lakes represent a vast freshwater ecosystem of continental significanc
 > This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
 > -- *[[TheMaineSmallmouth_14928]]*
 
+> This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
+> -- *[[TheDesirabilityOfIntroducingWh_16080]]*
+
 ## Mentioned In
 - [[ComparativeMorphometryOfFreshw_12456]]
 - [[CurrentRoleOfTroutCultureInMan_13158]]
@@ -71,3 +74,4 @@ The Great Lakes represent a vast freshwater ecosystem of continental significanc
 - [[ConcernsAboutIntroductionOfRai_13174]]
 - [[MinnowsCyprinidae_17384]]
 - [[TheMaineSmallmouth_14928]]
+- [[TheDesirabilityOfIntroducingWh_16080]]

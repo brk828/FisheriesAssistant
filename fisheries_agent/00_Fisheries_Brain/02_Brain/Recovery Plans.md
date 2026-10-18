@@ -14,7 +14,11 @@ Recovery Plans are formal, science-based documents developed by fisheries and wi
 > - **Peer Review Requirement (Listing):** For any species under consideration for listing, the Services must solicit expert opinions from **three independent, qualified specialists** on taxonomy, population models, and supporting biological/ecological data. - **Peer Review Requirement (Recovery Pl...
 > -- *[[NoticeOfInteragencyCooperative_1994_07_01]]*
 
+> This December 26, 1984 memorandum from the Regional Director of [[U.S. Fish and Wildlife Service]] Region 2 (Southeast) updates internal procedures for [[Endangered Species Act]] (ESA) Section 7 consultations. Effective immediately, Ecological Services field offices will conduct intra-Service...
+> -- *[[RegionEndangeredSpeciesActIntr_11825]]*
+
 ## Mentioned In
 - [[MemorandumOnTheRoleOfTheDesert_14759]]
 - [[NoticeOfInteragencyCooperative_1994_07_01]]
 - [[ReceiptOfDesertFishesRecoveryT_15712]]
+- [[RegionEndangeredSpeciesActIntr_11825]]

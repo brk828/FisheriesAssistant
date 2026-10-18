@@ -23,6 +23,9 @@ Diptera is an order of insects that includes flies and midges, which are ecologi
 > This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
 > -- *[[LiteratureReviewAndImpactRepor_14988]]*
 
+> This 1986 NSF memorandum from James P. Collins (Program Director, PBPE) to John L. Brooks (Division Director, BSR) outlines the rationale for developing a research emphasis in evolutionary genetics for the FY 88 budget. The document traces the historical convergence of genetics, ecology, and...
+> -- *[[DevelopmentOfSupportForAResear_17152]]*
+
 ## Mentioned In
 - [[FoodHabitsOfTheYellowBassRoccu_1963]]
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
@@ -31,3 +34,4 @@ Diptera is an order of insects that includes flies and midges, which are ecologi
 - [[WinterObservationsOnBottomOrga_16187]]
 - [[TheInstarsOfSimuliumOrnatumVar_20678]]
 - [[LiteratureReviewAndImpactRepor_14988]]
+- [[DevelopmentOfSupportForAResear_17152]]

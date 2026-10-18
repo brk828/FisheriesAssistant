@@ -14,6 +14,10 @@ The Audubon Society is an organization known for conducting volunteer-based bird
 > This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
 > -- *[[MasterPlanForBuenosAiresWildli_13323]]*
 
+> This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
+> -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
+
 ## Mentioned In
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
+- [[PresenceOfAlienPupfishMayJeopa_13727]]

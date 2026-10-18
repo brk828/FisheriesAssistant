@@ -44,6 +44,9 @@ Salmonidae is a family of teleost fishes that includes salmon, trout, and char s
 > This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
 > -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
 
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -142,3 +145,4 @@ Salmonidae is a family of teleost fishes that includes salmon, trout, and char s
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+- [[NativeRockyMountainTroutAndSto_17773]]

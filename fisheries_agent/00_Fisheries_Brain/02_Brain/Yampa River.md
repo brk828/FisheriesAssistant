@@ -104,6 +104,24 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
 > -- *[[FyReportingAndAccounting_21020]]*
 
+> This FY-1994 proposal from the Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin outlines a comprehensive, interdisciplinary ecosystem study to assess how flow alterations and geomorphic changes affect food availability for the endangered [[Colorado...
+> -- *[[ImpactOfFlowsAndGeomorphologyO_11214]]*
+
+> This document presents the Fiscal Year 1992 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on August 15, 1991, the plan allocates $2,988,900 across five recovery...
+> -- *[[FiscalYearWorkPlan_11594]]*
+
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
+> This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
+> -- *[[DraftbonytailChubGilaElegans_14696]]*
+
+> This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
+> -- *[[CompletionReportYampawhitePhys_18677]]*
+
+> This document presents a restoration plan for the federally endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Upper Colorado River Basin]]. Once abundant throughout the [[Colorado River Basin]], the species has been virtually extirpated from riverine habitats in the lower basin due to...
+> -- *[[RestorationPlanForRazorbackSuc_20599]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -186,3 +204,9 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[MultivariateDiscriminationOfCo_19077]]
 - [[ManagementGroupMeetingSummary_19219]]
 - [[FyReportingAndAccounting_21020]]
+- [[ImpactOfFlowsAndGeomorphologyO_11214]]
+- [[FiscalYearWorkPlan_11594]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[DraftbonytailChubGilaElegans_14696]]
+- [[CompletionReportYampawhitePhys_18677]]
+- [[RestorationPlanForRazorbackSuc_20599]]

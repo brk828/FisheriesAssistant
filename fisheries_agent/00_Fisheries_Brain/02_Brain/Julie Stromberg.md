@@ -14,6 +14,10 @@ auto_enriched: true
 > - **Flow regime**: Historic river flow to the delta is now essentially limited to occasional large flood events; regulated flows remain channelized and do not spread across the floodplain as required to benefit fish and wetland vegetation. - **Salinity**: The Cienega de Santa Clara currently exhi...
 > -- *[[MeetingOnLowerColoradoRiverCol_1994_11_02]]*
 
+> This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
+> -- *[[AmericanRiversScientificAndTec_15167]]*
+
 ## Mentioned In
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
 - [[MemorandumOnNativeFishRecovery_15822]]
+- [[AmericanRiversScientificAndTec_15167]]

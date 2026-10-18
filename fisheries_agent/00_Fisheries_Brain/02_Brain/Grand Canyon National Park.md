@@ -68,6 +68,12 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 > This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
 > -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
 
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
+> This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
+> -- *[[BureauOfReclamationAnnouncesPu_20788]]*
+
 ## Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
@@ -111,3 +117,5 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 - [[InterimFlowsForGrandCanyonReco_18454]]
 - [[AgencyRecalcitranceAndEvasionR_20349]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[BureauOfReclamationAnnouncesPu_20788]]

@@ -35,6 +35,9 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 > This document contains the official minutes from the [[Cui-ui]] Recovery Team meeting held October 23, 1989 in Reno, Nevada. The meeting addressed critical issues in developing a recovery plan for [[Chasmistes cujus]], an endangered sucker species endemic to [[Pyramid Lake]]. Key concerns included...
 > -- *[[CuiuiRecoveryTeamMeetingMinute_13872]]*
 
+> This document is correspondence from Tom Strekal, Team Leader, scheduling a [[Cui-ui]] Recovery Team meeting for November 29, 1990, in Reno, Nevada. The meeting addresses the urgent completion of the draft [[Cui-ui]] Recovery Plan, mandated by Senate Bill 3084 (Truckee-Carson-Pyramid Lake Water...
+> -- *[[IssuesToDiscussAndResolveAtCui_14619]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -63,3 +66,4 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 - [[CuiuiChasmistesCujusRevision_13303]]
 - [[DraftMinutesOfTheOctoberRecove_13868]]
 - [[CuiuiRecoveryTeamMeetingMinute_13872]]
+- [[IssuesToDiscussAndResolveAtCui_14619]]

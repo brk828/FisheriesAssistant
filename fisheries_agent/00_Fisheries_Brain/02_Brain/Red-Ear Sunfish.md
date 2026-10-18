@@ -14,7 +14,11 @@ auto_enriched: true
 > This note documents the first records of [[Red-ear Sunfish]] (*Lepomis microlophus*) and [[Smallmouth Bass]] (*Micropterus dolomieui*) in the lower [[Colorado River]], California. The red-ear sunfish represents a new addition to California's freshwater fish fauna, while the smallmouth bass was...
 > -- *[[TheOccurrenceOfTwoAdditionalCe_18140]]*
 
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
 ## Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
 - [[TheOccurrenceOfTwoAdditionalCe_18140]]
+- [[ProgressReportOfTheCultureOfTi_14692]]

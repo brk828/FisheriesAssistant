@@ -26,6 +26,9 @@ The Upper Gulf of California refers to the northernmost marine section of the Gu
 > This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
 > -- *[[SummaryOfEvents_18368]]*
 
+> This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
+> -- *[[BuildingSuccessfulPartnerships_13226]]*
+
 ## Mentioned In
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
@@ -33,3 +36,4 @@ The Upper Gulf of California refers to the northernmost marine section of the Gu
 - [[SantaClaraSloughSurveys_1992_09_08]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 - [[SummaryOfEvents_18368]]
+- [[BuildingSuccessfulPartnerships_13226]]

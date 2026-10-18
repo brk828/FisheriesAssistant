@@ -26,6 +26,9 @@ Pupfish (family Cyprinodontidae, genus Cyprinodon) are small-bodied, highly adap
 > This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
 > -- *[[ConservationOfNativeFreshwater_15444]]*
 
+> This Federal Aid completion report documents a 14-year experimental program (1957-1971) introducing marine fish species from the [[Gulf of Mexico]] into the saline waters of the [[Pecos River System]] in western Texas. The program was initiated because high salinity levels (800-7,000 ppm chlorides)...
+> -- *[[MarineIntroductionsTexas_13536]]*
+
 ## Mentioned In
 - [[BattleAgainstExtinctionNativeF_17606]]
 - [[CorrespondenceBetweenRobertRMi_15382]]
@@ -41,3 +44,4 @@ Pupfish (family Cyprinodontidae, genus Cyprinodon) are small-bodied, highly adap
 - [[SubpermitAuthorizationForColle_1990]]
 - [[TheFutureOfFishes_14521]]
 - [[ConservationOfNativeFreshwater_15444]]
+- [[MarineIntroductionsTexas_13536]]

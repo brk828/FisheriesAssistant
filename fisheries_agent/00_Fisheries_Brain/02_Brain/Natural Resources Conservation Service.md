@@ -11,6 +11,10 @@ auto_enriched: true
 > This memorandum from the [[Arizona Ecological Services State Office]] to the Assistant Regional Director provides detailed comments on proposed joint counterpart section 7 regulations for the [[Forest Service]] and [[Bureau of Land Management]]. Dated August 25, 1995, the document expresses support...
 > -- *[[ReviewOfProposedCounterpartReg_11907]]*
 
+> This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
+> -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
+
 ## Mentioned In
 - [[InteragencySouthwestStrategyFo_1997_11_12]]
 - [[ReviewOfProposedCounterpartReg_11907]]
+- [[BiologicalOpinionOnTheEffectsO_11915]]

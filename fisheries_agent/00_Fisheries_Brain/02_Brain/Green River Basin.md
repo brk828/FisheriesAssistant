@@ -11,7 +11,11 @@ auto_enriched: true
 > This study examined genetic variation within and among populations of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) using mitochondrial DNA (mtDNA) restriction endonuclease analysis. Researchers analyzed 143 specimens from five locations across the [[Colorado River Basin]] using eight...
 > -- *[[MitochondrialDnaDiversityWithi_19127]]*
 
+> This draft Long Range Plan (October 3, 1991) outlines the comprehensive recovery strategy for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[DraftLongRangePlan_11590]]*
+
 ## Mentioned In
 - [[DistributionHabitatUseAndGrowt_1991]]
 - [[PopulationSizeAndStatusOfTheRa_1988]]
 - [[MitochondrialDnaDiversityWithi_19127]]
+- [[DraftLongRangePlan_11590]]

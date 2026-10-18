@@ -53,6 +53,21 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > The BIOTA (Biodiversity Team Assessment) Project is a collaborative proposal developed in 1993 by representatives from the [[Arizona Game and Fish Department]], [[Arizona Association of Conservation Districts]], [[Arizona Gap Analysis Program]], [[The Nature Conservancy]], and the [[U.S. Fish and...
 > -- *[[AProposedDemonstrationModelToI_17636]]*
 
+> This document is the final rule issued by the [[U.S. Fish and Wildlife Service]] on August 27, 1984, implementing Section 10(j) of the [[Endangered Species Act]] (ESA) as amended in 1982. The rule establishes procedures for designating and managing "experimental populations" of endangered or...
+> -- *[[EndangeredAndThreatenedWildlif_11548]]*
+
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
+> This correspondence from the [[U.S. Forest Service]] [[Coronado National Forest]] summarizes a March 1989 work session regarding management of the [[Bog Hole]] in the [[San Rafael Valley]], Arizona. The meeting brought together representatives from [[Arizona Game and Fish Department]], [[U.S. Fish...
+> -- *[[BogHoleProjectMeetingSummary_12749]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
+> -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
+
 ## Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -91,3 +106,8 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[StatusReportForNaturalAndIntro_12972]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[AProposedDemonstrationModelToI_17636]]
+- [[EndangeredAndThreatenedWildlif_11548]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[BogHoleProjectMeetingSummary_12749]]
+- [[PresenceOfAlienPupfishMayJeopa_13727]]

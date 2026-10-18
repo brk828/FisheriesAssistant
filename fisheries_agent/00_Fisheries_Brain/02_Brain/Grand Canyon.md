@@ -149,6 +149,15 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
 > -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
 
+> This document is a review memo from Jim to Minck evaluating ongoing [[Glen Canyon Environmental Studies]] projects focused on [[Humpback Chub]] (*Gila cypha*) recovery. The reviewer assesses research conducted by [[Arizona State University]]/[[Navajo Nation]], [[Arizona Fish and Game Department]],...
+> -- *[[ReviewOfGlenCanyonEnvironmenta_14007]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -282,3 +291,6 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[StatusOfTheBiowestDatabase_13632]]
 - [[OperationOfGlenCanyonDamBrazSe_14783]]
 - [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[ReviewOfGlenCanyonEnvironmenta_14007]]
+- [[FishIntroductionsGoodManagemen_17630]]
+- [[SelectionsFromUniversityOfMich_18288]]

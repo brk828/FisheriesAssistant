@@ -149,6 +149,24 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
 > -- *[[BonytailReintroductionPlanForT_20248]]*
 
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
+> -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
+
+> This memorandum documents a significant mortality event involving endangered [[Bonytail Chub]] (*Gila elegans*) collected from [[Lake Mohave]] in May 1993. Of 15 fish captured and transported to [[Dexter National Fish Hatchery]] for broodstock purposes, 10 died (67% mortality) due to handling...
+> -- *[[LossOfLakeMohaveBonytailChub_14539]]*
+
+> This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
+> -- *[[DraftbonytailChubGilaElegans_14696]]*
+
+> This memorandum and preliminary draft management plan, dated August 11, 1998, addresses implementation of Reasonable and Prudent Alternative (RPA) 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The RPA requires establishment of...
+> -- *[[PreliminaryDraftManagementPlan_16433]]*
+
+> This FY 1993 annual project report documents a genetic diversity study of the [[Razorback Sucker]] (*Xyrauchen texanus*), a large, long-lived catostomid endemic to the [[Colorado River]] drainage. The research examined mitochondrial DNA (mtDNA) variation in the [[Lake Mohave]] source population and...
+> -- *[[FyAnnualProjectReportColoradoR_19124]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -318,3 +336,9 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[FishWithoutARiverTheCaptiveBre_19094]]
 - [[MitochondrialDnaVariabilityInT_19125]]
 - [[BonytailReintroductionPlanForT_20248]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[BiologicalOpinionOnTheEffectsO_11915]]
+- [[LossOfLakeMohaveBonytailChub_14539]]
+- [[DraftbonytailChubGilaElegans_14696]]
+- [[PreliminaryDraftManagementPlan_16433]]
+- [[FyAnnualProjectReportColoradoR_19124]]

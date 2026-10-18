@@ -23,9 +23,13 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 > - **Stream discharge and recruitment**: In a 10-year California stream study, storm-induced high-discharge events altered fish community structure by differentially affecting pre-recruitment survival and year-class strength across species with contrasting life histories (spring- vs. fall-spawning...
 > -- *[[BibliographyOfStudiesOnIntrodu_13347]]*
 
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
 - [[BiologicalInvasionsLessonsForE_16179]]
 - [[FisheriesFieldStationSummarySo_1996]]
 - [[TopTenFisheriesActiv_1996_10_14]]
+- [[ArizonaComparativeRiskProjectE_15833]]

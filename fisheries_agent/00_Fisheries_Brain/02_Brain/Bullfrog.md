@@ -35,6 +35,12 @@ In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates cates
 > This draft recovery plan for the [[Warm Springs Pupfish]] (*Cyprinodon nevadensis pectoralis*) was prepared by an interagency recovery team in April 1976. The subspecies is one of six described forms of *C. nevadensis*, with two already extinct. *C. n. pectoralis* has the most localized...
 > -- *[[WarmSpringsPupfish_13288]]*
 
+> This report documents the fourth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The study, conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]] from February 1, 1966 to January 31, 1967,...
+> -- *[[ReservoirFisheriesInvestigatio_14589]]*
+
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[FoodsOfImpoundmentAndStreamDwe_1963]]
@@ -47,3 +53,5 @@ In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates cates
 - [[BigSpringSpinedaceLepidomedaMo_11635]]
 - [[BiologicalOpinionStockingOfDes_11850]]
 - [[WarmSpringsPupfish_13288]]
+- [[ReservoirFisheriesInvestigatio_14589]]
+- [[ArizonaComparativeRiskProjectE_15833]]

@@ -11,5 +11,9 @@ Bullock Pen Lake is a 178-acre state-owned impoundment in north central Kentucky
 > This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
 > -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
 
+> This 1967 research report from the [[Federal Water Pollution Control Administration]] describes engineering methods to overcome water quality deterioration in stratified impoundments through artificial destratification. The study examined two small lakes in northern Kentucky ([[Boltz Lake]] and...
+> -- *[[WaterQualityInImpoundmentsAndM_14387]]*
+
 ## Mentioned In
 - [[ResultsOfAnOpeningWeekCreelCen_17745]]
+- [[WaterQualityInImpoundmentsAndM_14387]]

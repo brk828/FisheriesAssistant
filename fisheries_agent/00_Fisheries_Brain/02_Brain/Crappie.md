@@ -38,6 +38,9 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 > In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
 > -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
 
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -64,3 +67,4 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[Perch_16750]]
 - [[ProjectVelaUniformLakeMeadTest_20812]]
+- [[FishingEffortAndHarvestByArizo_15066]]

@@ -41,6 +41,12 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 > This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
 > -- *[[DraftecologicalDeterminismHybr_12773]]*
 
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -76,3 +82,5 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[ProposedConstructionOfADamOnTh_13721]]
 - [[DraftecologicalDeterminismHybr_12773]]
+- [[SelectionsFromUniversityOfMich_18288]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]

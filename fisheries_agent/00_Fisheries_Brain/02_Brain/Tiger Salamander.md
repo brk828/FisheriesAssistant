@@ -26,6 +26,9 @@ The Tiger Salamander (*Ambystoma tigrinum*) is an aquatic amphibian whose larval
 > This report documents the status of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae stocked into eight tanks at [[Buenos Aires National Wildlife Refuge]] in March 1989. Sampling conducted 17-18 April 1989 recovered fish from four of eight tanks (Pozo Nuevo, Mosca, Suffrido, Carrizo Dam), with...
 > -- *[[SummaryOfRazorbackSuckerCollec_19428]]*
 
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[CommissionPresentationOnCaptiv_1994_12_08]]
@@ -37,3 +40,4 @@ The Tiger Salamander (*Ambystoma tigrinum*) is an aquatic amphibian whose larval
 - [[StatusOfPoeciliopsisOOccidenta_1984_07_25]]
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[SummaryOfRazorbackSuckerCollec_19428]]
+- [[ArizonaComparativeRiskProjectE_15833]]

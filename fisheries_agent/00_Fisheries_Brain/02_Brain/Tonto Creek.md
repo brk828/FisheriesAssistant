@@ -23,9 +23,13 @@ auto_enriched: true
 > The U.S. Fish and Wildlife Service establishes "nonessential experimental" populations of [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Woundfin]] (*Plagopterus argentissimus*) in the [[Gila River]] drainage of Arizona under Section 10(j) of the Endangered Species Act of 1973. This...
 > -- *[[EndangeredAndThreatenedWildlif_11550]]*
 
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[FactorsInfluencingFishDistribu_15011]]
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[EndangeredAndThreatenedWildlif_11550]]
+- [[SelectionsFromUniversityOfMich_18288]]

@@ -44,6 +44,9 @@ The Colorado River, in the context of fish science and conservation, refers to a
 > This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
 > -- *[[SummaryStatementOfInsightsFrom_20854]]*
 
+> This three-year study (1952-1954) of [[Forest Lake]], a 32.5-acre reservoir on [[Grand Mesa]] in [[Delta County]], [[Colorado]], evaluated marked fish returns, creel census data, food utilization, limnology, and age-growth characteristics of [[Rainbow Trout]], [[Brook Trout]], and [[Native Trout]]...
+> -- *[[ForestLakeMarkedFishStudies_15614]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
@@ -56,3 +59,4 @@ The Colorado River, in the context of fish science and conservation, refers to a
 - [[NorthForkOfSouthPlatteMultiple_16595]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[SummaryStatementOfInsightsFrom_20854]]
+- [[ForestLakeMarkedFishStudies_15614]]

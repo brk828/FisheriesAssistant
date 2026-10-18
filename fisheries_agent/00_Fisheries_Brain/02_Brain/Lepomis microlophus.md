@@ -14,8 +14,12 @@ auto_enriched: true
 > This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
 > -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
 
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
 ## Mentioned In
 - [[StationProfileOfMeri_19533]]
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
+- [[ProgressReportOfTheCultureOfTi_14692]]

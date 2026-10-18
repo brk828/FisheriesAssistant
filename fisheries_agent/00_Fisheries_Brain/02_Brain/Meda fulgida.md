@@ -59,6 +59,18 @@ Meda fulgida, commonly known as the spikedace, is a small native cyprinid minnow
 > This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
 > -- *[[ReportToTheDesertFishesCouncil_13683]]*
 
+> This correspondence from the Arizona Game & Fish Department provides a detailed review of a draft final report examining interactions between the threatened [[Spikedace]] (*[[Meda fulgida]]*) and the introduced [[Red Shiner]] (*[[Cyprinella lutrensis]]*). The review, dated August 2, 1989, was...
+> -- *[[ReviewOfTheDraftReportEntitled_12983]]*
+
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
 ## Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[ColoradoSquawfishMonitoringVer_19393]]
@@ -100,3 +112,7 @@ Meda fulgida, commonly known as the spikedace, is a small native cyprinid minnow
 - [[EvolutionaryRelationshipsOfThe_19110]]
 - [[ReviewOfTheDraftReportEntitled_12980]]
 - [[ReportToTheDesertFishesCouncil_13683]]
+- [[ReviewOfTheDraftReportEntitled_12983]]
+- [[SkyIslandAquaticResourcesHabit_15003]]
+- [[SelectionsFromUniversityOfMich_18288]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]

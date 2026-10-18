@@ -32,6 +32,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This technical report presents a comprehensive baseline study of the [[Desert Pupfish]] (*Cyprinodon macularius*) population at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona, conducted from March 1975 to August 1976. The study documented population demography,...
 > -- *[[PreliminaryStudyOfTheDesertPup_12499]]*
 
+> This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
+> -- *[[FishesAndAquaticResourcesDeath_15415]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -46,3 +49,4 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[GeneticVariationInDesertPupfis_15731]]
 - [[ConservationGeneticsInTheManag_20087]]
 - [[PreliminaryStudyOfTheDesertPup_12499]]
+- [[FishesAndAquaticResourcesDeath_15415]]

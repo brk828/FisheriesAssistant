@@ -23,8 +23,12 @@ The Upper Gila River is a critical reach of the Gila River system in the southwe
 > This document is the [[U.S. Fish and Wildlife Service]]'s preliminary review (July 3, 1995) of a May 1995 rebuttal report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP)....
 > -- *[[PreliminaryReviewAndAnalysisOf_11672]]*
 
+> This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
+> -- *[[LetterToCentralArizonaWaterCon_17898]]*
+
 ## Mentioned In
 - [[LetterToUSForestServiceRegardi_1991_02_15]]
 - [[LetterToWLMinckleyOnFisheryRes_1994_05_27]]
 - [[SecondQuarterlyProgressReportO_1987_08_09]]
 - [[PreliminaryReviewAndAnalysisOf_11672]]
+- [[LetterToCentralArizonaWaterCon_17898]]

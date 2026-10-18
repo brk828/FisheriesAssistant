@@ -26,6 +26,9 @@ Pit tags, or Passive Integrated Transponder tags, are small electronic microchip
 > This unsolicited proposal to the [[U.S. Bureau of Reclamation]] outlines a three-year genetic monitoring program for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*) populations in [[Lake Mohave]], Arizona-Nevada. Submitted by researchers from [[Arizona...
 > -- *[[GeneticMonitoringOfRepatriated_17010]]*
 
+> This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
+> -- *[[AStudyToDetermineTheBiological_11576]]*
+
 ## Mentioned In
 - [[DatabaseManagementProgramColor_1993]]
 - [[GlenCanyonEnvironmentalStudies_1992_09_13]]
@@ -34,3 +37,4 @@ Pit tags, or Passive Integrated Transponder tags, are small electronic microchip
 - [[NativeFishWorkGroupMeetingMinu_15000]]
 - [[EndangeredSpeciesProgramReview_19696]]
 - [[GeneticMonitoringOfRepatriated_17010]]
+- [[AStudyToDetermineTheBiological_11576]]

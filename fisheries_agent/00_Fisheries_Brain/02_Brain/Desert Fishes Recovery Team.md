@@ -41,6 +41,12 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 > This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
 > -- *[[DesertFishesRecoveryTeamAddres_13785]]*
 
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
+> This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
+> -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -133,3 +139,5 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[DfrtAccomplishmentsduties_18989]]
 - [[DesertFishesRecoveryTeamAddres_13785]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[PresenceOfAlienPupfishMayJeopa_13727]]

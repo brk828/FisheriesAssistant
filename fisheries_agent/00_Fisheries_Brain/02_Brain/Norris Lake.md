@@ -11,5 +11,9 @@ Norris Lake is a Tennessee reservoir used as a comparison reference for tag retu
 > This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
 > -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
 
+> This 1956 study by J.B. Lackey documented the microscopic aquatic biota of the [[Clinch River]] system and adjacent waters in the [[Oak Ridge]] area, focusing on the relationship between suspended microorganisms and radioactivity from [[Oak Ridge National Laboratory]] (ORNL) operations. The survey...
+> -- *[[TheSuspendedMicrobiotaOfTheCli_12669]]*
+
 ## Mentioned In
 - [[ResultsOfAnOpeningWeekCreelCen_17745]]
+- [[TheSuspendedMicrobiotaOfTheCli_12669]]

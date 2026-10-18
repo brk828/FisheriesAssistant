@@ -56,6 +56,9 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 > This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
 > -- *[[GeneticDifferentiationAmongSub_18497]]*
 
+> This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
+> -- *[[GilaTopminnowsantaCruzRiver_20207]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -153,3 +156,4 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
 - [[GeneticDifferentiationAmongSub_18497]]
+- [[GilaTopminnowsantaCruzRiver_20207]]

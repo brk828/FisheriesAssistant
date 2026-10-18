@@ -14,5 +14,9 @@ auto_enriched: true
 > - **Colonization success rates** are low: estimates range from ~10% (Williamson) up to a likely-overestimated 35%; paleobiological estimates (Vermeij) for Miocene–Pleistocene biotic exchanges show most taxa achieving <1–24% establishment, rarely up to 46%. - **Impact prevalence**: Only an estimat...
 > -- *[[BiologicalInvasionsLessonsForE_16179]]*
 
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[BiologicalInvasionsLessonsForE_16179]]
+- [[ArizonaComparativeRiskProjectE_15833]]

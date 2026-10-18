@@ -17,6 +17,9 @@ The New Mexico Department of Game and Fish is the state regulatory agency respon
 > This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
 > -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
 
+> This document comprises museum correspondence and specimen records from May 1995 regarding holdings of [[Cyprinella formosa]] (Beautiful Shiner) from the [[Mimbres River]] in [[New Mexico]]. The records document specimens held at the Museum of Southwestern Biology (MSB) and the University of...
+> -- *[[CyprinellaFormosaMimbresRiverE_21256]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[LetterClarifyingReportingDates_1987_08_03]]
@@ -26,3 +29,4 @@ The New Mexico Department of Game and Fish is the state regulatory agency respon
 - [[ProceduresForIntroductionOfAqu_17182]]
 - [[WildlifeConservationActAmendme_1995]]
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
+- [[CyprinellaFormosaMimbresRiverE_21256]]

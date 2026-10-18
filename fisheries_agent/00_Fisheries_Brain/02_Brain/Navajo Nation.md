@@ -23,6 +23,9 @@ The Navajo Nation, in the context of fish science and aquatic ecology, represent
 > - **Regulatory Framework**: All deaths or injuries of [[Humpback Chub]] and [[Razorback Sucker]] incurred during authorized research must be reported to the Service's Region 6 office in Denver, with dead specimens salvageable for scientific study only by employees of federal land management agenc...
 > -- *[[ReminderNoticeOnReportingRequi_1993_07_02]]*
 
+> This document is a review memo from Jim to Minck evaluating ongoing [[Glen Canyon Environmental Studies]] projects focused on [[Humpback Chub]] (*Gila cypha*) recovery. The reviewer assesses research conducted by [[Arizona State University]]/[[Navajo Nation]], [[Arizona Fish and Game Department]],...
+> -- *[[ReviewOfGlenCanyonEnvironmenta_14007]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[GlenCanyonEnvironmentalStudies_1992_03_07]]
@@ -32,3 +35,4 @@ The Navajo Nation, in the context of fish science and aquatic ecology, represent
 - [[MeasuresToProtectAndEnhanceHum_11477]]
 - [[ReminderNoticeOnReportingRequi_1993_07_02]]
 - [[RosterLowerBasinRecoveryImplem_21095]]
+- [[ReviewOfGlenCanyonEnvironmenta_14007]]

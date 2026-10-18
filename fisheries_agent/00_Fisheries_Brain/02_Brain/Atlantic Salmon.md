@@ -26,6 +26,9 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 > This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
 > -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
 
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[BerkshireNationalFishHatcheryS_19579]]
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
@@ -59,3 +62,4 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 - [[TheSusceptibilityOfSalmonidFis_16705]]
 - [[TitleEffectOfTemperatureOnMort_15091]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[FishIntroductionsGoodManagemen_17630]]

@@ -44,6 +44,9 @@ Lepomis cyanellus, commonly known as the green sunfish, is a native centrarchid 
 > This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
 > -- *[[LiteratureReviewAndImpactRepor_14988]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[ARelativeStudyOfOxygenConsumpt_16948]]
@@ -66,3 +69,4 @@ Lepomis cyanellus, commonly known as the green sunfish, is a native centrarchid 
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[LiteratureReviewAndImpactRepor_14988]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

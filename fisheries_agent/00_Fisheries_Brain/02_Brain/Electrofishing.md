@@ -26,6 +26,9 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 > Two Oklahoma State University zoology professors, Dr. Troy C. Dorris and Dr. Robert C. Summerfelt, conducted a three-week study of fish populations in [[Lake Atitlan]], [[Guatemala]], in 1967 to address perceived fish shortages affecting the community of [[Santiago Atitlan]] (population 14,000)....
 > -- *[[FishPlentifulInGuatemalaLake_19070]]*
 
+> This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
+> -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
+
 ## Mentioned In
 - [[ANonlethalTechniqueToRecoverGu_1994]]
 - [[ASimpleTransportableLakeShocke_1966]]
@@ -42,3 +45,4 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 - [[SelectedReferencesOnElectrofis_1980_05_06]]
 - [[TheUseOfRotenoneAndElectrofish_17705]]
 - [[FishPlentifulInGuatemalaLake_19070]]
+- [[SafetyAsRelatedToTheUseOfChemi_11812]]

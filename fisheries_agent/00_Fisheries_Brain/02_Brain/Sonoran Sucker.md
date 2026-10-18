@@ -35,6 +35,9 @@ The Sonoran Sucker (Catostomus insignis) is a native cyprinid fish species endem
 > This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
 > -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
 
+> This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
+> -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
+
 ## Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -49,3 +52,4 @@ The Sonoran Sucker (Catostomus insignis) is a native cyprinid fish species endem
 - [[DraftdistributionAndIncidenceO_12207]]
 - [[AReportToTheArizonaNatureConse_15171]]
 - [[FishesOfTheSonoitaCreekDrainag_18558]]
+- [[HabitatStudyOfRoundtailChubGil_18268]]

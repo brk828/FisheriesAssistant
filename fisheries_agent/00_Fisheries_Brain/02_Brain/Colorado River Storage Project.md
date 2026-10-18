@@ -20,9 +20,13 @@ The Colorado River Storage Project (CRSP) is a major federal water development i
 > This technical report documents the [[Bureau of Reclamation]]'s systematic failure to comply with the [[National Environmental Policy Act]] (NEPA) regarding [[Glen Canyon Dam]] operations from 1970-1990. Despite multiple court stipulations, legal commitments, and documented environmental...
 > -- *[[AgencyRecalcitranceAndEvasionR_20349]]*
 
+> This report documents the second year (February 1, 1965 - January 31, 1966) of cooperative fisheries investigation at [[Lake Powell]] ([[Glen Canyon Reservoir]]) conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. The study combined systematic creel census...
+> -- *[[GlenCanyonUnitcoloradoRiverSto_14583]]*
+
 ## Mentioned In
 - [[EstablishingAColoradoRiverCons_20111]]
 - [[StationProfileHotchkissNationa_19549]]
 - [[StationProfileJonesHoleNationa_19544]]
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
 - [[AgencyRecalcitranceAndEvasionR_20349]]
+- [[GlenCanyonUnitcoloradoRiverSto_14583]]

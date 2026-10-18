@@ -35,6 +35,9 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 > This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
 > -- *[[LongtermLimnologicalAndWaterQu_17092]]*
 
+> Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
+> -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[FishHandlingAssessmentOnGrandC_1991_09_05]]
@@ -56,3 +59,4 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 - [[MorphologicalVariationInCatost_13689]]
 - [[RiverResourceMonitoringProject_18503]]
 - [[LongtermLimnologicalAndWaterQu_17092]]
+- [[MinutesOfTheMeetingOfTheTechni_20887]]

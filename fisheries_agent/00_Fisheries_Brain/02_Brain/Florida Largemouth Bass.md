@@ -17,9 +17,21 @@ The Florida Largemouth Bass (*Micropterus salmoides floridanus*) is a subspecies
 > - **[[Channel Catfish]]** (*Ictalurus punctatus*) — family [[Ictaluridae]] - **[[Florida Largemouth Bass]]** (*Micropterus salmoides floridanus*) — family [[Centrarchidae]] - **[[Striped Bass]]** (*Morone saxatilis*) — family [[Moronidae]] - **[[Goldfish]]** (*Carassius auratus*) — family [[Cypri...
 > -- *[[StationProfileOfTheU_1991]]*
 
+> This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
+> -- *[[PublicationsOfPeterBMoyle_15442]]*
+
+> This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
+> -- *[[FisheriesManagementOfElCapitan_16317]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[AnAquaculturalEvaluationOfFlor_1988]]
 - [[DifferentialResponseToHandling_1986]]
 - [[GeneticMarkerIdentificationInL_1986]]
 - [[MinimallyInvasiveTissueSamplin_15426]]
 - [[StationProfileOfTheU_1991]]
+- [[PublicationsOfPeterBMoyle_15442]]
+- [[FisheriesManagementOfElCapitan_16317]]
+- [[FishIntroductionsGoodManagemen_17630]]

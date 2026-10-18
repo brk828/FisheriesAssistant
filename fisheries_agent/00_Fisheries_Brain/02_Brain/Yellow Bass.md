@@ -35,6 +35,9 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 > This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
 > -- *[[InvestigationsOfCommercialFish_18562]]*
 
+> This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
+> -- *[[TheDesirabilityOfIntroducingWh_16080]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -63,3 +66,4 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[TheVertebratesOfArizona_1964]]
 - [[InvestigationsOfCommercialFish_18562]]
+- [[TheDesirabilityOfIntroducingWh_16080]]

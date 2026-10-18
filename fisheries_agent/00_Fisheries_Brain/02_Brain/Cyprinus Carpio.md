@@ -29,6 +29,9 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 > This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
 > -- *[[LiteratureReviewAndImpactRepor_14988]]*
 
+> This FAO Fisheries Circular (No. 724 Revision 2) is a comprehensive bibliographic compilation of 255 selected reference books and monographs on freshwater aquaculture published between 1951 and 1984. Compiled by André G. Coche of the [[Inland Water Resources and Aquaculture Service]], the document...
+> -- *[[AquacultureInFreshWatersAListO_15987]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -49,3 +52,4 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[LiteratureReviewAndImpactRepor_14988]]
+- [[AquacultureInFreshWatersAListO_15987]]

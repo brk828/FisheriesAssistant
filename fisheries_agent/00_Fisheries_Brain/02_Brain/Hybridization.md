@@ -20,6 +20,9 @@ Hybridization in fish science refers to the interbreeding between different spec
 > **Taxonomic & Life-History Summary:** This study revises the [[Redeye Bass]] (*Micropterus coosae*) species complex, originally described by Hubbs and Bailey (1940) from the Mobile River basin, Chattahoochee, and Savannah rivers. Examination of morphological variation and mitochondrial DNA (ND2...
 > -- *[[DiversityWithinTheRedeyeBassMi_2013]]*
 
+> This 1977 legal memorandum from the U.S. Department of the Interior Office of the Solicitor reverses an earlier opinion regarding whether hybrid offspring of endangered or threatened species are protected under the [[Endangered Species Act]] of 1973. After receiving biological information...
+> -- *[[WhetherHybridsAreCoveredByTheE_15615]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[DifferentiationInFishesOfTheAm_12774]]
@@ -28,3 +31,4 @@ Hybridization in fish science refers to the interbreeding between different spec
 - [[LongDurationOfSpermFunctionInT_1958]]
 - [[ReferencesWithNewInformationFo_1987_04_12]]
 - [[DiversityWithinTheRedeyeBassMi_2013]]
+- [[WhetherHybridsAreCoveredByTheE_15615]]

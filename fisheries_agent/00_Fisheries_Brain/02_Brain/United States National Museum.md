@@ -20,9 +20,13 @@ auto_enriched: true
 > This 1906 taxonomic review by [[Jordan]] and [[Snyder]] documents two species of killifishes (family [[Poeciliidae]]) from Japan: [[Fundulichthys virescens]] and [[Oryzias latipes]]. Both are small fishes inhabiting rice swamps, pools, and ditches in southern Japan, likely feeding on mosquitoes....
 > -- *[[AReviewOfThePoeciliidaeOrKillf_19855]]*
 
+> This taxonomic paper describes a new genus (*Saurocythere*) and two new species of entocytherid ostracods (*Saurocythere rhipis* and *Ornithocythere gypodes*) collected from [[Cambarus Diogenes Diogenes]] crayfish in [[Alabama]] and [[Mississippi]]. The new genus *Saurocythere* is unique among...
+> -- *[[ANewGenusAndTwoNewSpeciesOfEnt_20413]]*
+
 ## Mentioned In
 - [[GirardinusSonoriensisMczCatalo_1994_09_01]]
 - [[NotesOnFishesCollectedByCaptCh_15664]]
 - [[CyprettaKawataiANewSpeciesOfFr_11780]]
 - [[TaxonomicStatusEcologyAndDistr_15409]]
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
+- [[ANewGenusAndTwoNewSpeciesOfEnt_20413]]

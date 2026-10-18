@@ -11,6 +11,9 @@ The River Continuum Concept is a foundational framework in aquatic ecology that 
 > - **Flow-driven zonation**: Works by Illies & Botosaneanu (1963) and Lauterborn (1916-18) establish geomorphological and biological zonation schemes for rivers (e.g., the Rhine), directly relevant to niche partitioning along a river's longitudinal gradient — a precursor concept to the [[River Con...
 > -- *[[TheLargeRiverAsAHabitatReferen_14556]]*
 
+> This FY-1994 proposal from the Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin outlines a comprehensive, interdisciplinary ecosystem study to assess how flow alterations and geomorphic changes affect food availability for the endangered [[Colorado...
+> -- *[[ImpactOfFlowsAndGeomorphologyO_11214]]*
+
 ## Mentioned In
 - [[CommunityStructureInNaturalStr_16506]]
 - [[EcologicalValueOfFloodedBottom_20860]]
@@ -18,3 +21,4 @@ The River Continuum Concept is a foundational framework in aquatic ecology that 
 - [[ImportedOrganicMatterAndSecond_14569]]
 - [[TheLargeRiverAsAHabitatReferen_14556]]
 - [[VersuchEinerAllgemeinenBiozöno_1961]]
+- [[ImpactOfFlowsAndGeomorphologyO_11214]]

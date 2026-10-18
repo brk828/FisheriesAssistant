@@ -50,6 +50,12 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 > This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
 > -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
 
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
+> On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
+> -- *[[LoachMinnow_19034]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -76,3 +82,5 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]
+- [[LoachMinnow_19034]]

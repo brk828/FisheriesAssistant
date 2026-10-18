@@ -17,7 +17,11 @@ Montezuma Well is a naturally occurring limestone sinkhole in Arizona that funct
 > > **Note on scope:** This source paper does **not** contain fish science data. It is a botanical/ecological survey of the persistent perennial vegetation (trees, shrubs, cacti) on the rim of Montezuma Well, a limestone sinkhole in Arizona that also hosts a well-studied aquatic ecosystem (referenc...
 > -- *[[ThePersistentPerennialVegetati_15904]]*
 
+> This document presents results from two public opinion surveys conducted in the [[Verde Valley]], Arizona between Fall 1990 and 1991. The first survey was administered at Verde River Days 1991, while the second was a comprehensive mail survey of community residents (n=94, 36% response rate) and...
+> -- *[[VerdeValleyReportsAndSurveysFr_12879]]*
+
 ## Mentioned In
 - [[HabitatsOfNorthAmericanDesertF_1981]]
 - [[LimnologicalInvestigationsInAr_1963]]
 - [[ThePersistentPerennialVegetati_15904]]
+- [[VerdeValleyReportsAndSurveysFr_12879]]

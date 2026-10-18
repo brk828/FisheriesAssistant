@@ -38,6 +38,9 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 > This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
 > -- *[[ReportToTheDesertFishesCouncil_13683]]*
 
+> This completion report (1972-1975) documents the environmental impacts of pumped-storage hydroelectric generation on the lower Salt River reservoir chain in Central Arizona. The study focused on [[Canyon Lake]] and [[Saguaro Lake]], two desert reservoirs subjected to massive operational...
+> -- *[[InfluenceOfPumpStorageAndGener_15886]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AlbinisticCarpCyprinusCarpioFr_1968_04_18]]
@@ -57,3 +60,4 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 - [[TheVertebratesOfArizona_1964]]
 - [[InvestigationsOfCommercialFish_18562]]
 - [[ReportToTheDesertFishesCouncil_13683]]
+- [[InfluenceOfPumpStorageAndGener_15886]]

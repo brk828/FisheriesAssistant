@@ -200,6 +200,30 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > On April 10, 1990, the U.S. Fish and Wildlife Service issued a draft jeopardy biological opinion regarding the [[Animas-La Plata]] irrigation project in southwest Colorado and northeast New Mexico. The opinion concludes that construction of the project would likely jeopardize the continued...
 > -- *[[FishAndWildlifeServiceIssuesDr_20983]]*
 
+> This document is the final rule issued by the [[U.S. Fish and Wildlife Service]] on August 27, 1984, implementing Section 10(j) of the [[Endangered Species Act]] (ESA) as amended in 1982. The rule establishes procedures for designating and managing "experimental populations" of endangered or...
+> -- *[[EndangeredAndThreatenedWildlif_11548]]*
+
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This December 26, 1984 memorandum from the Regional Director of [[U.S. Fish and Wildlife Service]] Region 2 (Southeast) updates internal procedures for [[Endangered Species Act]] (ESA) Section 7 consultations. Effective immediately, Ecological Services field offices will conduct intra-Service...
+> -- *[[RegionEndangeredSpeciesActIntr_11825]]*
+
+> This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
+> -- *[[PublicationsOfPeterBMoyle_15442]]*
+
+> This 1977 legal memorandum from the U.S. Department of the Interior Office of the Solicitor reverses an earlier opinion regarding whether hybrid offspring of endangered or threatened species are protected under the [[Endangered Species Act]] of 1973. After receiving biological information...
+> -- *[[WhetherHybridsAreCoveredByTheE_15615]]*
+
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
+> This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
+> -- *[[LetterToCentralArizonaWaterCon_17898]]*
+
+> This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
+> -- *[[GilaTopminnowsantaCruzRiver_20207]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -548,3 +572,11 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[BonytailReintroductionPlanForT_20248]]
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[FishAndWildlifeServiceIssuesDr_20983]]
+- [[EndangeredAndThreatenedWildlif_11548]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[RegionEndangeredSpeciesActIntr_11825]]
+- [[PublicationsOfPeterBMoyle_15442]]
+- [[WhetherHybridsAreCoveredByTheE_15615]]
+- [[NativeRockyMountainTroutAndSto_17773]]
+- [[LetterToCentralArizonaWaterCon_17898]]
+- [[GilaTopminnowsantaCruzRiver_20207]]

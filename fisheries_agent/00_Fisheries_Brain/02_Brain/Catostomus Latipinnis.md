@@ -38,6 +38,9 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 > This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
 > -- *[[LiteratureReviewAndImpactRepor_14988]]*
 
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
 ## Mentioned In
 - [[CommentsOnAndChangesToAnimalNo_11856]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -56,3 +59,4 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[DraftecologicalDeterminismHybr_12773]]
 - [[LiteratureReviewAndImpactRepor_14988]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]

@@ -50,6 +50,12 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
 > -- *[[ManagementGroupMeetingSummary_19219]]*
 
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
+> This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
+> -- *[[BureauOfReclamationAnnouncesPu_20788]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[ErrataSheetFyWorkPlanForTheRec_20993]]
@@ -67,3 +73,5 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 - [[SummaryjanuaryManagementGroupM_21002]]
 - [[NotesOfTheBriefingHeldNovember_11848]]
 - [[ManagementGroupMeetingSummary_19219]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[BureauOfReclamationAnnouncesPu_20788]]

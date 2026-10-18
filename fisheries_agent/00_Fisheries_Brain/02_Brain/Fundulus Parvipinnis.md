@@ -14,6 +14,10 @@ auto_enriched: true
 > - **Hatching temperature range**: Fertilized *F. kansae* eggs hatched successfully between **12.6°C and 35.8°C**. - **Full successful development** (hatch, swim normally, deplete yolk) occurred between **15°C and 34.3°C**; more than half of eggs were successful between **16.8°C and 33.5°C**. - **...
 > -- *[[DevelopmentalRatesAndTolerance_12106]]*
 
+> This 1960 research paper by William N. McFarland from the [[Institute of Marine Science]], [[University of Texas]], Port Aransas, provides comprehensive experimental evidence for the use of chemical anesthetics in fisheries operations. The study demonstrates that properly induced anesthesia...
+> -- *[[TheUseOfAnestheticsForTheHandl_12317]]*
+
 ## Mentioned In
 - [[DevelopmentalRatesAndTolerance_12106]]
 - [[SeasonalChangesInTheStandardRa_1964]]
+- [[TheUseOfAnestheticsForTheHandl_12317]]

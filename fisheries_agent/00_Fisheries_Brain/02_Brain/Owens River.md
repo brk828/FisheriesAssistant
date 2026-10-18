@@ -17,6 +17,9 @@ The Owens River is a critical freshwater system in California's eastern Sierra N
 > This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
 > -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
 
+> This 1918 taxonomic description by [[John Otterbein Snyder]] documents the fish fauna of the [[Mohave River]] in southern California, identifying a single species belonging to the genus *[[Siphateles]]*. The author describes *Siphateles mohavensis* as a new species distinct from geographically...
+> -- *[[TheFishesOfMohaveRiverCaliforn_21253]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -25,3 +28,4 @@ The Owens River is a critical freshwater system in California's eastern Sierra N
 - [[LetterToCurtisMillironOnLongVa_1988_12_29]]
 - [[LetterToWLMinckleyRegardingThe_1994_05_19]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[TheFishesOfMohaveRiverCaliforn_21253]]

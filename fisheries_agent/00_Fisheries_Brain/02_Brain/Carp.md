@@ -95,6 +95,30 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This report documents intensive field research conducted during May 1988 on the [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona. The study employed multiple netting methods (trammel nets, hoop nets, fyke nets, seines, drift nets) operated continuously over 28...
 > -- *[[SummaryReportOnResearchConduct_18505]]*
 
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
+> This report describes a severely deformed [[Carp]] (*Cyprinus carpio*) caught in October 1949 from an irrigation canal in [[Imperial County]], California. The specimen exhibited extreme vertebral fusion with at least 10 centra fused into a solid segment at the midlength of the vertebral column,...
+> -- *[[AnAbnormalCarpCyprinusCarpioFr_12321]]*
+
+> This report documents the second year (February 1, 1965 - January 31, 1966) of cooperative fisheries investigation at [[Lake Powell]] ([[Glen Canyon Reservoir]]) conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. The study combined systematic creel census...
+> -- *[[GlenCanyonUnitcoloradoRiverSto_14583]]*
+
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
+> This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
+> -- *[[FisheriesManagementOfElCapitan_16317]]*
+
+> This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
+> -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -170,3 +194,11 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[FurtherInformationOnTheSpikeda_13737]]
 - [[ProposalToListTheRazorbackSuck_14703]]
 - [[SummaryReportOnResearchConduct_18505]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[AnAbnormalCarpCyprinusCarpioFr_12321]]
+- [[GlenCanyonUnitcoloradoRiverSto_14583]]
+- [[TailwaterFisheryInvestigationC_14594]]
+- [[ProgressReportOfTheCultureOfTi_14692]]
+- [[FishingEffortAndHarvestByArizo_15066]]
+- [[FisheriesManagementOfElCapitan_16317]]
+- [[HabitatStudyOfRoundtailChubGil_18268]]

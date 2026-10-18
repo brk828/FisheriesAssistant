@@ -11,5 +11,9 @@ Safford is a location in Arizona near the Big Spring topminnow reintroduction si
 > This memorandum documents severe flood damage to the [[Big Spring]] [[Gila Topminnow]] reintroduction site in [[Graham County]], Arizona, following an intense localized storm on August 21, 1990. The flood destroyed critical pool habitat, reduced the observable topminnow population from abundant to...
 > -- *[[ReportOfFloodDamageToBigSpring_18984]]*
 
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
 ## Mentioned In
 - [[ReportOfFloodDamageToBigSpring_18984]]
+- [[BiologicalOpinionForReroutingO_11747]]

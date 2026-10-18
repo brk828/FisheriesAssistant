@@ -26,6 +26,9 @@ Campostoma anomalum, commonly known as the central stoneroller, is a small cypri
 > This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
 > -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
 
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
 ## Mentioned In
 - [[ASimpleSystemOfReplicatedRecir_15208]]
 - [[ChecklistOfPecosRiverAndMexica_18282]]
@@ -37,3 +40,4 @@ Campostoma anomalum, commonly known as the central stoneroller, is a small cypri
 - [[SurvivalAndAbundanceOfIntroduc_14259]]
 - [[WhyLinkSpeciesAndEcosystemsAPe_1994]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]

@@ -56,6 +56,12 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 > The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
 > -- *[[IntroductionOfPalaemonetesPalu_20723]]*
 
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
+> Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
+> -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
+
 ## Mentioned In
 - [[HumpbackChubGilaCypha_18257]]
 - [[ReCommentsOnTheFederalRegister_11571]]
@@ -76,3 +82,5 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 - [[ProposalToListTheRazorbackSuck_14703]]
 - [[EffectOfChannelizationOnTheFis_18139]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
+- [[ArizonaComparativeRiskProjectE_15833]]
+- [[MinutesOfTheMeetingOfTheTechni_20887]]

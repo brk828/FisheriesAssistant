@@ -20,6 +20,12 @@ Roosevelt Dam, constructed on the Salt River in Arizona, is a major water infras
 > The U.S. Fish and Wildlife Service establishes "nonessential experimental" populations of [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Woundfin]] (*Plagopterus argentissimus*) in the [[Gila River]] drainage of Arizona under Section 10(j) of the Endangered Species Act of 1973. This...
 > -- *[[EndangeredAndThreatenedWildlif_11550]]*
 
+> This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
+> -- *[[LetterToCentralArizonaWaterCon_17898]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[EndangeredFishes_12619]]
 - [[FaunalResourceUseInThePrehisto_17343]]
@@ -27,3 +33,5 @@ Roosevelt Dam, constructed on the Salt River in Arizona, is a major water infras
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[SaltRiverProjectRooseveltDiver_15070]]
 - [[EndangeredAndThreatenedWildlif_11550]]
+- [[LetterToCentralArizonaWaterCon_17898]]
+- [[SelectionsFromUniversityOfMich_18288]]

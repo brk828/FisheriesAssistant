@@ -38,6 +38,9 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 > This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
 > -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AsianTapewormEradicationStrate_13118]]
@@ -71,3 +74,4 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 - [[FieldNotesOfTripToSanBernardin_13172]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
 - [[PlansToObtainLiveRioYaquiFishe_14087]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

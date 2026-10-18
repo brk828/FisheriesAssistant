@@ -23,6 +23,12 @@ auto_enriched: true
 > This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
 > -- *[[GeneticDifferentiationAmongSub_18497]]*
 
+> This December 26, 1984 memorandum from the Regional Director of [[U.S. Fish and Wildlife Service]] Region 2 (Southeast) updates internal procedures for [[Endangered Species Act]] (ESA) Section 7 consultations. Effective immediately, Ecological Services field offices will conduct intra-Service...
+> -- *[[RegionEndangeredSpeciesActIntr_11825]]*
+
+> This document comprises museum correspondence and specimen records from May 1995 regarding holdings of [[Cyprinella formosa]] (Beautiful Shiner) from the [[Mimbres River]] in [[New Mexico]]. The records document specimens held at the Museum of Southwestern Biology (MSB) and the University of...
+> -- *[[CyprinellaFormosaMimbresRiverE_21256]]*
+
 ## Mentioned In
 - [[RainbowSmeltIntroductionIntoLa_1989]]
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
@@ -31,3 +37,5 @@ auto_enriched: true
 - [[ReBiologicalOpinionOnRepairOfF_15004]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[GeneticDifferentiationAmongSub_18497]]
+- [[RegionEndangeredSpeciesActIntr_11825]]
+- [[CyprinellaFormosaMimbresRiverE_21256]]

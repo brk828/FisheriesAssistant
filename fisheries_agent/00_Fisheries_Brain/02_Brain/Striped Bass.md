@@ -107,6 +107,27 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
 > -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
 
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
+> This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
+> -- *[[PublicationsOfPeterBMoyle_15442]]*
+
+> This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
+> -- *[[TheDesirabilityOfIntroducingWh_16080]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
+> This study analyzed 387 [[Striped Bass]] (*Roccus saxatilis*) stomachs collected by anglers over one year (1947-1948) in [[San Francisco Bay]] and the [[San Joaquin River]] Delta. The sample was divided into summer/fall (229 stomachs) and winter/spring (158 stomachs) collections. [[Crago]] shrimp...
+> -- *[[FoodHabitsOfCaliforniaStripedB_19825]]*
+
+> Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
+> -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -238,3 +259,10 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[ProposalToListTheRazorbackSuck_14703]]
 - [[ReviewOfPotentialForageFishInt_19139]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[FishingEffortAndHarvestByArizo_15066]]
+- [[PublicationsOfPeterBMoyle_15442]]
+- [[TheDesirabilityOfIntroducingWh_16080]]
+- [[FishIntroductionsGoodManagemen_17630]]
+- [[FoodHabitsOfCaliforniaStripedB_19825]]
+- [[MinutesOfTheMeetingOfTheTechni_20887]]

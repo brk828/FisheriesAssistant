@@ -23,6 +23,9 @@ Chara is an aquatic macrophyte (stonewort) that serves as critical habitat struc
 > This progress report covers the first six months (through January 1, 1961) of NSF Research Grant G13261 investigating the [[Characeae]] (stoneworts), a group of complex aquatic plants. Principal Investigator Arland Hotchkiss from the [[University of Louisville]] Department of Biology reports...
 > -- *[[TheBearingOfCytologicalAndCert_19928]]*
 
+> This completion report (1972-1975) documents the environmental impacts of pumped-storage hydroelectric generation on the lower Salt River reservoir chain in Central Arizona. The study focused on [[Canyon Lake]] and [[Saguaro Lake]], two desert reservoirs subjected to massive operational...
+> -- *[[InfluenceOfPumpStorageAndGener_15886]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -31,3 +34,4 @@ Chara is an aquatic macrophyte (stonewort) that serves as critical habitat struc
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[WeedControlPossibilitiesInMass_14648]]
 - [[TheBearingOfCytologicalAndCert_19928]]
+- [[InfluenceOfPumpStorageAndGener_15886]]

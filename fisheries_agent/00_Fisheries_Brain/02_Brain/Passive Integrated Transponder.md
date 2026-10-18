@@ -17,7 +17,11 @@ auto_enriched: true
 > This document reports on the 1990 accomplishments of the [[Native Fish Work Group]] (NFWG), a multiagency task force established to address the declining [[Razorback Sucker]] population in [[Lake Mohave]]. The NFWG successfully drafted a comprehensive Management/Research Plan and constructed a...
 > -- *[[ReportOfTheAccomplishmentsOfTh_19807]]*
 
+> This document is a formal petition submitted to the [[Arizona Game and Fish Commission]] in 1994 by M. Brent Peugnet and the [[Arizona Herpetological Association]] (AHA, 222 members, 147 Arizona residents) requesting establishment of a new rule permitting commercial captive propagation of specific...
+> -- *[[DraftAndRevisedVersionsOfPetit_11208]]*
+
 ## Mentioned In
 - [[PetitionForNewRuleOnCaptivePro_1994_07_08]]
 - [[DemographicsAndMonitoringOfRep_2020]]
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
+- [[DraftAndRevisedVersionsOfPetit_11208]]

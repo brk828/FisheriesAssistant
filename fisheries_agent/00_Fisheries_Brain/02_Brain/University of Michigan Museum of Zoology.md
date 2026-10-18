@@ -20,6 +20,9 @@ The University of Michigan Museum of Zoology is a major institutional repository
 > This letter from Robert R. Miller, Curator of Fishes at the [[University of Michigan Museum of Zoology]], to the [[American Museum of Natural History]] reviews a manuscript describing two new species of [[Catostomus]] (suckers) from northern Mexico. Miller confirms the validity of both species as...
 > -- *[[ReManuscriptDescribingTwoNewSp_15374]]*
 
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[CorrespondenceBetweenRobertRMi_15382]]
 - [[NewDistributionalRecordsOfIlli_1988]]
@@ -27,3 +30,4 @@ The University of Michigan Museum of Zoology is a major institutional repository
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[TaxonomicStatusEcologyAndDistr_15409]]
 - [[ReManuscriptDescribingTwoNewSp_15374]]
+- [[SelectionsFromUniversityOfMich_18288]]

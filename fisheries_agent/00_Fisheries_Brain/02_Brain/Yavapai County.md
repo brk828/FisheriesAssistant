@@ -11,5 +11,9 @@ Yavapai County is a county in Arizona that contains Tule Creek. This source docu
 > This memorandum documents a May 3, 1990 site visit by biologists from the [[U.S. Fish and Wildlife Service]], [[Arizona Game and Fish Department]], and [[Bureau of Reclamation]] to evaluate four potential fish barrier sites on [[Tule Creek]], [[Yavapai County]], Arizona. The group reached consensus...
 > -- *[[SiteVisitPotentialFishBarrierS_11854]]*
 
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[SiteVisitPotentialFishBarrierS_11854]]
+- [[SelectionsFromUniversityOfMich_18288]]

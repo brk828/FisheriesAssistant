@@ -110,6 +110,12 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 > This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
 > -- *[[FyReportingAndAccounting_21020]]*
 
+> This master's thesis documents a 17-month telemetry study (November 1994–August 1996) tracking movements of 20 adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a 108-km regulatory reservoir on the [[Colorado River]]. Ten individuals (4 males, 6 females) survived the study...
+> -- *[[MovementsOfAdultRazorbackSucke_12585]]*
+
+> This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
+> -- *[[TailwaterFisheryInvestigationC_14594]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -272,3 +278,5 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 - [[FishWithoutARiverTheCaptiveBre_19094]]
 - [[SamplingAtAsuResearchParkAutum_19458]]
 - [[FyReportingAndAccounting_21020]]
+- [[MovementsOfAdultRazorbackSucke_12585]]
+- [[TailwaterFisheryInvestigationC_14594]]

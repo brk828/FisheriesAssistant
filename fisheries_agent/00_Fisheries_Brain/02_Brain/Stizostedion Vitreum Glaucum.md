@@ -14,5 +14,9 @@ auto_enriched: true
 > - The Ontario fish fauna as catalogued in 1961 comprised **133 species/subspecies across 26 families**, representing a benchmark inventory prior to major Great Lakes ecosystem disruptions. - The **[[Coregonidae]]** (whitefishes and ciscoes) show the greatest species-level diversity among coldwate...
 > -- *[[AListOfOntarioFishes_11321]]*
 
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
+- [[FishIntroductionsGoodManagemen_17630]]

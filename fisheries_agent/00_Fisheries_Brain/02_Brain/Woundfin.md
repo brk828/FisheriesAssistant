@@ -71,6 +71,9 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 > This internal memorandum provides critical review of a U.S. Fish and Wildlife Service Environmental Assessment (EA) proposing rotenone treatment of the [[Virgin River]] to eradicate introduced [[Red Shiner]] (*Cyprinella lutrensis*) and facilitate recovery of the endangered [[Woundfin]]...
 > -- *[[CommentsOnVirginRiverEa_19382]]*
 
+> This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
+> -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -169,3 +172,4 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 - [[DraftcoloradoRiverEndangeredFi_13664]]
 - [[AuthorizationToUseTheRegionalD_15706]]
 - [[CommentsOnVirginRiverEa_19382]]
+- [[BiologicalOpinionOnTheEffectsO_11915]]

@@ -20,9 +20,13 @@ Saguaro Lake is a warm-water desert reservoir in Arizona characterized by high r
 > This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
 > -- *[[InvestigationsOfCommercialFish_18562]]*
 
+> This completion report (1972-1975) documents the environmental impacts of pumped-storage hydroelectric generation on the lower Salt River reservoir chain in Central Arizona. The study focused on [[Canyon Lake]] and [[Saguaro Lake]], two desert reservoirs subjected to massive operational...
+> -- *[[InfluenceOfPumpStorageAndGener_15886]]*
+
 ## Mentioned In
 - [[BranchiuraSowerbyiBeddardAnnel_16017]]
 - [[RiverBasinInvestigationsCooper_12958]]
 - [[RiverBasinInvestigationsVisito_12729]]
 - [[RooseveltLakeRazorbackSuckerRe_1994_08_19]]
 - [[InvestigationsOfCommercialFish_18562]]
+- [[InfluenceOfPumpStorageAndGener_15886]]

@@ -62,6 +62,33 @@ The White River refers to a river system in the south-central United States (pri
 > This doctoral dissertation by William R. Duffer (Oklahoma State University, 1965) examines community metabolism and oxygen dynamics in the relatively undisturbed [[Blue River]] in southeastern Oklahoma from June 1963 to August 1964. The study investigated how different geological substrates...
 > -- *[[OxygenBalanceInASouthernGreatP_19151]]*
 
+> This FY-1994 proposal from the Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin outlines a comprehensive, interdisciplinary ecosystem study to assess how flow alterations and geomorphic changes affect food availability for the endangered [[Colorado...
+> -- *[[ImpactOfFlowsAndGeomorphologyO_11214]]*
+
+> This document presents the Fiscal Year 1992 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on August 15, 1991, the plan allocates $2,988,900 across five recovery...
+> -- *[[FiscalYearWorkPlan_11594]]*
+
+> The [[White River Spinedace]] (*Lepidomeda albivallis*) is a federally endangered cyprinid fish endemic to northern [[White River Valley]] in [[Nevada]]. As of June 1991, the species persisted in only one of seven historically occupied habitats—the northern spring of the [[Flag Springs]]...
+> -- *[[WhiteRiverSpinedaceLepidomedaA_11636]]*
+
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
+> This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
+> -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
+
+> This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
+> -- *[[CompletionReportYampawhitePhys_18677]]*
+
+> On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
+> -- *[[LoachMinnow_19034]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -101,3 +128,12 @@ The White River refers to a river system in the south-central United States (pri
 - [[FurtherInformationOnTheSpikeda_13737]]
 - [[RecoveryPlanForTheEndangeredBo_17173]]
 - [[OxygenBalanceInASouthernGreatP_19151]]
+- [[ImpactOfFlowsAndGeomorphologyO_11214]]
+- [[FiscalYearWorkPlan_11594]]
+- [[WhiteRiverSpinedaceLepidomedaA_11636]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[HabitatStudyOfRoundtailChubGil_18268]]
+- [[CompletionReportYampawhitePhys_18677]]
+- [[LoachMinnow_19034]]

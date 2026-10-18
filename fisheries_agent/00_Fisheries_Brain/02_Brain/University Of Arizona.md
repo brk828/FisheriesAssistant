@@ -41,6 +41,15 @@ The University of Arizona served as an institutional partner in federally-author
 > This document is official correspondence from the [[National Park Service]] (NPS) dated March 24, 1989, addressed to Dr. John C. Gordon, Dean of the [[Yale School of Forestry and Environmental Studies]], regarding the establishment of a Commission on Research and Resource Management Policy in the...
 > -- *[[NationalParksAndConservationAs_15435]]*
 
+> This 1966 field guide by P. E. Pickens from the [[University of Arizona]] Department of Zoology documents the invertebrate fauna of [[Puerto Peñasco]], [[Sonora]], [[Mexico]] in the [[Gulf of California]]. The guide presents identification keys, illustrations, and distributional data for major...
+> -- *[[AFieldGuideToSomeOfTheInverteb_11179]]*
+
+> This document presents results from two public opinion surveys conducted in the [[Verde Valley]], Arizona between Fall 1990 and 1991. The first survey was administered at Verde River Days 1991, while the second was a comprehensive mail survey of community residents (n=94, 36% response rate) and...
+> -- *[[VerdeValleyReportsAndSurveysFr_12879]]*
+
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
 ## Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -57,3 +66,6 @@ The University of Arizona served as an institutional partner in federally-author
 - [[PlanningEffortNearItsConclusio_11515]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[NationalParksAndConservationAs_15435]]
+- [[AFieldGuideToSomeOfTheInverteb_11179]]
+- [[VerdeValleyReportsAndSurveysFr_12879]]
+- [[ProgressReportOfTheCultureOfTi_14692]]

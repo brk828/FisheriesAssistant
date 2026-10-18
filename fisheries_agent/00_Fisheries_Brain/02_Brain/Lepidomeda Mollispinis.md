@@ -14,6 +14,9 @@ Lepidomeda mollispinis, commonly known as the Virgin River spinedace, is a small
 > This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
 > -- *[[EvolutionaryRelationshipsOfThe_19110]]*
 
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[EndangeredAndThreatenedWildlif_1993_03_16]]
@@ -22,3 +25,4 @@ Lepidomeda mollispinis, commonly known as the Virgin River spinedace, is a small
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
+- [[SelectionsFromUniversityOfMich_18288]]

@@ -59,6 +59,9 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 > This 1953 report documents severe fishery losses resulting from [[Bureau of Reclamation]] channelization of the lower [[Colorado River]] between [[Needles]] and [[Topock]], California. Between 1936-1938, completion of [[Hoover Dam]], [[Parker Dam]], and [[Imperial Dam]] created favorable conditions...
 > -- *[[EffectOfChannelizationOnTheFis_18139]]*
 
+> This 1955 report documents the distribution and status of the introduced [[Pumpkinseed]] (*Lepomis gibbosus*) in [[California]]. The species was considered rare in the state, with scattered populations in widely separated locations. The authors compile historical records from 1939-1954, correcting...
+> -- *[[TheStatusOfThePumpkinseedLepom_12862]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AGrowthStudyAndBloodProteinAna_15288]]
@@ -151,3 +154,4 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[EffectOfChannelizationOnTheFis_18139]]
+- [[TheStatusOfThePumpkinseedLepom_12862]]

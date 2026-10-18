@@ -68,6 +68,15 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 > This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
 > -- *[[BureauOfReclamationsFailureToR_18964]]*
 
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
+> This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
+> -- *[[LetterToCentralArizonaWaterCon_17898]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -103,3 +112,6 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 - [[PublicMeetingsAnnoucnementAndP_11475]]
 - [[PreliminaryReviewAndAnalysisOf_11672]]
 - [[BureauOfReclamationsFailureToR_18964]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[ArizonaComparativeRiskProjectE_15833]]
+- [[LetterToCentralArizonaWaterCon_17898]]

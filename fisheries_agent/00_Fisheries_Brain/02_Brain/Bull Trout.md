@@ -26,6 +26,9 @@ Bull Trout are a native, cold-water salmonid species valued in conservation and 
 > This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
 > -- *[[SummaryStatementOfInsightsFrom_20854]]*
 
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
 ## Mentioned In
 - [[CrestonNationalFishHatcherySta_1994_01_03]]
 - [[OwnersToDemolishDamThatBlocksF_14938]]
@@ -33,3 +36,4 @@ Bull Trout are a native, cold-water salmonid species valued in conservation and 
 - [[ViewsOfAFishBiologistFromAFede_15069]]
 - [[EndangeredAndThreatenedWildlif_11741]]
 - [[SummaryStatementOfInsightsFrom_20854]]
+- [[NativeRockyMountainTroutAndSto_17773]]

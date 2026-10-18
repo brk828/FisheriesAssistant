@@ -53,6 +53,15 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
 > -- *[[DraftConservationStrategyVirgi_11659]]*
 
+> This dissertation proposal by Carol L. Secor (Arizona State University, 1998) outlines a comprehensive study to test whether introgressive hybridization with [[Pantosteus discobolus]] (bluehead sucker) has shaped the genetic and morphological patterns observed in the [[Pantosteus clarki]] (desert...
+> -- *[[DrafInfluenceOfHybridizationOn_11330]]*
+
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
+> -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -137,3 +146,6 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
 - [[AReportToTheArizonaNatureConse_15171]]
 - [[DraftConservationStrategyVirgi_11659]]
+- [[DrafInfluenceOfHybridizationOn_11330]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[ResultsOfFishMonitoringOfSelec_13200]]

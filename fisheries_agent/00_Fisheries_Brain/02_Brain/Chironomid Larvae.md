@@ -20,6 +20,9 @@ Chironomid larvae are aquatic insect larvae of the family Chironomidae (non-biti
 > This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
 > -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
 
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[DigestionRateOfThe_15655]]
@@ -27,3 +30,4 @@ Chironomid larvae are aquatic insect larvae of the family Chironomidae (non-biti
 - [[LimnologicalStudyOfGlenCanyonT_1965_06_30]]
 - [[RelationshipOfPhOfPondWatersTo_1961]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]

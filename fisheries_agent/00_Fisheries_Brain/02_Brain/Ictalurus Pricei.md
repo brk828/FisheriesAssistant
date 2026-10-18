@@ -26,6 +26,9 @@ Ictalurus pricei, commonly known as the Yaqui catfish, is a native North America
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
 > -- *[[MinutesDesertFishesRecoveryTea_15843]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[CorrespondenceOnMexicanFishTax_1993_10_21]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -38,3 +41,4 @@ Ictalurus pricei, commonly known as the Yaqui catfish, is a native North America
 - [[LetterToDrWLMinckleyRegardingD_1990_11_05]]
 - [[ReEvaluationOfTheNativeFishesO_12336]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

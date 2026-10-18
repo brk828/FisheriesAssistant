@@ -17,8 +17,16 @@ Anguilla refers to a genus of catadromous eels found in freshwater and estuarine
 > This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
 > -- *[[Eel_14169]]*
 
+> This FAO Fisheries Circular (No. 724 Revision 2) is a comprehensive bibliographic compilation of 255 selected reference books and monographs on freshwater aquaculture published between 1951 and 1984. Compiled by André G. Coche of the [[Inland Water Resources and Aquaculture Service]], the document...
+> -- *[[AquacultureInFreshWatersAListO_15987]]*
+
+> This note documents eel specimens collected by P. I. R. Maclaren from the [[Zambesi River]] system in [[Northern Rhodesia]] between 1954 and 1956. Ten specimens were examined and identified using morphometric characters and coloration patterns following [[Ege]]'s (1939) taxonomic revision. The...
+> -- *[[ANoteOnEelsAnguillaSpp_18852]]*
+
 ## Mentioned In
 - [[FirstRecordOfTheElverOfTheAfri_1957_03_16]]
 - [[GuideToTheFreshwaterFishesOfMe_15301]]
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[Eel_14169]]
+- [[AquacultureInFreshWatersAListO_15987]]
+- [[ANoteOnEelsAnguillaSpp_18852]]

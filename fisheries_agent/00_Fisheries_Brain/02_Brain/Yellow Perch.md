@@ -71,6 +71,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
 > -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
 
+> This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
+> -- *[[TheDesirabilityOfIntroducingWh_16080]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -142,3 +145,4 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[TheMaineSmallmouth_14928]]
 - [[TheIncidenceAndDistributionOfT_15429]]
 - [[ALiteratureReviewOfTheEffectsO_20478]]
+- [[TheDesirabilityOfIntroducingWh_16080]]

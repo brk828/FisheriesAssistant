@@ -11,5 +11,9 @@ The Sacramento-San Joaquin River system, including its Delta and San Pablo Bay, 
 > This tagging study (1963-1966) investigated the migration patterns of [[Striped Bass]] (*Roccus saxatilis*) in [[Tomales Bay]], California, located 40 miles northwest of [[San Francisco]]. A total of 207 striped bass were tagged using disk-dangler tags, with 65 tag returns received by July 1968....
 > -- *[[MigrationsOfStripedBassOccurri_18606]]*
 
+> This 1918 taxonomic description by [[John Otterbein Snyder]] documents the fish fauna of the [[Mohave River]] in southern California, identifying a single species belonging to the genus *[[Siphateles]]*. The author describes *Siphateles mohavensis* as a new species distinct from geographically...
+> -- *[[TheFishesOfMohaveRiverCaliforn_21253]]*
+
 ## Mentioned In
 - [[MigrationsOfStripedBassOccurri_18606]]
+- [[TheFishesOfMohaveRiverCaliforn_21253]]

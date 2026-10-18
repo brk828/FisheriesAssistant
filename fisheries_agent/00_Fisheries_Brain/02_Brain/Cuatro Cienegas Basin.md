@@ -29,6 +29,9 @@ The Cuatro Ciénegas Basin is a unique hydrogeological system in Mexico characte
 > This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
 > -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
 
+> This 1988 letter from W. L. Minckley (Arizona State University) to Salvador Contreras Balderas (Universidad Autonoma de Nuevo Leon) proposes collaborative research on the endemic cichlid fishes of [[Cuatro Cienegas Basin]], Coahuila, Mexico. The proposal outlines a comprehensive study combining...
+> -- *[[ProposalForCollaborationBetwee_13766]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[CochliopinaMilleriCuatroCiéneg_19811]]
@@ -39,3 +42,4 @@ The Cuatro Ciénegas Basin is a unique hydrogeological system in Mexico characte
 - [[SomeEcologicalFeaturesOfTheCua_1998_06_15]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
 - [[TaxonomicStatusEcologyAndDistr_14514]]
+- [[ProposalForCollaborationBetwee_13766]]

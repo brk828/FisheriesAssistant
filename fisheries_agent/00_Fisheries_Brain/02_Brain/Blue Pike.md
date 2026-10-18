@@ -11,6 +11,10 @@ auto_enriched: true
 > This study, conducted by the [[Ohio Division of Wildlife]] beginning in 1952, evaluated three tag types—**strap tags**, **streamer-type tags**, and **monel metal ring-type jaw tags**—in a large-scale [[Lake Erie]] fish movement study. Over two years, approximately 60,685 fish across 27 species we...
 > -- *[[SomeMeritsOfThreeKindsOfMarker_18096]]*
 
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
 - [[SomeMeritsOfThreeKindsOfMarker_18096]]
+- [[FishIntroductionsGoodManagemen_17630]]

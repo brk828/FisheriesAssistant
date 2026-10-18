@@ -38,6 +38,9 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 > This internal memorandum provides critical review of a U.S. Fish and Wildlife Service Environmental Assessment (EA) proposing rotenone treatment of the [[Virgin River]] to eradicate introduced [[Red Shiner]] (*Cyprinella lutrensis*) and facilitate recovery of the endangered [[Woundfin]]...
 > -- *[[CommentsOnVirginRiverEa_19382]]*
 
+> This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
+> -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
+
 ## Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -71,3 +74,4 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 - [[RoughFishControl_20167]]
 - [[TroutRestorationInTheAdirondac_20206]]
 - [[CommentsOnVirginRiverEa_19382]]
+- [[SafetyAsRelatedToTheUseOfChemi_11812]]

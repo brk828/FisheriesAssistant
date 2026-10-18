@@ -35,6 +35,9 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 > This compilation by W.L. Minckley documents the fish fauna of the [[Sonoita Creek]] drainage in [[Santa Cruz County]], [[Arizona]], based on six major collection periods from 1904 to 1966. The document provides critical historical documentation of faunal changes over 62 years, revealing significant...
 > -- *[[FishesOfTheSonoitaCreekDrainag_18558]]*
 
+> This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
+> -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
+
 ## Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -48,3 +51,4 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 - [[ConservationGeneticsInTheManag_20087]]
 - [[StatusReportForNaturalAndIntro_12972]]
 - [[FishesOfTheSonoitaCreekDrainag_18558]]
+- [[TwoLettersConcerningStudyOfSpe_13691]]

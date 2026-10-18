@@ -11,7 +11,11 @@ auto_enriched: true
 > This report documents the first-year monitoring results of [[Gila Topminnow]] (*Poeciliopsis o. occidentalis*) reintroductions conducted in 1982 across four [[Arizona]] National Forests under a tripartite Memorandum of Understanding between the U.S. Fish and Wildlife Service, U.S. Forest Service,...
 > -- *[[FactorsAffectingTheSuccessOfGi_12971]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[BiologicalOpinionTuleCreekRipa_1991_09_03]]
 - [[ReportOfFloodDamageToBigSpring_18984]]
 - [[FactorsAffectingTheSuccessOfGi_12971]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

@@ -32,6 +32,9 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 > This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
 > -- *[[MovementsOfInlandAnglersWithin_11325]]*
 
+> This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
+> -- *[[FishingEffortAndHarvestByArizo_15066]]*
+
 ## Mentioned In
 - [[AsuProfsStudyEndangeredFishes_12227]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
@@ -46,3 +49,4 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 - [[AnEconomicStudyOfTheProcessing_15621]]
 - [[WhatHaveICaught_12929]]
 - [[MovementsOfInlandAnglersWithin_11325]]
+- [[FishingEffortAndHarvestByArizo_15066]]

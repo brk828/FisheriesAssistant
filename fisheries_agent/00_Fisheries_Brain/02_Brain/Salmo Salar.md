@@ -11,9 +11,13 @@ Salmo salar, commonly known as Atlantic salmon, is a highly migratory anadromous
 > - **Anadromous/diadromous lineages**: [[Petromyzonidae|Lampreys]] (including the invasive [[Petromyzon Marinus|Sea Lamprey]]), [[Anguillidae|American Eel]], and clupeids such as [[Alosa Pseudoharengus|Alewife]] and [[Alosa Sapidissima|American Shad]]. - **Coldwater lake specialists**: [[Salvelinu...
 > -- *[[AListOfOntarioFishes_11321]]*
 
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[InfluenceOfOxygenConcentration_15087]]
 - [[NotesOnTheLeapingOfThePacificS_14869]]
 - [[SalmonidGeneticsBreedingGuidel_1983]]
 - [[TheDevelopmentalRateOfTheGreen_14262]]
+- [[FishIntroductionsGoodManagemen_17630]]

@@ -47,6 +47,12 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 > This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
 > -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
 
+> This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
+> -- *[[AmericanRiversScientificAndTec_15167]]*
+
+> Personal correspondence dated March 30, 1992, from Dr. Roger Conant (University of New Mexico, retired Director of Philadelphia Zoo) to Dr. W. L. Minckley (Arizona State University) requesting information on geological history and aquatic fauna of the [[Rio Nazas]] and [[Rio Aguanaval]] in western...
+> -- *[[InterestInRioNazasAndRioAguana_17463]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -71,3 +77,5 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[TaxonomicStatusEcologyAndDistr_14514]]
+- [[AmericanRiversScientificAndTec_15167]]
+- [[InterestInRioNazasAndRioAguana_17463]]

@@ -29,6 +29,9 @@ Nevada in the context of fish science and conservation refers to the geographic 
 > This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
 > -- *[[SummaryStatementOfInsightsFrom_20854]]*
 
+> The [[White River Spinedace]] (*Lepidomeda albivallis*) is a federally endangered cyprinid fish endemic to northern [[White River Valley]] in [[Nevada]]. As of June 1991, the species persisted in only one of seven historically occupied habitats—the northern spring of the [[Flag Springs]]...
+> -- *[[WhiteRiverSpinedaceLepidomedaA_11636]]*
+
 ## Mentioned In
 - [[DemographicsOfTroutAnglersInTh_12587]]
 - [[EndanderedAndThreatenedWildlif_16520]]
@@ -41,3 +44,4 @@ Nevada in the context of fish science and conservation refers to the geographic 
 - [[TransmittalRegardingReasonable_19809]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[SummaryStatementOfInsightsFrom_20854]]
+- [[WhiteRiverSpinedaceLepidomedaA_11636]]

@@ -35,6 +35,9 @@ Death Valley refers to an isolated desert region in the American Southwest chara
 > On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
 > -- *[[DraftDayFindingForDesertFishes_20489]]*
 
+> This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
+> -- *[[FishesAndAquaticResourcesDeath_15415]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[FourthAnnualDesertFishesSympos_1972_09_20]]
@@ -46,3 +49,4 @@ Death Valley refers to an isolated desert region in the American Southwest chara
 - [[ConservationGeneticsInTheManag_20087]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[DraftDayFindingForDesertFishes_20489]]
+- [[FishesAndAquaticResourcesDeath_15415]]

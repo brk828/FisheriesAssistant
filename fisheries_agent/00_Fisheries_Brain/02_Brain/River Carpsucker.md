@@ -32,6 +32,9 @@ The river carpsucker is a freshwater cyprinid fish species found in North Americ
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
+> -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
@@ -44,3 +47,4 @@ The river carpsucker is a freshwater cyprinid fish species found in North Americ
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[HabitatStudyOfRoundtailChubGil_18268]]

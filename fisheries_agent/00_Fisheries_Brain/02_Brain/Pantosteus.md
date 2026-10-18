@@ -35,6 +35,9 @@ Pantosteus is a genus of suckers (family Catostomidae) that comprises freshwater
 > This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
 > -- *[[WoundfinPlagopterusArgentissim_14022]]*
 
+> This dissertation proposal by Carol L. Secor (Arizona State University, 1998) outlines a comprehensive study to test whether introgressive hybridization with [[Pantosteus discobolus]] (bluehead sucker) has shaped the genetic and morphological patterns observed in the [[Pantosteus clarki]] (desert...
+> -- *[[DrafInfluenceOfHybridizationOn_11330]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[CorrespondenceOnMexicanFishTax_1993_10_21]]
@@ -50,3 +53,4 @@ Pantosteus is a genus of suckers (family Catostomidae) that comprises freshwater
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
 - [[WoundfinPlagopterusArgentissim_14022]]
+- [[DrafInfluenceOfHybridizationOn_11330]]

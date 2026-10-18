@@ -17,8 +17,12 @@ auto_enriched: true
 > This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
 > -- *[[FurtherInformationOnTheSpikeda_13737]]*
 
+> On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
+> -- *[[LoachMinnow_19034]]*
+
 ## Mentioned In
 - [[LetterToBureauOfReclamationReg_1987_01_31]]
 - [[ConnerDamAsPartOfCentralArizon_19170]]
 - [[PublicMeetingsAnnoucnementAndP_11475]]
 - [[FurtherInformationOnTheSpikeda_13737]]
+- [[LoachMinnow_19034]]

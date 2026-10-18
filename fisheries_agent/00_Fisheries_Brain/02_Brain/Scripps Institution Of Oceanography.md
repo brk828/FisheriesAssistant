@@ -23,6 +23,9 @@ Scripps Institution of Oceanography is a leading marine research facility affili
 > This document is a brief piece of correspondence dated May 6, 1975, from [[Carl L. Hubbs]], Professor of Biology Emeritus at [[Scripps Institution of Oceanography]], [[University of California]], [[La Jolla]]. The document appears to be fragmentary or poorly preserved, with limited legible content...
 > -- *[[RefugiaInNevadaForCertainRareA_14193]]*
 
+> This report describes a severely deformed [[Carp]] (*Cyprinus carpio*) caught in October 1949 from an irrigation canal in [[Imperial County]], California. The specimen exhibited extreme vertebral fusion with at least 10 centra fused into a solid segment at the midlength of the vertebral column,...
+> -- *[[AnAbnormalCarpCyprinusCarpioFr_12321]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CorrespondenceReCollectionLoca_1964_04_07]]
@@ -30,3 +33,4 @@ Scripps Institution of Oceanography is a leading marine research facility affili
 - [[LetterFromScrippsInstitutionOf_14278]]
 - [[RecordOfTheOilfishRuvettusPret_15600]]
 - [[RefugiaInNevadaForCertainRareA_14193]]
+- [[AnAbnormalCarpCyprinusCarpioFr_12321]]

@@ -32,6 +32,9 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 > This Federal Register notice, published September 19, 1997, by the U.S. Fish and Wildlife Service presents an updated list of plant and animal taxa native to the United States that are candidates or proposed for listing as endangered or threatened under the Endangered Species Act of 1973, as...
 > -- *[[EndangeredAndThreatenedWildlif_11741]]*
 
+> This report documents the second year (February 1, 1965 - January 31, 1966) of cooperative fisheries investigation at [[Lake Powell]] ([[Glen Canyon Reservoir]]) conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. The study combined systematic creel census...
+> -- *[[GlenCanyonUnitcoloradoRiverSto_14583]]*
+
 ## Mentioned In
 - [[LeesFerryTrophyTroutFishery_18301]]
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
@@ -43,3 +46,4 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 - [[DistributionalAndLocalVernacul_13815]]
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[EndangeredAndThreatenedWildlif_11741]]
+- [[GlenCanyonUnitcoloradoRiverSto_14583]]

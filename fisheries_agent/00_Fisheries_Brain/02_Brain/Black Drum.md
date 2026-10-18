@@ -23,8 +23,12 @@ Black Drum (*Pogonias cromis*) is a large sciaenid fish species commonly found i
 > 2. **Seasonal immigrants (spawn offshore)** — species spawning in the open sea or at estuary mouths/barrier islands, whose juveniles dominate summer estuarine populations. Examples: [[Largescale Menhaden]] (*Brevoortia patronus*), [[Silver Perch]] (*Bairdiella chrysura*), [[Sand Trout]] (*Cynosci...
 > -- *[[EstuarineFishesOfLouisiana_1966_11_18]]*
 
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[EstuarineFishesOfLouisiana_1966_11_18]]
 - [[ExperimentalIntroductionOfFish_1955]]
 - [[SpeciesStockingHistoryInTexasD_1987]]
+- [[FishIntroductionsGoodManagemen_17630]]

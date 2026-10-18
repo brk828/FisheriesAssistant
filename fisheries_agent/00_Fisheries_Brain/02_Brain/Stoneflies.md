@@ -14,7 +14,11 @@ Stoneflies (order Plecoptera) are aquatic insects whose nymphs serve as critical
 > - **Hydrology**: Reservoir drawdown to elevation 445 ft (for diversion tunnel construction) reduced the reservoir pool to ~40 surface acres / 210 acre-feet, max depth 12 ft, with no thermocline (71°F surface, 65°F at depth) — enabling cost-effective treatment. - **Flow conditions**: Main river fl...
 > -- *[[ChemicalTreatmentOfTheMercedRi_13362]]*
 
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
 ## Mentioned In
 - [[ACollectionOfStonefl_16867]]
 - [[APreliminaryListOfStonefliesPl_16849]]
 - [[ChemicalTreatmentOfTheMercedRi_13362]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]

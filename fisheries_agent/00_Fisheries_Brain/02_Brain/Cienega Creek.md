@@ -35,6 +35,9 @@ Cienega Creek is a desert stream system in the BLM Tucson Resource Area of Arizo
 > This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
 > -- *[[StatusReportForNaturalAndIntro_12972]]*
 
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
@@ -57,3 +60,4 @@ Cienega Creek is a desert stream system in the BLM Tucson Resource Area of Arizo
 - [[FactorsAffectingTheSuccessOfGi_12971]]
 - [[ConservationGeneticsInTheManag_20087]]
 - [[StatusReportForNaturalAndIntro_12972]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]

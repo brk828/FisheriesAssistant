@@ -32,6 +32,12 @@ The Mississippi River represents a major North American fluvial system of critic
 > This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
 > -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
 
+> This 1965 Master's thesis by Jerry Brashier examined age and growth of [[Largemouth Bass]] (*Micropterus salmoides*) in two Louisiana oxbow lakes: [[False River]] and [[Old River]], located 15 miles apart in [[Pointe Coupee Parish]]. Collections occurred March–November 1964 using electric shockers...
+> -- *[[AStudyOfTheAgeAndGrowthOfLarge_12917]]*
+
+> This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
+> -- *[[TheDesirabilityOfIntroducingWh_16080]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerInPoolOfTh_16034]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -53,3 +59,5 @@ The Mississippi River represents a major North American fluvial system of critic
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
 - [[ALiteratureReviewOfTheEffectsO_20478]]
+- [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
+- [[TheDesirabilityOfIntroducingWh_16080]]

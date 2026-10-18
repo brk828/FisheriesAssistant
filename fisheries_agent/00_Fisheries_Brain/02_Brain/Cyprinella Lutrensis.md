@@ -17,9 +17,17 @@ Cyprinella lutrensis, commonly known as the Red Shiner, is a small-bodied cyprin
 > This document is a peer review letter dated 26 July 1989 from a U.S. Fish and Wildlife Service Fishery Management Biologist to Dr. Dean Hendrickson regarding a draft report by Marsh et al. on interactions between threatened [[Spikedace]] ([[Meda fulgida]]) and introduced [[Red Shiner]]...
 > -- *[[ReviewOfTheDraftReportEntitled_12980]]*
 
+> This correspondence from the Arizona Game & Fish Department provides a detailed review of a draft final report examining interactions between the threatened [[Spikedace]] (*[[Meda fulgida]]*) and the introduced [[Red Shiner]] (*[[Cyprinella lutrensis]]*). The review, dated August 2, 1989, was...
+> -- *[[ReviewOfTheDraftReportEntitled_12983]]*
+
+> This document comprises museum correspondence and specimen records from May 1995 regarding holdings of [[Cyprinella formosa]] (Beautiful Shiner) from the [[Mimbres River]] in [[New Mexico]]. The records document specimens held at the Museum of Southwestern Biology (MSB) and the University of...
+> -- *[[CyprinellaFormosaMimbresRiverE_21256]]*
+
 ## Mentioned In
 - [[LetterToWLMinckleyRegardingSpi_1987_03_27]]
 - [[NotesFromAugustMeetingOnFishBa_1994_09_28]]
 - [[NotropisSimusSimusCopeRioGrand_1990]]
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[ReviewOfTheDraftReportEntitled_12980]]
+- [[ReviewOfTheDraftReportEntitled_12983]]
+- [[CyprinellaFormosaMimbresRiverE_21256]]

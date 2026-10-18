@@ -35,6 +35,9 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 > This study plan outlines an Advanced Identification (ADID) process for the [[Verde River]], Arizona, conducted by the U.S. Fish and Wildlife Service Phoenix Field Office in August 1991. The ADID aims to protect the Verde River aquatic ecosystem by evaluating approximately 125 river miles from...
 > -- *[[AdvancedIdentificationOfFuncti_11587]]*
 
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -46,3 +49,4 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 - [[FieldGuideToFishesOfTheGrandCa_X-d1cf07c6]]
 - [[VerdeRiverAdvancedIdentificati_11367]]
 - [[AdvancedIdentificationOfFuncti_11587]]
+- [[SelectionsFromUniversityOfMich_18288]]

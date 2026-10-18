@@ -14,6 +14,14 @@ auto_enriched: true
 > - The CAP was designed to deliver **1.2 million acre-feet** of the **2.8 million acre-feet** of Colorado River water allocated to Arizona (per the 1964 Supreme Court decree, *Arizona v. California*) to the central part of the state; the remaining 1.6 million acre-feet would be used along the main...
 > -- *[[CentralArizonaProjectCompletio_1967_03_31]]*
 
+> This 1972 report by W.L. Minckley documents the herpetofauna (reptiles and amphibians) of four proposed reservoir sites in Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. A total of 87 species (102 named forms including...
+> -- *[[HerpetofaunaOfTheOrmeButtesCha_18586]]*
+
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1967_03_31]]
 - [[OrmeMaxwellDamLandAndWaterProj_1967_03_31]]
+- [[HerpetofaunaOfTheOrmeButtesCha_18586]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]

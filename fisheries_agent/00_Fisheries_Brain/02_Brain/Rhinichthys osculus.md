@@ -35,6 +35,12 @@ Rhinichthys osculus, commonly known as the speckled dace, is a small native cypr
 > This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
 > -- *[[LiteratureReviewAndImpactRepor_14988]]*
 
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
 ## Mentioned In
 - [[AravaipaCreekMonitoringData_1993_07_15]]
 - [[BlueSpringsMiLittleColoradoRiv_1971]]
@@ -58,3 +64,5 @@ Rhinichthys osculus, commonly known as the speckled dace, is a small native cypr
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[WoundfinPlagopterusArgentissim_14022]]
 - [[LiteratureReviewAndImpactRepor_14988]]
+- [[SelectionsFromUniversityOfMich_18288]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]

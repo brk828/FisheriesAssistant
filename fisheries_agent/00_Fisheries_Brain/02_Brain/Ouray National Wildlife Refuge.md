@@ -35,6 +35,9 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
 > -- *[[ManagementGroupMeetingSummary_19219]]*
 
+> This document presents the Fiscal Year 1992 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on August 15, 1991, the plan allocates $2,988,900 across five recovery...
+> -- *[[FiscalYearWorkPlan_11594]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -46,3 +49,4 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[OurayRazorbackHatcherySummary_13377]]
 - [[DraftcoloradoRiverEndangeredFi_13664]]
 - [[ManagementGroupMeetingSummary_19219]]
+- [[FiscalYearWorkPlan_11594]]

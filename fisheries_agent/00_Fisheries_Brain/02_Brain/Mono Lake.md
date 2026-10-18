@@ -17,9 +17,13 @@ auto_enriched: true
 > This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
 > -- *[[ConservationOfNativeFreshwater_15444]]*
 
+> This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
+> -- *[[FishesAndAquaticResourcesDeath_15415]]*
+
 ## Mentioned In
 - [[KiatuthlannaALimnologicalAppra_1965_II]]
 - [[LetterToLeonRSilberbergerReMon_1986_03_13]]
 - [[AConservationorientedClassific_15455]]
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[ConservationOfNativeFreshwater_15444]]
+- [[FishesAndAquaticResourcesDeath_15415]]

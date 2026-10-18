@@ -23,9 +23,13 @@ Quitobaquito is a desert aquatic habitat supporting a genetically distinct popul
 > Minutes from the Desert Fishes Recovery Team (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The meeting focused primarily on developing a recovery plan for the critically endangered [[Desert Pupfish]] (*Cyprinodon macularius*), with a target completion date...
 > -- *[[MinutesDesertFishesRecoveryTea_13749]]*
 
+> This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
+> -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
+
 ## Mentioned In
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
 - [[GeneticVariationInDesertPupfis_15731]]
 - [[PreliminaryStudyOfTheDesertPup_12499]]
 - [[MinutesDesertFishesRecoveryTea_13749]]
+- [[TwoLettersConcerningStudyOfSpe_13691]]

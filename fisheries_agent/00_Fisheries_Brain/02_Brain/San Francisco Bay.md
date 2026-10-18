@@ -23,6 +23,12 @@ San Francisco Bay is a major estuary on the California coast that serves as a cr
 > This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
 > -- *[[MovementsOfInlandAnglersWithin_11325]]*
 
+> This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
+> -- *[[PublicationsOfPeterBMoyle_15442]]*
+
+> This study analyzed 387 [[Striped Bass]] (*Roccus saxatilis*) stomachs collected by anglers over one year (1947-1948) in [[San Francisco Bay]] and the [[San Joaquin River]] Delta. The sample was divided into summer/fall (229 stomachs) and winter/spring (158 stomachs) collections. [[Crago]] shrimp...
+> -- *[[FoodHabitsOfCaliforniaStripedB_19825]]*
+
 ## Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[DeterminationOfSexualMaturityI_1965]]
@@ -31,3 +37,5 @@ San Francisco Bay is a major estuary on the California coast that serves as a cr
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[MigrationsOfStripedBassOccurri_18606]]
 - [[MovementsOfInlandAnglersWithin_11325]]
+- [[PublicationsOfPeterBMoyle_15442]]
+- [[FoodHabitsOfCaliforniaStripedB_19825]]

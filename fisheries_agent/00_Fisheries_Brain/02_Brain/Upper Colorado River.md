@@ -35,6 +35,15 @@ The Upper Colorado River refers to the section of the Colorado River system abov
 > This document is a contract proposal submitted by [[Arizona State University]] to the [[Bureau of Reclamation]] (Upper Colorado Region) on August 28, 1990, in response to Solicitation No. O-SP-40-09700. The proposal outlines a comprehensive taxonomic and genetic study of native fish species across...
 > -- *[[AsuCostProposalForGilaTaxonomy_18173]]*
 
+> This document presents the Fiscal Year 1992 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on August 15, 1991, the plan allocates $2,988,900 across five recovery...
+> -- *[[FiscalYearWorkPlan_11594]]*
+
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
+> This document presents a restoration plan for the federally endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Upper Colorado River Basin]]. Once abundant throughout the [[Colorado River Basin]], the species has been virtually extirpated from riverine habitats in the lower basin due to...
+> -- *[[RestorationPlanForRazorbackSuc_20599]]*
+
 ## Mentioned In
 - [[DesertFishesCouncilOverviewAnd_1974_07_26]]
 - [[DevelopAndRefineYearRoundFlowN_1993]]
@@ -50,3 +59,6 @@ The Upper Colorado River refers to the section of the Colorado River system abov
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[TemporalAndSpatialRelationsBet_17861]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
+- [[FiscalYearWorkPlan_11594]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[RestorationPlanForRazorbackSuc_20599]]

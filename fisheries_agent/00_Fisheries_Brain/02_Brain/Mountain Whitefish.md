@@ -26,6 +26,9 @@ Mountain Whitefish (Prosopium williamsoni) is a native North American salmonid s
 > This Federal Aid to Fish Restoration report documents population dynamics, species composition, limnological conditions, and management strategies for [[Arrowrock Reservoir]] and [[Lucky Peak Reservoir]] on the [[Boise River]], Idaho, from July 1965 through February 1968. Extensive gill netting...
 > -- *[[LakeAndReservoirInvestigations_12145]]*
 
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
@@ -38,3 +41,4 @@ Mountain Whitefish (Prosopium williamsoni) is a native North American salmonid s
 - [[ThePopulationAndMovementOfFish_1952]]
 - [[TwoYearCreelCensusOfTheLittleS_1955]]
 - [[LakeAndReservoirInvestigations_12145]]
+- [[NativeRockyMountainTroutAndSto_17773]]

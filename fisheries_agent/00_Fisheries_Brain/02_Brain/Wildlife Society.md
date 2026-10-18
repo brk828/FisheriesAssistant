@@ -11,5 +11,9 @@ The Wildlife Society is a major professional organization for wildlife managemen
 > This document is a comprehensive catalog of fisheries and wildlife journals held by the [[William Jasper Kerr Library]] at [[Oregon State University]] as of December 1979. Compiled by Mary J. Lewis, Zoology/Oceanography Librarian, it lists current subscriptions and selected discontinued titles from...
 > -- *[[ListOfCurrentFisheriesAndWildl_20304]]*
 
+> This document appears to be fragmentary correspondence or meeting notes from the [[Desert Fishes Council]] dated January 22, 1984. The material discusses conservation concerns related to desert fish populations, including stocking proposals and habitat management issues in [[San Felipe Creek]] and...
+> -- *[[MemorandumLowerBasinSubcommitt_11426]]*
+
 ## Mentioned In
 - [[ListOfCurrentFisheriesAndWildl_20304]]
+- [[MemorandumLowerBasinSubcommitt_11426]]

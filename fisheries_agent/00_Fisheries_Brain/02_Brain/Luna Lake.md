@@ -23,8 +23,12 @@ Luna Lake is a high-elevation (7,880 ft) montane reservoir in Alpine Valley, Ari
 > - **[[Luna Lake]]** functions as a productive, shallow, well-mixed (non-stratifying) montane reservoir supporting a healthy **rainbow trout** fishery with excellent growth and condition factors compared to regional standards. - **Brown trout**, present in sparse numbers in 1957, were **completely...
 > -- *[[ABasicSurveyOfWatersInDistrict_1959_01_15]]*
 
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[EvaluationOfFallPlantingOfFing_1966]]
 - [[SummaryOfPertinentProblemsPert_1961_01_15]]
+- [[BiologicalOpinionForReroutingO_11747]]

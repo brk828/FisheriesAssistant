@@ -26,6 +26,9 @@ Mexico is the location of the Cienega de Santa Clara wetland in Sonora, which wa
 > This document presents a comprehensive overview of the exceptional aquatic and semi-aquatic fauna of the [[Cuatro Ciénegas Basin]] in [[Coahuila]], [[Mexico]]. The basin contains an extraordinarily diverse assemblage of organisms for a desert region, including 18 fish species (10 endemic to the...
 > -- *[[ASummaryOfInformationAboutTheA_18574]]*
 
+> This 1966 field guide by P. E. Pickens from the [[University of Arizona]] Department of Zoology documents the invertebrate fauna of [[Puerto Peñasco]], [[Sonora]], [[Mexico]] in the [[Gulf of California]]. The guide presents identification keys, illustrations, and distributional data for major...
+> -- *[[AFieldGuideToSomeOfTheInverteb_11179]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[APetitionPursuantToArticleOfTh_17637]]
@@ -33,3 +36,4 @@ Mexico is the location of the Cienega de Santa Clara wetland in Sonora, which wa
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[ExtensionOfPublicCommentPeriod_17380]]
 - [[ASummaryOfInformationAboutTheA_18574]]
+- [[AFieldGuideToSomeOfTheInverteb_11179]]

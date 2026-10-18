@@ -11,6 +11,10 @@ auto_enriched: true
 > This 1963 Bureau of Sport Fisheries and Wildlife report documents a three-day fish sampling survey conducted by Colorado State University field crews (under Joseph Banks, William B. Miller, and Mr. Babcock) along the [[Green River]] and [[Yampa River]] in Colorado and Utah. The survey aimed to re...
 > -- *[[FisheryManagementReportGreenRi_1963_10_11]]*
 
+> This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
+> -- *[[DraftbonytailChubGilaElegans_14696]]*
+
 ## Mentioned In
 - [[AvailabilityOfHabitatCharacter_1993]]
 - [[FisheryManagementReportGreenRi_1963_10_11]]
+- [[DraftbonytailChubGilaElegans_14696]]

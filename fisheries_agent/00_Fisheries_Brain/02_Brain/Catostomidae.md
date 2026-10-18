@@ -89,6 +89,15 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 > This letter from Robert R. Miller, Curator of Fishes at the [[University of Michigan Museum of Zoology]], to the [[American Museum of Natural History]] reviews a manuscript describing two new species of [[Catostomus]] (suckers) from northern Mexico. Miller confirms the validity of both species as...
 > -- *[[ReManuscriptDescribingTwoNewSp_15374]]*
 
+> This dissertation proposal by Carol L. Secor (Arizona State University, 1998) outlines a comprehensive study to test whether introgressive hybridization with [[Pantosteus discobolus]] (bluehead sucker) has shaped the genetic and morphological patterns observed in the [[Pantosteus clarki]] (desert...
+> -- *[[DrafInfluenceOfHybridizationOn_11330]]*
+
+> This master's thesis documents a 17-month telemetry study (November 1994–August 1996) tracking movements of 20 adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a 108-km regulatory reservoir on the [[Colorado River]]. Ten individuals (4 males, 6 females) survived the study...
+> -- *[[MovementsOfAdultRazorbackSucke_12585]]*
+
+> This document is correspondence from Tom Strekal, Team Leader, scheduling a [[Cui-ui]] Recovery Team meeting for November 29, 1990, in Reno, Nevada. The meeting addresses the urgent completion of the draft [[Cui-ui]] Recovery Plan, mandated by Senate Bill 3084 (Truckee-Carson-Pyramid Lake Water...
+> -- *[[IssuesToDiscussAndResolveAtCui_14619]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AListOfOntarioFishes_11321]]
@@ -289,3 +298,6 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
 - [[ProposalToListTheRazorbackSuck_14703]]
 - [[ReManuscriptDescribingTwoNewSp_15374]]
+- [[DrafInfluenceOfHybridizationOn_11330]]
+- [[MovementsOfAdultRazorbackSucke_12585]]
+- [[IssuesToDiscussAndResolveAtCui_14619]]

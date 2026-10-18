@@ -17,8 +17,12 @@ Empetrichthys is a genus of small cyprinodont fish endemic to the Death Valley r
 > This document is a comprehensive bibliography compiled by [[Robert Rush Miller]], [[David L. Soltz]], and [[Peter G. Sanchez]] for the [[National Park Service]] in April 1977. It catalogs scientific and popular literature on the aquatic resources of the [[Death Valley System]]—a [[Pleistocene]]...
 > -- *[[FishesAndAquaticResourcesOfThe_15407]]*
 
+> This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
+> -- *[[FishesAndAquaticResourcesDeath_15415]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[ArtificialHybridizationOfCreni_14299]]
 - [[CyprinodonAndRelatedGeneraStud_15366]]
 - [[FishesAndAquaticResourcesOfThe_15407]]
+- [[FishesAndAquaticResourcesDeath_15415]]

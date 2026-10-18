@@ -44,6 +44,15 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 > This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
 > -- *[[SummaryStatementOfInsightsFrom_20854]]*
 
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
+> This 1951 report documents the introduction program of [[Kokanee]] salmon (*Oncorhynchus nerka kennerlyi*), a landlocked form of red salmon, into [[Lake Tahoe]] to restore game fish populations following the decline of native [[Cutthroat Trout]]. The program, conducted jointly by California and...
+> -- *[[TheIntroductionOfKokaneeRedSal_18826]]*
+
+> Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
+> -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
+
 ## Mentioned In
 - [[APopulationOfDwarfCoastrangeSc_1960]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -105,3 +114,6 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[SummaryStatementOfInsightsFrom_20854]]
+- [[NativeRockyMountainTroutAndSto_17773]]
+- [[TheIntroductionOfKokaneeRedSal_18826]]
+- [[MinutesOfTheMeetingOfTheTechni_20887]]

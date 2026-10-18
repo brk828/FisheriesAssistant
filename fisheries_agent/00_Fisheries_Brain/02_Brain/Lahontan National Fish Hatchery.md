@@ -23,9 +23,13 @@ Lahontan National Fish Hatchery is a U.S. Fish and Wildlife Service facility est
 > This report documents the 1987 spawning runs of the endangered [[Cui-ui]] (*Chasmistes cujus*) and threatened [[Lahontan Cutthroat Trout]] (*Salmo clarki henshawi*) at [[Marble Bluff Fish Facility]], [[Nixon, Nevada]]. The cui-ui spawning run totaled 5,301 individuals, representing 45 percent of...
 > -- *[[CuiuiAndLahontanCutthroatTrout_13865]]*
 
+> This document is correspondence from Tom Strekal, Team Leader, scheduling a [[Cui-ui]] Recovery Team meeting for November 29, 1990, in Reno, Nevada. The meeting addresses the urgent completion of the draft [[Cui-ui]] Recovery Plan, mandated by Senate Bill 3084 (Truckee-Carson-Pyramid Lake Water...
+> -- *[[IssuesToDiscussAndResolveAtCui_14619]]*
+
 ## Mentioned In
 - [[MarbleBluffFishFacilityStation_1994_02_04]]
 - [[StationProfileOfTheCaliforniaN_19503]]
 - [[StationProfileOfTheLahontanNat_19542]]
 - [[StationProfileOfTheM_1992]]
 - [[CuiuiAndLahontanCutthroatTrout_13865]]
+- [[IssuesToDiscussAndResolveAtCui_14619]]

@@ -11,6 +11,10 @@ auto_enriched: true
 > Genera identified as producing toxic species include: - [[Microcystis]] (M. aeruginosa, M. flos-aquae, M. toxica) - [[Aphanizomenon]] (A. flos-aquae) - [[Anabaena]] (A. flos-aquae) - [[Nodularia]] (N. spumigena) - [[Coelosphaerium]] (C. Kuetzingianum, C. Naegelianum) - [[Gloeotrichia]] (G. echinu...
 > -- *[[ToxicFreshWaterAlgae_14366]]*
 
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
 ## Mentioned In
 - [[BiodiversityProblemsInLakeEcos_11149]]
 - [[ToxicFreshWaterAlgae_14366]]
+- [[ProgressReportOfTheCultureOfTi_14692]]

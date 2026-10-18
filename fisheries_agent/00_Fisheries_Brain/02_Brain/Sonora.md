@@ -26,6 +26,9 @@ Sonora refers to a Mexican state located in northwestern Mexico along the Pacifi
 > The [[Pima Pineapple Cactus]] (*Coryphantha scheeri* var. *robustispina*) was listed as endangered by the [[US Fish and Wildlife Service]] in October 1993. This rare [[Sonoran Desert]] species occurs in a restricted range from south [[Tucson]] to south of [[Nogales]], [[Mexico]]. The [[National...
 > -- *[[EndangeredCactusOffersNbsOppor_13220]]*
 
+> This 1966 field guide by P. E. Pickens from the [[University of Arizona]] Department of Zoology documents the invertebrate fauna of [[Puerto Peñasco]], [[Sonora]], [[Mexico]] in the [[Gulf of California]]. The guide presents identification keys, illustrations, and distributional data for major...
+> -- *[[AFieldGuideToSomeOfTheInverteb_11179]]*
+
 ## Mentioned In
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
 - [[IdentificaciónDelimitaciónDeLa_13133]]
@@ -35,3 +38,4 @@ Sonora refers to a Mexican state located in northwestern Mexico along the Pacifi
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
+- [[AFieldGuideToSomeOfTheInverteb_11179]]

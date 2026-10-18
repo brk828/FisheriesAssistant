@@ -251,6 +251,51 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
 > -- *[[FyReportingAndAccounting_21020]]*
 
+> This document is the final rule issued by the [[U.S. Fish and Wildlife Service]] on August 27, 1984, implementing Section 10(j) of the [[Endangered Species Act]] (ESA) as amended in 1982. The rule establishes procedures for designating and managing "experimental populations" of endangered or...
+> -- *[[EndangeredAndThreatenedWildlif_11548]]*
+
+> The [[White River Spinedace]] (*Lepidomeda albivallis*) is a federally endangered cyprinid fish endemic to northern [[White River Valley]] in [[Nevada]]. As of June 1991, the species persisted in only one of seven historically occupied habitats—the northern spring of the [[Flag Springs]]...
+> -- *[[WhiteRiverSpinedaceLepidomedaA_11636]]*
+
+> This December 26, 1984 memorandum from the Regional Director of [[U.S. Fish and Wildlife Service]] Region 2 (Southeast) updates internal procedures for [[Endangered Species Act]] (ESA) Section 7 consultations. Effective immediately, Ecological Services field offices will conduct intra-Service...
+> -- *[[RegionEndangeredSpeciesActIntr_11825]]*
+
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
+> This correspondence from the [[U.S. Forest Service]] [[Coronado National Forest]] summarizes a March 1989 work session regarding management of the [[Bog Hole]] in the [[San Rafael Valley]], Arizona. The meeting brought together representatives from [[Arizona Game and Fish Department]], [[U.S. Fish...
+> -- *[[BogHoleProjectMeetingSummary_12749]]*
+
+> This document is a review memo from Jim to Minck evaluating ongoing [[Glen Canyon Environmental Studies]] projects focused on [[Humpback Chub]] (*Gila cypha*) recovery. The reviewer assesses research conducted by [[Arizona State University]]/[[Navajo Nation]], [[Arizona Fish and Game Department]],...
+> -- *[[ReviewOfGlenCanyonEnvironmenta_14007]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
+> This Bureau of Land Management report documents the 1991 renovation of [[Mesquite Spring]] in Pinal County, Arizona, and an unsuccessful attempt to re-establish a population of [[Desert Pupfish]] (*Cyprinodon macularius macularius*). The spring had been originally stocked with 200 pupfish in...
+> -- *[[RenovationOfMesquiteSpringAndS_17653]]*
+
+> This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
+> -- *[[LetterToCentralArizonaWaterCon_17898]]*
+
+> This document is a research proposal submitted by [[Arizona State University]] to the [[U.S. Fish and Wildlife Service]] Region 2 on December 5, 1988. The proposal, titled "Fish Community Reorganization in a Perturbed Stream, The Virgin River, Utah-Arizona-Nevada," seeks funding to study fish...
+> -- *[[FishCommunityReorganizationInA_18427]]*
+
+> This 1960 study by E. E. Prater and H. S. Swingle at [[Auburn University]] Agricultural Experiment Station evaluated [[White Catfish]] (*Ictalurus catus*) as a commercial pondfish species. Experiments conducted in 1959-1960 demonstrated that white catfish production rates, feed conversion, and...
+> -- *[[PreliminaryResultsOnTheProduct_18670]]*
+
+> This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
+> -- *[[CompletionReportYampawhitePhys_18677]]*
+
+> This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
+> -- *[[GilaTopminnowsantaCruzRiver_20207]]*
+
+> This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
+> -- *[[BureauOfReclamationAnnouncesPu_20788]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -538,3 +583,18 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[ProjectVelaUniformLakeMeadTest_20812]]
 - [[FyReportingAndAccounting_21020]]
+- [[EndangeredAndThreatenedWildlif_11548]]
+- [[WhiteRiverSpinedaceLepidomedaA_11636]]
+- [[RegionEndangeredSpeciesActIntr_11825]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[BogHoleProjectMeetingSummary_12749]]
+- [[ReviewOfGlenCanyonEnvironmenta_14007]]
+- [[FishIntroductionsGoodManagemen_17630]]
+- [[RenovationOfMesquiteSpringAndS_17653]]
+- [[LetterToCentralArizonaWaterCon_17898]]
+- [[FishCommunityReorganizationInA_18427]]
+- [[PreliminaryResultsOnTheProduct_18670]]
+- [[CompletionReportYampawhitePhys_18677]]
+- [[GilaTopminnowsantaCruzRiver_20207]]
+- [[BureauOfReclamationAnnouncesPu_20788]]

@@ -32,6 +32,9 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 > This document from the New York State Conservation Department examines the challenges and limitations of artificial propagation and stocking programs for [[Smallmouth Bass]] (Micropterus dolomieu). The article contrasts early optimistic assumptions about warm-water fish stocking—based on successful...
 > -- *[[FishFacts_20746]]*
 
+> This report documents the second year (February 1, 1965 - January 31, 1966) of cooperative fisheries investigation at [[Lake Powell]] ([[Glen Canyon Reservoir]]) conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. The study combined systematic creel census...
+> -- *[[GlenCanyonUnitcoloradoRiverSto_14583]]*
+
 ## Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[Craspedacusta Sowerbii in Pymatuning Reservoir]]
@@ -42,3 +45,4 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 - [[EarlyLifeHistoryOfRazorbackSuc_12707]]
 - [[LakeAndReservoirInvestigations_12145]]
 - [[FishFacts_20746]]
+- [[GlenCanyonUnitcoloradoRiverSto_14583]]

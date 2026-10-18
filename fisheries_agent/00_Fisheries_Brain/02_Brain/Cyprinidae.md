@@ -107,6 +107,12 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > This 1956 administrative report (revised 1960) by the [[California Department of Fish and Game]] provides comprehensive guidance on commercial bait minnow culture in California. The document focuses on three introduced cyprinid species—[[Fathead Minnow]] (*Pimephales promelas*), [[Golden Shiner]]...
 > -- *[[PropagationOfBaitMinnowsInCali_18150]]*
 
+> This report describes a severely deformed [[Carp]] (*Cyprinus carpio*) caught in October 1949 from an irrigation canal in [[Imperial County]], California. The specimen exhibited extreme vertebral fusion with at least 10 centra fused into a solid segment at the midlength of the vertebral column,...
+> -- *[[AnAbnormalCarpCyprinusCarpioFr_12321]]*
+
+> This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
+> -- *[[GilaTopminnowsantaCruzRiver_20207]]*
+
 ## Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -383,3 +389,5 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[OperationOfGlenCanyonDamBrazSe_14783]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
 - [[PropagationOfBaitMinnowsInCali_18150]]
+- [[AnAbnormalCarpCyprinusCarpioFr_12321]]
+- [[GilaTopminnowsantaCruzRiver_20207]]

@@ -17,7 +17,11 @@ Spot (Leiostomus xanthurus) is one of the prey fish species identified in the st
 > This laboratory and field study quantified how prey-to-predator size ratio (PPR) affects foraging success in [[Striped Bass]] (*Morone saxatilis*). Capture success declined linearly with increasing PPR (attack success = 0.861 - 1.82PPR), while handling time increased exponentially (h =...
 > -- *[[TheInfluenceOfSizeOnStripedBas_2000]]*
 
+> This Federal Aid completion report documents a 14-year experimental program (1957-1971) introducing marine fish species from the [[Gulf of Mexico]] into the saline waters of the [[Pecos River System]] in western Texas. The program was initiated because high salinity levels (800-7,000 ppm chlorides)...
+> -- *[[MarineIntroductionsTexas_13536]]*
+
 ## Mentioned In
 - [[EcologicalHistoryOfLakePontcha_13947]]
 - [[EstuarineFishesOfLouisiana_1966_11_18]]
 - [[TheInfluenceOfSizeOnStripedBas_2000]]
+- [[MarineIntroductionsTexas_13536]]

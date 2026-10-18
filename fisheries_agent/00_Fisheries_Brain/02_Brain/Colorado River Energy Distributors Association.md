@@ -14,7 +14,11 @@ auto_enriched: true
 > This document records the meeting notes from the [[Glen Canyon Environmental Studies]] (GCES) Executive Review Committee (ERC) meeting held June 15, 1989, in Flagstaff, Arizona. The ERC, composed of representatives from the [[Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], [[Western...
 > -- *[[ExecutiveReviewCommitteeMeetin_19686]]*
 
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
 ## Mentioned In
 - [[NoticeOfAvailabilityOfDraftAgr_21027]]
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[ExecutiveReviewCommitteeMeetin_19686]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]

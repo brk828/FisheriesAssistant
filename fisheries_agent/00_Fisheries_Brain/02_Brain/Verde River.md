@@ -140,6 +140,15 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This genetic study examined 11 stream populations of presumed [[Gila Trout]] (*Oncorhynchus gilae*) using horizontal starch gel electrophoresis of 48 protein-coding loci to address two critical conservation issues: (1) detection of hybridization with [[Rainbow Trout]] (*O. mykiss*) and (2)...
 > -- *[[GeneticIssuesInTheConservation_20219]]*
 
+> This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
+> -- *[[BiologicalOpinionForReroutingO_11747]]*
+
+> This document presents results from two public opinion surveys conducted in the [[Verde Valley]], Arizona between Fall 1990 and 1991. The first survey was administered at Verde River Days 1991, while the second was a comprehensive mail survey of community residents (n=94, 36% response rate) and...
+> -- *[[VerdeValleyReportsAndSurveysFr_12879]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -250,3 +259,6 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[RecoveryPlanForTheEndangeredBo_17173]]
 - [[FishesOfTheSonoitaCreekDrainag_18558]]
 - [[GeneticIssuesInTheConservation_20219]]
+- [[BiologicalOpinionForReroutingO_11747]]
+- [[VerdeValleyReportsAndSurveysFr_12879]]
+- [[SelectionsFromUniversityOfMich_18288]]

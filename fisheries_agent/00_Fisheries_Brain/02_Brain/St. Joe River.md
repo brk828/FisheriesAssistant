@@ -8,6 +8,10 @@ auto_enriched: true
 > - **Feeding behavior:** Opportunistic generalist predators, feeding on whatever invertebrate/vertebrate prey is most abundant. Peak feeding around dusk/dawn, though full stomachs occur throughout day/night (Steigenberger and Larkin 1974). - **Digestion rates:** Rapid and highly temperature-depend...
 > -- *[[TheImpactOfSquawfishOnSalmonid_1981]]*
 
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
 ## Mentioned In
 - [[HatcheryAndLaboratoryPhaseOfTh_1980]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
+- [[NativeRockyMountainTroutAndSto_17773]]

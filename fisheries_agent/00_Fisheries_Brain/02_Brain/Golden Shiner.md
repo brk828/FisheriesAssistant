@@ -56,6 +56,9 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > This report documents intensive field research conducted during May 1988 on the [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona. The study employed multiple netting methods (trammel nets, hoop nets, fyke nets, seines, drift nets) operated continuously over 28...
 > -- *[[SummaryReportOnResearchConduct_18505]]*
 
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -104,3 +107,4 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[RoughFishControl_20167]]
 - [[PropagationOfBaitMinnowsInCali_18150]]
 - [[SummaryReportOnResearchConduct_18505]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]

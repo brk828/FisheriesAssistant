@@ -41,6 +41,9 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 > This doctoral dissertation by William R. Duffer (Oklahoma State University, 1965) examines community metabolism and oxygen dynamics in the relatively undisturbed [[Blue River]] in southeastern Oklahoma from June 1963 to August 1964. The study investigated how different geological substrates...
 > -- *[[OxygenBalanceInASouthernGreatP_19151]]*
 
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
 ## Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -61,3 +64,4 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 - [[SelectiveWithdrawalWorkgroupMe_15753]]
 - [[LongtermLimnologicalAndWaterQu_17092]]
 - [[OxygenBalanceInASouthernGreatP_19151]]
+- [[ProgressReportOfTheCultureOfTi_14692]]

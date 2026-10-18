@@ -41,6 +41,12 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 > This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
 > -- *[[LiteratureReviewAndImpactRepor_14988]]*
 
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
+> This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
+> -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
+
 ## Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[ColoradoRiverLowerBasinFisheri_1995_03_30]]
@@ -69,3 +75,5 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 - [[DraftecologicalDeterminismHybr_12773]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 - [[LiteratureReviewAndImpactRepor_14988]]
+- [[SelectionsFromUniversityOfMich_18288]]
+- [[IchthyofaunaOfTheOrmeButtesCha_18587]]

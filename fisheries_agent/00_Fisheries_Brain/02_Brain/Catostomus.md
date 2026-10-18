@@ -41,6 +41,12 @@ Catostomus is a genus of freshwater suckers (family Catostomidae) native to Nort
 > This letter from Robert R. Miller, Curator of Fishes at the [[University of Michigan Museum of Zoology]], to the [[American Museum of Natural History]] reviews a manuscript describing two new species of [[Catostomus]] (suckers) from northern Mexico. Miller confirms the validity of both species as...
 > -- *[[ReManuscriptDescribingTwoNewSp_15374]]*
 
+> This dissertation proposal by Carol L. Secor (Arizona State University, 1998) outlines a comprehensive study to test whether introgressive hybridization with [[Pantosteus discobolus]] (bluehead sucker) has shaped the genetic and morphological patterns observed in the [[Pantosteus clarki]] (desert...
+> -- *[[DrafInfluenceOfHybridizationOn_11330]]*
+
+> This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
+> -- *[[SelectionsFromUniversityOfMich_18288]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -60,3 +66,5 @@ Catostomus is a genus of freshwater suckers (family Catostomidae) native to Nort
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[ReManuscriptDescribingTwoNewSp_15374]]
+- [[DrafInfluenceOfHybridizationOn_11330]]
+- [[SelectionsFromUniversityOfMich_18288]]

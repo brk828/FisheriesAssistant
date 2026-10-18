@@ -26,6 +26,9 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This 1932-1933 study documented the fall migration of [[Steelhead]] (*Oncorhynchus mykiss*) from the [[Klamath River]] into [[Shasta River]], California. Using a counting rack with observation gates, researchers enumerated 8,525 steelhead between September 19 and December 10, 1932. The migration...
 > -- *[[ASteelheadMigrationInShastaRiv_21255]]*
 
+> This 1955 report documents the distribution and status of the introduced [[Pumpkinseed]] (*Lepomis gibbosus*) in [[California]]. The species was considered rare in the state, with scattered populations in widely separated locations. The authors compile historical records from 1939-1954, correcting...
+> -- *[[TheStatusOfThePumpkinseedLepom_12862]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
@@ -36,3 +39,4 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[ConservationOfNativeFreshwater_15444]]
 - [[ASteelheadMigrationInShastaRiv_21255]]
+- [[TheStatusOfThePumpkinseedLepom_12862]]

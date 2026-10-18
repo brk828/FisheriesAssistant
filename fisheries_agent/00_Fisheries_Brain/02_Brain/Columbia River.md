@@ -44,6 +44,12 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 > This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
 > -- *[[EvolutionaryRelationshipsOfThe_19110]]*
 
+> This 1956 study by J.B. Lackey documented the microscopic aquatic biota of the [[Clinch River]] system and adjacent waters in the [[Oak Ridge]] area, focusing on the relationship between suspended microorganisms and radioactivity from [[Oak Ridge National Laboratory]] (ORNL) operations. The survey...
+> -- *[[TheSuspendedMicrobiotaOfTheCli_12669]]*
+
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
 ## Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AccumulationAndRetentionOfRadi_1957]]
@@ -72,3 +78,5 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 - [[TheRadioactivityAndEcologyOfAq_14009]]
 - [[StatewideFishingHarvestSurvey_17659]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
+- [[TheSuspendedMicrobiotaOfTheCli_12669]]
+- [[NativeRockyMountainTroutAndSto_17773]]

@@ -29,6 +29,9 @@ Pacific Herring (Clupea pallasi) is a forage fish species characterized by early
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This report describes a severely deformed [[Carp]] (*Cyprinus carpio*) caught in October 1949 from an irrigation canal in [[Imperial County]], California. The specimen exhibited extreme vertebral fusion with at least 10 centra fused into a solid segment at the midlength of the vertebral column,...
+> -- *[[AnAbnormalCarpCyprinusCarpioFr_12321]]*
+
 ## Mentioned In
 - [[LifeHistoryVariationsInPopulat_16023]]
 - [[NumericalRelationsBetweenAbund_16863]]
@@ -38,3 +41,4 @@ Pacific Herring (Clupea pallasi) is a forage fish species characterized by early
 - [[TheoreticalYieldsAtVariousRate_1953]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[AnAbnormalCarpCyprinusCarpioFr_12321]]

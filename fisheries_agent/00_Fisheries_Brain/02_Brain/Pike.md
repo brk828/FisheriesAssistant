@@ -23,6 +23,9 @@ Pike are large predatory freshwater fish that serve as apex or near-apex predato
 > This progress report documents the second year (1951) of the [[Adirondack Trout Restoration Project]], an experimental fisheries management program aimed at reclaiming former trout waters now inhabited by less desirable species. The reclamation procedure involves chemical eradication using...
 > -- *[[TroutRestorationInTheAdirondac_20206]]*
 
+> This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
+> -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
+
 ## Mentioned In
 - [[BiologicalMeansOfIncreasingPro_1968]]
 - [[CausesOfDeathAmongIndianaFishe_1945]]
@@ -32,3 +35,4 @@ Pike are large predatory freshwater fish that serve as apex or near-apex predato
 - [[SomeEstimatesOfTheoreticalMini_1963]]
 - [[Perch_16750]]
 - [[TroutRestorationInTheAdirondac_20206]]
+- [[TheHabitsOfTheBlacknosedDaceRh_13393]]

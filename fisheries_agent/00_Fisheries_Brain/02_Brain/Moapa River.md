@@ -47,6 +47,9 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 > On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
 > -- *[[DraftDayFindingForDesertFishes_20489]]*
 
+> This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
+> -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
+
 ## Mentioned In
 - [[DistributionOfFishesInTheSanRa_1980_01_30]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -62,3 +65,4 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 - [[GilaTaxonomyProjectIssuesAndPr_14720]]
 - [[GeneticVariationAmongLowerColo_12776]]
 - [[DraftDayFindingForDesertFishes_20489]]
+- [[BiologicalOpinionOnTheEffectsO_11915]]

@@ -47,6 +47,12 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 > The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
 > -- *[[IntroductionOfPalaemonetesPalu_20723]]*
 
+> This report documents the second year (February 1, 1965 - January 31, 1966) of cooperative fisheries investigation at [[Lake Powell]] ([[Glen Canyon Reservoir]]) conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. The study combined systematic creel census...
+> -- *[[GlenCanyonUnitcoloradoRiverSto_14583]]*
+
+> This FAO Fisheries Circular (No. 724 Revision 2) is a comprehensive bibliographic compilation of 255 selected reference books and monographs on freshwater aquaculture published between 1951 and 1984. Compiled by André G. Coche of the [[Inland Water Resources and Aquaculture Service]], the document...
+> -- *[[AquacultureInFreshWatersAListO_15987]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[ChecklistOfParasitesFromCatfis_1959]]
@@ -66,3 +72,5 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 - [[TaxonomicStatusEcologyAndDistr_14514]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
+- [[GlenCanyonUnitcoloradoRiverSto_14583]]
+- [[AquacultureInFreshWatersAListO_15987]]

@@ -23,6 +23,9 @@ The Plains Killifish (*Fundulus kansae*) is a small cyprinodontid fish native to
 > **Co-occurring native species:** - [[Speckled Dace]] (*Rhinichthys osculus*) — second most abundant species; unlike Humpback Chub, distributed throughout the **entire permanently flowing portion** of the LCR (km 0-21), including areas above Atomizer Falls where chubs are absent. Note: a large loc...
 > -- *[[HabitatUseByHumpbackChubGilaCy_1991]]*
 
+> This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
+
 ## Mentioned In
 - [[DevelopmentalRatesAndTolerance_12106]]
 - [[EffectivenessOfRotenoneInPondR_1953]]
@@ -31,3 +34,4 @@ The Plains Killifish (*Fundulus kansae*) is a small cyprinodontid fish native to
 - [[HabitatUseByHumpbackChubGilaCy_1991]]
 - [[LimnologicalStudyOfGlenCanyonT_1965_06_30]]
 - [[MemorandumSummarizingTheGcesBa_1992_12_31]]
+- [[ColoradoSquawfishAndHumpbackCh_12221]]

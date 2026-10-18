@@ -23,6 +23,12 @@ auto_enriched: true
 > This document presents a comprehensive overview of the exceptional aquatic and semi-aquatic fauna of the [[Cuatro Ciénegas Basin]] in [[Coahuila]], [[Mexico]]. The basin contains an extraordinarily diverse assemblage of organisms for a desert region, including 18 fish species (10 endemic to the...
 > -- *[[ASummaryOfInformationAboutTheA_18574]]*
 
+> This document describes the Global Historical Climatology Network (GHCN) Version 1.0, a comprehensive global baseline dataset of monthly mean temperature, precipitation, sea level pressure, and station pressure compiled by Oak Ridge National Laboratory and the National Climatic Data Center....
+> -- *[[TheGlobalHistoricalClimatology_12377]]*
+
+> This taxonomic paper describes *Laccocythere aotearoa*, a new genus and species of entocytherid ostracod commensal on the freshwater crayfish [[Paranephrops planifrons]] from [[Pelorus Valley]], [[South Island]], [[New Zealand]]. The new genus *Laccocythere* is placed in the subfamily...
+> -- *[[ANewOstracodEntocytheridaeNoto_20684]]*
+
 ## Mentioned In
 - [[BookReviewsTransactionsOfTheAm_1985]]
 - [[RequestForARulingToCorrectHomo_17135]]
@@ -30,3 +36,5 @@ auto_enriched: true
 - [[MinnowsCyprinidae_17384]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
 - [[ASummaryOfInformationAboutTheA_18574]]
+- [[TheGlobalHistoricalClimatology_12377]]
+- [[ANewOstracodEntocytheridaeNoto_20684]]

@@ -65,6 +65,9 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This biological opinion, issued February 18, 1993, by the U.S. Fish and Wildlife Service Arizona Ecological Services Field Office, addresses formal Section 7 consultation for the [[Lake Havasu]] Fisheries Improvement Partnership Program. The Bureau of Land Management proposed installing artificial...
 > -- *[[BiologicalOpinionForLakeHavasu_11881]]*
 
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -88,3 +91,4 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[DraftEnvironmentalAssessmentLo_11489]]
 - [[BiologicalOpinionForLakeHavasu_11704]]
 - [[BiologicalOpinionForLakeHavasu_11881]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]

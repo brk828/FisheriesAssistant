@@ -17,7 +17,11 @@ Sabino Creek is a stream system in the Santa Catalina Mountains of southeastern 
 > - The **Southeast Arizona Native Fish Team** was established to coordinate cross-agency (AGFD, USFWS, USFS, BLM, BOR, universities) native fish conservation planning, budgeting, and administration on public lands. - Nine candidate projects were identified for the FY1996 budget cycle, spanning rec...
 > -- *[[MinutesSummaryOfTheAugustMeeti_1995_08_17]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[MinutesSummaryOfTheAugustMeeti_1995_08_17]]
 - [[PublicCommentSoughtForSabinoCa_1999_02_25]]
 - [[TheSantaCatalinaMountainsEcolo_1967_03_10]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

@@ -26,6 +26,9 @@ Sciaenidae is a diverse family of primarily marine and estuarine teleost fishes 
 > This appendix documents fish and amphibian remains recovered from archaeological excavations at the [[Tubac Presidio]], a Spanish colonial site in Arizona. Of 60 fish bones recovered, 32 specimens were identified by Dr. W. L. Minckley. The assemblage includes exotic species not native to the local...
 > -- *[[TheFaunalArchaeologyOfTheTubac_20377]]*
 
+> This Federal Aid completion report documents a 14-year experimental program (1957-1971) introducing marine fish species from the [[Gulf of Mexico]] into the saline waters of the [[Pecos River System]] in western Texas. The program was initiated because high salinity levels (800-7,000 ppm chlorides)...
+> -- *[[MarineIntroductionsTexas_13536]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnExoticOccurrenceOfFreshWater_12926]]
@@ -45,3 +48,4 @@ Sciaenidae is a diverse family of primarily marine and estuarine teleost fishes 
 - [[RioBravoFishDistribution_Unknown]]
 - [[SoundDiscriminationByMalesOfTw_12764]]
 - [[TheFaunalArchaeologyOfTheTubac_20377]]
+- [[MarineIntroductionsTexas_13536]]

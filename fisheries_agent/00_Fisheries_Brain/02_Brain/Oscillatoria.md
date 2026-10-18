@@ -20,9 +20,13 @@ auto_enriched: true
 > This Bureau of Reclamation document summarizes an April 6, 1993 Selective Withdrawal Investigations Workgroup meeting held in Phoenix, Arizona. The multi-disciplinary workgroup evaluated the feasibility and potential impacts of installing selective withdrawal facilities at [[Glen Canyon Dam]] to...
 > -- *[[SelectiveWithdrawalWorkgroupMe_15753]]*
 
+> This 1956 study by J.B. Lackey documented the microscopic aquatic biota of the [[Clinch River]] system and adjacent waters in the [[Oak Ridge]] area, focusing on the relationship between suspended microorganisms and radioactivity from [[Oak Ridge National Laboratory]] (ORNL) operations. The survey...
+> -- *[[TheSuspendedMicrobiotaOfTheCli_12669]]*
+
 ## Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ReportOnLunaLakeApacheCountyAr_19495]]
 - [[AProposalToMonitorTheEffectsOf_17697]]
 - [[CorrespondenceRegardingMeeting_13520]]
 - [[SelectiveWithdrawalWorkgroupMe_15753]]
+- [[TheSuspendedMicrobiotaOfTheCli_12669]]

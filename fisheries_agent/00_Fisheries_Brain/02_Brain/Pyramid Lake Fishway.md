@@ -26,6 +26,9 @@ The Pyramid Lake Fishway is an infrastructure facility designed to facilitate th
 > This document is the second revision of the [[Cui-ui]] (*Chasmistes cujus*) Recovery Plan, approved November 22, 1983, providing direction through FY 1986. The [[Cui-ui]] is an endangered sucker endemic to [[Pyramid Lake]] and the [[Truckee River]] system in Nevada. The plan's goal remains...
 > -- *[[CuiuiChasmistesCujusRevision_13303]]*
 
+> This document is correspondence from Tom Strekal, Team Leader, scheduling a [[Cui-ui]] Recovery Team meeting for November 29, 1990, in Reno, Nevada. The meeting addresses the urgent completion of the draft [[Cui-ui]] Recovery Plan, mandated by Senate Bill 3084 (Truckee-Carson-Pyramid Lake Water...
+> -- *[[IssuesToDiscussAndResolveAtCui_14619]]*
+
 ## Mentioned In
 - [[CuiUiRecoveryTeamMeetingAgenda_1994_07_29]]
 - [[CuiUiRecoveryTeamMeetingNotice_1993_09_14]]
@@ -34,3 +37,4 @@ The Pyramid Lake Fishway is an infrastructure facility designed to facilitate th
 - [[PyramidLakeInflowRequiredForCu_1987_05_15]]
 - [[RecommendationsForMarbleBluffF_1989_11_08]]
 - [[CuiuiChasmistesCujusRevision_13303]]
+- [[IssuesToDiscussAndResolveAtCui_14619]]

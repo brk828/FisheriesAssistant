@@ -26,6 +26,9 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 > This document is a memorandum and program proposal from the Recovery Program for Endangered Fishes of the Upper Colorado River Basin, dated September 23, 1994. It announces a meeting scheduled for November 8-10, 1994, to discuss goals, strategies, and issues of the [[Flooded Bottom Lands...
 > -- *[[MeetingToDiscussProgramGoalsSt_19639]]*
 
+> This draft Long Range Plan (October 3, 1991) outlines the comprehensive recovery strategy for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[DraftLongRangePlan_11590]]*
+
 ## Mentioned In
 - [[AdditionalRazorbackSuckerGenet_1994_04_28]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -33,3 +36,4 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 - [[JuvenileRazorbackSuckerXyrauch_16532]]
 - [[ReReviewOfFloodedBottomLandRes_13862]]
 - [[MeetingToDiscussProgramGoalsSt_19639]]
+- [[DraftLongRangePlan_11590]]

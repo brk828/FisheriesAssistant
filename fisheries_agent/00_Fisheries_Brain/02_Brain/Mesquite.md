@@ -17,7 +17,11 @@ auto_enriched: true
 > This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
 > -- *[[MasterPlanForBuenosAiresWildli_13323]]*
 
+> This correspondence from the Bureau of Land Management Safford District Office (dated June 5, 1986) provides an update on vegetation inventory and transect establishment along the [[San Pedro River]] in Arizona. The biologist reports completion of 12 transects across multiple habitat types and a...
+> -- *[[SanPedroRiverWildlifeUpdateveg_21107]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
+- [[SanPedroRiverWildlifeUpdateveg_21107]]

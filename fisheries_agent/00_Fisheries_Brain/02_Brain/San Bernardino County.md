@@ -14,6 +14,10 @@ San Bernardino County was the third-ranked trout county in California in 1960, w
 > This memorandum from the California Department of Fish and Game to the Fish and Game Commission addresses a request by [[United Energy Corporation]] (UEC) to import and possess eight exotic fish species for aquaculture and research at a facility near [[Yermo]], [[San Bernardino County]]. The...
 > -- *[[RequestByUecToImportAndPossess_18439]]*
 
+> This taxonomic revision demonstrates that *[[Salmo evermanni]]*, described by Jordan and Grinnell in 1908 from the upper [[Santa Ana River]] in the [[San Bernardino Mountains]], is a junior synonym of *[[Salmo clarkii henshawi]]* (Lahontan cutthroat trout) from [[Lake Tahoe]]. The authors...
+> -- *[[SalmoEvermanniASynonymOfSalmoC_18176]]*
+
 ## Mentioned In
 - [[MovementsOfInlandAnglersWithin_11325]]
 - [[RequestByUecToImportAndPossess_18439]]
+- [[SalmoEvermanniASynonymOfSalmoC_18176]]

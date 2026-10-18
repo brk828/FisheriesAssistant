@@ -17,6 +17,9 @@ Santa Clara Slough is an aquatic habitat system in the southwestern United State
 > This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
 > -- *[[ReportToTheDesertFishesCouncil_13683]]*
 
+> This Federal Register document (Vol. 51, No. 61, March 31, 1986) announces the U.S. Fish and Wildlife Service's final determination to list the [[Desert Pupfish]] (*Cyprinodon macularius*) as an endangered species under the Endangered Species Act of 1973, as amended. The rule also designates...
+> -- *[[EndangeredAndThreatenedWildlif_11555]]*
+
 ## Mentioned In
 - [[LetterRequestingCollectionOfQu_1987_12_01]]
 - [[LetterToMarkStrombergRegarding_1986_06_02]]
@@ -25,3 +28,4 @@ Santa Clara Slough is an aquatic habitat system in the southwestern United State
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[GeneticVariationInDesertPupfis_15731]]
 - [[ReportToTheDesertFishesCouncil_13683]]
+- [[EndangeredAndThreatenedWildlif_11555]]

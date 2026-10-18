@@ -23,7 +23,11 @@ Diaptomus is a genus of calanoid copepods that serves as an important component 
 > - A total of **4 calanoid** and **10 cyclopoid** copepod species/subspecies were identified from **61 Kentucky stations**, primarily in Jefferson County. - **[[Diaptomus Pallidus]]**, **[[Cyclops Vernalis]]**, **[[Eucyclops Agilis]]**, and **[[Macrocyclops Albidus]]** were identified as the most ...
 > -- *[[NotesOnTheCalanoidAndCyclopoid_16005]]*
 
+> This report documents the second year (February 1, 1965 - January 31, 1966) of cooperative fisheries investigation at [[Lake Powell]] ([[Glen Canyon Reservoir]]) conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. The study combined systematic creel census...
+> -- *[[GlenCanyonUnitcoloradoRiverSto_14583]]*
+
 ## Mentioned In
 - [[ContrastsAmongCalanoidCopepods_16016]]
 - [[LimnologicalInvestigationsInAr_1963]]
 - [[NotesOnTheCalanoidAndCyclopoid_16005]]
+- [[GlenCanyonUnitcoloradoRiverSto_14583]]

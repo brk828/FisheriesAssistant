@@ -29,6 +29,12 @@ The Clean Water Act, particularly Section 404, is a federal statute that regulat
 > This legal analysis examines the regulatory framework for mining waste under the [[Resource Conservation and Recovery Act]] (RCRA) Subtitle D from an industry perspective. The document traces the complex legislative and regulatory history from RCRA's 1976 inception through proposed 1989-1990...
 > -- *[[AnIndustryViewOfTheRegulationO_12522]]*
 
+> This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
+> -- *[[AmericanRiversScientificAndTec_15167]]*
+
+> This legal analysis examines the comprehensive federal and state environmental regulatory framework governing the domestic copper mining industry in the United States as of the early 1990s. The document focuses on major environmental statutes including the [[Resource Conservation and Recovery Act]]...
+> -- *[[OverviewOfEnvironmentalRegulat_18083]]*
+
 ## Mentioned In
 - [[DesertFishesCouncilLetterToSec_1990_06_06]]
 - [[FaxogramRegardingAravaipaCreek_1990_12_19]]
@@ -40,3 +46,5 @@ The Clean Water Act, particularly Section 404, is a federal statute that regulat
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[AnIndustryViewOfTheRegulationO_12522]]
+- [[AmericanRiversScientificAndTec_15167]]
+- [[OverviewOfEnvironmentalRegulat_18083]]

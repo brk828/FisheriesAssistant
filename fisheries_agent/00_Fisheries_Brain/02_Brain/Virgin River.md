@@ -83,6 +83,24 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This internal memorandum provides critical review of a U.S. Fish and Wildlife Service Environmental Assessment (EA) proposing rotenone treatment of the [[Virgin River]] to eradicate introduced [[Red Shiner]] (*Cyprinella lutrensis*) and facilitate recovery of the endangered [[Woundfin]]...
 > -- *[[CommentsOnVirginRiverEa_19382]]*
 
+> This dissertation proposal by Carol L. Secor (Arizona State University, 1998) outlines a comprehensive study to test whether introgressive hybridization with [[Pantosteus discobolus]] (bluehead sucker) has shaped the genetic and morphological patterns observed in the [[Pantosteus clarki]] (desert...
+> -- *[[DrafInfluenceOfHybridizationOn_11330]]*
+
+> The [[White River Spinedace]] (*Lepidomeda albivallis*) is a federally endangered cyprinid fish endemic to northern [[White River Valley]] in [[Nevada]]. As of June 1991, the species persisted in only one of seven historically occupied habitats—the northern spring of the [[Flag Springs]]...
+> -- *[[WhiteRiverSpinedaceLepidomedaA_11636]]*
+
+> This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
+> -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
+
+> This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
+> -- *[[AmericanRiversScientificAndTec_15167]]*
+
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
+> This document is a research proposal submitted by [[Arizona State University]] to the [[U.S. Fish and Wildlife Service]] Region 2 on December 5, 1988. The proposal, titled "Fish Community Reorganization in a Perturbed Stream, The Virgin River, Utah-Arizona-Nevada," seeks funding to study fish...
+> -- *[[FishCommunityReorganizationInA_18427]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -160,3 +178,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[DraftConservationStrategyVirgi_11659]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[CommentsOnVirginRiverEa_19382]]
+- [[DrafInfluenceOfHybridizationOn_11330]]
+- [[WhiteRiverSpinedaceLepidomedaA_11636]]
+- [[BiologicalOpinionOnTheEffectsO_11915]]
+- [[AmericanRiversScientificAndTec_15167]]
+- [[ArizonaComparativeRiskProjectE_15833]]
+- [[FishCommunityReorganizationInA_18427]]

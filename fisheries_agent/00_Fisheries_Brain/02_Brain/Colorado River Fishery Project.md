@@ -29,6 +29,9 @@ The Colorado River Fishery Project is a U.S. Fish and Wildlife Service administr
 > This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
 > -- *[[ProposalToListTheRazorbackSuck_14703]]*
 
+> This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
+> -- *[[AStudyToDetermineTheBiological_11576]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ConcentrationsOfTotalDissolved_11144]]
@@ -43,3 +46,4 @@ The Colorado River Fishery Project is a U.S. Fish and Wildlife Service administr
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[DraftcoloradoRiverEndangeredFi_13664]]
 - [[ProposalToListTheRazorbackSuck_14703]]
+- [[AStudyToDetermineTheBiological_11576]]

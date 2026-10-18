@@ -14,5 +14,9 @@ auto_enriched: true
 > - Total of **2,785 specimens** across **16 species, 13 genera, 5 families** collected over the 1962–1964 study period. - **First published Utah record** of the [[Red Shiner]] (*Notropis lutrensis*), a bait-fish introduction to the lower Colorado River (per La Rivers 1962; Miller 1952) that became...
 > -- *[[NotesOnTheFishesOfTheColoradoR_13441]]*
 
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[NotesOnTheFishesOfTheColoradoR_13441]]
+- [[FishIntroductionsGoodManagemen_17630]]

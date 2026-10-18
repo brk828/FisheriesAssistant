@@ -17,8 +17,12 @@ auto_enriched: true
 > This document provides construction specifications and guidelines for "Trash Catcher" dams, simple and inexpensive structures designed to improve fish habitat in streams. These low-profile dams (maximum 20 inches high) use steel posts, hogwire fencing, rocks, and accumulated stream debris to create...
 > -- *[[TrashCatcherFishStreamDams_16100]]*
 
+> This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
+> -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnCienegaCree_1994_02_07]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
 - [[SummaryOfEvents_18368]]
 - [[TrashCatcherFishStreamDams_16100]]
+- [[BiologicalOpinionOnTheEffectsO_11915]]

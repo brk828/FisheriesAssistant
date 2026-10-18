@@ -29,6 +29,9 @@ Defenders of Wildlife is a prominent conservation organization that has actively
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
 > -- *[[WrittenCommentsOnDraftBiologic_20522]]*
 
+> This document is the final rule issued by the [[U.S. Fish and Wildlife Service]] on August 27, 1984, implementing Section 10(j) of the [[Endangered Species Act]] (ESA) as amended in 1982. The rule establishes procedures for designating and managing "experimental populations" of endangered or...
+> -- *[[EndangeredAndThreatenedWildlif_11548]]*
+
 ## Mentioned In
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
@@ -37,3 +40,4 @@ Defenders of Wildlife is a prominent conservation organization that has actively
 - [[NoticeOfIntentToSueForViolatio_20521]]
 - [[SummaryOfEvents_18368]]
 - [[WrittenCommentsOnDraftBiologic_20522]]
+- [[EndangeredAndThreatenedWildlif_11548]]

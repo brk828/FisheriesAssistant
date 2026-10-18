@@ -26,6 +26,12 @@ auto_enriched: true
 > This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
 > -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
 
+> This 1988 letter from W. L. Minckley (Arizona State University) to Salvador Contreras Balderas (Universidad Autonoma de Nuevo Leon) proposes collaborative research on the endemic cichlid fishes of [[Cuatro Cienegas Basin]], Coahuila, Mexico. The proposal outlines a comprehensive study combining...
+> -- *[[ProposalForCollaborationBetwee_13766]]*
+
+> Personal correspondence dated March 30, 1992, from Dr. Roger Conant (University of New Mexico, retired Director of Philadelphia Zoo) to Dr. W. L. Minckley (Arizona State University) requesting information on geological history and aquatic fauna of the [[Rio Nazas]] and [[Rio Aguanaval]] in western...
+> -- *[[InterestInRioNazasAndRioAguana_17463]]*
+
 ## Mentioned In
 - [[LetterFromRobertHershlerToRobe_1986_04_07]]
 - [[DistributionalAndLocalVernacul_13815]]
@@ -33,3 +39,5 @@ auto_enriched: true
 - [[UsfwsmexicoCooperativeProgramG_16498]]
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[TaxonomicStatusEcologyAndDistr_14514]]
+- [[ProposalForCollaborationBetwee_13766]]
+- [[InterestInRioNazasAndRioAguana_17463]]

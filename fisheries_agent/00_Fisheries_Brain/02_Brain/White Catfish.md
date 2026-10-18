@@ -26,6 +26,9 @@ White catfish (Ameiurus catus) are a North American freshwater species belonging
 > This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
 > -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
 
+> This 1960 study by E. E. Prater and H. S. Swingle at [[Auburn University]] Agricultural Experiment Station evaluated [[White Catfish]] (*Ictalurus catus*) as a commercial pondfish species. Experiments conducted in 1959-1960 demonstrated that white catfish production rates, feed conversion, and...
+> -- *[[PreliminaryResultsOnTheProduct_18670]]*
+
 ## Mentioned In
 - [[ChemicalTreatmentOfTheMercedRi_13362]]
 - [[EstimationOfStandingCropsAndRa_15117]]
@@ -38,3 +41,4 @@ White catfish (Ameiurus catus) are a North American freshwater species belonging
 - [[ABibliographyAndHostListForThe_15289]]
 - [[SurveyOfIctaluridPopulationsIn_15266]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[PreliminaryResultsOnTheProduct_18670]]

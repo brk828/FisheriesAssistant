@@ -20,7 +20,11 @@ Pantosteus plebeius, commonly known as the bluehead sucker, is a North American 
 > 5. **Possible closer affinity to *Pantosteus* than to *Catostomus***: The authors note *C. syncheilus* resembles *[[Pantosteus plebeius]]* more closely in body form, caudal peduncle shape, lip incision depth, and cartilaginous jaw sheath development than it resembles other *Catostomus* species — ...
 > -- *[[ANewCatostomidFishFromTheColum_14467]]*
 
+> This dissertation proposal by Carol L. Secor (Arizona State University, 1998) outlines a comprehensive study to test whether introgressive hybridization with [[Pantosteus discobolus]] (bluehead sucker) has shaped the genetic and morphological patterns observed in the [[Pantosteus clarki]] (desert...
+> -- *[[DrafInfluenceOfHybridizationOn_11330]]*
+
 ## Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[DistributionAndStatusOfTheChih_1990_04_11]]
 - [[SerumHaptoglobinsInSomeNorthAm_1966]]
+- [[DrafInfluenceOfHybridizationOn_11330]]

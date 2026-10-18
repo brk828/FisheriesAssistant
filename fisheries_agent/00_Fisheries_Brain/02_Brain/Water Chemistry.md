@@ -20,9 +20,13 @@ Water chemistry in fish science and aquatic ecology refers to the physical and c
 > - **Mechanism identified**: The sump water, after passage through the reservoir, became significantly more alkaline than either feeder stream, with free CO₂ dropping to nil — strong evidence that algal photosynthesis stripped dissolved CO₂ from the water column, destabilizing the calcium bicarbon...
 > -- *[[AlgaeAndDepositionOf_14363]]*
 
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[AcclimationOfRainbowTroutToHig_15535]]
 - [[AlgaeAndDepositionOf_14363]]
 - [[DeterminationOfCarbonateInSoli_14364]]
 - [[GlenCanyonEnvironmentalStudies_1989]]
 - [[TheToxicityOfNineTherapeuticAn_12150]]
+- [[ArizonaComparativeRiskProjectE_15833]]

@@ -17,9 +17,17 @@ A Pit Tag, or Passive Integrated Transponder tag, is a microchip implant used to
 > This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
 > -- *[[CharacterizationOfTheLifeHisto_13649]]*
 
+> This document is a formal petition submitted to the [[Arizona Game and Fish Commission]] in 1994 by M. Brent Peugnet and the [[Arizona Herpetological Association]] (AHA, 222 members, 147 Arizona residents) requesting establishment of a new rule permitting commercial captive propagation of specific...
+> -- *[[DraftAndRevisedVersionsOfPetit_11208]]*
+
+> This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
+> -- *[[AStudyToDetermineTheBiological_11576]]*
+
 ## Mentioned In
 - [[FishHandlingProtocolAsunnhpPro_17005]]
 - [[LetterToDavidLWegnerRegardingH_1991_05_28]]
 - [[NotesOfTechnicalReviewMeetingF_1994_03_04]]
 - [[YumaCoveRazorbackSuckerStockin_1991_02_12]]
 - [[CharacterizationOfTheLifeHisto_13649]]
+- [[DraftAndRevisedVersionsOfPetit_11208]]
+- [[AStudyToDetermineTheBiological_11576]]

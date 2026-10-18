@@ -26,6 +26,12 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 > This comprehensive life history study of the [[Piute Sculpin]] (*Cottus beldingii*) in [[Lake Tahoe]] examined 6,424 specimens collected from September 1963 through September 1964. The research focused on diet composition, age and growth patterns, reproductive biology, and parasite loads. Sculpins...
 > -- *[[ContributionsToTheLifeHistoryO_15724]]*
 
+> This taxonomic revision demonstrates that *[[Salmo evermanni]]*, described by Jordan and Grinnell in 1908 from the upper [[Santa Ana River]] in the [[San Bernardino Mountains]], is a junior synonym of *[[Salmo clarkii henshawi]]* (Lahontan cutthroat trout) from [[Lake Tahoe]]. The authors...
+> -- *[[SalmoEvermanniASynonymOfSalmoC_18176]]*
+
+> This 1951 report documents the introduction program of [[Kokanee]] salmon (*Oncorhynchus nerka kennerlyi*), a landlocked form of red salmon, into [[Lake Tahoe]] to restore game fish populations following the decline of native [[Cutthroat Trout]]. The program, conducted jointly by California and...
+> -- *[[TheIntroductionOfKokaneeRedSal_18826]]*
+
 ## Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -38,3 +44,5 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 - [[AConservationorientedClassific_15455]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[ContributionsToTheLifeHistoryO_15724]]
+- [[SalmoEvermanniASynonymOfSalmoC_18176]]
+- [[TheIntroductionOfKokaneeRedSal_18826]]

@@ -29,6 +29,12 @@ Tilapia mossambica is a cichlid fish species widely utilized in aquaculture and 
 > This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
 > -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
 
+> This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
+> -- *[[ProgressReportOfTheCultureOfTi_14692]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[ComparativeEvaluationOfTwoTila_15110]]
 - [[EstablishmentOfTilap_1970]]
@@ -40,3 +46,5 @@ Tilapia mossambica is a cichlid fish species widely utilized in aquaculture and 
 - [[SamplingBenthosToEstimateProdu_12795]]
 - [[BibliographyOfPublicationsConc_14697]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[ProgressReportOfTheCultureOfTi_14692]]
+- [[FishIntroductionsGoodManagemen_17630]]

@@ -86,6 +86,24 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
 > -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
 
+> This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
+> -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
+
+> This document presents results from two public opinion surveys conducted in the [[Verde Valley]], Arizona between Fall 1990 and 1991. The first survey was administered at Verde River Days 1991, while the second was a comprehensive mail survey of community residents (n=94, 36% response rate) and...
+> -- *[[VerdeValleyReportsAndSurveysFr_12879]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
+> This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
+> -- *[[CompletionReportYampawhitePhys_18677]]*
+
+> This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
+> -- *[[BureauOfReclamationAnnouncesPu_20788]]*
+
+> Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
+> -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -136,3 +154,9 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[ProjectVelaUniformLakeMeadTest_20812]]
+- [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[VerdeValleyReportsAndSurveysFr_12879]]
+- [[FishIntroductionsGoodManagemen_17630]]
+- [[CompletionReportYampawhitePhys_18677]]
+- [[BureauOfReclamationAnnouncesPu_20788]]
+- [[MinutesOfTheMeetingOfTheTechni_20887]]

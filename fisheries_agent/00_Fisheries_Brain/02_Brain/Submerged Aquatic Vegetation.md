@@ -11,6 +11,10 @@ auto_enriched: true
 > **Core Problem Addressed**: Evaluate the population-level consequences of a decade-long [[Common Carp]] removal effort in [[Utah Lake]] (>12,000 tons harvested 2009-2018) and determine whether current mechanical removal strategies can maintain carp biomass below management targets (75% reduction)...
 > -- *[[CompensatoryRecruitmentDynamic_2020]]*
 
+> This document is the final Federal Register notice (December 13, 1996) from the U.S. Army Corps of Engineers announcing the issuance, reissuance, and modification of Nationwide Permits (NWPs) under Section 404 of the Clean Water Act and Section 10 of the Rivers and Harbors Act of 1899. The notice...
+> -- *[[FinalNoticeOfIssuanceReissuanc_13203]]*
+
 ## Mentioned In
 - [[AFisheriesEvaluationOfCommerci_1965_05_26]]
 - [[CompensatoryRecruitmentDynamic_2020]]
+- [[FinalNoticeOfIssuanceReissuanc_13203]]

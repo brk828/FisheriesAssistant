@@ -26,6 +26,9 @@ The Gila Mountain Sucker (Pantosteus clarki) is a native endemic sucker species 
 > This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
 > -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
 
+> This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
+> -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
+
 ## Mentioned In
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
 - [[FishSamplingAtAsuResearchParkA_19405]]
@@ -35,3 +38,4 @@ The Gila Mountain Sucker (Pantosteus clarki) is a native endemic sucker species 
 - [[TheStatusOfTheNativeFishFaunaO_12638]]
 - [[UpdateOnNongameFishActivities_1987_08_26]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[HabitatStudyOfRoundtailChubGil_18268]]

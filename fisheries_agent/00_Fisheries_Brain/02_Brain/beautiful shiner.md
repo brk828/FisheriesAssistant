@@ -29,6 +29,9 @@ The Beautiful Shiner is a small freshwater fish species endemic to the Rio Yaqui
 > This U.S. Fish and Wildlife Service document authorizes Dr. W.L. Minckley and six colleagues at [[Arizona State University]] as subpermittees under blanket permit PRT-676811 to conduct scientific research and species recovery activities with 16 endangered and threatened fish species native to the...
 > -- *[[AuthorizationToUseTheRegionalD_15706]]*
 
+> This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
+> -- *[[SkyIslandAquaticResourcesHabit_15003]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -57,3 +60,4 @@ The Beautiful Shiner is a small freshwater fish species endemic to the Rio Yaqui
 - [[SpeciesResponsibilitiesOfDeser_1989_12_07]]
 - [[EvaluationsAndSuggestionsConce_16480]]
 - [[AuthorizationToUseTheRegionalD_15706]]
+- [[SkyIslandAquaticResourcesHabit_15003]]

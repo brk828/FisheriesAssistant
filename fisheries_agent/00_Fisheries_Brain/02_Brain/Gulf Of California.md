@@ -56,6 +56,12 @@ The Gulf of California is a biogeographically significant marine basin in northw
 > This technical review draft recovery plan for the [[Bonytail Chub]] (*Gila elegans*) was prepared by the [[Colorado River Fishes Recovery Team]] in 1982. The bonytail chub was listed as endangered on April 23, 1980, without designated critical habitat due to unknown reproducing populations and...
 > -- *[[RecoveryPlanForTheEndangeredBo_17173]]*
 
+> This 1966 field guide by P. E. Pickens from the [[University of Arizona]] Department of Zoology documents the invertebrate fauna of [[Puerto Peñasco]], [[Sonora]], [[Mexico]] in the [[Gulf of California]]. The guide presents identification keys, illustrations, and distributional data for major...
+> -- *[[AFieldGuideToSomeOfTheInverteb_11179]]*
+
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -87,3 +93,5 @@ The Gulf of California is a biogeographically significant marine basin in northw
 - [[GeneticVariationInDesertPupfis_15731]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
 - [[RecoveryPlanForTheEndangeredBo_17173]]
+- [[AFieldGuideToSomeOfTheInverteb_11179]]
+- [[FishIntroductionsGoodManagemen_17630]]

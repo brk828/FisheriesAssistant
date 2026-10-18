@@ -11,5 +11,9 @@ auto_enriched: true
 > **Trophic guild structure identified:** - **Detritivores:** [[Threadfin Shad]], [[Red Shiner]], [[Mouthbrooder]], [[Sailfin Molly]], [[Striped Mullet]] — feed principally on fibrous higher-plant detritus, some gelatinous organic material, and clam pseudofeces. - **Facultative planktivores/omnivor...
 > -- *[[TrophicInterrelationsAmongIntr_1982]]*
 
+> This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
+> -- *[[ArizonaComparativeRiskProjectE_15833]]*
+
 ## Mentioned In
 - [[TrophicInterrelationsAmongIntr_1982]]
+- [[ArizonaComparativeRiskProjectE_15833]]

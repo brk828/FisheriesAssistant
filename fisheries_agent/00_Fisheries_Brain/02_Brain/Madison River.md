@@ -11,5 +11,9 @@ auto_enriched: true
 > - **Hawaii as a Nonindigenous Species Hotspot**: The letter emphasizes that [[Hawaii]] should be highlighted alongside Florida and California as a critical case, containing **34 established nonindigenous fish species** — more than any other U.S. state. - **Ecosystem Definition Ambiguity**: Dr. W....
 > -- *[[CommentsOnTheIntentionalIntrod_1993_10_20]]*
 
+> This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
+> -- *[[NativeRockyMountainTroutAndSto_17773]]*
+
 ## Mentioned In
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
+- [[NativeRockyMountainTroutAndSto_17773]]

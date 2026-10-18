@@ -26,6 +26,9 @@ Lake Mead National Recreation Area is a federally managed landscape encompassing
 > This document records the February 25, 1997 presubmittal workshop for the [[Lower Colorado River Multi-Species Conservation Program]] (MSCP), held in Las Vegas, Nevada. The workshop addressed two Request for Proposals (RFPs): RFP-1 for program facilitation and RFP-2 for conservation plan...
 > -- *[[RequestForProposalspresubmitta_18342]]*
 
+> Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
+> -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
+
 ## Mentioned In
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
 - [[EffectsOfInterimFlowsFromGlenC_1993_04_17]]
@@ -38,3 +41,4 @@ Lake Mead National Recreation Area is a federally managed landscape encompassing
 - [[ReviewOfTheBiologicalAssessmen_1991_06_24]]
 - [[StationProfileOfWillowBeachNat_19507]]
 - [[RequestForProposalspresubmitta_18342]]
+- [[MinutesOfTheMeetingOfTheTechni_20887]]

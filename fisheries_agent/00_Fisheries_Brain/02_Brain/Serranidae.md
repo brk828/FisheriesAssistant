@@ -26,6 +26,9 @@ Serranidae is a fish family commonly recognized in fisheries management and spor
 > The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
 > -- *[[Perch_16750]]*
 
+> This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
+> -- *[[TheDesirabilityOfIntroducingWh_16080]]*
+
 ## Mentioned In
 - [[AProvisionalCheckListOfTheFish_15941]]
 - [[HatschekiaPacificaNewSpeciesCo_1970]]
@@ -34,3 +37,4 @@ Serranidae is a fish family commonly recognized in fisheries management and spor
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[ASimpleMethodOfMountingScales_20311]]
 - [[Perch_16750]]
+- [[TheDesirabilityOfIntroducingWh_16080]]

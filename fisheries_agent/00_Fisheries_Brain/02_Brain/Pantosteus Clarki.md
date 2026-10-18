@@ -38,6 +38,9 @@ Pantosteus clarki, commonly known as the Desert Sucker, is a native benthic cato
 > This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
 > -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
 
+> This dissertation proposal by Carol L. Secor (Arizona State University, 1998) outlines a comprehensive study to test whether introgressive hybridization with [[Pantosteus discobolus]] (bluehead sucker) has shaped the genetic and morphological patterns observed in the [[Pantosteus clarki]] (desert...
+> -- *[[DrafInfluenceOfHybridizationOn_11330]]*
+
 ## Mentioned In
 - [[ColoradoSquawfishMonitoringVer_19393]]
 - [[DataForAravaipaCreekFishCount_1995_10_07]]
@@ -54,3 +57,4 @@ Pantosteus clarki, commonly known as the Desert Sucker, is a native benthic cato
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[MorphologyAndFoodsOfHybridCata_15933]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[DrafInfluenceOfHybridizationOn_11330]]

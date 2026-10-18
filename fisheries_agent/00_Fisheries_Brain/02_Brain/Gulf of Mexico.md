@@ -26,6 +26,9 @@ The Gulf of Mexico is a major biogeographic region and drainage basin in ichthyo
 > This March 1994 policy document from the [[U.S. Fish and Wildlife Service]] outlines the agency's adoption of an ecosystem approach to conserve the nation's biological diversity more effectively. The approach emphasizes protecting or restoring ecosystem function, structure, and species composition...
 > -- *[[AnEcosystemApproachToFishAndWi_11650]]*
 
+> This Federal Aid completion report documents a 14-year experimental program (1957-1971) introducing marine fish species from the [[Gulf of Mexico]] into the saline waters of the [[Pecos River System]] in western Texas. The program was initiated because high salinity levels (800-7,000 ppm chlorides)...
+> -- *[[MarineIntroductionsTexas_13536]]*
+
 ## Mentioned In
 - [[AnOutlineForTheStudyOfEstuarin_1954_10_31]]
 - [[BookReviewOfFreshwaterFishesOf_1969]]
@@ -41,3 +44,4 @@ The Gulf of Mexico is a major biogeographic region and drainage basin in ichthyo
 - [[StationProfileOfMeri_19533]]
 - [[StationProfileOfNatchitochesNa_1993]]
 - [[AnEcosystemApproachToFishAndWi_11650]]
+- [[MarineIntroductionsTexas_13536]]

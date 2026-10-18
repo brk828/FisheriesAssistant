@@ -17,8 +17,12 @@ Osmerus mordax, commonly known as rainbow smelt, is a small euryhaline teleost f
 > This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
 > -- *[[TroutFishingAtCliffPondBrewste_15489]]*
 
+> This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
+> -- *[[FishIntroductionsGoodManagemen_17630]]*
+
 ## Mentioned In
 - [[SexRatiosAquaticAnimals_13946]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[TroutFishingAtCliffPondBrewste_15489]]
+- [[FishIntroductionsGoodManagemen_17630]]

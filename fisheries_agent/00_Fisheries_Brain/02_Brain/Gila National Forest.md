@@ -23,6 +23,9 @@ The Gila National Forest is a protected forest area in New Mexico that encompass
 > This first report to the [[New Mexico Department of Game and Fish]] documents a comprehensive stream survey of the [[San Francisco River]] conducted between May 27 and June 15, 1977. Twelve sampling stations were established between [[Frisco Hot Springs]] and the mouth of the [[Blue River]] in...
 > -- *[[StreamSurveyOfTheSanFranciscoR_11523]]*
 
+> This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
+> -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11563]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -36,3 +39,4 @@ The Gila National Forest is a protected forest area in New Mexico that encompass
 - [[AddendumToTheMarchEnvironmenta_11496]]
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
+- [[HabitatStudyOfRoundtailChubGil_18268]]

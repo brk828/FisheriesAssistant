@@ -29,6 +29,9 @@ The White Mountains refers to a mountain range in east-central Arizona that serv
 > This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
 > -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
 
+> This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
+> -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
+
 ## Mentioned In
 - [[ColdwaterFishStockingAndNative_1995]]
 - [[CommentsOnTheEnvironmentalAsse_1990]]
@@ -38,3 +41,4 @@ The White Mountains refers to a mountain range in east-central Arizona that serv
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[ReTheElectrophoreticStudyOfWhi_14999]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[BiologicalOpinionOnTheEffectsT_11884]]
