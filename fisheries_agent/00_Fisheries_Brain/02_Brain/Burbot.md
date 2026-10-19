@@ -26,6 +26,9 @@ The burbot (*Lota lota*) is a freshwater gadiform fish species and the only true
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
+> -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
+
 ## Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
 - [[ChangesInWalleyeStizostedionVi_1977_03_18]]
@@ -35,3 +38,4 @@ The burbot (*Lota lota*) is a freshwater gadiform fish species and the only true
 - [[FreshwaterFishesOfTheEasternAr_18569]]
 - [[TheSmeltOsmerusMordaxMitchill_13092]]
 - [[WhatHaveICaught_12929]]
+- [[ElectrofishingAndItsHarmfulEff_2003]]

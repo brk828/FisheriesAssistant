@@ -284,6 +284,9 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
 > -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
 
+> **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
+> -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -714,3 +717,4 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[PredatoryFishRemovalAndNativeF_2005]]
 - [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
+- [[ElectrofishingAndItsHarmfulEff_2003]]

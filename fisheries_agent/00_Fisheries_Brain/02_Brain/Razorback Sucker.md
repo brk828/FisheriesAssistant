@@ -401,6 +401,9 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
 > -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
 
+> **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
+> -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -1090,3 +1093,4 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]
 - [[SpawningAndMovementsOfRazorbac_1990]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
+- [[ElectrofishingAndItsHarmfulEff_2003]]

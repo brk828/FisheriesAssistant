@@ -86,6 +86,9 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
 > -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
 
+> **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
+> -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -181,3 +184,4 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[ForestLakeMarkedFishStudies_15614]]
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
+- [[ElectrofishingAndItsHarmfulEff_2003]]

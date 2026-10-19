@@ -29,6 +29,9 @@ Cottidae is a family of benthic freshwater and marine fishes commonly known as s
 > **Core Problem Addressed**: Quantifying fish dispersal distances and identifying general predictors of movement patterns across freshwater fish species to inform population dynamics, recolonization potential, and recovery time predictions following environmental changes or habitat restoration....
 > -- *[[PatternsAndPredictorsOfFishDis_2013]]*
 
+> **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
+> -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AListOfOntarioFishes_11321]]
@@ -43,3 +46,4 @@ Cottidae is a family of benthic freshwater and marine fishes commonly known as s
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[PatternsAndPredictorsOfFishDis_2013]]
+- [[ElectrofishingAndItsHarmfulEff_2003]]

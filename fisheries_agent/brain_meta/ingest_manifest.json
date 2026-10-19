@@ -5495,6 +5495,16 @@
   "status": "done",
   "timestamp": "2026-10-18T04:15:39+00:00"
  },
+ "f470d02bffc717378c36119dae4405d24d238a0f95219f649836ce23c44a594f": {
+  "citation_source": "llm",
+  "doc_type": "sampling_design",
+  "file": "ElectrofishingAndHarmfulEffectsFish.pdf",
+  "method": "mixed",
+  "note": "ElectrofishingAndItsHarmfulEff_2003.md",
+  "source_id": "X-f470d02b",
+  "status": "done",
+  "timestamp": "2026-10-19T16:42:42+00:00"
+ },
  "f49ba1fc20146fe7e4a0e340c0b293ce3c5f6e3da6f432b1e3d47ef6233507e9": {
   "citation_source": "minckley-sheet",
   "doc_type": "",

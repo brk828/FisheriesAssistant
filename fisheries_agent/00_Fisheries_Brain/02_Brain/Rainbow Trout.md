@@ -215,6 +215,9 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
 > -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
 
+> **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
+> -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -547,3 +550,4 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[NorthernPikeControlAtLakeDavis_2001]]
 - [[SummaryOfNorthernPikeSuppressi_2022]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
+- [[ElectrofishingAndItsHarmfulEff_2003]]

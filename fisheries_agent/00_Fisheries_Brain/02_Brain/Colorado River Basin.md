@@ -224,6 +224,9 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a monotypic catostomid endemic to the [[Colorado River Basin]]. Adults in the [[Green River Basin]] averaged 507 mm TL for males (range 405–576 mm, n=141) and 547 mm TL for females (range 485–608 mm, n=45). Males...
 > -- *[[SpawningAndMovementsOfRazorbac_1990]]*
 
+> **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
+> -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -574,3 +577,4 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[MultiscaleThreatAssessmentOfRi_2022]]
 - [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]
 - [[SpawningAndMovementsOfRazorbac_1990]]
+- [[ElectrofishingAndItsHarmfulEff_2003]]

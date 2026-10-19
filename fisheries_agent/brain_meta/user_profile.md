@@ -1,0 +1,5 @@
+- **Tools:** R
+- **Style:** tidyverse with commented scripts, the draft manuscript is in word
+- **Units:** AFS species naming, metric units, publication will be an AFS publication
+- **Citations:** AFS
+- **Workflow:** plan, approve, then run. do not need to ask permission for installing packages

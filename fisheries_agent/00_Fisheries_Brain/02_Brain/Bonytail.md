@@ -146,6 +146,9 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
 > -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
 
+> **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
+> -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -320,3 +323,4 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 - [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
 - [[PredatoryFishRemovalAndNativeF_2005]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
+- [[ElectrofishingAndItsHarmfulEff_2003]]
