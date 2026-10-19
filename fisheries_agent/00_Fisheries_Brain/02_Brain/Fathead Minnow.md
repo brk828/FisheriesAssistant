@@ -92,6 +92,9 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This 1973 study evaluated two experimental fish diets combining roasted soybeans with fresh [[Gizzard Shad]] (Dorosoma cepedianum) as alternatives to commercial [[Oregon Pellets]] for feeding yearling [[Channel Catfish]] (Ictalurus punctatus). Both experimental formulations—one with 50% roasted...
 > -- *[[APreliminaryEvaluationOfAFishD_20313]]*
 
+> **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
+> -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -209,3 +212,4 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
 - [[FinalReportOnResearchConducted_18507]]
 - [[APreliminaryEvaluationOfAFishD_20313]]
+- [[EffectsOfTotalDissolvedSolidsO_2007]]

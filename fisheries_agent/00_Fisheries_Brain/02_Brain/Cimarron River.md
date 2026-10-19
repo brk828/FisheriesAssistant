@@ -11,5 +11,9 @@ The Cimarron River is the receiving water body for Skeleton Creek, located appro
 > This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
 > -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[EffectsOfOilRefineryAndDomesti_11169]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

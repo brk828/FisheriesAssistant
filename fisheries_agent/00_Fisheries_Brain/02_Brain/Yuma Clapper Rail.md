@@ -68,6 +68,9 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
 > -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
 
+> **Taxonomic & Life-History Summary**: The Imperial Ponds Conservation Area (IPCA) targets two native fish species: [[Razorback Sucker]] (*Xyrauchen texanus*, family Catostomidae) and [[Bonytail]] (*Gila elegans*, family Cyprinidae). Each pond was stocked with approximately 300 adult fishes in even...
+> -- *[[ImperialPondsConservationAreaA_2020]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -92,3 +95,4 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[BiologicalOpinionForLakeHavasu_11704]]
 - [[BiologicalOpinionForLakeHavasu_11881]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[ImperialPondsConservationAreaA_2020]]

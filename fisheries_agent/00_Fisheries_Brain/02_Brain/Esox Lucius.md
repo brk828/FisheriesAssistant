@@ -11,8 +11,12 @@ Esox lucius, commonly known as the northern pike, is a large, predatory freshwat
 > - **Anadromous/diadromous lineages**: [[Petromyzonidae|Lampreys]] (including the invasive [[Petromyzon Marinus|Sea Lamprey]]), [[Anguillidae|American Eel]], and clupeids such as [[Alosa Pseudoharengus|Alewife]] and [[Alosa Sapidissima|American Shad]]. - **Coldwater lake specialists**: [[Salvelinu...
 > -- *[[AListOfOntarioFishes_11321]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
+> -- *[[NorthernPikeControlAtLakeDavis_2001]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[InfluenceOfAppearanceOfPreyAnd_1973]]
 - [[NorthernPikeEsoxLuciusLPopulat_1957_08_15]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
+- [[NorthernPikeControlAtLakeDavis_2001]]

@@ -41,6 +41,9 @@ Warmouth (Lepomis gulosus) is a small freshwater sunfish species native to easte
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> **Primary Sampling Purpose**: This renovation plan aims to completely remove nonnative fish species from six ponds at [[Imperial National Wildlife Refuge]] to create suitable habitat for recruiting populations of [[Bonytail]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). The...
+> -- *[[ImperialPondsRenovationPlan_2014]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -64,3 +67,4 @@ Warmouth (Lepomis gulosus) is a small freshwater sunfish species native to easte
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[WhatHaveICaught_12929]]
+- [[ImperialPondsRenovationPlan_2014]]

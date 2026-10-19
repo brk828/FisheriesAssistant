@@ -161,6 +161,15 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 > This study evaluated the accuracy of the scale method for age determination in [[Largemouth Bass]] (*Micropterus salmoides*) and [[Bluegill]] (*Lepomis macrochirus*) from Alabama waters using fish of known ages from experimental ponds. Photographic prints of scales were examined by a technician...
 > -- *[[ANoteOnTheAccuracyOfTheScaleMe_18667]]*
 
+> **Primary Sampling Purpose**: This renovation plan aims to completely remove nonnative fish species from six ponds at [[Imperial National Wildlife Refuge]] to create suitable habitat for recruiting populations of [[Bonytail]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). The...
+> -- *[[ImperialPondsRenovationPlan_2014]]*
+
+> **Taxonomic & Life-History Summary**: The Colorado River mainstem historically supported 10 native freshwater species (Table 1), including three large-bodied species that are the focus of recovery efforts: [[Colorado Pikeminnow]] (*Ptychocheilus lucius*, the largest North American cyprinid reaching...
+> -- *[[PredatoryFishRemovalAndNativeF_2005]]*
+
+> **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
+> -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -399,3 +408,6 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 - [[FisheriesManagementOfElCapitan_16317]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[ANoteOnTheAccuracyOfTheScaleMe_18667]]
+- [[ImperialPondsRenovationPlan_2014]]
+- [[PredatoryFishRemovalAndNativeF_2005]]
+- [[UtahLakeEcosystemMonitoringToS_2023]]

@@ -11,5 +11,9 @@ Mark-recapture design was used to estimate Shoal Bass abundance at spawning aggr
 > **Taxonomic & Life-History Summary**: [[Shoal Bass]] (*Micropterus cataractae*) is a black bass endemic to the [[Apalachicola-Chattahoochee-Flint Basin]] of Alabama, Florida, and Georgia, formally described in 1999 by Williams and Burgess. The species belongs to family [[Centrarchidae]], order...
 > -- *[[StatusAssesmentOfAShoalBassPop_2012]]*
 
+> **Core Problem Addressed**: Explain the leptokurtic (high-peaked, long-tailed) movement distributions commonly observed in stream fish populations and test whether population heterogeneity in individual movement rates can generate these patterns. The study addresses why classic simple diffusion...
+> -- *[[ModelingDiffusiveSpreadInAHete_2000]]*
+
 ## Mentioned In
 - [[StatusAssesmentOfAShoalBassPop_2012]]
+- [[ModelingDiffusiveSpreadInAHete_2000]]

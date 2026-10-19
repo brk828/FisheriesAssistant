@@ -122,6 +122,18 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > This document presents a restoration plan for the federally endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Upper Colorado River Basin]]. Once abundant throughout the [[Colorado River Basin]], the species has been virtually extirpated from riverine habitats in the lower basin due to...
 > -- *[[RestorationPlanForRazorbackSuc_20599]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic catostomid of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy, hypothesized to have evolved bet-hedging strategies to capitalize on...
+> -- *[[MovementEcologyOfImperilledFis_2020]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a federally endangered catostomid endemic to the [[Colorado River Basin]]. The species is a large-bodied, periodic strategist that historically occupied diverse and connected river systems including access to a...
+> -- *[[RazorbackSuckerMovementStrateg_2020]]*
+
+> **Taxonomic & Life-History Summary:** This study focused on two abundant nonnative species—[[Channel Catfish]] (*Ictalurus punctatus*) and [[Common Carp]] (*Cyprinus carpio*)—and four native species in the [[San Juan River]]. Channel Catfish were classified as juveniles (≤300 mm TL) and adults...
+> -- *[[FishCommunityResponsesToMechan_2014]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic species of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy characteristic of bet-hedging in variable environments. Fish in this study...
+> -- *[[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -221,3 +233,7 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[RestorationPlanForRazorbackSuc_20599]]
+- [[MovementEcologyOfImperilledFis_2020]]
+- [[RazorbackSuckerMovementStrateg_2020]]
+- [[FishCommunityResponsesToMechan_2014]]
+- [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]

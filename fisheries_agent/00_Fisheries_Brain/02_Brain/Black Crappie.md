@@ -83,6 +83,15 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> **Primary Sampling Purpose**: This renovation plan aims to completely remove nonnative fish species from six ponds at [[Imperial National Wildlife Refuge]] to create suitable habitat for recruiting populations of [[Bonytail]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). The...
+> -- *[[ImperialPondsRenovationPlan_2014]]*
+
+> **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is an invasive predatory fish in [[Box Canyon Reservoir]]. During 2022 suppression, males averaged 587 mm TL (23 inches) and 1,430 g (3.1 lbs.), while females averaged 627 mm TL (25 inches) and 1,800 g (4.0 lbs.). Overall size...
+> -- *[[SummaryOfNorthernPikeSuppressi_2022]]*
+
+> **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
+> -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -167,3 +176,6 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 - [[ReservoirFisheriesInvestigatio_14589]]
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[ImperialPondsRenovationPlan_2014]]
+- [[SummaryOfNorthernPikeSuppressi_2022]]
+- [[UtahLakeEcosystemMonitoringToS_2023]]

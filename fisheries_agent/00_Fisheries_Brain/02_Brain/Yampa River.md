@@ -122,6 +122,15 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This document presents a restoration plan for the federally endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Upper Colorado River Basin]]. Once abundant throughout the [[Colorado River Basin]], the species has been virtually extirpated from riverine habitats in the lower basin due to...
 > -- *[[RestorationPlanForRazorbackSuc_20599]]*
 
+> **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is a large-bodied, piscivorous species invasive to the upper [[Colorado River Basin]]. First introduced to the [[Yampa River]] basin during the 1970s, Northern Pike are now established and common throughout the system. Mean...
+> -- *[[EvaluationOfALongtermPredatorR_2016]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a monotypic catostomid endemic to the [[Colorado River Basin]]. Adults in the [[Green River Basin]] averaged 507 mm TL for males (range 405–576 mm, n=141) and 547 mm TL for females (range 485–608 mm, n=45). Males...
+> -- *[[SpawningAndMovementsOfRazorbac_1990]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
+> -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -210,3 +219,6 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[DraftbonytailChubGilaElegans_14696]]
 - [[CompletionReportYampawhitePhys_18677]]
 - [[RestorationPlanForRazorbackSuc_20599]]
+- [[EvaluationOfALongtermPredatorR_2016]]
+- [[SpawningAndMovementsOfRazorbac_1990]]
+- [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]

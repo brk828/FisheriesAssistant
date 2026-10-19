@@ -74,6 +74,21 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> **Core Problem Addressed**: This study evaluates the comparative statistical performance of common closed population mark-recapture estimators to determine which methods produce the most accurate and precise population size estimates under varying sample sizes. The analysis addresses the practical...
+> -- *[[AssessmentOfBiasAndPrecisionAm_2023]]*
+
+> **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is an endemic catostomid fish of [[Utah Lake]], Utah, USA. The species once numbered in the millions but now has fewer than 1000 individuals. The population consists almost entirely of large, old adults with little evidence...
+> -- *[[ComplexEffectsOfPredatorsDeter_2001]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is an important target species for ice angling in northern regions. In [[Buffalo Pound Lake]], pike can reach sizes over 110 cm total length and 15 kg. The study tracked 15 individuals ranging from 56 to 98.5 cm total length....
+> -- *[[ChasingNorthernPikeUnderIceLon_2021]]*
+
+> **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is an invasive predatory fish in [[Box Canyon Reservoir]]. During 2022 suppression, males averaged 587 mm TL (23 inches) and 1,430 g (3.1 lbs.), while females averaged 627 mm TL (25 inches) and 1,800 g (4.0 lbs.). Overall size...
+> -- *[[SummaryOfNorthernPikeSuppressi_2022]]*
+
+> **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
+> -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -145,3 +160,8 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[FisheriesManagementOfElCapitan_16317]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[AssessmentOfBiasAndPrecisionAm_2023]]
+- [[ComplexEffectsOfPredatorsDeter_2001]]
+- [[ChasingNorthernPikeUnderIceLon_2021]]
+- [[SummaryOfNorthernPikeSuppressi_2022]]
+- [[UtahLakeEcosystemMonitoringToS_2023]]

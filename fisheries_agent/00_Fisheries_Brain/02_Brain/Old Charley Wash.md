@@ -29,6 +29,9 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 > This draft Long Range Plan (October 3, 1991) outlines the comprehensive recovery strategy for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
 > -- *[[DraftLongRangePlan_11590]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a monotypic catostomid endemic to the [[Colorado River Basin]]. Adults in the [[Green River Basin]] averaged 507 mm TL for males (range 405–576 mm, n=141) and 547 mm TL for females (range 485–608 mm, n=45). Males...
+> -- *[[SpawningAndMovementsOfRazorbac_1990]]*
+
 ## Mentioned In
 - [[AdditionalRazorbackSuckerGenet_1994_04_28]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -37,3 +40,4 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 - [[ReReviewOfFloodedBottomLandRes_13862]]
 - [[MeetingToDiscussProgramGoalsSt_19639]]
 - [[DraftLongRangePlan_11590]]
+- [[SpawningAndMovementsOfRazorbac_1990]]

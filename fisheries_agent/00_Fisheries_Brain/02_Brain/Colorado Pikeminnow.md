@@ -38,6 +38,24 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 > This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
 > -- *[[FyReportingAndAccounting_21020]]*
 
+> **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is a large-bodied, piscivorous species invasive to the upper [[Colorado River Basin]]. First introduced to the [[Yampa River]] basin during the 1970s, Northern Pike are now established and common throughout the system. Mean...
+> -- *[[EvaluationOfALongtermPredatorR_2016]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
+> -- *[[LongtermPatternsOfFishCommunit_2023]]*
+
+> **Taxonomic & Life-History Summary**: The Colorado River mainstem historically supported 10 native freshwater species (Table 1), including three large-bodied species that are the focus of recovery efforts: [[Colorado Pikeminnow]] (*Ptychocheilus lucius*, the largest North American cyprinid reaching...
+> -- *[[PredatoryFishRemovalAndNativeF_2005]]*
+
+> **Taxonomic & Life-History Summary:** This study focused on two abundant nonnative species—[[Channel Catfish]] (*Ictalurus punctatus*) and [[Common Carp]] (*Cyprinus carpio*)—and four native species in the [[San Juan River]]. Channel Catfish were classified as juveniles (≤300 mm TL) and adults...
+> -- *[[FishCommunityResponsesToMechan_2014]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic species of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy characteristic of bet-hedging in variable environments. Fish in this study...
+> -- *[[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
+> -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
+
 ## Mentioned In
 - [[ActingProgramDirector_1990_03_29]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -216,3 +234,9 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[FishMonitoringOfPalmLakeHassay_16635]]
 - [[FyReportingAndAccounting_21020]]
+- [[EvaluationOfALongtermPredatorR_2016]]
+- [[LongtermPatternsOfFishCommunit_2023]]
+- [[PredatoryFishRemovalAndNativeF_2005]]
+- [[FishCommunityResponsesToMechan_2014]]
+- [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]
+- [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]

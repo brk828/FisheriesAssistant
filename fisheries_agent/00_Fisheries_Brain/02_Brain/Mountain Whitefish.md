@@ -29,6 +29,9 @@ Mountain Whitefish (Prosopium williamsoni) is a native North American salmonid s
 > This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
 > -- *[[NativeRockyMountainTroutAndSto_17773]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*), family [[Esocidae]], is a highly fecund opportunistic piscivore native to portions of Alaska, Montana, Missouri, Nebraska, and the Great Lakes region but absent from Pacific drainages south of the Alaska Range prior to...
+> -- *[[MechanicalSuppressionOfInvasiv_2024]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
@@ -42,3 +45,4 @@ Mountain Whitefish (Prosopium williamsoni) is a native North American salmonid s
 - [[TwoYearCreelCensusOfTheLittleS_1955]]
 - [[LakeAndReservoirInvestigations_12145]]
 - [[NativeRockyMountainTroutAndSto_17773]]
+- [[MechanicalSuppressionOfInvasiv_2024]]

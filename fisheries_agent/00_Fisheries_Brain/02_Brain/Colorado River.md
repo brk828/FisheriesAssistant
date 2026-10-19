@@ -512,6 +512,18 @@ The Colorado River is a major southwestern North American river system that serv
 > This 1918 taxonomic description by [[John Otterbein Snyder]] documents the fish fauna of the [[Mohave River]] in southern California, identifying a single species belonging to the genus *[[Siphateles]]*. The author describes *Siphateles mohavensis* as a new species distinct from geographically...
 > -- *[[TheFishesOfMohaveRiverCaliforn_21253]]*
 
+> **Primary Sampling Purpose**: This renovation plan aims to completely remove nonnative fish species from six ponds at [[Imperial National Wildlife Refuge]] to create suitable habitat for recruiting populations of [[Bonytail]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). The...
+> -- *[[ImperialPondsRenovationPlan_2014]]*
+
+> **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic catostomid of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy, hypothesized to have evolved bet-hedging strategies to capitalize on...
+> -- *[[MovementEcologyOfImperilledFis_2020]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic species of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy characteristic of bet-hedging in variable environments. Fish in this study...
+> -- *[[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -992,3 +1004,7 @@ The Colorado River is a major southwestern North American river system that serv
 - [[BureauOfReclamationAnnouncesPu_20788]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
 - [[TheFishesOfMohaveRiverCaliforn_21253]]
+- [[ImperialPondsRenovationPlan_2014]]
+- [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
+- [[MovementEcologyOfImperilledFis_2020]]
+- [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]

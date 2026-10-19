@@ -98,6 +98,12 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic "big-river" fish of the [[Colorado River Basin]]. The Lake Mohave population consists primarily of fish produced in the early 1950s when young were abundant; most remaining adults are estimated to exceed...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003]]*
+
+> **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -162,3 +168,5 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 - [[MovementsOfAdultRazorbackSucke_12585]]
 - [[FishesAndAquaticResourcesDeath_15415]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[DeclineOfTheRazorbackSuckerInL_2003]]
+- [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]

@@ -56,6 +56,30 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is an important target species for ice angling in northern regions. In [[Buffalo Pound Lake]], pike can reach sizes over 110 cm total length and 15 kg. The study tracked 15 individuals ranging from 56 to 98.5 cm total length....
+> -- *[[ChasingNorthernPikeUnderIceLon_2021]]*
+
+> **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is a large-bodied, piscivorous species invasive to the upper [[Colorado River Basin]]. First introduced to the [[Yampa River]] basin during the 1970s, Northern Pike are now established and common throughout the system. Mean...
+> -- *[[EvaluationOfALongtermPredatorR_2016]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*), family [[Esocidae]], is a highly fecund opportunistic piscivore native to portions of Alaska, Montana, Missouri, Nebraska, and the Great Lakes region but absent from Pacific drainages south of the Alaska Range prior to...
+> -- *[[MechanicalSuppressionOfInvasiv_2024]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
+> -- *[[NorthernPikeControlAtLakeDavis_2001]]*
+
+> **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is an invasive predatory fish in [[Box Canyon Reservoir]]. During 2022 suppression, males averaged 587 mm TL (23 inches) and 1,430 g (3.1 lbs.), while females averaged 627 mm TL (25 inches) and 1,800 g (4.0 lbs.). Overall size...
+> -- *[[SummaryOfNorthernPikeSuppressi_2022]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) in Camerton Lake (28.3 ha, maximum depth 3.0 m) formed a dense population with 59.0 fish/ha for age-2 and older fish. Population structure was dominated by young fish: most individuals were age-3 or younger, with less than 3%...
+> -- *[[PopulationDynamicsTrophicInter_2003]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius* L.) in [[Stege Lagoon]], western [[Baltic Sea]], inhabit brackish waters at 8–10 ppt salinity, near the upper physiological tolerance limit for the species. Twenty-two adult pike were studied (14 females: mean TL 87.0 cm ± 9.7...
+> -- *[[PikeEsoxLuciusLOnTheEdgeConsis_2016]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
+> -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -115,3 +139,11 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[ChasingNorthernPikeUnderIceLon_2021]]
+- [[EvaluationOfALongtermPredatorR_2016]]
+- [[MechanicalSuppressionOfInvasiv_2024]]
+- [[NorthernPikeControlAtLakeDavis_2001]]
+- [[SummaryOfNorthernPikeSuppressi_2022]]
+- [[PopulationDynamicsTrophicInter_2003]]
+- [[PikeEsoxLuciusLOnTheEdgeConsis_2016]]
+- [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]

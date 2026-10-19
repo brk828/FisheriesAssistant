@@ -77,6 +77,9 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -130,3 +133,4 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[FishesAndAquaticResourcesDeath_15415]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

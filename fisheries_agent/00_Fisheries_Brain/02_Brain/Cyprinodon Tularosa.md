@@ -11,6 +11,10 @@ auto_enriched: true
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[RequestForInformationOnPropose_1997_03_13]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

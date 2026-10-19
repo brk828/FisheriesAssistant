@@ -20,9 +20,13 @@ The Arkansas River represents a significant interjurisdictional aquatic system i
 > 1. **[[Endangered Species Recovery]]**: USFWS Region 2 manages 15–20 ESA-listed fish species, focusing on identifying causes of decline, maintaining refugial backup populations, and producing stock for reintroduction. 2. **[[Depleted Species Restoration]]**: Non-listed but nationally significant ...
 > -- *[[TopTenFisheriesActiv_1996_10_14]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[NewLocalityRecordsForSomeKansa_1981]]
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[TopTenFisheriesActiv_1996_10_14]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

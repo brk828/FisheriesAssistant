@@ -92,6 +92,9 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
 > -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
 
+> **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
+> -- *[[AConservationPlanForNativeFish_2003]]*
+
 ## Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -166,3 +169,4 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[HabitatStudyOfRoundtailChubGil_18268]]
 - [[LoachMinnow_19034]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
+- [[AConservationPlanForNativeFish_2003]]

@@ -296,6 +296,12 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
 > -- *[[BureauOfReclamationAnnouncesPu_20788]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic "big-river" fish of the [[Colorado River Basin]]. The Lake Mohave population consists primarily of fish produced in the early 1950s when young were abundant; most remaining adults are estimated to exceed...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003]]*
+
+> **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -598,3 +604,5 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[CompletionReportYampawhitePhys_18677]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
 - [[BureauOfReclamationAnnouncesPu_20788]]
+- [[DeclineOfTheRazorbackSuckerInL_2003]]
+- [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]

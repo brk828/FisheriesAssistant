@@ -17,8 +17,12 @@ Captive propagation in fish science refers to the controlled breeding and rearin
 > This document is not a standard morphological or ecological field study but a **policy interview record** capturing the perspective of USFWS personnel on a **hatchery program review**. The respondent raises concerns about the objectivity of a review panel evaluating the role of [[Hatcheries]] in ...
 > -- *[[SampleInterviewRecordOnHatcher_1994_05_13]]*
 
+> **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
+> -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
+
 ## Mentioned In
 - [[FirstMeetingOfGeneticsPanel_1993_11_10]]
 - [[IssuesAndAlternativesForUseOfH_1994_05_31]]
 - [[RazorbackSuckerCaptivePropagat_1994_12_06]]
 - [[SampleInterviewRecordOnHatcher_1994_05_13]]
+- [[NativeFishesOfTheGrandCanyonRe_1991]]

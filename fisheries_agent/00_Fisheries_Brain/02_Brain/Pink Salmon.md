@@ -41,6 +41,9 @@ Pink salmon (Oncorhynchus gorbuscha) are a Pacific salmon species characterized 
 > This report documents biological characteristics of [[Pink Salmon]] (*Oncorhynchus gorbuscha*) spawning populations in [[Olsen Creek]], [[Prince William Sound]], Alaska during 1962-63. [[Prince William Sound]] is unique among major pink salmon-producing areas in that a significant portion (35-77%)...
 > -- *[[BiologicalCharacteristicsOfInt_16617]]*
 
+> **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
+> -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[NotesOnTheLeapingOfThePacificS_14869]]
@@ -55,3 +58,4 @@ Pink salmon (Oncorhynchus gorbuscha) are a Pacific salmon species characterized 
 - [[ConservationOfNativeFreshwater_15444]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[BiologicalCharacteristicsOfInt_16617]]
+- [[EffectsOfTotalDissolvedSolidsO_2007]]

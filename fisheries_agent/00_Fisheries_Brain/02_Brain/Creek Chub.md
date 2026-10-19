@@ -32,6 +32,9 @@ The Creek Chub (*Semotilus atromaculatus*) is a cyprinid minnow that functions a
 > This technical report from the Michigan Department of Conservation Institute for Fisheries Research provides comprehensive guidance on the biology, ecology, and commercial culture of minnows (family [[Cyprinidae]]) in Michigan waters. The [[Cyprinidae]] is one of the largest fish families globally,...
 > -- *[[MinnowsCyprinidae_17384]]*
 
+> **Core Problem Addressed**: Explain the leptokurtic (high-peaked, long-tailed) movement distributions commonly observed in stream fish populations and test whether population heterogeneity in individual movement rates can generate these patterns. The study addresses why classic simple diffusion...
+> -- *[[ModelingDiffusiveSpreadInAHete_2000]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -55,3 +58,4 @@ The Creek Chub (*Semotilus atromaculatus*) is a cyprinid minnow that functions a
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[SomeObservationsOnTheReclamati_15490]]
 - [[MinnowsCyprinidae_17384]]
+- [[ModelingDiffusiveSpreadInAHete_2000]]

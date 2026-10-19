@@ -41,6 +41,9 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 > This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
 > -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
+> -- *[[NorthernPikeControlAtLakeDavis_2001]]*
+
 ## Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -75,3 +78,4 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 - [[TroutRestorationInTheAdirondac_20206]]
 - [[CommentsOnVirginRiverEa_19382]]
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
+- [[NorthernPikeControlAtLakeDavis_2001]]

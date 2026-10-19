@@ -59,6 +59,9 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
 > -- *[[BiologicalOpinionToRepairErosi_11916]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
+> -- *[[LongtermPatternsOfFishCommunit_2023]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -132,3 +135,4 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[PrelimaryObservationsOnTheToxi_14434]]
 - [[PalmLakenativeFishStatus_20905]]
 - [[BiologicalOpinionToRepairErosi_11916]]
+- [[LongtermPatternsOfFishCommunit_2023]]

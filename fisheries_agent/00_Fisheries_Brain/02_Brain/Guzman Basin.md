@@ -20,6 +20,9 @@ The Guzman Basin is a geographic region in the Rio Yaqui watershed system that s
 > This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
 > -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[DistributionAndStatusOfTheChih_1990_04_11]]
@@ -27,3 +30,4 @@ The Guzman Basin is a geographic region in the Rio Yaqui watershed system that s
 - [[FisheriesNews_1993_12_21]]
 - [[RioYaquiFishesCaptureAndTransp_1987_01_12]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

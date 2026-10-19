@@ -35,6 +35,9 @@ Crayfish are freshwater decapod crustaceans that serve as important components o
 > This FAO Fisheries Circular (No. 724 Revision 2) is a comprehensive bibliographic compilation of 255 selected reference books and monographs on freshwater aquaculture published between 1951 and 1984. Compiled by André G. Coche of the [[Inland Water Resources and Aquaculture Service]], the document...
 > -- *[[AquacultureInFreshWatersAListO_15987]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) in Camerton Lake (28.3 ha, maximum depth 3.0 m) formed a dense population with 59.0 fish/ha for age-2 and older fish. Population structure was dominated by young fish: most individuals were age-3 or younger, with less than 3%...
+> -- *[[PopulationDynamicsTrophicInter_2003]]*
+
 ## Mentioned In
 - [[A New Material for Marking Kordite Line and Various Animals]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -52,3 +55,4 @@ Crayfish are freshwater decapod crustaceans that serve as important components o
 - [[TheMaineSmallmouth_14928]]
 - [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
 - [[AquacultureInFreshWatersAListO_15987]]
+- [[PopulationDynamicsTrophicInter_2003]]

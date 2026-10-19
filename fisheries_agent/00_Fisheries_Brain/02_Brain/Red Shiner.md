@@ -149,6 +149,12 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
 > -- *[[LoachMinnow_19034]]*
 
+> **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
+> -- *[[AConservationPlanForNativeFish_2003]]*
+
+> **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
+> -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -319,3 +325,5 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[HabitatStudyOfRoundtailChubGil_18268]]
 - [[FinalReportOnResearchConducted_18507]]
 - [[LoachMinnow_19034]]
+- [[AConservationPlanForNativeFish_2003]]
+- [[NativeFishesOfTheGrandCanyonRe_1991]]

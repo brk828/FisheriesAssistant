@@ -86,6 +86,12 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 > This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
 > -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) in Camerton Lake (28.3 ha, maximum depth 3.0 m) formed a dense population with 59.0 fish/ha for age-2 and older fish. Population structure was dominated by young fish: most individuals were age-3 or younger, with less than 3%...
+> -- *[[PopulationDynamicsTrophicInter_2003]]*
+
+> **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
+> -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
@@ -178,3 +184,5 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[AStudyToDetermineTheBiological_11576]]
 - [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[PopulationDynamicsTrophicInter_2003]]
+- [[UtahLakeEcosystemMonitoringToS_2023]]

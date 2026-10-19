@@ -11,5 +11,9 @@ The Continental Divide is a major geographic boundary in North America that sepa
 > This 1988-89 research assistantship application by W. L. Minckley proposes a systematic study of cyprinid fishes in the genus [[Gila]], focusing on cladistic analysis to understand evolutionary relationships and their connection to geological history. The project addresses approximately 30 extant...
 > -- *[[ResearchAssistantshipRequestSy_13746]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[ResearchAssistantshipRequestSy_13746]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

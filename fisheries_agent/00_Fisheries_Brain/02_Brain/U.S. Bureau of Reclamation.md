@@ -59,6 +59,9 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
 > -- *[[DraftEnvironmentalAssessmentLo_11489]]*
 
+> **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -89,3 +92,4 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[CommentsOnTheBiologicalOpinion_17166]]
 - [[GeneticDiversityOfRazorbackSuc_18428]]
 - [[DraftEnvironmentalAssessmentLo_11489]]
+- [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]

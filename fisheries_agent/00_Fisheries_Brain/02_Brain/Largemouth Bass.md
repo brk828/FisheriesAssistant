@@ -320,6 +320,27 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
 > -- *[[LoachMinnow_19034]]*
 
+> **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
+> -- *[[AConservationPlanForNativeFish_2003]]*
+
+> **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is an endemic catostomid fish of [[Utah Lake]], Utah, USA. The species once numbered in the millions but now has fewer than 1000 individuals. The population consists almost entirely of large, old adults with little evidence...
+> -- *[[ComplexEffectsOfPredatorsDeter_2001]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
+> -- *[[LongtermPatternsOfFishCommunit_2023]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*), family [[Esocidae]], is a highly fecund opportunistic piscivore native to portions of Alaska, Montana, Missouri, Nebraska, and the Great Lakes region but absent from Pacific drainages south of the Alaska Range prior to...
+> -- *[[MechanicalSuppressionOfInvasiv_2024]]*
+
+> **Taxonomic & Life-History Summary**: The Colorado River mainstem historically supported 10 native freshwater species (Table 1), including three large-bodied species that are the focus of recovery efforts: [[Colorado Pikeminnow]] (*Ptychocheilus lucius*, the largest North American cyprinid reaching...
+> -- *[[PredatoryFishRemovalAndNativeF_2005]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
+> -- *[[NorthernPikeControlAtLakeDavis_2001]]*
+
+> **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is an invasive predatory fish in [[Box Canyon Reservoir]]. During 2022 suppression, males averaged 587 mm TL (23 inches) and 1,430 g (3.1 lbs.), while females averaged 627 mm TL (25 inches) and 1,800 g (4.0 lbs.). Overall size...
+> -- *[[SummaryOfNorthernPikeSuppressi_2022]]*
+
 ## Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -652,3 +673,10 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[ANoteOnTheAccuracyOfTheScaleMe_18667]]
 - [[LoachMinnow_19034]]
+- [[AConservationPlanForNativeFish_2003]]
+- [[ComplexEffectsOfPredatorsDeter_2001]]
+- [[LongtermPatternsOfFishCommunit_2023]]
+- [[MechanicalSuppressionOfInvasiv_2024]]
+- [[PredatoryFishRemovalAndNativeF_2005]]
+- [[NorthernPikeControlAtLakeDavis_2001]]
+- [[SummaryOfNorthernPikeSuppressi_2022]]

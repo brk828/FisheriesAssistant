@@ -14,7 +14,11 @@ auto_enriched: true
 > This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
 > -- *[[LetterOnImplementationCommitte_11623]]*
 
+> **Taxonomic & Life-History Summary:** This study focused on two abundant nonnative species—[[Channel Catfish]] (*Ictalurus punctatus*) and [[Common Carp]] (*Cyprinus carpio*)—and four native species in the [[San Juan River]]. Channel Catfish were classified as juveniles (≤300 mm TL) and adults...
+> -- *[[FishCommunityResponsesToMechan_2014]]*
+
 ## Mentioned In
 - [[MemoOnDesertFishesCouncilRevie_1994_05_11]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[LetterOnImplementationCommitte_11623]]
+- [[FishCommunityResponsesToMechan_2014]]

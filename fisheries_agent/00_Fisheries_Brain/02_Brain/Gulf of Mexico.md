@@ -29,6 +29,12 @@ The Gulf of Mexico is a major biogeographic region and drainage basin in ichthyo
 > This Federal Aid completion report documents a 14-year experimental program (1957-1971) introducing marine fish species from the [[Gulf of Mexico]] into the saline waters of the [[Pecos River System]] in western Texas. The program was initiated because high salinity levels (800-7,000 ppm chlorides)...
 > -- *[[MarineIntroductionsTexas_13536]]*
 
+> **Core Problem Addressed:** Accurate estimation of [[Gray Triggerfish]] growth parameters while accounting for ageing error from multiple readers and comparing three ageing protocols (whole otoliths, new dorsal spine protocol, old dorsal spine protocol). The study addresses how biased age estimates...
+> -- *[[BayesianEstimationOfVonBertala_2025]]*
+
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[AnOutlineForTheStudyOfEstuarin_1954_10_31]]
 - [[BookReviewOfFreshwaterFishesOf_1969]]
@@ -45,3 +51,5 @@ The Gulf of Mexico is a major biogeographic region and drainage basin in ichthyo
 - [[StationProfileOfNatchitochesNa_1993]]
 - [[AnEcosystemApproachToFishAndWi_11650]]
 - [[MarineIntroductionsTexas_13536]]
+- [[BayesianEstimationOfVonBertala_2025]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

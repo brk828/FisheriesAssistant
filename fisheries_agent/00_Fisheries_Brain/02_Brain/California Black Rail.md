@@ -17,7 +17,11 @@ The California Black Rail is a bird species managed by personnel at Cibola Natio
 > This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
 > -- *[[DraftEnvironmentalAssessmentLo_11489]]*
 
+> **Taxonomic & Life-History Summary**: The Imperial Ponds Conservation Area (IPCA) targets two native fish species: [[Razorback Sucker]] (*Xyrauchen texanus*, family Catostomidae) and [[Bonytail]] (*Gila elegans*, family Cyprinidae). Each pond was stocked with approximately 300 adult fishes in even...
+> -- *[[ImperialPondsConservationAreaA_2020]]*
+
 ## Mentioned In
 - [[ListedAndCandidateSpeciesRespo_11941]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[DraftEnvironmentalAssessmentLo_11489]]
+- [[ImperialPondsConservationAreaA_2020]]

@@ -62,6 +62,9 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 > This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
 > -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
 
+> **Primary Sampling Purpose**: This renovation plan aims to completely remove nonnative fish species from six ponds at [[Imperial National Wildlife Refuge]] to create suitable habitat for recruiting populations of [[Bonytail]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). The...
+> -- *[[ImperialPondsRenovationPlan_2014]]*
+
 ## Mentioned In
 - [[ANoteOnTheResultsOfFeedingFire_1960]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -114,3 +117,4 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 - [[ExecutiveSummariescoloradoRive_19604]]
 - [[EstablishmentOfNewOrReclaimedP_12166]]
 - [[ALiteratureReviewOfTheEffectsO_20478]]
+- [[ImperialPondsRenovationPlan_2014]]

@@ -128,6 +128,18 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
 > -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
 
+> **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
+> -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
+> -- *[[LongtermPatternsOfFishCommunit_2023]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic catostomid of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy, hypothesized to have evolved bet-hedging strategies to capitalize on...
+> -- *[[MovementEcologyOfImperilledFis_2020]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic species of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy characteristic of bet-hedging in variable environments. Fish in this study...
+> -- *[[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -266,3 +278,7 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[FoodHabitsOfCaliforniaStripedB_19825]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
+- [[NativeFishesOfTheGrandCanyonRe_1991]]
+- [[LongtermPatternsOfFishCommunit_2023]]
+- [[MovementEcologyOfImperilledFis_2020]]
+- [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]

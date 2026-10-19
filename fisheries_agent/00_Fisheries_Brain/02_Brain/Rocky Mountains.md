@@ -20,8 +20,12 @@ auto_enriched: true
 > This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
 > -- *[[NativeRockyMountainTroutAndSto_17773]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[CooperativeEcosystemStudiesUni_1999]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[AllozymicVariationAndSystemati_12782]]
 - [[NativeRockyMountainTroutAndSto_17773]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

@@ -29,6 +29,9 @@ Bull Trout are a native, cold-water salmonid species valued in conservation and 
 > This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
 > -- *[[NativeRockyMountainTroutAndSto_17773]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*), family [[Esocidae]], is a highly fecund opportunistic piscivore native to portions of Alaska, Montana, Missouri, Nebraska, and the Great Lakes region but absent from Pacific drainages south of the Alaska Range prior to...
+> -- *[[MechanicalSuppressionOfInvasiv_2024]]*
+
 ## Mentioned In
 - [[CrestonNationalFishHatcherySta_1994_01_03]]
 - [[OwnersToDemolishDamThatBlocksF_14938]]
@@ -37,3 +40,4 @@ Bull Trout are a native, cold-water salmonid species valued in conservation and 
 - [[EndangeredAndThreatenedWildlif_11741]]
 - [[SummaryStatementOfInsightsFrom_20854]]
 - [[NativeRockyMountainTroutAndSto_17773]]
+- [[MechanicalSuppressionOfInvasiv_2024]]

@@ -32,6 +32,9 @@ Steelhead are the anadromous (sea-run) life-history form of *Oncorhynchus mykiss
 > This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
 > -- *[[PublicationsOfPeterBMoyle_15442]]*
 
+> **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
+> -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[StationProfileOfTheH_19552]]
@@ -42,3 +45,4 @@ Steelhead are the anadromous (sea-run) life-history form of *Oncorhynchus mykiss
 - [[AConservationorientedClassific_15455]]
 - [[ASteelheadMigrationInShastaRiv_21255]]
 - [[PublicationsOfPeterBMoyle_15442]]
+- [[EffectsOfTotalDissolvedSolidsO_2007]]

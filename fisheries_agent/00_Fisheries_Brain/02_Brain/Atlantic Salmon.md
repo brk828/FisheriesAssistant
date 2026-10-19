@@ -29,6 +29,9 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
+> -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
+
 ## Mentioned In
 - [[BerkshireNationalFishHatcheryS_19579]]
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
@@ -63,3 +66,4 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 - [[TitleEffectOfTemperatureOnMort_15091]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[EffectsOfTotalDissolvedSolidsO_2007]]

@@ -59,6 +59,9 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
 > -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
+> -- *[[NorthernPikeControlAtLakeDavis_2001]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -108,3 +111,4 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[PropagationOfBaitMinnowsInCali_18150]]
 - [[SummaryReportOnResearchConduct_18505]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[NorthernPikeControlAtLakeDavis_2001]]

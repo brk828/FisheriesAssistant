@@ -29,6 +29,9 @@ Dorosoma petenense, commonly known as threadfin shad, is a euryhaline forage fis
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[AProvisionalCheckListOfTheFish_15941]]
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
@@ -37,3 +40,4 @@ Dorosoma petenense, commonly known as threadfin shad, is a euryhaline forage fis
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

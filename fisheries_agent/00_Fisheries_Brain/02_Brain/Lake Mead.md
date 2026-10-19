@@ -155,6 +155,15 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
 > -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
 
+> **Taxonomic & Life-History Summary**: [[Bonytail]] (*Gila elegans*, Cyprinidae) and [[Razorback Sucker]] (*Xyrauchen texanus*, Catostomidae) are endemic large-river fishes of the [[Colorado River Basin]]. Razorback sucker can live >40 years; a single female produces >200,000 ova per season....
+> -- *[[MaturationOfAnOffchannelHabita_2024]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
+> -- *[[LongtermPatternsOfFishCommunit_2023]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a federally endangered catostomid endemic to the [[Colorado River Basin]]. The species is a large-bodied, periodic strategist that historically occupied diverse and connected river systems including access to a...
+> -- *[[RazorbackSuckerMovementStrateg_2020]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -281,3 +290,6 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
+- [[MaturationOfAnOffchannelHabita_2024]]
+- [[LongtermPatternsOfFishCommunit_2023]]
+- [[RazorbackSuckerMovementStrateg_2020]]

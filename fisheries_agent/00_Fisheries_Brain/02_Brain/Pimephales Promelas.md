@@ -38,6 +38,9 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 > This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
 > -- *[[ReportToTheDesertFishesCouncil_13683]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[DistributionOfMidwesternFishes_1978]]
 - [[FiveNewSpeciesOfGyrodactylusTr_12149]]
@@ -54,3 +57,4 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[ReportToTheDesertFishesCouncil_13683]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

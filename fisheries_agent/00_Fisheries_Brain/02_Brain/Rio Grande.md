@@ -53,6 +53,9 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 > Personal correspondence dated March 30, 1992, from Dr. Roger Conant (University of New Mexico, retired Director of Philadelphia Zoo) to Dr. W. L. Minckley (Arizona State University) requesting information on geological history and aquatic fauna of the [[Rio Nazas]] and [[Rio Aguanaval]] in western...
 > -- *[[InterestInRioNazasAndRioAguana_17463]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -79,3 +82,4 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 - [[TaxonomicStatusEcologyAndDistr_14514]]
 - [[AmericanRiversScientificAndTec_15167]]
 - [[InterestInRioNazasAndRioAguana_17463]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

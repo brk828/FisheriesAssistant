@@ -149,6 +149,9 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
 > -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
 
+> **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
+> -- *[[AConservationPlanForNativeFish_2003]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -309,3 +312,4 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[FinalReportOnResearchConducted_18507]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
+- [[AConservationPlanForNativeFish_2003]]

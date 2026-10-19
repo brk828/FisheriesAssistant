@@ -188,6 +188,18 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
 > -- *[[BureauOfReclamationAnnouncesPu_20788]]*
 
+> **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
+> -- *[[AConservationPlanForNativeFish_2003]]*
+
+> **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
+> -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a federally endangered catostomid endemic to the [[Colorado River Basin]]. The species is a large-bodied, periodic strategist that historically occupied diverse and connected river systems including access to a...
+> -- *[[RazorbackSuckerMovementStrateg_2020]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic species of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy characteristic of bet-hedging in variable environments. Fish in this study...
+> -- *[[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -351,3 +363,7 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[FinalReportOnResearchConducted_18507]]
 - [[BureauOfReclamationAnnouncesPu_20788]]
+- [[AConservationPlanForNativeFish_2003]]
+- [[NativeFishesOfTheGrandCanyonRe_1991]]
+- [[RazorbackSuckerMovementStrateg_2020]]
+- [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]

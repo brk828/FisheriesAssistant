@@ -185,6 +185,21 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This FY 1993 annual project report documents a genetic diversity study of the [[Razorback Sucker]] (*Xyrauchen texanus*), a large, long-lived catostomid endemic to the [[Colorado River]] drainage. The research examined mitochondrial DNA (mtDNA) variation in the [[Lake Mohave]] source population and...
 > -- *[[FyAnnualProjectReportColoradoR_19124]]*
 
+> **Taxonomic & Life-History Summary**: [[Bonytail]] (*Gila elegans*, Cyprinidae) and [[Razorback Sucker]] (*Xyrauchen texanus*, Catostomidae) are endemic large-river fishes of the [[Colorado River Basin]]. Razorback sucker can live >40 years; a single female produces >200,000 ova per season....
+> -- *[[MaturationOfAnOffchannelHabita_2024]]*
+
+> **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
+> -- *[[AConservationPlanForNativeFish_2003]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic "big-river" fish of the [[Colorado River Basin]]. The Lake Mohave population consists primarily of fish produced in the early 1950s when young were abundant; most remaining adults are estimated to exceed...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
+> -- *[[LongtermPatternsOfFishCommunit_2023]]*
+
+> **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -404,3 +419,8 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[PreliminaryDraftManagementPlan_16433]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[FyAnnualProjectReportColoradoR_19124]]
+- [[MaturationOfAnOffchannelHabita_2024]]
+- [[AConservationPlanForNativeFish_2003]]
+- [[DeclineOfTheRazorbackSuckerInL_2003]]
+- [[LongtermPatternsOfFishCommunit_2023]]
+- [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]

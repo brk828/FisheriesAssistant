@@ -14,9 +14,13 @@ Arctic Char (Salvelinus alpinus) is a cold-water salmonid species distributed ac
 > - Species studied: *Salvelinus alpinus willughbii*, a subspecies/form of [[Arctic Char]] endemic to Windermere. - Two reproductively distinct populations exist within Windermere, differentiated by spawning habitat and season rather than distinct morphology: - **Autumn-spawning population**: spawn...
 > -- *[[TitleEffectOfTemperatureOnMort_15091]]*
 
+> **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
+> -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
+
 ## Mentioned In
 - [[GrowthRatesOfTheCharSalvelinus_15166]]
 - [[MemorandumOnFishIntroductionPr_1988_03_14]]
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
 - [[TheEffectOfTemperatureAndOxyge_1964]]
 - [[TitleEffectOfTemperatureOnMort_15091]]
+- [[EffectsOfTotalDissolvedSolidsO_2007]]

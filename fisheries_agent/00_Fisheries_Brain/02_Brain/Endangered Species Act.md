@@ -224,6 +224,9 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
 > -- *[[GilaTopminnowsantaCruzRiver_20207]]*
 
+> **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
+> -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -580,3 +583,4 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
+- [[NativeFishesOfTheGrandCanyonRe_1991]]

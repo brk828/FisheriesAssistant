@@ -284,6 +284,9 @@ The Gila River is a major tributary system in the southwestern United States tha
 > This study examines allozymic variation in wild and captive populations of endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) from the [[Lower Colorado River]] basin and [[Salton Sink]]. Four polymorphic loci were surveyed across 13 populations (9 captive, 4 wild). Few consistent...
 > -- *[[AllozymicVariationInDesertPupf_19162]]*
 
+> **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -502,3 +505,4 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
 - [[LoachMinnow_19034]]
 - [[AllozymicVariationInDesertPupf_19162]]
+- [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]

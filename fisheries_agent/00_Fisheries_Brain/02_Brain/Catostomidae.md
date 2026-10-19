@@ -98,6 +98,12 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 > This document is correspondence from Tom Strekal, Team Leader, scheduling a [[Cui-ui]] Recovery Team meeting for November 29, 1990, in Reno, Nevada. The meeting addresses the urgent completion of the draft [[Cui-ui]] Recovery Plan, mandated by Senate Bill 3084 (Truckee-Carson-Pyramid Lake Water...
 > -- *[[IssuesToDiscussAndResolveAtCui_14619]]*
 
+> **Taxonomic & Life-History Summary:** [[June Sucker]] (*Chasmistes liorus*) is one of four extant lakesucker species in North America (family [[Catostomidae]]), endemic to [[Utah Lake]] and its tributaries. First described by Jordan (1878) from specimens collected in the 1870s, the species was...
+> -- *[[StatusOfJuneSuckerInUtahLakeAn_2007]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a federally endangered catostomid endemic to the [[Colorado River Basin]]. The species is a large-bodied, periodic strategist that historically occupied diverse and connected river systems including access to a...
+> -- *[[RazorbackSuckerMovementStrateg_2020]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AListOfOntarioFishes_11321]]
@@ -301,3 +307,5 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 - [[DrafInfluenceOfHybridizationOn_11330]]
 - [[MovementsOfAdultRazorbackSucke_12585]]
 - [[IssuesToDiscussAndResolveAtCui_14619]]
+- [[StatusOfJuneSuckerInUtahLakeAn_2007]]
+- [[RazorbackSuckerMovementStrateg_2020]]

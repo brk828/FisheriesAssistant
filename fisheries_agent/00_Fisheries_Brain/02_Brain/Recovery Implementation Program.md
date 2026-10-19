@@ -26,6 +26,9 @@ A Recovery Implementation Program (RIP) is a structured, multi-stakeholder admin
 > These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
 
+> **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
+> -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -41,3 +44,4 @@ A Recovery Implementation Program (RIP) is a structured, multi-stakeholder admin
 - [[ReferencesWithNewInformationFo_1987_03_01]]
 - [[SolicitationOfResearchProposal_1990_03_20]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[NativeFishesOfTheGrandCanyonRe_1991]]

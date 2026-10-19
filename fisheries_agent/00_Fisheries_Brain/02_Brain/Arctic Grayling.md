@@ -20,6 +20,9 @@ Arctic Grayling (Thymallus arcticus) is a freshwater salmonid species characteri
 > This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
 > -- *[[SummaryStatementOfInsightsFrom_20854]]*
 
+> **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
+> -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[PeerReviewLetterOnInvestigatio_1995_06_30]]
@@ -27,3 +30,4 @@ Arctic Grayling (Thymallus arcticus) is a freshwater salmonid species characteri
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[SummaryStatementOfInsightsFrom_20854]]
+- [[EffectsOfTotalDissolvedSolidsO_2007]]

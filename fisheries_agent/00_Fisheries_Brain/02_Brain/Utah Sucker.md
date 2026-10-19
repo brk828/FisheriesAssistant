@@ -17,9 +17,13 @@ The Utah Sucker (*Catostomus ardens*) is a native cyprinid species of the Colora
 > This paper identifies a previously misidentified hybrid catostomid from [[Lake Mohave]] as a cross between the [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Flannelmouth Sucker]] (*Catostomus latipinnis*). The author corrects earlier identifications that suggested hybridization with [[Utah...
 > -- *[[DraftdistributionAndIncidenceO_12207]]*
 
+> **Taxonomic & Life-History Summary:** [[June Sucker]] (*Chasmistes liorus*) is one of four extant lakesucker species in North America (family [[Catostomidae]]), endemic to [[Utah Lake]] and its tributaries. First described by Jordan (1878) from specimens collected in the 1870s, the species was...
+> -- *[[StatusOfJuneSuckerInUtahLakeAn_2007]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedFishInT_1979]]
 - [[PopulationDifferentiationAndIn_1987]]
 - [[ProposedStockingOfNonnativeFis_18716]]
 - [[ResponseToAmericanSocietyOfIch_1987_10_09]]
 - [[DraftdistributionAndIncidenceO_12207]]
+- [[StatusOfJuneSuckerInUtahLakeAn_2007]]

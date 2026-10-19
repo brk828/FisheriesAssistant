@@ -14,9 +14,13 @@ Broodstock management refers to the systematic care, selection, and breeding pro
 > 5. **Genetic Management Guidance** — Calls for strict **[[Broodstock Management]]** guidelines specific to threatened and endangered species to preserve genetic integrity.
 > -- *[[IssuesAndAlternativesForUseOfH_1994_05_31]]*
 
+> **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
+> -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
+
 ## Mentioned In
 - [[EffectiveBreedingEfficiencyAnI_13479]]
 - [[FishDistributionPercentByProgr_1994_03_31]]
 - [[InformationLetterNoMeetingOfTh_12591]]
 - [[IssuesAndAlternativesForUseOfH_1994_05_31]]
 - [[RazorbackSuckerBroodstockColle_1994_10_24]]
+- [[NativeFishesOfTheGrandCanyonRe_1991]]

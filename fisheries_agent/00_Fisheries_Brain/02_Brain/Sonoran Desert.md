@@ -59,6 +59,9 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 > This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
 > -- *[[BuildingSuccessfulPartnerships_13226]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[CorrespondenceRegardingDesertF_12709]]
@@ -101,3 +104,4 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[AResolutionOfTheBoardOfSupervi_18593]]
 - [[BuildingSuccessfulPartnerships_13226]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

@@ -74,6 +74,21 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
 > -- *[[TheDesirabilityOfIntroducingWh_16080]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is an important target species for ice angling in northern regions. In [[Buffalo Pound Lake]], pike can reach sizes over 110 cm total length and 15 kg. The study tracked 15 individuals ranging from 56 to 98.5 cm total length....
+> -- *[[ChasingNorthernPikeUnderIceLon_2021]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*), family [[Esocidae]], is a highly fecund opportunistic piscivore native to portions of Alaska, Montana, Missouri, Nebraska, and the Great Lakes region but absent from Pacific drainages south of the Alaska Range prior to...
+> -- *[[MechanicalSuppressionOfInvasiv_2024]]*
+
+> **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is an invasive predatory fish in [[Box Canyon Reservoir]]. During 2022 suppression, males averaged 587 mm TL (23 inches) and 1,430 g (3.1 lbs.), while females averaged 627 mm TL (25 inches) and 1,800 g (4.0 lbs.). Overall size...
+> -- *[[SummaryOfNorthernPikeSuppressi_2022]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) in Camerton Lake (28.3 ha, maximum depth 3.0 m) formed a dense population with 59.0 fish/ha for age-2 and older fish. Population structure was dominated by young fish: most individuals were age-3 or younger, with less than 3%...
+> -- *[[PopulationDynamicsTrophicInter_2003]]*
+
+> **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
+> -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -146,3 +161,8 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[TheIncidenceAndDistributionOfT_15429]]
 - [[ALiteratureReviewOfTheEffectsO_20478]]
 - [[TheDesirabilityOfIntroducingWh_16080]]
+- [[ChasingNorthernPikeUnderIceLon_2021]]
+- [[MechanicalSuppressionOfInvasiv_2024]]
+- [[SummaryOfNorthernPikeSuppressi_2022]]
+- [[PopulationDynamicsTrophicInter_2003]]
+- [[UtahLakeEcosystemMonitoringToS_2023]]

@@ -50,6 +50,9 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 > The [[White River Spinedace]] (*Lepidomeda albivallis*) is a federally endangered cyprinid fish endemic to northern [[White River Valley]] in [[Nevada]]. As of June 1991, the species persisted in only one of seven historically occupied habitats—the northern spring of the [[Flag Springs]]...
 > -- *[[WhiteRiverSpinedaceLepidomedaA_11636]]*
 
+> **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
+
 ## Mentioned In
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -74,3 +77,4 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 - [[DraftConservationStrategyVirgi_11659]]
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[WhiteRiverSpinedaceLepidomedaA_11636]]
+- [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]

@@ -44,6 +44,9 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 > This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
 > -- *[[GeneticDifferentiationAmongSub_18497]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[CompositionAndDerivationOfTheN_15363]]
@@ -64,3 +67,4 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 - [[DraftcoloradoRiverEndangeredFi_13664]]
 - [[TaxonomicStatusEcologyAndDistr_14514]]
 - [[GeneticDifferentiationAmongSub_18497]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

@@ -23,6 +23,9 @@ The Atlantic sturgeon (Acipenser oxyrhynchus) is a large, long-lived anadromous 
 > This station profile documents FY1993 operations of the [[Northeast Fishery Center]] (Lamar National Fish Hatchery and Fish Technology Center) in Lamar, Pennsylvania, a USFWS Region 5 facility established in 1931. The report captures a pivotal transitional year in which the station shifted from d...
 > -- *[[StationProfileOfTheNortheastFi_19541]]*
 
+> **Core Problem Addressed**: This study evaluates the comparative statistical performance of common closed population mark-recapture estimators to determine which methods produce the most accurate and precise population size estimates under varying sample sizes. The analysis addresses the practical...
+> -- *[[AssessmentOfBiasAndPrecisionAm_2023]]*
+
 ## Mentioned In
 - [[EstimatingTheProbabilityThatHi_1998]]
 - [[FishDistributionNumbersAndWeig_1992]]
@@ -30,3 +33,4 @@ The Atlantic sturgeon (Acipenser oxyrhynchus) is a large, long-lived anadromous 
 - [[StationProfileOfBoGi_1994]]
 - [[StationProfileOfTheNortheastFi_19541]]
 - [[Status of Atlantic, Acipenser oxyrhynchus, and Shortnose, A. brevirostrum, Sturgeons in North Carolina (Pisces, Acipense]]
+- [[AssessmentOfBiasAndPrecisionAm_2023]]

@@ -29,6 +29,9 @@ Pit tags, or Passive Integrated Transponder tags, are small electronic microchip
 > This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
 > -- *[[AStudyToDetermineTheBiological_11576]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a federally endangered catostomid endemic to the [[Colorado River Basin]]. The species is a large-bodied, periodic strategist that historically occupied diverse and connected river systems including access to a...
+> -- *[[RazorbackSuckerMovementStrateg_2020]]*
+
 ## Mentioned In
 - [[DatabaseManagementProgramColor_1993]]
 - [[GlenCanyonEnvironmentalStudies_1992_09_13]]
@@ -38,3 +41,4 @@ Pit tags, or Passive Integrated Transponder tags, are small electronic microchip
 - [[EndangeredSpeciesProgramReview_19696]]
 - [[GeneticMonitoringOfRepatriated_17010]]
 - [[AStudyToDetermineTheBiological_11576]]
+- [[RazorbackSuckerMovementStrateg_2020]]

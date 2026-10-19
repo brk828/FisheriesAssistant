@@ -119,6 +119,9 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
 > -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
 
+> **Taxonomic & Life-History Summary**: The Colorado River mainstem historically supported 10 native freshwater species (Table 1), including three large-bodied species that are the focus of recovery efforts: [[Colorado Pikeminnow]] (*Ptychocheilus lucius*, the largest North American cyprinid reaching...
+> -- *[[PredatoryFishRemovalAndNativeF_2005]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -202,3 +205,4 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[FisheriesManagementOfElCapitan_16317]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
+- [[PredatoryFishRemovalAndNativeF_2005]]

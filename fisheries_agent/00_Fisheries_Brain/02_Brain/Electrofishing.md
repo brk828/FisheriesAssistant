@@ -29,6 +29,12 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 > This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
 > -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
 
+> **Taxonomic & Life-History Summary**: The Imperial Ponds Conservation Area (IPCA) targets two native fish species: [[Razorback Sucker]] (*Xyrauchen texanus*, family Catostomidae) and [[Bonytail]] (*Gila elegans*, family Cyprinidae). Each pond was stocked with approximately 300 adult fishes in even...
+> -- *[[ImperialPondsConservationAreaA_2020]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
+> -- *[[NorthernPikeControlAtLakeDavis_2001]]*
+
 ## Mentioned In
 - [[ANonlethalTechniqueToRecoverGu_1994]]
 - [[ASimpleTransportableLakeShocke_1966]]
@@ -46,3 +52,5 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 - [[TheUseOfRotenoneAndElectrofish_17705]]
 - [[FishPlentifulInGuatemalaLake_19070]]
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
+- [[ImperialPondsConservationAreaA_2020]]
+- [[NorthernPikeControlAtLakeDavis_2001]]

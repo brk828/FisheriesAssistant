@@ -14,9 +14,13 @@ Predator-prey dynamics in fish ecology refers to the complex interactions betwee
 > **Taxonomic & Life-History Summary:** Three centrarchid species are described: [[Lepomis microlophus]] (redear sunfish), [[Micropterus dolomieui]] (smallmouth bass), and [[Micropterus punctulatus]] (spotted bass). [[Lepomis microlophus]] exhibits geographic variation with two forms: one with 40-47...
 > -- *[[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
+> -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
+
 ## Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
 - [[FishSamplingAtAsuResearchParkA_1988_04_22]]
 - [[PredationByIntroducedMuskellun_20576]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
 - [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]
+- [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]

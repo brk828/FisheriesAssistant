@@ -53,6 +53,15 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> **Taxonomic & Life-History Summary:** [[June Sucker]] (*Chasmistes liorus*) is one of four extant lakesucker species in North America (family [[Catostomidae]]), endemic to [[Utah Lake]] and its tributaries. First described by Jordan (1878) from specimens collected in the 1870s, the species was...
+> -- *[[StatusOfJuneSuckerInUtahLakeAn_2007]]*
+
+> **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is an endemic catostomid fish of [[Utah Lake]], Utah, USA. The species once numbered in the millions but now has fewer than 1000 individuals. The population consists almost entirely of large, old adults with little evidence...
+> -- *[[ComplexEffectsOfPredatorsDeter_2001]]*
+
+> **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
+> -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -88,3 +97,6 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[TheDesirabilityOfIntroducingWh_16080]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[StatusOfJuneSuckerInUtahLakeAn_2007]]
+- [[ComplexEffectsOfPredatorsDeter_2001]]
+- [[UtahLakeEcosystemMonitoringToS_2023]]

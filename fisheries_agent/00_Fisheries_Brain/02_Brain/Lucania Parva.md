@@ -26,9 +26,13 @@ Lucania parva is a small cyprinodontid (killifish) species that inhabits freshwa
 > This study documents temporal changes in a long-standing hybrid swarm between the endangered endemic [[Gambusia heterochir]] (Clear Creek Gambusia) and [[Gambusia affinis]] (Western Mosquitofish) in [[Clear Creek]], [[Menard County]], Texas, following reconstruction of the uppermost dam in 1979....
 > -- *[[TemporalChangesInTheGambusiaHe_15772]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[PartialBibliographyOnNaturalHi_13786]]
 - [[PreliminaryLimnologicInformati_1968_12_31]]
 - [[SurvivalOfFHybridsBetweenCypri_1959]]
 - [[TheDistributionOfTheOviparousK_16815]]
 - [[TemporalChangesInTheGambusiaHe_15772]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

@@ -29,6 +29,9 @@ Mitochondrial DNA (mtDNA) in fish science refers to the genetic material contain
 > This is a research proposal submitted by [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] in January 1990 to study genetic diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations using [[Mitochondrial DNA]] analysis. Principal investigator Professor [[Thomas E....
 > -- *[[GeneticDiversityOfRazorbackSuc_18428]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic "big-river" fish of the [[Colorado River Basin]]. The Lake Mohave population consists primarily of fish produced in the early 1950s when young were abundant; most remaining adults are estimated to exceed...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003]]*
+
 ## Mentioned In
 - [[MhcVariationInTheEndangeredGil_20763]]
 - [[PreProposalForStudiesOfMtdnaGe_1989_12_26]]
@@ -37,3 +40,4 @@ Mitochondrial DNA (mtDNA) in fish science refers to the genetic material contain
 - [[EvaluationOfMjRosenfeldsBioche_14124]]
 - [[DiversityWithinTheRedeyeBassMi_2013]]
 - [[GeneticDiversityOfRazorbackSuc_18428]]
+- [[DeclineOfTheRazorbackSuckerInL_2003]]

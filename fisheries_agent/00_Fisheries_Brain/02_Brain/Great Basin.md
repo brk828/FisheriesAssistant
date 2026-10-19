@@ -35,6 +35,9 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 > This 1971 academic paper by John N. Rinne examines the [[Pleistocene Epoch]] from multiple perspectives: climatic causes, chronological methods, hydrological conditions, and faunal evidence. The document emphasizes that the Pleistocene was characterized by dramatic climatic oscillations, extensive...
 > -- *[[ThePleistoceneItsClimateCauses_14987]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -46,3 +49,4 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
 - [[ConservationGeneticsInTheManag_20087]]
 - [[ThePleistoceneItsClimateCauses_14987]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

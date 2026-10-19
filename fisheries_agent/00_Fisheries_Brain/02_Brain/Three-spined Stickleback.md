@@ -17,8 +17,12 @@ The three-spined stickleback (Gasterosteus aculeatus) is a small freshwater and 
 > - **[[Rainbow Trout]] (Salmo gairdnerii)**: Referenced from prior toxicological literature (Roberts 1954; Herbert et al. 1957) as a bioassay species for ABS toxicity; no morphological description given, used purely as a sensitive indicator organism for detergent toxicity trials (not caught in the...
 > -- *[[TheBiologicalEffectsOfSyntheti_1962]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius* L.) in [[Stege Lagoon]], western [[Baltic Sea]], inhabit brackish waters at 8–10 ppt salinity, near the upper physiological tolerance limit for the species. Twenty-two adult pike were studied (14 females: mean TL 87.0 cm ± 9.7...
+> -- *[[PikeEsoxLuciusLOnTheEdgeConsis_2016]]*
+
 ## Mentioned In
 - [[CyclicalActivityOfTheThyroidGl_15081]]
 - [[FanningInFishesAsAMe_15583]]
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[TheBiologicalEffectsOfSyntheti_1962]]
+- [[PikeEsoxLuciusLOnTheEdgeConsis_2016]]

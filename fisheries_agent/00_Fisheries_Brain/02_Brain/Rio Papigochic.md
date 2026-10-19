@@ -11,5 +11,9 @@ auto_enriched: true
 > **Related concepts**: [[Rio Papigochic]] · [[Rio Conchos]] · [[Sierra Madre Occidental Freshwater Fish Fauna]] · [[Robert R. Miller]] · [[Scripps Institution of Oceanography]] · [[Ambystoma]] · [[Historical Ichthyological Collections]]
 > -- *[[CorrespondenceReCollectionLoca_1964_04_07]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[CorrespondenceReCollectionLoca_1964_04_07]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

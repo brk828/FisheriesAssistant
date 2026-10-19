@@ -14,6 +14,9 @@ Habitat fragmentation refers to the division and isolation of aquatic ecosystems
 > **Vegetation dynamics:** Dense stands of *Nasturtium* (watercress, nonnative) dominated east end sites, constricting channel width to <1 m at the Chimney Rock and east end guest house stations — a potential concern for [[Habitat Fragmentation]] of native fish habitat.
 > -- *[[MemorandumOnAravaipaCreekMonit_1994_06_27]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a federally endangered catostomid endemic to the [[Colorado River Basin]]. The species is a large-bodied, periodic strategist that historically occupied diverse and connected river systems including access to a...
+> -- *[[RazorbackSuckerMovementStrateg_2020]]*
+
 ## Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
 - [[DistinctivePopulationSegmentAl_1999_10_12]]
@@ -22,3 +25,4 @@ Habitat fragmentation refers to the division and isolation of aquatic ecosystems
 - [[MemorandumOnAravaipaCreekMonit_1994_06_27]]
 - [[PatternsOfGeneticVar_1993_05_07]]
 - [[VirginSpinedaceProposedAsThrea_1994_05_28]]
+- [[RazorbackSuckerMovementStrateg_2020]]

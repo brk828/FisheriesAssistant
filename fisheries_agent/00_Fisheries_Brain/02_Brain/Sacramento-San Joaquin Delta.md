@@ -32,6 +32,9 @@ The Sacramento-San Joaquin Delta is a complex estuarine system in northern Calif
 > This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
 > -- *[[TheDesirabilityOfIntroducingWh_16080]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
+> -- *[[NorthernPikeControlAtLakeDavis_2001]]*
+
 ## Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[DeterminationOfSexualMaturityI_1965]]
@@ -48,3 +51,4 @@ The Sacramento-San Joaquin Delta is a complex estuarine system in northern Calif
 - [[MovementsOfInlandAnglersWithin_11325]]
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[TheDesirabilityOfIntroducingWh_16080]]
+- [[NorthernPikeControlAtLakeDavis_2001]]

@@ -71,6 +71,9 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 > This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
 > -- *[[NativeRockyMountainTroutAndSto_17773]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic species of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy characteristic of bet-hedging in variable environments. Fish in this study...
+> -- *[[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -102,3 +105,4 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 - [[DraftbonytailChubGilaElegans_14696]]
 - [[ForestLakeMarkedFishStudies_15614]]
 - [[NativeRockyMountainTroutAndSto_17773]]
+- [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]

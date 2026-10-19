@@ -353,6 +353,54 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This document presents a restoration plan for the federally endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Upper Colorado River Basin]]. Once abundant throughout the [[Colorado River Basin]], the species has been virtually extirpated from riverine habitats in the lower basin due to...
 > -- *[[RestorationPlanForRazorbackSuc_20599]]*
 
+> **Taxonomic & Life-History Summary**: The Imperial Ponds Conservation Area (IPCA) targets two native fish species: [[Razorback Sucker]] (*Xyrauchen texanus*, family Catostomidae) and [[Bonytail]] (*Gila elegans*, family Cyprinidae). Each pond was stocked with approximately 300 adult fishes in even...
+> -- *[[ImperialPondsConservationAreaA_2020]]*
+
+> **Primary Sampling Purpose**: This renovation plan aims to completely remove nonnative fish species from six ponds at [[Imperial National Wildlife Refuge]] to create suitable habitat for recruiting populations of [[Bonytail]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). The...
+> -- *[[ImperialPondsRenovationPlan_2014]]*
+
+> **Taxonomic & Life-History Summary**: [[Bonytail]] (*Gila elegans*, Cyprinidae) and [[Razorback Sucker]] (*Xyrauchen texanus*, Catostomidae) are endemic large-river fishes of the [[Colorado River Basin]]. Razorback sucker can live >40 years; a single female produces >200,000 ova per season....
+> -- *[[MaturationOfAnOffchannelHabita_2024]]*
+
+> **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
+> -- *[[AConservationPlanForNativeFish_2003]]*
+
+> **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
+> -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic "big-river" fish of the [[Colorado River Basin]]. The Lake Mohave population consists primarily of fish produced in the early 1950s when young were abundant; most remaining adults are estimated to exceed...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003]]*
+
+> **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is a large-bodied, piscivorous species invasive to the upper [[Colorado River Basin]]. First introduced to the [[Yampa River]] basin during the 1970s, Northern Pike are now established and common throughout the system. Mean...
+> -- *[[EvaluationOfALongtermPredatorR_2016]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
+> -- *[[LongtermPatternsOfFishCommunit_2023]]*
+
+> **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic catostomid of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy, hypothesized to have evolved bet-hedging strategies to capitalize on...
+> -- *[[MovementEcologyOfImperilledFis_2020]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a federally endangered catostomid endemic to the [[Colorado River Basin]]. The species is a large-bodied, periodic strategist that historically occupied diverse and connected river systems including access to a...
+> -- *[[RazorbackSuckerMovementStrateg_2020]]*
+
+> **Taxonomic & Life-History Summary**: The Colorado River mainstem historically supported 10 native freshwater species (Table 1), including three large-bodied species that are the focus of recovery efforts: [[Colorado Pikeminnow]] (*Ptychocheilus lucius*, the largest North American cyprinid reaching...
+> -- *[[PredatoryFishRemovalAndNativeF_2005]]*
+
+> **Taxonomic & Life-History Summary:** This study focused on two abundant nonnative species—[[Channel Catfish]] (*Ictalurus punctatus*) and [[Common Carp]] (*Cyprinus carpio*)—and four native species in the [[San Juan River]]. Channel Catfish were classified as juveniles (≤300 mm TL) and adults...
+> -- *[[FishCommunityResponsesToMechan_2014]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic species of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy characteristic of bet-hedging in variable environments. Fish in this study...
+> -- *[[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a monotypic catostomid endemic to the [[Colorado River Basin]]. Adults in the [[Green River Basin]] averaged 507 mm TL for males (range 405–576 mm, n=141) and 547 mm TL for females (range 485–608 mm, n=45). Males...
+> -- *[[SpawningAndMovementsOfRazorbac_1990]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
+> -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -1026,3 +1074,19 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[FyAnnualProjectReportColoradoR_19124]]
 - [[RestorationPlanForRazorbackSuc_20599]]
+- [[ImperialPondsConservationAreaA_2020]]
+- [[ImperialPondsRenovationPlan_2014]]
+- [[MaturationOfAnOffchannelHabita_2024]]
+- [[AConservationPlanForNativeFish_2003]]
+- [[NativeFishesOfTheGrandCanyonRe_1991]]
+- [[DeclineOfTheRazorbackSuckerInL_2003]]
+- [[EvaluationOfALongtermPredatorR_2016]]
+- [[LongtermPatternsOfFishCommunit_2023]]
+- [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
+- [[MovementEcologyOfImperilledFis_2020]]
+- [[RazorbackSuckerMovementStrateg_2020]]
+- [[PredatoryFishRemovalAndNativeF_2005]]
+- [[FishCommunityResponsesToMechan_2014]]
+- [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]
+- [[SpawningAndMovementsOfRazorbac_1990]]
+- [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]

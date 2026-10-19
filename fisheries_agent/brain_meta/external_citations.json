@@ -638,6 +638,15 @@
   "type": "Book Chapter",
   "year": "1990"
  },
+ "X-08f59426": {
+  "authors": "D. W. Chamberlin, Z. A. Siders, J. C. Potts, W. D. Rogers, M. A. Taylor, W. F. Patterson",
+  "citation_source": "crossref",
+  "doi": "10.1139/cjfas-2024-0315",
+  "publication": "Canadian Journal of Fisheries and Aquatic Sciences 82: 1-12.",
+  "title": "Bayesian estimation of von Bertalanffy growth parameters for gray triggerfish, Balistes capriscus, incorporating multiple readers and ageing structures",
+  "type": "Journal Article",
+  "year": "2025"
+ },
  "X-1faa5dfa": {
   "authors": "Kristen G. Humphrey, Brian R. Kesner, Paul C. Marsh",
   "citation_source": "llm",
@@ -665,6 +674,24 @@
   "type": "Journal Article",
   "year": "2018"
  },
+ "X-297a7aaa": {
+  "authors": "J. Radinger, C. Wolter",
+  "citation_source": "crossref",
+  "doi": "10.1111/faf.12028",
+  "publication": "Fish and Fisheries 15(3): 456-473.",
+  "title": "Patterns and predictors of fish dispersal in rivers",
+  "type": "Journal Article",
+  "year": "2013"
+ },
+ "X-2d16075b": {
+  "authors": "G. A. Mueller",
+  "citation_source": "crossref",
+  "doi": "10.1577/1548-8446(2005)30[10:pfranf]2.0.co;2",
+  "publication": "Fisheries 30(9): 10-19.",
+  "title": "Predatory Fish Removal and Native Fish Recovery in the Colorado River Mainstem",
+  "type": "Journal Article",
+  "year": "2005"
+ },
  "X-2e11e933": {
   "authors": "Brian R. Kesner, Abraham P. Karam, Carol A. Pacey, Kristen A. Patterson, Paul C. Marsh",
   "citation_source": "llm",
@@ -683,6 +710,15 @@
   "type": "Journal Article",
   "year": "2020"
  },
+ "X-307dfc39": {
+  "authors": "M. C. Belk, M. J. Whitney, G. B. Schaalje",
+  "citation_source": "crossref",
+  "doi": "10.1017/s1367943001001299",
+  "publication": "Animal Conservation 4(3): 251-256.",
+  "title": "Complex effects of predators: determining vulnerability of the endangered June sucker to an introduced predator",
+  "type": "Journal Article",
+  "year": "2001"
+ },
  "X-30c00334": {
   "authors": "J. C. Pipas, F. J. Bulow",
   "citation_source": "crossref",
@@ -691,6 +727,24 @@
   "title": "Hybridization between Redeye Bass and Smallmouth Bass in Tennessee Streams",
   "type": "Journal Article",
   "year": "1998"
+ },
+ "X-34c48e83": {
+  "authors": "A. A. Burgad, B. R. Kesner, P. C. Marsh",
+  "citation_source": "crossref",
+  "doi": "10.1002/tafs.10437",
+  "publication": "Transactions of the American Fisheries Society 152(6): 760-771.",
+  "title": "Long-term patterns of fish community structure and decline in native species in a Colorado River reservoir, Arizona and Nevada",
+  "type": "Journal Article",
+  "year": "2023"
+ },
+ "X-356f513a": {
+  "authors": "G. T. Skalski, J. F. Gilliam",
+  "citation_source": "crossref",
+  "doi": "10.1890/0012-9658(2000)081[1685:mdsiah]2.0.co;2",
+  "publication": "Ecology 81(6): 1685-1700.",
+  "title": "MODELING DIFFUSIVE SPREAD IN A HETEROGENEOUS POPULATION: A MOVEMENT STUDY WITH STREAM FISH",
+  "type": "Journal Article",
+  "year": "2000"
  },
  "X-365e2fb8": {
   "authors": "R. J. Friebertshauser, K. R. Bestgen",
@@ -701,6 +755,24 @@
   "type": "Journal Article",
   "year": "2026"
  },
+ "X-36e6541e": {
+  "authors": "M. E. Andersen, J. E. Rasmussen, P. D. Thompson, D. Speas",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "American Fisheries Society Symposium 53: 43.",
+  "title": "Status of June Sucker in Utah Lake and Refuges",
+  "type": "Journal Article",
+  "year": "2007"
+ },
+ "X-39c763eb": {
+  "authors": "K. Dettloff",
+  "citation_source": "crossref",
+  "doi": "10.1016/j.fishres.2023.106756",
+  "publication": "Fisheries Research 265: 106756.",
+  "title": "Assessment of bias and precision among simple closed population mark-recapture estimators",
+  "type": "Journal Article",
+  "year": "2023"
+ },
  "X-3a2a8281": {
   "authors": "N. T. Marshall, H. A. Vanderploeg, S. R. Chaganti",
   "citation_source": "crossref",
@@ -710,6 +782,24 @@
   "type": "Journal Article",
   "year": "2021"
  },
+ "X-3ee5fee9": {
+  "authors": "Kevin Landom, Emmanuel May, Timothy E. Walsworth",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "Utah Lake ecosystem monitoring to support June sucker conservation efforts",
+  "type": "Report",
+  "year": "2023"
+ },
+ "X-414ffa0e": {
+  "authors": "K. A. Zelasko, K. R. Bestgen, J. A. Hawkins, G. C. White",
+  "citation_source": "crossref",
+  "doi": "10.1080/00028487.2016.1173586",
+  "publication": "Transactions of the American Fisheries Society 145(6): 1153-1170.",
+  "title": "Evaluation of a Long‐Term Predator Removal Program: Abundance and Population Dynamics of Invasive Northern Pike in the Yampa River, Colorado",
+  "type": "Journal Article",
+  "year": "2016"
+ },
  "X-4575b698": {
   "authors": "",
   "citation_source": "crossref",
@@ -718,6 +808,33 @@
   "title": "The Vertebrates of Arizona",
   "type": "Book Chapter",
   "year": "1964"
+ },
+ "X-4679b2ee": {
+  "authors": "L. Comte, J. D. Olden, S. Lischka, B. G. Dickson",
+  "citation_source": "crossref",
+  "doi": "10.1016/j.ecolind.2022.108840",
+  "publication": "Ecological Indicators 138: 108840.",
+  "title": "Multi-scale threat assessment of riverine ecosystems in the Colorado River Basin",
+  "type": "Journal Article",
+  "year": "2022"
+ },
+ "X-49b0cb00": {
+  "authors": "C. A. Pennock, M. C. McKinstry, C. N. Cathcart, K. B. Gido, T. A. Francis, B. A. Hines, P. D. MacKinnon, S. C. Hedden, E. I. Gilbert, C. A. Cheek, D. W. Speas, K. Creighton, D. S. Elverud, B. J. Schleicher",
+  "citation_source": "crossref",
+  "doi": "10.1002/aqc.3399",
+  "publication": "Aquatic Conservation: Marine and Freshwater Ecosystems 30(8): 1540-1551.",
+  "title": "Movement ecology of imperilled fish in a novel ecosystem: River‐reservoir movements by razorback sucker and translocations to aid conservation",
+  "type": "Journal Article",
+  "year": "2020"
+ },
+ "X-4c3dce19": {
+  "authors": "N. J. Bean, J. M. Connor, J. A. Olson, S. J. Harvey, W. P. Baker",
+  "citation_source": "crossref",
+  "doi": "10.1002/nafm.11044",
+  "publication": "North American Journal of Fisheries Management 44(6): 1249-1267.",
+  "title": "Mechanical suppression of invasive Northern Pike in Box Canyon Reservoir, Washington",
+  "type": "Journal Article",
+  "year": "2024"
  },
  "X-5284bec5": {
   "authors": "Andrew Thomas Taylor",
@@ -746,6 +863,15 @@
   "type": "Journal Article",
   "year": "1966"
  },
+ "X-5e0b9dc5": {
+  "authors": "N. R. Franssen, J. E. Davis, D. W. Ryden, K. B. Gido",
+  "citation_source": "crossref",
+  "doi": "10.1080/03632415.2014.924409",
+  "publication": "Fisheries 39(8): 352-363.",
+  "title": "Fish Community Responses to Mechanical Removal of Nonnative Fishes in a Large Southwestern River",
+  "type": "Journal Article",
+  "year": "2014"
+ },
  "X-5e6160f2": {
   "authors": "B. Friesen, C. A. Pennock, P. Budy",
   "citation_source": "crossref",
@@ -764,6 +890,24 @@
   "type": "Report",
   "year": "2008"
  },
+ "X-6cf6a615": {
+  "authors": "K. A. Zelasko, K. R. Bestgen, J. A. Hawkins, G. C. White",
+  "citation_source": "crossref",
+  "doi": "10.1080/00028487.2016.1173586",
+  "publication": "Transactions of the American Fisheries Society 145(6): 1153-1170.",
+  "title": "Evaluation of a Long‐Term Predator Removal Program: Abundance and Population Dynamics of Invasive Northern Pike in the Yampa River, Colorado",
+  "type": "Journal Article",
+  "year": "2016"
+ },
+ "X-6df6d6bf": {
+  "authors": "R. B. Pierce, C. M. Tomcko, M. T. Drake",
+  "citation_source": "crossref",
+  "doi": "10.1577/1548-8675(2003)023<0323:pdtiap>2.0.co;2",
+  "publication": "North American Journal of Fisheries Management 23(1): 323-330.",
+  "title": "Population Dynamics, Trophic Interactions, and Production of Northern Pike in a Shallow Bog Lake and Their Effects on Simulated Regulation Strategies",
+  "type": "Journal Article",
+  "year": "2003"
+ },
  "X-7bdd8757": {
   "authors": "K. Guldbrandsen Frøysa, B. Bogstad, D. W. Skagen",
   "citation_source": "crossref",
@@ -773,6 +917,15 @@
   "type": "Journal Article",
   "year": "2002"
  },
+ "X-7ef7f06a": {
+  "authors": "L. Jacobsen, D. Bekkevold, S. Berg, N. Jepsen, A. Koed, K. Aarestrup, H. Baktoft, C. Skov",
+  "citation_source": "crossref",
+  "doi": "10.1007/s10750-016-2863-y",
+  "publication": "Hydrobiologia 784(1): 143-154.",
+  "title": "Pike (Esox lucius L.) on the edge: consistent individual movement patterns in transitional waters of the western Baltic",
+  "type": "Journal Article",
+  "year": "2016"
+ },
  "X-87f389c0": {
   "authors": "W. H. Nowlin, R. W. Drenner, K. R. Guckenberger, M. A. Lauden, G. T. Alonso, J. E. Fennell, J. L. Smith",
   "citation_source": "crossref",
@@ -781,6 +934,15 @@
   "title": "Gape Limitation, Prey Size Refuges and the Top–down Impacts of Piscivorous Largemouth Bass in Shallow Pond Ecosystems",
   "type": "Journal Article",
   "year": "2006"
+ },
+ "X-8d4c1fd1": {
+  "authors": "C. A. Pennock, M. C. McKinstry, K. B. Gido",
+  "citation_source": "crossref",
+  "doi": "10.1002/tafs.10262",
+  "publication": "Transactions of the American Fisheries Society 149(5): 620-634.",
+  "title": "Razorback Sucker Movement Strategies across a River–Reservoir Habitat Complex",
+  "type": "Journal Article",
+  "year": "2020"
  },
  "X-8d62234c": {
   "authors": "T. F. Turner, T. E. Dowling, P. C. Marsh, R. W. Clarkson, D. L. Propst, S. P. Platania, M. J. Osborne, G. Caeiro-Dias",
@@ -799,6 +961,24 @@
   "title": "Size at Release, Size‐Selective Mortality, and Age of Maturity of Willamette River Hatchery Yearling Chinook Salmon",
   "type": "Journal Article",
   "year": "2011"
+ },
+ "X-943e78ba": {
+  "authors": "W. L. MINCKLEY, P. C. MARSH, J. E. DEACON, T. E. DOWLING, P. W. HEDRICK, W. J. MATTHEWS, G. MUELLER",
+  "citation_source": "crossref",
+  "doi": "10.1641/0006-3568(2003)053[0219:acpfnf]2.0.co;2",
+  "publication": "BioScience 53(3): 219.",
+  "title": "A Conservation Plan for Native Fishes of the Lower Colorado River",
+  "type": "Journal Article",
+  "year": "2003"
+ },
+ "X-9a51b273": {
+  "authors": "P. K. Weber-Scan, L. K. Duffy",
+  "citation_source": "crossref",
+  "doi": "10.3844/ajessp.2007.1.6",
+  "publication": "American Journal of Environmental Sciences 3(1): 1-6.",
+  "title": "Effects of Total Dissolved Solids on Aquatic Organisms: A Review of Literature and Recommendation for Salmonid Species",
+  "type": "Journal Article",
+  "year": "2007"
  },
  "X-9b0a8240": {
   "authors": "",
@@ -835,6 +1015,15 @@
   "title": "Compensatory recruitment, dynamic habitat, and selective gear present challenges to large‐scale invasive species control",
   "type": "Journal Article",
   "year": "2020"
+ },
+ "X-a58d2f17": {
+  "authors": "WDFW",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "Summary of 2022 Northern Pike Suppression Results on Box Canyon Reservoir, Pend Oreille River, WA",
+  "type": "Report",
+  "year": "2022"
  },
  "X-b0613d25": {
   "authors": "J. T. Nichols, C. L. Hubbs, R. M. Bailey",
@@ -881,12 +1070,66 @@
   "type": "Journal Article",
   "year": "2021"
  },
+ "X-babd8c9f": {
+  "authors": "J. Swatzell, C. Dodge, J. Lantow, B. Blasius, J. Knowles",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "Lower Colorado River Multi-Species Conservation Program.",
+  "title": "Imperial Ponds Conservation Area 2018 Annual Report",
+  "type": "Report",
+  "year": "2020"
+ },
+ "X-c65a9364": {
+  "authors": "C. M. Somers, U. Goncin, S. Hamilton, M. Chupik, R. Fisher",
+  "citation_source": "crossref",
+  "doi": "10.1002/nafm.10638",
+  "publication": "North American Journal of Fisheries Management 41(5): 1341-1350.",
+  "title": "Chasing Northern Pike under Ice: Long-Distance Movements Following Catch-and-Release Ice Angling",
+  "type": "Journal Article",
+  "year": "2021"
+ },
+ "X-c6fe12d8": {
+  "authors": "Dennis P. Lee",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "Northern Pike Control at Lake Davis, California",
+  "type": "Other",
+  "year": "2001"
+ },
+ "X-c7a60a6f": {
+  "authors": "C. A. Pennock, M. C. McKinstry, C. N. Cathcart, K. B. Gido, T. A. Francis, B. A. Hines, P. D. MacKinnon, S. C. Hedden, E. I. Gilbert, C. A. Cheek, D. W. Speas, K. Creighton, D. S. Elverud, B. J. Schleicher",
+  "citation_source": "crossref",
+  "doi": "10.1002/aqc.3399",
+  "publication": "Aquatic Conservation: Marine and Freshwater Ecosystems 30(8): 1540-1551.",
+  "title": "Movement ecology of imperilled fish in a novel ecosystem: River‐reservoir movements by razorback sucker and translocations to aid conservation",
+  "type": "Journal Article",
+  "year": "2020"
+ },
+ "X-c8fc34ea": {
+  "authors": "P. C. Marsh, C. A. Pacey, B. R. Kesner",
+  "citation_source": "crossref",
+  "doi": "10.1577/t02-115",
+  "publication": "Transactions of the American Fisheries Society 132(6): 1251-1256.",
+  "title": "Decline of the Razorback Sucker in Lake Mohave, Colorado River, Arizona and Nevada",
+  "type": "Journal Article",
+  "year": "2003"
+ },
  "X-cea5aa0d": {
   "authors": "John M. Turner, Frank J. Bulow, Christopher J. O'Bara",
   "citation_source": "llm",
   "doi": "",
   "publication": "Great International Smallmouth Bass Symposium: 143-150.",
   "title": "Introgressive Hybridization of Redeye Bass and Smallmouth Bass and Its Management Implications",
+  "type": "Book Chapter",
+  "year": "1991"
+ },
+ "X-cedd3353": {
+  "authors": "W. L. Minckley",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "Colorado River Ecology and Dam Management: Proceedings of a Symposium: 124.",
+  "title": "Native Fishes of the Grand Canyon Region: An Obituary?",
   "type": "Book Chapter",
   "year": "1991"
  },
@@ -898,6 +1141,24 @@
   "title": "Field Guide to Fishes of the Grand Canyon State",
   "type": "Other",
   "year": ""
+ },
+ "X-d3a15ffa": {
+  "authors": "J. D. Lebreton, R. P. Cefe",
+  "citation_source": "crossref",
+  "doi": "10.1080/02664760120108638",
+  "publication": "Journal of Applied Statistics 29(1-4): 353-369.",
+  "title": "Multistate recapture models: Modelling incomplete individual histories",
+  "type": "Journal Article",
+  "year": "2002"
+ },
+ "X-d3a36269": {
+  "authors": "P. C. Marsh, T. E. Dowling, T. F. Turner, M. J. Osborne, B. R. Kesner",
+  "citation_source": "crossref",
+  "doi": "10.3398/042.015.0101",
+  "publication": "Monographs of the Western North American Naturalist 15(1).",
+  "title": "Maturation of An Off-Channel Habitat Concept to Conserve Native Fishes in the Lower Colorado River",
+  "type": "Journal Article",
+  "year": "2024"
  },
  "X-d59165ff": {
   "authors": "K. Hartman",
@@ -917,6 +1178,42 @@
   "type": "Journal Article",
   "year": "2002"
  },
+ "X-e15b3990": {
+  "authors": "B. L. Pierce, R. R. Lopez, N. J. Silvy",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "",
+  "title": "Estimating Animal Abundance",
+  "type": "Book Chapter",
+  "year": ""
+ },
+ "X-e52c17a2": {
+  "authors": "P. Sangnawakij, R. Lerdsuwansri, P. Pijitrattana, P. Schlattmann, A. Maruotti, D. Bohning",
+  "citation_source": "crossref",
+  "doi": "10.1007/s10260-026-00840-5",
+  "publication": "Statistical Methods &amp; Applications 35(1): 1-22.",
+  "title": "Two-way capture-recapture methods with emphasis on the bootstrap",
+  "type": "Journal Article",
+  "year": "2026"
+ },
+ "X-e5672ad6": {
+  "authors": "P. C. Marsh, C. A. Pacey, B. R. Kesner",
+  "citation_source": "crossref",
+  "doi": "10.1577/t02-115",
+  "publication": "Transactions of the American Fisheries Society 132(6): 1251-1256.",
+  "title": "Decline of the Razorback Sucker in Lake Mohave, Colorado River, Arizona and Nevada",
+  "type": "Journal Article",
+  "year": "2003"
+ },
+ "X-e75d8802": {
+  "authors": "A. D. Finnegan",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "Lower Colorado River Multi-Species Conservation Program.",
+  "title": "Imperial Ponds Renovation Plan – 2014",
+  "type": "Report",
+  "year": "2014"
+ },
  "X-eb51a0d3": {
   "authors": "W. H. BAKER, R. E. BLANTON, C. E. JOHNSTON",
   "citation_source": "crossref",
@@ -934,5 +1231,14 @@
   "title": "Integration of new methodologies in monitoring native fish habitat and populations in the southwestern U.S.",
   "type": "Journal Article",
   "year": "2025"
+ },
+ "X-fa130a36": {
+  "authors": "H. M. Tyus, C. A. Karp",
+  "citation_source": "crossref",
+  "doi": "10.2307/3672041",
+  "publication": "The Southwestern Naturalist 35(4): 427.",
+  "title": "Spawning and Movements of Razorback Sucker, Xyrauchen texanus, in the Green River Basin of Colorado and Utah",
+  "type": "Journal Article",
+  "year": "1990"
  }
 }

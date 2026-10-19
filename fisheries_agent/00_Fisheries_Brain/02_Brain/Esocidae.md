@@ -26,6 +26,9 @@ Esocidae is a family of freshwater and estuarine fishes commonly known as pikes,
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*), family [[Esocidae]], is a highly fecund opportunistic piscivore native to portions of Alaska, Montana, Missouri, Nebraska, and the Great Lakes region but absent from Pacific drainages south of the Alaska Range prior to...
+> -- *[[MechanicalSuppressionOfInvasiv_2024]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -42,3 +45,4 @@ Esocidae is a family of freshwater and estuarine fishes commonly known as pikes,
 - [[TheOriginAndDevelopmentOfScale_17479]]
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[MechanicalSuppressionOfInvasiv_2024]]

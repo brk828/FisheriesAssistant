@@ -29,6 +29,9 @@ auto_enriched: true
 > This document comprises museum correspondence and specimen records from May 1995 regarding holdings of [[Cyprinella formosa]] (Beautiful Shiner) from the [[Mimbres River]] in [[New Mexico]]. The records document specimens held at the Museum of Southwestern Biology (MSB) and the University of...
 > -- *[[CyprinellaFormosaMimbresRiverE_21256]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[RainbowSmeltIntroductionIntoLa_1989]]
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
@@ -39,3 +42,4 @@ auto_enriched: true
 - [[GeneticDifferentiationAmongSub_18497]]
 - [[RegionEndangeredSpeciesActIntr_11825]]
 - [[CyprinellaFormosaMimbresRiverE_21256]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

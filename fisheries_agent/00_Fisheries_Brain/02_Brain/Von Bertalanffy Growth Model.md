@@ -11,5 +11,9 @@ The Von Bertalanffy Growth Model is a mathematical model describing fish growth 
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered catostomid endemic to the [[Colorado River Basin]]. This study assessed post-stocking survival of subadult and adult fish (mean TL 39.0 cm, range 28.3–65.0 cm) released into the [[Lower Colorado...
 > -- *[[SurvivalOfRazorbackSuckerInThe_2008]]*
 
+> **Core Problem Addressed:** Accurate estimation of [[Gray Triggerfish]] growth parameters while accounting for ageing error from multiple readers and comparing three ageing protocols (whole otoliths, new dorsal spine protocol, old dorsal spine protocol). The study addresses how biased age estimates...
+> -- *[[BayesianEstimationOfVonBertala_2025]]*
+
 ## Mentioned In
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
+- [[BayesianEstimationOfVonBertala_2025]]

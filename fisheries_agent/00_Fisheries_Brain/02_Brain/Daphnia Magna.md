@@ -11,7 +11,11 @@ Daphnia magna is a small freshwater crustacean commonly used as a live food sour
 > This 1954 two-part paper from *The Aquarium Journal*, authored by [[Clark Hubbs]] and [[Kirk Strawn]] at the University of Texas, details laboratory-tested protocols for culturing live foods for aquarium fish, focusing primarily on [[Drosophila]] (fruit flies) and secondarily on [[Daphnia magna]]...
 > -- *[[CulturingFruitFliesDrosophilaA_14269]]*
 
+> **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
+> -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
+
 ## Mentioned In
 - [[CulturingFruitFliesDrosophilaA_14269]]
 - [[ExperimentalPropagationOfNorth_15906]]
 - [[VariableKinematicsOfSacramento_1982]]
+- [[EffectsOfTotalDissolvedSolidsO_2007]]

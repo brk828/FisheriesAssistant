@@ -134,6 +134,12 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
 > -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
+> -- *[[NorthernPikeControlAtLakeDavis_2001]]*
+
+> **Core Problem Addressed**: Quantifying fish dispersal distances and identifying general predictors of movement patterns across freshwater fish species to inform population dynamics, recolonization potential, and recovery time predictions following environmental changes or habitat restoration....
+> -- *[[PatternsAndPredictorsOfFishDis_2013]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -291,3 +297,5 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[LoachMinnow_19034]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
+- [[NorthernPikeControlAtLakeDavis_2001]]
+- [[PatternsAndPredictorsOfFishDis_2013]]

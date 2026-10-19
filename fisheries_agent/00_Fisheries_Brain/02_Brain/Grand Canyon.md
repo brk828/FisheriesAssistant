@@ -158,6 +158,9 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
+> -- *[[AConservationPlanForNativeFish_2003]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -294,3 +297,4 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[ReviewOfGlenCanyonEnvironmenta_14007]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[AConservationPlanForNativeFish_2003]]

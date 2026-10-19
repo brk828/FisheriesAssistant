@@ -17,6 +17,12 @@ Population Viability Analysis (PVA) is a quantitative modeling approach used to 
 > - **Existing Recovery Plan goals were qualitative**, based on professional judgement of Recovery Team experts, specifying only the *number* of populations needed (e.g., five viable wild + two refugia populations for [[Humpback Chub]]) without defined population sizes, genetic targets, or explicit...
 > -- *[[RefinementOfRecoveryGoalsForTh_1990_12_03]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic "big-river" fish of the [[Colorado River Basin]]. The Lake Mohave population consists primarily of fish produced in the early 1950s when young were abundant; most remaining adults are estimated to exceed...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003]]*
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
+> -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
+
 ## Mentioned In
 - [[DraftMeetingSummaryPopulationV_1991_03_07]]
 - [[InvitationLetterAndAgendaForPo_1991_01_16]]
@@ -25,3 +31,5 @@ Population Viability Analysis (PVA) is a quantitative modeling approach used to 
 - [[PerspectivesOnRiverRestoration_15751]]
 - [[ProposalToConductPopulationVia_1991_08_01]]
 - [[RefinementOfRecoveryGoalsForTh_1990_12_03]]
+- [[DeclineOfTheRazorbackSuckerInL_2003]]
+- [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]

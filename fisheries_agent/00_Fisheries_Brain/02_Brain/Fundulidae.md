@@ -20,9 +20,13 @@ Fundulidae is a family of small freshwater and brackish-water killifishes native
 > This 1907 publication by [[David Starr Jordan]] and [[Robert Earl Richardson]] describes a new species of killifish, *[[Lucania browni]]*, collected from a hot spring in northeastern [[Lower California]] (Baja California). Six specimens were obtained by [[Herbert Brown]] from water at 128°F (53°C),...
 > -- *[[DescriptionOfANewSpeciesOfKill_19850]]*
 
+> **Core Problem Addressed**: Quantifying fish dispersal distances and identifying general predictors of movement patterns across freshwater fish species to inform population dynamics, recolonization potential, and recovery time predictions following environmental changes or habitat restoration....
+> -- *[[PatternsAndPredictorsOfFishDis_2013]]*
+
 ## Mentioned In
 - [[BookReviewsTransactionsOfTheAm_1985]]
 - [[DescriptionsOfNewSpeciesOfFish_17274]]
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
 - [[SpatialAndTemporalVariationInT_16050]]
 - [[DescriptionOfANewSpeciesOfKill_19850]]
+- [[PatternsAndPredictorsOfFishDis_2013]]

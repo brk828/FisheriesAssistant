@@ -113,6 +113,9 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
 > -- *[[GilaTopminnowsantaCruzRiver_20207]]*
 
+> **Core Problem Addressed**: Quantifying fish dispersal distances and identifying general predictors of movement patterns across freshwater fish species to inform population dynamics, recolonization potential, and recovery time predictions following environmental changes or habitat restoration....
+> -- *[[PatternsAndPredictorsOfFishDis_2013]]*
+
 ## Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -391,3 +394,4 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[PropagationOfBaitMinnowsInCali_18150]]
 - [[AnAbnormalCarpCyprinusCarpioFr_12321]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
+- [[PatternsAndPredictorsOfFishDis_2013]]

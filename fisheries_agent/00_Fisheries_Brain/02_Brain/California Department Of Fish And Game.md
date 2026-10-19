@@ -56,6 +56,9 @@ The California Department of Fish and Game (now the California Department of Fis
 > This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
 > -- *[[FisheriesManagementOfElCapitan_16317]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
+> -- *[[NorthernPikeControlAtLakeDavis_2001]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -84,3 +87,4 @@ The California Department of Fish and Game (now the California Department of Fis
 - [[IntroductionOfPalaemonetesPalu_20723]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[FisheriesManagementOfElCapitan_16317]]
+- [[NorthernPikeControlAtLakeDavis_2001]]

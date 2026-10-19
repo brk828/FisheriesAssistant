@@ -26,6 +26,9 @@ Cottidae is a family of benthic freshwater and marine fishes commonly known as s
 > This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
 > -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
 
+> **Core Problem Addressed**: Quantifying fish dispersal distances and identifying general predictors of movement patterns across freshwater fish species to inform population dynamics, recolonization potential, and recovery time predictions following environmental changes or habitat restoration....
+> -- *[[PatternsAndPredictorsOfFishDis_2013]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AListOfOntarioFishes_11321]]
@@ -39,3 +42,4 @@ Cottidae is a family of benthic freshwater and marine fishes commonly known as s
 - [[TheEffectsOfAnOilSpillOnTheMac_1976]]
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[PatternsAndPredictorsOfFishDis_2013]]

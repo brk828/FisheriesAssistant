@@ -14,6 +14,10 @@ Cattails (Typha) are aquatic vegetation found in Owens Pupfish habitat. The pupf
 > This 1956 administrative report (revised 1960) by the [[California Department of Fish and Game]] provides comprehensive guidance on commercial bait minnow culture in California. The document focuses on three introduced cyprinid species—[[Fathead Minnow]] (*Pimephales promelas*), [[Golden Shiner]]...
 > -- *[[PropagationOfBaitMinnowsInCali_18150]]*
 
+> **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
+> -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
+
 ## Mentioned In
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[PropagationOfBaitMinnowsInCali_18150]]
+- [[EffectsOfTotalDissolvedSolidsO_2007]]

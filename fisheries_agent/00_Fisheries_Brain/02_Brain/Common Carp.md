@@ -101,6 +101,24 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 > This 1973 study evaluated two experimental fish diets combining roasted soybeans with fresh [[Gizzard Shad]] (Dorosoma cepedianum) as alternatives to commercial [[Oregon Pellets]] for feeding yearling [[Channel Catfish]] (Ictalurus punctatus). Both experimental formulations—one with 50% roasted...
 > -- *[[APreliminaryEvaluationOfAFishD_20313]]*
 
+> **Primary Sampling Purpose**: This renovation plan aims to completely remove nonnative fish species from six ponds at [[Imperial National Wildlife Refuge]] to create suitable habitat for recruiting populations of [[Bonytail]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). The...
+> -- *[[ImperialPondsRenovationPlan_2014]]*
+
+> **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
+> -- *[[AConservationPlanForNativeFish_2003]]*
+
+> **Taxonomic & Life-History Summary:** [[June Sucker]] (*Chasmistes liorus*) is one of four extant lakesucker species in North America (family [[Catostomidae]]), endemic to [[Utah Lake]] and its tributaries. First described by Jordan (1878) from specimens collected in the 1870s, the species was...
+> -- *[[StatusOfJuneSuckerInUtahLakeAn_2007]]*
+
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
+> -- *[[LongtermPatternsOfFishCommunit_2023]]*
+
+> **Taxonomic & Life-History Summary:** This study focused on two abundant nonnative species—[[Channel Catfish]] (*Ictalurus punctatus*) and [[Common Carp]] (*Cyprinus carpio*)—and four native species in the [[San Juan River]]. Channel Catfish were classified as juveniles (≤300 mm TL) and adults...
+> -- *[[FishCommunityResponsesToMechan_2014]]*
+
+> **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
+> -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -270,3 +288,9 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[APreliminaryEvaluationOfAFishD_20313]]
+- [[ImperialPondsRenovationPlan_2014]]
+- [[AConservationPlanForNativeFish_2003]]
+- [[StatusOfJuneSuckerInUtahLakeAn_2007]]
+- [[LongtermPatternsOfFishCommunit_2023]]
+- [[FishCommunityResponsesToMechan_2014]]
+- [[UtahLakeEcosystemMonitoringToS_2023]]

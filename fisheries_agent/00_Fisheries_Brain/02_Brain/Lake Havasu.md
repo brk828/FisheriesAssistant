@@ -86,6 +86,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
 > -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
 
+> **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
+> -- *[[AConservationPlanForNativeFish_2003]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -154,3 +157,4 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[DraftbonytailChubGilaElegans_14696]]
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
+- [[AConservationPlanForNativeFish_2003]]

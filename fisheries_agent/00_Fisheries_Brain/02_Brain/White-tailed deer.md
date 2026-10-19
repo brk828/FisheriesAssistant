@@ -14,6 +14,10 @@ White-tailed deer (Odocoileus virginianus) is a medium-sized ungulate that inhab
 > This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
 > -- *[[MasterPlanForBuenosAiresWildli_13323]]*
 
+> **Primary Sampling Purpose**: This chapter provides comprehensive guidance on estimating animal abundance and density across diverse taxa and habitats. The primary objective is to obtain accurate and precise estimates of population size, density, or trends for wildlife management and conservation...
+> -- *[[EstimatingAnimalAbundance_X-e15b3990]]*
+
 ## Mentioned In
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
+- [[EstimatingAnimalAbundance_X-e15b3990]]

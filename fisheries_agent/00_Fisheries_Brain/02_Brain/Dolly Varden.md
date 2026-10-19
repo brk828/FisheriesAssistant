@@ -23,6 +23,9 @@ Dolly Varden (*Salvelinus malma*) is a species of char in the Salmonidae family 
 > This Federal Aid to Fish Restoration report documents population dynamics, species composition, limnological conditions, and management strategies for [[Arrowrock Reservoir]] and [[Lucky Peak Reservoir]] on the [[Boise River]], Idaho, from July 1965 through February 1968. Extensive gill netting...
 > -- *[[LakeAndReservoirInvestigations_12145]]*
 
+> **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
+> -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
+
 ## Mentioned In
 - [[APopulationOfDwarfCoastrangeSc_1960]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -30,3 +33,4 @@ Dolly Varden (*Salvelinus malma*) is a species of char in the Salmonidae family 
 - [[TwoYearCreelCensusOfTheLittleS_1955]]
 - [[WhyHaveFishHatcheriesInCanadaS_11783]]
 - [[LakeAndReservoirInvestigations_12145]]
+- [[EffectsOfTotalDissolvedSolidsO_2007]]

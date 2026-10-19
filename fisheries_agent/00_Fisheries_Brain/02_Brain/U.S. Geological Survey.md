@@ -32,6 +32,9 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 > This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
 > -- *[[LongtermLimnologicalAndWaterQu_17092]]*
 
+> **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
+
 ## Mentioned In
 - [[CreationOfTheNationalBiologica_1993_03_17]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -44,3 +47,4 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 - [[BiologicalAssessmentForTheSpik_11476]]
 - [[AnEcosystemApproachToFishAndWi_11650]]
 - [[LongtermLimnologicalAndWaterQu_17092]]
+- [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]

@@ -74,6 +74,9 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
 > -- *[[DraftbonytailChubGilaElegans_14696]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a monotypic catostomid endemic to the [[Colorado River Basin]]. Adults in the [[Green River Basin]] averaged 507 mm TL for males (range 405–576 mm, n=141) and 547 mm TL for females (range 485–608 mm, n=45). Males...
+> -- *[[SpawningAndMovementsOfRazorbac_1990]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -131,3 +134,4 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[DraftLongRangePlan_11590]]
 - [[FiscalYearWorkPlan_11594]]
 - [[DraftbonytailChubGilaElegans_14696]]
+- [[SpawningAndMovementsOfRazorbac_1990]]

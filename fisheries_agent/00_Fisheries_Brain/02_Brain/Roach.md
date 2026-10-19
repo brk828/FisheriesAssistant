@@ -23,6 +23,9 @@ Roach (Rutilus rutilus) is a common cyprinid fish species inhabiting the benthic
 > - **Habitat context**: [[Rainbow Trout]] inhabit temperate freshwater rivers and streams that may be subject to industrial and sewage pollution, making them a key indicator/test species for water quality regulation in Britain. - **Environmental modulators of toxicity**: The acute lethal toxicity ...
 > -- *[[TheCalculationOfTheAcuteToxici_1968_06_24]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius* L.) in [[Stege Lagoon]], western [[Baltic Sea]], inhabit brackish waters at 8–10 ppt salinity, near the upper physiological tolerance limit for the species. Twenty-two adult pike were studied (14 females: mean TL 87.0 cm ± 9.7...
+> -- *[[PikeEsoxLuciusLOnTheEdgeConsis_2016]]*
+
 ## Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
@@ -32,3 +35,4 @@ Roach (Rutilus rutilus) is a common cyprinid fish species inhabiting the benthic
 - [[SomeFactorsAffectingTheResista_1964]]
 - [[TheCalculationOfTheAcuteToxici_1968_06_24]]
 - [[VariationsInTheFecundityOfPike_1969]]
+- [[PikeEsoxLuciusLOnTheEdgeConsis_2016]]

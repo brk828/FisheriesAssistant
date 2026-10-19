@@ -44,6 +44,12 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 > This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
 > -- *[[SkyIslandAquaticResourcesHabit_15003]]*
 
+> **Primary Sampling Purpose**: This renovation plan aims to completely remove nonnative fish species from six ponds at [[Imperial National Wildlife Refuge]] to create suitable habitat for recruiting populations of [[Bonytail]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). The...
+> -- *[[ImperialPondsRenovationPlan_2014]]*
+
+> **Taxonomic & Life-History Summary**: [[Bonytail]] (*Gila elegans*, Cyprinidae) and [[Razorback Sucker]] (*Xyrauchen texanus*, Catostomidae) are endemic large-river fishes of the [[Colorado River Basin]]. Razorback sucker can live >40 years; a single female produces >200,000 ova per season....
+> -- *[[MaturationOfAnOffchannelHabita_2024]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
@@ -82,3 +88,5 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 - [[FishMonitoringOfPalmLakeHassay_16635]]
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
+- [[ImperialPondsRenovationPlan_2014]]
+- [[MaturationOfAnOffchannelHabita_2024]]

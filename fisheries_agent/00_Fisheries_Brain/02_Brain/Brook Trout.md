@@ -83,6 +83,9 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
 > -- *[[NativeRockyMountainTroutAndSto_17773]]*
 
+> **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
+> -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -177,3 +180,4 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
 - [[ForestLakeMarkedFishStudies_15614]]
 - [[NativeRockyMountainTroutAndSto_17773]]
+- [[EffectsOfTotalDissolvedSolidsO_2007]]

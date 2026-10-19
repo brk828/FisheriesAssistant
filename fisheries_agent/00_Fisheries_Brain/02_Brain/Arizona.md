@@ -98,6 +98,9 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 > This legal analysis examines the comprehensive federal and state environmental regulatory framework governing the domestic copper mining industry in the United States as of the early 1990s. The document focuses on major environmental statutes including the [[Resource Conservation and Recovery Act]]...
 > -- *[[OverviewOfEnvironmentalRegulat_18083]]*
 
+> **Taxonomic & Life-History Summary**: The Imperial Ponds Conservation Area (IPCA) targets two native fish species: [[Razorback Sucker]] (*Xyrauchen texanus*, family Catostomidae) and [[Bonytail]] (*Gila elegans*, family Cyprinidae). Each pond was stocked with approximately 300 adult fishes in even...
+> -- *[[ImperialPondsConservationAreaA_2020]]*
+
 ## Mentioned In
 - [[AuthorizationLetterForGilaTopm_1990_11_21]]
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
@@ -135,3 +138,4 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 - [[RegionEndangeredSpeciesActIntr_11825]]
 - [[ReviewOfTheDraftReportEntitled_12983]]
 - [[OverviewOfEnvironmentalRegulat_18083]]
+- [[ImperialPondsConservationAreaA_2020]]

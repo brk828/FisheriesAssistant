@@ -14,5 +14,9 @@ auto_enriched: true
 > - **Sex-based differences**: Females contained more fish prey by volume (mean 1.54) than males (mean 0.63); females also ingested larger prey fish (>8.3 mm) than males, which never contained prey of that size. - **Size-class patterns**: No major dietary distinction across the 100–350 mm size rang...
 > -- *[[TheFoodAndFeedingChronologyOfY_1979]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*), family [[Esocidae]], is a highly fecund opportunistic piscivore native to portions of Alaska, Montana, Missouri, Nebraska, and the Great Lakes region but absent from Pacific drainages south of the Alaska Range prior to...
+> -- *[[MechanicalSuppressionOfInvasiv_2024]]*
+
 ## Mentioned In
 - [[TheFoodAndFeedingChronologyOfY_1979]]
+- [[MechanicalSuppressionOfInvasiv_2024]]

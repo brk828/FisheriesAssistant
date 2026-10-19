@@ -209,6 +209,9 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
 > -- *[[GilaTopminnowsantaCruzRiver_20207]]*
 
+> **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
+> -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -444,3 +447,4 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[RenovationOfMesquiteSpringAndS_17653]]
 - [[FinalReportOnResearchConducted_18507]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
+- [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]

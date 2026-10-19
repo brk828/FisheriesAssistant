@@ -35,6 +35,9 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 > This report documents the second year (February 1, 1965 - January 31, 1966) of cooperative fisheries investigation at [[Lake Powell]] ([[Glen Canyon Reservoir]]) conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. The study combined systematic creel census...
 > -- *[[GlenCanyonUnitcoloradoRiverSto_14583]]*
 
+> **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
+> -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
+
 ## Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[Craspedacusta Sowerbii in Pymatuning Reservoir]]
@@ -46,3 +49,4 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 - [[LakeAndReservoirInvestigations_12145]]
 - [[FishFacts_20746]]
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
+- [[UtahLakeEcosystemMonitoringToS_2023]]

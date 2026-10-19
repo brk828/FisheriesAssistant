@@ -23,9 +23,13 @@ Lake Whitefish (Coregonus clupeaformis) is a commercially and ecologically impor
 > This 1948 study by N. S. Baldwin documents an experimental commercial fishery targeting spawning [[American Smelt]] (*Osmerus mordax*) in the tributary streams of South Bay, [[Manitoulin Island]], [[Lake Huron]]. The fishery, conducted between April 14–27, 1948, using dip-nets and seines, yielded...
 > -- *[[TheAmericanSmeltOsmerusMordaxM_1950]]*
 
+> **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is an invasive predatory fish in [[Box Canyon Reservoir]]. During 2022 suppression, males averaged 587 mm TL (23 inches) and 1,430 g (3.1 lbs.), while females averaged 627 mm TL (25 inches) and 1,800 g (4.0 lbs.). Overall size...
+> -- *[[SummaryOfNorthernPikeSuppressi_2022]]*
+
 ## Mentioned In
 - [[ChangesInWalleyeStizostedionVi_1977_03_18]]
 - [[EnvironmentalAndGeneticContrib_1981]]
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
 - [[SomePrinciplesInvolvedInRegula_16870]]
 - [[TheAmericanSmeltOsmerusMordaxM_1950]]
+- [[SummaryOfNorthernPikeSuppressi_2022]]

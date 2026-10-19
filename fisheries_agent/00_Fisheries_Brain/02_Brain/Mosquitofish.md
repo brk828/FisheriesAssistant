@@ -101,6 +101,9 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
 > -- *[[FisheriesManagementOfElCapitan_16317]]*
 
+> **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
+> -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -190,3 +193,4 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[FisheriesManagementOfElCapitan_16317]]
+- [[NativeFishesOfTheGrandCanyonRe_1991]]

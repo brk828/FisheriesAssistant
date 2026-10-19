@@ -17,6 +17,9 @@ Invasive Species Management in fish science encompasses the coordinated strategi
 > 1. **[[Endangered Species Recovery]]**: USFWS Region 2 manages 15–20 ESA-listed fish species, focusing on identifying causes of decline, maintaining refugial backup populations, and producing stock for reintroduction. 2. **[[Depleted Species Restoration]]**: Non-listed but nationally significant ...
 > -- *[[TopTenFisheriesActiv_1996_10_14]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*), family [[Esocidae]], is a highly fecund opportunistic piscivore native to portions of Alaska, Montana, Missouri, Nebraska, and the Great Lakes region but absent from Pacific drainages south of the Alaska Range prior to...
+> -- *[[MechanicalSuppressionOfInvasiv_2024]]*
+
 ## Mentioned In
 - [[ChemicalTreatmentOfOrdCreekApa_15012]]
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
@@ -29,3 +32,4 @@ Invasive Species Management in fish science encompasses the coordinated strategi
 - [[TerminologyAssociatedWithIntro_11384]]
 - [[TheInvasionPresentStatusAndLif_1949_12_01]]
 - [[TopTenFisheriesActiv_1996_10_14]]
+- [[MechanicalSuppressionOfInvasiv_2024]]

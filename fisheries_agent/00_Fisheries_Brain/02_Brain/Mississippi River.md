@@ -38,6 +38,9 @@ The Mississippi River represents a major North American fluvial system of critic
 > This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
 > -- *[[TheDesirabilityOfIntroducingWh_16080]]*
 
+> This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
+> -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerInPoolOfTh_16034]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -61,3 +64,4 @@ The Mississippi River represents a major North American fluvial system of critic
 - [[ALiteratureReviewOfTheEffectsO_20478]]
 - [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
 - [[TheDesirabilityOfIntroducingWh_16080]]
+- [[TheNativeFishFaunaOfMajorDrain_20711]]

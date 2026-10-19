@@ -37,6 +37,13 @@
   "status": "done",
   "timestamp": "2026-10-15T20:37:28+00:00"
  },
+ "0254068c081acc6c587971bc1f702336ade6f13d93f25558b38d6e03f1faf032": {
+  "file": "Adaptive-management-of-an-imperiled-catostomid.pdf",
+  "reason": "similar document already in the brain: AdaptiveManagementOfAnImperile_2016",
+  "source_id": "X-0254068c",
+  "status": "skipped",
+  "timestamp": "2026-10-19T03:43:29+00:00"
+ },
  "02d3a2ef544cfe6a27dd3139d6f0443912262d041f6fafc6613d74791da76a56": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -242,6 +249,16 @@
   "source_id": "X-08ed96e8",
   "status": "done",
   "timestamp": "2026-10-14T20:07:32+00:00"
+ },
+ "08f594269bc996074cc6d825c490866c1f7cc65fe8259efaaf4dd85beb975869": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "bayesian-estimation-of-von-bertalanffy-growth-parameters-for-gray-triggerfish-balistes-capriscus-incorporating-multiple.pdf",
+  "method": "text",
+  "note": "BayesianEstimationOfVonBertala_2025.md",
+  "source_id": "X-08f59426",
+  "status": "done",
+  "timestamp": "2026-10-19T02:58:26+00:00"
  },
  "0901648ff8e2f016af533b6b82cb525483055db70936dfcb6179947fbb04b372": {
   "citation_source": "minckley-sheet",
@@ -859,6 +876,16 @@
   "status": "done",
   "timestamp": "2026-10-16T19:06:58+00:00"
  },
+ "297a7aaa0c89585936c75f9edcaa08adfd6c7605b3c48ab58f71cd4cdce285df": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "Patterns and predictors of fish dispersal in Rivers (Radinger and Wolter 2013).pdf",
+  "method": "text",
+  "note": "PatternsAndPredictorsOfFishDis_2013.md",
+  "source_id": "X-297a7aaa",
+  "status": "done",
+  "timestamp": "2026-10-19T04:10:44+00:00"
+ },
  "29b20e74ba9bb2aa95af2928114aa99ec4882deb007fac10550d9e3afc628534": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -967,6 +994,16 @@
   "status": "done",
   "timestamp": "2026-10-18T04:16:13+00:00"
  },
+ "2d16075ba78ea0f9bdde8d6e42de37a1718d3ec586a41ca82db8109372c5f5e4": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Mueller 2005 predatory fish removal and native fish recovery in the Colorado River.pdf",
+  "method": "text",
+  "note": "PredatoryFishRemovalAndNativeF_2005.md",
+  "source_id": "X-2d16075b",
+  "status": "done",
+  "timestamp": "2026-10-19T04:03:45+00:00"
+ },
  "2d496b240cdfd66bc0a80763d9d0d7749a458f9dc467cd73007242ee1f8dc0a5": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -1025,6 +1062,16 @@
   "source_id": "X-30778970",
   "status": "done",
   "timestamp": "2026-10-15T23:50:04+00:00"
+ },
+ "307dfc39a47d8957f6d66810f7cf5b8fd729ee69709b6573b055630cee1c1948": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Belk. Complex effects of predators determining vulnerablility.pdf",
+  "method": "text",
+  "note": "ComplexEffectsOfPredatorsDeter_2001.md",
+  "source_id": "X-307dfc39",
+  "status": "done",
+  "timestamp": "2026-10-19T03:48:34+00:00"
  },
  "30a0504203c626478c1d91e0a49b4d7bd2945e7de83f0c4a25fbb909bdf80a1a": {
   "citation_source": "minckley-sheet",
@@ -1093,6 +1140,16 @@
   "status": "done",
   "timestamp": "2026-10-15T20:57:05+00:00"
  },
+ "34c48e837784c687d99e1e07e07e1b1a37b7577722c84677ac4426768614fbee": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Long term patterns of a fish community structure and decline in native.pdf",
+  "method": "text",
+  "note": "LongtermPatternsOfFishCommunit_2023.md",
+  "source_id": "X-34c48e83",
+  "status": "done",
+  "timestamp": "2026-10-19T03:55:02+00:00"
+ },
  "34f262565dbf051373b5f679650e7add04157b75a1662abd3eaf601632de4278": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -1131,6 +1188,16 @@
   "source_id": "X-3543c841",
   "status": "done",
   "timestamp": "2026-10-14T20:12:55+00:00"
+ },
+ "356f513ad7acda46cda1caf192894fa277f9c7081fe0cdb461bd7ca2ddf06672": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "Modeling diffusive spread in a hetero. pop. Skalski 2000..pdf",
+  "method": "text",
+  "note": "ModelingDiffusiveSpreadInAHete_2000.md",
+  "source_id": "X-356f513a",
+  "status": "done",
+  "timestamp": "2026-10-19T03:59:21+00:00"
  },
  "35b9882b9091927c8a2ad32b5d00f4dacaa022a2c9e5c400d2a756313471d4da": {
   "citation_source": "minckley-sheet",
@@ -1179,6 +1246,16 @@
   "status": "done",
   "timestamp": "2026-10-17T09:24:07+00:00"
  },
+ "36e6541e3990ef133b10a1ec701c241a81f846a32c5ab6ff62037484d4c37068": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "Andersen. Status of June Sucker in Utah Lake and Refuges.pdf",
+  "method": "text",
+  "note": "StatusOfJuneSuckerInUtahLakeAn_2007.md",
+  "source_id": "X-36e6541e",
+  "status": "done",
+  "timestamp": "2026-10-19T03:47:24+00:00"
+ },
  "3929230d98859f4995b5c7fb8df87a8de85c28a097d427276bf8a24a37fddafc": {
   "citation_source": "minckley-sheet",
   "file": "18452.pdf",
@@ -1187,6 +1264,16 @@
   "source_id": "X-3929230d",
   "status": "done",
   "timestamp": "2026-10-14T23:57:38+00:00"
+ },
+ "39c763eb82fb3090a5c921cf410a6cee745834c243295e6c3f4d14d1cbd7347a": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "noaa_52288_DS1.pdf",
+  "method": "text",
+  "note": "AssessmentOfBiasAndPrecisionAm_2023.md",
+  "source_id": "X-39c763eb",
+  "status": "done",
+  "timestamp": "2026-10-19T03:05:26+00:00"
  },
  "3a05544ee43334fa4598bf11555a8610cd4ab64b74d9d39f87add86e2ad5568d": {
   "citation_source": "minckley-sheet",
@@ -1304,6 +1391,16 @@
   "status": "done",
   "timestamp": "2026-10-15T00:03:54+00:00"
  },
+ "3ee5fee97269708cce24a45d8be35cbba242d1d979b6c523d7530d33f7458ef8": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "USU_UtahLakeEcosystemMonitoringReport_2023_FINAL.pdf",
+  "method": "text",
+  "note": "UtahLakeEcosystemMonitoringToS_2023.md",
+  "source_id": "X-3ee5fee9",
+  "status": "done",
+  "timestamp": "2026-10-19T04:18:03+00:00"
+ },
  "3f92014bada5d708445b2a91ecfd8d54f2b6caea3aebbdf010f99b1a15b9c396": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -1341,6 +1438,16 @@
   "source_id": "X-4109c861",
   "status": "done",
   "timestamp": "2026-10-14T23:25:33+00:00"
+ },
+ "414ffa0e33c4496f4acd42c68eb0e6ff0d51e95ef9de31ec429076385a42ea45": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Evaluation of a Long-Term Predator Removal Program.pdf",
+  "method": "text",
+  "note": "EvaluationOfALongtermPredatorR_2016.md",
+  "source_id": "X-414ffa0e",
+  "status": "done",
+  "timestamp": "2026-10-19T03:52:21+00:00"
  },
  "415838acfafeecabba86652e42383aaadbe6d3153c15b923906f83739a371406": {
   "citation_source": "minckley-sheet",
@@ -1467,6 +1574,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:49:53+00:00"
  },
+ "4679b2ee613ca5472b93ee4af36e1c30b9978129ea1582283840ce8b80c00c2d": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "Olden et al. 2022 - Colorado River threat assesment.pdf",
+  "method": "text",
+  "note": "MultiscaleThreatAssessmentOfRi_2022.md",
+  "source_id": "X-4679b2ee",
+  "status": "done",
+  "timestamp": "2026-10-19T04:09:22+00:00"
+ },
  "46bacd53747d01bfc372d676e5dbf0fd055a7102b5dd7ec0107c511a11bc837f": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -1516,6 +1633,16 @@
   "source_id": "X-4926e53c",
   "status": "done",
   "timestamp": "2026-10-17T09:06:09+00:00"
+ },
+ "49b0cb00fd4f3bcca391fa6de492b7f9abb3cf9ecd1b37a955fde15a491b9837": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Pennock et al. 2020 - Razorback sucker movement in uper basin.pdf",
+  "method": "text",
+  "note": "MovementEcologyOfImperilledFis_2020_X-49b0cb00.md",
+  "source_id": "X-49b0cb00",
+  "status": "done",
+  "timestamp": "2026-10-19T04:11:50+00:00"
  },
  "4a67754927636cd5c5c4570f130b5429ba413bdafa75d323350f7a1bf0290330": {
   "citation_source": "minckley-sheet",
@@ -1610,6 +1737,16 @@
   "source_id": "X-4bffcb76",
   "status": "done",
   "timestamp": "2026-10-14T20:45:45+00:00"
+ },
+ "4c3dce1981c3eec399bef8948b21631c1092edaca58b2127c27c7ac1647fa67b": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Mechanical suppression of invasive Northern Pike in Box Canyon Reservoir.pdf",
+  "method": "text",
+  "note": "MechanicalSuppressionOfInvasiv_2024.md",
+  "source_id": "X-4c3dce19",
+  "status": "done",
+  "timestamp": "2026-10-19T03:57:56+00:00"
  },
  "4d0c69f6684367a679a6debef308d63f671e7f3f3130a3e0abc658c001a367b7": {
   "citation_source": "minckley-sheet",
@@ -1952,6 +2089,16 @@
   "status": "done",
   "timestamp": "2026-10-15T20:31:38+00:00"
  },
+ "5e0b9dc542bb668cbfd5c1b79bd9496ef4f2b34b88ccd6b2dcf2024a3ecbf795": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "NonNative Removal franssen2014.pdf",
+  "method": "text",
+  "note": "FishCommunityResponsesToMechan_2014.md",
+  "source_id": "X-5e0b9dc5",
+  "status": "done",
+  "timestamp": "2026-10-19T04:05:12+00:00"
+ },
  "5e0e41d1be5a8852c8b54eed50e1915b8de9b6cc8d9f5c6424be372828422cd2": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -2244,6 +2391,16 @@
   "status": "done",
   "timestamp": "2026-10-18T04:11:07+00:00"
  },
+ "6cf6a6153f14380ad51e44789c6ce69f8706f0823a61174216a24f202a9d80d1": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Zelasko. Evaluation of a Long-Term Predator Removal.pdf",
+  "method": "text",
+  "note": "EvaluationOfALongtermPredatorR_2016_X-6cf6a615.md",
+  "source_id": "X-6cf6a615",
+  "status": "done",
+  "timestamp": "2026-10-19T04:21:03+00:00"
+ },
  "6cfd248d4124e5241e80929f59106ad2b93278221ae6b69aa64a0bb82babc147": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -2253,6 +2410,16 @@
   "source_id": "X-6cfd248d",
   "status": "done",
   "timestamp": "2026-10-17T09:10:53+00:00"
+ },
+ "6df6d6bf1cb20d250456a2ada5212de89a5adfcfc1d33874e4ba5ea4f43ec568": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Pierce. Population Dynamics, Trophic Interactions, and Production of Northern.pdf",
+  "method": "text",
+  "note": "PopulationDynamicsTrophicInter_2003.md",
+  "source_id": "X-6df6d6bf",
+  "status": "done",
+  "timestamp": "2026-10-19T04:13:25+00:00"
  },
  "6e2a9035d3bf5252984abcabfbac7d2c2a2154cbeb4339a9cc767b220a4ac35c": {
   "citation_source": "minckley-sheet",
@@ -2528,6 +2695,16 @@
   "source_id": "X-7ef50d3c",
   "status": "done",
   "timestamp": "2026-10-17T09:26:26+00:00"
+ },
+ "7ef7f06aba8daa8b9ed0982d35ee87971f38d2336f43c92abe2779028378c865": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Pike on the Edge consistent individual moment patterns in transitional waters of the western baltic.pdf",
+  "method": "text",
+  "note": "PikeEsoxLuciusLOnTheEdgeConsis_2016.md",
+  "source_id": "X-7ef7f06a",
+  "status": "done",
+  "timestamp": "2026-10-19T04:14:40+00:00"
  },
  "7fa48505e8355fce1b2894cbafbdfbbd809ad95b3a6d1a4c3778d59819e43546": {
   "citation_source": "minckley-sheet",
@@ -2848,6 +3025,16 @@
   "status": "done",
   "timestamp": "2026-10-17T06:16:29+00:00"
  },
+ "8d4c1fd1eaae409f8e65ad07c55675cd667773ffb90ff04a2c4324829e26b023": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Movement Strategies pennock2020.pdf",
+  "method": "text",
+  "note": "RazorbackSuckerMovementStrateg_2020.md",
+  "source_id": "X-8d4c1fd1",
+  "status": "done",
+  "timestamp": "2026-10-19T04:02:36+00:00"
+ },
  "8d62234c95291d0a2b173ce08c4621e28e7e1e5c30f8a9d05949760aa92d7e20": {
   "citation_source": "crossref",
   "doc_type": "ecological_and_biological",
@@ -3023,6 +3210,16 @@
   "status": "done",
   "timestamp": "2026-10-17T05:29:00+00:00"
  },
+ "943e78bab4ab1c8400edd9199669b190f67ca595e00091e3e2f484bb193c2b78": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "A Conservation Plan for Native Fishes of the Lower Colorado River.pdf",
+  "method": "text",
+  "note": "AConservationPlanForNativeFish_2003.md",
+  "source_id": "X-943e78ba",
+  "status": "done",
+  "timestamp": "2026-10-19T03:19:56+00:00"
+ },
  "948a460f2a4dc8d9929aec668a1b2ba4bf9546bf66b36eac4d589d6f36a6a9c8": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -3138,6 +3335,16 @@
   "status": "done",
   "timestamp": "2026-10-16T18:50:23+00:00"
  },
+ "9a51b27303d5510a2a87d419a6e3394b044f949a0ccdfa227e3c002ec9d54f8f": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "weber-scan2007.pdf",
+  "method": "text",
+  "note": "EffectsOfTotalDissolvedSolidsO_2007.md",
+  "source_id": "X-9a51b273",
+  "status": "done",
+  "timestamp": "2026-10-19T04:19:23+00:00"
+ },
  "9b0a8240290d2586a293ba3f485230b2ff5bf0ee66aca460e257430f3e56c401": {
   "citation_source": "llm",
   "doc_type": "ecological_and_biological",
@@ -3166,6 +3373,13 @@
   "source_id": "X-9bcd2414",
   "status": "done",
   "timestamp": "2026-10-14T19:32:05+00:00"
+ },
+ "9be02d85c9c0a8d2b4594b2cc5b859b1a3265091a21e6eeb0ed690cc7b46c127": {
+  "file": "P26-FEIS_TA_08_Aquatic_508.pdf",
+  "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: '--- species: - Humpback Chub (Gila cypha) - Razorback Sucker (Xyrauchen texanus)'",
+  "source_id": "X-9be02d85",
+  "status": "failed",
+  "timestamp": "2026-10-19T03:08:55+00:00"
  },
  "9c29aefa52131badd913b567aebb128e897145d81ffbcaf786eeb3b715bf9a45": {
   "citation_source": "minckley-sheet",
@@ -3407,6 +3621,16 @@
   "source_id": "X-a52f8ee0",
   "status": "done",
   "timestamp": "2026-10-17T08:51:34+00:00"
+ },
+ "a58d2f17d993512152b0f01be4a12c21d8de54f355dd0e4e7c49cb07aa560046": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "Northern Pike Supression WDFW.pdf",
+  "method": "text",
+  "note": "SummaryOfNorthernPikeSuppressi_2022.md",
+  "source_id": "X-a58d2f17",
+  "status": "done",
+  "timestamp": "2026-10-19T04:07:42+00:00"
  },
  "a69f32595e1aeddff707d60e712bbe47b7766d9459a5850f92d8128fc99accb6": {
   "citation_source": "minckley-sheet",
@@ -3776,6 +4000,16 @@
   "status": "done",
   "timestamp": "2026-10-15T20:28:45+00:00"
  },
+ "babd8c9f4be51b9ba1e295bb4e91238e49b00e818b9b9d95634b4cc907d6e7d8": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "LCR MSCP 2021 - Imperial Ponds Conservation Area Annual Report 2018.pdf",
+  "method": "text",
+  "note": "ImperialPondsConservationAreaA_2020.md",
+  "source_id": "X-babd8c9f",
+  "status": "done",
+  "timestamp": "2026-10-19T03:01:07+00:00"
+ },
  "bb28354c9b7d95c9213d92d4eed79df23f72e210d397ce932976399a0d6a9a78": {
   "citation_source": "minckley-sheet",
   "file": "13865.pdf",
@@ -4015,6 +4249,26 @@
   "status": "done",
   "timestamp": "2026-10-16T19:19:41+00:00"
  },
+ "c65a936405371af49452bf59c1ca3cabf9564ceb6ad569ea2a213c936ed73269": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Chasing Northern Pike under Ice  Long‐Distance Movements Following.pdf",
+  "method": "text",
+  "note": "ChasingNorthernPikeUnderIceLon_2021.md",
+  "source_id": "X-c65a9364",
+  "status": "done",
+  "timestamp": "2026-10-19T03:49:35+00:00"
+ },
+ "c6fe12d8c5125b8623e9ea075d1f7d6959437a3408dfb7c2d5fa57eace836694": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "Northern Pike Control at Lake Davis, California.pdf",
+  "method": "mixed",
+  "note": "NorthernPikeControlAtLakeDavis_2001.md",
+  "source_id": "X-c6fe12d8",
+  "status": "done",
+  "timestamp": "2026-10-19T04:06:45+00:00"
+ },
  "c775b89efdb3364017f11a4880539fd33411046fee4af0826118df0270c52d42": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -4024,6 +4278,16 @@
   "source_id": "X-c775b89e",
   "status": "done",
   "timestamp": "2026-10-18T05:03:56+00:00"
+ },
+ "c7a60a6f23b1e58df742ca299405c51bb813dba766dd7144f7e0539edf030687": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "movement ecology of imperilled fish in a novel ecosystem.pdf",
+  "method": "text",
+  "note": "MovementEcologyOfImperilledFis_2020.md",
+  "source_id": "X-c7a60a6f",
+  "status": "done",
+  "timestamp": "2026-10-19T04:00:54+00:00"
  },
  "c82e5c4c04714b5a808e104d2c452902b27186f925ac46023398aabfd34d97c9": {
   "citation_source": "minckley-sheet",
@@ -4054,6 +4318,16 @@
   "source_id": "X-c8b84ec9",
   "status": "done",
   "timestamp": "2026-10-17T05:33:23+00:00"
+ },
+ "c8fc34ea87435c5bc390066374c730d237433e6d2265dce42d7d850eb32e2994": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "marsh2003.pdf",
+  "method": "text",
+  "note": "DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea.md",
+  "source_id": "X-c8fc34ea",
+  "status": "done",
+  "timestamp": "2026-10-19T03:56:04+00:00"
  },
  "c931ef3545b296f593ee02547f6fcbcda1e5d85fab668f2bf5c0f914d1abb6cd": {
   "citation_source": "minckley-sheet",
@@ -4192,6 +4466,16 @@
   "source_id": "X-cea5aa0d",
   "status": "done",
   "timestamp": "2026-10-16T17:24:32+00:00"
+ },
+ "cedd3353175bd7b34747f5016bff50746c3e6ed68b1c88ebd550dfd711b6d4cd": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "an obituary minckley.pdf",
+  "method": "mixed",
+  "note": "NativeFishesOfTheGrandCanyonRe_1991.md",
+  "source_id": "X-cedd3353",
+  "status": "done",
+  "timestamp": "2026-10-19T03:45:31+00:00"
  },
  "cef1c2ac9f55923cf091913d09e953d593648b67fea3ef4e32a24071cf41ef01": {
   "citation_source": "minckley-sheet",
@@ -4350,6 +4634,26 @@
   "source_id": "X-d38ae6c9",
   "status": "done",
   "timestamp": "2026-10-17T06:04:08+00:00"
+ },
+ "d3a15ffa6a44d8f4e5351b2c9b9f8c5891206c0dca409aebff262bf32351c01c": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "Lebreton and Pradel 2002 Multistate recapture models modelling incomplete ind histories.pdf",
+  "method": "text",
+  "note": "MultistateRecaptureModelsModel_2002.md",
+  "source_id": "X-d3a15ffa",
+  "status": "done",
+  "timestamp": "2026-10-19T03:53:53+00:00"
+ },
+ "d3a36269a4a2cbba7eb84956b53422a3f6e5b83be3c7b74006623c26abfa6a1a": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Maturation of an off-channel.pdf",
+  "method": "text",
+  "note": "MaturationOfAnOffchannelHabita_2024.md",
+  "source_id": "X-d3a36269",
+  "status": "done",
+  "timestamp": "2026-10-19T03:03:57+00:00"
  },
  "d41c8e73fb48756479ad3897a3bbc236104e56dac4eb11f79e584cf3297e5bfb": {
   "citation_source": "minckley-sheet",
@@ -4666,6 +4970,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:47:33+00:00"
  },
+ "e15b3990432e7a9dee6cf9534e55c6b6f7535fc8263f0cf1cee17c56b9f43959": {
+  "citation_source": "llm",
+  "doc_type": "sampling_design",
+  "file": "Pierce et al. - Chpt 11 Estimating Animal Abundance.pdf",
+  "method": "text",
+  "note": "EstimatingAnimalAbundance_X-e15b3990.md",
+  "source_id": "X-e15b3990",
+  "status": "done",
+  "timestamp": "2026-10-19T03:10:29+00:00"
+ },
  "e1642aecb3cbbe75c428ab0bee4840bebb2c7204b504d255f9f0c3f14e709a51": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -4759,6 +5073,26 @@
   "status": "done",
   "timestamp": "2026-10-14T20:30:51+00:00"
  },
+ "e52c17a2da0b010e6f7ad4de620b6b38d4c91fed789285c708726b46fd0c5cfe": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "Sanwnawakij et al 2026 - Two-way capture-recapture methods.pdf",
+  "method": "text",
+  "note": "TwowayCapturerecaptureMethodsW_2026.md",
+  "source_id": "X-e52c17a2",
+  "status": "done",
+  "timestamp": "2026-10-19T03:11:35+00:00"
+ },
+ "e5672ad6375d4f828fb6a55daf57e5f4ceef976f93688a9ad385045922cb7396": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Decline of the Razorback Sucker in Lake Mohave, Colorado River.pdf",
+  "method": "text",
+  "note": "DeclineOfTheRazorbackSuckerInL_2003.md",
+  "source_id": "X-e5672ad6",
+  "status": "done",
+  "timestamp": "2026-10-19T03:50:42+00:00"
+ },
  "e56ba224fdc995f283eee7fe3749a9892be12579389ab2d9cfc801c4b03e1635": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -4806,6 +5140,16 @@
   "source_id": "X-e715a864",
   "status": "done",
   "timestamp": "2026-10-17T06:12:53+00:00"
+ },
+ "e75d880283df21869dae90b5cb95512071cb2f5c580510f9a761faea089c73c7": {
+  "citation_source": "llm",
+  "doc_type": "sampling_design",
+  "file": "LCR MSCP Imperial Ponds Renovation Plan 2014.pdf",
+  "method": "mixed",
+  "note": "ImperialPondsRenovationPlan_2014.md",
+  "source_id": "X-e75d8802",
+  "status": "done",
+  "timestamp": "2026-10-19T03:02:17+00:00"
  },
  "e76bf77edf7fd354a0b285f936db2f49a6756bd5bba8b365db39e7db3f825265": {
   "citation_source": "minckley-sheet",
@@ -5276,6 +5620,16 @@
   "status": "done",
   "timestamp": "2026-10-16T17:36:26+00:00"
  },
+ "fa130a36a9df6cb1d7960e442b3f08950781811c8de3b5738c72cb77a5f51740": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "spawning and movements of the razorback sucker in green river.pdf",
+  "method": "text",
+  "note": "SpawningAndMovementsOfRazorbac_1990.md",
+  "source_id": "X-fa130a36",
+  "status": "done",
+  "timestamp": "2026-10-19T04:16:18+00:00"
+ },
  "fa64ffb337369b05548258d30275f2514206ecfd820ee58a55cb865660d23e5f": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -5296,11 +5650,14 @@
   "timestamp": "2026-10-14T20:13:51+00:00"
  },
  "fb1e0050d2cc35ab9388729822ee1ac5a9e2be6f34220ec0a5ea1947f96345da": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "20711.pdf",
-  "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: '--- species: - Scaphirhynchus platorynchus - Lepisosteus osseus - Anguilla rostr'",
+  "method": "ocr",
+  "note": "TheNativeFishFaunaOfMajorDrain_20711.md",
   "source_id": "X-fb1e0050",
-  "status": "failed",
-  "timestamp": "2026-10-16T19:19:24+00:00"
+  "status": "done",
+  "timestamp": "2026-10-19T03:14:42+00:00"
  },
  "fb2c6fd027f709444df7946b7f244be6d9efafe57a8345951e7095c09e408908": {
   "citation_source": "minckley-sheet",

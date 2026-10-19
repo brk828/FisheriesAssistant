@@ -29,6 +29,9 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a monotypic catostomid endemic to the [[Colorado River Basin]]. Adults in the [[Green River Basin]] averaged 507 mm TL for males (range 405–576 mm, n=141) and 547 mm TL for females (range 485–608 mm, n=45). Males...
+> -- *[[SpawningAndMovementsOfRazorbac_1990]]*
+
 ## Mentioned In
 - [[AnalysisOfPastCollectionsFromT_1993]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -42,3 +45,4 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
 - [[CapturesOfLarvalRazorbackSucke_18287]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[SpawningAndMovementsOfRazorbac_1990]]

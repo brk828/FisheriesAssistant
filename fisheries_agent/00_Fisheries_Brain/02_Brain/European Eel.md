@@ -23,6 +23,9 @@ The European Eel (Anguilla anguilla) is a catadromous fish species that undertak
 > This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
 > -- *[[Eel_14169]]*
 
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius* L.) in [[Stege Lagoon]], western [[Baltic Sea]], inhabit brackish waters at 8–10 ppt salinity, near the upper physiological tolerance limit for the species. Twenty-two adult pike were studied (14 females: mean TL 87.0 cm ± 9.7...
+> -- *[[PikeEsoxLuciusLOnTheEdgeConsis_2016]]*
+
 ## Mentioned In
 - [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
@@ -31,3 +34,4 @@ The European Eel (Anguilla anguilla) is a catadromous fish species that undertak
 - [[IrishSalmonDiseaseAnInterimRep_13819]]
 - [[TheEffectOfCalciumSulphateOnTh_16691]]
 - [[Eel_14169]]
+- [[PikeEsoxLuciusLOnTheEdgeConsis_2016]]

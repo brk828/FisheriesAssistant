@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Catch-and-Release
+
+## Summary
+Catch-and-release is a fishing practice where captured fish are returned to the water alive rather than harvested. Complete catch-and-release fishing in simulations increased northern pike standing stock to 31.9 kg/ha (versus 29.0 kg/ha with no regulation) but eliminated yield entirely.
+
+## Context
+
+> **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) in Camerton Lake (28.3 ha, maximum depth 3.0 m) formed a dense population with 59.0 fish/ha for age-2 and older fish. Population structure was dominated by young fish: most individuals were age-3 or younger, with less than 3%...
+> -- *[[PopulationDynamicsTrophicInter_2003]]*
+
+## Mentioned In
+- [[PopulationDynamicsTrophicInter_2003]]
