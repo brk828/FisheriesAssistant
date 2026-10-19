@@ -170,7 +170,8 @@ def run(llm=None, root: Path = None) -> Path:
     answers = {k: ask(q) for k, q in PROJECT_QUESTIONS}
     type_key = choose_type({"name": name, **answers})
     folder = icm_scaffold.folder_name(name)
-    folder = ask("Folder name", folder)
+    answer = ask("Folder name", folder)
+    folder = folder if answer.lower() in ("y", "yes", "n", "no") else answer
     if not folder.endswith(icm_scaffold.SUFFIX):
         folder += icm_scaffold.SUFFIX
     show_tree(type_key, folder)

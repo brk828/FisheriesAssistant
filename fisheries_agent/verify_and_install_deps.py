@@ -29,7 +29,8 @@ def check_python_dependencies():
         "pypdf": ("pypdf", "PyPDF background literature text extractor"),
         "pdf2image": ("pdf2image", "PDF page rasterizer for OCR (needs Poppler)"),
         "pytesseract": ("pytesseract", "OCR for scanned PDFs (needs Tesseract)"),
-        "python-dotenv": ("dotenv", "python-dotenv credential manager")
+        "python-dotenv": ("dotenv", "python-dotenv credential manager"),
+        "python-docx": ("docx", "Word (.docx) reader/writer for manuscripts")
     }
     
     for pip_handle, (import_name, purpose) in required_modules.items():

@@ -8,8 +8,8 @@ from pathlib import Path
 from openai import OpenAI, OpenAIError
 from dotenv import load_dotenv
 
-from utils import brain_index, gitsync, icm_data, icm_integration, icm_seed, pdf_ingest, project_memory
-from utils.runner import find_rscript, new_run_dir, run_command, run_r_template, truncate
+from utils import brain_index, docx_io, gitsync, icm_data, icm_integration, icm_seed, pdf_ingest, project_memory
+from utils.runner import find_rscript, new_run_dir, run_command, run_r_template, run_shell, truncate
 from utils.safety import (
     SafetyError, clamp_iterations, parse_zi_formula, project_roots, resolve_in_roots,
     validate_columns, validate_csv, validate_method, validate_prefix_columns,
@@ -70,7 +70,7 @@ def read_brain_source(source_id: str, query: str = ""):
     """Reads the most relevant passages of one vault source document."""
     return truncate(brain_index.read_source(source_id, query))
 
-READABLE_SUFFIXES = {".txt", ".md", ".csv", ".tsv", ".log", ".r", ".rmd", ".qmd", ".json", ".yaml", ".yml", ".out", ".html"}
+READABLE_SUFFIXES = {".docx", ".txt", ".md", ".csv", ".tsv", ".log", ".r", ".rmd", ".qmd", ".json", ".yaml", ".yml", ".out", ".html"}
 MAX_LISTED_FILES = 200
 
 def _project_root(project_name: str) -> Path:
@@ -107,13 +107,19 @@ def read_project_file(project_name: str, file_path: str):
     target = resolve_in_roots(str(root / file_path), [root])
     if not target.is_file() or target.name.startswith("."):
         return f"Error: '{file_path}' not found in project '{project_name}'."
-    if target.suffix.lower() not in READABLE_SUFFIXES:
+    if target.suffix.lower() == ".docx":
+        try:
+            text = docx_io.read_docx(target)
+        except Exception as e:
+            return f"Error: could not read Word file ({e})."
+    elif target.suffix.lower() not in READABLE_SUFFIXES:
         return f"Error: files of type '{target.suffix}' cannot be read as text."
-    text = target.read_text(encoding="utf-8", errors="replace")
+    else:
+        text = target.read_text(encoding="utf-8", errors="replace")
     project_memory.record_file(project_name, root, target.relative_to(root).as_posix(), text)
     return truncate(text)
 
-WRITABLE_SUFFIXES = {".r", ".rmd", ".qmd", ".md", ".txt", ".csv", ".yaml", ".yml", ".json"}
+WRITABLE_SUFFIXES = {".r", ".rmd", ".qmd", ".md", ".txt", ".csv", ".yaml", ".yml", ".json", ".docx"}
 MAX_WRITE_CHARS = 200_000
 
 def write_project_file(project_name: str, file_path: str, content: str, overwrite: bool = False):
@@ -130,8 +136,14 @@ def write_project_file(project_name: str, file_path: str, content: str, overwrit
     if target.exists() and not overwrite:
         return f"Error: '{rel.as_posix()}' already exists. Choose a new name, or call again with overwrite=true if the user wants it replaced."
     target.parent.mkdir(parents=True, exist_ok=True)
-    with open(target, "w", encoding="utf-8", newline="\n") as f:
-        f.write(content)
+    if target.suffix.lower() == ".docx":
+        try:
+            docx_io.write_docx(target, content)
+        except Exception as e:
+            return f"Error: could not write Word file ({e})."
+    else:
+        with open(target, "w", encoding="utf-8", newline="\n") as f:
+            f.write(content)
     project_memory.record_file(project_name, root, rel.as_posix(), content)
     return f"Wrote {rel.as_posix()} ({len(content)} characters) in project '{project_name}'."
 
@@ -292,6 +304,17 @@ def run_project_pipeline(project_name: str, script_name: str):
         if project_memory.classify(rel) == "results":
             project_memory.record_file(project_name, root, rel)
     return _result_text(ok, out, run_dir, output_name=None)
+
+def run_shell_command(project_name: str, command: str, subfolder: str = "", timeout_seconds: int = 300):
+    """Runs a shell command inside a registered project folder. The user approves every command first."""
+    root = _project_root(project_name)
+    cwd = resolve_in_roots(str(root / subfolder), [root])
+    if not cwd.is_dir():
+        return f"Error: '{subfolder}' is not a folder in project '{project_name}'."
+    if not command.strip():
+        return "Error: empty command."
+    ok, out = run_shell(command, cwd, max(1, min(int(timeout_seconds), 1800)))
+    return _result_text(ok, out, None)
 
 def run_zero_inflated_model(csv_path: str, response_var: str, predictor_vars: list, zero_inflation_formula: str = "~1"):
     """Fits a zero-inflated negative binomial model with glmmTMB."""
@@ -494,6 +517,23 @@ tools = [
     {
         "type": "function",
         "function": {
+            "name": "run_shell_command",
+            "description": "Runs a bash command inside a registered project folder, for tasks the other tools cannot do (installing a package, converting a file, listing or moving files, running git, running an R or Python script). The user sees the exact command and must approve it. Prefer the dedicated tools when they fit. One focused command per call; never use sudo or touch paths outside the project.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "project_name": {"type": "string"},
+                    "command": {"type": "string"},
+                    "subfolder": {"type": "string", "description": "Working folder relative to the project root."},
+                    "timeout_seconds": {"type": "integer"}
+                },
+                "required": ["project_name", "command"]
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
             "name": "run_multivariate_exploration",
             "description": "Generates PCA, MDS, or Heatmap plots using R vegan.",
             "parameters": {
@@ -519,6 +559,7 @@ available_functions = {
     "read_project_file": read_project_file,
     "write_project_file": write_project_file,
     "run_project_pipeline": run_project_pipeline,
+    "run_shell_command": run_shell_command,
     "run_zero_inflated_model": run_zero_inflated_model,
     "run_nimble_mark_recapture": run_nimble_mark_recapture,
     "run_multivariate_exploration": run_multivariate_exploration
@@ -543,7 +584,7 @@ def confirm_run(function_name: str, function_args: dict) -> bool:
     return answer in ("y", "yes")
 
 # Tools that can create or modify files inside a project folder.
-PROJECT_WRITING_TOOLS = {"run_project_pipeline", "write_project_file"}
+PROJECT_WRITING_TOOLS = {"run_project_pipeline", "write_project_file", "run_shell_command"}
 
 def _git_root_for_call(function_name: str, function_args: dict):
     if function_name not in PROJECT_WRITING_TOOLS:

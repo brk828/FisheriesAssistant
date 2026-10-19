@@ -64,6 +64,24 @@ def run_command(cmd: list, cwd=None, timeout: int = DEFAULT_TIMEOUT, log_dir=Non
     return ok, truncate(out)
 
 
+def run_shell(command: str, cwd, timeout: int = 300) -> tuple:
+    """Runs a user-approved command line through bash (or the platform shell). Returns (ok, redacted_and_truncated_output)."""
+    child_env = {k: v for k, v in os.environ.items() if not k.upper().startswith("OPENROUTER_")}
+    bash = shutil.which("bash")
+    try:
+        if bash:
+            result = subprocess.run([bash, "-c", command], cwd=cwd, capture_output=True, text=True, encoding="utf-8",
+                                    errors="replace", timeout=timeout, env=child_env, stdin=subprocess.DEVNULL)
+        else:
+            result = subprocess.run(command, shell=True, cwd=cwd, capture_output=True, text=True, encoding="utf-8",
+                                    errors="replace", timeout=timeout, env=child_env, stdin=subprocess.DEVNULL)
+        return result.returncode == 0, truncate((result.stdout or "") + (result.stderr or "") + f"\n[exit code {result.returncode}]")
+    except subprocess.TimeoutExpired:
+        return False, f"Timed out after {timeout} seconds."
+    except OSError as e:
+        return False, f"Could not start shell: {e}"
+
+
 def run_r_template(template: str, csv_path, extra_args: list, label: str) -> tuple:
     """Runs r_templates/<template> as: csv, run_dir, *extra_args. Returns (ok, text, run_dir); R writes output.txt/plot.png to run_dir."""
     rscript = find_rscript()
