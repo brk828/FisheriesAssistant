@@ -20,9 +20,13 @@ auto_enriched: true
 > This study documents temporal changes in a long-standing hybrid swarm between the endangered endemic [[Gambusia heterochir]] (Clear Creek Gambusia) and [[Gambusia affinis]] (Western Mosquitofish) in [[Clear Creek]], [[Menard County]], Texas, following reconstruction of the uppermost dam in 1979....
 > -- *[[TemporalChangesInTheGambusiaHe_15772]]*
 
+> This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
+> -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
+
 ## Mentioned In
 - [[AspectsOfTheLifeHistoryOfTheOz_15231]]
 - [[TheReproductiveBehaviorOfTheGr_14522]]
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[TemporalChangesInTheGambusiaHe_15772]]
+- [[NotesFromFieldWorkInTheCuatroc_12737]]

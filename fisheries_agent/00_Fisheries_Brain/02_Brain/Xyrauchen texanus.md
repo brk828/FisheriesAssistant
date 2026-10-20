@@ -59,6 +59,15 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
+> -- *[[SonoranDesertExpertsWorkshop_13543]]*
+
+> This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
+> -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
+
+> This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
+> -- *[[RainbowSmeltProposalReview_17848]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -113,3 +122,6 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
 - [[BeaverScoping_18972]]
+- [[SonoranDesertExpertsWorkshop_13543]]
+- [[DetailsForStudiesOfTheGenusGil_13739]]
+- [[RainbowSmeltProposalReview_17848]]

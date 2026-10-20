@@ -122,6 +122,30 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > This 1981 correspondence from the Desert Fishes Council Chairman alerts members to grave threats posed by the proposed MX Missile System to aquatic ecosystems throughout central and southern Nevada and west-central Utah. The $33 billion Department of Defense project would construct 200 racetrack...
 > -- *[[MxMissileSystemeffectsOnDesert_20506]]*
 
+> This document is a research proposal and methodological framework developed by Owen T. Gorman (U.S. Fish and Wildlife Service, Pinetop Fishery Assistance Office) for assessing microhabitat use by fishes in the [[Little Colorado River]] (LCR), with special emphasis on the endangered [[Humpback...
+> -- *[[FirstAndSecondDraftUsingHoopne_11067]]*
+
+> This draft appraisal report, dated June 14, 1994, evaluates methods to study and implement temperature controls at [[Glen Canyon Dam]] for the recovery of native and endangered fishes below the dam. Cold water discharges (8-10°C year-round) from the dam's deep hypolimnetic releases severely limit...
+> -- *[[GlenCanyonDamDischargeTemperat_11486]]*
+
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
+> This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
+> -- *[[IntraofficeMemoFishSurveys_13821]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -268,3 +292,11 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[TechnicalReviewDraftSpikedaceM_19407]]
 - [[MxMissileSystemeffectsOnDesert_20506]]
+- [[FirstAndSecondDraftUsingHoopne_11067]]
+- [[GlenCanyonDamDischargeTemperat_11486]]
+- [[DraftLittleColoradoRiverSpined_11662]]
+- [[BiologicalOpinionForTheBridgeC_11732]]
+- [[CurrentStatusOfEndangeredThrea_12695]]
+- [[IntraofficeMemoFishSurveys_13821]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]

@@ -59,6 +59,9 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 > **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
 > -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
 
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
 ## Mentioned In
 - [[ActingProgramDirector_1990_03_29]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -244,3 +247,4 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 - [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
 - [[ElectrofishingAndItsHarmfulEff_2003]]
+- [[FiscalYearProgramGuidance_11762]]

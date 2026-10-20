@@ -11,5 +11,9 @@ auto_enriched: true
 > **3. [[Cranberry Lake]]** - Highest total pickerel catch and highest number of "throwbacks" among all lakes - Release rate: 90.3% released in 1953 vs. 92.7% in 1952 (slight decrease) - Highest combined catch rate of all lakes: **3.6 fish/angler/day**
 > -- *[[SpringPickerelCensus_17801]]*
 
+> This 1954 report by Chief Aquatic Biologist John R. Greeley summarizes the rapidly-growing salmon fishery program in New York State lakes, involving two distinct species: [[Landlocked Salmon]] (Atlantic salmon, *Salmo salar*) and [[Red Salmon]] (Pacific sockeye, *Oncorhynchus nerka*). The program,...
+> -- *[[SalmonInNewYork_19216]]*
+
 ## Mentioned In
 - [[SpringPickerelCensus_17801]]
+- [[SalmonInNewYork_19216]]

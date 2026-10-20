@@ -158,6 +158,36 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > This document comprises meeting notes and correspondence from the [[Glen Canyon Environmental Studies]] (GCES) Technical Team meetings held March 20-21, 1989, in Las Vegas, Nevada. The meetings addressed the Fiscal Year 1989 technical study plan, organizational restructuring of study teams,...
 > -- *[[GlenCanyonEnvironmentalStudies_19678]]*
 
+> This draft appraisal report, dated June 14, 1994, evaluates methods to study and implement temperature controls at [[Glen Canyon Dam]] for the recovery of native and endangered fishes below the dam. Cold water discharges (8-10°C year-round) from the dam's deep hypolimnetic releases severely limit...
+> -- *[[GlenCanyonDamDischargeTemperat_11486]]*
+
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
+> This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
+> -- *[[LakePowellFisheriesInvestigati_14595]]*
+
+> This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
+> -- *[[RainbowSmeltProposalReview_17848]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This document is a draft research plan developed by Dr. Duncan Patten and core scientists for the [[Glen Canyon Environmental Studies]] (GCES) program, presented to the Executive Review Committee in February 1990. The plan proposes a comprehensive series of controlled discharge experiments from...
+> -- *[[GlenCanyonEnvironmentalStudies_19687]]*
+
+> This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
+> -- *[[GlenCanyonEnvironmentalStudies_19734]]*
+
+> This study documents the origin, distribution, and seasonal dynamics of oxygen-depleted waters in [[Lake Powell]], a large canyon-type reservoir on the [[Colorado Plateau]]. The reservoir exhibits two principal oxygen depletion problems affecting its fishery: (1) a shallow oxygen minimum layer...
+> -- *[[OxygenDepletedWatersOriginAndD_19797]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -269,3 +299,13 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[SummaryOfCollectingLocalitiesF_18502]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
 - [[GlenCanyonEnvironmentalStudies_19678]]
+- [[GlenCanyonDamDischargeTemperat_11486]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[DraftFiveyearRoadMap_11579]]
+- [[LakePowellFisheriesInvestigati_14595]]
+- [[RainbowSmeltProposalReview_17848]]
+- [[AssessmentOfTheNeedForForageEn_17853]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[GlenCanyonEnvironmentalStudies_19687]]
+- [[GlenCanyonEnvironmentalStudies_19734]]
+- [[OxygenDepletedWatersOriginAndD_19797]]

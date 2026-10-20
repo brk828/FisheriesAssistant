@@ -14,8 +14,12 @@ auto_enriched: true
 > This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
 > -- *[[SummaryStatementOfInsightsFrom_20854]]*
 
+> This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
+> -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
+
 ## Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[WesternRangeExtensionOfTheSurf_1968]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[SummaryStatementOfInsightsFrom_20854]]
+- [[NewSpeciesOfNorthAmericanDelto_21086]]

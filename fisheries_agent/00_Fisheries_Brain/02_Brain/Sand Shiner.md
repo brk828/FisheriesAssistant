@@ -32,6 +32,9 @@ The Sand Shiner is a nonnative cyprinid fish species that has become established
 > This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
 > -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
 
+> This combined project report documents six interrelated studies examining the effects of [[Aspinall Unit]] reservoir operations on endangered fish populations in the [[Gunnison River]] and [[Colorado River]] systems during FY 1993. The studies focused on three federally endangered species:...
+> -- *[[AFiveYearStudyToInvestigateThe_11212]]*
+
 ## Mentioned In
 - [[AdditionalStudiesToFacilitateE_1993]]
 - [[ChangesInTheFishPopulationInTh_12453]]
@@ -47,3 +50,4 @@ The Sand Shiner is a nonnative cyprinid fish species that has become established
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[ColoradoRiverEndangeredFishRec_15072]]
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[AFiveYearStudyToInvestigateThe_11212]]

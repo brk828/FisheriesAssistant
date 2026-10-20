@@ -23,9 +23,13 @@ auto_enriched: true
 > This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
 > -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
 
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
 ## Mentioned In
 - [[ProgressReportLowerColoradoRiv_14984]]
 - [[ReviewOfCommissionOrderForCrus_1994_07_27]]
 - [[TransmittalRegardingReasonable_19809]]
 - [[ABasicSurveyOfWatersInDistrict_14982]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[DraftLowerColoradoRiverOperati_13907]]

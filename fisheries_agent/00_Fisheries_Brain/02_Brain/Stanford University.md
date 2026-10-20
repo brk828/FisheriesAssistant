@@ -14,9 +14,13 @@ auto_enriched: true
 > This taxonomic revision demonstrates that *[[Salmo evermanni]]*, described by Jordan and Grinnell in 1908 from the upper [[Santa Ana River]] in the [[San Bernardino Mountains]], is a junior synonym of *[[Salmo clarkii henshawi]]* (Lahontan cutthroat trout) from [[Lake Tahoe]]. The authors...
 > -- *[[SalmoEvermanniASynonymOfSalmoC_18176]]*
 
+> This 1951 publication by Béhlke and Hubbs describes [[Dysommina rugosa]], a deep-sea eel from the [[North Atlantic]] that represents a new family, [[Dysomminidae]]. Two specimens were collected by the U.S. Fish Commission Steamer "Albatross" in 1886 from 352 fathoms depth in the [[Gulf Stream]] off...
+> -- *[[DysomminaRugosaAnApodalFishFro_17713]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[SalmoRoseiNotAValidSpecies_12861]]
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
 - [[NationalParksAndConservationAs_15435]]
 - [[SalmoEvermanniASynonymOfSalmoC_18176]]
+- [[DysomminaRugosaAnApodalFishFro_17713]]

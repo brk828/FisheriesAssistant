@@ -26,6 +26,9 @@ Laguna Salada is a hypersaline lake in the Cuatro Ciénegas Basin of Coahuila, M
 > This genetic survey assessed mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations (226 specimens) and one captive stock at [[Dexter National Fish Hatchery]] (33 specimens). Using PCR-SSCP analysis of the mitochondrial ND2 gene and D-loop sequencing, the study...
 > -- *[[GeneticVariationInDesertPupfis_15731]]*
 
+> This trip report documents a November 10-12, 1990 field survey of known [[Desert Pupfish]] (*Cyprinodon macularius macularius*) populations in the [[Colorado River Delta]] region of Sonora and Baja California, Mexico. Conducted by Sally Stefferud (U.S. Fish and Wildlife Service) and Jerry Stefferud...
+> -- *[[TripReportSamplingOfMexicanPop_14780]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[AnomalousThermalConditionsInAH_17103]]
@@ -34,3 +37,4 @@ Laguna Salada is a hypersaline lake in the Cuatro Ciénegas Basin of Coahuila, M
 - [[PreliminaryLimnologicInformati_1968_12_31]]
 - [[LowerColoradoRiverBasinManagem_18432]]
 - [[GeneticVariationInDesertPupfis_15731]]
+- [[TripReportSamplingOfMexicanPop_14780]]

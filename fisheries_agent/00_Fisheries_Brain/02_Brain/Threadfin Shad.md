@@ -110,6 +110,30 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 > This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
 > -- *[[LakeMohaveSamplingMarch_20326]]*
 
+> This draft appraisal report, dated June 14, 1994, evaluates methods to study and implement temperature controls at [[Glen Canyon Dam]] for the recovery of native and endangered fishes below the dam. Cold water discharges (8-10°C year-round) from the dam's deep hypolimnetic releases severely limit...
+> -- *[[GlenCanyonDamDischargeTemperat_11486]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
+> -- *[[ChronologyOfYumaCoveActivities_15028]]*
+
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This master's thesis by C. O. Minckley (University of Nevada, Las Vegas, August 1972) presents a comprehensive age and growth study of [[Largemouth Bass]] populations in [[Lake Mead]], Nevada-Arizona. The research analyzed 876 fish collected from three locations (Las Vegas Bay, Temple Bar, and...
+> -- *[[AgeAndGrowthObservationsOnTheL_18498]]*
+
+> This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
+> -- *[[CommercialFisheriesPotentialOf_18584]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -208,3 +232,11 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 - [[IntroductionOfRainbowSmeltInto_17850]]
 - [[VerticalDistributionOfFishesRe_18202]]
 - [[LakeMohaveSamplingMarch_20326]]
+- [[GlenCanyonDamDischargeTemperat_11486]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[ChronologyOfYumaCoveActivities_15028]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[AssessmentOfTheNeedForForageEn_17853]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[AgeAndGrowthObservationsOnTheL_18498]]
+- [[CommercialFisheriesPotentialOf_18584]]

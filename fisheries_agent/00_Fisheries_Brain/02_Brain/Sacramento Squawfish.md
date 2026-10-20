@@ -29,6 +29,9 @@ The Sacramento Squawfish (*Ptychocheilus grandis*) is a large native cyprinid en
 > This note documents seven historical records of fish emergence from deep wells and artesian sources in [[California]], spanning 1870-1953. The author examines whether these fish truly originated from subterranean waters or were inadvertently introduced during drilling operations. Geological...
 > -- *[[TheReportedEmergenceOfFishesFr_16686]]*
 
+> The [[Sacramento Squawfish]] (*Ptychocheilus grandis*) is a large native minnow endemic to California's [[Sacramento-San Joaquin River System]] and select coastal drainages. Historically the top fish predator in its ecosystem, it now coexists with introduced predatory species including [[Smallmouth...
+> -- *[[TheSacramentoSquawfish_13255]]*
+
 ## Mentioned In
 - [[ChemicalTreatmentOfTheMercedRi_13362]]
 - [[DeclineOfTheNativeFishFaunaOfT_1974]]
@@ -37,3 +40,4 @@ The Sacramento Squawfish (*Ptychocheilus grandis*) is a large native cyprinid en
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
 - [[AConservationorientedClassific_15455]]
 - [[TheReportedEmergenceOfFishesFr_16686]]
+- [[TheSacramentoSquawfish_13255]]

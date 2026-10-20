@@ -113,6 +113,21 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This memorandum from the [[Upper Colorado River Basin]] Recovery Implementation Program documents the rescheduling of a genetics meeting focused on [[Razorback Sucker]] (*Xyrauchen texanus*) conservation. The meeting, originally planned for August 1994, was rescheduled to accommodate field...
 > -- *[[ReschedulingOfRazorbackSuckerG_20862]]*
 
+> This document is a draft Long Range Plan (dated October 3, 1991) for the Recovery Implementation Program targeting four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail Chub]], and [[Razorback Sucker]]. The plan outlines a...
+> -- *[[ExtensionOfReviewPeriodForTheL_11397]]*
+
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
+> This document presents the Fiscal Year 1998 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program's established annual budget for FY 98 is $3.18 million (a 3.0% increase over FY 97), with total funding including...
+> -- *[[FiscalYearWorkPlan_11743]]*
+
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
+> This document consists of correspondence from the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] announcing the annual meeting for February 14-15, 1989, in [[Grand Junction, Colorado]]. The primary focus is planning discussion of the [[Biotechnical Group]]'s research...
+> -- *[[ColoradoRiverFishesMeetingFebr_15252]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -193,3 +208,8 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[RazorbackSuckerXyrauchenTexanu_18008]]
 - [[ReschedulingOfRazorbackSuckerG_20862]]
+- [[ExtensionOfReviewPeriodForTheL_11397]]
+- [[DraftFiveyearRoadMap_11579]]
+- [[FiscalYearWorkPlan_11743]]
+- [[FiscalYearProgramGuidance_11762]]
+- [[ColoradoRiverFishesMeetingFebr_15252]]

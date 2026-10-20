@@ -47,6 +47,9 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic "big-river" fish of the [[Colorado River Basin]]. The Lake Mohave population consists primarily of fish produced in the early 1950s when young were abundant; most remaining adults are estimated to exceed...
 > -- *[[DeclineOfTheRazorbackSuckerInL_2003]]*
 
+> This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
+> -- *[[RazorbackSuckerMonitoringInLak_17016]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[FishAndWildlifeServiceReviewOf_1990_09_11]]
@@ -80,3 +83,4 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 - [[CommentsOnTheBiologicalOpinion_17166]]
 - [[MovementsOfAdultRazorbackSucke_12585]]
 - [[DeclineOfTheRazorbackSuckerInL_2003]]
+- [[RazorbackSuckerMonitoringInLak_17016]]

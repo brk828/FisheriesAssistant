@@ -17,8 +17,12 @@ The Sierra Madre Oriental is a major mountain range in northeastern Mexico that 
 > This Ph.D. dissertation proposal by Anna Melina Ludlow at [[Lehigh University]] outlines a comprehensive study of sexual selection, mate choice, and hybridization in two endemic pupfish species from the [[Cuatro Cienegas]] basin in northern Mexico: [[Cyprinodon atrorus]] and [[Cyprinodon...
 > -- *[[SexualSelectionInTheCuatroCien_20108]]*
 
+> This taxonomic revision establishes **Xilitloniscus** as a new genus for the Mexican cave isopod previously described as *Cordioniscus laevis* by [[Enrique Rioja]] in 1956. Based on examination of male pleopod morphology unavailable to Rioja, [[Thomas Bowman]] demonstrates that this species belongs...
+> -- *[[XilitloniscusANewGenusForTheMe_17752]]*
+
 ## Mentioned In
 - [[BiotaOfCuatroCienegasCoahuilaM_17006]]
 - [[EstudioPreliminarDeLaEntomofau_20119]]
 - [[SomeEcologicalFeaturesOfTheCua_1998_06_15]]
 - [[SexualSelectionInTheCuatroCien_20108]]
+- [[XilitloniscusANewGenusForTheMe_17752]]

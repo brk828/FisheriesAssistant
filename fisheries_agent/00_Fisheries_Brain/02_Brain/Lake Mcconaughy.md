@@ -11,7 +11,11 @@ auto_enriched: true
 > This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
 > -- *[[InlandCommercialFisheriesWorks_15658]]*
 
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
 ## Mentioned In
 - [[TheIntroductionOfWhiteBassRocc_1966]]
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[InlandCommercialFisheriesWorks_15658]]
+- [[AssessmentOfTheNeedForForageEn_17853]]

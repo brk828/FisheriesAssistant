@@ -38,6 +38,9 @@ Crayfish are freshwater decapod crustaceans that serve as important components o
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) in Camerton Lake (28.3 ha, maximum depth 3.0 m) formed a dense population with 59.0 fish/ha for age-2 and older fish. Population structure was dominated by young fish: most individuals were age-3 or younger, with less than 3%...
 > -- *[[PopulationDynamicsTrophicInter_2003]]*
 
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
 ## Mentioned In
 - [[A New Material for Marking Kordite Line and Various Animals]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -56,3 +59,4 @@ Crayfish are freshwater decapod crustaceans that serve as important components o
 - [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
 - [[AquacultureInFreshWatersAListO_15987]]
 - [[PopulationDynamicsTrophicInter_2003]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]

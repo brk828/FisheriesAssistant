@@ -35,6 +35,12 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 > This multi-job completion report documents experimental pond management studies conducted by the West Virginia Conservation Commission during 1955-1956 (Project F-3-R-4). The investigation focused on establishing experimental ponds, conducting creel censuses, sampling fish populations, and testing...
 > -- *[[EstablishmentOfNewOrReclaimedP_12166]]*
 
+> This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
+> -- *[[ChronologyOfYumaCoveActivities_15028]]*
+
+> This educational article from the New York State Conservationist examines the ecological importance of algae in freshwater systems, their role in aquatic food chains, and management considerations for controlling excessive algal growth. The document addresses common concerns about algae control...
+> -- *[[Algae_19232]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[CatalogingOfSmallImpoundmentOf_12167]]
@@ -48,3 +54,5 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
 - [[ABasicSurveyOfWatersInDistrict_14982]]
 - [[EstablishmentOfNewOrReclaimedP_12166]]
+- [[ChronologyOfYumaCoveActivities_15028]]
+- [[Algae_19232]]

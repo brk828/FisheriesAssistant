@@ -38,6 +38,9 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 > This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
 > -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
 
+> This document is a draft research plan developed by Dr. Duncan Patten and core scientists for the [[Glen Canyon Environmental Studies]] (GCES) program, presented to the Executive Review Committee in February 1990. The plan proposes a comprehensive series of controlled discharge experiments from...
+> -- *[[GlenCanyonEnvironmentalStudies_19687]]*
+
 ## Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -54,3 +57,4 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 - [[CharacterizationOfTheLifeHisto_13649]]
 - [[HabitatUseByHumpbackChubGilaCy_11090]]
 - [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[GlenCanyonEnvironmentalStudies_19687]]

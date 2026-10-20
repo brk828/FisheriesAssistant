@@ -32,6 +32,12 @@ Pit tags, or Passive Integrated Transponder tags, are small electronic microchip
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a federally endangered catostomid endemic to the [[Colorado River Basin]]. The species is a large-bodied, periodic strategist that historically occupied diverse and connected river systems including access to a...
 > -- *[[RazorbackSuckerMovementStrateg_2020]]*
 
+> This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
+> -- *[[RazorbackSuckerMonitoringInLak_17016]]*
+
+> This correspondence from Arizona State University researchers Michael E. Douglas and Paul C. Marsh reports data collected on [[Gila cypha]] (humpback chub) populations in the [[Little Colorado River]] during July-August 1991. The study was conducted as part of the [[Glen Canyon Environmental...
+> -- *[[DataCompilationGilaCyphaAsunnh_19090]]*
+
 ## Mentioned In
 - [[DatabaseManagementProgramColor_1993]]
 - [[GlenCanyonEnvironmentalStudies_1992_09_13]]
@@ -42,3 +48,5 @@ Pit tags, or Passive Integrated Transponder tags, are small electronic microchip
 - [[GeneticMonitoringOfRepatriated_17010]]
 - [[AStudyToDetermineTheBiological_11576]]
 - [[RazorbackSuckerMovementStrateg_2020]]
+- [[RazorbackSuckerMonitoringInLak_17016]]
+- [[DataCompilationGilaCyphaAsunnh_19090]]

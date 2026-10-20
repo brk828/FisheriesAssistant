@@ -158,6 +158,30 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
 > -- *[[LakeMohaveSamplingMarch_20326]]*
 
+> This draft appraisal report, dated June 14, 1994, evaluates methods to study and implement temperature controls at [[Glen Canyon Dam]] for the recovery of native and endangered fishes below the dam. Cold water discharges (8-10°C year-round) from the dam's deep hypolimnetic releases severely limit...
+> -- *[[GlenCanyonDamDischargeTemperat_11486]]*
+
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
+> This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
+> -- *[[LakePowellFisheriesInvestigati_14595]]*
+
+> This trip report documents a November 10-12, 1990 field survey of known [[Desert Pupfish]] (*Cyprinodon macularius macularius*) populations in the [[Colorado River Delta]] region of Sonora and Baja California, Mexico. Conducted by Sally Stefferud (U.S. Fish and Wildlife Service) and Jerry Stefferud...
+> -- *[[TripReportSamplingOfMexicanPop_14780]]*
+
+> This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
+> -- *[[ChronologyOfYumaCoveActivities_15028]]*
+
+> This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
+> -- *[[GilasanFranciscoRiversResource_18256]]*
+
+> This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
+> -- *[[CommercialFisheriesPotentialOf_18584]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -254,3 +278,11 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[VerticalDistributionOfFishesRe_18202]]
 - [[SamplingAtAsuKarstenGolfCourse_19435]]
 - [[LakeMohaveSamplingMarch_20326]]
+- [[GlenCanyonDamDischargeTemperat_11486]]
+- [[BiologicalOpinionForTheBridgeC_11732]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]
+- [[LakePowellFisheriesInvestigati_14595]]
+- [[TripReportSamplingOfMexicanPop_14780]]
+- [[ChronologyOfYumaCoveActivities_15028]]
+- [[GilasanFranciscoRiversResource_18256]]
+- [[CommercialFisheriesPotentialOf_18584]]

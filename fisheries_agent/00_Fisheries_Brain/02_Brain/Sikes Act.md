@@ -20,9 +20,13 @@ The Sikes Act is a foundational federal statute that grants the U.S. Fish and Wi
 > This Bureau of Land Management (BLM) Manual Section 6840, dated September 16, 1988, establishes comprehensive policy and guidance for the conservation of Special Status Species (plants and animals) and their habitats on BLM-administered lands. Special Status Species include those proposed for...
 > -- *[[SpecialStatusSpeciesManagement_11467]]*
 
+> This Bureau of Land Management (BLM) Manual Section 6780 establishes comprehensive policy, procedures, and guidelines for the preparation and implementation of Habitat Management Plans (HMPs) on public lands. Released December 23, 1981 (Rel. 6-85), it provides the administrative framework for...
+> -- *[[BureauOfLandManagementManualHa_11459]]*
+
 ## Mentioned In
 - [[RoleAndResponsibilitiesForRecr_1996_08_07]]
 - [[StationProfileLeadvilleNationa_1993_12_16]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[DraftmanagementPlanForTheRazor_11427]]
 - [[SpecialStatusSpeciesManagement_11467]]
+- [[BureauOfLandManagementManualHa_11459]]

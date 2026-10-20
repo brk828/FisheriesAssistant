@@ -29,6 +29,9 @@ Carcharhinidae is a family of sharks commonly known as requiem sharks, character
 > This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
 > -- *[[AClassificationOfTheFishesOfTh_14438]]*
 
+> This zooarchaeological report by W. I. Follett analyzes 459 fish remains recovered from the [[Arroyo Sequit]] Shellmound (LAn-52) in extreme western [[Los Angeles County]], [[California]]. The site, located on a bluff rising to nearly 75 feet elevation, was occupied between approximately 1000 B.C....
+> -- *[[FishRemainsFromArroyoSequitShe_18754]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
@@ -36,3 +39,4 @@ Carcharhinidae is a family of sharks commonly known as requiem sharks, character
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[AClassificationOfTheFishesOfTh_14438]]
+- [[FishRemainsFromArroyoSequitShe_18754]]

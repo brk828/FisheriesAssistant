@@ -41,6 +41,9 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 > This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
 > -- *[[TheDesirabilityOfIntroducingWh_16080]]*
 
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
 ## Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -57,3 +60,4 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 - [[TheMaineSmallmouth_14928]]
 - [[TheIncidenceAndDistributionOfT_15429]]
 - [[TheDesirabilityOfIntroducingWh_16080]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]

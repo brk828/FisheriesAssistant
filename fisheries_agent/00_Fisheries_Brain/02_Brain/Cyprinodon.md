@@ -44,6 +44,9 @@ Cyprinodon is a genus of small, euryhaline cyprinodont fishes (pupfishes) widely
 > This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
 > -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
 
+> This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
+> -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
+
 ## Mentioned In
 - [[AReDescriptionOfAphaniusGinaon_1980]]
 - [[Allozymic variation in desert pupfish from natural and artificial habitats genetic conservation in fluctuating populatio]]
@@ -85,3 +88,4 @@ Cyprinodon is a genus of small, euryhaline cyprinodont fishes (pupfishes) widely
 - [[FishesAndAquaticResourcesDeath_15415]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[NotesFromFieldWorkInTheCuatroc_12737]]

@@ -14,6 +14,10 @@ auto_enriched: true
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
+> -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
+
 ## Mentioned In
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
 - [[WhatHaveICaught_12929]]
+- [[TheUseOfChannelCatfishAsSportF_18662]]

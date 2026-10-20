@@ -14,5 +14,9 @@ auto_enriched: true
 > - **Habitat**: Both basins consist of low-to-medium elevation streams and rivers draining into the Gulf of California, sampled during a dry-to-transitional season window (Nov 1988–Mar 1989). - **Native community structure**: - [[Rio Mayo Basin]]: Native species comprised 65% of relative abundance...
 > -- *[[FishesOfTheRiosMayoAndFuerteBa_1989_11_16]]*
 
+> This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
+> -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
+
 ## Mentioned In
 - [[FishesOfTheRiosMayoAndFuerteBa_1989_11_16]]
+- [[AnEcologicalOverviewOfPoecilii_20086]]

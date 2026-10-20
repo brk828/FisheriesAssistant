@@ -71,6 +71,12 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
 
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -148,3 +154,5 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[EndangeredAndThreatenedWildlif_11556]]
 - [[BeaverScoping_18972]]
 - [[SamplingAtAsuKarstenGolfCourse_19435]]
+- [[BiologicalOpinionForTheBridgeC_11732]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]

@@ -20,6 +20,9 @@ San Bernardino Ranch refers to a specific riparian property and aquatic ecosyste
 > This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
 > -- *[[FisheryManagementForTheSanBern_18979]]*
 
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
 ## Mentioned In
 - [[LetterInvitingDrMinckleyToVisi_1987_09_03]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
@@ -29,3 +32,4 @@ San Bernardino Ranch refers to a specific riparian property and aquatic ecosyste
 - [[OutlineOfSanBernardinoRanchMan_20829]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[FisheryManagementForTheSanBern_18979]]
+- [[CurrentStatusOfEndangeredThrea_12695]]

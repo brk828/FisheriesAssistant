@@ -98,6 +98,12 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 > This document comprises meeting notes and correspondence from the [[Glen Canyon Environmental Studies]] (GCES) Technical Team meetings held March 20-21, 1989, in Las Vegas, Nevada. The meetings addressed the Fiscal Year 1989 technical study plan, organizational restructuring of study teams,...
 > -- *[[GlenCanyonEnvironmentalStudies_19678]]*
 
+> This correspondence from Arizona State University researchers Michael E. Douglas and Paul C. Marsh reports data collected on [[Gila cypha]] (humpback chub) populations in the [[Little Colorado River]] during July-August 1991. The study was conducted as part of the [[Glen Canyon Environmental...
+> -- *[[DataCompilationGilaCyphaAsunnh_19090]]*
+
+> This document is a draft research plan developed by Dr. Duncan Patten and core scientists for the [[Glen Canyon Environmental Studies]] (GCES) program, presented to the Executive Review Committee in February 1990. The plan proposes a comprehensive series of controlled discharge experiments from...
+> -- *[[GlenCanyonEnvironmentalStudies_19687]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -178,3 +184,5 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 - [[AgendaAndOtherInformationForUp_13959]]
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[GlenCanyonEnvironmentalStudies_19678]]
+- [[DataCompilationGilaCyphaAsunnh_19090]]
+- [[GlenCanyonEnvironmentalStudies_19687]]

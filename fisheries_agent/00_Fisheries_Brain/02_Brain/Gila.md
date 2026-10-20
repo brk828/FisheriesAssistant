@@ -80,6 +80,12 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 > This document is a research proposal prospectus submitted by Dr. W.L. Minckley and Dr. M.E. Douglas of [[Arizona State University]] Department of Zoology to the [[U.S. Fish and Wildlife Service]] for consideration at the Colorado River Coordinating Committee session on 10 December 1987. The...
 > -- *[[ProspectusSystematicAnalysesOf_19078]]*
 
+> This document consists of correspondence from the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] announcing the annual meeting for February 14-15, 1989, in [[Grand Junction, Colorado]]. The primary focus is planning discussion of the [[Biotechnical Group]]'s research...
+> -- *[[ColoradoRiverFishesMeetingFebr_15252]]*
+
+> This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
+> -- *[[RainbowSmeltProposalReview_17848]]*
+
 ## Mentioned In
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
 - [[ColoradoRiverFishesRecoveryPro_1993_12_10]]
@@ -123,3 +129,5 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 - [[FishesAndAquaticResourcesDeath_15415]]
 - [[LetterToWayneStarnesAuthorizat_11924]]
 - [[ProspectusSystematicAnalysesOf_19078]]
+- [[ColoradoRiverFishesMeetingFebr_15252]]
+- [[RainbowSmeltProposalReview_17848]]

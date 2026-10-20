@@ -23,6 +23,9 @@ The Colorado River Storage Project (CRSP) is a major federal water development i
 > This report documents the second year (February 1, 1965 - January 31, 1966) of cooperative fisheries investigation at [[Lake Powell]] ([[Glen Canyon Reservoir]]) conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. The study combined systematic creel census...
 > -- *[[GlenCanyonUnitcoloradoRiverSto_14583]]*
 
+> This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
+> -- *[[LakePowellFisheriesInvestigati_14595]]*
+
 ## Mentioned In
 - [[EstablishingAColoradoRiverCons_20111]]
 - [[StationProfileHotchkissNationa_19549]]
@@ -30,3 +33,4 @@ The Colorado River Storage Project (CRSP) is a major federal water development i
 - [[DraftMeetingNotesGlenCanyonEnv_19677]]
 - [[AgencyRecalcitranceAndEvasionR_20349]]
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
+- [[LakePowellFisheriesInvestigati_14595]]

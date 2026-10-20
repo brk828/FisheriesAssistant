@@ -14,8 +14,16 @@ The Winkler Method is a classical chemical titration technique used to measure d
 > **Related concepts**: [[Rotenone Sampling Method]] · [[Standing Crop Estimation]] · [[TVA Reservoir Management]] · [[Gizzard Shad]] · [[Mississippi Threadfin Shad]] · [[Electrofishing]] · [[Winkler Method]] · [[Mark-Recapture Methods]]
 > -- *[[HowShouldPopulationSurveysBeMa_16090]]*
 
+> This experimental study determined mean lethal oxygen concentrations for the [[Northern Common Shiner]] (*Notropis cornutus frontalis*) across a temperature range of 55° to 80° F. Mean lethal oxygen levels ranged from 0.54 to 1.23 p.p.m., with values increasing linearly with temperature when...
+> -- *[[LethalOxygenConcentrationsForT_17548]]*
+
+> This study documents the origin, distribution, and seasonal dynamics of oxygen-depleted waters in [[Lake Powell]], a large canyon-type reservoir on the [[Colorado Plateau]]. The reservoir exhibits two principal oxygen depletion problems affecting its fishery: (1) a shallow oxygen minimum layer...
+> -- *[[OxygenDepletedWatersOriginAndD_19797]]*
+
 ## Mentioned In
 - [[HowShouldPopulationSurveysBeMa_16090]]
 - [[SeasonalChangesInTheStandardRa_1964]]
 - [[TheSolubilityOfOxygenInPureWat_1955]]
 - [[TheUseOfFertilizersInNewHampsh_1950]]
+- [[LethalOxygenConcentrationsForT_17548]]
+- [[OxygenDepletedWatersOriginAndD_19797]]

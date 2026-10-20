@@ -41,6 +41,12 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 > This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
 > -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
 
+> This document presents the Fiscal Year 1998 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program's established annual budget for FY 98 is $3.18 million (a 3.0% increase over FY 97), with total funding including...
+> -- *[[FiscalYearWorkPlan_11743]]*
+
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
 ## Mentioned In
 - [[AnalysisOfPastCollectionsFromT_1993]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -58,3 +64,5 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 - [[DraftRecoveryImplementationPro_11643]]
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[FiscalYearWorkPlan_11743]]
+- [[FiscalYearProgramGuidance_11762]]

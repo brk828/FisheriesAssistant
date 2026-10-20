@@ -65,6 +65,15 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
 > -- *[[CreelCensusReport_11332]]*
 
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
+> This study assessed the risk of [[Striped Bass]] (Morone saxatilis) transfer from [[Devils Lake]] to Canadian waters via a proposed outlet to the [[Sheyenne River]]. Approximately 13,000 striped bass fingerlings were stocked into Devils Lake in 1977 to provide a trophy fishery. The investigation...
+> -- *[[AnalysisOfLongTermSurvivalNatu_14818]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -104,3 +113,6 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[ComplexEffectsOfPredatorsDeter_2001]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
 - [[CreelCensusReport_11332]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]
+- [[AnalysisOfLongTermSurvivalNatu_14818]]

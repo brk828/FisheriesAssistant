@@ -14,8 +14,12 @@ auto_enriched: true
 > This memorandum and Federal Register notice document the extension of the public comment period for the proposed critical habitat designation for four endangered fish species in the [[Colorado River Basin]]: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[ExtensionOfPublicCommentPeriod_17380]]*
 
+> This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
+> -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[MemorandumOfUnderstandingOnEnd_11447]]
 - [[InterimProceduresForStockingNo_15423]]
 - [[ExtensionOfPublicCommentPeriod_17380]]
+- [[NewSpeciesOfNorthAmericanDelto_21086]]

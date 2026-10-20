@@ -11,6 +11,10 @@ auto_enriched: true
 > This study examines putative F₁ hybrids between [[Catostomus insignis]] (Sonoran sucker) and [[Pantosteus clarki]] (desert sucker) from [[Aravaipa Creek]] and [[Bonita Creek]] in southeastern Arizona. Morphological analyses using hybrid index (HI), discriminant function analysis (DFA), and...
 > -- *[[MorphologyAndFoodsOfHybridCata_15933]]*
 
+> This Master's thesis examines F₁ hybrids between [[Catostomus insignis]] (Sonora sucker) and [[Pantosteus clarki]] (desert mountain-sucker) from [[Aravaipa Creek]] and [[Bonita Creek]], Arizona. The study tests hypotheses of morphological and behavioral intermediacy in natural fish hybrids using...
+> -- *[[MorphologyAndFeedingBehaviorOf_15922]]*
+
 ## Mentioned In
 - [[EcologicalNotesOnParasitesOfFi_1982]]
 - [[MorphologyAndFoodsOfHybridCata_15933]]
+- [[MorphologyAndFeedingBehaviorOf_15922]]

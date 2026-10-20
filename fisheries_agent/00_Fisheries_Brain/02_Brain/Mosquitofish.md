@@ -122,6 +122,36 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
 
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
+> This U.S. Fish and Wildlife Service biological opinion, issued December 23, 1992, evaluates effects of the proposed [[Canelo Pass]] to [[Patagonia]] segment of the [[Arizona Trail]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis) in [[Redrock Canyon]], [[Santa Cruz County]],...
+> -- *[[BiologicalOpinionThatTheCanelo_11877]]*
+
+> This biological opinion, issued February 14, 1994, by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services State Office]], addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding the proposed [[Allotment Management Plan]] for the Dos S Unit of the...
+> -- *[[BiologicalOpinionThatAuthoriza_11901]]*
+
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
+> This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
+> -- *[[IntraofficeMemoFishSurveys_13821]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
+> This trip report documents a November 10-12, 1990 field survey of known [[Desert Pupfish]] (*Cyprinodon macularius macularius*) populations in the [[Colorado River Delta]] region of Sonora and Baja California, Mexico. Conducted by Sally Stefferud (U.S. Fish and Wildlife Service) and Jerry Stefferud...
+> -- *[[TripReportSamplingOfMexicanPop_14780]]*
+
+> This article from Montana Fish & Game Department (August 1969) describes [[Gambusia affinis affinis]] (mosquitofish) and their use in biological mosquito control. The species is native to the Gulf Coast and Mississippi River system but has been widely introduced for pest control purposes. In 1969,...
+> -- *[[LittleFishDoesBigThings_16549]]*
+
+> This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
+> -- *[[AProposalToReestablishDesertSu_20730]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -218,3 +248,13 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[BeaverScoping_18972]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[SamplingAtAsuKarstenGolfCourse_19435]]
+- [[BiologicalOpinionForTheBridgeC_11732]]
+- [[BiologicalOpinionThatTheCanelo_11877]]
+- [[BiologicalOpinionThatAuthoriza_11901]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]
+- [[IntraofficeMemoFishSurveys_13821]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]
+- [[TripReportSamplingOfMexicanPop_14780]]
+- [[LittleFishDoesBigThings_16549]]
+- [[AProposalToReestablishDesertSu_20730]]

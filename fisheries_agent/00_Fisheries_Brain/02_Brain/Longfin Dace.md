@@ -98,6 +98,30 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 > This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
 > -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
 
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
+> This U.S. Fish and Wildlife Service biological opinion, issued December 23, 1992, evaluates effects of the proposed [[Canelo Pass]] to [[Patagonia]] segment of the [[Arizona Trail]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis) in [[Redrock Canyon]], [[Santa Cruz County]],...
+> -- *[[BiologicalOpinionThatTheCanelo_11877]]*
+
+> This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
+> -- *[[IntraofficeMemoFishSurveys_13821]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
+> This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
+> -- *[[GilasanFranciscoRiversResource_18256]]*
+
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
+> This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
+> -- *[[AProposalToReestablishDesertSu_20730]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -201,3 +225,11 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 - [[FisheryManagementForTheSanBern_18979]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[TechnicalReviewDraftSpikedaceM_19407]]
+- [[BiologicalOpinionForTheBridgeC_11732]]
+- [[BiologicalOpinionThatTheCanelo_11877]]
+- [[IntraofficeMemoFishSurveys_13821]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[BiologicalEvaluationOfTheAppro_15074]]
+- [[GilasanFranciscoRiversResource_18256]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]
+- [[AProposalToReestablishDesertSu_20730]]

@@ -29,6 +29,18 @@ The Aspinall Unit refers to a series of four large federal hydroelectric dams an
 > This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[TowardRangewideIntegrationOfRe_18628]]*
 
+> This combined project report documents six interrelated studies examining the effects of [[Aspinall Unit]] reservoir operations on endangered fish populations in the [[Gunnison River]] and [[Colorado River]] systems during FY 1993. The studies focused on three federally endangered species:...
+> -- *[[AFiveYearStudyToInvestigateThe_11212]]*
+
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
+> This document presents the Fiscal Year 1998 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program's established annual budget for FY 98 is $3.18 million (a 3.0% increase over FY 97), with total funding including...
+> -- *[[FiscalYearWorkPlan_11743]]*
+
+> This FY 1993 annual report documents ongoing drift-net sampling to evaluate [[Colorado Squawfish]] (*Ptychocheilus lucius*) larval production in the [[Colorado River]] in response to flow manipulations from the [[Aspinall Unit]]. Principal investigators Leo Lentsch and Melissa Trammell from the...
+> -- *[[AspinalUnitStudiesEvaluationOf_20259]]*
+
 ## Mentioned In
 - [[InterestGroupParticipationInTh_1994_08_05]]
 - [[RoundtableDiscussionOnStreamfl_1994_12_22]]
@@ -38,3 +50,7 @@ The Aspinall Unit refers to a series of four large federal hydroelectric dams an
 - [[FiscalYearWorkPlan_11594]]
 - [[FiscalYearScopeOfWorkResearchP_11213]]
 - [[TowardRangewideIntegrationOfRe_18628]]
+- [[AFiveYearStudyToInvestigateThe_11212]]
+- [[DraftFiveyearRoadMap_11579]]
+- [[FiscalYearWorkPlan_11743]]
+- [[AspinalUnitStudiesEvaluationOf_20259]]

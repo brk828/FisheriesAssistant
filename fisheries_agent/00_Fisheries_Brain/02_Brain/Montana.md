@@ -11,5 +11,13 @@ Montana is a state with commercial fisheries operating exclusively on four man-m
 > This 1968 economic study examined the processing and marketing potential of commercial fishery products from [[Montana]] reservoirs, focusing on [[Carp]], [[Buffalofish]], [[Sucker]], and [[Goldeye]]. The research found that Montana's commercial fisheries face significant challenges including...
 > -- *[[AnEconomicStudyOfTheProcessing_15621]]*
 
+> This 1948 report documents the introduction and establishment of [[Kokanee]] (Oncorhynchus nerka kennerlyi), a landlocked form of [[Pacific Sockeye Salmon]], into California waters beginning in 1941. The [[Bureau of Fish Conservation]] initiated experimental plantings in [[Salt Springs Reservoir]]...
+> -- *[[KokaneeInCalifornia_18108]]*
+
+> This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
+> -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
+
 ## Mentioned In
 - [[AnEconomicStudyOfTheProcessing_15621]]
+- [[KokaneeInCalifornia_18108]]
+- [[NewSpeciesOfNorthAmericanDelto_21086]]

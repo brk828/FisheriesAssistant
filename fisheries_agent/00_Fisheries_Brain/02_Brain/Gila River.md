@@ -314,6 +314,42 @@ The Gila River is a major tributary system in the southwestern United States tha
 > This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
 > -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
 
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
+> This U.S. Fish and Wildlife Service biological opinion, issued December 23, 1992, evaluates effects of the proposed [[Canelo Pass]] to [[Patagonia]] segment of the [[Arizona Trail]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis) in [[Redrock Canyon]], [[Santa Cruz County]],...
+> -- *[[BiologicalOpinionThatTheCanelo_11877]]*
+
+> This biological opinion, issued February 14, 1994, by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services State Office]], addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding the proposed [[Allotment Management Plan]] for the Dos S Unit of the...
+> -- *[[BiologicalOpinionThatAuthoriza_11901]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
+> -- *[[GilasanFranciscoRiversResource_18256]]*
+
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
+> This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
+> -- *[[ProposedActionPlanForReintrodu_19433]]*
+
+> This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
+> -- *[[AProposalToReestablishDesertSu_20730]]*
+
+> This 14-year study (1982-1995) documents the population ecology of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona. The population represents an endemic subspecies, the [[Rio Sonoyta Mud Turtle]],...
+> -- *[[PopulationEcologyOfTheSonoranM_21071]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -542,3 +578,15 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[NoticeOfViolationOfTheEsaConce_18645]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[TechnicalReviewDraftSpikedaceM_19407]]
+- [[BiologicalOpinionForTheBridgeC_11732]]
+- [[BiologicalOpinionThatTheCanelo_11877]]
+- [[BiologicalOpinionThatAuthoriza_11901]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[CurrentStatusOfEndangeredThrea_12695]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[GilasanFranciscoRiversResource_18256]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]
+- [[ProposedActionPlanForReintrodu_19433]]
+- [[AProposalToReestablishDesertSu_20730]]
+- [[PopulationEcologyOfTheSonoranM_21071]]

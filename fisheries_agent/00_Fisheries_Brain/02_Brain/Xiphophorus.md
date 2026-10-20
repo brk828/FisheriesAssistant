@@ -20,9 +20,17 @@ Xiphophorus is a genus of small livebearing fish (family Poeciliidae) native to 
 > **Sexual Dimorphism:** - Females possess low or short fins lacking the specialized modifications (elongated sword, gonopodium) seen in males - This marked dimorphism supports classification within [[Xiphophorus]] and is consistent with sexually selected traits typical of swordtail fishes
 > -- *[[FigXiphophorusMontezuma_19851]]*
 
+> This experimental study documents 12 years (1932-1944) of breeding experiments with [[Mollienisia formosa]], the Amazon Molly, a viviparous fish species in which no males have ever been found. Approximately 8,000 individuals representing 20 generations were bred at the Museum of Zoology,...
+> -- *[[ExperimentalBreedingOfTheAmazo_14310]]*
+
+> This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
+> -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
+
 ## Mentioned In
 - [[FigXiphophorusMontezuma_19851]]
 - [[GeneticMarkerIdentificationInL_1986]]
 - [[LetterFromDeanAHendricksonToCa_1990_01_09]]
 - [[OriginAndEvolutionOfTheFishesO_1962_12_10]]
 - [[PartialBibliographyOnNaturalHi_13786]]
+- [[ExperimentalBreedingOfTheAmazo_14310]]
+- [[AnEcologicalOverviewOfPoecilii_20086]]

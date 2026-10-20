@@ -53,6 +53,12 @@ Rainbow Smelt (*Osmerus mordax*) is a small, anadromous forage fish native to At
 > This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
 > -- *[[IntroductionOfRainbowSmeltInto_17850]]*
 
+> This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
+> -- *[[RainbowSmeltProposalReview_17848]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
 ## Mentioned In
 - [[AResponseToTheProposalToIntrod_1987]]
 - [[AssessmentOfAForageFishIntrodu_19952]]
@@ -85,3 +91,5 @@ Rainbow Smelt (*Osmerus mordax*) is a small, anadromous forage fish native to At
 - [[ReviewOfPotentialForageFishInt_19139]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
+- [[RainbowSmeltProposalReview_17848]]
+- [[AssessmentOfTheNeedForForageEn_17853]]

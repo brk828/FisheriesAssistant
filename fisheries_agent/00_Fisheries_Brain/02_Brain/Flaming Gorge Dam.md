@@ -89,6 +89,21 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[TowardRangewideIntegrationOfRe_18628]]*
 
+> This draft appraisal report, dated June 14, 1994, evaluates methods to study and implement temperature controls at [[Glen Canyon Dam]] for the recovery of native and endangered fishes below the dam. Cold water discharges (8-10°C year-round) from the dam's deep hypolimnetic releases severely limit...
+> -- *[[GlenCanyonDamDischargeTemperat_11486]]*
+
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
+> This document presents the Fiscal Year 1998 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program's established annual budget for FY 98 is $3.18 million (a 3.0% increase over FY 97), with total funding including...
+> -- *[[FiscalYearWorkPlan_11743]]*
+
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -151,3 +166,8 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[CaseStudyColoradoRiverSqauwfis_16101]]
 - [[GlenCanyonDamTemperatureContro_17019]]
 - [[TowardRangewideIntegrationOfRe_18628]]
+- [[GlenCanyonDamDischargeTemperat_11486]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[DraftFiveyearRoadMap_11579]]
+- [[FiscalYearWorkPlan_11743]]
+- [[FiscalYearProgramGuidance_11762]]

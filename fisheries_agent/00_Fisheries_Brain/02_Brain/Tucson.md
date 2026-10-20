@@ -17,7 +17,11 @@ Tucson is a major city in central Arizona served by the Central Arizona Project 
 > The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
 > -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
 
+> This supplemental environmental assessment, prepared by the [[U.S. Bureau of Land Management]] (BLM) Phoenix District Office in December 1983, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*)...
+> -- *[[IntroductionOfGilaTopminnowAnd_17956]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
+- [[IntroductionOfGilaTopminnowAnd_17956]]

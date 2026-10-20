@@ -32,6 +32,9 @@ Salmon are anadromous fish species belonging to the family Salmonidae that migra
 > This fishery leaflet provides a comprehensive overview of columnaris disease, a significant bacterial infection affecting freshwater fishes. The disease, caused by slime bacteria (*Chondrococcus columnaris* or *Cytophaga columnaris*), manifests as grayish-white lesions resembling fungal infections...
 > -- *[[ColumnarisDiseaseOfFishes_21236]]*
 
+> The [[Sacramento Squawfish]] (*Ptychocheilus grandis*) is a large native minnow endemic to California's [[Sacramento-San Joaquin River System]] and select coastal drainages. Historically the top fish predator in its ecosystem, it now coexists with introduced predatory species including [[Smallmouth...
+> -- *[[TheSacramentoSquawfish_13255]]*
+
 ## Mentioned In
 - [[ASystemForRecordingMeasurement_1947]]
 - [[BlameTheArmyForMuckyRiversToo_1995_04_17]]
@@ -45,3 +48,4 @@ Salmon are anadromous fish species belonging to the family Salmonidae that migra
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[TheMaineSmallmouth_14928]]
 - [[ColumnarisDiseaseOfFishes_21236]]
+- [[TheSacramentoSquawfish_13255]]

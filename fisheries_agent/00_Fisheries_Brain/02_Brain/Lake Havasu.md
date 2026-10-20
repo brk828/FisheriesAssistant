@@ -101,6 +101,15 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
 > -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
 
+> This biological opinion (2-21-94-F-244) evaluates the U.S. Fish and Wildlife Service's program to stock catchable-size (8-10 inch) [[Rainbow Trout]] and [[Channel Catfish]] into the lower [[Colorado River]] from [[Hoover Dam]] to the International Border. The consultation addresses potential...
+> -- *[[SummaryBiologicalOpinionOnUsFi_11657]]*
+
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -174,3 +183,6 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[IntroductionOfRainbowSmeltInto_17850]]
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[SummaryBiologicalOpinionOnUsFi_11657]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[AssessmentOfTheNeedForForageEn_17853]]

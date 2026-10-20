@@ -47,6 +47,9 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
 > -- *[[WrittenCommentsOnSupplementToD_20523]]*
 
+> This 14-year study (1982-1995) documents the population ecology of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona. The population represents an endemic subspecies, the [[Rio Sonoyta Mud Turtle]],...
+> -- *[[PopulationEcologyOfTheSonoranM_21071]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
@@ -65,3 +68,4 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[FishesAndAquaticResourcesDeath_15415]]
 - [[WrittenCommentsOnSupplementToD_20523]]
+- [[PopulationEcologyOfTheSonoranM_21071]]

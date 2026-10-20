@@ -38,6 +38,12 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 > This document is correspondence from Tom Strekal, Team Leader, scheduling a [[Cui-ui]] Recovery Team meeting for November 29, 1990, in Reno, Nevada. The meeting addresses the urgent completion of the draft [[Cui-ui]] Recovery Plan, mandated by Senate Bill 3084 (Truckee-Carson-Pyramid Lake Water...
 > -- *[[IssuesToDiscussAndResolveAtCui_14619]]*
 
+> This memorandum from the [[Cui-ui Recovery Team]] proposes quantifiable recovery criteria for the endangered [[Cui-ui]] (*Chasmistes cujus*), an endemic sucker of [[Pyramid Lake]], Nevada. The document establishes probability-based persistence thresholds tied to specific water inflow targets:...
+> -- *[[RecoveryObjectiveForDraftCuiui_14622]]*
+
+> This 1948 report documents the introduction and establishment of [[Kokanee]] (Oncorhynchus nerka kennerlyi), a landlocked form of [[Pacific Sockeye Salmon]], into California waters beginning in 1941. The [[Bureau of Fish Conservation]] initiated experimental plantings in [[Salt Springs Reservoir]]...
+> -- *[[KokaneeInCalifornia_18108]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -67,3 +73,5 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 - [[DraftMinutesOfTheOctoberRecove_13868]]
 - [[CuiuiRecoveryTeamMeetingMinute_13872]]
 - [[IssuesToDiscussAndResolveAtCui_14619]]
+- [[RecoveryObjectiveForDraftCuiui_14622]]
+- [[KokaneeInCalifornia_18108]]

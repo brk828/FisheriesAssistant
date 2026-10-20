@@ -149,6 +149,21 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 > This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
 > -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
 
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
+> This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
+> -- *[[IntraofficeMemoFishSurveys_13821]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This August 12, 1991 letter from the [[U.S. Fish and Wildlife Service]] to the [[U.S. Forest Service]] provides formal comments on the proposed [[Pigeon Creek Lake]] project in [[Greenlee County]], [[Arizona]]. The Service raises significant concerns about the project's potential impacts to...
+> -- *[[ReRequestForCommentsRegardingT_15640]]*
+
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -330,3 +345,8 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 - [[BeaverScoping_18972]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[TechnicalReviewDraftSpikedaceM_19407]]
+- [[BiologicalOpinionForTheBridgeC_11732]]
+- [[IntraofficeMemoFishSurveys_13821]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[ReRequestForCommentsRegardingT_15640]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]

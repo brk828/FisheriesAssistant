@@ -89,6 +89,18 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
+> -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
+
+> This article from Montana Fish & Game Department (August 1969) describes [[Gambusia affinis affinis]] (mosquitofish) and their use in biological mosquito control. The species is native to the Gulf Coast and Mississippi River system but has been widely introduced for pest control purposes. In 1969,...
+> -- *[[LittleFishDoesBigThings_16549]]*
+
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
+> This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
+> -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -146,3 +158,7 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 - [[AReviewOfTheBiologyOfTheMosqui_14748]]
 - [[GambusiaTheFishDestroyer_15551]]
 - [[BeaverScoping_18972]]
+- [[NotesFromFieldWorkInTheCuatroc_12737]]
+- [[LittleFishDoesBigThings_16549]]
+- [[EvaluationAndRelativeResistanc_19097]]
+- [[AnEcologicalOverviewOfPoecilii_20086]]

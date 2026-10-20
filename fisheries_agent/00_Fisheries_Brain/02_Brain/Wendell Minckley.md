@@ -23,6 +23,9 @@ Wendell Minckley was a prominent ichthyologist and desert fish biologist whose e
 > 1. **Purpose:** Organize an external review of the GCES endangered fish research program, led by Dr. [[Wendell Minckley]]. 2. **Deliverable requested from each Principal Investigator:** A structured synopsis letter covering: - Objective statement - Trips completed to date - Types of data collecte...
 > -- *[[ReviewOfTheEndangeredFishResea_1991_10_03]]*
 
+> This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
+> -- *[[SonoranDesertExpertsWorkshop_13543]]*
+
 ## Mentioned In
 - [[AquaticCoordinationTeamMeeting_1991_10_28]]
 - [[CoveRotenoneScheduleChange_1990_09_12]]
@@ -35,3 +38,4 @@ Wendell Minckley was a prominent ichthyologist and desert fish biologist whose e
 - [[ProposedHooverDamPowerplantMod_1991_06_27]]
 - [[ReviewOfTheEndangeredFishResea_1991_10_03]]
 - [[RoundtableDiscussionOnStreamfl_1994_12_22]]
+- [[SonoranDesertExpertsWorkshop_13543]]

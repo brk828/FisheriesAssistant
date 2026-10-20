@@ -197,6 +197,24 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > This document comprises meeting notes and correspondence from the [[Glen Canyon Environmental Studies]] (GCES) Technical Team meetings held March 20-21, 1989, in Las Vegas, Nevada. The meetings addressed the Fiscal Year 1989 technical study plan, organizational restructuring of study teams,...
 > -- *[[GlenCanyonEnvironmentalStudies_19678]]*
 
+> This document is a research proposal and methodological framework developed by Owen T. Gorman (U.S. Fish and Wildlife Service, Pinetop Fishery Assistance Office) for assessing microhabitat use by fishes in the [[Little Colorado River]] (LCR), with special emphasis on the endangered [[Humpback...
+> -- *[[FirstAndSecondDraftUsingHoopne_11067]]*
+
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This study examined movements of [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] within [[Grand Canyon]], Arizona from October 1990 through November 1993, evaluating effects of [[Glen Canyon Dam]] operations on movement patterns. Using radiotelemetry (75 radio-tagged adults) and PIT-tag...
+> -- *[[MovementOfHumpbackChubInTheCol_13639]]*
+
+> This 1994 management proposal addresses the severe impacts of [[Glen Canyon Dam]] operations on native fish populations in [[Grand Canyon]]. The 1963 dam closure fundamentally altered downstream flow regimes, thermal characteristics, and sediment transport dynamics, resulting in extirpation of...
+> -- *[[ManagementOfDischargeTemperatu_15927]]*
+
+> This document is a critical review letter dated March 10, 1993, from C.O. Minckley (U.S. Fish and Wildlife Service, Parker, AZ) to Bill Persons (Arizona Game and Fish Department) regarding a propagation study plan for [[Humpback Chub]] (*Gila cypha*) developed by Diann Smith. The reviewer expresses...
+> -- *[[ReviewOfHumpbackChubPropagatio_18515]]*
+
+> This document is a draft research plan developed by Dr. Duncan Patten and core scientists for the [[Glen Canyon Environmental Studies]] (GCES) program, presented to the Executive Review Committee in February 1990. The plan proposes a comprehensive series of controlled discharge experiments from...
+> -- *[[GlenCanyonEnvironmentalStudies_19687]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -346,3 +364,9 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[SummaryOfCollectingLocalitiesF_18502]]
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[GlenCanyonEnvironmentalStudies_19678]]
+- [[FirstAndSecondDraftUsingHoopne_11067]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[MovementOfHumpbackChubInTheCol_13639]]
+- [[ManagementOfDischargeTemperatu_15927]]
+- [[ReviewOfHumpbackChubPropagatio_18515]]
+- [[GlenCanyonEnvironmentalStudies_19687]]

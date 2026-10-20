@@ -14,7 +14,11 @@ Notropis zonatus is a cyprinid minnow species historically documented in North A
 > Selected species-level counts: - *[[Notropis Cornutus]]* (Luxilus): 21–27 - *[[Notropis Albeolus]]* (Luxilus): 19–23 - *[[Notropis Coccogenis]]* (Coccogenia): 16–20 - *[[Notropis Muskoka]]* (Chriope): 18–24 (highest in genus; regarded as nearest the Chriope stem-form) - *[[Notropis Blennius]]* (A...
 > -- *[[ObservationsOnTheFishesOfTheGe_1909_12_08]]*
 
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
 ## Mentioned In
 - [[ASystematicAndGeographicalStud_1961]]
 - [[AspectsOfTheLifeHistoryOfTheOz_15231]]
 - [[ObservationsOnTheFishesOfTheGe_1909_12_08]]
+- [[EvaluationAndRelativeResistanc_19097]]

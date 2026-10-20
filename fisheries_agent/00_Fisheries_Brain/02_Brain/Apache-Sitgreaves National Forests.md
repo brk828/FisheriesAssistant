@@ -32,6 +32,9 @@ The Apache-Sitgreaves National Forests represent a critical landscape for the co
 > This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
 > -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
 
+> This August 12, 1991 letter from the [[U.S. Fish and Wildlife Service]] to the [[U.S. Forest Service]] provides formal comments on the proposed [[Pigeon Creek Lake]] project in [[Greenlee County]], [[Arizona]]. The Service raises significant concerns about the project's potential impacts to...
+> -- *[[ReRequestForCommentsRegardingT_15640]]*
+
 ## Mentioned In
 - [[ChallengeCostShareAgreementBet_1993_09_15]]
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
@@ -41,3 +44,4 @@ The Apache-Sitgreaves National Forests represent a critical landscape for the co
 - [[SummaryBiologicalOpinionForRep_11720]]
 - [[BiologicalOpinionForReroutingO_11747]]
 - [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[ReRequestForCommentsRegardingT_15640]]

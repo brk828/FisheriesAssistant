@@ -26,6 +26,9 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 > Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
 > -- *[[FieldNotesOfTripToSanBernardin_13172]]*
 
+> This 1917 U.S. Geological Survey report by A. T. Schwennesen documents the groundwater resources of [[San Simon Valley]], an 85-mile-long arid basin in southeastern Arizona and adjacent New Mexico. The valley, bounded by the [[Peloncillo Mountains]] to the east and the [[Chiricahua Mountains]],...
+> -- *[[GroundWaterInSanSimonValleyAri_11299]]*
+
 ## Mentioned In
 - [[AshmunellaAngulataEsuritorLent_18478]]
 - [[ChiricahuaRegionalCouncilNewsl_16142]]
@@ -35,3 +38,4 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 - [[ABotanistInArizonaTerritoryJac_13225]]
 - [[EcosystemRepairByHeadwaterEros_15854]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
+- [[GroundWaterInSanSimonValleyAri_11299]]

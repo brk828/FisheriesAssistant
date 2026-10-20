@@ -14,6 +14,10 @@ El Doctor is a wetland area named after a small settlement on the northeastern C
 > This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
 > -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
 
+> This trip report documents a November 10-12, 1990 field survey of known [[Desert Pupfish]] (*Cyprinodon macularius macularius*) populations in the [[Colorado River Delta]] region of Sonora and Baja California, Mexico. Conducted by Sally Stefferud (U.S. Fish and Wildlife Service) and Jerry Stefferud...
+> -- *[[TripReportSamplingOfMexicanPop_14780]]*
+
 ## Mentioned In
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
+- [[TripReportSamplingOfMexicanPop_14780]]

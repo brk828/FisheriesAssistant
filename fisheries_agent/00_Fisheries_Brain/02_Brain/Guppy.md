@@ -29,6 +29,9 @@ The guppy (Poecilia reticulata) is a small live-bearing fish of the family Poeci
 > This article by Dr. George S. Myers examines the ecological dangers posed by [[Gambusia affinis]] (mosquitofish), a small livebearer from the southeastern United States that was widely introduced worldwide for mosquito control beginning around the turn of the 20th century. Despite its effectiveness...
 > -- *[[GambusiaTheFishDestroyer_15551]]*
 
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
 ## Mentioned In
 - [[AccumulationAndRetentionOfRadi_1957]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -43,3 +46,4 @@ The guppy (Poecilia reticulata) is a small live-bearing fish of the family Poeci
 - [[TheEffectsOfRelativeDensityUpo_1973]]
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[GambusiaTheFishDestroyer_15551]]
+- [[EvaluationAndRelativeResistanc_19097]]

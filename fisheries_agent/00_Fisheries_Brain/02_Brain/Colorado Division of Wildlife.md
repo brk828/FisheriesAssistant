@@ -20,6 +20,15 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 > This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[TowardRangewideIntegrationOfRe_18628]]*
 
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This document consists of correspondence from the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] announcing the annual meeting for February 14-15, 1989, in [[Grand Junction, Colorado]]. The primary focus is planning discussion of the [[Biotechnical Group]]'s research...
+> -- *[[ColoradoRiverFishesMeetingFebr_15252]]*
+
+> This article describes conservation efforts in Colorado to save four unique big-river fish species found nowhere else on Earth: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Humpback Sucker]] (*Xyrauchen texanus*)....
+> -- *[[SavingColoradosBigRiverFish_20737]]*
+
 ## Mentioned In
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
 - [[ColoradoSquawfishInteragencyTr_1973]]
@@ -29,3 +38,6 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 - [[InterimProceduresForStockingNo_15423]]
 - [[RazorbackSuckerXyauchenTexanus_13769]]
 - [[TowardRangewideIntegrationOfRe_18628]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[ColoradoRiverFishesMeetingFebr_15252]]
+- [[SavingColoradosBigRiverFish_20737]]

@@ -26,6 +26,12 @@ Quitobaquito is a desert aquatic habitat supporting a genetically distinct popul
 > This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
 > -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
 ## Mentioned In
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
@@ -33,3 +39,5 @@ Quitobaquito is a desert aquatic habitat supporting a genetically distinct popul
 - [[PreliminaryStudyOfTheDesertPup_12499]]
 - [[MinutesDesertFishesRecoveryTea_13749]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]

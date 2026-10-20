@@ -23,6 +23,9 @@ The Cui-ui Recovery Team is a collaborative group convened by the U.S. Fish and 
 > This 1989 letter from the [[Cui-ui Recovery Team]] to the U.S. Fish and Wildlife Service (USFWS) outlines urgent management recommendations for the 1990 spawning season at [[Marble Bluff Dam]] and its associated fish facilities on the lower [[Truckee River]] (Nevada). The core concern is preventi...
 > -- *[[RecommendationsForMarbleBluffF_1989_11_08]]*
 
+> This memorandum from the [[Cui-ui Recovery Team]] proposes quantifiable recovery criteria for the endangered [[Cui-ui]] (*Chasmistes cujus*), an endemic sucker of [[Pyramid Lake]], Nevada. The document establishes probability-based persistence thresholds tied to specific water inflow targets:...
+> -- *[[RecoveryObjectiveForDraftCuiui_14622]]*
+
 ## Mentioned In
 - [[CuiUiRecoveryTeamMeetingMinute_1989_10_27]]
 - [[CuiUiRecoveryTeamMeetingMinute_1990_01_12]]
@@ -37,3 +40,4 @@ The Cui-ui Recovery Team is a collaborative group convened by the U.S. Fish and 
 - [[MinutesOfTheCuiUiRecoveryTeamM_1989_08_02]]
 - [[RecommendationsForMarbleBluffF_1989_11_08]]
 - [[ReviewOfThirdDraftCuiUiRecover_1991_03_25]]
+- [[RecoveryObjectiveForDraftCuiui_14622]]

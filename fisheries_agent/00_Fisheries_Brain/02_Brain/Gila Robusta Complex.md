@@ -20,9 +20,13 @@ The Gila Robusta Complex refers to a group of closely related chub species and p
 > This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
 > -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
 
+> This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
+> -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
+
 ## Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[FyAnnualProjectReportGilaTaxon_1993_12_06]]
 - [[LetterOnDispositionOfFrozenBon_1993_10_01]]
 - [[LetterRegardingGilaElegansArti_1988_04_24]]
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
+- [[DetailsForStudiesOfTheGenusGil_13739]]

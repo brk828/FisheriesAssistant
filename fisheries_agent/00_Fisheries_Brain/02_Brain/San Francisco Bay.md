@@ -29,6 +29,9 @@ San Francisco Bay is a major estuary on the California coast that serves as a cr
 > This study analyzed 387 [[Striped Bass]] (*Roccus saxatilis*) stomachs collected by anglers over one year (1947-1948) in [[San Francisco Bay]] and the [[San Joaquin River]] Delta. The sample was divided into summer/fall (229 stomachs) and winter/spring (158 stomachs) collections. [[Crago]] shrimp...
 > -- *[[FoodHabitsOfCaliforniaStripedB_19825]]*
 
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
 ## Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[DeterminationOfSexualMaturityI_1965]]
@@ -39,3 +42,4 @@ San Francisco Bay is a major estuary on the California coast that serves as a cr
 - [[MovementsOfInlandAnglersWithin_11325]]
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[FoodHabitsOfCaliforniaStripedB_19825]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]

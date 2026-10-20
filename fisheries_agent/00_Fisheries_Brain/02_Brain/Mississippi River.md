@@ -44,6 +44,15 @@ The Mississippi River represents a major North American fluvial system of critic
 > This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
 > -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
 
+> This article from Montana Fish & Game Department (August 1969) describes [[Gambusia affinis affinis]] (mosquitofish) and their use in biological mosquito control. The species is native to the Gulf Coast and Mississippi River system but has been widely introduced for pest control purposes. In 1969,...
+> -- *[[LittleFishDoesBigThings_16549]]*
+
+> This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
+> -- *[[RainbowSmeltProposalReview_17848]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerInPoolOfTh_16034]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -69,3 +78,6 @@ The Mississippi River represents a major North American fluvial system of critic
 - [[TheDesirabilityOfIntroducingWh_16080]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[LittleFishDoesBigThings_16549]]
+- [[RainbowSmeltProposalReview_17848]]
+- [[AssessmentOfTheNeedForForageEn_17853]]

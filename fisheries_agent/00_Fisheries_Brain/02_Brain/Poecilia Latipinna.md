@@ -23,8 +23,12 @@ auto_enriched: true
 > This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
 > -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
 
+> This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
+> -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
+
 ## Mentioned In
 - [[LetterToPeterBMoyleOnColoradoR_13792]]
 - [[SurvivalAndAbundanceOfIntroduc_14259]]
 - [[SystematicsOfPoeciliaInNorthea_13950]]
 - [[AReviewOfTheBiologyOfTheMosqui_14748]]
+- [[AnEcologicalOverviewOfPoecilii_20086]]

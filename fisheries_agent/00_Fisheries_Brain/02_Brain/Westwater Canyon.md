@@ -29,6 +29,18 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 > This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
 > -- *[[DraftRecoveryImplementationPro_11643]]*
 
+> This combined project report documents six interrelated studies examining the effects of [[Aspinall Unit]] reservoir operations on endangered fish populations in the [[Gunnison River]] and [[Colorado River]] systems during FY 1993. The studies focused on three federally endangered species:...
+> -- *[[AFiveYearStudyToInvestigateThe_11212]]*
+
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
+> This FY 1993 annual report documents ongoing drift-net sampling to evaluate [[Colorado Squawfish]] (*Ptychocheilus lucius*) larval production in the [[Colorado River]] in response to flow manipulations from the [[Aspinall Unit]]. Principal investigators Leo Lentsch and Melissa Trammell from the...
+> -- *[[AspinalUnitStudiesEvaluationOf_20259]]*
+
 ## Mentioned In
 - [[DetermineStatusOfColoradoSquaw_11150]]
 - [[InteragencyStandardizedMonitor_1993]]
@@ -39,3 +51,7 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 - [[BonytailReintroductionPlanForT_20248]]
 - [[FiscalYearScopeOfWorkResearchP_11213]]
 - [[DraftRecoveryImplementationPro_11643]]
+- [[AFiveYearStudyToInvestigateThe_11212]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[DraftFiveyearRoadMap_11579]]
+- [[AspinalUnitStudiesEvaluationOf_20259]]

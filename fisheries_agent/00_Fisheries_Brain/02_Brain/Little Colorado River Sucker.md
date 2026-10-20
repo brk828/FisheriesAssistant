@@ -20,7 +20,11 @@ The Little Colorado River Sucker is an undescribed species of catostomid (sucker
 > The team recommended **Category 2 candidate status** for: - [[Longfin Dace]] - [[Desert Sucker]] - [[Sonora Sucker]] - [[Little Colorado River Sucker]] (undescribed *Catostomus* sp., genetics under study by a student of Tom Dowling) - An as-yet-undefined taxonomic unit of [[Speckled Dace]]
 > -- *[[FinalMinutesOfTheFebruaryMeeti_1993_07_20]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
 ## Mentioned In
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
 - [[FinalMinutesOfTheFebruaryMeeti_1993_07_20]]
 - [[LittleColoradoRiverSpinedaceSu_1991_07_29]]
+- [[DraftLittleColoradoRiverSpined_11662]]

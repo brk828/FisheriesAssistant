@@ -233,6 +233,27 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
 > -- *[[LakeMohaveSamplingMarch_20326]]*
 
+> This biological opinion (2-21-94-F-244) evaluates the U.S. Fish and Wildlife Service's program to stock catchable-size (8-10 inch) [[Rainbow Trout]] and [[Channel Catfish]] into the lower [[Colorado River]] from [[Hoover Dam]] to the International Border. The consultation addresses potential...
+> -- *[[SummaryBiologicalOpinionOnUsFi_11657]]*
+
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
+> This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
+> -- *[[EnvironmentalAssessmentForNati_13228]]*
+
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
+> This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
+> -- *[[ChronologyOfYumaCoveActivities_15028]]*
+
+> This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
+> -- *[[RazorbackSuckerMonitoringInLak_17016]]*
+
+> This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
+> -- *[[ProposedActionPlanForReintrodu_19433]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -468,3 +489,10 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[LakeMohaveExperimentalGillNett_18275]]
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[LakeMohaveSamplingMarch_20326]]
+- [[SummaryBiologicalOpinionOnUsFi_11657]]
+- [[DraftLittleColoradoRiverSpined_11662]]
+- [[EnvironmentalAssessmentForNati_13228]]
+- [[DraftLowerColoradoRiverOperati_13907]]
+- [[ChronologyOfYumaCoveActivities_15028]]
+- [[RazorbackSuckerMonitoringInLak_17016]]
+- [[ProposedActionPlanForReintrodu_19433]]

@@ -53,6 +53,18 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 > This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
 > -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
 
+> This 1994 management proposal addresses the severe impacts of [[Glen Canyon Dam]] operations on native fish populations in [[Grand Canyon]]. The 1963 dam closure fundamentally altered downstream flow regimes, thermal characteristics, and sediment transport dynamics, resulting in extirpation of...
+> -- *[[ManagementOfDischargeTemperatu_15927]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This document is a draft research plan developed by Dr. Duncan Patten and core scientists for the [[Glen Canyon Environmental Studies]] (GCES) program, presented to the Executive Review Committee in February 1990. The plan proposes a comprehensive series of controlled discharge experiments from...
+> -- *[[GlenCanyonEnvironmentalStudies_19687]]*
+
+> This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
+> -- *[[GlenCanyonEnvironmentalStudies_19734]]*
+
 ## Mentioned In
 - [[CommentsOnDraftColoradoRiverEn_1993_12_28]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -78,3 +90,7 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 - [[HabitatUseByHumpbackChubGilaCy_11575]]
 - [[StatewideFisheriesResearch_13299]]
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[ManagementOfDischargeTemperatu_15927]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[GlenCanyonEnvironmentalStudies_19687]]
+- [[GlenCanyonEnvironmentalStudies_19734]]

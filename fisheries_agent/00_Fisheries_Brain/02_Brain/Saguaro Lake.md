@@ -26,6 +26,9 @@ Saguaro Lake is a warm-water desert reservoir in Arizona characterized by high r
 > This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
 > -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
 
+> This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
+> -- *[[CommercialFisheriesPotentialOf_18584]]*
+
 ## Mentioned In
 - [[BranchiuraSowerbyiBeddardAnnel_16017]]
 - [[RiverBasinInvestigationsCooper_12958]]
@@ -34,3 +37,4 @@ Saguaro Lake is a warm-water desert reservoir in Arizona characterized by high r
 - [[InvestigationsOfCommercialFish_18562]]
 - [[InfluenceOfPumpStorageAndGener_15886]]
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[CommercialFisheriesPotentialOf_18584]]

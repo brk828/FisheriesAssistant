@@ -41,6 +41,9 @@ Pantosteus clarki, commonly known as the Desert Sucker, is a native benthic cato
 > This dissertation proposal by Carol L. Secor (Arizona State University, 1998) outlines a comprehensive study to test whether introgressive hybridization with [[Pantosteus discobolus]] (bluehead sucker) has shaped the genetic and morphological patterns observed in the [[Pantosteus clarki]] (desert...
 > -- *[[DrafInfluenceOfHybridizationOn_11330]]*
 
+> This Master's thesis examines F₁ hybrids between [[Catostomus insignis]] (Sonora sucker) and [[Pantosteus clarki]] (desert mountain-sucker) from [[Aravaipa Creek]] and [[Bonita Creek]], Arizona. The study tests hypotheses of morphological and behavioral intermediacy in natural fish hybrids using...
+> -- *[[MorphologyAndFeedingBehaviorOf_15922]]*
+
 ## Mentioned In
 - [[ColoradoSquawfishMonitoringVer_19393]]
 - [[DataForAravaipaCreekFishCount_1995_10_07]]
@@ -58,3 +61,4 @@ Pantosteus clarki, commonly known as the Desert Sucker, is a native benthic cato
 - [[MorphologyAndFoodsOfHybridCata_15933]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 - [[DrafInfluenceOfHybridizationOn_11330]]
+- [[MorphologyAndFeedingBehaviorOf_15922]]

@@ -155,6 +155,27 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
 > -- *[[WrittenCommentsOnSupplementToD_20523]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
+> This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
+> -- *[[IntraofficeMemoFishSurveys_13821]]*
+
+> This trip report documents a November 10-12, 1990 field survey of known [[Desert Pupfish]] (*Cyprinodon macularius macularius*) populations in the [[Colorado River Delta]] region of Sonora and Baja California, Mexico. Conducted by Sally Stefferud (U.S. Fish and Wildlife Service) and Jerry Stefferud...
+> -- *[[TripReportSamplingOfMexicanPop_14780]]*
+
+> This supplemental environmental assessment, prepared by the [[U.S. Bureau of Land Management]] (BLM) Phoenix District Office in December 1983, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*)...
+> -- *[[IntroductionOfGilaTopminnowAnd_17956]]*
+
+> This 14-year study (1982-1995) documents the population ecology of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona. The population represents an endemic subspecies, the [[Rio Sonoyta Mud Turtle]],...
+> -- *[[PopulationEcologyOfTheSonoranM_21071]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -367,3 +388,10 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[BeaverScoping_18972]]
 - [[PupfishAtHowardWell_20498]]
 - [[WrittenCommentsOnSupplementToD_20523]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]
+- [[IntraofficeMemoFishSurveys_13821]]
+- [[TripReportSamplingOfMexicanPop_14780]]
+- [[IntroductionOfGilaTopminnowAnd_17956]]
+- [[PopulationEcologyOfTheSonoranM_21071]]

@@ -11,5 +11,9 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This 1992 annual report from the [[Arizona Game and Fish Department]] documents comprehensive research on [[Rainbow Trout]] (*Oncorhynchus mykiss*) populations in the [[Lee's Ferry]] reach of the [[Colorado River]] below [[Glen Canyon Dam]] from November 1989 through February 1993. The study...
 > -- *[[GlenCanyonEnvironmentalStudies_16902]]*
 
+> This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
+> -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
+
 ## Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
+- [[NewSpeciesOfNorthAmericanDelto_21086]]

@@ -26,6 +26,12 @@ Clear Creek is a drainage system in Illinois that historically supported populat
 > This study documents temporal changes in a long-standing hybrid swarm between the endangered endemic [[Gambusia heterochir]] (Clear Creek Gambusia) and [[Gambusia affinis]] (Western Mosquitofish) in [[Clear Creek]], [[Menard County]], Texas, following reconstruction of the uppermost dam in 1979....
 > -- *[[TemporalChangesInTheGambusiaHe_15772]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
+> This study documents the embryonic and early larval development of the [[Tui Chub]] (*Siphateles bicolor*) from [[Eagle Lake]], [[Lassen County]], California. Conducted in 1949 by Robert R. Harry at Stanford University while employed by the California Division of Fish and Game, this represents...
+> -- *[[TheEmbryonicAndEarlyLarvalStag_20681]]*
+
 ## Mentioned In
 - [[DistributionAbundanceAndStatus_14900]]
 - [[NewRecordsDistributionAndStatu_14897]]
@@ -33,3 +39,5 @@ Clear Creek is a drainage system in Illinois that historically supported populat
 - [[StatusOfTheCypressMinnowHybogn_1982_01_15]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[TemporalChangesInTheGambusiaHe_15772]]
+- [[DraftLittleColoradoRiverSpined_11662]]
+- [[TheEmbryonicAndEarlyLarvalStag_20681]]

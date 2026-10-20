@@ -50,6 +50,12 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 > This document comprises meeting notes and correspondence from the [[Glen Canyon Environmental Studies]] (GCES) Technical Team meetings held March 20-21, 1989, in Las Vegas, Nevada. The meetings addressed the Fiscal Year 1989 technical study plan, organizational restructuring of study teams,...
 > -- *[[GlenCanyonEnvironmentalStudies_19678]]*
 
+> This study examined movements of [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] within [[Grand Canyon]], Arizona from October 1990 through November 1993, evaluating effects of [[Glen Canyon Dam]] operations on movement patterns. Using radiotelemetry (75 radio-tagged adults) and PIT-tag...
+> -- *[[MovementOfHumpbackChubInTheCol_13639]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
 ## Mentioned In
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
 - [[FlowModificationsToTheGlenCany_18321]]
@@ -68,3 +74,5 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
 - [[SummaryOfCollectingLocalitiesF_18502]]
 - [[GlenCanyonEnvironmentalStudies_19678]]
+- [[MovementOfHumpbackChubInTheCol_13639]]
+- [[GlenCanyonNationalRecreationAr_18334]]

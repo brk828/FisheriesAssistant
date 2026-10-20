@@ -44,6 +44,9 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 > This document summarizes a three-day workshop (November 8-10, 1999) at Saguaro Lake Ranch convened to evaluate a proposed temperature control device (TCD) for [[Glen Canyon Dam]]. The workshop brought together scientists, resource managers, and conservationists to provide input on research and...
 > -- *[[GlenCanyonDamTemperatureContro_17019]]*
 
+> This study documents the origin, distribution, and seasonal dynamics of oxygen-depleted waters in [[Lake Powell]], a large canyon-type reservoir on the [[Colorado Plateau]]. The reservoir exhibits two principal oxygen depletion problems affecting its fishery: (1) a shallow oxygen minimum layer...
+> -- *[[OxygenDepletedWatersOriginAndD_19797]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[FishHandlingAssessmentOnGrandC_1991_09_05]]
@@ -68,3 +71,4 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
 - [[GlenCanyonDamTemperatureContro_17019]]
+- [[OxygenDepletedWatersOriginAndD_19797]]

@@ -23,9 +23,13 @@ Graham County is a county in Arizona that contains part of Aravaipa Creek. The 1
 > This investigation by the [[Arizona Department of Environmental Quality]] documents water quality impacts from the [[Klondyke Tailings]] along [[Aravaipa Creek]] in [[Graham County]], Arizona. The tailings consist of 220,000 tons of milled ore rich in lead, zinc, copper, and silver situated within...
 > -- *[[TheKlondykeTailingsAndAravaipa_14554]]*
 
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
 ## Mentioned In
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
 - [[ReportOfFloodDamageToBigSpring_18984]]
 - [[ChangesInRiparianVegetationAnd_14524]]
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[TheKlondykeTailingsAndAravaipa_14554]]
+- [[CurrentStatusOfEndangeredThrea_12695]]

@@ -11,5 +11,9 @@ auto_enriched: true
 > - The monograph is considered a **systematic milestone**, exemplifying rigorous state-level faunal review despite the reviewer's preference for river-system-based (rather than political-boundary-based) treatments for freshwater fauna. - Provides critical, alternative **taxonomic keys** by family ...
 > -- *[[FishesOfSouthDakota_1962]]*
 
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
 ## Mentioned In
 - [[FishesOfSouthDakota_1962]]
+- [[EvaluationAndRelativeResistanc_19097]]

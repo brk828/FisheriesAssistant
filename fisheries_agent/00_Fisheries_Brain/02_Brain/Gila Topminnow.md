@@ -134,6 +134,30 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> This U.S. Fish and Wildlife Service biological opinion, issued December 23, 1992, evaluates effects of the proposed [[Canelo Pass]] to [[Patagonia]] segment of the [[Arizona Trail]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis) in [[Redrock Canyon]], [[Santa Cruz County]],...
+> -- *[[BiologicalOpinionThatTheCanelo_11877]]*
+
+> This biological opinion, issued February 14, 1994, by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services State Office]], addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding the proposed [[Allotment Management Plan]] for the Dos S Unit of the...
+> -- *[[BiologicalOpinionThatAuthoriza_11901]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
+> This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
+> -- *[[IntraofficeMemoFishSurveys_13821]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
+> This supplemental environmental assessment, prepared by the [[U.S. Bureau of Land Management]] (BLM) Phoenix District Office in December 1983, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*)...
+> -- *[[IntroductionOfGilaTopminnowAnd_17956]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -351,3 +375,11 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[MinutesOfDesertFishesRecoveryT_13773]]
 - [[BeaverScoping_18972]]
+- [[BiologicalOpinionThatTheCanelo_11877]]
+- [[BiologicalOpinionThatAuthoriza_11901]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[CurrentStatusOfEndangeredThrea_12695]]
+- [[IntraofficeMemoFishSurveys_13821]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[BiologicalEvaluationOfTheAppro_15074]]
+- [[IntroductionOfGilaTopminnowAnd_17956]]

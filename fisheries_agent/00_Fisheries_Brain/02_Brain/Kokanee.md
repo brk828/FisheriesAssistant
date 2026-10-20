@@ -35,6 +35,9 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > This 1952 field guide addresses the practical challenges of identifying salmonid game fishes in [[New York State]] waters. The document provides diagnostic characters for six species: [[Brook Trout]] (*Salvelinus fontinalis*), [[Brown Trout]] (*Salmo trutta*), [[Rainbow Trout]] (*Salmo...
 > -- *[[TroutOrSalmon_19215]]*
 
+> This 1948 report documents the introduction and establishment of [[Kokanee]] (Oncorhynchus nerka kennerlyi), a landlocked form of [[Pacific Sockeye Salmon]], into California waters beginning in 1941. The [[Bureau of Fish Conservation]] initiated experimental plantings in [[Salt Springs Reservoir]]...
+> -- *[[KokaneeInCalifornia_18108]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -47,3 +50,4 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[TailwaterFisheryInvestigationC_14594]]
 - [[TheIntroductionOfKokaneeRedSal_18826]]
 - [[TroutOrSalmon_19215]]
+- [[KokaneeInCalifornia_18108]]

@@ -23,6 +23,9 @@ Cibola National Wildlife Refuge is a protected area along the Lower Colorado Riv
 > This document is a formal Section 7 consultation biological opinion dated June 1990 regarding the proposed reintroduction of [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the [[Colorado River]] mainstream between [[Headgate Rock Dam]] and [[Imperial Dam]] (approximately 130 miles) in Arizona...
 > -- *[[IntraserviceSectionConsultatio_20152]]*
 
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
 ## Mentioned In
 - [[BonytailStocking_1994_10_18]]
 - [[CollectionOfGrowoutFacilitiesO_1995_05_27]]
@@ -35,3 +38,4 @@ Cibola National Wildlife Refuge is a protected area along the Lower Colorado Riv
 - [[UseOfIsolatedHabitatsAsGrowout_1996_06_21]]
 - [[IntraserviceSectionConsultatio_11829]]
 - [[IntraserviceSectionConsultatio_20152]]
+- [[DraftLowerColoradoRiverOperati_13907]]

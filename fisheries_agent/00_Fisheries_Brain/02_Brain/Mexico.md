@@ -38,6 +38,15 @@ Mexico is the location of the Cienega de Santa Clara wetland in Sonora, which wa
 > Official correspondence from the U.S. Fish and Wildlife Service Regional Director to the Desert Fishes Council Executive Secretary dated January 14, 1987, regarding unauthorized collection of endangered fish and reptiles at [[Cuatro Cienegas]], [[Coahuila]], [[Mexico]]. The letter addresses...
 > -- *[[UnauthorizedCollectingInMexico_20833]]*
 
+> This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
+> -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
+
+> Two administrative memoranda from the [[Desert Fishes Council]] dated May 31, 1990, announcing organizational changes and soliciting financial support for a major conservation biology publication. The correspondence documents the retirement of Executive Secretary E.P. Pister from the [[California...
+> -- *[[UpdatesFromEpPister_12831]]*
+
+> This document contains two pieces of correspondence from September 1987 regarding the proposed "Fraccionamiento Campestre Las Tortugas" (Las Tortugas Country Subdivision) development near [[Cuatro Ciénegas]], [[Coahuila]], [[Mexico]]. The first letter (September 10, 1987) from Bertha Laura G. de...
+> -- *[[SaleOfLandInLasTortugasNearThe_12870]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[APetitionPursuantToArticleOfTh_17637]]
@@ -49,3 +58,6 @@ Mexico is the location of the Cienega de Santa Clara wetland in Sonora, which wa
 - [[ANewSpeciesOfAquaticIsopodCrus_17104]]
 - [[SexualSelectionInTheCuatroCien_20108]]
 - [[UnauthorizedCollectingInMexico_20833]]
+- [[NotesFromFieldWorkInTheCuatroc_12737]]
+- [[UpdatesFromEpPister_12831]]
+- [[SaleOfLandInLasTortugasNearThe_12870]]

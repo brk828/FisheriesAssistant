@@ -98,6 +98,24 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 > This master's thesis investigated the vertical distribution of fishes in [[Roosevelt Lake]] and [[Apache Lake]], two contiguous reservoirs on the [[Salt River]] in central Arizona, during 1970-1971. Using vertical gill nets at multiple transects, the study examined fish depth distributions relative...
 > -- *[[VerticalDistributionOfFishesRe_18202]]*
 
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
+> -- *[[LakePowellFisheriesInvestigati_14595]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This master's thesis by C. O. Minckley (University of Nevada, Las Vegas, August 1972) presents a comprehensive age and growth study of [[Largemouth Bass]] populations in [[Lake Mead]], Nevada-Arizona. The research analyzed 876 fish collected from three locations (Las Vegas Bay, Temple Bar, and...
+> -- *[[AgeAndGrowthObservationsOnTheL_18498]]*
+
+> This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
+> -- *[[CommercialFisheriesPotentialOf_18584]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -187,3 +205,9 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 - [[UtahLakeEcosystemMonitoringToS_2023]]
 - [[DraftRecoveryImplementationPro_11643]]
 - [[VerticalDistributionOfFishesRe_18202]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[LakePowellFisheriesInvestigati_14595]]
+- [[AssessmentOfTheNeedForForageEn_17853]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[AgeAndGrowthObservationsOnTheL_18498]]
+- [[CommercialFisheriesPotentialOf_18584]]

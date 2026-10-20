@@ -32,6 +32,12 @@ The Mexican Spotted Owl is not directly relevant to fish science or aquatic ecol
 > This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
 > -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
 
+> This biological opinion, issued February 14, 1994, by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services State Office]], addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding the proposed [[Allotment Management Plan]] for the Dos S Unit of the...
+> -- *[[BiologicalOpinionThatAuthoriza_11901]]*
+
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
 ## Mentioned In
 - [[ConcurrenceLetterOnBearCanyonT_1997_02_21]]
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
@@ -45,3 +51,5 @@ The Mexican Spotted Owl is not directly relevant to fish science or aquatic ecol
 - [[APetitionPursuantToArticleOfTh_17637]]
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[BiologicalOpinionThatAuthoriza_11901]]
+- [[BiologicalEvaluationOfTheAppro_15074]]

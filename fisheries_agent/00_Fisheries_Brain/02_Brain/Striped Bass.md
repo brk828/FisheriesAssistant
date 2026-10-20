@@ -161,6 +161,42 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
 > -- *[[LakeMohaveSamplingMarch_20326]]*
 
+> This draft appraisal report, dated June 14, 1994, evaluates methods to study and implement temperature controls at [[Glen Canyon Dam]] for the recovery of native and endangered fishes below the dam. Cold water discharges (8-10°C year-round) from the dam's deep hypolimnetic releases severely limit...
+> -- *[[GlenCanyonDamDischargeTemperat_11486]]*
+
+> This biological opinion (2-21-94-F-244) evaluates the U.S. Fish and Wildlife Service's program to stock catchable-size (8-10 inch) [[Rainbow Trout]] and [[Channel Catfish]] into the lower [[Colorado River]] from [[Hoover Dam]] to the International Border. The consultation addresses potential...
+> -- *[[SummaryBiologicalOpinionOnUsFi_11657]]*
+
+> The [[Sacramento Squawfish]] (*Ptychocheilus grandis*) is a large native minnow endemic to California's [[Sacramento-San Joaquin River System]] and select coastal drainages. Historically the top fish predator in its ecosystem, it now coexists with introduced predatory species including [[Smallmouth...
+> -- *[[TheSacramentoSquawfish_13255]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
+> This study assessed the risk of [[Striped Bass]] (Morone saxatilis) transfer from [[Devils Lake]] to Canadian waters via a proposed outlet to the [[Sheyenne River]]. Approximately 13,000 striped bass fingerlings were stocked into Devils Lake in 1977 to provide a trophy fishery. The investigation...
+> -- *[[AnalysisOfLongTermSurvivalNatu_14818]]*
+
+> This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
+> -- *[[ChronologyOfYumaCoveActivities_15028]]*
+
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
+> This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
+> -- *[[RainbowSmeltProposalReview_17848]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This 1954 study by the California Department of Fish and Game evaluated tantalum and stainless steel as alternative materials for fish tagging wires on [[Striped Bass]] (*Roccus saxatilis*). Previous tagging programs using monel, nickel, and silver had proven unsatisfactory for marine and...
+> -- *[[FieldTestsOfStainlessSteelAndT_19017]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -310,3 +346,15 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[TheCaliforniaSturgeon_17339]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
 - [[LakeMohaveSamplingMarch_20326]]
+- [[GlenCanyonDamDischargeTemperat_11486]]
+- [[SummaryBiologicalOpinionOnUsFi_11657]]
+- [[TheSacramentoSquawfish_13255]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]
+- [[AnalysisOfLongTermSurvivalNatu_14818]]
+- [[ChronologyOfYumaCoveActivities_15028]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[RainbowSmeltProposalReview_17848]]
+- [[AssessmentOfTheNeedForForageEn_17853]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[FieldTestsOfStainlessSteelAndT_19017]]

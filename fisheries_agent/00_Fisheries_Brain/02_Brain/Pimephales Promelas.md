@@ -44,6 +44,9 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
 ## Mentioned In
 - [[DistributionOfMidwesternFishes_1978]]
 - [[FiveNewSpeciesOfGyrodactylusTr_12149]]
@@ -62,3 +65,4 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[BeaverScoping_18972]]
+- [[EvaluationAndRelativeResistanc_19097]]

@@ -26,6 +26,9 @@ Page Springs Hatchery was a fish propagation facility involved in razorback suck
 > This 1992 annual report from the [[Arizona Game and Fish Department]] documents comprehensive research on [[Rainbow Trout]] (*Oncorhynchus mykiss*) populations in the [[Lee's Ferry]] reach of the [[Colorado River]] below [[Glen Canyon Dam]] from November 1989 through February 1993. The study...
 > -- *[[GlenCanyonEnvironmentalStudies_16902]]*
 
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
 ## Mentioned In
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
 - [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
@@ -35,3 +38,4 @@ Page Springs Hatchery was a fish propagation facility involved in razorback suck
 - [[StudiesOnTheRazorbackSuckerXyr_1974_06_18]]
 - [[DraftbonytailChubGilaElegans_14696]]
 - [[GlenCanyonEnvironmentalStudies_16902]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]

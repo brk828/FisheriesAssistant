@@ -173,6 +173,18 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This study examined the effects of size-sorting on sex ratios and growth rates in [[Brown Trout]] (Salmo trutta) fingerlings at the [[Randolph Hatchery]] in New York. Researchers individually tagged and tracked four sorted size groups over one year (September 1956 to September 1957). Key findings...
 > -- *[[EffectOfSortingBrownTroutOnSex_20693]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
+> This study examined movements of [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] within [[Grand Canyon]], Arizona from October 1990 through November 1993, evaluating effects of [[Glen Canyon Dam]] operations on movement patterns. Using radiotelemetry (75 radio-tagged adults) and PIT-tag...
+> -- *[[MovementOfHumpbackChubInTheCol_13639]]*
+
+> This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
+> -- *[[LakePowellFisheriesInvestigati_14595]]*
+
+> This experimental study compared an all-pellet dry food diet with a traditional pellet-plus-meat diet for [[Brook Trout]] and [[Brown Trout]] in New York State hatcheries from November 1957 through April 1958. Nine pairs of hatchery ponds across six facilities were used to evaluate growth,...
+> -- *[[PelletedDryFoodAsATotalDietFor_20344]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -343,3 +355,7 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[TroutOrSalmon_19215]]
 - [[TechnicalReviewDraftSpikedaceM_19407]]
 - [[EffectOfSortingBrownTroutOnSex_20693]]
+- [[DraftLittleColoradoRiverSpined_11662]]
+- [[MovementOfHumpbackChubInTheCol_13639]]
+- [[LakePowellFisheriesInvestigati_14595]]
+- [[PelletedDryFoodAsATotalDietFor_20344]]

@@ -20,6 +20,9 @@ Osmeridae is a family of small, silvery forage fishes characterized by the prese
 > This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
 > -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
 
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
 ## Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[FreshwaterFishesOfTheEasternAr_18569]]
@@ -28,3 +31,4 @@ Osmeridae is a family of small, silvery forage fishes characterized by the prese
 - [[LetterRegardingProposedStockin_1989_06_23]]
 - [[WesternRangeExtensionOfTheSurf_1968]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[AssessmentOfTheNeedForForageEn_17853]]

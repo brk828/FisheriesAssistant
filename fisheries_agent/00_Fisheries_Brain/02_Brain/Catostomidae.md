@@ -116,6 +116,12 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 > This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
 > -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
 
+> This memorandum documents the capture of a juvenile [[Razorback Sucker]] (*Xyrauchen texanus*) from a lateral canal on the [[Colorado River Indian Reservation]] near [[Parker, Arizona]] on January 12, 1980. The specimen was captured by a reservation resident using a chicken wire seine in a culvert...
+> -- *[[CaptureOfASuspectedJuvenileRaz_19058]]*
+
+> This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
+> -- *[[AProposalToReestablishDesertSu_20730]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AListOfOntarioFishes_11321]]
@@ -325,3 +331,5 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
 - [[TheSuitabilitiesAndRelativeRes_19185]]
+- [[CaptureOfASuspectedJuvenileRaz_19058]]
+- [[AProposalToReestablishDesertSu_20730]]

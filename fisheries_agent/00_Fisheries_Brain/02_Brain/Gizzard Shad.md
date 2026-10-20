@@ -71,6 +71,15 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
 > -- *[[LongtermPatternsOfFishCommunit_2023]]*
 
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
+> This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
+> -- *[[RainbowSmeltProposalReview_17848]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -123,3 +132,6 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 - [[TheDesirabilityOfIntroducingWh_16080]]
 - [[APreliminaryEvaluationOfAFishD_20313]]
 - [[LongtermPatternsOfFishCommunit_2023]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]
+- [[RainbowSmeltProposalReview_17848]]
+- [[AssessmentOfTheNeedForForageEn_17853]]

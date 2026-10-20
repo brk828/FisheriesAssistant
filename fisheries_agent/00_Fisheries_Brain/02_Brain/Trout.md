@@ -59,6 +59,12 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
 > -- *[[LakeMohaveSamplingMarch_20326]]*
 
+> This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
+> -- *[[FishParasites_20804]]*
+
+> This document is an excerpt from an anthropological paper (Papers in Anthropology No. 17) by Anne M. Smith documenting Northern Utes linguistic terminology and cultural practices. The material includes phonetic transcriptions of directional terms, fauna classifications, and fish nomenclature in the...
+> -- *[[EthnographyOfTheNorthernUtes_21134]]*
+
 ## Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -98,3 +104,5 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[GeneralNotesTemperaturecontrol_16184]]
 - [[TheMontanaGraylingInMichigan_20282]]
 - [[LakeMohaveSamplingMarch_20326]]
+- [[FishParasites_20804]]
+- [[EthnographyOfTheNorthernUtes_21134]]

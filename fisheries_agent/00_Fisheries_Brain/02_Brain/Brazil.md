@@ -14,7 +14,11 @@ auto_enriched: true
 > This taxonomic contribution from the [[Zoological Laboratory of Indiana University]] describes four new species of characid fishes from South American freshwater systems. [[Carl H. Eigenmann]] and [[Arthur Henn]] present detailed morphological descriptions of [[Rhoadsia minor]] from high-elevation...
 > -- *[[OnANewSpeciesOfFishesFromColom_15807]]*
 
+> This 1907 taxonomic revision by [[Carl H Eigenmann]] examines the [[Poeciliidae]] fauna of [[Rio Grande do Sul]] and the [[La Plata Basin]]. The study establishes several new genera based on detailed examination of teeth morphology and male reproductive organs (intromittent organs). Eigenmann...
+> -- *[[ThePoeciliidFishesOfRioGrandeD_15799]]*
+
 ## Mentioned In
 - [[ForeignIntroductionsOfNorthAme_15556]]
 - [[CyprettaKawataiANewSpeciesOfFr_11780]]
 - [[OnANewSpeciesOfFishesFromColom_15807]]
+- [[ThePoeciliidFishesOfRioGrandeD_15799]]

@@ -50,6 +50,9 @@ Buenos Aires National Wildlife Refuge is a U.S. Fish and Wildlife Service facili
 > This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
 
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
 ## Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[LetterToDougMcqueenSupportingN_1986_06_27]]
@@ -75,3 +78,4 @@ Buenos Aires National Wildlife Refuge is a U.S. Fish and Wildlife Service facili
 - [[DesertFishesRecoveryTeamMeetin_13708]]
 - [[DesertFishesRecoveryTeamMeetin_13916]]
 - [[SamplingAtAsuKarstenGolfCourse_19435]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]

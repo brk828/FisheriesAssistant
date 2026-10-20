@@ -74,6 +74,9 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
 > -- *[[WrittenCommentsOnSupplementToD_20523]]*
 
+> This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
+> -- *[[SonoranDesertExpertsWorkshop_13543]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[CorrespondenceRegardingDesertF_12709]]
@@ -121,3 +124,4 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 - [[ProposalBiologicallySensitiveA_16496]]
 - [[NitrogenAndPhosphorousDynamics_17776]]
 - [[WrittenCommentsOnSupplementToD_20523]]
+- [[SonoranDesertExpertsWorkshop_13543]]

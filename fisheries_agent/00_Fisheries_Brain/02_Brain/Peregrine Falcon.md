@@ -68,6 +68,9 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 > This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
 > -- *[[BiologicalOpinionForTheSanBern_13329]]*
 
+> This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
+> -- *[[GilasanFranciscoRiversResource_18256]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -94,3 +97,4 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[BiologicalOpinionForTheSanBern_13329]]
+- [[GilasanFranciscoRiversResource_18256]]

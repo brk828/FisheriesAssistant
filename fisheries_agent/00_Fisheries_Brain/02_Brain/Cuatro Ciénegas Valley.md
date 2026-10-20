@@ -20,6 +20,10 @@ auto_enriched: true
 > **Note for researchers**: This document should be treated as **metadata and provenance context** for the eventual special issue of *Publicaciones Biológicas* on **[[Cuatro Ciénegas Valley]]** fish and aquatic bioecology, rather than as a source of primary ichthyological data. Actual species-level...
 > -- *[[NoticeToContributorsSymposiumO_1994_01_28]]*
 
+> This document contains two pieces of correspondence from September 1987 regarding the proposed "Fraccionamiento Campestre Las Tortugas" (Las Tortugas Country Subdivision) development near [[Cuatro Ciénegas]], [[Coahuila]], [[Mexico]]. The first letter (September 10, 1987) from Bertha Laura G. de...
+> -- *[[SaleOfLandInLasTortugasNearThe_12870]]*
+
 ## Mentioned In
 - [[EstudioPreliminarDeLaEntomofau_20119]]
 - [[NoticeToContributorsSymposiumO_1994_01_28]]
+- [[SaleOfLandInLasTortugasNearThe_12870]]

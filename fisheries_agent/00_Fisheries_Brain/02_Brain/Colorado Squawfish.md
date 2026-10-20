@@ -263,6 +263,45 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
 
+> This combined project report documents six interrelated studies examining the effects of [[Aspinall Unit]] reservoir operations on endangered fish populations in the [[Gunnison River]] and [[Colorado River]] systems during FY 1993. The studies focused on three federally endangered species:...
+> -- *[[AFiveYearStudyToInvestigateThe_11212]]*
+
+> This document is a draft Long Range Plan (dated October 3, 1991) for the Recovery Implementation Program targeting four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail Chub]], and [[Razorback Sucker]]. The plan outlines a...
+> -- *[[ExtensionOfReviewPeriodForTheL_11397]]*
+
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
+> This document presents the Fiscal Year 1998 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program's established annual budget for FY 98 is $3.18 million (a 3.0% increase over FY 97), with total funding including...
+> -- *[[FiscalYearWorkPlan_11743]]*
+
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
+> The [[Sacramento Squawfish]] (*Ptychocheilus grandis*) is a large native minnow endemic to California's [[Sacramento-San Joaquin River System]] and select coastal drainages. Historically the top fish predator in its ecosystem, it now coexists with introduced predatory species including [[Smallmouth...
+> -- *[[TheSacramentoSquawfish_13255]]*
+
+> This study examined movements of [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] within [[Grand Canyon]], Arizona from October 1990 through November 1993, evaluating effects of [[Glen Canyon Dam]] operations on movement patterns. Using radiotelemetry (75 radio-tagged adults) and PIT-tag...
+> -- *[[MovementOfHumpbackChubInTheCol_13639]]*
+
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
+> This 1994 management proposal addresses the severe impacts of [[Glen Canyon Dam]] operations on native fish populations in [[Grand Canyon]]. The 1963 dam closure fundamentally altered downstream flow regimes, thermal characteristics, and sediment transport dynamics, resulting in extirpation of...
+> -- *[[ManagementOfDischargeTemperatu_15927]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This FY 1993 annual report documents ongoing drift-net sampling to evaluate [[Colorado Squawfish]] (*Ptychocheilus lucius*) larval production in the [[Colorado River]] in response to flow manipulations from the [[Aspinall Unit]]. Principal investigators Leo Lentsch and Melissa Trammell from the...
+> -- *[[AspinalUnitStudiesEvaluationOf_20259]]*
+
+> This article describes conservation efforts in Colorado to save four unique big-river fish species found nowhere else on Earth: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Humpback Sucker]] (*Xyrauchen texanus*)....
+> -- *[[SavingColoradosBigRiverFish_20737]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -535,3 +574,16 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[BeaverScoping_18972]]
 - [[SamplingAtAsuKarstenGolfCourse_19435]]
+- [[AFiveYearStudyToInvestigateThe_11212]]
+- [[ExtensionOfReviewPeriodForTheL_11397]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[DraftFiveyearRoadMap_11579]]
+- [[FiscalYearWorkPlan_11743]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]
+- [[TheSacramentoSquawfish_13255]]
+- [[MovementOfHumpbackChubInTheCol_13639]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]
+- [[ManagementOfDischargeTemperatu_15927]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[AspinalUnitStudiesEvaluationOf_20259]]
+- [[SavingColoradosBigRiverFish_20737]]

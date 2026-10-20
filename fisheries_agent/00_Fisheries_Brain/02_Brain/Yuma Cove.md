@@ -47,6 +47,15 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 > This Bureau of Reclamation memorandum documents the January 10, 1991 Native Fish Work Group meeting regarding ongoing efforts to restore [[Razorback Sucker]] populations in [[Lake Mohave]]. The project involves fish renovation of [[Yuma Cove]], introduction of mature razorback suckers for spawning,...
 > -- *[[ResultsOfTheNativeFishWorkGrou_15025]]*
 
+> This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
+> -- *[[EnvironmentalAssessmentForNati_13228]]*
+
+> This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
+> -- *[[ChronologyOfYumaCoveActivities_15028]]*
+
+> This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
+> -- *[[RazorbackSuckerMonitoringInLak_17016]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -75,3 +84,6 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
 - [[MovementsOfAdultRazorbackSucke_12585]]
 - [[ResultsOfTheNativeFishWorkGrou_15025]]
+- [[EnvironmentalAssessmentForNati_13228]]
+- [[ChronologyOfYumaCoveActivities_15028]]
+- [[RazorbackSuckerMonitoringInLak_17016]]

@@ -14,6 +14,10 @@ Pima County is located in southeastern Arizona and contains the Buenos Aires Nat
 > This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
 > -- *[[MasterPlanForBuenosAiresWildli_13323]]*
 
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
 ## Mentioned In
 - [[PlanningEffortNearItsConclusio_11515]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
+- [[CurrentStatusOfEndangeredThrea_12695]]

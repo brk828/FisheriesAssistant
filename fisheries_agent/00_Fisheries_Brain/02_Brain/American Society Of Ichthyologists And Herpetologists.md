@@ -23,6 +23,9 @@ The American Society of Ichthyologists and Herpetologists (ASIH) is a profession
 > - A discussion during the **1989 Desert Fishes Council meeting** in Albuquerque catalyzed the effort to form a new binational collaborative group for Mexican freshwater fish research. - Discussions followed a formal panel on **Mexican research permit regulations**, which were identified as a bure...
 > -- *[[NewDesertFishInterestGroupForm_1990_01_09]]*
 
+> This research proposal by James Everett Deacon (Associate Professor, Nevada Southern University) seeks funding to conduct comprehensive limnological surveys of spring systems in Nevada, particularly the [[Pluvial White River System]], [[Moapa Valley]], and [[Ash Meadows]]. The proposal addresses...
+> -- *[[TheLimnologyOfDesertSprings_13994]]*
+
 ## Mentioned In
 - [[CommentsOnProceduresForStockin_1994_01_27]]
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
@@ -34,3 +37,4 @@ The American Society of Ichthyologists and Herpetologists (ASIH) is a profession
 - [[ReportOfTheCommitteeOnNamesOfF_17233]]
 - [[SoutheasternSocietyOfIchthyolo_20882]]
 - [[SuggestionsRegardingDfcAgencyR_1991_11_26]]
+- [[TheLimnologyOfDesertSprings_13994]]

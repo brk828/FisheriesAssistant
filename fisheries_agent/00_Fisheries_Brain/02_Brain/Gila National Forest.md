@@ -35,6 +35,9 @@ The Gila National Forest is a protected forest area in New Mexico that encompass
 > This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
 > -- *[[UsFishAndWildlifeServicesAbili_20453]]*
 
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11563]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -52,3 +55,4 @@ The Gila National Forest is a protected forest area in New Mexico that encompass
 - [[EndangeredAndThreatenedWildlif_11556]]
 - [[ListOfAnimalSpeciesInArizonaTh_11649]]
 - [[UsFishAndWildlifeServicesAbili_20453]]
+- [[CurrentStatusOfEndangeredThrea_12695]]

@@ -14,7 +14,11 @@ auto_enriched: true
 > This 1918 taxonomic description by [[John Otterbein Snyder]] documents the fish fauna of the [[Mohave River]] in southern California, identifying a single species belonging to the genus *[[Siphateles]]*. The author describes *Siphateles mohavensis* as a new species distinct from geographically...
 > -- *[[TheFishesOfMohaveRiverCaliforn_21253]]*
 
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
 ## Mentioned In
 - [[HomeRangeAndHabitatOfTheDesert_15613]]
 - [[ConservationGeneticsInTheManag_20087]]
 - [[TheFishesOfMohaveRiverCaliforn_21253]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]

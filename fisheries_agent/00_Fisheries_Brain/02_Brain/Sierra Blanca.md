@@ -14,6 +14,10 @@ Sierra Blanca is a geographic landmark in eastern Arizona used to define the his
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[DraftLittleColoradoRiverSpined_11662]]

@@ -11,8 +11,12 @@ A "Muddy River" in ichthyological and aquatic ecological contexts refers to a ri
 > This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
 > -- *[[UseOfHydroelectricDamsToContro_11232]]*
 
+> This final report (Contract 14-06-300-2210, 1971) presents an integrated study of chemistry, hydrobiology, and hydrodynamics in [[Lake Mead]], conducted by the University of Arizona for the U.S. Bureau of Reclamation. The investigation examined eight sampling stations across the reservoir's four...
+> -- *[[MicronutrientsAndBiologicalPat_11436]]*
+
 ## Mentioned In
 - [[DistributionOfFishesInTheSanRa_1980_01_30]]
 - [[ProposalToChangeVirginRiverChu_1994_05_27]]
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[UseOfHydroelectricDamsToContro_11232]]
+- [[MicronutrientsAndBiologicalPat_11436]]

@@ -74,6 +74,9 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 > This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
 > -- *[[BureauOfReclamationAnnouncesPu_20788]]*
 
+> This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
+> -- *[[GlenCanyonEnvironmentalStudies_19734]]*
+
 ## Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
@@ -119,3 +122,4 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[BureauOfReclamationAnnouncesPu_20788]]
+- [[GlenCanyonEnvironmentalStudies_19734]]

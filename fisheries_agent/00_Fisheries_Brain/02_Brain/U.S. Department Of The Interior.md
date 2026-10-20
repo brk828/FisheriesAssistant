@@ -14,7 +14,11 @@ auto_enriched: true
 > This document comprises Pima County, Arizona's Resolution No. 1998-250 establishing the [[Sonoran Desert Conservation Plan]] (SDCP), correspondence soliciting expert input on species selection, and a preliminary species list for multi-species habitat conservation planning. Passed December 3, 1998,...
 > -- *[[AResolutionOfTheBoardOfSupervi_18593]]*
 
+> This 1968 manual from the [[Bureau of Sport Fisheries and Wildlife]] provides comprehensive guidance on herbicide use for vegetation control in fish and wildlife management programs. Issued by the [[U.S. Department of the Interior]] under Secretary [[Stewart L. Udall]], the document establishes...
+> -- *[[ChemicalVegetationControlManua_12838]]*
+
 ## Mentioned In
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
 - [[AResolutionOfTheBoardOfSupervi_18593]]
+- [[ChemicalVegetationControlManua_12838]]

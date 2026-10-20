@@ -14,8 +14,12 @@ auto_enriched: true
 > This investigation by the [[Arizona Department of Environmental Quality]] documents water quality impacts from the [[Klondyke Tailings]] along [[Aravaipa Creek]] in [[Graham County]], Arizona. The tailings consist of 220,000 tons of milled ore rich in lead, zinc, copper, and silver situated within...
 > -- *[[TheKlondykeTailingsAndAravaipa_14554]]*
 
+> This 1917 U.S. Geological Survey report by A. T. Schwennesen documents the groundwater resources of [[San Simon Valley]], an 85-mile-long arid basin in southeastern Arizona and adjacent New Mexico. The valley, bounded by the [[Peloncillo Mountains]] to the east and the [[Chiricahua Mountains]],...
+> -- *[[GroundWaterInSanSimonValleyAri_11299]]*
+
 ## Mentioned In
 - [[MolluscaOfTheSouthwesternState_1918]]
 - [[WetCanyonTalussnailSonorellaMa_1992_04_10]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[TheKlondykeTailingsAndAravaipa_14554]]
+- [[GroundWaterInSanSimonValleyAri_11299]]

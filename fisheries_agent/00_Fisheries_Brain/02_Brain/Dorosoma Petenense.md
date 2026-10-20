@@ -32,6 +32,9 @@ Dorosoma petenense, commonly known as threadfin shad, is a euryhaline forage fis
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
 ## Mentioned In
 - [[AProvisionalCheckListOfTheFish_15941]]
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
@@ -41,3 +44,4 @@ Dorosoma petenense, commonly known as threadfin shad, is a euryhaline forage fis
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]

@@ -11,5 +11,9 @@ auto_enriched: true
 > **Cross-basin comparison**: The [[Big Blue River]] experienced less severe drought impact than the Neosho or Marais des Cygnes, and maintained relatively robust rough fish and forage fish populations (dominated by [[Red Shiner]], [[Sand Shiner]], and [[Gizzard Shad]]). The [[Caney River]], by con...
 > -- *[[SurveyOfFishPopulationsInStrea_13990]]*
 
+> Field observations and laboratory study documenting eggs and newly hatched fry of [[Shortnose Gar]] (*Lepisosteus platostomus*) collected from the [[Marias des Cygnes River]] in Miami County, Kansas on May 25, 1956. The study describes collection habitat, early developmental stages, and...
+> -- *[[NotesOnTheEarlyLifeHistoryOfLe_18548]]*
+
 ## Mentioned In
 - [[SurveyOfFishPopulationsInStrea_13990]]
+- [[NotesOnTheEarlyLifeHistoryOfLe_18548]]

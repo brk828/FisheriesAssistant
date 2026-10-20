@@ -14,6 +14,10 @@ auto_enriched: true
 > This 1957 technical report documents a comprehensive survey of bass tapeworm ([[Proteocephalus ambloplitis]]) infections across 124 lakes and ponds in southern [[New Hampshire]]. Conducted during 1955-1956 under the Dingell-Johnson Project F-8-R, the study examined 1,960 fish representing 12...
 > -- *[[TheIncidenceAndDistributionOfT_15429]]*
 
+> This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
+> -- *[[FishParasites_20804]]*
+
 ## Mentioned In
 - [[StockingWarmWaterFishMichiganF_14376]]
 - [[TheIncidenceAndDistributionOfT_15429]]
+- [[FishParasites_20804]]

@@ -35,6 +35,9 @@ The Chesapeake Bay is a major Atlantic estuarine system and historically signifi
 > This taxonomic paper describes two new species of parasitic crustaceans in the genus [[Argulus]] from the eastern United States. [[Argulus meehani]] was collected from [[Florida Gar]] ([[Lepisosteus platyrhynchus]]) in [[Everglades National Park]], Florida, while [[Argulus chesapeakensis]] was...
 > -- *[[TwoNewArgulidsCopepodaBranchur_18010]]*
 
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
 ## Mentioned In
 - [[AnEvaluationOfStripedBassAngli_1969]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -48,3 +51,4 @@ The Chesapeake Bay is a major Atlantic estuarine system and historically signifi
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[ALiteratureReviewOfTheEffectsO_20478]]
 - [[TwoNewArgulidsCopepodaBranchur_18010]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]

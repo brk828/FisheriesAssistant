@@ -32,6 +32,15 @@ Sonora refers to a Mexican state located in northwestern Mexico along the Pacifi
 > This document is a research pre-proposal submitted in March 1993 by W.L. Minckley ([[Arizona State University]]), Salvador Contreras-Balderas ([[Universidad Autonoma de Nuevo Leon]]), and James P. Collins to the Mexico-United States Foundation for Science. The proposal seeks $94,000 over two years...
 > -- *[[ProposalBiologicallySensitiveA_16496]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
+> This 1948 report documents the introduction and establishment of [[Kokanee]] (Oncorhynchus nerka kennerlyi), a landlocked form of [[Pacific Sockeye Salmon]], into California waters beginning in 1941. The [[Bureau of Fish Conservation]] initiated experimental plantings in [[Salt Springs Reservoir]]...
+> -- *[[KokaneeInCalifornia_18108]]*
+
 ## Mentioned In
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
 - [[IdentificaciónDelimitaciónDeLa_13133]]
@@ -43,3 +52,6 @@ Sonora refers to a Mexican state located in northwestern Mexico along the Pacifi
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
 - [[ProposalBiologicallySensitiveA_16496]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]
+- [[KokaneeInCalifornia_18108]]

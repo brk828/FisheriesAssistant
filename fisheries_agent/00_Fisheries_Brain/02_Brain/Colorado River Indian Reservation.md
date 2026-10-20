@@ -14,8 +14,16 @@ The Colorado River Indian Reservation represents a significant geographic and ju
 > This March 1987 correspondence from the U.S. Fish and Wildlife Service Regional Director to the Arizona Game and Fish Department outlines a comprehensive reintroduction program for threatened and endangered native fishes in Arizona waters. The program focuses on [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[RecoveryEffortsForBonytailChub_11837]]*
 
+> This biological opinion (2-21-94-F-244) evaluates the U.S. Fish and Wildlife Service's program to stock catchable-size (8-10 inch) [[Rainbow Trout]] and [[Channel Catfish]] into the lower [[Colorado River]] from [[Hoover Dam]] to the International Border. The consultation addresses potential...
+> -- *[[SummaryBiologicalOpinionOnUsFi_11657]]*
+
+> This memorandum documents the capture of a juvenile [[Razorback Sucker]] (*Xyrauchen texanus*) from a lateral canal on the [[Colorado River Indian Reservation]] near [[Parker, Arizona]] on January 12, 1980. The specimen was captured by a reservation resident using a chicken wire seine in a culvert...
+> -- *[[CaptureOfASuspectedJuvenileRaz_19058]]*
+
 ## Mentioned In
 - [[AnotherRazorbackCaughtInCanal_18270]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_24]]
 - [[SummaryOfCaliforniaFisheriesAc_1962]]
 - [[RecoveryEffortsForBonytailChub_11837]]
+- [[SummaryBiologicalOpinionOnUsFi_11657]]
+- [[CaptureOfASuspectedJuvenileRaz_19058]]

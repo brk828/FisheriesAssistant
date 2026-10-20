@@ -161,6 +161,15 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 > This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
 > -- *[[LakeMohaveSamplingMarch_20326]]*
 
+> This document presents the Fiscal Year 1998 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program's established annual budget for FY 98 is $3.18 million (a 3.0% increase over FY 97), with total funding including...
+> -- *[[FiscalYearWorkPlan_11743]]*
+
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -340,3 +349,6 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 - [[BonytailrazorbackSuckerCoopera_17048]]
 - [[SamplingAtAsuKarstenGolfCourse_19435]]
 - [[LakeMohaveSamplingMarch_20326]]
+- [[FiscalYearWorkPlan_11743]]
+- [[FiscalYearProgramGuidance_11762]]
+- [[GlenCanyonNationalRecreationAr_18334]]

@@ -17,8 +17,12 @@ Sheehy Spring is a desert spring locality within the Gila River basin (likely in
 > This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
 > -- *[[StatusReportForNaturalAndIntro_12972]]*
 
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
 ## Mentioned In
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
 - [[ReAsuTopminnowPopulations_12698]]
 - [[StatusOfTheGilaTopminnowAndIts_13684]]
 - [[StatusReportForNaturalAndIntro_12972]]
+- [[CurrentStatusOfEndangeredThrea_12695]]

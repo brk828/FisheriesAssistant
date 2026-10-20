@@ -50,6 +50,12 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 > This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
 > -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
 
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This research proposal by James Everett Deacon (Associate Professor, Nevada Southern University) seeks funding to conduct comprehensive limnological surveys of spring systems in Nevada, particularly the [[Pluvial White River System]], [[Moapa Valley]], and [[Ash Meadows]]. The proposal addresses...
+> -- *[[TheLimnologyOfDesertSprings_13994]]*
+
 ## Mentioned In
 - [[DistributionOfFishesInTheSanRa_1980_01_30]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -66,3 +72,5 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 - [[GeneticVariationAmongLowerColo_12776]]
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[BiologicalOpinionOnTheEffectsO_11915]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[TheLimnologyOfDesertSprings_13994]]

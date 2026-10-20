@@ -20,9 +20,13 @@ auto_enriched: true
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> This document reports the confirmed reproduction of illegally introduced [[Northern Pike]] (*Esox lucius*) in [[Parker Canyon Lake]], Arizona. First detected in summer 1997, juvenile pike were sampled by September 1998, confirming successful reproduction. The 124-acre lake southwest of [[Sierra...
+> -- *[[ReproductionOfNorthernPikeConf_20180]]*
+
 ## Mentioned In
 - [[GroundWaterGeomorphicProcesses_1988_08_28]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[ReContinuationOfTheUsArmysSanP_11808]]
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
 - [[BeaverScoping_18972]]
+- [[ReproductionOfNorthernPikeConf_20180]]

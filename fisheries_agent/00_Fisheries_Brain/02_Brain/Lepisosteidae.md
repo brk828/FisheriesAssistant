@@ -29,6 +29,9 @@ Lepisosteidae, commonly known as gars, is a family of primitive freshwater and b
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> Field observations and laboratory study documenting eggs and newly hatched fry of [[Shortnose Gar]] (*Lepisosteus platostomus*) collected from the [[Marias des Cygnes River]] in Miami County, Kansas on May 25, 1956. The study describes collection habitat, early developmental stages, and...
+> -- *[[NotesOnTheEarlyLifeHistoryOfLe_18548]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -46,3 +49,4 @@ Lepisosteidae, commonly known as gars, is a family of primitive freshwater and b
 - [[UnexploitedPotentialsOfOurFres_1958]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[NotesOnTheEarlyLifeHistoryOfLe_18548]]

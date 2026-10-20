@@ -185,6 +185,30 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 > This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
 > -- *[[FisheryManagementForTheSanBern_18979]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
+> This U.S. Fish and Wildlife Service biological opinion, issued December 23, 1992, evaluates effects of the proposed [[Canelo Pass]] to [[Patagonia]] segment of the [[Arizona Trail]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis) in [[Redrock Canyon]], [[Santa Cruz County]],...
+> -- *[[BiologicalOpinionThatTheCanelo_11877]]*
+
+> This 1968 manual from the [[Bureau of Sport Fisheries and Wildlife]] provides comprehensive guidance on herbicide use for vegetation control in fish and wildlife management programs. Issued by the [[U.S. Department of the Interior]] under Secretary [[Stewart L. Udall]], the document establishes...
+> -- *[[ChemicalVegetationControlManua_12838]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
+> This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
+> -- *[[LakePowellFisheriesInvestigati_14595]]*
+
+> This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
+> -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
+
+> This document reports the confirmed reproduction of illegally introduced [[Northern Pike]] (*Esox lucius*) in [[Parker Canyon Lake]], Arizona. First detected in summer 1997, juvenile pike were sampled by September 1998, confirming successful reproduction. The 124-acre lake southwest of [[Sierra...
+> -- *[[ReproductionOfNorthernPikeConf_20180]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -431,3 +455,11 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 - [[VerticalDistributionOfFishesRe_18202]]
 - [[BeaverScoping_18972]]
 - [[FisheryManagementForTheSanBern_18979]]
+- [[DraftLittleColoradoRiverSpined_11662]]
+- [[BiologicalOpinionThatTheCanelo_11877]]
+- [[ChemicalVegetationControlManua_12838]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]
+- [[LakePowellFisheriesInvestigati_14595]]
+- [[TheUseOfChannelCatfishAsSportF_18662]]
+- [[ReproductionOfNorthernPikeConf_20180]]

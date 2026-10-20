@@ -101,6 +101,15 @@ The White River refers to a river system in the south-central United States (pri
 > This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
 > -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
 
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
+> This article describes conservation efforts in Colorado to save four unique big-river fish species found nowhere else on Earth: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Humpback Sucker]] (*Xyrauchen texanus*)....
+> -- *[[SavingColoradosBigRiverFish_20737]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -153,3 +162,6 @@ The White River refers to a river system in the south-central United States (pri
 - [[DraftRecoveryImplementationPro_11643]]
 - [[CaseStudyColoradoRiverSqauwfis_16101]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[DraftFiveyearRoadMap_11579]]
+- [[SavingColoradosBigRiverFish_20737]]

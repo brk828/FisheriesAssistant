@@ -35,6 +35,9 @@ The Missouri River is a major North American river system of significant importa
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
+> -- *[[RainbowSmeltProposalReview_17848]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -55,3 +58,4 @@ The Missouri River is a major North American river system of significant importa
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
 - [[WhatHaveICaught_12929]]
+- [[RainbowSmeltProposalReview_17848]]

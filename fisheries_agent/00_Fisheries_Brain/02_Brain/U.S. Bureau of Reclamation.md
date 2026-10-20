@@ -68,6 +68,18 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
 > -- *[[BonytailrazorbackSuckerCoopera_17048]]*
 
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
+> -- *[[RazorbackSuckerMonitoringInLak_17016]]*
+
+> This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
+> -- *[[CommercialFisheriesPotentialOf_18584]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -101,3 +113,7 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
 - [[HabitatUseByHumpbackChubGilaCy_11575]]
 - [[BonytailrazorbackSuckerCoopera_17048]]
+- [[FiscalYearProgramGuidance_11762]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[RazorbackSuckerMonitoringInLak_17016]]
+- [[CommercialFisheriesPotentialOf_18584]]

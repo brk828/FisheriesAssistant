@@ -53,6 +53,9 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 > Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
 > -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
 
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AsianTapewormEradicationStrate_13118]]
@@ -91,3 +94,4 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 - [[BiologicalOpinionForTheSanBern_13329]]
 - [[DesertFishesRecoveryTeamMeetin_13708]]
 - [[DesertFishesRecoveryTeamMeetin_13916]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]

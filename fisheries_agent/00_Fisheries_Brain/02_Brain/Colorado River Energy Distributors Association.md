@@ -17,8 +17,12 @@ auto_enriched: true
 > This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
 > -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
 
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
 ## Mentioned In
 - [[NoticeOfAvailabilityOfDraftAgr_21027]]
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[FiscalYearProgramGuidance_11762]]

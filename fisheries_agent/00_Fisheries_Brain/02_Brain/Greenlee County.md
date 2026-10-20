@@ -17,7 +17,11 @@ Greenlee County is a county in Arizona that contains portions of the Blue River 
 > This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
 > -- *[[BiologicalOpinionForReroutingO_11747]]*
 
+> This August 12, 1991 letter from the [[U.S. Fish and Wildlife Service]] to the [[U.S. Forest Service]] provides formal comments on the proposed [[Pigeon Creek Lake]] project in [[Greenlee County]], [[Arizona]]. The Service raises significant concerns about the project's potential impacts to...
+> -- *[[ReRequestForCommentsRegardingT_15640]]*
+
 ## Mentioned In
 - [[SummaryBiologicalOpinionForRep_11720]]
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[BiologicalOpinionForReroutingO_11747]]
+- [[ReRequestForCommentsRegardingT_15640]]

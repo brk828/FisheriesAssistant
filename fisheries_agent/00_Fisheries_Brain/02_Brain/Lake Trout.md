@@ -53,6 +53,9 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 > This 1952 field guide addresses the practical challenges of identifying salmonid game fishes in [[New York State]] waters. The document provides diagnostic characters for six species: [[Brook Trout]] (*Salvelinus fontinalis*), [[Brown Trout]] (*Salmo trutta*), [[Rainbow Trout]] (*Salmo...
 > -- *[[TroutOrSalmon_19215]]*
 
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -108,3 +111,4 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 - [[AssessmentOfBiasAndPrecisionAm_2023]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
 - [[TroutOrSalmon_19215]]
+- [[AssessmentOfTheNeedForForageEn_17853]]

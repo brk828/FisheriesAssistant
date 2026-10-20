@@ -41,6 +41,15 @@ auto_enriched: true
 > This document summarizes a three-day workshop (November 8-10, 1999) at Saguaro Lake Ranch convened to evaluate a proposed temperature control device (TCD) for [[Glen Canyon Dam]]. The workshop brought together scientists, resource managers, and conservationists to provide input on research and...
 > -- *[[GlenCanyonDamTemperatureContro_17019]]*
 
+> This document is a draft Long Range Plan (dated October 3, 1991) for the Recovery Implementation Program targeting four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail Chub]], and [[Razorback Sucker]]. The plan outlines a...
+> -- *[[ExtensionOfReviewPeriodForTheL_11397]]*
+
+> This draft appraisal report, dated June 14, 1994, evaluates methods to study and implement temperature controls at [[Glen Canyon Dam]] for the recovery of native and endangered fishes below the dam. Cold water discharges (8-10°C year-round) from the dam's deep hypolimnetic releases severely limit...
+> -- *[[GlenCanyonDamDischargeTemperat_11486]]*
+
+> This document presents the Fiscal Year 1998 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program's established annual budget for FY 98 is $3.18 million (a 3.0% increase over FY 97), with total funding including...
+> -- *[[FiscalYearWorkPlan_11743]]*
+
 ## Mentioned In
 - [[FyProjectReportWetlandsRestora_1993]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
@@ -55,3 +64,6 @@ auto_enriched: true
 - [[DraftLongRangePlan_11590]]
 - [[DraftbonytailChubGilaElegans_14696]]
 - [[GlenCanyonDamTemperatureContro_17019]]
+- [[ExtensionOfReviewPeriodForTheL_11397]]
+- [[GlenCanyonDamDischargeTemperat_11486]]
+- [[FiscalYearWorkPlan_11743]]

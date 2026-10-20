@@ -14,8 +14,12 @@ auto_enriched: true
 > Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
 > -- *[[FieldNotesOfTripToSanBernardin_13172]]*
 
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
 ## Mentioned In
 - [[ReportOfEndangeredSpeciesColle_1993_01_07]]
 - [[SpeciesAccountRhinichthysOscul_13165]]
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
+- [[BiologicalEvaluationOfTheAppro_15074]]

@@ -14,7 +14,11 @@ The Northern Squawfish (*Ptychocheilus oregonensis*) is a large native cyprinid 
 > - **Family:** [[Cyprinidae]] — squawfish are the largest native cyprinids in North America. - **Four recognized species**, each associated with a major drainage basin: - **Colorado squawfish** (*P. lucius*) — largest species, individuals reported up to **36 kg**; range drastically reduced by damm...
 > -- *[[TheImpactOfSquawfishOnSalmonid_1981]]*
 
+> The [[Sacramento Squawfish]] (*Ptychocheilus grandis*) is a large native minnow endemic to California's [[Sacramento-San Joaquin River System]] and select coastal drainages. Historically the top fish predator in its ecosystem, it now coexists with introduced predatory species including [[Smallmouth...
+> -- *[[TheSacramentoSquawfish_13255]]*
+
 ## Mentioned In
 - [[LifeHistoryNotesRelevantToTheC_11254]]
 - [[ReferencesRelatedToRareFishesA_1987_04_12]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
+- [[TheSacramentoSquawfish_13255]]

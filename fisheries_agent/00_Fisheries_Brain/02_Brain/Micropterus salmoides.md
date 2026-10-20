@@ -62,6 +62,9 @@ auto_enriched: true
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -96,3 +99,4 @@ auto_enriched: true
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[BeaverScoping_18972]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]

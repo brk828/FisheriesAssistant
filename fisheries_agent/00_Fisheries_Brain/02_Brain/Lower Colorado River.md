@@ -98,6 +98,12 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 > This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
 > -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
 
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
+> This document is a critical review letter dated March 10, 1993, from C.O. Minckley (U.S. Fish and Wildlife Service, Parker, AZ) to Bill Persons (Arizona Game and Fish Department) regarding a propagation study plan for [[Humpback Chub]] (*Gila cypha*) developed by Diann Smith. The reviewer expresses...
+> -- *[[ReviewOfHumpbackChubPropagatio_18515]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
@@ -190,3 +196,5 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 - [[PreliminaryDraftManagementPlan_16433]]
 - [[AllozymicVariationInDesertPupf_19162]]
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[DraftLowerColoradoRiverOperati_13907]]
+- [[ReviewOfHumpbackChubPropagatio_18515]]

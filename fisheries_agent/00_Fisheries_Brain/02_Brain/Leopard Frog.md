@@ -14,8 +14,12 @@ The Leopard Frog, likely referring to the native *Rana pipiens* or related ranid
 > - **[[Conservation Genetics]] of threatened fishes** (Talk 1, 14–19): genic diversity, mitochondrial DNA analysis of [[Cutthroat Trout]] subspecies, genetic status of the [[Pecos Pupfish]] and [[Pecos Gambusia]], heterozygosity/fitness in [[Sonora Topminnow]] (*Poeciliopsis occidentalis*), and sa...
 > -- *[[TwentiethAnnualSymposiumOfTheD_1988_11_16]]*
 
+> This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
+> -- *[[GilasanFranciscoRiversResource_18256]]*
+
 ## Mentioned In
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
 - [[LetterOnGilaTopminnowHabitatAn_1992_06_11]]
 - [[PupfishPopulationSupplementPeo_1988_09_20]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
+- [[GilasanFranciscoRiversResource_18256]]

@@ -29,6 +29,9 @@ The Colorado River Recovery Program is a comprehensive, federally-coordinated co
 > This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
 > -- *[[FyReportingAndAccounting_21020]]*
 
+> This FY 1993 annual report documents ongoing drift-net sampling to evaluate [[Colorado Squawfish]] (*Ptychocheilus lucius*) larval production in the [[Colorado River]] in response to flow manipulations from the [[Aspinall Unit]]. Principal investigators Leo Lentsch and Melissa Trammell from the...
+> -- *[[AspinalUnitStudiesEvaluationOf_20259]]*
+
 ## Mentioned In
 - [[ActingProgramDirector_1990_03_29]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -57,3 +60,4 @@ The Colorado River Recovery Program is a comprehensive, federally-coordinated co
 - [[YampaRiverChannelMonitoring_1993]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[FyReportingAndAccounting_21020]]
+- [[AspinalUnitStudiesEvaluationOf_20259]]

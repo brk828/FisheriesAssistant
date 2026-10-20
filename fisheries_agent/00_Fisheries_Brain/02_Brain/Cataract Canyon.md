@@ -38,6 +38,12 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 > This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
 > -- *[[IntroductionOfRainbowSmeltInto_17850]]*
 
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
 ## Mentioned In
 - [[FeedingActivityAndSpawning_11266]]
 - [[FyAnnualProjectReportGilaTaxon_1993_12_06]]
@@ -53,3 +59,5 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 - [[DraftbonytailChubGilaElegans_14696]]
 - [[DraftRecoveryImplementationPro_11643]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[DraftFiveyearRoadMap_11579]]

@@ -176,6 +176,12 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 > This report presents findings from the Globe-Miami National Prototype Groundwater Study, a collaborative investigation funded by the [[U.S. Environmental Protection Agency]] ($450,000), three active mining companies ($138,045), and the [[U.S. Bureau of Mines]] ($125,100). The study examined water...
 > -- *[[MiningActivitiesAndWaterQualit_21102]]*
 
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
+> -- *[[CommercialFisheriesPotentialOf_18584]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfChannelCatfishIc_14101]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -271,3 +277,5 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 - [[NoticeOfViolationOfTheEsaConce_18645]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[MiningActivitiesAndWaterQualit_21102]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[CommercialFisheriesPotentialOf_18584]]

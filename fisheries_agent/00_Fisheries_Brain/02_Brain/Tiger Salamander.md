@@ -29,6 +29,12 @@ The Tiger Salamander (*Ambystoma tigrinum*) is an aquatic amphibian whose larval
 > This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
 > -- *[[ArizonaComparativeRiskProjectE_15833]]*
 
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
 ## Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[CommissionPresentationOnCaptiv_1994_12_08]]
@@ -41,3 +47,5 @@ The Tiger Salamander (*Ambystoma tigrinum*) is an aquatic amphibian whose larval
 - [[TrophicInterrelationsAmongIntr_1982]]
 - [[SummaryOfRazorbackSuckerCollec_19428]]
 - [[ArizonaComparativeRiskProjectE_15833]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]

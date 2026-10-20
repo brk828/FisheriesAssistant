@@ -50,6 +50,9 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 > This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
 > -- *[[NativeRockyMountainTroutAndSto_17773]]*
 
+> This 1994 U.S. District Court opinion addresses a legal challenge by the [[Idaho Department of Fish and Game]] (IDFG) against the [[National Marine Fisheries Service]] (NMFS) regarding the operation of the [[Federal Columbia River Power System]] (FCRPS) and its impacts on three listed [[Snake...
+> -- *[[SalmonDecision_19385]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[EvaluationOfSpringChinookMigra_1969]]
@@ -71,3 +74,4 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 - [[SalmonAndSteelheadInvestigatio_12147]]
 - [[ThePleistoceneItsClimateCauses_14987]]
 - [[NativeRockyMountainTroutAndSto_17773]]
+- [[SalmonDecision_19385]]

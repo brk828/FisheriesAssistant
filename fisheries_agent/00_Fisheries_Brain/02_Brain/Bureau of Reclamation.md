@@ -206,6 +206,27 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
 > -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
 
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
+> This document presents the Fiscal Year 1998 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program's established annual budget for FY 98 is $3.18 million (a 3.0% increase over FY 97), with total funding including...
+> -- *[[FiscalYearWorkPlan_11743]]*
+
+> This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
+> -- *[[EnvironmentalAssessmentForNati_13228]]*
+
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
+> This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
+> -- *[[ChronologyOfYumaCoveActivities_15028]]*
+
+> This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
+> -- *[[ProposedActionPlanForReintrodu_19433]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -334,3 +355,10 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[GlenCanyonDamTemperatureContro_17019]]
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[DraftFiveyearRoadMap_11579]]
+- [[FiscalYearWorkPlan_11743]]
+- [[EnvironmentalAssessmentForNati_13228]]
+- [[DraftLowerColoradoRiverOperati_13907]]
+- [[ChronologyOfYumaCoveActivities_15028]]
+- [[ProposedActionPlanForReintrodu_19433]]

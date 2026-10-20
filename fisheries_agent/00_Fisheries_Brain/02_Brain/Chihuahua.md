@@ -17,9 +17,13 @@ auto_enriched: true
 > This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
 > -- *[[APetitionPursuantToArticleOfTh_17637]]*
 
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
 ## Mentioned In
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[DouglasMexicanTemperaturePreci_12378]]
 - [[LectureNotesFromBiologyClass_13784]]
 - [[APetitionPursuantToArticleOfTh_17637]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]

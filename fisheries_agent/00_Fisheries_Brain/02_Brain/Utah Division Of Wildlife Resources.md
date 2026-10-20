@@ -23,6 +23,18 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 > This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
 > -- *[[IntroductionOfRainbowSmeltInto_17850]]*
 
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
+> -- *[[RainbowSmeltProposalReview_17848]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This FY 1993 annual report documents ongoing drift-net sampling to evaluate [[Colorado Squawfish]] (*Ptychocheilus lucius*) larval production in the [[Colorado River]] in response to flow manipulations from the [[Aspinall Unit]]. Principal investigators Leo Lentsch and Melissa Trammell from the...
+> -- *[[AspinalUnitStudiesEvaluationOf_20259]]*
+
 ## Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[CaptureOfRareFishInLakePowell_1988_08_18]]
@@ -42,3 +54,7 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 - [[WildTroutVSStockedTroutAStateM_20563]]
 - [[DraftConservationStrategyVirgi_11659]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[RainbowSmeltProposalReview_17848]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[AspinalUnitStudiesEvaluationOf_20259]]

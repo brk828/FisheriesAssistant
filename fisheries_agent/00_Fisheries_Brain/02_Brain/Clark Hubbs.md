@@ -14,9 +14,13 @@ I appreciate your question, but I must be honest that based on the information p
 > - **Reproductive timing observations**: Reproductive behavior in laboratory-held individuals was observed on **22 January** and again on **6 and 26 September (1965)**, each event followed by hatching of at least one young after approximately **three weeks**. - **Field collection data**: 36 indivi...
 > -- *[[LifeHistoryStudiesOfThePahrump_1964_01_01]]*
 
+> This research proposal by James Everett Deacon (Associate Professor, Nevada Southern University) seeks funding to conduct comprehensive limnological surveys of spring systems in Nevada, particularly the [[Pluvial White River System]], [[Moapa Valley]], and [[Ash Meadows]]. The proposal addresses...
+> -- *[[TheLimnologyOfDesertSprings_13994]]*
+
 ## Mentioned In
 - [[CulturingFruitFliesDrosophilaA_14269]]
 - [[LifeHistoryStudiesOfThePahrump_1964_01_01]]
 - [[NotesOnTheDistributionOfBlackb_14184]]
 - [[RecordsOfMenidiaBery_13348]]
 - [[ReviewLetterStrawberryValleyEn_14234]]
+- [[TheLimnologyOfDesertSprings_13994]]

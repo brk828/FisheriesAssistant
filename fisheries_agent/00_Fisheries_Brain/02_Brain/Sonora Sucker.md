@@ -62,6 +62,15 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 > This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
 > -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
 
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -124,3 +133,6 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 - [[ListOfAnimalSpeciesInArizonaTh_11649]]
 - [[RazorbackSuckerXyauchenTexanus_13769]]
 - [[RazorbackSuckerXyrauchenTexanu_18008]]
+- [[BiologicalOpinionForTheBridgeC_11732]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]

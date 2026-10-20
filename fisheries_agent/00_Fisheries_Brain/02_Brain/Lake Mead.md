@@ -182,6 +182,30 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
 > -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
 
+> This final report (Contract 14-06-300-2210, 1971) presents an integrated study of chemistry, hydrobiology, and hydrodynamics in [[Lake Mead]], conducted by the University of Arizona for the U.S. Bureau of Reclamation. The investigation examined eight sampling stations across the reservoir's four...
+> -- *[[MicronutrientsAndBiologicalPat_11436]]*
+
+> This draft appraisal report, dated June 14, 1994, evaluates methods to study and implement temperature controls at [[Glen Canyon Dam]] for the recovery of native and endangered fishes below the dam. Cold water discharges (8-10°C year-round) from the dam's deep hypolimnetic releases severely limit...
+> -- *[[GlenCanyonDamDischargeTemperat_11486]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This master's thesis by C. O. Minckley (University of Nevada, Las Vegas, August 1972) presents a comprehensive age and growth study of [[Largemouth Bass]] populations in [[Lake Mead]], Nevada-Arizona. The research analyzed 876 fish collected from three locations (Las Vegas Bay, Temple Bar, and...
+> -- *[[AgeAndGrowthObservationsOnTheL_18498]]*
+
+> This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
+> -- *[[GlenCanyonEnvironmentalStudies_19734]]*
+
+> This study documents the origin, distribution, and seasonal dynamics of oxygen-depleted waters in [[Lake Powell]], a large canyon-type reservoir on the [[Colorado Plateau]]. The reservoir exhibits two principal oxygen depletion problems affecting its fishery: (1) a shallow oxygen minimum layer...
+> -- *[[OxygenDepletedWatersOriginAndD_19797]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -317,3 +341,11 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[GlenCanyonDamTemperatureContro_17019]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[MicronutrientsAndBiologicalPat_11436]]
+- [[GlenCanyonDamDischargeTemperat_11486]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[AssessmentOfTheNeedForForageEn_17853]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[AgeAndGrowthObservationsOnTheL_18498]]
+- [[GlenCanyonEnvironmentalStudies_19734]]
+- [[OxygenDepletedWatersOriginAndD_19797]]

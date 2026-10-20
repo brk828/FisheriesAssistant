@@ -26,9 +26,13 @@ Copper sulfate is a chemical algaecide commonly used in aquatic systems to contr
 > This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
 > -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
 
+> This 1968 manual from the [[Bureau of Sport Fisheries and Wildlife]] provides comprehensive guidance on herbicide use for vegetation control in fish and wildlife management programs. Issued by the [[U.S. Department of the Interior]] under Secretary [[Stewart L. Udall]], the document establishes...
+> -- *[[ChemicalVegetationControlManua_12838]]*
+
 ## Mentioned In
 - [[CorrespondenceRegardingResearc_1986_08_06]]
 - [[EffectsOfFiveHerbicidesOnFarmP_15811]]
 - [[TheToxicityOfNineTherapeuticAn_12150]]
 - [[RoughFishControl_20167]]
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
+- [[ChemicalVegetationControlManua_12838]]

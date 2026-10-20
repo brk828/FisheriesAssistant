@@ -110,6 +110,27 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 > This document is a legal complaint filed by the Board of County Commissioners of [[Catron County]], New Mexico, against the [[U.S. Fish and Wildlife Service]] (FWS) and its officials in U.S. District Court (Case No. CIV 93-730-HB). The complaint challenges FWS actions regarding two threatened fish...
 > -- *[[CatronCountyBoardOfCommissione_16056]]*
 
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
+> This August 12, 1991 letter from the [[U.S. Fish and Wildlife Service]] to the [[U.S. Forest Service]] provides formal comments on the proposed [[Pigeon Creek Lake]] project in [[Greenlee County]], [[Arizona]]. The Service raises significant concerns about the project's potential impacts to...
+> -- *[[ReRequestForCommentsRegardingT_15640]]*
+
+> This supplemental environmental assessment, prepared by the [[U.S. Bureau of Land Management]] (BLM) Phoenix District Office in December 1983, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*)...
+> -- *[[IntroductionOfGilaTopminnowAnd_17956]]*
+
+> This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
+> -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
+
 ## Mentioned In
 - [[AuthorizationLetterForGilaTopm_1990_11_21]]
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
@@ -151,3 +172,10 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 - [[BiologicalOpinionForTheSanBern_13329]]
 - [[AgendaAndOtherInformationForUp_13959]]
 - [[CatronCountyBoardOfCommissione_16056]]
+- [[BiologicalOpinionForTheBridgeC_11732]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[CurrentStatusOfEndangeredThrea_12695]]
+- [[BiologicalEvaluationOfTheAppro_15074]]
+- [[ReRequestForCommentsRegardingT_15640]]
+- [[IntroductionOfGilaTopminnowAnd_17956]]
+- [[NewSpeciesOfNorthAmericanDelto_21086]]

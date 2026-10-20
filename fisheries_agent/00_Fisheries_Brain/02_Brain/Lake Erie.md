@@ -32,6 +32,9 @@ Lake Erie is one of the five Great Lakes and serves as a critical freshwater eco
 > This 1964 staff report from the [[Department of Chesapeake Bay Affairs]] comprehensively reviews scientific literature on the detrimental effects of turbidity and siltation on aquatic ecosystems. Turbidity is defined as light restriction from suspended inorganic particulate matter (excluding...
 > -- *[[ALiteratureReviewOfTheEffectsO_20478]]*
 
+> This final report (Contract 14-06-300-2210, 1971) presents an integrated study of chemistry, hydrobiology, and hydrodynamics in [[Lake Mead]], conducted by the University of Arizona for the U.S. Bureau of Reclamation. The investigation examined eight sampling stations across the reservoir's four...
+> -- *[[MicronutrientsAndBiologicalPat_11436]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[ASystematicStudyOfTheGreenside_1964]]
@@ -54,3 +57,4 @@ Lake Erie is one of the five Great Lakes and serves as a critical freshwater eco
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[Whitefish_19228]]
 - [[ALiteratureReviewOfTheEffectsO_20478]]
+- [[MicronutrientsAndBiologicalPat_11436]]

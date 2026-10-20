@@ -23,6 +23,9 @@ Glen Canyon National Recreation Area encompasses the Colorado River ecosystem do
 > This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
 > -- *[[BureauOfReclamationAnnouncesPu_20788]]*
 
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[LetterConcerningStripedBassThr_1990_06_03]]
@@ -34,3 +37,4 @@ Glen Canyon National Recreation Area encompasses the Colorado River ecosystem do
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[BureauOfReclamationAnnouncesPu_20788]]
+- [[GlenCanyonNationalRecreationAr_18334]]

@@ -11,5 +11,9 @@ The Cactus Ferruginous Pygmy-Owl is mentioned in this document but no specific i
 > This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
 > -- *[[BiologicalOpinionToRepairErosi_11916]]*
 
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
 ## Mentioned In
 - [[BiologicalOpinionToRepairErosi_11916]]
+- [[BiologicalEvaluationOfTheAppro_15074]]

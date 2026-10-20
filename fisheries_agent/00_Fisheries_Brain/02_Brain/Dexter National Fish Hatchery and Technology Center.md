@@ -41,6 +41,9 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 > This recovery plan addresses four federally listed fish species from the [[Rio Yaqui Basin]]: two endangered species—[[Yaqui Chub]] (*Gila purpurea*) and [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*)—and two threatened species—[[Yaqui Catfish]] (*Ictalurus pricei*) and [[Beautiful...
 > -- *[[DraftRecoveryPlanForTheEndange_11645]]*
 
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
 ## Mentioned In
 - [[AnnualReportOnUSBureauOfReclam_19117]]
 - [[BonytailChubsHeldAtWillowBeach_1993_05_13]]
@@ -71,3 +74,4 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 - [[DraftLowerColoradoRiverBasinNa_11647]]
 - [[PreliminaryDraftColoradoRiverL_11719]]
 - [[DraftRecoveryPlanForTheEndange_11645]]
+- [[DraftLowerColoradoRiverOperati_13907]]

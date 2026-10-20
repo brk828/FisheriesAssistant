@@ -11,6 +11,10 @@ auto_enriched: true
 > This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
 > -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
 
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
 ## Mentioned In
 - [[ReviewOfDraftReportPotentialFo_1991_01_09]]
 - [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[ReProgressReportOnConstruction_13911]]

@@ -50,6 +50,9 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
+> -- *[[SonoranDesertExpertsWorkshop_13543]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -88,3 +91,4 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
 - [[BeaverScoping_18972]]
+- [[SonoranDesertExpertsWorkshop_13543]]

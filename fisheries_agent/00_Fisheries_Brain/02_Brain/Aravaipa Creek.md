@@ -128,6 +128,27 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 > This July 1970 correspondence from The Nature Conservancy's Western Regional Office to Dr. W. L. Minckley at [[Arizona State University]] discusses management proposals for [[Aravaipa Creek]] and requests a semi-popular report on the creek's aquatic biota. The letter emphasizes limiting fish...
 > -- *[[ManagementProposalaravaipaCany_19761]]*
 
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
+> This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
+> -- *[[IntraofficeMemoFishSurveys_13821]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This Master's thesis examines F₁ hybrids between [[Catostomus insignis]] (Sonora sucker) and [[Pantosteus clarki]] (desert mountain-sucker) from [[Aravaipa Creek]] and [[Bonita Creek]], Arizona. The study tests hypotheses of morphological and behavioral intermediacy in natural fish hybrids using...
+> -- *[[MorphologyAndFeedingBehaviorOf_15922]]*
+
+> This administrative notice, issued July 6, 1970, by the Bureau of Land Management announces a temporary closure of the [[Aravaipa Canyon]] Primitive Area to all motorized vehicles. The closure was implemented to prevent damage to primitive and environmental resource values caused by increasing...
+> -- *[[NoticeOfRestrictedVehicleUseTe_18773]]*
+
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -247,3 +268,10 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[TechnicalReviewDraftSpikedaceM_19407]]
 - [[ManagementProposalaravaipaCany_19761]]
+- [[BiologicalOpinionForTheBridgeC_11732]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]
+- [[IntraofficeMemoFishSurveys_13821]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[MorphologyAndFeedingBehaviorOf_15922]]
+- [[NoticeOfRestrictedVehicleUseTe_18773]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]

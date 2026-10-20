@@ -29,6 +29,9 @@ Apache Lake is a warm, monomictic desert reservoir on the Salt River in central 
 > This master's thesis investigated the vertical distribution of fishes in [[Roosevelt Lake]] and [[Apache Lake]], two contiguous reservoirs on the [[Salt River]] in central Arizona, during 1970-1971. Using vertical gill nets at multiple transects, the study examined fish depth distributions relative...
 > -- *[[VerticalDistributionOfFishesRe_18202]]*
 
+> This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
+> -- *[[CommercialFisheriesPotentialOf_18584]]*
+
 ## Mentioned In
 - [[FactorsInfluencingFishDistribu_15011]]
 - [[OccurrenceOfTwoSpeciesOfFreshw_11814]]
@@ -36,3 +39,4 @@ Apache Lake is a warm, monomictic desert reservoir on the Salt River in central 
 - [[InvestigationsOfCommercialFish_18562]]
 - [[InfluenceOfPumpStorageAndGener_15886]]
 - [[VerticalDistributionOfFishesRe_18202]]
+- [[CommercialFisheriesPotentialOf_18584]]

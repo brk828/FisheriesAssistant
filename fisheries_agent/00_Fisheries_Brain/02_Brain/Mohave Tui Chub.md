@@ -23,8 +23,12 @@ The Mohave Tui Chub is an endangered desert fish species endemic to the Mojave D
 > - **Regulatory driver**: The [[Endangered Species Act of 1973]] requires USFWS to develop recovery plans for listed species; introductions have become a prominent recovery tool in recent decades. - **Case study — Amistad Gambusia (*Gambusia amistadensis*)**: Known only from Goodenough Spring, inu...
 > -- *[[AmericanFisheriesSocietyProtoc_12011]]*
 
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[GuidelinesForIntroductionsOfTh_12022]]
 - [[LowerColoradoRiverMultiSpecies_12191]]
 - [[RefugeManagementForTheThreaten_1989]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]

@@ -17,8 +17,12 @@ auto_enriched: true
 > This September 4, 1992 correspondence from the Bureau of Land Management (BLM) Safford District Office to the U.S. Fish and Wildlife Service describes a proposed water management action to enhance habitat security for one of the few remaining self-sustaining wild populations of [[Desert Pupfish]]...
 > -- *[[PupfishAtHowardWell_20498]]*
 
+> This trip report documents a November 10-12, 1990 field survey of known [[Desert Pupfish]] (*Cyprinodon macularius macularius*) populations in the [[Colorado River Delta]] region of Sonora and Baja California, Mexico. Conducted by Sally Stefferud (U.S. Fish and Wildlife Service) and Jerry Stefferud...
+> -- *[[TripReportSamplingOfMexicanPop_14780]]*
+
 ## Mentioned In
 - [[FishSamplingAtAsuResearchParkM_19416]]
 - [[PalmLakeMeetingjanuary_20906]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
 - [[PupfishAtHowardWell_20498]]
+- [[TripReportSamplingOfMexicanPop_14780]]

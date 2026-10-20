@@ -35,6 +35,12 @@ Grand Junction is a geographic sampling location on the Colorado River mainstem 
 > This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
 > -- *[[AStudyToDetermineTheBiological_11576]]*
 
+> This document consists of correspondence from the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] announcing the annual meeting for February 14-15, 1989, in [[Grand Junction, Colorado]]. The primary focus is planning discussion of the [[Biotechnical Group]]'s research...
+> -- *[[ColoradoRiverFishesMeetingFebr_15252]]*
+
+> This article describes conservation efforts in Colorado to save four unique big-river fish species found nowhere else on Earth: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Humpback Sucker]] (*Xyrauchen texanus*)....
+> -- *[[SavingColoradosBigRiverFish_20737]]*
+
 ## Mentioned In
 - [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
 - [[AnnualReportOnRazorbackSuckerM_1992_11_24]]
@@ -44,3 +50,5 @@ Grand Junction is a geographic sampling location on the Colorado River mainstem 
 - [[TheRazorbackSuckerXyrauchenTex_15245]]
 - [[RequestForTissuesAndGametesOfR_13796]]
 - [[AStudyToDetermineTheBiological_11576]]
+- [[ColoradoRiverFishesMeetingFebr_15252]]
+- [[SavingColoradosBigRiverFish_20737]]

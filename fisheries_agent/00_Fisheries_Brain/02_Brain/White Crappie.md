@@ -47,6 +47,9 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 > This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
 > -- *[[FisheriesManagementOfElCapitan_16317]]*
 
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -95,3 +98,4 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 - [[BigSpringSpinedaceLepidomedaMo_11635]]
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[FisheriesManagementOfElCapitan_16317]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]

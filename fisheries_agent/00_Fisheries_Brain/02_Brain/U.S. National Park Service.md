@@ -11,5 +11,9 @@ The U.S. National Park Service is a federal agency with management jurisdiction 
 > **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
 > -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
 
+> This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
+> -- *[[RazorbackSuckerMonitoringInLak_17016]]*
+
 ## Mentioned In
 - [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
+- [[RazorbackSuckerMonitoringInLak_17016]]

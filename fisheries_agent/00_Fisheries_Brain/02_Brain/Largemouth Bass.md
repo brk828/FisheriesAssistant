@@ -386,6 +386,60 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
 > -- *[[LakeMohaveSamplingMarch_20326]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
+> This U.S. Fish and Wildlife Service biological opinion, issued December 23, 1992, evaluates effects of the proposed [[Canelo Pass]] to [[Patagonia]] segment of the [[Arizona Trail]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis) in [[Redrock Canyon]], [[Santa Cruz County]],...
+> -- *[[BiologicalOpinionThatTheCanelo_11877]]*
+
+> The [[Sacramento Squawfish]] (*Ptychocheilus grandis*) is a large native minnow endemic to California's [[Sacramento-San Joaquin River System]] and select coastal drainages. Historically the top fish predator in its ecosystem, it now coexists with introduced predatory species including [[Smallmouth...
+> -- *[[TheSacramentoSquawfish_13255]]*
+
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
+> This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
+> -- *[[IntraofficeMemoFishSurveys_13821]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
+> This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
+> -- *[[LakePowellFisheriesInvestigati_14595]]*
+
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This master's thesis by C. O. Minckley (University of Nevada, Las Vegas, August 1972) presents a comprehensive age and growth study of [[Largemouth Bass]] populations in [[Lake Mead]], Nevada-Arizona. The research analyzed 876 fish collected from three locations (Las Vegas Bay, Temple Bar, and...
+> -- *[[AgeAndGrowthObservationsOnTheL_18498]]*
+
+> This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
+> -- *[[CommercialFisheriesPotentialOf_18584]]*
+
+> This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
+> -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
+
+> This educational article from the New York State Conservationist examines the ecological importance of algae in freshwater systems, their role in aquatic food chains, and management considerations for controlling excessive algal growth. The document addresses common concerns about algae control...
+> -- *[[Algae_19232]]*
+
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
+> This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
+> -- *[[FishParasites_20804]]*
+
 ## Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -740,3 +794,21 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[FisheryManagementForTheSanBern_18979]]
 - [[TechnicalReviewDraftSpikedaceM_19407]]
 - [[LakeMohaveSamplingMarch_20326]]
+- [[DraftLittleColoradoRiverSpined_11662]]
+- [[BiologicalOpinionForTheBridgeC_11732]]
+- [[BiologicalOpinionThatTheCanelo_11877]]
+- [[TheSacramentoSquawfish_13255]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]
+- [[IntraofficeMemoFishSurveys_13821]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]
+- [[LakePowellFisheriesInvestigati_14595]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[AssessmentOfTheNeedForForageEn_17853]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[AgeAndGrowthObservationsOnTheL_18498]]
+- [[CommercialFisheriesPotentialOf_18584]]
+- [[TheUseOfChannelCatfishAsSportF_18662]]
+- [[Algae_19232]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]
+- [[FishParasites_20804]]

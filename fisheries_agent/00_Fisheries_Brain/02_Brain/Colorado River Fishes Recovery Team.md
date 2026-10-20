@@ -44,6 +44,12 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
 > -- *[[ManagementGroupMeetingSummary_19219]]*
 
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -71,3 +77,5 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 - [[ProposalToListTheRazorbackSuck_14703]]
 - [[RecoveryPlanForTheEndangeredBo_17173]]
 - [[ManagementGroupMeetingSummary_19219]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[MinutesForDesertFishesRecovery_12506]]

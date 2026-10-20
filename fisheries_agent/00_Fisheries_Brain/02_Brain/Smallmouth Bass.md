@@ -182,6 +182,27 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 > This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
 > -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
 
+> This 1968 manual from the [[Bureau of Sport Fisheries and Wildlife]] provides comprehensive guidance on herbicide use for vegetation control in fish and wildlife management programs. Issued by the [[U.S. Department of the Interior]] under Secretary [[Stewart L. Udall]], the document establishes...
+> -- *[[ChemicalVegetationControlManua_12838]]*
+
+> The [[Sacramento Squawfish]] (*Ptychocheilus grandis*) is a large native minnow endemic to California's [[Sacramento-San Joaquin River System]] and select coastal drainages. Historically the top fish predator in its ecosystem, it now coexists with introduced predatory species including [[Smallmouth...
+> -- *[[TheSacramentoSquawfish_13255]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
+> This document reports the confirmed reproduction of illegally introduced [[Northern Pike]] (*Esox lucius*) in [[Parker Canyon Lake]], Arizona. First detected in summer 1997, juvenile pike were sampled by September 1998, confirming successful reproduction. The 124-acre lake southwest of [[Sierra...
+> -- *[[ReproductionOfNorthernPikeConf_20180]]*
+
+> This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
+> -- *[[FishParasites_20804]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -317,3 +338,10 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 - [[DraftRecoveryImplementationPro_11643]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
 - [[TechnicalReviewDraftSpikedaceM_19407]]
+- [[ChemicalVegetationControlManua_12838]]
+- [[TheSacramentoSquawfish_13255]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]
+- [[ReproductionOfNorthernPikeConf_20180]]
+- [[FishParasites_20804]]

@@ -62,6 +62,15 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 > This correspondence from Arizona State University's Center for Environmental Studies to Glen Canyon Environmental Studies requests authorization for computer access, updates base camp locations for [[Humpback Chub]] research in the [[Little Colorado River]] gorge, and seeks resolution of logistical...
 > -- *[[AccessRequestUsgsMainFrameComp_19454]]*
 
+> This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
+> -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
+
+> This 1988 correspondence from Arizona State University to the U.S. Fish & Wildlife Service proposes using video camera (camcorder) technology instead of traditional 35mm photography for collecting morphometric data from endangered [[Gila Cypha]] (humpback chub) and [[Gila Robusta]] (roundtail chub)...
+> -- *[[GilaMorphometry_19079]]*
+
+> This correspondence from Arizona State University researchers Michael E. Douglas and Paul C. Marsh reports data collected on [[Gila cypha]] (humpback chub) populations in the [[Little Colorado River]] during July-August 1991. The study was conducted as part of the [[Glen Canyon Environmental...
+> -- *[[DataCompilationGilaCyphaAsunnh_19090]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdditionalStudiesOnTheLittleCo_18500]]
@@ -98,3 +107,6 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
 - [[AccessRequestUsgsMainFrameComp_19454]]
+- [[DetailsForStudiesOfTheGenusGil_13739]]
+- [[GilaMorphometry_19079]]
+- [[DataCompilationGilaCyphaAsunnh_19090]]

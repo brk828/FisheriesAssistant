@@ -14,6 +14,9 @@ I appreciate your question, but I must clarify that "Dean Hendrickson" does not 
 > This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
 > -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
 
+> This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
+> -- *[[SonoranDesertExpertsWorkshop_13543]]*
+
 ## Mentioned In
 - [[CorrespondenceOnSpikedaceLoach_1987_11_30]]
 - [[LetterRequestingCollectionOfQu_1987_12_01]]
@@ -21,3 +24,4 @@ I appreciate your question, but I must clarify that "Dean Hendrickson" does not 
 - [[LetterToDuaneLShroufeOnGrandCa_1989_04_24]]
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
 - [[PlansToObtainLiveRioYaquiFishe_14087]]
+- [[SonoranDesertExpertsWorkshop_13543]]

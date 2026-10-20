@@ -44,6 +44,12 @@ Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the
 > This article by Dr. George S. Myers examines the ecological dangers posed by [[Gambusia affinis]] (mosquitofish), a small livebearer from the southeastern United States that was widely introduced worldwide for mosquito control beginning around the turn of the 20th century. Despite its effectiveness...
 > -- *[[GambusiaTheFishDestroyer_15551]]*
 
+> This experimental study documents 12 years (1932-1944) of breeding experiments with [[Mollienisia formosa]], the Amazon Molly, a viviparous fish species in which no males have ever been found. Approximately 8,000 individuals representing 20 generations were bred at the Museum of Zoology,...
+> -- *[[ExperimentalBreedingOfTheAmazo_14310]]*
+
+> This article from Montana Fish & Game Department (August 1969) describes [[Gambusia affinis affinis]] (mosquitofish) and their use in biological mosquito control. The species is native to the Gulf Coast and Mississippi River system but has been widely introduced for pest control purposes. In 1969,...
+> -- *[[LittleFishDoesBigThings_16549]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnomalousThermalConditionsInAH_17103]]
@@ -76,3 +82,5 @@ Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the
 - [[GeneticDifferentiationAmongSub_18497]]
 - [[AReviewOfTheBiologyOfTheMosqui_14748]]
 - [[GambusiaTheFishDestroyer_15551]]
+- [[ExperimentalBreedingOfTheAmazo_14310]]
+- [[LittleFishDoesBigThings_16549]]

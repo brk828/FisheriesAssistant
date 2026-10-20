@@ -95,6 +95,21 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
+> This administrative notice, issued July 6, 1970, by the Bureau of Land Management announces a temporary closure of the [[Aravaipa Canyon]] Primitive Area to all motorized vehicles. The closure was implemented to prevent damage to primitive and environmental resource values caused by increasing...
+> -- *[[NoticeOfRestrictedVehicleUseTe_18773]]*
+
+> This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
+> -- *[[ProposedActionPlanForReintrodu_19433]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -175,3 +190,8 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 - [[PreliminaryDraftManagementPlan_16433]]
 - [[CompletionReportYampawhitePhys_18677]]
 - [[BeaverScoping_18972]]
+- [[DraftFiveyearRoadMap_11579]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[CurrentStatusOfEndangeredThrea_12695]]
+- [[NoticeOfRestrictedVehicleUseTe_18773]]
+- [[ProposedActionPlanForReintrodu_19433]]

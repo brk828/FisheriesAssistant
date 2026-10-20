@@ -17,9 +17,13 @@ auto_enriched: true
 > This investigation by the [[Arizona Department of Environmental Quality]] documents water quality impacts from the [[Klondyke Tailings]] along [[Aravaipa Creek]] in [[Graham County]], Arizona. The tailings consist of 220,000 tons of milled ore rich in lead, zinc, copper, and silver situated within...
 > -- *[[TheKlondykeTailingsAndAravaipa_14554]]*
 
+> This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
+> -- *[[EnvironmentalAssessmentForNati_13228]]*
+
 ## Mentioned In
 - [[LetterAppointingWendellMinckle_1993_05_18]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[ReevidenceOfTailingsTransportI_14555]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
 - [[TheKlondykeTailingsAndAravaipa_14554]]
+- [[EnvironmentalAssessmentForNati_13228]]

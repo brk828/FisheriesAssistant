@@ -77,6 +77,12 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
+> -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
+
+> This 1988 correspondence from Arizona State University to the U.S. Fish & Wildlife Service proposes using video camera (camcorder) technology instead of traditional 35mm photography for collecting morphometric data from endangered [[Gila Cypha]] (humpback chub) and [[Gila Robusta]] (roundtail chub)...
+> -- *[[GilaMorphometry_19079]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AResumeOfTheDetoxificationPhas_1963]]
@@ -137,3 +143,5 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[TwoLettersConcerningStudyOfSpe_13691]]
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[BeaverScoping_18972]]
+- [[DetailsForStudiesOfTheGenusGil_13739]]
+- [[GilaMorphometry_19079]]

@@ -41,6 +41,12 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 > This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
 > -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
 
+> This final report (Contract 14-06-300-2210, 1971) presents an integrated study of chemistry, hydrobiology, and hydrodynamics in [[Lake Mead]], conducted by the University of Arizona for the U.S. Bureau of Reclamation. The investigation examined eight sampling stations across the reservoir's four...
+> -- *[[MicronutrientsAndBiologicalPat_11436]]*
+
+> This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
+> -- *[[LakePowellFisheriesInvestigati_14595]]*
+
 ## Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[Craspedacusta Sowerbii in Pymatuning Reservoir]]
@@ -54,3 +60,5 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
 - [[AReviewOfTheBiologyOfTheMosqui_14748]]
+- [[MicronutrientsAndBiologicalPat_11436]]
+- [[LakePowellFisheriesInvestigati_14595]]

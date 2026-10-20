@@ -116,6 +116,21 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
 > -- *[[LakeMohaveSamplingMarch_20326]]*
 
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
+> -- *[[ProposedActionPlanForReintrodu_19433]]*
+
+> This 14-year study (1982-1995) documents the population ecology of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona. The population represents an endemic subspecies, the [[Rio Sonoyta Mud Turtle]],...
+> -- *[[PopulationEcologyOfTheSonoranM_21071]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -176,3 +191,8 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[SummaryOfCollectingLocalitiesF_18502]]
 - [[GlenCanyonEnvironmentalStudies_19678]]
 - [[LakeMohaveSamplingMarch_20326]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[ProposedActionPlanForReintrodu_19433]]
+- [[PopulationEcologyOfTheSonoranM_21071]]

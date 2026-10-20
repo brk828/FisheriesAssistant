@@ -38,6 +38,12 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 > This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
 
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
+> -- *[[CommercialFisheriesPotentialOf_18584]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[CompilationOfCommentsOnBigRive_11763]]
@@ -51,3 +57,5 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 - [[ResultsOfFishMonitoringOfSelec_13200]]
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[SamplingAtAsuKarstenGolfCourse_19435]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[CommercialFisheriesPotentialOf_18584]]

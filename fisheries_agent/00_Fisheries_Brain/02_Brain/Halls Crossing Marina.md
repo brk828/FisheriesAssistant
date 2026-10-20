@@ -11,5 +11,9 @@ Halls Crossing Marina is a mid-reservoir access point on Lake Powell that provid
 > This report documents the fourth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The study, conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]] from February 1, 1966 to January 31, 1967,...
 > -- *[[ReservoirFisheriesInvestigatio_14589]]*
 
+> This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
+> -- *[[LakePowellFisheriesInvestigati_14595]]*
+
 ## Mentioned In
 - [[ReservoirFisheriesInvestigatio_14589]]
+- [[LakePowellFisheriesInvestigati_14595]]

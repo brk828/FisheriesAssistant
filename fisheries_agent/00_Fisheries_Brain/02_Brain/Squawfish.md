@@ -32,6 +32,9 @@ Squawfish (genus *Ptychocheilus*, family Cyprinidae) are native North American c
 > This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
 > -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
 
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
 ## Mentioned In
 - [[BattleAgainstExtinctionNativeF_17606]]
 - [[LetterToDrWendellMinckleyOnRaz_1975_05_02]]
@@ -40,3 +43,4 @@ Squawfish (genus *Ptychocheilus*, family Cyprinidae) are native North American c
 - [[FederalAidToFishRestorationAnn_19654]]
 - [[LakeAndReservoirInvestigations_12145]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[AssessmentOfTheNeedForForageEn_17853]]

@@ -29,6 +29,9 @@ Hydrobiidae is a family of small freshwater and brackish-water gastropod mollusk
 > On March 25, 1991, the [[U.S. Fish and Wildlife Service]] received a petition from the [[Desert Fishes Council]] to list as endangered 11 species of fishes, one amphibian ([[Amargosa Toad]]), and 20 species of aquatic invertebrates (primarily springsnails and aquatic beetles) from southern Nevada...
 > -- *[[DraftDayFindingForDesertFishes_20489]]*
 
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
 ## Mentioned In
 - [[ARemarkableSnailFaunaFromCoahu_1966]]
 - [[AustralianFreshwaterMolluscaCo_1994_06_30]]
@@ -40,3 +43,4 @@ Hydrobiidae is a family of small freshwater and brackish-water gastropod mollusk
 - [[TheMoundSpringsOfSouthAustrali_20662]]
 - [[EndangeredAndThreatenedWildlif_11741]]
 - [[DraftDayFindingForDesertFishes_20489]]
+- [[CurrentStatusOfEndangeredThrea_12695]]

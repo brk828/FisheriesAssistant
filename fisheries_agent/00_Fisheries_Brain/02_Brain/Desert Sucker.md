@@ -77,6 +77,18 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
 
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
+> This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
+> -- *[[AProposalToReestablishDesertSu_20730]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -169,3 +181,7 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[TechnicalReviewDraftSpikedaceM_19407]]
 - [[SamplingAtAsuKarstenGolfCourse_19435]]
+- [[BiologicalOpinionForTheBridgeC_11732]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]
+- [[AProposalToReestablishDesertSu_20730]]

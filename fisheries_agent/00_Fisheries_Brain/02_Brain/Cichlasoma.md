@@ -32,6 +32,9 @@ Cichlasoma is a genus of cichlid fishes that has served as an important model fo
 > This 1972 Master's thesis by Irving L. Kornfield (State University of New York at Stony Brook) examines genetic variability and speciation in [[Cichlasoma]] species from North America. The study employed electrophoretic analysis of 19 protein loci in [[Cichlasoma cyanoguttatum]] from the [[Rio...
 > -- *[[GeneticVariationAndSpeciationI_12625]]*
 
+> This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
+> -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[FactorsInfluencingLocalDistrib_17059]]
@@ -41,3 +44,4 @@ Cichlasoma is a genus of cichlid fishes that has served as an important model fo
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[TilapiaAtCuatroCienegasMexico_15378]]
 - [[GeneticVariationAndSpeciationI_12625]]
+- [[NotesFromFieldWorkInTheCuatroc_12737]]

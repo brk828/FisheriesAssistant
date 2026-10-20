@@ -80,6 +80,12 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 > This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
 > -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
 
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
+> -- *[[CommercialFisheriesPotentialOf_18584]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -119,3 +125,5 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[CommercialFisheriesPotentialOf_18584]]

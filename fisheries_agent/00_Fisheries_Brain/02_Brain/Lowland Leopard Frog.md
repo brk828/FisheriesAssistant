@@ -26,6 +26,9 @@ The Lowland Leopard Frog is an amphibian species associated with native freshwat
 > This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
 > -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
 
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[FieldMonitoringOfPeoplesCanyon_1990_01_09]]
@@ -35,3 +38,4 @@ The Lowland Leopard Frog is an amphibian species associated with native freshwat
 - [[SummaryOfMineralCreekFieldSurv_2000_04_14]]
 - [[ThJointAnnualMeetingEcosystemM_1994_02_03]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
+- [[BiologicalEvaluationOfTheAppro_15074]]

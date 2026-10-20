@@ -35,6 +35,9 @@ Willow Beach is a critical location on Lake Mohave in the lower Colorado River s
 > This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
 > -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
 
+> This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
+> -- *[[RazorbackSuckerMonitoringInLak_17016]]*
+
 ## Mentioned In
 - [[ArizonaNevadaCooperativeFisher_1961]]
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
@@ -47,3 +50,4 @@ Willow Beach is a critical location on Lake Mohave in the lower Colorado River s
 - [[DemographicsAndPoststockingSur_2012]]
 - [[LossOfLakeMohaveBonytailChub_14539]]
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[RazorbackSuckerMonitoringInLak_17016]]

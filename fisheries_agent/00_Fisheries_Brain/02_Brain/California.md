@@ -62,6 +62,15 @@ In the context of fish science and aquatic ecology, California refers to the geo
 > This 1918 systematic revision by Carl L. Hubbs reorganizes the family [[Embiotocidae]] (viviparous perches or surf-fishes) of [[California]], establishing three subfamilies based on anal fin structure and dentition. The [[Embiotocidae]] represent a highly evolved example of viviparity in fishes,...
 > -- *[[ARevisionOfTheViviparousPerche_19963]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
+> -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
+
+> This zooarchaeological report by W. I. Follett analyzes 459 fish remains recovered from the [[Arroyo Sequit]] Shellmound (LAn-52) in extreme western [[Los Angeles County]], [[California]]. The site, located on a bluff rising to nearly 75 feet elevation, was occupied between approximately 1000 B.C....
+> -- *[[FishRemainsFromArroyoSequitShe_18754]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[RainbowSmeltIntroductionIntoLa_1989]]
@@ -82,3 +91,6 @@ In the context of fish science and aquatic ecology, California refers to the geo
 - [[FisheriesManagementOfElCapitan_16317]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 - [[ARevisionOfTheViviparousPerche_19963]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[TheUseOfChannelCatfishAsSportF_18662]]
+- [[FishRemainsFromArroyoSequitShe_18754]]

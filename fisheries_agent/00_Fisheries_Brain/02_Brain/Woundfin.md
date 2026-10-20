@@ -80,6 +80,9 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 > Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
 > -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -181,3 +184,4 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 - [[BiologicalOpinionOnTheEffectsO_11915]]
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DraftLittleColoradoRiverSpined_11662]]

@@ -23,9 +23,13 @@ auto_enriched: true
 > This draft planning aid report, prepared by the [[U.S. Fish and Wildlife Service]] under the [[Fish and Wildlife Coordination Act]], advises the [[Bureau of Reclamation]] on potential resource concerns and study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen...
 > -- *[[FishAndWildlifeResourcesAndOpe_20151]]*
 
+> This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
+> -- *[[GilasanFranciscoRiversResource_18256]]*
+
 ## Mentioned In
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[WildlifeStudiesDenverWildlifeR_14329]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
+- [[GilasanFranciscoRiversResource_18256]]

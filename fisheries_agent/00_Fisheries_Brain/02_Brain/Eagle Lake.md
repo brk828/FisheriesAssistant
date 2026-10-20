@@ -14,7 +14,11 @@ auto_enriched: true
 > This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
 > -- *[[RoughFishControl_20167]]*
 
+> This study documents the embryonic and early larval development of the [[Tui Chub]] (*Siphateles bicolor*) from [[Eagle Lake]], [[Lassen County]], California. Conducted in 1949 by Robert R. Harry at Stanford University while employed by the California Division of Fish and Game, this represents...
+> -- *[[TheEmbryonicAndEarlyLarvalStag_20681]]*
+
 ## Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[AConservationorientedClassific_15455]]
 - [[RoughFishControl_20167]]
+- [[TheEmbryonicAndEarlyLarvalStag_20681]]

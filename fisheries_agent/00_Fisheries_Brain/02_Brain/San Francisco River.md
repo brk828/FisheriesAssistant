@@ -92,6 +92,15 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 > This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
 > -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
 
+> This August 12, 1991 letter from the [[U.S. Fish and Wildlife Service]] to the [[U.S. Forest Service]] provides formal comments on the proposed [[Pigeon Creek Lake]] project in [[Greenlee County]], [[Arizona]]. The Service raises significant concerns about the project's potential impacts to...
+> -- *[[ReRequestForCommentsRegardingT_15640]]*
+
+> This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
+> -- *[[GilasanFranciscoRiversResource_18256]]*
+
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -135,3 +144,6 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 - [[LoachMinnow_19034]]
 - [[EndangeredAndThreatenedWildlif_11556]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[ReRequestForCommentsRegardingT_15640]]
+- [[GilasanFranciscoRiversResource_18256]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]

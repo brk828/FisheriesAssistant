@@ -14,8 +14,12 @@ Eldorado Canyon is a geographical location within the Lake Mead reservoir system
 > This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
 > -- *[[BiologicalAssessmentOfTheImpac_16261]]*
 
+> This biological opinion (2-21-94-F-244) evaluates the U.S. Fish and Wildlife Service's program to stock catchable-size (8-10 inch) [[Rainbow Trout]] and [[Channel Catfish]] into the lower [[Colorado River]] from [[Hoover Dam]] to the International Border. The consultation addresses potential...
+> -- *[[SummaryBiologicalOpinionOnUsFi_11657]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ArizonaNevadaCooperativeFisher_1961]]
 - [[ArizonaNevadaCooperativeFisher_1962]]
 - [[BiologicalAssessmentOfTheImpac_16261]]
+- [[SummaryBiologicalOpinionOnUsFi_11657]]

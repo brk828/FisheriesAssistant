@@ -341,6 +341,51 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This September 4, 1992 correspondence from the Bureau of Land Management (BLM) Safford District Office to the U.S. Fish and Wildlife Service describes a proposed water management action to enhance habitat security for one of the few remaining self-sustaining wild populations of [[Desert Pupfish]]...
 > -- *[[PupfishAtHowardWell_20498]]*
 
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This document presents the Fiscal Year 1998 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program's established annual budget for FY 98 is $3.18 million (a 3.0% increase over FY 97), with total funding including...
+> -- *[[FiscalYearWorkPlan_11743]]*
+
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
+> This biological opinion, issued February 14, 1994, by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services State Office]], addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding the proposed [[Allotment Management Plan]] for the Dos S Unit of the...
+> -- *[[BiologicalOpinionThatAuthoriza_11901]]*
+
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
+> This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
+> -- *[[EnvironmentalAssessmentForNati_13228]]*
+
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
+> This document consists of correspondence from the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] announcing the annual meeting for February 14-15, 1989, in [[Grand Junction, Colorado]]. The primary focus is planning discussion of the [[Biotechnical Group]]'s research...
+> -- *[[ColoradoRiverFishesMeetingFebr_15252]]*
+
+> This August 12, 1991 letter from the [[U.S. Fish and Wildlife Service]] to the [[U.S. Forest Service]] provides formal comments on the proposed [[Pigeon Creek Lake]] project in [[Greenlee County]], [[Arizona]]. The Service raises significant concerns about the project's potential impacts to...
+> -- *[[ReRequestForCommentsRegardingT_15640]]*
+
+> This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
+> -- *[[RazorbackSuckerMonitoringInLak_17016]]*
+
+> This supplemental environmental assessment, prepared by the [[U.S. Bureau of Land Management]] (BLM) Phoenix District Office in December 1983, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*)...
+> -- *[[IntroductionOfGilaTopminnowAnd_17956]]*
+
+> This 1948 report documents the introduction and establishment of [[Kokanee]] (Oncorhynchus nerka kennerlyi), a landlocked form of [[Pacific Sockeye Salmon]], into California waters beginning in 1941. The [[Bureau of Fish Conservation]] initiated experimental plantings in [[Salt Springs Reservoir]]...
+> -- *[[KokaneeInCalifornia_18108]]*
+
+> This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
+> -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
+
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -658,3 +703,18 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[GlenCanyonEnvironmentalStudies_19678]]
 - [[UsFishAndWildlifeServicesAbili_20453]]
 - [[PupfishAtHowardWell_20498]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[FiscalYearWorkPlan_11743]]
+- [[FiscalYearProgramGuidance_11762]]
+- [[BiologicalOpinionThatAuthoriza_11901]]
+- [[CurrentStatusOfEndangeredThrea_12695]]
+- [[EnvironmentalAssessmentForNati_13228]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]
+- [[BiologicalEvaluationOfTheAppro_15074]]
+- [[ColoradoRiverFishesMeetingFebr_15252]]
+- [[ReRequestForCommentsRegardingT_15640]]
+- [[RazorbackSuckerMonitoringInLak_17016]]
+- [[IntroductionOfGilaTopminnowAnd_17956]]
+- [[KokaneeInCalifornia_18108]]
+- [[TheUseOfChannelCatfishAsSportF_18662]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]

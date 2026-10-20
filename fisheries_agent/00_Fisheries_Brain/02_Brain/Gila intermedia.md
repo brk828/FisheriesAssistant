@@ -50,6 +50,12 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
+> -- *[[SonoranDesertExpertsWorkshop_13543]]*
+
+> This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
+> -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
@@ -71,3 +77,5 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 - [[DesertFishesRecoveryTeamMeetin_13708]]
 - [[DesertFishesRecoveryTeamMeetin_13916]]
 - [[BeaverScoping_18972]]
+- [[SonoranDesertExpertsWorkshop_13543]]
+- [[DetailsForStudiesOfTheGenusGil_13739]]

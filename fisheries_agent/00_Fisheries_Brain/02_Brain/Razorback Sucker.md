@@ -470,6 +470,75 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This memorandum from the [[Upper Colorado River Basin]] Recovery Implementation Program documents the rescheduling of a genetics meeting focused on [[Razorback Sucker]] (*Xyrauchen texanus*) conservation. The meeting, originally planned for August 1994, was rescheduled to accommodate field...
 > -- *[[ReschedulingOfRazorbackSuckerG_20862]]*
 
+> This document is a research proposal and methodological framework developed by Owen T. Gorman (U.S. Fish and Wildlife Service, Pinetop Fishery Assistance Office) for assessing microhabitat use by fishes in the [[Little Colorado River]] (LCR), with special emphasis on the endangered [[Humpback...
+> -- *[[FirstAndSecondDraftUsingHoopne_11067]]*
+
+> This combined project report documents six interrelated studies examining the effects of [[Aspinall Unit]] reservoir operations on endangered fish populations in the [[Gunnison River]] and [[Colorado River]] systems during FY 1993. The studies focused on three federally endangered species:...
+> -- *[[AFiveYearStudyToInvestigateThe_11212]]*
+
+> This document is a draft Long Range Plan (dated October 3, 1991) for the Recovery Implementation Program targeting four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail Chub]], and [[Razorback Sucker]]. The plan outlines a...
+> -- *[[ExtensionOfReviewPeriodForTheL_11397]]*
+
+> This draft appraisal report, dated June 14, 1994, evaluates methods to study and implement temperature controls at [[Glen Canyon Dam]] for the recovery of native and endangered fishes below the dam. Cold water discharges (8-10°C year-round) from the dam's deep hypolimnetic releases severely limit...
+> -- *[[GlenCanyonDamDischargeTemperat_11486]]*
+
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
+> This biological opinion (2-21-94-F-244) evaluates the U.S. Fish and Wildlife Service's program to stock catchable-size (8-10 inch) [[Rainbow Trout]] and [[Channel Catfish]] into the lower [[Colorado River]] from [[Hoover Dam]] to the International Border. The consultation addresses potential...
+> -- *[[SummaryBiologicalOpinionOnUsFi_11657]]*
+
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
+> This document presents the Fiscal Year 1998 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program's established annual budget for FY 98 is $3.18 million (a 3.0% increase over FY 97), with total funding including...
+> -- *[[FiscalYearWorkPlan_11743]]*
+
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
+> This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
+> -- *[[EnvironmentalAssessmentForNati_13228]]*
+
+> This study examined movements of [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] within [[Grand Canyon]], Arizona from October 1990 through November 1993, evaluating effects of [[Glen Canyon Dam]] operations on movement patterns. Using radiotelemetry (75 radio-tagged adults) and PIT-tag...
+> -- *[[MovementOfHumpbackChubInTheCol_13639]]*
+
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
+> -- *[[ChronologyOfYumaCoveActivities_15028]]*
+
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
+> This August 12, 1991 letter from the [[U.S. Fish and Wildlife Service]] to the [[U.S. Forest Service]] provides formal comments on the proposed [[Pigeon Creek Lake]] project in [[Greenlee County]], [[Arizona]]. The Service raises significant concerns about the project's potential impacts to...
+> -- *[[ReRequestForCommentsRegardingT_15640]]*
+
+> This 1994 management proposal addresses the severe impacts of [[Glen Canyon Dam]] operations on native fish populations in [[Grand Canyon]]. The 1963 dam closure fundamentally altered downstream flow regimes, thermal characteristics, and sediment transport dynamics, resulting in extirpation of...
+> -- *[[ManagementOfDischargeTemperatu_15927]]*
+
+> This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
+> -- *[[RazorbackSuckerMonitoringInLak_17016]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This memorandum documents the capture of a juvenile [[Razorback Sucker]] (*Xyrauchen texanus*) from a lateral canal on the [[Colorado River Indian Reservation]] near [[Parker, Arizona]] on January 12, 1980. The specimen was captured by a reservation resident using a chicken wire seine in a culvert...
+> -- *[[CaptureOfASuspectedJuvenileRaz_19058]]*
+
+> This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
+> -- *[[ProposedActionPlanForReintrodu_19433]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -1182,3 +1251,26 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[SamplingAtAsuKarstenGolfCourse_19435]]
 - [[LakeMohaveSamplingMarch_20326]]
 - [[ReschedulingOfRazorbackSuckerG_20862]]
+- [[FirstAndSecondDraftUsingHoopne_11067]]
+- [[AFiveYearStudyToInvestigateThe_11212]]
+- [[ExtensionOfReviewPeriodForTheL_11397]]
+- [[GlenCanyonDamDischargeTemperat_11486]]
+- [[DraftFiveyearRoadMap_11579]]
+- [[SummaryBiologicalOpinionOnUsFi_11657]]
+- [[DraftLittleColoradoRiverSpined_11662]]
+- [[FiscalYearWorkPlan_11743]]
+- [[FiscalYearProgramGuidance_11762]]
+- [[EnvironmentalAssessmentForNati_13228]]
+- [[MovementOfHumpbackChubInTheCol_13639]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]
+- [[DraftLowerColoradoRiverOperati_13907]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[ChronologyOfYumaCoveActivities_15028]]
+- [[BiologicalEvaluationOfTheAppro_15074]]
+- [[ReRequestForCommentsRegardingT_15640]]
+- [[ManagementOfDischargeTemperatu_15927]]
+- [[RazorbackSuckerMonitoringInLak_17016]]
+- [[AssessmentOfTheNeedForForageEn_17853]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[CaptureOfASuspectedJuvenileRaz_19058]]
+- [[ProposedActionPlanForReintrodu_19433]]

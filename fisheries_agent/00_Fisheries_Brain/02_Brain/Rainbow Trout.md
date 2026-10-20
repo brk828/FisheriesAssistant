@@ -266,6 +266,42 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > This note documents the first freshwater record of [[Pacific Lamprey]] (*Lampetra tridentata*) from [[Baja California]], Mexico. An ammocoete (larval lamprey) was collected on 19 February 1995 in the lower [[Rio Santo Domingo]], approximately 600 m above its mouth at Bahia San Ramon, 6 km west of...
 > -- *[[FirstFreshwaterRecordOfPacific_21111]]*
 
+> This biological opinion (2-21-94-F-244) evaluates the U.S. Fish and Wildlife Service's program to stock catchable-size (8-10 inch) [[Rainbow Trout]] and [[Channel Catfish]] into the lower [[Colorado River]] from [[Hoover Dam]] to the International Border. The consultation addresses potential...
+> -- *[[SummaryBiologicalOpinionOnUsFi_11657]]*
+
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
+> This study examined movements of [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] within [[Grand Canyon]], Arizona from October 1990 through November 1993, evaluating effects of [[Glen Canyon Dam]] operations on movement patterns. Using radiotelemetry (75 radio-tagged adults) and PIT-tag...
+> -- *[[MovementOfHumpbackChubInTheCol_13639]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
+> -- *[[LakePowellFisheriesInvestigati_14595]]*
+
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
+> This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
+> -- *[[GlenCanyonNationalRecreationAr_18334]]*
+
+> This document is a draft research plan developed by Dr. Duncan Patten and core scientists for the [[Glen Canyon Environmental Studies]] (GCES) program, presented to the Executive Review Committee in February 1990. The plan proposes a comprehensive series of controlled discharge experiments from...
+> -- *[[GlenCanyonEnvironmentalStudies_19687]]*
+
+> This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
+> -- *[[GlenCanyonEnvironmentalStudies_19734]]*
+
+> This document reports the confirmed reproduction of illegally introduced [[Northern Pike]] (*Esox lucius*) in [[Parker Canyon Lake]], Arizona. First detected in summer 1997, juvenile pike were sampled by September 1998, confirming successful reproduction. The 124-acre lake southwest of [[Sierra...
+> -- *[[ReproductionOfNorthernPikeConf_20180]]*
+
+> This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
+> -- *[[FishParasites_20804]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -615,3 +651,15 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[GlenCanyonEnvironmentalStudies_19678]]
 - [[TheResistanceOfRainbowTroutSal_19859]]
 - [[FirstFreshwaterRecordOfPacific_21111]]
+- [[SummaryBiologicalOpinionOnUsFi_11657]]
+- [[DraftLittleColoradoRiverSpined_11662]]
+- [[MovementOfHumpbackChubInTheCol_13639]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[LakePowellFisheriesInvestigati_14595]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[AssessmentOfTheNeedForForageEn_17853]]
+- [[GlenCanyonNationalRecreationAr_18334]]
+- [[GlenCanyonEnvironmentalStudies_19687]]
+- [[GlenCanyonEnvironmentalStudies_19734]]
+- [[ReproductionOfNorthernPikeConf_20180]]
+- [[FishParasites_20804]]

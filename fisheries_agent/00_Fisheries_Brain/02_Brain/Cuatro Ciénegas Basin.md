@@ -29,6 +29,9 @@ The Cuatro Ciénegas Basin is an isolated, ancient desert wetland system in Coah
 > This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
 > -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
 
+> This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
+> -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
+
 ## Mentioned In
 - [[ANewSpeciesOfLeptocarisCrustac_13646]]
 - [[AlonzoRiosContreras_20775]]
@@ -54,3 +57,4 @@ The Cuatro Ciénegas Basin is an isolated, ancient desert wetland system in Coah
 - [[StenasellidIsopodCrustaceansIn_1972_02_29]]
 - [[ASummaryOfInformationAboutTheA_18574]]
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[NotesFromFieldWorkInTheCuatroc_12737]]

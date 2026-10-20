@@ -29,6 +29,9 @@ The Sacramento River is a major California river system that serves as a critica
 > This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
 > -- *[[ConservationOfNativeFreshwater_15444]]*
 
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
 ## Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -41,3 +44,4 @@ The Sacramento River is a major California river system that serves as a critica
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
 - [[MhcVariationAndParasiteResista_12519]]
 - [[ConservationOfNativeFreshwater_15444]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]

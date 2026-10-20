@@ -11,6 +11,10 @@ auto_enriched: true
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
 > -- *[[ManagementGroupMeetingSummary_19219]]*
 
+> This draft appraisal report, dated June 14, 1994, evaluates methods to study and implement temperature controls at [[Glen Canyon Dam]] for the recovery of native and endangered fishes below the dam. Cold water discharges (8-10°C year-round) from the dam's deep hypolimnetic releases severely limit...
+> -- *[[GlenCanyonDamDischargeTemperat_11486]]*
+
 ## Mentioned In
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[ManagementGroupMeetingSummary_19219]]
+- [[GlenCanyonDamDischargeTemperat_11486]]

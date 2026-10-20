@@ -32,6 +32,9 @@ East Clear Creek is a tributary stream system within the Little Colorado River w
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
 ## Mentioned In
 - [[LetterToWLMinckleyOnLittleColo_1987_01_26]]
 - [[LittleColoradoRiverSpinedaceSu_1991_07_29]]
@@ -42,3 +45,4 @@ East Clear Creek is a tributary stream system within the Little Colorado River w
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[DraftLittleColoradoRiverSpined_11662]]

@@ -11,5 +11,9 @@ Rome Hatchery is a fish hatchery facility in New York State that served as a sou
 > This study establishes toxicity curves for cyanide exposure in [[Brown Trout]] (*Salmo trutta*) and [[Smallmouth Bass]] (*Micropterus dolomieu*) under controlled laboratory conditions. Using a constant-flow, constant-temperature apparatus, researchers determined median lethal times across a range...
 > -- *[[ToxicityOfCyanideToBrownTroutA_13902]]*
 
+> This experimental study compared an all-pellet dry food diet with a traditional pellet-plus-meat diet for [[Brook Trout]] and [[Brown Trout]] in New York State hatcheries from November 1957 through April 1958. Nine pairs of hatchery ponds across six facilities were used to evaluate growth,...
+> -- *[[PelletedDryFoodAsATotalDietFor_20344]]*
+
 ## Mentioned In
 - [[ToxicityOfCyanideToBrownTroutA_13902]]
+- [[PelletedDryFoodAsATotalDietFor_20344]]

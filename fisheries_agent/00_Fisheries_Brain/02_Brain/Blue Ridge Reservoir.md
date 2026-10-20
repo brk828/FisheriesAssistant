@@ -14,6 +14,10 @@ Blue Ridge Reservoir is an impoundment on East Clear Creek in Coconino County, A
 > This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
 > -- *[[ArizonaComparativeRiskProjectE_15833]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[ArizonaComparativeRiskProjectE_15833]]
+- [[DraftLittleColoradoRiverSpined_11662]]

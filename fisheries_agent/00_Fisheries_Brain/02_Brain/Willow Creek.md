@@ -17,8 +17,12 @@ auto_enriched: true
 > This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
 > -- *[[BiologicalOpinionToRepairErosi_11916]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
 ## Mentioned In
 - [[EquilibriumConditionAndSedimen_1976]]
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[LakeAndReservoirInvestigations_12145]]
 - [[BiologicalOpinionToRepairErosi_11916]]
+- [[DraftLittleColoradoRiverSpined_11662]]

@@ -50,6 +50,12 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 > This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
 > -- *[[BuildingSuccessfulPartnerships_13226]]*
 
+> This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
+> -- *[[IntraofficeMemoFishSurveys_13821]]*
+
+> This supplemental environmental assessment, prepared by the [[U.S. Bureau of Land Management]] (BLM) Phoenix District Office in December 1983, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*)...
+> -- *[[IntroductionOfGilaTopminnowAnd_17956]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReDescriptionOfAphaniusGinaon_1980]]
@@ -114,3 +120,5 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[BuildingSuccessfulPartnerships_13226]]
+- [[IntraofficeMemoFishSurveys_13821]]
+- [[IntroductionOfGilaTopminnowAnd_17956]]

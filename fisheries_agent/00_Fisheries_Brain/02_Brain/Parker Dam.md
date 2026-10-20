@@ -62,6 +62,9 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 > Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
 > -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
 
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
 ## Mentioned In
 - [[HumpbackChubGilaCypha_18257]]
 - [[ReCommentsOnTheFederalRegister_11571]]
@@ -84,3 +87,4 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 - [[IntroductionOfPalaemonetesPalu_20723]]
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]

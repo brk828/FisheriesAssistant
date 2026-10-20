@@ -74,6 +74,12 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 > This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
 > -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
 
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -108,3 +114,5 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 - [[DraftRecoveryImplementationPro_11643]]
 - [[RazorbackSuckerXyauchenTexanus_13769]]
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[DraftFiveyearRoadMap_11579]]

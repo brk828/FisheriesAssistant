@@ -182,6 +182,39 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > This correspondence from Arizona State University's Center for Environmental Studies to Glen Canyon Environmental Studies requests authorization for computer access, updates base camp locations for [[Humpback Chub]] research in the [[Little Colorado River]] gorge, and seeks resolution of logistical...
 > -- *[[AccessRequestUsgsMainFrameComp_19454]]*
 
+> This document is a research proposal and methodological framework developed by Owen T. Gorman (U.S. Fish and Wildlife Service, Pinetop Fishery Assistance Office) for assessing microhabitat use by fishes in the [[Little Colorado River]] (LCR), with special emphasis on the endangered [[Humpback...
+> -- *[[FirstAndSecondDraftUsingHoopne_11067]]*
+
+> This draft appraisal report, dated June 14, 1994, evaluates methods to study and implement temperature controls at [[Glen Canyon Dam]] for the recovery of native and endangered fishes below the dam. Cold water discharges (8-10°C year-round) from the dam's deep hypolimnetic releases severely limit...
+> -- *[[GlenCanyonDamDischargeTemperat_11486]]*
+
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
+> This study examined movements of [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] within [[Grand Canyon]], Arizona from October 1990 through November 1993, evaluating effects of [[Glen Canyon Dam]] operations on movement patterns. Using radiotelemetry (75 radio-tagged adults) and PIT-tag...
+> -- *[[MovementOfHumpbackChubInTheCol_13639]]*
+
+> This 1994 management proposal addresses the severe impacts of [[Glen Canyon Dam]] operations on native fish populations in [[Grand Canyon]]. The 1963 dam closure fundamentally altered downstream flow regimes, thermal characteristics, and sediment transport dynamics, resulting in extirpation of...
+> -- *[[ManagementOfDischargeTemperatu_15927]]*
+
+> This correspondence from Arizona State University researchers Michael E. Douglas and Paul C. Marsh reports data collected on [[Gila cypha]] (humpback chub) populations in the [[Little Colorado River]] during July-August 1991. The study was conducted as part of the [[Glen Canyon Environmental...
+> -- *[[DataCompilationGilaCyphaAsunnh_19090]]*
+
+> This document is a draft research plan developed by Dr. Duncan Patten and core scientists for the [[Glen Canyon Environmental Studies]] (GCES) program, presented to the Executive Review Committee in February 1990. The plan proposes a comprehensive series of controlled discharge experiments from...
+> -- *[[GlenCanyonEnvironmentalStudies_19687]]*
+
+> This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
+> -- *[[GlenCanyonEnvironmentalStudies_19734]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -353,3 +386,14 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[IntroductionOfRainbowSmeltInto_17850]]
 - [[SummaryOfCollectingLocalitiesF_18502]]
 - [[AccessRequestUsgsMainFrameComp_19454]]
+- [[FirstAndSecondDraftUsingHoopne_11067]]
+- [[GlenCanyonDamDischargeTemperat_11486]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[DraftLittleColoradoRiverSpined_11662]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]
+- [[MovementOfHumpbackChubInTheCol_13639]]
+- [[ManagementOfDischargeTemperatu_15927]]
+- [[DataCompilationGilaCyphaAsunnh_19090]]
+- [[GlenCanyonEnvironmentalStudies_19687]]
+- [[GlenCanyonEnvironmentalStudies_19734]]

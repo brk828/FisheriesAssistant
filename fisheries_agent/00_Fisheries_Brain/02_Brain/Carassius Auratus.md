@@ -26,6 +26,9 @@ Carassius auratus, commonly known as the goldfish, is a domesticated cyprinid fi
 > This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
 > -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
 
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -37,3 +40,4 @@ Carassius auratus, commonly known as the goldfish, is a domesticated cyprinid fi
 - [[InfluenceOfAppearanceOfPreyAnd_1973]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+- [[EvaluationAndRelativeResistanc_19097]]
