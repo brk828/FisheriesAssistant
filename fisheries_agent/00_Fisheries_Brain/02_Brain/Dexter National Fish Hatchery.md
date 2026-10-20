@@ -167,6 +167,30 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This FY 1993 annual project report documents a genetic diversity study of the [[Razorback Sucker]] (*Xyrauchen texanus*), a large, long-lived catostomid endemic to the [[Colorado River]] drainage. The research examined mitochondrial DNA (mtDNA) variation in the [[Lake Mohave]] source population and...
 > -- *[[FyAnnualProjectReportColoradoR_19124]]*
 
+> This Federal Register document announces the U.S. Fish and Wildlife Service's final rule removing the [[Amistad Gambusia]] (*Gambusia amistadensis*) from the List of Endangered and Threatened Wildlife, effective January 4, 1988. The delisting is based on determination that the species is extinct....
+> -- *[[EndangeredAndThreatenedWildlif_11567]]*
+
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
+> This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
+> -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
+
+> This Bureau of Reclamation memorandum documents the January 10, 1991 Native Fish Work Group meeting regarding ongoing efforts to restore [[Razorback Sucker]] populations in [[Lake Mohave]]. The project involves fish renovation of [[Yuma Cove]], introduction of mature razorback suckers for spawning,...
+> -- *[[ResultsOfTheNativeFishWorkGrou_15025]]*
+
+> This memorandum documents an intensive interagency sampling effort conducted March 5-13, 1988, at [[Lake Mohave]], Arizona-Nevada, targeting the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). Camp Five, stationed at [[Arrowhead Cove]], was responsible...
+> -- *[[SummaryOfTripToSampleBonytailC_15634]]*
+
+> This case study examines the conservation status, recovery efforts, and reintroduction programs for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America. Once a dominant predator throughout the [[Colorado River]] system, the species declined dramatically from...
+> -- *[[CaseStudyColoradoRiverSqauwfis_16101]]*
+
+> This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
+> -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
+
+> This comprehensive review by [[Peter S. Maitland]] examines the global status of fish conservation, covering approximately 30,000 described fish species worldwide. Despite fish representing three in every five vertebrate species, they have historically received minimal conservation attention...
+> -- *[[TheConservationOfFishPastAndPr_19359]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -342,3 +366,11 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[DraftbonytailChubGilaElegans_14696]]
 - [[PreliminaryDraftManagementPlan_16433]]
 - [[FyAnnualProjectReportColoradoR_19124]]
+- [[EndangeredAndThreatenedWildlif_11567]]
+- [[LetterToWayneStarnesAuthorizat_11924]]
+- [[RazorbackSuckerXyauchenTexanus_13769]]
+- [[ResultsOfTheNativeFishWorkGrou_15025]]
+- [[SummaryOfTripToSampleBonytailC_15634]]
+- [[CaseStudyColoradoRiverSqauwfis_16101]]
+- [[RazorbackSuckerXyrauchenTexanu_18008]]
+- [[TheConservationOfFishPastAndPr_19359]]

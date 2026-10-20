@@ -41,6 +41,9 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This 1971 NOAA technical report by [[Robert C. May]] compiles an annotated bibliography of scientific papers describing attempts to rear marine fish larvae in laboratory settings from 1878 through 1969. The work was prepared to support researchers at the [[Bureau of Commercial Fisheries]] (later...
 > -- *[[AnAnnotatedBibliographyOfAttem_15220]]*
 
+> This document presents the final rule amending 50 CFR Part 424, establishing revised procedures for listing endangered and threatened species and designating critical habitat under the [[Endangered Species Act]] (ESA). Published October 1, 1984, by the [[U.S. Fish and Wildlife Service]] and...
+> -- *[[ListingEndangeredAndThreatened_13309]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -63,3 +66,4 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[InteriorPublishesProposedNoSup_14551]]
 - [[AnAnnotatedBibliographyOfAttem_15220]]
+- [[ListingEndangeredAndThreatened_13309]]

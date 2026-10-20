@@ -20,6 +20,9 @@ The New Mexico Department of Game and Fish is the state regulatory agency respon
 > This document comprises museum correspondence and specimen records from May 1995 regarding holdings of [[Cyprinella formosa]] (Beautiful Shiner) from the [[Mimbres River]] in [[New Mexico]]. The records document specimens held at the Museum of Southwestern Biology (MSB) and the University of...
 > -- *[[CyprinellaFormosaMimbresRiverE_21256]]*
 
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[LetterClarifyingReportingDates_1987_08_03]]
@@ -30,3 +33,4 @@ The New Mexico Department of Game and Fish is the state regulatory agency respon
 - [[WildlifeConservationActAmendme_1995]]
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
 - [[CyprinellaFormosaMimbresRiverE_21256]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

@@ -44,6 +44,9 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 > This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
 > -- *[[GilaTopminnowsantaCruzRiver_20207]]*
 
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -61,3 +64,4 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 - [[FishesOfTheSonoitaCreekDrainag_18558]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]

@@ -20,9 +20,13 @@ auto_enriched: true
 > This proposal by [[Michael J.C. Kearsley]] and [[Tina J. Ayers]] from [[Northern Arizona University]] requests funding to continue monitoring riparian and wetland plant assemblages in the [[Colorado River]] corridor downstream of [[Glen Canyon Dam]] in [[Grand Canyon National Park]]. The 12-month...
 > -- *[[TransitionMonitoringForRiparia_17903]]*
 
+> This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
+> -- *[[FisheryManagementForTheSanBern_18979]]*
+
 ## Mentioned In
 - [[InvestigationOfTheUnlinedCoach_17022]]
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[RenovationOfPalmLakeHassayampa_11969]]
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[TransitionMonitoringForRiparia_17903]]
+- [[FisheryManagementForTheSanBern_18979]]

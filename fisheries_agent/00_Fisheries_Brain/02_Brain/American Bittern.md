@@ -14,6 +14,14 @@ American Bittern (Botaurus lentiginosus) is a wading bird identified as a defini
 > The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
 > -- *[[LowerColoradoRiverMultispecies_11766]]*
 
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
+> This 1916 article by Wallace Craig examines whether animals possess innate mechanisms for maintaining synchronous rhythms with external stimuli, analogous to human behaviors like marching in step. The author critically reviews reported cases of synchronous behavior in various taxa including...
+> -- *[[SynchronismInTheRhythmicActivi_17992]]*
+
 ## Mentioned In
 - [[ABibliographyAndHostListForThe_15289]]
 - [[LowerColoradoRiverMultispecies_11766]]
+- [[MichiganFishPredators_12681]]
+- [[SynchronismInTheRhythmicActivi_17992]]

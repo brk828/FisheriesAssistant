@@ -35,6 +35,9 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
 ## Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[MeasuresToImproveSportFishingA_1962]]
@@ -47,3 +50,4 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[TowardRangewideIntegrationOfRe_18628]]

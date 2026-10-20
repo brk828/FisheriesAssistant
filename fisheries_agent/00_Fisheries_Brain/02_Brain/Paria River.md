@@ -44,6 +44,15 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 > This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
 > -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
 
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
+> This performance report documents the second year (July 1980 - June 1981) of a three-year investigation into the biological impacts of fluctuating water levels on the [[Colorado River]] fishery below [[Glen Canyon Dam]]. The study area extends from the dam to the [[Paria River]] confluence,...
+> -- *[[StatewideFisheriesResearch_13299]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
 ## Mentioned In
 - [[CommentsOnDraftColoradoRiverEn_1993_12_28]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -66,3 +75,6 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 - [[DraftLowerColoradoRiverBasinNa_11647]]
 - [[InterimFlowsForGrandCanyonReco_18454]]
 - [[HabitatUseByHumpbackChubGilaCy_11090]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[StatewideFisheriesResearch_13299]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]

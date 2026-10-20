@@ -14,9 +14,13 @@ auto_enriched: true
 > This genetic study examined 11 stream populations of presumed [[Gila Trout]] (*Oncorhynchus gilae*) using horizontal starch gel electrophoresis of 48 protein-coding loci to address two critical conservation issues: (1) detection of hybridization with [[Rainbow Trout]] (*O. mykiss*) and (2)...
 > -- *[[GeneticIssuesInTheConservation_20219]]*
 
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[LetterToWLMinckleyRegardingSpi_1987_03_27]]
 - [[ProposedRuleDesignationOfCriti_1985_06_18]]
 - [[AddendumToTheMarchEnvironmenta_11496]]
 - [[EndangeredAndThreatenedWildlif_14803]]
 - [[GeneticIssuesInTheConservation_20219]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

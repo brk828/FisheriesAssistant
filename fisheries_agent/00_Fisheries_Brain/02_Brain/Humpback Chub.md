@@ -287,6 +287,63 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
 > -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
 
+> This document comprises multiple research proposals (FY-1994 Scope-of-Work) for the Recovery Implementation Program targeting endangered fish species in the [[Upper Colorado River Basin]]. The proposals focus on evaluating flow manipulations from the [[Aspinall Unit]] and their effects on...
+> -- *[[FiscalYearScopeOfWorkResearchP_11213]]*
+
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
+> This Federal Register document (Vol. 58, No. 18, January 29, 1993) presents the U.S. Fish and Wildlife Service's proposed rule to designate critical habitat for four endemic [[Colorado River Basin]] fishes: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus lucius*),...
+> -- *[[EndangeredAndThreatenedWildlif_11639]]*
+
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This pilot study proposal evaluates the feasibility of using non-lethal stomach pumping techniques to assess food habits of [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The study aims to determine if stomach flushing can be performed without damaging the pharyngeal mill and to assess...
+> -- *[[ANonlethalStomachPumpToRecover_13644]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
+> This report documents two consecutive creel census studies conducted at [[Lee's Ferry]] on the [[Colorado River]] below [[Glen Canyon Dam]] from July 1964 through June 1966. The first segment (July 1964-June 1965) recorded 2,216 angler trips over 176 census days, yielding 8,047 [[Rainbow Trout]]...
+> -- *[[TailwatersFisheriesInvestigati_14584]]*
+
+> This case study examines the conservation status, recovery efforts, and reintroduction programs for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America. Once a dominant predator throughout the [[Colorado River]] system, the species declined dramatically from...
+> -- *[[CaseStudyColoradoRiverSqauwfis_16101]]*
+
+> This document summarizes a three-day workshop (November 8-10, 1999) at Saguaro Lake Ranch convened to evaluate a proposed temperature control device (TCD) for [[Glen Canyon Dam]]. The workshop brought together scientists, resource managers, and conservationists to provide input on research and...
+> -- *[[GlenCanyonDamTemperatureContro_17019]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This document presents a comprehensive summary of collecting localities for the [[Humpback Chub]] (*Gila cypha*) from the [[Colorado River]] and selected tributaries in [[Coconino County]] and [[Mohave County]], Arizona, spanning from archaeological remains (4000 years B.P.) through 1979....
+> -- *[[SummaryOfCollectingLocalitiesF_18502]]*
+
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
+> This correspondence from Arizona State University's Center for Environmental Studies to Glen Canyon Environmental Studies requests authorization for computer access, updates base camp locations for [[Humpback Chub]] research in the [[Little Colorado River]] gorge, and seeks resolution of logistical...
+> -- *[[AccessRequestUsgsMainFrameComp_19454]]*
+
+> This document comprises meeting notes and correspondence from the [[Glen Canyon Environmental Studies]] (GCES) Technical Team meetings held March 20-21, 1989, in Las Vegas, Nevada. The meetings addressed the Fiscal Year 1989 technical study plan, organizational restructuring of study teams,...
+> -- *[[GlenCanyonEnvironmentalStudies_19678]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -718,3 +775,22 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
 - [[ElectrofishingAndItsHarmfulEff_2003]]
+- [[FiscalYearScopeOfWorkResearchP_11213]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[EndangeredAndThreatenedWildlif_11639]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[LetterToWayneStarnesAuthorizat_11924]]
+- [[AnInvestigationOfEndangeredAnd_12516]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[ANonlethalStomachPumpToRecover_13644]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]
+- [[TailwatersFisheriesInvestigati_14584]]
+- [[CaseStudyColoradoRiverSqauwfis_16101]]
+- [[GlenCanyonDamTemperatureContro_17019]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[SummaryOfCollectingLocalitiesF_18502]]
+- [[TowardRangewideIntegrationOfRe_18628]]
+- [[AccessRequestUsgsMainFrameComp_19454]]
+- [[GlenCanyonEnvironmentalStudies_19678]]

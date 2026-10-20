@@ -11,5 +11,9 @@ Mayfly nymphs are aquatic insect larvae that serve as a major food source for Bl
 > This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
 > -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
 
+> This 1939 report by J. W. Leonard of the Institute for Fisheries Research documents an experimental stocking of [[Montana Grayling]] (*Thymallus montanus*) in a small northern Michigan lake, following the extinction of the native [[Michigan Grayling]]. The study aimed to determine whether Montana...
+> -- *[[TheMontanaGraylingInMichigan_20282]]*
+
 ## Mentioned In
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[TheMontanaGraylingInMichigan_20282]]

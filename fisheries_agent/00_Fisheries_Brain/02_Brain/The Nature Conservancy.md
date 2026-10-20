@@ -71,6 +71,12 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
 > -- *[[ManagementGroupMeetingSummary_19219]]*
 
+> This recovery plan addresses four federally listed fish species from the [[Rio Yaqui Basin]]: two endangered species—[[Yaqui Chub]] (*Gila purpurea*) and [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*)—and two threatened species—[[Yaqui Catfish]] (*Ictalurus pricei*) and [[Beautiful...
+> -- *[[DraftRecoveryPlanForTheEndange_11645]]*
+
+> This investigation by the [[Arizona Department of Environmental Quality]] documents water quality impacts from the [[Klondyke Tailings]] along [[Aravaipa Creek]] in [[Graham County]], Arizona. The tailings consist of 220,000 tons of milled ore rich in lead, zinc, copper, and silver situated within...
+> -- *[[TheKlondykeTailingsAndAravaipa_14554]]*
+
 ## Mentioned In
 - [[AssignmentsMadeAtFebruaryMeeti_1992_02_19]]
 - [[AttemptedReEstablish_1969_03_06]]
@@ -116,3 +122,5 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 - [[DesertFishesRecoveryTeamAddres_13785]]
 - [[AProposedDemonstrationModelToI_17636]]
 - [[ManagementGroupMeetingSummary_19219]]
+- [[DraftRecoveryPlanForTheEndange_11645]]
+- [[TheKlondykeTailingsAndAravaipa_14554]]

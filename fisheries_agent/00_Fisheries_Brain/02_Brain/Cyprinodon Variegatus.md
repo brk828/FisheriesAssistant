@@ -23,6 +23,9 @@ Cyprinodon variegatus, commonly known as the sheepshead minnow, is a small cypri
 > **Braunig Reservoir (power-plant cooling reservoir, sampled Sept. 29, 1977):** - 14 total species; 7 likely native (*Dorosoma cepedianum, D. petenense, Pimephales vigilax, Gambusia affinis, Lepomis cyanellus, L. megalotis, L. macrochirus*), 1 possibly native (*Notemigonus crysoleucas*). - **[[Cyp...
 > -- *[[SurvivalAndAbundanceOfIntroduc_14259]]*
 
+> This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
+> -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
+
 ## Mentioned In
 - [[EcologyAndEffectsOfIntestinalG_1967_04_21]]
 - [[FactorsInfluencingLocalDistrib_17059]]
@@ -30,3 +33,4 @@ Cyprinodon variegatus, commonly known as the sheepshead minnow, is a small cypri
 - [[SurvivalAndAbundanceOfIntroduc_14259]]
 - [[SurvivalOfFHybridsBetweenCypri_1959]]
 - [[TheDistributionOfTheOviparousK_16815]]
+- [[AReviewOfTheBiologyOfTheMosqui_14748]]

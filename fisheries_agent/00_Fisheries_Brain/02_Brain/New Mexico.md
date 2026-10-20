@@ -32,6 +32,15 @@ auto_enriched: true
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This document is a legal complaint filed by the Board of County Commissioners of [[Catron County]], New Mexico, against the [[U.S. Fish and Wildlife Service]] (FWS) and its officials in U.S. District Court (Case No. CIV 93-730-HB). The complaint challenges FWS actions regarding two threatened fish...
+> -- *[[CatronCountyBoardOfCommissione_16056]]*
+
+> This document is a research pre-proposal submitted in March 1993 by W.L. Minckley ([[Arizona State University]]), Salvador Contreras-Balderas ([[Universidad Autonoma de Nuevo Leon]]), and James P. Collins to the Mexico-United States Foundation for Science. The proposal seeks $94,000 over two years...
+> -- *[[ProposalBiologicallySensitiveA_16496]]*
+
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[RainbowSmeltIntroductionIntoLa_1989]]
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
@@ -43,3 +52,6 @@ auto_enriched: true
 - [[RegionEndangeredSpeciesActIntr_11825]]
 - [[CyprinellaFormosaMimbresRiverE_21256]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[CatronCountyBoardOfCommissione_16056]]
+- [[ProposalBiologicallySensitiveA_16496]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

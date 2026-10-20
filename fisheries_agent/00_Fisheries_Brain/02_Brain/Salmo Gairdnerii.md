@@ -20,7 +20,11 @@ Salmo gairdnerii, commonly known as the rainbow trout, is a freshwater salmonid 
 > 1. **Two independent types of thyroid activity cycles** identified across species: - **Basic annual cycle** (mature + immature fish): high activity winter/spring, low in summer — reflected in epithelial cell height, iodine uptake, and iodine loss rate. - **Reproductive cycle** (mature fish only):...
 > -- *[[CyclicalActivityOfTheThyroidGl_15081]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
 ## Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[AnExperimentInHatchingSilverSa_1939]]
 - [[CyclicalActivityOfTheThyroidGl_15081]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]

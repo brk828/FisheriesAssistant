@@ -35,6 +35,9 @@ Cichlidae is a diverse family of freshwater and brackish-water fish found primar
 > This document is correspondence from the [[University of Michigan]] [[Museum of Zoology]] in Ann Arbor, Michigan. The handwritten letter appears to reference cichlid specimens, specifically mentioning [[Cichlasoma]], a genus in the family [[Cichlidae]]. The document quality is poor due to OCR...
 > -- *[[TilapiaAtCuatroCienegasMexico_15378]]*
 
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AquaticConservationNetworkCorr_1993_03_10]]
@@ -69,3 +72,4 @@ Cichlidae is a diverse family of freshwater and brackish-water fish found primar
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[TilapiaInCuatroCienegas_13761]]
 - [[TilapiaAtCuatroCienegasMexico_15378]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

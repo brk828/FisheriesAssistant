@@ -38,6 +38,12 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 > Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
 > -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
 
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This document summarizes a three-day workshop (November 8-10, 1999) at Saguaro Lake Ranch convened to evaluate a proposed temperature control device (TCD) for [[Glen Canyon Dam]]. The workshop brought together scientists, resource managers, and conservationists to provide input on research and...
+> -- *[[GlenCanyonDamTemperatureContro_17019]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[FishHandlingAssessmentOnGrandC_1991_09_05]]
@@ -60,3 +66,5 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 - [[RiverResourceMonitoringProject_18503]]
 - [[LongtermLimnologicalAndWaterQu_17092]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[GlenCanyonDamTemperatureContro_17019]]

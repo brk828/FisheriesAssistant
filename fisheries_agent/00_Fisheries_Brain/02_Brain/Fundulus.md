@@ -26,6 +26,9 @@ Fundulus is a genus of small topminnows in the family Cyprinodontidae that are w
 > This 1971 academic paper by John N. Rinne examines the [[Pleistocene Epoch]] from multiple perspectives: climatic causes, chronological methods, hydrological conditions, and faunal evidence. The document emphasizes that the Pleistocene was characterized by dramatic climatic oscillations, extensive...
 > -- *[[ThePleistoceneItsClimateCauses_14987]]*
 
+> This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
+> -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
+
 ## Mentioned In
 - [[ArtificialHybridizationOfCreni_14299]]
 - [[ElectronMicroscopicInvestigati_1964_06_11]]
@@ -35,3 +38,4 @@ Fundulus is a genus of small topminnows in the family Cyprinodontidae that are w
 - [[ALiteratureReviewOfTheEffectsO_20478]]
 - [[TheUseOfAnestheticsForTheHandl_12317]]
 - [[ThePleistoceneItsClimateCauses_14987]]
+- [[AReviewOfTheBiologyOfTheMosqui_14748]]

@@ -14,6 +14,10 @@ Sulfur Springs Valley is an immense valley in southeastern Arizona whose floor w
 > This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
 > -- *[[SkyIslandAquaticResourcesHabit_15003]]*
 
+> This investigation by the [[Arizona Department of Environmental Quality]] documents water quality impacts from the [[Klondyke Tailings]] along [[Aravaipa Creek]] in [[Graham County]], Arizona. The tailings consist of 220,000 tons of milled ore rich in lead, zinc, copper, and silver situated within...
+> -- *[[TheKlondykeTailingsAndAravaipa_14554]]*
+
 ## Mentioned In
 - [[ABotanistInArizonaTerritoryJac_13225]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
+- [[TheKlondykeTailingsAndAravaipa_14554]]

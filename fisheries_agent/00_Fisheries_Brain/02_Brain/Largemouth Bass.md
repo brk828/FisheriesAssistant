@@ -341,6 +341,51 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is an invasive predatory fish in [[Box Canyon Reservoir]]. During 2022 suppression, males averaged 587 mm TL (23 inches) and 1,430 g (3.1 lbs.), while females averaged 627 mm TL (25 inches) and 1,800 g (4.0 lbs.). Overall size...
 > -- *[[SummaryOfNorthernPikeSuppressi_2022]]*
 
+> This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
+> -- *[[CreelCensusReport_11332]]*
+
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This recovery plan addresses four federally listed fish species from the [[Rio Yaqui Basin]]: two endangered species—[[Yaqui Chub]] (*Gila purpurea*) and [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*)—and two threatened species—[[Yaqui Catfish]] (*Ictalurus pricei*) and [[Beautiful...
+> -- *[[DraftRecoveryPlanForTheEndange_11645]]*
+
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This report documents two consecutive creel census studies conducted at [[Lee's Ferry]] on the [[Colorado River]] below [[Glen Canyon Dam]] from July 1964 through June 1966. The first segment (July 1964-June 1965) recorded 2,216 angler trips over 176 census days, yielding 8,047 [[Rainbow Trout]]...
+> -- *[[TailwatersFisheriesInvestigati_14584]]*
+
+> This memorandum documents an intensive interagency sampling effort conducted March 5-13, 1988, at [[Lake Mohave]], Arizona-Nevada, targeting the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). Camp Five, stationed at [[Arrowhead Cove]], was responsible...
+> -- *[[SummaryOfTripToSampleBonytailC_15634]]*
+
+> This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
+> -- *[[BonytailrazorbackSuckerCoopera_17048]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This master's thesis investigated the vertical distribution of fishes in [[Roosevelt Lake]] and [[Apache Lake]], two contiguous reservoirs on the [[Salt River]] in central Arizona, during 1970-1971. Using vertical gill nets at multiple transects, the study examined fish depth distributions relative...
+> -- *[[VerticalDistributionOfFishesRe_18202]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
+> -- *[[FisheryManagementForTheSanBern_18979]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
+> This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
+> -- *[[LakeMohaveSamplingMarch_20326]]*
+
 ## Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -680,3 +725,18 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[PredatoryFishRemovalAndNativeF_2005]]
 - [[NorthernPikeControlAtLakeDavis_2001]]
 - [[SummaryOfNorthernPikeSuppressi_2022]]
+- [[CreelCensusReport_11332]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[DraftRecoveryPlanForTheEndange_11645]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[MichiganFishPredators_12681]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[TailwatersFisheriesInvestigati_14584]]
+- [[SummaryOfTripToSampleBonytailC_15634]]
+- [[BonytailrazorbackSuckerCoopera_17048]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[VerticalDistributionOfFishesRe_18202]]
+- [[BeaverScoping_18972]]
+- [[FisheryManagementForTheSanBern_18979]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]
+- [[LakeMohaveSamplingMarch_20326]]

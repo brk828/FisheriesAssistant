@@ -23,6 +23,9 @@ Salvelinus fontinalis, commonly known as the brook trout, is a freshwater salmon
 > - **Species-specific and stage-specific tolerance**: Thermal tolerance varies enormously across taxa and life stages; fewer than 5% of ~1,900 fish species in the U.S./Canada (per American Fisheries Society 1960 list) had been specifically tested for temperature response at time of writing—an inad...
 > -- *[[WaterTemperatureCriteriaToProt_15269]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
 ## Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[AListOfOntarioFishes_11321]]
@@ -31,3 +34,4 @@ Salvelinus fontinalis, commonly known as the brook trout, is a freshwater salmon
 - [[SebecLakeCreelCensus_16335]]
 - [[TheChemicalCompositionOfLakeWa_11055]]
 - [[WaterTemperatureCriteriaToProt_15269]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]

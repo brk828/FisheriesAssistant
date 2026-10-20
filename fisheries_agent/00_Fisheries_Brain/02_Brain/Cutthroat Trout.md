@@ -53,6 +53,18 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 > Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
 > -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
+> This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
+> -- *[[CreelCensusReport_11332]]*
+
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
+> This performance report documents the second year (July 1980 - June 1981) of a three-year investigation into the biological impacts of fluctuating water levels on the [[Colorado River]] fishery below [[Glen Canyon Dam]]. The study area extends from the dam to the [[Paria River]] confluence,...
+> -- *[[StatewideFisheriesResearch_13299]]*
+
 ## Mentioned In
 - [[APopulationOfDwarfCoastrangeSc_1960]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -117,3 +129,7 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[TheIntroductionOfKokaneeRedSal_18826]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+- [[CreelCensusReport_11332]]
+- [[AnInvestigationOfEndangeredAnd_12516]]
+- [[StatewideFisheriesResearch_13299]]

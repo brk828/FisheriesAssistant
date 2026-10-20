@@ -32,6 +32,9 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 > **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
 > -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
 
+> This 1952 field guide addresses the practical challenges of identifying salmonid game fishes in [[New York State]] waters. The document provides diagnostic characters for six species: [[Brook Trout]] (*Salvelinus fontinalis*), [[Brown Trout]] (*Salmo trutta*), [[Rainbow Trout]] (*Salmo...
+> -- *[[TroutOrSalmon_19215]]*
+
 ## Mentioned In
 - [[BerkshireNationalFishHatcheryS_19579]]
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
@@ -67,3 +70,4 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
+- [[TroutOrSalmon_19215]]

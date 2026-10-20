@@ -32,6 +32,15 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a monotypic catostomid endemic to the [[Colorado River Basin]]. Adults in the [[Green River Basin]] averaged 507 mm TL for males (range 405–576 mm, n=141) and 547 mm TL for females (range 485–608 mm, n=45). Males...
 > -- *[[SpawningAndMovementsOfRazorbac_1990]]*
 
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
+> This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
+> -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
+
 ## Mentioned In
 - [[AnalysisOfPastCollectionsFromT_1993]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -46,3 +55,6 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 - [[CapturesOfLarvalRazorbackSucke_18287]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[SpawningAndMovementsOfRazorbac_1990]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[TowardRangewideIntegrationOfRe_18628]]
+- [[NoticeOfViolationOfTheEsaConce_18645]]

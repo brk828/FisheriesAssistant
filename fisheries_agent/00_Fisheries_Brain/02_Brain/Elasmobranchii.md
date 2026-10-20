@@ -17,8 +17,12 @@ Elasmobranchii, also known as Selachii, represents the major taxonomic group com
 > **Teleostomi (Osteichthyes) as a whole**, distinguished from [[Elasmobranchii]] (Selachii) by: - True scales - Articulated fin rays - Membrane bones, including an opercle covering the branchial clefts - Reduced interbranchial septa - A developed air-bladder or lung - Two external nostrils on each...
 > -- *[[TheAmphibioideiAGroupOfFishesP_19960]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[AutodiastylicSuspensoriumsInPa_16277]]
 - [[BookReviewHandbookOfPaleoichth_1984]]
 - [[GuideToTheMusclesOfBonyFishesE_12904]]
 - [[TheAmphibioideiAGroupOfFishesP_19960]]
+- [[AClassificationOfTheFishesOfTh_14438]]

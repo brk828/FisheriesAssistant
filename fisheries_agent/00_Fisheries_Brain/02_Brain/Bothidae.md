@@ -14,7 +14,11 @@ Bothidae is a family of flatfishes (order Pleuronectiformes) characterized by ha
 > - The key demonstrates that Mexican freshwater ichthyofauna comprises **at least 48 families** spanning both **primary freshwater** and **secondary/euryhaline** origins, reflecting Mexico's geographic position bridging Nearctic and Neotropical ichthyofaunal provinces. - Diagnostic reliance on **f...
 > -- *[[ArtificialKeyToTheFamiliesOfFi_18315]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[Anomalies Encountered in Freshwater and Marine Fishes from the Eastern United States]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]
+- [[AClassificationOfTheFishesOfTh_14438]]

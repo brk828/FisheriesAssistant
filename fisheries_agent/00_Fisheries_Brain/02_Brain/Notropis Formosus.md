@@ -14,7 +14,15 @@ auto_enriched: true
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
 ## Mentioned In
 - [[ItineraryForRioYaquiFishesCapt_1987_09_14]]
 - [[LetterRegardingPlansToObtainLi_1986_12_10]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]

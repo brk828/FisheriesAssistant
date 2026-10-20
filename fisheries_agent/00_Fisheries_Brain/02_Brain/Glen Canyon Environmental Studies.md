@@ -86,6 +86,18 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 > This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
 > -- *[[BureauOfReclamationAnnouncesPu_20788]]*
 
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
+> This memorandum documents the planning and agenda for a National Research Council Water Science and Technology Board committee meeting scheduled for October 9-11, 1991, in [[Flagstaff]], [[Arizona]]. The committee was convened to review the [[Glen Canyon Environmental Studies]] (GCES) program, with...
+> -- *[[AgendaAndOtherInformationForUp_13959]]*
+
+> This 1992 annual report from the [[Arizona Game and Fish Department]] documents comprehensive research on [[Rainbow Trout]] (*Oncorhynchus mykiss*) populations in the [[Lee's Ferry]] reach of the [[Colorado River]] below [[Glen Canyon Dam]] from November 1989 through February 1993. The study...
+> -- *[[GlenCanyonEnvironmentalStudies_16902]]*
+
+> This document comprises meeting notes and correspondence from the [[Glen Canyon Environmental Studies]] (GCES) Technical Team meetings held March 20-21, 1989, in Las Vegas, Nevada. The meetings addressed the Fiscal Year 1989 technical study plan, organizational restructuring of study teams,...
+> -- *[[GlenCanyonEnvironmentalStudies_19678]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -162,3 +174,7 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[ReviewOfGlenCanyonEnvironmenta_14007]]
 - [[BureauOfReclamationAnnouncesPu_20788]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[AgendaAndOtherInformationForUp_13959]]
+- [[GlenCanyonEnvironmentalStudies_16902]]
+- [[GlenCanyonEnvironmentalStudies_19678]]

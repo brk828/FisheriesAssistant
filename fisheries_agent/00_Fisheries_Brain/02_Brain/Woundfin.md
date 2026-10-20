@@ -74,6 +74,12 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 > This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
 > -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -173,3 +179,5 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 - [[AuthorizationToUseTheRegionalD_15706]]
 - [[CommentsOnVirginRiverEa_19382]]
 - [[BiologicalOpinionOnTheEffectsO_11915]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]

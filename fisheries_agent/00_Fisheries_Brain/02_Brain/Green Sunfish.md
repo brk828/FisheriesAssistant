@@ -191,6 +191,21 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 > **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is an endemic catostomid fish of [[Utah Lake]], Utah, USA. The species once numbered in the millions but now has fewer than 1000 individuals. The population consists almost entirely of large, old adults with little evidence...
 > -- *[[ComplexEffectsOfPredatorsDeter_2001]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This report documents two consecutive creel census studies conducted at [[Lee's Ferry]] on the [[Colorado River]] below [[Glen Canyon Dam]] from July 1964 through June 1966. The first segment (July 1964-June 1965) recorded 2,216 angler trips over 176 census days, yielding 8,047 [[Rainbow Trout]]...
+> -- *[[TailwatersFisheriesInvestigati_14584]]*
+
+> This memorandum documents an intensive interagency sampling effort conducted March 5-13, 1988, at [[Lake Mohave]], Arizona-Nevada, targeting the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). Camp Five, stationed at [[Arrowhead Cove]], was responsible...
+> -- *[[SummaryOfTripToSampleBonytailC_15634]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AFishPopulationStudyOfThirdSis_1942]]
@@ -391,3 +406,8 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 - [[APreliminaryEvaluationOfAFishD_20313]]
 - [[StatusOfJuneSuckerInUtahLakeAn_2007]]
 - [[ComplexEffectsOfPredatorsDeter_2001]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[TailwatersFisheriesInvestigati_14584]]
+- [[SummaryOfTripToSampleBonytailC_15634]]
+- [[BeaverScoping_18972]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]

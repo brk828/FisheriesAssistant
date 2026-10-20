@@ -38,6 +38,9 @@ auto_enriched: true
 > This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
 > -- *[[DraftbonytailChubGilaElegans_14696]]*
 
+> This document summarizes a three-day workshop (November 8-10, 1999) at Saguaro Lake Ranch convened to evaluate a proposed temperature control device (TCD) for [[Glen Canyon Dam]]. The workshop brought together scientists, resource managers, and conservationists to provide input on research and...
+> -- *[[GlenCanyonDamTemperatureContro_17019]]*
+
 ## Mentioned In
 - [[FyProjectReportWetlandsRestora_1993]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
@@ -51,3 +54,4 @@ auto_enriched: true
 - [[FyReportingAndAccounting_21020]]
 - [[DraftLongRangePlan_11590]]
 - [[DraftbonytailChubGilaElegans_14696]]
+- [[GlenCanyonDamTemperatureContro_17019]]

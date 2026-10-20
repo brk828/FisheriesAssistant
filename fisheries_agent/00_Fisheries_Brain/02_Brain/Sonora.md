@@ -29,6 +29,9 @@ Sonora refers to a Mexican state located in northwestern Mexico along the Pacifi
 > This 1966 field guide by P. E. Pickens from the [[University of Arizona]] Department of Zoology documents the invertebrate fauna of [[Puerto Peñasco]], [[Sonora]], [[Mexico]] in the [[Gulf of California]]. The guide presents identification keys, illustrations, and distributional data for major...
 > -- *[[AFieldGuideToSomeOfTheInverteb_11179]]*
 
+> This document is a research pre-proposal submitted in March 1993 by W.L. Minckley ([[Arizona State University]]), Salvador Contreras-Balderas ([[Universidad Autonoma de Nuevo Leon]]), and James P. Collins to the Mexico-United States Foundation for Science. The proposal seeks $94,000 over two years...
+> -- *[[ProposalBiologicallySensitiveA_16496]]*
+
 ## Mentioned In
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
 - [[IdentificaciónDelimitaciónDeLa_13133]]
@@ -39,3 +42,4 @@ Sonora refers to a Mexican state located in northwestern Mexico along the Pacifi
 - [[ArizonaAndMexicanDesertPupfish_12498]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
+- [[ProposalBiologicallySensitiveA_16496]]

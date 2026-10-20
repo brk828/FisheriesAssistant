@@ -23,6 +23,9 @@ Fundulidae is a family of small freshwater and brackish-water killifishes native
 > **Core Problem Addressed**: Quantifying fish dispersal distances and identifying general predictors of movement patterns across freshwater fish species to inform population dynamics, recolonization potential, and recovery time predictions following environmental changes or habitat restoration....
 > -- *[[PatternsAndPredictorsOfFishDis_2013]]*
 
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[BookReviewsTransactionsOfTheAm_1985]]
 - [[DescriptionsOfNewSpeciesOfFish_17274]]
@@ -30,3 +33,4 @@ Fundulidae is a family of small freshwater and brackish-water killifishes native
 - [[SpatialAndTemporalVariationInT_16050]]
 - [[DescriptionOfANewSpeciesOfKill_19850]]
 - [[PatternsAndPredictorsOfFishDis_2013]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

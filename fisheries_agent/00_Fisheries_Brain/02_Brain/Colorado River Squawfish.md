@@ -44,6 +44,12 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 > This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
 > -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
 
+> This report documents two consecutive creel census studies conducted at [[Lee's Ferry]] on the [[Colorado River]] below [[Glen Canyon Dam]] from July 1964 through June 1966. The first segment (July 1964-June 1965) recorded 2,216 angler trips over 176 census days, yielding 8,047 [[Rainbow Trout]]...
+> -- *[[TailwatersFisheriesInvestigati_14584]]*
+
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[ArthropodsAndVertebratesOfAriz_16220]]
@@ -67,3 +73,5 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
 - [[PalmLakenativeFishStatus_20905]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[TailwatersFisheriesInvestigati_14584]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]

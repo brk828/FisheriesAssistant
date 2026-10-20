@@ -62,6 +62,18 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
+> This document is a research pre-proposal submitted in March 1993 by W.L. Minckley ([[Arizona State University]]), Salvador Contreras-Balderas ([[Universidad Autonoma de Nuevo Leon]]), and James P. Collins to the Mexico-United States Foundation for Science. The proposal seeks $94,000 over two years...
+> -- *[[ProposalBiologicallySensitiveA_16496]]*
+
+> This Master's thesis by Nancy Beth Grimm (Arizona State University, May 1980) investigated nitrogen and phosphorus dynamics in streams of the [[Gila River Basin]], Arizona. The study assessed potential nutrient limitation of primary production and the role of [[Periphyton]] in nutrient uptake...
+> -- *[[NitrogenAndPhosphorousDynamics_17776]]*
+
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
+> -- *[[WrittenCommentsOnSupplementToD_20523]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[CorrespondenceRegardingDesertF_12709]]
@@ -105,3 +117,7 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 - [[AResolutionOfTheBoardOfSupervi_18593]]
 - [[BuildingSuccessfulPartnerships_13226]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[ProposalBiologicallySensitiveA_16496]]
+- [[NitrogenAndPhosphorousDynamics_17776]]
+- [[WrittenCommentsOnSupplementToD_20523]]

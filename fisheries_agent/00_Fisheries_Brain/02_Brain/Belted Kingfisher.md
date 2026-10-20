@@ -20,8 +20,12 @@ The Belted Kingfisher (Megaceryle alcyon) is a sensitive bird species addressed 
 > This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
 > -- *[[LiteratureReviewAndImpactRepor_14988]]*
 
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
 ## Mentioned In
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[WarmSpringsPupfish_13288]]
 - [[TheMaineSmallmouth_14928]]
 - [[LiteratureReviewAndImpactRepor_14988]]
+- [[MichiganFishPredators_12681]]

@@ -95,6 +95,9 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 > This study examines allozymic variation in wild and captive populations of endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) from the [[Lower Colorado River]] basin and [[Salton Sink]]. Four polymorphic loci were surveyed across 13 populations (9 captive, 4 wild). Few consistent...
 > -- *[[AllozymicVariationInDesertPupf_19162]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
@@ -186,3 +189,4 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 - [[AmericanRiversScientificAndTec_15167]]
 - [[PreliminaryDraftManagementPlan_16433]]
 - [[AllozymicVariationInDesertPupf_19162]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]

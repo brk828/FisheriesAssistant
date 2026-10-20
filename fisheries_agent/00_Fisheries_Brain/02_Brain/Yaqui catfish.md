@@ -53,6 +53,21 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
 > -- *[[SkyIslandAquaticResourcesHabit_15003]]*
 
+> This recovery plan addresses four federally listed fish species from the [[Rio Yaqui Basin]]: two endangered species—[[Yaqui Chub]] (*Gila purpurea*) and [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*)—and two threatened species—[[Yaqui Catfish]] (*Ictalurus pricei*) and [[Beautiful...
+> -- *[[DraftRecoveryPlanForTheEndange_11645]]*
+
+> This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
+> -- *[[BiologicalOpinionForTheSanBern_13329]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
+> This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
+> -- *[[FisheryManagementForTheSanBern_18979]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -106,3 +121,8 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[PlansToObtainLiveRioYaquiFishe_14087]]
 - [[AuthorizationToUseTheRegionalD_15706]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
+- [[DraftRecoveryPlanForTheEndange_11645]]
+- [[BiologicalOpinionForTheSanBern_13329]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]
+- [[FisheryManagementForTheSanBern_18979]]

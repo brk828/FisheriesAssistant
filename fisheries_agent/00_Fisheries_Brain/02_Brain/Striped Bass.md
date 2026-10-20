@@ -140,6 +140,27 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic species of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy characteristic of bet-hedging in variable environments. Fish in this study...
 > -- *[[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This memorandum documents an intensive interagency sampling effort conducted March 5-13, 1988, at [[Lake Mohave]], Arizona-Nevada, targeting the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). Camp Five, stationed at [[Arrowhead Cove]], was responsible...
+> -- *[[SummaryOfTripToSampleBonytailC_15634]]*
+
+> This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
+> -- *[[BonytailrazorbackSuckerCoopera_17048]]*
+
+> This 1954 California Department of Fish and Game document announces the reopening of recreational sturgeon fishing after a 35-year closure. The white sturgeon (*Acipenser transmontanus*) and green sturgeon (*Acipenser medirostris*) populations had recovered sufficiently to allow limited harvest....
+> -- *[[TheCaliforniaSturgeon_17339]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
+> -- *[[LakeMohaveSamplingMarch_20326]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -282,3 +303,10 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[LongtermPatternsOfFishCommunit_2023]]
 - [[MovementEcologyOfImperilledFis_2020]]
 - [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[SummaryOfTripToSampleBonytailC_15634]]
+- [[BonytailrazorbackSuckerCoopera_17048]]
+- [[TheCaliforniaSturgeon_17339]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[LakeMohaveSamplingMarch_20326]]

@@ -524,6 +524,90 @@ The Colorado River is a major southwestern North American river system that serv
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic species of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy characteristic of bet-hedging in variable environments. Fish in this study...
 > -- *[[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]*
 
+> This document comprises multiple research proposals (FY-1994 Scope-of-Work) for the Recovery Implementation Program targeting endangered fish species in the [[Upper Colorado River Basin]]. The proposals focus on evaluating flow manipulations from the [[Aspinall Unit]] and their effects on...
+> -- *[[FiscalYearScopeOfWorkResearchP_11213]]*
+
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
+> This Federal Register document (Vol. 58, No. 18, January 29, 1993) presents the U.S. Fish and Wildlife Service's proposed rule to designate critical habitat for four endemic [[Colorado River Basin]] fishes: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus lucius*),...
+> -- *[[EndangeredAndThreatenedWildlif_11639]]*
+
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
+> This performance report documents the second year (July 1980 - June 1981) of a three-year investigation into the biological impacts of fluctuating water levels on the [[Colorado River]] fishery below [[Glen Canyon Dam]]. The study area extends from the dam to the [[Paria River]] confluence,...
+> -- *[[StatewideFisheriesResearch_13299]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This pilot study proposal evaluates the feasibility of using non-lethal stomach pumping techniques to assess food habits of [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The study aims to determine if stomach flushing can be performed without damaging the pharyngeal mill and to assess...
+> -- *[[ANonlethalStomachPumpToRecover_13644]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
+> -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
+> This memorandum documents the planning and agenda for a National Research Council Water Science and Technology Board committee meeting scheduled for October 9-11, 1991, in [[Flagstaff]], [[Arizona]]. The committee was convened to review the [[Glen Canyon Environmental Studies]] (GCES) program, with...
+> -- *[[AgendaAndOtherInformationForUp_13959]]*
+
+> This report documents two consecutive creel census studies conducted at [[Lee's Ferry]] on the [[Colorado River]] below [[Glen Canyon Dam]] from July 1964 through June 1966. The first segment (July 1964-June 1965) recorded 2,216 angler trips over 176 census days, yielding 8,047 [[Rainbow Trout]]...
+> -- *[[TailwatersFisheriesInvestigati_14584]]*
+
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
+> This case study examines the conservation status, recovery efforts, and reintroduction programs for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America. Once a dominant predator throughout the [[Colorado River]] system, the species declined dramatically from...
+> -- *[[CaseStudyColoradoRiverSqauwfis_16101]]*
+
+> This 1992 annual report from the [[Arizona Game and Fish Department]] documents comprehensive research on [[Rainbow Trout]] (*Oncorhynchus mykiss*) populations in the [[Lee's Ferry]] reach of the [[Colorado River]] below [[Glen Canyon Dam]] from November 1989 through February 1993. The study...
+> -- *[[GlenCanyonEnvironmentalStudies_16902]]*
+
+> This document summarizes a three-day workshop (November 8-10, 1999) at Saguaro Lake Ranch convened to evaluate a proposed temperature control device (TCD) for [[Glen Canyon Dam]]. The workshop brought together scientists, resource managers, and conservationists to provide input on research and...
+> -- *[[GlenCanyonDamTemperatureContro_17019]]*
+
+> This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
+> -- *[[BonytailrazorbackSuckerCoopera_17048]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This document records experimental gill netting and electrofishing surveys conducted on [[Lake Mohave]] in May 1986 targeting [[Razorback Sucker]] (*Xyrauchen texanus*). The survey captured 68 razorback suckers via gill netting (26 net nights effort) and 18 via electrofishing (202 minutes effort),...
+> -- *[[LakeMohaveExperimentalGillNett_18275]]*
+
+> This document presents a comprehensive summary of collecting localities for the [[Humpback Chub]] (*Gila cypha*) from the [[Colorado River]] and selected tributaries in [[Coconino County]] and [[Mohave County]], Arizona, spanning from archaeological remains (4000 years B.P.) through 1979....
+> -- *[[SummaryOfCollectingLocalitiesF_18502]]*
+
+> This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
+> -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
+
+> This document is a research proposal prospectus submitted by Dr. W.L. Minckley and Dr. M.E. Douglas of [[Arizona State University]] Department of Zoology to the [[U.S. Fish and Wildlife Service]] for consideration at the Colorado River Coordinating Committee session on 10 December 1987. The...
+> -- *[[ProspectusSystematicAnalysesOf_19078]]*
+
+> This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
+
+> This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
+> -- *[[LakeMohaveSamplingMarch_20326]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -1008,3 +1092,31 @@ The Colorado River is a major southwestern North American river system that serv
 - [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
 - [[MovementEcologyOfImperilledFis_2020]]
 - [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]
+- [[FiscalYearScopeOfWorkResearchP_11213]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[EndangeredAndThreatenedWildlif_11639]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[LetterToWayneStarnesAuthorizat_11924]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[AnInvestigationOfEndangeredAnd_12516]]
+- [[StatewideFisheriesResearch_13299]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[ANonlethalStomachPumpToRecover_13644]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[RazorbackSuckerXyauchenTexanus_13769]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]
+- [[AgendaAndOtherInformationForUp_13959]]
+- [[TailwatersFisheriesInvestigati_14584]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[CaseStudyColoradoRiverSqauwfis_16101]]
+- [[GlenCanyonEnvironmentalStudies_16902]]
+- [[GlenCanyonDamTemperatureContro_17019]]
+- [[BonytailrazorbackSuckerCoopera_17048]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[LakeMohaveExperimentalGillNett_18275]]
+- [[SummaryOfCollectingLocalitiesF_18502]]
+- [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[ProspectusSystematicAnalysesOf_19078]]
+- [[SamplingAtAsuKarstenGolfCourse_19435]]
+- [[LakeMohaveSamplingMarch_20326]]

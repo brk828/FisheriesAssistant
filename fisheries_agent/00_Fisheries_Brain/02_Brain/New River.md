@@ -20,9 +20,13 @@ auto_enriched: true
 > This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
 > -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
 ## Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[SurvivalOfSomeFishesRecentlyIn_19099]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]

@@ -29,6 +29,9 @@ Deer Creek is a relatively unmodified tributary of the Sacramento River in Teham
 > This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
 > -- *[[TailwaterFisheryInvestigationC_14594]]*
 
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
 ## Mentioned In
 - [[BibliographyOfStudiesOnIntrodu_13347]]
 - [[FishesOfTheWakarusaRiverInKans_14015]]
@@ -38,3 +41,4 @@ Deer Creek is a relatively unmodified tributary of the Sacramento River in Teham
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
 - [[HabitatUseByHumpbackChubGilaCy_11090]]
 - [[TailwaterFisheryInvestigationC_14594]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]

@@ -38,6 +38,9 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 > This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
 > -- *[[AmericanRiversScientificAndTec_15167]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
 ## Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -57,3 +60,4 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 - [[WhiteRiverSpinedaceLepidomedaA_11636]]
 - [[BiologicalOpinionOnTheEffectsO_11915]]
 - [[AmericanRiversScientificAndTec_15167]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]

@@ -19,9 +19,13 @@ Cyprinodon atrorus, commonly known as the Blackfin Pupfish, is a small cyprinodo
 > This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
 > -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
 
+> This Ph.D. dissertation proposal by Anna Melina Ludlow at [[Lehigh University]] outlines a comprehensive study of sexual selection, mate choice, and hybridization in two endemic pupfish species from the [[Cuatro Cienegas]] basin in northern Mexico: [[Cyprinodon atrorus]] and [[Cyprinodon...
+> -- *[[SexualSelectionInTheCuatroCien_20108]]*
+
 ## Mentioned In
 - [[CuatroCienegasFishesResearchRe_13699]]
 - [[LetterToDrWLMinckleyRequesting_1994_07_11]]
 - [[PermitToCollectExoticFishInCua_12769]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
+- [[SexualSelectionInTheCuatroCien_20108]]

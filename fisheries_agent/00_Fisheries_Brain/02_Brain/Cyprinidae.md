@@ -116,6 +116,18 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > **Core Problem Addressed**: Quantifying fish dispersal distances and identifying general predictors of movement patterns across freshwater fish species to inform population dynamics, recolonization potential, and recovery time predictions following environmental changes or habitat restoration....
 > -- *[[PatternsAndPredictorsOfFishDis_2013]]*
 
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
 ## Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -395,3 +407,7 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[AnAbnormalCarpCyprinusCarpioFr_12321]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
 - [[PatternsAndPredictorsOfFishDis_2013]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]

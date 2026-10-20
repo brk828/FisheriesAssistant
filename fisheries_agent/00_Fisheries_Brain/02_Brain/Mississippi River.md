@@ -41,6 +41,9 @@ The Mississippi River represents a major North American fluvial system of critic
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerInPoolOfTh_16034]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -65,3 +68,4 @@ The Mississippi River represents a major North American fluvial system of critic
 - [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
 - [[TheDesirabilityOfIntroducingWh_16080]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]

@@ -23,6 +23,15 @@ Lake Superior is the largest of the Great Lakes and serves as a critical freshwa
 > Average total chlorophyll concentrations in Lake Ontario raw water (8.6 µg/L overall) were found to be substantially higher than contemporaneous reports from [[Lake Superior]] and [[Lake Michigan]] (0.4–2.8 µg/L) and somewhat higher than the [[Bay of Quinte]] (1.8–2.1 µg/L), though comparable to ...
 > -- *[[TheTemporalDistributionOfChlor_1966]]*
 
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This comprehensive review by [[Peter S. Maitland]] examines the global status of fish conservation, covering approximately 30,000 described fish species worldwide. Despite fish representing three in every five vertebrate species, they have historically received minimal conservation attention...
+> -- *[[TheConservationOfFishPastAndPr_19359]]*
+
 ## Mentioned In
 - [[IntraSpecificVariationInTheCom_11434]]
 - [[OriginAndDispersalOfTheAlewife_1957]]
@@ -31,3 +40,6 @@ Lake Superior is the largest of the Great Lakes and serves as a critical freshwa
 - [[StatusOfSeaLampreyProblem_15264]]
 - [[TheInvasionPresentStatusAndLif_1949_12_01]]
 - [[TheTemporalDistributionOfChlor_1966]]
+- [[MichiganFishPredators_12681]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[TheConservationOfFishPastAndPr_19359]]

@@ -86,6 +86,9 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 > This March 7, 1988 correspondence from SWCA, Inc. Environmental Consultants to Dr. W. L. Minckley at [[Arizona State University]] outlines an environmental investigation for the [[Salt River Project]] regarding the proposed removal of [[Roosevelt Diversion Dam]]. The assessment focuses on four...
 > -- *[[LetterToWlMinckleyRemovalOfRoo_12727]]*
 
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[BiologicalOpinionOnTheProposed_13196]]
@@ -129,3 +132,4 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 - [[BiologicalOpinionForReroutingO_11747]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[LetterToWlMinckleyRemovalOfRoo_12727]]
+- [[MichiganFishPredators_12681]]

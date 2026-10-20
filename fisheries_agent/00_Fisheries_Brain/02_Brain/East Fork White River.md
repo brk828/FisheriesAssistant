@@ -20,6 +20,9 @@ The East Fork White River is a tributary system within the White River drainage 
 > This letter from the [[Desert Fishes Recovery Team]] leader to the U.S. Fish and Wildlife Service Regional Director addresses the urgent threat posed by [[Red Shiner]] (Cyprinella lutrensis) invasion of [[Aravaipa Creek]], Arizona—essentially the last low-desert stream supporting a predominantly...
 > -- *[[DesertFishesRecoveryTeamAddres_13785]]*
 
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
 ## Mentioned In
 - [[StudiesOfTheAbundanceDistribut_13841]]
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
@@ -27,3 +30,4 @@ The East Fork White River is a tributary system within the White River drainage 
 - [[ReTheElectrophoreticStudyOfWhi_14999]]
 - [[ReviewOfProjectFair_21120]]
 - [[DesertFishesRecoveryTeamAddres_13785]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]

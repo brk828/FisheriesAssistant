@@ -32,6 +32,9 @@ Desolation Canyon is a significant reach of the Green River in the upper Colorad
 > This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
 > -- *[[DraftbonytailChubGilaElegans_14696]]*
 
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
 ## Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[ChangesInNativeFishDistributio_1973]]
@@ -45,3 +48,4 @@ Desolation Canyon is a significant reach of the Green River in the upper Colorad
 - [[RecoveryPlanForTheEndangeredBo_17173]]
 - [[BonytailReintroductionPlanForT_20248]]
 - [[DraftbonytailChubGilaElegans_14696]]
+- [[DraftRecoveryImplementationPro_11643]]

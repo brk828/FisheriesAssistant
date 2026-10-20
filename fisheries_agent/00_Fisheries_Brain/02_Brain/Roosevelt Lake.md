@@ -41,6 +41,12 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 > This completion report (1972-1975) documents the environmental impacts of pumped-storage hydroelectric generation on the lower Salt River reservoir chain in Central Arizona. The study focused on [[Canyon Lake]] and [[Saguaro Lake]], two desert reservoirs subjected to massive operational...
 > -- *[[InfluenceOfPumpStorageAndGener_15886]]*
 
+> This master's thesis investigated the vertical distribution of fishes in [[Roosevelt Lake]] and [[Apache Lake]], two contiguous reservoirs on the [[Salt River]] in central Arizona, during 1970-1971. Using vertical gill nets at multiple transects, the study examined fish depth distributions relative...
+> -- *[[VerticalDistributionOfFishesRe_18202]]*
+
+> This report presents findings from the Globe-Miami National Prototype Groundwater Study, a collaborative investigation funded by the [[U.S. Environmental Protection Agency]] ($450,000), three active mining companies ($138,045), and the [[U.S. Bureau of Mines]] ($125,100). The study examined water...
+> -- *[[MiningActivitiesAndWaterQualit_21102]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AlbinisticCarpCyprinusCarpioFr_1968_04_18]]
@@ -61,3 +67,5 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 - [[InvestigationsOfCommercialFish_18562]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[InfluenceOfPumpStorageAndGener_15886]]
+- [[VerticalDistributionOfFishesRe_18202]]
+- [[MiningActivitiesAndWaterQualit_21102]]

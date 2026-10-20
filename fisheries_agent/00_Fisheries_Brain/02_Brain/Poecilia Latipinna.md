@@ -20,7 +20,11 @@ auto_enriched: true
 > This 1967 NSF proposal requests continuation funding ($32,370.56 for one year) for a multidisciplinary systematic study of [[Poecilia]] species in northeastern Mexico, with particular focus on the all-female gynogenetic species [[Poecilia formosa]] (Amazon Molly). The research team led by Rezneat...
 > -- *[[SystematicsOfPoeciliaInNorthea_13950]]*
 
+> This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
+> -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
+
 ## Mentioned In
 - [[LetterToPeterBMoyleOnColoradoR_13792]]
 - [[SurvivalAndAbundanceOfIntroduc_14259]]
 - [[SystematicsOfPoeciliaInNorthea_13950]]
+- [[AReviewOfTheBiologyOfTheMosqui_14748]]

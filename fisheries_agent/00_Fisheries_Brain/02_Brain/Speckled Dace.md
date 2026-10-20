@@ -98,6 +98,30 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
 > -- *[[LongtermPatternsOfFishCommunit_2023]]*
 
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
+> This performance report documents the second year (July 1980 - June 1981) of a three-year investigation into the biological impacts of fluctuating water levels on the [[Colorado River]] fishery below [[Glen Canyon Dam]]. The study area extends from the dam to the [[Paria River]] confluence,...
+> -- *[[StatewideFisheriesResearch_13299]]*
+
+> This report documents two consecutive creel census studies conducted at [[Lee's Ferry]] on the [[Colorado River]] below [[Glen Canyon Dam]] from July 1964 through June 1966. The first segment (July 1964-June 1965) recorded 2,216 angler trips over 176 census days, yielding 8,047 [[Rainbow Trout]]...
+> -- *[[TailwatersFisheriesInvestigati_14584]]*
+
+> This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
+> -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
+
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
+> This 1981 correspondence from the Desert Fishes Council Chairman alerts members to grave threats posed by the proposed MX Missile System to aquatic ecosystems throughout central and southern Nevada and west-central Utah. The $33 billion Department of Defense project would construct 200 racetrack...
+> -- *[[MxMissileSystemeffectsOnDesert_20506]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -236,3 +260,11 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[FinalReportOnResearchConducted_18507]]
 - [[NativeFishesOfTheGrandCanyonRe_1991]]
 - [[LongtermPatternsOfFishCommunit_2023]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[AnInvestigationOfEndangeredAnd_12516]]
+- [[StatewideFisheriesResearch_13299]]
+- [[TailwatersFisheriesInvestigati_14584]]
+- [[RazorbackSuckerXyrauchenTexanu_18008]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]
+- [[MxMissileSystemeffectsOnDesert_20506]]

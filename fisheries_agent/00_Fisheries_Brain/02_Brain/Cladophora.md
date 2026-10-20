@@ -44,6 +44,9 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 > This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
 > -- *[[ProgressReportOfTheCultureOfTi_14692]]*
 
+> This Master's thesis by Nancy Beth Grimm (Arizona State University, May 1980) investigated nitrogen and phosphorus dynamics in streams of the [[Gila River Basin]], Arizona. The study assessed potential nutrient limitation of primary production and the role of [[Periphyton]] in nutrient uptake...
+> -- *[[NitrogenAndPhosphorousDynamics_17776]]*
+
 ## Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -65,3 +68,4 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 - [[LongtermLimnologicalAndWaterQu_17092]]
 - [[OxygenBalanceInASouthernGreatP_19151]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
+- [[NitrogenAndPhosphorousDynamics_17776]]

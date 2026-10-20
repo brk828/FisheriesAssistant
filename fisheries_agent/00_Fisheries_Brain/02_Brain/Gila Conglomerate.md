@@ -11,5 +11,9 @@ auto_enriched: true
 > - The **[[Gila Conglomerate]]** comprises two contemporaneous, interfingering facies — central lacustrine (fine clay, diatomite, limestone) and marginal fanglomerate (coarse, angular detritus) — deposited simultaneously in a single structural trough, contradicting earlier interpretations (Schwenn...
 > -- *[[GeologicRelationsOfTheGilaCong_11466]]*
 
+> This report presents findings from the Globe-Miami National Prototype Groundwater Study, a collaborative investigation funded by the [[U.S. Environmental Protection Agency]] ($450,000), three active mining companies ($138,045), and the [[U.S. Bureau of Mines]] ($125,100). The study examined water...
+> -- *[[MiningActivitiesAndWaterQualit_21102]]*
+
 ## Mentioned In
 - [[GeologicRelationsOfTheGilaCong_11466]]
+- [[MiningActivitiesAndWaterQualit_21102]]

@@ -23,7 +23,11 @@ auto_enriched: true
 > This document is a formal petition submitted to the [[Arizona Game and Fish Commission]] in 1994 by M. Brent Peugnet and the [[Arizona Herpetological Association]] (AHA, 222 members, 147 Arizona residents) requesting establishment of a new rule permitting commercial captive propagation of specific...
 > -- *[[DraftAndRevisedVersionsOfPetit_11208]]*
 
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
+> -- *[[WrittenCommentsOnSupplementToD_20523]]*
+
 ## Mentioned In
 - [[PetitionForNewRuleOnCaptivePro_1994_07_08]]
 - [[SeriesOfInterofficeMemosJulyAr_17328]]
 - [[DraftAndRevisedVersionsOfPetit_11208]]
+- [[WrittenCommentsOnSupplementToD_20523]]

@@ -44,6 +44,12 @@ The Upper Colorado River refers to the section of the Colorado River system abov
 > This document presents a restoration plan for the federally endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Upper Colorado River Basin]]. Once abundant throughout the [[Colorado River Basin]], the species has been virtually extirpated from riverine habitats in the lower basin due to...
 > -- *[[RestorationPlanForRazorbackSuc_20599]]*
 
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
 ## Mentioned In
 - [[DesertFishesCouncilOverviewAnd_1974_07_26]]
 - [[DevelopAndRefineYearRoundFlowN_1993]]
@@ -62,3 +68,5 @@ The Upper Colorado River refers to the section of the Colorado River system abov
 - [[FiscalYearWorkPlan_11594]]
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
 - [[RestorationPlanForRazorbackSuc_20599]]
+- [[AnInvestigationOfEndangeredAnd_12516]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]

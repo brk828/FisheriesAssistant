@@ -62,6 +62,9 @@ The Gulf of California is a biogeographically significant marine basin in northw
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -95,3 +98,4 @@ The Gulf of California is a biogeographically significant marine basin in northw
 - [[RecoveryPlanForTheEndangeredBo_17173]]
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[AClassificationOfTheFishesOfTh_14438]]

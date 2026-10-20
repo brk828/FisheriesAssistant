@@ -23,9 +23,13 @@ Arizona Bay is a shallow nearshore habitat within Lake Mohave (on the Arizona-Ne
 > This unsolicited proposal to the [[U.S. Bureau of Reclamation]] outlines a three-year genetic monitoring program for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*) populations in [[Lake Mohave]], Arizona-Nevada. Submitted by researchers from [[Arizona...
 > -- *[[GeneticMonitoringOfRepatriated_17010]]*
 
+> This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
+> -- *[[BonytailrazorbackSuckerCoopera_17048]]*
+
 ## Mentioned In
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
 - [[LakeMohaveSamplingMay_1991_06_02]]
 - [[LakeMohaveSamplingMay_1992_06_10]]
 - [[EarlyLifeHistoryOfRazorbackSuc_12707]]
 - [[GeneticMonitoringOfRepatriated_17010]]
+- [[BonytailrazorbackSuckerCoopera_17048]]

@@ -20,6 +20,9 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 > This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
 > -- *[[DraftConservationStrategyVirgi_11659]]*
 
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
 ## Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[CaptureOfRareFishInLakePowell_1988_08_18]]
@@ -38,3 +41,4 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 - [[VirginRiverMonitoringArizonaSu_1994_10_05]]
 - [[WildTroutVSStockedTroutAStateM_20563]]
 - [[DraftConservationStrategyVirgi_11659]]
+- [[IntroductionOfRainbowSmeltInto_17850]]

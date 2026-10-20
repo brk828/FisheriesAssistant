@@ -29,6 +29,9 @@ Cichlasoma cyanoguttatum, commonly known as the Texas cichlid, is a native fresh
 > This 1988 letter from W. L. Minckley (Arizona State University) to Salvador Contreras Balderas (Universidad Autonoma de Nuevo Leon) proposes collaborative research on the endemic cichlid fishes of [[Cuatro Cienegas Basin]], Coahuila, Mexico. The proposal outlines a comprehensive study combining...
 > -- *[[ProposalForCollaborationBetwee_13766]]*
 
+> This 1972 Master's thesis by Irving L. Kornfield (State University of New York at Stony Brook) examines genetic variability and speciation in [[Cichlasoma]] species from North America. The study employed electrophoretic analysis of 19 protein loci in [[Cichlasoma cyanoguttatum]] from the [[Rio...
+> -- *[[GeneticVariationAndSpeciationI_12625]]*
+
 ## Mentioned In
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[ConcernAboutThePresenceOfASpec_14235]]
@@ -37,3 +40,4 @@ Cichlasoma cyanoguttatum, commonly known as the Texas cichlid, is a native fresh
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[ProposalForCollaborationBetwee_13766]]
+- [[GeneticVariationAndSpeciationI_12625]]

@@ -11,5 +11,9 @@ auto_enriched: true
 > Genera identified as producing toxic species include: - [[Microcystis]] (M. aeruginosa, M. flos-aquae, M. toxica) - [[Aphanizomenon]] (A. flos-aquae) - [[Anabaena]] (A. flos-aquae) - [[Nodularia]] (N. spumigena) - [[Coelosphaerium]] (C. Kuetzingianum, C. Naegelianum) - [[Gloeotrichia]] (G. echinu...
 > -- *[[ToxicFreshWaterAlgae_14366]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
 ## Mentioned In
 - [[ToxicFreshWaterAlgae_14366]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]

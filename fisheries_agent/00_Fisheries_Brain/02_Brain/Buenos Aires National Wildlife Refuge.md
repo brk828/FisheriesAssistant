@@ -41,6 +41,15 @@ Buenos Aires National Wildlife Refuge is a U.S. Fish and Wildlife Service facili
 > This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
 > -- *[[SkyIslandAquaticResourcesHabit_15003]]*
 
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
+> This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
+
 ## Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[LetterToDougMcqueenSupportingN_1986_06_27]]
@@ -63,3 +72,6 @@ Buenos Aires National Wildlife Refuge is a U.S. Fish and Wildlife Service facili
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[BuildingSuccessfulPartnerships_13226]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]
+- [[SamplingAtAsuKarstenGolfCourse_19435]]

@@ -38,6 +38,12 @@ The Southwest Center for Biological Diversity is a nonprofit conservation organi
 > This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
 > -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
 
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[ArmyFoundAtFaultOnRiverAreaGro_1995_09_27]]
 - [[CityOfPhoenixCommentsOnTheFina_1997_07_25]]
@@ -54,3 +60,5 @@ The Southwest Center for Biological Diversity is a nonprofit conservation organi
 - [[APetitionPursuantToArticleOfTh_17637]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[BeaverScoping_18972]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

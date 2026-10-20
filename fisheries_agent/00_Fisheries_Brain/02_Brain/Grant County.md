@@ -17,7 +17,11 @@ Grant County is a county in New Mexico that includes portions of the upper Gila 
 > This document comprises museum correspondence and specimen records from May 1995 regarding holdings of [[Cyprinella formosa]] (Beautiful Shiner) from the [[Mimbres River]] in [[New Mexico]]. The records document specimens held at the Museum of Southwestern Biology (MSB) and the University of...
 > -- *[[CyprinellaFormosaMimbresRiverE_21256]]*
 
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[CommentsOnTheChihuahuaChubReco_13915]]
 - [[CyprinellaFormosaMimbresRiverE_21256]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

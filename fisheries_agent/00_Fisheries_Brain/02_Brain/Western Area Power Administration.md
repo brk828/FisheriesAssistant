@@ -56,6 +56,9 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 > This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
 > -- *[[BureauOfReclamationAnnouncesPu_20788]]*
 
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[ErrataSheetFyWorkPlanForTheRec_20993]]
@@ -75,3 +78,4 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 - [[ManagementGroupMeetingSummary_19219]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[BureauOfReclamationAnnouncesPu_20788]]
+- [[TowardRangewideIntegrationOfRe_18628]]

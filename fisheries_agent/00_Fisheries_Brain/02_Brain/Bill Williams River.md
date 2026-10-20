@@ -59,6 +59,12 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 > This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
 > -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
 
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
+> Minutes from the Desert Fishes Recovery Team meeting held December 7-8, 1989 in Phoenix, Arizona. The team addressed critical conservation issues for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*), including population...
+> -- *[[MinutesOfDesertFishesRecoveryT_13773]]*
+
 ## Mentioned In
 - [[AlamoDamLandAndWaterProjectsSt_1966]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -85,3 +91,5 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 - [[LowerColoradoRiverBasinManagem_18433]]
 - [[BiologicalOpinionForReroutingO_11747]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[MinutesOfDesertFishesRecoveryT_13773]]

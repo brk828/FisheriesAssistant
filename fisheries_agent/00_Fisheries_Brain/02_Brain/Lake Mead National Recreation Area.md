@@ -29,6 +29,9 @@ Lake Mead National Recreation Area is a federally managed landscape encompassing
 > Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
 > -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
 
+> This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
+> -- *[[LakeMohaveSamplingMarch_20326]]*
+
 ## Mentioned In
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
 - [[EffectsOfInterimFlowsFromGlenC_1993_04_17]]
@@ -42,3 +45,4 @@ Lake Mead National Recreation Area is a federally managed landscape encompassing
 - [[StationProfileOfWillowBeachNat_19507]]
 - [[RequestForProposalspresubmitta_18342]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
+- [[LakeMohaveSamplingMarch_20326]]

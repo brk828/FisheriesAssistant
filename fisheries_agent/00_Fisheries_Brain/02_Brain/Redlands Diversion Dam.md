@@ -17,9 +17,17 @@ The Redlands Diversion Dam is a water infrastructure structure on the Colorado R
 > This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
 > -- *[[TheColoradoRiverFishesRecovery_11196]]*
 
+> This document comprises multiple research proposals (FY-1994 Scope-of-Work) for the Recovery Implementation Program targeting endangered fish species in the [[Upper Colorado River Basin]]. The proposals focus on evaluating flow manipulations from the [[Aspinall Unit]] and their effects on...
+> -- *[[FiscalYearScopeOfWorkResearchP_11213]]*
+
+> This case study examines the conservation status, recovery efforts, and reintroduction programs for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America. Once a dominant predator throughout the [[Colorado River]] system, the species declined dramatically from...
+> -- *[[CaseStudyColoradoRiverSqauwfis_16101]]*
+
 ## Mentioned In
 - [[FourthEndangeredColoradoSquawf_1997_07_23]]
 - [[InterestGroupParticipationInTh_1994_08_05]]
 - [[MeetingRecordUcrbRoadMapRevisi_13515]]
 - [[ThoughtsOnTheStatusAndRecovery_1990_05_08]]
 - [[TheColoradoRiverFishesRecovery_11196]]
+- [[FiscalYearScopeOfWorkResearchP_11213]]
+- [[CaseStudyColoradoRiverSqauwfis_16101]]

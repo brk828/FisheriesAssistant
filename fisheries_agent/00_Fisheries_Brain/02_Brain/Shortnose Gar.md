@@ -26,6 +26,9 @@ The Shortnose Gar (*Lepisosteus platostomus*) is a primitive holostean fish spec
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -34,3 +37,4 @@ The Shortnose Gar (*Lepisosteus platostomus*) is a primitive holostean fish spec
 - [[FishesOfKinkaidCreekIllinois_14812]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[MichiganFishPredators_12681]]

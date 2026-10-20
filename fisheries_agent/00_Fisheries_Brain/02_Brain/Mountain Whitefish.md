@@ -32,6 +32,9 @@ Mountain Whitefish (Prosopium williamsoni) is a native North American salmonid s
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*), family [[Esocidae]], is a highly fecund opportunistic piscivore native to portions of Alaska, Montana, Missouri, Nebraska, and the Great Lakes region but absent from Pacific drainages south of the Alaska Range prior to...
 > -- *[[MechanicalSuppressionOfInvasiv_2024]]*
 
+> This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
+> -- *[[CreelCensusReport_11332]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
@@ -46,3 +49,4 @@ Mountain Whitefish (Prosopium williamsoni) is a native North American salmonid s
 - [[LakeAndReservoirInvestigations_12145]]
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[MechanicalSuppressionOfInvasiv_2024]]
+- [[CreelCensusReport_11332]]

@@ -20,8 +20,12 @@ The Lacey Act is a foundational federal legislation that grants the U.S. Fish an
 > - The authors argue the aquarium hobby provides significant **conservation education value**, fostering ecological literacy and stimulating careers in [[Aquatic Sciences]]. - They distinguish aquarium fish husbandry from captivity of terrestrial vertebrates, asserting fish generally **thrive in c...
 > -- *[[LetterToRayVaughnOpposingRestr_1973_04_13]]*
 
+> Official correspondence from the U.S. Fish and Wildlife Service Regional Director to the Desert Fishes Council Executive Secretary dated January 14, 1987, regarding unauthorized collection of endangered fish and reptiles at [[Cuatro Cienegas]], [[Coahuila]], [[Mexico]]. The letter addresses...
+> -- *[[UnauthorizedCollectingInMexico_20833]]*
+
 ## Mentioned In
 - [[LetterSolicitingCommentsOnRegu_1973_06_12]]
 - [[LetterToRayVaughnOpposingRestr_1973_04_13]]
 - [[RoleAndResponsibilitiesForRecr_1996_08_07]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
+- [[UnauthorizedCollectingInMexico_20833]]

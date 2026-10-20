@@ -17,8 +17,12 @@ Bullhead catfish (Ictalurus species, including black bullhead, yellow bullhead, 
 > This 1987 correspondence from an Arizona State University zoology professor addresses questions from the [[Gila Fish and Gun Club]] regarding the status of [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) populations in relation to the invasive [[Red Shiner]] (*Cyprinella...
 > -- *[[FurtherInformationOnTheSpikeda_13737]]*
 
+> This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
+> -- *[[CreelCensusReport_11332]]*
+
 ## Mentioned In
 - [[AnglingSuccessAndSeasonalDistr_14152]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[CatalogingOfSmallImpoundmentOf_12167]]
 - [[FurtherInformationOnTheSpikeda_13737]]
+- [[CreelCensusReport_11332]]

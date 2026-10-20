@@ -89,6 +89,18 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
 > -- *[[AConservationPlanForNativeFish_2003]]*
 
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
+> This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
+> -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -158,3 +170,7 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
 - [[AConservationPlanForNativeFish_2003]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[TowardRangewideIntegrationOfRe_18628]]
+- [[NoticeOfViolationOfTheEsaConce_18645]]

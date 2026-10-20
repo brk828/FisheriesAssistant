@@ -26,9 +26,13 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > These minutes document the February 21, 1990 meeting of the [[Colorado River Recovery Implementation Committee]], which oversees recovery efforts for four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[MinutesfebruaryRecoveryImpleme_19220]]*
 
+> This document comprises multiple research proposals (FY-1994 Scope-of-Work) for the Recovery Implementation Program targeting endangered fish species in the [[Upper Colorado River Basin]]. The proposals focus on evaluating flow manipulations from the [[Aspinall Unit]] and their effects on...
+> -- *[[FiscalYearScopeOfWorkResearchP_11213]]*
+
 ## Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
 - [[MeetingSummaryColoradoRiverTec_1989_03_30]]
 - [[RequestForReleasesFromRuedigre_1989_06_08]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
+- [[FiscalYearScopeOfWorkResearchP_11213]]

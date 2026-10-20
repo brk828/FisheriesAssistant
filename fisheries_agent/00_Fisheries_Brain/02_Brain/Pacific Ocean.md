@@ -20,9 +20,17 @@ The Pacific Ocean, in the context of fish science and conservation biology, repr
 > This 1929 taxonomic revision by [[Carl L Hubbs]] establishes the new genus *Sardinops* for the [[California Sardine]] and related Pacific species, distinguishing them from the European sardines (genus *Sardina*). The work resolves long-standing confusion in sardine nomenclature by demonstrating...
 > -- *[[TheGenericRelationshipsAndNome_19993]]*
 
+> This paper describes *Bathyconchoecia deeveyae*, a new species of deep-sea benthic ostracod collected from the [[Peru-Chile Trench System]] at 520 m depth during Cruise 11 of the R/V Anton Bruun in October 1965. The species is distinguished by its highly ornamented carapace bearing 7 long hollow...
+> -- *[[BathyconchoeciaDeeveyaeAHighly_12629]]*
+
+> This paper describes *Asellus puebla*, a new species of freshwater isopod crustacean collected from the [[Rio Cosala]] in [[Puebla]], [[Mexico]]. The discovery extends the known southern distribution limit of the genus [[Asellus]] from approximately 30° latitude to just below 20° latitude. The...
+> -- *[[ANewSpeciesOfAquaticIsopodCrus_17104]]*
+
 ## Mentioned In
 - [[AKeyToTheSnooksGenusCentropomu_17270]]
 - [[StationProfileOfKooskiaNationa_19543]]
 - [[StationProfileOfTheColemanNati_19568]]
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
 - [[TheGenericRelationshipsAndNome_19993]]
+- [[BathyconchoeciaDeeveyaeAHighly_12629]]
+- [[ANewSpeciesOfAquaticIsopodCrus_17104]]

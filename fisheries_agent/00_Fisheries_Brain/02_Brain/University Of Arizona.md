@@ -50,6 +50,9 @@ The University of Arizona served as an institutional partner in federally-author
 > This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
 > -- *[[ProgressReportOfTheCultureOfTi_14692]]*
 
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
 ## Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -69,3 +72,4 @@ The University of Arizona served as an institutional partner in federally-author
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
 - [[VerdeValleyReportsAndSurveysFr_12879]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]

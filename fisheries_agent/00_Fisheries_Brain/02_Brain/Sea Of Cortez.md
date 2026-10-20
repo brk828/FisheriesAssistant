@@ -20,6 +20,9 @@ auto_enriched: true
 > This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
 > -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
 
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
 ## Mentioned In
 - [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]

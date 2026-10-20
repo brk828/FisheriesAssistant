@@ -29,6 +29,12 @@ auto_enriched: true
 > This 1960 study by E. E. Prater and H. S. Swingle at [[Auburn University]] Agricultural Experiment Station evaluated [[White Catfish]] (*Ictalurus catus*) as a commercial pondfish species. Experiments conducted in 1959-1960 demonstrated that white catfish production rates, feed conversion, and...
 > -- *[[PreliminaryResultsOnTheProduct_18670]]*
 
+> This experimental study investigated the effects of water hardness on fish production using [[Fathead Minnow]] (*Pimephales promelas*) in circular plastic-lined pools at [[Auburn University]]. The research examined how different sources of hardness (calcium carbonate, calcium sulfate, and magnesium...
+> -- *[[EffectsOfWaterHardnessOnFishPr_19234]]*
+
+> Laboratory experiments conducted at [[Auburn University]] examined the toxicity of two rotenone-based formulations—[[Noxfish]] (5% rotenone) and [[Pro-Noxfish]] (2.5% rotenone plus 2.5% Sulfoxide synergist)—to eggs of [[Common Carp]] (*Cyprinus carpio*) and [[Fathead Minnow]] (*Pimephales...
+> -- *[[TheToxicityOfNoxfishAndPronoxf_20370]]*
+
 ## Mentioned In
 - [[ExperimentsOnCommercialFishPro_15109]]
 - [[OverATonOfChannelCatfishPerAcr_18668]]
@@ -38,3 +44,5 @@ auto_enriched: true
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[ANoteOnTheAccuracyOfTheScaleMe_18667]]
 - [[PreliminaryResultsOnTheProduct_18670]]
+- [[EffectsOfWaterHardnessOnFishPr_19234]]
+- [[TheToxicityOfNoxfishAndPronoxf_20370]]

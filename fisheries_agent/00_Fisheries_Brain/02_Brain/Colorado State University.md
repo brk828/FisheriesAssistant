@@ -20,8 +20,12 @@ Colorado State University houses the Larval Fish Laboratory, whose biologists pa
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
 > -- *[[ManagementGroupMeetingSummary_19219]]*
 
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
 ## Mentioned In
 - [[EffectsOfElectrofishingFieldsO_15544]]
 - [[EffectsOfElectrofishingFieldsO_15548]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[ManagementGroupMeetingSummary_19219]]
+- [[LetterToWayneStarnesAuthorizat_11924]]

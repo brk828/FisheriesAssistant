@@ -20,9 +20,13 @@ The Leon Springs Pupfish is a small cyprinodontid fish species endemic to limite
 > This 1985 evaluation by W. L. Minckley provides comprehensive recommendations for [[Dexter National Fish Hatchery]] (DNFH), an advanced-concept conservation center dedicated to maintenance and recovery of endangered fish species. The document addresses three major categories: personnel...
 > -- *[[EvaluationsAndSuggestionsConce_16480]]*
 
+> This document comprises correspondence dated December 19, 1990, from Dr. Salvador Contreras Balderas ([[Universidad Autonoma de Nuevo Leon]], Faculty of Biological Sciences) to Dr. W.L. Minckley ([[Arizona State University]]), along with Dr. Contreras Balderas's comprehensive curriculum vitae. The...
+> -- *[[CvForNewProposal_17525]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[FisheriesFieldStationSummarySo_1996]]
 - [[SubpermitAuthorizationForColle_1990]]
 - [[UseOfSurrogateSpec_15243]]
 - [[EvaluationsAndSuggestionsConce_16480]]
+- [[CvForNewProposal_17525]]

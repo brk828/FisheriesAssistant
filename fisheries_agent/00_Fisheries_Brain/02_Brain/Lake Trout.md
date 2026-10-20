@@ -47,6 +47,12 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 > **Core Problem Addressed**: This study evaluates the comparative statistical performance of common closed population mark-recapture estimators to determine which methods produce the most accurate and precise population size estimates under varying sample sizes. The analysis addresses the practical...
 > -- *[[AssessmentOfBiasAndPrecisionAm_2023]]*
 
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This 1952 field guide addresses the practical challenges of identifying salmonid game fishes in [[New York State]] waters. The document provides diagnostic characters for six species: [[Brook Trout]] (*Salvelinus fontinalis*), [[Brown Trout]] (*Salmo trutta*), [[Rainbow Trout]] (*Salmo...
+> -- *[[TroutOrSalmon_19215]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -100,3 +106,5 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 - [[Whitefish_19228]]
 - [[TheIntroductionOfKokaneeRedSal_18826]]
 - [[AssessmentOfBiasAndPrecisionAm_2023]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[TroutOrSalmon_19215]]

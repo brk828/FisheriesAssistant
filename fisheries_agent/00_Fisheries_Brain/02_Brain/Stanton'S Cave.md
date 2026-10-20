@@ -14,7 +14,11 @@ auto_enriched: true
 > This final report documents the status of three native chub species (genus *Gila*) in [[Grand Canyon National Park]] during 1977-1979: the [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*G. elegans*), and [[Colorado Chub]] (*G. robusta*). The [[Humpback Chub]] persists in localized...
 > -- *[[RiverResourceMonitoringProject_18503]]*
 
+> This document presents a comprehensive summary of collecting localities for the [[Humpback Chub]] (*Gila cypha*) from the [[Colorado River]] and selected tributaries in [[Coconino County]] and [[Mohave County]], Arizona, spanning from archaeological remains (4000 years B.P.) through 1979....
+> -- *[[SummaryOfCollectingLocalitiesF_18502]]*
+
 ## Mentioned In
 - [[FishesCollectedOnTheGrandCanyo_15402]]
 - [[ReportOnFishesOfTheColoradoRiv_1975]]
 - [[RiverResourceMonitoringProject_18503]]
+- [[SummaryOfCollectingLocalitiesF_18502]]

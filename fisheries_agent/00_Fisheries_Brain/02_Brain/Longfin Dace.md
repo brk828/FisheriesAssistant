@@ -80,6 +80,24 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 > This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
 > -- *[[GilaTopminnowsantaCruzRiver_20207]]*
 
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
+> This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
+> -- *[[BiologicalOpinionForTheSanBern_13329]]*
+
+> This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
+> -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
+
+> This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
+> -- *[[FisheryManagementForTheSanBern_18979]]*
+
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -177,3 +195,9 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 - [[ResultsOfFishMonitoringOfSelec_13200]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[BiologicalOpinionForTheSanBern_13329]]
+- [[RazorbackSuckerXyrauchenTexanu_18008]]
+- [[FisheryManagementForTheSanBern_18979]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]

@@ -26,6 +26,9 @@ Black Rocks is a geomorphological section of the Upper Colorado River located be
 > This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
 > -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
 
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
 ## Mentioned In
 - [[HatcheryAndLaboratoryPhaseOfTh_1980]]
 - [[InteragencyStandardizedMonitor_1993]]
@@ -35,3 +38,4 @@ Black Rocks is a geomorphological section of the Upper Colorado River located be
 - [[AprilManagementGroupMeetingSum_19221]]
 - [[BonytailReintroductionPlanForT_20248]]
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[DraftRecoveryImplementationPro_11643]]

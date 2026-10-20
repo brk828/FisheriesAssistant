@@ -29,6 +29,12 @@ Aravaipa Canyon Wilderness is a protected area in Arizona centered on Aravaipa C
 > On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
 > -- *[[LoachMinnow_19034]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This investigation by the [[Arizona Department of Environmental Quality]] documents water quality impacts from the [[Klondyke Tailings]] along [[Aravaipa Creek]] in [[Graham County]], Arizona. The tailings consist of 220,000 tons of milled ore rich in lead, zinc, copper, and silver situated within...
+> -- *[[TheKlondykeTailingsAndAravaipa_14554]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[SummaryOfDiscussionsToBeUsedAs_1970_06_26]]
@@ -36,3 +42,5 @@ Aravaipa Canyon Wilderness is a protected area in Arizona centered on Aravaipa C
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[EndangeredAndThreatenedWildlif_14803]]
 - [[LoachMinnow_19034]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[TheKlondykeTailingsAndAravaipa_14554]]

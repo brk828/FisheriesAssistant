@@ -32,6 +32,9 @@ The Amargosa Pupfish is an endemic species of small cyprinodont fish inhabiting 
 > This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
 > -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
 
+> This 1981 correspondence from the Desert Fishes Council Chairman alerts members to grave threats posed by the proposed MX Missile System to aquatic ecosystems throughout central and southern Nevada and west-central Utah. The $33 billion Department of Defense project would construct 200 racetrack...
+> -- *[[MxMissileSystemeffectsOnDesert_20506]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
@@ -44,3 +47,4 @@ The Amargosa Pupfish is an endemic species of small cyprinodont fish inhabiting 
 - [[AConservationorientedClassific_15455]]
 - [[ConservationOfNativeFreshwater_15444]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[MxMissileSystemeffectsOnDesert_20506]]

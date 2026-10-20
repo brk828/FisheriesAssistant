@@ -92,6 +92,9 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 > This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
 > -- *[[CompletionReportYampawhitePhys_18677]]*
 
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -171,3 +174,4 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 - [[EndangeredAndThreatenedWildlif_11548]]
 - [[PreliminaryDraftManagementPlan_16433]]
 - [[CompletionReportYampawhitePhys_18677]]
+- [[BeaverScoping_18972]]

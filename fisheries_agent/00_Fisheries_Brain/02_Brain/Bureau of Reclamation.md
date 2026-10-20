@@ -197,6 +197,15 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > This February 1990 announcement from the [[Bureau of Reclamation]] Upper Colorado Regional Office initiates the public scoping process for an Environmental Impact Statement (EIS) concerning the operation of [[Glen Canyon Dam]]. The document announces seven public meetings scheduled between March 12...
 > -- *[[BureauOfReclamationAnnouncesPu_20788]]*
 
+> This document summarizes a three-day workshop (November 8-10, 1999) at Saguaro Lake Ranch convened to evaluate a proposed temperature control device (TCD) for [[Glen Canyon Dam]]. The workshop brought together scientists, resource managers, and conservationists to provide input on research and...
+> -- *[[GlenCanyonDamTemperatureContro_17019]]*
+
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
+> This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
+> -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -322,3 +331,6 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[CompletionReportYampawhitePhys_18677]]
 - [[BureauOfReclamationAnnouncesPu_20788]]
+- [[GlenCanyonDamTemperatureContro_17019]]
+- [[TowardRangewideIntegrationOfRe_18628]]
+- [[NoticeOfViolationOfTheEsaConce_18645]]

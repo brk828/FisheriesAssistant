@@ -47,6 +47,9 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 > This U.S. Fish and Wildlife Service technical report presents Habitat Suitability Index (HSI) models for the [[Slough Darter]] (*Etheostoma gracile*), a small [[Percidae]] species inhabiting lowland aquatic systems across the south-central United States. The models synthesize literature on habitat...
 > -- *[[HabitatSuitabilityIndexModelsS_15765]]*
 
+> The [[Boulder Darter]] (*Etheostoma wapiti*) is a small endangered member of the perch family (Percidae) listed by the U.S. Fish and Wildlife Service in 1988. This bottom-dwelling darter survives in only approximately 63 miles (101 kilometers) of the lower [[Elk River]] system in southern Tennessee...
+> -- *[[TheBoulderDarterAConservationC_14033]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -104,3 +107,4 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[HabitatSuitabilityIndexModelsS_15765]]
+- [[TheBoulderDarterAConservationC_14033]]

@@ -35,6 +35,9 @@ Poeciliopsis occidentalis occidentalis, commonly known as the Gila Topminnow, is
 > This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
 > -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
 
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -46,3 +49,4 @@ Poeciliopsis occidentalis occidentalis, commonly known as the Gila Topminnow, is
 - [[MhcVariationAndParasiteResista_12519]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
+- [[BeaverScoping_18972]]

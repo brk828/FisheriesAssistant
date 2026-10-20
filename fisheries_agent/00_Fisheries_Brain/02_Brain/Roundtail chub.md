@@ -122,6 +122,33 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 > **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
 > -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
+> This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
+> -- *[[BiologicalOpinionForTheSanBern_13329]]*
+
+> This pilot study proposal evaluates the feasibility of using non-lethal stomach pumping techniques to assess food habits of [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The study aims to determine if stomach flushing can be performed without damaging the pharyngeal mill and to assess...
+> -- *[[ANonlethalStomachPumpToRecover_13644]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
+> This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
+> -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -264,3 +291,12 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 - [[HabitatStudyOfRoundtailChubGil_18268]]
 - [[LoachMinnow_19034]]
 - [[NativeFishesOfTheGrandCanyonRe_1991]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[AnInvestigationOfEndangeredAnd_12516]]
+- [[BiologicalOpinionForTheSanBern_13329]]
+- [[ANonlethalStomachPumpToRecover_13644]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]
+- [[RazorbackSuckerXyrauchenTexanu_18008]]
+- [[BeaverScoping_18972]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]

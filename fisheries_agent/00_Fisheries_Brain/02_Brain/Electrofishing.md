@@ -35,6 +35,12 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
 > -- *[[NorthernPikeControlAtLakeDavis_2001]]*
 
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
+> This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
+> -- *[[LakeMohaveSamplingMarch_20326]]*
+
 ## Mentioned In
 - [[ANonlethalTechniqueToRecoverGu_1994]]
 - [[ASimpleTransportableLakeShocke_1966]]
@@ -54,3 +60,5 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[ImperialPondsConservationAreaA_2020]]
 - [[NorthernPikeControlAtLakeDavis_2001]]
+- [[LetterToWayneStarnesAuthorizat_11924]]
+- [[LakeMohaveSamplingMarch_20326]]

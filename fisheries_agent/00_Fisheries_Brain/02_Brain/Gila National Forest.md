@@ -26,6 +26,15 @@ The Gila National Forest is a protected forest area in New Mexico that encompass
 > This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
 > -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11563]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -40,3 +49,6 @@ The Gila National Forest is a protected forest area in New Mexico that encompass
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

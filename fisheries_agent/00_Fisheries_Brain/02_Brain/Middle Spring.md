@@ -14,7 +14,11 @@ auto_enriched: true
 > This report documents the status of natural and introduced populations of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in Arizona through 1985. The study monitored 71 introduction sites established between 1976-1984, finding 49 (69%) successfully occupied by topminnow. Of these,...
 > -- *[[StatusReportForNaturalAndIntro_12972]]*
 
+> This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
+> -- *[[BiologicalOpinionForTheSanBern_13329]]*
+
 ## Mentioned In
 - [[HistoryOfBylasTopminnowPopulat_1989_02_08]]
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[StatusReportForNaturalAndIntro_12972]]
+- [[BiologicalOpinionForTheSanBern_13329]]

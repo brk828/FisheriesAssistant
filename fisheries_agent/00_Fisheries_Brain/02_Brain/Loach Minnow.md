@@ -137,6 +137,18 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 > On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
 > -- *[[LoachMinnow_19034]]*
 
+> This document is a legal complaint filed by the Board of County Commissioners of [[Catron County]], New Mexico, against the [[U.S. Fish and Wildlife Service]] (FWS) and its officials in U.S. District Court (Case No. CIV 93-730-HB). The complaint challenges FWS actions regarding two threatened fish...
+> -- *[[CatronCountyBoardOfCommissione_16056]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -314,3 +326,7 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
 - [[LoachMinnow_19034]]
+- [[CatronCountyBoardOfCommissione_16056]]
+- [[BeaverScoping_18972]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]

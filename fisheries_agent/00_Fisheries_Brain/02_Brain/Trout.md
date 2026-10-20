@@ -50,6 +50,15 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
 > -- *[[FishingEffortAndHarvestByArizo_15066]]*
 
+> This technical note describes the design and construction of twelve 350-550 gallon temperature-controlled aquarium tanks at the [[New York State Conservation Department]] Fish Laboratory at [[Livingston Manor]]. The system was developed to conduct controlled experiments on the effects of chemicals...
+> -- *[[GeneralNotesTemperaturecontrol_16184]]*
+
+> This 1939 report by J. W. Leonard of the Institute for Fisheries Research documents an experimental stocking of [[Montana Grayling]] (*Thymallus montanus*) in a small northern Michigan lake, following the extinction of the native [[Michigan Grayling]]. The study aimed to determine whether Montana...
+> -- *[[TheMontanaGraylingInMichigan_20282]]*
+
+> This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
+> -- *[[LakeMohaveSamplingMarch_20326]]*
+
 ## Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -86,3 +95,6 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[ColumnarisDiseaseOfFishes_21236]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
 - [[FishingEffortAndHarvestByArizo_15066]]
+- [[GeneralNotesTemperaturecontrol_16184]]
+- [[TheMontanaGraylingInMichigan_20282]]
+- [[LakeMohaveSamplingMarch_20326]]

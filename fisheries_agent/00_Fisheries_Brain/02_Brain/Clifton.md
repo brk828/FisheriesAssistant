@@ -14,6 +14,10 @@ Clifton is a location in the Gila River Basin where aquatic surveys were conduct
 > This biological opinion, issued by the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office on July 22, 1996, addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding proposed spillway repairs at the Phelps-Dodge Eagle Creek Diversion Dam in...
 > -- *[[BiologicalOpinionToRepairErosi_11916]]*
 
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
 ## Mentioned In
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[BiologicalOpinionToRepairErosi_11916]]
+- [[DraftRecoveryImplementationPro_11643]]

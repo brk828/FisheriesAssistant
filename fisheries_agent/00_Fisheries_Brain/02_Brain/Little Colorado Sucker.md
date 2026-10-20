@@ -23,6 +23,9 @@ The Little Colorado Sucker is a suckerfish (family Catostomidae) endemic to the 
 > - **[[Desert Sucker]]** is listed with the now-largely-synonymized subgeneric designation *Catostomus [Pantosteus] clarki*, reflecting historical taxonomic placement within *Pantosteus*. - **[[Little Colorado Sucker]]** is listed only to genus (*Catostomus* sp.), indicating unresolved taxonomic s...
 > -- *[[FederalCandidateSpeciesOfArizo_11661]]*
 
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[DesertFishesRecoveryTeamAction_11691]]
@@ -32,3 +35,4 @@ The Little Colorado Sucker is a suckerfish (family Catostomidae) endemic to the 
 - [[FederalCandidateSpeciesOfArizo_11893]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
 - [[ScientificCollectingPermitRene_1994_11_08]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]

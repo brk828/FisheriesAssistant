@@ -17,7 +17,11 @@ Alaska, specifically Southeastern Alaska, is the geographic region where this st
 > **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
 > -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
 
+> This study documents seasonal behavioral patterns in mixed aggregations of [[Yellowtail Rockfish]] (*Sebastes flavidus*) and [[Dusky Rockfish]] (*S. ciliatus*) observed by divers in [[Lynn Canal]], southeastern [[Alaska]] from 1965-75. The rockfishes exhibited dramatic seasonal shifts in spatial...
+> -- *[[SeasonalChangesInSpatialDistri_17423]]*
+
 ## Mentioned In
 - [[DisappearanceOfDeadPinkSalmonE_12341]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
+- [[SeasonalChangesInSpatialDistri_17423]]

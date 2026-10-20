@@ -20,8 +20,12 @@ auto_enriched: true
 > This document consists of correspondence from Dr. Alain J. Crivelli (Scientific Director, Camargue, France) to Dr. W.L. Minckley (Arizona State University) dated March 18, 1993, along with an attached manuscript by Peter B. Moyle reviewing the conservation status of California's native freshwater...
 > -- *[[ConservationOfNativeFreshwater_15444]]*
 
+> This 1954 California Department of Fish and Game document announces the reopening of recreational sturgeon fishing after a 35-year closure. The white sturgeon (*Acipenser transmontanus*) and green sturgeon (*Acipenser medirostris*) populations had recovered sufficiently to allow limited harvest....
+> -- *[[TheCaliforniaSturgeon_17339]]*
+
 ## Mentioned In
 - [[FishSpeciesFromThePointStGeorg_1965_02_22]]
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[ConservationOfNativeFreshwater_15444]]
+- [[TheCaliforniaSturgeon_17339]]

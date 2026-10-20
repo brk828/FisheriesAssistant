@@ -170,6 +170,18 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
 > -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -301,3 +313,7 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 - [[LongtermPatternsOfFishCommunit_2023]]
 - [[SummaryOfNorthernPikeSuppressi_2022]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]

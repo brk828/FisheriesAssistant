@@ -17,7 +17,15 @@ Puget Sound is a large estuarine system in Washington State that serves as criti
 > - **Location**: Kennedy Creek, a small tributary of Totten Inlet, southern [[Puget Sound]], Washington, USA (North Pacific drainage). See [[Totten Inlet]] and [[Tacoma Narrows]] as key geographic features controlling smolt emigration routes. - **Pre-project wild run**: 8,000–10,000 wild adult chu...
 > -- *[[UseOfGeneticMarksToAssessStock_11327]]*
 
+> This study documents seasonal behavioral patterns in mixed aggregations of [[Yellowtail Rockfish]] (*Sebastes flavidus*) and [[Dusky Rockfish]] (*S. ciliatus*) observed by divers in [[Lynn Canal]], southeastern [[Alaska]] from 1965-75. The rockfishes exhibited dramatic seasonal shifts in spatial...
+> -- *[[SeasonalChangesInSpatialDistri_17423]]*
+
+> This 1918 systematic revision by Carl L. Hubbs reorganizes the family [[Embiotocidae]] (viviparous perches or surf-fishes) of [[California]], establishing three subfamilies based on anal fin structure and dentition. The [[Embiotocidae]] represent a highly evolved example of viviparity in fishes,...
+> -- *[[ARevisionOfTheViviparousPerche_19963]]*
+
 ## Mentioned In
 - [[HistoryOfYearlingKingSalmonMar_14888]]
 - [[StomachContentsOfAdultStarryFl_15271]]
 - [[UseOfGeneticMarksToAssessStock_11327]]
+- [[SeasonalChangesInSpatialDistri_17423]]
+- [[ARevisionOfTheViviparousPerche_19963]]

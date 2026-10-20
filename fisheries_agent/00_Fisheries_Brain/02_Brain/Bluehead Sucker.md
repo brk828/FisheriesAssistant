@@ -65,6 +65,9 @@ The Bluehead Sucker (Pantosteus delphinus) is a native catostomid fish species f
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a monotypic catostomid endemic to the [[Colorado River Basin]]. Adults in the [[Green River Basin]] averaged 507 mm TL for males (range 405–576 mm, n=141) and 547 mm TL for females (range 485–608 mm, n=45). Males...
 > -- *[[SpawningAndMovementsOfRazorbac_1990]]*
 
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -130,3 +133,4 @@ The Bluehead Sucker (Pantosteus delphinus) is a native catostomid fish species f
 - [[NativeFishesOfTheGrandCanyonRe_1991]]
 - [[FishCommunityResponsesToMechan_2014]]
 - [[SpawningAndMovementsOfRazorbac_1990]]
+- [[AnInvestigationOfEndangeredAnd_12516]]

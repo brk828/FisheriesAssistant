@@ -38,6 +38,9 @@ Section 7 Consultation refers to the mandatory process under the Endangered Spec
 > This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
 > -- *[[GilaTopminnowsantaCruzRiver_20207]]*
 
+> This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
+> -- *[[BiologicalOpinionForTheSanBern_13329]]*
+
 ## Mentioned In
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
 - [[AnimasLaPlataProjectColoradoNe_14136]]
@@ -66,3 +69,4 @@ Section 7 Consultation refers to the mandatory process under the Endangered Spec
 - [[SummaryjanuaryManagementGroupM_21002]]
 - [[PreliminaryReviewAndAnalysisOf_11672]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
+- [[BiologicalOpinionForTheSanBern_13329]]

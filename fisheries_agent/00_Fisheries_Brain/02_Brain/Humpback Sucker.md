@@ -26,6 +26,9 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 > This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
 > -- *[[BiologicalAssessmentOfTheImpac_16261]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
 ## Mentioned In
 - [[ArthropodsAndVertebratesOfAriz_16220]]
 - [[ChangesInNativeFishDistributio_1973]]
@@ -35,3 +38,4 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 - [[NotesOnTheFishesOfTheColoradoR_13441]]
 - [[SpecialFisheriesReportOnProjec_1961_11_16]]
 - [[BiologicalAssessmentOfTheImpac_16261]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]

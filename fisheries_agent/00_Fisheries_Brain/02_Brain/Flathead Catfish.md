@@ -95,6 +95,21 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
 > -- *[[AConservationPlanForNativeFish_2003]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
+> This 16-month study examined the reproductive biology of [[Flathead Catfish]] (*Pylodictis olivaris*) in [[Lake Carl Blackwell]], a 1,486-hectare turbid reservoir in north-central Oklahoma. The research documented sex ratios, age at sexual maturity, spawning sites and season, gonadal development...
+> -- *[[DraftReproductiveBiologyOfTheF_13436]]*
+
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
 ## Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -170,3 +185,8 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[LoachMinnow_19034]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
 - [[AConservationPlanForNativeFish_2003]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[DraftReproductiveBiologyOfTheF_13436]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]

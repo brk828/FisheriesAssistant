@@ -41,6 +41,15 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 > This document describes the comprehensive database structure developed by BIO/WEST, Inc. for the [[Glen Canyon Environmental Studies]] (GCES) investigation of [[Humpback Chub]] (*Gila cypha*) in [[Grand Canyon]]. The database encompasses 36 monthly field trips from October 1990 through November...
 > -- *[[StatusOfTheBiowestDatabase_13632]]*
 
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This document presents a comprehensive summary of collecting localities for the [[Humpback Chub]] (*Gila cypha*) from the [[Colorado River]] and selected tributaries in [[Coconino County]] and [[Mohave County]], Arizona, spanning from archaeological remains (4000 years B.P.) through 1979....
+> -- *[[SummaryOfCollectingLocalitiesF_18502]]*
+
+> This document comprises meeting notes and correspondence from the [[Glen Canyon Environmental Studies]] (GCES) Technical Team meetings held March 20-21, 1989, in Las Vegas, Nevada. The meetings addressed the Fiscal Year 1989 technical study plan, organizational restructuring of study teams,...
+> -- *[[GlenCanyonEnvironmentalStudies_19678]]*
+
 ## Mentioned In
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
 - [[FlowModificationsToTheGlenCany_18321]]
@@ -56,3 +65,6 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 - [[TransitionMonitoringForRiparia_17903]]
 - [[LowerColoradoRiverBasinManagem_18433]]
 - [[StatusOfTheBiowestDatabase_13632]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[SummaryOfCollectingLocalitiesF_18502]]
+- [[GlenCanyonEnvironmentalStudies_19678]]

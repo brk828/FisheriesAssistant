@@ -26,6 +26,9 @@ The Lahontan Basin is a hydrographic region in the Great Basin of northwestern N
 > This comprehensive checklist documents 160 native and introduced fishes referable to 108 species, 56 genera, and 19 families recorded for Nevada as of 1984. The list updates La Rivers' 1962 "Fishes and Fisheries of Nevada" and reflects twenty years of changes including species additions through...
 > -- *[[AnnotatedListOfTheFishesOfNeva_14026]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
@@ -37,3 +40,4 @@ The Lahontan Basin is a hydrographic region in the Great Basin of northwestern N
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
 - [[CuiuiAndLahontanCutthroatTrout_13865]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]

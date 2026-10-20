@@ -53,6 +53,9 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 > **Taxonomic & Life-History Summary**: The Imperial Ponds Conservation Area (IPCA) targets two native fish species: [[Razorback Sucker]] (*Xyrauchen texanus*, family Catostomidae) and [[Bonytail]] (*Gila elegans*, family Cyprinidae). Each pond was stocked with approximately 300 adult fishes in even...
 > -- *[[ImperialPondsConservationAreaA_2020]]*
 
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
 ## Mentioned In
 - [[BonytailReceivedCaughtInLakeMo_15286]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -77,3 +80,4 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 - [[CommentsOnTheBiologicalOpinion_17166]]
 - [[AmericanRiversScientificAndTec_15167]]
 - [[ImperialPondsConservationAreaA_2020]]
+- [[TowardRangewideIntegrationOfRe_18628]]

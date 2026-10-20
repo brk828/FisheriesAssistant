@@ -35,6 +35,9 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 > This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
 > -- *[[SkyIslandAquaticResourcesHabit_15003]]*
 
+> This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
+> -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -57,3 +60,4 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 - [[ConservationGeneticsInTheManag_20087]]
 - [[BogHoleProjectMeetingSummary_12749]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
+- [[AReviewOfTheBiologyOfTheMosqui_14748]]

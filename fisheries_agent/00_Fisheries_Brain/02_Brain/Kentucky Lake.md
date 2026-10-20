@@ -23,6 +23,9 @@ Kentucky Lake is a massive (~160,000-acre) Tennessee Valley Authority impoundmen
 > **[[Kentucky Lake]]** is a ~160,000-surface-acre TVA impoundment of the lower Tennessee River, among the largest man-made lakes in the world, built for flood control, navigation, and power production. Prior to this event, the reservoir's benthic macroinvertebrate community rated a biological inde...
 > -- *[[CatastrophicFishMortalitiesOnK_1965_11_16]]*
 
+> This study examines the growth, age composition, and mortality rates of [[Blue Catfish]] (*Ictalurus furcatus*) in the upper [[Tombigbee River]] of western Alabama using data collected August 5, 1965. Analysis of 196 fish for length-weight relationships and 125 spine samples for age determination...
+> -- *[[GrowthOfBlueCatfishIctalurusFu_17924]]*
+
 ## Mentioned In
 - [[CatastrophicFishMortalitiesOnK_1965_11_16]]
 - [[GrowthRatesOfTheWhiteCrappiePo_16028]]
@@ -30,3 +33,4 @@ Kentucky Lake is a massive (~160,000-acre) Tennessee Valley Authority impoundmen
 - [[RecordsOfFishesInWesternKentuc_1979]]
 - [[TheAgeAndGrowthOfTheWhiteBassR_13370]]
 - [[TheGrowthRatesOfSomeKentuckyFi_13369]]
+- [[GrowthOfBlueCatfishIctalurusFu_17924]]

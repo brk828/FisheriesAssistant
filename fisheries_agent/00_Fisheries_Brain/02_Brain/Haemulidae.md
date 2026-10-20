@@ -11,6 +11,9 @@ Haemulidae is a family of perciform fishes commonly known as grunts, characteriz
 > - **Habitat**: High-energy fore-reef face along the northern shoreward edge of the Northwest Providence Channel, dominated by *Acropora*, *Montastraea*, and *Diploria* coral genera; depth 8–10 m with 1–4 m vertical relief above a sandy substrate; water clarity ~30 m visibility; minimal human dist...
 > -- *[[DiurnalVariabilityInAFishAssem_1981]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -18,3 +21,4 @@ Haemulidae is a family of perciform fishes commonly known as grunts, characteriz
 - [[DiurnalVariabilityInAFishAssem_1981]]
 - [[InfluenceOfLandMassesOnTheDist_14157]]
 - [[SoundDiscriminationByMalesOfTw_12764]]
+- [[AClassificationOfTheFishesOfTh_14438]]

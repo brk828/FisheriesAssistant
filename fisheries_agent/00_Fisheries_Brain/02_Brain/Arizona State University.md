@@ -182,6 +182,48 @@ Arizona State University is a major research institution that has played a signi
 > This document comprises museum correspondence and specimen records from May 1995 regarding holdings of [[Cyprinella formosa]] (Beautiful Shiner) from the [[Mimbres River]] in [[New Mexico]]. The records document specimens held at the Museum of Southwestern Biology (MSB) and the University of...
 > -- *[[CyprinellaFormosaMimbresRiverE_21256]]*
 
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
+> -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
+> This Bureau of Reclamation memorandum documents the January 10, 1991 Native Fish Work Group meeting regarding ongoing efforts to restore [[Razorback Sucker]] populations in [[Lake Mohave]]. The project involves fish renovation of [[Yuma Cove]], introduction of mature razorback suckers for spawning,...
+> -- *[[ResultsOfTheNativeFishWorkGrou_15025]]*
+
+> This memorandum documents an intensive interagency sampling effort conducted March 5-13, 1988, at [[Lake Mohave]], Arizona-Nevada, targeting the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). Camp Five, stationed at [[Arrowhead Cove]], was responsible...
+> -- *[[SummaryOfTripToSampleBonytailC_15634]]*
+
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
+> This document is a research pre-proposal submitted in March 1993 by W.L. Minckley ([[Arizona State University]]), Salvador Contreras-Balderas ([[Universidad Autonoma de Nuevo Leon]]), and James P. Collins to the Mexico-United States Foundation for Science. The proposal seeks $94,000 over two years...
+> -- *[[ProposalBiologicallySensitiveA_16496]]*
+
+> This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
+> -- *[[BonytailrazorbackSuckerCoopera_17048]]*
+
+> This document comprises correspondence dated December 19, 1990, from Dr. Salvador Contreras Balderas ([[Universidad Autonoma de Nuevo Leon]], Faculty of Biological Sciences) to Dr. W.L. Minckley ([[Arizona State University]]), along with Dr. Contreras Balderas's comprehensive curriculum vitae. The...
+> -- *[[CvForNewProposal_17525]]*
+
+> This intergovernmental agreement, drafted in February 1994 and effective through April 30, 1995, establishes an internship program between [[Arizona State University]] and the [[Arizona Game and Fish Commission]]. The agreement facilitates placement of university students in field positions with...
+> -- *[[DraftIntergovernmentalAgreemen_18172]]*
+
+> This document is a research proposal prospectus submitted by Dr. W.L. Minckley and Dr. M.E. Douglas of [[Arizona State University]] Department of Zoology to the [[U.S. Fish and Wildlife Service]] for consideration at the Colorado River Coordinating Committee session on 10 December 1987. The...
+> -- *[[ProspectusSystematicAnalysesOf_19078]]*
+
+> This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
+
+> This July 1970 correspondence from The Nature Conservancy's Western Regional Office to Dr. W. L. Minckley at [[Arizona State University]] discusses management proposals for [[Aravaipa Creek]] and requests a semi-popular report on the creek's aquatic biota. The letter emphasizes limiting fish...
+> -- *[[ManagementProposalaravaipaCany_19761]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -353,3 +395,17 @@ Arizona State University is a major research institution that has played a signi
 - [[PreliminaryDraftManagementPlan_16433]]
 - [[FishCommunityReorganizationInA_18427]]
 - [[CyprinellaFormosaMimbresRiverE_21256]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[RazorbackSuckerXyauchenTexanus_13769]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]
+- [[ResultsOfTheNativeFishWorkGrou_15025]]
+- [[SummaryOfTripToSampleBonytailC_15634]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[ProposalBiologicallySensitiveA_16496]]
+- [[BonytailrazorbackSuckerCoopera_17048]]
+- [[CvForNewProposal_17525]]
+- [[DraftIntergovernmentalAgreemen_18172]]
+- [[ProspectusSystematicAnalysesOf_19078]]
+- [[SamplingAtAsuKarstenGolfCourse_19435]]
+- [[ManagementProposalaravaipaCany_19761]]

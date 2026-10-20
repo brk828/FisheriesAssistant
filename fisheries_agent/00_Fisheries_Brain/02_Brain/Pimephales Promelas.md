@@ -41,6 +41,9 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
 ## Mentioned In
 - [[DistributionOfMidwesternFishes_1978]]
 - [[FiveNewSpeciesOfGyrodactylusTr_12149]]
@@ -58,3 +61,4 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[BeaverScoping_18972]]

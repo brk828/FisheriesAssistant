@@ -41,6 +41,12 @@ The Great Lakes represent a vast freshwater ecosystem of continental significanc
 > This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
 > -- *[[TheDesirabilityOfIntroducingWh_16080]]*
 
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
 ## Mentioned In
 - [[ComparativeMorphometryOfFreshw_12456]]
 - [[CurrentRoleOfTroutCultureInMan_13158]]
@@ -75,3 +81,5 @@ The Great Lakes represent a vast freshwater ecosystem of continental significanc
 - [[MinnowsCyprinidae_17384]]
 - [[TheMaineSmallmouth_14928]]
 - [[TheDesirabilityOfIntroducingWh_16080]]
+- [[MichiganFishPredators_12681]]
+- [[IntroductionOfRainbowSmeltInto_17850]]

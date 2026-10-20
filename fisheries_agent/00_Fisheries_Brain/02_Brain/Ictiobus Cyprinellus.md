@@ -14,7 +14,11 @@ Ictiobus cyprinellus, commonly known as the bigmouth buffalo, is a large cyprini
 > - **Species**: Bigmouth Buffalo, *[[Ictiobus Cyprinellus]]* (Valenciennes) - **Source**: Pond-reared specimens from Gumwood Fish Farm (England, Arkansas) and the Fish Farmers Cooperative Association (Dumas, Arkansas) - **Age**: Three growing seasons old - **Average weight**: 3–4 lb - **Preparatio...
 > -- *[[NutritiveValueOfBuffaloFish_1962]]*
 
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[FirstCanadianRecordOfTheBlackB_1979]]
 - [[LetterToPeterBMoyleOnColoradoR_13792]]
 - [[NutritiveValueOfBuffaloFish_1962]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

@@ -20,6 +20,9 @@ A cienega is a rare, spring-fed wetland or marsh ecosystem characteristic of ari
 > - **Habitat type**: [[Cienega]] (desert spring-fed wetland/marsh ecosystem), historically rare and critically important in arid Southwestern North America. - **Location**: [[San Bernardino National Wildlife Refuge]], situated near the Arizona–Sonora border, part of the greater [[Rio Yaqui Basin]]...
 > -- *[[LetterRegardingRenamingOfBorde_1989_07_17]]*
 
+> This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
+> -- *[[BiologicalOpinionForTheSanBern_13329]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnCienegaCree_1994_02_07]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -30,3 +33,4 @@ A cienega is a rare, spring-fed wetland or marsh ecosystem characteristic of ari
 - [[LetterToDrWLMinckleyRegardingD_1989_05_03]]
 - [[SectionComplianceLetterOnTheCo_1991_02_25]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
+- [[BiologicalOpinionForTheSanBern_13329]]

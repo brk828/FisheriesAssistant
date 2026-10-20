@@ -38,6 +38,9 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 > This preliminary draft management prospectus, submitted by the Arizona Fishery Resources Office to the U.S. Fish & Wildlife Service Southwest Regional Director in February 1995, outlines a comprehensive fisheries management plan for four federally endangered "big-river" fish species in the Lower...
 > -- *[[PreliminaryDraftColoradoRiverL_11719]]*
 
+> This recovery plan addresses four federally listed fish species from the [[Rio Yaqui Basin]]: two endangered species—[[Yaqui Chub]] (*Gila purpurea*) and [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*)—and two threatened species—[[Yaqui Catfish]] (*Ictalurus pricei*) and [[Beautiful...
+> -- *[[DraftRecoveryPlanForTheEndange_11645]]*
+
 ## Mentioned In
 - [[AnnualReportOnUSBureauOfReclam_19117]]
 - [[BonytailChubsHeldAtWillowBeach_1993_05_13]]
@@ -67,3 +70,4 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 - [[IndigenousBigriverFishesColora_18295]]
 - [[DraftLowerColoradoRiverBasinNa_11647]]
 - [[PreliminaryDraftColoradoRiverL_11719]]
+- [[DraftRecoveryPlanForTheEndange_11645]]

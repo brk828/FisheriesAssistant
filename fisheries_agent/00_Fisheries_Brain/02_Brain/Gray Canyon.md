@@ -20,6 +20,9 @@ Gray Canyon is a section of the Upper Green River in Utah that serves as critica
 > This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
 > -- *[[DraftbonytailChubGilaElegans_14696]]*
 
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
 ## Mentioned In
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
 - [[DistributionHabitatUseAndGrowt_1991]]
@@ -27,3 +30,4 @@ Gray Canyon is a section of the Upper Green River in Utah that serves as critica
 - [[RecoveryPlanForTheEndangeredBo_17173]]
 - [[BonytailReintroductionPlanForT_20248]]
 - [[DraftbonytailChubGilaElegans_14696]]
+- [[DraftRecoveryImplementationPro_11643]]

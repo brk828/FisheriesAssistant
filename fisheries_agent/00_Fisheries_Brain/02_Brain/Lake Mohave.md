@@ -200,6 +200,39 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
 > -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
 
+> This Federal Register document (Vol. 58, No. 18, January 29, 1993) presents the U.S. Fish and Wildlife Service's proposed rule to designate critical habitat for four endemic [[Colorado River Basin]] fishes: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus lucius*),...
+> -- *[[EndangeredAndThreatenedWildlif_11639]]*
+
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
+> This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
+> -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
+
+> This Bureau of Reclamation memorandum documents the January 10, 1991 Native Fish Work Group meeting regarding ongoing efforts to restore [[Razorback Sucker]] populations in [[Lake Mohave]]. The project involves fish renovation of [[Yuma Cove]], introduction of mature razorback suckers for spawning,...
+> -- *[[ResultsOfTheNativeFishWorkGrou_15025]]*
+
+> This memorandum documents an intensive interagency sampling effort conducted March 5-13, 1988, at [[Lake Mohave]], Arizona-Nevada, targeting the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). Camp Five, stationed at [[Arrowhead Cove]], was responsible...
+> -- *[[SummaryOfTripToSampleBonytailC_15634]]*
+
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
+> This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
+> -- *[[BonytailrazorbackSuckerCoopera_17048]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This document records experimental gill netting and electrofishing surveys conducted on [[Lake Mohave]] in May 1986 targeting [[Razorback Sucker]] (*Xyrauchen texanus*). The survey captured 68 razorback suckers via gill netting (26 net nights effort) and 18 via electrofishing (202 minutes effort),...
+> -- *[[LakeMohaveExperimentalGillNett_18275]]*
+
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
+> This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
+> -- *[[LakeMohaveSamplingMarch_20326]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -424,3 +457,14 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[DeclineOfTheRazorbackSuckerInL_2003]]
 - [[LongtermPatternsOfFishCommunit_2023]]
 - [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
+- [[EndangeredAndThreatenedWildlif_11639]]
+- [[LetterToWayneStarnesAuthorizat_11924]]
+- [[RazorbackSuckerXyauchenTexanus_13769]]
+- [[ResultsOfTheNativeFishWorkGrou_15025]]
+- [[SummaryOfTripToSampleBonytailC_15634]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[BonytailrazorbackSuckerCoopera_17048]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[LakeMohaveExperimentalGillNett_18275]]
+- [[TowardRangewideIntegrationOfRe_18628]]
+- [[LakeMohaveSamplingMarch_20326]]

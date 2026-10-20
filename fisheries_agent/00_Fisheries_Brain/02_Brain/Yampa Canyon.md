@@ -17,6 +17,9 @@ Yampa Canyon refers to a river canyon section within the Yampa River system that
 > **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is a large-bodied, piscivorous species invasive to the upper [[Colorado River Basin]]. First introduced to the [[Yampa River]] basin during the 1970s, Northern Pike are now established and common throughout the system. Mean...
 > -- *[[EvaluationOfALongtermPredatorR_2016]]*
 
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
 ## Mentioned In
 - [[DistributionHabitatUseAndGrowt_1991]]
 - [[GilaTaxonomy_14730]]
@@ -24,3 +27,4 @@ Yampa Canyon refers to a river canyon section within the Yampa River system that
 - [[CommentsOnMRosenfeldsGilaTaxon_13067]]
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
 - [[EvaluationOfALongtermPredatorR_2016]]
+- [[DraftRecoveryImplementationPro_11643]]

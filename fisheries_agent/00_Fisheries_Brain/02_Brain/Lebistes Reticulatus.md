@@ -17,7 +17,11 @@ auto_enriched: true
 > This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
 > -- *[[ProgressReportOfTheCultureOfTi_14692]]*
 
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[BeiträgeZurGenetischenAnalyseX_1959]]
 - [[SexRatiosAquaticAnimals_13946]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

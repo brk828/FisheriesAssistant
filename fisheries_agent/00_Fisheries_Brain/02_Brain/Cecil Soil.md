@@ -11,5 +11,9 @@ Cecil Soil is a local reddish-brown soil of schistic origin found in the Auburn,
 > This experimental study by [[George N. Greene]] at [[Auburn University]] (1967-1968) investigated the effects of three nitrogen sources (sodium nitrate, ammonium carbonate, and cottonseed meal) and the presence of [[Cecil Soil]] on fish production and water chemistry in fertilized plastic pools....
 > -- *[[EffectOfDifferentNitrogenSourc_19233]]*
 
+> This experimental study investigated the effects of water hardness on fish production using [[Fathead Minnow]] (*Pimephales promelas*) in circular plastic-lined pools at [[Auburn University]]. The research examined how different sources of hardness (calcium carbonate, calcium sulfate, and magnesium...
+> -- *[[EffectsOfWaterHardnessOnFishPr_19234]]*
+
 ## Mentioned In
 - [[EffectOfDifferentNitrogenSourc_19233]]
+- [[EffectsOfWaterHardnessOnFishPr_19234]]

@@ -47,6 +47,9 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 > This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
 > -- *[[LetterToCentralArizonaWaterCon_17898]]*
 
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
 ## Mentioned In
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
 - [[BlmGilaBoxAdvisoryCommitteeMee_1991_12_24]]
@@ -65,3 +68,4 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[PreliminaryReviewAndAnalysisOf_11672]]
 - [[LetterToCentralArizonaWaterCon_17898]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]

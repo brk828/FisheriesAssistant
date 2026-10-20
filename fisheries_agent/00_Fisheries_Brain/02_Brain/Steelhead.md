@@ -35,6 +35,9 @@ Steelhead are the anadromous (sea-run) life-history form of *Oncorhynchus mykiss
 > **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
 > -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
 
+> This 1954 California Department of Fish and Game document announces the reopening of recreational sturgeon fishing after a 35-year closure. The white sturgeon (*Acipenser transmontanus*) and green sturgeon (*Acipenser medirostris*) populations had recovered sufficiently to allow limited harvest....
+> -- *[[TheCaliforniaSturgeon_17339]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[StationProfileOfTheH_19552]]
@@ -46,3 +49,4 @@ Steelhead are the anadromous (sea-run) life-history form of *Oncorhynchus mykiss
 - [[ASteelheadMigrationInShastaRiv_21255]]
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
+- [[TheCaliforniaSturgeon_17339]]

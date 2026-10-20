@@ -62,6 +62,12 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
 > -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
 
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
+> This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
+> -- *[[BonytailrazorbackSuckerCoopera_17048]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -93,3 +99,5 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[GeneticDiversityOfRazorbackSuc_18428]]
 - [[DraftEnvironmentalAssessmentLo_11489]]
 - [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[BonytailrazorbackSuckerCoopera_17048]]

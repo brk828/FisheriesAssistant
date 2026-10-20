@@ -26,9 +26,13 @@ Carcharhinidae is a family of sharks commonly known as requiem sharks, character
 > This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
 > -- *[[DistributionalAndLocalVernacul_13815]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]
 - [[DistributionalAndLocalVernacul_13815]]
+- [[AClassificationOfTheFishesOfTh_14438]]

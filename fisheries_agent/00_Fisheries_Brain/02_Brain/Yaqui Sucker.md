@@ -32,6 +32,12 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 > This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
 > -- *[[SkyIslandAquaticResourcesHabit_15003]]*
 
+> This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
+> -- *[[BiologicalOpinionForTheSanBern_13329]]*
+
+> This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
+> -- *[[FisheryManagementForTheSanBern_18979]]*
+
 ## Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -45,3 +51,5 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[PlansToObtainLiveRioYaquiFishe_14087]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
+- [[BiologicalOpinionForTheSanBern_13329]]
+- [[FisheryManagementForTheSanBern_18979]]

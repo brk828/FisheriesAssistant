@@ -53,6 +53,15 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 > This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
 > -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
 
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
+> This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
+> -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
+
+> This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
+> -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -112,3 +121,6 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
 - [[BiologicalOpinionForReroutingO_11747]]
 - [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[RazorbackSuckerXyauchenTexanus_13769]]
+- [[RazorbackSuckerXyrauchenTexanu_18008]]

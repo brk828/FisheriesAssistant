@@ -20,9 +20,13 @@ The U.S. National Museum served as a major institutional repository for fish spe
 > This taxonomic revision demonstrates that *[[Salmo evermanni]]*, described by Jordan and Grinnell in 1908 from the upper [[Santa Ana River]] in the [[San Bernardino Mountains]], is a junior synonym of *[[Salmo clarkii henshawi]]* (Lahontan cutthroat trout) from [[Lake Tahoe]]. The authors...
 > -- *[[SalmoEvermanniASynonymOfSalmoC_18176]]*
 
+> This paper describes *Asellus puebla*, a new species of freshwater isopod crustacean collected from the [[Rio Cosala]] in [[Puebla]], [[Mexico]]. The discovery extends the known southern distribution limit of the genus [[Asellus]] from approximately 30° latitude to just below 20° latitude. The...
+> -- *[[ANewSpeciesOfAquaticIsopodCrus_17104]]*
+
 ## Mentioned In
 - [[DistributionalRecordsForNorthA_1946_06_15]]
 - [[LetterToJohnRogersRegardingBon_1993_07_01]]
 - [[NotesOnACollectionOfFishesObta_1889]]
 - [[DescriptionOfANewSpeciesOfKill_19850]]
 - [[SalmoEvermanniASynonymOfSalmoC_18176]]
+- [[ANewSpeciesOfAquaticIsopodCrus_17104]]

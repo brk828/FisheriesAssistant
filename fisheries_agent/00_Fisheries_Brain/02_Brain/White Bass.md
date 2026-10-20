@@ -62,6 +62,9 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
 > -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
 
+> This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
+> -- *[[CreelCensusReport_11332]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -100,3 +103,4 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[StatusOfJuneSuckerInUtahLakeAn_2007]]
 - [[ComplexEffectsOfPredatorsDeter_2001]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
+- [[CreelCensusReport_11332]]

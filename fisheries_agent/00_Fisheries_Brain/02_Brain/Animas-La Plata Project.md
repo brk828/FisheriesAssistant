@@ -17,6 +17,9 @@ auto_enriched: true
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
 > -- *[[ManagementGroupMeetingSummary_19219]]*
 
+> This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
+> -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
+
 ## Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[DesertFishesCouncilLetterToSec_1990_06_06]]
@@ -24,3 +27,4 @@ auto_enriched: true
 - [[BriefInSupportOfPlaintiffsMoti_18646]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[ManagementGroupMeetingSummary_19219]]
+- [[NoticeOfViolationOfTheEsaConce_18645]]

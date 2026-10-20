@@ -17,7 +17,11 @@ The Swisshelm Mountains are a mountain range in southeastern Arizona whose weste
 > This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
 > -- *[[ReportToTheDesertFishesCouncil_13683]]*
 
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
 ## Mentioned In
 - [[ABotanistInArizonaTerritoryJac_13225]]
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
 - [[ReportToTheDesertFishesCouncil_13683]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]

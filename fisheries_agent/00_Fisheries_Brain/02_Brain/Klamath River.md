@@ -29,6 +29,9 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This 1955 report documents the distribution and status of the introduced [[Pumpkinseed]] (*Lepomis gibbosus*) in [[California]]. The species was considered rare in the state, with scattered populations in widely separated locations. The authors compile historical records from 1939-1954, correcting...
 > -- *[[TheStatusOfThePumpkinseedLepom_12862]]*
 
+> This 1954 California Department of Fish and Game document announces the reopening of recreational sturgeon fishing after a 35-year closure. The white sturgeon (*Acipenser transmontanus*) and green sturgeon (*Acipenser medirostris*) populations had recovered sufficiently to allow limited harvest....
+> -- *[[TheCaliforniaSturgeon_17339]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
@@ -40,3 +43,4 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[ConservationOfNativeFreshwater_15444]]
 - [[ASteelheadMigrationInShastaRiv_21255]]
 - [[TheStatusOfThePumpkinseedLepom_12862]]
+- [[TheCaliforniaSturgeon_17339]]

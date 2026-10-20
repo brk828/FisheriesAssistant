@@ -32,6 +32,9 @@ Golden Trout (Oncorhynchus aguabonita) is a high-elevation salmonid species nati
 > This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
 > -- *[[SummaryStatementOfInsightsFrom_20854]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
 ## Mentioned In
 - [[AGrowthStudyAndBloodProteinAna_15288]]
 - [[APilgrimSProgressFromGroupAToG_1987]]
@@ -42,3 +45,4 @@ Golden Trout (Oncorhynchus aguabonita) is a high-elevation salmonid species nati
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[SummaryStatementOfInsightsFrom_20854]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]

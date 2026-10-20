@@ -29,6 +29,9 @@ Notropis stramineus, commonly known as the sand shiner, is a small freshwater cy
 > This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
 > -- *[[GeneticDifferentiationAmongSub_18497]]*
 
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -37,3 +40,4 @@ Notropis stramineus, commonly known as the sand shiner, is a small freshwater cy
 - [[NicheBreadthFoodOfNotropisLutr_14678]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[GeneticDifferentiationAmongSub_18497]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

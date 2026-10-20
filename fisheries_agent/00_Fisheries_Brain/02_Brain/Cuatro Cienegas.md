@@ -32,6 +32,18 @@ auto_enriched: true
 > Personal correspondence dated March 30, 1992, from Dr. Roger Conant (University of New Mexico, retired Director of Philadelphia Zoo) to Dr. W. L. Minckley (Arizona State University) requesting information on geological history and aquatic fauna of the [[Rio Nazas]] and [[Rio Aguanaval]] in western...
 > -- *[[InterestInRioNazasAndRioAguana_17463]]*
 
+> This document is a research pre-proposal submitted in March 1993 by W.L. Minckley ([[Arizona State University]]), Salvador Contreras-Balderas ([[Universidad Autonoma de Nuevo Leon]]), and James P. Collins to the Mexico-United States Foundation for Science. The proposal seeks $94,000 over two years...
+> -- *[[ProposalBiologicallySensitiveA_16496]]*
+
+> This document comprises correspondence dated December 19, 1990, from Dr. Salvador Contreras Balderas ([[Universidad Autonoma de Nuevo Leon]], Faculty of Biological Sciences) to Dr. W.L. Minckley ([[Arizona State University]]), along with Dr. Contreras Balderas's comprehensive curriculum vitae. The...
+> -- *[[CvForNewProposal_17525]]*
+
+> This Ph.D. dissertation proposal by Anna Melina Ludlow at [[Lehigh University]] outlines a comprehensive study of sexual selection, mate choice, and hybridization in two endemic pupfish species from the [[Cuatro Cienegas]] basin in northern Mexico: [[Cyprinodon atrorus]] and [[Cyprinodon...
+> -- *[[SexualSelectionInTheCuatroCien_20108]]*
+
+> Official correspondence from the U.S. Fish and Wildlife Service Regional Director to the Desert Fishes Council Executive Secretary dated January 14, 1987, regarding unauthorized collection of endangered fish and reptiles at [[Cuatro Cienegas]], [[Coahuila]], [[Mexico]]. The letter addresses...
+> -- *[[UnauthorizedCollectingInMexico_20833]]*
+
 ## Mentioned In
 - [[LetterFromRobertHershlerToRobe_1986_04_07]]
 - [[DistributionalAndLocalVernacul_13815]]
@@ -41,3 +53,7 @@ auto_enriched: true
 - [[TaxonomicStatusEcologyAndDistr_14514]]
 - [[ProposalForCollaborationBetwee_13766]]
 - [[InterestInRioNazasAndRioAguana_17463]]
+- [[ProposalBiologicallySensitiveA_16496]]
+- [[CvForNewProposal_17525]]
+- [[SexualSelectionInTheCuatroCien_20108]]
+- [[UnauthorizedCollectingInMexico_20833]]

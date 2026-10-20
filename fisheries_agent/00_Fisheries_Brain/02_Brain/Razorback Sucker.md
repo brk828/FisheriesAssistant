@@ -404,6 +404,72 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
 > -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
 
+> This document comprises multiple research proposals (FY-1994 Scope-of-Work) for the Recovery Implementation Program targeting endangered fish species in the [[Upper Colorado River Basin]]. The proposals focus on evaluating flow manipulations from the [[Aspinall Unit]] and their effects on...
+> -- *[[FiscalYearScopeOfWorkResearchP_11213]]*
+
+> This Federal Register document (Vol. 58, No. 18, January 29, 1993) presents the U.S. Fish and Wildlife Service's proposed rule to designate critical habitat for four endemic [[Colorado River Basin]] fishes: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus lucius*),...
+> -- *[[EndangeredAndThreatenedWildlif_11639]]*
+
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
+> -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
+> This Bureau of Reclamation memorandum documents the January 10, 1991 Native Fish Work Group meeting regarding ongoing efforts to restore [[Razorback Sucker]] populations in [[Lake Mohave]]. The project involves fish renovation of [[Yuma Cove]], introduction of mature razorback suckers for spawning,...
+> -- *[[ResultsOfTheNativeFishWorkGrou_15025]]*
+
+> This memorandum documents an intensive interagency sampling effort conducted March 5-13, 1988, at [[Lake Mohave]], Arizona-Nevada, targeting the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). Camp Five, stationed at [[Arrowhead Cove]], was responsible...
+> -- *[[SummaryOfTripToSampleBonytailC_15634]]*
+
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
+> This case study examines the conservation status, recovery efforts, and reintroduction programs for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America. Once a dominant predator throughout the [[Colorado River]] system, the species declined dramatically from...
+> -- *[[CaseStudyColoradoRiverSqauwfis_16101]]*
+
+> This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
+> -- *[[BonytailrazorbackSuckerCoopera_17048]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
+> -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
+
+> This document records experimental gill netting and electrofishing surveys conducted on [[Lake Mohave]] in May 1986 targeting [[Razorback Sucker]] (*Xyrauchen texanus*). The survey captured 68 razorback suckers via gill netting (26 net nights effort) and 18 via electrofishing (202 minutes effort),...
+> -- *[[LakeMohaveExperimentalGillNett_18275]]*
+
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
+> This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
+> -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
+
+> This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
+> -- *[[LakeMohaveSamplingMarch_20326]]*
+
+> This memorandum from the [[Upper Colorado River Basin]] Recovery Implementation Program documents the rescheduling of a genetics meeting focused on [[Razorback Sucker]] (*Xyrauchen texanus*) conservation. The meeting, originally planned for August 1994, was rescheduled to accommodate field...
+> -- *[[ReschedulingOfRazorbackSuckerG_20862]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -1094,3 +1160,25 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[SpawningAndMovementsOfRazorbac_1990]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
 - [[ElectrofishingAndItsHarmfulEff_2003]]
+- [[FiscalYearScopeOfWorkResearchP_11213]]
+- [[EndangeredAndThreatenedWildlif_11639]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[AnInvestigationOfEndangeredAnd_12516]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[RazorbackSuckerXyauchenTexanus_13769]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]
+- [[ResultsOfTheNativeFishWorkGrou_15025]]
+- [[SummaryOfTripToSampleBonytailC_15634]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[CaseStudyColoradoRiverSqauwfis_16101]]
+- [[BonytailrazorbackSuckerCoopera_17048]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[RazorbackSuckerXyrauchenTexanu_18008]]
+- [[LakeMohaveExperimentalGillNett_18275]]
+- [[TowardRangewideIntegrationOfRe_18628]]
+- [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[BeaverScoping_18972]]
+- [[SamplingAtAsuKarstenGolfCourse_19435]]
+- [[LakeMohaveSamplingMarch_20326]]
+- [[ReschedulingOfRazorbackSuckerG_20862]]

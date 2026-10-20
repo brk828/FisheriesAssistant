@@ -23,6 +23,9 @@ The Big Bend Gambusia is a small cyprinodontid fish species endemic to the Big B
 > This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
 > -- *[[UnitedStatesListOfEndangeredFa_11533]]*
 
+> This document comprises correspondence dated December 19, 1990, from Dr. Salvador Contreras Balderas ([[Universidad Autonoma de Nuevo Leon]], Faculty of Biological Sciences) to Dr. W.L. Minckley ([[Arizona State University]]), along with Dr. Contreras Balderas's comprehensive curriculum vitae. The...
+> -- *[[CvForNewProposal_17525]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[FishDistributionNumbersAndWeig_1992]]
@@ -30,3 +33,4 @@ The Big Bend Gambusia is a small cyprinodontid fish species endemic to the Big B
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[EvaluationsAndSuggestionsConce_16480]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
+- [[CvForNewProposal_17525]]

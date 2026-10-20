@@ -26,6 +26,9 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 > **Primary Sampling Purpose**: This document provides taxonomic identification keys and natural history information for sunfishes (family [[Centrarchidae]]) in Alabama, with detailed species accounts for [[Redeye Bass]] ([[Micropterus coosae]]) and [[Smallmouth Bass]] ([[Micropterus dolomieu]]). The...
 > -- *[[FishesOfAlabama_1990]]*
 
+> The [[Boulder Darter]] (*Etheostoma wapiti*) is a small endangered member of the perch family (Percidae) listed by the U.S. Fish and Wildlife Service in 1988. This bottom-dwelling darter survives in only approximately 63 miles (101 kilometers) of the lower [[Elk River]] system in southern Tennessee...
+> -- *[[TheBoulderDarterAConservationC_14033]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[AFreshwaterMolluskSurveyOfNort_15956]]
@@ -39,3 +42,4 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[FishesOfAlabama_1990]]
+- [[TheBoulderDarterAConservationC_14033]]

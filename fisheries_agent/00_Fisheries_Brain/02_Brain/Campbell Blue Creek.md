@@ -17,9 +17,13 @@ auto_enriched: true
 > This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
 > -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
 
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
 ## Mentioned In
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
 - [[EndangeredAndThreatenedWildlif_16787]]
 - [[SummaryBiologicalOpinionForRep_11720]]
 - [[BiologicalOpinionForReroutingO_11747]]
 - [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]

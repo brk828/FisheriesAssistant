@@ -11,8 +11,12 @@ Chondrichthyes is the taxonomic class comprising cartilaginous fishes, character
 > - **Historical gap filled**: Eddy's manual, alongside [[Fishes of Ohio]] (Trautman) and Moore's contribution to *Vertebrate Animals of the United States*, represents the first adequate identification treatment of U.S. freshwater fishes since [[Jordan and Evermann]]'s work at the turn of the 20th ...
 > -- *[[BookReviewOfHowToKnowTheFreshw_1959]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
 - [[BookReviewHandbookOfPaleoichth_1984]]
 - [[BookReviewOfHowToKnowTheFreshw_1959]]
 - [[PetalodusJewettiANewSpeciesOfF_1957]]
+- [[AClassificationOfTheFishesOfTh_14438]]

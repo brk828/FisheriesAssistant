@@ -29,6 +29,9 @@ The Pahrump Killifish (*Empetrichthys latos*) is a small livebearing fish endemi
 > This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
 > -- *[[UnitedStatesListOfEndangeredFa_11533]]*
 
+> This 1981 correspondence from the Desert Fishes Council Chairman alerts members to grave threats posed by the proposed MX Missile System to aquatic ecosystems throughout central and southern Nevada and west-central Utah. The $33 billion Department of Defense project would construct 200 racetrack...
+> -- *[[MxMissileSystemeffectsOnDesert_20506]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[BullfrogPredation_1985_11_27]]
@@ -40,3 +43,4 @@ The Pahrump Killifish (*Empetrichthys latos*) is a small livebearing fish endemi
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
+- [[MxMissileSystemeffectsOnDesert_20506]]

@@ -17,9 +17,13 @@ Osteichthyes refers to the class of bony fishes, characterized by the presence o
 > This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
 > -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
 - [[BookReviewOfHowToKnowTheFreshw_1959]]
 - [[NonLethalStomachPumpingTechniq_1992_08_10]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[AClassificationOfTheFishesOfTh_14438]]

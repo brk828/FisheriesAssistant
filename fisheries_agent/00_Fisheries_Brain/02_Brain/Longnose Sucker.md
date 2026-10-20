@@ -26,6 +26,9 @@ The Longnose Sucker (Catostomus catostomus) is a benthic cyprinid fish species c
 > This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
 > -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
 
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[FreshwaterFishesOfTheEasternAr_18569]]
@@ -35,3 +38,4 @@ The Longnose Sucker (Catostomus catostomus) is a benthic cyprinid fish species c
 - [[TheMacroinvertebratesAndFishOf_17377]]
 - [[ThePopulationAndMovementOfFish_1952]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[AnInvestigationOfEndangeredAnd_12516]]

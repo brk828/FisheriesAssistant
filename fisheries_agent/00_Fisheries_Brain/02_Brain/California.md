@@ -56,6 +56,12 @@ In the context of fish science and aquatic ecology, California refers to the geo
 > This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
 > -- *[[FisheriesManagementOfElCapitan_16317]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
+> This 1918 systematic revision by Carl L. Hubbs reorganizes the family [[Embiotocidae]] (viviparous perches or surf-fishes) of [[California]], establishing three subfamilies based on anal fin structure and dentition. The [[Embiotocidae]] represent a highly evolved example of viviparity in fishes,...
+> -- *[[ARevisionOfTheViviparousPerche_19963]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[RainbowSmeltIntroductionIntoLa_1989]]
@@ -74,3 +80,5 @@ In the context of fish science and aquatic ecology, California refers to the geo
 - [[TheStatusOfThePumpkinseedLepom_12862]]
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[FisheriesManagementOfElCapitan_16317]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+- [[ARevisionOfTheViviparousPerche_19963]]

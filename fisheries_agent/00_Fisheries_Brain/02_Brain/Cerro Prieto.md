@@ -11,5 +11,9 @@ Cerro Prieto is a location in the Lower Colorado River Delta region where a dese
 > This genetic survey assessed mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations (226 specimens) and one captive stock at [[Dexter National Fish Hatchery]] (33 specimens). Using PCR-SSCP analysis of the mitochondrial ND2 gene and D-loop sequencing, the study...
 > -- *[[GeneticVariationInDesertPupfis_15731]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
 ## Mentioned In
 - [[GeneticVariationInDesertPupfis_15731]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]

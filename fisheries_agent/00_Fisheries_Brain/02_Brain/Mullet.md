@@ -14,7 +14,11 @@ Mullet refers to a diverse group of commercially and ecologically important fish
 > - Both species are pelagic marine [[Schooling Fish|schooling fishes]] native to Western Atlantic waters, studied at the [[Lerner Marine Laboratory]] in Bimini, Bahamas. - **Natural swimming behavior:** Field observations noted that [[Bar Jack]] are markedly faster swimmers than [[Bigeye Scad]] un...
 > -- *[[TheOptomotorReactionOfSchoolin_11406]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
 ## Mentioned In
 - [[DeltaNotesFactsAndSpeculationO_1985_01_30]]
 - [[GrossPrimaryProductivityConsum_12275]]
 - [[TheOptomotorReactionOfSchoolin_11406]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]

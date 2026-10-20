@@ -41,6 +41,9 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 > This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
 > -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
@@ -62,3 +65,4 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]

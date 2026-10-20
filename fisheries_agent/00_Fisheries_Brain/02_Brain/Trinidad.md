@@ -14,6 +14,10 @@ auto_enriched: true
 > - **Tucunaré (Cichla spp., Peacock Bass)**: Described as "good-sized" basslike fishes, **15 to 20 inches** in length; found in the [[Orinoco River]] delta region (Venezuela) near [[Trinidad]]. Noted to rise well to plugs and dry flies, and fight hard when hooked—angling qualities comparable to No...
 > -- *[[ForeignIntroductionsOfNorthAme_15556]]*
 
+> This article by Dr. George S. Myers examines the ecological dangers posed by [[Gambusia affinis]] (mosquitofish), a small livebearer from the southeastern United States that was widely introduced worldwide for mosquito control beginning around the turn of the 20th century. Despite its effectiveness...
+> -- *[[GambusiaTheFishDestroyer_15551]]*
+
 ## Mentioned In
 - [[BiologicalNotesOnSomeEastAfric_14561]]
 - [[ForeignIntroductionsOfNorthAme_15556]]
+- [[GambusiaTheFishDestroyer_15551]]

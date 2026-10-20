@@ -41,6 +41,15 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 > This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
 > -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
 
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
@@ -59,3 +68,6 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 - [[BogHoleProjectMeetingSummary_12749]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]
+- [[BeaverScoping_18972]]

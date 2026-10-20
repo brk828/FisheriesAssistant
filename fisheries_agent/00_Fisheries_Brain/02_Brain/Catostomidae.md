@@ -104,6 +104,18 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a federally endangered catostomid endemic to the [[Colorado River Basin]]. The species is a large-bodied, periodic strategist that historically occupied diverse and connected river systems including access to a...
 > -- *[[RazorbackSuckerMovementStrateg_2020]]*
 
+> This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
+> -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
+
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
+> This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
+> -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
+
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AListOfOntarioFishes_11321]]
@@ -309,3 +321,7 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 - [[IssuesToDiscussAndResolveAtCui_14619]]
 - [[StatusOfJuneSuckerInUtahLakeAn_2007]]
 - [[RazorbackSuckerMovementStrateg_2020]]
+- [[RazorbackSuckerXyauchenTexanus_13769]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

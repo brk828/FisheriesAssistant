@@ -161,6 +161,42 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
 > -- *[[AConservationPlanForNativeFish_2003]]*
 
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
+> This Federal Register document (Vol. 58, No. 18, January 29, 1993) presents the U.S. Fish and Wildlife Service's proposed rule to designate critical habitat for four endemic [[Colorado River Basin]] fishes: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus lucius*),...
+> -- *[[EndangeredAndThreatenedWildlif_11639]]*
+
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This pilot study proposal evaluates the feasibility of using non-lethal stomach pumping techniques to assess food habits of [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The study aims to determine if stomach flushing can be performed without damaging the pharyngeal mill and to assess...
+> -- *[[ANonlethalStomachPumpToRecover_13644]]*
+
+> This memorandum documents the planning and agenda for a National Research Council Water Science and Technology Board committee meeting scheduled for October 9-11, 1991, in [[Flagstaff]], [[Arizona]]. The committee was convened to review the [[Glen Canyon Environmental Studies]] (GCES) program, with...
+> -- *[[AgendaAndOtherInformationForUp_13959]]*
+
+> This document summarizes a three-day workshop (November 8-10, 1999) at Saguaro Lake Ranch convened to evaluate a proposed temperature control device (TCD) for [[Glen Canyon Dam]]. The workshop brought together scientists, resource managers, and conservationists to provide input on research and...
+> -- *[[GlenCanyonDamTemperatureContro_17019]]*
+
+> This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
+> -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
+
+> This document presents a comprehensive summary of collecting localities for the [[Humpback Chub]] (*Gila cypha*) from the [[Colorado River]] and selected tributaries in [[Coconino County]] and [[Mohave County]], Arizona, spanning from archaeological remains (4000 years B.P.) through 1979....
+> -- *[[SummaryOfCollectingLocalitiesF_18502]]*
+
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
+> This document comprises meeting notes and correspondence from the [[Glen Canyon Environmental Studies]] (GCES) Technical Team meetings held March 20-21, 1989, in Las Vegas, Nevada. The meetings addressed the Fiscal Year 1989 technical study plan, organizational restructuring of study teams,...
+> -- *[[GlenCanyonEnvironmentalStudies_19678]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -298,3 +334,15 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[AConservationPlanForNativeFish_2003]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[EndangeredAndThreatenedWildlif_11639]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[ANonlethalStomachPumpToRecover_13644]]
+- [[AgendaAndOtherInformationForUp_13959]]
+- [[GlenCanyonDamTemperatureContro_17019]]
+- [[RazorbackSuckerXyrauchenTexanu_18008]]
+- [[SummaryOfCollectingLocalitiesF_18502]]
+- [[TowardRangewideIntegrationOfRe_18628]]
+- [[GlenCanyonEnvironmentalStudies_19678]]

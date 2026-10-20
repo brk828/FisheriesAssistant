@@ -149,6 +149,33 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
+> This case study examines the conservation status, recovery efforts, and reintroduction programs for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America. Once a dominant predator throughout the [[Colorado River]] system, the species declined dramatically from...
+> -- *[[CaseStudyColoradoRiverSqauwfis_16101]]*
+
+> This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
+> -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
+
+> This master's thesis investigated the vertical distribution of fishes in [[Roosevelt Lake]] and [[Apache Lake]], two contiguous reservoirs on the [[Salt River]] in central Arizona, during 1970-1971. Using vertical gill nets at multiple transects, the study examined fish depth distributions relative...
+> -- *[[VerticalDistributionOfFishesRe_18202]]*
+
+> This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
+> -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
+
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
+> This report presents findings from the Globe-Miami National Prototype Groundwater Study, a collaborative investigation funded by the [[U.S. Environmental Protection Agency]] ($450,000), three active mining companies ($138,045), and the [[U.S. Bureau of Mines]] ($125,100). The study examined water...
+> -- *[[MiningActivitiesAndWaterQualit_21102]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfChannelCatfishIc_14101]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -235,3 +262,12 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 - [[InfluenceOfPumpStorageAndGener_15886]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[CaseStudyColoradoRiverSqauwfis_16101]]
+- [[RazorbackSuckerXyrauchenTexanu_18008]]
+- [[VerticalDistributionOfFishesRe_18202]]
+- [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[MiningActivitiesAndWaterQualit_21102]]

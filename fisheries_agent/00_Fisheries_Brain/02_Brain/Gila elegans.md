@@ -59,6 +59,9 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
 > -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
 
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
 ## Mentioned In
 - [[BonytailUpdate_16371]]
 - [[CageCulturingTheEndangeredBony_1999]]
@@ -102,3 +105,4 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[MultivariateDiscriminationOfCo_19077]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]

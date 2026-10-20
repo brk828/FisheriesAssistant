@@ -32,6 +32,9 @@ The Bowfin (Amia calva) is a primitive freshwater fish species of North American
 > This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
 > -- *[[PrelimaryObservationsOnTheToxi_14434]]*
 
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
 ## Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[CausesOfDeathAmongIndianaFishe_1945]]
@@ -45,3 +48,4 @@ The Bowfin (Amia calva) is a primitive freshwater fish species of North American
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[WhatHaveICaught_12929]]
 - [[PrelimaryObservationsOnTheToxi_14434]]
+- [[MichiganFishPredators_12681]]

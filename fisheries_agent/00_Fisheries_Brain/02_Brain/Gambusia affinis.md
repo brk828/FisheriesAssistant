@@ -80,6 +80,15 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
+> -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
+
+> This article by Dr. George S. Myers examines the ecological dangers posed by [[Gambusia affinis]] (mosquitofish), a small livebearer from the southeastern United States that was widely introduced worldwide for mosquito control beginning around the turn of the 20th century. Despite its effectiveness...
+> -- *[[GambusiaTheFishDestroyer_15551]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -134,3 +143,6 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 - [[FishesAndAquaticResourcesDeath_15415]]
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[AReviewOfTheBiologyOfTheMosqui_14748]]
+- [[GambusiaTheFishDestroyer_15551]]
+- [[BeaverScoping_18972]]

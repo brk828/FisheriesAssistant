@@ -23,9 +23,13 @@ auto_enriched: true
 > **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
 > -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
 
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
 ## Mentioned In
 - [[PetitionForNewRuleOnCaptivePro_1994_07_08]]
 - [[DemographicsAndMonitoringOfRep_2020]]
 - [[ReportOfTheAccomplishmentsOfTh_19807]]
 - [[DraftAndRevisedVersionsOfPetit_11208]]
 - [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
+- [[LetterToWayneStarnesAuthorizat_11924]]

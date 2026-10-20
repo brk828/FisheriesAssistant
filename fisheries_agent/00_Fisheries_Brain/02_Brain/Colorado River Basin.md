@@ -227,6 +227,30 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
 > -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
 
+> This Federal Register document (Vol. 58, No. 18, January 29, 1993) presents the U.S. Fish and Wildlife Service's proposed rule to designate critical habitat for four endemic [[Colorado River Basin]] fishes: [[Razorback Sucker]] (*Xyrauchen texanus*), [[Colorado Squawfish]] (*Ptychocheilus lucius*),...
+> -- *[[EndangeredAndThreatenedWildlif_11639]]*
+
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
+> -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
+
+> This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
+> -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
+
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
+> This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
+> -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
+
+> This document is a research proposal prospectus submitted by Dr. W.L. Minckley and Dr. M.E. Douglas of [[Arizona State University]] Department of Zoology to the [[U.S. Fish and Wildlife Service]] for consideration at the Colorado River Coordinating Committee session on 10 December 1987. The...
+> -- *[[ProspectusSystematicAnalysesOf_19078]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -578,3 +602,11 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]
 - [[SpawningAndMovementsOfRazorbac_1990]]
 - [[ElectrofishingAndItsHarmfulEff_2003]]
+- [[EndangeredAndThreatenedWildlif_11639]]
+- [[LetterToWayneStarnesAuthorizat_11924]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[RazorbackSuckerXyauchenTexanus_13769]]
+- [[RazorbackSuckerXyrauchenTexanu_18008]]
+- [[TowardRangewideIntegrationOfRe_18628]]
+- [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[ProspectusSystematicAnalysesOf_19078]]

@@ -89,6 +89,18 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 > **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
 > -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
 
+> This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
+> -- *[[CreelCensusReport_11332]]*
+
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -165,3 +177,7 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 - [[ChasingNorthernPikeUnderIceLon_2021]]
 - [[SummaryOfNorthernPikeSuppressi_2022]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
+- [[CreelCensusReport_11332]]
+- [[MichiganFishPredators_12681]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[IntroductionOfRainbowSmeltInto_17850]]

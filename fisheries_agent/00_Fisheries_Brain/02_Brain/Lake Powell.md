@@ -134,6 +134,30 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic species of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy characteristic of bet-hedging in variable environments. Fish in this study...
 > -- *[[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]*
 
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
+> -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
+
+> This report documents two consecutive creel census studies conducted at [[Lee's Ferry]] on the [[Colorado River]] below [[Glen Canyon Dam]] from July 1964 through June 1966. The first segment (July 1964-June 1965) recorded 2,216 angler trips over 176 census days, yielding 8,047 [[Rainbow Trout]]...
+> -- *[[TailwatersFisheriesInvestigati_14584]]*
+
+> This 1992 annual report from the [[Arizona Game and Fish Department]] documents comprehensive research on [[Rainbow Trout]] (*Oncorhynchus mykiss*) populations in the [[Lee's Ferry]] reach of the [[Colorado River]] below [[Glen Canyon Dam]] from November 1989 through February 1993. The study...
+> -- *[[GlenCanyonEnvironmentalStudies_16902]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This document presents a comprehensive summary of collecting localities for the [[Humpback Chub]] (*Gila cypha*) from the [[Colorado River]] and selected tributaries in [[Coconino County]] and [[Mohave County]], Arizona, spanning from archaeological remains (4000 years B.P.) through 1979....
+> -- *[[SummaryOfCollectingLocalitiesF_18502]]*
+
+> This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
+> -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
+
+> This document comprises meeting notes and correspondence from the [[Glen Canyon Environmental Studies]] (GCES) Technical Team meetings held March 20-21, 1989, in Las Vegas, Nevada. The meetings addressed the Fiscal Year 1989 technical study plan, organizational restructuring of study teams,...
+> -- *[[GlenCanyonEnvironmentalStudies_19678]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -237,3 +261,11 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[RazorbackSuckerMovementStrateg_2020]]
 - [[FishCommunityResponsesToMechan_2014]]
 - [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[RazorbackSuckerXyauchenTexanus_13769]]
+- [[TailwatersFisheriesInvestigati_14584]]
+- [[GlenCanyonEnvironmentalStudies_16902]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[SummaryOfCollectingLocalitiesF_18502]]
+- [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[GlenCanyonEnvironmentalStudies_19678]]

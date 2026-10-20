@@ -32,6 +32,12 @@ auto_enriched: true
 > This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
 > -- *[[RoughFishControl_20167]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
+> This 1981 correspondence from the Desert Fishes Council Chairman alerts members to grave threats posed by the proposed MX Missile System to aquatic ecosystems throughout central and southern Nevada and west-central Utah. The $33 billion Department of Defense project would construct 200 racetrack...
+> -- *[[MxMissileSystemeffectsOnDesert_20506]]*
+
 ## Mentioned In
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[NoteOnSpringFoodHabitsOfTheLak_12533]]
@@ -40,3 +46,5 @@ auto_enriched: true
 - [[LakeAndReservoirInvestigations_12145]]
 - [[ConservationOfNativeFreshwater_15444]]
 - [[RoughFishControl_20167]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+- [[MxMissileSystemeffectsOnDesert_20506]]

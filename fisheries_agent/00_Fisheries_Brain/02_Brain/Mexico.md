@@ -29,6 +29,15 @@ Mexico is the location of the Cienega de Santa Clara wetland in Sonora, which wa
 > This 1966 field guide by P. E. Pickens from the [[University of Arizona]] Department of Zoology documents the invertebrate fauna of [[Puerto Peñasco]], [[Sonora]], [[Mexico]] in the [[Gulf of California]]. The guide presents identification keys, illustrations, and distributional data for major...
 > -- *[[AFieldGuideToSomeOfTheInverteb_11179]]*
 
+> This paper describes *Asellus puebla*, a new species of freshwater isopod crustacean collected from the [[Rio Cosala]] in [[Puebla]], [[Mexico]]. The discovery extends the known southern distribution limit of the genus [[Asellus]] from approximately 30° latitude to just below 20° latitude. The...
+> -- *[[ANewSpeciesOfAquaticIsopodCrus_17104]]*
+
+> This Ph.D. dissertation proposal by Anna Melina Ludlow at [[Lehigh University]] outlines a comprehensive study of sexual selection, mate choice, and hybridization in two endemic pupfish species from the [[Cuatro Cienegas]] basin in northern Mexico: [[Cyprinodon atrorus]] and [[Cyprinodon...
+> -- *[[SexualSelectionInTheCuatroCien_20108]]*
+
+> Official correspondence from the U.S. Fish and Wildlife Service Regional Director to the Desert Fishes Council Executive Secretary dated January 14, 1987, regarding unauthorized collection of endangered fish and reptiles at [[Cuatro Cienegas]], [[Coahuila]], [[Mexico]]. The letter addresses...
+> -- *[[UnauthorizedCollectingInMexico_20833]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[APetitionPursuantToArticleOfTh_17637]]
@@ -37,3 +46,6 @@ Mexico is the location of the Cienega de Santa Clara wetland in Sonora, which wa
 - [[ExtensionOfPublicCommentPeriod_17380]]
 - [[ASummaryOfInformationAboutTheA_18574]]
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
+- [[ANewSpeciesOfAquaticIsopodCrus_17104]]
+- [[SexualSelectionInTheCuatroCien_20108]]
+- [[UnauthorizedCollectingInMexico_20833]]

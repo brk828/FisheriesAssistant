@@ -8,6 +8,10 @@ auto_enriched: true
 > - **Predator-Prey Dynamics:** - Hen-dressing-fertilized pools attracted more predacious aquatic insects, including **Giant Water Bugs** (*Lethocerus americanus*, order Hemiptera) and **water tigers** (family [[Dytiscidae]]), which preyed heavily on bass fry, elevating mortality despite superior g...
 > -- *[[TheUseOfFertilizersInNewHampsh_1950]]*
 
+> This study describes the larva of *[[Haideoporus texanus]]*, the first hypogeous (subterranean) dytiscid beetle discovered in North America. Three larvae were collected from a flowing artesian well at the Aquatic Station (formerly [[San Marcos Federal Fish Hatchery]]) in [[San Marcos, Texas]]. The...
+> -- *[[TheLarvaOfANewSubterraneanWate_16197]]*
+
 ## Mentioned In
 - [[ANewGenusAndNewSpeciesOfWaterB_1972_02_29]]
 - [[TheUseOfFertilizersInNewHampsh_1950]]
+- [[TheLarvaOfANewSubterraneanWate_16197]]

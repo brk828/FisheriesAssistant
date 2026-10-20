@@ -143,6 +143,36 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
 > -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
+> This U.S. Fish and Wildlife Service circular (Circular 159, October 1963, with April 1964 correction) provides comprehensive guidance on feeding protocols and nutritional management for hatchery-reared trout. Authored by Arthur M. Phillips Jr., A. V. Tunison, and George C. Balzer from the [[Trout...
+> -- *[[TroutFeedsAndFeeding_11173]]*
+
+> This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
+> -- *[[CreelCensusReport_11332]]*
+
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This report documents two consecutive creel census studies conducted at [[Lee's Ferry]] on the [[Colorado River]] below [[Glen Canyon Dam]] from July 1964 through June 1966. The first segment (July 1964-June 1965) recorded 2,216 angler trips over 176 census days, yielding 8,047 [[Rainbow Trout]]...
+> -- *[[TailwatersFisheriesInvestigati_14584]]*
+
+> This 1952 field guide addresses the practical challenges of identifying salmonid game fishes in [[New York State]] waters. The document provides diagnostic characters for six species: [[Brook Trout]] (*Salvelinus fontinalis*), [[Brown Trout]] (*Salmo trutta*), [[Rainbow Trout]] (*Salmo...
+> -- *[[TroutOrSalmon_19215]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
+> This study examined the effects of size-sorting on sex ratios and growth rates in [[Brown Trout]] (Salmo trutta) fingerlings at the [[Randolph Hatchery]] in New York. Researchers individually tagged and tracked four sorted size groups over one year (September 1956 to September 1957). Key findings...
+> -- *[[EffectOfSortingBrownTroutOnSex_20693]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -303,3 +333,13 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[NorthernPikeControlAtLakeDavis_2001]]
 - [[PatternsAndPredictorsOfFishDis_2013]]
 - [[ElectrofishingAndItsHarmfulEff_2003]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+- [[TroutFeedsAndFeeding_11173]]
+- [[CreelCensusReport_11332]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[AnInvestigationOfEndangeredAnd_12516]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[TailwatersFisheriesInvestigati_14584]]
+- [[TroutOrSalmon_19215]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]
+- [[EffectOfSortingBrownTroutOnSex_20693]]

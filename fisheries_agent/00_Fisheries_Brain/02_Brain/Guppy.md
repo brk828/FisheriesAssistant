@@ -26,6 +26,9 @@ The guppy (Poecilia reticulata) is a small live-bearing fish of the family Poeci
 > This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
 > -- *[[ArizonaComparativeRiskProjectE_15833]]*
 
+> This article by Dr. George S. Myers examines the ecological dangers posed by [[Gambusia affinis]] (mosquitofish), a small livebearer from the southeastern United States that was widely introduced worldwide for mosquito control beginning around the turn of the 20th century. Despite its effectiveness...
+> -- *[[GambusiaTheFishDestroyer_15551]]*
+
 ## Mentioned In
 - [[AccumulationAndRetentionOfRadi_1957]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -39,3 +42,4 @@ The guppy (Poecilia reticulata) is a small live-bearing fish of the family Poeci
 - [[TheCurrentStatusOfTheBruneauHo_1989_11_16]]
 - [[TheEffectsOfRelativeDensityUpo_1973]]
 - [[ArizonaComparativeRiskProjectE_15833]]
+- [[GambusiaTheFishDestroyer_15551]]

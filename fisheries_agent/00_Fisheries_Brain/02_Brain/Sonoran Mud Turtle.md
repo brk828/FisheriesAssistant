@@ -20,6 +20,9 @@ The Sonoran Mud Turtle (Kinosternon sonoriense) is a small, semi-aquatic cheloni
 > The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
 > -- *[[LowerColoradoRiverMultispecies_11766]]*
 
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
+> -- *[[WrittenCommentsOnSupplementToD_20523]]*
+
 ## Mentioned In
 - [[CrayfishImpactsOnWetlandHerps_1993_10_10]]
 - [[FossilCreekTrammelNetSampling_2000_09_29]]
@@ -30,3 +33,4 @@ The Sonoran Mud Turtle (Kinosternon sonoriense) is a small, semi-aquatic cheloni
 - [[StatusOfPoeciliopsisOOccidenta_1984_07_25]]
 - [[TripReportQuitobaquitoSpringMa_1995_05_08]]
 - [[LowerColoradoRiverMultispecies_11766]]
+- [[WrittenCommentsOnSupplementToD_20523]]

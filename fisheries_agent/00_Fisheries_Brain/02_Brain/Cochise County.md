@@ -23,6 +23,9 @@ auto_enriched: true
 > The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
 > -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
 
+> This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
+> -- *[[BiologicalOpinionForTheSanBern_13329]]*
+
 ## Mentioned In
 - [[TotalFloristicStudyOfTheSanBer_14669]]
 - [[ReContinuationOfTheUsArmysSanP_11808]]
@@ -31,3 +34,4 @@ auto_enriched: true
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
+- [[BiologicalOpinionForTheSanBern_13329]]

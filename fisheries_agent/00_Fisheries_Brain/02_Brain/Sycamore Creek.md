@@ -62,6 +62,12 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 > This document is a peer review letter dated 26 July 1989 from a U.S. Fish and Wildlife Service Fishery Management Biologist to Dr. Dean Hendrickson regarding a draft report by Marsh et al. on interactions between threatened [[Spikedace]] ([[Meda fulgida]]) and introduced [[Red Shiner]]...
 > -- *[[ReviewOfTheDraftReportEntitled_12980]]*
 
+> This Master's thesis by Nancy Beth Grimm (Arizona State University, May 1980) investigated nitrogen and phosphorus dynamics in streams of the [[Gila River Basin]], Arizona. The study assessed potential nutrient limitation of primary production and the role of [[Periphyton]] in nutrient uptake...
+> -- *[[NitrogenAndPhosphorousDynamics_17776]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
@@ -89,3 +95,5 @@ Sycamore Creek is an intermittent arid-land stream in Central Arizona that has s
 - [[VerdeRiverAdvancedIdentificati_11367]]
 - [[AdvancedIdentificationOfFuncti_11587]]
 - [[ReviewOfTheDraftReportEntitled_12980]]
+- [[NitrogenAndPhosphorousDynamics_17776]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]

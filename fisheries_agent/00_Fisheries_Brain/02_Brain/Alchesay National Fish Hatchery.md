@@ -23,8 +23,12 @@ Alchesay National Fish Hatchery is a U.S. Fish & Wildlife Service facility locat
 > - **Founding & Authority**: Established in 1974 under the Fish and Wildlife Act of 1956 (P.L. 1024); led by Ronald D. Major (Region 2). - **Multi-state service area**: Provides fish health services and disease certification across four states (AZ, NM, TX, OK), covering 9 National Fish Hatcheries,...
 > -- *[[StationProfileOfTheP_1991_11_28]]*
 
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
 - [[InvestigationOfProposedProject_1967_03_31]]
 - [[StationProfileOfTheP_1991_11_28]]
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

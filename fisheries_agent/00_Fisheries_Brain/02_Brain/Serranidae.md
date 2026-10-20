@@ -29,6 +29,9 @@ Serranidae is a fish family commonly recognized in fisheries management and spor
 > This 1964 administrative report evaluates the suitability of introducing [[White Bass]] (*Roccus chrysops*) into California reservoirs to create a pelagic game fishery utilizing abundant forage fish populations, particularly [[Threadfin Shad]]. The assessment, based on literature review,...
 > -- *[[TheDesirabilityOfIntroducingWh_16080]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[AProvisionalCheckListOfTheFish_15941]]
 - [[HatschekiaPacificaNewSpeciesCo_1970]]
@@ -38,3 +41,4 @@ Serranidae is a fish family commonly recognized in fisheries management and spor
 - [[ASimpleMethodOfMountingScales_20311]]
 - [[Perch_16750]]
 - [[TheDesirabilityOfIntroducingWh_16080]]
+- [[AClassificationOfTheFishesOfTh_14438]]

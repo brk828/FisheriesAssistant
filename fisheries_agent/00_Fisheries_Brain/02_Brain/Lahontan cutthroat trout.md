@@ -32,6 +32,18 @@ The Lahontan Cutthroat Trout is a threatened native salmonid species endemic to 
 > This taxonomic revision demonstrates that *[[Salmo evermanni]]*, described by Jordan and Grinnell in 1908 from the upper [[Santa Ana River]] in the [[San Bernardino Mountains]], is a junior synonym of *[[Salmo clarkii henshawi]]* (Lahontan cutthroat trout) from [[Lake Tahoe]]. The authors...
 > -- *[[SalmoEvermanniASynonymOfSalmoC_18176]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
+> This performance report documents the second year (July 1980 - June 1981) of a three-year investigation into the biological impacts of fluctuating water levels on the [[Colorado River]] fishery below [[Glen Canyon Dam]]. The study area extends from the dam to the [[Paria River]] confluence,...
+> -- *[[StatewideFisheriesResearch_13299]]*
+
+> This 1981 correspondence from the Desert Fishes Council Chairman alerts members to grave threats posed by the proposed MX Missile System to aquatic ecosystems throughout central and southern Nevada and west-central Utah. The $33 billion Department of Defense project would construct 200 racetrack...
+> -- *[[MxMissileSystemeffectsOnDesert_20506]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -52,3 +64,7 @@ The Lahontan Cutthroat Trout is a threatened native salmonid species endemic to 
 - [[AConservationorientedClassific_15455]]
 - [[CuiuiAndLahontanCutthroatTrout_13865]]
 - [[SalmoEvermanniASynonymOfSalmoC_18176]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[StatewideFisheriesResearch_13299]]
+- [[MxMissileSystemeffectsOnDesert_20506]]

@@ -38,6 +38,12 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This document presents the Fiscal Year 1992 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on August 15, 1991, the plan allocates $2,988,900 across five recovery...
 > -- *[[FiscalYearWorkPlan_11594]]*
 
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
+> -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -50,3 +56,5 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[DraftcoloradoRiverEndangeredFi_13664]]
 - [[ManagementGroupMeetingSummary_19219]]
 - [[FiscalYearWorkPlan_11594]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[RazorbackSuckerXyauchenTexanus_13769]]

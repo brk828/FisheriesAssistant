@@ -14,7 +14,11 @@ auto_enriched: true
 > This report documents the first occurrence of the [[Red Pike-Conger]] (*Cynoponticus coniceps*) in the upper [[Gulf of California]], representing a significant northward range extension of approximately 1,055 km from previously known distributions. Two specimens were captured near [[El...
 > -- *[[OccurrenceOfTheRedPikecongerCy_21112]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[UrenchelysAbditusNewSpeciesThe_11967]]
 - [[Eel_14169]]
 - [[OccurrenceOfTheRedPikecongerCy_21112]]
+- [[AClassificationOfTheFishesOfTh_14438]]

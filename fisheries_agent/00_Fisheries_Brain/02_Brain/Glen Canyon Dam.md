@@ -200,6 +200,48 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is an endangered, endemic species of the [[Colorado River Basin]]. The species is long-lived and exhibits a periodic life-history strategy characteristic of bet-hedging in variable environments. Fish in this study...
 > -- *[[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]*
 
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
+> This performance report documents the second year (July 1980 - June 1981) of a three-year investigation into the biological impacts of fluctuating water levels on the [[Colorado River]] fishery below [[Glen Canyon Dam]]. The study area extends from the dam to the [[Paria River]] confluence,...
+> -- *[[StatewideFisheriesResearch_13299]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This pilot study proposal evaluates the feasibility of using non-lethal stomach pumping techniques to assess food habits of [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The study aims to determine if stomach flushing can be performed without damaging the pharyngeal mill and to assess...
+> -- *[[ANonlethalStomachPumpToRecover_13644]]*
+
+> This memorandum documents the planning and agenda for a National Research Council Water Science and Technology Board committee meeting scheduled for October 9-11, 1991, in [[Flagstaff]], [[Arizona]]. The committee was convened to review the [[Glen Canyon Environmental Studies]] (GCES) program, with...
+> -- *[[AgendaAndOtherInformationForUp_13959]]*
+
+> This report documents two consecutive creel census studies conducted at [[Lee's Ferry]] on the [[Colorado River]] below [[Glen Canyon Dam]] from July 1964 through June 1966. The first segment (July 1964-June 1965) recorded 2,216 angler trips over 176 census days, yielding 8,047 [[Rainbow Trout]]...
+> -- *[[TailwatersFisheriesInvestigati_14584]]*
+
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
+> This case study examines the conservation status, recovery efforts, and reintroduction programs for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America. Once a dominant predator throughout the [[Colorado River]] system, the species declined dramatically from...
+> -- *[[CaseStudyColoradoRiverSqauwfis_16101]]*
+
+> This 1992 annual report from the [[Arizona Game and Fish Department]] documents comprehensive research on [[Rainbow Trout]] (*Oncorhynchus mykiss*) populations in the [[Lee's Ferry]] reach of the [[Colorado River]] below [[Glen Canyon Dam]] from November 1989 through February 1993. The study...
+> -- *[[GlenCanyonEnvironmentalStudies_16902]]*
+
+> This document summarizes a three-day workshop (November 8-10, 1999) at Saguaro Lake Ranch convened to evaluate a proposed temperature control device (TCD) for [[Glen Canyon Dam]]. The workshop brought together scientists, resource managers, and conservationists to provide input on research and...
+> -- *[[GlenCanyonDamTemperatureContro_17019]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This document presents a comprehensive summary of collecting localities for the [[Humpback Chub]] (*Gila cypha*) from the [[Colorado River]] and selected tributaries in [[Coconino County]] and [[Mohave County]], Arizona, spanning from archaeological remains (4000 years B.P.) through 1979....
+> -- *[[SummaryOfCollectingLocalitiesF_18502]]*
+
+> This document comprises meeting notes and correspondence from the [[Glen Canyon Environmental Studies]] (GCES) Technical Team meetings held March 20-21, 1989, in Las Vegas, Nevada. The meetings addressed the Fiscal Year 1989 technical study plan, organizational restructuring of study teams,...
+> -- *[[GlenCanyonEnvironmentalStudies_19678]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -367,3 +409,17 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[NativeFishesOfTheGrandCanyonRe_1991]]
 - [[RazorbackSuckerMovementStrateg_2020]]
 - [[MovementEcologyOfImperilledFis_2020_X-49b0cb00]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[StatewideFisheriesResearch_13299]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[ANonlethalStomachPumpToRecover_13644]]
+- [[AgendaAndOtherInformationForUp_13959]]
+- [[TailwatersFisheriesInvestigati_14584]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[CaseStudyColoradoRiverSqauwfis_16101]]
+- [[GlenCanyonEnvironmentalStudies_16902]]
+- [[GlenCanyonDamTemperatureContro_17019]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[SummaryOfCollectingLocalitiesF_18502]]
+- [[GlenCanyonEnvironmentalStudies_19678]]

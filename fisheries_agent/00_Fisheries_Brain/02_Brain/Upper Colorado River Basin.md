@@ -95,6 +95,24 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This document presents a restoration plan for the federally endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Upper Colorado River Basin]]. Once abundant throughout the [[Colorado River Basin]], the species has been virtually extirpated from riverine habitats in the lower basin due to...
 > -- *[[RestorationPlanForRazorbackSuc_20599]]*
 
+> This document comprises multiple research proposals (FY-1994 Scope-of-Work) for the Recovery Implementation Program targeting endangered fish species in the [[Upper Colorado River Basin]]. The proposals focus on evaluating flow manipulations from the [[Aspinall Unit]] and their effects on...
+> -- *[[FiscalYearScopeOfWorkResearchP_11213]]*
+
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
+> This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
+> -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
+
+> This memorandum from the [[Upper Colorado River Basin]] Recovery Implementation Program documents the rescheduling of a genetics meeting focused on [[Razorback Sucker]] (*Xyrauchen texanus*) conservation. The meeting, originally planned for August 1994, was rescheduled to accommodate field...
+> -- *[[ReschedulingOfRazorbackSuckerG_20862]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -169,3 +187,9 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
 - [[CompletionReportYampawhitePhys_18677]]
 - [[RestorationPlanForRazorbackSuc_20599]]
+- [[FiscalYearScopeOfWorkResearchP_11213]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[AnInvestigationOfEndangeredAnd_12516]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[RazorbackSuckerXyrauchenTexanu_18008]]
+- [[ReschedulingOfRazorbackSuckerG_20862]]

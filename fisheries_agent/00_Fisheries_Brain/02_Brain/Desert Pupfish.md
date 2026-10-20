@@ -137,6 +137,24 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > This study examines allozymic variation in wild and captive populations of endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) from the [[Lower Colorado River]] basin and [[Salton Sink]]. Four polymorphic loci were surveyed across 13 populations (9 captive, 4 wild). Few consistent...
 > -- *[[AllozymicVariationInDesertPupf_19162]]*
 
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Minutes from the Desert Fishes Recovery Team meeting held December 7-8, 1989 in Phoenix, Arizona. The team addressed critical conservation issues for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*), including population...
+> -- *[[MinutesOfDesertFishesRecoveryT_13773]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> This September 4, 1992 correspondence from the Bureau of Land Management (BLM) Safford District Office to the U.S. Fish and Wildlife Service describes a proposed water management action to enhance habitat security for one of the few remaining self-sustaining wild populations of [[Desert Pupfish]]...
+> -- *[[PupfishAtHowardWell_20498]]*
+
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
+> -- *[[WrittenCommentsOnSupplementToD_20523]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -343,3 +361,9 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[RenovationOfMesquiteSpringAndS_17653]]
 - [[AllozymicVariationInDesertPupf_19162]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[MinutesOfDesertFishesRecoveryT_13773]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]
+- [[BeaverScoping_18972]]
+- [[PupfishAtHowardWell_20498]]
+- [[WrittenCommentsOnSupplementToD_20523]]

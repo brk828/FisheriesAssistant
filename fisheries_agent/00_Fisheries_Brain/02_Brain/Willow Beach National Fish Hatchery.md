@@ -68,6 +68,15 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
 > -- *[[LongtermPatternsOfFishCommunit_2023]]*
 
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
+> This Bureau of Reclamation memorandum documents the January 10, 1991 Native Fish Work Group meeting regarding ongoing efforts to restore [[Razorback Sucker]] populations in [[Lake Mohave]]. The project involves fish renovation of [[Yuma Cove]], introduction of mature razorback suckers for spawning,...
+> -- *[[ResultsOfTheNativeFishWorkGrou_15025]]*
+
+> This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
+> -- *[[BonytailrazorbackSuckerCoopera_17048]]*
+
 ## Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -132,3 +141,6 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 - [[RecoveryPlanForTheEndangeredBo_17173]]
 - [[DraftbonytailChubGilaElegans_14696]]
 - [[LongtermPatternsOfFishCommunit_2023]]
+- [[AnInvestigationOfEndangeredAnd_12516]]
+- [[ResultsOfTheNativeFishWorkGrou_15025]]
+- [[BonytailrazorbackSuckerCoopera_17048]]

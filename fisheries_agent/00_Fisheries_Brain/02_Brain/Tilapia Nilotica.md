@@ -17,6 +17,9 @@ Tilapia nilotica, commonly known as the Nile tilapia, is a highly adaptable cich
 > This study documents the introduction, establishment, and taxonomic status of African cichlid fishes of the genus [[Tilapia]] in the [[Lower Colorado River Basin]] of the American Southwest. Between 1961 and 1982, multiple [[Tilapia]] species were imported and stocked throughout [[Arizona]] and...
 > -- *[[ExoticFishesOfTheGenusTilapiaP_15612]]*
 
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[ComparativeEvaluationOfTwoTila_15110]]
 - [[GrowthRatesOfPaddlef_15095]]
@@ -24,3 +27,4 @@ Tilapia nilotica, commonly known as the Nile tilapia, is a highly adaptable cich
 - [[TheCichlidFishesOfTheGenusTris_1960_12_30]]
 - [[TheEffectsOfTilapiaIntroductio_1990]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

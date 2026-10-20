@@ -11,7 +11,11 @@ Lutjanidae is a family of perciform fishes commonly known as snappers, character
 > - **[[Red Hind]]** (*Epinephelus guttatus*, family [[Serranidae]]) forms discrete **spawning aggregations** at specific reef bank sites in the Exclusive Economic Zone (EEZ) off western Puerto Rico, including the **Tourmaline Bank** area. These aggregations are seasonal and site-specific, making t...
 > -- *[[IdentificationOfCandidatesForL_19325]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]
 - [[IdentificationOfCandidatesForL_19325]]
+- [[AClassificationOfTheFishesOfTh_14438]]

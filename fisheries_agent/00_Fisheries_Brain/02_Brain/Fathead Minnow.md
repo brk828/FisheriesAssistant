@@ -95,6 +95,27 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
 > -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
 
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This report documents two consecutive creel census studies conducted at [[Lee's Ferry]] on the [[Colorado River]] below [[Glen Canyon Dam]] from July 1964 through June 1966. The first segment (July 1964-June 1965) recorded 2,216 angler trips over 176 census days, yielding 8,047 [[Rainbow Trout]]...
+> -- *[[TailwatersFisheriesInvestigati_14584]]*
+
+> This document reports preliminary experiments conducted at the [[Alabama Polytechnic Institute]] Agricultural Experiment Station on winter feeding protocols for small [[Fathead Minnow]] (*Pimephales promelas*) to raise undersized fish to marketable sizes. The research addresses a critical...
+> -- *[[PreliminaryExperimentsOnWinter_18658]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> This experimental study investigated the effects of water hardness on fish production using [[Fathead Minnow]] (*Pimephales promelas*) in circular plastic-lined pools at [[Auburn University]]. The research examined how different sources of hardness (calcium carbonate, calcium sulfate, and magnesium...
+> -- *[[EffectsOfWaterHardnessOnFishPr_19234]]*
+
+> Laboratory experiments conducted at [[Auburn University]] examined the toxicity of two rotenone-based formulations—[[Noxfish]] (5% rotenone) and [[Pro-Noxfish]] (2.5% rotenone plus 2.5% Sulfoxide synergist)—to eggs of [[Common Carp]] (*Cyprinus carpio*) and [[Fathead Minnow]] (*Pimephales...
+> -- *[[TheToxicityOfNoxfishAndPronoxf_20370]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -213,3 +234,10 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[FinalReportOnResearchConducted_18507]]
 - [[APreliminaryEvaluationOfAFishD_20313]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
+- [[AnInvestigationOfEndangeredAnd_12516]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[TailwatersFisheriesInvestigati_14584]]
+- [[PreliminaryExperimentsOnWinter_18658]]
+- [[BeaverScoping_18972]]
+- [[EffectsOfWaterHardnessOnFishPr_19234]]
+- [[TheToxicityOfNoxfishAndPronoxf_20370]]

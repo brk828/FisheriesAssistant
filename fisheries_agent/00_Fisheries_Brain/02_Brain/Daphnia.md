@@ -38,6 +38,9 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 > **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
 > -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
 
+> This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
+> -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
+
 ## Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[Craspedacusta Sowerbii in Pymatuning Reservoir]]
@@ -50,3 +53,4 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 - [[FishFacts_20746]]
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
+- [[AReviewOfTheBiologyOfTheMosqui_14748]]

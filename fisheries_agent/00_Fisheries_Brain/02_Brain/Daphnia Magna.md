@@ -14,8 +14,12 @@ Daphnia magna is a small freshwater crustacean commonly used as a live food sour
 > **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
 > -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
 
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[CulturingFruitFliesDrosophilaA_14269]]
 - [[ExperimentalPropagationOfNorth_15906]]
 - [[VariableKinematicsOfSacramento_1982]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

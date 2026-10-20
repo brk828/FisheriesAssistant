@@ -20,6 +20,9 @@ Santa Clara Slough is an aquatic habitat system in the southwestern United State
 > This Federal Register document (Vol. 51, No. 61, March 31, 1986) announces the U.S. Fish and Wildlife Service's final determination to list the [[Desert Pupfish]] (*Cyprinodon macularius*) as an endangered species under the Endangered Species Act of 1973, as amended. The rule also designates...
 > -- *[[EndangeredAndThreatenedWildlif_11555]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
 ## Mentioned In
 - [[LetterRequestingCollectionOfQu_1987_12_01]]
 - [[LetterToMarkStrombergRegarding_1986_06_02]]
@@ -29,3 +32,4 @@ Santa Clara Slough is an aquatic habitat system in the southwestern United State
 - [[GeneticVariationInDesertPupfis_15731]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[EndangeredAndThreatenedWildlif_11555]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]

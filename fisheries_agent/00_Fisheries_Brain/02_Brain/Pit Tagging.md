@@ -14,6 +14,9 @@ Pit tagging is a non-lethal fish identification and tracking method that involve
 > This document is a formal petition submitted to the [[Arizona Game and Fish Commission]] in 1994 by M. Brent Peugnet and the [[Arizona Herpetological Association]] (AHA, 222 members, 147 Arizona residents) requesting establishment of a new rule permitting commercial captive propagation of specific...
 > -- *[[DraftAndRevisedVersionsOfPetit_11208]]*
 
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
 ## Mentioned In
 - [[DatabaseManagementProgramColor_1993]]
 - [[DetermineStatusOfColoradoSquaw_11150]]
@@ -23,3 +26,4 @@ Pit tagging is a non-lethal fish identification and tracking method that involve
 - [[LetterOnTrammelNettingOfColora_1992_11_23]]
 - [[RazorbackSuckerGeneticSurveyTi_1992]]
 - [[DraftAndRevisedVersionsOfPetit_11208]]
+- [[LetterToWayneStarnesAuthorizat_11924]]

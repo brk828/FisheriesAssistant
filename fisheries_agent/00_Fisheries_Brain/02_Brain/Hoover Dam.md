@@ -104,6 +104,15 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 > **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
 > -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
 
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This document records experimental gill netting and electrofishing surveys conducted on [[Lake Mohave]] in May 1986 targeting [[Razorback Sucker]] (*Xyrauchen texanus*). The survey captured 68 razorback suckers via gill netting (26 net nights effort) and 18 via electrofishing (202 minutes effort),...
+> -- *[[LakeMohaveExperimentalGillNett_18275]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -170,3 +179,6 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[DeclineOfTheRazorbackSuckerInL_2003]]
 - [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[LakeMohaveExperimentalGillNett_18275]]

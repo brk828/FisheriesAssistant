@@ -14,6 +14,10 @@ auto_enriched: true
 > This taxonomic report by [[Carl H. Eigenmann]] and Homer G. Fisher documents the distribution and collection records of the family [[Gymnotidae]] (electric knifefishes) from Trans-Andean Colombia and Ecuador. The study reports on extensive collections made between 1912-1913 in the [[Magdalena...
 > -- *[[TheGymnotidaeOfTransandeanColo_15808]]*
 
+> This taxonomic contribution from the [[Zoological Laboratory of Indiana University]] describes four new species of characid fishes from South American freshwater systems. [[Carl H. Eigenmann]] and [[Arthur Henn]] present detailed morphological descriptions of [[Rhoadsia minor]] from high-elevation...
+> -- *[[OnANewSpeciesOfFishesFromColom_15807]]*
+
 ## Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[TheGymnotidaeOfTransandeanColo_15808]]
+- [[OnANewSpeciesOfFishesFromColom_15807]]

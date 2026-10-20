@@ -35,6 +35,9 @@ Rhinichthys is a genus of small freshwater cyprinid fishes commonly known as dac
 > This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
 > -- *[[FishesAndAquaticResourcesDeath_15415]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
 ## Mentioned In
 - [[DiagnosesOfNewCyprinidFishesOf_1972_09_29]]
 - [[DistributionAndStatusOfLoachMi_20268]]
@@ -48,3 +51,4 @@ Rhinichthys is a genus of small freshwater cyprinid fishes commonly known as dac
 - [[EvolutionaryRelationshipsOfThe_19110]]
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
 - [[FishesAndAquaticResourcesDeath_15415]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]

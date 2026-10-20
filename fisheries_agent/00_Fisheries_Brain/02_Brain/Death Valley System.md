@@ -32,6 +32,9 @@ The Death Valley System refers to a cluster of isolated desert spring ecosystems
 > This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
 > -- *[[FishesAndAquaticResourcesDeath_15415]]*
 
+> This 1981 correspondence from the Desert Fishes Council Chairman alerts members to grave threats posed by the proposed MX Missile System to aquatic ecosystems throughout central and southern Nevada and west-central Utah. The $33 billion Department of Defense project would construct 200 racetrack...
+> -- *[[MxMissileSystemeffectsOnDesert_20506]]*
+
 ## Mentioned In
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[DesertFishesCouncilOverviewAnd_1974_07_26]]
@@ -45,3 +48,4 @@ The Death Valley System refers to a cluster of isolated desert spring ecosystems
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[ThePleistoceneItsClimateCauses_14987]]
 - [[FishesAndAquaticResourcesDeath_15415]]
+- [[MxMissileSystemeffectsOnDesert_20506]]

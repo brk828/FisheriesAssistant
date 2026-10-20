@@ -32,6 +32,9 @@ Willow Beach is a critical location on Lake Mohave in the lower Colorado River s
 > This memorandum documents a significant mortality event involving endangered [[Bonytail Chub]] (*Gila elegans*) collected from [[Lake Mohave]] in May 1993. Of 15 fish captured and transported to [[Dexter National Fish Hatchery]] for broodstock purposes, 10 died (67% mortality) due to handling...
 > -- *[[LossOfLakeMohaveBonytailChub_14539]]*
 
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
 ## Mentioned In
 - [[ArizonaNevadaCooperativeFisher_1961]]
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
@@ -43,3 +46,4 @@ Willow Beach is a critical location on Lake Mohave in the lower Colorado River s
 - [[DemographicsAndMonitoringOfRep_2020]]
 - [[DemographicsAndPoststockingSur_2012]]
 - [[LossOfLakeMohaveBonytailChub_14539]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]

@@ -32,6 +32,12 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 > This FAO Fisheries Circular (No. 724 Revision 2) is a comprehensive bibliographic compilation of 255 selected reference books and monographs on freshwater aquaculture published between 1951 and 1984. Compiled by André G. Coche of the [[Inland Water Resources and Aquaculture Service]], the document...
 > -- *[[AquacultureInFreshWatersAListO_15987]]*
 
+> This document presents Professor F.I. Baranov's foundational theoretical work on fishing gear design and operation, originally published in Moscow (1948) and translated from Russian. The work comprises two main sections: Chapter 1 (Section 2) on fibrous materials and thread specifications, and...
+> -- *[[FibrousMaterialAndHardwareTheo_15559]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -53,3 +59,5 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[AquacultureInFreshWatersAListO_15987]]
+- [[FibrousMaterialAndHardwareTheo_15559]]
+- [[BeaverScoping_18972]]

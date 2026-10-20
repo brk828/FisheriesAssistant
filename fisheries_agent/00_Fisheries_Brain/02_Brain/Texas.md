@@ -26,6 +26,9 @@ auto_enriched: true
 > This December 26, 1984 memorandum from the Regional Director of [[U.S. Fish and Wildlife Service]] Region 2 (Southeast) updates internal procedures for [[Endangered Species Act]] (ESA) Section 7 consultations. Effective immediately, Ecological Services field offices will conduct intra-Service...
 > -- *[[RegionEndangeredSpeciesActIntr_11825]]*
 
+> This document is a research pre-proposal submitted in March 1993 by W.L. Minckley ([[Arizona State University]]), Salvador Contreras-Balderas ([[Universidad Autonoma de Nuevo Leon]]), and James P. Collins to the Mexico-United States Foundation for Science. The proposal seeks $94,000 over two years...
+> -- *[[ProposalBiologicallySensitiveA_16496]]*
+
 ## Mentioned In
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[TheSpawningBehaviorOfTheChanne_15949]]
@@ -34,3 +37,4 @@ auto_enriched: true
 - [[GeneticDifferentiationAmongSub_18497]]
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[RegionEndangeredSpeciesActIntr_11825]]
+- [[ProposalBiologicallySensitiveA_16496]]

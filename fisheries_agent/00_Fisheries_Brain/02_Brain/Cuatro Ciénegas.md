@@ -29,6 +29,9 @@ Cuatro Ciénegas is a globally significant desert spring ecosystem in the Chihua
 > This correspondence documents collaboration between Mexican biologists at [[Universidad Autónoma Metropolitana]] and Dr. [[W. L. Minckley]] of [[Arizona State University]] regarding the first management plan for the proposed [[Cuatro Ciénegas]] watershed [[Biosphere Reserve]] in [[Coahuila]],...
 > -- *[[CuatroCienegasWatershedCoahuil_16108]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
 ## Mentioned In
 - [[ARemarkableSnailFaunaFromCoahu_1966]]
 - [[AlonzoRiosContreras_20775]]
@@ -55,3 +58,4 @@ Cuatro Ciénegas is a globally significant desert spring ecosystem in the Chihua
 - [[SpecialSymposiumOnTheBiotaOfCu_19762]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[CuatroCienegasWatershedCoahuil_16108]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]

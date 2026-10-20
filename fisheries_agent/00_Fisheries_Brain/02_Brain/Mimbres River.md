@@ -35,6 +35,9 @@ The Mimbres River is a river system located in Luna County, New Mexico that hist
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
 ## Mentioned In
 - [[LetterOnRecoveryRecommendation_1986_10_21]]
 - [[LetterRegardingChihuahuaChubRe_1987_12_30]]
@@ -47,3 +50,4 @@ The Mimbres River is a river system located in Luna County, New Mexico that hist
 - [[MinutesDesertFishesRecoveryTea_13749]]
 - [[CyprinellaFormosaMimbresRiverE_21256]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]

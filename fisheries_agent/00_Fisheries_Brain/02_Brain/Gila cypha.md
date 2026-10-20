@@ -53,6 +53,15 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
+> This correspondence from Arizona State University's Center for Environmental Studies to Glen Canyon Environmental Studies requests authorization for computer access, updates base camp locations for [[Humpback Chub]] research in the [[Little Colorado River]] gorge, and seeks resolution of logistical...
+> -- *[[AccessRequestUsgsMainFrameComp_19454]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdditionalStudiesOnTheLittleCo_18500]]
@@ -86,3 +95,6 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 - [[MultivariateDiscriminationOfCo_19077]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[AccessRequestUsgsMainFrameComp_19454]]
