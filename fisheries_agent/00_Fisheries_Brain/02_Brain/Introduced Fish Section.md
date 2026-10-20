@@ -11,6 +11,10 @@ auto_enriched: true
 > This document is a 1990 letter from Paul L. Shafland, President of the American Fisheries Society's (AFS) [[Introduced Fish Section]], to AFS Executive Director Carl Sullivan. It conveys the Committee on Purposeful Introductions' critical review of a proposal by [[Gustaveson Et Al]] to introduce ...
 > -- *[[LetterToCarlSullivanOnRainbowS_1990_05_25]]*
 
+> This document discusses the controversial practice of fish introductions in fisheries management, ranging from stocking native species to introducing sterile or hybrid exotics. It addresses the tension between preserving natural ecosystems and managing altered aquatic environments for recreational...
+> -- *[[ConsensusStatementOnPurposeful_19917]]*
+
 ## Mentioned In
 - [[BibliographyOfStudiesOnIntrodu_13347]]
 - [[LetterToCarlSullivanOnRainbowS_1990_05_25]]
+- [[ConsensusStatementOnPurposeful_19917]]

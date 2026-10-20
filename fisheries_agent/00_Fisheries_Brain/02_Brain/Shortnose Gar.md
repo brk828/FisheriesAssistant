@@ -29,6 +29,9 @@ The Shortnose Gar (*Lepisosteus platostomus*) is a primitive holostean fish spec
 > This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
 > -- *[[MichiganFishPredators_12681]]*
 
+> Field observations and laboratory study documenting eggs and newly hatched fry of [[Shortnose Gar]] (*Lepisosteus platostomus*) collected from the [[Marias des Cygnes River]] in Miami County, Kansas on May 25, 1956. The study describes collection habitat, early developmental stages, and...
+> -- *[[NotesOnTheEarlyLifeHistoryOfLe_18548]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -38,3 +41,4 @@ The Shortnose Gar (*Lepisosteus platostomus*) is a primitive holostean fish spec
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[MichiganFishPredators_12681]]
+- [[NotesOnTheEarlyLifeHistoryOfLe_18548]]

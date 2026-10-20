@@ -11,6 +11,10 @@ auto_enriched: true
 > - **Regulated River Habitat**: The subject matter concerns "Interim Flow" monitoring — i.e., experimental or modified dam release patterns from [[Glen Canyon Dam]] and their downstream ecological effects on the [[Colorado River]] corridor through [[Grand Canyon]]. - **Stakeholder Ecological Exper...
 > -- *[[GlenCanyonEnvironmentalStudies_1992_03_07]]*
 
+> This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
+> -- *[[GlenCanyonEnvironmentalStudies_19734]]*
+
 ## Mentioned In
 - [[BriefingNotesEndangeredFishInC_14950]]
 - [[GlenCanyonEnvironmentalStudies_1992_03_07]]
+- [[GlenCanyonEnvironmentalStudies_19734]]

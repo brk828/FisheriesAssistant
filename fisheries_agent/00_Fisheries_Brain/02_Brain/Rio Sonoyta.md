@@ -38,6 +38,9 @@ The Rio Sonoyta is a river system in the southwestern United States-Mexico borde
 > This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
 > -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
 
+> This 14-year study (1982-1995) documents the population ecology of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona. The population represents an endemic subspecies, the [[Rio Sonoyta Mud Turtle]],...
+> -- *[[PopulationEcologyOfTheSonoranM_21071]]*
+
 ## Mentioned In
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -53,3 +56,4 @@ The Rio Sonoyta is a river system in the southwestern United States-Mexico borde
 - [[MinutesDesertFishesRecoveryTea_13749]]
 - [[EndangeredAndThreatenedWildlif_11555]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[PopulationEcologyOfTheSonoranM_21071]]

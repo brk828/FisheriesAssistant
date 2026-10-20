@@ -29,6 +29,9 @@ Pupfish (family Cyprinodontidae, genus Cyprinodon) are small-bodied, highly adap
 > This Federal Aid completion report documents a 14-year experimental program (1957-1971) introducing marine fish species from the [[Gulf of Mexico]] into the saline waters of the [[Pecos River System]] in western Texas. The program was initiated because high salinity levels (800-7,000 ppm chlorides)...
 > -- *[[MarineIntroductionsTexas_13536]]*
 
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
 ## Mentioned In
 - [[BattleAgainstExtinctionNativeF_17606]]
 - [[CorrespondenceBetweenRobertRMi_15382]]
@@ -45,3 +48,4 @@ Pupfish (family Cyprinodontidae, genus Cyprinodon) are small-bodied, highly adap
 - [[TheFutureOfFishes_14521]]
 - [[ConservationOfNativeFreshwater_15444]]
 - [[MarineIntroductionsTexas_13536]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]

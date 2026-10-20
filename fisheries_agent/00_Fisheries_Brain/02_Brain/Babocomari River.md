@@ -17,8 +17,12 @@ The Babocomari River is a historically perennial waterway in the southwestern Un
 > This master's thesis by Craig Stephen Ivanyi (University of Arizona, 1989) examines selected life history aspects of the [[Desert Sucker]] (*Catostomus clarkii*, also referred to as *Pantosteus clarkii*) in four southeastern Arizona streams. The study focused primarily on [[Sonoita Creek]], with...
 > -- *[[SelectedAspectsOfTheNaturalHis_14397]]*
 
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
 ## Mentioned In
 - [[DrainageMapOfArizonaShowingPer_13007]]
 - [[LetterRegardingGilaChubStockin_1987_07_10]]
 - [[MinutesOfTheDesertFishesRecove_1986_10_13]]
 - [[SelectedAspectsOfTheNaturalHis_14397]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]

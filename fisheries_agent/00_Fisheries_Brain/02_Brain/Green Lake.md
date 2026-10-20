@@ -8,5 +8,9 @@ auto_enriched: true
 > - **Total FY1992 output:** 83,428,710 eggs; 208,896,734 fish (individuals); 6,510,962 lbs biomass distributed system-wide. - **High-volume walleye production:** [[Gavins Point]] station alone distributed **21,928,348 Walleye** (fry-stage, low aggregate weight), reflecting large-scale fry stocking...
 > -- *[[FishDistributionNumbersAndWeig_1992]]*
 
+> This 1954 report by Chief Aquatic Biologist John R. Greeley summarizes the rapidly-growing salmon fishery program in New York State lakes, involving two distinct species: [[Landlocked Salmon]] (Atlantic salmon, *Salmo salar*) and [[Red Salmon]] (Pacific sockeye, *Oncorhynchus nerka*). The program,...
+> -- *[[SalmonInNewYork_19216]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
+- [[SalmonInNewYork_19216]]

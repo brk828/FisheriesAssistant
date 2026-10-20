@@ -44,6 +44,9 @@ Imperial National Wildlife Refuge is a protected area along the lower Colorado R
 > **Primary Sampling Purpose**: This renovation plan aims to completely remove nonnative fish species from six ponds at [[Imperial National Wildlife Refuge]] to create suitable habitat for recruiting populations of [[Bonytail]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). The...
 > -- *[[ImperialPondsRenovationPlan_2014]]*
 
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[CollectionOfGrowoutFacilitiesO_1995_05_27]]
@@ -62,3 +65,4 @@ Imperial National Wildlife Refuge is a protected area along the lower Colorado R
 - [[IntroductionOfPalaemonetesPalu_20723]]
 - [[ImperialPondsConservationAreaA_2020]]
 - [[ImperialPondsRenovationPlan_2014]]
+- [[DraftLowerColoradoRiverOperati_13907]]

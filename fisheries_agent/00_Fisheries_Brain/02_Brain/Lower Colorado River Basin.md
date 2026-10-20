@@ -59,6 +59,9 @@ The Lower Colorado River Basin refers to the downstream portion of the Colorado 
 > This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
 > -- *[[GeneticVariationAmongLowerColo_12776]]*
 
+> This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
+> -- *[[ProposedActionPlanForReintrodu_19433]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[BriefingNotesEndangeredFishInC_14950]]
@@ -101,3 +104,4 @@ The Lower Colorado River Basin refers to the downstream portion of the Colorado 
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
 - [[LowerColoradoRiverBasinManagem_18433]]
 - [[GeneticVariationAmongLowerColo_12776]]
+- [[ProposedActionPlanForReintrodu_19433]]

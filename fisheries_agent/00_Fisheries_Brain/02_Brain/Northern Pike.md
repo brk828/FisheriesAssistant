@@ -89,6 +89,18 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 > This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
 > -- *[[IntroductionOfRainbowSmeltInto_17850]]*
 
+> This combined project report documents six interrelated studies examining the effects of [[Aspinall Unit]] reservoir operations on endangered fish populations in the [[Gunnison River]] and [[Colorado River]] systems during FY 1993. The studies focused on three federally endangered species:...
+> -- *[[AFiveYearStudyToInvestigateThe_11212]]*
+
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
+> This document reports the confirmed reproduction of illegally introduced [[Northern Pike]] (*Esox lucius*) in [[Parker Canyon Lake]], Arizona. First detected in summer 1997, juvenile pike were sampled by September 1998, confirming successful reproduction. The 124-acre lake southwest of [[Sierra...
+> -- *[[ReproductionOfNorthernPikeConf_20180]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -159,3 +171,7 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 - [[DraftRecoveryImplementationPro_11643]]
 - [[MichiganFishPredators_12681]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
+- [[AFiveYearStudyToInvestigateThe_11212]]
+- [[DraftFiveyearRoadMap_11579]]
+- [[AssessmentOfTheNeedForForageEn_17853]]
+- [[ReproductionOfNorthernPikeConf_20180]]

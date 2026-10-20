@@ -11,6 +11,10 @@ auto_enriched: true
 > This August 24, 1993 letter from Dr. Robin Silver of the [[Maricopa Audubon Society]] to Secretary Bruce Babbitt addresses the [[Bureau of Reclamation]]'s failure to respond to a Section 7 "jeopardy" opinion regarding the [[Central Arizona Project]]'s introduction of exotic species threatening...
 > -- *[[BureauOfReclamationsFailureToR_18964]]*
 
+> This correspondence from the [[Maricopa Audubon Society]] to Representative John Shadegg, dated October 31, 1995, addresses concerns regarding proposed federal legislation that would weaken protections for imperiled wildlife. The letter specifically critiques H.R. 2364 (the John Shadegg Endangered...
+> -- *[[FailureToAnswerCorrespondenceH_18973]]*
+
 ## Mentioned In
 - [[RulingOrdersUniversityToStopCu_1994_07_29]]
 - [[BureauOfReclamationsFailureToR_18964]]
+- [[FailureToAnswerCorrespondenceH_18973]]

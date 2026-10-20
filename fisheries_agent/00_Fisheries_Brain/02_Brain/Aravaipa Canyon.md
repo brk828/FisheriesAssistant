@@ -17,8 +17,12 @@ auto_enriched: true
 > This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
 > -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
 
+> This administrative notice, issued July 6, 1970, by the Bureau of Land Management announces a temporary closure of the [[Aravaipa Canyon]] Primitive Area to all motorized vehicles. The closure was implemented to prevent damage to primitive and environmental resource values caused by increasing...
+> -- *[[NoticeOfRestrictedVehicleUseTe_18773]]*
+
 ## Mentioned In
 - [[MemorandumOnAravaipaCreekMonit_1994_06_27]]
 - [[TheConservationDilemmaOfNonNat_15856]]
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
+- [[NoticeOfRestrictedVehicleUseTe_18773]]

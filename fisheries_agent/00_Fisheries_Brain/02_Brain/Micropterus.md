@@ -23,6 +23,9 @@ Micropterus is a genus of freshwater fish commonly known as black bass, native t
 > **Taxonomic & Life-History Summary** Four black bass species ([[Micropterus]]) have relatively restricted ranges and specialized habitat requirements: - **[[Guadalupe Bass]] (M. treculi)**: Endemic to Central Texas, occurring in portions of the Brazos, Colorado, Guadalupe, and San Antonio river...
 > -- *[[DistributionBiologyAndConserva_2002]]*
 
+> This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
+> -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
+
 ## Mentioned In
 - [[Development of Color Pattern in Pond-Reared Young of Five Bass Species (Micropterus) of Southeastern U. S.]]
 - [[ReportOfCommitteeOnResearch_1972]]
@@ -33,3 +36,4 @@ Micropterus is a genus of freshwater fish commonly known as black bass, native t
 - [[ARevisionOfTheBlackBassesMicro_1940]]
 - [[FishesOfAlabama_1990]]
 - [[DistributionBiologyAndConserva_2002]]
+- [[NotesFromFieldWorkInTheCuatroc_12737]]

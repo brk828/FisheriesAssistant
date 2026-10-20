@@ -59,6 +59,18 @@ The California Department of Fish and Game (now the California Department of Fis
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
 > -- *[[NorthernPikeControlAtLakeDavis_2001]]*
 
+> This memorandum documents the relocation of 20 [[Humpback Sucker]] (HBS) from the 1974 cohort to [[West Pond]] in [[Imperial County]], California on July 16, 1980. The fish, originally received from [[Willow Beach National Fish Hatchery]], were marked and tagged using multiple methods including...
+> -- *[[RelocationOfTheCohortHbsReceiv_11428]]*
+
+> Two administrative memoranda from the [[Desert Fishes Council]] dated May 31, 1990, announcing organizational changes and soliciting financial support for a major conservation biology publication. The correspondence documents the retirement of Executive Secretary E.P. Pister from the [[California...
+> -- *[[UpdatesFromEpPister_12831]]*
+
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
+> This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
+> -- *[[ProposedActionPlanForReintrodu_19433]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -88,3 +100,7 @@ The California Department of Fish and Game (now the California Department of Fis
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[FisheriesManagementOfElCapitan_16317]]
 - [[NorthernPikeControlAtLakeDavis_2001]]
+- [[RelocationOfTheCohortHbsReceiv_11428]]
+- [[UpdatesFromEpPister_12831]]
+- [[DraftLowerColoradoRiverOperati_13907]]
+- [[ProposedActionPlanForReintrodu_19433]]

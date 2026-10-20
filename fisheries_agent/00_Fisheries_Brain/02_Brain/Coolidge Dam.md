@@ -29,6 +29,12 @@ Coolidge Dam is a water management structure on the Gila River in Arizona that s
 > This report presents results of fish monitoring conducted in the [[Gila River Basin]] during 1995-1996 as required by a U.S. Fish and Wildlife Service Biological Opinion on the [[Central Arizona Project]] (CAP). The monitoring program was established to detect transfers of non-native fishes from...
 > -- *[[ResultsOfFishMonitoringOfSelec_13200]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
+> -- *[[AProposalToReestablishDesertSu_20730]]*
+
 ## Mentioned In
 - [[CommentsOnProposedBonytailChub_1986_01_07]]
 - [[GeologicRelationsOfTheGilaCong_11466]]
@@ -37,3 +43,5 @@ Coolidge Dam is a water management structure on the Gila River in Arizona that s
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[MinutesDesertFishesRecoveryTea_13749]]
 - [[ResultsOfFishMonitoringOfSelec_13200]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[AProposalToReestablishDesertSu_20730]]

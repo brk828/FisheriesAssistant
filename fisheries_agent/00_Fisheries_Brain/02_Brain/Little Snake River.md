@@ -53,6 +53,9 @@ The Little Snake River is a major tributary of the Yampa River in the Upper Colo
 > This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
 > -- *[[CompletionReportYampawhitePhys_18677]]*
 
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
 ## Mentioned In
 - [[OccurrenceOfTwoEndangeredFishe_1990_07_19]]
 - [[StationProfileSaratogaNational_1993_12_11]]
@@ -68,3 +71,4 @@ The Little Snake River is a major tributary of the Yampa River in the Upper Colo
 - [[ManagementGroupMeetingSummary_19219]]
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
 - [[CompletionReportYampawhitePhys_18677]]
+- [[DraftFiveyearRoadMap_11579]]

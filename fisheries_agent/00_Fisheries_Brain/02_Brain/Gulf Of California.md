@@ -65,6 +65,9 @@ The Gulf of California is a biogeographically significant marine basin in northw
 > This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
 > -- *[[AClassificationOfTheFishesOfTh_14438]]*
 
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -99,3 +102,4 @@ The Gulf of California is a biogeographically significant marine basin in northw
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[AClassificationOfTheFishesOfTh_14438]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]

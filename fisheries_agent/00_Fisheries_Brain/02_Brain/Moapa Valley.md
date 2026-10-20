@@ -11,5 +11,9 @@ Moapa Valley is a geographic area in southern Nevada that was part of the histor
 > The [[White River Spinedace]] (*Lepidomeda albivallis*) is a federally endangered cyprinid fish endemic to northern [[White River Valley]] in [[Nevada]]. As of June 1991, the species persisted in only one of seven historically occupied habitats—the northern spring of the [[Flag Springs]]...
 > -- *[[WhiteRiverSpinedaceLepidomedaA_11636]]*
 
+> This research proposal by James Everett Deacon (Associate Professor, Nevada Southern University) seeks funding to conduct comprehensive limnological surveys of spring systems in Nevada, particularly the [[Pluvial White River System]], [[Moapa Valley]], and [[Ash Meadows]]. The proposal addresses...
+> -- *[[TheLimnologyOfDesertSprings_13994]]*
+
 ## Mentioned In
 - [[WhiteRiverSpinedaceLepidomedaA_11636]]
+- [[TheLimnologyOfDesertSprings_13994]]

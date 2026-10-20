@@ -38,6 +38,9 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 > This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
 > -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
 
+> This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
+> -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -61,3 +64,4 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 - [[BogHoleProjectMeetingSummary_12749]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[AReviewOfTheBiologyOfTheMosqui_14748]]
+- [[AnEcologicalOverviewOfPoecilii_20086]]

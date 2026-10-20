@@ -26,6 +26,12 @@ Salmo gairdneri, commonly known as the rainbow trout, is a coldwater fish specie
 > This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
 > -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
 
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AssimilationEfficiencyOfTheFre_1990]]
@@ -38,3 +44,5 @@ Salmo gairdneri, commonly known as the rainbow trout, is a coldwater fish specie
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[EvaluationAndRelativeResistanc_19097]]

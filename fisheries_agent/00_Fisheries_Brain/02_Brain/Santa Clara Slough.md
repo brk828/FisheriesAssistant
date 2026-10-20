@@ -23,6 +23,9 @@ Santa Clara Slough is an aquatic habitat system in the southwestern United State
 > This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
 > -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
 
+> This trip report documents a November 10-12, 1990 field survey of known [[Desert Pupfish]] (*Cyprinodon macularius macularius*) populations in the [[Colorado River Delta]] region of Sonora and Baja California, Mexico. Conducted by Sally Stefferud (U.S. Fish and Wildlife Service) and Jerry Stefferud...
+> -- *[[TripReportSamplingOfMexicanPop_14780]]*
+
 ## Mentioned In
 - [[LetterRequestingCollectionOfQu_1987_12_01]]
 - [[LetterToMarkStrombergRegarding_1986_06_02]]
@@ -33,3 +36,4 @@ Santa Clara Slough is an aquatic habitat system in the southwestern United State
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[EndangeredAndThreatenedWildlif_11555]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[TripReportSamplingOfMexicanPop_14780]]

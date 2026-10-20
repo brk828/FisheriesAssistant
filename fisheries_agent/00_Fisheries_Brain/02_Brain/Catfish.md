@@ -38,6 +38,9 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 > This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
 > -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
 
+> This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
+> -- *[[ChronologyOfYumaCoveActivities_15028]]*
+
 ## Mentioned In
 - [[AsuProfsStudyEndangeredFishes_12227]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
@@ -54,3 +57,4 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 - [[MovementsOfInlandAnglersWithin_11325]]
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[ChronologyOfYumaCoveActivities_15028]]

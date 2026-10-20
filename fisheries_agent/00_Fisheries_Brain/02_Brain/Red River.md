@@ -26,6 +26,9 @@ The Red River refers to a major river drainage system in North America that serv
 > This doctoral dissertation by William R. Duffer (Oklahoma State University, 1965) examines community metabolism and oxygen dynamics in the relatively undisturbed [[Blue River]] in southeastern Oklahoma from June 1963 to August 1964. The study investigated how different geological substrates...
 > -- *[[OxygenBalanceInASouthernGreatP_19151]]*
 
+> This study assessed the risk of [[Striped Bass]] (Morone saxatilis) transfer from [[Devils Lake]] to Canadian waters via a proposed outlet to the [[Sheyenne River]]. Approximately 13,000 striped bass fingerlings were stocked into Devils Lake in 1977 to provide a trophy fishery. The investigation...
+> -- *[[AnalysisOfLongTermSurvivalNatu_14818]]*
+
 ## Mentioned In
 - [[ASystematicAndGeographicalStud_1961]]
 - [[IntraSpecificVariationInTheCom_11434]]
@@ -35,3 +38,4 @@ The Red River refers to a major river drainage system in North America that serv
 - [[ThreeShinersNotropisOrtenburge_14255]]
 - [[TopTenFisheriesActiv_1996_10_14]]
 - [[OxygenBalanceInASouthernGreatP_19151]]
+- [[AnalysisOfLongTermSurvivalNatu_14818]]

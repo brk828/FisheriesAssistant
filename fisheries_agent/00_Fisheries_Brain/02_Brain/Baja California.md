@@ -20,9 +20,13 @@ auto_enriched: true
 > This note documents the first freshwater record of [[Pacific Lamprey]] (*Lampetra tridentata*) from [[Baja California]], Mexico. An ammocoete (larval lamprey) was collected on 19 February 1995 in the lower [[Rio Santo Domingo]], approximately 600 m above its mouth at Bahia San Ramon, 6 km west of...
 > -- *[[FirstFreshwaterRecordOfPacific_21111]]*
 
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
 ## Mentioned In
 - [[InfluenceOfLandMassesOnTheDist_14157]]
 - [[DouglasMexicanTemperaturePreci_12378]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[FirstFreshwaterRecordOfPacific_21111]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]

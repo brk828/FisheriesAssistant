@@ -23,6 +23,12 @@ The Redlands Diversion Dam is a water infrastructure structure on the Colorado R
 > This case study examines the conservation status, recovery efforts, and reintroduction programs for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America. Once a dominant predator throughout the [[Colorado River]] system, the species declined dramatically from...
 > -- *[[CaseStudyColoradoRiverSqauwfis_16101]]*
 
+> This combined project report documents six interrelated studies examining the effects of [[Aspinall Unit]] reservoir operations on endangered fish populations in the [[Gunnison River]] and [[Colorado River]] systems during FY 1993. The studies focused on three federally endangered species:...
+> -- *[[AFiveYearStudyToInvestigateThe_11212]]*
+
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
 ## Mentioned In
 - [[FourthEndangeredColoradoSquawf_1997_07_23]]
 - [[InterestGroupParticipationInTh_1994_08_05]]
@@ -31,3 +37,5 @@ The Redlands Diversion Dam is a water infrastructure structure on the Colorado R
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[FiscalYearScopeOfWorkResearchP_11213]]
 - [[CaseStudyColoradoRiverSqauwfis_16101]]
+- [[AFiveYearStudyToInvestigateThe_11212]]
+- [[FiscalYearProgramGuidance_11762]]

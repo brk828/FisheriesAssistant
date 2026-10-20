@@ -17,7 +17,11 @@ Coontail (Ceratophyllum demersum) is an aquatic plant species found abundantly i
 > **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
 > -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
 
+> This 1968 manual from the [[Bureau of Sport Fisheries and Wildlife]] provides comprehensive guidance on herbicide use for vegetation control in fish and wildlife management programs. Issued by the [[U.S. Department of the Interior]] under Secretary [[Stewart L. Udall]], the document establishes...
+> -- *[[ChemicalVegetationControlManua_12838]]*
+
 ## Mentioned In
 - [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
+- [[ChemicalVegetationControlManua_12838]]

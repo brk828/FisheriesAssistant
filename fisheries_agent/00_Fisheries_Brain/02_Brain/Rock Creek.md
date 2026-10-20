@@ -17,7 +17,11 @@ auto_enriched: true
 > This report documents the fourth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The study, conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]] from February 1, 1966 to January 31, 1967,...
 > -- *[[ReservoirFisheriesInvestigatio_14589]]*
 
+> This biological opinion, issued February 14, 1994, by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services State Office]], addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding the proposed [[Allotment Management Plan]] for the Dos S Unit of the...
+> -- *[[BiologicalOpinionThatAuthoriza_11901]]*
+
 ## Mentioned In
 - [[FishesOfTheWakarusaRiverInKans_14015]]
 - [[EcosystemRepairByHeadwaterEros_15854]]
 - [[ReservoirFisheriesInvestigatio_14589]]
+- [[BiologicalOpinionThatAuthoriza_11901]]

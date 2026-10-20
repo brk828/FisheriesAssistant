@@ -26,6 +26,9 @@ auto_enriched: true
 > This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
 > -- *[[BiologicalOpinionForTheSanBern_13329]]*
 
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
 ## Mentioned In
 - [[TotalFloristicStudyOfTheSanBer_14669]]
 - [[ReContinuationOfTheUsArmysSanP_11808]]
@@ -35,3 +38,4 @@ auto_enriched: true
 - [[DraftRecoveryPlanForTheEndange_15977]]
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
 - [[BiologicalOpinionForTheSanBern_13329]]
+- [[CurrentStatusOfEndangeredThrea_12695]]

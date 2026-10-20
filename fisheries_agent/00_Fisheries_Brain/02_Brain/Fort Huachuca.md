@@ -29,6 +29,9 @@ Fort Huachuca is a U.S. Army installation in Arizona whose military operations, 
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
 ## Mentioned In
 - [[ArmyFoundAtFaultOnRiverAreaGro_1995_09_27]]
 - [[CityOfficialsDeclareWarOnEnvir_1995_09_27]]
@@ -39,3 +42,4 @@ Fort Huachuca is a U.S. Army installation in Arizona whose military operations, 
 - [[SanPedroRiverRiparianManagemen_11617 map]]
 - [[ReContinuationOfTheUsArmysSanP_11808]]
 - [[BeaverScoping_18972]]
+- [[MinutesForDesertFishesRecovery_12506]]

@@ -17,7 +17,11 @@ Imperial County is a location in southern California where a Sacramento Hitch wa
 > This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
 > -- *[[ProgressReportOfTheCultureOfTi_14692]]*
 
+> This memorandum documents the relocation of 20 [[Humpback Sucker]] (HBS) from the 1974 cohort to [[West Pond]] in [[Imperial County]], California on July 16, 1980. The fish, originally received from [[Willow Beach National Fish Hatchery]], were marked and tagged using multiple methods including...
+> -- *[[RelocationOfTheCohortHbsReceiv_11428]]*
+
 ## Mentioned In
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[AnAbnormalCarpCyprinusCarpioFr_12321]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
+- [[RelocationOfTheCohortHbsReceiv_11428]]

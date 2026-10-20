@@ -65,6 +65,9 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 > This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
 > -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
 
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AGrowthStudyAndBloodProteinAna_15288]]
@@ -159,3 +162,4 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 - [[EffectOfChannelizationOnTheFis_18139]]
 - [[TheStatusOfThePumpkinseedLepom_12862]]
 - [[TheSuitabilitiesAndRelativeRes_19185]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]

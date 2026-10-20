@@ -128,6 +128,18 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
 > -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
 
+> This document is a critical review letter dated March 10, 1993, from C.O. Minckley (U.S. Fish and Wildlife Service, Parker, AZ) to Bill Persons (Arizona Game and Fish Department) regarding a propagation study plan for [[Humpback Chub]] (*Gila cypha*) developed by Diann Smith. The reviewer expresses...
+> -- *[[ReviewOfHumpbackChubPropagatio_18515]]*
+
+> This 1988 correspondence from Arizona State University to the U.S. Fish & Wildlife Service proposes using video camera (camcorder) technology instead of traditional 35mm photography for collecting morphometric data from endangered [[Gila Cypha]] (humpback chub) and [[Gila Robusta]] (roundtail chub)...
+> -- *[[GilaMorphometry_19079]]*
+
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
+> This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
+> -- *[[AProposalToReestablishDesertSu_20730]]*
+
 ## Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -411,3 +423,7 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[TheSuitabilitiesAndRelativeRes_19185]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[TechnicalReviewDraftSpikedaceM_19407]]
+- [[ReviewOfHumpbackChubPropagatio_18515]]
+- [[GilaMorphometry_19079]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]
+- [[AProposalToReestablishDesertSu_20730]]

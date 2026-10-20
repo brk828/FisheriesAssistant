@@ -86,6 +86,18 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > This memorandum and preliminary draft management plan, dated August 11, 1998, addresses implementation of Reasonable and Prudent Alternative (RPA) 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The RPA requires establishment of...
 > -- *[[PreliminaryDraftManagementPlan_16433]]*
 
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
+> -- *[[ChronologyOfYumaCoveActivities_15028]]*
+
+> This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
+> -- *[[ProposedActionPlanForReintrodu_19433]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -129,3 +141,7 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[BureauOfReclamationsFailureToR_18964]]
 - [[WhetherHybridsAreCoveredByTheE_15615]]
 - [[PreliminaryDraftManagementPlan_16433]]
+- [[DraftLowerColoradoRiverOperati_13907]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[ChronologyOfYumaCoveActivities_15028]]
+- [[ProposedActionPlanForReintrodu_19433]]

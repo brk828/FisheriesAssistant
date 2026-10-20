@@ -44,6 +44,9 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 > This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
 > -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
 
+> This study examined movements of [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] within [[Grand Canyon]], Arizona from October 1990 through November 1993, evaluating effects of [[Glen Canyon Dam]] operations on movement patterns. Using radiotelemetry (75 radio-tagged adults) and PIT-tag...
+> -- *[[MovementOfHumpbackChubInTheCol_13639]]*
+
 ## Mentioned In
 - [[EffectsOfInterimFlowsFromGlenC_13655]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
@@ -59,3 +62,4 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 - [[StatusOfTheBiowestDatabase_13632]]
 - [[TailwaterFisheryInvestigationC_14594]]
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[MovementOfHumpbackChubInTheCol_13639]]

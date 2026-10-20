@@ -71,6 +71,12 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
 > -- *[[UsFishAndWildlifeServicesAbili_20453]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This August 12, 1991 letter from the [[U.S. Fish and Wildlife Service]] to the [[U.S. Forest Service]] provides formal comments on the proposed [[Pigeon Creek Lake]] project in [[Greenlee County]], [[Arizona]]. The Service raises significant concerns about the project's potential impacts to...
+> -- *[[ReRequestForCommentsRegardingT_15640]]*
+
 ## Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -115,3 +121,5 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[BogHoleProjectMeetingSummary_12749]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[UsFishAndWildlifeServicesAbili_20453]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[ReRequestForCommentsRegardingT_15640]]

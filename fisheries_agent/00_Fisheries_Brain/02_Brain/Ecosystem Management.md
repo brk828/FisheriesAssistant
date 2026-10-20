@@ -20,8 +20,12 @@ Ecosystem Management in fish science and aquatic conservation refers to the inte
 > - **Refuge and WPA habitat management**: Federal [[National Wildlife Refuge]] lands and [[Waterfowl Production Area]]s are managed under competing priorities of ecological diversity, endangered species conservation, and consumptive recreational use (hunting, fishing, trapping). - **Nontoxic shot ...
 > -- *[[LetterFromAssociationOfMidwest_1994_07_14]]*
 
+> This Bureau of Land Management (BLM) Manual Section 6780 establishes comprehensive policy, procedures, and guidelines for the preparation and implementation of Habitat Management Plans (HMPs) on public lands. Released December 23, 1981 (Rel. 6-85), it provides the administrative framework for...
+> -- *[[BureauOfLandManagementManualHa_11459]]*
+
 ## Mentioned In
 - [[IssuesAndAlternativesForUseOfH_1994_05_31]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
 - [[TheRealPartnershipQuestion_1994_07_29]]
 - [[ViewsOfAFishBiologistFromAFede_15069]]
+- [[BureauOfLandManagementManualHa_11459]]

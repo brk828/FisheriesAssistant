@@ -11,5 +11,9 @@ The Arizona Ecological Services State Office is a U.S. Fish and Wildlife Service
 > This memorandum from the [[Arizona Ecological Services State Office]] to the Assistant Regional Director provides detailed comments on proposed joint counterpart section 7 regulations for the [[Forest Service]] and [[Bureau of Land Management]]. Dated August 25, 1995, the document expresses support...
 > -- *[[ReviewOfProposedCounterpartReg_11907]]*
 
+> This biological opinion, issued February 14, 1994, by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services State Office]], addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding the proposed [[Allotment Management Plan]] for the Dos S Unit of the...
+> -- *[[BiologicalOpinionThatAuthoriza_11901]]*
+
 ## Mentioned In
 - [[ReviewOfProposedCounterpartReg_11907]]
+- [[BiologicalOpinionThatAuthoriza_11901]]

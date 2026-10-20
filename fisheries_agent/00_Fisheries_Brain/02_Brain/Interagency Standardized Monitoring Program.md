@@ -23,6 +23,9 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 > This report summarizes a peer review and roundtable discussion conducted February 6-7, 1995, in Grand Junction, Colorado, evaluating the relationship between streamflow, geomorphology, and food web studies in the [[Upper Colorado River Basin]] Recovery Program for four endangered fishes:...
 > -- *[[HighlightsOfAPeerReviewAndRoun_11448]]*
 
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DetermineStatusOfColoradoSquaw_11150]]
@@ -31,3 +34,4 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 - [[WinterMovementAndHabitatOfAdul_1993_12_16]]
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[HighlightsOfAPeerReviewAndRoun_11448]]
+- [[FiscalYearProgramGuidance_11762]]

@@ -17,8 +17,12 @@ auto_enriched: true
 > This 1957 technical report documents a comprehensive survey of bass tapeworm ([[Proteocephalus ambloplitis]]) infections across 124 lakes and ponds in southern [[New Hampshire]]. Conducted during 1955-1956 under the Dingell-Johnson Project F-8-R, the study examined 1,960 fish representing 12...
 > -- *[[TheIncidenceAndDistributionOfT_15429]]*
 
+> This 1948-1949 progress report documents experimental techniques developed by the [[New Hampshire Fish and Game Department]] to control water levels in [[American Beaver]] impoundments using perforated drain pipes. The technique aimed to preserve valuable [[Waterfowl]] breeding and resting habitat...
+> -- *[[ATechniqueToControlWaterLevels_20238]]*
+
 ## Mentioned In
 - [[StationProfileOfTheNashuaNatio_19531]]
 - [[TheAmericanSmeltOsmerusMordaxM_1950]]
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[TheIncidenceAndDistributionOfT_15429]]
+- [[ATechniqueToControlWaterLevels_20238]]

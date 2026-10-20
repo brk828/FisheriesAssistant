@@ -14,7 +14,11 @@ Lake Winnipeg is a large, shallow prairie lake system in Manitoba that serves as
 > - **Two categories of regulation motive**: (1) direct economic/distributional aims (sharing catch, limiting fishermen/boats, favoring certain gear/groups, spreading landings for market order, avoiding poor conditions, improving product value/quality); (2) "biological" aims focused on maximizing s...
 > -- *[[SomePrinciplesInvolvedInRegula_16870]]*
 
+> This study assessed the risk of [[Striped Bass]] (Morone saxatilis) transfer from [[Devils Lake]] to Canadian waters via a proposed outlet to the [[Sheyenne River]]. Approximately 13,000 striped bass fingerlings were stocked into Devils Lake in 1977 to provide a trophy fishery. The investigation...
+> -- *[[AnalysisOfLongTermSurvivalNatu_14818]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[RootsVersusShootsInNutrientUpt_1989]]
 - [[SomePrinciplesInvolvedInRegula_16870]]
+- [[AnalysisOfLongTermSurvivalNatu_14818]]

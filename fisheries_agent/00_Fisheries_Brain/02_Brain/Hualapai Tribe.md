@@ -29,6 +29,9 @@ The Hualapai Tribe is a Native American nation with territorial and resource man
 > This document comprises formal comments submitted by the [[Colorado River Commission]] of Nevada to the [[U.S. Bureau of Reclamation]] regarding the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River Operations and Maintenance (April 30, 1997). The Commission...
 > -- *[[CommentsOnTheBiologicalOpinion_17166]]*
 
+> This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
+> -- *[[GlenCanyonEnvironmentalStudies_19734]]*
+
 ## Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[GlenCanyonEnvironmentalStudies_1992_03_07]]
@@ -39,3 +42,4 @@ The Hualapai Tribe is a Native American nation with territorial and resource man
 - [[TheEffectsOfGlenCanyonAndHoove_12550]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[CommentsOnTheBiologicalOpinion_17166]]
+- [[GlenCanyonEnvironmentalStudies_19734]]

@@ -14,6 +14,10 @@ The Sonoran Institute is a non-governmental organization that volunteered to ser
 > This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
 > -- *[[BuildingSuccessfulPartnerships_13226]]*
 
+> This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
+> -- *[[SonoranDesertExpertsWorkshop_13543]]*
+
 ## Mentioned In
 - [[SummaryOfEvents_18368]]
 - [[BuildingSuccessfulPartnerships_13226]]
+- [[SonoranDesertExpertsWorkshop_13543]]

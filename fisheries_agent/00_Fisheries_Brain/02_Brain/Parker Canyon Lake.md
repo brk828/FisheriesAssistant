@@ -23,9 +23,13 @@ Parker Canyon Lake is an Arizona reservoir constructed in 1963 that functions as
 > This Arizona Game and Fish Department completion report (Project FW-16-R-5) documents a **visitor-use and fisheries survey** conducted on five Arizona reservoirs — [[Bartlett Lake]], [[Pena Blanca Lake]], [[Parker Canyon Lake]], [[Black Canyon Lake]], and [[Lyman Lake]] — between June 1, 1965, an...
 > -- *[[RiverBasinInvestigationsVisito_12729]]*
 
+> This document reports the confirmed reproduction of illegally introduced [[Northern Pike]] (*Esox lucius*) in [[Parker Canyon Lake]], Arizona. First detected in summer 1997, juvenile pike were sampled by September 1998, confirming successful reproduction. The 124-acre lake southwest of [[Sierra...
+> -- *[[ReproductionOfNorthernPikeConf_20180]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
 - [[FisheryInvestigationsInRegionV_1966_12_31]]
 - [[RiverBasinInvestigationsCooper_12958]]
 - [[RiverBasinInvestigationsVisito_12729]]
+- [[ReproductionOfNorthernPikeConf_20180]]

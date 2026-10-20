@@ -59,6 +59,9 @@ The American Fisheries Society is a professional scientific organization dedicat
 > This document comprises correspondence dated December 19, 1990, from Dr. Salvador Contreras Balderas ([[Universidad Autonoma de Nuevo Leon]], Faculty of Biological Sciences) to Dr. W.L. Minckley ([[Arizona State University]]), along with Dr. Contreras Balderas's comprehensive curriculum vitae. The...
 > -- *[[CvForNewProposal_17525]]*
 
+> This research proposal by James Everett Deacon (Associate Professor, Nevada Southern University) seeks funding to conduct comprehensive limnological surveys of spring systems in Nevada, particularly the [[Pluvial White River System]], [[Moapa Valley]], and [[Ash Meadows]]. The proposal addresses...
+> -- *[[TheLimnologyOfDesertSprings_13994]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[AmericanFisheriesSocietyProtoc_12011]]
@@ -96,3 +99,4 @@ The American Fisheries Society is a professional scientific organization dedicat
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[CvForNewProposal_17525]]
+- [[TheLimnologyOfDesertSprings_13994]]

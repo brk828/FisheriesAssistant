@@ -23,9 +23,13 @@ Great Blue Heron is a large wading bird species. During the May 1989 Pyramid Lak
 > This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
 > -- *[[MichiganFishPredators_12681]]*
 
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
 ## Mentioned In
 - [[SummaryOfPyramidLakeTrip_13173]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[DistributionAndPoststockingSur_2016]]
 - [[TheMaineSmallmouth_14928]]
 - [[MichiganFishPredators_12681]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]

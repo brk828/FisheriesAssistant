@@ -29,6 +29,9 @@ Lepomis is a genus of centrarchid fishes commonly known as sunfish, which are sm
 > This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
 > -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
 
+> This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
+> -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
+
 ## Mentioned In
 - [[DonTThrowGrandpaBack_14198]]
 - [[IndirectEffectsOfFishOnForagin_1992]]
@@ -40,3 +43,4 @@ Lepomis is a genus of centrarchid fishes commonly known as sunfish, which are sm
 - [[YoungFishDistributionInBackwat_1989]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
+- [[NotesFromFieldWorkInTheCuatroc_12737]]

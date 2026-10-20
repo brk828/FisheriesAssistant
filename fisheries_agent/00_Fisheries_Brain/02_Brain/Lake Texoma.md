@@ -14,6 +14,9 @@ Lake Texoma is a large reservoir on the Red River formed by the Denison Dam, ser
 > This 1956 study by Riggs and Webb quantifies the freshwater mussel (Unionidae) population inhabiting a loamy-sand bottom area of **[[Lake Texoma]]**, an impoundment of the Red River formed by Denison Dam. Taking advantage of a natural "die-off" event caused by lake-level fluctuation exposing a pe...
 > -- *[[TheMusselPopulationOfAnAreaOfL_14967]]*
 
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
 ## Mentioned In
 - [[DepthDistributionOfStripedBass_1985]]
 - [[EtheostomaRadiosumOrangebellyD_1986]]
@@ -21,3 +24,4 @@ Lake Texoma is a large reservoir on the Red River formed by the Denison Dam, ser
 - [[ProposedIntroductionOfRainbowS_11577]]
 - [[SummerMortalityOfStripedBassIn_1985]]
 - [[TheMusselPopulationOfAnAreaOfL_14967]]
+- [[AssessmentOfTheNeedForForageEn_17853]]

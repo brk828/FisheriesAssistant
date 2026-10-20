@@ -35,6 +35,12 @@ auto_enriched: true
 > Laboratory experiments conducted at [[Auburn University]] examined the toxicity of two rotenone-based formulations—[[Noxfish]] (5% rotenone) and [[Pro-Noxfish]] (2.5% rotenone plus 2.5% Sulfoxide synergist)—to eggs of [[Common Carp]] (*Cyprinus carpio*) and [[Fathead Minnow]] (*Pimephales...
 > -- *[[TheToxicityOfNoxfishAndPronoxf_20370]]*
 
+> This 1969 review synthesizes the first decade of research on commercial [[Channel Catfish]] nutrition in the United States. Despite only four research stations intensively studying catfish feeding, excellent practical rations have been developed yielding 1 pound of gain per 1.5-2.0 pounds of feed....
+> -- *[[NutritionInCommercialCatfishcu_16217]]*
+
+> This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
+> -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
+
 ## Mentioned In
 - [[ExperimentsOnCommercialFishPro_15109]]
 - [[OverATonOfChannelCatfishPerAcr_18668]]
@@ -46,3 +52,5 @@ auto_enriched: true
 - [[PreliminaryResultsOnTheProduct_18670]]
 - [[EffectsOfWaterHardnessOnFishPr_19234]]
 - [[TheToxicityOfNoxfishAndPronoxf_20370]]
+- [[NutritionInCommercialCatfishcu_16217]]
+- [[TheUseOfChannelCatfishAsSportF_18662]]

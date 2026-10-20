@@ -11,5 +11,9 @@ The Southern Pacific Railroad played a crucial role in ending the catastrophic 1
 > This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
 > -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
 
+> This 1917 U.S. Geological Survey report by A. T. Schwennesen documents the groundwater resources of [[San Simon Valley]], an 85-mile-long arid basin in southeastern Arizona and adjacent New Mexico. The valley, bounded by the [[Peloncillo Mountains]] to the east and the [[Chiricahua Mountains]],...
+> -- *[[GroundWaterInSanSimonValleyAri_11299]]*
+
 ## Mentioned In
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[GroundWaterInSanSimonValleyAri_11299]]

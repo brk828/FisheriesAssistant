@@ -50,6 +50,9 @@ Pyramid Lake is a terminal freshwater lake in Nevada that serves as the primary 
 > This document is correspondence from Tom Strekal, Team Leader, scheduling a [[Cui-ui]] Recovery Team meeting for November 29, 1990, in Reno, Nevada. The meeting addresses the urgent completion of the draft [[Cui-ui]] Recovery Plan, mandated by Senate Bill 3084 (Truckee-Carson-Pyramid Lake Water...
 > -- *[[IssuesToDiscussAndResolveAtCui_14619]]*
 
+> This memorandum from the [[Cui-ui Recovery Team]] proposes quantifiable recovery criteria for the endangered [[Cui-ui]] (*Chasmistes cujus*), an endemic sucker of [[Pyramid Lake]], Nevada. The document establishes probability-based persistence thresholds tied to specific water inflow targets:...
+> -- *[[RecoveryObjectiveForDraftCuiui_14622]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[AllozymeDifferencesDuplicateGe_11423]]
@@ -101,3 +104,4 @@ Pyramid Lake is a terminal freshwater lake in Nevada that serves as the primary 
 - [[CuiuiRecoveryTeamMeetingMinute_13872]]
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
 - [[IssuesToDiscussAndResolveAtCui_14619]]
+- [[RecoveryObjectiveForDraftCuiui_14622]]

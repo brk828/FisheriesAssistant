@@ -68,6 +68,12 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 > This document comprises correspondence dated December 19, 1990, from Dr. Salvador Contreras Balderas ([[Universidad Autonoma de Nuevo Leon]], Faculty of Biological Sciences) to Dr. W.L. Minckley ([[Arizona State University]]), along with Dr. Contreras Balderas's comprehensive curriculum vitae. The...
 > -- *[[CvForNewProposal_17525]]*
 
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
+> This article from Montana Fish & Game Department (August 1969) describes [[Gambusia affinis affinis]] (mosquitofish) and their use in biological mosquito control. The species is native to the Gulf Coast and Mississippi River system but has been widely introduced for pest control purposes. In 1969,...
+> -- *[[LittleFishDoesBigThings_16549]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -99,3 +105,5 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[GeneticVariationAndSpeciationI_12625]]
 - [[CvForNewProposal_17525]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]
+- [[LittleFishDoesBigThings_16549]]

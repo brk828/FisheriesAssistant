@@ -56,6 +56,9 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 > This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
 > -- *[[BiologicalOpinionForTheSanBern_13329]]*
 
+> This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
+> -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -89,3 +92,4 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[BiologicalOpinionForTheSanBern_13329]]
+- [[DetailsForStudiesOfTheGenusGil_13739]]

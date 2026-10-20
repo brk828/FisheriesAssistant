@@ -92,6 +92,15 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > This document records experimental gill netting and electrofishing surveys conducted on [[Lake Mohave]] in May 1986 targeting [[Razorback Sucker]] (*Xyrauchen texanus*). The survey captured 68 razorback suckers via gill netting (26 net nights effort) and 18 via electrofishing (202 minutes effort),...
 > -- *[[LakeMohaveExperimentalGillNett_18275]]*
 
+> This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
+> -- *[[EnvironmentalAssessmentForNati_13228]]*
+
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
+> This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
+> -- *[[RainbowSmeltProposalReview_17848]]*
+
 ## Mentioned In
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -133,3 +142,6 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[LongtermPatternsOfFishCommunit_2023]]
 - [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
 - [[LakeMohaveExperimentalGillNett_18275]]
+- [[EnvironmentalAssessmentForNati_13228]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[RainbowSmeltProposalReview_17848]]

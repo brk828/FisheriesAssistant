@@ -32,6 +32,9 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a monotypic catostomid endemic to the [[Colorado River Basin]]. Adults in the [[Green River Basin]] averaged 507 mm TL for males (range 405–576 mm, n=141) and 547 mm TL for females (range 485–608 mm, n=45). Males...
 > -- *[[SpawningAndMovementsOfRazorbac_1990]]*
 
+> This document presents the Fiscal Year 1998 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program's established annual budget for FY 98 is $3.18 million (a 3.0% increase over FY 97), with total funding including...
+> -- *[[FiscalYearWorkPlan_11743]]*
+
 ## Mentioned In
 - [[AdditionalRazorbackSuckerGenet_1994_04_28]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -41,3 +44,4 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 - [[MeetingToDiscussProgramGoalsSt_19639]]
 - [[DraftLongRangePlan_11590]]
 - [[SpawningAndMovementsOfRazorbac_1990]]
+- [[FiscalYearWorkPlan_11743]]

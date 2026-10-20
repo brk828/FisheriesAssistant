@@ -35,6 +35,9 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 > This 1952 field guide addresses the practical challenges of identifying salmonid game fishes in [[New York State]] waters. The document provides diagnostic characters for six species: [[Brook Trout]] (*Salvelinus fontinalis*), [[Brown Trout]] (*Salmo trutta*), [[Rainbow Trout]] (*Salmo...
 > -- *[[TroutOrSalmon_19215]]*
 
+> This 1954 report by Chief Aquatic Biologist John R. Greeley summarizes the rapidly-growing salmon fishery program in New York State lakes, involving two distinct species: [[Landlocked Salmon]] (Atlantic salmon, *Salmo salar*) and [[Red Salmon]] (Pacific sockeye, *Oncorhynchus nerka*). The program,...
+> -- *[[SalmonInNewYork_19216]]*
+
 ## Mentioned In
 - [[BerkshireNationalFishHatcheryS_19579]]
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
@@ -71,3 +74,4 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
 - [[TroutOrSalmon_19215]]
+- [[SalmonInNewYork_19216]]

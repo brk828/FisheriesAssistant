@@ -35,6 +35,9 @@ Poeciliopsis is a genus of small livebearing fish native to Mexico and the south
 > This article by Dr. George S. Myers examines the ecological dangers posed by [[Gambusia affinis]] (mosquitofish), a small livebearer from the southeastern United States that was widely introduced worldwide for mosquito control beginning around the turn of the 20th century. Despite its effectiveness...
 > -- *[[GambusiaTheFishDestroyer_15551]]*
 
+> This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
+> -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
+
 ## Mentioned In
 - [[AnnualReportUnderUsfwsSubpermi_20894]]
 - [[DesertFishesRecoveryTeamConsul_1988_04_16]]
@@ -48,3 +51,4 @@ Poeciliopsis is a genus of small livebearing fish native to Mexico and the south
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[AReviewOfTheBiologyOfTheMosqui_14748]]
 - [[GambusiaTheFishDestroyer_15551]]
+- [[AnEcologicalOverviewOfPoecilii_20086]]

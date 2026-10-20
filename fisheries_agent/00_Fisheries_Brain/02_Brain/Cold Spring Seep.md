@@ -11,6 +11,10 @@ auto_enriched: true
 > This U.S. Fish and Wildlife Service biological opinion, issued December 1, 1989, evaluates a Bureau of Land Management proposal to stock endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into two spring systems in Graham County, Arizona that already support populations of...
 > -- *[[BiologicalOpinionStockingOfDes_11850]]*
 
+> This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
+> -- *[[IntraofficeMemoFishSurveys_13821]]*
+
 ## Mentioned In
 - [[TripReportColdSpringSeepAugust_1990_08_08]]
 - [[BiologicalOpinionStockingOfDes_11850]]
+- [[IntraofficeMemoFishSurveys_13821]]

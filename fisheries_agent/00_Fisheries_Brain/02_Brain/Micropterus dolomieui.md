@@ -23,6 +23,9 @@ Micropterus dolomieui, commonly known as the smallmouth bass, is a freshwater ce
 > **Taxonomic & Life-History Summary:** Three centrarchid species are described: [[Lepomis microlophus]] (redear sunfish), [[Micropterus dolomieui]] (smallmouth bass), and [[Micropterus punctulatus]] (spotted bass). [[Lepomis microlophus]] exhibits geographic variation with two forms: one with 40-47...
 > -- *[[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]*
 
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
 ## Mentioned In
 - [[Development of Color Pattern in Pond-Reared Young of Five Bass Species (Micropterus) of Southeastern U. S.]]
 - [[DistributionAndTaxonomicStatus_1976_01_15]]
@@ -30,3 +33,4 @@ Micropterus dolomieui, commonly known as the smallmouth bass, is a freshwater ce
 - [[NotesOnTheDistributionOfBlackb_14184]]
 - [[WaterTemperatureCriteriaToProt_15269]]
 - [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]
+- [[EvaluationAndRelativeResistanc_19097]]

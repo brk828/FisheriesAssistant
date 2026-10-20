@@ -14,6 +14,10 @@ auto_enriched: true
 > This research proposal by Clyde D. Barbour (University of Utah) requests two years of funding from the National Science Foundation to conduct systematic and evolutionary studies of fishes endemic to the [[Mesa Central]] of Mexico. The project focuses on the family [[Goodeidae]] (viviparous...
 > -- *[[ProposalForSupportOfResearchOn_15568]]*
 
+> This 1907 taxonomic revision by [[Carl H Eigenmann]] examines the [[Poeciliidae]] fauna of [[Rio Grande do Sul]] and the [[La Plata Basin]]. The study establishes several new genera based on detailed examination of teeth morphology and male reproductive organs (intromittent organs). Eigenmann...
+> -- *[[ThePoeciliidFishesOfRioGrandeD_15799]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheAdultGoodeid_19652]]
 - [[ProposalForSupportOfResearchOn_15568]]
+- [[ThePoeciliidFishesOfRioGrandeD_15799]]

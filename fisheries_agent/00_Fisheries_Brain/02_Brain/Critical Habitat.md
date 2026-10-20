@@ -32,6 +32,9 @@ Critical habitat refers to specific geographic areas containing physical or biol
 > This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
 > -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
 
+> This correspondence from the [[Maricopa Audubon Society]] to Representative John Shadegg, dated October 31, 1995, addresses concerns regarding proposed federal legislation that would weaken protections for imperiled wildlife. The letter specifically critiques H.R. 2364 (the John Shadegg Endangered...
+> -- *[[FailureToAnswerCorrespondenceH_18973]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[BiologicalOpinionOnEmergencyWa_1993_10_20]]
@@ -54,3 +57,4 @@ Critical habitat refers to specific geographic areas containing physical or biol
 - [[SpecialStatusSpeciesManagement_11467]]
 - [[ExtensionOfPublicCommentPeriod_17380]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[FailureToAnswerCorrespondenceH_18973]]

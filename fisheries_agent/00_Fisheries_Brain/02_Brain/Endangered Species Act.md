@@ -251,6 +251,18 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > Official correspondence from the U.S. Fish and Wildlife Service Regional Director to the Desert Fishes Council Executive Secretary dated January 14, 1987, regarding unauthorized collection of endangered fish and reptiles at [[Cuatro Cienegas]], [[Coahuila]], [[Mexico]]. The letter addresses...
 > -- *[[UnauthorizedCollectingInMexico_20833]]*
 
+> This biological opinion, issued February 14, 1994, by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services State Office]], addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding the proposed [[Allotment Management Plan]] for the Dos S Unit of the...
+> -- *[[BiologicalOpinionThatAuthoriza_11901]]*
+
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
+> This supplemental environmental assessment, prepared by the [[U.S. Bureau of Land Management]] (BLM) Phoenix District Office in December 1983, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*)...
+> -- *[[IntroductionOfGilaTopminnowAnd_17956]]*
+
+> This 1994 U.S. District Court opinion addresses a legal challenge by the [[Idaho Department of Fish and Game]] (IDFG) against the [[National Marine Fisheries Service]] (NMFS) regarding the operation of the [[Federal Columbia River Power System]] (FCRPS) and its impacts on three listed [[Snake...
+> -- *[[SalmonDecision_19385]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -616,3 +628,7 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[TechnicalReviewDraftSpikedaceM_19407]]
 - [[UsFishAndWildlifeServicesAbili_20453]]
 - [[UnauthorizedCollectingInMexico_20833]]
+- [[BiologicalOpinionThatAuthoriza_11901]]
+- [[BiologicalEvaluationOfTheAppro_15074]]
+- [[IntroductionOfGilaTopminnowAnd_17956]]
+- [[SalmonDecision_19385]]

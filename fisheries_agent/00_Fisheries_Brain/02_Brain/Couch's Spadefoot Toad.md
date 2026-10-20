@@ -11,5 +11,9 @@ Couch's Spadefoot Toad (Scaphiopus couchii) is an amphibian expected to occur at
 > This biological assessment was conducted 8–18 July 1994 for the [[Papago Park Military Reservation]] (PPMR) in Phoenix, Arizona, in support of an environmental assessment for proposed construction of a consolidated maintenance facility by the Arizona Army National Guard. The survey documented 36...
 > -- *[[PapagoParkMilitaryReservationB_13351]]*
 
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
 ## Mentioned In
 - [[PapagoParkMilitaryReservationB_13351]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]

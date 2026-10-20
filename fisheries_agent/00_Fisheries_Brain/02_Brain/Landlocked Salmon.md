@@ -23,9 +23,13 @@ Landlocked salmon are populations of Atlantic salmon (Salmo salar) that complete
 > - **Thermal stratification structuring the reservoir**: Only the lower approximately one-third of Quabbin remains sufficiently cool in mid-summer to support cold-water species; the upper two-thirds of both major reservoir arms become too shallow and warm under solar/wind exposure. - **[[Lake Trou...
 > -- *[[BigGameFishSpeciesMostSuitedTo_14647]]*
 
+> This 1954 report by Chief Aquatic Biologist John R. Greeley summarizes the rapidly-growing salmon fishery program in New York State lakes, involving two distinct species: [[Landlocked Salmon]] (Atlantic salmon, *Salmo salar*) and [[Red Salmon]] (Pacific sockeye, *Oncorhynchus nerka*). The program,...
+> -- *[[SalmonInNewYork_19216]]*
+
 ## Mentioned In
 - [[BigGameFishSpeciesMostSuitedTo_14647]]
 - [[ExperimentalIntroductionsOfFre_1960_01_01]]
 - [[SebecLakeCreelCensus_16335]]
 - [[StationProfileOfTheGreenLakeNa_1993]]
 - [[TheBrownTroutInMaine_1954]]
+- [[SalmonInNewYork_19216]]

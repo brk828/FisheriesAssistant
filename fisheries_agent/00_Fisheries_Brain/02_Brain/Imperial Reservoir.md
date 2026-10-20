@@ -26,6 +26,9 @@ Imperial Reservoir is a 2955-hectare impoundment on the Lower Colorado River nor
 > This Federal Aid completion report documents a 14-year experimental program (1957-1971) introducing marine fish species from the [[Gulf of Mexico]] into the saline waters of the [[Pecos River System]] in western Texas. The program was initiated because high salinity levels (800-7,000 ppm chlorides)...
 > -- *[[MarineIntroductionsTexas_13536]]*
 
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
 ## Mentioned In
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[DraftmanagementPlanForTheRazor_11427]]
@@ -33,3 +36,4 @@ Imperial Reservoir is a 2955-hectare impoundment on the Lower Colorado River nor
 - [[BiologicalOpinionForLakeHavasu_11704]]
 - [[EffectOfChannelizationOnTheFis_18139]]
 - [[MarineIntroductionsTexas_13536]]
+- [[DraftLowerColoradoRiverOperati_13907]]

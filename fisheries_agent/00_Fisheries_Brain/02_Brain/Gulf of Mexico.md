@@ -35,6 +35,9 @@ The Gulf of Mexico is a major biogeographic region and drainage basin in ichthyo
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This article from Montana Fish & Game Department (August 1969) describes [[Gambusia affinis affinis]] (mosquitofish) and their use in biological mosquito control. The species is native to the Gulf Coast and Mississippi River system but has been widely introduced for pest control purposes. In 1969,...
+> -- *[[LittleFishDoesBigThings_16549]]*
+
 ## Mentioned In
 - [[AnOutlineForTheStudyOfEstuarin_1954_10_31]]
 - [[BookReviewOfFreshwaterFishesOf_1969]]
@@ -53,3 +56,4 @@ The Gulf of Mexico is a major biogeographic region and drainage basin in ichthyo
 - [[MarineIntroductionsTexas_13536]]
 - [[BayesianEstimationOfVonBertala_2025]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[LittleFishDoesBigThings_16549]]

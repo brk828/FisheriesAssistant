@@ -38,6 +38,9 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 > This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
 > -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
 
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
 ## Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -52,3 +55,4 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 - [[StatusReportForNaturalAndIntro_12972]]
 - [[FishesOfTheSonoitaCreekDrainag_18558]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[CurrentStatusOfEndangeredThrea_12695]]

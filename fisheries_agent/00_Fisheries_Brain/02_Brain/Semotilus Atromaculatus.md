@@ -23,6 +23,9 @@ Semotilus atromaculatus, commonly known as creek chub, is a small freshwater cyp
 > - **Unresolved phylogenetic problem**: The systematic position of *[[Rhinichthys]]* and *[[Agosia]]* relative to the North American chub clade remains unresolved using morphological/osteological data alone; Coburn and Cavender (1992) explicitly called for further investigation. - **Proposed dual ...
 > -- *[[PhylogeneticsOfNorthAmericanCh_20485]]*
 
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
 ## Mentioned In
 - [[AProvisionalCheckListOfTheFish_15941]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -33,3 +36,4 @@ Semotilus atromaculatus, commonly known as creek chub, is a small freshwater cyp
 - [[PhylogeneticsOfNorthAmericanCh_20485]]
 - [[RecordsFromEastTexasOfThreeSpe_1951_09_30]]
 - [[ThePreferredTemperaturesOfThre_14745]]
+- [[EvaluationAndRelativeResistanc_19097]]

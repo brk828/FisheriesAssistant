@@ -29,6 +29,9 @@ Lake Michigan is one of the five Great Lakes and serves as a critical freshwater
 > This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
 > -- *[[IntroductionOfRainbowSmeltInto_17850]]*
 
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
 ## Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[OriginAndDispersalOfTheAlewife_1957]]
@@ -39,3 +42,4 @@ Lake Michigan is one of the five Great Lakes and serves as a critical freshwater
 - [[TheTemporalDistributionOfChlor_1966]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
+- [[AssessmentOfTheNeedForForageEn_17853]]

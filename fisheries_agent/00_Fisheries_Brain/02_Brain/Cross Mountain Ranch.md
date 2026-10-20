@@ -14,6 +14,10 @@ Cross Mountain Ranch is a property where water rights negotiations were being pu
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
 > -- *[[ManagementGroupMeetingSummary_19219]]*
 
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
 ## Mentioned In
 - [[AprilManagementGroupMeetingSum_19221]]
 - [[ManagementGroupMeetingSummary_19219]]
+- [[DraftFiveyearRoadMap_11579]]

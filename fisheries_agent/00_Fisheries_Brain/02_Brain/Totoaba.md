@@ -35,6 +35,9 @@ The Totoaba is an endangered large fish species native to the Gulf of California
 > This October 12, 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) announces two pending lawsuits targeting federal agencies for violations of the [[Endangered Species Act]] (ESA) and [[National Environmental Policy Act]] (NEPA). The first lawsuit addresses...
 > -- *[[NoticeOfIntentToFileTwoLawsuit_18970]]*
 
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
@@ -50,3 +53,4 @@ The Totoaba is an endangered large fish species native to the Gulf of California
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]

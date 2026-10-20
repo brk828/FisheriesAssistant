@@ -56,6 +56,9 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 > This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
 > -- *[[AnInvestigationOfEndangeredAnd_12516]]*
 
+> This combined project report documents six interrelated studies examining the effects of [[Aspinall Unit]] reservoir operations on endangered fish populations in the [[Gunnison River]] and [[Colorado River]] systems during FY 1993. The studies focused on three federally endangered species:...
+> -- *[[AFiveYearStudyToInvestigateThe_11212]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -97,3 +100,4 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
 - [[RestorationPlanForRazorbackSuc_20599]]
 - [[AnInvestigationOfEndangeredAnd_12516]]
+- [[AFiveYearStudyToInvestigateThe_11212]]

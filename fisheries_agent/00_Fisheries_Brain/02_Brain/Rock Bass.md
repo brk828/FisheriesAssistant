@@ -38,6 +38,9 @@ Rock bass (Ambloplites rupestris) is a small to medium-sized centrarchid (sunfis
 > This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
 > -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
 
+> This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
+> -- *[[FishParasites_20804]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -61,3 +64,4 @@ Rock bass (Ambloplites rupestris) is a small to medium-sized centrarchid (sunfis
 - [[ConcernsAboutIntroductionOfRai_13174]]
 - [[TheIncidenceAndDistributionOfT_15429]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[FishParasites_20804]]

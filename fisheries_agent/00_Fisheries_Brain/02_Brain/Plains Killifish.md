@@ -29,6 +29,9 @@ The Plains Killifish (*Fundulus kansae*) is a small cyprinodontid fish native to
 > This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
 > -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
 ## Mentioned In
 - [[DevelopmentalRatesAndTolerance_12106]]
 - [[EffectivenessOfRotenoneInPondR_1953]]
@@ -39,3 +42,4 @@ The Plains Killifish (*Fundulus kansae*) is a small cyprinodontid fish native to
 - [[MemorandumSummarizingTheGcesBa_1992_12_31]]
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[DraftLittleColoradoRiverSpined_11662]]

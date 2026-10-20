@@ -17,9 +17,13 @@ A bog hole is a small, isolated water body or pool, typically found in desert or
 > This correspondence from the [[U.S. Forest Service]] [[Coronado National Forest]] summarizes a March 1989 work session regarding management of the [[Bog Hole]] in the [[San Rafael Valley]], Arizona. The meeting brought together representatives from [[Arizona Game and Fish Department]], [[U.S. Fish...
 > -- *[[BogHoleProjectMeetingSummary_12749]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
 ## Mentioned In
 - [[InvitationToBogHoleHabitatImpr_1989_02_03]]
 - [[ProposalToRenovateFinleyTankNa_1988_12_20]]
 - [[SuggestedAgendaItemsForDesertF_1988_12_06]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[BogHoleProjectMeetingSummary_12749]]
+- [[MinutesForDesertFishesRecovery_12506]]

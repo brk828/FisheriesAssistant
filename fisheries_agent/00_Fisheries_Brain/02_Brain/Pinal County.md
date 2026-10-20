@@ -17,7 +17,11 @@ Pinal County is a county in Arizona that contains part of Aravaipa Creek. The 19
 > This report documents the first-year monitoring results of [[Gila Topminnow]] (*Poeciliopsis o. occidentalis*) reintroductions conducted in 1982 across four [[Arizona]] National Forests under a tripartite Memorandum of Understanding between the U.S. Fish and Wildlife Service, U.S. Forest Service,...
 > -- *[[FactorsAffectingTheSuccessOfGi_12971]]*
 
+> This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
+> -- *[[BiologicalOpinionForTheBridgeC_11732]]*
+
 ## Mentioned In
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[FactorsAffectingTheSuccessOfGi_12971]]
+- [[BiologicalOpinionForTheBridgeC_11732]]

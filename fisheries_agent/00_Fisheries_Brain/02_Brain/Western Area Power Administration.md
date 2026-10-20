@@ -59,6 +59,9 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 > This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[TowardRangewideIntegrationOfRe_18628]]*
 
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[ErrataSheetFyWorkPlanForTheRec_20993]]
@@ -79,3 +82,4 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[BureauOfReclamationAnnouncesPu_20788]]
 - [[TowardRangewideIntegrationOfRe_18628]]
+- [[FiscalYearProgramGuidance_11762]]

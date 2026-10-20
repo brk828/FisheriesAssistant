@@ -50,6 +50,12 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 > This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
 > -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
 
+> This Master's thesis examines F₁ hybrids between [[Catostomus insignis]] (Sonora sucker) and [[Pantosteus clarki]] (desert mountain-sucker) from [[Aravaipa Creek]] and [[Bonita Creek]], Arizona. The study tests hypotheses of morphological and behavioral intermediacy in natural fish hybrids using...
+> -- *[[MorphologyAndFeedingBehaviorOf_15922]]*
+
+> This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
+> -- *[[GilasanFranciscoRiversResource_18256]]*
+
 ## Mentioned In
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
 - [[BlmGilaBoxAdvisoryCommitteeMee_1991_12_24]]
@@ -69,3 +75,5 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 - [[PreliminaryReviewAndAnalysisOf_11672]]
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[MorphologyAndFeedingBehaviorOf_15922]]
+- [[GilasanFranciscoRiversResource_18256]]

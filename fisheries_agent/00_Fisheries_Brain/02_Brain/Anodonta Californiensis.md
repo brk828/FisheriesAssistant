@@ -11,6 +11,10 @@ auto_enriched: true
 > **Related concepts:** [[Glochidium]] | [[Anodonta californiensis]] | [[Freshwater Mussel Life Cycle]] | [[Fish-Mollusk Parasitism]] | [[Unionidae]]
 > -- *[[ObservationOfTheGlochid_12767]]*
 
+> This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
+> -- *[[SonoranDesertExpertsWorkshop_13543]]*
+
 ## Mentioned In
 - [[FreshwaterMollusksCollectedByT_13490]]
 - [[ObservationOfTheGlochid_12767]]
+- [[SonoranDesertExpertsWorkshop_13543]]

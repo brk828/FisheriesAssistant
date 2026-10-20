@@ -11,8 +11,12 @@ auto_enriched: true
 > This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
 > -- *[[DraftEnvironmentalAssessmentLo_11489]]*
 
+> This supplemental environmental assessment, prepared by the [[U.S. Bureau of Land Management]] (BLM) Phoenix District Office in December 1983, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*)...
+> -- *[[IntroductionOfGilaTopminnowAnd_17956]]*
+
 ## Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[MinutesOfTheFebruaryDesertFish_1992_04_20]]
 - [[ChangesInRiparianVegetationAnd_14524]]
 - [[DraftEnvironmentalAssessmentLo_11489]]
+- [[IntroductionOfGilaTopminnowAnd_17956]]

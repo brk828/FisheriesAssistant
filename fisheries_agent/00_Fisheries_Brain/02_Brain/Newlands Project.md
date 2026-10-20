@@ -11,6 +11,10 @@ auto_enriched: true
 > - **Species**: *Chasmistes cujus* ([[Cui-ui]]), a member of the sucker family [[Catostomidae]], is a large, long-lived lake-dwelling fish endemic to [[Pyramid Lake]], Nevada, and listed as endangered under the U.S. Endangered Species Act. - **Document context**: The letter accompanies formal comm...
 > -- *[[CommentsOnUsfWsCuiUiRecoveryPl_1991_08_12]]*
 
+> This memorandum from the [[Cui-ui Recovery Team]] proposes quantifiable recovery criteria for the endangered [[Cui-ui]] (*Chasmistes cujus*), an endemic sucker of [[Pyramid Lake]], Nevada. The document establishes probability-based persistence thresholds tied to specific water inflow targets:...
+> -- *[[RecoveryObjectiveForDraftCuiui_14622]]*
+
 ## Mentioned In
 - [[CommentsOnUsfWsCuiUiRecoveryPl_1991_08_12]]
 - [[CuiUiRecoveryTeamMeeting_1990_11_29]]
+- [[RecoveryObjectiveForDraftCuiui_14622]]

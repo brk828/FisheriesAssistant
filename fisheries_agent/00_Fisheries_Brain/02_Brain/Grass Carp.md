@@ -44,6 +44,12 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 > This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
 > -- *[[ArizonaComparativeRiskProjectE_15833]]*
 
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
+> -- *[[RainbowSmeltProposalReview_17848]]*
+
 ## Mentioned In
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -72,3 +78,5 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 - [[SamplingAtAsuResearchParkAutum_19458]]
 - [[ResultsOfFishMonitoringOfSelec_13200]]
 - [[ArizonaComparativeRiskProjectE_15833]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[RainbowSmeltProposalReview_17848]]

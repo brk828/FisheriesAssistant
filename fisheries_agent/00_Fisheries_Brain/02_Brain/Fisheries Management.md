@@ -26,6 +26,9 @@ Fisheries Management encompasses the science and practice of sustainably regulat
 > A 1957 survey of U.S. state fisheries programs reveals widespread adoption of scuba diving as a fisheries management tool. Of responding states (89.6% response rate), 14 states actively use scuba diving, four plan to implement it, and one utilizes volunteer skin diving clubs. The technology enables...
 > -- *[[StatesIncorporateScubaDivingIn_16035]]*
 
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[ASystemForRecordingMeasurement_1947]]
@@ -40,3 +43,4 @@ Fisheries Management encompasses the science and practice of sustainably regulat
 - [[StationProfileOfTheGenoaNation_1993]]
 - [[TheRealPartnershipQuestion_1994_07_29]]
 - [[StatesIncorporateScubaDivingIn_16035]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]

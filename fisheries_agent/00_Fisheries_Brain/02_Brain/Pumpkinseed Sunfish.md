@@ -23,6 +23,9 @@ The pumpkinseed sunfish (Lepomis gibbosus) is a small, highly adaptable centrarc
 > **Maximum recorded egg counts (per female, Carlander data):** | Species | Max. Egg Count | |---|---| | [[Largemouth Bass]] | 109,311 | | [[Smallmouth Bass]] | 20,825 | | [[Bluegill]] | 32,950 | | [[Pumpkinseed Sunfish]] | 2,923 | | [[Yellow Perch]] | 48,000 | | [[Northern Pike]] | 272,160 | | [[W...
 > -- *[[StockingWarmWaterFishMichiganF_14376]]*
 
+> This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
+> -- *[[FishParasites_20804]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[FeedingDyesToCarp_16186]]
@@ -30,3 +33,4 @@ The pumpkinseed sunfish (Lepomis gibbosus) is a small, highly adaptable centrarc
 - [[RatesOfSurvivalAndGrowthOfBlue_12437]]
 - [[SomeObservationsOnLimnologyAnd_1954]]
 - [[StockingWarmWaterFishMichiganF_14376]]
+- [[FishParasites_20804]]

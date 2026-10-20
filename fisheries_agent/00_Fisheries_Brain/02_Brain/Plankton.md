@@ -17,8 +17,16 @@ Plankton comprises the microscopic and small organisms suspended in aquatic envi
 > - **Watershed–Reservoir Linkage:** The watershed is identified as the primary determinant of water quality/quantity entering a reservoir, directly influencing the [[Aquatic Food Chain]] supporting fish production. - **Case Study — Roosevelt Reservoir Siltation:** Selective logging along streams o...
 > -- *[[WaterDevelopmentVersusTheNatur_18589]]*
 
+> This 1948 report documents the introduction and establishment of [[Kokanee]] (Oncorhynchus nerka kennerlyi), a landlocked form of [[Pacific Sockeye Salmon]], into California waters beginning in 1941. The [[Bureau of Fish Conservation]] initiated experimental plantings in [[Salt Springs Reservoir]]...
+> -- *[[KokaneeInCalifornia_18108]]*
+
+> This 1954 report by Chief Aquatic Biologist John R. Greeley summarizes the rapidly-growing salmon fishery program in New York State lakes, involving two distinct species: [[Landlocked Salmon]] (Atlantic salmon, *Salmo salar*) and [[Red Salmon]] (Pacific sockeye, *Oncorhynchus nerka*). The program,...
+> -- *[[SalmonInNewYork_19216]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[EineNeueMethodeDerQuantitative_1966]]
 - [[ObservationsOnTheFoodOfCladoce_16410]]
 - [[WaterDevelopmentVersusTheNatur_18589]]
+- [[KokaneeInCalifornia_18108]]
+- [[SalmonInNewYork_19216]]

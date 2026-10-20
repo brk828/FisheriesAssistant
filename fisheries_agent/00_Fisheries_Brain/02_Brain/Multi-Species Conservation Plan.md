@@ -23,9 +23,13 @@ A Multi-Species Conservation Plan is an integrated management and protection str
 > This document comprises expert commentary from Dr. W.L. Minckley (Arizona State University) on the U.S. Fish & Wildlife Service's Biological Opinion (BO) for Lower Colorado River operations and maintenance. The correspondence, dated July 10, 1997, critiques the BO's approach to recovering...
 > -- *[[CommentsOnFinalBiologicalAndCo_14379]]*
 
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
 ## Mentioned In
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
 - [[CommentsOnTheFinalBiologicalAn_1997_07_25]]
 - [[CommentsOnTheUSFishAndWildlife_1997_07_25]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
 - [[CommentsOnFinalBiologicalAndCo_14379]]
+- [[DraftLowerColoradoRiverOperati_13907]]

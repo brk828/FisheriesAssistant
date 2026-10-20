@@ -23,6 +23,9 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
 > -- *[[DraftRecoveryImplementationPro_11643]]*
 
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
 ## Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -30,3 +33,4 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[SummaryjanuaryManagementGroupM_21002]]
 - [[DraftRecoveryImplementationPro_11643]]
+- [[DraftFiveyearRoadMap_11579]]

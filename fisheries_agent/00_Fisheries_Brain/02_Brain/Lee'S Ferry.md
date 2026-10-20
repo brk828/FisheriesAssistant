@@ -56,6 +56,12 @@ Lee's Ferry is a cold-water tailwater reach of the Colorado River located immedi
 > This document summarizes a three-day workshop (November 8-10, 1999) at Saguaro Lake Ranch convened to evaluate a proposed temperature control device (TCD) for [[Glen Canyon Dam]]. The workshop brought together scientists, resource managers, and conservationists to provide input on research and...
 > -- *[[GlenCanyonDamTemperatureContro_17019]]*
 
+> This draft appraisal report, dated June 14, 1994, evaluates methods to study and implement temperature controls at [[Glen Canyon Dam]] for the recovery of native and endangered fishes below the dam. Cold water discharges (8-10°C year-round) from the dam's deep hypolimnetic releases severely limit...
+> -- *[[GlenCanyonDamDischargeTemperat_11486]]*
+
+> This document is a draft research plan developed by Dr. Duncan Patten and core scientists for the [[Glen Canyon Environmental Studies]] (GCES) program, presented to the Executive Review Committee in February 1990. The plan proposes a comprehensive series of controlled discharge experiments from...
+> -- *[[GlenCanyonEnvironmentalStudies_19687]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -80,3 +86,5 @@ Lee's Ferry is a cold-water tailwater reach of the Colorado River located immedi
 - [[TailwatersFisheriesInvestigati_14584]]
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[GlenCanyonDamTemperatureContro_17019]]
+- [[GlenCanyonDamDischargeTemperat_11486]]
+- [[GlenCanyonEnvironmentalStudies_19687]]

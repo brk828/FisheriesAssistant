@@ -14,6 +14,10 @@ Cerro Prieto is a location in the Lower Colorado River Delta region where a dese
 > This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
 > -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
 
+> This trip report documents a November 10-12, 1990 field survey of known [[Desert Pupfish]] (*Cyprinodon macularius macularius*) populations in the [[Colorado River Delta]] region of Sonora and Baja California, Mexico. Conducted by Sally Stefferud (U.S. Fish and Wildlife Service) and Jerry Stefferud...
+> -- *[[TripReportSamplingOfMexicanPop_14780]]*
+
 ## Mentioned In
 - [[GeneticVariationInDesertPupfis_15731]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[TripReportSamplingOfMexicanPop_14780]]

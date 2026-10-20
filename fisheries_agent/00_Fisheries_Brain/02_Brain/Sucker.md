@@ -29,6 +29,9 @@ Suckers are freshwater fish of the family Catostomidae, commonly represented by 
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This document is an excerpt from an anthropological paper (Papers in Anthropology No. 17) by Anne M. Smith documenting Northern Utes linguistic terminology and cultural practices. The material includes phonetic transcriptions of directional terms, fauna classifications, and fish nomenclature in the...
+> -- *[[EthnographyOfTheNorthernUtes_21134]]*
+
 ## Mentioned In
 - [[FishPopulationConceptsAndManag_1949_03_07]]
 - [[RadioactiveMaterialsInAquaticA_13967]]
@@ -36,3 +39,4 @@ Suckers are freshwater fish of the family Catostomidae, commonly represented by 
 - [[ToxicFreshWaterAlgae_14366]]
 - [[AnEconomicStudyOfTheProcessing_15621]]
 - [[WhatHaveICaught_12929]]
+- [[EthnographyOfTheNorthernUtes_21134]]

@@ -29,6 +29,9 @@ The Owens Valley represents a significant case study in the historical transitio
 > This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
 > -- *[[FishesAndAquaticResourcesDeath_15415]]*
 
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[DesertPupfishesReflectionsOnRe_11118]]
@@ -36,3 +39,4 @@ The Owens Valley represents a significant case study in the historical transitio
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[FishesAndAquaticResourcesDeath_15415]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]

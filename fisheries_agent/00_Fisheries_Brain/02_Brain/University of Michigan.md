@@ -29,6 +29,9 @@ The University of Michigan has been a significant institutional contributor to i
 > This document presents a comprehensive overview of the exceptional aquatic and semi-aquatic fauna of the [[Cuatro Ciénegas Basin]] in [[Coahuila]], [[Mexico]]. The basin contains an extraordinarily diverse assemblage of organisms for a desert region, including 18 fish species (10 endemic to the...
 > -- *[[ASummaryOfInformationAboutTheA_18574]]*
 
+> This experimental study documents 12 years (1932-1944) of breeding experiments with [[Mollienisia formosa]], the Amazon Molly, a viviparous fish species in which no males have ever been found. Approximately 8,000 individuals representing 20 generations were bred at the Museum of Zoology,...
+> -- *[[ExperimentalBreedingOfTheAmazo_14310]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -41,3 +44,4 @@ The University of Michigan has been a significant institutional contributor to i
 - [[TaxonomicStatusEcologyAndDistr_14514]]
 - [[TilapiaAtCuatroCienegasMexico_15378]]
 - [[ASummaryOfInformationAboutTheA_18574]]
+- [[ExperimentalBreedingOfTheAmazo_14310]]

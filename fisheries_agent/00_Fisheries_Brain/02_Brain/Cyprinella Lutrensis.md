@@ -23,6 +23,9 @@ Cyprinella lutrensis, commonly known as the Red Shiner, is a small-bodied cyprin
 > This document comprises museum correspondence and specimen records from May 1995 regarding holdings of [[Cyprinella formosa]] (Beautiful Shiner) from the [[Mimbres River]] in [[New Mexico]]. The records document specimens held at the Museum of Southwestern Biology (MSB) and the University of...
 > -- *[[CyprinellaFormosaMimbresRiverE_21256]]*
 
+> This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
+> -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
+
 ## Mentioned In
 - [[LetterToWLMinckleyRegardingSpi_1987_03_27]]
 - [[NotesFromAugustMeetingOnFishBa_1994_09_28]]
@@ -31,3 +34,4 @@ Cyprinella lutrensis, commonly known as the Red Shiner, is a small-bodied cyprin
 - [[ReviewOfTheDraftReportEntitled_12980]]
 - [[ReviewOfTheDraftReportEntitled_12983]]
 - [[CyprinellaFormosaMimbresRiverE_21256]]
+- [[NotesFromFieldWorkInTheCuatroc_12737]]

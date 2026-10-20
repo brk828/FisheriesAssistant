@@ -74,6 +74,9 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 > This document comprises correspondence dated December 19, 1990, from Dr. Salvador Contreras Balderas ([[Universidad Autonoma de Nuevo Leon]], Faculty of Biological Sciences) to Dr. W.L. Minckley ([[Arizona State University]]), along with Dr. Contreras Balderas's comprehensive curriculum vitae. The...
 > -- *[[CvForNewProposal_17525]]*
 
+> Two administrative memoranda from the [[Desert Fishes Council]] dated May 31, 1990, announcing organizational changes and soliciting financial support for a major conservation biology publication. The correspondence documents the retirement of Executive Secretary E.P. Pister from the [[California...
+> -- *[[UpdatesFromEpPister_12831]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -186,3 +189,4 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[CaseStudyColoradoRiverSqauwfis_16101]]
 - [[CvForNewProposal_17525]]
+- [[UpdatesFromEpPister_12831]]

@@ -26,8 +26,12 @@ Diaptomus is a genus of calanoid copepods that serves as an important component 
 > This report documents the second year (February 1, 1965 - January 31, 1966) of cooperative fisheries investigation at [[Lake Powell]] ([[Glen Canyon Reservoir]]) conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. The study combined systematic creel census...
 > -- *[[GlenCanyonUnitcoloradoRiverSto_14583]]*
 
+> This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
+> -- *[[LakePowellFisheriesInvestigati_14595]]*
+
 ## Mentioned In
 - [[ContrastsAmongCalanoidCopepods_16016]]
 - [[LimnologicalInvestigationsInAr_1963]]
 - [[NotesOnTheCalanoidAndCyclopoid_16005]]
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
+- [[LakePowellFisheriesInvestigati_14595]]

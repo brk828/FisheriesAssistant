@@ -20,6 +20,12 @@ The Coconino National Forest represents a critical management jurisdiction encom
 > The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
 > -- *[[EndangeredAndThreatenedWildlif_11564]]*
 
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
+> This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
+> -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
+
 ## Mentioned In
 - [[LetterAndDraftAgendaForTheAriz_1993_09_07]]
 - [[LetterRegardingRazorbackSucker_1990_05_31]]
@@ -27,3 +33,5 @@ The Coconino National Forest represents a critical management jurisdiction encom
 - [[LetterToWLMinckleyOnLittleColo_1987_01_26]]
 - [[VerdeRiverTemperatureRecorderD_1992_04_02]]
 - [[EndangeredAndThreatenedWildlif_11564]]
+- [[CurrentStatusOfEndangeredThrea_12695]]
+- [[NewSpeciesOfNorthAmericanDelto_21086]]

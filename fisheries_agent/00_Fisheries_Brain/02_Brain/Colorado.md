@@ -47,6 +47,9 @@ The Colorado River, in the context of fish science and conservation, refers to a
 > This three-year study (1952-1954) of [[Forest Lake]], a 32.5-acre reservoir on [[Grand Mesa]] in [[Delta County]], [[Colorado]], evaluated marked fish returns, creel census data, food utilization, limnology, and age-growth characteristics of [[Rainbow Trout]], [[Brook Trout]], and [[Native Trout]]...
 > -- *[[ForestLakeMarkedFishStudies_15614]]*
 
+> This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
+> -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
@@ -60,3 +63,4 @@ The Colorado River, in the context of fish science and conservation, refers to a
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[SummaryStatementOfInsightsFrom_20854]]
 - [[ForestLakeMarkedFishStudies_15614]]
+- [[NewSpeciesOfNorthAmericanDelto_21086]]

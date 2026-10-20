@@ -20,6 +20,10 @@ auto_enriched: true
 > While this is not a fish morphology study, the report provides detailed age- and horn-morphology-based mortality data for [[Desert Bighorn Sheep]]:
 > -- *[[HighwayCoordination_1967_03_31]]*
 
+> This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
+> -- *[[SonoranDesertExpertsWorkshop_13543]]*
+
 ## Mentioned In
 - [[HighwayCoordination_1966]]
 - [[HighwayCoordination_1967_03_31]]
+- [[SonoranDesertExpertsWorkshop_13543]]

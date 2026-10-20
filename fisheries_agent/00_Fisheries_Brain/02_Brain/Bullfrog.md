@@ -53,6 +53,12 @@ In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates cates
 > This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
 > -- *[[FisheryManagementForTheSanBern_18979]]*
 
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
+> This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
+> -- *[[GilasanFranciscoRiversResource_18256]]*
+
 ## Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[FoodsOfImpoundmentAndStreamDwe_1963]]
@@ -71,3 +77,5 @@ In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates cates
 - [[MichiganFishPredators_12681]]
 - [[BeaverScoping_18972]]
 - [[FisheryManagementForTheSanBern_18979]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]
+- [[GilasanFranciscoRiversResource_18256]]

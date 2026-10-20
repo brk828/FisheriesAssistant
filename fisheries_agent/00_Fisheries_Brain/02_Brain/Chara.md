@@ -26,6 +26,18 @@ Chara is an aquatic macrophyte (stonewort) that serves as critical habitat struc
 > This completion report (1972-1975) documents the environmental impacts of pumped-storage hydroelectric generation on the lower Salt River reservoir chain in Central Arizona. The study focused on [[Canyon Lake]] and [[Saguaro Lake]], two desert reservoirs subjected to massive operational...
 > -- *[[InfluenceOfPumpStorageAndGener_15886]]*
 
+> This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
+> -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
+
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
+> This educational article from the New York State Conservationist examines the ecological importance of algae in freshwater systems, their role in aquatic food chains, and management considerations for controlling excessive algal growth. The document addresses common concerns about algae control...
+> -- *[[Algae_19232]]*
+
+> This is a research proposal submitted by Dr. Arland T. Hotchkiss, Associate Professor of Biology at the [[University of Louisville]], requesting continued NSF support for a three-year cytotaxonomic study of the [[Characeae]] (charophytes). The proposal seeks funding from September 1, 1961 to...
+> -- *[[ProposalForContinuedSupportOfN_19929]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -35,3 +47,7 @@ Chara is an aquatic macrophyte (stonewort) that serves as critical habitat struc
 - [[WeedControlPossibilitiesInMass_14648]]
 - [[TheBearingOfCytologicalAndCert_19928]]
 - [[InfluenceOfPumpStorageAndGener_15886]]
+- [[NotesFromFieldWorkInTheCuatroc_12737]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]
+- [[Algae_19232]]
+- [[ProposalForContinuedSupportOfN_19929]]

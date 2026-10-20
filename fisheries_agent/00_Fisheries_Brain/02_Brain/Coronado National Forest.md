@@ -41,6 +41,9 @@ The Coronado National Forest in southeastern Arizona is a critical management ar
 > This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
 > -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
 ## Mentioned In
 - [[ConsultantAppointmentCorrespon_1986_04_16]]
 - [[FederalEndangeredFishSpeciesCo_1993_11_19]]
@@ -60,3 +63,4 @@ The Coronado National Forest in southeastern Arizona is a critical management ar
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[MinutesForDesertFishesRecovery_12506]]

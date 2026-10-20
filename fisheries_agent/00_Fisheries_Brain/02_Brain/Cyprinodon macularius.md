@@ -62,6 +62,12 @@ Cyprinodon macularius, commonly known as the desert pupfish, is a small-bodied c
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
+> -- *[[SonoranDesertExpertsWorkshop_13543]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
@@ -111,3 +117,5 @@ Cyprinodon macularius, commonly known as the desert pupfish, is a small-bodied c
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
 - [[BeaverScoping_18972]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[SonoranDesertExpertsWorkshop_13543]]

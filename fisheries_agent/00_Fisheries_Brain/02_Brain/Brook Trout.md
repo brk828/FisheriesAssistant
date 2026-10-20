@@ -107,6 +107,12 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > This study examined the effects of size-sorting on sex ratios and growth rates in [[Brown Trout]] (Salmo trutta) fingerlings at the [[Randolph Hatchery]] in New York. Researchers individually tagged and tracked four sorted size groups over one year (September 1956 to September 1957). Key findings...
 > -- *[[EffectOfSortingBrownTroutOnSex_20693]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
+> This experimental study compared an all-pellet dry food diet with a traditional pellet-plus-meat diet for [[Brook Trout]] and [[Brown Trout]] in New York State hatcheries from November 1957 through April 1958. Nine pairs of hatchery ponds across six facilities were used to evaluate growth,...
+> -- *[[PelletedDryFoodAsATotalDietFor_20344]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -209,3 +215,5 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[TroutOrSalmon_19215]]
 - [[TheMontanaGraylingInMichigan_20282]]
 - [[EffectOfSortingBrownTroutOnSex_20693]]
+- [[DraftLittleColoradoRiverSpined_11662]]
+- [[PelletedDryFoodAsATotalDietFor_20344]]

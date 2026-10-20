@@ -44,6 +44,9 @@ Havasu Creek is a cooler tributary stream within the Grand Canyon that serves as
 > This document presents a comprehensive summary of collecting localities for the [[Humpback Chub]] (*Gila cypha*) from the [[Colorado River]] and selected tributaries in [[Coconino County]] and [[Mohave County]], Arizona, spanning from archaeological remains (4000 years B.P.) through 1979....
 > -- *[[SummaryOfCollectingLocalitiesF_18502]]*
 
+> This document is a draft research plan developed by Dr. Duncan Patten and core scientists for the [[Glen Canyon Environmental Studies]] (GCES) program, presented to the Executive Review Committee in February 1990. The plan proposes a comprehensive series of controlled discharge experiments from...
+> -- *[[GlenCanyonEnvironmentalStudies_19687]]*
+
 ## Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DiscussionOfBiowestSWorkPlan_1991_09_23]]
@@ -64,3 +67,4 @@ Havasu Creek is a cooler tributary stream within the Grand Canyon that serves as
 - [[HabitatUseByHumpbackChubGilaCy_11575]]
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
 - [[SummaryOfCollectingLocalitiesF_18502]]
+- [[GlenCanyonEnvironmentalStudies_19687]]

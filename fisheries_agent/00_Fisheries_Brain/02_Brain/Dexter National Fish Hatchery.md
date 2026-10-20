@@ -191,6 +191,24 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This comprehensive review by [[Peter S. Maitland]] examines the global status of fish conservation, covering approximately 30,000 described fish species worldwide. Despite fish representing three in every five vertebrate species, they have historically received minimal conservation attention...
 > -- *[[TheConservationOfFishPastAndPr_19359]]*
 
+> This recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]], supersedes the original 1978 recovery plan for the endangered [[Humpback Chub]] (*Gila cypha*). The plan synthesizes research conducted since 1978 and establishes...
+> -- *[[RecoveryPlanForTheHumpbackChub_11544]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
+> -- *[[MinutesForDesertFishesRecovery_12506]]*
+
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
+> This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
+> -- *[[EnvironmentalAssessmentForNati_13228]]*
+
+> This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
+> -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
+
+> This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
+> -- *[[ProposedActionPlanForReintrodu_19433]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -374,3 +392,9 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[CaseStudyColoradoRiverSqauwfis_16101]]
 - [[RazorbackSuckerXyrauchenTexanu_18008]]
 - [[TheConservationOfFishPastAndPr_19359]]
+- [[RecoveryPlanForTheHumpbackChub_11544]]
+- [[MinutesForDesertFishesRecovery_12506]]
+- [[CurrentStatusOfEndangeredThrea_12695]]
+- [[EnvironmentalAssessmentForNati_13228]]
+- [[DetailsForStudiesOfTheGenusGil_13739]]
+- [[ProposedActionPlanForReintrodu_19433]]

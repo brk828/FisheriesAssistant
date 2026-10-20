@@ -32,6 +32,9 @@ Cuatro Ciénegas is a globally significant desert spring ecosystem in the Chihua
 > This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
 > -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
 
+> This document contains two pieces of correspondence from September 1987 regarding the proposed "Fraccionamiento Campestre Las Tortugas" (Las Tortugas Country Subdivision) development near [[Cuatro Ciénegas]], [[Coahuila]], [[Mexico]]. The first letter (September 10, 1987) from Bertha Laura G. de...
+> -- *[[SaleOfLandInLasTortugasNearThe_12870]]*
+
 ## Mentioned In
 - [[ARemarkableSnailFaunaFromCoahu_1966]]
 - [[AlonzoRiosContreras_20775]]
@@ -59,3 +62,4 @@ Cuatro Ciénegas is a globally significant desert spring ecosystem in the Chihua
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[CuatroCienegasWatershedCoahuil_16108]]
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[SaleOfLandInLasTortugasNearThe_12870]]

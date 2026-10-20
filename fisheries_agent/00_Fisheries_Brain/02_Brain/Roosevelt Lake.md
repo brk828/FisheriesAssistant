@@ -47,6 +47,9 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 > This report presents findings from the Globe-Miami National Prototype Groundwater Study, a collaborative investigation funded by the [[U.S. Environmental Protection Agency]] ($450,000), three active mining companies ($138,045), and the [[U.S. Bureau of Mines]] ($125,100). The study examined water...
 > -- *[[MiningActivitiesAndWaterQualit_21102]]*
 
+> This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
+> -- *[[CommercialFisheriesPotentialOf_18584]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AlbinisticCarpCyprinusCarpioFr_1968_04_18]]
@@ -69,3 +72,4 @@ Roosevelt Lake is a major reservoir on the Salt River in the Gila River drainage
 - [[InfluenceOfPumpStorageAndGener_15886]]
 - [[VerticalDistributionOfFishesRe_18202]]
 - [[MiningActivitiesAndWaterQualit_21102]]
+- [[CommercialFisheriesPotentialOf_18584]]

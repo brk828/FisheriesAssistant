@@ -14,7 +14,11 @@ auto_enriched: true
 > This Bureau of Reclamation memorandum (October 16, 1981) presents a biological assessment of the proposed [[Hoover Dam]] Powerplant Modification Project's impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in accordance with Section 7 of the...
 > -- *[[BiologicalAssessmentOfTheImpac_16261]]*
 
+> This final report (Contract 14-06-300-2210, 1971) presents an integrated study of chemistry, hydrobiology, and hydrodynamics in [[Lake Mead]], conducted by the University of Arizona for the U.S. Bureau of Reclamation. The investigation examined eight sampling stations across the reservoir's four...
+> -- *[[MicronutrientsAndBiologicalPat_11436]]*
+
 ## Mentioned In
 - [[PotentialUseOfHydroelectricFac_11245]]
 - [[InformalSectionConsultationReP_13297]]
 - [[BiologicalAssessmentOfTheImpac_16261]]
+- [[MicronutrientsAndBiologicalPat_11436]]

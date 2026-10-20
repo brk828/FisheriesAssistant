@@ -32,6 +32,9 @@ Lake Mead National Recreation Area is a federally managed landscape encompassing
 > This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
 > -- *[[LakeMohaveSamplingMarch_20326]]*
 
+> This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
+> -- *[[EnvironmentalAssessmentForNati_13228]]*
+
 ## Mentioned In
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
 - [[EffectsOfInterimFlowsFromGlenC_1993_04_17]]
@@ -46,3 +49,4 @@ Lake Mead National Recreation Area is a federally managed landscape encompassing
 - [[RequestForProposalspresubmitta_18342]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
 - [[LakeMohaveSamplingMarch_20326]]
+- [[EnvironmentalAssessmentForNati_13228]]

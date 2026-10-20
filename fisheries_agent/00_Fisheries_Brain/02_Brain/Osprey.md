@@ -32,6 +32,9 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 > This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
 > -- *[[MichiganFishPredators_12681]]*
 
+> This study examined movements of [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] within [[Grand Canyon]], Arizona from October 1990 through November 1993, evaluating effects of [[Glen Canyon Dam]] operations on movement patterns. Using radiotelemetry (75 radio-tagged adults) and PIT-tag...
+> -- *[[MovementOfHumpbackChubInTheCol_13639]]*
+
 ## Mentioned In
 - [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
 - [[ColoradoRiverTrophicStudiesMee_1991_07_23]]
@@ -42,3 +45,4 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 - [[CharacterizationOfTheLifeHisto_13649]]
 - [[WildlifeStudiesDenverWildlifeR_14329]]
 - [[MichiganFishPredators_12681]]
+- [[MovementOfHumpbackChubInTheCol_13639]]

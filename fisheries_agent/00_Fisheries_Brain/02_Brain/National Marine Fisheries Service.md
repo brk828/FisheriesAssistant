@@ -44,6 +44,9 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This document presents the final rule amending 50 CFR Part 424, establishing revised procedures for listing endangered and threatened species and designating critical habitat under the [[Endangered Species Act]] (ESA). Published October 1, 1984, by the [[U.S. Fish and Wildlife Service]] and...
 > -- *[[ListingEndangeredAndThreatened_13309]]*
 
+> This 1994 U.S. District Court opinion addresses a legal challenge by the [[Idaho Department of Fish and Game]] (IDFG) against the [[National Marine Fisheries Service]] (NMFS) regarding the operation of the [[Federal Columbia River Power System]] (FCRPS) and its impacts on three listed [[Snake...
+> -- *[[SalmonDecision_19385]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -67,3 +70,4 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[InteriorPublishesProposedNoSup_14551]]
 - [[AnAnnotatedBibliographyOfAttem_15220]]
 - [[ListingEndangeredAndThreatened_13309]]
+- [[SalmonDecision_19385]]

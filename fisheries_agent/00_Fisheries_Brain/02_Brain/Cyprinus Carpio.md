@@ -38,6 +38,12 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
+> -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
+
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -61,3 +67,5 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 - [[AquacultureInFreshWatersAListO_15987]]
 - [[FibrousMaterialAndHardwareTheo_15559]]
 - [[BeaverScoping_18972]]
+- [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[EvaluationAndRelativeResistanc_19097]]

@@ -41,6 +41,9 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 > This document announces public meetings (April 14-17, 1986) regarding the Bureau of Reclamation's Upper Gila Water Supply Study and selection of a proposed action for the Draft Environmental Impact Statement. The study evaluates six alternative plans (including a "No Federal Action" option) to...
 > -- *[[PublicMeetingsAnnoucnementAndP_11475]]*
 
+> This administrative notice, issued July 6, 1970, by the Bureau of Land Management announces a temporary closure of the [[Aravaipa Canyon]] Primitive Area to all motorized vehicles. The closure was implemented to prevent damage to primitive and environmental resource values caused by increasing...
+> -- *[[NoticeOfRestrictedVehicleUseTe_18773]]*
+
 ## Mentioned In
 - [[AravaipaShinerSurveyJuly_1998_07_10]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -61,3 +64,4 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 - [[FieldNotesOfTripToSanBernardin_13172]]
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[PublicMeetingsAnnoucnementAndP_11475]]
+- [[NoticeOfRestrictedVehicleUseTe_18773]]

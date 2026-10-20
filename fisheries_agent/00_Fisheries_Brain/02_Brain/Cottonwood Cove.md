@@ -29,6 +29,9 @@ Cottonwood Cove is a shallow nearshore habitat zone in Lake Mohave characterized
 > This document records experimental gill netting and electrofishing surveys conducted on [[Lake Mohave]] in May 1986 targeting [[Razorback Sucker]] (*Xyrauchen texanus*). The survey captured 68 razorback suckers via gill netting (26 net nights effort) and 18 via electrofishing (202 minutes effort),...
 > -- *[[LakeMohaveExperimentalGillNett_18275]]*
 
+> This biological opinion (2-21-94-F-244) evaluates the U.S. Fish and Wildlife Service's program to stock catchable-size (8-10 inch) [[Rainbow Trout]] and [[Channel Catfish]] into the lower [[Colorado River]] from [[Hoover Dam]] to the International Border. The consultation addresses potential...
+> -- *[[SummaryBiologicalOpinionOnUsFi_11657]]*
+
 ## Mentioned In
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
@@ -37,3 +40,4 @@ Cottonwood Cove is a shallow nearshore habitat zone in Lake Mohave characterized
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
 - [[DemographicsAndMonitoringOfRep_2020]]
 - [[LakeMohaveExperimentalGillNett_18275]]
+- [[SummaryBiologicalOpinionOnUsFi_11657]]

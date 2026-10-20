@@ -11,7 +11,11 @@ auto_enriched: true
 > This 1907 publication by [[David Starr Jordan]] and [[Robert Earl Richardson]] describes a new species of killifish, *[[Lucania browni]]*, collected from a hot spring in northeastern [[Lower California]] (Baja California). Six specimens were obtained by [[Herbert Brown]] from water at 128°F (53°C),...
 > -- *[[DescriptionOfANewSpeciesOfKill_19850]]*
 
+> This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
+> -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
+
 ## Mentioned In
 - [[ArtificialHybridizationOfCreni_14299]]
 - [[OriginAndEvolutionOfTheFishesO_1962_12_10]]
 - [[DescriptionOfANewSpeciesOfKill_19850]]
+- [[NotesFromFieldWorkInTheCuatroc_12737]]

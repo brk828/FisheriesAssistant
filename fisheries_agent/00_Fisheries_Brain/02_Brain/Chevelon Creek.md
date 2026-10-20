@@ -23,6 +23,9 @@ Chevelon Creek is a tributary of the Little Colorado River in Arizona that serve
 > The U.S. Fish and Wildlife Service issued a final rule on September 16, 1987, determining [[Lepidomeda vittata]] ([[Little Colorado Spinedace]]) to be a threatened species under the [[Endangered Species Act]] of 1973. This native Arizona cyprinid, generally less than 10 centimeters (4 inches) in...
 > -- *[[EndangeredAndThreatenedWildlif_11564]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
 ## Mentioned In
 - [[LittleColoradoRiverSpinedaceSu_1991_07_29]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
@@ -30,3 +33,4 @@ Chevelon Creek is a tributary of the Little Colorado River in Arizona that serve
 - [[RequestToAmendCommissionOrderF_1997_09_30]]
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[EndangeredAndThreatenedWildlif_11564]]
+- [[DraftLittleColoradoRiverSpined_11662]]

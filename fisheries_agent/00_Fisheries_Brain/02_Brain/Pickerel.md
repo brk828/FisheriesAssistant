@@ -20,6 +20,9 @@ Pickerel refers to a guild of game fish species within freshwater ecosystems, pr
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
+> -- *[[FishParasites_20804]]*
+
 ## Mentioned In
 - [[AnElectricalSurfaceDeviceForCa_16181]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
@@ -27,3 +30,4 @@ Pickerel refers to a guild of game fish species within freshwater ecosystems, pr
 - [[WeedControlPossibilitiesInMass_14648]]
 - [[Perch_16750]]
 - [[WhatHaveICaught_12929]]
+- [[FishParasites_20804]]

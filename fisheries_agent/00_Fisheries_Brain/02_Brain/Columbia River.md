@@ -50,6 +50,12 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 > This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
 > -- *[[NativeRockyMountainTroutAndSto_17773]]*
 
+> The [[Sacramento Squawfish]] (*Ptychocheilus grandis*) is a large native minnow endemic to California's [[Sacramento-San Joaquin River System]] and select coastal drainages. Historically the top fish predator in its ecosystem, it now coexists with introduced predatory species including [[Smallmouth...
+> -- *[[TheSacramentoSquawfish_13255]]*
+
+> This 1994 U.S. District Court opinion addresses a legal challenge by the [[Idaho Department of Fish and Game]] (IDFG) against the [[National Marine Fisheries Service]] (NMFS) regarding the operation of the [[Federal Columbia River Power System]] (FCRPS) and its impacts on three listed [[Snake...
+> -- *[[SalmonDecision_19385]]*
+
 ## Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AccumulationAndRetentionOfRadi_1957]]
@@ -80,3 +86,5 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 - [[EvolutionaryRelationshipsOfThe_19110]]
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
 - [[NativeRockyMountainTroutAndSto_17773]]
+- [[TheSacramentoSquawfish_13255]]
+- [[SalmonDecision_19385]]

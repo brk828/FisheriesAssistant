@@ -65,6 +65,9 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 > This performance report documents the second year (July 1980 - June 1981) of a three-year investigation into the biological impacts of fluctuating water levels on the [[Colorado River]] fishery below [[Glen Canyon Dam]]. The study area extends from the dam to the [[Paria River]] confluence,...
 > -- *[[StatewideFisheriesResearch_13299]]*
 
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
 ## Mentioned In
 - [[APopulationOfDwarfCoastrangeSc_1960]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -133,3 +136,4 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 - [[CreelCensusReport_11332]]
 - [[AnInvestigationOfEndangeredAnd_12516]]
 - [[StatewideFisheriesResearch_13299]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]

@@ -29,6 +29,12 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 > This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
 > -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
 
+> This memorandum documents the relocation of 20 [[Humpback Sucker]] (HBS) from the 1974 cohort to [[West Pond]] in [[Imperial County]], California on July 16, 1980. The fish, originally received from [[Willow Beach National Fish Hatchery]], were marked and tagged using multiple methods including...
+> -- *[[RelocationOfTheCohortHbsReceiv_11428]]*
+
+> This article describes conservation efforts in Colorado to save four unique big-river fish species found nowhere else on Earth: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Humpback Sucker]] (*Xyrauchen texanus*)....
+> -- *[[SavingColoradosBigRiverFish_20737]]*
+
 ## Mentioned In
 - [[ArthropodsAndVertebratesOfAriz_16220]]
 - [[ChangesInNativeFishDistributio_1973]]
@@ -39,3 +45,5 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 - [[SpecialFisheriesReportOnProjec_1961_11_16]]
 - [[BiologicalAssessmentOfTheImpac_16261]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[RelocationOfTheCohortHbsReceiv_11428]]
+- [[SavingColoradosBigRiverFish_20737]]

@@ -86,6 +86,12 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
 > -- *[[WrittenCommentsOnSupplementToD_20523]]*
 
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
+> This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
+> -- *[[GlenCanyonEnvironmentalStudies_19734]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -135,3 +141,5 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 - [[ImperialPondsConservationAreaA_2020]]
 - [[BeaverScoping_18972]]
 - [[WrittenCommentsOnSupplementToD_20523]]
+- [[BiologicalEvaluationOfTheAppro_15074]]
+- [[GlenCanyonEnvironmentalStudies_19734]]

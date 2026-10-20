@@ -23,6 +23,9 @@ auto_enriched: true
 > This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
 > -- *[[FisheryManagementForTheSanBern_18979]]*
 
+> This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
+> -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
+
 ## Mentioned In
 - [[InvestigationOfTheUnlinedCoach_17022]]
 - [[EndangeredSpeciesInformationSy_14003]]
@@ -30,3 +33,4 @@ auto_enriched: true
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[TransitionMonitoringForRiparia_17903]]
 - [[FisheryManagementForTheSanBern_18979]]
+- [[NotesFromFieldWorkInTheCuatroc_12737]]

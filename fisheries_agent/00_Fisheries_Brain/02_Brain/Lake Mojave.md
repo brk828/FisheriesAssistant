@@ -26,6 +26,9 @@ Lake Mojave is a major reservoir on the lower Colorado River that serves as the 
 > This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
 > -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
 
+> This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DraftFiveyearRoadMap_11579]]*
+
 ## Mentioned In
 - [[BonytailChubStrategicPlan_13206]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -35,3 +38,4 @@ Lake Mojave is a major reservoir on the lower Colorado River that serves as the 
 - [[RazorbackSuckerGeneticSurveyTi_1992]]
 - [[LetterToJimJohnsonWithEncolose_11425]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[DraftFiveyearRoadMap_11579]]

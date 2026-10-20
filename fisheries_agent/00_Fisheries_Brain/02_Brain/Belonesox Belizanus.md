@@ -14,6 +14,10 @@ auto_enriched: true
 > - Exotic fish species constituted **35%** of species richness in the San Antonio River and **43%** in Braunig Reservoir — a substantial fraction of the local fish fauna in both systems. - Four categories of exotic origin identified: (1) south Texas natives displaced northward, (2) recent estuarin...
 > -- *[[SurvivalAndAbundanceOfIntroduc_14259]]*
 
+> This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
+> -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
+
 ## Mentioned In
 - [[LetterToRayVaughnOpposingRestr_1973_04_13]]
 - [[SurvivalAndAbundanceOfIntroduc_14259]]
+- [[AnEcologicalOverviewOfPoecilii_20086]]

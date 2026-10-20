@@ -26,6 +26,15 @@ Arizona Bay is a shallow nearshore habitat within Lake Mohave (on the Arizona-Ne
 > This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
 > -- *[[BonytailrazorbackSuckerCoopera_17048]]*
 
+> This biological opinion (2-21-94-F-244) evaluates the U.S. Fish and Wildlife Service's program to stock catchable-size (8-10 inch) [[Rainbow Trout]] and [[Channel Catfish]] into the lower [[Colorado River]] from [[Hoover Dam]] to the International Border. The consultation addresses potential...
+> -- *[[SummaryBiologicalOpinionOnUsFi_11657]]*
+
+> This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
+> -- *[[ChronologyOfYumaCoveActivities_15028]]*
+
+> This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
+> -- *[[RazorbackSuckerMonitoringInLak_17016]]*
+
 ## Mentioned In
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
 - [[LakeMohaveSamplingMay_1991_06_02]]
@@ -33,3 +42,6 @@ Arizona Bay is a shallow nearshore habitat within Lake Mohave (on the Arizona-Ne
 - [[EarlyLifeHistoryOfRazorbackSuc_12707]]
 - [[GeneticMonitoringOfRepatriated_17010]]
 - [[BonytailrazorbackSuckerCoopera_17048]]
+- [[SummaryBiologicalOpinionOnUsFi_11657]]
+- [[ChronologyOfYumaCoveActivities_15028]]
+- [[RazorbackSuckerMonitoringInLak_17016]]

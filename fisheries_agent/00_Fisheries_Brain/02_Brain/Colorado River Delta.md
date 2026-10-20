@@ -59,6 +59,9 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 > This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
 > -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
 
+> This trip report documents a November 10-12, 1990 field survey of known [[Desert Pupfish]] (*Cyprinodon macularius macularius*) populations in the [[Colorado River Delta]] region of Sonora and Baja California, Mexico. Conducted by Sally Stefferud (U.S. Fish and Wildlife Service) and Jerry Stefferud...
+> -- *[[TripReportSamplingOfMexicanPop_14780]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AnalysisOfPenaeidShrimpLanding_16892]]
@@ -85,3 +88,4 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[AllozymicVariationInDesertPupf_19162]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[TripReportSamplingOfMexicanPop_14780]]

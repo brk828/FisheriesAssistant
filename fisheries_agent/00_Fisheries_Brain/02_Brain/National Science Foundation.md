@@ -11,7 +11,11 @@ auto_enriched: true
 > This paper describes *Bathyconchoecia deeveyae*, a new species of deep-sea benthic ostracod collected from the [[Peru-Chile Trench System]] at 520 m depth during Cruise 11 of the R/V Anton Bruun in October 1965. The species is distinguished by its highly ornamented carapace bearing 7 long hollow...
 > -- *[[BathyconchoeciaDeeveyaeAHighly_12629]]*
 
+> This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
+> -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
+
 ## Mentioned In
 - [[TheRoleAndInfluenceOfTheUSNati_1995_07_06]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
 - [[BathyconchoeciaDeeveyaeAHighly_12629]]
+- [[NewSpeciesOfNorthAmericanDelto_21086]]

@@ -38,6 +38,9 @@ The Chihuahua Chub is an endangered cyprinid fish endemic to the Rio Yaqui basin
 > Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
 > -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
 
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
 ## Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1985_12_10]]
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
@@ -65,3 +68,4 @@ The Chihuahua Chub is an endangered cyprinid fish endemic to the Rio Yaqui basin
 - [[MinutesDesertFishesRecoveryTea_13749]]
 - [[AuthorizationToUseTheRegionalD_15706]]
 - [[DesertFishesRecoveryTeamMeetin_13916]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]

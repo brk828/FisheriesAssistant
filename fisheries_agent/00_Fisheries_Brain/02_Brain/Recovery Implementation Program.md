@@ -29,6 +29,9 @@ A Recovery Implementation Program (RIP) is a structured, multi-stakeholder admin
 > **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
 > -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
 
+> This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
+> -- *[[FiscalYearProgramGuidance_11762]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -45,3 +48,4 @@ A Recovery Implementation Program (RIP) is a structured, multi-stakeholder admin
 - [[SolicitationOfResearchProposal_1990_03_20]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[NativeFishesOfTheGrandCanyonRe_1991]]
+- [[FiscalYearProgramGuidance_11762]]

@@ -29,6 +29,9 @@ auto_enriched: true
 > This taxonomic paper describes *Laccocythere aotearoa*, a new genus and species of entocytherid ostracod commensal on the freshwater crayfish [[Paranephrops planifrons]] from [[Pelorus Valley]], [[South Island]], [[New Zealand]]. The new genus *Laccocythere* is placed in the subfamily...
 > -- *[[ANewOstracodEntocytheridaeNoto_20684]]*
 
+> This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
+> -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
+
 ## Mentioned In
 - [[BookReviewsTransactionsOfTheAm_1985]]
 - [[RequestForARulingToCorrectHomo_17135]]
@@ -38,3 +41,4 @@ auto_enriched: true
 - [[ASummaryOfInformationAboutTheA_18574]]
 - [[TheGlobalHistoricalClimatology_12377]]
 - [[ANewOstracodEntocytheridaeNoto_20684]]
+- [[NewSpeciesOfNorthAmericanDelto_21086]]

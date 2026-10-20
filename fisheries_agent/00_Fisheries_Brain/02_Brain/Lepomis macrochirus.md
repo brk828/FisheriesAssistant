@@ -32,6 +32,9 @@ auto_enriched: true
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -47,3 +50,4 @@ auto_enriched: true
 - [[GeneticDifferentiationAmongSub_18497]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
 - [[BeaverScoping_18972]]
+- [[EvaluationAndRelativeResistanc_19097]]

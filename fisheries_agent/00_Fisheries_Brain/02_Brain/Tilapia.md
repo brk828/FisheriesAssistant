@@ -65,6 +65,12 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 > This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
 > -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
 
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This trip report documents a November 10-12, 1990 field survey of known [[Desert Pupfish]] (*Cyprinodon macularius macularius*) populations in the [[Colorado River Delta]] region of Sonora and Baja California, Mexico. Conducted by Sally Stefferud (U.S. Fish and Wildlife Service) and Jerry Stefferud...
+> -- *[[TripReportSamplingOfMexicanPop_14780]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -116,3 +122,5 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[TripReportSamplingOfMexicanPop_14780]]

@@ -17,7 +17,11 @@ Sycamore (*Platanus* sp.) is a riparian tree species that forms a key component 
 > - **Study system:** The **upper [[Verde River]]**, a perennial warmwater stream in central Arizona and a major tributary of the [[Gila River]] (itself part of the Colorado River drainage). The river supports a mix of native Sonoran Desert fishes and introduced non-native sportfish/baitfish. - **S...
 > -- *[[VerdeRiverFishResearch_1995_07_03]]*
 
+> This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
+> -- *[[GilasanFranciscoRiversResource_18256]]*
+
 ## Mentioned In
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
 - [[VerdeRiverFishResearchSpring_1997_05_20]]
 - [[VerdeRiverFishResearch_1995_07_03]]
+- [[GilasanFranciscoRiversResource_18256]]

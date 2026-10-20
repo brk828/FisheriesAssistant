@@ -65,6 +65,24 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 > This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
 > -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
 
+> This U.S. Fish and Wildlife Service biological opinion, issued December 23, 1992, evaluates effects of the proposed [[Canelo Pass]] to [[Patagonia]] segment of the [[Arizona Trail]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis) in [[Redrock Canyon]], [[Santa Cruz County]],...
+> -- *[[BiologicalOpinionThatTheCanelo_11877]]*
+
+> This biological opinion, issued February 14, 1994, by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services State Office]], addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding the proposed [[Allotment Management Plan]] for the Dos S Unit of the...
+> -- *[[BiologicalOpinionThatAuthoriza_11901]]*
+
+> This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
+> -- *[[IntraofficeMemoFishSurveys_13821]]*
+
+> This 1907 taxonomic revision by [[Carl H Eigenmann]] examines the [[Poeciliidae]] fauna of [[Rio Grande do Sul]] and the [[La Plata Basin]]. The study establishes several new genera based on detailed examination of teeth morphology and male reproductive organs (intromittent organs). Eigenmann...
+> -- *[[ThePoeciliidFishesOfRioGrandeD_15799]]*
+
+> This supplemental environmental assessment, prepared by the [[U.S. Bureau of Land Management]] (BLM) Phoenix District Office in December 1983, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*)...
+> -- *[[IntroductionOfGilaTopminnowAnd_17956]]*
+
+> This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
+> -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -165,3 +183,9 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 - [[GilaTopminnowsantaCruzRiver_20207]]
 - [[AReviewOfTheBiologyOfTheMosqui_14748]]
 - [[TheSuitabilitiesAndRelativeRes_19185]]
+- [[BiologicalOpinionThatTheCanelo_11877]]
+- [[BiologicalOpinionThatAuthoriza_11901]]
+- [[IntraofficeMemoFishSurveys_13821]]
+- [[ThePoeciliidFishesOfRioGrandeD_15799]]
+- [[IntroductionOfGilaTopminnowAnd_17956]]
+- [[AnEcologicalOverviewOfPoecilii_20086]]

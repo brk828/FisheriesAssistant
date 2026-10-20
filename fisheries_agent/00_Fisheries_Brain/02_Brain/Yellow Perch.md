@@ -98,6 +98,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This 1939 report by J. W. Leonard of the Institute for Fisheries Research documents an experimental stocking of [[Montana Grayling]] (*Thymallus montanus*) in a small northern Michigan lake, following the extinction of the native [[Michigan Grayling]]. The study aimed to determine whether Montana...
 > -- *[[TheMontanaGraylingInMichigan_20282]]*
 
+> This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
+> -- *[[FishParasites_20804]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -178,3 +181,4 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[CreelCensusReport_11332]]
 - [[MichiganFishPredators_12681]]
 - [[TheMontanaGraylingInMichigan_20282]]
+- [[FishParasites_20804]]

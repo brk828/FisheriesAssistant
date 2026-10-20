@@ -29,6 +29,12 @@ auto_enriched: true
 > This document is a research pre-proposal submitted in March 1993 by W.L. Minckley ([[Arizona State University]]), Salvador Contreras-Balderas ([[Universidad Autonoma de Nuevo Leon]]), and James P. Collins to the Mexico-United States Foundation for Science. The proposal seeks $94,000 over two years...
 > -- *[[ProposalBiologicallySensitiveA_16496]]*
 
+> This experimental study documents 12 years (1932-1944) of breeding experiments with [[Mollienisia formosa]], the Amazon Molly, a viviparous fish species in which no males have ever been found. Approximately 8,000 individuals representing 20 generations were bred at the Museum of Zoology,...
+> -- *[[ExperimentalBreedingOfTheAmazo_14310]]*
+
+> This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
+> -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
+
 ## Mentioned In
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[TheSpawningBehaviorOfTheChanne_15949]]
@@ -38,3 +44,5 @@ auto_enriched: true
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[RegionEndangeredSpeciesActIntr_11825]]
 - [[ProposalBiologicallySensitiveA_16496]]
+- [[ExperimentalBreedingOfTheAmazo_14310]]
+- [[TheUseOfChannelCatfishAsSportF_18662]]

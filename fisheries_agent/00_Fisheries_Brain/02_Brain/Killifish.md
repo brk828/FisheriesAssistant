@@ -14,8 +14,12 @@ Killifish are small cyprinodontid fishes (family Cyprinodontidae/Fundulidae) kno
 > This 1964 study by Baslow & Nigrelli investigates the biochemical basis of thermal stress tolerance in the [[Killifish]] (*Fundulus heteroclitus*), focusing on brain [[Cholinesterase]] (ChE) activity as a proxy for central nervous system function during [[Thermal Acclimation]]. The authors hypoth...
 > -- *[[TheEffectOfThermalAcclimationO_15619]]*
 
+> This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
+> -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
+
 ## Mentioned In
 - [[BattleAgainstExtinctionNativeF_17606]]
 - [[OsmoregulatoryRoleOfSerumGluco_1971]]
 - [[TheEffectOfThermalAcclimationO_15619]]
 - [[TimeCoOrdinatedPrefeedingActiv_13978]]
+- [[AStudyOfTheFisheriesOnBitterLa_14374]]

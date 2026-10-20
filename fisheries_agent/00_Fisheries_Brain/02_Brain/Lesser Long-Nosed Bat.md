@@ -26,9 +26,13 @@ auto_enriched: true
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
 > -- *[[WrittenCommentsOnSupplementToD_20523]]*
 
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
 ## Mentioned In
 - [[EndangeredSpeciesActSectionCon_1994_12_06]]
 - [[SouthwestCenterSSupplementalAn_18100]]
 - [[PapagoParkMilitaryReservationB_13351]]
 - [[BuildingSuccessfulPartnerships_13226]]
 - [[WrittenCommentsOnSupplementToD_20523]]
+- [[BiologicalEvaluationOfTheAppro_15074]]

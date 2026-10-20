@@ -26,6 +26,9 @@ The Navajo Nation, in the context of fish science and aquatic ecology, represent
 > This document is a review memo from Jim to Minck evaluating ongoing [[Glen Canyon Environmental Studies]] projects focused on [[Humpback Chub]] (*Gila cypha*) recovery. The reviewer assesses research conducted by [[Arizona State University]]/[[Navajo Nation]], [[Arizona Fish and Game Department]],...
 > -- *[[ReviewOfGlenCanyonEnvironmenta_14007]]*
 
+> This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
+> -- *[[GlenCanyonEnvironmentalStudies_19734]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[GlenCanyonEnvironmentalStudies_1992_03_07]]
@@ -36,3 +39,4 @@ The Navajo Nation, in the context of fish science and aquatic ecology, represent
 - [[ReminderNoticeOnReportingRequi_1993_07_02]]
 - [[RosterLowerBasinRecoveryImplem_21095]]
 - [[ReviewOfGlenCanyonEnvironmenta_14007]]
+- [[GlenCanyonEnvironmentalStudies_19734]]

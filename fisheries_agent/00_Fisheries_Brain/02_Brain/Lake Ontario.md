@@ -26,6 +26,9 @@ Lake Ontario is one of the five Great Lakes and represents a critical conservati
 > This article provides an overview of whitefish species in New York waters, focusing primarily on the [[Adirondack Whitefish]] or [[Labrador Whitefish]] (Coregonus clupeaformis). Whitefish are highly valued food fish with an international reputation for flavor, occurring in at least 48 New York...
 > -- *[[Whitefish_19228]]*
 
+> This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
+> -- *[[AssessmentOfTheNeedForForageEn_17853]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[ExperimentalIntroductionsOfFre_1960_01_01]]
@@ -34,3 +37,4 @@ Lake Ontario is one of the five Great Lakes and represents a critical conservati
 - [[TheInvasionPresentStatusAndLif_1949_12_01]]
 - [[TheTemporalDistributionOfChlor_1966]]
 - [[Whitefish_19228]]
+- [[AssessmentOfTheNeedForForageEn_17853]]

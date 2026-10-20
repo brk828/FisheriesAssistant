@@ -35,6 +35,9 @@ The Bureau of Sport Fisheries and Wildlife was a federal agency responsible for 
 > This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
 > -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
 
+> This 1968 manual from the [[Bureau of Sport Fisheries and Wildlife]] provides comprehensive guidance on herbicide use for vegetation control in fish and wildlife management programs. Issued by the [[U.S. Department of the Interior]] under Secretary [[Stewart L. Udall]], the document establishes...
+> -- *[[ChemicalVegetationControlManua_12838]]*
+
 ## Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
 - [[ArizonaNevadaCooperativeFisher_1961]]
@@ -49,3 +52,4 @@ The Bureau of Sport Fisheries and Wildlife was a federal agency responsible for 
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
 - [[TroutFeedsAndFeeding_11173]]
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[ChemicalVegetationControlManua_12838]]

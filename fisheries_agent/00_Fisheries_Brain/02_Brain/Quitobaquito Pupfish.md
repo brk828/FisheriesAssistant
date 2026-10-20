@@ -23,6 +23,9 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 > **Natural Populations Status (Gila Topminnow & Desert Pupfish)** - Strong natural population persistence (100% topminnow composition) recorded at Cienega Creek, Cottonwood Spring, Monkey Spring, and Redrock Canyon (Sonoita/San Rafael Valley area). - Complete extirpation (0% topminnow) documented ...
 > -- *[[DesertPupfishAndSonoranTopminn_1989_12_02]]*
 
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -50,3 +53,4 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 - [[SummaryOfDesertPupfishIntroduc_1989_02_09]]
 - [[TableVulnerableSpeciesInPimaCo_18770]]
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
+- [[CurrentStatusOfEndangeredThrea_12695]]

@@ -17,8 +17,12 @@ auto_enriched: true
 > This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
 > -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
 
+> This U.S. Fish and Wildlife Service biological opinion, issued December 23, 1992, evaluates effects of the proposed [[Canelo Pass]] to [[Patagonia]] segment of the [[Arizona Trail]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis) in [[Redrock Canyon]], [[Santa Cruz County]],...
+> -- *[[BiologicalOpinionThatTheCanelo_11877]]*
+
 ## Mentioned In
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
 - [[ReportOfEndangeredSpeciesColle_1993_01_07]]
 - [[StatusReportForNaturalAndIntro_12972]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
+- [[BiologicalOpinionThatTheCanelo_11877]]

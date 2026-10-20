@@ -29,6 +29,9 @@ Etheostoma spectabile, commonly known as the Orangespotted Darter, is a small No
 > This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
 > -- *[[GeneticDifferentiationAmongSub_18497]]*
 
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
 ## Mentioned In
 - [[AReassessmentOfTheDistribution_1980]]
 - [[EtheostomaRadiosumOrangebellyD_1986]]
@@ -40,3 +43,4 @@ Etheostoma spectabile, commonly known as the Orangespotted Darter, is a small No
 - [[RelativeVariabilityOfHybridsBe_14215]]
 - [[GeographicVariationsInSurvival_14227]]
 - [[GeneticDifferentiationAmongSub_18497]]
+- [[EvaluationAndRelativeResistanc_19097]]

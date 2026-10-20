@@ -77,6 +77,12 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
 > -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
 
+> This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
+> -- *[[ReProgressReportOnConstruction_13911]]*
+
+> This Master's thesis examines F₁ hybrids between [[Catostomus insignis]] (Sonora sucker) and [[Pantosteus clarki]] (desert mountain-sucker) from [[Aravaipa Creek]] and [[Bonita Creek]], Arizona. The study tests hypotheses of morphological and behavioral intermediacy in natural fish hybrids using...
+> -- *[[MorphologyAndFeedingBehaviorOf_15922]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -219,3 +225,5 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[EndangeredAndThreatenedWildlif_11556]]
 - [[NitrogenAndPhosphorousDynamics_17776]]
 - [[RazorbackSuckerXyrauchenTexanu_18008]]
+- [[ReProgressReportOnConstruction_13911]]
+- [[MorphologyAndFeedingBehaviorOf_15922]]

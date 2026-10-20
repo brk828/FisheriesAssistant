@@ -47,6 +47,9 @@ The Black River refers to a cold-water montane stream drainage system in Arizona
 > This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
 > -- *[[ArizonaComparativeRiskProjectE_15833]]*
 
+> This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
+> -- *[[CurrentStatusOfEndangeredThrea_12695]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
@@ -65,3 +68,4 @@ The Black River refers to a cold-water montane stream drainage system in Arizona
 - [[BiologicalOpinionForReroutingO_11747]]
 - [[BiologicalOpinionOnTheEffectsT_11884]]
 - [[ArizonaComparativeRiskProjectE_15833]]
+- [[CurrentStatusOfEndangeredThrea_12695]]

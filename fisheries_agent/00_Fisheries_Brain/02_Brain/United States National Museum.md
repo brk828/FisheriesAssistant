@@ -23,6 +23,9 @@ auto_enriched: true
 > This taxonomic paper describes a new genus (*Saurocythere*) and two new species of entocytherid ostracods (*Saurocythere rhipis* and *Ornithocythere gypodes*) collected from [[Cambarus Diogenes Diogenes]] crayfish in [[Alabama]] and [[Mississippi]]. The new genus *Saurocythere* is unique among...
 > -- *[[ANewGenusAndTwoNewSpeciesOfEnt_20413]]*
 
+> This 1907 taxonomic revision by [[Carl H Eigenmann]] examines the [[Poeciliidae]] fauna of [[Rio Grande do Sul]] and the [[La Plata Basin]]. The study establishes several new genera based on detailed examination of teeth morphology and male reproductive organs (intromittent organs). Eigenmann...
+> -- *[[ThePoeciliidFishesOfRioGrandeD_15799]]*
+
 ## Mentioned In
 - [[GirardinusSonoriensisMczCatalo_1994_09_01]]
 - [[NotesOnFishesCollectedByCaptCh_15664]]
@@ -30,3 +33,4 @@ auto_enriched: true
 - [[TaxonomicStatusEcologyAndDistr_15409]]
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
 - [[ANewGenusAndTwoNewSpeciesOfEnt_20413]]
+- [[ThePoeciliidFishesOfRioGrandeD_15799]]

@@ -41,6 +41,12 @@ Ash Meadows is a spring-fed complex of isolated wetland habitats in the Death Va
 > This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
 > -- *[[FishesAndAquaticResourcesDeath_15415]]*
 
+> This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
+> -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
+
+> This research proposal by James Everett Deacon (Associate Professor, Nevada Southern University) seeks funding to conduct comprehensive limnological surveys of spring systems in Nevada, particularly the [[Pluvial White River System]], [[Moapa Valley]], and [[Ash Meadows]]. The proposal addresses...
+> -- *[[TheLimnologyOfDesertSprings_13994]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -68,3 +74,5 @@ Ash Meadows is a spring-fed complex of isolated wetland habitats in the Death Va
 - [[WarmSpringsPupfish_13288]]
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[FishesAndAquaticResourcesDeath_15415]]
+- [[ElConsejoDeLosPecesDelDesierto_12830]]
+- [[TheLimnologyOfDesertSprings_13994]]

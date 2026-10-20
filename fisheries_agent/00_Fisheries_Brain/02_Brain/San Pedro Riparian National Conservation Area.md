@@ -41,6 +41,9 @@ The San Pedro Riparian National Conservation Area encompasses the San Pedro Rive
 > This administrative correspondence from the Bureau of Land Management Safford District Office documents a meeting notice dated September 15, 1989, convening the [[San Pedro River]] Biological Resources Committee. The meeting was scheduled to discuss the planned Habitat Management Plan for the [[San...
 > -- *[[SanPedroRiverBiologicalResourc_17351]]*
 
+> This 1998 proposal to the Southwest Center for Environmental Research and Policy outlines an integrative watershed research program for two transborder basins: the [[Tijuana River Watershed]] and the [[Upper San Pedro Basin]]. Both watersheds span the US-Mexico international border, experience...
+> -- *[[TheTransborderWatershedResearc_12883]]*
+
 ## Mentioned In
 - [[CommentLetterOnDraftGilaBoxRip_1993_12_30]]
 - [[EnvironmentalistsSueFortHuachu_11897]]
@@ -56,3 +59,4 @@ The San Pedro Riparian National Conservation Area encompasses the San Pedro Rive
 - [[BlmRespondsToPublicConcernsAlo_19144]]
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
 - [[SanPedroRiverBiologicalResourc_17351]]
+- [[TheTransborderWatershedResearc_12883]]

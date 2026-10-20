@@ -224,6 +224,24 @@ Arizona State University is a major research institution that has played a signi
 > This July 1970 correspondence from The Nature Conservancy's Western Regional Office to Dr. W. L. Minckley at [[Arizona State University]] discusses management proposals for [[Aravaipa Creek]] and requests a semi-popular report on the creek's aquatic biota. The letter emphasizes limiting fish...
 > -- *[[ManagementProposalaravaipaCany_19761]]*
 
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
+> This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
+> -- *[[ChronologyOfYumaCoveActivities_15028]]*
+
+> This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
+> -- *[[RazorbackSuckerMonitoringInLak_17016]]*
+
+> This document is a critical review letter dated March 10, 1993, from C.O. Minckley (U.S. Fish and Wildlife Service, Parker, AZ) to Bill Persons (Arizona Game and Fish Department) regarding a propagation study plan for [[Humpback Chub]] (*Gila cypha*) developed by Diann Smith. The reviewer expresses...
+> -- *[[ReviewOfHumpbackChubPropagatio_18515]]*
+
+> This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
+> -- *[[CommercialFisheriesPotentialOf_18584]]*
+
+> This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
+> -- *[[ProposedActionPlanForReintrodu_19433]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -409,3 +427,9 @@ Arizona State University is a major research institution that has played a signi
 - [[ProspectusSystematicAnalysesOf_19078]]
 - [[SamplingAtAsuKarstenGolfCourse_19435]]
 - [[ManagementProposalaravaipaCany_19761]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]
+- [[ChronologyOfYumaCoveActivities_15028]]
+- [[RazorbackSuckerMonitoringInLak_17016]]
+- [[ReviewOfHumpbackChubPropagatio_18515]]
+- [[CommercialFisheriesPotentialOf_18584]]
+- [[ProposedActionPlanForReintrodu_19433]]

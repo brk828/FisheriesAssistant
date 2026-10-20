@@ -62,6 +62,9 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
 > -- *[[NorthernPikeControlAtLakeDavis_2001]]*
 
+> This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
+> -- *[[DraftLittleColoradoRiverSpined_11662]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -112,3 +115,4 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[SummaryReportOnResearchConduct_18505]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
 - [[NorthernPikeControlAtLakeDavis_2001]]
+- [[DraftLittleColoradoRiverSpined_11662]]

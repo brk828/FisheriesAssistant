@@ -71,6 +71,9 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 > This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
 > -- *[[GilaTopminnowsantaCruzRiver_20207]]*
 
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
+> -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
+
 ## Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[CienegaCreekWatershedWaterSour_18990]]
@@ -100,3 +103,4 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
+- [[RePreliminaryFisheriesSurveyOf_13711]]

@@ -38,6 +38,9 @@ auto_enriched: true
 > This 1981 correspondence from the Desert Fishes Council Chairman alerts members to grave threats posed by the proposed MX Missile System to aquatic ecosystems throughout central and southern Nevada and west-central Utah. The $33 billion Department of Defense project would construct 200 racetrack...
 > -- *[[MxMissileSystemeffectsOnDesert_20506]]*
 
+> This study documents the embryonic and early larval development of the [[Tui Chub]] (*Siphateles bicolor*) from [[Eagle Lake]], [[Lassen County]], California. Conducted in 1949 by Robert R. Harry at Stanford University while employed by the California Division of Fish and Game, this represents...
+> -- *[[TheEmbryonicAndEarlyLarvalStag_20681]]*
+
 ## Mentioned In
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[NoteOnSpringFoodHabitsOfTheLak_12533]]
@@ -48,3 +51,4 @@ auto_enriched: true
 - [[RoughFishControl_20167]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 - [[MxMissileSystemeffectsOnDesert_20506]]
+- [[TheEmbryonicAndEarlyLarvalStag_20681]]

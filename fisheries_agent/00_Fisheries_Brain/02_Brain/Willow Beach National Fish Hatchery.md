@@ -77,6 +77,15 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 > This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
 > -- *[[BonytailrazorbackSuckerCoopera_17048]]*
 
+> This memorandum documents the relocation of 20 [[Humpback Sucker]] (HBS) from the 1974 cohort to [[West Pond]] in [[Imperial County]], California on July 16, 1980. The fish, originally received from [[Willow Beach National Fish Hatchery]], were marked and tagged using multiple methods including...
+> -- *[[RelocationOfTheCohortHbsReceiv_11428]]*
+
+> This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
+> -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
+
+> This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
+> -- *[[DraftLowerColoradoRiverOperati_13907]]*
+
 ## Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -144,3 +153,6 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 - [[AnInvestigationOfEndangeredAnd_12516]]
 - [[ResultsOfTheNativeFishWorkGrou_15025]]
 - [[BonytailrazorbackSuckerCoopera_17048]]
+- [[RelocationOfTheCohortHbsReceiv_11428]]
+- [[DetailsForStudiesOfTheGenusGil_13739]]
+- [[DraftLowerColoradoRiverOperati_13907]]

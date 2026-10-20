@@ -20,8 +20,12 @@ auto_enriched: true
 > This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
 > -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
 
+> This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
+> -- *[[EvaluationAndRelativeResistanc_19097]]*
+
 ## Mentioned In
 - [[BeiträgeZurGenetischenAnalyseX_1959]]
 - [[SexRatiosAquaticAnimals_13946]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[TheSuitabilitiesAndRelativeRes_19185]]
+- [[EvaluationAndRelativeResistanc_19097]]

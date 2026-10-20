@@ -47,6 +47,9 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 > This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
 > -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
 
+> This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
+> -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -65,3 +68,4 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[AgencyReviewDraftLoachMinnowTi_19398]]

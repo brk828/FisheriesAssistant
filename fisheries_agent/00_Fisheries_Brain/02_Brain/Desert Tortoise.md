@@ -26,6 +26,9 @@ auto_enriched: true
 > This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
 > -- *[[PlanningEffortNearItsConclusio_11515]]*
 
+> SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
+> -- *[[BiologicalEvaluationOfTheAppro_15074]]*
+
 ## Mentioned In
 - [[ReportingFederalExpendituresPu_1992_11_25]]
 - [[PapagoParkMilitaryReservationB_13351]]
@@ -34,3 +37,4 @@ auto_enriched: true
 - [[RecommendationsToColoradoRiver_14701]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[PlanningEffortNearItsConclusio_11515]]
+- [[BiologicalEvaluationOfTheAppro_15074]]

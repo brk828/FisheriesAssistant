@@ -11,6 +11,10 @@ auto_enriched: true
 > This correspondence documents an agreement between the U.S. Forest Service Globe Ranger District and U.S. Fish & Wildlife Service regarding the failed [[Gila Topminnow]] population at [[Sycamore Spring]] and proposed reintroduction into alternative sites with natural water supplies. The population...
 > -- *[[AgreementRegardingThePopulatio_12215]]*
 
+> This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
+> -- *[[AProposalToReestablishDesertSu_20730]]*
+
 ## Mentioned In
 - [[FindingOfNoSignificantImpactAr_11493]]
 - [[AgreementRegardingThePopulatio_12215]]
+- [[AProposalToReestablishDesertSu_20730]]
