@@ -89,6 +89,9 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
 > -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
 
+> This document records experimental gill netting and electrofishing surveys conducted on [[Lake Mohave]] in May 1986 targeting [[Razorback Sucker]] (*Xyrauchen texanus*). The survey captured 68 razorback suckers via gill netting (26 net nights effort) and 18 via electrofishing (202 minutes effort),...
+> -- *[[LakeMohaveExperimentalGillNett_18275]]*
+
 ## Mentioned In
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -129,3 +132,4 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[DeclineOfTheRazorbackSuckerInL_2003]]
 - [[LongtermPatternsOfFishCommunit_2023]]
 - [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
+- [[LakeMohaveExperimentalGillNett_18275]]

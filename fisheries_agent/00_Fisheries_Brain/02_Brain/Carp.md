@@ -122,6 +122,42 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > **Taxonomic & Life-History Summary**: The Colorado River mainstem historically supported 10 native freshwater species (Table 1), including three large-bodied species that are the focus of recovery efforts: [[Colorado Pikeminnow]] (*Ptychocheilus lucius*, the largest North American cyprinid reaching...
 > -- *[[PredatoryFishRemovalAndNativeF_2005]]*
 
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
+> This performance report documents the second year (July 1980 - June 1981) of a three-year investigation into the biological impacts of fluctuating water levels on the [[Colorado River]] fishery below [[Glen Canyon Dam]]. The study area extends from the dam to the [[Paria River]] confluence,...
+> -- *[[StatewideFisheriesResearch_13299]]*
+
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
+> This report documents two consecutive creel census studies conducted at [[Lee's Ferry]] on the [[Colorado River]] below [[Glen Canyon Dam]] from July 1964 through June 1966. The first segment (July 1964-June 1965) recorded 2,216 angler trips over 176 census days, yielding 8,047 [[Rainbow Trout]]...
+> -- *[[TailwatersFisheriesInvestigati_14584]]*
+
+> This Bureau of Reclamation memorandum documents the January 10, 1991 Native Fish Work Group meeting regarding ongoing efforts to restore [[Razorback Sucker]] populations in [[Lake Mohave]]. The project involves fish renovation of [[Yuma Cove]], introduction of mature razorback suckers for spawning,...
+> -- *[[ResultsOfTheNativeFishWorkGrou_15025]]*
+
+> This memorandum documents an intensive interagency sampling effort conducted March 5-13, 1988, at [[Lake Mohave]], Arizona-Nevada, targeting the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). Camp Five, stationed at [[Arrowhead Cove]], was responsible...
+> -- *[[SummaryOfTripToSampleBonytailC_15634]]*
+
+> This technical note describes the design and construction of twelve 350-550 gallon temperature-controlled aquarium tanks at the [[New York State Conservation Department]] Fish Laboratory at [[Livingston Manor]]. The system was developed to conduct controlled experiments on the effects of chemicals...
+> -- *[[GeneralNotesTemperaturecontrol_16184]]*
+
+> This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
+> -- *[[BonytailrazorbackSuckerCoopera_17048]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This master's thesis investigated the vertical distribution of fishes in [[Roosevelt Lake]] and [[Apache Lake]], two contiguous reservoirs on the [[Salt River]] in central Arizona, during 1970-1971. Using vertical gill nets at multiple transects, the study examined fish depth distributions relative...
+> -- *[[VerticalDistributionOfFishesRe_18202]]*
+
+> This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
+
+> This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
+> -- *[[LakeMohaveSamplingMarch_20326]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -206,3 +242,15 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[FisheriesManagementOfElCapitan_16317]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
 - [[PredatoryFishRemovalAndNativeF_2005]]
+- [[MichiganFishPredators_12681]]
+- [[StatewideFisheriesResearch_13299]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]
+- [[TailwatersFisheriesInvestigati_14584]]
+- [[ResultsOfTheNativeFishWorkGrou_15025]]
+- [[SummaryOfTripToSampleBonytailC_15634]]
+- [[GeneralNotesTemperaturecontrol_16184]]
+- [[BonytailrazorbackSuckerCoopera_17048]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[VerticalDistributionOfFishesRe_18202]]
+- [[SamplingAtAsuKarstenGolfCourse_19435]]
+- [[LakeMohaveSamplingMarch_20326]]

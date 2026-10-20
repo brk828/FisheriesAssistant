@@ -56,6 +56,18 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This Federal Register document announces the U.S. Fish and Wildlife Service's final rule removing the [[Amistad Gambusia]] (*Gambusia amistadensis*) from the List of Endangered and Threatened Wildlife, effective January 4, 1988. The delisting is based on determination that the species is extinct....
+> -- *[[EndangeredAndThreatenedWildlif_11567]]*
+
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
+> This 1972 Master's thesis by Irving L. Kornfield (State University of New York at Stony Brook) examines genetic variability and speciation in [[Cichlasoma]] species from North America. The study employed electrophoretic analysis of 19 protein loci in [[Cichlasoma cyanoguttatum]] from the [[Rio...
+> -- *[[GeneticVariationAndSpeciationI_12625]]*
+
+> This document comprises correspondence dated December 19, 1990, from Dr. Salvador Contreras Balderas ([[Universidad Autonoma de Nuevo Leon]], Faculty of Biological Sciences) to Dr. W.L. Minckley ([[Arizona State University]]), along with Dr. Contreras Balderas's comprehensive curriculum vitae. The...
+> -- *[[CvForNewProposal_17525]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -83,3 +95,7 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 - [[AmericanRiversScientificAndTec_15167]]
 - [[InterestInRioNazasAndRioAguana_17463]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[EndangeredAndThreatenedWildlif_11567]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[GeneticVariationAndSpeciationI_12625]]
+- [[CvForNewProposal_17525]]

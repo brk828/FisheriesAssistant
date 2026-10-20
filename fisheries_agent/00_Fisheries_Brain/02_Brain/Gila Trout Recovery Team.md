@@ -14,6 +14,10 @@ auto_enriched: true
 > - **Team Mandate Reassessed**: The DFRT's original function — developing recovery plans — is nearing completion for currently listed species; future planning work will be limited to revisions and plans for species listed in the future. - **Underutilized Technical Assistance Role**: The team has p...
 > -- *[[MemorandumOnTheRoleOfTheDesert_14759]]*
 
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[LetterOnTransferOfChihuahuaChu_15710]]
 - [[MemorandumOnTheRoleOfTheDesert_14759]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

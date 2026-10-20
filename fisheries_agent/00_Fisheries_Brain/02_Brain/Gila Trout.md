@@ -50,6 +50,9 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 > This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
 > -- *[[ArizonaComparativeRiskProjectE_15833]]*
 
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -120,3 +123,4 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 - [[GeneticIssuesInTheConservation_20219]]
 - [[BiologicalOpinionOnTheEffectsT_11884]]
 - [[ArizonaComparativeRiskProjectE_15833]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

@@ -17,8 +17,12 @@ The Huachuca Mountains represent a critical "sky island" mountain range in south
 > - The species list is tied to the **[[Huachuca Mountains]]** and the **[[San Pedro River]]** drainage, an area described as one of the most biologically diverse mountain ranges in southern Arizona, shaped by rugged topography, varied substrates, bi-seasonal rainfall, perennial surface water, and ...
 > -- *[[TheNextParagraphIsMissingButTh_11894]]*
 
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
 ## Mentioned In
 - [[AshmunellaAngulataEsuritorLent_18478]]
 - [[FishAndWildlifeServiceLetterOn_1994_08_22]]
 - [[PetitionToListTheHuachucaWater_1993_05_31]]
 - [[TheNextParagraphIsMissingButTh_11894]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]

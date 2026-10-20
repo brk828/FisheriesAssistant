@@ -89,6 +89,15 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
 > -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
 
+> This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
+> -- *[[CreelCensusReport_11332]]*
+
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
+> This 1939 report by J. W. Leonard of the Institute for Fisheries Research documents an experimental stocking of [[Montana Grayling]] (*Thymallus montanus*) in a small northern Michigan lake, following the extinction of the native [[Michigan Grayling]]. The study aimed to determine whether Montana...
+> -- *[[TheMontanaGraylingInMichigan_20282]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -166,3 +175,6 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[SummaryOfNorthernPikeSuppressi_2022]]
 - [[PopulationDynamicsTrophicInter_2003]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
+- [[CreelCensusReport_11332]]
+- [[MichiganFishPredators_12681]]
+- [[TheMontanaGraylingInMichigan_20282]]

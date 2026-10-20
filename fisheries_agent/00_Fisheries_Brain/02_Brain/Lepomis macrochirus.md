@@ -29,6 +29,9 @@ auto_enriched: true
 > The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
 > -- *[[IntroductionOfPalaemonetesPalu_20723]]*
 
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -43,3 +46,4 @@ auto_enriched: true
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[GeneticDifferentiationAmongSub_18497]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
+- [[BeaverScoping_18972]]

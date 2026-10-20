@@ -14,7 +14,15 @@ auto_enriched: true
 > This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
 > -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
+> This note documents the first freshwater record of [[Pacific Lamprey]] (*Lampetra tridentata*) from [[Baja California]], Mexico. An ammocoete (larval lamprey) was collected on 19 February 1995 in the lower [[Rio Santo Domingo]], approximately 600 m above its mouth at Bahia San Ramon, 6 km west of...
+> -- *[[FirstFreshwaterRecordOfPacific_21111]]*
+
 ## Mentioned In
 - [[InfluenceOfLandMassesOnTheDist_14157]]
 - [[DouglasMexicanTemperaturePreci_12378]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[FirstFreshwaterRecordOfPacific_21111]]

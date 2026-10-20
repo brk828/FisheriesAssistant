@@ -23,6 +23,9 @@ The Comanche Springs Pupfish (*Cyprinodon* sp.) is a critically endangered cypri
 > - **Refugium function**: Hatcheries such as Dexter NFH&TC (New Mexico) and Willow Beach NFH (Arizona) serve as genetic and demographic refugia for imperiled Colorado River basin fishes ([[Razorback Sucker]], [[Colorado Squawfish]], [[Bonytail Chub]]), some populations retained since a 1974 year c...
 > -- *[[LetterToDrWLMinckleyOnTheHisto_19038]]*
 
+> This document comprises correspondence dated December 19, 1990, from Dr. Salvador Contreras Balderas ([[Universidad Autonoma de Nuevo Leon]], Faculty of Biological Sciences) to Dr. W.L. Minckley ([[Arizona State University]]), along with Dr. Contreras Balderas's comprehensive curriculum vitae. The...
+> -- *[[CvForNewProposal_17525]]*
+
 ## Mentioned In
 - [[AspectsOfTheThermalEcologyOfCy_13860]]
 - [[DraftConservationAgreementForT_1998_12_28]]
@@ -32,3 +35,4 @@ The Comanche Springs Pupfish (*Cyprinodon* sp.) is a critically endangered cypri
 - [[LetterToDrWLMinckleyOnTheHisto_19038]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[SubpermitAuthorizationForColle_1990]]
+- [[CvForNewProposal_17525]]

@@ -14,7 +14,11 @@ auto_enriched: true
 > This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
 > -- *[[APetitionPursuantToArticleOfTh_17637]]*
 
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[LegalProceedingsAgainstUsfwsTo_17940]]
 - [[NoticeOfViolationOfSectionOfTh_1993_10_19]]
 - [[APetitionPursuantToArticleOfTh_17637]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

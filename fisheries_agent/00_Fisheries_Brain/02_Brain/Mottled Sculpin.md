@@ -20,6 +20,9 @@ The Mottled Sculpin (Cottus bairdi) is a small benthic fish species commonly fou
 > - **Primary study species**: Rainbow trout (*Salmo gairdneri*), the most numerous game fish in the study section. - **Size threshold for study**: Only rainbow trout exceeding 7 inches total length were included in movement analysis. - **Long-distance migrants**: Four trout exhibiting wide-ranging...
 > -- *[[WinterObservationsOnBottomOrga_16187]]*
 
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[FishesOfTheHeadwatersOfShavers_11342]]
@@ -27,3 +30,4 @@ The Mottled Sculpin (Cottus bairdi) is a small benthic fish species commonly fou
 - [[ProposedStockingOfNonnativeFis_18716]]
 - [[TheUseOfRotenoneAndElectrofish_17705]]
 - [[WinterObservationsOnBottomOrga_16187]]
+- [[AnInvestigationOfEndangeredAnd_12516]]

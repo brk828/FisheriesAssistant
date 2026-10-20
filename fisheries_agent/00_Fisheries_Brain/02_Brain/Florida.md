@@ -19,9 +19,13 @@ Florida represents a critical geographic region in ichthyological and conservati
 > This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
 > -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
 
+> This taxonomic paper describes two new species of caddisflies in the genus [[Cheumatopsyche]] (family [[Hydropsychidae]]) from the southeastern United States: *Cheumatopsyche enigma* and *Cheumatopsyche petersi*. The species were collected during limnological studies in [[Georgia]], [[South...
+> -- *[[NewSpeciesOfCheumatopsycheFrom_21085]]*
+
 ## Mentioned In
 - [[ASystematicAndGeographicalStud_1961]]
 - [[ConservationStatusOfTheNorthAm_1990]]
 - [[LetterRegardingTilapiaIntroduc_17612]]
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
+- [[NewSpeciesOfCheumatopsycheFrom_21085]]

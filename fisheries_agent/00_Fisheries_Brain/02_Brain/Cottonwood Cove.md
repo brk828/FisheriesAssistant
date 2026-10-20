@@ -26,6 +26,9 @@ Cottonwood Cove is a shallow nearshore habitat zone in Lake Mohave characterized
 > This five-year final report (2015–2019) documents the demographics and monitoring of repatriated [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], part of the [[Lower Colorado River Multi-Species Conservation Program]]. The wild razorback sucker population has functionally disappeared,...
 > -- *[[DemographicsAndMonitoringOfRep_2020]]*
 
+> This document records experimental gill netting and electrofishing surveys conducted on [[Lake Mohave]] in May 1986 targeting [[Razorback Sucker]] (*Xyrauchen texanus*). The survey captured 68 razorback suckers via gill netting (26 net nights effort) and 18 via electrofishing (202 minutes effort),...
+> -- *[[LakeMohaveExperimentalGillNett_18275]]*
+
 ## Mentioned In
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
@@ -33,3 +36,4 @@ Cottonwood Cove is a shallow nearshore habitat zone in Lake Mohave characterized
 - [[LakeMohaveSamplingNovember_1995_12_03]]
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
 - [[DemographicsAndMonitoringOfRep_2020]]
+- [[LakeMohaveExperimentalGillNett_18275]]

@@ -23,9 +23,17 @@ The Bluehead Mountain Sucker is a native catostomid (sucker family) species ende
 > - **Taxa studied:** - *Catostomus latipinnis* — [[Flannelmouth Sucker]], family [[Catostomidae]] - *Pantosteus discobolus* — [[Bluehead Mountain Sucker]], family [[Catostomidae]] - **Historical context:** Following construction of [[Hoover Dam]] (1936) and [[Glen Canyon Dam]] (completed ~1963, im...
 > -- *[[AgeAndGrowthRateOfTheFlannelmo_13215]]*
 
+> This performance report documents the second year (July 1980 - June 1981) of a three-year investigation into the biological impacts of fluctuating water levels on the [[Colorado River]] fishery below [[Glen Canyon Dam]]. The study area extends from the dam to the [[Paria River]] confluence,...
+> -- *[[StatewideFisheriesResearch_13299]]*
+
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
 ## Mentioned In
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
 - [[GlenCanyonEnvironmentalStudies_1991_04_20]]
 - [[LetterToDrWLMinckleyRegardingA_1985_04_15]]
 - [[LittleColoradoRiverSpinedaceSu_1991_07_29]]
+- [[StatewideFisheriesResearch_13299]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]

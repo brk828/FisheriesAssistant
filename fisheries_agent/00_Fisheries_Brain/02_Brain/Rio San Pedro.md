@@ -14,7 +14,11 @@ auto_enriched: true
 > This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
 > -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
 
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
 ## Mentioned In
 - [[IchthyologyAdditionsToTheKnown_15323]]
 - [[IdentificaciónDelimitaciónDeLa_13133]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]

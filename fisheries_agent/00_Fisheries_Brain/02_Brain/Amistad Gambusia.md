@@ -23,7 +23,11 @@ The Amistad Gambusia is an endangered livebearing fish endemic to Devil's River 
 > - **Prevalence of introductions in recovery plans**: 32 of 39 (82%) reviewed U.S. recovery plans for endangered/threatened fishes included provisions for introductions (Table 1), spanning taxa such as [[Apache Trout]], [[Gila Trout]], [[Humpback Chub]], [[Woundfin]], [[Cui-ui]], and multiple pupf...
 > -- *[[GuidelinesForIntroductionsOfTh_12022]]*
 
+> This Federal Register document announces the U.S. Fish and Wildlife Service's final rule removing the [[Amistad Gambusia]] (*Gambusia amistadensis*) from the List of Endangered and Threatened Wildlife, effective January 4, 1988. The delisting is based on determination that the species is extinct....
+> -- *[[EndangeredAndThreatenedWildlif_11567]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[EndangeredAndThreatenedWildlif_1996_02_07]]
 - [[GuidelinesForIntroductionsOfTh_12022]]
+- [[EndangeredAndThreatenedWildlif_11567]]

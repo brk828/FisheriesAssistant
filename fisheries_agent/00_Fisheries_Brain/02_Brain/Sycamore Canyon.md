@@ -23,8 +23,16 @@ Sycamore Canyon is a perennial desert stream drainage located in the Atascosa Mo
 > - The FWS issued a formal **Recovery Plan for the Sonora chub (*Gila ditaenia*)** in **September 1992**. - A collaborative effort is underway among the [[Fish And Wildlife Service]], [[Coronado National Forest]], [[Arizona Game And Fish Department]], and the [[Desert Fishes Recovery Team]] to imp...
 > -- *[[ForestProgramsInSycamoreCanyon_1993_05_07]]*
 
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
 ## Mentioned In
 - [[FinalMinutesOfTheFebruaryMeeti_1993_07_20]]
 - [[ForestProgramsInSycamoreCanyon_1993_05_07]]
 - [[MinutesSummaryOfTheAugustMeeti_1995_08_17]]
 - [[StreamProtectionSoughtToImprov_15530]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]

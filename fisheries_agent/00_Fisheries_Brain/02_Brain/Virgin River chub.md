@@ -50,6 +50,9 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
 > -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
 
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
 ## Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -100,3 +103,4 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[BiologicalOpinionForLakeHavasu_11881]]
 - [[CommentsOnVirginRiverEa_19382]]
 - [[BiologicalOpinionOnTheEffectsO_11915]]
+- [[LetterToWayneStarnesAuthorizat_11924]]

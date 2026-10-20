@@ -38,6 +38,9 @@ The Coronado National Forest in southeastern Arizona is a critical management ar
 > This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
 > -- *[[SkyIslandAquaticResourcesHabit_15003]]*
 
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
 ## Mentioned In
 - [[ConsultantAppointmentCorrespon_1986_04_16]]
 - [[FederalEndangeredFishSpeciesCo_1993_11_19]]
@@ -56,3 +59,4 @@ The Coronado National Forest in southeastern Arizona is a critical management ar
 - [[BogHoleProjectMeetingSummary_12749]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]

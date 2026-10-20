@@ -59,6 +59,12 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 > This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
 > -- *[[GilaTopminnowsantaCruzRiver_20207]]*
 
+> This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
+> -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
+
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -157,3 +163,5 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 - [[DraftRecoveryPlanForTheEndange_15977]]
 - [[GeneticDifferentiationAmongSub_18497]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
+- [[AReviewOfTheBiologyOfTheMosqui_14748]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

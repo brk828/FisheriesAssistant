@@ -26,6 +26,9 @@ Roach (Rutilus rutilus) is a common cyprinid fish species inhabiting the benthic
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius* L.) in [[Stege Lagoon]], western [[Baltic Sea]], inhabit brackish waters at 8–10 ppt salinity, near the upper physiological tolerance limit for the species. Twenty-two adult pike were studied (14 females: mean TL 87.0 cm ± 9.7...
 > -- *[[PikeEsoxLuciusLOnTheEdgeConsis_2016]]*
 
+> This 1964 laboratory study by Jordan and Lloyd investigated the tolerance of [[Rainbow Trout]] (*Salmo gairdnerii*) and [[Roach]] (*Rutilus rutilus*) to alkaline solutions. Experiments measured survival times at various pH levels following acclimatization to different pH values. [[Rainbow Trout]]...
+> -- *[[TheResistanceOfRainbowTroutSal_19859]]*
+
 ## Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
@@ -36,3 +39,4 @@ Roach (Rutilus rutilus) is a common cyprinid fish species inhabiting the benthic
 - [[TheCalculationOfTheAcuteToxici_1968_06_24]]
 - [[VariationsInTheFecundityOfPike_1969]]
 - [[PikeEsoxLuciusLOnTheEdgeConsis_2016]]
+- [[TheResistanceOfRainbowTroutSal_19859]]

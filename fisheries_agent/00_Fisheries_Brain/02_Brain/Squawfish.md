@@ -29,6 +29,9 @@ Squawfish (genus *Ptychocheilus*, family Cyprinidae) are native North American c
 > This Federal Aid to Fish Restoration report documents population dynamics, species composition, limnological conditions, and management strategies for [[Arrowrock Reservoir]] and [[Lucky Peak Reservoir]] on the [[Boise River]], Idaho, from July 1965 through February 1968. Extensive gill netting...
 > -- *[[LakeAndReservoirInvestigations_12145]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
 ## Mentioned In
 - [[BattleAgainstExtinctionNativeF_17606]]
 - [[LetterToDrWendellMinckleyOnRaz_1975_05_02]]
@@ -36,3 +39,4 @@ Squawfish (genus *Ptychocheilus*, family Cyprinidae) are native North American c
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
 - [[FederalAidToFishRestorationAnn_19654]]
 - [[LakeAndReservoirInvestigations_12145]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]

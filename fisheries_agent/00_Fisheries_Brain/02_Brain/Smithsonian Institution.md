@@ -26,6 +26,9 @@ auto_enriched: true
 > This taxonomic paper describes *Laccocythere aotearoa*, a new genus and species of entocytherid ostracod commensal on the freshwater crayfish [[Paranephrops planifrons]] from [[Pelorus Valley]], [[South Island]], [[New Zealand]]. The new genus *Laccocythere* is placed in the subfamily...
 > -- *[[ANewOstracodEntocytheridaeNoto_20684]]*
 
+> This study describes the larva of *[[Haideoporus texanus]]*, the first hypogeous (subterranean) dytiscid beetle discovered in North America. Three larvae were collected from a flowing artesian well at the Aquatic Station (formerly [[San Marcos Federal Fish Hatchery]]) in [[San Marcos, Texas]]. The...
+> -- *[[TheLarvaOfANewSubterraneanWate_16197]]*
+
 ## Mentioned In
 - [[LetterOnDispositionOfFrozenBon_1993_10_01]]
 - [[ReviewOfTheEndangeredFishResea_1991_10_03]]
@@ -34,3 +37,4 @@ auto_enriched: true
 - [[GilaTaxonomyProjectIssuesAndPr_14720]]
 - [[ASummaryOfInformationAboutTheA_18574]]
 - [[ANewOstracodEntocytheridaeNoto_20684]]
+- [[TheLarvaOfANewSubterraneanWate_16197]]

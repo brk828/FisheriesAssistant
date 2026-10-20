@@ -14,7 +14,11 @@ auto_enriched: true
 > **Taxonomic & Life-History Summary**: [[Chinook Salmon]] (*Oncorhynchus tshawytscha*) from the [[Willamette River]] exhibit both yearling (migrate to sea after first winter) and subyearling (migrate before first winter) life histories, though this study focused exclusively on hatchery-produced...
 > -- *[[SizeAtReleaseSizeselectiveMort_2011]]*
 
+> This note documents the first freshwater record of [[Pacific Lamprey]] (*Lampetra tridentata*) from [[Baja California]], Mexico. An ammocoete (larval lamprey) was collected on 19 February 1995 in the lower [[Rio Santo Domingo]], approximately 600 m above its mouth at Bahia San Ramon, 6 km west of...
+> -- *[[FirstFreshwaterRecordOfPacific_21111]]*
+
 ## Mentioned In
 - [[DiversityInFeedingByBrandtSCor_1970]]
 - [[FishSpeciesFromThePointStGeorg_1965_02_22]]
 - [[SizeAtReleaseSizeselectiveMort_2011]]
+- [[FirstFreshwaterRecordOfPacific_21111]]

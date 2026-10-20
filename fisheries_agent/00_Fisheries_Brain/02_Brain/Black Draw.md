@@ -17,8 +17,16 @@ auto_enriched: true
 > Field survey conducted April 27-29, 1990 by W.L. Minckley, S.P. Vives, B.D. DeMarais, and J. Dunham documenting native and non-native fish populations at [[San Bernardino National Wildlife Refuge]] and surrounding waters in [[Cochise County]], Arizona. Survey documented multiple native species...
 > -- *[[FieldNotesOfTripToSanBernardin_13172]]*
 
+> This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
+> -- *[[BiologicalOpinionForTheSanBern_13329]]*
+
+> This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
+> -- *[[FisheryManagementForTheSanBern_18979]]*
+
 ## Mentioned In
 - [[AsianTapewormEradicationStrate_13118]]
 - [[RestorationProposalForSanBerna_13383]]
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
+- [[BiologicalOpinionForTheSanBern_13329]]
+- [[FisheryManagementForTheSanBern_18979]]

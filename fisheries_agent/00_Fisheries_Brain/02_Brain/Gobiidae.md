@@ -26,6 +26,9 @@ Gobiidae is a large and diverse family of small, benthic fish characterized by t
 > This 1920 taxonomic description by Carl L. Hubbs establishes [[Sicydium montanum]] as a new species of goby collected from a mountain brook in [[Macuto]], [[Caracas]], [[Venezuela]]. The species is distinguished from related congeners [[Sicydium punctatum]] and [[Sicydium buscki]] by its larger...
 > -- *[[SicydiumMontanumANewSpeciesOfG_19968]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnOrientalGobyCollectedInTheSa_12952]]
@@ -36,3 +39,4 @@ Gobiidae is a large and diverse family of small, benthic fish characterized by t
 - [[PrevalenceOfMaleBroodCareInTel_1978]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[SicydiumMontanumANewSpeciesOfG_19968]]
+- [[AClassificationOfTheFishesOfTh_14438]]

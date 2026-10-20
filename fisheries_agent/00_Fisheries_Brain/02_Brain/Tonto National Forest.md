@@ -26,6 +26,9 @@ Tonto National Forest represents a key geographic region within Arizona's Gila R
 > This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
 > -- *[[DraftEvaluationOfPotentialsFor_15827]]*
 
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[FederalEndangeredFishSpeciesCo_1993_11_19]]
 - [[FindingOfNoSignificantImpactAr_11493]]
@@ -42,3 +45,4 @@ Tonto National Forest represents a key geographic region within Arizona's Gila R
 - [[SectionComplianceLetterOnTheCo_1991_02_25]]
 - [[SummaryDataSheetForFisheryStud_11504]]
 - [[DraftEvaluationOfPotentialsFor_15827]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

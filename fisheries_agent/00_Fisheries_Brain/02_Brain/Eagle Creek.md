@@ -68,6 +68,15 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 > This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
 > -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyWa_1994_01_31]]
 - [[CommentsOnTheDraftActivityPlan_13812]]
@@ -99,3 +108,6 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]

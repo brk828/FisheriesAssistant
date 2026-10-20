@@ -65,6 +65,9 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 > This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
 > -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
 
+> This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
+> -- *[[BiologicalOpinionForTheSanBern_13329]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -90,3 +93,4 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[BiologicalOpinionForTheSanBern_13329]]

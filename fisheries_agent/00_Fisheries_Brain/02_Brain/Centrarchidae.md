@@ -62,6 +62,9 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 > This 1955 report documents the distribution and status of the introduced [[Pumpkinseed]] (*Lepomis gibbosus*) in [[California]]. The species was considered rare in the state, with scattered populations in widely separated locations. The authors compile historical records from 1939-1954, correcting...
 > -- *[[TheStatusOfThePumpkinseedLepom_12862]]*
 
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AGrowthStudyAndBloodProteinAna_15288]]
@@ -155,3 +158,4 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[EffectOfChannelizationOnTheFis_18139]]
 - [[TheStatusOfThePumpkinseedLepom_12862]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

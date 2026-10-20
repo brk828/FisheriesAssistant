@@ -227,6 +227,30 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
 > -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
 
+> This document presents the final rule amending 50 CFR Part 424, establishing revised procedures for listing endangered and threatened species and designating critical habitat under the [[Endangered Species Act]] (ESA). Published October 1, 1984, by the [[U.S. Fish and Wildlife Service]] and...
+> -- *[[ListingEndangeredAndThreatened_13309]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> This document is a legal complaint filed by the Board of County Commissioners of [[Catron County]], New Mexico, against the [[U.S. Fish and Wildlife Service]] (FWS) and its officials in U.S. District Court (Case No. CIV 93-730-HB). The complaint challenges FWS actions regarding two threatened fish...
+> -- *[[CatronCountyBoardOfCommissione_16056]]*
+
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
+> This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
+> -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
+> Official correspondence from the U.S. Fish and Wildlife Service Regional Director to the Desert Fishes Council Executive Secretary dated January 14, 1987, regarding unauthorized collection of endangered fish and reptiles at [[Cuatro Cienegas]], [[Coahuila]], [[Mexico]]. The letter addresses...
+> -- *[[UnauthorizedCollectingInMexico_20833]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -584,3 +608,11 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
 - [[NativeFishesOfTheGrandCanyonRe_1991]]
+- [[ListingEndangeredAndThreatened_13309]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[CatronCountyBoardOfCommissione_16056]]
+- [[TowardRangewideIntegrationOfRe_18628]]
+- [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]
+- [[UsFishAndWildlifeServicesAbili_20453]]
+- [[UnauthorizedCollectingInMexico_20833]]

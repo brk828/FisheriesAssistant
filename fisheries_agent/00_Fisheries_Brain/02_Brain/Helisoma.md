@@ -11,5 +11,9 @@ Helisoma is a genus of freshwater snails that serves as the first intermediate h
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
 ## Mentioned In
 - [[ABibliographyAndHostListForThe_15289]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]

@@ -26,6 +26,9 @@ auto_enriched: true
 > This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
 > -- *[[BuildingSuccessfulPartnerships_13226]]*
 
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
+> -- *[[WrittenCommentsOnSupplementToD_20523]]*
+
 ## Mentioned In
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
 - [[ListedAndCandidateSpeciesRespo_11941]]
@@ -33,3 +36,4 @@ auto_enriched: true
 - [[IntraserviceSectionConsultatio_20152]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[BuildingSuccessfulPartnerships_13226]]
+- [[WrittenCommentsOnSupplementToD_20523]]

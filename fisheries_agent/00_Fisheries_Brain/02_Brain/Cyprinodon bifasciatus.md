@@ -14,9 +14,13 @@ Cyprinodon bifasciatus, commonly known as the Cuatro Ciénegas pupfish, is a sma
 > This letter from W.L. Minckley ([[Arizona State University]]) to Dr. Robert R. Miller ([[University of Michigan]]) dated June 30, 1988, addresses the discovery of [[Tilapia]] introduction into the [[Cuatro Cienegas]] basin in Mexico. Minckley outlines his position on appropriate response protocols,...
 > -- *[[TilapiaInCuatroCienegas_13761]]*
 
+> This Ph.D. dissertation proposal by Anna Melina Ludlow at [[Lehigh University]] outlines a comprehensive study of sexual selection, mate choice, and hybridization in two endemic pupfish species from the [[Cuatro Cienegas]] basin in northern Mexico: [[Cyprinodon atrorus]] and [[Cyprinodon...
+> -- *[[SexualSelectionInTheCuatroCien_20108]]*
+
 ## Mentioned In
 - [[Cuatro Ciénegas Food Web]]
 - [[CuatroCienegasFishesResearchRe_13699]]
 - [[PermitToCollectExoticFishInCua_12769]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[TilapiaInCuatroCienegas_13761]]
+- [[SexualSelectionInTheCuatroCien_20108]]

@@ -17,9 +17,13 @@ The Pacific lamprey (Entosphenus tridentatus) is a jawless fish native to wester
 > This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
 > -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
 
+> This note documents the first freshwater record of [[Pacific Lamprey]] (*Lampetra tridentata*) from [[Baja California]], Mexico. An ammocoete (larval lamprey) was collected on 19 February 1995 in the lower [[Rio Santo Domingo]], approximately 600 m above its mouth at Bahia San Ramon, 6 km west of...
+> -- *[[FirstFreshwaterRecordOfPacific_21111]]*
+
 ## Mentioned In
 - [[DeclineOfTheNativeFishFaunaOfT_1974]]
 - [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
 - [[OccurrenceOfThePacificLampreyE_1967_12_13]]
 - [[OwnersToDemolishDamThatBlocksF_14938]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[FirstFreshwaterRecordOfPacific_21111]]

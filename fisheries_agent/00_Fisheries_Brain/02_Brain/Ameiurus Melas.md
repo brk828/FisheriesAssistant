@@ -14,8 +14,12 @@ auto_enriched: true
 > This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
 > -- *[[DistributionalAndLocalVernacul_13815]]*
 
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
 ## Mentioned In
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
 - [[LifeHistoryOfAStrigeidTrematod_14492]]
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[DistributionalAndLocalVernacul_13815]]
+- [[BeaverScoping_18972]]

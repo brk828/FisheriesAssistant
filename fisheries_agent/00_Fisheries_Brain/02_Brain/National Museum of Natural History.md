@@ -8,6 +8,10 @@ auto_enriched: true
 > - **144 total specimens** appeared across the 24 color plates of *The American Darters*. - **117 specimens** had confirmed locality and collection data successfully reconstructed; **7 additional** had probable data — totaling **124 of 144** (86%) with recoverable provenance. - **Disposition break...
 > -- *[[ProvenanceAndDispositionOfFish_16999]]*
 
+> This study describes the larva of *[[Haideoporus texanus]]*, the first hypogeous (subterranean) dytiscid beetle discovered in North America. Three larvae were collected from a flowing artesian well at the Aquatic Station (formerly [[San Marcos Federal Fish Hatchery]]) in [[San Marcos, Texas]]. The...
+> -- *[[TheLarvaOfANewSubterraneanWate_16197]]*
+
 ## Mentioned In
 - [[ProvenanceAndDispositionOfFish_16999]]
 - [[RangeOfChriodorus_17137]]
+- [[TheLarvaOfANewSubterraneanWate_16197]]

@@ -29,6 +29,12 @@ The Bureau of Sport Fisheries and Wildlife was a federal agency responsible for 
 > Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
 > -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
 
+> This U.S. Fish and Wildlife Service circular (Circular 159, October 1963, with April 1964 correction) provides comprehensive guidance on feeding protocols and nutritional management for hatchery-reared trout. Authored by Arthur M. Phillips Jr., A. V. Tunison, and George C. Balzer from the [[Trout...
+> -- *[[TroutFeedsAndFeeding_11173]]*
+
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
 ## Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
 - [[ArizonaNevadaCooperativeFisher_1961]]
@@ -41,3 +47,5 @@ The Bureau of Sport Fisheries and Wildlife was a federal agency responsible for 
 - [[SurveyOfTroutHepatoma_11519]]
 - [[ColumnarisDiseaseOfFishes_21236]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
+- [[TroutFeedsAndFeeding_11173]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]

@@ -26,9 +26,13 @@ Apache Lake is a warm, monomictic desert reservoir on the Salt River in central 
 > This completion report (1972-1975) documents the environmental impacts of pumped-storage hydroelectric generation on the lower Salt River reservoir chain in Central Arizona. The study focused on [[Canyon Lake]] and [[Saguaro Lake]], two desert reservoirs subjected to massive operational...
 > -- *[[InfluenceOfPumpStorageAndGener_15886]]*
 
+> This master's thesis investigated the vertical distribution of fishes in [[Roosevelt Lake]] and [[Apache Lake]], two contiguous reservoirs on the [[Salt River]] in central Arizona, during 1970-1971. Using vertical gill nets at multiple transects, the study examined fish depth distributions relative...
+> -- *[[VerticalDistributionOfFishesRe_18202]]*
+
 ## Mentioned In
 - [[FactorsInfluencingFishDistribu_15011]]
 - [[OccurrenceOfTwoSpeciesOfFreshw_11814]]
 - [[ProposalForAquaticInvestigatio_1979_04_20]]
 - [[InvestigationsOfCommercialFish_18562]]
 - [[InfluenceOfPumpStorageAndGener_15886]]
+- [[VerticalDistributionOfFishesRe_18202]]

@@ -38,6 +38,9 @@ Death Valley refers to an isolated desert region in the American Southwest chara
 > This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
 > -- *[[FishesAndAquaticResourcesDeath_15415]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[FourthAnnualDesertFishesSympos_1972_09_20]]
@@ -50,3 +53,4 @@ Death Valley refers to an isolated desert region in the American Southwest chara
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[FishesAndAquaticResourcesDeath_15415]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]

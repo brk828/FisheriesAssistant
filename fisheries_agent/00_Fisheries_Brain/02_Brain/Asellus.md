@@ -23,6 +23,9 @@ Asellus is a genus of freshwater isopods (small crustaceans) that encompasses bo
 > This 1949 taxonomic revision by Hubricht & Mackin systematically reclassifies North American freshwater isopods previously assigned to the genus *Mancasellus* Harger under the earlier, valid genus name **[[Lirceus]]** Rafinesque (1820). The paper establishes a species-level identification key bas...
 > -- *[[TheFreshwaterIsopodsOfTheGenus_14487]]*
 
+> This paper describes *Asellus puebla*, a new species of freshwater isopod crustacean collected from the [[Rio Cosala]] in [[Puebla]], [[Mexico]]. The discovery extends the known southern distribution limit of the genus [[Asellus]] from approximately 30° latitude to just below 20° latitude. The...
+> -- *[[ANewSpeciesOfAquaticIsopodCrus_17104]]*
+
 ## Mentioned In
 - [[BiologyOfThreeNewSpeciesOfTrog_14750]]
 - [[PotentialTransferOfAquaticBiot_15903]]
@@ -30,3 +33,4 @@ Asellus is a genus of freshwater isopods (small crustaceans) that encompasses bo
 - [[SurLaSystématiqueEtLaBiogéogra_1968_07_01]]
 - [[TheFreshwaterIsopodsOfTheGenus_14487]]
 - [[TheIonicCompositionOfSomeLowla_11054]]
+- [[ANewSpeciesOfAquaticIsopodCrus_17104]]

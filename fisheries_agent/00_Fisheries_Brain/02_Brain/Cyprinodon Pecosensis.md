@@ -17,8 +17,16 @@ auto_enriched: true
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
+> This Ph.D. dissertation proposal by Anna Melina Ludlow at [[Lehigh University]] outlines a comprehensive study of sexual selection, mate choice, and hybridization in two endemic pupfish species from the [[Cuatro Cienegas]] basin in northern Mexico: [[Cyprinodon atrorus]] and [[Cyprinodon...
+> -- *[[SexualSelectionInTheCuatroCien_20108]]*
+
 ## Mentioned In
 - [[AClassificationOfTexasAquaticC_15773]]
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[EndangeredAndThreatenedWildlif_11741]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[SexualSelectionInTheCuatroCien_20108]]

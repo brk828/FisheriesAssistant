@@ -23,6 +23,9 @@ Saguaro Lake is a warm-water desert reservoir in Arizona characterized by high r
 > This completion report (1972-1975) documents the environmental impacts of pumped-storage hydroelectric generation on the lower Salt River reservoir chain in Central Arizona. The study focused on [[Canyon Lake]] and [[Saguaro Lake]], two desert reservoirs subjected to massive operational...
 > -- *[[InfluenceOfPumpStorageAndGener_15886]]*
 
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
 ## Mentioned In
 - [[BranchiuraSowerbyiBeddardAnnel_16017]]
 - [[RiverBasinInvestigationsCooper_12958]]
@@ -30,3 +33,4 @@ Saguaro Lake is a warm-water desert reservoir in Arizona characterized by high r
 - [[RooseveltLakeRazorbackSuckerRe_1994_08_19]]
 - [[InvestigationsOfCommercialFish_18562]]
 - [[InfluenceOfPumpStorageAndGener_15886]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]

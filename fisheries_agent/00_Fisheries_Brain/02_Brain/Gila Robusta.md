@@ -74,6 +74,9 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AResumeOfTheDetoxificationPhas_1963]]
@@ -133,3 +136,4 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[MultivariateDiscriminationOfCo_19077]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[BeaverScoping_18972]]

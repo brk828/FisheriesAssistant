@@ -53,6 +53,9 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
+> -- *[[BiologicalOpinionForTheSanBern_13329]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -85,3 +88,4 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 - [[OutlineOfSanBernardinoRanchMan_20829]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[BiologicalOpinionForTheSanBern_13329]]

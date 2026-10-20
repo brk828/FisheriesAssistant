@@ -23,6 +23,12 @@ The Sonoran Chub is an imperiled native fish species endemic to the southwestern
 > - **Verde River** – stocking site for [[Colorado Squawfish]] and [[Razorback Sucker]]; voucher collection site for [[Spikedace]] - **Lake Mohave** (Arizona Bay, Yuma Cove, Three Mile Flat) – key wild source population for [[Razorback Sucker]] larvae, juveniles, and adults - **Little Colorado Rive...
 > -- *[[ReportOnPrtActivityFromDecembe_1992_12_01]]*
 
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
 ## Mentioned In
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
 - [[CorrespondenceAppointmentOfCon_16439]]
@@ -30,3 +36,5 @@ The Sonoran Chub is an imperiled native fish species endemic to the southwestern
 - [[LetterToProfessorWLMinckleyOnD_1989_05_15]]
 - [[ReportOnPrtActivityFromDecembe_1992_12_01]]
 - [[ReportOnPrtActivityFromDecembe_1993_12_07]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]

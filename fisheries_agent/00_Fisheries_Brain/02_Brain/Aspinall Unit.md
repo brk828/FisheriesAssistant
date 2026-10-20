@@ -23,6 +23,12 @@ The Aspinall Unit refers to a series of four large federal hydroelectric dams an
 > This document presents the Fiscal Year 1992 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on August 15, 1991, the plan allocates $2,988,900 across five recovery...
 > -- *[[FiscalYearWorkPlan_11594]]*
 
+> This document comprises multiple research proposals (FY-1994 Scope-of-Work) for the Recovery Implementation Program targeting endangered fish species in the [[Upper Colorado River Basin]]. The proposals focus on evaluating flow manipulations from the [[Aspinall Unit]] and their effects on...
+> -- *[[FiscalYearScopeOfWorkResearchP_11213]]*
+
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
 ## Mentioned In
 - [[InterestGroupParticipationInTh_1994_08_05]]
 - [[RoundtableDiscussionOnStreamfl_1994_12_22]]
@@ -30,3 +36,5 @@ The Aspinall Unit refers to a series of four large federal hydroelectric dams an
 - [[HighlightsOfAPeerReviewAndRoun_11448]]
 - [[DraftLongRangePlan_11590]]
 - [[FiscalYearWorkPlan_11594]]
+- [[FiscalYearScopeOfWorkResearchP_11213]]
+- [[TowardRangewideIntegrationOfRe_18628]]

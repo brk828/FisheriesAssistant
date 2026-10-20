@@ -17,8 +17,12 @@ The Tombigbee River is a major aquatic system in northeastern Mississippi that s
 > This taxonomic paper describes a new genus (*Saurocythere*) and two new species of entocytherid ostracods (*Saurocythere rhipis* and *Ornithocythere gypodes*) collected from [[Cambarus Diogenes Diogenes]] crayfish in [[Alabama]] and [[Mississippi]]. The new genus *Saurocythere* is unique among...
 > -- *[[ANewGenusAndTwoNewSpeciesOfEnt_20413]]*
 
+> This study examines the growth, age composition, and mortality rates of [[Blue Catfish]] (*Ictalurus furcatus*) in the upper [[Tombigbee River]] of western Alabama using data collected August 5, 1965. Analysis of 196 fish for length-weight relationships and 125 spine samples for age determination...
+> -- *[[GrowthOfBlueCatfishIctalurusFu_17924]]*
+
 ## Mentioned In
 - [[EvidenceForAGeneticallyUniqueW_15534]]
 - [[ObservationsOnTheFoodHabitsOfT_12993]]
 - [[StoringWaterForUseInIrrigation_1954]]
 - [[ANewGenusAndTwoNewSpeciesOfEnt_20413]]
+- [[GrowthOfBlueCatfishIctalurusFu_17924]]

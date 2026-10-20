@@ -17,6 +17,9 @@ Lepidomeda mollispinis, commonly known as the Virgin River spinedace, is a small
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
 ## Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[EndangeredAndThreatenedWildlif_1993_03_16]]
@@ -26,3 +29,4 @@ Lepidomeda mollispinis, commonly known as the Virgin River spinedace, is a small
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]

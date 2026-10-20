@@ -74,6 +74,12 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 > This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
 > -- *[[FishesAndAquaticResourcesDeath_15415]]*
 
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
+> This document is a research proposal prospectus submitted by Dr. W.L. Minckley and Dr. M.E. Douglas of [[Arizona State University]] Department of Zoology to the [[U.S. Fish and Wildlife Service]] for consideration at the Colorado River Coordinating Committee session on 10 December 1987. The...
+> -- *[[ProspectusSystematicAnalysesOf_19078]]*
+
 ## Mentioned In
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
 - [[ColoradoRiverFishesRecoveryPro_1993_12_10]]
@@ -115,3 +121,5 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 - [[CommentsOnMRosenfeldsGilaTaxon_13067]]
 - [[MultivariateDiscriminationOfCo_19077]]
 - [[FishesAndAquaticResourcesDeath_15415]]
+- [[LetterToWayneStarnesAuthorizat_11924]]
+- [[ProspectusSystematicAnalysesOf_19078]]

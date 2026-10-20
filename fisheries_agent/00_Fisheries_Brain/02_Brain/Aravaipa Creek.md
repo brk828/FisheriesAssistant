@@ -113,6 +113,21 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 > On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
 > -- *[[LoachMinnow_19034]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This investigation by the [[Arizona Department of Environmental Quality]] documents water quality impacts from the [[Klondyke Tailings]] along [[Aravaipa Creek]] in [[Graham County]], Arizona. The tailings consist of 220,000 tons of milled ore rich in lead, zinc, copper, and silver situated within...
+> -- *[[TheKlondykeTailingsAndAravaipa_14554]]*
+
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
+> This July 1970 correspondence from The Nature Conservancy's Western Regional Office to Dr. W. L. Minckley at [[Arizona State University]] discusses management proposals for [[Aravaipa Creek]] and requests a semi-popular report on the creek's aquatic biota. The letter emphasizes limiting fish...
+> -- *[[ManagementProposalaravaipaCany_19761]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -227,3 +242,8 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
 - [[LoachMinnow_19034]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[TheKlondykeTailingsAndAravaipa_14554]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]
+- [[ManagementProposalaravaipaCany_19761]]

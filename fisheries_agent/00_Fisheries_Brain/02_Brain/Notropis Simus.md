@@ -20,8 +20,12 @@ Notropis simus, commonly known as the bluntnose minnow, is a small cyprinid fish
 > This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
 > -- *[[CompositionAndDerivationOfTheF_15375]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[FishesInhabitingTheRioGrandeTe_1977_07_09]]
 - [[NotropisSimusSimusCopeRioGrand_1990]]
 - [[CompositionAndDerivationOfTheF_15375]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]

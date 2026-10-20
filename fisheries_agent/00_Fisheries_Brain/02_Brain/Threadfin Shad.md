@@ -98,6 +98,18 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 > **Taxonomic & Life-History Summary**: The lower Colorado River historically supported four federally endangered "big-river" fishes: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]] (*Gila elegans*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These...
 > -- *[[AConservationPlanForNativeFish_2003]]*
 
+> This Bureau of Reclamation memorandum documents the January 10, 1991 Native Fish Work Group meeting regarding ongoing efforts to restore [[Razorback Sucker]] populations in [[Lake Mohave]]. The project involves fish renovation of [[Yuma Cove]], introduction of mature razorback suckers for spawning,...
+> -- *[[ResultsOfTheNativeFishWorkGrou_15025]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
+> This master's thesis investigated the vertical distribution of fishes in [[Roosevelt Lake]] and [[Apache Lake]], two contiguous reservoirs on the [[Salt River]] in central Arizona, during 1970-1971. Using vertical gill nets at multiple transects, the study examined fish depth distributions relative...
+> -- *[[VerticalDistributionOfFishesRe_18202]]*
+
+> This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
+> -- *[[LakeMohaveSamplingMarch_20326]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -192,3 +204,7 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[ImperialPondsRenovationPlan_2014]]
 - [[AConservationPlanForNativeFish_2003]]
+- [[ResultsOfTheNativeFishWorkGrou_15025]]
+- [[IntroductionOfRainbowSmeltInto_17850]]
+- [[VerticalDistributionOfFishesRe_18202]]
+- [[LakeMohaveSamplingMarch_20326]]

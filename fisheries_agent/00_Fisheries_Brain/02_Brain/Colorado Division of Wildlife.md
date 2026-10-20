@@ -14,6 +14,12 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 > This document presents interim procedures developed cooperatively by the [[U.S. Fish and Wildlife Service]] and the states of [[Colorado]], [[Utah]], and [[Wyoming]] to regulate stocking of nonnative fish species in the [[Upper Colorado River Basin]]. The procedures aim to ensure that all future...
 > -- *[[InterimProceduresForStockingNo_15423]]*
 
+> This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
+> -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
+
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
 ## Mentioned In
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
 - [[ColoradoSquawfishInteragencyTr_1973]]
@@ -21,3 +27,5 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 - [[ProceduresForIntroductionOfAqu_17182]]
 - [[RequestForReleasesFromRuedigre_1989_06_08]]
 - [[InterimProceduresForStockingNo_15423]]
+- [[RazorbackSuckerXyauchenTexanus_13769]]
+- [[TowardRangewideIntegrationOfRe_18628]]

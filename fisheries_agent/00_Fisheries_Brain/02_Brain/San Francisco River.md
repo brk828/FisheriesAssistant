@@ -86,6 +86,12 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 > On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
 > -- *[[LoachMinnow_19034]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -127,3 +133,5 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
 - [[LoachMinnow_19034]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]

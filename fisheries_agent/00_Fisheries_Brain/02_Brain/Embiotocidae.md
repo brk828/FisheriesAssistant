@@ -14,8 +14,12 @@ Embiotocidae is a family of viviparous marine and freshwater fishes commonly kno
 > This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
 > -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
 
+> This 1918 systematic revision by Carl L. Hubbs reorganizes the family [[Embiotocidae]] (viviparous perches or surf-fishes) of [[California]], establishing three subfamilies based on anal fin structure and dentition. The [[Embiotocidae]] represent a highly evolved example of viviparity in fishes,...
+> -- *[[ARevisionOfTheViviparousPerche_19963]]*
+
 ## Mentioned In
 - [[InfluenceOfLandMassesOnTheDist_14157]]
 - [[SomeEndoparasitesOfFishesFromT_1968]]
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ARevisionOfTheViviparousPerche_19963]]

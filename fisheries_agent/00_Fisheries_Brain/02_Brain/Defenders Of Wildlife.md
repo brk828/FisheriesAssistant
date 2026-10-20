@@ -32,6 +32,9 @@ Defenders of Wildlife is a prominent conservation organization that has actively
 > This document is the final rule issued by the [[U.S. Fish and Wildlife Service]] on August 27, 1984, implementing Section 10(j) of the [[Endangered Species Act]] (ESA) as amended in 1982. The rule establishes procedures for designating and managing "experimental populations" of endangered or...
 > -- *[[EndangeredAndThreatenedWildlif_11548]]*
 
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
+> -- *[[WrittenCommentsOnSupplementToD_20523]]*
+
 ## Mentioned In
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
@@ -41,3 +44,4 @@ Defenders of Wildlife is a prominent conservation organization that has actively
 - [[SummaryOfEvents_18368]]
 - [[WrittenCommentsOnDraftBiologic_20522]]
 - [[EndangeredAndThreatenedWildlif_11548]]
+- [[WrittenCommentsOnSupplementToD_20523]]

@@ -53,6 +53,9 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 > This document presents a restoration plan for the federally endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Upper Colorado River Basin]]. Once abundant throughout the [[Colorado River Basin]], the species has been virtually extirpated from riverine habitats in the lower basin due to...
 > -- *[[RestorationPlanForRazorbackSuc_20599]]*
 
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -93,3 +96,4 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
 - [[RestorationPlanForRazorbackSuc_20599]]
+- [[AnInvestigationOfEndangeredAnd_12516]]

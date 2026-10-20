@@ -23,9 +23,13 @@ Gar are a complex of primitive, elongated predatory fishes in the genus Lepisost
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[CausesOfDeathAmongIndianaFishe_1945]]
 - [[SelectivityAndEffectivenessOfC_12188]]
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[WhatHaveICaught_12929]]
+- [[MichiganFishPredators_12681]]

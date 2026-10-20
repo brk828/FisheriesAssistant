@@ -140,6 +140,21 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 > This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
 > -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This document is a legal complaint filed by the Board of County Commissioners of [[Catron County]], New Mexico, against the [[U.S. Fish and Wildlife Service]] (FWS) and its officials in U.S. District Court (Case No. CIV 93-730-HB). The complaint challenges FWS actions regarding two threatened fish...
+> -- *[[CatronCountyBoardOfCommissione_16056]]*
+
+> This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
+> -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> This technical review draft outlines a comprehensive recovery plan for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling minnow endemic to the [[Gila River]] system of Arizona and New Mexico. Listed as threatened under the [[Endangered Species Act]] in 1986, the species has experienced...
+> -- *[[TechnicalReviewDraftSpikedaceM_19407]]*
+
 ## Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -327,3 +342,8 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[CatronCountyBoardOfCommissione_16056]]
+- [[RazorbackSuckerXyrauchenTexanu_18008]]
+- [[BeaverScoping_18972]]
+- [[TechnicalReviewDraftSpikedaceM_19407]]

@@ -23,6 +23,9 @@ Lake Mojave is a major reservoir on the lower Colorado River that serves as the 
 > This 1982 research proposal, submitted by Linda Ulmer (California Department of Fish and Game) to the U.S. Fish and Wildlife Service, outlines a two-phase electrophoretic study to assess genetic purity of [[Razorback Sucker]] (*Xyrauchen texanus*) breeding stocks. The study addresses concerns that...
 > -- *[[LetterToJimJohnsonWithEncolose_11425]]*
 
+> This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
+> -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
+
 ## Mentioned In
 - [[BonytailChubStrategicPlan_13206]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -31,3 +34,4 @@ Lake Mojave is a major reservoir on the lower Colorado River that serves as the 
 - [[LakeMohaveSamplingParticipatio_1990_01_11]]
 - [[RazorbackSuckerGeneticSurveyTi_1992]]
 - [[LetterToJimJohnsonWithEncolose_11425]]
+- [[NoticeOfViolationOfTheEsaConce_18645]]

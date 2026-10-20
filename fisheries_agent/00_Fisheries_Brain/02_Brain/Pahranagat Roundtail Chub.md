@@ -17,8 +17,12 @@ The Pahranagat Roundtail Chub is a cyprinid (minnow family) fish species endemic
 > This technical review draft recovery plan addresses the critically endangered [[Pahranagat Roundtail Chub]] (*Gila robusta jordani*), a thermal spring-endemic cyprinid restricted to [[Pahranagat Valley]], [[Lincoln County]], Nevada. Listed as endangered in 1970, this subspecies represents a relict...
 > -- *[[TechnicalReviewDraftPahranagat_13301]]*
 
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[FisheriesFieldStationSummarySo_1996]]
 - [[LetterOnCuiUiRecoveryPlanForma_1989_08_21]]
 - [[TechnicalReviewDraftPahranagat_13301]]
+- [[LetterToWayneStarnesAuthorizat_11924]]

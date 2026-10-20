@@ -17,7 +17,11 @@ Taylor Draw Dam is a water management structure relevant to Colorado River fish 
 > - **Historical context**: All four species were once widespread across the lower and upper basins of the [[Colorado River]], including the Gila and Salt River drainages, prior to dam construction and diversions. - **Primary driver of decline (Assumption 1)**: Disruption of natural hydrological re...
 > -- *[[ThoughtsOnTheStatusAndRecovery_1990_05_08]]*
 
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
 ## Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DesertFishesRecoveryTeamMeetin_11195]]
 - [[ThoughtsOnTheStatusAndRecovery_1990_05_08]]
+- [[DraftRecoveryImplementationPro_11643]]

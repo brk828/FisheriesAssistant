@@ -35,6 +35,9 @@ A Habitat Conservation Plan (HCP) is a comprehensive, legally binding document r
 > **Taxonomic & Life-History Summary**: The Imperial Ponds Conservation Area (IPCA) targets two native fish species: [[Razorback Sucker]] (*Xyrauchen texanus*, family Catostomidae) and [[Bonytail]] (*Gila elegans*, family Cyprinidae). Each pond was stocked with approximately 300 adult fishes in even...
 > -- *[[ImperialPondsConservationAreaA_2020]]*
 
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[BriefingNotesEndangeredFishInC_14950]]
@@ -47,3 +50,4 @@ A Habitat Conservation Plan (HCP) is a comprehensive, legally binding document r
 - [[RequestForProposalspresubmitta_18342]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[ImperialPondsConservationAreaA_2020]]
+- [[TowardRangewideIntegrationOfRe_18628]]

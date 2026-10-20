@@ -14,7 +14,11 @@ Heterandria formosa is a small viviparous poeciliid fish that was noted in early
 > - **Gambusia holbrookii**: Larger of the two genera under study; females typically ~2x the size of males, though females rarely exceed 2.5 inches in length. More northerly range than [[Heterandria formosa]]. - **Heterandria formosa**: One of the smallest known vertebrates at the time of publicati...
 > -- *[[BreedingHabitsOfTheViviparousF_1911_05_15]]*
 
+> This article by Dr. George S. Myers examines the ecological dangers posed by [[Gambusia affinis]] (mosquitofish), a small livebearer from the southeastern United States that was widely introduced worldwide for mosquito control beginning around the turn of the 20th century. Despite its effectiveness...
+> -- *[[GambusiaTheFishDestroyer_15551]]*
+
 ## Mentioned In
 - [[BreedingHabitsOfTheViviparousF_1911_05_15]]
 - [[CorrespondenceOnMexicanFishTax_1993_10_21]]
 - [[DetectionOfPredationOnAustrali_1999]]
+- [[GambusiaTheFishDestroyer_15551]]

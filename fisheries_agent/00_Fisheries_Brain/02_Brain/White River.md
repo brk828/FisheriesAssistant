@@ -89,6 +89,18 @@ The White River refers to a river system in the south-central United States (pri
 > On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
 > -- *[[LoachMinnow_19034]]*
 
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This case study examines the conservation status, recovery efforts, and reintroduction programs for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America. Once a dominant predator throughout the [[Colorado River]] system, the species declined dramatically from...
+> -- *[[CaseStudyColoradoRiverSqauwfis_16101]]*
+
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -137,3 +149,7 @@ The White River refers to a river system in the south-central United States (pri
 - [[HabitatStudyOfRoundtailChubGil_18268]]
 - [[CompletionReportYampawhitePhys_18677]]
 - [[LoachMinnow_19034]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[CaseStudyColoradoRiverSqauwfis_16101]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]

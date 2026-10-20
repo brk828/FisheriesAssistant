@@ -29,6 +29,9 @@ White Sturgeon (Acipenser transmontanus) is a large, long-lived anadromous and p
 > This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
 > -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
 
+> This 1954 California Department of Fish and Game document announces the reopening of recreational sturgeon fishing after a 35-year closure. The white sturgeon (*Acipenser transmontanus*) and green sturgeon (*Acipenser medirostris*) populations had recovered sufficiently to allow limited harvest....
+> -- *[[TheCaliforniaSturgeon_17339]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[ObservationsOnTheFoodHabitsOfJ_20603]]
@@ -39,3 +42,4 @@ White Sturgeon (Acipenser transmontanus) is a large, long-lived anadromous and p
 - [[WhiteSturgeonWithSevenRowsOfSc_17276]]
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[TheCaliforniaSturgeon_17339]]

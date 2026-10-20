@@ -11,5 +11,9 @@ The Hardy River is a waterway on the western side of the Colorado River Delta wh
 > This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
 > -- *[[AllocatingFreshWaterToAquaticE_18641]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
 ## Mentioned In
 - [[AllocatingFreshWaterToAquaticE_18641]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]

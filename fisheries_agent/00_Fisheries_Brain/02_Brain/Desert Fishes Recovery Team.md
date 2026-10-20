@@ -47,6 +47,12 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 > This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
 > -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
 
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -141,3 +147,5 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 - [[DesertFishesRecoveryTeamAddres_13785]]
 - [[BiologicalOpinionOnTheEffectsT_11884]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]

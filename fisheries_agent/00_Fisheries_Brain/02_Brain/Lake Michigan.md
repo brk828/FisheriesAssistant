@@ -26,6 +26,9 @@ Lake Michigan is one of the five Great Lakes and serves as a critical freshwater
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
 ## Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[OriginAndDispersalOfTheAlewife_1957]]
@@ -35,3 +38,4 @@ Lake Michigan is one of the five Great Lakes and serves as a critical freshwater
 - [[TheSmeltOsmerusMordaxMitchill_13092]]
 - [[TheTemporalDistributionOfChlor_1966]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[IntroductionOfRainbowSmeltInto_17850]]

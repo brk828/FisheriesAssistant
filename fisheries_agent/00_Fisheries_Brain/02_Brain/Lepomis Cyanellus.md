@@ -47,6 +47,9 @@ Lepomis cyanellus, commonly known as the green sunfish, is a native centrarchid 
 > This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
 > -- *[[SkyIslandAquaticResourcesHabit_15003]]*
 
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[ARelativeStudyOfOxygenConsumpt_16948]]
@@ -70,3 +73,4 @@ Lepomis cyanellus, commonly known as the green sunfish, is a native centrarchid 
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
+- [[BeaverScoping_18972]]

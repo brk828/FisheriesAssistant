@@ -32,6 +32,9 @@ The Arizona Game and Fish Commission is the state regulatory agency responsible 
 > This document is a formal petition submitted to the [[Arizona Game and Fish Commission]] in 1994 by M. Brent Peugnet and the [[Arizona Herpetological Association]] (AHA, 222 members, 147 Arizona residents) requesting establishment of a new rule permitting commercial captive propagation of specific...
 > -- *[[DraftAndRevisedVersionsOfPetit_11208]]*
 
+> This intergovernmental agreement, drafted in February 1994 and effective through April 30, 1995, establishes an internship program between [[Arizona State University]] and the [[Arizona Game and Fish Commission]]. The agreement facilitates placement of university students in field positions with...
+> -- *[[DraftIntergovernmentalAgreemen_18172]]*
+
 ## Mentioned In
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
 - [[CaliforniaReptileInvestigation_1994_09_27]]
@@ -44,3 +47,4 @@ The Arizona Game and Fish Commission is the state regulatory agency responsible 
 - [[HumpbackChubEggCollectionInGra_13013]]
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
 - [[DraftAndRevisedVersionsOfPetit_11208]]
+- [[DraftIntergovernmentalAgreemen_18172]]

@@ -68,6 +68,9 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
 > -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
 
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -111,3 +114,4 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[BiologicalOpinionOnTheEffectsT_11884]]
 - [[BogHoleProjectMeetingSummary_12749]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

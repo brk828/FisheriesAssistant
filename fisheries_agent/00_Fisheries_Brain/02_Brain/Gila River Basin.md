@@ -68,6 +68,15 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
 > -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This Master's thesis by Nancy Beth Grimm (Arizona State University, May 1980) investigated nitrogen and phosphorus dynamics in streams of the [[Gila River Basin]], Arizona. The study assessed potential nutrient limitation of primary production and the role of [[Periphyton]] in nutrient uptake...
+> -- *[[NitrogenAndPhosphorousDynamics_17776]]*
+
+> This special report documents a reintroduction and monitoring program for two endangered native fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus lucius*), in the [[Salt River]] and [[Verde River]] systems of Arizona during 1991-1992. Both species were...
+> -- *[[RazorbackSuckerXyrauchenTexanu_18008]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -207,3 +216,6 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[ResultsOfFishMonitoringOfSelec_13200]]
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[NitrogenAndPhosphorousDynamics_17776]]
+- [[RazorbackSuckerXyrauchenTexanu_18008]]

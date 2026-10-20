@@ -47,6 +47,9 @@ Salmonidae is a family of teleost fishes that includes salmon, trout, and char s
 > This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
 > -- *[[NativeRockyMountainTroutAndSto_17773]]*
 
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -146,3 +149,4 @@ Salmonidae is a family of teleost fishes that includes salmon, trout, and char s
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
 - [[NativeRockyMountainTroutAndSto_17773]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

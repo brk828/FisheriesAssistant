@@ -56,6 +56,9 @@ The American Fisheries Society is a professional scientific organization dedicat
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> This document comprises correspondence dated December 19, 1990, from Dr. Salvador Contreras Balderas ([[Universidad Autonoma de Nuevo Leon]], Faculty of Biological Sciences) to Dr. W.L. Minckley ([[Arizona State University]]), along with Dr. Contreras Balderas's comprehensive curriculum vitae. The...
+> -- *[[CvForNewProposal_17525]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[AmericanFisheriesSocietyProtoc_12011]]
@@ -92,3 +95,4 @@ The American Fisheries Society is a professional scientific organization dedicat
 - [[BogHoleProjectMeetingSummary_12749]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[CvForNewProposal_17525]]

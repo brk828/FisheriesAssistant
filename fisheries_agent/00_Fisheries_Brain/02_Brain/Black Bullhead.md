@@ -92,6 +92,15 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 > **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
 > -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
+> -- *[[FisheryManagementForTheSanBern_18979]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
@@ -186,3 +195,6 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 - [[ResultsOfFishMonitoringOfSelec_13200]]
 - [[PopulationDynamicsTrophicInter_2003]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[BeaverScoping_18972]]
+- [[FisheryManagementForTheSanBern_18979]]

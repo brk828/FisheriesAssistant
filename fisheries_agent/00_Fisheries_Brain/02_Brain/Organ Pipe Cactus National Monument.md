@@ -44,6 +44,9 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 > This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
 > -- *[[FishesAndAquaticResourcesDeath_15415]]*
 
+> This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
+> -- *[[WrittenCommentsOnSupplementToD_20523]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
@@ -61,3 +64,4 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 - [[BuildingSuccessfulPartnerships_13226]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[FishesAndAquaticResourcesDeath_15415]]
+- [[WrittenCommentsOnSupplementToD_20523]]

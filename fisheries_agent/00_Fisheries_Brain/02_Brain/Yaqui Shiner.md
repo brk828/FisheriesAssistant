@@ -23,9 +23,13 @@ The Yaqui Shiner is a small native fish species endemic to the Rio Yaqui drainag
 > - **Preferred habitat**: shallow water (<20 cm depth), warm temperatures (>20° C), with adults concentrated below riffles in areas of moderate current and within algal mats along margins of flowing streams. Substrate in existing habitats is generally sandy. - **Juveniles**: more often found in th...
 > -- *[[YaquiTopminnowDraftRecoveryPla_1979]]*
 
+> This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
+> -- *[[FisheryManagementForTheSanBern_18979]]*
+
 ## Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
 - [[ReEvaluationOfTheNativeFishesO_12336]]
 - [[ScientificCollectingPermitRene_1994_11_08]]
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
+- [[FisheryManagementForTheSanBern_18979]]

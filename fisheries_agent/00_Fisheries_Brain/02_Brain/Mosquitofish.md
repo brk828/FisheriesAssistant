@@ -104,6 +104,24 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
 > -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
 
+> This Federal Register document announces the U.S. Fish and Wildlife Service's final rule removing the [[Amistad Gambusia]] (*Gambusia amistadensis*) from the List of Endangered and Threatened Wildlife, effective January 4, 1988. The delisting is based on determination that the species is extinct....
+> -- *[[EndangeredAndThreatenedWildlif_11567]]*
+
+> This recovery plan addresses four federally listed fish species from the [[Rio Yaqui Basin]]: two endangered species—[[Yaqui Chub]] (*Gila purpurea*) and [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*)—and two threatened species—[[Yaqui Catfish]] (*Ictalurus pricei*) and [[Beautiful...
+> -- *[[DraftRecoveryPlanForTheEndange_11645]]*
+
+> Minutes from the Desert Fishes Recovery Team meeting held December 7-8, 1989 in Phoenix, Arizona. The team addressed critical conservation issues for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*), including population...
+> -- *[[MinutesOfDesertFishesRecoveryT_13773]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
+> -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
+
+> This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -194,3 +212,9 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[FisheriesManagementOfElCapitan_16317]]
 - [[NativeFishesOfTheGrandCanyonRe_1991]]
+- [[EndangeredAndThreatenedWildlif_11567]]
+- [[DraftRecoveryPlanForTheEndange_11645]]
+- [[MinutesOfDesertFishesRecoveryT_13773]]
+- [[BeaverScoping_18972]]
+- [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[SamplingAtAsuKarstenGolfCourse_19435]]

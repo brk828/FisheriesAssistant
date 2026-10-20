@@ -14,9 +14,13 @@ Cypriniformes is an order of freshwater fishes that includes cyprinids (minnows,
 > - **Diagnostic vs. exhaustive description**: Argues that abbreviated diagnoses based on unique, consistently observable character sets are sufficient for rapid species recognition, rather than exhaustive morphometric tables for large series of similar species. - **Case-specific character validity...
 > -- *[[SystematicStudiesAndBiodiversi_12427]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[BiochemicalIdentificationOfMox_14133]]
 - [[CliolaHybopsisTopekaGilbertCur_18324]]
 - [[ElectricEel_1963]]
 - [[NotesOnSomeCaptiveMinnowsPimep_1961]]
 - [[SystematicStudiesAndBiodiversi_12427]]
+- [[AClassificationOfTheFishesOfTh_14438]]

@@ -23,6 +23,12 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 > This draft plan outlines a comprehensive strategy for reintroducing hatchery-reared [[Bonytail Chub]] (*Gila elegans*) into the [[Upper Colorado River Basin]] (UCRB). Listed as federally endangered in 1980, the bonytail has virtually disappeared from its native range due to habitat loss from dams...
 > -- *[[BonytailReintroductionPlanForT_20248]]*
 
+> This document comprises multiple research proposals (FY-1994 Scope-of-Work) for the Recovery Implementation Program targeting endangered fish species in the [[Upper Colorado River Basin]]. The proposals focus on evaluating flow manipulations from the [[Aspinall Unit]] and their effects on...
+> -- *[[FiscalYearScopeOfWorkResearchP_11213]]*
+
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
 ## Mentioned In
 - [[DetermineStatusOfColoradoSquaw_11150]]
 - [[InteragencyStandardizedMonitor_1993]]
@@ -31,3 +37,5 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 - [[TemporalAndSpatialRelationsBet_17861]]
 - [[AprilManagementGroupMeetingSum_19221]]
 - [[BonytailReintroductionPlanForT_20248]]
+- [[FiscalYearScopeOfWorkResearchP_11213]]
+- [[DraftRecoveryImplementationPro_11643]]

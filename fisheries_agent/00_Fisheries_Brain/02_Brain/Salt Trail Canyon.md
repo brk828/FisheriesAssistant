@@ -11,5 +11,9 @@ Salt Trail Canyon is a tributary canyon that enters the Little Colorado River ap
 > This report presents the third year of monitoring the endangered [[Humpback Chub]] (*Gila cypha*) population in the [[Little Colorado River]], Arizona, during May 1989. Research teams established two camps and deployed up to 26 nets over 30 days, sampling from the confluence with the [[Colorado...
 > -- *[[FinalReportOnResearchConducted_18507]]*
 
+> This correspondence from Arizona State University's Center for Environmental Studies to Glen Canyon Environmental Studies requests authorization for computer access, updates base camp locations for [[Humpback Chub]] research in the [[Little Colorado River]] gorge, and seeks resolution of logistical...
+> -- *[[AccessRequestUsgsMainFrameComp_19454]]*
+
 ## Mentioned In
 - [[FinalReportOnResearchConducted_18507]]
+- [[AccessRequestUsgsMainFrameComp_19454]]

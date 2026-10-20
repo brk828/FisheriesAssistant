@@ -89,6 +89,24 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
 > -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
 
+> This U.S. Fish and Wildlife Service circular (Circular 159, October 1963, with April 1964 correction) provides comprehensive guidance on feeding protocols and nutritional management for hatchery-reared trout. Authored by Arthur M. Phillips Jr., A. V. Tunison, and George C. Balzer from the [[Trout...
+> -- *[[TroutFeedsAndFeeding_11173]]*
+
+> This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
+> -- *[[CreelCensusReport_11332]]*
+
+> This performance report documents the second year (July 1980 - June 1981) of a three-year investigation into the biological impacts of fluctuating water levels on the [[Colorado River]] fishery below [[Glen Canyon Dam]]. The study area extends from the dam to the [[Paria River]] confluence,...
+> -- *[[StatewideFisheriesResearch_13299]]*
+
+> This 1952 field guide addresses the practical challenges of identifying salmonid game fishes in [[New York State]] waters. The document provides diagnostic characters for six species: [[Brook Trout]] (*Salvelinus fontinalis*), [[Brown Trout]] (*Salmo trutta*), [[Rainbow Trout]] (*Salmo...
+> -- *[[TroutOrSalmon_19215]]*
+
+> This 1939 report by J. W. Leonard of the Institute for Fisheries Research documents an experimental stocking of [[Montana Grayling]] (*Thymallus montanus*) in a small northern Michigan lake, following the extinction of the native [[Michigan Grayling]]. The study aimed to determine whether Montana...
+> -- *[[TheMontanaGraylingInMichigan_20282]]*
+
+> This study examined the effects of size-sorting on sex ratios and growth rates in [[Brown Trout]] (Salmo trutta) fingerlings at the [[Randolph Hatchery]] in New York. Researchers individually tagged and tracked four sorted size groups over one year (September 1956 to September 1957). Key findings...
+> -- *[[EffectOfSortingBrownTroutOnSex_20693]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -185,3 +203,9 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
 - [[ElectrofishingAndItsHarmfulEff_2003]]
+- [[TroutFeedsAndFeeding_11173]]
+- [[CreelCensusReport_11332]]
+- [[StatewideFisheriesResearch_13299]]
+- [[TroutOrSalmon_19215]]
+- [[TheMontanaGraylingInMichigan_20282]]
+- [[EffectOfSortingBrownTroutOnSex_20693]]

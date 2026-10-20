@@ -41,6 +41,21 @@ Lee's Ferry is a cold-water tailwater reach of the Colorado River located immedi
 > This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
 > -- *[[TailwaterFisheryInvestigationC_14594]]*
 
+> This performance report documents the second year (July 1980 - June 1981) of a three-year investigation into the biological impacts of fluctuating water levels on the [[Colorado River]] fishery below [[Glen Canyon Dam]]. The study area extends from the dam to the [[Paria River]] confluence,...
+> -- *[[StatewideFisheriesResearch_13299]]*
+
+> This memorandum documents the planning and agenda for a National Research Council Water Science and Technology Board committee meeting scheduled for October 9-11, 1991, in [[Flagstaff]], [[Arizona]]. The committee was convened to review the [[Glen Canyon Environmental Studies]] (GCES) program, with...
+> -- *[[AgendaAndOtherInformationForUp_13959]]*
+
+> This report documents two consecutive creel census studies conducted at [[Lee's Ferry]] on the [[Colorado River]] below [[Glen Canyon Dam]] from July 1964 through June 1966. The first segment (July 1964-June 1965) recorded 2,216 angler trips over 176 census days, yielding 8,047 [[Rainbow Trout]]...
+> -- *[[TailwatersFisheriesInvestigati_14584]]*
+
+> This 1992 annual report from the [[Arizona Game and Fish Department]] documents comprehensive research on [[Rainbow Trout]] (*Oncorhynchus mykiss*) populations in the [[Lee's Ferry]] reach of the [[Colorado River]] below [[Glen Canyon Dam]] from November 1989 through February 1993. The study...
+> -- *[[GlenCanyonEnvironmentalStudies_16902]]*
+
+> This document summarizes a three-day workshop (November 8-10, 1999) at Saguaro Lake Ranch convened to evaluate a proposed temperature control device (TCD) for [[Glen Canyon Dam]]. The workshop brought together scientists, resource managers, and conservationists to provide input on research and...
+> -- *[[GlenCanyonDamTemperatureContro_17019]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -60,3 +75,8 @@ Lee's Ferry is a cold-water tailwater reach of the Colorado River located immedi
 - [[NotesOfTheBriefingHeldNovember_11848]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[TailwaterFisheryInvestigationC_14594]]
+- [[StatewideFisheriesResearch_13299]]
+- [[AgendaAndOtherInformationForUp_13959]]
+- [[TailwatersFisheriesInvestigati_14584]]
+- [[GlenCanyonEnvironmentalStudies_16902]]
+- [[GlenCanyonDamTemperatureContro_17019]]

@@ -14,9 +14,13 @@ USFWS (United States Fish and Wildlife Service) is the primary federal agency re
 > This document outlines a comprehensive research proposal by Wayne C. Starnes ([[Smithsonian Institution]]) to address taxonomic and genetic questions regarding [[Gila]] species in the [[Colorado River]] basin under a cooperative agreement with [[USFWS]]. The project aims to resolve the taxonomic...
 > -- *[[GilaTaxonomyProjectIssuesAndPr_14720]]*
 
+> Official correspondence from the U.S. Fish and Wildlife Service Regional Director to the Desert Fishes Council Executive Secretary dated January 14, 1987, regarding unauthorized collection of endangered fish and reptiles at [[Cuatro Cienegas]], [[Coahuila]], [[Mexico]]. The letter addresses...
+> -- *[[UnauthorizedCollectingInMexico_20833]]*
+
 ## Mentioned In
 - [[DraftFinalRuleToDesignateARein_1993_07_21]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
 - [[ReportOnPrtActivityFromDecembe_1992_12_01]]
 - [[VariousProposalsForStudiesOfEn_1993_12_17]]
 - [[GilaTaxonomyProjectIssuesAndPr_14720]]
+- [[UnauthorizedCollectingInMexico_20833]]

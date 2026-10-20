@@ -41,6 +41,9 @@ Blue Catfish (*Ictalurus furcatus*) is a large, opportunistic ictalurid catfish 
 > This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
 > -- *[[DraftRecoveryPlanForTheEndange_15977]]*
 
+> This study examines the growth, age composition, and mortality rates of [[Blue Catfish]] (*Ictalurus furcatus*) in the upper [[Tombigbee River]] of western Alabama using data collected August 5, 1965. Analysis of 196 fish for length-weight relationships and 125 spine samples for age determination...
+> -- *[[GrowthOfBlueCatfishIctalurusFu_17924]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AProvisionalCheckListOfTheFish_15941]]
@@ -63,3 +66,4 @@ Blue Catfish (*Ictalurus furcatus*) is a large, opportunistic ictalurid catfish 
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[ResultsOfAnOpeningWeekCreelCen_17745]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
+- [[GrowthOfBlueCatfishIctalurusFu_17924]]

@@ -59,6 +59,9 @@ The Brown Bullhead is a freshwater catfish species that appears in ichthyologica
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
 > -- *[[NorthernPikeControlAtLakeDavis_2001]]*
 
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
 ## Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -93,3 +96,4 @@ The Brown Bullhead is a freshwater catfish species that appears in ichthyologica
 - [[TheIncidenceAndDistributionOfT_15429]]
 - [[FisheriesManagementOfElCapitan_16317]]
 - [[NorthernPikeControlAtLakeDavis_2001]]
+- [[MichiganFishPredators_12681]]

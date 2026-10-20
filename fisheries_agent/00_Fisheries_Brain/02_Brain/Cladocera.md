@@ -23,6 +23,9 @@ Cladocera are small crustacean zooplankton organisms that inhabit freshwater aqu
 > This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
 > -- *[[RoughFishControl_20167]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
 ## Mentioned In
 - [[ANoteOnTheNumberOfEggsInTheEph_1956]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -33,3 +36,4 @@ Cladocera are small crustacean zooplankton organisms that inhabit freshwater aqu
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[RoughFishControl_20167]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]

@@ -101,6 +101,18 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This document is a research proposal submitted by [[Arizona State University]] to the [[U.S. Fish and Wildlife Service]] Region 2 on December 5, 1988. The proposal, titled "Fish Community Reorganization in a Perturbed Stream, The Virgin River, Utah-Arizona-Nevada," seeks funding to study fish...
 > -- *[[FishCommunityReorganizationInA_18427]]*
 
+> This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
+> -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
+
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -184,3 +196,7 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[AmericanRiversScientificAndTec_15167]]
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[FishCommunityReorganizationInA_18427]]
+- [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[LetterToWayneStarnesAuthorizat_11924]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]

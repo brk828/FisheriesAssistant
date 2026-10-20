@@ -11,7 +11,11 @@ Notropis whipplei, commonly known as the Steelcolor Shiner, is a small cyprinid 
 > - **Habitat associations**: Most species favored small to medium streams (3–7 m wide) with sand, gravel, mud, or silt substrates and negligible to moderate flow; vegetation was generally absent or minimal at collection sites. - **Co-occurring species**: [[Ericymba buccata]] was commonly associate...
 > -- *[[AReassessmentOfTheDistribution_1980]]*
 
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[AReassessmentOfTheDistribution_1980]]
 - [[ASystematicStudyOfTheCyprinidF_1955]]
 - [[FactorAnalysisOfSpeciesAssocia_15740]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

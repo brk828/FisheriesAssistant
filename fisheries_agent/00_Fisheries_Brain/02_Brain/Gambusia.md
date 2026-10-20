@@ -38,6 +38,12 @@ Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the
 > This 1980 Master's thesis examines genetic heterogeneity among subpopulations of three [[Gambusia]] species in the [[Pecos River]] drainage of [[Texas]] and [[New Mexico]] using electrophoretic analysis of allelic frequencies. The study compared [[Gambusia nobilis]] (endemic spring-dweller in four...
 > -- *[[GeneticDifferentiationAmongSub_18497]]*
 
+> This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
+> -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
+
+> This article by Dr. George S. Myers examines the ecological dangers posed by [[Gambusia affinis]] (mosquitofish), a small livebearer from the southeastern United States that was widely introduced worldwide for mosquito control beginning around the turn of the 20th century. Despite its effectiveness...
+> -- *[[GambusiaTheFishDestroyer_15551]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnomalousThermalConditionsInAH_17103]]
@@ -68,3 +74,5 @@ Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[InvestigationsOfCommercialFish_18562]]
 - [[GeneticDifferentiationAmongSub_18497]]
+- [[AReviewOfTheBiologyOfTheMosqui_14748]]
+- [[GambusiaTheFishDestroyer_15551]]

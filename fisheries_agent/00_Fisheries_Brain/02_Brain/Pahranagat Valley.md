@@ -14,9 +14,17 @@ auto_enriched: true
 > The [[White River Spinedace]] (*Lepidomeda albivallis*) is a federally endangered cyprinid fish endemic to northern [[White River Valley]] in [[Nevada]]. As of June 1991, the species persisted in only one of seven historically occupied habitats—the northern spring of the [[Flag Springs]]...
 > -- *[[WhiteRiverSpinedaceLepidomedaA_11636]]*
 
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
+> This 1981 correspondence from the Desert Fishes Council Chairman alerts members to grave threats posed by the proposed MX Missile System to aquatic ecosystems throughout central and southern Nevada and west-central Utah. The $33 billion Department of Defense project would construct 200 racetrack...
+> -- *[[MxMissileSystemeffectsOnDesert_20506]]*
+
 ## Mentioned In
 - [[GilaTaxonomy_14730]]
 - [[ReviewOfTheTaxonomicStatusOfRo_1985_12_03]]
 - [[TechnicalReviewDraftPahranagat_13301]]
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[WhiteRiverSpinedaceLepidomedaA_11636]]
+- [[LetterToWayneStarnesAuthorizat_11924]]
+- [[MxMissileSystemeffectsOnDesert_20506]]

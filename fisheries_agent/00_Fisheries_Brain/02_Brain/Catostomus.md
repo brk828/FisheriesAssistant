@@ -47,6 +47,9 @@ Catostomus is a genus of freshwater suckers (family Catostomidae) native to Nort
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
+> -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -68,3 +71,4 @@ Catostomus is a genus of freshwater suckers (family Catostomidae) native to Nort
 - [[ReManuscriptDescribingTwoNewSp_15374]]
 - [[DrafInfluenceOfHybridizationOn_11330]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[TheTroutFisheryOfCrowleyLakeMo_11106]]

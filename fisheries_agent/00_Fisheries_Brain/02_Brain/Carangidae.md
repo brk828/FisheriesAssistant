@@ -17,7 +17,11 @@ Carangidae is a family of marine and estuarine fishes commonly known as jacks an
 > - **Species studied:** - *Caranx ruber* ([[Bar Jack]]) — 6 to 9 inches in length - *Selar crumenophthalmus* ([[Bigeye Scad]]) — 6 to 8 inches in length - Both species are members of family [[Carangidae]], noted for pelagic, obligate schooling lifestyles. - **Fragility noted:** Both species proved...
 > -- *[[TheOptomotorReactionOfSchoolin_11406]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[ConservationStatusOfTheNorthAm_1990]]
 - [[RioBravoFishDistribution_Unknown]]
 - [[TheOptomotorReactionOfSchoolin_11406]]
+- [[AClassificationOfTheFishesOfTh_14438]]

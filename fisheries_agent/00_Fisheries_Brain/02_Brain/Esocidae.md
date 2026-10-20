@@ -29,6 +29,9 @@ Esocidae is a family of freshwater and estuarine fishes commonly known as pikes,
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*), family [[Esocidae]], is a highly fecund opportunistic piscivore native to portions of Alaska, Montana, Missouri, Nebraska, and the Great Lakes region but absent from Pacific drainages south of the Alaska Range prior to...
 > -- *[[MechanicalSuppressionOfInvasiv_2024]]*
 
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -46,3 +49,4 @@ Esocidae is a family of freshwater and estuarine fishes commonly known as pikes,
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[MechanicalSuppressionOfInvasiv_2024]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

@@ -119,6 +119,12 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 > **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
 > -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
 
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> Laboratory experiments conducted at [[Auburn University]] examined the toxicity of two rotenone-based formulations—[[Noxfish]] (5% rotenone) and [[Pro-Noxfish]] (2.5% rotenone plus 2.5% Sulfoxide synergist)—to eggs of [[Common Carp]] (*Cyprinus carpio*) and [[Fathead Minnow]] (*Pimephales...
+> -- *[[TheToxicityOfNoxfishAndPronoxf_20370]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -294,3 +300,5 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 - [[LongtermPatternsOfFishCommunit_2023]]
 - [[FishCommunityResponsesToMechan_2014]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
+- [[BeaverScoping_18972]]
+- [[TheToxicityOfNoxfishAndPronoxf_20370]]

@@ -17,7 +17,11 @@ The Santa Ana River is a freshwater river system in southern California, USA, th
 > This 1918 taxonomic description by [[John Otterbein Snyder]] documents the fish fauna of the [[Mohave River]] in southern California, identifying a single species belonging to the genus *[[Siphateles]]*. The author describes *Siphateles mohavensis* as a new species distinct from geographically...
 > -- *[[TheFishesOfMohaveRiverCaliforn_21253]]*
 
+> This note documents the first freshwater record of [[Pacific Lamprey]] (*Lampetra tridentata*) from [[Baja California]], Mexico. An ammocoete (larval lamprey) was collected on 19 February 1995 in the lower [[Rio Santo Domingo]], approximately 600 m above its mouth at Bahia San Ramon, 6 km west of...
+> -- *[[FirstFreshwaterRecordOfPacific_21111]]*
+
 ## Mentioned In
 - [[EffectOfPassiveIntegratedTrans_2025]]
 - [[SalmoEvermanniASynonymOfSalmoC_18176]]
 - [[TheFishesOfMohaveRiverCaliforn_21253]]
+- [[FirstFreshwaterRecordOfPacific_21111]]

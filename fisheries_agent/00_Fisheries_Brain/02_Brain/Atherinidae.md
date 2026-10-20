@@ -29,6 +29,9 @@ Atherinidae is a family of small, primarily euryhaline fishes commonly known as 
 > This 1971 NOAA technical report by [[Robert C. May]] compiles an annotated bibliography of scientific papers describing attempts to rear marine fish larvae in laboratory settings from 1878 through 1969. The work was prepared to support researchers at the [[Bureau of Commercial Fisheries]] (later...
 > -- *[[AnAnnotatedBibliographyOfAttem_15220]]*
 
+> This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
+> -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
+
 ## Mentioned In
 - [[AnEnzymeMethodOfClearingAndSta_1967]]
 - [[Anomalies Encountered in Freshwater and Marine Fishes from the Eastern United States]]
@@ -38,3 +41,4 @@ Atherinidae is a family of small, primarily euryhaline fishes commonly known as 
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[AnAnnotatedBibliographyOfAttem_15220]]
+- [[TheSuitabilitiesAndRelativeRes_19185]]

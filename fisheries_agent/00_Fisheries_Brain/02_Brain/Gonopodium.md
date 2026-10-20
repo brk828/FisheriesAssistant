@@ -17,9 +17,13 @@ A gonopodium is a modified anal fin found in male poeciliid fishes (family Poeci
 > The hybrid was morphologically **intermediate** between parental species across most traits, most notably in the structure of the [[gonopodium]] (modified anal fin used in copulation), as illustrated in comparative figures of gonopodial tips.
 > -- *[[HybridizationOfTwoSpeciesOfMos_13673]]*
 
+> This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
+> -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
+
 ## Mentioned In
 - [[CopulatoryFunctionOfTheModifie_14265]]
 - [[DevelopmentAndComparativeMorph_13429]]
 - [[DifferencesInCopulatoryBehavio_1975]]
 - [[HybridizationOfTwoSpeciesOfMos_13673]]
 - [[LongDurationOfSpermFunctionInT_1958]]
+- [[AReviewOfTheBiologyOfTheMosqui_14748]]

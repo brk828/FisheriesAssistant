@@ -32,6 +32,9 @@ Black Bass refers to freshwater fish species in the family Centrarchidae, primar
 > This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
 > -- *[[MovementsOfInlandAnglersWithin_11325]]*
 
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[CommentsOnFishAndWildlifeServi_1997_07_08]]
@@ -43,3 +46,4 @@ Black Bass refers to freshwater fish species in the family Centrarchidae, primar
 - [[DiversityWithinTheRedeyeBassMi_2013]]
 - [[WhatHaveICaught_12929]]
 - [[MovementsOfInlandAnglersWithin_11325]]
+- [[MichiganFishPredators_12681]]

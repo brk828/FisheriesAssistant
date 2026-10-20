@@ -26,6 +26,9 @@ The Plains Killifish (*Fundulus kansae*) is a small cyprinodontid fish native to
 > This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
 > -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
 
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
 ## Mentioned In
 - [[DevelopmentalRatesAndTolerance_12106]]
 - [[EffectivenessOfRotenoneInPondR_1953]]
@@ -35,3 +38,4 @@ The Plains Killifish (*Fundulus kansae*) is a small cyprinodontid fish native to
 - [[LimnologicalStudyOfGlenCanyonT_1965_06_30]]
 - [[MemorandumSummarizingTheGcesBa_1992_12_31]]
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]

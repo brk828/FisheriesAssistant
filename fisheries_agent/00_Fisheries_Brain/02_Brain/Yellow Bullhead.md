@@ -62,6 +62,15 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
 > -- *[[LongtermPatternsOfFishCommunit_2023]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
+> This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -136,3 +145,6 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[PalmLakenativeFishStatus_20905]]
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[LongtermPatternsOfFishCommunit_2023]]
+- [[EndangeredAndThreatenedWildlif_11556]]
+- [[BeaverScoping_18972]]
+- [[SamplingAtAsuKarstenGolfCourse_19435]]

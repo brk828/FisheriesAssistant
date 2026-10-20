@@ -14,9 +14,13 @@ The Phoenix Zoo refers to a conservation facility that developed a significant r
 > This proposal from the [[Southwest Center for Education and the Natural Environment]] (SCENE) to the [[Arizona Community Foundation]] outlines a three-year program to involve high school students in authentic scientific research at [[Arizona State University]]. The project aims to engage 120...
 > -- *[[ScientificResearchExperiencesF_20483]]*
 
+> This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
+> -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[LetterToDougMcqueenSupportingN_1986_06_27]]
 - [[ReDesertPupfishInhabitingCheet_11816]]
 - [[StockingOfGilaTopminnowAtPhoen_11815]]
 - [[ScientificResearchExperiencesF_20483]]
+- [[RecoveryPlanForTheRazorbackSuc_15882]]

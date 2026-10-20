@@ -23,7 +23,15 @@ auto_enriched: true
 > This memorandum from the [[Desert Fishes Recovery Team]] at [[Arizona State University]] addresses progress on recovery planning for multiple endangered desert fish species in Arizona. The document announces a rescheduled meeting for April 17-18, 1986, and outlines the agenda for developing the...
 > -- *[[ProgressAndLackOfSameNextMeeti_13734]]*
 
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
 ## Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1992_12_07]]
 - [[MemorandumOnDesertFishesRecove_1986_02_20]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]

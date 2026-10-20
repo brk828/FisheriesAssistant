@@ -17,6 +17,9 @@ San Bernardino Ranch refers to a specific riparian property and aquatic ecosyste
 > This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
 > -- *[[ReportToTheDesertFishesCouncil_13683]]*
 
+> This 1979 memorandum from Bill Silvey to Al Essbach presents tentative fishery management recommendations for [[San Bernardino Ranch]] based on observations from 1976-1979. The property supports multiple native fish species of the [[Yaqui River]] drainage, including [[Yaqui Chub]] (*Gila...
+> -- *[[FisheryManagementForTheSanBern_18979]]*
+
 ## Mentioned In
 - [[LetterInvitingDrMinckleyToVisi_1987_09_03]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
@@ -25,3 +28,4 @@ San Bernardino Ranch refers to a specific riparian property and aquatic ecosyste
 - [[YaquiChubStockingIntoSanBernar_1980_10_31]]
 - [[OutlineOfSanBernardinoRanchMan_20829]]
 - [[ReportToTheDesertFishesCouncil_13683]]
+- [[FisheryManagementForTheSanBern_18979]]

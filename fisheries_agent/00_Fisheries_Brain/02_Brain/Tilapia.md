@@ -62,6 +62,9 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -112,3 +115,4 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 - [[ResultsOfFishMonitoringOfSelec_13200]]
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]

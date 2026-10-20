@@ -20,8 +20,12 @@ Graham County is a county in Arizona that contains part of Aravaipa Creek. The 1
 > This document comprises field collection notes from aquatic surveys conducted by James F. LeRousty throughout the [[Gila River]] Basin and [[San Pedro River]] system in Arizona and New Mexico during 1973. The notes document multiple sampling locations from April through December 1973, recording...
 > -- *[[FieldNotesAtTheSanPedroGilaAnd_12645]]*
 
+> This investigation by the [[Arizona Department of Environmental Quality]] documents water quality impacts from the [[Klondyke Tailings]] along [[Aravaipa Creek]] in [[Graham County]], Arizona. The tailings consist of 220,000 tons of milled ore rich in lead, zinc, copper, and silver situated within...
+> -- *[[TheKlondykeTailingsAndAravaipa_14554]]*
+
 ## Mentioned In
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
 - [[ReportOfFloodDamageToBigSpring_18984]]
 - [[ChangesInRiparianVegetationAnd_14524]]
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
+- [[TheKlondykeTailingsAndAravaipa_14554]]

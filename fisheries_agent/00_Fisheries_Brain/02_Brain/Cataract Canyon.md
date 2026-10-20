@@ -32,6 +32,12 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 > This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
 > -- *[[DraftbonytailChubGilaElegans_14696]]*
 
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
+> -- *[[IntroductionOfRainbowSmeltInto_17850]]*
+
 ## Mentioned In
 - [[FeedingActivityAndSpawning_11266]]
 - [[FyAnnualProjectReportGilaTaxon_1993_12_06]]
@@ -45,3 +51,5 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[BonytailReintroductionPlanForT_20248]]
 - [[DraftbonytailChubGilaElegans_14696]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[IntroductionOfRainbowSmeltInto_17850]]

@@ -11,8 +11,12 @@ Mosquito Control in the context of aquatic ecology and fisheries science refers 
 > - **Habitat**: Both species inhabit freshwater swamps, ditches, and slow-moving tributary systems along the Atlantic coastal plain. - *Gambusia holbrookii*: Virginia to Alabama; replaced by the closely related *G. patruelis* in Mississippi tributaries westward to Mexico. - *Heterandria formosa*: ...
 > -- *[[BreedingHabitsOfTheViviparousF_1911_05_15]]*
 
+> This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
+> -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
+
 ## Mentioned In
 - [[BreedingHabitsOfTheViviparousF_1911_05_15]]
 - [[DdtMetabolismInToler_1966]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
 - [[WaterDevelopmentVersusTheNatur_18589]]
+- [[AReviewOfTheBiologyOfTheMosqui_14748]]

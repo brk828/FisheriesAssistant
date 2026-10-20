@@ -1,0 +1,80 @@
+---
+species: Meda fulgida
+common_name: Spikedace
+family: Cyprinidae
+habitat: Moderate to large perennial streams, shallow riffles with gravel and rubble substrates, swift pools over sand or gravel
+ocean_basin: N/A
+location: Gila River system (Arizona and New Mexico, USA); Aravaipa Creek, Eagle Creek, upper Gila River, upper Verde River
+tags: [endangered-species-act, threatened-species, federal-register, habitat-loss, exotic-species, dam-impacts, conservation]
+title: "Endangered and threatened wildlife and plants; Determination of threatened status for the spikedace"
+source_id: "11556"
+minckley_id: "11556"
+source_citation: "US Fish and Wildlife Service (1986). Endangered and threatened wildlife and plants; Determination of threatened status for the spikedace. Federal Register 51(126): 23769-23781. Minckley Library ID: 11556."
+source_file: "11556.pdf"
+text_extraction: "ocr"
+---
+# Determination of Threatened Status for the Spikedace (Meda fulgida)
+
+#ichthyology #marine-biology #cyprinidae #conservation-biology #endangered-species
+
+## Executive Summary
+
+The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has experienced a catastrophic 94% reduction in historic range. The species now persists in only approximately 190 km (118 miles) of stream habitat across four isolated populations: [[Aravaipa Creek]] (Graham and Pinal Counties, Arizona), sections of the upper [[Gila River]] (Grant and Catron Counties, New Mexico), a small section of [[Eagle Creek]] (Greenlee County, Arizona), and portions of the upper [[Verde River]] (Yavapai County, Arizona). The listing includes a special rule (4(d) rule) allowing take for certain purposes under State permits, recognizing that habitat destruction—not direct harvest—poses the primary threat. Critical habitat designation was postponed until June 1987 to allow completion of economic analysis.
+
+## Background & Description
+
+*Meda fulgida* was first collected in 1851 from the Rio San Pedro in Arizona and described by Girard in 1856. It is the sole species in the genus *Meda*. The [[Spikedace]] is a small fish, typically less than 75 mm (3 inches) in total length, characterized by very silvery sides and distinctive spines in the dorsal and pelvic fins. Breeding males develop a brassy golden coloration. The species inhabits moderate to large perennial streams, preferring shallow riffles with gravel and rubble substrates and moderate to swift currents, as well as swift pools over sand or gravel substrates.
+
+Historically, the spikedace was common throughout much of the [[Verde River]], [[Aqua Fria River]], [[Salt River]], [[San Pedro River]], [[San Francisco River]], and Gila River systems, occupying suitable habitat in both mainstems and moderate-gradient perennial tributaries up to elevations of 1800-1900 meters (5900-6200 feet). The historic range encompassed approximately 2600 km (1600 miles) of river. The species may have historically occurred in the upper San Pedro River in Sonora, Mexico, but habitat no longer exists there due to dewatering.
+
+The species has been recognized as imperiled since the early 1970s. It was listed as a species of concern by the Bureau of Sport Fisheries and Wildlife in 1973, included on the American Fisheries Society's 1979 threatened species list, and listed as vulnerable by the International Union for Conservation of Nature and Natural Resources in 1977. Both Arizona and New Mexico include *M. fulgida* on their state threatened and endangered species lists.
+
+## Ecological & Environmental Context
+
+The [[Spikedace]] evolved within the dynamic flood regime characteristic of [[Gila River Basin]] streams. Recurrent flooding is very important in the life history of *Meda* and helps maintain its competitive edge over invading exotic fish species. The species is highly mobile, has high reproductive potential, and characteristically undergoes large fluctuations in population sizes. During floods, spikedace escape being washed out by moving outward with spreading water, keeping out of the heaviest flows—an adaptive mechanism that many nonnative fish lack.
+
+Current occupied habitat includes mixed land ownership. On [[Aravaipa Creek]], approximately 75% of perennial stream length is administered by the Bureau of Land Management, mostly designated as the [[Aravaipa Canyon Wilderness]], with additional lands owned by Defenders of Wildlife as the George Whittell Wildlife Preserve. On the [[Gila River]] in New Mexico, ownership is complex, including Bureau of Land Management lands (some designated as Area of Critical Environmental Concern), private lands, Nature Conservancy holdings, New Mexico Department of Game and Fish lands, and extensive U.S. Forest Service lands within the [[Gila National Forest]], [[Gila Wilderness]], and [[Gila River Research Natural Area]]. On the [[Verde River]], most spikedace habitat is on the [[Prescott National Forest]], with interspersed private and State lands.
+
+The native fish fauna of the Gila River system has been drastically affected by human alterations, with 35% of native fish federally listed as endangered and another 35% considered threatened or endangered by states or the American Fisheries Society. The spikedace has been extirpated from the [[Salt River]] drainage (last found 1972), [[San Pedro River]] drainage except Aravaipa Creek (last found 1967), [[Aqua Fria]] drainage (last found 1943), and [[San Francisco River]] drainage (last found 1950).
+
+Studies by the New Mexico Department of Game and Fish (1982-1984) documented continuing range recession. Between 1978 and 1983-84, the species apparently lost 40% of its New Mexico range, including loss from the East Fork of the Gila River and an additional 10 km upstream recession. The East Fork loss was attributed to multiple interacting factors: increased numbers of nonnative predatory [[Smallmouth Bass]] and catfish, land management practices (particularly grazing) causing watershed and riparian damage, and severe channel erosion from 1978 flooding acting on the damaged stream. However, flooding in 1983-1984, combined with improved grazing practices, resulted in habitat improvements, and by September 1985 small numbers of spikedace were again found in portions of the East Fork.
+
+In May 1985, larval *M. fulgida* were discovered in a very short section of [[Eagle Creek]], Greenlee County, Arizona—a stream previously surveyed multiple times with no spikedace found. No adults were collected, indicating a very small population.
+
+## Key Findings
+
+**Threats to the Species (Section 4(a)(1) Factors):**
+
+**Factor A - Habitat Destruction:** The majority of historic native habitat has been drastically altered or destroyed through: (1) conversion of flowing waters to still waters by impoundment; (2) alteration of flow regimes including conversion of perennial to intermittent flow; (3) alteration of water temperatures; (4) changes in silt and bed loads; (5) loss of marshes and backwaters; and (6) conversion of well-defined, vegetated channels into deeply cut, unstable arroyos. Causes include damming, water diversion, channel downcutting, excessive groundwater pumping, channelization, riparian vegetation destruction, erosion, mining, and grazing.
+
+Specific habitat losses include: the [[San Pedro River]] now severely downcut with only intermittent flow; lower [[Salt River]] and [[Verde River]] with limited or no flow during portions of the year due to agricultural diversion and upstream impoundments; [[Gila River]] affected by water diversion, impoundment, channelization, and chemical fish management; and [[San Francisco River]] suffering from erosion and extensive water diversion.
+
+**Current Threats to Remaining Habitat:**
+
+- **Aravaipa Creek:** Threatened by upstream groundwater pumping lowering water tables, channelization and mesquite clearing creating excessive sediment, heavy recreational use, and potential pesticide contamination from upstream agricultural lands.
+
+- **Upper Gila River:** Affected by past and present watershed uses (grazing, timber harvest, road building, recreation, mining) and water diversion. The Proposed Gila National Forest Plan calls for substantial increases in timber harvest on steep slopes, potentially causing significant sedimentation impacts. On private lands, agricultural use, water diversion, and flood control measures heavily impact habitat.
+
+- **Bureau of Reclamation Upper Gila Water Supply Study:** Six alternatives under study, including high and low dams at the Conner site on mainstream Gila River, a small dam at Hooker site with off-stream storage, and direct pumping alternatives. A high dam at Conner site would inundate up to 29 km (18 miles) of river—27% of existing Gila River range—and adversely alter downstream habitat through changes in temperature, bedload, and flow regimes, including elimination of natural flooding. Historic dam construction on Salt, Verde, and Gila Rivers resulted in complete extirpation of spikedace downstream and up to 65 km (40 miles) above reservoirs.
+
+- **Verde River:** Threatened by watershed disturbances, increasing silt, deteriorating water quality from upstream communities, and future water developments. The Bureau of Reclamation Central Arizona Project includes plans for water rights exchanges and diversions. The City of Prescott and Yavapai-Prescott Indian Reservation jointly propose removing 7,627 acre-feet per year via infiltration gallery, with diversion rate of 10.5 cubic feet per second. Average median monthly discharge near diversion point is estimated at 16.8 cubic feet per second, with minimum daily flow of 10.1 cubic feet per second—meaning the diversion could remove substantial portions of low flows.
+
+**Factor B - Overutilization:** No threat from overutilization exists.
+
+**Factor C - Disease or Predation:** Introduction of exotic predatory fish species has significantly increased predation pressure. Potential predators include native [[Roundtail Chub]] and exotic [[Green Sunfish]], [[Black Bullhead]], [[Yellow Bullhead]], [[Channel Catfish]], [[Flathead Catfish]], [[Smallmouth Bass]], [[Largemouth Bass]], and [[Brown Trout]]. The present downstream limit of spikedace in the Gila River closely corresponds to increasing abundance of [[Red Shiner]], flathead catfish, and channel catfish. In the vicinity of Wall Lake on the East Fork where game fish are heavily stocked, native species populations are depleted. Under unfavorable habitat conditions caused by flow, temperature, or substrate changes, predation becomes an important limiting factor. Dam and reservoir construction exacerbates predation by increasing habitat for exotic predators, decreasing suitable spikedace habitat, and supplying ready sources of exotic predators from reservoirs.
+
+**Factor D - Inadequacy of Regulatory Mechanisms:** New Mexico lists *M. fulgida* as endangered (Group 2), prohibiting take except under scientific collecting permit, but provides no habitat protection. Arizona lists it as threatened (Group 3), which provides no special protection beyond general prohibition of take except by angling. Neither state protects habitat. New Mexico water law does not include provisions for instream water rights for fish and wildlife protection; Arizona only recently recognized such rights. New Mexico regulations allow use of [[Red Shiner]] and other live minnows as bait in Gila River areas containing spikedace, encouraging spread of detrimental exotic species.
+
+**Factor E - Other Factors:** Continued introduction and dispersal of exotic species, particularly *Notropis lutrensis* ([[Red Shiner]]), throughout the Gila River system poses a major threat. The spread of exotic species correlates closely with declining numbers and distribution of spikedace and other native species. [[Red Shiner]] now occupies much of former spikedace habitat and appears to be both a competitor for habitat and a significant predator on larval spikedace. In suitable unaltered habitat, spikedace may hold its own against red shiner invasion, but in extensively altered habitats where populations are stressed, red shiner has competitive advantage. A major factor in displacement is disturbance of natural flooding patterns; native species thrive under frequent moderate to severe flooding while exotics do not. Controlled flow from impoundment interrupts natural patterns and encourages red shiner spread. Red shiner is not yet found in Aravaipa Creek, is present in Verde River with spikedace, and in upper Gila River as far upstream as Cliff, New Mexico (first collected in Gila River, New Mexico in 1978).
+
+**Public Comment Summary:** The Service received 95 letters from 89 parties: 69 letters from 67 parties in support, 11 letters from 9 parties in opposition, and 15 letters with economic information or neither supporting nor opposing. Three public hearings were held (Silver City, NM; Thatcher, AZ; Phoenix, AZ) attended by 107 people total, with 33 statements given (16 supporting, 12 opposing, 5 neutral). Support came from federal agencies (Bureau of Land Management), conservation organizations (Desert Fishes Council, Nature Conservancy, Defenders of Wildlife, multiple Audubon chapters, Sierra Club chapters), scientific societies (American Society of Ichthyologists and Herpetologists), and numerous biologists and citizens. Opposition came primarily from water development interests, local governments concerned about flood control and water supply, and agricultural/industrial development organizations.
+
+**Listing Determination:** The Service determined threatened status is appropriate rather than endangered because the species remains locally abundant throughout approximately 190 km (118 miles) of stream and does not appear in immediate danger of extinction. However, the drastic 94% loss of historic range and imminent threats to all major portions of presently occupied range warrant threatened status.
+
+**Special 4(d) Rule:** Because spikedace is threatened primarily by habitat disturbance rather than direct taking, and states currently regulate collection through permit systems, the Service issued a special rule allowing take without Federal permit for: (1) educational, scientific, propagation/survival enhancement, zoological exhibition, and other conservation purposes consistent with the Act, if State collection permit is obtained and State laws satisfied; and (2) incidental take during State-permitted recreational fishing if individual fish are immediately returned to habitat. This acknowledges that incidental take by recreational fishermen is not a significant threat.
+
+**Critical Habitat Postponement:** Under Section 4(b)(6)(C) of the Act, critical habitat designation was postponed to allow completion of required economic analysis, with final determination required by June 18, 1987. Prompt listing was deemed essential because proposed status would provide only conference requirement under Section 7(a)(4), not full consultation protection.
+
+**Conservation Measures:** Federal agencies must ensure actions they authorize, fund, or carry out do not jeopardize the species under Section 7(a)(2). Potentially affected Federal activities include: Bureau of Land Management management of Aravaipa Canyon Wilderness (if recreational use causes degradation); U.S. Forest Service activities on Gila and Verde Rivers (grazing, mining, timbering, recreation); Bureau of Reclamation Upper Gila Water Supply Study and Central Arizona Project water developments; Federal Emergency Management Agency or Army Corps of Engineers flood control work; and federally funded irrigation projects on private lands.
+
+**Effective Date:** July 31, 1986.

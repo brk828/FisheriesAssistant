@@ -32,6 +32,12 @@ Campostoma Ornatum is a cyprinid fish species endemic to the southwestern United
 > This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
 > -- *[[ReportToTheDesertFishesCouncil_13683]]*
 
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -46,3 +52,5 @@ Campostoma Ornatum is a cyprinid fish species endemic to the southwestern United
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[ReportToTheDesertFishesCouncil_13683]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]

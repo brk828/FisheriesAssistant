@@ -41,6 +41,9 @@ Cyprinodon is a genus of small, euryhaline cyprinodont fishes (pupfishes) widely
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
 ## Mentioned In
 - [[AReDescriptionOfAphaniusGinaon_1980]]
 - [[Allozymic variation in desert pupfish from natural and artificial habitats genetic conservation in fluctuating populatio]]
@@ -81,3 +84,4 @@ Cyprinodon is a genus of small, euryhaline cyprinodont fishes (pupfishes) widely
 - [[ConservationGeneticsInTheManag_20087]]
 - [[FishesAndAquaticResourcesDeath_15415]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]

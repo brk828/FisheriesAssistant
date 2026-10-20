@@ -17,6 +17,14 @@ auto_enriched: true
 > - **Historical native fauna**: 9 confirmed (Koster, 1957) to 13 probable native fish species inhabited the upper Gila basin; only **7 remain** as of the report. - **Extirpated species**: [[Gila Robusta Grahami]] (last confirmed record 1967, unsubstantiated) and [[Poeciliopsis Occidentalis Occiden...
 > -- *[[NativeFishesOfTheUpperGilaRive_12644]]*
 
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, Arizona Game & Fish Department, USFWS, New Mexico Game & Fish, and USFS to establish recovery planning...
+> -- *[[DesertFishesRecoveryTeamMeetin_13708]]*
+
+> Meeting minutes from the [[Desert Fishes Recovery Team]] (DFRT) held December 10-11, 1985 at [[Arizona State University]]. Team Leader W.L. Minckley convened representatives from USBR, USBLM, AzG&FD, USFWS, NMG&F, and USFS to establish recovery planning priorities for listed southwestern fishes....
+> -- *[[DesertFishesRecoveryTeamMeetin_13916]]*
+
 ## Mentioned In
 - [[NativeFishesOfTheUpperGilaRive_12644]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
+- [[DesertFishesRecoveryTeamMeetin_13708]]
+- [[DesertFishesRecoveryTeamMeetin_13916]]

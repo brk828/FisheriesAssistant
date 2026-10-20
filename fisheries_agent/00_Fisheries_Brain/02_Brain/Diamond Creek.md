@@ -41,6 +41,9 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 > This report presents the fifth segment of a six-year study investigating the tailwater fishery created by [[Glen Canyon Dam]] on the [[Colorado River]]. Between July 1, 1967 and June 30, 1968, creel census at [[Lee's Ferry]] documented 4,161 estimated angler trips producing 9,433 fish in 22,829...
 > -- *[[TailwaterFisheryInvestigationC_14594]]*
 
+> This synopsis documents all known captures and observations of [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] through [[Grand Canyon]] from 1944 to 1995. Only 10 adult razorback suckers were reported from 472 km of river between [[Glen Canyon Dam]] and [[Pearce Ferry]] in...
+> -- *[[SynopsisOfTheRazorbackSuckerIn_13640]]*
+
 ## Mentioned In
 - [[EffectsOfInterimFlowsFromGlenC_13655]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
@@ -55,3 +58,4 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 - [[TransitionMonitoringForRiparia_17903]]
 - [[StatusOfTheBiowestDatabase_13632]]
 - [[TailwaterFisheryInvestigationC_14594]]
+- [[SynopsisOfTheRazorbackSuckerIn_13640]]

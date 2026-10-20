@@ -20,6 +20,9 @@ The Larval Fish Laboratory is a specialized research facility, housed at Colorad
 > This FY 93 annual report documents comprehensive early life-history investigations on [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*) conducted by the [[Larval Fish Laboratory]] at [[Colorado State University]] under the [[Colorado River Recovery...
 > -- *[[FyAnnualProjectReportEarlyBiol_18213]]*
 
+> This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
+> -- *[[LetterToWayneStarnesAuthorizat_11924]]*
+
 ## Mentioned In
 - [[AdditionalStudiesToFacilitateE_1993]]
 - [[AnalysisOfPastCollectionsFromT_1993]]
@@ -29,3 +32,4 @@ The Larval Fish Laboratory is a specialized research facility, housed at Colorad
 - [[IdentificationOfRazorbackSucke_1995_02_05]]
 - [[EffectsOfElectrofishingFieldsO_15544]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
+- [[LetterToWayneStarnesAuthorizat_11924]]

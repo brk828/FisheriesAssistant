@@ -14,7 +14,11 @@ auto_enriched: true
 > This memorandum from the [[Arizona Ecological Services State Office]] to the Assistant Regional Director provides detailed comments on proposed joint counterpart section 7 regulations for the [[Forest Service]] and [[Bureau of Land Management]]. Dated August 25, 1995, the document expresses support...
 > -- *[[ReviewOfProposedCounterpartReg_11907]]*
 
+> This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
+> -- *[[UsFishAndWildlifeServicesAbili_20453]]*
+
 ## Mentioned In
 - [[TheStrategyAndDesignOfTheEffec_1997_11_13]]
 - [[ViewsOfAFishBiologistFromAFede_15069]]
 - [[ReviewOfProposedCounterpartReg_11907]]
+- [[UsFishAndWildlifeServicesAbili_20453]]

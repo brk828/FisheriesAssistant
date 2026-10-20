@@ -14,7 +14,11 @@ auto_enriched: true
 > This January 1978 correspondence from Dr. Don Buth to Dr. W.L. Minckley discusses ongoing biochemical genetic analyses of [[Cui-ui]] ([[Chasmistes cujus]]) and the [[Gila Robusta Complex]]. The letter confirms successful analysis of heart tissues revealing [[LDH-B]] duplication in cui-ui, addresses...
 > -- *[[TissueSampleAnalysisOfCuiuihyb_14120]]*
 
+> This 1972 Master's thesis by Irving L. Kornfield (State University of New York at Stony Brook) examines genetic variability and speciation in [[Cichlasoma]] species from North America. The study employed electrophoretic analysis of 19 protein loci in [[Cichlasoma cyanoguttatum]] from the [[Rio...
+> -- *[[GeneticVariationAndSpeciationI_12625]]*
+
 ## Mentioned In
 - [[HeterozygosityLevelsOfAgeClass_12950]]
 - [[LactateDehydrogenaseLdhIsozyme_1978]]
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
+- [[GeneticVariationAndSpeciationI_12625]]

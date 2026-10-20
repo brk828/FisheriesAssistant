@@ -35,6 +35,9 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 > This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
 > -- *[[LetterToCentralArizonaWaterCon_17898]]*
 
+> This report documents sampling conducted on 17-18 and 25 April 1989 to assess the status of three native [[Colorado River]] fish species stocked into water features at [[Arizona State University]] Karsten Golf Course (ASUGC). Approximately 1500 juvenile [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[SamplingAtAsuKarstenGolfCourse_19435]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[CompilationOfCommentsOnBigRive_11763]]
@@ -47,3 +50,4 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 - [[LetterToWlMinckleyRemovalOfRoo_12727]]
 - [[ResultsOfFishMonitoringOfSelec_13200]]
 - [[LetterToCentralArizonaWaterCon_17898]]
+- [[SamplingAtAsuKarstenGolfCourse_19435]]

@@ -83,6 +83,9 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > Meeting minutes from the Technical Committee of the [[Colorado River Wildlife Management Committee]] held at Davis Camp, Arizona on January 23, 1963. The committee divided into three sub-committees (Law Enforcement, Game Management, and Fisheries) to discuss ongoing cooperative fisheries...
 > -- *[[MinutesOfTheMeetingOfTheTechni_20887]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[BenthicInvertebratesOfTheEarth_1983]]
@@ -118,3 +121,4 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[AllozymicVariationInDesertPupf_19162]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]

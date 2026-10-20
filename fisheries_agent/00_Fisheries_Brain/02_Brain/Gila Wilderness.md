@@ -14,8 +14,12 @@ auto_enriched: true
 > The [[U.S. Fish and Wildlife Service]] published a final rule on March 8, 1994, designating critical habitat for the threatened [[Spikedace]] (*Meda fulgida*) under the [[Endangered Species Act]] of 1973, as amended. The spikedace was listed as threatened on July 1, 1986, but critical habitat...
 > -- *[[EndangeredAndThreatenedWildlif_14803]]*
 
+> The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
+> -- *[[EndangeredAndThreatenedWildlif_11556]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AddendumToTheMarchEnvironmenta_11496]]
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[EndangeredAndThreatenedWildlif_14803]]
+- [[EndangeredAndThreatenedWildlif_11556]]

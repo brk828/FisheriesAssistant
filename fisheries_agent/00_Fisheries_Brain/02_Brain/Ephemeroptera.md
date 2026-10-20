@@ -35,6 +35,9 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 > This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
 > -- *[[ProgressReportOfTheCultureOfTi_14692]]*
 
+> This paper describes *Asellus puebla*, a new species of freshwater isopod crustacean collected from the [[Rio Cosala]] in [[Puebla]], [[Mexico]]. The discovery extends the known southern distribution limit of the genus [[Asellus]] from approximately 30° latitude to just below 20° latitude. The...
+> -- *[[ANewSpeciesOfAquaticIsopodCrus_17104]]*
+
 ## Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[ComparativeEcologyOfNotropisAl_14679]]
@@ -53,3 +56,4 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
+- [[ANewSpeciesOfAquaticIsopodCrus_17104]]

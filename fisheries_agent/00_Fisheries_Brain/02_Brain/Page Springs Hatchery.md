@@ -23,6 +23,9 @@ Page Springs Hatchery was a fish propagation facility involved in razorback suck
 > This 1987 recovery plan addresses the critically endangered [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid native to the [[Colorado River Basin]]. Listed as endangered on April 23, 1980, the species appears close to extinction with no evidence of successful reproduction in recent years....
 > -- *[[DraftbonytailChubGilaElegans_14696]]*
 
+> This 1992 annual report from the [[Arizona Game and Fish Department]] documents comprehensive research on [[Rainbow Trout]] (*Oncorhynchus mykiss*) populations in the [[Lee's Ferry]] reach of the [[Colorado River]] below [[Glen Canyon Dam]] from November 1989 through February 1993. The study...
+> -- *[[GlenCanyonEnvironmentalStudies_16902]]*
+
 ## Mentioned In
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
 - [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
@@ -31,3 +34,4 @@ Page Springs Hatchery was a fish propagation facility involved in razorback suck
 - [[SamplingAtBuenosAiresNwrSeptem_17033]]
 - [[StudiesOnTheRazorbackSuckerXyr_1974_06_18]]
 - [[DraftbonytailChubGilaElegans_14696]]
+- [[GlenCanyonEnvironmentalStudies_16902]]

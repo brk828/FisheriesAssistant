@@ -29,6 +29,9 @@ Cichlasoma is a genus of cichlid fishes that has served as an important model fo
 > This document is correspondence from the [[University of Michigan]] [[Museum of Zoology]] in Ann Arbor, Michigan. The handwritten letter appears to reference cichlid specimens, specifically mentioning [[Cichlasoma]], a genus in the family [[Cichlidae]]. The document quality is poor due to OCR...
 > -- *[[TilapiaAtCuatroCienegasMexico_15378]]*
 
+> This 1972 Master's thesis by Irving L. Kornfield (State University of New York at Stony Brook) examines genetic variability and speciation in [[Cichlasoma]] species from North America. The study employed electrophoretic analysis of 19 protein loci in [[Cichlasoma cyanoguttatum]] from the [[Rio...
+> -- *[[GeneticVariationAndSpeciationI_12625]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[FactorsInfluencingLocalDistrib_17059]]
@@ -37,3 +40,4 @@ Cichlasoma is a genus of cichlid fishes that has served as an important model fo
 - [[TilapiaInCuatroCienegas_13761]]
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[TilapiaAtCuatroCienegasMexico_15378]]
+- [[GeneticVariationAndSpeciationI_12625]]

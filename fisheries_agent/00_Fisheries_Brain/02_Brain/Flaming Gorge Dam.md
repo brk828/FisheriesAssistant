@@ -77,6 +77,18 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a monotypic catostomid endemic to the [[Colorado River Basin]]. Adults in the [[Green River Basin]] averaged 507 mm TL for males (range 405–576 mm, n=141) and 547 mm TL for females (range 485–608 mm, n=45). Males...
 > -- *[[SpawningAndMovementsOfRazorbac_1990]]*
 
+> This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
+> -- *[[DraftRecoveryImplementationPro_11643]]*
+
+> This case study examines the conservation status, recovery efforts, and reintroduction programs for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America. Once a dominant predator throughout the [[Colorado River]] system, the species declined dramatically from...
+> -- *[[CaseStudyColoradoRiverSqauwfis_16101]]*
+
+> This document summarizes a three-day workshop (November 8-10, 1999) at Saguaro Lake Ranch convened to evaluate a proposed temperature control device (TCD) for [[Glen Canyon Dam]]. The workshop brought together scientists, resource managers, and conservationists to provide input on research and...
+> -- *[[GlenCanyonDamTemperatureContro_17019]]*
+
+> This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[TowardRangewideIntegrationOfRe_18628]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -135,3 +147,7 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[FiscalYearWorkPlan_11594]]
 - [[DraftbonytailChubGilaElegans_14696]]
 - [[SpawningAndMovementsOfRazorbac_1990]]
+- [[DraftRecoveryImplementationPro_11643]]
+- [[CaseStudyColoradoRiverSqauwfis_16101]]
+- [[GlenCanyonDamTemperatureContro_17019]]
+- [[TowardRangewideIntegrationOfRe_18628]]

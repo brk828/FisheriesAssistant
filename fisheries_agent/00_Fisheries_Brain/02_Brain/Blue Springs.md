@@ -29,9 +29,13 @@ Blue Springs refers to a significant spring-influenced site located at river mil
 > This 1992 annual report documents research on habitat use by [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]] (LCR) and tributaries of the [[Colorado River]] within [[Grand Canyon]]. The study aimed to determine habitat availability and use patterns,...
 > -- *[[HabitatUseByHumpbackChubGilaCy_11090]]*
 
+> This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
+> -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
+
 ## Mentioned In
 - [[BlueSpringsMiLittleColoradoRiv_1971]]
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[HabitatUseByHumpbackChubGilaCy_1991]]
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[HabitatUseByHumpbackChubGilaCy_11090]]
+- [[HabitatUseByHumpbackChubGilaCy_11575]]

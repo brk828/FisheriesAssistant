@@ -26,6 +26,15 @@ Poeciliopsis is a genus of small livebearing fish native to Mexico and the south
 > This field report documents fish collecting activities conducted by S.P. Vives and five students across multiple sites in southeastern Arizona during April 1-2, 1989. The survey targeted native and introduced fish species at [[San Bernardino Wildlife Refuge]] and surrounding creek systems....
 > -- *[[TentativeSummaryOfCollectingAc_13171]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
+> This comprehensive review synthesizes the biology of [[Gambusia affinis]], a small sexually dimorphic poeciliid fish native to the Gulf Coast and lower Mississippi drainage. Since 1905, the species has been introduced globally for [[Mosquito Control]], now inhabiting freshwater and brackish areas...
+> -- *[[AReviewOfTheBiologyOfTheMosqui_14748]]*
+
+> This article by Dr. George S. Myers examines the ecological dangers posed by [[Gambusia affinis]] (mosquitofish), a small livebearer from the southeastern United States that was widely introduced worldwide for mosquito control beginning around the turn of the 20th century. Despite its effectiveness...
+> -- *[[GambusiaTheFishDestroyer_15551]]*
+
 ## Mentioned In
 - [[AnnualReportUnderUsfwsSubpermi_20894]]
 - [[DesertFishesRecoveryTeamConsul_1988_04_16]]
@@ -36,3 +45,6 @@ Poeciliopsis is a genus of small livebearing fish native to Mexico and the south
 - [[RioMagdalenaBasinFishSurveyTra_1986_11_24]]
 - [[GeneticAndEcologicalConstraint_13156]]
 - [[TentativeSummaryOfCollectingAc_13171]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[AReviewOfTheBiologyOfTheMosqui_14748]]
+- [[GambusiaTheFishDestroyer_15551]]

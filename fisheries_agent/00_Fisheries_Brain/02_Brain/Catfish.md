@@ -35,6 +35,9 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 > This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
 > -- *[[FishingEffortAndHarvestByArizo_15066]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
 ## Mentioned In
 - [[AsuProfsStudyEndangeredFishes_12227]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
@@ -50,3 +53,4 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 - [[WhatHaveICaught_12929]]
 - [[MovementsOfInlandAnglersWithin_11325]]
 - [[FishingEffortAndHarvestByArizo_15066]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]

@@ -14,6 +14,10 @@ Thailand is a Southeast Asian country that is home to endangered catfish species
 > **Core Problem Addressed**: Estimating the size of elusive target populations using dual system (two-source) capture-recapture methods, with focus on improving uncertainty assessment through bootstrap methods when sample sizes are small and asymptotic variance estimates perform poorly....
 > -- *[[TwowayCapturerecaptureMethodsW_2026]]*
 
+> This article by Dr. George S. Myers examines the ecological dangers posed by [[Gambusia affinis]] (mosquitofish), a small livebearer from the southeastern United States that was widely introduced worldwide for mosquito control beginning around the turn of the 20th century. Despite its effectiveness...
+> -- *[[GambusiaTheFishDestroyer_15551]]*
+
 ## Mentioned In
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[TwowayCapturerecaptureMethodsW_2026]]
+- [[GambusiaTheFishDestroyer_15551]]

@@ -68,6 +68,12 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 > This letter from the [[Desert Fishes Recovery Team]] (DFRT) to the U.S. Fish and Wildlife Service Regional Director documents unauthorized introductions of the Quitobaquito subspecies of [[Desert Pupfish]] ([[Cyprinodon macularius]]) outside its natural range in southern Arizona. These alien...
 > -- *[[PresenceOfAlienPupfishMayJeopa_13727]]*
 
+> This case study examines the conservation status, recovery efforts, and reintroduction programs for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America. Once a dominant predator throughout the [[Colorado River]] system, the species declined dramatically from...
+> -- *[[CaseStudyColoradoRiverSqauwfis_16101]]*
+
+> This document comprises correspondence dated December 19, 1990, from Dr. Salvador Contreras Balderas ([[Universidad Autonoma de Nuevo Leon]], Faculty of Biological Sciences) to Dr. W.L. Minckley ([[Arizona State University]]), along with Dr. Contreras Balderas's comprehensive curriculum vitae. The...
+> -- *[[CvForNewProposal_17525]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -178,3 +184,5 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 - [[MemorandumLowerBasinSubcommitt_11426]]
 - [[BogHoleProjectMeetingSummary_12749]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
+- [[CaseStudyColoradoRiverSqauwfis_16101]]
+- [[CvForNewProposal_17525]]

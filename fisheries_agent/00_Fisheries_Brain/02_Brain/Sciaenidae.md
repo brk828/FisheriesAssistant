@@ -29,6 +29,9 @@ Sciaenidae is a diverse family of primarily marine and estuarine teleost fishes 
 > This Federal Aid completion report documents a 14-year experimental program (1957-1971) introducing marine fish species from the [[Gulf of Mexico]] into the saline waters of the [[Pecos River System]] in western Texas. The program was initiated because high salinity levels (800-7,000 ppm chlorides)...
 > -- *[[MarineIntroductionsTexas_13536]]*
 
+> This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
+> -- *[[AClassificationOfTheFishesOfTh_14438]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnExoticOccurrenceOfFreshWater_12926]]
@@ -49,3 +52,4 @@ Sciaenidae is a diverse family of primarily marine and estuarine teleost fishes 
 - [[SoundDiscriminationByMalesOfTw_12764]]
 - [[TheFaunalArchaeologyOfTheTubac_20377]]
 - [[MarineIntroductionsTexas_13536]]
+- [[AClassificationOfTheFishesOfTh_14438]]

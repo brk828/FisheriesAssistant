@@ -26,6 +26,9 @@ Periphyton refers to the community of algae, bacteria, and other microorganisms 
 > A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
 > -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
 
+> This Master's thesis by Nancy Beth Grimm (Arizona State University, May 1980) investigated nitrogen and phosphorus dynamics in streams of the [[Gila River Basin]], Arizona. The study assessed potential nutrient limitation of primary production and the role of [[Periphyton]] in nutrient uptake...
+> -- *[[NitrogenAndPhosphorousDynamics_17776]]*
+
 ## Mentioned In
 - [[CommentsOnTheThirdDraftOfTheLo_1993_04_30]]
 - [[RequestForParticipationAndPart_1980]]
@@ -33,3 +36,4 @@ Periphyton refers to the community of algae, bacteria, and other microorganisms 
 - [[TheLightClimateForPlantsInRive_12168]]
 - [[UptakeAndAssimilationOfNitroge_1969]]
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
+- [[NitrogenAndPhosphorousDynamics_17776]]

@@ -14,6 +14,14 @@ Walker Wildlife Area is a flooded gravel pit near Grand Junction, Colorado, that
 > This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
 > -- *[[DraftmanagementPlanForTheRazor_11427]]*
 
+> This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
+> -- *[[AnInvestigationOfEndangeredAnd_12516]]*
+
+> This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
+> -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
+
 ## Mentioned In
 - [[TheRazorbackSuckerXyrauchenTex_15245]]
 - [[DraftmanagementPlanForTheRazor_11427]]
+- [[AnInvestigationOfEndangeredAnd_12516]]
+- [[RazorbackSuckerXyauchenTexanus_13769]]

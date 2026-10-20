@@ -125,6 +125,15 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > This correspondence and data package documents fish sampling conducted on May 6, 1993 at four sites along the [[Santa Cruz River]] in [[Santa Cruz County]], Arizona. The survey was conducted by the [[Arizona Department of Environmental Quality]] (ADEQ) and [[Arizona Game and Fish Department]]...
 > -- *[[GilaTopminnowsantaCruzRiver_20207]]*
 
+> This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
+> -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
+
+> Minutes from the Desert Fishes Recovery Team meeting held December 7-8, 1989 in Phoenix, Arizona. The team addressed critical conservation issues for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*), including population...
+> -- *[[MinutesOfDesertFishesRecoveryT_13773]]*
+
+> This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
+> -- *[[BeaverScoping_18972]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -339,3 +348,6 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[GilaTopminnowsantaCruzRiver_20207]]
+- [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[MinutesOfDesertFishesRecoveryT_13773]]
+- [[BeaverScoping_18972]]

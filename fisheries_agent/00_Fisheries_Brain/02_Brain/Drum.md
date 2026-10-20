@@ -17,7 +17,11 @@ Drum (freshwater drum) is a rough fish species that showed dramatic population i
 > This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
 > -- *[[RoughFishControl_20167]]*
 
+> This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
+> -- *[[CreelCensusReport_11332]]*
+
 ## Mentioned In
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[WhatHaveICaught_12929]]
 - [[RoughFishControl_20167]]
+- [[CreelCensusReport_11332]]

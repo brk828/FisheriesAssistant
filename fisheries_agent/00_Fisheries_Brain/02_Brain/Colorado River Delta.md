@@ -56,6 +56,9 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 > This study examines allozymic variation in wild and captive populations of endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) from the [[Lower Colorado River]] basin and [[Salton Sink]]. Four polymorphic loci were surveyed across 13 populations (9 captive, 4 wild). Few consistent...
 > -- *[[AllozymicVariationInDesertPupf_19162]]*
 
+> This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
+> -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AnalysisOfPenaeidShrimpLanding_16892]]
@@ -81,3 +84,4 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 - [[MinutesDesertFishesRecoveryTea_13749]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[AllozymicVariationInDesertPupf_19162]]
+- [[DeltaOfTheColoradoRiverpastAnd_12132]]

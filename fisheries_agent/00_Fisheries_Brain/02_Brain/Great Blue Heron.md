@@ -20,8 +20,12 @@ Great Blue Heron is a large wading bird species. During the May 1989 Pyramid Lak
 > This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
 > -- *[[TheMaineSmallmouth_14928]]*
 
+> This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
+> -- *[[MichiganFishPredators_12681]]*
+
 ## Mentioned In
 - [[SummaryOfPyramidLakeTrip_13173]]
 - [[ABibliographyAndHostListForThe_15289]]
 - [[DistributionAndPoststockingSur_2016]]
 - [[TheMaineSmallmouth_14928]]
+- [[MichiganFishPredators_12681]]
