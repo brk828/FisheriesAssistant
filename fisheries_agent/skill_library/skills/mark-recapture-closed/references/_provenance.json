@@ -1,0 +1,38 @@
+{
+ "AssessmentOfBiasAndPrecisionAm_2023": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/AssessmentOfBiasAndPrecisionAm_2023.md",
+  "cite": "K. Dettloff (2023). Assessment of bias and precision among simple closed population mark-recapture estimators. Fisheries Research 265: 106756. [AssessmentOfBiasAndPrecisionAm_2023]",
+  "copied": "2026-10-20",
+  "sha256": "a750d1ff78b06f040bde3c3f30ba8f32c2651ee1c8b03cfed77b3af9bb9ce96e"
+ },
+ "EstimatingAnimalAbundance_X-e15b3990": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/EstimatingAnimalAbundance_X-e15b3990.md",
+  "cite": "B. L. Pierce, R. R. Lopez, N. J. Silvy (n.d.). Estimating Animal Abundance. [EstimatingAnimalAbundance_X-e15b3990]",
+  "copied": "2026-10-20",
+  "sha256": "80aa19510c98fc70826d97ba3bb0233745db0f28d89dcb2185534d0bc36eeb7b"
+ },
+ "EvaluationOfALongtermPredatorR_2016": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/EvaluationOfALongtermPredatorR_2016.md",
+  "cite": "K. A. Zelasko, K. R. Bestgen, J. A. Hawkins, G. C. White (2016). Evaluation of a Long\u2010Term Predator Removal Program: Abundance and Population Dynamics of Invasive Northern Pike in the Yampa River, Colorado. Transactions of the American Fisheries Society 145(6): 1153-1170. [EvaluationOfALongtermPredatorR_2016]",
+  "copied": "2026-10-20",
+  "sha256": "3a20e0e75109d2fa55d880fb641d840fc35acb92760913fe51fe7e36eb94e2b8"
+ },
+ "FlatheadCatfishAbundanceAndGro_1985": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/FlatheadCatfishAbundanceAndGro_1985.md",
+  "cite": "S. P. Quinn (1994). Flathead catfish growth and abundance in the Flint River, Georgia. . [FlatheadCatfishAbundanceAndGro_1985]",
+  "copied": "2026-10-20",
+  "sha256": "5cfc5087115fe037ea86188f889b95278356f762f315ec612e2424ae8cf819d0"
+ },
+ "HydroacousticSurveysOfFishAbun_13336": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/HydroacousticSurveysOfFishAbun_13336.md",
+  "cite": "R. E. Thorne, G. L. Thomas and S. United (1981). Hydroacoustic surveys of fish abundance and distribution in Twin Lakes, Colorado. Water and Power Resources Center. [HydroacousticSurveysOfFishAbun_13336]",
+  "copied": "2026-10-20",
+  "sha256": "cf8697b587a826b3c2fbc97dfdc86aba8e30f1311799ee4b51b29de50a569058"
+ },
+ "StatusAssesmentOfAShoalBassPop_2012": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/StatusAssesmentOfAShoalBassPop_2012.md",
+  "cite": "Andrew Thomas Taylor (2012). STATUS ASSESMENT OF A SHOAL BASS POPULATION IN THE LOWER FLINT RIVER, GEORGIA. [StatusAssesmentOfAShoalBassPop_2012]",
+  "copied": "2026-10-20",
+  "sha256": "86dc4137e16ba1724dab471d6aec450a969e3e830f8b0a939c65fcac42b9808a"
+ }
+}

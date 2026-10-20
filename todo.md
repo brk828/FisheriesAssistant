@@ -86,7 +86,21 @@ Observations about the current brain (affects the design):
 - [ ] Verify the three R templates (`zinb.R`, `cjs.R`, `explore.R`) on a Windows machine; `cjs.R` initial-value handling is the least certain.
 
 ## ICM follow-ups
-- [ ] Phase 5 (maintenance): `icm_update` workflow, brain reference refresh, optional upstream contribution (see `ICMDevelopment.md`).
+- [x] Roles and skill library: `skill_library/` (roles, `r-data-handling`, `mark-recapture-data-prep`), installer with hashes, `data_summary` interface, `load_role`/`summarize_project_data`/`check_r_package`/`search_methods_papers` tools.
+- [x] Brain review step 1 (local, no LLM): `python -m utils.brain_methods scan|show` with `icm_templates/analysis_lexicon.yaml` -> `brain_meta/analysis_review.json` (28 analysis families, source counts, years, co-mentions).
+- [x] Brain review step 2 tooling: `utils/skill_build.py estimate|draft|web` with `icm_templates/library_skills.yaml` (mark-recapture closed/open, count-glm, cpue-standardization, age-growth); web items verified (CRAN, Crossref) and kept separate from vault citations; consent before anything is sent.
+- [x] Five analysis skills drafted (skill_library/skills/: mark-recapture-closed/open, count-glm, cpue-standardization, age-growth); all `status: draft`.
+- [ ] Review the five drafts (check formulas, R workflow steps and the few `(unsourced)` lines) and mark each `status: reviewed`; the two mark-recapture-open gaps are now filled (see below). Original item: list analyses by data type and sampling design (needs structured extraction at ingest, estimate and consent), then draft analysis skills into `skill_library/skills/` using brain evidence plus web evidence (package docs, vignettes) with consent; keep web-derived claims marked.
+- [x] Synthesis skill drafted: `scientific-writing-conventions` (reporting checklist from 55 recent brain notes + developer-written conventions; brain notes are summaries so cannot show prose style).
+- [x] Synthesis skill Part C drafted from 13 articles in the gitignored `fisheries_agent/skill_source/` (`python -m utils.skill_source extract|estimate|draft`; specs `icm_templates/source_skills.yaml`, citations `icm_templates/skill_source_refs.yaml`; excerpts cut locally, only paraphrase and original code kept, excerpts never stored). Actual cost ~$0.43 for five drafts.
+- [x] 2026-10-20: `mark-recapture-open` sections 'Assumptions and when to use open models' (Schwarz & Arnason 1996, Brownie 1993, Barbour 2013, Hewitt 2010) and 'Bayesian and software implementation' (NIMBLE paper, Calvert 2009, Royle 2009, Besbeas & Morgan 2014) drafted from `skill_source/` (specs `mark-recapture-open-assumptions`/`-bayesian` use a `skill:` key). The nimble CJS sketch is unexecuted; verify with R.
+- [x] From `skill_source/`: new draft skills `r-data-exploration` and `telemetry-movement-habitat` (Rogers & White, Aarts, Fieberg); `SUPPLEMENT.md` for `count-glm` (developer's `fish_trapping_report_v8.qmd`, Fieberg) and `mark-recapture-open` (PIT detection/survival: Franssen, Buxton, Webber, Avery).
+- [ ] Review these drafts, especially R sketches (R is not installed in the codespace, so no code was run) and the Part C tendencies (13 articles, mostly Southwest native fish; no per-journal claims).
+- [ ] The Zuur & Ieno GLM book is licensed and forbids sharing, so it is NOT sent to an LLM (pointer citation only). If wanted, summarize it by hand or confirm terms permit LLM use. `skill_source/` also holds a stickleback 2009 paper (authors missing from the file), Seddon 2007 and Turner 2026 not used yet; `GLM_Chapter*.pdf` and the `.pptx` are unprocessed.
+- [ ] Skill-defined run path: generic plan, approve, run for R code (Python is not used for analysis) through `utils/runner.py`.
+- [ ] Review the hand-written data skills and mark them `status: reviewed`.
+- [ ] Open the analysis set: `icm_skills` drafts from brain evidence only and `skills.yaml` lists a fixed set. Add (1) analysis discovery: search the brain for analyses used for a given data type and goal and propose skills for approval; (2) web evidence (CRAN/package docs, vignettes, methods papers) with consent, recorded as external references and marked as web-derived in the skill; (3) a package check (exists on CRAN, installed, approval before install); (4) a generic way to run skill-defined R code through `utils/runner.py` (plan, approve, run) instead of only the three fixed tools.
+- [x] Phase 5 (maintenance): `icm_update --check`, `icm_seed new`, `utils/icm_maintain.py`, refresh tool reports new matches (see `ICMDevelopment.md`). Upstream contribution stays manual.
 - [ ] Try the Phase 4 flows (create, restructure, validate, refresh, layered context) with a live model on a real project; tool functions in `main_orchestrator.py` have no direct tests yet.
 
 ## Future features
@@ -95,3 +109,10 @@ Observations about the current brain (affects the design):
 - [x] Project memory (`utils/project_memory.py`): per-project key files, notes and run history; tools `get_project_context`, `get_latest_results`, `remember_project_fact`; runs recorded automatically.
 - [ ] Project memory, later: optional LLM one-line summaries of key files (with consent); index the scientist's own reports.
 - [ ] macOS/Linux support (currently Windows only).
+
+## Project pipelines (done, needs live trial)
+- `utils/pipeline.py` + tools `check_pipeline`, `define_pipeline`, `run_pipeline`; skill `pipeline-orchestration`; data-handler asks how data arrives. Tested with stand-in scripts (R not installed here). Not built by design: FTP/uploads/credentials.
+- Next: try on a real project with R; install a weekly schedule via `python -m utils.pipeline schedule`.
+
+## New-analysis flow (done)
+- `list_skills`/`read_skill` tools (workspace copy first, library fallback; skill list also in `get_project_context`), `profile_project_data` (R: `skill_library/scripts/profile_data.R`, CSV/Excel, one entry per sheet, writes `data_summary.*` next to the file), a "New analysis" routine in the system prompt, and a README "How a Project Works" section. R is now installed in the codespace, so the profiler is tested for real; model-written analysis scripts are not yet tried with a live model.

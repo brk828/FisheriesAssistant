@@ -49,6 +49,16 @@ def build_prompt(skill: str, spec: dict, answers: dict, evidence: list) -> str:
     return "\n".join(parts)
 
 
+def web_block(web: list) -> str:
+    """Prompt section for internet evidence. Each item: {'id': 'web:...', 'kind': 'cran'|'paper', 'text': str}."""
+    lines = ["", "### Web evidence (internet, verified lookups; NOT from the vault)",
+             "Rules for this section: cite these only by their id, for example [[web:cran-glmmTMB]]. Use them for current package names, "
+             "versions and the existence of methods papers only. Do not take formulas, numbers or recommendations from them beyond what the "
+             "text states. Name an R package only if it is listed here or appears in the vault evidence above.", ""]
+    lines += [f"- [[{w['id']}]] ({w['kind']}) {w['text']}" for w in web]
+    return "\n".join(lines) + "\n"
+
+
 def audit(text: str, allowed: set) -> tuple:
     """Removes citations to ids that are not in the skill's references and marks uncited statements.
     Returns (clean text, {'unknown_cites': [...], 'marked_uncited': n})."""
@@ -61,10 +71,14 @@ def audit(text: str, allowed: set) -> tuple:
         return ""
 
     text = _CITE.sub(keep, text)
-    out, heading, marked = [], "", 0
+    out, heading, marked, in_code = [], "", 0, False
     for line in text.splitlines():
         s = line.strip()
-        if s.startswith("#"):
+        if s.startswith("```"):
+            in_code = not in_code
+        elif in_code:
+            pass
+        elif s.startswith("#"):
             heading = s.lower()
         elif (len(s) > 40 and not _CITE.search(s) and not s.startswith("Unsourced")
               and "when to use" not in heading and "(unsourced)" not in s):
@@ -78,13 +92,14 @@ def _is_protected(skill_md: Path) -> bool:
     return skill_md.is_file() and bool(re.search(r"^status:\s*reviewed\s*$", skill_md.read_text(encoding="utf-8"), re.M))
 
 
-def generate(root: Path, skill: str, llm, approve=None, force: bool = False) -> dict:
+def generate(root: Path, skill: str, llm, approve=None, force: bool = False, spec: dict = None, web: list = None) -> dict:
     """Builds one skill. Returns {'status': 'draft'|'refs-only'|'protected', 'copied': n, 'gaps': n, 'audit': {...}}."""
     root = Path(root)
-    specs = load_specs()
-    if skill not in specs:
-        raise ValueError(f"Unknown skill '{skill}'. Available: {', '.join(specs)}")
-    spec = specs[skill]
+    if spec is None:
+        specs = load_specs()
+        if skill not in specs:
+            raise ValueError(f"Unknown skill '{skill}'. Available: {', '.join(specs)}")
+        spec = specs[skill]
     folder = root / "skills" / skill
     skill_md = folder / "SKILL.md"
     if _is_protected(skill_md) and not force:
@@ -105,10 +120,15 @@ def generate(root: Path, skill: str, llm, approve=None, force: bool = False) -> 
     icm_seed.write_sources(root)
 
     allowed = {c["source_id"] for ev in evidence for c in ev["candidates"]}
+    web = web or []
+    allowed |= {w["id"] for w in web}
     report, status = {}, "refs-only"
     if llm is not None and allowed:
-        draft = llm(build_prompt(skill, spec, answers, evidence))
-        draft, report = audit(draft, allowed)
+        prompt = build_prompt(skill, spec, answers, evidence)
+        if web:
+            prompt += web_block(web)
+        draft = llm(prompt)
+        draft, report = audit(re.sub(rf"\A\s*#\s+{re.escape(skill)}\s*\n", "", draft), allowed)
         head = (f"---\nname: {skill}\ndescription: {spec['description']}\nstatus: draft\n"
                 f"generated: {datetime.now(timezone.utc).strftime('%Y-%m-%d')}\n---\n\n# {skill}\n\n")
         folder.mkdir(parents=True, exist_ok=True)

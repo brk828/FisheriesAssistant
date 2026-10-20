@@ -1,0 +1,50 @@
+{
+ "BayesianEstimationOfVonBertala_2025": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/BayesianEstimationOfVonBertala_2025.md",
+  "cite": "D. W. Chamberlin, Z. A. Siders, J. C. Potts, W. D. Rogers, M. A. Taylor, W. F. Patterson (2025). Bayesian estimation of von Bertalanffy growth parameters for gray triggerfish, Balistes capriscus, incorporating multiple readers and ageing structures. Canadian Journal of Fisheries and Aquatic Sciences 82: 1-12. [BayesianEstimationOfVonBertala_2025]",
+  "copied": "2026-10-20",
+  "sha256": "ee22db61da8e18c1699d40cc312b5eba59f27785e9d927bfcd5f4de9aa780e1e"
+ },
+ "CatchPerUnitEffortModellingFor_2024": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/CatchPerUnitEffortModellingFor_2024.md",
+  "cite": "S. D. Hoyle, R. A. Campbell, N. D. Ducharme-Barth, A. Gr\u00fcss, B. R. Moore, J. T. Thorson, L. Tremblay-Boyer, H. Winker, S. Zhou, M. N. Maunder (2024). Catch per unit effort modelling for stock assessment: A summary of good practices. Fisheries Research 269: 106860. [CatchPerUnitEffortModellingFor_2024]",
+  "copied": "2026-10-20",
+  "sha256": "818e6c80254ec47da11ddc5182ed19503e8d4db883904b9659ae97c0a3d41330"
+ },
+ "ChasingNorthernPikeUnderIceLon_2021": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/ChasingNorthernPikeUnderIceLon_2021.md",
+  "cite": "C. M. Somers, U. Goncin, S. Hamilton, M. Chupik, R. Fisher (2021). Chasing Northern Pike under Ice: Long-Distance Movements Following Catch-and-Release Ice Angling. North American Journal of Fisheries Management 41(5): 1341-1350. [ChasingNorthernPikeUnderIceLon_2021]",
+  "copied": "2026-10-20",
+  "sha256": "8a0bfbe31ee7c4d1c24c6da804eeff823dc9a3f12aae09755ed3f3f6fa279fb5"
+ },
+ "EstimatingAnimalAbundance_X-e15b3990": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/EstimatingAnimalAbundance_X-e15b3990.md",
+  "cite": "B. L. Pierce, R. R. Lopez, N. J. Silvy (n.d.). Estimating Animal Abundance. [EstimatingAnimalAbundance_X-e15b3990]",
+  "copied": "2026-10-20",
+  "sha256": "80aa19510c98fc70826d97ba3bb0233745db0f28d89dcb2185534d0bc36eeb7b"
+ },
+ "FisheriesSurveyOfTheApacheSitg_1995_07_18": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/FisheriesSurveyOfTheApacheSitg_1995_07_18.md",
+  "cite": "G. Knowles, T. Inman and T. Hurst (1995). Fisheries Survey of the Apache-Sitgreaves National Forest: Seventh trip report, Eagle Creek. Arizona State University, Dept. of Zoology, Center for Environmental Studies. [FisheriesSurveyOfTheApacheSitg_1995_07_18]",
+  "copied": "2026-10-20",
+  "sha256": "0538030335047d7029e27b62b74a3be0cd7b5a3aa90d52c5516ed67439a00afc"
+ },
+ "IncreasingDroughtFavorsNonnati_2019": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/IncreasingDroughtFavorsNonnati_2019.md",
+  "cite": "J. S. Rogosch, J. D. Tonkin, D. A. Lytle, D. M. Merritt, L. V. Reynolds, J. D. Olden (2019). Increasing drought favors nonnative fishes in a dryland river: evidence from a multispecies demographic model. Ecosphere 10(4). [IncreasingDroughtFavorsNonnati_2019]",
+  "copied": "2026-10-20",
+  "sha256": "ed139384915e498ee26ec771993657046903994cc3ff12add06fda74c9b5ae46"
+ },
+ "InvasionPotentialOfNonnativeFi_2026": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/InvasionPotentialOfNonnativeFi_2026.md",
+  "cite": "B. Friesen, C. A. Pennock, P. Budy (2026). Invasion potential of nonnative fishes through a large western dam into an iconic and vulnerable ecosystem. Hydrobiologia 853(11): 3249-3268. [InvasionPotentialOfNonnativeFi_2026]",
+  "copied": "2026-10-20",
+  "sha256": "a9c2d6c2b01f177de2b7c75bf034480bfd8bc7a34a05ca3d0046085f4f1799eb"
+ },
+ "MultistateRecaptureModelsModel_2002": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/MultistateRecaptureModelsModel_2002.md",
+  "cite": "J. D. Lebreton, R. P. Cefe (2002). Multistate recapture models: Modelling incomplete individual histories. Journal of Applied Statistics 29(1-4): 353-369. [MultistateRecaptureModelsModel_2002]",
+  "copied": "2026-10-20",
+  "sha256": "018dce67f2aa31821524e3edc6704660aaa5bc6584d9b487634a15e8c219cc40"
+ }
+}

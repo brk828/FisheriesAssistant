@@ -1,6 +1,8 @@
 # ICM-Based Project Management: Development Plan
 
-Status: Phases 1-4 complete; Phase 5 (maintenance) next.
+Status: Phases 1-5 complete; live-model trials remain.
+
+Done (Phase 5): `icm_update --check` (does upstream have newer commits, no clone), `icm_seed.new_matches` / `icm_seed new <workspace>` (brain sources that now match a stage topic but are not copied), `utils/icm_maintain.py` (read-only report across all linked workspaces: changed or missing notes, new matches, skills built on changed notes, optional `--upstream`), and `refresh_project_references` now also lists new matches. Contributing upstream stays optional and manual. 30 tests.
 
 Done (Phase 4): `utils/icm_integration.py` (manifest link, layered context, validation wrapper); orchestrator tools `validate_project`, `refresh_project_references` (apply needs approval), `create_icm_project`, `restructure_project`, and `get_project_context(stage)`; `run_project_pipeline` warns when linked data changed; onboarding offers restructure per project and keeps existing links on re-run. 27 tests. Not yet tried against a live model or a real project.
 
@@ -213,10 +215,10 @@ Asked once in the questionnaire: "Should this project be a git repository?"
 
 **Phase 4: Orchestrator and onboarding integration**
 - Intents, manifest field, layered context loading, onboarding step.
-- Docs: update `readme.md`, `agents.md`, `todo.md`.
+- Docs: update `readme.md`, `AGENTS.md` (root and `fisheries_agent/`), `todo.md`.
 
 **Phase 5: Maintenance**
-- `icm_update` workflow, refresh of references when the brain changes, optional upstream contribution.
+- Done: `icm_update` check/diff/apply, reference refresh plus new-match detection, `icm_maintain` report. Optional upstream contribution is not automated.
 
 ## 8. Risks and mitigations
 

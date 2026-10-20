@@ -1,0 +1,56 @@
+{
+ "CatchPerUnitEffortModellingFor_2024": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/CatchPerUnitEffortModellingFor_2024.md",
+  "cite": "S. D. Hoyle, R. A. Campbell, N. D. Ducharme-Barth, A. Gr\u00fcss, B. R. Moore, J. T. Thorson, L. Tremblay-Boyer, H. Winker, S. Zhou, M. N. Maunder (2024). Catch per unit effort modelling for stock assessment: A summary of good practices. Fisheries Research 269: 106860. [CatchPerUnitEffortModellingFor_2024]",
+  "copied": "2026-10-20",
+  "sha256": "818e6c80254ec47da11ddc5182ed19503e8d4db883904b9659ae97c0a3d41330"
+ },
+ "FishesOfAlabama_1990": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/FishesOfAlabama_1990.md",
+  "cite": "Mettee (1990). Fishes of Alabama. [FishesOfAlabama_1990]",
+  "copied": "2026-10-20",
+  "sha256": "fd4a53e0046fd2cadc02a771aa5d2caae6520b93698ad312bf42a18d893619a1"
+ },
+ "InteragencyStandardizedMonitor_1993": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/InteragencyStandardizedMonitor_1993.md",
+  "cite": "F. Pfeifer (1993). Interagency standardized monitoring. FY 93 Annual Project Report Colorado River Recovery Program 21-A, 21 B, 21 C. [InteragencyStandardizedMonitor_1993]",
+  "copied": "2026-10-20",
+  "sha256": "9539c8a6870235e259b017adbc9e21dd95184516652b9e85d2d4ec16ac1dca06"
+ },
+ "PreliminaryStudyOfTheDesertPup_12499": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/PreliminaryStudyOfTheDesertPup_12499.md",
+  "cite": "B. E. Kynard (1976). Preliminary study of the desert pupfish and their habitat at Quitobaquito Springs, Arizona. Final report 1:US National Park Service. [PreliminaryStudyOfTheDesertPup_12499]",
+  "copied": "2026-10-20",
+  "sha256": "52e6c8b6bcec23a65fee38130fcb415a8b4926357a15e7c4ba55d46ffed791ca"
+ },
+ "RazorbackSuckerMonitoringEffor_13702": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/RazorbackSuckerMonitoringEffor_13702.md",
+  "cite": "W. L. Minckley (1985). Razorback sucker monitoring effort, Arizona reservoirs, March 1985. (personal communication). [RazorbackSuckerMonitoringEffor_13702]",
+  "copied": "2026-10-20",
+  "sha256": "3f8a14c29062330b570ea4f24bf19754011409879318e6425709554f2a3da1a7"
+ },
+ "SelectedReferencesOnElectrofis_1980_05_06": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/SelectedReferencesOnElectrofis_1980_05_06.md",
+  "cite": "D. Wydoski (1980). Selected references on 'electrofishing'. [SelectedReferencesOnElectrofis_1980_05_06]",
+  "copied": "2026-10-20",
+  "sha256": "2ae01950fc563dddf18a6d3a96306b25ce296fb9e61d56240eeaad0f2aa0d24e"
+ },
+ "StatusOfTheBiowestDatabase_13632": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/StatusOfTheBiowestDatabase_13632.md",
+  "cite": "R. A. Valdez (1993). Status of the Bio/West database. (personal communication). [StatusOfTheBiowestDatabase_13632]",
+  "copied": "2026-10-20",
+  "sha256": "3f2b651a12331cbcee78dd51a4c624b819869b81f01900da944e33427b5f275e"
+ },
+ "ThoughtsOnTheStatusAndRecovery_1990_05_08": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/ThoughtsOnTheStatusAndRecovery_1990_05_08.md",
+  "cite": "L. R. Kaeding (1990). Comments on road maps. (personal communication). [ThoughtsOnTheStatusAndRecovery_1990_05_08]",
+  "copied": "2026-10-20",
+  "sha256": "9eb39d1a3035ba96f8248b554ada8cc8621436f815c1dabab22edeb3806f988a"
+ },
+ "UtahLakeEcosystemMonitoringToS_2023": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/UtahLakeEcosystemMonitoringToS_2023.md",
+  "cite": "Kevin Landom, Emmanuel May, Timothy E. Walsworth (2023). Utah Lake ecosystem monitoring to support June sucker conservation efforts. [UtahLakeEcosystemMonitoringToS_2023]",
+  "copied": "2026-10-20",
+  "sha256": "8ad20367c5b6f5796274fc5ed6aeae996952b0d649aeb8eeb055c9fc168e94fc"
+ }
+}

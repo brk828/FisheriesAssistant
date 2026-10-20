@@ -2,6 +2,7 @@
 
     python -m utils.icm_seed seed <workspace>                # propose, approve, copy stage references, write GAPS.md
     python -m utils.icm_seed refresh <workspace> [--apply]   # show (or apply) brain updates to copied notes
+    python -m utils.icm_seed new <workspace>                 # brain sources that match a stage topic but are not copied yet
     python -m utils.icm_seed supply <workspace> <pdf|citation|url>   # fill a gap with your own source
 
 Notes are copied as snapshots (never linked) with a content hash in each references/_provenance.json, so later
@@ -34,7 +35,8 @@ def _sha(path: Path) -> str:
 
 
 def project_config(root: Path) -> dict:
-    return yaml.safe_load((Path(root) / "_config" / "project.yaml").read_text(encoding="utf-8")) or {}
+    p = Path(root) / "_config" / "project.yaml"
+    return (yaml.safe_load(p.read_text(encoding="utf-8")) or {}) if p.is_file() else {}
 
 
 def fill(query: str, answers: dict) -> str:
@@ -200,6 +202,21 @@ def refresh(root: Path, apply: bool = False) -> list:
     return changes
 
 
+def new_matches(root: Path, proposal: dict = None) -> list:
+    """Brain sources that now match a stage topic but are not copied into that stage yet (for example after new PDFs
+    were ingested). Returns (stage, topic, source_id, title). Read-only; `seed` copies them after approval."""
+    root = Path(root)
+    proposal = proposal if proposal is not None else propose(root)
+    found = []
+    for slug, results in proposal.items():
+        have = _load_prov(root / "stages" / slug / "references")
+        for r in results:
+            for c in r["candidates"]:
+                if c["source_id"] not in have:
+                    found.append((slug, r.get("topic") or r.get("name"), c["source_id"], c.get("title", "")))
+    return found
+
+
 def supply(root: Path, item: str) -> str:
     """Fills a gap with the user's own source: a PDF goes to the ingest inbox, anything else is an external reference."""
     root = Path(root)
@@ -220,13 +237,18 @@ def supply(root: Path, item: str) -> str:
 
 def main(argv=None) -> int:
     argv = argv if argv is not None else sys.argv[1:]
-    if len(argv) < 2 or argv[0] not in ("seed", "refresh", "supply"):
+    if len(argv) < 2 or argv[0] not in ("seed", "refresh", "new", "supply"):
         print(__doc__)
         return 2
     cmd, root = argv[0], Path(argv[1])
     if cmd == "seed":
         r = seed(root, approve=prompt_approve)
         print(f"Copied {r['copied']} note(s); {r['gaps']} gap(s) listed in GAPS.md.")
+    elif cmd == "new":
+        found = new_matches(root)
+        for stage, topic, sid, title in found:
+            print(f"- {stage} / {topic}: {sid} {title[:70]}")
+        print("No new matches." if not found else "Run 'seed' to review and copy them.")
     elif cmd == "refresh":
         changes = refresh(root, apply="--apply" in argv)
         for folder, sid, status in changes:

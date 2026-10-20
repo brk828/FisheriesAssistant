@@ -148,4 +148,6 @@ def scaffold(projects_root, folder: str, project_name: str, type_key: str, answe
     _write(dest / "data" / "README.md", "# Data\n\nLarge inputs and model objects live here and are not versioned. Record where each file came from below.\n\n")
     if git_cfg and git_cfg.get("enabled"):
         icm_git.init_repo(dest, git_cfg)
+    from utils import skill_library
+    skill_library.install(dest)
     return dest

@@ -39,11 +39,27 @@ def offer_icm_workspaces(projects):
             print(f" Registered {icm_integration.register_workspace(dest, original=project.name)}")
 
 
+def show_agent_guide():
+    """Print the Onboarding section of AGENTS.md so the scientist sees how the agent is set up and behaves."""
+    guide = HERE / "AGENTS.md"
+    if not guide.exists():
+        return
+    section, keep = [], False
+    for line in guide.read_text(encoding="utf-8").splitlines():
+        if line.startswith("## "):
+            keep = line.startswith("## Onboarding")
+        if keep:
+            section.append(line)
+    if section:
+        print("\n".join(section).strip() + f"\n\n(Full agent guide: {guide})\n")
+
+
 def run_onboarding():
     print("=========================================================")
     print("⚓ FISHERIES AI AGENT FRAMEWORK - MACHINE ONBOARDING ⚓")
     print("=========================================================\n")
-    
+    show_agent_guide()
+
     # --- STEP 1: INTERVIEW THE USER ---
     print("--- 1. PROJECT DISCOVERY ---")
     r_projects_root = input("Enter the absolute path to your RProjects folder (e.g., C:\\Users\\drsmith\\RProjects): ").strip()

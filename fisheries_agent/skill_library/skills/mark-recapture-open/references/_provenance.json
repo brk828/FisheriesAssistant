@@ -1,0 +1,44 @@
+{
+ "EffectOfPassiveIntegratedTrans_2025": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/EffectOfPassiveIntegratedTrans_2025.md",
+  "cite": "J. M. Buxton, M. L. Wulff, B. M. Huntsman, K. Palenscar, B. Mills, K. Russell, A. Ruan, T. Bui (2025). Effect of passive integrated transponder tag size on survival,\u00a0tag loss, and growth of Santa Ana Sucker. North American Journal of Fisheries Management 46(1): 269-275. [EffectOfPassiveIntegratedTrans_2025]",
+  "copied": "2026-10-20",
+  "sha256": "c325a3f1d77d45cf5e74535adc5317f73133db90f2d8673add78c69d7c42a8e1"
+ },
+ "EstimatingAnimalAbundance_X-e15b3990": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/EstimatingAnimalAbundance_X-e15b3990.md",
+  "cite": "B. L. Pierce, R. R. Lopez, N. J. Silvy (n.d.). Estimating Animal Abundance. [EstimatingAnimalAbundance_X-e15b3990]",
+  "copied": "2026-10-20",
+  "sha256": "80aa19510c98fc70826d97ba3bb0233745db0f28d89dcb2185534d0bc36eeb7b"
+ },
+ "EvaluationOfALongtermPredatorR_2016": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/EvaluationOfALongtermPredatorR_2016.md",
+  "cite": "K. A. Zelasko, K. R. Bestgen, J. A. Hawkins, G. C. White (2016). Evaluation of a Long\u2010Term Predator Removal Program: Abundance and Population Dynamics of Invasive Northern Pike in the Yampa River, Colorado. Transactions of the American Fisheries Society 145(6): 1153-1170. [EvaluationOfALongtermPredatorR_2016]",
+  "copied": "2026-10-20",
+  "sha256": "3a20e0e75109d2fa55d880fb641d840fc35acb92760913fe51fe7e36eb94e2b8"
+ },
+ "EvaluationOfALongtermPredatorR_2016_X-6cf6a615": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/EvaluationOfALongtermPredatorR_2016_X-6cf6a615.md",
+  "cite": "K. A. Zelasko, K. R. Bestgen, J. A. Hawkins, G. C. White (2016). Evaluation of a Long\u2010Term Predator Removal Program: Abundance and Population Dynamics of Invasive Northern Pike in the Yampa River, Colorado. Transactions of the American Fisheries Society 145(6): 1153-1170. [EvaluationOfALongtermPredatorR_2016_X-6cf6a615]",
+  "copied": "2026-10-20",
+  "sha256": "fa65e797c221cb2878ef7dfae751977dac78f9f9fafc29b4819a8d293975532a"
+ },
+ "MovementEcologyOfImperilledFis_2020_X-49b0cb00": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/MovementEcologyOfImperilledFis_2020_X-49b0cb00.md",
+  "cite": "C. A. Pennock, M. C. McKinstry, C. N. Cathcart, K. B. Gido, T. A. Francis, B. A. Hines, P. D. MacKinnon, S. C. Hedden, E. I. Gilbert, C. A. Cheek, D. W. Speas, K. Creighton, D. S. Elverud, B. J. Schleicher (2020). Movement ecology of imperilled fish in a novel ecosystem: River\u2010reservoir movements by razorback sucker and translocations to aid conservation. Aquatic Conservation: Marine and Freshwater Ecosystems 30(8): 1540-1551. [MovementEcologyOfImperilledFis_2020_X-49b0cb00]",
+  "copied": "2026-10-20",
+  "sha256": "1c52f05d51d2bd31531319cb146f7e2f7d1e092c9e43ded71f414951d773a599"
+ },
+ "MultistateRecaptureModelsModel_2002": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/MultistateRecaptureModelsModel_2002.md",
+  "cite": "J. D. Lebreton, R. P. Cefe (2002). Multistate recapture models: Modelling incomplete individual histories. Journal of Applied Statistics 29(1-4): 353-369. [MultistateRecaptureModelsModel_2002]",
+  "copied": "2026-10-20",
+  "sha256": "018dce67f2aa31821524e3edc6704660aaa5bc6584d9b487634a15e8c219cc40"
+ },
+ "RazorbackSuckerMovementStrateg_2020": {
+  "brain_path": "00_Fisheries_Brain/01_Sources/RazorbackSuckerMovementStrateg_2020.md",
+  "cite": "C. A. Pennock, M. C. McKinstry, K. B. Gido (2020). Razorback Sucker Movement Strategies across a River\u2013Reservoir Habitat Complex. Transactions of the American Fisheries Society 149(5): 620-634. [RazorbackSuckerMovementStrateg_2020]",
+  "copied": "2026-10-20",
+  "sha256": "e7be7a9bf076e77679e5f3d77cc21258ff8e14daf0fdb3e6b56ef90d08a8394a"
+ }
+}

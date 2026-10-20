@@ -25,7 +25,7 @@ The system operates via a master-orchestrator pattern powered by **OpenRouter** 
 ```text
 fisheries_agent/
 ├── .env.template                # Placeholder config; copy to .env (never commit .env)
-├── agents.md                    # Developer/system-prompt context for this framework
+├── AGENTS.md                    # Behavior guide for the installed agent (developer guide is the repo-root AGENTS.md)
 ├── start.bat                    # One-step launcher (Windows): runs start.py
 ├── start.py                     # Runs dependency check, onboarding, key setup, then the orchestrator
 ├── setup_api_key.py             # Saves your OpenRouter key to .env from hidden input
@@ -45,6 +45,7 @@ fisheries_agent/
 │   ├── bayesian_nimble.py       # Mark-resight and population models
 │   ├── zero_inflated_tmb.py     # glmmTMB count regression models
 │   └── data_explorer.py         # PCA, MDS, and multivariate visualization
+├── skill_library/               # Prepackaged roles, skills and scripts/profile_data.R (copied into ICM workspaces)
 ├── r_templates/                 # Fixed R scripts; arguments are passed in, never generated as code
 ├── runs/                        # Per-run output folders and logs (created automatically)
 └── utils/
@@ -54,8 +55,24 @@ fisheries_agent/
     ├── project_memory.py        # Per-project memory (key files, notes, run history) in project_memory/<project>.yaml
     ├── brain_enrich.py          # Builds source titles and species aliases (optional LLM title pass)
     ├── brain_citations.py       # Citations: Minckley sheet import + external (non-Minckley) citations
-    └── pdf_ingest.py            # PDFs -> notes: text/OCR, citation from the PDF, LLM synthesis
+    ├── pdf_ingest.py            # PDFs -> notes: text/OCR, citation from the PDF, LLM synthesis
+    └── pipeline.py              # Project pipelines: reruns stale R steps listed in pipeline.yaml
 ```
+
+## 🧭 How a Project Works (User Experience)
+
+The agent is a traffic controller: it gathers context, hands it to the language model, and has R do the work. Nothing is run until you approve it.
+
+1. **Onboarding (once).** `start.py` checks dependencies, saves your OpenRouter key, and interviews you about your project folders. For a new project the agent builds an ICM workspace (`AGENTS.md`, `CONTEXT.md`, stage folders, brain-seeded references) and copies in the prepackaged roles and skills (`.agent/roles/`, `skills/`). Tell it the goal once ("manuscript on CPUE change between two locations") and it is remembered with the project.
+2. **Say what you want.** For example "analyze the data". The agent reads the project context and goal, then follows its new-analysis routine:
+   - **Skills:** `list_skills` / `read_skill` find the skills that match the data type and goal (for example `cpue-standardization`, `count-glm`). Skills marked `draft` are starting points and the agent says so.
+   - **Data handler:** `profile_project_data` runs an R script that reads your CSV or Excel file (every sheet) and writes `data_summary.json` and `data_summary.md` next to it: columns, types, missing values, ranges, group counts and hints (effort/CPUE columns, zero-heavy counts, capture histories, dates). Needs R, `jsonlite`, and `readxl` for Excel; the agent asks before installing anything.
+   - **Analyst:** the agent proposes a plan from the data summary and the skills (model, formulas, R packages, assumptions, diagnostics) and asks about anything the data cannot answer, such as which column marks the location.
+3. **Approve and run.** You approve the plan; the agent writes the R script into the project, you approve the run, and results are reported from the saved output files (`runs/`). If the first script shows something unexpected about the data, the plan is adjusted rather than guessed.
+4. **Write up.** `@synthesist` drafts methods and results text from the project's outputs, using the brain for literature and the writing-conventions skill. Every citation comes from the vault; missing ones are marked `[CITATION NEEDED]`.
+5. **Keep it current.** A project can have a `pipeline.yaml`: ordered R steps that rerun only when their input files change. When you open a project and steps are out of date, the agent tells you and offers to run them. If your data comes from a download script of your own, point the agent to it and it is added as a refresh step that runs only when you ask. No FTP details or passwords are ever stored. For a weekly run, `python -m utils.pipeline schedule <project folder>` prints a Task Scheduler or cron line for you to install.
+
+Roles you can call by name: `@data-handler`, `@analyst`, `@synthesist`. Role and skill content is in `skill_library/` and is copied into each workspace; your local edits are never overwritten, and `icm_maintain` reports library updates. Analyses are always R; Python only runs the agent and the pipeline engine.
 
 ## 🚀 Installation & Onboarding
 
@@ -119,7 +136,7 @@ Projects can be staged ICM workspaces (`AGENTS.md`, `CONTEXT.md`, stage folders,
 
 ## 🔮 Future Features
 * **Scheduled PDF processor:** `utils/pdf_ingest.py` already converts PDFs from `00_Fisheries_Brain/pdfs_to_process/` into `01_Sources/` notes on demand (OCR where needed, citation read from the PDF). It also updates the `02_Brain/` concept stubs so the new notes are searchable. The running agent checks the folder every minute and, on Enter or `ingest`, shows an estimated cost and asks before adding new PDFs. Markdown from the Minckley process is added to `01_Sources/` and `02_Brain/` by hand.
-* **Project memory, next steps:** optional LLM one-line summaries of key files, and indexing the scientist's own reports (see `todo.md`).
+* **Project memory, next steps:** optional LLM one-line summaries of key files, and indexing the scientist's own reports (see the root `todo.md`).
 
 ## �💻 System Dependencies
 Currently supported platform: **Windows**.

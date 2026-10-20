@@ -8,7 +8,7 @@ from pathlib import Path
 from openai import OpenAI, OpenAIError
 from dotenv import load_dotenv
 
-from utils import brain_index, docx_io, gitsync, icm_data, icm_integration, icm_seed, pdf_ingest, project_memory
+from utils import brain_index, docx_io, gitsync, icm_data, icm_integration, icm_seed, pdf_ingest, pipeline, project_memory, skill_library, web_evidence, data_summary
 from utils.runner import find_rscript, new_run_dir, run_command, run_r_template, run_shell, truncate
 from utils.safety import (
     SafetyError, clamp_iterations, parse_zi_formula, project_roots, resolve_in_roots,
@@ -165,9 +165,55 @@ def _workspace(project_name: str):
 
 def get_project_context(project_name: str, stage: str = ""):
     """Returns the ICM layers (when the project has a workspace) plus remembered notes, key files and recent runs (read-only)."""
-    memory = project_memory.context(project_name, _project_root(project_name))
+    root = _project_root(project_name)
+    memory = project_memory.context(project_name, root)
+    freshness = pipeline.summary(root, project_name)
+    if freshness:
+        memory += "\n\n" + freshness
     ws = _workspace(project_name)
-    return icm_integration.layered_context(ws, stage) + "\n\n" + memory if ws else memory
+    skills = ""
+    if ws:
+        skills = "\n\n## Skills available (list_skills / read_skill)\n" + ", ".join(f"{s['name']} [{s['status'] or '?'}]" for s in skill_library.list_skills(ws))
+    return icm_integration.layered_context(ws, stage) + skills + "\n\n" + memory if ws else memory
+
+def check_pipeline(project_name: str):
+    """Reports which steps of the project's pipeline.yaml are out of date and why (read-only)."""
+    root = _project_root(project_name)
+    try:
+        return pipeline.summary(root, project_name) or f"Project '{project_name}' has no {pipeline.PIPELINE_FILE}. Offer define_pipeline."
+    except ValueError as e:
+        return f"Error: {e}"
+
+def define_pipeline(project_name: str, steps: list, overwrite: bool = False):
+    """Validates and writes pipeline.yaml (ordered steps: id, script, inputs, outputs; kind 'refresh' marks the user's data download script)."""
+    root = _project_root(project_name)
+    target = root / pipeline.PIPELINE_FILE
+    if target.exists() and not overwrite:
+        return f"Error: {pipeline.PIPELINE_FILE} already exists. Call again with overwrite=true if the user wants it replaced."
+    try:
+        clean = pipeline.validate(root, steps)
+    except ValueError as e:
+        return f"Error: {e}"
+    target.write_text(yaml.safe_dump({"steps": clean}, sort_keys=False), encoding="utf-8")
+    project_memory.record_file(project_name, root, pipeline.PIPELINE_FILE)
+    return f"Wrote {pipeline.PIPELINE_FILE} with {len(clean)} step(s). Offer check_pipeline, then run_pipeline."
+
+def run_pipeline(project_name: str, include_refresh: bool = False):
+    """Runs the out-of-date steps of the project's pipeline in order; include_refresh first runs the user's data refresh step."""
+    root = _project_root(project_name)
+    try:
+        res = pipeline.run(root, project_name, include_refresh=include_refresh)
+    except ValueError as e:
+        return f"Error: {e}"
+    ok = not res["failed"]
+    project_memory.record_run(project_name, root, "run_pipeline", ok, ", ".join(res["ran"]) or "nothing stale", res["run_dir"], res["outputs"])
+    for rel in res["outputs"][:5]:
+        if project_memory.classify(rel) == "results":
+            project_memory.record_file(project_name, root, rel)
+    lines = [("Succeeded." if ok else f"Stopped: step '{res['failed']}' failed; later steps were not run.")
+             + f" Ran: {', '.join(res['ran']) or 'nothing (all up to date)'}. Up to date: {', '.join(res['skipped']) or 'none'}. Logs: {res['run_dir']}"]
+    lines += [truncate(m) for m in res["messages"]]
+    return "\n".join(lines)
 
 def validate_project(project_name: str, full_data_check: bool = False):
     """Checks a project's ICM workspace against the conventions and its linked data against the manifest (read-only)."""
@@ -182,10 +228,71 @@ def refresh_project_references(project_name: str, apply: bool = False):
     if not ws:
         return f"Project '{project_name}' has no ICM workspace."
     changes = icm_seed.refresh(ws, apply=apply)
-    if not changes:
-        return "All copied reference notes match the brain."
-    lines = "\n".join(f"- {folder}: {sid} {status}" for folder, sid, status in changes)
-    return lines + ("\nApplied." if apply else "\nNot applied; call again with apply=true to update.")
+    new = icm_seed.new_matches(ws)
+    if not changes and not new:
+        return "All copied reference notes match the brain, and no new brain sources match the stage topics."
+    lines = [f"- {folder}: {sid} {status}" for folder, sid, status in changes]
+    out = "\n".join(lines) + (("\nApplied." if apply else "\nNot applied; call again with apply=true to update.") if changes else "")
+    if new:
+        out += "\nNew brain sources match stage topics (not copied; the user can run `python -m utils.icm_seed seed <workspace>` to review them):\n"
+        out += "\n".join(f"- {stage} / {topic}: {sid}" for stage, topic, sid, _t in new)
+    return out.strip()
+
+ROLE_NAMES = {"data-handler", "analyst", "synthesist"}
+
+def load_role(role: str, project_name: str = ""):
+    """Returns a role prompt (data-handler, analyst, synthesist) from the project's workspace, else from the skill library (read-only)."""
+    role = (role or "").lower().lstrip("@").replace("_", "-")
+    if role not in ROLE_NAMES:
+        return f"Unknown role '{role}'. Available: {', '.join(sorted(ROLE_NAMES))}."
+    ws = _workspace(project_name) if project_name else None
+    for path in ([ws / ".agent" / "roles" / f"{role}.md"] if ws else []) + [skill_library.LIBRARY / "roles" / f"{role}.md"]:
+        if path.is_file():
+            return path.read_text(encoding="utf-8")
+    return f"Role file for '{role}' not found."
+
+def summarize_project_data(project_name: str, csv_path: str):
+    """Profiles one CSV and writes data_summary.json/.md next to it: the data handler's output for the analyst."""
+    root = _project_root(project_name)
+    src = validate_csv(str(root / csv_path), [root])
+    j, m = data_summary.write_summary(src, src.parent)
+    return truncate(data_summary.to_markdown(data_summary.summarize(src)) + f"\nWrote {j.relative_to(root).as_posix()} and {m.relative_to(root).as_posix()}.")
+
+def list_skills(project_name: str = ""):
+    """Lists the skills available to a project (its workspace copies, else the prepackaged library)."""
+    ws = _workspace(project_name) if project_name else None
+    return "\n".join(f"- {s['name']} [{s['status'] or 'no status'}]: {s['description']}" for s in skill_library.list_skills(ws))
+
+def read_skill(skill: str, project_name: str = "", file: str = "SKILL.md"):
+    """Returns one skill file so the agent can follow its guidelines."""
+    ws = _workspace(project_name) if project_name else None
+    return truncate(skill_library.read_skill(skill, ws, file))
+
+PROFILE_SCRIPT = skill_library.LIBRARY / "scripts" / "profile_data.R"
+PROFILE_SUFFIXES = {".csv", ".tsv", ".txt", ".xlsx", ".xls"}
+
+def profile_project_data(project_name: str, data_path: str, sheet: str = ""):
+    """Runs the prepackaged R profiler on a CSV or Excel file; writes data_summary.json/.md next to it."""
+    root = _project_root(project_name)
+    target = resolve_in_roots(str(root / data_path), [root])
+    if not target.is_file() or target.suffix.lower() not in PROFILE_SUFFIXES:
+        return f"Error: '{data_path}' is not a .csv, .tsv, .txt, .xlsx or .xls file in project '{project_name}'."
+    rscript = find_rscript()
+    if not rscript:
+        return "Error: Rscript was not found. For a CSV file, summarize_project_data works without R."
+    cmd = [rscript, "--vanilla", str(PROFILE_SCRIPT), str(target)] + ([sheet] if sheet else [])
+    run_dir = new_run_dir(f"profile_{project_name}")
+    ok, out = run_command(cmd, cwd=root, log_dir=run_dir)
+    project_memory.record_run(project_name, root, "profile_project_data", ok, data_path, run_dir, [])
+    return _result_text(ok, out, run_dir, output_name=None)
+
+def check_r_package(name: str):
+    """Looks up an R package on CRAN (network; web-derived evidence)."""
+    return json.dumps(web_evidence.check_r_package(name))
+
+def search_methods_papers(query: str):
+    """Searches Crossref for methods papers (network; web-derived evidence, never mix with brain citations)."""
+    return json.dumps(web_evidence.search_methods_papers(query))
 
 def _flow_result(run_flow):
     try:
@@ -408,6 +515,62 @@ tools = [
     {
         "type": "function",
         "function": {
+            "name": "load_role",
+            "description": "Loads a role prompt to adopt for the next task: data-handler (clean data, write the data summary), analyst (choose and run analyses), synthesist (literature and report writing). Call it when the user writes @analyst, @data-handler or @synthesist or the task clearly belongs to one.",
+            "parameters": {"type": "object", "properties": {"role": {"type": "string", "enum": ["data-handler", "analyst", "synthesist"]}, "project_name": {"type": "string"}}, "required": ["role"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "list_skills",
+            "description": "Lists the analysis, data-handling and writing skills available for a project (name, status, one-line description). Call this at the start of any new analysis or writing task, then read the ones that match the data type and the scientist's goal.",
+            "parameters": {"type": "object", "properties": {"project_name": {"type": "string"}}}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "read_skill",
+            "description": "Reads one skill (SKILL.md by default; SUPPLEMENT.md, SOURCES.md or GAPS.md on request). Skills marked draft are starting points: say so to the user.",
+            "parameters": {"type": "object", "properties": {"skill": {"type": "string"}, "project_name": {"type": "string"}, "file": {"type": "string", "enum": ["SKILL.md", "SUPPLEMENT.md", "SOURCES.md", "GAPS.md"]}}, "required": ["skill"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "profile_project_data",
+            "description": "Runs the prepackaged R profiler on a project's data file (.csv, .tsv, .txt, .xlsx or .xls; every sheet of an Excel file, or one named sheet) and writes data_summary.json and data_summary.md next to it: columns, types, missingness, ranges, group counts and data-type hints (CPUE/effort, counts with many zeros, capture histories, dates). Prefer this over summarize_project_data; it handles Excel. Run it before recommending an analysis.",
+            "parameters": {"type": "object", "properties": {"project_name": {"type": "string"}, "data_path": {"type": "string", "description": "Path relative to the project folder"}, "sheet": {"type": "string", "description": "Optional sheet name for Excel files"}}, "required": ["project_name", "data_path"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "summarize_project_data",
+            "description": "Profiles one CSV in a project (types, missingness, ranges, zeros, capture-history and effort hints) and writes data_summary.json and data_summary.md next to it. Run before recommending an analysis.",
+            "parameters": {"type": "object", "properties": {"project_name": {"type": "string"}, "csv_path": {"type": "string", "description": "Path relative to the project folder"}}, "required": ["project_name", "csv_path"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "check_r_package",
+            "description": "Checks on CRAN (network, needs approval) that an R package exists, with version and title. Use before recommending a package that no skill documents.",
+            "parameters": {"type": "object", "properties": {"name": {"type": "string"}}, "required": ["name"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "search_methods_papers",
+            "description": "Searches Crossref (network, needs approval) for methods papers on an analysis. Results are web-derived: cite them as such, separately from vault sources.",
+            "parameters": {"type": "object", "properties": {"query": {"type": "string"}}, "required": ["query"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
             "name": "get_latest_results",
             "description": "One-step lookup: finds and reads the newest results file of a project (or kind='script' or 'data'), and lists other recent candidates. Use for 'latest/most recent results' questions instead of list_project_files plus read_project_file.",
             "parameters": {
@@ -468,6 +631,41 @@ tools = [
                 },
                 "required": ["project_name", "file_path", "content"]
             }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "check_pipeline",
+            "description": "Read-only: shows which steps of a project's pipeline.yaml are out of date (script or input data changed, output missing) and why. Call it when a project is opened or the user asks if results are current.",
+            "parameters": {"type": "object", "properties": {"project_name": {"type": "string"}}, "required": ["project_name"]}
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "define_pipeline",
+            "description": "Writes a project's pipeline.yaml after validating it. Each step: id, script (.R/.Rmd/.qmd, project-relative), inputs (files or globs that, when changed, rerun the step), outputs. Steps run in order. The user's own data download/refresh script (.R/.qmd/.py) is added as a step with kind 'refresh'; it runs only when the user asks.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "project_name": {"type": "string"},
+                    "steps": {"type": "array", "items": {"type": "object", "properties": {
+                        "id": {"type": "string"}, "script": {"type": "string"}, "kind": {"type": "string", "enum": ["run", "refresh"]},
+                        "inputs": {"type": "array", "items": {"type": "string"}}, "outputs": {"type": "array", "items": {"type": "string"}}},
+                        "required": ["id", "script"]}},
+                    "overwrite": {"type": "boolean"}
+                },
+                "required": ["project_name", "steps"]
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "run_pipeline",
+            "description": "Runs the out-of-date steps of a project's pipeline.yaml in order (R scripts, reports). Set include_refresh only when the user asked to refresh the data first with their own download script.",
+            "parameters": {"type": "object", "properties": {"project_name": {"type": "string"}, "include_refresh": {"type": "boolean"}}, "required": ["project_name"]}
         }
     },
     {
@@ -559,6 +757,16 @@ available_functions = {
     "read_project_file": read_project_file,
     "write_project_file": write_project_file,
     "run_project_pipeline": run_project_pipeline,
+    "check_pipeline": check_pipeline,
+    "define_pipeline": define_pipeline,
+    "run_pipeline": run_pipeline,
+    "load_role": load_role,
+    "list_skills": list_skills,
+    "read_skill": read_skill,
+    "profile_project_data": profile_project_data,
+    "summarize_project_data": summarize_project_data,
+    "check_r_package": check_r_package,
+    "search_methods_papers": search_methods_papers,
     "run_shell_command": run_shell_command,
     "run_zero_inflated_model": run_zero_inflated_model,
     "run_nimble_mark_recapture": run_nimble_mark_recapture,
@@ -568,7 +776,7 @@ available_functions = {
 # Read-only lookups run without a prompt; everything else needs the user's approval.
 NO_CONFIRMATION_NEEDED = {
     "search_fisheries_brain", "read_brain_source", "list_project_files", "read_project_file",
-    "get_project_context", "get_latest_results", "remember_project_fact", "validate_project", "refresh_project_references",
+    "get_project_context", "get_latest_results", "list_skills", "read_skill", "remember_project_fact", "validate_project", "refresh_project_references", "load_role", "check_pipeline",
 }
 
 def needs_confirmation(function_name: str, function_args: dict) -> bool:
@@ -578,13 +786,18 @@ def needs_confirmation(function_name: str, function_args: dict) -> bool:
 
 def confirm_run(function_name: str, function_args: dict) -> bool:
     print(f"\n🔔 The agent wants to run: {function_name}")
+    if function_name == "run_pipeline":
+        try:
+            print(pipeline.summary(_project_root(function_args.get("project_name", "")), function_args.get("project_name", "")))
+        except SafetyError:
+            pass
     for key, value in function_args.items():
         print(f"     {key}: {value}")
     answer = input("   Approve this run? (y/n): ").strip().lower()
     return answer in ("y", "yes")
 
 # Tools that can create or modify files inside a project folder.
-PROJECT_WRITING_TOOLS = {"run_project_pipeline", "write_project_file", "run_shell_command"}
+PROJECT_WRITING_TOOLS = {"run_project_pipeline", "run_pipeline", "define_pipeline", "write_project_file", "run_shell_command", "summarize_project_data", "profile_project_data"}
 
 def _git_root_for_call(function_name: str, function_args: dict):
     if function_name not in PROJECT_WRITING_TOOLS:
@@ -641,9 +854,9 @@ def execute_tool_call(function_name: str, raw_arguments: str) -> str:
 MAX_TOOL_ROUNDS = 6
 
 # Conversation memory: each turn is the list of messages from one user prompt to its final answer.
-HISTORY_CHAR_BUDGET = 40000      # ~10k tokens of remembered conversation
+HISTORY_CHAR_BUDGET = 125000     # ~31k tokens of remembered conversation
 RECENT_TURNS_KEPT_FULL = 2       # newer turns keep full tool output; older ones are compacted
-COMPACT_TOOL_CHARS = 600
+COMPACT_TOOL_CHARS = 1500
 
 history = []                     # list of turns (each a list of message dicts)
 last_prompt_tokens = None
@@ -727,6 +940,23 @@ def _system_messages(system_prompt: str, model: str) -> list:
         msgs.append({"role": "system", "content": "Earlier in this session (older turns dropped from memory):\n" + "\n".join(session_notes)})
     return msgs
 
+def load_agent_guide() -> str:
+    """AGENTS.md without its Onboarding section (that part only applies during setup)."""
+    guide = BASE_DIR / "AGENTS.md"
+    if not guide.exists():
+        return ""
+    kept, skip = [], False
+    for line in guide.read_text(encoding="utf-8").splitlines():
+        if line.startswith("## "):
+            skip = line.startswith("## Onboarding")
+        if not skip:
+            kept.append(line)
+    return "\n".join(kept).strip()
+
+
+AGENT_GUIDE = load_agent_guide()
+
+
 def ask_orchestrator(user_prompt: str, manifest: dict):
     manifest_context = compact_manifest(manifest)
     model = pick_model(user_prompt)
@@ -742,11 +972,17 @@ Scientific integrity (applies to every project and every task): never make up or
 How to choose tools:
 - Questions about a specific project's own results, data, outputs or scripts (e.g. "what were the results of the last model run for project X"): go straight to the project. Call get_project_context first (remembered key files, notes, recent runs). For "latest/most recent results" call get_latest_results. Use list_project_files and read_project_file for anything else, and remember_project_fact when the user says something should be remembered or a file is important. Do NOT call search_fisheries_brain for these.
 - Projects with an icm_workspace are ICM workspaces: get_project_context returns their AGENTS.md and CONTEXT.md; follow them, and pass stage to load one stage contract when working on that stage. Use validate_project, refresh_project_references (report first, apply only if the user wants), create_icm_project and restructure_project when the user asks to validate, refresh, create or restructure a project. The last two are interactive: the user answers in the terminal, so just call them without asking the questions yourself.
+- Pipelines: a project may have a pipeline.yaml (ordered R steps, rerun only when inputs change). get_project_context reports when steps are out of date: tell the user and offer run_pipeline (it asks for approval). To build one, read the project's scripts and data summary, propose the steps, then call define_pipeline. The user's own data download/refresh script (they point you to it) is added as a step of kind 'refresh' and runs only when they ask (run_pipeline with include_refresh). Never ask for or store FTP or other credentials; the user's script handles access. For a weekly schedule, run `python -m utils.pipeline schedule <project folder>` for them to install.
+- Roles: when the user writes @analyst, @data-handler or @synthesist (or the task clearly fits one), call load_role and follow that role for the task. check_r_package and search_methods_papers use the internet and ask the user first; report their results as web-derived.
+- New analysis ("analyze the data", "run the CPUE analysis"): you direct the work; R does it. (1) get_project_context for the goal, notes and data files. (2) list_skills, then read_skill for the ones that match the data type and goal; say when a skill is a draft. (3) Load the data-handler role and call profile_project_data on the data file (CSV or Excel; it runs R and writes data_summary next to the file) and read the summary. If it fails because a package is missing, tell the user which and ask before installing. (4) Load the analyst role and propose a plan: model, formulas, R packages, assumptions, diagnostics, and what the data summary shows. Check anything the data cannot answer (for example which column is the location, how effort is recorded) by asking. (5) After approval, write the R script with write_project_file, run it with run_project_pipeline, and report from the saved outputs. If the first script reveals more about the data, adjust the plan instead of guessing. Offer define_pipeline once the steps are settled.
 - General fisheries science, methods, or deciding how to approach a NEW analysis: use search_fisheries_brain as a reference.
 - Only use the brain alongside project files if the user asks to interpret results against the literature.
 - Literature answers: no preamble or commentary between tool calls; search once, read at most 3-4 of the most relevant sources, then write the answer. Every paragraph that uses vault material must carry inline citations, using the "Inline:" form each source line gives (for example (Smith 1993)), and the answer must finish with a References list made of the full citation lines the tools gave you (without the "Inline:" part), keeping the bracketed source id in each. Never invent an author or year. A line marked "(no author recorded)" starts with the title: check the passage you read for a named author or agency and use it if present, otherwise cite by a short form of the title, e.g. (Lake Mohave Population Survey 1996); "n.d." means no year is known. Say which statements come from the vault and which are your general knowledge.
 - If you cannot find the requested results, say what you looked at instead of guessing.
 - This is an ongoing conversation. Follow-up questions ("the parameter estimates", "that model") refer to the project, files and results already discussed; reuse them instead of asking the user to repeat. Older tool output may be trimmed, so re-read the file if you need exact numbers. Only ask for clarification if the earlier conversation really doesn't settle it.
+
+Agent guide (AGENTS.md):
+{AGENT_GUIDE}
 
 Here is the current scientist's machine layout and project structure configuration:
 {manifest_context}"""

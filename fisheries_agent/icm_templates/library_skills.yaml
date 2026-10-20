@@ -1,0 +1,58 @@
+# Analysis skills drafted for the prepackaged skill library (utils/skill_build.py). Same topic format as skills.yaml, plus:
+#   packages: R packages to verify on CRAN (the draft may name only these or packages found in the vault evidence)
+#   web_query: Crossref search for methods papers (optional)
+# No {species} placeholders: library skills are general; a project's own context supplies species.
+
+mark-recapture-closed:
+  description: Abundance from closed-population capture-recapture (Lincoln-Petersen, Chapman, Schnabel, Huggins), with assumptions, diagnostics and R workflow.
+  packages: [FSA, Rcapture, marked]
+  web_query: closed population capture-recapture abundance estimation fish
+  topics:
+    - {name: Assumptions and study design, query: "closed population mark-recapture assumptions closure equal capture tag retention", why: Estimates are valid only if closure and equal capture are met or modeled., source_hint: A methods paper or protocol on mark-recapture design}
+    - {name: Simple estimators, query: "Lincoln-Petersen Chapman Schnabel estimator abundance confidence interval", why: Chooses the estimator for one or several marking occasions., source_hint: A paper comparing simple closed estimators}
+    - {name: Bias and precision, query: "bias precision closed population estimators sample size recaptures", why: Sets the minimum recaptures and shows when estimates are unreliable., source_hint: A simulation or evaluation paper on closed estimators}
+    - {name: Heterogeneity and behavioral response, query: "capture heterogeneity trap response Huggins Otis closed population models", why: Unequal capture probability biases estimates low., source_hint: A paper on heterogeneity or trap response in capture-recapture}
+    - {name: Model selection and reporting, query: "closed population model selection AIC goodness of fit reporting abundance", why: Defines how models are chosen and reported., source_hint: A guideline on model selection for capture-recapture}
+
+mark-recapture-open:
+  description: Survival and abundance from open-population models (Cormack-Jolly-Seber, Jolly-Seber), with assumptions, goodness of fit and R workflow.
+  packages: [marked, RMark, nimble, FSA]
+  web_query: Cormack-Jolly-Seber survival capture-recapture fish
+  topics:
+    - {name: Assumptions and when to use open models, query: "open population Cormack-Jolly-Seber assumptions apparent survival emigration", why: Open models are needed when the population changes across occasions., source_hint: A primary reference for CJS or Jolly-Seber}
+    - {name: Survival and capture probability structure, query: "apparent survival capture probability time group covariates CJS model", why: Defines the parameters and how covariates enter., source_hint: A paper fitting CJS models with covariates}
+    - {name: Tag loss and detection, query: "PIT tag retention tag loss detection probability antenna", why: Tag loss and imperfect detection bias survival., source_hint: A tag retention or detection study}
+    - {name: Goodness of fit and model selection, query: "goodness of fit CJS model selection AIC overdispersion c-hat", why: Fit and selection checks determine what can be reported., source_hint: A paper on GOF for CJS models}
+    - {name: Bayesian and software implementation, query: "Bayesian Cormack-Jolly-Seber MCMC nimble MARK implementation", why: Determines the software workflow., source_hint: Package documentation or a methods paper}
+
+count-glm:
+  description: Count responses (catch, abundance) with Poisson, negative binomial, zero-inflated and hurdle models, mixed effects, diagnostics and R workflow.
+  packages: [glmmTMB, MASS, DHARMa, lme4, pscl, mgcv]
+  web_query: zero-inflated count models ecology glmmTMB
+  topics:
+    - {name: Count distributions and overdispersion, query: "Poisson negative binomial overdispersion count data model", why: The distribution drives standard errors and tests., source_hint: A paper on overdispersed count models}
+    - {name: Zero-inflation and hurdle models, query: "zero-inflated hurdle model excess zeros catch data", why: Zero-heavy catch data need models that separate presence from abundance., source_hint: A paper on zero-inflated or hurdle models for ecological counts}
+    - {name: Random effects and repeated sampling, query: "mixed effects generalized linear model random effect site repeated measures", why: Repeated sites or years are not independent., source_hint: A paper on mixed models for ecological data}
+    - {name: Offsets and effort, query: "offset effort count model catch per unit effort", why: Effort must enter the model, not be divided out blindly., source_hint: A paper on effort in count models}
+    - {name: Diagnostics and model comparison, query: "residual diagnostics AIC model comparison count models", why: Defines fit checks and selection., source_hint: A paper or guide on diagnostics for count GLMs}
+
+cpue-standardization:
+  description: Defining and standardizing catch per unit effort across gear, effort and season, with models, trend estimation and R workflow.
+  packages: [glmmTMB, mgcv, FSA, emmeans]
+  web_query: standardizing catch per unit effort generalized linear model abundance index
+  topics:
+    - {name: CPUE definition and effort measures, query: "catch per unit effort definition effort measure electrofishing", why: CPUE is only comparable if effort is measured consistently., source_hint: An agency protocol defining CPUE}
+    - {name: Gear and size selectivity, query: "gear selectivity catchability size bias", why: Gears and sizes are caught at different rates., source_hint: A gear comparison or selectivity study}
+    - {name: Standardization models, query: "standardizing CPUE generalized linear model GAM delta-lognormal abundance index", why: Removes gear, season and site effects from the index., source_hint: A methods paper on CPUE standardization}
+    - {name: Trend estimation and uncertainty, query: "relative abundance index trend analysis uncertainty monitoring", why: Determines how trends and uncertainty are reported., source_hint: A paper on trend analysis for monitoring data}
+
+age-growth:
+  description: Age determination, back-calculation and growth models (von Bertalanffy) with R workflow and checks.
+  packages: [FSA, FSAdata, nlstools, TMB, brms]
+  web_query: von Bertalanffy growth model fish age length
+  topics:
+    - {name: Age determination and validation, query: "otolith scale age determination validation precision readers", why: Growth estimates are only as good as the ages., source_hint: A paper on ageing and validation}
+    - {name: Age-length keys, query: "age-length key length frequency age composition", why: Converts length samples to age composition., source_hint: A paper on age-length keys}
+    - {name: Growth models, query: "von Bertalanffy growth model parameters fitting fish", why: Defines the model, parameters and fitting method., source_hint: A paper on growth model fitting}
+    - {name: Back-calculation, query: "back-calculation growth scales otoliths body proportional Fraser-Lee", why: Reconstructs past growth from hard parts., source_hint: A paper comparing back-calculation methods}
+    - {name: Bayesian and multi-reader approaches, query: "Bayesian growth model ageing error multiple readers", why: Handles ageing error and uncertainty., source_hint: A paper on Bayesian growth with ageing error}

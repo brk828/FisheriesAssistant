@@ -3,6 +3,7 @@
 Run from fisheries_agent:
     python -m utils.icm_update                 # show what differs from upstream main
     python -m utils.icm_update --ref <sha>     # compare against a specific commit/tag/branch
+    python -m utils.icm_update --check         # only say whether upstream has moved past the pinned commit
     python -m utils.icm_update --apply         # copy the upstream files in and re-pin the commit
 
 Only the files listed in icm_core/UPSTREAM.json are compared. Local fisheries templates live in icm_templates/
@@ -57,6 +58,19 @@ def _clone(ref: str, dest: Path) -> str:
     return subprocess.run(["git", "rev-parse", "HEAD"], cwd=dest, check=True, capture_output=True, text=True).stdout.strip()
 
 
+def upstream_status(ref: str = "HEAD") -> str:
+    """'current', 'behind' (upstream has a newer commit) or 'unknown' (offline or git missing). No clone, no writes."""
+    manifest = json.loads(UPSTREAM_PATH.read_text(encoding="utf-8"))
+    try:
+        out = subprocess.run(["git", "ls-remote", manifest["repo"], ref], check=True, capture_output=True, text=True, timeout=30).stdout
+    except (subprocess.SubprocessError, FileNotFoundError, OSError):
+        return "unknown"
+    sha = out.split()[0] if out.split() else ""
+    if not sha:
+        return "unknown"
+    return "current" if sha == manifest["commit"] else "behind"
+
+
 def apply(changes: list, upstream_root: Path, manifest: dict, sha: str) -> None:
     for status, local, up, a, b in changes:
         target = CORE_DIR / local
@@ -73,7 +87,14 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--ref", default="origin/HEAD", help="upstream commit, tag or branch (default: upstream default branch)")
     ap.add_argument("--apply", action="store_true", help="copy upstream files into icm_core/ and update the pinned commit")
+    ap.add_argument("--check", action="store_true", help="only report whether upstream has a newer commit")
     args = ap.parse_args(argv)
+    if args.check:
+        status = upstream_status()
+        print({"current": "The vendored ICM core is at upstream's latest commit.",
+               "behind": "Upstream has newer commits. Run without --check to review the diff.",
+               "unknown": "Could not reach upstream."}[status])
+        return 0
 
     manifest = json.loads(UPSTREAM_PATH.read_text(encoding="utf-8"))
     with tempfile.TemporaryDirectory() as tmp:

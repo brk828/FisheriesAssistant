@@ -1,0 +1,938 @@
+{
+ "sources_scanned": 3768,
+ "families": {
+  "mark-recapture-closed": {
+   "group": "abundance",
+   "data": "capture-recapture",
+   "source_count": 17,
+   "recent_count": 5,
+   "year_range": [
+    1970,
+    2026
+   ],
+   "top_sources": [
+    "AssessmentOfBiasAndPrecisionAm_2023",
+    "ComparisonOfEstimatesOfFishPop_16183",
+    "TwowayCapturerecaptureMethodsW_2026",
+    "GrowthOfTheFatheadMinnowPimeph_1970",
+    "FlatheadCatfishAbundanceAndGro_1985",
+    "EstimatingAnimalAbundance_X-e15b3990",
+    "PredationByIntroducedMuskellun_20576",
+    "AnEvaluationOfMarkAndRecapture_1993",
+    "MultistateRecaptureModelsModel_2002",
+    "ProductionOfRazorbackSuckerInA_1993_01_15",
+    "ThJointAnnualMeetingEcosystemM_1994_02_03",
+    "BlackBullheadRemovalFromAHeadw_2020",
+    "DetermineStatusOfColoradoSquaw_11150",
+    "EvaluationOfALongtermPredatorR_2016",
+    "EvaluationOfALongtermPredatorR_2016_X-6cf6a615"
+   ],
+   "co_mentioned": {
+    "power-sample-size": 6,
+    "genetics-popgen": 5,
+    "size-structure": 4,
+    "telemetry-movement": 4,
+    "mark-recapture-open": 4
+   }
+  },
+  "mark-recapture-open": {
+   "group": "survival",
+   "data": "capture-recapture",
+   "source_count": 21,
+   "recent_count": 4,
+   "year_range": [
+    1973,
+    2026
+   ],
+   "top_sources": [
+    "MultistateRecaptureModelsModel_2002",
+    "ThJointAnnualMeetingEcosystemM_1994_02_03",
+    "CentralArizonaProjectCompletio_1967_03_31",
+    "CommentsOnDraftConservationAgr_1994_08_25",
+    "CriticalHabitatDesignationForC_11237",
+    "DraftReviewRip_18167",
+    "EstimatingAnimalAbundance_X-e15b3990",
+    "EvaluationOfALongtermPredatorR_2016",
+    "ImprovingRiparianVegetationFor_10201",
+    "InformationLetterNoToMembersOf_1973_06_06",
+    "InvasionPotentialOfNonnativeFi_2026",
+    "LetterToDrDonaldGButhRegarding_1989_12_26",
+    "LetterToDuaneLShroufeOnGrandCa_1989_04_24",
+    "LetterToWLMinckleyOnFisheryRes_1994_05_27",
+    "MemorandumOnNativeFishGroupMee_1994"
+   ],
+   "co_mentioned": {
+    "ordination-multivariate": 8,
+    "genetics-popgen": 5,
+    "mark-recapture-closed": 4,
+    "telemetry-movement": 4,
+    "habitat-selection": 3
+   }
+  },
+  "depletion-removal": {
+   "group": "abundance",
+   "data": "electrofishing passes",
+   "source_count": 19,
+   "recent_count": 5,
+   "year_range": [
+    1940,
+    2020
+   ],
+   "top_sources": [
+    "EffectsOfInterimFlowsFromGlenC_13659",
+    "EstimatingAnimalAbundance_X-e15b3990",
+    "ElectrofishingAndItsHarmfulEff_2003",
+    "AReportToTheArizonaNatureConse_15171",
+    "BiologicalOpinionStockingOfDes_11850",
+    "BlackBullheadRemovalFromAHeadw_2020",
+    "EffectsOfInterimFlowsFromGlenC_13655",
+    "EffectsOfInterimFlowsFromGlenC_13660",
+    "AProposalToReestablishDesertSu_20730",
+    "DemographicsAndPoststockingSur_2012",
+    "EffectsOfInterimFlowsFromGlenC_1993_10_29",
+    "GroupsReachAgreementToRemoveDa_1999_08_23",
+    "MinutesOfMeetingOfFisheryBiolo_2000_05_24",
+    "NaturalProductivityOfFishAndCr_1940",
+    "NightCollectionOfFishWithElect_16182"
+   ],
+   "co_mentioned": {
+    "cpue-standardization": 7,
+    "genetics-popgen": 7,
+    "habitat-selection": 7,
+    "telemetry-movement": 6,
+    "survival-time-to-event": 3
+   }
+  },
+  "catch-curve-mortality": {
+   "group": "mortality",
+   "data": "age composition",
+   "source_count": 26,
+   "recent_count": 4,
+   "year_range": [
+    1945,
+    2016
+   ],
+   "top_sources": [
+    "CausesOfDeathAmongIndianaFishe_1945",
+    "PopulationDynamicsTrophicInter_2003",
+    "TitleEffectOfTemperatureOnMort_15091",
+    "CatastrophicFishMortalitiesOnK_1965_11_16",
+    "FreshwaterDrumAplodinotusGrunn_14145",
+    "AnExperimentInTheWintertimeCul_1970",
+    "ComparisonOfSomeAnestheticProp_1968_10_31",
+    "EffectsOfAmbientTemperaturesOn_17762",
+    "EvaluationOfALongtermPredatorR_2016",
+    "EvaluationOfPreIntroductionStr_16534",
+    "FibrousMaterialAndHardwareTheo_15559",
+    "FleksibestanAgelengthStructure_2002",
+    "GrowthOfBlueCatfishIctalurusFu_17924",
+    "InlandCommercialFisheriesWorks_15658",
+    "LetterRegardingRazorbackSucker_1982_02_19"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 7,
+    "age-growth": 5,
+    "telemetry-movement": 4,
+    "habitat-selection": 3,
+    "power-sample-size": 3
+   }
+  },
+  "age-growth": {
+   "group": "growth",
+   "data": "age/length",
+   "source_count": 148,
+   "recent_count": 14,
+   "year_range": [
+    1942,
+    2025
+   ],
+   "top_sources": [
+    "VateriteAsTheCrystallineStruct_12254",
+    "AgingOfColoradoSquawfishrazorb_1989_05_01",
+    "BayesianEstimationOfVonBertala_2025",
+    "ProposalToDetermineAgesAndPatt_1986_06_15",
+    "AgeEstimationFromOtolithsOfBon_1997_02_24",
+    "TheUseOfTheScalesOfTheBrownTro_12553",
+    "DraftMemorandumOnDispositionOf_18523",
+    "LetterOnDispositionOfFrozenBon_1993_10_01",
+    "VoucherSpecimensDonatedToDepar_1997_01_08",
+    "FyAnnualProjectReportEarlyBiol_18213",
+    "FlatheadCatfishAbundanceAndGro_1985",
+    "MemorandumOnSalvageOfBonytailT_1993_09_14",
+    "DiversityInFeedingByBrandtSCor_1970",
+    "EinNeuerSemiarmatusTypVonGaste_15512",
+    "LetterToWLMinckleyOnAgingOfRaz_1993_02_17"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 48,
+    "diet-analysis": 30,
+    "length-weight-condition": 30,
+    "telemetry-movement": 24,
+    "anova-tests": 22
+   }
+  },
+  "length-weight-condition": {
+   "group": "condition",
+   "data": "length/weight",
+   "source_count": 115,
+   "recent_count": 7,
+   "year_range": [
+    1951,
+    2024
+   ],
+   "top_sources": [
+    "ReproductionAndGrowthOfFishesI_1957_08_15",
+    "AgeGrowthAndConditionOfBlackCr_13075",
+    "LeeSFerryTroutPathologicalEval_12696",
+    "AgeAndGrowthOfLargemouthBassIn_1964",
+    "GlenCanyonEnvironmentalStudies_16902",
+    "AgeAndGrowthAndLengthWeightRel_1983",
+    "AgeAndGrowthObservationsOnTheL_18498",
+    "AgeAndGrowthOfSaugerInPoolOfTh_16034",
+    "AgeAndGrowthOfSaugerStizostedi_1964_05_15",
+    "AgeAndGrowthOfWhiteBassFromPoo_11259",
+    "AgeGrowthFecundityAndFoodHabit_1964",
+    "ProgressReportLowerColoradoRiv_14984",
+    "StandardizationOfBiologicalMet_16370",
+    "TheAgeAndGrowthOfBluegillLepom_18719",
+    "TheMuskellungInMichigan_12040"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 30,
+    "age-growth": 30,
+    "diet-analysis": 20,
+    "anova-tests": 19,
+    "size-structure": 16
+   }
+  },
+  "size-structure": {
+   "group": "population structure",
+   "data": "length frequency",
+   "source_count": 85,
+   "recent_count": 5,
+   "year_range": [
+    1942,
+    2024
+   ],
+   "top_sources": [
+    "VirginRiverRecoveryTeamSitesUt_1998",
+    "AgeAndGrowthOfTheWesternBlackn_1968",
+    "AgeAndGrowthRateOfTheFlannelmo_13215",
+    "IndirectEffectsOfFishOnForagin_1992",
+    "AddendumToGeneticsManagementCo_1993",
+    "AnExaminationOfTheFisheryImpac_15463",
+    "CoordinationMeetingInPhoenix_1993_02_12",
+    "MemorandumOnReviewOfDraftAnnua_1994_02_10",
+    "PreliminaryStudiesOfTheShadAlo_15433",
+    "ArizonaNevadaCooperativeFisher_1962",
+    "ContributionsToTheLifeHistoryO_15724",
+    "DistributionSpawningAndHabitat_1985",
+    "FollowupIdeasOnSamplingAgeHump_1992_12_08",
+    "GlenCanyonEnvironmentalStudies_16902",
+    "GrowthOfTheFatheadMinnowPimeph_1970"
+   ],
+   "co_mentioned": {
+    "age-growth": 21,
+    "genetics-popgen": 18,
+    "habitat-selection": 18,
+    "cpue-standardization": 17,
+    "length-weight-condition": 16
+   }
+  },
+  "stock-recruitment": {
+   "group": "assessment",
+   "data": "time series",
+   "source_count": 31,
+   "recent_count": 2,
+   "year_range": [
+    1945,
+    2020
+   ],
+   "top_sources": [
+    "AnEvaluationOfStripedBassAngli_1969",
+    "NumericalRelationsBetweenAbund_16863",
+    "NotesOnOdonataFromTheVicinityO_14838",
+    "TheoreticalYieldsAtVariousRate_1953",
+    "NomenclatureNotesOnPlecoptera_16865",
+    "AdditionalObservationsConcerni_16872",
+    "CompensatoryRecruitmentDynamic_2020",
+    "SomePrinciplesInvolvedInRegula_16870",
+    "AHistoryOfTheStudyOfFishesInIn_16964",
+    "APreliminaryListOfStonefliesPl_16849",
+    "CausesOfDeathAmongIndianaFishe_1945",
+    "LargemouthBassTaggingAtClearLa_12532",
+    "PredationByIntroducedMuskellun_20576",
+    "TrophicDynamicsOfLakeTroutProd_1970",
+    "ACollectionOfStonefl_16867"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 8,
+    "age-growth": 7,
+    "diet-analysis": 6,
+    "length-weight-condition": 6,
+    "creel-survey": 4
+   }
+  },
+  "cpue-standardization": {
+   "group": "abundance index",
+   "data": "catch and effort",
+   "source_count": 157,
+   "recent_count": 11,
+   "year_range": [
+    1942,
+    2024
+   ],
+   "top_sources": [
+    "CatchPerUnitEffortModellingFor_2024",
+    "InteragencyStandardizedMonitor_1993",
+    "MechanicalSuppressionOfInvasiv_2024",
+    "TheSportFisheryOfTenkillerFerr_16926",
+    "FisherySurveyOfTheGilaRiverWit_1995_09_19",
+    "SemiAnnualReportForAsunnhpCoop_1992_08_07",
+    "SurveyOfIctaluridPopulationsIn_15266",
+    "AFiveYearStudyToInvestigateThe_11212",
+    "AnglerHarvestInTheSummersOfToA_1957_12_12",
+    "NotesOnTheRecommendationToDecl_1962",
+    "SurvivalOfRazorbackSuckerInThe_2008",
+    "ThoughtsOnTheStatusAndRecovery_1990_05_08",
+    "VerdeRiverPerkinsvillesycamore_2023",
+    "AnEvaluationOfMarkAndRecapture_1993",
+    "BonytailRazorbackSuckerEffortL_1988_04_15"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 59,
+    "creel-survey": 43,
+    "telemetry-movement": 30,
+    "habitat-selection": 24,
+    "age-growth": 18
+   }
+  },
+  "count-glm": {
+   "group": "modeling",
+   "data": "counts",
+   "source_count": 16,
+   "recent_count": 9,
+   "year_range": [
+    1983,
+    2026
+   ],
+   "top_sources": [
+    "CatchPerUnitEffortModellingFor_2024",
+    "IncreasingDroughtFavorsNonnati_2019",
+    "BiologicalNotesOnSomeEastAfric_14561",
+    "MultistateRecaptureModelsModel_2002",
+    "ChasingNorthernPikeUnderIceLon_2021",
+    "EstimatingTheProbabilityThatHi_1998",
+    "InvasionPotentialOfNonnativeFi_2026",
+    "SalmonidGeneticsBreedingGuidel_1983",
+    "DeclineOfTheRazorbackSuckerInL_2003",
+    "DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea",
+    "EndangeredAndThreatenedWildlif_1980_05_27",
+    "LetterRegardingGilaTopminnowRe_1992_12_08",
+    "MaturationOfAnOffchannelHabita_2024",
+    "MovementEcologyOfImperilledFis_2020",
+    "MovementEcologyOfImperilledFis_2020_X-49b0cb00"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 9,
+    "telemetry-movement": 8,
+    "mixed-effects": 4,
+    "power-sample-size": 4,
+    "ordination-multivariate": 3
+   }
+  },
+  "generalized-additive": {
+   "group": "modeling",
+   "data": "nonlinear responses",
+   "source_count": 3,
+   "recent_count": 1,
+   "year_range": [
+    1967,
+    2024
+   ],
+   "top_sources": [
+    "CatchPerUnitEffortModellingFor_2024",
+    "GrayWhaleCensusesByAirplaneInM_1967",
+    "HeterozygosityLevelsOfAgeClass_12950"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 2,
+    "cpue-standardization": 1,
+    "count-glm": 1,
+    "mixed-effects": 1,
+    "ordination-multivariate": 1
+   }
+  },
+  "mixed-effects": {
+   "group": "modeling",
+   "data": "repeated or nested",
+   "source_count": 17,
+   "recent_count": 13,
+   "year_range": [
+    2000,
+    2026
+   ],
+   "top_sources": [
+    "CatchPerUnitEffortModellingFor_2024",
+    "PatternsAndPredictorsOfFishDis_2013",
+    "PotentialImpactsOfPitTaggingOn_2018",
+    "TheRoleOfNaturalHistoryCollect_11379",
+    "EnvironmentalErnaAdvancesTheRe_2021",
+    "BayesianEstimationOfVonBertala_2025",
+    "CompensatoryRecruitmentDynamic_2020",
+    "AssessmentOfBiasAndPrecisionAm_2023",
+    "BiologicalOpinionThatAuthoriza_11901",
+    "ChasingNorthernPikeUnderIceLon_2021",
+    "FleksibestanAgelengthStructure_2002",
+    "InvasionPotentialOfNonnativeFi_2026",
+    "ModelingDiffusiveSpreadInAHete_2000",
+    "MultiscaleThreatAssessmentOfRi_2022",
+    "MultistateRecaptureModelsModel_2002"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 7,
+    "anova-tests": 6,
+    "bayesian": 5,
+    "habitat-selection": 5,
+    "telemetry-movement": 5
+   }
+  },
+  "anova-tests": {
+   "group": "hypothesis tests",
+   "data": "groups",
+   "source_count": 194,
+   "recent_count": 14,
+   "year_range": [
+    1955,
+    2026
+   ],
+   "top_sources": [
+    "EvaluationAndRelativeResistanc_19097",
+    "EffectsOfElectrofishingFieldsO_15544",
+    "TheMacroinvertebratesAndFishOf_17377",
+    "EffectsOfElectrofishingFieldsO_15548",
+    "HabitatUseByRazorbackSuckersRe_1995",
+    "ThirdQuarterlyProgressReportSp_1987_09_28",
+    "AGrowthStudyAndBloodProteinAna_15288",
+    "AspectsOfTheLifeHistoryOfTheSl_13168",
+    "BookReviewsStatisticalMethodsF_20731",
+    "IntegrationOfNewMethodologiesI_2025",
+    "MovementOfHumpbackChubInTheCol_13639",
+    "TaxonomicStatusEcologyAndDistr_15409",
+    "AcquisitionOfHabitatPreference_11568",
+    "CageCulturingTheEndangeredBony_1999",
+    "DiurnalVariabilityInAFishAssem_1981"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 51,
+    "habitat-selection": 31,
+    "age-growth": 22,
+    "diet-analysis": 19,
+    "ordination-multivariate": 19
+   }
+  },
+  "regression": {
+   "group": "modeling",
+   "data": "continuous",
+   "source_count": 60,
+   "recent_count": 10,
+   "year_range": [
+    1961,
+    2023
+   ],
+   "top_sources": [
+    "VerticalDistributionOfFishesRe_18202",
+    "PatternsAndPredictorsOfFishDis_2013",
+    "AMethodOfEstimatingFecundityWi_15698",
+    "AgeAndGrowthOfSaugerStizostedi_1964_05_15",
+    "ChangesInWalleyeStizostedionVi_1977_03_18",
+    "AgeAndGrowthOfLargemouthBassIn_1964",
+    "BiologicalMagnificationAndDegr_1971",
+    "EnvironmentalErnaAdvancesTheRe_2021",
+    "FactorsInfluencingFishDistribu_15011",
+    "LifeHistoryAndEcologyOfTheSono_1997",
+    "LongtermPatternsOfFishCommunit_2023",
+    "MolecularVariationAndEvolution_18435",
+    "MultiscaleThreatAssessmentOfRi_2022",
+    "PhaseIiIvHabitatUseByAdultRazo_1999",
+    "RespirationOfFishesWithSpecial_1964"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 16,
+    "length-weight-condition": 16,
+    "anova-tests": 16,
+    "age-growth": 11,
+    "habitat-selection": 10
+   }
+  },
+  "ordination-multivariate": {
+   "group": "community",
+   "data": "abundance matrix",
+   "source_count": 457,
+   "recent_count": 6,
+   "year_range": [
+    1966,
+    2026
+   ],
+   "top_sources": [
+    "MultivariateMorphometricAnalys_1991",
+    "AppointmentOfNpsCoordinationGr_12199",
+    "DistributionOfMidwesternFishes_1978",
+    "LetterToRandyDRadantRegardingR_16491",
+    "DiagnosisAndDetectionOfCryptic_1984",
+    "GlenCanyonEnvironmentalStudies_19715",
+    "LetterCallingMeetingOnLowerCol_1988_12_06",
+    "MorphologyAndFeedingBehaviorOf_15922",
+    "BureauOfLandManagementManualHa_11459",
+    "ExoticFishesOfTheGenusTilapiaP_15612",
+    "TaxonomicStatusEcologyAndDistr_15409",
+    "CatchPerUnitEffortModellingFor_2024",
+    "ColoradoRiverFishesRecoveryPro_1988_11_02",
+    "EnvironmentalAndGeneticContrib_1981",
+    "GlenCanyonEnvironmentalStudies_1990_02_26"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 99,
+    "telemetry-movement": 47,
+    "habitat-selection": 39,
+    "spatial-gis": 20,
+    "anova-tests": 19
+   }
+  },
+  "diversity-indices": {
+   "group": "community",
+   "data": "species counts",
+   "source_count": 102,
+   "recent_count": 4,
+   "year_range": [
+    1953,
+    2026
+   ],
+   "top_sources": [
+    "WestAfricanRiversAsBiogeograph_1989",
+    "ChydoridCladoceraRemainsInSurf_12201",
+    "CommunityStructureInNaturalStr_16506",
+    "AProposedDemonstrationModelToI_17636",
+    "BiodiversityProblemsInLakeEcos_11149",
+    "EffectsOfThermalConstancyAndSe_1976",
+    "FishesInhabitingTheRioGrandeTe_1977_07_09",
+    "IrishSalmonDiseaseAnInterimRep_13819",
+    "ChangesInRiparianVegetationAnd_14524",
+    "CuatroCienegasFishesResearchRe_13699",
+    "DistributionOfTheFishesOfBoone_14736",
+    "ReProgressReportOnConstruction_13911",
+    "ResultsOfFishMonitoringOfSelec_13200",
+    "ThePatchinessOfDiatomDistribut_1978_05_09",
+    "ABriefStudyOfTheLevisaForkAndR_12557"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 20,
+    "ordination-multivariate": 9,
+    "habitat-selection": 7,
+    "regression": 7,
+    "cpue-standardization": 6
+   }
+  },
+  "occupancy-detection": {
+   "group": "occurrence",
+   "data": "presence-absence",
+   "source_count": 17,
+   "recent_count": 5,
+   "year_range": [
+    1986,
+    2026
+   ],
+   "top_sources": [
+    "EstimatingAnimalAbundance_X-e15b3990",
+    "SiteAndLandscapescaleEstimates_2026",
+    "ACollectionOfStonefl_16867",
+    "FishFaunalBreaksAndStreamOrder_1986",
+    "FreshwaterFishesOfTheEasternAr_18569",
+    "ResponseToReviewOfGilaSeminuda_1992_03_03",
+    "DistributionAndSpeciesViabilit_1998_08_25",
+    "EnvironmentalErnaAdvancesTheRe_2021",
+    "FactorAnalysisOfSpeciesAssocia_15740",
+    "ImperialPondsRenovationPlan_2014",
+    "InvasionPotentialOfNonnativeFi_2026",
+    "MemorandumOnSamplingAtWestPond_1988_04_18",
+    "MovementEcologyOfImperilledFis_2020_X-49b0cb00",
+    "PhysicalHabitatEvaluationOfSma_14995",
+    "RazorbackSuckerMovementStrateg_2020"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 5,
+    "telemetry-movement": 5,
+    "diversity-indices": 4,
+    "anova-tests": 4,
+    "mixed-effects": 3
+   }
+  },
+  "habitat-selection": {
+   "group": "habitat",
+   "data": "use vs availability",
+   "source_count": 291,
+   "recent_count": 15,
+   "year_range": [
+    1942,
+    2025
+   ],
+   "top_sources": [
+    "InstreamFlowsToAssistTheRecove_1993_04_30",
+    "CompensatoryRecruitmentDynamic_2020",
+    "AnInstreamFlowPhilosophyForRec_13064",
+    "BiologicalAssessmentForTheSpik_11476",
+    "ComparingInstreamFlowProgramsA_12685",
+    "TowardRangewideIntegrationOfRe_18628",
+    "SizeBiasedPredationByTheGilaTo_1980",
+    "TheRecreationalImpactOfReducin_16581",
+    "CatchPerUnitEffortModellingFor_2024",
+    "MeetingNotesOnInstreamFlowAlte_17325",
+    "SelectivityAndEffectivenessOfC_12188",
+    "CompletionReportYampawhitePhys_18677",
+    "MicrohabitatUseByAnAssemblageO_1985",
+    "PebbleNestsOfFourSemotilusSpec_1990",
+    "ReviewOfInstreamFlowMethodsAnd_1993"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 78,
+    "ordination-multivariate": 39,
+    "anova-tests": 31,
+    "cpue-standardization": 24,
+    "telemetry-movement": 23
+   }
+  },
+  "diet-analysis": {
+   "group": "trophic",
+   "data": "stomach contents",
+   "source_count": 182,
+   "recent_count": 4,
+   "year_range": [
+    1947,
+    2023
+   ],
+   "top_sources": [
+    "NonLethalStomachPumpingTechniq_1992_08_10",
+    "ANonlethalTechniqueToRecoverGu_1994",
+    "ANonlethalStomachPumpToRecover_13644",
+    "FeedingHabitsOfTheSanPedroMart_15896",
+    "BullfrogPredation_1985_11_27",
+    "ObservationsOnTheFoodHabitsOfT_12993",
+    "TheFoodAndFeedingChronologyOfY_1979",
+    "ANonLethalStomachPumpingTechni_14917",
+    "DifferencesInTheOccurrenceOfNy_1947",
+    "FoodHabitsOfTheYellowstoneWhit_1950",
+    "FoodOfYoungPikeEsoxLuciusLAndA_1951",
+    "HabitatStudyOfRoundtailChubGil_18268",
+    "SeasonalChangesInTheFoodIngest_16098",
+    "StomachContentsAndOrganWeights_12449",
+    "TheComparativeFoodHabitsOfTheC_1950_07_15"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 60,
+    "age-growth": 30,
+    "habitat-selection": 21,
+    "length-weight-condition": 20,
+    "anova-tests": 19
+   }
+  },
+  "telemetry-movement": {
+   "group": "movement",
+   "data": "tracks/detections",
+   "source_count": 245,
+   "recent_count": 24,
+   "year_range": [
+    1951,
+    2026
+   ],
+   "top_sources": [
+    "AStudyToDetermineTheBiological_11576",
+    "LakeMohaveNativeFishMonitoring_1996",
+    "DistributionAndPoststockingSur_2016",
+    "AcquisitionOfHabitatPreference_11568",
+    "CharacterizationOfTheLifeHisto_13649",
+    "RazorbackSuckerMovementStrateg_2020",
+    "EffectOfPassiveIntegratedTrans_2025",
+    "HomeRangeAndHabitatOfTheDesert_15613",
+    "SurvivalOfRazorbackSuckerInThe_2008",
+    "CharacterizationOfTheLifeHisto_1991_10_09",
+    "PalmLakeNativeFishData_1994_02_08",
+    "ReviewOfHumpbackChubPropagatio_1993_03_10",
+    "DavisCoveRazorbackbonytailSamp_1993",
+    "DetermineStatusOfColoradoSquaw_11150",
+    "LakeMohaveSamplingMarch_1998_03_26"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 62,
+    "ordination-multivariate": 47,
+    "cpue-standardization": 30,
+    "age-growth": 24,
+    "habitat-selection": 23
+   }
+  },
+  "bayesian": {
+   "group": "modeling",
+   "data": "any",
+   "source_count": 8,
+   "recent_count": 6,
+   "year_range": [
+    2002,
+    2025
+   ],
+   "top_sources": [
+    "BayesianEstimationOfVonBertala_2025",
+    "ACaseOfMistakenIdentityGenetic_2021",
+    "CompensatoryRecruitmentDynamic_2020",
+    "AssessmentOfBiasAndPrecisionAm_2023",
+    "CatchPerUnitEffortModellingFor_2024",
+    "EstimatingAnimalAbundance_X-e15b3990",
+    "MultistateRecaptureModelsModel_2002",
+    "SpotCheckSurveyRegionViGapCree_1992_06_08"
+   ],
+   "co_mentioned": {
+    "mixed-effects": 5,
+    "habitat-selection": 4,
+    "genetics-popgen": 3,
+    "mark-recapture-closed": 3,
+    "power-sample-size": 3
+   }
+  },
+  "population-viability": {
+   "group": "assessment",
+   "data": "demographic",
+   "source_count": 129,
+   "recent_count": 4,
+   "year_range": [
+    1979,
+    2026
+   ],
+   "top_sources": [
+    "InvitationLetterAndAgendaForPo_1991_01_16",
+    "DraftMeetingSummaryPopulationV_1991_03_07",
+    "SummaryOfPopulationViabilityAn_1991_03_26",
+    "RefinementOfRecoveryGoalsForTh_1990_12_03",
+    "SynthesisOfResultsOfRecoveryGo_1993",
+    "LetterRegardingReviewOfPopulat_1990_12_17",
+    "ProposalToConductPopulationVia_1991_08_01",
+    "DeclineOfTheRazorbackSuckerInL_2003",
+    "DistributionAndSpeciesViabilit_1998_08_25",
+    "EffectivePopulationNumberForWi_20765",
+    "ExorcisingAmbiguityFromTheEnda_1991",
+    "ExtensionOfReviewPeriodForTheL_11397",
+    "ConservingFishGenomesPhilosoph_1988_08_02",
+    "CuiuiChasmistesCujusRevision_13303",
+    "DraftLongRangePlan_11590"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 35,
+    "ordination-multivariate": 15,
+    "habitat-selection": 11,
+    "cpue-standardization": 6,
+    "telemetry-movement": 5
+   }
+  },
+  "genetics-popgen": {
+   "group": "genetics",
+   "data": "markers",
+   "source_count": 842,
+   "recent_count": 23,
+   "year_range": [
+    1902,
+    2026
+   ],
+   "top_sources": [
+    "MitochondrialDnaVariationWithi_1993_09_14",
+    "AnnualReportOnUSBureauOfReclam_19117",
+    "EvolutionarySignificanceOfIntr_19106",
+    "AnnualReportOnRazorbackSuckerM_1992_11_24",
+    "EstablishingACaptiveBroodstock_18727",
+    "MitochondrialDnaVariabilityInT_19125",
+    "MolecularVariationAndEvolution_18435",
+    "DrafInfluenceOfHybridizationOn_11330",
+    "GeneticVariationInDesertPupfis_15731",
+    "LetterToDrThomasDowlingOnRazor_1992_04_15",
+    "HeterozygosityLevelsOfAgeClass_12950",
+    "IsolationAndCharacterizationOf_1998",
+    "LetterRegardingGilaTopminnowRe_1992_12_08",
+    "MhcVariationInTheEndangeredGil_20763",
+    "FinalMinutesOfTheFebruaryMeeti_1993_07_20"
+   ],
+   "co_mentioned": {
+    "ordination-multivariate": 99,
+    "habitat-selection": 78,
+    "telemetry-movement": 62,
+    "diet-analysis": 60,
+    "cpue-standardization": 59
+   }
+  },
+  "toxicity-doseresponse": {
+   "group": "toxicology",
+   "data": "dose-response",
+   "source_count": 93,
+   "recent_count": 2,
+   "year_range": [
+    1953,
+    2007
+   ],
+   "top_sources": [
+    "SportFisheryInvestigations_14330",
+    "EvaluationOfPPDdtAsAReferenceT_14436",
+    "TheAcuteToxicityToRainbowTrout_1969",
+    "TheCalculationOfTheAcuteToxici_1968_06_24",
+    "TheEffectOfTemperatureOnTheAcu_1967",
+    "EvaluationAndRelativeResistanc_19097",
+    "TheToxicityOfNineTherapeuticAn_12150",
+    "AChemicalAndBiologicalAssessme_1996",
+    "TheSuitabilitiesAndRelativeRes_19185",
+    "ToxicityOfDimethylSulfoxideDms_13283",
+    "EffectsOfTotalDissolvedSolidsO_2007",
+    "DisappearanceOfEndrinFromFishA_12936",
+    "EffectsOfOilRefineryAndDomesti_11169",
+    "TheAcuteLethalToxicityToRainbo_1970_02_17",
+    "TheAcuteToxicityOfPhenolToRain_1967_08_09"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 18,
+    "anova-tests": 15,
+    "habitat-selection": 8,
+    "survival-time-to-event": 5,
+    "power-sample-size": 4
+   }
+  },
+  "survival-time-to-event": {
+   "group": "survival",
+   "data": "time-to-event",
+   "source_count": 67,
+   "recent_count": 4,
+   "year_range": [
+    1957,
+    2025
+   ],
+   "top_sources": [
+    "OverviewOfEnvironmentalRegulat_18083",
+    "AnIndustryViewOfTheRegulationO_12522",
+    "ChemicalVegetationControlManua_12838",
+    "EvaluationOfSpringChinookMigra_1969",
+    "AgencyRecalcitranceAndEvasionR_20349",
+    "ArizonaComparativeRiskProjectE_15833",
+    "ConsiderationsForAcceptableCon_15438",
+    "DevelopmentOfElectricFishShock_1957_05_13",
+    "ElectrofishingConstructionPrac_1978_03_09",
+    "NoticeOfIntentToFileCitizenSui_1995_05_24",
+    "StrontiumInSurfaceWaterInTheUn_14608",
+    "TheControlOfPopulationDensityT_1959",
+    "TheUseOfAnestheticsForTheHandl_12317",
+    "ASimpleTransportableLakeShocke_1966",
+    "AccumulationAndRetentionOfRadi_1957"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 17,
+    "habitat-selection": 8,
+    "telemetry-movement": 7,
+    "toxicity-doseresponse": 5,
+    "anova-tests": 5
+   }
+  },
+  "spatial-gis": {
+   "group": "spatial",
+   "data": "spatial",
+   "source_count": 51,
+   "recent_count": 4,
+   "year_range": [
+    1989,
+    2024
+   ],
+   "top_sources": [
+    "TheTransborderWatershedResearc_12883",
+    "GeographicIndicesForChangeInAq_1995_12_20",
+    "DistributionAndSpeciesViabilit_1998_08_25",
+    "NewEquipmentAndSoftwareWillEnh_13224",
+    "WestAfricanRiversAsBiogeograph_1989",
+    "AProposalToMonitorTheEffectsOf_11482",
+    "DatabaseIntegrationWithNavajoN_13634",
+    "GilaRiverBasinNativeFishStudy_14553",
+    "LetterRequestingUtahFishAndMol_1997_10_27",
+    "LowerColoradoRiverMultiSpecies_12191",
+    "StatewideRiparianInventoryAndM_12471",
+    "AGeographicalInformationSystem_1990",
+    "BridgingTheGapToLongtermMonito_18440",
+    "CatchPerUnitEffortModellingFor_2024",
+    "ChallengeCostShareAgreementBet_1993_09_15"
+   ],
+   "co_mentioned": {
+    "ordination-multivariate": 20,
+    "genetics-popgen": 12,
+    "telemetry-movement": 8,
+    "age-growth": 6,
+    "diet-analysis": 6
+   }
+  },
+  "creel-survey": {
+   "group": "harvest",
+   "data": "angler surveys",
+   "source_count": 117,
+   "recent_count": 4,
+   "year_range": [
+    1942,
+    2023
+   ],
+   "top_sources": [
+    "GlenCanyonUnitcoloradoRiverSto_14583",
+    "TheResultsOfANonUniformProbabi_1966_10_24",
+    "ACreelCensusOfStreamsInDistric_1960_09_04",
+    "TwoYearCreelCensusOfTheLittleS_1955",
+    "AnIntensiveCreelCensusOfTwoSim_16458",
+    "CatalogingOfSmallImpoundmentOf_12167",
+    "EstablishmentOfNewOrReclaimedP_12166",
+    "LakePowellFisheriesInvestigati_14595",
+    "ReservoirFisheriesInvestigatio_14589",
+    "StatewideFisheriesResearch_13299",
+    "AContributionTowardABibliograp_12687",
+    "ACreelCensusOfStreamsInDistric_1962_10_31",
+    "AnglerHarvestInTheSummersOfToA_1957_12_12",
+    "CreelCensusLakesFisheryInvesti_1966_12_31",
+    "FishPopulationAndCatchDataFrom_1948"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 49,
+    "cpue-standardization": 43,
+    "habitat-selection": 16,
+    "length-weight-condition": 13,
+    "diet-analysis": 10
+   }
+  },
+  "power-sample-size": {
+   "group": "design",
+   "data": "any",
+   "source_count": 42,
+   "recent_count": 9,
+   "year_range": [
+    1977,
+    2026
+   ],
+   "top_sources": [
+    "TwowayCapturerecaptureMethodsW_2026",
+    "StatewideFishingHarvestSurvey_17659",
+    "MeetingToDiscussFishMonitoring_1995_05_17",
+    "AssessmentOfBiasAndPrecisionAm_2023",
+    "HydroacousticSurveysOfFishAbun_13336",
+    "BlackBullheadRemovalFromAHeadw_2020",
+    "DistributionOfSexRatiosOfBlueg_12688",
+    "EvaluationOfPPDdtAsAReferenceT_14436",
+    "LetterOnDenialOfDevilsHolePupf_1995_05_12",
+    "BilateralAsymmetryInMuseumAndW_18912",
+    "BonytailReintroductionPlanForT_20248",
+    "BookReviewsStatisticalMethodsF_20731",
+    "CatchPerUnitEffortModellingFor_2024",
+    "DetermineStatusOfColoradoSquaw_11150",
+    "DraftMeetingNotesGlenCanyonEnv_19677"
+   ],
+   "co_mentioned": {
+    "genetics-popgen": 13,
+    "anova-tests": 10,
+    "habitat-selection": 9,
+    "telemetry-movement": 8,
+    "mark-recapture-closed": 6
+   }
+  }
+ }
+}

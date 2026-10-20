@@ -1,0 +1,81 @@
+# Bibliographic facts for documents the developer places in the gitignored skill_source/ folder (utils/skill_source.py).
+# Citations were read from the documents themselves; nothing here is invented. Only these ids may be cited as [[src:<id>]].
+# `file` is the stem of the locally extracted text in skill_source/_extracted/. `local_only: true` means the text is never sent to an LLM.
+
+franssen-2021:
+  file: Franssen_et_al_2020_Flow_Conditioning_of_Hatchery_Reared_Raz
+  cite: "Franssen NR et al. 2021. Flow conditioning of hatchery-reared razorback sucker increases apparent survival in the wild. North American Journal of Fisheries Management 41:545-555. doi:10.1002/nafm.10564"
+avery-2011:
+  file: Avery_et_al_2011_FC_RBS
+  cite: "Avery et al. 2011. Western North American Naturalist 71 (razorback sucker, flow conditioning; title not captured from the file)"
+buxton-2025:
+  file: Buxton_et_al_2025_PIT_tags_in_Santa_Ana_sucker
+  cite: "Buxton et al. 2025. Effect of passive integrated transponder tag size on survival, tag loss, and growth of Santa Ana Sucker. North American Journal of Fisheries Management (Management Brief). doi:10.1093/najfmt/vqaf109"
+webber-2014:
+  file: Webber_Beers_2014_RBS_remote_sensing
+  cite: "Webber PA, Beers D. 2014. Detecting razorback suckers using passive integrated transponder tag antennas in the Green River, Utah. Journal of Fish and Wildlife Management 5(1):191-196"
+archdeacon-2024:
+  file: Archdeacon_et_al_2024_Body_Condition_in_an_endagnered_minnow
+  cite: "Archdeacon et al. 2024. Body condition in an endangered minnow is variable but not strongly related to environmental conditions. Marine and Freshwater Research. doi:10.1071/MF24031"
+murie-2009:
+  file: Murie_et_al_2009_Yellow_Bullhead_growth
+  cite: "Murie DJ, Parkyn DC, Loftus WF, Nico LG. 2009. Variable growth and longevity of yellow bullhead (Ameiurus natalis) in the Everglades of south Florida, USA. Journal of Applied Ichthyology 25:740-745"
+walsworth-2020:
+  file: Walsworth_2020_Carp_dynamics_Utah_Lake
+  cite: "Walsworth TE, Landom K, Gaeta JW. 2020. Compensatory recruitment, dynamic habitat, and selective gear present challenges to large-scale invasive species control. Ecosphere 11(6):e03158"
+friesen-2026:
+  file: Friesen_et_al_2026_invasion_potential
+  cite: "Friesen et al. 2026. Invasion potential of nonnative fishes through a large western dam into an iconic and vulnerable ecosystem. Hydrobiologia. doi:10.1007/s10750-026-06137-8"
+leonard-2025:
+  file: 2025Leonard
+  cite: "Leonard JM, Sankey TT, Tango LL, Tyler RW. 2025. Integration of new methodologies in monitoring native fish habitat and populations in the southwestern U.S. Journal of Environmental Management 394:127508"
+renner-2022:
+  file: NativeAndNonnativeSpeciesLakeMohave_2022_Renner_Day
+  cite: "Renner J, Day JL. 2022. Checklist of aquatic non-native and invasive species in lakes Mead and Mohave. BioInvasions Records 11(1):136-148"
+turner-2026:
+  file: Turner_et_al_2026_Gila_Complex
+  cite: "Turner TF, Dowling TE, Marsh PC, Clarkson RW, Propst DL, et al. 2026. Holistic species delimitation supports recognition of multiple lineages in the Gila robusta complex of the American Southwest. Ichthyology & Herpetology 114(2):190-203. doi:10.1643/i2025026"
+nowlin-2006:
+  file: Nowlin_et_al_2006_gape_limitation_large_mouth_bass
+  cite: "Nowlin WH, Drenner RW, Guckenberger KR, Lauden MA, Alonso GT, Fennell JE, Smith JL. 2006. Gape limitation, prey size refuges and the top-down impacts of piscivorous largemouth bass in shallow pond ecosystems. Hydrobiologia 563:357-369 (OCR text)"
+aarts-2008:
+  file: tracking_2008
+  cite: "Aarts G, MacKenzie M, McConnell B, Fedak M, Matthiopoulos J. 2008. Estimating space-use and habitat preference from wildlife telemetry data. Ecography. doi:10.1111/j.2007.0906-7590.05236.x"
+fieberg-2009:
+  file: with_R_code_2009
+  cite: "Fieberg J, Rieger RH, Zicus MC, Schildcrout JS. 2009. Regression modelling of correlated data in ecology: subject-specific and population averaged response patterns. Journal of Applied Ecology 46:1018-1025"
+rogers-white-2007:
+  file: Rogers_and_White_2007_AnalysisOfMovementAndHabitat_
+  cite: "Rogers KB, White GC. 2007. Analysis of movement and habitat use from telemetry data. Chapter 14 in an American Fisheries Society analysis and interpretation volume (book title not captured from the file)"
+fish-trapping-report:
+  file: ""
+  path: "GLM Book/GLMProject/fish_trapping_report_v8.qmd"
+  cite: "Count-Data Models for Fish Trapping, fish_trapping_report_v8.qmd (the developer's own worked report; DHARMa, glmmTMB, pscl workflow)"
+zuur-ieno-2021:
+  file: ""
+  local_only: true
+  cite: "Zuur AF, Ieno EN. 2021. The World of Zero-Inflated Models, Volume 1: Using GLM. Highland Statistics. Pointer only: this licensed copy forbids sharing, so its text is never sent to an LLM and nothing is quoted from it."
+schwarz-arnason-1996:
+  file: Schwarz_and_Arnason_1996_Recapture_open_population
+  cite: "Schwarz CJ, Arnason AN. 1996. A general methodology for the analysis of capture-recapture experiments in open populations. Biometrics 52(3):860-873"
+brownie-1993:
+  file: Brownie_et_al_1993_Capture_recapture_multiple_strata
+  cite: "Brownie C, Hines JE, Nichols JD, Pollock KH, Hestbeck JB. 1993. Capture-recapture studies for multiple strata including non-Markovian transitions. Biometrics 49(4):1173-1187"
+barbour-2013:
+  file: Barbour_2013_Apparent_survival_estimation_from_continuous_ma
+  cite: "Barbour AB, Ponciano JM, Lorenzen K. 2013. Apparent survival estimation from continuous mark-recapture/resighting data. Methods in Ecology and Evolution. doi:10.1111/2041-210X.12059"
+hewitt-2010:
+  file: Hewitt_et_al_2010_Improving_Inferences_Capture_Recapture_PIT
+  cite: "Hewitt DA, Janney EC, Hayes BS, Shively RS. 2010. Improving inferences from fisheries capture-recapture studies through remote detection of PIT tags. Fisheries 35(5)"
+calvert-2009:
+  file: Bayesian_heirchal_multi_site_mark_recapture
+  cite: "Calvert AM, Bonner SJ, Jonsen ID, Mills Flemming J, Walde SJ, Taylor PD. 2009. A hierarchical Bayesian approach to multi-state mark-recapture: simulations and applications. Journal of Applied Ecology 46:610-620. doi:10.1111/j.1365-2664.2009.01636.x"
+royle-2009:
+  file: Royle_et_al_2009_Bayesian_inference_in_camera_trapping_studi
+  cite: "Royle JA, Karanth KU, Gopalaswamy AM, Kumar NS. 2009. Bayesian inference in camera trapping studies for a class of spatial capture-recapture models. Ecology 90(11):3233-3244"
+besbeas-2014:
+  file: Besbeas_et_al_2014_Methods_in_Ecology_and_Evolution
+  cite: "Besbeas P, Morgan BJT. 2014. Goodness-of-fit of integrated population models using calibrated simulation. Methods in Ecology and Evolution (EURING 2013 special issue)"
+devalpine-2017:
+  file: de_Valpine_Bodik_jcgs_2016
+  cite: "de Valpine P, Turek D, Paciorek CJ, Anderson-Bergman C, Temple Lang D, Bodik R. 2017. Programming with models: writing statistical algorithms for general model structures with NIMBLE. Journal of Computational and Graphical Statistics 26:403-413. doi:10.1080/10618600.2016.1172487"

@@ -1,0 +1,32 @@
+# Local lexicon for the brain review (utils/brain_methods.py). Each analysis family lists regex patterns (case-insensitive)
+# that count as a mention of that method in a source note. No LLM is involved; add families or patterns freely.
+# family: {group: <task group>, patterns: [...], data: <typical data type>}
+
+mark-recapture-closed:     {group: abundance, data: capture-recapture, patterns: ['Lincoln[- ]Petersen', 'Schnabel', 'Chapman estimator', 'Huggins', 'closed[- ]population']}
+mark-recapture-open:       {group: survival, data: capture-recapture, patterns: ['Cormack[- ]Jolly[- ]Seber', '\bCJS\b', 'Jolly[- ]Seber', 'open[- ]population', 'program MARK', 'RMark']}
+depletion-removal:         {group: abundance, data: electrofishing passes, patterns: ['removal (method|estimat)', 'depletion (method|estimat)', 'Zippin', 'Leslie (method|model|estimat)', 'DeLury', 'multiple[- ]pass']}
+catch-curve-mortality:     {group: mortality, data: age composition, patterns: ['catch[- ]curve', 'Chapman[- ]Robson', 'total (annual )?mortality']}
+age-growth:                {group: growth, data: age/length, patterns: ['von Bertalanffy', 'back[- ]?calculat', 'age[- ]length key', 'growth (curve|model)', 'otolith', 'scale (age|annul)']}
+length-weight-condition:   {group: condition, data: length/weight, patterns: ['length[- ]weight', 'condition factor', 'relative weight', '\bWr\b', 'Fulton']}
+size-structure:            {group: population structure, data: length frequency, patterns: ['proportional (stock )?density', '\bPSD\b', 'length[- ]frequency', 'size structure', 'stock density index']}
+stock-recruitment:         {group: assessment, data: time series, patterns: ['stock[- ]recruit', 'Beverton[- ]Holt', 'Ricker', 'surplus production', 'virtual population', 'yield[- ]per[- ]recruit', 'maximum sustainable yield', '\bMSY\b']}
+cpue-standardization:      {group: abundance index, data: catch and effort, patterns: ['\bCPUE\b', 'catch per unit effort', 'catch[- ]per[- ]unit[- ]effort', 'catch rate']}
+count-glm:                 {group: modeling, data: counts, patterns: ['Poisson', 'negative binomial', 'zero[- ]inflated', 'hurdle', 'generalized linear (mixed )?model', '\bGLMM?\b', 'overdispersion']}
+generalized-additive:      {group: modeling, data: nonlinear responses, patterns: ['generalized additive', '\bGAMM?\b']}
+mixed-effects:             {group: modeling, data: repeated or nested, patterns: ['mixed[- ]effects?', 'random effect', 'repeated measures']}
+anova-tests:               {group: hypothesis tests, data: groups, patterns: ['analysis of variance', '\bANOVA\b', 'ANCOVA', 'Kruskal[- ]Wallis', 'Mann[- ]Whitney', 't[- ]test', 'chi[- ]square', 'Tukey', 'Wilcoxon']}
+regression:                {group: modeling, data: continuous, patterns: ['linear regression', 'multiple regression', 'logistic regression', 'correlation coefficient', 'Pearson (correlation|product)', 'Spearman']}
+ordination-multivariate:   {group: community, data: abundance matrix, patterns: ['ordination', 'NMDS', 'non-?metric multidimensional', 'principal component', '\bPCA\b', 'correspondence analysis', 'canonical', 'PERMANOVA', 'cluster analysis', 'discriminant']}
+diversity-indices:         {group: community, data: species counts, patterns: ['Shannon', 'Simpson', 'species richness', 'diversity index', 'Jaccard', 'Bray[- ]Curtis', 'index of biotic integrity', '\bIBI\b']}
+occupancy-detection:       {group: occurrence, data: presence-absence, patterns: ['occupancy model', 'detection probability', 'presence[- ]absence', 'MacKenzie']}
+habitat-selection:         {group: habitat, data: use vs availability, patterns: ['habitat suitability', 'resource selection', 'electivity', 'Ivlev', 'preference index', 'instream flow', '\bPHABSIM\b', '\bIFIM\b', 'weighted usable area']}
+diet-analysis:             {group: trophic, data: stomach contents, patterns: ['stomach content', 'diet (composition|analysis)', 'index of relative importance', 'percent (frequency|volume|number)', 'gut content']}
+telemetry-movement:        {group: movement, data: tracks/detections, patterns: ['radio[- ]telemetry', 'telemetry', 'PIT[- ]tag', 'home range', 'acoustic tag', 'antenna array']}
+bayesian:                  {group: modeling, data: any, patterns: ['Bayesian', 'MCMC', 'Markov chain', 'posterior (distribution|probabilit|mean|median)', 'credible interval', 'WinBUGS', 'JAGS', 'NIMBLE', '(?-i:\bStan\b)']}
+population-viability:      {group: assessment, data: demographic, patterns: ['population viability', '\bPVA\b', 'Leslie matrix', 'matrix model', 'minimum viable population', 'extinction risk']}
+genetics-popgen:           {group: genetics, data: markers, patterns: ['microsatellite', 'mitochondrial DNA', 'mtDNA', 'allozyme', 'heterozygosity', 'effective population size', 'F[- ]?ST', 'haplotype', 'AMOVA']}
+toxicity-doseresponse:     {group: toxicology, data: dose-response, patterns: ['\bLC50\b', '\bLD50\b', 'probit', 'dose[- ]response', 'acute toxicity', 'bioassay']}
+survival-time-to-event:    {group: survival, data: time-to-event, patterns: ['Kaplan[- ]Meier', 'survival analysis', 'hazard', 'Cox proportional']}
+spatial-gis:               {group: spatial, data: spatial, patterns: ['\bGIS\b', 'spatial autocorrelation', 'kriging', 'geostatistic', 'species distribution model', 'MaxEnt']}
+creel-survey:              {group: harvest, data: angler surveys, patterns: ['creel (census|survey)', 'angler survey', 'harvest rate', 'angler effort']}
+power-sample-size:         {group: design, data: any, patterns: ['power analysis', 'statistical power', 'sample size (determination|estimation)', 'confidence interval']}

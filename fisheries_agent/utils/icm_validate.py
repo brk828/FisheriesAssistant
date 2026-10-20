@@ -75,8 +75,10 @@ def validate(root) -> list:
 
     for skill in sorted((root / "skills").glob("*/SKILL.md")) if (root / "skills").is_dir() else []:
         refs = {p.stem for p in (skill.parent / "references").glob("*.md")}
+        sources = skill.parent / "SOURCES.md"
+        web = set(re.findall(r"\[\[((?:web|src):[^\]]+)\]\]", sources.read_text(encoding="utf-8"))) if sources.is_file() else set()
         for cited in re.findall(r"\[\[([^\]]+)\]\]", skill.read_text(encoding="utf-8")):
-            if cited not in refs:
+            if cited not in refs and cited not in web:
                 issues.append(f"{skill.parent.name}: cites [[{cited}]] but it is not in the skill's references/.")
     return issues
 

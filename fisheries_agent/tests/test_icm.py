@@ -1,3 +1,4 @@
+import shutil
 import subprocess
 import tempfile
 import unittest
@@ -7,8 +8,9 @@ from unittest import mock
 import json
 import sqlite3
 
-from utils import brain_index, gitsync, icm_git, icm_scaffold, icm_seed, icm_skills, icm_validate, icm_wizard
-from utils import icm_data, icm_integration, icm_restructure
+from utils import brain_index, gitsync, icm_git, icm_maintain, icm_scaffold, icm_seed, icm_skills, icm_validate, icm_wizard
+from utils import pipeline, project_memory
+from utils import icm_data, icm_integration, icm_restructure, icm_update, data_summary, skill_library, brain_methods
 import hashlib
 import os
 
@@ -202,6 +204,32 @@ class SeedSkillTests(unittest.TestCase):
         self.assertEqual((self.root / "stages" / "02-model-design" / "references" / "a.md").read_text(), "new text")
         self.assertEqual(icm_seed.refresh(self.root), [])
 
+    def test_new_matches_lists_uncopied_sources(self):
+        refs = self.root / "stages" / "02-model-design" / "references"
+        proposal = {"02-model-design": [icm_seed.search_topic(
+            {"topic": "Covered", "query": "closed population models", "why": "w", "source_hint": "h"}, {})]}
+        icm_seed.copy_note(_cand("a"), refs)
+        found = icm_seed.new_matches(self.root, proposal)
+        self.assertEqual([f[2] for f in found], ["b"])
+
+    def test_maintain_report_flags_changes_and_stale_skills(self):
+        icm_seed.copy_note(_cand("a"), self.root / "skills" / "mark-recapture" / "references")
+        (self.brain / "a.md").write_text("new text", encoding="utf-8")
+        manifest = Path(self.tmp.name) / "m.yaml"
+        manifest.write_text(f"projects:\n  P:\n    project_path: {self.root}\n    icm_workspace: {self.root}\n", encoding="utf-8")
+        with mock.patch.object(icm_seed, "propose", return_value={}):
+            text = icm_maintain.report(manifest)
+        self.assertIn("a changed in brain", text)
+        self.assertIn("mark-recapture", text)
+
+    def test_upstream_status(self):
+        sha = json.loads(icm_update.UPSTREAM_PATH.read_text())["commit"]
+        for out, want in ((f"{sha}\tHEAD\n", "current"), ("deadbeef\tHEAD\n", "behind"), ("", "unknown")):
+            with mock.patch.object(icm_update.subprocess, "run", return_value=mock.Mock(stdout=out)):
+                self.assertEqual(icm_update.upstream_status(), want)
+        with mock.patch.object(icm_update.subprocess, "run", side_effect=OSError):
+            self.assertEqual(icm_update.upstream_status(), "unknown")
+
     def test_external_reference_survives_rewrite(self):
         icm_seed.supply(self.root, "Smith 2001. A paper. https://example.org/x")
         icm_seed.write_sources(self.root)
@@ -357,5 +385,216 @@ class RestructureTests(unittest.TestCase):
             icm_restructure.execute(plan, self.src, "Pikeminnow", folder="inner_icm")
 
 
+class SkillAccessAndProfileTests(unittest.TestCase):
+    def test_list_and_read_skills_with_workspace_override(self):
+        names = [s["name"] for s in skill_library.list_skills()]
+        self.assertIn("cpue-standardization", names)
+        self.assertIn("pipeline-orchestration", names)
+        self.assertTrue(skill_library.read_skill("cpue-standardization").startswith("---"))
+        self.assertIn("Unknown skill", skill_library.read_skill("nope"))
+        self.assertIn("must be", skill_library.read_skill("count-glm", file="../x"))
+        with tempfile.TemporaryDirectory() as d:
+            local = Path(d) / "skills" / "count-glm"
+            local.mkdir(parents=True)
+            (local / "SKILL.md").write_text("---\nname: count-glm\ndescription: local copy\nstatus: reviewed\n---\nbody", encoding="utf-8")
+            found = {s["name"]: s for s in skill_library.list_skills(d)}
+            self.assertEqual(found["count-glm"]["description"], "local copy")
+            self.assertEqual(skill_library.read_skill("count-glm", d).splitlines()[-1], "body")
+
+    def _profile(self, path, *extra):
+        script = skill_library.LIBRARY / "scripts" / "profile_data.R"
+        return subprocess.run([shutil.which("Rscript"), "--vanilla", str(script), str(path), *extra], capture_output=True, text=True)
+
+    @unittest.skipUnless(shutil.which("Rscript"), "R not installed")
+    def test_r_profile_csv_and_excel(self):
+        probe = subprocess.run([shutil.which("Rscript"), "-e", "quit(status = !requireNamespace('jsonlite', quietly = TRUE))"])
+        if probe.returncode:
+            self.skipTest("jsonlite not installed")
+        with tempfile.TemporaryDirectory() as d:
+            csv = Path(d) / "catch.csv"
+            csv.write_text("Site,Count,Effort_hours\nUpper,0,2\nLower,3,2.5\nUpper,0,3\n", encoding="utf-8")
+            r = self._profile(csv)
+            self.assertEqual(r.returncode, 0, r.stderr)
+            s = json.loads((Path(d) / "data_summary.json").read_text(encoding="utf-8"))
+            sheet = s["sheets"][0]
+            self.assertEqual(sheet["rows"], 3)
+            self.assertTrue(any("effort or CPUE" in h for h in sheet["hints"]))
+            self.assertTrue(any("looks like a count" in h for h in sheet["hints"]))
+            self.assertIn("| Site | text |", (Path(d) / "data_summary.md").read_text(encoding="utf-8"))
+            self.assertNotEqual(self._profile(Path(d) / "missing.csv").returncode, 0)
+            try:
+                import openpyxl
+            except ImportError:
+                return
+            if subprocess.run([shutil.which("Rscript"), "-e", "quit(status = !requireNamespace('readxl', quietly = TRUE))"]).returncode:
+                return
+            wb = openpyxl.Workbook()
+            wb.active.title = "Catch"
+            wb.active.append(["Site", "Count"])
+            wb.active.append(["Upper", 4])
+            wb.create_sheet("Notes").append(["a"])
+            xlsx = Path(d) / "book.xlsx"
+            wb.save(xlsx)
+            self.assertEqual(self._profile(xlsx).returncode, 0)
+            self.assertEqual([x["sheet"] for x in json.loads((Path(d) / "data_summary.json").read_text(encoding="utf-8"))["sheets"]], ["Catch", "Notes"])
+            self.assertEqual(self._profile(xlsx, "Notes").returncode, 0)
+            self.assertNotEqual(self._profile(xlsx, "Nope").returncode, 0)
+
+
+class PipelineTests(unittest.TestCase):
+    """Steps are Python files named .R so the engine can run them without R installed."""
+
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        base = Path(self.tmp.name)
+        self.root = base / "proj"
+        for d in ("scripts", "data"):
+            (self.root / d).mkdir(parents=True)
+        (self.root / "data" / "raw.csv").write_text("a\n1\n")
+        (self.root / "scripts" / "clean.R").write_text("open('data/clean.csv','w').write(open('data/raw.csv').read())")
+        (self.root / "scripts" / "report.R").write_text("open('report.txt','w').write(open('data/clean.csv').read())")
+        (self.root / "scripts" / "fetch.R").write_text("open('data/raw.csv','w').write('a\\n2\\n')")
+        steps = [
+            {"id": "fetch", "kind": "refresh", "script": "scripts/fetch.R", "outputs": ["data/raw.csv"]},
+            {"id": "clean", "script": "scripts/clean.R", "inputs": ["data/raw.csv"], "outputs": ["data/clean.csv"]},
+            {"id": "report", "script": "scripts/report.R", "inputs": ["data/clean.csv"], "outputs": ["report.txt"]},
+        ]
+        (self.root / "pipeline.yaml").write_text(__import__("yaml").safe_dump({"steps": steps}))
+        self.patches = [
+            mock.patch.object(project_memory, "MEMORY_DIR", base / "mem"),
+            mock.patch.object(pipeline, "script_command", lambda target: ([__import__("sys").executable, str(target)], "")),
+        ]
+        for p in self.patches:
+            p.start()
+
+    def tearDown(self):
+        for p in self.patches:
+            p.stop()
+        self.tmp.cleanup()
+
+    def states(self):
+        return {r["id"]: r["stale"] for r in pipeline.check(self.root, "proj")}
+
+    def test_fresh_project_is_stale_then_up_to_date(self):
+        self.assertEqual(self.states(), {"fetch": False, "clean": True, "report": True})
+        res = pipeline.run(self.root, "proj", log=lambda *_: None)
+        self.assertEqual(res["ran"], ["clean", "report"])
+        self.assertEqual(self.states(), {"fetch": False, "clean": False, "report": False})
+        self.assertIn("up to date", pipeline.summary(self.root, "proj"))
+
+    def test_changed_input_reruns_downstream_only_when_content_changes(self):
+        pipeline.run(self.root, "proj", log=lambda *_: None)
+        raw = self.root / "data" / "raw.csv"
+        raw.write_text("a\n1\n")                       # same content, new mtime
+        self.assertEqual(self.states()["clean"], False)
+        raw.write_text("a\n1\n2\n")
+        self.assertEqual(self.states()["clean"], True)
+        self.assertEqual(self.states()["report"], False)   # not stale until clean rewrites its output
+        res = pipeline.run(self.root, "proj", log=lambda *_: None)
+        self.assertEqual(res["ran"], ["clean", "report"])
+
+    def test_refresh_runs_only_on_request_and_triggers_rerun(self):
+        pipeline.run(self.root, "proj", log=lambda *_: None)
+        res = pipeline.run(self.root, "proj", include_refresh=True, log=lambda *_: None)
+        self.assertEqual(res["ran"], ["fetch", "clean", "report"])
+
+    def test_missing_output_and_script_change_make_step_stale(self):
+        pipeline.run(self.root, "proj", log=lambda *_: None)
+        (self.root / "report.txt").unlink()
+        self.assertEqual(self.states()["report"], True)
+        pipeline.run(self.root, "proj", log=lambda *_: None)
+        (self.root / "scripts" / "clean.R").write_text("open('data/clean.csv','w').write('x')")
+        self.assertEqual(self.states()["clean"], True)
+
+    def test_failure_stops_chain(self):
+        (self.root / "scripts" / "clean.R").write_text("raise SystemExit(3)")
+        res = pipeline.run(self.root, "proj", log=lambda *_: None)
+        self.assertEqual((res["failed"], res["ran"]), ("clean", []))
+        self.assertEqual(self.states()["clean"], True)
+        self.assertEqual(self.states()["report"], True)
+
+    def test_validation_rejects_escapes_and_bad_kinds(self):
+        for bad in ({"id": "a", "script": "../x.R"}, {"id": "a b", "script": "scripts/clean.R"},
+                    {"id": "a", "script": "scripts/clean.R", "inputs": ["/etc/passwd"]},
+                    {"id": "a", "script": "scripts/clean.R", "kind": "other"},
+                    {"id": "a", "script": "scripts/clean.py"}):
+            with self.assertRaises(ValueError):
+                pipeline.validate(self.root, [bad])
+
+    def test_schedule_text_installs_nothing(self):
+        text = pipeline.schedule_text(self.root, "proj")
+        self.assertIn("Nothing was installed", text)
+        self.assertIn("schtasks", text)
+
+
 if __name__ == "__main__":
     unittest.main()
+
+
+class LibraryTests(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.base = Path(self.tmp.name)
+        self.ws = icm_scaffold.scaffold(self.base, "L_icm", "L", "mark_recapture", profile="p")
+
+    def tearDown(self):
+        self.tmp.cleanup()
+
+    def test_scaffold_installs_roles_and_skills(self):
+        for role in ("data-handler", "analyst", "synthesist"):
+            self.assertTrue((self.ws / ".agent" / "roles" / f"{role}.md").is_file())
+        self.assertTrue((self.ws / "skills" / "mark-recapture-data-prep" / "SKILL.md").is_file())
+        self.assertTrue(all(st == "current" for _d, st in skill_library.status(self.ws)))
+        self.assertEqual(icm_validate.validate(self.ws), [])
+
+    def test_local_edits_are_kept_and_library_updates_flagged(self):
+        role = self.ws / ".agent" / "roles" / "analyst.md"
+        role.write_text("mine", encoding="utf-8")
+        r = skill_library.install(self.ws)
+        self.assertEqual(role.read_text(), "mine")
+        self.assertIn((".agent/roles/analyst.md", "edited-locally"), r["kept"])
+        skill_library.install(self.ws, overwrite=True)
+        self.assertNotEqual(role.read_text(), "mine")
+        files = skill_library.library_files()
+        key = ".agent/roles/analyst.md"
+        with mock.patch.object(skill_library, "_sha", side_effect=lambda p: "x" if p == files[key] else hashlib.sha256(p.read_bytes()).hexdigest()):
+            self.assertIn((key, "library-updated"), skill_library.status(self.ws))
+
+    def test_data_summary_hints(self):
+        csv_path = self.base / "d.csv"
+        csv_path.write_text("tag,date,count,effort_hours,occ1,occ2,occ3\nA,2024-05-01,0,2,1,0,1\nA,2024-05-02,0,2,1,1,0\nB,2024-05-03,4,1.5,0,0,1\n", encoding="utf-8")
+        j, m = data_summary.write_summary(csv_path, self.base / "out")
+        s = json.loads(j.read_text())
+        text = " ".join(s["hints"])
+        self.assertIn("capture-history", text)
+        self.assertIn("zero-heavy", text)
+        self.assertIn("repeated individual ids", text)
+        self.assertIn("Data-type hints", m.read_text())
+
+
+class BrainMethodsTests(unittest.TestCase):
+    def test_scan_counts_families_years_and_avoids_noise(self):
+        with tempfile.TemporaryDirectory() as t:
+            d = Path(t)
+            (d / "a_2021.md").write_text('---\ndate: "2021-01-01"\n---\nWe used a Cormack-Jolly-Seber model and a zero-inflated Poisson.', encoding="utf-8")
+            (d / "b_1975.md").write_text("---\nsource_id: 1\n---\nBody compressed posteriorly; Schnabel estimate.", encoding="utf-8")
+            r = brain_methods.scan(d)
+        f = r["families"]
+        self.assertEqual(f["mark-recapture-open"]["source_count"], 1)
+        self.assertEqual(f["mark-recapture-closed"]["source_count"], 1)
+        self.assertEqual(f["count-glm"]["recent_count"], 1)
+        self.assertEqual(f["bayesian"]["source_count"], 0)
+        self.assertEqual(f["mark-recapture-open"]["year_range"], [2021, 2021])
+
+
+class WebCiteValidationTests(unittest.TestCase):
+    def test_web_cites_must_be_listed_in_sources(self):
+        with tempfile.TemporaryDirectory() as t:
+            ws = icm_scaffold.scaffold(Path(t), "W_icm", "W", "mark_recapture", profile="p")
+            skill = ws / "skills" / "x"
+            skill.mkdir(parents=True)
+            (skill / "SKILL.md").write_text("Use FSA [[web:cran-FSA]] and [[web:cran-ghost]].", encoding="utf-8")
+            (skill / "SOURCES.md").write_text("- [[web:cran-FSA]] FSA 0.9\n", encoding="utf-8")
+            issues = icm_validate.validate(ws)
+        self.assertEqual(len(issues), 1)
+        self.assertIn("web:cran-ghost", issues[0])

@@ -1,0 +1,131 @@
+# Skills drafted from the developer's skill_source/ folder (utils/skill_source.py).
+#   mode: new         -> skills/<name>/SKILL.md
+#   mode: supplement  -> skills/<name>/SUPPLEMENT.md next to an existing SKILL.md (never overwrites it)
+#   mode: part        -> replaces the section named by `section` inside an existing SKILL.md
+#   sources: id -> {sections: [heading words], windows: [regex], per_chars: cap}. Excerpts are cut locally; only these go to the LLM.
+#   guidance: extra instructions for the drafting prompt.
+
+scientific-writing-conventions:
+  mode: part
+  section: "Part C. Style from journal articles"
+  description: Writing conventions drawn from recent fisheries journal articles supplied by the developer.
+  guidance: >
+    Describe observed conventions in these articles (section structure, opening moves, tense, how methods and statistics are
+    reported, how results are ordered, figure and table caption style, hedging, discussion structure, abbreviations, units, length).
+    Cite which articles show each convention as [[src:id]]. Give short original example sentence frames, never copy sentences.
+    Note where articles differ (journal-specific) instead of averaging. Heading level is '##'; start with the heading 'Part C. Style from journal articles'.
+  sources:
+    franssen-2021: {sections: [abstract, introduction, methods, statistical, results, discussion], per_chars: 11000}
+    avery-2011: {sections: [methods, results, discussion], per_chars: 8000}
+    buxton-2025: {sections: [abstract, methods, statistical, results, discussion], per_chars: 11000}
+    webber-2014: {sections: [abstract, methods, results, discussion], per_chars: 9000}
+    archdeacon-2024: {sections: [abstract, methods, statistical, results, discussion], per_chars: 11000}
+    murie-2009: {sections: [introduction, methods, results, discussion], per_chars: 9000}
+    walsworth-2020: {sections: [abstract, methods, statistical, results, discussion], per_chars: 11000}
+    friesen-2026: {sections: [abstract, methods, statistical, results, discussion], per_chars: 11000}
+    leonard-2025: {sections: [abstract, methods, results, discussion], per_chars: 9000}
+    renner-2022: {sections: [abstract, methods, results], per_chars: 7000}
+    nowlin-2006: {sections: [abstract, methods, results, discussion], per_chars: 9000}
+    aarts-2008: {sections: [abstract, methods, results, discussion], per_chars: 8000}
+    fieberg-2009: {sections: [summary, methods, results, discussion], per_chars: 8000}
+
+r-data-exploration:
+  mode: new
+  description: Step-by-step data exploration in R before modeling (outliers, distributions, zeros, collinearity, relationships, independence), with original reusable scaffolds.
+  packages: [ggplot2, dplyr, car, GGally, DHARMa, performance]
+  guidance: >
+    Write an exploration protocol with the order of checks, what each check looks for, and what decision it informs (transform, drop,
+    model family, random effects). Include compact original R code blocks (tidyverse or base) using only the listed packages and
+    functions you are certain exist: dotplots for outliers, histograms, proportion of zeros, pairs and VIF collinearity, covariate
+    versus response plots, replication per factor level, and a spatial or temporal dependence check. Do not use functions you cannot
+    name with certainty. Code is a scaffold the scientist adapts; say that it was not executed here. The workflow is based on the
+    developer's own worked report; mention that further guidance exists in Zuur and Ieno (2021), cited as [[src:zuur-ieno-2021]] for
+    pointer purposes only (no content was ingested).
+  sources:
+    fish-trapping-report: {sections: ["the fish trapping dataset", "data description", "distributional properties", "why ordinary regression fails", "diagnosing excess zeros"], per_chars: 16000}
+    fieberg-2009: {sections: [summary, introduction, methods], per_chars: 8000}
+
+count-glm:
+  mode: supplement
+  description: Worked count-model workflow (Poisson, NB, GP, CMP, ZIP, ZINB, hurdle, GLMM, DHARMa, temporal and spatial checks) from the developer's own report and correlated-data guidance.
+  packages: [glmmTMB, MASS, DHARMa, pscl, AER, MuMIn]
+  guidance: >
+    Write a supplement to an existing count-glm skill: the ordered model ladder, the dispersion test, when to move to NB, ZI or hurdle,
+    random effects for repeated sites, DHARMa residual checks including spatial and per-site temporal autocorrelation and the AR(1)
+    step, how models are compared (AIC table and what it can and cannot say) and how to report them. Short original R code blocks only
+    with functions that appear in the source or that you are certain exist. Note pitfalls the source documents (for example
+    zeroinfl objects have no simulate method for DHARMa). Cite [[src:fish-trapping-report]] and [[src:fieberg-2009]].
+  sources:
+    fish-trapping-report: {sections: ["poisson glm", "dispersion testing", "negative binomial", "generalized poisson", "bernoulli, zip", "dharma residual", "temporal", "glmm", "aic", "model comparison", "prediction"], per_chars: 40000}
+    fieberg-2009: {windows: ["subject-specific", "population.averaged", "GEE", "generalized estimating", "random effect", "marginal model"], per_chars: 12000}
+
+telemetry-movement-habitat:
+  mode: new
+  description: Telemetry data analysis for fish movement and habitat use (error checks, independence, movement rates, mixed models, selection ratios, home range, resource selection) with R workflow.
+  packages: [adehabitatHR, adehabitatHS, lme4, nlme, glmmTMB, amt, sf, geepack]
+  guidance: >
+    Cover the sampling-unit issue (individual, not location), data cleaning and location error, autocorrelation and how to handle it,
+    movement metrics, habitat use versus availability designs, selection ratios, resource selection or logistic approaches with
+    random effects, and home range or space-use estimation, including cautions the authors give. The source uses SAS for some analyses;
+    translate ideas to R using only listed packages and say that function names must be checked against package documentation
+    (check_r_package). Short original R sketches only; mark them unexecuted. Cite [[src:rogers-white-2007]], [[src:aarts-2008]], [[src:fieberg-2009]].
+  sources:
+    rogers-white-2007: {windows: ["pseudoreplic", "autocorrel", "minimum displacement", "selection ratio", "Bonferroni", "kernel", "minimum convex", "mixed model", "random effect", "logistic regression", "telemetry error", "sampling unit", "availab"], per_chars: 45000}
+    aarts-2008: {windows: ["availab", "resource selection", "kernel", "state.space", "autocorrel", "habitat preference", "sampling design", "used and available"], per_chars: 25000}
+    fieberg-2009: {windows: ["telemetry", "repeated", "marginal", "random effect", "autocorrel"], per_chars: 8000}
+
+mark-recapture-open:
+  mode: supplement
+  description: PIT-tag detection, tag retention and apparent survival practice from regional fisheries studies, as a supplement to the open-population skill.
+  packages: [marked, RMark, FSA]
+  guidance: >
+    Write a supplement on how the supplied studies handle PIT-tag detection (antennas, detection probability), tag size and tag
+    loss, apparent versus true survival, release-group or rearing covariates, and model selection and reporting for CJS-type
+    analyses. Say which study shows each practice, cite [[src:id]], and state study-specific numbers only when the excerpt gives them.
+    Mark anything that is general knowledge rather than from the excerpts as (general). Do not invent software settings.
+  sources:
+    franssen-2021: {windows: ["apparent survival", "Cormack", "CJS", "MARK", "detection probability", "PIT", "AIC", "capture history", "model selection", "release"], per_chars: 14000}
+    buxton-2025: {windows: ["tag loss", "retention", "survival", "Kaplan", "logistic", "AIC", "tag size", "growth"], per_chars: 12000}
+    webber-2014: {windows: ["detection", "antenna", "PIT", "efficiency", "range"], per_chars: 12000}
+    avery-2011: {windows: ["survival", "PIT", "recaptur", "detect", "MARK", "flow"], per_chars: 10000}
+
+mark-recapture-open-assumptions:
+  skill: mark-recapture-open
+  mode: part
+  section: "Assumptions and when to use open models"
+  description: Open-population assumptions and model families from classic and continuous-detection literature.
+  packages: [marked, RMark]
+  guidance: >
+    Write the section 'Assumptions and when to use open models' (heading level '##', start with that exact heading). Cover:
+    when an open model (CJS, Jolly-Seber, multistate, non-Markovian transitions) is needed instead of a closed one; the
+    assumptions of the general open-population framework and what each assumption protects; apparent versus true survival;
+    how continuous detection (antennas, telemetry) differs from discrete occasions and what the continuous-data approach changes;
+    and what PIT-tag remote detection adds to inference. Cite [[src:id]] per claim, paraphrase only, state numbers only if the
+    excerpt gives them, mark general knowledge as (general). No code.
+  sources:
+    schwarz-arnason-1996: {sections: [abstract, introduction, model, assumptions, discussion], windows: ["assum", "open population", "Jolly", "Cormack", "entry", "birth"], per_chars: 12000}
+    brownie-1993: {sections: [summary, introduction, model, assumptions, discussion], windows: ["assum", "Markov", "stratum", "transition", "survival"], per_chars: 12000}
+    barbour-2013: {sections: [summary, introduction, discussion], windows: ["continuous", "assum", "apparent survival", "instantaneous", "bias"], per_chars: 12000}
+    hewitt-2010: {windows: ["assum", "detection", "tag loss", "survival", "remote", "recapture", "antenna"], per_chars: 9000}
+
+mark-recapture-open-bayesian:
+  skill: mark-recapture-open
+  mode: part
+  section: "Bayesian and software implementation"
+  description: Bayesian and NIMBLE implementation of mark-recapture models, hierarchical and spatial extensions, and goodness of fit.
+  packages: [nimble, marked, RMark]
+  guidance: >
+    Write the section 'Bayesian and software implementation' (heading level '##', start with that exact heading). Cover: when a
+    Bayesian or hierarchical formulation helps (sparse data, multi-state, sharing information across sites or groups); how the
+    NIMBLE model code is organized (model block, constants, data, inits, monitors, building and running MCMC, choosing samplers)
+    based on the NIMBLE paper; hierarchical and spatial capture-recapture ideas (latent states, random effects, data augmentation
+    where the excerpts describe it); convergence and posterior checks; and goodness of fit for integrated or Bayesian models by
+    calibrated simulation. Include one short ORIGINAL R sketch of a CJS model in nimble using the state-space form, labelled as a
+    sketch to verify against package documentation; do not copy code from the papers and do not invent function arguments you
+    are unsure of. Cite [[src:id]] per claim, paraphrase only, mark general knowledge as (general).
+  sources:
+    devalpine-2017: {windows: ["nimbleCode", "model code", "MCMC", "sampler", "configureMCMC", "buildMCMC", "compileNimble", "BUGS"], per_chars: 14000}
+    calvert-2009: {sections: [summary, introduction, methods, discussion], windows: ["prior", "hierarch", "MCMC", "convergence", "multi-state", "WinBUGS", "sparse"], per_chars: 14000}
+    royle-2009: {sections: [abstract, introduction, discussion], windows: ["data augmentation", "MCMC", "prior", "latent", "home range", "Bayesian"], per_chars: 10000}
+    besbeas-2014: {sections: [summary, introduction, discussion], windows: ["goodness", "calibrated", "simulation", "discrepancy", "P-value", "integrated"], per_chars: 10000}
+
