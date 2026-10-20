@@ -94,9 +94,19 @@ def default_routing(name: str, ptype: dict) -> str:
     return "\n".join(lines)
 
 
+INTEGRITY_HEADING = "## Scientific integrity"
+INTEGRITY_RULES = (
+    f"{INTEGRITY_HEADING}\n\n"
+    "Never make up or fill in information. This covers references, citations, authors, years, DOIs, data values, "
+    "sample sizes, statistics, methods, results, quotes and file contents. Use only what the user's files, project data "
+    "or the Fisheries Brain actually provide. If something is missing or cannot be verified, say so plainly, leave a "
+    "visible placeholder such as [CITATION NEEDED] or [DATA NEEDED], and ask the user. A gap is acceptable; a "
+    "fabricated detail in a manuscript is not. Mark anything from general knowledge as unverified.")
+
+
 def agents_md(name: str, ptype: dict, routing: str = None, profile: str = None) -> str:
     routing = (routing or default_routing(name, ptype)).strip()
-    return (f"# AGENTS.md: {name}\n\n## How I work\n\n{profile_block(profile)}\n\n"
+    return (f"# AGENTS.md: {name}\n\n{INTEGRITY_RULES}\n\n## How I work\n\n{profile_block(profile)}\n\n"
             f"{ROUTING_BEGIN}\n{routing}\n{ROUTING_END}\n")
 
 

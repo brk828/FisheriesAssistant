@@ -11,7 +11,13 @@ const { s } = Astro.props;
 const base = import.meta.env.BASE_URL;
 ---
 <Base title={`${s.title} | ${SITE_TITLE}`}>
-  <p><a href={base}>&larr; Back to search</a></p>
+  <p><a id="back" href={base}>&larr; Back to search</a></p>
+  <script is:inline>
+    // Going back (rather than following the link) restores the search page with its filters.
+    document.getElementById("back").addEventListener("click", (e) => {
+      if (history.length > 1 && document.referrer.startsWith(location.origin)) { e.preventDefault(); history.back(); }
+    });
+  </script>
   <article
     data-pagefind-body
     data-library={s.minckleyId ? "Minckley Library" : "Other sources"}

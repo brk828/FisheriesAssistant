@@ -6,7 +6,7 @@ from pathlib import Path
 
 import yaml
 
-from utils import icm_data, icm_validate
+from utils import icm_data, icm_scaffold, icm_validate
 
 HERE = Path(__file__).resolve().parent.parent
 MANIFEST_PATH = HERE / "project_manifest.yaml"
@@ -63,7 +63,10 @@ def _clip(text: str) -> str:
 def layered_context(ws, stage: str = "") -> str:
     """AGENTS.md and CONTEXT.md, plus one stage's CONTEXT.md if requested, plus data and gap notices."""
     ws = Path(ws)
-    parts = [f"ICM workspace: {ws}", "## AGENTS.md\n" + _clip((ws / "AGENTS.md").read_text(encoding="utf-8")),
+    agents = (ws / "AGENTS.md").read_text(encoding="utf-8")
+    if icm_scaffold.INTEGRITY_HEADING not in agents:
+        agents = icm_scaffold.INTEGRITY_RULES + "\n\n" + agents
+    parts = [f"ICM workspace: {ws}", "## AGENTS.md\n" + _clip(agents),
              "## CONTEXT.md\n" + _clip((ws / "CONTEXT.md").read_text(encoding="utf-8"))]
     stages = _stages(ws)
     if stage:

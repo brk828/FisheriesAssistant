@@ -34,8 +34,12 @@ const base = import.meta.env.BASE_URL;
         const vals = Object.keys(filters[name] || {}).sort();
         for (const v of vals) el.append(new Option(`${v} (${filters[name][v]})`, v));
       }
-      const q = new URLSearchParams(location.search).get("q");
-      if (q) $("q").value = q;
+      const params = new URLSearchParams(location.search);
+      if (params.get("q")) $("q").value = params.get("q");
+      for (const id of ["library", "decade", "fullpdf", "sort"]) {
+        const v = params.get(id);
+        if (v && [...$(id).options].some((o) => o.value === v)) $(id).value = v;
+      }
       run();
     }
 
@@ -57,7 +61,12 @@ const base = import.meta.env.BASE_URL;
       shown = 0;
       $("results").innerHTML = "";
       $("status").textContent = `${hits.length.toLocaleString()} result${hits.length === 1 ? "" : "s"}`;
-      history.replaceState(null, "", term ? `?q=${encodeURIComponent(term)}` : location.pathname);
+      // Keep the search state in the URL so returning from a summary page restores it.
+      const params = new URLSearchParams();
+      if (term) params.set("q", term);
+      for (const id of ["library", "decade", "fullpdf", "sort"]) if ($(id).value) params.set(id, $(id).value);
+      const qs = params.toString();
+      history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
       await more(id);
     }
 

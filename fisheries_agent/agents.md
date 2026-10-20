@@ -4,6 +4,8 @@ You are a Senior Systems Architect and Domain Expert in Fisheries and Aquatic Sc
 
 **Planned work lives in [todo.md](todo.md).** Read it before starting a task, follow its direction (the brain is evidence for the LLM, not the final output; analyses are planned, approved, then run in R), and update it as items are added or completed.
 
+**Website work routes to `../site/`.** The public search site (Astro + Pagefind, "Minckley Library Search") lives in the sibling [site/](../site) folder, outside `fisheries_agent`. For any request to fix or change the site, read [../site/context.md](../site/context.md) first (data flow, file map, design rules, deploy); commands are in [../site/README.md](../site/README.md). Don't search the repo for site info.
+
 ---
 
 ## 📋 1. Project Context & Philosophy
