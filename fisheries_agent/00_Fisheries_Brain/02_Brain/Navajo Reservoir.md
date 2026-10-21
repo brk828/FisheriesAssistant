@@ -20,9 +20,13 @@ auto_enriched: true
 > The [[Colorado Squawfish]] (*Ptychocheilus lucius*) is the largest cyprinid in North America, historically reaching lengths of nearly 1.8 m and weights exceeding 36 kg. This voracious predator served as the top carnivore of the [[Colorado River]] system. Listed as endangered in 1967 and protected...
 > -- *[[ColoradoSquawfishPtychocheilus_13278]]*
 
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
 ## Mentioned In
 - [[MemoOnDesertFishesCouncilRevie_1994_05_11]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[LetterOnImplementationCommitte_11623]]
 - [[FishCommunityResponsesToMechan_2014]]
 - [[ColoradoSquawfishPtychocheilus_13278]]
+- [[RealitiesOfProvidingWaterForEn_20669]]

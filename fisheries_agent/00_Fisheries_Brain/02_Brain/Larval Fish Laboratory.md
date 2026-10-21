@@ -26,6 +26,15 @@ The Larval Fish Laboratory is a specialized research facility, housed at Colorad
 > This FY 1993 annual report documents ongoing drift-net sampling to evaluate [[Colorado Squawfish]] (*Ptychocheilus lucius*) larval production in the [[Colorado River]] in response to flow manipulations from the [[Aspinall Unit]]. Principal investigators Leo Lentsch and Melissa Trammell from the...
 > -- *[[AspinalUnitStudiesEvaluationOf_20259]]*
 
+> This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DevelopmentOfAStandardizedMoni_15549]]*
+
+> This document comprises a 1990 proposal and preliminary investigation by the [[Larval Fish Laboratory]] at [[Colorado State University]] addressing concerns about electrofishing impacts on fish in [[Grand Canyon National Park]]. The [[National Park Service]] mandated evaluation of electrofishing...
+> -- *[[DraftDocumentimpactsOfElectrof_19691]]*
+
+> This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
+> -- *[[FyAnnualProjectReportColoradoR_21244]]*
+
 ## Mentioned In
 - [[AdditionalStudiesToFacilitateE_1993]]
 - [[AnalysisOfPastCollectionsFromT_1993]]
@@ -37,3 +46,6 @@ The Larval Fish Laboratory is a specialized research facility, housed at Colorad
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[LetterToWayneStarnesAuthorizat_11924]]
 - [[AspinalUnitStudiesEvaluationOf_20259]]
+- [[DevelopmentOfAStandardizedMoni_15549]]
+- [[DraftDocumentimpactsOfElectrof_19691]]
+- [[FyAnnualProjectReportColoradoR_21244]]

@@ -20,7 +20,11 @@ The Rainbow Darter (*Etheostoma caeruleum*), also historically referred to as th
 > - **Headwater specialists**: [[Creek Chub]], [[Stoneroller]], and [[Arrow Darter]] typify the extreme upper reaches, with the Creek Chub excluding other species from the smallest tributaries. - **Pool-dependent predators**: [[Smallmouth Bass]] and [[Rock Bass]] are restricted to the few deep pool...
 > -- *[[AnnotatedChecklistOfFishesFrom_1962]]*
 
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
 ## Mentioned In
 - [[AnnotatedChecklistOfFishesFrom_1962]]
 - [[FishesOfKinkaidCreekIllinois_14812]]
 - [[NaturalProductivityOfFishAndCr_1940]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]

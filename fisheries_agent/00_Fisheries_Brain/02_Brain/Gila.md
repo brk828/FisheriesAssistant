@@ -89,6 +89,24 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 > This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
 > -- *[[DesertFishesCouncilThirteenthA_12827]]*
 
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
+> This 1986 memorandum from the [[Bureau of Reclamation]] Upper Colorado Regional Office to the [[U.S. Fish and Wildlife Service]] Endangered Species Office proposes collaboration with Dr. W. L. Minckley of [[Arizona State University]] on basin-wide systematic studies of the genus *[[Gila]]*. The...
+> -- *[[FutureGilaWork_11987]]*
+
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
+> This 1991 correspondence from E.P. Pister, Executive Secretary of the [[Desert Fishes Council]], to Bruce Schmidt of the [[Utah Division of Wildlife Resources]] clarifies philosophical positions on fisheries management presented at the Western Division AFS meeting in Bozeman. The letter addresses...
+> -- *[[ReactionsToTalkAtAfsMeetingInB_18595]]*
+
+> This document comprises a 1990 proposal and preliminary investigation by the [[Larval Fish Laboratory]] at [[Colorado State University]] addressing concerns about electrofishing impacts on fish in [[Grand Canyon National Park]]. The [[National Park Service]] mandated evaluation of electrofishing...
+> -- *[[DraftDocumentimpactsOfElectrof_19691]]*
+
+> This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
+> -- *[[FyAnnualProjectReportColoradoR_21244]]*
+
 ## Mentioned In
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
 - [[ColoradoRiverFishesRecoveryPro_1993_12_10]]
@@ -135,3 +153,9 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 - [[ColoradoRiverFishesMeetingFebr_15252]]
 - [[RainbowSmeltProposalReview_17848]]
 - [[DesertFishesCouncilThirteenthA_12827]]
+- [[FiscalYearWorkPlan_11742]]
+- [[FutureGilaWork_11987]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]
+- [[ReactionsToTalkAtAfsMeetingInB_18595]]
+- [[DraftDocumentimpactsOfElectrof_19691]]
+- [[FyAnnualProjectReportColoradoR_21244]]

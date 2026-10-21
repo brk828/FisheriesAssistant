@@ -29,6 +29,9 @@ The Pecos Pupfish (*Cyprinodon pecosensis*) is a small cyprinodont endemic to th
 > This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
 > -- *[[DesertFishesCouncilEighteenthA_12829]]*
 
+> This correspondence from the [[Desert Fishes Recovery Team]] to the U.S. Fish and Wildlife Service Regional Director documents recommendations and action items from their April 17, 1986 meeting in Tucson, Arizona. The team addresses critical conservation issues for multiple endangered desert fish...
+> -- *[[ItemsToBringToYourAttentionAft_13731]]*
+
 ## Mentioned In
 - [[ConservationAgreementForThePec_1998]]
 - [[DraftConservationAgreementForT_1998_12_28]]
@@ -39,3 +42,4 @@ The Pecos Pupfish (*Cyprinodon pecosensis*) is a small cyprinodont endemic to th
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[EndangeredAndThreatenedWildlif_11741]]
 - [[DesertFishesCouncilEighteenthA_12829]]
+- [[ItemsToBringToYourAttentionAft_13731]]

@@ -101,6 +101,18 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > This December 1993 letter from the [[Maricopa Audubon Society]] to the [[Arizona Department of Water Resources]] (ADWR) addresses concerns about a water policy change permitting subdivision development in the upper [[San Pedro River]] basin. The letter documents the ecological significance of the...
 > -- *[[ArizonaDepartmentOfWaterResour_18960]]*
 
+> This comprehensive monitoring plan establishes protocols for the [[San Pedro Riparian National Conservation Area]] (RNCA), established by Public Law 100-696 (Arizona-Idaho Conservation Act of 1988). The 56,430-acre conservation area protects one of the most extensive remaining broadleaf riparian...
+> -- *[[SanPedroRiparianNationalConser_11468]]*
+
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This study evaluated instream flow requirements for three native fish species—[[Roundtail Chub]] (*Gila robusta robusta*), [[Sonora Sucker]] (*Catostomus insignis*), and [[Desert Sucker]] (*Catostomus clarki*)—in the [[Burro Creek]] drainage of west-central Arizona using the Incremental...
+> -- *[[EvaluationOfTheInstreamFlowReq_13030]]*
+
+> This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
+> -- *[[DraftConservationAgreementVirg_18320]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -201,3 +213,7 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[BiologicalOpinionForRepairAndo_11904]]
 - [[ReassessmentOfOriginalInformat_13790]]
 - [[ArizonaDepartmentOfWaterResour_18960]]
+- [[SanPedroRiparianNationalConser_11468]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[EvaluationOfTheInstreamFlowReq_13030]]
+- [[DraftConservationAgreementVirg_18320]]

@@ -212,6 +212,33 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
 > -- *[[GlenCanyonEnvironmentalStudies_19719]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
+> This baseline study documents the ecology of [[White Sucker]] (*Catostomus commersoni*) and [[Longnose Sucker]] (*Catostomus catostomus*) populations in [[Twin Lakes]], Colorado, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Research conducted from 1971-1978 examined age and...
+> -- *[[EcologyOfCatostomidsInTwinLake_12424]]*
+
+> This 1964 study by [[John R. Calaprice]] and [[John E. Cushing]] investigated erythrocyte (red blood cell) antigens in California trout species to determine if immunogenetic techniques could identify relationships and variation useful for fisheries management. The research examined [[Golden Trout]]...
+> -- *[[ErythrocyteAntigensOfCaliforni_17330]]*
+
+> This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
+> -- *[[DraftConservationAgreementVirg_18320]]*
+
+> This 1991 correspondence from E.P. Pister, Executive Secretary of the [[Desert Fishes Council]], to Bruce Schmidt of the [[Utah Division of Wildlife Resources]] clarifies philosophical positions on fisheries management presented at the Western Division AFS meeting in Bozeman. The letter addresses...
+> -- *[[ReactionsToTalkAtAfsMeetingInB_18595]]*
+
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
+> This 1958 study by Wilbur L. Hartman investigated whether sedating fish with [[Urethane]] reduced measurement error and improved accuracy when recording fork and total lengths. Four groups of fish were measured repeatedly while normal and while drugged: yearling [[Brown Trout]], yearling [[Lake...
+> -- *[[TheUseOfSedativesToReduceManip_20686]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -395,3 +422,12 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[TheEnvironmentalConditionsOfAn_16280]]
 - [[TheParasiticCopepodAchtheresPe_18884]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[BiologicalOpinionOfFederalAids_11920]]
+- [[EcologyOfCatostomidsInTwinLake_12424]]
+- [[ErythrocyteAntigensOfCaliforni_17330]]
+- [[DraftConservationAgreementVirg_18320]]
+- [[ReactionsToTalkAtAfsMeetingInB_18595]]
+- [[FishesNativeToOrIntroducedInPa_18945]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[TheUseOfSedativesToReduceManip_20686]]

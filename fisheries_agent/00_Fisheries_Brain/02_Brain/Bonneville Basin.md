@@ -29,6 +29,9 @@ The Bonneville Basin is a large inland drainage system in the western United Sta
 > This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
 > -- *[[DesertFishesCouncilThirteenthA_12827]]*
 
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[DesertFishesCouncilOverviewAnd_1974_07_26]]
@@ -41,3 +44,4 @@ The Bonneville Basin is a large inland drainage system in the western United Sta
 - [[EvolutionaryRelationshipsOfThe_19110]]
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[DesertFishesCouncilThirteenthA_12827]]
+- [[FishesNativeToOrIntroducedInPa_18945]]

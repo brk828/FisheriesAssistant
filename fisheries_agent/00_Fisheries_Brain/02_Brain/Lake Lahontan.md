@@ -17,8 +17,12 @@ Lake Lahontan was a large Pleistocene pluvial lake system in the Great Basin tha
 > This 1971 academic paper by John N. Rinne examines the [[Pleistocene Epoch]] from multiple perspectives: climatic causes, chronological methods, hydrological conditions, and faunal evidence. The document emphasizes that the Pleistocene was characterized by dramatic climatic oscillations, extensive...
 > -- *[[ThePleistoceneItsClimateCauses_14987]]*
 
+> This 1967 report by George L. Batchelder provides a comprehensive synthesis of the Pleistocene geology and ecology of the [[Mono Basin]], California. The basin offers a unique opportunity to study synchronous glaciation and lacustrine fluctuations during the Quaternary. The document describes...
+> -- *[[TheMonoBasin_15632]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[HeterozygosityLevelsOfAgeClass_12950]]
 - [[ThePlioceneGlennsFerryOoliteLa_1980_03_14]]
 - [[ThePleistoceneItsClimateCauses_14987]]
+- [[TheMonoBasin_15632]]

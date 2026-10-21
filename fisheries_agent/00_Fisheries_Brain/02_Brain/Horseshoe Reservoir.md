@@ -17,8 +17,12 @@ auto_enriched: true
 > The U.S. Environmental Protection Agency (EPA) Region IX and U.S. Army Corps of Engineers (Corps) conducted an Advanced Identification (ADID) project for the [[Verde River]] in Arizona under Section 404 of the Clean Water Act. This document announces public workshops (April 25-26, 1994) to discuss...
 > -- *[[VerdeRiverAdvancedIdentificati_11367]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
 ## Mentioned In
 - [[MemorandumOnFebruaryLowerBasin_1989_02_13]]
 - [[SamplingAtHorseshoeReservoirJa_1990_01_30]]
 - [[RazorbackSuckerMonitoringEffor_13702]]
 - [[VerdeRiverAdvancedIdentificati_11367]]
+- [[DraftEnvironmentalAssessmentDe_11688]]

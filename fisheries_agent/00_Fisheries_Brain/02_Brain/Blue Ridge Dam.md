@@ -11,5 +11,9 @@ Blue Ridge Dam is a double curvature arch dam constructed in 1963 on East Clear 
 > This 1964 newspaper article describes the construction of [[Blue Ridge Dam]] on [[East Clear Creek]] in Arizona's [[Mogollon Rim]] country, part of a three-phase water transfer project by [[Phelps Dodge Corporation]] to support expanded copper mining operations at [[Morenci]]. The $6 million dam,...
 > -- *[[DramaticBattleForWaterBehindTh_18467]]*
 
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
 ## Mentioned In
 - [[DramaticBattleForWaterBehindTh_18467]]
+- [[BiologicalOpinionOfFederalAids_11920]]

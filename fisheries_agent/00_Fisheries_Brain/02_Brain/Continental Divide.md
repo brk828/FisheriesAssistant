@@ -17,7 +17,11 @@ The Continental Divide is a major geographic boundary in North America that sepa
 > This report presents results from C¹⁴ primary productivity studies conducted at [[Twin Lakes]], [[Colorado]], from 1973-81, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study characterizes baseline primary production rates in these high-mountain lakes (2802 m elevation)...
 > -- *[[PrimaryProductivityCAtTwinLake_12652]]*
 
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[ResearchAssistantshipRequestSy_13746]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[PrimaryProductivityCAtTwinLake_12652]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

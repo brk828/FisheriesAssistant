@@ -17,8 +17,12 @@ auto_enriched: true
 > This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
 > -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
 
+> This job progress report documents the second year (October 1, 1978 to September 30, 1979) of the [[Colorado Division of Wildlife]]'s endangered fish monitoring program targeting [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Humpback Chub]] (*Gila cypha*). Field crews sampled five trend...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12715]]*
+
 ## Mentioned In
 - [[OccurrenceOfTwoEndangeredFishe_1990_07_19]]
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
 - [[HabitatUseAndStreamflowNeedsOf_11609]]
+- [[ColoradoSquawfishAndHumpbackCh_12715]]

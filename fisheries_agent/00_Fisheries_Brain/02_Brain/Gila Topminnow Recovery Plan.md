@@ -17,7 +17,11 @@ The Gila Topminnow Recovery Plan is a comprehensive conservation strategy develo
 > - **Policy Significance:** This interim framework was designed to bridge a gap while the full [[Gila Topminnow Recovery Plan]] was finalized, allowing conservation resources to shift from monitoring likely-extinct populations toward establishing and sustaining **viable populations** — a stated pr...
 > -- *[[DraftInterimGilaTopminnowExtir_11679]]*
 
+> This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
+> -- *[[DraftProposedCriteriaForDesign_14776]]*
+
 ## Mentioned In
 - [[DraftInterimGilaTopminnowExtir_11679]]
 - [[HistoryOfBylasTopminnowPopulat_1989_02_08]]
 - [[LetterToWLMinckleyOnNativeAriz_1985_02_08]]
+- [[DraftProposedCriteriaForDesign_14776]]

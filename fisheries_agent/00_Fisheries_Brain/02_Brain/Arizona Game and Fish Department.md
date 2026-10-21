@@ -311,6 +311,24 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > This memorandum from the [[Glen Canyon Environmental Studies]] (GCES) program, dated November 24, 1992, outlines coordination plans for a December 1, 1992 meeting of principle investigators conducting native fish research in [[Grand Canyon]]. The document focuses on integrating research efforts...
 > -- *[[GlenCanyonEnvironmentalStudies_19708]]*
 
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
+> This completion report documents wildlife habitat monitoring along the [[Gila River]] from Phoenix to [[Gillespie Dam]] during August 1965 to July 1966, in response to a proposed Army Corps of Engineers flood control project. The project would have cleared a 2,000-foot-wide channel through critical...
+> -- *[[GilaAndSaltRiverClearningAndCh_12483]]*
+
+> This February 1990 correspondence from the Bureau of Reclamation Lower Colorado Regional Office documents an interagency initiative to develop native fish rearing facilities on [[Lake Mohave]] for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The proposal...
+> -- *[[InteragencyProposalToExamineTh_13018]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
+> -- *[[DraftProposedCriteriaForDesign_14776]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -580,3 +598,9 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[DeclineInLowFlowsOfSanPedroAnd_18974]]
 - [[GilaTopminnowSitesInArizonaPro_19668]]
 - [[GlenCanyonEnvironmentalStudies_19708]]
+- [[BiologicalOpinionOfFederalAids_11920]]
+- [[GilaAndSaltRiverClearningAndCh_12483]]
+- [[InteragencyProposalToExamineTh_13018]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[DraftProposedCriteriaForDesign_14776]]
+- [[AbstractsFromTheDesertFishesCo_15019]]

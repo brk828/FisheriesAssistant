@@ -17,6 +17,9 @@ USFWS (United States Fish and Wildlife Service) is the primary federal agency re
 > Official correspondence from the U.S. Fish and Wildlife Service Regional Director to the Desert Fishes Council Executive Secretary dated January 14, 1987, regarding unauthorized collection of endangered fish and reptiles at [[Cuatro Cienegas]], [[Coahuila]], [[Mexico]]. The letter addresses...
 > -- *[[UnauthorizedCollectingInMexico_20833]]*
 
+> This document comprises correspondence from the [[Desert Fishes Council]] (DFC) regarding a dispute with the [[U.S. Fish and Wildlife Service]] (Service) over the "Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin." The DFC was excluded from initial...
+> -- *[[ReUsFishAndWildlifeServicedese_13754]]*
+
 ## Mentioned In
 - [[DraftFinalRuleToDesignateARein_1993_07_21]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
@@ -24,3 +27,4 @@ USFWS (United States Fish and Wildlife Service) is the primary federal agency re
 - [[VariousProposalsForStudiesOfEn_1993_12_17]]
 - [[GilaTaxonomyProjectIssuesAndPr_14720]]
 - [[UnauthorizedCollectingInMexico_20833]]
+- [[ReUsFishAndWildlifeServicedese_13754]]

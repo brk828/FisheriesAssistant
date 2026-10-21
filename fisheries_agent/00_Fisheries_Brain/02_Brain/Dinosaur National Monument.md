@@ -89,6 +89,9 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 > This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
 > -- *[[PartICurrentSituationPartIiAPr_13306]]*
 
+> This final report synthesizes findings from the [[Colorado River Fishes Monitoring Project]] (1982-1985) and related studies conducted by the U.S. Fish and Wildlife Service Vernal Field Station in the [[Green River Basin]] from 1979-1986. The study focused primarily on three federally endangered...
+> -- *[[GreenRiverRareAndEndangeredFis_13060]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -128,3 +131,4 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 - [[RadioTelemetryMonitoringOfStoc_11424]]
 - [[HabitatUseAndStreamflowNeedsOf_11609]]
 - [[PartICurrentSituationPartIiAPr_13306]]
+- [[GreenRiverRareAndEndangeredFis_13060]]

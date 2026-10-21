@@ -26,6 +26,9 @@ auto_enriched: true
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
 ## Mentioned In
 - [[FactorsInfluencingFishDistribu_15011]]
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
@@ -33,3 +36,4 @@ auto_enriched: true
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[EndangeredAndThreatenedWildlif_11550]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[DraftEnvironmentalAssessmentDe_11688]]

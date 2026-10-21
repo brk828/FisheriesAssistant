@@ -26,6 +26,12 @@ Gar are a complex of primitive, elongated predatory fishes in the genus Lepisost
 > This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
 > -- *[[MichiganFishPredators_12681]]*
 
+> This job completion report documents the chemical treatment of [[Century Lake]] (555 acres, reduced to 463 acres at treatment) and 1.5 miles of [[White Oak Creek]] in [[Hopkins County]], Texas on May 15-16, 1963. The treatment used 995 gallons of 5% rotenone to remove the existing fish population,...
+> -- *[[StatewideRoughRishControlJobNo_19049]]*
+
+> This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
+> -- *[[SummaryOfCommercialFisheriesCa_19834]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[CausesOfDeathAmongIndianaFishe_1945]]
@@ -33,3 +39,5 @@ Gar are a complex of primitive, elongated predatory fishes in the genus Lepisost
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[WhatHaveICaught_12929]]
 - [[MichiganFishPredators_12681]]
+- [[StatewideRoughRishControlJobNo_19049]]
+- [[SummaryOfCommercialFisheriesCa_19834]]

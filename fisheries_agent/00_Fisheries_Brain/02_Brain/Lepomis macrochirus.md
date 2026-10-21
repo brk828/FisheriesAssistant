@@ -44,6 +44,9 @@ auto_enriched: true
 > This document is a comprehensive reference compilation of calorific values (gram-calories per gram dry weight and per ash-free gram) for organisms across all trophic levels, published as the second edition in October 1967 by Kenneth W. Cummins at the [[Pymatuning Laboratory of Ecology]],...
 > -- *[[CalorificEquivalentsForStudies_18098]]*
 
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -63,3 +66,4 @@ auto_enriched: true
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[CalorificEquivalentsForStudies_18098]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]

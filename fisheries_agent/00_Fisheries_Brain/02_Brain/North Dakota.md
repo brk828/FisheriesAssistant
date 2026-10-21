@@ -14,6 +14,10 @@ North Dakota is the state whose Game and Fish Department conducted the 1957 surv
 > This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
 > -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
 
+> This document presents methods developed at the [[U.S. Fisheries Biological Station]] in [[Fairport, Iowa]] for successfully collecting and hatching eggs of buffalo-fishes (genus [[Ictiobus]]), addressing previous failures in artificial propagation of these commercially important food fishes. The...
+> -- *[[MethodsOfCollectingAndHatching_17372]]*
+
 ## Mentioned In
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
+- [[MethodsOfCollectingAndHatching_17372]]

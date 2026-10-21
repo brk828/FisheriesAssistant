@@ -32,6 +32,12 @@ Tule Creek is a lotic (flowing water) system in Arizona that has served as a stu
 > This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
 > -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
 
+> This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
+> -- *[[DraftProposedCriteriaForDesign_14776]]*
+
+> This Bureau of Land Management memorandum reports on the construction and initial effects of a riparian exclosure at [[Tule Creek]], Arizona, designed to protect habitat for the [[Gila Topminnow]] (Poeciliopsis occidentalis) population. Construction occurred April-May 1991 by Arizona Game and Fish...
+> -- *[[TuleCreekExclosureProjectSumma_17655]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnDraftRevise_1993_09_08]]
 - [[BiologicalOpinionTuleCreekRipa_1991_09_03]]
@@ -41,3 +47,5 @@ Tule Creek is a lotic (flowing water) system in Arizona that has served as a stu
 - [[PopulationEcologyOfTheSonoranM_21071]]
 - [[TuleCreekPipelineProjectSummar_17654]]
 - [[GilaTopminnowSitesInArizonaPro_19668]]
+- [[DraftProposedCriteriaForDesign_14776]]
+- [[TuleCreekExclosureProjectSumma_17655]]

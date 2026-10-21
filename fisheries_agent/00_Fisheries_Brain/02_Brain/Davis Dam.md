@@ -110,6 +110,9 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
 > -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
 
+> This 1951 report by the Fisheries Task Group of the [[Colorado River Great Basin Field Committee]] presents a comprehensive survey of the Lower Colorado River fishery from [[Hoover Dam]] to the Mexican border. The study divides the river into seven sections, each assessed individually for present...
+> -- *[[FisheriesReportOfTheLowerColor_19846]]*
+
 ## Mentioned In
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -157,3 +160,4 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[FormalSectionConsultationOnThe_11836]]
 - [[PartICurrentSituationPartIiAPr_13306]]
 - [[GeneticDiversityOfRazorbackSuc_19126]]
+- [[FisheriesReportOfTheLowerColor_19846]]

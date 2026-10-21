@@ -68,6 +68,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > A fisheries survey conducted November 14-15, 1997 along [[Turkey Creek]] on the west side of the [[Chiricahua Mountains]], [[Cochise County]], Arizona documented four fish species. The survey was motivated by reports of [[Fathead Minnow]] (Pimephales promelas) in Lodge Pond. Sampling confirmed the...
 > -- *[[TurkeyCreekFisheriesSurveyCoch_17218]]*
 
+> This correspondence from the [[Desert Fishes Recovery Team]] to the U.S. Fish and Wildlife Service Regional Director documents recommendations and action items from their April 17, 1986 meeting in Tucson, Arizona. The team addresses critical conservation issues for multiple endangered desert fish...
+> -- *[[ItemsToBringToYourAttentionAft_13731]]*
+
 ## Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -138,3 +141,4 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[EnvironmentalAssessmentAndHabi_11684]]
 - [[SanBernardinoAndLeslieCanyonNa_11694]]
 - [[TurkeyCreekFisheriesSurveyCoch_17218]]
+- [[ItemsToBringToYourAttentionAft_13731]]

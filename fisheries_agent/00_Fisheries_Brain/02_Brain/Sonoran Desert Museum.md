@@ -11,5 +11,9 @@ The Sonoran Desert Museum maintained captive populations of desert pupfish for c
 > This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
 > -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
 
+> This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
+> -- *[[DraftProposedCriteriaForDesign_14776]]*
+
 ## Mentioned In
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
+- [[DraftProposedCriteriaForDesign_14776]]

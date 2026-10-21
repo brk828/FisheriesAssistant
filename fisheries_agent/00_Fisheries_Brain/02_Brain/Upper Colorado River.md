@@ -53,6 +53,12 @@ The Upper Colorado River refers to the section of the Colorado River system abov
 > This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
 > -- *[[DesertFishesCouncilEighteenthA_12829]]*
 
+> This September 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates the need for and design of a dedicated hatchery to produce endangered [[Colorado River]] fishes. The study addresses production requirements through 1996 for three species:...
+> -- *[[ColoradoRiverEndangeredFishHat_13665]]*
+
+> This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DevelopmentOfAStandardizedMoni_15549]]*
+
 ## Mentioned In
 - [[DesertFishesCouncilOverviewAnd_1974_07_26]]
 - [[DevelopAndRefineYearRoundFlowN_1993]]
@@ -74,3 +80,5 @@ The Upper Colorado River refers to the section of the Colorado River system abov
 - [[AnInvestigationOfEndangeredAnd_12516]]
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[DesertFishesCouncilEighteenthA_12829]]
+- [[ColoradoRiverEndangeredFishHat_13665]]
+- [[DevelopmentOfAStandardizedMoni_15549]]

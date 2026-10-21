@@ -29,6 +29,9 @@ Bylas Springs refers to an isolated desert spring-fed habitat system located in 
 > This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
 > -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
 
+> The [[Arizona Fishery Resources Office]] (AzFRO) successfully restored [[Gila Topminnow]] habitat at the Bylas Springs complex on the [[San Carlos Indian Reservation]] through a multi-agency partnership. The project addressed the near-extinction of [[Poeciliopsis occidentalis occidentalis]], once...
+> -- *[[NewFishHabitatRestorationAndPa_11759]]*
+
 ## Mentioned In
 - [[GilaTopminnowReintroductionSBy_1996_08_27]]
 - [[HistoryOfBylasTopminnowPopulat_1989_02_08]]
@@ -38,3 +41,4 @@ Bylas Springs refers to an isolated desert spring-fed habitat system located in 
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[StatusReportForNaturalAndIntro_12972]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
+- [[NewFishHabitatRestorationAndPa_11759]]

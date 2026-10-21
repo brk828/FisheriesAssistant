@@ -77,6 +77,12 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 > This document contains administrative correspondence and planning materials for the 1996 [[Glen Canyon Dam]] experimental high flow release, designed as a beach/habitat building test. The primary document is a schedule revision memo dated January 9, 1996, from the [[Bureau of Reclamation]]'s [[Glen...
 > -- *[[ChangeInScheduleForExperimenta_19736]]*
 
+> This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
+> -- *[[InformationRegardingManagement_16919]]*
+
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
 ## Mentioned In
 - [[CommentsOnDraftColoradoRiverEn_1993_12_28]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -110,3 +116,5 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 - [[FiscalYearAnnualMonitoringAndR_17765]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[ChangeInScheduleForExperimenta_19736]]
+- [[InformationRegardingManagement_16919]]
+- [[RealitiesOfProvidingWaterForEn_20669]]

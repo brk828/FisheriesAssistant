@@ -44,6 +44,9 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 > This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
 > -- *[[AdverseBiologicalOpinionIndian_15638]]*
 
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
 ## Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[ComparativeEcologyOfNotropisAl_14679]]
@@ -65,3 +68,4 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 - [[ANewSpeciesOfAquaticIsopodCrus_17104]]
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
 - [[AdverseBiologicalOpinionIndian_15638]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]

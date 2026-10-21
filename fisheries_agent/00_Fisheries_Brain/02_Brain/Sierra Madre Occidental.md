@@ -29,6 +29,9 @@ The Sierra Madre Occidental is a major physiographic and tectonic province in no
 > This management plan proposes the establishment of the "Sierra San Luis" Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in northwestern Mexico along the border with the United States. The area spans the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]]...
 > -- *[[ManagementPlanSierraSanLuisWil_18303]]*
 
+> This geological study presents new cartographic data from the Yecora-Maicova sector of the [[Sierra Madre Occidental]] in [[Sonora]], [[Mexico]], between parallels 28°15' and 28°30'. The research demonstrates that the Tertiary volcanic sequence must distinguish between basalts and ignimbrites, with...
+> -- *[[GeologiedonneesPreliminairesSu_15989]]*
+
 ## Mentioned In
 - [[MiseEnÉvidenceDUnGraniteSubvol_1981_12_14]]
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
@@ -37,3 +40,4 @@ The Sierra Madre Occidental is a major physiographic and tectonic province in no
 - [[APetitionPursuantToArticleOfTh_17637]]
 - [[ManagementPlanSierraSanLuisWil_11399]]
 - [[ManagementPlanSierraSanLuisWil_18303]]
+- [[GeologiedonneesPreliminairesSu_15989]]

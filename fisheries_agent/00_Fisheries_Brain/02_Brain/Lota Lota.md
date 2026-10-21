@@ -11,6 +11,10 @@ auto_enriched: true
 > **Habitat differentiation (Lule Älv system, 1952–1957 study):** - **213 specimens** of *C. gobio* and **58 specimens** of *C. poecilopus* were collected in Lule Älv; in the nearby **Skellefte Älv**, 54 *C. gobio* and only 2 *C. poecilopus* were found. - **Exclusive *C. gobio* habitat** — Bodträsk...
 > -- *[[BeitragZurSystematikUndVerbrei_1960_05_30]]*
 
+> This 1953 study by A.N. Svetovidov provides a comprehensive comparative analysis of brain structure across the family [[Gadidae]] (codfishes), examining representatives from three subfamilies: [[Lotinae]], [[Merlucciinae]], and [[Gadinae]]. The research documents detailed morphological descriptions...
+> -- *[[MaterialsOnTheStructureOfTheFi_15061]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[BeitragZurSystematikUndVerbrei_1960_05_30]]
+- [[MaterialsOnTheStructureOfTheFi_15061]]

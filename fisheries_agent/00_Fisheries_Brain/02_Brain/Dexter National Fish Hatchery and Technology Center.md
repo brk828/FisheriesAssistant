@@ -47,6 +47,15 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 > This Environmental Assessment evaluates three management alternatives for the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in southeastern Arizona for the period 1995-2015. The refuges were established to conserve threatened and endangered fish and...
 > -- *[[SanBernardinoAndLeslieCanyonNa_11694]]*
 
+> This draft final report presents a comprehensive biochemical genetic analysis of [[Colorado Squawfish]] (*Ptychocheilus lucius*), a large river cyprinid listed as endangered in 1967. The study examined 833 individuals (151 wild adults, 64 juveniles, 478 young-of-year, and 140 hatchery-reared fish)...
+> -- *[[BiochemicalGeneticsOfEndangere_12089]]*
+
+> This study evaluated five tagging and marking systems for three endangered [[Colorado River]] fishes: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and [[Bonytail]] (*Gila elegans*). Conducted from October 1989 to March 1991 at three U.S. Fish and...
+> -- *[[AStudyToEvaluateSeveralTagging_13901]]*
+
+> This 1993 technical document from the [[San Marcos National Fish Hatchery]] provides comprehensive genetic management guidelines for federal fish hatcheries in Region 2. The document addresses growing concerns that hatchery operations may threaten wild fish populations through genetic degradation,...
+> -- *[[GeneralGeneticGuidelinesForReg_18841]]*
+
 ## Mentioned In
 - [[AnnualReportOnUSBureauOfReclam_19117]]
 - [[BonytailChubsHeldAtWillowBeach_1993_05_13]]
@@ -79,3 +88,6 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 - [[DraftRecoveryPlanForTheEndange_11645]]
 - [[DraftLowerColoradoRiverOperati_13907]]
 - [[SanBernardinoAndLeslieCanyonNa_11694]]
+- [[BiochemicalGeneticsOfEndangere_12089]]
+- [[AStudyToEvaluateSeveralTagging_13901]]
+- [[GeneralGeneticGuidelinesForReg_18841]]

@@ -53,6 +53,9 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 > This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
 > -- *[[StatewideRoughFishControlfishE_14929]]*
 
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[ACaseOfAlbinismInTheTadpoleMad_20472]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -112,3 +115,4 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 - [[CodeOfFederalRegulationsPartEn_11616]]
 - [[RediscoveryAndDescriptionOfThe_13513]]
 - [[StatewideRoughFishControlfishE_14929]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

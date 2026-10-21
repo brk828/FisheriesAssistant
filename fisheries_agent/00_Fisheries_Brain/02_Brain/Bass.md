@@ -26,6 +26,9 @@ Bass refers to a group of freshwater game fish species, including largemouth bas
 > This progress report documents the second year (1951) of the [[Adirondack Trout Restoration Project]], an experimental fisheries management program aimed at reclaiming former trout waters now inhabited by less desirable species. The reclamation procedure involves chemical eradication using...
 > -- *[[TroutRestorationInTheAdirondac_20206]]*
 
+> This document provides a comprehensive overview of sunfish species (family [[Centrarchidae]]) native to [[New York State]], focusing on three principal species: the [[Pumpkinseed]] (*Lepomis gibbosus*), [[Blue-gill]] (*Lepomis macrochirus*), and [[Red-bellied Sunfish]] (*Lepomis auritus*). The text...
+> -- *[[Sunfishes_19212]]*
+
 ## Mentioned In
 - [[BaitMinnowsAndTheirPropagation_14538]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -35,3 +38,4 @@ Bass refers to a group of freshwater game fish species, including largemouth bas
 - [[OperationalPlanForTheReclamati_13373]]
 - [[WhyLinkSpeciesAndEcosystemsAPe_1994]]
 - [[TroutRestorationInTheAdirondac_20206]]
+- [[Sunfishes_19212]]

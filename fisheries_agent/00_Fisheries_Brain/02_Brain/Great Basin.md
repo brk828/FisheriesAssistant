@@ -47,6 +47,15 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 > This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
 > -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
 
+> This 1967 report by George L. Batchelder provides a comprehensive synthesis of the Pleistocene geology and ecology of the [[Mono Basin]], California. The basin offers a unique opportunity to study synchronous glaciation and lacustrine fluctuations during the Quaternary. The document describes...
+> -- *[[TheMonoBasin_15632]]*
+
+> This 1965 report documents the first confirmed occurrences of [[Lost River Sucker]] (*Deltistes luxatus*) and [[Shortnose Sucker]] (*Chasmistes brevirostris*) in California waters, adding both species to the state's freshwater fish fauna. Previously known only from the [[Klamath Lakes]] drainage in...
+> -- *[[OccurrencesOfTheLostRiverSucke_17577]]*
+
+> This 1991 correspondence from E.P. Pister, Executive Secretary of the [[Desert Fishes Council]], to Bruce Schmidt of the [[Utah Division of Wildlife Resources]] clarifies philosophical positions on fisheries management presented at the Western Division AFS meeting in Bozeman. The letter addresses...
+> -- *[[ReactionsToTalkAtAfsMeetingInB_18595]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -62,3 +71,6 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 - [[DesertFishesCouncilEighteenthA_12829]]
 - [[PhylogenyOfPyrgulopsisSpringsn_16724]]
 - [[MxMissileSystemAnUrgentLetterF_20507]]
+- [[TheMonoBasin_15632]]
+- [[OccurrencesOfTheLostRiverSucke_17577]]
+- [[ReactionsToTalkAtAfsMeetingInB_18595]]

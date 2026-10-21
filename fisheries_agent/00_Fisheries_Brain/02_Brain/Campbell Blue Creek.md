@@ -26,6 +26,9 @@ auto_enriched: true
 > This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
 > -- *[[AdverseBiologicalOpinionIndian_15638]]*
 
+> This document is a formal consultation letter from the [[U.S. Fish and Wildlife Service]] (USFWS) Arizona Ecological Services Field Office to the [[Apache-Sitgreaves National Forest]] regarding 27 proposed forest management projects submitted for Section 7 consultation under the [[Endangered...
+> -- *[[ReWrittenConcurrenceOnTheFores_11749]]*
+
 ## Mentioned In
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
 - [[EndangeredAndThreatenedWildlif_16787]]
@@ -35,3 +38,4 @@ auto_enriched: true
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[BiologicalOpinionSummaryBlueRi_11685]]
 - [[AdverseBiologicalOpinionIndian_15638]]
+- [[ReWrittenConcurrenceOnTheFores_11749]]

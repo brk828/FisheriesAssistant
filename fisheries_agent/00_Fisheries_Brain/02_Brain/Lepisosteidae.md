@@ -32,6 +32,15 @@ Lepisosteidae, commonly known as gars, is a family of primitive freshwater and b
 > Field observations and laboratory study documenting eggs and newly hatched fry of [[Shortnose Gar]] (*Lepisosteus platostomus*) collected from the [[Marias des Cygnes River]] in Miami County, Kansas on May 25, 1956. The study describes collection habitat, early developmental stages, and...
 > -- *[[NotesOnTheEarlyLifeHistoryOfLe_18548]]*
 
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -50,3 +59,6 @@ Lepisosteidae, commonly known as gars, is a family of primitive freshwater and b
 - [[DistributionalAndLocalVernacul_13815]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[NotesOnTheEarlyLifeHistoryOfLe_18548]]
+- [[ListOfFishesReportedFromKansas_18026]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

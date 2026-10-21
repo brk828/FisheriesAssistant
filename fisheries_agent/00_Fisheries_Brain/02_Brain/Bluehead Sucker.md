@@ -98,6 +98,18 @@ The Bluehead Sucker (Pantosteus delphinus) is a native catostomid fish species f
 > This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
 > -- *[[GlenCanyonEnvironmentalStudies_19719]]*
 
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
+> This document presents a standardized protocol for non-lethal tissue collection from [[Razorback Sucker]] (*Xyrauchen texanus*) and related sucker species across the [[Colorado River Basin]] for genetic analysis during FY 1991. Five sampling teams were assigned specific locations and sample number...
+> -- *[[RazorbackSuckerNonlethalTissue_12081]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
+> -- *[[InformationRegardingManagement_16919]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -174,3 +186,7 @@ The Bluehead Sucker (Pantosteus delphinus) is a native catostomid fish species f
 - [[FiscalYearAnnualMonitoringAndR_17765]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
+- [[BiologicalOpinionOfFederalAids_11920]]
+- [[RazorbackSuckerNonlethalTissue_12081]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[InformationRegardingManagement_16919]]

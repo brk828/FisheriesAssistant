@@ -41,6 +41,12 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 > This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
 > -- *[[ColoradoRiverFisheriesInvestig_18481]]*
 
+> This 1991 correspondence from E.P. Pister, Executive Secretary of the [[Desert Fishes Council]], to Bruce Schmidt of the [[Utah Division of Wildlife Resources]] clarifies philosophical positions on fisheries management presented at the Western Division AFS meeting in Bozeman. The letter addresses...
+> -- *[[ReactionsToTalkAtAfsMeetingInB_18595]]*
+
+> This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
+> -- *[[FyAnnualProjectReportColoradoR_21244]]*
+
 ## Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[CaptureOfRareFishInLakePowell_1988_08_18]]
@@ -66,3 +72,5 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 - [[AspinalUnitStudiesEvaluationOf_20259]]
 - [[DraftColoradoSquawfishRecovery_11545]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
+- [[ReactionsToTalkAtAfsMeetingInB_18595]]
+- [[FyAnnualProjectReportColoradoR_21244]]

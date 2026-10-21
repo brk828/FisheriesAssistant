@@ -26,6 +26,9 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 > This 1959 thesis by Judith A. Loring examines the reliability of the tooth patch on the tongue as a diagnostic character for identifying [[Micropterus punctulatus]] (spotted black bass). The study analyzed specimens from Kentucky and surrounding states, comparing tooth patch presence across...
 > -- *[[AStudyOfTheToothPatchOnTheSpot_16200]]*
 
+> This 1955 fisheries bulletin reports growth rates of [[White Crappie]] (*Pomoxis annularis*) in the [[Tennessee River]] tailwaters below [[Kentucky Dam]], Kentucky. Scale samples from 237 specimens collected May-December 1952 revealed average growth of 3.4 inches in year one, reaching 11.9 inches...
+> -- *[[GrowthRatesOfTheWhiteCrappiePo_16032]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
@@ -44,3 +47,4 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 - [[VariabilityOfInfectionOfBlackS_1959]]
 - [[YoungFishDistributionInBackwat_1989]]
 - [[AStudyOfTheToothPatchOnTheSpot_16200]]
+- [[GrowthRatesOfTheWhiteCrappiePo_16032]]

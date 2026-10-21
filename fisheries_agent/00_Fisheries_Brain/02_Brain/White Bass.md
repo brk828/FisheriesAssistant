@@ -86,6 +86,9 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
 > -- *[[TheEnvironmentalConditionsOfAn_16280]]*
 
+> This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
+> -- *[[SummaryOfCommercialFisheriesCa_19834]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -132,3 +135,4 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[BioassayAndUseOfPituitaryMater_15952]]
 - [[FishingInTwelveMichiganLakesUn_16148]]
 - [[TheEnvironmentalConditionsOfAn_16280]]
+- [[SummaryOfCommercialFisheriesCa_19834]]

@@ -35,6 +35,12 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 > This report presents results from C¹⁴ primary productivity studies conducted at [[Twin Lakes]], [[Colorado]], from 1973-81, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study characterizes baseline primary production rates in these high-mountain lakes (2802 m elevation)...
 > -- *[[PrimaryProductivityCAtTwinLake_12652]]*
 
+> This job progress report documents the second year (October 1, 1978 to September 30, 1979) of the [[Colorado Division of Wildlife]]'s endangered fish monitoring program targeting [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Humpback Chub]] (*Gila cypha*). Field crews sampled five trend...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12715]]*
+
+> This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
+> -- *[[FyAnnualProjectReportColoradoR_21244]]*
+
 ## Mentioned In
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
 - [[ColoradoSquawfishInteragencyTr_1973]]
@@ -49,3 +55,5 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 - [[SavingColoradosBigRiverFish_20737]]
 - [[DraftColoradoSquawfishRecovery_11545]]
 - [[PrimaryProductivityCAtTwinLake_12652]]
+- [[ColoradoSquawfishAndHumpbackCh_12715]]
+- [[FyAnnualProjectReportColoradoR_21244]]

@@ -179,6 +179,24 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
 > -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
 
+> The [[Arizona Fishery Resources Office]] (AzFRO) successfully restored [[Gila Topminnow]] habitat at the Bylas Springs complex on the [[San Carlos Indian Reservation]] through a multi-agency partnership. The project addressed the near-extinction of [[Poeciliopsis occidentalis occidentalis]], once...
+> -- *[[NewFishHabitatRestorationAndPa_11759]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
+> -- *[[DraftProposedCriteriaForDesign_14776]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This Bureau of Land Management memorandum reports on the construction and initial effects of a riparian exclosure at [[Tule Creek]], Arizona, designed to protect habitat for the [[Gila Topminnow]] (Poeciliopsis occidentalis) population. Construction occurred April-May 1991 by Arizona Game and Fish...
+> -- *[[TuleCreekExclosureProjectSumma_17655]]*
+
+> This Master's thesis by Robert Eugene Forrest (University of Arizona, 1992) quantifies microhabitat use and preference of the federally endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) through field observations in [[Cienega Creek]], Arizona, and controlled laboratory...
+> -- *[[HabitatUseAndPreferenceOfGilaT_18783]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -411,3 +429,9 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[TuleCreekPipelineProjectSummar_17654]]
 - [[IntroductionOfGilaTopminnowAnd_17957]]
 - [[GilaTopminnowSitesInArizonaPro_19668]]
+- [[NewFishHabitatRestorationAndPa_11759]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[DraftProposedCriteriaForDesign_14776]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[TuleCreekExclosureProjectSumma_17655]]
+- [[HabitatUseAndPreferenceOfGilaT_18783]]

@@ -29,6 +29,9 @@ The Blue Sucker (*Cycleptus* genus) is a large-bodied freshwater fish species na
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
+> -- *[[SummaryOfCommercialFisheriesCa_19834]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[EndangeredThreatenedAndRarePla_14903]]
@@ -37,3 +40,4 @@ The Blue Sucker (*Cycleptus* genus) is a large-bodied freshwater fish species na
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[WhatHaveICaught_12929]]
+- [[SummaryOfCommercialFisheriesCa_19834]]

@@ -29,6 +29,9 @@ The Pacific Ocean, in the context of fish science and conservation biology, repr
 > This 1929 paper by [[Carl L. Hubbs]] examines the relationship between hydrographic conditions and deep-sea fish fauna in two contrasting isolated marine basins of the Western Pacific: the [[Sea of Japan]] and the [[Sulu Sea]] complex. The study demonstrates how physical barriers (shallow straits)...
 > -- *[[TheHydrographicAndFaunalIndepe_19989]]*
 
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[AKeyToTheSnooksGenusCentropomu_17270]]
 - [[StationProfileOfKooskiaNationa_19543]]
@@ -38,3 +41,4 @@ The Pacific Ocean, in the context of fish science and conservation biology, repr
 - [[BathyconchoeciaDeeveyaeAHighly_12629]]
 - [[ANewSpeciesOfAquaticIsopodCrus_17104]]
 - [[TheHydrographicAndFaunalIndepe_19989]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

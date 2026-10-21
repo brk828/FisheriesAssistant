@@ -20,8 +20,12 @@ Drum (freshwater drum) is a rough fish species that showed dramatic population i
 > This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
 > -- *[[CreelCensusReport_11332]]*
 
+> This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
+> -- *[[SummaryOfCommercialFisheriesCa_19834]]*
+
 ## Mentioned In
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[WhatHaveICaught_12929]]
 - [[RoughFishControl_20167]]
 - [[CreelCensusReport_11332]]
+- [[SummaryOfCommercialFisheriesCa_19834]]

@@ -17,7 +17,11 @@ Alabama is the location where this pond management guidance was developed and ap
 > This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
 > -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
 
+> This Federal Register notice (Vol. 56, No. 225, November 21, 1991) presents the U.S. Fish and Wildlife Service's updated compilation of vertebrate and invertebrate animal taxa native to the United States being reviewed for possible addition to the List of Endangered and Threatened Wildlife under...
+> -- *[[EndangeredAndThreatenedWildlif_11596]]*
+
 ## Mentioned In
 - [[ClearingMuddyFishponds_17942]]
 - [[ANewGenusAndTwoNewSpeciesOfEnt_20413]]
 - [[TheUseOfChannelCatfishAsSportF_18662]]
+- [[EndangeredAndThreatenedWildlif_11596]]

@@ -41,6 +41,9 @@ auto_enriched: true
 > This taxonomic study redescribes the [[Texas Troglobitic Water Slater]], originally described as *Caecidotea smithii* by Ulrich in 1902 from a single incomplete specimen. Based on numerous specimens collected from the [[San Marcos Artesian Well]] beginning in December 1973, the authors establish...
 > -- *[[RedescriptionAndAssignmentToTh_17755]]*
 
+> This Federal Register notice (Vol. 56, No. 225, November 21, 1991) presents the U.S. Fish and Wildlife Service's updated compilation of vertebrate and invertebrate animal taxa native to the United States being reviewed for possible addition to the List of Endangered and Threatened Wildlife under...
+> -- *[[EndangeredAndThreatenedWildlif_11596]]*
+
 ## Mentioned In
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[TheSpawningBehaviorOfTheChanne_15949]]
@@ -54,3 +57,4 @@ auto_enriched: true
 - [[TheUseOfChannelCatfishAsSportF_18662]]
 - [[StatewideRoughFishControlfishE_14929]]
 - [[RedescriptionAndAssignmentToTh_17755]]
+- [[EndangeredAndThreatenedWildlif_11596]]

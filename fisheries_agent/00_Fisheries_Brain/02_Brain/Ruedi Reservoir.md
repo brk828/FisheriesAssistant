@@ -41,6 +41,9 @@ Ruedi Reservoir is a water storage facility on the Colorado River system whose r
 > This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
 > -- *[[FiscalYearProgramGuidance_11762]]*
 
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held September 13, 1989, in Lakewood, Colorado. The meeting addressed recovery efforts for rare and endangered fish species in the [[Colorado River Basin]], focusing on water...
+> -- *[[ManagementGroupMeetingSummarSe_21019]]*
+
 ## Mentioned In
 - [[MemorandumOnColoradoRiverRecov_21012]]
 - [[RequestForReleasesFromRuedigre_1989_06_08]]
@@ -54,3 +57,4 @@ Ruedi Reservoir is a water storage facility on the Colorado River system whose r
 - [[DraftFiveyearRoadMap_11579]]
 - [[FiscalYearWorkPlan_11743]]
 - [[FiscalYearProgramGuidance_11762]]
+- [[ManagementGroupMeetingSummarSe_21019]]

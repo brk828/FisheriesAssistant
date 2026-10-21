@@ -32,6 +32,12 @@ Cottidae is a family of benthic freshwater and marine fishes commonly known as s
 > **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
 > -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
 
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AListOfOntarioFishes_11321]]
@@ -47,3 +53,5 @@ Cottidae is a family of benthic freshwater and marine fishes commonly known as s
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[PatternsAndPredictorsOfFishDis_2013]]
 - [[ElectrofishingAndItsHarmfulEff_2003]]
+- [[FishesNativeToOrIntroducedInPa_18945]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

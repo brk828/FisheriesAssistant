@@ -155,6 +155,30 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
 > -- *[[FinalProgressReport_18563]]*
 
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This 1953 study by A.N. Svetovidov provides a comprehensive comparative analysis of brain structure across the family [[Gadidae]] (codfishes), examining representatives from three subfamilies: [[Lotinae]], [[Merlucciinae]], and [[Gadinae]]. The research documents detailed morphological descriptions...
+> -- *[[MaterialsOnTheStructureOfTheFi_15061]]*
+
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
+> This legal notice from the Sierra Club Legal Defense Fund, dated June 22, 1994, addresses violations of the Endangered Species Act (ESA) related to operation of the [[Quail Creek Reservoir Project]] in the [[Virgin River Basin]], Utah. The document notifies the Secretary of the Interior and Bureau...
+> -- *[[ViolationOfQuailCreekReservoir_18647]]*
+
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -447,3 +471,11 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[ColoradoSquawfishPtychocheilus_13278]]
 - [[StatewideRoughFishControlfishE_14929]]
 - [[FinalProgressReport_18563]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[MaterialsOnTheStructureOfTheFi_15061]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]
+- [[ListOfFishesReportedFromKansas_18026]]
+- [[ViolationOfQuailCreekReservoir_18647]]
+- [[FishesNativeToOrIntroducedInPa_18945]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

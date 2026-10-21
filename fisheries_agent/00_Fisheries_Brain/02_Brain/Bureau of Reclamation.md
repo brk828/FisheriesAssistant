@@ -248,6 +248,27 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > This document contains administrative correspondence and planning materials for the 1996 [[Glen Canyon Dam]] experimental high flow release, designed as a beach/habitat building test. The primary document is a schedule revision memo dated January 9, 1996, from the [[Bureau of Reclamation]]'s [[Glen...
 > -- *[[ChangeInScheduleForExperimenta_19736]]*
 
+> This 1986 memorandum from the [[Bureau of Reclamation]] Upper Colorado Regional Office to the [[U.S. Fish and Wildlife Service]] Endangered Species Office proposes collaboration with Dr. W. L. Minckley of [[Arizona State University]] on basin-wide systematic studies of the genus *[[Gila]]*. The...
+> -- *[[FutureGilaWork_11987]]*
+
+> This February 1990 correspondence from the Bureau of Reclamation Lower Colorado Regional Office documents an interagency initiative to develop native fish rearing facilities on [[Lake Mohave]] for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The proposal...
+> -- *[[InteragencyProposalToExamineTh_13018]]*
+
+> This final report synthesizes findings from the [[Colorado River Fishes Monitoring Project]] (1982-1985) and related studies conducted by the U.S. Fish and Wildlife Service Vernal Field Station in the [[Green River Basin]] from 1979-1986. The study focused primarily on three federally endangered...
+> -- *[[GreenRiverRareAndEndangeredFis_13060]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This 1990 environmental assessment proposes establishing a native fish rearing facility at [[Yuma Cove]], [[Lake Mohave]], to prevent extirpation of the [[Razorback Sucker]] (*Xyrauchen texanus*). The species, once common throughout the [[Colorado River]] system from Wyoming to Mexico, is now...
+> -- *[[EnvironmentalAssessmentForLake_15466]]*
+
+> This document comprises a 1990 proposal and preliminary investigation by the [[Larval Fish Laboratory]] at [[Colorado State University]] addressing concerns about electrofishing impacts on fish in [[Grand Canyon National Park]]. The [[National Park Service]] mandated evaluation of electrofishing...
+> -- *[[DraftDocumentimpactsOfElectrof_19691]]*
+
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -390,3 +411,10 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[GlenCanyonEnvironmentalStudies_15938]]
 - [[WorkshopProceedings_18372]]
 - [[ChangeInScheduleForExperimenta_19736]]
+- [[FutureGilaWork_11987]]
+- [[InteragencyProposalToExamineTh_13018]]
+- [[GreenRiverRareAndEndangeredFis_13060]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[EnvironmentalAssessmentForLake_15466]]
+- [[DraftDocumentimpactsOfElectrof_19691]]
+- [[RealitiesOfProvidingWaterForEn_20669]]

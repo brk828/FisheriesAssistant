@@ -32,6 +32,9 @@ The Utah Chub (Gila atraria) is a cyprinid fish species native to the Great Basi
 > This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
 > -- *[[ReviewOfPotentialForageFishInt_19139]]*
 
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
 ## Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[EndangeredAndThreatenedFishInT_1979]]
@@ -42,3 +45,4 @@ The Utah Chub (Gila atraria) is a cyprinid fish species native to the Great Basi
 - [[InterimProceduresForStockingNo_15423]]
 - [[LakeAndReservoirInvestigations_12145]]
 - [[ReviewOfPotentialForageFishInt_19139]]
+- [[FishesNativeToOrIntroducedInPa_18945]]

@@ -86,6 +86,12 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 > This document is a formal biological opinion issued by the [[U.S. Fish and Wildlife Service]] on February 15, 1995, regarding the repair and replacement of segments of the [[Aravaipa Creek]] road in [[Pinal County]], Arizona. The consultation addresses potential impacts to two threatened fish...
 > -- *[[BiologicalOpinionForRepairAndo_11904]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This proposal, submitted by Arizona State University to the Arizona Game and Fish Department in July 1986, outlines a one-year study to evaluate potential interactions between imperiled native [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]) versus introduced [[Red...
+> -- *[[SpikedaceAndLoachMinnowStudyAP_16483]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyWa_1994_01_31]]
 - [[CommentsOnTheDraftActivityPlan_13812]]
@@ -123,3 +129,5 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 - [[BiologicalOpinionForTheBridgeC_11732]]
 - [[AgencyReviewDraftLoachMinnowTi_19398]]
 - [[BiologicalOpinionForRepairAndo_11904]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[SpikedaceAndLoachMinnowStudyAP_16483]]

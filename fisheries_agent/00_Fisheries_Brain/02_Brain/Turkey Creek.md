@@ -50,6 +50,12 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 > This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
 > -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
 
+> This status report documents [[Lilaeopsis schaffneriana]] subspecies recurva, a rare semi-aquatic perennial plant endemic to cienega wetlands in southeastern Arizona and adjacent Sonora, Mexico. The taxon is a USFWS Candidate Category 2 species and USFS Sensitive Plant. Surveys conducted 1988-1990...
+> -- *[[StatusReportLilaeopsisSchaffne_14909]]*
+
+> This doctoral dissertation (Oklahoma State University, 1966) investigated how domestic sewage and oil refinery effluents affected the morphological characteristics and population structure of three cyprinid fish species in [[Skeleton Creek]], Oklahoma. Between June 1963 and May 1964, the author...
+> -- *[[TheEffectOfDomesticAndOilRefin_15666]]*
+
 ## Mentioned In
 - [[AravaipaShinerSurveyJuly_1998_07_10]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -73,3 +79,5 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 - [[NoticeOfRestrictedVehicleUseTe_18773]]
 - [[TurkeyCreekFisheriesSurveyCoch_17218]]
 - [[GilaTopminnowSitesInArizonaPro_19668]]
+- [[StatusReportLilaeopsisSchaffne_14909]]
+- [[TheEffectOfDomesticAndOilRefin_15666]]

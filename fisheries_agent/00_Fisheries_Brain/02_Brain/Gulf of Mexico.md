@@ -38,6 +38,12 @@ The Gulf of Mexico is a major biogeographic region and drainage basin in ichthyo
 > This article from Montana Fish & Game Department (August 1969) describes [[Gambusia affinis affinis]] (mosquitofish) and their use in biological mosquito control. The species is native to the Gulf Coast and Mississippi River system but has been widely introduced for pest control purposes. In 1969,...
 > -- *[[LittleFishDoesBigThings_16549]]*
 
+> This letter report from the EPA Border Environmental Plan Public Advisory Committee to Administrator Carol Browner (July 22, 1993) documents critical environmental and public health concerns in the [[U.S.-Mexico Border Region]]. The Committee, working with the [[Udall Center for Studies in Public...
+> -- *[[StateOfTheUsmexicoBorderEnviro_14365]]*
+
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
 ## Mentioned In
 - [[AnOutlineForTheStudyOfEstuarin_1954_10_31]]
 - [[BookReviewOfFreshwaterFishesOf_1969]]
@@ -57,3 +63,5 @@ The Gulf of Mexico is a major biogeographic region and drainage basin in ichthyo
 - [[BayesianEstimationOfVonBertala_2025]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[LittleFishDoesBigThings_16549]]
+- [[StateOfTheUsmexicoBorderEnviro_14365]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]

@@ -17,7 +17,11 @@ Leonard Canyon is a tributary of East Clear Creek in Coconino County, Arizona, a
 > This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
 > -- *[[LiteratureReviewAndImpactRepor_14988]]*
 
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[LiteratureReviewAndImpactRepor_14988]]
+- [[BiologicalOpinionOfFederalAids_11920]]

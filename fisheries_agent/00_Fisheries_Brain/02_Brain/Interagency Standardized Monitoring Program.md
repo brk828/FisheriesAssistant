@@ -26,6 +26,12 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 > This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
 > -- *[[FiscalYearProgramGuidance_11762]]*
 
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
+> This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DevelopmentOfAStandardizedMoni_15549]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DetermineStatusOfColoradoSquaw_11150]]
@@ -35,3 +41,5 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[HighlightsOfAPeerReviewAndRoun_11448]]
 - [[FiscalYearProgramGuidance_11762]]
+- [[FiscalYearWorkPlan_11742]]
+- [[DevelopmentOfAStandardizedMoni_15549]]

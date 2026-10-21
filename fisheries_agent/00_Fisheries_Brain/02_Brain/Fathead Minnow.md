@@ -158,6 +158,15 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > [[Antimycin]] is a newly developed antibiotic fish toxicant discovered in 1945 at the [[University of Wisconsin]] Department of Plant Pathology. By 1963, researchers identified its high toxicity to fish at concentrations harmless to other animals. The [[Fish Control Laboratory]] at [[La Crosse]]...
 > -- *[[AntimycinaNewFisheryTool_20243]]*
 
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
+> This October 1955 California Department of Fish and Game bulletin describes an active program to introduce four non-native forage fish species into California's warmwater reservoirs to support predatory gamefish populations. The program, led by Associate Fisheries Biologist J.B. Kimsey, addresses...
+> -- *[[ForageFish_12530]]*
+
+> This report documents a two-year experimental project (1941-1942) on the propagation of [[Creek Chub]] (*Semotilus atromaculatus atromaculatus*) in hatchery ponds at State Fish Farm No. 1, [[St. Marys]], Ohio. Conducted by the Ohio Division of Conservation and Natural Resources, the study aimed to...
+> -- *[[CreekChubMinnowPropagation_15905]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -297,3 +306,6 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[TurkeyCreekFisheriesSurveyCoch_17218]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[AntimycinaNewFisheryTool_20243]]
+- [[BiologicalOpinionOfFederalAids_11920]]
+- [[ForageFish_12530]]
+- [[CreekChubMinnowPropagation_15905]]

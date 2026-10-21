@@ -47,6 +47,9 @@ The Lahontan Cutthroat Trout is a threatened native salmonid species endemic to 
 > This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
 > -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
 
+> This 1964 study by [[John R. Calaprice]] and [[John E. Cushing]] investigated erythrocyte (red blood cell) antigens in California trout species to determine if immunogenetic techniques could identify relationships and variation useful for fisheries management. The research examined [[Golden Trout]]...
+> -- *[[ErythrocyteAntigensOfCaliforni_17330]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -72,3 +75,4 @@ The Lahontan Cutthroat Trout is a threatened native salmonid species endemic to 
 - [[StatewideFisheriesResearch_13299]]
 - [[MxMissileSystemeffectsOnDesert_20506]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[ErythrocyteAntigensOfCaliforni_17330]]

@@ -17,6 +17,12 @@ Mosquito fish (Gambusia affinis) are small, hardy livebearing cyprinodontids com
 > This draft recovery plan for the [[Warm Springs Pupfish]] (*Cyprinodon nevadensis pectoralis*) was prepared by an interagency recovery team in April 1976. The subspecies is one of six described forms of *C. nevadensis*, with two already extinct. *C. n. pectoralis* has the most localized...
 > -- *[[WarmSpringsPupfish_13288]]*
 
+> This 1942 report documents the first confirmed occurrence of ten-pounders ([[Elops affinis]]) in the [[Salton Sea]], California, representing a potential new sport fishery for this previously barren water body. Between May 14-24, 1942, commercial fishermen and biologists captured 244 specimens...
+> -- *[[AGameFishForTheSaltonSeaTheTen_12860]]*
+
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
 ## Mentioned In
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
@@ -24,3 +30,5 @@ Mosquito fish (Gambusia affinis) are small, hardy livebearing cyprinodontids com
 - [[ToxicityOfDursbanToThreeSpecie_16343]]
 - [[InterimProceduresForStockingNo_15423]]
 - [[WarmSpringsPupfish_13288]]
+- [[AGameFishForTheSaltonSeaTheTen_12860]]
+- [[FishesNativeToOrIntroducedInPa_18945]]

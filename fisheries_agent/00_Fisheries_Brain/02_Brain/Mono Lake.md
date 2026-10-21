@@ -20,6 +20,9 @@ auto_enriched: true
 > This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
 > -- *[[FishesAndAquaticResourcesDeath_15415]]*
 
+> This 1967 report by George L. Batchelder provides a comprehensive synthesis of the Pleistocene geology and ecology of the [[Mono Basin]], California. The basin offers a unique opportunity to study synchronous glaciation and lacustrine fluctuations during the Quaternary. The document describes...
+> -- *[[TheMonoBasin_15632]]*
+
 ## Mentioned In
 - [[KiatuthlannaALimnologicalAppra_1965_II]]
 - [[LetterToLeonRSilberbergerReMon_1986_03_13]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[ConservationOfNativeFreshwater_15444]]
 - [[FishesAndAquaticResourcesDeath_15415]]
+- [[TheMonoBasin_15632]]

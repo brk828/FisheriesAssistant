@@ -17,7 +17,11 @@ Cattails (Typha) are aquatic vegetation found in Owens Pupfish habitat. The pupf
 > **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
 > -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
 
+> This technical guidance document from the U.S. Department of Agriculture [[Soil Conservation Service]] provides specifications for designing and constructing farm ponds optimized for fish production. The document addresses water supply management, pond dimensions, outlet structures, vegetation...
+> -- *[[HowToBuildAFarmPondForFishProd_13264]]*
+
 ## Mentioned In
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[PropagationOfBaitMinnowsInCali_18150]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
+- [[HowToBuildAFarmPondForFishProd_13264]]

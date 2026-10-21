@@ -200,6 +200,24 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 > This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
 > -- *[[GlenCanyonEnvironmentalStudies_19719]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
+> This study evaluated instream flow requirements for three native fish species—[[Roundtail Chub]] (*Gila robusta robusta*), [[Sonora Sucker]] (*Catostomus insignis*), and [[Desert Sucker]] (*Catostomus clarki*)—in the [[Burro Creek]] drainage of west-central Arizona using the Incremental...
+> -- *[[EvaluationOfTheInstreamFlowReq_13030]]*
+
+> This feasibility study proposal evaluates non-lethal stomach pumping techniques for assessing food habits of [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The study addresses concerns about potential damage to pharyngeal teeth during stomach content recovery. Using surrogate species...
+> -- *[[ANonlethalStomachPumpToRecover_13647]]*
+
+> This document comprises a 1990 proposal and preliminary investigation by the [[Larval Fish Laboratory]] at [[Colorado State University]] addressing concerns about electrofishing impacts on fish in [[Grand Canyon National Park]]. The [[National Park Service]] mandated evaluation of electrofishing...
+> -- *[[DraftDocumentimpactsOfElectrof_19691]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -368,3 +386,9 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 - [[ReassessmentOfOriginalInformat_13790]]
 - [[PartManagementConcernsPriority_14724]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[FiscalYearWorkPlan_11742]]
+- [[BiologicalOpinionOfFederalAids_11920]]
+- [[EvaluationOfTheInstreamFlowReq_13030]]
+- [[ANonlethalStomachPumpToRecover_13647]]
+- [[DraftDocumentimpactsOfElectrof_19691]]

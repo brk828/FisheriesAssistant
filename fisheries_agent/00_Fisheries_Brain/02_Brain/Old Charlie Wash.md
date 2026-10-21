@@ -11,6 +11,14 @@ auto_enriched: true
 > This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
 > -- *[[DraftRecoveryImplementationPro_11643]]*
 
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
+> This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DevelopmentOfAStandardizedMoni_15549]]*
+
 ## Mentioned In
 - [[AnalysisOfPastCollectionsFromT_1993]]
 - [[DraftRecoveryImplementationPro_11643]]
+- [[FiscalYearWorkPlan_11742]]
+- [[DevelopmentOfAStandardizedMoni_15549]]

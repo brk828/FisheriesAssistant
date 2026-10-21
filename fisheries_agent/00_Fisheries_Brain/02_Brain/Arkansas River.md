@@ -29,6 +29,12 @@ The Arkansas River represents a significant interjurisdictional aquatic system i
 > This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
 > -- *[[TheEnvironmentalConditionsOfAn_16280]]*
 
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[NewLocalityRecordsForSomeKansa_1981]]
@@ -38,3 +44,5 @@ The Arkansas River represents a significant interjurisdictional aquatic system i
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[TheEnvironmentalConditionsOfAn_16280]]
+- [[ListOfFishesReportedFromKansas_18026]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]

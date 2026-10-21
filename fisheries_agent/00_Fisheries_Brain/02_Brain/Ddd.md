@@ -14,7 +14,11 @@ I appreciate your question, but I must clarify that "Ddd" does not appear to be 
 > This 1964 Fish and Wildlife Service Circular (No. 226) documents the Bureau of Commercial Fisheries' research into the impacts of synthetic organic pesticides on marine and estuarine ecosystems in the United States. Work was centered at three laboratories: the **Technological Laboratory** (Pascag...
 > -- *[[EffectsOfPesticidesOnFishAndWi_14331]]*
 
+> This comprehensive 1962 report by the [[Fish and Wildlife Service]] (Circular No. 143) summarizes research findings from 1960 on pesticide effects across wildlife, sport fisheries, and commercial fisheries. The document fulfills Public Law 85-582 mandating the Service to evaluate pesticide impacts...
+> -- *[[EffectsOfPesticidesOnFishAndWi_12842]]*
+
 ## Mentioned In
 - [[ConsiderationsForAcceptableCon_15438]]
 - [[DdtMetabolismInToler_1966]]
 - [[EffectsOfPesticidesOnFishAndWi_14331]]
+- [[EffectsOfPesticidesOnFishAndWi_12842]]

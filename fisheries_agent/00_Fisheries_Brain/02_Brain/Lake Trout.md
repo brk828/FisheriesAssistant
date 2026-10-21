@@ -65,6 +65,15 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 > Between 1963 and 1964, California and Nevada fisheries agencies introduced approximately 182,300 live [[Mysis relicta]] (opossum shrimp) into four western lakes: [[Lake Tahoe]], [[Lower Echo Lake]], [[Huntington Lake]], and [[Blue Lake]]. The primary objective was to establish a forage base for...
 > -- *[[IntroductionOfTheOpossumShrimp_20345]]*
 
+> This baseline study documents the ecology of [[White Sucker]] (*Catostomus commersoni*) and [[Longnose Sucker]] (*Catostomus catostomus*) populations in [[Twin Lakes]], Colorado, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Research conducted from 1971-1978 examined age and...
+> -- *[[EcologyOfCatostomidsInTwinLake_12424]]*
+
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
+> This 1958 study by Wilbur L. Hartman investigated whether sedating fish with [[Urethane]] reduced measurement error and improved accuracy when recording fork and total lengths. Four groups of fish were measured repeatedly while normal and while drugged: yearling [[Brown Trout]], yearling [[Lake...
+> -- *[[TheUseOfSedativesToReduceManip_20686]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -124,3 +133,6 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 - [[PrimaryProductivityCAtTwinLake_12652]]
 - [[FishAndFishEggDistributionRepo_13434]]
 - [[IntroductionOfTheOpossumShrimp_20345]]
+- [[EcologyOfCatostomidsInTwinLake_12424]]
+- [[FishesNativeToOrIntroducedInPa_18945]]
+- [[TheUseOfSedativesToReduceManip_20686]]

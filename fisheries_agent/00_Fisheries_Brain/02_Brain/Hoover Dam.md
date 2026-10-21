@@ -131,6 +131,18 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 > This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
 > -- *[[PartICurrentSituationPartIiAPr_13306]]*
 
+> This draft management plan addresses the conservation and recovery of four endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]]...
+> -- *[[DraftLowerColoradoRiverBasinNa_11664]]*
+
+> This letter from the Arizona Game and Fish Department to the U.S. Fish and Wildlife Service critiques a Biological Assessment prepared by the Bureau of Reclamation regarding proposed modifications to the [[Hoover Dam]] Power Plant. The Department identifies significant deficiencies in the...
+> -- *[[ReviewOfBiologicalAssessmentFo_13470]]*
+
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
+> This 1951 report by the Fisheries Task Group of the [[Colorado River Great Basin Field Committee]] presents a comprehensive survey of the Lower Colorado River fishery from [[Hoover Dam]] to the Mexican border. The study divides the river into seven sections, each assessed individually for present...
+> -- *[[FisheriesReportOfTheLowerColor_19846]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -206,3 +218,7 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 - [[RainbowSmeltProposalReview_17848]]
 - [[DraftColoradoSquawfishRecovery_11545]]
 - [[PartICurrentSituationPartIiAPr_13306]]
+- [[DraftLowerColoradoRiverBasinNa_11664]]
+- [[ReviewOfBiologicalAssessmentFo_13470]]
+- [[ABibliographyOfTheFederallyEnd_14370]]
+- [[FisheriesReportOfTheLowerColor_19846]]

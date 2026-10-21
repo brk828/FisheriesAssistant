@@ -161,6 +161,24 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
 > -- *[[GlenCanyonEnvironmentalStudies_19719]]*
 
+> This document presents a standardized protocol for non-lethal tissue collection from [[Razorback Sucker]] (*Xyrauchen texanus*) and related sucker species across the [[Colorado River Basin]] for genetic analysis during FY 1991. Five sampling teams were assigned specific locations and sample number...
+> -- *[[RazorbackSuckerNonlethalTissue_12081]]*
+
+> This consensus report presents findings from a scientific peer review panel convened by the American Institute of Biological Sciences (AIBS) to evaluate the draft Conservation Strategy for the [[Lower Colorado River]] Multi-Species Conservation Program (LCR MSCP). The panel met July 12, 1999 in Las...
+> -- *[[DraftConsesusReportOnTheDraftC_13540]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
+> -- *[[InformationRegardingManagement_16919]]*
+
+> This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
+> -- *[[DraftConservationAgreementVirg_18320]]*
+
+> This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
+> -- *[[FyAnnualProjectReportColoradoR_21244]]*
+
 ## Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -317,3 +335,9 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[GeneticDiversityOfRazorbackSuc_19126]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
+- [[RazorbackSuckerNonlethalTissue_12081]]
+- [[DraftConsesusReportOnTheDraftC_13540]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[InformationRegardingManagement_16919]]
+- [[DraftConservationAgreementVirg_18320]]
+- [[FyAnnualProjectReportColoradoR_21244]]

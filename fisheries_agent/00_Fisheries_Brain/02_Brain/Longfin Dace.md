@@ -149,6 +149,21 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 > This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
 > -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
 
+> This comprehensive monitoring plan establishes protocols for the [[San Pedro Riparian National Conservation Area]] (RNCA), established by Public Law 100-696 (Arizona-Idaho Conservation Act of 1988). The 56,430-acre conservation area protects one of the most extensive remaining broadleaf riparian...
+> -- *[[SanPedroRiparianNationalConser_11468]]*
+
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This study evaluated instream flow requirements for three native fish species—[[Roundtail Chub]] (*Gila robusta robusta*), [[Sonora Sucker]] (*Catostomus insignis*), and [[Desert Sucker]] (*Catostomus clarki*)—in the [[Burro Creek]] drainage of west-central Arizona using the Incremental...
+> -- *[[EvaluationOfTheInstreamFlowReq_13030]]*
+
+> This correspondence from the [[Desert Fishes Recovery Team]] to the U.S. Fish and Wildlife Service Regional Director documents recommendations and action items from their April 17, 1986 meeting in Tucson, Arizona. The team addresses critical conservation issues for multiple endangered desert fish...
+> -- *[[ItemsToBringToYourAttentionAft_13731]]*
+
+> This Master's thesis by Robert Eugene Forrest (University of Arizona, 1992) quantifies microhabitat use and preference of the federally endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) through field observations in [[Cienega Creek]], Arizona, and controlled laboratory...
+> -- *[[HabitatUseAndPreferenceOfGilaT_18783]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -269,3 +284,8 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 - [[TheDesertPupfishOfOrganPipeNat_18555]]
 - [[ArizonaDepartmentOfWaterResour_18960]]
 - [[GilaTopminnowSitesInArizonaPro_19668]]
+- [[SanPedroRiparianNationalConser_11468]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[EvaluationOfTheInstreamFlowReq_13030]]
+- [[ItemsToBringToYourAttentionAft_13731]]
+- [[HabitatUseAndPreferenceOfGilaT_18783]]

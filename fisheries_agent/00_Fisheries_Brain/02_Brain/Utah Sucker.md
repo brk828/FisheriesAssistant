@@ -20,6 +20,9 @@ The Utah Sucker (*Catostomus ardens*) is a native cyprinid species of the Colora
 > **Taxonomic & Life-History Summary:** [[June Sucker]] (*Chasmistes liorus*) is one of four extant lakesucker species in North America (family [[Catostomidae]]), endemic to [[Utah Lake]] and its tributaries. First described by Jordan (1878) from specimens collected in the 1870s, the species was...
 > -- *[[StatusOfJuneSuckerInUtahLakeAn_2007]]*
 
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedFishInT_1979]]
 - [[PopulationDifferentiationAndIn_1987]]
@@ -27,3 +30,4 @@ The Utah Sucker (*Catostomus ardens*) is a native cyprinid species of the Colora
 - [[ResponseToAmericanSocietyOfIch_1987_10_09]]
 - [[DraftdistributionAndIncidenceO_12207]]
 - [[StatusOfJuneSuckerInUtahLakeAn_2007]]
+- [[AbstractsFromTheDesertFishesCo_15019]]

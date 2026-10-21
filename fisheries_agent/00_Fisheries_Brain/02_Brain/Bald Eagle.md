@@ -110,6 +110,24 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 > This February 1992 report by [[World Wildlife Fund]] analyzes Section 7 consultation data under the [[Endangered Species Act]] (ESA) from Fiscal Years 1987-1991. The study examines consultation records from every regional office of the [[U.S. Fish and Wildlife Service]] (FWS) and [[National Marine...
 > -- *[[ForConservingListedSpeciesTalk_15635]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This document is a formal consultation letter from the [[U.S. Fish and Wildlife Service]] (USFWS) Arizona Ecological Services Field Office to the [[Apache-Sitgreaves National Forest]] regarding 27 proposed forest management projects submitted for Section 7 consultation under the [[Endangered...
+> -- *[[ReWrittenConcurrenceOnTheFores_11749]]*
+
+> This October 1983 memorandum from the U.S. Fish and Wildlife Service to the Bureau of Indian Affairs addresses a formal Section 7 consultation regarding the proposed [[Miner Flat Dam]] project on the [[White River]] system in Arizona. While no effects are anticipated on [[Peregrine Falcon]], [[Bald...
+> -- *[[FormalSectionConsultationMiner_11842]]*
+
+> This study evaluated instream flow requirements for three native fish species—[[Roundtail Chub]] (*Gila robusta robusta*), [[Sonora Sucker]] (*Catostomus insignis*), and [[Desert Sucker]] (*Catostomus clarki*)—in the [[Burro Creek]] drainage of west-central Arizona using the Incremental...
+> -- *[[EvaluationOfTheInstreamFlowReq_13030]]*
+
+> This consensus report presents findings from a scientific peer review panel convened by the American Institute of Biological Sciences (AIBS) to evaluate the draft Conservation Strategy for the [[Lower Colorado River]] Multi-Species Conservation Program (LCR MSCP). The panel met July 12, 1999 in Las...
+> -- *[[DraftConsesusReportOnTheDraftC_13540]]*
+
+> This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
+> -- *[[InformationRegardingManagement_16919]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[BiologicalOpinionOnTheProposed_13196]]
@@ -161,3 +179,9 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 - [[WildlifeStudiesPatuxentWildlif_14328]]
 - [[ForConservingListedSpeciesTalk_15635]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[ReWrittenConcurrenceOnTheFores_11749]]
+- [[FormalSectionConsultationMiner_11842]]
+- [[EvaluationOfTheInstreamFlowReq_13030]]
+- [[DraftConsesusReportOnTheDraftC_13540]]
+- [[InformationRegardingManagement_16919]]

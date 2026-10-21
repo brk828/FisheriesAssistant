@@ -119,6 +119,12 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 > This document contains administrative correspondence and planning materials for the 1996 [[Glen Canyon Dam]] experimental high flow release, designed as a beach/habitat building test. The primary document is a schedule revision memo dated January 9, 1996, from the [[Bureau of Reclamation]]'s [[Glen...
 > -- *[[ChangeInScheduleForExperimenta_19736]]*
 
+> This feasibility study proposal evaluates non-lethal stomach pumping techniques for assessing food habits of [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The study addresses concerns about potential damage to pharyngeal teeth during stomach content recovery. Using surrogate species...
+> -- *[[ANonlethalStomachPumpToRecover_13647]]*
+
+> This document comprises a 1990 proposal and preliminary investigation by the [[Larval Fish Laboratory]] at [[Colorado State University]] addressing concerns about electrofishing impacts on fish in [[Grand Canyon National Park]]. The [[National Park Service]] mandated evaluation of electrofishing...
+> -- *[[DraftDocumentimpactsOfElectrof_19691]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -206,3 +212,5 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 - [[GlenCanyonEnvironmentalStudies_19708]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[ChangeInScheduleForExperimenta_19736]]
+- [[ANonlethalStomachPumpToRecover_13647]]
+- [[DraftDocumentimpactsOfElectrof_19691]]

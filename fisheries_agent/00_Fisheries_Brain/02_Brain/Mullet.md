@@ -17,8 +17,16 @@ Mullet refers to a diverse group of commercially and ecologically important fish
 > This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
 > -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
 
+> This comprehensive 1962 report by the [[Fish and Wildlife Service]] (Circular No. 143) summarizes research findings from 1960 on pesticide effects across wildlife, sport fisheries, and commercial fisheries. The document fulfills Public Law 85-582 mandating the Service to evaluate pesticide impacts...
+> -- *[[EffectsOfPesticidesOnFishAndWi_12842]]*
+
+> This 1942 report documents the first confirmed occurrence of ten-pounders ([[Elops affinis]]) in the [[Salton Sea]], California, representing a potential new sport fishery for this previously barren water body. Between May 14-24, 1942, commercial fishermen and biologists captured 244 specimens...
+> -- *[[AGameFishForTheSaltonSeaTheTen_12860]]*
+
 ## Mentioned In
 - [[DeltaNotesFactsAndSpeculationO_1985_01_30]]
 - [[GrossPrimaryProductivityConsum_12275]]
 - [[TheOptomotorReactionOfSchoolin_11406]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[EffectsOfPesticidesOnFishAndWi_12842]]
+- [[AGameFishForTheSaltonSeaTheTen_12860]]

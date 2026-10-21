@@ -29,6 +29,9 @@ Simuliidae is a family of aquatic insects commonly known as black flies, whose l
 > This 1968 technical report by Brehmer, Ball, and Kevern examines the biological and chemical characteristics of the [[Red Cedar River]] near [[Williamston, Michigan]], focusing on the impacts of domestic sewage pollution on water quality and benthic invertebrate communities. The study employed six...
 > -- *[[TheBiologyAndChemistryOfAWarmw_12927]]*
 
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
 ## Mentioned In
 - [[LifeHistoryOfTheBrindledMadtom_14059]]
 - [[MiddleGilaRiverAquaticStudy_12505]]
@@ -38,3 +41,4 @@ Simuliidae is a family of aquatic insects commonly known as black flies, whose l
 - [[TheEffectsOfDamOperationsOnAqu_1991]]
 - [[TheInstarsOfSimuliumOrnatumVar_20678]]
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]

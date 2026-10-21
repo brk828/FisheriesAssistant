@@ -65,6 +65,15 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 > [[Antimycin]] is a newly developed antibiotic fish toxicant discovered in 1945 at the [[University of Wisconsin]] Department of Plant Pathology. By 1963, researchers identified its high toxicity to fish at concentrations harmless to other animals. The [[Fish Control Laboratory]] at [[La Crosse]]...
 > -- *[[AntimycinaNewFisheryTool_20243]]*
 
+> This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
+> -- *[[StatewideRoughFishControljobNo_14932]]*
+
+> This 1955 fisheries bulletin reports growth rates of [[White Crappie]] (*Pomoxis annularis*) in the [[Tennessee River]] tailwaters below [[Kentucky Dam]], Kentucky. Scale samples from 237 specimens collected May-December 1952 revealed average growth of 3.4 inches in year one, reaching 11.9 inches...
+> -- *[[GrowthRatesOfTheWhiteCrappiePo_16032]]*
+
+> This job completion report documents the chemical treatment of [[Century Lake]] (555 acres, reduced to 463 acres at treatment) and 1.5 miles of [[White Oak Creek]] in [[Hopkins County]], Texas on May 15-16, 1963. The treatment used 995 gallons of 5% rotenone to remove the existing fish population,...
+> -- *[[StatewideRoughRishControlJobNo_19049]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -119,3 +128,6 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 - [[BioassayAndUseOfPituitaryMater_15952]]
 - [[TheEnvironmentalConditionsOfAn_16280]]
 - [[AntimycinaNewFisheryTool_20243]]
+- [[StatewideRoughFishControljobNo_14932]]
+- [[GrowthRatesOfTheWhiteCrappiePo_16032]]
+- [[StatewideRoughRishControlJobNo_19049]]

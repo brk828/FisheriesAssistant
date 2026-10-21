@@ -14,6 +14,10 @@ auto_enriched: true
 > - **[[Muskrat]]** (*Ondatra zibethicus*) — semi-aquatic rodent; studies addressed sex/age tagging, drowning mortality, fungal skin disease, and population fluctuation dynamics in marsh habitats (refs. 84, 86, 106, 115, 122, 138). - **[[Northern Bobwhite]]** (*Colinus virginianus*) — gallinaceous ...
 > -- *[[SurveyOfALifeSWritingPaulLErri_1964_05_15]]*
 
+> This is the fourth annual progress report (1979-1982) on a comprehensive mammal survey of the [[George Whittell Wildlife Preserve]] in the [[Aravaipa Creek]] watershed, Arizona. The survey documented 60 mammal species as actual, probable, or possible inhabitants, with 45 species confirmed for the...
+> -- *[[ReportOnTheSurveyOfTheMammalsO_11840]]*
+
 ## Mentioned In
 - [[CatalogingOfSmallImpoundmentOf_12167]]
 - [[SurveyOfALifeSWritingPaulLErri_1964_05_15]]
+- [[ReportOnTheSurveyOfTheMammalsO_11840]]

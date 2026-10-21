@@ -20,8 +20,12 @@ The Mallard (Anas platyrhynchos) is a common duck species studied extensively fo
 > [[Antimycin]] is a newly developed antibiotic fish toxicant discovered in 1945 at the [[University of Wisconsin]] Department of Plant Pathology. By 1963, researchers identified its high toxicity to fish at concentrations harmless to other animals. The [[Fish Control Laboratory]] at [[La Crosse]]...
 > -- *[[AntimycinaNewFisheryTool_20243]]*
 
+> This historical account describes a December hunting expedition down the [[Colorado River]] from [[Yuma]] and up the [[Hardy River]] in [[Lower California]], Mexico. The party traveled 109 miles down the Colorado and attempted 100 miles up the Hardy to reach volcanoes. While primarily a hunting...
+> -- *[[AHuntingTripDownTheColorado_17597]]*
+
 ## Mentioned In
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[StatusOfTheHybridOffspringOfTw_15617]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[AntimycinaNewFisheryTool_20243]]
+- [[AHuntingTripDownTheColorado_17597]]

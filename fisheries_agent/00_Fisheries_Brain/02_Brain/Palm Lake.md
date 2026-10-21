@@ -32,6 +32,9 @@ Palm Lake is an artificial impounded reservoir located within the Hassayampa Riv
 > This correspondence from the [[Arizona Game and Fish Department]] documents a sampling effort conducted on October 26-27, 1992 at [[Palm Lake]] ([[Hassayampa River Preserve]]) to assess the survival of endangered native fish species stocked in 1989 and 1990. The assessment followed a summer...
 > -- *[[PalmLakenativeFishStatus_20905]]*
 
+> This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
+> -- *[[DraftProposedCriteriaForDesign_14776]]*
+
 ## Mentioned In
 - [[HassayampaLakeRenova_16653]]
 - [[PalmLakeNativeFishRenovationPr_1987_06_29]]
@@ -41,3 +44,4 @@ Palm Lake is an artificial impounded reservoir located within the Hassayampa Riv
 - [[FishMonitoringOfPalmLakeHassay_16635]]
 - [[PalmLakeMeetingjanuary_20906]]
 - [[PalmLakenativeFishStatus_20905]]
+- [[DraftProposedCriteriaForDesign_14776]]

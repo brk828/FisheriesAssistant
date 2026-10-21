@@ -380,6 +380,42 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > [[Antimycin]] is a newly developed antibiotic fish toxicant discovered in 1945 at the [[University of Wisconsin]] Department of Plant Pathology. By 1963, researchers identified its high toxicity to fish at concentrations harmless to other animals. The [[Fish Control Laboratory]] at [[La Crosse]]...
 > -- *[[AntimycinaNewFisheryTool_20243]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
+> This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
+> -- *[[StatewideRoughFishControljobNo_14932]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This correspondence from the [[University of Michigan]] [[Museum of Zoology]] Division of Fishes provides expert identification of five catfish specimens submitted by the [[Dexter National Fish Hatchery]] in [[New Mexico]]. The analysis confirms hybridization between [[Yaqui Catfish]] ([[Ictalurus...
+> -- *[[ReportOnYaquiCatfishReceived_15380]]*
+
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
+> This 1993 technical document from the [[San Marcos National Fish Hatchery]] provides comprehensive genetic management guidelines for federal fish hatcheries in Region 2. The document addresses growing concerns that hatchery operations may threaten wild fish populations through genetic degradation,...
+> -- *[[GeneralGeneticGuidelinesForReg_18841]]*
+
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
+> This job completion report documents the chemical treatment of [[Century Lake]] (555 acres, reduced to 463 acres at treatment) and 1.5 miles of [[White Oak Creek]] in [[Hopkins County]], Texas on May 15-16, 1963. The treatment used 995 gallons of 5% rotenone to remove the existing fish population,...
+> -- *[[StatewideRoughRishControlJobNo_19049]]*
+
+> This 1951 report by the Fisheries Task Group of the [[Colorado River Great Basin Field Committee]] presents a comprehensive survey of the Lower Colorado River fishery from [[Hoover Dam]] to the Mexican border. The study divides the river into seven sections, each assessed individually for present...
+> -- *[[FisheriesReportOfTheLowerColor_19846]]*
+
+> This correspondence documents three fish stocking events at [[Topock Marsh]], Arizona in 1977 where shipments from [[Tisomingo National Fish Hatchery]] in Oklahoma inadvertently introduced multiple non-target species alongside requested fish. The incidents involved [[Channel Catfish]] (March 30),...
+> -- *[[ContaminatedFishStockingsIntoT_20328]]*
+
+> This creel census study examined seasonal patterns in fishing pressure and harvest on a 7-mile section of the [[Des Moines River]] in [[Boone County]], Iowa, between July 1957 and September 1958. The study area, located between Fraser and Boone dams, was surveyed using a modified Latin square...
+> -- *[[SeasonalChangesInHarvestAndFis_20577]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -736,3 +772,15 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[AntimycinaNewFisheryTool_20243]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[BiologicalOpinionOfFederalAids_11920]]
+- [[StatewideRoughFishControljobNo_14932]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[ReportOnYaquiCatfishReceived_15380]]
+- [[ListOfFishesReportedFromKansas_18026]]
+- [[GeneralGeneticGuidelinesForReg_18841]]
+- [[FishesNativeToOrIntroducedInPa_18945]]
+- [[StatewideRoughRishControlJobNo_19049]]
+- [[FisheriesReportOfTheLowerColor_19846]]
+- [[ContaminatedFishStockingsIntoT_20328]]
+- [[SeasonalChangesInHarvestAndFis_20577]]

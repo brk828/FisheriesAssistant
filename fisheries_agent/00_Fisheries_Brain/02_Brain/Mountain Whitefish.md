@@ -35,6 +35,9 @@ Mountain Whitefish (Prosopium williamsoni) is a native North American salmonid s
 > This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
 > -- *[[CreelCensusReport_11332]]*
 
+> This 1967 report by George L. Batchelder provides a comprehensive synthesis of the Pleistocene geology and ecology of the [[Mono Basin]], California. The basin offers a unique opportunity to study synchronous glaciation and lacustrine fluctuations during the Quaternary. The document describes...
+> -- *[[TheMonoBasin_15632]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
@@ -50,3 +53,4 @@ Mountain Whitefish (Prosopium williamsoni) is a native North American salmonid s
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[MechanicalSuppressionOfInvasiv_2024]]
 - [[CreelCensusReport_11332]]
+- [[TheMonoBasin_15632]]

@@ -14,6 +14,10 @@ The Cactus Ferruginous Pygmy-Owl is mentioned in this document but no specific i
 > SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
 > -- *[[BiologicalEvaluationOfTheAppro_15074]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
 ## Mentioned In
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[BiologicalEvaluationOfTheAppro_15074]]
+- [[DraftEnvironmentalAssessmentDe_11688]]

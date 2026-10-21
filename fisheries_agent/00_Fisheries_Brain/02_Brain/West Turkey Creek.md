@@ -32,6 +32,9 @@ West Turkey Creek is a perennial stream in the Rio Yaqui drainage basin of south
 > This Environmental Assessment and Habitat Conservation Plan (EA/HCP) addresses the issuance of an Incidental Take Permit under Section 10(a)(1)(B) of the [[Endangered Species Act]] for [[El Coronado Ranch]] (ECR) in [[Cochise County]], [[Arizona]]. The document covers ranching operations on 6,153...
 > -- *[[EnvironmentalAssessmentAndHabi_11684]]*
 
+> This correspondence from the [[Desert Fishes Recovery Team]] to the U.S. Fish and Wildlife Service Regional Director documents recommendations and action items from their April 17, 1986 meeting in Tucson, Arizona. The team addresses critical conservation issues for multiple endangered desert fish...
+> -- *[[ItemsToBringToYourAttentionAft_13731]]*
+
 ## Mentioned In
 - [[ChiricahuaRegionalCouncilNewsl_16142]]
 - [[FishHealthInspectionReportDext_1999]]
@@ -44,3 +47,4 @@ West Turkey Creek is a perennial stream in the Rio Yaqui drainage basin of south
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[EcosystemRepairByHeadwaterEros_15854]]
 - [[EnvironmentalAssessmentAndHabi_11684]]
+- [[ItemsToBringToYourAttentionAft_13731]]

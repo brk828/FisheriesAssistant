@@ -35,6 +35,12 @@ Clear Lake, Iowa is a shallow, turbid freshwater lake characterized by limited w
 > This 1948 study examined the mid-summer feeding habits of young-of-year [[Largemouth Bass]] (*Micropterus salmoides*) in [[Clear Lake]], [[Lake County]], [[California]]. Analysis of 264 specimens collected August 10-12, 1948 revealed a clear ontogenetic diet shift: fish below 1.8 inches fed...
 > -- *[[TheFoodOfYoungLargemouthBlackB_15524]]*
 
+> This October 1955 California Department of Fish and Game bulletin describes an active program to introduce four non-native forage fish species into California's warmwater reservoirs to support predatory gamefish populations. The program, led by Associate Fisheries Biologist J.B. Kimsey, addresses...
+> -- *[[ForageFish_12530]]*
+
+> This comprehensive 1962 report by the [[Fish and Wildlife Service]] (Circular No. 143) summarizes research findings from 1960 on pesticide effects across wildlife, sport fisheries, and commercial fisheries. The document fulfills Public Law 85-582 mandating the Service to evaluate pesticide impacts...
+> -- *[[EffectsOfPesticidesOnFishAndWi_12842]]*
+
 ## Mentioned In
 - [[ASimpleTransportableLakeShocke_1966]]
 - [[AgeAndGrowthOfLargemouthBassIn_1964]]
@@ -53,3 +59,5 @@ Clear Lake, Iowa is a shallow, turbid freshwater lake characterized by limited w
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[ObservationsOnTheSpawningOfSac_12534]]
 - [[TheFoodOfYoungLargemouthBlackB_15524]]
+- [[ForageFish_12530]]
+- [[EffectsOfPesticidesOnFishAndWi_12842]]

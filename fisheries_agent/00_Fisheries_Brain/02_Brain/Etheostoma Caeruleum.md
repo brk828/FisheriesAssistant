@@ -26,9 +26,13 @@ Etheostoma caeruleum, commonly known as the rainbow darter, is a small freshwate
 > This comprehensive study analyzed over 500,000 darter eggs from 1954 to 1965 to investigate geographic variation in hybrid survival among etheostomatine fishes (darters). More than 130 hybrid combinations were tested, with both reciprocals reared for 70 combinations. Key findings include: (1)...
 > -- *[[GeographicVariationsInSurvival_14227]]*
 
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
 ## Mentioned In
 - [[AspectsOfTheLifeHistoryOfTheOz_15231]]
 - [[DensitiesAndEcologyOfTheDarter_13404]]
 - [[LaboratoryHybridCombinationsAm_14219]]
 - [[TwoNaturalDarterHybridsInvolvi_1980]]
 - [[GeographicVariationsInSurvival_14227]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]

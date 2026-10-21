@@ -80,6 +80,9 @@ auto_enriched: true
 > This 1959 thesis by Judith A. Loring examines the reliability of the tooth patch on the tongue as a diagnostic character for identifying [[Micropterus punctulatus]] (spotted black bass). The study analyzed specimens from Kentucky and surrounding states, comparing tooth patch presence across...
 > -- *[[AStudyOfTheToothPatchOnTheSpot_16200]]*
 
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -120,3 +123,4 @@ auto_enriched: true
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[EarlyFieldNotes_15954]]
 - [[AStudyOfTheToothPatchOnTheSpot_16200]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]

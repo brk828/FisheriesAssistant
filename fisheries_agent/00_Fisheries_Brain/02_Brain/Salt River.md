@@ -206,6 +206,21 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 > This 1964 newspaper article describes the construction of [[Blue Ridge Dam]] on [[East Clear Creek]] in Arizona's [[Mogollon Rim]] country, part of a three-phase water transfer project by [[Phelps Dodge Corporation]] to support expanded copper mining operations at [[Morenci]]. The $6 million dam,...
 > -- *[[DramaticBattleForWaterBehindTh_18467]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This October 1983 memorandum from the U.S. Fish and Wildlife Service to the Bureau of Indian Affairs addresses a formal Section 7 consultation regarding the proposed [[Miner Flat Dam]] project on the [[White River]] system in Arizona. While no effects are anticipated on [[Peregrine Falcon]], [[Bald...
+> -- *[[FormalSectionConsultationMiner_11842]]*
+
+> This completion report documents wildlife habitat monitoring along the [[Gila River]] from Phoenix to [[Gillespie Dam]] during August 1965 to July 1966, in response to a proposed Army Corps of Engineers flood control project. The project would have cleared a 2,000-foot-wide channel through critical...
+> -- *[[GilaAndSaltRiverClearningAndCh_12483]]*
+
+> This 1935 advance print document by George Hebard Maxwell presents an ambitious proposal for water conservation and land reclamation in Arizona and California through comprehensive development of the [[Colorado River]]. The author advocates for the "Arizona Ten Projects"—ten regional development...
+> -- *[[WealthFromWastedWaters_15218]]*
+
+> This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
+> -- *[[FormalReviewcrticialHabitatOfT_20672]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfChannelCatfishIc_14101]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -311,3 +326,8 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 - [[PredevelopmentHydrologyOfTheSa_13330]]
 - [[AdverseBiologicalOpinionIndian_15638]]
 - [[DramaticBattleForWaterBehindTh_18467]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[FormalSectionConsultationMiner_11842]]
+- [[GilaAndSaltRiverClearningAndCh_12483]]
+- [[WealthFromWastedWaters_15218]]
+- [[FormalReviewcrticialHabitatOfT_20672]]

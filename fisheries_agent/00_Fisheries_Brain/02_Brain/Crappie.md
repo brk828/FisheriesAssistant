@@ -50,6 +50,9 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 > This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
 > -- *[[TheEnvironmentalConditionsOfAn_16280]]*
 
+> This October 1955 California Department of Fish and Game bulletin describes an active program to introduce four non-native forage fish species into California's warmwater reservoirs to support predatory gamefish populations. The program, led by Associate Fisheries Biologist J.B. Kimsey, addresses...
+> -- *[[ForageFish_12530]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -80,3 +83,4 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 - [[CreelCensusReport_11332]]
 - [[FishingInTwelveMichiganLakesUn_16148]]
 - [[TheEnvironmentalConditionsOfAn_16280]]
+- [[ForageFish_12530]]

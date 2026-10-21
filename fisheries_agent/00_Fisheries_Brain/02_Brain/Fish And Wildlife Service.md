@@ -110,6 +110,18 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > This Bureau of Reclamation field report documents the 1991 annual razorback sucker ([[Xyrauchen texanus]]) capture and tagging effort at [[Lake Mohave]], focusing on Camp No. 3 operations in the [[Six-Mile Cove]] area on the Nevada side of [[Cottonwood Basin]]. The multi-agency effort (March 18-21,...
 > -- *[[ResultsOfRazorbackSuckerRazorb_15027]]*
 
+> This comprehensive 1962 report by the [[Fish and Wildlife Service]] (Circular No. 143) summarizes research findings from 1960 on pesticide effects across wildlife, sport fisheries, and commercial fisheries. The document fulfills Public Law 85-582 mandating the Service to evaluate pesticide impacts...
+> -- *[[EffectsOfPesticidesOnFishAndWi_12842]]*
+
+> This February 1990 correspondence from the Bureau of Reclamation Lower Colorado Regional Office documents an interagency initiative to develop native fish rearing facilities on [[Lake Mohave]] for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The proposal...
+> -- *[[InteragencyProposalToExamineTh_13018]]*
+
+> This comprehensive bibliography compiled by Joseph B. Hunn for the [[Bureau of Sport Fisheries and Wildlife]] in 1967 assembles more than 850 references on fish blood chemistry. The document serves as a guide to widely scattered literature on the subject, addressing the lack of standard reference...
+> -- *[[BibliographyOnTheBloodChemistr_14517]]*
+
+> This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
+> -- *[[DraftProposedCriteriaForDesign_14776]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -161,3 +173,7 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[HabitatConservationPlanAssuran_13191]]
 - [[WildlifeStudiesPatuxentWildlif_14328]]
 - [[ResultsOfRazorbackSuckerRazorb_15027]]
+- [[EffectsOfPesticidesOnFishAndWi_12842]]
+- [[InteragencyProposalToExamineTh_13018]]
+- [[BibliographyOnTheBloodChemistr_14517]]
+- [[DraftProposedCriteriaForDesign_14776]]

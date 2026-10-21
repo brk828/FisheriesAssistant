@@ -20,6 +20,9 @@ auto_enriched: true
 > This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
 > -- *[[EnvironmentalAssessmentForNati_13228]]*
 
+> This comprehensive directory, published by the Commission on the Arizona Environment in 1987, catalogs businesses, organizations, and agencies concerned with environmental resources in Arizona. The document provides contact information and descriptions for over 200 entities across multiple sectors...
+> -- *[[ArizonaEnvironmentalAndResourc_17454]]*
+
 ## Mentioned In
 - [[LetterAppointingWendellMinckle_1993_05_18]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[GilaTopminnowsantaCruzRiver_20207]]
 - [[TheKlondykeTailingsAndAravaipa_14554]]
 - [[EnvironmentalAssessmentForNati_13228]]
+- [[ArizonaEnvironmentalAndResourc_17454]]

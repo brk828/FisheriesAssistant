@@ -29,6 +29,9 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 > On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
 > -- *[[WorkshopProceedings_18372]]*
 
+> This letter report from the EPA Border Environmental Plan Public Advisory Committee to Administrator Carol Browner (July 22, 1993) documents critical environmental and public health concerns in the [[U.S.-Mexico Border Region]]. The Committee, working with the [[Udall Center for Studies in Public...
+> -- *[[StateOfTheUsmexicoBorderEnviro_14365]]*
+
 ## Mentioned In
 - [[CoordinatedResourceActivitiesC_1997_04_16]]
 - [[NoticeOfIntentToFileCitizenSui_1995_05_24]]
@@ -36,3 +39,4 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 - [[TransmittalRegardingReasonable_19809]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[WorkshopProceedings_18372]]
+- [[StateOfTheUsmexicoBorderEnviro_14365]]

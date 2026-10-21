@@ -26,6 +26,9 @@ Norris Reservoir is a Tennessee Valley Authority (TVA) storage reservoir that se
 > This note documents the first records of [[Red-ear Sunfish]] (*Lepomis microlophus*) and [[Smallmouth Bass]] (*Micropterus dolomieui*) in the lower [[Colorado River]], California. The red-ear sunfish represents a new addition to California's freshwater fish fauna, while the smallmouth bass was...
 > -- *[[TheOccurrenceOfTwoAdditionalCe_18140]]*
 
+> This study examined winter food habits of [[Pikeperch]] (Stizostedion vitreum) in [[Oneida Lake]], New York during the winters of 1951-52 and 1952-53. Of 143 pikeperch stomachs collected via ice-fishing, 78.3% were empty—nearly double the empty-stomach rate reported for summer and fall periods in...
+> -- *[[WinterFoodHabitsOfPikeperchInO_16899]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[AgeGrowthAndConditionOfBlackCr_13075]]
@@ -36,3 +39,4 @@ Norris Reservoir is a Tennessee Valley Authority (TVA) storage reservoir that se
 - [[PredictingDepthDistributionOfF_1948]]
 - [[RateOfGrowthAndConditionOfGame_14639]]
 - [[TheOccurrenceOfTwoAdditionalCe_18140]]
+- [[WinterFoodHabitsOfPikeperchInO_16899]]

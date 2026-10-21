@@ -74,6 +74,18 @@ In the context of fish science and aquatic ecology, California refers to the geo
 > This 1948 study examined the mid-summer feeding habits of young-of-year [[Largemouth Bass]] (*Micropterus salmoides*) in [[Clear Lake]], [[Lake County]], [[California]]. Analysis of 264 specimens collected August 10-12, 1948 revealed a clear ontogenetic diet shift: fish below 1.8 inches fed...
 > -- *[[TheFoodOfYoungLargemouthBlackB_15524]]*
 
+> This Federal Register notice (Vol. 56, No. 225, November 21, 1991) presents the U.S. Fish and Wildlife Service's updated compilation of vertebrate and invertebrate animal taxa native to the United States being reviewed for possible addition to the List of Endangered and Threatened Wildlife under...
+> -- *[[EndangeredAndThreatenedWildlif_11596]]*
+
+> This Federal Register notice from the [[U.S. Fish and Wildlife Service]] (February 28, 1996) presents an updated list of plant and animal taxa native to the United States regarded as candidates for possible addition to the List of Endangered and Threatened Wildlife and Plants under the [[Endangered...
+> -- *[[EndangeredAndThreatenedWildlif_11739]]*
+
+> This technical guidance document from the U.S. Department of Agriculture [[Soil Conservation Service]] provides specifications for designing and constructing farm ponds optimized for fish production. The document addresses water supply management, pond dimensions, outlet structures, vegetation...
+> -- *[[HowToBuildAFarmPondForFishProd_13264]]*
+
+> This document examines the development and morphology of ephemeral gully systems in western mountain lands, proposing a classification based on stages of development from youthful to old-age. The research, conducted primarily in the [[Colorado Rocky Mountains]] with observations from [[New...
+> -- *[[StagesOfDevelopmentOfGulliesIn_16590]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[RainbowSmeltIntroductionIntoLa_1989]]
@@ -98,3 +110,7 @@ In the context of fish science and aquatic ecology, California refers to the geo
 - [[TheUseOfChannelCatfishAsSportF_18662]]
 - [[FishRemainsFromArroyoSequitShe_18754]]
 - [[TheFoodOfYoungLargemouthBlackB_15524]]
+- [[EndangeredAndThreatenedWildlif_11596]]
+- [[EndangeredAndThreatenedWildlif_11739]]
+- [[HowToBuildAFarmPondForFishProd_13264]]
+- [[StagesOfDevelopmentOfGulliesIn_16590]]

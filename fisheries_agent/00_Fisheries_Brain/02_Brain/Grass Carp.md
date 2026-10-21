@@ -50,6 +50,9 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 > This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
 > -- *[[RainbowSmeltProposalReview_17848]]*
 
+> This document comprises a 1990 proposal and preliminary investigation by the [[Larval Fish Laboratory]] at [[Colorado State University]] addressing concerns about electrofishing impacts on fish in [[Grand Canyon National Park]]. The [[National Park Service]] mandated evaluation of electrofishing...
+> -- *[[DraftDocumentimpactsOfElectrof_19691]]*
+
 ## Mentioned In
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -80,3 +83,4 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[ReProgressReportOnConstruction_13911]]
 - [[RainbowSmeltProposalReview_17848]]
+- [[DraftDocumentimpactsOfElectrof_19691]]

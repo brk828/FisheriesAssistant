@@ -20,6 +20,9 @@ Nutrioso Creek is a tributary stream system in Arizona that represents one of th
 > This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
 > -- *[[DraftLittleColoradoRiverSpined_11662]]*
 
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
 ## Mentioned In
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
 - [[MitochondrialDnaVariationWithi_1993_09_14]]
@@ -27,3 +30,4 @@ Nutrioso Creek is a tributary stream system in Arizona that represents one of th
 - [[EndangeredAndThreatenedWildlif_11551]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[DraftLittleColoradoRiverSpined_11662]]
+- [[BiologicalOpinionOfFederalAids_11920]]

@@ -38,6 +38,12 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 > This five-year assessment evaluates conservation actions conducted for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during the initial term (1995-2000) of the Virgin Spinedace Conservation Agreement and Strategy (VSCAS). The VSCAS was developed in 1995 as a collaborative effort among...
 > -- *[[VirginSpinedaceLepidomedaMolli_14744]]*
 
+> This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
+> -- *[[DraftConservationAgreementVirg_18320]]*
+
+> This legal notice from the Sierra Club Legal Defense Fund, dated June 22, 1994, addresses violations of the Endangered Species Act (ESA) related to operation of the [[Quail Creek Reservoir Project]] in the [[Virgin River Basin]], Utah. The document notifies the Secretary of the Interior and Bureau...
+> -- *[[ViolationOfQuailCreekReservoir_18647]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AttachedDraftListOfSpeciesAssi_14772]]
@@ -74,3 +80,5 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 - [[DraftConservationStrategyVirgi_11659]]
 - [[CommentsOnVirginRiverEa_19382]]
 - [[VirginSpinedaceLepidomedaMolli_14744]]
+- [[DraftConservationAgreementVirg_18320]]
+- [[ViolationOfQuailCreekReservoir_18647]]

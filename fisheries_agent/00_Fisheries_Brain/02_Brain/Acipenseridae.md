@@ -41,6 +41,9 @@ Acipenseridae is the family of true sturgeons, ancient anadromous fish character
 > This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
 > -- *[[CodeOfFederalRegulationsPartEn_11616]]*
 
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -66,3 +69,4 @@ Acipenseridae is the family of true sturgeons, ancient anadromous fish character
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
 - [[CodeOfFederalRegulationsPartEn_11616]]
+- [[ListOfFishesReportedFromKansas_18026]]

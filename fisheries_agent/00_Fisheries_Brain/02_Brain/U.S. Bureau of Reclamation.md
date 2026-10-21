@@ -83,6 +83,12 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This document presents comprehensive water quality and aquatic ecology investigations conducted at [[Lake Powell]] on the [[Colorado River]] above [[Glen Canyon Dam]] during 1965-1969. The studies were undertaken to evaluate the feasibility of discharging cooling tower blowdown from the proposed...
 > -- *[[LakePowellQualityStudiesForThe_14955]]*
 
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -121,3 +127,5 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[RazorbackSuckerMonitoringInLak_17016]]
 - [[CommercialFisheriesPotentialOf_18584]]
 - [[LakePowellQualityStudiesForThe_14955]]
+- [[DraftRecoveryGoals_11689]]
+- [[MinutesdesertFishesRecoveryTea_13730]]

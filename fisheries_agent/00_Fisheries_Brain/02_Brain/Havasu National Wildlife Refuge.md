@@ -11,8 +11,12 @@ Havasu National Wildlife Refuge is a protected aquatic ecosystem located along t
 > This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
 > -- *[[DraftmanagementPlanForTheRazor_11427]]*
 
+> This correspondence documents three fish stocking events at [[Topock Marsh]], Arizona in 1977 where shipments from [[Tisomingo National Fish Hatchery]] in Oklahoma inadvertently introduced multiple non-target species alongside requested fish. The incidents involved [[Channel Catfish]] (March 30),...
+> -- *[[ContaminatedFishStockingsIntoT_20328]]*
+
 ## Mentioned In
 - [[EffectsToThreatenedAndEndanger_1992_08_28]]
 - [[LakeHavasuFisheriesProjectMeet_1992_09_14]]
 - [[MesquiteCoveTheNextHavasuFishi_1996]]
 - [[DraftmanagementPlanForTheRazor_11427]]
+- [[ContaminatedFishStockingsIntoT_20328]]

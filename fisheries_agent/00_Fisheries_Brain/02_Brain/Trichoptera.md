@@ -32,6 +32,9 @@ Trichoptera, commonly known as caddisflies, are an order of freshwater aquatic i
 > This 1968 technical report by Brehmer, Ball, and Kevern examines the biological and chemical characteristics of the [[Red Cedar River]] near [[Williamston, Michigan]], focusing on the impacts of domestic sewage pollution on water quality and benthic invertebrate communities. The study employed six...
 > -- *[[TheBiologyAndChemistryOfAWarmw_12927]]*
 
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
 ## Mentioned In
 - [[DifferencesInTheOccurrenceOfNy_1947]]
 - [[FeedingHabitsOfTheSanPedroMart_15896]]
@@ -47,3 +50,4 @@ Trichoptera, commonly known as caddisflies, are an order of freshwater aquatic i
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[ANewSpeciesOfAquaticIsopodCrus_17104]]
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]

@@ -35,6 +35,9 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 > This annotated bibliography, compiled by Terry J. Hickman in September 1987, provides a comprehensive review of 90 references concerning the [[Woundfin]] (*Plagopterus argentissimus*), an endangered cyprinid minnow endemic to the [[Colorado River Basin]]. The woundfin is a streamlined, silvery...
 > -- *[[AnnotatedBibliographyForTheWou_20385]]*
 
+> This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
+> -- *[[DraftConservationAgreementVirg_18320]]*
+
 ## Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -47,3 +50,4 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 - [[DraftConservationStrategyVirgi_11659]]
 - [[AnnotatedBibliographyForTheWou_20385]]
+- [[DraftConservationAgreementVirg_18320]]

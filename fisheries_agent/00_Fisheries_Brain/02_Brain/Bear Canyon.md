@@ -14,6 +14,10 @@ Bear Canyon is a stream site in southern Arizona where Gila Topminnow were stock
 > This 1964 newspaper article describes the construction of [[Blue Ridge Dam]] on [[East Clear Creek]] in Arizona's [[Mogollon Rim]] country, part of a three-phase water transfer project by [[Phelps Dodge Corporation]] to support expanded copper mining operations at [[Morenci]]. The $6 million dam,...
 > -- *[[DramaticBattleForWaterBehindTh_18467]]*
 
+> This status report documents [[Lilaeopsis schaffneriana]] subspecies recurva, a rare semi-aquatic perennial plant endemic to cienega wetlands in southeastern Arizona and adjacent Sonora, Mexico. The taxon is a USFWS Candidate Category 2 species and USFS Sensitive Plant. Surveys conducted 1988-1990...
+> -- *[[StatusReportLilaeopsisSchaffne_14909]]*
+
 ## Mentioned In
 - [[IntraofficeMemoFishSurveys_13821]]
 - [[DramaticBattleForWaterBehindTh_18467]]
+- [[StatusReportLilaeopsisSchaffne_14909]]

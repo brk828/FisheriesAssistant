@@ -38,6 +38,9 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > This 1948 report documents the introduction and establishment of [[Kokanee]] (Oncorhynchus nerka kennerlyi), a landlocked form of [[Pacific Sockeye Salmon]], into California waters beginning in 1941. The [[Bureau of Fish Conservation]] initiated experimental plantings in [[Salt Springs Reservoir]]...
 > -- *[[KokaneeInCalifornia_18108]]*
 
+> This document is a formal letter from Professor W.L. Minckley (Arizona State University, Department of Zoology) dated February 4, 1983, responding to a proposal by the Utah Division of Wildlife to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. Minckley expresses strong...
+> -- *[[ReProposalIntroductionOfRainbo_13753]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -51,3 +54,4 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[TheIntroductionOfKokaneeRedSal_18826]]
 - [[TroutOrSalmon_19215]]
 - [[KokaneeInCalifornia_18108]]
+- [[ReProposalIntroductionOfRainbo_13753]]

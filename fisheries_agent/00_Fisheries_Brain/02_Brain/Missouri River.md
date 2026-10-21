@@ -44,6 +44,15 @@ The Missouri River is a major North American river system of significant importa
 > This technical report presents Habitat Suitability Index (HSI) models for [[Common Carp]] (*Cyprinus carpio*) in riverine and lacustrine habitats across the 48 contiguous United States. Developed by the U.S. Fish and Wildlife Service's Habitat Evaluation Procedures Group, the models synthesize...
 > -- *[[HabitatSuitabilityIndexModelsC_15766]]*
 
+> This technical report presents Habitat Suitability Index (HSI) models for the [[Smallmouth Buffalo]] (*Ictiobus bubalus*), a large freshwater fish native to the [[Mississippi Valley]] and [[Hudson Bay]] drainage systems. The models synthesize literature on habitat requirements and preferences to...
+> -- *[[HabitatSuitabilityIndexModelsS_15767]]*
+
+> This document comprises three grant proposals submitted by [[American Rivers]] to the [[National Fish and Wildlife Foundation]] on December 30, 1993. The proposals address: (1) native fish habitat assessment in the [[Gila River]] watershed using historical distribution data; (2) floodplain habitat...
+> -- *[[AmericanRiversProposalFundingR_17975]]*
+
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -67,3 +76,6 @@ The Missouri River is a major North American river system of significant importa
 - [[RainbowSmeltProposalReview_17848]]
 - [[MissouriansToHelpShapeFutureOf_11242]]
 - [[HabitatSuitabilityIndexModelsC_15766]]
+- [[HabitatSuitabilityIndexModelsS_15767]]
+- [[AmericanRiversProposalFundingR_17975]]
+- [[ListOfFishesReportedFromKansas_18026]]

@@ -32,6 +32,15 @@ Paddlefish (*Polyodon spathula*) is a primitive chondrostean fish species belong
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
+> This 1993 technical document from the [[San Marcos National Fish Hatchery]] provides comprehensive genetic management guidelines for federal fish hatcheries in Region 2. The document addresses growing concerns that hatchery operations may threaten wild fish populations through genetic degradation,...
+> -- *[[GeneralGeneticGuidelinesForReg_18841]]*
+
+> This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
+> -- *[[SummaryOfCommercialFisheriesCa_19834]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -57,3 +66,6 @@ Paddlefish (*Polyodon spathula*) is a primitive chondrostean fish species belong
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[WhatHaveICaught_12929]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[ListOfFishesReportedFromKansas_18026]]
+- [[GeneralGeneticGuidelinesForReg_18841]]
+- [[SummaryOfCommercialFisheriesCa_19834]]

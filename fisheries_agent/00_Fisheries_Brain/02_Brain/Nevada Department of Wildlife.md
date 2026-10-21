@@ -65,6 +65,12 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 > This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
 > -- *[[RazorbackSuckerMonitoringInLak_17016]]*
 
+> This February 1990 correspondence from the Bureau of Reclamation Lower Colorado Regional Office documents an interagency initiative to develop native fish rearing facilities on [[Lake Mohave]] for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The proposal...
+> -- *[[InteragencyProposalToExamineTh_13018]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
 ## Mentioned In
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -94,3 +100,5 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 - [[DraftLowerColoradoRiverOperati_13907]]
 - [[ChronologyOfYumaCoveActivities_15028]]
 - [[RazorbackSuckerMonitoringInLak_17016]]
+- [[InteragencyProposalToExamineTh_13018]]
+- [[AbstractsFromTheDesertFishesCo_15019]]

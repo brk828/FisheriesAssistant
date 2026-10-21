@@ -56,6 +56,9 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 > Archaeological survey conducted by the [[NPS Western Archaeological and Conservation Center]] at [[Organ Pipe Cactus National Monument]] (ORPI) between 1989 and 1993 documented 12,000 years of continuous human occupation. The survey covered 8,000 acres (2% of the monument) and recorded 199...
 > -- *[[BetweenTheDesertAndTheSeaArche_13223]]*
 
+> This report documents the 1989 annual census of [[Desert Pupfish]] (*Cyprinodon macularius eremus*) conducted at [[Quitobaquito Pond]] in [[Organ Pipe Cactus National Monument]] on September 27-28, 1989, under U.S. Fish and Wildlife Service endangered species permit PRT-676811. Using a...
+> -- *[[ReportOnTheAnnualCensusOfCypri_18280]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
@@ -77,3 +80,4 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 - [[PopulationEcologyOfTheSonoranM_21071]]
 - [[ProjectsTakeStaffToTheField_13221]]
 - [[BetweenTheDesertAndTheSeaArche_13223]]
+- [[ReportOnTheAnnualCensusOfCypri_18280]]

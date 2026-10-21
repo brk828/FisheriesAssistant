@@ -14,6 +14,10 @@ Bulrush (Scirpus sp.) is emergent vegetation that provides cover habitat utilize
 > This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
 > -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
 
+> This technical guidance document from the U.S. Department of Agriculture [[Soil Conservation Service]] provides specifications for designing and constructing farm ponds optimized for fish production. The document addresses water supply management, pond dimensions, outlet structures, vegetation...
+> -- *[[HowToBuildAFarmPondForFishProd_13264]]*
+
 ## Mentioned In
 - [[DistributionAndPoststockingSur_2016]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[HowToBuildAFarmPondForFishProd_13264]]

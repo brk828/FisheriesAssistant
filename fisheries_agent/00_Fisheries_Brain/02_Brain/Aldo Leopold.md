@@ -23,6 +23,9 @@ Aldo Leopold, as referenced in fish science and aquatic conservation contexts, r
 > This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
 > -- *[[APetitionPursuantToArticleOfTh_17637]]*
 
+> This 1991 correspondence from E.P. Pister, Executive Secretary of the [[Desert Fishes Council]], to Bruce Schmidt of the [[Utah Division of Wildlife Resources]] clarifies philosophical positions on fisheries management presented at the Western Division AFS meeting in Bozeman. The letter addresses...
+> -- *[[ReactionsToTalkAtAfsMeetingInB_18595]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[DesertFishesCouncilLetterToSec_1990_06_06]]
@@ -30,3 +33,4 @@ Aldo Leopold, as referenced in fish science and aquatic conservation contexts, r
 - [[GrazingIsTheMajorCauseOfForest_1995_05_09]]
 - [[NotesOnTheRecommendationToDecl_1962]]
 - [[APetitionPursuantToArticleOfTh_17637]]
+- [[ReactionsToTalkAtAfsMeetingInB_18595]]

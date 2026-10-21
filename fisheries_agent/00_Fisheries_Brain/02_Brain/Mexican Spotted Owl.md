@@ -44,6 +44,9 @@ The Mexican Spotted Owl is not directly relevant to fish science or aquatic ecol
 > This Environmental Assessment and Habitat Conservation Plan (EA/HCP) addresses the issuance of an Incidental Take Permit under Section 10(a)(1)(B) of the [[Endangered Species Act]] for [[El Coronado Ranch]] (ECR) in [[Cochise County]], [[Arizona]]. The document covers ranching operations on 6,153...
 > -- *[[EnvironmentalAssessmentAndHabi_11684]]*
 
+> This document is a formal consultation letter from the [[U.S. Fish and Wildlife Service]] (USFWS) Arizona Ecological Services Field Office to the [[Apache-Sitgreaves National Forest]] regarding 27 proposed forest management projects submitted for Section 7 consultation under the [[Endangered...
+> -- *[[ReWrittenConcurrenceOnTheFores_11749]]*
+
 ## Mentioned In
 - [[ConcurrenceLetterOnBearCanyonT_1997_02_21]]
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
@@ -61,3 +64,4 @@ The Mexican Spotted Owl is not directly relevant to fish science or aquatic ecol
 - [[BiologicalEvaluationOfTheAppro_15074]]
 - [[ManagementPlanSierraSanLuisWil_11399]]
 - [[EnvironmentalAssessmentAndHabi_11684]]
+- [[ReWrittenConcurrenceOnTheFores_11749]]

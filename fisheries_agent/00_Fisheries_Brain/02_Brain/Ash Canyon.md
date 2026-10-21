@@ -11,5 +11,9 @@ Ash Canyon is a stream site in southern Arizona that was surveyed for fish in 19
 > This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
 > -- *[[IntraofficeMemoFishSurveys_13821]]*
 
+> This historical report from Commissioner Richard Rule to Governor F.A. Tritle documents the activities and challenges of the [[Arizona Fish Commission]] for the southern territory during 1883-1884. The commission focused primarily on [[Carp]] distribution and propagation, receiving approximately...
+> -- *[[ToHisExcellencyFrederickATritl_13446]]*
+
 ## Mentioned In
 - [[IntraofficeMemoFishSurveys_13821]]
+- [[ToHisExcellencyFrederickATritl_13446]]

@@ -17,6 +17,9 @@ Lake Texoma is a large reservoir on the Red River formed by the Denison Dam, ser
 > This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
 > -- *[[AssessmentOfTheNeedForForageEn_17853]]*
 
+> This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
+> -- *[[SummaryOfCommercialFisheriesCa_19834]]*
+
 ## Mentioned In
 - [[DepthDistributionOfStripedBass_1985]]
 - [[EtheostomaRadiosumOrangebellyD_1986]]
@@ -25,3 +28,4 @@ Lake Texoma is a large reservoir on the Red River formed by the Denison Dam, ser
 - [[SummerMortalityOfStripedBassIn_1985]]
 - [[TheMusselPopulationOfAnAreaOfL_14967]]
 - [[AssessmentOfTheNeedForForageEn_17853]]
+- [[SummaryOfCommercialFisheriesCa_19834]]

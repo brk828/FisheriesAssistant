@@ -11,7 +11,11 @@ auto_enriched: true
 > This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
 > -- *[[AnnualReportOncorhynchusApache_11989]]*
 
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
 ## Mentioned In
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
 - [[RareAndEndangeredSpeciesTheGil_18134]]
 - [[AnnualReportOncorhynchusApache_11989]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]

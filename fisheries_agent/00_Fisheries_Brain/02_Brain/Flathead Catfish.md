@@ -122,6 +122,24 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
 > -- *[[BioassayAndUseOfPituitaryMater_15952]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
+> This job completion report documents the chemical treatment of [[Century Lake]] (555 acres, reduced to 463 acres at treatment) and 1.5 miles of [[White Oak Creek]] in [[Hopkins County]], Texas on May 15-16, 1963. The treatment used 995 gallons of 5% rotenone to remove the existing fish population,...
+> -- *[[StatewideRoughRishControlJobNo_19049]]*
+
+> This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
+> -- *[[SummaryOfCommercialFisheriesCa_19834]]*
+
+> This correspondence documents three fish stocking events at [[Topock Marsh]], Arizona in 1977 where shipments from [[Tisomingo National Fish Hatchery]] in Oklahoma inadvertently introduced multiple non-target species alongside requested fish. The incidents involved [[Channel Catfish]] (March 30),...
+> -- *[[ContaminatedFishStockingsIntoT_20328]]*
+
+> This creel census study examined seasonal patterns in fishing pressure and harvest on a 7-mile section of the [[Des Moines River]] in [[Boone County]], Iowa, between July 1957 and September 1958. The study area, located between Fraser and Boone dams, was surveyed using a modified Latin square...
+> -- *[[SeasonalChangesInHarvestAndFis_20577]]*
+
 ## Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -206,3 +224,9 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[AgencyReviewDraftLoachMinnowTi_19398]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[BioassayAndUseOfPituitaryMater_15952]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[ListOfFishesReportedFromKansas_18026]]
+- [[StatewideRoughRishControlJobNo_19049]]
+- [[SummaryOfCommercialFisheriesCa_19834]]
+- [[ContaminatedFishStockingsIntoT_20328]]
+- [[SeasonalChangesInHarvestAndFis_20577]]

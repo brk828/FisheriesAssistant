@@ -230,6 +230,24 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > This annotated bibliography, compiled by Terry J. Hickman in September 1987, provides a comprehensive review of 90 references concerning the [[Woundfin]] (*Plagopterus argentissimus*), an endangered cyprinid minnow endemic to the [[Colorado River Basin]]. The woundfin is a streamlined, silvery...
 > -- *[[AnnotatedBibliographyForTheWou_20385]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This correspondence from the [[Desert Fishes Recovery Team]] to the U.S. Fish and Wildlife Service Regional Director documents recommendations and action items from their April 17, 1986 meeting in Tucson, Arizona. The team addresses critical conservation issues for multiple endangered desert fish...
+> -- *[[ItemsToBringToYourAttentionAft_13731]]*
+
+> This proposal, submitted by Arizona State University to the Arizona Game and Fish Department in July 1986, outlines a one-year study to evaluate potential interactions between imperiled native [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]) versus introduced [[Red...
+> -- *[[SpikedaceAndLoachMinnowStudyAP_16483]]*
+
+> This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
+> -- *[[DraftConservationAgreementVirg_18320]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -427,3 +445,9 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[AnnotatedBibliographyForTheWou_20385]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[BiologicalOpinionOfFederalAids_11920]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[ItemsToBringToYourAttentionAft_13731]]
+- [[SpikedaceAndLoachMinnowStudyAP_16483]]
+- [[DraftConservationAgreementVirg_18320]]

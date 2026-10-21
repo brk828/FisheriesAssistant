@@ -17,7 +17,11 @@ The Basin and Range refers to a geological province in western North America cha
 > This U.S. Geological Survey report, prepared in cooperation with the U.S. Bureau of Indian Affairs, documents predevelopment hydrologic conditions in the [[Salt River Indian Reservation]] area prior to non-Indian settlement (pre-1870s). The study was conducted to support water rights adjudication...
 > -- *[[PredevelopmentHydrologyOfTheSa_13330]]*
 
+> This geological study presents new cartographic data from the Yecora-Maicova sector of the [[Sierra Madre Occidental]] in [[Sonora]], [[Mexico]], between parallels 28°15' and 28°30'. The research demonstrates that the Tertiary volcanic sequence must distinguish between basalts and ignimbrites, with...
+> -- *[[GeologiedonneesPreliminairesSu_15989]]*
+
 ## Mentioned In
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[GeneticVariationAmongLowerColo_12776]]
 - [[PredevelopmentHydrologyOfTheSa_13330]]
+- [[GeologiedonneesPreliminairesSu_15989]]

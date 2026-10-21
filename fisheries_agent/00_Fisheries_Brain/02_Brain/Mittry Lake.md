@@ -26,6 +26,9 @@ auto_enriched: true
 > This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
 > -- *[[DraftLowerColoradoRiverOperati_13907]]*
 
+> This 1951 report by the Fisheries Task Group of the [[Colorado River Great Basin Field Committee]] presents a comprehensive survey of the Lower Colorado River fishery from [[Hoover Dam]] to the Mexican border. The study divides the river into seven sections, each assessed individually for present...
+> -- *[[FisheriesReportOfTheLowerColor_19846]]*
+
 ## Mentioned In
 - [[ProgressReportLowerColoradoRiv_14984]]
 - [[ReviewOfCommissionOrderForCrus_1994_07_27]]
@@ -33,3 +36,4 @@ auto_enriched: true
 - [[ABasicSurveyOfWatersInDistrict_14982]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
 - [[DraftLowerColoradoRiverOperati_13907]]
+- [[FisheriesReportOfTheLowerColor_19846]]

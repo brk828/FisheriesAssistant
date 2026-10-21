@@ -11,7 +11,11 @@ The Upper Mississippi River refers to the northern section of the Mississippi Ri
 > This 1965 study by Robert L. Butler analyzes the population dynamics of the [[Freshwater Drum]] (*Aplodinotus grunniens*) in the 26-pool navigational impoundment system of the [[Upper Mississippi River]], using scale samples collected between 1944 and 1948. The paper calculates total and fishing ...
 > -- *[[FreshwaterDrumAplodinotusGrunn_14145]]*
 
+> This document comprises three grant proposals submitted by [[American Rivers]] to the [[National Fish and Wildlife Foundation]] on December 30, 1993. The proposals address: (1) native fish habitat assessment in the [[Gila River]] watershed using historical distribution data; (2) floodplain habitat...
+> -- *[[AmericanRiversProposalFundingR_17975]]*
+
 ## Mentioned In
 - [[FreshwaterDrumAplodinotusGrunn_14145]]
 - [[StationProfileOfTheGenoaNation_1993]]
 - [[TheAgeAndRateOfGrowthOfTheShee_14112]]
+- [[AmericanRiversProposalFundingR_17975]]

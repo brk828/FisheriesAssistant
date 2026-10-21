@@ -86,6 +86,18 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 > This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
 > -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
 
+> This document comprises correspondence from the [[Desert Fishes Council]] (DFC) regarding a dispute with the [[U.S. Fish and Wildlife Service]] (Service) over the "Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin." The DFC was excluded from initial...
+> -- *[[ReUsFishAndWildlifeServicedese_13754]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This 1991 correspondence from E.P. Pister, Executive Secretary of the [[Desert Fishes Council]], to Bruce Schmidt of the [[Utah Division of Wildlife Resources]] clarifies philosophical positions on fisheries management presented at the Western Division AFS meeting in Bozeman. The letter addresses...
+> -- *[[ReactionsToTalkAtAfsMeetingInB_18595]]*
+
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
+> -- *[[ExecutiveSummary_18726]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -202,3 +214,7 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 - [[DesertFishesCouncilThirteenthA_12827]]
 - [[DesertFishesCouncilEighteenthA_12829]]
 - [[MxMissileSystemAnUrgentLetterF_20507]]
+- [[ReUsFishAndWildlifeServicedese_13754]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[ReactionsToTalkAtAfsMeetingInB_18595]]
+- [[ExecutiveSummary_18726]]

@@ -23,7 +23,11 @@ The Cui-Ui Sucker (*Catostomus cujus*) is an endemic fish species native to the 
 > The source text does not provide direct morphological descriptions (e.g., meristics, coloration, body proportions) of the [[Lahontan Cutthroat Trout]] or [[Cui-Ui Sucker]]. However, key production-related biological benchmarks are noted:
 > -- *[[StationProfileOfTheLahontanNat_19542]]*
 
+> This 1965 report documents the first confirmed occurrences of [[Lost River Sucker]] (*Deltistes luxatus*) and [[Shortnose Sucker]] (*Chasmistes brevirostris*) in California waters, adding both species to the state's freshwater fish fauna. Previously known only from the [[Klamath Lakes]] drainage in...
+> -- *[[OccurrencesOfTheLostRiverSucke_17577]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[StationProfileOfTheLahontanNat_19542]]
 - [[StationProfileOfTheM_1992]]
+- [[OccurrencesOfTheLostRiverSucke_17577]]

@@ -11,6 +11,10 @@ auto_enriched: true
 > **Gila River Riparian Corridor (Phreatophyte Zone):** - Dominant vegetation: salt cedar (*Tamarix* sp.) and mesquite (*Prosopis* sp.), forming a dense river-bottom habitat corridor from the [[San Carlos Indian Reservation]] to the Camelsback Dam site. - Functions as critical nesting, roosting, an...
 > -- *[[InvestigationOfProposedProject_1967_03_31]]*
 
+> The [[Arizona Fishery Resources Office]] (AzFRO) successfully restored [[Gila Topminnow]] habitat at the Bylas Springs complex on the [[San Carlos Indian Reservation]] through a multi-agency partnership. The project addressed the near-extinction of [[Poeciliopsis occidentalis occidentalis]], once...
+> -- *[[NewFishHabitatRestorationAndPa_11759]]*
+
 ## Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
 - [[InvestigationOfProposedProject_1967_03_31]]
+- [[NewFishHabitatRestorationAndPa_11759]]

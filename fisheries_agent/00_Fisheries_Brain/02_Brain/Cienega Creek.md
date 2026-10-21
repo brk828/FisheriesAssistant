@@ -41,6 +41,9 @@ Cienega Creek is a desert stream system in the BLM Tucson Resource Area of Arizo
 > This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
 > -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
 
+> This Master's thesis by Robert Eugene Forrest (University of Arizona, 1992) quantifies microhabitat use and preference of the federally endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) through field observations in [[Cienega Creek]], Arizona, and controlled laboratory...
+> -- *[[HabitatUseAndPreferenceOfGilaT_18783]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
@@ -65,3 +68,4 @@ Cienega Creek is a desert stream system in the BLM Tucson Resource Area of Arizo
 - [[StatusReportForNaturalAndIntro_12972]]
 - [[BiologicalOpinionOnTheEffectsT_11884]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
+- [[HabitatUseAndPreferenceOfGilaT_18783]]

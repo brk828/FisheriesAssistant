@@ -32,6 +32,9 @@ Lake Sturgeon (*Acipenser fulvescens*) is a large, long-lived anadromous fish sp
 > This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
 > -- *[[CodeOfFederalRegulationsPartEn_11616]]*
 
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
 ## Mentioned In
 - [[ChangesInWalleyeStizostedionVi_1977_03_18]]
 - [[EndangeredThreatenedAndRarePla_14903]]
@@ -44,3 +47,4 @@ Lake Sturgeon (*Acipenser fulvescens*) is a large, long-lived anadromous fish sp
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[CodeOfFederalRegulationsPartEn_11616]]
+- [[ListOfFishesReportedFromKansas_18026]]

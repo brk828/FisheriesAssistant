@@ -11,5 +11,9 @@ Loggerhead Shrike (Lanius ludovicianus) is a Candidate Category 2 (C2) bird spec
 > This biological assessment was conducted 8–18 July 1994 for the [[Papago Park Military Reservation]] (PPMR) in Phoenix, Arizona, in support of an environmental assessment for proposed construction of a consolidated maintenance facility by the Arizona Army National Guard. The survey documented 36...
 > -- *[[PapagoParkMilitaryReservationB_13351]]*
 
+> This Federal Register notice (Vol. 56, No. 225, November 21, 1991) presents the U.S. Fish and Wildlife Service's updated compilation of vertebrate and invertebrate animal taxa native to the United States being reviewed for possible addition to the List of Endangered and Threatened Wildlife under...
+> -- *[[EndangeredAndThreatenedWildlif_11596]]*
+
 ## Mentioned In
 - [[PapagoParkMilitaryReservationB_13351]]
+- [[EndangeredAndThreatenedWildlif_11596]]

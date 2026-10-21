@@ -14,7 +14,11 @@ The Arizona Fishery Resources Office is a U.S. Fish and Wildlife Service divisio
 > This 1993 memorandum from Owen T. Gorman (FWS GCES Project Coordinator) to Dr. W.L. Minckley (GCES Science Advisor) reports on the status of fish and habitat research data collected under the **Glen Canyon Environmental Studies (GCES)** program in the Grand Canyon ecosystem. Two primary data stre...
 > -- *[[ResponseToSpecificConcernsAbou_1993_12_03]]*
 
+> The [[Arizona Fishery Resources Office]] (AzFRO) successfully restored [[Gila Topminnow]] habitat at the Bylas Springs complex on the [[San Carlos Indian Reservation]] through a multi-agency partnership. The project addressed the near-extinction of [[Poeciliopsis occidentalis occidentalis]], once...
+> -- *[[NewFishHabitatRestorationAndPa_11759]]*
+
 ## Mentioned In
 - [[CorrespondenceRegardingLoachMi_1993_06_14]]
 - [[LoachMinnowStudyPlanForBiologi_1996_05_17]]
 - [[ResponseToSpecificConcernsAbou_1993_12_03]]
+- [[NewFishHabitatRestorationAndPa_11759]]

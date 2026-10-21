@@ -50,6 +50,9 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 > This recovery plan addresses [[Gasterosteus aculeatus williamsoni]], the [[Unarmored Threespine Stickleback]], an endangered freshwater fish subspecies endemic to southern California. Prepared by the Unarmored Threespine Stickleback Recovery Team (led by Shoken Sasaki, California Department of Fish...
 > -- *[[RecoveryPlanForUnarmoredThrees_20518]]*
 
+> This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
+> -- *[[InformationRegardingManagement_16919]]*
+
 ## Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -73,3 +76,4 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[NitrogenAndPhosphorousDynamics_17776]]
 - [[RecoveryPlanForUnarmoredThrees_20518]]
+- [[InformationRegardingManagement_16919]]

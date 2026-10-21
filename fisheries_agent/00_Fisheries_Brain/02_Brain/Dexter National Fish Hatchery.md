@@ -230,6 +230,39 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
 > -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
 
+> This draft management plan addresses the conservation and recovery of four endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]]...
+> -- *[[DraftLowerColoradoRiverBasinNa_11664]]*
+
+> This 1986 memorandum from the [[Bureau of Reclamation]] Upper Colorado Regional Office to the [[U.S. Fish and Wildlife Service]] Endangered Species Office proposes collaboration with Dr. W. L. Minckley of [[Arizona State University]] on basin-wide systematic studies of the genus *[[Gila]]*. The...
+> -- *[[FutureGilaWork_11987]]*
+
+> This document presents a standardized protocol for non-lethal tissue collection from [[Razorback Sucker]] (*Xyrauchen texanus*) and related sucker species across the [[Colorado River Basin]] for genetic analysis during FY 1991. Five sampling teams were assigned specific locations and sample number...
+> -- *[[RazorbackSuckerNonlethalTissue_12081]]*
+
+> This draft final report presents a comprehensive biochemical genetic analysis of [[Colorado Squawfish]] (*Ptychocheilus lucius*), a large river cyprinid listed as endangered in 1967. The study examined 833 individuals (151 wild adults, 64 juveniles, 478 young-of-year, and 140 hatchery-reared fish)...
+> -- *[[BiochemicalGeneticsOfEndangere_12089]]*
+
+> This feasibility study proposal evaluates non-lethal stomach pumping techniques for assessing food habits of [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The study addresses concerns about potential damage to pharyngeal teeth during stomach content recovery. Using surrogate species...
+> -- *[[ANonlethalStomachPumpToRecover_13647]]*
+
+> This September 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates the need for and design of a dedicated hatchery to produce endangered [[Colorado River]] fishes. The study addresses production requirements through 1996 for three species:...
+> -- *[[ColoradoRiverEndangeredFishHat_13665]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This correspondence from the [[Desert Fishes Recovery Team]] to the U.S. Fish and Wildlife Service Regional Director documents recommendations and action items from their April 17, 1986 meeting in Tucson, Arizona. The team addresses critical conservation issues for multiple endangered desert fish...
+> -- *[[ItemsToBringToYourAttentionAft_13731]]*
+
+> This document describes recovery efforts for the [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered catostomid fish endemic to the [[Colorado River Basin]] of western North America. The species, once abundant and used as food by indigenous peoples, has experienced severe population declines....
+> -- *[[DraftmanagementTowardRecoveryO_13751]]*
+
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
+> This correspondence from the [[University of Michigan]] [[Museum of Zoology]] Division of Fishes provides expert identification of five catfish specimens submitted by the [[Dexter National Fish Hatchery]] in [[New Mexico]]. The analysis confirms hybridization between [[Yaqui Catfish]] ([[Ictalurus...
+> -- *[[ReportOnYaquiCatfishReceived_15380]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -426,3 +459,14 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[ColoradoSquawfishPtychocheilus_13278]]
 - [[DraftprotocolForHandlingAndTra_13900]]
 - [[GeneticDiversityOfRazorbackSuc_19126]]
+- [[DraftLowerColoradoRiverBasinNa_11664]]
+- [[FutureGilaWork_11987]]
+- [[RazorbackSuckerNonlethalTissue_12081]]
+- [[BiochemicalGeneticsOfEndangere_12089]]
+- [[ANonlethalStomachPumpToRecover_13647]]
+- [[ColoradoRiverEndangeredFishHat_13665]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[ItemsToBringToYourAttentionAft_13731]]
+- [[DraftmanagementTowardRecoveryO_13751]]
+- [[ABibliographyOfTheFederallyEnd_14370]]
+- [[ReportOnYaquiCatfishReceived_15380]]

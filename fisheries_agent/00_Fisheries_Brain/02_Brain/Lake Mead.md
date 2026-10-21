@@ -224,6 +224,18 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
 > -- *[[GlenCanyonEnvironmentalStudies_19719]]*
 
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
+> This document is a formal letter from Professor W.L. Minckley (Arizona State University, Department of Zoology) dated February 4, 1983, responding to a proposal by the Utah Division of Wildlife to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. Minckley expresses strong...
+> -- *[[ReProposalIntroductionOfRainbo_13753]]*
+
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
+> This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
+> -- *[[FormalReviewcrticialHabitatOfT_20672]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -373,3 +385,7 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[EarlyFieldNotes_15954]]
 - [[GeneticDiversityOfRazorbackSuc_19126]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
+- [[DraftRecoveryGoals_11689]]
+- [[ReProposalIntroductionOfRainbo_13753]]
+- [[ABibliographyOfTheFederallyEnd_14370]]
+- [[FormalReviewcrticialHabitatOfT_20672]]

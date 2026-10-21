@@ -20,9 +20,17 @@ auto_enriched: true
 > This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
 > -- *[[DraftLittleColoradoRiverSpined_11662]]*
 
+> This document is a formal consultation letter from the [[U.S. Fish and Wildlife Service]] (USFWS) Arizona Ecological Services Field Office to the [[Apache-Sitgreaves National Forest]] regarding 27 proposed forest management projects submitted for Section 7 consultation under the [[Endangered...
+> -- *[[ReWrittenConcurrenceOnTheFores_11749]]*
+
+> This 1965 report documents the first confirmed occurrences of [[Lost River Sucker]] (*Deltistes luxatus*) and [[Shortnose Sucker]] (*Chasmistes brevirostris*) in California waters, adding both species to the state's freshwater fish fauna. Previously known only from the [[Klamath Lakes]] drainage in...
+> -- *[[OccurrencesOfTheLostRiverSucke_17577]]*
+
 ## Mentioned In
 - [[EquilibriumConditionAndSedimen_1976]]
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[LakeAndReservoirInvestigations_12145]]
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[DraftLittleColoradoRiverSpined_11662]]
+- [[ReWrittenConcurrenceOnTheFores_11749]]
+- [[OccurrencesOfTheLostRiverSucke_17577]]

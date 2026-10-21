@@ -38,6 +38,9 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 > This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[TowardRangewideIntegrationOfRe_18628]]*
 
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
 ## Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[MeasuresToImproveSportFishingA_1962]]
@@ -51,3 +54,4 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[TowardRangewideIntegrationOfRe_18628]]
+- [[RealitiesOfProvidingWaterForEn_20669]]

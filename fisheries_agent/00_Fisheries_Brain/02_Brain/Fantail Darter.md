@@ -20,6 +20,12 @@ The Fantail Darter is a small North American freshwater fish species belonging t
 > - **Dominant taxa**: [[Rainbow Darter]] (referred to as "soldier darter") and [[Fantail Darter]] dominated all riffles studied, together comprising **88.4%** of the entire darter population (Rainbow: 46.9%, Fantail: 41.5%). - **Associated darter species**: [[Johnny Darter]], [[Greenside Darter]],...
 > -- *[[NaturalProductivityOfFishAndCr_1940]]*
 
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[AgeGrowthFecundityAndFoodHabit_1964]]
 - [[DistributionHabitatAndAbundanc_1959]]
@@ -27,3 +33,5 @@ The Fantail Darter is a small North American freshwater fish species belonging t
 - [[FishesOfTheHeadwatersOfShavers_11342]]
 - [[NaturalProductivityOfFishAndCr_1940]]
 - [[SomeAspectsOfTerritorialBehavi_1963]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

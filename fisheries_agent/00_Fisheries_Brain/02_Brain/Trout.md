@@ -68,6 +68,9 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > This 1964 newspaper article describes the construction of [[Blue Ridge Dam]] on [[East Clear Creek]] in Arizona's [[Mogollon Rim]] country, part of a three-phase water transfer project by [[Phelps Dodge Corporation]] to support expanded copper mining operations at [[Morenci]]. The $6 million dam,...
 > -- *[[DramaticBattleForWaterBehindTh_18467]]*
 
+> This technical guidance document from the U.S. Department of Agriculture [[Soil Conservation Service]] provides specifications for designing and constructing farm ponds optimized for fish production. The document addresses water supply management, pond dimensions, outlet structures, vegetation...
+> -- *[[HowToBuildAFarmPondForFishProd_13264]]*
+
 ## Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -110,3 +113,4 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[FishParasites_20804]]
 - [[EthnographyOfTheNorthernUtes_21134]]
 - [[DramaticBattleForWaterBehindTh_18467]]
+- [[HowToBuildAFarmPondForFishProd_13264]]

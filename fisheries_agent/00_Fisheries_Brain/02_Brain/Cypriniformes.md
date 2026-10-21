@@ -17,6 +17,9 @@ Cypriniformes is an order of freshwater fishes that includes cyprinids (minnows,
 > This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
 > -- *[[AClassificationOfTheFishesOfTh_14438]]*
 
+> This 1953 study by A.N. Svetovidov provides a comprehensive comparative analysis of brain structure across the family [[Gadidae]] (codfishes), examining representatives from three subfamilies: [[Lotinae]], [[Merlucciinae]], and [[Gadinae]]. The research documents detailed morphological descriptions...
+> -- *[[MaterialsOnTheStructureOfTheFi_15061]]*
+
 ## Mentioned In
 - [[BiochemicalIdentificationOfMox_14133]]
 - [[CliolaHybopsisTopekaGilbertCur_18324]]
@@ -24,3 +27,4 @@ Cypriniformes is an order of freshwater fishes that includes cyprinids (minnows,
 - [[NotesOnSomeCaptiveMinnowsPimep_1961]]
 - [[SystematicStudiesAndBiodiversi_12427]]
 - [[AClassificationOfTheFishesOfTh_14438]]
+- [[MaterialsOnTheStructureOfTheFi_15061]]

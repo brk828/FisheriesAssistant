@@ -17,8 +17,12 @@ auto_enriched: true
 > This Federal Register document (Vol. 51, No. 61, March 31, 1986) announces the U.S. Fish and Wildlife Service's final determination to list the [[Desert Pupfish]] (*Cyprinodon macularius*) as an endangered species under the Endangered Species Act of 1973, as amended. The rule also designates...
 > -- *[[EndangeredAndThreatenedWildlif_11555]]*
 
+> This correspondence from the [[Desert Fishes Recovery Team]] to the U.S. Fish and Wildlife Service Regional Director documents recommendations and action items from their April 17, 1986 meeting in Tucson, Arizona. The team addresses critical conservation issues for multiple endangered desert fish...
+> -- *[[ItemsToBringToYourAttentionAft_13731]]*
+
 ## Mentioned In
 - [[CAFGAnnualPermitReport_1992-12-15]]
 - [[LetterOnDesertPupfishSamplingL_19160]]
 - [[MemorandumLowerBasinSubcommitt_11426]]
 - [[EndangeredAndThreatenedWildlif_11555]]
+- [[ItemsToBringToYourAttentionAft_13731]]

@@ -26,6 +26,9 @@ The Colorado Water Conservation Board was conducting a Hatchery Feasibility Stud
 > This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[TowardRangewideIntegrationOfRe_18628]]*
 
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held September 13, 1989, in Lakewood, Colorado. The meeting addressed recovery efforts for rare and endangered fish species in the [[Colorado River Basin]], focusing on water...
+> -- *[[ManagementGroupMeetingSummarSe_21019]]*
+
 ## Mentioned In
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[AlternativeApproachesToHcpsFor_16735]]
@@ -33,3 +36,4 @@ The Colorado Water Conservation Board was conducting a Hatchery Feasibility Stud
 - [[SummaryjanuaryManagementGroupM_21002]]
 - [[ManagementGroupMeetingSummary_19219]]
 - [[TowardRangewideIntegrationOfRe_18628]]
+- [[ManagementGroupMeetingSummarSe_21019]]

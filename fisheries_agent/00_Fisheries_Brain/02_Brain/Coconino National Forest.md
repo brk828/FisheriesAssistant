@@ -29,6 +29,9 @@ The Coconino National Forest represents a critical management jurisdiction encom
 > This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
 > -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
 
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
 ## Mentioned In
 - [[LetterAndDraftAgendaForTheAriz_1993_09_07]]
 - [[LetterRegardingRazorbackSucker_1990_05_31]]
@@ -39,3 +42,4 @@ The Coconino National Forest represents a critical management jurisdiction encom
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
 - [[GilaTopminnowSitesInArizonaPro_19668]]
+- [[BiologicalOpinionOfFederalAids_11920]]

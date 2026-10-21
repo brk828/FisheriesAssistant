@@ -35,6 +35,9 @@ Coolidge Dam is a water management structure on the Gila River in Arizona that s
 > This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
 > -- *[[AProposalToReestablishDesertSu_20730]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
 ## Mentioned In
 - [[CommentsOnProposedBonytailChub_1986_01_07]]
 - [[GeologicRelationsOfTheGilaCong_11466]]
@@ -45,3 +48,4 @@ Coolidge Dam is a water management structure on the Gila River in Arizona that s
 - [[ResultsOfFishMonitoringOfSelec_13200]]
 - [[MinutesForDesertFishesRecovery_12506]]
 - [[AProposalToReestablishDesertSu_20730]]
+- [[DraftEnvironmentalAssessmentDe_11688]]

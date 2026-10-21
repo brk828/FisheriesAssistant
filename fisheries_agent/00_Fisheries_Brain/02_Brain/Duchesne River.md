@@ -59,6 +59,18 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 > This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
 > -- *[[ColoradoRiverFisheriesInvestig_18481]]*
 
+> This final report synthesizes findings from the [[Colorado River Fishes Monitoring Project]] (1982-1985) and related studies conducted by the U.S. Fish and Wildlife Service Vernal Field Station in the [[Green River Basin]] from 1979-1986. The study focused primarily on three federally endangered...
+> -- *[[GreenRiverRareAndEndangeredFis_13060]]*
+
+> This document describes recovery efforts for the [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered catostomid fish endemic to the [[Colorado River Basin]] of western North America. The species, once abundant and used as food by indigenous peoples, has experienced severe population declines....
+> -- *[[DraftmanagementTowardRecoveryO_13751]]*
+
+> This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DevelopmentOfAStandardizedMoni_15549]]*
+
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
 ## Mentioned In
 - [[AnalysisOfPastCollectionsFromT_1993]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -82,3 +94,7 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 - [[FiscalYearWorkPlan_11756]]
 - [[ColoradoSquawfishPtychocheilus_13278]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
+- [[GreenRiverRareAndEndangeredFis_13060]]
+- [[DraftmanagementTowardRecoveryO_13751]]
+- [[DevelopmentOfAStandardizedMoni_15549]]
+- [[RealitiesOfProvidingWaterForEn_20669]]

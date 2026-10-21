@@ -20,9 +20,13 @@ The Golden Redhorse is a cyprinid fish species that serves as an indicator of wa
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This correspondence documents three fish stocking events at [[Topock Marsh]], Arizona in 1977 where shipments from [[Tisomingo National Fish Hatchery]] in Oklahoma inadvertently introduced multiple non-target species alongside requested fish. The incidents involved [[Channel Catfish]] (March 30),...
+> -- *[[ContaminatedFishStockingsIntoT_20328]]*
+
 ## Mentioned In
 - [[ChangesInTheFishPopulationInTh_12453]]
 - [[SomeObservationsOnLimnologyAnd_1954]]
 - [[SpawningBehaviorOfTheShorthead_14054]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[ContaminatedFishStockingsIntoT_20328]]

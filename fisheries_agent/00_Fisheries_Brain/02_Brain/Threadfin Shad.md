@@ -143,6 +143,9 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 > This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
 > -- *[[GlenCanyonEnvironmentalStudies_19719]]*
 
+> This October 1955 California Department of Fish and Game bulletin describes an active program to introduce four non-native forage fish species into California's warmwater reservoirs to support predatory gamefish populations. The program, led by Associate Fisheries Biologist J.B. Kimsey, addresses...
+> -- *[[ForageFish_12530]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -252,3 +255,4 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 - [[TheEffectsOfInterimFlowsFromGl_13620]]
 - [[LakePowellQualityStudiesForThe_14955]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
+- [[ForageFish_12530]]

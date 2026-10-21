@@ -17,9 +17,13 @@ Paul C. Marsh is a prominent ichthyologist and principal investigator who has co
 > - **Regulatory authorizations in place**: Principal investigators [[Paul C. Marsh]] and [[Michael E. Douglas]] held existing collection permits from the Arizona Game and Fish Department (No. MRSHOGO0015) and the U.S. Fish and Wildlife Service Region 2 (CPRT-676811). - **Field personnel**: Respons...
 > -- *[[RequestForNationalParkServiceP_1994_04_22]]*
 
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
 ## Mentioned In
 - [[EndangeredSpeciesSubpermitAuth_1993_01_15]]
 - [[LakeMohaveMonitoringMarch_1999_03_24]]
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
 - [[LetterToDavidWegnerRegardingAs_1991_02_21]]
 - [[RequestForNationalParkServiceP_1994_04_22]]
+- [[ABibliographyOfTheFederallyEnd_14370]]

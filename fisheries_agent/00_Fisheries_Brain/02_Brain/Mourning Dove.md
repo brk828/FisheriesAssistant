@@ -20,9 +20,17 @@ I appreciate the detailed prompt, but I must clarify that "Mourning Dove" does n
 > This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
 > -- *[[PlanningEffortNearItsConclusio_11515]]*
 
+> This completion report documents wildlife habitat monitoring along the [[Gila River]] from Phoenix to [[Gillespie Dam]] during August 1965 to July 1966, in response to a proposed Army Corps of Engineers flood control project. The project would have cleared a 2,000-foot-wide channel through critical...
+> -- *[[GilaAndSaltRiverClearningAndCh_12483]]*
+
+> This comprehensive 1962 report by the [[Fish and Wildlife Service]] (Circular No. 143) summarizes research findings from 1960 on pesticide effects across wildlife, sport fisheries, and commercial fisheries. The document fulfills Public Law 85-582 mandating the Service to evaluate pesticide impacts...
+> -- *[[EffectsOfPesticidesOnFishAndWi_12842]]*
+
 ## Mentioned In
 - [[ColoradoRiverStudies_1966]]
 - [[GilaAndSaltRiverClearingAndCha_1967_03_31]]
 - [[InvestigationOfProposedProject_1967_03_31]]
 - [[PapagoParkMilitaryReservationB_13351]]
 - [[PlanningEffortNearItsConclusio_11515]]
+- [[GilaAndSaltRiverClearningAndCh_12483]]
+- [[EffectsOfPesticidesOnFishAndWi_12842]]

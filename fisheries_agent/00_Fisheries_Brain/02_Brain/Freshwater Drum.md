@@ -38,6 +38,12 @@ The freshwater drum (Aplodinotus grunniens) is a benthic-feeding cypriniform fis
 > This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
 > -- *[[BioassayAndUseOfPituitaryMater_15952]]*
 
+> This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
+> -- *[[StatewideRoughFishControljobNo_14932]]*
+
+> This job completion report documents the chemical treatment of [[Century Lake]] (555 acres, reduced to 463 acres at treatment) and 1.5 miles of [[White Oak Creek]] in [[Hopkins County]], Texas on May 15-16, 1963. The treatment used 995 gallons of 5% rotenone to remove the existing fish population,...
+> -- *[[StatewideRoughRishControlJobNo_19049]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -65,3 +71,5 @@ The freshwater drum (Aplodinotus grunniens) is a benthic-feeding cypriniform fis
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[BioassayAndUseOfPituitaryMater_15952]]
+- [[StatewideRoughFishControljobNo_14932]]
+- [[StatewideRoughRishControlJobNo_19049]]

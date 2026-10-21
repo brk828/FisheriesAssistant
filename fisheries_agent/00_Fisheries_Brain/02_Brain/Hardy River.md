@@ -14,6 +14,10 @@ The Hardy River is a waterway on the western side of the Colorado River Delta wh
 > This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
 > -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
 
+> This historical account describes a December hunting expedition down the [[Colorado River]] from [[Yuma]] and up the [[Hardy River]] in [[Lower California]], Mexico. The party traveled 109 miles down the Colorado and attempted 100 miles up the Hardy to reach volcanoes. While primarily a hunting...
+> -- *[[AHuntingTripDownTheColorado_17597]]*
+
 ## Mentioned In
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[AHuntingTripDownTheColorado_17597]]

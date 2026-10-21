@@ -212,6 +212,21 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 > This report documents a five-year experimental study (1946-1950) on twelve Michigan lakes testing liberalized fishing regulations for warm-water species, particularly pan fishes. The Michigan Legislature authorized experimental regulations on up to 20 lakes to evaluate effects of removing size...
 > -- *[[FishingInTwelveMichiganLakesUn_16148]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This document is a formal letter from Professor W.L. Minckley (Arizona State University, Department of Zoology) dated February 4, 1983, responding to a proposal by the Utah Division of Wildlife to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. Minckley expresses strong...
+> -- *[[ReProposalIntroductionOfRainbo_13753]]*
+
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
+> This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
+> -- *[[DraftConservationAgreementVirg_18320]]*
+
+> This creel census study examined seasonal patterns in fishing pressure and harvest on a 7-mile section of the [[Des Moines River]] in [[Boone County]], Iowa, between July 1957 and September 1958. The study area, located between Fraser and Boone dams, was surveyed using a modified Latin square...
+> -- *[[SeasonalChangesInHarvestAndFis_20577]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -357,3 +372,8 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 - [[PartICurrentSituationPartIiAPr_13306]]
 - [[AdverseBiologicalOpinionIndian_15638]]
 - [[FishingInTwelveMichiganLakesUn_16148]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[ReProposalIntroductionOfRainbo_13753]]
+- [[ListOfFishesReportedFromKansas_18026]]
+- [[DraftConservationAgreementVirg_18320]]
+- [[SeasonalChangesInHarvestAndFis_20577]]

@@ -77,6 +77,9 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
 > -- *[[EarlyFieldNotes_15954]]*
 
+> This document describes recovery efforts for the [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered catostomid fish endemic to the [[Colorado River Basin]] of western North America. The species, once abundant and used as food by indigenous peoples, has experienced severe population declines....
+> -- *[[DraftmanagementTowardRecoveryO_13751]]*
+
 ## Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -137,3 +140,4 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[DesertFishesCouncilThirteenthA_12827]]
 - [[ResultsOfRazorbackSuckerRazorb_15027]]
 - [[EarlyFieldNotes_15954]]
+- [[DraftmanagementTowardRecoveryO_13751]]

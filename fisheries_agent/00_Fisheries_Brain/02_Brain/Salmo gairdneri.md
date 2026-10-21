@@ -38,6 +38,9 @@ Salmo gairdneri, commonly known as the rainbow trout, is a coldwater fish specie
 > This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
 > -- *[[EarlyFieldNotes_15954]]*
 
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AssimilationEfficiencyOfTheFre_1990]]
@@ -54,3 +57,4 @@ Salmo gairdneri, commonly known as the rainbow trout, is a coldwater fish specie
 - [[EvaluationAndRelativeResistanc_19097]]
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[EarlyFieldNotes_15954]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]

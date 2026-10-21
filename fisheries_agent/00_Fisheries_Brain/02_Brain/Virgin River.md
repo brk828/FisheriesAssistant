@@ -137,6 +137,18 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This annotated bibliography, compiled by Terry J. Hickman in September 1987, provides a comprehensive review of 90 references concerning the [[Woundfin]] (*Plagopterus argentissimus*), an endangered cyprinid minnow endemic to the [[Colorado River Basin]]. The woundfin is a streamlined, silvery...
 > -- *[[AnnotatedBibliographyForTheWou_20385]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
+> -- *[[DraftConservationAgreementVirg_18320]]*
+
+> This legal notice from the Sierra Club Legal Defense Fund, dated June 22, 1994, addresses violations of the Endangered Species Act (ESA) related to operation of the [[Quail Creek Reservoir Project]] in the [[Virgin River Basin]], Utah. The document notifies the Secretary of the Interior and Bureau...
+> -- *[[ViolationOfQuailCreekReservoir_18647]]*
+
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -232,3 +244,7 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[VirginSpinedaceLepidomedaMolli_14744]]
 - [[WorkshopProceedings_18372]]
 - [[AnnotatedBibliographyForTheWou_20385]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[DraftConservationAgreementVirg_18320]]
+- [[ViolationOfQuailCreekReservoir_18647]]
+- [[FishesNativeToOrIntroducedInPa_18945]]

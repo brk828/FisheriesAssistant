@@ -110,6 +110,15 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 > This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
 > -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
 
+> This February 1990 correspondence from the Bureau of Reclamation Lower Colorado Regional Office documents an interagency initiative to develop native fish rearing facilities on [[Lake Mohave]] for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The proposal...
+> -- *[[InteragencyProposalToExamineTh_13018]]*
+
+> This consensus report presents findings from a scientific peer review panel convened by the American Institute of Biological Sciences (AIBS) to evaluate the draft Conservation Strategy for the [[Lower Colorado River]] Multi-Species Conservation Program (LCR MSCP). The panel met July 12, 1999 in Las...
+> -- *[[DraftConsesusReportOnTheDraftC_13540]]*
+
+> This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
+> -- *[[FormalReviewcrticialHabitatOfT_20672]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
@@ -206,3 +215,6 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 - [[ReviewOfHumpbackChubPropagatio_18515]]
 - [[PotentialForACHartMerriamCente_13747]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
+- [[InteragencyProposalToExamineTh_13018]]
+- [[DraftConsesusReportOnTheDraftC_13540]]
+- [[FormalReviewcrticialHabitatOfT_20672]]

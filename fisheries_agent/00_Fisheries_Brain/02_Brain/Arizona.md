@@ -143,6 +143,12 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 > This study examined interactions between the endangered [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*) and introduced [[Mosquitofish]] (*Gambusia affinis*) at [[San Bernardino National Wildlife Refuge]], southeastern [[Arizona]], from May 1985 through October 1987. The research...
 > -- *[[InteractionsBetweenPoeciliopsi_16887]]*
 
+> This Federal Register notice (Vol. 56, No. 225, November 21, 1991) presents the U.S. Fish and Wildlife Service's updated compilation of vertebrate and invertebrate animal taxa native to the United States being reviewed for possible addition to the List of Endangered and Threatened Wildlife under...
+> -- *[[EndangeredAndThreatenedWildlif_11596]]*
+
+> This document examines the development and morphology of ephemeral gully systems in western mountain lands, proposing a classification based on stages of development from youthful to old-age. The research, conducted primarily in the [[Colorado Rocky Mountains]] with observations from [[New...
+> -- *[[StagesOfDevelopmentOfGulliesIn_16590]]*
+
 ## Mentioned In
 - [[AuthorizationLetterForGilaTopm_1990_11_21]]
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
@@ -195,3 +201,5 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 - [[BiologicalOpinionSummaryBlueRi_11685]]
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
 - [[InteractionsBetweenPoeciliopsi_16887]]
+- [[EndangeredAndThreatenedWildlif_11596]]
+- [[StagesOfDevelopmentOfGulliesIn_16590]]

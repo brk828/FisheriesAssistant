@@ -14,6 +14,10 @@ Mono County is part of Region 5b in California's administrative fisheries system
 > This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
 > -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
 
+> This 1964 study by [[John R. Calaprice]] and [[John E. Cushing]] investigated erythrocyte (red blood cell) antigens in California trout species to determine if immunogenetic techniques could identify relationships and variation useful for fisheries management. The research examined [[Golden Trout]]...
+> -- *[[ErythrocyteAntigensOfCaliforni_17330]]*
+
 ## Mentioned In
 - [[MovementsOfInlandAnglersWithin_11325]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+- [[ErythrocyteAntigensOfCaliforni_17330]]

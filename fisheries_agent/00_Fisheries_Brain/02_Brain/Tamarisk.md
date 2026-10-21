@@ -23,6 +23,9 @@ auto_enriched: true
 > This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
 > -- *[[EarlyFieldNotes_15954]]*
 
+> This 1990 environmental assessment proposes establishing a native fish rearing facility at [[Yuma Cove]], [[Lake Mohave]], to prevent extirpation of the [[Razorback Sucker]] (*Xyrauchen texanus*). The species, once common throughout the [[Colorado River]] system from Wyoming to Mexico, is now...
+> -- *[[EnvironmentalAssessmentForLake_15466]]*
+
 ## Mentioned In
 - [[ReconnaissanceSurveyAndInvento_1993]]
 - [[VirginRiverOperationOctober_1988_10_04]]
@@ -31,3 +34,4 @@ auto_enriched: true
 - [[GilasanFranciscoRiversResource_18256]]
 - [[GlenCanyonEnvironmentalStudies_19687]]
 - [[EarlyFieldNotes_15954]]
+- [[EnvironmentalAssessmentForLake_15466]]

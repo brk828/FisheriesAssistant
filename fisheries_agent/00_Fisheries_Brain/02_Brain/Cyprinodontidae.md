@@ -65,6 +65,15 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 > This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
 > -- *[[FinalProgressReport_18563]]*
 
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReDescriptionOfAphaniusGinaon_1980]]
@@ -134,3 +143,6 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 - [[CodeOfFederalRegulationsPartEn_11616]]
 - [[IntroductionOfGilaTopminnowAnd_17957]]
 - [[FinalProgressReport_18563]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

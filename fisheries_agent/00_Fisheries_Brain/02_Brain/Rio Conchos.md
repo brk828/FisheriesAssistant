@@ -38,6 +38,9 @@ The Rio Conchos is a major tributary of the Rio Grande located in the Mexico-Tex
 > This document comprises correspondence dated December 19, 1990, from Dr. Salvador Contreras Balderas ([[Universidad Autonoma de Nuevo Leon]], Faculty of Biological Sciences) to Dr. W.L. Minckley ([[Arizona State University]]), along with Dr. Contreras Balderas's comprehensive curriculum vitae. The...
 > -- *[[CvForNewProposal_17525]]*
 
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[CorrespondenceReCollectionLoca_1964_04_07]]
@@ -47,3 +50,4 @@ The Rio Conchos is a major tributary of the Rio Grande located in the Mexico-Tex
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[ProposalBiologicallySensitiveA_16496]]
 - [[CvForNewProposal_17525]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

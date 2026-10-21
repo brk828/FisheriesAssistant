@@ -50,6 +50,9 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 > This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
 > -- *[[EarlyFieldNotes_15954]]*
 
+> This doctoral dissertation (Oklahoma State University, 1966) investigated how domestic sewage and oil refinery effluents affected the morphological characteristics and population structure of three cyprinid fish species in [[Skeleton Creek]], Oklahoma. Between June 1963 and May 1964, the author...
+> -- *[[TheEffectOfDomesticAndOilRefin_15666]]*
+
 ## Mentioned In
 - [[DistributionOfMidwesternFishes_1978]]
 - [[FiveNewSpeciesOfGyrodactylusTr_12149]]
@@ -70,3 +73,4 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 - [[BeaverScoping_18972]]
 - [[EvaluationAndRelativeResistanc_19097]]
 - [[EarlyFieldNotes_15954]]
+- [[TheEffectOfDomesticAndOilRefin_15666]]

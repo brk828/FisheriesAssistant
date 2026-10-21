@@ -113,6 +113,21 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
 > -- *[[PartManagementConcernsPriority_14724]]*
 
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
+> This October 1955 California Department of Fish and Game bulletin describes an active program to introduce four non-native forage fish species into California's warmwater reservoirs to support predatory gamefish populations. The program, led by Associate Fisheries Biologist J.B. Kimsey, addresses...
+> -- *[[ForageFish_12530]]*
+
+> This document describes recovery efforts for the [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered catostomid fish endemic to the [[Colorado River Basin]] of western North America. The species, once abundant and used as food by indigenous peoples, has experienced severe population declines....
+> -- *[[DraftmanagementTowardRecoveryO_13751]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This 1951 report by the Fisheries Task Group of the [[Colorado River Great Basin Field Committee]] presents a comprehensive survey of the Lower Colorado River fishery from [[Hoover Dam]] to the Mexican border. The study divides the river into seven sections, each assessed individually for present...
+> -- *[[FisheriesReportOfTheLowerColor_19846]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -190,3 +205,8 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[BiologyOfTheStripedBassMoroneS_15769]]
 - [[AssessmentOfTheNeedForForageEn_17853]]
 - [[PartManagementConcernsPriority_14724]]
+- [[DraftRecoveryGoals_11689]]
+- [[ForageFish_12530]]
+- [[DraftmanagementTowardRecoveryO_13751]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[FisheriesReportOfTheLowerColor_19846]]

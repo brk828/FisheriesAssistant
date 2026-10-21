@@ -14,5 +14,9 @@ auto_enriched: true
 > - **[[Gammarus tigrinus]]**: Brackish and tidal fresh waters, Gulf of St. Lawrence to North Carolina, plus a disjunct Florida (St. John's River) population; co-occurs with sibling species **[[Gammarus daiberi]]** in the Chesapeake–Delaware Bay region. Introduced to England, Ireland, Germany, and ...
 > -- *[[TheEpimeraOfNorthAmericanFresh_1970_09_25]]*
 
+> This dissertation investigates the ecology and physiological mechanisms enabling macroinvertebrates to survive in a small south-central Indiana stream ([[Caldwell Hollow]]) that becomes completely dry each summer. The stream fauna is dominated by two aquatic peracarid crustaceans, [[Lirceus...
+> -- *[[TheEcologyOfInvertebratesInAnI_15957]]*
+
 ## Mentioned In
 - [[TheEpimeraOfNorthAmericanFresh_1970_09_25]]
+- [[TheEcologyOfInvertebratesInAnI_15957]]

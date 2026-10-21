@@ -50,6 +50,12 @@ Mexico is the location of the Cienega de Santa Clara wetland in Sonora, which wa
 > This 1987 memorandum from Professor W. L. Minckley to the Chair of Arizona State University's Department of Zoology proposes a Centennial Celebration commemorating [[C. Hart Merriam]]'s pioneering work on life zones. Merriam's 1890 publication "Results of a Biological Survey of the San Francisco...
 > -- *[[PotentialForACHartMerriamCente_13747]]*
 
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
+> This geological study presents new cartographic data from the Yecora-Maicova sector of the [[Sierra Madre Occidental]] in [[Sonora]], [[Mexico]], between parallels 28°15' and 28°30'. The research demonstrates that the Tertiary volcanic sequence must distinguish between basalts and ignimbrites, with...
+> -- *[[GeologiedonneesPreliminairesSu_15989]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[APetitionPursuantToArticleOfTh_17637]]
@@ -65,3 +71,5 @@ Mexico is the location of the Cienega de Santa Clara wetland in Sonora, which wa
 - [[UpdatesFromEpPister_12831]]
 - [[SaleOfLandInLasTortugasNearThe_12870]]
 - [[PotentialForACHartMerriamCente_13747]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]
+- [[GeologiedonneesPreliminairesSu_15989]]

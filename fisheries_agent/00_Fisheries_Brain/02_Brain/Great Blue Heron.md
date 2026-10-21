@@ -26,6 +26,9 @@ Great Blue Heron is a large wading bird species. During the May 1989 Pyramid Lak
 > This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
 > -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
 
+> This comprehensive 1962 report by the [[Fish and Wildlife Service]] (Circular No. 143) summarizes research findings from 1960 on pesticide effects across wildlife, sport fisheries, and commercial fisheries. The document fulfills Public Law 85-582 mandating the Service to evaluate pesticide impacts...
+> -- *[[EffectsOfPesticidesOnFishAndWi_12842]]*
+
 ## Mentioned In
 - [[SummaryOfPyramidLakeTrip_13173]]
 - [[ABibliographyAndHostListForThe_15289]]
@@ -33,3 +36,4 @@ Great Blue Heron is a large wading bird species. During the May 1989 Pyramid Lak
 - [[TheMaineSmallmouth_14928]]
 - [[MichiganFishPredators_12681]]
 - [[AStudyOfTheFisheriesOnBitterLa_14374]]
+- [[EffectsOfPesticidesOnFishAndWi_12842]]

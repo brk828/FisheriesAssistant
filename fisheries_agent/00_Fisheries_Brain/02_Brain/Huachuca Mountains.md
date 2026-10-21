@@ -20,9 +20,13 @@ The Huachuca Mountains represent a critical "sky island" mountain range in south
 > This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
 > -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
 
+> This status report documents [[Lilaeopsis schaffneriana]] subspecies recurva, a rare semi-aquatic perennial plant endemic to cienega wetlands in southeastern Arizona and adjacent Sonora, Mexico. The taxon is a USFWS Candidate Category 2 species and USFS Sensitive Plant. Surveys conducted 1988-1990...
+> -- *[[StatusReportLilaeopsisSchaffne_14909]]*
+
 ## Mentioned In
 - [[AshmunellaAngulataEsuritorLent_18478]]
 - [[FishAndWildlifeServiceLetterOn_1994_08_22]]
 - [[PetitionToListTheHuachucaWater_1993_05_31]]
 - [[TheNextParagraphIsMissingButTh_11894]]
 - [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[StatusReportLilaeopsisSchaffne_14909]]

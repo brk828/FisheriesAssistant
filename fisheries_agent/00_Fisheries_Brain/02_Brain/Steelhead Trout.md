@@ -47,6 +47,9 @@ Steelhead trout are anadromous salmonids that migrate between freshwater rivers 
 > This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
 > -- *[[FishAndFishEggDistributionRepo_13434]]*
 
+> This 1958 study by Wilbur L. Hartman investigated whether sedating fish with [[Urethane]] reduced measurement error and improved accuracy when recording fork and total lengths. Four groups of fish were measured repeatedly while normal and while drugged: yearling [[Brown Trout]], yearling [[Lake...
+> -- *[[TheUseOfSedativesToReduceManip_20686]]*
+
 ## Mentioned In
 - [[BlameTheArmyForMuckyRiversToo_1995_04_17]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -73,3 +76,4 @@ Steelhead trout are anadromous salmonids that migrate between freshwater rivers 
 - [[StatewideFishingHarvestSurvey_17659]]
 - [[ColumnarisDiseaseOfFishes_21236]]
 - [[FishAndFishEggDistributionRepo_13434]]
+- [[TheUseOfSedativesToReduceManip_20686]]

@@ -29,6 +29,9 @@ auto_enriched: true
 > This study examined interactions between the endangered [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*) and introduced [[Mosquitofish]] (*Gambusia affinis*) at [[San Bernardino National Wildlife Refuge]], southeastern [[Arizona]], from May 1985 through October 1987. The research...
 > -- *[[InteractionsBetweenPoeciliopsi_16887]]*
 
+> This status report documents [[Lilaeopsis schaffneriana]] subspecies recurva, a rare semi-aquatic perennial plant endemic to cienega wetlands in southeastern Arizona and adjacent Sonora, Mexico. The taxon is a USFWS Candidate Category 2 species and USFS Sensitive Plant. Surveys conducted 1988-1990...
+> -- *[[StatusReportLilaeopsisSchaffne_14909]]*
+
 ## Mentioned In
 - [[AsianTapewormEradicationStrate_13118]]
 - [[RestorationProposalForSanBerna_13383]]
@@ -38,3 +41,4 @@ auto_enriched: true
 - [[FisheryManagementForTheSanBern_18979]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[InteractionsBetweenPoeciliopsi_16887]]
+- [[StatusReportLilaeopsisSchaffne_14909]]

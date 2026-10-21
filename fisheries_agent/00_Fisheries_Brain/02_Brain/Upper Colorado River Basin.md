@@ -143,6 +143,39 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
 > -- *[[ColoradoRiverFisheriesInvestig_18481]]*
 
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
+> This document presents a standardized protocol for non-lethal tissue collection from [[Razorback Sucker]] (*Xyrauchen texanus*) and related sucker species across the [[Colorado River Basin]] for genetic analysis during FY 1991. Five sampling teams were assigned specific locations and sample number...
+> -- *[[RazorbackSuckerNonlethalTissue_12081]]*
+
+> This job progress report documents the second year (October 1, 1978 to September 30, 1979) of the [[Colorado Division of Wildlife]]'s endangered fish monitoring program targeting [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Humpback Chub]] (*Gila cypha*). Field crews sampled five trend...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12715]]*
+
+> This final report synthesizes findings from the [[Colorado River Fishes Monitoring Project]] (1982-1985) and related studies conducted by the U.S. Fish and Wildlife Service Vernal Field Station in the [[Green River Basin]] from 1979-1986. The study focused primarily on three federally endangered...
+> -- *[[GreenRiverRareAndEndangeredFis_13060]]*
+
+> This September 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates the need for and design of a dedicated hatchery to produce endangered [[Colorado River]] fishes. The study addresses production requirements through 1996 for three species:...
+> -- *[[ColoradoRiverEndangeredFishHat_13665]]*
+
+> This document comprises correspondence from the [[Desert Fishes Council]] (DFC) regarding a dispute with the [[U.S. Fish and Wildlife Service]] (Service) over the "Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin." The DFC was excluded from initial...
+> -- *[[ReUsFishAndWildlifeServicedese_13754]]*
+
+> This study evaluated five tagging and marking systems for three endangered [[Colorado River]] fishes: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and [[Bonytail]] (*Gila elegans*). Conducted from October 1989 to March 1991 at three U.S. Fish and...
+> -- *[[AStudyToEvaluateSeveralTagging_13901]]*
+
+> This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DevelopmentOfAStandardizedMoni_15549]]*
+
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
+> This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
+> -- *[[FormalReviewcrticialHabitatOfT_20672]]*
+
+> This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
+> -- *[[FyAnnualProjectReportColoradoR_21244]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -233,3 +266,14 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[DesertFishesCouncilEighteenthA_12829]]
 - [[DraftprotocolForHandlingAndTra_13900]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
+- [[FiscalYearWorkPlan_11742]]
+- [[RazorbackSuckerNonlethalTissue_12081]]
+- [[ColoradoSquawfishAndHumpbackCh_12715]]
+- [[GreenRiverRareAndEndangeredFis_13060]]
+- [[ColoradoRiverEndangeredFishHat_13665]]
+- [[ReUsFishAndWildlifeServicedese_13754]]
+- [[AStudyToEvaluateSeveralTagging_13901]]
+- [[DevelopmentOfAStandardizedMoni_15549]]
+- [[RealitiesOfProvidingWaterForEn_20669]]
+- [[FormalReviewcrticialHabitatOfT_20672]]
+- [[FyAnnualProjectReportColoradoR_21244]]

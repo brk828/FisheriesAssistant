@@ -62,6 +62,12 @@ The University of Arizona served as an institutional partner in federally-author
 > This document consists of correspondence from May 1995 regarding a proposed beaver (*Castor canadensis frondator*) reintroduction to the [[San Pedro River]] [[Riparian National Conservation Area]] in Arizona. Dr. Robin D. Silver raises concerns about declining river flows (67% reduction in low...
 > -- *[[DeclineInLowFlowsOfSanPedroAnd_18974]]*
 
+> This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
+> -- *[[DraftProposedCriteriaForDesign_14776]]*
+
+> This report documents the 1989 annual census of [[Desert Pupfish]] (*Cyprinodon macularius eremus*) conducted at [[Quitobaquito Pond]] in [[Organ Pipe Cactus National Monument]] on September 27-28, 1989, under U.S. Fish and Wildlife Service endangered species permit PRT-676811. Using a...
+> -- *[[ReportOnTheAnnualCensusOfCypri_18280]]*
+
 ## Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -85,3 +91,5 @@ The University of Arizona served as an institutional partner in federally-author
 - [[PotentialForACHartMerriamCente_13747]]
 - [[ArizonaDepartmentOfWaterResour_18960]]
 - [[DeclineInLowFlowsOfSanPedroAnd_18974]]
+- [[DraftProposedCriteriaForDesign_14776]]
+- [[ReportOnTheAnnualCensusOfCypri_18280]]

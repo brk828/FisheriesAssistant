@@ -29,6 +29,12 @@ Cladocera are small crustacean zooplankton organisms that inhabit freshwater aqu
 > This 1948 study examined the mid-summer feeding habits of young-of-year [[Largemouth Bass]] (*Micropterus salmoides*) in [[Clear Lake]], [[Lake County]], [[California]]. Analysis of 264 specimens collected August 10-12, 1948 revealed a clear ontogenetic diet shift: fish below 1.8 inches fed...
 > -- *[[TheFoodOfYoungLargemouthBlackB_15524]]*
 
+> This baseline study documents the ecology of [[White Sucker]] (*Catostomus commersoni*) and [[Longnose Sucker]] (*Catostomus catostomus*) populations in [[Twin Lakes]], Colorado, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Research conducted from 1971-1978 examined age and...
+> -- *[[EcologyOfCatostomidsInTwinLake_12424]]*
+
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
 ## Mentioned In
 - [[ANoteOnTheNumberOfEggsInTheEph_1956]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -41,3 +47,5 @@ Cladocera are small crustacean zooplankton organisms that inhabit freshwater aqu
 - [[RoughFishControl_20167]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 - [[TheFoodOfYoungLargemouthBlackB_15524]]
+- [[EcologyOfCatostomidsInTwinLake_12424]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]

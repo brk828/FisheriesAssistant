@@ -23,9 +23,13 @@ Tucson is a major city in central Arizona served by the Central Arizona Project 
 > This document is a July 1990 letter from a Department of Zoology faculty member to Stewart L. Udall, former Secretary of the Interior, requesting a forward for an edited volume on endangered western fishes. The letter includes a draft forward outlining key conservation controversies involving...
 > -- *[[DraftOfForwardForBookBattleAga_13788]]*
 
+> This 1935 advance print document by George Hebard Maxwell presents an ambitious proposal for water conservation and land reclamation in Arizona and California through comprehensive development of the [[Colorado River]]. The author advocates for the "Arizona Ten Projects"—ten regional development...
+> -- *[[WealthFromWastedWaters_15218]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
 - [[IntroductionOfGilaTopminnowAnd_17956]]
 - [[DraftOfForwardForBookBattleAga_13788]]
+- [[WealthFromWastedWaters_15218]]

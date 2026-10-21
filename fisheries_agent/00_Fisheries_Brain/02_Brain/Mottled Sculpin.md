@@ -23,6 +23,9 @@ The Mottled Sculpin (Cottus bairdi) is a small benthic fish species commonly fou
 > This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
 > -- *[[AnInvestigationOfEndangeredAnd_12516]]*
 
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[FishesOfTheHeadwatersOfShavers_11342]]
@@ -31,3 +34,4 @@ The Mottled Sculpin (Cottus bairdi) is a small benthic fish species commonly fou
 - [[TheUseOfRotenoneAndElectrofish_17705]]
 - [[WinterObservationsOnBottomOrga_16187]]
 - [[AnInvestigationOfEndangeredAnd_12516]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

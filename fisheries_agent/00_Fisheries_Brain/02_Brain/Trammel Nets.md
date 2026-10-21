@@ -17,7 +17,11 @@ Trammel nets are passive fishing gear consisting of multiple layers of netting w
 > - **Gear-specific protocols**: - *[[Hoop Nets]]*: Set by trained personnel in flowing water; upstream end anchored, downstream end floated; cleared every 12–72 hours (reach-dependent), or daily (≤24 hr) where predatory non-natives are present/anticipated. - *[[Trammel Nets]]*: Deployed to avoid s...
 > -- *[[FishHandlingProtocolAsunnhpPro_17005]]*
 
+> This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
+> -- *[[SummaryOfCommercialFisheriesCa_19834]]*
+
 ## Mentioned In
 - [[FishHandlingProtocolAsunnhpPro_17005]]
 - [[LetterRegardingRazorbackSucker_1990_05_31]]
 - [[QualitativeAndQuantitativeAppl_20856]]
+- [[SummaryOfCommercialFisheriesCa_19834]]

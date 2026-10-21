@@ -26,6 +26,9 @@ W.L. Minckley was a pioneering ichthyologist and conservation biologist who dedi
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the [[Bureau of Reclamation]] regarding the Draft Biological Assessment (DBA) of Operations, Maintenance, and Sensitive Species of the [[Lower Colorado River]]. Submitted May 15, 1996, the letter represents input from...
 > -- *[[WrittenCommentsOnDraftBiologic_20522]]*
 
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
 ## Mentioned In
 - [[AllozymeDifferencesDuplicateGe_11423]]
 - [[Allozymic variation in desert pupfish from natural and artificial habitats genetic conservation in fluctuating populatio]]
@@ -100,3 +103,4 @@ W.L. Minckley was a pioneering ichthyologist and conservation biologist who dedi
 - [[VirginRiverMeetingOf_11186]]
 - [[WillowBeachNfhBonytailChubLog_1988_06_01]]
 - [[WrittenCommentsOnDraftBiologic_20522]]
+- [[ABibliographyOfTheFederallyEnd_14370]]

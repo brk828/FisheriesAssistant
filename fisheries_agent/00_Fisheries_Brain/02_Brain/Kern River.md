@@ -11,7 +11,11 @@ auto_enriched: true
 > This comprehensive study evaluates California's catchable-sized trout stocking program from 1954-1958, during which approximately seven million 7-to-8-inch [[Rainbow Trout]] (Salmo gairdnerii) were stocked annually at a cost of $1,366,000. The research developed rapid, inexpensive survey methods to...
 > -- *[[CaliforniaCatchableTroutFisher_14146]]*
 
+> This 1964 study by [[John R. Calaprice]] and [[John E. Cushing]] investigated erythrocyte (red blood cell) antigens in California trout species to determine if immunogenetic techniques could identify relationships and variation useful for fisheries management. The research examined [[Golden Trout]]...
+> -- *[[ErythrocyteAntigensOfCaliforni_17330]]*
+
 ## Mentioned In
 - [[SalmoRoseiNotAValidSpecies_12861]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[CaliforniaCatchableTroutFisher_14146]]
+- [[ErythrocyteAntigensOfCaliforni_17330]]

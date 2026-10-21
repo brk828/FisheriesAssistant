@@ -47,6 +47,9 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 > This 1964 newspaper article describes the construction of [[Blue Ridge Dam]] on [[East Clear Creek]] in Arizona's [[Mogollon Rim]] country, part of a three-phase water transfer project by [[Phelps Dodge Corporation]] to support expanded copper mining operations at [[Morenci]]. The $6 million dam,...
 > -- *[[DramaticBattleForWaterBehindTh_18467]]*
 
+> This comprehensive directory, published by the Commission on the Arizona Environment in 1987, catalogs businesses, organizations, and agencies concerned with environmental resources in Arizona. The document provides contact information and descriptions for over 200 entities across multiple sectors...
+> -- *[[ArizonaEnvironmentalAndResourc_17454]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[CompilationOfCommentsOnBigRive_11763]]
@@ -63,3 +66,4 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 - [[ReProgressReportOnConstruction_13911]]
 - [[CommercialFisheriesPotentialOf_18584]]
 - [[DramaticBattleForWaterBehindTh_18467]]
+- [[ArizonaEnvironmentalAndResourc_17454]]

@@ -14,7 +14,11 @@ auto_enriched: true
 > This document presents the Fiscal Year 1998 Annual Monitoring and Research Plan for the [[Grand Canyon Monitoring and Research Center]] (GCMRC), representing the first year of implementation of the Long-Term Monitoring and Research Strategic Plan (1998-2002). The plan addresses monitoring and...
 > -- *[[FiscalYearAnnualMonitoringAndR_17765]]*
 
+> This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
+> -- *[[InformationRegardingManagement_16919]]*
+
 ## Mentioned In
 - [[NrcWstbGcmrcCommitteeStrategic_1998_07_30]]
 - [[GlenCanyonDamTemperatureContro_17019]]
 - [[FiscalYearAnnualMonitoringAndR_17765]]
+- [[InformationRegardingManagement_16919]]

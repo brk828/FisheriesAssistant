@@ -314,6 +314,24 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > This document contains administrative correspondence and planning materials for the 1996 [[Glen Canyon Dam]] experimental high flow release, designed as a beach/habitat building test. The primary document is a schedule revision memo dated January 9, 1996, from the [[Bureau of Reclamation]]'s [[Glen...
 > -- *[[ChangeInScheduleForExperimenta_19736]]*
 
+> This draft management plan addresses the conservation and recovery of four endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]]...
+> -- *[[DraftLowerColoradoRiverBasinNa_11664]]*
+
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
+> -- *[[InformationRegardingManagement_16919]]*
+
+> This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
+> -- *[[FormalReviewcrticialHabitatOfT_20672]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -519,3 +537,9 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[GlenCanyonEnvironmentalStudies_19708]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[ChangeInScheduleForExperimenta_19736]]
+- [[DraftLowerColoradoRiverBasinNa_11664]]
+- [[DraftRecoveryGoals_11689]]
+- [[ABibliographyOfTheFederallyEnd_14370]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[InformationRegardingManagement_16919]]
+- [[FormalReviewcrticialHabitatOfT_20672]]

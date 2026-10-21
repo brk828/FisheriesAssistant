@@ -251,6 +251,30 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > This document contains administrative correspondence and planning materials for the 1996 [[Glen Canyon Dam]] experimental high flow release, designed as a beach/habitat building test. The primary document is a schedule revision memo dated January 9, 1996, from the [[Bureau of Reclamation]]'s [[Glen...
 > -- *[[ChangeInScheduleForExperimenta_19736]]*
 
+> This draft management plan addresses the conservation and recovery of four endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]]...
+> -- *[[DraftLowerColoradoRiverBasinNa_11664]]*
+
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
+> This document is a formal letter from Professor W.L. Minckley (Arizona State University, Department of Zoology) dated February 4, 1983, responding to a proposal by the Utah Division of Wildlife to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. Minckley expresses strong...
+> -- *[[ReProposalIntroductionOfRainbo_13753]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This 1935 advance print document by George Hebard Maxwell presents an ambitious proposal for water conservation and land reclamation in Arizona and California through comprehensive development of the [[Colorado River]]. The author advocates for the "Arizona Ten Projects"—ten regional development...
+> -- *[[WealthFromWastedWaters_15218]]*
+
+> This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
+> -- *[[InformationRegardingManagement_16919]]*
+
+> This document comprises a 1990 proposal and preliminary investigation by the [[Larval Fish Laboratory]] at [[Colorado State University]] addressing concerns about electrofishing impacts on fish in [[Grand Canyon National Park]]. The [[National Park Service]] mandated evaluation of electrofishing...
+> -- *[[DraftDocumentimpactsOfElectrof_19691]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -445,3 +469,11 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[GlenCanyonEnvironmentalStudies_19708]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[ChangeInScheduleForExperimenta_19736]]
+- [[DraftLowerColoradoRiverBasinNa_11664]]
+- [[DraftRecoveryGoals_11689]]
+- [[BiologicalOpinionOfFederalAids_11920]]
+- [[ReProposalIntroductionOfRainbo_13753]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[WealthFromWastedWaters_15218]]
+- [[InformationRegardingManagement_16919]]
+- [[DraftDocumentimpactsOfElectrof_19691]]

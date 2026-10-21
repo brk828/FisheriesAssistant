@@ -23,6 +23,12 @@ auto_enriched: true
 > This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
 > -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
 
+> This final report synthesizes findings from the [[Colorado River Fishes Monitoring Project]] (1982-1985) and related studies conducted by the U.S. Fish and Wildlife Service Vernal Field Station in the [[Green River Basin]] from 1979-1986. The study focused primarily on three federally endangered...
+> -- *[[GreenRiverRareAndEndangeredFis_13060]]*
+
+> This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
+> -- *[[FormalReviewcrticialHabitatOfT_20672]]*
+
 ## Mentioned In
 - [[DistributionHabitatUseAndGrowt_1991]]
 - [[PopulationSizeAndStatusOfTheRa_1988]]
@@ -31,3 +37,5 @@ auto_enriched: true
 - [[SpawningAndMovementsOfRazorbac_1990]]
 - [[DraftRecoveryImplementationPro_11643]]
 - [[HabitatUseAndStreamflowNeedsOf_11609]]
+- [[GreenRiverRareAndEndangeredFis_13060]]
+- [[FormalReviewcrticialHabitatOfT_20672]]

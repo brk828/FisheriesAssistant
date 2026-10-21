@@ -212,6 +212,15 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
 > -- *[[GlenCanyonEnvironmentalStudies_19719]]*
 
+> This 1942 report documents the first confirmed occurrence of ten-pounders ([[Elops affinis]]) in the [[Salton Sea]], California, representing a potential new sport fishery for this previously barren water body. Between May 14-24, 1942, commercial fishermen and biologists captured 244 specimens...
+> -- *[[AGameFishForTheSaltonSeaTheTen_12860]]*
+
+> This document is a formal letter from Professor W.L. Minckley (Arizona State University, Department of Zoology) dated February 4, 1983, responding to a proposal by the Utah Division of Wildlife to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. Minckley expresses strong...
+> -- *[[ReProposalIntroductionOfRainbo_13753]]*
+
+> This 1993 technical document from the [[San Marcos National Fish Hatchery]] provides comprehensive genetic management guidelines for federal fish hatcheries in Region 2. The document addresses growing concerns that hatchery operations may threaten wild fish populations through genetic degradation,...
+> -- *[[GeneralGeneticGuidelinesForReg_18841]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -378,3 +387,6 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[ResultsOfRazorbackSuckerRazorb_15027]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
+- [[AGameFishForTheSaltonSeaTheTen_12860]]
+- [[ReProposalIntroductionOfRainbo_13753]]
+- [[GeneralGeneticGuidelinesForReg_18841]]

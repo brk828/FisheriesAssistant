@@ -50,6 +50,9 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This 1987 protocol document from the [[Colorado River Fishes Recovery Team]] establishes standardized procedures for field personnel to identify, capture, handle, and transport wild [[Bonytail]] (*Gila elegans*) to appropriate refugia facilities. The protocol addresses field identification...
 > -- *[[DraftprotocolForHandlingAndTra_13900]]*
 
+> This September 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates the need for and design of a dedicated hatchery to produce endangered [[Colorado River]] fishes. The study addresses production requirements through 1996 for three species:...
+> -- *[[ColoradoRiverEndangeredFishHat_13665]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -66,3 +69,4 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[RazorbackSuckerXyauchenTexanus_13769]]
 - [[TripReportForUpperColoradoRive_12974]]
 - [[DraftprotocolForHandlingAndTra_13900]]
+- [[ColoradoRiverEndangeredFishHat_13665]]

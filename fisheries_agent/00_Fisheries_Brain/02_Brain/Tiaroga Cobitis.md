@@ -56,6 +56,9 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 > This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
 > -- *[[FinalProgressReport_18563]]*
 
+> This proposal, submitted by Arizona State University to the Arizona Game and Fish Department in July 1986, outlines a one-year study to evaluate potential interactions between imperiled native [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]) versus introduced [[Red...
+> -- *[[SpikedaceAndLoachMinnowStudyAP_16483]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -96,3 +99,4 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 - [[BeaverScoping_18972]]
 - [[SonoranDesertExpertsWorkshop_13543]]
 - [[FinalProgressReport_18563]]
+- [[SpikedaceAndLoachMinnowStudyAP_16483]]

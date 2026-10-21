@@ -29,6 +29,9 @@ The Pallid Sturgeon (*Scaphirhynchus albus*) is a critically endangered species 
 > This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
 > -- *[[CodeOfFederalRegulationsPartEn_11616]]*
 
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[BigMuddyDeathOfARiver_1999_04_13]]
@@ -45,3 +48,4 @@ The Pallid Sturgeon (*Scaphirhynchus albus*) is a critically endangered species 
 - [[SubpermitAuthorizationLetterTo_1993_06_17]]
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[CodeOfFederalRegulationsPartEn_11616]]
+- [[ListOfFishesReportedFromKansas_18026]]

@@ -20,9 +20,17 @@ auto_enriched: true
 > This five-year assessment evaluates conservation actions conducted for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during the initial term (1995-2000) of the Virgin Spinedace Conservation Agreement and Strategy (VSCAS). The VSCAS was developed in 1995 as a collaborative effort among...
 > -- *[[VirginSpinedaceLepidomedaMolli_14744]]*
 
+> This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
+> -- *[[StatewideRoughFishControljobNo_14932]]*
+
+> This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
+> -- *[[DraftConservationAgreementVirg_18320]]*
+
 ## Mentioned In
 - [[RequestForRenewalOfEndangeredS_1992_11_27]]
 - [[DraftConservationAgreementForV_13234]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 - [[DraftConservationStrategyVirgi_11659]]
 - [[VirginSpinedaceLepidomedaMolli_14744]]
+- [[StatewideRoughFishControljobNo_14932]]
+- [[DraftConservationAgreementVirg_18320]]

@@ -50,6 +50,9 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 > This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
 > -- *[[FinalProgressReport_18563]]*
 
+> This 1967 doctoral dissertation by Jeanette H. Lysne at [[Arizona State University]] presents histocompatibility studies of [[Xiphophorus gordoni]] (northern platyfish) from three isolated lagunas in the [[Cuatro Ciénegas Basin]] of Coahuila, México. Using dorsal fin transplantation techniques, the...
+> -- *[[HistocompatibilityStudiesOfThe_16290]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -77,3 +80,4 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 - [[DesertFishesCouncilThirteenthA_12827]]
 - [[InteractionsBetweenPoeciliopsi_16887]]
 - [[FinalProgressReport_18563]]
+- [[HistocompatibilityStudiesOfThe_16290]]

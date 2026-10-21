@@ -14,6 +14,10 @@ Grand Valley Irrigation Company operates a diversion structure on the Colorado R
 > This document presents the Fiscal Year 1999 Work Plan for the Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin, approved by the Implementation Committee on September 10, 1998. The program addresses recovery of four endangered fish species: [[Colorado...
 > -- *[[FiscalYearWorkPlan_11756]]*
 
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
 ## Mentioned In
 - [[FiscalYearWorkPlan_11743]]
 - [[FiscalYearWorkPlan_11756]]
+- [[FiscalYearWorkPlan_11742]]

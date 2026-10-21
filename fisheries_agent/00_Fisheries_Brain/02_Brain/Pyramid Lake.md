@@ -53,6 +53,15 @@ Pyramid Lake is a terminal freshwater lake in Nevada that serves as the primary 
 > This memorandum from the [[Cui-ui Recovery Team]] proposes quantifiable recovery criteria for the endangered [[Cui-ui]] (*Chasmistes cujus*), an endemic sucker of [[Pyramid Lake]], Nevada. The document establishes probability-based persistence thresholds tied to specific water inflow targets:...
 > -- *[[RecoveryObjectiveForDraftCuiui_14622]]*
 
+> This 1990 memorandum and attached proposal outline a quantitative framework for evaluating management options in the [[Cui-ui]] ([[Chasmistes cujus]]) Recovery Plan. The approach uses hydrological modeling and population dynamics simulations to assess extinction risk over 200 years and population...
+> -- *[[CuiuiRecoveryPlanaProcedureFor_14617]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This 1965 report documents the first confirmed occurrences of [[Lost River Sucker]] (*Deltistes luxatus*) and [[Shortnose Sucker]] (*Chasmistes brevirostris*) in California waters, adding both species to the state's freshwater fish fauna. Previously known only from the [[Klamath Lakes]] drainage in...
+> -- *[[OccurrencesOfTheLostRiverSucke_17577]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[AllozymeDifferencesDuplicateGe_11423]]
@@ -105,3 +114,6 @@ Pyramid Lake is a terminal freshwater lake in Nevada that serves as the primary 
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
 - [[IssuesToDiscussAndResolveAtCui_14619]]
 - [[RecoveryObjectiveForDraftCuiui_14622]]
+- [[CuiuiRecoveryPlanaProcedureFor_14617]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[OccurrencesOfTheLostRiverSucke_17577]]

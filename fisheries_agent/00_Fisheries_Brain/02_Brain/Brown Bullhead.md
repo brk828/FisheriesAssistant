@@ -62,6 +62,9 @@ The Brown Bullhead is a freshwater catfish species that appears in ichthyologica
 > This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
 > -- *[[MichiganFishPredators_12681]]*
 
+> This report presents age and growth data for six species of warm-water game and pan fish collected from 155 ponds in eastern and north central [[Massachusetts]] during 1946-1950. A total of 1,850 individual fish were analyzed using scale reading techniques to determine age structure and growth...
+> -- *[[GrowthOfGameAndPanFish_12817]]*
+
 ## Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -97,3 +100,4 @@ The Brown Bullhead is a freshwater catfish species that appears in ichthyologica
 - [[FisheriesManagementOfElCapitan_16317]]
 - [[NorthernPikeControlAtLakeDavis_2001]]
 - [[MichiganFishPredators_12681]]
+- [[GrowthOfGameAndPanFish_12817]]

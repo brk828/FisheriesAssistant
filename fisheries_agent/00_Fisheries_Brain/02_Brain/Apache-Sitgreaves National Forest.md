@@ -17,6 +17,9 @@ Apache-Sitgreaves National Forest is a large forest management area in Arizona t
 > This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
 > -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
 
+> This document is a formal consultation letter from the [[U.S. Fish and Wildlife Service]] (USFWS) Arizona Ecological Services Field Office to the [[Apache-Sitgreaves National Forest]] regarding 27 proposed forest management projects submitted for Section 7 consultation under the [[Endangered...
+> -- *[[ReWrittenConcurrenceOnTheFores_11749]]*
+
 ## Mentioned In
 - [[FisheriesSurveyOfTheApacheSitg_1995_07_18]]
 - [[MinutesOfTheFebruaryDesertFish_1992_04_20]]
@@ -24,3 +27,4 @@ Apache-Sitgreaves National Forest is a large forest management area in Arizona t
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
+- [[ReWrittenConcurrenceOnTheFores_11749]]

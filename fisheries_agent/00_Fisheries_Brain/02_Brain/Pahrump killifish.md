@@ -35,6 +35,9 @@ The Pahrump Killifish (*Empetrichthys latos*) is a small livebearing fish endemi
 > This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
 > -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
 
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[BullfrogPredation_1985_11_27]]
@@ -48,3 +51,4 @@ The Pahrump Killifish (*Empetrichthys latos*) is a small livebearing fish endemi
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[MxMissileSystemeffectsOnDesert_20506]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[AbstractsFromTheDesertFishesCo_15019]]

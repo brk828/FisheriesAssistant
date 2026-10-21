@@ -23,7 +23,11 @@ Etheostoma flabellare, commonly known as the Fantail Darter, is a small benthic 
 > - Fish standard length range across all species tested: **27–80 mm** (typical adult sizes). - *Notropis cerasinus* subsample for oxygen/body-size analysis: 30–70 mm SL, 0.5–1.4 g body weight. - No significant relationship was found between body size (standard length or weight) and survival time u...
 > -- *[[ToleranceOfHeadwaterVsMainstre_15191]]*
 
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
 ## Mentioned In
 - [[DensitiesAndEcologyOfTheDarter_13404]]
 - [[NestsEggsAndLarvaeOfTheElegant_1981]]
 - [[ToleranceOfHeadwaterVsMainstre_15191]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]

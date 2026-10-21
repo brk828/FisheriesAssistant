@@ -44,6 +44,9 @@ Clupeidae is a large family of ray-finned fishes that includes herrings, sardine
 > This taxonomic study documents a small collection of Isospondylous and Characoid fishes from [[British Honduras]] (modern [[Belize]]) and neighboring [[Guatemala]], a poorly known Central American region. The collection includes representatives from two families: [[Dorosomidae]] (gizzard shads) and...
 > -- *[[InQuestOfTheMayansSequelIiOnCe_16973]]*
 
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[AbundanceOfStJohnsRiverShad_1960_03_08]]
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
@@ -66,3 +69,4 @@ Clupeidae is a large family of ray-finned fishes that includes herrings, sardine
 - [[AClassificationOfTheFishesOfTh_14438]]
 - [[StatewideRoughFishControlfishE_14929]]
 - [[InQuestOfTheMayansSequelIiOnCe_16973]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

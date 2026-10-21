@@ -17,8 +17,16 @@ auto_enriched: true
 > This U.S. Geological Survey report, prepared in cooperation with the U.S. Bureau of Indian Affairs, documents predevelopment hydrologic conditions in the [[Salt River Indian Reservation]] area prior to non-Indian settlement (pre-1870s). The study was conducted to support water rights adjudication...
 > -- *[[PredevelopmentHydrologyOfTheSa_13330]]*
 
+> This strategic plan, prepared by [[Warren J. Iliff]] (Executive Director) and staff of [[The Phoenix Zoo]] in April 1995, outlines a comprehensive three-year transformation of the institution from a traditional animal exhibition facility into a mission-driven conservation communication...
+> -- *[[StrategicPlan_11177]]*
+
+> This completion report documents wildlife habitat monitoring along the [[Gila River]] from Phoenix to [[Gillespie Dam]] during August 1965 to July 1966, in response to a proposed Army Corps of Engineers flood control project. The project would have cleared a 2,000-foot-wide channel through critical...
+> -- *[[GilaAndSaltRiverClearningAndCh_12483]]*
+
 ## Mentioned In
 - [[CreelCensusLakesFisheryInvesti_1966_12_31]]
 - [[BiologicalOpinionThatAuthoriza_11901]]
 - [[BiologicalEvaluationOfTheAppro_15074]]
 - [[PredevelopmentHydrologyOfTheSa_13330]]
+- [[StrategicPlan_11177]]
+- [[GilaAndSaltRiverClearningAndCh_12483]]

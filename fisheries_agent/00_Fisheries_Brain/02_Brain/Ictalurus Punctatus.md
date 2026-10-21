@@ -62,6 +62,9 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 > This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
 > -- *[[EarlyFieldNotes_15954]]*
 
+> This correspondence from the [[University of Michigan]] [[Museum of Zoology]] Division of Fishes provides expert identification of five catfish specimens submitted by the [[Dexter National Fish Hatchery]] in [[New Mexico]]. The analysis confirms hybridization between [[Yaqui Catfish]] ([[Ictalurus...
+> -- *[[ReportOnYaquiCatfishReceived_15380]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[ChecklistOfParasitesFromCatfis_1959]]
@@ -86,3 +89,4 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[EarlyFieldNotes_15954]]
+- [[ReportOnYaquiCatfishReceived_15380]]

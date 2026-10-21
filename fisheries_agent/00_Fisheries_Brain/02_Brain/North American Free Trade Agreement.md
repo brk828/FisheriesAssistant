@@ -14,6 +14,10 @@ The North American Free Trade Agreement (NAFTA) is a trade agreement between the
 > This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
 > -- *[[BuildingSuccessfulPartnerships_13226]]*
 
+> This letter report from the EPA Border Environmental Plan Public Advisory Committee to Administrator Carol Browner (July 22, 1993) documents critical environmental and public health concerns in the [[U.S.-Mexico Border Region]]. The Committee, working with the [[Udall Center for Studies in Public...
+> -- *[[StateOfTheUsmexicoBorderEnviro_14365]]*
+
 ## Mentioned In
 - [[UsfwsmexicoCooperativeProgramG_16498]]
 - [[BuildingSuccessfulPartnerships_13226]]
+- [[StateOfTheUsmexicoBorderEnviro_14365]]

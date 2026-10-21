@@ -38,6 +38,12 @@ Arizona Bay is a shallow nearshore habitat within Lake Mohave (on the Arizona-Ne
 > This Bureau of Reclamation field report documents the 1991 annual razorback sucker ([[Xyrauchen texanus]]) capture and tagging effort at [[Lake Mohave]], focusing on Camp No. 3 operations in the [[Six-Mile Cove]] area on the Nevada side of [[Cottonwood Basin]]. The multi-agency effort (March 18-21,...
 > -- *[[ResultsOfRazorbackSuckerRazorb_15027]]*
 
+> This February 1990 correspondence from the Bureau of Reclamation Lower Colorado Regional Office documents an interagency initiative to develop native fish rearing facilities on [[Lake Mohave]] for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The proposal...
+> -- *[[InteragencyProposalToExamineTh_13018]]*
+
+> This 1990 environmental assessment proposes establishing a native fish rearing facility at [[Yuma Cove]], [[Lake Mohave]], to prevent extirpation of the [[Razorback Sucker]] (*Xyrauchen texanus*). The species, once common throughout the [[Colorado River]] system from Wyoming to Mexico, is now...
+> -- *[[EnvironmentalAssessmentForLake_15466]]*
+
 ## Mentioned In
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
 - [[LakeMohaveSamplingMay_1991_06_02]]
@@ -49,3 +55,5 @@ Arizona Bay is a shallow nearshore habitat within Lake Mohave (on the Arizona-Ne
 - [[ChronologyOfYumaCoveActivities_15028]]
 - [[RazorbackSuckerMonitoringInLak_17016]]
 - [[ResultsOfRazorbackSuckerRazorb_15027]]
+- [[InteragencyProposalToExamineTh_13018]]
+- [[EnvironmentalAssessmentForLake_15466]]

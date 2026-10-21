@@ -47,6 +47,9 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 > This comprehensive study evaluates California's catchable-sized trout stocking program from 1954-1958, during which approximately seven million 7-to-8-inch [[Rainbow Trout]] (Salmo gairdnerii) were stocked annually at a cost of $1,366,000. The research developed rapid, inexpensive survey methods to...
 > -- *[[CaliforniaCatchableTroutFisher_14146]]*
 
+> This 1990 memorandum and attached proposal outline a quantitative framework for evaluating management options in the [[Cui-ui]] ([[Chasmistes cujus]]) Recovery Plan. The approach uses hydrological modeling and population dynamics simulations to assess extinction risk over 200 years and population...
+> -- *[[CuiuiRecoveryPlanaProcedureFor_14617]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -79,3 +82,4 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 - [[RecoveryObjectiveForDraftCuiui_14622]]
 - [[KokaneeInCalifornia_18108]]
 - [[CaliforniaCatchableTroutFisher_14146]]
+- [[CuiuiRecoveryPlanaProcedureFor_14617]]

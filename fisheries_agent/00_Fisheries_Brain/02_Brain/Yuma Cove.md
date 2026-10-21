@@ -56,6 +56,9 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 > This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
 > -- *[[RazorbackSuckerMonitoringInLak_17016]]*
 
+> This 1990 environmental assessment proposes establishing a native fish rearing facility at [[Yuma Cove]], [[Lake Mohave]], to prevent extirpation of the [[Razorback Sucker]] (*Xyrauchen texanus*). The species, once common throughout the [[Colorado River]] system from Wyoming to Mexico, is now...
+> -- *[[EnvironmentalAssessmentForLake_15466]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -87,3 +90,4 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 - [[EnvironmentalAssessmentForNati_13228]]
 - [[ChronologyOfYumaCoveActivities_15028]]
 - [[RazorbackSuckerMonitoringInLak_17016]]
+- [[EnvironmentalAssessmentForLake_15466]]

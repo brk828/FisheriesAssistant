@@ -113,6 +113,24 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 > This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
 > -- *[[ColoradoRiverFisheriesInvestig_18481]]*
 
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
+> This draft final report presents a comprehensive biochemical genetic analysis of [[Colorado Squawfish]] (*Ptychocheilus lucius*), a large river cyprinid listed as endangered in 1967. The study examined 833 individuals (151 wild adults, 64 juveniles, 478 young-of-year, and 140 hatchery-reared fish)...
+> -- *[[BiochemicalGeneticsOfEndangere_12089]]*
+
+> This job progress report documents the second year (October 1, 1978 to September 30, 1979) of the [[Colorado Division of Wildlife]]'s endangered fish monitoring program targeting [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Humpback Chub]] (*Gila cypha*). Field crews sampled five trend...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12715]]*
+
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
+> This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
+> -- *[[FormalReviewcrticialHabitatOfT_20672]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -158,3 +176,9 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 - [[FiscalYearWorkPlan_11756]]
 - [[ColoradoSquawfishPtychocheilus_13278]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
+- [[DraftRecoveryGoals_11689]]
+- [[FiscalYearWorkPlan_11742]]
+- [[BiochemicalGeneticsOfEndangere_12089]]
+- [[ColoradoSquawfishAndHumpbackCh_12715]]
+- [[RealitiesOfProvidingWaterForEn_20669]]
+- [[FormalReviewcrticialHabitatOfT_20672]]

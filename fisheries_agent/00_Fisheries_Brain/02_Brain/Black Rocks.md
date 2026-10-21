@@ -50,6 +50,12 @@ Black Rocks is a geomorphological section of the Upper Colorado River located be
 > This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
 > -- *[[ColoradoRiverFisheriesInvestig_18481]]*
 
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
+> This job progress report documents the second year (October 1, 1978 to September 30, 1979) of the [[Colorado Division of Wildlife]]'s endangered fish monitoring program targeting [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Humpback Chub]] (*Gila cypha*). Field crews sampled five trend...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12715]]*
+
 ## Mentioned In
 - [[HatcheryAndLaboratoryPhaseOfTh_1980]]
 - [[InteragencyStandardizedMonitor_1993]]
@@ -67,3 +73,5 @@ Black Rocks is a geomorphological section of the Upper Colorado River located be
 - [[PartICurrentSituationPartIiAPr_13306]]
 - [[DraftprotocolForHandlingAndTra_13900]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
+- [[DraftRecoveryGoals_11689]]
+- [[ColoradoSquawfishAndHumpbackCh_12715]]

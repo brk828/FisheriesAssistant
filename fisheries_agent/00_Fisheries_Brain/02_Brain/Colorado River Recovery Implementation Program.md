@@ -35,6 +35,9 @@ The Colorado River Recovery Implementation Program is a comprehensive, multi-age
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
 > -- *[[ManagementGroupMeetingSummary_19219]]*
 
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held September 13, 1989, in Lakewood, Colorado. The meeting addressed recovery efforts for rare and endangered fish species in the [[Colorado River Basin]], focusing on water...
+> -- *[[ManagementGroupMeetingSummarSe_21019]]*
+
 ## Mentioned In
 - [[ColoradoRiverImplementationCom_1989_01_31]]
 - [[FirstMeetingOfGeneticsPanel_1993_11_10]]
@@ -45,3 +48,4 @@ The Colorado River Recovery Implementation Program is a comprehensive, multi-age
 - [[AprilManagementGroupMeetingSum_19221]]
 - [[SummaryjanuaryManagementGroupM_21002]]
 - [[ManagementGroupMeetingSummary_19219]]
+- [[ManagementGroupMeetingSummarSe_21019]]

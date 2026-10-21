@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Spotted Ground Squirrel
+
+## Summary
+The Spotted Ground Squirrel is a rodent species for which the study area lies near the western limits of its range. This positioning contributes to the area's role as a biogeographic crossroads where multiple faunal elements from different regions converge.
+
+## Context
+
+> This is the fourth annual progress report (1979-1982) on a comprehensive mammal survey of the [[George Whittell Wildlife Preserve]] in the [[Aravaipa Creek]] watershed, Arizona. The survey documented 60 mammal species as actual, probable, or possible inhabitants, with 45 species confirmed for the...
+> -- *[[ReportOnTheSurveyOfTheMammalsO_11840]]*
+
+## Mentioned In
+- [[ReportOnTheSurveyOfTheMammalsO_11840]]

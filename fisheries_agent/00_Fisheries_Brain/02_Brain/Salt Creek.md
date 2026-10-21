@@ -38,6 +38,9 @@ Salt Creek is an isolated, spring-fed desert stream in Riverside County, Califor
 > This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
 > -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
 
+> This dissertation investigates the ecology and physiological mechanisms enabling macroinvertebrates to survive in a small south-central Indiana stream ([[Caldwell Hollow]]) that becomes completely dry each summer. The stream fauna is dominated by two aquatic peracarid crustaceans, [[Lirceus...
+> -- *[[TheEcologyOfInvertebratesInAnI_15957]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[CAFGAnnualPermitReport_1992-12-15]]
@@ -55,3 +58,4 @@ Salt Creek is an isolated, spring-fed desert stream in Riverside County, Califor
 - [[StatusReportForNaturalAndIntro_12972]]
 - [[MemorandumLowerBasinSubcommitt_11426]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
+- [[TheEcologyOfInvertebratesInAnI_15957]]

@@ -38,6 +38,9 @@ The Common Shiner is a small cyprinid minnow species utilized as a forage and ba
 > This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
 > -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
 
+> This document comprises a 1990 proposal and preliminary investigation by the [[Larval Fish Laboratory]] at [[Colorado State University]] addressing concerns about electrofishing impacts on fish in [[Grand Canyon National Park]]. The [[National Park Service]] mandated evaluation of electrofishing...
+> -- *[[DraftDocumentimpactsOfElectrof_19691]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -57,3 +60,4 @@ The Common Shiner is a small cyprinid minnow species utilized as a forage and ba
 - [[SomeObservationsOnTheReclamati_15490]]
 - [[MinnowsCyprinidae_17384]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[DraftDocumentimpactsOfElectrof_19691]]

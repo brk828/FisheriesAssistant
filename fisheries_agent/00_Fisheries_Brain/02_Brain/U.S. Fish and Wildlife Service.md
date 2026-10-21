@@ -437,6 +437,60 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
 > -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
 
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
+> This Federal Register notice from the [[U.S. Fish and Wildlife Service]] (February 28, 1996) presents an updated list of plant and animal taxa native to the United States regarded as candidates for possible addition to the List of Endangered and Threatened Wildlife and Plants under the [[Endangered...
+> -- *[[EndangeredAndThreatenedWildlif_11739]]*
+
+> This document is a formal consultation letter from the [[U.S. Fish and Wildlife Service]] (USFWS) Arizona Ecological Services Field Office to the [[Apache-Sitgreaves National Forest]] regarding 27 proposed forest management projects submitted for Section 7 consultation under the [[Endangered...
+> -- *[[ReWrittenConcurrenceOnTheFores_11749]]*
+
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
+> This 1986 memorandum from the [[Bureau of Reclamation]] Upper Colorado Regional Office to the [[U.S. Fish and Wildlife Service]] Endangered Species Office proposes collaboration with Dr. W. L. Minckley of [[Arizona State University]] on basin-wide systematic studies of the genus *[[Gila]]*. The...
+> -- *[[FutureGilaWork_11987]]*
+
+> This feasibility study proposal evaluates non-lethal stomach pumping techniques for assessing food habits of [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The study addresses concerns about potential damage to pharyngeal teeth during stomach content recovery. Using surrogate species...
+> -- *[[ANonlethalStomachPumpToRecover_13647]]*
+
+> This September 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates the need for and design of a dedicated hatchery to produce endangered [[Colorado River]] fishes. The study addresses production requirements through 1996 for three species:...
+> -- *[[ColoradoRiverEndangeredFishHat_13665]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This document comprises correspondence from the [[Desert Fishes Council]] (DFC) regarding a dispute with the [[U.S. Fish and Wildlife Service]] (Service) over the "Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin." The DFC was excluded from initial...
+> -- *[[ReUsFishAndWildlifeServicedese_13754]]*
+
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This 1990 environmental assessment proposes establishing a native fish rearing facility at [[Yuma Cove]], [[Lake Mohave]], to prevent extirpation of the [[Razorback Sucker]] (*Xyrauchen texanus*). The species, once common throughout the [[Colorado River]] system from Wyoming to Mexico, is now...
+> -- *[[EnvironmentalAssessmentForLake_15466]]*
+
+> This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DevelopmentOfAStandardizedMoni_15549]]*
+
+> This 1964 study by [[John R. Calaprice]] and [[John E. Cushing]] investigated erythrocyte (red blood cell) antigens in California trout species to determine if immunogenetic techniques could identify relationships and variation useful for fisheries management. The research examined [[Golden Trout]]...
+> -- *[[ErythrocyteAntigensOfCaliforni_17330]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
+> This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
+> -- *[[FormalReviewcrticialHabitatOfT_20672]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held September 13, 1989, in Lakewood, Colorado. The meeting addressed recovery efforts for rare and endangered fish species in the [[Colorado River Basin]], focusing on water...
+> -- *[[ManagementGroupMeetingSummarSe_21019]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -786,3 +840,21 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[GilaTopminnowSitesInArizonaPro_19668]]
 - [[GlenCanyonEnvironmentalStudies_19708]]
 - [[MxMissileSystemAnUrgentLetterF_20507]]
+- [[DraftRecoveryGoals_11689]]
+- [[EndangeredAndThreatenedWildlif_11739]]
+- [[ReWrittenConcurrenceOnTheFores_11749]]
+- [[BiologicalOpinionOfFederalAids_11920]]
+- [[FutureGilaWork_11987]]
+- [[ANonlethalStomachPumpToRecover_13647]]
+- [[ColoradoRiverEndangeredFishHat_13665]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[ReUsFishAndWildlifeServicedese_13754]]
+- [[ABibliographyOfTheFederallyEnd_14370]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[EnvironmentalAssessmentForLake_15466]]
+- [[DevelopmentOfAStandardizedMoni_15549]]
+- [[ErythrocyteAntigensOfCaliforni_17330]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[RealitiesOfProvidingWaterForEn_20669]]
+- [[FormalReviewcrticialHabitatOfT_20672]]
+- [[ManagementGroupMeetingSummarSe_21019]]

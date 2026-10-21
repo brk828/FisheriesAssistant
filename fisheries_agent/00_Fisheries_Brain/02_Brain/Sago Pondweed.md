@@ -20,9 +20,13 @@ auto_enriched: true
 > This article from the New York State Conservation Department discusses the challenges of aquatic weed control in freshwater systems. Written by Chief Aquatic Biologist John R. Greeley, it addresses the subjective nature of what constitutes a "weed," the complexity of control methods, and the...
 > -- *[[WaterWeeds_19211]]*
 
+> This 1951 report by the Fisheries Task Group of the [[Colorado River Great Basin Field Committee]] presents a comprehensive survey of the Lower Colorado River fishery from [[Hoover Dam]] to the Mexican border. The study divides the river into seven sections, each assessed individually for present...
+> -- *[[FisheriesReportOfTheLowerColor_19846]]*
+
 ## Mentioned In
 - [[AquaticResourceSurveyOfTheUnli_17285]]
 - [[FisheryInventoryOfTheCoachella_13687]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
 - [[WaterWeeds_19211]]
+- [[FisheriesReportOfTheLowerColor_19846]]

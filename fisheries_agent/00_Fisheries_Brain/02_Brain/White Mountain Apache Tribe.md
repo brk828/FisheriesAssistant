@@ -26,6 +26,9 @@ The White Mountain Apache Tribe is a Native American sovereign nation that plays
 > This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
 > -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
 
+> This October 1983 memorandum from the U.S. Fish and Wildlife Service to the Bureau of Indian Affairs addresses a formal Section 7 consultation regarding the proposed [[Miner Flat Dam]] project on the [[White River]] system in Arizona. While no effects are anticipated on [[Peregrine Falcon]], [[Bald...
+> -- *[[FormalSectionConsultationMiner_11842]]*
+
 ## Mentioned In
 - [[CorrespondenceRegardingLoachMi_1993_06_14]]
 - [[LoachMinnowStudyPlanForBiologi_1996_05_17]]
@@ -35,3 +38,4 @@ The White Mountain Apache Tribe is a Native American sovereign nation that plays
 - [[ProposalForTheHatchingRearingA_14816]]
 - [[StationProfileOfTheAlchesayNat_1991]]
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
+- [[FormalSectionConsultationMiner_11842]]

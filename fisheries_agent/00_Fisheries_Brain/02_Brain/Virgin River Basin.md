@@ -20,6 +20,9 @@ The Virgin River Basin is a tri-state aquatic ecosystem spanning Arizona, Utah, 
 > This five-year assessment evaluates conservation actions conducted for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during the initial term (1995-2000) of the Virgin Spinedace Conservation Agreement and Strategy (VSCAS). The VSCAS was developed in 1995 as a collaborative effort among...
 > -- *[[VirginSpinedaceLepidomedaMolli_14744]]*
 
+> This legal notice from the Sierra Club Legal Defense Fund, dated June 22, 1994, addresses violations of the Endangered Species Act (ESA) related to operation of the [[Quail Creek Reservoir Project]] in the [[Virgin River Basin]], Utah. The document notifies the Secretary of the Interior and Bureau...
+> -- *[[ViolationOfQuailCreekReservoir_18647]]*
+
 ## Mentioned In
 - [[CommentsOnDraftConservationAgr_1994_08_25]]
 - [[CommentsOnVirginSpinedaceConse_1994_12_13]]
@@ -29,3 +32,4 @@ The Virgin River Basin is a tri-state aquatic ecosystem spanning Arizona, Utah, 
 - [[VirginRiverMonitoringArizonaSu_1994_10_05]]
 - [[VirginSpinedaceListingPackageR_1994_09_08]]
 - [[VirginSpinedaceLepidomedaMolli_14744]]
+- [[ViolationOfQuailCreekReservoir_18647]]

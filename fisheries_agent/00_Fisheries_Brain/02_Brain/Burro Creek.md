@@ -11,7 +11,11 @@ auto_enriched: true
 > The First Annual 1988 October Fish Count (OFC) was a volunteer-based fish monitoring program organized by the [[Arizona Game and Fish Department]] Nongame Branch. The project recruited 73 participants who sampled 60 sites across [[Arizona]] and [[New Mexico]] during October 1988. The program proved...
 > -- *[[ReportOfTheOctoberFishCount_11417]]*
 
+> This study evaluated instream flow requirements for three native fish species—[[Roundtail Chub]] (*Gila robusta robusta*), [[Sonora Sucker]] (*Catostomus insignis*), and [[Desert Sucker]] (*Catostomus clarki*)—in the [[Burro Creek]] drainage of west-central Arizona using the Incremental...
+> -- *[[EvaluationOfTheInstreamFlowReq_13030]]*
+
 ## Mentioned In
 - [[DoiAnnouncesRecommendationsFor_18330]]
 - [[ReintroductionOfNativeFishInto_1993_07_24]]
 - [[ReportOfTheOctoberFishCount_11417]]
+- [[EvaluationOfTheInstreamFlowReq_13030]]

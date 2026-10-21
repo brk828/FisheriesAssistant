@@ -89,6 +89,9 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The survey assessed 45 tanks to evaluate their potential as supplemental growout habitats for endangered fish...
 > -- *[[PreliminaryFisheriesSurveyOfAq_16481]]*
 
+> This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
+> -- *[[StatewideRoughFishControljobNo_14932]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -172,3 +175,4 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[BiologicalOpinionForRepairAndo_11904]]
 - [[StatewideRoughFishControlfishE_14929]]
 - [[PreliminaryFisheriesSurveyOfAq_16481]]
+- [[StatewideRoughFishControljobNo_14932]]

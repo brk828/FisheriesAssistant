@@ -86,6 +86,9 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 > This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
 > -- *[[GlenCanyonEnvironmentalStudies_19719]]*
 
+> This document comprises a 1990 proposal and preliminary investigation by the [[Larval Fish Laboratory]] at [[Colorado State University]] addressing concerns about electrofishing impacts on fish in [[Grand Canyon National Park]]. The [[National Park Service]] mandated evaluation of electrofishing...
+> -- *[[DraftDocumentimpactsOfElectrof_19691]]*
+
 ## Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
@@ -135,3 +138,4 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 - [[DraftOfForwardForBookBattleAga_13788]]
 - [[FiscalYearAnnualMonitoringAndR_17765]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
+- [[DraftDocumentimpactsOfElectrof_19691]]

@@ -56,6 +56,15 @@ The Mississippi River represents a major North American fluvial system of critic
 > The [[Missouri Department of Conservation]] acquired the 4,318-acre [[Columbia Bottom Conservation Area]] at the confluence of the [[Missouri River]] and [[Mississippi River]] from the City of Saint Louis in September 1997. This article from August 1998 describes the agency's public engagement...
 > -- *[[MissouriansToHelpShapeFutureOf_11242]]*
 
+> This document presents methods developed at the [[U.S. Fisheries Biological Station]] in [[Fairport, Iowa]] for successfully collecting and hatching eggs of buffalo-fishes (genus [[Ictiobus]]), addressing previous failures in artificial propagation of these commercially important food fishes. The...
+> -- *[[MethodsOfCollectingAndHatching_17372]]*
+
+> This document comprises three grant proposals submitted by [[American Rivers]] to the [[National Fish and Wildlife Foundation]] on December 30, 1993. The proposals address: (1) native fish habitat assessment in the [[Gila River]] watershed using historical distribution data; (2) floodplain habitat...
+> -- *[[AmericanRiversProposalFundingR_17975]]*
+
+> This creel census study examined seasonal patterns in fishing pressure and harvest on a 7-mile section of the [[Des Moines River]] in [[Boone County]], Iowa, between July 1957 and September 1958. The study area, located between Fraser and Boone dams, was surveyed using a modified Latin square...
+> -- *[[SeasonalChangesInHarvestAndFis_20577]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerInPoolOfTh_16034]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -85,3 +94,6 @@ The Mississippi River represents a major North American fluvial system of critic
 - [[RainbowSmeltProposalReview_17848]]
 - [[AssessmentOfTheNeedForForageEn_17853]]
 - [[MissouriansToHelpShapeFutureOf_11242]]
+- [[MethodsOfCollectingAndHatching_17372]]
+- [[AmericanRiversProposalFundingR_17975]]
+- [[SeasonalChangesInHarvestAndFis_20577]]

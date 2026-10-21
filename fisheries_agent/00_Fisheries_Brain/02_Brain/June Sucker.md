@@ -32,6 +32,15 @@ The June Sucker is an endangered catostomid fish endemic to the Virgin River in 
 > This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
 > -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
 
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This 1965 report documents the first confirmed occurrences of [[Lost River Sucker]] (*Deltistes luxatus*) and [[Shortnose Sucker]] (*Chasmistes brevirostris*) in California waters, adding both species to the state's freshwater fish fauna. Previously known only from the [[Klamath Lakes]] drainage in...
+> -- *[[OccurrencesOfTheLostRiverSucke_17577]]*
+
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
 ## Mentioned In
 - [[EndangeredSpeciesTodayExtinctT_1977]]
 - [[SubpermitAuthorizationForWound_1989_06_06]]
@@ -41,3 +50,6 @@ The June Sucker is an endangered catostomid fish endemic to the Virgin River in 
 - [[ComplexEffectsOfPredatorsDeter_2001]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[OccurrencesOfTheLostRiverSucke_17577]]
+- [[FishesNativeToOrIntroducedInPa_18945]]

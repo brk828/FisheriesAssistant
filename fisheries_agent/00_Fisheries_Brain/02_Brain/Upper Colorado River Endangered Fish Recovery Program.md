@@ -26,6 +26,9 @@ The Upper Colorado River Endangered Fish Recovery Program is a collaborative fed
 > **Taxonomic & Life-History Summary:** [[Northern Pike]] (*Esox lucius*) is a large-bodied, piscivorous species invasive to the upper [[Colorado River Basin]]. First introduced to the [[Yampa River]] basin during the 1970s, Northern Pike are now established and common throughout the system. Mean...
 > -- *[[EvaluationOfALongtermPredatorR_2016]]*
 
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
 ## Mentioned In
 - [[CapturesOfAdultRazorbackSucker_18265]]
 - [[ColoradoEndangeredFishResearch_1989_10_10]]
@@ -41,3 +44,4 @@ The Upper Colorado River Endangered Fish Recovery Program is a collaborative fed
 - [[ThinkingTitleFromSubjectLineco_1997_05_29]]
 - [[ThousandsOfEndangeredFishToBeS_1997_09_18]]
 - [[EvaluationOfALongtermPredatorR_2016]]
+- [[DraftRecoveryGoals_11689]]

@@ -101,6 +101,12 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
 > -- *[[FinalProgressReport_18563]]*
 
+> This October 1955 California Department of Fish and Game bulletin describes an active program to introduce four non-native forage fish species into California's warmwater reservoirs to support predatory gamefish populations. The program, led by Associate Fisheries Biologist J.B. Kimsey, addresses...
+> -- *[[ForageFish_12530]]*
+
+> This 1942 report documents the first confirmed occurrence of ten-pounders ([[Elops affinis]]) in the [[Salton Sea]], California, representing a potential new sport fishery for this previously barren water body. Between May 14-24, 1942, commercial fishermen and biologists captured 244 specimens...
+> -- *[[AGameFishForTheSaltonSeaTheTen_12860]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[BenthicInvertebratesOfTheEarth_1983]]
@@ -142,3 +148,5 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[WorkshopProceedings_18372]]
 - [[TheDesertPupfishOfOrganPipeNat_18555]]
 - [[FinalProgressReport_18563]]
+- [[ForageFish_12530]]
+- [[AGameFishForTheSaltonSeaTheTen_12860]]

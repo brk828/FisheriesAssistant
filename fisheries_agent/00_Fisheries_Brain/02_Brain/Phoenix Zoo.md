@@ -20,6 +20,9 @@ The Phoenix Zoo refers to a conservation facility that developed a significant r
 > This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
 > -- *[[FinalProgressReport_18563]]*
 
+> This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
+> -- *[[DraftProposedCriteriaForDesign_14776]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[LetterToDougMcqueenSupportingN_1986_06_27]]
@@ -28,3 +31,4 @@ The Phoenix Zoo refers to a conservation facility that developed a significant r
 - [[ScientificResearchExperiencesF_20483]]
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
 - [[FinalProgressReport_18563]]
+- [[DraftProposedCriteriaForDesign_14776]]

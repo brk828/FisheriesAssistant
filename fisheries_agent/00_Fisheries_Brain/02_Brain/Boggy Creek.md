@@ -17,7 +17,11 @@ Boggy Creek is a stream on the Fort Apache Indian Reservation that was identifie
 > This January 1990 letter from Dr. John N. Rinne (USFS Rocky Mountain Forestry Sciences Lab) to Jim Hanson (USFWS Pinetop) discusses electrophoretic genetic studies of [[Apache Trout]] populations in the [[White Mountains]] and their implications for conservation management. Rinne compares recent...
 > -- *[[ReTheElectrophoreticStudyOfWhi_14999]]*
 
+> This doctoral dissertation (Oklahoma State University, 1966) investigated how domestic sewage and oil refinery effluents affected the morphological characteristics and population structure of three cyprinid fish species in [[Skeleton Creek]], Oklahoma. Between June 1963 and May 1964, the author...
+> -- *[[TheEffectOfDomesticAndOilRefin_15666]]*
+
 ## Mentioned In
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[ReTheElectrophoreticStudyOfWhi_14999]]
+- [[TheEffectOfDomesticAndOilRefin_15666]]

@@ -32,6 +32,12 @@ The University of Michigan has been a significant institutional contributor to i
 > This experimental study documents 12 years (1932-1944) of breeding experiments with [[Mollienisia formosa]], the Amazon Molly, a viviparous fish species in which no males have ever been found. Approximately 8,000 individuals representing 20 generations were bred at the Museum of Zoology,...
 > -- *[[ExperimentalBreedingOfTheAmazo_14310]]*
 
+> This correspondence from the [[University of Michigan]] [[Museum of Zoology]] Division of Fishes provides expert identification of five catfish specimens submitted by the [[Dexter National Fish Hatchery]] in [[New Mexico]]. The analysis confirms hybridization between [[Yaqui Catfish]] ([[Ictalurus...
+> -- *[[ReportOnYaquiCatfishReceived_15380]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -45,3 +51,5 @@ The University of Michigan has been a significant institutional contributor to i
 - [[TilapiaAtCuatroCienegasMexico_15378]]
 - [[ASummaryOfInformationAboutTheA_18574]]
 - [[ExperimentalBreedingOfTheAmazo_14310]]
+- [[ReportOnYaquiCatfishReceived_15380]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

@@ -32,6 +32,12 @@ The Longear Sunfish (*Lepomis megalotis*) is a small North American sunfish spec
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
+> -- *[[StatewideRoughFishControljobNo_14932]]*
+
+> This job completion report documents the chemical treatment of [[Century Lake]] (555 acres, reduced to 463 acres at treatment) and 1.5 miles of [[White Oak Creek]] in [[Hopkins County]], Texas on May 15-16, 1963. The treatment used 995 gallons of 5% rotenone to remove the existing fish population,...
+> -- *[[StatewideRoughRishControlJobNo_19049]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -53,3 +59,5 @@ The Longear Sunfish (*Lepomis megalotis*) is a small North American sunfish spec
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[PrelimaryObservationsOnTheToxi_14434]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[StatewideRoughFishControljobNo_14932]]
+- [[StatewideRoughRishControlJobNo_19049]]

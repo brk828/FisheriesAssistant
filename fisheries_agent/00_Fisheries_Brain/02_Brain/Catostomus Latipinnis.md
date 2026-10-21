@@ -47,6 +47,9 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 > This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
 > -- *[[EarlyFieldNotes_15954]]*
 
+> This job progress report documents the second year (October 1, 1978 to September 30, 1979) of the [[Colorado Division of Wildlife]]'s endangered fish monitoring program targeting [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Humpback Chub]] (*Gila cypha*). Field crews sampled five trend...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12715]]*
+
 ## Mentioned In
 - [[CommentsOnAndChangesToAnimalNo_11856]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -68,3 +71,4 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
 - [[BeaverScoping_18972]]
 - [[EarlyFieldNotes_15954]]
+- [[ColoradoSquawfishAndHumpbackCh_12715]]

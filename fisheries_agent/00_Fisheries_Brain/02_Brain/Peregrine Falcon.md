@@ -77,6 +77,18 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 > This comprehensive report summarizes 1964 pesticide research findings by the [[Fish and Wildlife Service]], covering both wildlife studies (conducted at [[Patuxent Wildlife Research Center]] and [[Denver Research Center]]) and fishery investigations. The document represents the fifth annual report...
 > -- *[[WildlifeStudiesPatuxentWildlif_14328]]*
 
+> This document is a formal consultation letter from the [[U.S. Fish and Wildlife Service]] (USFWS) Arizona Ecological Services Field Office to the [[Apache-Sitgreaves National Forest]] regarding 27 proposed forest management projects submitted for Section 7 consultation under the [[Endangered...
+> -- *[[ReWrittenConcurrenceOnTheFores_11749]]*
+
+> This October 1983 memorandum from the U.S. Fish and Wildlife Service to the Bureau of Indian Affairs addresses a formal Section 7 consultation regarding the proposed [[Miner Flat Dam]] project on the [[White River]] system in Arizona. While no effects are anticipated on [[Peregrine Falcon]], [[Bald...
+> -- *[[FormalSectionConsultationMiner_11842]]*
+
+> This study evaluated instream flow requirements for three native fish species—[[Roundtail Chub]] (*Gila robusta robusta*), [[Sonora Sucker]] (*Catostomus insignis*), and [[Desert Sucker]] (*Catostomus clarki*)—in the [[Burro Creek]] drainage of west-central Arizona using the Incremental...
+> -- *[[EvaluationOfTheInstreamFlowReq_13030]]*
+
+> This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
+> -- *[[InformationRegardingManagement_16919]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -106,3 +118,7 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 - [[GilasanFranciscoRiversResource_18256]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 - [[WildlifeStudiesPatuxentWildlif_14328]]
+- [[ReWrittenConcurrenceOnTheFores_11749]]
+- [[FormalSectionConsultationMiner_11842]]
+- [[EvaluationOfTheInstreamFlowReq_13030]]
+- [[InformationRegardingManagement_16919]]

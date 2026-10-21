@@ -26,6 +26,12 @@ Mugil cephalus, commonly known as flathead mullet, is a euryhaline teleost fish 
 > This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
 > -- *[[ReportToTheDesertFishesCouncil_13683]]*
 
+> This 1942 report documents the first confirmed occurrence of ten-pounders ([[Elops affinis]]) in the [[Salton Sea]], California, representing a potential new sport fishery for this previously barren water body. Between May 14-24, 1942, commercial fishermen and biologists captured 244 specimens...
+> -- *[[AGameFishForTheSaltonSeaTheTen_12860]]*
+
+> This 1953 study by A.N. Svetovidov provides a comprehensive comparative analysis of brain structure across the family [[Gadidae]] (codfishes), examining representatives from three subfamilies: [[Lotinae]], [[Merlucciinae]], and [[Gadinae]]. The research documents detailed morphological descriptions...
+> -- *[[MaterialsOnTheStructureOfTheFi_15061]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[FieldObservationsOnTheLepidoph_1979]]
@@ -35,3 +41,5 @@ Mugil cephalus, commonly known as flathead mullet, is a euryhaline teleost fish 
 - [[TheDistributionOfTheFreshwater_1979]]
 - [[TheFeedingEcologyOfJuvenileMul_17669]]
 - [[ReportToTheDesertFishesCouncil_13683]]
+- [[AGameFishForTheSaltonSeaTheTen_12860]]
+- [[MaterialsOnTheStructureOfTheFi_15061]]

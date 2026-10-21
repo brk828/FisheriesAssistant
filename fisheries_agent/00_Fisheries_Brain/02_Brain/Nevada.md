@@ -35,6 +35,15 @@ Nevada in the context of fish science and conservation refers to the geographic 
 > This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
 > -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
 
+> This Federal Register notice (Vol. 56, No. 225, November 21, 1991) presents the U.S. Fish and Wildlife Service's updated compilation of vertebrate and invertebrate animal taxa native to the United States being reviewed for possible addition to the List of Endangered and Threatened Wildlife under...
+> -- *[[EndangeredAndThreatenedWildlif_11596]]*
+
+> This technical guidance document from the U.S. Department of Agriculture [[Soil Conservation Service]] provides specifications for designing and constructing farm ponds optimized for fish production. The document addresses water supply management, pond dimensions, outlet structures, vegetation...
+> -- *[[HowToBuildAFarmPondForFishProd_13264]]*
+
+> This document examines the development and morphology of ephemeral gully systems in western mountain lands, proposing a classification based on stages of development from youthful to old-age. The research, conducted primarily in the [[Colorado Rocky Mountains]] with observations from [[New...
+> -- *[[StagesOfDevelopmentOfGulliesIn_16590]]*
+
 ## Mentioned In
 - [[DemographicsOfTroutAnglersInTh_12587]]
 - [[EndanderedAndThreatenedWildlif_16520]]
@@ -49,3 +58,6 @@ Nevada in the context of fish science and conservation refers to the geographic 
 - [[SummaryStatementOfInsightsFrom_20854]]
 - [[WhiteRiverSpinedaceLepidomedaA_11636]]
 - [[MxMissileSystemAnUrgentLetterF_20507]]
+- [[EndangeredAndThreatenedWildlif_11596]]
+- [[HowToBuildAFarmPondForFishProd_13264]]
+- [[StagesOfDevelopmentOfGulliesIn_16590]]

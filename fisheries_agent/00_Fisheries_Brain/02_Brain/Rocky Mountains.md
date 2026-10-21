@@ -26,6 +26,9 @@ auto_enriched: true
 > This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
 > -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
 
+> This 1967 report by George L. Batchelder provides a comprehensive synthesis of the Pleistocene geology and ecology of the [[Mono Basin]], California. The basin offers a unique opportunity to study synchronous glaciation and lacustrine fluctuations during the Quaternary. The document describes...
+> -- *[[TheMonoBasin_15632]]*
+
 ## Mentioned In
 - [[CooperativeEcosystemStudiesUni_1999]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
@@ -33,3 +36,4 @@ auto_enriched: true
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[HabitatUseAndStreamflowNeedsOf_11609]]
+- [[TheMonoBasin_15632]]

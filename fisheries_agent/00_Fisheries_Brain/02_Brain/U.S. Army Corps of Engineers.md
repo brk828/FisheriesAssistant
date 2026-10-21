@@ -47,6 +47,9 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 > This biological opinion, issued October 14, 1997, addresses the realignment of Forest Road 281 near [[Bush Creek]] on the upper [[Blue River]], [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] (lead agency) and [[U.S. Army Corps of Engineers]] proposed rerouting approximately 1,200...
 > -- *[[BiologicalOpinionSummaryBlueRi_11685]]*
 
+> This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
+> -- *[[StatewideRoughFishControljobNo_14932]]*
+
 ## Mentioned In
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
@@ -63,3 +66,4 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 - [[EnvironmentalAssessmentForNati_13228]]
 - [[MissouriansToHelpShapeFutureOf_11242]]
 - [[BiologicalOpinionSummaryBlueRi_11685]]
+- [[StatewideRoughFishControljobNo_14932]]

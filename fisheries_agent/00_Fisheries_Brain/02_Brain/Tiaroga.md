@@ -20,6 +20,9 @@ I appreciate your question, but I cannot provide an accurate definition of "Tiar
 > This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
 > -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
 
+> This proposal, submitted by Arizona State University to the Arizona Game and Fish Department in July 1986, outlines a one-year study to evaluate potential interactions between imperiled native [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]) versus introduced [[Red...
+> -- *[[SpikedaceAndLoachMinnowStudyAP_16483]]*
+
 ## Mentioned In
 - [[CorrespondenceOnMexicanFishTax_1993_10_21]]
 - [[DesertFishesRecoveryTeamMeetin_1994_09_09]]
@@ -27,3 +30,4 @@ I appreciate your question, but I cannot provide an accurate definition of "Tiar
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 - [[ReviewOfTheDraftReportEntitled_12983]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
+- [[SpikedaceAndLoachMinnowStudyAP_16483]]

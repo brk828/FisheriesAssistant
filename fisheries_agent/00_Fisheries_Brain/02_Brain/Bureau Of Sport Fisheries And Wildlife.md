@@ -38,6 +38,12 @@ The Bureau of Sport Fisheries and Wildlife was a federal agency responsible for 
 > This 1968 manual from the [[Bureau of Sport Fisheries and Wildlife]] provides comprehensive guidance on herbicide use for vegetation control in fish and wildlife management programs. Issued by the [[U.S. Department of the Interior]] under Secretary [[Stewart L. Udall]], the document establishes...
 > -- *[[ChemicalVegetationControlManua_12838]]*
 
+> This comprehensive bibliography compiled by Joseph B. Hunn for the [[Bureau of Sport Fisheries and Wildlife]] in 1967 assembles more than 850 references on fish blood chemistry. The document serves as a guide to widely scattered literature on the subject, addressing the lack of standard reference...
+> -- *[[BibliographyOnTheBloodChemistr_14517]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
 - [[ArizonaNevadaCooperativeFisher_1961]]
@@ -53,3 +59,5 @@ The Bureau of Sport Fisheries and Wildlife was a federal agency responsible for 
 - [[TroutFeedsAndFeeding_11173]]
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
 - [[ChemicalVegetationControlManua_12838]]
+- [[BibliographyOnTheBloodChemistr_14517]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

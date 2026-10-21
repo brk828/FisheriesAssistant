@@ -35,6 +35,9 @@ The U.S. Fish and Wildlife Service is the primary federal agency responsible for
 > This Environmental Assessment and Habitat Conservation Plan (EA/HCP) addresses the issuance of an Incidental Take Permit under Section 10(a)(1)(B) of the [[Endangered Species Act]] for [[El Coronado Ranch]] (ECR) in [[Cochise County]], [[Arizona]]. The document covers ranching operations on 6,153...
 > -- *[[EnvironmentalAssessmentAndHabi_11684]]*
 
+> This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
+> -- *[[FyAnnualProjectReportColoradoR_21244]]*
+
 ## Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1992_03_08]]
 - [[LetterFromCatronCountyCommissi_1992_12_01]]
@@ -52,3 +55,4 @@ The U.S. Fish and Wildlife Service is the primary federal agency responsible for
 - [[MrRosenfeldHadNoPartInThePlann_12044]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[EnvironmentalAssessmentAndHabi_11684]]
+- [[FyAnnualProjectReportColoradoR_21244]]

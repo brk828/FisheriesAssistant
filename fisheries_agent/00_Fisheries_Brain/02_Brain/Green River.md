@@ -296,6 +296,48 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
 > -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
 
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
+> This document presents a standardized protocol for non-lethal tissue collection from [[Razorback Sucker]] (*Xyrauchen texanus*) and related sucker species across the [[Colorado River Basin]] for genetic analysis during FY 1991. Five sampling teams were assigned specific locations and sample number...
+> -- *[[RazorbackSuckerNonlethalTissue_12081]]*
+
+> This draft final report presents a comprehensive biochemical genetic analysis of [[Colorado Squawfish]] (*Ptychocheilus lucius*), a large river cyprinid listed as endangered in 1967. The study examined 833 individuals (151 wild adults, 64 juveniles, 478 young-of-year, and 140 hatchery-reared fish)...
+> -- *[[BiochemicalGeneticsOfEndangere_12089]]*
+
+> This final report synthesizes findings from the [[Colorado River Fishes Monitoring Project]] (1982-1985) and related studies conducted by the U.S. Fish and Wildlife Service Vernal Field Station in the [[Green River Basin]] from 1979-1986. The study focused primarily on three federally endangered...
+> -- *[[GreenRiverRareAndEndangeredFis_13060]]*
+
+> This September 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates the need for and design of a dedicated hatchery to produce endangered [[Colorado River]] fishes. The study addresses production requirements through 1996 for three species:...
+> -- *[[ColoradoRiverEndangeredFishHat_13665]]*
+
+> This document describes recovery efforts for the [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered catostomid fish endemic to the [[Colorado River Basin]] of western North America. The species, once abundant and used as food by indigenous peoples, has experienced severe population declines....
+> -- *[[DraftmanagementTowardRecoveryO_13751]]*
+
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
+> This 1990 environmental assessment proposes establishing a native fish rearing facility at [[Yuma Cove]], [[Lake Mohave]], to prevent extirpation of the [[Razorback Sucker]] (*Xyrauchen texanus*). The species, once common throughout the [[Colorado River]] system from Wyoming to Mexico, is now...
+> -- *[[EnvironmentalAssessmentForLake_15466]]*
+
+> This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DevelopmentOfAStandardizedMoni_15549]]*
+
+> This 1991 correspondence from E.P. Pister, Executive Secretary of the [[Desert Fishes Council]], to Bruce Schmidt of the [[Utah Division of Wildlife Resources]] clarifies philosophical positions on fisheries management presented at the Western Division AFS meeting in Bozeman. The letter addresses...
+> -- *[[ReactionsToTalkAtAfsMeetingInB_18595]]*
+
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
+> This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
+> -- *[[FormalReviewcrticialHabitatOfT_20672]]*
+
 ## Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -464,3 +506,17 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[AStudyOfTheToothPatchOnTheSpot_16200]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[GeneticDiversityOfRazorbackSuc_19126]]
+- [[DraftRecoveryGoals_11689]]
+- [[FiscalYearWorkPlan_11742]]
+- [[RazorbackSuckerNonlethalTissue_12081]]
+- [[BiochemicalGeneticsOfEndangere_12089]]
+- [[GreenRiverRareAndEndangeredFis_13060]]
+- [[ColoradoRiverEndangeredFishHat_13665]]
+- [[DraftmanagementTowardRecoveryO_13751]]
+- [[ABibliographyOfTheFederallyEnd_14370]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]
+- [[EnvironmentalAssessmentForLake_15466]]
+- [[DevelopmentOfAStandardizedMoni_15549]]
+- [[ReactionsToTalkAtAfsMeetingInB_18595]]
+- [[RealitiesOfProvidingWaterForEn_20669]]
+- [[FormalReviewcrticialHabitatOfT_20672]]

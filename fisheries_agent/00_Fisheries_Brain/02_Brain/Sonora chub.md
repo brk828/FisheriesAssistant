@@ -26,6 +26,9 @@ The Sonora Chub (*Gila ditaenia*) is a small endemic cyprinid fish native to the
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held June 25, 1996 in Tempe, Arizona. The team reviewed progress on native fish conservation actions across the southwestern United States, focusing on status assessments for [[Gila Chub]] and [[Roundtail Chub]], implementation of the...
 > -- *[[MinutesDesertFishesRecoveryTea_15843]]*
 
+> This U.S. Fish and Wildlife Service internal memorandum, dated March 16, 1992, documents the Regional Office review of a draft recovery plan for the [[Sonora Chub]] (Gila ditaenia). The Assistant Regional Director for Fish and Wildlife Enhancement in Region 2 (Albuquerque) provides feedback to the...
+> -- *[[SonoraChubrecoveryPlan_20896]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -52,3 +55,4 @@ The Sonora Chub (*Gila ditaenia*) is a small endemic cyprinid fish native to the
 - [[SpeciesResponsibilit_1992_12_25]]
 - [[SpeciesResponsibilitiesOfDeser_1989_12_07]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
+- [[SonoraChubrecoveryPlan_20896]]

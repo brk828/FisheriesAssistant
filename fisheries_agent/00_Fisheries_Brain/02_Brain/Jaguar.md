@@ -26,6 +26,9 @@ auto_enriched: true
 > This management plan proposes the establishment of the [[Sierra San Luis]] Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]] (Chihuahua), Mexico, along the U.S. border. The area forms part of the extreme...
 > -- *[[ManagementPlanSierraSanLuisWil_11399]]*
 
+> This document is a formal consultation letter from the [[U.S. Fish and Wildlife Service]] (USFWS) Arizona Ecological Services Field Office to the [[Apache-Sitgreaves National Forest]] regarding 27 proposed forest management projects submitted for Section 7 consultation under the [[Endangered...
+> -- *[[ReWrittenConcurrenceOnTheFores_11749]]*
+
 ## Mentioned In
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
@@ -33,3 +36,4 @@ auto_enriched: true
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[PlanningEffortNearItsConclusio_11515]]
 - [[ManagementPlanSierraSanLuisWil_11399]]
+- [[ReWrittenConcurrenceOnTheFores_11749]]

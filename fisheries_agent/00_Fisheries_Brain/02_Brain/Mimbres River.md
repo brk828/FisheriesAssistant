@@ -38,6 +38,15 @@ The Mimbres River is a river system located in Luna County, New Mexico that hist
 > This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
 > -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This correspondence from the [[Desert Fishes Recovery Team]] to the U.S. Fish and Wildlife Service Regional Director documents recommendations and action items from their April 17, 1986 meeting in Tucson, Arizona. The team addresses critical conservation issues for multiple endangered desert fish...
+> -- *[[ItemsToBringToYourAttentionAft_13731]]*
+
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[LetterOnRecoveryRecommendation_1986_10_21]]
 - [[LetterRegardingChihuahuaChubRe_1987_12_30]]
@@ -51,3 +60,6 @@ The Mimbres River is a river system located in Luna County, New Mexico that hist
 - [[CyprinellaFormosaMimbresRiverE_21256]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[ItemsToBringToYourAttentionAft_13731]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

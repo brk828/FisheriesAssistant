@@ -47,6 +47,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
 > -- *[[AssessmentOfTheNeedForForageEn_17853]]*
 
+> This baseline study documents the ecology of [[White Sucker]] (*Catostomus commersoni*) and [[Longnose Sucker]] (*Catostomus catostomus*) populations in [[Twin Lakes]], Colorado, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Research conducted from 1971-1978 examined age and...
+> -- *[[EcologyOfCatostomidsInTwinLake_12424]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -66,3 +69,4 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[CreelCensusReport_11332]]
 - [[LakePowellFisheriesInvestigati_14595]]
 - [[AssessmentOfTheNeedForForageEn_17853]]
+- [[EcologyOfCatostomidsInTwinLake_12424]]

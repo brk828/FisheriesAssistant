@@ -50,6 +50,12 @@ The Coronado National Forest in southeastern Arizona is a critical management ar
 > This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
 > -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
 
+> This executive summary presents the results of a five-year review (October 1991 through September 1992) of the [[Coronado National Forest]] Land and Resource Management Plan, approved August 1986. The review evaluates progress toward desired future conditions, resolution of original issues and...
+> -- *[[ExecutiveSummaryCoronadoNation_11498]]*
+
+> This status report documents [[Lilaeopsis schaffneriana]] subspecies recurva, a rare semi-aquatic perennial plant endemic to cienega wetlands in southeastern Arizona and adjacent Sonora, Mexico. The taxon is a USFWS Candidate Category 2 species and USFS Sensitive Plant. Surveys conducted 1988-1990...
+> -- *[[StatusReportLilaeopsisSchaffne_14909]]*
+
 ## Mentioned In
 - [[ConsultantAppointmentCorrespon_1986_04_16]]
 - [[FederalEndangeredFishSpeciesCo_1993_11_19]]
@@ -72,3 +78,5 @@ The Coronado National Forest in southeastern Arizona is a critical management ar
 - [[MinutesForDesertFishesRecovery_12506]]
 - [[EnvironmentalAssessmentAndHabi_11684]]
 - [[GilaTopminnowSitesInArizonaPro_19668]]
+- [[ExecutiveSummaryCoronadoNation_11498]]
+- [[StatusReportLilaeopsisSchaffne_14909]]

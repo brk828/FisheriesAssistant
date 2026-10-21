@@ -74,6 +74,15 @@ The Gulf of California is a biogeographically significant marine basin in northw
 > This document describes the distinctive population of [[Desert Pupfish]] (*Cyprinodon macularius*) inhabiting [[Quitobaquito Spring]] in [[Organ Pipe National Monument]], Arizona, and the adjacent [[Rio Sonoyta]] drainage in Sonora, México. The Sonoyta population exhibits morphological differences...
 > -- *[[TheDesertPupfishOfOrganPipeNat_18555]]*
 
+> This 1942 report documents the first confirmed occurrence of ten-pounders ([[Elops affinis]]) in the [[Salton Sea]], California, representing a potential new sport fishery for this previously barren water body. Between May 14-24, 1942, commercial fishermen and biologists captured 244 specimens...
+> -- *[[AGameFishForTheSaltonSeaTheTen_12860]]*
+
+> This letter report from the EPA Border Environmental Plan Public Advisory Committee to Administrator Carol Browner (July 22, 1993) documents critical environmental and public health concerns in the [[U.S.-Mexico Border Region]]. The Committee, working with the [[Udall Center for Studies in Public...
+> -- *[[StateOfTheUsmexicoBorderEnviro_14365]]*
+
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -111,3 +120,6 @@ The Gulf of California is a biogeographically significant marine basin in northw
 - [[ElConsejoDeLosPecesDelDesierto_12830]]
 - [[WorkshopProceedings_18372]]
 - [[TheDesertPupfishOfOrganPipeNat_18555]]
+- [[AGameFishForTheSaltonSeaTheTen_12860]]
+- [[StateOfTheUsmexicoBorderEnviro_14365]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

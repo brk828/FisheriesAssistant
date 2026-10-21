@@ -32,6 +32,9 @@ The Cuatro Ciénegas Basin is an isolated, ancient desert wetland system in Coah
 > This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
 > -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
 
+> This 1967 doctoral dissertation by Jeanette H. Lysne at [[Arizona State University]] presents histocompatibility studies of [[Xiphophorus gordoni]] (northern platyfish) from three isolated lagunas in the [[Cuatro Ciénegas Basin]] of Coahuila, México. Using dorsal fin transplantation techniques, the...
+> -- *[[HistocompatibilityStudiesOfThe_16290]]*
+
 ## Mentioned In
 - [[ANewSpeciesOfLeptocarisCrustac_13646]]
 - [[AlonzoRiosContreras_20775]]
@@ -58,3 +61,4 @@ The Cuatro Ciénegas Basin is an isolated, ancient desert wetland system in Coah
 - [[ASummaryOfInformationAboutTheA_18574]]
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[NotesFromFieldWorkInTheCuatroc_12737]]
+- [[HistocompatibilityStudiesOfThe_16290]]

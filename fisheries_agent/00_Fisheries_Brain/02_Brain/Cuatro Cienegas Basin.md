@@ -35,6 +35,9 @@ The Cuatro Ciénegas Basin is a unique hydrogeological system in Mexico characte
 > This 1972 Master's thesis by Irving L. Kornfield (State University of New York at Stony Brook) examines genetic variability and speciation in [[Cichlasoma]] species from North America. The study employed electrophoretic analysis of 19 protein loci in [[Cichlasoma cyanoguttatum]] from the [[Rio...
 > -- *[[GeneticVariationAndSpeciationI_12625]]*
 
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[CochliopinaMilleriCuatroCiéneg_19811]]
@@ -47,3 +50,4 @@ The Cuatro Ciénegas Basin is a unique hydrogeological system in Mexico characte
 - [[TaxonomicStatusEcologyAndDistr_14514]]
 - [[ProposalForCollaborationBetwee_13766]]
 - [[GeneticVariationAndSpeciationI_12625]]
+- [[AbstractsFromTheDesertFishesCo_15019]]

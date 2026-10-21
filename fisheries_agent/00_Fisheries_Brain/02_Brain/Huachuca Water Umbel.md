@@ -32,6 +32,9 @@ The Huachuca Water Umbel appears to be a native aquatic plant species associated
 > This Environmental Assessment evaluates three management alternatives for the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in southeastern Arizona for the period 1995-2015. The refuges were established to conserve threatened and endangered fish and...
 > -- *[[SanBernardinoAndLeslieCanyonNa_11694]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
 ## Mentioned In
 - [[FishAndWildlifeServiceLetterOn_1994_08_22]]
 - [[IntraServiceSectionBiologicalE_1993_03_26]]
@@ -42,3 +45,4 @@ The Huachuca Water Umbel appears to be a native aquatic plant species associated
 - [[ReContinuationOfTheUsArmysSanP_11808]]
 - [[AResolutionOfTheBoardOfSupervi_18593]]
 - [[SanBernardinoAndLeslieCanyonNa_11694]]
+- [[DraftEnvironmentalAssessmentDe_11688]]

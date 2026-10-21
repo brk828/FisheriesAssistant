@@ -23,9 +23,13 @@ Yuma is a city in southwestern Arizona at very low elevation. The lecture notes 
 > This article describes the specialized morphological adaptations of fringe-toed lizards (genus *Uma*) that enable efficient locomotion on desert sand dunes. Three species inhabit the warm deserts of the southwestern United States: [[Coachella Valley Fringe-Toed Lizard]], [[Colorado Desert...
 > -- *[[FringetoedLizardstheSnowshoeHa_13222]]*
 
+> This historical account describes a December hunting expedition down the [[Colorado River]] from [[Yuma]] and up the [[Hardy River]] in [[Lower California]], Mexico. The party traveled 109 miles down the Colorado and attempted 100 miles up the Hardy to reach volcanoes. While primarily a hunting...
+> -- *[[AHuntingTripDownTheColorado_17597]]*
+
 ## Mentioned In
 - [[LectureNotesFromBiologyClass_13784]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
 - [[FringetoedLizardstheSnowshoeHa_13222]]
+- [[AHuntingTripDownTheColorado_17597]]

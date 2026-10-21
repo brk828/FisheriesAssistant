@@ -23,9 +23,13 @@ The Shortnose Sucker (*Chasmistes brevirostris*) is a federally endangered catos
 > - Results suggest fathead minnow predation could be a meaningful contributor to poor recruitment/year-class formation in [[Lost River Sucker]] and [[Shortnose Sucker]], but **laboratory findings require field validation** before predation can be confirmed as a significant field-level threat (per ...
 > -- *[[LaboratoryStudiesOfFatheadMinn_19167]]*
 
+> This 1965 report documents the first confirmed occurrences of [[Lost River Sucker]] (*Deltistes luxatus*) and [[Shortnose Sucker]] (*Chasmistes brevirostris*) in California waters, adding both species to the state's freshwater fish fauna. Previously known only from the [[Klamath Lakes]] drainage in...
+> -- *[[OccurrencesOfTheLostRiverSucke_17577]]*
+
 ## Mentioned In
 - [[GeneticsMorphologyAndSystemati_19379]]
 - [[LaboratoryStudiesOfFatheadMinn_19167]]
 - [[LetterConfirmingMeetingOnConse_1992_12_07]]
 - [[MaintenanceOfJuvenileShortnose_1987]]
 - [[ScopeOfWorkForShortnoseAndLost_1986_12_08]]
+- [[OccurrencesOfTheLostRiverSucke_17577]]

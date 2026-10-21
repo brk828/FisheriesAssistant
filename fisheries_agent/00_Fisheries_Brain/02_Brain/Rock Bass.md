@@ -47,6 +47,12 @@ Rock bass (Ambloplites rupestris) is a small to medium-sized centrarchid (sunfis
 > This report documents a five-year experimental study (1946-1950) on twelve Michigan lakes testing liberalized fishing regulations for warm-water species, particularly pan fishes. The Michigan Legislature authorized experimental regulations on up to 20 lakes to evaluate effects of removing size...
 > -- *[[FishingInTwelveMichiganLakesUn_16148]]*
 
+> This 1948 publication from the Michigan Department of Conservation describes methods for determining fish age through scale analysis and presents research on growth rates of Michigan freshwater fishes. The document focuses on a chemical treatment experiment conducted at [[Booth Lake]] to address...
+> -- *[[TheAgeAndGrowthOfFishes_15687]]*
+
+> This document provides a comprehensive overview of sunfish species (family [[Centrarchidae]]) native to [[New York State]], focusing on three principal species: the [[Pumpkinseed]] (*Lepomis gibbosus*), [[Blue-gill]] (*Lepomis macrochirus*), and [[Red-bellied Sunfish]] (*Lepomis auritus*). The text...
+> -- *[[Sunfishes_19212]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -73,3 +79,5 @@ Rock bass (Ambloplites rupestris) is a small to medium-sized centrarchid (sunfis
 - [[FishParasites_20804]]
 - [[BioassayAndUseOfPituitaryMater_15952]]
 - [[FishingInTwelveMichiganLakesUn_16148]]
+- [[TheAgeAndGrowthOfFishes_15687]]
+- [[Sunfishes_19212]]

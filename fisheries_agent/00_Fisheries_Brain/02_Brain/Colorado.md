@@ -62,6 +62,9 @@ The Colorado River, in the context of fish science and conservation, refers to a
 > This 1975 USDA Forest Service research note documents an experimental application of carbon black to accelerate midwinter snowmelt on [[Mule Deer]] winter range in [[Colorado]]. The study tested whether artificially darkening snow surfaces could increase forage availability during the critical...
 > -- *[[CarbonBlackIncreasesSnowmeltAn_16800]]*
 
+> This document examines the development and morphology of ephemeral gully systems in western mountain lands, proposing a classification based on stages of development from youthful to old-age. The research, conducted primarily in the [[Colorado Rocky Mountains]] with observations from [[New...
+> -- *[[StagesOfDevelopmentOfGulliesIn_16590]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
@@ -80,3 +83,4 @@ The Colorado River, in the context of fish science and conservation, refers to a
 - [[PrimaryProductivityCAtTwinLake_12652]]
 - [[TheEnvironmentalConditionsOfAn_16280]]
 - [[CarbonBlackIncreasesSnowmeltAn_16800]]
+- [[StagesOfDevelopmentOfGulliesIn_16590]]

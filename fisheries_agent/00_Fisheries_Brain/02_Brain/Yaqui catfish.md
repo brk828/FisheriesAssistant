@@ -74,6 +74,12 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This Environmental Assessment evaluates three management alternatives for the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in southeastern Arizona for the period 1995-2015. The refuges were established to conserve threatened and endangered fish and...
 > -- *[[SanBernardinoAndLeslieCanyonNa_11694]]*
 
+> This correspondence from the [[University of Michigan]] [[Museum of Zoology]] Division of Fishes provides expert identification of five catfish specimens submitted by the [[Dexter National Fish Hatchery]] in [[New Mexico]]. The analysis confirms hybridization between [[Yaqui Catfish]] ([[Ictalurus...
+> -- *[[ReportOnYaquiCatfishReceived_15380]]*
+
+> This 1993 technical document from the [[San Marcos National Fish Hatchery]] provides comprehensive genetic management guidelines for federal fish hatcheries in Region 2. The document addresses growing concerns that hatchery operations may threaten wild fish populations through genetic degradation,...
+> -- *[[GeneralGeneticGuidelinesForReg_18841]]*
+
 ## Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -134,3 +140,5 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[FisheryManagementForTheSanBern_18979]]
 - [[EnvironmentalAssessmentAndHabi_11684]]
 - [[SanBernardinoAndLeslieCanyonNa_11694]]
+- [[ReportOnYaquiCatfishReceived_15380]]
+- [[GeneralGeneticGuidelinesForReg_18841]]

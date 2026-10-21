@@ -11,7 +11,11 @@ auto_enriched: true
 > This document is correspondence from the [[University of Michigan]] [[Museum of Zoology]] in Ann Arbor, Michigan. The handwritten letter appears to reference cichlid specimens, specifically mentioning [[Cichlasoma]], a genus in the family [[Cichlidae]]. The document quality is poor due to OCR...
 > -- *[[TilapiaAtCuatroCienegasMexico_15378]]*
 
+> This correspondence from the [[University of Michigan]] [[Museum of Zoology]] Division of Fishes provides expert identification of five catfish specimens submitted by the [[Dexter National Fish Hatchery]] in [[New Mexico]]. The analysis confirms hybridization between [[Yaqui Catfish]] ([[Ictalurus...
+> -- *[[ReportOnYaquiCatfishReceived_15380]]*
+
 ## Mentioned In
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[TaxonomicStatusEcologyAndDistr_14514]]
 - [[TilapiaAtCuatroCienegasMexico_15378]]
+- [[ReportOnYaquiCatfishReceived_15380]]

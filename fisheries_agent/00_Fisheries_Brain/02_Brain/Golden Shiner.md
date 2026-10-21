@@ -71,6 +71,18 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
 > -- *[[BioassayAndUseOfPituitaryMater_15952]]*
 
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
+> This October 1955 California Department of Fish and Game bulletin describes an active program to introduce four non-native forage fish species into California's warmwater reservoirs to support predatory gamefish populations. The program, led by Associate Fisheries Biologist J.B. Kimsey, addresses...
+> -- *[[ForageFish_12530]]*
+
+> This report presents age and growth data for six species of warm-water game and pan fish collected from 155 ponds in eastern and north central [[Massachusetts]] during 1946-1950. A total of 1,850 individual fish were analyzed using scale reading techniques to determine age structure and growth...
+> -- *[[GrowthOfGameAndPanFish_12817]]*
+
+> This study examined winter food habits of [[Pikeperch]] (Stizostedion vitreum) in [[Oneida Lake]], New York during the winters of 1951-52 and 1952-53. Of 143 pikeperch stomachs collected via ice-fishing, 78.3% were empty—nearly double the empty-stomach rate reported for summer and fall periods in...
+> -- *[[WinterFoodHabitsOfPikeperchInO_16899]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -124,3 +136,7 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[DraftLittleColoradoRiverSpined_11662]]
 - [[StatewideRoughFishControlfishE_14929]]
 - [[BioassayAndUseOfPituitaryMater_15952]]
+- [[BiologicalOpinionOfFederalAids_11920]]
+- [[ForageFish_12530]]
+- [[GrowthOfGameAndPanFish_12817]]
+- [[WinterFoodHabitsOfPikeperchInO_16899]]

@@ -41,6 +41,12 @@ Gray Canyon is a section of the Upper Green River in Utah that serves as critica
 > This 1987 protocol document from the [[Colorado River Fishes Recovery Team]] establishes standardized procedures for field personnel to identify, capture, handle, and transport wild [[Bonytail]] (*Gila elegans*) to appropriate refugia facilities. The protocol addresses field identification...
 > -- *[[DraftprotocolForHandlingAndTra_13900]]*
 
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
+> This final report synthesizes findings from the [[Colorado River Fishes Monitoring Project]] (1982-1985) and related studies conducted by the U.S. Fish and Wildlife Service Vernal Field Station in the [[Green River Basin]] from 1979-1986. The study focused primarily on three federally endangered...
+> -- *[[GreenRiverRareAndEndangeredFis_13060]]*
+
 ## Mentioned In
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
 - [[DistributionHabitatUseAndGrowt_1991]]
@@ -55,3 +61,5 @@ Gray Canyon is a section of the Upper Green River in Utah that serves as critica
 - [[FiscalYearWorkPlan_11756]]
 - [[ColoradoSquawfishPtychocheilus_13278]]
 - [[DraftprotocolForHandlingAndTra_13900]]
+- [[FiscalYearWorkPlan_11742]]
+- [[GreenRiverRareAndEndangeredFis_13060]]

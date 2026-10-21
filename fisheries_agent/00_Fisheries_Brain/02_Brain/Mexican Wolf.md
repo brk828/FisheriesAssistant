@@ -17,7 +17,11 @@ The Mexican Wolf is an extirpated species that is considered unlikely for reintr
 > This August 12, 1991 letter from the [[U.S. Fish and Wildlife Service]] to the [[U.S. Forest Service]] provides formal comments on the proposed [[Pigeon Creek Lake]] project in [[Greenlee County]], [[Arizona]]. The Service raises significant concerns about the project's potential impacts to...
 > -- *[[ReRequestForCommentsRegardingT_15640]]*
 
+> This strategic plan, prepared by [[Warren J. Iliff]] (Executive Director) and staff of [[The Phoenix Zoo]] in April 1995, outlines a comprehensive three-year transformation of the institution from a traditional animal exhibition facility into a mission-driven conservation communication...
+> -- *[[StrategicPlan_11177]]*
+
 ## Mentioned In
 - [[PlanningEffortNearItsConclusio_11515]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[ReRequestForCommentsRegardingT_15640]]
+- [[StrategicPlan_11177]]

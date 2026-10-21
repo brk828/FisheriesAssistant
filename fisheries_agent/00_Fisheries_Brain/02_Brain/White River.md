@@ -131,6 +131,33 @@ The White River refers to a river system in the south-central United States (pri
 > This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
 > -- *[[ColoradoRiverFisheriesInvestig_18481]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
+> This October 1983 memorandum from the U.S. Fish and Wildlife Service to the Bureau of Indian Affairs addresses a formal Section 7 consultation regarding the proposed [[Miner Flat Dam]] project on the [[White River]] system in Arizona. While no effects are anticipated on [[Peregrine Falcon]], [[Bald...
+> -- *[[FormalSectionConsultationMiner_11842]]*
+
+> This draft final report presents a comprehensive biochemical genetic analysis of [[Colorado Squawfish]] (*Ptychocheilus lucius*), a large river cyprinid listed as endangered in 1967. The study examined 833 individuals (151 wild adults, 64 juveniles, 478 young-of-year, and 140 hatchery-reared fish)...
+> -- *[[BiochemicalGeneticsOfEndangere_12089]]*
+
+> This job progress report documents the second year (October 1, 1978 to September 30, 1979) of the [[Colorado Division of Wildlife]]'s endangered fish monitoring program targeting [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Humpback Chub]] (*Gila cypha*). Field crews sampled five trend...
+> -- *[[ColoradoSquawfishAndHumpbackCh_12715]]*
+
+> This final report synthesizes findings from the [[Colorado River Fishes Monitoring Project]] (1982-1985) and related studies conducted by the U.S. Fish and Wildlife Service Vernal Field Station in the [[Green River Basin]] from 1979-1986. The study focused primarily on three federally endangered...
+> -- *[[GreenRiverRareAndEndangeredFis_13060]]*
+
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
+> This proposal, submitted by Arizona State University to the Arizona Game and Fish Department in July 1986, outlines a one-year study to evaluate potential interactions between imperiled native [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]) versus introduced [[Red...
+> -- *[[SpikedaceAndLoachMinnowStudyAP_16483]]*
+
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -193,3 +220,12 @@ The White River refers to a river system in the south-central United States (pri
 - [[PartManagementConcernsPriority_14724]]
 - [[AdverseBiologicalOpinionIndian_15638]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[FiscalYearWorkPlan_11742]]
+- [[FormalSectionConsultationMiner_11842]]
+- [[BiochemicalGeneticsOfEndangere_12089]]
+- [[ColoradoSquawfishAndHumpbackCh_12715]]
+- [[GreenRiverRareAndEndangeredFis_13060]]
+- [[ABibliographyOfTheFederallyEnd_14370]]
+- [[SpikedaceAndLoachMinnowStudyAP_16483]]
+- [[RealitiesOfProvidingWaterForEn_20669]]

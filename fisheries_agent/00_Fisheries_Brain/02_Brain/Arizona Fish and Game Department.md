@@ -14,6 +14,10 @@ The Arizona Fish and Game Department is a state wildlife management agency. Alon
 > This document is a review memo from Jim to Minck evaluating ongoing [[Glen Canyon Environmental Studies]] projects focused on [[Humpback Chub]] (*Gila cypha*) recovery. The reviewer assesses research conducted by [[Arizona State University]]/[[Navajo Nation]], [[Arizona Fish and Game Department]],...
 > -- *[[ReviewOfGlenCanyonEnvironmenta_14007]]*
 
+> This 1990 environmental assessment proposes establishing a native fish rearing facility at [[Yuma Cove]], [[Lake Mohave]], to prevent extirpation of the [[Razorback Sucker]] (*Xyrauchen texanus*). The species, once common throughout the [[Colorado River]] system from Wyoming to Mexico, is now...
+> -- *[[EnvironmentalAssessmentForLake_15466]]*
+
 ## Mentioned In
 - [[ProjectVelaUniformLakeMeadTest_20812]]
 - [[ReviewOfGlenCanyonEnvironmenta_14007]]
+- [[EnvironmentalAssessmentForLake_15466]]

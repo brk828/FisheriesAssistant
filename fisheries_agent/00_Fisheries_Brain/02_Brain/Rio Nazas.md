@@ -14,7 +14,11 @@ auto_enriched: true
 > Personal correspondence dated March 30, 1992, from Dr. Roger Conant (University of New Mexico, retired Director of Philadelphia Zoo) to Dr. W. L. Minckley (Arizona State University) requesting information on geological history and aquatic fauna of the [[Rio Nazas]] and [[Rio Aguanaval]] in western...
 > -- *[[InterestInRioNazasAndRioAguana_17463]]*
 
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[InterestInRioNazasAndRioAguana_17463]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

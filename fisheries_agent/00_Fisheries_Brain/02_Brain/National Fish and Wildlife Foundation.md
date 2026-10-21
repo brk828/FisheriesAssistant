@@ -29,6 +29,12 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 > This document presents the Fiscal Year 1999 Work Plan for the Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin, approved by the Implementation Committee on September 10, 1998. The program addresses recovery of four endangered fish species: [[Colorado...
 > -- *[[FiscalYearWorkPlan_11756]]*
 
+> This document comprises three grant proposals submitted by [[American Rivers]] to the [[National Fish and Wildlife Foundation]] on December 30, 1993. The proposals address: (1) native fish habitat assessment in the [[Gila River]] watershed using historical distribution data; (2) floodplain habitat...
+> -- *[[AmericanRiversProposalFundingR_17975]]*
+
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
+> -- *[[ExecutiveSummary_18726]]*
+
 ## Mentioned In
 - [[CooperativeAgreementColoradoRi_1989_06_30]]
 - [[HassayampaLakeRenova_16653]]
@@ -40,3 +46,5 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 - [[LetterOnImplementationCommitte_11623]]
 - [[SummaryjanuaryManagementGroupM_21002]]
 - [[FiscalYearWorkPlan_11756]]
+- [[AmericanRiversProposalFundingR_17975]]
+- [[ExecutiveSummary_18726]]

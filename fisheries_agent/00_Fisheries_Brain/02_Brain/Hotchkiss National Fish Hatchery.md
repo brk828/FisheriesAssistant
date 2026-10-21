@@ -23,6 +23,12 @@ auto_enriched: true
 > This 1987 protocol document from the [[Colorado River Fishes Recovery Team]] establishes standardized procedures for field personnel to identify, capture, handle, and transport wild [[Bonytail]] (*Gila elegans*) to appropriate refugia facilities. The protocol addresses field identification...
 > -- *[[DraftprotocolForHandlingAndTra_13900]]*
 
+> This September 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates the need for and design of a dedicated hatchery to produce endangered [[Colorado River]] fishes. The study addresses production requirements through 1996 for three species:...
+> -- *[[ColoradoRiverEndangeredFishHat_13665]]*
+
+> This study evaluated five tagging and marking systems for three endangered [[Colorado River]] fishes: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and [[Bonytail]] (*Gila elegans*). Conducted from October 1989 to March 1991 at three U.S. Fish and...
+> -- *[[AStudyToEvaluateSeveralTagging_13901]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
@@ -30,3 +36,5 @@ auto_enriched: true
 - [[AStudyToDetermineTheBiological_11576]]
 - [[TripReportForUpperColoradoRive_12974]]
 - [[DraftprotocolForHandlingAndTra_13900]]
+- [[ColoradoRiverEndangeredFishHat_13665]]
+- [[AStudyToEvaluateSeveralTagging_13901]]

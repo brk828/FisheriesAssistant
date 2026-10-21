@@ -74,6 +74,9 @@ Cyprinodon macularius, commonly known as the desert pupfish, is a small-bodied c
 > This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
 > -- *[[FinalProgressReport_18563]]*
 
+> This 1942 report documents the first confirmed occurrence of ten-pounders ([[Elops affinis]]) in the [[Salton Sea]], California, representing a potential new sport fishery for this previously barren water body. Between May 14-24, 1942, commercial fishermen and biologists captured 244 specimens...
+> -- *[[AGameFishForTheSaltonSeaTheTen_12860]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
@@ -127,3 +130,4 @@ Cyprinodon macularius, commonly known as the desert pupfish, is a small-bodied c
 - [[SonoranDesertExpertsWorkshop_13543]]
 - [[DesertFishesCouncilThirteenthA_12827]]
 - [[FinalProgressReport_18563]]
+- [[AGameFishForTheSaltonSeaTheTen_12860]]

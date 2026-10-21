@@ -35,6 +35,9 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
 > -- *[[PartManagementConcernsPriority_14724]]*
 
+> This 1965 report documents the first confirmed occurrences of [[Lost River Sucker]] (*Deltistes luxatus*) and [[Shortnose Sucker]] (*Chasmistes brevirostris*) in California waters, adding both species to the state's freshwater fish fauna. Previously known only from the [[Klamath Lakes]] drainage in...
+> -- *[[OccurrencesOfTheLostRiverSucke_17577]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
@@ -48,3 +51,4 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[TheStatusOfThePumpkinseedLepom_12862]]
 - [[TheCaliforniaSturgeon_17339]]
 - [[PartManagementConcernsPriority_14724]]
+- [[OccurrencesOfTheLostRiverSucke_17577]]

@@ -23,6 +23,9 @@ The Emerald Shiner (*Notropis atherinoides*) is a small, silvery cyprinid minnow
 > This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
 > -- *[[BioassayAndUseOfPituitaryMater_15952]]*
 
+> This study examined winter food habits of [[Pikeperch]] (Stizostedion vitreum) in [[Oneida Lake]], New York during the winters of 1951-52 and 1952-53. Of 143 pikeperch stomachs collected via ice-fishing, 78.3% were empty—nearly double the empty-stomach rate reported for summer and fall periods in...
+> -- *[[WinterFoodHabitsOfPikeperchInO_16899]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
@@ -31,3 +34,4 @@ The Emerald Shiner (*Notropis atherinoides*) is a small, silvery cyprinid minnow
 - [[ConcernsAboutIntroductionOfRai_13174]]
 - [[ReviewOfPotentialForageFishInt_19139]]
 - [[BioassayAndUseOfPituitaryMater_15952]]
+- [[WinterFoodHabitsOfPikeperchInO_16899]]

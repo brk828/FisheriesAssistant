@@ -215,6 +215,33 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
 > -- *[[GlenCanyonEnvironmentalStudies_19719]]*
 
+> This 1942 report documents the first confirmed occurrence of ten-pounders ([[Elops affinis]]) in the [[Salton Sea]], California, representing a potential new sport fishery for this previously barren water body. Between May 14-24, 1942, commercial fishermen and biologists captured 244 specimens...
+> -- *[[AGameFishForTheSaltonSeaTheTen_12860]]*
+
+> This historical report from Commissioner Richard Rule to Governor F.A. Tritle documents the activities and challenges of the [[Arizona Fish Commission]] for the southern territory during 1883-1884. The commission focused primarily on [[Carp]] distribution and propagation, receiving approximately...
+> -- *[[ToHisExcellencyFrederickATritl_13446]]*
+
+> This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
+> -- *[[StatewideRoughFishControljobNo_14932]]*
+
+> This doctoral thesis investigates the population characteristics of [[Smallmouth Buffalo]] (*Ictiobus bubalus*) in [[Watts Bar Reservoir]] and the [[Clinch River]], Tennessee, focusing on age distribution, growth rates, dispersion, and radionuclide accumulation. The study analyzed 1,271...
+> -- *[[GrowthAndMovementOfSmallmouthB_17077]]*
+
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
+> This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
+> -- *[[SummaryOfCommercialFisheriesCa_19834]]*
+
+> This 1951 report by the Fisheries Task Group of the [[Colorado River Great Basin Field Committee]] presents a comprehensive survey of the Lower Colorado River fishery from [[Hoover Dam]] to the Mexican border. The study divides the river into seven sections, each assessed individually for present...
+> -- *[[FisheriesReportOfTheLowerColor_19846]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
+> This creel census study examined seasonal patterns in fishing pressure and harvest on a 7-mile section of the [[Des Moines River]] in [[Boone County]], Iowa, between July 1957 and September 1958. The study area, located between Fraser and Boone dams, was surveyed using a modified Latin square...
+> -- *[[SeasonalChangesInHarvestAndFis_20577]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -330,3 +357,12 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[TheEnvironmentalConditionsOfAn_16280]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
+- [[AGameFishForTheSaltonSeaTheTen_12860]]
+- [[ToHisExcellencyFrederickATritl_13446]]
+- [[StatewideRoughFishControljobNo_14932]]
+- [[GrowthAndMovementOfSmallmouthB_17077]]
+- [[ListOfFishesReportedFromKansas_18026]]
+- [[SummaryOfCommercialFisheriesCa_19834]]
+- [[FisheriesReportOfTheLowerColor_19846]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[SeasonalChangesInHarvestAndFis_20577]]

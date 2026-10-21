@@ -89,6 +89,12 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
 > -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
 
+> This 1986 memorandum from the [[Bureau of Reclamation]] Upper Colorado Regional Office to the [[U.S. Fish and Wildlife Service]] Endangered Species Office proposes collaboration with Dr. W. L. Minckley of [[Arizona State University]] on basin-wide systematic studies of the genus *[[Gila]]*. The...
+> -- *[[FutureGilaWork_11987]]*
+
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AResumeOfTheDetoxificationPhas_1963]]
@@ -153,3 +159,5 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[GilaMorphometry_19079]]
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[MxMissileSystemAnUrgentLetterF_20507]]
+- [[FutureGilaWork_11987]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

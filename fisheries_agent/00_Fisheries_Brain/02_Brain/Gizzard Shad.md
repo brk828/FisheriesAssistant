@@ -86,6 +86,15 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 > This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
 > -- *[[StatewideRoughFishControlfishE_14929]]*
 
+> This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
+> -- *[[StatewideRoughFishControljobNo_14932]]*
+
+> This study examined winter food habits of [[Pikeperch]] (Stizostedion vitreum) in [[Oneida Lake]], New York during the winters of 1951-52 and 1952-53. Of 143 pikeperch stomachs collected via ice-fishing, 78.3% were empty—nearly double the empty-stomach rate reported for summer and fall periods in...
+> -- *[[WinterFoodHabitsOfPikeperchInO_16899]]*
+
+> This job completion report documents the chemical treatment of [[Century Lake]] (555 acres, reduced to 463 acres at treatment) and 1.5 miles of [[White Oak Creek]] in [[Hopkins County]], Texas on May 15-16, 1963. The treatment used 995 gallons of 5% rotenone to remove the existing fish population,...
+> -- *[[StatewideRoughRishControlJobNo_19049]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -143,3 +152,6 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 - [[AssessmentOfTheNeedForForageEn_17853]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[StatewideRoughFishControlfishE_14929]]
+- [[StatewideRoughFishControljobNo_14932]]
+- [[WinterFoodHabitsOfPikeperchInO_16899]]
+- [[StatewideRoughRishControlJobNo_19049]]

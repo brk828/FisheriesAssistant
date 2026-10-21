@@ -32,6 +32,12 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 > This paper documents the rediscovery of [[Noturus flavipinnis]] (yellowfin madtom), an [[Ictaluridae]] catfish previously known only from 13 faded specimens collected between 1884 and 1893 from three widely separated localities in the [[Tennessee River]] drainage. The species was feared extinct...
 > -- *[[RediscoveryAndDescriptionOfThe_13513]]*
 
+> This 1955 fisheries bulletin reports growth rates of [[White Crappie]] (*Pomoxis annularis*) in the [[Tennessee River]] tailwaters below [[Kentucky Dam]], Kentucky. Scale samples from 237 specimens collected May-December 1952 revealed average growth of 3.4 inches in year one, reaching 11.9 inches...
+> -- *[[GrowthRatesOfTheWhiteCrappiePo_16032]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[AFreshwaterMolluskSurveyOfNort_15956]]
@@ -47,3 +53,5 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 - [[FishesOfAlabama_1990]]
 - [[TheBoulderDarterAConservationC_14033]]
 - [[RediscoveryAndDescriptionOfThe_13513]]
+- [[GrowthRatesOfTheWhiteCrappiePo_16032]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

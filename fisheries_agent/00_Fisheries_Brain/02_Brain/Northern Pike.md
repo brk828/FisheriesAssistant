@@ -119,6 +119,9 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 > [[Antimycin]] is a newly developed antibiotic fish toxicant discovered in 1945 at the [[University of Wisconsin]] Department of Plant Pathology. By 1963, researchers identified its high toxicity to fish at concentrations harmless to other animals. The [[Fish Control Laboratory]] at [[La Crosse]]...
 > -- *[[AntimycinaNewFisheryTool_20243]]*
 
+> This document provides a comprehensive overview of sunfish species (family [[Centrarchidae]]) native to [[New York State]], focusing on three principal species: the [[Pumpkinseed]] (*Lepomis gibbosus*), [[Blue-gill]] (*Lepomis macrochirus*), and [[Red-bellied Sunfish]] (*Lepomis auritus*). The text...
+> -- *[[Sunfishes_19212]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -199,3 +202,4 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 - [[AdverseBiologicalOpinionIndian_15638]]
 - [[FishingInTwelveMichiganLakesUn_16148]]
 - [[AntimycinaNewFisheryTool_20243]]
+- [[Sunfishes_19212]]

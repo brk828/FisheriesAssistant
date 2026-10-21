@@ -29,6 +29,12 @@ auto_enriched: true
 > This 1975 USDA Forest Service research note documents an experimental application of carbon black to accelerate midwinter snowmelt on [[Mule Deer]] winter range in [[Colorado]]. The study tested whether artificially darkening snow surfaces could increase forage availability during the critical...
 > -- *[[CarbonBlackIncreasesSnowmeltAn_16800]]*
 
+> This is the fourth annual progress report (1979-1982) on a comprehensive mammal survey of the [[George Whittell Wildlife Preserve]] in the [[Aravaipa Creek]] watershed, Arizona. The survey documented 60 mammal species as actual, probable, or possible inhabitants, with 45 species confirmed for the...
+> -- *[[ReportOnTheSurveyOfTheMammalsO_11840]]*
+
+> This 1967 report by George L. Batchelder provides a comprehensive synthesis of the Pleistocene geology and ecology of the [[Mono Basin]], California. The basin offers a unique opportunity to study synchronous glaciation and lacustrine fluctuations during the Quaternary. The document describes...
+> -- *[[TheMonoBasin_15632]]*
+
 ## Mentioned In
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
@@ -37,3 +43,5 @@ auto_enriched: true
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[GilasanFranciscoRiversResource_18256]]
 - [[CarbonBlackIncreasesSnowmeltAn_16800]]
+- [[ReportOnTheSurveyOfTheMammalsO_11840]]
+- [[TheMonoBasin_15632]]

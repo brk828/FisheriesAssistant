@@ -11,5 +11,9 @@ Skeleton Creek is a permanent stream in north-central Oklahoma that originates n
 > This master's thesis by Hilton Allison Phillips (Oklahoma State University, 1965) documents a year-long study (June 1963–June 1964) of fish populations in [[Skeleton Creek]], Oklahoma, examining impacts of oil refinery and treated domestic sewage effluents on species diversity and abundance. The...
 > -- *[[EffectsOfOilRefineryAndDomesti_11169]]*
 
+> This doctoral dissertation (Oklahoma State University, 1966) investigated how domestic sewage and oil refinery effluents affected the morphological characteristics and population structure of three cyprinid fish species in [[Skeleton Creek]], Oklahoma. Between June 1963 and May 1964, the author...
+> -- *[[TheEffectOfDomesticAndOilRefin_15666]]*
+
 ## Mentioned In
 - [[EffectsOfOilRefineryAndDomesti_11169]]
+- [[TheEffectOfDomesticAndOilRefin_15666]]

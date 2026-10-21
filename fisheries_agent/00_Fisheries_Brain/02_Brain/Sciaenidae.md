@@ -32,6 +32,12 @@ Sciaenidae is a diverse family of primarily marine and estuarine teleost fishes 
 > This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
 > -- *[[AClassificationOfTheFishesOfTh_14438]]*
 
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnExoticOccurrenceOfFreshWater_12926]]
@@ -53,3 +59,5 @@ Sciaenidae is a diverse family of primarily marine and estuarine teleost fishes 
 - [[TheFaunalArchaeologyOfTheTubac_20377]]
 - [[MarineIntroductionsTexas_13536]]
 - [[AClassificationOfTheFishesOfTh_14438]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

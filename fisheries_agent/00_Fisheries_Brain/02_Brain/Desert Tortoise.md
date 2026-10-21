@@ -32,6 +32,9 @@ auto_enriched: true
 > This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
 > -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
 
+> This Bureau of Land Management memorandum reports on the construction and initial effects of a riparian exclosure at [[Tule Creek]], Arizona, designed to protect habitat for the [[Gila Topminnow]] (Poeciliopsis occidentalis) population. Construction occurred April-May 1991 by Arizona Game and Fish...
+> -- *[[TuleCreekExclosureProjectSumma_17655]]*
+
 ## Mentioned In
 - [[ReportingFederalExpendituresPu_1992_11_25]]
 - [[PapagoParkMilitaryReservationB_13351]]
@@ -42,3 +45,4 @@ auto_enriched: true
 - [[PlanningEffortNearItsConclusio_11515]]
 - [[BiologicalEvaluationOfTheAppro_15074]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[TuleCreekExclosureProjectSumma_17655]]

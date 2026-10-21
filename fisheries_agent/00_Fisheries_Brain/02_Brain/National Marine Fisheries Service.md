@@ -53,6 +53,9 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This February 1992 report by [[World Wildlife Fund]] analyzes Section 7 consultation data under the [[Endangered Species Act]] (ESA) from Fiscal Years 1987-1991. The study examines consultation records from every regional office of the [[U.S. Fish and Wildlife Service]] (FWS) and [[National Marine...
 > -- *[[ForConservingListedSpeciesTalk_15635]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
+> -- *[[ExecutiveSummary_18726]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -79,3 +82,4 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[SalmonDecision_19385]]
 - [[HabitatConservationPlanAssuran_13191]]
 - [[ForConservingListedSpeciesTalk_15635]]
+- [[ExecutiveSummary_18726]]

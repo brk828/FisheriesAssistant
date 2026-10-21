@@ -14,6 +14,10 @@ Twin Lakes is a pair of connected montane glacial lakes in Colorado at 2,802 met
 > This report presents results from C¹⁴ primary productivity studies conducted at [[Twin Lakes]], [[Colorado]], from 1973-81, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study characterizes baseline primary production rates in these high-mountain lakes (2802 m elevation)...
 > -- *[[PrimaryProductivityCAtTwinLake_12652]]*
 
+> This baseline study documents the ecology of [[White Sucker]] (*Catostomus commersoni*) and [[Longnose Sucker]] (*Catostomus catostomus*) populations in [[Twin Lakes]], Colorado, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Research conducted from 1971-1978 examined age and...
+> -- *[[EcologyOfCatostomidsInTwinLake_12424]]*
+
 ## Mentioned In
 - [[HydroacousticSurveysOfFishAbun_13336]]
 - [[PrimaryProductivityCAtTwinLake_12652]]
+- [[EcologyOfCatostomidsInTwinLake_12424]]

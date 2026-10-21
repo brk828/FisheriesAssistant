@@ -14,7 +14,11 @@ Etheostoma fonticola, commonly known as the Fountain Darter, is a small freshwat
 > - **Near-universal hybridization capacity**: Virtually any two darter species can be experimentally hybridized to produce viable larvae, regardless of phylogenetic distance — supporting and extending the conclusions of [[C. Hubbs and Strawn 1957a]]. - **Data scope**: This paper adds 25 previously...
 > -- *[[LaboratoryHybridCombinationsAm_14219]]*
 
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
 ## Mentioned In
 - [[AClassificationOfTexasAquaticC_15773]]
 - [[FountainDarterEtheostomaFontic_1993_05_19]]
 - [[LaboratoryHybridCombinationsAm_14219]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]

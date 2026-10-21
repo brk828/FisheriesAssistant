@@ -14,6 +14,10 @@ auto_enriched: true
 > - **No fish-specific data exist in this source.** The paper is fundamentally an avifaunal risk assessment for geothermal development, produced by a fisheries-and-wildlife agency biologist but focused on birds. - The Gila River (Graham/Greenlee Counties, AZ) is identified as one of the least-alter...
 > -- *[[CommentsOnTheProposedDevelopme_1975_04_01]]*
 
+> This study evaluated instream flow requirements for three native fish species—[[Roundtail Chub]] (*Gila robusta robusta*), [[Sonora Sucker]] (*Catostomus insignis*), and [[Desert Sucker]] (*Catostomus clarki*)—in the [[Burro Creek]] drainage of west-central Arizona using the Incremental...
+> -- *[[EvaluationOfTheInstreamFlowReq_13030]]*
+
 ## Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
+- [[EvaluationOfTheInstreamFlowReq_13030]]

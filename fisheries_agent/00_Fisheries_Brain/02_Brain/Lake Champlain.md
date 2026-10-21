@@ -20,8 +20,12 @@ Lake Champlain is a major freshwater system on the Vermont-New York border that 
 > The [[Yellow Perch]] (*Perca flavescens*) is one of the most widely distributed food and game fishes in [[New York State]], eliciting mixed reactions from anglers. While valued as a pan fish for its palatability and ease of capture, it can become a nuisance species, particularly in [[Adirondack]]...
 > -- *[[Perch_16750]]*
 
+> This document provides a comprehensive overview of sunfish species (family [[Centrarchidae]]) native to [[New York State]], focusing on three principal species: the [[Pumpkinseed]] (*Lepomis gibbosus*), [[Blue-gill]] (*Lepomis macrochirus*), and [[Red-bellied Sunfish]] (*Lepomis auritus*). The text...
+> -- *[[Sunfishes_19212]]*
+
 ## Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[StationProfileOfThePittsfordNa_1993]]
 - [[TheAmericanSmeltOsmerusMordaxM_1950]]
 - [[Perch_16750]]
+- [[Sunfishes_19212]]

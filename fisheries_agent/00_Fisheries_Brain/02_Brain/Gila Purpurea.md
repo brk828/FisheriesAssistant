@@ -38,6 +38,9 @@ Gila purpurea, commonly known as the Yaqui chub, is a small endemic cyprinid fis
 > This document comprises historical field collection notes (Station M34-2 and M30-60) and correspondence dated March 28, 1989, from the [[University of Michigan Museum of Zoology]] Division of Fishes to Dr. W. L. Minckley at [[Arizona State University]]. The field notes document collection of...
 > -- *[[FishCollectionRecordsAndFieldN_15305]]*
 
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -55,3 +58,4 @@ Gila purpurea, commonly known as the Yaqui chub, is a small endemic cyprinid fis
 - [[DraftecologicalDeterminismHybr_12773]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[FishCollectionRecordsAndFieldN_15305]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

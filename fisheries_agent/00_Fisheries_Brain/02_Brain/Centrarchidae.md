@@ -74,6 +74,18 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 > This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
 > -- *[[StatewideRoughFishControlfishE_14929]]*
 
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
+> This document provides a comprehensive overview of sunfish species (family [[Centrarchidae]]) native to [[New York State]], focusing on three principal species: the [[Pumpkinseed]] (*Lepomis gibbosus*), [[Blue-gill]] (*Lepomis macrochirus*), and [[Red-bellied Sunfish]] (*Lepomis auritus*). The text...
+> -- *[[Sunfishes_19212]]*
+
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AGrowthStudyAndBloodProteinAna_15288]]
@@ -171,3 +183,7 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 - [[AStudyOfTheFisheriesOnBitterLa_14374]]
 - [[CodeOfFederalRegulationsPartEn_11616]]
 - [[StatewideRoughFishControlfishE_14929]]
+- [[FishesNativeToOrIntroducedInPa_18945]]
+- [[Sunfishes_19212]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

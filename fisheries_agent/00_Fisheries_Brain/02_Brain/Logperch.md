@@ -23,6 +23,12 @@ Logperch refers to small freshwater darter fish of the genus Percina, characteri
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
+> This correspondence documents three fish stocking events at [[Topock Marsh]], Arizona in 1977 where shipments from [[Tisomingo National Fish Hatchery]] in Oklahoma inadvertently introduced multiple non-target species alongside requested fish. The incidents involved [[Channel Catfish]] (March 30),...
+> -- *[[ContaminatedFishStockingsIntoT_20328]]*
+
 ## Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[ChangesInTheFishPopulationInTh_12453]]
@@ -32,3 +38,5 @@ Logperch refers to small freshwater darter fish of the genus Percina, characteri
 - [[ObservationsOnTheFoodHabitsOfT_12993]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]
+- [[ContaminatedFishStockingsIntoT_20328]]

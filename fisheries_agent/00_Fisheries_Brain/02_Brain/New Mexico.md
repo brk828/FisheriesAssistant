@@ -50,6 +50,18 @@ auto_enriched: true
 > This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
 > -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
 
+> This Federal Register notice (Vol. 56, No. 225, November 21, 1991) presents the U.S. Fish and Wildlife Service's updated compilation of vertebrate and invertebrate animal taxa native to the United States being reviewed for possible addition to the List of Endangered and Threatened Wildlife under...
+> -- *[[EndangeredAndThreatenedWildlif_11596]]*
+
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
+> This correspondence from the [[University of Michigan]] [[Museum of Zoology]] Division of Fishes provides expert identification of five catfish specimens submitted by the [[Dexter National Fish Hatchery]] in [[New Mexico]]. The analysis confirms hybridization between [[Yaqui Catfish]] ([[Ictalurus...
+> -- *[[ReportOnYaquiCatfishReceived_15380]]*
+
+> This document examines the development and morphology of ephemeral gully systems in western mountain lands, proposing a classification based on stages of development from youthful to old-age. The research, conducted primarily in the [[Colorado Rocky Mountains]] with observations from [[New...
+> -- *[[StagesOfDevelopmentOfGulliesIn_16590]]*
+
 ## Mentioned In
 - [[RainbowSmeltIntroductionIntoLa_1989]]
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
@@ -67,3 +79,7 @@ auto_enriched: true
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[AStudyOfTheFisheriesOnBitterLa_14374]]
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
+- [[EndangeredAndThreatenedWildlif_11596]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]
+- [[ReportOnYaquiCatfishReceived_15380]]
+- [[StagesOfDevelopmentOfGulliesIn_16590]]

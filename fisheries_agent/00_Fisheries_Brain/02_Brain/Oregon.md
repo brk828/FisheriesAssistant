@@ -17,8 +17,12 @@ auto_enriched: true
 > A 1957 survey of U.S. state fisheries programs reveals widespread adoption of scuba diving as a fisheries management tool. Of responding states (89.6% response rate), 14 states actively use scuba diving, four plan to implement it, and one utilizes volunteer skin diving clubs. The technology enables...
 > -- *[[StatesIncorporateScubaDivingIn_16035]]*
 
+> This technical guidance document from the U.S. Department of Agriculture [[Soil Conservation Service]] provides specifications for designing and constructing farm ponds optimized for fish production. The document addresses water supply management, pond dimensions, outlet structures, vegetation...
+> -- *[[HowToBuildAFarmPondForFishProd_13264]]*
+
 ## Mentioned In
 - [[ComparingInstreamFlowProgramsA_12685]]
 - [[NotesOnFishesCollectedByCaptCh_15664]]
 - [[LectureNotesFromBiologyClass_13784]]
 - [[StatesIncorporateScubaDivingIn_16035]]
+- [[HowToBuildAFarmPondForFishProd_13264]]

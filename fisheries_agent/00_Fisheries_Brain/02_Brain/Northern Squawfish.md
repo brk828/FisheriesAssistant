@@ -20,9 +20,13 @@ The Northern Squawfish (*Ptychocheilus oregonensis*) is a large native cyprinid 
 > This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
 > -- *[[ColoradoRiverFisheriesInvestig_18481]]*
 
+> This document comprises a 1990 proposal and preliminary investigation by the [[Larval Fish Laboratory]] at [[Colorado State University]] addressing concerns about electrofishing impacts on fish in [[Grand Canyon National Park]]. The [[National Park Service]] mandated evaluation of electrofishing...
+> -- *[[DraftDocumentimpactsOfElectrof_19691]]*
+
 ## Mentioned In
 - [[LifeHistoryNotesRelevantToTheC_11254]]
 - [[ReferencesRelatedToRareFishesA_1987_04_12]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
 - [[TheSacramentoSquawfish_13255]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
+- [[DraftDocumentimpactsOfElectrof_19691]]

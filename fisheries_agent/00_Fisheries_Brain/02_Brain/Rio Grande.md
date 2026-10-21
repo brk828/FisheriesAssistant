@@ -80,6 +80,15 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 > This Scholarly Studies Program proposal (Winter 1999 review cycle) by Robert Hershler ([[NMNH]]) and Hsiu-Ping Liu ([[Southwest Missouri State University]]) seeks funding to conduct a comprehensive phylogenetic and biogeographic analysis of *[[Pyrgulopsis]]*, the largest genus of nonmarine snails...
 > -- *[[PhylogenyOfPyrgulopsisSpringsn_16724]]*
 
+> This letter report from the EPA Border Environmental Plan Public Advisory Committee to Administrator Carol Browner (July 22, 1993) documents critical environmental and public health concerns in the [[U.S.-Mexico Border Region]]. The Committee, working with the [[Udall Center for Studies in Public...
+> -- *[[StateOfTheUsmexicoBorderEnviro_14365]]*
+
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -115,3 +124,6 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 - [[LittleFishDoesBigThings_16549]]
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
 - [[PhylogenyOfPyrgulopsisSpringsn_16724]]
+- [[StateOfTheUsmexicoBorderEnviro_14365]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]

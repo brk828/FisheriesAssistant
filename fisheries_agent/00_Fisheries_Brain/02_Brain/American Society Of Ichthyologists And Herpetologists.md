@@ -26,6 +26,9 @@ The American Society of Ichthyologists and Herpetologists (ASIH) is a profession
 > This research proposal by James Everett Deacon (Associate Professor, Nevada Southern University) seeks funding to conduct comprehensive limnological surveys of spring systems in Nevada, particularly the [[Pluvial White River System]], [[Moapa Valley]], and [[Ash Meadows]]. The proposal addresses...
 > -- *[[TheLimnologyOfDesertSprings_13994]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
+> -- *[[ExecutiveSummary_18726]]*
+
 ## Mentioned In
 - [[CommentsOnProceduresForStockin_1994_01_27]]
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
@@ -38,3 +41,4 @@ The American Society of Ichthyologists and Herpetologists (ASIH) is a profession
 - [[SoutheasternSocietyOfIchthyolo_20882]]
 - [[SuggestionsRegardingDfcAgencyR_1991_11_26]]
 - [[TheLimnologyOfDesertSprings_13994]]
+- [[ExecutiveSummary_18726]]

@@ -11,6 +11,10 @@ auto_enriched: true
 > The [[Boulder Darter]] (*Etheostoma wapiti*) is a small endangered member of the perch family (Percidae) listed by the U.S. Fish and Wildlife Service in 1988. This bottom-dwelling darter survives in only approximately 63 miles (101 kilometers) of the lower [[Elk River]] system in southern Tennessee...
 > -- *[[TheBoulderDarterAConservationC_14033]]*
 
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held September 13, 1989, in Lakewood, Colorado. The meeting addressed recovery efforts for rare and endangered fish species in the [[Colorado River Basin]], focusing on water...
+> -- *[[ManagementGroupMeetingSummarSe_21019]]*
+
 ## Mentioned In
 - [[BrookSticklebackCulaeaInconsta_1996]]
 - [[TheBoulderDarterAConservationC_14033]]
+- [[ManagementGroupMeetingSummarSe_21019]]

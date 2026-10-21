@@ -20,8 +20,12 @@ auto_enriched: true
 > This December 1993 letter from the [[Maricopa Audubon Society]] to the [[Arizona Department of Water Resources]] (ADWR) addresses concerns about a water policy change permitting subdivision development in the upper [[San Pedro River]] basin. The letter documents the ecological significance of the...
 > -- *[[ArizonaDepartmentOfWaterResour_18960]]*
 
+> This comprehensive directory, published by the Commission on the Arizona Environment in 1987, catalogs businesses, organizations, and agencies concerned with environmental resources in Arizona. The document provides contact information and descriptions for over 200 entities across multiple sectors...
+> -- *[[ArizonaEnvironmentalAndResourc_17454]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
 - [[ArizonaDepartmentOfWaterResour_18960]]
+- [[ArizonaEnvironmentalAndResourc_17454]]

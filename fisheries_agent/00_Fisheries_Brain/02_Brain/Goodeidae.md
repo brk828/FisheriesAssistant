@@ -41,6 +41,9 @@ Goodeidae is a family of small, viviparous (live-bearing) freshwater fishes ende
 > This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
 > -- *[[FinalProgressReport_18563]]*
 
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheAdultGoodeid_19652]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
@@ -67,3 +70,4 @@ Goodeidae is a family of small, viviparous (live-bearing) freshwater fishes ende
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[FinalProgressReport_18563]]
+- [[AbstractsFromTheDesertFishesCo_15019]]

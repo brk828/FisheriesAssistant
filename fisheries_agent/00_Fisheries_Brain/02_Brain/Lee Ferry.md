@@ -20,8 +20,12 @@ Lee Ferry is a location on the Colorado River approximately 30 miles upstream fr
 > This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
 > -- *[[PartICurrentSituationPartIiAPr_13306]]*
 
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
 ## Mentioned In
 - [[RiverResourceMonitoringProject_18503]]
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[HabitatUseAndStreamflowNeedsOf_11609]]
 - [[PartICurrentSituationPartIiAPr_13306]]
+- [[RealitiesOfProvidingWaterForEn_20669]]

@@ -11,5 +11,9 @@ The Dirty Devil River is one of the major tributaries flowing into Lake Powell w
 > This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
 > -- *[[GlenCanyonNationalRecreationAr_18334]]*
 
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
 ## Mentioned In
 - [[GlenCanyonNationalRecreationAr_18334]]
+- [[RealitiesOfProvidingWaterForEn_20669]]

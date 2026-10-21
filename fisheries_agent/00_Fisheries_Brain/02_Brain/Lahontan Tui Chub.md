@@ -11,5 +11,9 @@ Lahontan Tui Chub is a fish species with aberrant forms found in Diamond Valley,
 > This 1981 correspondence from the Desert Fishes Council Chairman alerts members to grave threats posed by the proposed MX Missile System to aquatic ecosystems throughout central and southern Nevada and west-central Utah. The $33 billion Department of Defense project would construct 200 racetrack...
 > -- *[[MxMissileSystemeffectsOnDesert_20506]]*
 
+> This 1967 report by George L. Batchelder provides a comprehensive synthesis of the Pleistocene geology and ecology of the [[Mono Basin]], California. The basin offers a unique opportunity to study synchronous glaciation and lacustrine fluctuations during the Quaternary. The document describes...
+> -- *[[TheMonoBasin_15632]]*
+
 ## Mentioned In
 - [[MxMissileSystemeffectsOnDesert_20506]]
+- [[TheMonoBasin_15632]]

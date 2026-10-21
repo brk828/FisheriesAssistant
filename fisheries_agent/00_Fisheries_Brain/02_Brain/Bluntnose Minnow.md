@@ -29,6 +29,12 @@ The Bluntnose Minnow is a small freshwater cyprinid fish commonly found in North
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This report documents a two-year experimental project (1941-1942) on the propagation of [[Creek Chub]] (*Semotilus atromaculatus atromaculatus*) in hatchery ponds at State Fish Farm No. 1, [[St. Marys]], Ohio. Conducted by the Ohio Division of Conservation and Natural Resources, the study aimed to...
+> -- *[[CreekChubMinnowPropagation_15905]]*
+
+> This correspondence documents three fish stocking events at [[Topock Marsh]], Arizona in 1977 where shipments from [[Tisomingo National Fish Hatchery]] in Oklahoma inadvertently introduced multiple non-target species alongside requested fish. The incidents involved [[Channel Catfish]] (March 30),...
+> -- *[[ContaminatedFishStockingsIntoT_20328]]*
+
 ## Mentioned In
 - [[AnnotatedChecklistOfFishesFrom_1962]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
@@ -46,3 +52,5 @@ The Bluntnose Minnow is a small freshwater cyprinid fish commonly found in North
 - [[ToxicFreshWaterAlgae_14366]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[CreekChubMinnowPropagation_15905]]
+- [[ContaminatedFishStockingsIntoT_20328]]

@@ -20,8 +20,12 @@ Buffalofish are large, bottom-feeding cyprinids (family Cyprinidae) native to No
 > This 1968 economic study examined the processing and marketing potential of commercial fishery products from [[Montana]] reservoirs, focusing on [[Carp]], [[Buffalofish]], [[Sucker]], and [[Goldeye]]. The research found that Montana's commercial fisheries face significant challenges including...
 > -- *[[AnEconomicStudyOfTheProcessing_15621]]*
 
+> This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
+> -- *[[SummaryOfCommercialFisheriesCa_19834]]*
+
 ## Mentioned In
 - [[CommissionPresentationOnCaptiv_1994_12_08]]
 - [[OccurrenceOfTwoSpeciesOfFreshw_11814]]
 - [[TheConservationDilemmaOfNonNat_15856]]
 - [[AnEconomicStudyOfTheProcessing_15621]]
+- [[SummaryOfCommercialFisheriesCa_19834]]

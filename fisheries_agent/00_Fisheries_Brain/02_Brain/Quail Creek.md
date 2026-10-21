@@ -26,9 +26,13 @@ Quail Creek is a tributary confluence point and critical sampling location on th
 > This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
 > -- *[[DraftConservationStrategyVirgi_11659]]*
 
+> This legal notice from the Sierra Club Legal Defense Fund, dated June 22, 1994, addresses violations of the Endangered Species Act (ESA) related to operation of the [[Quail Creek Reservoir Project]] in the [[Virgin River Basin]], Utah. The document notifies the Secretary of the Interior and Bureau...
+> -- *[[ViolationOfQuailCreekReservoir_18647]]*
+
 ## Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
 - [[CommentsOnTheVirginRiverHabita_1995_02_14]]
 - [[RequestForRenewalOfEndangeredS_1992_11_27]]
 - [[DraftConservationStrategyVirgi_11659]]
+- [[ViolationOfQuailCreekReservoir_18647]]

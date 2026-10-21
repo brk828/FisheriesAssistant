@@ -35,6 +35,9 @@ The Lowland Leopard Frog is an amphibian species associated with native freshwat
 > This Bureau of Land Management (BLM) report documents the construction of a pipeline system at [[Tule Creek]] in Yavapai County, Arizona, to provide livestock water outside a riparian exclosure while protecting habitat for the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis)...
 > -- *[[TuleCreekPipelineProjectSummar_17654]]*
 
+> This Bureau of Land Management memorandum reports on the construction and initial effects of a riparian exclosure at [[Tule Creek]], Arizona, designed to protect habitat for the [[Gila Topminnow]] (Poeciliopsis occidentalis) population. Construction occurred April-May 1991 by Arizona Game and Fish...
+> -- *[[TuleCreekExclosureProjectSumma_17655]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[FieldMonitoringOfPeoplesCanyon_1990_01_09]]
@@ -47,3 +50,4 @@ The Lowland Leopard Frog is an amphibian species associated with native freshwat
 - [[BiologicalEvaluationOfTheAppro_15074]]
 - [[ManagementPlanSierraSanLuisWil_11399]]
 - [[TuleCreekPipelineProjectSummar_17654]]
+- [[TuleCreekExclosureProjectSumma_17655]]

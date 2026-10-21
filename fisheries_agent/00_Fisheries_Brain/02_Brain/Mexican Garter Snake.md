@@ -26,6 +26,9 @@ The Mexican Garter Snake (*Thamnophis eques*) is a semi-aquatic reptile species 
 > This Environmental Assessment evaluates three management alternatives for the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in southeastern Arizona for the period 1995-2015. The refuges were established to conserve threatened and endangered fish and...
 > -- *[[SanBernardinoAndLeslieCanyonNa_11694]]*
 
+> This comprehensive monitoring plan establishes protocols for the [[San Pedro Riparian National Conservation Area]] (RNCA), established by Public Law 100-696 (Arizona-Idaho Conservation Act of 1988). The 56,430-acre conservation area protects one of the most extensive remaining broadleaf riparian...
+> -- *[[SanPedroRiparianNationalConser_11468]]*
+
 ## Mentioned In
 - [[CrayfishImpactsOnWetlandHerps_1993_10_10]]
 - [[FederalCandidateSpeciesOfArizo_11661]]
@@ -34,3 +37,4 @@ The Mexican Garter Snake (*Thamnophis eques*) is a semi-aquatic reptile species 
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[SanBernardinoAndLeslieCanyonNa_11694]]
+- [[SanPedroRiparianNationalConser_11468]]

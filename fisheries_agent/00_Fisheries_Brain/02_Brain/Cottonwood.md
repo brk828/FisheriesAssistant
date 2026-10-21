@@ -23,6 +23,9 @@ auto_enriched: true
 > On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
 > -- *[[WorkshopProceedings_18372]]*
 
+> This consensus report presents findings from a scientific peer review panel convened by the American Institute of Biological Sciences (AIBS) to evaluate the draft Conservation Strategy for the [[Lower Colorado River]] Multi-Species Conservation Program (LCR MSCP). The panel met July 12, 1999 in Las...
+> -- *[[DraftConsesusReportOnTheDraftC_13540]]*
+
 ## Mentioned In
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
 - [[SummaryOfEvents_18368]]
@@ -30,3 +33,4 @@ auto_enriched: true
 - [[VerdeValleyReportsAndSurveysFr_12879]]
 - [[GilasanFranciscoRiversResource_18256]]
 - [[WorkshopProceedings_18372]]
+- [[DraftConsesusReportOnTheDraftC_13540]]

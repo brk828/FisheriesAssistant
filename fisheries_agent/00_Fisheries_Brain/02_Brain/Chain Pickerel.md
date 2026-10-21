@@ -41,6 +41,9 @@ Chain Pickerel (Esox niger) is a freshwater predatory fish species belonging to 
 > This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
 > -- *[[TheMaineSmallmouth_14928]]*
 
+> This report presents age and growth data for six species of warm-water game and pan fish collected from 155 ponds in eastern and north central [[Massachusetts]] during 1946-1950. A total of 1,850 individual fish were analyzed using scale reading techniques to determine age structure and growth...
+> -- *[[GrowthOfGameAndPanFish_12817]]*
+
 ## Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -59,3 +62,4 @@ Chain Pickerel (Esox niger) is a freshwater predatory fish species belonging to 
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[SomeObservationsOnTheReclamati_15490]]
 - [[TheMaineSmallmouth_14928]]
+- [[GrowthOfGameAndPanFish_12817]]

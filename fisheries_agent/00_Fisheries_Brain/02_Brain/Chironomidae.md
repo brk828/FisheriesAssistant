@@ -35,6 +35,9 @@ Chironomidae, commonly known as midges or non-biting midges, are a family of sma
 > Field notes from a fish survey conducted at [[Lake Mjømane]] on November 26-28, 1994. The document records catch data for multiple fish species including [[Coregonus lavaretus]] (whitefish), [[Salmo salar]] (salmon), [[Salvelinus alpinus]] (Arctic char), and other species. Data includes specimen...
 > -- *[[NotesFromLakeMohaveFishEffortF_13745]]*
 
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
 ## Mentioned In
 - [[ComparativeEcologyOfNotropisAl_14679]]
 - [[DifferencesInLittoralFaunaDueT_1972]]
@@ -54,3 +57,4 @@ Chironomidae, commonly known as midges or non-biting midges, are a family of sma
 - [[FeedingDynamicsNitrogenBudgets_17775]]
 - [[PopulationDynamicsOfHerbivorou_13410]]
 - [[NotesFromLakeMohaveFishEffortF_13745]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]

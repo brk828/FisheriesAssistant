@@ -20,8 +20,12 @@ Alaska, specifically Southeastern Alaska, is the geographic region where this st
 > This study documents seasonal behavioral patterns in mixed aggregations of [[Yellowtail Rockfish]] (*Sebastes flavidus*) and [[Dusky Rockfish]] (*S. ciliatus*) observed by divers in [[Lynn Canal]], southeastern [[Alaska]] from 1965-75. The rockfishes exhibited dramatic seasonal shifts in spatial...
 > -- *[[SeasonalChangesInSpatialDistri_17423]]*
 
+> This Federal Register notice (Vol. 56, No. 225, November 21, 1991) presents the U.S. Fish and Wildlife Service's updated compilation of vertebrate and invertebrate animal taxa native to the United States being reviewed for possible addition to the List of Endangered and Threatened Wildlife under...
+> -- *[[EndangeredAndThreatenedWildlif_11596]]*
+
 ## Mentioned In
 - [[DisappearanceOfDeadPinkSalmonE_12341]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
 - [[SeasonalChangesInSpatialDistri_17423]]
+- [[EndangeredAndThreatenedWildlif_11596]]

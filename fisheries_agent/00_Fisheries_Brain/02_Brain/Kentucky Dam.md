@@ -14,5 +14,9 @@ auto_enriched: true
 > **Interconnectivity**: The navigation locks at [[Kentucky Dam]] serve as a key ecological corridor allowing interchange of fish populations between the lentic lake and the riverine tailwater/[[Ohio River]] system, functioning bidirectionally (downstream lake-to-river movement and upstream river-t...
 > -- *[[MovementAndHarvestOfCrappieAnd_1953]]*
 
+> This 1955 fisheries bulletin reports growth rates of [[White Crappie]] (*Pomoxis annularis*) in the [[Tennessee River]] tailwaters below [[Kentucky Dam]], Kentucky. Scale samples from 237 specimens collected May-December 1952 revealed average growth of 3.4 inches in year one, reaching 11.9 inches...
+> -- *[[GrowthRatesOfTheWhiteCrappiePo_16032]]*
+
 ## Mentioned In
 - [[MovementAndHarvestOfCrappieAnd_1953]]
+- [[GrowthRatesOfTheWhiteCrappiePo_16032]]

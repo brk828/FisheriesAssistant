@@ -68,6 +68,15 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 > This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
 > -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
 
+> This document is a formal consultation letter from the [[U.S. Fish and Wildlife Service]] (USFWS) Arizona Ecological Services Field Office to the [[Apache-Sitgreaves National Forest]] regarding 27 proposed forest management projects submitted for Section 7 consultation under the [[Endangered...
+> -- *[[ReWrittenConcurrenceOnTheFores_11749]]*
+
+> This October 1983 memorandum from the U.S. Fish and Wildlife Service to the Bureau of Indian Affairs addresses a formal Section 7 consultation regarding the proposed [[Miner Flat Dam]] project on the [[White River]] system in Arizona. While no effects are anticipated on [[Peregrine Falcon]], [[Bald...
+> -- *[[FormalSectionConsultationMiner_11842]]*
+
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
 ## Mentioned In
 - [[AnAnalysisOfFHybridsBetweenApa_1984_09_24]]
 - [[AnalysisOfApacheTroutPopulatio_15424]]
@@ -139,3 +148,6 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 - [[DraftLittleColoradoRiverSpined_11662]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
+- [[ReWrittenConcurrenceOnTheFores_11749]]
+- [[FormalSectionConsultationMiner_11842]]
+- [[BiologicalOpinionOfFederalAids_11920]]

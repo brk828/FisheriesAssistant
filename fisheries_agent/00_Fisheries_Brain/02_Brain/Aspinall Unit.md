@@ -41,6 +41,9 @@ The Aspinall Unit refers to a series of four large federal hydroelectric dams an
 > This FY 1993 annual report documents ongoing drift-net sampling to evaluate [[Colorado Squawfish]] (*Ptychocheilus lucius*) larval production in the [[Colorado River]] in response to flow manipulations from the [[Aspinall Unit]]. Principal investigators Leo Lentsch and Melissa Trammell from the...
 > -- *[[AspinalUnitStudiesEvaluationOf_20259]]*
 
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
 ## Mentioned In
 - [[InterestGroupParticipationInTh_1994_08_05]]
 - [[RoundtableDiscussionOnStreamfl_1994_12_22]]
@@ -54,3 +57,4 @@ The Aspinall Unit refers to a series of four large federal hydroelectric dams an
 - [[DraftFiveyearRoadMap_11579]]
 - [[FiscalYearWorkPlan_11743]]
 - [[AspinalUnitStudiesEvaluationOf_20259]]
+- [[FiscalYearWorkPlan_11742]]

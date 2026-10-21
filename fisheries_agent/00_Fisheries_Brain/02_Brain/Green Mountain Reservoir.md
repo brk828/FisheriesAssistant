@@ -17,8 +17,12 @@ auto_enriched: true
 > This document presents the Fiscal Year 1999 Work Plan for the Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin, approved by the Implementation Committee on September 10, 1998. The program addresses recovery of four endangered fish species: [[Colorado...
 > -- *[[FiscalYearWorkPlan_11756]]*
 
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held September 13, 1989, in Lakewood, Colorado. The meeting addressed recovery efforts for rare and endangered fish species in the [[Colorado River Basin]], focusing on water...
+> -- *[[ManagementGroupMeetingSummarSe_21019]]*
+
 ## Mentioned In
 - [[RequestForReleasesFromRuedigre_1989_06_08]]
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[FiscalYearWorkPlan_11743]]
 - [[FiscalYearWorkPlan_11756]]
+- [[ManagementGroupMeetingSummarSe_21019]]

@@ -11,5 +11,9 @@ auto_enriched: true
 > - **Basin structure**: Basin-and-Range fault-block topography; alluvium-filled trough flanked by mountain ranges, with the [[Dragoon Mountains]] forming the eastern boundary and the [[Tombstone Hills]] disrupting the pediment surface to the south/west. - **Alluvial fill depth**: Ranges from less ...
 > -- *[[DispersionOfNaturallyOccurring_1970]]*
 
+> This 1935 advance print document by George Hebard Maxwell presents an ambitious proposal for water conservation and land reclamation in Arizona and California through comprehensive development of the [[Colorado River]]. The author advocates for the "Arizona Ten Projects"—ten regional development...
+> -- *[[WealthFromWastedWaters_15218]]*
+
 ## Mentioned In
 - [[DispersionOfNaturallyOccurring_1970]]
+- [[WealthFromWastedWaters_15218]]

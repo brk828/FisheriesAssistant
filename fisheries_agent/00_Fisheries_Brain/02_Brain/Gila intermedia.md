@@ -56,6 +56,9 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 > This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
 > -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
 
+> This status report documents [[Lilaeopsis schaffneriana]] subspecies recurva, a rare semi-aquatic perennial plant endemic to cienega wetlands in southeastern Arizona and adjacent Sonora, Mexico. The taxon is a USFWS Candidate Category 2 species and USFS Sensitive Plant. Surveys conducted 1988-1990...
+> -- *[[StatusReportLilaeopsisSchaffne_14909]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
@@ -79,3 +82,4 @@ Gila intermedia, commonly known as the Gila chub, is a small native cyprinid fis
 - [[BeaverScoping_18972]]
 - [[SonoranDesertExpertsWorkshop_13543]]
 - [[DetailsForStudiesOfTheGenusGil_13739]]
+- [[StatusReportLilaeopsisSchaffne_14909]]

@@ -20,8 +20,12 @@ Cornell University was one of three cooperating institutions (along with the New
 > A creel census was conducted during the opening week of stream fishing for [[Rainbow Trout]] in the [[Finger Lakes Region]] of New York during 1955, 1956, and 1957. The study examined four tributary streams: [[Grout Brook]] (Skaneateles Lake inlet), [[Catherine Creek]] (Seneca Lake inlet), [[Cold...
 > -- *[[EstimationOfCatchAndRelatedSta_20687]]*
 
+> This 1958 study by Wilbur L. Hartman investigated whether sedating fish with [[Urethane]] reduced measurement error and improved accuracy when recording fork and total lengths. Four groups of fish were measured repeatedly while normal and while drugged: yearling [[Brown Trout]], yearling [[Lake...
+> -- *[[TheUseOfSedativesToReduceManip_20686]]*
+
 ## Mentioned In
 - [[ObservationsOnTheNutritionOfTr_12259]]
 - [[TroutFeedsAndFeeding_11173]]
 - [[TheNutritionOfTroutCortalandHa_11168]]
 - [[EstimationOfCatchAndRelatedSta_20687]]
+- [[TheUseOfSedativesToReduceManip_20686]]

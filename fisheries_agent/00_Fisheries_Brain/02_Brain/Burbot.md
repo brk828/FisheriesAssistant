@@ -29,6 +29,9 @@ The burbot (*Lota lota*) is a freshwater gadiform fish species and the only true
 > **Primary Sampling Purpose**: This comprehensive literature review synthesizes knowledge on electrofishing techniques, fish responses to electric fields, and harmful effects (particularly spinal injuries and mortality) to inform interim guidelines for sampling endangered fishes in the [[Colorado...
 > -- *[[ElectrofishingAndItsHarmfulEff_2003]]*
 
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
 ## Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
 - [[ChangesInWalleyeStizostedionVi_1977_03_18]]
@@ -39,3 +42,4 @@ The burbot (*Lota lota*) is a freshwater gadiform fish species and the only true
 - [[TheSmeltOsmerusMordaxMitchill_13092]]
 - [[WhatHaveICaught_12929]]
 - [[ElectrofishingAndItsHarmfulEff_2003]]
+- [[ListOfFishesReportedFromKansas_18026]]

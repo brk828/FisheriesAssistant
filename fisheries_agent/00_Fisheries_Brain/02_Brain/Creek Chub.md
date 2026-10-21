@@ -35,6 +35,9 @@ The Creek Chub (*Semotilus atromaculatus*) is a cyprinid minnow that functions a
 > **Core Problem Addressed**: Explain the leptokurtic (high-peaked, long-tailed) movement distributions commonly observed in stream fish populations and test whether population heterogeneity in individual movement rates can generate these patterns. The study addresses why classic simple diffusion...
 > -- *[[ModelingDiffusiveSpreadInAHete_2000]]*
 
+> This report documents a two-year experimental project (1941-1942) on the propagation of [[Creek Chub]] (*Semotilus atromaculatus atromaculatus*) in hatchery ponds at State Fish Farm No. 1, [[St. Marys]], Ohio. Conducted by the Ohio Division of Conservation and Natural Resources, the study aimed to...
+> -- *[[CreekChubMinnowPropagation_15905]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -59,3 +62,4 @@ The Creek Chub (*Semotilus atromaculatus*) is a cyprinid minnow that functions a
 - [[SomeObservationsOnTheReclamati_15490]]
 - [[MinnowsCyprinidae_17384]]
 - [[ModelingDiffusiveSpreadInAHete_2000]]
+- [[CreekChubMinnowPropagation_15905]]

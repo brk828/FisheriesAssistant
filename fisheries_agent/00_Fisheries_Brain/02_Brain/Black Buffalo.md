@@ -17,9 +17,13 @@ auto_enriched: true
 > This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
 > -- *[[InvestigationsOfCommercialFish_18562]]*
 
+> This technical report presents Habitat Suitability Index (HSI) models for the [[Smallmouth Buffalo]] (*Ictiobus bubalus*), a large freshwater fish native to the [[Mississippi Valley]] and [[Hudson Bay]] drainage systems. The models synthesize literature on habitat requirements and preferences to...
+> -- *[[HabitatSuitabilityIndexModelsS_15767]]*
+
 ## Mentioned In
 - [[ReproductiveBehaviorOfTheBigmo_14068]]
 - [[SomeObservationsOnLimnologyAnd_1954]]
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[WhatHaveICaught_12929]]
 - [[InvestigationsOfCommercialFish_18562]]
+- [[HabitatSuitabilityIndexModelsS_15767]]

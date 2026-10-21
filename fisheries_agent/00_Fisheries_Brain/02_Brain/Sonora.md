@@ -41,6 +41,9 @@ Sonora refers to a Mexican state located in northwestern Mexico along the Pacifi
 > This 1948 report documents the introduction and establishment of [[Kokanee]] (Oncorhynchus nerka kennerlyi), a landlocked form of [[Pacific Sockeye Salmon]], into California waters beginning in 1941. The [[Bureau of Fish Conservation]] initiated experimental plantings in [[Salt Springs Reservoir]]...
 > -- *[[KokaneeInCalifornia_18108]]*
 
+> This geological study presents new cartographic data from the Yecora-Maicova sector of the [[Sierra Madre Occidental]] in [[Sonora]], [[Mexico]], between parallels 28°15' and 28°30'. The research demonstrates that the Tertiary volcanic sequence must distinguish between basalts and ignimbrites, with...
+> -- *[[GeologiedonneesPreliminairesSu_15989]]*
+
 ## Mentioned In
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
 - [[IdentificaciónDelimitaciónDeLa_13133]]
@@ -55,3 +58,4 @@ Sonora refers to a Mexican state located in northwestern Mexico along the Pacifi
 - [[MinutesForDesertFishesRecovery_12506]]
 - [[ElConsejoDeLosPecesDelDesierto_12830]]
 - [[KokaneeInCalifornia_18108]]
+- [[GeologiedonneesPreliminairesSu_15989]]

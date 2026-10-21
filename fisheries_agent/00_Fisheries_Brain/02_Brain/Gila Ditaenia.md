@@ -29,6 +29,9 @@ Gila ditaenia, commonly known as the Yaqui chub, is a small cyprinid fish endemi
 > This study examines high levels of morphological variation among cyprinid fishes of the genus [[Gila]] from the lower [[Colorado River]] basin, focusing on [[Gila intermedia]] and [[Gila robusta robusta]]. Populations exhibiting phenotypic intermediacy between these two taxa are common throughout...
 > -- *[[DraftecologicalDeterminismHybr_12773]]*
 
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
@@ -45,3 +48,4 @@ Gila ditaenia, commonly known as the Yaqui chub, is a small cyprinid fish endemi
 - [[SuggestedAgendaItemsForDesertF_1988_12_06]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[DraftecologicalDeterminismHybr_12773]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

@@ -29,6 +29,9 @@ Gobiidae is a large and diverse family of small, benthic fish characterized by t
 > This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
 > -- *[[AClassificationOfTheFishesOfTh_14438]]*
 
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnOrientalGobyCollectedInTheSa_12952]]
@@ -40,3 +43,4 @@ Gobiidae is a large and diverse family of small, benthic fish characterized by t
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[SicydiumMontanumANewSpeciesOfG_19968]]
 - [[AClassificationOfTheFishesOfTh_14438]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]

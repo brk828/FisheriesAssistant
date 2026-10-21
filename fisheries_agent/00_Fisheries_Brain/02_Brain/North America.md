@@ -35,6 +35,15 @@ auto_enriched: true
 > This 1987 memorandum from Professor W. L. Minckley to the Chair of Arizona State University's Department of Zoology proposes a Centennial Celebration commemorating [[C. Hart Merriam]]'s pioneering work on life zones. Merriam's 1890 publication "Results of a Biological Survey of the San Francisco...
 > -- *[[PotentialForACHartMerriamCente_13747]]*
 
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
+> -- *[[ExecutiveSummary_18726]]*
+
+> This document provides a comprehensive overview of sunfish species (family [[Centrarchidae]]) native to [[New York State]], focusing on three principal species: the [[Pumpkinseed]] (*Lepomis gibbosus*), [[Blue-gill]] (*Lepomis macrochirus*), and [[Red-bellied Sunfish]] (*Lepomis auritus*). The text...
+> -- *[[Sunfishes_19212]]*
+
 ## Mentioned In
 - [[BookReviewsTransactionsOfTheAm_1985]]
 - [[RequestForARulingToCorrectHomo_17135]]
@@ -46,3 +55,6 @@ auto_enriched: true
 - [[ANewOstracodEntocytheridaeNoto_20684]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
 - [[PotentialForACHartMerriamCente_13747]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]
+- [[ExecutiveSummary_18726]]
+- [[Sunfishes_19212]]

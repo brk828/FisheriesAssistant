@@ -35,6 +35,12 @@ The Plains Killifish (*Fundulus kansae*) is a small cyprinodontid fish native to
 > This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
 > -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
 
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
 ## Mentioned In
 - [[DevelopmentalRatesAndTolerance_12106]]
 - [[EffectivenessOfRotenoneInPondR_1953]]
@@ -47,3 +53,5 @@ The Plains Killifish (*Fundulus kansae*) is a small cyprinodontid fish native to
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
 - [[DraftLittleColoradoRiverSpined_11662]]
 - [[TheEffectsOfInterimFlowsFromGl_13620]]
+- [[BiologicalOpinionOfFederalAids_11920]]
+- [[ListOfFishesReportedFromKansas_18026]]

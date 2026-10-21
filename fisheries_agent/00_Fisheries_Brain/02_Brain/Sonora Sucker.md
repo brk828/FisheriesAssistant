@@ -80,6 +80,12 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 > This 1990 memorandum from W. L. Minckley to the [[San Pedro River]] ISF Quantification Team reassesses water-rights needs for native fish management on San Pedro River properties managed by [[U.S. Bureau of Land Management]] and [[The Nature Conservancy]]. The document emphasizes that the [[San...
 > -- *[[ReassessmentOfOriginalInformat_13790]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This study evaluated instream flow requirements for three native fish species—[[Roundtail Chub]] (*Gila robusta robusta*), [[Sonora Sucker]] (*Catostomus insignis*), and [[Desert Sucker]] (*Catostomus clarki*)—in the [[Burro Creek]] drainage of west-central Arizona using the Incremental...
+> -- *[[EvaluationOfTheInstreamFlowReq_13030]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -148,3 +154,5 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 - [[BiologicalOpinionSummaryBlueRi_11685]]
 - [[BiologicalOpinionForRepairAndo_11904]]
 - [[ReassessmentOfOriginalInformat_13790]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[EvaluationOfTheInstreamFlowReq_13030]]

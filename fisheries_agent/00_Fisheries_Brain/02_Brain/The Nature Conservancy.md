@@ -95,6 +95,18 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 > This 1990 memorandum from W. L. Minckley to the [[San Pedro River]] ISF Quantification Team reassesses water-rights needs for native fish management on San Pedro River properties managed by [[U.S. Bureau of Land Management]] and [[The Nature Conservancy]]. The document emphasizes that the [[San...
 > -- *[[ReassessmentOfOriginalInformat_13790]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
+> This Federal Register notice from the [[U.S. Fish and Wildlife Service]] (February 28, 1996) presents an updated list of plant and animal taxa native to the United States regarded as candidates for possible addition to the List of Endangered and Threatened Wildlife and Plants under the [[Endangered...
+> -- *[[EndangeredAndThreatenedWildlif_11739]]*
+
+> This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held September 13, 1989, in Lakewood, Colorado. The meeting addressed recovery efforts for rare and endangered fish species in the [[Colorado River Basin]], focusing on water...
+> -- *[[ManagementGroupMeetingSummarSe_21019]]*
+
 ## Mentioned In
 - [[AssignmentsMadeAtFebruaryMeeti_1992_02_19]]
 - [[AttemptedReEstablish_1969_03_06]]
@@ -148,3 +160,7 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 - [[DesertFishesCouncilThirteenthA_12827]]
 - [[DesertFishesCouncilEighteenthA_12829]]
 - [[ReassessmentOfOriginalInformat_13790]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[DraftRecoveryGoals_11689]]
+- [[EndangeredAndThreatenedWildlif_11739]]
+- [[ManagementGroupMeetingSummarSe_21019]]

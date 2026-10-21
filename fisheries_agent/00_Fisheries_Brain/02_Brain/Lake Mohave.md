@@ -281,6 +281,39 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
 > -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
 
+> This draft management plan addresses the conservation and recovery of four endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]]...
+> -- *[[DraftLowerColoradoRiverBasinNa_11664]]*
+
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
+> This February 1990 correspondence from the Bureau of Reclamation Lower Colorado Regional Office documents an interagency initiative to develop native fish rearing facilities on [[Lake Mohave]] for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The proposal...
+> -- *[[InteragencyProposalToExamineTh_13018]]*
+
+> This letter from the Arizona Game and Fish Department to the U.S. Fish and Wildlife Service critiques a Biological Assessment prepared by the Bureau of Reclamation regarding proposed modifications to the [[Hoover Dam]] Power Plant. The Department identifies significant deficiencies in the...
+> -- *[[ReviewOfBiologicalAssessmentFo_13470]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This document describes recovery efforts for the [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered catostomid fish endemic to the [[Colorado River Basin]] of western North America. The species, once abundant and used as food by indigenous peoples, has experienced severe population declines....
+> -- *[[DraftmanagementTowardRecoveryO_13751]]*
+
+> This document is a formal letter from Professor W.L. Minckley (Arizona State University, Department of Zoology) dated February 4, 1983, responding to a proposal by the Utah Division of Wildlife to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. Minckley expresses strong...
+> -- *[[ReProposalIntroductionOfRainbo_13753]]*
+
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This 1990 environmental assessment proposes establishing a native fish rearing facility at [[Yuma Cove]], [[Lake Mohave]], to prevent extirpation of the [[Razorback Sucker]] (*Xyrauchen texanus*). The species, once common throughout the [[Colorado River]] system from Wyoming to Mexico, is now...
+> -- *[[EnvironmentalAssessmentForLake_15466]]*
+
+> This 1951 report by the Fisheries Task Group of the [[Colorado River Great Basin Field Committee]] presents a comprehensive survey of the Lower Colorado River fishery from [[Hoover Dam]] to the Mexican border. The study divides the river into seven sections, each assessed individually for present...
+> -- *[[FisheriesReportOfTheLowerColor_19846]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -532,3 +565,14 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[ResultsOfRazorbackSuckerRazorb_15027]]
 - [[DeclineInLowFlowsOfSanPedroAnd_18974]]
 - [[GeneticDiversityOfRazorbackSuc_19126]]
+- [[DraftLowerColoradoRiverBasinNa_11664]]
+- [[DraftRecoveryGoals_11689]]
+- [[InteragencyProposalToExamineTh_13018]]
+- [[ReviewOfBiologicalAssessmentFo_13470]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[DraftmanagementTowardRecoveryO_13751]]
+- [[ReProposalIntroductionOfRainbo_13753]]
+- [[ABibliographyOfTheFederallyEnd_14370]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[EnvironmentalAssessmentForLake_15466]]
+- [[FisheriesReportOfTheLowerColor_19846]]

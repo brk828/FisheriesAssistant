@@ -23,6 +23,9 @@ American Rivers is a conservation organization that has played a significant rol
 > The [[Missouri Department of Conservation]] acquired the 4,318-acre [[Columbia Bottom Conservation Area]] at the confluence of the [[Missouri River]] and [[Mississippi River]] from the City of Saint Louis in September 1997. This article from August 1998 describes the agency's public engagement...
 > -- *[[MissouriansToHelpShapeFutureOf_11242]]*
 
+> This document comprises three grant proposals submitted by [[American Rivers]] to the [[National Fish and Wildlife Foundation]] on December 30, 1993. The proposals address: (1) native fish habitat assessment in the [[Gila River]] watershed using historical distribution data; (2) floodplain habitat...
+> -- *[[AmericanRiversProposalFundingR_17975]]*
+
 ## Mentioned In
 - [[GroupsReachAgreementToRemoveDa_1999_08_23]]
 - [[LetterOnFirstYearDeliverablesF_1994_04_14]]
@@ -30,3 +33,4 @@ American Rivers is a conservation organization that has played a significant rol
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[AmericanRiversScientificAndTec_15167]]
 - [[MissouriansToHelpShapeFutureOf_11242]]
+- [[AmericanRiversProposalFundingR_17975]]

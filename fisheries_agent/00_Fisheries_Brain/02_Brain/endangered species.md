@@ -23,6 +23,9 @@ An endangered species, in the context of fish science and conservation biology, 
 > - **Wild Stock and Genetic Conservation**: The report noted a lack of Regional uniformity in preserving [[Wild Fish Stocks]], [[Endangered Species]], and genetic resources — indicating gaps in coordinated conservation policy across FWS Regional Offices. - **Species Prioritization Shift**: A key r...
 > -- *[[ReviewAndCommentsOnTheFunction_11667]]*
 
+> This 1993 technical document from the [[San Marcos National Fish Hatchery]] provides comprehensive genetic management guidelines for federal fish hatcheries in Region 2. The document addresses growing concerns that hatchery operations may threaten wild fish populations through genetic degradation,...
+> -- *[[GeneralGeneticGuidelinesForReg_18841]]*
+
 ## Mentioned In
 - [[BullfrogPredation_1985_11_27]]
 - [[EndangeredAndThreatenedWildlif_1993_03_16]]
@@ -45,3 +48,4 @@ An endangered species, in the context of fish science and conservation biology, 
 - [[TroutNomenclature_18189]]
 - [[UseOfFloodplainHabitatByAgeRaz_16530]]
 - [[WildlifeConservationActAmendme_1995]]
+- [[GeneralGeneticGuidelinesForReg_18841]]

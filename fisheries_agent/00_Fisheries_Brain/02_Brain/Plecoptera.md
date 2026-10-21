@@ -26,6 +26,9 @@ Plecoptera is an order of freshwater macroinvertebrates commonly known as stonef
 > This 1973 literature review and impact assessment examines the vertebrate and invertebrate fauna of several streams and rivers in east-central Arizona at proposed power line crossing points. Prepared by J. N. Rinne (Arizona State University) for Dames & Moore environmental consultants, the report...
 > -- *[[LiteratureReviewAndImpactRepor_14988]]*
 
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
 ## Mentioned In
 - [[APreliminaryListOfStonefliesPl_16849]]
 - [[FoodHabitsOfTheYellowstoneWhit_1950]]
@@ -39,3 +42,4 @@ Plecoptera is an order of freshwater macroinvertebrates commonly known as stonef
 - [[VersuchEinerAllgemeinenBiozöno_1961]]
 - [[WinterObservationsOnBottomOrga_16187]]
 - [[LiteratureReviewAndImpactRepor_14988]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]

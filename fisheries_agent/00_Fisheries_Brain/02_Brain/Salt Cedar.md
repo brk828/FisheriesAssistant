@@ -14,6 +14,10 @@ Salt Cedar (Tamarix ramosissima) is an introduced riparian plant species that co
 > This correspondence from the Bureau of Land Management Safford District Office (dated June 5, 1986) provides an update on vegetation inventory and transect establishment along the [[San Pedro River]] in Arizona. The biologist reports completion of 12 transects across multiple habitat types and a...
 > -- *[[SanPedroRiverWildlifeUpdateveg_21107]]*
 
+> The [[Arizona Fishery Resources Office]] (AzFRO) successfully restored [[Gila Topminnow]] habitat at the Bylas Springs complex on the [[San Carlos Indian Reservation]] through a multi-agency partnership. The project addressed the near-extinction of [[Poeciliopsis occidentalis occidentalis]], once...
+> -- *[[NewFishHabitatRestorationAndPa_11759]]*
+
 ## Mentioned In
 - [[StreamflowNeedsOfRareAndEndang_14141]]
 - [[SanPedroRiverWildlifeUpdateveg_21107]]
+- [[NewFishHabitatRestorationAndPa_11759]]

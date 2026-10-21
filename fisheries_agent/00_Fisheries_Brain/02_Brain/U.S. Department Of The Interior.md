@@ -17,8 +17,12 @@ auto_enriched: true
 > This 1968 manual from the [[Bureau of Sport Fisheries and Wildlife]] provides comprehensive guidance on herbicide use for vegetation control in fish and wildlife management programs. Issued by the [[U.S. Department of the Interior]] under Secretary [[Stewart L. Udall]], the document establishes...
 > -- *[[ChemicalVegetationControlManua_12838]]*
 
+> This comprehensive bibliography compiled by Joseph B. Hunn for the [[Bureau of Sport Fisheries and Wildlife]] in 1967 assembles more than 850 references on fish blood chemistry. The document serves as a guide to widely scattered literature on the subject, addressing the lack of standard reference...
+> -- *[[BibliographyOnTheBloodChemistr_14517]]*
+
 ## Mentioned In
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
 - [[AResolutionOfTheBoardOfSupervi_18593]]
 - [[ChemicalVegetationControlManua_12838]]
+- [[BibliographyOnTheBloodChemistr_14517]]

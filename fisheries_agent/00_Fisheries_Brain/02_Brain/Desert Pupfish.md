@@ -197,6 +197,15 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > This document describes the distinctive population of [[Desert Pupfish]] (*Cyprinodon macularius*) inhabiting [[Quitobaquito Spring]] in [[Organ Pipe National Monument]], Arizona, and the adjacent [[Rio Sonoyta]] drainage in Sonora, México. The Sonoyta population exhibits morphological differences...
 > -- *[[TheDesertPupfishOfOrganPipeNat_18555]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This correspondence from the [[Desert Fishes Recovery Team]] to the U.S. Fish and Wildlife Service Regional Director documents recommendations and action items from their April 17, 1986 meeting in Tucson, Arizona. The team addresses critical conservation issues for multiple endangered desert fish...
+> -- *[[ItemsToBringToYourAttentionAft_13731]]*
+
+> This report documents the 1989 annual census of [[Desert Pupfish]] (*Cyprinodon macularius eremus*) conducted at [[Quitobaquito Pond]] in [[Organ Pipe Cactus National Monument]] on September 27-28, 1989, under U.S. Fish and Wildlife Service endangered species permit PRT-676811. Using a...
+> -- *[[ReportOnTheAnnualCensusOfCypri_18280]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -423,3 +432,6 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[IntroductionOfGilaTopminnowAnd_17957]]
 - [[WorkshopProceedings_18372]]
 - [[TheDesertPupfishOfOrganPipeNat_18555]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[ItemsToBringToYourAttentionAft_13731]]
+- [[ReportOnTheAnnualCensusOfCypri_18280]]

@@ -14,8 +14,12 @@ auto_enriched: true
 > This paper documents the rediscovery of [[Noturus flavipinnis]] (yellowfin madtom), an [[Ictaluridae]] catfish previously known only from 13 faded specimens collected between 1884 and 1893 from three widely separated localities in the [[Tennessee River]] drainage. The species was feared extinct...
 > -- *[[RediscoveryAndDescriptionOfThe_13513]]*
 
+> This doctoral thesis investigates the population characteristics of [[Smallmouth Buffalo]] (*Ictiobus bubalus*) in [[Watts Bar Reservoir]] and the [[Clinch River]], Tennessee, focusing on age distribution, growth rates, dispersion, and radionuclide accumulation. The study analyzed 1,271...
+> -- *[[GrowthAndMovementOfSmallmouthB_17077]]*
+
 ## Mentioned In
 - [[TheAgeAndGrowthOfTheWhiteBassR_13370]]
 - [[TheEffectsOfAnOilSpillOnTheMac_1976]]
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
 - [[RediscoveryAndDescriptionOfThe_13513]]
+- [[GrowthAndMovementOfSmallmouthB_17077]]

@@ -29,6 +29,9 @@ I apologize, but I cannot provide a definition for "Stampede Reservoir" based on
 > This document is the second revision of the [[Cui-ui]] (*Chasmistes cujus*) Recovery Plan, approved November 22, 1983, providing direction through FY 1986. The [[Cui-ui]] is an endangered sucker endemic to [[Pyramid Lake]] and the [[Truckee River]] system in Nevada. The plan's goal remains...
 > -- *[[CuiuiChasmistesCujusRevision_13303]]*
 
+> This 1990 memorandum and attached proposal outline a quantitative framework for evaluating management options in the [[Cui-ui]] ([[Chasmistes cujus]]) Recovery Plan. The approach uses hydrological modeling and population dynamics simulations to assess extinction risk over 200 years and population...
+> -- *[[CuiuiRecoveryPlanaProcedureFor_14617]]*
+
 ## Mentioned In
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
 - [[CuiUiRecoveryPlan_1994_08_29]]
@@ -40,3 +43,4 @@ I apologize, but I cannot provide a definition for "Stampede Reservoir" based on
 - [[TitleAnalysisOfTheCaseByUSFish_14626]]
 - [[CuiuiAndLahontanCutthroatTrout_13865]]
 - [[CuiuiChasmistesCujusRevision_13303]]
+- [[CuiuiRecoveryPlanaProcedureFor_14617]]

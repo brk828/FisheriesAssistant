@@ -26,8 +26,12 @@ auto_enriched: true
 > This document is a formal biological opinion issued by the [[U.S. Fish and Wildlife Service]] on February 15, 1995, regarding the repair and replacement of segments of the [[Aravaipa Creek]] road in [[Pinal County]], Arizona. The consultation addresses potential impacts to two threatened fish...
 > -- *[[BiologicalOpinionForRepairAndo_11904]]*
 
+> This is the fourth annual progress report (1979-1982) on a comprehensive mammal survey of the [[George Whittell Wildlife Preserve]] in the [[Aravaipa Creek]] watershed, Arizona. The survey documented 60 mammal species as actual, probable, or possible inhabitants, with 45 species confirmed for the...
+> -- *[[ReportOnTheSurveyOfTheMammalsO_11840]]*
+
 ## Mentioned In
 - [[HighwayCoordination_1966]]
 - [[HighwayCoordination_1967_03_31]]
 - [[SonoranDesertExpertsWorkshop_13543]]
 - [[BiologicalOpinionForRepairAndo_11904]]
+- [[ReportOnTheSurveyOfTheMammalsO_11840]]

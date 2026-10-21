@@ -26,6 +26,9 @@ The Florida Largemouth Bass (*Micropterus salmoides floridanus*) is a subspecies
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> This 1993 technical document from the [[San Marcos National Fish Hatchery]] provides comprehensive genetic management guidelines for federal fish hatcheries in Region 2. The document addresses growing concerns that hatchery operations may threaten wild fish populations through genetic degradation,...
+> -- *[[GeneralGeneticGuidelinesForReg_18841]]*
+
 ## Mentioned In
 - [[AnAquaculturalEvaluationOfFlor_1988]]
 - [[DifferentialResponseToHandling_1986]]
@@ -35,3 +38,4 @@ The Florida Largemouth Bass (*Micropterus salmoides floridanus*) is a subspecies
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[FisheriesManagementOfElCapitan_16317]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[GeneralGeneticGuidelinesForReg_18841]]

@@ -14,6 +14,10 @@ Pelican Lake is a water body near the Ouray National Wildlife Refuge in Utah tha
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
 > -- *[[ManagementGroupMeetingSummary_19219]]*
 
+> This September 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates the need for and design of a dedicated hatchery to produce endangered [[Colorado River]] fishes. The study addresses production requirements through 1996 for three species:...
+> -- *[[ColoradoRiverEndangeredFishHat_13665]]*
+
 ## Mentioned In
 - [[DraftcoloradoRiverEndangeredFi_13664]]
 - [[ManagementGroupMeetingSummary_19219]]
+- [[ColoradoRiverEndangeredFishHat_13665]]

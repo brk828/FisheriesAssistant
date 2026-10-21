@@ -11,5 +11,9 @@ Miller refers to Robert Rush Miller, a prominent ichthyologist who conducted imp
 > This study evaluated the effectiveness of qualitative morphological rankings versus quantitative measurements for field identification of closely related cyprinid fishes in the genus [[Gila]] from the [[Yampa River]], [[Colorado]]. Six field technicians with no specialized systematic training...
 > -- *[[QualitativeCharactersIdentific_19084]]*
 
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[QualitativeCharactersIdentific_19084]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

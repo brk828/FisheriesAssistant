@@ -35,6 +35,9 @@ The Santa Clara River is a major river system in southern California that drains
 > This recovery plan addresses [[Gasterosteus aculeatus williamsoni]], the [[Unarmored Threespine Stickleback]], an endangered freshwater fish subspecies endemic to southern California. Prepared by the Unarmored Threespine Stickleback Recovery Team (led by Shoken Sasaki, California Department of Fish...
 > -- *[[RecoveryPlanForUnarmoredThrees_20518]]*
 
+> This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
+> -- *[[DraftConservationAgreementVirg_18320]]*
+
 ## Mentioned In
 - [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
 - [[RecoveryPlanForTheUnarmoredThr_18261]]
@@ -45,3 +48,4 @@ The Santa Clara River is a major river system in southern California that drains
 - [[DraftConservationStrategyVirgi_11659]]
 - [[VirginSpinedaceLepidomedaMolli_14744]]
 - [[RecoveryPlanForUnarmoredThrees_20518]]
+- [[DraftConservationAgreementVirg_18320]]

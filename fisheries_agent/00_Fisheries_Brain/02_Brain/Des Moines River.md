@@ -17,6 +17,9 @@ The Des Moines River is a warmwater riverine system in Boone County, Iowa, that 
 > - **Habitat**: All species inhabit the main channel of the [[Des Moines River]], a warmwater riverine system in Boone County, Iowa, characterized by the presence of **two lowhead dams** that impede upstream fish passage. - **Capture method reflects habitat use**: [[Channel Catfish]] and [[Flathea...
 > -- *[[MovementAndAnglerHarvestOfFish_15696]]*
 
+> This creel census study examined seasonal patterns in fishing pressure and harvest on a 7-mile section of the [[Des Moines River]] in [[Boone County]], Iowa, between July 1957 and September 1958. The study area, located between Fraser and Boone dams, was surveyed using a modified Latin square...
+> -- *[[SeasonalChangesInHarvestAndFis_20577]]*
+
 ## Mentioned In
 - [[AccumulationAndEliminationOfDi_1977]]
 - [[AgeAndGrowthOfRiverCarpsuckerI_1957_12_12]]
@@ -28,3 +31,4 @@ The Des Moines River is a warmwater riverine system in Boone County, Iowa, that 
 - [[MovementsOfChannelCatfishInDes_1958_05_15]]
 - [[SizeRelatedFactorsAssociatedWi_13891]]
 - [[VariationsInDdtConcentrationIn_13889]]
+- [[SeasonalChangesInHarvestAndFis_20577]]

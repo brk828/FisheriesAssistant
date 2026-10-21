@@ -47,6 +47,9 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 > This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
 > -- *[[ReservoirFisheriesInvestigatio_14590]]*
 
+> This 1953 study by A.N. Svetovidov provides a comprehensive comparative analysis of brain structure across the family [[Gadidae]] (codfishes), examining representatives from three subfamilies: [[Lotinae]], [[Merlucciinae]], and [[Gadinae]]. The research documents detailed morphological descriptions...
+> -- *[[MaterialsOnTheStructureOfTheFi_15061]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
@@ -70,3 +73,4 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 - [[FishesOfAfghanistanAnAnnotated_15968]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 - [[ReservoirFisheriesInvestigatio_14590]]
+- [[MaterialsOnTheStructureOfTheFi_15061]]

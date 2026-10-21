@@ -89,6 +89,15 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 > This Supplemental Environmental Assessment, prepared by the [[Bureau of Land Management]] Phoenix District Office in May 1984, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into 11 selected...
 > -- *[[IntroductionOfGilaTopminnowAnd_17957]]*
 
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This Master's thesis by Robert Eugene Forrest (University of Arizona, 1992) quantifies microhabitat use and preference of the federally endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) through field observations in [[Cienega Creek]], Arizona, and controlled laboratory...
+> -- *[[HabitatUseAndPreferenceOfGilaT_18783]]*
+
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -197,3 +206,6 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 - [[AnEcologicalOverviewOfPoecilii_20086]]
 - [[StatewideRoughFishControlfishE_14929]]
 - [[IntroductionOfGilaTopminnowAnd_17957]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[HabitatUseAndPreferenceOfGilaT_18783]]
+- [[FishesNativeToOrIntroducedInPa_18945]]

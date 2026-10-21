@@ -86,6 +86,9 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 > This 1987 memorandum from Professor W. L. Minckley to the Chair of Arizona State University's Department of Zoology proposes a Centennial Celebration commemorating [[C. Hart Merriam]]'s pioneering work on life zones. Merriam's 1890 publication "Results of a Biological Survey of the San Francisco...
 > -- *[[PotentialForACHartMerriamCente_13747]]*
 
+> The [[Arizona Fishery Resources Office]] (AzFRO) successfully restored [[Gila Topminnow]] habitat at the Bylas Springs complex on the [[San Carlos Indian Reservation]] through a multi-agency partnership. The project addressed the near-extinction of [[Poeciliopsis occidentalis occidentalis]], once...
+> -- *[[NewFishHabitatRestorationAndPa_11759]]*
+
 ## Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[CorrespondenceRegardingDesertF_12709]]
@@ -137,3 +140,4 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 - [[DesertFishesCouncilThirteenthA_12827]]
 - [[DesertFishesCouncilEighteenthA_12829]]
 - [[PotentialForACHartMerriamCente_13747]]
+- [[NewFishHabitatRestorationAndPa_11759]]

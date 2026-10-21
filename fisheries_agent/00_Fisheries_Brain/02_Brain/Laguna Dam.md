@@ -14,8 +14,12 @@ auto_enriched: true
 > This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
 > -- *[[PartICurrentSituationPartIiAPr_13306]]*
 
+> This 1942 report documents the first confirmed occurrence of ten-pounders ([[Elops affinis]]) in the [[Salton Sea]], California, representing a potential new sport fishery for this previously barren water body. Between May 14-24, 1942, commercial fishermen and biologists captured 244 specimens...
+> -- *[[AGameFishForTheSaltonSeaTheTen_12860]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
 - [[PartICurrentSituationPartIiAPr_13306]]
+- [[AGameFishForTheSaltonSeaTheTen_12860]]

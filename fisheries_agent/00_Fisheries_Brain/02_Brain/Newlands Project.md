@@ -14,7 +14,11 @@ auto_enriched: true
 > This memorandum from the [[Cui-ui Recovery Team]] proposes quantifiable recovery criteria for the endangered [[Cui-ui]] (*Chasmistes cujus*), an endemic sucker of [[Pyramid Lake]], Nevada. The document establishes probability-based persistence thresholds tied to specific water inflow targets:...
 > -- *[[RecoveryObjectiveForDraftCuiui_14622]]*
 
+> This 1990 memorandum and attached proposal outline a quantitative framework for evaluating management options in the [[Cui-ui]] ([[Chasmistes cujus]]) Recovery Plan. The approach uses hydrological modeling and population dynamics simulations to assess extinction risk over 200 years and population...
+> -- *[[CuiuiRecoveryPlanaProcedureFor_14617]]*
+
 ## Mentioned In
 - [[CommentsOnUsfWsCuiUiRecoveryPl_1991_08_12]]
 - [[CuiUiRecoveryTeamMeeting_1990_11_29]]
 - [[RecoveryObjectiveForDraftCuiui_14622]]
+- [[CuiuiRecoveryPlanaProcedureFor_14617]]

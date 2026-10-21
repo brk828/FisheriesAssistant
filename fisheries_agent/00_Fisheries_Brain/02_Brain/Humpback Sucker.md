@@ -35,6 +35,9 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 > This article describes conservation efforts in Colorado to save four unique big-river fish species found nowhere else on Earth: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Humpback Sucker]] (*Xyrauchen texanus*)....
 > -- *[[SavingColoradosBigRiverFish_20737]]*
 
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
 ## Mentioned In
 - [[ArthropodsAndVertebratesOfAriz_16220]]
 - [[ChangesInNativeFishDistributio_1973]]
@@ -47,3 +50,4 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[RelocationOfTheCohortHbsReceiv_11428]]
 - [[SavingColoradosBigRiverFish_20737]]
+- [[FishesNativeToOrIntroducedInPa_18945]]

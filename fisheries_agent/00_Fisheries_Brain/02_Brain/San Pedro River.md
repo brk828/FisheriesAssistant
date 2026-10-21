@@ -185,6 +185,27 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 > This document consists of correspondence from May 1995 regarding a proposed beaver (*Castor canadensis frondator*) reintroduction to the [[San Pedro River]] [[Riparian National Conservation Area]] in Arizona. Dr. Robin D. Silver raises concerns about declining river flows (67% reduction in low...
 > -- *[[DeclineInLowFlowsOfSanPedroAnd_18974]]*
 
+> This comprehensive monitoring plan establishes protocols for the [[San Pedro Riparian National Conservation Area]] (RNCA), established by Public Law 100-696 (Arizona-Idaho Conservation Act of 1988). The 56,430-acre conservation area protects one of the most extensive remaining broadleaf riparian...
+> -- *[[SanPedroRiparianNationalConser_11468]]*
+
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This historical report from Commissioner Richard Rule to Governor F.A. Tritle documents the activities and challenges of the [[Arizona Fish Commission]] for the southern territory during 1883-1884. The commission focused primarily on [[Carp]] distribution and propagation, receiving approximately...
+> -- *[[ToHisExcellencyFrederickATritl_13446]]*
+
+> This document describes recovery efforts for the [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered catostomid fish endemic to the [[Colorado River Basin]] of western North America. The species, once abundant and used as food by indigenous peoples, has experienced severe population declines....
+> -- *[[DraftmanagementTowardRecoveryO_13751]]*
+
+> This status report documents [[Lilaeopsis schaffneriana]] subspecies recurva, a rare semi-aquatic perennial plant endemic to cienega wetlands in southeastern Arizona and adjacent Sonora, Mexico. The taxon is a USFWS Candidate Category 2 species and USFS Sensitive Plant. Surveys conducted 1988-1990...
+> -- *[[StatusReportLilaeopsisSchaffne_14909]]*
+
+> This 1935 advance print document by George Hebard Maxwell presents an ambitious proposal for water conservation and land reclamation in Arizona and California through comprehensive development of the [[Colorado River]]. The author advocates for the "Arizona Ten Projects"—ten regional development...
+> -- *[[WealthFromWastedWaters_15218]]*
+
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -287,3 +308,10 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 - [[FinalProgressReport_18563]]
 - [[ArizonaDepartmentOfWaterResour_18960]]
 - [[DeclineInLowFlowsOfSanPedroAnd_18974]]
+- [[SanPedroRiparianNationalConser_11468]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[ToHisExcellencyFrederickATritl_13446]]
+- [[DraftmanagementTowardRecoveryO_13751]]
+- [[StatusReportLilaeopsisSchaffne_14909]]
+- [[WealthFromWastedWaters_15218]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

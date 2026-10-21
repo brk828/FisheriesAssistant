@@ -113,6 +113,21 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
 > -- *[[TheEnvironmentalConditionsOfAn_16280]]*
 
+> This report presents age and growth data for six species of warm-water game and pan fish collected from 155 ponds in eastern and north central [[Massachusetts]] during 1946-1950. A total of 1,850 individual fish were analyzed using scale reading techniques to determine age structure and growth...
+> -- *[[GrowthOfGameAndPanFish_12817]]*
+
+> This 1948 publication from the Michigan Department of Conservation describes methods for determining fish age through scale analysis and presents research on growth rates of Michigan freshwater fishes. The document focuses on a chemical treatment experiment conducted at [[Booth Lake]] to address...
+> -- *[[TheAgeAndGrowthOfFishes_15687]]*
+
+> This study examined winter food habits of [[Pikeperch]] (Stizostedion vitreum) in [[Oneida Lake]], New York during the winters of 1951-52 and 1952-53. Of 143 pikeperch stomachs collected via ice-fishing, 78.3% were empty—nearly double the empty-stomach rate reported for summer and fall periods in...
+> -- *[[WinterFoodHabitsOfPikeperchInO_16899]]*
+
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -198,3 +213,8 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[FishingInTwelveMichiganLakesUn_16148]]
 - [[TheEnvironmentalConditionsOfAn_16280]]
+- [[GrowthOfGameAndPanFish_12817]]
+- [[TheAgeAndGrowthOfFishes_15687]]
+- [[WinterFoodHabitsOfPikeperchInO_16899]]
+- [[ListOfFishesReportedFromKansas_18026]]
+- [[FishesNativeToOrIntroducedInPa_18945]]

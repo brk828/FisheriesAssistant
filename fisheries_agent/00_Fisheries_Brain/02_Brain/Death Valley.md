@@ -47,6 +47,9 @@ Death Valley refers to an isolated desert region in the American Southwest chara
 > This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
 > -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
 
+> This 1967 report by George L. Batchelder provides a comprehensive synthesis of the Pleistocene geology and ecology of the [[Mono Basin]], California. The basin offers a unique opportunity to study synchronous glaciation and lacustrine fluctuations during the Quaternary. The document describes...
+> -- *[[TheMonoBasin_15632]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[FourthAnnualDesertFishesSympos_1972_09_20]]
@@ -62,3 +65,4 @@ Death Valley refers to an isolated desert region in the American Southwest chara
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[DesertFishesCouncilThirteenthA_12827]]
 - [[MxMissileSystemAnUrgentLetterF_20507]]
+- [[TheMonoBasin_15632]]

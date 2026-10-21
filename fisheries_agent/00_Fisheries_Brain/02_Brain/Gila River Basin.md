@@ -92,6 +92,9 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
 > -- *[[FinalProgressReport_18563]]*
 
+> This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
+> -- *[[FormalReviewcrticialHabitatOfT_20672]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -239,3 +242,4 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[ReassessmentOfOriginalInformat_13790]]
 - [[PartManagementConcernsPriority_14724]]
 - [[FinalProgressReport_18563]]
+- [[FormalReviewcrticialHabitatOfT_20672]]

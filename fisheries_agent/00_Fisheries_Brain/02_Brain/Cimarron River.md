@@ -14,6 +14,10 @@ The Cimarron River is the receiving water body for Skeleton Creek, located appro
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This doctoral dissertation (Oklahoma State University, 1966) investigated how domestic sewage and oil refinery effluents affected the morphological characteristics and population structure of three cyprinid fish species in [[Skeleton Creek]], Oklahoma. Between June 1963 and May 1964, the author...
+> -- *[[TheEffectOfDomesticAndOilRefin_15666]]*
+
 ## Mentioned In
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[TheEffectOfDomesticAndOilRefin_15666]]

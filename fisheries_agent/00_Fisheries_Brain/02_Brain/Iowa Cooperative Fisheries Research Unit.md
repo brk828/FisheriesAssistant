@@ -14,6 +14,9 @@ The Iowa Cooperative Fisheries Research Unit is a research institution that cond
 > This technical note describes a practical method for mounting fish scales for age and growth studies, developed at the [[Iowa Cooperative Fisheries Research Unit]]. The technique uses two microscope slides bound with waterproof adhesive tape to create permanent, easily stored mounts that preserve...
 > -- *[[ASimpleMethodOfMountingScales_20311]]*
 
+> This creel census study examined seasonal patterns in fishing pressure and harvest on a 7-mile section of the [[Des Moines River]] in [[Boone County]], Iowa, between July 1957 and September 1958. The study area, located between Fraser and Boone dams, was surveyed using a modified Latin square...
+> -- *[[SeasonalChangesInHarvestAndFis_20577]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfLargemouthBassIn_1964]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -22,3 +25,4 @@ The Iowa Cooperative Fisheries Research Unit is a research institution that cond
 - [[SubimaginalMoltOfCaenisHilaris_18833]]
 - [[TheGrowthOfGreenSunfishLepomis_1955_05_15]]
 - [[ASimpleMethodOfMountingScales_20311]]
+- [[SeasonalChangesInHarvestAndFis_20577]]

@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Bigmouth Lakesucker
+
+## Summary
+The Bigmouth Lakesucker (Chasmistes stomias) is a fish species that went extinct due to improper rotenone use. This source references its extinction, as discussed by Carl Bond, as a cautionary example of how careless application of fish toxicants has resulted in the permanent loss of native species.
+
+## Context
+
+> This 1991 correspondence from E.P. Pister, Executive Secretary of the [[Desert Fishes Council]], to Bruce Schmidt of the [[Utah Division of Wildlife Resources]] clarifies philosophical positions on fisheries management presented at the Western Division AFS meeting in Bozeman. The letter addresses...
+> -- *[[ReactionsToTalkAtAfsMeetingInB_18595]]*
+
+## Mentioned In
+- [[ReactionsToTalkAtAfsMeetingInB_18595]]

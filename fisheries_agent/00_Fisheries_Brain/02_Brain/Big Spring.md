@@ -29,6 +29,9 @@ In the context of fish science and conservation biology, "Big Spring" refers to 
 > This U.S. Fish and Wildlife Service biological opinion, issued December 1, 1989, evaluates a Bureau of Land Management proposal to stock endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into two spring systems in Graham County, Arizona that already support populations of...
 > -- *[[BiologicalOpinionStockingOfDes_11850]]*
 
+> This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
+> -- *[[DraftProposedCriteriaForDesign_14776]]*
+
 ## Mentioned In
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
 - [[FourthAnnualMeetingDeathValley_11111]]
@@ -38,3 +41,4 @@ In the context of fish science and conservation biology, "Big Spring" refers to 
 - [[ReportOfFloodDamageToBigSpring_18984]]
 - [[BigSpringSpinedaceLepidomedaMo_11635]]
 - [[BiologicalOpinionStockingOfDes_11850]]
+- [[DraftProposedCriteriaForDesign_14776]]

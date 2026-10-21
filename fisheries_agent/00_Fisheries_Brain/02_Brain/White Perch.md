@@ -44,6 +44,9 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 > This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
 > -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
 
+> This report presents age and growth data for six species of warm-water game and pan fish collected from 155 ponds in eastern and north central [[Massachusetts]] during 1946-1950. A total of 1,850 individual fish were analyzed using scale reading techniques to determine age structure and growth...
+> -- *[[GrowthOfGameAndPanFish_12817]]*
+
 ## Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -61,3 +64,4 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 - [[TheIncidenceAndDistributionOfT_15429]]
 - [[TheDesirabilityOfIntroducingWh_16080]]
 - [[AStudyOfTheFisheriesOnBitterLa_14374]]
+- [[GrowthOfGameAndPanFish_12817]]

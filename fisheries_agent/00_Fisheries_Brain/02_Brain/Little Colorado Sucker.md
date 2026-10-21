@@ -26,6 +26,9 @@ The Little Colorado Sucker is a suckerfish (family Catostomidae) endemic to the 
 > This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
 > -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
 
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[DesertFishesRecoveryTeamAction_11691]]
@@ -36,3 +39,4 @@ The Little Colorado Sucker is a suckerfish (family Catostomidae) endemic to the 
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
 - [[ScientificCollectingPermitRene_1994_11_08]]
 - [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[BiologicalOpinionOfFederalAids_11920]]

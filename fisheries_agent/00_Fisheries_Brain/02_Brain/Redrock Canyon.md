@@ -20,9 +20,13 @@ auto_enriched: true
 > This U.S. Fish and Wildlife Service biological opinion, issued December 23, 1992, evaluates effects of the proposed [[Canelo Pass]] to [[Patagonia]] segment of the [[Arizona Trail]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis) in [[Redrock Canyon]], [[Santa Cruz County]],...
 > -- *[[BiologicalOpinionThatTheCanelo_11877]]*
 
+> This executive summary presents the results of a five-year review (October 1991 through September 1992) of the [[Coronado National Forest]] Land and Resource Management Plan, approved August 1986. The review evaluates progress toward desired future conditions, resolution of original issues and...
+> -- *[[ExecutiveSummaryCoronadoNation_11498]]*
+
 ## Mentioned In
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
 - [[ReportOfEndangeredSpeciesColle_1993_01_07]]
 - [[StatusReportForNaturalAndIntro_12972]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[BiologicalOpinionThatTheCanelo_11877]]
+- [[ExecutiveSummaryCoronadoNation_11498]]

@@ -20,8 +20,16 @@ Utah Lake is a large, shallow freshwater lake in Utah, USA, characterized by dyn
 > **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
 > -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
 
+> This 1965 report documents the first confirmed occurrences of [[Lost River Sucker]] (*Deltistes luxatus*) and [[Shortnose Sucker]] (*Chasmistes brevirostris*) in California waters, adding both species to the state's freshwater fish fauna. Previously known only from the [[Klamath Lakes]] drainage in...
+> -- *[[OccurrencesOfTheLostRiverSucke_17577]]*
+
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
 ## Mentioned In
 - [[CompensatoryRecruitmentDynamic_2020]]
 - [[StatusOfJuneSuckerInUtahLakeAn_2007]]
 - [[ComplexEffectsOfPredatorsDeter_2001]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
+- [[OccurrencesOfTheLostRiverSucke_17577]]
+- [[FishesNativeToOrIntroducedInPa_18945]]

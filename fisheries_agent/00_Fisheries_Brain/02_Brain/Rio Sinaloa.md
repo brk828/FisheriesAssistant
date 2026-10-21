@@ -11,7 +11,11 @@ auto_enriched: true
 > This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
 > -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
 
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

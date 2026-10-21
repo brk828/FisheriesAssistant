@@ -80,6 +80,9 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 > This memorandum from the [[Glen Canyon Environmental Studies]] (GCES) program, dated November 24, 1992, outlines coordination plans for a December 1, 1992 meeting of principle investigators conducting native fish research in [[Grand Canyon]]. The document focuses on integrating research efforts...
 > -- *[[GlenCanyonEnvironmentalStudies_19708]]*
 
+> This 1986 memorandum from the [[Bureau of Reclamation]] Upper Colorado Regional Office to the [[U.S. Fish and Wildlife Service]] Endangered Species Office proposes collaboration with Dr. W. L. Minckley of [[Arizona State University]] on basin-wide systematic studies of the genus *[[Gila]]*. The...
+> -- *[[FutureGilaWork_11987]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdditionalStudiesOnTheLittleCo_18500]]
@@ -122,3 +125,4 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 - [[DesertFishesCouncilThirteenthA_12827]]
 - [[EarlyFieldNotes_15954]]
 - [[GlenCanyonEnvironmentalStudies_19708]]
+- [[FutureGilaWork_11987]]

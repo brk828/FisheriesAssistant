@@ -35,6 +35,9 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 > The BIOTA (Biodiversity Team Assessment) Project is a collaborative proposal developed in 1993 by representatives from the [[Arizona Game and Fish Department]], [[Arizona Association of Conservation Districts]], [[Arizona Gap Analysis Program]], [[The Nature Conservancy]], and the [[U.S. Fish and...
 > -- *[[AProposedDemonstrationModelToI_17636]]*
 
+> This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
+> -- *[[FyAnnualProjectReportColoradoR_21244]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -50,3 +53,4 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 - [[AnEcosystemApproachToFishAndWi_11650]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[AProposedDemonstrationModelToI_17636]]
+- [[FyAnnualProjectReportColoradoR_21244]]

@@ -26,6 +26,9 @@ Largemouth Black Bass (*Micropterus salmoides*) is a freshwater predatory fish s
 > This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
 > -- *[[TheEnvironmentalConditionsOfAn_16280]]*
 
+> This report presents age and growth data for six species of warm-water game and pan fish collected from 155 ponds in eastern and north central [[Massachusetts]] during 1946-1950. A total of 1,850 individual fish were analyzed using scale reading techniques to determine age structure and growth...
+> -- *[[GrowthOfGameAndPanFish_12817]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[ChangesInGrowthRatesOfFishesFo_1948]]
@@ -38,3 +41,4 @@ Largemouth Black Bass (*Micropterus salmoides*) is a freshwater predatory fish s
 - [[SomeFactorsRelatedToSuccessOfF_1957]]
 - [[TheStatusOfTheFishFaunaOfTheLa_14849]]
 - [[TheEnvironmentalConditionsOfAn_16280]]
+- [[GrowthOfGameAndPanFish_12817]]

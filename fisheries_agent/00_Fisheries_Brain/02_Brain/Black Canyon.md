@@ -38,6 +38,9 @@ Black Canyon refers to the riverine reach of the Colorado River immediately belo
 > This master's thesis documents a 17-month telemetry study (November 1994–August 1996) tracking movements of 20 adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a 108-km regulatory reservoir on the [[Colorado River]]. Ten individuals (4 males, 6 females) survived the study...
 > -- *[[MovementsOfAdultRazorbackSucke_12585]]*
 
+> This letter from the Arizona Game and Fish Department to the U.S. Fish and Wildlife Service critiques a Biological Assessment prepared by the Bureau of Reclamation regarding proposed modifications to the [[Hoover Dam]] Power Plant. The Department identifies significant deficiencies in the...
+> -- *[[ReviewOfBiologicalAssessmentFo_13470]]*
+
 ## Mentioned In
 - [[EndangeredPupfishOfDevilsHoleG_11403]]
 - [[GilaTroutAndChihuahuaChubRecov_1997_01_16]]
@@ -50,3 +53,4 @@ Black Canyon refers to the riverine reach of the Colorado River immediately belo
 - [[BiologicalAssessmentOnThreaten_19806]]
 - [[DemographicsAndPoststockingSur_2012]]
 - [[MovementsOfAdultRazorbackSucke_12585]]
+- [[ReviewOfBiologicalAssessmentFo_13470]]

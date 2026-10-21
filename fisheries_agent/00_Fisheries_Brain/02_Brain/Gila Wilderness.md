@@ -20,6 +20,9 @@ auto_enriched: true
 > This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
 > -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AddendumToTheMarchEnvironmenta_11496]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[EndangeredAndThreatenedWildlif_14803]]
 - [[EndangeredAndThreatenedWildlif_11556]]
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
+- [[DraftEnvironmentalAssessmentDe_11688]]

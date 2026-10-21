@@ -68,6 +68,12 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 > This memorandum documents a trip report from the Upper Colorado River endangered fishes researchers meeting held February 24-25, 1987 in Grand Junction, Colorado. The meeting covered standardized monitoring programs, habitat research, captive spawning efforts, and recovery planning for four...
 > -- *[[TripReportForUpperColoradoRive_12974]]*
 
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
+> This consensus report presents findings from a scientific peer review panel convened by the American Institute of Biological Sciences (AIBS) to evaluate the draft Conservation Strategy for the [[Lower Colorado River]] Multi-Species Conservation Program (LCR MSCP). The panel met July 12, 1999 in Las...
+> -- *[[DraftConsesusReportOnTheDraftC_13540]]*
+
 ## Mentioned In
 - [[ActingProgramDirector_1990_03_29]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -256,3 +262,5 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 - [[FiscalYearProgramGuidance_11762]]
 - [[FiscalYearWorkPlan_11756]]
 - [[TripReportForUpperColoradoRive_12974]]
+- [[DraftRecoveryGoals_11689]]
+- [[DraftConsesusReportOnTheDraftC_13540]]

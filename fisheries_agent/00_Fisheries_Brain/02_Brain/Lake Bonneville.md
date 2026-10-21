@@ -20,9 +20,13 @@ Lake Bonneville was a large Pleistocene pluvial lake that once covered much of t
 > This 1971 academic paper by John N. Rinne examines the [[Pleistocene Epoch]] from multiple perspectives: climatic causes, chronological methods, hydrological conditions, and faunal evidence. The document emphasizes that the Pleistocene was characterized by dramatic climatic oscillations, extensive...
 > -- *[[ThePleistoceneItsClimateCauses_14987]]*
 
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[LetterToMrDonnellyHillRegardin_1994_08_29]]
 - [[SnyderichthysANewGenericNameFo_1944_11_22]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
 - [[ThePleistoceneItsClimateCauses_14987]]
+- [[FishesNativeToOrIntroducedInPa_18945]]

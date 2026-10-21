@@ -23,9 +23,21 @@ Petromyzonidae, commonly known as lampreys, is a family of jawless fishes (agnat
 > Key taxonomic groups documented include: - **[[Petromyzonidae]]**: Six lamprey taxa, including the [[Western Lamprey]] (*Ichthyomyzon castaneus*), [[Southern Brook Lamprey]] (*I. gagei*), and an unnamed "Mountain brook lamprey." - **[[Acipenseridae]]** and **[[Polyodontidae]]**: The [[Paddlefish]...
 > -- *[[ListOfTheFishesOfTheTennesseeR_1939_02_08]]*
 
+> This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
+> -- *[[ListOfFishesReportedFromKansas_18026]]*
+
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AListOfOntarioFishes_11321]]
 - [[CommentOnTheRequestForA_14192]]
 - [[ListOfTheFishesOfTheTennesseeR_1939_02_08]]
 - [[OccurrenceOfThePacificLampreyE_1967_12_13]]
+- [[ListOfFishesReportedFromKansas_18026]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

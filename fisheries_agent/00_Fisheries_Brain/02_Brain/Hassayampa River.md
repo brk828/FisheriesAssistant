@@ -32,6 +32,9 @@ The Hassayampa River is a desert river system in Arizona that represents a criti
 > This report synthesizes published and unpublished information on [[Plagopterus argentissimus]] (woundfin), a highly specialized, endemic cyprinid minnow currently restricted to the [[Virgin River]] system in Utah, Arizona, and Nevada. The woundfin is the most silvery of all American minnows and...
 > -- *[[WoundfinPlagopterusArgentissim_14022]]*
 
+> This 1935 advance print document by George Hebard Maxwell presents an ambitious proposal for water conservation and land reclamation in Arizona and California through comprehensive development of the [[Colorado River]]. The author advocates for the "Arizona Ten Projects"—ten regional development...
+> -- *[[WealthFromWastedWaters_15218]]*
+
 ## Mentioned In
 - [[DoiAnnouncesRecommendationsFor_18330]]
 - [[FishProductionAJointPublicatio_11438]]
@@ -43,3 +46,4 @@ The Hassayampa River is a desert river system in Arizona that represents a criti
 - [[RenovationOfPalmLakeHassayampa_11969]]
 - [[EndangeredAndThreatenedWildlif_11550]]
 - [[WoundfinPlagopterusArgentissim_14022]]
+- [[WealthFromWastedWaters_15218]]

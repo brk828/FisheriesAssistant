@@ -20,6 +20,10 @@ auto_enriched: true
 > **Statistical Habitat Differentiation (Table 1, ANOVA F-tests, 1958–1966):** - Significant differences among all 8 stations: [[Walleye]] (F=3.3, p<0.01), [[Black Bullhead]] (F=3.7, p<0.05). - Significant differences between northern area vs. rest of lake: [[Walleye]] (F=14.1, p<0.01), [[Black Bul...
 > -- *[[FluctuationsInAbundanceAndDist_13888]]*
 
+> This 1958 study by Wilbur L. Hartman investigated whether sedating fish with [[Urethane]] reduced measurement error and improved accuracy when recording fork and total lengths. Four groups of fish were measured repeatedly while normal and while drugged: yearling [[Brown Trout]], yearling [[Lake...
+> -- *[[TheUseOfSedativesToReduceManip_20686]]*
+
 ## Mentioned In
 - [[FishPopulationAndCatchDataFrom_1948]]
 - [[FluctuationsInAbundanceAndDist_13888]]
+- [[TheUseOfSedativesToReduceManip_20686]]

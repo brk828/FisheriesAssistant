@@ -20,9 +20,17 @@ The Arizona Game & Fish Department is the state wildlife agency responsible for 
 > - **247 razorback suckers** were PIT-tagged and transferred from [[Dexter National Fish Hatchery & Technology Center]] to the [[Arizona Game & Fish Department]] at Show Low, Arizona on **April 4, 1991**. - Each individual fish is traceable via a **unique PIT tag code**, forming a foundational dat...
 > -- *[[PitTaggedRazorbackSuckersDeliv_1991_04_04]]*
 
+> The [[Arizona Fishery Resources Office]] (AzFRO) successfully restored [[Gila Topminnow]] habitat at the Bylas Springs complex on the [[San Carlos Indian Reservation]] through a multi-agency partnership. The project addressed the near-extinction of [[Poeciliopsis occidentalis occidentalis]], once...
+> -- *[[NewFishHabitatRestorationAndPa_11759]]*
+
+> This comprehensive directory, published by the Commission on the Arizona Environment in 1987, catalogs businesses, organizations, and agencies concerned with environmental resources in Arizona. The document provides contact information and descriptions for over 200 entities across multiple sectors...
+> -- *[[ArizonaEnvironmentalAndResourc_17454]]*
+
 ## Mentioned In
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
 - [[LakePowellRainbowSmeltStocking_1990_04_18]]
 - [[PalmLakeNativeFishRenovationPr_1987_06_29]]
 - [[PitTaggedRazorbackSuckersDeliv_1991_04_04]]
 - [[ScientificCollectingPermitRene_1994_11_08]]
+- [[NewFishHabitatRestorationAndPa_11759]]
+- [[ArizonaEnvironmentalAndResourc_17454]]

@@ -53,6 +53,9 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 > This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
 > -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
 
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[CompositionAndDerivationOfTheN_15363]]
@@ -76,3 +79,4 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[DesertFishesCouncilEighteenthA_12829]]
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

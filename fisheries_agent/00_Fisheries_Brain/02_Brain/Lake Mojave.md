@@ -32,6 +32,9 @@ Lake Mojave is a major reservoir on the lower Colorado River that serves as the 
 > This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
 > -- *[[ColoradoRiverFisheriesInvestig_18481]]*
 
+> This document presents a standardized protocol for non-lethal tissue collection from [[Razorback Sucker]] (*Xyrauchen texanus*) and related sucker species across the [[Colorado River Basin]] for genetic analysis during FY 1991. Five sampling teams were assigned specific locations and sample number...
+> -- *[[RazorbackSuckerNonlethalTissue_12081]]*
+
 ## Mentioned In
 - [[BonytailChubStrategicPlan_13206]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -43,3 +46,4 @@ Lake Mojave is a major reservoir on the lower Colorado River that serves as the 
 - [[NoticeOfViolationOfTheEsaConce_18645]]
 - [[DraftFiveyearRoadMap_11579]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
+- [[RazorbackSuckerNonlethalTissue_12081]]

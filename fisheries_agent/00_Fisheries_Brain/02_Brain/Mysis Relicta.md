@@ -20,8 +20,12 @@ auto_enriched: true
 > Between 1963 and 1964, California and Nevada fisheries agencies introduced approximately 182,300 live [[Mysis relicta]] (opossum shrimp) into four western lakes: [[Lake Tahoe]], [[Lower Echo Lake]], [[Huntington Lake]], and [[Blue Lake]]. The primary objective was to establish a forage base for...
 > -- *[[IntroductionOfTheOpossumShrimp_20345]]*
 
+> This baseline study documents the ecology of [[White Sucker]] (*Catostomus commersoni*) and [[Longnose Sucker]] (*Catostomus catostomus*) populations in [[Twin Lakes]], Colorado, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Research conducted from 1971-1978 examined age and...
+> -- *[[EcologyOfCatostomidsInTwinLake_12424]]*
+
 ## Mentioned In
 - [[RelictFaunaOfEnnerdaleWaterAPr_1959_10_31]]
 - [[SexRatiosAquaticAnimals_13946]]
 - [[PrimaryProductivityCAtTwinLake_12652]]
 - [[IntroductionOfTheOpossumShrimp_20345]]
+- [[EcologyOfCatostomidsInTwinLake_12424]]

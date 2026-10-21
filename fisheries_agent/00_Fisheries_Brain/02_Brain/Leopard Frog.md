@@ -23,6 +23,9 @@ The Leopard Frog, likely referring to the native *Rana pipiens* or related ranid
 > This newsletter from the National Biological Survey Cooperative Park Studies Unit at The University of Arizona (CPSU/UA) documents field research activities, monitoring projects, and administrative developments during early 1994. Staff conducted diverse ecological studies across Arizona and...
 > -- *[[ProjectsTakeStaffToTheField_13221]]*
 
+> This study evaluated instream flow requirements for three native fish species—[[Roundtail Chub]] (*Gila robusta robusta*), [[Sonora Sucker]] (*Catostomus insignis*), and [[Desert Sucker]] (*Catostomus clarki*)—in the [[Burro Creek]] drainage of west-central Arizona using the Incremental...
+> -- *[[EvaluationOfTheInstreamFlowReq_13030]]*
+
 ## Mentioned In
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
 - [[LetterOnGilaTopminnowHabitatAn_1992_06_11]]
@@ -31,3 +34,4 @@ The Leopard Frog, likely referring to the native *Rana pipiens* or related ranid
 - [[GilasanFranciscoRiversResource_18256]]
 - [[ManagementPlanSierraSanLuisWil_11399]]
 - [[ProjectsTakeStaffToTheField_13221]]
+- [[EvaluationOfTheInstreamFlowReq_13030]]

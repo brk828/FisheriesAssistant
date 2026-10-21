@@ -23,6 +23,9 @@ The Asian Tapeworm (*Bothriocephalus acheilognathi*) is an invasive endoparasiti
 > This annotated bibliography, compiled by Terry J. Hickman in September 1987, provides a comprehensive review of 90 references concerning the [[Woundfin]] (*Plagopterus argentissimus*), an endangered cyprinid minnow endemic to the [[Colorado River Basin]]. The woundfin is a streamlined, silvery...
 > -- *[[AnnotatedBibliographyForTheWou_20385]]*
 
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
 ## Mentioned In
 - [[AsianTapewormEradicationStrate_13118]]
 - [[FishHealthInspectionReportDext_1999]]
@@ -31,3 +34,4 @@ The Asian Tapeworm (*Bothriocephalus acheilognathi*) is an invasive endoparasiti
 - [[VirginSpinedaceLepidomedaMolli_14744]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[AnnotatedBibliographyForTheWou_20385]]
+- [[DraftRecoveryGoals_11689]]

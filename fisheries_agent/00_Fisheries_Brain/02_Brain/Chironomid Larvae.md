@@ -23,6 +23,9 @@ Chironomid larvae are aquatic insect larvae of the family Chironomidae (non-biti
 > This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
 > -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
 
+> This baseline study documents the ecology of [[White Sucker]] (*Catostomus commersoni*) and [[Longnose Sucker]] (*Catostomus catostomus*) populations in [[Twin Lakes]], Colorado, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Research conducted from 1971-1978 examined age and...
+> -- *[[EcologyOfCatostomidsInTwinLake_12424]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[DigestionRateOfThe_15655]]
@@ -31,3 +34,4 @@ Chironomid larvae are aquatic insect larvae of the family Chironomidae (non-biti
 - [[RelationshipOfPhOfPondWatersTo_1961]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[EcologyOfCatostomidsInTwinLake_12424]]

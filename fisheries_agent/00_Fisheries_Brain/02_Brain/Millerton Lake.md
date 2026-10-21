@@ -11,8 +11,12 @@ Millerton Lake is a California reservoir on the San Joaquin River system that se
 > This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
 > -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
 
+> This October 1955 California Department of Fish and Game bulletin describes an active program to introduce four non-native forage fish species into California's warmwater reservoirs to support predatory gamefish populations. The program, led by Associate Fisheries Biologist J.B. Kimsey, addresses...
+> -- *[[ForageFish_12530]]*
+
 ## Mentioned In
 - [[EvidenceOfAmericanSh_1965]]
 - [[SpawningOfThreadfinS_16783]]
 - [[TheMillertonLakeFresnomaderaSt_12103]]
 - [[ResultsOfAnOpeningWeekCreelCen_17745]]
+- [[ForageFish_12530]]

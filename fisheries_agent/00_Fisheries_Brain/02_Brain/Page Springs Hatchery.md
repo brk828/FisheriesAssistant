@@ -32,6 +32,12 @@ Page Springs Hatchery was a fish propagation facility involved in razorback suck
 > This document comprises two reports from the [[Arizona Game and Fish Department]] covering native fish and trout studies in the [[Colorado River]] system below [[Glen Canyon Dam]] during 1991. The March 26-April 14, 1991 trip report details field sampling in mainstream and [[Little Colorado River]]...
 > -- *[[GlenCanyonEnvironmentalStudies_15938]]*
 
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
 ## Mentioned In
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
 - [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
@@ -43,3 +49,5 @@ Page Springs Hatchery was a fish propagation facility involved in razorback suck
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[RecoveryPlanForTheHumpbackChub_11544]]
 - [[GlenCanyonEnvironmentalStudies_15938]]
+- [[BiologicalOpinionOfFederalAids_11920]]
+- [[MinutesdesertFishesRecoveryTea_13730]]

@@ -56,6 +56,12 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 > This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
 > -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
@@ -98,3 +104,5 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 - [[MaturationOfAnOffchannelHabita_2024]]
 - [[BiologicalOpinionSummaryBlueRi_11685]]
 - [[GilaTopminnowSitesInArizonaPro_19668]]
+- [[DraftEnvironmentalAssessmentDe_11688]]
+- [[AbstractsFromTheDesertFishesCo_15019]]

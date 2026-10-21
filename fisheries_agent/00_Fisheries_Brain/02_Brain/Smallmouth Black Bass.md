@@ -17,7 +17,11 @@ The Smallmouth Black Bass (Micropterus dolomieu) is a warmwater centrarchid fish
 > - **Habitat range**: Species covered span the southern Lower Peninsula (e.g., [[Mud Pickerel]], restricted to warmer, southern waters) to the Great Lakes proper (e.g., [[Great Lakes Whitefish]], [[Lake Trout]], [[Cisco]], caught commercially and via trolling). - **Habitat partitioning within Cent...
 > -- *[[HowToTellApartFishThatLookAlik_12444]]*
 
+> This report presents age and growth data for six species of warm-water game and pan fish collected from 155 ponds in eastern and north central [[Massachusetts]] during 1946-1950. A total of 1,850 individual fish were analyzed using scale reading techniques to determine age structure and growth...
+> -- *[[GrowthOfGameAndPanFish_12817]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfASmallStreamPopu_15038]]
 - [[HowToTellApartFishThatLookAlik_12444]]
 - [[TheStatusOfTheFishFaunaOfTheLa_14849]]
+- [[GrowthOfGameAndPanFish_12817]]

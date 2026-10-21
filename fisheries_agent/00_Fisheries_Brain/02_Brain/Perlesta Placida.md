@@ -11,6 +11,10 @@ auto_enriched: true
 > This 1968 technical report by Brehmer, Ball, and Kevern examines the biological and chemical characteristics of the [[Red Cedar River]] near [[Williamston, Michigan]], focusing on the impacts of domestic sewage pollution on water quality and benthic invertebrate communities. The study employed six...
 > -- *[[TheBiologyAndChemistryOfAWarmw_12927]]*
 
+> This dissertation investigates the ecology and physiological mechanisms enabling macroinvertebrates to survive in a small south-central Indiana stream ([[Caldwell Hollow]]) that becomes completely dry each summer. The stream fauna is dominated by two aquatic peracarid crustaceans, [[Lirceus...
+> -- *[[TheEcologyOfInvertebratesInAnI_15957]]*
+
 ## Mentioned In
 - [[StonefliesPlecopteraOfNorthwes_1968]]
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
+- [[TheEcologyOfInvertebratesInAnI_15957]]

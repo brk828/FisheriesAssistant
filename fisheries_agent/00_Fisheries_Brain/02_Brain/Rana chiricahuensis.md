@@ -14,6 +14,10 @@ Rana chiricahuensis is the Chiricahua leopard frog, an amphibian species. This s
 > This management plan proposes the establishment of the "Sierra San Luis" Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in northwestern Mexico along the border with the United States. The area spans the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]]...
 > -- *[[ManagementPlanSierraSanLuisWil_18303]]*
 
+> This status report documents [[Lilaeopsis schaffneriana]] subspecies recurva, a rare semi-aquatic perennial plant endemic to cienega wetlands in southeastern Arizona and adjacent Sonora, Mexico. The taxon is a USFWS Candidate Category 2 species and USFS Sensitive Plant. Surveys conducted 1988-1990...
+> -- *[[StatusReportLilaeopsisSchaffne_14909]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11741]]
 - [[ManagementPlanSierraSanLuisWil_18303]]
+- [[StatusReportLilaeopsisSchaffne_14909]]

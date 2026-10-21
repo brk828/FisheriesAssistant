@@ -14,7 +14,11 @@ The Arizona Nature Conservancy is a conservation organization that, as of the 19
 > - **Primary threats identified**: 1. Introduction of exotic/non-native fish species (predation and competition) 2. Loss of perennial stream habitat and stable stream flows - **Conservation rationale**: The memo identifies habitat preservation and maintenance of stable stream flows as the single m...
 > -- *[[MemorandumOnArizonaNativeFishe_1987_08_26]]*
 
+> This status report documents [[Lilaeopsis schaffneriana]] subspecies recurva, a rare semi-aquatic perennial plant endemic to cienega wetlands in southeastern Arizona and adjacent Sonora, Mexico. The taxon is a USFWS Candidate Category 2 species and USFS Sensitive Plant. Surveys conducted 1988-1990...
+> -- *[[StatusReportLilaeopsisSchaffne_14909]]*
+
 ## Mentioned In
 - [[HassayampaLakeRenova_16653]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
 - [[PalmLakeNativeFishRenovationPr_1987_06_29]]
+- [[StatusReportLilaeopsisSchaffne_14909]]

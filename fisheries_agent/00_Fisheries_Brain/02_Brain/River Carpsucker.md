@@ -44,6 +44,12 @@ The river carpsucker is a freshwater cyprinid fish species found in North Americ
 > This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
 > -- *[[BioassayAndUseOfPituitaryMater_15952]]*
 
+> This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
+> -- *[[StatewideRoughFishControljobNo_14932]]*
+
+> This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
+> -- *[[SummaryOfCommercialFisheriesCa_19834]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
@@ -60,3 +66,5 @@ The river carpsucker is a freshwater cyprinid fish species found in North Americ
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[StatewideRoughFishControleradi_14930]]
 - [[BioassayAndUseOfPituitaryMater_15952]]
+- [[StatewideRoughFishControljobNo_14932]]
+- [[SummaryOfCommercialFisheriesCa_19834]]

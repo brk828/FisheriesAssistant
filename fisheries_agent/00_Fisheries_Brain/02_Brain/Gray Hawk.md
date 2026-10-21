@@ -14,6 +14,10 @@ auto_enriched: true
 > This December 1993 letter from the [[Maricopa Audubon Society]] to the [[Arizona Department of Water Resources]] (ADWR) addresses concerns about a water policy change permitting subdivision development in the upper [[San Pedro River]] basin. The letter documents the ecological significance of the...
 > -- *[[ArizonaDepartmentOfWaterResour_18960]]*
 
+> This comprehensive monitoring plan establishes protocols for the [[San Pedro Riparian National Conservation Area]] (RNCA), established by Public Law 100-696 (Arizona-Idaho Conservation Act of 1988). The 56,430-acre conservation area protects one of the most extensive remaining broadleaf riparian...
+> -- *[[SanPedroRiparianNationalConser_11468]]*
+
 ## Mentioned In
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
 - [[ArizonaDepartmentOfWaterResour_18960]]
+- [[SanPedroRiparianNationalConser_11468]]

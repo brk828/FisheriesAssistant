@@ -35,6 +35,9 @@ Etheostoma spectabile, commonly known as the Orangespotted Darter, is a small No
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
 ## Mentioned In
 - [[AReassessmentOfTheDistribution_1980]]
 - [[EtheostomaRadiosumOrangebellyD_1986]]
@@ -48,3 +51,4 @@ Etheostoma spectabile, commonly known as the Orangespotted Darter, is a small No
 - [[GeneticDifferentiationAmongSub_18497]]
 - [[EvaluationAndRelativeResistanc_19097]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]

@@ -71,6 +71,12 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 > This study examined interactions between the endangered [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*) and introduced [[Mosquitofish]] (*Gambusia affinis*) at [[San Bernardino National Wildlife Refuge]], southeastern [[Arizona]], from May 1985 through October 1987. The research...
 > -- *[[InteractionsBetweenPoeciliopsi_16887]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This status report documents [[Lilaeopsis schaffneriana]] subspecies recurva, a rare semi-aquatic perennial plant endemic to cienega wetlands in southeastern Arizona and adjacent Sonora, Mexico. The taxon is a USFWS Candidate Category 2 species and USFS Sensitive Plant. Surveys conducted 1988-1990...
+> -- *[[StatusReportLilaeopsisSchaffne_14909]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AsianTapewormEradicationStrate_13118]]
@@ -115,3 +121,5 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[PreliminaryFisheriesSurveyOfAq_16481]]
 - [[InteractionsBetweenPoeciliopsi_16887]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[StatusReportLilaeopsisSchaffne_14909]]

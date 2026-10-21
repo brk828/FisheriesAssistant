@@ -26,6 +26,9 @@ Mugilidae is a family of euryhaline fishes commonly known as mullets, characteri
 > This study documents the distribution patterns of [[Striped Mullet]] (Mugil cephalus) in the [[Colorado River]] and [[Gulf of California]] during 1967-1968, revealing evidence of upstream migration and questioning traditional understanding of salinity requirements for spawning. Collections from...
 > -- *[[DifferentialDistributionOfTheS_19750]]*
 
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AlgunasNotasSobreLaBiologiaYLa_17604]]
@@ -40,3 +43,4 @@ Mugilidae is a family of euryhaline fishes commonly known as mullets, characteri
 - [[TheFeedingEcologyOfJuvenileMul_17669]]
 - [[TheSheddingOfGillRakerFilament_1975]]
 - [[DifferentialDistributionOfTheS_19750]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]

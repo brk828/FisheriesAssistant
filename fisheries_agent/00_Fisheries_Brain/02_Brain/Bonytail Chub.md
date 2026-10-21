@@ -293,6 +293,42 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 > This document consists of correspondence from May 1995 regarding a proposed beaver (*Castor canadensis frondator*) reintroduction to the [[San Pedro River]] [[Riparian National Conservation Area]] in Arizona. Dr. Robin D. Silver raises concerns about declining river flows (67% reduction in low...
 > -- *[[DeclineInLowFlowsOfSanPedroAnd_18974]]*
 
+> This draft management plan addresses the conservation and recovery of four endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]]...
+> -- *[[DraftLowerColoradoRiverBasinNa_11664]]*
+
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
+> This February 1990 correspondence from the Bureau of Reclamation Lower Colorado Regional Office documents an interagency initiative to develop native fish rearing facilities on [[Lake Mohave]] for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The proposal...
+> -- *[[InteragencyProposalToExamineTh_13018]]*
+
+> This letter from the Arizona Game and Fish Department to the U.S. Fish and Wildlife Service critiques a Biological Assessment prepared by the Bureau of Reclamation regarding proposed modifications to the [[Hoover Dam]] Power Plant. The Department identifies significant deficiencies in the...
+> -- *[[ReviewOfBiologicalAssessmentFo_13470]]*
+
+> This consensus report presents findings from a scientific peer review panel convened by the American Institute of Biological Sciences (AIBS) to evaluate the draft Conservation Strategy for the [[Lower Colorado River]] Multi-Species Conservation Program (LCR MSCP). The panel met July 12, 1999 in Las...
+> -- *[[DraftConsesusReportOnTheDraftC_13540]]*
+
+> This feasibility study proposal evaluates non-lethal stomach pumping techniques for assessing food habits of [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]]. The study addresses concerns about potential damage to pharyngeal teeth during stomach content recovery. Using surrogate species...
+> -- *[[ANonlethalStomachPumpToRecover_13647]]*
+
+> This September 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates the need for and design of a dedicated hatchery to produce endangered [[Colorado River]] fishes. The study addresses production requirements through 1996 for three species:...
+> -- *[[ColoradoRiverEndangeredFishHat_13665]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This document is a formal letter from Professor W.L. Minckley (Arizona State University, Department of Zoology) dated February 4, 1983, responding to a proposal by the Utah Division of Wildlife to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. Minckley expresses strong...
+> -- *[[ReProposalIntroductionOfRainbo_13753]]*
+
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
 ## Mentioned In
 - [[ANonLethalStomachPumpingTechni_14917]]
 - [[ANonlethalTechniqueToRecoverGu_1994]]
@@ -647,3 +683,15 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[TowardRangewideIntegrationOfRe_18629]]
 - [[DeclineInLowFlowsOfSanPedroAnd_18974]]
+- [[DraftLowerColoradoRiverBasinNa_11664]]
+- [[FiscalYearWorkPlan_11742]]
+- [[InteragencyProposalToExamineTh_13018]]
+- [[ReviewOfBiologicalAssessmentFo_13470]]
+- [[DraftConsesusReportOnTheDraftC_13540]]
+- [[ANonlethalStomachPumpToRecover_13647]]
+- [[ColoradoRiverEndangeredFishHat_13665]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[ReProposalIntroductionOfRainbo_13753]]
+- [[ABibliographyOfTheFederallyEnd_14370]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[RealitiesOfProvidingWaterForEn_20669]]

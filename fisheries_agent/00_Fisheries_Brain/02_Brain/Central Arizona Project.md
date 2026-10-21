@@ -92,6 +92,9 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 > This document is a July 1990 letter from a Department of Zoology faculty member to Stewart L. Udall, former Secretary of the Interior, requesting a forward for an edited volume on endangered western fishes. The letter includes a draft forward outlining key conservation controversies involving...
 > -- *[[DraftOfForwardForBookBattleAga_13788]]*
 
+> This comprehensive directory, published by the Commission on the Arizona Environment in 1987, catalogs businesses, organizations, and agencies concerned with environmental resources in Arizona. The document provides contact information and descriptions for over 200 entities across multiple sectors...
+> -- *[[ArizonaEnvironmentalAndResourc_17454]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -135,3 +138,4 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 - [[CommercialFisheriesPotentialOf_18584]]
 - [[BiologicalOpinionForRepairAndo_11904]]
 - [[DraftOfForwardForBookBattleAga_13788]]
+- [[ArizonaEnvironmentalAndResourc_17454]]

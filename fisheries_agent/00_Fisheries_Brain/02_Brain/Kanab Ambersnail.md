@@ -26,6 +26,9 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 > This document presents the Fiscal Year 1998 Annual Monitoring and Research Plan for the [[Grand Canyon Monitoring and Research Center]] (GCMRC), representing the first year of implementation of the Long-Term Monitoring and Research Strategic Plan (1998-2002). The plan addresses monitoring and...
 > -- *[[FiscalYearAnnualMonitoringAndR_17765]]*
 
+> This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
+> -- *[[InformationRegardingManagement_16919]]*
+
 ## Mentioned In
 - [[CommentsOnTheThirdDraftOfTheLo_1993_04_30]]
 - [[DraftBiologicalOpinionSummaryE_1993_05_17]]
@@ -35,3 +38,4 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 - [[RecommendationForAHighDischarg_1993_07_19]]
 - [[ReviewOfCommissionOrderForCrus_1994_07_27]]
 - [[FiscalYearAnnualMonitoringAndR_17765]]
+- [[InformationRegardingManagement_16919]]

@@ -20,9 +20,13 @@ auto_enriched: true
 > This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
 > -- *[[FiscalYearProgramGuidance_11762]]*
 
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
 ## Mentioned In
 - [[NoticeOfAvailabilityOfDraftAgr_21027]]
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[FiscalYearProgramGuidance_11762]]
+- [[DraftRecoveryGoals_11689]]

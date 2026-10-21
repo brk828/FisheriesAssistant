@@ -38,6 +38,15 @@ Smallmouth buffalo (Ictiobus bubalus) is a large, native North American cyprinid
 > This quarterly report (1 April - 30 June 1966) documents the initial phase of Project 6-1-R-1, investigating commercial fishery potentials in Arizona reservoirs. The project established operational infrastructure including equipment procurement, personnel hiring, and preliminary fish collections...
 > -- *[[InvestigationsOfCommercialFish_18562]]*
 
+> This technical report presents Habitat Suitability Index (HSI) models for the [[Smallmouth Buffalo]] (*Ictiobus bubalus*), a large freshwater fish native to the [[Mississippi Valley]] and [[Hudson Bay]] drainage systems. The models synthesize literature on habitat requirements and preferences to...
+> -- *[[HabitatSuitabilityIndexModelsS_15767]]*
+
+> This doctoral thesis investigates the population characteristics of [[Smallmouth Buffalo]] (*Ictiobus bubalus*) in [[Watts Bar Reservoir]] and the [[Clinch River]], Tennessee, focusing on age distribution, growth rates, dispersion, and radionuclide accumulation. The study analyzed 1,271...
+> -- *[[GrowthAndMovementOfSmallmouthB_17077]]*
+
+> This job completion report documents the chemical treatment of [[Century Lake]] (555 acres, reduced to 463 acres at treatment) and 1.5 miles of [[White Oak Creek]] in [[Hopkins County]], Texas on May 15-16, 1963. The treatment used 995 gallons of 5% rotenone to remove the existing fish population,...
+> -- *[[StatewideRoughRishControlJobNo_19049]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[ExperimentsOnCommercialFishPro_15100]]
@@ -52,3 +61,6 @@ Smallmouth buffalo (Ictiobus bubalus) is a large, native North American cyprinid
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[WhatHaveICaught_12929]]
 - [[InvestigationsOfCommercialFish_18562]]
+- [[HabitatSuitabilityIndexModelsS_15767]]
+- [[GrowthAndMovementOfSmallmouthB_17077]]
+- [[StatewideRoughRishControlJobNo_19049]]

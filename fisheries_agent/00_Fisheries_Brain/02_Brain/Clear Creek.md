@@ -32,6 +32,9 @@ Clear Creek is a drainage system in Illinois that historically supported populat
 > This study documents the embryonic and early larval development of the [[Tui Chub]] (*Siphateles bicolor*) from [[Eagle Lake]], [[Lassen County]], California. Conducted in 1949 by Robert R. Harry at Stanford University while employed by the California Division of Fish and Game, this represents...
 > -- *[[TheEmbryonicAndEarlyLarvalStag_20681]]*
 
+> This document is a formal consultation letter from the [[U.S. Fish and Wildlife Service]] (USFWS) Arizona Ecological Services Field Office to the [[Apache-Sitgreaves National Forest]] regarding 27 proposed forest management projects submitted for Section 7 consultation under the [[Endangered...
+> -- *[[ReWrittenConcurrenceOnTheFores_11749]]*
+
 ## Mentioned In
 - [[DistributionAbundanceAndStatus_14900]]
 - [[NewRecordsDistributionAndStatu_14897]]
@@ -41,3 +44,4 @@ Clear Creek is a drainage system in Illinois that historically supported populat
 - [[TemporalChangesInTheGambusiaHe_15772]]
 - [[DraftLittleColoradoRiverSpined_11662]]
 - [[TheEmbryonicAndEarlyLarvalStag_20681]]
+- [[ReWrittenConcurrenceOnTheFores_11749]]

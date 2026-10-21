@@ -23,8 +23,12 @@ Ponderosa Pine is a dominant forest type in southwestern aquatic ecosystems that
 > - **Grazing–fire–regeneration interaction**: Livestock grazing reduces herbaceous grass cover, which: - Reduces competition for water/nutrients with [[Ponderosa Pine]] seedlings. - Reduces allelopathic suppression of pine seedlings by native grasses ([[Jameson 1968]], [[Rietveld 1975]]). - Reduce...
 > -- *[[GrazingIsTheMajorCauseOfForest_1995_05_09]]*
 
+> This document examines the development and morphology of ephemeral gully systems in western mountain lands, proposing a classification based on stages of development from youthful to old-age. The research, conducted primarily in the [[Colorado Rocky Mountains]] with observations from [[New...
+> -- *[[StagesOfDevelopmentOfGulliesIn_16590]]*
+
 ## Mentioned In
 - [[EffectsOfPineLitterOnQualityOf_11341]]
 - [[GrazingIsTheMajorCauseOfForest_1995_05_09]]
 - [[IfReleasedIntoLocalStreams_11974]]
 - [[LivestockGrazingIsAMajorCauseO_1995_05_09]]
+- [[StagesOfDevelopmentOfGulliesIn_16590]]

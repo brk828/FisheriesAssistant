@@ -32,6 +32,9 @@ The Agua Fria River is a free-flowing desert river system in Arizona that serves
 > **Taxonomic & Life-History Summary**: This document covers multiple introduced bass and sunfish species in Arizona waters. [[Yellow Bass]] (*Roccus mississippiensis*) reached approximately one pound in weight in [[San Carlos Lake]] (1950) and [[Canyon Lake]] (1953), with larger individuals reported...
 > -- *[[TheVertebratesOfArizona_1964]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnDraftRevise_1993_09_08]]
 - [[BiologicalOpinionTuleCreekRipa_1991_09_03]]
@@ -43,3 +46,4 @@ The Agua Fria River is a free-flowing desert river system in Arizona that serves
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[TheVertebratesOfArizona_1964]]
+- [[DraftEnvironmentalAssessmentDe_11688]]

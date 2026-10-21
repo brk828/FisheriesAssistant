@@ -23,9 +23,13 @@ The Soil Conservation Service is a federal agency that, along with FERC, the Bur
 > This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
 > -- *[[MasterPlanForBuenosAiresWildli_13323]]*
 
+> This technical guidance document from the U.S. Department of Agriculture [[Soil Conservation Service]] provides specifications for designing and constructing farm ponds optimized for fish production. The document addresses water supply management, pond dimensions, outlet structures, vegetation...
+> -- *[[HowToBuildAFarmPondForFishProd_13264]]*
+
 ## Mentioned In
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[OutlineOfSanBernardinoRanchMan_20829]]
 - [[PlanningEffortNearItsConclusio_11515]]
 - [[EstablishmentOfNewOrReclaimedP_12166]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
+- [[HowToBuildAFarmPondForFishProd_13264]]

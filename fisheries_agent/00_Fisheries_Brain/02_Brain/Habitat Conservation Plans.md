@@ -11,5 +11,9 @@ Habitat Conservation Plans (HCPs) are long-term conservation agreements created 
 > This document contains two Federal Register notices from June 1997. The primary notice proposes codification of the [[Endangered Species Act]] "No Surprises" policy, which provides regulatory assurances to holders of incidental take permits under [[Habitat Conservation Plans]] (HCPs). The policy...
 > -- *[[InteriorPublishesProposedNoSup_14551]]*
 
+> This Federal Register notice from the [[U.S. Fish and Wildlife Service]] (February 28, 1996) presents an updated list of plant and animal taxa native to the United States regarded as candidates for possible addition to the List of Endangered and Threatened Wildlife and Plants under the [[Endangered...
+> -- *[[EndangeredAndThreatenedWildlif_11739]]*
+
 ## Mentioned In
 - [[InteriorPublishesProposedNoSup_14551]]
+- [[EndangeredAndThreatenedWildlif_11739]]

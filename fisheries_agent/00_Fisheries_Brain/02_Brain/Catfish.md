@@ -44,6 +44,12 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 > This 1960 study by J. B. Kimsey documents spawning behavior of [[Sacramento Hitch]] (*Lavinia exilicauda exilicauda*) in [[Clear Lake]], California, challenging the prevailing assumption that this cyprinid species requires streams with gravel bottoms for successful reproduction. Direct observations...
 > -- *[[ObservationsOnTheSpawningOfSac_12534]]*
 
+> This October 1955 California Department of Fish and Game bulletin describes an active program to introduce four non-native forage fish species into California's warmwater reservoirs to support predatory gamefish populations. The program, led by Associate Fisheries Biologist J.B. Kimsey, addresses...
+> -- *[[ForageFish_12530]]*
+
+> This technical guidance document from the U.S. Department of Agriculture [[Soil Conservation Service]] provides specifications for designing and constructing farm ponds optimized for fish production. The document addresses water supply management, pond dimensions, outlet structures, vegetation...
+> -- *[[HowToBuildAFarmPondForFishProd_13264]]*
+
 ## Mentioned In
 - [[AsuProfsStudyEndangeredFishes_12227]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
@@ -62,3 +68,5 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[ChronologyOfYumaCoveActivities_15028]]
 - [[ObservationsOnTheSpawningOfSac_12534]]
+- [[ForageFish_12530]]
+- [[HowToBuildAFarmPondForFishProd_13264]]

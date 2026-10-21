@@ -17,9 +17,13 @@ auto_enriched: true
 > This 1917 U.S. Geological Survey report by A. T. Schwennesen documents the groundwater resources of [[San Simon Valley]], an 85-mile-long arid basin in southeastern Arizona and adjacent New Mexico. The valley, bounded by the [[Peloncillo Mountains]] to the east and the [[Chiricahua Mountains]],...
 > -- *[[GroundWaterInSanSimonValleyAri_11299]]*
 
+> This is the fourth annual progress report (1979-1982) on a comprehensive mammal survey of the [[George Whittell Wildlife Preserve]] in the [[Aravaipa Creek]] watershed, Arizona. The survey documented 60 mammal species as actual, probable, or possible inhabitants, with 45 species confirmed for the...
+> -- *[[ReportOnTheSurveyOfTheMammalsO_11840]]*
+
 ## Mentioned In
 - [[MolluscaOfTheSouthwesternState_1918]]
 - [[WetCanyonTalussnailSonorellaMa_1992_04_10]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[TheKlondykeTailingsAndAravaipa_14554]]
 - [[GroundWaterInSanSimonValleyAri_11299]]
+- [[ReportOnTheSurveyOfTheMammalsO_11840]]

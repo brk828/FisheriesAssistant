@@ -29,6 +29,9 @@ Gambusia nobilis, commonly known as the Big Bend gambusia, is a small livebearin
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AClassificationOfTexasAquaticC_15773]]
@@ -38,3 +41,4 @@ Gambusia nobilis, commonly known as the Big Bend gambusia, is a small livebearin
 - [[TemporalChangesInTheGambusiaHe_15772]]
 - [[GeneticDifferentiationAmongSub_18497]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]

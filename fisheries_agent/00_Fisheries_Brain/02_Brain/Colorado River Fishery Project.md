@@ -38,6 +38,9 @@ The Colorado River Fishery Project is a U.S. Fish and Wildlife Service administr
 > This 1987 protocol document from the [[Colorado River Fishes Recovery Team]] establishes standardized procedures for field personnel to identify, capture, handle, and transport wild [[Bonytail]] (*Gila elegans*) to appropriate refugia facilities. The protocol addresses field identification...
 > -- *[[DraftprotocolForHandlingAndTra_13900]]*
 
+> This September 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates the need for and design of a dedicated hatchery to produce endangered [[Colorado River]] fishes. The study addresses production requirements through 1996 for three species:...
+> -- *[[ColoradoRiverEndangeredFishHat_13665]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ConcentrationsOfTotalDissolved_11144]]
@@ -55,3 +58,4 @@ The Colorado River Fishery Project is a U.S. Fish and Wildlife Service administr
 - [[AStudyToDetermineTheBiological_11576]]
 - [[ColoradoRiverFishesMeetingFebr_15252]]
 - [[DraftprotocolForHandlingAndTra_13900]]
+- [[ColoradoRiverEndangeredFishHat_13665]]

@@ -29,6 +29,9 @@ The Rio Grande Cutthroat Trout is a native salmonid species endemic to the Rio G
 > This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
 > -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
 
+> This 1993 technical document from the [[San Marcos National Fish Hatchery]] provides comprehensive genetic management guidelines for federal fish hatcheries in Region 2. The document addresses growing concerns that hatchery operations may threaten wild fish populations through genetic degradation,...
+> -- *[[GeneralGeneticGuidelinesForReg_18841]]*
+
 ## Mentioned In
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
 - [[LetterRegardingTheMescaleroCut_1985_12_24]]
@@ -38,3 +41,4 @@ The Rio Grande Cutthroat Trout is a native salmonid species endemic to the Rio G
 - [[FishFaunaOfTheMiddleRioGrandeS_15005]]
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
+- [[GeneralGeneticGuidelinesForReg_18841]]

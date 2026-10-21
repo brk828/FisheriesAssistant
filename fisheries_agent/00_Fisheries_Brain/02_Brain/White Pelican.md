@@ -14,6 +14,10 @@ White Pelican showed much greater susceptibility to toxaphene than DDT in feedin
 > On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
 > -- *[[WorkshopProceedings_18372]]*
 
+> This comprehensive 1962 report by the [[Fish and Wildlife Service]] (Circular No. 143) summarizes research findings from 1960 on pesticide effects across wildlife, sport fisheries, and commercial fisheries. The document fulfills Public Law 85-582 mandating the Service to evaluate pesticide impacts...
+> -- *[[EffectsOfPesticidesOnFishAndWi_12842]]*
+
 ## Mentioned In
 - [[WildlifeStudiesDenverWildlifeR_14329]]
 - [[WorkshopProceedings_18372]]
+- [[EffectsOfPesticidesOnFishAndWi_12842]]

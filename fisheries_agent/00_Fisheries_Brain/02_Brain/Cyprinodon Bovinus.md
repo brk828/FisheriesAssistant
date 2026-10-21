@@ -26,6 +26,9 @@ Cyprinodon bovinus, commonly known as the Leon Springs pupfish, is a small cypri
 > This paper addresses the application of population genetics to conservation and management of North American desert fishes, a highly endangered fauna experiencing alarming declines. At least 20 taxa have gone extinct in recent decades due to habitat destruction and exotic species introductions. The...
 > -- *[[ConservationGeneticsInTheManag_20087]]*
 
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
 ## Mentioned In
 - [[AClassificationOfTexasAquaticC_15773]]
 - [[ChecklistOfPecosRiverAndMexica_18282]]
@@ -33,3 +36,4 @@ Cyprinodon bovinus, commonly known as the Leon Springs pupfish, is a small cypri
 - [[EndangeredAndThreatenedWildlif_1998_01_30]]
 - [[RequestForInformationOnPropose_1997_03_13]]
 - [[ConservationGeneticsInTheManag_20087]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]

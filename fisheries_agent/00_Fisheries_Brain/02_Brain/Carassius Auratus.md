@@ -29,6 +29,9 @@ Carassius auratus, commonly known as the goldfish, is a domesticated cyprinid fi
 > This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
 > -- *[[EvaluationAndRelativeResistanc_19097]]*
 
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -41,3 +44,4 @@ Carassius auratus, commonly known as the goldfish, is a domesticated cyprinid fi
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
 - [[EvaluationAndRelativeResistanc_19097]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]

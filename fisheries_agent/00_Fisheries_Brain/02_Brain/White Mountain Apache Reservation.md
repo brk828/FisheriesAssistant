@@ -23,9 +23,13 @@ The White Mountain Apache Reservation contains four Gila populations in Salt Riv
 > This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
 > -- *[[FinalProgressReport_18563]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
 ## Mentioned In
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
 - [[BiologicalOpinionOnTheEffectsT_11884]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[AdverseBiologicalOpinionIndian_15638]]
 - [[FinalProgressReport_18563]]
+- [[DraftEnvironmentalAssessmentDe_11688]]

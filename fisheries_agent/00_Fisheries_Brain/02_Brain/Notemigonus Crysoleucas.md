@@ -23,6 +23,9 @@ Notemigonus crysoleucas, commonly known as the golden shiner, is a cyprinid fish
 > This molecular phylogenetic study examined the evolutionary relationships of the tribe [[Plagopterini]], a group of spiny-rayed cyprinid fishes endemic to southwestern [[North America]]. Using [[Cytochrome b]] gene sequences, the research confirmed that plagopterins ([[Lepidomeda]], [[Meda]], and...
 > -- *[[EvolutionaryRelationshipsOfThe_19110]]*
 
+> This doctoral dissertation (Oklahoma State University, 1966) investigated how domestic sewage and oil refinery effluents affected the morphological characteristics and population structure of three cyprinid fish species in [[Skeleton Creek]], Oklahoma. Between June 1963 and May 1964, the author...
+> -- *[[TheEffectOfDomesticAndOilRefin_15666]]*
+
 ## Mentioned In
 - [[PhylogeneticsOfNorthAmericanCh_20485]]
 - [[TheAsianFishTapewormBothriocep_1993]]
@@ -30,3 +33,4 @@ Notemigonus crysoleucas, commonly known as the golden shiner, is a cyprinid fish
 - [[TroutFishingAtCliffPondBrewste_15489]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[EvolutionaryRelationshipsOfThe_19110]]
+- [[TheEffectOfDomesticAndOilRefin_15666]]

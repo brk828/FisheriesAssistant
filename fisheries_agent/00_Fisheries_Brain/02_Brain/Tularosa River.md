@@ -44,6 +44,9 @@ The Tularosa River is a tributary stream system in New Mexico that serves as cri
 > This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
 > -- *[[AdverseBiologicalOpinionIndian_15638]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_16787]]
 - [[MicrohabitatUtilizationOfLoach_14998]]
@@ -58,3 +61,4 @@ The Tularosa River is a tributary stream system in New Mexico that serves as cri
 - [[LoachMinnow_19034]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[AdverseBiologicalOpinionIndian_15638]]
+- [[DraftEnvironmentalAssessmentDe_11688]]

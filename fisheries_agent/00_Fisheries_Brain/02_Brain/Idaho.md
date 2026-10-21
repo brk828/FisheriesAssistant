@@ -20,8 +20,12 @@ Idaho is a neighboring state that served as a market for Montana Carp and Sucker
 > This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
 > -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
 
+> This technical guidance document from the U.S. Department of Agriculture [[Soil Conservation Service]] provides specifications for designing and constructing farm ponds optimized for fish production. The document addresses water supply management, pond dimensions, outlet structures, vegetation...
+> -- *[[HowToBuildAFarmPondForFishProd_13264]]*
+
 ## Mentioned In
 - [[AnEconomicStudyOfTheProcessing_15621]]
 - [[SummaryStatementOfInsightsFrom_20854]]
 - [[KokaneeInCalifornia_18108]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
+- [[HowToBuildAFarmPondForFishProd_13264]]

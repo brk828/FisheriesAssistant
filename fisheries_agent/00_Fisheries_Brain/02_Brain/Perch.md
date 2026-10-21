@@ -23,6 +23,12 @@ In ichthyological research, perch refers to members of the family Percidae, fres
 > This report documents new distribution records for two parasitic copepods of the family [[Lernaeopodidae]] in Yorkshire, England. [[Achtheres percarum]] Nordmann is recorded from three Yorkshire localities (Doe Park Reservoir, Bretton Park Lake, and River Ouse at Lower Dunsforth) representing...
 > -- *[[TheParasiticCopepodAchtheresPe_18884]]*
 
+> This technical guidance document from the U.S. Department of Agriculture [[Soil Conservation Service]] provides specifications for designing and constructing farm ponds optimized for fish production. The document addresses water supply management, pond dimensions, outlet structures, vegetation...
+> -- *[[HowToBuildAFarmPondForFishProd_13264]]*
+
+> This 1958 study by Wilbur L. Hartman investigated whether sedating fish with [[Urethane]] reduced measurement error and improved accuracy when recording fork and total lengths. Four groups of fish were measured repeatedly while normal and while drugged: yearling [[Brown Trout]], yearling [[Lake...
+> -- *[[TheUseOfSedativesToReduceManip_20686]]*
+
 ## Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
@@ -33,3 +39,5 @@ In ichthyological research, perch refers to members of the family Percidae, fres
 - [[TroutRestorationInTheAdirondac_20206]]
 - [[PikeEsoxLuciusLOnTheEdgeConsis_2016]]
 - [[TheParasiticCopepodAchtheresPe_18884]]
+- [[HowToBuildAFarmPondForFishProd_13264]]
+- [[TheUseOfSedativesToReduceManip_20686]]

@@ -17,7 +17,11 @@ Wahweap was the most heavily fished area in Lake Powell, receiving 44.7% of all 
 > This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
 > -- *[[ReservoirFisheriesInvestigatio_14590]]*
 
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
 ## Mentioned In
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
 - [[FiscalYearWorkPlan_11756]]
 - [[ReservoirFisheriesInvestigatio_14590]]
+- [[FiscalYearWorkPlan_11742]]

@@ -53,6 +53,18 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 > This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
 > -- *[[CodeOfFederalRegulationsPartEn_11616]]*
 
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
+> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
+> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
+
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -112,3 +124,7 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 - [[HabitatSuitabilityIndexModelsS_15765]]
 - [[TheBoulderDarterAConservationC_14033]]
 - [[CodeOfFederalRegulationsPartEn_11616]]
+- [[FishesNativeToOrIntroducedInPa_18945]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]
+- [[ObservationsOnTheFoodHabitsOfD_20140]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]

@@ -59,6 +59,12 @@ Buenos Aires National Wildlife Refuge is a U.S. Fish and Wildlife Service facili
 > This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The survey assessed 45 tanks to evaluate their potential as supplemental growout habitats for endangered fish...
 > -- *[[PreliminaryFisheriesSurveyOfAq_16481]]*
 
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
 ## Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[LetterToDougMcqueenSupportingN_1986_06_27]]
@@ -87,3 +93,5 @@ Buenos Aires National Wildlife Refuge is a U.S. Fish and Wildlife Service facili
 - [[RePreliminaryFisheriesSurveyOf_13711]]
 - [[ProjectsTakeStaffToTheField_13221]]
 - [[PreliminaryFisheriesSurveyOfAq_16481]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[ABibliographyOfTheFederallyEnd_14370]]

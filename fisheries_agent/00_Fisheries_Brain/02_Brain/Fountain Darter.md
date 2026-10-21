@@ -26,6 +26,9 @@ The Fountain Darter (*Etheostoma fonticola*) is a small, endangered percid fish 
 > This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
 > -- *[[UnitedStatesListOfEndangeredFa_11533]]*
 
+> This 1993 technical document from the [[San Marcos National Fish Hatchery]] provides comprehensive genetic management guidelines for federal fish hatcheries in Region 2. The document addresses growing concerns that hatchery operations may threaten wild fish populations through genetic degradation,...
+> -- *[[GeneralGeneticGuidelinesForReg_18841]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[DistributionOfAnUndescribedDig_1999_12_14]]
@@ -34,3 +37,4 @@ The Fountain Darter (*Etheostoma fonticola*) is a small, endangered percid fish 
 - [[LetterToDrWLMinckleyOnTheHisto_19038]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
+- [[GeneralGeneticGuidelinesForReg_18841]]

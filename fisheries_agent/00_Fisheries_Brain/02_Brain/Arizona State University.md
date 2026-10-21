@@ -263,6 +263,36 @@ Arizona State University is a major research institution that has played a signi
 > This memorandum from the [[Glen Canyon Environmental Studies]] (GCES) program, dated November 24, 1992, outlines coordination plans for a December 1, 1992 meeting of principle investigators conducting native fish research in [[Grand Canyon]]. The document focuses on integrating research efforts...
 > -- *[[GlenCanyonEnvironmentalStudies_19708]]*
 
+> The [[Arizona Fishery Resources Office]] (AzFRO) successfully restored [[Gila Topminnow]] habitat at the Bylas Springs complex on the [[San Carlos Indian Reservation]] through a multi-agency partnership. The project addressed the near-extinction of [[Poeciliopsis occidentalis occidentalis]], once...
+> -- *[[NewFishHabitatRestorationAndPa_11759]]*
+
+> This 1986 memorandum from the [[Bureau of Reclamation]] Upper Colorado Regional Office to the [[U.S. Fish and Wildlife Service]] Endangered Species Office proposes collaboration with Dr. W. L. Minckley of [[Arizona State University]] on basin-wide systematic studies of the genus *[[Gila]]*. The...
+> -- *[[FutureGilaWork_11987]]*
+
+> This February 1990 correspondence from the Bureau of Reclamation Lower Colorado Regional Office documents an interagency initiative to develop native fish rearing facilities on [[Lake Mohave]] for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The proposal...
+> -- *[[InteragencyProposalToExamineTh_13018]]*
+
+> This letter from the Arizona Game and Fish Department to the U.S. Fish and Wildlife Service critiques a Biological Assessment prepared by the Bureau of Reclamation regarding proposed modifications to the [[Hoover Dam]] Power Plant. The Department identifies significant deficiencies in the...
+> -- *[[ReviewOfBiologicalAssessmentFo_13470]]*
+
+> Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
+> -- *[[MinutesdesertFishesRecoveryTea_13730]]*
+
+> This comprehensive bibliography, prepared by Terry C. Inman, [[Paul C. Marsh]], and [[W.L. Minckley]] at [[Arizona State University]] in June 1995, catalogs scientific literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*) from the [[Colorado River]] system. The work spans 12...
+> -- *[[ABibliographyOfTheFederallyEnd_14370]]*
+
+> This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
+> -- *[[DraftProposedCriteriaForDesign_14776]]*
+
+> This 1990 environmental assessment proposes establishing a native fish rearing facility at [[Yuma Cove]], [[Lake Mohave]], to prevent extirpation of the [[Razorback Sucker]] (*Xyrauchen texanus*). The species, once common throughout the [[Colorado River]] system from Wyoming to Mexico, is now...
+> -- *[[EnvironmentalAssessmentForLake_15466]]*
+
+> This 1967 doctoral dissertation by Jeanette H. Lysne at [[Arizona State University]] presents histocompatibility studies of [[Xiphophorus gordoni]] (northern platyfish) from three isolated lagunas in the [[Cuatro Ciénegas Basin]] of Coahuila, México. Using dorsal fin transplantation techniques, the...
+> -- *[[HistocompatibilityStudiesOfThe_16290]]*
+
+> This U.S. Fish and Wildlife Service internal memorandum, dated March 16, 1992, documents the Regional Office review of a draft recovery plan for the [[Sonora Chub]] (Gila ditaenia). The Assistant Regional Director for Fish and Wildlife Enhancement in Region 2 (Albuquerque) provides feedback to the...
+> -- *[[SonoraChubrecoveryPlan_20896]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -461,3 +491,13 @@ Arizona State University is a major research institution that has played a signi
 - [[PreliminaryFisheriesSurveyOfAq_16481]]
 - [[GilaTopminnowSitesInArizonaPro_19668]]
 - [[GlenCanyonEnvironmentalStudies_19708]]
+- [[NewFishHabitatRestorationAndPa_11759]]
+- [[FutureGilaWork_11987]]
+- [[InteragencyProposalToExamineTh_13018]]
+- [[ReviewOfBiologicalAssessmentFo_13470]]
+- [[MinutesdesertFishesRecoveryTea_13730]]
+- [[ABibliographyOfTheFederallyEnd_14370]]
+- [[DraftProposedCriteriaForDesign_14776]]
+- [[EnvironmentalAssessmentForLake_15466]]
+- [[HistocompatibilityStudiesOfThe_16290]]
+- [[SonoraChubrecoveryPlan_20896]]

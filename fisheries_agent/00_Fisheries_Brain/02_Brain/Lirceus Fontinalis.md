@@ -20,6 +20,10 @@ auto_enriched: true
 > 1. Isopods (*[[Lirceus fontinalis]]*) reduced their activity in response to waterborne skin mucus cues from fish, indicating a chemically-mediated, non-contact predator avoidance response. 2. Isopods were **most responsive** (greatest activity reduction) to mucus cues from predatory sunfish (*[[L...
 > -- *[[IndirectEffectsOfFishOnForagin_1992]]*
 
+> This dissertation investigates the ecology and physiological mechanisms enabling macroinvertebrates to survive in a small south-central Indiana stream ([[Caldwell Hollow]]) that becomes completely dry each summer. The stream fauna is dominated by two aquatic peracarid crustaceans, [[Lirceus...
+> -- *[[TheEcologyOfInvertebratesInAnI_15957]]*
+
 ## Mentioned In
 - [[ANewTroglobiticIsopodOfTheGenu_1973]]
 - [[IndirectEffectsOfFishOnForagin_1992]]
+- [[TheEcologyOfInvertebratesInAnI_15957]]

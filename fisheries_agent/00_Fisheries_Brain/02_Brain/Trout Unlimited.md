@@ -17,7 +17,11 @@ Trout Unlimited is a conservation organization that advocates for the protection
 > - **Reintroduction initiative**: The Zane Grey Chapter of [[Trout Unlimited]] formally requested (November 20, 1996) that the [[U.S. Fish and Wildlife Service]] Arizona Ecological Services Field Office collaborate on reintroducing Gila Trout to Arizona waters, with a stated goal of establishing a...
 > -- *[[ReintroductionOfGilaTroutInAri_1996_12_05]]*
 
+> This comprehensive directory, published by the Commission on the Arizona Environment in 1987, catalogs businesses, organizations, and agencies concerned with environmental resources in Arizona. The document provides contact information and descriptions for over 200 entities across multiple sectors...
+> -- *[[ArizonaEnvironmentalAndResourc_17454]]*
+
 ## Mentioned In
 - [[GilaTroutAndChihuahuaChubRecov_1997_01_16]]
 - [[ReintroductionOfGilaTroutInAri_1996_12_05]]
 - [[WildTroutVSStockedTroutAStateM_20563]]
+- [[ArizonaEnvironmentalAndResourc_17454]]

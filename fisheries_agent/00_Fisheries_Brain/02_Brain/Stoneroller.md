@@ -38,6 +38,12 @@ Stoneroller refers to cyprinid fishes of the genus Campostoma, particularly comm
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
+> -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
+
+> This correspondence documents three fish stocking events at [[Topock Marsh]], Arizona in 1977 where shipments from [[Tisomingo National Fish Hatchery]] in Oklahoma inadvertently introduced multiple non-target species alongside requested fish. The incidents involved [[Channel Catfish]] (March 30),...
+> -- *[[ContaminatedFishStockingsIntoT_20328]]*
+
 ## Mentioned In
 - [[AnnotatedChecklistOfFishesFrom_1962]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -52,3 +58,5 @@ Stoneroller refers to cyprinid fishes of the genus Campostoma, particularly comm
 - [[PrelimaryObservationsOnTheToxi_14434]]
 - [[OutlineOfSanBernardinoRanchMan_20829]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[ContaminatedFishStockingsIntoT_20328]]

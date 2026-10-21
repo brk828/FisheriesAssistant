@@ -20,6 +20,9 @@ The Colorado River System, in the context of fisheries and aquatic ecology, refe
 > This research proposal, submitted by [[Colorado State University]] Larval Fish Laboratory to the [[U.S. Bureau of Reclamation]], outlines a Phase II controlled experimental study to evaluate the acute and latent effects of electrofishing on endangered [[Colorado River]] fishes. The study focuses on...
 > -- *[[EffectsOfElectrofishingFieldsO_15548]]*
 
+> This document comprises a 1990 proposal and preliminary investigation by the [[Larval Fish Laboratory]] at [[Colorado State University]] addressing concerns about electrofishing impacts on fish in [[Grand Canyon National Park]]. The [[National Park Service]] mandated evaluation of electrofishing...
+> -- *[[DraftDocumentimpactsOfElectrof_19691]]*
+
 ## Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
@@ -28,3 +31,4 @@ The Colorado River System, in the context of fisheries and aquatic ecology, refe
 - [[RequestNotificationOfFishStock_1989_01_13]]
 - [[EffectsOfElectrofishingFieldsO_15544]]
 - [[EffectsOfElectrofishingFieldsO_15548]]
+- [[DraftDocumentimpactsOfElectrof_19691]]

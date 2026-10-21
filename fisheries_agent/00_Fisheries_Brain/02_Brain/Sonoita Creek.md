@@ -53,6 +53,12 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 > This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
 > -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
 
+> This status report documents [[Lilaeopsis schaffneriana]] subspecies recurva, a rare semi-aquatic perennial plant endemic to cienega wetlands in southeastern Arizona and adjacent Sonora, Mexico. The taxon is a USFWS Candidate Category 2 species and USFS Sensitive Plant. Surveys conducted 1988-1990...
+> -- *[[StatusReportLilaeopsisSchaffne_14909]]*
+
+> This Master's thesis by Robert Eugene Forrest (University of Arizona, 1992) quantifies microhabitat use and preference of the federally endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) through field observations in [[Cienega Creek]], Arizona, and controlled laboratory...
+> -- *[[HabitatUseAndPreferenceOfGilaT_18783]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -73,3 +79,5 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[AgencyReviewDraftLoachMinnowTi_19398]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
+- [[StatusReportLilaeopsisSchaffne_14909]]
+- [[HabitatUseAndPreferenceOfGilaT_18783]]

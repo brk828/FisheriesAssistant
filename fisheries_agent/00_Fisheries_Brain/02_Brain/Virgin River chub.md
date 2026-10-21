@@ -65,6 +65,12 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This annotated bibliography, compiled by Terry J. Hickman in September 1987, provides a comprehensive review of 90 references concerning the [[Woundfin]] (*Plagopterus argentissimus*), an endangered cyprinid minnow endemic to the [[Colorado River Basin]]. The woundfin is a streamlined, silvery...
 > -- *[[AnnotatedBibliographyForTheWou_20385]]*
 
+> This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
+> -- *[[DraftConservationAgreementVirg_18320]]*
+
+> This legal notice from the Sierra Club Legal Defense Fund, dated June 22, 1994, addresses violations of the Endangered Species Act (ESA) related to operation of the [[Quail Creek Reservoir Project]] in the [[Virgin River Basin]], Utah. The document notifies the Secretary of the Interior and Bureau...
+> -- *[[ViolationOfQuailCreekReservoir_18647]]*
+
 ## Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -120,3 +126,5 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[DesertFishesCouncilEighteenthA_12829]]
 - [[VirginSpinedaceLepidomedaMolli_14744]]
 - [[AnnotatedBibliographyForTheWou_20385]]
+- [[DraftConservationAgreementVirg_18320]]
+- [[ViolationOfQuailCreekReservoir_18647]]

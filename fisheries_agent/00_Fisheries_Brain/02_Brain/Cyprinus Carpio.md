@@ -53,6 +53,9 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 > This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
 > -- *[[EarlyFieldNotes_15954]]*
 
+> This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
+> -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
@@ -81,3 +84,4 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[EarlyFieldNotes_15954]]
+- [[AChecklistOfTexasFreshwaterFis_19871]]

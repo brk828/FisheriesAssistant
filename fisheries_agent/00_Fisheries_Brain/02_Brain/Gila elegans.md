@@ -71,6 +71,9 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
 > -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
 
+> This 1986 memorandum from the [[Bureau of Reclamation]] Upper Colorado Regional Office to the [[U.S. Fish and Wildlife Service]] Endangered Species Office proposes collaboration with Dr. W. L. Minckley of [[Arizona State University]] on basin-wide systematic studies of the genus *[[Gila]]*. The...
+> -- *[[FutureGilaWork_11987]]*
+
 ## Mentioned In
 - [[BonytailUpdate_16371]]
 - [[CageCulturingTheEndangeredBony_1999]]
@@ -118,3 +121,4 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[MinutesForDesertFishesRecovery_12506]]
 - [[SonoranDesertExpertsWorkshop_13543]]
 - [[DetailsForStudiesOfTheGenusGil_13739]]
+- [[FutureGilaWork_11987]]

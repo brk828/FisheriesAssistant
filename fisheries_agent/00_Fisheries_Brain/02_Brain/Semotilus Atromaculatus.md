@@ -26,6 +26,9 @@ Semotilus atromaculatus, commonly known as creek chub, is a small freshwater cyp
 > This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
 > -- *[[EvaluationAndRelativeResistanc_19097]]*
 
+> This dissertation investigates the ecology and physiological mechanisms enabling macroinvertebrates to survive in a small south-central Indiana stream ([[Caldwell Hollow]]) that becomes completely dry each summer. The stream fauna is dominated by two aquatic peracarid crustaceans, [[Lirceus...
+> -- *[[TheEcologyOfInvertebratesInAnI_15957]]*
+
 ## Mentioned In
 - [[AProvisionalCheckListOfTheFish_15941]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -37,3 +40,4 @@ Semotilus atromaculatus, commonly known as creek chub, is a small freshwater cyp
 - [[RecordsFromEastTexasOfThreeSpe_1951_09_30]]
 - [[ThePreferredTemperaturesOfThre_14745]]
 - [[EvaluationAndRelativeResistanc_19097]]
+- [[TheEcologyOfInvertebratesInAnI_15957]]

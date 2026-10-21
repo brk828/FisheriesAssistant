@@ -14,6 +14,10 @@ Least Chub (Iotichthys phlegethontis) is a small desert fish species found in we
 > This 1981 correspondence from the Desert Fishes Council Chairman alerts members to grave threats posed by the proposed MX Missile System to aquatic ecosystems throughout central and southern Nevada and west-central Utah. The $33 billion Department of Defense project would construct 200 racetrack...
 > -- *[[MxMissileSystemeffectsOnDesert_20506]]*
 
+> This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
+> -- *[[FishesNativeToOrIntroducedInPa_18945]]*
+
 ## Mentioned In
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[MxMissileSystemeffectsOnDesert_20506]]
+- [[FishesNativeToOrIntroducedInPa_18945]]

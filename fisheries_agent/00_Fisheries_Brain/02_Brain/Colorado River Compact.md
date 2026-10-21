@@ -26,6 +26,12 @@ The Colorado River Compact is the 1922 interstate water allocation agreement tha
 > This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
 > -- *[[PartICurrentSituationPartIiAPr_13306]]*
 
+> This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
+> -- *[[InformationRegardingManagement_16919]]*
+
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
 ## Mentioned In
 - [[HydrologicScenariosForSevereSu_13465]]
 - [[MitigatingImpactsOfASevereSust_20513]]
@@ -35,3 +41,5 @@ The Colorado River Compact is the 1922 interstate water allocation agreement tha
 - [[AgencyRecalcitranceAndEvasionR_20349]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[PartICurrentSituationPartIiAPr_13306]]
+- [[InformationRegardingManagement_16919]]
+- [[RealitiesOfProvidingWaterForEn_20669]]

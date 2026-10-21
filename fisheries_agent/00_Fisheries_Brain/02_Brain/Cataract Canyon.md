@@ -59,6 +59,9 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 > This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
 > -- *[[ColoradoRiverFisheriesInvestig_18481]]*
 
+> The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
+> -- *[[DraftRecoveryGoals_11689]]*
+
 ## Mentioned In
 - [[FeedingActivityAndSpawning_11266]]
 - [[FyAnnualProjectReportGilaTaxon_1993_12_06]]
@@ -81,3 +84,4 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 - [[DraftprotocolForHandlingAndTra_13900]]
 - [[PartManagementConcernsPriority_14724]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
+- [[DraftRecoveryGoals_11689]]

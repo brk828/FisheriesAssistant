@@ -17,6 +17,9 @@ Salmo salar, commonly known as Atlantic salmon, is a highly migratory anadromous
 > Field notes from a fish survey conducted at [[Lake Mjømane]] on November 26-28, 1994. The document records catch data for multiple fish species including [[Coregonus lavaretus]] (whitefish), [[Salmo salar]] (salmon), [[Salvelinus alpinus]] (Arctic char), and other species. Data includes specimen...
 > -- *[[NotesFromLakeMohaveFishEffortF_13745]]*
 
+> This 1953 study by A.N. Svetovidov provides a comprehensive comparative analysis of brain structure across the family [[Gadidae]] (codfishes), examining representatives from three subfamilies: [[Lotinae]], [[Merlucciinae]], and [[Gadinae]]. The research documents detailed morphological descriptions...
+> -- *[[MaterialsOnTheStructureOfTheFi_15061]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[InfluenceOfOxygenConcentration_15087]]
@@ -25,3 +28,4 @@ Salmo salar, commonly known as Atlantic salmon, is a highly migratory anadromous
 - [[TheDevelopmentalRateOfTheGreen_14262]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[NotesFromLakeMohaveFishEffortF_13745]]
+- [[MaterialsOnTheStructureOfTheFi_15061]]

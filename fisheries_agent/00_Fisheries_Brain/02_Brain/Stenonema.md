@@ -14,6 +14,10 @@ auto_enriched: true
 > This article describes the occurrence and life history of late-summer mayflies in Michigan trout streams, with particular focus on [[Stenonema rubrum]] and related species. Written for anglers, it documents the timing, behavior, and identification characteristics of these mayflies that emerge...
 > -- *[[MayfliesInAugust_20287]]*
 
+> This dissertation investigates the ecology and physiological mechanisms enabling macroinvertebrates to survive in a small south-central Indiana stream ([[Caldwell Hollow]]) that becomes completely dry each summer. The stream fauna is dominated by two aquatic peracarid crustaceans, [[Lirceus...
+> -- *[[TheEcologyOfInvertebratesInAnI_15957]]*
+
 ## Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[MayfliesInAugust_20287]]
+- [[TheEcologyOfInvertebratesInAnI_15957]]

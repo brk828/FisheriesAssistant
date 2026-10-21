@@ -14,6 +14,10 @@ The Colorado River Basin Project Act (P.L. 90-537) is the primary legal authorit
 > This document announces public meetings (April 14-17, 1986) regarding the Bureau of Reclamation's Upper Gila Water Supply Study and selection of a proposed action for the Draft Environmental Impact Statement. The study evaluates six alternative plans (including a "No Federal Action" option) to...
 > -- *[[PublicMeetingsAnnoucnementAndP_11475]]*
 
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[PublicMeetingsAnnoucnementAndP_11475]]
+- [[RealitiesOfProvidingWaterForEn_20669]]

@@ -11,5 +11,9 @@ The Price River is a tributary of the Colorado River system where Colorado Squaw
 > This case study examines the conservation status, recovery efforts, and reintroduction programs for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America. Once a dominant predator throughout the [[Colorado River]] system, the species declined dramatically from...
 > -- *[[CaseStudyColoradoRiverSqauwfis_16101]]*
 
+> This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
+> -- *[[FiscalYearWorkPlan_11742]]*
+
 ## Mentioned In
 - [[CaseStudyColoradoRiverSqauwfis_16101]]
+- [[FiscalYearWorkPlan_11742]]

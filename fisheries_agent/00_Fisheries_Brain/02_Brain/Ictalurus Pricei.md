@@ -29,6 +29,9 @@ Ictalurus pricei, commonly known as the Yaqui catfish, is a native North America
 > This paper examines the aquatic habitats and native fish fauna of the Sky Island region in southeastern Arizona, part of the northern [[Madrean Archipelago]]. The combination of basin-and-range topography and orographic rainfall produces isolated perennial streams, springs, and cienegas that...
 > -- *[[SkyIslandAquaticResourcesHabit_15003]]*
 
+> This correspondence from the [[University of Michigan]] [[Museum of Zoology]] Division of Fishes provides expert identification of five catfish specimens submitted by the [[Dexter National Fish Hatchery]] in [[New Mexico]]. The analysis confirms hybridization between [[Yaqui Catfish]] ([[Ictalurus...
+> -- *[[ReportOnYaquiCatfishReceived_15380]]*
+
 ## Mentioned In
 - [[CorrespondenceOnMexicanFishTax_1993_10_21]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -42,3 +45,4 @@ Ictalurus pricei, commonly known as the Yaqui catfish, is a native North America
 - [[ReEvaluationOfTheNativeFishesO_12336]]
 - [[MinutesDesertFishesRecoveryTea_15843]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
+- [[ReportOnYaquiCatfishReceived_15380]]

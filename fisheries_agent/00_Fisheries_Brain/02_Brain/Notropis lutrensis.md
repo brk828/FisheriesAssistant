@@ -62,6 +62,12 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 > This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
 > -- *[[EarlyFieldNotes_15954]]*
 
+> This doctoral dissertation (Oklahoma State University, 1966) investigated how domestic sewage and oil refinery effluents affected the morphological characteristics and population structure of three cyprinid fish species in [[Skeleton Creek]], Oklahoma. Between June 1963 and May 1964, the author...
+> -- *[[TheEffectOfDomesticAndOilRefin_15666]]*
+
+> This proposal, submitted by Arizona State University to the Arizona Game and Fish Department in July 1986, outlines a one-year study to evaluate potential interactions between imperiled native [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]) versus introduced [[Red...
+> -- *[[SpikedaceAndLoachMinnowStudyAP_16483]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -92,3 +98,5 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 - [[LoachMinnow_19034]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[EarlyFieldNotes_15954]]
+- [[TheEffectOfDomesticAndOilRefin_15666]]
+- [[SpikedaceAndLoachMinnowStudyAP_16483]]

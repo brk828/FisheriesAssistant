@@ -29,6 +29,9 @@ Robert Rush Miller was a prominent ichthyologist who collaborated with Carl L. H
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
+> -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
+
 ## Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CommentsOnTheProposedConservat_15239]]
@@ -40,3 +43,4 @@ Robert Rush Miller was a prominent ichthyologist who collaborated with Carl L. H
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[TaxonomicStatusEcologyAndDistr_14514]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[DraftsAndNotesOnTheCyprinidFis_15336]]

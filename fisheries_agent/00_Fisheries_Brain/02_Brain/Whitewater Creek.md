@@ -17,7 +17,11 @@ Whitewater Creek is a tributary of the San Francisco River in Catron County, New
 > This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
 > -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
 
+> This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
+> -- *[[DraftEnvironmentalAssessmentDe_11688]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11552]]
 - [[LoachMinnow_19034]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[DraftEnvironmentalAssessmentDe_11688]]

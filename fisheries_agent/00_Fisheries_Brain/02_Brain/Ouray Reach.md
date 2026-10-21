@@ -11,5 +11,9 @@ Ouray Reach is a study site at river mile 1 on the White River, characterized as
 > This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
 > -- *[[CompletionReportYampawhitePhys_18677]]*
 
+> This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[DevelopmentOfAStandardizedMoni_15549]]*
+
 ## Mentioned In
 - [[CompletionReportYampawhitePhys_18677]]
+- [[DevelopmentOfAStandardizedMoni_15549]]

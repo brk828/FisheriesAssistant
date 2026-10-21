@@ -17,7 +17,11 @@ White-tailed deer (Odocoileus virginianus) is a medium-sized ungulate that inhab
 > **Primary Sampling Purpose**: This chapter provides comprehensive guidance on estimating animal abundance and density across diverse taxa and habitats. The primary objective is to obtain accurate and precise estimates of population size, density, or trends for wildlife management and conservation...
 > -- *[[EstimatingAnimalAbundance_X-e15b3990]]*
 
+> This is the fourth annual progress report (1979-1982) on a comprehensive mammal survey of the [[George Whittell Wildlife Preserve]] in the [[Aravaipa Creek]] watershed, Arizona. The survey documented 60 mammal species as actual, probable, or possible inhabitants, with 45 species confirmed for the...
+> -- *[[ReportOnTheSurveyOfTheMammalsO_11840]]*
+
 ## Mentioned In
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[EstimatingAnimalAbundance_X-e15b3990]]
+- [[ReportOnTheSurveyOfTheMammalsO_11840]]

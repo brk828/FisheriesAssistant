@@ -32,6 +32,9 @@ Notropis stramineus, commonly known as the sand shiner, is a small freshwater cy
 > This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
 > -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
 
+> This doctoral dissertation (Oklahoma State University, 1966) investigated how domestic sewage and oil refinery effluents affected the morphological characteristics and population structure of three cyprinid fish species in [[Skeleton Creek]], Oklahoma. Between June 1963 and May 1964, the author...
+> -- *[[TheEffectOfDomesticAndOilRefin_15666]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -41,3 +44,4 @@ Notropis stramineus, commonly known as the sand shiner, is a small freshwater cy
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[GeneticDifferentiationAmongSub_18497]]
 - [[TheSuitabilitiesAndRelativeRes_19185]]
+- [[TheEffectOfDomesticAndOilRefin_15666]]

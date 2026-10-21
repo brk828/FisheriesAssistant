@@ -65,6 +65,15 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 > Minutes from the Desert Fishes Recovery Team meeting held December 7-8, 1989 in Phoenix, Arizona. The team addressed critical conservation issues for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*), including population...
 > -- *[[MinutesOfDesertFishesRecoveryT_13773]]*
 
+> This draft management plan addresses the conservation and recovery of four endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]]...
+> -- *[[DraftLowerColoradoRiverBasinNa_11664]]*
+
+> This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
+> -- *[[AbstractsFromTheDesertFishesCo_15019]]*
+
+> This 1935 advance print document by George Hebard Maxwell presents an ambitious proposal for water conservation and land reclamation in Arizona and California through comprehensive development of the [[Colorado River]]. The author advocates for the "Arizona Ten Projects"—ten regional development...
+> -- *[[WealthFromWastedWaters_15218]]*
+
 ## Mentioned In
 - [[AlamoDamLandAndWaterProjectsSt_1966]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -93,3 +102,6 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
 - [[ListOfAnimalSpeciesInArizonaTh_11649]]
 - [[MinutesOfDesertFishesRecoveryT_13773]]
+- [[DraftLowerColoradoRiverBasinNa_11664]]
+- [[AbstractsFromTheDesertFishesCo_15019]]
+- [[WealthFromWastedWaters_15218]]

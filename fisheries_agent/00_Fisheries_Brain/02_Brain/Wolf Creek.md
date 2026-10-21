@@ -11,5 +11,9 @@ Wolf Creek is a freshwater stream in Union County, Georgia, located 3.5 miles no
 > This taxonomic paper describes two new species of caddisflies in the genus [[Cheumatopsyche]] (family [[Hydropsychidae]]) from the southeastern United States: *Cheumatopsyche enigma* and *Cheumatopsyche petersi*. The species were collected during limnological studies in [[Georgia]], [[South...
 > -- *[[NewSpeciesOfCheumatopsycheFrom_21085]]*
 
+> This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
+> -- *[[StatewideRoughFishControljobNo_14932]]*
+
 ## Mentioned In
 - [[NewSpeciesOfCheumatopsycheFrom_21085]]
+- [[StatewideRoughFishControljobNo_14932]]

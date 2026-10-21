@@ -35,6 +35,12 @@ The Grand Canyon Protection Act is a federal mandate that requires ecosystem-bas
 > This document presents the Fiscal Year 1998 Annual Monitoring and Research Plan for the [[Grand Canyon Monitoring and Research Center]] (GCMRC), representing the first year of implementation of the Long-Term Monitoring and Research Strategic Plan (1998-2002). The plan addresses monitoring and...
 > -- *[[FiscalYearAnnualMonitoringAndR_17765]]*
 
+> This draft management plan addresses the conservation and recovery of four endangered "big-river" fish species in the [[Lower Colorado River Basin]]: [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]]...
+> -- *[[DraftLowerColoradoRiverBasinNa_11664]]*
+
+> This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
+> -- *[[InformationRegardingManagement_16919]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
@@ -46,3 +52,5 @@ The Grand Canyon Protection Act is a federal mandate that requires ecosystem-bas
 - [[IndigenousBigriverFishesColora_18295]]
 - [[LongtermLimnologicalAndWaterQu_17092]]
 - [[FiscalYearAnnualMonitoringAndR_17765]]
+- [[DraftLowerColoradoRiverBasinNa_11664]]
+- [[InformationRegardingManagement_16919]]

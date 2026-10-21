@@ -17,7 +17,11 @@ Coconino County is a county in northern Arizona that was the focus of fish colle
 > This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
 > -- *[[EarlyFieldNotes_15954]]*
 
+> This Biological Opinion, issued by the [[U.S. Fish and Wildlife Service]] on August 2, 1995 (revised November 20, 1995), evaluates the effects of Federal Aid's support to the [[Arizona Game and Fish Department]] for stocking catchable [[Rainbow Trout]] (*Oncorhynchus mykiss*) into three reservoirs...
+> -- *[[BiologicalOpinionOfFederalAids_11920]]*
+
 ## Mentioned In
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[SummaryOfCollectingLocalitiesF_18502]]
 - [[EarlyFieldNotes_15954]]
+- [[BiologicalOpinionOfFederalAids_11920]]

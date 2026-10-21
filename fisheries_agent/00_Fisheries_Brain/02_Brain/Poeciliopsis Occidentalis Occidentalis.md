@@ -38,6 +38,9 @@ Poeciliopsis occidentalis occidentalis, commonly known as the Gila Topminnow, is
 > This May 1995 correspondence from the [[Southwest Center for Biological Diversity]] to the [[Bureau of Land Management]] and [[Arizona Game and Fish Department]] raises critical concerns about proposed [[Beaver]] ([[Castor canadensis frondator]]) reintroduction to the [[San Pedro River]]. The...
 > -- *[[BeaverScoping_18972]]*
 
+> The [[Arizona Fishery Resources Office]] (AzFRO) successfully restored [[Gila Topminnow]] habitat at the Bylas Springs complex on the [[San Carlos Indian Reservation]] through a multi-agency partnership. The project addressed the near-extinction of [[Poeciliopsis occidentalis occidentalis]], once...
+> -- *[[NewFishHabitatRestorationAndPa_11759]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -50,3 +53,4 @@ Poeciliopsis occidentalis occidentalis, commonly known as the Gila Topminnow, is
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
 - [[BeaverScoping_18972]]
+- [[NewFishHabitatRestorationAndPa_11759]]

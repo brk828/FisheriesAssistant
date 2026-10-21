@@ -26,6 +26,9 @@ Wendell Minckley was a prominent ichthyologist and desert fish biologist whose e
 > This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
 > -- *[[SonoranDesertExpertsWorkshop_13543]]*
 
+> This document comprises three grant proposals submitted by [[American Rivers]] to the [[National Fish and Wildlife Foundation]] on December 30, 1993. The proposals address: (1) native fish habitat assessment in the [[Gila River]] watershed using historical distribution data; (2) floodplain habitat...
+> -- *[[AmericanRiversProposalFundingR_17975]]*
+
 ## Mentioned In
 - [[AquaticCoordinationTeamMeeting_1991_10_28]]
 - [[CoveRotenoneScheduleChange_1990_09_12]]
@@ -39,3 +42,4 @@ Wendell Minckley was a prominent ichthyologist and desert fish biologist whose e
 - [[ReviewOfTheEndangeredFishResea_1991_10_03]]
 - [[RoundtableDiscussionOnStreamfl_1994_12_22]]
 - [[SonoranDesertExpertsWorkshop_13543]]
+- [[AmericanRiversProposalFundingR_17975]]

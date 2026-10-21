@@ -23,6 +23,9 @@ Threatened and Endangered Species (TES) in fish science refers to fish populatio
 > This document is a 1994 U.S. Fish and Wildlife Service **Station Profile** for the **Bozeman Fish Technology Center (FTC)**, located in Bozeman, Montana. Established in 1892 under the Congressional Appropriation Act (27 Stat. 361), the Center operates as a research, culture, and technical-support...
 > -- *[[StationProfileBozemanFtc_1994]]*
 
+> This document provides comprehensive guidelines for developing fishery management plans for various management units including military installations, Indian reservations, and federal lands managed by agencies such as the National Park Service (NPS), Department of Defense (DOD), and U.S. Forest...
+> -- *[[FisheryManagementPlanGuideline_13315]]*
+
 ## Mentioned In
 - [[AmendmentLetterExtendingThreat_1994_03_11]]
 - [[CommentsOnFishAndWildlifeServi_1997_07_08]]
@@ -36,3 +39,4 @@ Threatened and Endangered Species (TES) in fish science refers to fish populatio
 - [[LetterToWLMinckleyRegardingThe_1994_05_19]]
 - [[StationProfileBozemanFtc_1994]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
+- [[FisheryManagementPlanGuideline_13315]]

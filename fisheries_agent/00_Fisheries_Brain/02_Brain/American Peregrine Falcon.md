@@ -32,6 +32,9 @@ I appreciate the detailed context provided, but I must note that the American Pe
 > SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
 > -- *[[BiologicalEvaluationOfTheAppro_15074]]*
 
+> This consensus report presents findings from a scientific peer review panel convened by the American Institute of Biological Sciences (AIBS) to evaluate the draft Conservation Strategy for the [[Lower Colorado River]] Multi-Species Conservation Program (LCR MSCP). The panel met July 12, 1999 in Las...
+> -- *[[DraftConsesusReportOnTheDraftC_13540]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
@@ -39,3 +42,4 @@ I appreciate the detailed context provided, but I must note that the American Pe
 - [[PapagoParkMilitaryReservationB_13351]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[BiologicalEvaluationOfTheAppro_15074]]
+- [[DraftConsesusReportOnTheDraftC_13540]]

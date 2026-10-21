@@ -32,6 +32,9 @@ The Colorado River Storage Project (CRSP) is a major federal water development i
 > This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
 > -- *[[ReservoirFisheriesInvestigatio_14590]]*
 
+> This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
+> -- *[[RealitiesOfProvidingWaterForEn_20669]]*
+
 ## Mentioned In
 - [[EstablishingAColoradoRiverCons_20111]]
 - [[StationProfileHotchkissNationa_19549]]
@@ -42,3 +45,4 @@ The Colorado River Storage Project (CRSP) is a major federal water development i
 - [[LakePowellFisheriesInvestigati_14595]]
 - [[PartICurrentSituationPartIiAPr_13306]]
 - [[ReservoirFisheriesInvestigatio_14590]]
+- [[RealitiesOfProvidingWaterForEn_20669]]
