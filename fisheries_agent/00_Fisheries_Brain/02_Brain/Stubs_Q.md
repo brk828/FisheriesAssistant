@@ -823,6 +823,9 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 > This correspondence from the [[Desert Fishes Recovery Team]] to the U.S. Fish and Wildlife Service Regional Director documents recommendations and action items from their April 17, 1986 meeting in Tucson, Arizona. The team addresses critical conservation issues for multiple endangered desert fish...
 > -- *[[ItemsToBringToYourAttentionAft_13731]]*
 
+> This U.S. Fish and Wildlife Service Biological Opinion (dated April 15, 1994) addresses the transportation and delivery of [[Colorado River]] water through the [[Central Arizona Project]] (CAP) aqueduct to water users in the [[Gila River Basin]] in Arizona and New Mexico. The opinion focuses...
+> -- *[[SummaryBiologicalOpinionOnTran_11705]]*
+
 ### Mentioned In
 - [[HabitatsOfNorthAmericanDesertF_1981]]
 - [[LetterRegardingQuitobaquitoDes_1987_01_15]]
@@ -833,6 +836,7 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 - [[AllozymicVariationInDesertPupf_19162]]
 - [[TheDesertPupfishOfOrganPipeNat_18555]]
 - [[ItemsToBringToYourAttentionAft_13731]]
+- [[SummaryBiologicalOpinionOnTran_11705]]
 
 ## Quitobaquito Springs
 <!-- fm: auto_enriched: true -->
@@ -883,6 +887,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
 > -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
 
+> This document is an unfinished draft bibliography compiled by a researcher documenting literature on fishes in Arizona. It contains hundreds of citations spanning from the 1850s through 1988, covering taxonomic descriptions, ecological studies, fisheries management reports, endangered species...
+> -- *[[DraftbibliographyOnFishesInAri_12263]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -903,6 +910,7 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[IntraofficeMemoFishSurveys_13821]]
 - [[PopulationEcologyOfTheSonoranM_21071]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
+- [[DraftbibliographyOnFishesInAri_12263]]
 
 ## Quitobaquito Springs And Pond
 <!-- fm: auto_enriched: true -->

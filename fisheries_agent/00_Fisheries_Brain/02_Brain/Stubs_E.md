@@ -228,6 +228,18 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 > This proposal, submitted by Arizona State University to the Arizona Game and Fish Department in July 1986, outlines a one-year study to evaluate potential interactions between imperiled native [[Spikedace]] ([[Meda fulgida]]) and [[Loach Minnow]] ([[Tiaroga cobitis]]) versus introduced [[Red...
 > -- *[[SpikedaceAndLoachMinnowStudyAP_16483]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
+> This U.S. Fish and Wildlife Service Biological Opinion (dated April 15, 1994) addresses the transportation and delivery of [[Colorado River]] water through the [[Central Arizona Project]] (CAP) aqueduct to water users in the [[Gila River Basin]] in Arizona and New Mexico. The opinion focuses...
+> -- *[[SummaryBiologicalOpinionOnTran_11705]]*
+
+> This document is an unfinished draft bibliography compiled by a researcher documenting literature on fishes in Arizona. It contains hundreds of citations spanning from the 1850s through 1988, covering taxonomic descriptions, ecological studies, fisheries management reports, endangered species...
+> -- *[[DraftbibliographyOnFishesInAri_12263]]*
+
+> The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
+> -- *[[FishAndWildlifeServiceFailsToA_16901]]*
+
 ### Mentioned In
 - [[BiologicalOpinionOnEmergencyWa_1994_01_31]]
 - [[CommentsOnTheDraftActivityPlan_13812]]
@@ -267,6 +279,10 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 - [[BiologicalOpinionForRepairAndo_11904]]
 - [[DraftEnvironmentalAssessmentDe_11688]]
 - [[SpikedaceAndLoachMinnowStudyAP_16483]]
+- [[TransportationAndDeliveryOfCen_11638]]
+- [[SummaryBiologicalOpinionOnTran_11705]]
+- [[DraftbibliographyOnFishesInAri_12263]]
+- [[FishAndWildlifeServiceFailsToA_16901]]
 
 ## Eagle Creek Watershed
 <!-- fm: auto_enriched: true -->
@@ -1179,6 +1195,18 @@ Echo Reservoir is a Utah water body where fish introductions occurred. This sour
 ### Mentioned In
 - [[NoteSurDesFormationsDeTufCalca_1951]]
 
+## Ecological Consultants Inc.
+
+### Summary
+Ecological Consultants Inc. was a contractor that worked with the Colorado River Fishes Recovery Team during the 1977-1987 period. The company was listed among the consultants supporting the Team's recovery efforts for endangered Colorado River fishes.
+
+### Context
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
+### Mentioned In
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
+
 ## Ecological Efficiency
 <!-- fm: auto_enriched: true -->
 
@@ -1251,8 +1279,12 @@ An ecological niche in fish science refers to the specific role, habitat, and re
 > - **Subpermit Extension:** The subpermit's expiration date is extended from December 15, 1993 to **December 31, 1994**. - **Activity Restrictions:** Permit holders may continue only the same activities authorized in 1993; any new or modified activities require an amended subpermit prior to initia...
 > -- *[[AmendmentLetterExtendingThreat_1994_03_11]]*
 
+> This document is a formal review letter from the [[U.S. Fish and Wildlife Service]] [[Ecological Services]] office in Phoenix, Arizona, dated July 27, 1989, addressed to the [[Arizona Game and Fish Department]]. The letter provides detailed comments on a draft final report examining interactions...
+> -- *[[ReviewOfTheDraftReportEntitled_12981]]*
+
 ### Mentioned In
 - [[AmendmentLetterExtendingThreat_1994_03_11]]
+- [[ReviewOfTheDraftReportEntitled_12981]]
 
 ## Ecological Society Of America
 <!-- fm: auto_enriched: true -->
@@ -1651,8 +1683,12 @@ EDTA Titration is a chemical analysis method used to measure water hardness by d
 > - **Central dispute:** Whether *Lejosophis* Jan, 1863 and *Cyclagras* Cope, 1885 are objective synonyms (sharing the same type-species, *Xenodon gigas*) — as argued by [[Emmett Reid Dunn]] (1944) and supported by [[Alphonse Richard Hoge]] (1958) — or whether they are distinct genera with differen...
 > -- *[[ANoteOnTheGenericNamesCyclagra_11187]]*
 
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
 ### Mentioned In
 - [[ANoteOnTheGenericNamesCyclagra_11187]]
+- [[BriefBographiesOfLeadingIchthy_12677]]
 
 ## Edward O. Wilson
 <!-- fm: auto_enriched: true -->
@@ -1819,6 +1855,18 @@ EDTA Titration is a chemical analysis method used to measure water hardness by d
 ### Mentioned In
 - [[SoutheasternSocietyOfIchthyolo_20882]]
 
+## Edwin Chapin Starks
+
+### Summary
+Edwin Chapin Starks (1867-1932) made his most impressive contribution in the field of fish osteology, producing descriptive osteologies beautifully illustrated by his wife. His influential work "Synonymy of the Fish Skeleton" (1907) became an important reference for understanding fish skeletal anatomy and terminology.
+
+### Context
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
+### Mentioned In
+- [[BriefBographiesOfLeadingIchthy_12677]]
+
 ## Edwin P. Pister
 <!-- fm: auto_enriched: true -->
 
@@ -1845,10 +1893,14 @@ The Eel River was the location of Cedar Creek Hatchery in California. The catast
 > This comprehensive study evaluates California's catchable-sized trout stocking program from 1954-1958, during which approximately seven million 7-to-8-inch [[Rainbow Trout]] (Salmo gairdnerii) were stocked annually at a cost of $1,366,000. The research developed rapid, inexpensive survey methods to...
 > -- *[[CaliforniaCatchableTroutFisher_14146]]*
 
+> This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
+> -- *[[AuthortitleIndexToInlandFisher_14367]]*
+
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[TheCaliforniaSturgeon_17339]]
 - [[CaliforniaCatchableTroutFisher_14146]]
+- [[AuthortitleIndexToInlandFisher_14367]]
 
 ## Eelgrass
 <!-- fm: auto_enriched: true -->
@@ -2061,6 +2113,18 @@ Ege conducted a classic 1939 taxonomic revision of Anguilla species that establi
 
 ### Mentioned In
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
+
+## Eigenmann
+
+### Summary
+Eigenmann (along with Kennedy) made field observations of Biotodoma cupido's reproductive behavior in the wild. This source cites Eigenmann and Kennedy's observations that the species is a mouthbrooder incubating eggs within its gill chambers, though this reproductive mode remains unconfirmed in captivity and represents an unusual behavior for cichlids if true.
+
+### Context
+> This article by Paul V. Loiselle discusses [[Biotodoma cupido]], a South American cichlid first imported to Germany in 1935 and reintroduced to United States aquarists. The species presents maintenance challenges requiring specific water conditions and has steadfastly refused to reproduce in...
+> -- *[[TheCupidoCichlid_16188]]*
+
+### Mentioned In
+- [[TheCupidoCichlid_16188]]
 
 ## Eigenmann And Beeson 1894
 <!-- fm: auto_enriched: true -->
@@ -2489,6 +2553,18 @@ El Salto Creek is a Mexican stream inhabited by Gila with variable tooth formula
 
 ### Mentioned In
 - [[TheInterdependenceOfArcheology_11354]]
+
+## El Vado Dam
+
+### Summary
+El Vado Dam is a major water storage facility in the Rio Grande basin with a capacity of 186,000 acre-feet. It is one of several dams that comprise the water management infrastructure affecting flow conditions and habitat for the Rio Grande Silvery Minnow.
+
+### Context
+> This draft Environmental Assessment evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (Hybognathus amarus) pursuant to section 4 of the Endangered Species Act. The document responds to a February 22, 1999 court order (Forest Guardians and Defenders of...
+> -- *[[DraftEnvironmentalAssessmentDe_13207]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentDe_13207]]
 
 ## Elaeagnus angustifolia
 
@@ -3038,12 +3114,16 @@ Elephant Butte Reservoir is a large impoundment on the Rio Grande in New Mexico 
 > This 1994 status assessment documents the dramatic decline of native fish fauna in the [[Middle Rio Grande]] between Espanola and [[Elephant Butte Reservoir]], New Mexico. Of 45 fish species known historically, only 17 (38%) are native, with 6 (11%) endemic to the system. Seven native species have...
 > -- *[[FishFaunaOfTheMiddleRioGrandeS_15005]]*
 
+> This draft Environmental Assessment evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (Hybognathus amarus) pursuant to section 4 of the Endangered Species Act. The document responds to a February 22, 1999 court order (Forest Guardians and Defenders of...
+> -- *[[DraftEnvironmentalAssessmentDe_13207]]*
+
 ### Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
 - [[FirstAnnualMeeting_1993_11_30]]
 - [[EndangeredAndThreatenedWildlif_11651]]
 - [[FishFaunaOfTheMiddleRioGrandeS_15005]]
+- [[DraftEnvironmentalAssessmentDe_13207]]
 
 ## Elephant Mountain
 
@@ -3466,11 +3546,15 @@ Elmidae, or riffle beetles (Coleoptera), were found at all sampling stations in 
 > This comprehensive limnological study examines the phenomenon of metalimnetic oxygen maxima in 54 lakes worldwide, documenting 98 separate instances where oxygen concentrations exceeded 12.7 mg/L (the saturation value at 4°C). The research establishes a classification system for plus-heterograde...
 > -- *[[FurtherStudiesOnTheMetalimneti_15723]]*
 
+> This document describes the intensive hatchery operations for [[Muskellunge]] (Esox masquinongy) conducted by the New York State Conservation Department at [[Bemus Point]] on [[Chautauqua Lake]]. The operation involves collecting eggs from wild fish through stripping, incubating approximately...
+> -- *[[MuskalongemakingMuskies_11361]]*
+
 ### Mentioned In
 - [[AnEcologicObservatio_1959]]
 - [[WeedControlPossibilitiesInMass_14648]]
 - [[GambusiaTheFishDestroyer_15551]]
 - [[FurtherStudiesOnTheMetalimneti_15723]]
+- [[MuskalongemakingMuskies_11361]]
 
 ## Elodea Canadensis
 <!-- fm: auto_enriched: true -->
@@ -4155,6 +4239,18 @@ Endangered Colorado River fishes refer to native fish species in the Colorado Ri
 - [[EstablishingACaptiveBroodstock_18727]]
 - [[ReproductionAndGrowthOfThePahr_15649]]
 
+## Endangered Desert Pupfish
+
+### Summary
+The Endangered Desert Pupfish is a Federally-listed fish species with remnant populations persisting in isolated ciénega habitats in northern Mexico, southern Arizona, and California. The ecosystem plan identifies recovery of this species as a priority conservation goal.
+
+### Context
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
+### Mentioned In
+- [[FinalDraftEcosystemPlanForTheL_11674]]
+
 ## endangered fish conservation
 <!-- fm: auto_enriched: true -->
 
@@ -4540,6 +4636,18 @@ Endangered Freshwater Fish Conservation encompasses the scientific and managemen
 
 ### Mentioned In
 - [[FishSamplingAtAsuResearchParkA_19405]]
+
+## Endangered Southwestern Willow Flycatcher
+
+### Summary
+The Endangered Southwestern Willow Flycatcher is a Federally-listed neotropical migrant bird that has become scarce due to loss of native riparian habitats in the Lower Colorado River Ecoregion. The plan identifies preventing extinction of this species as a priority, with populations now concentrated in remaining sizable stands of native riparian vegetation like those on Bill Williams River National Wildlife Refuge.
+
+### Context
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
+### Mentioned In
+- [[FinalDraftEcosystemPlanForTheL_11674]]
 
 ## endangered species
 <!-- fm: auto_enriched: true -->
@@ -4940,6 +5048,39 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This July 16, 1990 memorandum from the U.S. Fish and Wildlife Service Field Supervisor to the Bureau of Land Management State Director announces the decision to halt designation of experimental nonessential populations of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert...
 > -- *[[ExperimentalNonessentialPopula_11852]]*
 
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11612]]*
+
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
+> This Federal Register notice announces receipt of multiple permit applications under Section 10(c) of the [[Endangered Species Act]] of 1973 for activities involving endangered species. Among the applications, the [[University of California]] La Jolla Department of Biology requested permits for...
+> -- *[[FishAndWildlifeServiceNoticeOf_11728]]*
+
+> This U.S. Fish and Wildlife Service document from January 1979 describes the status and conservation efforts for four native fish species of the [[Colorado River]] system that have declined dramatically due to habitat modification. The [[Colorado River Fishes Recovery Team]], formed in 1974, seeks...
+> -- *[[WantedForTheFutureTheseNativeF_13295]]*
+
+> Executive Order 13112, issued February 3, 1999, establishes comprehensive federal policy for preventing introduction and controlling spread of [[Invasive Species]] in the [[United States]]. The order creates the [[Invasive Species Council]] co-chaired by the Secretaries of Interior, Agriculture,...
+> -- *[[ExecutiveOrderInvasiveSpeices_13569]]*
+
+> This 1989 correspondence from the U.S. Fish and Wildlife Service Regional Director clarifies the statutory authority for establishing recovery goals for three endangered Colorado River fish species: [[Colorado Squawfish]], [[Humpback Chub]], and [[Bonytail Chub]]. The letter asserts that under...
+> -- *[[UsFishAndWildlifeServiceAuthor_14029]]*
+
+> This correspondence documents a 1988 exchange between the [[Desert Fishes Council]] (DFC) and the [[U.S. Fish and Wildlife Service]] (FWS) regarding the [[Colorado River Endangered Fishes Recovery Implementation Program]]. The exchange addresses concerns about how DFC's December 9, 1986 review...
+> -- *[[ReSteveLanigansCommentsConcern_14142]]*
+
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
+> This document comprises U.S. Fish and Wildlife Service memoranda and guidelines from 1985 establishing standardized procedures for developing and implementing recovery plans for federally listed endangered and threatened species under the Endangered Species Act of 1973, as amended. The guidelines...
+> -- *[[EndangeredAndThreatenedSpecies_15998]]*
+
+> The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
+> -- *[[FishAndWildlifeServiceFailsToA_16901]]*
+
 ### Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -5335,6 +5476,17 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[ExecutiveSummary_18726]]
 - [[FormalReviewcrticialHabitatOfT_20672]]
 - [[ExperimentalNonessentialPopula_11852]]
+- [[PartEndangeredAndThreatenedWil_11612]]
+- [[TransportationAndDeliveryOfCen_11638]]
+- [[FinalDraftEcosystemPlanForTheL_11674]]
+- [[FishAndWildlifeServiceNoticeOf_11728]]
+- [[WantedForTheFutureTheseNativeF_13295]]
+- [[ExecutiveOrderInvasiveSpeices_13569]]
+- [[UsFishAndWildlifeServiceAuthor_14029]]
+- [[ReSteveLanigansCommentsConcern_14142]]
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[EndangeredAndThreatenedSpecies_15998]]
+- [[FishAndWildlifeServiceFailsToA_16901]]
 
 ## Endangered Species Act - Colorado River Basin Fishes
 <!-- fm: auto_enriched: true -->
@@ -5872,6 +6024,18 @@ Endangered Species Reintroduction in fish science refers to the deliberate trans
 
 ### Mentioned In
 - [[LetterConfirmingMeetingOnConse_1992_12_07]]
+
+## Endangered Yuma Clapper Rail
+
+### Summary
+The Endangered Yuma Clapper Rail is a Federally-listed wetland species targeted for recovery in the Lower Colorado River Ecoregion. The plan calls for recovery efforts through habitat management and population assessment.
+
+### Context
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
+### Mentioned In
+- [[FinalDraftEcosystemPlanForTheL_11674]]
 
 ## Endemic Aquatic Fauna
 <!-- fm: auto_enriched: true -->
@@ -6968,8 +7132,12 @@ Epinephelus argus is the scientific name for the Bluespotted Grouper. This sourc
 > - **Squirrelfishes (Holocentridae)**: Lumped as *Holocentrus* spp. due to close resemblance among species; most individuals identified as [[Holocentrus Rufus]]. - **Groupers and hinds (Serranidae)**: Lumped as *Epinephelus*/*Mycteroperca* spp.; most individuals were [[Epinephelus Striatus]] (Nass...
 > -- *[[DiurnalVariabilityInAFishAssem_1981]]*
 
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
 ### Mentioned In
 - [[DiurnalVariabilityInAFishAssem_1981]]
+- [[ResultsOfTheTektiteProgramEcol_17141]]
 
 ## Epiphytic Orchid Water Relations
 <!-- fm: auto_enriched: true -->
@@ -7561,12 +7729,16 @@ The Escalante Reach (RMI 319.4-301.7) is a section of the middle Green River whe
 > This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
 > -- *[[RealitiesOfProvidingWaterForEn_20669]]*
 
+> This third annual progress report documents the fisheries and limnological investigation of [[Lake Powell]] from February 1965 to January 1966, during the reservoir's early filling phase. The study, financed under Section 8 of the Colorado River Storage Act, was conducted cooperatively by the Utah...
+> -- *[[GlenCanyonReservoirPostimpound_14587]]*
+
 ### Mentioned In
 - [[TechnicalReportAnalyzingTheImp_14024]]
 - [[ReservoirFisheriesInvestigatio_14589]]
 - [[GlenCanyonNationalRecreationAr_18334]]
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[RealitiesOfProvidingWaterForEn_20669]]
+- [[GlenCanyonReservoirPostimpound_14587]]
 
 ## Escalante State Wildlife Area
 
@@ -7832,6 +8004,18 @@ Esox reicherti is the scientific name for Amur Pike, an Asian species. This sour
 
 ### Mentioned In
 - [[FishIntroductionsGoodManagemen_17630]]
+
+## ESPN
+
+### Summary
+ESPN (river miles 60.7-60.8) is an eddy and return channel habitat behind reattachment sand bars on the Colorado River. This site was identified as one of the most-used locations by radiotagged adult humpback chub during monitoring near the Little Colorado River confluence area.
+
+### Context
+> This memorandum from BIO/WEST, Inc. (October 18, 1991) summarizes preliminary findings from the Endangered Fish Research Program studying [[Gila cypha]] (humpback chub) in the mainstem [[Colorado River]] through [[Grand Canyon]]. The research program, conducted in cooperation with the [[U.S. Fish...
+> -- *[[SummaryOfEndangeredFishResearc_13612]]*
+
+### Mentioned In
+- [[SummaryOfEndangeredFishResearc_13612]]
 
 ## Esrom Lake
 <!-- fm: auto_enriched: true -->
@@ -8101,6 +8285,18 @@ Estuarine fish ecology is the study of fish populations, communities, and ecolog
 
 ### Mentioned In
 - [[TheFeedingEcologyOfJuvenileMul_17669]]
+
+## Estuarine Pollution
+
+### Summary
+Estuarine pollution refers to contamination of estuarine waters, particularly by industrial waste waters containing heavy metals like zinc that are discharged into these transitional zones. This study addressed the practical problem of assessing toxicity risks to migrating salmon in estuaries where such effluents may be present, finding that much greater zinc concentrations can be tolerated in moderately saline estuarine waters than in upstream fresh water.
+
+### Context
+> This 1964 experimental study by Herbert and Wakeford at the [[Water Pollution Research Laboratory]] investigated how salinity affects the toxicity of [[Zinc Sulphate]] to [[Atlantic Salmon]] smolts and yearling [[Rainbow Trout]]. The research addresses a critical management question: how to assess...
+> -- *[[TheSusceptibilityOfSalmonidFis_16704]]*
+
+### Mentioned In
+- [[TheSusceptibilityOfSalmonidFis_16704]]
 
 ## Estuarine Productivity
 <!-- fm: auto_enriched: true -->
@@ -8804,6 +9000,9 @@ Etheostoma spectabile, commonly known as the Orangespotted Darter, is a small No
 > This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
 > -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
 
+> This document describes a fish collection survey conducted on [[Carnahan Creek]], a small prairie stream tributary to the [[Big Blue River]] near Stockdale, Kansas. Six collection stations were established along the stream from its mouth to approximately 2 miles upstream. The survey documented 17...
+> -- *[[SurveyOfCarnahanCreekPottawato_15864]]*
+
 ### Mentioned In
 - [[AReassessmentOfTheDistribution_1980]]
 - [[EtheostomaRadiosumOrangebellyD_1986]]
@@ -8818,6 +9017,7 @@ Etheostoma spectabile, commonly known as the Orangespotted Darter, is a small No
 - [[EvaluationAndRelativeResistanc_19097]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[ObservationsOnTheFoodHabitsOfD_20140]]
+- [[SurveyOfCarnahanCreekPottawato_15864]]
 
 ## Etheostoma Squamiceps
 <!-- fm: auto_enriched: true -->

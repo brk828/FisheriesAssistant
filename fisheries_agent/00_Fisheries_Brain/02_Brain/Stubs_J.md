@@ -411,6 +411,18 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 - [[RosterLowerBasinRecoveryImplem_21095]]
 - [[TheBiologyOfTheRazorbackSucker_1979_10_22]]
 
+## James Ellsworth DeKay
+
+### Summary
+James Ellsworth DeKay (1792-1852) published a five-volume work on New York zoology between 1842 and 1844 that described approximately 1,600 species of vertebrates and invertebrates. His work was part of the American natural history survey era of the mid-19th century.
+
+### Context
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
+### Mentioned In
+- [[BriefBographiesOfLeadingIchthy_12677]]
+
 ## James F. Collins
 <!-- fm: auto_enriched: true -->
 
@@ -536,10 +548,14 @@ Japan is the country where both killifish species documented in this review occu
 > This 1929 paper by [[Carl L. Hubbs]] examines the relationship between hydrographic conditions and deep-sea fish fauna in two contrasting isolated marine basins of the Western Pacific: the [[Sea of Japan]] and the [[Sulu Sea]] complex. The study demonstrates how physical barriers (shallow straits)...
 > -- *[[TheHydrographicAndFaunalIndepe_19989]]*
 
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
 ### Mentioned In
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
 - [[ARevisionOfTheViviparousPerche_19963]]
 - [[TheHydrographicAndFaunalIndepe_19989]]
+- [[BriefBographiesOfLeadingIchthy_12677]]
 
 ## Japanese Livebearing Snail
 <!-- fm: auto_enriched: true -->
@@ -736,6 +752,18 @@ Jeffrey Pine (Pinus jeffreyi) is the dominant conifer of the Jeffrey Pine Forest
 
 ### Mentioned In
 - [[TheMonoBasin_15632]]
+
+## Jemez Canyon Dam
+
+### Summary
+Jemez Canyon Dam is a water storage facility in the Rio Grande basin with a capacity of 113,100 acre-feet. It is one of several major facilities that comprise the water management infrastructure affecting flow conditions in the Middle Rio Grande where the Rio Grande Silvery Minnow persists.
+
+### Context
+> This draft Environmental Assessment evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (Hybognathus amarus) pursuant to section 4 of the Endangered Species Act. The document responds to a February 22, 1999 court order (Forest Guardians and Defenders of...
+> -- *[[DraftEnvironmentalAssessmentDe_13207]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentDe_13207]]
 
 ## Jemez River
 
@@ -1096,8 +1124,12 @@ Johannes Schmidt was a researcher who discovered the spawning areas of fresh-wat
 > This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
 > -- *[[Eel_14169]]*
 
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
 ### Mentioned In
 - [[Eel_14169]]
+- [[BriefBographiesOfLeadingIchthy_12677]]
 
 ## John Allen
 <!-- fm: auto_enriched: true -->
@@ -1158,6 +1190,18 @@ John E. Cushing was a researcher affiliated with the University of California Sa
 
 ### Mentioned In
 - [[CommentsOnTheProposedRejection_14473]]
+
+## John Edward Holbrook
+
+### Summary
+John Edward Holbrook (1794-1871) produced the "Ichthyology of South Carolina" (1855, revised 1860), which contained 182 pages and 27 colored plates. His work was part of the regional fish fauna documentation efforts in the American natural history survey era.
+
+### Context
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
+### Mentioned In
+- [[BriefBographiesOfLeadingIchthy_12677]]
 
 ## John Emlen
 <!-- fm: auto_enriched: true -->
@@ -1295,11 +1339,15 @@ John Otterbein Snyder was a prominent ichthyologist and fisheries scientist who 
 > This 1918 taxonomic description by [[John Otterbein Snyder]] documents the fish fauna of the [[Mohave River]] in southern California, identifying a single species belonging to the genus *[[Siphateles]]*. The author describes *Siphateles mohavensis* as a new species distinct from geographically...
 > -- *[[TheFishesOfMohaveRiverCaliforn_21253]]*
 
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[SnyderichthysANewGenericNameFo_1944_11_22]]
 - [[TheFishesOfMohaveRiverCaliforn_21253]]
+- [[BriefBographiesOfLeadingIchthy_12677]]
 
 ## John R. Calaprice
 
@@ -2359,6 +2407,18 @@ Juniper-Cross Mountain refers to water rights on the Yampa River that were the f
 
 ### Mentioned In
 - [[SummaryjanuaryManagementGroupM_21002]]
+
+## Juniper-Cross Mountain Project
+
+### Summary
+The Juniper-Cross Mountain Project was one of several proposed water development projects identified by the Recovery Team as a threat to endangered Colorado River fishes. It was listed among projects that could cause water depletion affecting the habitat of species like the Colorado Squawfish, Humpback Chub, Bonytail Chub, and Razorback Sucker.
+
+### Context
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
+### Mentioned In
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
 
 ## Juniperus deppeana
 

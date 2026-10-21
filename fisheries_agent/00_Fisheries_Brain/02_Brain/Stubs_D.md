@@ -490,6 +490,18 @@ This study documented impacts of Flaming Gorge Dam on razorback sucker reproduct
 ### Mentioned In
 - [[AReportOnTheLakesOfTheTippecan_11316]]
 
+## Dana Expedition
+
+### Summary
+The Dana Expedition was a round-the-world oceanographic expedition conducted from 1928-1930 led by Johannes Schmidt. This expedition was one of 25 expeditions Schmidt conducted that contributed to solving the mystery of eel reproduction and life history.
+
+### Context
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
+### Mentioned In
+- [[BriefBographiesOfLeadingIchthy_12677]]
+
 ## Dandrea Spring
 
 ### Summary
@@ -602,6 +614,12 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 > This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
 > -- *[[ReservoirFisheriesInvestigatio_14590]]*
 
+> This document describes the intensive hatchery operations for [[Muskellunge]] (Esox masquinongy) conducted by the New York State Conservation Department at [[Bemus Point]] on [[Chautauqua Lake]]. The operation involves collecting eggs from wild fish through stripping, incubating approximately...
+> -- *[[MuskalongemakingMuskies_11361]]*
+
+> This report documents the 1979 pre-operational ecological baseline for [[Twin Lakes]], Colorado, prior to the 1981 commissioning of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study encompasses comprehensive physical, chemical, and biological limnology of a two-lake mountain system at 2802 m...
+> -- *[[StudiesOfTheEffectsOfOperating_12648]]*
+
 ### Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[Craspedacusta Sowerbii in Pymatuning Reservoir]]
@@ -619,6 +637,8 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 - [[LakePowellFisheriesInvestigati_14595]]
 - [[PrimaryProductivityCAtTwinLake_12652]]
 - [[ReservoirFisheriesInvestigatio_14590]]
+- [[MuskalongemakingMuskies_11361]]
+- [[StudiesOfTheEffectsOfOperating_12648]]
 
 ## Daphnia ambigua
 <!-- fm: auto_enriched: true -->
@@ -954,6 +974,18 @@ Daruntah is a location in Afghanistan where a fish research and breeding center 
 ### Mentioned In
 - [[DatabaseManagementProgramColor_1993]]
 
+## Date Creek
+
+### Summary
+Date Creek is a tributary of the Bill Williams River with a drainage area of 648 km² and mean discharge of 0.066 m³/sec. It is characterized as a narrow sandy run habitat where Longfin Dace comprised 100% of the fish fauna collected. The creek represents a relatively simple desert stream system dominated by a single highly tolerant native species.
+
+### Context
+> This technical report documents a comprehensive aquatic inventory of the [[Bill Williams River]] and [[Hassayampa River]] drainages in west-central Arizona, conducted during winter and spring 1980. The study was undertaken by the U.S. Bureau of Land Management Phoenix District Office to provide...
+> -- *[[AquaticInventoryOfTheBillWilli_12503]]*
+
+### Mentioned In
+- [[AquaticInventoryOfTheBillWilli_12503]]
+
 ## Dave Propst
 <!-- fm: auto_enriched: true -->
 
@@ -963,6 +995,18 @@ Daruntah is a location in Afghanistan where a fish research and breeding center 
 
 ### Mentioned In
 - [[RosterLowerBasinRecoveryImplem_21095]]
+
+## Davenport
+
+### Summary
+Davenport is a community in Santa Cruz County, California, near which the Big Ranch Reservoir is located. This reservoir was stocked with 1,000 tench in 1933-1934 and was documented as containing tench on November 12, 1941, representing part of the species' expansion from the original introduction site.
+
+### Context
+> This historical report documents the introduction and establishment of the [[Tench]] (*Tinca tinca*), a European cyprinid, in California reservoirs. Originally brought from Italy in 1922 and planted at [[Lobitas Creek]] near [[Half Moon Bay]], the species has spread throughout parts of [[San Mateo...
+> -- *[[TheTenchInCalifornia_11391]]*
+
+### Mentioned In
+- [[TheTenchInCalifornia_11391]]
 
 ## David A. Etnier
 <!-- fm: auto_enriched: true -->
@@ -1001,6 +1045,18 @@ David C. Haskell was a researcher who developed formulas in 1955 and 1959 relati
 
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
+
+## David Humphreys Storer
+
+### Summary
+David Humphreys Storer (1802-1891) published "A History of Fishes in Massachusetts" in 1867, which was called "a landmark in the ichthyological literature of the country." His work represented an important contribution to documenting regional North American fish faunas.
+
+### Context
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
+### Mentioned In
+- [[BriefBographiesOfLeadingIchthy_12677]]
 
 ## David Jablonski
 <!-- fm: auto_enriched: true -->
@@ -1080,6 +1136,9 @@ David Starr Jordan was a pioneering American ichthyologist and naturalist of the
 > This 1907 publication by [[David Starr Jordan]] and [[Robert Earl Richardson]] describes a new species of killifish, *[[Lucania browni]]*, collected from a hot spring in northeastern [[Lower California]] (Baja California). Six specimens were obtained by [[Herbert Brown]] from water at 128°F (53°C),...
 > -- *[[DescriptionOfANewSpeciesOfKill_19850]]*
 
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
@@ -1087,6 +1146,7 @@ David Starr Jordan was a pioneering American ichthyologist and naturalist of the
 - [[FirstRecordOfTheCypressMinnow_17935]]
 - [[NotesOnFishesCollectedByCaptCh_15664]]
 - [[DescriptionOfANewSpeciesOfKill_19850]]
+- [[BriefBographiesOfLeadingIchthy_12677]]
 
 ## David Wegner
 <!-- fm: auto_enriched: true -->
@@ -1196,6 +1256,9 @@ Davis Cove is a managed backwater habitat within Lake Havasu on the Lower Colora
 > This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
 > -- *[[RazorbackSuckerMonitoringInLak_17016]]*
 
+> This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
+> -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -1219,6 +1282,7 @@ Davis Cove is a managed backwater habitat within Lake Havasu on the Lower Colora
 - [[ResultsOfTheNativeFishWorkGrou_15025]]
 - [[EnvironmentalAssessmentForNati_13228]]
 - [[RazorbackSuckerMonitoringInLak_17016]]
+- [[LakeMohaveBackwaterrearingFaci_15473]]
 
 ## Davis Creek
 <!-- fm: auto_enriched: true -->
@@ -1341,6 +1405,15 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
 > -- *[[ComparativeSurvivalOfRepatriat_2017]]*
 
+> This document is an unfinished draft bibliography compiled by a researcher documenting literature on fishes in Arizona. It contains hundreds of citations spanning from the 1850s through 1988, covering taxonomic descriptions, ecological studies, fisheries management reports, endangered species...
+> -- *[[DraftbibliographyOnFishesInAri_12263]]*
+
+> This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
+> -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
+
+> This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
+> -- *[[FisheriesReportOfTheLowerColor_16429]]*
+
 ### Mentioned In
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -1390,6 +1463,9 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[GeneticDiversityOfRazorbackSuc_19126]]
 - [[FisheriesReportOfTheLowerColor_19846]]
 - [[ComparativeSurvivalOfRepatriat_2017]]
+- [[DraftbibliographyOnFishesInAri_12263]]
+- [[LakeMohaveBackwaterrearingFaci_15473]]
+- [[FisheriesReportOfTheLowerColor_16429]]
 
 ## Davis Dam Spillway
 <!-- fm: auto_enriched: true -->
@@ -1815,6 +1891,9 @@ Death Valley refers to an isolated desert region in the American Southwest chara
 > This 1967 report by George L. Batchelder provides a comprehensive synthesis of the Pleistocene geology and ecology of the [[Mono Basin]], California. The basin offers a unique opportunity to study synchronous glaciation and lacustrine fluctuations during the Quaternary. The document describes...
 > -- *[[TheMonoBasin_15632]]*
 
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11612]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[FourthAnnualDesertFishesSympos_1972_09_20]]
@@ -1831,6 +1910,7 @@ Death Valley refers to an isolated desert region in the American Southwest chara
 - [[DesertFishesCouncilThirteenthA_12827]]
 - [[MxMissileSystemAnUrgentLetterF_20507]]
 - [[TheMonoBasin_15632]]
+- [[PartEndangeredAndThreatenedWil_11612]]
 
 ## Death Valley Agabus Diving Beetle
 
@@ -2054,6 +2134,18 @@ The Death Valley System Committee is a specialized working group of the Desert F
 - [[RecoveryPlanForTheHumpbackChub_11544]]
 - [[PartManagementConcernsPriority_14724]]
 
+## DeBeque Canyons
+
+### Summary
+DeBeque Canyons was identified in 1980 as one of the locations where Humpback Chub populations were found. It was among several canyon reaches documented as habitat for this endangered species during the Recovery Team's surveys.
+
+### Context
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
+### Mentioned In
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
+
 ## Decadactylus
 <!-- fm: auto_enriched: true -->
 
@@ -2235,6 +2327,9 @@ Deer Creek is a relatively unmodified tributary of the Sacramento River in Teham
 > This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
 > -- *[[EarlyFieldNotes_15954]]*
 
+> This memorandum from BIO/WEST, Inc. (October 18, 1991) summarizes preliminary findings from the Endangered Fish Research Program studying [[Gila cypha]] (humpback chub) in the mainstem [[Colorado River]] through [[Grand Canyon]]. The research program, conducted in cooperation with the [[U.S. Fish...
+> -- *[[SummaryOfEndangeredFishResearc_13612]]*
+
 ### Mentioned In
 - [[BibliographyOfStudiesOnIntrodu_13347]]
 - [[FishesOfTheWakarusaRiverInKans_14015]]
@@ -2246,6 +2341,7 @@ Deer Creek is a relatively unmodified tributary of the Sacramento River in Teham
 - [[TailwaterFisheryInvestigationC_14594]]
 - [[HabitatUseByHumpbackChubGilaCy_11575]]
 - [[EarlyFieldNotes_15954]]
+- [[SummaryOfEndangeredFishResearc_13612]]
 
 ## Deer Creek Cave
 <!-- fm: auto_enriched: true -->
@@ -2765,6 +2861,18 @@ Dendy (1946) studied pikeperch in Norris Reservoir, Tennessee and observed that 
 
 ### Mentioned In
 - [[TheMusselPopulationOfAnAreaOfL_14967]]
+
+## Denmark
+
+### Summary
+A groundfish supplier that significantly expanded its U.S. market presence, doubling block exports to 25.2 million pounds through August 1971. Denmark was one of several European suppliers (along with Greenland and Faroe Islands) contributing to the diversification of U.S. groundfish imports.
+
+### Context
+> This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
+> -- *[[FoodFishfreshAndFrozenProducts_11510]]*
+
+### Mentioned In
+- [[FoodFishfreshAndFrozenProducts_11510]]
 
 ## Dennert Et Al 1969
 <!-- fm: auto_enriched: true -->
@@ -3694,6 +3802,9 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This correspondence documents a 1988 exchange between the [[Desert Fishes Council]] (DFC) and the [[U.S. Fish and Wildlife Service]] (FWS) regarding the [[Colorado River Endangered Fishes Recovery Implementation Program]]. The exchange addresses concerns about how DFC's December 9, 1986 review...
+> -- *[[ReSteveLanigansCommentsConcern_14142]]*
+
 ### Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -3814,6 +3925,7 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 - [[AbstractsFromTheDesertFishesCo_15019]]
 - [[ReactionsToTalkAtAfsMeetingInB_18595]]
 - [[ExecutiveSummary_18726]]
+- [[ReSteveLanigansCommentsConcern_14142]]
 
 ## Desert Fishes Council Newsletter
 <!-- fm: auto_enriched: true -->
@@ -3906,6 +4018,9 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 
 > This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
 > -- *[[DraftProposedCriteriaForDesign_14776]]*
+
+> The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
+> -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
 ### Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
@@ -4008,6 +4123,7 @@ The Desert Fishes Recovery Team is an interagency collaborative group establishe
 - [[MinutesdesertFishesRecoveryTea_13730]]
 - [[ItemsToBringToYourAttentionAft_13731]]
 - [[DraftProposedCriteriaForDesign_14776]]
+- [[FishAndWildlifeServiceFailsToA_16901]]
 
 ## Desert Fishes Task Force
 <!-- fm: auto_enriched: true -->
@@ -4375,6 +4491,15 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > This July 16, 1990 memorandum from the U.S. Fish and Wildlife Service Field Supervisor to the Bureau of Land Management State Director announces the decision to halt designation of experimental nonessential populations of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert...
 > -- *[[ExperimentalNonessentialPopula_11852]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
+> This U.S. Fish and Wildlife Service Biological Opinion (dated April 15, 1994) addresses the transportation and delivery of [[Colorado River]] water through the [[Central Arizona Project]] (CAP) aqueduct to water users in the [[Gila River Basin]] in Arizona and New Mexico. The opinion focuses...
+> -- *[[SummaryBiologicalOpinionOnTran_11705]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -4605,6 +4730,9 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[ItemsToBringToYourAttentionAft_13731]]
 - [[ReportOnTheAnnualCensusOfCypri_18280]]
 - [[ExperimentalNonessentialPopula_11852]]
+- [[TransportationAndDeliveryOfCen_11638]]
+- [[FinalDraftEcosystemPlanForTheL_11674]]
+- [[SummaryBiologicalOpinionOnTran_11705]]
 
 ## Desert Pupfish Conservation
 <!-- fm: auto_enriched: true -->
@@ -4903,6 +5031,15 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
 > -- *[[DraftConservationAgreementVirg_18320]]*
 
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
+> This report documents a comprehensive survey of [[Aravaipa Creek]], Arizona, conducted on 20 October 1990 to determine the geographic distribution of introduced [[Red Shiner]] (*Cyprinella lutrensis*), first discovered in the stream in early October 1990. The survey covered approximately 8.0 km...
+> -- *[[SummaryRedShinerSurveyLowerAra_13783]]*
+
+> The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
+> -- *[[GilaRiverFishdistributionProje_15844]]*
+
 ### Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -5007,6 +5144,9 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[DraftEnvironmentalAssessmentDe_11688]]
 - [[EvaluationOfTheInstreamFlowReq_13030]]
 - [[DraftConservationAgreementVirg_18320]]
+- [[FinalDraftEcosystemPlanForTheL_11674]]
+- [[SummaryRedShinerSurveyLowerAra_13783]]
+- [[GilaRiverFishdistributionProje_15844]]
 
 ## Desert Tortoise
 <!-- fm: auto_enriched: true -->
@@ -5042,6 +5182,9 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > This Bureau of Land Management memorandum reports on the construction and initial effects of a riparian exclosure at [[Tule Creek]], Arizona, designed to protect habitat for the [[Gila Topminnow]] (Poeciliopsis occidentalis) population. Construction occurred April-May 1991 by Arizona Game and Fish...
 > -- *[[TuleCreekExclosureProjectSumma_17655]]*
 
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
 ### Mentioned In
 - [[ReportingFederalExpendituresPu_1992_11_25]]
 - [[PapagoParkMilitaryReservationB_13351]]
@@ -5053,6 +5196,7 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[BiologicalEvaluationOfTheAppro_15074]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 - [[TuleCreekExclosureProjectSumma_17655]]
+- [[FinalDraftEcosystemPlanForTheL_11674]]
 
 ## Desert Tortoises
 
@@ -5135,6 +5279,12 @@ Desolation Canyon is a significant reach of the Green River in the upper Colorad
 > This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DevelopmentOfAStandardizedMoni_15549]]*
 
+> This U.S. Fish and Wildlife Service document from January 1979 describes the status and conservation efforts for four native fish species of the [[Colorado River]] system that have declined dramatically due to habitat modification. The [[Colorado River Fishes Recovery Team]], formed in 1974, seeks...
+> -- *[[WantedForTheFutureTheseNativeF_13295]]*
+
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
 ### Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[ChangesInNativeFishDistributio_1973]]
@@ -5154,6 +5304,8 @@ Desolation Canyon is a significant reach of the Green River in the upper Colorad
 - [[PartManagementConcernsPriority_14724]]
 - [[GreenRiverRareAndEndangeredFis_13060]]
 - [[DevelopmentOfAStandardizedMoni_15549]]
+- [[WantedForTheFutureTheseNativeF_13295]]
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
 
 ## Desolation Gray Canyons
 
@@ -5600,9 +5752,13 @@ Dexter Creek National Fish Hatchery is a fish propagation facility that received
 > This 1977 report to the [[Desert Fishes Council]] documents the status of native fish populations across the [[Sonoran Desert]] region during widespread drought conditions. While native fishes in natural streams are sustaining well despite lower-than-modal flows, populations are declining in areas...
 > -- *[[ReportToTheDesertFishesCouncil_13683]]*
 
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
 ### Mentioned In
 - [[PopulationDifferentiationAndIn_1987]]
 - [[ReportToTheDesertFishesCouncil_13683]]
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
 
 ## Dexter National Fish Hatchery
 <!-- fm: auto_enriched: true -->
@@ -5866,6 +6022,12 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This correspondence from the [[University of Michigan]] [[Museum of Zoology]] Division of Fishes provides expert identification of five catfish specimens submitted by the [[Dexter National Fish Hatchery]] in [[New Mexico]]. The analysis confirms hybridization between [[Yaqui Catfish]] ([[Ictalurus...
 > -- *[[ReportOnYaquiCatfishReceived_15380]]*
 
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
+> This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
+> -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -6073,6 +6235,8 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[DraftmanagementTowardRecoveryO_13751]]
 - [[ABibliographyOfTheFederallyEnd_14370]]
 - [[ReportOnYaquiCatfishReceived_15380]]
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[LakeMohaveBackwaterrearingFaci_15473]]
 
 ## Dexter National Fish Hatchery & Technology Center
 <!-- fm: auto_enriched: true -->
@@ -6575,6 +6739,18 @@ Diaptomus sanguineus is a calanoid copepod species that represents a smaller-bod
 - [[ContrastsAmongCalanoidCopepods_16016]]
 - [[NotesOnTheCalanoidAndCyclopoid_16005]]
 
+## Diaptomus shoshone
+
+### Summary
+Diaptomus shoshone is a copepod species that dominates the zooplankton community in Twin Lakes. This source identifies it as one of the two dominant copepod species in the 1974-79 period, along with Cyclops longispinius, in a zooplankton community that has shifted from historical cladoceran dominance to current dominance by rotifers and copepods.
+
+### Context
+> This report documents the 1979 pre-operational ecological baseline for [[Twin Lakes]], Colorado, prior to the 1981 commissioning of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study encompasses comprehensive physical, chemical, and biological limnology of a two-lake mountain system at 2802 m...
+> -- *[[StudiesOfTheEffectsOfOperating_12648]]*
+
+### Mentioned In
+- [[StudiesOfTheEffectsOfOperating_12648]]
+
 ## Diaptomus siciloides
 <!-- fm: auto_enriched: true -->
 
@@ -6647,6 +6823,18 @@ Diatoma is a genus of diatoms that was one of the principal primary producers in
 ### Mentioned In
 - [[NoteSurDesFormationsDeTufCalca_1951]]
 
+## Diatomaceous Earth
+
+### Summary
+Diatomaceous earth is a naturally occurring sedimentary rock composed of fossilized diatoms, used in various industrial applications. Previous research cited in this study found that diatomaceous earth suspensions caused similar effects to kaolin, with negligible mortality at 30 ppm but over 50% mortality at 270-810 ppm.
+
+### Context
+> This 1963 study by Herbert and Richards investigated the effects of suspended industrial solids on [[Rainbow Trout]] (Oncorhynchus mykiss) and [[Brown Trout]] (Salmo trutta) through laboratory experiments and field surveys. Laboratory tests examined survival and growth of yearling rainbow trout...
+> -- *[[TheGrowthAndSurvivalOfFishInSo_16699]]*
+
+### Mentioned In
+- [[TheGrowthAndSurvivalOfFishInSo_16699]]
+
 ## Diatoms
 <!-- fm: auto_enriched: true -->
 
@@ -6707,6 +6895,18 @@ Diatoma is a genus of diatoms that was one of the principal primary producers in
 
 ### Mentioned In
 - [[FoodsOfImpoundmentAndStreamDwe_1963]]
+
+## Dictyosphaerium
+
+### Summary
+Dictyosphaerium is a green alga found in the phytoplankton community of Twin Lakes. This source reports that Dictyosphaerium sp. comprised 20 percent of the Lower Twin Lake phytoplankton flora during June-July 1979, representing a notable component of the summer algal community.
+
+### Context
+> This report documents the 1979 pre-operational ecological baseline for [[Twin Lakes]], Colorado, prior to the 1981 commissioning of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study encompasses comprehensive physical, chemical, and biological limnology of a two-lake mountain system at 2802 m...
+> -- *[[StudiesOfTheEffectsOfOperating_12648]]*
+
+### Mentioned In
+- [[StudiesOfTheEffectsOfOperating_12648]]
 
 ## Diel Activity Pattern
 <!-- fm: auto_enriched: true -->
@@ -6980,9 +7180,13 @@ Dinobryon is a chrysophyte (golden-brown algae) that dominates the phytoplankton
 > This comprehensive limnological study examines the phenomenon of metalimnetic oxygen maxima in 54 lakes worldwide, documenting 98 separate instances where oxygen concentrations exceeded 12.7 mg/L (the saturation value at 4°C). The research establishes a classification system for plus-heterograde...
 > -- *[[FurtherStudiesOnTheMetalimneti_15723]]*
 
+> This report documents the 1979 pre-operational ecological baseline for [[Twin Lakes]], Colorado, prior to the 1981 commissioning of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study encompasses comprehensive physical, chemical, and biological limnology of a two-lake mountain system at 2802 m...
+> -- *[[StudiesOfTheEffectsOfOperating_12648]]*
+
 ### Mentioned In
 - [[PrimaryProductivityCAtTwinLake_12652]]
 - [[FurtherStudiesOnTheMetalimneti_15723]]
+- [[StudiesOfTheEffectsOfOperating_12648]]
 
 ## Dinobryon Sertularia
 <!-- fm: auto_enriched: true -->
@@ -7085,6 +7289,9 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 > This final report synthesizes findings from the [[Colorado River Fishes Monitoring Project]] (1982-1985) and related studies conducted by the U.S. Fish and Wildlife Service Vernal Field Station in the [[Green River Basin]] from 1979-1986. The study focused primarily on three federally endangered...
 > -- *[[GreenRiverRareAndEndangeredFis_13060]]*
 
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
 ### Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -7125,6 +7332,7 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 - [[HabitatUseAndStreamflowNeedsOf_11609]]
 - [[PartICurrentSituationPartIiAPr_13306]]
 - [[GreenRiverRareAndEndangeredFis_13060]]
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
 
 ## Dinosaur National Park
 <!-- fm: auto_enriched: true -->
@@ -7173,12 +7381,40 @@ Diodora inaequalis is a keyhole limpet (gastropod mollusk) found in the Puerto P
 > This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
 > -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
 
+> This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
+> -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
+
 ### Mentioned In
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[NotesFromFieldWorkInTheCuatroc_12737]]
+- [[DraftSpeciationInTheNorthAmeri_15234]]
+
+## Dionda argentosa
+
+### Summary
+Dionda argentosa is a roundnose minnow species found in the Devils River and San Felipe Spring. This study establishes it as a distinct species within the Dionda episcopa complex that evolved in the Devils River after early diversification events, with the San Felipe Spring population showing the highest heterozygosity (0.062) observed in the study.
+
+### Context
+> This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
+> -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
+
+### Mentioned In
+- [[DraftSpeciationInTheNorthAmeri_15234]]
+
+## Dionda couchi
+
+### Summary
+Dionda couchi is a roundnose minnow species found in the Rio San Juan. The study identifies it as a distinct species within the Dionda episcopa complex, and its sister group relationship to western clade members provides evidence supporting the hypothesis that the Old Rio Nazas had an outlet through the lower Rio Grande.
+
+### Context
+> This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
+> -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
+
+### Mentioned In
+- [[DraftSpeciationInTheNorthAmeri_15234]]
 
 ## Dionda Diaboli
 <!-- fm: auto_enriched: true -->
@@ -7187,8 +7423,24 @@ Diodora inaequalis is a keyhole limpet (gastropod mollusk) found in the Puerto P
 > - **Total native fauna**: 107 native species (93 described, ≥14 undescribed — "at least 15%"), across 40 genera and 16 families. - 6 families primary/strictly freshwater (57–63 species) - 5 families secondary, salinity-tolerant (31 species) - 5 families peripheral/marine-associated or diadromous ...
 > -- *[[CompositionAndDerivationOfTheN_15363]]*
 
+> This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
+> -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
+
 ### Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
+- [[DraftSpeciationInTheNorthAmeri_15234]]
+
+## Dionda dichroma
+
+### Summary
+Dionda dichroma is a roundnose minnow species inhabiting intermontane drainages. The study indicates this species separated from the Coastal Plain species Dionda ipni during the early Eocene Hidalgoan Orogeny, representing one of the vicariant speciation events driven by the formation of the Sierra Madre Oriental.
+
+### Context
+> This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
+> -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
+
+### Mentioned In
+- [[DraftSpeciationInTheNorthAmeri_15234]]
 
 ## Dionda episcopa
 <!-- fm: auto_enriched: true -->
@@ -7209,6 +7461,9 @@ Diodora inaequalis is a keyhole limpet (gastropod mollusk) found in the Puerto P
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
+> -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
+
 ### Mentioned In
 - [[Cuatro Ciénegas Food Web]]
 - [[SurvivalAndAbundanceOfIntroduc_14259]]
@@ -7216,6 +7471,55 @@ Diodora inaequalis is a keyhole limpet (gastropod mollusk) found in the Puerto P
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[TemporalChangesInTheGambusiaHe_15772]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[DraftSpeciationInTheNorthAmeri_15234]]
+
+## Dionda erimyzonops
+
+### Summary
+Dionda erimyzonops is a roundnose minnow species inhabiting Coastal Plain drainages. The study shows it separated from the intermontane species Dionda mandibularis during the early Eocene Hidalgoan Orogeny, and it exhibits the highest percentage of polymorphic loci (28.1%) among all populations examined.
+
+### Context
+> This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
+> -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
+
+### Mentioned In
+- [[DraftSpeciationInTheNorthAmeri_15234]]
+
+## Dionda ipni
+
+### Summary
+Dionda ipni is a roundnose minnow species in the family Cyprinidae found in southwestern North America. This study reveals that D. ipni as traditionally recognized is paraphyletic and requires taxonomic revision, with populations from Rio Axtla representing a distinct species more closely related to the Dionda episcopa complex than to other D. ipni populations.
+
+### Context
+> This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
+> -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
+
+### Mentioned In
+- [[DraftSpeciationInTheNorthAmeri_15234]]
+
+## Dionda mandibularis
+
+### Summary
+Dionda mandibularis is a roundnose minnow species inhabiting intermontane drainages in southwestern North America. The study indicates this species separated from the Coastal Plain species Dionda erimyzonops during the early Eocene Hidalgoan Orogeny, and some populations show zero heterozygosity, representing the lowest genetic variability observed in the genus.
+
+### Context
+> This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
+> -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
+
+### Mentioned In
+- [[DraftSpeciationInTheNorthAmeri_15234]]
+
+## Dionda serena
+
+### Summary
+Dionda serena is a roundnose minnow species inhabiting the Nueces and Frio drainages. This study establishes it as a distinct species within the Dionda episcopa complex, representing one of the taxonomic revisions required because D. episcopa as traditionally recognized is paraphyletic.
+
+### Context
+> This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
+> -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
+
+### Mentioned In
+- [[DraftSpeciationInTheNorthAmeri_15234]]
 
 ## Diplectrona
 
@@ -7425,6 +7729,18 @@ The Dirty Devil River is one of the major tributaries flowing into Lake Powell w
 
 ### Mentioned In
 - [[LetterToRandyDRadantRegardingR_16491]]
+
+## Discus
+
+### Summary
+Discus is referenced as a comparison species for understanding the water chemistry requirements needed for Biotodoma cupido reproduction. This source suggests that Biotodoma cupido likely requires similar soft, warm, acidic water conditions to those needed by Discus in order to successfully spawn in captivity.
+
+### Context
+> This article by Paul V. Loiselle discusses [[Biotodoma cupido]], a South American cichlid first imported to Germany in 1935 and reintroduced to United States aquarists. The species presents maintenance challenges requiring specific water conditions and has steadfastly refused to reproduce in...
+> -- *[[TheCupidoCichlid_16188]]*
+
+### Mentioned In
+- [[TheCupidoCichlid_16188]]
 
 ## Discus Patulus
 <!-- fm: auto_enriched: true -->
@@ -8062,6 +8378,15 @@ Doe Run is a spring-fed tributary stream of the Ohio River located in Meade Coun
 ### Mentioned In
 - [[FlatheadCatfishAbundanceAndGro_1985]]
 
+## dog snapper
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
+
 ## Dogfish Shark
 <!-- fm: auto_enriched: true -->
 
@@ -8209,6 +8534,18 @@ A dominance hierarchy in fish science refers to a linear or structured social ra
 - [[CatecholAminesAndSocialRelatio_1968]]
 - [[SocialModificationOfAgonisticB_1968]]
 - [[TheReactionsOfDominantTroutToC_1968_01_22]]
+
+## Dominguez Project
+
+### Summary
+The Dominguez Project was a proposed water development project identified as a potential threat to endangered Colorado River fishes through water depletion. It was among the projects that the Recovery Team monitored for impacts on critical habitat and species recovery efforts.
+
+### Context
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
+### Mentioned In
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
 
 ## Don
 <!-- fm: auto_enriched: true -->
@@ -8465,6 +8802,12 @@ Dorosoma petenense, commonly known as threadfin shad, is a euryhaline forage fis
 > This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
 > -- *[[EarlyFieldNotes_15954]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
+> This document is an unfinished draft bibliography compiled by a researcher documenting literature on fishes in Arizona. It contains hundreds of citations spanning from the 1850s through 1988, covering taxonomic descriptions, ecological studies, fisheries management reports, endangered species...
+> -- *[[DraftbibliographyOnFishesInAri_12263]]*
+
 ### Mentioned In
 - [[AProvisionalCheckListOfTheFish_15941]]
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
@@ -8476,6 +8819,8 @@ Dorosoma petenense, commonly known as threadfin shad, is a euryhaline forage fis
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
 - [[EarlyFieldNotes_15954]]
+- [[TransportationAndDeliveryOfCen_11638]]
+- [[DraftbibliographyOnFishesInAri_12263]]
 
 ## Dorosoma Smithi
 <!-- fm: auto_enriched: true -->
@@ -8733,6 +9078,18 @@ The Doudoroff Method refers to standardized bioassay protocols used in this stud
 ### Mentioned In
 - [[LetterRequestingAssistanceFrom_1989_08_09]]
 
+## Douglas
+
+### Summary
+Douglas is a location in the San Bernardino Valley region where climate data was recorded. Average daily maximum temperatures during June at Douglas reach approximately 95°F.
+
+### Context
+> This hydrologic report documents groundwater conditions in the [[San Bernardino Valley]] basin, located in southeastern [[Arizona]] (Cochise County) and southwestern [[New Mexico]] (Hidalgo County), encompassing 387 square miles in Arizona. The basin contains the [[San Bernardino Ranch]] area and a...
+> -- *[[MapsShowingGroundwaterConditio_11421]]*
+
+### Mentioned In
+- [[MapsShowingGroundwaterConditio_11421]]
+
 ## Douglas 1952
 <!-- fm: auto_enriched: true -->
 
@@ -8833,6 +9190,18 @@ Douglas, Arizona is the location of Slaughter Ranch, which contains significant 
 
 ### Mentioned In
 - [[AssimilationEfficiencyOfTheFre_1990]]
+
+## Dovercourt
+
+### Summary
+Dovercourt is a coastal location near Harwich, UK, from which sea water was pumped for use in this study. The sea water obtained from Dovercourt had salinities ranging from 31.4-33.2 g/kg and was used to create the various salinity mixtures for testing zinc toxicity on salmonid fish.
+
+### Context
+> This 1964 experimental study by Herbert and Wakeford at the [[Water Pollution Research Laboratory]] investigated how salinity affects the toxicity of [[Zinc Sulphate]] to [[Atlantic Salmon]] smolts and yearling [[Rainbow Trout]]. The research addresses a critical management question: how to assess...
+> -- *[[TheSusceptibilityOfSalmonidFis_16704]]*
+
+### Mentioned In
+- [[TheSusceptibilityOfSalmonidFis_16704]]
 
 ## Dowicil 100
 <!-- fm: auto_enriched: true -->
@@ -8975,6 +9344,18 @@ Drainage endemism refers to species restricted to single river drainage systems.
 
 ### Mentioned In
 - [[DifferentiationInFishesOfTheAm_12774]]
+
+## Drake's Creek
+
+### Summary
+Drake's Creek is a Kentucky stream that was not scheduled for impoundment but was sampled in September 1957 due to public interest, with surveys conducted under excellent shocking conditions (ideal depth and water clarity). The stream yielded 35 fish species with the highest panfish composition among all streams studied (6.6% by number, 3.3% by weight), edible rough fish dominating by weight (72.3%), and forage species comprising 54.3% by number.
+
+### Context
+> This 1959 Federal Aid to Fisheries report (Project F-10-R) documents comprehensive pre-impoundment fish population surveys of seven Kentucky streams scheduled for dam construction by the U.S. Army Corps of Engineers. Between 1956-1958, personnel from the Kentucky Department of Fish and Wildlife...
+> -- *[[PreimpoundmentSurveysOfSixKent_13033]]*
+
+### Mentioned In
+- [[PreimpoundmentSurveysOfSixKent_13033]]
 
 ## Draper Lake
 
@@ -9486,6 +9867,18 @@ Duckwater Springfish is an endemic fish species found in Railroad Valley, Nevada
 ### Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
+
+## Dudley and Platania
+
+### Summary
+Dudley and Platania are researchers who conducted investigations in 1997 on Rio Grande Silvery Minnow habitat selection. Their study found that the species selects low-velocity habitats (eddies, pools, backwaters) that are not the most commonly available in the river, with most individuals occupying depths less than 20 cm or between 31-40 cm and preferring silt substrates.
+
+### Context
+> This draft Environmental Assessment evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (Hybognathus amarus) pursuant to section 4 of the Endangered Species Act. The document responds to a February 22, 1999 court order (Forest Guardians and Defenders of...
+> -- *[[DraftEnvironmentalAssessmentDe_13207]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentDe_13207]]
 
 ## Duff Spring
 <!-- fm: auto_enriched: true -->

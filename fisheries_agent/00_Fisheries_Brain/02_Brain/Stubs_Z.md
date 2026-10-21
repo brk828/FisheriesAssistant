@@ -143,6 +143,9 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 > This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
 > -- *[[ArizonaComparativeRiskProjectE_15833]]*
 
+> This U.S. Fish and Wildlife Service Biological Opinion (dated April 15, 1994) addresses the transportation and delivery of [[Colorado River]] water through the [[Central Arizona Project]] (CAP) aqueduct to water users in the [[Gila River Basin]] in Arizona and New Mexico. The opinion focuses...
+> -- *[[SummaryBiologicalOpinionOnTran_11705]]*
+
 ### Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -150,6 +153,7 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 - [[FisheriesFieldStationSummarySo_1996]]
 - [[TopTenFisheriesActiv_1996_10_14]]
 - [[ArizonaComparativeRiskProjectE_15833]]
+- [[SummaryBiologicalOpinionOnTran_11705]]
 
 ## Zebra-tailed Lizard
 
@@ -307,9 +311,13 @@ Zill's Tilapia (Tilapia zilli) is an introduced fish species found in trace amou
 > - **Interspecies Susceptibility:** [[Atlantic Salmon]] smolts were consistently more susceptible to ammonium chloride than rainbow trout at all tested salinities — trout tolerated concentrations **1.2 to 2.5 times higher** than salmon. - **Cross-Toxicant Consistency:** This salmon-trout sensitivi...
 > -- *[[TheSusceptibilityOfSalmonidFis_16705]]*
 
+> This 1964 experimental study by Herbert and Wakeford at the [[Water Pollution Research Laboratory]] investigated how salinity affects the toxicity of [[Zinc Sulphate]] to [[Atlantic Salmon]] smolts and yearling [[Rainbow Trout]]. The research addresses a critical management question: how to assess...
+> -- *[[TheSusceptibilityOfSalmonidFis_16704]]*
+
 ### Mentioned In
 - [[TheAcuteToxicityOfPhenolToRain_1967_08_09]]
 - [[TheSusceptibilityOfSalmonidFis_16705]]
+- [[TheSusceptibilityOfSalmonidFis_16704]]
 
 ## Zinc Sulphate Toxicity
 <!-- fm: auto_enriched: true -->
@@ -368,6 +376,18 @@ Zoanthus danae is a colonial soft coral (zoanthid) similar to Palythoa ignota bu
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
 
+## Zoarces
+
+### Summary
+Zoarces, the viviparous blenny, was the subject of classic studies on fish races conducted by Johannes Schmidt. Schmidt's work on this genus represented important research on population variation and geographic races in marine fishes.
+
+### Context
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
+### Mentioned In
+- [[BriefBographiesOfLeadingIchthy_12677]]
+
 ## Zobell 1946
 <!-- fm: auto_enriched: true -->
 
@@ -422,9 +442,13 @@ Zoanthus danae is a colonial soft coral (zoanthid) similar to Palythoa ignota bu
 > This 1987 baseline report documents vegetation and breeding bird communities along a 3 km cattle exclosure established in 1984 on [[Lower Bonita Creek]], [[Graham County]], [[Arizona]]. The study was conducted by [[William C. Hunter]] from [[Arizona State University]] for the [[U.S. Bureau of Land...
 > -- *[[ChangesInRiparianVegetationAnd_14524]]*
 
+> This 1970 Bureau of Land Management resource report documents the natural values of [[Aravaipa Canyon]], Arizona, and proposes management criteria for its designation as a Primitive Area. The canyon contains a 15-mile perennial stream supporting seven of twelve native fish species from the [[San...
+> -- *[[ResourceReportOnAravaipaCanyon_11458]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
 - [[ChangesInRiparianVegetationAnd_14524]]
+- [[ResourceReportOnAravaipaCanyon_11458]]
 
 ## Zonitoides Arboreus
 <!-- fm: auto_enriched: true -->

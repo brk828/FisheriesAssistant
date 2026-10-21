@@ -538,8 +538,12 @@ Nassarius moestus is a gastropod species documented at Puerto Peñasco. This sou
 > - **Species range and thermal zonation**: The study contrasts "northern" cold-adapted species (acclimated ~15°C) — [[Common Killifish]], [[Northern Blackfish]] (*Tautoga onitis*), [[Common Goldfish]] (*Carassius auratus*), [[Northern Stargazer]] (*Astroscopus guttatus*) — against "southern" warm-...
 > -- *[[TheEffectOfThermalAcclimationO_15619]]*
 
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
 ### Mentioned In
 - [[TheEffectOfThermalAcclimationO_15619]]
+- [[ResultsOfTheTektiteProgramEcol_17141]]
 
 ## Nassula aurea
 
@@ -698,8 +702,12 @@ The National Audubon Society is one of the environmental organization participan
 > This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
 > -- *[[AlternativeApproachesToHcpsFor_16735]]*
 
+> This document describes the status and ecology of the world's wild [[Whooping Crane]] (*Grus americana*) population, which winters exclusively at [[Aransas National Wildlife Refuge]] on the [[Texas Gulf Coast]]. As of 1966, the population stood at 43 birds (38 adults, 5 young), representing a...
+> -- *[[TheWhoopingCranesOfAransasNati_13268]]*
+
 ### Mentioned In
 - [[AlternativeApproachesToHcpsFor_16735]]
+- [[TheWhoopingCranesOfAransasNati_13268]]
 
 ## National Audubon Society Research Ranch
 
@@ -886,6 +894,9 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 > This February 1990 correspondence from the Bureau of Reclamation Lower Colorado Regional Office documents an interagency initiative to develop native fish rearing facilities on [[Lake Mohave]] for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The proposal...
 > -- *[[InteragencyProposalToExamineTh_13018]]*
 
+> Executive Order 13112, issued February 3, 1999, establishes comprehensive federal policy for preventing introduction and controlling spread of [[Invasive Species]] in the [[United States]]. The order creates the [[Invasive Species Council]] co-chaired by the Secretaries of Interior, Agriculture,...
+> -- *[[ExecutiveOrderInvasiveSpeices_13569]]*
+
 ### Mentioned In
 - [[BoardOfCountyCommissionersOfTh_11767]]
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
@@ -912,6 +923,7 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 - [[AgencyRecalcitranceAndEvasionR_20349]]
 - [[CatronCountyBoardOfCommissione_16056]]
 - [[InteragencyProposalToExamineTh_13018]]
+- [[ExecutiveOrderInvasiveSpeices_13569]]
 
 ## National Environmental Protection Act
 <!-- fm: auto_enriched: true -->
@@ -1228,6 +1240,12 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
+> -- *[[FoodFishfreshAndFrozenProducts_11510]]*
+
+> This document comprises U.S. Fish and Wildlife Service memoranda and guidelines from 1985 establishing standardized procedures for developing and implementing recovery plans for federally listed endangered and threatened species under the Endangered Species Act of 1973, as amended. The guidelines...
+> -- *[[EndangeredAndThreatenedSpecies_15998]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -1255,6 +1273,8 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[HabitatConservationPlanAssuran_13191]]
 - [[ForConservingListedSpeciesTalk_15635]]
 - [[ExecutiveSummary_18726]]
+- [[FoodFishfreshAndFrozenProducts_11510]]
+- [[EndangeredAndThreatenedSpecies_15998]]
 
 ## National Museum
 
@@ -1471,6 +1491,18 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
 > -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
 
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
+> Meeting minutes from the Colorado River (Aquatic) Trophic Studies (CRiTS) team quarterly coordination meeting held May 3, 1991 at [[Glen Canyon Dam]] Conference Room in Page, Arizona. The CRiTS team is an informal multi-agency/institution coordination effort focused on aquatic food base studies in...
+> -- *[[DraftColoradoRiverTrophicStudi_14828]]*
+
+> This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
+> -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -1546,6 +1578,10 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[DevelopmentOfAStandardizedMoni_15549]]
 - [[DraftDocumentimpactsOfElectrof_19691]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[FinalDraftEcosystemPlanForTheL_11674]]
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[DraftColoradoRiverTrophicStudi_14828]]
+- [[LakeMohaveBackwaterrearingFaci_15473]]
 
 ## National Park Service Resource Management
 <!-- fm: auto_enriched: true -->
@@ -1744,10 +1780,14 @@ The National Wildlife Federation is an environmental organization that was invol
 > This February 1992 report by [[World Wildlife Fund]] analyzes Section 7 consultation data under the [[Endangered Species Act]] (ESA) from Fiscal Years 1987-1991. The study examines consultation records from every regional office of the [[U.S. Fish and Wildlife Service]] (FWS) and [[National Marine...
 > -- *[[ForConservingListedSpeciesTalk_15635]]*
 
+> This document describes the status and ecology of the world's wild [[Whooping Crane]] (*Grus americana*) population, which winters exclusively at [[Aransas National Wildlife Refuge]] on the [[Texas Gulf Coast]]. As of 1966, the population stood at 43 birds (38 adults, 5 young), representing a...
+> -- *[[TheWhoopingCranesOfAransasNati_13268]]*
+
 ### Mentioned In
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[EndangeredAndThreatenedWildlif_11548]]
 - [[ForConservingListedSpeciesTalk_15635]]
+- [[TheWhoopingCranesOfAransasNati_13268]]
 
 ## National Wildlife Refuge
 <!-- fm: auto_enriched: true -->
@@ -2224,6 +2264,9 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 > This report documents monitoring of the critically imperiled [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona and Nevada, from November 1, 1995 to October 31, 1996. The adult population has declined from 60-75,000 individuals in the late 1980s to approximately...
 > -- *[[RazorbackSuckerMonitoringInLak_17016]]*
 
+> This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
+> -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[FishAndWildlifeServiceReviewOf_1990_09_11]]
@@ -2258,6 +2301,7 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 - [[MovementsOfAdultRazorbackSucke_12585]]
 - [[DeclineOfTheRazorbackSuckerInL_2003]]
 - [[RazorbackSuckerMonitoringInLak_17016]]
+- [[LakeMohaveBackwaterrearingFaci_15473]]
 
 ## Native Fish Working Group
 <!-- fm: auto_enriched: true -->
@@ -2350,6 +2394,18 @@ Native salmonids in Box Canyon Reservoir include Rainbow Trout, Westslope Cutthr
 
 ### Mentioned In
 - [[LegalProceedingsAgainstUsfwsTo_17940]]
+
+## Native Species
+
+### Summary
+Native species are organisms that naturally occur in a particular ecosystem, as opposed to alien or invasive species. Executive Order 13112 prioritizes the restoration of native species and habitat conditions in ecosystems that have been invaded by non-native organisms. The order requires federal agencies to use their programs and authorities to restore native species and habitats as part of invasive species control measures.
+
+### Context
+> Executive Order 13112, issued February 3, 1999, establishes comprehensive federal policy for preventing introduction and controlling spread of [[Invasive Species]] in the [[United States]]. The order creates the [[Invasive Species Council]] co-chaired by the Secretaries of Interior, Agriculture,...
+> -- *[[ExecutiveOrderInvasiveSpeices_13569]]*
+
+### Mentioned In
+- [[ExecutiveOrderInvasiveSpeices_13569]]
 
 ## Native Species Recovery
 <!-- fm: auto_enriched: true -->
@@ -2813,6 +2869,12 @@ Navajo Powerplant is a power generation facility that was evaluated as a potenti
 > This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
 > -- *[[RealitiesOfProvidingWaterForEn_20669]]*
 
+> This U.S. Fish and Wildlife Service document from January 1979 describes the status and conservation efforts for four native fish species of the [[Colorado River]] system that have declined dramatically due to habitat modification. The [[Colorado River Fishes Recovery Team]], formed in 1974, seeks...
+> -- *[[WantedForTheFutureTheseNativeF_13295]]*
+
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
 ### Mentioned In
 - [[MemoOnDesertFishesCouncilRevie_1994_05_11]]
 - [[EndangeredAndThreatenedWildlif_11592]]
@@ -2820,6 +2882,8 @@ Navajo Powerplant is a power generation facility that was evaluated as a potenti
 - [[FishCommunityResponsesToMechan_2014]]
 - [[ColoradoSquawfishPtychocheilus_13278]]
 - [[RealitiesOfProvidingWaterForEn_20669]]
+- [[WantedForTheFutureTheseNativeF_13295]]
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
 
 ## Navajo Tribe
 
@@ -3970,6 +4034,9 @@ Nevada in the context of fish science and conservation refers to the geographic 
 > This document examines the development and morphology of ephemeral gully systems in western mountain lands, proposing a classification based on stages of development from youthful to old-age. The research, conducted primarily in the [[Colorado Rocky Mountains]] with observations from [[New...
 > -- *[[StagesOfDevelopmentOfGulliesIn_16590]]*
 
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11612]]*
+
 ### Mentioned In
 - [[DemographicsOfTroutAnglersInTh_12587]]
 - [[EndanderedAndThreatenedWildlif_16520]]
@@ -3987,6 +4054,7 @@ Nevada in the context of fish science and conservation refers to the geographic 
 - [[EndangeredAndThreatenedWildlif_11596]]
 - [[HowToBuildAFarmPondForFishProd_13264]]
 - [[StagesOfDevelopmentOfGulliesIn_16590]]
+- [[PartEndangeredAndThreatenedWil_11612]]
 
 ## Nevada County
 
@@ -4076,6 +4144,9 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 > This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
 > -- *[[AbstractsFromTheDesertFishesCo_15019]]*
 
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
 ### Mentioned In
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -4107,6 +4178,7 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 - [[RazorbackSuckerMonitoringInLak_17016]]
 - [[InteragencyProposalToExamineTh_13018]]
 - [[AbstractsFromTheDesertFishesCo_15019]]
+- [[FinalDraftEcosystemPlanForTheL_11674]]
 
 ## Nevada Division Of Wildlife
 <!-- fm: auto_enriched: true -->
@@ -4121,6 +4193,9 @@ The Nevada Division of Wildlife is the state wildlife management agency responsi
 > The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
 > -- *[[LowerColoradoRiverMultispecies_11766]]*
 
+> This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
+> -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[LetterToJohnRogersRegardingBon_1993_07_01]]
@@ -4129,6 +4204,7 @@ The Nevada Division of Wildlife is the state wildlife management agency responsi
 - [[VirginRiverMonitoringArizonaSu_1994_05_16]]
 - [[VirginRiverMonitoringArizonaSu_1994_10_05]]
 - [[LowerColoradoRiverMultispecies_11766]]
+- [[LakeMohaveBackwaterrearingFaci_15473]]
 
 ## Nevada Fish and Game Commission
 
@@ -4250,6 +4326,30 @@ The Nevadan Province is a semi-arid Great Basin biotic province represented in t
 
 ### Mentioned In
 - [[FisherySurveyOfTheMousamRiver_12823]]
+
+## New Economic Policy
+
+### Summary
+President Nixon's economic program initiated August 15, 1971, featuring a wage-price freeze (Phase I) followed by controlled increases (Phase II). The policy critically affected seasonal fisheries whose seasons began during the freeze period, preventing reflection of new season's higher costs in prices, while the 10% import surcharge had limited impact on groundfish imports, increasing cod block prices by only 1¢/lb.
+
+### Context
+> This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
+> -- *[[FoodFishfreshAndFrozenProducts_11510]]*
+
+### Mentioned In
+- [[FoodFishfreshAndFrozenProducts_11510]]
+
+## New England
+
+### Summary
+A major U.S. fishing region whose ports, particularly Boston and Gloucester, served as key landing sites for groundfish. The region's fisheries were significantly affected by ICNAF quota systems for species like yellowtail flounder and haddock, with domestic landings showing declines in several major species during 1971.
+
+### Context
+> This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
+> -- *[[FoodFishfreshAndFrozenProducts_11510]]*
+
+### Mentioned In
+- [[FoodFishfreshAndFrozenProducts_11510]]
 
 ## New England Salmonid Health Guidelines
 <!-- fm: auto_enriched: true -->
@@ -4431,6 +4531,12 @@ The New Mexican Ridge-Nosed Rattlesnake is a listed species that was initially o
 > This document examines the development and morphology of ephemeral gully systems in western mountain lands, proposing a classification based on stages of development from youthful to old-age. The research, conducted primarily in the [[Colorado Rocky Mountains]] with observations from [[New...
 > -- *[[StagesOfDevelopmentOfGulliesIn_16590]]*
 
+> This hydrologic report documents groundwater conditions in the [[San Bernardino Valley]] basin, located in southeastern [[Arizona]] (Cochise County) and southwestern [[New Mexico]] (Hidalgo County), encompassing 387 square miles in Arizona. The basin contains the [[San Bernardino Ranch]] area and a...
+> -- *[[MapsShowingGroundwaterConditio_11421]]*
+
+> The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
+> -- *[[FishAndWildlifeServiceFailsToA_16901]]*
+
 ### Mentioned In
 - [[RainbowSmeltIntroductionIntoLa_1989]]
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
@@ -4452,6 +4558,8 @@ The New Mexican Ridge-Nosed Rattlesnake is a listed species that was initially o
 - [[DraftsAndNotesOnTheCyprinidFis_15336]]
 - [[ReportOnYaquiCatfishReceived_15380]]
 - [[StagesOfDevelopmentOfGulliesIn_16590]]
+- [[MapsShowingGroundwaterConditio_11421]]
+- [[FishAndWildlifeServiceFailsToA_16901]]
 
 ## New Mexico Department Of Game & Fish
 <!-- fm: auto_enriched: true -->
@@ -4804,8 +4912,12 @@ Newfoundland is a Canadian province in eastern Canada covered by this checklist.
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
+> -- *[[FoodFishfreshAndFrozenProducts_11510]]*
+
 ### Mentioned In
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[FoodFishfreshAndFrozenProducts_11510]]
 
 ## Newlands Project
 <!-- fm: auto_enriched: true -->
@@ -5126,11 +5238,15 @@ The Nile Perch (*Lates niloticus*) is a large predatory fish native to African r
 > This article by Dr. George S. Myers examines the ecological dangers posed by [[Gambusia affinis]] (mosquitofish), a small livebearer from the southeastern United States that was widely introduced worldwide for mosquito control beginning around the turn of the 20th century. Despite its effectiveness...
 > -- *[[GambusiaTheFishDestroyer_15551]]*
 
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
 ### Mentioned In
 - [[AnOccurrenceOfBranchiuraSowerb_16007]]
 - [[WestAfricanRiversAsBiogeograph_1989]]
 - [[ThePleistoceneItsClimateCauses_14987]]
 - [[GambusiaTheFishDestroyer_15551]]
+- [[BriefBographiesOfLeadingIchthy_12677]]
 
 ## Nile Tilapia
 <!-- fm: auto_enriched: true -->
@@ -5205,6 +5321,18 @@ Nimbus Hatchery is a major California state fish hatchery located on the America
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[CaliforniaTroutSalmonAndWarmwa_14867]]
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
+
+## Nimbus Salmon and Steelhead Hatchery
+
+### Summary
+Nimbus Salmon and Steelhead Hatchery is a California fish hatchery that was one of several major facilities documented in the indexed administrative reports from 1932-1967. The index catalogs annual reports from this hatchery covering production levels, operational costs, and facility improvements as part of California's inland fisheries management program.
+
+### Context
+> This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
+> -- *[[AuthortitleIndexToInlandFisher_14367]]*
+
+### Mentioned In
+- [[AuthortitleIndexToInlandFisher_14367]]
 
 ## Nine Mile
 
@@ -5796,6 +5924,18 @@ Nixon, Nevada is the location of the Marble Bluff Fish Facility on the Truckee R
 ### Mentioned In
 - [[MemorandumOnNewMexicoScientifi_16554]]
 
+## NMFS
+
+### Summary
+The National Marine Fisheries Service, the federal agency that produced this quarterly market research report analyzing the U.S. commercial fisheries market. NMFS biologists attributed declining cod landings in Newfoundland to competition from foreign fishing in both inshore and offshore fisheries.
+
+### Context
+> This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
+> -- *[[FoodFishfreshAndFrozenProducts_11510]]*
+
+### Mentioned In
+- [[FoodFishfreshAndFrozenProducts_11510]]
+
 ## Nmfs Recovery Plans
 <!-- fm: auto_enriched: true -->
 
@@ -5979,11 +6119,15 @@ Nocomis micropogon, commonly known as the Riverine Chub or Smallmouth Chub, is a
 > - **Habitat:** Slow to moderate flowing freshwater streams in Virginia, North Carolina, and Georgia (studied 1986–1990). - **Reproductive Strategy:** Breeding males construct pebble mound nests during spring spawning season. Eggs and sperm are deposited in a discrete spawning pit on the upstream ...
 > -- *[[WaterCurrentsInSpawningAreasOf_15217]]*
 
+> This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
+> -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
+
 ### Mentioned In
 - [[PhylogeneticsOfNorthAmericanCh_20485]]
 - [[StudiesOfTheBiologyOfTheChubsG_12656]]
 - [[TheComparativeFoodHabitsOfTheC_1950_07_15]]
 - [[WaterCurrentsInSpawningAreasOf_15217]]
+- [[DraftSpeciationInTheNorthAmeri_15234]]
 
 ## Nocomis Reproductive Behavior
 <!-- fm: auto_enriched: true -->
@@ -6546,8 +6690,12 @@ Non-native species introduction refers to the deliberate or accidental establish
 > - **[[Upper Colorado River Basin]] Endangered Fishes**: The committee objected to a U.S. Fish and Wildlife Service draft policy, "Procedures for Stocking Nonnative Fish Species in the Upper Colorado River Basin," arguing that the proposed procedures would effectively prioritize the persistence of...
 > -- *[[ActivityReportToTheBoardOfGove_1994_05_04]]*
 
+> Executive Order 13112, issued February 3, 1999, establishes comprehensive federal policy for preventing introduction and controlling spread of [[Invasive Species]] in the [[United States]]. The order creates the [[Invasive Species Council]] co-chaired by the Secretaries of Interior, Agriculture,...
+> -- *[[ExecutiveOrderInvasiveSpeices_13569]]*
+
 ### Mentioned In
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
+- [[ExecutiveOrderInvasiveSpeices_13569]]
 
 ## Nonindigenous Aquatic Nuisance Species Prevention And Control Act
 <!-- fm: auto_enriched: true -->
@@ -6903,6 +7051,9 @@ Norris Reservoir is a Tennessee Valley Authority (TVA) storage reservoir that se
 > This study examined winter food habits of [[Pikeperch]] (Stizostedion vitreum) in [[Oneida Lake]], New York during the winters of 1951-52 and 1952-53. Of 143 pikeperch stomachs collected via ice-fishing, 78.3% were empty—nearly double the empty-stomach rate reported for summer and fall periods in...
 > -- *[[WinterFoodHabitsOfPikeperchInO_16899]]*
 
+> This third annual progress report documents the fisheries and limnological investigation of [[Lake Powell]] from February 1965 to January 1966, during the reservoir's early filling phase. The study, financed under Section 8 of the Colorado River Storage Act, was conducted cooperatively by the Utah...
+> -- *[[GlenCanyonReservoirPostimpound_14587]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[AgeGrowthAndConditionOfBlackCr_13075]]
@@ -6914,6 +7065,7 @@ Norris Reservoir is a Tennessee Valley Authority (TVA) storage reservoir that se
 - [[RateOfGrowthAndConditionOfGame_14639]]
 - [[TheOccurrenceOfTwoAdditionalCe_18140]]
 - [[WinterFoodHabitsOfPikeperchInO_16899]]
+- [[GlenCanyonReservoirPostimpound_14587]]
 
 ## Norris Tailwater
 <!-- fm: auto_enriched: true -->
@@ -7575,6 +7727,18 @@ North Pond is one of 16 existing water sources at San Bernardino National Wildli
 ### Mentioned In
 - [[RootsVersusShootsInNutrientUpt_1989]]
 
+## North Sea
+
+### Summary
+The North Sea was one of the European marine waters studied during the period of ichthyological exploration documented in this compilation. It represented part of the geographic scope of research conducted by European ichthyologists alongside the Mediterranean and British freshwater systems.
+
+### Context
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
+### Mentioned In
+- [[BriefBographiesOfLeadingIchthy_12677]]
+
 ## North Spring
 
 ### Summary
@@ -7704,6 +7868,9 @@ Northern Arizona University appears in these historical documents as a research 
 > This 1987 memorandum from Professor W. L. Minckley to the Chair of Arizona State University's Department of Zoology proposes a Centennial Celebration commemorating [[C. Hart Merriam]]'s pioneering work on life zones. Merriam's 1890 publication "Results of a Biological Survey of the San Francisco...
 > -- *[[PotentialForACHartMerriamCente_13747]]*
 
+> Meeting minutes from the Colorado River (Aquatic) Trophic Studies (CRiTS) team quarterly coordination meeting held May 3, 1991 at [[Glen Canyon Dam]] Conference Room in Page, Arizona. The CRiTS team is an informal multi-agency/institution coordination effort focused on aquatic food base studies in...
+> -- *[[DraftColoradoRiverTrophicStudi_14828]]*
+
 ### Mentioned In
 - [[LetterToWLMinckleyOnLittleColo_1987_01_26]]
 - [[MeetingNoticeOnLittleColoradoR_1994_01_21]]
@@ -7714,6 +7881,7 @@ Northern Arizona University appears in these historical documents as a research 
 - [[TransitionMonitoringForRiparia_17903]]
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
 - [[PotentialForACHartMerriamCente_13747]]
+- [[DraftColoradoRiverTrophicStudi_14828]]
 
 ## Northern Arizona University (Nau)
 <!-- fm: auto_enriched: true -->
@@ -7742,6 +7910,18 @@ Northern Beardless Tyrannulet (Camptostoma imberbe) is a state-threatened specie
 
 ### Mentioned In
 - [[DistributionOfTheFishesOfBoone_14736]]
+
+## Northern Black Hawk
+
+### Summary
+Northern Black Hawk (Buteogallus anthracinus) is a raptor species. According to this report, it is one of the uncommon peripheral species from Mexican fauna found in Aravaipa Canyon, Arizona, where the area's year-round water and lush vegetation provide suitable habitat for large numbers of birds.
+
+### Context
+> This 1970 Bureau of Land Management resource report documents the natural values of [[Aravaipa Canyon]], Arizona, and proposes management criteria for its designation as a Primitive Area. The canyon contains a 15-mile perennial stream supporting seven of twelve native fish species from the [[San...
+> -- *[[ResourceReportOnAravaipaCanyon_11458]]*
+
+### Mentioned In
+- [[ResourceReportOnAravaipaCanyon_11458]]
 
 ## Northern Blackfish
 <!-- fm: auto_enriched: true -->
@@ -7892,6 +8072,18 @@ The Northern Grasshopper Mouse is a rodent species for which the study area lies
 
 ### Mentioned In
 - [[ReportOnTheSurveyOfTheMammalsO_11840]]
+
+## Northern Grey Hawk
+
+### Summary
+Northern Grey Hawk (Buteo nitidus) is a raptor species. This report identifies it as one of the uncommon peripheral species from Mexican fauna that occurs in Aravaipa Canyon, Arizona, attracted by the year-round water availability and lush riparian vegetation of this perennial desert stream.
+
+### Context
+> This 1970 Bureau of Land Management resource report documents the natural values of [[Aravaipa Canyon]], Arizona, and proposes management criteria for its designation as a Primitive Area. The canyon contains a 15-mile perennial stream supporting seven of twelve native fish species from the [[San...
+> -- *[[ResourceReportOnAravaipaCanyon_11458]]*
+
+### Mentioned In
+- [[ResourceReportOnAravaipaCanyon_11458]]
 
 ## Northern Harrier
 
@@ -8566,6 +8758,18 @@ Norton Lake is one of the specific locations within the Imperial National Wildli
 ### Mentioned In
 - [[DraftEnvironmentalAssessmentLo_11489]]
 
+## Norway
+
+### Summary
+An important groundfish exporter that experienced strong spawning cod catches of 153,000 metric tons in spring 1971, 50% above 1970 levels. Norway gained 9.2% of the U.S. fillet market and 21% of the block market, and its currency was revalued by 4% during the period covered, potentially affecting export competitiveness.
+
+### Context
+> This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
+> -- *[[FoodFishfreshAndFrozenProducts_11510]]*
+
+### Mentioned In
+- [[FoodFishfreshAndFrozenProducts_11510]]
+
 ## Nostoc
 <!-- fm: auto_enriched: true -->
 
@@ -9079,12 +9283,16 @@ Notropis cornutus, commonly known as the common shiner or redfin shiner, is a cy
 > 1. **Phylogenetic origin**: Notropis is proposed to have arisen in North America from **[[Pimephalinae]]** stock (Pimephales → Cliola → Luxilus), independent of Old World Leuciscinae — supporting recognition of a new subfamily, **Notropinae** (Notropis + Cliola), with Hybopsis (and possibly Phena...
 > -- *[[ObservationsOnTheFishesOfTheGe_1909_12_08]]*
 
+> This document describes a fish collection survey conducted on [[Carnahan Creek]], a small prairie stream tributary to the [[Big Blue River]] near Stockdale, Kansas. Six collection stations were established along the stream from its mouth to approximately 2 miles upstream. The survey documented 17...
+> -- *[[SurveyOfCarnahanCreekPottawato_15864]]*
+
 ### Mentioned In
 - [[IntraSpecificVariationInTheBig_11432]]
 - [[ObservationsOnTheFishesOfTheGe_1909_12_08]]
 - [[OnATexasRecordOfNotropisBoopsB_14206]]
 - [[PopulationDifferentiationAndIn_1987]]
 - [[ReviewOfFreshwaterFishesOfCana_17244]]
+- [[SurveyOfCarnahanCreekPottawato_15864]]
 
 ## Notropis Cornutus Albeolus
 <!-- fm: auto_enriched: true -->

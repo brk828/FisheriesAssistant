@@ -22,6 +22,18 @@ P. C. Marsh was an Associate Professor and co-investigator on this 1990 Arizona 
 ### Mentioned In
 - [[OverkillAtOlduvaiGorge_1967_07_08]]
 
+## P.C. Marsh
+
+### Summary
+P.C. Marsh is a researcher in the Department of Zoology and Center for Environmental Studies at Arizona State University. In this research proposal, Marsh is responsible for the collections component of the Gila taxonomy project.
+
+### Context
+> This administrative memorandum documents space allocation negotiations at [[Arizona State University]] for a proposed multi-year research project on the taxonomy of the fish genus [[Gila]]. The proposal, submitted to the [[U.S. Bureau of Reclamation]], requests $993,693 over 3 years (including...
+> -- *[[SpaceForResearchProjectGilaTax_11793]]*
+
+### Mentioned In
+- [[SpaceForResearchProjectGilaTax_11793]]
+
 ## Pace Creek
 
 ### Summary
@@ -73,6 +85,18 @@ Pachycheles setimanus is a porcelain crab species found in the Puerto Peñasco i
 
 ### Mentioned In
 - [[UrenchelysAbditusNewSpeciesThe_11967]]
+
+## Pacific
+
+### Summary
+A major U.S. fishing region encompassing Alaska and Seattle that was important for halibut and salmon fisheries. The Pacific halibut fishery operated under a 50-million-pound quota set by the International Pacific Halibut Commission, though combined U.S. and Canadian landings fell considerably short at approximately 26.4 million pounds in 1971.
+
+### Context
+> This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
+> -- *[[FoodFishfreshAndFrozenProducts_11510]]*
+
+### Mentioned In
+- [[FoodFishfreshAndFrozenProducts_11510]]
 
 ## Pacific Black Duck
 <!-- fm: auto_enriched: true -->
@@ -210,11 +234,15 @@ Pacific Halibut (*Hippoglossus stenolepis*) is a large rightye flounder (Pleuron
 > - **Species dominance:** The most numerous remains recovered were [[Turkey-red Rockfish]], [[Black Rockfish]], [[Cabezon]], [[Pacific Halibut]], and [[Vermilion Rockfish]]. - **Evidence of deep-sea fishing capability:** The presence of [[Turkey-red Rockfish]] and [[Vermilion Rockfish]], both deep...
 > -- *[[FishSpeciesFromThePointStGeorg_1965_02_22]]*
 
+> This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
+> -- *[[FoodFishfreshAndFrozenProducts_11510]]*
+
 ### Mentioned In
 - [[AbundanceOfStJohnsRiverShad_1960_03_08]]
 - [[FishSpeciesFromThePointStGeorg_1965_02_22]]
 - [[SomePrinciplesInvolvedInRegula_16870]]
 - [[TheoreticalYieldsAtVariousRate_1953]]
+- [[FoodFishfreshAndFrozenProducts_11510]]
 
 ## Pacific Halibut Fishery
 <!-- fm: auto_enriched: true -->
@@ -1533,6 +1561,46 @@ The Paiute Indian Tribe is not mentioned in this conservation strategy document 
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
 
+## Palau Dove
+
+### Summary
+The Palau Dove is a bird species that was previously listed under the Endangered Species Act but has since been removed from protection. This document includes it in the supplementary list of species delisted due to recovery, indicating the species successfully recovered to the point where federal protection was no longer necessary.
+
+### Context
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11612]]*
+
+> This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the U.S. Fish and Wildlife Service to be Endangered or Threatened under the Endangered Species Act. Published as of January 1,...
+> -- *[[PartEndangeredAndThreatenedWil_13327]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_11612]]
+- [[PartEndangeredAndThreatenedWil_13327]]
+
+## Palau Fantail
+
+### Summary
+The Palau Fantail is a bird species that was previously listed under the Endangered Species Act but has since been removed from protection. This document includes it in the supplementary list of species delisted due to recovery, demonstrating successful conservation outcomes.
+
+### Context
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11612]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_11612]]
+
+## Palau Owl
+
+### Summary
+The Palau Owl is a bird species that was previously listed under the Endangered Species Act but has since been removed from protection. This document includes it in the supplementary list of species delisted due to recovery, representing a successful conservation case.
+
+### Context
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11612]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_11612]]
+
 ## Palawan
 
 ### Summary
@@ -2008,6 +2076,18 @@ Palmer's Grass (Distichlis palmeri) is a plant species that was traditionally ha
 - [[ColoradoRiverStudies_1967_03_31]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
 
+## Palo Verde Drain
+
+### Summary
+Palo Verde Drain is an irrigation return flow channel entering the Lower Colorado River. The report notes that turbidity in this drain reached 150 parts per million (platinum wire standard) due to suspended sand and silt, representing one of the water quality impacts from agricultural drainage in the system.
+
+### Context
+> This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
+> -- *[[FisheriesReportOfTheLowerColor_16429]]*
+
+### Mentioned In
+- [[FisheriesReportOfTheLowerColor_16429]]
+
 ## Palo Verde Weir
 
 ### Summary
@@ -2164,6 +2244,18 @@ The Pamirs is a high-altitude mountain region in Central Asia. According to this
 
 ### Mentioned In
 - [[EffectOfActivitySalinityAndTem_1969]]
+
+## Panama
+
+### Summary
+Panama was a tropical region where significant ichthyological work was conducted, most notably by Samuel F. Hildebrand who published four volumes on Panama fishes between 1916 and 1928. It was one of several tropical areas (along with British Guiana and the West Indies) that received systematic attention during this period.
+
+### Context
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
+### Mentioned In
+- [[BriefBographiesOfLeadingIchthy_12677]]
 
 ## Panchax
 
@@ -2399,6 +2491,12 @@ Pantosteus clarki, commonly known as the Desert Sucker, is a native benthic cato
 > This Master's thesis examines F₁ hybrids between [[Catostomus insignis]] (Sonora sucker) and [[Pantosteus clarki]] (desert mountain-sucker) from [[Aravaipa Creek]] and [[Bonita Creek]], Arizona. The study tests hypotheses of morphological and behavioral intermediacy in natural fish hybrids using...
 > -- *[[MorphologyAndFeedingBehaviorOf_15922]]*
 
+> This proposal outlines a comprehensive 12-month monitoring protocol for fish populations in [[Aravaipa Creek]], one of the last [[Sonoran Desert]] streams supporting a diverse native fish fauna. The program focuses on tracking the invasion of non-native [[Red Shiner]] (*[[Cyprinella lutrensis]]*)...
+> -- *[[AProposedMonitoringProtocolFor_13782]]*
+
+> The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
+> -- *[[GilaRiverFishdistributionProje_15844]]*
+
 ### Mentioned In
 - [[ColoradoSquawfishMonitoringVer_19393]]
 - [[DataForAravaipaCreekFishCount_1995_10_07]]
@@ -2417,6 +2515,8 @@ Pantosteus clarki, commonly known as the Desert Sucker, is a native benthic cato
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 - [[DrafInfluenceOfHybridizationOn_11330]]
 - [[MorphologyAndFeedingBehaviorOf_15922]]
+- [[AProposedMonitoringProtocolFor_13782]]
+- [[GilaRiverFishdistributionProje_15844]]
 
 ## Pantosteus delphinus
 
@@ -3322,6 +3422,12 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 > This document comprises field collection records and museum catalog entries from the [[University of Michigan Museum of Zoology]] (UMMZ) spanning 1934-1978, documenting fish fauna of the [[Colorado River]] basin in [[Coconino County]], [[Arizona]]. The records include handwritten field notes,...
 > -- *[[GrandCanyonFieldNotesFromAndVa_15334]]*
 
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
+> Meeting minutes from the Colorado River (Aquatic) Trophic Studies (CRiTS) team quarterly coordination meeting held May 3, 1991 at [[Glen Canyon Dam]] Conference Room in Page, Arizona. The CRiTS team is an informal multi-agency/institution coordination effort focused on aquatic food base studies in...
+> -- *[[DraftColoradoRiverTrophicStudi_14828]]*
+
 ### Mentioned In
 - [[CommentsOnDraftColoradoRiverEn_1993_12_28]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -3358,6 +3464,8 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 - [[InformationRegardingManagement_16919]]
 - [[RealitiesOfProvidingWaterForEn_20669]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
+- [[FinalDraftEcosystemPlanForTheL_11674]]
+- [[DraftColoradoRiverTrophicStudi_14828]]
 
 ## Pariette Draw
 
@@ -3438,6 +3546,9 @@ Parker Canyon Lake is an Arizona reservoir constructed in 1963 that functions as
 > This document reports the confirmed reproduction of illegally introduced [[Northern Pike]] (*Esox lucius*) in [[Parker Canyon Lake]], Arizona. First detected in summer 1997, juvenile pike were sampled by September 1998, confirming successful reproduction. The 124-acre lake southwest of [[Sierra...
 > -- *[[ReproductionOfNorthernPikeConf_20180]]*
 
+> This completion report documents creel census activities conducted across seven regions of Arizona from January to December 1965. The Arizona Game and Fish Department gathered data on fishing success, species composition, angler origin, and fishing methods across multiple lakes including [[Big...
+> -- *[[FisheryInvestigationsInRegionI_12196]]*
+
 ### Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -3445,6 +3556,7 @@ Parker Canyon Lake is an Arizona reservoir constructed in 1963 that functions as
 - [[RiverBasinInvestigationsCooper_12958]]
 - [[RiverBasinInvestigationsVisito_12729]]
 - [[ReproductionOfNorthernPikeConf_20180]]
+- [[FisheryInvestigationsInRegionI_12196]]
 
 ## Parker Creek
 <!-- fm: auto_enriched: true -->
@@ -3522,6 +3634,9 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 > **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
 > -- *[[ComparativeSurvivalOfRepatriat_2017]]*
 
+> This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
+> -- *[[FisheriesReportOfTheLowerColor_16429]]*
+
 ### Mentioned In
 - [[HumpbackChubGilaCypha_18257]]
 - [[ReCommentsOnTheFederalRegister_11571]]
@@ -3547,6 +3662,7 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 - [[BiologyOfTheStripedBassMoroneS_15769]]
 - [[FisheriesReportOfTheLowerColor_19846]]
 - [[ComparativeSurvivalOfRepatriat_2017]]
+- [[FisheriesReportOfTheLowerColor_16429]]
 
 ## Parker Division
 
@@ -4231,6 +4347,18 @@ Payson Basin is not explicitly described in this source note. While the source d
 ### Mentioned In
 - [[HolisticSpeciesDelimitationSup_2026]]
 
+## PCR
+
+### Summary
+PCR (polymerase chain reaction) is a DNA amplification technique that can work with small amounts of genetic material, including from preserved museum specimens. The evaluation committee noted that PCR would be more compatible with non-lethal sampling than the restriction enzyme mtDNA analysis proposed by Arizona State University, and expressed concern that the researchers were not proposing PCR-based methods to examine DNA from historic preserved Gila specimens to compare with present-day populations.
+
+### Context
+> This document is a Technical Proposal Evaluation Committee (TPEC) review of proposals submitted by [[Arizona State University]] for Solicitation No. 0-SP-40-09700, investigating genetic and morphological variation in the cyprinid fish genus [[Gila]] throughout the [[Colorado River]] basin. The...
+> -- *[[SolicitationNoSpEntitledInvest_15607]]*
+
+### Mentioned In
+- [[SolicitationNoSpEntitledInvest_15607]]
+
 ## Peace Pipe Vista
 <!-- fm: auto_enriched: true -->
 
@@ -4571,6 +4699,12 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 > This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
 > -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
 
+> This draft Environmental Assessment evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (Hybognathus amarus) pursuant to section 4 of the Endangered Species Act. The document responds to a February 22, 1999 court order (Forest Guardians and Defenders of...
+> -- *[[DraftEnvironmentalAssessmentDe_13207]]*
+
+> This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
+> -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
+
 ### Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[CompositionAndDerivationOfTheN_15363]]
@@ -4595,6 +4729,8 @@ The Pecos River is a major tributary of the Rio Grande in the southwestern Unite
 - [[DesertFishesCouncilEighteenthA_12829]]
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
 - [[DraftsAndNotesOnTheCyprinidFis_15336]]
+- [[DraftEnvironmentalAssessmentDe_13207]]
+- [[DraftSpeciationInTheNorthAmeri_15234]]
 
 ## Pecos River Basin
 <!-- fm: auto_enriched: true -->
@@ -4648,6 +4784,18 @@ The Pecos River System is a major part of the distribution range of Ictalurus lu
 ### Mentioned In
 - [[GuideToTheFishesOfNewMexico_1957]]
 - [[CvForNewProposal_17525]]
+
+## Pectinatella magnifica
+
+### Summary
+Pectinatella magnifica, commonly called the Magnificent Bryozoan or Moss Animal, is a colonial freshwater invertebrate that forms large gelatinous masses attached to submerged wood in ponds and reservoir backwaters. This source describes how colonies consist of thousands of tiny filter-feeding animals that secrete clear jelly, can grow to over a yard across by late summer, and are often mistaken for fish eggs or sponges. The study found these bryozoans support high densities of midge larvae (over 300 per quart-sized mass) that serve as fish food, leading the author to conclude they are likely beneficial rather than harmful to pond fisheries despite public concerns.
+
+### Context
+> This article describes [[Pectinatella magnifica]], a colonial freshwater bryozoan commonly found in Alabama ponds and reservoir backwaters. Often mistaken for fish eggs or freshwater sponges, these gelatinous masses consist of thousands of tiny filter-feeding animals that secrete clear jelly and...
+> -- *[[WhatIsIt_12800]]*
+
+### Mentioned In
+- [[WhatIsIt_12800]]
 
 ## Pectinatus Species Group
 <!-- fm: auto_enriched: true -->
@@ -4751,6 +4899,18 @@ Pediastrum is a green alga genus that was among the dominant phytoplankton in La
 
 ### Mentioned In
 - [[EffectiveBreedingEfficiencyAnI_13479]]
+
+## Pedregosa Mountains
+
+### Summary
+The Pedregosa Mountains are a mountain range on the western side of the San Bernardino Valley basin, reaching elevations up to 6,410 feet above sea level. They contain outcrops of Paleozoic sedimentary rocks in their northern portion and consist primarily of Cretaceous and Tertiary volcanic rocks.
+
+### Context
+> This hydrologic report documents groundwater conditions in the [[San Bernardino Valley]] basin, located in southeastern [[Arizona]] (Cochise County) and southwestern [[New Mexico]] (Hidalgo County), encompassing 387 square miles in Arizona. The basin contains the [[San Bernardino Ranch]] area and a...
+> -- *[[MapsShowingGroundwaterConditio_11421]]*
+
+### Mentioned In
+- [[MapsShowingGroundwaterConditio_11421]]
 
 ## Pee Dee River
 <!-- fm: auto_enriched: true -->
@@ -4921,9 +5081,17 @@ The Peloncillo Mountains are a mountain range in the American Southwest where De
 > This 1917 U.S. Geological Survey report by A. T. Schwennesen documents the groundwater resources of [[San Simon Valley]], an 85-mile-long arid basin in southeastern Arizona and adjacent New Mexico. The valley, bounded by the [[Peloncillo Mountains]] to the east and the [[Chiricahua Mountains]],...
 > -- *[[GroundWaterInSanSimonValleyAri_11299]]*
 
+> This hydrologic report documents groundwater conditions in the [[San Bernardino Valley]] basin, located in southeastern [[Arizona]] (Cochise County) and southwestern [[New Mexico]] (Hidalgo County), encompassing 387 square miles in Arizona. The basin contains the [[San Bernardino Ranch]] area and a...
+> -- *[[MapsShowingGroundwaterConditio_11421]]*
+
+> This document is a wilderness status map produced by the [[Bureau of Land Management]] (BLM) for the State of Arizona in September 1992. It depicts various categories of wilderness and protected lands including designated wilderness areas, wilderness study areas (WSAs), and other federally...
+> -- *[[StateOfArizonaWildernessStatus_13214]]*
+
 ### Mentioned In
 - [[ZoogeographicalAnalysisAndRevi_15920]]
 - [[GroundWaterInSanSimonValleyAri_11299]]
+- [[MapsShowingGroundwaterConditio_11421]]
+- [[StateOfArizonaWildernessStatus_13214]]
 
 ## Pelorus Valley
 
@@ -5012,6 +5180,9 @@ Pena Blanca Lake is a warmwater Arizona reservoir that served as a study site fo
 > This is a 1959 Federal Aid in Fish and Wildlife Restoration project proposal (Dingell-Johnson Act, Project F-8-R-2) submitted by the Arizona Game and Fish Department, led by **William J. McConnell**, to investigate the relationship between **gross primary productivity (G.P.P.)** and **game fish b...
 > -- *[[PrimaryProductivityFishHarvest_1959_11_19]]*
 
+> This completion report documents creel census activities conducted across seven regions of Arizona from January to December 1965. The Arizona Game and Fish Department gathered data on fishing success, species composition, angler origin, and fishing methods across multiple lakes including [[Big...
+> -- *[[FisheryInvestigationsInRegionI_12196]]*
+
 ### Mentioned In
 - [[AnnualReportArizonaCooperative_1966]]
 - [[ArizonaGameAndFishDepartmentFi_1961]]
@@ -5021,6 +5192,7 @@ Pena Blanca Lake is a warmwater Arizona reservoir that served as a study site fo
 - [[RiverBasinInvestigationsCooper_12958]]
 - [[RiverBasinInvestigationsVisito_12729]]
 - [[SomeEffectsOfThreadfinShadIntr_15693]]
+- [[FisheryInvestigationsInRegionI_12196]]
 
 ## Penaeid Shrimp
 <!-- fm: auto_enriched: true -->
@@ -5089,6 +5261,15 @@ Pence Draw is a sampling location (site 54) in Arizona that supported multiple t
 
 ### Mentioned In
 - [[StationAllocationsAndFtesForOp_1994_03_29]]
+
+## Penicillus
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
 
 ## Pennak 1949, 1955, 1957
 <!-- fm: auto_enriched: true -->
@@ -5486,6 +5667,9 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 > This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
 > -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
 
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11612]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -5549,6 +5733,7 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 - [[AChecklistOfTexasFreshwaterFis_19871]]
 - [[ObservationsOnTheFoodHabitsOfD_20140]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[PartEndangeredAndThreatenedWil_11612]]
 
 ## Perciformes
 <!-- fm: auto_enriched: true -->
@@ -5946,6 +6131,9 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 > This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
 > -- *[[InformationRegardingManagement_16919]]*
 
+> This document comprises U.S. Fish and Wildlife Service memoranda and guidelines from 1985 establishing standardized procedures for developing and implementing recovery plans for federally listed endangered and threatened species under the Endangered Species Act of 1973, as amended. The guidelines...
+> -- *[[EndangeredAndThreatenedSpecies_15998]]*
+
 ### Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -5979,6 +6167,7 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 - [[FormalSectionConsultationMiner_11842]]
 - [[EvaluationOfTheInstreamFlowReq_13030]]
 - [[InformationRegardingManagement_16919]]
+- [[EndangeredAndThreatenedSpecies_15998]]
 
 ## Perennial Stream
 <!-- fm: auto_enriched: true -->
@@ -5996,6 +6185,51 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 ### Mentioned In
 - [[VitaOfDavidEBrown_13009]]
 
+## Periclimenes
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
+
+## Periclimenes americanus
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
+
+## Periclimenes pedersoni
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
+
+## Periclimenes rathbunae
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
+
+## Periclimenes yucatanicus
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
+
 ## Peridinium
 <!-- fm: auto_enriched: true -->
 
@@ -6005,6 +6239,18 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 
 ### Mentioned In
 - [[PhytoplanktonSuccessionsAndLak_12610]]
+
+## Perilla Mountains
+
+### Summary
+The Perilla Mountains are a mountain range located on the western side of the San Bernardino Valley basin in southeastern Arizona. They consist primarily of Cretaceous and Tertiary andesitic and rhyolitic volcanics with some outcrops of Cretaceous and Paleozoic sedimentary rocks, and wells completed in the Cretaceous sedimentary rocks of these mountains showed elevated dissolved solids exceeding secondary maximum contaminant levels.
+
+### Context
+> This hydrologic report documents groundwater conditions in the [[San Bernardino Valley]] basin, located in southeastern [[Arizona]] (Cochise County) and southwestern [[New Mexico]] (Hidalgo County), encompassing 387 square miles in Arizona. The basin contains the [[San Bernardino Ranch]] area and a...
+> -- *[[MapsShowingGroundwaterConditio_11421]]*
+
+### Mentioned In
+- [[MapsShowingGroundwaterConditio_11421]]
 
 ## Periophthalmus
 <!-- fm: auto_enriched: true -->
@@ -7046,9 +7292,13 @@ Phantom Ranch is a location in Grand Canyon approximately 103 miles downstream f
 > This 1994 status assessment documents the dramatic decline of native fish fauna in the [[Middle Rio Grande]] between Espanola and [[Elephant Butte Reservoir]], New Mexico. Of 45 fish species known historically, only 17 (38%) are native, with 6 (11%) endemic to the system. Seven native species have...
 > -- *[[FishFaunaOfTheMiddleRioGrandeS_15005]]*
 
+> This draft Environmental Assessment evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (Hybognathus amarus) pursuant to section 4 of the Endangered Species Act. The document responds to a February 22, 1999 court order (Forest Guardians and Defenders of...
+> -- *[[DraftEnvironmentalAssessmentDe_13207]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
 - [[FishFaunaOfTheMiddleRioGrandeS_15005]]
+- [[DraftEnvironmentalAssessmentDe_13207]]
 
 ## Phantom Spring
 <!-- fm: auto_enriched: true -->
@@ -7407,8 +7657,12 @@ The Philippines is a location where Gambusia introduction has caused severe ecol
 > This article by Dr. George S. Myers examines the ecological dangers posed by [[Gambusia affinis]] (mosquitofish), a small livebearer from the southeastern United States that was widely introduced worldwide for mosquito control beginning around the turn of the 20th century. Despite its effectiveness...
 > -- *[[GambusiaTheFishDestroyer_15551]]*
 
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
 ### Mentioned In
 - [[GambusiaTheFishDestroyer_15551]]
+- [[BriefBographiesOfLeadingIchthy_12677]]
 
 ## Philipson Bomb
 
@@ -7516,6 +7770,9 @@ Phoenix is a major city in central Arizona where urban fishery opportunities wer
 > This document is a July 1990 letter from a Department of Zoology faculty member to Stewart L. Udall, former Secretary of the Interior, requesting a forward for an edited volume on endangered western fishes. The letter includes a draft forward outlining key conservation controversies involving...
 > -- *[[DraftOfForwardForBookBattleAga_13788]]*
 
+> The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
+> -- *[[FishAndWildlifeServiceFailsToA_16901]]*
+
 ### Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[LowerColoradoRiverMultispecies_11766]]
@@ -7523,6 +7780,7 @@ Phoenix is a major city in central Arizona where urban fishery opportunities wer
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 - [[DraftOfForwardForBookBattleAga_13788]]
+- [[FishAndWildlifeServiceFailsToA_16901]]
 
 ## Phoenix District
 <!-- fm: auto_enriched: true -->
@@ -8529,6 +8787,18 @@ Pierce Ferry is a location on the Colorado River between Glen Canyon Dam and Lak
 - [[UseOfHydroelectricDamsToContro_11232]]
 - [[TheEffectsOfInterimFlowsFromGl_13620]]
 
+## Pieter van Bleeker
+
+### Summary
+Pieter van Bleeker (1819-1878) was a prolific ichthyologist who published nearly 1,400 papers on fishes, primarily focusing on the Indo-Australian Archipelago fauna. His major work, the "Atlas Ichthyologique des Indes Orientales," remained two-thirds completed at his death, representing a comprehensive treatment of Southeast Asian fish diversity.
+
+### Context
+> This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
+> -- *[[BriefBographiesOfLeadingIchthy_12677]]*
+
+### Mentioned In
+- [[BriefBographiesOfLeadingIchthy_12677]]
+
 ## Pigeon Creek
 
 ### Summary
@@ -8958,11 +9228,15 @@ Pimephales notatus, commonly known as the bluntnose minnow, is a small cyprinid 
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This document describes a fish collection survey conducted on [[Carnahan Creek]], a small prairie stream tributary to the [[Big Blue River]] near Stockdale, Kansas. Six collection stations were established along the stream from its mouth to approximately 2 miles upstream. The survey documented 17...
+> -- *[[SurveyOfCarnahanCreekPottawato_15864]]*
+
 ### Mentioned In
 - [[AReassessmentOfTheDistribution_1980]]
 - [[EffectsOfStripMiningOnSmallStr_1972_02_29]]
 - [[SmallFishCommunityStructureInO_1982]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[SurveyOfCarnahanCreekPottawato_15864]]
 
 ## Pimephales Promelas
 <!-- fm: auto_enriched: true -->
@@ -9019,6 +9293,12 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 > This document comprises field collection records and museum catalog entries from the [[University of Michigan Museum of Zoology]] (UMMZ) spanning 1934-1978, documenting fish fauna of the [[Colorado River]] basin in [[Coconino County]], [[Arizona]]. The records include handwritten field notes,...
 > -- *[[GrandCanyonFieldNotesFromAndVa_15334]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
+> This document describes a fish collection survey conducted on [[Carnahan Creek]], a small prairie stream tributary to the [[Big Blue River]] near Stockdale, Kansas. Six collection stations were established along the stream from its mouth to approximately 2 miles upstream. The survey documented 17...
+> -- *[[SurveyOfCarnahanCreekPottawato_15864]]*
+
 ### Mentioned In
 - [[DistributionOfMidwesternFishes_1978]]
 - [[FiveNewSpeciesOfGyrodactylusTr_12149]]
@@ -9041,6 +9321,8 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 - [[EarlyFieldNotes_15954]]
 - [[TheEffectOfDomesticAndOilRefin_15666]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
+- [[TransportationAndDeliveryOfCen_11638]]
+- [[SurveyOfCarnahanCreekPottawato_15864]]
 
 ## Pimephales Vigilax
 <!-- fm: auto_enriched: true -->
@@ -9198,6 +9480,22 @@ The Pinal Creek Basin is a drainage basin in eastern Arizona that has experience
 ### Mentioned In
 - [[OxygenAndDeuteriumDistribution_1987]]
 
+## Pine Barrens Treefrog
+
+### Summary
+The Pine Barrens Treefrog is an amphibian species that was previously listed under the Endangered Species Act. This document includes it in the supplementary list of species delisted due to original data error, meaning the initial determination that it warranted federal protection was based on incorrect information.
+
+### Context
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11612]]*
+
+> This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the U.S. Fish and Wildlife Service to be Endangered or Threatened under the Endangered Species Act. Published as of January 1,...
+> -- *[[PartEndangeredAndThreatenedWil_13327]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_11612]]
+- [[PartEndangeredAndThreatenedWil_13327]]
+
 ## Pine Creek Pasture
 
 ### Summary
@@ -9352,6 +9650,18 @@ The Pink Boll Worm is an agricultural pest that infested cotton crops in the Mex
 
 ### Mentioned In
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+
+## Pink Mucket Pearly Mussel
+
+### Summary
+The Pink Mucket Pearly Mussel (Lampsilis orbiculata) is a freshwater mollusk in the family Unionidae. It was listed as Endangered as of January 1, 1986, representing one of the many southeastern freshwater mussels receiving federal protection.
+
+### Context
+> This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the U.S. Fish and Wildlife Service to be Endangered or Threatened under the Endangered Species Act. Published as of January 1,...
+> -- *[[PartEndangeredAndThreatenedWil_13327]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_13327]]
 
 ## Pink Salmon
 <!-- fm: auto_enriched: true -->
@@ -10095,6 +10405,18 @@ Pittsburg and Midway Coal Mining Company was a coal operator in southeastern Kan
 ### Mentioned In
 - [[ReceiptOfShipmentOfBonytailChu_18535]]
 
+## Pittsburgh Point Backwater
+
+### Summary
+Pittsburgh Point Backwater is an isolated backwater habitat used for on-site rearing of razorback suckers as part of conservation efforts downstream from Lake Mohave. In June 1993, 199 PIT-tagged razorbacks were introduced to this site and showed rapid growth, increasing from 178 mm (68 g) to 245 mm (190 g) in just 6 weeks.
+
+### Context
+> This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
+> -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
+
+### Mentioned In
+- [[LakeMohaveBackwaterrearingFaci_15473]]
+
 ## Pittsford
 <!-- fm: auto_enriched: true -->
 
@@ -10340,6 +10662,9 @@ Plagopterus argentissimus, commonly known as the Colorado River squawfish or pik
 > This document comprises field collection records and museum catalog entries from the [[University of Michigan Museum of Zoology]] (UMMZ) spanning 1934-1978, documenting fish fauna of the [[Colorado River]] basin in [[Coconino County]], [[Arizona]]. The records include handwritten field notes,...
 > -- *[[GrandCanyonFieldNotesFromAndVa_15334]]*
 
+> The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
+> -- *[[GilaRiverFishdistributionProje_15844]]*
+
 ### Mentioned In
 - [[LetterFromJamesEDeaconToClarkH_1975_04_17]]
 - [[SpeciesAccountRhinichthysOscul_13165]]
@@ -10351,6 +10676,7 @@ Plagopterus argentissimus, commonly known as the Colorado River squawfish or pik
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
+- [[GilaRiverFishdistributionProje_15844]]
 
 ## Plaice
 <!-- fm: auto_enriched: true -->
@@ -10457,10 +10783,14 @@ The Plains Killifish (*Fundulus kansae*) is a small cyprinodontid fish native to
 > This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
 > -- *[[ListOfFishesReportedFromKansas_18026]]*
 
+> This draft Environmental Assessment evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (Hybognathus amarus) pursuant to section 4 of the Endangered Species Act. The document responds to a February 22, 1999 court order (Forest Guardians and Defenders of...
+> -- *[[DraftEnvironmentalAssessmentDe_13207]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
 - [[EndangeredAndThreatenedWildlif_11651]]
 - [[ListOfFishesReportedFromKansas_18026]]
+- [[DraftEnvironmentalAssessmentDe_13207]]
 
 ## Plains Red Shiner
 <!-- fm: auto_enriched: true -->
@@ -10511,6 +10841,18 @@ The Plains Topminnow (Fundulus sciadicus) is a killifish species documented in K
 
 ### Mentioned In
 - [[ListOfFishesReportedFromKansas_18026]]
+
+## Planet Mine
+
+### Summary
+Planet Mine is an abandoned mining operation on the Bill Williams River that was previously documented with thallium concentrations of 5.1 mg/l, the highest recorded in the Southwest. This represents a significant point source of heavy metal contamination affecting water quality in the Bill Williams drainage.
+
+### Context
+> This technical report documents a comprehensive aquatic inventory of the [[Bill Williams River]] and [[Hassayampa River]] drainages in west-central Arizona, conducted during winter and spring 1980. The study was undertaken by the U.S. Bureau of Land Management Phoenix District Office to provide...
+> -- *[[AquaticInventoryOfTheBillWilli_12503]]*
+
+### Mentioned In
+- [[AquaticInventoryOfTheBillWilli_12503]]
 
 ## Planktivore Foraging Energetics
 <!-- fm: auto_enriched: true -->
@@ -10704,6 +11046,18 @@ Plantago cordata is a plant species from Illinois streams used as a comparative 
 
 ### Mentioned In
 - [[GrowthOfUnderyearlingSockeyeSa_15918]]
+
+## Platania
+
+### Summary
+Platania is a researcher who, along with Dudley, conducted investigations in 1997 on Rio Grande Silvery Minnow habitat selection in the Middle Rio Grande. The study documented that the species selects low-velocity habitats with silt substrates and avoids main channel runs, with only 1% of individuals found in higher-velocity habitat despite it being the most abundant habitat type.
+
+### Context
+> This draft Environmental Assessment evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (Hybognathus amarus) pursuant to section 4 of the Endangered Species Act. The document responds to a February 22, 1999 court order (Forest Guardians and Defenders of...
+> -- *[[DraftEnvironmentalAssessmentDe_13207]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentDe_13207]]
 
 ## Platanichthys
 <!-- fm: auto_enriched: true -->
@@ -10946,9 +11300,13 @@ Pleasant Lake is an 80-foot deep, 20-acre stratified trout lake in Minnesota tha
 > This 1957 technical report documents a comprehensive survey of bass tapeworm ([[Proteocephalus ambloplitis]]) infections across 124 lakes and ponds in southern [[New Hampshire]]. Conducted during 1955-1956 under the Dingell-Johnson Project F-8-R, the study examined 1,960 fish representing 12...
 > -- *[[TheIncidenceAndDistributionOfT_15429]]*
 
+> This completion report documents creel census activities conducted across seven regions of Arizona from January to December 1965. The Arizona Game and Fish Department gathered data on fishing success, species composition, angler origin, and fishing methods across multiple lakes including [[Big...
+> -- *[[FisheryInvestigationsInRegionI_12196]]*
+
 ### Mentioned In
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[TheIncidenceAndDistributionOfT_15429]]
+- [[FisheryInvestigationsInRegionI_12196]]
 
 ## Plecoptera
 <!-- fm: auto_enriched: true -->
@@ -11412,6 +11770,18 @@ The Pluvial White River System is a network of desert spring systems in Nevada t
 ### Mentioned In
 - [[TheLimnologyOfDesertSprings_13994]]
 
+## Plymouth Red-bellied Turtle
+
+### Summary
+The Plymouth Red-bellied Turtle is a federally listed species used in this 1985 recovery planning guidance document to illustrate Priority 2 recovery tasks. The document cites law enforcement to prevent illegal taking of Plymouth Red-bellied Turtles as an example of a Priority 2 action—defined as actions necessary to prevent significant population or habitat decline that falls short of immediate extinction risk.
+
+### Context
+> This document comprises U.S. Fish and Wildlife Service memoranda and guidelines from 1985 establishing standardized procedures for developing and implementing recovery plans for federally listed endangered and threatened species under the Endangered Species Act of 1973, as amended. The guidelines...
+> -- *[[EndangeredAndThreatenedSpecies_15998]]*
+
+### Mentioned In
+- [[EndangeredAndThreatenedSpecies_15998]]
+
 ## Pma
 <!-- fm: auto_enriched: true -->
 
@@ -11621,12 +11991,16 @@ Poecilia formosa, commonly known as the Amazon molly, is a freshwater poeciliid 
 > This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
 > -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
 ### Mentioned In
 - [[LetterToPeterBMoyleOnColoradoR_13792]]
 - [[SurvivalAndAbundanceOfIntroduc_14259]]
 - [[SystematicsOfPoeciliaInNorthea_13950]]
 - [[AReviewOfTheBiologyOfTheMosqui_14748]]
 - [[AnEcologicalOverviewOfPoecilii_20086]]
+- [[TransportationAndDeliveryOfCen_11638]]
 
 ## Poecilia Latipunctata
 <!-- fm: auto_enriched: true -->
@@ -11830,6 +12204,12 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 > This July 16, 1990 memorandum from the U.S. Fish and Wildlife Service Field Supervisor to the Bureau of Land Management State Director announces the decision to halt designation of experimental nonessential populations of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert...
 > -- *[[ExperimentalNonessentialPopula_11852]]*
 
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11612]]*
+
+> This U.S. Fish and Wildlife Service fishery leaflet documents [[Gambusia affinis]], a small livebearing fish of the family [[Poeciliidae]] that has been widely introduced globally for mosquito control. The species includes two subspecies: [[Gambusia affinis affinis]] and [[Gambusia affinis...
+> -- *[[TheMosquitofishGambusiaAffinis_12751]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -11942,6 +12322,8 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 - [[HabitatUseAndPreferenceOfGilaT_18783]]
 - [[FishesNativeToOrIntroducedInPa_18945]]
 - [[ExperimentalNonessentialPopula_11852]]
+- [[PartEndangeredAndThreatenedWil_11612]]
+- [[TheMosquitofishGambusiaAffinis_12751]]
 
 ## Poeciliopsis
 <!-- fm: auto_enriched: true -->
@@ -12122,6 +12504,9 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 > This 1967 doctoral dissertation by Jeanette H. Lysne at [[Arizona State University]] presents histocompatibility studies of [[Xiphophorus gordoni]] (northern platyfish) from three isolated lagunas in the [[Cuatro Ciénegas Basin]] of Coahuila, México. Using dorsal fin transplantation techniques, the...
 > -- *[[HistocompatibilityStudiesOfThe_16290]]*
 
+> This document is an unfinished draft bibliography compiled by a researcher documenting literature on fishes in Arizona. It contains hundreds of citations spanning from the 1850s through 1988, covering taxonomic descriptions, ecological studies, fisheries management reports, endangered species...
+> -- *[[DraftbibliographyOnFishesInAri_12263]]*
+
 ### Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -12150,6 +12535,7 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 - [[InteractionsBetweenPoeciliopsi_16887]]
 - [[FinalProgressReport_18563]]
 - [[HistocompatibilityStudiesOfThe_16290]]
+- [[DraftbibliographyOnFishesInAri_12263]]
 
 ## Poeciliopsis Occidentalis Occidentalis
 <!-- fm: auto_enriched: true -->
@@ -12191,6 +12577,12 @@ Poeciliopsis occidentalis occidentalis, commonly known as the Gila Topminnow, is
 > The [[Arizona Fishery Resources Office]] (AzFRO) successfully restored [[Gila Topminnow]] habitat at the Bylas Springs complex on the [[San Carlos Indian Reservation]] through a multi-agency partnership. The project addressed the near-extinction of [[Poeciliopsis occidentalis occidentalis]], once...
 > -- *[[NewFishHabitatRestorationAndPa_11759]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
+> The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
+> -- *[[GilaRiverFishdistributionProje_15844]]*
+
 ### Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -12204,6 +12596,8 @@ Poeciliopsis occidentalis occidentalis, commonly known as the Gila Topminnow, is
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
 - [[BeaverScoping_18972]]
 - [[NewFishHabitatRestorationAndPa_11759]]
+- [[TransportationAndDeliveryOfCen_11638]]
+- [[GilaRiverFishdistributionProje_15844]]
 
 ## Poeciliopsis Occidentalis Sonoriensis
 <!-- fm: auto_enriched: true -->
@@ -12480,6 +12874,18 @@ Polato Lake (also referred to as Potato Lake in the document) is located near th
 ### Mentioned In
 - [[NumericalRelationsBetweenAbund_16863]]
 
+## Pollock
+
+### Summary
+A groundfish species mentioned as one of the major species covered in this market analysis of U.S. commercial fisheries during January-September 1971. The report examines pollock alongside cod, haddock, flounder, and ocean perch in the context of groundfish products including blocks, sticks, portions, and fillets.
+
+### Context
+> This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
+> -- *[[FoodFishfreshAndFrozenProducts_11510]]*
+
+### Mentioned In
+- [[FoodFishfreshAndFrozenProducts_11510]]
+
 ## Pollution
 <!-- fm: auto_enriched: true -->
 
@@ -12523,10 +12929,14 @@ Polyarthra is a genus of rotifers (zooplankton) found in Lake Powell during this
 > This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
 > -- *[[ReservoirFisheriesInvestigatio_14590]]*
 
+> This report documents the 1979 pre-operational ecological baseline for [[Twin Lakes]], Colorado, prior to the 1981 commissioning of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study encompasses comprehensive physical, chemical, and biological limnology of a two-lake mountain system at 2802 m...
+> -- *[[StudiesOfTheEffectsOfOperating_12648]]*
+
 ### Mentioned In
 - [[LakePowellFisheriesInvestigati_14595]]
 - [[PrimaryProductivityCAtTwinLake_12652]]
 - [[ReservoirFisheriesInvestigatio_14590]]
+- [[StudiesOfTheEffectsOfOperating_12648]]
 
 ## Polycelis
 <!-- fm: auto_enriched: true -->
@@ -12730,6 +13140,15 @@ Polyodontidae is a family of primitive freshwater fishes characterized by cartil
 ### Mentioned In
 - [[CareOfTropicalAquariumFishes_13271]]
 
+## Pomacanthus arcuatus
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
+
 ## Pomacentridae
 <!-- fm: auto_enriched: true -->
 
@@ -12907,9 +13326,13 @@ Polyodontidae is a family of primitive freshwater fishes characterized by cartil
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This document describes a fish collection survey conducted on [[Carnahan Creek]], a small prairie stream tributary to the [[Big Blue River]] near Stockdale, Kansas. Six collection stations were established along the stream from its mouth to approximately 2 miles upstream. The survey documented 17...
+> -- *[[SurveyOfCarnahanCreekPottawato_15864]]*
+
 ### Mentioned In
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[SurveyOfCarnahanCreekPottawato_15864]]
 
 ## Pomoxis Nigromaculatus
 <!-- fm: auto_enriched: true -->
@@ -12942,6 +13365,9 @@ Pomoxis nigromaculatus, commonly known as black crappie, is a freshwater centrar
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
@@ -12950,6 +13376,7 @@ Pomoxis nigromaculatus, commonly known as black crappie, is a freshwater centrar
 - [[IntroductionOfPalaemonetesPalu_20723]]
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[TransportationAndDeliveryOfCen_11638]]
 
 ## Pomphorhynchus Bulbocolli
 <!-- fm: auto_enriched: true -->
@@ -13248,6 +13675,18 @@ Pontiac Lake is a 585-acre warm-water lake in Oakland County, Michigan, connecte
 
 ### Mentioned In
 - [[SummaryOfMonitoringOfAravaipaC_1999_10_18]]
+
+## Poolmat
+
+### Summary
+Poolmat (Potamogeton sp.) is an aquatic plant that grew in complex with Cladophora algae along the extreme lower edge of the flow fluctuation zone in the Colorado River below Glen Canyon Dam. Its distribution pattern suggested it had lower tolerance to dewatering than Cladophora, making it vulnerable to flow fluctuations from dam operations.
+
+### Context
+> This comprehensive study (1980-1981, with creel data through 1984) assessed the biological impacts of fluctuating water releases from [[Glen Canyon Dam]] on the [[Lee's Ferry]] tailwater trout fishery in Arizona. The 26 km reach below the dam developed into a premier cold-water fishery following...
+> -- *[[FisheryInvestigationOfTheColor_11293]]*
+
+### Mentioned In
+- [[FisheryInvestigationOfTheColor_11293]]
 
 ## Pope Et Al. 1961
 <!-- fm: auto_enriched: true -->
@@ -13760,6 +14199,18 @@ The Portneuf River is a river in Idaho whose water chemistry is comparable to Sn
 
 ### Mentioned In
 - [[FederalAidToFishRestorationAnn_19654]]
+
+## Porto Rico
+
+### Summary
+Porto Rico (Puerto Rico) is a Caribbean island that was the subject of significant ichthyological research by the Bureau of Fisheries. This source documents Evermann and Marsh's 1900 description of new genera and species from Porto Rico, and their comprehensive 1903 work "The fishes of Puerto Rico" covering 302 pages with 52 plates including 3 folding maps.
+
+### Context
+> This document is an explanatory note and bibliographic compilation from the [[U.S. Bureau of Fisheries]], presenting a structured catalog of fish-related publications organized by geographic region. The bibliography covers research from 1882-1904 across North American waters including the [[St....
+> -- *[[ExplanatoryNote_11949]]*
+
+### Mentioned In
+- [[ExplanatoryNote_11949]]
 
 ## Portuguese Bend
 
@@ -14838,6 +15289,15 @@ The Preston White River Springfish (Crenichthys baileyi albivallis) is a fish su
 ### Mentioned In
 - [[InfluenceOfAppearanceOfPreyAnd_1973]]
 
+## Priacanthus arenatus
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
+
 ## Priapella Compressa
 <!-- fm: auto_enriched: true -->
 
@@ -15203,8 +15663,12 @@ Princeton is mentioned in this source but no specific information about this loc
 > This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
 > -- *[[TheMaineSmallmouth_14928]]*
 
+> This historical report documents the introduction and establishment of the [[Tench]] (*Tinca tinca*), a European cyprinid, in California reservoirs. Originally brought from Italy in 1922 and planted at [[Lobitas Creek]] near [[Half Moon Bay]], the species has spread throughout parts of [[San Mateo...
+> -- *[[TheTenchInCalifornia_11391]]*
+
 ### Mentioned In
 - [[TheMaineSmallmouth_14928]]
+- [[TheTenchInCalifornia_11391]]
 
 ## Principal Component Analysis In Morphometrics
 <!-- fm: auto_enriched: true -->
@@ -15310,6 +15774,18 @@ Pristis pectinatus, commonly known as the sawfish, is a marine cartilaginous fis
 ### Mentioned In
 - [[RespirationOfFishesWithSpecial_1964]]
 
+## Privacy Act
+
+### Summary
+The Privacy Act is a U.S. federal law governing the handling of personal information. This source notes that documents related to endangered species permit applications were available for public review subject to requirements of the Privacy Act and Freedom of Information Act.
+
+### Context
+> This Federal Register notice announces receipt of multiple permit applications under Section 10(c) of the [[Endangered Species Act]] of 1973 for activities involving endangered species. Among the applications, the [[University of California]] La Jolla Department of Biology requested permits for...
+> -- *[[FishAndWildlifeServiceNoticeOf_11728]]*
+
+### Mentioned In
+- [[FishAndWildlifeServiceNoticeOf_11728]]
+
 ## Private John Allen
 <!-- fm: auto_enriched: true -->
 
@@ -15361,6 +15837,18 @@ Pristis pectinatus, commonly known as the sawfish, is a marine cartilaginous fis
 ### Mentioned In
 - [[TemperatureEffectsOnSwimmingPe_1996]]
 
+## Procambarus
+
+### Summary
+Procambarus is a genus of crayfish that includes the Spiculifer Group, to which the newly described species Procambarus lylei belongs. This source describes P. lylei as most closely related to other Procambarus species including P. ablusus, P. elegans, and P. natchitochae, all sharing a simple but complete complement of terminal elements on the male first pleopod.
+
+### Context
+> This 1971 publication by J. F. Fitzpatrick, Jr. and Horton H. Hobbs, Jr. describes *Procambarus lylei*, a new species of crawfish from the [[Spiculifer Group]] of the genus [[Procambarus]]. The species was discovered in [[Calhoun County]], [[Mississippi]], within the [[Yalobusha River]] drainage...
+> -- *[[ANewCrayfishOfTheSpiculiferGro_16434]]*
+
+### Mentioned In
+- [[ANewCrayfishOfTheSpiculiferGro_16434]]
+
 ## Procambarus Acutus
 <!-- fm: auto_enriched: true -->
 
@@ -15370,6 +15858,18 @@ Pristis pectinatus, commonly known as the sawfish, is a marine cartilaginous fis
 
 ### Mentioned In
 - [[ANewFaxonellaFromNortheastLoui_1968_12_30]]
+
+## Procambarus acutus acutus
+
+### Summary
+Procambarus acutus acutus is a crayfish subspecies that occurs sympatrically with Procambarus lylei at both known collection localities in Calhoun County, Mississippi. It was found alongside P. lylei at Shutispear Creek and Toposhaw Creek, along with other crayfish species.
+
+### Context
+> This 1971 publication by J. F. Fitzpatrick, Jr. and Horton H. Hobbs, Jr. describes *Procambarus lylei*, a new species of crawfish from the [[Spiculifer Group]] of the genus [[Procambarus]]. The species was discovered in [[Calhoun County]], [[Mississippi]], within the [[Yalobusha River]] drainage...
+> -- *[[ANewCrayfishOfTheSpiculiferGro_16434]]*
+
+### Mentioned In
+- [[ANewCrayfishOfTheSpiculiferGro_16434]]
 
 ## Procambarus clarki
 
@@ -15394,6 +15894,18 @@ Procambarus clarki is a crayfish species that serves as prey for striped bass in
 
 ### Mentioned In
 - [[NewDistributionalRecordsForThr_1959]]
+
+## Procambarus hayi
+
+### Summary
+Procambarus hayi is a crayfish species that occurs sympatrically with Procambarus lylei at both known collection localities in Calhoun County, Mississippi. It was collected together with P. lylei at Shutispear Creek and Toposhaw Creek.
+
+### Context
+> This 1971 publication by J. F. Fitzpatrick, Jr. and Horton H. Hobbs, Jr. describes *Procambarus lylei*, a new species of crawfish from the [[Spiculifer Group]] of the genus [[Procambarus]]. The species was discovered in [[Calhoun County]], [[Mississippi]], within the [[Yalobusha River]] drainage...
+> -- *[[ANewCrayfishOfTheSpiculiferGro_16434]]*
+
+### Mentioned In
+- [[ANewCrayfishOfTheSpiculiferGro_16434]]
 
 ## Procambarus Tulanei
 <!-- fm: auto_enriched: true -->
@@ -15816,9 +16328,13 @@ A protected slot limit prohibits harvest of fish within a specified size range w
 > This document is a critical evaluation by Associate Professor Donald G. Buth (UCLA) of M.d. Rosenfeld's draft report on allozyme variation in upper [[Colorado River]] species of [[Gila]]. The evaluation, dated 16 February 1988 and addressed to Utah Natural Resources Wildlife Resources, identifies...
 > -- *[[EvaluationOfMjRosenfeldsBioche_14124]]*
 
+> This administrative memorandum documents space allocation negotiations at [[Arizona State University]] for a proposed multi-year research project on the taxonomy of the fish genus [[Gila]]. The proposal, submitted to the [[U.S. Bureau of Reclamation]], requests $993,693 over 3 years (including...
+> -- *[[SpaceForResearchProjectGilaTax_11793]]*
+
 ### Mentioned In
 - [[LetterToDrWLMinckleyRegardingR_1988_09_20]]
 - [[EvaluationOfMjRosenfeldsBioche_14124]]
+- [[SpaceForResearchProjectGilaTax_11793]]
 
 ## Protein Electrophoresis In Ichthyology
 <!-- fm: auto_enriched: true -->
@@ -16577,6 +17093,15 @@ Pseudotsuga mentziesii, commonly known as Douglas fir, is a conifer species foun
 ### Mentioned In
 - [[NotesOnACollectionOfFishesFrom_15665]]
 
+## Pseudupeneus maculatus
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
+
 ## Psychomyiidae
 
 ### Summary
@@ -16777,6 +17302,15 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 > This document comprises field collection records and museum catalog entries from the [[University of Michigan Museum of Zoology]] (UMMZ) spanning 1934-1978, documenting fish fauna of the [[Colorado River]] basin in [[Coconino County]], [[Arizona]]. The records include handwritten field notes,...
 > -- *[[GrandCanyonFieldNotesFromAndVa_15334]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
+> This document is an unfinished draft bibliography compiled by a researcher documenting literature on fishes in Arizona. It contains hundreds of citations spanning from the 1850s through 1988, covering taxonomic descriptions, ecological studies, fisheries management reports, endangered species...
+> -- *[[DraftbibliographyOnFishesInAri_12263]]*
+
+> The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
+> -- *[[GilaRiverFishdistributionProje_15844]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[ColoradoRiverLowerBasinFisheri_1995_03_30]]
@@ -16813,6 +17347,9 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 - [[DesertFishesCouncilThirteenthA_12827]]
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
+- [[TransportationAndDeliveryOfCen_11638]]
+- [[DraftbibliographyOnFishesInAri_12263]]
+- [[GilaRiverFishdistributionProje_15844]]
 
 ## Ptychocheilus Oregonense
 <!-- fm: auto_enriched: true -->
@@ -17152,6 +17689,18 @@ Pumphouse Pit served as the control site in the three-pit Linn County fertilizat
 
 ### Mentioned In
 - [[SummaryOfFishGrowthAndFishingS_14038]]
+
+## Pumpkin Spring
+
+### Summary
+Pumpkin Spring is a location on the Colorado River in Grand Canyon where humpback chub were found in the downstream reaches. Four humpback chub were captured in the area from Pumpkin Spring to Granite Spring, representing some of the downstream-most occurrences of the species in the study area.
+
+### Context
+> This memorandum from BIO/WEST, Inc. (October 18, 1991) summarizes preliminary findings from the Endangered Fish Research Program studying [[Gila cypha]] (humpback chub) in the mainstem [[Colorado River]] through [[Grand Canyon]]. The research program, conducted in cooperation with the [[U.S. Fish...
+> -- *[[SummaryOfEndangeredFishResearc_13612]]*
+
+### Mentioned In
+- [[SummaryOfEndangeredFishResearc_13612]]
 
 ## Pumpkin Springs
 <!-- fm: auto_enriched: true -->
@@ -17540,12 +18089,16 @@ Pycnopsyche is a genus of caddisfly whose larvae are aquatic insects. This sourc
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
 ### Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[DistributionalAndLocalVernacul_13815]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[TransportationAndDeliveryOfCen_11638]]
 
 ## Pylodictus Olivaris
 <!-- fm: auto_enriched: true -->
@@ -17648,6 +18201,9 @@ Pyramid Lake is a terminal freshwater lake in Nevada that serves as the primary 
 > This 1965 report documents the first confirmed occurrences of [[Lost River Sucker]] (*Deltistes luxatus*) and [[Shortnose Sucker]] (*Chasmistes brevirostris*) in California waters, adding both species to the state's freshwater fish fauna. Previously known only from the [[Klamath Lakes]] drainage in...
 > -- *[[OccurrencesOfTheLostRiverSucke_17577]]*
 
+> This interim report from the [[University of Nevada-Reno]] Department of Biology presents preliminary genetic analysis results examining potential hybridization between [[Cui-ui]] (*Chasmistes cujus*) and [[Tahoe Sucker]] populations. Dr. William Berg conducted electrophoretic analysis on 26...
+> -- *[[CuiuiHybridizationStudyInterim_13856]]*
+
 ### Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[AllozymeDifferencesDuplicateGe_11423]]
@@ -17703,6 +18259,19 @@ Pyramid Lake is a terminal freshwater lake in Nevada that serves as the primary 
 - [[CuiuiRecoveryPlanaProcedureFor_14617]]
 - [[AbstractsFromTheDesertFishesCo_15019]]
 - [[OccurrencesOfTheLostRiverSucke_17577]]
+- [[CuiuiHybridizationStudyInterim_13856]]
+
+## Pyramid Lake Bay
+
+### Summary
+Pyramid Lake Bay is a location within Pyramid Lake, Nevada, where Cui-ui specimens and fish previously classified as hybrids were collected for genetic analysis. It served as one of the two primary sampling sites for this study examining potential hybridization between Cui-ui and Tahoe Sucker.
+
+### Context
+> This interim report from the [[University of Nevada-Reno]] Department of Biology presents preliminary genetic analysis results examining potential hybridization between [[Cui-ui]] (*Chasmistes cujus*) and [[Tahoe Sucker]] populations. Dr. William Berg conducted electrophoretic analysis on 26...
+> -- *[[CuiuiHybridizationStudyInterim_13856]]*
+
+### Mentioned In
+- [[CuiuiHybridizationStudyInterim_13856]]
 
 ## Pyramid Lake Cutthroat
 

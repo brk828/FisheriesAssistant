@@ -88,6 +88,18 @@ The Yale School of Forestry and Environmental Studies is an academic institution
 ### Mentioned In
 - [[NationalParksAndConservationAs_15435]]
 
+## Yalobusha River
+
+### Summary
+The Yalobusha River is a drainage system in central Mississippi where Procambarus lylei was discovered. Both known collection localities for this new crayfish species (Shutispear Creek and Toposhaw Creek in Calhoun County) are within this river drainage.
+
+### Context
+> This 1971 publication by J. F. Fitzpatrick, Jr. and Horton H. Hobbs, Jr. describes *Procambarus lylei*, a new species of crawfish from the [[Spiculifer Group]] of the genus [[Procambarus]]. The species was discovered in [[Calhoun County]], [[Mississippi]], within the [[Yalobusha River]] drainage...
+> -- *[[ANewCrayfishOfTheSpiculiferGro_16434]]*
+
+### Mentioned In
+- [[ANewCrayfishOfTheSpiculiferGro_16434]]
+
 ## Yampa Basin Feasibility Study
 
 ### Summary
@@ -377,6 +389,18 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held September 13, 1989, in Lakewood, Colorado. The meeting addressed recovery efforts for rare and endangered fish species in the [[Colorado River Basin]], focusing on water...
 > -- *[[ManagementGroupMeetingSummarSe_21019]]*
 
+> This FY 1994 summary report documents the annual accomplishments of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program addresses recovery of four federally listed endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[RecoveryImplementationProgramF_11712]]*
+
+> This U.S. Fish and Wildlife Service document from January 1979 describes the status and conservation efforts for four native fish species of the [[Colorado River]] system that have declined dramatically due to habitat modification. The [[Colorado River Fishes Recovery Team]], formed in 1974, seeks...
+> -- *[[WantedForTheFutureTheseNativeF_13295]]*
+
+> This correspondence documents a 1988 exchange between the [[Desert Fishes Council]] (DFC) and the [[U.S. Fish and Wildlife Service]] (FWS) regarding the [[Colorado River Endangered Fishes Recovery Implementation Program]]. The exchange addresses concerns about how DFC's December 9, 1986 review...
+> -- *[[ReSteveLanigansCommentsConcern_14142]]*
+
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -501,6 +525,10 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[RealitiesOfProvidingWaterForEn_20669]]
 - [[FormalReviewcrticialHabitatOfT_20672]]
 - [[ManagementGroupMeetingSummarSe_21019]]
+- [[RecoveryImplementationProgramF_11712]]
+- [[WantedForTheFutureTheseNativeF_13295]]
+- [[ReSteveLanigansCommentsConcern_14142]]
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -838,6 +866,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This correspondence from the [[Desert Fishes Recovery Team]] to the U.S. Fish and Wildlife Service Regional Director documents recommendations and action items from their April 17, 1986 meeting in Tucson, Arizona. The team addresses critical conservation issues for multiple endangered desert fish...
 > -- *[[ItemsToBringToYourAttentionAft_13731]]*
 
+> This document comprises excerpts from Arizona Wildlife Views magazine covering multiple topics: (1) a conservation editorial discussing environmental degradation, highway impacts on wildlife habitat, and population growth pressures; (2) an article on poisonous stinging insects of Arizona, focusing...
+> -- *[[PoisonousInsectsOfArizona_12634]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -909,6 +940,7 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[SanBernardinoAndLeslieCanyonNa_11694]]
 - [[TurkeyCreekFisheriesSurveyCoch_17218]]
 - [[ItemsToBringToYourAttentionAft_13731]]
+- [[PoisonousInsectsOfArizona_12634]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -1482,6 +1514,15 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
+> This U.S. Fish and Wildlife Service Biological Opinion (dated April 15, 1994) addresses the transportation and delivery of [[Colorado River]] water through the [[Central Arizona Project]] (CAP) aqueduct to water users in the [[Gila River Basin]] in Arizona and New Mexico. The opinion focuses...
+> -- *[[SummaryBiologicalOpinionOnTran_11705]]*
+
+> This completion report documents creel census activities conducted across seven regions of Arizona from January to December 1965. The Arizona Game and Fish Department gathered data on fishing success, species composition, angler origin, and fishing methods across multiple lakes including [[Big...
+> -- *[[FisheryInvestigationsInRegionI_12196]]*
+
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -1512,6 +1553,9 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 - [[InvestigationsOfCommercialFish_18562]]
 - [[TheDesirabilityOfIntroducingWh_16080]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[TransportationAndDeliveryOfCen_11638]]
+- [[SummaryBiologicalOpinionOnTran_11705]]
+- [[FisheryInvestigationsInRegionI_12196]]
 
 ## Yellow Bullhead
 <!-- fm: auto_enriched: true -->
@@ -1604,6 +1648,18 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
 > -- *[[StatewideRoughFishControljobNo_14932]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
+> This U.S. Fish and Wildlife Service Biological Opinion (dated April 15, 1994) addresses the transportation and delivery of [[Colorado River]] water through the [[Central Arizona Project]] (CAP) aqueduct to water users in the [[Gila River Basin]] in Arizona and New Mexico. The opinion focuses...
+> -- *[[SummaryBiologicalOpinionOnTran_11705]]*
+
+> This report documents a comprehensive survey of [[Aravaipa Creek]], Arizona, conducted on 20 October 1990 to determine the geographic distribution of introduced [[Red Shiner]] (*Cyprinella lutrensis*), first discovered in the stream in early October 1990. The survey covered approximately 8.0 km...
+> -- *[[SummaryRedShinerSurveyLowerAra_13783]]*
+
+> This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
+> -- *[[FisheriesReportOfTheLowerColor_16429]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -1688,6 +1744,10 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[StatewideRoughFishControlfishE_14929]]
 - [[PreliminaryFisheriesSurveyOfAq_16481]]
 - [[StatewideRoughFishControljobNo_14932]]
+- [[TransportationAndDeliveryOfCen_11638]]
+- [[SummaryBiologicalOpinionOnTran_11705]]
+- [[SummaryRedShinerSurveyLowerAra_13783]]
+- [[FisheriesReportOfTheLowerColor_16429]]
 
 ## Yellow Creek Lake
 <!-- fm: auto_enriched: true -->
@@ -1704,6 +1764,15 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 
 ### Mentioned In
 - [[AReportOnTheLakesOfTheTippecan_11316]]
+
+## yellow goatfish
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
 
 ## Yellow Grub
 
@@ -2035,6 +2104,9 @@ Yellow-bellied Marmot (Marmota flaviventris) is one of over 40 mammal species do
 > This comprehensive monitoring plan establishes protocols for the [[San Pedro Riparian National Conservation Area]] (RNCA), established by Public Law 100-696 (Arizona-Idaho Conservation Act of 1988). The 56,430-acre conservation area protects one of the most extensive remaining broadleaf riparian...
 > -- *[[SanPedroRiparianNationalConser_11468]]*
 
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
 ### Mentioned In
 - [[NotesFromMayMeetingLowerColora_1997_05_28]]
 - [[ChangesInRiparianVegetationAnd_14524]]
@@ -2044,6 +2116,7 @@ Yellow-bellied Marmot (Marmota flaviventris) is one of over 40 mammal species do
 - [[WorkshopProceedings_18372]]
 - [[ArizonaDepartmentOfWaterResour_18960]]
 - [[SanPedroRiparianNationalConser_11468]]
+- [[FinalDraftEcosystemPlanForTheL_11674]]
 
 ## yellow-finned cutthroat trout
 
@@ -2102,6 +2175,18 @@ Yellowbelly Sunfish (Lepomis auritus) is one of three sunfish species used in th
 
 ### Mentioned In
 - [[ComputerizedDataBaseForExoticF_1991]]
+
+## Yellowfin Madtom
+
+### Summary
+The Yellowfin Madtom is a fish species with special regulatory designations under the Endangered Species Act. This document indicates it has experimental population designations in specific drainages, meaning certain populations have been reintroduced with modified regulatory protections to facilitate recovery efforts.
+
+### Context
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11612]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_11612]]
 
 ## Yellowfin Tuna
 <!-- fm: auto_enriched: true -->
@@ -2267,6 +2352,27 @@ The Yellowstone River represents a significant aquatic ecosystem in North Americ
 ### Mentioned In
 - [[FoodHabitsOfTheYellowstoneWhit_1950]]
 
+## Yellowtail Flounder
+
+### Summary
+A commercially important flounder species managed under ICNAF quotas of 13,000 metric tons for western grounds (west of 69° longitude) and 16,000 metric tons for eastern grounds in 1971. By October 16, 1971, 58% and 83% of these quotas respectively had been reached, with biologists expecting eastern grounds closure in early November and the 1972 western quota reduced to 10,000 metric tons reflecting conservation concerns.
+
+### Context
+> This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
+> -- *[[FoodFishfreshAndFrozenProducts_11510]]*
+
+### Mentioned In
+- [[FoodFishfreshAndFrozenProducts_11510]]
+
+## yellowtail hamlet
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
+
 ## Yellowtail Rockfish
 <!-- fm: auto_enriched: true -->
 
@@ -2291,8 +2397,12 @@ The Yellowstone River represents a significant aquatic ecosystem in North Americ
 > - **No clear "extreme-hours" pattern**: Contrary to the a priori hypothesis that significant variation would concentrate at the extreme sampling times (0900/1800 h, correlating with greater light-level change), the data showed no consistent pattern — variation occurred idiosyncratically across al...
 > -- *[[DiurnalVariabilityInAFishAssem_1981]]*
 
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
 ### Mentioned In
 - [[DiurnalVariabilityInAFishAssem_1981]]
+- [[ResultsOfTheTektiteProgramEcol_17141]]
 
 ## Yerba Mansa
 <!-- fm: auto_enriched: true -->
@@ -2469,6 +2579,18 @@ Yuba River is mentioned in the source but no specific details about turbidity, s
 
 ### Mentioned In
 - [[ALiteratureReviewOfTheEffectsO_20478]]
+
+## Yucatan
+
+### Summary
+Yucatan is a region of Mexico included in the Bureau of Fisheries research area. This source cites Bean's 1890 report on fishes collected at Cozumel, Yucatan, which included descriptions of new species and was published with plates in Bulletin volume VIII.
+
+### Context
+> This document is an explanatory note and bibliographic compilation from the [[U.S. Bureau of Fisheries]], presenting a structured catalog of fish-related publications organized by geographic region. The bibliography covers research from 1882-1904 across North American waters including the [[St....
+> -- *[[ExplanatoryNote_11949]]*
+
+### Mentioned In
+- [[ExplanatoryNote_11949]]
 
 ## Yucatan Peninsula
 <!-- fm: auto_enriched: true -->
@@ -2800,6 +2922,9 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 > This 1990 environmental assessment proposes establishing a native fish rearing facility at [[Yuma Cove]], [[Lake Mohave]], to prevent extirpation of the [[Razorback Sucker]] (*Xyrauchen texanus*). The species, once common throughout the [[Colorado River]] system from Wyoming to Mexico, is now...
 > -- *[[EnvironmentalAssessmentForLake_15466]]*
 
+> This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
+> -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -2832,6 +2957,7 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 - [[ChronologyOfYumaCoveActivities_15028]]
 - [[RazorbackSuckerMonitoringInLak_17016]]
 - [[EnvironmentalAssessmentForLake_15466]]
+- [[LakeMohaveBackwaterrearingFaci_15473]]
 
 ## Yuma Cove Backwater
 
@@ -2909,6 +3035,18 @@ The Yuma Desalting Plant is a facility authorized under the Colorado River Salin
 ### Mentioned In
 - [[TransmittalRegardingReasonable_19809]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
+
+## Yuma District
+
+### Summary
+The Yuma District is a Bureau of Land Management administrative unit in western Arizona. As of September 1992, this district managed multiple Wilderness Study Areas (WSAs) including areas in the Chemehuevi Mountains, Whipple Mountain, Big Maria Mountains, and Little Picacho Peak.
+
+### Context
+> This document is a wilderness status map produced by the [[Bureau of Land Management]] (BLM) for the State of Arizona in September 1992. It depicts various categories of wilderness and protected lands including designated wilderness areas, wilderness study areas (WSAs), and other federally...
+> -- *[[StateOfArizonaWildernessStatus_13214]]*
+
+### Mentioned In
+- [[StateOfArizonaWildernessStatus_13214]]
 
 ## Yuma District Office
 

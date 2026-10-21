@@ -367,8 +367,12 @@ Ocean Lake in Wyoming was the subject of mark-recapture studies in 1969-1970 tha
 > - **[[River Carpsucker]]** (*Carpiodes carpio*) — freshwater riverine habitats. - **[[Silver Hake]]** (*Merluccius bilinearis*) — North Atlantic continental shelf waters. - **[[American Plaice]]** (*Hippoglossoides platessoides*), **[[Witch Flounder]]** (*Glyptocephalus cynoglossus*), **[[Georges...
 > -- *[[ReportOfTheCommitteeOnNamesOfF_17233]]*
 
+> This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
+> -- *[[FoodFishfreshAndFrozenProducts_11510]]*
+
 ### Mentioned In
 - [[ReportOfTheCommitteeOnNamesOfF_17233]]
+- [[FoodFishfreshAndFrozenProducts_11510]]
 
 ## Ocean Sunfish
 <!-- fm: auto_enriched: true -->
@@ -505,6 +509,15 @@ The Ocoee River is a stream system in Tennessee where introgression between Rede
 
 ### Mentioned In
 - [[NotesOnOdonataFromTheVicinityO_14838]]
+
+## Ocyurus chrysurus
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
 
 ## Oczynski Method
 <!-- fm: auto_enriched: true -->
@@ -718,6 +731,18 @@ Oedogonium is a filamentous green alga that grew richly in the ORNL settling bas
 
 ### Mentioned In
 - [[EcologicalValueOfFloodedBottom_20860]]
+
+## Office Cove
+
+### Summary
+Office Cove is a backwater rearing site located at Bill Williams River National Wildlife Refuge, used as part of the downstream expansion of native fish conservation efforts. In October 1993, 17,992 bonytail chubs were stocked at this location as part of the Fish and Wildlife Service Parker office's on-site rearing program.
+
+### Context
+> This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
+> -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
+
+### Mentioned In
+- [[LakeMohaveBackwaterrearingFaci_15473]]
 
 ## Office Of Surface Mining
 <!-- fm: auto_enriched: true -->
@@ -1178,11 +1203,15 @@ Old Charlie Inlet (RMI 251.8) is identified as one of the six primary sites reco
 > This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DevelopmentOfAStandardizedMoni_15549]]*
 
+> This FY 1994 summary report documents the annual accomplishments of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program addresses recovery of four federally listed endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[RecoveryImplementationProgramF_11712]]*
+
 ### Mentioned In
 - [[AnalysisOfPastCollectionsFromT_1993]]
 - [[DraftRecoveryImplementationPro_11643]]
 - [[FiscalYearWorkPlan_11742]]
 - [[DevelopmentOfAStandardizedMoni_15549]]
+- [[RecoveryImplementationProgramF_11712]]
 
 ## Old Dominion
 
@@ -1447,6 +1476,18 @@ Oliva spicata is a gastropod species present in the Puerto Peñasco area. This s
 ### Mentioned In
 - [[ARecordOfAGreatSiberianSturgeo_1994]]
 
+## Olive Ridley Sea Turtle
+
+### Summary
+The Olive Ridley Sea Turtle (Lepidochelys olivacea) is a marine turtle species found in circumglobal tropical and temperate waters. This species was listed with protected status under the U.S. Endangered Species Act in this 1986 federal registry.
+
+### Context
+> This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the U.S. Fish and Wildlife Service to be Endangered or Threatened under the Endangered Species Act. Published as of January 1,...
+> -- *[[PartEndangeredAndThreatenedWil_13327]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_13327]]
+
 ## Olivella dama
 
 ### Summary
@@ -1652,6 +1693,18 @@ Oncorhynchus is a genus of anadromous and semelparous fish in the salmon family 
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 
+## Oncorhynchus apache
+
+### Summary
+Oncorhynchus apache is the Apache Trout, a salmonid species native to the Gila River Basin in the American Southwest. This source identifies it as one of the federally listed species documented in the Gila River Fish-Distribution Project database, which tracked dramatic declines in native fish distributions by comparing museum specimens and literature records from pre-1980 versus post-1981 periods. The species is among those experiencing precipitous range contractions in the region due to habitat destruction and introduced species impacts.
+
+### Context
+> The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
+> -- *[[GilaRiverFishdistributionProje_15844]]*
+
+### Mentioned In
+- [[GilaRiverFishdistributionProje_15844]]
+
 ## Oncorhynchus Chouicha
 <!-- fm: auto_enriched: true -->
 
@@ -1669,9 +1722,13 @@ Oncorhynchus is a genus of anadromous and semelparous fish in the salmon family 
 > - **Canyon streams of Big Dry Canyon (Mogollon Mountains)** are explicitly noted to support "the mountain trout, friendly and well conditioned, but... not the cut-throat trout of the Colorado" — an important, if brief, ecological observation distinguishing local native trout populations from Colo...
 > -- *[[MolluscaOfTheSouthwesternState_1918]]*
 
+> The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
+> -- *[[GilaRiverFishdistributionProje_15844]]*
+
 ### Mentioned In
 - [[MolluscaOfTheSouthwesternState_1918]]
 - [[SpeciesAccountRhinichthysOscul_13165]]
+- [[GilaRiverFishdistributionProje_15844]]
 
 ## Oncorhynchus Gorbuscha
 <!-- fm: auto_enriched: true -->
@@ -1754,6 +1811,9 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 > This report documents the second year (February 1, 1965 - January 31, 1966) of cooperative fisheries investigation at [[Lake Powell]] ([[Glen Canyon Reservoir]]) conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. The study combined systematic creel census...
 > -- *[[GlenCanyonUnitcoloradoRiverSto_14583]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
 ### Mentioned In
 - [[LeesFerryTrophyTroutFishery_18301]]
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
@@ -1766,6 +1826,7 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[EndangeredAndThreatenedWildlif_11741]]
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
+- [[TransportationAndDeliveryOfCen_11638]]
 
 ## Oncorhynchus mykiss nelsoni
 
@@ -2567,9 +2628,13 @@ Orchelimum fidicinum is a grasshopper species representing terrestrial macroinve
 > - **Third species** described for the genus *[[Faxonella]]*, expanding it from two to three recognized species - Morphologically **intermediate** between the two prior species: shares a long central projection of the first pleopod with *[[Faxonella Clypeata]]*, but shares a long, parallel mesial ...
 > -- *[[ANewFaxonellaFromNortheastLoui_1968_12_30]]*
 
+> This 1971 publication by J. F. Fitzpatrick, Jr. and Horton H. Hobbs, Jr. describes *Procambarus lylei*, a new species of crawfish from the [[Spiculifer Group]] of the genus [[Procambarus]]. The species was discovered in [[Calhoun County]], [[Mississippi]], within the [[Yalobusha River]] drainage...
+> -- *[[ANewCrayfishOfTheSpiculiferGro_16434]]*
+
 ### Mentioned In
 - [[ANewFaxonellaFromNortheastLoui_1968_12_30]]
 - [[ZurTagesperiodikVonNiphargusAq_15503]]
+- [[ANewCrayfishOfTheSpiculiferGro_16434]]
 
 ## Orconectes Australis
 <!-- fm: auto_enriched: true -->
@@ -3511,6 +3576,18 @@ Oscillatoria agardhii is a blue-green algae (cyanobacterium) that forms dense, n
 ### Mentioned In
 - [[FurtherStudiesOnTheMetalimneti_15723]]
 
+## Oscillatoria angustissima
+
+### Summary
+Oscillatoria angustissima is a cyanobacteria (blue-green algae) species. This source reports it was widespread on cobble rocks and fine sediment deposits throughout the lower Colorado River below Glen Canyon Dam, though its role in nitrogen fixation and toxin production, as well as its susceptibility to fluctuating dam discharges, remained unknown at the time of this 1991 study.
+
+### Context
+> Meeting minutes from the Colorado River (Aquatic) Trophic Studies (CRiTS) team quarterly coordination meeting held May 3, 1991 at [[Glen Canyon Dam]] Conference Room in Page, Arizona. The CRiTS team is an informal multi-agency/institution coordination effort focused on aquatic food base studies in...
+> -- *[[DraftColoradoRiverTrophicStudi_14828]]*
+
+### Mentioned In
+- [[DraftColoradoRiverTrophicStudi_14828]]
+
 ## Oscillatoria neglecta
 
 ### Summary
@@ -3606,12 +3683,16 @@ Osmerus mordax, commonly known as rainbow smelt, is a small euryhaline teleost f
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
 ### Mentioned In
 - [[SexRatiosAquaticAnimals_13946]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[TroutFishingAtCliffPondBrewste_15489]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[TransportationAndDeliveryOfCen_11638]]
 
 ## Osmerus Mordax Mordax
 <!-- fm: auto_enriched: true -->
@@ -4201,8 +4282,12 @@ The Ouray Endangered Fish Culture Experiment Station (OES) is a U.S. Fish and Wi
 > - **Stock Identification**: 14 presumptive genetic stocks of endangered fishes were identified across the Upper Colorado River Basin. - **Population Status/Trends**: - [[Razorback Sucker]]: Declining rapidly in the upper basin; some recruitment detected via length-frequency analysis. - [[Bonytail...
 > -- *[[AddendumToGeneticsManagementCo_1993]]*
 
+> This FY 1994 summary report documents the annual accomplishments of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program addresses recovery of four federally listed endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[RecoveryImplementationProgramF_11712]]*
+
 ### Mentioned In
 - [[AddendumToGeneticsManagementCo_1993]]
+- [[RecoveryImplementationProgramF_11712]]
 
 ## Ouray Endangered Fish Hatchery
 
@@ -4302,6 +4387,9 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This September 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates the need for and design of a dedicated hatchery to produce endangered [[Colorado River]] fishes. The study addresses production requirements through 1996 for three species:...
 > -- *[[ColoradoRiverEndangeredFishHat_13665]]*
 
+> This FY 1994 summary report documents the annual accomplishments of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program addresses recovery of four federally listed endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[RecoveryImplementationProgramF_11712]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -4319,6 +4407,7 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[TripReportForUpperColoradoRive_12974]]
 - [[DraftprotocolForHandlingAndTra_13900]]
 - [[ColoradoRiverEndangeredFishHat_13665]]
+- [[RecoveryImplementationProgramF_11712]]
 
 ## Ouray Reach
 
@@ -5026,10 +5115,14 @@ The Ozark Cavefish is a rare, endemic freshwater species inhabiting isolated cav
 > - **Facility as artificial habitat**: Rearing infrastructure comprises eight hatchery concrete tanks, sixteen concrete raceways, six concrete warmwater tanks, and eight earthen ponds — indicating differentiated thermal/flow regimes suited to coldwater (trout) versus warmwater (paddlefish, striped...
 > -- *[[StationProfileOfTheNeoshoNatio_1993]]*
 
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11612]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[StationProfileOfTheNeoshoNatio_1993]]
+- [[PartEndangeredAndThreatenedWil_11612]]
 
 ## Ozark Faunal Group
 <!-- fm: auto_enriched: true -->

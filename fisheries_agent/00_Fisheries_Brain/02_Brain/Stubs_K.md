@@ -45,8 +45,12 @@ The Kabul River is a 350 km freshwater river in Afghanistan that rises at Sar Ch
 > - The commonly accepted minimum catch rate for "good fishing" in a catchable-trout put-and-take fishery is **0.50 fish per man-hour**. - Despite planting ~140,000 catchable trout in 1962, this failed to meet satisfactory catch rates, and hatchery capacity cannot realistically scale to meet projec...
 > -- *[[NotesOnTheRecommendationToDecl_1962]]*
 
+> This completion report documents creel census activities conducted across seven regions of Arizona from January to December 1965. The Arizona Game and Fish Department gathered data on fishing success, species composition, angler origin, and fishing methods across multiple lakes including [[Big...
+> -- *[[FisheryInvestigationsInRegionI_12196]]*
+
 ### Mentioned In
 - [[NotesOnTheRecommendationToDecl_1962]]
+- [[FisheryInvestigationsInRegionI_12196]]
 
 ## Kaibab Plateau
 <!-- fm: auto_enriched: true -->
@@ -237,6 +241,9 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 > This document comprises field collection records and museum catalog entries from the [[University of Michigan Museum of Zoology]] (UMMZ) spanning 1934-1978, documenting fish fauna of the [[Colorado River]] basin in [[Coconino County]], [[Arizona]]. The records include handwritten field notes,...
 > -- *[[GrandCanyonFieldNotesFromAndVa_15334]]*
 
+> This memorandum from BIO/WEST, Inc. (October 18, 1991) summarizes preliminary findings from the Endangered Fish Research Program studying [[Gila cypha]] (humpback chub) in the mainstem [[Colorado River]] through [[Grand Canyon]]. The research program, conducted in cooperation with the [[U.S. Fish...
+> -- *[[SummaryOfEndangeredFishResearc_13612]]*
+
 ### Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -258,6 +265,7 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 - [[EarlyFieldNotes_15954]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
+- [[SummaryOfEndangeredFishResearc_13612]]
 
 ## Kanab Creek-Virgin River Basin
 <!-- fm: auto_enriched: true -->
@@ -478,6 +486,18 @@ The Kansas University Museum is a natural history collection that houses preserv
 ### Mentioned In
 - [[RespirationOfFishesWithSpecial_1964]]
 
+## Kaolin
+
+### Summary
+Kaolin is a type of clay mineral used in industrial processes. This study references previous research showing that kaolin suspensions in water caused negligible mortality in fish at 30 ppm but over 50% mortality at concentrations of 270-810 ppm, with deaths often attributed to disease.
+
+### Context
+> This 1963 study by Herbert and Richards investigated the effects of suspended industrial solids on [[Rainbow Trout]] (Oncorhynchus mykiss) and [[Brown Trout]] (Salmo trutta) through laboratory experiments and field surveys. Laboratory tests examined survival and growth of yearling rainbow trout...
+> -- *[[TheGrowthAndSurvivalOfFishInSo_16699]]*
+
+### Mentioned In
+- [[TheGrowthAndSurvivalOfFishInSo_16699]]
+
 ## Karel Liem
 <!-- fm: auto_enriched: true -->
 
@@ -571,6 +591,18 @@ Kasahara and colleagues conducted a 1960 study on rearing larvae of the sparid f
 
 ### Mentioned In
 - [[AnAnnotatedBibliographyOfAttem_15220]]
+
+## Kasetsart University
+
+### Summary
+Kasetsart University is a research institution in Bangkok, Thailand. In this source, Dr. Ratanakorn at Kasetsart University was the source of blood samples from ranched crocodile populations (Siamese Crocodiles, Saltwater Crocodiles, and their hybrids) that the University of California La Jolla sought to import for genetic research.
+
+### Context
+> This Federal Register notice announces receipt of multiple permit applications under Section 10(c) of the [[Endangered Species Act]] of 1973 for activities involving endangered species. Among the applications, the [[University of California]] La Jolla Department of Biology requested permits for...
+> -- *[[FishAndWildlifeServiceNoticeOf_11728]]*
+
+### Mentioned In
+- [[FishAndWildlifeServiceNoticeOf_11728]]
 
 ## Katherine
 <!-- fm: auto_enriched: true -->
@@ -753,8 +785,12 @@ Kellicotia is a rotifer genus found in the zooplankton community of Twin Lakes. 
 > This report presents results from C¹⁴ primary productivity studies conducted at [[Twin Lakes]], [[Colorado]], from 1973-81, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study characterizes baseline primary production rates in these high-mountain lakes (2802 m elevation)...
 > -- *[[PrimaryProductivityCAtTwinLake_12652]]*
 
+> This report documents the 1979 pre-operational ecological baseline for [[Twin Lakes]], Colorado, prior to the 1981 commissioning of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study encompasses comprehensive physical, chemical, and biological limnology of a two-lake mountain system at 2802 m...
+> -- *[[StudiesOfTheEffectsOfOperating_12648]]*
+
 ### Mentioned In
 - [[PrimaryProductivityCAtTwinLake_12652]]
+- [[StudiesOfTheEffectsOfOperating_12648]]
 
 ## Kelloggella
 <!-- fm: auto_enriched: true -->
@@ -810,6 +846,18 @@ Kellicotia is a rotifer genus found in the zooplankton community of Twin Lakes. 
 
 ### Mentioned In
 - [[ASubSurfaceWaterSamplerForLake_14940]]
+
+## Kemp's Ridley Sea Turtle
+
+### Summary
+Kemp's Ridley Sea Turtle (Lepidochelys kempii) is a marine turtle species found in tropical and temperate waters. This species was listed as Endangered under the U.S. Endangered Species Act as documented in this 1986 regulatory compilation.
+
+### Context
+> This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the U.S. Fish and Wildlife Service to be Endangered or Threatened under the Endangered Species Act. Published as of January 1,...
+> -- *[[PartEndangeredAndThreatenedWil_13327]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_13327]]
 
 ## Kendall And Behnke 1984
 <!-- fm: auto_enriched: true -->
@@ -912,6 +960,9 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > The [[Colorado Squawfish]] (*Ptychocheilus lucius*) is the largest cyprinid in North America, historically reaching lengths of nearly 1.8 m and weights exceeding 36 kg. This voracious predator served as the top carnivore of the [[Colorado River]] system. Listed as endangered in 1967 and protected...
 > -- *[[ColoradoSquawfishPtychocheilus_13278]]*
 
+> This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
+> -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -921,6 +972,7 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[DraftRecoveryImplementationPro_11643]]
 - [[DraftFiveyearRoadMap_11579]]
 - [[ColoradoSquawfishPtychocheilus_13278]]
+- [[MinutesOfVariousTeamMeetingsFr_14694]]
 
 ## Kenny Reservoir
 
@@ -1166,12 +1218,16 @@ Keratella is a rotifer genus that was one of the dominant zooplankton organisms 
 > This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
 > -- *[[ReservoirFisheriesInvestigatio_14590]]*
 
+> This report documents the 1979 pre-operational ecological baseline for [[Twin Lakes]], Colorado, prior to the 1981 commissioning of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study encompasses comprehensive physical, chemical, and biological limnology of a two-lake mountain system at 2802 m...
+> -- *[[StudiesOfTheEffectsOfOperating_12648]]*
+
 ### Mentioned In
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
 - [[MicronutrientsAndBiologicalPat_11436]]
 - [[LakePowellFisheriesInvestigati_14595]]
 - [[PrimaryProductivityCAtTwinLake_12652]]
 - [[ReservoirFisheriesInvestigatio_14590]]
+- [[StudiesOfTheEffectsOfOperating_12648]]
 
 ## Keratella Cochlearis
 <!-- fm: auto_enriched: true -->
@@ -1574,6 +1630,9 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 > **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
 > -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
 
+> This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
+> -- *[[AuthortitleIndexToInlandFisher_14367]]*
+
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -1586,6 +1645,7 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 - [[ASteelheadMigrationInShastaRiv_21255]]
 - [[TheDesirabilityOfIntroducingWh_16080]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
+- [[AuthortitleIndexToInlandFisher_14367]]
 
 ## King Snake
 
@@ -1819,6 +1879,18 @@ Kino Spring was a site where Gila Topminnow had been introduced as part of recov
 ### Mentioned In
 - [[RosterLowerBasinRecoveryImplem_21095]]
 
+## Kirkland Creek
+
+### Summary
+Kirkland Creek is a major tributary of the Bill Williams River with a drainage area of 1,129 km² and mean discharge of 0.201 m³/sec. It exhibits greater habitat diversity than other tributaries with well-represented riffles, runs, pools, and backwaters, and supported the highest fish density in the study (3.3 ± 3 fish/m²) and highest invertebrate density (64.6 ± 97.9 individuals/m²). The creek had the highest total dissolved solids (284 ± 76 mg/l) among study sites and its confluence with Sycamore Creek supported numerous Roundtail Chub.
+
+### Context
+> This technical report documents a comprehensive aquatic inventory of the [[Bill Williams River]] and [[Hassayampa River]] drainages in west-central Arizona, conducted during winter and spring 1980. The study was undertaken by the U.S. Bureau of Land Management Phoenix District Office to provide...
+> -- *[[AquaticInventoryOfTheBillWilli_12503]]*
+
+### Mentioned In
+- [[AquaticInventoryOfTheBillWilli_12503]]
+
 ## Kirkwood
 
 ### Summary
@@ -1982,6 +2054,9 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This 1965 report documents the first confirmed occurrences of [[Lost River Sucker]] (*Deltistes luxatus*) and [[Shortnose Sucker]] (*Chasmistes brevirostris*) in California waters, adding both species to the state's freshwater fish fauna. Previously known only from the [[Klamath Lakes]] drainage in...
 > -- *[[OccurrencesOfTheLostRiverSucke_17577]]*
 
+> This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
+> -- *[[AuthortitleIndexToInlandFisher_14367]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
@@ -1996,6 +2071,7 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[TheCaliforniaSturgeon_17339]]
 - [[PartManagementConcernsPriority_14724]]
 - [[OccurrencesOfTheLostRiverSucke_17577]]
+- [[AuthortitleIndexToInlandFisher_14367]]
 
 ## Klamath River Basin
 
@@ -2371,6 +2447,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This baseline study documents the ecology of [[White Sucker]] (*Catostomus commersoni*) and [[Longnose Sucker]] (*Catostomus catostomus*) populations in [[Twin Lakes]], Colorado, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Research conducted from 1971-1978 examined age and...
 > -- *[[EcologyOfCatostomidsInTwinLake_12424]]*
 
+> This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
+> -- *[[AuthortitleIndexToInlandFisher_14367]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -2391,6 +2470,7 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[LakePowellFisheriesInvestigati_14595]]
 - [[AssessmentOfTheNeedForForageEn_17853]]
 - [[EcologyOfCatostomidsInTwinLake_12424]]
+- [[AuthortitleIndexToInlandFisher_14367]]
 
 ## Kolkwitz And Marsson Saprobic System
 <!-- fm: auto_enriched: true -->

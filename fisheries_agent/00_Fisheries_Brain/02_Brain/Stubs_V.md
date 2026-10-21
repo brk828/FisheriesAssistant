@@ -1175,6 +1175,21 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
 > -- *[[FormalReviewcrticialHabitatOfT_20672]]*
 
+> This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
+> -- *[[TransportationAndDeliveryOfCen_11638]]*
+
+> This U.S. Fish and Wildlife Service Biological Opinion (dated April 15, 1994) addresses the transportation and delivery of [[Colorado River]] water through the [[Central Arizona Project]] (CAP) aqueduct to water users in the [[Gila River Basin]] in Arizona and New Mexico. The opinion focuses...
+> -- *[[SummaryBiologicalOpinionOnTran_11705]]*
+
+> This document is an unfinished draft bibliography compiled by a researcher documenting literature on fishes in Arizona. It contains hundreds of citations spanning from the 1850s through 1988, covering taxonomic descriptions, ecological studies, fisheries management reports, endangered species...
+> -- *[[DraftbibliographyOnFishesInAri_12263]]*
+
+> This document is a formal review letter from the [[U.S. Fish and Wildlife Service]] [[Ecological Services]] office in Phoenix, Arizona, dated July 27, 1989, addressed to the [[Arizona Game and Fish Department]]. The letter provides detailed comments on a draft final report examining interactions...
+> -- *[[ReviewOfTheDraftReportEntitled_12981]]*
+
+> The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
+> -- *[[FishAndWildlifeServiceFailsToA_16901]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1310,6 +1325,11 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[WealthFromWastedWaters_15218]]
 - [[SpikedaceAndLoachMinnowStudyAP_16483]]
 - [[FormalReviewcrticialHabitatOfT_20672]]
+- [[TransportationAndDeliveryOfCen_11638]]
+- [[SummaryBiologicalOpinionOnTran_11705]]
+- [[DraftbibliographyOnFishesInAri_12263]]
+- [[ReviewOfTheDraftReportEntitled_12981]]
+- [[FishAndWildlifeServiceFailsToA_16901]]
 
 ## Verde River Aquatic Ecology
 
@@ -1456,6 +1476,18 @@ The Vermejo River is one of the perennial tributaries of the Canadian River in n
 
 ### Mentioned In
 - [[FishSpeciesFromThePointStGeorg_1965_02_22]]
+
+## Vermillion Flycatcher
+
+### Summary
+The Vermillion Flycatcher is a neotropical migrant bird species that has become scarce in the Lower Colorado River Ecoregion due to the near extirpation of native riparian habitats. This species has experienced precipitous population declines and is now concentrated in remaining sizable stands of native riparian vegetation.
+
+### Context
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
+### Mentioned In
+- [[FinalDraftEcosystemPlanForTheL_11674]]
 
 ## Vermillion River
 <!-- fm: auto_enriched: true -->
@@ -1996,8 +2028,12 @@ The Virgin Islands are a U.S. territory included in the geographic coverage of t
 > This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
 > -- *[[CodeOfFederalRegulationsPartEn_11616]]*
 
+> This study documents the distribution, abundance, and cleaning behavior of commensal shrimps in the genus [[Periclimenes]] associated with the anemone [[Bartholomea annulata]] in [[Lameshur Bay]], [[Virgin Islands]]. Conducted during the [[Tektite I]] saturation diving mission (February 15–April...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
 ### Mentioned In
 - [[CodeOfFederalRegulationsPartEn_11616]]
+- [[ResultsOfTheTektiteProgramEcol_17141]]
 
 ## Virgin River
 <!-- fm: auto_enriched: true -->
@@ -2147,6 +2183,15 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
 > -- *[[FishesNativeToOrIntroducedInPa_18945]]*
 
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
+> This document is an unfinished draft bibliography compiled by a researcher documenting literature on fishes in Arizona. It contains hundreds of citations spanning from the 1850s through 1988, covering taxonomic descriptions, ecological studies, fisheries management reports, endangered species...
+> -- *[[DraftbibliographyOnFishesInAri_12263]]*
+
+> This document comprises excerpts from Arizona Wildlife Views magazine covering multiple topics: (1) a conservation editorial discussing environmental degradation, highway impacts on wildlife habitat, and population growth pressures; (2) an article on poisonous stinging insects of Arizona, focusing...
+> -- *[[PoisonousInsectsOfArizona_12634]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -2246,6 +2291,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[DraftConservationAgreementVirg_18320]]
 - [[ViolationOfQuailCreekReservoir_18647]]
 - [[FishesNativeToOrIntroducedInPa_18945]]
+- [[FinalDraftEcosystemPlanForTheL_11674]]
+- [[DraftbibliographyOnFishesInAri_12263]]
+- [[PoisonousInsectsOfArizona_12634]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -2475,9 +2523,13 @@ The Virgin River Corridor Area of Critical Environmental Concern is a Bureau of 
 > - The document is administrative correspondence (dated **January 1993**) organizing a Congressional/stakeholder meeting on Virgin River fish conservation, moderated in part by **Dr. [[W.L. Minckley]]**, a leading authority on southwestern desert fishes. - It references an existing **[[Virgin Rive...
 > -- *[[VirginRiverMeetingOf_11186]]*
 
+> This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
+> -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
+
 ### Mentioned In
 - [[VirginRiverMeetingOf_11186]]
 - [[VirginRiverWoundfinPlanForBroo_16685]]
+- [[FinalDraftEcosystemPlanForTheL_11674]]
 
 ## Virgin River Fishes Recovery Program
 <!-- fm: auto_enriched: true -->
@@ -3178,6 +3230,30 @@ Volvox is a genus of phytoplankton (colonial green algae) that commonly blooms i
 
 ### Mentioned In
 - [[SpawningAndHatchingOfTheColora_14375]]
+
+## Von Bertalanffy Growth Curve
+
+### Summary
+The Von Bertalanffy Growth Curve is an asymptotic mathematical function that describes how fish approach a maximum size as they age. This source presents a practical least squares method for fitting this curve to fish age-length data, providing objective parameter estimates (L∞, k, and t₀) with known statistical properties, replacing previous subjective graphical approaches.
+
+### Context
+> This technical bulletin presents a practical method for fitting the [[Von Bertalanffy Growth Curve]] to fish age-length data using [[Least Squares]] estimation. Authors Patrick K. Tomlinson and Norman J. Abramson provide comprehensive polynomial tables and computational procedures to enable...
+> -- *[[FittingAVonBertalanffyGrowthCu_13367]]*
+
+### Mentioned In
+- [[FittingAVonBertalanffyGrowthCu_13367]]
+
+## Von Bertalanffy Growth Equation
+
+### Summary
+The Von Bertalanffy Growth Equation is the specific mathematical formula l_t = L∞[1 - e^(-k(t-t₀))] that describes fish length at age, where L∞ is asymptotic maximum length, k is the growth coefficient, and t₀ is hypothetical age at zero length. This source uses Beverton's 1954 modification of this equation and develops methods to estimate all three parameters from age-length data.
+
+### Context
+> This technical bulletin presents a practical method for fitting the [[Von Bertalanffy Growth Curve]] to fish age-length data using [[Least Squares]] estimation. Authors Patrick K. Tomlinson and Norman J. Abramson provide comprehensive polynomial tables and computational procedures to enable...
+> -- *[[FittingAVonBertalanffyGrowthCu_13367]]*
+
+### Mentioned In
+- [[FittingAVonBertalanffyGrowthCu_13367]]
 
 ## Von Bertalanffy Growth Model
 

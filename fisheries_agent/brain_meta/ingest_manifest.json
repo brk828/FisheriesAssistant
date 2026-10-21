@@ -67,6 +67,16 @@
   "status": "done",
   "timestamp": "2026-10-20T04:46:27+00:00"
  },
+ "024c662d62e763e005a764ac2896211faf00b17f21c12e19b3d89792865df953": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16901.pdf",
+  "method": "ocr",
+  "note": "FishAndWildlifeServiceFailsToA_16901.md",
+  "source_id": "X-024c662d",
+  "status": "done",
+  "timestamp": "2026-10-21T14:30:55+00:00"
+ },
  "0254068c081acc6c587971bc1f702336ade6f13d93f25558b38d6e03f1faf032": {
   "file": "Adaptive-management-of-an-imperiled-catostomid.pdf",
   "reason": "similar document already in the brain: AdaptiveManagementOfAnImperile_2016",
@@ -172,6 +182,13 @@
   "source_id": "X-04e65db3",
   "status": "done",
   "timestamp": "2026-10-21T00:12:23+00:00"
+ },
+ "04fadcda8c6898fec676b58613f2a8cb0007b312532bc5d9475b8f62948b0cfa": {
+  "file": "17141.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.08 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.07840595, 'resets_at': None}}}",
+  "source_id": "X-04fadcda",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:32:59+00:00"
  },
  "050a0a65e827da118502487ec13247932e86af4f6e9dbdc1a49ad6fded167e4f": {
   "citation_source": "minckley-sheet",
@@ -351,6 +368,16 @@
   "status": "done",
   "timestamp": "2026-10-17T06:06:19+00:00"
  },
+ "07f84590d93c752f5803bdad2b58b91c1d025c555f6041f174333fd4d139fe8d": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13214.pdf",
+  "method": "ocr",
+  "note": "StateOfArizonaWildernessStatus_13214.md",
+  "source_id": "X-07f84590",
+  "status": "done",
+  "timestamp": "2026-10-21T13:57:42+00:00"
+ },
  "083037cf97e5b606ccc3817a51578656840ed70344b1f52e800b1a9cf4ca6fd9": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -470,6 +497,13 @@
   "status": "done",
   "timestamp": "2026-10-17T09:09:39+00:00"
  },
+ "0a7f61abcdba8929003463fb74ace945453a7227f7cb41ed0519adf4b6f7564a": {
+  "file": "20666.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-0a7f61ab",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:39:59+00:00"
+ },
  "0a99de15f9388e8c577e50221f5ef30c6a2da62cef3e35913af130fe5505674b": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -567,6 +601,13 @@
   "source_id": "X-0d7afd12",
   "status": "done",
   "timestamp": "2026-10-20T23:21:46+00:00"
+ },
+ "0dc099351a2068e8fcaf2855f79f8d1579db9e9934580baad677bc2fbcb879aa": {
+  "file": "21001.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-0dc09935",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:41:01+00:00"
  },
  "0e6a5741e0bb4b3bed638cc53af576ba4eeadded40305e11a15804e4702f26c8": {
   "citation_source": "minckley-sheet",
@@ -686,6 +727,16 @@
   "status": "done",
   "timestamp": "2026-10-20T23:53:42+00:00"
  },
+ "115da9bfa2d547ac6057991ac35cbb8a26e697648f0f2a825169ce003e6105e5": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13327.pdf",
+  "method": "ocr",
+  "note": "PartEndangeredAndThreatenedWil_13327.md",
+  "source_id": "X-115da9bf",
+  "status": "done",
+  "timestamp": "2026-10-21T14:00:23+00:00"
+ },
  "11bfa2a42d76be04b6042d7107d8e377c0a87d24b2ff59273f3104afe4db3917": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -763,6 +814,16 @@
   "source_id": "X-14190a16",
   "status": "done",
   "timestamp": "2026-10-20T00:52:28+00:00"
+ },
+ "142c2282485de673737ae15723d0a333621ed824aa3e78e88b743d0034b34f00": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12196.pdf",
+  "method": "ocr",
+  "note": "FisheryInvestigationsInRegionI_12196.md",
+  "source_id": "X-142c2282",
+  "status": "done",
+  "timestamp": "2026-10-21T13:44:20+00:00"
  },
  "14ecfbb25fc9c06d4b5c474b31d6978005969ec8dddd0c184ae0c3619081964c": {
   "citation_source": "minckley-sheet",
@@ -915,6 +976,13 @@
   "source_id": "X-17e81cc6",
   "status": "done",
   "timestamp": "2026-10-19T23:51:17+00:00"
+ },
+ "18141b5f84a99450f93e9338fbe6e9d59c1ee84fad2711913ac63d75da93631c": {
+  "file": "18755.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-18141b5f",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:35:56+00:00"
  },
  "1903540b17a8ff24f5794bc55671f3449dfd81c66f3f87b9ef5fe7d39c95866f": {
   "citation_source": "minckley-sheet",
@@ -1160,6 +1228,13 @@
   "status": "done",
   "timestamp": "2026-10-14T23:20:05+00:00"
  },
+ "1d52e19f4c0b1cb91aa6b61fba0d6aafdfa2eaf8c8b07f44f58f9ca47c77d813": {
+  "file": "21240.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-1d52e19f",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:41:37+00:00"
+ },
  "1dc8ae8c392eed3fd580ff1fce5115f2e1692efb6e301419297c9e4bca001773": {
   "citation_source": "minckley-sheet",
   "file": "15489.pdf",
@@ -1168,6 +1243,16 @@
   "source_id": "X-1dc8ae8c",
   "status": "done",
   "timestamp": "2026-10-14T20:21:12+00:00"
+ },
+ "1dd3438e203b0655f7bc0501cf20c4579a88c62e9a9bac09caf8ba91588e7545": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15844.pdf",
+  "method": "ocr",
+  "note": "GilaRiverFishdistributionProje_15844.md",
+  "source_id": "X-1dd3438e",
+  "status": "done",
+  "timestamp": "2026-10-21T14:22:32+00:00"
  },
  "1e850a3792bf5d1abfa975a9caadb3dde905abccb27813ec273d3a36686e30e6": {
   "citation_source": "minckley-sheet",
@@ -1284,6 +1369,16 @@
   "source_id": "X-20a5de55",
   "status": "done",
   "timestamp": "2026-10-17T09:17:10+00:00"
+ },
+ "20baf2a0fdb12ca0a703c8a63d3ca161065c510f5a6b4535ee4811bc9b690520": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16188.pdf",
+  "method": "ocr",
+  "note": "TheCupidoCichlid_16188.md",
+  "source_id": "X-20baf2a0",
+  "status": "done",
+  "timestamp": "2026-10-21T14:25:32+00:00"
  },
  "21074c1092cd3a40adae1b6efaffb67b7aea41c9374e89739a1224e457d53850": {
   "citation_source": "minckley-sheet",
@@ -1413,6 +1508,16 @@
   "status": "done",
   "timestamp": "2026-10-18T04:56:15+00:00"
  },
+ "25431f3d3cbdafec3192d2f975f1acd1596070bd2410352ee8e54021ffd3f9ea": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11728.pdf",
+  "method": "ocr",
+  "note": "FishAndWildlifeServiceNoticeOf_11728.md",
+  "source_id": "X-25431f3d",
+  "status": "done",
+  "timestamp": "2026-10-21T13:42:00+00:00"
+ },
  "2572a822d32fd9c07e15be8d8c0b30e9fe30f2f12aff41a56d9b11adc73455bd": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -1491,6 +1596,30 @@
   "source_id": "X-26ee1b56",
   "status": "done",
   "timestamp": "2026-10-21T05:35:51+00:00"
+ },
+ "26ee8404b3650abe578d249d672208abd3d87d2c05ae8383e7f12d61bde210be": {
+  "file": "18634.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-26ee8404",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:35:44+00:00"
+ },
+ "270e6bdd49dd029e1f38f5ece220fe0f53758665892b809e1b30b004a69775b0": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11949.pdf",
+  "method": "ocr",
+  "note": "ExplanatoryNote_11949.md",
+  "source_id": "X-270e6bdd",
+  "status": "done",
+  "timestamp": "2026-10-21T13:42:52+00:00"
+ },
+ "277f1f1daf92f1e325210b1dc5724c353ef5a0cb0d47fae82a3fd3d5ae49fa1b": {
+  "file": "18234.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-277f1f1d",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:35:06+00:00"
  },
  "28227e452b08f6967f3f7e20382f7e0cba383d84f33ef61e62c35c6e698b4a21": {
   "citation_source": "minckley-sheet",
@@ -1698,6 +1827,13 @@
   "status": "done",
   "timestamp": "2026-10-21T00:29:19+00:00"
  },
+ "2c5d6bd83d44db6d84c97f0e7a9cd1596e63935bdff7f82e2a346abd01487148": {
+  "file": "20276.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-2c5d6bd8",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:39:09+00:00"
+ },
  "2ce527844cc97e451f5fce1377a4cf33bbafc7f51a76b94903a89fe071737f8f": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -1737,6 +1873,13 @@
   "source_id": "X-2d6185df",
   "status": "done",
   "timestamp": "2026-10-20T05:12:31+00:00"
+ },
+ "2d7109051159318ad374374a1510c87644da6b22e02f7a5c44f0fb32e5140c76": {
+  "file": "18820.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-2d710905",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:36:21+00:00"
  },
  "2db2e57236b2c710d105056763d3e711707e68232d91235fb7a2168ffd39d484": {
   "citation_source": "minckley-sheet",
@@ -2081,6 +2224,16 @@
   "status": "done",
   "timestamp": "2026-10-14T22:18:03+00:00"
  },
+ "36610ef1b10467cebf8889e5076c3fdbe9242e8ae2bbe1c240acee8d0e7902d8": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16905.pdf",
+  "method": "ocr",
+  "note": "ReFishSurveyRecordsCoconinoNat_16905.md",
+  "source_id": "X-36610ef1",
+  "status": "done",
+  "timestamp": "2026-10-21T14:31:09+00:00"
+ },
  "36c2ef7d90456433be53e9d2ff50d62b4b83d300921345b84a1fee0fa5b121b3": {
   "citation_source": "minckley-sheet",
   "file": "15724.pdf",
@@ -2109,6 +2262,16 @@
   "source_id": "X-36e6541e",
   "status": "done",
   "timestamp": "2026-10-19T03:47:24+00:00"
+ },
+ "373cc527e7ed20124e96bcfa7e026db6e22efbf3e42a30be69055e05a78b125b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13569.pdf",
+  "method": "ocr",
+  "note": "ExecutiveOrderInvasiveSpeices_13569.md",
+  "source_id": "X-373cc527",
+  "status": "done",
+  "timestamp": "2026-10-21T14:08:21+00:00"
  },
  "373f529de9c08bb9d2afc5cd2375148235a937bf52ce725831c35a2912b502f4": {
   "citation_source": "minckley-sheet",
@@ -2512,6 +2675,16 @@
   "status": "done",
   "timestamp": "2026-10-17T09:22:34+00:00"
  },
+ "4186229b2983a059668d275185a1fd9b9c3e1c66e5dd12bf798270216281e2ae": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14142.pdf",
+  "method": "ocr",
+  "note": "ReSteveLanigansCommentsConcern_14142.md",
+  "source_id": "X-4186229b",
+  "status": "done",
+  "timestamp": "2026-10-21T14:12:11+00:00"
+ },
  "418a794cc70bef0e15a38f6a887b7fc8c7e159f3edaab16d219dd9734a3a00f6": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -2630,6 +2803,26 @@
   "status": "done",
   "timestamp": "2026-10-16T18:52:57+00:00"
  },
+ "44d70b40b46055790b3f70332167fd241d25ac384f00fefbf3989878663fadd6": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12677.pdf",
+  "method": "ocr",
+  "note": "BriefBographiesOfLeadingIchthy_12677.md",
+  "source_id": "X-44d70b40",
+  "status": "done",
+  "timestamp": "2026-10-21T13:52:12+00:00"
+ },
+ "44edce96917fb3128d1c26a271a84bd4aece05888a06f87e9a748b54ac0d99f5": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13856.pdf",
+  "method": "ocr",
+  "note": "CuiuiHybridizationStudyInterim_13856.md",
+  "source_id": "X-44edce96",
+  "status": "done",
+  "timestamp": "2026-10-21T14:11:07+00:00"
+ },
  "4513e41506406f017376df65a2e2f791125a334dccb1284ef5f6314c3a67bdb4": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -2648,6 +2841,16 @@
   "source_id": "X-455dc038",
   "status": "done",
   "timestamp": "2026-10-14T18:44:49+00:00"
+ },
+ "4560b4d60cfac337870f1feb5f2760494e7003e0374e8d0243323a83054da060": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11458.pdf",
+  "method": "ocr",
+  "note": "ResourceReportOnAravaipaCanyon_11458.md",
+  "source_id": "X-4560b4d6",
+  "status": "done",
+  "timestamp": "2026-10-21T13:32:05+00:00"
  },
  "4575b69834503213fc1e830a2a37de62018c567e60bdaeb1c493c9ae7c3d5674": {
   "citation_source": "crossref",
@@ -2738,6 +2941,13 @@
   "status": "done",
   "timestamp": "2026-10-21T05:29:06+00:00"
  },
+ "482ba1da713819cca81dc70519a12d7465f84bfa99fc1dfa2aad87efc47c978c": {
+  "file": "17761.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-482ba1da",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:34:15+00:00"
+ },
  "4843f1013a6d8025b6459ce276a7d77fb09c7bcb7bb266da53d2163870d3dc0e": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -2747,6 +2957,16 @@
   "source_id": "X-4843f101",
   "status": "done",
   "timestamp": "2026-10-17T09:13:14+00:00"
+ },
+ "4875c2e6e93f2471707b6d42fa4d7882e040c8347397c9789dcbab65b4864295": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13268.pdf",
+  "method": "ocr",
+  "note": "TheWhoopingCranesOfAransasNati_13268.md",
+  "source_id": "X-4875c2e6",
+  "status": "done",
+  "timestamp": "2026-10-21T13:58:19+00:00"
  },
  "48dc6f9af59a2c6b77b718c0fa2974c4ed38d61354f863f6cc5c1199a1da3a60": {
   "citation_source": "minckley-sheet",
@@ -2942,6 +3162,13 @@
   "status": "done",
   "timestamp": "2026-10-14T20:45:45+00:00"
  },
+ "4c0d579ef4b98b512fe34a497cc58a8e79193ce5cb218a9b569230683ee60bee": {
+  "file": "18297.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-4c0d579e",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:35:18+00:00"
+ },
  "4c3dce1981c3eec399bef8948b21631c1092edaca58b2127c27c7ac1647fa67b": {
   "citation_source": "crossref",
   "doc_type": "ecological_and_biological",
@@ -2960,6 +3187,16 @@
   "source_id": "X-4d0c69f6",
   "status": "done",
   "timestamp": "2026-10-14T20:53:51+00:00"
+ },
+ "4dc2ade7e5c59111781116f86b7541029302f620445b7b57ff293066598719fd": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11793.pdf",
+  "method": "ocr",
+  "note": "SpaceForResearchProjectGilaTax_11793.md",
+  "source_id": "X-4dc2ade7",
+  "status": "done",
+  "timestamp": "2026-10-21T13:42:19+00:00"
  },
  "4dea6721c1d6b87054ed9153a4743664264304c90dd7421d25b4564a2fb6deed": {
   "citation_source": "minckley-sheet",
@@ -2980,6 +3217,16 @@
   "source_id": "X-4df87613",
   "status": "done",
   "timestamp": "2026-10-17T09:12:05+00:00"
+ },
+ "4e08fcfabd365acc7113e165171a029ab214e18b0c7079f9288b95ff91b55af9": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13783.pdf",
+  "method": "ocr",
+  "note": "SummaryRedShinerSurveyLowerAra_13783.md",
+  "source_id": "X-4e08fcfa",
+  "status": "done",
+  "timestamp": "2026-10-21T14:10:39+00:00"
  },
  "4e44a6b594b074fde68ccccdc09bbf142a051a361b2d60a89993efa4830e92c2": {
   "citation_source": "minckley-sheet",
@@ -3070,6 +3317,16 @@
   "status": "done",
   "timestamp": "2026-10-17T06:08:36+00:00"
  },
+ "5021fa4cc1979490b21165a29c6afcc215a5a2092902c076da26a35f094d73c6": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14587.pdf",
+  "method": "ocr",
+  "note": "GlenCanyonReservoirPostimpound_14587.md",
+  "source_id": "X-5021fa4c",
+  "status": "done",
+  "timestamp": "2026-10-21T14:15:42+00:00"
+ },
  "50fd65ab21d1fa94e0c8a3756583aeece992ae396cb488e897d254bb78312f5e": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -3139,6 +3396,16 @@
   "source_id": "X-5284bec5",
   "status": "done",
   "timestamp": "2026-10-16T17:33:28+00:00"
+ },
+ "52ab092b592f885ce6ec28867c10ab03c2d3781a85b76fe43ea3b15e2c8dde6c": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11638.pdf",
+  "method": "ocr",
+  "note": "TransportationAndDeliveryOfCen_11638.md",
+  "source_id": "X-52ab092b",
+  "status": "done",
+  "timestamp": "2026-10-21T13:36:28+00:00"
  },
  "5365755d79a43d604d794660990399a121fe986a64732e37cf0b224332270144": {
   "citation_source": "minckley-sheet",
@@ -3238,6 +3505,13 @@
   "source_id": "X-5569e14a",
   "status": "done",
   "timestamp": "2026-10-20T05:07:48+00:00"
+ },
+ "556ac5e649bbacd575b738e6d3c210f1d4d2c4230fd38b9db5dbaf4f785f4a2e": {
+  "file": "17880.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-556ac5e6",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:34:28+00:00"
  },
  "559e10e69ed0d0f29477dde98f3b87a9eea9d8c22967d8ee808422923c2a910b": {
   "citation_source": "minckley-sheet",
@@ -3486,6 +3760,16 @@
   "status": "done",
   "timestamp": "2026-10-20T04:18:44+00:00"
  },
+ "5ccae9ddc6e851abab3dcf370d431807497b39939775e5c7fbce725bcf32c228": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11293.pdf",
+  "method": "ocr",
+  "note": "FisheryInvestigationOfTheColor_11293.md",
+  "source_id": "X-5ccae9dd",
+  "status": "done",
+  "timestamp": "2026-10-21T13:18:26+00:00"
+ },
  "5cd1cab7be50bfba24c1374291d4bb0ccedebd33a6412ee64a6c23328f5353e3": {
   "citation_source": "minckley-sheet",
   "file": "13798.pdf",
@@ -3621,6 +3905,13 @@
   "status": "done",
   "timestamp": "2026-10-20T00:45:10+00:00"
  },
+ "5f4fd5e360cfd1ccb3dfa3c36bdae88f53dfa08e12740827ed12c51393bed715": {
+  "file": "18011.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-5f4fd5e3",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:34:54+00:00"
+ },
  "5ff407203e9facd9ffd69493e7a12704165f91f4557e99ee3540024518372d99": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -3649,6 +3940,16 @@
   "source_id": "X-601e44e4",
   "status": "done",
   "timestamp": "2026-10-14T17:51:21+00:00"
+ },
+ "60247fbd562d65925fa232f109d3e86147c200c720eb31b2431bb6aa3f22c6d2": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13367.pdf",
+  "method": "ocr",
+  "note": "FittingAVonBertalanffyGrowthCu_13367.md",
+  "source_id": "X-60247fbd",
+  "status": "done",
+  "timestamp": "2026-10-21T14:07:51+00:00"
  },
  "602d0ee187c4fac80ad510ab2c5e74c9e92909d3261dcd8f8054fb41096db870": {
   "citation_source": "minckley-sheet",
@@ -3680,6 +3981,13 @@
   "status": "done",
   "timestamp": "2026-10-20T05:12:08+00:00"
  },
+ "609c9b233a6c3aea4fbb4c80004d33953b8ff2a47c5283ae7c96329fb1ee98ff": {
+  "file": "17896.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-609c9b23",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:34:41+00:00"
+ },
  "60d907f94bda10be14f4cab29cc9608081539f7351d918eb1f86adb90f3206f9": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -3709,6 +4017,13 @@
   "source_id": "X-61afee67",
   "status": "done",
   "timestamp": "2026-10-20T04:47:59+00:00"
+ },
+ "61de6bf73371e811af9057f4bcc56bf6fda37a5ea51ac18e303e125b9e104913": {
+  "file": "20061.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-61de6bf7",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:38:32+00:00"
  },
  "61f655e6d43854283b631322c6e265011171af23bc14243558cf441fef6d91e6": {
   "citation_source": "minckley-sheet",
@@ -3748,6 +4063,16 @@
   "source_id": "X-62654009",
   "status": "done",
   "timestamp": "2026-10-20T04:09:40+00:00"
+ },
+ "6307f61f6f6ceb2c31896d207b64deb900ff2ebe3285e3a929df570eb7657efd": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12649.pdf",
+  "method": "ocr",
+  "note": "StudiesOfTheEffectsOfOperating_12649.md",
+  "source_id": "X-6307f61f",
+  "status": "done",
+  "timestamp": "2026-10-21T13:50:37+00:00"
  },
  "6317d77ae75bb76a8a7a324b2993ce784f90495b5bd56f5971a7d5a0247e39ce": {
   "citation_source": "minckley-sheet",
@@ -3808,6 +4133,16 @@
   "source_id": "X-647dc433",
   "status": "done",
   "timestamp": "2026-10-17T08:52:35+00:00"
+ },
+ "6495f7e26e83a8a2f99d4ea263d7df0bda44f78478b27a79f072b18d222e5543": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15234.pdf",
+  "method": "ocr",
+  "note": "DraftSpeciationInTheNorthAmeri_15234.md",
+  "source_id": "X-6495f7e2",
+  "status": "done",
+  "timestamp": "2026-10-21T14:19:23+00:00"
  },
  "649db3180f5c47a4948995116bcb93b0860e2fb7a65d8af50afc73d4866bf7e4": {
   "citation_source": "minckley-sheet",
@@ -3937,6 +4272,13 @@
   "status": "done",
   "timestamp": "2026-10-20T23:19:54+00:00"
  },
+ "67b1e13110196abbfcdabd485b6840a6d7d4c5ff3143634897fd74a6e7405c58": {
+  "file": "20991.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-67b1e131",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:40:23+00:00"
+ },
  "67b7f6e2015fd361b4d7438b2db6a0de40d73c67d367ad1e5189f20098b3f1d5": {
   "citation_source": "minckley-sheet",
   "file": "13303.pdf",
@@ -4035,6 +4377,16 @@
   "status": "done",
   "timestamp": "2026-10-20T23:29:38+00:00"
  },
+ "6b68df29f4226a3a2277497fd6246d37dec97093f44fee64305f764b37e8c298": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12263.pdf",
+  "method": "ocr",
+  "note": "DraftbibliographyOnFishesInAri_12263.md",
+  "source_id": "X-6b68df29",
+  "status": "done",
+  "timestamp": "2026-10-21T13:44:56+00:00"
+ },
  "6b6c31b278fc0825a810c8ce29bde004ad345aa3ef3a5545d2ee11f2c261f13f": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -4074,6 +4426,23 @@
   "source_id": "X-6c1f28be",
   "status": "done",
   "timestamp": "2026-10-18T04:11:07+00:00"
+ },
+ "6c4d528130e670e196b33f2d671c668f640822e0006d2c8494b8b5a4cde0fdf9": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15473.pdf",
+  "method": "ocr",
+  "note": "LakeMohaveBackwaterrearingFaci_15473.md",
+  "source_id": "X-6c4d5281",
+  "status": "done",
+  "timestamp": "2026-10-21T14:20:48+00:00"
+ },
+ "6cddea4d2b4060d0b90575752ce2152233ad1d11fc6482c4bc4e792a180aa22f": {
+  "file": "20169.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-6cddea4d",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:38:57+00:00"
  },
  "6cf6a6153f14380ad51e44789c6ce69f8706f0823a61174216a24f202a9d80d1": {
   "citation_source": "crossref",
@@ -4154,6 +4523,16 @@
   "source_id": "X-6df6d6bf",
   "status": "done",
   "timestamp": "2026-10-19T04:13:25+00:00"
+ },
+ "6dffd59f6dbd32021543776a1a046bd97319ad1297c7cd411dbb9b362db842f4": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12503.pdf",
+  "method": "ocr",
+  "note": "AquaticInventoryOfTheBillWilli_12503.md",
+  "source_id": "X-6dffd59f",
+  "status": "done",
+  "timestamp": "2026-10-21T13:46:43+00:00"
  },
  "6e2a9035d3bf5252984abcabfbac7d2c2a2154cbeb4339a9cc767b220a4ac35c": {
   "citation_source": "minckley-sheet",
@@ -4444,6 +4823,16 @@
   "status": "done",
   "timestamp": "2026-10-18T04:19:49+00:00"
  },
+ "79e7c5ccceacb29b83fea51cde9734ce0669baa8ed184914af0ee46fb5ec8b96": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11705.pdf",
+  "method": "ocr",
+  "note": "SummaryBiologicalOpinionOnTran_11705.md",
+  "source_id": "X-79e7c5cc",
+  "status": "done",
+  "timestamp": "2026-10-21T13:39:46+00:00"
+ },
  "79eb6afa9cee2becd9da94362d04e89e865e8ec789274a2057300ae1cabb99f4": {
   "citation_source": "minckley-sheet",
   "file": "17637.pdf",
@@ -4452,6 +4841,20 @@
   "source_id": "X-79eb6afa",
   "status": "done",
   "timestamp": "2026-10-14T23:54:19+00:00"
+ },
+ "7a068ddbce0ae3850a90f2d5bfe2fcf0a33a4cf0ebffda2aa540487739a2c391": {
+  "file": "18932.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-7a068ddb",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:36:33+00:00"
+ },
+ "7a2a6880cc760fa686f8aa30f78eac1bbcf9976977e67ecf3f881877cba87fb8": {
+  "file": "18971.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-7a2a6880",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:36:58+00:00"
  },
  "7a2baf0cf0a52b3b659cb1bf8650d2b53e750c3c4067726ce85144aef31d93b7": {
   "citation_source": "minckley-sheet",
@@ -4660,6 +5063,16 @@
   "status": "done",
   "timestamp": "2026-10-18T04:21:59+00:00"
  },
+ "7e7ba540958127741f37037d7293da148b71ca299d377599b62e1a05830cd202": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14694.pdf",
+  "method": "ocr",
+  "note": "MinutesOfVariousTeamMeetingsFr_14694.md",
+  "source_id": "X-7e7ba540",
+  "status": "done",
+  "timestamp": "2026-10-21T14:17:17+00:00"
+ },
  "7e8ac398cb575c59f2226d2e7cb943c8cc2f870851699d9dd3414c740983482b": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -4787,6 +5200,13 @@
   "source_id": "X-80f1982c",
   "status": "done",
   "timestamp": "2026-10-14T17:30:48+00:00"
+ },
+ "810578ec10e6c0922fa41a8905c1102ed2ec5984bb6f663bb91cb5992ad96604": {
+  "file": "17216.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.08 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.07840595, 'resets_at': None}}}",
+  "source_id": "X-810578ec",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:33:11+00:00"
  },
  "8146fb3b2873bd2b6965537d6711a22f4c3b1509d6ff493532b0310bee5fa4e6": {
   "citation_source": "minckley-sheet",
@@ -4924,6 +5344,16 @@
   "status": "done",
   "timestamp": "2026-10-17T05:48:26+00:00"
  },
+ "843e997e0b9b0cde92f0a2dfdffea101ba0c9c3003cafee63b5f48112cd162ad": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15862.pdf",
+  "method": "ocr",
+  "note": "EnvironmentalImpactsOfTheCentr_15862.md",
+  "source_id": "X-843e997e",
+  "status": "done",
+  "timestamp": "2026-10-21T14:23:24+00:00"
+ },
  "84667e4721a796c5e3826ac66d70dc8e10405f3a0c9367b2633a8d90ca7a0dd5": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -4943,6 +5373,13 @@
   "source_id": "X-8508f7f2",
   "status": "done",
   "timestamp": "2026-10-19T23:50:17+00:00"
+ },
+ "85343effb30dab6979e83a8cab0dec0092c76b891365e31d81f0d87efa8294d2": {
+  "file": "20127.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-85343eff",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:38:45+00:00"
  },
  "855ead2c474ab071b1cc5a11cc9269b94fee782b4b8b4b13ad42847acfb7cc95": {
   "citation_source": "minckley-sheet",
@@ -4982,6 +5419,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:10:19+00:00"
  },
+ "8612880f955617b20d0c610026c183c4e4eb1bb85ef7d8bd10c16d9e8afd85a8": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12648.pdf",
+  "method": "ocr",
+  "note": "StudiesOfTheEffectsOfOperating_12648.md",
+  "source_id": "X-8612880f",
+  "status": "done",
+  "timestamp": "2026-10-21T13:48:58+00:00"
+ },
  "863d3132d186e78cfc96761c90dacfeb09a3bdccefb7be102fa7ce5823906caa": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -5011,6 +5458,16 @@
   "source_id": "X-86614c6d",
   "status": "done",
   "timestamp": "2026-10-17T05:53:26+00:00"
+ },
+ "86f572951d18b8e6a1c2f56affe23a0a674f291981372a305940d229a1052593": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15864.pdf",
+  "method": "ocr",
+  "note": "SurveyOfCarnahanCreekPottawato_15864.md",
+  "source_id": "X-86f57295",
+  "status": "done",
+  "timestamp": "2026-10-21T14:24:00+00:00"
  },
  "87013c226901ba388b5899c758f526be11d66cfe190a1b28ee2eb2481bf37e4c": {
   "citation_source": "minckley-sheet",
@@ -5189,6 +5646,16 @@
   "status": "done",
   "timestamp": "2026-10-21T06:10:26+00:00"
  },
+ "8af90e851c5fafc2ee20d877ea0be3ed5271e3bdf66ef26d0557c9534d09e9f2": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13207.pdf",
+  "method": "ocr",
+  "note": "DraftEnvironmentalAssessmentDe_13207.md",
+  "source_id": "X-8af90e85",
+  "status": "done",
+  "timestamp": "2026-10-21T13:57:20+00:00"
+ },
  "8b1890afbef88364dec9317e11da93688c0f585c6a67d3d63ca0651b6558b8e7": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -5256,6 +5723,16 @@
   "status": "done",
   "timestamp": "2026-10-17T05:14:59+00:00"
  },
+ "8c58ef563a5a09735e6480d7a5ad389466ac489b1aa40494c1881f0b6f0cfe82": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13295.pdf",
+  "method": "ocr",
+  "note": "WantedForTheFutureTheseNativeF_13295.md",
+  "source_id": "X-8c58ef56",
+  "status": "done",
+  "timestamp": "2026-10-21T13:58:48+00:00"
+ },
  "8c5a5deee4b608b1295d487d456c46fea580f49057d79b23864648a5690e70cb": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -5275,6 +5752,16 @@
   "source_id": "X-8ca86210",
   "status": "done",
   "timestamp": "2026-10-17T08:53:49+00:00"
+ },
+ "8cc5a1172e80d1857d4fbe253c22083876736c31e954719154270e0d83b057e2": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14828.pdf",
+  "method": "ocr",
+  "note": "DraftColoradoRiverTrophicStudi_14828.md",
+  "source_id": "X-8cc5a117",
+  "status": "done",
+  "timestamp": "2026-10-21T14:17:48+00:00"
  },
  "8ccdafb25a4ce609f4867da33cb8c443df94d0498530e8a27c2e7c68615f00f4": {
   "citation_source": "minckley-sheet",
@@ -5592,6 +6079,13 @@
   "status": "done",
   "timestamp": "2026-10-17T08:25:21+00:00"
  },
+ "922a3d30a304b9cc358bdb443ae8bf09de24330f50dcf2d850e6e36fd9774ea5": {
+  "file": "21239.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-922a3d30",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:41:25+00:00"
+ },
  "925a442cce661a6f9db8505a522c240f3ca14b4711b1daf6379b61bdf63598dc": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -5867,6 +6361,16 @@
   "status": "done",
   "timestamp": "2026-10-18T04:34:22+00:00"
  },
+ "990b9854a6c858af383fbe97e4476809b621ce69883e9e6cfde5a9381834100b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13782.pdf",
+  "method": "ocr",
+  "note": "AProposedMonitoringProtocolFor_13782.md",
+  "source_id": "X-990b9854",
+  "status": "done",
+  "timestamp": "2026-10-21T14:09:53+00:00"
+ },
  "993bbf4b3b9afaf62cb166fea285fd903db8c05aeb2438858889e04639ce7b3c": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -5981,6 +6485,13 @@
   "source_id": "X-9c27315b",
   "status": "done",
   "timestamp": "2026-10-21T05:55:48+00:00"
+ },
+ "9c2844cdfc6bbc86fabad0d3a1c7f963296f55e5abb985b29b4552f59a83e3f9": {
+  "file": "19473.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-9c2844cd",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:38:08+00:00"
  },
  "9c29aefa52131badd913b567aebb128e897145d81ffbcaf786eeb3b715bf9a45": {
   "citation_source": "minckley-sheet",
@@ -6128,6 +6639,16 @@
   "source_id": "X-9e39f23c",
   "status": "done",
   "timestamp": "2026-10-21T06:26:46+00:00"
+ },
+ "9e443e6766cccc32558e292875beb9bb88f46210a41f55f9a797b153e7e117ee": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11361.pdf",
+  "method": "ocr",
+  "note": "MuskalongemakingMuskies_11361.md",
+  "source_id": "X-9e443e67",
+  "status": "done",
+  "timestamp": "2026-10-21T13:19:01+00:00"
  },
  "9e4906172850b56b957b50300caa418d296f2f59c3cb84b2522e5220d219d850": {
   "citation_source": "minckley-sheet",
@@ -6343,6 +6864,16 @@
   "status": "done",
   "timestamp": "2026-10-20T23:23:57+00:00"
  },
+ "a3791cdac1fb6c1437ff7a32439149d3ef968ccc64a996fd803535689f24d054": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14367.pdf",
+  "method": "ocr",
+  "note": "AuthortitleIndexToInlandFisher_14367.md",
+  "source_id": "X-a3791cda",
+  "status": "done",
+  "timestamp": "2026-10-21T14:12:53+00:00"
+ },
  "a3d68ca8920b822ed4caa82a12647d98f91ecf083736a171a26fb0541e060c0c": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -6422,6 +6953,16 @@
   "status": "done",
   "timestamp": "2026-10-14T19:26:00+00:00"
  },
+ "a7bf3d13fd8d65d47df5d2816a44516a44261826eee4a8eebabdf20a88d3f5ac": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11712.pdf",
+  "method": "ocr",
+  "note": "RecoveryImplementationProgramF_11712.md",
+  "source_id": "X-a7bf3d13",
+  "status": "done",
+  "timestamp": "2026-10-21T13:40:58+00:00"
+ },
  "a809357ce416309986c4179009f50603d8c83e6f9890049a07d864148eaa7443": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -6482,6 +7023,16 @@
   "status": "done",
   "timestamp": "2026-10-20T05:15:41+00:00"
  },
+ "a981e11320052ad149f1879cde2a97d17cc8c44c95d7ff8daa652de8a72b9b08": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12634.pdf",
+  "method": "ocr",
+  "note": "PoisonousInsectsOfArizona_12634.md",
+  "source_id": "X-a981e113",
+  "status": "done",
+  "timestamp": "2026-10-21T13:47:29+00:00"
+ },
  "a993d52602e21dd0c63604c6de31e7850533d1a5c26112a5d8adea72bfc9be31": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -6531,6 +7082,13 @@
   "source_id": "X-aa12b56e",
   "status": "done",
   "timestamp": "2026-10-17T09:44:21+00:00"
+ },
+ "aa9ad6fe74e20a3a37626e59f0a68872915ad8cc8d78404ea75a580524090a6d": {
+  "file": "17383.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.08 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.07840595, 'resets_at': None}}}",
+  "source_id": "X-aa9ad6fe",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:33:24+00:00"
  },
  "ab205180da96533c05c533f2398bf0b881a7adf6b5b8cc3354a9409d24249f87": {
   "citation_source": "minckley-sheet",
@@ -6660,6 +7218,13 @@
   "status": "done",
   "timestamp": "2026-10-20T01:07:54+00:00"
  },
+ "afac2e2b83824cd13f57ef389fe2fba9f21f1247c04e944d02ab6d5f5e32b03d": {
+  "file": "19016.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-afac2e2b",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:37:11+00:00"
+ },
  "b05c2c78ef444c916e10327fc818993835765734eb95500c767116673a7555ed": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -6768,6 +7333,13 @@
   "source_id": "X-b2087074",
   "status": "done",
   "timestamp": "2026-10-20T00:00:37+00:00"
+ },
+ "b22d01763d7881f5bfd1ab27315f1ee1f74c102b79bc077e11eabbc996ab45fa": {
+  "file": "19154.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-b22d0176",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:37:23+00:00"
  },
  "b2c15c9920bbbc8ace433a1b59a10b38232185ee88c5eabe749aeec6c79b633d": {
   "citation_source": "minckley-sheet",
@@ -6924,6 +7496,13 @@
   "source_id": "X-b6c629b6",
   "status": "done",
   "timestamp": "2026-10-20T05:16:09+00:00"
+ },
+ "b758aaf0ec241952db7abe649b5a8c0e22f90cfd6ffc529c10e414a8e4754265": {
+  "file": "21000.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-b758aaf0",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:40:48+00:00"
  },
  "b80b192465d944a61ee2e18bb0e7bda5f073fc53868ff388eb3337cc0a8944c4": {
   "citation_source": "minckley-sheet",
@@ -7261,6 +7840,16 @@
   "status": "done",
   "timestamp": "2026-10-18T04:25:20+00:00"
  },
+ "c094db280281a08fe352b721fa15a0505ad49c8bf86b1be105b1cf8702705990": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11510.pdf",
+  "method": "ocr",
+  "note": "FoodFishfreshAndFrozenProducts_11510.md",
+  "source_id": "X-c094db28",
+  "status": "done",
+  "timestamp": "2026-10-21T13:33:49+00:00"
+ },
  "c0f785d4f775e8050fd897ccbbd2f24084483ae5d191e8a88b185bda1983dd0f": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -7348,6 +7937,23 @@
   "status": "done",
   "timestamp": "2026-10-14T20:30:29+00:00"
  },
+ "c2c0ce0b05524ebca2562e9234ccaf251844a5de0fb8b3c94c6294d8dcf38b49": {
+  "file": "20995.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-c2c0ce0b",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:40:36+00:00"
+ },
+ "c2c6473d6f507e60bb44ac2e66be5e2d8d17521701ae0126bd72b5ab4328d1e6": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12800.pdf",
+  "method": "ocr",
+  "note": "WhatIsIt_12800.md",
+  "source_id": "X-c2c6473d",
+  "status": "done",
+  "timestamp": "2026-10-21T13:53:15+00:00"
+ },
  "c2db44469744bfd684031b1b904febd8e8450d3b05587c5c149ba550e6a57e9b": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -7416,6 +8022,20 @@
   "source_id": "X-c4fe64af",
   "status": "done",
   "timestamp": "2026-10-21T06:51:24+00:00"
+ },
+ "c540c6051ea05ab0e8743e81dc1324c7b6ec287679f2bad7f1d54b066ead2e14": {
+  "file": "20574.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-c540c605",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:39:46+00:00"
+ },
+ "c578e98cc6c424924c569db2e8d56a311189891bb8a09c4ffc5a020e128c0249": {
+  "file": "19429.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-c578e98c",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:37:56+00:00"
  },
  "c5a7156c89f400f7b134d1afc732280e9c78560a328d9cc885b76c1444b09933": {
   "citation_source": "minckley-sheet",
@@ -7577,6 +8197,16 @@
   "status": "done",
   "timestamp": "2026-10-17T09:08:21+00:00"
  },
+ "c9bcacf5fe8f1a6056016e3e905b9e091ed8d8dfa36e61daec256cb697f2e9e4": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11612.pdf",
+  "method": "ocr",
+  "note": "PartEndangeredAndThreatenedWil_11612.md",
+  "source_id": "X-c9bcacf5",
+  "status": "done",
+  "timestamp": "2026-10-21T13:34:42+00:00"
+ },
  "c9dac6f4cce0d22b68111eb078b270352d45bc2cf500e19a448f002fafd54653": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -7646,6 +8276,13 @@
   "source_id": "X-ca84a7cd",
   "status": "done",
   "timestamp": "2026-10-17T05:58:41+00:00"
+ },
+ "cabeffd6f89185f2729e1e05b86bd505ea82b68ad91c060bb9786ce556925ce4": {
+  "file": "17546.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-cabeffd6",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:33:37+00:00"
  },
  "caefd504b2884cd23c9e8a85554945bee44f4720f5a06ebf3dadc05bc225ecca": {
   "citation_source": "minckley-sheet",
@@ -7815,6 +8452,13 @@
   "status": "done",
   "timestamp": "2026-10-21T00:22:16+00:00"
  },
+ "cecb99e2401a28681d20590aafe54ea196db21808a8442cc8f9d08f562c201a7": {
+  "file": "20462.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-cecb99e2",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:39:34+00:00"
+ },
  "cedd3353175bd7b34747f5016bff50746c3e6ed68b1c88ebd550dfd711b6d4cd": {
   "citation_source": "llm",
   "doc_type": "ecological_and_biological",
@@ -7855,6 +8499,13 @@
   "status": "done",
   "timestamp": "2026-10-17T09:11:20+00:00"
  },
+ "cf4b5577963668addc306a27cb666d651460060e53ffb3f94de4ee83f4191a16": {
+  "file": "18961.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-cf4b5577",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:36:46+00:00"
+ },
  "cf61315762a7d6adbd459784ca98a3c072e7050c05a58e6fb09c8bdb441beca1": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -7864,6 +8515,13 @@
   "source_id": "X-cf613157",
   "status": "done",
   "timestamp": "2026-10-16T19:14:51+00:00"
+ },
+ "d03802808a67af7da7f0567a5166fba8aaccad30069b975752689513dd57fbc2": {
+  "file": "18310.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-d0380280",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:35:31+00:00"
  },
  "d03da12df04087ca7f67df962b76b28b039b3ea7c9d661125705bac53cabef76": {
   "citation_source": "minckley-sheet",
@@ -7904,6 +8562,13 @@
   "source_id": "X-d0ba0f03",
   "status": "done",
   "timestamp": "2026-10-18T05:39:40+00:00"
+ },
+ "d0d4f452b46046a25524df7cea902f07c792649726ebceea13e06238cc17a2d1": {
+  "file": "18761.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-d0d4f452",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:36:09+00:00"
  },
  "d10b1ab7ea0ba8b17b9df699b22a42b7b86462c8e5e363e7ab5b3dc418e74463": {
   "citation_source": "minckley-sheet",
@@ -7992,6 +8657,33 @@
   "source_id": "X-d226f605",
   "status": "done",
   "timestamp": "2026-10-21T06:23:34+00:00"
+ },
+ "d2815b6600274680815c79a7d896feed9eef3cd9a3daecc3b830e3cfaa2b5da9": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14420.pdf",
+  "method": "ocr",
+  "note": "MovementsOfLakeTroutInTwinLake_14420.md",
+  "source_id": "X-d2815b66",
+  "status": "done",
+  "timestamp": "2026-10-21T14:14:05+00:00"
+ },
+ "d2fd49cddafd14d93613a68ea89ba9e14a943bd7f63f97f7ab3d3915a7850eb9": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14829.pdf",
+  "method": "ocr",
+  "note": "DraftCritsMeetingNotesAndNewsl_14829.md",
+  "source_id": "X-d2fd49cd",
+  "status": "done",
+  "timestamp": "2026-10-21T14:18:14+00:00"
+ },
+ "d3261365186683dddd539641579329a1e5adf57e51b7f697d50bb00466906cfb": {
+  "file": "20419.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-d3261365",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:39:22+00:00"
  },
  "d343f3af2dd3555b3646261f30c38ff11363e100773bd5f479e9495ec77e1989": {
   "citation_source": "minckley-sheet",
@@ -8149,6 +8841,16 @@
   "status": "done",
   "timestamp": "2026-10-09T16:16:14+00:00"
  },
+ "d5bd8944faaad5e2a9d5691e79ce3c8538434c924c515d152b7ed9218d9bf6bf": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13612.pdf",
+  "method": "ocr",
+  "note": "SummaryOfEndangeredFishResearc_13612.md",
+  "source_id": "X-d5bd8944",
+  "status": "done",
+  "timestamp": "2026-10-21T14:09:15+00:00"
+ },
  "d5c54497483e3ba9c419a99a5d7fb3c7e0754f5f8e3108a673d62ca6ac273de6": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -8227,6 +8929,16 @@
   "status": "done",
   "timestamp": "2026-10-17T05:08:00+00:00"
  },
+ "d75b2f3aa0b800a475ae9623d6e59a0add9247d2473a5b549359ce6fd87acd7c": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16704.pdf",
+  "method": "ocr",
+  "note": "TheSusceptibilityOfSalmonidFis_16704.md",
+  "source_id": "X-d75b2f3a",
+  "status": "done",
+  "timestamp": "2026-10-21T14:29:46+00:00"
+ },
  "d786f0e050d4bc9175ecd1db68334946444fd3335701c5bda9fa4a7f4cae93f1": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -8247,6 +8959,13 @@
   "status": "done",
   "timestamp": "2026-10-16T17:27:55+00:00"
  },
+ "d87a549771863f439766f87e46f04f8bc08cd44890028efd13794596699f77a0": {
+  "file": "17643.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-d87a5497",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:33:50+00:00"
+ },
  "d8905e9aaa02d20111bf78e4a9fe0360b8b294373d8c0d6a36fb17a94b583b23": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -8256,6 +8975,13 @@
   "source_id": "X-d8905e9a",
   "status": "done",
   "timestamp": "2026-10-20T01:02:38+00:00"
+ },
+ "d8c03348f806bb64f058661f69fa4f8f9b0172630f7bd26f0dc2ef734d60c5a1": {
+  "file": "21205.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-d8c03348",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:41:13+00:00"
  },
  "d9025f6043c77f7d6e64bda593f1eba1ea15018818f87ff1f571fa7a2353168a": {
   "citation_source": "minckley-sheet",
@@ -8373,6 +9099,13 @@
   "source_id": "X-dc06ffc3",
   "status": "done",
   "timestamp": "2026-10-20T04:24:07+00:00"
+ },
+ "dced5f705bb382fb19e9abefc0e5463890257f7499be8e05146bf60964652258": {
+  "file": "19844.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-dced5f70",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:38:20+00:00"
  },
  "dd337695e2a3e631c3c0723271458f03a91ae4a069418b94dedbde10ac4a6e95": {
   "citation_source": "minckley-sheet",
@@ -8607,6 +9340,16 @@
   "status": "done",
   "timestamp": "2026-10-21T06:08:45+00:00"
  },
+ "e20b69783e28512fde0e19f7c89d2dbd71d1b6fc0ab1c613f30125b5d736219a": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11674.pdf",
+  "method": "ocr",
+  "note": "FinalDraftEcosystemPlanForTheL_11674.md",
+  "source_id": "X-e20b6978",
+  "status": "done",
+  "timestamp": "2026-10-21T13:38:10+00:00"
+ },
  "e272e8ea3fa2e5a1efe1d3d3795487ca6c568ac320255eea28cefbbc73d1a8bb": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -8651,6 +9394,16 @@
   "source_id": "X-e35961bc",
   "status": "done",
   "timestamp": "2026-10-14T23:17:15+00:00"
+ },
+ "e36f7d3a51c1b329362174c37af6451e5492f297c123788f6cb15776d1bb5970": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13917.pdf",
+  "method": "ocr",
+  "note": "LetterToWlMinckelyRegardingTwo_13917.md",
+  "source_id": "X-e36f7d3a",
+  "status": "done",
+  "timestamp": "2026-10-21T14:11:25+00:00"
  },
  "e39ea987e32bb6be296551ec3c2e62052b9feed381537db0bb649502b326dc2c": {
   "citation_source": "minckley-sheet",
@@ -9129,6 +9882,16 @@
   "status": "done",
   "timestamp": "2026-10-14T23:37:16+00:00"
  },
+ "edcba6b359e7c138fd9e8bdf2fb548e54b5940c3228ed7d20cfb194b8f73c727": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12981.pdf",
+  "method": "ocr",
+  "note": "ReviewOfTheDraftReportEntitled_12981.md",
+  "source_id": "X-edcba6b3",
+  "status": "done",
+  "timestamp": "2026-10-21T13:53:47+00:00"
+ },
  "ee0cbc7e9743a647613bb7d00baeb987a95863eb6701989a41e773f5481ed975": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -9209,6 +9972,16 @@
   "status": "done",
   "timestamp": "2026-10-17T05:41:28+00:00"
  },
+ "f022da30151f700983962b63ca64ac355c4b7d6a7d0dcae739314e53165fd210": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13033.pdf",
+  "method": "ocr",
+  "note": "PreimpoundmentSurveysOfSixKent_13033.md",
+  "source_id": "X-f022da30",
+  "status": "done",
+  "timestamp": "2026-10-21T13:55:17+00:00"
+ },
  "f0fbb82edeff433b2b4698f3db9a27ecafce18aa1e1d20b28aec5edf3a9adf12": {
   "citation_source": "minckley-sheet",
   "file": "18503.pdf",
@@ -9266,6 +10039,16 @@
   "source_id": "X-f16d13ad",
   "status": "done",
   "timestamp": "2026-10-20T05:01:47+00:00"
+ },
+ "f19fd058ed585ff19487242f7fa1e65cfcc1152819cd1c910e46591af885e727": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15998.pdf",
+  "method": "ocr",
+  "note": "EndangeredAndThreatenedSpecies_15998.md",
+  "source_id": "X-f19fd058",
+  "status": "done",
+  "timestamp": "2026-10-21T14:24:55+00:00"
  },
  "f20f4ca93992eee8bdefc475a57321a95bf9c41acd31cb3c6021ec7b2686c9ed": {
   "citation_source": "minckley-sheet",
@@ -9410,6 +10193,16 @@
   "status": "done",
   "timestamp": "2026-10-17T08:38:05+00:00"
  },
+ "f4c0f6d25e267ec48200957ce2bd13db4754bb388a0c0c5453e8e9e415c7e39b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16434.pdf",
+  "method": "ocr",
+  "note": "ANewCrayfishOfTheSpiculiferGro_16434.md",
+  "source_id": "X-f4c0f6d2",
+  "status": "done",
+  "timestamp": "2026-10-21T14:28:22+00:00"
+ },
  "f5a87409772af90ce6769da987cc13d22dbed4d6fc7a45703aba13d0e8316443": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -9439,6 +10232,16 @@
   "status": "done",
   "timestamp": "2026-10-20T23:29:04+00:00"
  },
+ "f5fed318f098a9f0757a6ba17de42c4c27f88dfd0eebc7a795e4a164f5ebab73": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11391.pdf",
+  "method": "ocr",
+  "note": "TheTenchInCalifornia_11391.md",
+  "source_id": "X-f5fed318",
+  "status": "done",
+  "timestamp": "2026-10-21T13:19:39+00:00"
+ },
  "f6125429eed64fddb361eb83ff1f8c715cff6dbeb26113315b14cf0e8ce06062": {
   "citation_source": "minckley-sheet",
   "file": "11854.pdf",
@@ -9466,6 +10269,16 @@
   "source_id": "X-f6a530b7",
   "status": "done",
   "timestamp": "2026-10-14T23:14:44+00:00"
+ },
+ "f6d86d1050686b93a85fc8b4561b88db65e004eb6e94891202d584221cdd5a7f": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11421.pdf",
+  "method": "ocr",
+  "note": "MapsShowingGroundwaterConditio_11421.md",
+  "source_id": "X-f6d86d10",
+  "status": "done",
+  "timestamp": "2026-10-21T13:30:52+00:00"
  },
  "f6f31a332ba4de758de6fd4e7a0375c07318dfcde03c38e70660ccd5bfbe795b": {
   "citation_source": "minckley-sheet",
@@ -9524,6 +10337,16 @@
   "status": "done",
   "timestamp": "2026-10-20T23:38:51+00:00"
  },
+ "f7deefa0208e89a33c41fafb497d5c48f2d527189d871c90f7515f614a775c5c": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16699.pdf",
+  "method": "ocr",
+  "note": "TheGrowthAndSurvivalOfFishInSo_16699.md",
+  "source_id": "X-f7deefa0",
+  "status": "done",
+  "timestamp": "2026-10-21T14:29:01+00:00"
+ },
  "f7f8ca07db4ef3da6ee62183f54b3b736c184ec7a63c624e71ba25620409404d": {
   "citation_source": "minckley-sheet",
   "file": "13734.pdf",
@@ -9562,6 +10385,16 @@
   "source_id": "X-f853b3a4",
   "status": "done",
   "timestamp": "2026-10-17T05:39:42+00:00"
+ },
+ "f884076f8f2f9e4761ba5388c38c3e3b12f42e0e7eee9762685644fbf2c58bc0": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15607.pdf",
+  "method": "ocr",
+  "note": "SolicitationNoSpEntitledInvest_15607.md",
+  "source_id": "X-f884076f",
+  "status": "done",
+  "timestamp": "2026-10-21T14:21:28+00:00"
  },
  "f8b86eab8341a654117287b13a517766728a35887452ad1d4cf69c5c46e5e70d": {
   "citation_source": "minckley-sheet",
@@ -9690,6 +10523,16 @@
   "status": "done",
   "timestamp": "2026-10-14T19:33:10+00:00"
  },
+ "fc6390558489a1931c54eaf9e3ca7ff71e8064567386de22a02cae29ddae51bb": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16429.pdf",
+  "method": "ocr",
+  "note": "FisheriesReportOfTheLowerColor_16429.md",
+  "source_id": "X-fc639055",
+  "status": "done",
+  "timestamp": "2026-10-21T14:27:26+00:00"
+ },
  "fcdbd690c73ece83a9dc89a7381736c2e07febdb9435f1441d558d332cfdb060": {
   "citation_source": "minckley-sheet",
   "file": "15827.pdf",
@@ -9778,6 +10621,16 @@
   "status": "done",
   "timestamp": "2026-10-21T05:49:59+00:00"
  },
+ "fda9f15b4e8451330bda0d356d3c311099fa56bff89ce13adf53ffc95fe608f2": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14029.pdf",
+  "method": "ocr",
+  "note": "UsFishAndWildlifeServiceAuthor_14029.md",
+  "source_id": "X-fda9f15b",
+  "status": "done",
+  "timestamp": "2026-10-21T14:11:46+00:00"
+ },
  "fdbfab67c2aacc0493c5b7e495de697afabe87624e88eb509f41cf3d12d3272f": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -9818,6 +10671,23 @@
   "status": "done",
   "timestamp": "2026-10-21T00:38:03+00:00"
  },
+ "fe1522e1a5a24d761e0b5903282ee2ea886d2209263d102b08b61a1a18fd65ca": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12751.pdf",
+  "method": "ocr",
+  "note": "TheMosquitofishGambusiaAffinis_12751.md",
+  "source_id": "X-fe1522e1",
+  "status": "done",
+  "timestamp": "2026-10-21T13:52:47+00:00"
+ },
+ "fea468f211a6f8a4d57e24c5d3ac160722bae5203bdcdcb0fcecc6b6e9f768d3": {
+  "file": "20943.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-fea468f2",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:40:11+00:00"
+ },
  "feb6c8e7e59b7b8d108002664133a2f9ac30f48ec545314042d880ad9b738295": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -9827,6 +10697,13 @@
   "source_id": "X-feb6c8e7",
   "status": "done",
   "timestamp": "2026-10-17T05:34:41+00:00"
+ },
+ "fecd34ff09fab84be3c7def204523e211e160751f6780a03a56011672bd292b9": {
+  "file": "17695.pdf",
+  "reason": "LLM request failed: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/185bc20430470f775a3dd759015444f4f55622d8fdd83a47185ec8fc88b97ee7 $100.12 of $100.00 used; does not reset.', 'code': 403, 'metadata': {'limit_source': 'openrouter_key_limit', 'remedy_hint': \"Raise or remove this API key's usage limit at https://openrouter.ai/settings/keys, or use a key without a limit.\", 'scope': 'key_limit', 'limit_usd': 100, 'spend_usd': 100.11729795, 'resets_at': None}}}",
+  "source_id": "X-fecd34ff",
+  "status": "failed",
+  "timestamp": "2026-10-21T14:34:02+00:00"
  },
  "ff2ff7b37d1759ada668e050ce6e101981078886222b221d4eb2148761e34461": {
   "citation_source": "minckley-sheet",

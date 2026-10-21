@@ -4,11 +4,35 @@ letter: MISC
 ---
 # Concept Stubs: MISC
 
+## 119 Mile Creek
+
+### Summary
+119 Mile Creek is a tributary confluence on the Colorado River in Grand Canyon where humpback chub were found outside their main concentration area. Two humpback chub were captured at this location during the study, representing one of the few sites in Reaches 2 and 3 where the species was documented.
+
+### Context
+> This memorandum from BIO/WEST, Inc. (October 18, 1991) summarizes preliminary findings from the Endangered Fish Research Program studying [[Gila cypha]] (humpback chub) in the mainstem [[Colorado River]] through [[Grand Canyon]]. The research program, conducted in cooperation with the [[U.S. Fish...
+> -- *[[SummaryOfEndangeredFishResearc_13612]]*
+
+### Mentioned In
+- [[SummaryOfEndangeredFishResearc_13612]]
+
 ## 12-Mile Lake
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[AnotherRazorbackCaughtInCanal_18270]]
+
+## 127 Mile Creek
+
+### Summary
+127 Mile Creek is a tributary confluence on the Colorado River in Grand Canyon where a small population of humpback chub was documented. Eight humpback chub were captured at this location, making it one of the more productive sites for the species outside the Little Colorado River confluence area.
+
+### Context
+> This memorandum from BIO/WEST, Inc. (October 18, 1991) summarizes preliminary findings from the Endangered Fish Research Program studying [[Gila cypha]] (humpback chub) in the mainstem [[Colorado River]] through [[Grand Canyon]]. The research program, conducted in cooperation with the [[U.S. Fish...
+> -- *[[SummaryOfEndangeredFishResearc_13612]]*
+
+### Mentioned In
+- [[SummaryOfEndangeredFishResearc_13612]]
 
 ## 13th-Hole Pond
 
@@ -259,3 +283,15 @@ The 1948 Upper Colorado River Compact is an interstate water allocation agreemen
 
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_1987_07_07]]
+
+## 60-Mile
+
+### Summary
+60-Mile (river miles 60.0-60.1) is an eddy and return channel habitat behind reattachment sand bars on the Colorado River. This site was identified as one of the most-used locations by radiotagged adult humpback chub, representing important habitat for the species near the Little Colorado River confluence.
+
+### Context
+> This memorandum from BIO/WEST, Inc. (October 18, 1991) summarizes preliminary findings from the Endangered Fish Research Program studying [[Gila cypha]] (humpback chub) in the mainstem [[Colorado River]] through [[Grand Canyon]]. The research program, conducted in cooperation with the [[U.S. Fish...
+> -- *[[SummaryOfEndangeredFishResearc_13612]]*
+
+### Mentioned In
+- [[SummaryOfEndangeredFishResearc_13612]]
