@@ -497,6 +497,9 @@ The Tahoe Sucker (*Catostomus tahoe*) is a native cyprinid fish species endemic 
 > This interim report from the [[University of Nevada-Reno]] Department of Biology presents preliminary genetic analysis results examining potential hybridization between [[Cui-ui]] (*Chasmistes cujus*) and [[Tahoe Sucker]] populations. Dr. William Berg conducted electrophoretic analysis on 26...
 > -- *[[CuiuiHybridizationStudyInterim_13856]]*
 
+> This 1965 report documents the introduction of [[Bonneville Cisco]] (*Prosopium gemmiferum*) from [[Bear Lake]] (Utah-Idaho) into [[Lake Tahoe]] (California-Nevada) in January 1964. The introduction aimed to provide forage for [[Lake Trout]] (*Salvelinus namaycush*) in deep waters during summer...
+> -- *[[IntroductionOfTheBonnevilleCis_18820]]*
+
 ### Mentioned In
 - [[AllozymeDifferencesDuplicateGe_11423]]
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
@@ -513,6 +516,7 @@ The Tahoe Sucker (*Catostomus tahoe*) is a native cyprinid fish species endemic 
 - [[SummaryOfPyramidLakeTrip_13173]]
 - [[AConservationorientedClassific_15455]]
 - [[CuiuiHybridizationStudyInterim_13856]]
+- [[IntroductionOfTheBonnevilleCis_18820]]
 
 ## Taillight Shiner
 <!-- fm: auto_enriched: true -->
@@ -957,6 +961,9 @@ Tapeats Creek is a tributary of the Colorado River within the Grand Canyon that 
 > This comprehensive study (1980-1981, with creel data through 1984) assessed the biological impacts of fluctuating water releases from [[Glen Canyon Dam]] on the [[Lee's Ferry]] tailwater trout fishery in Arizona. The 26 km reach below the dam developed into a premier cold-water fishery following...
 > -- *[[FisheryInvestigationOfTheColor_11293]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[FishesCollectedOnTheGrandCanyo_15402]]
 - [[FwsProposedStudiesAndWorkForFy_11072]]
@@ -970,6 +977,7 @@ Tapeats Creek is a tributary of the Colorado River within the Grand Canyon that 
 - [[EarlyFieldNotes_15954]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[FisheryInvestigationOfTheColor_11293]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Tapestry Wall
 
@@ -2745,6 +2753,9 @@ Tette is a location in Portuguese East Africa that had one of the few previous r
 > This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
 > -- *[[PartEndangeredAndThreatenedWil_11612]]*
 
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
 ### Mentioned In
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[TheSpawningBehaviorOfTheChanne_15949]]
@@ -2760,6 +2771,7 @@ Tette is a location in Portuguese East Africa that had one of the few previous r
 - [[RedescriptionAndAssignmentToTh_17755]]
 - [[EndangeredAndThreatenedWildlif_11596]]
 - [[PartEndangeredAndThreatenedWil_11612]]
+- [[WaterRightsBibliography_17761]]
 
 ## Texas Aquatic Communities
 <!-- fm: auto_enriched: true -->
@@ -2909,11 +2921,15 @@ Thailand is a Southeast Asian country that is home to endangered catfish species
 > This Federal Register notice announces receipt of multiple permit applications under Section 10(c) of the [[Endangered Species Act]] of 1973 for activities involving endangered species. Among the applications, the [[University of California]] La Jolla Department of Biology requested permits for...
 > -- *[[FishAndWildlifeServiceNoticeOf_11728]]*
 
+> This document presents research findings from [[Auburn University]] Agricultural Experiment Station (begun 1966) on developing cage culture systems for raising [[Channel Catfish]] ([[Ictalurus punctatus]]) from fingerlings to marketable size. The system allows intensive fish culture in previously...
+> -- *[[CageCultureOfChannelCatfish_20574]]*
+
 ### Mentioned In
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[TwowayCapturerecaptureMethodsW_2026]]
 - [[GambusiaTheFishDestroyer_15551]]
 - [[FishAndWildlifeServiceNoticeOf_11728]]
+- [[CageCultureOfChannelCatfish_20574]]
 
 ## Thalassia
 
@@ -3239,6 +3255,12 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AssignmentsMadeAtFebruaryMeeti_1992_02_19]]
 - [[AttemptedReEstablish_1969_03_06]]
@@ -3300,6 +3322,8 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[ReSteveLanigansCommentsConcern_14142]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[SummaryaprilManagementGroupMee_20995]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## The Nature Conservancy Hassayampa Preserve
 
@@ -4288,6 +4312,12 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 > This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
 > -- *[[AuthortitleIndexToInlandFisher_14367]]*
 
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -4402,6 +4432,8 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[FisheryInvestigationsInRegionI_12196]]
 - [[AuthortitleIndexToInlandFisher_14367]]
+- [[AquaticEnvironmentalReportForO_17695]]
+- [[SamplingAtAsuResearchParkApril_19429]]
 
 ## Threadfin Shad Introduction
 <!-- fm: auto_enriched: true -->
@@ -4473,6 +4505,9 @@ Threatened and Endangered Species (TES) in fish science refers to fish populatio
 > This document provides comprehensive guidelines for developing fishery management plans for various management units including military installations, Indian reservations, and federal lands managed by agencies such as the National Park Service (NPS), Department of Defense (DOD), and U.S. Forest...
 > -- *[[FisheryManagementPlanGuideline_13315]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[AmendmentLetterExtendingThreat_1994_03_11]]
 - [[CommentsOnFishAndWildlifeServi_1997_07_08]]
@@ -4487,6 +4522,7 @@ Threatened and Endangered Species (TES) in fish science refers to fish populatio
 - [[StationProfileBozemanFtc_1994]]
 - [[ZolTechniquesInConservationBio_1992_03_06]]
 - [[FisheryManagementPlanGuideline_13315]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Threatened Coachella Valley Fringe-toed Lizard
 
@@ -4621,6 +4657,18 @@ Three Forks Hydrobioid is mentioned in the source but not described in the provi
 
 ### Mentioned In
 - [[CurrentStatusOfEndangeredThrea_12695]]
+
+## Three Gorges Dam
+
+### Summary
+The Three Gorges Dam is a major hydroelectric dam on the Changjiang River in China. This source identifies it as one of the large-scale water conservancy projects that has profoundly impacted Chinese sturgeon reproduction and growth by fundamentally transforming riverine environments and blocking access to spawning areas.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Three Mile Bar
 <!-- fm: auto_enriched: true -->
@@ -4843,6 +4891,18 @@ Thymallidae is the grayling family, represented in Utah by the introduced Grayli
 
 ### Mentioned In
 - [[FreshwaterFishesOfTheEasternAr_18569]]
+
+## Thymallus arcticus grubei
+
+### Summary
+Thymallus arcticus grubei is a salmon species found in China. This source lists it as one of six endangered salmon species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Thymallus Thymallus
 <!-- fm: auto_enriched: true -->
@@ -5196,6 +5256,9 @@ The Tiger Salamander (*Ambystoma tigrinum*) is an aquatic amphibian whose larval
 > This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The survey assessed 45 tanks to evaluate their potential as supplemental growout habitats for endangered fish...
 > -- *[[PreliminaryFisheriesSurveyOfAq_16481]]*
 
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
 ### Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[CommissionPresentationOnCaptiv_1994_12_08]]
@@ -5212,6 +5275,7 @@ The Tiger Salamander (*Ambystoma tigrinum*) is an aquatic amphibian whose larval
 - [[BiologyOfTheStripedBassMoroneS_15769]]
 - [[ManagementPlanSierraSanLuisWil_11399]]
 - [[PreliminaryFisheriesSurveyOfAq_16481]]
+- [[LetterRequestingLetterOfRecomm_19844]]
 
 ## Tiger Salamanders
 
@@ -5356,6 +5420,9 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 > On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
 > -- *[[WorkshopProceedings_18372]]*
 
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
 ### Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -5410,6 +5477,7 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 - [[ReProgressReportOnConstruction_13911]]
 - [[TripReportSamplingOfMexicanPop_14780]]
 - [[WorkshopProceedings_18372]]
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Tilapia Aurea
 <!-- fm: auto_enriched: true -->
@@ -6556,6 +6624,18 @@ Toposhaw Creek is the second known locality for Procambarus lylei, located 1.9 m
 - [[FishesInhabitingTheRioGrandeTe_1977_07_09]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 
+## Toroweap Fault
+
+### Summary
+Toroweap Fault is a major geological feature at mile 117.6 showing approximately 580 feet of displacement. This fault was documented as part of the expedition's geological survey of Grand Canyon's structural features.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
 ## Torpedinidae
 <!-- fm: auto_enriched: true -->
 
@@ -6905,6 +6985,18 @@ Tracheliastes polycolpus is a lernaeopodid copepod parasite that infests dace an
 
 ### Mentioned In
 - [[FishesOfTheWorldAKeyToFamilies_1975]]
+
+## Trachidermus fasciatus
+
+### Summary
+Trachidermus fasciatus is a fish species that was formerly an abundant economic species in China. This source reports that excessive exploitation driven by increasing human food demands has reduced it to rare or endangered status, with production declining to very small scales.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Trachurus Morph
 <!-- fm: auto_enriched: true -->
@@ -7918,8 +8010,12 @@ Trinity River Salmon and Steelhead Hatchery is a California fish hatchery focuse
 > - **Aquatic/freshwater gastropods**: [[Campeloma Decisum]], [[Viviparus Intertextus]], [[Lymnaea Columella]], [[Physa Anatina]], [[Helisoma Anceps]], [[Oxytrema Alveare]] (noted as "typical downstream forms") - **Terrestrial land snails**: [[Stenotrema Leai Aliciae]], [[Mesodon Thyroidus]], [[Mes...
 > -- *[[SomeDistributionRecordsForLoui_12899]]*
 
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[SomeDistributionRecordsForLoui_12899]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Triodopsis Cragini
 <!-- fm: auto_enriched: true -->
@@ -8028,6 +8124,18 @@ Trinity River Salmon and Steelhead Hatchery is a California fish hatchery focuse
 - [[InterimProceduresForStockingNo_15423]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 
+## Triplophysa siluroides
+
+### Summary
+Triplophysa siluroides is a loach species from the family Cobitidae. This source lists it as one of the endangered freshwater fish species in China.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## Tripplett Creek
 <!-- fm: auto_enriched: true -->
 
@@ -8061,6 +8169,18 @@ Trinity River Salmon and Steelhead Hatchery is a California fish hatchery focuse
 
 ### Mentioned In
 - [[TheCichlidFishesOfTheGenusTris_1960_12_30]]
+
+## Tritogonia verrucosa
+
+### Summary
+Tritogonia verrucosa is a freshwater mussel in the family Unionidae. It was collected from West Creek in Greenwood County, Kansas, as part of the diverse unionid assemblage documented in this 1946 survey.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Trivers' Parental Investment Theory
 <!-- fm: auto_enriched: true -->
@@ -8818,6 +8938,18 @@ True Frogs (family Ranidae) are among the 29 species associated with riparian an
 ### Mentioned In
 - [[DiurnalVariabilityInAFishAssem_1981]]
 
+## Truncilla truncata
+
+### Summary
+Truncilla truncata is a unionid mussel species documented from West Creek (Station 6) in Greenwood County, Kansas. It was one of 16 unionid species found at this location.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Trunk Bay
 <!-- fm: auto_enriched: true -->
 
@@ -8916,6 +9048,18 @@ Tryonia quitobaquitae, known as the Quitobaquito Tryonia, is an aquatic snail wi
 
 ### Mentioned In
 - [[RediscoveryOfEtheostomaHistrio_1982]]
+
+## Tsegi Formation
+
+### Summary
+The Tsegi Formation includes both Unit 4 (upper) and Unit 5 (lower) of the Recent alluvial sequence. The upper Tsegi Formation (Unit 4) forms the bulk of Recent alluvium in arroyo walls with cross-bedded sand and gravel beds, while the lower Tsegi Formation (Unit 5) is the oldest Recent unit, lithologically similar to Unit 4 but more cemented.
+
+### Context
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+### Mentioned In
+- [[LatePleistoceneAndRecentErosio_17546]]
 
 ## Tshernova'S 1970 Classification
 <!-- fm: auto_enriched: true -->
@@ -9229,6 +9373,9 @@ The Tucson Resource Area Office is a field office of the Bureau of Land Manageme
 > This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
 > -- *[[DesertFishesCouncilEighteenthA_12829]]*
 
+> This 1965 report documents the introduction of [[Bonneville Cisco]] (*Prosopium gemmiferum*) from [[Bear Lake]] (Utah-Idaho) into [[Lake Tahoe]] (California-Nevada) in January 1964. The introduction aimed to provide forage for [[Lake Trout]] (*Salvelinus namaycush*) in deep waters during summer...
+> -- *[[IntroductionOfTheBonnevilleCis_18820]]*
+
 ### Mentioned In
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[NoteOnSpringFoodHabitsOfTheLak_12533]]
@@ -9241,6 +9388,7 @@ The Tucson Resource Area Office is a field office of the Bureau of Land Manageme
 - [[MxMissileSystemeffectsOnDesert_20506]]
 - [[TheEmbryonicAndEarlyLarvalStag_20681]]
 - [[DesertFishesCouncilEighteenthA_12829]]
+- [[IntroductionOfTheBonnevilleCis_18820]]
 
 ## Tui-Chub
 <!-- fm: auto_enriched: true -->
@@ -9740,6 +9888,9 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 > This doctoral dissertation (Oklahoma State University, 1966) investigated how domestic sewage and oil refinery effluents affected the morphological characteristics and population structure of three cyprinid fish species in [[Skeleton Creek]], Oklahoma. Between June 1963 and May 1964, the author...
 > -- *[[TheEffectOfDomesticAndOilRefin_15666]]*
 
+> This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
+> -- *[[ProtectionUpdatePrivateLandown_20666]]*
+
 ### Mentioned In
 - [[AravaipaShinerSurveyJuly_1998_07_10]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -9765,6 +9916,7 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 - [[GilaTopminnowSitesInArizonaPro_19668]]
 - [[StatusReportLilaeopsisSchaffne_14909]]
 - [[TheEffectOfDomesticAndOilRefin_15666]]
+- [[ProtectionUpdatePrivateLandown_20666]]
 
 ## Turkey Pen Creek
 
@@ -10456,6 +10608,18 @@ Typhlichthys subterraneus, commonly known as the Southern Cavefish, is a relativ
 - [[AProvisionalCheckListOfTheFish_15941]]
 - [[BiogeographyOfTroglobites_15604]]
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
+
+## Typhlobarbus nudiventris
+
+### Summary
+Typhlobarbus nudiventris is a cave-dwelling cyprinid fish found in China. This source lists it among the 52 endangered cyprinid species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Typhlogobius
 <!-- fm: auto_enriched: true -->

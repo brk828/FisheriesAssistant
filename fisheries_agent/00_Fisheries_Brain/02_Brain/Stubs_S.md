@@ -244,8 +244,12 @@ Sacramento is both a residence area for categorizing angler populations and an a
 > This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
 > -- *[[MovementsOfInlandAnglersWithin_11325]]*
 
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
 ### Mentioned In
 - [[MovementsOfInlandAnglersWithin_11325]]
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## Sacramento Blackfish
 <!-- fm: auto_enriched: true -->
@@ -583,6 +587,9 @@ The Sacramento-San Joaquin Delta is a complex estuarine system in northern Calif
 > This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
 > -- *[[AuthortitleIndexToInlandFisher_14367]]*
 
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
 ### Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[DeterminationOfSexualMaturityI_1965]]
@@ -601,6 +608,7 @@ The Sacramento-San Joaquin Delta is a complex estuarine system in northern Calif
 - [[TheDesirabilityOfIntroducingWh_16080]]
 - [[NorthernPikeControlAtLakeDavis_2001]]
 - [[AuthortitleIndexToInlandFisher_14367]]
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## Sacramento-San Joaquin Drainage Basin
 <!-- fm: auto_enriched: true -->
@@ -1644,6 +1652,9 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 > This 1953 study by A.N. Svetovidov provides a comprehensive comparative analysis of brain structure across the family [[Gadidae]] (codfishes), examining representatives from three subfamilies: [[Lotinae]], [[Merlucciinae]], and [[Gadinae]]. The research documents detailed morphological descriptions...
 > -- *[[MaterialsOnTheStructureOfTheFi_15061]]*
 
+> This experimental study investigated how light exposure, diet composition, and spawner age affect the physical and chemical characteristics of [[Brown Trout]] ([[Salmo trutta]]) eggs and fry at the [[Cortland Fish Hatchery]]. Four groups of spawning trout were maintained under different conditions:...
+> -- *[[EffectOfLightDietAndAgeOfSpawn_19154]]*
+
 ### Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
@@ -1668,6 +1679,7 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[MaterialsOnTheStructureOfTheFi_15061]]
+- [[EffectOfLightDietAndAgeOfSpawn_19154]]
 
 ## Salmon
 <!-- fm: auto_enriched: true -->
@@ -1782,6 +1794,9 @@ A Salmon River refers to any river system or tributary that supports Pacific sal
 > This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
 > -- *[[NativeRockyMountainTroutAndSto_17773]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[ChinookSalmonPondRearingStudie_16813]]
@@ -1791,6 +1806,7 @@ A Salmon River refers to any river system or tributary that supports Pacific sal
 - [[SalmonAndSteelheadInvestigatio_12147]]
 - [[SalmonSpawningGroundSurveysSal_17594]]
 - [[NativeRockyMountainTroutAndSto_17773]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Salmon Runs
 <!-- fm: auto_enriched: true -->
@@ -1827,10 +1843,14 @@ A Salmon River refers to any river system or tributary that supports Pacific sal
 > **Taxonomic & Life-History Summary:** This review examines multiple salmonid species with varying sensitivity to Total Dissolved Solids (TDS). Species sensitivity ranking (most to least sensitive to CaSO₄ TDS): [[Chum Salmon]] (*Oncorhynchus keta*) > [[Steelhead]] (*O. mykiss*) > [[Arctic...
 > -- *[[EffectsOfTotalDissolvedSolidsO_2007]]*
 
+> This experimental study investigated how light exposure, diet composition, and spawner age affect the physical and chemical characteristics of [[Brown Trout]] ([[Salmo trutta]]) eggs and fry at the [[Cortland Fish Hatchery]]. Four groups of spawning trout were maintained under different conditions:...
+> -- *[[EffectOfLightDietAndAgeOfSpawn_19154]]*
+
 ### Mentioned In
 - [[LetterToDrWLMinckleyRegardingN_1994_05_16]]
 - [[SalmonidHatcheryWastewaterTrea_12415]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
+- [[EffectOfLightDietAndAgeOfSpawn_19154]]
 
 ## Salmonid Aquaculture
 <!-- fm: auto_enriched: true -->
@@ -2067,6 +2087,9 @@ Salmonidae is a family of teleost fishes that includes salmon, trout, and char s
 > This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
 > -- *[[PartEndangeredAndThreatenedWil_11612]]*
 
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
 ### Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -2171,6 +2194,7 @@ Salmonidae is a family of teleost fishes that includes salmon, trout, and char s
 - [[FishesNativeToOrIntroducedInPa_18945]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
 - [[PartEndangeredAndThreatenedWil_11612]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Salmonids
 <!-- fm: auto_enriched: true -->
@@ -2390,6 +2414,18 @@ The Salt Creek Pupfish is a small cyprinodontid fish endemic to isolated alkalin
 
 ### Mentioned In
 - [[TheEcologyOfSmallMammalsAtSara_12881]]
+
+## Salt Lake City
+
+### Summary
+Salt Lake City was the location of radio station KZN, one of several stations whose broadcasts the 1923 expedition successfully received despite being in the deep canyon environment. The party regularly monitored radio communications from this and other distant stations throughout their survey work.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Salt Lake City Field Supervisor'S Office
 <!-- fm: auto_enriched: true -->
@@ -2874,6 +2910,9 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 > This U.S. Fish and Wildlife Service Biological Opinion (dated April 15, 1994) addresses the transportation and delivery of [[Colorado River]] water through the [[Central Arizona Project]] (CAP) aqueduct to water users in the [[Gila River Basin]] in Arizona and New Mexico. The opinion focuses...
 > -- *[[SummaryBiologicalOpinionOnTran_11705]]*
 
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
 ### Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[CompilationOfCommentsOnBigRive_11763]]
@@ -2892,6 +2931,7 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 - [[DramaticBattleForWaterBehindTh_18467]]
 - [[ArizonaEnvironmentalAndResourc_17454]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
+- [[SamplingAtAsuResearchParkApril_19429]]
 
 ## Salt River Project Canal System
 <!-- fm: auto_enriched: true -->
@@ -3166,6 +3206,9 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
 > -- *[[AuthortitleIndexToInlandFisher_14367]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[BenthicInvertebratesOfTheEarth_1983]]
@@ -3211,6 +3254,7 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[AGameFishForTheSaltonSeaTheTen_12860]]
 - [[FinalDraftEcosystemPlanForTheL_11674]]
 - [[AuthortitleIndexToInlandFisher_14367]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Salton Sea Basin
 <!-- fm: auto_enriched: true -->
@@ -4435,9 +4479,13 @@ San Francisco is a major city in California used as a geographic reference point
 > This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
 > -- *[[MovementsOfInlandAnglersWithin_11325]]*
 
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
 ### Mentioned In
 - [[MigrationsOfStripedBassOccurri_18606]]
 - [[MovementsOfInlandAnglersWithin_11325]]
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## San Francisco Bay
 <!-- fm: auto_enriched: true -->
@@ -4470,6 +4518,9 @@ San Francisco Bay is a major estuary on the California coast that serves as a cr
 > This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
 > -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
 
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
 ### Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[DeterminationOfSexualMaturityI_1965]]
@@ -4481,6 +4532,7 @@ San Francisco Bay is a major estuary on the California coast that serves as a cr
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[FoodHabitsOfCaliforniaStripedB_19825]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## San Francisco Bay And Delta
 <!-- fm: auto_enriched: true -->
@@ -4507,6 +4559,18 @@ San Francisco Bay is a major estuary on the California coast that serves as a cr
 ### Mentioned In
 - [[TheDietOfJuvenileAndAdultStrip_1967]]
 
+## San Francisco Chronicle
+
+### Summary
+The San Francisco Chronicle is a newspaper outlet. This source lists it as one of the publications that has featured information obtained by the Maricopa Audubon Society through previous FOIA requests, demonstrating the organization's track record of disseminating government information to the public.
+
+### Context
+> This document is a Freedom of Information Act (FOIA) request submitted by the [[Maricopa Audubon Society]] to the [[US Fish and Wildlife Service]] [[Region 2]] on October 7, 1993. The request seeks comprehensive records of exotic (non-native) fish stockings in watersheds and stock ponds within...
+> -- *[[RequestForInformationOnExoticF_18961]]*
+
+### Mentioned In
+- [[RequestForInformationOnExoticF_18961]]
+
 ## San Francisco Hot Spring
 
 ### Summary
@@ -4518,6 +4582,18 @@ San Francisco Hot Spring is a location in New Mexico that represents the eastern
 
 ### Mentioned In
 - [[FishesOfTheSonoitaCreekDrainag_18558]]
+
+## San Francisco Mountain
+
+### Summary
+San Francisco Mountain is a source area for glaciofluvial sediments in the Colorado River system. These glaciofluvial sediments extend downstream and grade into terrace deposits along Deadman Wash and the Little Colorado River.
+
+### Context
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+### Mentioned In
+- [[LatePleistoceneAndRecentErosio_17546]]
 
 ## San Francisco Peaks
 
@@ -4852,12 +4928,16 @@ The San Joaquin River is one of California's major rivers that was fundamentally
 > This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
 > -- *[[AuthortitleIndexToInlandFisher_14367]]*
 
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
 ### Mentioned In
 - [[ConservationOfNativeFreshwater_15444]]
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[FoodHabitsOfCaliforniaStripedB_19825]]
 - [[ForageFish_12530]]
 - [[AuthortitleIndexToInlandFisher_14367]]
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## San Joaquin River Delta
 <!-- fm: auto_enriched: true -->
@@ -4954,8 +5034,12 @@ The San Juan Mountains are a mountain range in southwestern Colorado where the R
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
 ### Mentioned In
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[LatePleistoceneAndRecentErosio_17546]]
 
 ## San Juan Recovery Program
 
@@ -5154,6 +5238,21 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -5230,6 +5329,11 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 - [[WantedForTheFutureTheseNativeF_13295]]
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[LatePleistoceneAndRecentErosio_17546]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[SummaryaprilManagementGroupMee_20995]]
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## San Juan River Arm
 
@@ -6744,10 +6848,14 @@ Sandstone Reservoir was the subject of an ongoing Section 7 Consultation as of F
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held February 5, 1990, in Lakewood, Colorado. The Recovery Implementation Program is a cooperative multi-agency effort established by agreement in January 1988 to recover four...
 > -- *[[ManagementGroupMeetingSummary_19219]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
 ### Mentioned In
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[ManagementGroupMeetingSummary_19219]]
+- [[DraftManagementGroupMeetingSum_17880]]
 
 ## Sandusky River
 <!-- fm: auto_enriched: true -->
@@ -7017,6 +7125,9 @@ Santa Clara Slough is an aquatic habitat system in the southwestern United State
 > This trip report documents a November 10-12, 1990 field survey of known [[Desert Pupfish]] (*Cyprinodon macularius macularius*) populations in the [[Colorado River Delta]] region of Sonora and Baja California, Mexico. Conducted by Sally Stefferud (U.S. Fish and Wildlife Service) and Jerry Stefferud...
 > -- *[[TripReportSamplingOfMexicanPop_14780]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[LetterRequestingCollectionOfQu_1987_12_01]]
 - [[LetterToMarkStrombergRegarding_1986_06_02]]
@@ -7028,6 +7139,7 @@ Santa Clara Slough is an aquatic habitat system in the southwestern United State
 - [[EndangeredAndThreatenedWildlif_11555]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[TripReportSamplingOfMexicanPop_14780]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Santa Cruz
 
@@ -8079,6 +8191,18 @@ Sauna Cave is one of five fixed remote PIT scanning sites established in the Riv
 ### Mentioned In
 - [[NotesOnTheEnergyCostOfGillVent_1970]]
 
+## Sauromalus obesus
+
+### Summary
+Sauromalus obesus is a desert lizard species (chuckwalla). Jones included this species in his comparative biogeographic studies examining patterns of historical differentiation in insularly distributed organisms across the southwestern United States, using it to compare evolutionary patterns with those observed in tiger salamanders and other southwestern species.
+
+### Context
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
+### Mentioned In
+- [[LetterRequestingLetterOfRecomm_19844]]
+
 ## Savanna
 <!-- fm: auto_enriched: true -->
 
@@ -8473,6 +8597,18 @@ Scenedesmus is not discussed or mentioned in this source note, which focuses pri
 - [[FurtherStudiesOnTheMetalimneti_15723]]
 - [[CalorificEquivalentsForStudies_18098]]
 
+## Scenedesmus bijuga
+
+### Summary
+Scenedesmus bijuga is a green algae species that was one of the dominant phytoplankton in Morgan Lake during June-July 1976. It declined after July as blue-green algae became dominant in the late summer phytoplankton community.
+
+### Context
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
+### Mentioned In
+- [[AquaticEnvironmentalReportForO_17695]]
+
 ## Scherer 1962
 <!-- fm: auto_enriched: true -->
 
@@ -8555,8 +8691,12 @@ Schizothorax is a genus of cyprinid fishes (snow trout) well-represented in Afgh
 > This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
 > -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
 
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
 ### Mentioned In
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Schizothorax anjac
 
@@ -9487,6 +9627,12 @@ Scripps Institution of Oceanography is a leading marine research facility affili
 > This report describes a severely deformed [[Carp]] (*Cyprinus carpio*) caught in October 1949 from an irrigation canal in [[Imperial County]], California. The specimen exhibited extreme vertebral fusion with at least 10 centra fused into a solid segment at the midlength of the vertebral column,...
 > -- *[[AnAbnormalCarpCyprinusCarpioFr_12321]]*
 
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
+> This document is a reprint of a presentation by [[Carl L. Hubbs]] at the XIV International Congress of Zoology in Copenhagen, 1953, addressing the critical need for stability in zoological nomenclature. Hubbs discusses the controversies arising from the Paris decisions five years prior, reports on...
+> -- *[[WaysOfStabilizingZoologicalNom_20061]]*
+
 ### Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CorrespondenceReCollectionLoca_1964_04_07]]
@@ -9495,6 +9641,8 @@ Scripps Institution of Oceanography is a leading marine research facility affili
 - [[RecordOfTheOilfishRuvettusPret_15600]]
 - [[RefugiaInNevadaForCertainRareA_14193]]
 - [[AnAbnormalCarpCyprinusCarpioFr_12321]]
+- [[AnguillaRecordedFromCalifornia_19016]]
+- [[WaysOfStabilizingZoologicalNom_20061]]
 
 ## Scruggs 1960
 <!-- fm: auto_enriched: true -->
@@ -11054,6 +11202,18 @@ Separation Canyon is a tributary to the Colorado River located at river mile 239
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
 - [[TheEffectsOfInterimFlowsFromGl_13620]]
 
+## Separation Rapids
+
+### Summary
+Separation Rapids is rapid #51 with a 19.5-foot fall (15 feet upper section, 4.5 feet lower section). On October 10, the boat Grand capsized here, throwing Freeman, LaRue, and Moore out, though all were recovered with no serious injuries.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
 ## Sepesca
 <!-- fm: auto_enriched: true -->
 
@@ -11532,6 +11692,18 @@ Sexual selection in fish science refers to the evolutionary process by which cer
 - [[PrevalenceOfMaleBroodCareInTel_1978]]
 - [[WhyAreThereSoManyCichlidSpecie_16893]]
 
+## Seychelles Islands
+
+### Summary
+The Seychelles Islands are an island group where Jones conducted research on amphibians and reptiles. Jones received a University of Michigan grant ($6,142 for 1991-92) to study the systematics, gene flow, and biogeography of Seychelles Islands amphibians and reptiles using molecular techniques.
+
+### Context
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
+### Mentioned In
+- [[LetterRequestingLetterOfRecomm_19844]]
+
 ## Señorita
 <!-- fm: auto_enriched: true -->
 
@@ -11867,6 +12039,18 @@ The Shasta River is a tributary of the Klamath River in California where steelhe
 
 ### Mentioned In
 - [[FishesOfTheHeadwatersOfShavers_11342]]
+
+## Shawnee Creek
+
+### Summary
+Shawnee Creek is a location in Greenwood County, Kansas where Station 3 was established in hardwood timber with Ireland Sandstone outcrops and contact springs. At this site, both high-spired and typical forms of Anguispira alternata co-occurred on sandstone substrate, suggesting phenotypic variation rather than valid subspecies distinction.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Shawnee Hills Section
 <!-- fm: auto_enriched: true -->
@@ -12399,6 +12583,9 @@ Shinumo Creek is a tributary of the Colorado River within the Grand Canyon that 
 > This memorandum from BIO/WEST, Inc. (October 18, 1991) summarizes preliminary findings from the Endangered Fish Research Program studying [[Gila cypha]] (humpback chub) in the mainstem [[Colorado River]] through [[Grand Canyon]]. The research program, conducted in cooperation with the [[U.S. Fish...
 > -- *[[SummaryOfEndangeredFishResearc_13612]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DiscussionOfBiowestSWorkPlan_1991_09_23]]
@@ -12420,6 +12607,19 @@ Shinumo Creek is a tributary of the Colorado River within the Grand Canyon that 
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[SummaryOfEndangeredFishResearc_13612]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
+## Shinumo Sheet
+
+### Summary
+Shinumo Sheet is a topographic map by Evans and Matthes that the expedition validated as exceptionally accurate, finding only slight discrepancies in minor details. This confirmed the high quality of existing topographic mapping in portions of Grand Canyon.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Ship Pond Stream
 <!-- fm: auto_enriched: true -->
@@ -13493,6 +13693,18 @@ The Sierra Madre Oriental is a major mountain range in northeastern Mexico that 
 - [[XilitloniscusANewGenusForTheMe_17752]]
 - [[DraftSpeciationInTheNorthAmeri_15234]]
 
+## Sierra Magazine
+
+### Summary
+Sierra Magazine is a conservation press outlet. This source lists it as one of the publications that has featured information obtained by the Maricopa Audubon Society through previous FOIA requests, as part of their reach to an estimated 6-7 million people nationally.
+
+### Context
+> This document is a Freedom of Information Act (FOIA) request submitted by the [[Maricopa Audubon Society]] to the [[US Fish and Wildlife Service]] [[Region 2]] on October 7, 1993. The request seeks comprehensive records of exotic (non-native) fish stockings in watersheds and stock ponds within...
+> -- *[[RequestForInformationOnExoticF_18961]]*
+
+### Mentioned In
+- [[RequestForInformationOnExoticF_18961]]
+
 ## Sierra Nevada
 <!-- fm: auto_enriched: true -->
 
@@ -13864,6 +14076,18 @@ Silurataenia siluri is a parasitic tapeworm (cestode) that infects fish. This so
 ### Mentioned In
 - [[HydrobiologicalAndIchthyologic_12963]]
 
+## Siluridae
+
+### Summary
+Siluridae is a catfish family represented in China's endangered freshwater fish fauna. This source reports that 11 catfish species are endangered in China, including members of this family.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## Siluriformes
 <!-- fm: auto_enriched: true -->
 
@@ -13900,6 +14124,30 @@ Silurus glanis is the sheatfish (European catfish), a large freshwater fish spec
 ### Mentioned In
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+
+## Silurus mento
+
+### Summary
+Silurus mento is a catfish species found in China. This source lists it as one of 11 endangered catfish species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
+## Silurus soldatovi
+
+### Summary
+Silurus soldatovi is a catfish species found in China. This source lists it as one of 11 endangered catfish species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Silver Carp
 <!-- fm: auto_enriched: true -->
@@ -14561,6 +14809,18 @@ Single-leaf Pinyon (Pinus monophylla) is a pine species characteristic of the Pi
 
 ### Mentioned In
 - [[TheDistributionOfTheFreshwater_1979]]
+
+## Sinocyclocheilus anophthalmus
+
+### Summary
+Sinocyclocheilus anophthalmus is a cave-dwelling cyprinid fish found in China. This source lists it among the 52 endangered cyprinid species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Siphateles
 <!-- fm: auto_enriched: true -->
@@ -15468,6 +15728,9 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -15622,6 +15885,7 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[PreimpoundmentSurveysOfSixKent_13033]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
 
 ## Smallmouth Black Bass
 <!-- fm: auto_enriched: true -->
@@ -15993,6 +16257,9 @@ Smith Mountain Lake is a reservoir in Virginia where alewives (a species occupyi
 > This document is a Technical Proposal Evaluation Committee (TPEC) review of proposals submitted by [[Arizona State University]] for Solicitation No. 0-SP-40-09700, investigating genetic and morphological variation in the cyprinid fish genus [[Gila]] throughout the [[Colorado River]] basin. The...
 > -- *[[SolicitationNoSpEntitledInvest_15607]]*
 
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
 ### Mentioned In
 - [[LetterOnDispositionOfFrozenBon_1993_10_01]]
 - [[ReviewOfTheEndangeredFishResea_1991_10_03]]
@@ -16006,6 +16273,7 @@ Smith Mountain Lake is a reservoir in Virginia where alewives (a species occupyi
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[BriefBographiesOfLeadingIchthy_12677]]
 - [[SolicitationNoSpEntitledInvest_15607]]
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## Smithsonian National Museum Of Natural History
 <!-- fm: auto_enriched: true -->
@@ -16263,8 +16531,12 @@ Snake River fall chinook salmon is a threatened species listed under the Endange
 > This 1994 U.S. District Court opinion addresses a legal challenge by the [[Idaho Department of Fish and Game]] (IDFG) against the [[National Marine Fisheries Service]] (NMFS) regarding the operation of the [[Federal Columbia River Power System]] (FCRPS) and its impacts on three listed [[Snake...
 > -- *[[SalmonDecision_19385]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[SalmonDecision_19385]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Snake River Plain
 <!-- fm: auto_enriched: true -->
@@ -16299,10 +16571,26 @@ Snake River fall chinook salmon is a threatened species listed under the Endange
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[EffectsOfNutrientEnhancementOn_1994]]
 - [[SalmonDecision_19385]]
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_20169]]
+
+## Snake River Spring Summer Chinook
+
+### Summary
+Snake River Spring/Summer Chinook is a population of salmon designated by the National Marine Fisheries Service as an Evolutionarily Significant Unit (ESU). This designation underscores the need to protect geographically distinct populations that have evolutionary significance, rather than treating all salmon as interchangeable.
+
+### Context
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
+### Mentioned In
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Snaketown
 
@@ -16589,6 +16877,30 @@ Sociedad Mexicana de Zoologia (Mexican Society of Zoology) is a professional sci
 - [[LetterRegardingMailingLabelsFo_1992_10_28]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
 
+## Society of Systematic Zoology
+
+### Summary
+The Society of Systematic Zoology is a professional organization for systematists that had recently been established with its own journal at the time of this presentation. Hubbs identifies its rapid development as demonstrating both the need for and hope of improvement in systematic zoology, noting it as one of several systematic societies emerging to support the field.
+
+### Context
+> This document is a reprint of a presentation by [[Carl L. Hubbs]] at the XIV International Congress of Zoology in Copenhagen, 1953, addressing the critical need for stability in zoological nomenclature. Hubbs discusses the controversies arising from the Paris decisions five years prior, reports on...
+> -- *[[WaysOfStabilizingZoologicalNom_20061]]*
+
+### Mentioned In
+- [[WaysOfStabilizingZoologicalNom_20061]]
+
+## Sockdolager Rapids
+
+### Summary
+Sockdolager Rapids is rapid #6 with a 19-foot fall, significantly correcting Dellenbaugh's previous report of an 80-foot fall with 30-foot waves. This measurement correction was one of several historical errors the expedition documented.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
 ## Sockeye Salmon
 <!-- fm: auto_enriched: true -->
 
@@ -16614,6 +16926,9 @@ Sockeye salmon (Oncorhynchus nerka) are anadromous Pacific salmon species charac
 > This six-year creel census study (1949-1954) of [[Cliff Pond]], [[Brewster]], [[Massachusetts]], evaluated trout stocking success in a "two-story pond" containing both warmwater fish populations and suitable cold, oxygenated deep water for summer trout survival. The 193-acre pond maintains a...
 > -- *[[TroutFishingAtCliffPondBrewste_15489]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[AbundanceOfStJohnsRiverShad_1960_03_08]]
@@ -16631,6 +16946,7 @@ Sockeye salmon (Oncorhynchus nerka) are anadromous Pacific salmon species charac
 - [[TheFoodAndFeedingChronologyOfY_1979]]
 - [[TheSurvivalOfChondrococcusColu_1968_09_27]]
 - [[TroutFishingAtCliffPondBrewste_15489]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Socorro County
 
@@ -17391,6 +17707,9 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 > The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
 > -- *[[GilaRiverFishdistributionProje_15844]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
 ### Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -17463,6 +17782,7 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 - [[EvaluationOfTheInstreamFlowReq_13030]]
 - [[ResourceReportOnAravaipaCanyon_11458]]
 - [[GilaRiverFishdistributionProje_15844]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
 
 ## Sonora Tiger Salamander
 <!-- fm: auto_enriched: true -->
@@ -18724,6 +19044,18 @@ The South China Sea is one of the open waters surrounding the Sulu Sea complex, 
 ### Mentioned In
 - [[TheHydrographicAndFaunalIndepe_19989]]
 
+## South Dakota
+
+### Summary
+South Dakota is one of the U.S. states for which this bibliography provides state-specific water law analyses. The inclusion of South Dakota materials reflects the compilation's comprehensive coverage of diverse hydrologic conditions and legal traditions across different regions of the United States.
+
+### Context
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
+### Mentioned In
+- [[WaterRightsBibliography_17761]]
+
 ## South Diamond Creek
 
 ### Summary
@@ -19520,6 +19852,9 @@ The Southwest Center for Biological Diversity is a nonprofit conservation organi
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
 ### Mentioned In
 - [[ArmyFoundAtFaultOnRiverAreaGro_1995_09_27]]
 - [[CityOfPhoenixCommentsOnTheFina_1997_07_25]]
@@ -19539,6 +19874,7 @@ The Southwest Center for Biological Diversity is a nonprofit conservation organi
 - [[BeaverScoping_18972]]
 - [[UsFishAndWildlifeServicesAbili_20453]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[IllegalFindingOfNoSignificantI_18971]]
 
 ## Southwest Center for Education and the Natural Environment
 
@@ -19605,6 +19941,18 @@ Southwest Texas State University is the institution that operated the Aquatic St
 
 ### Mentioned In
 - [[TheLarvaOfANewSubterraneanWate_16197]]
+
+## Southwest United States
+
+### Summary
+The Southwest United States refers to the region encompassed by US Fish and Wildlife Service Region 2, including areas of Arizona, New Mexico, and surrounding states. This source indicates that watersheds and stock ponds in this region were the focus of a 1993 FOIA request seeking records of exotic fish stockings over the preceding 10 years, reflecting conservation concerns about non-native fish introductions into native aquatic systems.
+
+### Context
+> This document is a Freedom of Information Act (FOIA) request submitted by the [[Maricopa Audubon Society]] to the [[US Fish and Wildlife Service]] [[Region 2]] on October 7, 1993. The request seeks comprehensive records of exotic (non-native) fish stockings in watersheds and stock ponds within...
+> -- *[[RequestForInformationOnExoticF_18961]]*
+
+### Mentioned In
+- [[RequestForInformationOnExoticF_18961]]
 
 ## Southwest Willow Flycatcher
 
@@ -20249,6 +20597,18 @@ Spatially balanced sampling is the survey design used for the Spring Pike Index 
 
 ### Mentioned In
 - [[IntroductionOfPondSmeltFromJap_14428]]
+
+## Spavinaw Creek
+
+### Summary
+Spavinaw Creek is a drainage system within the Arkansas River Basin in northeastern Oklahoma where Cambarus (Jugicambarus) tartarus was discovered. Interestingly, specimens previously cited from other localities in the same Spavinaw Creek drainage in Delaware County and Mayes County are not conspecific with C. (J.) tartarus, though first form males from these localities are not available for definitive determination.
+
+### Context
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
+### Mentioned In
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## Spawning
 
@@ -21016,6 +21376,12 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
 > -- *[[GilaRiverFishdistributionProje_15844]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -21189,6 +21555,8 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[DistributionAbundanceAndHabita_12811]]
 - [[FinalDraftEcosystemPlanForTheL_11674]]
 - [[GilaRiverFishdistributionProje_15844]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
+- [[ChangesInTheFishPopulationsInT_20462]]
 
 ## Speckled Pavon
 
@@ -21854,6 +22222,12 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+> This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
+> -- *[[ProtectionUpdatePrivateLandown_20666]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -22069,6 +22443,8 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[GilaRiverFishdistributionProje_15844]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
+- [[ProtectionUpdatePrivateLandown_20666]]
 
 ## Spikedace And Loach Minnow Study
 <!-- fm: auto_enriched: true -->
@@ -24263,6 +24639,18 @@ Standing stock is the total biomass of fish present in a population at a given t
 ### Mentioned In
 - [[ExoticTerranesOfWesternCalifor_1982_05_20]]
 
+## Stansberry-January Cave System
+
+### Summary
+The Stansberry-January Cave System is a cave system located 4 miles north of Colcord in Delaware County, Oklahoma, within the Spavinaw Creek drainage of the Arkansas River Basin. This cave system is the type locality for Cambarus (Jugicambarus) tartarus, with specimens collected from approximately 1 mile inside the cave where the stream becomes quite small and narrow, and from over 2,000 feet from the Stansberry entrance.
+
+### Context
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
+### Mentioned In
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
+
 ## Stanton'S Cave
 <!-- fm: auto_enriched: true -->
 
@@ -24953,6 +25341,18 @@ Steinhart Aquarium is an aquarium facility in San Francisco that received five t
 ### Mentioned In
 - [[AnfipodesTroglobios_1951]]
 
+## Stenodus leucichthys nelma
+
+### Summary
+Stenodus leucichthys nelma is a salmon species found in China. This source lists it as one of six endangered salmon species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## Stenonema
 <!-- fm: auto_enriched: true -->
 
@@ -25103,6 +25503,18 @@ Stenonema rubrum is a late-summer mayfly species found in Michigan trout streams
 ### Mentioned In
 - [[NotesOnSomeGastropodsFromNorth_12895]]
 - [[SomeDistributionRecordsForLoui_12899]]
+
+## Stenotrema monodon aliciae
+
+### Summary
+Stenotrema monodon aliciae is a terrestrial gastropod found in Greenwood County, Kansas. The authors note it is taxonomically problematic and that further study of the fraterna-monodon complex in Kansas is needed.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Stephanoberyciformes
 <!-- fm: auto_enriched: true -->
@@ -25774,6 +26186,18 @@ The document provides evidence of varying stocking success, with Largemouth Bass
 ### Mentioned In
 - [[TheVertebratesOfArizona_1964]]
 
+## Stockton
+
+### Summary
+Stockton is a California city that had been opened to foreign commercial shipping within the two decades preceding the 1964-1969 eel captures in the Sacramento-San Joaquin Delta. The opening of Stockton to foreign commerce created a potential introduction pathway for non-native species through ship ballast water, which is considered the most likely explanation for the presence of eels in California waters.
+
+### Context
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
+### Mentioned In
+- [[AnguillaRecordedFromCalifornia_19016]]
+
 ## Stockton And Jacoby (1976)
 <!-- fm: auto_enriched: true -->
 
@@ -25913,11 +26337,15 @@ Stoneflies (order Plecoptera) are aquatic insects whose nymphs serve as critical
 > This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
 > -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
 
+> This 1939 publication from the Michigan Department of Conservation's Institute for Fisheries Research documents the variety of baits used in winter ice fishing and provides detailed identification and collection guidance for aquatic insects and other organisms. The document addresses the growing...
+> -- *[[BaitsUsedInWinterFishing_17383]]*
+
 ### Mentioned In
 - [[ACollectionOfStonefl_16867]]
 - [[APreliminaryListOfStonefliesPl_16849]]
 - [[ChemicalTreatmentOfTheMercedRi_13362]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[BaitsUsedInWinterFishing_17383]]
 
 ## Stonefly Nymph Taxonomy
 <!-- fm: auto_enriched: true -->
@@ -26921,6 +27349,9 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
 > -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
 
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -27096,6 +27527,7 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[SummaryOfEndangeredFishResearc_13612]]
 - [[AuthortitleIndexToInlandFisher_14367]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Striped Bass Aquaculture
 <!-- fm: auto_enriched: true -->
@@ -27259,6 +27691,18 @@ The Mexican spotted owl is a threatened species under federal protection in the 
 
 ### Mentioned In
 - [[SomeDistributionRecordsForLoui_12899]]
+
+## Strobilops labyrinthica parietalis
+
+### Summary
+Strobilops labyrinthica parietalis is a minute terrestrial snail in the family Strobilopsidae with exquisitely sculptured shells. In Greenwood County, Kansas, it was restricted to woodland habitats.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Strobilops Labyrinthica Texasiana
 <!-- fm: auto_enriched: true -->

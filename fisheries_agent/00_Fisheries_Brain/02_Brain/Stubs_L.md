@@ -766,6 +766,18 @@ Laguna Chichancanab is a lake in Yucatan that represents an exceptional center o
 - [[DistributionalAndLocalVernacul_13815]]
 - [[CompositionAndDerivationOfTheF_15375]]
 
+## Laguna Creek
+
+### Summary
+Laguna Creek is one of the major drainage areas encompassed in the study area of the Colorado River system. It was included in the investigation of erosional and depositional cycles in the region.
+
+### Context
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+### Mentioned In
+- [[LatePleistoceneAndRecentErosio_17546]]
+
 ## Laguna Dam
 <!-- fm: auto_enriched: true -->
 
@@ -1184,9 +1196,13 @@ Lahontan National Fish Hatchery is a U.S. Fish and Wildlife Service facility est
 > This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
 > -- *[[AConservationorientedClassific_15455]]*
 
+> This 1965 report documents the introduction of [[Bonneville Cisco]] (*Prosopium gemmiferum*) from [[Bear Lake]] (Utah-Idaho) into [[Lake Tahoe]] (California-Nevada) in January 1964. The introduction aimed to provide forage for [[Lake Trout]] (*Salvelinus namaycush*) in deep waters during summer...
+> -- *[[IntroductionOfTheBonnevilleCis_18820]]*
+
 ### Mentioned In
 - [[NoteOnSpringFoodHabitsOfTheLak_12533]]
 - [[AConservationorientedClassific_15455]]
+- [[IntroductionOfTheBonnevilleCis_18820]]
 
 ## Lahontan Species
 <!-- fm: auto_enriched: true -->
@@ -1535,6 +1551,18 @@ Lake Bonneville Cutthroat (Salmo clarkii utah) is a native cutthroat trout subsp
 
 ### Mentioned In
 - [[SouthAustraliaSMoundSpringsSom_20663]]
+
+## Lake Canyon
+
+### Summary
+Lake Canyon is one of the major drainage areas included in the study area of the Colorado River system. It was examined as part of the investigation into erosional and depositional cycles in the region.
+
+### Context
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+### Mentioned In
+- [[LatePleistoceneAndRecentErosio_17546]]
 
 ## Lake Carl Blackwell
 
@@ -2302,6 +2330,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -2389,6 +2420,7 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[EnvironmentalImpactsOfTheCentr_15862]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Lake Havasu City
 
@@ -3291,6 +3323,9 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > This 1971 prospectus from [[Arizona State University]]'s [[Colorado River Basin Research Laboratory]] outlines a comprehensive, multi-year research program to assess environmental impacts of the [[Central Arizona Project]] (CAP). The CAP represents one of the most ambitious water transfer projects...
 > -- *[[EnvironmentalImpactsOfTheCentr_15862]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -3450,6 +3485,7 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[WantedForTheFutureTheseNativeF_13295]]
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[EnvironmentalImpactsOfTheCentr_15862]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Lake Mead Fault System
 <!-- fm: auto_enriched: true -->
@@ -3990,6 +4026,9 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -4260,6 +4299,7 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[EnvironmentalImpactsOfTheCentr_15862]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Lake Mohave Backwater Network
 <!-- fm: auto_enriched: true -->
@@ -5057,6 +5097,9 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -5197,6 +5240,7 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[CivilActionNoFColoradoWildlife_20991]]
 
 ## Lake Powell Fishery
 <!-- fm: auto_enriched: true -->
@@ -5562,6 +5606,9 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 > This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
 > -- *[[AuthortitleIndexToInlandFisher_14367]]*
 
+> This 1965 report documents the introduction of [[Bonneville Cisco]] (*Prosopium gemmiferum*) from [[Bear Lake]] (Utah-Idaho) into [[Lake Tahoe]] (California-Nevada) in January 1964. The introduction aimed to provide forage for [[Lake Trout]] (*Salvelinus namaycush*) in deep waters during summer...
+> -- *[[IntroductionOfTheBonnevilleCis_18820]]*
+
 ### Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -5580,6 +5627,7 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 - [[StudiesOfTheEffectsOfOperating_12649]]
 - [[CuiuiHybridizationStudyInterim_13856]]
 - [[AuthortitleIndexToInlandFisher_14367]]
+- [[IntroductionOfTheBonnevilleCis_18820]]
 
 ## Lake Tahoe Sucker
 
@@ -5804,6 +5852,9 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 > This pre-operational study examined the movements, home ranges, and distribution patterns of [[Lake Trout]] (Salvelinus namaycush) in [[Twin Lakes]], Colorado, between July 1977 and November 1978, prior to the commencement of the [[Mt. Elbert Pumped-Storage Powerplant]]. Using ultrasonic telemetry,...
 > -- *[[MovementsOfLakeTroutInTwinLake_14420]]*
 
+> This 1965 report documents the introduction of [[Bonneville Cisco]] (*Prosopium gemmiferum*) from [[Bear Lake]] (Utah-Idaho) into [[Lake Tahoe]] (California-Nevada) in January 1964. The introduction aimed to provide forage for [[Lake Trout]] (*Salvelinus namaycush*) in deep waters during summer...
+> -- *[[IntroductionOfTheBonnevilleCis_18820]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -5869,6 +5920,7 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 - [[StudiesOfTheEffectsOfOperating_12648]]
 - [[StudiesOfTheEffectsOfOperating_12649]]
 - [[MovementsOfLakeTroutInTwinLake_14420]]
+- [[IntroductionOfTheBonnevilleCis_18820]]
 
 ## Lake Trout Decline
 <!-- fm: auto_enriched: true -->
@@ -6426,6 +6478,18 @@ Lampetra gracilis is a lamprey species investigated in the Carpathian Mountains 
 ### Mentioned In
 - [[HydrobiologicalAndIchthyologic_12963]]
 
+## Lampetra japonica
+
+### Summary
+Lampetra japonica is a lamprey species found in China's freshwater systems. This source lists it among the endangered freshwater fishes of China.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## Lampetra mariae
 
 ### Summary
@@ -6466,6 +6530,18 @@ Lampetra minima is a lamprey species that went extinct due to improper use of ro
 ### Mentioned In
 - [[SexRatiosAquaticAnimals_13946]]
 - [[HydrobiologicalAndIchthyologic_12963]]
+
+## Lampetra reissneri
+
+### Summary
+Lampetra reissneri is a lamprey species found in China's freshwater systems. This source lists it among the endangered freshwater fishes of China.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Lampetra Tridentata
 <!-- fm: auto_enriched: true -->
@@ -6615,6 +6691,18 @@ Lamprothamnium macropogon is a species of stonewort in the tribe Chareae. This s
 ### Mentioned In
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
 
+## Lampsilis anodontoides
+
+### Summary
+Lampsilis anodontoides is a freshwater mussel in the family Unionidae. This 1946 survey found it in West Creek, Greenwood County, Kansas, as one of 16 unionid species documented from the stream.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Lampsilis Bracteata
 <!-- fm: auto_enriched: true -->
 
@@ -6630,6 +6718,30 @@ Lamprothamnium macropogon is a species of stonewort in the tribe Chareae. This s
 
 ### Mentioned In
 - [[TheBlacktailRedhorseMoxostomaP_1984]]
+
+## Lampsilis siliquoidea
+
+### Summary
+Lampsilis siliquoidea is a unionid mussel that was the most common Lampsilis species found at West Creek (Station 6) in Greenwood County, Kansas. Shells from this location were unusually heavy and sometimes malformed.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
+## Lampsilis ventricosa
+
+### Summary
+Lampsilis ventricosa is a freshwater mussel in the family Unionidae. It was collected from West Creek in Greenwood County, Kansas, as part of the unionid fauna documented in this survey.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Lance And Williams 1968
 <!-- fm: auto_enriched: true -->
@@ -7486,6 +7598,12 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
 ### Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -7897,6 +8015,8 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[AquaticEnvironmentalReportForO_17695]]
+- [[SamplingAtAsuResearchParkApril_19429]]
 
 ## Largemouth Black Bass
 <!-- fm: auto_enriched: true -->
@@ -8194,6 +8314,15 @@ The Larval Fish Laboratory is a specialized research facility, housed at Colorad
 > This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
 > -- *[[FyAnnualProjectReportColoradoR_21244]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+> This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
+> -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
+
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[AdditionalStudiesToFacilitateE_1993]]
 - [[AnalysisOfPastCollectionsFromT_1993]]
@@ -8208,6 +8337,9 @@ The Larval Fish Laboratory is a specialized research facility, housed at Colorad
 - [[DevelopmentOfAStandardizedMoni_15549]]
 - [[DraftDocumentimpactsOfElectrof_19691]]
 - [[FyAnnualProjectReportColoradoR_21244]]
+- [[DraftManagementGroupMeetingSum_17880]]
+- [[ProvisionalKeyToTheProtolarvae_21239]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Larval Fish Rearing
 <!-- fm: auto_enriched: true -->
@@ -8470,8 +8602,13 @@ Lasker and colleagues conducted research on anchovy (Engraulis mordax) larval re
 ## Lasmigona Complanata
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[TheBlacktailRedhorseMoxostomaP_1984]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Lasmigona costata
 <!-- fm: auto_enriched: true -->
@@ -8742,6 +8879,30 @@ Lava Cliff Rapids is a location on the Colorado River in the Grand Canyon area, 
 ### Mentioned In
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 
+## Lava Falls
+
+### Summary
+Lava Falls is rapid #44 on the Colorado River in Grand Canyon, with a 10-foot fall at low water and deemed the worst rapid on the river that had never been successfully run before this 1923 expedition. The party was stranded here September 18-22 when a catastrophic flood rose 20 feet over 24 hours, and the site also featured warm springs (approximately 90°F) heavily mineralized with lime or soda that created travertine terraces and supported unique riparian habitat with tule grass and thistles.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
+## Lava Rock Island
+
+### Summary
+Lava Rock Island is a cylindrical lava pinnacle located at mile 116.0, measuring 50 feet in diameter and 60 feet high. This volcanic feature was documented as part of the expedition's geological observations of extensive lava flows in the lower canyon sections.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
 ## Laverkin Creek
 <!-- fm: auto_enriched: true -->
 
@@ -8998,10 +9159,14 @@ Le Roux Creek is a water source associated with Hotchkiss National Fish Hatchery
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[StationProfileOfTheFortMorganF_1993_12_30]]
 - [[FishAndFishEggDistributionRepo_13434]]
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Leaf Epidermal Anatomy
 <!-- fm: auto_enriched: true -->
@@ -9607,6 +9772,9 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 > This document comprises meeting notes and correspondence from the third Colorado River Trophic Studies (CRiTS) meeting held on 6 August 1991 in Flagstaff, Arizona. The CRiTS group is an informal discussion forum involving members from USGS, NPS, Bureau of Reclamation, and Arizona Game and Fish,...
 > -- *[[DraftCritsMeetingNotesAndNewsl_14829]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
 - [[FlowModificationsToTheGlenCany_18321]]
@@ -9631,6 +9799,7 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 - [[EarlyFieldNotes_15954]]
 - [[DraftColoradoRiverTrophicStudi_14828]]
 - [[DraftCritsMeetingNotesAndNewsl_14829]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Lees Ferry Trophy Trout Fishery
 <!-- fm: auto_enriched: true -->
@@ -9653,6 +9822,18 @@ Lees Ferry, Arizona is the geographic dividing point that separates the Colorado
 
 ### Mentioned In
 - [[BiologicalOpinionForLakeHavasu_11704]]
+
+## Lefua elongata
+
+### Summary
+Lefua elongata is a loach species from the family Cobitidae. This source identifies it as one of the endangered freshwater fish species in China.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Leggett 1969, 1972
 <!-- fm: auto_enriched: true -->
@@ -10563,6 +10744,9 @@ Lepisosteidae, commonly known as gars, is a family of primitive freshwater and b
 > This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
 > -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
 
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -10584,6 +10768,7 @@ Lepisosteidae, commonly known as gars, is a family of primitive freshwater and b
 - [[ListOfFishesReportedFromKansas_18026]]
 - [[AChecklistOfTexasFreshwaterFis_19871]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Lepisosteus
 <!-- fm: auto_enriched: true -->
@@ -11170,6 +11355,18 @@ Leptoceridae is a family of caddisflies (Trichoptera) found in the Red Cedar Riv
 
 ### Mentioned In
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
+
+## Leptodea fragilis
+
+### Summary
+Leptodea fragilis is a unionid mussel found fairly commonly at West Creek (Station 6) in Greenwood County, Kansas. The shells were unusually heavy for this species.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Leptodea Laevissima
 <!-- fm: auto_enriched: true -->
@@ -12330,6 +12527,18 @@ Ligia is a genus of isopods found in the upper intertidal zone at Puerto Peñasc
 
 ### Mentioned In
 - [[SpeciesAccountRhinichthysOscul_13165]]
+
+## Ligumia subrostrata
+
+### Summary
+Ligumia subrostrata is a freshwater mussel in the family Unionidae. This species was found in West Creek, Greenwood County, Kansas, among the 16 unionid species recorded from that stream.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Lilaeopsis
 
@@ -13682,6 +13891,15 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > Meeting minutes from the Colorado River (Aquatic) Trophic Studies (CRiTS) team quarterly coordination meeting held May 3, 1991 at [[Glen Canyon Dam]] Conference Room in Page, Arizona. The CRiTS team is an informal multi-agency/institution coordination effort focused on aquatic food base studies in...
 > -- *[[DraftColoradoRiverTrophicStudi_14828]]*
 
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -13893,6 +14111,9 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[SummaryOfEndangeredFishResearc_13612]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[DraftColoradoRiverTrophicStudi_14828]]
+- [[LatePleistoceneAndRecentErosio_17546]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Little Colorado River (Lcr)
 <!-- fm: auto_enriched: true -->
@@ -14489,6 +14710,9 @@ The Little Snake River is a major tributary of the Yampa River in the Upper Colo
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held September 13, 1989, in Lakewood, Colorado. The meeting addressed recovery efforts for rare and endangered fish species in the [[Colorado River Basin]], focusing on water...
 > -- *[[ManagementGroupMeetingSummarSe_21019]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[OccurrenceOfTwoEndangeredFishe_1990_07_19]]
 - [[StationProfileSaratogaNational_1993_12_11]]
@@ -14508,6 +14732,23 @@ The Little Snake River is a major tributary of the Yampa River in the Upper Colo
 - [[HabitatUseAndStreamflowNeedsOf_11609]]
 - [[FiscalYearWorkPlan_11742]]
 - [[ManagementGroupMeetingSummarSe_21019]]
+- [[SummarynovemberAndFebruaryMana_21001]]
+
+## Little Snake Rivers
+
+### Summary
+The Little Snake River is one of several river systems in the Colorado River basin being considered for water rights acquisition as part of the endangered fish recovery program. The Management Group expanded the geographic scope of water rights surveys beyond the Yampa River to include the White, Colorado, and Little Snake Rivers.
+
+### Context
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
+### Mentioned In
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Little Tennessee River
 <!-- fm: auto_enriched: true -->
@@ -15195,6 +15436,9 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -15400,6 +15644,7 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[GilaRiverFishdistributionProje_15844]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
 
 ## Loach Minnow Conservation
 <!-- fm: auto_enriched: true -->
@@ -15618,6 +15863,18 @@ The Lochsa River is a tributary of the Clearwater River in Idaho that was includ
 ### Mentioned In
 - [[ImprovingTreeTranspirationEsti_15068]]
 - [[TheMonoBasin_15632]]
+
+## Lodore
+
+### Summary
+Lodore is a sampling station on the Green River located upstream of the Yampa River confluence, below Flaming Gorge Dam. Following inlet modifications to the dam in 1978 that warmed water releases, this station transformed from cold water to warm water habitat, with successful reproduction documented for warm water species including Flannelmouth Sucker, Bluehead Sucker, and Speckled Dace, while Rainbow Trout populations declined except during March sampling periods.
+
+### Context
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
+### Mentioned In
+- [[ChangesInTheFishPopulationsInT_20462]]
 
 ## Lodore Canyon
 <!-- fm: auto_enriched: true -->
@@ -16321,6 +16578,9 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 > The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
 > -- *[[GilaRiverFishdistributionProje_15844]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -16451,6 +16711,7 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 - [[AquaticInventoryOfTheBillWilli_12503]]
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[GilaRiverFishdistributionProje_15844]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
 
 ## Longfin Smelt
 
@@ -16864,9 +17125,13 @@ Los Angeles is a west coast market city where depth interviews with major buyers
 > This 1967 report by George L. Batchelder provides a comprehensive synthesis of the Pleistocene geology and ecology of the [[Mono Basin]], California. The basin offers a unique opportunity to study synchronous glaciation and lacustrine fluctuations during the Quaternary. The document describes...
 > -- *[[TheMonoBasin_15632]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[AnEconomicStudyOfTheProcessing_15621]]
 - [[TheMonoBasin_15632]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Los Angeles Aqueduct
 
@@ -17639,6 +17904,12 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 > This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
 > -- *[[FormalReviewcrticialHabitatOfT_20672]]*
 
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
@@ -17738,6 +18009,8 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 - [[InteragencyProposalToExamineTh_13018]]
 - [[DraftConsesusReportOnTheDraftC_13540]]
 - [[FormalReviewcrticialHabitatOfT_20672]]
+- [[SamplingAtAsuResearchParkApril_19429]]
+- [[JuneSteeringCommitteeMeetingAn_20943]]
 
 ## Lower Colorado River Authority
 <!-- fm: auto_enriched: true -->
@@ -18087,6 +18360,9 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 > This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[TowardRangewideIntegrationOfRe_18628]]*
 
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
 ### Mentioned In
 - [[BonytailReceivedCaughtInLakeMo_15286]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -18112,6 +18388,7 @@ The Lower Colorado River Multi-Species Conservation Program (MSCP) is a collabor
 - [[AmericanRiversScientificAndTec_15167]]
 - [[ImperialPondsConservationAreaA_2020]]
 - [[TowardRangewideIntegrationOfRe_18628]]
+- [[JuneSteeringCommitteeMeetingAn_20943]]
 
 ## Lower Colorado River National Wildlife Refuges
 
@@ -18221,8 +18498,12 @@ The Lower Colorado River Species Conservation Program was established through a 
 > - A **standardized core native assemblage** (longfin dace, speckled dace, desert sucker, Sonora sucker) recurs across nearly all Sonoran Desert tributaries of the Gila River basin surveyed between 1978–1984, suggesting broad historical distribution of these species prior to documented 20th-centur...
 > -- *[[LetterToDrWLMinckleyRegardingA_1985_04_15]]*
 
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
 ### Mentioned In
 - [[LetterToDrWLMinckleyRegardingA_1985_04_15]]
+- [[IllegalFindingOfNoSignificantI_18971]]
 
 ## Lower Gila River Bird Habitat Management Area
 
@@ -18429,6 +18710,18 @@ Lower Twin Lake is Colorado's largest natural mountain lake, covering 736.5 hect
 
 ### Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
+
+## Lower Yampa
+
+### Summary
+Lower Yampa is a sampling station on the Yampa River near its confluence with the Green River, serving as a control station in the study. This station was where young-of-the-year Colorado Squawfish were found in August 1980 (15 km up the Yampa River), and unlike other stations, it showed no reduction in reproductive success or young fish numbers in 1980, suggesting it was less affected by flow fluctuations from Flaming Gorge Dam.
+
+### Context
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
+### Mentioned In
+- [[ChangesInTheFishPopulationsInT_20462]]
 
 ## Lower Yampa River
 <!-- fm: auto_enriched: true -->
@@ -18660,8 +18953,13 @@ Lucania parva is a small cyprinodontid (killifish) species that inhabits freshwa
 ## Luciobrama Macrocephalus
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
 ### Mentioned In
 - [[BiodiversityProblemsInLakeEcos_11149]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Lucky Peak Reservoir
 
@@ -19100,6 +19398,18 @@ Lyman Lake is an Arizona reservoir that was included in a 1965–1966 visitor-us
 - [[ToxapheneAsAFishToxin_1951]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 
+## Lymnaea bulimoides techella
+
+### Summary
+Lymnaea bulimoides techella is an aquatic gastropod in the family Lymnaeidae that prefers ephemeral pools and burrows during dry seasons. This species was found at 5 stations in Greenwood County, Kansas.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Lymnaea Columella
 <!-- fm: auto_enriched: true -->
 
@@ -19120,6 +19430,30 @@ Lyman Lake is an Arizona reservoir that was included in a 1965–1966 visitor-us
 ### Mentioned In
 - [[SnailsFromUpperPeninsulaOfAlas_12911]]
 
+## Lymnaea humilis rustica
+
+### Summary
+Lymnaea humilis rustica is an aquatic gastropod snail in the family Lymnaeidae. This subspecies was found in Greenwood County, Kansas, as one of six aquatic gastropod species documented in the 1946 survey.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
+## Lymnaea parva
+
+### Summary
+Lymnaea parva is an aquatic gastropod snail in the family Lymnaeidae. It was recorded from Greenwood County, Kansas, as one of the aquatic gastropod species found in the survey.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Lymnaeacea
 <!-- fm: auto_enriched: true -->
 
@@ -19135,8 +19469,12 @@ Lymnaeidae, or pond snails, are mollusks that were present at all sampling stati
 > This 1968 technical report by Brehmer, Ball, and Kevern examines the biological and chemical characteristics of the [[Red Cedar River]] near [[Williamston, Michigan]], focusing on the impacts of domestic sewage pollution on water quality and benthic invertebrate communities. The study employed six...
 > -- *[[TheBiologyAndChemistryOfAWarmw_12927]]*
 
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Lymphocystis
 <!-- fm: auto_enriched: true -->
@@ -19160,8 +19498,12 @@ Lyngbya is a filamentous blue-green alga that was part of the characteristic was
 > This 1956 study by J.B. Lackey documented the microscopic aquatic biota of the [[Clinch River]] system and adjacent waters in the [[Oak Ridge]] area, focusing on the relationship between suspended microorganisms and radioactivity from [[Oak Ridge National Laboratory]] (ORNL) operations. The survey...
 > -- *[[TheSuspendedMicrobiotaOfTheCli_12669]]*
 
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
 ### Mentioned In
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Lyngbya Calcarea
 <!-- fm: auto_enriched: true -->

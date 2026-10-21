@@ -240,6 +240,9 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
 ### Mentioned In
 - [[BiologicalOpinionOnEmergencyWa_1994_01_31]]
 - [[CommentsOnTheDraftActivityPlan_13812]]
@@ -283,6 +286,19 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
+
+## Eagle Creek Pump Station
+
+### Summary
+Eagle Creek Pump Station is a landmark location on Eagle Creek in Greenlee County, Arizona used as a reference point in the 1997 fisheries survey. One sampling site was established 1.2 km downstream of this pump station to assess fish community composition in the lower reaches of the surveyed area.
+
+### Context
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+### Mentioned In
+- [[EagleCreekGreenleeCountyArizon_17216]]
 
 ## Eagle Creek Watershed
 <!-- fm: auto_enriched: true -->
@@ -1170,12 +1186,16 @@ Echo Lake is a California water body where kokanee salmon had been previously in
 > This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
 > -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
 
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
 ### Mentioned In
 - [[AvailabilityOfHabitatCharacter_1993]]
 - [[FisheryManagementReportGreenRi_1963_10_11]]
 - [[TheRazorbackSuckerXyrauchenTex_15245]]
 - [[FyAnnualProjectReportEarlyBiol_18213]]
 - [[HabitatUseAndStreamflowNeedsOf_11609]]
+- [[ChangesInTheFishPopulationsInT_20462]]
 
 ## Echo Reservoir
 
@@ -1443,18 +1463,34 @@ Ecosystem Management in fish science and aquatic conservation refers to the inte
 > This Bureau of Land Management (BLM) Manual Section 6780 establishes comprehensive policy, procedures, and guidelines for the preparation and implementation of Habitat Management Plans (HMPs) on public lands. Released December 23, 1981 (Rel. 6-85), it provides the administrative framework for...
 > -- *[[BureauOfLandManagementManualHa_11459]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[IssuesAndAlternativesForUseOfH_1994_05_31]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
 - [[TheRealPartnershipQuestion_1994_07_29]]
 - [[ViewsOfAFishBiologistFromAFede_15069]]
 - [[BureauOfLandManagementManualHa_11459]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Ecosystem Metabolism
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[HyporheicSurfaceWaterExchangeI_13668]]
+
+## Ecosystem Research Institute
+
+### Summary
+The Ecosystem Research Institute was one of the organizations for which this provisional larval identification key was prepared. The key was developed by the Larval Fish Laboratory at Colorado State University for both the Colorado Division of Wildlife and the Ecosystem Research Institute to support taxonomic work on sucker species in the Upper Colorado River System.
+
+### Context
+> This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
+> -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
+
+### Mentioned In
+- [[ProvisionalKeyToTheProtolarvae_21239]]
 
 ## Ecosystem-Based Conservation
 <!-- fm: auto_enriched: true -->
@@ -3089,8 +3125,12 @@ Elephant Butte Lake in New Mexico was the site of Project 6-11-R investigating t
 > This document records proceedings from the Inland Commercial Fisheries Workshop held April 15-16, 1971, at the [[University of Wyoming]] in Laramie. The workshop brought together fisheries researchers, state game and fish personnel, and [[National Marine Fisheries Service]] representatives from...
 > -- *[[InlandCommercialFisheriesWorks_15658]]*
 
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
 ### Mentioned In
 - [[InlandCommercialFisheriesWorks_15658]]
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Elephant Butte Reservoir
 <!-- fm: auto_enriched: true -->
@@ -3295,11 +3335,15 @@ Elkhead Creek is a tributary of the Yampa River in the Colorado River Basin. Thi
 > This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
 > -- *[[DraftRecoveryImplementationPro_11643]]*
 
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
 ### Mentioned In
 - [[InterestGroupParticipationInTh_1994_08_05]]
 - [[EvaluationOfALongtermPredatorR_2016]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
 - [[DraftRecoveryImplementationPro_11643]]
+- [[SummaryaprilManagementGroupMee_20995]]
 
 ## Elkhorn Creek
 <!-- fm: auto_enriched: true -->
@@ -3799,6 +3843,9 @@ The Emerald Shiner (*Notropis atherinoides*) is a small, silvery cyprinid minnow
 > This study examined winter food habits of [[Pikeperch]] (Stizostedion vitreum) in [[Oneida Lake]], New York during the winters of 1951-52 and 1952-53. Of 143 pikeperch stomachs collected via ice-fishing, 78.3% were empty—nearly double the empty-stomach rate reported for summer and fall periods in...
 > -- *[[WinterFoodHabitsOfPikeperchInO_16899]]*
 
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
@@ -3808,6 +3855,7 @@ The Emerald Shiner (*Notropis atherinoides*) is a small, silvery cyprinid minnow
 - [[ReviewOfPotentialForageFishInt_19139]]
 - [[BioassayAndUseOfPituitaryMater_15952]]
 - [[WinterFoodHabitsOfPikeperchInO_16899]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Emerald Spring
 <!-- fm: auto_enriched: true -->
@@ -4165,6 +4213,18 @@ Encope micropora is a dark reddish-purple sand dollar without notches but with o
 
 ### Mentioned In
 - [[FishDistributionPercentByProgr_1994_03_31]]
+
+## Endangered And Threatened Wildlife And Plants
+
+### Summary
+This refers to species officially listed under the Endangered Species Act as requiring federal protection. According to this source, state agencies play important roles throughout the listing process, including providing expertise for determining which species warrant listing, conducting population and distribution surveys, and establishing monitoring programs for species that are removed from the list after recovery.
+
+### Context
+> This memorandum and Director's Order No. 94, dated February 1993, establishes official [[U.S. Fish and Wildlife Service]] policy regarding the participation of State agencies in activities conducted under the [[Endangered Species Act]] of 1973, as amended. The order clarifies coordination and...
+> -- *[[ParticipationOfStateAgenciesIn_21205]]*
+
+### Mentioned In
+- [[ParticipationOfStateAgenciesIn_21205]]
 
 ## Endangered Catostomids Of The Upper Klamath Basin
 <!-- fm: auto_enriched: true -->
@@ -5081,6 +5141,18 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
+> This memorandum and Director's Order No. 94, dated February 1993, establishes official [[U.S. Fish and Wildlife Service]] policy regarding the participation of State agencies in activities conducted under the [[Endangered Species Act]] of 1973, as amended. The order clarifies coordination and...
+> -- *[[ParticipationOfStateAgenciesIn_21205]]*
+
 ### Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -5487,6 +5559,10 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[EndangeredAndThreatenedSpecies_15998]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[JuneSteeringCommitteeMeetingAn_20943]]
+- [[SummaryaprilManagementGroupMee_20995]]
+- [[SummarynovemberAndFebruaryMana_21001]]
+- [[ParticipationOfStateAgenciesIn_21205]]
 
 ## Endangered Species Act - Colorado River Basin Fishes
 <!-- fm: auto_enriched: true -->
@@ -6640,11 +6716,19 @@ The Environmental Defense Fund is one of the environmental organization particip
 > This document is the final rule issued by the [[U.S. Fish and Wildlife Service]] on August 27, 1984, implementing Section 10(j) of the [[Endangered Species Act]] (ESA) as amended in 1982. The rule establishes procedures for designating and managing "experimental populations" of endangered or...
 > -- *[[EndangeredAndThreatenedWildlif_11548]]*
 
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[EndangeredAndThreatenedWildlif_11548]]
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Environmental Education
 <!-- fm: auto_enriched: true -->
@@ -7556,6 +7640,18 @@ The EROS Satellite Project was a collaborative effort between the U.S. Geologica
 ### Mentioned In
 - [[AnEcologicalViewOfLandUseInMid_1953]]
 
+## Erqisi River
+
+### Summary
+The Erqisi River is a river system in China that was the original habitat of the European perch (Perca fluviatilis). This source reports that the introduction of this perch species from the Erqisi River into Bosten River resulted in the extinction of an endemic species.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## Erskine Creek
 
 ### Summary
@@ -7732,6 +7828,9 @@ The Escalante Reach (RMI 319.4-301.7) is a section of the middle Green River whe
 > This third annual progress report documents the fisheries and limnological investigation of [[Lake Powell]] from February 1965 to January 1966, during the reservoir's early filling phase. The study, financed under Section 8 of the Colorado River Storage Act, was conducted cooperatively by the Utah...
 > -- *[[GlenCanyonReservoirPostimpound_14587]]*
 
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
 ### Mentioned In
 - [[TechnicalReportAnalyzingTheImp_14024]]
 - [[ReservoirFisheriesInvestigatio_14589]]
@@ -7739,6 +7838,7 @@ The Escalante Reach (RMI 319.4-301.7) is a section of the middle Green River whe
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[RealitiesOfProvidingWaterForEn_20669]]
 - [[GlenCanyonReservoirPostimpound_14587]]
+- [[LatePleistoceneAndRecentErosio_17546]]
 
 ## Escalante State Wildlife Area
 
@@ -10169,8 +10269,12 @@ Evolutionarily Significant Units (ESUs) are groups designated by the National Ma
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Evolutionary Biology
 <!-- fm: auto_enriched: true -->

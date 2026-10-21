@@ -4,6 +4,18 @@ letter: P
 ---
 # Concept Stubs: P
 
+## P-Bar Ranch
+
+### Summary
+P-Bar Ranch is an area along Eagle Creek where researchers conducted targeted sampling efforts in 1997 specifically searching for Spikedace. Despite sampling numerous locations throughout 2.4 km of creek in this area with habitat considered suitable for the species, no Spikedace were found, continuing their absence from collections since 1989.
+
+### Context
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+### Mentioned In
+- [[EagleCreekGreenleeCountyArizon_17216]]
+
 ## P. C. Marsh
 
 ### Summary
@@ -321,12 +333,16 @@ Pacific Herring (Clupea pallasi) is a forage fish species characterized by early
 > On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
 > -- *[[WorkshopProceedings_18372]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
 - [[SummaryOfEvents_18368]]
 - [[WorkshopProceedings_18372]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Pacific Killifish
 <!-- fm: auto_enriched: true -->
@@ -394,8 +410,12 @@ The Pacific Northwest is the native range of Kokanee salmon. This source identif
 > This 1948 report documents the introduction and establishment of [[Kokanee]] (Oncorhynchus nerka kennerlyi), a landlocked form of [[Pacific Sockeye Salmon]], into California waters beginning in 1941. The [[Bureau of Fish Conservation]] initiated experimental plantings in [[Salt Springs Reservoir]]...
 > -- *[[KokaneeInCalifornia_18108]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[KokaneeInCalifornia_18108]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Pacific Northwest Coastal Rain-Forest Ecoregion
 <!-- fm: auto_enriched: true -->
@@ -434,6 +454,9 @@ The Pacific Ocean, in the context of fish science and conservation biology, repr
 > This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
 > -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
 
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
 ### Mentioned In
 - [[AKeyToTheSnooksGenusCentropomu_17270]]
 - [[StationProfileOfKooskiaNationa_19543]]
@@ -444,6 +467,7 @@ The Pacific Ocean, in the context of fish science and conservation biology, repr
 - [[ANewSpeciesOfAquaticIsopodCrus_17104]]
 - [[TheHydrographicAndFaunalIndepe_19989]]
 - [[DraftsAndNotesOnTheCyprinidFis_15336]]
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## Pacific Railroad Survey
 
@@ -509,6 +533,9 @@ Pacific Salmon refers to anadromous fish species (primarily Oncorhynchus spp.) n
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[ASystemForRecordingMeasurement_1947]]
 - [[DamRemovalWhoShouldPay_1999_09_26]]
@@ -538,6 +565,7 @@ Pacific Salmon refers to anadromous fish species (primarily Oncorhynchus spp.) n
 - [[FishAndFishEggDistributionRepo_13434]]
 - [[BibliographyOnTheBloodChemistr_14517]]
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Pacific Salmon Commission
 <!-- fm: auto_enriched: true -->
@@ -1415,9 +1443,14 @@ Paige Springs Hatchery is an Arizona fish hatchery facility that provides grow-o
 ## Painted Rock Dam
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[TripReportForTheJuneThPaintedR_1997_06_26]]
+- [[IllegalFindingOfNoSignificantI_18971]]
 
 ## Painted Rock Reservoir
 
@@ -2765,6 +2798,18 @@ Papigochic is a Mexican river system where Gila populations have 8,9-9,8 fin ray
 ### Mentioned In
 - [[BiodiversityProblemsInLakeEcos_11149]]
 
+## Paraclinus
+
+### Summary
+Paraclinus is a genus of fish. This source notes that a Paraclinus species was observed as one of the associates living with the anemone Bartholomea annulata, along with various crustaceans and another fish (an apogonid).
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of [[Periclimenes]] shrimps in [[Lameshur Bay]], [[Virgin Islands]], conducted during the [[Tektite I]] saturation diving mission (February 15–April 15, 1969). The most abundant cleaner shrimp was [[Periclimenes pedersoni]]...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
+
 ## Paracyclops
 <!-- fm: auto_enriched: true -->
 
@@ -4055,8 +4100,12 @@ Patagonia is a town in Arizona that serves as the endpoint for the proposed Cane
 > This U.S. Fish and Wildlife Service biological opinion, issued December 23, 1992, evaluates effects of the proposed [[Canelo Pass]] to [[Patagonia]] segment of the [[Arizona Trail]] on the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis) in [[Redrock Canyon]], [[Santa Cruz County]],...
 > -- *[[BiologicalOpinionThatTheCanelo_11877]]*
 
+> This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
+> -- *[[ProtectionUpdatePrivateLandown_20666]]*
+
 ### Mentioned In
 - [[BiologicalOpinionThatTheCanelo_11877]]
+- [[ProtectionUpdatePrivateLandown_20666]]
 
 ## Patagonia Lake
 <!-- fm: auto_enriched: true -->
@@ -4358,6 +4407,18 @@ PCR (polymerase chain reaction) is a DNA amplification technique that can work w
 
 ### Mentioned In
 - [[SolicitationNoSpEntitledInvest_15607]]
+
+## PD Diversion Dam
+
+### Summary
+PD Diversion Dam is a structure on Eagle Creek that functions as a critical ecological barrier separating distinct fish communities. Above the dam, native species dominate with native-to-non-native catch ratios of 5:1 to 314:1 and seven native species present, while below the dam non-native species dominate with ratios of 0.05:1 to 0.16:1 and only one native species (Sonora Sucker) remaining among seven non-native species.
+
+### Context
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+### Mentioned In
+- [[EagleCreekGreenleeCountyArizon_17216]]
 
 ## Peace Pipe Vista
 <!-- fm: auto_enriched: true -->
@@ -5495,10 +5556,14 @@ Perca flavescens, commonly known as yellow perch, is a temperate freshwater tele
 > Field notes from a fish survey conducted at [[Lake Mjømane]] on November 26-28, 1994. The document records catch data for multiple fish species including [[Coregonus lavaretus]] (whitefish), [[Salmo salar]] (salmon), [[Salvelinus alpinus]] (Arctic char), and other species. Data includes specimen...
 > -- *[[NotesFromLakeMohaveFishEffortF_13745]]*
 
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
 ### Mentioned In
 - [[SeasonalChangesInThe_19025]]
 - [[FibrousMaterialAndHardwareTheo_15559]]
 - [[NotesFromLakeMohaveFishEffortF_13745]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Percent Similarity Index
 <!-- fm: auto_enriched: true -->
@@ -5534,6 +5599,9 @@ In ichthyological research, perch refers to members of the family Percidae, fres
 > This 1958 study by Wilbur L. Hartman investigated whether sedating fish with [[Urethane]] reduced measurement error and improved accuracy when recording fork and total lengths. Four groups of fish were measured repeatedly while normal and while drugged: yearling [[Brown Trout]], yearling [[Lake...
 > -- *[[TheUseOfSedativesToReduceManip_20686]]*
 
+> This 1939 publication from the Michigan Department of Conservation's Institute for Fisheries Research documents the variety of baits used in winter ice fishing and provides detailed identification and collection guidance for aquatic insects and other organisms. The document addresses the growing...
+> -- *[[BaitsUsedInWinterFishing_17383]]*
+
 ### Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
@@ -5546,6 +5614,7 @@ In ichthyological research, perch refers to members of the family Percidae, fres
 - [[TheParasiticCopepodAchtheresPe_18884]]
 - [[HowToBuildAFarmPondForFishProd_13264]]
 - [[TheUseOfSedativesToReduceManip_20686]]
+- [[BaitsUsedInWinterFishing_17383]]
 
 ## Perch (Perca Fluviatilis)
 <!-- fm: auto_enriched: true -->
@@ -5670,6 +5739,9 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 > This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
 > -- *[[PartEndangeredAndThreatenedWil_11612]]*
 
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -5734,6 +5806,7 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 - [[ObservationsOnTheFoodHabitsOfD_20140]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
 - [[PartEndangeredAndThreatenedWil_11612]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Perciformes
 <!-- fm: auto_enriched: true -->
@@ -6516,6 +6589,18 @@ Permian Seas refers to ancient marine waters that once covered areas of Texas an
 ### Mentioned In
 - [[AReDescriptionOfAphaniusGinaon_1980]]
 
+## Perspex
+
+### Summary
+Perspex is a transparent acrylic plastic material (polymethyl methacrylate) used for constructing aquarium tanks. In this bioassay apparatus, Perspex aquaria were designed as totally enclosed, completely water-filled chambers with no air-water interface, which prevented atmospheric oxygen exchange and allowed precise control of dissolved oxygen concentrations during toxicity testing.
+
+### Context
+> This technical paper describes an automated apparatus designed at the [[Water Pollution Research Laboratory]] in Stevenage for conducting toxicity bioassays on fish. The system provides six independent aquaria with precise control over temperature, pH, dissolved oxygen concentration, and poison...
+> -- *[[ControlledAqueousEnvironmentsF_20127]]*
+
+### Mentioned In
+- [[ControlledAqueousEnvironmentsF_20127]]
+
 ## Peru
 <!-- fm: auto_enriched: true -->
 
@@ -7027,6 +7112,9 @@ Petromyzontidae is a family of jawless fish commonly known as lampreys, characte
 > This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
 > -- *[[CodeOfFederalRegulationsPartEn_11616]]*
 
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
 ### Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AProvisionalCheckListOfTheFish_15941]]
@@ -7043,6 +7131,7 @@ Petromyzontidae is a family of jawless fish commonly known as lampreys, characte
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[CodeOfFederalRegulationsPartEn_11616]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Petromyzontiformes
 <!-- fm: auto_enriched: true -->
@@ -7903,9 +7992,14 @@ Phosphoglucomutase is an enzyme examined at 1 genetic locus in this study. It sh
 ## Photoperiod
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This experimental study investigated how light exposure, diet composition, and spawner age affect the physical and chemical characteristics of [[Brown Trout]] ([[Salmo trutta]]) eggs and fry at the [[Cortland Fish Hatchery]]. Four groups of spawning trout were maintained under different conditions:...
+> -- *[[EffectOfLightDietAndAgeOfSpawn_19154]]*
+
 ### Mentioned In
 - [[APreliminaryNoteOnAMultipleApp_1958]]
 - [[CyclicalActivityOfTheThyroidGl_15081]]
+- [[EffectOfLightDietAndAgeOfSpawn_19154]]
 
 ## Photoperiod And Fish Behavior
 <!-- fm: auto_enriched: true -->
@@ -8320,6 +8414,18 @@ Phylogeography examines the geographic distribution of genetic lineages within a
 ### Mentioned In
 - [[NotesOnSomeGastropodsFromNorth_12895]]
 
+## Physa hawnii
+
+### Summary
+Physa hawnii is an aquatic gastropod in the family Physidae that was found to be common throughout streams and ponds in Greenwood County, Kansas. This species was documented at 5 stations and described as "common everywhere."
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Physa Humerosa
 <!-- fm: auto_enriched: true -->
 
@@ -8366,9 +8472,14 @@ Phylogeography examines the geographic distribution of genetic lineages within a
 ## Physidae
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[NotesOnSomeGastropodsFromNorth_12895]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Physiographic Provinces
 <!-- fm: auto_enriched: true -->
@@ -8926,6 +9037,9 @@ Pike are large predatory freshwater fish that serve as apex or near-apex predato
 > This document presents two comprehensive reviews of commercial warm-water pond fish culture developments: one covering the United States (by James R. Fielding) and one covering Europe (by Elek Woynarovich). The U.S. section describes four new systems of commercial pond culture that emerged in the...
 > -- *[[NewSystemsAndNewFishesForCultu_16369]]*
 
+> This 1939 publication from the Michigan Department of Conservation's Institute for Fisheries Research documents the variety of baits used in winter ice fishing and provides detailed identification and collection guidance for aquatic insects and other organisms. The document addresses the growing...
+> -- *[[BaitsUsedInWinterFishing_17383]]*
+
 ### Mentioned In
 - [[BiologicalMeansOfIncreasingPro_1968]]
 - [[CausesOfDeathAmongIndianaFishe_1945]]
@@ -8937,6 +9051,7 @@ Pike are large predatory freshwater fish that serve as apex or near-apex predato
 - [[TroutRestorationInTheAdirondac_20206]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
 - [[NewSystemsAndNewFishesForCultu_16369]]
+- [[BaitsUsedInWinterFishing_17383]]
 
 ## Pike Lake
 <!-- fm: auto_enriched: true -->
@@ -9145,10 +9260,14 @@ The Pima County Board of Supervisors is the governing body that passed Resolutio
 > This newsletter from the National Biological Survey Cooperative Park Studies Unit at The University of Arizona (CPSU/UA) documents field research activities, monitoring projects, and administrative developments during early 1994. Staff conducted diverse ecological studies across Arizona and...
 > -- *[[ProjectsTakeStaffToTheField_13221]]*
 
+> This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
+> -- *[[ProtectionUpdatePrivateLandown_20666]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesActSectionCon_1994_12_06]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[ProjectsTakeStaffToTheField_13221]]
+- [[ProtectionUpdatePrivateLandown_20666]]
 
 ## Pimelodidae
 <!-- fm: auto_enriched: true -->
@@ -10497,9 +10616,13 @@ The Piute Farms Waterfall is a 6-meter waterfall barrier located approximately 3
 > This comprehensive life history study of the [[Piute Sculpin]] (*Cottus beldingii*) in [[Lake Tahoe]] examined 6,424 specimens collected from September 1963 through September 1964. The research focused on diet composition, age and growth patterns, reproductive biology, and parasite loads. Sculpins...
 > -- *[[ContributionsToTheLifeHistoryO_15724]]*
 
+> This 1965 report documents the introduction of [[Bonneville Cisco]] (*Prosopium gemmiferum*) from [[Bear Lake]] (Utah-Idaho) into [[Lake Tahoe]] (California-Nevada) in January 1964. The introduction aimed to provide forage for [[Lake Trout]] (*Salvelinus namaycush*) in deep waters during summer...
+> -- *[[IntroductionOfTheBonnevilleCis_18820]]*
+
 ### Mentioned In
 - [[NoteOnSpringFoodHabitsOfTheLak_12533]]
 - [[ContributionsToTheLifeHistoryO_15724]]
+- [[IntroductionOfTheBonnevilleCis_18820]]
 
 ## PL 88-309
 
@@ -10995,11 +11118,15 @@ Planorbidae is a family of freshwater gastropod mollusks (snails) characterized 
 > - **Oryzias** (fish fry, likely [[Oryzias Latipes]] / medaka): introduced as small fry; establishment required three trials due to heavy initial mortality from high pH/oxygen supersaturation during early microcosm bloom phases. - **Poeciliopsis** (livebearer fish, [[Poeciliidae]]): substituted fo...
 > -- *[[ProductivityRelationsInCarboyM_12276]]*
 
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[GyraulusArizonensisInTexas_12898]]
 - [[KeyToMajorFamiliesOfNorthAmeri_1968]]
 - [[ProductivityRelationsInCarboyM_12276]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Plant Mineral Ash Content
 <!-- fm: auto_enriched: true -->
@@ -12983,6 +13110,18 @@ Polygonacea is a family of higher aquatic vegetation (likely smartweeds or knotw
 ### Mentioned In
 - [[TheEnvironmentalConditionsOfAn_16280]]
 
+## Polygyra
+
+### Summary
+Polygyra is a southern genus of terrestrial gastropods. Despite apparently suitable conditions and drainage patterns, this genus was absent from the Greenwood County, Kansas survey, along with other southern genera like Goniobasis, Haplotrema, and Mesomphix.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Polygyra Deltoidea
 <!-- fm: auto_enriched: true -->
 
@@ -13095,6 +13234,9 @@ Polyodontidae is a family of primitive freshwater fishes characterized by cartil
 > This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
 > -- *[[ListOfFishesReportedFromKansas_18026]]*
 
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -13106,6 +13248,7 @@ Polyodontidae is a family of primitive freshwater fishes characterized by cartil
 - [[StationProfileOfNatchitochesNa_1993]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[ListOfFishesReportedFromKansas_18026]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Polyotic
 <!-- fm: auto_enriched: true -->
@@ -16028,8 +16171,12 @@ Project Vela Uniform was a series of underwater explosion tests conducted in Lak
 > - **No fish, invertebrate, plankton, or water-chemistry data** are reported anywhere in this text. - The document is purely organizational/financial, covering: - Formation of a governing board ([[The Nature Conservancy International]]) with candidates identified by Dave Packard and David Rockefel...
 > -- *[[SixMonthProgressReportOnObject_1986_07_15]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[SixMonthProgressReportOnObject_1986_07_15]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Pronatura A.C
 <!-- fm: auto_enriched: true -->
@@ -16052,6 +16199,18 @@ PRONATURA A.C. is a Mexican conservation organization established in 1981 and re
 
 ### Mentioned In
 - [[BuildingSuccessfulPartnerships_13226]]
+
+## PRONATURA Sonora
+
+### Summary
+PRONATURA Sonora is a Mexican conservation organization that co-hosted the July 1996 Planning Group meeting in Guaymas, Sonora, along with Friends of PRONATURA. The organization was one of the key participants in developing the binational task force proposal for integrated management of the Colorado River Delta and Upper Gulf of California ecosystem.
+
+### Context
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
+### Mentioned In
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Pronghorn
 
@@ -16183,6 +16342,18 @@ Propagule pressure refers to the risk of nonnative fish species being entrained 
 
 ### Mentioned In
 - [[LetterToBureauOfReclamationReg_1987_01_31]]
+
+## Proptera purpurata
+
+### Summary
+Proptera purpurata is a unionid mussel found commonly at West Creek (Station 6) in Greenwood County, Kansas. Identification was uncertain due to variability in shell characters.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Proserpine Shiner
 <!-- fm: auto_enriched: true -->
@@ -16700,8 +16871,13 @@ Psammotettix viridinervis is a new species of deltocephaline leafhopper measurin
 ## Psephurus Gladius
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
 ### Mentioned In
 - [[BiodiversityProblemsInLakeEcos_11149]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Pseudacris
 <!-- fm: auto_enriched: true -->
@@ -17917,6 +18093,30 @@ Pupfish (family Cyprinodontidae, genus Cyprinodon) are small-bodied, highly adap
 - [[ConservationOfNativeFreshwater_15444]]
 - [[MarineIntroductionsTexas_13536]]
 - [[AStudyOfTheFisheriesOnBitterLa_14374]]
+
+## Pupilla muscorum
+
+### Summary
+Pupilla muscorum is a minute terrestrial snail in the family Pupillidae. In Greenwood County, Kansas, it was likely represented only by Pleistocene fossils in drift deposits rather than living populations.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
+## Pupoides marginatus
+
+### Summary
+Pupoides marginatus is a terrestrial gastropod species that occurs in both woodlands and open grasslands. This species was documented from Greenwood County, Kansas as part of the terrestrial gastropod fauna.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Purificación Basin
 <!-- fm: auto_enriched: true -->

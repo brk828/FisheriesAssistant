@@ -1074,6 +1074,21 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > This 1964 experimental study by Herbert and Wakeford at the [[Water Pollution Research Laboratory]] investigated how salinity affects the toxicity of [[Zinc Sulphate]] to [[Atlantic Salmon]] smolts and yearling [[Rainbow Trout]]. The research addresses a critical management question: how to assess...
 > -- *[[TheSusceptibilityOfSalmonidFis_16704]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
+> This 1965 report documents the introduction of [[Bonneville Cisco]] (*Prosopium gemmiferum*) from [[Bear Lake]] (Utah-Idaho) into [[Lake Tahoe]] (California-Nevada) in January 1964. The introduction aimed to provide forage for [[Lake Trout]] (*Salvelinus namaycush*) in deep waters during summer...
+> -- *[[IntroductionOfTheBonnevilleCis_18820]]*
+
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -1475,6 +1490,11 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[FisheriesReportOfTheLowerColor_16429]]
 - [[TheGrowthAndSurvivalOfFishInSo_16699]]
 - [[TheSusceptibilityOfSalmonidFis_16704]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
+- [[AquaticEnvironmentalReportForO_17695]]
+- [[IntroductionOfTheBonnevilleCis_18820]]
+- [[SamplingAtAsuResearchParkApril_19429]]
+- [[ChangesInTheFishPopulationsInT_20462]]
 
 ## Rainbow Trout Association
 <!-- fm: auto_enriched: true -->
@@ -2937,6 +2957,24 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
+> This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
+> -- *[[ProtectionUpdatePrivateLandown_20666]]*
+
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -3725,6 +3763,12 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[GilaRiverFishdistributionProje_15844]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[DraftManagementGroupMeetingSum_17880]]
+- [[SamplingAtAsuResearchParkApril_19429]]
+- [[ChangesInTheFishPopulationsInT_20462]]
+- [[ProtectionUpdatePrivateLandown_20666]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Razorback Sucker Age And Growth
 <!-- fm: auto_enriched: true -->
@@ -4028,6 +4072,9 @@ A Recovery Implementation Program (RIP) is a structured, multi-stakeholder admin
 > This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
 > -- *[[FiscalYearProgramGuidance_11762]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -4045,6 +4092,7 @@ A Recovery Implementation Program (RIP) is a structured, multi-stakeholder admin
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[NativeFishesOfTheGrandCanyonRe_1991]]
 - [[FiscalYearProgramGuidance_11762]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Recovery Implementation Program for Endangered Fish Species
 
@@ -5077,6 +5125,12 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -5290,6 +5344,8 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
+- [[SamplingAtAsuResearchParkApril_19429]]
 
 ## Red Shiners
 
@@ -5642,6 +5698,9 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
 ### Mentioned In
 - [[ANoteOnTheResultsOfFeedingFire_1960]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -5700,6 +5759,7 @@ The redear sunfish (Lepomis microlophus), commonly known as shellcracker, is a f
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[SamplingAtAsuResearchParkApril_19429]]
 
 ## Redeye Bass
 <!-- fm: auto_enriched: true -->
@@ -5895,9 +5955,13 @@ The Redfin Shiner (*Notropis umbratilis*) is a small cyprinid minnow species com
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[EffectsOfNutrientEnhancementOn_1994]]
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Redhorse
 <!-- fm: auto_enriched: true -->
@@ -5934,8 +5998,12 @@ Redlands is a site in the Upper Colorado River Basin where fish passage evaluati
 > This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
 > -- *[[FiscalYearWorkPlan_11742]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
 ### Mentioned In
 - [[FiscalYearWorkPlan_11742]]
+- [[DraftManagementGroupMeetingSum_17880]]
 
 ## Redlands Diversion
 
@@ -6016,9 +6084,14 @@ The Redlands Diversion Dam is a water infrastructure structure on the Colorado R
 ## Redlands Fish Ladder
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
 ### Mentioned In
 - [[FourthEndangeredColoradoSquawf_1997_07_23]]
 - [[ThousandsOfEndangeredFishToBeS_1997_09_18]]
+- [[SummaryaprilManagementGroupMee_20995]]
 
 ## Redlands Fish Passage
 
@@ -6610,8 +6683,12 @@ Region 2 covers the Southwest United States and issued only 8 jeopardy opinions 
 > This February 1992 report by [[World Wildlife Fund]] analyzes Section 7 consultation data under the [[Endangered Species Act]] (ESA) from Fiscal Years 1987-1991. The study examines consultation records from every regional office of the [[U.S. Fish and Wildlife Service]] (FWS) and [[National Marine...
 > -- *[[ForConservingListedSpeciesTalk_15635]]*
 
+> This document is a Freedom of Information Act (FOIA) request submitted by the [[Maricopa Audubon Society]] to the [[US Fish and Wildlife Service]] [[Region 2]] on October 7, 1993. The request seeks comprehensive records of exotic (non-native) fish stockings in watersheds and stock ponds within...
+> -- *[[RequestForInformationOnExoticF_18961]]*
+
 ### Mentioned In
 - [[ForConservingListedSpeciesTalk_15635]]
+- [[RequestForInformationOnExoticF_18961]]
 
 ## Region 2 Fisheries
 <!-- fm: auto_enriched: true -->
@@ -6815,6 +6892,18 @@ The source mentions habitat reconstruction techniques including excavating flood
 
 ### Mentioned In
 - [[NativeFishesOfTheGrandCanyonRe_1991]]
+
+## Reisenbichler
+
+### Summary
+Reisenbichler (1994) provided research showing that domestication in hatcheries reduces the fitness of fish under natural conditions. This work was cited as evidence that artificial propagation can have negative effects on the ability of hatchery-raised fish to survive and reproduce in the wild.
+
+### Context
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
+### Mentioned In
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Reisenbichler 1994
 
@@ -7451,6 +7540,18 @@ The Resource Conservation and Recovery Act (RCRA) is a 1976 federal law establis
 ### Mentioned In
 - [[AnIndustryViewOfTheRegulationO_12522]]
 - [[OverviewOfEnvironmentalRegulat_18083]]
+
+## Resource Consultants Inc
+
+### Summary
+Resource Consultants Inc is a consulting firm that worked jointly with the U.S. Fish and Wildlife Service to develop an instream flow work plan for the Yampa River. Comments on their jointly developed work plan were due by October 31, 1988.
+
+### Context
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+### Mentioned In
+- [[SummaryoctoberManagementGroupM_21000]]
 
 ## Resource Partitioning
 <!-- fm: auto_enriched: true -->
@@ -9862,6 +9963,9 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 > This study investigates evolutionary relationships and speciation patterns in the cyprinid genus [[Dionda]] using allozyme electrophoresis of 35 gene loci across all known species. The research addresses competing hypotheses of sympatric versus allopatric speciation to explain the unusual...
 > -- *[[DraftSpeciationInTheNorthAmeri_15234]]*
 
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
 ### Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -9902,6 +10006,7 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 - [[AChecklistOfTexasFreshwaterFis_19871]]
 - [[DraftEnvironmentalAssessmentDe_13207]]
 - [[DraftSpeciationInTheNorthAmeri_15234]]
+- [[WaterRightsBibliography_17761]]
 
 ## Rio Grande (Rio Bravo Del Norte)
 <!-- fm: auto_enriched: true -->
@@ -11521,6 +11626,9 @@ Riparian habitat refers to the vegetated zone adjacent to streams and rivers tha
 > The [[Bureau of Land Management]] (BLM) announced a temporary six-month suspension of land acquisitions along the [[San Pedro River]] in southeastern Arizona following June 10 discussions with Natural Resource Conservation Districts (NRCDs). The decision responds to concerns from private landowners...
 > -- *[[BlmRespondsToPublicConcernsAlo_19144]]*
 
+> This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
+> -- *[[ProtectionUpdatePrivateLandown_20666]]*
+
 ### Mentioned In
 - [[ConstructionAndOperatingEf_19150]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -11528,6 +11636,7 @@ Riparian habitat refers to the vegetated zone adjacent to streams and rivers tha
 - [[PlanOfferedToProtectHabitatsOf_18307]]
 - [[StatewideRiparianInventoryAndM_12471]]
 - [[BlmRespondsToPublicConcernsAlo_19144]]
+- [[ProtectionUpdatePrivateLandown_20666]]
 
 ## Riparian Habitat Classification
 <!-- fm: auto_enriched: true -->
@@ -12002,6 +12111,18 @@ The River Continuum Concept is a foundational framework in aquatic ecology that 
 
 ### Mentioned In
 - [[DrainageRecordsAndConservation_14901]]
+
+## River District
+
+### Summary
+The River District (Colorado River Water Conservation District) is a stakeholder in water rights negotiations for the Yampa River. The District expressed concerns that the $6 million offer for Juniper-Cross Mountain water rights underestimated their value and that selling the rights would preclude future Yampa River development.
+
+### Context
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+### Mentioned In
+- [[SummaryoctoberManagementGroupM_21000]]
 
 ## River Ecosystem Health
 <!-- fm: auto_enriched: true -->
@@ -14804,6 +14925,12 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 > The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
 > -- *[[GilaRiverFishdistributionProje_15844]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
 ### Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -14985,6 +15112,8 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 - [[AProposedMonitoringProtocolFor_13782]]
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[GilaRiverFishdistributionProje_15844]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
+- [[SamplingAtAsuResearchParkApril_19429]]
 
 ## Rounsefell And Everhart Formula
 <!-- fm: auto_enriched: true -->
@@ -15226,6 +15355,18 @@ Ruedi Reservoir is a water storage facility on the Colorado River system whose r
 > This FY 1994 summary report documents the annual accomplishments of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program addresses recovery of four federally listed endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[RecoveryImplementationProgramF_11712]]*
 
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[MemorandumOnColoradoRiverRecov_21012]]
 - [[RequestForReleasesFromRuedigre_1989_06_08]]
@@ -15241,6 +15382,10 @@ Ruedi Reservoir is a water storage facility on the Colorado River system whose r
 - [[FiscalYearProgramGuidance_11762]]
 - [[ManagementGroupMeetingSummarSe_21019]]
 - [[RecoveryImplementationProgramF_11712]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[SummaryaprilManagementGroupMee_20995]]
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Ruff
 <!-- fm: auto_enriched: true -->

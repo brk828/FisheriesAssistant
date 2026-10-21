@@ -880,6 +880,12 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 > This third annual progress report documents the fisheries and limnological investigation of [[Lake Powell]] from February 1965 to January 1966, during the reservoir's early filling phase. The study, financed under Section 8 of the Colorado River Storage Act, was conducted cooperatively by the Utah...
 > -- *[[GlenCanyonReservoirPostimpound_14587]]*
 
+> This 1939 publication from the Michigan Department of Conservation's Institute for Fisheries Research documents the variety of baits used in winter ice fishing and provides detailed identification and collection guidance for aquatic insects and other organisms. The document addresses the growing...
+> -- *[[BaitsUsedInWinterFishing_17383]]*
+
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -978,6 +984,8 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[AuthortitleIndexToInlandFisher_14367]]
 - [[GlenCanyonReservoirPostimpound_14587]]
+- [[BaitsUsedInWinterFishing_17383]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Walleye Growth Comparison
 <!-- fm: auto_enriched: true -->
@@ -2138,6 +2146,9 @@ The Water and Power Resources Service (WAPRS) refers to a federal agency or bure
 > This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
 > -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
 
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
 ### Mentioned In
 - [[AnotherRazorbackCaughtInCanal_18270]]
 - [[ChangeInSpeciesStatusInRegardT_1980_06_01]]
@@ -2146,6 +2157,7 @@ The Water and Power Resources Service (WAPRS) refers to a federal agency or bure
 - [[UseOfHydroelectricDamsToContro_11232]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[MxMissileSystemAnUrgentLetterF_20507]]
+- [[ChangesInTheFishPopulationsInT_20462]]
 
 ## Water Chemistry
 <!-- fm: auto_enriched: true -->
@@ -2461,6 +2473,9 @@ A Water Pollution Research Laboratory is a specialized facility dedicated to inv
 > This 1964 experimental study by Herbert and Wakeford at the [[Water Pollution Research Laboratory]] investigated how salinity affects the toxicity of [[Zinc Sulphate]] to [[Atlantic Salmon]] smolts and yearling [[Rainbow Trout]]. The research addresses a critical management question: how to assess...
 > -- *[[TheSusceptibilityOfSalmonidFis_16704]]*
 
+> This technical paper describes an automated apparatus designed at the [[Water Pollution Research Laboratory]] in Stevenage for conducting toxicity bioassays on fish. The system provides six independent aquaria with precise control over temperature, pH, dissolved oxygen concentration, and poison...
+> -- *[[ControlledAqueousEnvironmentsF_20127]]*
+
 ### Mentioned In
 - [[DeterminationOfCarbonateInSoli_14364]]
 - [[PolarographicMeasurementOfTheR_12575]]
@@ -2470,6 +2485,7 @@ A Water Pollution Research Laboratory is a specialized facility dedicated to inv
 - [[SomeObservationsOnDenitrificat_12181]]
 - [[SomeEffectsOfPlantsAndAnimalsO_15778]]
 - [[TheSusceptibilityOfSalmonidFis_16704]]
+- [[ControlledAqueousEnvironmentsF_20127]]
 
 ## Water Quality
 <!-- fm: auto_enriched: true -->
@@ -2731,6 +2747,18 @@ The Water Treaty of 1944 with Mexico is an international agreement that forms pa
 
 ### Mentioned In
 - [[AsianTapewormEradicationStrate_13118]]
+
+## Water User Association
+
+### Summary
+A Water User Association is a local organization representing water rights holders and water users in a particular area. In this source, the local Water User Association in the Colorado River Basin opposed further stocking of Colorado Squawfish at Kenney Reservoir during public hearings held in October 1988, demonstrating local stakeholder resistance to some endangered species recovery measures.
+
+### Context
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
+### Mentioned In
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Water Vole
 <!-- fm: auto_enriched: true -->
@@ -3392,6 +3420,18 @@ Welch refers to the author of limnological methods that were followed in this st
 ### Mentioned In
 - [[ARelativeStudyOfOxygenConsumpt_16948]]
 
+## Wellton
+
+### Summary
+A location in Arizona marking the western terminus of the proposed 56.2-mile Gila River channelization project in the Wellton-Mohawk area. The project area extends from Wellton eastward to Mohawk along the Gila River.
+
+### Context
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
+### Mentioned In
+- [[IllegalFindingOfNoSignificantI_18971]]
+
 ## Wellton-Mohawk
 
 ### Summary
@@ -3416,6 +3456,18 @@ The Wellton-Mohawk Canal was constructed as part of the solution to the Colorado
 ### Mentioned In
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 
+## Wellton-Mohawk Gila River Flood Channel Restoration Project
+
+### Summary
+A proposed $13.7 million flood control project that would channelize 56.2 miles of the Gila River in Arizona between Wellton and Mohawk, moving 5.7 million cubic yards of material and placing 1 million yards of rip-rap along dike interiors. The Southwest Center for Biological Diversity challenged the U.S. Army Corps of Engineers' 'Finding of No Significant Impact' for this project in 1994, arguing it would violate NEPA requirements and permanently foreclose recovery options for Arizona's imperiled native fish fauna by eliminating natural river processes essential for their survival.
+
+### Context
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
+### Mentioned In
+- [[IllegalFindingOfNoSignificantI_18971]]
+
 ## Wellton-Mohawk Irrigation and Drainage District
 
 ### Summary
@@ -3437,8 +3489,12 @@ The Wellton-Mohawk Irrigation District is an agricultural area in Arizona whose 
 > This article examines the ecological degradation of the [[Colorado River Delta]] and proposes strategies for reallocating water to restore and protect this critical aquatic ecosystem. The [[Colorado River]] supplies water to nearly 30 million people and irrigates over 1 million hectares of farmland...
 > -- *[[AllocatingFreshWaterToAquaticE_18641]]*
 
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
 ### Mentioned In
 - [[AllocatingFreshWaterToAquaticE_18641]]
+- [[IllegalFindingOfNoSignificantI_18971]]
 
 ## Wellton-Mohawk Irrigation Project
 
@@ -3642,6 +3698,18 @@ West Border Spring is one of 16 existing water sources at San Bernardino Nationa
 
 ### Mentioned In
 - [[ExtensionsOfRangeForBlennioidF_14285]]
+
+## West Creek
+
+### Summary
+West Creek is a stream in Greenwood County, Kansas where Station 6 was established on shoals and gravel bars. This location yielded all 16 species of unionid mussels documented in the survey, including unusually large or heavy-shelled specimens of several species.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## West Fork
 
@@ -3980,6 +4048,12 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 > This correspondence documents a 1988 exchange between the [[Desert Fishes Council]] (DFC) and the [[U.S. Fish and Wildlife Service]] (FWS) regarding the [[Colorado River Endangered Fishes Recovery Implementation Program]]. The exchange addresses concerns about how DFC's December 9, 1986 review...
 > -- *[[ReSteveLanigansCommentsConcern_14142]]*
 
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[ErrataSheetFyWorkPlanForTheRec_20993]]
@@ -4004,6 +4078,8 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 - [[FiscalYearWorkPlan_11756]]
 - [[DraftRecoveryGoals_11689]]
 - [[ReSteveLanigansCommentsConcern_14142]]
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Western Association Of Fish And Wildlife Agencies
 <!-- fm: auto_enriched: true -->
@@ -4592,6 +4668,9 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
 ### Mentioned In
 - [[DetermineStatusOfColoradoSquaw_11150]]
 - [[InteragencyStandardizedMonitor_1993]]
@@ -4613,6 +4692,7 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 - [[DraftRecoveryGoals_11689]]
 - [[RecoveryImplementationProgramF_11712]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[DraftManagementGroupMeetingSum_17880]]
 
 ## Wet Beaver Creek
 
@@ -4871,8 +4951,12 @@ Whiskey Spring is a desert spring in the Grand Wash area of Arizona that serves 
 > - **Establishment & Authority:** Founded in 1935 under the **[[White Act]]** (46 Stat. 371); administered under USFWS Region Two, led by Project Leader Lloyd B. Strobeck. - **Infrastructure:** 47 ponds (mostly 1 acre each) occupy slightly over half of the station's 100-acre footprint; five servic...
 > -- *[[StationProfileOfTheU_1991]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[StationProfileOfTheU_1991]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## White Act 1930
 <!-- fm: auto_enriched: true -->
@@ -5212,6 +5296,9 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -5272,6 +5359,7 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 - [[PreimpoundmentSurveysOfSixKent_13033]]
 - [[AuthortitleIndexToInlandFisher_14367]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## White Croaker
 <!-- fm: auto_enriched: true -->
@@ -5821,6 +5909,9 @@ The White River refers to a river system in the south-central United States (pri
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -5895,6 +5986,7 @@ The White River refers to a river system in the south-central United States (pri
 - [[RecoveryImplementationProgramF_11712]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[DraftManagementGroupMeetingSum_17880]]
 
 ## White River (Arizona)
 <!-- fm: auto_enriched: true -->
@@ -9695,6 +9787,9 @@ Wynoochee River in Washington experienced elimination of trout food and cover du
 > This correspondence documents a 1988 exchange between the [[Desert Fishes Council]] (DFC) and the [[U.S. Fish and Wildlife Service]] (FWS) regarding the [[Colorado River Endangered Fishes Recovery Implementation Program]]. The exchange addresses concerns about how DFC's December 9, 1986 review...
 > -- *[[ReSteveLanigansCommentsConcern_14142]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[MemorandumOfUnderstandingOnEnd_11447]]
@@ -9702,6 +9797,7 @@ Wynoochee River in Washington experienced elimination of trout food and cover du
 - [[ExtensionOfPublicCommentPeriod_17380]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
 - [[ReSteveLanigansCommentsConcern_14142]]
+- [[DraftManagementGroupMeetingSum_17880]]
 
 ## Wyoming Game And Fish Department
 <!-- fm: auto_enriched: true -->

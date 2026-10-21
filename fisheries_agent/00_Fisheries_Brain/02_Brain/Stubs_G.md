@@ -2277,6 +2277,42 @@ Gasterosteus wheatlandi is the Twospine Stickleback, representing a significant 
 ### Mentioned In
 - [[THE FOOD OF TROUT (SALMO TRUITA) IN A DARTMOOR STREAM]]
 
+## Gastrocopta
+
+### Summary
+Gastrocopta is a genus of minute terrestrial snails in the family Pupillidae. Four taxa of this genus were recorded from Greenwood County, Kansas, including western forms like G. procera sterkiana and G. procera mcclungi.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
+## Gastrocopta procera mcclungi
+
+### Summary
+Gastrocopta procera mcclungi is a western subspecies of minute terrestrial snail in the family Pupillidae. This form was recorded from Greenwood County, Kansas, among the four Gastrocopta taxa found in the area.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
+## Gastrocopta procera sterkiana
+
+### Summary
+Gastrocopta procera sterkiana is a western subspecies of minute terrestrial snail in the family Pupillidae. It was found in Greenwood County, Kansas, as one of four Gastrocopta taxa documented in the survey.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Gastropoda
 <!-- fm: auto_enriched: true -->
 
@@ -3236,12 +3272,16 @@ Georgia is one of 14 U.S. states that were actively using scuba diving for fishe
 > This 1971 publication by J. F. Fitzpatrick, Jr. and Horton H. Hobbs, Jr. describes *Procambarus lylei*, a new species of crawfish from the [[Spiculifer Group]] of the genus [[Procambarus]]. The species was discovered in [[Calhoun County]], [[Mississippi]], within the [[Yalobusha River]] drainage...
 > -- *[[ANewCrayfishOfTheSpiculiferGro_16434]]*
 
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
 ### Mentioned In
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[NewSpeciesOfCheumatopsycheFrom_21085]]
 - [[EndangeredAndThreatenedWildlif_11596]]
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[ANewCrayfishOfTheSpiculiferGro_16434]]
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## Georgia Estuaries
 <!-- fm: auto_enriched: true -->
@@ -3494,6 +3534,18 @@ Geronimo Cave is a landmark on the East Fork White River that marks the upstream
 
 ### Mentioned In
 - [[ResponsesOfFishPopulationsInTh_1983]]
+
+## Gezhouba Dam
+
+### Summary
+The Gezhouba Dam is a major hydroelectric dam on the Changjiang River in China. This source identifies it as one of the large-scale water conservancy projects that has profoundly impacted Chinese sturgeon reproduction and growth by converting running water to still water environments, blocking migration routes, and eliminating spawning areas.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Ghost Shiner
 <!-- fm: auto_enriched: true -->
@@ -4190,6 +4242,9 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 > The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
 > -- *[[GilaRiverFishdistributionProje_15844]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AfaPolicyMemorandumOnHybrids_1984_02_10]]
@@ -4310,6 +4365,7 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 - [[GilaTopminnowSitesInArizonaPro_19668]]
 - [[HabitatUseAndPreferenceOfGilaT_18783]]
 - [[GilaRiverFishdistributionProje_15844]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
 
 ## Gila Cliff Dwellings
 
@@ -5826,6 +5882,9 @@ The Gila River is a major tributary system in the southwestern United States tha
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -6109,6 +6168,7 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[GilaRiverFishdistributionProje_15844]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[IllegalFindingOfNoSignificantI_18971]]
 
 ## Gila River Above Yuma, Arizona
 <!-- fm: auto_enriched: true -->
@@ -7032,6 +7092,9 @@ The Gila Sucker (*Catostomus insignis*) is a native cyprinid fish species endemi
 > This technical report documents a comprehensive aquatic inventory of the [[Bill Williams River]] and [[Hassayampa River]] drainages in west-central Arizona, conducted during winter and spring 1980. The study was undertaken by the U.S. Bureau of Land Management Phoenix District Office to provide...
 > -- *[[AquaticInventoryOfTheBillWilli_12503]]*
 
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
 ### Mentioned In
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
 - [[DesertFishesRecoveryTeamMeetin_1992_12_07]]
@@ -7046,6 +7109,7 @@ The Gila Sucker (*Catostomus insignis*) is a native cyprinid fish species endemi
 - [[SaltRiverProjectRooseveltDiver_15070]]
 - [[ResourceReportOnAravaipaCanyon_11458]]
 - [[AquaticInventoryOfTheBillWilli_12503]]
+- [[SamplingAtAsuResearchParkApril_19429]]
 
 ## Gila Taxonomy
 <!-- fm: auto_enriched: true -->
@@ -7365,6 +7429,9 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
 > -- *[[GilaRiverFishdistributionProje_15844]]*
 
+> This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
+> -- *[[ProtectionUpdatePrivateLandown_20666]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -7610,6 +7677,7 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[AquaticInventoryOfTheBillWilli_12503]]
 - [[GilaRiverFishdistributionProje_15844]]
+- [[ProtectionUpdatePrivateLandown_20666]]
 
 ## Gila Topminnow Decline
 <!-- fm: auto_enriched: true -->
@@ -8798,6 +8866,9 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 > This document comprises meeting notes and correspondence from the third Colorado River Trophic Studies (CRiTS) meeting held on 6 August 1991 in Flagstaff, Arizona. The CRiTS group is an informal discussion forum involving members from USGS, NPS, Bureau of Reclamation, and Arizona Game and Fish,...
 > -- *[[DraftCritsMeetingNotesAndNewsl_14829]]*
 
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
 ### Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[FishHandlingAssessmentOnGrandC_1991_09_05]]
@@ -8828,6 +8899,7 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 - [[InformationRegardingManagement_16919]]
 - [[DraftDocumentimpactsOfElectrof_19691]]
 - [[DraftCritsMeetingNotesAndNewsl_14829]]
+- [[LatePleistoceneAndRecentErosio_17546]]
 
 ## Glen Canyon Adaptive Management Program
 <!-- fm: auto_enriched: true -->
@@ -9194,6 +9266,9 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > This document comprises meeting notes and correspondence from the third Colorado River Trophic Studies (CRiTS) meeting held on 6 August 1991 in Flagstaff, Arizona. The CRiTS group is an informal discussion forum involving members from USGS, NPS, Bureau of Reclamation, and Arizona Game and Fish,...
 > -- *[[DraftCritsMeetingNotesAndNewsl_14829]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -9413,6 +9488,7 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[DraftColoradoRiverTrophicStudi_14828]]
 - [[DraftCritsMeetingNotesAndNewsl_14829]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Glen Canyon Dam Adaptive Management Program
 <!-- fm: auto_enriched: true -->
@@ -9796,6 +9872,18 @@ Glen Canyon Reservoir is another name for Lake Powell, formed by Glen Canyon Dam
 ### Mentioned In
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
 
+## Glen Canyon Studies
+
+### Summary
+Glen Canyon Studies refers to research that was reviewed by the National Academy of Science. The Technical Group was evaluating this National Academy of Science review to determine its relevance and potential application to the Colorado River endangered fish recovery effort.
+
+### Context
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+### Mentioned In
+- [[SummaryoctoberManagementGroupM_21000]]
+
 ## Glen Canyon Unit
 <!-- fm: auto_enriched: true -->
 
@@ -10099,6 +10187,18 @@ Gobiidae is a large and diverse family of small, benthic fish characterized by t
 - [[SicydiumMontanumANewSpeciesOfG_19968]]
 - [[AClassificationOfTheFishesOfTh_14438]]
 - [[AChecklistOfTexasFreshwaterFis_19871]]
+
+## Gobiocypris rarus
+
+### Summary
+Gobiocypris rarus is a cyprinid fish found in China. This source lists it among the 52 endangered cyprinid species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Gobioidei
 <!-- fm: auto_enriched: true -->
@@ -10929,9 +11029,13 @@ Gonatozygon is a desmid (green algae) genus that occurred in large quantities in
 > **Headwater Springs (Minckley's Station 1, mile 10.0):** - Constant cold temperature, low turbidity (multiple subterranean sources). - Fauna: small Crustacea, snail *[[Goniobasis]]*, blind cave crayfish *[[Orconectes Pellucidus]]* (troglobitic). - Flora zonation downstream: mosses → *Potamogeton*...
 > -- *[[RoadLogOfTheBiologyOfDoeRunMea_1960]]*
 
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[RoadLogOfTheBiologyOfDoeRunMea_1960]]
 - [[ThePlioceneGlennsFerryOoliteLa_1980_03_14]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Gonionemus
 <!-- fm: auto_enriched: true -->
@@ -11927,6 +12031,15 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > This document comprises meeting notes and correspondence from the third Colorado River Trophic Studies (CRiTS) meeting held on 6 August 1991 in Flagstaff, Arizona. The CRiTS group is an informal discussion forum involving members from USGS, NPS, Bureau of Reclamation, and Arizona Game and Fish,...
 > -- *[[DraftCritsMeetingNotesAndNewsl_14829]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -12101,6 +12214,9 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[SummaryOfEndangeredFishResearc_13612]]
 - [[DraftColoradoRiverTrophicStudi_14828]]
 - [[DraftCritsMeetingNotesAndNewsl_14829]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Grand Canyon Colorado River Ecosystem
 <!-- fm: auto_enriched: true -->
@@ -12650,6 +12766,9 @@ Grand Teton National Park was scheduled as one of the future meeting locations f
 > This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
 > -- *[[FiscalYearWorkPlan_11742]]*
 
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
 ### Mentioned In
 - [[DetermineStatusOfColoradoSquaw_11150]]
 - [[DevelopAndRefineYearRoundFlowN_1993]]
@@ -12661,6 +12780,7 @@ Grand Teton National Park was scheduled as one of the future meeting locations f
 - [[FiscalYearProgramGuidance_11762]]
 - [[FiscalYearWorkPlan_11756]]
 - [[FiscalYearWorkPlan_11742]]
+- [[SummaryoctoberManagementGroupM_21000]]
 
 ## Grand Valley Canal
 
@@ -12844,6 +12964,18 @@ Granite Creek is a location on the Verde River system that marks one end of the 
 ### Mentioned In
 - [[ACaseOfMistakenIdentityGenetic_2021]]
 - [[AdvancedIdentificationOfFuncti_11587]]
+
+## Granite Gorge
+
+### Summary
+Granite Gorge is the section of Grand Canyon where the river transitions from Marble Canyon's limestone formations into granite, featuring dramatic narrows at mile 73.1 where canyon walls rise 700+ feet while being only 75 feet apart. This geological transition was documented as part of the expedition's topographic and geological observations.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Granite Park
 <!-- fm: auto_enriched: true -->
@@ -14584,12 +14716,16 @@ Green Mountain Energy Resources is an organization that collaborated with Americ
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held September 13, 1989, in Lakewood, Colorado. The meeting addressed recovery efforts for rare and endangered fish species in the [[Colorado River Basin]], focusing on water...
 > -- *[[ManagementGroupMeetingSummarSe_21019]]*
 
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
 ### Mentioned In
 - [[RequestForReleasesFromRuedigre_1989_06_08]]
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[FiscalYearWorkPlan_11743]]
 - [[FiscalYearWorkPlan_11756]]
 - [[ManagementGroupMeetingSummarSe_21019]]
+- [[SummaryaprilManagementGroupMee_20995]]
 
 ## Green Rat Snake
 <!-- fm: auto_enriched: true -->
@@ -14963,6 +15099,18 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
 > -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -15149,6 +15297,10 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[WantedForTheFutureTheseNativeF_13295]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
+- [[DraftManagementGroupMeetingSum_17880]]
+- [[ChangesInTheFishPopulationsInT_20462]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Green River (Colorado River Basin)
 <!-- fm: auto_enriched: true -->
@@ -15752,6 +15904,12 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AFishPopulationStudyOfThirdSis_1942]]
@@ -15994,6 +16152,8 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[AquaticEnvironmentalReportForO_17695]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Green Sunfish Group
 <!-- fm: auto_enriched: true -->
@@ -16138,12 +16298,16 @@ Greenlee County is a county in Arizona that contains portions of the Blue River 
 > This biological opinion, issued October 14, 1997, addresses the realignment of Forest Road 281 near [[Bush Creek]] on the upper [[Blue River]], [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] (lead agency) and [[U.S. Army Corps of Engineers]] proposed rerouting approximately 1,200...
 > -- *[[BiologicalOpinionSummaryBlueRi_11685]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
 ### Mentioned In
 - [[SummaryBiologicalOpinionForRep_11720]]
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[BiologicalOpinionForReroutingO_11747]]
 - [[ReRequestForCommentsRegardingT_15640]]
 - [[BiologicalOpinionSummaryBlueRi_11685]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
 
 ## Greenshank
 <!-- fm: auto_enriched: true -->
@@ -16199,6 +16363,18 @@ The Greenthroat Darter (*Etheostoma lepidum*) is a small percid fish endemic to 
 
 ### Mentioned In
 - [[TolerancesToFiveChlorinatedHyd_16339]]
+
+## Greenwood County
+
+### Summary
+Greenwood County is located in southeastern Kansas on the eastern slopes of the Flint Hills, characterized by grass-covered hills with limited timber except in riparian zones. This 1946 survey documented 16 species of unionid mussels, 6 aquatic gastropod species, and 19 terrestrial gastropod species from the county, representing the first systematic malacological investigation of the region.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Greenwood Et Al. 1966
 <!-- fm: auto_enriched: true -->
@@ -17470,6 +17646,12 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -17523,6 +17705,8 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 - [[FormalReviewcrticialHabitatOfT_20672]]
 - [[RecoveryImplementationProgramF_11712]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Gunnison River Basin
 <!-- fm: auto_enriched: true -->

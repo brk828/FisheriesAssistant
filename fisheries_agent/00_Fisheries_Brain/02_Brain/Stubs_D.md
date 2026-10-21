@@ -480,6 +480,54 @@ This study documented impacts of Flaming Gorge Dam on razorback sucker reproduct
 ### Mentioned In
 - [[DamRemovalWhoShouldPay_1999_09_26]]
 
+## Dam Site No. 14
+
+### Summary
+Dam Site No. 14 at Havasu Creek was evaluated as one of the best sites for low-power development, measuring 165 feet wide at water level and 360 feet across the top at 235 feet above water. This was among the most promising of the 15 dam sites surveyed.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
+## Dam Site No. 5
+
+### Summary
+Dam Site No. 5 at mile 22.9 below Clear Creek showed good prospects for dam construction with a potential tunnel spillway. This was one of 15 potential dam sites surveyed in detail during the expedition.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
+## Dam Site No. 7
+
+### Summary
+Dam Site No. 7 at mile 24.7 was noted as having the best narrow section and abutments encountered during the expedition's evaluation of 15 potential dam sites. However, it lacked a natural spillway, which was considered a significant limitation.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
+## Damselflies
+
+### Summary
+Damselflies are aquatic insects closely related to dragonflies, whose nymphs are used as fishing bait in freshwater environments. This 1939 Michigan document notes that damselfly nymphs can be distinguished from dragonfly nymphs by their thinner bodies (versus the broad, flat dragonfly form), though they share the characteristic enormous hinged grasping lower jaw with spiny grabhooks; like dragonflies, they occupy nearly every aquatic habitat and are hardy, tolerant of oxygen and temperature extremes.
+
+### Context
+> This 1939 publication from the Michigan Department of Conservation's Institute for Fisheries Research documents the variety of baits used in winter ice fishing and provides detailed identification and collection guidance for aquatic insects and other organisms. The document addresses the growing...
+> -- *[[BaitsUsedInWinterFishing_17383]]*
+
+### Mentioned In
+- [[BaitsUsedInWinterFishing_17383]]
+
 ## Dan Kuhn Lake
 <!-- fm: auto_enriched: true -->
 
@@ -620,6 +668,9 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 > This report documents the 1979 pre-operational ecological baseline for [[Twin Lakes]], Colorado, prior to the 1981 commissioning of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study encompasses comprehensive physical, chemical, and biological limnology of a two-lake mountain system at 2802 m...
 > -- *[[StudiesOfTheEffectsOfOperating_12648]]*
 
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
 ### Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[Craspedacusta Sowerbii in Pymatuning Reservoir]]
@@ -639,6 +690,7 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[MuskalongemakingMuskies_11361]]
 - [[StudiesOfTheEffectsOfOperating_12648]]
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Daphnia ambigua
 <!-- fm: auto_enriched: true -->
@@ -1801,6 +1853,18 @@ Dead Horse Ranch State Park is a protected area located within the Verde Valley,
 ### Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
 
+## Deadman Wash
+
+### Summary
+Deadman Wash is a stream with headwaters above 7,500 feet in the Colorado River system area. Glaciofluvial sediments from San Francisco Mountain extend downstream and grade into terrace deposits along Deadman Wash and the Little Colorado River.
+
+### Context
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+### Mentioned In
+- [[LatePleistoceneAndRecentErosio_17546]]
+
 ## Dean A. Hendrickson
 <!-- fm: auto_enriched: true -->
 
@@ -2330,6 +2394,9 @@ Deer Creek is a relatively unmodified tributary of the Sacramento River in Teham
 > This memorandum from BIO/WEST, Inc. (October 18, 1991) summarizes preliminary findings from the Endangered Fish Research Program studying [[Gila cypha]] (humpback chub) in the mainstem [[Colorado River]] through [[Grand Canyon]]. The research program, conducted in cooperation with the [[U.S. Fish...
 > -- *[[SummaryOfEndangeredFishResearc_13612]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[BibliographyOfStudiesOnIntrodu_13347]]
 - [[FishesOfTheWakarusaRiverInKans_14015]]
@@ -2342,6 +2409,7 @@ Deer Creek is a relatively unmodified tributary of the Sacramento River in Teham
 - [[HabitatUseByHumpbackChubGilaCy_11575]]
 - [[EarlyFieldNotes_15954]]
 - [[SummaryOfEndangeredFishResearc_13612]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Deer Creek Cave
 <!-- fm: auto_enriched: true -->
@@ -2494,6 +2562,18 @@ The Defenders of Wildlife Trust was the sole funding organization for this compr
 ### Mentioned In
 - [[ReportOnTheSurveyOfTheMammalsO_11840]]
 
+## Defiance Uplift
+
+### Summary
+The Defiance Uplift is a geological feature in the Colorado River system area where some arroyos were currently aggrading at the time of the study. This area, along with the adjacent Chuska Mountains, showed different erosional patterns than other parts of the study region.
+
+### Context
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+### Mentioned In
+- [[LatePleistoceneAndRecentErosio_17546]]
+
 ## Definitive Host
 <!-- fm: auto_enriched: true -->
 
@@ -2582,6 +2662,18 @@ The Delaware Basin is a geological region where Gammarus-Pecos Complex populatio
 
 ### Mentioned In
 - [[TheGammaruspecosComplexCrustac_16002]]
+
+## Delaware County
+
+### Summary
+Delaware County is a county in northeastern Oklahoma where the Stansberry-January Cave System is located. This county is part of the Spavinaw Creek drainage of the Arkansas River Basin and is the type locality for the newly described troglobitic crayfish Cambarus (Jugicambarus) tartarus.
+
+### Context
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
+### Mentioned In
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## Delaware Creek
 
@@ -3077,6 +3169,18 @@ The Department of Interior (DOI) is the U.S. government agency that signed a Let
 ### Mentioned In
 - [[FishesOfKinkaidCreekIllinois_14812]]
 
+## Department of Resource Development
+
+### Summary
+The Department of Resource Development was an academic unit at Michigan State University. According to this bibliography, Eleanor J. Boyles from this department compiled a comprehensive bibliography on water rights law and water resource management, drawing from research at the Congressional Library and university resources.
+
+### Context
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
+### Mentioned In
+- [[WaterRightsBibliography_17761]]
+
 ## Department of Soil & Water Science
 
 ### Summary
@@ -3096,9 +3200,13 @@ Department of Soil & Water Science is an academic department at the University o
 > This document appears to be an administrative cover page or header for a U.S. Department of the Interior geological survey related to experimental shaded fistail investigations in the [[Southwestern United States]]. The document references miscellaneous investigations and includes a budget...
 > -- *[[ExperimentalDigitalShadedrelie_15792]]*
 
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
 ### Mentioned In
 - [[StatementByFishAndWildlifeServ_1996_05_02]]
 - [[ExperimentalDigitalShadedrelie_15792]]
+- [[JuneSteeringCommitteeMeetingAn_20943]]
 
 ## Department of Zoology
 
@@ -5040,6 +5148,9 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
 > -- *[[GilaRiverFishdistributionProje_15844]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
 ### Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -5147,6 +5258,7 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[FinalDraftEcosystemPlanForTheL_11674]]
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[GilaRiverFishdistributionProje_15844]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
 
 ## Desert Tortoise
 <!-- fm: auto_enriched: true -->
@@ -6028,6 +6140,9 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
 > -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
 
+> This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
+> -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -6237,6 +6352,7 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[ReportOnYaquiCatfishReceived_15380]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
+- [[ProvisionalKeyToTheProtolarvae_21239]]
 
 ## Dexter National Fish Hatchery & Technology Center
 <!-- fm: auto_enriched: true -->
@@ -6536,6 +6652,9 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 > This document comprises field collection records and museum catalog entries from the [[University of Michigan Museum of Zoology]] (UMMZ) spanning 1934-1978, documenting fish fauna of the [[Colorado River]] basin in [[Coconino County]], [[Arizona]]. The records include handwritten field notes,...
 > -- *[[GrandCanyonFieldNotesFromAndVa_15334]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[EffectsOfInterimFlowsFromGlenC_13655]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
@@ -6555,6 +6674,7 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 - [[TheEffectsOfInterimFlowsFromGl_13620]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Diamond Valley
 
@@ -6608,9 +6728,14 @@ Diamond Y Spring is a spring in Pecos County, Texas, serving as the type localit
 ## Diaphanosoma brachyurum
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
 ### Mentioned In
 - [[Species Composition and Seasonal Distribution of Limnetic Crustacean Zooplankton of Northeastern Kansas]]
 - [[VariableKinematicsOfSacramento_1982]]
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Diaptomus
 <!-- fm: auto_enriched: true -->
@@ -6649,6 +6774,9 @@ Diaptomus is a genus of calanoid copepods that serves as an important component 
 > This document is a comprehensive reference compilation of calorific values (gram-calories per gram dry weight and per ash-free gram) for organisms across all trophic levels, published as the second edition in October 1967 by Kenneth W. Cummins at the [[Pymatuning Laboratory of Ecology]],...
 > -- *[[CalorificEquivalentsForStudies_18098]]*
 
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
 ### Mentioned In
 - [[ContrastsAmongCalanoidCopepods_16016]]
 - [[LimnologicalInvestigationsInAr_1963]]
@@ -6658,6 +6786,7 @@ Diaptomus is a genus of calanoid copepods that serves as an important component 
 - [[PrimaryProductivityCAtTwinLake_12652]]
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[CalorificEquivalentsForStudies_18098]]
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Diaptomus Albuquerquensis
 <!-- fm: auto_enriched: true -->
@@ -7292,6 +7421,9 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
 ### Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -7333,6 +7465,7 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 - [[PartICurrentSituationPartIiAPr_13306]]
 - [[GreenRiverRareAndEndangeredFis_13060]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[ChangesInTheFishPopulationsInT_20462]]
 
 ## Dinosaur National Park
 <!-- fm: auto_enriched: true -->
@@ -7619,6 +7752,18 @@ The Dipper is an aquatic bird species that depends on streamside vegetation in t
 
 ### Mentioned In
 - [[LiteratureReviewAndImpactRepor_14988]]
+
+## Dipsosaurus dorsalis
+
+### Summary
+Dipsosaurus dorsalis is a desert lizard species. Jones conducted comparative biogeographic work on this species as part of his broader research examining patterns of historical differentiation in insularly distributed organisms across the southwestern United States, comparing patterns with those found in tiger salamanders.
+
+### Context
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
+### Mentioned In
+- [[LetterRequestingLetterOfRecomm_19844]]
 
 ## Diptera
 <!-- fm: auto_enriched: true -->
@@ -9111,6 +9256,18 @@ Douglas is a location in the San Bernardino Valley region where climate data was
 ### Mentioned In
 - [[PredationByIntroducedFishesOnE_1997]]
 
+## Douglas County
+
+### Summary
+Douglas County is located approximately 100 miles northeast of Greenwood County in Kansas. Every molluscan species found in Greenwood County was also known from Douglas County, suggesting relatively uniform molluscan distribution across eastern Kansas despite the latitudinal separation.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Douglas Forsyth
 
 ### Summary
@@ -9295,6 +9452,18 @@ Doze (1925) was among the researchers who made fragmentary contributions to chan
 
 ### Mentioned In
 - [[LetterOnDesertPupfishSamplingL_19160]]
+
+## Dragonflies
+
+### Summary
+Dragonflies are aquatic insects whose nymphs (immature stage) are used as fishing bait and are found in nearly every aquatic situation around lake shores and stream beds. According to this 1939 Michigan source, dragonfly nymphs are distinguishable by their broad, flat bodies, enormous hinged grasping lower jaw with spiny grabhooks, and wing pads that develop externally behind the head; they are hardy swimmers tolerant of oxygen and temperature extremes, making them durable bait.
+
+### Context
+> This 1939 publication from the Michigan Department of Conservation's Institute for Fisheries Research documents the variety of baits used in winter ice fishing and provides detailed identification and collection guidance for aquatic insects and other organisms. The document addresses the growing...
+> -- *[[BaitsUsedInWinterFishing_17383]]*
+
+### Mentioned In
+- [[BaitsUsedInWinterFishing_17383]]
 
 ## Dragonfly Nymphs
 <!-- fm: auto_enriched: true -->

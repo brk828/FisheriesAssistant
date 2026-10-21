@@ -513,8 +513,12 @@ Caddisflies are aquatic insects (genus Hydropsyche and Goera identified in the s
 > This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
 > -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
 
+> This 1939 publication from the Michigan Department of Conservation's Institute for Fisheries Research documents the variety of baits used in winter ice fishing and provides detailed identification and collection guidance for aquatic insects and other organisms. The document addresses the growing...
+> -- *[[BaitsUsedInWinterFishing_17383]]*
+
 ### Mentioned In
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[BaitsUsedInWinterFishing_17383]]
 
 ## Caddisfly Larvae
 <!-- fm: auto_enriched: true -->
@@ -1146,6 +1150,9 @@ In the context of fish science and aquatic ecology, California refers to the geo
 > This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
 > -- *[[PartEndangeredAndThreatenedWil_11612]]*
 
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[RainbowSmeltIntroductionIntoLa_1989]]
@@ -1175,6 +1182,7 @@ In the context of fish science and aquatic ecology, California refers to the geo
 - [[HowToBuildAFarmPondForFishProd_13264]]
 - [[StagesOfDevelopmentOfGulliesIn_16590]]
 - [[PartEndangeredAndThreatenedWil_11612]]
+- [[WaterRightsBibliography_17761]]
 
 ## California Academy Of Sciences
 <!-- fm: auto_enriched: true -->
@@ -1296,6 +1304,18 @@ California Central Valley is a region where water development for hydroelectric 
 
 ### Mentioned In
 - [[ExtensionsOfRangeForBlennioidF_14285]]
+
+## California Department of Fish & Game
+
+### Summary
+The California Department of Fish & Game is a state agency responsible for wildlife management in California. It was one of the seven signatories to the August 1995 Memorandum of Agreement establishing the Lower Colorado River Multi-Species Conservation Program partnership, representing California's fish and wildlife conservation interests in the collaborative effort to conserve habitat and species in the Lower Colorado River floodplain.
+
+### Context
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
+### Mentioned In
+- [[JuneSteeringCommitteeMeetingAn_20943]]
 
 ## California Department Of Fish And Game
 <!-- fm: auto_enriched: true -->
@@ -1909,6 +1929,18 @@ Cambaridae, the crayfish family, is mentioned as an example of regulatory incons
 ### Mentioned In
 - [[RequestByUecToImportAndPossess_18439]]
 
+## Cambarus (Jugicambarus) tartarus
+
+### Summary
+Cambarus (Jugicambarus) tartarus is a newly described troglobitic (cave-dwelling) crayfish species from northeastern Oklahoma, representing the fourth member of the subgenus Jugicambarus known to have adapted to subterranean existence. The species exhibits typical cave adaptations including complete lack of pigmentation, reduced eyes, elongated appendages with conspicuous setae, and an extremely narrow areola; it can be distinguished from related troglobitic species by the short, strongly recurved central projection of the first pleopod that bears a well-defined subapical notch in first form males.
+
+### Context
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
+### Mentioned In
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
+
 ## Cambarus Asperimanus
 <!-- fm: auto_enriched: true -->
 
@@ -1988,8 +2020,12 @@ Cambodia is the geographic location for one of two empirical applications in thi
 > **Core Problem Addressed**: Estimating the size of elusive target populations using dual system (two-source) capture-recapture methods, with focus on improving uncertainty assessment through bootstrap methods when sample sizes are small and asymptotic variance estimates perform poorly....
 > -- *[[TwowayCapturerecaptureMethodsW_2026]]*
 
+> This document presents research findings from [[Auburn University]] Agricultural Experiment Station (begun 1966) on developing cage culture systems for raising [[Channel Catfish]] ([[Ictalurus punctatus]]) from fingerlings to marketable size. The system allows intensive fish culture in previously...
+> -- *[[CageCultureOfChannelCatfish_20574]]*
+
 ### Mentioned In
 - [[TwowayCapturerecaptureMethodsW_2026]]
+- [[CageCultureOfChannelCatfish_20574]]
 
 ## Camelback Mountain
 <!-- fm: auto_enriched: true -->
@@ -2125,8 +2161,13 @@ Campeche is a Mexican state included in the geographic coverage of this climatol
 ## Campeloma
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[NotesOnSomeGastropodsFromNorth_12895]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Campeloma Decisum
 <!-- fm: auto_enriched: true -->
@@ -3430,6 +3471,18 @@ Carangidae is a family of marine and estuarine fishes commonly known as jacks an
 - [[FishResourcesOfDhofarKhawrsCoa_18793]]
 - [[LargeScaleMortalityOfFishAtStL_17668]]
 
+## Caranx ruber
+
+### Summary
+Caranx ruber, commonly known as the bar jack, is a midwater fish species. This source reports that bar jacks were rarely observed soliciting cleaning from Periclimenes cleaner shrimp (only a single instance recorded), and notes that these midwater fishes are instead typically serviced by cleaner fish species like the Spanish hogfish and bluehead.
+
+### Context
+> This study documents the distribution, abundance, and cleaning behavior of [[Periclimenes]] shrimps in [[Lameshur Bay]], [[Virgin Islands]], conducted during the [[Tektite I]] saturation diving mission (February 15–April 15, 1969). The most abundant cleaner shrimp was [[Periclimenes pedersoni]]...
+> -- *[[ResultsOfTheTektiteProgramEcol_17141]]*
+
+### Mentioned In
+- [[ResultsOfTheTektiteProgramEcol_17141]]
+
 ## Carassius
 <!-- fm: auto_enriched: true -->
 
@@ -3839,6 +3892,9 @@ Carl L. Hubbs was a pioneering American ichthyologist and evolutionary biologist
 > This 1929 paper by [[Carl L. Hubbs]] examines the relationship between hydrographic conditions and deep-sea fish fauna in two contrasting isolated marine basins of the Western Pacific: the [[Sea of Japan]] and the [[Sulu Sea]] complex. The study demonstrates how physical barriers (shallow straits)...
 > -- *[[TheHydrographicAndFaunalIndepe_19989]]*
 
+> This document is a reprint of a presentation by [[Carl L. Hubbs]] at the XIV International Congress of Zoology in Copenhagen, 1953, addressing the critical need for stability in zoological nomenclature. Hubbs discusses the controversies arising from the Paris decisions five years prior, reports on...
+> -- *[[WaysOfStabilizingZoologicalNom_20061]]*
+
 ### Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -3853,6 +3909,7 @@ Carl L. Hubbs was a pioneering American ichthyologist and evolutionary biologist
 - [[RefugiaInNevadaForCertainRareA_14193]]
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[TheHydrographicAndFaunalIndepe_19989]]
+- [[WaysOfStabilizingZoologicalNom_20061]]
 
 ## Carl L. Hubbs 1955
 <!-- fm: auto_enriched: true -->
@@ -4029,6 +4086,18 @@ Carlin-Dangler Tags are external fish marking devices that were used extensively
 
 ### Mentioned In
 - [[AStudyToDetermineTheBiological_11576]]
+
+## Carlysle Creek
+
+### Summary
+Carlysle Creek is a location in Greenwood County, Kansas where Station 4 was established on well-drained limestone slopes with mixed hardwoods. The limestone provided calcium-rich conditions favorable for mollusks.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Carmel River
 
@@ -4515,6 +4584,12 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -4649,6 +4724,8 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[SummaryOfEndangeredFishResearc_13612]]
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Carp Control
 <!-- fm: auto_enriched: true -->
@@ -5131,10 +5208,14 @@ The Caspian Sea basin is a major zoogeographic source region whose fish fauna sh
 > This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
 > -- *[[DraftProposedCriteriaForDesign_14776]]*
 
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
 ### Mentioned In
 - [[BiologicalOpinionOnDraftRevise_1993_09_08]]
 - [[BiologicalOpinionOnTheEffectsT_11884]]
 - [[DraftProposedCriteriaForDesign_14776]]
+- [[LatePleistoceneAndRecentErosio_17546]]
 
 ## Castle Lake
 <!-- fm: auto_enriched: true -->
@@ -5374,6 +5455,18 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[DraftRecoveryGoals_11689]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+
+## Cataract Creek
+
+### Summary
+Cataract Creek's location was clarified by the expedition as distinct from Havasu Creek, correcting confusion in previous expedition accounts. This was one of several historical corrections made regarding geographic features and their locations along the Colorado River.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Cataract Dam
 <!-- fm: auto_enriched: true -->
@@ -5823,6 +5916,12 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 > This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
 > -- *[[BriefBographiesOfLeadingIchthy_12677]]*
 
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AListOfOntarioFishes_11321]]
@@ -6048,6 +6147,8 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[BriefBographiesOfLeadingIchthy_12677]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Catostomidae Spawning Ecology
 <!-- fm: auto_enriched: true -->
@@ -6196,8 +6297,12 @@ Catostomus bernardini is a native sucker species (Family Catostomidae) endemic t
 > 1. **New species established:** *Catostomus syncheilus* is formally distinguished from *[[Catostomus catostomus]]* and its close relatives by the **wide union of the lower lips**, permitting multiple papillae rows across the midline (vs. single row in true fine-scaled *catostomus* relatives).
 > -- *[[ANewCatostomidFishFromTheColum_14467]]*
 
+> This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
+> -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
+
 ### Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
+- [[ProvisionalKeyToTheProtolarvae_21239]]
 
 ## Catostomus Clarki
 <!-- fm: auto_enriched: true -->
@@ -6233,10 +6338,14 @@ Catostomus bernardini is a native sucker species (Family Catostomidae) endemic t
 > This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
 > -- *[[EvaluationAndRelativeResistanc_19097]]*
 
+> This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
+> -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
+
 ### Mentioned In
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[LetterToDrDonaldGButhRegarding_1989_12_26]]
 - [[EvaluationAndRelativeResistanc_19097]]
+- [[ProvisionalKeyToTheProtolarvae_21239]]
 
 ## Catostomus Commersonii
 <!-- fm: auto_enriched: true -->
@@ -6298,11 +6407,15 @@ Catostomus discobolus, commonly known as the bluehead sucker, is a native cyprin
 > This document comprises field collection records and museum catalog entries from the [[University of Michigan Museum of Zoology]] (UMMZ) spanning 1934-1978, documenting fish fauna of the [[Colorado River]] basin in [[Coconino County]], [[Arizona]]. The records include handwritten field notes,...
 > -- *[[GrandCanyonFieldNotesFromAndVa_15334]]*
 
+> This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
+> -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
+
 ### Mentioned In
 - [[DraftFishRemainsFromStantonSCa_15373]]
 - [[ReportOnKanabCreekResearchTrip_1993_05_20]]
 - [[ReviewLetterStrawberryValleyEn_14234]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
+- [[ProvisionalKeyToTheProtolarvae_21239]]
 
 ## Catostomus discobolus yarrowi
 
@@ -6475,6 +6588,9 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 > The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
 > -- *[[GilaRiverFishdistributionProje_15844]]*
 
+> This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
+> -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
+
 ### Mentioned In
 - [[CommentsOnAndChangesToAnimalNo_11856]]
 - [[DesertFishesRecoveryTeamMember_1999_01_31]]
@@ -6499,6 +6615,7 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 - [[ColoradoSquawfishAndHumpbackCh_12715]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[GilaRiverFishdistributionProje_15844]]
+- [[ProvisionalKeyToTheProtolarvae_21239]]
 
 ## Catostomus Macrocheilus
 <!-- fm: auto_enriched: true -->
@@ -6539,6 +6656,18 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 
 ### Mentioned In
 - [[AnElectricalSurfaceDeviceForCa_16181]]
+
+## Catostomus platyrhynchus
+
+### Summary
+Catostomus platyrhynchus is the Mountain Sucker, a catostomid species found in the Upper Colorado River System. According to this source, it more commonly inhabits headwater streams and can be distinguished in larval stages by continuous midventral pigmentation extending into the branchial region and prominent peritoneal pigmentation.
+
+### Context
+> This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
+> -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
+
+### Mentioned In
+- [[ProvisionalKeyToTheProtolarvae_21239]]
 
 ## Catostomus plebeius
 <!-- fm: auto_enriched: true -->
@@ -7093,8 +7222,12 @@ CEDO is the organization where Peggy Turk-Boyer conducted a survey of local fish
 > This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
 > -- *[[SummaryOfEvents_18368]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[SummaryOfEvents_18368]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Celebes Sea
 
@@ -7419,6 +7552,9 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 > This 1971 prospectus from [[Arizona State University]]'s [[Colorado River Basin Research Laboratory]] outlines a comprehensive, multi-year research program to assess environmental impacts of the [[Central Arizona Project]] (CAP). The CAP represents one of the most ambitious water transfer projects...
 > -- *[[EnvironmentalImpactsOfTheCentr_15862]]*
 
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
 ### Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -7466,6 +7602,7 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[EnvironmentalImpactsOfTheCentr_15862]]
+- [[IllegalFindingOfNoSignificantI_18971]]
 
 ## Central Arizona Project Canal
 
@@ -7525,12 +7662,16 @@ The Central Arizona Project Canal (CAP Canal) is a major water conveyance system
 > This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
 > -- *[[LetterToCentralArizonaWaterCon_17898]]*
 
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
 ### Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[TinyNativeFishMakeBigSplash_1995_06_06]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[PreliminaryReviewAndAnalysisOf_11672]]
 - [[LetterToCentralArizonaWaterCon_17898]]
+- [[IllegalFindingOfNoSignificantI_18971]]
 
 ## Central Arizona Water Control Study
 
@@ -7874,6 +8015,9 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 > This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
 > -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
 
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AGrowthStudyAndBloodProteinAna_15288]]
@@ -7975,6 +8119,7 @@ Centrarchidae is a family of North American freshwater fishes commonly known as 
 - [[Sunfishes_19212]]
 - [[AChecklistOfTexasFreshwaterFis_19871]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Centriscidae
 <!-- fm: auto_enriched: true -->
@@ -8233,8 +8378,12 @@ Ceriodaphnia is a genus of zooplankton (small aquatic crustaceans). This source 
 > This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
 > -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
 
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
 ### Mentioned In
 - [[AnEcologicalOverviewOfPoecilii_20086]]
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Ceriodaphnia Dubia
 <!-- fm: auto_enriched: true -->
@@ -8714,6 +8863,18 @@ Change-in-ratio is a population estimation method that uses changes in the propo
 ### Mentioned In
 - [[EstimatingAnimalAbundance_X-e15b3990]]
 
+## Changjiang River
+
+### Summary
+The Changjiang River is a major river system in China that supports diverse freshwater fish populations. This source reports that dam construction on this river has fundamentally altered fish habitat, and that production of economic fishes in the Changjiang has declined to very small scales, contributing to the endangerment of multiple species.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## Channel A
 
 ### Summary
@@ -9180,6 +9341,18 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
+> This document presents research findings from [[Auburn University]] Agricultural Experiment Station (begun 1966) on developing cage culture systems for raising [[Channel Catfish]] ([[Ictalurus punctatus]]) from fingerlings to marketable size. The system allows intensive fish culture in previously...
+> -- *[[CageCultureOfChannelCatfish_20574]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -9557,6 +9730,10 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
+- [[AquaticEnvironmentalReportForO_17695]]
+- [[CageCultureOfChannelCatfish_20574]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Channel Catfish Aquaculture
 <!-- fm: auto_enriched: true -->
@@ -11933,6 +12110,18 @@ Chimits was a researcher who in 1955 stated that no serious diseases or parasite
 ### Mentioned In
 - [[RefugeManagementForTheThreaten_1989]]
 
+## China
+
+### Summary
+China is a country with extensive inland water systems supporting more than 800 species of freshwater fishes, including many endemic species and monotypic genera of significant phylogenetic and biogeographic importance. This source documents that 92 species (10% of China's freshwater fish fauna) are endangered due to habitat modification, overfishing, pollution, and other anthropogenic impacts.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## China Lake Naval Weapons Center
 <!-- fm: auto_enriched: true -->
 
@@ -12327,6 +12516,9 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 > This hydrologic report documents groundwater conditions in the [[San Bernardino Valley]] basin, located in southeastern [[Arizona]] (Cochise County) and southwestern [[New Mexico]] (Hidalgo County), encompassing 387 square miles in Arizona. The basin contains the [[San Bernardino Ranch]] area and a...
 > -- *[[MapsShowingGroundwaterConditio_11421]]*
 
+> This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
+> -- *[[ProtectionUpdatePrivateLandown_20666]]*
+
 ### Mentioned In
 - [[AshmunellaAngulataEsuritorLent_18478]]
 - [[ChiricahuaRegionalCouncilNewsl_16142]]
@@ -12340,6 +12532,7 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 - [[EnvironmentalAssessmentAndHabi_11684]]
 - [[TurkeyCreekFisheriesSurveyCoch_17218]]
 - [[MapsShowingGroundwaterConditio_11421]]
+- [[ProtectionUpdatePrivateLandown_20666]]
 
 ## Chiricahua Mountains Aquatic Habitat
 <!-- fm: auto_enriched: true -->
@@ -13635,6 +13828,18 @@ Chum salmon (Oncorhynchus keta) are an anadromous Pacific salmonid species that 
 ### Mentioned In
 - [[PreliminaryLimnologicInformati_1968_12_31]]
 
+## Chuska Mountains
+
+### Summary
+The Chuska Mountains is an area in the Colorado River system where some arroyos were currently aggrading at the time of the study. This region, along with the adjacent Defiance Uplift, exhibited different depositional behavior compared to other parts of the study area.
+
+### Context
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+### Mentioned In
+- [[LatePleistoceneAndRecentErosio_17546]]
+
 ## Chydoridae
 <!-- fm: auto_enriched: true -->
 
@@ -13833,8 +14038,12 @@ CICESE (Centro de Investigación Científica y de Educación Superior de Ensenad
 > This document records proceedings from a May 1999 conference focused on cooperation and conservation in the [[Lower Colorado River Basin]] ecosystem, particularly the [[Colorado River Delta]] region. The meeting brought together diverse stakeholders including tribal representatives (particularly...
 > -- *[[AgendaAttendeesAndSummariesOfP_14401]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[AgendaAttendeesAndSummariesOfP_14401]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Cichla
 
@@ -14729,6 +14938,18 @@ Cities Service Company was one of three active mining companies operating in the
 ### Mentioned In
 - [[CalanoidCopepodsFromSomeOldAri_16013]]
 
+## City of Craig
+
+### Summary
+The City of Craig is one of the entities involved in discussions regarding the acquisition of Juniper-Cross Mountain water rights on the Yampa River. The city was part of ongoing negotiations with the Colorado River Management Group about whether to lease or purchase these water rights valued at $6 million.
+
+### Context
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+### Mentioned In
+- [[SummaryoctoberManagementGroupM_21000]]
+
 ## City of Tucson
 
 ### Summary
@@ -14764,6 +14985,18 @@ The Civilian Conservation Corps was proposed by Maxwell as the training mechanis
 
 ### Mentioned In
 - [[WealthFromWastedWaters_15218]]
+
+## Ciénaga
+
+### Summary
+A ciénaga is a spring-fed wetland habitat type found in the southwestern United States. This source describes conservation efforts at a ciénaga near Patagonia, Arizona, where a private landowner fenced the wetland to exclude cattle, allowing habitat recovery that supports federally listed Gila Topminnow and other rare species including the Huachuca Spring Snail and ciénaga false rush.
+
+### Context
+> This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
+> -- *[[ProtectionUpdatePrivateLandown_20666]]*
+
+### Mentioned In
+- [[ProtectionUpdatePrivateLandown_20666]]
 
 ## Ciénega
 <!-- fm: auto_enriched: true -->
@@ -15498,6 +15731,9 @@ Clear Creek is a drainage system in Illinois that historically supported populat
 > This comprehensive study (1980-1981, with creel data through 1984) assessed the biological impacts of fluctuating water releases from [[Glen Canyon Dam]] on the [[Lee's Ferry]] tailwater trout fishery in Arizona. The 26 km reach below the dam developed into a premier cold-water fishery following...
 > -- *[[FisheryInvestigationOfTheColor_11293]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[DistributionAbundanceAndStatus_14900]]
 - [[NewRecordsDistributionAndStatu_14897]]
@@ -15509,6 +15745,7 @@ Clear Creek is a drainage system in Illinois that historically supported populat
 - [[TheEmbryonicAndEarlyLarvalStag_20681]]
 - [[ReWrittenConcurrenceOnTheFores_11749]]
 - [[FisheryInvestigationOfTheColor_11293]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Clear Creek (Idaho)
 <!-- fm: auto_enriched: true -->
@@ -16309,6 +16546,9 @@ Clupeidae is a large family of ray-finned fishes that includes herrings, sardine
 > This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
 > -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
 
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[AbundanceOfStJohnsRiverShad_1960_03_08]]
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
@@ -16332,6 +16572,7 @@ Clupeidae is a large family of ray-finned fishes that includes herrings, sardine
 - [[StatewideRoughFishControlfishE_14929]]
 - [[InQuestOfTheMayansSequelIiOnCe_16973]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Clupeiformes
 
@@ -16745,6 +16986,9 @@ Cobitidae is a family of small, benthic freshwater fishes commonly known as loac
 > This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
 > -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
 
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
 ### Mentioned In
 - [[AdditionOfMisgurnusAnguillicau_1969]]
 - [[EstablishmentAndEarlyDispersal_20617]]
@@ -16752,6 +16996,7 @@ Cobitidae is a family of small, benthic freshwater fishes commonly known as loac
 - [[PublicationsOfFKrupp_1988]]
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Cobitis
 <!-- fm: auto_enriched: true -->
@@ -17277,6 +17522,18 @@ The Coefficient of Condition is a quantitative index used in fish biology to ass
 
 ### Mentioned In
 - [[DispersionAndDynamicsOfChirono_1965]]
+
+## Coelastrum microporum
+
+### Summary
+Coelastrum microporum is a green algae species that dominated the phytoplankton community in Morgan Lake during June-July 1976 before declining. It was part of the green algae assemblage that gave way to blue-green algae dominance in late summer.
+
+### Context
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
+### Mentioned In
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Coelorhynchus
 
@@ -18089,6 +18346,12 @@ The Colorado River, in the context of fish science and conservation, refers to a
 > This correspondence documents a 1988 exchange between the [[Desert Fishes Council]] (DFC) and the [[U.S. Fish and Wildlife Service]] (FWS) regarding the [[Colorado River Endangered Fishes Recovery Implementation Program]]. The exchange addresses concerns about how DFC's December 9, 1986 review...
 > -- *[[ReSteveLanigansCommentsConcern_14142]]*
 
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
@@ -18109,6 +18372,8 @@ The Colorado River, in the context of fish science and conservation, refers to a
 - [[CarbonBlackIncreasesSnowmeltAn_16800]]
 - [[StagesOfDevelopmentOfGulliesIn_16590]]
 - [[ReSteveLanigansCommentsConcern_14142]]
+- [[WaterRightsBibliography_17761]]
+- [[DraftManagementGroupMeetingSum_17880]]
 
 ## Colorado Alliance of Biodiversity Collections
 
@@ -18146,9 +18411,13 @@ The Colorado Basin (also referred to as Colorado River Basin) is the endemic ran
 > The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
 > -- *[[GilaRiverFishdistributionProje_15844]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[RecoveryPlanForTheHumpbackChub_11544]]
 - [[GilaRiverFishdistributionProje_15844]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Colorado Chub
 
@@ -18285,6 +18554,12 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 > This pre-operational study examined the movements, home ranges, and distribution patterns of [[Lake Trout]] (Salvelinus namaycush) in [[Twin Lakes]], Colorado, between July 1977 and November 1978, prior to the commencement of the [[Mt. Elbert Pumped-Storage Powerplant]]. Using ultrasonic telemetry,...
 > -- *[[MovementsOfLakeTroutInTwinLake_14420]]*
 
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
+> This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
+> -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
+
 ### Mentioned In
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
 - [[ColoradoSquawfishInteragencyTr_1973]]
@@ -18302,6 +18577,8 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 - [[ColoradoSquawfishAndHumpbackCh_12715]]
 - [[FyAnnualProjectReportColoradoR_21244]]
 - [[MovementsOfLakeTroutInTwinLake_14420]]
+- [[ChangesInTheFishPopulationsInT_20462]]
+- [[ProvisionalKeyToTheProtolarvae_21239]]
 
 ## Colorado Endangered Fish Research Program
 <!-- fm: auto_enriched: true -->
@@ -18660,6 +18937,9 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 > This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
 > -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
 
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
 ### Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[CooperativeEcosystemStudiesUni_1999]]
@@ -18675,6 +18955,7 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 - [[OxygenDepletedWatersOriginAndD_19797]]
 - [[SavingColoradosBigRiverFish_20737]]
 - [[GeneticDiversityOfRazorbackSuc_19126]]
+- [[LatePleistoceneAndRecentErosio_17546]]
 
 ## Colorado Plateau Ponds
 <!-- fm: auto_enriched: true -->
@@ -19657,6 +19938,33 @@ The Colorado River is a major southwestern North American river system that serv
 > This 1971 prospectus from [[Arizona State University]]'s [[Colorado River Basin Research Laboratory]] outlines a comprehensive, multi-year research program to assess environmental impacts of the [[Central Arizona Project]] (CAP). The CAP represents one of the most ambitious water transfer projects...
 > -- *[[EnvironmentalImpactsOfTheCentr_15862]]*
 
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -20285,6 +20593,15 @@ The Colorado River is a major southwestern North American river system that serv
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[SolicitationNoSpEntitledInvest_15607]]
 - [[EnvironmentalImpactsOfTheCentr_15862]]
+- [[LatePleistoceneAndRecentErosio_17546]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
+- [[WaterRightsBibliography_17761]]
+- [[DraftManagementGroupMeetingSum_17880]]
+- [[ReportPlanningGroupForTheColor_19473]]
+- [[JuneSteeringCommitteeMeetingAn_20943]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Colorado River (Texas)
 <!-- fm: auto_enriched: true -->
@@ -20739,6 +21056,18 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
 > -- *[[GilaRiverFishdistributionProje_15844]]*
 
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -21134,6 +21463,10 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[UsFishAndWildlifeServiceAuthor_14029]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[GilaRiverFishdistributionProje_15844]]
+- [[SamplingAtAsuResearchParkApril_19429]]
+- [[ReportPlanningGroupForTheColor_19473]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[SummaryaprilManagementGroupMee_20995]]
 
 ## Colorado River Basin Ecology
 <!-- fm: auto_enriched: true -->
@@ -21357,10 +21690,14 @@ The Colorado River Basin States are the seven U.S. states (Arizona, California, 
 > The Lower Colorado River Multi-Species Conservation Program (LCR MSCP) is a proposed 50-year coordinated conservation approach for the [[Lower Colorado River]] basin involving federal, state, tribal, and private stakeholders. The program aims to conserve habitat and work toward recovery of...
 > -- *[[LowerColoradoRiverMultispecies_11766]]*
 
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
 ### Mentioned In
 - [[ColoradoRiverBoardOfCalifornia_1997_07_25]]
 - [[MemorandumOfClarificationOfThe_1995]]
 - [[LowerColoradoRiverMultispecies_11766]]
+- [[JuneSteeringCommitteeMeetingAn_20943]]
 
 ## Colorado River Chub
 <!-- fm: auto_enriched: true -->
@@ -21402,12 +21739,16 @@ The Colorado River Commission is a Nevada state agency that represents Nevada's 
 > This document comprises formal comments submitted by the [[Southern Nevada Water Authority]] (SNWA) to the [[U.S. Bureau of Reclamation]] regarding the [[Fish and Wildlife Service]] Final Biological and Conference Opinion on [[Lower Colorado River]] Operations and Maintenance from [[Lake Mead]] to...
 > -- *[[CommentsOnBiologicalAndConfere_11800]]*
 
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
 ### Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[MemorandumOfClarificationOfThe_1995]]
 - [[RequestForProposalspresubmitta_18342]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[CommentsOnBiologicalAndConfere_11800]]
+- [[JuneSteeringCommitteeMeetingAn_20943]]
 
 ## Colorado River Compact
 <!-- fm: auto_enriched: true -->
@@ -21605,6 +21946,9 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 > This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
 > -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AnalysisOfPenaeidShrimpLanding_16892]]
@@ -21634,6 +21978,7 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 - [[TripReportSamplingOfMexicanPop_14780]]
 - [[WorkshopProceedings_18372]]
 - [[FinalDraftEcosystemPlanForTheL_11674]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Colorado River Delta And Upper Gulf Of California Restoration Project
 <!-- fm: auto_enriched: true -->
@@ -22310,6 +22655,9 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -22346,6 +22694,7 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 - [[WantedForTheFutureTheseNativeF_13295]]
 - [[UsFishAndWildlifeServiceAuthor_14029]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Colorado River Fishes Working Group
 <!-- fm: auto_enriched: true -->
@@ -22523,6 +22872,22 @@ The Colorado River Land Company was controlled by Harry Chandler and held rights
 
 ### Mentioned In
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+
+## Colorado River Management Group
+
+### Summary
+The Colorado River Management Group is a coordinating body that oversees implementation, budget allocation, and policy decisions for the Colorado River Recovery Implementation Program. According to this 1988 meeting summary, the group includes representatives from federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, WAPA), state agencies from Colorado, Utah, and Wyoming, water developers, and The Nature Conservancy, and meets to address funding, work plans, water rights acquisition, endangered fish propagation, and instream flow determinations.
+
+### Context
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+### Mentioned In
+- [[SummaryaprilManagementGroupMee_20995]]
+- [[SummaryoctoberManagementGroupM_21000]]
 
 ## Colorado River Management Work Group
 
@@ -22714,6 +23079,18 @@ The Colorado River Recovery Implementation Program is a comprehensive, multi-age
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held September 13, 1989, in Lakewood, Colorado. The meeting addressed recovery efforts for rare and endangered fish species in the [[Colorado River Basin]], focusing on water...
 > -- *[[ManagementGroupMeetingSummarSe_21019]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[ColoradoRiverImplementationCom_1989_01_31]]
 - [[FirstMeetingOfGeneticsPanel_1993_11_10]]
@@ -22725,6 +23102,10 @@ The Colorado River Recovery Implementation Program is a comprehensive, multi-age
 - [[SummaryjanuaryManagementGroupM_21002]]
 - [[ManagementGroupMeetingSummary_19219]]
 - [[ManagementGroupMeetingSummarSe_21019]]
+- [[DraftManagementGroupMeetingSum_17880]]
+- [[SummaryaprilManagementGroupMee_20995]]
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Colorado River Recovery Program
 <!-- fm: auto_enriched: true -->
@@ -22957,6 +23338,9 @@ The Colorado River Storage Project (CRSP) is a major federal water development i
 > This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
 > -- *[[RealitiesOfProvidingWaterForEn_20669]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[EstablishingAColoradoRiverCons_20111]]
 - [[StationProfileHotchkissNationa_19549]]
@@ -22968,6 +23352,7 @@ The Colorado River Storage Project (CRSP) is a major federal water development i
 - [[PartICurrentSituationPartIiAPr_13306]]
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[RealitiesOfProvidingWaterForEn_20669]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Colorado River Storage Project Act
 <!-- fm: auto_enriched: true -->
@@ -23128,9 +23513,17 @@ The Colorado River Water Conservation District is a state water management entit
 > This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[TowardRangewideIntegrationOfRe_18628]]*
 
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AprilManagementGroupMeetingSum_19221]]
 - [[TowardRangewideIntegrationOfRe_18628]]
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Colorado River Water Council (Crwc)
 <!-- fm: auto_enriched: true -->
@@ -23647,6 +24040,18 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -23975,6 +24380,10 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[GilaRiverFishdistributionProje_15844]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[DraftManagementGroupMeetingSum_17880]]
+- [[ChangesInTheFishPopulationsInT_20462]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Colorado Squawfish Nursery Habitat
 <!-- fm: auto_enriched: true -->
@@ -24056,6 +24465,12 @@ Colorado State University houses the Larval Fish Laboratory, whose biologists pa
 > This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
 > -- *[[FyAnnualProjectReportColoradoR_21244]]*
 
+> This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
+> -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
+
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[EffectsOfElectrofishingFieldsO_15544]]
 - [[EffectsOfElectrofishingFieldsO_15548]]
@@ -24067,6 +24482,8 @@ Colorado State University houses the Larval Fish Laboratory, whose biologists pa
 - [[DevelopmentOfAStandardizedMoni_15549]]
 - [[DraftDocumentimpactsOfElectrof_19691]]
 - [[FyAnnualProjectReportColoradoR_21244]]
+- [[ProvisionalKeyToTheProtolarvae_21239]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Colorado State University Larval Fish Laboratory
 <!-- fm: auto_enriched: true -->
@@ -24124,6 +24541,15 @@ The Colorado Water Conservation Board was conducting a Hatchery Feasibility Stud
 > This FY 1994 summary report documents the annual accomplishments of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program addresses recovery of four federally listed endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[RecoveryImplementationProgramF_11712]]*
 
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
 ### Mentioned In
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[AlternativeApproachesToHcpsFor_16735]]
@@ -24133,6 +24559,9 @@ The Colorado Water Conservation Board was conducting a Hatchery Feasibility Stud
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[ManagementGroupMeetingSummarSe_21019]]
 - [[RecoveryImplementationProgramF_11712]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[SummaryaprilManagementGroupMee_20995]]
+- [[SummaryoctoberManagementGroupM_21000]]
 
 ## Colorado Wildlife Federation
 
@@ -24146,9 +24575,17 @@ The Colorado Wildlife Federation is one of the participating organizations in th
 > This legal brief, filed August 18, 1992, supports a motion for summary judgment compelling the [[U.S. Fish and Wildlife Service]] (FWS) to designate critical habitat for the [[Razorback Sucker]] (*Xyrauchen texanus*) under the [[Endangered Species Act]] (ESA). The [[Colorado Wildlife Federation]]...
 > -- *[[BriefInSupportOfPlaintiffsMoti_18646]]*
 
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[BriefInSupportOfPlaintiffsMoti_18646]]
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Colorado-Big Thompson-Windy Gap
 
@@ -25037,6 +25474,9 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 > This report documents a comprehensive survey of [[Aravaipa Creek]], Arizona, conducted on 20 October 1990 to determine the geographic distribution of introduced [[Red Shiner]] (*Cyprinella lutrensis*), first discovered in the stream in early October 1990. The survey covered approximately 8.0 km...
 > -- *[[SummaryRedShinerSurveyLowerAra_13783]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -25231,6 +25671,7 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[SummaryRedShinerSurveyLowerAra_13783]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Common Chuckwalla
 
@@ -26469,8 +26910,12 @@ The Conservation Genetics Laboratory is a facility that provides genetic analysi
 > - **Setting**: The meeting addressed the entire hydrological continuum from Hoover Dam/Glen Canyon Dam through the [[Lower Colorado River]] mainstem, into the [[Colorado River Delta]], and terminating in the [[Upper Gulf of California Biosphere Reserve]]. - **Institutional context**: Convened joi...
 > -- *[[MeetingOnLowerColoradoRiverCol_1994_11_02]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Conservation Laws
 
@@ -26704,8 +27149,12 @@ Contra Costa County was the top-ranked striped bass county in 1960 with 1,163 fi
 > This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
 > -- *[[MovementsOfInlandAnglersWithin_11325]]*
 
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
 ### Mentioned In
 - [[MovementsOfInlandAnglersWithin_11325]]
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## Contracaecum brachyurum
 
@@ -27067,6 +27516,18 @@ The Coordinated Land Management Plan is a management document completed in 1993 
 
 ### Mentioned In
 - [[BiologicalOpinionOnDraftRevise_1993_09_08]]
+
+## Coordination Act
+
+### Summary
+The Coordination Act of 1934 was federal legislation that contributed to major expansion of the fish hatchery system. Along with the White Act (1930) and Mitchell Act (1934), it led to a peak in hatchery construction between 1934-1960.
+
+### Context
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
+### Mentioned In
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Coordination Act Of 1934
 <!-- fm: auto_enriched: true -->
@@ -27842,6 +28303,18 @@ Coregonus lavaretus maraena is a coregonid fish species studied for aquaculture 
 ### Mentioned In
 - [[DifferentiationInCoregonusZeni_1980]]
 
+## Coregonus ussuriensis
+
+### Summary
+Coregonus ussuriensis is a salmon species found in China. This source lists it as one of six endangered salmon species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## Coregonus Williamsonii
 <!-- fm: auto_enriched: true -->
 
@@ -28241,6 +28714,18 @@ The Cortland Experimental Hatchery in New York was established in summer 1932 as
 
 ### Mentioned In
 - [[ExperimentalFeedingOfAPelleted_11283]]
+
+## Cortland Fish Hatchery
+
+### Summary
+The Cortland Fish Hatchery is a fish production facility located in New York where this experimental study on brown trout reproduction was conducted. The facility maintained brown trout brood stock under controlled conditions, including constant 47°F water temperature for egg incubation, and used both natural and manipulated light regimes to study effects on spawning timing and egg characteristics.
+
+### Context
+> This experimental study investigated how light exposure, diet composition, and spawner age affect the physical and chemical characteristics of [[Brown Trout]] ([[Salmo trutta]]) eggs and fry at the [[Cortland Fish Hatchery]]. Four groups of spawning trout were maintained under different conditions:...
+> -- *[[EffectOfLightDietAndAgeOfSpawn_19154]]*
+
+### Mentioned In
+- [[EffectOfLightDietAndAgeOfSpawn_19154]]
 
 ## Cortland Hatchery
 
@@ -29308,6 +29793,18 @@ Craig Lake is a 122-acre warm-water lake in Branch County, Michigan, connected t
 ### Mentioned In
 - [[FishingInTwelveMichiganLakesUn_16148]]
 
+## Craig Power Plant
+
+### Summary
+The Craig Power Plant is a facility that was proposed as a potential site for constructing a fish hatchery as part of the Yampa River water rights acquisition negotiations. According to this 1988 meeting summary, Colorado state and local officials were receptive to this proposal as an alternative to other water rights arrangements, though the Management Group determined that a feasibility study for the hatchery at this location was premature unless a streamlined approach could be developed.
+
+### Context
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
+### Mentioned In
+- [[SummaryaprilManagementGroupMee_20995]]
+
 ## Craig Power Station
 
 ### Summary
@@ -29329,8 +29826,12 @@ Craigbrook National Fish Hatchery is one of three facilities established between
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Cranberry Lake
 <!-- fm: auto_enriched: true -->
@@ -29415,6 +29916,18 @@ Crangonyx forbesi is an aquatic amphipod that dominates the fauna of Caldwell Ho
 ### Mentioned In
 - [[ZoologieAgricoleEtudeDelLaMorp_11927]]
 
+## Cranoglanis bouderius
+
+### Summary
+Cranoglanis bouderius is a catfish species found in China. This source lists it as one of 11 endangered catfish species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## Crappie
 <!-- fm: auto_enriched: true -->
 
@@ -29470,6 +29983,9 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 > This completion report documents creel census activities conducted across seven regions of Arizona from January to December 1965. The Arizona Game and Fish Department gathered data on fishing success, species composition, angler origin, and fishing methods across multiple lakes including [[Big...
 > -- *[[FisheryInvestigationsInRegionI_12196]]*
 
+> This 1939 publication from the Michigan Department of Conservation's Institute for Fisheries Research documents the variety of baits used in winter ice fishing and provides detailed identification and collection guidance for aquatic insects and other organisms. The document addresses the growing...
+> -- *[[BaitsUsedInWinterFishing_17383]]*
+
 ### Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -29502,6 +30018,7 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 - [[TheEnvironmentalConditionsOfAn_16280]]
 - [[ForageFish_12530]]
 - [[FisheryInvestigationsInRegionI_12196]]
+- [[BaitsUsedInWinterFishing_17383]]
 
 ## Crappies
 <!-- fm: auto_enriched: true -->
@@ -30189,6 +30706,9 @@ Critical habitat refers to specific geographic areas containing physical or biol
 > This correspondence from the [[Maricopa Audubon Society]] to Representative John Shadegg, dated October 31, 1995, addresses concerns regarding proposed federal legislation that would weaken protections for imperiled wildlife. The letter specifically critiques H.R. 2364 (the John Shadegg Endangered...
 > -- *[[FailureToAnswerCorrespondenceH_18973]]*
 
+> This memorandum and Director's Order No. 94, dated February 1993, establishes official [[U.S. Fish and Wildlife Service]] policy regarding the participation of State agencies in activities conducted under the [[Endangered Species Act]] of 1973, as amended. The order clarifies coordination and...
+> -- *[[ParticipationOfStateAgenciesIn_21205]]*
+
 ### Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[BiologicalOpinionOnEmergencyWa_1993_10_20]]
@@ -30212,6 +30732,7 @@ Critical habitat refers to specific geographic areas containing physical or biol
 - [[ExtensionOfPublicCommentPeriod_17380]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
 - [[FailureToAnswerCorrespondenceH_18973]]
+- [[ParticipationOfStateAgenciesIn_21205]]
 
 ## Critical Habitat (Esa)
 <!-- fm: auto_enriched: true -->
@@ -30762,9 +31283,13 @@ Cryptochiton stelleri (Giant Chiton) is a mollusk species currently restricted t
 > This comprehensive study (1980-1981, with creel data through 1984) assessed the biological impacts of fluctuating water releases from [[Glen Canyon Dam]] on the [[Lee's Ferry]] tailwater trout fishery in Arizona. The 26 km reach below the dam developed into a premier cold-water fishery following...
 > -- *[[FisheryInvestigationOfTheColor_11293]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[ThePopulationAndMovementOfFish_1952]]
 - [[FisheryInvestigationOfTheColor_11293]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Crystal Lake
 <!-- fm: auto_enriched: true -->
@@ -31856,8 +32381,13 @@ Cumberland Lake is a freshwater lake in Kentucky that served as one of the colle
 ## Cumberland Plateau
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
 ### Mentioned In
 - [[BiologyOfTheBlacksideDacePhoxi_1981]]
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## Cumberland River
 <!-- fm: auto_enriched: true -->
@@ -32162,6 +32692,9 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 > This comprehensive study (1980-1981, with creel data through 1984) assessed the biological impacts of fluctuating water releases from [[Glen Canyon Dam]] on the [[Lee's Ferry]] tailwater trout fishery in Arizona. The 26 km reach below the dam developed into a premier cold-water fishery following...
 > -- *[[FisheryInvestigationOfTheColor_11293]]*
 
+> This 1965 report documents the introduction of [[Bonneville Cisco]] (*Prosopium gemmiferum*) from [[Bear Lake]] (Utah-Idaho) into [[Lake Tahoe]] (California-Nevada) in January 1964. The introduction aimed to provide forage for [[Lake Trout]] (*Salvelinus namaycush*) in deep waters during summer...
+> -- *[[IntroductionOfTheBonnevilleCis_18820]]*
+
 ### Mentioned In
 - [[APopulationOfDwarfCoastrangeSc_1960]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -32236,6 +32769,7 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 - [[ReactionsToTalkAtAfsMeetingInB_18595]]
 - [[TheUseOfSedativesToReduceManip_20686]]
 - [[FisheryInvestigationOfTheColor_11293]]
+- [[IntroductionOfTheBonnevilleCis_18820]]
 
 ## Cuyahoga River
 <!-- fm: auto_enriched: true -->
@@ -32413,6 +32947,9 @@ Cyclopoida are a group of copepod zooplankton that were one of the three dominan
 > This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
 > -- *[[ReservoirFisheriesInvestigatio_14590]]*
 
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
 ### Mentioned In
 - [[NotesOnTheCalanoidAndCyclopoid_16005]]
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
@@ -32420,6 +32957,7 @@ Cyclopoida are a group of copepod zooplankton that were one of the three dominan
 - [[FishParasites_20804]]
 - [[PrimaryProductivityCAtTwinLake_12652]]
 - [[ReservoirFisheriesInvestigatio_14590]]
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Cyclops bicuspidatus thomasi
 <!-- fm: auto_enriched: true -->
@@ -33053,6 +33591,12 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -33359,6 +33903,8 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[PoisonousInsectsOfArizona_12634]]
 - [[BriefBographiesOfLeadingIchthy_12677]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Cyprinidae Feeding Ecology
 <!-- fm: auto_enriched: true -->
@@ -34469,8 +35015,12 @@ Cyprinodontiformes is an order of small, primarily freshwater and brackish-water
 > - **Identification tools**: Practical dichotomous keys down to family (28 families) and species level, skeleton synonymies, and diagnoses; extended descriptions were deliberately omitted in favor of succinct variational data with external references. - **Illustrations**: Each species account incl...
 > -- *[[BookReviewTheFishesOfIllinois_1979]]*
 
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
 ### Mentioned In
 - [[BookReviewTheFishesOfIllinois_1979]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Cyprinus Carpio
 <!-- fm: auto_enriched: true -->
@@ -34569,11 +35119,28 @@ Cyprinus carpio, commonly known as common carp, is a non-native cyprinid fish sp
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[SurveyOfCarnahanCreekPottawato_15864]]
 
+## Cyprinus megalophthalmus
+
+### Summary
+Cyprinus megalophthalmus is a cyprinid fish found in China. This source lists it among the 52 endangered cyprinid species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## Cyprinus Yilongensis
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
 ### Mentioned In
 - [[BiodiversityProblemsInLakeEcos_11149]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Cyprus Bagdad Copper Company
 

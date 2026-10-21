@@ -557,6 +557,18 @@ Japan is the country where both killifish species documented in this review occu
 - [[TheHydrographicAndFaunalIndepe_19989]]
 - [[BriefBographiesOfLeadingIchthy_12677]]
 
+## Japanese Goby
+
+### Summary
+The Japanese Goby (Acanthogobius flavimanus) is a fish species that became established in San Francisco Bay and the estuarine system through ballast water introduction from ships. Its successful establishment via ship ballast provides a precedent and likely explanation for how eels may have been accidentally introduced to California waters from foreign ports.
+
+### Context
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
+### Mentioned In
+- [[AnguillaRecordedFromCalifornia_19016]]
+
 ## Japanese Livebearing Snail
 <!-- fm: auto_enriched: true -->
 
@@ -683,6 +695,30 @@ Japan is the country where both killifish species documented in this review occu
 
 ### Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
+
+## Jeddito Formation
+
+### Summary
+The Jeddito Formation is a late Pleistocene geological deposit in the Colorado River system area. It contains terrace deposits with diagnostic fossils of large mammals that help establish the chronological framework for the region's geological history.
+
+### Context
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+### Mentioned In
+- [[LatePleistoceneAndRecentErosio_17546]]
+
+## Jeddito Wash
+
+### Summary
+Jeddito Wash is a stream heading below 7,500 feet in the Colorado River system. Unlike higher-elevation streams, it deposited relatively less gravel during Pleistocene time, with locally finer material than Recent alluvium.
+
+### Context
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+### Mentioned In
+- [[LatePleistoceneAndRecentErosio_17546]]
 
 ## Jeff Davis County
 
@@ -847,8 +883,12 @@ Jensen is a geographic reference point in the middle Green River system, associa
 > This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DevelopmentOfAStandardizedMoni_15549]]*
 
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
 ### Mentioned In
 - [[DevelopmentOfAStandardizedMoni_15549]]
+- [[ChangesInTheFishPopulationsInT_20462]]
 
 ## Jensen And Gaufin 1964
 <!-- fm: auto_enriched: true -->
@@ -2405,8 +2445,12 @@ Juniper-Cross Mountain refers to water rights on the Yampa River that were the f
 > This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
 > -- *[[SummaryjanuaryManagementGroupM_21002]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[SummaryjanuaryManagementGroupM_21002]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Juniper-Cross Mountain Project
 

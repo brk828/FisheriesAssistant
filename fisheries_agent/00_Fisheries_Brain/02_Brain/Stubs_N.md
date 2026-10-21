@@ -132,6 +132,18 @@ Nagasaki Bay is a location in southern Japan where Fundulichthys virescens was r
 ### Mentioned In
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
 
+## Naha Formation
+
+### Summary
+The Naha Formation corresponds to Unit 3 of the Recent alluvial sequence in the Colorado River system. It consists of thin-bedded sediments ranging from mud to silty sand with relatively large amounts of carbonaceous material and prominent soil zones, deposited by sluggish streams in swamps with runoff spread across flood plains.
+
+### Context
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+### Mentioned In
+- [[LatePleistoceneAndRecentErosio_17546]]
+
 ## Nahoon River
 <!-- fm: auto_enriched: true -->
 
@@ -597,6 +609,18 @@ Natica chemnitzii is a gastropod mollusk found at Puerto Peñasco, Sonora, Mexic
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
 
+## National Academy of Science
+
+### Summary
+The National Academy of Science conducted a review of Glen Canyon Studies that was being evaluated by the Technical Group for its relevance to the Colorado River endangered fish recovery effort. The Technical Group was tasked with developing peer review recommendations and assessing how the Academy's review might inform the recovery program.
+
+### Context
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+### Mentioned In
+- [[SummaryoctoberManagementGroupM_21000]]
+
 ## National Academy Of Sciences
 <!-- fm: auto_enriched: true -->
 
@@ -897,6 +921,9 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 > Executive Order 13112, issued February 3, 1999, establishes comprehensive federal policy for preventing introduction and controlling spread of [[Invasive Species]] in the [[United States]]. The order creates the [[Invasive Species Council]] co-chaired by the Secretaries of Interior, Agriculture,...
 > -- *[[ExecutiveOrderInvasiveSpeices_13569]]*
 
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
 ### Mentioned In
 - [[BoardOfCountyCommissionersOfTh_11767]]
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
@@ -924,6 +951,7 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 - [[CatronCountyBoardOfCommissione_16056]]
 - [[InteragencyProposalToExamineTh_13018]]
 - [[ExecutiveOrderInvasiveSpeices_13569]]
+- [[IllegalFindingOfNoSignificantI_18971]]
 
 ## National Environmental Protection Act
 <!-- fm: auto_enriched: true -->
@@ -966,6 +994,9 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[CooperativeAgreementColoradoRi_1989_06_30]]
 - [[HassayampaLakeRenova_16653]]
@@ -979,6 +1010,7 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 - [[FiscalYearWorkPlan_11756]]
 - [[AmericanRiversProposalFundingR_17975]]
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## National Fish Hatcheries
 <!-- fm: auto_enriched: true -->
@@ -1246,6 +1278,9 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This document comprises U.S. Fish and Wildlife Service memoranda and guidelines from 1985 establishing standardized procedures for developing and implementing recovery plans for federally listed endangered and threatened species under the Endangered Species Act of 1973, as amended. The guidelines...
 > -- *[[EndangeredAndThreatenedSpecies_15998]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -1275,6 +1310,7 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[ExecutiveSummary_18726]]
 - [[FoodFishfreshAndFrozenProducts_11510]]
 - [[EndangeredAndThreatenedSpecies_15998]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## National Museum
 
@@ -1313,11 +1349,15 @@ The National Museum of Canada is one of three institutions where paratype specim
 > This taxonomic study redescribes the [[Texas Troglobitic Water Slater]], originally described as *Caecidotea smithii* by Ulrich in 1902 from a single incomplete specimen. Based on numerous specimens collected from the [[San Marcos Artesian Well]] beginning in December 1973, the authors establish...
 > -- *[[RedescriptionAndAssignmentToTh_17755]]*
 
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
 ### Mentioned In
 - [[ProvenanceAndDispositionOfFish_16999]]
 - [[RangeOfChriodorus_17137]]
 - [[TheLarvaOfANewSubterraneanWate_16197]]
 - [[RedescriptionAndAssignmentToTh_17755]]
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## National Museum of Natural Sciences
 
@@ -1503,6 +1543,9 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
 > -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
 
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -1582,6 +1625,7 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[DraftColoradoRiverTrophicStudi_14828]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
+- [[ChangesInTheFishPopulationsInT_20462]]
 
 ## National Park Service Resource Management
 <!-- fm: auto_enriched: true -->
@@ -1764,6 +1808,18 @@ National Scenic Areas are special management designations within the California 
 
 ### Mentioned In
 - [[GroupsReachAgreementToRemoveDa_1999_08_23]]
+
+## National Wildlife
+
+### Summary
+National Wildlife is a conservation press outlet. This source lists it as one of the publications that has featured information obtained by the Maricopa Audubon Society through previous FOIA requests, as part of their reach to an estimated 6-7 million people nationally.
+
+### Context
+> This document is a Freedom of Information Act (FOIA) request submitted by the [[Maricopa Audubon Society]] to the [[US Fish and Wildlife Service]] [[Region 2]] on October 7, 1993. The request seeks comprehensive records of exotic (non-native) fish stockings in watersheds and stock ponds within...
+> -- *[[RequestForInformationOnExoticF_18961]]*
+
+### Mentioned In
+- [[RequestForInformationOnExoticF_18961]]
 
 ## National Wildlife Federation
 
@@ -2706,11 +2762,15 @@ Navajo Dam is one of nine potential sites evaluated in the feasibility study for
 > This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
 > -- *[[PartICurrentSituationPartIiAPr_13306]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[DraftcoloradoRiverEndangeredFi_13664]]
 - [[CaseStudyColoradoRiverSqauwfis_16101]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
 - [[PartICurrentSituationPartIiAPr_13306]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Navajo Fish And Game Department
 <!-- fm: auto_enriched: true -->
@@ -2875,6 +2935,9 @@ Navajo Powerplant is a power generation facility that was evaluated as a potenti
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[MemoOnDesertFishesCouncilRevie_1994_05_11]]
 - [[EndangeredAndThreatenedWildlif_11592]]
@@ -2884,6 +2947,7 @@ Navajo Powerplant is a power generation facility that was evaluated as a potenti
 - [[RealitiesOfProvidingWaterForEn_20669]]
 - [[WantedForTheFutureTheseNativeF_13295]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Navajo Tribe
 
@@ -3046,6 +3110,18 @@ NE Windmill is one of 16 existing water sources at San Bernardino National Wildl
 
 ### Mentioned In
 - [[EvaluationOfProposedIntroducti_12261]]
+
+## Nebraska
+
+### Summary
+Nebraska is one of the U.S. states receiving significant geographic coverage in this water rights bibliography. The compilation includes state-specific analyses of Nebraska's water law, reflecting the diverse hydrologic conditions and legal traditions across different regions of the United States during the mid-20th century transition in water resource management.
+
+### Context
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
+### Mentioned In
+- [[WaterRightsBibliography_17761]]
 
 ## Nebraska Game, Forestry And Parks Commission
 <!-- fm: auto_enriched: true -->
@@ -3629,9 +3705,13 @@ The Neosho Mountain Minnow (Pimephales tenellus tenellus) is a subspecies of min
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[StationAllocationsAndFtesForOp_1994_03_29]]
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Neosho River
 <!-- fm: auto_enriched: true -->
@@ -4196,6 +4276,9 @@ The Nevada Division of Wildlife is the state wildlife management agency responsi
 > This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
 > -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
 
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[LetterToJohnRogersRegardingBon_1993_07_01]]
@@ -4205,6 +4288,7 @@ The Nevada Division of Wildlife is the state wildlife management agency responsi
 - [[VirginRiverMonitoringArizonaSu_1994_10_05]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
+- [[JuneSteeringCommitteeMeetingAn_20943]]
 
 ## Nevada Fish and Game Commission
 
@@ -4348,8 +4432,12 @@ A major U.S. fishing region whose ports, particularly Boston and Gloucester, ser
 > This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
 > -- *[[FoodFishfreshAndFrozenProducts_11510]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[FoodFishfreshAndFrozenProducts_11510]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## New England Salmonid Health Guidelines
 <!-- fm: auto_enriched: true -->
@@ -4537,6 +4625,12 @@ The New Mexican Ridge-Nosed Rattlesnake is a listed species that was initially o
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
+> This document is a Freedom of Information Act (FOIA) request submitted by the [[Maricopa Audubon Society]] to the [[US Fish and Wildlife Service]] [[Region 2]] on October 7, 1993. The request seeks comprehensive records of exotic (non-native) fish stockings in watersheds and stock ponds within...
+> -- *[[RequestForInformationOnExoticF_18961]]*
+
 ### Mentioned In
 - [[RainbowSmeltIntroductionIntoLa_1989]]
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
@@ -4560,6 +4654,8 @@ The New Mexican Ridge-Nosed Rattlesnake is a listed species that was initially o
 - [[StagesOfDevelopmentOfGulliesIn_16590]]
 - [[MapsShowingGroundwaterConditio_11421]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[WaterRightsBibliography_17761]]
+- [[RequestForInformationOnExoticF_18961]]
 
 ## New Mexico Department Of Game & Fish
 <!-- fm: auto_enriched: true -->
@@ -6208,6 +6304,18 @@ Noemacheilus amudarjensis is an endemic loach species. This source identifies it
 ### Mentioned In
 - [[GeneticsOfTissueTransplantatio_17874]]
 
+## Noemacheilus gejivensis
+
+### Summary
+Noemacheilus gejivensis is a loach species from the family Cobitidae. This source identifies it as one of the endangered freshwater fish species in China.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## Noemacheilus malapterurus
 
 ### Summary
@@ -7224,8 +7332,12 @@ North American Deserts are arid regions in western North America that contain di
 > This 1947 essay by ichthyologist [[George S. Myers]], published in the *Progressive Fish-Culturist*, is a foundational early critique of uninformed international fish introductions. Myers argues that North American fish-culture agencies routinely recommend [[North American Fishes]] (e.g., largemo...
 > -- *[[ForeignIntroductionsOfNorthAme_15556]]*
 
+> This document is a reprint of a presentation by [[Carl L. Hubbs]] at the XIV International Congress of Zoology in Copenhagen, 1953, addressing the critical need for stability in zoological nomenclature. Hubbs discusses the controversies arising from the Paris decisions five years prior, reports on...
+> -- *[[WaysOfStabilizingZoologicalNom_20061]]*
+
 ### Mentioned In
 - [[ForeignIntroductionsOfNorthAme_15556]]
+- [[WaysOfStabilizingZoologicalNom_20061]]
 
 ## North American Free Trade Agreement
 
@@ -8357,6 +8469,9 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 > This document provides a comprehensive overview of sunfish species (family [[Centrarchidae]]) native to [[New York State]], focusing on three principal species: the [[Pumpkinseed]] (*Lepomis gibbosus*), [[Blue-gill]] (*Lepomis macrochirus*), and [[Red-bellied Sunfish]] (*Lepomis auritus*). The text...
 > -- *[[Sunfishes_19212]]*
 
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -8438,6 +8553,7 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 - [[FishingInTwelveMichiganLakesUn_16148]]
 - [[AntimycinaNewFisheryTool_20243]]
 - [[Sunfishes_19212]]
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Northern Pikeminnow
 <!-- fm: auto_enriched: true -->
@@ -8455,12 +8571,16 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[APopulationOfDwarfCoastrangeSc_1960]]
 - [[RadioactiveMaterialsInAquaticA_13967]]
 - [[SizeAtReleaseSizeselectiveMort_2011]]
 - [[MechanicalSuppressionOfInvasiv_2024]]
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Northern Prairie National Wildlife Research Field Station
 <!-- fm: auto_enriched: true -->
@@ -8638,6 +8758,9 @@ The Northern Squawfish (*Ptychocheilus oregonensis*) is a large native cyprinid 
 > This document comprises a 1990 proposal and preliminary investigation by the [[Larval Fish Laboratory]] at [[Colorado State University]] addressing concerns about electrofishing impacts on fish in [[Grand Canyon National Park]]. The [[National Park Service]] mandated evaluation of electrofishing...
 > -- *[[DraftDocumentimpactsOfElectrof_19691]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[LifeHistoryNotesRelevantToTheC_11254]]
 - [[ReferencesRelatedToRareFishesA_1987_04_12]]
@@ -8645,6 +8768,7 @@ The Northern Squawfish (*Ptychocheilus oregonensis*) is a large native cyprinid 
 - [[TheSacramentoSquawfish_13255]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[DraftDocumentimpactsOfElectrof_19691]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Northern Stargazer
 <!-- fm: auto_enriched: true -->

@@ -206,6 +206,18 @@ A Habitat Conservation Plan (HCP) is a comprehensive, legally binding document r
 - [[ImperialPondsConservationAreaA_2020]]
 - [[TowardRangewideIntegrationOfRe_18628]]
 
+## Habitat Conservation Planning
+
+### Summary
+Habitat Conservation Planning (HCP) is a process under the Endangered Species Act for developing conservation strategies that balance species protection with land use. This source establishes that state agencies will participate in all aspects of the HCP process, contributing their expertise and information throughout the development of these plans.
+
+### Context
+> This memorandum and Director's Order No. 94, dated February 1993, establishes official [[U.S. Fish and Wildlife Service]] policy regarding the participation of State agencies in activities conducted under the [[Endangered Species Act]] of 1973, as amended. The order clarifies coordination and...
+> -- *[[ParticipationOfStateAgenciesIn_21205]]*
+
+### Mentioned In
+- [[ParticipationOfStateAgenciesIn_21205]]
+
 ## Habitat Conservation Plans
 
 ### Summary
@@ -1220,6 +1232,30 @@ Hanagan Creek is a stream in the White Mountains where Apache Trout showed the m
 ### Mentioned In
 - [[AnnualReportOncorhynchusApache_11989]]
 
+## Hance Rapids
+
+### Summary
+Hance Rapids is rapid #6 with a 28-foot fall, described as 'one of the worst on the river.' This was among the most significant of the 52 major rapids numbered and measured during the expedition.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
+## Hance Trail
+
+### Summary
+Hance Trail was a resupply point where the expedition stopped August 16-20, located approximately 76 miles downstream from Lees Ferry. The survey work checked at this location with only +8.2 feet of accumulated error over the 76-mile distance, demonstrating the accuracy of their vertical angle stadia methods.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
 ## Hancza
 
 ### Summary
@@ -1410,6 +1446,18 @@ Haplostephanae is one of two primary sections in the classical division of genus
 ### Mentioned In
 - [[OnANewSpeciesOfCaliforniaEarth_1971_11_04]]
 
+## Haplotrema
+
+### Summary
+Haplotrema is a southern genus of terrestrial gastropods. Despite apparently suitable conditions and drainage patterns in Greenwood County, Kansas, this genus was absent from the survey, along with other southern genera like Goniobasis, Mesomphix, and Polygyra.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Haptoglobin
 <!-- fm: auto_enriched: true -->
 
@@ -1592,10 +1640,14 @@ The Hardy River is a waterway on the western side of the Colorado River Delta wh
 > This historical account describes a December hunting expedition down the [[Colorado River]] from [[Yuma]] and up the [[Hardy River]] in [[Lower California]], Mexico. The party traveled 109 miles down the Colorado and attempted 100 miles up the Hardy to reach volcanoes. While primarily a hunting...
 > -- *[[AHuntingTripDownTheColorado_17597]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[AHuntingTripDownTheColorado_17597]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Hardy-Weinberg Equilibrium
 <!-- fm: auto_enriched: true -->
@@ -1791,6 +1843,18 @@ Harriman Lake is a warm water fishery in Arapahoe County, Colorado, that was inc
 
 ### Mentioned In
 - [[SomeAspectsOfReproductionInThe_13460]]
+
+## Harris Wash
+
+### Summary
+Harris Wash is one of the major drainage areas in the study area of the Colorado River system. It was part of the region investigated for patterns of late Pleistocene and Recent erosion and alluviation.
+
+### Context
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
+### Mentioned In
+- [[LatePleistoceneAndRecentErosio_17546]]
 
 ## Harris' Antelope Squirrel
 
@@ -2606,6 +2670,9 @@ Havasu Creek is a cooler tributary stream within the Grand Canyon that serves as
 > This memorandum from BIO/WEST, Inc. (October 18, 1991) summarizes preliminary findings from the Endangered Fish Research Program studying [[Gila cypha]] (humpback chub) in the mainstem [[Colorado River]] through [[Grand Canyon]]. The research program, conducted in cooperation with the [[U.S. Fish...
 > -- *[[SummaryOfEndangeredFishResearc_13612]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DiscussionOfBiowestSWorkPlan_1991_09_23]]
@@ -2632,6 +2699,7 @@ Havasu Creek is a cooler tributary stream within the Grand Canyon that serves as
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[FisheryInvestigationOfTheColor_11293]]
 - [[SummaryOfEndangeredFishResearc_13612]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Havasu Division
 
@@ -2766,6 +2834,18 @@ Haverhill is a location in Massachusetts, USA. This source identifies Lake Salto
 - [[EndangeredAndThreatenedWildlif_11596]]
 - [[EndangeredAndThreatenedWildlif_11739]]
 - [[PartEndangeredAndThreatenedWil_11612]]
+
+## Hawaiia minuscula
+
+### Summary
+Hawaiia minuscula is a terrestrial gastropod species that occurs in both woodlands and open grasslands. This species was documented from Greenwood County, Kansas as part of the terrestrial gastropod fauna.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Hawaiian Islands
 
@@ -3339,6 +3419,18 @@ Helisoma is a genus of freshwater snails that serves as the first intermediate h
 ### Mentioned In
 - [[SomeDistributionRecordsForLoui_12899]]
 
+## Helisoma antrosa
+
+### Summary
+Helisoma antrosa is an aquatic gastropod in the family Planorbidae that prefers clean running water compared to the more ubiquitous Helisoma trivolvis. This species was documented from Greenwood County, Kansas.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Helisoma Trivolvis
 <!-- fm: auto_enriched: true -->
 
@@ -3352,10 +3444,14 @@ Helisoma is a genus of freshwater snails that serves as the first intermediate h
 > This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
 > -- *[[FishParasites_20804]]*
 
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[ContrastsAmongCalanoidCopepods_16016]]
 - [[NotesOnSomeGastropodsFromNorth_12895]]
 - [[FishParasites_20804]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Helix Aspersa
 <!-- fm: auto_enriched: true -->
@@ -3674,6 +3770,18 @@ Henderson is a location where public scoping meetings for the LCR MSCP were sche
 
 ### Mentioned In
 - [[EvaluationOfPPDdtAsAReferenceT_14436]]
+
+## Hendersonia occulta
+
+### Summary
+Hendersonia occulta is a terrestrial gastropod notorious for its erratic, local distribution. It was not found in Greenwood County, Kansas, during this survey despite searches for it.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Hendrickson And Minckley 1984
 <!-- fm: auto_enriched: true -->
@@ -4540,11 +4648,15 @@ Heterostichus rostratus is the giant kelpfish, a species that commonly enters ve
 > This study examined winter food habits of [[Pikeperch]] (Stizostedion vitreum) in [[Oneida Lake]], New York during the winters of 1951-52 and 1952-53. Of 143 pikeperch stomachs collected via ice-fishing, 78.3% were empty—nearly double the empty-stomach rate reported for summer and fall periods in...
 > -- *[[WinterFoodHabitsOfPikeperchInO_16899]]*
 
+> This 1939 publication from the Michigan Department of Conservation's Institute for Fisheries Research documents the variety of baits used in winter ice fishing and provides detailed identification and collection guidance for aquatic insects and other organisms. The document addresses the growing...
+> -- *[[BaitsUsedInWinterFishing_17383]]*
+
 ### Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
 - [[WinterFoodHabitsOfPikeperchInO_16899]]
+- [[BaitsUsedInWinterFishing_17383]]
 
 ## Hexagenia Bilineata
 <!-- fm: auto_enriched: true -->
@@ -4716,6 +4828,18 @@ Hidden Water Spring is a natural spring in Arizona that served as a Gila Topminn
 ### Mentioned In
 - [[DraftProposedCriteriaForDesign_14776]]
 
+## High Country News
+
+### Summary
+High Country News is a publication outlet. This source lists it as one of the publications that has featured information obtained by the Maricopa Audubon Society through previous FOIA requests, demonstrating the organization's track record of disseminating government information to the public.
+
+### Context
+> This document is a Freedom of Information Act (FOIA) request submitted by the [[Maricopa Audubon Society]] to the [[US Fish and Wildlife Service]] [[Region 2]] on October 7, 1993. The request seeks comprehensive records of exotic (non-native) fish stockings in watersheds and stock ponds within...
+> -- *[[RequestForInformationOnExoticF_18961]]*
+
+### Mentioned In
+- [[RequestForInformationOnExoticF_18961]]
+
 ## high hat
 
 ### Context
@@ -4795,6 +4919,18 @@ The Highfin Sucker (Carpiodes velifer velifer) is one of eighteen species former
 
 ### Mentioned In
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+
+## Highland Rim
+
+### Summary
+The Highland Rim is a physiographic region mentioned as part of the geographic range of epigean (surface-dwelling) relatives of the troglobitic Jugicambarus lineage. Stream-dwelling members of this lineage occur on the Cumberland Plateau, Highland Rim, and southern Appalachians.
+
+### Context
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
+### Mentioned In
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## Highline
 
@@ -5978,6 +6114,30 @@ Honeybees are widespread stinging insects in Arizona that thrive in desert condi
 
 ### Mentioned In
 - [[PoisonousInsectsOfArizona_12634]]
+
+## Honeymoon Campground
+
+### Summary
+Honeymoon Campground is a location on Eagle Creek in Greenlee County, Arizona that serves as an important reference point for fisheries surveys. The area below this campground, particularly at a road crossing, historically supported the only known recent population of the federally threatened Loach Minnow in Eagle Creek, though habitat modifications at this crossing have degraded conditions to the point where the species no longer occupies that specific site.
+
+### Context
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+### Mentioned In
+- [[EagleCreekGreenleeCountyArizon_17216]]
+
+## Honker Cut
+
+### Summary
+Honker Cut is a waterway in the Sacramento-San Joaquin Delta located approximately 15 miles northwest of Stockton, California. An American Eel (Anguilla rostrata) specimen was captured near Honker Cut and Disappointment Slough in June 1964, representing one of the first confirmed records of true eels in California waters.
+
+### Context
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
+### Mentioned In
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## Honshu
 <!-- fm: auto_enriched: true -->
@@ -7244,6 +7404,18 @@ The Huachuca Mountains represent a critical "sky island" mountain range in south
 - [[ListOfAnimalSpeciesInArizonaTh_11649]]
 - [[StatusReportLilaeopsisSchaffne_14909]]
 
+## Huachuca Spring Snail
+
+### Summary
+The Huachuca Spring Snail is a rare aquatic species found in spring-fed wetland habitats in Arizona. This source identifies it as one of three rare species (along with Gila Topminnow and ciénaga false rush) benefiting from habitat protection efforts at a ciénaga wetland near Patagonia, where cattle exclusion fencing has been installed to allow habitat recovery.
+
+### Context
+> This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
+> -- *[[ProtectionUpdatePrivateLandown_20666]]*
+
+### Mentioned In
+- [[ProtectionUpdatePrivateLandown_20666]]
+
 ## Huachuca Springsnail
 <!-- fm: auto_enriched: true -->
 
@@ -8000,8 +8172,25 @@ Hubbs and Lagler 1958 refers to a seminal taxonomic and identification guide for
 ## Hucho Bleekeri
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
 ### Mentioned In
 - [[BiodiversityProblemsInLakeEcos_11149]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
+## Hucho taimen
+
+### Summary
+Hucho taimen is a salmon species found in China. This source lists it as one of six endangered salmon species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Hudson Bay
 
@@ -8711,6 +8900,18 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
 > -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -9220,6 +9421,10 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[DraftColoradoRiverTrophicStudi_14828]]
 - [[DraftCritsMeetingNotesAndNewsl_14829]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
+- [[DraftManagementGroupMeetingSum_17880]]
+- [[ChangesInTheFishPopulationsInT_20462]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Humpback Chub Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -9533,8 +9738,13 @@ Hurricane Bridge is a geographic reference point and hydrological monitoring loc
 ## Huso Dauricus
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
 ### Mentioned In
 - [[ARecordOfAGreatSiberianSturgeo_1994]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Hutchinson (1967)
 <!-- fm: auto_enriched: true -->

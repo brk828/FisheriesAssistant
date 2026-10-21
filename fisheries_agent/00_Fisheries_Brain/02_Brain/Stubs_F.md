@@ -311,6 +311,18 @@ Fall Chinook Salmon are a specific run or population of Chinook salmon (Oncorhyn
 ### Mentioned In
 - [[RecordsOfThreeCyprinidFishesFr_11996]]
 
+## Fall River
+
+### Summary
+Fall River is one of the major streams draining Greenwood County, Kansas, along with the Verdigris River and their tributaries. Collections from Fall River were prevented during this survey due to near-flood conditions, though the floodplain near Fall River town (Station 2) was heavily timbered with deep leaf mold and supported extremely abundant populations of terrestrial snails.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Fallen Leaf Lake
 <!-- fm: auto_enriched: true -->
 
@@ -714,6 +726,12 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This third annual progress report documents the fisheries and limnological investigation of [[Lake Powell]] from February 1965 to January 1966, during the reservoir's early filling phase. The study, financed under Section 8 of the Colorado River Storage Act, was conducted cooperatively by the Utah...
 > -- *[[GlenCanyonReservoirPostimpound_14587]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -861,6 +879,8 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[GlenCanyonReservoirPostimpound_14587]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
+- [[SamplingAtAsuResearchParkApril_19429]]
 
 ## Fathead Minnows
 
@@ -1207,6 +1227,18 @@ The Federal Land Policy and Management Act (FLPMA) of October 21, 1976 (43 U.S.C
 
 ### Mentioned In
 - [[SpecialStatusSpeciesManagement_11467]]
+
+## Federal Power Commission
+
+### Summary
+The Federal Power Commission was a federal agency whose licensing authority over water resources is addressed in this bibliography. The compilation includes extensive coverage of the Commission's relationship to state water law systems and its role in federal-state conflicts over water rights and navigable waters.
+
+### Context
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
+### Mentioned In
+- [[WaterRightsBibliography_17761]]
 
 ## Federal Project
 <!-- fm: auto_enriched: true -->
@@ -2238,6 +2270,22 @@ The Fish and Wildlife Coordination Act is a federal statute that requires federa
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 
+## Fish and Wildlife Foundation
+
+### Summary
+The Fish and Wildlife Foundation is an organization being utilized as a funding mechanism for the Colorado River Recovery Implementation Program. The U.S. Fish and Wildlife Service was pursuing mechanisms to transfer Section 7 contributed funds and donated funds to the Foundation, with recommendations that future appropriations should contain language directing the Foundation to administer water rights acquisition funds.
+
+### Context
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
+### Mentioned In
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
+
 ## Fish And Wildlife Management Assistance
 <!-- fm: auto_enriched: true -->
 
@@ -2394,6 +2442,9 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -2451,6 +2502,7 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[DraftProposedCriteriaForDesign_14776]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[SummaryoctoberManagementGroupM_21000]]
 
 ## Fish Anesthesia
 <!-- fm: auto_enriched: true -->
@@ -4594,6 +4646,18 @@ Fisheries Management encompasses the science and practice of sustainably regulat
 ### Mentioned In
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
 
+## Fisheries of the Upper Gulf
+
+### Summary
+Fisheries of the Upper Gulf refers to the fishing activities and fish populations in the Upper Gulf of California region. This planning document identifies these fisheries as one of the scientific and biological concerns requiring attention within the proposed task force's research agenda for the Colorado River Delta ecosystem.
+
+### Context
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
+### Mentioned In
+- [[ReportPlanningGroupForTheColor_19473]]
+
 ## Fisheries Policy
 
 ### Summary
@@ -5112,10 +5176,14 @@ Flagstaff is a city in northern Arizona located in an area of high elevation. Th
 > This memorandum documents the planning and agenda for a National Research Council Water Science and Technology Board committee meeting scheduled for October 9-11, 1991, in [[Flagstaff]], [[Arizona]]. The committee was convened to review the [[Glen Canyon Environmental Studies]] (GCES) program, with...
 > -- *[[AgendaAndOtherInformationForUp_13959]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[LectureNotesFromBiologyClass_13784]]
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[AgendaAndOtherInformationForUp_13959]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Flagstaff Project
 <!-- fm: auto_enriched: true -->
@@ -5188,6 +5256,15 @@ Flagstaff is a city in northern Arizona located in an area of high elevation. Th
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
 ### Mentioned In
 - [[FyProjectReportWetlandsRestora_1993]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
@@ -5209,6 +5286,9 @@ Flagstaff is a city in northern Arizona located in an area of high elevation. Th
 - [[ReactionsToTalkAtAfsMeetingInB_18595]]
 - [[ReSteveLanigansCommentsConcern_14142]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[DraftManagementGroupMeetingSum_17880]]
+- [[SummaryaprilManagementGroupMee_20995]]
+- [[SummaryoctoberManagementGroupM_21000]]
 
 ## Flaming Gorge Biological Opinion
 
@@ -5361,6 +5441,15 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -5440,6 +5529,9 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[DevelopmentOfAStandardizedMoni_15549]]
 - [[RecoveryImplementationProgramF_11712]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[DraftManagementGroupMeetingSum_17880]]
+- [[ChangesInTheFishPopulationsInT_20462]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Flaming Gorge Flow Investigations
 
@@ -5512,6 +5604,9 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 > This U.S. Fish and Wildlife Service document from January 1979 describes the status and conservation efforts for four native fish species of the [[Colorado River]] system that have declined dramatically due to habitat modification. The [[Colorado River Fishes Recovery Team]], formed in 1974, seeks...
 > -- *[[WantedForTheFutureTheseNativeF_13295]]*
 
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
 ### Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[MeasuresToImproveSportFishingA_1962]]
@@ -5527,6 +5622,7 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[RealitiesOfProvidingWaterForEn_20669]]
 - [[WantedForTheFutureTheseNativeF_13295]]
+- [[CivilActionNoFColoradoWildlife_20991]]
 
 ## Flaming Gorge Unit
 <!-- fm: auto_enriched: true -->
@@ -5743,6 +5839,12 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
 > -- *[[GilaRiverFishdistributionProje_15844]]*
 
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -5910,6 +6012,8 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 - [[SummaryOfEndangeredFishResearc_13612]]
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[GilaRiverFishdistributionProje_15844]]
+- [[ChangesInTheFishPopulationsInT_20462]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Flash Creek
 <!-- fm: auto_enriched: true -->
@@ -6381,10 +6485,14 @@ Flint Creek is a freshwater stream in Ontario County, New York, from which the n
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[DistributionHabitatAndAbundanc_1959]]
 - [[NewDistributionalRecordsForThr_1959]]
 - [[WhatHaveICaught_12929]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Flint Hills Ecoregion
 <!-- fm: auto_enriched: true -->
@@ -6493,6 +6601,18 @@ The Flooded Bottom Lands Restoration Program is a recovery initiative for endang
 
 ### Mentioned In
 - [[MemorandumOnFyWorkPlanForTheRe_1998_01_06]]
+
+## Flooded Bottomlands
+
+### Summary
+Flooded bottomlands are shallow, periodically inundated areas along river margins that provide critical habitat for fish species. According to this source, flooded bottomlands are considered essential for Razorback Sucker recovery because they provide abundant food in the form of zooplankton and offer protection from predators and competitors. The Recovery Implementation Program is working to restore access to these habitats through projects like one near Jensen, Utah on the Green River, and plans to inventory flooded bottomlands throughout the basin in 1993-1994 for potential acquisition, restoration, and management.
+
+### Context
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+### Mentioned In
+- [[CivilActionNoFColoradoWildlife_20991]]
 
 ## Floodplain Bottomland Habitat
 <!-- fm: auto_enriched: true -->
@@ -6677,6 +6797,12 @@ Florida represents a critical geographic region in ichthyological and conservati
 > This 1971 publication by J. F. Fitzpatrick, Jr. and Horton H. Hobbs, Jr. describes *Procambarus lylei*, a new species of crawfish from the [[Spiculifer Group]] of the genus [[Procambarus]]. The species was discovered in [[Calhoun County]], [[Mississippi]], within the [[Yalobusha River]] drainage...
 > -- *[[ANewCrayfishOfTheSpiculiferGro_16434]]*
 
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
 ### Mentioned In
 - [[ASystematicAndGeographicalStud_1961]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -6686,6 +6812,8 @@ Florida represents a critical geographic region in ichthyological and conservati
 - [[NewSpeciesOfCheumatopsycheFrom_21085]]
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[ANewCrayfishOfTheSpiculiferGro_16434]]
+- [[WaterRightsBibliography_17761]]
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## Florida Bass
 <!-- fm: auto_enriched: true -->
@@ -7207,8 +7335,12 @@ Fontana Lake is an impoundment constructed in 1944 on the Little Tennessee River
 > - **Historic habitat**: The pristine [[Colorado River]] system (comprising the Colorado, [[Green River]], [[Gunnison River]], and [[San Juan River]]) was a continuum from cold, clear, erosional Rocky Mountain headwaters to warm, turbid, depositional lower reaches — the latter being the core habit...
 > -- *[[MemoOnDesertFishesCouncilRevie_1994_05_11]]*
 
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[MemoOnDesertFishesCouncilRevie_1994_05_11]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Fontinalis
 
@@ -8347,6 +8479,30 @@ Fragilaria is a diatom genus that was one of the most prevalent phytoplankton or
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[FurtherStudiesOnTheMetalimneti_15723]]
 
+## Fragilaria crotonensis
+
+### Summary
+Fragilaria crotonensis is a diatom species that was present in moderate numbers in Morgan Lake only in June 1976, then was absent or restricted to bottom waters thereafter. This decline coincided with increasing silica concentrations as temperature-sensitive diatom populations decreased during the summer warming period.
+
+### Context
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
+### Mentioned In
+- [[AquaticEnvironmentalReportForO_17695]]
+
+## Franceia ovalis
+
+### Summary
+Franceia ovalis is a green algae species that was among the dominant phytoplankton in Morgan Lake during June-July 1976. Like other green algae species, it declined after July as blue-green algae became the dominant phytoplankton group in late summer.
+
+### Context
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
+### Mentioned In
+- [[AquaticEnvironmentalReportForO_17695]]
+
 ## Frances N. Clark
 <!-- fm: auto_enriched: true -->
 
@@ -8379,6 +8535,18 @@ Francis Day (1829-1889) served as Inspector General of Fisheries in India and wa
 ### Mentioned In
 - [[BriefBographiesOfLeadingIchthy_12677]]
 
+## Francis Hemming
+
+### Summary
+Francis Hemming served as Secretary of the International Commission on Zoological Nomenclature and was responsible for organizing the Colloquium on Zoological Nomenclature that preceded the XIV International Congress of Zoology. Hubbs particularly acknowledges Hemming's work in bringing together this important meeting that helped resolve nomenclatural controversies.
+
+### Context
+> This document is a reprint of a presentation by [[Carl L. Hubbs]] at the XIV International Congress of Zoology in Copenhagen, 1953, addressing the critical need for stability in zoological nomenclature. Hubbs discusses the controversies arising from the Paris decisions five years prior, reports on...
+> -- *[[WaysOfStabilizingZoologicalNom_20061]]*
+
+### Mentioned In
+- [[WaysOfStabilizingZoologicalNom_20061]]
+
 ## Frank A. Stefanich
 <!-- fm: auto_enriched: true -->
 
@@ -8410,6 +8578,18 @@ Francis Day (1829-1889) served as Inspector General of Fisheries in India and wa
 
 ### Mentioned In
 - [[EvaluationOfDesertPupfishRecov_19158]]
+
+## Frankham and Loebel
+
+### Summary
+Frankham and Loebel (1992) documented that domestication in hatcheries reduces the fitness of fish under natural conditions. Their research was cited as evidence that hatchery operations themselves can harm native fish populations through genetic changes that occur during captive breeding.
+
+### Context
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
+### Mentioned In
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Frankham Et Al 1986
 <!-- fm: auto_enriched: true -->
@@ -8818,6 +8998,9 @@ The freshwater drum (Aplodinotus grunniens) is a benthic-feeding cypriniform fis
 > This 1959 Federal Aid to Fisheries report (Project F-10-R) documents comprehensive pre-impoundment fish population surveys of seven Kentucky streams scheduled for dam construction by the U.S. Army Corps of Engineers. Between 1956-1958, personnel from the Kentucky Department of Fish and Wildlife...
 > -- *[[PreimpoundmentSurveysOfSixKent_13033]]*
 
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -8848,6 +9031,7 @@ The freshwater drum (Aplodinotus grunniens) is a benthic-feeding cypriniform fis
 - [[StatewideRoughFishControljobNo_14932]]
 - [[StatewideRoughRishControlJobNo_19049]]
 - [[PreimpoundmentSurveysOfSixKent_13033]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Freshwater Drum Life History
 <!-- fm: auto_enriched: true -->
@@ -9577,8 +9761,12 @@ Friends of PRONATURA is a U.S.-based conservation organization founded in 1986 t
 > This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
 > -- *[[BuildingSuccessfulPartnerships_13226]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[BuildingSuccessfulPartnerships_13226]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Frillfin Goby
 <!-- fm: auto_enriched: true -->
@@ -10487,8 +10675,13 @@ Fundulus zebrinus, commonly known as the plains killifish, is a small cyprinodon
 ## Fusconaia Flava
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[TheBlacktailRedhorseMoxostomaP_1984]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Fuzzy Set Theory
 <!-- fm: auto_enriched: true -->

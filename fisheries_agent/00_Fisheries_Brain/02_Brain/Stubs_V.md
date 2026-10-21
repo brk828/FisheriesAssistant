@@ -667,9 +667,13 @@ This source conducts extensive variational analysis using meristic characters in
 > This document comprises field collection records and museum catalog entries from the [[University of Michigan Museum of Zoology]] (UMMZ) spanning 1934-1978, documenting fish fauna of the [[Colorado River]] basin in [[Coconino County]], [[Arizona]]. The records include handwritten field notes,...
 > -- *[[GrandCanyonFieldNotesFromAndVa_15334]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Vaterite
 <!-- fm: auto_enriched: true -->
@@ -1190,6 +1194,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
+> -- *[[ProtectionUpdatePrivateLandown_20666]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1330,6 +1337,7 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[ReviewOfTheDraftReportEntitled_12981]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[ProtectionUpdatePrivateLandown_20666]]
 
 ## Verde River Aquatic Ecology
 
@@ -1397,9 +1405,13 @@ Verdigris River is a Kansas waterway where Spotted Sucker was most common along 
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[WhatHaveICaught_12929]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Verduin 1960
 <!-- fm: auto_enriched: true -->
@@ -1650,6 +1662,18 @@ Vernon County, Wisconsin was the location of stream trials testing antimycin's e
 
 ### Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
+
+## Vertigo
+
+### Summary
+Vertigo is a genus of minute terrestrial snails. Though not found during this survey of Greenwood County, Kansas, the authors note it is likely present in the area, along with other expected genera like Campeloma and Amnicola that were not collected.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Vespertilionidae
 <!-- fm: auto_enriched: true -->
@@ -2959,6 +2983,18 @@ The Visayan Sea is one of the associated inland waters included in the Sulu Sea 
 ### Mentioned In
 - [[TheEffectOfTemperatureOnTheAcu_1967]]
 
+## Vishnu Quadrangle
+
+### Summary
+Vishnu Quadrangle is a topographic map by Evans and Matthes that the expedition validated as exceptionally accurate, finding only slight discrepancies in minor details. This demonstrated the high quality of previous mapping work in the Grand Canyon region.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
 ## Visual Census Methodology
 <!-- fm: auto_enriched: true -->
 
@@ -3224,6 +3260,18 @@ Volvox is a genus of phytoplankton (colonial green algae) that commonly blooms i
 
 ### Mentioned In
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+
+## Von Bayer
+
+### Summary
+The Von Bayer method is a technique developed in 1910 for measuring fish egg diameter, which uses a conversion table to determine size. In this study, the Von Bayer method was used to measure brown trout egg diameters, with three replicate measurements taken per sample and then averaged to assess differences between experimental groups.
+
+### Context
+> This experimental study investigated how light exposure, diet composition, and spawner age affect the physical and chemical characteristics of [[Brown Trout]] ([[Salmo trutta]]) eggs and fry at the [[Cortland Fish Hatchery]]. Four groups of spawning trout were maintained under different conditions:...
+> -- *[[EffectOfLightDietAndAgeOfSpawn_19154]]*
+
+### Mentioned In
+- [[EffectOfLightDietAndAgeOfSpawn_19154]]
 
 ## Von Bayer Technique
 <!-- fm: auto_enriched: true -->

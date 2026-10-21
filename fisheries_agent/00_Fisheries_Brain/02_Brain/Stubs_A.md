@@ -409,8 +409,13 @@ Acanthocyclops vernalis is a copepod that underwent mass reproduction in carp po
 ## Acanthogobius Flavimanus
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
 ### Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## Acanthomysis Awatchensis
 <!-- fm: auto_enriched: true -->
@@ -651,6 +656,18 @@ Acipenser brevirostrum is the Shortnose Sturgeon, documented as a range extensio
 ### Mentioned In
 - [[ProvisionalChecklistOfCanadian_21104]]
 
+## Acipenser dabryanus
+
+### Summary
+Acipenser dabryanus is a sturgeon species found in China. This source lists it as one of five endangered sturgeon species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## Acipenser Fulvescens
 <!-- fm: auto_enriched: true -->
 
@@ -691,6 +708,30 @@ Acipenser nudiventris is a sturgeon species found in the Amu Darya basin of Afgh
 
 ### Mentioned In
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+
+## Acipenser schrencki
+
+### Summary
+Acipenser schrencki is a sturgeon species found in China. This source lists it as one of five endangered sturgeon species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
+## Acipenser sinensis
+
+### Summary
+Acipenser sinensis, the Chinese sturgeon, is a migratory species whose reproductive cycle depends on access to specific spawning areas. This source reports that dam construction on the Changjiang River, particularly the Gezhouba Dam and Three Gorges Dam, has profoundly impacted its reproduction and growth by blocking migration routes and eliminating spawning areas.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Acipenser stellatus
 
@@ -760,6 +801,12 @@ Acipenseridae is the family of true sturgeons, ancient anadromous fish character
 > This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
 > -- *[[PartEndangeredAndThreatenedWil_11612]]*
 
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -787,6 +834,8 @@ Acipenseridae is the family of true sturgeons, ancient anadromous fish character
 - [[CodeOfFederalRegulationsPartEn_11616]]
 - [[ListOfFishesReportedFromKansas_18026]]
 - [[PartEndangeredAndThreatenedWil_11612]]
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Acmaea atrata
 
@@ -2660,6 +2709,18 @@ Albert G. Friend was an author affiliated with the Robert A. Taft Sanitary Engin
 ### Mentioned In
 - [[LetterFromDeanAHendricksonToCa_1990_01_09]]
 
+## Albuquerque Journal
+
+### Summary
+The Albuquerque Journal is a regional newspaper outlet. This source lists it as one of the publications that has featured information obtained by the Maricopa Audubon Society through previous FOIA requests, demonstrating the organization's track record of disseminating government information to the public.
+
+### Context
+> This document is a Freedom of Information Act (FOIA) request submitted by the [[Maricopa Audubon Society]] to the [[US Fish and Wildlife Service]] [[Region 2]] on October 7, 1993. The request seeks comprehensive records of exotic (non-native) fish stockings in watersheds and stock ponds within...
+> -- *[[RequestForInformationOnExoticF_18961]]*
+
+### Mentioned In
+- [[RequestForInformationOnExoticF_18961]]
+
 ## Alburnellus Megalops
 <!-- fm: auto_enriched: true -->
 
@@ -2821,6 +2882,18 @@ Alchesay National Fish Hatchery is a U.S. Fish & Wildlife Service facility locat
 
 ### Mentioned In
 - [[ScorpionPreservationForTaxonom_1968]]
+
+## Alcove Brook
+
+### Summary
+Alcove Brook is a sampling station on the Green River positioned between Flaming Gorge Dam and the Yampa River confluence. After the 1978 dam inlet modifications, this station experienced increased species diversity and successful warm water fish reproduction, with documented spawning of Speckled Dace, roundtail chub, redside shiner, fathead minnow, red shiner, Bluehead Sucker, Flannelmouth Sucker, and white sucker by 1979, though reproductive success declined somewhat in 1980 possibly due to flow influences from the dam.
+
+### Context
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
+### Mentioned In
+- [[ChangesInTheFishPopulationsInT_20462]]
 
 ## Alder
 <!-- fm: auto_enriched: true -->
@@ -4407,6 +4480,18 @@ The Amazonian Province is a distinct biogeographic region that is separated from
 ### Mentioned In
 - [[ReBylasGambusiaAffinisHealthEx_12697]]
 
+## Amblema costata
+
+### Summary
+Amblema costata is a unionid mussel found numerously at West Creek (Station 6) in Greenwood County, Kansas. The specimens showed atypical ridge development, tending toward the characteristics of A. peruviana.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Amblema neisleni
 
 ### Summary
@@ -4586,11 +4671,51 @@ Ambystoma californiense is the California tiger salamander, an amphibian species
 > This management plan proposes the establishment of the "Sierra San Luis" Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in northwestern Mexico along the border with the United States. The area spans the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]]...
 > -- *[[ManagementPlanSierraSanLuisWil_18303]]*
 
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
 ### Mentioned In
 - [[PathogensAsAFactorLimitingTheS_1991]]
 - [[RioMagdalenaBasinFishSurveyTra_1986_11_24]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
 - [[ManagementPlanSierraSanLuisWil_18303]]
+- [[LetterRequestingLetterOfRecomm_19844]]
+
+## Ambystoma tigrinum californiense
+
+### Summary
+Ambystoma tigrinum californiense is the California tiger salamander, a subspecies of tiger salamander. Jones investigated intraspecific genetic variation and cladogenesis (evolutionary splitting) in this subspecies and documented its systematic status as part of his broader research on tiger salamander systematics in the southwestern United States.
+
+### Context
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
+### Mentioned In
+- [[LetterRequestingLetterOfRecomm_19844]]
+
+## Ambystoma tigrinum mavortium
+
+### Summary
+Ambystoma tigrinum mavortium is a subspecies of tiger salamander found in the southwestern United States. Jones analyzed a hybrid zone between this subspecies and Ambystoma tigrinum nebulosum in central New Mexico using genetic markers to understand patterns of genetic variation and subspecies interactions.
+
+### Context
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
+### Mentioned In
+- [[LetterRequestingLetterOfRecomm_19844]]
+
+## Ambystoma tigrinum nebulosum
+
+### Summary
+Ambystoma tigrinum nebulosum is a subspecies of tiger salamander. Jones studied a hybrid zone between this subspecies and Ambystoma tigrinum mavortium in central New Mexico, using genetic markers to examine patterns of genetic variation where the two subspecies meet and interbreed.
+
+### Context
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
+### Mentioned In
+- [[LetterRequestingLetterOfRecomm_19844]]
 
 ## Ambystoma Tigrinum Stebbinsi
 <!-- fm: auto_enriched: true -->
@@ -4599,8 +4724,12 @@ Ambystoma californiense is the California tiger salamander, an amphibian species
 > On January 6, 1997, the U.S. Fish and Wildlife Service (USFWS) published a final rule listing the **Sonora tiger salamander** (*[[Ambystoma tigrinum stebbinsi]]*), the **Huachuca water umbel** (*[[Lilaeopsis schaffneriana ssp. recurva]]*), and the **Canelo Hills ladies'-tresses** (*[[Spiranthes d...
 > -- *[[FinalRuleToListTheHuachucaWate_1997_01_08]]*
 
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
 ### Mentioned In
 - [[FinalRuleToListTheHuachucaWate_1997_01_08]]
+- [[LetterRequestingLetterOfRecomm_19844]]
 
 ## Ambystoma tigrinum stebbinsii
 
@@ -5324,6 +5453,18 @@ American Rivers is a conservation organization that has played a significant rol
 - [[AmericanRiversProposalFundingR_17975]]
 - [[GilaRiverFishdistributionProje_15844]]
 
+## American Rivers Association
+
+### Summary
+American Rivers Association is one of the participating organizations involved in the binational planning effort for the Colorado River Delta and Upper Gulf of California ecosystem. The organization was among the numerous academic, governmental, and non-governmental entities from both the United States and Mexico that contributed to developing the task force proposal in 1996.
+
+### Context
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
+### Mentioned In
+- [[ReportPlanningGroupForTheColor_19473]]
+
 ## American Samoa
 
 ### Summary
@@ -5601,6 +5742,9 @@ Amiidae is a family of primitive holostean fishes represented by the single livi
 > This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
 > -- *[[ListOfFishesReportedFromKansas_18026]]*
 
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[BiIchthyologyFirstLectureExami_1999]]
@@ -5608,6 +5752,7 @@ Amiidae is a family of primitive holostean fishes represented by the single livi
 - [[Kontinentalverschiebungstheori_1954]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[ListOfFishesReportedFromKansas_18026]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Amino Acid Supplementation
 <!-- fm: auto_enriched: true -->
@@ -5864,6 +6009,18 @@ Ammonium sulfamate is a relatively low-toxicity herbicide used in fishery manage
 
 ### Mentioned In
 - [[TheEcologyOfSmallMammalsAtSara_12881]]
+
+## Amnicola
+
+### Summary
+Amnicola is a genus of small aquatic snails (gastropods). This survey of Greenwood County, Kansas did not find any Amnicola species, though the authors note it was an expected genus that is likely present in the area but was not collected during their limited sampling effort.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Amnicolidae
 <!-- fm: auto_enriched: true -->
@@ -6896,11 +7053,15 @@ Anguilla anguilla, commonly known as the European eel, is a catadromous fish spe
 > This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
 > -- *[[Eel_14169]]*
 
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
 ### Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 - [[DiskussionsbeitragÜberProbleme_1961]]
 - [[EffectsOfElectricCurrentOnFish_20855]]
 - [[Eel_14169]]
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## Anguilla Bicolor Bicolor
 <!-- fm: auto_enriched: true -->
@@ -7013,6 +7174,9 @@ Anguilla rostrata, commonly known as the American eel, is a catadromous fish spe
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
 ### Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 - [[NocturnalTerrestrialHabitsOfTh_1955_08_19]]
@@ -7023,6 +7187,7 @@ Anguilla rostrata, commonly known as the American eel, is a catadromous fish spe
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## Anguillavus Bathshebae
 <!-- fm: auto_enriched: true -->
@@ -7059,6 +7224,9 @@ Anguillidae is a family of catadromous freshwater eels that exhibit complex diad
 > This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
 > -- *[[DistributionalAndLocalVernacul_13815]]*
 
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
 ### Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
@@ -7068,6 +7236,7 @@ Anguillidae is a family of catadromous freshwater eels that exhibit complex diad
 - [[FreshwaterFishesOfTheEasternAr_18569]]
 - [[Eel_14169]]
 - [[DistributionalAndLocalVernacul_13815]]
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## Anguilliformes
 <!-- fm: auto_enriched: true -->
@@ -7101,9 +7270,13 @@ Anguillidae is a family of catadromous freshwater eels that exhibit complex diad
 > - **Aquatic/freshwater gastropods**: [[Campeloma Decisum]], [[Viviparus Intertextus]], [[Lymnaea Columella]], [[Physa Anatina]], [[Helisoma Anceps]], [[Oxytrema Alveare]] (noted as "typical downstream forms") - **Terrestrial land snails**: [[Stenotrema Leai Aliciae]], [[Mesodon Thyroidus]], [[Mes...
 > -- *[[SomeDistributionRecordsForLoui_12899]]*
 
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[NotesOnSomeGastropodsFromNorth_12895]]
 - [[SomeDistributionRecordsForLoui_12899]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Angus And Schultz 1983
 <!-- fm: auto_enriched: true -->
@@ -7147,11 +7320,15 @@ The Animas River is a tributary in the Colorado River Basin identified as import
 > This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
 > -- *[[FormalReviewcrticialHabitatOfT_20672]]*
 
+> This geological survey documents five cycles of downcutting and alluviation during the Pleistocene in the [[Colorado River]] basin, with total Quaternary cutting between 800 and 1,500 feet and late Pleistocene to Recent cutting between 100 and 300 feet. The study identifies five Recent alluvial...
+> -- *[[LatePleistoceneAndRecentErosio_17546]]*
+
 ### Mentioned In
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[FishAndWildlifeServiceIssuesDr_20983]]
 - [[ColoradoSquawfishPtychocheilus_13278]]
 - [[FormalReviewcrticialHabitatOfT_20672]]
+- [[LatePleistoceneAndRecentErosio_17546]]
 
 ## Animas Valley
 
@@ -7204,6 +7381,9 @@ The Animas-La Plata Project was undergoing Section 7 Consultation as of February
 > This legal notice, dated October 25, 1991, from the [[Sierra Club Legal Defense Fund]] formally notifies the U.S. Secretary of the Interior and the [[Bureau of Reclamation]] of violations of the [[Endangered Species Act]] (ESA) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*). The notice...
 > -- *[[NoticeOfViolationOfTheEsaConce_18645]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
 ### Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[DesertFishesCouncilLetterToSec_1990_06_06]]
@@ -7212,6 +7392,7 @@ The Animas-La Plata Project was undergoing Section 7 Consultation as of February
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[ManagementGroupMeetingSummary_19219]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
+- [[DraftManagementGroupMeetingSum_17880]]
 
 ## Animas-LaPlata Project
 
@@ -7350,6 +7531,18 @@ Ann McLuckie was a University of Arizona graduate student who conducted desert t
 
 ### Mentioned In
 - [[FreshwaterMollusksCollectedByT_13490]]
+
+## Anodonta grandis
+
+### Summary
+Anodonta grandis is a freshwater mussel in the family Unionidae. This species was found in West Creek, Greenwood County, Kansas, among the 16 unionid species recorded from the stream.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Anodonta Imbecillis
 <!-- fm: auto_enriched: true -->
@@ -8423,6 +8616,30 @@ Apex-Compton Coal Company was one of three coal companies that donated strip-lan
 ### Mentioned In
 - [[ToxicFreshWaterAlgae_14366]]
 
+## Aphanizomenon ovalisporum
+
+### Summary
+Aphanizomenon ovalisporum is a blue-green algae species that was one of the dominant phytoplankton in Morgan Lake during late summer 1976. It comprised the greatest proportion of blue-green algae along with Aphanocapsa delicatissima and Lyngbya sp., contributing to peak densities exceeding 90,000 cells per milliliter in October.
+
+### Context
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
+### Mentioned In
+- [[AquaticEnvironmentalReportForO_17695]]
+
+## Aphanocapsa delicatissima
+
+### Summary
+Aphanocapsa delicatissima is a blue-green algae species that dominated the late summer phytoplankton community in Morgan Lake in 1976. Along with Aphanizomenon ovalisporum and Lyngbya sp., it comprised the greatest proportion of blue-green algae, with populations showing consistently higher densities in the hot canal than in the lake, documenting their warm-tolerant nature.
+
+### Context
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
+### Mentioned In
+- [[AquaticEnvironmentalReportForO_17695]]
+
 ## Aphanomyces Astaci
 <!-- fm: auto_enriched: true -->
 
@@ -8676,6 +8893,18 @@ Appalachia is a geographic region in the eastern United States that contains imp
 
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
+
+## Appalachians
+
+### Summary
+The Appalachians (specifically the southern Appalachians) are mentioned as part of the geographic range of epigean relatives of the troglobitic Jugicambarus lineage. Stream-dwelling members of this lineage occur on the Cumberland Plateau, Highland Rim, and southern Appalachians.
+
+### Context
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
+### Mentioned In
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## Appalachicola Discontinuity
 
@@ -11071,6 +11300,15 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
+> This document is a Freedom of Information Act (FOIA) request submitted by the [[Maricopa Audubon Society]] to the [[US Fish and Wildlife Service]] [[Region 2]] on October 7, 1993. The request seeks comprehensive records of exotic (non-native) fish stockings in watersheds and stock ponds within...
+> -- *[[RequestForInformationOnExoticF_18961]]*
+
 ### Mentioned In
 - [[AuthorizationLetterForGilaTopm_1990_11_21]]
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
@@ -11128,6 +11366,9 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[MapsShowingGroundwaterConditio_11421]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
+- [[WaterRightsBibliography_17761]]
+- [[RequestForInformationOnExoticF_18961]]
 
 ## Arizona Academy of Science
 
@@ -11370,6 +11611,18 @@ The Arizona Cotton Rat (Sigmodon arizonae) is a nocturnal rodent that showed hig
 ### Mentioned In
 - [[ReportOnTheSurveyOfTheMammalsO_11840]]
 
+## Arizona Daily Star
+
+### Summary
+The Arizona Daily Star is a regional newspaper outlet. This source lists it as one of the publications that has featured information obtained by the Maricopa Audubon Society through previous FOIA requests, demonstrating the organization's track record of disseminating government information to the public.
+
+### Context
+> This document is a Freedom of Information Act (FOIA) request submitted by the [[Maricopa Audubon Society]] to the [[US Fish and Wildlife Service]] [[Region 2]] on October 7, 1993. The request seeks comprehensive records of exotic (non-native) fish stockings in watersheds and stock ponds within...
+> -- *[[RequestForInformationOnExoticF_18961]]*
+
+### Mentioned In
+- [[RequestForInformationOnExoticF_18961]]
+
 ## Arizona Department of Agriculture
 
 ### Summary
@@ -11404,6 +11657,9 @@ The Arizona Department of Agriculture is a state agency participating in the mul
 > This comprehensive directory, published by the Commission on the Arizona Environment in 1987, catalogs businesses, organizations, and agencies concerned with environmental resources in Arizona. The document provides contact information and descriptions for over 200 entities across multiple sectors...
 > -- *[[ArizonaEnvironmentalAndResourc_17454]]*
 
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
 ### Mentioned In
 - [[LetterAppointingWendellMinckle_1993_05_18]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
@@ -11412,6 +11668,7 @@ The Arizona Department of Agriculture is a state agency participating in the mul
 - [[TheKlondykeTailingsAndAravaipa_14554]]
 - [[EnvironmentalAssessmentForNati_13228]]
 - [[ArizonaEnvironmentalAndResourc_17454]]
+- [[IllegalFindingOfNoSignificantI_18971]]
 
 ## Arizona Department Of Game And Fish
 <!-- fm: auto_enriched: true -->
@@ -11497,12 +11754,16 @@ The Arizona Department of Health Services Laboratory was the facility that recei
 > This comprehensive directory, published by the Commission on the Arizona Environment in 1987, catalogs businesses, organizations, and agencies concerned with environmental resources in Arizona. The document provides contact information and descriptions for over 200 entities across multiple sectors...
 > -- *[[ArizonaEnvironmentalAndResourc_17454]]*
 
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
 ### Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
 - [[ArizonaDepartmentOfWaterResour_18960]]
 - [[ArizonaEnvironmentalAndResourc_17454]]
+- [[JuneSteeringCommitteeMeetingAn_20943]]
 
 ## Arizona Desert Wilderness Act Of 1990
 <!-- fm: auto_enriched: true -->
@@ -11674,6 +11935,18 @@ Arizona Flycasters' Club is an organization that promotes flyfishing and conserv
 
 ### Mentioned In
 - [[ArizonaEnvironmentalAndResourc_17454]]
+
+## Arizona Game & Fish Commission
+
+### Summary
+The Arizona Game & Fish Commission is a state agency responsible for wildlife management in Arizona. It was one of the seven signatories to the August 1995 Memorandum of Agreement that formalized the partnership for the Lower Colorado River Multi-Species Conservation Program, representing Arizona's interests in fish and wildlife conservation alongside the Arizona Department of Water Resources.
+
+### Context
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
+### Mentioned In
+- [[JuneSteeringCommitteeMeetingAn_20943]]
 
 ## Arizona Game & Fish Department
 <!-- fm: auto_enriched: true -->
@@ -12138,6 +12411,9 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > This correspondence from the [[Arizona Game and Fish Department]] to Dr. W. L. Minckley dated June 26, 1992, responds to a request for fish survey records from [[Coconino National Forest]]. The letter describes the Department's data management systems for fish survey information, which are...
 > -- *[[ReFishSurveyRecordsCoconinoNat_16905]]*
 
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -12421,6 +12697,7 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[DraftColoradoRiverTrophicStudi_14828]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[ReFishSurveyRecordsCoconinoNat_16905]]
+- [[LetterRequestingLetterOfRecomm_19844]]
 
 ## Arizona Game And Fish Department Research Contracts
 <!-- fm: auto_enriched: true -->
@@ -12656,9 +12933,13 @@ The Arizona Natural Heritage Program was one of the cooperating organizations in
 > This correspondence from the [[U.S. Forest Service]] [[Coronado National Forest]] summarizes a March 1989 work session regarding management of the [[Bog Hole]] in the [[San Rafael Valley]], Arizona. The meeting brought together representatives from [[Arizona Game and Fish Department]], [[U.S. Fish...
 > -- *[[BogHoleProjectMeetingSummary_12749]]*
 
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
 ### Mentioned In
 - [[MinutesOfTheFebruaryDesertFish_1992_04_20]]
 - [[BogHoleProjectMeetingSummary_12749]]
+- [[LetterRequestingLetterOfRecomm_19844]]
 
 ## Arizona Nature Conservancy Hassayampa Preserve
 
@@ -12741,6 +13022,18 @@ Arizona Queen of the Night (Peniocereus greggii) is a cryptic cactus species of 
 
 ### Mentioned In
 - [[PapagoParkMilitaryReservationB_13351]]
+
+## Arizona Republic
+
+### Summary
+The Arizona Republic is a regional newspaper outlet. This source lists it as one of the publications that has featured information obtained by the Maricopa Audubon Society through previous FOIA requests, demonstrating the organization's track record of disseminating government information to the public.
+
+### Context
+> This document is a Freedom of Information Act (FOIA) request submitted by the [[Maricopa Audubon Society]] to the [[US Fish and Wildlife Service]] [[Region 2]] on October 7, 1993. The request seeks comprehensive records of exotic (non-native) fish stockings in watersheds and stock ponds within...
+> -- *[[RequestForInformationOnExoticF_18961]]*
+
+### Mentioned In
+- [[RequestForInformationOnExoticF_18961]]
 
 ## Arizona Revised Statute
 
@@ -13129,6 +13422,15 @@ Arizona State University is a major research institution that has played a signi
 > This 1971 prospectus from [[Arizona State University]]'s [[Colorado River Basin Research Laboratory]] outlines a comprehensive, multi-year research program to assess environmental impacts of the [[Central Arizona Project]] (CAP). The CAP represents one of the most ambitious water transfer projects...
 > -- *[[EnvironmentalImpactsOfTheCentr_15862]]*
 
+> A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
+> -- *[[EagleCreekGreenleeCountyArizon_17216]]*
+
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -13342,6 +13644,9 @@ Arizona State University is a major research institution that has played a signi
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[SolicitationNoSpEntitledInvest_15607]]
 - [[EnvironmentalImpactsOfTheCentr_15862]]
+- [[EagleCreekGreenleeCountyArizon_17216]]
+- [[ReportPlanningGroupForTheColor_19473]]
+- [[LetterRequestingLetterOfRecomm_19844]]
 
 ## Arizona State University (Asu)
 <!-- fm: auto_enriched: true -->
@@ -13736,10 +14041,14 @@ The Arizona Zoological Society is the organization that operates The Phoenix Zoo
 > This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
 > -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
 
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
 ### Mentioned In
 - [[AnOccurrenceOfBranchiuraSowerb_16007]]
 - [[TheSpawningBehaviorOfTheChanne_15949]]
 - [[TheUseOfChannelCatfishAsSportF_18662]]
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## Arkansas Darter
 <!-- fm: auto_enriched: true -->
@@ -13802,8 +14111,13 @@ The Arkansas River represents a significant interjurisdictional aquatic system i
 ## Arkansas River Basin
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
 ### Mentioned In
 - [[NewLocalityRecordsForSomeKansa_1981]]
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## Arkansas River Basin (Kansas)
 <!-- fm: auto_enriched: true -->
@@ -15375,6 +15689,18 @@ Aspen is a deciduous tree genus that serves as an early successional species. Th
 ### Mentioned In
 - [[LectureNotesFromBiologyClass_13784]]
 
+## Aspinall
+
+### Summary
+The Aspinall Unit refers to a series of dams on the Colorado River system that affect endangered fish habitat through flow regime alterations. According to this 1990 meeting summary, a consultation work plan for the Aspinall was identified as a research priority but was not initially funded in the FY-91 budget, though it was later added using Section 7 consultation funds.
+
+### Context
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+### Mentioned In
+- [[DraftManagementGroupMeetingSum_17880]]
+
 ## Aspinall Unit
 <!-- fm: auto_enriched: true -->
 
@@ -15421,6 +15747,15 @@ The Aspinall Unit refers to a series of four large federal hydroelectric dams an
 > This FY 1994 summary report documents the annual accomplishments of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program addresses recovery of four federally listed endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[RecoveryImplementationProgramF_11712]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[InterestGroupParticipationInTh_1994_08_05]]
 - [[RoundtableDiscussionOnStreamfl_1994_12_22]]
@@ -15436,6 +15771,9 @@ The Aspinall Unit refers to a series of four large federal hydroelectric dams an
 - [[AspinalUnitStudiesEvaluationOf_20259]]
 - [[FiscalYearWorkPlan_11742]]
 - [[RecoveryImplementationProgramF_11712]]
+- [[DraftManagementGroupMeetingSum_17880]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Aspiolucius
 
@@ -15448,6 +15786,18 @@ Aspiolucius is an endemic fish genus found in the Amu Darya basin. This source l
 
 ### Mentioned In
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+
+## Aspiorhynchus laticeps
+
+### Summary
+Aspiorhynchus laticeps is an endemic fish species that was native to Bosten River in China. This source reports that it went extinct following the introduction of European perch (Perca fluviatilis) from the Erqisi River, as the introduced species with superior adaptive capacity monopolized the niche and eliminated this native species.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Aspius aspius taeniatus
 
@@ -15788,6 +16138,18 @@ Astyanax mexicanus is a small characin fish native to Mexico that has become a s
 - [[GeneticDifferentiationAmongSub_18497]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 
+## ASU Genetics Collection
+
+### Summary
+The ASU Genetics Collection is a facility that maintains stocks of endangered native fish species from the Colorado River Basin. According to this source, young Colorado Squawfish (Ptychocheilus lucius) were stocked into the ASU Research Park lakes from this collection, indicating it serves as a source population for conservation and research purposes.
+
+### Context
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
+### Mentioned In
+- [[SamplingAtAsuResearchParkApril_19429]]
+
 ## Asu Karsten Golf Course
 <!-- fm: auto_enriched: true -->
 
@@ -15841,6 +16203,9 @@ The ASU Research Park is an experimental facility in central Arizona that served
 > This article documents the critical endangerment of three native Arizona fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen texanus*)—that were once so abundant in the [[Colorado River]] Valley that settlers...
 > -- *[[WantedEndangeredArizonaFishesF_12618]]*
 
+> This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
+> -- *[[SamplingAtAsuResearchParkApril_19429]]*
+
 ### Mentioned In
 - [[AsuResearchParkYoungOfYearFish_1993_08_02]]
 - [[ColoradoSquawfishAndBonytailCh_1986_10_08]]
@@ -15854,6 +16219,7 @@ The ASU Research Park is an experimental facility in central Arizona that served
 - [[PalmLakenativeFishStatus_20905]]
 - [[SamplingAtAsuResearchParkAutum_19458]]
 - [[WantedEndangeredArizonaFishesF_12618]]
+- [[SamplingAtAsuResearchParkApril_19429]]
 
 ## Asu Research Park Ponds
 <!-- fm: auto_enriched: true -->
@@ -16221,6 +16587,12 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 > This 1964 experimental study by Herbert and Wakeford at the [[Water Pollution Research Laboratory]] investigated how salinity affects the toxicity of [[Zinc Sulphate]] to [[Atlantic Salmon]] smolts and yearling [[Rainbow Trout]]. The research addresses a critical management question: how to assess...
 > -- *[[TheSusceptibilityOfSalmonidFis_16704]]*
 
+> This experimental study investigated how light exposure, diet composition, and spawner age affect the physical and chemical characteristics of [[Brown Trout]] ([[Salmo trutta]]) eggs and fry at the [[Cortland Fish Hatchery]]. Four groups of spawning trout were maintained under different conditions:...
+> -- *[[EffectOfLightDietAndAgeOfSpawn_19154]]*
+
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
+> -- *[[ReportOfTheNationalFishHatcher_20169]]*
+
 ### Mentioned In
 - [[BerkshireNationalFishHatcheryS_19579]]
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
@@ -16260,6 +16632,8 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 - [[SalmonInNewYork_19216]]
 - [[FishAndFishEggDistributionRepo_13434]]
 - [[TheSusceptibilityOfSalmonidFis_16704]]
+- [[EffectOfLightDietAndAgeOfSpawn_19154]]
+- [[ReportOfTheNationalFishHatcher_20169]]
 
 ## Atlantic Salmon Commission
 <!-- fm: auto_enriched: true -->
@@ -16618,6 +16992,9 @@ Auburn No. 2 Pellets is a commercial fish feed used in the white catfish product
 > This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
 > -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
 
+> This document presents research findings from [[Auburn University]] Agricultural Experiment Station (begun 1966) on developing cage culture systems for raising [[Channel Catfish]] ([[Ictalurus punctatus]]) from fingerlings to marketable size. The system allows intensive fish culture in previously...
+> -- *[[CageCultureOfChannelCatfish_20574]]*
+
 ### Mentioned In
 - [[ExperimentsOnCommercialFishPro_15109]]
 - [[OverATonOfChannelCatfishPerAcr_18668]]
@@ -16631,6 +17008,7 @@ Auburn No. 2 Pellets is a commercial fish feed used in the white catfish product
 - [[TheToxicityOfNoxfishAndPronoxf_20370]]
 - [[NutritionInCommercialCatfishcu_16217]]
 - [[TheUseOfChannelCatfishAsSportF_18662]]
+- [[CageCultureOfChannelCatfish_20574]]
 
 ## Auburn, Alabama
 

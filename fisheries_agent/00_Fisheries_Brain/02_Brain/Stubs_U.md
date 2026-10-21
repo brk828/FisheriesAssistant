@@ -53,6 +53,9 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 > This job completion report documents a preimpoundment chemical treatment of [[Navarro Mills Reservoir]] in western [[Navarro County]], Texas, conducted March 18-19, 1963. The treatment aimed to remove the existing native fish population, which consisted of 83% rough fish, prior to restocking with...
 > -- *[[StatewideRoughFishControljobNo_14932]]*
 
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
 ### Mentioned In
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
@@ -70,6 +73,7 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 - [[MissouriansToHelpShapeFutureOf_11242]]
 - [[BiologicalOpinionSummaryBlueRi_11685]]
 - [[StatewideRoughFishControljobNo_14932]]
+- [[IllegalFindingOfNoSignificantI_18971]]
 
 ## U.S. Atomic Energy Commission
 
@@ -403,10 +407,14 @@ The U.S. Department of Agriculture is a federal agency that issued warnings abou
 > The [[Arizona Fishery Resources Office]] (AzFRO) successfully restored [[Gila Topminnow]] habitat at the Bylas Springs complex on the [[San Carlos Indian Reservation]] through a multi-agency partnership. The project addressed the near-extinction of [[Poeciliopsis occidentalis occidentalis]], once...
 > -- *[[NewFishHabitatRestorationAndPa_11759]]*
 
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
 ### Mentioned In
 - [[ConsultationRequirementsForSpe_14815]]
 - [[GilaMorphometry_19079]]
 - [[NewFishHabitatRestorationAndPa_11759]]
+- [[JuneSteeringCommitteeMeetingAn_20943]]
 
 ## U.S. Fish and Wildlife Refuge
 
@@ -946,6 +954,24 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This document comprises U.S. Fish and Wildlife Service memoranda and guidelines from 1985 establishing standardized procedures for developing and implementing recovery plans for federally listed endangered and threatened species under the Endangered Species Act of 1973, as amended. The guidelines...
 > -- *[[EndangeredAndThreatenedSpecies_15998]]*
 
+> This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
+> -- *[[IllegalFindingOfNoSignificantI_18971]]*
+
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
+> This memorandum and Director's Order No. 94, dated February 1993, establishes official [[U.S. Fish and Wildlife Service]] policy regarding the participation of State agencies in activities conducted under the [[Endangered Species Act]] of 1973, as amended. The order clarifies coordination and...
+> -- *[[ParticipationOfStateAgenciesIn_21205]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1325,6 +1351,12 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[ReSteveLanigansCommentsConcern_14142]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[EndangeredAndThreatenedSpecies_15998]]
+- [[IllegalFindingOfNoSignificantI_18971]]
+- [[ChangesInTheFishPopulationsInT_20462]]
+- [[SummaryaprilManagementGroupMee_20995]]
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
+- [[ParticipationOfStateAgenciesIn_21205]]
 
 ## U.S. Fish And Wildlife Service 1986
 <!-- fm: auto_enriched: true -->
@@ -1920,8 +1952,16 @@ The Uintah Mountain Club filed a notice of intent to sue the U.S. Fish and Wildl
 > This document is a meeting summary and associated correspondence from the [[Colorado River Recovery Implementation Program]] Management Group meeting held January 11-12, 1989, in Lakewood, Colorado. The Recovery Program addresses four endangered/candidate fish species in the [[Upper Colorado River...
 > -- *[[SummaryjanuaryManagementGroupM_21002]]*
 
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[SummaryjanuaryManagementGroupM_21002]]
+- [[SummaryoctoberManagementGroupM_21000]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Ulcerative Dermal Necrosis
 <!-- fm: auto_enriched: true -->
@@ -2191,6 +2231,18 @@ The Uniform Federal Relocation and Assistance Act is federal legislation that wo
 ### Mentioned In
 - [[PublicMeetingsAnnoucnementAndP_11475]]
 
+## Uniomerus tetralasmus
+
+### Summary
+Uniomerus tetralasmus is a freshwater mussel in the family Unionidae. It was collected from West Creek in Greenwood County, Kansas, as one of the unionid species documented in this survey.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Uniomerus Tetralasmus Manubius
 <!-- fm: auto_enriched: true -->
 
@@ -2269,6 +2321,9 @@ Unionidae is a family of obligate freshwater mussels that are ecologically signi
 > This 1968 technical report by Brehmer, Ball, and Kevern examines the biological and chemical characteristics of the [[Red Cedar River]] near [[Williamston, Michigan]], focusing on the impacts of domestic sewage pollution on water quality and benthic invertebrate communities. The study employed six...
 > -- *[[TheBiologyAndChemistryOfAWarmw_12927]]*
 
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[ChangesInTheCommercialFisheryO_13861]]
 - [[DifferencesInLittoralFaunaDueT_1972]]
@@ -2282,6 +2337,7 @@ Unionidae is a family of obligate freshwater mussels that are ecologically signi
 - [[EndangeredAndThreatenedWildlif_11741]]
 - [[CodeOfFederalRegulationsPartEn_11616]]
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Unioninae
 <!-- fm: auto_enriched: true -->
@@ -2384,8 +2440,12 @@ The United States Department of the Interior is the federal agency that administ
 > This document is a planning map from the [[Bureau of Land Management]] (BLM) [[Desert Planning Staff]] depicting the [[California Desert Conservation Plan]] multiple-use classification system. The map delineates various land management categories across the [[California Desert]], including areas in...
 > -- *[[CaliforniaDesertConservationAr_11457]]*
 
+> This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
+> -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
+
 ### Mentioned In
 - [[CaliforniaDesertConservationAr_11457]]
+- [[JuneSteeringCommitteeMeetingAn_20943]]
 
 ## United States Fish And Wildlife Service
 <!-- fm: auto_enriched: true -->
@@ -2420,8 +2480,12 @@ The United States Geological Survey is a U.S. government scientific agency. In J
 > In June 1962, the [[United States Geological Survey]] conducted nine underwater test explosions in [[Lake Mead]] as part of [[Project Vela Uniform]], a continuation of November 1961 tests. The explosions occurred approximately one mile north of [[Saddle Island]] in the [[Vegas Wash Arm]], in 200...
 > -- *[[ProjectVelaUniformLakeMeadTest_20812]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[ProjectVelaUniformLakeMeadTest_20812]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## United States National Marine Fisheries Service
 
@@ -2682,6 +2746,9 @@ The University of Arizona served as an institutional partner in federally-author
 > This report documents the 1989 annual census of [[Desert Pupfish]] (*Cyprinodon macularius eremus*) conducted at [[Quitobaquito Pond]] in [[Organ Pipe Cactus National Monument]] on September 27-28, 1989, under U.S. Fish and Wildlife Service endangered species permit PRT-676811. Using a...
 > -- *[[ReportOnTheAnnualCensusOfCypri_18280]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -2707,6 +2774,7 @@ The University of Arizona served as an institutional partner in federally-author
 - [[DeclineInLowFlowsOfSanPedroAnd_18974]]
 - [[DraftProposedCriteriaForDesign_14776]]
 - [[ReportOnTheAnnualCensusOfCypri_18280]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## University Of Arizona Cooperative Fish And Wildlife Research Unit
 <!-- fm: auto_enriched: true -->
@@ -3022,6 +3090,9 @@ The University of Michigan has been a significant institutional contributor to i
 > This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
 > -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
 
+> This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
+> -- *[[LetterRequestingLetterOfRecomm_19844]]*
+
 ### Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -3037,6 +3108,7 @@ The University of Michigan has been a significant institutional contributor to i
 - [[ExperimentalBreedingOfTheAmazo_14310]]
 - [[ReportOnYaquiCatfishReceived_15380]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[LetterRequestingLetterOfRecomm_19844]]
 
 ## University of Michigan Museum of Zoology
 <!-- fm: auto_enriched: true -->
@@ -3872,6 +3944,15 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This correspondence documents a 1988 exchange between the [[Desert Fishes Council]] (DFC) and the [[U.S. Fish and Wildlife Service]] (FWS) regarding the [[Colorado River Endangered Fishes Recovery Implementation Program]]. The exchange addresses concerns about how DFC's December 9, 1986 review...
 > -- *[[ReSteveLanigansCommentsConcern_14142]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+> This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
+> -- *[[CivilActionNoFColoradoWildlife_20991]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -3976,6 +4057,9 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[RecoveryImplementationProgramF_11712]]
 - [[UsFishAndWildlifeServiceAuthor_14029]]
 - [[ReSteveLanigansCommentsConcern_14142]]
+- [[DraftManagementGroupMeetingSum_17880]]
+- [[CivilActionNoFColoradoWildlife_20991]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Upper Colorado River Basin Biological Subcommittee
 <!-- fm: auto_enriched: true -->
@@ -4145,8 +4229,12 @@ The Upper Colorado River Recovery Implementation Program is a recovery effort fo
 > This 1993 draft report, prepared for the [[Endangered Fishes Recovery Program]] Instream Flow Subcommittee, synthesizes ecological rationale for setting instream flow regimes to protect endangered fishes of the [[Upper Colorado River System]] (notably the [[Colorado Pikeminnow]], historically ter...
 > -- *[[InstreamFlowsToAssistTheRecove_1993_04_30]]*
 
+> This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
+> -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
+
 ### Mentioned In
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
+- [[ProvisionalKeyToTheProtolarvae_21239]]
 
 ## Upper Columbia River
 <!-- fm: auto_enriched: true -->
@@ -4234,6 +4322,18 @@ The Upper Green River is a section of the Green River that was part of the Inter
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[RealitiesOfProvidingWaterForEn_20669]]
 
+## Upper Gulf fisheries
+
+### Summary
+Upper Gulf fisheries are the fishing resources and activities in the Upper Gulf of California. The planning document lists these fisheries as a biological research priority within the scientific/research thematic working group, recognizing them as an important component of the integrated Colorado River fluvial ecosystem that requires coordinated binational management.
+
+### Context
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
+### Mentioned In
+- [[ReportPlanningGroupForTheColor_19473]]
+
 ## Upper Gulf Of California
 <!-- fm: auto_enriched: true -->
 
@@ -4262,6 +4362,9 @@ The Upper Gulf of California refers to the northernmost marine section of the Gu
 > This document describes the formation and mission of the [[International Sonoran Desert Alliance]], a nonprofit organization incorporated in January 1994 to develop comprehensive, binational approaches to natural resource management in the western [[Sonoran Desert]] and [[Upper Gulf of California]]...
 > -- *[[BuildingSuccessfulPartnerships_13226]]*
 
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
 ### Mentioned In
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
@@ -4270,6 +4373,7 @@ The Upper Gulf of California refers to the northernmost marine section of the Gu
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 - [[SummaryOfEvents_18368]]
 - [[BuildingSuccessfulPartnerships_13226]]
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## Upper Gulf of California and Colorado River Delta Biosphere Reserve
 
@@ -4966,6 +5070,9 @@ The U.S. Fish and Wildlife Service is the primary federal agency responsible for
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This document is a Freedom of Information Act (FOIA) request submitted by the [[Maricopa Audubon Society]] to the [[US Fish and Wildlife Service]] [[Region 2]] on October 7, 1993. The request seeks comprehensive records of exotic (non-native) fish stockings in watersheds and stock ponds within...
+> -- *[[RequestForInformationOnExoticF_18961]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1992_03_08]]
 - [[LetterFromCatronCountyCommissi_1992_12_01]]
@@ -4985,6 +5092,7 @@ The U.S. Fish and Wildlife Service is the primary federal agency responsible for
 - [[EnvironmentalAssessmentAndHabi_11684]]
 - [[FyAnnualProjectReportColoradoR_21244]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[RequestForInformationOnExoticF_18961]]
 
 ## US Fish and Wildlife Service Field Station
 
@@ -5284,6 +5392,9 @@ Utah is a geographic region in the western United States that serves as a critic
 > This correspondence documents a 1988 exchange between the [[Desert Fishes Council]] (DFC) and the [[U.S. Fish and Wildlife Service]] (FWS) regarding the [[Colorado River Endangered Fishes Recovery Implementation Program]]. The exchange addresses concerns about how DFC's December 9, 1986 review...
 > -- *[[ReSteveLanigansCommentsConcern_14142]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
 ### Mentioned In
 - [[EndanderedAndThreatenedWildlif_16520]]
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
@@ -5296,6 +5407,7 @@ Utah is a geographic region in the western United States that serves as a critic
 - [[SummaryStatementOfInsightsFrom_20854]]
 - [[MxMissileSystemAnUrgentLetterF_20507]]
 - [[ReSteveLanigansCommentsConcern_14142]]
+- [[DraftManagementGroupMeetingSum_17880]]
 
 ## Utah Chub
 <!-- fm: auto_enriched: true -->

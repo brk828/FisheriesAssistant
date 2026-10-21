@@ -303,6 +303,18 @@ The Obed River is a Tennessee stream system where introgression between Redeye B
 ### Mentioned In
 - [[RangeOfChriodorus_17137]]
 
+## Obliquaria reflexa
+
+### Summary
+Obliquaria reflexa is a unionid mussel found rarely at West Creek (Station 6) in Greenwood County, Kansas. The authors noted it is "never found in numbers in Kansas streams."
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Observations On The Breeding Of Dionda Episcopa Serena In The Nueces River, Texas
 <!-- fm: auto_enriched: true -->
 
@@ -1028,12 +1040,16 @@ The Okhotsk Sea is a body of water adjacent to the Sea of Japan where macrouroid
 > This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
 > -- *[[SummaryOfCommercialFisheriesCa_19834]]*
 
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
 ### Mentioned In
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[RegionEndangeredSpeciesActIntr_11825]]
 - [[TheUseOfChannelCatfishAsSportF_18662]]
 - [[EndangeredAndThreatenedWildlif_11596]]
 - [[SummaryOfCommercialFisheriesCa_19834]]
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## Oklahoma Cooperative Wildlife Research Unit
 <!-- fm: auto_enriched: true -->
@@ -1777,6 +1793,18 @@ Oncorhynchus kisutch, commonly known as coho or silver salmon, is a Pacific anad
 - [[InfluenceOfOxygenConcentration_15087]]
 - [[AGameFishForTheSaltonSeaTheTen_12860]]
 
+## Oncorhynchus masou formosanus
+
+### Summary
+Oncorhynchus masou formosanus is a salmon species found in China. This source lists it as one of six endangered salmon species in China's freshwater systems.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
+
 ## Oncorhynchus Mykiss
 <!-- fm: auto_enriched: true -->
 
@@ -2034,6 +2062,18 @@ Ontario County is a county in New York State where Flint Creek is located. The n
 
 ### Mentioned In
 - [[TheEcologyOfSmallMammalsAtSara_12881]]
+
+## Oocystis pusilla
+
+### Summary
+Oocystis pusilla is a green algae species that dominated the phytoplankton community in Morgan Lake during June-July 1976 before declining. It was part of the green algae group that was replaced by blue-green algae as the dominant phytoplankton in late summer.
+
+### Context
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
+### Mentioned In
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Oocyte Development
 <!-- fm: auto_enriched: true -->
@@ -2694,6 +2734,18 @@ Orchelimum fidicinum is a grasshopper species representing terrestrial macroinve
 ### Mentioned In
 - [[NewDistributionalRecordsForThr_1959]]
 
+## Orconectes neglectus neglectus
+
+### Summary
+Orconectes neglectus neglectus is an epigean (surface-dwelling) crayfish species that co-occurs with Cambarus (Jugicambarus) tartarus in the Stansberry-January Cave System. This species was found in the large stream as far as 2,000 feet inside the cave entrance, representing a typical pattern where surface-dwelling species penetrate the twilight zone while troglobitic species occupy deeper cave reaches.
+
+### Context
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
+### Mentioned In
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
+
 ## Orconectes Ozarkae
 <!-- fm: auto_enriched: true -->
 
@@ -3068,6 +3120,18 @@ Oreochromis niloticus, commonly known as the Nile tilapia, is a cichlid fish spe
 
 ### Mentioned In
 - [[SonorellaGrahamensisAndSonorel_11184]]
+
+## Oreonectes anophthalmus
+
+### Summary
+Oreonectes anophthalmus is a loach species from the family Cobitidae. This source lists it as one of the endangered freshwater fish species in China.
+
+### Context
+> This report documents the endangered status of freshwater fishes in [[China]], identifying 92 species (10% of China's ~800 freshwater fish species) as endangered. The analysis covers multiple taxonomic groups including [[Cyprinidae]] (52 species), catfishes (11 species), [[Acipenseridae|sturgeons]]...
+> -- *[[TheStatusOfTheEndangeredFreshw_18932]]*
+
+### Mentioned In
+- [[TheStatusOfTheEndangeredFreshw_18932]]
 
 ## Oreosomatidae
 <!-- fm: auto_enriched: true -->
@@ -3554,6 +3618,9 @@ Osage River, also called Marais des Cygnes, is a major Kansas waterway where Blu
 > This comprehensive limnological study examines the phenomenon of metalimnetic oxygen maxima in 54 lakes worldwide, documenting 98 separate instances where oxygen concentrations exceeded 12.7 mg/L (the saturation value at 4°C). The research establishes a classification system for plus-heterograde...
 > -- *[[FurtherStudiesOnTheMetalimneti_15723]]*
 
+> This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
+> -- *[[AquaticEnvironmentalReportForO_17695]]*
+
 ### Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ReportOnLunaLakeApacheCountyAr_19495]]
@@ -3563,6 +3630,7 @@ Osage River, also called Marais des Cygnes, is a major Kansas waterway where Blu
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[FurtherStudiesOnTheMetalimneti_15723]]
+- [[AquaticEnvironmentalReportForO_17695]]
 
 ## Oscillatoria agardhii
 
@@ -4390,6 +4458,9 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This FY 1994 summary report documents the annual accomplishments of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program addresses recovery of four federally listed endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[RecoveryImplementationProgramF_11712]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -4408,6 +4479,7 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[DraftprotocolForHandlingAndTra_13900]]
 - [[ColoradoRiverEndangeredFishHat_13665]]
 - [[RecoveryImplementationProgramF_11712]]
+- [[DraftManagementGroupMeetingSum_17880]]
 
 ## Ouray Reach
 
@@ -5194,8 +5266,13 @@ The Ozark Cavefish is a rare, endemic freshwater species inhabiting isolated cav
 ## Ozark Region
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
+> -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
+
 ### Mentioned In
 - [[AlcoholDehydrogenaseVariabilit_1977]]
+- [[ANewTroglobiticCrayfishFromOkl_20419]]
 
 ## Ozark Stream Ecosystems
 <!-- fm: auto_enriched: true -->

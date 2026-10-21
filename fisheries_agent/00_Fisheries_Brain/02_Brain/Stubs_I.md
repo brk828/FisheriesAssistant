@@ -622,6 +622,9 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 > This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
 > -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
 
+> This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
+> -- *[[FishLarvaeecologicallyDistinct_21240]]*
+
 ### Mentioned In
 - [[ACaseOfAlbinismInTheTadpoleMad_20472]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -682,6 +685,7 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 - [[RediscoveryAndDescriptionOfThe_13513]]
 - [[StatewideRoughFishControlfishE_14929]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[FishLarvaeecologicallyDistinct_21240]]
 
 ## Ictalurus
 <!-- fm: auto_enriched: true -->
@@ -1007,6 +1011,9 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 > This document is an unfinished draft bibliography compiled by a researcher documenting literature on fishes in Arizona. It contains hundreds of citations spanning from the 1850s through 1988, covering taxonomic descriptions, ecological studies, fisheries management reports, endangered species...
 > -- *[[DraftbibliographyOnFishesInAri_12263]]*
 
+> This document presents research findings from [[Auburn University]] Agricultural Experiment Station (begun 1966) on developing cage culture systems for raising [[Channel Catfish]] ([[Ictalurus punctatus]]) from fingerlings to marketable size. The system allows intensive fish culture in previously...
+> -- *[[CageCultureOfChannelCatfish_20574]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[ChecklistOfParasitesFromCatfis_1959]]
@@ -1035,6 +1042,7 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[DraftbibliographyOnFishesInAri_12263]]
+- [[CageCultureOfChannelCatfish_20574]]
 
 ## Icthyobodo Sp
 <!-- fm: auto_enriched: true -->
@@ -2396,6 +2404,18 @@ The Indian Ocean is one of the ocean basins where species of Anguilla (fresh-wat
 ### Mentioned In
 - [[NotesOnOdonataFromTheVicinityO_14838]]
 
+## Indian ruins
+
+### Summary
+Indian ruins are archaeological sites documented at several locations along the river, including ruins at mile 75.3 above high water, Tapeats Creek ruins containing human jaw bone, teeth and arrowheads, and a cave at mile 27.2 with steel traps and tools indicating occupation after the 1911 Kolb expedition. Rock mounds with initials 'R.P.' chiseled were also found near Devil's Slide Canyon.
+
+### Context
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
+### Mentioned In
+- [[DiaryOfGrandCanyonSurvey_17643]]
+
 ## Indian Spring
 
 ### Summary
@@ -2539,6 +2559,18 @@ The Indo-Pacific humpback dolphin is a marine mammal species for which mark-reca
 
 ### Mentioned In
 - [[AssessmentOfBiasAndPrecisionAm_2023]]
+
+## Indonesia
+
+### Summary
+Indonesia is a Southeast Asian country where cage culture of fish has been historically practiced in sewage streams. According to this source, intensive fish culture with complete feeds was available in Indonesian sewage streams prior to the development of channel catfish cage culture systems at Auburn University, representing one of the early examples of cage culture methods that informed later aquaculture research.
+
+### Context
+> This document presents research findings from [[Auburn University]] Agricultural Experiment Station (begun 1966) on developing cage culture systems for raising [[Channel Catfish]] ([[Ictalurus punctatus]]) from fingerlings to marketable size. The system allows intensive fish culture in previously...
+> -- *[[CageCultureOfChannelCatfish_20574]]*
+
+### Mentioned In
+- [[CageCultureOfChannelCatfish_20574]]
 
 ## Indonesian Arawana
 <!-- fm: auto_enriched: true -->
@@ -3071,6 +3103,18 @@ The Integrated Border Environmental Plan (IBEP) was prepared by EPA and Mexico's
 ### Mentioned In
 - [[StateOfTheUsmexicoBorderEnviro_14365]]
 
+## Integrated Technical Report
+
+### Summary
+The Integrated Technical Report is a document that was designated to serve as the Bureau of Reclamation's Biological Assessment for the Flaming Gorge Biological Opinion. This report would provide technical information supporting the assessment of endangered fish needs, with the Biological Opinion's completion delayed to March 1990.
+
+### Context
+> This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
+> -- *[[SummaryoctoberManagementGroupM_21000]]*
+
+### Mentioned In
+- [[SummaryoctoberManagementGroupM_21000]]
+
 ## Intensive Aquaculture
 <!-- fm: auto_enriched: true -->
 
@@ -3316,10 +3360,14 @@ The International Association of Fish and Wildlife Agencies (IAFWA) is a coaliti
 > This 1994 MOU (94-SMU-058) links the [[USDA Forest Service]], [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[National Park Service]], and [[National Marine Fisheries Service]] — later joined by the [[International Association of Fish and Wildlife Agencies]] (representing all...
 > -- *[[MemorandumOfUnderstandingOnCon_1994]]*
 
+> This memorandum and Director's Order No. 94, dated February 1993, establishes official [[U.S. Fish and Wildlife Service]] policy regarding the participation of State agencies in activities conducted under the [[Endangered Species Act]] of 1973, as amended. The order clarifies coordination and...
+> -- *[[ParticipationOfStateAgenciesIn_21205]]*
+
 ### Mentioned In
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
 - [[LetterToJerryConleyOnStateFede_1994_08_09]]
 - [[MemorandumOfUnderstandingOnCon_1994]]
+- [[ParticipationOfStateAgenciesIn_21205]]
 
 ## International Biological Program
 
@@ -3443,11 +3491,15 @@ The International Commission on Zoological Nomenclature (ICZN) is the primary go
 > This 1964 case submitted to the [[International Commission on Zoological Nomenclature]] (ICZN) by Bruce B. Collette and Robert H. Gibbs, Jr. requests the use of plenary powers to **validate the generic name *Thunnus* South, 1845** for the tuna genus, and to suppress the senior but little-used nam...
 > -- *[[ThunnusSouthPiscesProposedVali_17128]]*
 
+> This document is a reprint of a presentation by [[Carl L. Hubbs]] at the XIV International Congress of Zoology in Copenhagen, 1953, addressing the critical need for stability in zoological nomenclature. Hubbs discusses the controversies arising from the Paris decisions five years prior, reports on...
+> -- *[[WaysOfStabilizingZoologicalNom_20061]]*
+
 ### Mentioned In
 - [[ANoteOnTheGenericNamesCyclagra_11187]]
 - [[ChromisCuvierInDesmarestOsteic_17246]]
 - [[SystematicStudiesAndBiodiversi_12427]]
 - [[ThunnusSouthPiscesProposedVali_17128]]
+- [[WaysOfStabilizingZoologicalNom_20061]]
 
 ## International Geological Correlation Program 261
 <!-- fm: auto_enriched: true -->
@@ -3474,6 +3526,18 @@ The International Pacific Halibut Commission is a specialized transboundary body
 ### Mentioned In
 - [[ListOfCurrentFisheriesAndWildl_20304]]
 - [[FoodFishfreshAndFrozenProducts_11510]]
+
+## International Rules of Zoological Nomenclature
+
+### Summary
+The International Rules of Zoological Nomenclature are the official guidelines governing how animals are scientifically named, sometimes referred to as the "bible of nomenclatural procedure." According to this source, the Rules had become controversial following Paris Congress decisions that led to dissention, with some suggesting they be ignored or abandoned; the Copenhagen Colloquium worked to retract objectionable Paris decisions and prepare a new, clearer version that would be more usable to average zoologists rather than presented in lengthy semi-legal terminology.
+
+### Context
+> This document is a reprint of a presentation by [[Carl L. Hubbs]] at the XIV International Congress of Zoology in Copenhagen, 1953, addressing the critical need for stability in zoological nomenclature. Hubbs discusses the controversies arising from the Paris decisions five years prior, reports on...
+> -- *[[WaysOfStabilizingZoologicalNom_20061]]*
+
+### Mentioned In
+- [[WaysOfStabilizingZoologicalNom_20061]]
 
 ## International Sonoran Desert Alliance
 
@@ -4278,6 +4342,18 @@ The Iowa Darter is a small freshwater fish species documented in mid-20th centur
 ### Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 
+## Ireland Sandstone
+
+### Summary
+Ireland Sandstone is a geological formation that outcrops at Station 3 (Shawnee Creek) in Greenwood County, Kansas, with associated contact springs. This sandstone substrate supported both high-spired and typical forms of the terrestrial snail Anguispira alternata.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Iris Spring
 
 ### Summary
@@ -4536,11 +4612,15 @@ Island Lake Complex is one of the specific locations within the Imperial Nationa
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
+> -- *[[ChangesInTheFishPopulationsInT_20462]]*
+
 ### Mentioned In
 - [[AvailabilityOfHabitatCharacter_1993]]
 - [[FisheryManagementReportGreenRi_1963_10_11]]
 - [[DraftbonytailChubGilaElegans_14696]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[ChangesInTheFishPopulationsInT_20462]]
 
 ## Isle Of Man
 <!-- fm: auto_enriched: true -->
@@ -4932,6 +5012,18 @@ The long lifespans documented for Colorado River native fishes (razorback sucker
 
 ### Mentioned In
 - [[NativeFishesOfTheGrandCanyonRe_1991]]
+
+## ITESM
+
+### Summary
+ITESM (Instituto Tecnológico y de Estudios Superiores de Monterrey) is a Mexican educational institution that hosted the July 9, 1996 Planning Group meeting in Guaymas, Sonora. ITESM was listed as one of the participating organizations in the binational effort to establish an interdisciplinary task force for Colorado River Delta ecosystem management.
+
+### Context
+> This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
+> -- *[[ReportPlanningGroupForTheColor_19473]]*
+
+### Mentioned In
+- [[ReportPlanningGroupForTheColor_19473]]
 
 ## ITESM Guaymas
 

@@ -91,6 +91,9 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
 > -- *[[FiscalYearWorkPlan_11742]]*
 
+> This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
+> -- *[[SummaryaprilManagementGroupMee_20995]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -100,6 +103,7 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[FiscalYearScopeOfWorkResearchP_11213]]
 - [[FiscalYearWorkPlan_11756]]
 - [[FiscalYearWorkPlan_11742]]
+- [[SummaryaprilManagementGroupMee_20995]]
 
 ## 18-Mile Reach
 

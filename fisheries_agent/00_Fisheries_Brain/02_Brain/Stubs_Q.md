@@ -78,6 +78,18 @@ The Qu'Appelle River is a river system in southern Saskatchewan, Canada, that in
 ### Mentioned In
 - [[FreshwaterMollusksCollectedByT_13490]]
 
+## Quadrula pustulosa
+
+### Summary
+Quadrula pustulosa is a unionid mussel found commonly at West Creek (Station 6) in Greenwood County, Kansas. The specimens had pustules that were very poorly developed or absent.
+
+### Context
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
+### Mentioned In
+- [[MolluscaFromGreenwoodCountyKan_20276]]
+
 ## Quadrula Quadrula
 <!-- fm: auto_enriched: true -->
 
@@ -94,10 +106,14 @@ Quadrula quadrula, commonly known as the Macroshell or Mapleleaf mussel, is a fr
 > - **Density estimate:** The exposed peninsula population averaged **0.36 mussels per square foot (15,647 per acre)** — substantially lower than comparable stream mussel densities reported elsewhere (e.g., 7.5/ft² in Clark & Wilson 1912; up to 16.5/ft² in the Clinch River per Coker et al. 1922). -...
 > -- *[[TheMusselPopulationOfAnAreaOfL_14967]]*
 
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[TheBlacktailRedhorseMoxostomaP_1984]]
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
 - [[TheMusselPopulationOfAnAreaOfL_14967]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Quagga mussel
 

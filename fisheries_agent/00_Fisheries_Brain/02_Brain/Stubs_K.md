@@ -244,6 +244,9 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 > This memorandum from BIO/WEST, Inc. (October 18, 1991) summarizes preliminary findings from the Endangered Fish Research Program studying [[Gila cypha]] (humpback chub) in the mainstem [[Colorado River]] through [[Grand Canyon]]. The research program, conducted in cooperation with the [[U.S. Fish...
 > -- *[[SummaryOfEndangeredFishResearc_13612]]*
 
+> This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
+> -- *[[DiaryOfGrandCanyonSurvey_17643]]*
+
 ### Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -266,6 +269,7 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[SummaryOfEndangeredFishResearc_13612]]
+- [[DiaryOfGrandCanyonSurvey_17643]]
 
 ## Kanab Creek-Virgin River Basin
 <!-- fm: auto_enriched: true -->
@@ -361,10 +365,14 @@ Kane Creek was a fishing location in Lake Powell that received 4.1% of angler tr
 > This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
 > -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
 
+> This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
+> -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
+
 ### Mentioned In
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
 - [[WhatHaveICaught_12929]]
 - [[TheUseOfChannelCatfishAsSportF_18662]]
+- [[MolluscaFromGreenwoodCountyKan_20276]]
 
 ## Kansas Forestry Fish and Game Commission
 
@@ -963,6 +971,12 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
+> -- *[[DraftManagementGroupMeetingSum_17880]]*
+
+> This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
+> -- *[[SummarynovemberAndFebruaryMana_21001]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -973,6 +987,8 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[DraftFiveyearRoadMap_11579]]
 - [[ColoradoSquawfishPtychocheilus_13278]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[DraftManagementGroupMeetingSum_17880]]
+- [[SummarynovemberAndFebruaryMana_21001]]
 
 ## Kenny Reservoir
 
@@ -1013,8 +1029,13 @@ Kent County is a jurisdiction along the Chesapeake Bay that experienced signific
 ## Kentucky
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
+> -- *[[WaterRightsBibliography_17761]]*
+
 ### Mentioned In
 - [[ADistributionalAtlas_1986_10_01]]
+- [[WaterRightsBibliography_17761]]
 
 ## Kentucky Academy Of Science
 <!-- fm: auto_enriched: true -->
@@ -1589,6 +1610,18 @@ Killifish are small cyprinodontid fishes (family Cyprinodontidae/Fundulidae) kno
 
 ### Mentioned In
 - [[EvaluationOfPPDdtAsAReferenceT_14436]]
+
+## King Island Resort
+
+### Summary
+King Island Resort is a location in the Sacramento-San Joaquin Delta near where an American Eel (Anguilla rostrata) was captured in June 1964. The eel was caught in tidal waters near this resort, approximately 15 miles northwest of Stockton.
+
+### Context
+> This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
+> -- *[[AnguillaRecordedFromCalifornia_19016]]*
+
+### Mentioned In
+- [[AnguillaRecordedFromCalifornia_19016]]
 
 ## King Salmon
 <!-- fm: auto_enriched: true -->
@@ -2450,6 +2483,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
 > -- *[[AuthortitleIndexToInlandFisher_14367]]*
 
+> This 1965 report documents the introduction of [[Bonneville Cisco]] (*Prosopium gemmiferum*) from [[Bear Lake]] (Utah-Idaho) into [[Lake Tahoe]] (California-Nevada) in January 1964. The introduction aimed to provide forage for [[Lake Trout]] (*Salvelinus namaycush*) in deep waters during summer...
+> -- *[[IntroductionOfTheBonnevilleCis_18820]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -2471,6 +2507,7 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[AssessmentOfTheNeedForForageEn_17853]]
 - [[EcologyOfCatostomidsInTwinLake_12424]]
 - [[AuthortitleIndexToInlandFisher_14367]]
+- [[IntroductionOfTheBonnevilleCis_18820]]
 
 ## Kolkwitz And Marsson Saprobic System
 <!-- fm: auto_enriched: true -->
