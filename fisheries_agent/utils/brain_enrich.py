@@ -20,10 +20,11 @@ from pathlib import Path
 
 import yaml
 
+from utils.stub_store import StubStore
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 BRAIN_DIR = BASE_DIR / "00_Fisheries_Brain"
 SOURCES_DIR = BRAIN_DIR / "01_Sources"
-STUBS_DIR = BRAIN_DIR / "02_Brain"
 META_DIR = BASE_DIR / "brain_meta"
 TITLES_PATH = META_DIR / "source_titles.json"
 AUTO_ALIASES_PATH = META_DIR / "aliases_auto.json"
@@ -225,7 +226,8 @@ def _frontmatter_sci(fm: dict):
 
 
 def build_auto_aliases(verbose: bool = True) -> dict:
-    stub_titles = {p.stem.lower() for p in STUBS_DIR.glob("*.md")} if STUBS_DIR.exists() else set()
+    stubs = list(StubStore().iter_stubs())
+    stub_titles = {s.name.lower() for s in stubs}
     known_sci = set()
     structured = defaultdict(Counter)   # sci -> common -> count (frontmatter)
     textual = defaultdict(Counter)      # sci -> common -> count (prose)
@@ -240,8 +242,8 @@ def build_auto_aliases(verbose: bool = True) -> dict:
             common = _clean_common(common)
             if _valid_binomial(sci) and common:
                 textual[sci][common] += 1
-    for p in STUBS_DIR.glob("*.md") if STUBS_DIR.exists() else []:
-        for common, sci in _PAREN_PAIR.findall(_read(p)):
+    for stub in stubs:
+        for common, sci in _PAREN_PAIR.findall(stub.legacy_text()):
             common = _clean_common(common)
             if _valid_binomial(sci) and common:
                 textual[sci][common] += 1

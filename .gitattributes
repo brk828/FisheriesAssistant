@@ -1,0 +1,2 @@
+# Consolidated concept stubs are append-only lists; keep both sides on a merge between machines.
+fisheries_agent/00_Fisheries_Brain/02_Brain/Stubs_*.md merge=union

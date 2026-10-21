@@ -18,8 +18,9 @@ Pipeline per PDF
      `source_citation`, `doi`, `source_file`, `text_extraction`.
   4. Citation fields go to brain_meta/external_citations.json (keyed by source_id), merged by
      brain_citations.load(); the Minckley sheet import never touches that file.
-  5. Concept stubs: every [[link]] in the note gets its 02_Brain stub updated (a Mentioned In entry and a short
-     Context excerpt), or a new stub if none exists. The search index finds sources through these stubs, so
+  5. Concept stubs: every [[link]] in the note gets its stub updated (a Mentioned In entry and a short Context
+     excerpt), or a new stub if none exists. Stubs live in one file per initial letter (02_Brain/Stubs_A.md ...
+     Stubs_MISC.md, see utils/stub_store.py), not one file per concept. The search index finds sources through these stubs, so
      without this step a new note would not surface for a topic question. No LLM involved.
   6. brain_meta/ingest_manifest.json records each file (by hash) so reruns skip finished work.
 
@@ -46,13 +47,13 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 from utils import brain_citations, brain_index
+from utils.stub_store import StubStore, StubStoreError
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 BRAIN_DIR = BASE_DIR / "00_Fisheries_Brain"
 PDF_DIR = BRAIN_DIR / "pdfs_to_process"
 CACHE_DIR = PDF_DIR / "_extracted"
 SOURCES_DIR = BRAIN_DIR / "01_Sources"
-STUBS_DIR = BRAIN_DIR / "02_Brain"
 META_DIR = BASE_DIR / "brain_meta"
 EXTERNAL_CITATIONS_PATH = META_DIR / "external_citations.json"
 MANIFEST_PATH = META_DIR / "ingest_manifest.json"
@@ -632,52 +633,35 @@ def _excerpt(note: str) -> str:
     return text
 
 
-def _stub_index() -> dict:
-    return {p.stem.lower(): p for p in STUBS_DIR.glob("*.md")} if STUBS_DIR.exists() else {}
-
-
-def update_stubs(stem: str, note: str, index: dict = None) -> tuple:
+def update_stubs(stem: str, note: str, store: StubStore = None) -> tuple:
     """Adds the note to the stub of every concept it links; returns (number updated, names of stubs created)."""
-    index = _stub_index() if index is None else index
+    store = StubStore() if store is None else store
     excerpt = _excerpt(note)
-    quote = f"> {excerpt}\n> -- *[[{stem}]]*\n" if excerpt else ""
+    quote = f"> {excerpt}\n> -- *[[{stem}]]*" if excerpt else ""
     names = list(dict.fromkeys(n.strip() for n in _WIKILINK.findall(note) if n.strip() and n.strip() != stem))
+    link = f"- [[{stem}]]"
     updated, created = 0, []
-    STUBS_DIR.mkdir(parents=True, exist_ok=True)
     for name in names:
         if _STUB_BAD_CHARS.search(name) or len(name) > 100:
             continue
-        path = index.get(name.lower())
-        if path is None:
-            path = STUBS_DIR / f"{name}.md"
-            path.write_bytes(f"---\ntype: concept\n---\n# {name}\n\n## Context\n\n## Mentioned In\n".replace("\n", "\r\n").encode("utf-8"))
-            index[name.lower()] = path
+        stub = store.get(name)
+        if stub is None:
+            stub = store.create(name)
             created.append(name)
-        raw = path.read_bytes().decode("utf-8", errors="replace")
-        eol = "\r\n" if "\r\n" in raw else "\n"  # the vault's stubs use CRLF; keep each file's own style
-        text = raw.replace("\r\n", "\n")
-        link = f"- [[{stem}]]"
-        mentions = re.search(r"^## Mentioned In\s*\n(.*)\Z", text, re.S | re.M)
-        if mentions and link in mentions.group(1).splitlines():
+        if link in stub.mentions:
             continue
         if quote:
-            if re.search(r"^## Context\s*$", text, re.M):
-                text = re.sub(r"^## Mentioned In\s*$", lambda _m: quote.rstrip("\n") + "\n\n## Mentioned In", text, count=1, flags=re.M) \
-                    if re.search(r"^## Mentioned In\s*$", text, re.M) else text
-            else:
-                text = re.sub(r"^## Mentioned In\s*$", lambda _m: "## Context\n" + quote + "\n## Mentioned In", text, count=1, flags=re.M)
-        if re.search(r"^## Mentioned In\s*$", text, re.M):
-            text = text.rstrip("\n") + f"\n{link}\n"
-        else:
-            text = text.rstrip("\n") + f"\n\n## Mentioned In\n{link}\n"
-        path.write_bytes(text.replace("\n", eol).encode("utf-8"))
+            stub.context = f"{stub.context}\n\n{quote}" if stub.context else quote
+        stub.mentions.append(link)
+        store.save(stub)
         updated += 1
+    store.flush()
     return updated, created
 
 
-def summarize_new_stubs(client, model: str, note: str, names: list, index: dict = None) -> int:
-    """One LLM call per batch of new concept names; writes a `## Summary` into each stub. Returns how many were written."""
-    index = _stub_index() if index is None else index
+def summarize_new_stubs(client, model: str, note: str, names: list, store: StubStore = None) -> int:
+    """One LLM call per batch of new concept names; writes a `### Summary` into each stub. Returns how many were written."""
+    store = StubStore() if store is None else store
     written = 0
     for i in range(0, len(names), STUB_BATCH):
         batch = names[i:i + STUB_BATCH]
@@ -688,27 +672,21 @@ def summarize_new_stubs(client, model: str, note: str, names: list, index: dict 
         except json.JSONDecodeError:
             continue
         for name in batch:
-            text = re.sub(r"\s+", " ", str(data.get(name) or "")).strip()
-            path = index.get(name.lower())
-            if not text or path is None:
-                continue
-            raw = path.read_bytes().decode("utf-8", errors="replace")
-            eol = "\r\n" if "\r\n" in raw else "\n"
-            body = raw.replace("\r\n", "\n")
-            if re.search(r"^## Summary\s*$", body, re.M):
-                continue
-            body, n = re.subn(r"^(# .+\n)\n?", lambda x: x.group(1) + f"\n## Summary\n{text}\n\n", body, count=1, flags=re.M)
-            if n:
-                path.write_bytes(body.replace("\n", eol).encode("utf-8"))
+            text = re.sub(r"\s+", " ", str(data.get(name) or "")).strip().lstrip("#").strip()
+            stub = store.get(name)
+            if text and stub is not None and not stub.summary:
+                stub.summary = text
+                store.save(stub)
                 written += 1
+    store.flush()
     return written
 
 
-def stubs_without_summary(note: str, index: dict) -> list:
+def stubs_without_summary(note: str, store: StubStore) -> list:
     out = []
     for name in dict.fromkeys(n.strip() for n in _WIKILINK.findall(note) if n.strip()):
-        path = index.get(name.lower())
-        if path and not re.search(r"^## Summary\s*$", path.read_text(encoding="utf-8", errors="replace"), re.M):
+        stub = store.get(name)
+        if stub is not None and not stub.summary:
             out.append(name)
     return out
 
@@ -716,7 +694,12 @@ def stubs_without_summary(note: str, index: dict) -> list:
 def cmd_stubs(args) -> int:
     manifest = _load_json(MANIFEST_PATH)
     stems = [Path(a).stem for a in args.notes] or [r["note"][:-3] for r in manifest.values() if r.get("status") == "done"]
-    index = _stub_index()
+    store = StubStore()
+    try:
+        store.require_consolidated()
+    except StubStoreError as e:
+        print(e)
+        return 1
     todo = []
     for stem in stems:
         path = SOURCES_DIR / f"{stem}.md"
@@ -724,10 +707,10 @@ def cmd_stubs(args) -> int:
             print(f"Not found: {path.name}")
             continue
         note = path.read_text(encoding="utf-8")
-        u, created = update_stubs(stem, note, index)
+        u, created = update_stubs(stem, note, store)
         print(f"{stem}: {u} stubs updated ({len(created)} new)")
         if args.summaries:
-            missing = stubs_without_summary(note, index)
+            missing = stubs_without_summary(note, store)
             if missing:
                 todo.append((stem, note, missing))
     if args.summaries and todo:
@@ -739,7 +722,7 @@ def cmd_stubs(args) -> int:
         if input("Proceed? [y/N] ").strip().lower() in ("y", "yes"):
             client = _client()
             for stem, note, missing in todo:
-                print(f"{stem}: {summarize_new_stubs(client, model, note, missing, index)} summaries written")
+                print(f"{stem}: {summarize_new_stubs(client, model, note, missing, store)} summaries written")
         else:
             print("Cancelled; nothing was sent.")
     return 0
@@ -1014,6 +997,11 @@ def cmd_extract(args) -> int:
 
 
 def cmd_process(args) -> int:
+    try:
+        StubStore().require_consolidated()
+    except StubStoreError as e:
+        print(e)
+        return 1
     manifest = _load_json(MANIFEST_PATH)
     sheet = _load_json(brain_citations.CITATIONS_PATH)
     todo = []

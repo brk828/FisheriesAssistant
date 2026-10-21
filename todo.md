@@ -105,7 +105,7 @@ Observations about the current brain (affects the design):
 
 ## Future features
 - [x] (done: once-a-minute check in the agent with consent prompt; see agents.md) Scheduled PDF processor: watch `00_Fisheries_Brain/pdfs_to_process/`, summarize new PDFs into `01_Sources/`, create context links between notes (reuse logic from the separate literature-conversion project). Until then, markdown files are added to `01_Sources/` and `02_Brain/` by hand.
-- [ ] Reduce the number of notes in `02_Brain/` by merging them; rely mainly on source chunks, with concept notes as the link graph.
+- [ ] Reduce the number of notes in `02_Brain/` by merging them into one file per initial letter (`utils/stub_store.py`, ingest and index already use it). Remaining: after the next sync, run `python -m utils.stub_consolidate --apply --delete`, then commit. Optional later: rewrite source links to `[[Stubs_X#Name|Name]]` so Obsidian resolves them.
 - [x] Project memory (`utils/project_memory.py`): per-project key files, notes and run history; tools `get_project_context`, `get_latest_results`, `remember_project_fact`; runs recorded automatically.
 - [ ] Project memory, later: optional LLM one-line summaries of key files (with consent); index the scientist's own reports.
 - [ ] macOS/Linux support (currently Windows only).

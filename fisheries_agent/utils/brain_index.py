@@ -16,6 +16,7 @@ from pathlib import Path
 import yaml
 
 from utils import brain_citations, brain_enrich
+from utils.stub_store import StubStore
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 BRAIN_DIR = BASE_DIR / "00_Fisheries_Brain"
@@ -134,11 +135,10 @@ def _section(body: str, heading: str) -> str:
     return m.group(1).strip() if m else ""
 
 
-def _parse_stub(path: Path):
-    text = path.read_text(encoding="utf-8", errors="replace")
-    _, body = _split_frontmatter(text)
+def _parse_stub(stub):
+    _, body = _split_frontmatter(stub.legacy_text())
     t = re.search(r"^# (.+)$", body, re.M)
-    title = t.group(1).strip() if t else path.stem
+    title = t.group(1).strip() if t else stub.name
     summary = _section(body, "Summary")
     context = _section(body, "Context")
     mentions = list(dict.fromkeys(_WIKILINK.findall(_section(body, "Mentioned In"))))
@@ -202,11 +202,8 @@ def build_index(verbose: bool = True) -> None:
         """
     )
     n_stubs = n_sources = 0
-    for p in sorted(STUBS_DIR.glob("*.md")) if STUBS_DIR.exists() else []:
-        try:
-            title, summary, ctx, related, mentions = _parse_stub(p)
-        except OSError:
-            continue
+    for stub in sorted(StubStore().iter_stubs(), key=lambda s: s.name.lower()):
+        title, summary, ctx, related, mentions = _parse_stub(stub)
         cur = db.execute(
             "INSERT INTO stubs(title, title_lc, summary, related, mentions, n_mentions) VALUES (?,?,?,?,?,?)",
             (title, title.lower(), summary, json.dumps(related), json.dumps(mentions), len(mentions)),

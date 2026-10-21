@@ -35,7 +35,7 @@ fisheries_agent/
 ├── project_manifest.yaml        # Generated machine profile (DO NOT COMMIT)
 ├── 00_Fisheries_Brain/          # Prepackaged Obsidian-style Vault
 │   ├── 01_Sources/              # Condensed markdown literature summaries
-│   ├── 02_Brain/                # Concept stubs: summary, related concepts, "Mentioned In" source ids
+│   ├── 02_Brain/                # Concept stubs in 27 files (Stubs_A..Z, Stubs_MISC): summary, related concepts, "Mentioned In" source ids
 │   └── pdfs_to_process/         # Background drop-box for new literature
 ├── brain_meta/                  # Derived search metadata (never edits the vault)
 │   ├── source_titles.json       # Source id -> title (frontmatter, heading, citation, or LLM)
