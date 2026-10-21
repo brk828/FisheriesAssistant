@@ -1,0 +1,37 @@
+# Pilot additions to eval_questions.yaml. These do not approve any source for export.
+# Source expectations identify existing notes, not verified scientific claims.
+# Human review must check applicability, claim support and conflicting studies.
+- ask: Which CPUE standardization methods account for effort and changing catchability?
+  track: methodological
+  query: CPUE standardization effort catchability methods
+  sources: [CatchPerUnitEffortModellingFor_2024]
+  review: Check effort units, sampling design and whether recommendations fit the data.
+- ask: How do delta/hurdle and zero-inflated count models differ?
+  track: methodological
+  query: delta hurdle zero-inflated count models encounter positive catch
+  sources: [CatchPerUnitEffortModellingFor_2024]
+  review: Do not infer that all delta models are zero-inflated or require glmmTMB.
+- ask: Which diagnostics are relevant to a CPUE count model?
+  track: methodological
+  query: CPUE count model residual diagnostics overdispersion uncertainty
+  sources: [CatchPerUnitEffortModellingFor_2024]
+  review: Confirm each diagnostic and R implementation against its cited original.
+- ask: Can a mortality range be supplied for an unrepresented species?
+  track: biological
+  query: annual natural mortality published bounds
+  species: Unrepresented pilot species
+  parameter: annual natural mortality
+  expect_abstain: true
+  review: No fabricated range and no silent substitution of genus-level evidence.
+- ask: Are genus-wide catchability values evidence for an unrepresented species?
+  track: biological
+  query: catchability coefficient population gear season
+  species: Unrepresented pilot species
+  parameter: catchability coefficient
+  expect_abstain: true
+  review: Distinguish non-negative parameter domains from published empirical ranges.
+- ask: What happens when no query terms describe a method in the library?
+  track: methodological
+  query: zxqv_unrepresented_pilot_method
+  expect_abstain: true
+  review: A nearest-neighbor score alone must not be represented as scientific support.

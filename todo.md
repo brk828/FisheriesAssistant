@@ -38,6 +38,14 @@ Observations about the current brain (affects the design):
 - [x] Non-Minckley library additions: `python -m utils.pdf_ingest process` (text layer or OCR -> citation from DOI/Crossref, LLM first-page read, or filename -> note in `01_Sources` + `brain_meta/external_citations.json`). Tested on 2 PDFs (one text, one scanned). Concept stubs for new notes are updated automatically (so topic searches find them). New stubs get an LLM `## Summary` (estimate + consent). The agent checks `pdfs_to_process/` every minute and, on Enter/`ingest`, shows an estimated cost and asks before adding. Minckley PDFs keep their MID (filename or `--mid`; citation from the live sheet; note `source_id`/`minckley_id`; "Minckley Library ID: N" in `source_citation`); duplicates are rejected or confirmed; finished PDFs are deleted. Long documents (>150k characters) are flagged before OCR for a cap/full/skip choice. Still open: per-page OCR progress for big batches, reviewing a few filename-sourced citations.
 - [ ] Embeddings only if the evaluation shows keyword search is missing too much.
 
+### Additive RAG pilot: approved library exports
+- [ ] Export explicitly approved, finalized, redistributable source snapshots into a versioned local Chroma artifact using LlamaIndex; Markdown remains authoritative and ingestion/stubs stay unchanged.
+- [ ] Pilot separate methodological and biological evidence packs for CPUE/count models; compare lexical and hybrid retrieval before changing the default search or skill builder.
+- [ ] Review evidence support, abstention and conflicting studies manually; retrieved ranges are not automatic biological rules, and summaries are not original-document verification.
+- [ ] Test packaged local embeddings and Chroma compatibility on a clean Windows machine without network access or implicit rebuilding.
+- [ ] After the retrieval pilot is accepted, integrate evidence packs into upstream and project-specific skill drafts, preserving reviewed skills and local edits; retain plan/review/run approval.
+- [ ] Build a reviewed distributable corpus and embedding-model package with explicit redistribution approval; project PDFs and private literature must never enter it automatically.
+
 - [ ] (low priority) Review the 69 recovered citations (`python -m utils.recover_citations --report`): fill in the 17 missing authors and 2 missing years where the original PDF is available, and check the Minckley-addressed letters and multi-organization authors.
 - [ ] (low priority) Review the 27 Minckley MIDs that appear on more than one row (`brain_meta/minckley_duplicate_mids.csv`) and decide whether to split or merge them; the importer keeps only one row per MID.
 - [ ] (low priority) Review the Minckley spell-check log (`brain_meta/minckley_spellfix_log.csv`, 148 changes) for wrong fixes (for example "Mexicao" to "Mexico"), and manually check scientific and author names, which the check skips.

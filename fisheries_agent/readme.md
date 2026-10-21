@@ -131,6 +131,18 @@ python -m utils.brain_enrich titles-llm --limit 20        # LLM titles for sourc
 ```
 Fix a wrong or missing alias in `brain_meta/aliases.yaml`; a title can be set by hand in `source_titles.json` with `"from": "manual"`.
 
+### Additive RAG pilot
+
+The optional RAG export is a **derived release artifact**, not a replacement for the vault or the default stub-first search. Markdown remains authoritative. PDF ingestion, stubs, existing skills and R execution are unchanged. Project literature stays private and continues to use whole-document Markdown references; long references should be read in bounded sections rather than injected wholesale into a prompt.
+
+The first milestone exports only explicitly approved library notes and returns separate **methodological** and **biological** evidence packs. It does not create or execute sub-agents. Method queries should describe the goal, data and sampling design (for example CPUE standardization or zero-heavy counts). Biological queries should identify the species, parameter and relevant population, life stage, location, season and units.
+
+Retrieved passages are untrusted evidence, not instructions. Method applicability, formulas, R implementations and biological values still require scientific review. A genus-level range must not silently become a species-specific rule; empirical ranges normally flag plausibility concerns, not automatic rejection. Delta/hurdle and zero-inflated models are distinct, and no package is mandated solely by a retrieval match. Condensed notes cannot establish details omitted from the original publication.
+
+No source is approved by default. Approval must establish finalization, a redistribution basis, an exact document hash and whether evidence is a condensed note or has been checked against the original. Copyrighted/private material, project PDFs and developer `skill_source/` documents must not be automatically included. The embedding model also needs a redistribution license and a fixed revision.
+
+Release acceptance requires a clean Windows offline-installation trial and comparison against the current retrieval evaluation set, supplemented by CPUE/count-method and biological-constraint questions. Measure relevant-source recall, citation accuracy, appropriate abstention, latency and artifact size; manually check claim support and conflicting studies. Only then connect the evidence packs to reviewed Markdown analyst/validator skill drafts, keeping project drafts separate from upstream releases.
+
 ## ICM Workspaces
 Projects can be staged ICM workspaces (`AGENTS.md`, `CONTEXT.md`, stage folders, brain-seeded references and skills). A workspace is linked from `project_manifest.yaml` through `icm_workspace`, and the agent loads it in layers: `get_project_context` returns `AGENTS.md` and `CONTEXT.md`, plus one stage contract when a stage is asked for. Ask the agent to create a project, restructure project X, validate project X or refresh its references; creating and restructuring ask their questions in the terminal. Onboarding offers to restructure each selected project, and the original is never changed. Before a script runs, linked data files are checked against `data/manifest.yaml` and you are asked if any changed. Standalone commands: `python -m utils.icm_wizard`, `icm_restructure`, `icm_validate`, `icm_seed`, `icm_skills`, `icm_data`.
 
