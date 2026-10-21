@@ -1,0 +1,16 @@
+# Optional offline semantic backend only; lexical export/query uses existing PyYAML.
+llama-index-core==0.14.25
+llama-index-embeddings-huggingface==0.8.0
+chromadb==0.4.16
+sentence-transformers==6.2.0
+numpy==1.26.4
+# Chroma 0.4.16 is outside GHSA-f4j7-r4q5-qw2c, GHSA-2wm9-hf6c-p5cr,
+# GHSA-xph7-9rjv-w5fr, and GHSA-36p7-vc44-83pf affected ranges.
+# All four remain unpatched through 1.5.9; do not upgrade Chroma without review.
+# The official LlamaIndex Chroma adapter requires affected Chroma versions;
+# rag_library uses a minimal local BasePydanticVectorStore bridge instead.
+# NumPy 1.x is required by this Chroma release (optional backend: Python 3.10–3.12).
+# Windows semantic publication is unvalidated: Chroma lacks a public client close().
+# Advisory checks found no vulnerabilities for these pins or chroma-hnswlib 0.7.3.
+# Local trusted artifacts/models ONLY. Never run a Chroma server or HttpClient.
+# Build records transitive installed versions; semantic query requires an exact match.

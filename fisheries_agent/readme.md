@@ -15,7 +15,7 @@ The system operates via a master-orchestrator pattern powered by **OpenRouter** 
          ┌───────────────────────┼───────────────────────┐
          ▼                       ▼                       ▼
  📚 [ Fisheries Brain ]  📊 [ Specialized Agents ] 🛠️ [ RProjects ]
-    ├── 01_Sources (RAG)    ├── glmmTMB (Counts)    └── Local Scripts
+    ├── 01_Sources (Notes)  ├── glmmTMB (Counts)    └── Local Scripts
     └── PDF Inbox Scanner   ├── NIMBLE (Bayesian)       (.R, .qmd, .Rmd)
                             └── vegan (Ordination)
 ```
@@ -140,6 +140,50 @@ The first milestone exports only explicitly approved library notes and returns s
 Retrieved passages are untrusted evidence, not instructions. Method applicability, formulas, R implementations and biological values still require scientific review. A genus-level range must not silently become a species-specific rule; empirical ranges normally flag plausibility concerns, not automatic rejection. Delta/hurdle and zero-inflated models are distinct, and no package is mandated solely by a retrieval match. Condensed notes cannot establish details omitted from the original publication.
 
 No source is approved by default. Approval must establish finalization, a redistribution basis, an exact document hash and whether evidence is a condensed note or has been checked against the original. Copyrighted/private material, project PDFs and developer `skill_source/` documents must not be automatically included. The embedding model also needs a redistribution license and a fixed revision.
+
+#### Build and query an approved export
+
+Commands below run from the installed `fisheries_agent` folder; replace `/absolute/...` with your own absolute paths (on Windows, use absolute drive paths and your shell's JSON quoting).
+
+1. Copy `brain_meta/rag_sources.example.yaml` to a local approval file. Its empty allowlist exports **no documents**. For each selected note, fill in its exact path, current SHA-256, `review_finalized`, redistribution approval/basis, `evidence_level`, allowed `tracks`, and reviewed species labels for biological retrieval. The only eligible source directory is the framework's `00_Fisheries_Brain/01_Sources`; project directories and stubs are not eligible.
+2. Build a new artifact directory; existing destinations are never overwritten:
+   ```bash
+   python -m utils.rag_library build --config /absolute/approved-sources.yaml --destination /absolute/rag_artifacts/pilot-v1
+   ```
+   Without an `embedding` configuration this creates a portable lexical-only export using existing dependencies. Source snapshots, heading-aware bounded chunks, canonical citation lookup results, approvals and checksums are retained. Unknown citations stay explicitly unverified; IDs and filenames are kept separately.
+3. Query the exported records, without consulting the live vault:
+   ```bash
+   python -m utils.rag_library query --artifact /absolute/rag_artifacts/pilot-v1 --mode lexical --request '{"track":"methodological","goal":"CPUE standardization","data":"catch counts and effort","design":"repeated sampling","methods":"delta hurdle and zero-inflated models"}'
+   python -m utils.rag_library query --artifact /absolute/rag_artifacts/pilot-v1 --mode lexical --request '{"track":"biological","species":"Xyrauchen texanus","parameter":"annual natural mortality","population":"study population","life_stage":"adult","region":"study region","season":"annual","units":"per year"}'
+   ```
+   Results are JSON evidence leads, not generated profiles or extracted parameter bounds. The methodological context fields are `goal`, `data`, `design`, `methods`; biological fields are `species`, `parameter`, `population`, `life_stage`, `region`, `season`, `units`. Biological searches require both species and parameter, using explicit approved species labels and reviewed aliases, never automatic genus broadening. Unmatched sources produce an empty evidence pack. Missing population/unit agreement and unresolved conflicts require human review. `--limit` (1–12) and `--max-chars` bound output.
+
+#### Optional local semantic retrieval
+
+Install the separately pinned `requirements-rag.txt` only when opting into the semantic backend, in a dedicated Python 3.10–3.12 environment. The standard agent installation does not require it. Installation can require internet access; runtime retrieval must not.
+
+The approval file's commented `embedding` example requires an **already available** local SentenceTransformer, its exact revision, license and redistribution approval, plus hashes for every required model file. A mandatory `license_file` must identify an allowlisted, nonempty UTF-8 license text; include all required NOTICE and attribution files too. Only approved non-executable model files are copied into the artifact; remote code and pickle model weights are excluded. The builder never downloads a model. Acquire and review a suitable licensed model separately before building; absent weights cause failure rather than a network fetch. These checks record approval, not a legal determination of compliance.
+
+Semantic exports persist a Chroma collection and include packaged vectors, source snapshots and model files. Queries use LlamaIndex retrieval over an ephemeral local Chroma collection populated from those vectors: the shipped persistent database is never opened for writing. This protects the artifact but adds startup time/memory; it is a pilot design, not a large-corpus performance claim. Manifest checks enforce the original embedding files/settings and compatible recorded runtime versions; there is no implicit rebuild. Checksums detect accidental changes, **not an untrusted publisher**.
+
+Semantic relevance filtering is an uncalibrated pilot heuristic. Nearest-neighbor scores do not establish scientific support, even when a passage is returned; evaluate false positives and abstention with the chosen model and corpus.
+
+**Not release-validated:** no real embedding-model integration or clean Windows installation has been exercised. In particular, stopping Chroma may leave native file handles open on Windows and prevent the builder's final directory rename. Validate that publication path before distributing a semantic artifact; lexical exports do not open Chroma.
+
+`--mode semantic` requires the optional backend and performs semantic-plus-lexical retrieval. The default `--mode auto` attempts it and reports lexical fallback when setup is absent/incompatible; `--mode lexical` never loads embeddings. Only use artifacts and models from a trusted publisher, locally; do not expose a Chroma server or use untrusted database files.
+
+**Dependency choice:** the optional backend pins Chroma 0.4.16, outside the reported affected ranges of the server authorization/code-injection advisories found during implementation. A small LlamaIndex vector-store bridge avoids the official adapter's requirement for affected releases; NumPy is pinned for compatibility. This is a constrained pilot environment, not a recommendation to deploy an old Chroma server. Reassess advisories and compatibility before any wider deployment.
+
+#### Evaluate the pilot
+
+```bash
+python -m utils.rag_eval /absolute/rag_artifacts/pilot-v1 --mode lexical
+python -m utils.rag_eval /absolute/rag_artifacts/pilot-v1 --mode hybrid
+```
+
+The evaluator combines `brain_meta/eval_questions.yaml` with `brain_meta/rag_eval_questions.yaml` (or repeat `--file /absolute/questions.yaml` for custom sets). It reports legacy stub-first source hits versus exported retrieval, explicit abstention cases, latency, artifact size and evidence IDs for manual review. Hybrid evaluation requires a semantic artifact/backend and fails rather than silently substituting lexical results. The legacy baseline can build its existing local SQLite index; the RAG artifact stays read-only.
+
+**Compare corpus coverage before interpreting scores:** baseline searches the full vault, while RAG sees only approved sources. Missing gold sources may reflect export scope, and concept-only legacy questions require manual assessment. Retrieval hits are not proof that a formula, citation or biological threshold is correct. No production corpus or embedding model is shipped by this pilot.
 
 Release acceptance requires a clean Windows offline-installation trial and comparison against the current retrieval evaluation set, supplemented by CPUE/count-method and biological-constraint questions. Measure relevant-source recall, citation accuracy, appropriate abstention, latency and artifact size; manually check claim support and conflicting studies. Only then connect the evidence packs to reviewed Markdown analyst/validator skill drafts, keeping project drafts separate from upstream releases.
 
