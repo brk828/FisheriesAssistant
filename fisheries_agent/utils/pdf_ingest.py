@@ -1138,16 +1138,16 @@ def cmd_process(args) -> int:
 
 
 def smoke_check(stem: str, title: str) -> bool:
-    """True when searching the note's title returns the note; the index rebuilds itself if the vault changed."""
+    """True when the note is in the search index (rebuilt if the vault changed) and its text is searchable.
+    A generic title can legitimately rank below other sources, so ranking is not tested."""
     try:
-        result = brain_index.search_brain(title)
         db = brain_index._connect()
         try:
-            cite = brain_index._cite_line(db, stem)
+            in_sources = db.execute("SELECT 1 FROM sources WHERE source_id=?", (stem,)).fetchone()
+            in_chunks = db.execute("SELECT 1 FROM chunks_fts WHERE source_id=? LIMIT 1", (stem,)).fetchone()
         finally:
             db.close()
-        # Results show a source's citation line (or [id]), never the file stem.
-        return stem in result or cite in result
+        return bool(in_sources and in_chunks)
     except Exception:
         return False
 
