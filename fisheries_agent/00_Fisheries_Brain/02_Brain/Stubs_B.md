@@ -5849,6 +5849,9 @@ Bill Williams River National Wildlife Refuge is a protected aquatic ecosystem in
 > - **972 total bonytail chubs** were transported, acclimated, and stocked into net pens in a single operation (23 July 1996): 270 large, 432 medium, 270 small. - Fish were acclimated in stages: smaller individuals were transferred directly from cubitainers and floated in the cove; larger numbers w...
 > -- *[[ReceiptAndDispersalOfBonytailC_1996_07_23]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[BonytailStocking_1994_10_18]]
 - [[CollectionOfGrowoutFacilitiesO_1995_05_27]]
@@ -5857,6 +5860,7 @@ Bill Williams River National Wildlife Refuge is a protected aquatic ecosystem in
 - [[ReceiptAndDispersalOfBonytailC_1996_07_23]]
 - [[ReportOfMonitoringToThePittsbu_1993_08_05]]
 - [[StockingOfRazorbackSuckersInto_1993_06_19]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Bill Williams River Nwr
 <!-- fm: auto_enriched: true -->

@@ -3371,6 +3371,18 @@ Pariette Draw is a location in the Upper Colorado River Basin that was included 
 ### Mentioned In
 - [[ManagementGroupMeetingSummary_19219]]
 
+## Park Moabi
+
+### Summary
+Park Moabi is a location within Zone 3-2 of Reach 3 that serves as a major spawning aggregation site for razorback suckers. This study recommends focusing stocking efforts in the Park Moabi area because it shows the highest contact proportions and contains rocky canyon-like shoreline with backwater habitat preferred by razorback suckers. The area is one of the key sites where coordinated remote PIT scanning is conducted during spawning season (January-April) to maintain adequate recontact rates for population estimates.
+
+### Context
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
+### Mentioned In
+- [[ComparativeSurvivalOfRepatriat_2017]]
+
 ## Park View Fish Hatchery
 <!-- fm: auto_enriched: true -->
 
@@ -3507,6 +3519,9 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 > This 1951 report by the Fisheries Task Group of the [[Colorado River Great Basin Field Committee]] presents a comprehensive survey of the Lower Colorado River fishery from [[Hoover Dam]] to the Mexican border. The study divides the river into seven sections, each assessed individually for present...
 > -- *[[FisheriesReportOfTheLowerColor_19846]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[HumpbackChubGilaCypha_18257]]
 - [[ReCommentsOnTheFederalRegister_11571]]
@@ -3531,6 +3546,7 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
 - [[FisheriesReportOfTheLowerColor_19846]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Parker Division
 
@@ -9928,6 +9944,18 @@ A Pit Tag, or Passive Integrated Transponder tag, is a microchip implant used to
 - [[DraftAndRevisedVersionsOfPetit_11208]]
 - [[AStudyToDetermineTheBiological_11576]]
 
+## PIT Tag Database
+
+### Summary
+The PIT Tag Database is a data management system used to track individual razorback suckers implanted with 134-kHz PIT (Passive Integrated Transponder) tags. This study utilized the database to manage information on 38,464 razorback suckers stocked between January 2011 and April 2015, recording data such as total length at release, stocking location, and subsequent detections via remote scanning. The database employs MySQL and Microsoft Access platforms to support mark-recapture analyses and population monitoring.
+
+### Context
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
+### Mentioned In
+- [[ComparativeSurvivalOfRepatriat_2017]]
+
 ## Pit Tag Mark-Recapture Methods
 <!-- fm: auto_enriched: true -->
 
@@ -15432,6 +15460,18 @@ Professor Valley is a section of the Colorado River located below Westwater Cany
 
 ### Mentioned In
 - [[LetterOnDenialOfDevilsHolePupf_1995_05_12]]
+
+## Program MARK
+
+### Summary
+Program MARK is statistical software used for mark-recapture modeling and survival analysis. This study employed Program MARK extensively to assess post-stocking survival of razorback suckers using multi-state, age-structured models, Cormack-Jolly-Seber models, and AICc model selection to evaluate factors like size at release, release season, and time prior to scanning. The analysis addressed issues like overdispersion and used model averaging when no single top model had an AICc weight exceeding 0.9.
+
+### Context
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
+### Mentioned In
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Progressive Fish-Culturist
 <!-- fm: auto_enriched: true -->

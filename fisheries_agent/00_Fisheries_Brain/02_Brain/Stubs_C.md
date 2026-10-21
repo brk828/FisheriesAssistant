@@ -20100,6 +20100,9 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > This document is a meeting summary from the [[Colorado River Recovery Implementation Program]] Management Group meeting held September 13, 1989, in Lakewood, Colorado. The meeting addressed recovery efforts for rare and endangered fish species in the [[Colorado River Basin]], focusing on water...
 > -- *[[ManagementGroupMeetingSummarSe_21019]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -20489,6 +20492,7 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[DraftDocumentimpactsOfElectrof_19691]]
 - [[FormalReviewcrticialHabitatOfT_20672]]
 - [[ManagementGroupMeetingSummarSe_21019]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Colorado River Basin Ecology
 <!-- fm: auto_enriched: true -->
@@ -21910,8 +21914,12 @@ The Colorado River Native Fish Work Group is a multi-agency collaborative body c
 > This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
 > -- *[[EnvironmentalAssessmentForNati_13228]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[EnvironmentalAssessmentForNati_13228]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Colorado River native fishes
 <!-- fm: auto_enriched: true -->
@@ -25608,6 +25616,18 @@ Conservation genetics is the application of genetic analysis and theory to under
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[DiversityWithinTheRedeyeBassMi_2013]]
 - [[StatusAssesmentOfAShoalBassPop_2012]]
+
+## Conservation Genetics Laboratory
+
+### Summary
+The Conservation Genetics Laboratory is a facility that provides genetic analysis services for razorback sucker conservation efforts. This study mentions the laboratory as a cross-linked resource, though specific genetic analyses are not detailed in this document. The laboratory supports the broader monitoring program that includes not only remote PIT scanning for population estimates but also biannual netting and electrofishing to collect health, growth, and genetics data from razorback suckers.
+
+### Context
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
+### Mentioned In
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Conservation Genetics Of Endangered Fishes
 <!-- fm: auto_enriched: true -->

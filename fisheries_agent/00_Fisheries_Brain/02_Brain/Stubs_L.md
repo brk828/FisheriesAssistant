@@ -2251,6 +2251,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This 1951 report by the Fisheries Task Group of the [[Colorado River Great Basin Field Committee]] presents a comprehensive survey of the Lower Colorado River fishery from [[Hoover Dam]] to the Mexican border. The study divides the river into seven sections, each assessed individually for present...
 > -- *[[FisheriesReportOfTheLowerColor_19846]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -2333,6 +2336,7 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[DraftmanagementTowardRecoveryO_13751]]
 - [[AbstractsFromTheDesertFishesCo_15019]]
 - [[FisheriesReportOfTheLowerColor_19846]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Lake Havasu City
 
@@ -3217,6 +3221,9 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > This January 14, 1992 letter from the [[U.S. Fish and Wildlife Service]] Utah-Colorado Field Office to the [[Colorado River Fishes Recovery Team]] summarizes a December 17th meeting and formally requests review of information for establishing critical habitat for the [[Razorback Sucker]]...
 > -- *[[FormalReviewcrticialHabitatOfT_20672]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -3370,6 +3377,7 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[ReProposalIntroductionOfRainbo_13753]]
 - [[ABibliographyOfTheFederallyEnd_14370]]
 - [[FormalReviewcrticialHabitatOfT_20672]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Lake Mead Fault System
 <!-- fm: auto_enriched: true -->
@@ -3886,6 +3894,9 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This 1951 report by the Fisheries Task Group of the [[Colorado River Great Basin Field Committee]] presents a comprehensive survey of the Lower Colorado River fishery from [[Hoover Dam]] to the Mexican border. The study divides the river into seven sections, each assessed individually for present...
 > -- *[[FisheriesReportOfTheLowerColor_19846]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -4148,6 +4159,7 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[AbstractsFromTheDesertFishesCo_15019]]
 - [[EnvironmentalAssessmentForLake_15466]]
 - [[FisheriesReportOfTheLowerColor_19846]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Lake Mohave Backwater Network
 <!-- fm: auto_enriched: true -->
@@ -8450,8 +8462,12 @@ Laughlin Lagoon is a confined backwater study site in Lake Havasu with dense bul
 > This multi-year study (2013-2016) documented post-stocking survival, distribution, and habitat use of endangered [[Bonytail]] (*Gila elegans*) in [[Lake Havasu]], [[Colorado River]]. Six telemetry iterations and five remote [[PIT Scanning]] deployments tracked 85 acoustic/radio-tagged fish across...
 > -- *[[DistributionAndPoststockingSur_2016]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[DistributionAndPoststockingSur_2016]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Laurel Canyon
 
@@ -8618,6 +8634,18 @@ Lawrence Brook is a 7.75-mile marginal trout stream in Royalston, Massachusetts,
 
 ### Mentioned In
 - [[MemorandumOnAquaticCoordinatio_1991_03_29]]
+
+## LCR MSCP Work Task D8
+
+### Summary
+LCR MSCP Work Task D8 is a component of the Lower Colorado River Multi-Species Conservation Program focused on razorback sucker monitoring and management. This study was conducted under Work Task D8 and involved coordinated stocking and remote PIT scanning efforts to maintain the endangered razorback sucker population in Reach 3. The work task involves collaboration among multiple agencies including the Bureau of Reclamation, U.S. Fish and Wildlife Service, and state wildlife departments from Arizona, California, and Nevada.
+
+### Context
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
+### Mentioned In
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Lcr Spawning Effort
 <!-- fm: auto_enriched: true -->

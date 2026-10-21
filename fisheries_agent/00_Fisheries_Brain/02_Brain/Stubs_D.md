@@ -1338,6 +1338,9 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > This 1951 report by the Fisheries Task Group of the [[Colorado River Great Basin Field Committee]] presents a comprehensive survey of the Lower Colorado River fishery from [[Hoover Dam]] to the Mexican border. The study divides the river into seven sections, each assessed individually for present...
 > -- *[[FisheriesReportOfTheLowerColor_19846]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -1386,6 +1389,7 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[PartICurrentSituationPartIiAPr_13306]]
 - [[GeneticDiversityOfRazorbackSuc_19126]]
 - [[FisheriesReportOfTheLowerColor_19846]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Davis Dam Spillway
 <!-- fm: auto_enriched: true -->

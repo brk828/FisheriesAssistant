@@ -2825,6 +2825,9 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
 > -- *[[FyAnnualProjectReportColoradoR_21244]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -3601,6 +3604,7 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[FisheriesReportOfTheLowerColor_19846]]
 - [[FormalReviewcrticialHabitatOfT_20672]]
 - [[FyAnnualProjectReportColoradoR_21244]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Razorback Sucker Age And Growth
 <!-- fm: auto_enriched: true -->
@@ -3738,6 +3742,18 @@ Re-introductions is one of the thematic conservation issues addressed by SSC's d
 
 ### Mentioned In
 - [[DrainageMapOfArizonaShowingPer_1978]]
+
+## Reach 3
+
+### Summary
+Reach 3 is the 84-mile section of the Lower Colorado River between Davis Dam and Parker Dam, including Lake Havasu. This study found that Reach 3 supports a stable razorback sucker population of approximately 4,500-5,000 individuals (2012-2015) that is entirely dependent on continued stocking, with major spawning aggregations occurring in areas like Laughlin Lagoon, Park Moabi, and Topock Marsh. The reach is divided into zones, with Zone 3-2 (Park Moabi area) showing the highest contact rates and containing important spawning habitat.
+
+### Context
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
+### Mentioned In
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Reactor Effluent
 <!-- fm: auto_enriched: true -->

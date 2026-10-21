@@ -6002,6 +6002,9 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > This creel census study examined seasonal patterns in fishing pressure and harvest on a 7-mile section of the [[Des Moines River]] in [[Boone County]], Iowa, between July 1957 and September 1958. The study area, located between Fraser and Boone dams, was surveyed using a modified Latin square...
 > -- *[[SeasonalChangesInHarvestAndFis_20577]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -6092,6 +6095,7 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[SummaryOfCommercialFisheriesCa_19834]]
 - [[ContaminatedFishStockingsIntoT_20328]]
 - [[SeasonalChangesInHarvestAndFis_20577]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Flathead Chub
 <!-- fm: auto_enriched: true -->

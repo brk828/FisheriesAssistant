@@ -799,7 +799,7 @@
   "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: ''",
   "source_id": "X-15a8066b",
   "status": "failed",
-  "timestamp": "2026-10-20T23:50:08+00:00"
+  "timestamp": "2026-10-21T07:24:43+00:00"
  },
  "15b9796f5195407c66f6742c6af313793126842aef7a3b3c1b98a8647f3d4a0a": {
   "citation_source": "minckley-sheet",
@@ -4118,6 +4118,16 @@
   "status": "done",
   "timestamp": "2026-10-20T01:09:16+00:00"
  },
+ "6dcbe9dd8f1911d7e00445fd8d995ca3821f4eb669cae010e902e4025db647e9": {
+  "citation_source": "llm",
+  "doc_type": "ecological_and_biological",
+  "file": "Comparative survival Reach 3 final report 2014-16.pdf",
+  "method": "text",
+  "note": "ComparativeSurvivalOfRepatriat_2017.md",
+  "source_id": "X-6dcbe9dd",
+  "status": "done",
+  "timestamp": "2026-10-21T07:24:33+00:00"
+ },
  "6dec6f9c91e112c65f4cd6b72845ad4d98c7a3b51936aece67ee5df228b98814": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -5943,10 +5953,10 @@
  },
  "9be02d85c9c0a8d2b4594b2cc5b859b1a3265091a21e6eeb0ed690cc7b46c127": {
   "file": "P26-FEIS_TA_08_Aquatic_508.pdf",
-  "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: '--- species: - Humpback Chub (Gila cypha) - Razorback Sucker (Xyrauchen texanus)'",
+  "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: '--- species: - Humpback chub (Gila cypha) - Razorback sucker (Xyrauchen texanus)'",
   "source_id": "X-9be02d85",
   "status": "failed",
-  "timestamp": "2026-10-19T03:08:55+00:00"
+  "timestamp": "2026-10-21T07:27:58+00:00"
  },
  "9c27315bfab1495422a4bd0410eb574c869016fc5bd9556d531d7f762c9c8dda": {
   "citation_source": "minckley-sheet",
@@ -7084,6 +7094,13 @@
   "source_id": "X-bcd23a85",
   "status": "done",
   "timestamp": "2026-10-16T18:43:58+00:00"
+ },
+ "bcf2daeb0474ed050f8b086410f37fe294ba42a68859fa07a549a7a72d7a4f23": {
+  "file": "2016_Adaptive-management-of-an-imperiled-catostomid.pdf",
+  "reason": "similar document already in the brain: AdaptiveManagementOfAnImperile_2016",
+  "source_id": "X-bcf2daeb",
+  "status": "skipped",
+  "timestamp": "2026-10-21T07:23:11+00:00"
  },
  "bd17d39d833913cc636b095ec7c1a67bca63a99c425e786bcd675ed941df78b6": {
   "citation_source": "minckley-sheet",
@@ -9347,7 +9364,7 @@
   "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: ''",
   "source_id": "X-f4969696",
   "status": "failed",
-  "timestamp": "2026-10-20T00:08:31+00:00"
+  "timestamp": "2026-10-21T07:24:39+00:00"
  },
  "f49ba1fc20146fe7e4a0e340c0b293ce3c5f6e3da6f432b1e3d47ef6233507e9": {
   "citation_source": "minckley-sheet",

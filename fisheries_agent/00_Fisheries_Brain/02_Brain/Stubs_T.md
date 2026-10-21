@@ -6271,9 +6271,13 @@ The Topock Division is a reach of the Colorado River within Havasu National Wild
 > This correspondence documents three fish stocking events at [[Topock Marsh]], Arizona in 1977 where shipments from [[Tisomingo National Fish Hatchery]] in Oklahoma inadvertently introduced multiple non-target species alongside requested fish. The incidents involved [[Channel Catfish]] (March 30),...
 > -- *[[ContaminatedFishStockingsIntoT_20328]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[ReviewOfCommissionOrderForCrus_1994_07_27]]
 - [[ContaminatedFishStockingsIntoT_20328]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Topsmelt
 <!-- fm: auto_enriched: true -->

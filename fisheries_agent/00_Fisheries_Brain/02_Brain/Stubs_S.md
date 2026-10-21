@@ -26213,6 +26213,9 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This 1993 technical document from the [[San Marcos National Fish Hatchery]] provides comprehensive genetic management guidelines for federal fish hatcheries in Region 2. The document addresses growing concerns that hatchery operations may threaten wild fish populations through genetic degradation,...
 > -- *[[GeneralGeneticGuidelinesForReg_18841]]*
 
+> **Taxonomic & Life-History Summary:** [[Razorback Sucker]] (*Xyrauchen texanus*) is a long-lived catostomid fish endemic to the [[Colorado River Basin]]. Once abundant throughout its range, populations have steadily declined due to habitat alterations from dam construction and interactions with...
+> -- *[[ComparativeSurvivalOfRepatriat_2017]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -26382,6 +26385,7 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[AGameFishForTheSaltonSeaTheTen_12860]]
 - [[ReProposalIntroductionOfRainbo_13753]]
 - [[GeneralGeneticGuidelinesForReg_18841]]
+- [[ComparativeSurvivalOfRepatriat_2017]]
 
 ## Striped Bass Aquaculture
 <!-- fm: auto_enriched: true -->
