@@ -1553,6 +1553,16 @@
   "status": "done",
   "timestamp": "2026-10-16T19:06:58+00:00"
  },
+ "2962062cb97019cb5eb8b75b390becc1927ceca6044b73891c3d6f2b09ca741b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11852.pdf",
+  "method": "ocr",
+  "note": "ExperimentalNonessentialPopula_11852.md",
+  "source_id": "X-2962062c",
+  "status": "done",
+  "timestamp": "2026-10-21T07:07:04+00:00"
+ },
  "297a7aaa0c89585936c75f9edcaa08adfd6c7605b3c48ab58f71cd4cdce285df": {
   "citation_source": "crossref",
   "doc_type": "analyses_and_modeling",
@@ -2781,6 +2791,16 @@
   "status": "done",
   "timestamp": "2026-10-20T23:39:53+00:00"
  },
+ "499daf8b9e2c0f240ed55857139361995254dab31cfe4262d9e18fb308f420c4": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18032.pdf",
+  "method": "ocr",
+  "note": "HowToGrowMoreFishInKansasThanI_18032.md",
+  "source_id": "X-499daf8b",
+  "status": "done",
+  "timestamp": "2026-10-21T07:10:56+00:00"
+ },
  "49b0cb00fd4f3bcca391fa6de492b7f9abb3cf9ecd1b37a955fde15a491b9837": {
   "citation_source": "crossref",
   "doc_type": "ecological_and_biological",
@@ -3062,6 +3082,16 @@
   "source_id": "X-51154d7c",
   "status": "done",
   "timestamp": "2026-10-17T06:17:14+00:00"
+ },
+ "5157a2c321f260d1a3f83c13008edc3b5f5d8b8162f0f2431e264e8fb2db5f3b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12811.pdf",
+  "method": "ocr",
+  "note": "DistributionAbundanceAndHabita_12811.md",
+  "source_id": "X-5157a2c3",
+  "status": "done",
+  "timestamp": "2026-10-21T07:08:11+00:00"
  },
  "51a27895a1a594c83c1bb9c636464a46283e60d6dd237a87e2e448828570feb9": {
   "citation_source": "minckley-sheet",
@@ -6289,6 +6319,16 @@
   "status": "done",
   "timestamp": "2026-10-20T23:23:57+00:00"
  },
+ "a3d68ca8920b822ed4caa82a12647d98f91ecf083736a171a26fb0541e060c0c": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16369.pdf",
+  "method": "ocr",
+  "note": "NewSystemsAndNewFishesForCultu_16369.md",
+  "source_id": "X-a3d68ca8",
+  "status": "done",
+  "timestamp": "2026-10-21T07:10:34+00:00"
+ },
  "a4ce7b5143a66b31e205f725281709e1bc76a9396e67c4d20d838b7168a6fe76": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -9155,6 +9195,16 @@
   "source_id": "X-f11b8450",
   "status": "done",
   "timestamp": "2026-10-20T23:28:15+00:00"
+ },
+ "f129b6b3b2acc119d4ab82395862f2bad3813409bf57358a202ab0932503a07c": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15334.pdf",
+  "method": "ocr",
+  "note": "GrandCanyonFieldNotesFromAndVa_15334.md",
+  "source_id": "X-f129b6b3",
+  "status": "done",
+  "timestamp": "2026-10-21T07:09:09+00:00"
  },
  "f15dace68b41b648b7d02154d0d9c83a298fcbb6b4f8a7b5e305192d2ce74e2d": {
   "citation_source": "minckley-sheet",
