@@ -1,0 +1,49 @@
+# Opt-in only: no source is approved by this example. Markdown remains authoritative.
+version: 1
+sources: []
+aliases: {}
+chunks:
+  max_chars: 1800
+  overlap_chars: 160
+
+# Each sources entry must explicitly contain:
+# - path: 00_Fisheries_Brain/01_Sources/EXACT_FILENAME.md
+#   sha256: FULL_SHA256_OF_CURRENT_FILE_BYTES
+#   review_finalized: true
+#   redistribution:
+#     approved: true
+#     basis: "Specific license, public-domain determination, or permission reference"
+#   evidence_level: condensed-note  # or original-checked
+#   tracks: [methodological, biological]
+#   species: ["Exact scientific or common name"]  # required for biological matching
+#
+# aliases:
+#   exact canonical species: ["Reviewed synonym"]
+# Aliases apply ONLY to exported records; ambiguous aliases are rejected.
+# Biological queries require both an exact species and a nonempty parameter;
+# taxon-only lexical overlap is not evidence for the requested parameter.
+#
+# Optional semantic export; model must already be on disk (no download code).
+# embedding:
+#   path: /absolute/path/to/approved/local/SentenceTransformer
+#   revision: EXACT_40_CHARACTER_LOWERCASE_HEX_COMMIT_REVISION
+#   license: "Exact model license and redistribution basis"
+#   license_file: LICENSE  # required: actual nonempty UTF-8 text, included below
+#   redistribution_approved: true
+#   files:
+#     LICENSE: FULL_SHA256
+#     config.json: FULL_SHA256
+#     modules.json: FULL_SHA256
+#     model.safetensors: FULL_SHA256
+#     tokenizer.json: FULL_SHA256
+#     tokenizer_config.json: FULL_SHA256
+#     sentence_bert_config.json: FULL_SHA256
+#     1_Pooling/config.json: FULL_SHA256
+# Enumerate ALL required files, with their current hashes. Only JSON/TXT/tokenizer
+# MODEL/safetensors files and MD/LICENSE/NOTICE documentation; no pickle weights,
+# Python code, or custom model modules. Include required license/attribution notices.
+# Redistribution approval asserts the approver has included ALL required license,
+# NOTICE and attribution files; the identifier and a single license file do not
+# automatically establish legal compliance.
+# The revision is the approver's provenance assertion, not a remote verification.
+# Approved files are copied into the artifact and checksummed for offline portability.

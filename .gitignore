@@ -26,6 +26,9 @@ FisheriesAssistant.Rproj
 fisheries_agent/.brain_index.sqlite
 fisheries_agent/.brain_index.building
 
+# Locally built RAG release artifacts (publish separately after review)
+fisheries_agent/rag_artifacts/
+
 # Per-machine Minckley batch progress
 fisheries_agent/brain_meta/minckley_batch_state.json
 
