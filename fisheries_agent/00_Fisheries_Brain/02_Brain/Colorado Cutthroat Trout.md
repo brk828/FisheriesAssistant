@@ -11,5 +11,9 @@ Colorado Cutthroat Trout is a fish species used as an example in this BLM manual
 > This Bureau of Land Management (BLM) Manual Section 6780 establishes comprehensive policy, procedures, and guidelines for the preparation and implementation of Habitat Management Plans (HMPs) on public lands. Released December 23, 1981 (Rel. 6-85), it provides the administrative framework for...
 > -- *[[BureauOfLandManagementManualHa_11459]]*
 
+> This report presents results from C¹⁴ primary productivity studies conducted at [[Twin Lakes]], [[Colorado]], from 1973-81, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study characterizes baseline primary production rates in these high-mountain lakes (2802 m elevation)...
+> -- *[[PrimaryProductivityCAtTwinLake_12652]]*
+
 ## Mentioned In
 - [[BureauOfLandManagementManualHa_11459]]
+- [[PrimaryProductivityCAtTwinLake_12652]]

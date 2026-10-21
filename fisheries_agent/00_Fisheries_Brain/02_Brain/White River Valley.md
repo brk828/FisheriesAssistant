@@ -17,9 +17,13 @@ auto_enriched: true
 > This research proposal by James Everett Deacon (Associate Professor, Nevada Southern University) seeks funding to conduct comprehensive limnological surveys of spring systems in Nevada, particularly the [[Pluvial White River System]], [[Moapa Valley]], and [[Ash Meadows]]. The proposal addresses...
 > -- *[[TheLimnologyOfDesertSprings_13994]]*
 
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[CommentsOnTheDesertFishesCounc_20490]]
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[WhiteRiverSpinedaceLepidomedaA_11636]]
 - [[MxMissileSystemeffectsOnDesert_20506]]
 - [[TheLimnologyOfDesertSprings_13994]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

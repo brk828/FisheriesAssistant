@@ -50,6 +50,9 @@ Catostomus is a genus of freshwater suckers (family Catostomidae) native to Nort
 > This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
 > -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
 
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -72,3 +75,4 @@ Catostomus is a genus of freshwater suckers (family Catostomidae) native to Nort
 - [[DrafInfluenceOfHybridizationOn_11330]]
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+- [[EarlyFieldNotes_15954]]

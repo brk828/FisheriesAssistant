@@ -20,8 +20,12 @@ Pinal County is a county in Arizona that contains part of Aravaipa Creek. The 19
 > This biological opinion, issued November 7, 1996, evaluates the Federal Emergency Management Agency's (FEMA) proposed funding for bridge construction and road reconstruction on [[Aravaipa Creek]] road in [[Pinal County]], [[Arizona]]. The project addresses damage from 1993 flooding at two sites...
 > -- *[[BiologicalOpinionForTheBridgeC_11732]]*
 
+> This document is a formal biological opinion issued by the [[U.S. Fish and Wildlife Service]] on February 15, 1995, regarding the repair and replacement of segments of the [[Aravaipa Creek]] road in [[Pinal County]], Arizona. The consultation addresses potential impacts to two threatened fish...
+> -- *[[BiologicalOpinionForRepairAndo_11904]]*
+
 ## Mentioned In
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[FactorsAffectingTheSuccessOfGi_12971]]
 - [[BiologicalOpinionForTheBridgeC_11732]]
+- [[BiologicalOpinionForRepairAndo_11904]]

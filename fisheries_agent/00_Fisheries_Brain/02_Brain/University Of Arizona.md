@@ -53,6 +53,15 @@ The University of Arizona served as an institutional partner in federally-author
 > This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
 > -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
 
+> This 1987 memorandum from Professor W. L. Minckley to the Chair of Arizona State University's Department of Zoology proposes a Centennial Celebration commemorating [[C. Hart Merriam]]'s pioneering work on life zones. Merriam's 1890 publication "Results of a Biological Survey of the San Francisco...
+> -- *[[PotentialForACHartMerriamCente_13747]]*
+
+> This December 1993 letter from the [[Maricopa Audubon Society]] to the [[Arizona Department of Water Resources]] (ADWR) addresses concerns about a water policy change permitting subdivision development in the upper [[San Pedro River]] basin. The letter documents the ecological significance of the...
+> -- *[[ArizonaDepartmentOfWaterResour_18960]]*
+
+> This document consists of correspondence from May 1995 regarding a proposed beaver (*Castor canadensis frondator*) reintroduction to the [[San Pedro River]] [[Riparian National Conservation Area]] in Arizona. Dr. Robin D. Silver raises concerns about declining river flows (67% reduction in low...
+> -- *[[DeclineInLowFlowsOfSanPedroAnd_18974]]*
+
 ## Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -73,3 +82,6 @@ The University of Arizona served as an institutional partner in federally-author
 - [[VerdeValleyReportsAndSurveysFr_12879]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[PotentialForACHartMerriamCente_13747]]
+- [[ArizonaDepartmentOfWaterResour_18960]]
+- [[DeclineInLowFlowsOfSanPedroAnd_18974]]

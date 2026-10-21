@@ -137,6 +137,24 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 > This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
 > -- *[[GlenCanyonNationalRecreationAr_18334]]*
 
+> This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
+
+> This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
+
+> This Bureau of Reclamation field report documents the 1991 annual razorback sucker ([[Xyrauchen texanus]]) capture and tagging effort at [[Lake Mohave]], focusing on Camp No. 3 operations in the [[Six-Mile Cove]] area on the Nevada side of [[Cottonwood Basin]]. The multi-agency effort (March 18-21,...
+> -- *[[ResultsOfRazorbackSuckerRazorb_15027]]*
+
+> This technical report presents Habitat Suitability Index (HSI) models for [[Common Carp]] (*Cyprinus carpio*) in riverine and lacustrine habitats across the 48 contiguous United States. Developed by the U.S. Fish and Wildlife Service's Habitat Evaluation Procedures Group, the models synthesize...
+> -- *[[HabitatSuitabilityIndexModelsC_15766]]*
+
+> This document comprises two reports from the [[Arizona Game and Fish Department]] covering native fish and trout studies in the [[Colorado River]] system below [[Glen Canyon Dam]] during 1991. The March 26-April 14, 1991 trip report details field sampling in mainstream and [[Little Colorado River]]...
+> -- *[[GlenCanyonEnvironmentalStudies_15938]]*
+
+> [[Antimycin]] is a newly developed antibiotic fish toxicant discovered in 1945 at the [[University of Wisconsin]] Department of Plant Pathology. By 1963, researchers identified its high toxicity to fish at concentrations harmless to other animals. The [[Fish Control Laboratory]] at [[La Crosse]]...
+> -- *[[AntimycinaNewFisheryTool_20243]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -318,3 +336,9 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 - [[DraftLittleColoradoRiverSpined_11662]]
 - [[ReProgressReportOnConstruction_13911]]
 - [[GlenCanyonNationalRecreationAr_18334]]
+- [[HabitatUseAndStreamflowNeedsOf_11609]]
+- [[TheEffectsOfInterimFlowsFromGl_13620]]
+- [[ResultsOfRazorbackSuckerRazorb_15027]]
+- [[HabitatSuitabilityIndexModelsC_15766]]
+- [[GlenCanyonEnvironmentalStudies_15938]]
+- [[AntimycinaNewFisheryTool_20243]]

@@ -23,9 +23,13 @@ Asellidae is a family of freshwater isopod crustaceans that was formally elevate
 > - **Taxonomic context**: Within the family [[Asellidae]], the genus *Asellus* (s. lat.) is widespread in both epigean and cave habitats with many troglobitic species, but the genus *Lirceus* had previously only been recorded from epigean habitats (springs, small streams). Prior cave records of *L...
 > -- *[[ANewTroglobiticIsopodOfTheGenu_1973]]*
 
+> This taxonomic study redescribes the [[Texas Troglobitic Water Slater]], originally described as *Caecidotea smithii* by Ulrich in 1902 from a single incomplete specimen. Based on numerous specimens collected from the [[San Marcos Artesian Well]] beginning in December 1973, the authors establish...
+> -- *[[RedescriptionAndAssignmentToTh_17755]]*
+
 ## Mentioned In
 - [[ANewTroglobiticIsopodOfTheGenu_1973]]
 - [[StenasellidIsopodCrustaceansIn_1972_02_29]]
 - [[SurLaSystématiqueEtLaBiogéogra_1968_07_01]]
 - [[TheFreshwaterIsopodsOfTheGenus_14487]]
 - [[UnNouveauSynasellusCrustaceaIs_15812]]
+- [[RedescriptionAndAssignmentToTh_17755]]

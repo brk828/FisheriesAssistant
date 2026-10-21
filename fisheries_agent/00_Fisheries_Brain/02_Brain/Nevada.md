@@ -32,6 +32,9 @@ Nevada in the context of fish science and conservation refers to the geographic 
 > The [[White River Spinedace]] (*Lepidomeda albivallis*) is a federally endangered cyprinid fish endemic to northern [[White River Valley]] in [[Nevada]]. As of June 1991, the species persisted in only one of seven historically occupied habitats—the northern spring of the [[Flag Springs]]...
 > -- *[[WhiteRiverSpinedaceLepidomedaA_11636]]*
 
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[DemographicsOfTroutAnglersInTh_12587]]
 - [[EndanderedAndThreatenedWildlif_16520]]
@@ -45,3 +48,4 @@ Nevada in the context of fish science and conservation refers to the geographic 
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[SummaryStatementOfInsightsFrom_20854]]
 - [[WhiteRiverSpinedaceLepidomedaA_11636]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

@@ -101,6 +101,18 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
 > -- *[[FishParasites_20804]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This report documents a five-year experimental study (1946-1950) on twelve Michigan lakes testing liberalized fishing regulations for warm-water species, particularly pan fishes. The Michigan Legislature authorized experimental regulations on up to 20 lakes to evaluate effects of removing size...
+> -- *[[FishingInTwelveMichiganLakesUn_16148]]*
+
+> This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
+> -- *[[TheEnvironmentalConditionsOfAn_16280]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -182,3 +194,7 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[MichiganFishPredators_12681]]
 - [[TheMontanaGraylingInMichigan_20282]]
 - [[FishParasites_20804]]
+- [[FishAndFishEggDistributionRepo_13434]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[FishingInTwelveMichiganLakesUn_16148]]
+- [[TheEnvironmentalConditionsOfAn_16280]]

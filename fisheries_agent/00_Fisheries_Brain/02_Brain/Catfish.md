@@ -41,6 +41,9 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 > This chronology documents a year-long restoration effort at [[Yuma Cove]] backwater on [[Lake Mohave]] to create spawning habitat for [[Razorback Sucker]] (*Xyrauchen texanus*). The project involved chemical renovation to remove non-native fish (October 1990), stocking of 90 adult razorback suckers...
 > -- *[[ChronologyOfYumaCoveActivities_15028]]*
 
+> This 1960 study by J. B. Kimsey documents spawning behavior of [[Sacramento Hitch]] (*Lavinia exilicauda exilicauda*) in [[Clear Lake]], California, challenging the prevailing assumption that this cyprinid species requires streams with gravel bottoms for successful reproduction. Direct observations...
+> -- *[[ObservationsOnTheSpawningOfSac_12534]]*
+
 ## Mentioned In
 - [[AsuProfsStudyEndangeredFishes_12227]]
 - [[BaitMinnowsAndTheirPropagation_14538]]
@@ -58,3 +61,4 @@ Catfish are a diverse group of freshwater and brackish-water fishes belonging to
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[ChronologyOfYumaCoveActivities_15028]]
+- [[ObservationsOnTheSpawningOfSac_12534]]

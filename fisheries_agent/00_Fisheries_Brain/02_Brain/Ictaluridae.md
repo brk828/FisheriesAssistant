@@ -44,6 +44,15 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 > This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
 > -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
 
+> This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
+> -- *[[CodeOfFederalRegulationsPartEn_11616]]*
+
+> This paper documents the rediscovery of [[Noturus flavipinnis]] (yellowfin madtom), an [[Ictaluridae]] catfish previously known only from 13 faded specimens collected between 1884 and 1893 from three widely separated localities in the [[Tennessee River]] drainage. The species was feared extinct...
+> -- *[[RediscoveryAndDescriptionOfThe_13513]]*
+
+> This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
+> -- *[[StatewideRoughFishControlfishE_14929]]*
+
 ## Mentioned In
 - [[ACaseOfAlbinismInTheTadpoleMad_20472]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -100,3 +109,6 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[PlansToObtainLiveRioYaquiFishe_14087]]
+- [[CodeOfFederalRegulationsPartEn_11616]]
+- [[RediscoveryAndDescriptionOfThe_13513]]
+- [[StatewideRoughFishControlfishE_14929]]

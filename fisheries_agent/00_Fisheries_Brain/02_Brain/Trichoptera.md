@@ -29,6 +29,9 @@ Trichoptera, commonly known as caddisflies, are an order of freshwater aquatic i
 > This paper describes *Asellus puebla*, a new species of freshwater isopod crustacean collected from the [[Rio Cosala]] in [[Puebla]], [[Mexico]]. The discovery extends the known southern distribution limit of the genus [[Asellus]] from approximately 30° latitude to just below 20° latitude. The...
 > -- *[[ANewSpeciesOfAquaticIsopodCrus_17104]]*
 
+> This 1968 technical report by Brehmer, Ball, and Kevern examines the biological and chemical characteristics of the [[Red Cedar River]] near [[Williamston, Michigan]], focusing on the impacts of domestic sewage pollution on water quality and benthic invertebrate communities. The study employed six...
+> -- *[[TheBiologyAndChemistryOfAWarmw_12927]]*
+
 ## Mentioned In
 - [[DifferencesInTheOccurrenceOfNy_1947]]
 - [[FeedingHabitsOfTheSanPedroMart_15896]]
@@ -43,3 +46,4 @@ Trichoptera, commonly known as caddisflies, are an order of freshwater aquatic i
 - [[WinterObservationsOnBottomOrga_16187]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[ANewSpeciesOfAquaticIsopodCrus_17104]]
+- [[TheBiologyAndChemistryOfAWarmw_12927]]

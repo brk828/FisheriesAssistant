@@ -23,8 +23,12 @@ The Central Mudminnow (Umbra limi) is a small freshwater fish species native to 
 > [[Clinostomum marginatum]], the yellow grub, is a digenetic trematode distributed across most of North America with economic importance in commercial and sport fisheries. The metacercarial stage (0.5–1.0 inch) encysts under the skin or in musculature of fishes, rendering them esthetically...
 > -- *[[ABibliographyAndHostListForThe_15289]]*
 
+> [[Antimycin]] is a newly developed antibiotic fish toxicant discovered in 1945 at the [[University of Wisconsin]] Department of Plant Pathology. By 1963, researchers identified its high toxicity to fish at concentrations harmless to other animals. The [[Fish Control Laboratory]] at [[La Crosse]]...
+> -- *[[AntimycinaNewFisheryTool_20243]]*
+
 ## Mentioned In
 - [[DrainageRecordsAndConservation_14901]]
 - [[EndangeredThreatenedAndRarePla_14903]]
 - [[FoodOfYoungPikeEsoxLuciusLAndA_1951]]
 - [[ABibliographyAndHostListForThe_15289]]
+- [[AntimycinaNewFisheryTool_20243]]

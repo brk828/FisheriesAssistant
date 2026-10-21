@@ -17,9 +17,13 @@ auto_enriched: true
 > This biological opinion, issued February 14, 1994, by the [[U.S. Fish and Wildlife Service]] [[Arizona Ecological Services State Office]], addresses formal consultation under Section 7 of the [[Endangered Species Act]] regarding the proposed [[Allotment Management Plan]] for the Dos S Unit of the...
 > -- *[[BiologicalOpinionThatAuthoriza_11901]]*
 
+> This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
+> -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
+
 ## Mentioned In
 - [[BiologicalOpinionTuleCreekRipa_1991_09_03]]
 - [[ReportOfFloodDamageToBigSpring_18984]]
 - [[FactorsAffectingTheSuccessOfGi_12971]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[BiologicalOpinionThatAuthoriza_11901]]
+- [[AnUpdateStatusReportOfTheSonor_13824]]

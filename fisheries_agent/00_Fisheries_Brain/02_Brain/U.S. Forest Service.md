@@ -77,6 +77,24 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > This August 12, 1991 letter from the [[U.S. Fish and Wildlife Service]] to the [[U.S. Forest Service]] provides formal comments on the proposed [[Pigeon Creek Lake]] project in [[Greenlee County]], [[Arizona]]. The Service raises significant concerns about the project's potential impacts to...
 > -- *[[ReRequestForCommentsRegardingT_15640]]*
 
+> This biological opinion, issued October 14, 1997, addresses the realignment of Forest Road 281 near [[Bush Creek]] on the upper [[Blue River]], [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] (lead agency) and [[U.S. Army Corps of Engineers]] proposed rerouting approximately 1,200...
+> -- *[[BiologicalOpinionSummaryBlueRi_11685]]*
+
+> This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
+> -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
+
+> This 1987 memorandum from Professor W. L. Minckley to the Chair of Arizona State University's Department of Zoology proposes a Centennial Celebration commemorating [[C. Hart Merriam]]'s pioneering work on life zones. Merriam's 1890 publication "Results of a Biological Survey of the San Francisco...
+> -- *[[PotentialForACHartMerriamCente_13747]]*
+
+> This 1964 newspaper article describes the construction of [[Blue Ridge Dam]] on [[East Clear Creek]] in Arizona's [[Mogollon Rim]] country, part of a three-phase water transfer project by [[Phelps Dodge Corporation]] to support expanded copper mining operations at [[Morenci]]. The $6 million dam,...
+> -- *[[DramaticBattleForWaterBehindTh_18467]]*
+
+> This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
+> -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
+
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -123,3 +141,9 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[UsFishAndWildlifeServicesAbili_20453]]
 - [[MinutesForDesertFishesRecovery_12506]]
 - [[ReRequestForCommentsRegardingT_15640]]
+- [[BiologicalOpinionSummaryBlueRi_11685]]
+- [[NativeTroutOfArizonaAndNewMexi_13251]]
+- [[PotentialForACHartMerriamCente_13747]]
+- [[DramaticBattleForWaterBehindTh_18467]]
+- [[GilaTopminnowSitesInArizonaPro_19668]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

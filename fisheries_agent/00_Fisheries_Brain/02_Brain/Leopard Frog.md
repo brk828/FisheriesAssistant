@@ -17,9 +17,17 @@ The Leopard Frog, likely referring to the native *Rana pipiens* or related ranid
 > This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
 > -- *[[GilasanFranciscoRiversResource_18256]]*
 
+> This management plan proposes the establishment of the [[Sierra San Luis]] Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]] (Chihuahua), Mexico, along the U.S. border. The area forms part of the extreme...
+> -- *[[ManagementPlanSierraSanLuisWil_11399]]*
+
+> This newsletter from the National Biological Survey Cooperative Park Studies Unit at The University of Arizona (CPSU/UA) documents field research activities, monitoring projects, and administrative developments during early 1994. Staff conducted diverse ecological studies across Arizona and...
+> -- *[[ProjectsTakeStaffToTheField_13221]]*
+
 ## Mentioned In
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
 - [[LetterOnGilaTopminnowHabitatAn_1992_06_11]]
 - [[PupfishPopulationSupplementPeo_1988_09_20]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[GilasanFranciscoRiversResource_18256]]
+- [[ManagementPlanSierraSanLuisWil_11399]]
+- [[ProjectsTakeStaffToTheField_13221]]

@@ -14,6 +14,10 @@ The Animas River is a tributary in the Colorado River Basin identified as import
 > On April 10, 1990, the U.S. Fish and Wildlife Service issued a draft jeopardy biological opinion regarding the [[Animas-La Plata]] irrigation project in southwest Colorado and northeast New Mexico. The opinion concludes that construction of the project would likely jeopardize the continued...
 > -- *[[FishAndWildlifeServiceIssuesDr_20983]]*
 
+> The [[Colorado Squawfish]] (*Ptychocheilus lucius*) is the largest cyprinid in North America, historically reaching lengths of nearly 1.8 m and weights exceeding 36 kg. This voracious predator served as the top carnivore of the [[Colorado River]] system. Listed as endangered in 1967 and protected...
+> -- *[[ColoradoSquawfishPtychocheilus_13278]]*
+
 ## Mentioned In
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[FishAndWildlifeServiceIssuesDr_20983]]
+- [[ColoradoSquawfishPtychocheilus_13278]]

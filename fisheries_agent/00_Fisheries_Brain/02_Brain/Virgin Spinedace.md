@@ -35,6 +35,9 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 > This internal memorandum provides critical review of a U.S. Fish and Wildlife Service Environmental Assessment (EA) proposing rotenone treatment of the [[Virgin River]] to eradicate introduced [[Red Shiner]] (*Cyprinella lutrensis*) and facilitate recovery of the endangered [[Woundfin]]...
 > -- *[[CommentsOnVirginRiverEa_19382]]*
 
+> This five-year assessment evaluates conservation actions conducted for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during the initial term (1995-2000) of the Virgin Spinedace Conservation Agreement and Strategy (VSCAS). The VSCAS was developed in 1995 as a collaborative effort among...
+> -- *[[VirginSpinedaceLepidomedaMolli_14744]]*
+
 ## Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AttachedDraftListOfSpeciesAssi_14772]]
@@ -70,3 +73,4 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 - [[DraftConservationStrategyVirgi_11659]]
 - [[CommentsOnVirginRiverEa_19382]]
+- [[VirginSpinedaceLepidomedaMolli_14744]]

@@ -77,6 +77,15 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 > This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
 > -- *[[GlenCanyonEnvironmentalStudies_19734]]*
 
+> This document is a July 1990 letter from a Department of Zoology faculty member to Stewart L. Udall, former Secretary of the Interior, requesting a forward for an edited volume on endangered western fishes. The letter includes a draft forward outlining key conservation controversies involving...
+> -- *[[DraftOfForwardForBookBattleAga_13788]]*
+
+> This document presents the Fiscal Year 1998 Annual Monitoring and Research Plan for the [[Grand Canyon Monitoring and Research Center]] (GCMRC), representing the first year of implementation of the Long-Term Monitoring and Research Strategic Plan (1998-2002). The plan addresses monitoring and...
+> -- *[[FiscalYearAnnualMonitoringAndR_17765]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
 ## Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
@@ -123,3 +132,6 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[BureauOfReclamationAnnouncesPu_20788]]
 - [[GlenCanyonEnvironmentalStudies_19734]]
+- [[DraftOfForwardForBookBattleAga_13788]]
+- [[FiscalYearAnnualMonitoringAndR_17765]]
+- [[GlenCanyonEnvironmentalStudies_19719]]

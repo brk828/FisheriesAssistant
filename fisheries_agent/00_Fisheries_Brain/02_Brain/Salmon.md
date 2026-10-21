@@ -35,6 +35,9 @@ Salmon are anadromous fish species belonging to the family Salmonidae that migra
 > The [[Sacramento Squawfish]] (*Ptychocheilus grandis*) is a large native minnow endemic to California's [[Sacramento-San Joaquin River System]] and select coastal drainages. Historically the top fish predator in its ecosystem, it now coexists with introduced predatory species including [[Smallmouth...
 > -- *[[TheSacramentoSquawfish_13255]]*
 
+> This report documents new distribution records for two parasitic copepods of the family [[Lernaeopodidae]] in Yorkshire, England. [[Achtheres percarum]] Nordmann is recorded from three Yorkshire localities (Doe Park Reservoir, Bretton Park Lake, and River Ouse at Lower Dunsforth) representing...
+> -- *[[TheParasiticCopepodAchtheresPe_18884]]*
+
 ## Mentioned In
 - [[ASystemForRecordingMeasurement_1947]]
 - [[BlameTheArmyForMuckyRiversToo_1995_04_17]]
@@ -49,3 +52,4 @@ Salmon are anadromous fish species belonging to the family Salmonidae that migra
 - [[TheMaineSmallmouth_14928]]
 - [[ColumnarisDiseaseOfFishes_21236]]
 - [[TheSacramentoSquawfish_13255]]
+- [[TheParasiticCopepodAchtheresPe_18884]]

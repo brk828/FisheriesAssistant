@@ -29,6 +29,12 @@ auto_enriched: true
 > This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
 > -- *[[CurrentStatusOfEndangeredThrea_12695]]*
 
+> This Environmental Assessment and Habitat Conservation Plan (EA/HCP) addresses the issuance of an Incidental Take Permit under Section 10(a)(1)(B) of the [[Endangered Species Act]] for [[El Coronado Ranch]] (ECR) in [[Cochise County]], [[Arizona]]. The document covers ranching operations on 6,153...
+> -- *[[EnvironmentalAssessmentAndHabi_11684]]*
+
+> A fisheries survey conducted November 14-15, 1997 along [[Turkey Creek]] on the west side of the [[Chiricahua Mountains]], [[Cochise County]], Arizona documented four fish species. The survey was motivated by reports of [[Fathead Minnow]] (Pimephales promelas) in Lodge Pond. Sampling confirmed the...
+> -- *[[TurkeyCreekFisheriesSurveyCoch_17218]]*
+
 ## Mentioned In
 - [[TotalFloristicStudyOfTheSanBer_14669]]
 - [[ReContinuationOfTheUsArmysSanP_11808]]
@@ -39,3 +45,5 @@ auto_enriched: true
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
 - [[BiologicalOpinionForTheSanBern_13329]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
+- [[EnvironmentalAssessmentAndHabi_11684]]
+- [[TurkeyCreekFisheriesSurveyCoch_17218]]

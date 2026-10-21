@@ -116,6 +116,12 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
 > -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
+> -- *[[BioassayAndUseOfPituitaryMater_15952]]*
+
 ## Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -198,3 +204,5 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[TechnicalReviewDraftSpikedaceM_19407]]
 - [[TheLimnologyOfDesertSprings_13994]]
 - [[AgencyReviewDraftLoachMinnowTi_19398]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[BioassayAndUseOfPituitaryMater_15952]]

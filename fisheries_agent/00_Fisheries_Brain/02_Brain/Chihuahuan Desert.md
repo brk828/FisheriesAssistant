@@ -53,6 +53,9 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 > This Ph.D. dissertation proposal by Anna Melina Ludlow at [[Lehigh University]] outlines a comprehensive study of sexual selection, mate choice, and hybridization in two endemic pupfish species from the [[Cuatro Cienegas]] basin in northern Mexico: [[Cyprinodon atrorus]] and [[Cyprinodon...
 > -- *[[SexualSelectionInTheCuatroCien_20108]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
 ## Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[ButterfliesFromCoahuilaMexico_1968]]
@@ -76,3 +79,4 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 - [[ProposalBiologicallySensitiveA_16496]]
 - [[NitrogenAndPhosphorousDynamics_17776]]
 - [[SexualSelectionInTheCuatroCien_20108]]
+- [[DesertFishesCouncilThirteenthA_12827]]

@@ -263,6 +263,48 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This 1994 U.S. District Court opinion addresses a legal challenge by the [[Idaho Department of Fish and Game]] (IDFG) against the [[National Marine Fisheries Service]] (NMFS) regarding the operation of the [[Federal Columbia River Power System]] (FCRPS) and its impacts on three listed [[Snake...
 > -- *[[SalmonDecision_19385]]*
 
+> This Environmental Assessment and Habitat Conservation Plan (EA/HCP) addresses the issuance of an Incidental Take Permit under Section 10(a)(1)(B) of the [[Endangered Species Act]] for [[El Coronado Ranch]] (ECR) in [[Cochise County]], [[Arizona]]. The document covers ranching operations on 6,153...
+> -- *[[EnvironmentalAssessmentAndHabi_11684]]*
+
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
+> This final rule, published February 23, 1998, codifies the Habitat Conservation Plan (HCP) assurances provided through section 10(a)(1)(B) permits issued under the [[Endangered Species Act]] (ESA). The "No Surprises" policy, first announced in 1994 by the [[Fish and Wildlife Service]] (FWS) and...
+> -- *[[HabitatConservationPlanAssuran_13191]]*
+
+> This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
+> -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
+
+> This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
+
+> This document is a July 1990 letter from a Department of Zoology faculty member to Stewart L. Udall, former Secretary of the Interior, requesting a forward for an edited volume on endangered western fishes. The letter includes a draft forward outlining key conservation controversies involving...
+> -- *[[DraftOfForwardForBookBattleAga_13788]]*
+
+> This 1990 memorandum from W. L. Minckley to the [[San Pedro River]] ISF Quantification Team reassesses water-rights needs for native fish management on San Pedro River properties managed by [[U.S. Bureau of Land Management]] and [[The Nature Conservancy]]. The document emphasizes that the [[San...
+> -- *[[ReassessmentOfOriginalInformat_13790]]*
+
+> This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
+> -- *[[PartManagementConcernsPriority_14724]]*
+
+> This February 1992 report by [[World Wildlife Fund]] analyzes Section 7 consultation data under the [[Endangered Species Act]] (ESA) from Fiscal Years 1987-1991. The study examines consultation records from every regional office of the [[U.S. Fish and Wildlife Service]] (FWS) and [[National Marine...
+> -- *[[ForConservingListedSpeciesTalk_15635]]*
+
+> This Supplemental Environmental Assessment, prepared by the [[Bureau of Land Management]] Phoenix District Office in May 1984, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into 11 selected...
+> -- *[[IntroductionOfGilaTopminnowAnd_17957]]*
+
+> On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
+> -- *[[WorkshopProceedings_18372]]*
+
+> This draft policy document examines recovery and regulatory compliance programs for four endangered native fishes of the [[Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[TowardRangewideIntegrationOfRe_18629]]*
+
+> This memorandum from the [[Glen Canyon Environmental Studies]] (GCES) program, dated November 24, 1992, outlines coordination plans for a December 1, 1992 meeting of principle investigators conducting native fish research in [[Grand Canyon]]. The document focuses on integrating research efforts...
+> -- *[[GlenCanyonEnvironmentalStudies_19708]]*
+
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -632,3 +674,17 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[BiologicalEvaluationOfTheAppro_15074]]
 - [[IntroductionOfGilaTopminnowAnd_17956]]
 - [[SalmonDecision_19385]]
+- [[EnvironmentalAssessmentAndHabi_11684]]
+- [[DesertFishesCouncilThirteenthA_12827]]
+- [[HabitatConservationPlanAssuran_13191]]
+- [[NativeTroutOfArizonaAndNewMexi_13251]]
+- [[TheEffectsOfInterimFlowsFromGl_13620]]
+- [[DraftOfForwardForBookBattleAga_13788]]
+- [[ReassessmentOfOriginalInformat_13790]]
+- [[PartManagementConcernsPriority_14724]]
+- [[ForConservingListedSpeciesTalk_15635]]
+- [[IntroductionOfGilaTopminnowAnd_17957]]
+- [[WorkshopProceedings_18372]]
+- [[TowardRangewideIntegrationOfRe_18629]]
+- [[GlenCanyonEnvironmentalStudies_19708]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

@@ -38,6 +38,9 @@ Steelhead are the anadromous (sea-run) life-history form of *Oncorhynchus mykiss
 > This 1954 California Department of Fish and Game document announces the reopening of recreational sturgeon fishing after a 35-year closure. The white sturgeon (*Acipenser transmontanus*) and green sturgeon (*Acipenser medirostris*) populations had recovered sufficiently to allow limited harvest....
 > -- *[[TheCaliforniaSturgeon_17339]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
 ## Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[StationProfileOfTheH_19552]]
@@ -50,3 +53,4 @@ Steelhead are the anadromous (sea-run) life-history form of *Oncorhynchus mykiss
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
 - [[TheCaliforniaSturgeon_17339]]
+- [[FishAndFishEggDistributionRepo_13434]]

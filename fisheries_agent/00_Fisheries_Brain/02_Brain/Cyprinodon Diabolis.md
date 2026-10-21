@@ -17,9 +17,13 @@ auto_enriched: true
 > This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
 > -- *[[FishesAndAquaticResourcesDeath_15415]]*
 
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[DevilsHoleObservationsAndInter_14957]]
 - [[LetterFromJamesEDeaconToClarkH_1975_04_17]]
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[ConservationGeneticsInTheManag_20087]]
 - [[FishesAndAquaticResourcesDeath_15415]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

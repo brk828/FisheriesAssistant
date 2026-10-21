@@ -41,6 +41,9 @@ Rhinichthys osculus, commonly known as the speckled dace, is a small native cypr
 > This 1972 report by W. L. Minckley assesses the native and non-native fish fauna at four proposed reservoir sites in the [[Gila River]] basin of Arizona and New Mexico: [[Orme Reservoir]], [[Buttes Reservoir]], [[Charleston Reservoir]], and [[Hooker Reservoir]]. Of 15-16 native fish species...
 > -- *[[IchthyofaunaOfTheOrmeButtesCha_18587]]*
 
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
 ## Mentioned In
 - [[AravaipaCreekMonitoringData_1993_07_15]]
 - [[BlueSpringsMiLittleColoradoRiv_1971]]
@@ -66,3 +69,4 @@ Rhinichthys osculus, commonly known as the speckled dace, is a small native cypr
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
+- [[EarlyFieldNotes_15954]]

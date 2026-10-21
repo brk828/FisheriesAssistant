@@ -44,6 +44,12 @@ Shinumo Creek is a tributary of the Colorado River within the Grand Canyon that 
 > This document presents a comprehensive summary of collecting localities for the [[Humpback Chub]] (*Gila cypha*) from the [[Colorado River]] and selected tributaries in [[Coconino County]] and [[Mohave County]], Arizona, spanning from archaeological remains (4000 years B.P.) through 1979....
 > -- *[[SummaryOfCollectingLocalitiesF_18502]]*
 
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
 ## Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DiscussionOfBiowestSWorkPlan_1991_09_23]]
@@ -61,3 +67,5 @@ Shinumo Creek is a tributary of the Colorado River within the Grand Canyon that 
 - [[HabitatUseByHumpbackChubGilaCy_11575]]
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
 - [[SummaryOfCollectingLocalitiesF_18502]]
+- [[EarlyFieldNotes_15954]]
+- [[GlenCanyonEnvironmentalStudies_19719]]

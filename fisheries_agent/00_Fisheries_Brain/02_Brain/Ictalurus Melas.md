@@ -20,6 +20,18 @@ Ictalurus melas, commonly known as the black bullhead, is a freshwater catfish s
 > **Taxonomic & Life-History Summary**: This survey documented nine species and one hybrid from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]]. Seven native species persist: [[Gila robusta]] (roundtail chub), [[Rhinichthys osculus]] (speckled dace), [[Agosia chrysogaster]]...
 > -- *[[FishesOfAravaipaCreekGrahamAnd_1966]]*
 
+> This paper documents the rediscovery of [[Noturus flavipinnis]] (yellowfin madtom), an [[Ictaluridae]] catfish previously known only from 13 faded specimens collected between 1884 and 1893 from three widely separated localities in the [[Tennessee River]] drainage. The species was feared extinct...
+> -- *[[RediscoveryAndDescriptionOfThe_13513]]*
+
+> This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
+> -- *[[ReservoirFisheriesInvestigatio_14590]]*
+
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This recovery plan addresses [[Gasterosteus aculeatus williamsoni]], the [[Unarmored Threespine Stickleback]], an endangered freshwater fish subspecies endemic to southern California. Prepared by the Unarmored Threespine Stickleback Recovery Team (led by Shoken Sasaki, California Department of Fish...
+> -- *[[RecoveryPlanForUnarmoredThrees_20518]]*
+
 ## Mentioned In
 - [[ChecklistOfParasitesFromCatfis_1959]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
@@ -28,3 +40,7 @@ Ictalurus melas, commonly known as the black bullhead, is a freshwater catfish s
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
+- [[RediscoveryAndDescriptionOfThe_13513]]
+- [[ReservoirFisheriesInvestigatio_14590]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[RecoveryPlanForUnarmoredThrees_20518]]

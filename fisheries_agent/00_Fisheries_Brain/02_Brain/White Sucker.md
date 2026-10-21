@@ -59,6 +59,18 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 > This combined project report documents six interrelated studies examining the effects of [[Aspinall Unit]] reservoir operations on endangered fish populations in the [[Gunnison River]] and [[Colorado River]] systems during FY 1993. The studies focused on three federally endangered species:...
 > -- *[[AFiveYearStudyToInvestigateThe_11212]]*
 
+> This report presents results from C¹⁴ primary productivity studies conducted at [[Twin Lakes]], [[Colorado]], from 1973-81, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study characterizes baseline primary production rates in these high-mountain lakes (2802 m elevation)...
+> -- *[[PrimaryProductivityCAtTwinLake_12652]]*
+
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
+> This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
+> -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
+
+> [[Antimycin]] is a newly developed antibiotic fish toxicant discovered in 1945 at the [[University of Wisconsin]] Department of Plant Pathology. By 1963, researchers identified its high toxicity to fish at concentrations harmless to other animals. The [[Fish Control Laboratory]] at [[La Crosse]]...
+> -- *[[AntimycinaNewFisheryTool_20243]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -101,3 +113,7 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 - [[RestorationPlanForRazorbackSuc_20599]]
 - [[AnInvestigationOfEndangeredAnd_12516]]
 - [[AFiveYearStudyToInvestigateThe_11212]]
+- [[PrimaryProductivityCAtTwinLake_12652]]
+- [[ColoradoRiverFisheriesInvestig_18481]]
+- [[GeneticDiversityOfRazorbackSuc_19126]]
+- [[AntimycinaNewFisheryTool_20243]]

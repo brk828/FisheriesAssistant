@@ -38,6 +38,12 @@ Gammarus lacustris is a freshwater amphipod crustacean that serves as a critical
 > This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
 > -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
 
+> This document comprises two reports from the [[Arizona Game and Fish Department]] covering native fish and trout studies in the [[Colorado River]] system below [[Glen Canyon Dam]] during 1991. The March 26-April 14, 1991 trip report details field sampling in mainstream and [[Little Colorado River]]...
+> -- *[[GlenCanyonEnvironmentalStudies_15938]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
 ## Mentioned In
 - [[EffectsOfThermalConstancyAndSe_1976]]
 - [[FlowModificationsToTheGlenCany_18321]]
@@ -51,3 +57,5 @@ Gammarus lacustris is a freshwater amphipod crustacean that serves as a critical
 - [[SelectiveWithdrawalWorkgroupMe_15753]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[GlenCanyonEnvironmentalStudies_15938]]
+- [[GlenCanyonEnvironmentalStudies_19719]]

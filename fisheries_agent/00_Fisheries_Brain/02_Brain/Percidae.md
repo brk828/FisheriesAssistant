@@ -50,6 +50,9 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 > The [[Boulder Darter]] (*Etheostoma wapiti*) is a small endangered member of the perch family (Percidae) listed by the U.S. Fish and Wildlife Service in 1988. This bottom-dwelling darter survives in only approximately 63 miles (101 kilometers) of the lower [[Elk River]] system in southern Tennessee...
 > -- *[[TheBoulderDarterAConservationC_14033]]*
 
+> This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
+> -- *[[CodeOfFederalRegulationsPartEn_11616]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AChecklistOfTexasFreshWaterFis_14208]]
@@ -108,3 +111,4 @@ Percidae is a diverse family of freshwater fishes that includes perches, darters
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[HabitatSuitabilityIndexModelsS_15765]]
 - [[TheBoulderDarterAConservationC_14033]]
+- [[CodeOfFederalRegulationsPartEn_11616]]

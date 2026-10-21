@@ -26,9 +26,17 @@ Pomoxis nigromaculatus, commonly known as black crappie, is a freshwater centrar
 > The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
 > -- *[[IntroductionOfPalaemonetesPalu_20723]]*
 
+> This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
+> -- *[[ReservoirFisheriesInvestigatio_14590]]*
+
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
+- [[ReservoirFisheriesInvestigatio_14590]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

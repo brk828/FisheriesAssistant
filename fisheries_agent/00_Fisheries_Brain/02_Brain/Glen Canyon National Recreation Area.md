@@ -26,6 +26,9 @@ Glen Canyon National Recreation Area encompasses the Colorado River ecosystem do
 > This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
 > -- *[[GlenCanyonNationalRecreationAr_18334]]*
 
+> This document presents the Fiscal Year 1998 Annual Monitoring and Research Plan for the [[Grand Canyon Monitoring and Research Center]] (GCMRC), representing the first year of implementation of the Long-Term Monitoring and Research Strategic Plan (1998-2002). The plan addresses monitoring and...
+> -- *[[FiscalYearAnnualMonitoringAndR_17765]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[LetterConcerningStripedBassThr_1990_06_03]]
@@ -38,3 +41,4 @@ Glen Canyon National Recreation Area encompasses the Colorado River ecosystem do
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[BureauOfReclamationAnnouncesPu_20788]]
 - [[GlenCanyonNationalRecreationAr_18334]]
+- [[FiscalYearAnnualMonitoringAndR_17765]]

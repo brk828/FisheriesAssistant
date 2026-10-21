@@ -254,6 +254,33 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
 > -- *[[ProposedActionPlanForReintrodu_19433]]*
 
+> This biological opinion, issued October 14, 1997, addresses the realignment of Forest Road 281 near [[Bush Creek]] on the upper [[Blue River]], [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] (lead agency) and [[U.S. Army Corps of Engineers]] proposed rerouting approximately 1,200...
+> -- *[[BiologicalOpinionSummaryBlueRi_11685]]*
+
+> This document presents the Fiscal Year 1999 Work Plan for the Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin, approved by the Implementation Committee on September 10, 1998. The program addresses recovery of four endangered fish species: [[Colorado...
+> -- *[[FiscalYearWorkPlan_11756]]*
+
+> This memorandum documents a formal Section 7 consultation under the Endangered Species Act regarding the proposed [[Hoover Powerplant]] modification project and its potential impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake...
+> -- *[[FormalSectionConsultationOnThe_11836]]*
+
+> This article documents the critical endangerment of three native Arizona fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen texanus*)—that were once so abundant in the [[Colorado River]] Valley that settlers...
+> -- *[[WantedEndangeredArizonaFishesF_12618]]*
+
+> This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
+> -- *[[PartICurrentSituationPartIiAPr_13306]]*
+
+> This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
+> -- *[[PartManagementConcernsPriority_14724]]*
+
+> This Bureau of Reclamation field report documents the 1991 annual razorback sucker ([[Xyrauchen texanus]]) capture and tagging effort at [[Lake Mohave]], focusing on Camp No. 3 operations in the [[Six-Mile Cove]] area on the Nevada side of [[Cottonwood Basin]]. The multi-agency effort (March 18-21,...
+> -- *[[ResultsOfRazorbackSuckerRazorb_15027]]*
+
+> This document consists of correspondence from May 1995 regarding a proposed beaver (*Castor canadensis frondator*) reintroduction to the [[San Pedro River]] [[Riparian National Conservation Area]] in Arizona. Dr. Robin D. Silver raises concerns about declining river flows (67% reduction in low...
+> -- *[[DeclineInLowFlowsOfSanPedroAnd_18974]]*
+
+> This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
+> -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -496,3 +523,12 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[ChronologyOfYumaCoveActivities_15028]]
 - [[RazorbackSuckerMonitoringInLak_17016]]
 - [[ProposedActionPlanForReintrodu_19433]]
+- [[BiologicalOpinionSummaryBlueRi_11685]]
+- [[FiscalYearWorkPlan_11756]]
+- [[FormalSectionConsultationOnThe_11836]]
+- [[WantedEndangeredArizonaFishesF_12618]]
+- [[PartICurrentSituationPartIiAPr_13306]]
+- [[PartManagementConcernsPriority_14724]]
+- [[ResultsOfRazorbackSuckerRazorb_15027]]
+- [[DeclineInLowFlowsOfSanPedroAnd_18974]]
+- [[GeneticDiversityOfRazorbackSuc_19126]]

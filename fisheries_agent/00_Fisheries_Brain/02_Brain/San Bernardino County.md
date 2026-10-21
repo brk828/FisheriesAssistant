@@ -17,7 +17,11 @@ San Bernardino County was the third-ranked trout county in California in 1960, w
 > This taxonomic revision demonstrates that *[[Salmo evermanni]]*, described by Jordan and Grinnell in 1908 from the upper [[Santa Ana River]] in the [[San Bernardino Mountains]], is a junior synonym of *[[Salmo clarkii henshawi]]* (Lahontan cutthroat trout) from [[Lake Tahoe]]. The authors...
 > -- *[[SalmoEvermanniASynonymOfSalmoC_18176]]*
 
+> This document is a planning map from the [[Bureau of Land Management]] (BLM) [[Desert Planning Staff]] depicting the [[California Desert Conservation Plan]] multiple-use classification system. The map delineates various land management categories across the [[California Desert]], including areas in...
+> -- *[[CaliforniaDesertConservationAr_11457]]*
+
 ## Mentioned In
 - [[MovementsOfInlandAnglersWithin_11325]]
 - [[RequestByUecToImportAndPossess_18439]]
 - [[SalmoEvermanniASynonymOfSalmoC_18176]]
+- [[CaliforniaDesertConservationAr_11457]]

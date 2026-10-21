@@ -41,6 +41,18 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 > This FY 1993 annual report documents ongoing drift-net sampling to evaluate [[Colorado Squawfish]] (*Ptychocheilus lucius*) larval production in the [[Colorado River]] in response to flow manipulations from the [[Aspinall Unit]]. Principal investigators Leo Lentsch and Melissa Trammell from the...
 > -- *[[AspinalUnitStudiesEvaluationOf_20259]]*
 
+> This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
+> -- *[[PartICurrentSituationPartIiAPr_13306]]*
+
+> This 1987 protocol document from the [[Colorado River Fishes Recovery Team]] establishes standardized procedures for field personnel to identify, capture, handle, and transport wild [[Bonytail]] (*Gila elegans*) to appropriate refugia facilities. The protocol addresses field identification...
+> -- *[[DraftprotocolForHandlingAndTra_13900]]*
+
+> This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
+> -- *[[PartManagementConcernsPriority_14724]]*
+
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
 ## Mentioned In
 - [[DetermineStatusOfColoradoSquaw_11150]]
 - [[InteragencyStandardizedMonitor_1993]]
@@ -55,3 +67,7 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 - [[RecoveryPlanForTheHumpbackChub_11544]]
 - [[DraftFiveyearRoadMap_11579]]
 - [[AspinalUnitStudiesEvaluationOf_20259]]
+- [[PartICurrentSituationPartIiAPr_13306]]
+- [[DraftprotocolForHandlingAndTra_13900]]
+- [[PartManagementConcernsPriority_14724]]
+- [[ColoradoRiverFisheriesInvestig_18481]]

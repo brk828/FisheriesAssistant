@@ -41,6 +41,15 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 > This document is a draft research plan developed by Dr. Duncan Patten and core scientists for the [[Glen Canyon Environmental Studies]] (GCES) program, presented to the Executive Review Committee in February 1990. The plan proposes a comprehensive series of controlled discharge experiments from...
 > -- *[[GlenCanyonEnvironmentalStudies_19687]]*
 
+> This document comprises two reports from the [[Arizona Game and Fish Department]] covering native fish and trout studies in the [[Colorado River]] system below [[Glen Canyon Dam]] during 1991. The March 26-April 14, 1991 trip report details field sampling in mainstream and [[Little Colorado River]]...
+> -- *[[GlenCanyonEnvironmentalStudies_15938]]*
+
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
 ## Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -58,3 +67,6 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 - [[HabitatUseByHumpbackChubGilaCy_11090]]
 - [[HabitatUseByHumpbackChubGilaCy_11575]]
 - [[GlenCanyonEnvironmentalStudies_19687]]
+- [[GlenCanyonEnvironmentalStudies_15938]]
+- [[EarlyFieldNotes_15954]]
+- [[GlenCanyonEnvironmentalStudies_19719]]

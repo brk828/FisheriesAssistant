@@ -80,6 +80,9 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
 > -- *[[CommercialFisheriesPotentialOf_18584]]*
 
+> This document presents comprehensive water quality and aquatic ecology investigations conducted at [[Lake Powell]] on the [[Colorado River]] above [[Glen Canyon Dam]] during 1965-1969. The studies were undertaken to evaluate the feasibility of discharging cooling tower blowdown from the proposed...
+> -- *[[LakePowellQualityStudiesForThe_14955]]*
+
 ## Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -117,3 +120,4 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[MinutesForDesertFishesRecovery_12506]]
 - [[RazorbackSuckerMonitoringInLak_17016]]
 - [[CommercialFisheriesPotentialOf_18584]]
+- [[LakePowellQualityStudiesForThe_14955]]

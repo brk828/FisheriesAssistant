@@ -65,6 +65,9 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > This document is an excerpt from an anthropological paper (Papers in Anthropology No. 17) by Anne M. Smith documenting Northern Utes linguistic terminology and cultural practices. The material includes phonetic transcriptions of directional terms, fauna classifications, and fish nomenclature in the...
 > -- *[[EthnographyOfTheNorthernUtes_21134]]*
 
+> This 1964 newspaper article describes the construction of [[Blue Ridge Dam]] on [[East Clear Creek]] in Arizona's [[Mogollon Rim]] country, part of a three-phase water transfer project by [[Phelps Dodge Corporation]] to support expanded copper mining operations at [[Morenci]]. The $6 million dam,...
+> -- *[[DramaticBattleForWaterBehindTh_18467]]*
+
 ## Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -106,3 +109,4 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[LakeMohaveSamplingMarch_20326]]
 - [[FishParasites_20804]]
 - [[EthnographyOfTheNorthernUtes_21134]]
+- [[DramaticBattleForWaterBehindTh_18467]]

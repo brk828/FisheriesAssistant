@@ -338,6 +338,48 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
 > -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
 
+> This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
+
+> This biological opinion, issued October 14, 1997, addresses the realignment of Forest Road 281 near [[Bush Creek]] on the upper [[Blue River]], [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] (lead agency) and [[U.S. Army Corps of Engineers]] proposed rerouting approximately 1,200...
+> -- *[[BiologicalOpinionSummaryBlueRi_11685]]*
+
+> This article documents the critical endangerment of three native Arizona fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen texanus*)—that were once so abundant in the [[Colorado River]] Valley that settlers...
+> -- *[[WantedEndangeredArizonaFishesF_12618]]*
+
+> This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
+
+> This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
+> -- *[[ReservoirFisheriesInvestigatio_14590]]*
+
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
+> -- *[[StatewideRoughFishControlfishE_14929]]*
+
+> This document presents comprehensive water quality and aquatic ecology investigations conducted at [[Lake Powell]] on the [[Colorado River]] above [[Glen Canyon Dam]] during 1965-1969. The studies were undertaken to evaluate the feasibility of discharging cooling tower blowdown from the proposed...
+> -- *[[LakePowellQualityStudiesForThe_14955]]*
+
+> This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
+> -- *[[AdverseBiologicalOpinionIndian_15638]]*
+
+> This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
+> -- *[[BioassayAndUseOfPituitaryMater_15952]]*
+
+> This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
+> -- *[[TheEnvironmentalConditionsOfAn_16280]]*
+
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
+> [[Antimycin]] is a newly developed antibiotic fish toxicant discovered in 1945 at the [[University of Wisconsin]] Department of Plant Pathology. By 1963, researchers identified its high toxicity to fish at concentrations harmless to other animals. The [[Fish Control Laboratory]] at [[La Crosse]]...
+> -- *[[AntimycinaNewFisheryTool_20243]]*
+
 ## Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -680,3 +722,17 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[GlenCanyonNationalRecreationAr_18334]]
 - [[TheUseOfChannelCatfishAsSportF_18662]]
 - [[AgencyReviewDraftLoachMinnowTi_19398]]
+- [[HabitatUseAndStreamflowNeedsOf_11609]]
+- [[BiologicalOpinionSummaryBlueRi_11685]]
+- [[WantedEndangeredArizonaFishesF_12618]]
+- [[TheEffectsOfInterimFlowsFromGl_13620]]
+- [[ReservoirFisheriesInvestigatio_14590]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[StatewideRoughFishControlfishE_14929]]
+- [[LakePowellQualityStudiesForThe_14955]]
+- [[AdverseBiologicalOpinionIndian_15638]]
+- [[BioassayAndUseOfPituitaryMater_15952]]
+- [[TheEnvironmentalConditionsOfAn_16280]]
+- [[ColoradoRiverFisheriesInvestig_18481]]
+- [[GlenCanyonEnvironmentalStudies_19719]]
+- [[AntimycinaNewFisheryTool_20243]]

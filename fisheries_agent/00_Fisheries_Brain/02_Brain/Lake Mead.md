@@ -206,6 +206,24 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > This study documents the origin, distribution, and seasonal dynamics of oxygen-depleted waters in [[Lake Powell]], a large canyon-type reservoir on the [[Colorado Plateau]]. The reservoir exhibits two principal oxygen depletion problems affecting its fishery: (1) a shallow oxygen minimum layer...
 > -- *[[OxygenDepletedWatersOriginAndD_19797]]*
 
+> This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
+> -- *[[PartICurrentSituationPartIiAPr_13306]]*
+
+> This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
+
+> This document presents comprehensive water quality and aquatic ecology investigations conducted at [[Lake Powell]] on the [[Colorado River]] above [[Glen Canyon Dam]] during 1965-1969. The studies were undertaken to evaluate the feasibility of discharging cooling tower blowdown from the proposed...
+> -- *[[LakePowellQualityStudiesForThe_14955]]*
+
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
+> This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
+> -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -349,3 +367,9 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[AgeAndGrowthObservationsOnTheL_18498]]
 - [[GlenCanyonEnvironmentalStudies_19734]]
 - [[OxygenDepletedWatersOriginAndD_19797]]
+- [[PartICurrentSituationPartIiAPr_13306]]
+- [[TheEffectsOfInterimFlowsFromGl_13620]]
+- [[LakePowellQualityStudiesForThe_14955]]
+- [[EarlyFieldNotes_15954]]
+- [[GeneticDiversityOfRazorbackSuc_19126]]
+- [[GlenCanyonEnvironmentalStudies_19719]]

@@ -14,6 +14,10 @@ The Eel River was the location of Cedar Creek Hatchery in California. The catast
 > This 1954 California Department of Fish and Game document announces the reopening of recreational sturgeon fishing after a 35-year closure. The white sturgeon (*Acipenser transmontanus*) and green sturgeon (*Acipenser medirostris*) populations had recovered sufficiently to allow limited harvest....
 > -- *[[TheCaliforniaSturgeon_17339]]*
 
+> This comprehensive study evaluates California's catchable-sized trout stocking program from 1954-1958, during which approximately seven million 7-to-8-inch [[Rainbow Trout]] (Salmo gairdnerii) were stocked annually at a cost of $1,366,000. The research developed rapid, inexpensive survey methods to...
+> -- *[[CaliforniaCatchableTroutFisher_14146]]*
+
 ## Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[TheCaliforniaSturgeon_17339]]
+- [[CaliforniaCatchableTroutFisher_14146]]

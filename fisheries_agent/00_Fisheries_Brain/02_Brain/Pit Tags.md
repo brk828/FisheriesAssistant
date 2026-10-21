@@ -38,6 +38,9 @@ Pit tags, or Passive Integrated Transponder tags, are small electronic microchip
 > This correspondence from Arizona State University researchers Michael E. Douglas and Paul C. Marsh reports data collected on [[Gila cypha]] (humpback chub) populations in the [[Little Colorado River]] during July-August 1991. The study was conducted as part of the [[Glen Canyon Environmental...
 > -- *[[DataCompilationGilaCyphaAsunnh_19090]]*
 
+> This Bureau of Reclamation field report documents the 1991 annual razorback sucker ([[Xyrauchen texanus]]) capture and tagging effort at [[Lake Mohave]], focusing on Camp No. 3 operations in the [[Six-Mile Cove]] area on the Nevada side of [[Cottonwood Basin]]. The multi-agency effort (March 18-21,...
+> -- *[[ResultsOfRazorbackSuckerRazorb_15027]]*
+
 ## Mentioned In
 - [[DatabaseManagementProgramColor_1993]]
 - [[GlenCanyonEnvironmentalStudies_1992_09_13]]
@@ -50,3 +53,4 @@ Pit tags, or Passive Integrated Transponder tags, are small electronic microchip
 - [[RazorbackSuckerMovementStrateg_2020]]
 - [[RazorbackSuckerMonitoringInLak_17016]]
 - [[DataCompilationGilaCyphaAsunnh_19090]]
+- [[ResultsOfRazorbackSuckerRazorb_15027]]

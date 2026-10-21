@@ -41,6 +41,9 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 > This educational article from the New York State Conservationist examines the ecological importance of algae in freshwater systems, their role in aquatic food chains, and management considerations for controlling excessive algal growth. The document addresses common concerns about algae control...
 > -- *[[Algae_19232]]*
 
+> This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
+> -- *[[TheEnvironmentalConditionsOfAn_16280]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[CatalogingOfSmallImpoundmentOf_12167]]
@@ -56,3 +59,4 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 - [[EstablishmentOfNewOrReclaimedP_12166]]
 - [[ChronologyOfYumaCoveActivities_15028]]
 - [[Algae_19232]]
+- [[TheEnvironmentalConditionsOfAn_16280]]

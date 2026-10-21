@@ -35,6 +35,12 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 > This FY 1993 annual report documents ongoing drift-net sampling to evaluate [[Colorado Squawfish]] (*Ptychocheilus lucius*) larval production in the [[Colorado River]] in response to flow manipulations from the [[Aspinall Unit]]. Principal investigators Leo Lentsch and Melissa Trammell from the...
 > -- *[[AspinalUnitStudiesEvaluationOf_20259]]*
 
+> This document is the revised recovery plan for the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*), superseding the original 1978 plan. Prepared by the [[Colorado River Fishes Recovery Team]] at the direction of the [[U.S. Fish and Wildlife Service]], the plan incorporates research...
+> -- *[[DraftColoradoSquawfishRecovery_11545]]*
+
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
 ## Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[CaptureOfRareFishInLakePowell_1988_08_18]]
@@ -58,3 +64,5 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 - [[RainbowSmeltProposalReview_17848]]
 - [[GlenCanyonNationalRecreationAr_18334]]
 - [[AspinalUnitStudiesEvaluationOf_20259]]
+- [[DraftColoradoSquawfishRecovery_11545]]
+- [[ColoradoRiverFisheriesInvestig_18481]]

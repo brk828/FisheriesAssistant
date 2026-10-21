@@ -11,6 +11,10 @@ auto_enriched: true
 > - **Trophic role**: Yellow Perch functions as an opportunistic, visually-feeding predator combining benthic probing (for cottids, chironomids, snails) with open-water interception of mysid shrimp near the lake bottom. - **Prey base**: - [[Cottus asper]] (prickly sculpin) — dominant by volume (62....
 > -- *[[TheFoodAndFeedingChronologyOfY_1979]]*
 
+> This recovery plan addresses [[Gasterosteus aculeatus williamsoni]], the [[Unarmored Threespine Stickleback]], an endangered freshwater fish subspecies endemic to southern California. Prepared by the Unarmored Threespine Stickleback Recovery Team (led by Shoken Sasaki, California Department of Fish...
+> -- *[[RecoveryPlanForUnarmoredThrees_20518]]*
+
 ## Mentioned In
 - [[APopulationOfDwarfCoastrangeSc_1960]]
 - [[TheFoodAndFeedingChronologyOfY_1979]]
+- [[RecoveryPlanForUnarmoredThrees_20518]]

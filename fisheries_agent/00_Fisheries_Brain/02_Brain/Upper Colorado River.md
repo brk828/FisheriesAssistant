@@ -50,6 +50,9 @@ The Upper Colorado River refers to the section of the Colorado River system abov
 > This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
 > -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
 
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
 ## Mentioned In
 - [[DesertFishesCouncilOverviewAnd_1974_07_26]]
 - [[DevelopAndRefineYearRoundFlowN_1993]]
@@ -70,3 +73,4 @@ The Upper Colorado River refers to the section of the Colorado River system abov
 - [[RestorationPlanForRazorbackSuc_20599]]
 - [[AnInvestigationOfEndangeredAnd_12516]]
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[DesertFishesCouncilEighteenthA_12829]]

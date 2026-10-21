@@ -14,7 +14,11 @@ auto_enriched: true
 > This summary report documents a collaborative fish monitoring effort conducted 16-22 March 1991 on [[Lake Mohave]] by [[Arizona State University]] (ASU), [[U.S. Bureau of Reclamation]] (USBR), and [[U.S. Fish and Wildlife Service]] (USFWS). The primary objectives were to capture [[Bonytail]] (*Gila...
 > -- *[[BonytailrazorbackSuckerCoopera_17048]]*
 
+> This Bureau of Reclamation field report documents the 1991 annual razorback sucker ([[Xyrauchen texanus]]) capture and tagging effort at [[Lake Mohave]], focusing on Camp No. 3 operations in the [[Six-Mile Cove]] area on the Nevada side of [[Cottonwood Basin]]. The multi-agency effort (March 18-21,...
+> -- *[[ResultsOfRazorbackSuckerRazorb_15027]]*
+
 ## Mentioned In
 - [[CaptureDispositionAndStatusOfA_1975_05_01]]
 - [[TheBiologyOfTheRazorbackSucker_1979_10_22]]
 - [[BonytailrazorbackSuckerCoopera_17048]]
+- [[ResultsOfRazorbackSuckerRazorb_15027]]

@@ -44,6 +44,9 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 > This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
 > -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
 
+> This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
+> -- *[[ReservoirFisheriesInvestigatio_14590]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
@@ -66,3 +69,4 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+- [[ReservoirFisheriesInvestigatio_14590]]

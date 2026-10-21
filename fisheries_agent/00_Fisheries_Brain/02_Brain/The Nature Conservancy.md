@@ -86,6 +86,15 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 > This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
 > -- *[[SonoranDesertExpertsWorkshop_13543]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
+> This 1990 memorandum from W. L. Minckley to the [[San Pedro River]] ISF Quantification Team reassesses water-rights needs for native fish management on San Pedro River properties managed by [[U.S. Bureau of Land Management]] and [[The Nature Conservancy]]. The document emphasizes that the [[San...
+> -- *[[ReassessmentOfOriginalInformat_13790]]*
+
 ## Mentioned In
 - [[AssignmentsMadeAtFebruaryMeeti_1992_02_19]]
 - [[AttemptedReEstablish_1969_03_06]]
@@ -136,3 +145,6 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 - [[DraftFiveyearRoadMap_11579]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[SonoranDesertExpertsWorkshop_13543]]
+- [[DesertFishesCouncilThirteenthA_12827]]
+- [[DesertFishesCouncilEighteenthA_12829]]
+- [[ReassessmentOfOriginalInformat_13790]]

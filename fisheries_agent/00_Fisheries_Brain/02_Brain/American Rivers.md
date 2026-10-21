@@ -20,9 +20,13 @@ American Rivers is a conservation organization that has played a significant rol
 > This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
 > -- *[[AmericanRiversScientificAndTec_15167]]*
 
+> The [[Missouri Department of Conservation]] acquired the 4,318-acre [[Columbia Bottom Conservation Area]] at the confluence of the [[Missouri River]] and [[Mississippi River]] from the City of Saint Louis in September 1997. This article from August 1998 describes the agency's public engagement...
+> -- *[[MissouriansToHelpShapeFutureOf_11242]]*
+
 ## Mentioned In
 - [[GroupsReachAgreementToRemoveDa_1999_08_23]]
 - [[LetterOnFirstYearDeliverablesF_1994_04_14]]
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[AmericanRiversScientificAndTec_15167]]
+- [[MissouriansToHelpShapeFutureOf_11242]]

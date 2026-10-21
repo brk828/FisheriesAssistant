@@ -20,6 +20,9 @@ A bog hole is a small, isolated water body or pool, typically found in desert or
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
 > -- *[[MinutesForDesertFishesRecovery_12506]]*
 
+> This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
+> -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
+
 ## Mentioned In
 - [[InvitationToBogHoleHabitatImpr_1989_02_03]]
 - [[ProposalToRenovateFinleyTankNa_1988_12_20]]
@@ -27,3 +30,4 @@ A bog hole is a small, isolated water body or pool, typically found in desert or
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[BogHoleProjectMeetingSummary_12749]]
 - [[MinutesForDesertFishesRecovery_12506]]
+- [[AnUpdateStatusReportOfTheSonor_13824]]

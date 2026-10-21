@@ -197,6 +197,21 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This 1954 study by the California Department of Fish and Game evaluated tantalum and stainless steel as alternative materials for fish tagging wires on [[Striped Bass]] (*Roccus saxatilis*). Previous tagging programs using monel, nickel, and silver had proven unsatisfactory for marine and...
 > -- *[[FieldTestsOfStainlessSteelAndT_19017]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
+> This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
+
+> This Bureau of Reclamation field report documents the 1991 annual razorback sucker ([[Xyrauchen texanus]]) capture and tagging effort at [[Lake Mohave]], focusing on Camp No. 3 operations in the [[Six-Mile Cove]] area on the Nevada side of [[Cottonwood Basin]]. The multi-agency effort (March 18-21,...
+> -- *[[ResultsOfRazorbackSuckerRazorb_15027]]*
+
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -358,3 +373,8 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[AssessmentOfTheNeedForForageEn_17853]]
 - [[GlenCanyonNationalRecreationAr_18334]]
 - [[FieldTestsOfStainlessSteelAndT_19017]]
+- [[FishAndFishEggDistributionRepo_13434]]
+- [[TheEffectsOfInterimFlowsFromGl_13620]]
+- [[ResultsOfRazorbackSuckerRazorb_15027]]
+- [[ColoradoRiverFisheriesInvestig_18481]]
+- [[GlenCanyonEnvironmentalStudies_19719]]

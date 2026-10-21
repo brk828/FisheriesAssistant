@@ -41,6 +41,15 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 > This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
 > -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
+> This study examined interactions between the endangered [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*) and introduced [[Mosquitofish]] (*Gambusia affinis*) at [[San Bernardino National Wildlife Refuge]], southeastern [[Arizona]], from May 1985 through October 1987. The research...
+> -- *[[InteractionsBetweenPoeciliopsi_16887]]*
+
+> This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
+> -- *[[FinalProgressReport_18563]]*
+
 ## Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -65,3 +74,6 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[AReviewOfTheBiologyOfTheMosqui_14748]]
 - [[AnEcologicalOverviewOfPoecilii_20086]]
+- [[DesertFishesCouncilThirteenthA_12827]]
+- [[InteractionsBetweenPoeciliopsi_16887]]
+- [[FinalProgressReport_18563]]

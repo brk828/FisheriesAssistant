@@ -14,7 +14,11 @@ auto_enriched: true
 > This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
 > -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
 
+> This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
+
 ## Mentioned In
 - [[OccurrenceOfTwoEndangeredFishe_1990_07_19]]
 - [[TheColoradoRiverFishesRecovery_11196]]
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[HabitatUseAndStreamflowNeedsOf_11609]]

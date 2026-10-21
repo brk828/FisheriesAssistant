@@ -44,6 +44,21 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 > This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DraftFiveyearRoadMap_11579]]*
 
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
+> This memorandum documents a trip report from the Upper Colorado River endangered fishes researchers meeting held February 24-25, 1987 in Grand Junction, Colorado. The meeting covered standardized monitoring programs, habitat research, captive spawning efforts, and recovery planning for four...
+> -- *[[TripReportForUpperColoradoRive_12974]]*
+
+> This 1987 protocol document from the [[Colorado River Fishes Recovery Team]] establishes standardized procedures for field personnel to identify, capture, handle, and transport wild [[Bonytail]] (*Gila elegans*) to appropriate refugia facilities. The protocol addresses field identification...
+> -- *[[DraftprotocolForHandlingAndTra_13900]]*
+
+> This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
+> -- *[[PartManagementConcernsPriority_14724]]*
+
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
 ## Mentioned In
 - [[FeedingActivityAndSpawning_11266]]
 - [[FyAnnualProjectReportGilaTaxon_1993_12_06]]
@@ -61,3 +76,8 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 - [[IntroductionOfRainbowSmeltInto_17850]]
 - [[RecoveryPlanForTheHumpbackChub_11544]]
 - [[DraftFiveyearRoadMap_11579]]
+- [[DesertFishesCouncilEighteenthA_12829]]
+- [[TripReportForUpperColoradoRive_12974]]
+- [[DraftprotocolForHandlingAndTra_13900]]
+- [[PartManagementConcernsPriority_14724]]
+- [[ColoradoRiverFisheriesInvestig_18481]]

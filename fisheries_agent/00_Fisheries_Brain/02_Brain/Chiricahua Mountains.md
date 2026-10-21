@@ -29,6 +29,12 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 > This 1917 U.S. Geological Survey report by A. T. Schwennesen documents the groundwater resources of [[San Simon Valley]], an 85-mile-long arid basin in southeastern Arizona and adjacent New Mexico. The valley, bounded by the [[Peloncillo Mountains]] to the east and the [[Chiricahua Mountains]],...
 > -- *[[GroundWaterInSanSimonValleyAri_11299]]*
 
+> This Environmental Assessment and Habitat Conservation Plan (EA/HCP) addresses the issuance of an Incidental Take Permit under Section 10(a)(1)(B) of the [[Endangered Species Act]] for [[El Coronado Ranch]] (ECR) in [[Cochise County]], [[Arizona]]. The document covers ranching operations on 6,153...
+> -- *[[EnvironmentalAssessmentAndHabi_11684]]*
+
+> A fisheries survey conducted November 14-15, 1997 along [[Turkey Creek]] on the west side of the [[Chiricahua Mountains]], [[Cochise County]], Arizona documented four fish species. The survey was motivated by reports of [[Fathead Minnow]] (Pimephales promelas) in Lodge Pond. Sampling confirmed the...
+> -- *[[TurkeyCreekFisheriesSurveyCoch_17218]]*
+
 ## Mentioned In
 - [[AshmunellaAngulataEsuritorLent_18478]]
 - [[ChiricahuaRegionalCouncilNewsl_16142]]
@@ -39,3 +45,5 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 - [[EcosystemRepairByHeadwaterEros_15854]]
 - [[FieldNotesOfTripToSanBernardin_13172]]
 - [[GroundWaterInSanSimonValleyAri_11299]]
+- [[EnvironmentalAssessmentAndHabi_11684]]
+- [[TurkeyCreekFisheriesSurveyCoch_17218]]

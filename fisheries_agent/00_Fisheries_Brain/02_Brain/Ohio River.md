@@ -23,6 +23,9 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 > - **Habitat associations**: Species were documented across a range of lotic and lentic systems — main-stem rivers (Mississippi, Ohio, Wabash), tributary creeks, oxbow lakes, sloughs, swamps, and semi-permanent wetlands, particularly concentrated in the [[Cache River]], [[Ohio River]], and lower [...
 > -- *[[NewDistributionalRecordsOfIlli_1988]]*
 
+> This 1959 thesis by Judith A. Loring examines the reliability of the tooth patch on the tongue as a diagnostic character for identifying [[Micropterus punctulatus]] (spotted black bass). The study analyzed specimens from Kentucky and surrounding states, comparing tooth patch presence across...
+> -- *[[AStudyOfTheToothPatchOnTheSpot_16200]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
@@ -40,3 +43,4 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
 - [[VariabilityOfInfectionOfBlackS_1959]]
 - [[YoungFishDistributionInBackwat_1989]]
+- [[AStudyOfTheToothPatchOnTheSpot_16200]]

@@ -86,6 +86,15 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 > This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
 > -- *[[DraftLowerColoradoRiverOperati_13907]]*
 
+> This document is the revised recovery plan for the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*), superseding the original 1978 plan. Prepared by the [[Colorado River Fishes Recovery Team]] at the direction of the [[U.S. Fish and Wildlife Service]], the plan incorporates research...
+> -- *[[DraftColoradoSquawfishRecovery_11545]]*
+
+> This 1987 protocol document from the [[Colorado River Fishes Recovery Team]] establishes standardized procedures for field personnel to identify, capture, handle, and transport wild [[Bonytail]] (*Gila elegans*) to appropriate refugia facilities. The protocol addresses field identification...
+> -- *[[DraftprotocolForHandlingAndTra_13900]]*
+
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
 ## Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -156,3 +165,6 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 - [[RelocationOfTheCohortHbsReceiv_11428]]
 - [[DetailsForStudiesOfTheGenusGil_13739]]
 - [[DraftLowerColoradoRiverOperati_13907]]
+- [[DraftColoradoSquawfishRecovery_11545]]
+- [[DraftprotocolForHandlingAndTra_13900]]
+- [[ColoradoRiverFisheriesInvestig_18481]]

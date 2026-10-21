@@ -50,6 +50,12 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 > Minutes from the [[Desert Fishes Recovery Team]] (DFRT) meeting held April 1-2, 1987 at [[Kofa National Wildlife Refuge]], Yuma, Arizona. The primary focus was organizational preparation for a draft recovery plan for [[Desert Pupfish]] (*[[Cyprinodon macularius]]*), including discussion of...
 > -- *[[MinutesForDesertFishesRecovery_12506]]*
 
+> This document is the revised recovery plan for the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*), superseding the original 1978 plan. Prepared by the [[Colorado River Fishes Recovery Team]] at the direction of the [[U.S. Fish and Wildlife Service]], the plan incorporates research...
+> -- *[[DraftColoradoSquawfishRecovery_11545]]*
+
+> This 1987 protocol document from the [[Colorado River Fishes Recovery Team]] establishes standardized procedures for field personnel to identify, capture, handle, and transport wild [[Bonytail]] (*Gila elegans*) to appropriate refugia facilities. The protocol addresses field identification...
+> -- *[[DraftprotocolForHandlingAndTra_13900]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -79,3 +85,5 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 - [[ManagementGroupMeetingSummary_19219]]
 - [[RecoveryPlanForTheHumpbackChub_11544]]
 - [[MinutesForDesertFishesRecovery_12506]]
+- [[DraftColoradoSquawfishRecovery_11545]]
+- [[DraftprotocolForHandlingAndTra_13900]]

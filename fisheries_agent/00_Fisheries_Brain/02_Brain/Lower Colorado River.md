@@ -104,6 +104,12 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 > This document is a critical review letter dated March 10, 1993, from C.O. Minckley (U.S. Fish and Wildlife Service, Parker, AZ) to Bill Persons (Arizona Game and Fish Department) regarding a propagation study plan for [[Humpback Chub]] (*Gila cypha*) developed by Diann Smith. The reviewer expresses...
 > -- *[[ReviewOfHumpbackChubPropagatio_18515]]*
 
+> This 1987 memorandum from Professor W. L. Minckley to the Chair of Arizona State University's Department of Zoology proposes a Centennial Celebration commemorating [[C. Hart Merriam]]'s pioneering work on life zones. Merriam's 1890 publication "Results of a Biological Survey of the San Francisco...
+> -- *[[PotentialForACHartMerriamCente_13747]]*
+
+> This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
+> -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
@@ -198,3 +204,5 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[DraftLowerColoradoRiverOperati_13907]]
 - [[ReviewOfHumpbackChubPropagatio_18515]]
+- [[PotentialForACHartMerriamCente_13747]]
+- [[AnUpdateStatusReportOfTheSonor_13824]]

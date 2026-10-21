@@ -86,6 +86,21 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
 > -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
+> On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
+> -- *[[WorkshopProceedings_18372]]*
+
+> This document describes the distinctive population of [[Desert Pupfish]] (*Cyprinodon macularius*) inhabiting [[Quitobaquito Spring]] in [[Organ Pipe National Monument]], Arizona, and the adjacent [[Rio Sonoyta]] drainage in Sonora, México. The Sonoyta population exhibits morphological differences...
+> -- *[[TheDesertPupfishOfOrganPipeNat_18555]]*
+
+> This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
+> -- *[[FinalProgressReport_18563]]*
+
 ## Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[BenthicInvertebratesOfTheEarth_1983]]
@@ -122,3 +137,8 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[AllozymicVariationInDesertPupf_19162]]
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[DesertFishesCouncilThirteenthA_12827]]
+- [[DesertFishesCouncilEighteenthA_12829]]
+- [[WorkshopProceedings_18372]]
+- [[TheDesertPupfishOfOrganPipeNat_18555]]
+- [[FinalProgressReport_18563]]

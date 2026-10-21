@@ -29,6 +29,12 @@ Unionidae is a family of obligate freshwater mussels that are ecologically signi
 > This Federal Register notice, published September 19, 1997, by the U.S. Fish and Wildlife Service presents an updated list of plant and animal taxa native to the United States that are candidates or proposed for listing as endangered or threatened under the Endangered Species Act of 1973, as...
 > -- *[[EndangeredAndThreatenedWildlif_11741]]*
 
+> This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
+> -- *[[CodeOfFederalRegulationsPartEn_11616]]*
+
+> This 1968 technical report by Brehmer, Ball, and Kevern examines the biological and chemical characteristics of the [[Red Cedar River]] near [[Williamston, Michigan]], focusing on the impacts of domestic sewage pollution on water quality and benthic invertebrate communities. The study employed six...
+> -- *[[TheBiologyAndChemistryOfAWarmw_12927]]*
+
 ## Mentioned In
 - [[ChangesInTheCommercialFisheryO_13861]]
 - [[DifferencesInLittoralFaunaDueT_1972]]
@@ -40,3 +46,5 @@ Unionidae is a family of obligate freshwater mussels that are ecologically signi
 - [[TheMusselPopulationOfAnAreaOfL_14967]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[EndangeredAndThreatenedWildlif_11741]]
+- [[CodeOfFederalRegulationsPartEn_11616]]
+- [[TheBiologyAndChemistryOfAWarmw_12927]]

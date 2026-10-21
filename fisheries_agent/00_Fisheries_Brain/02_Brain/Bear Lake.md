@@ -8,6 +8,10 @@ auto_enriched: true
 > - **Bear River system**: Kaufman (Abstract 50552) documents Quaternary rerouting of the [[Bear River]] by lava flows and pluvial lake overflow (Lake Thatcher, Lake Bonneville), which had major biogeographic consequences—[[Bear Lake]] hosts several endemic fish species, and captured lake systems m...
 > -- *[[AbstractsFromTheConferenceGeol_1999_10_28]]*
 
+> This report documents a five-year experimental study (1946-1950) on twelve Michigan lakes testing liberalized fishing regulations for warm-water species, particularly pan fishes. The Michigan Legislature authorized experimental regulations on up to 20 lakes to evaluate effects of removing size...
+> -- *[[FishingInTwelveMichiganLakesUn_16148]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[FinalIntroductionsOf_1967]]
+- [[FishingInTwelveMichiganLakesUn_16148]]

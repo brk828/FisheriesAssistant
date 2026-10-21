@@ -38,6 +38,9 @@ The Redside Shiner is a small cyprinid fish native to western North American riv
 > This job progress report documents endangered fish monitoring in the [[Upper Colorado River Basin]] from July 1979 through December 1980. Sampling was conducted across trend zones in the [[Yampa River]], [[White River]], [[Colorado River]], and [[Gunnison River]] using electrofishing, seining,...
 > -- *[[ColoradoSquawfishAndHumpbackCh_12221]]*
 
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
 ## Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -58,3 +61,4 @@ The Redside Shiner is a small cyprinid fish native to western North American riv
 - [[InterimProceduresForStockingNo_15423]]
 - [[LakeAndReservoirInvestigations_12145]]
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
+- [[ColoradoRiverFisheriesInvestig_18481]]

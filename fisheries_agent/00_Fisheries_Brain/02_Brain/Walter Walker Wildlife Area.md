@@ -11,5 +11,9 @@ The Walter Walker Wildlife Area is a location near Grand Junction, Colorado in t
 > This November 3, 1980 letter from the [[Colorado River Fishes Recovery Team]] to the [[U.S. Fish and Wildlife Service]] formally requests threatened status listing for the [[Razorback Sucker]] (*Xyrauchen texanus*). The request is based on comprehensive status assessments from both upper and lower...
 > -- *[[ProposalToListTheRazorbackSuck_14703]]*
 
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
 ## Mentioned In
 - [[ProposalToListTheRazorbackSuck_14703]]
+- [[ColoradoRiverFisheriesInvestig_18481]]

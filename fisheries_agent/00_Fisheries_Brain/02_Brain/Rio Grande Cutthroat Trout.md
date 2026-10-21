@@ -26,6 +26,9 @@ The Rio Grande Cutthroat Trout is a native salmonid species endemic to the Rio G
 > This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
 > -- *[[NativeRockyMountainTroutAndSto_17773]]*
 
+> This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
+> -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
+
 ## Mentioned In
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
 - [[LetterRegardingTheMescaleroCut_1985_12_24]]
@@ -34,3 +37,4 @@ The Rio Grande Cutthroat Trout is a native salmonid species endemic to the Rio G
 - [[StationProfileOfTheMescaleroNa_1991]]
 - [[FishFaunaOfTheMiddleRioGrandeS_15005]]
 - [[NativeRockyMountainTroutAndSto_17773]]
+- [[NativeTroutOfArizonaAndNewMexi_13251]]

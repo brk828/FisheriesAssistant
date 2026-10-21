@@ -47,6 +47,9 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 > This study documents the origin, distribution, and seasonal dynamics of oxygen-depleted waters in [[Lake Powell]], a large canyon-type reservoir on the [[Colorado Plateau]]. The reservoir exhibits two principal oxygen depletion problems affecting its fishery: (1) a shallow oxygen minimum layer...
 > -- *[[OxygenDepletedWatersOriginAndD_19797]]*
 
+> This document contains administrative correspondence and planning materials for the 1996 [[Glen Canyon Dam]] experimental high flow release, designed as a beach/habitat building test. The primary document is a schedule revision memo dated January 9, 1996, from the [[Bureau of Reclamation]]'s [[Glen...
+> -- *[[ChangeInScheduleForExperimenta_19736]]*
+
 ## Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[FishHandlingAssessmentOnGrandC_1991_09_05]]
@@ -72,3 +75,4 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
 - [[GlenCanyonDamTemperatureContro_17019]]
 - [[OxygenDepletedWatersOriginAndD_19797]]
+- [[ChangeInScheduleForExperimenta_19736]]

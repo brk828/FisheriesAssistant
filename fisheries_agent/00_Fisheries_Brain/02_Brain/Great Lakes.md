@@ -50,6 +50,12 @@ The Great Lakes represent a vast freshwater ecosystem of continental significanc
 > This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
 > -- *[[AssessmentOfTheNeedForForageEn_17853]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
+> This comprehensive report summarizes 1964 pesticide research findings by the [[Fish and Wildlife Service]], covering both wildlife studies (conducted at [[Patuxent Wildlife Research Center]] and [[Denver Research Center]]) and fishery investigations. The document represents the fifth annual report...
+> -- *[[WildlifeStudiesPatuxentWildlif_14328]]*
+
 ## Mentioned In
 - [[ComparativeMorphometryOfFreshw_12456]]
 - [[CurrentRoleOfTroutCultureInMan_13158]]
@@ -87,3 +93,5 @@ The Great Lakes represent a vast freshwater ecosystem of continental significanc
 - [[MichiganFishPredators_12681]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
 - [[AssessmentOfTheNeedForForageEn_17853]]
+- [[FishAndFishEggDistributionRepo_13434]]
+- [[WildlifeStudiesPatuxentWildlif_14328]]

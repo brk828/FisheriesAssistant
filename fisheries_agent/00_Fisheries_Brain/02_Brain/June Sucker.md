@@ -29,6 +29,9 @@ The June Sucker is an endangered catostomid fish endemic to the Virgin River in 
 > **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
 > -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
 
+> This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
+> -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
+
 ## Mentioned In
 - [[EndangeredSpeciesTodayExtinctT_1977]]
 - [[SubpermitAuthorizationForWound_1989_06_06]]
@@ -37,3 +40,4 @@ The June Sucker is an endangered catostomid fish endemic to the Virgin River in 
 - [[StatusOfJuneSuckerInUtahLakeAn_2007]]
 - [[ComplexEffectsOfPredatorsDeter_2001]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
+- [[UsFishAndWildlifeServiceBiolog_11560]]

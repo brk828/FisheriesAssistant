@@ -122,6 +122,12 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 > This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
 > -- *[[AProposalToReestablishDesertSu_20730]]*
 
+> This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
+> -- *[[CodeOfFederalRegulationsPartEn_11616]]*
+
+> This Bureau of Reclamation field report documents the 1991 annual razorback sucker ([[Xyrauchen texanus]]) capture and tagging effort at [[Lake Mohave]], focusing on Camp No. 3 operations in the [[Six-Mile Cove]] area on the Nevada side of [[Cottonwood Basin]]. The multi-agency effort (March 18-21,...
+> -- *[[ResultsOfRazorbackSuckerRazorb_15027]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AListOfOntarioFishes_11321]]
@@ -333,3 +339,5 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 - [[TheSuitabilitiesAndRelativeRes_19185]]
 - [[CaptureOfASuspectedJuvenileRaz_19058]]
 - [[AProposalToReestablishDesertSu_20730]]
+- [[CodeOfFederalRegulationsPartEn_11616]]
+- [[ResultsOfRazorbackSuckerRazorb_15027]]

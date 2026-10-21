@@ -23,6 +23,9 @@ Beaver Dam Wash appears to be a tributary or drainage system within the Virgin R
 > This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
 > -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
 
+> This five-year assessment evaluates conservation actions conducted for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during the initial term (1995-2000) of the Virgin Spinedace Conservation Agreement and Strategy (VSCAS). The VSCAS was developed in 1995 as a collaborative effort among...
+> -- *[[VirginSpinedaceLepidomedaMolli_14744]]*
+
 ## Mentioned In
 - [[RequestForRenewalOfEndangeredS_1992_11_27]]
 - [[TripReportVirginRiverChubListi_1988_10_06]]
@@ -32,3 +35,4 @@ Beaver Dam Wash appears to be a tributary or drainage system within the Virgin R
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 - [[DraftConservationStrategyVirgi_11659]]
 - [[BiologicalOpinionOnTheEffectsO_11915]]
+- [[VirginSpinedaceLepidomedaMolli_14744]]

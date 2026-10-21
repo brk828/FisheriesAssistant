@@ -20,8 +20,12 @@ The Unarmored Threespine Stickleback (*Gasterosteus aculeatus williamsoni*) is a
 > The [[Unarmored Threespine Stickleback]] (*Gasterosteus aculeatus williamsoni* Hubbs) is an endangered fish subspecies restricted to the headwaters of the Santa Clara River in northern Los Angeles County, California. The habitat is characterized as a small, intermittent, shallow stream flowing th...
 > -- *[[ThermalAndRespiratoryStudiesWi_16327]]*
 
+> This recovery plan addresses [[Gasterosteus aculeatus williamsoni]], the [[Unarmored Threespine Stickleback]], an endangered freshwater fish subspecies endemic to southern California. Prepared by the Unarmored Threespine Stickleback Recovery Team (led by Shoken Sasaki, California Department of Fish...
+> -- *[[RecoveryPlanForUnarmoredThrees_20518]]*
+
 ## Mentioned In
 - [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
 - [[LatePleistoceneFreshwaterFishe_1989]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[ThermalAndRespiratoryStudiesWi_16327]]
+- [[RecoveryPlanForUnarmoredThrees_20518]]

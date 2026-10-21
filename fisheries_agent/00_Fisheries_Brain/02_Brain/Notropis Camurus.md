@@ -23,6 +23,9 @@ Notropis camurus, commonly known as the bluntnose minnow or similar cyprinid spe
 > - Three fish species were newly documented for the state of Kansas: **[[Fundulus sciadicus]]**, **[[Etheostoma microperca]]**, and **[[Notropis galacturus]]**, bringing the statewide total to **130 known species**. - **~62%** of all Kansas fish species occur in [[Shoal Creek]]; **14 species (11%)...
 > -- *[[AdditionsToTheKnownKansasFishF_1963]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheCyprinidF_1955]]
 - [[AdditionsToTheKnownKansasFishF_1963]]
@@ -30,3 +33,4 @@ Notropis camurus, commonly known as the bluntnose minnow or similar cyprinid spe
 - [[ReviewOfFreshwaterFishesInMiss_15045]]
 - [[TheBlacktailRedhorseMoxostomaP_1984]]
 - [[ToleranceOfHeadwaterVsMainstre_15191]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

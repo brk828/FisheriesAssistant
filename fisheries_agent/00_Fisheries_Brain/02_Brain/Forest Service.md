@@ -17,8 +17,12 @@ auto_enriched: true
 > This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
 > -- *[[UsFishAndWildlifeServicesAbili_20453]]*
 
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
 ## Mentioned In
 - [[TheStrategyAndDesignOfTheEffec_1997_11_13]]
 - [[ViewsOfAFishBiologistFromAFede_15069]]
 - [[ReviewOfProposedCounterpartReg_11907]]
 - [[UsFishAndWildlifeServicesAbili_20453]]
+- [[DesertFishesCouncilEighteenthA_12829]]

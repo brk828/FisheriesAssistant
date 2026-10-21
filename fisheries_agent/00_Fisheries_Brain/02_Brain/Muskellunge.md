@@ -26,6 +26,12 @@ Muskellunge (Esox masquinongy) is a large, predatory freshwater fish species in 
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
+> This report documents a five-year experimental study (1946-1950) on twelve Michigan lakes testing liberalized fishing regulations for warm-water species, particularly pan fishes. The Michigan Legislature authorized experimental regulations on up to 20 lakes to evaluate effects of removing size...
+> -- *[[FishingInTwelveMichiganLakesUn_16148]]*
+
 ## Mentioned In
 - [[BigGameFishSpeciesMostSuitedTo_14647]]
 - [[ChangesInWalleyeStizostedionVi_1977_03_18]]
@@ -41,3 +47,5 @@ Muskellunge (Esox masquinongy) is a large, predatory freshwater fish species in 
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
 - [[TheUpperStLawrenceRiverIceFish_11241]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[FishAndFishEggDistributionRepo_13434]]
+- [[FishingInTwelveMichiganLakesUn_16148]]

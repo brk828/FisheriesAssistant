@@ -14,5 +14,9 @@ auto_enriched: true
 > - Distribution of most oligochaete species in Saginaw Bay could **not** be explained by the commonly measured environmental variables (depth, conductivity, sediment organic content, particle size), suggesting unmeasured factors (possibly food material composition in sediments) govern habitat pref...
 > -- *[[TheDistributionOfAquaticOligoc_12945]]*
 
+> This report documents a five-year experimental study (1946-1950) on twelve Michigan lakes testing liberalized fishing regulations for warm-water species, particularly pan fishes. The Michigan Legislature authorized experimental regulations on up to 20 lakes to evaluate effects of removing size...
+> -- *[[FishingInTwelveMichiganLakesUn_16148]]*
+
 ## Mentioned In
 - [[TheDistributionOfAquaticOligoc_12945]]
+- [[FishingInTwelveMichiganLakesUn_16148]]

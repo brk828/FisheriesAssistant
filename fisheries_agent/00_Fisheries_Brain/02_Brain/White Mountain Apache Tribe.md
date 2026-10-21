@@ -23,6 +23,9 @@ The White Mountain Apache Tribe is a Native American sovereign nation that plays
 > - The [[White Mountain Apache Tribe]] stocked multiple truckloads of hatchery-reared, disease-unscreened Rainbow Trout into Reservation streams identified as critical to the [[Apache Trout Recovery Program]]. - [[Exotic Species Introduction]] (rainbow trout) is cited as one of the principal threa...
 > -- *[[ObstaclesToReturnOfTheNative_16538]]*
 
+> This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
+> -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
+
 ## Mentioned In
 - [[CorrespondenceRegardingLoachMi_1993_06_14]]
 - [[LoachMinnowStudyPlanForBiologi_1996_05_17]]
@@ -31,3 +34,4 @@ The White Mountain Apache Tribe is a Native American sovereign nation that plays
 - [[PanelDiscussionOnManagementTow_1992_06_19]]
 - [[ProposalForTheHatchingRearingA_14816]]
 - [[StationProfileOfTheAlchesayNat_1991]]
+- [[NativeTroutOfArizonaAndNewMexi_13251]]

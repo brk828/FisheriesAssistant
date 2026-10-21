@@ -47,6 +47,9 @@ Mexico is the location of the Cienega de Santa Clara wetland in Sonora, which wa
 > This document contains two pieces of correspondence from September 1987 regarding the proposed "Fraccionamiento Campestre Las Tortugas" (Las Tortugas Country Subdivision) development near [[Cuatro Ciénegas]], [[Coahuila]], [[Mexico]]. The first letter (September 10, 1987) from Bertha Laura G. de...
 > -- *[[SaleOfLandInLasTortugasNearThe_12870]]*
 
+> This 1987 memorandum from Professor W. L. Minckley to the Chair of Arizona State University's Department of Zoology proposes a Centennial Celebration commemorating [[C. Hart Merriam]]'s pioneering work on life zones. Merriam's 1890 publication "Results of a Biological Survey of the San Francisco...
+> -- *[[PotentialForACHartMerriamCente_13747]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[APetitionPursuantToArticleOfTh_17637]]
@@ -61,3 +64,4 @@ Mexico is the location of the Cienega de Santa Clara wetland in Sonora, which wa
 - [[NotesFromFieldWorkInTheCuatroc_12737]]
 - [[UpdatesFromEpPister_12831]]
 - [[SaleOfLandInLasTortugasNearThe_12870]]
+- [[PotentialForACHartMerriamCente_13747]]

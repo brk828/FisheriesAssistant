@@ -14,6 +14,10 @@ Salix exigua (coyote willow) is a riparian shrub in the Colorado River corridor 
 > This Master's thesis by Nancy Beth Grimm (Arizona State University, May 1980) investigated nitrogen and phosphorus dynamics in streams of the [[Gila River Basin]], Arizona. The study assessed potential nutrient limitation of primary production and the role of [[Periphyton]] in nutrient uptake...
 > -- *[[NitrogenAndPhosphorousDynamics_17776]]*
 
+> This management plan proposes the establishment of the "Sierra San Luis" Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in northwestern Mexico along the border with the United States. The area spans the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]]...
+> -- *[[ManagementPlanSierraSanLuisWil_18303]]*
+
 ## Mentioned In
 - [[TransitionMonitoringForRiparia_17903]]
 - [[NitrogenAndPhosphorousDynamics_17776]]
+- [[ManagementPlanSierraSanLuisWil_18303]]

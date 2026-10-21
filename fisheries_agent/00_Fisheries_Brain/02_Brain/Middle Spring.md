@@ -17,8 +17,12 @@ auto_enriched: true
 > This biological opinion, issued March 11, 1986, evaluates a 10-year Master Plan for [[San Bernardino National Wildlife Refuge]] in [[Cochise County]], [[Arizona]]. The refuge was established to provide and enhance habitat for 6 species of native [[Rio Yaqui]] fish. The Master Plan proposes...
 > -- *[[BiologicalOpinionForTheSanBern_13329]]*
 
+> This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
+> -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
+
 ## Mentioned In
 - [[HistoryOfBylasTopminnowPopulat_1989_02_08]]
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[StatusReportForNaturalAndIntro_12972]]
 - [[BiologicalOpinionForTheSanBern_13329]]
+- [[AnUpdateStatusReportOfTheSonor_13824]]

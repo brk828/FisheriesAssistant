@@ -50,6 +50,18 @@ The Colorado River, in the context of fish science and conservation, refers to a
 > This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
 > -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
 
+> This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
+
+> This report presents results from C¹⁴ primary productivity studies conducted at [[Twin Lakes]], [[Colorado]], from 1973-81, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study characterizes baseline primary production rates in these high-mountain lakes (2802 m elevation)...
+> -- *[[PrimaryProductivityCAtTwinLake_12652]]*
+
+> This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
+> -- *[[TheEnvironmentalConditionsOfAn_16280]]*
+
+> This 1975 USDA Forest Service research note documents an experimental application of carbon black to accelerate midwinter snowmelt on [[Mule Deer]] winter range in [[Colorado]]. The study tested whether artificially darkening snow surfaces could increase forage availability during the critical...
+> -- *[[CarbonBlackIncreasesSnowmeltAn_16800]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
@@ -64,3 +76,7 @@ The Colorado River, in the context of fish science and conservation, refers to a
 - [[SummaryStatementOfInsightsFrom_20854]]
 - [[ForestLakeMarkedFishStudies_15614]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
+- [[HabitatUseAndStreamflowNeedsOf_11609]]
+- [[PrimaryProductivityCAtTwinLake_12652]]
+- [[TheEnvironmentalConditionsOfAn_16280]]
+- [[CarbonBlackIncreasesSnowmeltAn_16800]]

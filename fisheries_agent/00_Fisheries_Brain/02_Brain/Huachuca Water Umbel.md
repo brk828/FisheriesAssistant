@@ -29,6 +29,9 @@ The Huachuca Water Umbel appears to be a native aquatic plant species associated
 > This document comprises Pima County, Arizona's Resolution No. 1998-250 establishing the [[Sonoran Desert Conservation Plan]] (SDCP), correspondence soliciting expert input on species selection, and a preliminary species list for multi-species habitat conservation planning. Passed December 3, 1998,...
 > -- *[[AResolutionOfTheBoardOfSupervi_18593]]*
 
+> This Environmental Assessment evaluates three management alternatives for the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in southeastern Arizona for the period 1995-2015. The refuges were established to conserve threatened and endangered fish and...
+> -- *[[SanBernardinoAndLeslieCanyonNa_11694]]*
+
 ## Mentioned In
 - [[FishAndWildlifeServiceLetterOn_1994_08_22]]
 - [[IntraServiceSectionBiologicalE_1993_03_26]]
@@ -38,3 +41,4 @@ The Huachuca Water Umbel appears to be a native aquatic plant species associated
 - [[TheNextParagraphIsMissingButTh_11894]]
 - [[ReContinuationOfTheUsArmysSanP_11808]]
 - [[AResolutionOfTheBoardOfSupervi_18593]]
+- [[SanBernardinoAndLeslieCanyonNa_11694]]

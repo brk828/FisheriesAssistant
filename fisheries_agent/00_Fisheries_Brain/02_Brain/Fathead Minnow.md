@@ -131,6 +131,33 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This document comprises three related items from the U.S. Bureau of Reclamation regarding fish monitoring and barrier construction in the [[Gila River Basin]] under the 1994 [[Fish and Wildlife Service]] Biological Opinion on the [[Central Arizona Project]] (CAP). The primary component is a...
 > -- *[[ReProgressReportOnConstruction_13911]]*
 
+> This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
+
+> This biological opinion, issued October 14, 1997, addresses the realignment of Forest Road 281 near [[Bush Creek]] on the upper [[Blue River]], [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] (lead agency) and [[U.S. Army Corps of Engineers]] proposed rerouting approximately 1,200...
+> -- *[[BiologicalOpinionSummaryBlueRi_11685]]*
+
+> This document is a formal biological opinion issued by the [[U.S. Fish and Wildlife Service]] on February 15, 1995, regarding the repair and replacement of segments of the [[Aravaipa Creek]] road in [[Pinal County]], Arizona. The consultation addresses potential impacts to two threatened fish...
+> -- *[[BiologicalOpinionForRepairAndo_11904]]*
+
+> This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
+
+> This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
+> -- *[[AdverseBiologicalOpinionIndian_15638]]*
+
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The survey assessed 45 tanks to evaluate their potential as supplemental growout habitats for endangered fish...
+> -- *[[PreliminaryFisheriesSurveyOfAq_16481]]*
+
+> A fisheries survey conducted November 14-15, 1997 along [[Turkey Creek]] on the west side of the [[Chiricahua Mountains]], [[Cochise County]], Arizona documented four fish species. The survey was motivated by reports of [[Fathead Minnow]] (Pimephales promelas) in Lodge Pond. Sampling confirmed the...
+> -- *[[TurkeyCreekFisheriesSurveyCoch_17218]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
+> [[Antimycin]] is a newly developed antibiotic fish toxicant discovered in 1945 at the [[University of Wisconsin]] Department of Plant Pathology. By 1963, researchers identified its high toxicity to fish at concentrations harmless to other animals. The [[Fish Control Laboratory]] at [[La Crosse]]...
+> -- *[[AntimycinaNewFisheryTool_20243]]*
+
 ## Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -261,3 +288,12 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[BiologicalOpinionForTheBridgeC_11732]]
 - [[RePreliminaryFisheriesSurveyOf_13711]]
 - [[ReProgressReportOnConstruction_13911]]
+- [[HabitatUseAndStreamflowNeedsOf_11609]]
+- [[BiologicalOpinionSummaryBlueRi_11685]]
+- [[BiologicalOpinionForRepairAndo_11904]]
+- [[TheEffectsOfInterimFlowsFromGl_13620]]
+- [[AdverseBiologicalOpinionIndian_15638]]
+- [[PreliminaryFisheriesSurveyOfAq_16481]]
+- [[TurkeyCreekFisheriesSurveyCoch_17218]]
+- [[GlenCanyonEnvironmentalStudies_19719]]
+- [[AntimycinaNewFisheryTool_20243]]

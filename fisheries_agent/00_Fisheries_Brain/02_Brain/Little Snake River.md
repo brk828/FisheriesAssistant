@@ -56,6 +56,9 @@ The Little Snake River is a major tributary of the Yampa River in the Upper Colo
 > This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DraftFiveyearRoadMap_11579]]*
 
+> This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
+
 ## Mentioned In
 - [[OccurrenceOfTwoEndangeredFishe_1990_07_19]]
 - [[StationProfileSaratogaNational_1993_12_11]]
@@ -72,3 +75,4 @@ The Little Snake River is a major tributary of the Yampa River in the Upper Colo
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
 - [[CompletionReportYampawhitePhys_18677]]
 - [[DraftFiveyearRoadMap_11579]]
+- [[HabitatUseAndStreamflowNeedsOf_11609]]

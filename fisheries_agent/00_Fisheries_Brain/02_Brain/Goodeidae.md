@@ -38,6 +38,9 @@ Goodeidae is a family of small, viviparous (live-bearing) freshwater fishes ende
 > This comprehensive biogeographic analysis documents 375 species of freshwater fishes in [[México]], categorized as primary (132 species), secondary (186 species), and vicarious (57 species) freshwater inhabitants. The fauna is distributed across 47 families and shows remarkably high endemism, with...
 > -- *[[CompositionAndDerivationOfTheF_15375]]*
 
+> This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
+> -- *[[FinalProgressReport_18563]]*
+
 ## Mentioned In
 - [[ArtificialKeyToTheAdultGoodeid_19652]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
@@ -63,3 +66,4 @@ Goodeidae is a family of small, viviparous (live-bearing) freshwater fishes ende
 - [[DistributionalAndLocalVernacul_13815]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[CompositionAndDerivationOfTheF_15375]]
+- [[FinalProgressReport_18563]]

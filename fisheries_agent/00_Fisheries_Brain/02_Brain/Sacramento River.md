@@ -32,6 +32,9 @@ The Sacramento River is a major California river system that serves as a critica
 > This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
 > -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
 
+> This Scholarly Studies Program proposal (Winter 1999 review cycle) by Robert Hershler ([[NMNH]]) and Hsiu-Ping Liu ([[Southwest Missouri State University]]) seeks funding to conduct a comprehensive phylogenetic and biogeographic analysis of *[[Pyrgulopsis]]*, the largest genus of nonmarine snails...
+> -- *[[PhylogenyOfPyrgulopsisSpringsn_16724]]*
+
 ## Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -45,3 +48,4 @@ The Sacramento River is a major California river system that serves as a critica
 - [[MhcVariationAndParasiteResista_12519]]
 - [[ConservationOfNativeFreshwater_15444]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[PhylogenyOfPyrgulopsisSpringsn_16724]]

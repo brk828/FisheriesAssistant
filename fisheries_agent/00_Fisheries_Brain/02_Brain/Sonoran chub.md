@@ -32,6 +32,9 @@ The Sonoran Chub is an imperiled native fish species endemic to the southwestern
 > This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
 > -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
 
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The survey assessed 45 tanks to evaluate their potential as supplemental growout habitats for endangered fish...
+> -- *[[PreliminaryFisheriesSurveyOfAq_16481]]*
+
 ## Mentioned In
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
 - [[CorrespondenceAppointmentOfCon_16439]]
@@ -42,3 +45,4 @@ The Sonoran Chub is an imperiled native fish species endemic to the southwestern
 - [[DesertFishesRecoveryTeamMeetin_13708]]
 - [[DesertFishesRecoveryTeamMeetin_13916]]
 - [[RePreliminaryFisheriesSurveyOf_13711]]
+- [[PreliminaryFisheriesSurveyOfAq_16481]]

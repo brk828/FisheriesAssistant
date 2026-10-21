@@ -29,6 +29,18 @@ Gray Canyon is a section of the Upper Green River in Utah that serves as critica
 > This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DraftFiveyearRoadMap_11579]]*
 
+> This document is the revised recovery plan for the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*), superseding the original 1978 plan. Prepared by the [[Colorado River Fishes Recovery Team]] at the direction of the [[U.S. Fish and Wildlife Service]], the plan incorporates research...
+> -- *[[DraftColoradoSquawfishRecovery_11545]]*
+
+> This document presents the Fiscal Year 1999 Work Plan for the Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin, approved by the Implementation Committee on September 10, 1998. The program addresses recovery of four endangered fish species: [[Colorado...
+> -- *[[FiscalYearWorkPlan_11756]]*
+
+> The [[Colorado Squawfish]] (*Ptychocheilus lucius*) is the largest cyprinid in North America, historically reaching lengths of nearly 1.8 m and weights exceeding 36 kg. This voracious predator served as the top carnivore of the [[Colorado River]] system. Listed as endangered in 1967 and protected...
+> -- *[[ColoradoSquawfishPtychocheilus_13278]]*
+
+> This 1987 protocol document from the [[Colorado River Fishes Recovery Team]] establishes standardized procedures for field personnel to identify, capture, handle, and transport wild [[Bonytail]] (*Gila elegans*) to appropriate refugia facilities. The protocol addresses field identification...
+> -- *[[DraftprotocolForHandlingAndTra_13900]]*
+
 ## Mentioned In
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
 - [[DistributionHabitatUseAndGrowt_1991]]
@@ -39,3 +51,7 @@ Gray Canyon is a section of the Upper Green River in Utah that serves as critica
 - [[DraftRecoveryImplementationPro_11643]]
 - [[RecoveryPlanForTheHumpbackChub_11544]]
 - [[DraftFiveyearRoadMap_11579]]
+- [[DraftColoradoSquawfishRecovery_11545]]
+- [[FiscalYearWorkPlan_11756]]
+- [[ColoradoSquawfishPtychocheilus_13278]]
+- [[DraftprotocolForHandlingAndTra_13900]]

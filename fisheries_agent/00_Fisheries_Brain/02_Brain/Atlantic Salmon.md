@@ -38,6 +38,9 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 > This 1954 report by Chief Aquatic Biologist John R. Greeley summarizes the rapidly-growing salmon fishery program in New York State lakes, involving two distinct species: [[Landlocked Salmon]] (Atlantic salmon, *Salmo salar*) and [[Red Salmon]] (Pacific sockeye, *Oncorhynchus nerka*). The program,...
 > -- *[[SalmonInNewYork_19216]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
 ## Mentioned In
 - [[BerkshireNationalFishHatcheryS_19579]]
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
@@ -75,3 +78,4 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
 - [[TroutOrSalmon_19215]]
 - [[SalmonInNewYork_19216]]
+- [[FishAndFishEggDistributionRepo_13434]]

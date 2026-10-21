@@ -38,6 +38,9 @@ Acipenseridae is the family of true sturgeons, ancient anadromous fish character
 > This comprehensive check-list documents the freshwater fish fauna of Afghanistan based on historical collections and literature review from 1842 to 1978. A total of 84 species are recorded from Afghanistan proper, with an additional 18 species from contiguous or confluent drainages. The fauna is...
 > -- *[[FishesOfAfghanistanAnAnnotated_15968]]*
 
+> This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
+> -- *[[CodeOfFederalRegulationsPartEn_11616]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -62,3 +65,4 @@ Acipenseridae is the family of true sturgeons, ancient anadromous fish character
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+- [[CodeOfFederalRegulationsPartEn_11616]]

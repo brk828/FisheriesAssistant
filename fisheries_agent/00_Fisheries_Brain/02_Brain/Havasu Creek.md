@@ -47,6 +47,12 @@ Havasu Creek is a cooler tributary stream within the Grand Canyon that serves as
 > This document is a draft research plan developed by Dr. Duncan Patten and core scientists for the [[Glen Canyon Environmental Studies]] (GCES) program, presented to the Executive Review Committee in February 1990. The plan proposes a comprehensive series of controlled discharge experiments from...
 > -- *[[GlenCanyonEnvironmentalStudies_19687]]*
 
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
 ## Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DiscussionOfBiowestSWorkPlan_1991_09_23]]
@@ -68,3 +74,5 @@ Havasu Creek is a cooler tributary stream within the Grand Canyon that serves as
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
 - [[SummaryOfCollectingLocalitiesF_18502]]
 - [[GlenCanyonEnvironmentalStudies_19687]]
+- [[EarlyFieldNotes_15954]]
+- [[GlenCanyonEnvironmentalStudies_19719]]

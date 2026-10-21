@@ -35,6 +35,9 @@ The Colorado River Fishery Project is a U.S. Fish and Wildlife Service administr
 > This document consists of correspondence from the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] announcing the annual meeting for February 14-15, 1989, in [[Grand Junction, Colorado]]. The primary focus is planning discussion of the [[Biotechnical Group]]'s research...
 > -- *[[ColoradoRiverFishesMeetingFebr_15252]]*
 
+> This 1987 protocol document from the [[Colorado River Fishes Recovery Team]] establishes standardized procedures for field personnel to identify, capture, handle, and transport wild [[Bonytail]] (*Gila elegans*) to appropriate refugia facilities. The protocol addresses field identification...
+> -- *[[DraftprotocolForHandlingAndTra_13900]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ConcentrationsOfTotalDissolved_11144]]
@@ -51,3 +54,4 @@ The Colorado River Fishery Project is a U.S. Fish and Wildlife Service administr
 - [[ProposalToListTheRazorbackSuck_14703]]
 - [[AStudyToDetermineTheBiological_11576]]
 - [[ColoradoRiverFishesMeetingFebr_15252]]
+- [[DraftprotocolForHandlingAndTra_13900]]

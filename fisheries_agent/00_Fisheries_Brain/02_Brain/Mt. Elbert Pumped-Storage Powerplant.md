@@ -11,5 +11,9 @@ Mt. Elbert Pumped-Storage Powerplant is a hydroelectric facility associated with
 > This report presents results of hydroacoustic surveys conducted in September 1980 to assess fish abundance and distribution in [[Twin Lakes]], [[Colorado]], prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. Using echo-counting techniques with a 120 kHz Simrad EK-120 system,...
 > -- *[[HydroacousticSurveysOfFishAbun_13336]]*
 
+> This report presents results from C¹⁴ primary productivity studies conducted at [[Twin Lakes]], [[Colorado]], from 1973-81, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study characterizes baseline primary production rates in these high-mountain lakes (2802 m elevation)...
+> -- *[[PrimaryProductivityCAtTwinLake_12652]]*
+
 ## Mentioned In
 - [[HydroacousticSurveysOfFishAbun_13336]]
+- [[PrimaryProductivityCAtTwinLake_12652]]

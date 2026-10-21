@@ -131,6 +131,18 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 > This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
 > -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
 
+> This Environmental Assessment and Habitat Conservation Plan (EA/HCP) addresses the issuance of an Incidental Take Permit under Section 10(a)(1)(B) of the [[Endangered Species Act]] for [[El Coronado Ranch]] (ECR) in [[Cochise County]], [[Arizona]]. The document covers ranching operations on 6,153...
+> -- *[[EnvironmentalAssessmentAndHabi_11684]]*
+
+> This biological opinion, issued October 14, 1997, addresses the realignment of Forest Road 281 near [[Bush Creek]] on the upper [[Blue River]], [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] (lead agency) and [[U.S. Army Corps of Engineers]] proposed rerouting approximately 1,200...
+> -- *[[BiologicalOpinionSummaryBlueRi_11685]]*
+
+> This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
+> -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
+
+> This study examined interactions between the endangered [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*) and introduced [[Mosquitofish]] (*Gambusia affinis*) at [[San Bernardino National Wildlife Refuge]], southeastern [[Arizona]], from May 1985 through October 1987. The research...
+> -- *[[InteractionsBetweenPoeciliopsi_16887]]*
+
 ## Mentioned In
 - [[AuthorizationLetterForGilaTopm_1990_11_21]]
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
@@ -179,3 +191,7 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 - [[ReRequestForCommentsRegardingT_15640]]
 - [[IntroductionOfGilaTopminnowAnd_17956]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
+- [[EnvironmentalAssessmentAndHabi_11684]]
+- [[BiologicalOpinionSummaryBlueRi_11685]]
+- [[NativeTroutOfArizonaAndNewMexi_13251]]
+- [[InteractionsBetweenPoeciliopsi_16887]]

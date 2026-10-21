@@ -32,6 +32,9 @@ The Plains Killifish (*Fundulus kansae*) is a small cyprinodontid fish native to
 > This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
 > -- *[[DraftLittleColoradoRiverSpined_11662]]*
 
+> This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
+
 ## Mentioned In
 - [[DevelopmentalRatesAndTolerance_12106]]
 - [[EffectivenessOfRotenoneInPondR_1953]]
@@ -43,3 +46,4 @@ The Plains Killifish (*Fundulus kansae*) is a small cyprinodontid fish native to
 - [[ColoradoSquawfishAndHumpbackCh_12221]]
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
 - [[DraftLittleColoradoRiverSpined_11662]]
+- [[TheEffectsOfInterimFlowsFromGl_13620]]

@@ -26,6 +26,9 @@ Kentucky Lake is a massive (~160,000-acre) Tennessee Valley Authority impoundmen
 > This study examines the growth, age composition, and mortality rates of [[Blue Catfish]] (*Ictalurus furcatus*) in the upper [[Tombigbee River]] of western Alabama using data collected August 5, 1965. Analysis of 196 fish for length-weight relationships and 125 spine samples for age determination...
 > -- *[[GrowthOfBlueCatfishIctalurusFu_17924]]*
 
+> This 1959 thesis by Judith A. Loring examines the reliability of the tooth patch on the tongue as a diagnostic character for identifying [[Micropterus punctulatus]] (spotted black bass). The study analyzed specimens from Kentucky and surrounding states, comparing tooth patch presence across...
+> -- *[[AStudyOfTheToothPatchOnTheSpot_16200]]*
+
 ## Mentioned In
 - [[CatastrophicFishMortalitiesOnK_1965_11_16]]
 - [[GrowthRatesOfTheWhiteCrappiePo_16028]]
@@ -34,3 +37,4 @@ Kentucky Lake is a massive (~160,000-acre) Tennessee Valley Authority impoundmen
 - [[TheAgeAndGrowthOfTheWhiteBassR_13370]]
 - [[TheGrowthRatesOfSomeKentuckyFi_13369]]
 - [[GrowthOfBlueCatfishIctalurusFu_17924]]
+- [[AStudyOfTheToothPatchOnTheSpot_16200]]

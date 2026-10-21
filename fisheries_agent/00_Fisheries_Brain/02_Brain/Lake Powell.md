@@ -188,6 +188,33 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > This study documents the origin, distribution, and seasonal dynamics of oxygen-depleted waters in [[Lake Powell]], a large canyon-type reservoir on the [[Colorado Plateau]]. The reservoir exhibits two principal oxygen depletion problems affecting its fishery: (1) a shallow oxygen minimum layer...
 > -- *[[OxygenDepletedWatersOriginAndD_19797]]*
 
+> This document is the revised recovery plan for the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*), superseding the original 1978 plan. Prepared by the [[Colorado River Fishes Recovery Team]] at the direction of the [[U.S. Fish and Wildlife Service]], the plan incorporates research...
+> -- *[[DraftColoradoSquawfishRecovery_11545]]*
+
+> The [[Colorado Squawfish]] (*Ptychocheilus lucius*) is the largest cyprinid in North America, historically reaching lengths of nearly 1.8 m and weights exceeding 36 kg. This voracious predator served as the top carnivore of the [[Colorado River]] system. Listed as endangered in 1967 and protected...
+> -- *[[ColoradoSquawfishPtychocheilus_13278]]*
+
+> This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
+> -- *[[ReservoirFisheriesInvestigatio_14590]]*
+
+> This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
+> -- *[[PartManagementConcernsPriority_14724]]*
+
+> This document presents comprehensive water quality and aquatic ecology investigations conducted at [[Lake Powell]] on the [[Colorado River]] above [[Glen Canyon Dam]] during 1965-1969. The studies were undertaken to evaluate the feasibility of discharging cooling tower blowdown from the proposed...
+> -- *[[LakePowellQualityStudiesForThe_14955]]*
+
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
+> This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
+> -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
+> This document contains administrative correspondence and planning materials for the 1996 [[Glen Canyon Dam]] experimental high flow release, designed as a beach/habitat building test. The primary document is a schedule revision memo dated January 9, 1996, from the [[Bureau of Reclamation]]'s [[Glen...
+> -- *[[ChangeInScheduleForExperimenta_19736]]*
+
 ## Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -309,3 +336,12 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[GlenCanyonEnvironmentalStudies_19687]]
 - [[GlenCanyonEnvironmentalStudies_19734]]
 - [[OxygenDepletedWatersOriginAndD_19797]]
+- [[DraftColoradoSquawfishRecovery_11545]]
+- [[ColoradoSquawfishPtychocheilus_13278]]
+- [[ReservoirFisheriesInvestigatio_14590]]
+- [[PartManagementConcernsPriority_14724]]
+- [[LakePowellQualityStudiesForThe_14955]]
+- [[ColoradoRiverFisheriesInvestig_18481]]
+- [[GeneticDiversityOfRazorbackSuc_19126]]
+- [[GlenCanyonEnvironmentalStudies_19719]]
+- [[ChangeInScheduleForExperimenta_19736]]

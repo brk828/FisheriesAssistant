@@ -14,8 +14,12 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This 1954 field study by Phillip B. Summers (Oklahoma Game and Fish Department) investigated whether the cold tailwater section of the [[Illinois River]] below [[Tenkiller Reservoir]] could support a "put-and-take" style [[Rainbow Trout]] fishery following the onset of hydroelectric plant operati...
 > -- *[[SomeObservationsOnLimnologyAnd_1954]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
 ## Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
 - [[SomeAspectsOfWaterQualityAndBi_12230]]
 - [[SomeObservationsOnLimnologyAnd_1954]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

@@ -59,6 +59,21 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 > This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
 > -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
 
+> This management plan proposes the establishment of the [[Sierra San Luis]] Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]] (Chihuahua), Mexico, along the U.S. border. The area forms part of the extreme...
+> -- *[[ManagementPlanSierraSanLuisWil_11399]]*
+
+> This Environmental Assessment and Habitat Conservation Plan (EA/HCP) addresses the issuance of an Incidental Take Permit under Section 10(a)(1)(B) of the [[Endangered Species Act]] for [[El Coronado Ranch]] (ECR) in [[Cochise County]], [[Arizona]]. The document covers ranching operations on 6,153...
+> -- *[[EnvironmentalAssessmentAndHabi_11684]]*
+
+> This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
+> -- *[[PartManagementConcernsPriority_14724]]*
+
+> This study examined interactions between the endangered [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*) and introduced [[Mosquitofish]] (*Gambusia affinis*) at [[San Bernardino National Wildlife Refuge]], southeastern [[Arizona]], from May 1985 through October 1987. The research...
+> -- *[[InteractionsBetweenPoeciliopsi_16887]]*
+
+> This management plan proposes the establishment of the "Sierra San Luis" Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in northwestern Mexico along the border with the United States. The area spans the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]]...
+> -- *[[ManagementPlanSierraSanLuisWil_18303]]*
+
 ## Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -93,3 +108,8 @@ The Rio Yaqui is a major desert river system spanning northern Mexico (Sonora an
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[BiologicalOpinionForTheSanBern_13329]]
 - [[DetailsForStudiesOfTheGenusGil_13739]]
+- [[ManagementPlanSierraSanLuisWil_11399]]
+- [[EnvironmentalAssessmentAndHabi_11684]]
+- [[PartManagementConcernsPriority_14724]]
+- [[InteractionsBetweenPoeciliopsi_16887]]
+- [[ManagementPlanSierraSanLuisWil_18303]]

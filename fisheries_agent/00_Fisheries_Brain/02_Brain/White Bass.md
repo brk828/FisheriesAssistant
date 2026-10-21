@@ -74,6 +74,18 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > This study assessed the risk of [[Striped Bass]] (Morone saxatilis) transfer from [[Devils Lake]] to Canadian waters via a proposed outlet to the [[Sheyenne River]]. Approximately 13,000 striped bass fingerlings were stocked into Devils Lake in 1977 to provide a trophy fishery. The investigation...
 > -- *[[AnalysisOfLongTermSurvivalNatu_14818]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
+> -- *[[BioassayAndUseOfPituitaryMater_15952]]*
+
+> This report documents a five-year experimental study (1946-1950) on twelve Michigan lakes testing liberalized fishing regulations for warm-water species, particularly pan fishes. The Michigan Legislature authorized experimental regulations on up to 20 lakes to evaluate effects of removing size...
+> -- *[[FishingInTwelveMichiganLakesUn_16148]]*
+
+> This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
+> -- *[[TheEnvironmentalConditionsOfAn_16280]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -116,3 +128,7 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[ReProgressReportOnConstruction_13911]]
 - [[AStudyOfTheFisheriesOnBitterLa_14374]]
 - [[AnalysisOfLongTermSurvivalNatu_14818]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[BioassayAndUseOfPituitaryMater_15952]]
+- [[FishingInTwelveMichiganLakesUn_16148]]
+- [[TheEnvironmentalConditionsOfAn_16280]]

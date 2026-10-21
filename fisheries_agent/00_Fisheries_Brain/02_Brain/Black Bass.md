@@ -35,6 +35,9 @@ Black Bass refers to freshwater fish species in the family Centrarchidae, primar
 > This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
 > -- *[[MichiganFishPredators_12681]]*
 
+> This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
+> -- *[[StatewideRoughFishControlfishE_14929]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[CommentsOnFishAndWildlifeServi_1997_07_08]]
@@ -47,3 +50,4 @@ Black Bass refers to freshwater fish species in the family Centrarchidae, primar
 - [[WhatHaveICaught_12929]]
 - [[MovementsOfInlandAnglersWithin_11325]]
 - [[MichiganFishPredators_12681]]
+- [[StatewideRoughFishControlfishE_14929]]

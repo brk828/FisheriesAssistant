@@ -71,6 +71,9 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 > This trip report documents a November 10-12, 1990 field survey of known [[Desert Pupfish]] (*Cyprinodon macularius macularius*) populations in the [[Colorado River Delta]] region of Sonora and Baja California, Mexico. Conducted by Sally Stefferud (U.S. Fish and Wildlife Service) and Jerry Stefferud...
 > -- *[[TripReportSamplingOfMexicanPop_14780]]*
 
+> On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
+> -- *[[WorkshopProceedings_18372]]*
+
 ## Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -124,3 +127,4 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[ReProgressReportOnConstruction_13911]]
 - [[TripReportSamplingOfMexicanPop_14780]]
+- [[WorkshopProceedings_18372]]

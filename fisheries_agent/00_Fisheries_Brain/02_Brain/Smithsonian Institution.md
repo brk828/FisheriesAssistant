@@ -29,6 +29,9 @@ auto_enriched: true
 > This study describes the larva of *[[Haideoporus texanus]]*, the first hypogeous (subterranean) dytiscid beetle discovered in North America. Three larvae were collected from a flowing artesian well at the Aquatic Station (formerly [[San Marcos Federal Fish Hatchery]]) in [[San Marcos, Texas]]. The...
 > -- *[[TheLarvaOfANewSubterraneanWate_16197]]*
 
+> This taxonomic study redescribes the [[Texas Troglobitic Water Slater]], originally described as *Caecidotea smithii* by Ulrich in 1902 from a single incomplete specimen. Based on numerous specimens collected from the [[San Marcos Artesian Well]] beginning in December 1973, the authors establish...
+> -- *[[RedescriptionAndAssignmentToTh_17755]]*
+
 ## Mentioned In
 - [[LetterOnDispositionOfFrozenBon_1993_10_01]]
 - [[ReviewOfTheEndangeredFishResea_1991_10_03]]
@@ -38,3 +41,4 @@ auto_enriched: true
 - [[ASummaryOfInformationAboutTheA_18574]]
 - [[ANewOstracodEntocytheridaeNoto_20684]]
 - [[TheLarvaOfANewSubterraneanWate_16197]]
+- [[RedescriptionAndAssignmentToTh_17755]]

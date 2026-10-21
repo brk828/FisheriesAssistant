@@ -26,6 +26,9 @@ Cladocera are small crustacean zooplankton organisms that inhabit freshwater aqu
 > This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
 > -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
 
+> This 1948 study examined the mid-summer feeding habits of young-of-year [[Largemouth Bass]] (*Micropterus salmoides*) in [[Clear Lake]], [[Lake County]], [[California]]. Analysis of 264 specimens collected August 10-12, 1948 revealed a clear ontogenetic diet shift: fish below 1.8 inches fed...
+> -- *[[TheFoodOfYoungLargemouthBlackB_15524]]*
+
 ## Mentioned In
 - [[ANoteOnTheNumberOfEggsInTheEph_1956]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -37,3 +40,4 @@ Cladocera are small crustacean zooplankton organisms that inhabit freshwater aqu
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[RoughFishControl_20167]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+- [[TheFoodOfYoungLargemouthBlackB_15524]]

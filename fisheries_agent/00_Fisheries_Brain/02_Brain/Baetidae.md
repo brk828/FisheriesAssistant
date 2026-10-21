@@ -20,6 +20,9 @@ Baetidae is a major family of mayflies (order Ephemeroptera) that comprises smal
 > The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
 > -- *[[EndangeredSpeciesInformationSy_14003]]*
 
+> This 1968 technical report by Brehmer, Ball, and Kevern examines the biological and chemical characteristics of the [[Red Cedar River]] near [[Williamston, Michigan]], focusing on the impacts of domestic sewage pollution on water quality and benthic invertebrate communities. The study employed six...
+> -- *[[TheBiologyAndChemistryOfAWarmw_12927]]*
+
 ## Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[MiddleGilaRiverAquaticStudy_12505]]
@@ -27,3 +30,4 @@ Baetidae is a major family of mayflies (order Ephemeroptera) that comprises smal
 - [[OnTheDorsalLightResponseInAMay_14496]]
 - [[TagNachtrhythmusVonBaetidenlar_1963]]
 - [[EndangeredSpeciesInformationSy_14003]]
+- [[TheBiologyAndChemistryOfAWarmw_12927]]

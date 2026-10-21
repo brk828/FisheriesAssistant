@@ -38,6 +38,12 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 > This paper describes *Asellus puebla*, a new species of freshwater isopod crustacean collected from the [[Rio Cosala]] in [[Puebla]], [[Mexico]]. The discovery extends the known southern distribution limit of the genus [[Asellus]] from approximately 30° latitude to just below 20° latitude. The...
 > -- *[[ANewSpeciesOfAquaticIsopodCrus_17104]]*
 
+> This 1968 technical report by Brehmer, Ball, and Kevern examines the biological and chemical characteristics of the [[Red Cedar River]] near [[Williamston, Michigan]], focusing on the impacts of domestic sewage pollution on water quality and benthic invertebrate communities. The study employed six...
+> -- *[[TheBiologyAndChemistryOfAWarmw_12927]]*
+
+> This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
+> -- *[[AdverseBiologicalOpinionIndian_15638]]*
+
 ## Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[ComparativeEcologyOfNotropisAl_14679]]
@@ -57,3 +63,5 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[ANewSpeciesOfAquaticIsopodCrus_17104]]
+- [[TheBiologyAndChemistryOfAWarmw_12927]]
+- [[AdverseBiologicalOpinionIndian_15638]]

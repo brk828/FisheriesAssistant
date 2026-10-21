@@ -50,6 +50,9 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 > This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
 > -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
 
+> This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
+> -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
+
 ## Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -69,3 +72,4 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 - [[GilaTopminnowsantaCruzRiver_20207]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[AgencyReviewDraftLoachMinnowTi_19398]]
+- [[AnUpdateStatusReportOfTheSonor_13824]]

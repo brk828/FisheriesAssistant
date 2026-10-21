@@ -44,6 +44,9 @@ Steelhead trout are anadromous salmonids that migrate between freshwater rivers 
 > This fishery leaflet provides a comprehensive overview of columnaris disease, a significant bacterial infection affecting freshwater fishes. The disease, caused by slime bacteria (*Chondrococcus columnaris* or *Cytophaga columnaris*), manifests as grayish-white lesions resembling fungal infections...
 > -- *[[ColumnarisDiseaseOfFishes_21236]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
 ## Mentioned In
 - [[BlameTheArmyForMuckyRiversToo_1995_04_17]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -69,3 +72,4 @@ Steelhead trout are anadromous salmonids that migrate between freshwater rivers 
 - [[ConservationOfNativeFreshwater_15444]]
 - [[StatewideFishingHarvestSurvey_17659]]
 - [[ColumnarisDiseaseOfFishes_21236]]
+- [[FishAndFishEggDistributionRepo_13434]]

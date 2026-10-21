@@ -47,6 +47,18 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 > This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
 > -- *[[FiscalYearProgramGuidance_11762]]*
 
+> This document is the revised recovery plan for the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*), superseding the original 1978 plan. Prepared by the [[Colorado River Fishes Recovery Team]] at the direction of the [[U.S. Fish and Wildlife Service]], the plan incorporates research...
+> -- *[[DraftColoradoSquawfishRecovery_11545]]*
+
+> This document presents the Fiscal Year 1999 Work Plan for the Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin, approved by the Implementation Committee on September 10, 1998. The program addresses recovery of four endangered fish species: [[Colorado...
+> -- *[[FiscalYearWorkPlan_11756]]*
+
+> The [[Colorado Squawfish]] (*Ptychocheilus lucius*) is the largest cyprinid in North America, historically reaching lengths of nearly 1.8 m and weights exceeding 36 kg. This voracious predator served as the top carnivore of the [[Colorado River]] system. Listed as endangered in 1967 and protected...
+> -- *[[ColoradoSquawfishPtychocheilus_13278]]*
+
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
 ## Mentioned In
 - [[AnalysisOfPastCollectionsFromT_1993]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -66,3 +78,7 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 - [[NoticeOfViolationOfTheEsaConce_18645]]
 - [[FiscalYearWorkPlan_11743]]
 - [[FiscalYearProgramGuidance_11762]]
+- [[DraftColoradoSquawfishRecovery_11545]]
+- [[FiscalYearWorkPlan_11756]]
+- [[ColoradoSquawfishPtychocheilus_13278]]
+- [[ColoradoRiverFisheriesInvestig_18481]]

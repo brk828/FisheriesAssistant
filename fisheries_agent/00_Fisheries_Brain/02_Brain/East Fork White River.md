@@ -23,6 +23,9 @@ The East Fork White River is a tributary system within the White River drainage 
 > This agency review draft recovery plan addresses the [[Loach Minnow]] (*Tiaroga cobitis*), a small, secretive cyprinid endemic to the [[Gila River]] basin. Listed as threatened under the Endangered Species Act in 1984, the species has experienced dramatic range contraction from historical...
 > -- *[[AgencyReviewDraftSpikedaceMeda_19397]]*
 
+> This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
+> -- *[[AdverseBiologicalOpinionIndian_15638]]*
+
 ## Mentioned In
 - [[StudiesOfTheAbundanceDistribut_13841]]
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
@@ -31,3 +34,4 @@ The East Fork White River is a tributary system within the White River drainage 
 - [[ReviewOfProjectFair_21120]]
 - [[DesertFishesRecoveryTeamAddres_13785]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
+- [[AdverseBiologicalOpinionIndian_15638]]

@@ -20,6 +20,9 @@ auto_enriched: true
 > This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
 > -- *[[CompletionReportYampawhitePhys_18677]]*
 
+> This memorandum documents a trip report from the Upper Colorado River endangered fishes researchers meeting held February 24-25, 1987 in Grand Junction, Colorado. The meeting covered standardized monitoring programs, habitat research, captive spawning efforts, and recovery planning for four...
+> -- *[[TripReportForUpperColoradoRive_12974]]*
+
 ## Mentioned In
 - [[BiowestReportHabitatSuitabilit_1987_09_29]]
 - [[DevelopAndRefineYearRoundFlowN_1993]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[LetterOnImplementationCommitte_11623]]
 - [[FyReportingAndAccounting_21020]]
 - [[CompletionReportYampawhitePhys_18677]]
+- [[TripReportForUpperColoradoRive_12974]]

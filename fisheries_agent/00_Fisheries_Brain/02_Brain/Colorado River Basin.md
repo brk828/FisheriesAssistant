@@ -269,6 +269,42 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > This FY 1993 annual report documents ongoing drift-net sampling to evaluate [[Colorado Squawfish]] (*Ptychocheilus lucius*) larval production in the [[Colorado River]] in response to flow manipulations from the [[Aspinall Unit]]. Principal investigators Leo Lentsch and Melissa Trammell from the...
 > -- *[[AspinalUnitStudiesEvaluationOf_20259]]*
 
+> This 1988 annual report documents the first year of a two-year radio telemetry study monitoring hatchery-reared [[Bonytail Chub]] (*Gila elegans*) released into the [[Green River]], Utah within [[Dinosaur National Monument]]. The project aimed to assess dispersal, behavior, habitat use, survival,...
+> -- *[[RadioTelemetryMonitoringOfStoc_11424]]*
+
+> This document is the revised recovery plan for the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*), superseding the original 1978 plan. Prepared by the [[Colorado River Fishes Recovery Team]] at the direction of the [[U.S. Fish and Wildlife Service]], the plan incorporates research...
+> -- *[[DraftColoradoSquawfishRecovery_11545]]*
+
+> This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
+
+> This memorandum documents a formal Section 7 consultation under the Endangered Species Act regarding the proposed [[Hoover Powerplant]] modification project and its potential impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake...
+> -- *[[FormalSectionConsultationOnThe_11836]]*
+
+> This memorandum documents a trip report from the Upper Colorado River endangered fishes researchers meeting held February 24-25, 1987 in Grand Junction, Colorado. The meeting covered standardized monitoring programs, habitat research, captive spawning efforts, and recovery planning for four...
+> -- *[[TripReportForUpperColoradoRive_12974]]*
+
+> The [[Colorado Squawfish]] (*Ptychocheilus lucius*) is the largest cyprinid in North America, historically reaching lengths of nearly 1.8 m and weights exceeding 36 kg. This voracious predator served as the top carnivore of the [[Colorado River]] system. Listed as endangered in 1967 and protected...
+> -- *[[ColoradoSquawfishPtychocheilus_13278]]*
+
+> This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
+
+> This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
+> -- *[[PartManagementConcernsPriority_14724]]*
+
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
+> This draft policy document examines recovery and regulatory compliance programs for four endangered native fishes of the [[Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[TowardRangewideIntegrationOfRe_18629]]*
+
+> This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
+> -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
+
+> This annotated bibliography, compiled by Terry J. Hickman in September 1987, provides a comprehensive review of 90 references concerning the [[Woundfin]] (*Plagopterus argentissimus*), an endangered cyprinid minnow endemic to the [[Colorado River Basin]]. The woundfin is a streamlined, silvery...
+> -- *[[AnnotatedBibliographyForTheWou_20385]]*
+
 ## Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -634,3 +670,15 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[DraftLowerColoradoRiverOperati_13907]]
 - [[RazorbackSuckerMonitoringInLak_17016]]
 - [[AspinalUnitStudiesEvaluationOf_20259]]
+- [[RadioTelemetryMonitoringOfStoc_11424]]
+- [[DraftColoradoSquawfishRecovery_11545]]
+- [[HabitatUseAndStreamflowNeedsOf_11609]]
+- [[FormalSectionConsultationOnThe_11836]]
+- [[TripReportForUpperColoradoRive_12974]]
+- [[ColoradoSquawfishPtychocheilus_13278]]
+- [[TheEffectsOfInterimFlowsFromGl_13620]]
+- [[PartManagementConcernsPriority_14724]]
+- [[EarlyFieldNotes_15954]]
+- [[TowardRangewideIntegrationOfRe_18629]]
+- [[GeneticDiversityOfRazorbackSuc_19126]]
+- [[AnnotatedBibliographyForTheWou_20385]]

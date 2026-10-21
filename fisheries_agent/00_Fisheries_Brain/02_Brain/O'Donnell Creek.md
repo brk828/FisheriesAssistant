@@ -14,7 +14,11 @@ auto_enriched: true
 > This master's thesis by Craig Stephen Ivanyi (University of Arizona, 1989) examines selected life history aspects of the [[Desert Sucker]] (*Catostomus clarkii*, also referred to as *Pantosteus clarkii*) in four southeastern Arizona streams. The study focused primarily on [[Sonoita Creek]], with...
 > -- *[[SelectedAspectsOfTheNaturalHis_14397]]*
 
+> This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
+> -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
+
 ## Mentioned In
 - [[ODonnellWatershedStockTankSurv_16516]]
 - [[SitesDeclaredExtirpatedForGila_11752]]
 - [[SelectedAspectsOfTheNaturalHis_14397]]
+- [[GilaTopminnowSitesInArizonaPro_19668]]

@@ -26,6 +26,9 @@ Micropterus dolomieui, commonly known as the smallmouth bass, is a freshwater ce
 > This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
 > -- *[[EvaluationAndRelativeResistanc_19097]]*
 
+> This 1959 thesis by Judith A. Loring examines the reliability of the tooth patch on the tongue as a diagnostic character for identifying [[Micropterus punctulatus]] (spotted black bass). The study analyzed specimens from Kentucky and surrounding states, comparing tooth patch presence across...
+> -- *[[AStudyOfTheToothPatchOnTheSpot_16200]]*
+
 ## Mentioned In
 - [[Development of Color Pattern in Pond-Reared Young of Five Bass Species (Micropterus) of Southeastern U. S.]]
 - [[DistributionAndTaxonomicStatus_1976_01_15]]
@@ -34,3 +37,4 @@ Micropterus dolomieui, commonly known as the smallmouth bass, is a freshwater ce
 - [[WaterTemperatureCriteriaToProt_15269]]
 - [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]
 - [[EvaluationAndRelativeResistanc_19097]]
+- [[AStudyOfTheToothPatchOnTheSpot_16200]]

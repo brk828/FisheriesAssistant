@@ -14,6 +14,10 @@ Japan is the country where both killifish species documented in this review occu
 > This 1918 systematic revision by Carl L. Hubbs reorganizes the family [[Embiotocidae]] (viviparous perches or surf-fishes) of [[California]], establishing three subfamilies based on anal fin structure and dentition. The [[Embiotocidae]] represent a highly evolved example of viviparity in fishes,...
 > -- *[[ARevisionOfTheViviparousPerche_19963]]*
 
+> This 1929 paper by [[Carl L. Hubbs]] examines the relationship between hydrographic conditions and deep-sea fish fauna in two contrasting isolated marine basins of the Western Pacific: the [[Sea of Japan]] and the [[Sulu Sea]] complex. The study demonstrates how physical barriers (shallow straits)...
+> -- *[[TheHydrographicAndFaunalIndepe_19989]]*
+
 ## Mentioned In
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
 - [[ARevisionOfTheViviparousPerche_19963]]
+- [[TheHydrographicAndFaunalIndepe_19989]]

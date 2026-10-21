@@ -539,6 +539,60 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
 > -- *[[ProposedActionPlanForReintrodu_19433]]*
 
+> This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
+
+> This biological opinion, issued October 14, 1997, addresses the realignment of Forest Road 281 near [[Bush Creek]] on the upper [[Blue River]], [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] (lead agency) and [[U.S. Army Corps of Engineers]] proposed rerouting approximately 1,200...
+> -- *[[BiologicalOpinionSummaryBlueRi_11685]]*
+
+> This document presents the Fiscal Year 1999 Work Plan for the Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin, approved by the Implementation Committee on September 10, 1998. The program addresses recovery of four endangered fish species: [[Colorado...
+> -- *[[FiscalYearWorkPlan_11756]]*
+
+> This memorandum documents a formal Section 7 consultation under the Endangered Species Act regarding the proposed [[Hoover Powerplant]] modification project and its potential impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake...
+> -- *[[FormalSectionConsultationOnThe_11836]]*
+
+> This article documents the critical endangerment of three native Arizona fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen texanus*)—that were once so abundant in the [[Colorado River]] Valley that settlers...
+> -- *[[WantedEndangeredArizonaFishesF_12618]]*
+
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
+> This memorandum documents a trip report from the Upper Colorado River endangered fishes researchers meeting held February 24-25, 1987 in Grand Junction, Colorado. The meeting covered standardized monitoring programs, habitat research, captive spawning efforts, and recovery planning for four...
+> -- *[[TripReportForUpperColoradoRive_12974]]*
+
+> The [[Colorado Squawfish]] (*Ptychocheilus lucius*) is the largest cyprinid in North America, historically reaching lengths of nearly 1.8 m and weights exceeding 36 kg. This voracious predator served as the top carnivore of the [[Colorado River]] system. Listed as endangered in 1967 and protected...
+> -- *[[ColoradoSquawfishPtychocheilus_13278]]*
+
+> This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
+
+> This 1990 memorandum from W. L. Minckley to the [[San Pedro River]] ISF Quantification Team reassesses water-rights needs for native fish management on San Pedro River properties managed by [[U.S. Bureau of Land Management]] and [[The Nature Conservancy]]. The document emphasizes that the [[San...
+> -- *[[ReassessmentOfOriginalInformat_13790]]*
+
+> This Bureau of Reclamation field report documents the 1991 annual razorback sucker ([[Xyrauchen texanus]]) capture and tagging effort at [[Lake Mohave]], focusing on Camp No. 3 operations in the [[Six-Mile Cove]] area on the Nevada side of [[Cottonwood Basin]]. The multi-agency effort (March 18-21,...
+> -- *[[ResultsOfRazorbackSuckerRazorb_15027]]*
+
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The survey assessed 45 tanks to evaluate their potential as supplemental growout habitats for endangered fish...
+> -- *[[PreliminaryFisheriesSurveyOfAq_16481]]*
+
+> This document presents the Fiscal Year 1998 Annual Monitoring and Research Plan for the [[Grand Canyon Monitoring and Research Center]] (GCMRC), representing the first year of implementation of the Long-Term Monitoring and Research Strategic Plan (1998-2002). The plan addresses monitoring and...
+> -- *[[FiscalYearAnnualMonitoringAndR_17765]]*
+
+> On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
+> -- *[[WorkshopProceedings_18372]]*
+
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
+> This draft policy document examines recovery and regulatory compliance programs for four endangered native fishes of the [[Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[TowardRangewideIntegrationOfRe_18629]]*
+
+> This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
+> -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -1274,3 +1328,21 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[GlenCanyonNationalRecreationAr_18334]]
 - [[CaptureOfASuspectedJuvenileRaz_19058]]
 - [[ProposedActionPlanForReintrodu_19433]]
+- [[HabitatUseAndStreamflowNeedsOf_11609]]
+- [[BiologicalOpinionSummaryBlueRi_11685]]
+- [[FiscalYearWorkPlan_11756]]
+- [[FormalSectionConsultationOnThe_11836]]
+- [[WantedEndangeredArizonaFishesF_12618]]
+- [[DesertFishesCouncilEighteenthA_12829]]
+- [[TripReportForUpperColoradoRive_12974]]
+- [[ColoradoSquawfishPtychocheilus_13278]]
+- [[TheEffectsOfInterimFlowsFromGl_13620]]
+- [[ReassessmentOfOriginalInformat_13790]]
+- [[ResultsOfRazorbackSuckerRazorb_15027]]
+- [[PreliminaryFisheriesSurveyOfAq_16481]]
+- [[FiscalYearAnnualMonitoringAndR_17765]]
+- [[WorkshopProceedings_18372]]
+- [[ColoradoRiverFisheriesInvestig_18481]]
+- [[TowardRangewideIntegrationOfRe_18629]]
+- [[GeneticDiversityOfRazorbackSuc_19126]]
+- [[GlenCanyonEnvironmentalStudies_19719]]

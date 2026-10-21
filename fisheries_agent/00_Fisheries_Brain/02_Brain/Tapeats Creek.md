@@ -32,6 +32,12 @@ Tapeats Creek is a tributary of the Colorado River within the Grand Canyon that 
 > This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
 > -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
 
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
 ## Mentioned In
 - [[FishesCollectedOnTheGrandCanyo_15402]]
 - [[FwsProposedStudiesAndWorkForFy_11072]]
@@ -42,3 +48,5 @@ Tapeats Creek is a tributary of the Colorado River within the Grand Canyon that 
 - [[HabitatUseByHumpbackChubGilaCy_11090]]
 - [[TailwaterFisheryInvestigationC_14594]]
 - [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[EarlyFieldNotes_15954]]
+- [[GlenCanyonEnvironmentalStudies_19719]]

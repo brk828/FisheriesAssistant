@@ -68,6 +68,12 @@ The Gulf of California is a biogeographically significant marine basin in northw
 > This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
 > -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
 
+> On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
+> -- *[[WorkshopProceedings_18372]]*
+
+> This document describes the distinctive population of [[Desert Pupfish]] (*Cyprinodon macularius*) inhabiting [[Quitobaquito Spring]] in [[Organ Pipe National Monument]], Arizona, and the adjacent [[Rio Sonoyta]] drainage in Sonora, México. The Sonoyta population exhibits morphological differences...
+> -- *[[TheDesertPupfishOfOrganPipeNat_18555]]*
+
 ## Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -103,3 +109,5 @@ The Gulf of California is a biogeographically significant marine basin in northw
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[AClassificationOfTheFishesOfTh_14438]]
 - [[ElConsejoDeLosPecesDelDesierto_12830]]
+- [[WorkshopProceedings_18372]]
+- [[TheDesertPupfishOfOrganPipeNat_18555]]

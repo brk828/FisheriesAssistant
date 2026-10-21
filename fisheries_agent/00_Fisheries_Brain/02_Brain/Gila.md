@@ -86,6 +86,9 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 > This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
 > -- *[[RainbowSmeltProposalReview_17848]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
 ## Mentioned In
 - [[ChubsTeleosteiGenusGilaOfTheGi_15853]]
 - [[ColoradoRiverFishesRecoveryPro_1993_12_10]]
@@ -131,3 +134,4 @@ Gila is a genus of cyprinid fishes native to the southwestern United States, par
 - [[ProspectusSystematicAnalysesOf_19078]]
 - [[ColoradoRiverFishesMeetingFebr_15252]]
 - [[RainbowSmeltProposalReview_17848]]
+- [[DesertFishesCouncilThirteenthA_12827]]

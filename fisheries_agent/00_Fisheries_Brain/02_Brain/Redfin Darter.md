@@ -1,0 +1,15 @@
+---
+type: concept
+---
+# Redfin Darter
+
+## Summary
+Etheostoma whipplei (Redfin Darter) was represented by 90 individuals ranging from 19-59 mm in the Verdigris River survey. This species was one of nine darter species (family Percidae) documented in the system.
+
+## Context
+
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+## Mentioned In
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

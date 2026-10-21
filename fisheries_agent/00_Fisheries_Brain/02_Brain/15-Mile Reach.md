@@ -29,6 +29,9 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This document comprises multiple research proposals (FY-1994 Scope-of-Work) for the Recovery Implementation Program targeting endangered fish species in the [[Upper Colorado River Basin]]. The proposals focus on evaluating flow manipulations from the [[Aspinall Unit]] and their effects on...
 > -- *[[FiscalYearScopeOfWorkResearchP_11213]]*
 
+> This document presents the Fiscal Year 1999 Work Plan for the Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin, approved by the Implementation Committee on September 10, 1998. The program addresses recovery of four endangered fish species: [[Colorado...
+> -- *[[FiscalYearWorkPlan_11756]]*
+
 ## Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -36,3 +39,4 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[RequestForReleasesFromRuedigre_1989_06_08]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[FiscalYearScopeOfWorkResearchP_11213]]
+- [[FiscalYearWorkPlan_11756]]

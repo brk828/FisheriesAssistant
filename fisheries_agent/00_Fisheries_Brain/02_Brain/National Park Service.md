@@ -131,6 +131,18 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > This 14-year study (1982-1995) documents the population ecology of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona. The population represents an endemic subspecies, the [[Rio Sonoyta Mud Turtle]],...
 > -- *[[PopulationEcologyOfTheSonoranM_21071]]*
 
+> This document is the revised recovery plan for the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*), superseding the original 1978 plan. Prepared by the [[Colorado River Fishes Recovery Team]] at the direction of the [[U.S. Fish and Wildlife Service]], the plan incorporates research...
+> -- *[[DraftColoradoSquawfishRecovery_11545]]*
+
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
+> This document contains administrative correspondence and planning materials for the 1996 [[Glen Canyon Dam]] experimental high flow release, designed as a beach/habitat building test. The primary document is a schedule revision memo dated January 9, 1996, from the [[Bureau of Reclamation]]'s [[Glen...
+> -- *[[ChangeInScheduleForExperimenta_19736]]*
+
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -196,3 +208,7 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[GlenCanyonNationalRecreationAr_18334]]
 - [[ProposedActionPlanForReintrodu_19433]]
 - [[PopulationEcologyOfTheSonoranM_21071]]
+- [[DraftColoradoSquawfishRecovery_11545]]
+- [[DesertFishesCouncilEighteenthA_12829]]
+- [[ChangeInScheduleForExperimenta_19736]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

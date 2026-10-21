@@ -44,6 +44,12 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (Esox lucius) are listed as a "detrimental animal" under California Code of Regulations Title 14 Section 671. The species has a holarctic distribution, ranging from northwestern Europe across northern Asia to northern North America. In North...
 > -- *[[NorthernPikeControlAtLakeDavis_2001]]*
 
+> This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
+> -- *[[StatewideRoughFishControlfishE_14929]]*
+
+> This Supplemental Environmental Assessment, prepared by the [[Bureau of Land Management]] Phoenix District Office in May 1984, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into 11 selected...
+> -- *[[IntroductionOfGilaTopminnowAnd_17957]]*
+
 ## Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -79,3 +85,5 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 - [[CommentsOnVirginRiverEa_19382]]
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[NorthernPikeControlAtLakeDavis_2001]]
+- [[StatewideRoughFishControlfishE_14929]]
+- [[IntroductionOfGilaTopminnowAnd_17957]]

@@ -11,6 +11,10 @@ auto_enriched: true
 > - **Habitat structure**: Rooted aquatic macrophytes (*Hippuris*, *Callitriche*, *Ranunculus*, *Berula*, and *[[Elodea canadensis]]*) modify river hydraulics — weed growth can nearly triple water depth and halve velocity, directly reducing surface reaeration efficiency and equilibrium DO (from 7.2...
 > -- *[[PlantsAsOxygenatorsInRivers_1968_02_02]]*
 
+> This document is a comprehensive reference compilation of calorific values (gram-calories per gram dry weight and per ash-free gram) for organisms across all trophic levels, published as the second edition in October 1967 by Kenneth W. Cummins at the [[Pymatuning Laboratory of Ecology]],...
+> -- *[[CalorificEquivalentsForStudies_18098]]*
+
 ## Mentioned In
 - [[EvaluationOfSomeCommonAquaticW_17756]]
 - [[PlantsAsOxygenatorsInRivers_1968_02_02]]
+- [[CalorificEquivalentsForStudies_18098]]

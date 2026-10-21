@@ -101,6 +101,12 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 > This agency review draft recovery plan addresses the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid endemic to the [[Gila River]] system of Arizona and New Mexico. The species was listed as threatened under the Endangered Species Act in 1986 due to dramatic reductions in...
 > -- *[[AgencyReviewDraftLoachMinnowTi_19398]]*
 
+> This document is a formal biological opinion issued by the [[U.S. Fish and Wildlife Service]] on February 15, 1995, regarding the repair and replacement of segments of the [[Aravaipa Creek]] road in [[Pinal County]], Arizona. The consultation addresses potential impacts to two threatened fish...
+> -- *[[BiologicalOpinionForRepairAndo_11904]]*
+
+> This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
+> -- *[[AdverseBiologicalOpinionIndian_15638]]*
+
 ## Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -147,3 +153,5 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 - [[ReRequestForCommentsRegardingT_15640]]
 - [[GilasanFranciscoRiversResource_18256]]
 - [[AgencyReviewDraftLoachMinnowTi_19398]]
+- [[BiologicalOpinionForRepairAndo_11904]]
+- [[AdverseBiologicalOpinionIndian_15638]]

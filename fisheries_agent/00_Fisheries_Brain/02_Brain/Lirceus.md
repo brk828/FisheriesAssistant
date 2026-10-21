@@ -14,7 +14,11 @@ Lirceus is a genus of freshwater isopod crustaceans that was formally reinstated
 > This 1949 taxonomic revision by Hubricht & Mackin systematically reclassifies North American freshwater isopods previously assigned to the genus *Mancasellus* Harger under the earlier, valid genus name **[[Lirceus]]** Rafinesque (1820). The paper establishes a species-level identification key bas...
 > -- *[[TheFreshwaterIsopodsOfTheGenus_14487]]*
 
+> This taxonomic study redescribes the [[Texas Troglobitic Water Slater]], originally described as *Caecidotea smithii* by Ulrich in 1902 from a single incomplete specimen. Based on numerous specimens collected from the [[San Marcos Artesian Well]] beginning in December 1973, the authors establish...
+> -- *[[RedescriptionAndAssignmentToTh_17755]]*
+
 ## Mentioned In
 - [[StenasellidIsopodCrustaceansIn_1972_02_29]]
 - [[SurLaSystématiqueEtLaBiogéogra_1968_07_01]]
 - [[TheFreshwaterIsopodsOfTheGenus_14487]]
+- [[RedescriptionAndAssignmentToTh_17755]]

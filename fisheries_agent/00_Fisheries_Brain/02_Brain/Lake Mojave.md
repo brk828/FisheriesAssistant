@@ -29,6 +29,9 @@ Lake Mojave is a major reservoir on the lower Colorado River that serves as the 
 > This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DraftFiveyearRoadMap_11579]]*
 
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
 ## Mentioned In
 - [[BonytailChubStrategicPlan_13206]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -39,3 +42,4 @@ Lake Mojave is a major reservoir on the lower Colorado River that serves as the 
 - [[LetterToJimJohnsonWithEncolose_11425]]
 - [[NoticeOfViolationOfTheEsaConce_18645]]
 - [[DraftFiveyearRoadMap_11579]]
+- [[ColoradoRiverFisheriesInvestig_18481]]

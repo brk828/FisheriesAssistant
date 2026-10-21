@@ -44,6 +44,9 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 > This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
 > -- *[[CommercialFisheriesPotentialOf_18584]]*
 
+> This 1964 newspaper article describes the construction of [[Blue Ridge Dam]] on [[East Clear Creek]] in Arizona's [[Mogollon Rim]] country, part of a three-phase water transfer project by [[Phelps Dodge Corporation]] to support expanded copper mining operations at [[Morenci]]. The $6 million dam,...
+> -- *[[DramaticBattleForWaterBehindTh_18467]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[CompilationOfCommentsOnBigRive_11763]]
@@ -59,3 +62,4 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 - [[SamplingAtAsuKarstenGolfCourse_19435]]
 - [[ReProgressReportOnConstruction_13911]]
 - [[CommercialFisheriesPotentialOf_18584]]
+- [[DramaticBattleForWaterBehindTh_18467]]

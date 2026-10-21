@@ -17,6 +17,10 @@ auto_enriched: true
 > This January 1983 feasibility study by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] evaluates site selection, design requirements, and cultural methods for establishing a dedicated hatchery to propagate endangered [[Colorado River]] fishes. The study responds to...
 > -- *[[DraftcoloradoRiverEndangeredFi_13664]]*
 
+> This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
+> -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
+
 ## Mentioned In
 - [[ThJointAnnualMeetingEcosystemM_1994_02_03]]
 - [[DraftcoloradoRiverEndangeredFi_13664]]
+- [[GilaTopminnowSitesInArizonaPro_19668]]

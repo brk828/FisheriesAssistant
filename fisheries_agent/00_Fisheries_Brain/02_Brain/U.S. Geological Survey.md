@@ -35,6 +35,12 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 > **Taxonomic & Life-History Summary**: The [[Razorback Sucker]] (*Xyrauchen texanus*) is an endemic big-river fish of the [[Colorado River Basin]]. Most remaining adults in [[Lake Mohave]] are estimated to exceed 50 years old, having been produced in the riverine environment during the early 1950s...
 > -- *[[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]*
 
+> This document appears to be an administrative cover page or header for a U.S. Department of the Interior geological survey related to experimental shaded fistail investigations in the [[Southwestern United States]]. The document references miscellaneous investigations and includes a budget...
+> -- *[[ExperimentalDigitalShadedrelie_15792]]*
+
+> This December 1993 letter from the [[Maricopa Audubon Society]] to the [[Arizona Department of Water Resources]] (ADWR) addresses concerns about a water policy change permitting subdivision development in the upper [[San Pedro River]] basin. The letter documents the ecological significance of the...
+> -- *[[ArizonaDepartmentOfWaterResour_18960]]*
+
 ## Mentioned In
 - [[CreationOfTheNationalBiologica_1993_03_17]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -48,3 +54,5 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 - [[AnEcosystemApproachToFishAndWi_11650]]
 - [[LongtermLimnologicalAndWaterQu_17092]]
 - [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
+- [[ExperimentalDigitalShadedrelie_15792]]
+- [[ArizonaDepartmentOfWaterResour_18960]]

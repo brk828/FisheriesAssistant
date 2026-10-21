@@ -23,6 +23,9 @@ Percina is a genus of small benthic and semi-pelagic freshwater fish belonging t
 > - **Taxonomic scope**: The genera treated are [[Percina]] and [[Etheostoma]] (including former *Ammocrypta*, now largely reassigned to *Etheostoma* except *[[Crystallaria asprella]]*, elevated to its own genus per [[Simons]] in press). - **Geographic range of specimens**: Collections span numerou...
 > -- *[[ProvenanceAndDispositionOfFish_16999]]*
 
+> This paper documents the rediscovery of [[Noturus flavipinnis]] (yellowfin madtom), an [[Ictaluridae]] catfish previously known only from 13 faded specimens collected between 1884 and 1893 from three widely separated localities in the [[Tennessee River]] drainage. The species was feared extinct...
+> -- *[[RediscoveryAndDescriptionOfThe_13513]]*
+
 ## Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[AnAnalysisOfDiversit_18379]]
@@ -33,3 +36,4 @@ Percina is a genus of small benthic and semi-pelagic freshwater fish belonging t
 - [[ProvenanceAndDispositionOfFish_16999]]
 - [[StatusAndSynonymyOfTheAmerican_1954_06_01]]
 - [[SystematicStudiesOfDartersFrom_1963]]
+- [[RediscoveryAndDescriptionOfThe_13513]]

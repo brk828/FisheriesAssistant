@@ -44,6 +44,12 @@ Warmouth (Lepomis gulosus) is a small freshwater sunfish species native to easte
 > **Primary Sampling Purpose**: This renovation plan aims to completely remove nonnative fish species from six ponds at [[Imperial National Wildlife Refuge]] to create suitable habitat for recruiting populations of [[Bonytail]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*). The...
 > -- *[[ImperialPondsRenovationPlan_2014]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
+> -- *[[StatewideRoughFishControlfishE_14929]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -68,3 +74,5 @@ Warmouth (Lepomis gulosus) is a small freshwater sunfish species native to easte
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[WhatHaveICaught_12929]]
 - [[ImperialPondsRenovationPlan_2014]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[StatewideRoughFishControlfishE_14929]]

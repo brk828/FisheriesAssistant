@@ -14,8 +14,12 @@ The Navajo Natural Heritage Program appears to be a Navajo Nation-led initiative
 > This document comprises correspondence and progress reports from [[Arizona State University]] (ASU) and the [[Navajo Natural Heritage Program]] (NNHP) to the [[Glen Canyon Environmental Studies]] program regarding endangered [[Humpback Chub]] (*Gila cypha*) research in the [[Little Colorado River]]...
 > -- *[[EndangeredSpeciesProgramReview_19696]]*
 
+> This document comprises two reports from the [[Arizona Game and Fish Department]] covering native fish and trout studies in the [[Colorado River]] system below [[Glen Canyon Dam]] during 1991. The March 26-April 14, 1991 trip report details field sampling in mainstream and [[Little Colorado River]]...
+> -- *[[GlenCanyonEnvironmentalStudies_15938]]*
+
 ## Mentioned In
 - [[DatabaseIntegrationWithNavajoN_13634]]
 - [[NotificationOfModifiedHoopNetS_17045]]
 - [[TransmittalOfNavajoNationLittl_1992_11_17]]
 - [[EndangeredSpeciesProgramReview_19696]]
+- [[GlenCanyonEnvironmentalStudies_15938]]

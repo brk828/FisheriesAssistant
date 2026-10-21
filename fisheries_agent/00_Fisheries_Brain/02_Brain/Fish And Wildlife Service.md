@@ -98,6 +98,18 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
 > -- *[[ProposedActionPlanForReintrodu_19433]]*
 
+> This comprehensive 1954 report from the [[Cortland Hatchery]] presents multiple experimental studies on [[Brook Trout]] (Salvelinus fontinalis) and [[Brown Trout]] (Salmo trutta) nutrition and physiology. The research, conducted cooperatively between the [[New York Conservation Department]], [[Fish...
+> -- *[[TheNutritionOfTroutCortalandHa_11168]]*
+
+> This final rule, published February 23, 1998, codifies the Habitat Conservation Plan (HCP) assurances provided through section 10(a)(1)(B) permits issued under the [[Endangered Species Act]] (ESA). The "No Surprises" policy, first announced in 1994 by the [[Fish and Wildlife Service]] (FWS) and...
+> -- *[[HabitatConservationPlanAssuran_13191]]*
+
+> This comprehensive report summarizes 1964 pesticide research findings by the [[Fish and Wildlife Service]], covering both wildlife studies (conducted at [[Patuxent Wildlife Research Center]] and [[Denver Research Center]]) and fishery investigations. The document represents the fifth annual report...
+> -- *[[WildlifeStudiesPatuxentWildlif_14328]]*
+
+> This Bureau of Reclamation field report documents the 1991 annual razorback sucker ([[Xyrauchen texanus]]) capture and tagging effort at [[Lake Mohave]], focusing on Camp No. 3 operations in the [[Six-Mile Cove]] area on the Nevada side of [[Cottonwood Basin]]. The multi-agency effort (March 18-21,...
+> -- *[[ResultsOfRazorbackSuckerRazorb_15027]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -145,3 +157,7 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[ReProgressReportOnConstruction_13911]]
 - [[ChronologyOfYumaCoveActivities_15028]]
 - [[ProposedActionPlanForReintrodu_19433]]
+- [[TheNutritionOfTroutCortalandHa_11168]]
+- [[HabitatConservationPlanAssuran_13191]]
+- [[WildlifeStudiesPatuxentWildlif_14328]]
+- [[ResultsOfRazorbackSuckerRazorb_15027]]

@@ -29,6 +29,9 @@ Carl L. Hubbs was a pioneering American ichthyologist and evolutionary biologist
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> This 1929 paper by [[Carl L. Hubbs]] examines the relationship between hydrographic conditions and deep-sea fish fauna in two contrasting isolated marine basins of the Western Pacific: the [[Sea of Japan]] and the [[Sulu Sea]] complex. The study demonstrates how physical barriers (shallow straits)...
+> -- *[[TheHydrographicAndFaunalIndepe_19989]]*
+
 ## Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -42,3 +45,4 @@ Carl L. Hubbs was a pioneering American ichthyologist and evolutionary biologist
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
 - [[RefugiaInNevadaForCertainRareA_14193]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[TheHydrographicAndFaunalIndepe_19989]]

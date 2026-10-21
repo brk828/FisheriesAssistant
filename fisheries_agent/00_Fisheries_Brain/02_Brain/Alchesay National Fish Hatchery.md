@@ -26,9 +26,13 @@ Alchesay National Fish Hatchery is a U.S. Fish & Wildlife Service facility locat
 > This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
 > -- *[[UsFishAndWildlifeServicesAbili_20453]]*
 
+> This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
+> -- *[[AdverseBiologicalOpinionIndian_15638]]*
+
 ## Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
 - [[InvestigationOfProposedProject_1967_03_31]]
 - [[StationProfileOfTheP_1991_11_28]]
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
 - [[UsFishAndWildlifeServicesAbili_20453]]
+- [[AdverseBiologicalOpinionIndian_15638]]

@@ -26,6 +26,9 @@ Roosevelt Dam, constructed on the Salt River in Arizona, is a major water infras
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> This U.S. Geological Survey report, prepared in cooperation with the U.S. Bureau of Indian Affairs, documents predevelopment hydrologic conditions in the [[Salt River Indian Reservation]] area prior to non-Indian settlement (pre-1870s). The study was conducted to support water rights adjudication...
+> -- *[[PredevelopmentHydrologyOfTheSa_13330]]*
+
 ## Mentioned In
 - [[EndangeredFishes_12619]]
 - [[FaunalResourceUseInThePrehisto_17343]]
@@ -35,3 +38,4 @@ Roosevelt Dam, constructed on the Salt River in Arizona, is a major water infras
 - [[EndangeredAndThreatenedWildlif_11550]]
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[PredevelopmentHydrologyOfTheSa_13330]]

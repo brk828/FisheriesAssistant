@@ -20,8 +20,12 @@ Greenlee County is a county in Arizona that contains portions of the Blue River 
 > This August 12, 1991 letter from the [[U.S. Fish and Wildlife Service]] to the [[U.S. Forest Service]] provides formal comments on the proposed [[Pigeon Creek Lake]] project in [[Greenlee County]], [[Arizona]]. The Service raises significant concerns about the project's potential impacts to...
 > -- *[[ReRequestForCommentsRegardingT_15640]]*
 
+> This biological opinion, issued October 14, 1997, addresses the realignment of Forest Road 281 near [[Bush Creek]] on the upper [[Blue River]], [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] (lead agency) and [[U.S. Army Corps of Engineers]] proposed rerouting approximately 1,200...
+> -- *[[BiologicalOpinionSummaryBlueRi_11685]]*
+
 ## Mentioned In
 - [[SummaryBiologicalOpinionForRep_11720]]
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[BiologicalOpinionForReroutingO_11747]]
 - [[ReRequestForCommentsRegardingT_15640]]
+- [[BiologicalOpinionSummaryBlueRi_11685]]

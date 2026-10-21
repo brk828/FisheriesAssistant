@@ -20,6 +20,9 @@ The ASU Research Park is an experimental facility in central Arizona that served
 > Personnel from [[Arizona State University]] conducted fish sampling at [[ASU Research Park]] in Tempe, Arizona on 07-08 October 1992 to assess fish community status. Multiple sampling methods including trammel nets, experimental gill nets, and seining captured 1,315 individuals representing 11...
 > -- *[[SamplingAtAsuResearchParkAutum_19458]]*
 
+> This article documents the critical endangerment of three native Arizona fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen texanus*)—that were once so abundant in the [[Colorado River]] Valley that settlers...
+> -- *[[WantedEndangeredArizonaFishesF_12618]]*
+
 ## Mentioned In
 - [[AsuResearchParkYoungOfYearFish_1993_08_02]]
 - [[ColoradoSquawfishAndBonytailCh_1986_10_08]]
@@ -32,3 +35,4 @@ The ASU Research Park is an experimental facility in central Arizona that served
 - [[TripReportForTheSeptemberSurve_1996_09_15]]
 - [[PalmLakenativeFishStatus_20905]]
 - [[SamplingAtAsuResearchParkAutum_19458]]
+- [[WantedEndangeredArizonaFishesF_12618]]

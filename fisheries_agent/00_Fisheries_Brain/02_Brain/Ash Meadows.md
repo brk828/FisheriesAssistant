@@ -47,6 +47,18 @@ Ash Meadows is a spring-fed complex of isolated wetland habitats in the Death Va
 > This research proposal by James Everett Deacon (Associate Professor, Nevada Southern University) seeks funding to conduct comprehensive limnological surveys of spring systems in Nevada, particularly the [[Pluvial White River System]], [[Moapa Valley]], and [[Ash Meadows]]. The proposal addresses...
 > -- *[[TheLimnologyOfDesertSprings_13994]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
+> This document is a July 1990 letter from a Department of Zoology faculty member to Stewart L. Udall, former Secretary of the Interior, requesting a forward for an edited volume on endangered western fishes. The letter includes a draft forward outlining key conservation controversies involving...
+> -- *[[DraftOfForwardForBookBattleAga_13788]]*
+
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -76,3 +88,7 @@ Ash Meadows is a spring-fed complex of isolated wetland habitats in the Death Va
 - [[FishesAndAquaticResourcesDeath_15415]]
 - [[ElConsejoDeLosPecesDelDesierto_12830]]
 - [[TheLimnologyOfDesertSprings_13994]]
+- [[DesertFishesCouncilThirteenthA_12827]]
+- [[DesertFishesCouncilEighteenthA_12829]]
+- [[DraftOfForwardForBookBattleAga_13788]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

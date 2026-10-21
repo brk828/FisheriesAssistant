@@ -53,6 +53,18 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This subpermit (91-07) issued July 5, 1991, authorizes Dr. Wayne Starnes and designated staff from the Division of Fishes to conduct scientific research on endangered [[Gila]] species through December 15, 1991. The permit covers capture, measurement, tissue sampling, and [[PIT Tagging]] of four...
 > -- *[[LetterToWayneStarnesAuthorizat_11924]]*
 
+> This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
+> -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
+
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
+> This five-year assessment evaluates conservation actions conducted for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during the initial term (1995-2000) of the Virgin Spinedace Conservation Agreement and Strategy (VSCAS). The VSCAS was developed in 1995 as a collaborative effort among...
+> -- *[[VirginSpinedaceLepidomedaMolli_14744]]*
+
+> This annotated bibliography, compiled by Terry J. Hickman in September 1987, provides a comprehensive review of 90 references concerning the [[Woundfin]] (*Plagopterus argentissimus*), an endangered cyprinid minnow endemic to the [[Colorado River Basin]]. The woundfin is a streamlined, silvery...
+> -- *[[AnnotatedBibliographyForTheWou_20385]]*
+
 ## Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -104,3 +116,7 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[CommentsOnVirginRiverEa_19382]]
 - [[BiologicalOpinionOnTheEffectsO_11915]]
 - [[LetterToWayneStarnesAuthorizat_11924]]
+- [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[DesertFishesCouncilEighteenthA_12829]]
+- [[VirginSpinedaceLepidomedaMolli_14744]]
+- [[AnnotatedBibliographyForTheWou_20385]]

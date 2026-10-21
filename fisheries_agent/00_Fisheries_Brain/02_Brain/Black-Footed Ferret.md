@@ -17,7 +17,15 @@ The black-footed ferret is not a fish species but rather serves as a comparative
 > 1. **No riverine occurrence documented:** Despite past sampling of the Dirty Devil River and tributaries, no Colorado squawfish or razorback suckers have ever been collected from the river itself — only from the Lake Powell reservoir arm. 2. **Seasonal attractant, not critical habitat:** The Dirt...
 > -- *[[EndangeredSpeciesBiologicalAss_11547]]*
 
+> This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
+> -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
+
+> This February 1992 report by [[World Wildlife Fund]] analyzes Section 7 consultation data under the [[Endangered Species Act]] (ESA) from Fiscal Years 1987-1991. The study examines consultation records from every regional office of the [[U.S. Fish and Wildlife Service]] (FWS) and [[National Marine...
+> -- *[[ForConservingListedSpeciesTalk_15635]]*
+
 ## Mentioned In
 - [[CommentsOnProposedBonytailChub_1986_01_07]]
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
 - [[EndangeredSpeciesBiologicalAss_11547]]
+- [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[ForConservingListedSpeciesTalk_15635]]

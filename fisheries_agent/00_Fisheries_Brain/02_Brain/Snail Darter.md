@@ -23,6 +23,9 @@ The Snail Darter (*Percina tanasi*) is a small benthic percid fish endemic to th
 > - **Extinction rate acceleration**: Man-induced extinction rates for warm-blooded vertebrates are estimated at 4–12× natural background rates; comparable acceleration is implied for fishes and mollusks. - **Fish extinction tally**: At least 15 fish species and 2 subspecies became extinct in the U...
 > -- *[[EndangeredSpeciesTodayExtinctT_1977]]*
 
+> This document is a July 1990 letter from a Department of Zoology faculty member to Stewart L. Udall, former Secretary of the Interior, requesting a forward for an edited volume on endangered western fishes. The letter includes a draft forward outlining key conservation controversies involving...
+> -- *[[DraftOfForwardForBookBattleAga_13788]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[EndangeredFishDelayDamSConstru_1980_12_07]]
@@ -30,3 +33,4 @@ The Snail Darter (*Percina tanasi*) is a small benthic percid fish endemic to th
 - [[EndangeredSpeciesTodayExtinctT_1977]]
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[LetterFromDesertFishesCouncilC_1977_02_07]]
+- [[DraftOfForwardForBookBattleAga_13788]]

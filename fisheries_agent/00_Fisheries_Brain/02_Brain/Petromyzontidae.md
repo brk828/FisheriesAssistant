@@ -32,6 +32,9 @@ Petromyzontidae is a family of jawless fish commonly known as lampreys, characte
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
+> -- *[[CodeOfFederalRegulationsPartEn_11616]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AProvisionalCheckListOfTheFish_15941]]
@@ -47,3 +50,4 @@ Petromyzontidae is a family of jawless fish commonly known as lampreys, characte
 - [[DistributionalAndLocalVernacul_13815]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[CodeOfFederalRegulationsPartEn_11616]]

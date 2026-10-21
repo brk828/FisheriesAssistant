@@ -26,6 +26,9 @@ Fall Chinook Salmon are a specific run or population of Chinook salmon (Oncorhyn
 > This technical paper reports on seven seasons (1959-1966) of experimental operation of the [[Abernathy Channel]], a 2,000-foot artificial spawning and incubation channel near [[Longview, Washington]]. The facility was designed to incubate [[Fall Chinook Salmon]] (*Oncorhynchus tshawytscha*) and...
 > -- *[[OperationOfAbernathyChannelFor_13574]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
 ## Mentioned In
 - [[GarrisonDamNationalFishHatcher_19557]]
 - [[GroupsReachAgreementToRemoveDa_1999_08_23]]
@@ -35,3 +38,4 @@ Fall Chinook Salmon are a specific run or population of Chinook salmon (Oncorhyn
 - [[StationProfileOfTheQ_1993]]
 - [[StationProfileOfTheSpringCreek_19519]]
 - [[OperationOfAbernathyChannelFor_13574]]
+- [[FishAndFishEggDistributionRepo_13434]]

@@ -242,6 +242,27 @@ Arizona State University is a major research institution that has played a signi
 > This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
 > -- *[[ProposedActionPlanForReintrodu_19433]]*
 
+> This 1987 memorandum from Professor W. L. Minckley to the Chair of Arizona State University's Department of Zoology proposes a Centennial Celebration commemorating [[C. Hart Merriam]]'s pioneering work on life zones. Merriam's 1890 publication "Results of a Biological Survey of the San Francisco...
+> -- *[[PotentialForACHartMerriamCente_13747]]*
+
+> This Bureau of Reclamation field report documents the 1991 annual razorback sucker ([[Xyrauchen texanus]]) capture and tagging effort at [[Lake Mohave]], focusing on Camp No. 3 operations in the [[Six-Mile Cove]] area on the Nevada side of [[Cottonwood Basin]]. The multi-agency effort (March 18-21,...
+> -- *[[ResultsOfRazorbackSuckerRazorb_15027]]*
+
+> This document comprises historical field collection notes (Station M34-2 and M30-60) and correspondence dated March 28, 1989, from the [[University of Michigan Museum of Zoology]] Division of Fishes to Dr. W. L. Minckley at [[Arizona State University]]. The field notes document collection of...
+> -- *[[FishCollectionRecordsAndFieldN_15305]]*
+
+> This document comprises two reports from the [[Arizona Game and Fish Department]] covering native fish and trout studies in the [[Colorado River]] system below [[Glen Canyon Dam]] during 1991. The March 26-April 14, 1991 trip report details field sampling in mainstream and [[Little Colorado River]]...
+> -- *[[GlenCanyonEnvironmentalStudies_15938]]*
+
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The survey assessed 45 tanks to evaluate their potential as supplemental growout habitats for endangered fish...
+> -- *[[PreliminaryFisheriesSurveyOfAq_16481]]*
+
+> This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
+> -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
+
+> This memorandum from the [[Glen Canyon Environmental Studies]] (GCES) program, dated November 24, 1992, outlines coordination plans for a December 1, 1992 meeting of principle investigators conducting native fish research in [[Grand Canyon]]. The document focuses on integrating research efforts...
+> -- *[[GlenCanyonEnvironmentalStudies_19708]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -433,3 +454,10 @@ Arizona State University is a major research institution that has played a signi
 - [[ReviewOfHumpbackChubPropagatio_18515]]
 - [[CommercialFisheriesPotentialOf_18584]]
 - [[ProposedActionPlanForReintrodu_19433]]
+- [[PotentialForACHartMerriamCente_13747]]
+- [[ResultsOfRazorbackSuckerRazorb_15027]]
+- [[FishCollectionRecordsAndFieldN_15305]]
+- [[GlenCanyonEnvironmentalStudies_15938]]
+- [[PreliminaryFisheriesSurveyOfAq_16481]]
+- [[GilaTopminnowSitesInArizonaPro_19668]]
+- [[GlenCanyonEnvironmentalStudies_19708]]

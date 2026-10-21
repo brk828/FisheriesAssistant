@@ -23,6 +23,9 @@ The National Fish Hatchery System (NFHS) is a network of federally operated fish
 > This document is a 1994 internal correspondence from staff at the [[Dexter National Fish Hatchery and Technology Center]] to Dr. W.L. Minckley of Arizona State University, submitted as input to a U.S. Fish and Wildlife Service (USFWS) review panel evaluating the Fishery Resources Program's role i...
 > -- *[[LetterToWLMinckleyOnFisheryRes_1994_05_27]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
 ## Mentioned In
 - [[CommentsOnNationalFishHatchery_1994_05_24]]
 - [[ConcernsOnSpecializedFacilitie_1994_05_20]]
@@ -43,3 +46,4 @@ The National Fish Hatchery System (NFHS) is a network of federally operated fish
 - [[StationProfileOfTheMakahNation_1993_12_13]]
 - [[StationProfileOfWarmSpringsNat_1993]]
 - [[StationProfileOfWolf_1994]]
+- [[FishAndFishEggDistributionRepo_13434]]

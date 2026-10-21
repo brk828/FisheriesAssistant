@@ -14,8 +14,20 @@ The Asian Tapeworm (*Bothriocephalus acheilognathi*) is an invasive endoparasiti
 > - **Pathogens screened**: [[Asian Tapeworm]] (*Bothriocephalus acheilognathi*), [[Edwardsiella Tarda]], and [[Edwardsiella Ictaluri]].
 > -- *[[FishHealthInspectionReportDext_1999]]*
 
+> This five-year assessment evaluates conservation actions conducted for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during the initial term (1995-2000) of the Virgin Spinedace Conservation Agreement and Strategy (VSCAS). The VSCAS was developed in 1995 as a collaborative effort among...
+> -- *[[VirginSpinedaceLepidomedaMolli_14744]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
+> This annotated bibliography, compiled by Terry J. Hickman in September 1987, provides a comprehensive review of 90 references concerning the [[Woundfin]] (*Plagopterus argentissimus*), an endangered cyprinid minnow endemic to the [[Colorado River Basin]]. The woundfin is a streamlined, silvery...
+> -- *[[AnnotatedBibliographyForTheWou_20385]]*
+
 ## Mentioned In
 - [[AsianTapewormEradicationStrate_13118]]
 - [[FishHealthInspectionReportDext_1999]]
 - [[GlenCanyonEnvironmentalStudies_1992_09_13]]
 - [[LetterRegardingAsianTapewormEr_1996_09_06]]
+- [[VirginSpinedaceLepidomedaMolli_14744]]
+- [[GlenCanyonEnvironmentalStudies_19719]]
+- [[AnnotatedBibliographyForTheWou_20385]]

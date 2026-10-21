@@ -158,6 +158,27 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > This supplemental environmental assessment, prepared by the [[U.S. Bureau of Land Management]] (BLM) Phoenix District Office in December 1983, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*)...
 > -- *[[IntroductionOfGilaTopminnowAnd_17956]]*
 
+> This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
+> -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
+
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
+> This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
+> -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
+
+> This study examined interactions between the endangered [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*) and introduced [[Mosquitofish]] (*Gambusia affinis*) at [[San Bernardino National Wildlife Refuge]], southeastern [[Arizona]], from May 1985 through October 1987. The research...
+> -- *[[InteractionsBetweenPoeciliopsi_16887]]*
+
+> This Bureau of Land Management (BLM) report documents the construction of a pipeline system at [[Tule Creek]] in Yavapai County, Arizona, to provide livestock water outside a riparian exclosure while protecting habitat for the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis)...
+> -- *[[TuleCreekPipelineProjectSummar_17654]]*
+
+> This Supplemental Environmental Assessment, prepared by the [[Bureau of Land Management]] Phoenix District Office in May 1984, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into 11 selected...
+> -- *[[IntroductionOfGilaTopminnowAnd_17957]]*
+
+> This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
+> -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -383,3 +404,10 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[ReProgressReportOnConstruction_13911]]
 - [[BiologicalEvaluationOfTheAppro_15074]]
 - [[IntroductionOfGilaTopminnowAnd_17956]]
+- [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[DesertFishesCouncilEighteenthA_12829]]
+- [[AnUpdateStatusReportOfTheSonor_13824]]
+- [[InteractionsBetweenPoeciliopsi_16887]]
+- [[TuleCreekPipelineProjectSummar_17654]]
+- [[IntroductionOfGilaTopminnowAnd_17957]]
+- [[GilaTopminnowSitesInArizonaPro_19668]]

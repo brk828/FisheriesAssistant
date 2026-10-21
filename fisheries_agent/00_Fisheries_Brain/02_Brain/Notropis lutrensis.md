@@ -56,6 +56,12 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 > On October 28, 1986, the U.S. Fish and Wildlife Service published a final rule determining the [[Loach Minnow]] (*Tiaroga cobitis*) to be a threatened species under the Endangered Species Act of 1973, as amended. This determination was effective November 28, 1986. The loach minnow historically...
 > -- *[[LoachMinnow_19034]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -84,3 +90,5 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
 - [[LoachMinnow_19034]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[EarlyFieldNotes_15954]]

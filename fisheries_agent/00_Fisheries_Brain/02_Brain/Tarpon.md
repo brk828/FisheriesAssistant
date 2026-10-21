@@ -14,8 +14,12 @@ Tarpon (*Megalops atlanticus*) is a large, euryhaline marine fish species that w
 > - **[[Tarpon]]** (*Megalops atlanticus*): 34 individuals released into Victor Braunig Reservoir (Dec 1984–Mar 1985) as survivors/controls from freshwater cold-tolerance laboratory trials. Released into a heated power-plant reservoir rather than returned to the coast due to cool seasonal ocean tem...
 > -- *[[SpeciesStockingHistoryInTexasD_1987]]*
 
+> This taxonomic study documents a small collection of Isospondylous and Characoid fishes from [[British Honduras]] (modern [[Belize]]) and neighboring [[Guatemala]], a poorly known Central American region. The collection includes representatives from two families: [[Dorosomidae]] (gizzard shads) and...
+> -- *[[InQuestOfTheMayansSequelIiOnCe_16973]]*
+
 ## Mentioned In
 - [[ExperimentalIntroductionOfFish_1955]]
 - [[SpeciesStockingHistoryInTexasD_1987]]
 - [[StatusOfIntroducedWalkingCatfi_17609]]
 - [[TheRelationOfHydrologicalCondi_20023]]
+- [[InQuestOfTheMayansSequelIiOnCe_16973]]

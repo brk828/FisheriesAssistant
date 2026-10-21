@@ -14,6 +14,10 @@ The Rio Mayo is a Pacific slope river system in northern Mexico. This source doc
 > This progress report documents the status of the [[Gila Taxonomy Project]] as of December 11, 1992, submitted to the Biology Committee of the [[Colorado River Implementation Recovery Committee]]. The project, managed by Dr. Wayne C. Starnes of the [[Smithsonian Institution]], aims to...
 > -- *[[ProgressReportOnGilaTaxonomyPr_14729]]*
 
+> This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
+> -- *[[PartManagementConcernsPriority_14724]]*
+
 ## Mentioned In
 - [[DistributionalAndLocalVernacul_13815]]
 - [[ProgressReportOnGilaTaxonomyPr_14729]]
+- [[PartManagementConcernsPriority_14724]]

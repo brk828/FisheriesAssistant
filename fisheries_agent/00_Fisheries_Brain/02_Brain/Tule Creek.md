@@ -26,6 +26,12 @@ Tule Creek is a lotic (flowing water) system in Arizona that has served as a stu
 > This 14-year study (1982-1995) documents the population ecology of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona. The population represents an endemic subspecies, the [[Rio Sonoyta Mud Turtle]],...
 > -- *[[PopulationEcologyOfTheSonoranM_21071]]*
 
+> This Bureau of Land Management (BLM) report documents the construction of a pipeline system at [[Tule Creek]] in Yavapai County, Arizona, to provide livestock water outside a riparian exclosure while protecting habitat for the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis)...
+> -- *[[TuleCreekPipelineProjectSummar_17654]]*
+
+> This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
+> -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnDraftRevise_1993_09_08]]
 - [[BiologicalOpinionTuleCreekRipa_1991_09_03]]
@@ -33,3 +39,5 @@ Tule Creek is a lotic (flowing water) system in Arizona that has served as a stu
 - [[ThJointAnnualMeetingEcosystemM_1994_02_03]]
 - [[SiteVisitPotentialFishBarrierS_11854]]
 - [[PopulationEcologyOfTheSonoranM_21071]]
+- [[TuleCreekPipelineProjectSummar_17654]]
+- [[GilaTopminnowSitesInArizonaPro_19668]]

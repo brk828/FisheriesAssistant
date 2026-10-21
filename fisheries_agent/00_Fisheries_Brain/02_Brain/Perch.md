@@ -20,6 +20,9 @@ In ichthyological research, perch refers to members of the family Percidae, fres
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius* L.) in [[Stege Lagoon]], western [[Baltic Sea]], inhabit brackish waters at 8–10 ppt salinity, near the upper physiological tolerance limit for the species. Twenty-two adult pike were studied (14 females: mean TL 87.0 cm ± 9.7...
 > -- *[[PikeEsoxLuciusLOnTheEdgeConsis_2016]]*
 
+> This report documents new distribution records for two parasitic copepods of the family [[Lernaeopodidae]] in Yorkshire, England. [[Achtheres percarum]] Nordmann is recorded from three Yorkshire localities (Doe Park Reservoir, Bretton Park Lake, and River Ouse at Lower Dunsforth) representing...
+> -- *[[TheParasiticCopepodAchtheresPe_18884]]*
+
 ## Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
@@ -29,3 +32,4 @@ In ichthyological research, perch refers to members of the family Percidae, fres
 - [[WhatHaveICaught_12929]]
 - [[TroutRestorationInTheAdirondac_20206]]
 - [[PikeEsoxLuciusLOnTheEdgeConsis_2016]]
+- [[TheParasiticCopepodAchtheresPe_18884]]

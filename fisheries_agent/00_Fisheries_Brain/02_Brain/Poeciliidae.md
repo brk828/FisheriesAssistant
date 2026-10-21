@@ -83,6 +83,12 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 > This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
 > -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
 
+> This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
+> -- *[[StatewideRoughFishControlfishE_14929]]*
+
+> This Supplemental Environmental Assessment, prepared by the [[Bureau of Land Management]] Phoenix District Office in May 1984, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into 11 selected...
+> -- *[[IntroductionOfGilaTopminnowAnd_17957]]*
+
 ## Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AgendaDesertFishesRecoveryTeam_1989_12_07]]
@@ -189,3 +195,5 @@ Poeciliidae is a family of small freshwater and brackish-water fishes commonly k
 - [[ThePoeciliidFishesOfRioGrandeD_15799]]
 - [[IntroductionOfGilaTopminnowAnd_17956]]
 - [[AnEcologicalOverviewOfPoecilii_20086]]
+- [[StatewideRoughFishControlfishE_14929]]
+- [[IntroductionOfGilaTopminnowAnd_17957]]

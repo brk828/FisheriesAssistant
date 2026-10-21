@@ -44,6 +44,12 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 > This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
 > -- *[[CreelCensusReport_11332]]*
 
+> This report documents a five-year experimental study (1946-1950) on twelve Michigan lakes testing liberalized fishing regulations for warm-water species, particularly pan fishes. The Michigan Legislature authorized experimental regulations on up to 20 lakes to evaluate effects of removing size...
+> -- *[[FishingInTwelveMichiganLakesUn_16148]]*
+
+> This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
+> -- *[[TheEnvironmentalConditionsOfAn_16280]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -72,3 +78,5 @@ Crappie refers to freshwater sunfish species in the family Centrarchidae, common
 - [[ProjectVelaUniformLakeMeadTest_20812]]
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[CreelCensusReport_11332]]
+- [[FishingInTwelveMichiganLakesUn_16148]]
+- [[TheEnvironmentalConditionsOfAn_16280]]

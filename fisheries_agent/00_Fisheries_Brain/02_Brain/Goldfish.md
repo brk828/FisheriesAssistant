@@ -56,6 +56,15 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 > This report describes a severely deformed [[Carp]] (*Cyprinus carpio*) caught in October 1949 from an irrigation canal in [[Imperial County]], California. The specimen exhibited extreme vertebral fusion with at least 10 centra fused into a solid segment at the midlength of the vertebral column,...
 > -- *[[AnAbnormalCarpCyprinusCarpioFr_12321]]*
 
+> This technical report presents Habitat Suitability Index (HSI) models for [[Common Carp]] (*Cyprinus carpio*) in riverine and lacustrine habitats across the 48 contiguous United States. Developed by the U.S. Fish and Wildlife Service's Habitat Evaluation Procedures Group, the models synthesize...
+> -- *[[HabitatSuitabilityIndexModelsC_15766]]*
+
+> This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
+> -- *[[BioassayAndUseOfPituitaryMater_15952]]*
+
+> [[Antimycin]] is a newly developed antibiotic fish toxicant discovered in 1945 at the [[University of Wisconsin]] Department of Plant Pathology. By 1963, researchers identified its high toxicity to fish at concentrations harmless to other animals. The [[Fish Control Laboratory]] at [[La Crosse]]...
+> -- *[[AntimycinaNewFisheryTool_20243]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -108,3 +117,6 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 - [[RoughFishControl_20167]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[AnAbnormalCarpCyprinusCarpioFr_12321]]
+- [[HabitatSuitabilityIndexModelsC_15766]]
+- [[BioassayAndUseOfPituitaryMater_15952]]
+- [[AntimycinaNewFisheryTool_20243]]

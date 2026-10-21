@@ -26,6 +26,9 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DraftFiveyearRoadMap_11579]]*
 
+> The [[Colorado Squawfish]] (*Ptychocheilus lucius*) is the largest cyprinid in North America, historically reaching lengths of nearly 1.8 m and weights exceeding 36 kg. This voracious predator served as the top carnivore of the [[Colorado River]] system. Listed as endangered in 1967 and protected...
+> -- *[[ColoradoSquawfishPtychocheilus_13278]]*
+
 ## Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -34,3 +37,4 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[SummaryjanuaryManagementGroupM_21002]]
 - [[DraftRecoveryImplementationPro_11643]]
 - [[DraftFiveyearRoadMap_11579]]
+- [[ColoradoSquawfishPtychocheilus_13278]]

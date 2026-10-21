@@ -26,6 +26,9 @@ Etheostoma is a genus of small freshwater darters within the family Percidae, co
 > This paper documents the endemic fish fauna of the [[Cuatro Ciénegas]] basin in northern [[Coahuila]], [[Mexico]], describing one of the most important relict biotas in the Western Hemisphere. Of 20 fish taxa present, 15 are differentiated to at least subspecific level and 11 are endemic to the...
 > -- *[[EndemicFishesOfTheCuatroCieneg_13685]]*
 
+> This paper documents the rediscovery of [[Noturus flavipinnis]] (yellowfin madtom), an [[Ictaluridae]] catfish previously known only from 13 faded specimens collected between 1884 and 1893 from three widely separated localities in the [[Tennessee River]] drainage. The species was feared extinct...
+> -- *[[RediscoveryAndDescriptionOfThe_13513]]*
+
 ## Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[AProvisionalCheckListOfTheFish_15941]]
@@ -45,3 +48,4 @@ Etheostoma is a genus of small freshwater darters within the family Percidae, co
 - [[TheSpottailDarterEtheostomaSqu_1976]]
 - [[TwoNaturalDarterHybridsInvolvi_1980]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
+- [[RediscoveryAndDescriptionOfThe_13513]]

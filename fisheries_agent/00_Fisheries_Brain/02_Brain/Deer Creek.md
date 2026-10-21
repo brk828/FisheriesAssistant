@@ -32,6 +32,9 @@ Deer Creek is a relatively unmodified tributary of the Sacramento River in Teham
 > This technical proposal, submitted by the [[Pinetop Fishery Assistance Office]] of the [[U.S. Fish and Wildlife Service]] to the [[U.S. Bureau of Reclamation]] [[Glen Canyon Environmental Studies]] in July 1990, outlines a comprehensive multi-year research program to quantify habitat use by the...
 > -- *[[HabitatUseByHumpbackChubGilaCy_11575]]*
 
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
 ## Mentioned In
 - [[BibliographyOfStudiesOnIntrodu_13347]]
 - [[FishesOfTheWakarusaRiverInKans_14015]]
@@ -42,3 +45,4 @@ Deer Creek is a relatively unmodified tributary of the Sacramento River in Teham
 - [[HabitatUseByHumpbackChubGilaCy_11090]]
 - [[TailwaterFisheryInvestigationC_14594]]
 - [[HabitatUseByHumpbackChubGilaCy_11575]]
+- [[EarlyFieldNotes_15954]]

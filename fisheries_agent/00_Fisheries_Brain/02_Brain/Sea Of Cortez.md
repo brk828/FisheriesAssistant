@@ -23,6 +23,9 @@ auto_enriched: true
 > This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
 > -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
 
+> Archaeological survey conducted by the [[NPS Western Archaeological and Conservation Center]] at [[Organ Pipe Cactus National Monument]] (ORPI) between 1989 and 1993 documented 12,000 years of continuous human occupation. The survey covered 8,000 acres (2% of the monument) and recorded 199...
+> -- *[[BetweenTheDesertAndTheSeaArche_13223]]*
+
 ## Mentioned In
 - [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
@@ -31,3 +34,4 @@ auto_enriched: true
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[FishWithoutARiverTheCaptiveBre_19094]]
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[BetweenTheDesertAndTheSeaArche_13223]]

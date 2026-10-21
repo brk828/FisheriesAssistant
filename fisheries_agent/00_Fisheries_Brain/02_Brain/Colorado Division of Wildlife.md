@@ -29,6 +29,12 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 > This article describes conservation efforts in Colorado to save four unique big-river fish species found nowhere else on Earth: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Humpback Sucker]] (*Xyrauchen texanus*)....
 > -- *[[SavingColoradosBigRiverFish_20737]]*
 
+> This document is the revised recovery plan for the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*), superseding the original 1978 plan. Prepared by the [[Colorado River Fishes Recovery Team]] at the direction of the [[U.S. Fish and Wildlife Service]], the plan incorporates research...
+> -- *[[DraftColoradoSquawfishRecovery_11545]]*
+
+> This report presents results from C¹⁴ primary productivity studies conducted at [[Twin Lakes]], [[Colorado]], from 1973-81, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study characterizes baseline primary production rates in these high-mountain lakes (2802 m elevation)...
+> -- *[[PrimaryProductivityCAtTwinLake_12652]]*
+
 ## Mentioned In
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
 - [[ColoradoSquawfishInteragencyTr_1973]]
@@ -41,3 +47,5 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 - [[RecoveryPlanForTheHumpbackChub_11544]]
 - [[ColoradoRiverFishesMeetingFebr_15252]]
 - [[SavingColoradosBigRiverFish_20737]]
+- [[DraftColoradoSquawfishRecovery_11545]]
+- [[PrimaryProductivityCAtTwinLake_12652]]

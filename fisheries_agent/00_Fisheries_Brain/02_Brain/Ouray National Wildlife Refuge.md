@@ -44,6 +44,12 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This 1989 correspondence from Professor W.L. Minckley at [[Arizona State University]] to the [[Colorado Division of Wildlife]] outlines a proposed genetic study of [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The species persists in only three areas...
 > -- *[[RazorbackSuckerXyauchenTexanus_13769]]*
 
+> This memorandum documents a trip report from the Upper Colorado River endangered fishes researchers meeting held February 24-25, 1987 in Grand Junction, Colorado. The meeting covered standardized monitoring programs, habitat research, captive spawning efforts, and recovery planning for four...
+> -- *[[TripReportForUpperColoradoRive_12974]]*
+
+> This 1987 protocol document from the [[Colorado River Fishes Recovery Team]] establishes standardized procedures for field personnel to identify, capture, handle, and transport wild [[Bonytail]] (*Gila elegans*) to appropriate refugia facilities. The protocol addresses field identification...
+> -- *[[DraftprotocolForHandlingAndTra_13900]]*
+
 ## Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -58,3 +64,5 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[FiscalYearWorkPlan_11594]]
 - [[DraftRecoveryImplementationPro_11643]]
 - [[RazorbackSuckerXyauchenTexanus_13769]]
+- [[TripReportForUpperColoradoRive_12974]]
+- [[DraftprotocolForHandlingAndTra_13900]]

@@ -50,6 +50,9 @@ Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the
 > This article from Montana Fish & Game Department (August 1969) describes [[Gambusia affinis affinis]] (mosquitofish) and their use in biological mosquito control. The species is native to the Gulf Coast and Mississippi River system but has been widely introduced for pest control purposes. In 1969,...
 > -- *[[LittleFishDoesBigThings_16549]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnomalousThermalConditionsInAH_17103]]
@@ -84,3 +87,4 @@ Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the
 - [[GambusiaTheFishDestroyer_15551]]
 - [[ExperimentalBreedingOfTheAmazo_14310]]
 - [[LittleFishDoesBigThings_16549]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

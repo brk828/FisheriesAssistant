@@ -32,6 +32,9 @@ The Rio Yaqui Basin is a desert aquatic system in the southwestern United States
 > This recovery plan addresses four federally listed fish species from the [[Rio Yaqui Basin]]: two endangered species—[[Yaqui Chub]] (*Gila purpurea*) and [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*)—and two threatened species—[[Yaqui Catfish]] (*Ictalurus pricei*) and [[Beautiful...
 > -- *[[DraftRecoveryPlanForTheEndange_11645]]*
 
+> This Environmental Assessment evaluates three management alternatives for the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in southeastern Arizona for the period 1995-2015. The refuges were established to conserve threatened and endangered fish and...
+> -- *[[SanBernardinoAndLeslieCanyonNa_11694]]*
+
 ## Mentioned In
 - [[AttachedDraftListOfSpeciesAssi_14772]]
 - [[ConfirmationOfReceipt_1986_07_25]]
@@ -50,3 +53,4 @@ The Rio Yaqui Basin is a desert aquatic system in the southwestern United States
 - [[DraftRecoveryPlanForTheEndange_15977]]
 - [[PlansToObtainLiveRioYaquiFishe_14087]]
 - [[DraftRecoveryPlanForTheEndange_11645]]
+- [[SanBernardinoAndLeslieCanyonNa_11694]]

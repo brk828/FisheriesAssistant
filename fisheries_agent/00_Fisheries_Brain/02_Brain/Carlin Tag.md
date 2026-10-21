@@ -14,8 +14,16 @@ A Carlin tag is a type of external fish identification marker used in mark-recap
 > This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
 > -- *[[CharacterizationOfTheLifeHisto_13649]]*
 
+> This 1988 annual report documents the first year of a two-year radio telemetry study monitoring hatchery-reared [[Bonytail Chub]] (*Gila elegans*) released into the [[Green River]], Utah within [[Dinosaur National Monument]]. The project aimed to assess dispersal, behavior, habitat use, survival,...
+> -- *[[RadioTelemetryMonitoringOfStoc_11424]]*
+
+> This Bureau of Reclamation field report documents the 1991 annual razorback sucker ([[Xyrauchen texanus]]) capture and tagging effort at [[Lake Mohave]], focusing on Camp No. 3 operations in the [[Six-Mile Cove]] area on the Nevada side of [[Cottonwood Basin]]. The multi-agency effort (March 18-21,...
+> -- *[[ResultsOfRazorbackSuckerRazorb_15027]]*
+
 ## Mentioned In
 - [[GrowthRatesOfTheCharSalvelinus_15166]]
 - [[LetterToDrWLMinckleyRegardingR_1988_09_20]]
 - [[TripReportLakeMohave_1993_03_26]]
 - [[CharacterizationOfTheLifeHisto_13649]]
+- [[RadioTelemetryMonitoringOfStoc_11424]]
+- [[ResultsOfRazorbackSuckerRazorb_15027]]

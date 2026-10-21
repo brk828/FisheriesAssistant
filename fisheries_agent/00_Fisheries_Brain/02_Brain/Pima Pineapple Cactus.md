@@ -14,6 +14,10 @@ auto_enriched: true
 > The [[Pima Pineapple Cactus]] (*Coryphantha scheeri* var. *robustispina*) was listed as endangered by the [[US Fish and Wildlife Service]] in October 1993. This rare [[Sonoran Desert]] species occurs in a restricted range from south [[Tucson]] to south of [[Nogales]], [[Mexico]]. The [[National...
 > -- *[[EndangeredCactusOffersNbsOppor_13220]]*
 
+> This newsletter from the National Biological Survey Cooperative Park Studies Unit at The University of Arizona (CPSU/UA) documents field research activities, monitoring projects, and administrative developments during early 1994. Staff conducted diverse ecological studies across Arizona and...
+> -- *[[ProjectsTakeStaffToTheField_13221]]*
+
 ## Mentioned In
 - [[EndangeredSpeciesActSectionCon_1994_12_06]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
+- [[ProjectsTakeStaffToTheField_13221]]

@@ -23,9 +23,17 @@ The Sierra Madre Occidental is a major physiographic and tectonic province in no
 > This document is a legal petition filed July 2, 1995, under Article 14 of the [[North American Agreement on Environmental Cooperation]] (NAAEC) by five conservation organizations: [[Biodiversity Legal Foundation]], [[Consejo Asesor Sierra Madre]], [[Forest Guardians]], [[Greater Gila Biodiversity...
 > -- *[[APetitionPursuantToArticleOfTh_17637]]*
 
+> This management plan proposes the establishment of the [[Sierra San Luis]] Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]] (Chihuahua), Mexico, along the U.S. border. The area forms part of the extreme...
+> -- *[[ManagementPlanSierraSanLuisWil_11399]]*
+
+> This management plan proposes the establishment of the "Sierra San Luis" Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in northwestern Mexico along the border with the United States. The area spans the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]]...
+> -- *[[ManagementPlanSierraSanLuisWil_18303]]*
+
 ## Mentioned In
 - [[MiseEnÉvidenceDUnGraniteSubvol_1981_12_14]]
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
 - [[TheNextParagraphIsMissingButTh_11894]]
 - [[ZoogeographicalAnalysisAndRevi_15920]]
 - [[APetitionPursuantToArticleOfTh_17637]]
+- [[ManagementPlanSierraSanLuisWil_11399]]
+- [[ManagementPlanSierraSanLuisWil_18303]]

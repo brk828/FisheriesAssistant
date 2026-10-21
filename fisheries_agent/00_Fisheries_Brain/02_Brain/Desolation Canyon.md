@@ -41,6 +41,9 @@ Desolation Canyon is a significant reach of the Green River in the upper Colorad
 > This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DraftFiveyearRoadMap_11579]]*
 
+> This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
+> -- *[[PartManagementConcernsPriority_14724]]*
+
 ## Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[ChangesInNativeFishDistributio_1973]]
@@ -57,3 +60,4 @@ Desolation Canyon is a significant reach of the Green River in the upper Colorad
 - [[DraftRecoveryImplementationPro_11643]]
 - [[RecoveryPlanForTheHumpbackChub_11544]]
 - [[DraftFiveyearRoadMap_11579]]
+- [[PartManagementConcernsPriority_14724]]

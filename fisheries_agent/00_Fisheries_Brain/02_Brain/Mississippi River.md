@@ -53,6 +53,9 @@ The Mississippi River represents a major North American fluvial system of critic
 > This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
 > -- *[[AssessmentOfTheNeedForForageEn_17853]]*
 
+> The [[Missouri Department of Conservation]] acquired the 4,318-acre [[Columbia Bottom Conservation Area]] at the confluence of the [[Missouri River]] and [[Mississippi River]] from the City of Saint Louis in September 1997. This article from August 1998 describes the agency's public engagement...
+> -- *[[MissouriansToHelpShapeFutureOf_11242]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfSaugerInPoolOfTh_16034]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -81,3 +84,4 @@ The Mississippi River represents a major North American fluvial system of critic
 - [[LittleFishDoesBigThings_16549]]
 - [[RainbowSmeltProposalReview_17848]]
 - [[AssessmentOfTheNeedForForageEn_17853]]
+- [[MissouriansToHelpShapeFutureOf_11242]]

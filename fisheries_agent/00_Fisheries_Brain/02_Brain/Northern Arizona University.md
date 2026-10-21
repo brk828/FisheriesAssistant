@@ -29,6 +29,9 @@ Northern Arizona University appears in these historical documents as a research 
 > The [[Bureau of Land Management]] (BLM) released a Draft San Pedro River Management Plan and Environmental Impact Statement for public review in 1988. The plan addresses 47,668 acres along a 36-mile stretch of the upper [[San Pedro River]] near [[Sierra Vista]] in [[Cochise County]], [[Arizona]]....
 > -- *[[BlmReleasesDraftSanPedroRiverM_11464]]*
 
+> This 1987 memorandum from Professor W. L. Minckley to the Chair of Arizona State University's Department of Zoology proposes a Centennial Celebration commemorating [[C. Hart Merriam]]'s pioneering work on life zones. Merriam's 1890 publication "Results of a Biological Survey of the San Francisco...
+> -- *[[PotentialForACHartMerriamCente_13747]]*
+
 ## Mentioned In
 - [[LetterToWLMinckleyOnLittleColo_1987_01_26]]
 - [[MeetingNoticeOnLittleColoradoR_1994_01_21]]
@@ -38,3 +41,4 @@ Northern Arizona University appears in these historical documents as a research 
 - [[CooperationBetweenArizonaGameA_13469]]
 - [[TransitionMonitoringForRiparia_17903]]
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
+- [[PotentialForACHartMerriamCente_13747]]

@@ -44,6 +44,12 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 > This administrative notice, issued July 6, 1970, by the Bureau of Land Management announces a temporary closure of the [[Aravaipa Canyon]] Primitive Area to all motorized vehicles. The closure was implemented to prevent damage to primitive and environmental resource values caused by increasing...
 > -- *[[NoticeOfRestrictedVehicleUseTe_18773]]*
 
+> A fisheries survey conducted November 14-15, 1997 along [[Turkey Creek]] on the west side of the [[Chiricahua Mountains]], [[Cochise County]], Arizona documented four fish species. The survey was motivated by reports of [[Fathead Minnow]] (Pimephales promelas) in Lodge Pond. Sampling confirmed the...
+> -- *[[TurkeyCreekFisheriesSurveyCoch_17218]]*
+
+> This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
+> -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
+
 ## Mentioned In
 - [[AravaipaShinerSurveyJuly_1998_07_10]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -65,3 +71,5 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 - [[FieldNotesAtTheSanPedroGilaAnd_12645]]
 - [[PublicMeetingsAnnoucnementAndP_11475]]
 - [[NoticeOfRestrictedVehicleUseTe_18773]]
+- [[TurkeyCreekFisheriesSurveyCoch_17218]]
+- [[GilaTopminnowSitesInArizonaPro_19668]]

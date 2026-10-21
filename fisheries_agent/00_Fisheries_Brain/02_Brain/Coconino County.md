@@ -14,6 +14,10 @@ Coconino County is a county in northern Arizona that was the focus of fish colle
 > This document presents a comprehensive summary of collecting localities for the [[Humpback Chub]] (*Gila cypha*) from the [[Colorado River]] and selected tributaries in [[Coconino County]] and [[Mohave County]], Arizona, spanning from archaeological remains (4000 years B.P.) through 1979....
 > -- *[[SummaryOfCollectingLocalitiesF_18502]]*
 
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
 ## Mentioned In
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[SummaryOfCollectingLocalitiesF_18502]]
+- [[EarlyFieldNotes_15954]]

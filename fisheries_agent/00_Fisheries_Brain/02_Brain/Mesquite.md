@@ -23,9 +23,13 @@ auto_enriched: true
 > This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
 > -- *[[GilasanFranciscoRiversResource_18256]]*
 
+> This U.S. Geological Survey report, prepared in cooperation with the U.S. Bureau of Indian Affairs, documents predevelopment hydrologic conditions in the [[Salt River Indian Reservation]] area prior to non-Indian settlement (pre-1870s). The study was conducted to support water rights adjudication...
+> -- *[[PredevelopmentHydrologyOfTheSa_13330]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[SanPedroRiverWildlifeUpdateveg_21107]]
 - [[GilasanFranciscoRiversResource_18256]]
+- [[PredevelopmentHydrologyOfTheSa_13330]]

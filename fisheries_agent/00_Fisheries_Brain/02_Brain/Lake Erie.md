@@ -35,6 +35,9 @@ Lake Erie is one of the five Great Lakes and serves as a critical freshwater eco
 > This final report (Contract 14-06-300-2210, 1971) presents an integrated study of chemistry, hydrobiology, and hydrodynamics in [[Lake Mead]], conducted by the University of Arizona for the U.S. Bureau of Reclamation. The investigation examined eight sampling stations across the reservoir's four...
 > -- *[[MicronutrientsAndBiologicalPat_11436]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
 ## Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[ASystematicStudyOfTheGreenside_1964]]
@@ -58,3 +61,4 @@ Lake Erie is one of the five Great Lakes and serves as a critical freshwater eco
 - [[Whitefish_19228]]
 - [[ALiteratureReviewOfTheEffectsO_20478]]
 - [[MicronutrientsAndBiologicalPat_11436]]
+- [[FishAndFishEggDistributionRepo_13434]]

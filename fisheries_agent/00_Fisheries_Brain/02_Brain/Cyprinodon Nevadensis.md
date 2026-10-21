@@ -20,6 +20,9 @@ Cyprinodon nevadensis, commonly known as the Nevada pupfish, is a small, endemic
 > This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
 > -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
 
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[DesertPupfishCyprinodonMacular_1977]]
@@ -29,3 +32,4 @@ Cyprinodon nevadensis, commonly known as the Nevada pupfish, is a small, endemic
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[ConservationGeneticsInTheManag_20087]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

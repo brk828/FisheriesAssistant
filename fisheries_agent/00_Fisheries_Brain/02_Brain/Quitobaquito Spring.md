@@ -23,6 +23,9 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 > This study examines allozymic variation in wild and captive populations of endangered [[Desert Pupfish]] (*Cyprinodon macularius macularius*) from the [[Lower Colorado River]] basin and [[Salton Sink]]. Four polymorphic loci were surveyed across 13 populations (9 captive, 4 wild). Few consistent...
 > -- *[[AllozymicVariationInDesertPupf_19162]]*
 
+> This document describes the distinctive population of [[Desert Pupfish]] (*Cyprinodon macularius*) inhabiting [[Quitobaquito Spring]] in [[Organ Pipe National Monument]], Arizona, and the adjacent [[Rio Sonoyta]] drainage in Sonora, México. The Sonoyta population exhibits morphological differences...
+> -- *[[TheDesertPupfishOfOrganPipeNat_18555]]*
+
 ## Mentioned In
 - [[HabitatsOfNorthAmericanDesertF_1981]]
 - [[LetterRegardingQuitobaquitoDes_1987_01_15]]
@@ -31,3 +34,4 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 - [[EndangeredAndThreatenedWildlif_11555]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
 - [[AllozymicVariationInDesertPupf_19162]]
+- [[TheDesertPupfishOfOrganPipeNat_18555]]

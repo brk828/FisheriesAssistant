@@ -41,6 +41,9 @@ auto_enriched: true
 > This article describes conservation efforts in Colorado to save four unique big-river fish species found nowhere else on Earth: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Humpback Sucker]] (*Xyrauchen texanus*)....
 > -- *[[SavingColoradosBigRiverFish_20737]]*
 
+> This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
+> -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[CooperativeEcosystemStudiesUni_1999]]
@@ -55,3 +58,4 @@ auto_enriched: true
 - [[MultivariateDiscriminationOfCo_19077]]
 - [[OxygenDepletedWatersOriginAndD_19797]]
 - [[SavingColoradosBigRiverFish_20737]]
+- [[GeneticDiversityOfRazorbackSuc_19126]]

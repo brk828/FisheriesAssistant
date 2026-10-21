@@ -20,9 +20,17 @@ Lake Huron, one of the North American Great Lakes, is a critical freshwater ecos
 > This letter from Dr. Stephen P. Vives, ichthyologist at Arizona State University, formally opposes a 1989 proposal by the Utah Department of Natural Resources to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]], Utah-Arizona. The letter argues that smelt introduction would...
 > -- *[[ConcernsAboutIntroductionOfRai_13174]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
+> Between 1963 and 1964, California and Nevada fisheries agencies introduced approximately 182,300 live [[Mysis relicta]] (opossum shrimp) into four western lakes: [[Lake Tahoe]], [[Lower Echo Lake]], [[Huntington Lake]], and [[Blue Lake]]. The primary objective was to establish a forage base for...
+> -- *[[IntroductionOfTheOpossumShrimp_20345]]*
+
 ## Mentioned In
 - [[SlicksOnLakeHuron_1962_12_29]]
 - [[StatusOfSeaLampreyProblem_15264]]
 - [[TheAmericanSmeltOsmerusMordaxM_1950]]
 - [[TheDistributionOfAquaticOligoc_12945]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
+- [[FishAndFishEggDistributionRepo_13434]]
+- [[IntroductionOfTheOpossumShrimp_20345]]

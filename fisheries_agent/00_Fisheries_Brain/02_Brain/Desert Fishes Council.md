@@ -77,6 +77,15 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 > Two administrative memoranda from the [[Desert Fishes Council]] dated May 31, 1990, announcing organizational changes and soliciting financial support for a major conservation biology publication. The correspondence documents the retirement of Executive Secretary E.P. Pister from the [[California...
 > -- *[[UpdatesFromEpPister_12831]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -190,3 +199,6 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 - [[CaseStudyColoradoRiverSqauwfis_16101]]
 - [[CvForNewProposal_17525]]
 - [[UpdatesFromEpPister_12831]]
+- [[DesertFishesCouncilThirteenthA_12827]]
+- [[DesertFishesCouncilEighteenthA_12829]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

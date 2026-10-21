@@ -17,6 +17,9 @@ I appreciate your request, but I must be honest that I cannot provide an accurat
 > The U.S. Fish and Wildlife Service published a final rule on July 1, 1986, listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the Endangered Species Act of 1973, as amended. This small cyprinid fish, endemic to the [[Gila River]] system upstream from Phoenix, Arizona, has...
 > -- *[[EndangeredAndThreatenedWildlif_11556]]*
 
+> This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
+> -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11563]]
 - [[FederalEndangeredFishSpeciesCo_1993_11_19]]
@@ -26,3 +29,4 @@ I appreciate your request, but I must be honest that I cannot provide an accurat
 - [[VerdeRiverTemperatureRecorderD_1992_04_02]]
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[EndangeredAndThreatenedWildlif_11556]]
+- [[GilaTopminnowSitesInArizonaPro_19668]]

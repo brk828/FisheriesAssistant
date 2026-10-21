@@ -20,9 +20,13 @@ Gammaridae is a family of small freshwater and marine amphipods that includes im
 > - The source text does not provide detailed morphological/anatomical descriptions of individual species (this is a summarized abstract rather than a full taxonomic treatment). - Taxonomic placement: **[[Stygonectes]]** is one of seven genera in the **Crangonyx section** of family [[Gammaridae]] (...
 > -- *[[Some Aspects of Evolution and Speciation in the Subterranean Amphipod Genus Stygonectes (Gammaridae)]]*
 
+> This 1968 technical report by Brehmer, Ball, and Kevern examines the biological and chemical characteristics of the [[Red Cedar River]] near [[Williamston, Michigan]], focusing on the impacts of domestic sewage pollution on water quality and benthic invertebrate communities. The study employed six...
+> -- *[[TheBiologyAndChemistryOfAWarmw_12927]]*
+
 ## Mentioned In
 - [[BiogeographyOfTroglobites_15604]]
 - [[HabitatDiversityInNo_19881]]
 - [[Some Aspects of Evolution and Speciation in the Subterranean Amphipod Genus Stygonectes (Gammaridae)]]
 - [[SomeAustralianPlecopteranNymph_1964]]
 - [[TheOccurrenceAndDist_19880]]
+- [[TheBiologyAndChemistryOfAWarmw_12927]]

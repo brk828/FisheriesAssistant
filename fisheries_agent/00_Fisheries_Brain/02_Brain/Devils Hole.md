@@ -32,6 +32,12 @@ Devils Hole is a spring-fed aquifer in southern Nevada that serves as a critical
 > This comprehensive bibliography compiled by Robert Rush Miller, Peter G. Sanchez, and David L. Soltz documents scientific and popular literature on the aquatic resources of the [[Death Valley System]] from 1878 through 1984. The work encompasses the Pleistocene drainage system extending from [[Mono...
 > -- *[[FishesAndAquaticResourcesDeath_15415]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
+> This document is a July 1990 letter from a Department of Zoology faculty member to Stewart L. Udall, former Secretary of the Interior, requesting a forward for an edited volume on endangered western fishes. The letter includes a draft forward outlining key conservation controversies involving...
+> -- *[[DraftOfForwardForBookBattleAga_13788]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[DesertPupfishesReflectionsOnRe_11118]]
@@ -50,3 +56,5 @@ Devils Hole is a spring-fed aquifer in southern Nevada that serves as a critical
 - [[FishesAndAquaticResourcesOfThe_15407]]
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[FishesAndAquaticResourcesDeath_15415]]
+- [[DesertFishesCouncilThirteenthA_12827]]
+- [[DraftOfForwardForBookBattleAga_13788]]

@@ -23,6 +23,9 @@ Sea lamprey are parasitic jawless fish that became a major invasive threat to Gr
 > - **Habitat**: Reared in sixteen concrete raceways at the hatchery facility before release into natural systems. - **Release environment**: Stocked directly into **[[Lake Superior]]** via shore planting by truck — no barge or aerial stocking methods used at this station. - **Geographic distributi...
 > -- *[[StationProfileOfTheHiawathaFor_1993]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
 ## Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
 - [[ControlOfCarpCyprinusCarpioLin_14811]]
@@ -36,3 +39,4 @@ Sea lamprey are parasitic jawless fish that became a major invasive threat to Gr
 - [[StationProfileOfThePittsfordNa_1993]]
 - [[StatusOfSeaLampreyProblem_15264]]
 - [[TheInvasionPresentStatusAndLif_1949_12_01]]
+- [[FishAndFishEggDistributionRepo_13434]]

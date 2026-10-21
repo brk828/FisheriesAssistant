@@ -14,8 +14,16 @@ auto_enriched: true
 > This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The refuge comprises headwaters of the north-flowing [[Altar Valley]], part of the [[Santa Cruz River]]...
 > -- *[[RePreliminaryFisheriesSurveyOf_13711]]*
 
+> This newsletter from the National Biological Survey Cooperative Park Studies Unit at The University of Arizona (CPSU/UA) documents field research activities, monitoring projects, and administrative developments during early 1994. Staff conducted diverse ecological studies across Arizona and...
+> -- *[[ProjectsTakeStaffToTheField_13221]]*
+
+> This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The survey assessed 45 tanks to evaluate their potential as supplemental growout habitats for endangered fish...
+> -- *[[PreliminaryFisheriesSurveyOfAq_16481]]*
+
 ## Mentioned In
 - [[AttachedDraftListOfSpeciesAssi_14772]]
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[RePreliminaryFisheriesSurveyOf_13711]]
+- [[ProjectsTakeStaffToTheField_13221]]
+- [[PreliminaryFisheriesSurveyOfAq_16481]]

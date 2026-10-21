@@ -71,6 +71,9 @@ The California Department of Fish and Game (now the California Department of Fis
 > This 1989 action plan proposes an accelerated reintroduction strategy for the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River Basin]]. The species is disappearing throughout its native range despite cooperative efforts begun in 1973-75. The plan addresses recruitment...
 > -- *[[ProposedActionPlanForReintrodu_19433]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
 ## Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -104,3 +107,4 @@ The California Department of Fish and Game (now the California Department of Fis
 - [[UpdatesFromEpPister_12831]]
 - [[DraftLowerColoradoRiverOperati_13907]]
 - [[ProposedActionPlanForReintrodu_19433]]
+- [[DesertFishesCouncilThirteenthA_12827]]

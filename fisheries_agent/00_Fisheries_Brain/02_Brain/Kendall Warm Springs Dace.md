@@ -20,9 +20,13 @@ The Kendall Warm Springs Dace is an endangered fish species endemic to the Virgi
 > - **[[Conservation Genetics]] of threatened fishes** (Talk 1, 14–19): genic diversity, mitochondrial DNA analysis of [[Cutthroat Trout]] subspecies, genetic status of the [[Pecos Pupfish]] and [[Pecos Gambusia]], heterozygosity/fitness in [[Sonora Topminnow]] (*Poeciliopsis occidentalis*), and sa...
 > -- *[[TwentiethAnnualSymposiumOfTheD_1988_11_16]]*
 
+> This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
+> -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
+
 ## Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[PharyngealTeethInTheEndangered_1988]]
 - [[SubpermitAuthorizationForWound_1989_06_06]]
 - [[SubpermitAuthorizationLetterTo_1993_06_17]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
+- [[UsFishAndWildlifeServiceBiolog_11560]]

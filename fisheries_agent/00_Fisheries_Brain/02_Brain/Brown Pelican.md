@@ -20,6 +20,9 @@ auto_enriched: true
 > This biological opinion, issued February 18, 1993, by the U.S. Fish and Wildlife Service Arizona Ecological Services Field Office, addresses formal Section 7 consultation for the [[Lake Havasu]] Fisheries Improvement Partnership Program. The Bureau of Land Management proposed installing artificial...
 > -- *[[BiologicalOpinionForLakeHavasu_11881]]*
 
+> On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
+> -- *[[WorkshopProceedings_18372]]*
+
 ## Mentioned In
 - [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[DraftEnvironmentalAssessmentLo_11489]]
 - [[BiologicalOpinionForLakeHavasu_11704]]
 - [[BiologicalOpinionForLakeHavasu_11881]]
+- [[WorkshopProceedings_18372]]

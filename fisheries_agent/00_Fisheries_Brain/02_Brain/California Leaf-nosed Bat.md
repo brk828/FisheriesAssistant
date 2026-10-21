@@ -14,6 +14,10 @@ The California Leaf-nosed Bat (Macrotus californicus) is a C2 candidate species 
 > SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
 > -- *[[BiologicalEvaluationOfTheAppro_15074]]*
 
+> This newsletter from the National Biological Survey Cooperative Park Studies Unit at The University of Arizona (CPSU/UA) documents field research activities, monitoring projects, and administrative developments during early 1994. Staff conducted diverse ecological studies across Arizona and...
+> -- *[[ProjectsTakeStaffToTheField_13221]]*
+
 ## Mentioned In
 - [[PapagoParkMilitaryReservationB_13351]]
 - [[BiologicalEvaluationOfTheAppro_15074]]
+- [[ProjectsTakeStaffToTheField_13221]]

@@ -92,6 +92,12 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 > This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
 > -- *[[GlenCanyonEnvironmentalStudies_19734]]*
 
+> This document presents the Fiscal Year 1998 Annual Monitoring and Research Plan for the [[Grand Canyon Monitoring and Research Center]] (GCMRC), representing the first year of implementation of the Long-Term Monitoring and Research Strategic Plan (1998-2002). The plan addresses monitoring and...
+> -- *[[FiscalYearAnnualMonitoringAndR_17765]]*
+
+> On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
+> -- *[[WorkshopProceedings_18372]]*
+
 ## Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -143,3 +149,5 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 - [[WrittenCommentsOnSupplementToD_20523]]
 - [[BiologicalEvaluationOfTheAppro_15074]]
 - [[GlenCanyonEnvironmentalStudies_19734]]
+- [[FiscalYearAnnualMonitoringAndR_17765]]
+- [[WorkshopProceedings_18372]]

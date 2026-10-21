@@ -71,6 +71,15 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 > This correspondence from Arizona State University researchers Michael E. Douglas and Paul C. Marsh reports data collected on [[Gila cypha]] (humpback chub) populations in the [[Little Colorado River]] during July-August 1991. The study was conducted as part of the [[Glen Canyon Environmental...
 > -- *[[DataCompilationGilaCyphaAsunnh_19090]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
+> This memorandum from the [[Glen Canyon Environmental Studies]] (GCES) program, dated November 24, 1992, outlines coordination plans for a December 1, 1992 meeting of principle investigators conducting native fish research in [[Grand Canyon]]. The document focuses on integrating research efforts...
+> -- *[[GlenCanyonEnvironmentalStudies_19708]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdditionalStudiesOnTheLittleCo_18500]]
@@ -110,3 +119,6 @@ Gila cypha, commonly known as the humpback chub, is an endemic cyprinid fish of 
 - [[DetailsForStudiesOfTheGenusGil_13739]]
 - [[GilaMorphometry_19079]]
 - [[DataCompilationGilaCyphaAsunnh_19090]]
+- [[DesertFishesCouncilThirteenthA_12827]]
+- [[EarlyFieldNotes_15954]]
+- [[GlenCanyonEnvironmentalStudies_19708]]

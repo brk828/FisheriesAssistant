@@ -8,6 +8,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:25:51+00:00"
  },
+ "00fccd9a4b9d32c452a4ebe1a486a351374837d0b2e96f573de0011b10800c4e": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "17373.pdf",
+  "method": "ocr",
+  "note": "CareAndFeedingOfBuffaloFishInP_17373.md",
+  "source_id": "X-00fccd9a",
+  "status": "done",
+  "timestamp": "2026-10-21T00:13:00+00:00"
+ },
  "013f4e27d3b903c27da4aece9bfef208129cf820335e6f85a8d4c72dcab022f3": {
   "citation_source": "llm",
   "doc_type": "ecological_and_biological",
@@ -133,6 +143,16 @@
   "status": "done",
   "timestamp": "2026-10-20T00:11:41+00:00"
  },
+ "04e65db30f68a0df82b13b754878ea5bf564cf2ca17be34241f1c0738e897c54": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "17218.pdf",
+  "method": "ocr",
+  "note": "TurkeyCreekFisheriesSurveyCoch_17218.md",
+  "source_id": "X-04e65db3",
+  "status": "done",
+  "timestamp": "2026-10-21T00:12:23+00:00"
+ },
  "050a0a65e827da118502487ec13247932e86af4f6e9dbdc1a49ad6fded167e4f": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -211,6 +231,16 @@
   "source_id": "X-0626cf64",
   "status": "done",
   "timestamp": "2026-10-17T05:19:54+00:00"
+ },
+ "063f4ddd16c31e7dd2d73d7e01438054dad7a061b90b1554d83fab68756e8c39": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "20385.pdf",
+  "method": "ocr",
+  "note": "AnnotatedBibliographyForTheWou_20385.md",
+  "source_id": "X-063f4ddd",
+  "status": "done",
+  "timestamp": "2026-10-21T00:37:12+00:00"
  },
  "06a3342270a6ba7a9229c269f58dfb3807d38fb9525b6f481bef434e5d71c191": {
   "citation_source": "minckley-sheet",
@@ -400,6 +430,16 @@
   "status": "done",
   "timestamp": "2026-10-17T09:09:39+00:00"
  },
+ "0a99de15f9388e8c577e50221f5ef30c6a2da62cef3e35913af130fe5505674b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12927.pdf",
+  "method": "ocr",
+  "note": "TheBiologyAndChemistryOfAWarmw_12927.md",
+  "source_id": "X-0a99de15",
+  "status": "done",
+  "timestamp": "2026-10-20T23:26:06+00:00"
+ },
  "0aadc1a416f9d462582d4ba3f9219c3b29942f71df3c5eed94086aaba3253400": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -428,6 +468,16 @@
   "source_id": "X-0b26734e",
   "status": "done",
   "timestamp": "2026-10-18T04:47:12+00:00"
+ },
+ "0c9fd57c2e780cf82ca47508173a10f13041469ea80a526f97ddbbfbad60396d": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12829.pdf",
+  "method": "ocr",
+  "note": "DesertFishesCouncilEighteenthA_12829.md",
+  "source_id": "X-0c9fd57c",
+  "status": "done",
+  "timestamp": "2026-10-20T23:24:32+00:00"
  },
  "0cae8c4cb4b01c6f8e69e646db47c94a5d63ba18fd49bb7e6f7c96de5487efee": {
   "citation_source": "minckley-sheet",
@@ -468,6 +518,16 @@
   "status": "done",
   "timestamp": "2026-10-20T04:58:15+00:00"
  },
+ "0d7afd1225bfeb97fab650ecc868dc2e1495be7fabb8f21320a845e5084bb267": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12534.pdf",
+  "method": "ocr",
+  "note": "ObservationsOnTheSpawningOfSac_12534.md",
+  "source_id": "X-0d7afd12",
+  "status": "done",
+  "timestamp": "2026-10-20T23:21:46+00:00"
+ },
  "0e6a5741e0bb4b3bed638cc53af576ba4eeadded40305e11a15804e4702f26c8": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -486,6 +546,16 @@
   "source_id": "X-0ecac772",
   "status": "done",
   "timestamp": "2026-10-14T20:06:23+00:00"
+ },
+ "0f528006c2d11bef3d4e777e04165dae97ae84f85c1e011025d809b492502b50": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13330.pdf",
+  "method": "ocr",
+  "note": "PredevelopmentHydrologyOfTheSa_13330.md",
+  "source_id": "X-0f528006",
+  "status": "done",
+  "timestamp": "2026-10-20T23:33:53+00:00"
  },
  "0f898dc49500143e5a2876255a2cc4008a5b2cda1e16c023148107e72db336d9": {
   "citation_source": "minckley-sheet",
@@ -535,6 +605,26 @@
   "source_id": "X-10b3b869",
   "status": "done",
   "timestamp": "2026-10-20T00:08:23+00:00"
+ },
+ "10c1d6c2e10af77cccb6c0aec162a839e13b4745ace0388f10d82cd4a1ffc0a4": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "20687.pdf",
+  "method": "ocr",
+  "note": "EstimationOfCatchAndRelatedSta_20687.md",
+  "source_id": "X-10c1d6c2",
+  "status": "done",
+  "timestamp": "2026-10-21T00:40:05+00:00"
+ },
+ "10c9cab3b5d98c16eab9f434713158ca4c72177384e94dbf63d368335ba574ca": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15524.pdf",
+  "method": "ocr",
+  "note": "TheFoodOfYoungLargemouthBlackB_15524.md",
+  "source_id": "X-10c9cab3",
+  "status": "done",
+  "timestamp": "2026-10-20T23:53:42+00:00"
  },
  "11bfa2a42d76be04b6042d7107d8e377c0a87d24b2ff59273f3104afe4db3917": {
   "citation_source": "minckley-sheet",
@@ -614,6 +704,13 @@
   "status": "done",
   "timestamp": "2026-10-18T04:45:54+00:00"
  },
+ "15a8066bf0ed1f63ea6c0c8958e123338f8ac27693b9a0b7189609059e336086": {
+  "file": "14934.pdf",
+  "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: ''",
+  "source_id": "X-15a8066b",
+  "status": "failed",
+  "timestamp": "2026-10-20T23:50:08+00:00"
+ },
  "15b9796f5195407c66f6742c6af313793126842aef7a3b3c1b98a8647f3d4a0a": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -663,6 +760,16 @@
   "source_id": "X-1690bc92",
   "status": "done",
   "timestamp": "2026-10-20T05:11:02+00:00"
+ },
+ "16f145e3b8de6c3e185549a1a8d4b1afecb4c93fe2ad9a0fcbb2468d028d0657": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15635.pdf",
+  "method": "ocr",
+  "note": "ForConservingListedSpeciesTalk_15635.md",
+  "source_id": "X-16f145e3",
+  "status": "done",
+  "timestamp": "2026-10-20T23:54:28+00:00"
  },
  "170cf842e855c9b77000fa8e5dd8698fb58f6cd1487c98f0d189533f6204922d": {
   "citation_source": "minckley-sheet",
@@ -781,6 +888,16 @@
   "status": "done",
   "timestamp": "2026-10-14T17:30:29+00:00"
  },
+ "1a769fec98ea0a255cefd6d8ece1d3b1e055e923aa5d457e4b7c58ae1d5ed280": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18098.pdf",
+  "method": "ocr",
+  "note": "CalorificEquivalentsForStudies_18098.md",
+  "source_id": "X-1a769fec",
+  "status": "done",
+  "timestamp": "2026-10-21T00:17:07+00:00"
+ },
  "1a9ab8905cdde3a64fb32fbbdb56928e8b50ad394c88ebb685d3c64283a41ddc": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -886,6 +1003,16 @@
   "source_id": "X-1cbfbfcc",
   "status": "done",
   "timestamp": "2026-10-20T04:40:27+00:00"
+ },
+ "1d0c803e096c2b66243b6a8b7fb37cf8fbc8b9dae2d657b20bc828dc6ddc51d0": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14931.pdf",
+  "method": "ocr",
+  "note": "FisheriesInvestigationsAndSurv_14931.md",
+  "source_id": "X-1d0c803e",
+  "status": "done",
+  "timestamp": "2026-10-20T23:50:02+00:00"
  },
  "1d41a8562249a5c9a3434d766067e777e1a59ef60d39cd034dc1a6fe294236ac": {
   "citation_source": "minckley-sheet",
@@ -1061,6 +1188,16 @@
   "status": "done",
   "timestamp": "2026-10-15T23:51:23+00:00"
  },
+ "233b94179a8ca8ef468f963110e3b2ce785f744166285eb90199d20816e4b75a": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "20345.pdf",
+  "method": "ocr",
+  "note": "IntroductionOfTheOpossumShrimp_20345.md",
+  "source_id": "X-233b9417",
+  "status": "done",
+  "timestamp": "2026-10-21T00:36:09+00:00"
+ },
  "239cb09f096f39bcb8c0b5932a1e8803c4bb6903da6dd1eb592f065bcfeb10ae": {
   "citation_source": "minckley-sheet",
   "file": "14674.pdf",
@@ -1079,6 +1216,16 @@
   "source_id": "X-23d425da",
   "status": "done",
   "timestamp": "2026-10-17T08:35:34+00:00"
+ },
+ "23f722c43ef6f51c646f6592279f35cf82c6fbb9a15d0dfd96382cc0178f4dd0": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16973.pdf",
+  "method": "ocr",
+  "note": "InQuestOfTheMayansSequelIiOnCe_16973.md",
+  "source_id": "X-23f722c4",
+  "status": "done",
+  "timestamp": "2026-10-21T00:12:01+00:00"
  },
  "24711a7bb7bcddce7fcf5e3c3bdecf4c1d7b04c98ea3fe1556a8a33af5487574": {
   "citation_source": "minckley-sheet",
@@ -1197,6 +1344,16 @@
   "status": "done",
   "timestamp": "2026-10-15T23:23:58+00:00"
  },
+ "28c48c8f6ef0beac9fc6de86ff4788477cc4d724c68c44aa1614ea1ea9271c0c": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11756.pdf",
+  "method": "ocr",
+  "note": "FiscalYearWorkPlan_11756.md",
+  "source_id": "X-28c48c8f",
+  "status": "done",
+  "timestamp": "2026-10-20T23:19:29+00:00"
+ },
  "28fbd61f1b95a6b0415a78a3a1282f8c8dc8f1df69496939136b286f9d793895": {
   "citation_source": "minckley-sheet",
   "file": "11580.pdf",
@@ -1205,6 +1362,16 @@
   "source_id": "X-28fbd61f",
   "status": "done",
   "timestamp": "2026-10-14T23:23:20+00:00"
+ },
+ "28fd1f32a5b9f31810739e9ad6bf8507e141f49d4f592499f7529857027ced12": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15027.pdf",
+  "method": "ocr",
+  "note": "ResultsOfRazorbackSuckerRazorb_15027.md",
+  "source_id": "X-28fd1f32",
+  "status": "done",
+  "timestamp": "2026-10-20T23:52:45+00:00"
  },
  "2948ce316f7a2475d5612d0485eaa19cbf224a638155b64f94e354982c175f6b": {
   "citation_source": "minckley-sheet",
@@ -1324,6 +1491,16 @@
   "status": "done",
   "timestamp": "2026-10-18T04:58:46+00:00"
  },
+ "2bb869215df4cf83fc062de52da1a7fc3b5e5636b6f7610e7980e0468b1dd623": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "19708.pdf",
+  "method": "ocr",
+  "note": "GlenCanyonEnvironmentalStudies_19708.md",
+  "source_id": "X-2bb86921",
+  "status": "done",
+  "timestamp": "2026-10-21T00:29:19+00:00"
+ },
  "2ce527844cc97e451f5fce1377a4cf33bbafc7f51a76b94903a89fe071737f8f": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -1384,6 +1561,16 @@
   "status": "done",
   "timestamp": "2026-10-20T00:31:49+00:00"
  },
+ "2dd61ed3d25d2865b8088263ebbe8d46eabbf5ff620105b380d5707d669b9a0f": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11457.pdf",
+  "method": "ocr",
+  "note": "CaliforniaDesertConservationAr_11457.md",
+  "source_id": "X-2dd61ed3",
+  "status": "done",
+  "timestamp": "2026-10-20T23:09:00+00:00"
+ },
  "2df6398fdd6aaf9471d66254ae7ab1d55df4abf716dfc851501b1859e1f65bb3": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -1402,6 +1589,16 @@
   "source_id": "X-2e11e933",
   "status": "done",
   "timestamp": "2026-10-15T22:50:15+00:00"
+ },
+ "2ed956c631835f8f99aa99942c7bcfca2524f9e7bd73b8a279a26d51623545a3": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13745.pdf",
+  "method": "ocr",
+  "note": "NotesFromLakeMohaveFishEffortF_13745.md",
+  "source_id": "X-2ed956c6",
+  "status": "done",
+  "timestamp": "2026-10-20T23:37:14+00:00"
  },
  "2f5531f44afe047e44d4f3524b4fd8a71972b75e3f4230d6e9e38346a6dc2817": {
   "citation_source": "minckley-sheet",
@@ -1422,6 +1619,16 @@
   "source_id": "X-300542eb",
   "status": "done",
   "timestamp": "2026-10-18T04:40:36+00:00"
+ },
+ "306cceb8ea22ec1adcf08e39956083d115cbadc0c9913100f8b51c611e7d3fe7": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18467.pdf",
+  "method": "ocr",
+  "note": "DramaticBattleForWaterBehindTh_18467.md",
+  "source_id": "X-306cceb8",
+  "status": "done",
+  "timestamp": "2026-10-21T00:21:07+00:00"
  },
  "30778970467e693870c6c589fd61fa55c0a227d82043db64a09474c171f5fe6c": {
   "citation_source": "crossref",
@@ -1696,6 +1903,16 @@
   "status": "done",
   "timestamp": "2026-10-20T00:51:53+00:00"
  },
+ "37429e7b09dd3d25d53cd6e41358252fca6986844dc65f4917b6f28140103d92": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "19927.pdf",
+  "method": "ocr",
+  "note": "ACytotaxonomicStudyOfTheCharac_19927.md",
+  "source_id": "X-37429e7b",
+  "status": "done",
+  "timestamp": "2026-10-21T00:32:43+00:00"
+ },
  "3762e73a33929934604a7632870403b9e48e4d05b90e7dfeef83034cd0b1a67b": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -1835,6 +2052,16 @@
   "status": "done",
   "timestamp": "2026-10-18T05:19:33+00:00"
  },
+ "3d101f1b99509f8ea1488b406a29b452e0bc98409d2836afd9e7bcb93ba1b632": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18563.pdf",
+  "method": "ocr",
+  "note": "FinalProgressReport_18563.md",
+  "source_id": "X-3d101f1b",
+  "status": "done",
+  "timestamp": "2026-10-21T00:23:26+00:00"
+ },
  "3d4224c13b9d29f767e5e917a480339799e0a696529f32722d1bff8c599a3507": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -1910,6 +2137,26 @@
   "source_id": "X-3ee5fee9",
   "status": "done",
   "timestamp": "2026-10-19T04:18:03+00:00"
+ },
+ "3f36e4e47c68bf9cfdf32e0a456fece2d0e7c34aa7e4f3c7725a9654a51c51bf": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13747.pdf",
+  "method": "ocr",
+  "note": "PotentialForACHartMerriamCente_13747.md",
+  "source_id": "X-3f36e4e4",
+  "status": "done",
+  "timestamp": "2026-10-20T23:37:48+00:00"
+ },
+ "3f43da04a1eeeb247936ec9bdf6efab05272b98409f5473ed66912f52f830c0e": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15723.pdf",
+  "method": "ocr",
+  "note": "FurtherStudiesOnTheMetalimneti_15723.md",
+  "source_id": "X-3f43da04",
+  "status": "done",
+  "timestamp": "2026-10-20T23:58:38+00:00"
  },
  "3f92014bada5d708445b2a91ecfd8d54f2b6caea3aebbdf010f99b1a15b9c396": {
   "citation_source": "minckley-sheet",
@@ -2076,6 +2323,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:43:19+00:00"
  },
+ "43a0e9a6e5177317b578648241ad9759f1e07f3919f501d262c5314043750b69": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11560.pdf",
+  "method": "ocr",
+  "note": "UsFishAndWildlifeServiceBiolog_11560.md",
+  "source_id": "X-43a0e9a6",
+  "status": "done",
+  "timestamp": "2026-10-20T23:11:47+00:00"
+ },
  "441c1e7fc441d61522565b7109934d0f5721f1f4761f693085a89413c504666e": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -2085,6 +2342,16 @@
   "source_id": "X-441c1e7f",
   "status": "done",
   "timestamp": "2026-10-20T04:58:44+00:00"
+ },
+ "4474db631bcf806b89ffb0e591a9af8555ade701e294421fc1c9c742e56c460b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14847.pdf",
+  "method": "ocr",
+  "note": "FishesOfTheVerdigrisRiverInOkl_14847.md",
+  "source_id": "X-4474db63",
+  "status": "done",
+  "timestamp": "2026-10-20T23:48:10+00:00"
  },
  "44abc92f4ec69453fd2a2c74a432f045626f84f80b75b0855e18a1f5cc2119dc": {
   "citation_source": "minckley-sheet",
@@ -2134,6 +2401,16 @@
   "source_id": "X-45d95ea2",
   "status": "done",
   "timestamp": "2026-10-17T06:16:00+00:00"
+ },
+ "45e5ad98d79a2c881bdeb36cea98012130cd60c098c918d1ecadf473e1de73ee": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13513.pdf",
+  "method": "ocr",
+  "note": "RediscoveryAndDescriptionOfThe_13513.md",
+  "source_id": "X-45e5ad98",
+  "status": "done",
+  "timestamp": "2026-10-20T23:35:40+00:00"
  },
  "462962e68c06dc4885be599426eb586382f5127bded3b35fbea92a64ccfc0ab5": {
   "citation_source": "minckley-sheet",
@@ -2213,6 +2490,26 @@
   "source_id": "X-4926e53c",
   "status": "done",
   "timestamp": "2026-10-17T09:06:09+00:00"
+ },
+ "493c9c5b6b44e573964ea07064d0787c51ebc723c09af7cedc6855762f91d056": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18629.pdf",
+  "method": "ocr",
+  "note": "TowardRangewideIntegrationOfRe_18629.md",
+  "source_id": "X-493c9c5b",
+  "status": "done",
+  "timestamp": "2026-10-21T00:24:18+00:00"
+ },
+ "496c78a8ef464ec0f0e4f5013427c765ba6e7851d4bd56613d6590d009ff1fc1": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13824.pdf",
+  "method": "ocr",
+  "note": "AnUpdateStatusReportOfTheSonor_13824.md",
+  "source_id": "X-496c78a8",
+  "status": "done",
+  "timestamp": "2026-10-20T23:39:53+00:00"
  },
  "49b0cb00fd4f3bcca391fa6de492b7f9abb3cf9ecd1b37a955fde15a491b9837": {
   "citation_source": "crossref",
@@ -2319,6 +2616,16 @@
   "status": "done",
   "timestamp": "2026-10-14T17:53:18+00:00"
  },
+ "4bf8e87a0298834c623708b0867149f80678fef608a9d526c1478d5a808c55ee": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11685.pdf",
+  "method": "ocr",
+  "note": "BiologicalOpinionSummaryBlueRi_11685.md",
+  "source_id": "X-4bf8e87a",
+  "status": "done",
+  "timestamp": "2026-10-20T23:17:31+00:00"
+ },
  "4bffcb766db08a07d8743934a9ceacbdc38e66a10ccb0694f979f4625c624bdf": {
   "citation_source": "minckley-sheet",
   "file": "18607.pdf",
@@ -2377,6 +2684,16 @@
   "status": "done",
   "timestamp": "2026-10-20T00:32:25+00:00"
  },
+ "4e4dcf0bc9b9bdc7d986500285af140374a63a7763d5fc2d7cff1c21fe501448": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11904.pdf",
+  "method": "ocr",
+  "note": "BiologicalOpinionForRepairAndo_11904.md",
+  "source_id": "X-4e4dcf0b",
+  "status": "done",
+  "timestamp": "2026-10-20T23:21:16+00:00"
+ },
  "4e9080688b896908b0c35bb04a4ada8dc81c4a04384e65342ddfcc5e6675862e": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -2396,6 +2713,16 @@
   "source_id": "X-4ec87698",
   "status": "done",
   "timestamp": "2026-10-20T04:55:00+00:00"
+ },
+ "4ef9d07d4d6310d7170ae984abf3bdd08bd0290d9e7e68370192619e27bf4186": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16887.pdf",
+  "method": "ocr",
+  "note": "InteractionsBetweenPoeciliopsi_16887.md",
+  "source_id": "X-4ef9d07d",
+  "status": "done",
+  "timestamp": "2026-10-21T00:11:01+00:00"
  },
  "4f04ff892d972ed5abe86c61bd91b4e3a0d391066482ed36d1086bc32e7ebb35": {
   "citation_source": "minckley-sheet",
@@ -2495,6 +2822,16 @@
   "source_id": "X-539c24e3",
   "status": "done",
   "timestamp": "2026-10-17T05:10:40+00:00"
+ },
+ "53cfcb0ae7a6e1f0c09b7b929879494b15ace9af984bfbae9446138897d531a4": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "19211.pdf",
+  "method": "ocr",
+  "note": "WaterWeeds_19211.md",
+  "source_id": "X-53cfcb0a",
+  "status": "done",
+  "timestamp": "2026-10-21T00:27:28+00:00"
  },
  "53d44ac57897c7f3f93e788d5e7dc20973e51f1f2cd1bf11876d26d80bd4c99e": {
   "citation_source": "minckley-sheet",
@@ -2604,6 +2941,16 @@
   "status": "done",
   "timestamp": "2026-10-17T05:35:39+00:00"
  },
+ "575c6b8a8b7c16988e2aba9e7e0813f8fca7533656096074baafd06d12ddc37c": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "19736.pdf",
+  "method": "ocr",
+  "note": "ChangeInScheduleForExperimenta_19736.md",
+  "source_id": "X-575c6b8a",
+  "status": "done",
+  "timestamp": "2026-10-21T00:31:17+00:00"
+ },
  "57854136ad9393fdd156184dd067277ef8ddfab34f41f5bd3f2b7973cc79ae97": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -2633,6 +2980,16 @@
   "source_id": "X-58da3ff8",
   "status": "done",
   "timestamp": "2026-10-17T06:19:22+00:00"
+ },
+ "58efd727ce3d625460ce74a3cdc56c34815c4771e830c37220584ba51b95942b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "20518.pdf",
+  "method": "ocr",
+  "note": "RecoveryPlanForUnarmoredThrees_20518.md",
+  "source_id": "X-58efd727",
+  "status": "done",
+  "timestamp": "2026-10-21T00:39:32+00:00"
  },
  "593a7058082b44917a8bfd14e639b5ffb5749f8136a2dce393c925f15692fe08": {
   "citation_source": "minckley-sheet",
@@ -2693,6 +3050,26 @@
   "status": "done",
   "timestamp": "2026-10-20T00:35:03+00:00"
  },
+ "5aa55d63b8736b9416c7bafdc0ccf7b48d0265f625db156b28ab42cd82734519": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18960.pdf",
+  "method": "ocr",
+  "note": "ArizonaDepartmentOfWaterResour_18960.md",
+  "source_id": "X-5aa55d63",
+  "status": "done",
+  "timestamp": "2026-10-21T00:25:25+00:00"
+ },
+ "5b7ebbd5e080e5c3379c1d3d5c6146060ed79661136702c0e0cc115eb40b8071": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13278.pdf",
+  "method": "ocr",
+  "note": "ColoradoSquawfishPtychocheilus_13278.md",
+  "source_id": "X-5b7ebbd5",
+  "status": "done",
+  "timestamp": "2026-10-20T23:31:19+00:00"
+ },
  "5b8a4934c205231409dd36e48e5d646391d44619ecab8c26b489f572f07d9cf1": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -2750,6 +3127,16 @@
   "source_id": "X-5d179e38",
   "status": "done",
   "timestamp": "2026-10-18T05:04:37+00:00"
+ },
+ "5d2de42a459c1e8ddde2491d62aa39772763150d9fb5b467c9147c4591ef6d0b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15952.pdf",
+  "method": "ocr",
+  "note": "BioassayAndUseOfPituitaryMater_15952.md",
+  "source_id": "X-5d2de42a",
+  "status": "done",
+  "timestamp": "2026-10-21T00:02:46+00:00"
  },
  "5d3e533a04030439c302eac33305d5ec548a8db8c7dbab2516f9ccaf37d8cad1": {
   "citation_source": "minckley-sheet",
@@ -2875,6 +3262,16 @@
   "source_id": "X-601e44e4",
   "status": "done",
   "timestamp": "2026-10-14T17:51:21+00:00"
+ },
+ "602d0ee187c4fac80ad510ab2c5e74c9e92909d3261dcd8f8054fb41096db870": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "17755.pdf",
+  "method": "ocr",
+  "note": "RedescriptionAndAssignmentToTh_17755.md",
+  "source_id": "X-602d0ee1",
+  "status": "done",
+  "timestamp": "2026-10-21T00:14:06+00:00"
  },
  "6043bf07d9ef20d915688c513edb6e3849df4f892c72ea5ed31fc89a8d24d79c": {
   "citation_source": "minckley-sheet",
@@ -3123,6 +3520,16 @@
   "status": "done",
   "timestamp": "2026-10-14T17:26:29+00:00"
  },
+ "67a3ec9506186861e920b2d3959ed52498386384b1ef26743823699acb47c1e7": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11836.pdf",
+  "method": "ocr",
+  "note": "FormalSectionConsultationOnThe_11836.md",
+  "source_id": "X-67a3ec95",
+  "status": "done",
+  "timestamp": "2026-10-20T23:19:54+00:00"
+ },
  "67b7f6e2015fd361b4d7438b2db6a0de40d73c67d367ad1e5189f20098b3f1d5": {
   "citation_source": "minckley-sheet",
   "file": "13303.pdf",
@@ -3180,6 +3587,16 @@
   "source_id": "X-697f9a3b",
   "status": "done",
   "timestamp": "2026-10-20T01:11:33+00:00"
+ },
+ "6b543ba21648b92711cafb5647f038a7ee10e33a37a65d4aa50b02df1325194f": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13251.pdf",
+  "method": "ocr",
+  "note": "NativeTroutOfArizonaAndNewMexi_13251.md",
+  "source_id": "X-6b543ba2",
+  "status": "done",
+  "timestamp": "2026-10-20T23:29:38+00:00"
  },
  "6baf4582f2eb193dcadf89d4fbcf6fa4ad6697cf6520cd5a18f1aaedbb42fc24": {
   "citation_source": "minckley-sheet",
@@ -3241,6 +3658,16 @@
   "status": "done",
   "timestamp": "2026-10-20T04:01:48+00:00"
  },
+ "6d877de58777afe07a1d4d70fa14f15bfdaec42f68629a1e783f6c5c0b2af318": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18372.pdf",
+  "method": "ocr",
+  "note": "WorkshopProceedings_18372.md",
+  "source_id": "X-6d877de5",
+  "status": "done",
+  "timestamp": "2026-10-21T00:20:35+00:00"
+ },
  "6da0620d0053a1dab917de8facc50c2b13c4228a9e945672bc05d605c3816302": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -3280,6 +3707,16 @@
   "source_id": "X-6e3b56ac",
   "status": "done",
   "timestamp": "2026-10-20T00:16:38+00:00"
+ },
+ "6ec34d0e2179ec10666dc9dee42af1d662128ba93c15a1188ccc45fd727466b7": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11242.pdf",
+  "method": "ocr",
+  "note": "MissouriansToHelpShapeFutureOf_11242.md",
+  "source_id": "X-6ec34d0e",
+  "status": "done",
+  "timestamp": "2026-10-20T23:05:56+00:00"
  },
  "6ec91648e54975fd90f0bce211b7e17ff7a5903efed3944ec3b471fcc4519b69": {
   "citation_source": "minckley-sheet",
@@ -3321,6 +3758,16 @@
   "status": "done",
   "timestamp": "2026-10-20T01:01:04+00:00"
  },
+ "6f56ba4bdced3c01192845ae6cebabf3fc2dfc058df950e4d06f1fa164564019": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18884.pdf",
+  "method": "ocr",
+  "note": "TheParasiticCopepodAchtheresPe_18884.md",
+  "source_id": "X-6f56ba4b",
+  "status": "done",
+  "timestamp": "2026-10-21T00:24:59+00:00"
+ },
  "6ffbd9bbc366a88b4bb2c397fbe76c6e4bd67f3f84deb61c10ceb12116217301": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -3340,6 +3787,16 @@
   "source_id": "X-708a01c5",
   "status": "done",
   "timestamp": "2026-10-17T09:44:37+00:00"
+ },
+ "7136ea256075231c6778f59f468b729b65ab2c0051e07f0ce18373b5f9327c71": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14328.pdf",
+  "method": "ocr",
+  "note": "WildlifeStudiesPatuxentWildlif_14328.md",
+  "source_id": "X-7136ea25",
+  "status": "done",
+  "timestamp": "2026-10-20T23:42:56+00:00"
  },
  "71caf5d394838bc37bb26f9e21296edb0fec56b6615e565b95d5505b06536066": {
   "citation_source": "minckley-sheet",
@@ -3361,6 +3818,16 @@
   "status": "done",
   "timestamp": "2026-10-17T06:21:07+00:00"
  },
+ "73eeea327c39380d8a0a783db1915a14b1ee3d2f1da72c395491bbd58e4c2cf3": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14955.pdf",
+  "method": "ocr",
+  "note": "LakePowellQualityStudiesForThe_14955.md",
+  "source_id": "X-73eeea32",
+  "status": "done",
+  "timestamp": "2026-10-20T23:52:07+00:00"
+ },
  "742a779847156051e855f8b58a62075071dfc7cf74a7dc698b53bb97eff37b50": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -3381,6 +3848,26 @@
   "status": "done",
   "timestamp": "2026-10-17T08:51:06+00:00"
  },
+ "757728a38c72e61f3f08dbdaca77ae785d0d70849c54d71c02124ee9f9c8d40e": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15792.pdf",
+  "method": "ocr",
+  "note": "ExperimentalDigitalShadedrelie_15792.md",
+  "source_id": "X-757728a3",
+  "status": "done",
+  "timestamp": "2026-10-20T23:59:53+00:00"
+ },
+ "76b8ffe6a3b0d11ee6e70e931e3fbbb6529ee17ca4f6c591e1e0558c3fc3b507": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11168.pdf",
+  "method": "ocr",
+  "note": "TheNutritionOfTroutCortalandHa_11168.md",
+  "source_id": "X-76b8ffe6",
+  "status": "done",
+  "timestamp": "2026-10-20T23:03:28+00:00"
+ },
  "76c997ee0f632c17a3e5814477a0e3e205735e37c5a2c7361bf7104b827df177": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -3391,6 +3878,26 @@
   "status": "done",
   "timestamp": "2026-10-18T05:25:30+00:00"
  },
+ "76f9d913c2935f0c2e9c748fb31f6c94bdaa125f18f851fdd7b0df2b5314e43a": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15954.pdf",
+  "method": "ocr",
+  "note": "EarlyFieldNotes_15954.md",
+  "source_id": "X-76f9d913",
+  "status": "done",
+  "timestamp": "2026-10-21T00:03:45+00:00"
+ },
+ "7725b576127e1baa7c3e3e6cbdb45263b1f28608d14afa6bb59316f63abc55c7": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16481.pdf",
+  "method": "ocr",
+  "note": "PreliminaryFisheriesSurveyOfAq_16481.md",
+  "source_id": "X-7725b576",
+  "status": "done",
+  "timestamp": "2026-10-21T00:08:08+00:00"
+ },
  "772b04f2a46402473b67756f0c2511631df2b66d55ea7763ca682987243f633f": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -3400,6 +3907,16 @@
   "source_id": "X-772b04f2",
   "status": "done",
   "timestamp": "2026-10-18T05:34:26+00:00"
+ },
+ "7738323f565f361be98b0b4f13cd6b9ce9d58db85dce4e97e8e73148ad99db5c": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "17957.pdf",
+  "method": "ocr",
+  "note": "IntroductionOfGilaTopminnowAnd_17957.md",
+  "source_id": "X-7738323f",
+  "status": "done",
+  "timestamp": "2026-10-21T00:15:40+00:00"
  },
  "77569ab283b5051bc92b2667a3affd46d62e0fa9a608c40c115b8e3c0450e525": {
   "citation_source": "minckley-sheet",
@@ -3596,6 +4113,16 @@
   "source_id": "X-7c934c5d",
   "status": "done",
   "timestamp": "2026-10-17T05:42:41+00:00"
+ },
+ "7c9a632abed9c8fb1cd4a5b5be64cf59e25d46c111af66efcfea86fd9a0924a2": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "19989.pdf",
+  "method": "ocr",
+  "note": "TheHydrographicAndFaunalIndepe_19989.md",
+  "source_id": "X-7c9a632a",
+  "status": "done",
+  "timestamp": "2026-10-21T00:34:18+00:00"
  },
  "7d2c8d77b7a85fdf7cb6da66eee24c22567d0784298d5053f6e0d9a801acbe7b": {
   "citation_source": "minckley-sheet",
@@ -3812,6 +4339,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:28:52+00:00"
  },
+ "824facb9466b7e6f5cef9d7103b96f811a9a70dd6d406a5e0a7edc27f71fa99a": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16800.pdf",
+  "method": "ocr",
+  "note": "CarbonBlackIncreasesSnowmeltAn_16800.md",
+  "source_id": "X-824facb9",
+  "status": "done",
+  "timestamp": "2026-10-21T00:09:40+00:00"
+ },
  "82747f07f76236f455e5b3a30f4b2fc3a3035312d1400066ba5f41c4da8369de": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -3998,6 +4535,16 @@
   "status": "done",
   "timestamp": "2026-10-20T04:08:35+00:00"
  },
+ "87ae21b58b885d39aa9a20a4843cd608e5e94c82b655b6c15f9f75ccaca2165d": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11424.pdf",
+  "method": "ocr",
+  "note": "RadioTelemetryMonitoringOfStoc_11424.md",
+  "source_id": "X-87ae21b5",
+  "status": "done",
+  "timestamp": "2026-10-20T23:08:35+00:00"
+ },
  "87aec91e686a318d5f2390f30b2b4aa62d3badf9b5435d9a0f95872ce9834195": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -4105,6 +4652,16 @@
   "status": "done",
   "timestamp": "2026-10-17T08:27:35+00:00"
  },
+ "8b1890afbef88364dec9317e11da93688c0f585c6a67d3d63ca0651b6558b8e7": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13620.pdf",
+  "method": "ocr",
+  "note": "TheEffectsOfInterimFlowsFromGl_13620.md",
+  "source_id": "X-8b1890af",
+  "status": "done",
+  "timestamp": "2026-10-20T23:36:50+00:00"
+ },
  "8b3a866856c283ae0eec5c4e479b9090f2de1cf7545d9df348d391c0c1925491": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -4175,6 +4732,16 @@
   "status": "done",
   "timestamp": "2026-10-17T08:54:43+00:00"
  },
+ "8cd607c45e9c345d538e1b52c5adb13c604c987e2a63d69b967b4a6488bb71ee": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12974.pdf",
+  "method": "ocr",
+  "note": "TripReportForUpperColoradoRive_12974.md",
+  "source_id": "X-8cd607c4",
+  "status": "done",
+  "timestamp": "2026-10-20T23:26:43+00:00"
+ },
  "8cf7477785e26fafc06ecf42d8a930b5f69ef93af500b3a4e51827c9b319bc3d": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -4214,6 +4781,16 @@
   "source_id": "X-8d694796",
   "status": "done",
   "timestamp": "2026-10-20T01:04:26+00:00"
+ },
+ "8d77caa6cf86eddcb7fb8ae95dca4f5f80dfa58e64b04bfbc756a1c8f05d89e0": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "17765.pdf",
+  "method": "ocr",
+  "note": "FiscalYearAnnualMonitoringAndR_17765.md",
+  "source_id": "X-8d77caa6",
+  "status": "done",
+  "timestamp": "2026-10-21T00:15:07+00:00"
  },
  "8dd664d95d68390c870f8953d90af0544a6b9eb2a2231afc885a50f517e83296": {
   "citation_source": "minckley-sheet",
@@ -4292,6 +4869,16 @@
   "status": "done",
   "timestamp": "2026-10-20T04:51:55+00:00"
  },
+ "8fa234828e77393abc69356e65a78d7a8d6369ac21d9e61449a29a831b18f713": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11694.pdf",
+  "method": "ocr",
+  "note": "SanBernardinoAndLeslieCanyonNa_11694.md",
+  "source_id": "X-8fa23482",
+  "status": "done",
+  "timestamp": "2026-10-20T23:18:36+00:00"
+ },
  "8fa72e3530062e3e62ae3d5879a0a49ef4f9c809f8a1337f7d724a36e06bd289": {
   "citation_source": "minckley-sheet",
   "file": "15266.pdf",
@@ -4321,6 +4908,16 @@
   "status": "done",
   "timestamp": "2026-10-17T05:11:56+00:00"
  },
+ "90ada71d9a0a85a0d503b2c814b73dae435629e2127230e9d056dbd8662661bf": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13788.pdf",
+  "method": "ocr",
+  "note": "DraftOfForwardForBookBattleAga_13788.md",
+  "source_id": "X-90ada71d",
+  "status": "done",
+  "timestamp": "2026-10-20T23:38:19+00:00"
+ },
  "90b8f5bfa1d2efbf92f66509a0018e59858c5eaef56eb389e99c9e0f98273bcf": {
   "citation_source": "crossref",
   "doc_type": "ecological_and_biological",
@@ -4340,6 +4937,16 @@
   "source_id": "X-90e373ed",
   "status": "done",
   "timestamp": "2026-10-20T04:27:01+00:00"
+ },
+ "912fd7646da701709b5cdcbb133e9258d7924f5fa9eadf696fd9004d0ab0cadc": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13900.pdf",
+  "method": "ocr",
+  "note": "DraftprotocolForHandlingAndTra_13900.md",
+  "source_id": "X-912fd764",
+  "status": "done",
+  "timestamp": "2026-10-20T23:40:18+00:00"
  },
  "91512436b7b8dc8d95f56ac96be5485a7d7138c3d8ebc62a10993174219b12bc": {
   "citation_source": "minckley-sheet",
@@ -4420,6 +5027,16 @@
   "source_id": "X-925f7042",
   "status": "done",
   "timestamp": "2026-10-18T05:30:21+00:00"
+ },
+ "9288510a81e25da3673ddd76b4d99db54755cfc973b264b0a52fdc449969e8b6": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12652.pdf",
+  "method": "ocr",
+  "note": "PrimaryProductivityCAtTwinLake_12652.md",
+  "source_id": "X-9288510a",
+  "status": "done",
+  "timestamp": "2026-10-20T23:23:31+00:00"
  },
  "931659e405f20e8e157ff3632a00aca4ff4d6ccaad37309ac081d2e616aff69c": {
   "citation_source": "minckley-sheet",
@@ -4509,6 +5126,16 @@
   "source_id": "X-948a460f",
   "status": "done",
   "timestamp": "2026-10-17T06:00:29+00:00"
+ },
+ "955f64e4272b8d99139f984bc3fc39775c9786a32f17cea0e9f8e4b7e534827b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15938.pdf",
+  "method": "ocr",
+  "note": "GlenCanyonEnvironmentalStudies_15938.md",
+  "source_id": "X-955f64e4",
+  "status": "done",
+  "timestamp": "2026-10-21T00:01:18+00:00"
  },
  "9582d71a9c3caf3add80b7e94b7029c269e08957e53857dc0f0fac558664766b": {
   "citation_source": "minckley-sheet",
@@ -4625,6 +5252,16 @@
   "source_id": "X-9894e7fa",
   "status": "done",
   "timestamp": "2026-10-18T04:34:22+00:00"
+ },
+ "993bbf4b3b9afaf62cb166fea285fd903db8c05aeb2438858889e04639ce7b3c": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13306.pdf",
+  "method": "ocr",
+  "note": "PartICurrentSituationPartIiAPr_13306.md",
+  "source_id": "X-993bbf4b",
+  "status": "done",
+  "timestamp": "2026-10-20T23:33:00+00:00"
  },
  "996a107b543849a78ae5dbb3b9449d3edf8ae29d6b636d80e05f4d996e2ea1a1": {
   "citation_source": "minckley-sheet",
@@ -4769,6 +5406,16 @@
   "status": "done",
   "timestamp": "2026-10-20T05:06:27+00:00"
  },
+ "9d63e3ab7c346b44a246ec9ae550c641e5daf41dd63f5111b22fb733e45fd8a7": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14590.pdf",
+  "method": "ocr",
+  "note": "ReservoirFisheriesInvestigatio_14590.md",
+  "source_id": "X-9d63e3ab",
+  "status": "done",
+  "timestamp": "2026-10-20T23:43:51+00:00"
+ },
  "9d695b589aab588ab87862f2536b96a9127a0d393e312a489b9655e8995606da": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -4798,6 +5445,16 @@
   "source_id": "X-9d7e6ff2",
   "status": "done",
   "timestamp": "2026-10-17T08:21:18+00:00"
+ },
+ "9dbbda8bcc96fc4862d4e8779d0af9f40c1a00d8e68d6255aaa3db36031d81e4": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13191.pdf",
+  "method": "ocr",
+  "note": "HabitatConservationPlanAssuran_13191.md",
+  "source_id": "X-9dbbda8b",
+  "status": "done",
+  "timestamp": "2026-10-20T23:27:40+00:00"
  },
  "9dcbd6da635a20ae87b00f801e66c2d8a12a65308fc2fc12b3b2e4081d4d78a7": {
   "citation_source": "minckley-sheet",
@@ -4981,6 +5638,16 @@
   "source_id": "X-a33db510",
   "status": "done",
   "timestamp": "2026-10-17T08:29:49+00:00"
+ },
+ "a3775379d6470469ca813b1519323a7d5e7466bc5ad69faeaaa63677df89cf9e": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12827.pdf",
+  "method": "ocr",
+  "note": "DesertFishesCouncilThirteenthA_12827.md",
+  "source_id": "X-a3775379",
+  "status": "done",
+  "timestamp": "2026-10-20T23:23:57+00:00"
  },
  "a4ce7b5143a66b31e205f725281709e1bc76a9396e67c4d20d838b7168a6fe76": {
   "citation_source": "minckley-sheet",
@@ -5279,6 +5946,16 @@
   "status": "done",
   "timestamp": "2026-10-17T09:45:03+00:00"
  },
+ "b0c8a255ed708365a84433adb81accbef15033442342ecd5f2f8040b4da1b096": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11399.pdf",
+  "method": "ocr",
+  "note": "ManagementPlanSierraSanLuisWil_11399.md",
+  "source_id": "X-b0c8a255",
+  "status": "done",
+  "timestamp": "2026-10-20T23:07:20+00:00"
+ },
  "b0cf9603633128d15c649eb4432f8ddc622c25493c6bd4bdaba0ba33388fbe3d": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -5338,6 +6015,16 @@
   "status": "done",
   "timestamp": "2026-10-20T00:00:37+00:00"
  },
+ "b2c15c9920bbbc8ace433a1b59a10b38232185ee88c5eabe749aeec6c79b633d": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11609.pdf",
+  "method": "ocr",
+  "note": "HabitatUseAndStreamflowNeedsOf_11609.md",
+  "source_id": "X-b2c15c99",
+  "status": "done",
+  "timestamp": "2026-10-20T23:13:33+00:00"
+ },
  "b2f65d269b5e02d0c61b4a78efee8f4f60cc585f823df5f5ff271aaa1667b145": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -5396,6 +6083,16 @@
   "status": "done",
   "timestamp": "2026-10-15T20:27:59+00:00"
  },
+ "b4ec2e5c8db3f8928ffd20bf2d0d86c1b0316b039eca56bf60f6afcc5ad7ce66": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11545.pdf",
+  "method": "ocr",
+  "note": "DraftColoradoSquawfishRecovery_11545.md",
+  "source_id": "X-b4ec2e5c",
+  "status": "done",
+  "timestamp": "2026-10-20T23:09:58+00:00"
+ },
  "b563103acbbd0810206115c692711c82d26b0125997c6cfda5185fd5cd607b15": {
   "citation_source": "minckley-sheet",
   "file": "20521.pdf",
@@ -5423,6 +6120,16 @@
   "source_id": "X-b5bf01aa",
   "status": "done",
   "timestamp": "2026-10-14T23:45:39+00:00"
+ },
+ "b5d378f993fbe4d70b1a74f801ce8b9ad311626bb530b52ec4e066e0f5906485": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15305.pdf",
+  "method": "ocr",
+  "note": "FishCollectionRecordsAndFieldN_15305.md",
+  "source_id": "X-b5d378f9",
+  "status": "done",
+  "timestamp": "2026-10-20T23:52:59+00:00"
  },
  "b620a11625f79b93da78354e874bb2007f8e3e352e2d2d9da3b0d5fbe438713d": {
   "citation_source": "minckley-sheet",
@@ -5551,6 +6258,16 @@
   "status": "done",
   "timestamp": "2026-10-16T17:34:36+00:00"
  },
+ "ba9502fe4bd13384e802c188be091e4ae26f26c7620fe325169e33b813134051": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18974.pdf",
+  "method": "ocr",
+  "note": "DeclineInLowFlowsOfSanPedroAnd_18974.md",
+  "source_id": "X-ba9502fe",
+  "status": "done",
+  "timestamp": "2026-10-21T00:25:51+00:00"
+ },
  "bab78a33abd481ab9dd68b365a0b9dce6374e63211dd1a81355b8ca54a1b9fb6": {
   "citation_source": "minckley-sheet",
   "file": "11425.pdf",
@@ -5589,6 +6306,16 @@
   "status": "done",
   "timestamp": "2026-10-18T05:05:35+00:00"
  },
+ "bbcea8ca324e4df29a80f6d59323699c790b26b799939d107bd27294f6180fd1": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14929.pdf",
+  "method": "ocr",
+  "note": "StatewideRoughFishControlfishE_14929.md",
+  "source_id": "X-bbcea8ca",
+  "status": "done",
+  "timestamp": "2026-10-20T23:48:54+00:00"
+ },
  "bc7a17a3a71899be9bd5ce6a3afc32e8be2d842817188e65a6d195264b83edf6": {
   "citation_source": "minckley-sheet",
   "file": "15005.pdf",
@@ -5608,6 +6335,16 @@
   "status": "done",
   "timestamp": "2026-10-16T18:43:58+00:00"
  },
+ "bd17d39d833913cc636b095ec7c1a67bca63a99c425e786bcd675ed941df78b6": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14146.pdf",
+  "method": "ocr",
+  "note": "CaliforniaCatchableTroutFisher_14146.md",
+  "source_id": "X-bd17d39d",
+  "status": "done",
+  "timestamp": "2026-10-20T23:41:23+00:00"
+ },
  "bd776220c02b0de04d517cf6bcf1d2f4ae76d971591859b83e117615c6e4f7ff": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -5626,6 +6363,16 @@
   "source_id": "X-bdc0a424",
   "status": "done",
   "timestamp": "2026-10-14T23:58:54+00:00"
+ },
+ "bdc472abf8b68f241773af77d837412b46c30c4f7d448dcd4363464dc457f79c": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14930.pdf",
+  "method": "ocr",
+  "note": "StatewideRoughFishControleradi_14930.md",
+  "source_id": "X-bdc472ab",
+  "status": "done",
+  "timestamp": "2026-10-20T23:49:22+00:00"
  },
  "bdf34d3c2466ad7bb0b34cae35907509d9ace0b1126cb564ec5ebd2f962d3729": {
   "citation_source": "minckley-sheet",
@@ -5683,6 +6430,16 @@
   "source_id": "X-bed4fcf9",
   "status": "done",
   "timestamp": "2026-10-20T00:25:34+00:00"
+ },
+ "bf7a8d3b6a682d7952b62cc0fa732c75570282d69212862e47166bec84a00fa2": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "20243.pdf",
+  "method": "ocr",
+  "note": "AntimycinaNewFisheryTool_20243.md",
+  "source_id": "X-bf7a8d3b",
+  "status": "done",
+  "timestamp": "2026-10-21T00:34:58+00:00"
  },
  "bfc8255c245b409995c1fccdd946ed8594b3a244648d16660fff329aa0e6ce7d": {
   "citation_source": "minckley-sheet",
@@ -5909,6 +6666,16 @@
   "status": "done",
   "timestamp": "2026-10-17T06:12:23+00:00"
  },
+ "c8b5a03f202adcca264455242431c5ade3c922f44403e9552644cc3236ecd287": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11616.pdf",
+  "method": "ocr",
+  "note": "CodeOfFederalRegulationsPartEn_11616.md",
+  "source_id": "X-c8b5a03f",
+  "status": "done",
+  "timestamp": "2026-10-20T23:14:10+00:00"
+ },
  "c8b84ec977dd90951584565da7815253b32b7994ad0f471e1a35d2254b6b7580": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -5968,6 +6735,16 @@
   "source_id": "X-ca131b0f",
   "status": "done",
   "timestamp": "2026-10-17T09:30:29+00:00"
+ },
+ "ca1d8390fcde3912f7343e92bbac68cbad44e147c97420185f3a371384bb9d4d": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15638.pdf",
+  "method": "ocr",
+  "note": "AdverseBiologicalOpinionIndian_15638.md",
+  "source_id": "X-ca1d8390",
+  "status": "done",
+  "timestamp": "2026-10-20T23:56:34+00:00"
  },
  "ca66e5cacd89624e1a4dcb4e34d570ec5cf6bdc150f2aff9ad85c5dfc1bca4e0": {
   "citation_source": "minckley-sheet",
@@ -6058,6 +6835,26 @@
   "status": "done",
   "timestamp": "2026-10-17T06:02:56+00:00"
  },
+ "cc81647cf36c5efb66daaef553effd5f90721f691f7bed0ae05ff9f792770b41": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "19126.pdf",
+  "method": "ocr",
+  "note": "GeneticDiversityOfRazorbackSuc_19126.md",
+  "source_id": "X-cc81647c",
+  "status": "done",
+  "timestamp": "2026-10-21T00:27:01+00:00"
+ },
+ "cc9236ea2b8f2f1d45051d49ea1efd842aff338cb06ea7187ce904d0cb4143c3": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16724.pdf",
+  "method": "ocr",
+  "note": "PhylogenyOfPyrgulopsisSpringsn_16724.md",
+  "source_id": "X-cc9236ea",
+  "status": "done",
+  "timestamp": "2026-10-21T00:09:04+00:00"
+ },
  "cc9cd797d41e847338bd19fe66b81ad2ed76cd8ec4fd2f1c2bbf94fbba6ea4ca": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -6107,6 +6904,16 @@
   "status": "done",
   "timestamp": "2026-10-16T17:24:32+00:00"
  },
+ "cec2bc53b3ccdf2b9150e24f36d6adf6143019509246155c0f21a1527e434cca": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18481.pdf",
+  "method": "ocr",
+  "note": "ColoradoRiverFisheriesInvestig_18481.md",
+  "source_id": "X-cec2bc53",
+  "status": "done",
+  "timestamp": "2026-10-21T00:22:16+00:00"
+ },
  "cedd3353175bd7b34747f5016bff50746c3e6ed68b1c88ebd550dfd711b6d4cd": {
   "citation_source": "llm",
   "doc_type": "ecological_and_biological",
@@ -6126,6 +6933,16 @@
   "source_id": "X-cef1c2ac",
   "status": "done",
   "timestamp": "2026-10-17T06:22:57+00:00"
+ },
+ "cf081ee776cff0c99576f70dba829cdbdd4740b691db85a706089c574766d7c4": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14744.pdf",
+  "method": "ocr",
+  "note": "VirginSpinedaceLepidomedaMolli_14744.md",
+  "source_id": "X-cf081ee7",
+  "status": "done",
+  "timestamp": "2026-10-20T23:46:26+00:00"
  },
  "cf28ab65772afaa3ee8b35df0ddf74d5436ab72540df8adbc67a3f9197b75057": {
   "citation_source": "minckley-sheet",
@@ -6265,6 +7082,16 @@
   "status": "done",
   "timestamp": "2026-10-18T04:38:02+00:00"
  },
+ "d343f3af2dd3555b3646261f30c38ff11363e100773bd5f479e9495ec77e1989": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12618.pdf",
+  "method": "ocr",
+  "note": "WantedEndangeredArizonaFishesF_12618.md",
+  "source_id": "X-d343f3af",
+  "status": "done",
+  "timestamp": "2026-10-20T23:22:09+00:00"
+ },
  "d358b35feac91d1014bd3fac6769d728285bcdf2cd9dedd926cd50af4e52124e": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -6372,6 +7199,16 @@
   "status": "done",
   "timestamp": "2026-10-20T04:13:47+00:00"
  },
+ "d57c9bb7289f14457dec483026878aa94b3cb53260dead5dff0d842f5c889198": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "20330.pdf",
+  "method": "ocr",
+  "note": "TheUseOfSandGrainsByThePavemen_20330.md",
+  "source_id": "X-d57c9bb7",
+  "status": "done",
+  "timestamp": "2026-10-21T00:35:37+00:00"
+ },
  "d59165ffb821605e339abc5379f200b2ebd08a55e81c11339a4bf730214e11b5": {
   "citation_source": "crossref",
   "file": "Hartman 2000 - The influence of size on striped bass foraging.pdf",
@@ -6399,6 +7236,16 @@
   "source_id": "X-d5e1a2ff",
   "status": "done",
   "timestamp": "2026-10-14T19:29:02+00:00"
+ },
+ "d60923cd0eaebf4672df2c3e22732d950bb234cace24c56dfca726f6875e0837": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15766.pdf",
+  "method": "ocr",
+  "note": "HabitatSuitabilityIndexModelsC_15766.md",
+  "source_id": "X-d60923cd",
+  "status": "done",
+  "timestamp": "2026-10-20T23:59:41+00:00"
  },
  "d64227055fb1bda102ec61b9946b3ebcb335a74b94c9bfef286e404373e19796": {
   "citation_source": "minckley-sheet",
@@ -6663,6 +7510,16 @@
   "source_id": "X-de907c42",
   "status": "done",
   "timestamp": "2026-10-20T00:47:13+00:00"
+ },
+ "dee3d3c253fb4c9ff8351c60f6b1d2019b07ff231b211d469ca8dc0440a9c683": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "19719.pdf",
+  "method": "ocr",
+  "note": "GlenCanyonEnvironmentalStudies_19719.md",
+  "source_id": "X-dee3d3c2",
+  "status": "done",
+  "timestamp": "2026-10-21T00:30:49+00:00"
  },
  "dfc68d198cff190a067ac48c83a3a75cf53d74be1207adaf711140b92a4b662b": {
   "citation_source": "minckley-sheet",
@@ -7077,6 +7934,16 @@
   "status": "done",
   "timestamp": "2026-10-14T23:24:48+00:00"
  },
+ "e943a936994bd95208b524a997abc744807319672327775e680d387e1fc35c1a": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16200.pdf",
+  "method": "ocr",
+  "note": "AStudyOfTheToothPatchOnTheSpot_16200.md",
+  "source_id": "X-e943a936",
+  "status": "done",
+  "timestamp": "2026-10-21T00:06:03+00:00"
+ },
  "e963a62dc109b39142b47733267599d4b3236dd3fd4b9ee9de711019b01cc508": {
   "citation_source": "minckley-sheet",
   "file": "14159.pdf",
@@ -7145,6 +8012,16 @@
   "status": "done",
   "timestamp": "2026-10-20T01:08:51+00:00"
  },
+ "ea9224e6ea70095197d6691c33c28773cb9b2bbc8e631a166bee41d15751f1a4": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "19668.pdf",
+  "method": "ocr",
+  "note": "GilaTopminnowSitesInArizonaPro_19668.md",
+  "source_id": "X-ea9224e6",
+  "status": "done",
+  "timestamp": "2026-10-21T00:28:53+00:00"
+ },
  "ea99806ffcc2f27f7a239cbd33aa7329b7727b1db10edad45f4daccbb018ef25": {
   "citation_source": "minckley-sheet",
   "file": "19070.pdf",
@@ -7201,6 +8078,16 @@
   "source_id": "X-eb67fa66",
   "status": "done",
   "timestamp": "2026-10-14T23:24:12+00:00"
+ },
+ "ec715db7e673d7ee7262c5ad59c25642d5e634446fbbc32ccc4ab8f8cce2865d": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18555.pdf",
+  "method": "ocr",
+  "note": "TheDesertPupfishOfOrganPipeNat_18555.md",
+  "source_id": "X-ec715db7",
+  "status": "done",
+  "timestamp": "2026-10-21T00:22:46+00:00"
  },
  "ec98eee2924306c15d7bb1c64e2c303d9af7c1c90638d10a24ec6300b05ab4be": {
   "citation_source": "minckley-sheet",
@@ -7339,6 +8226,26 @@
   "status": "done",
   "timestamp": "2026-10-14T23:28:49+00:00"
  },
+ "f11b8450dd2d75bcbdf4953cfce30bce71247d1839d4fff7cf2e2f030fc5c814": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13221.pdf",
+  "method": "ocr",
+  "note": "ProjectsTakeStaffToTheField_13221.md",
+  "source_id": "X-f11b8450",
+  "status": "done",
+  "timestamp": "2026-10-20T23:28:15+00:00"
+ },
+ "f15dace68b41b648b7d02154d0d9c83a298fcbb6b4f8a7b5e305192d2ce74e2d": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16280.pdf",
+  "method": "ocr",
+  "note": "TheEnvironmentalConditionsOfAn_16280.md",
+  "source_id": "X-f15dace6",
+  "status": "done",
+  "timestamp": "2026-10-21T00:07:38+00:00"
+ },
  "f16d13ad90fdc7ed6287616c93e430dea42d72730c73e93d15cbf355a3ea959e": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -7358,6 +8265,16 @@
   "status": "done",
   "timestamp": "2026-10-14T23:40:45+00:00"
  },
+ "f211571e4ad3927885057a4dc0dedacfd0363c638f9d3782da8d5aabf7bda03d": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13434.pdf",
+  "method": "ocr",
+  "note": "FishAndFishEggDistributionRepo_13434.md",
+  "source_id": "X-f211571e",
+  "status": "done",
+  "timestamp": "2026-10-20T23:34:48+00:00"
+ },
  "f24338136dd6e1beb6d029693758c73a0683b3f2202b1ec7069beb7afcc4f2e0": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -7367,6 +8284,16 @@
   "source_id": "X-f2433813",
   "status": "done",
   "timestamp": "2026-10-20T00:23:33+00:00"
+ },
+ "f24874032a3c778848735382b379a8a769d9334e576d008b68b984c45192bb28": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18303.pdf",
+  "method": "ocr",
+  "note": "ManagementPlanSierraSanLuisWil_18303.md",
+  "source_id": "X-f2487403",
+  "status": "done",
+  "timestamp": "2026-10-21T00:19:13+00:00"
  },
  "f2c2d0349bb63efaa40685caad98b9cc5b83532b2f0a2908a778be443a3b64a3": {
   "citation_source": "minckley-sheet",
@@ -7471,6 +8398,16 @@
   "status": "done",
   "timestamp": "2026-10-14T19:28:37+00:00"
  },
+ "f5eecc6b6f2c8eeeeea4f0ab4fb5820ddc609222c11a38ff1013e87502512690": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13223.pdf",
+  "method": "ocr",
+  "note": "BetweenTheDesertAndTheSeaArche_13223.md",
+  "source_id": "X-f5eecc6b",
+  "status": "done",
+  "timestamp": "2026-10-20T23:29:04+00:00"
+ },
  "f6125429eed64fddb361eb83ff1f8c715cff6dbeb26113315b14cf0e8ce06062": {
   "citation_source": "minckley-sheet",
   "file": "11854.pdf",
@@ -7526,6 +8463,26 @@
   "status": "done",
   "timestamp": "2026-10-17T09:29:19+00:00"
  },
+ "f769a7ddd8fb20a71ed6f964a51727ac15d2744cf7668a02bf3ac252f9d374c2": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16148.pdf",
+  "method": "ocr",
+  "note": "FishingInTwelveMichiganLakesUn_16148.md",
+  "source_id": "X-f769a7dd",
+  "status": "done",
+  "timestamp": "2026-10-21T00:05:33+00:00"
+ },
+ "f7843bfef72a2ff8eaa5ce7d846bb732b25c03f9ad12ecb1dcc7e682920c64ac": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13790.pdf",
+  "method": "ocr",
+  "note": "ReassessmentOfOriginalInformat_13790.md",
+  "source_id": "X-f7843bfe",
+  "status": "done",
+  "timestamp": "2026-10-20T23:38:51+00:00"
+ },
  "f7f8ca07db4ef3da6ee62183f54b3b736c184ec7a63c624e71ba25620409404d": {
   "citation_source": "minckley-sheet",
   "file": "13734.pdf",
@@ -7564,6 +8521,16 @@
   "source_id": "X-f853b3a4",
   "status": "done",
   "timestamp": "2026-10-17T05:39:42+00:00"
+ },
+ "f8b86eab8341a654117287b13a517766728a35887452ad1d4cf69c5c46e5e70d": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11684.pdf",
+  "method": "ocr",
+  "note": "EnvironmentalAssessmentAndHabi_11684.md",
+  "source_id": "X-f8b86eab",
+  "status": "done",
+  "timestamp": "2026-10-20T23:15:58+00:00"
  },
  "f9bce0c6d7b2b57fc5aba53a4e3e53e38baffcb86069e2c5e7dce180284bcd3e": {
   "citation_source": "minckley-sheet",
@@ -7642,6 +8609,16 @@
   "source_id": "X-fb5d29b8",
   "status": "done",
   "timestamp": "2026-10-20T00:43:41+00:00"
+ },
+ "fb7816c75d4c1b3ca3b7aa9a4efb018c0c2cc47b51f5264fe86d3f4035e00411": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "17654.pdf",
+  "method": "ocr",
+  "note": "TuleCreekPipelineProjectSummar_17654.md",
+  "source_id": "X-fb7816c7",
+  "status": "done",
+  "timestamp": "2026-10-21T00:13:19+00:00"
  },
  "fbeb3e95a0b3b20bac18bc7d057124a65e5dc7a72cbc192ae0f2d78102b02a86": {
   "citation_source": "minckley-sheet",
@@ -7730,6 +8707,16 @@
   "status": "done",
   "timestamp": "2026-10-16T18:57:27+00:00"
  },
+ "fd9ac063215d86fcb54d2cbf619f3ebc93be961bbaeb06da6547a1d51aabdd56": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "14724.pdf",
+  "method": "ocr",
+  "note": "PartManagementConcernsPriority_14724.md",
+  "source_id": "X-fd9ac063",
+  "status": "done",
+  "timestamp": "2026-10-20T23:44:56+00:00"
+ },
  "fdbfab67c2aacc0493c5b7e495de697afabe87624e88eb509f41cf3d12d3272f": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -7759,6 +8746,16 @@
   "source_id": "X-fde5549b",
   "status": "done",
   "timestamp": "2026-10-20T00:24:10+00:00"
+ },
+ "fe00af6f447e760531650283585d930f9388ae1bc639eb6093dfb4149bd22d67": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "20507.pdf",
+  "method": "ocr",
+  "note": "MxMissileSystemAnUrgentLetterF_20507.md",
+  "source_id": "X-fe00af6f",
+  "status": "done",
+  "timestamp": "2026-10-21T00:38:03+00:00"
  },
  "feb6c8e7e59b7b8d108002664133a2f9ac30f48ec545314042d880ad9b738295": {
   "citation_source": "minckley-sheet",

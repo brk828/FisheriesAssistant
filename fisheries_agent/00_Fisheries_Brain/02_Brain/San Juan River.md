@@ -146,6 +146,12 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 > This study documents the origin, distribution, and seasonal dynamics of oxygen-depleted waters in [[Lake Powell]], a large canyon-type reservoir on the [[Colorado Plateau]]. The reservoir exhibits two principal oxygen depletion problems affecting its fishery: (1) a shallow oxygen minimum layer...
 > -- *[[OxygenDepletedWatersOriginAndD_19797]]*
 
+> This document is the revised recovery plan for the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*), superseding the original 1978 plan. Prepared by the [[Colorado River Fishes Recovery Team]] at the direction of the [[U.S. Fish and Wildlife Service]], the plan incorporates research...
+> -- *[[DraftColoradoSquawfishRecovery_11545]]*
+
+> The [[Colorado Squawfish]] (*Ptychocheilus lucius*) is the largest cyprinid in North America, historically reaching lengths of nearly 1.8 m and weights exceeding 36 kg. This voracious predator served as the top carnivore of the [[Colorado River]] system. Listed as endangered in 1967 and protected...
+> -- *[[ColoradoSquawfishPtychocheilus_13278]]*
+
 ## Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -210,3 +216,5 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 - [[LakePowellFisheriesInvestigati_14595]]
 - [[GlenCanyonNationalRecreationAr_18334]]
 - [[OxygenDepletedWatersOriginAndD_19797]]
+- [[DraftColoradoSquawfishRecovery_11545]]
+- [[ColoradoSquawfishPtychocheilus_13278]]

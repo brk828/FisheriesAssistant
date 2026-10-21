@@ -74,6 +74,12 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 > This article from Montana Fish & Game Department (August 1969) describes [[Gambusia affinis affinis]] (mosquitofish) and their use in biological mosquito control. The species is native to the Gulf Coast and Mississippi River system but has been widely introduced for pest control purposes. In 1969,...
 > -- *[[LittleFishDoesBigThings_16549]]*
 
+> This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
+> -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
+
+> This Scholarly Studies Program proposal (Winter 1999 review cycle) by Robert Hershler ([[NMNH]]) and Hsiu-Ping Liu ([[Southwest Missouri State University]]) seeks funding to conduct a comprehensive phylogenetic and biogeographic analysis of *[[Pyrgulopsis]]*, the largest genus of nonmarine snails...
+> -- *[[PhylogenyOfPyrgulopsisSpringsn_16724]]*
+
 ## Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -107,3 +113,5 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 - [[CvForNewProposal_17525]]
 - [[ElConsejoDeLosPecesDelDesierto_12830]]
 - [[LittleFishDoesBigThings_16549]]
+- [[NativeTroutOfArizonaAndNewMexi_13251]]
+- [[PhylogenyOfPyrgulopsisSpringsn_16724]]

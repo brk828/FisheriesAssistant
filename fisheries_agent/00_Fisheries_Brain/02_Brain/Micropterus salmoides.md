@@ -65,6 +65,21 @@ auto_enriched: true
 > This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
 > -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
 
+> Field notes from a fish survey conducted at [[Lake Mjømane]] on November 26-28, 1994. The document records catch data for multiple fish species including [[Coregonus lavaretus]] (whitefish), [[Salmo salar]] (salmon), [[Salvelinus alpinus]] (Arctic char), and other species. Data includes specimen...
+> -- *[[NotesFromLakeMohaveFishEffortF_13745]]*
+
+> This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
+> -- *[[ReservoirFisheriesInvestigatio_14590]]*
+
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
+> This 1959 thesis by Judith A. Loring examines the reliability of the tooth patch on the tongue as a diagnostic character for identifying [[Micropterus punctulatus]] (spotted black bass). The study analyzed specimens from Kentucky and surrounding states, comparing tooth patch presence across...
+> -- *[[AStudyOfTheToothPatchOnTheSpot_16200]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -100,3 +115,8 @@ auto_enriched: true
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[BeaverScoping_18972]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[NotesFromLakeMohaveFishEffortF_13745]]
+- [[ReservoirFisheriesInvestigatio_14590]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[EarlyFieldNotes_15954]]
+- [[AStudyOfTheToothPatchOnTheSpot_16200]]

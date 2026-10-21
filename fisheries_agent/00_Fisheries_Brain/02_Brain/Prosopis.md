@@ -11,5 +11,9 @@ auto_enriched: true
 > - **Habitat:** All three species are dominant leguminous trees of the Sonoran and Coloradan deserts of the southwestern United States, occupying infertile, low-nitrogen desert soils. - **Soil inoculum source:** Composite 60 cm-deep soil samples (sand/gravel) collected beneath mature native trees ...
 > -- *[[NodulationAndNitrogenFixationA_1981]]*
 
+> This management plan proposes the establishment of the "Sierra San Luis" Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in northwestern Mexico along the border with the United States. The area spans the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]]...
+> -- *[[ManagementPlanSierraSanLuisWil_18303]]*
+
 ## Mentioned In
 - [[NodulationAndNitrogenFixationA_1981]]
+- [[ManagementPlanSierraSanLuisWil_18303]]

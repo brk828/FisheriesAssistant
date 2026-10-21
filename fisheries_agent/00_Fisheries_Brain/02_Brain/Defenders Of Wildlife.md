@@ -35,6 +35,9 @@ Defenders of Wildlife is a prominent conservation organization that has actively
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
 > -- *[[WrittenCommentsOnSupplementToD_20523]]*
 
+> On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
+> -- *[[WorkshopProceedings_18372]]*
+
 ## Mentioned In
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
 - [[MemorandumOnArizonaNativeFishe_1987_08_26]]
@@ -45,3 +48,4 @@ Defenders of Wildlife is a prominent conservation organization that has actively
 - [[WrittenCommentsOnDraftBiologic_20522]]
 - [[EndangeredAndThreatenedWildlif_11548]]
 - [[WrittenCommentsOnSupplementToD_20523]]
+- [[WorkshopProceedings_18372]]

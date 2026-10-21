@@ -56,6 +56,15 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 > This supplemental environmental assessment, prepared by the [[U.S. Bureau of Land Management]] (BLM) Phoenix District Office in December 1983, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*)...
 > -- *[[IntroductionOfGilaTopminnowAnd_17956]]*
 
+> This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
+> -- *[[CodeOfFederalRegulationsPartEn_11616]]*
+
+> This Supplemental Environmental Assessment, prepared by the [[Bureau of Land Management]] Phoenix District Office in May 1984, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into 11 selected...
+> -- *[[IntroductionOfGilaTopminnowAnd_17957]]*
+
+> This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
+> -- *[[FinalProgressReport_18563]]*
+
 ## Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReDescriptionOfAphaniusGinaon_1980]]
@@ -122,3 +131,6 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 - [[BuildingSuccessfulPartnerships_13226]]
 - [[IntraofficeMemoFishSurveys_13821]]
 - [[IntroductionOfGilaTopminnowAnd_17956]]
+- [[CodeOfFederalRegulationsPartEn_11616]]
+- [[IntroductionOfGilaTopminnowAnd_17957]]
+- [[FinalProgressReport_18563]]

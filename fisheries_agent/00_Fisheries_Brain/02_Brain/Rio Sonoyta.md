@@ -41,6 +41,9 @@ The Rio Sonoyta is a river system in the southwestern United States-Mexico borde
 > This 14-year study (1982-1995) documents the population ecology of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona. The population represents an endemic subspecies, the [[Rio Sonoyta Mud Turtle]],...
 > -- *[[PopulationEcologyOfTheSonoranM_21071]]*
 
+> This document describes the distinctive population of [[Desert Pupfish]] (*Cyprinodon macularius*) inhabiting [[Quitobaquito Spring]] in [[Organ Pipe National Monument]], Arizona, and the adjacent [[Rio Sonoyta]] drainage in Sonora, México. The Sonoyta population exhibits morphological differences...
+> -- *[[TheDesertPupfishOfOrganPipeNat_18555]]*
+
 ## Mentioned In
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -57,3 +60,4 @@ The Rio Sonoyta is a river system in the southwestern United States-Mexico borde
 - [[EndangeredAndThreatenedWildlif_11555]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
 - [[PopulationEcologyOfTheSonoranM_21071]]
+- [[TheDesertPupfishOfOrganPipeNat_18555]]

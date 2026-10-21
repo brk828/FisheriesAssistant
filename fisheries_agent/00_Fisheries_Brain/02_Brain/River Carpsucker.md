@@ -35,6 +35,15 @@ The river carpsucker is a freshwater cyprinid fish species found in North Americ
 > This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
 > -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This Job Completion Report documents a total fish population eradication project at [[Lake Pauline]], Texas, conducted under Federal Aid Project F-14-D-7 (Statewide Rough Fish Control) from March 6 to June 30, 1963. Pre-treatment surveys revealed a rough fish population exceeding 90 percent, with...
+> -- *[[StatewideRoughFishControleradi_14930]]*
+
+> This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
+> -- *[[BioassayAndUseOfPituitaryMater_15952]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
@@ -48,3 +57,6 @@ The river carpsucker is a freshwater cyprinid fish species found in North Americ
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[StatewideRoughFishControleradi_14930]]
+- [[BioassayAndUseOfPituitaryMater_15952]]

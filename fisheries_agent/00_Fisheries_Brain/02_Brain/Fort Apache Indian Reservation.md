@@ -20,6 +20,9 @@ The Fort Apache Indian Reservation in Arizona is a significant geographic and ad
 > This U.S. Fish and Wildlife Service memorandum (July 22, 1994) provides formal consultation findings for road construction project FAIR 42(3) on the Fort Apache Indian Reservation, Arizona. The project involves paving 0.67 miles of road, constructing a bridge over the [[East Fork White River]], and...
 > -- *[[ReviewOfProjectFair_21120]]*
 
+> This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
+> -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
+
 ## Mentioned In
 - [[CryopreservationAsAToolForGeno_13953]]
 - [[ProposalForTheHatchingRearingA_14816]]
@@ -29,3 +32,4 @@ The Fort Apache Indian Reservation in Arizona is a significant geographic and ad
 - [[UnregulatedActivitiesAdversely_1993_07_30]]
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[ReviewOfProjectFair_21120]]
+- [[NativeTroutOfArizonaAndNewMexi_13251]]

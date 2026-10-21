@@ -65,6 +65,12 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
 > -- *[[DraftLittleColoradoRiverSpined_11662]]*
 
+> This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
+> -- *[[StatewideRoughFishControlfishE_14929]]*
+
+> This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
+> -- *[[BioassayAndUseOfPituitaryMater_15952]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -116,3 +122,5 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
 - [[NorthernPikeControlAtLakeDavis_2001]]
 - [[DraftLittleColoradoRiverSpined_11662]]
+- [[StatewideRoughFishControlfishE_14929]]
+- [[BioassayAndUseOfPituitaryMater_15952]]

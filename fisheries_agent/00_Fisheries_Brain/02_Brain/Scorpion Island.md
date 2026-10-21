@@ -14,7 +14,11 @@ Scorpion Island is a geographical reference point located on Lake Mead at River 
 > **Mainstem Colorado River (Diamond Creek to Lake Mead):** - Water temperature: 12.1–15.5°C. - Turbidity high throughout trip; Secchi depths 0.1–0.4 m. - Near [[Scorpion Island]]: beach water 14.6°C vs. Scorpion Bay 18.5°C; Secchi depth 0.3 m (island) vs. 0.6 m (bay), indicating localized thermal/...
 > -- *[[EffectsOfInterimFlowsFromGlenC_13660]]*
 
+> This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
+
 ## Mentioned In
 - [[EffectsOfInterimFlowsFromGlenC_13654]]
 - [[EffectsOfInterimFlowsFromGlenC_13655]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
+- [[TheEffectsOfInterimFlowsFromGl_13620]]

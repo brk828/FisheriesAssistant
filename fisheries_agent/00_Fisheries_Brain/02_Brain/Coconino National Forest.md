@@ -26,6 +26,9 @@ The Coconino National Forest represents a critical management jurisdiction encom
 > This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
 > -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
 
+> This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
+> -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
+
 ## Mentioned In
 - [[LetterAndDraftAgendaForTheAriz_1993_09_07]]
 - [[LetterRegardingRazorbackSucker_1990_05_31]]
@@ -35,3 +38,4 @@ The Coconino National Forest represents a critical management jurisdiction encom
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
+- [[GilaTopminnowSitesInArizonaPro_19668]]

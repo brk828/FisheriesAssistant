@@ -32,6 +32,15 @@ Lake Michigan is one of the five Great Lakes and serves as a critical freshwater
 > This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
 > -- *[[AssessmentOfTheNeedForForageEn_17853]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
+> This comprehensive report summarizes 1964 pesticide research findings by the [[Fish and Wildlife Service]], covering both wildlife studies (conducted at [[Patuxent Wildlife Research Center]] and [[Denver Research Center]]) and fishery investigations. The document represents the fifth annual report...
+> -- *[[WildlifeStudiesPatuxentWildlif_14328]]*
+
+> Between 1963 and 1964, California and Nevada fisheries agencies introduced approximately 182,300 live [[Mysis relicta]] (opossum shrimp) into four western lakes: [[Lake Tahoe]], [[Lower Echo Lake]], [[Huntington Lake]], and [[Blue Lake]]. The primary objective was to establish a forage base for...
+> -- *[[IntroductionOfTheOpossumShrimp_20345]]*
+
 ## Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[OriginAndDispersalOfTheAlewife_1957]]
@@ -43,3 +52,6 @@ Lake Michigan is one of the five Great Lakes and serves as a critical freshwater
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
 - [[AssessmentOfTheNeedForForageEn_17853]]
+- [[FishAndFishEggDistributionRepo_13434]]
+- [[WildlifeStudiesPatuxentWildlif_14328]]
+- [[IntroductionOfTheOpossumShrimp_20345]]

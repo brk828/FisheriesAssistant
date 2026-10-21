@@ -38,6 +38,12 @@ The Mexican Spotted Owl is not directly relevant to fish science or aquatic ecol
 > SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
 > -- *[[BiologicalEvaluationOfTheAppro_15074]]*
 
+> This management plan proposes the establishment of the [[Sierra San Luis]] Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]] (Chihuahua), Mexico, along the U.S. border. The area forms part of the extreme...
+> -- *[[ManagementPlanSierraSanLuisWil_11399]]*
+
+> This Environmental Assessment and Habitat Conservation Plan (EA/HCP) addresses the issuance of an Incidental Take Permit under Section 10(a)(1)(B) of the [[Endangered Species Act]] for [[El Coronado Ranch]] (ECR) in [[Cochise County]], [[Arizona]]. The document covers ranching operations on 6,153...
+> -- *[[EnvironmentalAssessmentAndHabi_11684]]*
+
 ## Mentioned In
 - [[ConcurrenceLetterOnBearCanyonT_1997_02_21]]
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
@@ -53,3 +59,5 @@ The Mexican Spotted Owl is not directly relevant to fish science or aquatic ecol
 - [[BiologicalOpinionOnTheEffectsT_11884]]
 - [[BiologicalOpinionThatAuthoriza_11901]]
 - [[BiologicalEvaluationOfTheAppro_15074]]
+- [[ManagementPlanSierraSanLuisWil_11399]]
+- [[EnvironmentalAssessmentAndHabi_11684]]

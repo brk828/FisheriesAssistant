@@ -1,0 +1,64 @@
+---
+species: N/A
+common_name: N/A
+family: N/A
+habitat: "Madrean Montane Conifer Forest, Madrean Evergreen Forest, Plains Grasslands, Gran Bolson Grasslands, riparian"
+ocean_basin: N/A
+location: "Sierra San Luis, Agua Prieta (Sonora), Janos (Chihuahua), Mexico"
+tags: [conservation, protected-area, management-plan, biodiversity, aquatic-ecology, riparian-habitat, endangered-species]
+title: "Management plan Sierra San Luis wild and aquatic flora and fauna protection area municipalities of Agua Prieta, Sonora and Janos, Chihuahua, Mexico"
+source_id: "11399"
+minckley_id: "11399"
+source_citation: "S. Ocana (1994). Management plan Sierra San Luis wild and aquatic flora and fauna protection area municipalities of Agua Prieta, Sonora and Janos, Chihuahua, Mexico. Secretariat of Urban Infrastructure and Ecology. Minckley Library ID: 11399."
+source_file: "11399.pdf"
+text_extraction: "ocr"
+---
+# Sierra San Luis Wild and Aquatic Flora and Fauna Protection Area Management Plan
+
+#conservation #protected-area #biodiversity #aquatic-ecology #riparian-habitat #endangered-species #Mexico
+
+## Executive Summary
+
+This management plan proposes the establishment of the [[Sierra San Luis]] Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]] (Chihuahua), Mexico, along the U.S. border. The area forms part of the extreme northern [[Sierra Madre Occidental]] and includes diverse biotic communities ranging from mixed conifer forest and [[Madrean Evergreen Forest]] at higher elevations to natural grasslands and riparian vegetation in lower reaches. The reserve hosts 157 plant species (49 families), 395 vertebrate species, and 70 species under federal protection. The plan emphasizes community-based conservation, with private landowners (22 properties) serving as primary managers and executors. Economic activities include cattle ranching and beargrass harvesting. The area protects critical riparian corridors, particularly [[Cajon Bonito]] arroyo, described as "one of most intact low-desert water courses in the American Southwest." The management framework divides the reserve into a Protection and Natural Resources Recovery zone (14,400 ha) and an Extensive Use zone (44,600 ha).
+
+## Background & Description
+
+The [[Sierra San Luis]] reserve is situated between 31°05'-31°19'N and 108°40'30"-108°58'W, at the confluence of two major watersheds: the [[Rio Yaqui]] basin (Hydrologic Region 9) draining westward through [[San Bernardino Arroyo]] and [[Cajon Bonito]], and the [[Rio Casas Grandes]] watershed (Hydrologic Region 34) on the eastern slopes. Topography is broken and irregular, with elevations ranging from 1,300 to 2,520 meters above sea level. The mountainous spine runs northeast for approximately 25 km with maximum width of 8 km. Climate types include dry (mean annual precipitation 334.8 mm, temperature 17°C), temperate (10-12°C), and semi-cold (10-12°C with ~500 mm precipitation and >10 cm snowfall). Soils are predominantly litosol (>70% of surface) with regosol (25%) and xerosol (<5%). Geology consists primarily of rhyolite and acid-tufa from the Tertiary period (>70%), with Tertiary conglomerates in bajadas and alluvial soils in canyons.
+
+Four biotic communities occur according to [[Brown and Lowe]] (1980): [[Madrean Montane Conifer Forest]] (dominated by *Pinus ponderosa*, *P. discolor*, *P. engelmanii*, *Pseudotsuga mentziesii*), [[Madrean Evergreen Forest]] (oak-juniper-pine woodland with *Quercus arizonica*, *Q. oblongifolia*, *Q. hypoleucoides*, *Q. rugosa*, *Juniperus deppeana*), Plains Grasslands, and Gran Bolson (Chihuahuan Desert) Grasslands. Riparian gallery forest along permanent streams features *Populus fremontii*, *Salix exigua*, *Juglans major*, and *Cupressus arizonica*. The area experiences forest fires causing extensive damage to conifer communities.
+
+The human population is sparse (1 inhabitant per 15.5 km²), with only six dwellings housing 16 adults. All land is privately owned, divided among 22 properties, nine of which lie entirely within the conservation unit. Economic development centers on cattle ranching (1,249 bovines on nine ranches, 16,071 ha) and seasonal beargrass (*Nolina microcarpa*) harvesting (1,500 tons produced in municipality in 1992, valued at 225 million new pesos).
+
+## Ecological & Environmental Context
+
+The reserve represents a critical biogeographic corridor in northwestern Mexico and the southwestern United States, situated entirely within the nearctic biogeographic region with proximity to neotropical influences. It protects representative ecosystems of the northern [[Sierra Madre Occidental]] and serves as a water collection zone for the northern [[Rio Yaqui]] basin. The area maintains bio-ecological processes essential for regional biodiversity conservation.
+
+**Flora**: 157 plant species across 49 families documented. Only *Juglans major* is federally protected, but *Coryphanta robbinsorum* and *Talinum marginatum* are considered rare species with restricted distributions and potentially low genetic diversity. Exotic species present include *Eucalyptus* sp., *Cynodon dactylon*, *Roripa nasturtium-aquaticum*, *Oxalis corniculata*, and *Galium aparine*. Conifer forests occupy elevations above 2,100 m; oak forests dominate >70% of reserve surface at intermediate elevations (1,800-2,520 m); native grasslands occur below 1,650 m.
+
+**Fauna**: 395 vertebrate species recorded, with 70 under federal protection (38 threatened, 10 endangered, 13 special protection, 15 rare). 
+
+*Mammals* (76 species, 19 families): [[Black Bear]] (*Ursus americanus*, endangered, presence verified 1991 and 1993), historically [[Mexican Gray Wolf]] (*Canis lupus baileyi*), [[Jaguar]] (*Panthera onca*), [[Pronghorn Antelope]] (*Antilocapra americana mexicana*). Game species include *Sylvilagus audubonii*, *S. floridanus*, *Canis latrans*, *Lepus alleni*, *L. californicus*, *Odocoileus hemionus*, *Lynx rufus*, *Tayassu tajacu*, *Odocoileus virginianus*.
+
+*Birds* (248 species, 30 protected): [[Mexican Spotted Owl]] (*Strix occidentalis*, threatened), endangered falcons (*Falco columbarius*, *F. femoralis*, *F. mexicanus*, *F. peregrinus*). Game birds include *Meleagris gallopavo*, *Callipepla gambelii*, *Zenaida asiatica*, *Z. macroura*, *Columbina fasciata*. Many species use area for migration, particularly aquatic birds.
+
+*Reptiles* (51 species, 11 families, 38.93% of state total): 22 species protected. Notable: [[Ridgenosed Rattlesnake]] (*Crotalus willardi obscurus*, restricted distribution in mountains), [[Sonora Coral Snake]] (*Micruroides euryxanthus*, endangered), *Lampropeltis getulus*, *L. pyromelana*, multiple *Crotalus* species, *Terrapene ornata*.
+
+*Amphibians* (11 species, 29.73% of state total): Five protected (46.45% of reserve amphibians). [[Chiricahua Frog]] (*Rana chiricahuensis*, threatened), [[Tiger Salamander]] (*Ambystoma tigrinum*, special protection), [[Leopard Frog]] (*Rana berlandieri*, special protection), [[Lowland Leopard Frog]] (*Rana yavapaiensis*, rare). Populations have dramatically declined throughout Arizona, California, and New Mexico in last 15 years; species considered extirpated from many native localities.
+
+*Fish* (9 species, 14.75% of state total): Eight native, one introduced; seven native species federally listed (87.50% of total). [[Rio Yaqui]] watershed experiencing expansion of exotic fish distributions. [[Cajon Bonito]] maintains intact low-desert aquatic ecosystem. Exotic fishes shown to deplete native populations; Sonoran populations remain in good condition despite U.S. declines.
+
+**Threats**: Overgrazing in [[Madrean Evergreen Forest]] and conifer forest (current exploitation 12.9 ha/A.U., above recommended 19 ha/A.U.); forest fires causing vegetation loss; exotic species introductions; population declines of critical species; illegal hunting of deer, [[Black Bear]], wild turkey; knowledge gaps regarding species distributions and biological wealth.
+
+## Key Findings
+
+**Conservation Status & Biodiversity**: The [[Sierra San Luis]] reserve protects exceptional biodiversity with 395 vertebrate species, 70 under federal protection. The area serves as critical habitat for endangered species including [[Black Bear]] (*Ursus americanus*), potentially [[Mexican Gray Wolf]] (*Canis lupus baileyi*), [[Mexican Spotted Owl]] (*Strix occidentalis*), [[Ridgenosed Rattlesnake]] (*Crotalus willardi obscurus*), and multiple imperiled amphibians. Aquatic ecosystems, particularly [[Cajon Bonito]] arroyo, represent "one of most intact low-desert water courses in the American Southwest" with seven of eight native fish species federally protected.
+
+**Management Framework**: The plan proposes innovative community-based conservation with private landowners as primary managers. Organizational structure includes: (1) Governing Entity led by INE-SEDESOL coordinating federal (SARH), state, and municipal agencies; (2) Property Owners Council (22 properties, 59,000 ha) executing management; (3) Technical-Scientific Consulting Council providing expertise; (4) Reserve Administration liaison. Two management zones established: Protection and Natural Resources Recovery (14,400 ha) prohibiting forest harvest, mining, exotic introductions; Extensive Use (44,600 ha) permitting regulated cattle ranching and beargrass harvest.
+
+**Management Programs**: Four integrated programs proposed: (1) **Conservation Program** - flora/fauna management for critical species (*Coryphanta robbinsorum*, *Talinum marginatum*), exotic species control, reintroduction of native species, soil/vegetation restoration, fire prevention/control, inspection/patrol systems; (2) **Sustainable Use Program** - cattle ranching optimization (current 1,249 bovines, 16,071 ha), beargrass harvest regulation (1,500 tons/year municipal production), cynegetic use of white-tailed deer and wild turkey; (3) **Research and Monitoring Program** - biological and socioeconomic indicators, exotic species impact assessment, population status evaluation for listed species, continuous monitoring of [[Cajon Bonito]] for exotic fish introductions; (4) **Administration and Operations Program** - organizational structure formation, Annual Operating Programs, technical/financial reporting.
+
+**Aquatic Conservation Priorities**: Urgent protection measures required for native fish assemblage (87.50% federally listed). Continuous monitoring program mandated for [[Cajon Bonito]] to detect exotic fish introductions. Exotic fish expansion documented in [[Rio Yaqui]] watershed; exotics shown to deplete native populations. Amphibian populations require immediate status evaluation and recovery actions; [[Chiricahua Frog]] (*Rana chiricahuensis*) and [[Lowland Leopard Frog]] (*Rana yavapaiensis*) have experienced dramatic declines and extirpations throughout U.S. range in last 15 years. Riparian gallery forest along permanent streams provides critical habitat with high species richness and primary productivity.
+
+**Socioeconomic Integration**: Low population density (1 inhabitant/15.5 km²) facilitates conservation. Cattle ranching provides primary economic base; current stocking rate (12.9 ha/A.U.) exceeds recommended capacity (19 ha/A.U.) given pasturage conditions. Beargrass harvest generates 225 million new pesos annually (municipal level), with 90% exported to United States. Management plan seeks long-term sustainability of economic activities through agrostologic studies, pasturage maintenance techniques, genetic improvement of herds, and regulated harvest quotas. Financing strategy combines public funds (federal/state environmental programs), private funds (national/international conservation organizations), and intermediate/long-term self-financing through improved range and wildlife management.
+
+**Implementation Framework**: Planning follows National System of Democratic Planning with four phases: (1) Formulation (current management plan); (2) Implementation (Annual Operating Programs developed from management programs); (3) Control and follow-up (trimestral reports to Property Owners Council and Governing Entity); (4) Evaluation (financial audits, annual evaluation reports analyzing programmed vs. achieved objectives, ecological/socioeconomic changes). Critical success factor identified as sustained landowner participation and interest, requiring constant communication. Legal basis established through Political Constitution of the United Mexican States (Articles 25, 26, 27) and General Law of Ecological Equilibrium and Environmental Protection (LGEEPA, Articles 44-46, 54).

@@ -44,6 +44,9 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 > This 1948 report documents the introduction and establishment of [[Kokanee]] (Oncorhynchus nerka kennerlyi), a landlocked form of [[Pacific Sockeye Salmon]], into California waters beginning in 1941. The [[Bureau of Fish Conservation]] initiated experimental plantings in [[Salt Springs Reservoir]]...
 > -- *[[KokaneeInCalifornia_18108]]*
 
+> This comprehensive study evaluates California's catchable-sized trout stocking program from 1954-1958, during which approximately seven million 7-to-8-inch [[Rainbow Trout]] (Salmo gairdnerii) were stocked annually at a cost of $1,366,000. The research developed rapid, inexpensive survey methods to...
+> -- *[[CaliforniaCatchableTroutFisher_14146]]*
+
 ## Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -75,3 +78,4 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 - [[IssuesToDiscussAndResolveAtCui_14619]]
 - [[RecoveryObjectiveForDraftCuiui_14622]]
 - [[KokaneeInCalifornia_18108]]
+- [[CaliforniaCatchableTroutFisher_14146]]

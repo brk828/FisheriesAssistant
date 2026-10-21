@@ -14,8 +14,12 @@ auto_enriched: true
 > This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
 > -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
 ## Mentioned In
 - [[ARelativeStudyOfOxygenConsumpt_16948]]
 - [[SpawningPeriodicityOfTheRiverC_1965]]
 - [[EffectsOfOilRefineryAndDomesti_11169]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

@@ -23,6 +23,9 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 > **Post-dam alteration:** - Glen Canyon Dam eliminated the natural flood regime, reduced sediment supply to near zero downstream, and imposed cold, clear hypolimnetic water releases from Lake Powell. - Cold main-stem temperatures now preclude successful humpback chub spawning outside the warmer [[...
 > -- *[[PerspectivesOnRiverRestoration_15751]]*
 
+> This document presents the Fiscal Year 1998 Annual Monitoring and Research Plan for the [[Grand Canyon Monitoring and Research Center]] (GCMRC), representing the first year of implementation of the Long-Term Monitoring and Research Strategic Plan (1998-2002). The plan addresses monitoring and...
+> -- *[[FiscalYearAnnualMonitoringAndR_17765]]*
+
 ## Mentioned In
 - [[CommentsOnTheThirdDraftOfTheLo_1993_04_30]]
 - [[DraftBiologicalOpinionSummaryE_1993_05_17]]
@@ -31,3 +34,4 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 - [[PerspectivesOnRiverRestoration_15751]]
 - [[RecommendationForAHighDischarg_1993_07_19]]
 - [[ReviewOfCommissionOrderForCrus_1994_07_27]]
+- [[FiscalYearAnnualMonitoringAndR_17765]]

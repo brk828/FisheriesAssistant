@@ -26,6 +26,9 @@ Phytoplankton are microscopic photosynthetic organisms that form the foundation 
 > This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
 > -- *[[DraftEvaluationOfPotentialsFor_15827]]*
 
+> This technical report presents Habitat Suitability Index (HSI) models for [[Common Carp]] (*Cyprinus carpio*) in riverine and lacustrine habitats across the 48 contiguous United States. Developed by the U.S. Fish and Wildlife Service's Habitat Evaluation Procedures Group, the models synthesize...
+> -- *[[HabitatSuitabilityIndexModelsC_15766]]*
+
 ## Mentioned In
 - [[EcologicalValueOfFloodedBottom_20860]]
 - [[FactorsInfluencingFishDistribu_15011]]
@@ -42,3 +45,4 @@ Phytoplankton are microscopic photosynthetic organisms that form the foundation 
 - [[TheTemporalDistributionOfChlor_1966]]
 - [[TheoreticalAspectsOfTheCompara_1965]]
 - [[DraftEvaluationOfPotentialsFor_15827]]
+- [[HabitatSuitabilityIndexModelsC_15766]]

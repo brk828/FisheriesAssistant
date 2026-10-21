@@ -32,6 +32,9 @@ Hydrobiidae is a family of small freshwater and brackish-water gastropod mollusk
 > This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
 > -- *[[CurrentStatusOfEndangeredThrea_12695]]*
 
+> This Scholarly Studies Program proposal (Winter 1999 review cycle) by Robert Hershler ([[NMNH]]) and Hsiu-Ping Liu ([[Southwest Missouri State University]]) seeks funding to conduct a comprehensive phylogenetic and biogeographic analysis of *[[Pyrgulopsis]]*, the largest genus of nonmarine snails...
+> -- *[[PhylogenyOfPyrgulopsisSpringsn_16724]]*
+
 ## Mentioned In
 - [[ARemarkableSnailFaunaFromCoahu_1966]]
 - [[AustralianFreshwaterMolluscaCo_1994_06_30]]
@@ -44,3 +47,4 @@ Hydrobiidae is a family of small freshwater and brackish-water gastropod mollusk
 - [[EndangeredAndThreatenedWildlif_11741]]
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
+- [[PhylogenyOfPyrgulopsisSpringsn_16724]]

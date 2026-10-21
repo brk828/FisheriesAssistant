@@ -23,6 +23,9 @@ auto_enriched: true
 > This document reports the confirmed reproduction of illegally introduced [[Northern Pike]] (*Esox lucius*) in [[Parker Canyon Lake]], Arizona. First detected in summer 1997, juvenile pike were sampled by September 1998, confirming successful reproduction. The 124-acre lake southwest of [[Sierra...
 > -- *[[ReproductionOfNorthernPikeConf_20180]]*
 
+> This December 1993 letter from the [[Maricopa Audubon Society]] to the [[Arizona Department of Water Resources]] (ADWR) addresses concerns about a water policy change permitting subdivision development in the upper [[San Pedro River]] basin. The letter documents the ecological significance of the...
+> -- *[[ArizonaDepartmentOfWaterResour_18960]]*
+
 ## Mentioned In
 - [[GroundWaterGeomorphicProcesses_1988_08_28]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
@@ -30,3 +33,4 @@ auto_enriched: true
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
 - [[BeaverScoping_18972]]
 - [[ReproductionOfNorthernPikeConf_20180]]
+- [[ArizonaDepartmentOfWaterResour_18960]]

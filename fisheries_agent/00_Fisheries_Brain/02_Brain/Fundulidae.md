@@ -26,6 +26,9 @@ Fundulidae is a family of small freshwater and brackish-water killifishes native
 > This research evaluated twelve fish species for their suitability as bioassay animals for testing [[Oil-Refinery Effluent]] toxicity. The study, conducted at [[Oklahoma State University]] from February 1960 through December 1961 under a National Institutes of Health grant, assessed each species...
 > -- *[[TheSuitabilitiesAndRelativeRes_19185]]*
 
+> This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
+> -- *[[StatewideRoughFishControlfishE_14929]]*
+
 ## Mentioned In
 - [[BookReviewsTransactionsOfTheAm_1985]]
 - [[DescriptionsOfNewSpeciesOfFish_17274]]
@@ -34,3 +37,4 @@ Fundulidae is a family of small freshwater and brackish-water killifishes native
 - [[DescriptionOfANewSpeciesOfKill_19850]]
 - [[PatternsAndPredictorsOfFishDis_2013]]
 - [[TheSuitabilitiesAndRelativeRes_19185]]
+- [[StatewideRoughFishControlfishE_14929]]

@@ -23,6 +23,9 @@ Largemouth Black Bass (*Micropterus salmoides*) is a freshwater predatory fish s
 > This 1941 field guide (revised 1947), authored by Louis A. Krumholz and Walter R. Crowe of the Michigan Institute for Fisheries Research, addresses widespread angler confusion in distinguishing morphologically similar Michigan game and commercial fishes. The paper explicitly cautions against usin...
 > -- *[[HowToTellApartFishThatLookAlik_12444]]*
 
+> This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
+> -- *[[TheEnvironmentalConditionsOfAn_16280]]*
+
 ## Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[ChangesInGrowthRatesOfFishesFo_1948]]
@@ -34,3 +37,4 @@ Largemouth Black Bass (*Micropterus salmoides*) is a freshwater predatory fish s
 - [[ReproductionAndGrowthOfFishesI_1957_08_15]]
 - [[SomeFactorsRelatedToSuccessOfF_1957]]
 - [[TheStatusOfTheFishFaunaOfTheLa_14849]]
+- [[TheEnvironmentalConditionsOfAn_16280]]

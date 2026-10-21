@@ -17,8 +17,12 @@ The Redfin Shiner (*Notropis umbratilis*) is a small cyprinid minnow species com
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
+> -- *[[BioassayAndUseOfPituitaryMater_15952]]*
+
 ## Mentioned In
 - [[DistributionHabitatAndAbundanc_1959]]
 - [[FishesOfKinkaidCreekIllinois_14812]]
 - [[NewLocalityRecordsForSomeKansa_1981]]
 - [[WhatHaveICaught_12929]]
+- [[BioassayAndUseOfPituitaryMater_15952]]

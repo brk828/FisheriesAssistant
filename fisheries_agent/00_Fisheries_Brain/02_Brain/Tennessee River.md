@@ -29,6 +29,9 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 > The [[Boulder Darter]] (*Etheostoma wapiti*) is a small endangered member of the perch family (Percidae) listed by the U.S. Fish and Wildlife Service in 1988. This bottom-dwelling darter survives in only approximately 63 miles (101 kilometers) of the lower [[Elk River]] system in southern Tennessee...
 > -- *[[TheBoulderDarterAConservationC_14033]]*
 
+> This paper documents the rediscovery of [[Noturus flavipinnis]] (yellowfin madtom), an [[Ictaluridae]] catfish previously known only from 13 faded specimens collected between 1884 and 1893 from three widely separated localities in the [[Tennessee River]] drainage. The species was feared extinct...
+> -- *[[RediscoveryAndDescriptionOfThe_13513]]*
+
 ## Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[AFreshwaterMolluskSurveyOfNort_15956]]
@@ -43,3 +46,4 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[FishesOfAlabama_1990]]
 - [[TheBoulderDarterAConservationC_14033]]
+- [[RediscoveryAndDescriptionOfThe_13513]]

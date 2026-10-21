@@ -23,9 +23,13 @@ auto_enriched: true
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
+
 ## Mentioned In
 - [[CooperativeEcosystemStudiesUni_1999]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[AllozymicVariationAndSystemati_12782]]
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[HabitatUseAndStreamflowNeedsOf_11609]]

@@ -17,6 +17,9 @@ The Cumberland River is a major river system in the southeastern United States (
 > - **Study Habitat**: [[Stoner Creek]], a stream near Paris, Kentucky, characterized as a productive smallmouth bass stream with a substantial co-occurring population of suckers and other rough fish — selected specifically to test harvest selectivity in a stream with high game fish density. - **Re...
 > -- *[[TheStatusOfLegalizedGiggingAnd_16026]]*
 
+> This 1959 thesis by Judith A. Loring examines the reliability of the tooth patch on the tongue as a diagnostic character for identifying [[Micropterus punctulatus]] (spotted black bass). The study analyzed specimens from Kentucky and surrounding states, comparing tooth patch presence across...
+> -- *[[AStudyOfTheToothPatchOnTheSpot_16200]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
@@ -25,3 +28,4 @@ The Cumberland River is a major river system in the southeastern United States (
 - [[TheGrowthRatesOfSomeKentuckyFi_13369]]
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
+- [[AStudyOfTheToothPatchOnTheSpot_16200]]

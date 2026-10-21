@@ -14,6 +14,10 @@ auto_enriched: true
 > - **Historic abundance**: 1898 U.S. Commission of Fish and Fisheries report recorded 19,500 kg of "shovelnose sturgeon" landed from Alabama waters, with 18,000 kg from the Alabama River — later understood to represent the Alabama sturgeon specifically. - **Collection chronology**: Only 32 total m...
 > -- *[[EndangeredAndThreatenedWildlif_11660]]*
 
+> This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
+> -- *[[CodeOfFederalRegulationsPartEn_11616]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11660]]
 - [[StationProfileOfWarmSpringsNat_1993]]
+- [[CodeOfFederalRegulationsPartEn_11616]]

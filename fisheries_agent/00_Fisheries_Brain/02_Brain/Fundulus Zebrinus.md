@@ -26,9 +26,13 @@ Fundulus zebrinus, commonly known as the plains killifish, is a small cyprinodon
 > This document by Clark Hubbs from [[The University of Texas]] provides a comprehensive inventory of fish species in [[Big Bend National Park]]. The report documents 25 species confirmed within the park and 13 additional species expected but not yet collected (marked with asterisks). Species...
 > -- *[[ListOfFishesKnownOrExpectedToB_14196]]*
 
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
 ## Mentioned In
 - [[DistributionOfMidwesternFishes_1978]]
 - [[NicheBreadthFoodOfNotropisLutr_14678]]
 - [[ReportOnFishesOfTheColoradoRiv_1975]]
 - [[ReportOnKanabCreekResearchTrip_1993_05_20]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
+- [[EarlyFieldNotes_15954]]

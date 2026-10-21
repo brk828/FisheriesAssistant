@@ -62,6 +62,9 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 > This document provides comprehensive fiscal year 2000 program guidance for the [[Recovery Implementation Program]] for endangered fish species in the [[Upper Colorado River Basin]]. Issued by the [[U.S. Fish and Wildlife Service]] Region 6 on April 1, 1999, it outlines funding priorities, project...
 > -- *[[FiscalYearProgramGuidance_11762]]*
 
+> This document presents the Fiscal Year 1999 Work Plan for the Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin, approved by the Implementation Committee on September 10, 1998. The program addresses recovery of four endangered fish species: [[Colorado...
+> -- *[[FiscalYearWorkPlan_11756]]*
+
 ## Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[ErrataSheetFyWorkPlanForTheRec_20993]]
@@ -83,3 +86,4 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 - [[BureauOfReclamationAnnouncesPu_20788]]
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[FiscalYearProgramGuidance_11762]]
+- [[FiscalYearWorkPlan_11756]]

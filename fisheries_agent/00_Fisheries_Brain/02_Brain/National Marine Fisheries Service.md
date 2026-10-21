@@ -47,6 +47,12 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This 1994 U.S. District Court opinion addresses a legal challenge by the [[Idaho Department of Fish and Game]] (IDFG) against the [[National Marine Fisheries Service]] (NMFS) regarding the operation of the [[Federal Columbia River Power System]] (FCRPS) and its impacts on three listed [[Snake...
 > -- *[[SalmonDecision_19385]]*
 
+> This final rule, published February 23, 1998, codifies the Habitat Conservation Plan (HCP) assurances provided through section 10(a)(1)(B) permits issued under the [[Endangered Species Act]] (ESA). The "No Surprises" policy, first announced in 1994 by the [[Fish and Wildlife Service]] (FWS) and...
+> -- *[[HabitatConservationPlanAssuran_13191]]*
+
+> This February 1992 report by [[World Wildlife Fund]] analyzes Section 7 consultation data under the [[Endangered Species Act]] (ESA) from Fiscal Years 1987-1991. The study examines consultation records from every regional office of the [[U.S. Fish and Wildlife Service]] (FWS) and [[National Marine...
+> -- *[[ForConservingListedSpeciesTalk_15635]]*
+
 ## Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -71,3 +77,5 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[AnAnnotatedBibliographyOfAttem_15220]]
 - [[ListingEndangeredAndThreatened_13309]]
 - [[SalmonDecision_19385]]
+- [[HabitatConservationPlanAssuran_13191]]
+- [[ForConservingListedSpeciesTalk_15635]]

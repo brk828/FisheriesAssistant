@@ -23,6 +23,9 @@ Spring Chinook Salmon (*Oncorhynchus tshawytscha*) are an anadromous population 
 > - **Species reared:** Primarily **[[Fall Chinook Salmon]]** (anadromous, Columbia River origin stock), with concurrent research programs involving **[[Spring Chinook Salmon]]**, **[[Coho Salmon]]**, **[[White Sturgeon]]**, and (via collaborative aquaculture research) **[[Nile Tilapia]]** (*Oreoch...
 > -- *[[StationProfileOfTheAbernathySa_1993]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
 ## Mentioned In
 - [[CarsonNationalFishHatcheryStat_19570]]
 - [[EvaluationOfSpringChinookMigra_1969]]
@@ -37,3 +40,4 @@ Spring Chinook Salmon (*Oncorhynchus tshawytscha*) are an anadromous population 
 - [[StationProfileOfTheSpringCreek_19519]]
 - [[StationProfileOfWarmSpringsNat_1993]]
 - [[WinthropNationalFishHatcherySt_19511]]
+- [[FishAndFishEggDistributionRepo_13434]]

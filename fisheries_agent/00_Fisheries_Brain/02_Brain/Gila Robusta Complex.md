@@ -23,6 +23,9 @@ The Gila Robusta Complex refers to a group of closely related chub species and p
 > This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
 > -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
 
+> This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
+> -- *[[PartManagementConcernsPriority_14724]]*
+
 ## Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[FyAnnualProjectReportGilaTaxon_1993_12_06]]
@@ -30,3 +33,4 @@ The Gila Robusta Complex refers to a group of closely related chub species and p
 - [[LetterRegardingGilaElegansArti_1988_04_24]]
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
 - [[DetailsForStudiesOfTheGenusGil_13739]]
+- [[PartManagementConcernsPriority_14724]]

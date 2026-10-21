@@ -26,6 +26,9 @@ auto_enriched: true
 > This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
 > -- *[[DraftLittleColoradoRiverSpined_11662]]*
 
+> This 1964 newspaper article describes the construction of [[Blue Ridge Dam]] on [[East Clear Creek]] in Arizona's [[Mogollon Rim]] country, part of a three-phase water transfer project by [[Phelps Dodge Corporation]] to support expanded copper mining operations at [[Morenci]]. The $6 million dam,...
+> -- *[[DramaticBattleForWaterBehindTh_18467]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[Zoogeography_18180]]
@@ -35,3 +38,4 @@ auto_enriched: true
 - [[AllozymicVariationAndSystemati_12782]]
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[DraftLittleColoradoRiverSpined_11662]]
+- [[DramaticBattleForWaterBehindTh_18467]]

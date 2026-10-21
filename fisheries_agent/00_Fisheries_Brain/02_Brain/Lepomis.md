@@ -32,6 +32,9 @@ Lepomis is a genus of centrarchid fishes commonly known as sunfish, which are sm
 > This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
 > -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
 
+> This recovery plan addresses [[Gasterosteus aculeatus williamsoni]], the [[Unarmored Threespine Stickleback]], an endangered freshwater fish subspecies endemic to southern California. Prepared by the Unarmored Threespine Stickleback Recovery Team (led by Shoken Sasaki, California Department of Fish...
+> -- *[[RecoveryPlanForUnarmoredThrees_20518]]*
+
 ## Mentioned In
 - [[DonTThrowGrandpaBack_14198]]
 - [[IndirectEffectsOfFishOnForagin_1992]]
@@ -44,3 +47,4 @@ Lepomis is a genus of centrarchid fishes commonly known as sunfish, which are sm
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[NotesFromFieldWorkInTheCuatroc_12737]]
+- [[RecoveryPlanForUnarmoredThrees_20518]]

@@ -26,6 +26,9 @@ The Pallid Sturgeon (*Scaphirhynchus albus*) is a critically endangered species 
 > This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
 > -- *[[AlternativeApproachesToHcpsFor_16735]]*
 
+> This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
+> -- *[[CodeOfFederalRegulationsPartEn_11616]]*
+
 ## Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[BigMuddyDeathOfARiver_1999_04_13]]
@@ -41,3 +44,4 @@ The Pallid Sturgeon (*Scaphirhynchus albus*) is a critically endangered species 
 - [[StationProfileOfTheNeoshoNatio_1993]]
 - [[SubpermitAuthorizationLetterTo_1993_06_17]]
 - [[AlternativeApproachesToHcpsFor_16735]]
+- [[CodeOfFederalRegulationsPartEn_11616]]

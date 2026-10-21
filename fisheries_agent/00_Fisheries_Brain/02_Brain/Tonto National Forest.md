@@ -44,6 +44,9 @@ Tonto National Forest represents a key geographic region within Arizona's Gila R
 > This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
 > -- *[[AProposalToReestablishDesertSu_20730]]*
 
+> This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
+> -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
+
 ## Mentioned In
 - [[FederalEndangeredFishSpeciesCo_1993_11_19]]
 - [[FindingOfNoSignificantImpactAr_11493]]
@@ -66,3 +69,4 @@ Tonto National Forest represents a key geographic region within Arizona's Gila R
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[BiologicalEvaluationOfTheAppro_15074]]
 - [[AProposalToReestablishDesertSu_20730]]
+- [[GilaTopminnowSitesInArizonaPro_19668]]

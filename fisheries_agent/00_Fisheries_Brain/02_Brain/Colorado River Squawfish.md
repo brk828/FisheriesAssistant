@@ -53,6 +53,9 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 > This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
 > -- *[[LakePowellFisheriesInvestigati_14595]]*
 
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
 ## Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[ArthropodsAndVertebratesOfAriz_16220]]
@@ -79,3 +82,4 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 - [[TailwatersFisheriesInvestigati_14584]]
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
 - [[LakePowellFisheriesInvestigati_14595]]
+- [[DesertFishesCouncilEighteenthA_12829]]

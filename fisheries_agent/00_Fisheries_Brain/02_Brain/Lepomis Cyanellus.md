@@ -53,6 +53,15 @@ Lepomis cyanellus, commonly known as the green sunfish, is a native centrarchid 
 > This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
 > -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
 
+> This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
+> -- *[[ReservoirFisheriesInvestigatio_14590]]*
+
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This recovery plan addresses [[Gasterosteus aculeatus williamsoni]], the [[Unarmored Threespine Stickleback]], an endangered freshwater fish subspecies endemic to southern California. Prepared by the Unarmored Threespine Stickleback Recovery Team (led by Shoken Sasaki, California Department of Fish...
+> -- *[[RecoveryPlanForUnarmoredThrees_20518]]*
+
 ## Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[ARelativeStudyOfOxygenConsumpt_16948]]
@@ -78,3 +87,6 @@ Lepomis cyanellus, commonly known as the green sunfish, is a native centrarchid 
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[BeaverScoping_18972]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[ReservoirFisheriesInvestigatio_14590]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[RecoveryPlanForUnarmoredThrees_20518]]

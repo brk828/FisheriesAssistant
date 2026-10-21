@@ -11,5 +11,9 @@ auto_enriched: true
 > - **No fish-specific data exist in this source.** The paper is fundamentally an avifaunal risk assessment for geothermal development, produced by a fisheries-and-wildlife agency biologist but focused on birds. - The Gila River (Graham/Greenlee Counties, AZ) is identified as one of the least-alter...
 > -- *[[CommentsOnTheProposedDevelopme_1975_04_01]]*
 
+> This December 1993 letter from the [[Maricopa Audubon Society]] to the [[Arizona Department of Water Resources]] (ADWR) addresses concerns about a water policy change permitting subdivision development in the upper [[San Pedro River]] basin. The letter documents the ecological significance of the...
+> -- *[[ArizonaDepartmentOfWaterResour_18960]]*
+
 ## Mentioned In
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
+- [[ArizonaDepartmentOfWaterResour_18960]]

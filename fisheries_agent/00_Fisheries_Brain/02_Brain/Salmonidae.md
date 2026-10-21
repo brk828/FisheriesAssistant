@@ -50,6 +50,9 @@ Salmonidae is a family of teleost fishes that includes salmon, trout, and char s
 > This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
 > -- *[[UsFishAndWildlifeServicesAbili_20453]]*
 
+> This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
+> -- *[[CodeOfFederalRegulationsPartEn_11616]]*
+
 ## Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -150,3 +153,4 @@ Salmonidae is a family of teleost fishes that includes salmon, trout, and char s
 - [[FishesOfAfghanistanAnAnnotated_15968]]
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[UsFishAndWildlifeServicesAbili_20453]]
+- [[CodeOfFederalRegulationsPartEn_11616]]

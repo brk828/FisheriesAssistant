@@ -20,7 +20,11 @@ The Mexican Gray Wolf is a large carnivorous mammal listed as endangered under t
 > - **Federal Endangered Species Act listings** apply to: [[Sonoran Pronghorn]], [[Mexican Gray Wolf]], [[Ocelot]], [[Jaguar]] — all listed as "endangered." - **No federal or state listing** currently applies to [[Mule Deer]], [[Mountain Lion]], or the [[Jaguarundi]] (though jaguarundi sightings re...
 > -- *[[UmbrellacorridorDesignSpeciesP_1999_07_07]]*
 
+> This management plan proposes the establishment of the [[Sierra San Luis]] Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]] (Chihuahua), Mexico, along the U.S. border. The area forms part of the extreme...
+> -- *[[ManagementPlanSierraSanLuisWil_11399]]*
+
 ## Mentioned In
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
 - [[EndangeredSpeciesLawSubjectOfC_1998_12_31]]
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
+- [[ManagementPlanSierraSanLuisWil_11399]]

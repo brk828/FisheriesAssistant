@@ -20,6 +20,9 @@ Logperch refers to small freshwater darter fish of the genus Percina, characteri
 > - **Relative abundance by river (Table 1)**: Nearly all groups (gar, forage fish, channel catfish, flathead catfish, sunfish, crappie, bass) were more abundant per unit effort in the **Neosho River** than in the **Marais des Cygnes River**; only rough fish, bullhead, and freshwater drum were more...
 > -- *[[SurveyOfFishPopulationsInStrea_13990]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
 ## Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[ChangesInTheFishPopulationInTh_12453]]
@@ -28,3 +31,4 @@ Logperch refers to small freshwater darter fish of the genus Percina, characteri
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
 - [[ObservationsOnTheFoodHabitsOfT_12993]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

@@ -38,6 +38,9 @@ Cienega Creek is a desert stream system in the BLM Tucson Resource Area of Arizo
 > This biological opinion, issued May 7, 1993, by the [[U.S. Fish and Wildlife Service]] evaluates the effects of the [[Campbell Timber Sale]] and [[Isabelle Timber Sale]] on threatened [[Loach Minnow]] (*Tiaroga cobitis*) and [[Apache Trout]] (*Oncorhynchus apache*) in the upper [[Campbell Blue...
 > -- *[[BiologicalOpinionOnTheEffectsT_11884]]*
 
+> This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
+> -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
+
 ## Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
@@ -61,3 +64,4 @@ Cienega Creek is a desert stream system in the BLM Tucson Resource Area of Arizo
 - [[ConservationGeneticsInTheManag_20087]]
 - [[StatusReportForNaturalAndIntro_12972]]
 - [[BiologicalOpinionOnTheEffectsT_11884]]
+- [[AnUpdateStatusReportOfTheSonor_13824]]

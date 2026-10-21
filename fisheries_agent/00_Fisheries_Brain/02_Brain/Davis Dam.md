@@ -101,6 +101,15 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
 > -- *[[RainbowSmeltProposalReview_17848]]*
 
+> This memorandum documents a formal Section 7 consultation under the Endangered Species Act regarding the proposed [[Hoover Powerplant]] modification project and its potential impacts on the endangered [[Bonytail Chub]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake...
+> -- *[[FormalSectionConsultationOnThe_11836]]*
+
+> This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
+> -- *[[PartICurrentSituationPartIiAPr_13306]]*
+
+> This 1994 report to the [[US Bureau of Reclamation]] documents mitochondrial DNA (mtDNA) diversity in [[Razorback Sucker]] (*Xyrauchen texanus*) populations across the [[Colorado River Basin]]. The study examined both natural populations and hatchery-produced stocks at [[Dexter National Fish...
+> -- *[[GeneticDiversityOfRazorbackSuc_19126]]*
+
 ## Mentioned In
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -145,3 +154,6 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[EnvironmentalAssessmentForNati_13228]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
 - [[RainbowSmeltProposalReview_17848]]
+- [[FormalSectionConsultationOnThe_11836]]
+- [[PartICurrentSituationPartIiAPr_13306]]
+- [[GeneticDiversityOfRazorbackSuc_19126]]

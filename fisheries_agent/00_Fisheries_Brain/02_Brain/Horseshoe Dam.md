@@ -14,6 +14,10 @@ Horseshoe Dam is a structure on the Verde River in Arizona (Gila and Yavapai Cou
 > This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
 > -- *[[LetterToCentralArizonaWaterCon_17898]]*
 
+> This U.S. Geological Survey report, prepared in cooperation with the U.S. Bureau of Indian Affairs, documents predevelopment hydrologic conditions in the [[Salt River Indian Reservation]] area prior to non-Indian settlement (pre-1870s). The study was conducted to support water rights adjudication...
+> -- *[[PredevelopmentHydrologyOfTheSa_13330]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_11550]]
 - [[LetterToCentralArizonaWaterCon_17898]]
+- [[PredevelopmentHydrologyOfTheSa_13330]]

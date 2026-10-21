@@ -14,7 +14,11 @@ Castle Lake is a high-elevation cirque lake in California that served as a signi
 > This study documents the second phase (1947–1954) of a long-term investigation into trout population dynamics at [[Castle Lake]], California, following a 1946 rotenone treatment that eradicated all fish species present during the first phase. The research isolated [[Eastern Brook Trout]] (*Salvel...
 > -- *[[CastleLakeInvestigationSecondP_1956]]*
 
+> This comprehensive study evaluates California's catchable-sized trout stocking program from 1954-1958, during which approximately seven million 7-to-8-inch [[Rainbow Trout]] (Salmo gairdnerii) were stocked annually at a cost of $1,366,000. The research developed rapid, inexpensive survey methods to...
+> -- *[[CaliforniaCatchableTroutFisher_14146]]*
+
 ## Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[CastleLakeInvestigationSecondP_1956]]
 - [[IntestinalFlukesAsAPossibleCau_14427]]
+- [[CaliforniaCatchableTroutFisher_14146]]

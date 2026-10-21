@@ -35,6 +35,9 @@ Bullhead refers to a group of catfish species (genus Ictalurus, particularly bla
 > This report presents results from the first year (1980) of a three-year mail survey program designed to estimate statewide angling effort and fish harvest by Arizona's licensed resident anglers. A random 10% sample of Class A and Class F license holders received questionnaires asking about fishing...
 > -- *[[FishingEffortAndHarvestByArizo_15066]]*
 
+> This report documents a five-year experimental study (1946-1950) on twelve Michigan lakes testing liberalized fishing regulations for warm-water species, particularly pan fishes. The Michigan Legislature authorized experimental regulations on up to 20 lakes to evaluate effects of removing size...
+> -- *[[FishingInTwelveMichiganLakesUn_16148]]*
+
 ## Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -50,3 +53,4 @@ Bullhead refers to a group of catfish species (genus Ictalurus, particularly bla
 - [[RoughFishControl_20167]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
 - [[FishingEffortAndHarvestByArizo_15066]]
+- [[FishingInTwelveMichiganLakesUn_16148]]

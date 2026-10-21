@@ -17,8 +17,12 @@ The Southwestern United States in fish science contexts refers to a biogeographi
 > - Dissolved solids concentration in Southwestern streams is tightly coupled to discharge, but the relationship is basin- and season-specific rather than universal. - During sustained spring snowmelt high flow, conductance remains low and relatively stable (Rio Grande, San Acacia, 1945). - During ...
 > -- *[[FluctuationsInConcentrationOfD_16619]]*
 
+> This document appears to be an administrative cover page or header for a U.S. Department of the Interior geological survey related to experimental shaded fistail investigations in the [[Southwestern United States]]. The document references miscellaneous investigations and includes a budget...
+> -- *[[ExperimentalDigitalShadedrelie_15792]]*
+
 ## Mentioned In
 - [[ComputerizedDataBaseForExoticF_1991]]
 - [[ControversialTaxonomicNamesOfF_1993_08_05]]
 - [[FisheriesAcrossAmericaProjectD_18521]]
 - [[FluctuationsInConcentrationOfD_16619]]
+- [[ExperimentalDigitalShadedrelie_15792]]

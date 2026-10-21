@@ -23,6 +23,12 @@ auto_enriched: true
 > This 1956 study by J.B. Lackey documented the microscopic aquatic biota of the [[Clinch River]] system and adjacent waters in the [[Oak Ridge]] area, focusing on the relationship between suspended microorganisms and radioactivity from [[Oak Ridge National Laboratory]] (ORNL) operations. The survey...
 > -- *[[TheSuspendedMicrobiotaOfTheCli_12669]]*
 
+> This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
+> -- *[[ReservoirFisheriesInvestigatio_14590]]*
+
+> This comprehensive limnological study examines the phenomenon of metalimnetic oxygen maxima in 54 lakes worldwide, documenting 98 separate instances where oxygen concentrations exceeded 12.7 mg/L (the saturation value at 4°C). The research establishes a classification system for plus-heterograde...
+> -- *[[FurtherStudiesOnTheMetalimneti_15723]]*
+
 ## Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ReportOnLunaLakeApacheCountyAr_19495]]
@@ -30,3 +36,5 @@ auto_enriched: true
 - [[CorrespondenceRegardingMeeting_13520]]
 - [[SelectiveWithdrawalWorkgroupMe_15753]]
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
+- [[ReservoirFisheriesInvestigatio_14590]]
+- [[FurtherStudiesOnTheMetalimneti_15723]]

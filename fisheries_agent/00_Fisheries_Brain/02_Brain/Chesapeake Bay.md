@@ -38,6 +38,12 @@ The Chesapeake Bay is a major Atlantic estuarine system and historically signifi
 > This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
 > -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
+> This comprehensive report summarizes 1964 pesticide research findings by the [[Fish and Wildlife Service]], covering both wildlife studies (conducted at [[Patuxent Wildlife Research Center]] and [[Denver Research Center]]) and fishery investigations. The document represents the fifth annual report...
+> -- *[[WildlifeStudiesPatuxentWildlif_14328]]*
+
 ## Mentioned In
 - [[AnEvaluationOfStripedBassAngli_1969]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -52,3 +58,5 @@ The Chesapeake Bay is a major Atlantic estuarine system and historically signifi
 - [[ALiteratureReviewOfTheEffectsO_20478]]
 - [[TwoNewArgulidsCopepodaBranchur_18010]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[FishAndFishEggDistributionRepo_13434]]
+- [[WildlifeStudiesPatuxentWildlif_14328]]

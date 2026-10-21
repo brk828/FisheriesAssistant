@@ -53,6 +53,12 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 > This 1994 U.S. District Court opinion addresses a legal challenge by the [[Idaho Department of Fish and Game]] (IDFG) against the [[National Marine Fisheries Service]] (NMFS) regarding the operation of the [[Federal Columbia River Power System]] (FCRPS) and its impacts on three listed [[Snake...
 > -- *[[SalmonDecision_19385]]*
 
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
+> This Scholarly Studies Program proposal (Winter 1999 review cycle) by Robert Hershler ([[NMNH]]) and Hsiu-Ping Liu ([[Southwest Missouri State University]]) seeks funding to conduct a comprehensive phylogenetic and biogeographic analysis of *[[Pyrgulopsis]]*, the largest genus of nonmarine snails...
+> -- *[[PhylogenyOfPyrgulopsisSpringsn_16724]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[EvaluationOfSpringChinookMigra_1969]]
@@ -75,3 +81,5 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 - [[ThePleistoceneItsClimateCauses_14987]]
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[SalmonDecision_19385]]
+- [[DesertFishesCouncilEighteenthA_12829]]
+- [[PhylogenyOfPyrgulopsisSpringsn_16724]]

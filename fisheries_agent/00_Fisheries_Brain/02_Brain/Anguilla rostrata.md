@@ -26,6 +26,9 @@ Anguilla rostrata, commonly known as the American eel, is a catadromous fish spe
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
 ## Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 - [[NocturnalTerrestrialHabitsOfTh_1955_08_19]]
@@ -35,3 +38,4 @@ Anguilla rostrata, commonly known as the American eel, is a catadromous fish spe
 - [[DistributionalAndLocalVernacul_13815]]
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

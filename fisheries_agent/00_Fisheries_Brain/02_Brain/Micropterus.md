@@ -26,6 +26,9 @@ Micropterus is a genus of freshwater fish commonly known as black bass, native t
 > This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
 > -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
 
+> This 1959 thesis by Judith A. Loring examines the reliability of the tooth patch on the tongue as a diagnostic character for identifying [[Micropterus punctulatus]] (spotted black bass). The study analyzed specimens from Kentucky and surrounding states, comparing tooth patch presence across...
+> -- *[[AStudyOfTheToothPatchOnTheSpot_16200]]*
+
 ## Mentioned In
 - [[Development of Color Pattern in Pond-Reared Young of Five Bass Species (Micropterus) of Southeastern U. S.]]
 - [[ReportOfCommitteeOnResearch_1972]]
@@ -37,3 +40,4 @@ Micropterus is a genus of freshwater fish commonly known as black bass, native t
 - [[FishesOfAlabama_1990]]
 - [[DistributionBiologyAndConserva_2002]]
 - [[NotesFromFieldWorkInTheCuatroc_12737]]
+- [[AStudyOfTheToothPatchOnTheSpot_16200]]

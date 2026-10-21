@@ -23,6 +23,9 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This 1957 study by Eville Gorham presents detailed ionic composition analyses of nine lowland lakes ("meres") in Cheshire, England, comparing them to the world average freshwater and to waters of the [[English Lake District]]. While the paper is fundamentally a **water chemistry (limnochemistry)*...
 > -- *[[TheIonicCompositionOfSomeLowla_11054]]*
 
+> This technical report presents Habitat Suitability Index (HSI) models for [[Common Carp]] (*Cyprinus carpio*) in riverine and lacustrine habitats across the 48 contiguous United States. Developed by the U.S. Fish and Wildlife Service's Habitat Evaluation Procedures Group, the models synthesize...
+> -- *[[HabitatSuitabilityIndexModelsC_15766]]*
+
 ## Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -36,3 +39,4 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[Species Composition and Seasonal Distribution of Limnetic Crustacean Zooplankton of Northeastern Kansas]]
 - [[TheIonicCompositionOfSomeLowla_11054]]
 - [[ThePlanktonSamplerAnInstrument_1950]]
+- [[HabitatSuitabilityIndexModelsC_15766]]

@@ -26,6 +26,9 @@ auto_enriched: true
 > This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
 > -- *[[GilasanFranciscoRiversResource_18256]]*
 
+> This 1975 USDA Forest Service research note documents an experimental application of carbon black to accelerate midwinter snowmelt on [[Mule Deer]] winter range in [[Colorado]]. The study tested whether artificially darkening snow surfaces could increase forage availability during the critical...
+> -- *[[CarbonBlackIncreasesSnowmeltAn_16800]]*
+
 ## Mentioned In
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
@@ -33,3 +36,4 @@ auto_enriched: true
 - [[WildlifeStudiesDenverWildlifeR_14329]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[GilasanFranciscoRiversResource_18256]]
+- [[CarbonBlackIncreasesSnowmeltAn_16800]]

@@ -80,6 +80,15 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 > This draft document presents a comprehensive five-year road map (dated June 29, 1990) for the Recovery Implementation Program targeting four rare and endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DraftFiveyearRoadMap_11579]]*
 
+> This 1988 annual report documents the first year of a two-year radio telemetry study monitoring hatchery-reared [[Bonytail Chub]] (*Gila elegans*) released into the [[Green River]], Utah within [[Dinosaur National Monument]]. The project aimed to assess dispersal, behavior, habitat use, survival,...
+> -- *[[RadioTelemetryMonitoringOfStoc_11424]]*
+
+> This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
+
+> This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
+> -- *[[PartICurrentSituationPartIiAPr_13306]]*
+
 ## Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -116,3 +125,6 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
 - [[RecoveryPlanForTheHumpbackChub_11544]]
 - [[DraftFiveyearRoadMap_11579]]
+- [[RadioTelemetryMonitoringOfStoc_11424]]
+- [[HabitatUseAndStreamflowNeedsOf_11609]]
+- [[PartICurrentSituationPartIiAPr_13306]]

@@ -17,6 +17,9 @@ The Virgin River Basin is a tri-state aquatic ecosystem spanning Arizona, Utah, 
 > The **Desert Sucker** (*Catostomus clarki*, syn. *Pantosteus clarki*) is a small-to-medium bodied catostomid fish endemic to desert stream systems of the southwestern United States and northern Mexico, including the [[Gila River Basin]], [[Virgin River Basin]], [[Bill Williams River]] drainage, a...
 > -- *[[SpeciesAccountForDesertSuckerC_13160]]*
 
+> This five-year assessment evaluates conservation actions conducted for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during the initial term (1995-2000) of the Virgin Spinedace Conservation Agreement and Strategy (VSCAS). The VSCAS was developed in 1995 as a collaborative effort among...
+> -- *[[VirginSpinedaceLepidomedaMolli_14744]]*
+
 ## Mentioned In
 - [[CommentsOnDraftConservationAgr_1994_08_25]]
 - [[CommentsOnVirginSpinedaceConse_1994_12_13]]
@@ -25,3 +28,4 @@ The Virgin River Basin is a tri-state aquatic ecosystem spanning Arizona, Utah, 
 - [[TechnicalReportAnalyzingTheImp_14024]]
 - [[VirginRiverMonitoringArizonaSu_1994_10_05]]
 - [[VirginSpinedaceListingPackageR_1994_09_08]]
+- [[VirginSpinedaceLepidomedaMolli_14744]]

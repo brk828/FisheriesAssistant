@@ -56,6 +56,12 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 > This Fish Management Plan (FMP) establishes a 5-year cooperative framework among the [[National Park Service]], [[Utah Division of Wildlife Resources]], and [[Arizona Game and Fish Department]] for managing fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses the complex...
 > -- *[[GlenCanyonNationalRecreationAr_18334]]*
 
+> This document presents comprehensive water quality and aquatic ecology investigations conducted at [[Lake Powell]] on the [[Colorado River]] above [[Glen Canyon Dam]] during 1965-1969. The studies were undertaken to evaluate the feasibility of discharging cooling tower blowdown from the proposed...
+> -- *[[LakePowellQualityStudiesForThe_14955]]*
+
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
 ## Mentioned In
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
 - [[FlowModificationsToTheGlenCany_18321]]
@@ -76,3 +82,5 @@ Lees Ferry is a critical monitoring and study location in the Colorado River eco
 - [[GlenCanyonEnvironmentalStudies_19678]]
 - [[MovementOfHumpbackChubInTheCol_13639]]
 - [[GlenCanyonNationalRecreationAr_18334]]
+- [[LakePowellQualityStudiesForThe_14955]]
+- [[EarlyFieldNotes_15954]]

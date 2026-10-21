@@ -44,6 +44,9 @@ Lepidomeda vittata, commonly known as the Little Colorado spinedace, is a small-
 > This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
 > -- *[[DraftLittleColoradoRiverSpined_11662]]*
 
+> This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
+> -- *[[FinalProgressReport_18563]]*
+
 ## Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
 - [[JanuaryMeetingOfDesertFishesRe_1989_01_10]]
@@ -63,3 +66,4 @@ Lepidomeda vittata, commonly known as the Little Colorado spinedace, is a small-
 - [[EvolutionaryRelationshipsOfThe_19110]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[DraftLittleColoradoRiverSpined_11662]]
+- [[FinalProgressReport_18563]]

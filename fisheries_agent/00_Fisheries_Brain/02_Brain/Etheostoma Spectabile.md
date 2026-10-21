@@ -32,6 +32,9 @@ Etheostoma spectabile, commonly known as the Orangespotted Darter, is a small No
 > This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
 > -- *[[EvaluationAndRelativeResistanc_19097]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
 ## Mentioned In
 - [[AReassessmentOfTheDistribution_1980]]
 - [[EtheostomaRadiosumOrangebellyD_1986]]
@@ -44,3 +47,4 @@ Etheostoma spectabile, commonly known as the Orangespotted Darter, is a small No
 - [[GeographicVariationsInSurvival_14227]]
 - [[GeneticDifferentiationAmongSub_18497]]
 - [[EvaluationAndRelativeResistanc_19097]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

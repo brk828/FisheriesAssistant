@@ -23,6 +23,9 @@ The New Mexico Department of Game and Fish is the state regulatory agency respon
 > This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
 > -- *[[UsFishAndWildlifeServicesAbili_20453]]*
 
+> This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
+> -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[LetterClarifyingReportingDates_1987_08_03]]
@@ -34,3 +37,4 @@ The New Mexico Department of Game and Fish is the state regulatory agency respon
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
 - [[CyprinellaFormosaMimbresRiverE_21256]]
 - [[UsFishAndWildlifeServicesAbili_20453]]
+- [[NativeTroutOfArizonaAndNewMexi_13251]]

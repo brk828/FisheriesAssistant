@@ -20,6 +20,9 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 > - **Relative abundance by river (Table 1)**: Nearly all groups (gar, forage fish, channel catfish, flathead catfish, sunfish, crappie, bass) were more abundant per unit effort in the **Neosho River** than in the **Marais des Cygnes River**; only rough fish, bullhead, and freshwater drum were more...
 > -- *[[SurveyOfFishPopulationsInStrea_13990]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
 ## Mentioned In
 - [[DistributionHabitatAndAbundanc_1959]]
 - [[DurationOfSpermViabilityAsAFac_14210]]
@@ -27,3 +30,4 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 - [[FountainDarterEtheostomaFontic_1993_05_19]]
 - [[NaturalProductivityOfFishAndCr_1940]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

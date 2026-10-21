@@ -14,5 +14,9 @@ auto_enriched: true
 > 3. **Correction factors derived from graphical/nomographic relationships**: - Ammonia 48-hr LC50 increases with higher pH, higher alkalinity, and higher temperature but decreases with lower dissolved oxygen and higher free CO₂. - Phenol (gas-liquor form) is less toxic than pure phenol at a given ...
 > -- *[[TheCalculationOfTheAcuteToxici_1968_06_24]]*
 
+> This report documents new distribution records for two parasitic copepods of the family [[Lernaeopodidae]] in Yorkshire, England. [[Achtheres percarum]] Nordmann is recorded from three Yorkshire localities (Doe Park Reservoir, Bretton Park Lake, and River Ouse at Lower Dunsforth) representing...
+> -- *[[TheParasiticCopepodAchtheresPe_18884]]*
+
 ## Mentioned In
 - [[TheCalculationOfTheAcuteToxici_1968_06_24]]
+- [[TheParasiticCopepodAchtheresPe_18884]]

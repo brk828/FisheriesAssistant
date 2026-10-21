@@ -29,6 +29,9 @@ The Bluehead Mountain Sucker is a native catostomid (sucker family) species ende
 > This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
 > -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
 
+> This document comprises two reports from the [[Arizona Game and Fish Department]] covering native fish and trout studies in the [[Colorado River]] system below [[Glen Canyon Dam]] during 1991. The March 26-April 14, 1991 trip report details field sampling in mainstream and [[Little Colorado River]]...
+> -- *[[GlenCanyonEnvironmentalStudies_15938]]*
+
 ## Mentioned In
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -37,3 +40,4 @@ The Bluehead Mountain Sucker is a native catostomid (sucker family) species ende
 - [[LittleColoradoRiverSpinedaceSu_1991_07_29]]
 - [[StatewideFisheriesResearch_13299]]
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[GlenCanyonEnvironmentalStudies_15938]]

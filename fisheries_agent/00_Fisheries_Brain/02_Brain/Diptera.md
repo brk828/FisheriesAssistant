@@ -26,6 +26,9 @@ Diptera is an order of insects that includes flies and midges, which are ecologi
 > This 1986 NSF memorandum from James P. Collins (Program Director, PBPE) to John L. Brooks (Division Director, BSR) outlines the rationale for developing a research emphasis in evolutionary genetics for the FY 88 budget. The document traces the historical convergence of genetics, ecology, and...
 > -- *[[DevelopmentOfSupportForAResear_17152]]*
 
+> This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
+> -- *[[AdverseBiologicalOpinionIndian_15638]]*
+
 ## Mentioned In
 - [[FoodHabitsOfTheYellowBassRoccu_1963]]
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
@@ -35,3 +38,4 @@ Diptera is an order of insects that includes flies and midges, which are ecologi
 - [[TheInstarsOfSimuliumOrnatumVar_20678]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[DevelopmentOfSupportForAResear_17152]]
+- [[AdverseBiologicalOpinionIndian_15638]]

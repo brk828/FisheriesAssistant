@@ -17,9 +17,13 @@ Adaptive management in fish science and aquatic ecology is an iterative decision
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
 > -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
 
+> This final rule, published February 23, 1998, codifies the Habitat Conservation Plan (HCP) assurances provided through section 10(a)(1)(B) permits issued under the [[Endangered Species Act]] (ESA). The "No Surprises" policy, first announced in 1994 by the [[Fish and Wildlife Service]] (FWS) and...
+> -- *[[HabitatConservationPlanAssuran_13191]]*
+
 ## Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1993_09_14]]
 - [[PerspectivesOnRiverRestoration_15751]]
 - [[ReviewOfInstreamFlowMethodsAnd_1993]]
 - [[HighlightsOfAPeerReviewAndRoun_11448]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
+- [[HabitatConservationPlanAssuran_13191]]

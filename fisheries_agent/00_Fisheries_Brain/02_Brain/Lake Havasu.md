@@ -110,6 +110,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
 > -- *[[AssessmentOfTheNeedForForageEn_17853]]*
 
+> This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
+> -- *[[PartManagementConcernsPriority_14724]]*
+
 ## Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -186,3 +189,4 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[SummaryBiologicalOpinionOnUsFi_11657]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
 - [[AssessmentOfTheNeedForForageEn_17853]]
+- [[PartManagementConcernsPriority_14724]]

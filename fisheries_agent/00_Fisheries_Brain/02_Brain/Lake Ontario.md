@@ -29,6 +29,9 @@ Lake Ontario is one of the five Great Lakes and represents a critical conservati
 > This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
 > -- *[[AssessmentOfTheNeedForForageEn_17853]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[ExperimentalIntroductionsOfFre_1960_01_01]]
@@ -38,3 +41,4 @@ Lake Ontario is one of the five Great Lakes and represents a critical conservati
 - [[TheTemporalDistributionOfChlor_1966]]
 - [[Whitefish_19228]]
 - [[AssessmentOfTheNeedForForageEn_17853]]
+- [[FishAndFishEggDistributionRepo_13434]]

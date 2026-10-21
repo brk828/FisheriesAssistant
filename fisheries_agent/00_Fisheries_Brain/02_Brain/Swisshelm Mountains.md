@@ -20,8 +20,12 @@ The Swisshelm Mountains are a mountain range in southeastern Arizona whose weste
 > This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
 > -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
 
+> This study examined interactions between the endangered [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*) and introduced [[Mosquitofish]] (*Gambusia affinis*) at [[San Bernardino National Wildlife Refuge]], southeastern [[Arizona]], from May 1985 through October 1987. The research...
+> -- *[[InteractionsBetweenPoeciliopsi_16887]]*
+
 ## Mentioned In
 - [[ABotanistInArizonaTerritoryJac_13225]]
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[InteractionsBetweenPoeciliopsi_16887]]

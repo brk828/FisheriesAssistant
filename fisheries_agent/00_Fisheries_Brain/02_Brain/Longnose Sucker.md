@@ -29,6 +29,9 @@ The Longnose Sucker (Catostomus catostomus) is a benthic cyprinid fish species c
 > This final report documents a 10-month field investigation (February–November 1976) by [[Northwest Fisheries Research]] examining the status of four endangered and threatened fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]]...
 > -- *[[AnInvestigationOfEndangeredAnd_12516]]*
 
+> This report presents results from C¹⁴ primary productivity studies conducted at [[Twin Lakes]], [[Colorado]], from 1973-81, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study characterizes baseline primary production rates in these high-mountain lakes (2802 m elevation)...
+> -- *[[PrimaryProductivityCAtTwinLake_12652]]*
+
 ## Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[FreshwaterFishesOfTheEasternAr_18569]]
@@ -39,3 +42,4 @@ The Longnose Sucker (Catostomus catostomus) is a benthic cyprinid fish species c
 - [[ThePopulationAndMovementOfFish_1952]]
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[AnInvestigationOfEndangeredAnd_12516]]
+- [[PrimaryProductivityCAtTwinLake_12652]]

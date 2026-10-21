@@ -17,8 +17,12 @@ auto_enriched: true
 > **Taxonomic & Life-History Summary**: [[June Sucker]] (*Chasmistes liorus*) is a threatened endemic catostomid in [[Utah Lake]], challenged by degraded ecosystem conditions. The species relies on zooplankton and macroinvertebrates as primary prey (May et al. 2021). Spawning abundance has increased...
 > -- *[[UtahLakeEcosystemMonitoringToS_2023]]*
 
+> This article from the New York State Conservation Department discusses the challenges of aquatic weed control in freshwater systems. Written by Chief Aquatic Biologist John R. Greeley, it addresses the subjective nature of what constitutes a "weed," the complexity of control methods, and the...
+> -- *[[WaterWeeds_19211]]*
+
 ## Mentioned In
 - [[AquaticResourceSurveyOfTheUnli_17285]]
 - [[FisheryInventoryOfTheCoachella_13687]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
+- [[WaterWeeds_19211]]

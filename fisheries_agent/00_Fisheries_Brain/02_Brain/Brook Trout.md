@@ -113,6 +113,15 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > This experimental study compared an all-pellet dry food diet with a traditional pellet-plus-meat diet for [[Brook Trout]] and [[Brown Trout]] in New York State hatcheries from November 1957 through April 1958. Nine pairs of hatchery ponds across six facilities were used to evaluate growth,...
 > -- *[[PelletedDryFoodAsATotalDietFor_20344]]*
 
+> This comprehensive 1954 report from the [[Cortland Hatchery]] presents multiple experimental studies on [[Brook Trout]] (Salvelinus fontinalis) and [[Brown Trout]] (Salmo trutta) nutrition and physiology. The research, conducted cooperatively between the [[New York Conservation Department]], [[Fish...
+> -- *[[TheNutritionOfTroutCortalandHa_11168]]*
+
+> This report presents results from C¹⁴ primary productivity studies conducted at [[Twin Lakes]], [[Colorado]], from 1973-81, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study characterizes baseline primary production rates in these high-mountain lakes (2802 m elevation)...
+> -- *[[PrimaryProductivityCAtTwinLake_12652]]*
+
+> This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
+> -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
+
 ## Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -217,3 +226,6 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[EffectOfSortingBrownTroutOnSex_20693]]
 - [[DraftLittleColoradoRiverSpined_11662]]
 - [[PelletedDryFoodAsATotalDietFor_20344]]
+- [[TheNutritionOfTroutCortalandHa_11168]]
+- [[PrimaryProductivityCAtTwinLake_12652]]
+- [[NativeTroutOfArizonaAndNewMexi_13251]]

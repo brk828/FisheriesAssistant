@@ -38,6 +38,12 @@ The Missouri River is a major North American river system of significant importa
 > This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
 > -- *[[RainbowSmeltProposalReview_17848]]*
 
+> The [[Missouri Department of Conservation]] acquired the 4,318-acre [[Columbia Bottom Conservation Area]] at the confluence of the [[Missouri River]] and [[Mississippi River]] from the City of Saint Louis in September 1997. This article from August 1998 describes the agency's public engagement...
+> -- *[[MissouriansToHelpShapeFutureOf_11242]]*
+
+> This technical report presents Habitat Suitability Index (HSI) models for [[Common Carp]] (*Cyprinus carpio*) in riverine and lacustrine habitats across the 48 contiguous United States. Developed by the U.S. Fish and Wildlife Service's Habitat Evaluation Procedures Group, the models synthesize...
+> -- *[[HabitatSuitabilityIndexModelsC_15766]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -59,3 +65,5 @@ The Missouri River is a major North American river system of significant importa
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
 - [[WhatHaveICaught_12929]]
 - [[RainbowSmeltProposalReview_17848]]
+- [[MissouriansToHelpShapeFutureOf_11242]]
+- [[HabitatSuitabilityIndexModelsC_15766]]

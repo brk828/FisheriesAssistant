@@ -14,7 +14,11 @@ auto_enriched: true
 > This correspondence from the [[Maricopa Audubon Society]] to Representative John Shadegg, dated October 31, 1995, addresses concerns regarding proposed federal legislation that would weaken protections for imperiled wildlife. The letter specifically critiques H.R. 2364 (the John Shadegg Endangered...
 > -- *[[FailureToAnswerCorrespondenceH_18973]]*
 
+> This December 1993 letter from the [[Maricopa Audubon Society]] to the [[Arizona Department of Water Resources]] (ADWR) addresses concerns about a water policy change permitting subdivision development in the upper [[San Pedro River]] basin. The letter documents the ecological significance of the...
+> -- *[[ArizonaDepartmentOfWaterResour_18960]]*
+
 ## Mentioned In
 - [[RulingOrdersUniversityToStopCu_1994_07_29]]
 - [[BureauOfReclamationsFailureToR_18964]]
 - [[FailureToAnswerCorrespondenceH_18973]]
+- [[ArizonaDepartmentOfWaterResour_18960]]

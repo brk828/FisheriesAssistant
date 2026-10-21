@@ -41,6 +41,12 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 > This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
 > -- *[[EnvironmentalAssessmentForNati_13228]]*
 
+> The [[Missouri Department of Conservation]] acquired the 4,318-acre [[Columbia Bottom Conservation Area]] at the confluence of the [[Missouri River]] and [[Mississippi River]] from the City of Saint Louis in September 1997. This article from August 1998 describes the agency's public engagement...
+> -- *[[MissouriansToHelpShapeFutureOf_11242]]*
+
+> This biological opinion, issued October 14, 1997, addresses the realignment of Forest Road 281 near [[Bush Creek]] on the upper [[Blue River]], [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] (lead agency) and [[U.S. Army Corps of Engineers]] proposed rerouting approximately 1,200...
+> -- *[[BiologicalOpinionSummaryBlueRi_11685]]*
+
 ## Mentioned In
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
@@ -55,3 +61,5 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[ManagementGroupMeetingSummary_19219]]
 - [[EnvironmentalAssessmentForNati_13228]]
+- [[MissouriansToHelpShapeFutureOf_11242]]
+- [[BiologicalOpinionSummaryBlueRi_11685]]

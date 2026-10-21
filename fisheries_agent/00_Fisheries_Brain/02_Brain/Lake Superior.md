@@ -32,6 +32,9 @@ Lake Superior is the largest of the Great Lakes and serves as a critical freshwa
 > This comprehensive review by [[Peter S. Maitland]] examines the global status of fish conservation, covering approximately 30,000 described fish species worldwide. Despite fish representing three in every five vertebrate species, they have historically received minimal conservation attention...
 > -- *[[TheConservationOfFishPastAndPr_19359]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
 ## Mentioned In
 - [[IntraSpecificVariationInTheCom_11434]]
 - [[OriginAndDispersalOfTheAlewife_1957]]
@@ -43,3 +46,4 @@ Lake Superior is the largest of the Great Lakes and serves as a critical freshwa
 - [[MichiganFishPredators_12681]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
 - [[TheConservationOfFishPastAndPr_19359]]
+- [[FishAndFishEggDistributionRepo_13434]]

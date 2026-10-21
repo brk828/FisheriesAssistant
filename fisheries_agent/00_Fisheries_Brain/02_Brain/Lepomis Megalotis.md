@@ -23,6 +23,9 @@ auto_enriched: true
 > This document comprises field collection notes and correspondence from ichthyological surveys conducted in the [[Cuatro Ciénegas Basin]], [[Coahuila]], [[Mexico]]. The notes document fish collections from multiple spring-fed lagoons and streams, with tissue samples preserved for laboratory...
 > -- *[[NotesFromFieldWorkInTheCuatroc_12737]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
 ## Mentioned In
 - [[AspectsOfTheLifeHistoryOfTheOz_15231]]
 - [[TheReproductiveBehaviorOfTheGr_14522]]
@@ -30,3 +33,4 @@ auto_enriched: true
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[TemporalChangesInTheGambusiaHe_15772]]
 - [[NotesFromFieldWorkInTheCuatroc_12737]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

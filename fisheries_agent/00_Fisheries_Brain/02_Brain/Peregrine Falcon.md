@@ -71,6 +71,12 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 > This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
 > -- *[[GilasanFranciscoRiversResource_18256]]*
 
+> This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
+> -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
+
+> This comprehensive report summarizes 1964 pesticide research findings by the [[Fish and Wildlife Service]], covering both wildlife studies (conducted at [[Patuxent Wildlife Research Center]] and [[Denver Research Center]]) and fishery investigations. The document represents the fifth annual report...
+> -- *[[WildlifeStudiesPatuxentWildlif_14328]]*
+
 ## Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -98,3 +104,5 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[BiologicalOpinionForTheSanBern_13329]]
 - [[GilasanFranciscoRiversResource_18256]]
+- [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[WildlifeStudiesPatuxentWildlif_14328]]

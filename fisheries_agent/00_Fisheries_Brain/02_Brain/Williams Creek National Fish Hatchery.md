@@ -23,6 +23,9 @@ Williams Creek National Fish Hatchery is a federal aquaculture facility that ser
 > - **Primary role**: Disease certification, fish health diagnostics, and water effluent analysis for National Fish Hatcheries, State Fish Hatcheries, and commercial aquaculture operations. - **National Fish Hatcheries served**: - Arizona: [[Alchesay National Fish Hatchery]], [[Willow Beach Nationa...
 > -- *[[StationProfileOfTheP_1991_11_28]]*
 
+> This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
+> -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
+
 ## Mentioned In
 - [[AnalysisOfApacheTroutPopulatio_15424]]
 - [[AnnualReportFisheryManagementP_1970_02_06]]
@@ -30,3 +33,4 @@ Williams Creek National Fish Hatchery is a federal aquaculture facility that ser
 - [[ReportOnPrtActivityFromDecembe_1992_12_01]]
 - [[StationProfileOfTheAlchesayNat_1991]]
 - [[StationProfileOfTheP_1991_11_28]]
+- [[NativeTroutOfArizonaAndNewMexi_13251]]

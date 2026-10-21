@@ -14,6 +14,10 @@ The Basin and Range refers to a geological province in western North America cha
 > This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
 > -- *[[GeneticVariationAmongLowerColo_12776]]*
 
+> This U.S. Geological Survey report, prepared in cooperation with the U.S. Bureau of Indian Affairs, documents predevelopment hydrologic conditions in the [[Salt River Indian Reservation]] area prior to non-Indian settlement (pre-1870s). The study was conducted to support water rights adjudication...
+> -- *[[PredevelopmentHydrologyOfTheSa_13330]]*
+
 ## Mentioned In
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[GeneticVariationAmongLowerColo_12776]]
+- [[PredevelopmentHydrologyOfTheSa_13330]]

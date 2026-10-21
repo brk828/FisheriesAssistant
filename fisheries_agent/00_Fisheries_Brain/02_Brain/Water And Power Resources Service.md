@@ -17,9 +17,17 @@ The Water and Power Resources Service (WAPRS) refers to a federal agency or bure
 > This 1981 technical report by [[Larry J. Paulson]] from the [[Lake Mead Limnological Research Center]] demonstrates that hydroelectric dam operations can significantly reduce evaporation from [[Lake Mead]] and decrease salinity in the [[Colorado River]]. The construction of [[Glen Canyon Dam]] in...
 > -- *[[UseOfHydroelectricDamsToContro_11232]]*
 
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[AnotherRazorbackCaughtInCanal_18270]]
 - [[ChangeInSpeciesStatusInRegardT_1980_06_01]]
 - [[ConsultationRequirementsForSpe_14815]]
 - [[MemorandumOnUpdateOfHbsTelemet_1980_02_25]]
 - [[UseOfHydroelectricDamsToContro_11232]]
+- [[ColoradoRiverFisheriesInvestig_18481]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

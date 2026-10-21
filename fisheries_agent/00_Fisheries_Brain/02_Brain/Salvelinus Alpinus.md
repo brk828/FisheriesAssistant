@@ -8,6 +8,10 @@ auto_enriched: true
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> Field notes from a fish survey conducted at [[Lake Mjømane]] on November 26-28, 1994. The document records catch data for multiple fish species including [[Coregonus lavaretus]] (whitefish), [[Salmo salar]] (salmon), [[Salvelinus alpinus]] (Arctic char), and other species. Data includes specimen...
+> -- *[[NotesFromLakeMohaveFishEffortF_13745]]*
+
 ## Mentioned In
 - [[GrowthRatesOfTheCharSalvelinus_15166]]
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[NotesFromLakeMohaveFishEffortF_13745]]

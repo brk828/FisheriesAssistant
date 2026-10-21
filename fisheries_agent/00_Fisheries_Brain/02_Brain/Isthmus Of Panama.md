@@ -11,6 +11,10 @@ auto_enriched: true
 > This 1971 academic paper by John N. Rinne examines the [[Pleistocene Epoch]] from multiple perspectives: climatic causes, chronological methods, hydrological conditions, and faunal evidence. The document emphasizes that the Pleistocene was characterized by dramatic climatic oscillations, extensive...
 > -- *[[ThePleistoceneItsClimateCauses_14987]]*
 
+> This taxonomic study documents a small collection of Isospondylous and Characoid fishes from [[British Honduras]] (modern [[Belize]]) and neighboring [[Guatemala]], a poorly known Central American region. The collection includes representatives from two families: [[Dorosomidae]] (gizzard shads) and...
+> -- *[[InQuestOfTheMayansSequelIiOnCe_16973]]*
+
 ## Mentioned In
 - [[InfluenceOfLandMassesOnTheDist_14157]]
 - [[ThePleistoceneItsClimateCauses_14987]]
+- [[InQuestOfTheMayansSequelIiOnCe_16973]]

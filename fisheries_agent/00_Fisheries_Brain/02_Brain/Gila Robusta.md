@@ -83,6 +83,12 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 > This 1988 correspondence from Arizona State University to the U.S. Fish & Wildlife Service proposes using video camera (camcorder) technology instead of traditional 35mm photography for collecting morphometric data from endangered [[Gila Cypha]] (humpback chub) and [[Gila Robusta]] (roundtail chub)...
 > -- *[[GilaMorphometry_19079]]*
 
+> This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
+> -- *[[ReservoirFisheriesInvestigatio_14590]]*
+
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AResumeOfTheDetoxificationPhas_1963]]
@@ -145,3 +151,5 @@ Gila robusta, commonly known as the roundtail chub, is a native cyprinid fish sp
 - [[BeaverScoping_18972]]
 - [[DetailsForStudiesOfTheGenusGil_13739]]
 - [[GilaMorphometry_19079]]
+- [[ReservoirFisheriesInvestigatio_14590]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

@@ -41,6 +41,9 @@ Grand Junction is a geographic sampling location on the Colorado River mainstem 
 > This article describes conservation efforts in Colorado to save four unique big-river fish species found nowhere else on Earth: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Humpback Sucker]] (*Xyrauchen texanus*)....
 > -- *[[SavingColoradosBigRiverFish_20737]]*
 
+> This memorandum documents a trip report from the Upper Colorado River endangered fishes researchers meeting held February 24-25, 1987 in Grand Junction, Colorado. The meeting covered standardized monitoring programs, habitat research, captive spawning efforts, and recovery planning for four...
+> -- *[[TripReportForUpperColoradoRive_12974]]*
+
 ## Mentioned In
 - [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
 - [[AnnualReportOnRazorbackSuckerM_1992_11_24]]
@@ -52,3 +55,4 @@ Grand Junction is a geographic sampling location on the Colorado River mainstem 
 - [[AStudyToDetermineTheBiological_11576]]
 - [[ColoradoRiverFishesMeetingFebr_15252]]
 - [[SavingColoradosBigRiverFish_20737]]
+- [[TripReportForUpperColoradoRive_12974]]

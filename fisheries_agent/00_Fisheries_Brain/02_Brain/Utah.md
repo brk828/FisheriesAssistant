@@ -20,6 +20,9 @@ Utah is a geographic region in the western United States that serves as a critic
 > This workshop summary addresses the longstanding controversy between wild and stocked [[Trout]] management philosophies in the [[Rocky Mountain Region]]. The document synthesizes insights from fisheries managers, biologists, and anglers regarding the appropriate balance between maintaining wild,...
 > -- *[[SummaryStatementOfInsightsFrom_20854]]*
 
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[EndanderedAndThreatenedWildlif_16520]]
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
@@ -30,3 +33,4 @@ Utah is a geographic region in the western United States that serves as a critic
 - [[LectureNotesFromBiologyClass_13784]]
 - [[InterimProceduresForStockingNo_15423]]
 - [[SummaryStatementOfInsightsFrom_20854]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

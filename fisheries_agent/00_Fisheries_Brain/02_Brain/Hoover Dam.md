@@ -125,6 +125,12 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 > This 1988 correspondence from the [[Utah Division of Wildlife Resources]] defends a proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] and the [[Colorado River]] system as a biological control mechanism for stunted [[Striped Bass]] (*Morone saxatilis*) populations. The...
 > -- *[[RainbowSmeltProposalReview_17848]]*
 
+> This document is the revised recovery plan for the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*), superseding the original 1978 plan. Prepared by the [[Colorado River Fishes Recovery Team]] at the direction of the [[U.S. Fish and Wildlife Service]], the plan incorporates research...
+> -- *[[DraftColoradoSquawfishRecovery_11545]]*
+
+> This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
+> -- *[[PartICurrentSituationPartIiAPr_13306]]*
+
 ## Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -198,3 +204,5 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 - [[RecoveryPlanForTheHumpbackChub_11544]]
 - [[SummaryBiologicalOpinionOnUsFi_11657]]
 - [[RainbowSmeltProposalReview_17848]]
+- [[DraftColoradoSquawfishRecovery_11545]]
+- [[PartICurrentSituationPartIiAPr_13306]]

@@ -56,6 +56,12 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 > This 1987 correspondence from Professor W.L. Minckley (Arizona State University) to the U.S. Bureau of Reclamation proposes a comprehensive, basin-wide systematic study of the [[Gila Robusta Complex]] in the [[Colorado River Basin]]. The proposal emphasizes urgent need to resolve taxonomic...
 > -- *[[DetailsForStudiesOfTheGenusGil_13739]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
+> This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
+> -- *[[ReservoirFisheriesInvestigatio_14590]]*
+
 ## Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[ColoradoRiverLowerBasinFisheri_1995_03_30]]
@@ -89,3 +95,5 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 - [[BeaverScoping_18972]]
 - [[SonoranDesertExpertsWorkshop_13543]]
 - [[DetailsForStudiesOfTheGenusGil_13739]]
+- [[DesertFishesCouncilThirteenthA_12827]]
+- [[ReservoirFisheriesInvestigatio_14590]]

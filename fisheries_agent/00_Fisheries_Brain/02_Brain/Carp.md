@@ -182,6 +182,39 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
 > -- *[[CommercialFisheriesPotentialOf_18584]]*
 
+> This document is a formal biological opinion issued by the [[U.S. Fish and Wildlife Service]] on February 15, 1995, regarding the repair and replacement of segments of the [[Aravaipa Creek]] road in [[Pinal County]], Arizona. The consultation addresses potential impacts to two threatened fish...
+> -- *[[BiologicalOpinionForRepairAndo_11904]]*
+
+> This 1960 study by J. B. Kimsey documents spawning behavior of [[Sacramento Hitch]] (*Lavinia exilicauda exilicauda*) in [[Clear Lake]], California, challenging the prevailing assumption that this cyprinid species requires streams with gravel bottoms for successful reproduction. Direct observations...
+> -- *[[ObservationsOnTheSpawningOfSac_12534]]*
+
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
+> -- *[[StatewideRoughFishControlfishE_14929]]*
+
+> This Job Completion Report documents a total fish population eradication project at [[Lake Pauline]], Texas, conducted under Federal Aid Project F-14-D-7 (Statewide Rough Fish Control) from March 6 to June 30, 1963. Pre-treatment surveys revealed a rough fish population exceeding 90 percent, with...
+> -- *[[StatewideRoughFishControleradi_14930]]*
+
+> This document presents comprehensive water quality and aquatic ecology investigations conducted at [[Lake Powell]] on the [[Colorado River]] above [[Glen Canyon Dam]] during 1965-1969. The studies were undertaken to evaluate the feasibility of discharging cooling tower blowdown from the proposed...
+> -- *[[LakePowellQualityStudiesForThe_14955]]*
+
+> This 1948 study examined the mid-summer feeding habits of young-of-year [[Largemouth Bass]] (*Micropterus salmoides*) in [[Clear Lake]], [[Lake County]], [[California]]. Analysis of 264 specimens collected August 10-12, 1948 revealed a clear ontogenetic diet shift: fish below 1.8 inches fed...
+> -- *[[TheFoodOfYoungLargemouthBlackB_15524]]*
+
+> This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
+> -- *[[BioassayAndUseOfPituitaryMater_15952]]*
+
+> This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
+> -- *[[TheEnvironmentalConditionsOfAn_16280]]*
+
+> This 1979 progress report documents the first year of the [[Colorado River Fisheries Project]] (CRFP), established through a Memorandum of Understanding between the [[U.S. Fish and Wildlife Service]] and the [[Water and Power Resources Service]]. The project addresses the biology, habitat...
+> -- *[[ColoradoRiverFisheriesInvestig_18481]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
 ## Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -286,3 +319,14 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[ChronologyOfYumaCoveActivities_15028]]
 - [[GilasanFranciscoRiversResource_18256]]
 - [[CommercialFisheriesPotentialOf_18584]]
+- [[BiologicalOpinionForRepairAndo_11904]]
+- [[ObservationsOnTheSpawningOfSac_12534]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[StatewideRoughFishControlfishE_14929]]
+- [[StatewideRoughFishControleradi_14930]]
+- [[LakePowellQualityStudiesForThe_14955]]
+- [[TheFoodOfYoungLargemouthBlackB_15524]]
+- [[BioassayAndUseOfPituitaryMater_15952]]
+- [[TheEnvironmentalConditionsOfAn_16280]]
+- [[ColoradoRiverFisheriesInvestig_18481]]
+- [[GlenCanyonEnvironmentalStudies_19719]]

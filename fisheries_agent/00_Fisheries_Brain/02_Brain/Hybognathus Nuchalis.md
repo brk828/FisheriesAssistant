@@ -17,7 +17,11 @@ Hybognathus nuchalis, commonly known as the Silvery Minnow, is a small cyprinid 
 > - The monograph is considered a **systematic milestone**, exemplifying rigorous state-level faunal review despite the reviewer's preference for river-system-based (rather than political-boundary-based) treatments for freshwater fauna. - Provides critical, alternative **taxonomic keys** by family ...
 > -- *[[FishesOfSouthDakota_1962]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
 ## Mentioned In
 - [[AReassessmentOfTheDistribution_1980]]
 - [[FirstRecordOfTheCypressMinnow_17935]]
 - [[FishesOfSouthDakota_1962]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

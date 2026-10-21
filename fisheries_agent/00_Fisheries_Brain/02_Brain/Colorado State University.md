@@ -26,6 +26,9 @@ Colorado State University houses the Larval Fish Laboratory, whose biologists pa
 > This FY 1993 annual report documents ongoing drift-net sampling to evaluate [[Colorado Squawfish]] (*Ptychocheilus lucius*) larval production in the [[Colorado River]] in response to flow manipulations from the [[Aspinall Unit]]. Principal investigators Leo Lentsch and Melissa Trammell from the...
 > -- *[[AspinalUnitStudiesEvaluationOf_20259]]*
 
+> This memorandum documents a trip report from the Upper Colorado River endangered fishes researchers meeting held February 24-25, 1987 in Grand Junction, Colorado. The meeting covered standardized monitoring programs, habitat research, captive spawning efforts, and recovery planning for four...
+> -- *[[TripReportForUpperColoradoRive_12974]]*
+
 ## Mentioned In
 - [[EffectsOfElectrofishingFieldsO_15544]]
 - [[EffectsOfElectrofishingFieldsO_15548]]
@@ -33,3 +36,4 @@ Colorado State University houses the Larval Fish Laboratory, whose biologists pa
 - [[ManagementGroupMeetingSummary_19219]]
 - [[LetterToWayneStarnesAuthorizat_11924]]
 - [[AspinalUnitStudiesEvaluationOf_20259]]
+- [[TripReportForUpperColoradoRive_12974]]

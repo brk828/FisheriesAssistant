@@ -29,6 +29,9 @@ The Lahontan Basin is a hydrographic region in the Great Basin of northwestern N
 > This document is the program for the Twelfth Annual Symposium of the Desert Fishes Council, held November 5-7, 1980, at Universidad Autónoma de Nuevo León in Monterrey, Mexico. The symposium brought together researchers, agency representatives, and conservation professionals to discuss the status,...
 > -- *[[DesertFishesCouncilTwelfthAnnu_12826]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
@@ -41,3 +44,4 @@ The Lahontan Basin is a hydrographic region in the Great Basin of northwestern N
 - [[CuiuiAndLahontanCutthroatTrout_13865]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
+- [[DesertFishesCouncilThirteenthA_12827]]

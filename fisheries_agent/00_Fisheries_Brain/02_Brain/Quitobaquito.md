@@ -32,6 +32,12 @@ Quitobaquito is a desert aquatic habitat supporting a genetically distinct popul
 > This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
 > -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
 
+> Archaeological survey conducted by the [[NPS Western Archaeological and Conservation Center]] at [[Organ Pipe Cactus National Monument]] (ORPI) between 1989 and 1993 documented 12,000 years of continuous human occupation. The survey covered 8,000 acres (2% of the monument) and recorded 199...
+> -- *[[BetweenTheDesertAndTheSeaArche_13223]]*
+
+> This document describes the distinctive population of [[Desert Pupfish]] (*Cyprinodon macularius*) inhabiting [[Quitobaquito Spring]] in [[Organ Pipe National Monument]], Arizona, and the adjacent [[Rio Sonoyta]] drainage in Sonora, México. The Sonoyta population exhibits morphological differences...
+> -- *[[TheDesertPupfishOfOrganPipeNat_18555]]*
+
 ## Mentioned In
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
@@ -41,3 +47,5 @@ Quitobaquito is a desert aquatic habitat supporting a genetically distinct popul
 - [[TwoLettersConcerningStudyOfSpe_13691]]
 - [[MinutesForDesertFishesRecovery_12506]]
 - [[ElConsejoDeLosPecesDelDesierto_12830]]
+- [[BetweenTheDesertAndTheSeaArche_13223]]
+- [[TheDesertPupfishOfOrganPipeNat_18555]]

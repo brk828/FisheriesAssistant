@@ -20,8 +20,12 @@ Tucson is a major city in central Arizona served by the Central Arizona Project 
 > This supplemental environmental assessment, prepared by the [[U.S. Bureau of Land Management]] (BLM) Phoenix District Office in December 1983, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*)...
 > -- *[[IntroductionOfGilaTopminnowAnd_17956]]*
 
+> This document is a July 1990 letter from a Department of Zoology faculty member to Stewart L. Udall, former Secretary of the Interior, requesting a forward for an edited volume on endangered western fishes. The letter includes a draft forward outlining key conservation controversies involving...
+> -- *[[DraftOfForwardForBookBattleAga_13788]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
 - [[IntroductionOfGilaTopminnowAnd_17956]]
+- [[DraftOfForwardForBookBattleAga_13788]]

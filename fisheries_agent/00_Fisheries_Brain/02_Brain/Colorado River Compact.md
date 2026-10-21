@@ -23,6 +23,9 @@ The Colorado River Compact is the 1922 interstate water allocation agreement tha
 > This Planning Aid Report, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) under the [[Fish and Wildlife Coordination Act]] (FWCA), documents study needs for fish and wildlife resources in the [[Colorado River]] affected by [[Glen Canyon Dam]] operations. The project area extends from Glen...
 > -- *[[FishAndWildlifeResourcesAndOpe_11858]]*
 
+> This June 1983 document from the U.S. Fish and Wildlife Service Region 6 presents a preliminary conservation plan for three endangered native fishes of the upper Colorado River basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail Chub]] (*Gila...
+> -- *[[PartICurrentSituationPartIiAPr_13306]]*
+
 ## Mentioned In
 - [[HydrologicScenariosForSevereSu_13465]]
 - [[MitigatingImpactsOfASevereSust_20513]]
@@ -31,3 +34,4 @@ The Colorado River Compact is the 1922 interstate water allocation agreement tha
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[AgencyRecalcitranceAndEvasionR_20349]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
+- [[PartICurrentSituationPartIiAPr_13306]]

@@ -26,8 +26,12 @@ Myriophyllum, commonly known as water milfoil, is a submerged aquatic macrophyte
 > This study documents temporal changes in a long-standing hybrid swarm between the endangered endemic [[Gambusia heterochir]] (Clear Creek Gambusia) and [[Gambusia affinis]] (Western Mosquitofish) in [[Clear Creek]], [[Menard County]], Texas, following reconstruction of the uppermost dam in 1979....
 > -- *[[TemporalChangesInTheGambusiaHe_15772]]*
 
+> This document is a comprehensive reference compilation of calorific values (gram-calories per gram dry weight and per ash-free gram) for organisms across all trophic levels, published as the second edition in October 1967 by Kenneth W. Cummins at the [[Pymatuning Laboratory of Ecology]],...
+> -- *[[CalorificEquivalentsForStudies_18098]]*
+
 ## Mentioned In
 - [[ExperimentalAquaticVegetationC_13842]]
 - [[FoodsOfImpoundmentAndStreamDwe_1963]]
 - [[RazorbackSuckerMonitoringStudy_12705]]
 - [[TemporalChangesInTheGambusiaHe_15772]]
+- [[CalorificEquivalentsForStudies_18098]]

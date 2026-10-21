@@ -35,6 +35,12 @@ auto_enriched: true
 > This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
 > -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
 
+> This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
+> -- *[[StatewideRoughFishControlfishE_14929]]*
+
+> This taxonomic study redescribes the [[Texas Troglobitic Water Slater]], originally described as *Caecidotea smithii* by Ulrich in 1902 from a single incomplete specimen. Based on numerous specimens collected from the [[San Marcos Artesian Well]] beginning in December 1973, the authors establish...
+> -- *[[RedescriptionAndAssignmentToTh_17755]]*
+
 ## Mentioned In
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[TheSpawningBehaviorOfTheChanne_15949]]
@@ -46,3 +52,5 @@ auto_enriched: true
 - [[ProposalBiologicallySensitiveA_16496]]
 - [[ExperimentalBreedingOfTheAmazo_14310]]
 - [[TheUseOfChannelCatfishAsSportF_18662]]
+- [[StatewideRoughFishControlfishE_14929]]
+- [[RedescriptionAndAssignmentToTh_17755]]

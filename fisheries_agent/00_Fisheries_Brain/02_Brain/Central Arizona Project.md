@@ -86,6 +86,12 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 > This 1972 research proposal from [[Arizona State University]]'s Lower Colorado River Basin Research Laboratory requests three years of funding (1972-1975) to continue studies on the commercial fisheries potential of [[Salt River]] reservoirs in central Arizona. The proposal builds on six years of...
 > -- *[[CommercialFisheriesPotentialOf_18584]]*
 
+> This document is a formal biological opinion issued by the [[U.S. Fish and Wildlife Service]] on February 15, 1995, regarding the repair and replacement of segments of the [[Aravaipa Creek]] road in [[Pinal County]], Arizona. The consultation addresses potential impacts to two threatened fish...
+> -- *[[BiologicalOpinionForRepairAndo_11904]]*
+
+> This document is a July 1990 letter from a Department of Zoology faculty member to Stewart L. Udall, former Secretary of the Interior, requesting a forward for an edited volume on endangered western fishes. The letter includes a draft forward outlining key conservation controversies involving...
+> -- *[[DraftOfForwardForBookBattleAga_13788]]*
+
 ## Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -127,3 +133,5 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 - [[NoticeOfViolationOfTheEsaConce_18645]]
 - [[ReProgressReportOnConstruction_13911]]
 - [[CommercialFisheriesPotentialOf_18584]]
+- [[BiologicalOpinionForRepairAndo_11904]]
+- [[DraftOfForwardForBookBattleAga_13788]]

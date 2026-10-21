@@ -35,6 +35,9 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 > This study examined movements of [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] within [[Grand Canyon]], Arizona from October 1990 through November 1993, evaluating effects of [[Glen Canyon Dam]] operations on movement patterns. Using radiotelemetry (75 radio-tagged adults) and PIT-tag...
 > -- *[[MovementOfHumpbackChubInTheCol_13639]]*
 
+> This comprehensive report summarizes 1964 pesticide research findings by the [[Fish and Wildlife Service]], covering both wildlife studies (conducted at [[Patuxent Wildlife Research Center]] and [[Denver Research Center]]) and fishery investigations. The document represents the fifth annual report...
+> -- *[[WildlifeStudiesPatuxentWildlif_14328]]*
+
 ## Mentioned In
 - [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
 - [[ColoradoRiverTrophicStudiesMee_1991_07_23]]
@@ -46,3 +49,4 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 - [[WildlifeStudiesDenverWildlifeR_14329]]
 - [[MichiganFishPredators_12681]]
 - [[MovementOfHumpbackChubInTheCol_13639]]
+- [[WildlifeStudiesPatuxentWildlif_14328]]

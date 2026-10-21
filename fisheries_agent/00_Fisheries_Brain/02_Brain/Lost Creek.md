@@ -17,8 +17,12 @@ Lost Creek appears to be a tributary stream of the lower Colorado River within t
 > **Tributary habitats:** - **[[Spencer Creek]]**: Highest fish densities of the trip. Diurnal water temperature ranged 14.8–25.3°C. Three multiple-pass sampling sites (Site 1 near confluence, Site 2 ~0.75 mi upstream, Site 3 ~1.5 mi upstream) showed a gradient from riffle-dominated (Site 1) to gre...
 > -- *[[EffectsOfInterimFlowsFromGlenC_13660]]*
 
+> This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
+
 ## Mentioned In
 - [[EffectsOfInterimFlowsFromGlenC_13654]]
 - [[EffectsOfInterimFlowsFromGlenC_13659]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
 - [[EffectsOfInterimFlowsFromGlenC_1993_04_17]]
+- [[TheEffectsOfInterimFlowsFromGl_13620]]

@@ -29,6 +29,9 @@ The Longear Sunfish (*Lepomis megalotis*) is a small North American sunfish spec
 > This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
 > -- *[[PrelimaryObservationsOnTheToxi_14434]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -49,3 +52,4 @@ The Longear Sunfish (*Lepomis megalotis*) is a small North American sunfish spec
 - [[TheOccurrenceOfTheBandedPygmyS_1980]]
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[PrelimaryObservationsOnTheToxi_14434]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]

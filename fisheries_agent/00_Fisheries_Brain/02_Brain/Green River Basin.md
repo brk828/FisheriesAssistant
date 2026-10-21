@@ -20,6 +20,9 @@ auto_enriched: true
 > This Recovery Implementation Program Recovery Action Plan (RIPRAP) establishes a comprehensive 5-10 year strategy for recovering four endangered fish species in the [[Upper Colorado River Basin]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*),...
 > -- *[[DraftRecoveryImplementationPro_11643]]*
 
+> This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
+
 ## Mentioned In
 - [[DistributionHabitatUseAndGrowt_1991]]
 - [[PopulationSizeAndStatusOfTheRa_1988]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[DraftLongRangePlan_11590]]
 - [[SpawningAndMovementsOfRazorbac_1990]]
 - [[DraftRecoveryImplementationPro_11643]]
+- [[HabitatUseAndStreamflowNeedsOf_11609]]

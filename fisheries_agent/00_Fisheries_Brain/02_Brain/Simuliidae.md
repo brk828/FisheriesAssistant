@@ -26,6 +26,9 @@ Simuliidae is a family of aquatic insects commonly known as black flies, whose l
 > This study confirms that [[Simulium ornatum]] var. nitidifrons, a blackfly species from a chalk stream near [[Romsey]], [[Hampshire]], undergoes six larval instars before pupation. Larvae were reared from field-collected eggs in laboratory apparatus. Instars were distinguished by measuring...
 > -- *[[TheInstarsOfSimuliumOrnatumVar_20678]]*
 
+> This 1968 technical report by Brehmer, Ball, and Kevern examines the biological and chemical characteristics of the [[Red Cedar River]] near [[Williamston, Michigan]], focusing on the impacts of domestic sewage pollution on water quality and benthic invertebrate communities. The study employed six...
+> -- *[[TheBiologyAndChemistryOfAWarmw_12927]]*
+
 ## Mentioned In
 - [[LifeHistoryOfTheBrindledMadtom_14059]]
 - [[MiddleGilaRiverAquaticStudy_12505]]
@@ -34,3 +37,4 @@ Simuliidae is a family of aquatic insects commonly known as black flies, whose l
 - [[TheDisappearanceOfFourLeafLeac_1975]]
 - [[TheEffectsOfDamOperationsOnAqu_1991]]
 - [[TheInstarsOfSimuliumOrnatumVar_20678]]
+- [[TheBiologyAndChemistryOfAWarmw_12927]]

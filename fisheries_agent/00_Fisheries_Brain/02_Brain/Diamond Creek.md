@@ -47,6 +47,12 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 > This study examined movements of [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] within [[Grand Canyon]], Arizona from October 1990 through November 1993, evaluating effects of [[Glen Canyon Dam]] operations on movement patterns. Using radiotelemetry (75 radio-tagged adults) and PIT-tag...
 > -- *[[MovementOfHumpbackChubInTheCol_13639]]*
 
+> This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
+
+> This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
+> -- *[[GlenCanyonEnvironmentalStudies_19719]]*
+
 ## Mentioned In
 - [[EffectsOfInterimFlowsFromGlenC_13655]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
@@ -63,3 +69,5 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 - [[TailwaterFisheryInvestigationC_14594]]
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
 - [[MovementOfHumpbackChubInTheCol_13639]]
+- [[TheEffectsOfInterimFlowsFromGl_13620]]
+- [[GlenCanyonEnvironmentalStudies_19719]]

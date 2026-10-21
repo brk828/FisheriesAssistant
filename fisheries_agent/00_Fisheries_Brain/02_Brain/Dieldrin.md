@@ -14,6 +14,9 @@ Dieldrin is a persistent organochlorine pesticide that bioaccumulates in aquatic
 > This comprehensive 1964 report from the [[Fish and Wildlife Service]] documents extensive research on pesticide effects across multiple taxa and ecosystems. The [[Denver Wildlife Research Center]] shifted emphasis from general surveillance to intensive investigation of new pesticides as potential...
 > -- *[[WildlifeStudiesDenverWildlifeR_14329]]*
 
+> This comprehensive report summarizes 1964 pesticide research findings by the [[Fish and Wildlife Service]], covering both wildlife studies (conducted at [[Patuxent Wildlife Research Center]] and [[Denver Research Center]]) and fishery investigations. The document represents the fifth annual report...
+> -- *[[WildlifeStudiesPatuxentWildlif_14328]]*
+
 ## Mentioned In
 - [[AccumulationAndEliminationOfDi_1977]]
 - [[EffectsOfPesticidesOnFishAndWi_14331]]
@@ -21,3 +24,4 @@ Dieldrin is a persistent organochlorine pesticide that bioaccumulates in aquatic
 - [[SizeRelatedFactorsAssociatedWi_13891]]
 - [[VariationsInDdtConcentrationIn_13889]]
 - [[WildlifeStudiesDenverWildlifeR_14329]]
+- [[WildlifeStudiesPatuxentWildlif_14328]]

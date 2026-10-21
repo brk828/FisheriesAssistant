@@ -32,6 +32,12 @@ Salmo gairdneri, commonly known as the rainbow trout, is a coldwater fish specie
 > This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
 > -- *[[EvaluationAndRelativeResistanc_19097]]*
 
+> This report documents the fifth year of a six-year cooperative fisheries investigation on [[Lake Powell]], the reservoir created by [[Glen Canyon Dam]]. The [[Arizona Game and Fish Department]] conducted creel census and plankton studies from February 1, 1967 to January 31, 1968. An estimated...
+> -- *[[ReservoirFisheriesInvestigatio_14590]]*
+
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
 ## Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[AssimilationEfficiencyOfTheFre_1990]]
@@ -46,3 +52,5 @@ Salmo gairdneri, commonly known as the rainbow trout, is a coldwater fish specie
 - [[FishesOfAfghanistanAnAnnotated_15968]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
 - [[EvaluationAndRelativeResistanc_19097]]
+- [[ReservoirFisheriesInvestigatio_14590]]
+- [[EarlyFieldNotes_15954]]

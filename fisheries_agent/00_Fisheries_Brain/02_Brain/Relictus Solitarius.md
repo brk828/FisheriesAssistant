@@ -17,5 +17,9 @@ auto_enriched: true
 > - **New genus erected**: [[Relictus Solitarius]], distinguished by unique osteology (maxilla, cleithrum, supraethmoid, urohyal), paddle-like pelvic fins, distinctive nuptial tuberculation, and a karyotype with an unusual balance of acrocentric and metacentric chromosomes (2n=50). - **Two new spec...
 > -- *[[DiagnosesOfNewCyprinidFishesOf_1972_09_29]]*
 
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[DiagnosesOfNewCyprinidFishesOf_1972_09_29]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

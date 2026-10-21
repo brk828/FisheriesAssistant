@@ -11,5 +11,9 @@ Santa Cruz Island is located off the Pacific Coast, with its southern portion re
 > This paper reviews Quaternary paleoclimatic trends along the [[Pacific Coast]] of [[North America]], emphasizing long-term cooling and increasing aridity from the Tertiary through the Pleistocene to Recent times. [[Carl L. Hubbs]] synthesizes evidence from paleobotany, paleontology, archaeology,...
 > -- *[[QuaternaryPaleoclimatologyOfTh_14159]]*
 
+> This newsletter from the National Biological Survey Cooperative Park Studies Unit at The University of Arizona (CPSU/UA) documents field research activities, monitoring projects, and administrative developments during early 1994. Staff conducted diverse ecological studies across Arizona and...
+> -- *[[ProjectsTakeStaffToTheField_13221]]*
+
 ## Mentioned In
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
+- [[ProjectsTakeStaffToTheField_13221]]

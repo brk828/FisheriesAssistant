@@ -53,6 +53,9 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 > This correspondence from the [[Greater Gila Biodiversity Project]] to the [[Gila Trout Recovery Team]] proposes an alternative to downlisting [[Gila Trout]] from endangered to threatened status. The author argues that limited sport fishing can be permitted while maintaining endangered status...
 > -- *[[UsFishAndWildlifeServicesAbili_20453]]*
 
+> This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
+> -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
+
 ## Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -124,3 +127,4 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 - [[BiologicalOpinionOnTheEffectsT_11884]]
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[UsFishAndWildlifeServicesAbili_20453]]
+- [[NativeTroutOfArizonaAndNewMexi_13251]]

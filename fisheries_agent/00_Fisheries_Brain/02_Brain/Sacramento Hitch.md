@@ -11,5 +11,9 @@ Sacramento Hitch (Lavinia exilicauda exilicauda) is a native California minnow i
 > This comprehensive taxonomic key, published in 1960 by J.B. Kimsey (U.S. Bureau of Commercial Fisheries) and Leonard O. Fisk (California Department of Fish and Game), provides dichotomous identification keys for all freshwater and anadromous fish species known from California at that time. The...
 > -- *[[KeysToTheFreshwaterAndAnadromo_12535]]*
 
+> This 1960 study by J. B. Kimsey documents spawning behavior of [[Sacramento Hitch]] (*Lavinia exilicauda exilicauda*) in [[Clear Lake]], California, challenging the prevailing assumption that this cyprinid species requires streams with gravel bottoms for successful reproduction. Direct observations...
+> -- *[[ObservationsOnTheSpawningOfSac_12534]]*
+
 ## Mentioned In
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
+- [[ObservationsOnTheSpawningOfSac_12534]]

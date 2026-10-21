@@ -35,6 +35,9 @@ The Amargosa Pupfish is an endemic species of small cyprinodont fish inhabiting 
 > This 1981 correspondence from the Desert Fishes Council Chairman alerts members to grave threats posed by the proposed MX Missile System to aquatic ecosystems throughout central and southern Nevada and west-central Utah. The $33 billion Department of Defense project would construct 200 racetrack...
 > -- *[[MxMissileSystemeffectsOnDesert_20506]]*
 
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
 ## Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
@@ -48,3 +51,4 @@ The Amargosa Pupfish is an endemic species of small cyprinodont fish inhabiting 
 - [[ConservationOfNativeFreshwater_15444]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[MxMissileSystemeffectsOnDesert_20506]]
+- [[DesertFishesCouncilEighteenthA_12829]]

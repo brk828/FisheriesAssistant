@@ -32,6 +32,9 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 > This 1951 report documents the introduction program of [[Kokanee]] salmon (*Oncorhynchus nerka kennerlyi*), a landlocked form of red salmon, into [[Lake Tahoe]] to restore game fish populations following the decline of native [[Cutthroat Trout]]. The program, conducted jointly by California and...
 > -- *[[TheIntroductionOfKokaneeRedSal_18826]]*
 
+> Between 1963 and 1964, California and Nevada fisheries agencies introduced approximately 182,300 live [[Mysis relicta]] (opossum shrimp) into four western lakes: [[Lake Tahoe]], [[Lower Echo Lake]], [[Huntington Lake]], and [[Blue Lake]]. The primary objective was to establish a forage base for...
+> -- *[[IntroductionOfTheOpossumShrimp_20345]]*
+
 ## Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -46,3 +49,4 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 - [[ContributionsToTheLifeHistoryO_15724]]
 - [[SalmoEvermanniASynonymOfSalmoC_18176]]
 - [[TheIntroductionOfKokaneeRedSal_18826]]
+- [[IntroductionOfTheOpossumShrimp_20345]]

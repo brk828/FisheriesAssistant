@@ -29,6 +29,12 @@ The Lowland Leopard Frog is an amphibian species associated with native freshwat
 > SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
 > -- *[[BiologicalEvaluationOfTheAppro_15074]]*
 
+> This management plan proposes the establishment of the [[Sierra San Luis]] Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]] (Chihuahua), Mexico, along the U.S. border. The area forms part of the extreme...
+> -- *[[ManagementPlanSierraSanLuisWil_11399]]*
+
+> This Bureau of Land Management (BLM) report documents the construction of a pipeline system at [[Tule Creek]] in Yavapai County, Arizona, to provide livestock water outside a riparian exclosure while protecting habitat for the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis)...
+> -- *[[TuleCreekPipelineProjectSummar_17654]]*
+
 ## Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[FieldMonitoringOfPeoplesCanyon_1990_01_09]]
@@ -39,3 +45,5 @@ The Lowland Leopard Frog is an amphibian species associated with native freshwat
 - [[ThJointAnnualMeetingEcosystemM_1994_02_03]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
 - [[BiologicalEvaluationOfTheAppro_15074]]
+- [[ManagementPlanSierraSanLuisWil_11399]]
+- [[TuleCreekPipelineProjectSummar_17654]]

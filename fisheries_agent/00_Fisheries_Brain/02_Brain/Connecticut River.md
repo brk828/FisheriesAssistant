@@ -23,6 +23,9 @@ The Connecticut River is a major anadromous fish habitat and recovery system in 
 > - **Target species**: [[Atlantic Salmon]] (*Salmo salar*), an anadromous salmonid native to the [[Connecticut River]] system. - **Restoration context**: The hatchery exists specifically to support reintroduction of Atlantic salmon to a river system where the species had been extirpated, functioni...
 > -- *[[StationProfileOfWhiteRiverNati_1993]]*
 
+> This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
+> -- *[[FishAndFishEggDistributionRepo_13434]]*
+
 ## Mentioned In
 - [[AbundanceOfStJohnsRiverShad_1960_03_08]]
 - [[BerkshireNationalFishHatcheryS_19579]]
@@ -30,3 +33,4 @@ The Connecticut River is a major anadromous fish habitat and recovery system in 
 - [[MeristicDifferencesInSpawningP_1975]]
 - [[StationProfileOfThePittsfordNa_1993]]
 - [[StationProfileOfWhiteRiverNati_1993]]
+- [[FishAndFishEggDistributionRepo_13434]]

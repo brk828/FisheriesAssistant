@@ -47,6 +47,9 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 > This study evaluated sixteen freshwater fish species as toxicity indicators in bioassays using [[Petroleum Refinery Effluent]] as the toxicant. Conducted at [[Oklahoma State University]] during 1960-1961, the research established relative resistance rankings among species and assessed their...
 > -- *[[EvaluationAndRelativeResistanc_19097]]*
 
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
 ## Mentioned In
 - [[DistributionOfMidwesternFishes_1978]]
 - [[FiveNewSpeciesOfGyrodactylusTr_12149]]
@@ -66,3 +69,4 @@ Pimephales promelas, commonly known as the fathead minnow, is a small cyprinid f
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[BeaverScoping_18972]]
 - [[EvaluationAndRelativeResistanc_19097]]
+- [[EarlyFieldNotes_15954]]

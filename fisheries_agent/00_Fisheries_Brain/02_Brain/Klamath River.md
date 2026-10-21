@@ -32,6 +32,9 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This 1954 California Department of Fish and Game document announces the reopening of recreational sturgeon fishing after a 35-year closure. The white sturgeon (*Acipenser transmontanus*) and green sturgeon (*Acipenser medirostris*) populations had recovered sufficiently to allow limited harvest....
 > -- *[[TheCaliforniaSturgeon_17339]]*
 
+> This Phase I report (Parts 2 and 3) outlines management concerns, priority research needs, and a comprehensive research plan for resolving taxonomic confusion within the [[Gila Robusta Complex]] of the [[Colorado River Basin]]. The project addresses critical uncertainties regarding three endangered...
+> -- *[[PartManagementConcernsPriority_14724]]*
+
 ## Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
@@ -44,3 +47,4 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[ASteelheadMigrationInShastaRiv_21255]]
 - [[TheStatusOfThePumpkinseedLepom_12862]]
 - [[TheCaliforniaSturgeon_17339]]
+- [[PartManagementConcernsPriority_14724]]

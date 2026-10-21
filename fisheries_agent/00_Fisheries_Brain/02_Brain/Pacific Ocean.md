@@ -26,6 +26,9 @@ The Pacific Ocean, in the context of fish science and conservation biology, repr
 > This paper describes *Asellus puebla*, a new species of freshwater isopod crustacean collected from the [[Rio Cosala]] in [[Puebla]], [[Mexico]]. The discovery extends the known southern distribution limit of the genus [[Asellus]] from approximately 30° latitude to just below 20° latitude. The...
 > -- *[[ANewSpeciesOfAquaticIsopodCrus_17104]]*
 
+> This 1929 paper by [[Carl L. Hubbs]] examines the relationship between hydrographic conditions and deep-sea fish fauna in two contrasting isolated marine basins of the Western Pacific: the [[Sea of Japan]] and the [[Sulu Sea]] complex. The study demonstrates how physical barriers (shallow straits)...
+> -- *[[TheHydrographicAndFaunalIndepe_19989]]*
+
 ## Mentioned In
 - [[AKeyToTheSnooksGenusCentropomu_17270]]
 - [[StationProfileOfKooskiaNationa_19543]]
@@ -34,3 +37,4 @@ The Pacific Ocean, in the context of fish science and conservation biology, repr
 - [[TheGenericRelationshipsAndNome_19993]]
 - [[BathyconchoeciaDeeveyaeAHighly_12629]]
 - [[ANewSpeciesOfAquaticIsopodCrus_17104]]
+- [[TheHydrographicAndFaunalIndepe_19989]]

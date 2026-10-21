@@ -23,6 +23,12 @@ The Arkansas River represents a significant interjurisdictional aquatic system i
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
+> -- *[[TheEnvironmentalConditionsOfAn_16280]]*
+
 ## Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[NewLocalityRecordsForSomeKansa_1981]]
@@ -30,3 +36,5 @@ The Arkansas River represents a significant interjurisdictional aquatic system i
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[TopTenFisheriesActiv_1996_10_14]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[TheEnvironmentalConditionsOfAn_16280]]

@@ -38,6 +38,9 @@ Chara is an aquatic macrophyte (stonewort) that serves as critical habitat struc
 > This is a research proposal submitted by Dr. Arland T. Hotchkiss, Associate Professor of Biology at the [[University of Louisville]], requesting continued NSF support for a three-year cytotaxonomic study of the [[Characeae]] (charophytes). The proposal seeks funding from September 1, 1961 to...
 > -- *[[ProposalForContinuedSupportOfN_19929]]*
 
+> This progress report covers research conducted under NSF Research Grant G-19449 (continuation of NSF-G13261) from January 1, 1962, documenting cytotaxonomic investigations of the [[Characeae]] (stoneworts) at the [[University of Louisville]]. Principal Investigator [[Arland Hotchkiss]] and team...
+> -- *[[ACytotaxonomicStudyOfTheCharac_19927]]*
+
 ## Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -51,3 +54,4 @@ Chara is an aquatic macrophyte (stonewort) that serves as critical habitat struc
 - [[AStudyOfTheFisheriesOnBitterLa_14374]]
 - [[Algae_19232]]
 - [[ProposalForContinuedSupportOfN_19929]]
+- [[ACytotaxonomicStudyOfTheCharac_19927]]

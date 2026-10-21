@@ -71,6 +71,9 @@ In the context of fish science and aquatic ecology, California refers to the geo
 > This zooarchaeological report by W. I. Follett analyzes 459 fish remains recovered from the [[Arroyo Sequit]] Shellmound (LAn-52) in extreme western [[Los Angeles County]], [[California]]. The site, located on a bluff rising to nearly 75 feet elevation, was occupied between approximately 1000 B.C....
 > -- *[[FishRemainsFromArroyoSequitShe_18754]]*
 
+> This 1948 study examined the mid-summer feeding habits of young-of-year [[Largemouth Bass]] (*Micropterus salmoides*) in [[Clear Lake]], [[Lake County]], [[California]]. Analysis of 264 specimens collected August 10-12, 1948 revealed a clear ontogenetic diet shift: fish below 1.8 inches fed...
+> -- *[[TheFoodOfYoungLargemouthBlackB_15524]]*
+
 ## Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[RainbowSmeltIntroductionIntoLa_1989]]
@@ -94,3 +97,4 @@ In the context of fish science and aquatic ecology, California refers to the geo
 - [[MinutesForDesertFishesRecovery_12506]]
 - [[TheUseOfChannelCatfishAsSportF_18662]]
 - [[FishRemainsFromArroyoSequitShe_18754]]
+- [[TheFoodOfYoungLargemouthBlackB_15524]]

@@ -23,9 +23,13 @@ Phoenix is a major city in central Arizona where urban fishery opportunities wer
 > This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
 > -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
 
+> This document is a July 1990 letter from a Department of Zoology faculty member to Stewart L. Udall, former Secretary of the Interior, requesting a forward for an edited volume on endangered western fishes. The letter includes a draft forward outlining key conservation controversies involving...
+> -- *[[DraftOfForwardForBookBattleAga_13788]]*
+
 ## Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[DraftOfForwardForBookBattleAga_13788]]

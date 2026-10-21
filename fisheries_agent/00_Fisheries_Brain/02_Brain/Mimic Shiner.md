@@ -14,6 +14,10 @@ auto_enriched: true
 > **Community/recolonization dynamics:** - "Clean-water fishes" — including [[Stoneroller]], [[Bigeye Chub]], [[Creek Chub]], [[Sand Shiner]], [[Mimic Shiner]], [[Common Shiner]], [[Bluntnose Minnow]], [[White Sucker]], and [[Yellow Perch]] — appeared or increased sharply only after pollution abate...
 > -- *[[ChangesInTheFishPopulationInTh_12453]]*
 
+> This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
+> -- *[[BioassayAndUseOfPituitaryMater_15952]]*
+
 ## Mentioned In
 - [[ChangesInTheFishPopulationInTh_12453]]
 - [[FoodOfYoungPikeEsoxLuciusLAndA_1951]]
+- [[BioassayAndUseOfPituitaryMater_15952]]

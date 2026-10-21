@@ -20,6 +20,9 @@ auto_enriched: true
 > This document is a draft research plan developed by Dr. Duncan Patten and core scientists for the [[Glen Canyon Environmental Studies]] (GCES) program, presented to the Executive Review Committee in February 1990. The plan proposes a comprehensive series of controlled discharge experiments from...
 > -- *[[GlenCanyonEnvironmentalStudies_19687]]*
 
+> This document comprises field notes from fish surveys conducted in the [[Colorado River]] system, primarily within [[Grand Canyon]] and surrounding areas, spanning 1972-1982. The surveys document native and exotic fish species distributions during a critical period for [[Colorado River Basin]]...
+> -- *[[EarlyFieldNotes_15954]]*
+
 ## Mentioned In
 - [[ReconnaissanceSurveyAndInvento_1993]]
 - [[VirginRiverOperationOctober_1988_10_04]]
@@ -27,3 +30,4 @@ auto_enriched: true
 - [[TripReportSamplingOfMexicanPop_14780]]
 - [[GilasanFranciscoRiversResource_18256]]
 - [[GlenCanyonEnvironmentalStudies_19687]]
+- [[EarlyFieldNotes_15954]]

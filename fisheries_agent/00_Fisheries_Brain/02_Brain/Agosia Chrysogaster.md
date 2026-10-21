@@ -47,6 +47,12 @@ Agosia chrysogaster, commonly known as the longfin dace, is a small native cypri
 > This document comprises catalogued fish collection records from the [[University of Michigan Museum of Zoology]] (UMMZ) Division of Fishes for three Arizona counties: [[Yavapai County]], [[Gila County]], and [[Coconino County]]. The collections span 1926-1978 and document native and introduced fish...
 > -- *[[SelectionsFromUniversityOfMich_18288]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
+> This document describes the distinctive population of [[Desert Pupfish]] (*Cyprinodon macularius*) inhabiting [[Quitobaquito Spring]] in [[Organ Pipe National Monument]], Arizona, and the adjacent [[Rio Sonoyta]] drainage in Sonora, México. The Sonoyta population exhibits morphological differences...
+> -- *[[TheDesertPupfishOfOrganPipeNat_18555]]*
+
 ## Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgosiaChrysogasterACyprinidFro_17955]]
@@ -77,3 +83,5 @@ Agosia chrysogaster, commonly known as the longfin dace, is a small native cypri
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[SelectionsFromUniversityOfMich_18288]]
+- [[DesertFishesCouncilThirteenthA_12827]]
+- [[TheDesertPupfishOfOrganPipeNat_18555]]

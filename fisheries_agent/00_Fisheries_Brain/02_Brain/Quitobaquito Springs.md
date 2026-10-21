@@ -47,6 +47,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This 14-year study (1982-1995) documents the population ecology of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], Arizona. The population represents an endemic subspecies, the [[Rio Sonoyta Mud Turtle]],...
 > -- *[[PopulationEcologyOfTheSonoranM_21071]]*
 
+> This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
+> -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
+
 ## Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -66,3 +69,4 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[IntraofficeMemoFishSurveys_13821]]
 - [[PopulationEcologyOfTheSonoranM_21071]]
+- [[AnUpdateStatusReportOfTheSonor_13824]]

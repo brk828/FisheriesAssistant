@@ -32,6 +32,9 @@ The Grand Canyon Protection Act is a federal mandate that requires ecosystem-bas
 > This FY1996 proposal from the [[U.S. Geological Survey]], [[National Park Service]], and [[Arizona Department of Game and Fish]] outlines a collaborative lake-wide monitoring program for [[Lake Powell]] and method development in the [[Glen Canyon]] tailwater. The proposal seeks $262,801 to conduct...
 > -- *[[LongtermLimnologicalAndWaterQu_17092]]*
 
+> This document presents the Fiscal Year 1998 Annual Monitoring and Research Plan for the [[Grand Canyon Monitoring and Research Center]] (GCMRC), representing the first year of implementation of the Long-Term Monitoring and Research Strategic Plan (1998-2002). The plan addresses monitoring and...
+> -- *[[FiscalYearAnnualMonitoringAndR_17765]]*
+
 ## Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
@@ -42,3 +45,4 @@ The Grand Canyon Protection Act is a federal mandate that requires ecosystem-bas
 - [[TransmittalRegardingReasonable_19809]]
 - [[IndigenousBigriverFishesColora_18295]]
 - [[LongtermLimnologicalAndWaterQu_17092]]
+- [[FiscalYearAnnualMonitoringAndR_17765]]

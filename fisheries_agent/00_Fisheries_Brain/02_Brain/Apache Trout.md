@@ -62,6 +62,12 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 > This recovery plan addresses [[Lepidomeda vittata]] (Little Colorado River Spinedace), a federally listed threatened species restricted to north-flowing tributaries of the [[Little Colorado River]] in eastern Arizona. The species was described by Cope (1874) and is a member of the tribe...
 > -- *[[DraftLittleColoradoRiverSpined_11662]]*
 
+> This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
+> -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
+
+> This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
+> -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
+
 ## Mentioned In
 - [[AnAnalysisOfFHybridsBetweenApa_1984_09_24]]
 - [[AnalysisOfApacheTroutPopulatio_15424]]
@@ -131,3 +137,5 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 - [[BiologicalOpinionOnTheEffectsT_11884]]
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[DraftLittleColoradoRiverSpined_11662]]
+- [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[NativeTroutOfArizonaAndNewMexi_13251]]

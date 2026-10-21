@@ -29,6 +29,12 @@ Clear Lake, Iowa is a shallow, turbid freshwater lake characterized by limited w
 > This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
 > -- *[[PublicationsOfPeterBMoyle_15442]]*
 
+> This 1960 study by J. B. Kimsey documents spawning behavior of [[Sacramento Hitch]] (*Lavinia exilicauda exilicauda*) in [[Clear Lake]], California, challenging the prevailing assumption that this cyprinid species requires streams with gravel bottoms for successful reproduction. Direct observations...
+> -- *[[ObservationsOnTheSpawningOfSac_12534]]*
+
+> This 1948 study examined the mid-summer feeding habits of young-of-year [[Largemouth Bass]] (*Micropterus salmoides*) in [[Clear Lake]], [[Lake County]], [[California]]. Analysis of 264 specimens collected August 10-12, 1948 revealed a clear ontogenetic diet shift: fish below 1.8 inches fed...
+> -- *[[TheFoodOfYoungLargemouthBlackB_15524]]*
+
 ## Mentioned In
 - [[ASimpleTransportableLakeShocke_1966]]
 - [[AgeAndGrowthOfLargemouthBassIn_1964]]
@@ -45,3 +51,5 @@ Clear Lake, Iowa is a shallow, turbid freshwater lake characterized by limited w
 - [[VariationsOnRereadingWalleyeSc_17403]]
 - [[AConservationorientedClassific_15455]]
 - [[PublicationsOfPeterBMoyle_15442]]
+- [[ObservationsOnTheSpawningOfSac_12534]]
+- [[TheFoodOfYoungLargemouthBlackB_15524]]

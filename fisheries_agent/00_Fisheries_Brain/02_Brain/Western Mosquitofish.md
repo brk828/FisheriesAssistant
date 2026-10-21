@@ -50,6 +50,12 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 > **Taxonomic & Life-History Summary**: [[Bonytail]] (*Gila elegans*, Cyprinidae) and [[Razorback Sucker]] (*Xyrauchen texanus*, Catostomidae) are endemic large-river fishes of the [[Colorado River Basin]]. Razorback sucker can live >40 years; a single female produces >200,000 ova per season....
 > -- *[[MaturationOfAnOffchannelHabita_2024]]*
 
+> This biological opinion, issued October 14, 1997, addresses the realignment of Forest Road 281 near [[Bush Creek]] on the upper [[Blue River]], [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] (lead agency) and [[U.S. Army Corps of Engineers]] proposed rerouting approximately 1,200...
+> -- *[[BiologicalOpinionSummaryBlueRi_11685]]*
+
+> This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
+> -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
+
 ## Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
@@ -90,3 +96,5 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[ImperialPondsRenovationPlan_2014]]
 - [[MaturationOfAnOffchannelHabita_2024]]
+- [[BiologicalOpinionSummaryBlueRi_11685]]
+- [[GilaTopminnowSitesInArizonaPro_19668]]

@@ -26,9 +26,13 @@ Tilapia zillii, commonly known as the redbelly tilapia, is a cichlid species nat
 > This September 1978 correspondence from Boyd Kynard (Massachusetts Cooperative Fishery Research Unit) to Dr. James E. Johnson (U.S. Fish & Wildlife Service) documents the critical status of [[Desert Pupfish]] (Cyprinodon macularius) populations across Arizona, Mexico, and California. The letter...
 > -- *[[ArizonaAndMexicanDesertPupfish_12498]]*
 
+> This document is the program for the Thirteenth Annual Symposium of the [[Desert Fishes Council]], held November 19-21, 1981, at [[Death Valley National Monument]] Headquarters in Furnace Creek, California. The symposium brought together researchers, agency representatives, and conservation...
+> -- *[[DesertFishesCouncilThirteenthA_12827]]*
+
 ## Mentioned In
 - [[FishSamplingAtAsuResearchParkA_1988_04_22]]
 - [[FourthAnnualMeetingDeathValley_11111]]
 - [[GrassCarpCtenopharyngodonIdell_19237]]
 - [[LetterToPeterBMoyleOnColoradoR_13792]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
+- [[DesertFishesCouncilThirteenthA_12827]]

@@ -44,6 +44,9 @@ The San Pedro Riparian National Conservation Area encompasses the San Pedro Rive
 > This 1998 proposal to the Southwest Center for Environmental Research and Policy outlines an integrative watershed research program for two transborder basins: the [[Tijuana River Watershed]] and the [[Upper San Pedro Basin]]. Both watersheds span the US-Mexico international border, experience...
 > -- *[[TheTransborderWatershedResearc_12883]]*
 
+> This December 1993 letter from the [[Maricopa Audubon Society]] to the [[Arizona Department of Water Resources]] (ADWR) addresses concerns about a water policy change permitting subdivision development in the upper [[San Pedro River]] basin. The letter documents the ecological significance of the...
+> -- *[[ArizonaDepartmentOfWaterResour_18960]]*
+
 ## Mentioned In
 - [[CommentLetterOnDraftGilaBoxRip_1993_12_30]]
 - [[EnvironmentalistsSueFortHuachu_11897]]
@@ -60,3 +63,4 @@ The San Pedro Riparian National Conservation Area encompasses the San Pedro Rive
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
 - [[SanPedroRiverBiologicalResourc_17351]]
 - [[TheTransborderWatershedResearc_12883]]
+- [[ArizonaDepartmentOfWaterResour_18960]]

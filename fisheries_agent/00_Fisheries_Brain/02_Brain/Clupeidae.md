@@ -38,6 +38,12 @@ Clupeidae is a large family of ray-finned fishes that includes herrings, sardine
 > This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
 > -- *[[AClassificationOfTheFishesOfTh_14438]]*
 
+> This job completion report documents a complete fish eradication operation conducted at [[Loy Lake]] in [[Grayson County]], [[Texas]] on April 1, 1963 as part of the Statewide Rough Fish Control program (Federal Aid Project F-14-D-7). The 42-acre lake (230 acre-feet) was treated with 1.5 PPM of 5%...
+> -- *[[StatewideRoughFishControlfishE_14929]]*
+
+> This taxonomic study documents a small collection of Isospondylous and Characoid fishes from [[British Honduras]] (modern [[Belize]]) and neighboring [[Guatemala]], a poorly known Central American region. The collection includes representatives from two families: [[Dorosomidae]] (gizzard shads) and...
+> -- *[[InQuestOfTheMayansSequelIiOnCe_16973]]*
+
 ## Mentioned In
 - [[AbundanceOfStJohnsRiverShad_1960_03_08]]
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
@@ -58,3 +64,5 @@ Clupeidae is a large family of ray-finned fishes that includes herrings, sardine
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[AnAnnotatedBibliographyOfAttem_15220]]
 - [[AClassificationOfTheFishesOfTh_14438]]
+- [[StatewideRoughFishControlfishE_14929]]
+- [[InQuestOfTheMayansSequelIiOnCe_16973]]

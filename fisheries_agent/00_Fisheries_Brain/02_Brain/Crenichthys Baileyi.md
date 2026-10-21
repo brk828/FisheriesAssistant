@@ -14,9 +14,13 @@ Crenichthys baileyi, commonly known as the White River spinedace, is a small end
 > This 1980 report by W. L. Minckley examines morphological variation in suckers of the genus [[Catostomus]] from the middle [[Colorado River]] region, including [[Grand Canyon]], [[Glen Canyon]], [[Virgin River]], and [[Little Colorado River]] basins. The study reveals that populations previously...
 > -- *[[MorphologicalVariationInCatost_13689]]*
 
+> This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
+> -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
+
 ## Mentioned In
 - [[ArtificialHybridizationOfCreni_14299]]
 - [[LetterFromJamesEDeaconToClarkH_1975_04_17]]
 - [[ResearchOnEndangeredFishesInTh_14023]]
 - [[TheAsianFishTapewormBothriocep_1993]]
 - [[MorphologicalVariationInCatost_13689]]
+- [[MxMissileSystemAnUrgentLetterF_20507]]

@@ -20,9 +20,17 @@ Micropterus punctulatus, commonly known as the spotted bass, is a freshwater bla
 > **Taxonomic & Life-History Summary:** Three centrarchid species are described: [[Lepomis microlophus]] (redear sunfish), [[Micropterus dolomieui]] (smallmouth bass), and [[Micropterus punctulatus]] (spotted bass). [[Lepomis microlophus]] exhibits geographic variation with two forms: one with 40-47...
 > -- *[[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]*
 
+> This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
+> -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
+
+> This 1959 thesis by Judith A. Loring examines the reliability of the tooth patch on the tongue as a diagnostic character for identifying [[Micropterus punctulatus]] (spotted black bass). The study analyzed specimens from Kentucky and surrounding states, comparing tooth patch presence across...
+> -- *[[AStudyOfTheToothPatchOnTheSpot_16200]]*
+
 ## Mentioned In
 - [[Development of Color Pattern in Pond-Reared Young of Five Bass Species (Micropterus) of Southeastern U. S.]]
 - [[NotesOnTheDistributionOfBlackb_14184]]
 - [[TheSportFisheryInAnArkansasWat_1968_10_21]]
 - [[ARevisionOfTheBlackBassesMicro_1940]]
 - [[InlandFishesOfTheGreaterSouthw_X-9b0a8240]]
+- [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[AStudyOfTheToothPatchOnTheSpot_16200]]

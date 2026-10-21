@@ -41,6 +41,9 @@ auto_enriched: true
 > This study documents the embryonic and early larval development of the [[Tui Chub]] (*Siphateles bicolor*) from [[Eagle Lake]], [[Lassen County]], California. Conducted in 1949 by Robert R. Harry at Stanford University while employed by the California Division of Fish and Game, this represents...
 > -- *[[TheEmbryonicAndEarlyLarvalStag_20681]]*
 
+> This document is the program for the 18th Annual Symposium of the [[Desert Fishes Council]], held November 20-22, 1986, at the Four Seasons Convention Center in St. George, Utah. The symposium featured agency reports, research presentations, and management papers focused on the conservation and...
+> -- *[[DesertFishesCouncilEighteenthA_12829]]*
+
 ## Mentioned In
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[NoteOnSpringFoodHabitsOfTheLak_12533]]
@@ -52,3 +55,4 @@ auto_enriched: true
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 - [[MxMissileSystemeffectsOnDesert_20506]]
 - [[TheEmbryonicAndEarlyLarvalStag_20681]]
+- [[DesertFishesCouncilEighteenthA_12829]]

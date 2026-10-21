@@ -23,6 +23,9 @@ auto_enriched: true
 > This comprehensive cultural and historical overview examines the [[Colorado River Delta]], a transboundary ecosystem shared between the United States and Mexico. The document traces human habitation from indigenous [[Cocopa]] peoples through European exploration to modern agricultural and fishing...
 > -- *[[DeltaOfTheColoradoRiverpastAnd_12132]]*
 
+> On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
+> -- *[[WorkshopProceedings_18372]]*
+
 ## Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[SurvivalOfSomeFishesRecentlyIn_19099]]
@@ -30,3 +33,4 @@ auto_enriched: true
 - [[AllocatingFreshWaterToAquaticE_18641]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+- [[WorkshopProceedings_18372]]
