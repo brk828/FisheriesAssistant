@@ -784,6 +784,13 @@
   "status": "done",
   "timestamp": "2026-10-21T05:36:19+00:00"
  },
+ "15528cbec543a057f70fb42d0cfb3bce8e8e7316d5851c2ba9fec859eb1c9a70": {
+  "file": "14934.pdf",
+  "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: ''",
+  "source_id": "X-15528cbe",
+  "status": "failed",
+  "timestamp": "2026-10-21T07:35:48+00:00"
+ },
  "15a121fdafb2a8e0f741163ca7965e8918373307af7d6cec36637ac5e517f0de": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -5202,6 +5209,13 @@
   "status": "done",
   "timestamp": "2026-10-18T04:30:21+00:00"
  },
+ "8b5c83191e856016501aaa18da39364ed36de3f5c83c90a9fb55954d3eec6090": {
+  "file": "FEIS_TA_08_Aquatic_508.pdf",
+  "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: '--- species: - Humpback chub (Gila cypha) - Razorback sucker (Xyrauchen texanus)'",
+  "source_id": "X-8b5c8319",
+  "status": "failed",
+  "timestamp": "2026-10-21T07:40:40+00:00"
+ },
  "8b711124f8da0ea3d39f1d746f254ca311b41985fb95ff6100960ebce088b452": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -7742,6 +7756,16 @@
   "status": "done",
   "timestamp": "2026-10-18T04:34:44+00:00"
  },
+ "cdfe8798a3771a147d1060403991aff11ca0e67488fe424e74730d8440759b9f": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "2000 Warren et al USDA Forest Service.pdf",
+  "method": "text",
+  "note": "CentrarchidIdentificationAndNa_2009.md",
+  "source_id": "X-cdfe8798",
+  "status": "done",
+  "timestamp": "2026-10-21T07:37:23+00:00"
+ },
  "ce13aa0ccc7fa432996dd898efae8c8a071e9530909df13093ab17852803ff65": {
   "citation_source": "minckley-sheet",
   "file": "17775.pdf",
@@ -9364,7 +9388,7 @@
   "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: ''",
   "source_id": "X-f4969696",
   "status": "failed",
-  "timestamp": "2026-10-21T07:24:39+00:00"
+  "timestamp": "2026-10-21T07:40:46+00:00"
  },
  "f49ba1fc20146fe7e4a0e340c0b293ce3c5f6e3da6f432b1e3d47ef6233507e9": {
   "citation_source": "minckley-sheet",
