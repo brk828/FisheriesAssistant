@@ -124,6 +124,18 @@ Fabre-Domergue and Bietrix (1905) conducted an early successful larval rearing s
 ### Mentioned In
 - [[ZoologieAgricoleEtudeDelLaMorp_11927]]
 
+## Fafa
+
+### Summary
+Fafa is one of the Natal estuaries where additional data on Gerres mortality were collected to supplement the primary research conducted in the Kosi System. It was part of the broader survey of Gerres populations in the region.
+
+### Context
+> This study investigated sources of mortality for three species of [[Gerreidae]] ([[Gerres acinaces]], [[Gerres rappi]], and [[Gerres filamentosus]]) in Natal estuaries, South Africa, between 1978 and 1982, with primary focus on the [[Kosi System]]. Despite being abundant benthic feeders forming an...
+> -- *[[PredationAndSourcesOfMortality_18127]]*
+
+### Mentioned In
+- [[PredationAndSourcesOfMortality_18127]]
+
 ## Fairbank
 
 ### Summary
@@ -235,6 +247,18 @@ The merlin is an endangered falcon species under federal protection in the Sierr
 
 ### Mentioned In
 - [[ManagementPlanSierraSanLuisWil_18303]]
+
+## Falco peregrinus
+
+### Summary
+Falco peregrinus (peregrine falcon) is a raptor found in Mexico. The 1993 draft standard lists it under special protection (Pr), meaning it is subject to harvest bans or limitations to promote population recovery.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
 
 ## Falcon Dam
 <!-- fm: auto_enriched: true -->
@@ -355,10 +379,62 @@ Fall River is one of the major streams draining Greenwood County, Kansas, along 
 > This 1956 report by W. L. Minckley and James W. Mullan documents experimental reclamation of three Massachusetts streams using [[Rotenone]] in 1955, followed by evaluation one year later. The streams represented a gradient of trout habitat quality: [[Glendale Brook]] (good), [[Lawrence Brook]]...
 > -- *[[SomeObservationsOnTheReclamati_15490]]*
 
+> This document provides a comprehensive overview of aquatic insects as food sources for [[Trout]] in New York State streams, with particular emphasis on [[Mayflies]] (Ephemeroptera). Written by Dwight A. Webster of the Department of Conservation, Cornell, the article describes the life cycles,...
+> -- *[[TroutFoodInStreams_19660]]*
+
 ### Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[SomeObservationsOnTheReclamati_15490]]
+- [[TroutFoodInStreams_19660]]
+
+## Fallicambarus
+
+### Summary
+Fallicambarus is a genus of burrowing crayfish established by Hobbs in 1969, with a range extending from southern Ontario, Michigan, and Illinois southward to Texas and across western Tennessee to southwestern Georgia. Fallicambarus hortoni represents the first species originally described within this genus, as all eight previously recognized species were transferred from Cambarus.
+
+### Context
+> This taxonomic description presents *[[Fallicambarus hortoni]]*, a new species of burrowing crayfish discovered in [[McNairy County]], [[Tennessee]]. The species was collected from shallow burrows in sandy soil near a tributary of [[Cypress Creek]] in the [[Hatchie River]] drainage system. Based on...
+> -- *[[ANewCrayfishOfTheGenusFallicam_20420]]*
+
+### Mentioned In
+- [[ANewCrayfishOfTheGenusFallicam_20420]]
+
+## Fallicambarus byersi
+
+### Summary
+Fallicambarus byersi is a crayfish species from the lower coastal plain between the Choctawhatchee River (Florida) and the Pontchartrain Basin (Louisiana). It is one of the two species most closely allied to Fallicambarus hortoni, with similarities most evident in first pleopod and annulus ventralis morphology.
+
+### Context
+> This taxonomic description presents *[[Fallicambarus hortoni]]*, a new species of burrowing crayfish discovered in [[McNairy County]], [[Tennessee]]. The species was collected from shallow burrows in sandy soil near a tributary of [[Cypress Creek]] in the [[Hatchie River]] drainage system. Based on...
+> -- *[[ANewCrayfishOfTheGenusFallicam_20420]]*
+
+### Mentioned In
+- [[ANewCrayfishOfTheGenusFallicam_20420]]
+
+## Fallicambarus hortoni
+
+### Summary
+Fallicambarus hortoni is a newly described species of burrowing crayfish from McNairy County, Tennessee, representing the first species originally assigned to the genus Fallicambarus. It is a pigmented crayfish with well-developed eyes that inhabits shallow burrows in sandy soil near small tributaries, distinguished by unique morphological features including a first pleopod central projection that is recurved at approximately 90 degrees and strongly deflected dextrally. The species is most closely related to F. byersi and F. oryktes from the Gulf coastal plain.
+
+### Context
+> This taxonomic description presents *[[Fallicambarus hortoni]]*, a new species of burrowing crayfish discovered in [[McNairy County]], [[Tennessee]]. The species was collected from shallow burrows in sandy soil near a tributary of [[Cypress Creek]] in the [[Hatchie River]] drainage system. Based on...
+> -- *[[ANewCrayfishOfTheGenusFallicam_20420]]*
+
+### Mentioned In
+- [[ANewCrayfishOfTheGenusFallicam_20420]]
+
+## Fallicambarus oryktes
+
+### Summary
+Fallicambarus oryktes is a crayfish species from the lower coastal plain between the Choctawhatchee River (Florida) and the Pontchartrain Basin (Louisiana). It is one of the two species most closely allied to Fallicambarus hortoni, with similarities most evident in first pleopod and annulus ventralis morphology.
+
+### Context
+> This taxonomic description presents *[[Fallicambarus hortoni]]*, a new species of burrowing crayfish discovered in [[McNairy County]], [[Tennessee]]. The species was collected from shallow burrows in sandy soil near a tributary of [[Cypress Creek]] in the [[Hatchie River]] drainage system. Based on...
+> -- *[[ANewCrayfishOfTheGenusFallicam_20420]]*
+
+### Mentioned In
+- [[ANewCrayfishOfTheGenusFallicam_20420]]
 
 ## Falmouth Lake
 
@@ -462,6 +538,18 @@ The Farallon Plate was an oceanic tectonic plate that was subducted beneath the 
 
 ### Mentioned In
 - [[GeologiedonneesPreliminairesSu_15989]]
+
+## Farallones
+
+### Summary
+The Farallones is a location off the San Francisco Bay entrance where the type specimen of Prionotus stephanophrys was collected in October 1880. The specimen was caught in deep water between the Farallones and Point Reyes.
+
+### Context
+> This paper reports the first confirmed specimen of [[Prionotus stephanophrys]] (California searobin) from southern California waters, collected in [[Santa Monica Bay]] on October 24, 1944. The species, belonging to the family [[Triglidae]], had previously been recorded only from central California...
+> -- *[[CaliforniaSearobinPrionotusSte_20038]]*
+
+### Mentioned In
+- [[CaliforniaSearobinPrionotusSte_20038]]
 
 ## Farm Pond
 <!-- fm: auto_enriched: true -->
@@ -744,6 +832,24 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
 > -- *[[SamplingAtAsuResearchParkApril_19429]]*
 
+> This comprehensive report evaluates habitat use and streamflow requirements for four federally listed or proposed endangered fishes in the [[Green River]] basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11573]]*
+
+> This document establishes the San Juan River Basin Recovery Implementation Program (RIP), a comprehensive cooperative framework designed to protect and recover endangered fish species—[[Colorado Squawfish]] and [[Razorback Sucker]]—while allowing water development to proceed in compliance with...
+> -- *[[SanJuanRiverBasinRecoveryImple_11583]]*
+
+> A comprehensive fisheries survey was conducted along the [[Blue River]] in [[Greenlee County]], Arizona from June 16-19, 1997. The survey team from [[Arizona State University]] and [[United States Forest Service]] sampled 90 pools between [[Smith Ranch]] and F.S. Road 475 ([[Juan Miller...
+> -- *[[BlueRiverPoolSamplingGreenleeC_17213]]*
+
+> This 1988 investigation by the [[U.S. Fish and Wildlife Service]] [[National Fisheries Research Center]] examined the toxicity of [[Chloramine-T]] (n-sodium-n-chloro-para-toluenesulfonamide), a therapeutant used to treat [[Bacterial Gill Disease]] in hatchery fish. The study evaluated how...
+> -- *[[EffectsOfEnvironmentalFactorsO_18248]]*
+
+> This toxicological study examined how fish loading rates, feed levels, and fecal material affect the availability and toxicity of [[Chloramine-T]] (n-sodium-n-chloro-para-toluenesulfonamide), an antibacterial agent used to control [[Bacterial Gill Disease]] in cultured fishes. Using [[Fathead...
+> -- *[[EffectsOfOrganicMatterAndLoadi_18249]]*
+
+> This study evaluated the effectiveness of holding pond systems for treating refinery wastewater at two facilities operated by Apco Oil Corp. in [[Arkansas City]], Kansas and [[Cyril]], Oklahoma. Using [[Fathead Minnow]] ([[Pimephales promelas]]) bioassays and chemical analyses, researchers...
+> -- *[[TheCaseForHoldingPondTwoRefine_19068]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -893,6 +999,12 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
 - [[SamplingAtAsuResearchParkApril_19429]]
+- [[HabitatUseAndStreamflowNeedsOf_11573]]
+- [[SanJuanRiverBasinRecoveryImple_11583]]
+- [[BlueRiverPoolSamplingGreenleeC_17213]]
+- [[EffectsOfEnvironmentalFactorsO_18248]]
+- [[EffectsOfOrganicMatterAndLoadi_18249]]
+- [[TheCaseForHoldingPondTwoRefine_19068]]
 
 ## Fathead Minnows
 
@@ -1035,6 +1147,18 @@ Feather River Hatchery is a California fish production facility funded by the Ca
 
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
+
+## Featured Species
+
+### Summary
+Featured Species is a specialized fisheries management concept designed to showcase particular trout species of interest, such as Arizona Trout and Arctic Grayling. The Arizona plan indicates these waters support 2 angler-days per acre per week in lakes and 4 in streams, with harvest rates of 0.2-0.5 fish per hour, and aims to provide an additional 10,000-20,000 Featured Species angler-days by 1987-1990.
+
+### Context
+> This document is the Arizona Game and Fish Department's Strategic Plan for Cold Water Fisheries covering 1985-1990, prepared under Federal Aid Project FW-11-R. The plan addresses the management of Arizona's trout fisheries, which support over 220,000 licensed anglers annually who harvest over 3...
+> -- *[[ArizonaColdWaterFisheriesStrat_14823]]*
+
+### Mentioned In
+- [[ArizonaColdWaterFisheriesStrat_14823]]
 
 ## Fecundity
 
@@ -1241,8 +1365,12 @@ The Federal Land Policy and Management Act (FLPMA) of October 21, 1976 (43 U.S.C
 > This Bureau of Land Management (BLM) Manual Section 6840, dated September 16, 1988, establishes comprehensive policy and guidance for the conservation of Special Status Species (plants and animals) and their habitats on BLM-administered lands. Special Status Species include those proposed for...
 > -- *[[SpecialStatusSpeciesManagement_11467]]*
 
+> This document is the executive summary of the Rangeland Reform '94 Draft Environmental Impact Statement (EIS), prepared by the [[Bureau of Land Management]] (BLM) and [[Forest Service]] to evaluate proposed changes to federal rangeland management programs across 270 million acres in the western...
+> -- *[[RangelandReformDraftEnvironmen_11710]]*
+
 ### Mentioned In
 - [[SpecialStatusSpeciesManagement_11467]]
+- [[RangelandReformDraftEnvironmen_11710]]
 
 ## Federal Power Commission
 
@@ -1454,6 +1582,18 @@ Ferguson Lake Complex is a specific restoration site within the Imperial Nationa
 
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
+
+## Ferocactus
+
+### Summary
+Ferocactus is a genus of barrel cacti. This source lists it among the extensively represented cactus genera in Mexico's 1993 endangered species standard, with most species classified as endemic and rare (R*), representing priority conservation targets within Mexican desert ecosystems.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
 
 ## Ferriday, Louisiana
 <!-- fm: auto_enriched: true -->
@@ -1986,8 +2126,12 @@ Fir is a coniferous tree genus found in high-elevation forests. The lecture note
 > - **Distribution:** Historically widespread across the [[Gila River Basin]] of Arizona and New Mexico. Gila trout confirmed in Diamond Creek, Eagle Creek, Spruce Creek, and McKenna Creek. Apache trout confirmed as pure populations in [[Ord Creek]], [[Firebox Creek]], [[Deep Creek]], the East Fork...
 > -- *[[RareAndEndangeredSpeciesTheGil_18134]]*
 
+> This Biological Assessment evaluates potential impacts of the proposed [[Miner Flat Dam]] and [[Canyon Day Irrigation Project]] on endangered and threatened species under the Endangered Species Act of 1973. The concrete gravity dam would be constructed on the [[North Fork White River]] at elevation...
+> -- *[[BiologicalAssessmentForTheProp_11456]]*
+
 ### Mentioned In
 - [[RareAndEndangeredSpeciesTheGil_18134]]
+- [[BiologicalAssessmentForTheProp_11456]]
 
 ## Fireflies
 
@@ -2106,9 +2250,13 @@ Fish, in the context of fish science and aquatic ecology, are mobile aquatic ver
 > This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
 > -- *[[AlternativeApproachesToHcpsFor_16735]]*
 
+> This document is a program update newsletter from the [[Glen Canyon Environmental Studies]] (GCES) Phase II program, dated May 1989. It announces the appointment of Dr. [[Duncan Patten]] from [[Arizona State University]] as Senior Scientist to provide scientific oversight and integration for the...
+> -- *[[GlenCanyonEnvironmentalStudies_19685]]*
+
 ### Mentioned In
 - [[CreationOfTheNationalBiologica_1993_03_17]]
 - [[AlternativeApproachesToHcpsFor_16735]]
+- [[GlenCanyonEnvironmentalStudies_19685]]
 
 ## Fish 1960
 <!-- fm: auto_enriched: true -->
@@ -2461,6 +2609,9 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
 > -- *[[SummaryoctoberManagementGroupM_21000]]*
 
+> This draft document presents recommendations from the National Fish Hatchery Review Panel (McIntyre, Rinne, Minckley, Williams) dated September 23, 1974, addressing the role of federal fish hatcheries within a National Fisheries Program ([[NFP]]). The panel identified significant challenges...
+> -- *[[DraftRecommendationsNationalFi_19586]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -2519,6 +2670,7 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
 - [[SummaryoctoberManagementGroupM_21000]]
+- [[DraftRecommendationsNationalFi_19586]]
 
 ## Fish Anesthesia
 <!-- fm: auto_enriched: true -->
@@ -2820,9 +2972,13 @@ Fish Creek is a stream in the Apache-Sitgreaves National Forest that required hi
 > This paper reviews Quaternary paleoclimatic trends along the [[Pacific Coast]] of [[North America]], emphasizing long-term cooling and increasing aridity from the Tertiary through the Pleistocene to Recent times. [[Carl L. Hubbs]] synthesizes evidence from paleobotany, paleontology, archaeology,...
 > -- *[[QuaternaryPaleoclimatologyOfTh_14159]]*
 
+> This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
+> -- *[[MorphologicalVariationInGilaPi_12778]]*
+
 ### Mentioned In
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
+- [[MorphologicalVariationInGilaPi_12778]]
 
 ## Fish Creek Springs
 
@@ -2909,6 +3065,18 @@ Fish culture refers to the artificial propagation and husbandry of fish in contr
 
 ### Mentioned In
 - [[BiologicalMeansOfIncreasingPro_1968]]
+
+## Fish Disease Center
+
+### Summary
+Fish Disease Center refers to FWS facilities and personnel responsible for monitoring and managing fish health issues. The panel emphasized that Fish Disease Center personnel must be involved in evaluating and selecting broodfish from wild indigenous populations to control the spread of unwanted or unnatural diseases, and recommended temporarily continuing fish-health services to non-federal clients until state and private capabilities could be established.
+
+### Context
+> This draft document presents recommendations from the National Fish Hatchery Review Panel (McIntyre, Rinne, Minckley, Williams) dated September 23, 1974, addressing the role of federal fish hatcheries within a National Fisheries Program ([[NFP]]). The panel identified significant challenges...
+> -- *[[DraftRecommendationsNationalFi_19586]]*
+
+### Mentioned In
+- [[DraftRecommendationsNationalFi_19586]]
 
 ## Fish Disease Control Center
 <!-- fm: auto_enriched: true -->
@@ -3000,6 +3168,18 @@ Fish Disease Management encompasses the integrated approach to preventing, diagn
 
 ### Mentioned In
 - [[RevisedProceduresForCommercial_15105]]
+
+## Fish Eagles
+
+### Summary
+Fish Eagles are raptors with approximately 6 resident pairs in the Kosi System. This study observed them catching only mullet, suggesting their benthic feeding behavior likely limits Gerres vulnerability to these surface-feeding predators.
+
+### Context
+> This study investigated sources of mortality for three species of [[Gerreidae]] ([[Gerres acinaces]], [[Gerres rappi]], and [[Gerres filamentosus]]) in Natal estuaries, South Africa, between 1978 and 1982, with primary focus on the [[Kosi System]]. Despite being abundant benthic feeders forming an...
+> -- *[[PredationAndSourcesOfMortality_18127]]*
+
+### Mentioned In
+- [[PredationAndSourcesOfMortality_18127]]
 
 ## Fish Ecology
 <!-- fm: auto_enriched: true -->
@@ -5223,6 +5403,18 @@ Flagstaff is a city in northern Arizona located in an area of high elevation. Th
 ### Mentioned In
 - [[InvestigationOfProposedProject_1966_07_31]]
 
+## Flagstaff, Arizona
+
+### Summary
+Flagstaff, Arizona is a city that served as the meeting location for Glen Canyon Environmental Studies (GCES) program coordination meetings in June 1989. The Environmental and Economic Study Team meetings were held at Northern Arizona University's Union building on June 15-16, 1989, to coordinate Phase II research planning, review endangered fish surveys from the Colorado River, and discuss test flow studies for Glen Canyon Dam operations.
+
+### Context
+> This administrative document from the [[Bureau of Reclamation]] Upper Colorado Regional Office announces Environmental and Economic Study Team meetings for the [[Glen Canyon Environmental Studies]] (GCES) program scheduled for June 15-16, 1989, in [[Flagstaff, Arizona]]. The meetings were designed...
+> -- *[[EnvironmentalAndEconomicStudyT_19683]]*
+
+### Mentioned In
+- [[EnvironmentalAndEconomicStudyT_19683]]
+
 ## Flaming Gorge
 <!-- fm: auto_enriched: true -->
 
@@ -5293,6 +5485,9 @@ Flagstaff is a city in northern Arizona located in an area of high elevation. Th
 > This meeting summary documents the October 12, 1988, [[Colorado River Management Group]] meeting held at the [[Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed administrative and programmatic aspects of the [[Colorado River]] endangered fish recovery effort,...
 > -- *[[SummaryoctoberManagementGroupM_21000]]*
 
+> This FY-93 annual report documents hydrological support activities provided by the U.S. Fish and Wildlife Service Water Resources Division for the [[Colorado River Recovery Program]]. The project, ongoing since 1988, provides critical water temperature data collection, flow quantification, gage...
+> -- *[[FyAnnualProjectReportColoradoR_21154]]*
+
 ### Mentioned In
 - [[FyProjectReportWetlandsRestora_1993]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
@@ -5317,6 +5512,7 @@ Flagstaff is a city in northern Arizona located in an area of high elevation. Th
 - [[DraftManagementGroupMeetingSum_17880]]
 - [[SummaryaprilManagementGroupMee_20995]]
 - [[SummaryoctoberManagementGroupM_21000]]
+- [[FyAnnualProjectReportColoradoR_21154]]
 
 ## Flaming Gorge Biological Opinion
 
@@ -5478,6 +5674,18 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
 > -- *[[SummarynovemberAndFebruaryMana_21001]]*
 
+> This comprehensive report evaluates habitat use and streamflow requirements for four federally listed or proposed endangered fishes in the [[Green River]] basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11573]]*
+
+> The 1995 annual report documents the [[Upper Colorado River Recovery Program]]'s transition from research to direct recovery actions for four endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and...
+> -- *[[AnnualReportRecoveryProgramFor_11673]]*
+
+> This document comprises a 1989 research proposal by [[Thomas E. Dowling]] and [[W. L. Minckley]] to assess genetic diversity of [[Razorback Sucker]] (*Xyrauchen texanus*) populations using restriction endonuclease analysis of mitochondrial DNA (mtDNA), submitted to the [[U.S. Bureau of...
+> -- *[[GeneticDiversityOfRazorbackSuc_19113]]*
+
+> This FY-93 annual report documents hydrological support activities provided by the U.S. Fish and Wildlife Service Water Resources Division for the [[Colorado River Recovery Program]]. The project, ongoing since 1988, provides critical water temperature data collection, flow quantification, gage...
+> -- *[[FyAnnualProjectReportColoradoR_21154]]*
+
 ### Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -5560,6 +5768,10 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[DraftManagementGroupMeetingSum_17880]]
 - [[ChangesInTheFishPopulationsInT_20462]]
 - [[SummarynovemberAndFebruaryMana_21001]]
+- [[HabitatUseAndStreamflowNeedsOf_11573]]
+- [[AnnualReportRecoveryProgramFor_11673]]
+- [[GeneticDiversityOfRazorbackSuc_19113]]
+- [[FyAnnualProjectReportColoradoR_21154]]
 
 ## Flaming Gorge Flow Investigations
 
@@ -5652,6 +5864,18 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 - [[WantedForTheFutureTheseNativeF_13295]]
 - [[CivilActionNoFColoradoWildlife_20991]]
 
+## Flaming Gorge Studies Program
+
+### Summary
+The Flaming Gorge Studies Program was a research initiative conducted from 1986-1991 to evaluate habitat use and streamflow requirements for endangered fishes in the Green River basin. The program consolidated findings from six major study initiatives using methods including radiotelemetry, mark-recapture, seine and electrofishing surveys, drift net sampling, diet analysis, and remote sensing to inform Bureau of Reclamation dam operations and provide biological opinions under the Endangered Species Act.
+
+### Context
+> This comprehensive report evaluates habitat use and streamflow requirements for four federally listed or proposed endangered fishes in the [[Green River]] basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11573]]*
+
+### Mentioned In
+- [[HabitatUseAndStreamflowNeedsOf_11573]]
+
 ## Flaming Gorge Unit
 <!-- fm: auto_enriched: true -->
 
@@ -5661,6 +5885,30 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 
 ### Mentioned In
 - [[MeasuresToImproveSportFishingA_1962]]
+
+## Flammeo
+
+### Summary
+Flammeo is a genus within subfamily Holocentrinae distinguished by the last dorsal spine being close to and membrane-connected with the first dorsal ray, a projecting lower jaw that enters the profile, 10-14 gill rakers, and uniquely having only 10 spines in the anterior dorsal fin. This source documents one species, Flammeo marianus, occurring in the Western Central Atlantic.
+
+### Context
+> This FAO species identification guide covers the family [[Holocentridae]] (squirrelfishes and soldierfishes) in Western Central Atlantic fishing area 31. The family comprises two subfamilies: [[Holocentrinae]] and [[Myripristinae]], with 11 species documented in the region. Detailed identification...
+> -- *[[FaoSpeciesIdentificationSheets_20826]]*
+
+### Mentioned In
+- [[FaoSpeciesIdentificationSheets_20826]]
+
+## Flammeo marianus
+
+### Summary
+Flammeo marianus is a squirrelfish species in the subfamily Holocentrinae found in the Western Central Atlantic. This source identifies it as one of eleven holocentrid species in fishing area 31, belonging to a genus characterized by having 10 dorsal spines (rather than 11), a projecting lower jaw, and the last dorsal spine close to and membrane-connected with the first dorsal ray.
+
+### Context
+> This FAO species identification guide covers the family [[Holocentridae]] (squirrelfishes and soldierfishes) in Western Central Atlantic fishing area 31. The family comprises two subfamilies: [[Holocentrinae]] and [[Myripristinae]], with 11 species documented in the region. Detailed identification...
+> -- *[[FaoSpeciesIdentificationSheets_20826]]*
+
+### Mentioned In
+- [[FaoSpeciesIdentificationSheets_20826]]
 
 ## Flannel-Mouthed Sucker
 
@@ -5876,6 +6124,30 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
 > -- *[[LongtermMonitoringOfADesertFis_2021]]*
 
+> This document establishes the San Juan River Basin Recovery Implementation Program (RIP), a comprehensive cooperative framework designed to protect and recover endangered fish species—[[Colorado Squawfish]] and [[Razorback Sucker]]—while allowing water development to proceed in compliance with...
+> -- *[[SanJuanRiverBasinRecoveryImple_11583]]*
+
+> This preliminary draft Environmental Assessment, prepared by the [[U.S. Fish and Wildlife Service]] in June 1996, evaluates alternatives for eradicating the invasive [[Red Shiner]] (*Notropis lutrensis*) from the [[Virgin River]] in Utah. The red shiner, a small minnow native to the North Central...
+> -- *[[PreliminaryDraftEnvironmentalA_11680]]*
+
+> This recovery plan addresses two endangered cyprinid species endemic to the [[Virgin River]] system: the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*). The woundfin was listed as endangered on October 13, 1970, and the Virgin River chub on August 24,...
+> -- *[[VirginRiverFishesRecoveryPlan_13186]]*
+
+> This memorandum from BIO/WEST, Inc. to the [[Glen Canyon Environmental Studies]] program documents fish handling impacts and protocols for endangered [[Humpback Chub]] research in the [[Colorado River]] through [[Grand Canyon]]. From October 1990 through August 1991, researchers handled 569...
+> -- *[[FishHandlingAssessmentOnGrandC_13650]]*
+
+> This correspondence from [[Arizona State University]] Department of Zoology (dated 20 May 1991) provides critical review of a population genetics project report by Moyle and Berg concerning endangered catostomid fishes in northern California. The letter, addressed to the [[California Department of...
+> -- *[[ReviewOfMoyleAndBergsProjectRe_13795]]*
+
+> This correspondence from Dr. Royal D. Suttkus of [[Tulane University]] to the [[Arizona Game & Fish Department]] requests a collecting permit for endangered fish species in the [[Colorado River]] system between [[Glen Canyon Dam]] and [[Hoover Dam]]. The application is part of a collaborative study...
+> -- *[[RequestForCollectingPermitToAl_15050]]*
+
+> This document comprises a 1989 research proposal by [[Thomas E. Dowling]] and [[W. L. Minckley]] to assess genetic diversity of [[Razorback Sucker]] (*Xyrauchen texanus*) populations using restriction endonuclease analysis of mitochondrial DNA (mtDNA), submitted to the [[U.S. Bureau of...
+> -- *[[GeneticDiversityOfRazorbackSuc_19113]]*
+
+> This field report documents emergency fish sampling conducted 07-08 January 1989 along the [[Virgin River]] (Arizona-Nevada-Utah) immediately following the catastrophic failure of [[Quail Creek Reservoir]] dike on 01 January 1989. Personnel from [[Arizona State University]] (ASU) and [[University...
+> -- *[[VirginRiverFishSamplingJanuary_19425]]*
+
 ### Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -6046,6 +6318,14 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 - [[ChangesInTheFishPopulationsInT_20462]]
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[LongtermMonitoringOfADesertFis_2021]]
+- [[SanJuanRiverBasinRecoveryImple_11583]]
+- [[PreliminaryDraftEnvironmentalA_11680]]
+- [[VirginRiverFishesRecoveryPlan_13186]]
+- [[FishHandlingAssessmentOnGrandC_13650]]
+- [[ReviewOfMoyleAndBergsProjectRe_13795]]
+- [[RequestForCollectingPermitToAl_15050]]
+- [[GeneticDiversityOfRazorbackSuc_19113]]
+- [[VirginRiverFishSamplingJanuary_19425]]
 
 ## Flash Creek
 <!-- fm: auto_enriched: true -->
@@ -6054,9 +6334,13 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > This 1988 field report documents population surveys and specimen collection of [[Apache Trout]] (*Oncorhynchus apache*), a threatened species endemic to the [[White Mountains]] of Arizona. The survey was conducted across 45 stream sites on the [[Fort Apache Indian Reservation]] and...
 > -- *[[AnnualReportOncorhynchusApache_11989]]*
 
+> This Biological Assessment evaluates potential impacts of the proposed [[Miner Flat Dam]] and [[Canyon Day Irrigation Project]] on endangered and threatened species under the Endangered Species Act of 1973. The concrete gravity dam would be constructed on the [[North Fork White River]] at elevation...
+> -- *[[BiologicalAssessmentForTheProp_11456]]*
+
 ### Mentioned In
 - [[StudiesOfTheAbundanceDistribut_13841]]
 - [[AnnualReportOncorhynchusApache_11989]]
+- [[BiologicalAssessmentForTheProp_11456]]
 
 ## Flash Flood Disturbance
 <!-- fm: auto_enriched: true -->
@@ -6286,6 +6570,15 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > This 1959 Federal Aid to Fisheries report (Project F-10-R) documents comprehensive pre-impoundment fish population surveys of seven Kentucky streams scheduled for dam construction by the U.S. Army Corps of Engineers. Between 1956-1958, personnel from the Kentucky Department of Fish and Wildlife...
 > -- *[[PreimpoundmentSurveysOfSixKent_13033]]*
 
+> This progress report documents field efforts for the 1988 [[Razorback Sucker]] monitoring study under Contract FG-7494. The study focused on three main activities: monitoring dispersal and predation following barrier removal at [[Goose Flats Backwater]] isolated coves, removal and stocking of...
+> -- *[[RazorbackSuckerMonitoringStudy_12704]]*
+
+> This document comprises a 1989 research proposal by [[Thomas E. Dowling]] and [[W. L. Minckley]] to assess genetic diversity of [[Razorback Sucker]] (*Xyrauchen texanus*) populations using restriction endonuclease analysis of mitochondrial DNA (mtDNA), submitted to the [[U.S. Bureau of...
+> -- *[[GeneticDiversityOfRazorbackSuc_19113]]*
+
+> This study examined age class structures and growth rates of [[Flathead Catfish]] (*Pylodictis olivaris*) populations in four southwestern rivers: the [[Lower Colorado River]] (Arizona-California), [[Gila River]], [[Salt River]], and [[Verde River]] (all Arizona). Introduced between 1950-1975,...
+> -- *[[AgeAndGrowthOfFlatheadCatfishI_20904]]*
+
 ### Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -6380,6 +6673,9 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[PreimpoundmentSurveysOfSixKent_13033]]
+- [[RazorbackSuckerMonitoringStudy_12704]]
+- [[GeneticDiversityOfRazorbackSuc_19113]]
+- [[AgeAndGrowthOfFlatheadCatfishI_20904]]
 
 ## Flathead Chub
 <!-- fm: auto_enriched: true -->
@@ -6422,6 +6718,18 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 ### Mentioned In
 - [[FishResourcesOfDhofarKhawrsCoa_18793]]
 
+## Flavobacteria
+
+### Summary
+Flavobacteria are pathogenic bacterial agents associated with Bacterial Gill Disease in hatchery-reared salmonids. This study identifies them as one of the causative organisms of BGD, which is the most common disease of hatchery-reared salmonids and causes more fish losses than any other bacterial disease.
+
+### Context
+> This 1988 investigation by the [[U.S. Fish and Wildlife Service]] [[National Fisheries Research Center]] examined the toxicity of [[Chloramine-T]] (n-sodium-n-chloro-para-toluenesulfonamide), a therapeutant used to treat [[Bacterial Gill Disease]] in hatchery fish. The study evaluated how...
+> -- *[[EffectsOfEnvironmentalFactorsO_18248]]*
+
+### Mentioned In
+- [[EffectsOfEnvironmentalFactorsO_18248]]
+
 ## Flax Pond
 <!-- fm: auto_enriched: true -->
 
@@ -6454,6 +6762,18 @@ Flerov was an associate of Luk'yanenko who participated in extensive observation
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 
+## Fletcher
+
+### Summary
+Fletcher is a researcher whose work is cited in this biological assessment for the Miner Flat Dam project. The source references Fletcher's research in relation to species or ecological conditions being evaluated for potential project impacts.
+
+### Context
+> This Biological Assessment evaluates potential impacts of the proposed [[Miner Flat Dam]] and [[Canyon Day Irrigation Project]] on endangered and threatened species under the Endangered Species Act of 1973. The concrete gravity dam would be constructed on the [[North Fork White River]] at elevation...
+> -- *[[BiologicalAssessmentForTheProp_11456]]*
+
+### Mentioned In
+- [[BiologicalAssessmentForTheProp_11456]]
+
 ## Flexibacter Columnaris
 <!-- fm: auto_enriched: true -->
 
@@ -6463,6 +6783,18 @@ Flerov was an associate of Luk'yanenko who participated in extensive observation
 
 ### Mentioned In
 - [[StationProfileOfTheNortheastFi_19541]]
+
+## Flexibacteria
+
+### Summary
+Flexibacteria are pathogenic bacterial agents associated with Bacterial Gill Disease in hatchery-reared salmonids. This study identifies them alongside Flavobacteria as causative organisms of BGD, with gills damaged by these pathogens being prone to secondary invasion by fungi.
+
+### Context
+> This 1988 investigation by the [[U.S. Fish and Wildlife Service]] [[National Fisheries Research Center]] examined the toxicity of [[Chloramine-T]] (n-sodium-n-chloro-para-toluenesulfonamide), a therapeutant used to treat [[Bacterial Gill Disease]] in hatchery fish. The study evaluated how...
+> -- *[[EffectsOfEnvironmentalFactorsO_18248]]*
+
+### Mentioned In
+- [[EffectsOfEnvironmentalFactorsO_18248]]
 
 ## Flexipenis Vittatus
 <!-- fm: auto_enriched: true -->
@@ -6851,6 +7183,18 @@ Florida represents a critical geographic region in ichthyological and conservati
 > This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
 > -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
 
+> This document is the official U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] to be Endangered or Threatened under the [[Endangered Species Act]]. It provides comprehensive regulatory lists (§17.11 for...
+> -- *[[PartEndangeredAndThreatenedWil_11585]]*
+
+> This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (Title 50, Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] and [[National Marine Fisheries Service]] to be Endangered or Threatened under the...
+> -- *[[PartEndangeredAndThreatenedWil_11597]]*
+
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, which lists all species of wildlife and plants determined by the U.S. Fish and Wildlife Service and National Marine Fisheries Service to be Endangered or Threatened under the [[Endangered Species Act]]....
+> -- *[[PartEndangeredAndThreatenedWil_11634]]*
+
+> This FAO species identification guide covers the family [[Holocentridae]] (squirrelfishes and soldierfishes) in Western Central Atlantic fishing area 31. The family comprises two subfamilies: [[Holocentrinae]] and [[Myripristinae]], with 11 species documented in the region. Detailed identification...
+> -- *[[FaoSpeciesIdentificationSheets_20826]]*
+
 ### Mentioned In
 - [[ASystematicAndGeographicalStud_1961]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -6862,6 +7206,10 @@ Florida represents a critical geographic region in ichthyological and conservati
 - [[ANewCrayfishOfTheSpiculiferGro_16434]]
 - [[WaterRightsBibliography_17761]]
 - [[ANewTroglobiticCrayfishFromOkl_20419]]
+- [[PartEndangeredAndThreatenedWil_11585]]
+- [[PartEndangeredAndThreatenedWil_11597]]
+- [[PartEndangeredAndThreatenedWil_11634]]
+- [[FaoSpeciesIdentificationSheets_20826]]
 
 ## Florida Bass
 <!-- fm: auto_enriched: true -->
@@ -7004,6 +7352,34 @@ The Florida Manatee was the species threatened by the only two confirmed blocked
 ### Mentioned In
 - [[ProvenanceAndDispositionOfFish_16999]]
 
+## Florida Panther
+
+### Summary
+The Florida Panther is a terrestrial carnivore listed as an endangered species under Part 17 of the Code of Federal Regulations. It is among the mammals receiving federal protection under the Endangered Species Act due to threats to its survival.
+
+### Context
+> This document is a regulatory compilation from Title 50 of the Code of Federal Regulations (CFR), specifically Part 17, which establishes the official lists of endangered and threatened wildlife and plants under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11572]]*
+
+> This document is the official U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] to be Endangered or Threatened under the [[Endangered Species Act]]. It provides comprehensive regulatory lists (§17.11 for...
+> -- *[[PartEndangeredAndThreatenedWil_11585]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_11572]]
+- [[PartEndangeredAndThreatenedWil_11585]]
+
+## Florida Panthers
+
+### Summary
+Florida Panthers are an endangered species in the Everglades with fewer than 50 individuals remaining as of 1993. Their critically low population was cited as evidence of the dramatic ecological degradation in the Everglades, which was listed as one of America's ten most endangered rivers due to water diversion and pollution.
+
+### Context
+> This 1993 report by [[American Rivers]] identifies the ten most endangered and fifteen most threatened rivers in North America based on importance as natural resources, degree of threat, and imminence of those threats. The document serves as an advocacy tool to raise public awareness about...
+> -- *[[TheNationsTenMostEndangeredRiv_17976]]*
+
+### Mentioned In
+- [[TheNationsTenMostEndangeredRiv_17976]]
+
 ## Floridichthys
 <!-- fm: auto_enriched: true -->
 
@@ -7110,6 +7486,18 @@ Flow regime alteration is a major threat to Shoal Bass, particularly below hydro
 ### Mentioned In
 - [[MeetingToDiscussTheSpikeFlow_1993_07_09]]
 
+## Flowing Wells High School
+
+### Summary
+Flowing Wells High School is a school in Tucson, Arizona that participated in captive breeding of Desert Pupfish for conservation purposes. Students at this school raised the pupfish from captive-bred stock that originated from Santa Clara Slough, New Mexico, and these fish were proposed for introduction into Cold Spring Seep and Big Spring in 1989.
+
+### Context
+> This 1989 Bureau of Land Management biological assessment documents a proposed introduction of [[Desert Pupfish]] (*Cyprinodon macularius*) into three spring-fed ponds at two locations in the Safford District, Arizona. The sites—Cold Spring Seep (Ponds 1 and 2) and Big Spring—already support...
+> -- *[[BiologicalAssessmentDesertPupf_12882]]*
+
+### Mentioned In
+- [[BiologicalAssessmentDesertPupf_12882]]
+
 ## Floy Tag
 <!-- fm: auto_enriched: true -->
 
@@ -7120,9 +7508,13 @@ Flow regime alteration is a major threat to Shoal Bass, particularly below hydro
 > This trip report documents field research conducted May 8-26, 1991, investigating [[Humpback Chub]] (*Gila cypha*) life history and ecology in the [[Grand Canyon]] reach of the [[Colorado River]]. The study employed multiple gear types (trammel nets, electrofishing, hoop nets, gill nets) and...
 > -- *[[CharacterizationOfTheLifeHisto_13649]]*
 
+> This memorandum from BIO/WEST, Inc. to the [[Glen Canyon Environmental Studies]] program documents fish handling impacts and protocols for endangered [[Humpback Chub]] research in the [[Colorado River]] through [[Grand Canyon]]. From October 1990 through August 1991, researchers handled 569...
+> -- *[[FishHandlingAssessmentOnGrandC_13650]]*
+
 ### Mentioned In
 - [[TripReportLakeMohave_1993_03_26]]
 - [[CharacterizationOfTheLifeHisto_13649]]
+- [[FishHandlingAssessmentOnGrandC_13650]]
 
 ## Floy Tagging
 <!-- fm: auto_enriched: true -->
@@ -7314,6 +7706,30 @@ Folsom Reservoir is a California water body that was not chemically treated prio
 ### Mentioned In
 - [[RoughFishControl_20167]]
 
+## Fonscochlea
+
+### Summary
+Fonscochlea is an endemic hydrobiid snail genus in the Lake Eyre Supergroup containing multiple species that retreat from light. One species (F. zeidleri) is amphibious and more resistant to desiccation, showing no geographic speciation unlike the aquatic species in the genus.
+
+### Context
+> This document reports on the endemic aquatic fauna of artesian springs associated with the [[Great Artesian Basin]] (GAB) of Australia, with particular emphasis on hydrobiid snails. The GAB occupies approximately 22% of the Australian continent (1.76 million km²) and supports over 600 springs...
+> -- *[[MoundSpringSnailsOfTheAustrali_18623]]*
+
+### Mentioned In
+- [[MoundSpringSnailsOfTheAustrali_18623]]
+
+## Fonscochlea zeidleri
+
+### Summary
+Fonscochlea zeidleri is an amphibious hydrobiid snail species in the Lake Eyre Supergroup. Unlike other aquatic species in its genus, it is more resistant to desiccation and has not undergone geographic speciation.
+
+### Context
+> This document reports on the endemic aquatic fauna of artesian springs associated with the [[Great Artesian Basin]] (GAB) of Australia, with particular emphasis on hydrobiid snails. The GAB occupies approximately 22% of the Australian continent (1.76 million km²) and supports over 600 springs...
+> -- *[[MoundSpringSnailsOfTheAustrali_18623]]*
+
+### Mentioned In
+- [[MoundSpringSnailsOfTheAustrali_18623]]
+
 ## Fontaine (1944)
 
 ### Summary
@@ -7376,9 +7792,13 @@ Fontana Lake is an impoundment constructed in 1944 on the Little Tennessee River
 > This report evaluates habitat use and streamflow requirements of four federally listed or candidate fish species in the [[Yampa River]], [[Colorado]]: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]]...
 > -- *[[HabitatUseAndStreamflowNeedsOf_11609]]*
 
+> This comprehensive report evaluates habitat use and streamflow requirements for four federally listed or proposed endangered fishes in the [[Green River]] basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11573]]*
+
 ### Mentioned In
 - [[SomeEffectsOfRotenoneTreatment_1969]]
 - [[HabitatUseAndStreamflowNeedsOf_11609]]
+- [[HabitatUseAndStreamflowNeedsOf_11573]]
 
 ## Fontenelle Reservoir
 <!-- fm: auto_enriched: true -->
@@ -7690,6 +8110,9 @@ The Forest of Uco was a major capital project planned for construction in Year 2
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This document is the executive summary of the Rangeland Reform '94 Draft Environmental Impact Statement (EIS), prepared by the [[Bureau of Land Management]] (BLM) and [[Forest Service]] to evaluate proposed changes to federal rangeland management programs across 270 million acres in the western...
+> -- *[[RangelandReformDraftEnvironmen_11710]]*
+
 ### Mentioned In
 - [[TheStrategyAndDesignOfTheEffec_1997_11_13]]
 - [[ViewsOfAFishBiologistFromAFede_15069]]
@@ -7700,6 +8123,7 @@ The Forest of Uco was a major capital project planned for construction in Year 2
 - [[DraftProposedCriteriaForDesign_14776]]
 - [[WealthFromWastedWaters_15218]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[RangelandReformDraftEnvironmen_11710]]
 
 ## Forest Service Research Programs
 <!-- fm: auto_enriched: true -->
@@ -7807,6 +8231,18 @@ Forrest Shreve was a botanist whose papers, archived at the University of Arizon
 ### Mentioned In
 - [[ABotanistInArizonaTerritoryJac_13225]]
 
+## Forsman
+
+### Summary
+Forsman is a researcher whose work on spotted owls is referenced in this biological assessment. The source cites Forsman's research as part of the evaluation of the candidate Southern Spotted Owl species that could be affected by the proposed Miner Flat Dam project.
+
+### Context
+> This Biological Assessment evaluates potential impacts of the proposed [[Miner Flat Dam]] and [[Canyon Day Irrigation Project]] on endangered and threatened species under the Endangered Species Act of 1973. The concrete gravity dam would be constructed on the [[North Fork White River]] at elevation...
+> -- *[[BiologicalAssessmentForTheProp_11456]]*
+
+### Mentioned In
+- [[BiologicalAssessmentForTheProp_11456]]
+
 ## Fort Apache Indian Reservation
 <!-- fm: auto_enriched: true -->
 
@@ -7829,6 +8265,9 @@ The Fort Apache Indian Reservation in Arizona is a significant geographic and ad
 > This U.S. Fish & Wildlife Service document (1987) describes three native trout species of the southwestern United States: [[Gila Trout]], [[Apache Trout]], and [[Rio Grande Cutthroat Trout]]. All three species experienced dramatic population declines due to competition and hybridization with...
 > -- *[[NativeTroutOfArizonaAndNewMexi_13251]]*
 
+> This Biological Assessment evaluates potential impacts of the proposed [[Miner Flat Dam]] and [[Canyon Day Irrigation Project]] on endangered and threatened species under the Endangered Species Act of 1973. The concrete gravity dam would be constructed on the [[North Fork White River]] at elevation...
+> -- *[[BiologicalAssessmentForTheProp_11456]]*
+
 ### Mentioned In
 - [[CryopreservationAsAToolForGeno_13953]]
 - [[ProposalForTheHatchingRearingA_14816]]
@@ -7839,6 +8278,7 @@ The Fort Apache Indian Reservation in Arizona is a significant geographic and ad
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[ReviewOfProjectFair_21120]]
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
+- [[BiologicalAssessmentForTheProp_11456]]
 
 ## Fort Apache Indian Reservation Fisheries Management
 <!-- fm: auto_enriched: true -->
@@ -8234,6 +8674,18 @@ The Foskett Speckled Dace is an endangered fish species with highly restricted r
 ### Mentioned In
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 
+## Fossil Butte
+
+### Summary
+Fossil Butte is a location near Owyhee County, Idaho where the Chasmistes spatulifer specimen was collected. The specimen came from fine sandy-silt deposits of lacustrine origin near this site in Lake Idaho deposits.
+
+### Context
+> This paper describes a partial skeleton of the head region of *[[Chasmistes spatulifer]]*, a catostomid fish from [[Plio-Pleistocene]] [[Lake Idaho]] deposits near [[Fossil Butte]] in [[Owyhee County]], Idaho. The specimen (ISUM 32034), collected June 17, 1971, greatly expands knowledge of this...
+> -- *[[ACatostomidFishFromPliopleisto_20337]]*
+
+### Mentioned In
+- [[ACatostomidFishFromPliopleisto_20337]]
+
 ## Fossil Creek
 <!-- fm: auto_enriched: true -->
 
@@ -8277,6 +8729,9 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 > This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
 > -- *[[CurrentStatusOfEndangeredThrea_12695]]*
 
+> This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
+> -- *[[MorphologicalVariationInGilaPi_12778]]*
+
 ### Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[DesertFishesRecoveryTeamAction_11691]]
@@ -8294,12 +8749,25 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 - [[AdvancedIdentificationOfFuncti_11587]]
 - [[AmericanRiversScientificAndTec_15167]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
+- [[MorphologicalVariationInGilaPi_12778]]
 
 ## Fossil Sharks
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[PetalodusJewettiANewSpeciesOfF_1957]]
+
+## Fossil Springs
+
+### Summary
+Fossil Springs is a spring system in the Verde River drainage with constant warm temperature and populations isolated by over 500 meters of precipitous channel with numerous vertical falls. Despite its thermally stable environment, Fossil Springs exhibits high variability in dorsal fin rays and clear morphological intermediacy between Gila intermedia and Gila robusta robusta, interpreted as evidence of past hybridization rather than ecophenotypic response, with current isolation preventing upstream gene flow from mainstream populations.
+
+### Context
+> This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
+> -- *[[MorphologicalVariationInGilaPi_12778]]*
+
+### Mentioned In
+- [[MorphologicalVariationInGilaPi_12778]]
 
 ## Fossil Springs Diversion Dam
 <!-- fm: auto_enriched: true -->
@@ -8497,6 +8965,18 @@ Fowler (1917) documented spawning behavior for several related ictalurid species
 
 ### Mentioned In
 - [[TheSolubilityOfOxygenInPureWat_1955]]
+
+## Fox Islands
+
+### Summary
+The Fox Islands are located in northern Lake Michigan and served as the concentrated release site for all marked lake trout fingerlings in this 1944-1946 stocking experiment. This localized planting area was specifically chosen to facilitate recovery of marked fish by commercial fishermen and sport trollers, and to enable study of fish movement patterns from a known release point.
+
+### Context
+> This 1947 report by Albert S. Hazzard describes a cooperative multi-state experiment to evaluate the effectiveness of [[Lake Trout]] fingerling stocking in [[Lake Michigan]]. Between 1944-1946, 411,394 hatchery-reared lake trout (12.6% of 3,277,402 total planted) were marked by fin-clipping and...
+> -- *[[LakeTroutPlantingExperimentInL_20742]]*
+
+### Mentioned In
+- [[LakeTroutPlantingExperimentInL_20742]]
 
 ## Fox River (Wisconsin)
 <!-- fm: auto_enriched: true -->
@@ -8736,6 +9216,18 @@ Fraxinus (ash) is a tree genus present in the riparian gallery forest of Aravaip
 ### Mentioned In
 - [[FishesOfAravaipaCreekGrahamAnd_1966]]
 
+## Fraxinus velutina
+
+### Summary
+Fraxinus velutina, commonly known as velvet ash, is a broadleaf deciduous tree species. It occurs as part of the riparian woodland community in Aravaipa Creek alongside cottonwood, willow, and sycamore.
+
+### Context
+> This Master's thesis investigated the seasonal and longitudinal distribution and abundance of dominant benthic invertebrates in [[Aravaipa Creek]], a [[Sonoran Desert]] stream in Arizona, from April 1975 to April 1976. Eight sampling stations were established representing habitats above, within,...
+> -- *[[DistributionAndAbundanceOfBent_13853]]*
+
+### Mentioned In
+- [[DistributionAndAbundanceOfBent_13853]]
+
 ## Frazer Modification
 <!-- fm: auto_enriched: true -->
 
@@ -8837,12 +9329,32 @@ Freeman Creek is one of three main tributaries feeding Lake Davis reservoir. Lik
 > This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
 > -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
 
+> This 1989 Bureau of Land Management biological assessment documents a proposed introduction of [[Desert Pupfish]] (*Cyprinodon macularius*) into three spring-fed ponds at two locations in the Safford District, Arizona. The sites—Cold Spring Seep (Ponds 1 and 2) and Big Spring—already support...
+> -- *[[BiologicalAssessmentDesertPupf_12882]]*
+
+> This document is an instream flow request submitted by the [[U.S. Fish and Wildlife Service]] to the [[Arizona Department of Water Resources]] for [[Leslie Creek]] within [[Leslie Canyon National Wildlife Refuge]]. The refuge, located 17 miles north of Douglas, Arizona along the southwestern flank...
+> -- *[[LeslieCanyonNationalWildlifeRe_13468]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[CommentsOnTheUSFishAndWildlife_1997_07_08]]
 - [[ChangesInRiparianVegetationAnd_14524]]
 - [[ReBiologicalOpinionOnRepairOfF_15004]]
 - [[FinalDraftEcosystemPlanForTheL_11674]]
+- [[BiologicalAssessmentDesertPupf_12882]]
+- [[LeslieCanyonNationalWildlifeRe_13468]]
+
+## Fremont Weir
+
+### Summary
+Fremont Weir is a location in the Sacramento-San Joaquin Delta where white catfish were collected for biological analysis, including 463 fish used for age-growth studies and 29 fish for diet analysis. During shad runs at Fremont Weir, American shad parts were conspicuous in white catfish stomach contents, and spawning observations were conducted there in 1953-1954.
+
+### Context
+> This study investigated the biology and vital statistics of [[White Catfish]] (*Ictalurus catus*) in the [[Sacramento-San Joaquin Delta]] during 1952-1955. The research employed extensive tagging programs (totaling 4,864 tagged fish across three studies) to assess movement patterns, mortality...
+> -- *[[WhiteCatfishIctalurusCatusOfTh_17725]]*
+
+### Mentioned In
+- [[WhiteCatfishIctalurusCatusOfTh_17725]]
 
 ## French Creek
 <!-- fm: auto_enriched: true -->
@@ -9838,6 +10350,18 @@ Frisco Hot Springs is a thermal spring system on the San Francisco River in New 
 ### Mentioned In
 - [[StreamSurveyOfTheSanFranciscoR_11523]]
 
+## Fritz Canyon
+
+### Summary
+Fritz Canyon is a tributary confluence along the Blue River in Greenlee County, Arizona. It served as one of multiple landmark reference points for identifying sampling locations during the 1997 fisheries survey.
+
+### Context
+> A comprehensive fisheries survey was conducted along the [[Blue River]] in [[Greenlee County]], Arizona from June 16-19, 1997. The survey team from [[Arizona State University]] and [[United States Forest Service]] sampled 90 pools between [[Smith Ranch]] and F.S. Road 475 ([[Juan Miller...
+> -- *[[BlueRiverPoolSamplingGreenleeC_17213]]*
+
+### Mentioned In
+- [[BlueRiverPoolSamplingGreenleeC_17213]]
+
 ## Frog Spring
 
 ### Summary
@@ -10010,8 +10534,12 @@ The Fryingpan-Arkansas Project is a water management system in Colorado that inc
 > This pre-operational study examined the movements, home ranges, and distribution patterns of [[Lake Trout]] (Salvelinus namaycush) in [[Twin Lakes]], Colorado, between July 1977 and November 1978, prior to the commencement of the [[Mt. Elbert Pumped-Storage Powerplant]]. Using ultrasonic telemetry,...
 > -- *[[MovementsOfLakeTroutInTwinLake_14420]]*
 
+> This workshop proceedings document, compiled by James F. LaBounty in February 1976, summarizes the third annual workshop on ecological effects of pumped-storage hydroelectric operations, with primary focus on the [[Mt. Elbert Unit]] at [[Twin Lakes, Colorado]]. The workshop brought together...
+> -- *[[ThirdWorkshopOnEcologyOfPumpst_12641]]*
+
 ### Mentioned In
 - [[MovementsOfLakeTroutInTwinLake_14420]]
+- [[ThirdWorkshopOnEcologyOfPumpst_12641]]
 
 ## Fryingpan-Arkansas Reclamation Project
 <!-- fm: auto_enriched: true -->
@@ -10413,6 +10941,9 @@ Fundulus heteroclitus, commonly known as the mummichog or killifish, is a small 
 > - Florida contains 19–21 species of oviparous cyprinodontids, with 3 species endemic to the state ([[Cyprinodon hubbsi]], [[Fundulus seminolis]], [[Jordanella floridae]]). - The genus **[[Fundulus]]** dominates Florida's killifish diversity (10–12 species), representing nearly half of all U.S. Fu...
 > -- *[[TheDistributionOfTheOviparousK_16815]]*
 
+> This paper describes **Corophium aquafuscum** new species, a tube-dwelling amphipod discovered in 1968 in low salinity marsh areas of Georgia estuaries. The species is characterized by a completely segmented urosome, two strong distoventral teeth on antenna 2 segment 4, absence of distinct rostrum...
+> -- *[[ANewSpeciesOfCorophiumLatreill_20748]]*
+
 ### Mentioned In
 - [[CyclicalActivityOfTheThyroidGl_15081]]
 - [[OsmoregulatoryRoleOfSerumGluco_1971]]
@@ -10421,6 +10952,7 @@ Fundulus heteroclitus, commonly known as the mummichog or killifish, is a small 
 - [[TheDistributionOfTheOviparousK_16815]]
 - [[TheImmunityOfFundulusEggsAndEm_1903_05_01]]
 - [[TheSurvivalOfChondrococcusColu_1968_09_27]]
+- [[ANewSpeciesOfCorophiumLatreill_20748]]
 
 ## Fundulus Jenkinsi
 <!-- fm: auto_enriched: true -->
@@ -10789,8 +11321,12 @@ FWS (U.S. Fish and Wildlife Service) is a federal agency that was involved in di
 > The [[Bureau of Reclamation]] announced a three-month delay in releasing the draft Environmental Impact Statement (EIS) for [[Glen Canyon Dam]] operations, originally scheduled for August 1993. The delay resulted from ongoing discussions with the [[U.S. Fish and Wildlife Service]] concerning...
 > -- *[[BureauOfReclamationAnnouncesDe_20789]]*
 
+> This draft document presents recommendations from the National Fish Hatchery Review Panel (McIntyre, Rinne, Minckley, Williams) dated September 23, 1974, addressing the role of federal fish hatcheries within a National Fisheries Program ([[NFP]]). The panel identified significant challenges...
+> -- *[[DraftRecommendationsNationalFi_19586]]*
+
 ### Mentioned In
 - [[BureauOfReclamationAnnouncesDe_20789]]
+- [[DraftRecommendationsNationalFi_19586]]
 
 ## Fws Fisheries Program
 <!-- fm: auto_enriched: true -->
@@ -10820,6 +11356,18 @@ FWS (U.S. Fish and Wildlife Service) is a federal agency that was involved in di
 
 ### Mentioned In
 - [[LetterToProfessorWLMinckleyOnD_1989_05_15]]
+
+## FWS Technology Centers
+
+### Summary
+FWS Technology Centers are research and development facilities within the Fish and Wildlife Service. The panel recommended that any hatchery units found to be excess to National Fisheries Program needs after evaluation should be considered for use in research and development activities tied to these Technology Centers or consolidated with National Biological Survey research activities.
+
+### Context
+> This draft document presents recommendations from the National Fish Hatchery Review Panel (McIntyre, Rinne, Minckley, Williams) dated September 23, 1974, addressing the role of federal fish hatcheries within a National Fisheries Program ([[NFP]]). The panel identified significant challenges...
+> -- *[[DraftRecommendationsNationalFi_19586]]*
+
+### Mentioned In
+- [[DraftRecommendationsNationalFi_19586]]
 
 ## Fyke Net
 <!-- fm: auto_enriched: true -->

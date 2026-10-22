@@ -304,11 +304,27 @@ Dalapon is one of twelve herbicide active ingredients reviewed in this report fo
 > This document is an extensive unpublished bibliography compiled by Peter J. Unmack in 1995, cataloging scientific and technical literature on the [[Great Artesian Basin]] and its associated [[Mound Springs]] in Australia. The bibliography encompasses over 300 references spanning from the 1870s to...
 > -- *[[AustralianDesertSpringsgreatAr_11445]]*
 
+> This document reports on the endemic aquatic fauna of artesian springs associated with the [[Great Artesian Basin]] (GAB) of Australia, with particular emphasis on hydrobiid snails. The GAB occupies approximately 22% of the Australian continent (1.76 million km²) and supports over 600 springs...
+> -- *[[MoundSpringSnailsOfTheAustrali_18623]]*
+
 ### Mentioned In
 - [[LetterToDrWLMinckleyRequesting_1994_07_11]]
 - [[SouthAustraliaSMoundSpringsSom_20663]]
 - [[UsfwsmexicoCooperativeProgramG_16498]]
 - [[AustralianDesertSpringsgreatAr_11445]]
+- [[MoundSpringSnailsOfTheAustrali_18623]]
+
+## Dalhousie Supergroup
+
+### Summary
+The Dalhousie Supergroup is a group of artesian springs in the Great Artesian Basin with relatively low total dissolved solids (650-2000 mg/L). It supports a hydrobiid snail radiation that appears less stabilized than the Lake Eyre radiation, with considerable variation within populations and different morphotypes occurring in different spring microhabitats based on physical conditions like temperature and current speed.
+
+### Context
+> This document reports on the endemic aquatic fauna of artesian springs associated with the [[Great Artesian Basin]] (GAB) of Australia, with particular emphasis on hydrobiid snails. The GAB occupies approximately 22% of the Australian continent (1.76 million km²) and supports over 600 springs...
+> -- *[[MoundSpringSnailsOfTheAustrali_18623]]*
+
+### Mentioned In
+- [[MoundSpringSnailsOfTheAustrali_18623]]
 
 ## Dallas Creek Reservoir
 
@@ -683,6 +699,9 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 > This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
 > -- *[[AquaticEnvironmentalReportForO_17695]]*
 
+> [[Big Bear Lake]] in [[San Bernardino County]], California was treated with toxaphene in September 1960 to eradicate an abundant population of [[Goldfish]] (*Carassius auratus*) and the ectoparasitic copepod *[[Lernaea carassii]]*. The treatment followed two unsuccessful rotenone applications....
+> -- *[[ToxapheneTreatmentOfBigBearLak_19824]]*
+
 ### Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[Craspedacusta Sowerbii in Pymatuning Reservoir]]
@@ -703,6 +722,7 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 - [[MuskalongemakingMuskies_11361]]
 - [[StudiesOfTheEffectsOfOperating_12648]]
 - [[AquaticEnvironmentalReportForO_17695]]
+- [[ToxapheneTreatmentOfBigBearLak_19824]]
 
 ## Daphnia ambigua
 <!-- fm: auto_enriched: true -->
@@ -1164,6 +1184,18 @@ David L. Soltz was one of three compilers of the 1977 Death Valley System aquati
 ### Mentioned In
 - [[FishesAndAquaticResourcesOfThe_15407]]
 
+## David L. Wegner
+
+### Summary
+David L. Wegner served as the GCES Program Manager for the Glen Canyon Environmental Studies Phase II program in 1989. He coordinated with the newly appointed Senior Scientist Duncan Patten and the Executive Review Committee to oversee the multi-agency effort studying environmental impacts of Glen Canyon Dam operations on the Colorado River ecosystem.
+
+### Context
+> This document is a program update newsletter from the [[Glen Canyon Environmental Studies]] (GCES) Phase II program, dated May 1989. It announces the appointment of Dr. [[Duncan Patten]] from [[Arizona State University]] as Senior Scientist to provide scientific oversight and integration for the...
+> -- *[[GlenCanyonEnvironmentalStudies_19685]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_19685]]
+
 ## David Propst
 <!-- fm: auto_enriched: true -->
 
@@ -1217,6 +1249,18 @@ David Starr Jordan was a pioneering American ichthyologist and naturalist of the
 
 ### Mentioned In
 - [[LetterToDavidWegnerRegardingAs_1991_02_21]]
+
+## Davidson County
+
+### Summary
+Davidson County is a county in Middle Tennessee where Cambarus gentryi has been collected. Two juvenile specimens were collected along a creek at Montgomery Bell State Park in this county.
+
+### Context
+> This paper describes **Cambarus gentryi**, a new species of burrowing crayfish from the [[Nashville Basin]] in [[Tennessee]]. The species was first collected in the 1890s from a tributary of [[Stones River]] but remained undescribed for approximately 75 years. It was rediscovered in 1968 by Dr....
+> -- *[[ANewCrayfishFromTheNashvilleBa_20416]]*
+
+### Mentioned In
+- [[ANewCrayfishFromTheNashvilleBa_20416]]
 
 ## Davis (1953)
 
@@ -1478,6 +1522,12 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> This 1969 Bureau of Reclamation document describes the comprehensive Operation and Maintenance (O&M) Program for the [[Lower Colorado River]] below [[Davis Dam]], implemented under the Colorado River Front Work and Levee System Act of 1927. The program addresses channel instability, sediment...
+> -- *[[LowerColoradoRiverMaps_12161]]*
+
+> This document comprises a 1989 research proposal by [[Thomas E. Dowling]] and [[W. L. Minckley]] to assess genetic diversity of [[Razorback Sucker]] (*Xyrauchen texanus*) populations using restriction endonuclease analysis of mitochondrial DNA (mtDNA), submitted to the [[U.S. Bureau of...
+> -- *[[GeneticDiversityOfRazorbackSuc_19113]]*
+
 ### Mentioned In
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -1530,6 +1580,8 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[LowerColoradoRiverMaps_12161]]
+- [[GeneticDiversityOfRazorbackSuc_19113]]
 
 ## Davis Dam Spillway
 <!-- fm: auto_enriched: true -->
@@ -2329,11 +2381,15 @@ Declining Amphibian Populations is addressed through a dedicated Task Force with
 > This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
 > -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
 
+> This Biological Assessment evaluates potential impacts of the proposed [[Miner Flat Dam]] and [[Canyon Day Irrigation Project]] on endangered and threatened species under the Endangered Species Act of 1973. The concrete gravity dam would be constructed on the [[North Fork White River]] at elevation...
+> -- *[[BiologicalAssessmentForTheProp_11456]]*
+
 ### Mentioned In
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
 - [[RareAndEndangeredSpeciesTheGil_18134]]
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[ObservationsOnTheFoodHabitsOfD_20140]]
+- [[BiologicalAssessmentForTheProp_11456]]
 
 ## Deep Creek Mountains
 <!-- fm: auto_enriched: true -->
@@ -2501,6 +2557,18 @@ Deer Mouse was monitored for DDT residues following forest application at Knox M
 
 ### Mentioned In
 - [[WildlifeStudiesDenverWildlifeR_14329]]
+
+## Deer Valley High School
+
+### Summary
+Deer Valley High School was one of the institutions in the chain of custody for Desert Pupfish captive breeding stock. The pupfish were transferred through this school (along with Arizona State University and Boyce Thompson Arboretum) before reaching Flowing Wells High School where they were bred for the proposed conservation introduction.
+
+### Context
+> This 1989 Bureau of Land Management biological assessment documents a proposed introduction of [[Desert Pupfish]] (*Cyprinodon macularius*) into three spring-fed ponds at two locations in the Safford District, Arizona. The sites—Cold Spring Seep (Ponds 1 and 2) and Big Spring—already support...
+> -- *[[BiologicalAssessmentDesertPupf_12882]]*
+
+### Mentioned In
+- [[BiologicalAssessmentDesertPupf_12882]]
 
 ## Deerfield River
 <!-- fm: auto_enriched: true -->
@@ -2853,6 +2921,18 @@ The Delta-Upper Gulf Biosphere Reserve is the protected area identified as a pil
 ### Mentioned In
 - [[SummaryOfEvents_18368]]
 
+## Deltistes
+
+### Summary
+Deltistes is a genus of catostomid suckers found in western North America. This source discusses it as one of the genera examined in a protein electrophoretic analysis of endangered sucker species in northern California, alongside Catostomus and Chasmistes.
+
+### Context
+> This correspondence from [[Arizona State University]] Department of Zoology (dated 20 May 1991) provides critical review of a population genetics project report by Moyle and Berg concerning endangered catostomid fishes in northern California. The letter, addressed to the [[California Department of...
+> -- *[[ReviewOfMoyleAndBergsProjectRe_13795]]*
+
+### Mentioned In
+- [[ReviewOfMoyleAndBergsProjectRe_13795]]
+
 ## Deltistes Luxatus
 <!-- fm: auto_enriched: true -->
 
@@ -2921,8 +3001,12 @@ Denali National Park is represented on the NPS coordination group through Willia
 > This April 13, 1988 memorandum from the National Park Service Western Regional Director announces the appointment of an NPS coordination group to work with the newly-appointed [[National Parks and Conservation Association]] (NPCA) Commission on Research and Resource Management Policy in the...
 > -- *[[AppointmentOfNpsCoordinationGr_12199]]*
 
+> This 1993 report by [[American Rivers]] identifies the ten most endangered and fifteen most threatened rivers in North America based on importance as natural resources, degree of threat, and imminence of those threats. The document serves as an advocacy tool to raise public awareness about...
+> -- *[[TheNationsTenMostEndangeredRiv_17976]]*
+
 ### Mentioned In
 - [[AppointmentOfNpsCoordinationGr_12199]]
+- [[TheNationsTenMostEndangeredRiv_17976]]
 
 ## Dendrobaena
 <!-- fm: auto_enriched: true -->
@@ -2941,6 +3025,18 @@ Dendroica striata, the blackpoll warbler, is a migratory bird species. This sour
 
 ### Mentioned In
 - [[CalorificEquivalentsForStudies_18098]]
+
+## Dendrortyx
+
+### Summary
+Dendrortyx is a genus of wood-partridges endemic to Mexico. The draft standard lists Dendrortyx species with conservation classifications ranging from threatened (A*) to endangered (P*), with asterisks indicating they are endemic to Mexico.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
 
 ## Dendy
 
@@ -3305,6 +3401,30 @@ The Depletion Method is a population estimation technique that calculates total 
 ### Mentioned In
 - [[UrenchelysAbditusNewSpeciesThe_11967]]
 
+## Dermatemys mawii
+
+### Summary
+Dermatemys mawii is a freshwater turtle endemic to Mexico (indicated by P* classification). This draft standard classifies it as endangered, meaning its distribution or population size has been drastically reduced, threatening its biological viability.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
+
+## Dermochelys coriacea
+
+### Summary
+Dermochelys coriacea is the leatherback sea turtle. According to this document, all sea turtle species in Mexico are classified as endangered (P), reflecting drastically reduced populations threatening their biological viability.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
+
 ## Deroceras Laeve
 <!-- fm: auto_enriched: true -->
 
@@ -3539,11 +3659,19 @@ Desert Cottontail Rabbit (Sylvilagus audubonii) is a native mammal species that 
 > This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
 > -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
 
+> This preliminary draft Environmental Assessment, prepared by the [[U.S. Fish and Wildlife Service]] in June 1996, evaluates alternatives for eradicating the invasive [[Red Shiner]] (*Notropis lutrensis*) from the [[Virgin River]] in Utah. The red shiner, a small minnow native to the North Central...
+> -- *[[PreliminaryDraftEnvironmentalA_11680]]*
+
+> This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
+> -- *[[FishesOfNevada_15993]]*
+
 ### Mentioned In
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 - [[MxMissileSystemeffectsOnDesert_20506]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[PreliminaryDraftEnvironmentalA_11680]]
+- [[FishesOfNevada_15993]]
 
 ## Desert Ecosystems
 <!-- fm: auto_enriched: true -->
@@ -4644,6 +4772,15 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
 > -- *[[LongtermMonitoringOfADesertFis_2021]]*
 
+> This 1989 Bureau of Land Management biological assessment documents a proposed introduction of [[Desert Pupfish]] (*Cyprinodon macularius*) into three spring-fed ponds at two locations in the Safford District, Arizona. The sites—Cold Spring Seep (Ponds 1 and 2) and Big Spring—already support...
+> -- *[[BiologicalAssessmentDesertPupf_12882]]*
+
+> This field report documents the first comprehensive biological and hydrological survey of [[Cienega de Santa Clara]], a wetland in the [[Colorado River Delta]] in northwestern [[Sonora]], [[Mexico]], conducted October 13-18, 1992. The multi-institutional team assessed fish populations, avifauna,...
+> -- *[[FieldReportNoStudyOfCienegaDeS_16073]]*
+
+> The Native Fish Project at [[Phoenix Zoo]] established a dual-purpose conservation facility in summer 1996 to provide long-term refugium and head-start capabilities for endangered southwestern native fish species. Through multi-agency collaboration, zoo staff successfully converted existing lake...
+> -- *[[FishFareFineAtPhoenix_19367]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -4878,6 +5015,9 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[FinalDraftEcosystemPlanForTheL_11674]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[LongtermMonitoringOfADesertFis_2021]]
+- [[BiologicalAssessmentDesertPupf_12882]]
+- [[FieldReportNoStudyOfCienegaDeS_16073]]
+- [[FishFareFineAtPhoenix_19367]]
 
 ## Desert Pupfish Conservation
 <!-- fm: auto_enriched: true -->
@@ -5196,6 +5336,24 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
 > -- *[[LongtermMonitoringOfADesertFis_2021]]*
 
+> This preliminary draft Environmental Assessment, prepared by the [[U.S. Fish and Wildlife Service]] in June 1996, evaluates alternatives for eradicating the invasive [[Red Shiner]] (*Notropis lutrensis*) from the [[Virgin River]] in Utah. The red shiner, a small minnow native to the North Central...
+> -- *[[PreliminaryDraftEnvironmentalA_11680]]*
+
+> This recovery plan addresses two endangered cyprinid species endemic to the [[Virgin River]] system: the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*). The woundfin was listed as endangered on October 13, 1970, and the Virgin River chub on August 24,...
+> -- *[[VirginRiverFishesRecoveryPlan_13186]]*
+
+> This report assesses the potential for non-native fish species transported in [[Central Arizona Project]] (CAP) canal waters to enter the [[Gila River]] system and impact threatened or endangered native fish species, particularly [[Spikedace]] (*Meda fulgida*), [[Loach Minnow]] (*Tiaroga cobitis*),...
+> -- *[[PotentialForTransferOfNonnativ_15168]]*
+
+> This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
+> -- *[[FishesOfNevada_15993]]*
+
+> A comprehensive fisheries survey was conducted along the [[Blue River]] in [[Greenlee County]], Arizona from June 16-19, 1997. The survey team from [[Arizona State University]] and [[United States Forest Service]] sampled 90 pools between [[Smith Ranch]] and F.S. Road 475 ([[Juan Miller...
+> -- *[[BlueRiverPoolSamplingGreenleeC_17213]]*
+
+> This field report documents emergency fish sampling conducted 07-08 January 1989 along the [[Virgin River]] (Arizona-Nevada-Utah) immediately following the catastrophic failure of [[Quail Creek Reservoir]] dike on 01 January 1989. Personnel from [[Arizona State University]] (ASU) and [[University...
+> -- *[[VirginRiverFishSamplingJanuary_19425]]*
+
 ### Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -5305,6 +5463,12 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[GilaRiverFishdistributionProje_15844]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
 - [[LongtermMonitoringOfADesertFis_2021]]
+- [[PreliminaryDraftEnvironmentalA_11680]]
+- [[VirginRiverFishesRecoveryPlan_13186]]
+- [[PotentialForTransferOfNonnativ_15168]]
+- [[FishesOfNevada_15993]]
+- [[BlueRiverPoolSamplingGreenleeC_17213]]
+- [[VirginRiverFishSamplingJanuary_19425]]
 
 ## Desert Tortoise
 <!-- fm: auto_enriched: true -->
@@ -5343,6 +5507,9 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
 > -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
 
+> This preliminary draft Environmental Assessment, prepared by the [[U.S. Fish and Wildlife Service]] in June 1996, evaluates alternatives for eradicating the invasive [[Red Shiner]] (*Notropis lutrensis*) from the [[Virgin River]] in Utah. The red shiner, a small minnow native to the North Central...
+> -- *[[PreliminaryDraftEnvironmentalA_11680]]*
+
 ### Mentioned In
 - [[ReportingFederalExpendituresPu_1992_11_25]]
 - [[PapagoParkMilitaryReservationB_13351]]
@@ -5355,6 +5522,7 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 - [[TuleCreekExclosureProjectSumma_17655]]
 - [[FinalDraftEcosystemPlanForTheL_11674]]
+- [[PreliminaryDraftEnvironmentalA_11680]]
 
 ## Desert Tortoises
 
@@ -5443,6 +5611,9 @@ Desolation Canyon is a significant reach of the Green River in the upper Colorad
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This public education brochure describes four endangered native fish species of the [[Colorado River Basin]]: the [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These species...
+> -- *[[SwimmingUpstreamTheEndangeredF_15037]]*
+
 ### Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[ChangesInNativeFishDistributio_1973]]
@@ -5464,6 +5635,7 @@ Desolation Canyon is a significant reach of the Green River in the upper Colorad
 - [[DevelopmentOfAStandardizedMoni_15549]]
 - [[WantedForTheFutureTheseNativeF_13295]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[SwimmingUpstreamTheEndangeredF_15037]]
 
 ## Desolation Gray Canyons
 
@@ -5508,6 +5680,18 @@ Detection efficiency measures the probability that tagged fish are successfully 
 
 ### Mentioned In
 - [[RazorbackSuckerMovementStrateg_2020]]
+
+## Detracia floridana
+
+### Summary
+Detracia floridana is a mollusc species inhabiting freshwater-oligohaline tidal creek environments. It was found among the associated fauna co-occurring with Corophium aquafuscum at the type-locality in Riceboro Creek, Georgia.
+
+### Context
+> This paper describes **Corophium aquafuscum** new species, a tube-dwelling amphipod discovered in 1968 in low salinity marsh areas of Georgia estuaries. The species is characterized by a completely segmented urosome, two strong distoventral teeth on antenna 2 segment 4, absence of distinct rostrum...
+> -- *[[ANewSpeciesOfCorophiumLatreill_20748]]*
+
+### Mentioned In
+- [[ANewSpeciesOfCorophiumLatreill_20748]]
 
 ## Detrimental Species
 
@@ -5636,11 +5820,15 @@ Northern pike are listed as a "detrimental animal" under California Code of Regu
 > This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
 > -- *[[UnitedStatesListOfEndangeredFa_11533]]*
 
+> This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
+> -- *[[FishesOfNevada_15993]]*
+
 ### Mentioned In
 - [[CommentsOnTheDesertFishesCounc_20490]]
 - [[InformalSectionConsultationReP_13297]]
 - [[DevilsHolePupfishCyprinodonDia_18341]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
+- [[FishesOfNevada_15993]]
 
 ## Devil'S Hole Pupfish
 <!-- fm: auto_enriched: true -->
@@ -5667,12 +5855,16 @@ Northern pike are listed as a "detrimental animal" under California Code of Regu
 > This document presents the official United States List of Endangered Fauna published in May 1974 by the U.S. Fish and Wildlife Service. It implements the Endangered Species Act of 1973 (Public Law 93-205), which became effective December 28, 1973, replacing the previous 1969 Act. The list...
 > -- *[[UnitedStatesListOfEndangeredFa_11533]]*
 
+> This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
+> -- *[[FishesOfNevada_15993]]*
+
 ### Mentioned In
 - [[CommentsOnTheDesertFishesCounc_20490]]
 - [[WesternWaterPolicyFromReclamat_1999_06_08]]
 - [[InformalSectionConsultationReP_13297]]
 - [[DevilsHolePupfishCyprinodonDia_18341]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
+- [[FishesOfNevada_15993]]
 
 ## Devil'S Lake
 <!-- fm: auto_enriched: true -->
@@ -5862,6 +6054,18 @@ The Devils River is a tributary of the Rio Grande where Ictalurus lupus occurs, 
 
 ### Mentioned In
 - [[TaxonomicStatusEcologyAndDistr_14514]]
+
+## Devonian
+
+### Summary
+The Devonian is a geological period during which several fossil groups related to cyclostomes existed, including Anaspida, Osteostraci, and the problematical Palaeospondylus. No Ostracodermi are known beyond the end of the Devonian, though some primitive Agnatha member must have persisted to give rise to living cyclostomes.
+
+### Context
+> This encyclopedic entry provides a comprehensive overview of cyclostomes—the lampreys and hagfishes—which constitute the class [[Cyclostomata]]. These primitive, jawless, eel-shaped fishes represent approximately 50 species inhabiting temperate waters worldwide. The document covers their economic...
+> -- *[[Cyclostome_14164]]*
+
+### Mentioned In
+- [[Cyclostome_14164]]
 
 ## DeWilde
 
@@ -6204,6 +6408,24 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This correspondence from the Arizona Game and Fish Department to Dr. W.L. Minckley documents the collection and preservation of 192 [[Razorback Sucker]] specimens from the 1994 Year Class for genetic and morphometric analysis. The collection occurred on January 31, 1995, when an earthen pond at...
 > -- *[[FollowupOnRazorbackSuckersToAs_18234]]*
 
+> This revised recovery plan addresses the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), one of two subspecies of [[Sonoran Topminnow]] found in Arizona and northern Mexico. Listed as endangered in 1967, the species was historically among the most abundant fishes in the lower...
+> -- *[[DraftGilaTopminnowPoeciliopsis_11637]]*
+
+> This preliminary draft Environmental Assessment, prepared by the [[U.S. Fish and Wildlife Service]] in June 1996, evaluates alternatives for eradicating the invasive [[Red Shiner]] (*Notropis lutrensis*) from the [[Virgin River]] in Utah. The red shiner, a small minnow native to the North Central...
+> -- *[[PreliminaryDraftEnvironmentalA_11680]]*
+
+> This final report documents a 1987 monitoring study of [[Razorback Sucker]] (*Xyrauchen texanus*) reintroduced into the [[Lower Colorado River]]. Approximately 900,000 larvae produced at [[Dexter National Fish Hatchery]] were stocked into selected Colorado River backwaters in late spring 1987, with...
+> -- *[[AMonitoringStudyOfRazorbackSuc_12703]]*
+
+> This document comprises correspondence and stocking records from the [[U.S. Fish and Wildlife Service]] documenting the translocation and management of [[Yaqui Chub]] (*Gila purpurea*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis*) at [[San Bernardino National Wildlife Refuge]] and [[Leslie...
+> -- *[[CompiledStockingRecordsForSanB_15975]]*
+
+> This document comprises a 1989 research proposal by [[Thomas E. Dowling]] and [[W. L. Minckley]] to assess genetic diversity of [[Razorback Sucker]] (*Xyrauchen texanus*) populations using restriction endonuclease analysis of mitochondrial DNA (mtDNA), submitted to the [[U.S. Bureau of...
+> -- *[[GeneticDiversityOfRazorbackSuc_19113]]*
+
+> The Native Fish Project at [[Phoenix Zoo]] established a dual-purpose conservation facility in summer 1996 to provide long-term refugium and head-start capabilities for endangered southwestern native fish species. Through multi-agency collaboration, zoo staff successfully converted existing lake...
+> -- *[[FishFareFineAtPhoenix_19367]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -6415,6 +6637,12 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[ProvisionalKeyToTheProtolarvae_21239]]
 - [[FollowupOnRazorbackSuckersToAs_18234]]
+- [[DraftGilaTopminnowPoeciliopsis_11637]]
+- [[PreliminaryDraftEnvironmentalA_11680]]
+- [[AMonitoringStudyOfRazorbackSuc_12703]]
+- [[CompiledStockingRecordsForSanB_15975]]
+- [[GeneticDiversityOfRazorbackSuc_19113]]
+- [[FishFareFineAtPhoenix_19367]]
 
 ## Dexter National Fish Hatchery & Technology Center
 <!-- fm: auto_enriched: true -->
@@ -6494,6 +6722,9 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 > This 1993 technical document from the [[San Marcos National Fish Hatchery]] provides comprehensive genetic management guidelines for federal fish hatcheries in Region 2. The document addresses growing concerns that hatchery operations may threaten wild fish populations through genetic degradation,...
 > -- *[[GeneralGeneticGuidelinesForReg_18841]]*
 
+> This recovery plan addresses two endangered cyprinid species endemic to the [[Virgin River]] system: the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*). The woundfin was listed as endangered on October 13, 1970, and the Virgin River chub on August 24,...
+> -- *[[VirginRiverFishesRecoveryPlan_13186]]*
+
 ### Mentioned In
 - [[AnnualReportOnUSBureauOfReclam_19117]]
 - [[BonytailChubsHeldAtWillowBeach_1993_05_13]]
@@ -6529,6 +6760,7 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 - [[BiochemicalGeneticsOfEndangere_12089]]
 - [[AStudyToEvaluateSeveralTagging_13901]]
 - [[GeneralGeneticGuidelinesForReg_18841]]
+- [[VirginRiverFishesRecoveryPlan_13186]]
 
 ## Dexter Nfh
 <!-- fm: auto_enriched: true -->
@@ -6540,9 +6772,13 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 > This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
 > -- *[[AStudyToDetermineTheBiological_11576]]*
 
+> This document comprises correspondence and stocking records from the [[U.S. Fish and Wildlife Service]] documenting the translocation and management of [[Yaqui Chub]] (*Gila purpurea*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis*) at [[San Bernardino National Wildlife Refuge]] and [[Leslie...
+> -- *[[CompiledStockingRecordsForSanB_15975]]*
+
 ### Mentioned In
 - [[StationAllocationsAndFtesForOp_1994_03_29]]
 - [[AStudyToDetermineTheBiological_11576]]
+- [[CompiledStockingRecordsForSanB_15975]]
 
 ## Dexter NFH&TC
 
@@ -6717,6 +6953,9 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 > This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
 > -- *[[DiaryOfGrandCanyonSurvey_17643]]*
 
+> This Biological Assessment evaluates potential impacts of the proposed [[Miner Flat Dam]] and [[Canyon Day Irrigation Project]] on endangered and threatened species under the Endangered Species Act of 1973. The concrete gravity dam would be constructed on the [[North Fork White River]] at elevation...
+> -- *[[BiologicalAssessmentForTheProp_11456]]*
+
 ### Mentioned In
 - [[EffectsOfInterimFlowsFromGlenC_13655]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
@@ -6737,6 +6976,7 @@ Diamond Creek is a tributary of the Colorado River located at River Mile 225.7 i
 - [[GlenCanyonEnvironmentalStudies_19719]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[DiaryOfGrandCanyonSurvey_17643]]
+- [[BiologicalAssessmentForTheProp_11456]]
 
 ## Diamond Valley
 
@@ -6798,6 +7038,18 @@ Diamond Y Spring is a spring in Pecos County, Texas, serving as the type localit
 - [[Species Composition and Seasonal Distribution of Limnetic Crustacean Zooplankton of Northeastern Kansas]]
 - [[VariableKinematicsOfSacramento_1982]]
 - [[AquaticEnvironmentalReportForO_17695]]
+
+## Diapterus rhombeus
+
+### Summary
+Diapterus rhombeus is a gerrid (mojarra) species found in mangrove habitats. This source cites a study by Austin (1971) that examined predation in mangrove areas where D. rhombeus was one of the most common juvenile fish species, yet experienced predation rates of less than 3% by piscivorous fish.
+
+### Context
+> This study investigated sources of mortality for three species of [[Gerreidae]] ([[Gerres acinaces]], [[Gerres rappi]], and [[Gerres filamentosus]]) in Natal estuaries, South Africa, between 1978 and 1982, with primary focus on the [[Kosi System]]. Despite being abundant benthic feeders forming an...
+> -- *[[PredationAndSourcesOfMortality_18127]]*
+
+### Mentioned In
+- [[PredationAndSourcesOfMortality_18127]]
 
 ## Diaptomus
 <!-- fm: auto_enriched: true -->
@@ -7086,6 +7338,18 @@ Diatomaceous earth is a naturally occurring sedimentary rock composed of fossili
 
 ### Mentioned In
 - [[FoodsOfImpoundmentAndStreamDwe_1963]]
+
+## Dickson County
+
+### Summary
+Dickson County is a county in Middle Tennessee mentioned as a boundary reference for a Cambarus gentryi collection site. One specimen was collected along Yellow Creek at the line between Houston County and Dickson County.
+
+### Context
+> This paper describes **Cambarus gentryi**, a new species of burrowing crayfish from the [[Nashville Basin]] in [[Tennessee]]. The species was first collected in the 1890s from a tributary of [[Stones River]] but remained undescribed for approximately 75 years. It was rediscovered in 1968 by Dr....
+> -- *[[ANewCrayfishFromTheNashvilleBa_20416]]*
+
+### Mentioned In
+- [[ANewCrayfishFromTheNashvilleBa_20416]]
 
 ## Dictyosphaerium
 
@@ -7486,6 +7750,12 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 > This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
 > -- *[[ChangesInTheFishPopulationsInT_20462]]*
 
+> This comprehensive report evaluates habitat use and streamflow requirements for four federally listed or proposed endangered fishes in the [[Green River]] basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11573]]*
+
+> This public education brochure describes four endangered native fish species of the [[Colorado River Basin]]: the [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These species...
+> -- *[[SwimmingUpstreamTheEndangeredF_15037]]*
+
 ### Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -7528,6 +7798,8 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 - [[GreenRiverRareAndEndangeredFis_13060]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[ChangesInTheFishPopulationsInT_20462]]
+- [[HabitatUseAndStreamflowNeedsOf_11573]]
+- [[SwimmingUpstreamTheEndangeredF_15037]]
 
 ## Dinosaur National Park
 <!-- fm: auto_enriched: true -->
@@ -7716,6 +7988,18 @@ Dionda serena is a roundnose minnow species inhabiting the Nueces and Frio drain
 ### Mentioned In
 - [[DraftSpeciationInTheNorthAmeri_15234]]
 
+## Dioon
+
+### Summary
+Dioon is a genus of cycads in the family Zamiaceae. According to this Mexican endangered species standard, all Dioon species are listed as predominantly endangered or threatened, reflecting their conservation concern in Mexico.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
+
 ## Diplectrona
 
 ### Summary
@@ -7855,6 +8139,9 @@ Diptera is an order of insects that includes flies and midges, which are ecologi
 > This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
 > -- *[[AdverseBiologicalOpinionIndian_15638]]*
 
+> This Master's thesis investigated the seasonal and longitudinal distribution and abundance of dominant benthic invertebrates in [[Aravaipa Creek]], a [[Sonoran Desert]] stream in Arizona, from April 1975 to April 1976. Eight sampling stations were established representing habitats above, within,...
+> -- *[[DistributionAndAbundanceOfBent_13853]]*
+
 ### Mentioned In
 - [[FoodHabitsOfTheYellowBassRoccu_1963]]
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
@@ -7865,6 +8152,7 @@ Diptera is an order of insects that includes flies and midges, which are ecologi
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[DevelopmentOfSupportForAResear_17152]]
 - [[AdverseBiologicalOpinionIndian_15638]]
+- [[DistributionAndAbundanceOfBent_13853]]
 
 ## Diquat
 <!-- fm: auto_enriched: true -->
@@ -7918,8 +8206,13 @@ The Dirty Devil River is one of the major tributaries flowing into Lake Powell w
 ## Disappointment Slough
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This study investigated the biology and vital statistics of [[White Catfish]] (*Ictalurus catus*) in the [[Sacramento-San Joaquin Delta]] during 1952-1955. The research employed extensive tagging programs (totaling 4,864 tagged fish across three studies) to assess movement patterns, mortality...
+> -- *[[WhiteCatfishIctalurusCatusOfTh_17725]]*
+
 ### Mentioned In
 - [[SecondProgressReportOnTheTaggi_11257]]
+- [[WhiteCatfishIctalurusCatusOfTh_17725]]
 
 ## Discriminant Analysis
 <!-- fm: auto_enriched: true -->
@@ -8696,6 +8989,9 @@ Dolly Varden (*Salvelinus malma*) is a species of char in the Salmonidae family 
 > This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
 > -- *[[RealitiesOfProvidingWaterForEn_20669]]*
 
+> This document establishes the San Juan River Basin Recovery Implementation Program (RIP), a comprehensive cooperative framework designed to protect and recover endangered fish species—[[Colorado Squawfish]] and [[Razorback Sucker]]—while allowing water development to proceed in compliance with...
+> -- *[[SanJuanRiverBasinRecoveryImple_11583]]*
+
 ### Mentioned In
 - [[AdultBonytailFromDexterForStom_13615]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
@@ -8705,6 +9001,7 @@ Dolly Varden (*Salvelinus malma*) is a species of char in the Salmonidae family 
 - [[ColoradoSquawfishPtychocheilus_13278]]
 - [[ANonlethalStomachPumpToRecover_13647]]
 - [[RealitiesOfProvidingWaterForEn_20669]]
+- [[SanJuanRiverBasinRecoveryImple_11583]]
 
 ## Domestic Duck
 <!-- fm: auto_enriched: true -->
@@ -9593,6 +9890,18 @@ Drake's Creek is a Kentucky stream that was not scheduled for impoundment but wa
 ### Mentioned In
 - [[PreimpoundmentSurveysOfSixKent_13033]]
 
+## Draper Backwater
+
+### Summary
+Draper Backwater is a Colorado River backwater habitat located on both the California and Arizona sides of the river. In this study, the Arizona side site was used for larval razorback sucker stocking in 1987, but the site became dewatered when river flows decreased from 391 to 286 m³/sec, reducing it to a shallow muddy area and resulting in the presumed loss of all 60,236 stocked larvae.
+
+### Context
+> This final report documents a 1987 monitoring study of [[Razorback Sucker]] (*Xyrauchen texanus*) reintroduced into the [[Lower Colorado River]]. Approximately 900,000 larvae produced at [[Dexter National Fish Hatchery]] were stocked into selected Colorado River backwaters in late spring 1987, with...
+> -- *[[AMonitoringStudyOfRazorbackSuc_12703]]*
+
+### Mentioned In
+- [[AMonitoringStudyOfRazorbackSuc_12703]]
+
 ## Draper Lake
 
 ### Summary
@@ -9811,6 +10120,9 @@ Dry Beaver Creek is a major tributary of the Verde River in Arizona. According t
 > This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
 > -- *[[AdverseBiologicalOpinionIndian_15638]]*
 
+> This Biological Assessment evaluates potential impacts of the proposed [[Miner Flat Dam]] and [[Canyon Day Irrigation Project]] on endangered and threatened species under the Endangered Species Act of 1973. The concrete gravity dam would be constructed on the [[North Fork White River]] at elevation...
+> -- *[[BiologicalAssessmentForTheProp_11456]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_16787]]
 - [[StipulationRegardingLivestockG_1998_04_16]]
@@ -9818,6 +10130,7 @@ Dry Beaver Creek is a major tributary of the Verde River in Arizona. According t
 - [[HabitatStudyOfRoundtailChubGil_18268]]
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[AdverseBiologicalOpinionIndian_15638]]
+- [[BiologicalAssessmentForTheProp_11456]]
 
 ## Dry Lake
 <!-- fm: auto_enriched: true -->
@@ -9828,6 +10141,18 @@ Dry Beaver Creek is a major tributary of the Verde River in Arizona. According t
 
 ### Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
+
+## Dry Prong Creek
+
+### Summary
+Dry Prong Creek is a tributary that joins Eagle Creek in the Apache-Sitgreaves National Forest, Arizona. This study identified it as a major source of degradation to Eagle Creek, contributing water up to 10°C warmer than Eagle Creek (potentially forming a thermal barrier during low flow), elevated sediments (causing bottom composition to shift dramatically above versus below the confluence), and elevated total dissolved solids. The creek's warm temperatures, low flow, lack of riffles, and dense aquatic vegetation may cause nighttime oxygen depletion, and it supported the most degraded macroinvertebrate community in the watershed (diversity H=1.688, evenness E=0.432) with 68% of insects being stress-tolerant Tendipedidae (midges).
+
+### Context
+> This comprehensive study assessed pollution sources and aquatic habitat quality in the [[Eagle Creek Watershed]], [[Apache-Sitgreaves National Forest]], Arizona, from April 1975 to February 1976. The research examined physico-chemical parameters (temperature, dissolved oxygen, pH, nutrients,...
+> -- *[[AStudyOfThePollutionSourcesAnd_12497]]*
+
+### Mentioned In
+- [[AStudyOfThePollutionSourcesAnd_12497]]
 
 ## Dry Skim Milk
 
@@ -9947,6 +10272,9 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 > This 1981 symposium paper addresses the conflict between water development and endangered fish conservation in the [[Upper Colorado River Basin]]. The [[Bureau of Reclamation]] manages three endangered cyprinid species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila...
 > -- *[[RealitiesOfProvidingWaterForEn_20669]]*
 
+> The 1995 annual report documents the [[Upper Colorado River Recovery Program]]'s transition from research to direct recovery actions for four endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and...
+> -- *[[AnnualReportRecoveryProgramFor_11673]]*
+
 ### Mentioned In
 - [[AnalysisOfPastCollectionsFromT_1993]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -9974,6 +10302,7 @@ The Duchesne River is a tributary of the Green River in northeastern Utah that s
 - [[DraftmanagementTowardRecoveryO_13751]]
 - [[DevelopmentOfAStandardizedMoni_15549]]
 - [[RealitiesOfProvidingWaterForEn_20669]]
+- [[AnnualReportRecoveryProgramFor_11673]]
 
 ## Duchesne Rivers
 
@@ -10018,6 +10347,18 @@ Duck Lake is a 630-acre warm-water lake in Calhoun County, Michigan, connected t
 ### Mentioned In
 - [[TheUseOfCopperSulphateToIncrea_13371]]
 
+## Duck River
+
+### Summary
+The Duck River is a river basin in Middle Tennessee that forms part of Cambarus gentryi's known range. The species' distribution encompasses portions of both the Cumberland River and Duck River basins in Middle Tennessee.
+
+### Context
+> This paper describes **Cambarus gentryi**, a new species of burrowing crayfish from the [[Nashville Basin]] in [[Tennessee]]. The species was first collected in the 1890s from a tributary of [[Stones River]] but remained undescribed for approximately 75 years. It was rediscovered in 1968 by Dr....
+> -- *[[ANewCrayfishFromTheNashvilleBa_20416]]*
+
+### Mentioned In
+- [[ANewCrayfishFromTheNashvilleBa_20416]]
+
 ## Duck Valley Indian Reservation
 <!-- fm: auto_enriched: true -->
 
@@ -10058,6 +10399,18 @@ Ducks Unlimited is a waterfowl conservation organization that was included on th
 ### Mentioned In
 - [[BogHoleProjectMeetingSummary_12749]]
 - [[ArizonaEnvironmentalAndResourc_17454]]
+
+## Ducks Unlimited de Mexico
+
+### Summary
+Ducks Unlimited de Mexico is a conservation organization that participated in developing Mexico's 1993 endangered species standard. The source lists it among numerous Mexican and international institutions, government agencies, universities, and NGOs that contributed to the standard's development during the public consultation process.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
 
 ## Duckwater Springfish
 
@@ -10166,8 +10519,12 @@ Dudley and Platania are researchers who conducted investigations in 1997 on Rio 
 > - The document announces the appointment of **Dr. H. Ronald Pulliam** (age 48, native of Miami Beach, Florida) as Director of the **National Biological Survey (NBS)**, a new agency under the [[U.S. Department of the Interior]], effective May 2, 1994. - Secretary of the Interior **Bruce Babbitt** ...
 > -- *[[UniversityOfGeorgiaProfessorTa_1994_05_02]]*
 
+> This document is a program update newsletter from the [[Glen Canyon Environmental Studies]] (GCES) Phase II program, dated May 1989. It announces the appointment of Dr. [[Duncan Patten]] from [[Arizona State University]] as Senior Scientist to provide scientific oversight and integration for the...
+> -- *[[GlenCanyonEnvironmentalStudies_19685]]*
+
 ### Mentioned In
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
+- [[GlenCanyonEnvironmentalStudies_19685]]
 
 ## Dulzetto 1928
 <!-- fm: auto_enriched: true -->
@@ -10229,11 +10586,15 @@ I appreciate your detailed request, but I must be honest: based on the context s
 > This memorandum from the [[Glen Canyon Environmental Studies]] program announces a technical review meeting scheduled for June 11, 1993, to evaluate the [[U.S. Fish and Wildlife Service]] flow scenario for [[Glen Canyon Dam]] operations. The meeting was relocated to accommodate increased attendance...
 > -- *[[GlenCanyonEnvironmentalStudies_19728]]*
 
+> This document is a program update newsletter from the [[Glen Canyon Environmental Studies]] (GCES) Phase II program, dated May 1989. It announces the appointment of Dr. [[Duncan Patten]] from [[Arizona State University]] as Senior Scientist to provide scientific oversight and integration for the...
+> -- *[[GlenCanyonEnvironmentalStudies_19685]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1992_03_08]]
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
 - [[MemorandumOnGlenCanyonEnvironm_1991_08_27]]
 - [[GlenCanyonEnvironmentalStudies_19728]]
+- [[GlenCanyonEnvironmentalStudies_19685]]
 
 ## Duncan Patton
 <!-- fm: auto_enriched: true -->
@@ -10468,9 +10829,13 @@ Dwarf Bear-Poppy is a threatened or endangered insect-pollinated plant species. 
 > [[Dworshak National Fish Hatchery]] (DNFH), operated by the U.S. Fish and Wildlife Service in Region One, is located at the confluence of the North Fork Clearwater River and the main stem [[Clearwater River]] near Ahsahka, Idaho — one mile downstream of [[Dworshak Dam]]. Constructed by the U.S. A...
 > -- *[[StationProfileDworshakNational_19562]]*
 
+> This technical reference document, published September 11, 1970, as part of the Manual of Fish Culture (Section A, Part 3), provides comprehensive length-weight conversion tables for [[Steelhead Trout]] (*Oncorhynchus mykiss*) reared in hatchery conditions. The tables enable fish culturists to...
+> -- *[[EnglishAndMetricLengthweightRe_17743]]*
+
 ### Mentioned In
 - [[StationProfileDworshakNational_19562]]
 - [[StationProfileOfKooskiaNationa_19543]]
+- [[EnglishAndMetricLengthweightRe_17743]]
 
 ## Dworshak Nfh
 <!-- fm: auto_enriched: true -->

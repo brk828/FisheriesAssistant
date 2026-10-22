@@ -243,6 +243,12 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 > A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
 > -- *[[EagleCreekGreenleeCountyArizon_17216]]*
 
+> This comprehensive study assessed pollution sources and aquatic habitat quality in the [[Eagle Creek Watershed]], [[Apache-Sitgreaves National Forest]], Arizona, from April 1975 to February 1976. The research examined physico-chemical parameters (temperature, dissolved oxygen, pH, nutrients,...
+> -- *[[AStudyOfThePollutionSourcesAnd_12497]]*
+
+> This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
+> -- *[[MorphologicalVariationInGilaPi_12778]]*
+
 ### Mentioned In
 - [[BiologicalOpinionOnEmergencyWa_1994_01_31]]
 - [[CommentsOnTheDraftActivityPlan_13812]]
@@ -287,6 +293,8 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
+- [[AStudyOfThePollutionSourcesAnd_12497]]
+- [[MorphologicalVariationInGilaPi_12778]]
 
 ## Eagle Creek Pump Station
 
@@ -307,8 +315,12 @@ Eagle Creek Pump Station is a landmark location on Eagle Creek in Greenlee Count
 > This document is a U.S. Fish and Wildlife Service (USFWS) Section 7 consultation concurrence letter addressing effects determinations for three land management projects on the Apache-Sitgreaves National Forest: the **East Eagle Addition Prescribed Burn**, the **Tutt Creek Trailhead Access Road** ...
 > -- *[[ConcurrenceWithEffectsDetermin_1997_05_02]]*
 
+> This comprehensive study assessed pollution sources and aquatic habitat quality in the [[Eagle Creek Watershed]], [[Apache-Sitgreaves National Forest]], Arizona, from April 1975 to February 1976. The research examined physico-chemical parameters (temperature, dissolved oxygen, pH, nutrients,...
+> -- *[[AStudyOfThePollutionSourcesAnd_12497]]*
+
 ### Mentioned In
 - [[ConcurrenceWithEffectsDetermin_1997_05_02]]
+- [[AStudyOfThePollutionSourcesAnd_12497]]
 
 ## Eagle Lake
 <!-- fm: auto_enriched: true -->
@@ -484,6 +496,18 @@ Earth Technology Corporation was a consulting firm contracted by the Arizona Dep
 ### Mentioned In
 - [[ContributionsToARevisionOfTheE_1969_10_03]]
 
+## Earthworms
+
+### Summary
+Earthworms are cultivated in outdoor beds for use as panfish bait, with this source providing specifications for beds 6-12 inches deep and 3 feet wide. Production yields 700-1,500 worms per square foot in 6-8 months when stocked at 25 worms per square foot, with worms ready for bait use within 6 months and beds requiring cleaning and restarting every 6-10 months.
+
+### Context
+> This Alabama Cooperative Extension Service leaflet provides detailed instructions for home production of four live bait organisms commonly used for [[Bream]] and other [[Panfish]] that feed primarily on worms and insects. The document covers cultivation methods for [[Mealworms]] (beetle larvae),...
+> -- *[[BreamBaitProduction_17943]]*
+
+### Mentioned In
+- [[BreamBaitProduction_17943]]
+
 ## East Africa
 <!-- fm: auto_enriched: true -->
 
@@ -545,6 +569,18 @@ East Carson River is one of 13 streams included in this study of California's ca
 
 ### Mentioned In
 - [[CaliforniaCatchableTroutFisher_14146]]
+
+## East China Sea
+
+### Summary
+The East China Sea is a body of water east of China in the Northwest Pacific. This source identifies it as part of the Northwest Pacific FAO statistical area, which was responsible for much of the global increase in marine catches during the 1980s.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
 
 ## East Clear Creek
 <!-- fm: auto_enriched: true -->
@@ -735,6 +771,9 @@ The East Fork White River is a tributary system within the White River drainage 
 > This October 1983 memorandum from the U.S. Fish and Wildlife Service to the Bureau of Indian Affairs addresses a formal Section 7 consultation regarding the proposed [[Miner Flat Dam]] project on the [[White River]] system in Arizona. While no effects are anticipated on [[Peregrine Falcon]], [[Bald...
 > -- *[[FormalSectionConsultationMiner_11842]]*
 
+> This Biological Assessment evaluates potential impacts of the proposed [[Miner Flat Dam]] and [[Canyon Day Irrigation Project]] on endangered and threatened species under the Endangered Species Act of 1973. The concrete gravity dam would be constructed on the [[North Fork White River]] at elevation...
+> -- *[[BiologicalAssessmentForTheProp_11456]]*
+
 ### Mentioned In
 - [[StudiesOfTheAbundanceDistribut_13841]]
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
@@ -745,6 +784,19 @@ The East Fork White River is a tributary system within the White River drainage 
 - [[AgencyReviewDraftSpikedaceMeda_19397]]
 - [[AdverseBiologicalOpinionIndian_15638]]
 - [[FormalSectionConsultationMiner_11842]]
+- [[BiologicalAssessmentForTheProp_11456]]
+
+## East Fork White River near Fort Apache
+
+### Summary
+This is a USGS gaging station that was used as one of three independent variables in multiple linear regression to predict streamflows at the Miner Flat damsite. It is located on the East Fork White River, which contributes to the White River system downstream of the proposed dam.
+
+### Context
+> This Biological Assessment evaluates potential impacts of the proposed [[Miner Flat Dam]] and [[Canyon Day Irrigation Project]] on endangered and threatened species under the Endangered Species Act of 1973. The concrete gravity dam would be constructed on the [[North Fork White River]] at elevation...
+> -- *[[BiologicalAssessmentForTheProp_11456]]*
+
+### Mentioned In
+- [[BiologicalAssessmentForTheProp_11456]]
 
 ## East Gallatin River
 <!-- fm: auto_enriched: true -->
@@ -874,12 +926,16 @@ The East Verde River is an aquatic habitat in Arizona where multiple sampling si
 > This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
 > -- *[[ArizonaComparativeRiskProjectE_15833]]*
 
+> This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
+> -- *[[MorphologicalVariationInGilaPi_12778]]*
+
 ### Mentioned In
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[ACaseOfMistakenIdentityGenetic_2021]]
 - [[VerdeRiverAdvancedIdentificati_11367]]
 - [[AdvancedIdentificationOfFuncti_11587]]
 - [[ArizonaComparativeRiskProjectE_15833]]
+- [[MorphologicalVariationInGilaPi_12778]]
 
 ## East Walker River
 
@@ -962,6 +1018,9 @@ Eastern Brook Trout (*Salvelinus fontinalis*) is a coldwater salmonid species na
 > This 1964 study by [[John R. Calaprice]] and [[John E. Cushing]] investigated erythrocyte (red blood cell) antigens in California trout species to determine if immunogenetic techniques could identify relationships and variation useful for fisheries management. The research examined [[Golden Trout]]...
 > -- *[[ErythrocyteAntigensOfCaliforni_17330]]*
 
+> This seven-year experimental study (1954-1960) evaluated various sizes and strains of [[Brown Trout]] (Salmo trutta) and [[Rainbow Trout]] (Salmo gairdnerii) stocking in [[Lower Sardine Lake]], a high-elevation (5,968 feet), oligotrophic lake in [[Sierra County]], California. The research compared...
+> -- *[[ExperimentalBrownTroutManageme_17717]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -979,6 +1038,31 @@ Eastern Brook Trout (*Salvelinus fontinalis*) is a coldwater salmonid species na
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 - [[ErythrocyteAntigensOfCaliforni_17330]]
+- [[ExperimentalBrownTroutManageme_17717]]
+
+## Eastern Central Atlantic
+
+### Summary
+The Eastern Central Atlantic (FAO Area 34) is a fishing region that produced 3.0 million tons in 1986, recovering from a decline after peaking at 3.8 million tons in 1977. This source reports that most demersal stocks are fully exploited or overexploited, with fishing effort reductions of 21-65% needed for some species to achieve MSY, and that demersal and pelagic abundance has been seriously reduced since the early 1970s in the Mauritania-Senegal sector.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
+
+## Eastern Central Pacific
+
+### Summary
+The Eastern Central Pacific is one of the 17 marine FAO statistical areas covered in this global review of fishery resources. This source lists it as one of the regions assessed for stock status and management frameworks as part of the comprehensive evaluation of world fishery resources through 1986-1987.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
 
 ## Eastern Chain Pickerel
 
@@ -1001,6 +1085,18 @@ Eastern Chain Pickerel (Esox niger) is a fish species that serves as a second in
 
 ### Mentioned In
 - [[BirdsOfTheMoundSpringsAndBores_17193]]
+
+## Eastern Indian Ocean
+
+### Summary
+The Eastern Indian Ocean is one of the 17 marine FAO statistical areas covered in this global review of fishery resources. This source includes it as one of the regions assessed for exploitation status and management frameworks, with scientific advice provided by IOFC (Indian Ocean Fishery Commission).
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
 
 ## Eastern Mosquitofish
 
@@ -1116,6 +1212,18 @@ The EC Directive on Conservation of Natural and Semi-Natural Habitats is an impo
 
 ### Mentioned In
 - [[LetterToMrMichaelSpearRegardin_1986_10_22]]
+
+## Echinocereus
+
+### Summary
+Echinocereus is a genus of cacti. This source identifies it as one of the extensively listed cactus genera in Mexico's 1993 conservation standard, with most species classified as endemic and rare (R*), highlighting the diversity and conservation priority of Mexican Cactaceae.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
 
 ## Echinoderm
 <!-- fm: auto_enriched: true -->
@@ -1469,6 +1577,9 @@ Ecosystem Management in fish science and aquatic conservation refers to the inte
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
 > -- *[[ReportOfTheNationalFishHatcher_18310]]*
 
+> This draft document presents recommendations from the National Fish Hatchery Review Panel (McIntyre, Rinne, Minckley, Williams) dated September 23, 1974, addressing the role of federal fish hatcheries within a National Fisheries Program ([[NFP]]). The panel identified significant challenges...
+> -- *[[DraftRecommendationsNationalFi_19586]]*
+
 ### Mentioned In
 - [[IssuesAndAlternativesForUseOfH_1994_05_31]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
@@ -1477,6 +1588,7 @@ Ecosystem Management in fish science and aquatic conservation refers to the inte
 - [[BureauOfLandManagementManualHa_11459]]
 - [[ReportOfTheNationalFishHatcher_20169]]
 - [[ReportOfTheNationalFishHatcher_18310]]
+- [[DraftRecommendationsNationalFi_19586]]
 
 ## Ecosystem Metabolism
 <!-- fm: auto_enriched: true -->
@@ -1677,6 +1789,18 @@ This source mentions Edenton, North Carolina only as the location where the two 
 
 ### Mentioned In
 - [[NatureOfVariabilityInBloodLact_1965_09_23]]
+
+## Edgbaston Springs
+
+### Summary
+Edgbaston Springs is located in the Barcaldine Supergroup and exhibits exceptional hydrobiid diversity. The source reports it contains six sympatric (co-occurring) species of Jardinella plus one allopatric species and a bithyniid snail.
+
+### Context
+> This document reports on the endemic aquatic fauna of artesian springs associated with the [[Great Artesian Basin]] (GAB) of Australia, with particular emphasis on hydrobiid snails. The GAB occupies approximately 22% of the Australian continent (1.76 million km²) and supports over 600 springs...
+> -- *[[MoundSpringSnailsOfTheAustrali_18623]]*
+
+### Mentioned In
+- [[MoundSpringSnailsOfTheAustrali_18623]]
 
 ## Edmunds 1956
 <!-- fm: auto_enriched: true -->
@@ -2148,6 +2272,18 @@ Ege conducted a classic 1939 taxonomic revision of Anguilla species that establi
 ### Mentioned In
 - [[EvaluationOfSomeCommonAquaticW_17756]]
 
+## Eichornia crassipes
+
+### Summary
+Eichornia crassipes (water hyacinth) is an invasive exotic aquatic plant found in the southeast valley of Cuatrociénegas. The emergency action program identified this species as part of the exotic species problem threatening the valley's native ecosystems, alongside introduced fish, crayfish, and turtles.
+
+### Context
+> This document presents the final report of the Emergency Action Program (Programa de Acción Emergente) for the [[Valle de Cuatrociénegas]] Flora and Fauna Protection Area in [[Coahuila]], [[México]], completed in December 1998. The program was a collaborative effort between the North American...
+> -- *[[ProgramaDeAccionEmergenteParaE_19472]]*
+
+### Mentioned In
+- [[ProgramaDeAccionEmergenteParaE_19472]]
+
 ## Eifac Water Quality Criteria
 <!-- fm: auto_enriched: true -->
 
@@ -2276,6 +2412,30 @@ Eigenmann (along with Kennedy) made field observations of Biotodoma cupido's rep
 ### Mentioned In
 - [[ContributionsToARevisionOfTheE_1969_10_03]]
 
+## Ejido Flor del Desierto
+
+### Summary
+Ejido Flor del Desierto is a community near the eastern shore of the Cienega de Santa Clara. The area at the end of the road from this ejido showed significant human impact including burned cattails, constructed walkways, raw sewage discharge, and a drainage canal that allows higher salinity water from adjacent salt flats to flow into the wetland when flooded.
+
+### Context
+> This field report documents the first comprehensive biological and hydrological survey of [[Cienega de Santa Clara]], a wetland in the [[Colorado River Delta]] in northwestern [[Sonora]], [[Mexico]], conducted October 13-18, 1992. The multi-institutional team assessed fish populations, avifauna,...
+> -- *[[FieldReportNoStudyOfCienegaDeS_16073]]*
+
+### Mentioned In
+- [[FieldReportNoStudyOfCienegaDeS_16073]]
+
+## Ejido Luis Encinas Johnson
+
+### Summary
+Ejido Luis Encinas Johnson is a local community near the Cienega de Santa Clara. Residents from this ejido reported to surveyors that the extensive cattail-dominated wetland in the northern part did not exist prior to construction of the Wellton-Mohawk Canal, and that they formerly caught penaeid shrimp in areas now covered by cattails.
+
+### Context
+> This field report documents the first comprehensive biological and hydrological survey of [[Cienega de Santa Clara]], a wetland in the [[Colorado River Delta]] in northwestern [[Sonora]], [[Mexico]], conducted October 13-18, 1992. The multi-institutional team assessed fish populations, avifauna,...
+> -- *[[FieldReportNoStudyOfCienegaDeS_16073]]*
+
+### Mentioned In
+- [[FieldReportNoStudyOfCienegaDeS_16073]]
+
 ## Ekman Dredge
 <!-- fm: auto_enriched: true -->
 
@@ -2312,6 +2472,18 @@ Eigenmann (along with Kennedy) made field observations of Biotodoma cupido's rep
 
 ### Mentioned In
 - [[InfluenceOfLandMassesOnTheDist_14157]]
+
+## El Campo
+
+### Summary
+El Campo is a location along the shore of the Cienega de Santa Clara where surveyors conducted sampling. At this site, water salinity measured 5,000 ppm and cattails were shorter and browner compared to those several kilometers from shore, and bottom samples were collected showing fly larvae as the most common macroinvertebrates.
+
+### Context
+> This field report documents the first comprehensive biological and hydrological survey of [[Cienega de Santa Clara]], a wetland in the [[Colorado River Delta]] in northwestern [[Sonora]], [[Mexico]], conducted October 13-18, 1992. The multi-institutional team assessed fish populations, avifauna,...
+> -- *[[FieldReportNoStudyOfCienegaDeS_16073]]*
+
+### Mentioned In
+- [[FieldReportNoStudyOfCienegaDeS_16073]]
 
 ## El Capitan Reservoir
 <!-- fm: auto_enriched: true -->
@@ -2359,11 +2531,15 @@ El Centro is a city in Imperial County, California. This source reports a severe
 > This Environmental Assessment and Habitat Conservation Plan (EA/HCP) addresses the issuance of an Incidental Take Permit under Section 10(a)(1)(B) of the [[Endangered Species Act]] for [[El Coronado Ranch]] (ECR) in [[Cochise County]], [[Arizona]]. The document covers ranching operations on 6,153...
 > -- *[[EnvironmentalAssessmentAndHabi_11684]]*
 
+> This editorial from the Arizona Section of the Society for Range Management discusses the case of rancher Josiah T. Austin, recipient of SRM's prestigious Chapline Land Stewardship Award in 1998, who developed a Habitat Conservation Plan for the endangered [[Yaqui Chub]] (Gila purpurea) on his [[El...
+> -- *[[EditorsCorner_21179]]*
+
 ### Mentioned In
 - [[MemorandumOfUnderstandingToEst_1995]]
 - [[ProposedMonitoringProtocolElCo_1999]]
 - [[EcosystemRepairByHeadwaterEros_15854]]
 - [[EnvironmentalAssessmentAndHabi_11684]]
+- [[EditorsCorner_21179]]
 
 ## El Coronado Ranch And Cattle Company
 <!-- fm: auto_enriched: true -->
@@ -2503,8 +2679,12 @@ El Niño events were shown in workshop presentations to correlate with fishing p
 > This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
 > -- *[[SummaryOfEvents_18368]]*
 
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
 ### Mentioned In
 - [[SummaryOfEvents_18368]]
+- [[ReviewOfTheStateOfWorldFishery_16310]]
 
 ## El Niño Southern Oscillation
 <!-- fm: auto_enriched: true -->
@@ -2583,6 +2763,18 @@ El Salto Creek is a Mexican stream inhabited by Gila with variable tooth formula
 
 ### Mentioned In
 - [[DraftsAndNotesOnTheCyprinidFis_15336]]
+
+## El Segundo
+
+### Summary
+El Segundo is a coastal location in Santa Monica Bay, southern California, off which the first southern California specimen of Prionotus stephanophrys was caught. The specimen was collected four to five miles offshore at approximately 30 fathoms depth.
+
+### Context
+> This paper reports the first confirmed specimen of [[Prionotus stephanophrys]] (California searobin) from southern California waters, collected in [[Santa Monica Bay]] on October 24, 1944. The species, belonging to the family [[Triglidae]], had previously been recorded only from central California...
+> -- *[[CaliforniaSearobinPrionotusSte_20038]]*
+
+### Mentioned In
+- [[CaliforniaSearobinPrionotusSte_20038]]
 
 ## El Tepalcate
 <!-- fm: auto_enriched: true -->
@@ -2891,6 +3083,9 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 > This inter-office memorandum from the [[Arizona Game and Fish Department]] outlines data collection protocols for a planned March 1988 sampling effort on [[Lake Mohave]], part of the [[Lake Mead National Recreation Area]]. The document includes historical fishery survey data from 1986-1987 showing...
 > -- *[[LakeMohaveSamplingMarch_20326]]*
 
+> This memorandum from BIO/WEST, Inc. to the [[Glen Canyon Environmental Studies]] program documents fish handling impacts and protocols for endangered [[Humpback Chub]] research in the [[Colorado River]] through [[Grand Canyon]]. From October 1990 through August 1991, researchers handled 569...
+> -- *[[FishHandlingAssessmentOnGrandC_13650]]*
+
 ### Mentioned In
 - [[ANonlethalTechniqueToRecoverGu_1994]]
 - [[ASimpleTransportableLakeShocke_1966]]
@@ -2912,6 +3107,7 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 - [[NorthernPikeControlAtLakeDavis_2001]]
 - [[LetterToWayneStarnesAuthorizat_11924]]
 - [[LakeMohaveSamplingMarch_20326]]
+- [[FishHandlingAssessmentOnGrandC_13650]]
 
 ## Electrofishing Protocol
 
@@ -3181,6 +3377,18 @@ Elephant Mountain is a prominent topographic feature within Spur Cross Ranch, re
 ### Mentioned In
 - [[BiologicalEvaluationOfTheAppro_15074]]
 
+## Eleutherodactylus
+
+### Summary
+Eleutherodactylus is a genus of direct-developing frogs (frogs that skip the tadpole stage). The document includes extensive Eleutherodactylus listings among Mexico's protected amphibians, reflecting the genus's diversity and conservation importance in the country.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
+
 ## Elevational Range Limits In Freshwater Fish
 <!-- fm: auto_enriched: true -->
 
@@ -3190,8 +3398,13 @@ Elephant Mountain is a prominent topographic feature within Spur Cross Ranch, re
 ## Eleven Point River
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1993 report by [[American Rivers]] identifies the ten most endangered and fifteen most threatened rivers in North America based on importance as natural resources, degree of threat, and imminence of those threats. The document serves as an advocacy tool to raise public awareness about...
+> -- *[[TheNationsTenMostEndangeredRiv_17976]]*
+
 ### Mentioned In
 - [[SmallFishCommunityStructureInO_1982]]
+- [[TheNationsTenMostEndangeredRiv_17976]]
 
 ## Eley Et Al 1967
 
@@ -3234,8 +3447,12 @@ The Elf Owl (Athene cunicularia) is a sensitive owl species addressed by the LCR
 > - **Habitat type:** Permanent, naturally occurring artesian water sources in an arid/semi-arid environment, forming isolated aquatic "island" ecosystems. - **Distribution in South Australia:** 1. [[Lake Frome]], [[Lake Callabonna]], and [[Lake Blanche]] area — relatively minor springs with small ...
 > -- *[[SouthAustraliaSMoundSpringsSom_20663]]*
 
+> This document reports on the endemic aquatic fauna of artesian springs associated with the [[Great Artesian Basin]] (GAB) of Australia, with particular emphasis on hydrobiid snails. The GAB occupies approximately 22% of the Australian continent (1.76 million km²) and supports over 600 springs...
+> -- *[[MoundSpringSnailsOfTheAustrali_18623]]*
+
 ### Mentioned In
 - [[SouthAustraliaSMoundSpringsSom_20663]]
+- [[MoundSpringSnailsOfTheAustrali_18623]]
 
 ## Elk
 <!-- fm: auto_enriched: true -->
@@ -3609,12 +3826,16 @@ Elmidae, or riffle beetles (Coleoptera), were found at all sampling stations in 
 > This document describes the intensive hatchery operations for [[Muskellunge]] (Esox masquinongy) conducted by the New York State Conservation Department at [[Bemus Point]] on [[Chautauqua Lake]]. The operation involves collecting eggs from wild fish through stripping, incubating approximately...
 > -- *[[MuskalongemakingMuskies_11361]]*
 
+> This bulletin documents an unprecedented epidemic of the fish leech [[Piscicola punctata]] on [[Red-Mouth Buffalo]] (*Ictiobus cyprinella*) in [[Rock River]], Illinois during the winter of 1925-1926. The infestation was remarkable both for its intensity (up to 50+ leeches per fish, averaging ~20)...
+> -- *[[AnEpidemicOfLeechesOnFishesInR_13584]]*
+
 ### Mentioned In
 - [[AnEcologicObservatio_1959]]
 - [[WeedControlPossibilitiesInMass_14648]]
 - [[GambusiaTheFishDestroyer_15551]]
 - [[FurtherStudiesOnTheMetalimneti_15723]]
 - [[MuskalongemakingMuskies_11361]]
+- [[AnEpidemicOfLeechesOnFishesInR_13584]]
 
 ## Elodea Canadensis
 <!-- fm: auto_enriched: true -->
@@ -3671,6 +3892,30 @@ Elops affinis, commonly known as ladyfish, is a fish species found in the lower 
 ### Mentioned In
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[AGameFishForTheSaltonSeaTheTen_12860]]
+
+## Elops lacerta
+
+### Summary
+Elops lacerta is a piscivorous fish species studied in Lagos harbour by Fagade and Olaniyan (1973). It was one of only two piscivore species (along with Caranx hippos) found to feed on Gerres melanopterus, demonstrating the consistently low predation rates on Gerreidae across different locations.
+
+### Context
+> This study investigated sources of mortality for three species of [[Gerreidae]] ([[Gerres acinaces]], [[Gerres rappi]], and [[Gerres filamentosus]]) in Natal estuaries, South Africa, between 1978 and 1982, with primary focus on the [[Kosi System]]. Despite being abundant benthic feeders forming an...
+> -- *[[PredationAndSourcesOfMortality_18127]]*
+
+### Mentioned In
+- [[PredationAndSourcesOfMortality_18127]]
+
+## Elops machnata
+
+### Summary
+Elops machnata is a piscivorous fish species found in the Kosi System that was one of only five predator species (out of 26 examined) containing Gerres in stomach contents. One individual (670 mm) contained a single Gerres rappi (90 mm), contributing to the overall <1% predation rate on Gerres.
+
+### Context
+> This study investigated sources of mortality for three species of [[Gerreidae]] ([[Gerres acinaces]], [[Gerres rappi]], and [[Gerres filamentosus]]) in Natal estuaries, South Africa, between 1978 and 1982, with primary focus on the [[Kosi System]]. Despite being abundant benthic feeders forming an...
+> -- *[[PredationAndSourcesOfMortality_18127]]*
+
+### Mentioned In
+- [[PredationAndSourcesOfMortality_18127]]
 
 ## Elops saurus
 
@@ -4231,6 +4476,30 @@ Encope micropora is a dark reddish-purple sand dollar without notches but with o
 
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
+
+## Encyclia
+
+### Summary
+Encyclia is a genus of orchids in the family Orchidaceae. The standard lists numerous Encyclia species among Mexico's protected flora, indicating their need for conservation attention.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
+
+## Endangered
+
+### Summary
+Endangered is a status designation under the Endangered Species Act, indicated by the symbol "E" in the regulatory lists. This source explains that Endangered status applies to species determined by the U.S. Fish and Wildlife Service to warrant protection, and the document lists hundreds of Endangered species across wildlife (§17.11) and plants (§17.12), including fish, marine species, freshwater mussels, and plants from various regions.
+
+### Context
+> This document is the official U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] to be Endangered or Threatened under the [[Endangered Species Act]]. It provides comprehensive regulatory lists (§17.11 for...
+> -- *[[PartEndangeredAndThreatenedWil_11585]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_11585]]
 
 ## Endangered And Threatened Species Program
 <!-- fm: auto_enriched: true -->
@@ -5184,6 +5453,30 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
 > -- *[[ReportOfTheNationalFishHatcher_18310]]*
 
+> This document is a regulatory compilation from Title 50 of the Code of Federal Regulations (CFR), specifically Part 17, which establishes the official lists of endangered and threatened wildlife and plants under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11572]]*
+
+> This comprehensive report evaluates habitat use and streamflow requirements for four federally listed or proposed endangered fishes in the [[Green River]] basin: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback...
+> -- *[[HabitatUseAndStreamflowNeedsOf_11573]]*
+
+> This document is the official U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] to be Endangered or Threatened under the [[Endangered Species Act]]. It provides comprehensive regulatory lists (§17.11 for...
+> -- *[[PartEndangeredAndThreatenedWil_11585]]*
+
+> This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (Title 50, Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] and [[National Marine Fisheries Service]] to be Endangered or Threatened under the...
+> -- *[[PartEndangeredAndThreatenedWil_11597]]*
+
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, which lists all species of wildlife and plants determined by the U.S. Fish and Wildlife Service and National Marine Fisheries Service to be Endangered or Threatened under the [[Endangered Species Act]]....
+> -- *[[PartEndangeredAndThreatenedWil_11634]]*
+
+> The 1995 annual report documents the [[Upper Colorado River Recovery Program]]'s transition from research to direct recovery actions for four endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and...
+> -- *[[AnnualReportRecoveryProgramFor_11673]]*
+
+> This 1989 Bureau of Land Management biological assessment documents a proposed introduction of [[Desert Pupfish]] (*Cyprinodon macularius*) into three spring-fed ponds at two locations in the Safford District, Arizona. The sites—Cold Spring Seep (Ponds 1 and 2) and Big Spring—already support...
+> -- *[[BiologicalAssessmentDesertPupf_12882]]*
+
+> This document comprises a 1989 research proposal by [[Thomas E. Dowling]] and [[W. L. Minckley]] to assess genetic diversity of [[Razorback Sucker]] (*Xyrauchen texanus*) populations using restriction endonuclease analysis of mitochondrial DNA (mtDNA), submitted to the [[U.S. Bureau of...
+> -- *[[GeneticDiversityOfRazorbackSuc_19113]]*
+
 ### Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -5595,6 +5888,14 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[ParticipationOfStateAgenciesIn_21205]]
 - [[ReportOfTheNationalFishHatcher_18310]]
+- [[PartEndangeredAndThreatenedWil_11572]]
+- [[HabitatUseAndStreamflowNeedsOf_11573]]
+- [[PartEndangeredAndThreatenedWil_11585]]
+- [[PartEndangeredAndThreatenedWil_11597]]
+- [[PartEndangeredAndThreatenedWil_11634]]
+- [[AnnualReportRecoveryProgramFor_11673]]
+- [[BiologicalAssessmentDesertPupf_12882]]
+- [[GeneticDiversityOfRazorbackSuc_19113]]
 
 ## Endangered Species Act - Colorado River Basin Fishes
 <!-- fm: auto_enriched: true -->
@@ -6408,6 +6709,18 @@ The English Lake District refers to a geographically and limnologically signific
 ### Mentioned In
 - [[TheChemicalCompositionOfRainFr_11053]]
 
+## English Red Worms
+
+### Summary
+English Red Worms are a specific type of earthworm recommended for cultivation in outdoor beds with organic bedding material. This source identifies them as the preferred earthworm species for bait production, cultivated using the same methods described for general earthworm production with various bedding options including cottonseed meal, cotton motes, or ground peanut hay mixtures.
+
+### Context
+> This Alabama Cooperative Extension Service leaflet provides detailed instructions for home production of four live bait organisms commonly used for [[Bream]] and other [[Panfish]] that feed primarily on worms and insects. The document covers cultivation methods for [[Mealworms]] (beetle larvae),...
+> -- *[[BreamBaitProduction_17943]]*
+
+### Mentioned In
+- [[BreamBaitProduction_17943]]
+
 ## Engraulidae
 <!-- fm: auto_enriched: true -->
 
@@ -6673,10 +6986,14 @@ Entosphenus is a genus of lampreys within the family Petromyzontidae that has be
 > - **Velar tentacle morphology:** used by Vladykov & Kott (1976c) as an additional taxonomic character supporting new species descriptions within [[Entosphenus]] and [[Lethenteron]].
 > -- *[[LettersAndCommentsLettresEtCom_13181]]*
 
+> This encyclopedic entry provides a comprehensive overview of cyclostomes—the lampreys and hagfishes—which constitute the class [[Cyclostomata]]. These primitive, jawless, eel-shaped fishes represent approximately 50 species inhabiting temperate waters worldwide. The document covers their economic...
+> -- *[[Cyclostome_14164]]*
+
 ### Mentioned In
 - [[LettersAndCommentsLettresEtCom_13181]]
 - [[OccurrenceOfThePacificLampreyE_1967_12_13]]
 - [[ReviewOfFreshwaterFishesOfCana_17244]]
+- [[Cyclostome_14164]]
 
 ## Entosphenus Lamottei
 <!-- fm: auto_enriched: true -->
@@ -6758,6 +7075,9 @@ The Environmental Defense Fund is one of the environmental organization particip
 > This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
 > -- *[[SummarynovemberAndFebruaryMana_21001]]*
 
+> This public education brochure describes four endangered native fish species of the [[Colorado River Basin]]: the [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These species...
+> -- *[[SwimmingUpstreamTheEndangeredF_15037]]*
+
 ### Mentioned In
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
@@ -6765,6 +7085,7 @@ The Environmental Defense Fund is one of the environmental organization particip
 - [[EndangeredAndThreatenedWildlif_11548]]
 - [[SummaryoctoberManagementGroupM_21000]]
 - [[SummarynovemberAndFebruaryMana_21001]]
+- [[SwimmingUpstreamTheEndangeredF_15037]]
 
 ## Environmental Education
 <!-- fm: auto_enriched: true -->
@@ -6872,6 +7193,18 @@ The Environmental Protection Agency (EPA) serves as a critical federal regulator
 - [[TheStrategyAndDesignOfTheEffec_1997_11_13]]
 - [[EndangeredAndThreatenedWildlif_11580]]
 - [[AnIndustryViewOfTheRegulationO_12522]]
+
+## Environmental Research Laboratory
+
+### Summary
+The Environmental Research Laboratory of the University of Arizona was one of the participating institutions in this multi-institutional survey of the Cienega de Santa Clara conducted in October 1992.
+
+### Context
+> This field report documents the first comprehensive biological and hydrological survey of [[Cienega de Santa Clara]], a wetland in the [[Colorado River Delta]] in northwestern [[Sonora]], [[Mexico]], conducted October 13-18, 1992. The multi-institutional team assessed fish populations, avifauna,...
+> -- *[[FieldReportNoStudyOfCienegaDeS_16073]]*
+
+### Mentioned In
+- [[FieldReportNoStudyOfCienegaDeS_16073]]
 
 ## Environmental Stochasticity
 <!-- fm: auto_enriched: true -->
@@ -7108,6 +7441,9 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 > This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
 > -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
 
+> This Master's thesis investigated the seasonal and longitudinal distribution and abundance of dominant benthic invertebrates in [[Aravaipa Creek]], a [[Sonoran Desert]] stream in Arizona, from April 1975 to April 1976. Eight sampling stations were established representing habitats above, within,...
+> -- *[[DistributionAndAbundanceOfBent_13853]]*
+
 ### Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[ComparativeEcologyOfNotropisAl_14679]]
@@ -7130,6 +7466,7 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
 - [[AdverseBiologicalOpinionIndian_15638]]
 - [[ObservationsOnTheFoodHabitsOfD_20140]]
+- [[DistributionAndAbundanceOfBent_13853]]
 
 ## Ephippium
 <!-- fm: auto_enriched: true -->
@@ -7197,6 +7534,18 @@ Epialtus minimus is a crab species found in the Puerto Peñasco area. The source
 ### Mentioned In
 - [[TheControlOfPopulationDensityT_1959]]
 
+## Epidendrum
+
+### Summary
+Epidendrum is a genus of orchids in the family Orchidaceae. Numerous Epidendrum species are included in this Mexican endangered species standard as protected flora.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
+
 ## Epigean Fauna
 <!-- fm: auto_enriched: true -->
 
@@ -7259,6 +7608,18 @@ Epinephelus argus is the scientific name for the Bluespotted Grouper. This sourc
 - [[DiurnalVariabilityInAFishAssem_1981]]
 - [[ResultsOfTheTektiteProgramEcol_17141]]
 
+## Epioblasma torulosa rangiana
+
+### Summary
+The northern riffleshell is a freshwater mussel species in the family Unionidae. This source lists it as an endangered species under the Endangered Species Act, representing one of over 50 freshwater mussel listings that reflect the critical endangerment of freshwater ecosystems in the United States.
+
+### Context
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, which lists all species of wildlife and plants determined by the U.S. Fish and Wildlife Service and National Marine Fisheries Service to be Endangered or Threatened under the [[Endangered Species Act]]....
+> -- *[[PartEndangeredAndThreatenedWil_11634]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_11634]]
+
 ## Epiphytic Orchid Water Relations
 <!-- fm: auto_enriched: true -->
 
@@ -7317,6 +7678,18 @@ Epizoanthus gabrieli is a very small zoanthid (soft coral) with many fine banded
 
 ### Mentioned In
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
+
+## Eptatretus
+
+### Summary
+Eptatretus is a genus of hagfishes mentioned in the source as part of the cyclostome fauna. The species Eptatretus stoutii (Pacific Hagfish) is specifically listed among the cyclostome species covered.
+
+### Context
+> This encyclopedic entry provides a comprehensive overview of cyclostomes—the lampreys and hagfishes—which constitute the class [[Cyclostomata]]. These primitive, jawless, eel-shaped fishes represent approximately 50 species inhabiting temperate waters worldwide. The document covers their economic...
+> -- *[[Cyclostome_14164]]*
+
+### Mentioned In
+- [[Cyclostome_14164]]
 
 ## Eptesicus
 <!-- fm: auto_enriched: true -->
@@ -7411,6 +7784,22 @@ Eremichthys acros is the desert dace, a cyprinid fish species. This source ident
 
 ### Mentioned In
 - [[OnNewSpeciesOfFishesFromTheRio_15806]]
+
+## Eretmochelys imbricata
+
+### Summary
+The hawksbill sea turtle is a marine turtle species. This source lists it as an endangered or threatened species under the Endangered Species Act, part of the comprehensive protection provided to all sea turtle species under U.S. jurisdiction.
+
+### Context
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, which lists all species of wildlife and plants determined by the U.S. Fish and Wildlife Service and National Marine Fisheries Service to be Endangered or Threatened under the [[Endangered Species Act]]....
+> -- *[[PartEndangeredAndThreatenedWil_11634]]*
+
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_11634]]
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
 
 ## Erewash
 <!-- fm: auto_enriched: true -->
@@ -7579,8 +7968,12 @@ Eriocaulon carsonii is a rare aquatic or semi-aquatic plant species found in Gre
 > This document is an extensive unpublished bibliography compiled by Peter J. Unmack in 1995, cataloging scientific and technical literature on the [[Great Artesian Basin]] and its associated [[Mound Springs]] in Australia. The bibliography encompasses over 300 references spanning from the 1870s to...
 > -- *[[AustralianDesertSpringsgreatAr_11445]]*
 
+> This document reports on the endemic aquatic fauna of artesian springs associated with the [[Great Artesian Basin]] (GAB) of Australia, with particular emphasis on hydrobiid snails. The GAB occupies approximately 22% of the Australian continent (1.76 million km²) and supports over 600 springs...
+> -- *[[MoundSpringSnailsOfTheAustrali_18623]]*
+
 ### Mentioned In
 - [[AustralianDesertSpringsgreatAr_11445]]
+- [[MoundSpringSnailsOfTheAustrali_18623]]
 
 ## Eriocaulon Septangulare
 <!-- fm: auto_enriched: true -->
@@ -7849,6 +8242,18 @@ The Escalante Reach (RMI 319.4-301.7) is a section of the middle Green River whe
 ### Mentioned In
 - [[DevelopmentOfAStandardizedMoni_15549]]
 
+## Escalante Refuge
+
+### Summary
+Escalante Refuge is a location on the Gunnison River where the Colorado River Recovery Program maintained a thermograph for water temperature data collection. During FY-93, high spring flows washed out the thermograph at this site, though data was successfully collected between early May (installation) and late June (loss).
+
+### Context
+> This FY-93 annual report documents hydrological support activities provided by the U.S. Fish and Wildlife Service Water Resources Division for the [[Colorado River Recovery Program]]. The project, ongoing since 1988, provides critical water temperature data collection, flow quantification, gage...
+> -- *[[FyAnnualProjectReportColoradoR_21154]]*
+
+### Mentioned In
+- [[FyAnnualProjectReportColoradoR_21154]]
+
 ## Escalante River
 <!-- fm: auto_enriched: true -->
 
@@ -7891,6 +8296,18 @@ Escalante State Wildlife Area was one of five priority sites selected for detail
 
 ### Mentioned In
 - [[ReReviewOfFloodedBottomLandRes_13862]]
+
+## Escalante Wetland
+
+### Summary
+Escalante Wetland is a flooded bottomland habitat on the Green River that is important for endangered fish recovery in the Colorado River Basin. During FY-93, automatic cameras and water stage recorders were installed at the wetland's inlet to monitor flows that would flood this critical habitat, with daily flow and stage data collected and results presented to the Flaming Gorge Coordinating Committee.
+
+### Context
+> This FY-93 annual report documents hydrological support activities provided by the U.S. Fish and Wildlife Service Water Resources Division for the [[Colorado River Recovery Program]]. The project, ongoing since 1988, provides critical water temperature data collection, flow quantification, gage...
+> -- *[[FyAnnualProjectReportColoradoR_21154]]*
+
+### Mentioned In
+- [[FyAnnualProjectReportColoradoR_21154]]
 
 ## Escamera
 
@@ -9562,6 +9979,18 @@ Eucidaris thouarsii is a sea urchin characterized by having few thick club-shape
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
 
+## Eucinostoma argenteus
+
+### Summary
+Eucinostoma argenteus is a gerrid (mojarra) species occurring in mangrove habitats. According to this source, Austin (1971) found it to be one of the most common juvenile fish in mangrove areas studied, but like other gerrids it experienced very low predation rates (less than 3%) from piscivorous fish.
+
+### Context
+> This study investigated sources of mortality for three species of [[Gerreidae]] ([[Gerres acinaces]], [[Gerres rappi]], and [[Gerres filamentosus]]) in Natal estuaries, South Africa, between 1978 and 1982, with primary focus on the [[Kosi System]]. Despite being abundant benthic feeders forming an...
+> -- *[[PredationAndSourcesOfMortality_18127]]*
+
+### Mentioned In
+- [[PredationAndSourcesOfMortality_18127]]
+
 ## Eucrotus
 <!-- fm: auto_enriched: true -->
 
@@ -9633,6 +10062,18 @@ Eucidaris thouarsii is a sea urchin characterized by having few thick club-shape
 
 ### Mentioned In
 - [[NitocrellaMorettiiNSpFromPhrea_11222]]
+
+## Eudontomyzon
+
+### Summary
+Eudontomyzon is a genus of lampreys in the family Petromyzonidae that occurs in both Eurasia and North America. It is one of the related genera found in the northern hemisphere alongside Entosphenus and Lampetra.
+
+### Context
+> This encyclopedic entry provides a comprehensive overview of cyclostomes—the lampreys and hagfishes—which constitute the class [[Cyclostomata]]. These primitive, jawless, eel-shaped fishes represent approximately 50 species inhabiting temperate waters worldwide. The document covers their economic...
+> -- *[[Cyclostome_14164]]*
+
+### Mentioned In
+- [[Cyclostome_14164]]
 
 ## Eudorina
 
@@ -9730,6 +10171,30 @@ Eulachon (Thaleichthys pacificus) is an anadromous fish species found in the Kla
 
 ### Mentioned In
 - [[AConservationorientedClassific_15455]]
+
+## Eulo Supergroup
+
+### Summary
+The Eulo Supergroup is a group of artesian springs located in Queensland within the Great Artesian Basin. The source indicates that additional hydrobiid species occur in this supergroup.
+
+### Context
+> This document reports on the endemic aquatic fauna of artesian springs associated with the [[Great Artesian Basin]] (GAB) of Australia, with particular emphasis on hydrobiid snails. The GAB occupies approximately 22% of the Australian continent (1.76 million km²) and supports over 600 springs...
+> -- *[[MoundSpringSnailsOfTheAustrali_18623]]*
+
+### Mentioned In
+- [[MoundSpringSnailsOfTheAustrali_18623]]
+
+## Eumetopias jubatus
+
+### Summary
+The Steller sea lion is a marine mammal. This source lists it as an endangered or threatened species under the Endangered Species Act, part of the marine mammal protections that also include whales and other coastal species.
+
+### Context
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, which lists all species of wildlife and plants determined by the U.S. Fish and Wildlife Service and National Marine Fisheries Service to be Endangered or Threatened under the [[Endangered Species Act]]....
+> -- *[[PartEndangeredAndThreatenedWil_11634]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_11634]]
 
 ## Eunotoperla
 <!-- fm: auto_enriched: true -->
@@ -9847,9 +10312,13 @@ European Carp (Cyprinus carpio) is an introduced fish species present in the low
 > This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
 > -- *[[FishesNativeToOrIntroducedInPa_18945]]*
 
+> This bulletin documents an unprecedented epidemic of the fish leech [[Piscicola punctata]] on [[Red-Mouth Buffalo]] (*Ictiobus cyprinella*) in [[Rock River]], Illinois during the winter of 1925-1926. The infestation was remarkable both for its intensity (up to 50+ leeches per fish, averaging ~20)...
+> -- *[[AnEpidemicOfLeechesOnFishesInR_13584]]*
+
 ### Mentioned In
 - [[BiologyOfTheStripedBassMoroneS_15769]]
 - [[FishesNativeToOrIntroducedInPa_18945]]
+- [[AnEpidemicOfLeechesOnFishesInR_13584]]
 
 ## European Eel
 <!-- fm: auto_enriched: true -->
@@ -9876,6 +10345,9 @@ The European Eel (Anguilla anguilla) is a catadromous fish species that undertak
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius* L.) in [[Stege Lagoon]], western [[Baltic Sea]], inhabit brackish waters at 8–10 ppt salinity, near the upper physiological tolerance limit for the species. Twenty-two adult pike were studied (14 females: mean TL 87.0 cm ± 9.7...
 > -- *[[PikeEsoxLuciusLOnTheEdgeConsis_2016]]*
 
+> This 1962 conference paper examines the relationship between freshwater fisheries and nature conservation in developed countries, particularly Britain and North America. The author identifies four main categories of freshwater fishing: commercial fishing for species like [[Salmon]] (*Salmo salar*)...
+> -- *[[TheInteractionBetweenFreshwate_20227]]*
+
 ### Mentioned In
 - [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
@@ -9885,6 +10357,7 @@ The European Eel (Anguilla anguilla) is a catadromous fish species that undertak
 - [[TheEffectOfCalciumSulphateOnTh_16691]]
 - [[Eel_14169]]
 - [[PikeEsoxLuciusLOnTheEdgeConsis_2016]]
+- [[TheInteractionBetweenFreshwate_20227]]
 
 ## European Flounder
 <!-- fm: auto_enriched: true -->
@@ -9895,6 +10368,18 @@ The European Eel (Anguilla anguilla) is a catadromous fish species that undertak
 
 ### Mentioned In
 - [[StomachContentsOfAdultStarryFl_15271]]
+
+## European Hake
+
+### Summary
+European Hake is a demersal fish species found in the Eastern Central Atlantic and Mediterranean. This review reports that European Hake stocks are overexploited, with fishing effort needing to be reduced by 25% to achieve maximum sustainable yield in the Eastern Central Atlantic, and stocks being very heavily overexploited in the central Mediterranean.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
 
 ## European Inland Fisheries Advisory Commission
 <!-- fm: auto_enriched: true -->
@@ -10249,8 +10734,24 @@ Eventognathi is an order of carp-like fishes that comprises three families in Ut
 > - **No fish, aquatic taxa, or marine/freshwater ecosystem data are present in the source text.** - The document is a general-interest newspaper editorial page, not a scientific, wildlife, or fisheries publication. - Tangential environmental policy topics appear (e.g., [[Everglades]] restoration, ...
 > -- *[[MrBabbittNeedsMrClintonNow_18306]]*
 
+> This 1993 report by [[American Rivers]] identifies the ten most endangered and fifteen most threatened rivers in North America based on importance as natural resources, degree of threat, and imminence of those threats. The document serves as an advocacy tool to raise public awareness about...
+> -- *[[TheNationsTenMostEndangeredRiv_17976]]*
+
 ### Mentioned In
 - [[MrBabbittNeedsMrClintonNow_18306]]
+- [[TheNationsTenMostEndangeredRiv_17976]]
+
+## Everglades Agricultural Area
+
+### Summary
+The Everglades Agricultural Area is a region of agricultural lands that increased fivefold to over 1,000 square miles, contributing to Everglades degradation. Water from this area carries 222 tons of fertilizer annually, with phosphorus concentrations reaching 10-20 times normal levels during drought, severely polluting the Everglades ecosystem.
+
+### Context
+> This 1993 report by [[American Rivers]] identifies the ten most endangered and fifteen most threatened rivers in North America based on importance as natural resources, degree of threat, and imminence of those threats. The document serves as an advocacy tool to raise public awareness about...
+> -- *[[TheNationsTenMostEndangeredRiv_17976]]*
+
+### Mentioned In
+- [[TheNationsTenMostEndangeredRiv_17976]]
 
 ## Everglades National Park
 
@@ -10513,8 +11014,12 @@ The Executive Review Committee (ERC) is an administrative body that oversees the
 > This memorandum from the [[Fish and Wildlife Service]] documents the November 8, 1989 briefing regarding the October 24, 1989 [[Executive Review Committee]] (ERC) meeting for [[Glen Canyon Environmental Studies]] (GCES). The document addresses ongoing environmental studies related to [[Glen Canyon...
 > -- *[[NotesOfTheBriefingHeldNovember_11848]]*
 
+> This document is a program update newsletter from the [[Glen Canyon Environmental Studies]] (GCES) Phase II program, dated May 1989. It announces the appointment of Dr. [[Duncan Patten]] from [[Arizona State University]] as Senior Scientist to provide scientific oversight and integration for the...
+> -- *[[GlenCanyonEnvironmentalStudies_19685]]*
+
 ### Mentioned In
 - [[NotesOfTheBriefingHeldNovember_11848]]
+- [[GlenCanyonEnvironmentalStudies_19685]]
 
 ## Exhibit Island
 

@@ -56,6 +56,9 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 > This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
 > -- *[[IllegalFindingOfNoSignificantI_18971]]*
 
+> This 1993 report by [[American Rivers]] identifies the ten most endangered and fifteen most threatened rivers in North America based on importance as natural resources, degree of threat, and imminence of those threats. The document serves as an advocacy tool to raise public awareness about...
+> -- *[[TheNationsTenMostEndangeredRiv_17976]]*
+
 ### Mentioned In
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
@@ -74,6 +77,7 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 - [[BiologicalOpinionSummaryBlueRi_11685]]
 - [[StatewideRoughFishControljobNo_14932]]
 - [[IllegalFindingOfNoSignificantI_18971]]
+- [[TheNationsTenMostEndangeredRiv_17976]]
 
 ## U.S. Atomic Energy Commission
 
@@ -258,6 +262,15 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This document is an unfinished draft bibliography compiled by a researcher documenting literature on fishes in Arizona. It contains hundreds of citations spanning from the 1850s through 1988, covering taxonomic descriptions, ecological studies, fisheries management reports, endangered species...
 > -- *[[DraftbibliographyOnFishesInAri_12263]]*
 
+> The 1996 Annual Report documents progress of the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover four endangered fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and [[Humpback Chub]]...
+> -- *[[AnnualReportRecoveryProgramFor_11678]]*
+
+> This public education brochure describes four endangered native fish species of the [[Colorado River Basin]]: the [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These species...
+> -- *[[SwimmingUpstreamTheEndangeredF_15037]]*
+
+> This document comprises a 1989 research proposal by [[Thomas E. Dowling]] and [[W. L. Minckley]] to assess genetic diversity of [[Razorback Sucker]] (*Xyrauchen texanus*) populations using restriction endonuclease analysis of mitochondrial DNA (mtDNA), submitted to the [[U.S. Bureau of...
+> -- *[[GeneticDiversityOfRazorbackSuc_19113]]*
+
 ### Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -300,6 +313,9 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[MinutesdesertFishesRecoveryTea_13730]]
 - [[SpaceForResearchProjectGilaTax_11793]]
 - [[DraftbibliographyOnFishesInAri_12263]]
+- [[AnnualReportRecoveryProgramFor_11678]]
+- [[SwimmingUpstreamTheEndangeredF_15037]]
+- [[GeneticDiversityOfRazorbackSuc_19113]]
 
 ## U.S. Bureau Of Sport Fisheries And Wildlife
 <!-- fm: auto_enriched: true -->
@@ -331,8 +347,12 @@ The U.S. Department of Agriculture is a federal agency that issued warnings abou
 > This December 1993 letter from the [[Maricopa Audubon Society]] to the [[Arizona Department of Water Resources]] (ADWR) addresses concerns about a water policy change permitting subdivision development in the upper [[San Pedro River]] basin. The letter documents the ecological significance of the...
 > -- *[[ArizonaDepartmentOfWaterResour_18960]]*
 
+> This 1988 investigation by the [[U.S. Fish and Wildlife Service]] [[National Fisheries Research Center]] examined the toxicity of [[Chloramine-T]] (n-sodium-n-chloro-para-toluenesulfonamide), a therapeutant used to treat [[Bacterial Gill Disease]] in hatchery fish. The study evaluated how...
+> -- *[[EffectsOfEnvironmentalFactorsO_18248]]*
+
 ### Mentioned In
 - [[ArizonaDepartmentOfWaterResour_18960]]
+- [[EffectsOfEnvironmentalFactorsO_18248]]
 
 ## U.S. Department Of The Interior
 <!-- fm: auto_enriched: true -->
@@ -410,11 +430,15 @@ The U.S. Department of Agriculture is a federal agency that issued warnings abou
 > This document comprises meeting materials for the June 17, 1996 [[Lower Colorado River Multi-Species Conservation Program]] (MSCP) Steering Committee meeting, including memoranda, agenda, and a briefing paper on program options. The MSCP was initiated in 1993 by Arizona, California, and Nevada in...
 > -- *[[JuneSteeringCommitteeMeetingAn_20943]]*
 
+> This document is a program update newsletter from the [[Glen Canyon Environmental Studies]] (GCES) Phase II program, dated May 1989. It announces the appointment of Dr. [[Duncan Patten]] from [[Arizona State University]] as Senior Scientist to provide scientific oversight and integration for the...
+> -- *[[GlenCanyonEnvironmentalStudies_19685]]*
+
 ### Mentioned In
 - [[ConsultationRequirementsForSpe_14815]]
 - [[GilaMorphometry_19079]]
 - [[NewFishHabitatRestorationAndPa_11759]]
 - [[JuneSteeringCommitteeMeetingAn_20943]]
+- [[GlenCanyonEnvironmentalStudies_19685]]
 
 ## U.S. Fish and Wildlife Refuge
 
@@ -972,6 +996,57 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This memorandum and Director's Order No. 94, dated February 1993, establishes official [[U.S. Fish and Wildlife Service]] policy regarding the participation of State agencies in activities conducted under the [[Endangered Species Act]] of 1973, as amended. The order clarifies coordination and...
 > -- *[[ParticipationOfStateAgenciesIn_21205]]*
 
+> This document is a regulatory compilation from Title 50 of the Code of Federal Regulations (CFR), specifically Part 17, which establishes the official lists of endangered and threatened wildlife and plants under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11572]]*
+
+> This document is the official U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] to be Endangered or Threatened under the [[Endangered Species Act]]. It provides comprehensive regulatory lists (§17.11 for...
+> -- *[[PartEndangeredAndThreatenedWil_11585]]*
+
+> This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (Title 50, Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] and [[National Marine Fisheries Service]] to be Endangered or Threatened under the...
+> -- *[[PartEndangeredAndThreatenedWil_11597]]*
+
+> The 1995 annual report documents the [[Upper Colorado River Recovery Program]]'s transition from research to direct recovery actions for four endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and...
+> -- *[[AnnualReportRecoveryProgramFor_11673]]*
+
+> The 1996 Annual Report documents progress of the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover four endangered fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and [[Humpback Chub]]...
+> -- *[[AnnualReportRecoveryProgramFor_11678]]*
+
+> This preliminary draft Environmental Assessment, prepared by the [[U.S. Fish and Wildlife Service]] in June 1996, evaluates alternatives for eradicating the invasive [[Red Shiner]] (*Notropis lutrensis*) from the [[Virgin River]] in Utah. The red shiner, a small minnow native to the North Central...
+> -- *[[PreliminaryDraftEnvironmentalA_11680]]*
+
+> This document is an instream flow request submitted by the [[U.S. Fish and Wildlife Service]] to the [[Arizona Department of Water Resources]] for [[Leslie Creek]] within [[Leslie Canyon National Wildlife Refuge]]. The refuge, located 17 miles north of Douglas, Arizona along the southwestern flank...
+> -- *[[LeslieCanyonNationalWildlifeRe_13468]]*
+
+> This correspondence from [[Arizona State University]] Department of Zoology (dated 20 May 1991) provides critical review of a population genetics project report by Moyle and Berg concerning endangered catostomid fishes in northern California. The letter, addressed to the [[California Department of...
+> -- *[[ReviewOfMoyleAndBergsProjectRe_13795]]*
+
+> This public education brochure describes four endangered native fish species of the [[Colorado River Basin]]: the [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These species...
+> -- *[[SwimmingUpstreamTheEndangeredF_15037]]*
+
+> This document comprises correspondence and stocking records from the [[U.S. Fish and Wildlife Service]] documenting the translocation and management of [[Yaqui Chub]] (*Gila purpurea*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis*) at [[San Bernardino National Wildlife Refuge]] and [[Leslie...
+> -- *[[CompiledStockingRecordsForSanB_15975]]*
+
+> This field report documents the first comprehensive biological and hydrological survey of [[Cienega de Santa Clara]], a wetland in the [[Colorado River Delta]] in northwestern [[Sonora]], [[Mexico]], conducted October 13-18, 1992. The multi-institutional team assessed fish populations, avifauna,...
+> -- *[[FieldReportNoStudyOfCienegaDeS_16073]]*
+
+> This 1993 report by [[American Rivers]] identifies the ten most endangered and fifteen most threatened rivers in North America based on importance as natural resources, degree of threat, and imminence of those threats. The document serves as an advocacy tool to raise public awareness about...
+> -- *[[TheNationsTenMostEndangeredRiv_17976]]*
+
+> This 1988 investigation by the [[U.S. Fish and Wildlife Service]] [[National Fisheries Research Center]] examined the toxicity of [[Chloramine-T]] (n-sodium-n-chloro-para-toluenesulfonamide), a therapeutant used to treat [[Bacterial Gill Disease]] in hatchery fish. The study evaluated how...
+> -- *[[EffectsOfEnvironmentalFactorsO_18248]]*
+
+> The Native Fish Project at [[Phoenix Zoo]] established a dual-purpose conservation facility in summer 1996 to provide long-term refugium and head-start capabilities for endangered southwestern native fish species. Through multi-agency collaboration, zoo staff successfully converted existing lake...
+> -- *[[FishFareFineAtPhoenix_19367]]*
+
+> This field report documents emergency fish sampling conducted 07-08 January 1989 along the [[Virgin River]] (Arizona-Nevada-Utah) immediately following the catastrophic failure of [[Quail Creek Reservoir]] dike on 01 January 1989. Personnel from [[Arizona State University]] (ASU) and [[University...
+> -- *[[VirginRiverFishSamplingJanuary_19425]]*
+
+> This memorandum from the [[Bureau of Reclamation]] summarizes the November 18, 1992 workshop on the proposed [[Multiple Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to support maintenance and recovery of threatened and endangered fish species, particularly...
+> -- *[[GlenCanyonEnvironmentalStudies_19718]]*
+
+> This memorandum from [[American Rivers]] Executive Director Rebecca R. Wodder to the Board of Directors provides a comprehensive update on organizational activities as of May 24, 1999. The document covers major conservation initiatives focused on river restoration, salmon recovery, dam removal...
+> -- *[[UpdateOnActivities_20797]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1357,6 +1432,23 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[SummaryoctoberManagementGroupM_21000]]
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[ParticipationOfStateAgenciesIn_21205]]
+- [[PartEndangeredAndThreatenedWil_11572]]
+- [[PartEndangeredAndThreatenedWil_11585]]
+- [[PartEndangeredAndThreatenedWil_11597]]
+- [[AnnualReportRecoveryProgramFor_11673]]
+- [[AnnualReportRecoveryProgramFor_11678]]
+- [[PreliminaryDraftEnvironmentalA_11680]]
+- [[LeslieCanyonNationalWildlifeRe_13468]]
+- [[ReviewOfMoyleAndBergsProjectRe_13795]]
+- [[SwimmingUpstreamTheEndangeredF_15037]]
+- [[CompiledStockingRecordsForSanB_15975]]
+- [[FieldReportNoStudyOfCienegaDeS_16073]]
+- [[TheNationsTenMostEndangeredRiv_17976]]
+- [[EffectsOfEnvironmentalFactorsO_18248]]
+- [[FishFareFineAtPhoenix_19367]]
+- [[VirginRiverFishSamplingJanuary_19425]]
+- [[GlenCanyonEnvironmentalStudies_19718]]
+- [[UpdateOnActivities_20797]]
 
 ## U.S. Fish And Wildlife Service 1986
 <!-- fm: auto_enriched: true -->
@@ -1457,6 +1549,18 @@ The U.S. Fisheries Biological Station was a federal facility that conducted fish
 
 ### Mentioned In
 - [[MethodsOfCollectingAndHatching_17372]]
+
+## U.S. Food and Drug Administration
+
+### Summary
+The U.S. Food and Drug Administration is the regulatory agency whose approval is required for chloramine-T to be used on food fish. This study was conducted as part of the evaluation process for this therapeutant's use in treating Bacterial Gill Disease in aquaculture.
+
+### Context
+> This 1988 investigation by the [[U.S. Fish and Wildlife Service]] [[National Fisheries Research Center]] examined the toxicity of [[Chloramine-T]] (n-sodium-n-chloro-para-toluenesulfonamide), a therapeutant used to treat [[Bacterial Gill Disease]] in hatchery fish. The study evaluated how...
+> -- *[[EffectsOfEnvironmentalFactorsO_18248]]*
+
+### Mentioned In
+- [[EffectsOfEnvironmentalFactorsO_18248]]
 
 ## U.S. Forest Service
 <!-- fm: auto_enriched: true -->
@@ -1729,6 +1833,18 @@ The U.S. National Museum served as a major institutional repository for fish spe
 - [[SalmoEvermanniASynonymOfSalmoC_18176]]
 - [[ANewSpeciesOfAquaticIsopodCrus_17104]]
 
+## U.S. National Museum of Natural History
+
+### Summary
+The U.S. National Museum of Natural History is a repository for scientific specimens. According to this source, Dr. Suttkus planned to deposit subsamples of collected endangered Colorado River fish specimens at this institution, along with Arizona collections as designated by Grand Canyon National Park. The museum also formerly held a specimen of Plagopterus argentissimus (woundfin) cataloged in 1883 from the Little Colorado River, which was later transferred to the British Museum.
+
+### Context
+> This correspondence from Dr. Royal D. Suttkus of [[Tulane University]] to the [[Arizona Game & Fish Department]] requests a collecting permit for endangered fish species in the [[Colorado River]] system between [[Glen Canyon Dam]] and [[Hoover Dam]]. The application is part of a collaborative study...
+> -- *[[RequestForCollectingPermitToAl_15050]]*
+
+### Mentioned In
+- [[RequestForCollectingPermitToAl_15050]]
+
 ## U.S. National Park Service
 
 ### Summary
@@ -1744,6 +1860,18 @@ The U.S. National Park Service is a federal agency with management jurisdiction 
 ### Mentioned In
 - [[DeclineOfTheRazorbackSuckerInL_2003_X-c8fc34ea]]
 - [[RazorbackSuckerMonitoringInLak_17016]]
+
+## U.S. Pharmacopeial Convention
+
+### Summary
+The U.S. Pharmacopeial Convention provides standardized testing methods for pharmaceutical compounds. This study used U.S. Pharmacopeial Convention methods to test the commercial grade chloramine-T, which yielded 98.4% available chlorine.
+
+### Context
+> This 1988 investigation by the [[U.S. Fish and Wildlife Service]] [[National Fisheries Research Center]] examined the toxicity of [[Chloramine-T]] (n-sodium-n-chloro-para-toluenesulfonamide), a therapeutant used to treat [[Bacterial Gill Disease]] in hatchery fish. The study evaluated how...
+> -- *[[EffectsOfEnvironmentalFactorsO_18248]]*
+
+### Mentioned In
+- [[EffectsOfEnvironmentalFactorsO_18248]]
 
 ## U.S. Public Health Service
 
@@ -1794,8 +1922,24 @@ The U.S. Virgin Islands are a U.S. territory in the Caribbean. This source ident
 > This Federal Register notice, published September 19, 1997, by the U.S. Fish and Wildlife Service presents an updated list of plant and animal taxa native to the United States that are candidates or proposed for listing as endangered or threatened under the Endangered Species Act of 1973, as...
 > -- *[[EndangeredAndThreatenedWildlif_11741]]*
 
+> This document is a regulatory compilation from Title 50 of the Code of Federal Regulations (CFR), specifically Part 17, which establishes the official lists of endangered and threatened wildlife and plants under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11572]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11741]]
+- [[PartEndangeredAndThreatenedWil_11572]]
+
+## U.S. Weather Bureau
+
+### Summary
+The U.S. Weather Bureau was the federal agency responsible for meteorological services in the United States. This source indicates the Bureau published comprehensive climatological normals in November 1956, providing standardized 30-year climate data (1921-1950) for hundreds of weather stations across all U.S. states and territories, representing the first systematic compilation adopting the World Meteorological Organization's standard 30-year period for climatic normals.
+
+### Context
+> This technical paper presents comprehensive climatological normals for temperature, precipitation, and heating degree days across the [[United States]], including [[Alaska]], [[Hawaii]], [[Puerto Rico]], and Pacific territories. Published by the [[U.S. Weather Bureau]] in November 1956, the...
+> -- *[[MonthlyNormalTemperaturesPreci_13263]]*
+
+### Mentioned In
+- [[MonthlyNormalTemperaturesPreci_13263]]
 
 ## U.S.-Mexican Boundary Survey
 <!-- fm: auto_enriched: true -->
@@ -1842,6 +1986,18 @@ UABC (University of Baja California) is the academic institution that houses the
 
 ### Mentioned In
 - [[SummaryOfEvents_18368]]
+
+## Uca minax
+
+### Summary
+Uca minax, the red-jointed fiddler crab, is one of three crab species that co-occurs with Corophium aquafuscum in the oligohaline marsh habitat at Riceboro Creek. It is part of the diverse invertebrate assemblage in this freshwater-oligohaline tidal creek system.
+
+### Context
+> This paper describes **Corophium aquafuscum** new species, a tube-dwelling amphipod discovered in 1968 in low salinity marsh areas of Georgia estuaries. The species is characterized by a completely segmented urosome, two strong distoventral teeth on antenna 2 segment 4, absence of distinct rostrum...
+> -- *[[ANewSpeciesOfCorophiumLatreill_20748]]*
+
+### Mentioned In
+- [[ANewSpeciesOfCorophiumLatreill_20748]]
 
 ## Uca Pugnax
 <!-- fm: auto_enriched: true -->
@@ -1992,8 +2148,12 @@ Ulothrix is a filamentous alga found in the highly radioactive seepage from Pit 
 > This 1956 study by J.B. Lackey documented the microscopic aquatic biota of the [[Clinch River]] system and adjacent waters in the [[Oak Ridge]] area, focusing on the relationship between suspended microorganisms and radioactivity from [[Oak Ridge National Laboratory]] (ORNL) operations. The survey...
 > -- *[[TheSuspendedMicrobiotaOfTheCli_12669]]*
 
+> [[Big Bear Lake]] in [[San Bernardino County]], California was treated with toxaphene in September 1960 to eradicate an abundant population of [[Goldfish]] (*Carassius auratus*) and the ectoparasitic copepod *[[Lernaea carassii]]*. The treatment followed two unsuccessful rotenone applications....
+> -- *[[ToxapheneTreatmentOfBigBearLak_19824]]*
+
 ### Mentioned In
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
+- [[ToxapheneTreatmentOfBigBearLak_19824]]
 
 ## Ultrasonic Biotelemetry
 <!-- fm: auto_enriched: true -->
@@ -2328,6 +2488,9 @@ Unionidae is a family of obligate freshwater mussels that are ecologically signi
 > This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
 > -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
 
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, which lists all species of wildlife and plants determined by the U.S. Fish and Wildlife Service and National Marine Fisheries Service to be Endangered or Threatened under the [[Endangered Species Act]]....
+> -- *[[PartEndangeredAndThreatenedWil_11634]]*
+
 ### Mentioned In
 - [[ChangesInTheCommercialFisheryO_13861]]
 - [[DifferencesInLittoralFaunaDueT_1972]]
@@ -2342,6 +2505,7 @@ Unionidae is a family of obligate freshwater mussels that are ecologically signi
 - [[CodeOfFederalRegulationsPartEn_11616]]
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
 - [[MolluscaFromGreenwoodCountyKan_20276]]
+- [[PartEndangeredAndThreatenedWil_11634]]
 
 ## Unioninae
 <!-- fm: auto_enriched: true -->
@@ -2415,11 +2579,15 @@ The United States is the party alleged in this petition to be failing to effecti
 > Executive Order 13112, issued February 3, 1999, establishes comprehensive federal policy for preventing introduction and controlling spread of [[Invasive Species]] in the [[United States]]. The order creates the [[Invasive Species Council]] co-chaired by the Secretaries of Interior, Agriculture,...
 > -- *[[ExecutiveOrderInvasiveSpeices_13569]]*
 
+> This technical paper presents comprehensive climatological normals for temperature, precipitation, and heating degree days across the [[United States]], including [[Alaska]], [[Hawaii]], [[Puerto Rico]], and Pacific territories. Published by the [[U.S. Weather Bureau]] in November 1956, the...
+> -- *[[MonthlyNormalTemperaturesPreci_13263]]*
+
 ### Mentioned In
 - [[APetitionPursuantToArticleOfTh_17637]]
 - [[ASummaryOfInformationAboutTheA_18574]]
 - [[DraftsAndNotesOnTheCyprinidFis_15336]]
 - [[ExecutiveOrderInvasiveSpeices_13569]]
+- [[MonthlyNormalTemperaturesPreci_13263]]
 
 ## United States Bureau Of Reclamation
 <!-- fm: auto_enriched: true -->
@@ -2465,6 +2633,18 @@ The United States Department of the Interior is the federal agency that administ
 - [[MemorandumOfUnderstandingOnEnd_11447]]
 - [[ObstaclesToReturnOfTheNative_16538]]
 
+## United States Fish Commission
+
+### Summary
+The United States Fish Commission was the federal agency that originally transferred the holotype specimens of Cambarus gentryi to the Smithsonian Institution. The specimens were collected by Mr. Von Baer in the 1890s and remained in the collection undescribed until 1970.
+
+### Context
+> This paper describes **Cambarus gentryi**, a new species of burrowing crayfish from the [[Nashville Basin]] in [[Tennessee]]. The species was first collected in the 1890s from a tributary of [[Stones River]] but remained undescribed for approximately 75 years. It was rediscovered in 1968 by Dr....
+> -- *[[ANewCrayfishFromTheNashvilleBa_20416]]*
+
+### Mentioned In
+- [[ANewCrayfishFromTheNashvilleBa_20416]]
+
 ## United States Forest Service
 <!-- fm: auto_enriched: true -->
 
@@ -2472,8 +2652,12 @@ The United States Department of the Interior is the federal agency that administ
 > This 1993 policy article examines institutional and ecological obstacles undermining the [[Apache Trout Recovery Program]], a flagship effort under the U.S. Endangered Species Act ("the Act") to restore the native [[Apache Trout]] (*Oncorhynchus apache*) in Arizona. Despite strong political, scie...
 > -- *[[ObstaclesToReturnOfTheNative_16538]]*
 
+> A comprehensive fisheries survey was conducted along the [[Blue River]] in [[Greenlee County]], Arizona from June 16-19, 1997. The survey team from [[Arizona State University]] and [[United States Forest Service]] sampled 90 pools between [[Smith Ranch]] and F.S. Road 475 ([[Juan Miller...
+> -- *[[BlueRiverPoolSamplingGreenleeC_17213]]*
+
 ### Mentioned In
 - [[ObstaclesToReturnOfTheNative_16538]]
+- [[BlueRiverPoolSamplingGreenleeC_17213]]
 
 ## United States Geological Survey
 
@@ -2528,6 +2712,12 @@ The United States National Marine Fisheries Service is a federal government agen
 > This 1907 taxonomic revision by [[Carl H Eigenmann]] examines the [[Poeciliidae]] fauna of [[Rio Grande do Sul]] and the [[La Plata Basin]]. The study establishes several new genera based on detailed examination of teeth morphology and male reproductive organs (intromittent organs). Eigenmann...
 > -- *[[ThePoeciliidFishesOfRioGrandeD_15799]]*
 
+> This taxonomic description presents *[[Fallicambarus hortoni]]*, a new species of burrowing crayfish discovered in [[McNairy County]], [[Tennessee]]. The species was collected from shallow burrows in sandy soil near a tributary of [[Cypress Creek]] in the [[Hatchie River]] drainage system. Based on...
+> -- *[[ANewCrayfishOfTheGenusFallicam_20420]]*
+
+> This taxonomic revision examines terrestrial isopod crustaceans in the family [[Sphaeroniscidae]], resolving the status of several genera originally described by Richardson. The author establishes that [[Synuropus]] is a junior synonym of [[Scleropactes]], transfers multiple species between genera...
+> -- *[[DispositionOfSpeciesOfTerrestr_20619]]*
+
 ### Mentioned In
 - [[GirardinusSonoriensisMczCatalo_1994_09_01]]
 - [[NotesOnFishesCollectedByCaptCh_15664]]
@@ -2536,6 +2726,8 @@ The United States National Marine Fisheries Service is a federal government agen
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
 - [[ANewGenusAndTwoNewSpeciesOfEnt_20413]]
 - [[ThePoeciliidFishesOfRioGrandeD_15799]]
+- [[ANewCrayfishOfTheGenusFallicam_20420]]
+- [[DispositionOfSpeciesOfTerrestr_20619]]
 
 ## United Technologies
 
@@ -2756,6 +2948,15 @@ The University of Arizona served as an institutional partner in federally-author
 > **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
 > -- *[[LongtermMonitoringOfADesertFis_2021]]*
 
+> This document is a magazine article from "Wildlife Views" focusing primarily on recreational gold prospecting and placer mining techniques in Arizona, with additional notes on desert agriculture technology and air pollution legislation. The main article provides historical context about Arizona's...
+> -- *[[BasicPlacerMining_12636]]*
+
+> This field report documents the first comprehensive biological and hydrological survey of [[Cienega de Santa Clara]], a wetland in the [[Colorado River Delta]] in northwestern [[Sonora]], [[Mexico]], conducted October 13-18, 1992. The multi-institutional team assessed fish populations, avifauna,...
+> -- *[[FieldReportNoStudyOfCienegaDeS_16073]]*
+
+> This article documents the native livebearer fishes of Arizona, specifically two subspecies of *[[Poeciliopsis occidentalis]]*: the [[Gila Topminnow]] and the [[Sonora Topminnow]]. The [[Gila Topminnow]] has experienced catastrophic population decline from widespread distribution throughout the...
+> -- *[[NativeArizonaFishesPartLivebea_18575]]*
+
 ### Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -2783,12 +2984,27 @@ The University of Arizona served as an institutional partner in federally-author
 - [[ReportOnTheAnnualCensusOfCypri_18280]]
 - [[ReportPlanningGroupForTheColor_19473]]
 - [[LongtermMonitoringOfADesertFis_2021]]
+- [[BasicPlacerMining_12636]]
+- [[FieldReportNoStudyOfCienegaDeS_16073]]
+- [[NativeArizonaFishesPartLivebea_18575]]
 
 ## University Of Arizona Cooperative Fish And Wildlife Research Unit
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[LetterExplainingAcquisitionOfE_1991_09_26]]
+
+## University of Arizona Environmental Research Laboratory
+
+### Summary
+The University of Arizona Environmental Research Laboratory was a research facility led by Carl N. Hodges that developed integrated environmental systems in the 1970s. This source describes their work creating systems that used waste heat from electrical generators to desalinate seawater for controlled-environment greenhouse agriculture, with the goal of converting desert coastlines into productive agricultural areas.
+
+### Context
+> This document is a magazine article from "Wildlife Views" focusing primarily on recreational gold prospecting and placer mining techniques in Arizona, with additional notes on desert agriculture technology and air pollution legislation. The main article provides historical context about Arizona's...
+> -- *[[BasicPlacerMining_12636]]*
+
+### Mentioned In
+- [[BasicPlacerMining_12636]]
 
 ## University of Arizona Foundation
 
@@ -3232,6 +3448,9 @@ The University of Nevada Las Vegas serves as an important academic institution s
 > This 1971 prospectus from [[Arizona State University]]'s [[Colorado River Basin Research Laboratory]] outlines a comprehensive, multi-year research program to assess environmental impacts of the [[Central Arizona Project]] (CAP). The CAP represents one of the most ambitious water transfer projects...
 > -- *[[EnvironmentalImpactsOfTheCentr_15862]]*
 
+> This field report documents emergency fish sampling conducted 07-08 January 1989 along the [[Virgin River]] (Arizona-Nevada-Utah) immediately following the catastrophic failure of [[Quail Creek Reservoir]] dike on 01 January 1989. Personnel from [[Arizona State University]] (ASU) and [[University...
+> -- *[[VirginRiverFishSamplingJanuary_19425]]*
+
 ### Mentioned In
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
 - [[RazorbackSuckersInLakeMead_1990_05_07]]
@@ -3240,6 +3459,7 @@ The University of Nevada Las Vegas serves as an important academic institution s
 - [[PictureAndInformationOnGilaTak_13997]]
 - [[UpdatesFromEpPister_12831]]
 - [[EnvironmentalImpactsOfTheCentr_15862]]
+- [[VirginRiverFishSamplingJanuary_19425]]
 
 ## University of Nevada Reno
 
@@ -3592,6 +3812,18 @@ UPGMA (Unweighted Pair Group Method with Arithmetic Mean) is a clustering analys
 ### Mentioned In
 - [[GeneticVariationAmongLowerColo_12776]]
 
+## Upland
+
+### Summary
+Upland is a water body or pond location at San Bernardino National Wildlife Refuge used for stocking endangered fish species. It received Gila Topminnow stockings on multiple occasions, including 7 fish from Border Spring in April 1984, fish from Bunting and North Pond in March 1990, and was among the sites stocked in 1989.
+
+### Context
+> This document comprises correspondence and stocking records from the [[U.S. Fish and Wildlife Service]] documenting the translocation and management of [[Yaqui Chub]] (*Gila purpurea*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis*) at [[San Bernardino National Wildlife Refuge]] and [[Leslie...
+> -- *[[CompiledStockingRecordsForSanB_15975]]*
+
+### Mentioned In
+- [[CompiledStockingRecordsForSanB_15975]]
+
 ## Upland Spring
 
 ### Summary
@@ -3677,6 +3909,18 @@ The Upper Basin Recovery Program is a cooperative federal-state recovery initiat
 ### Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
 
+## Upper Colorado Basin
+
+### Summary
+The Upper Colorado Basin refers to the portion of the Colorado River system above Lee's Ferry, Arizona. This source indicates that wild populations of Colorado Squawfish are now limited to this region, especially the Green River, White River, and Yampa River, and that the Recovery Implementation Program focuses on balancing water development in the Upper Basin with protection and recovery of endangered fish species.
+
+### Context
+> This public education brochure describes four endangered native fish species of the [[Colorado River Basin]]: the [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These species...
+> -- *[[SwimmingUpstreamTheEndangeredF_15037]]*
+
+### Mentioned In
+- [[SwimmingUpstreamTheEndangeredF_15037]]
+
 ## Upper Colorado Basin Endangered Fish Recovery Program
 <!-- fm: auto_enriched: true -->
 
@@ -3699,8 +3943,12 @@ The Upper Colorado Region is an administrative division of the Bureau of Reclama
 > This memorandum from the [[Glen Canyon Environmental Studies]] program announces a technical review meeting scheduled for June 11, 1993, to evaluate the [[U.S. Fish and Wildlife Service]] flow scenario for [[Glen Canyon Dam]] operations. The meeting was relocated to accommodate increased attendance...
 > -- *[[GlenCanyonEnvironmentalStudies_19728]]*
 
+> This workshop proceedings document, compiled by James F. LaBounty in February 1976, summarizes the third annual workshop on ecological effects of pumped-storage hydroelectric operations, with primary focus on the [[Mt. Elbert Unit]] at [[Twin Lakes, Colorado]]. The workshop brought together...
+> -- *[[ThirdWorkshopOnEcologyOfPumpst_12641]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_19728]]
+- [[ThirdWorkshopOnEcologyOfPumpst_12641]]
 
 ## Upper Colorado River
 <!-- fm: auto_enriched: true -->
@@ -3977,6 +4225,12 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
 > -- *[[SummarynovemberAndFebruaryMana_21001]]*
 
+> The 1995 annual report documents the [[Upper Colorado River Recovery Program]]'s transition from research to direct recovery actions for four endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and...
+> -- *[[AnnualReportRecoveryProgramFor_11673]]*
+
+> The 1996 Annual Report documents progress of the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover four endangered fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and [[Humpback Chub]]...
+> -- *[[AnnualReportRecoveryProgramFor_11678]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -4084,6 +4338,8 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[DraftManagementGroupMeetingSum_17880]]
 - [[CivilActionNoFColoradoWildlife_20991]]
 - [[SummarynovemberAndFebruaryMana_21001]]
+- [[AnnualReportRecoveryProgramFor_11673]]
+- [[AnnualReportRecoveryProgramFor_11678]]
 
 ## Upper Colorado River Basin Biological Subcommittee
 <!-- fm: auto_enriched: true -->
@@ -4242,9 +4498,17 @@ The Upper Colorado River Recovery Implementation Program is a recovery effort fo
 > This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
 > -- *[[AlternativeApproachesToHcpsFor_16735]]*
 
+> The 1995 annual report documents the [[Upper Colorado River Recovery Program]]'s transition from research to direct recovery actions for four endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and...
+> -- *[[AnnualReportRecoveryProgramFor_11673]]*
+
+> The 1996 Annual Report documents progress of the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover four endangered fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and [[Humpback Chub]]...
+> -- *[[AnnualReportRecoveryProgramFor_11678]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[AlternativeApproachesToHcpsFor_16735]]
+- [[AnnualReportRecoveryProgramFor_11673]]
+- [[AnnualReportRecoveryProgramFor_11678]]
 
 ## Upper Colorado River System
 <!-- fm: auto_enriched: true -->
@@ -4554,11 +4818,15 @@ The Upper Mississippi River refers to the northern section of the Mississippi Ri
 > This document comprises three grant proposals submitted by [[American Rivers]] to the [[National Fish and Wildlife Foundation]] on December 30, 1993. The proposals address: (1) native fish habitat assessment in the [[Gila River]] watershed using historical distribution data; (2) floodplain habitat...
 > -- *[[AmericanRiversProposalFundingR_17975]]*
 
+> This memorandum from [[American Rivers]] Executive Director Rebecca R. Wodder to the Board of Directors provides a comprehensive update on organizational activities as of May 24, 1999. The document covers major conservation initiatives focused on river restoration, salmon recovery, dam removal...
+> -- *[[UpdateOnActivities_20797]]*
+
 ### Mentioned In
 - [[FreshwaterDrumAplodinotusGrunn_14145]]
 - [[StationProfileOfTheGenoaNation_1993]]
 - [[TheAgeAndRateOfGrowthOfTheShee_14112]]
 - [[AmericanRiversProposalFundingR_17975]]
+- [[UpdateOnActivities_20797]]
 
 ## Upper Mississippi River Conservation Committee
 <!-- fm: auto_enriched: true -->
@@ -4884,6 +5152,18 @@ Upwelling is the process by which nutrient-rich deep water is brought to the sur
 ### Mentioned In
 - [[UpsetForMilankovitchTheory_1992_10_29]]
 
+## Urban
+
+### Summary
+Urban is a fisheries management concept designed to provide convenient fishing opportunities near population centers, specifically within 5 miles of cities with populations exceeding 20,000. The Arizona plan specifies that Urban waters support the highest use intensity at 50 angler-days per acre per week with harvest rates of 0.2 fish per hour, making trout fishing accessible to city residents.
+
+### Context
+> This document is the Arizona Game and Fish Department's Strategic Plan for Cold Water Fisheries covering 1985-1990, prepared under Federal Aid Project FW-11-R. The plan addresses the management of Arizona's trout fisheries, which support over 220,000 licensed anglers annually who harvest over 3...
+> -- *[[ArizonaColdWaterFisheriesStrat_14823]]*
+
+### Mentioned In
+- [[ArizonaColdWaterFisheriesStrat_14823]]
+
 ## Urban Fishing Program
 <!-- fm: auto_enriched: true -->
 
@@ -5002,6 +5282,42 @@ Urethane is a sedative chemical used to anesthetize fish, applied as a 0.5% solu
 ### Mentioned In
 - [[DistributionalRecordsForNorthA_1946_06_15]]
 
+## Uropod 1
+
+### Summary
+Uropod 1 is the first pair of tail appendages in Corophium aquafuscum, with a diagnostic feature being the bare inner margin of the peduncle except for a single stout distal spine. The peduncle has 10-11 setae on the outer margin in males (12-15 in females), and the outer ramus bears 12-15 compound spines in males (15-18 in females).
+
+### Context
+> This paper describes **Corophium aquafuscum** new species, a tube-dwelling amphipod discovered in 1968 in low salinity marsh areas of Georgia estuaries. The species is characterized by a completely segmented urosome, two strong distoventral teeth on antenna 2 segment 4, absence of distinct rostrum...
+> -- *[[ANewSpeciesOfCorophiumLatreill_20748]]*
+
+### Mentioned In
+- [[ANewSpeciesOfCorophiumLatreill_20748]]
+
+## Uropod 2
+
+### Summary
+Uropod 2 is the second pair of tail appendages in Corophium aquafuscum, with the peduncle bearing 3-4 setae on the outer margin in males (3-7 in females). The outer ramus has 6-7 compound spines in males (5-8 in females), and the inner ramus has 0-2 compound spines in males (2-4 in females).
+
+### Context
+> This paper describes **Corophium aquafuscum** new species, a tube-dwelling amphipod discovered in 1968 in low salinity marsh areas of Georgia estuaries. The species is characterized by a completely segmented urosome, two strong distoventral teeth on antenna 2 segment 4, absence of distinct rostrum...
+> -- *[[ANewSpeciesOfCorophiumLatreill_20748]]*
+
+### Mentioned In
+- [[ANewSpeciesOfCorophiumLatreill_20748]]
+
+## Uropod 3
+
+### Summary
+Uropod 3 is the third and final pair of tail appendages in Corophium aquafuscum, which is uniramous (single-branched). In males it has a rounded ramus bearing 12-14 setae, while in females the ramus is subovate with 13-18 setae and the peduncle has 2-4 setae.
+
+### Context
+> This paper describes **Corophium aquafuscum** new species, a tube-dwelling amphipod discovered in 1968 in low salinity marsh areas of Georgia estuaries. The species is characterized by a completely segmented urosome, two strong distoventral teeth on antenna 2 segment 4, absence of distinct rostrum...
+> -- *[[ANewSpeciesOfCorophiumLatreill_20748]]*
+
+### Mentioned In
+- [[ANewSpeciesOfCorophiumLatreill_20748]]
+
 ## Urosalpinx Cinerea
 <!-- fm: auto_enriched: true -->
 
@@ -5026,6 +5342,18 @@ The black bear is an endangered species under federal protection in the Sierra S
 
 ### Mentioned In
 - [[ManagementPlanSierraSanLuisWil_18303]]
+
+## Ursus arctos
+
+### Summary
+Ursus arctos (brown bear) is a large carnivore. This source lists it as endangered (P) in Mexico's 1993 conservation standard, grouping it with other large carnivores like jaguars and Mexican wolves as priority species in temperate forest habitats.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
 
 ## Uruguay
 
@@ -5435,6 +5763,9 @@ Utah is a geographic region in the western United States that serves as a critic
 > This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
 > -- *[[DraftManagementGroupMeetingSum_17880]]*
 
+> The 1995 annual report documents the [[Upper Colorado River Recovery Program]]'s transition from research to direct recovery actions for four endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and...
+> -- *[[AnnualReportRecoveryProgramFor_11673]]*
+
 ### Mentioned In
 - [[EndanderedAndThreatenedWildlif_16520]]
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
@@ -5448,6 +5779,7 @@ Utah is a geographic region in the western United States that serves as a critic
 - [[MxMissileSystemAnUrgentLetterF_20507]]
 - [[ReSteveLanigansCommentsConcern_14142]]
 - [[DraftManagementGroupMeetingSum_17880]]
+- [[AnnualReportRecoveryProgramFor_11673]]
 
 ## Utah Chub
 <!-- fm: auto_enriched: true -->
@@ -5614,6 +5946,9 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 > This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
 > -- *[[FyAnnualProjectReportColoradoR_21244]]*
 
+> The 1996 Annual Report documents progress of the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover four endangered fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and [[Humpback Chub]]...
+> -- *[[AnnualReportRecoveryProgramFor_11678]]*
+
 ### Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[CaptureOfRareFishInLakePowell_1988_08_18]]
@@ -5641,6 +5976,7 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[ReactionsToTalkAtAfsMeetingInB_18595]]
 - [[FyAnnualProjectReportColoradoR_21244]]
+- [[AnnualReportRecoveryProgramFor_11678]]
 
 ## Utah Fish and Game Department
 
@@ -5746,6 +6082,18 @@ The Utah Prairie Dog is an endangered mammal in Iron and Millard Counties, Utah,
 ### Mentioned In
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 
+## Utah State Engineer
+
+### Summary
+The Utah State Engineer is a state water management authority responsible for water rights administration. According to this source, in 1995 the Utah State Engineer established a water rights policy specifically designed to protect flows in the Green River between Flaming Gorge Dam and the Duchesne River, supporting habitat conditions for endangered fish species in the Upper Colorado River Basin.
+
+### Context
+> The 1995 annual report documents the [[Upper Colorado River Recovery Program]]'s transition from research to direct recovery actions for four endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and...
+> -- *[[AnnualReportRecoveryProgramFor_11673]]*
+
+### Mentioned In
+- [[AnnualReportRecoveryProgramFor_11673]]
+
 ## Utah State University
 <!-- fm: auto_enriched: true -->
 
@@ -5822,9 +6170,13 @@ The Utah Water Users Association is one of the participating organizations in th
 > The [[Upper Colorado River Endangered Fish Recovery Program]] was established in 1988 as a partnership to recover four endangered fish species—[[Colorado Pikeminnow]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Humpback Chub]] (*Gila cypha*), and [[Bonytail]] (*Gila...
 > -- *[[DraftRecoveryGoals_11689]]*
 
+> This public education brochure describes four endangered native fish species of the [[Colorado River Basin]]: the [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These species...
+> -- *[[SwimmingUpstreamTheEndangeredF_15037]]*
+
 ### Mentioned In
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[DraftRecoveryGoals_11689]]
+- [[SwimmingUpstreamTheEndangeredF_15037]]
 
 ## Ute Pipeline Project
 

@@ -58,6 +58,30 @@ The Zambesi River is a major African river system in the Indian Ocean basin wher
 ### Mentioned In
 - [[ANoteOnEelsAnguillaSpp_18852]]
 
+## Zamia
+
+### Summary
+Zamia is a genus of cycads in the family Zamiaceae. The standard lists all Zamia species as predominantly endangered or threatened in Mexico, indicating significant conservation priority for these plants.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
+
+## Zamiaceae
+
+### Summary
+Zamiaceae is the cycad family of ancient seed plants. This source indicates that Mexico's 1993 endangered species standard includes all species of the genera Ceratozamia, Dioon, and Zamia from this family, with most classified as endangered or threatened, representing high conservation priority for Mexican cycads.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
+
 ## Zander
 
 ### Summary
@@ -350,6 +374,22 @@ Zill's Tilapia (Tilapia zilli) is an introduced fish species found in trace amou
 ### Mentioned In
 - [[RadioactiveMaterialsInAquaticA_13967]]
 
+## Zion Canyon
+
+### Summary
+Zion Canyon is one of the steep-walled, narrow canyons that characterize the Virgin River system in southwestern Utah. The source lists it among the major canyon features of the Virgin River basin, which encompasses approximately 5,100 square miles and flows through Utah, Arizona, and Nevada.
+
+### Context
+> This preliminary draft Environmental Assessment, prepared by the [[U.S. Fish and Wildlife Service]] in June 1996, evaluates alternatives for eradicating the invasive [[Red Shiner]] (*Notropis lutrensis*) from the [[Virgin River]] in Utah. The red shiner, a small minnow native to the North Central...
+> -- *[[PreliminaryDraftEnvironmentalA_11680]]*
+
+> This recovery plan addresses two endangered cyprinid species endemic to the [[Virgin River]] system: the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*). The woundfin was listed as endangered on October 13, 1970, and the Virgin River chub on August 24,...
+> -- *[[VirginRiverFishesRecoveryPlan_13186]]*
+
+### Mentioned In
+- [[PreliminaryDraftEnvironmentalA_11680]]
+- [[VirginRiverFishesRecoveryPlan_13186]]
+
 ## Zion National Park
 <!-- fm: auto_enriched: true -->
 
@@ -604,6 +644,9 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This technical report presents Habitat Suitability Index (HSI) models for [[Common Carp]] (*Cyprinus carpio*) in riverine and lacustrine habitats across the 48 contiguous United States. Developed by the U.S. Fish and Wildlife Service's Habitat Evaluation Procedures Group, the models synthesize...
 > -- *[[HabitatSuitabilityIndexModelsC_15766]]*
 
+> The Native Fish Project at [[Phoenix Zoo]] established a dual-purpose conservation facility in summer 1996 to provide long-term refugium and head-start capabilities for endangered southwestern native fish species. Through multi-agency collaboration, zoo staff successfully converted existing lake...
+> -- *[[FishFareFineAtPhoenix_19367]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -618,6 +661,7 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[TheIonicCompositionOfSomeLowla_11054]]
 - [[ThePlanktonSamplerAnInstrument_1950]]
 - [[HabitatSuitabilityIndexModelsC_15766]]
+- [[FishFareFineAtPhoenix_19367]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->
@@ -801,6 +845,18 @@ The Zuni River is a tributary of the Little Colorado River in the southwestern U
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[DraftLittleColoradoRiverSpined_11662]]
 - [[DistributionAbundanceAndHabita_12811]]
+
+## Zwartkops River
+
+### Summary
+The Zwartkops River in the eastern Cape represents the southern limit of Gerres distribution along the east coast of Africa. This location is mentioned as the southernmost extent where members of the genus Gerres occur.
+
+### Context
+> This study investigated sources of mortality for three species of [[Gerreidae]] ([[Gerres acinaces]], [[Gerres rappi]], and [[Gerres filamentosus]]) in Natal estuaries, South Africa, between 1978 and 1982, with primary focus on the [[Kosi System]]. Despite being abundant benthic feeders forming an...
+> -- *[[PredationAndSourcesOfMortality_18127]]*
+
+### Mentioned In
+- [[PredationAndSourcesOfMortality_18127]]
 
 ## Zwick 1976
 <!-- fm: auto_enriched: true -->

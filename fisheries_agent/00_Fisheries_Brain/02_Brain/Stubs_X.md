@@ -276,6 +276,9 @@ Xiphophorus is a genus of small livebearing fish (family Poeciliidae) native to 
 > This comprehensive review synthesizes ecological knowledge of the family [[Poeciliidae]], encompassing approximately 184 species of livebearing fishes. While poeciliids have been extensively studied in genetics, reproductive physiology, and embryonic development, ecological aspects remain poorly...
 > -- *[[AnEcologicalOverviewOfPoecilii_20086]]*
 
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
 ### Mentioned In
 - [[FigXiphophorusMontezuma_19851]]
 - [[GeneticMarkerIdentificationInL_1986]]
@@ -284,6 +287,7 @@ Xiphophorus is a genus of small livebearing fish (family Poeciliidae) native to 
 - [[PartialBibliographyOnNaturalHi_13786]]
 - [[ExperimentalBreedingOfTheAmazo_14310]]
 - [[AnEcologicalOverviewOfPoecilii_20086]]
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
 
 ## Xiphophorus Clemenciae
 <!-- fm: auto_enriched: true -->
@@ -555,6 +559,12 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
 > -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
 
+> This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
+> -- *[[MorphologicalVariationInGilaPi_12778]]*
+
+> This 1950 field study documents the first published observations of spawning behavior in [[Xyrauchen texanus]] (humpback sucker), a native fish of the [[Lower Colorado River]] drainage. Observations were conducted at [[Lake Havasu]], an impoundment created by [[Parker Dam]] in 1938. The author...
+> -- *[[NotesOnTheSpawningOfTheHumpbac_19098]]*
+
 ### Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -620,6 +630,8 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[GilaRiverFishdistributionProje_15844]]
 - [[ProvisionalKeyToTheProtolarvae_21239]]
+- [[MorphologicalVariationInGilaPi_12778]]
+- [[NotesOnTheSpawningOfTheHumpbac_19098]]
 
 ## Xyrauchen-Catostomus Hybridization
 <!-- fm: auto_enriched: true -->

@@ -87,8 +87,12 @@ I.C. Russell authored the definitive 1889 monograph describing Pleistocene glaci
 > This paper by Bruce B. Collette (1990) is not a species-level biological study but a critical commentary on the epistemic infrastructure of [[Fishery Science]]. It examines the pervasive problem of **gray literature**—written information produced and distributed without adequate peer review—withi...
 > -- *[[ProblemsWithGrayLiteratureInFi_1990]]*
 
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
 ### Mentioned In
 - [[ProblemsWithGrayLiteratureInFi_1990]]
+- [[ReviewOfTheStateOfWorldFishery_16310]]
 
 ## Ice Age Chronology
 <!-- fm: auto_enriched: true -->
@@ -174,8 +178,12 @@ A significant groundfish supplier whose cod landings declined from 390,000 metri
 > This paper by Bruce B. Collette (1990) is not a species-level biological study but a critical commentary on the epistemic infrastructure of [[Fishery Science]]. It examines the pervasive problem of **gray literature**—written information produced and distributed without adequate peer review—withi...
 > -- *[[ProblemsWithGrayLiteratureInFi_1990]]*
 
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
 ### Mentioned In
 - [[ProblemsWithGrayLiteratureInFi_1990]]
+- [[ReviewOfTheStateOfWorldFishery_16310]]
 
 ## Ichthyobus Tumidus
 <!-- fm: auto_enriched: true -->
@@ -303,6 +311,9 @@ Ichthyology is the scientific study of fish, encompassing their taxonomy, physio
 > This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
 > -- *[[DraftEvaluationOfPotentialsFor_15827]]*
 
+> This memorandum from April 7, 1997 documents a comprehensive curriculum revision for the Wildlife Conservation Biology major at [[Arizona State University]]'s Department of Zoology. The proposal renames the major to "Conservation Biology," restructures core courses to eliminate the...
+> -- *[[ModificationOfTheWildlifeConse_20526]]*
+
 ### Mentioned In
 - [[A Proposed Code System for Storage and Retrieval of Information in Systematic Zoology]]
 - [[AListOfTheMayfliesEphemeropter_1970]]
@@ -344,6 +355,7 @@ Ichthyology is the scientific study of fish, encompassing their taxonomy, physio
 - [[ZurKenntnisDerOligochaetenDerW_14403]]
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[DraftEvaluationOfPotentialsFor_15827]]
+- [[ModificationOfTheWildlifeConse_20526]]
 
 ## Ichthyology Data Extraction
 <!-- fm: auto_enriched: true -->
@@ -378,9 +390,13 @@ Ichthyology is the scientific study of fish, encompassing their taxonomy, physio
 > This document presents a comprehensive taxonomic checklist of freshwater fishes occurring in Texas, compiled by Kenneth C. Jurgens (Aquatic Biologist, Texas Game and Fish Commission) and Clark Hubbs (The University of Texas). Originally published in the March 1953 issue of Texas Game and Fish...
 > -- *[[AChecklistOfTexasFreshwaterFis_19871]]*
 
+> This encyclopedic entry provides a comprehensive overview of cyclostomes—the lampreys and hagfishes—which constitute the class [[Cyclostomata]]. These primitive, jawless, eel-shaped fishes represent approximately 50 species inhabiting temperate waters worldwide. The document covers their economic...
+> -- *[[Cyclostome_14164]]*
+
 ### Mentioned In
 - [[OccurrenceOfTheLampreyIchthyom_15942]]
 - [[AChecklistOfTexasFreshwaterFis_19871]]
+- [[Cyclostome_14164]]
 
 ## Ichthyomyzon bdellium
 
@@ -544,6 +560,18 @@ The ICNAF (International Commission for the Northwest Atlantic Fisheries) Sympos
 
 ### Mentioned In
 - [[FittingAVonBertalanffyGrowthCu_13367]]
+
+## ICSEAF
+
+### Summary
+ICSEAF (International Commission for the Southeast Atlantic Fisheries) is a regional fishery body that provides scientific advice for fisheries management in the Southeast Atlantic region. According to this 1989 FAO review, ICSEAF was one of several regional organizations responsible for assessing and managing fish stocks in its designated area.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
 
 ## Ictalurid Catfish
 <!-- fm: auto_enriched: true -->
@@ -715,6 +743,9 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 > This recovery plan addresses [[Gasterosteus aculeatus williamsoni]], the [[Unarmored Threespine Stickleback]], an endangered freshwater fish subspecies endemic to southern California. Prepared by the Unarmored Threespine Stickleback Recovery Team (led by Shoken Sasaki, California Department of Fish...
 > -- *[[RecoveryPlanForUnarmoredThrees_20518]]*
 
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
 ### Mentioned In
 - [[FactorsInfluencingLocalDistrib_17059]]
 - [[NestsEggsAndLarvaeOfTheElegant_1981]]
@@ -725,6 +756,19 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[FishCollectionRecordsAndFieldN_15305]]
 - [[RecoveryPlanForUnarmoredThrees_20518]]
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
+
+## Ictalurus catus
+
+### Summary
+Ictalurus catus (white catfish) is a predator of Corophium aquafuscum in Georgia estuarine habitats. Specimens of C. aquafuscum were found in stomachs of white catfish collected in Riceboro Creek during winter and early spring 1970.
+
+### Context
+> This paper describes **Corophium aquafuscum** new species, a tube-dwelling amphipod discovered in 1968 in low salinity marsh areas of Georgia estuaries. The species is characterized by a completely segmented urosome, two strong distoventral teeth on antenna 2 segment 4, absence of distinct rostrum...
+> -- *[[ANewSpeciesOfCorophiumLatreill_20748]]*
+
+### Mentioned In
+- [[ANewSpeciesOfCorophiumLatreill_20748]]
 
 ## Ictalurus Chihuahua
 <!-- fm: auto_enriched: true -->
@@ -805,9 +849,13 @@ Ictalurus lupus is a catfish species in the family Ictaluridae, commonly known a
 > This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
 > -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
 
+> This document presents the final report of the Emergency Action Program (Programa de Acción Emergente) for the [[Valle de Cuatrociénegas]] Flora and Fauna Protection Area in [[Coahuila]], [[México]], completed in December 1998. The program was a collaborative effort between the North American...
+> -- *[[ProgramaDeAccionEmergenteParaE_19472]]*
+
 ### Mentioned In
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[TaxonomicStatusEcologyAndDistr_14514]]
+- [[ProgramaDeAccionEmergenteParaE_19472]]
 
 ## Ictalurus Melas
 <!-- fm: auto_enriched: true -->
@@ -1307,6 +1355,18 @@ Idaho Power Company is the owner of C.J. Strike Reservoir in south-central Idaho
 - [[FederalAidToFishRestorationAnn_19654]]
 - [[SalmonAndSteelheadInvestigatio_12147]]
 
+## Idaho State University Museum
+
+### Summary
+The Idaho State University Museum (ISUM) is the repository institution where the Chasmistes spatulifer specimen is deposited. The specimen is catalogued as ISUM 32034 and was collected on June 17, 1971.
+
+### Context
+> This paper describes a partial skeleton of the head region of *[[Chasmistes spatulifer]]*, a catostomid fish from [[Plio-Pleistocene]] [[Lake Idaho]] deposits near [[Fossil Butte]] in [[Owyhee County]], Idaho. The specimen (ISUM 32034), collected June 17, 1971, greatly expands knowledge of this...
+> -- *[[ACatostomidFishFromPliopleisto_20337]]*
+
+### Mentioned In
+- [[ACatostomidFishFromPliopleisto_20337]]
+
 ## Iddh-A
 <!-- fm: auto_enriched: true -->
 
@@ -1549,6 +1609,15 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
 > -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
 
+> This bulletin documents an unprecedented epidemic of the fish leech [[Piscicola punctata]] on [[Red-Mouth Buffalo]] (*Ictiobus cyprinella*) in [[Rock River]], Illinois during the winter of 1925-1926. The infestation was remarkable both for its intensity (up to 50+ leeches per fish, averaging ~20)...
+> -- *[[AnEpidemicOfLeechesOnFishesInR_13584]]*
+
+> This 1993 report by [[American Rivers]] identifies the ten most endangered and fifteen most threatened rivers in North America based on importance as natural resources, degree of threat, and imminence of those threats. The document serves as an advocacy tool to raise public awareness about...
+> -- *[[TheNationsTenMostEndangeredRiv_17976]]*
+
+> This 1951 report from the [[New Jersey Fisheries Survey]] examines the ecological role of freshwater leeches (Hirudinea) in fish populations. The authors document leech diversity, distribution, and their multifaceted interactions with fishes—as parasites, prey, competitors, and disease vectors....
+> -- *[[LeechesAndTheirImportanceInThe_18934]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -1556,6 +1625,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[SomeObservationsOnLimnologyAnd_1954]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[BiologyOfFreshwaterFishInARevi_17896]]
+- [[AnEpidemicOfLeechesOnFishesInR_13584]]
+- [[TheNationsTenMostEndangeredRiv_17976]]
+- [[LeechesAndTheirImportanceInThe_18934]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -1746,6 +1818,12 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> This 1969 Bureau of Reclamation document describes the comprehensive Operation and Maintenance (O&M) Program for the [[Lower Colorado River]] below [[Davis Dam]], implemented under the Colorado River Front Work and Levee System Act of 1927. The program addresses channel instability, sediment...
+> -- *[[LowerColoradoRiverMaps_12161]]*
+
+> This final report documents a 1987 monitoring study of [[Razorback Sucker]] (*Xyrauchen texanus*) reintroduced into the [[Lower Colorado River]]. Approximately 900,000 larvae produced at [[Dexter National Fish Hatchery]] were stocked into selected Colorado River backwaters in late spring 1987, with...
+> -- *[[AMonitoringStudyOfRazorbackSuc_12703]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedNonessent_1987_10_07]]
 - [[HabitatUseByRazorbackSuckersRe_1995]]
@@ -1766,6 +1844,8 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[ProposalToListTheRazorbackSuck_14703]]
 - [[EffectOfChannelizationOnTheFis_18139]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[LowerColoradoRiverMaps_12161]]
+- [[AMonitoringStudyOfRazorbackSuc_12703]]
 
 ## Imperial Dam Impoundment
 <!-- fm: auto_enriched: true -->
@@ -1796,12 +1876,16 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This draft environmental assessment evaluates restoration and enhancement actions for the [[Lower Colorado River]] from [[Imperial Dam]] through the [[Imperial National Wildlife Refuge]], covering approximately 153 backwater lakes and 6,100 acres of riparian, wetland, and aquatic habitat in Arizona...
 > -- *[[DraftEnvironmentalAssessmentLo_11489]]*
 
+> This 1969 Bureau of Reclamation document describes the comprehensive Operation and Maintenance (O&M) Program for the [[Lower Colorado River]] below [[Davis Dam]], implemented under the Colorado River Front Work and Levee System Act of 1927. The program addresses channel instability, sediment...
+> -- *[[LowerColoradoRiverMaps_12161]]*
+
 ### Mentioned In
 - [[CommentsOnTheUSFishAndWildlife_1997_07_08]]
 - [[ContinuedResearchOfTheLowerCol_1996_09_04]]
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
 - [[DraftmanagementPlanForTheRazor_11427]]
 - [[DraftEnvironmentalAssessmentLo_11489]]
+- [[LowerColoradoRiverMaps_12161]]
 
 ## Imperial East Mesa
 
@@ -1966,6 +2050,9 @@ Imperial Reservoir is a 2955-hectare impoundment on the Lower Colorado River nor
 > This draft management plan implements Reasonable and Prudent Alternative (RPA) provision 3 from the April 30, 1997 Biological Opinion on [[Bureau of Reclamation]] operations on the [[Lower Colorado River]]. The plan addresses establishment of at least 300-600 acres of protected habitats for...
 > -- *[[DraftLowerColoradoRiverOperati_13907]]*
 
+> This 1969 Bureau of Reclamation document describes the comprehensive Operation and Maintenance (O&M) Program for the [[Lower Colorado River]] below [[Davis Dam]], implemented under the Colorado River Front Work and Levee System Act of 1927. The program addresses channel instability, sediment...
+> -- *[[LowerColoradoRiverMaps_12161]]*
+
 ### Mentioned In
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[DraftmanagementPlanForTheRazor_11427]]
@@ -1974,6 +2061,7 @@ Imperial Reservoir is a 2955-hectare impoundment on the Lower Colorado River nor
 - [[EffectOfChannelizationOnTheFis_18139]]
 - [[MarineIntroductionsTexas_13536]]
 - [[DraftLowerColoradoRiverOperati_13907]]
+- [[LowerColoradoRiverMaps_12161]]
 
 ## Imperial Valley
 
@@ -2311,6 +2399,18 @@ Independence Valley is a Nevada location that supports two endemic fish subspeci
 - [[MxMissileSystemeffectsOnDesert_20506]]
 - [[MxMissileSystemAnUrgentLetterF_20507]]
 
+## Independence Valley Chub
+
+### Summary
+The Independence Valley Chub (Gila bicolor isolata) is an extinct subspecies of tui chub from Nevada. It represents one of the eleven fish taxa documented as extinct in the state, having disappeared from its isolated valley habitat in Nevada's closed basin system.
+
+### Context
+> This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
+> -- *[[FishesOfNevada_15993]]*
+
+### Mentioned In
+- [[FishesOfNevada_15993]]
+
 ## Independence Valley Tui Chub
 
 ### Summary
@@ -2361,8 +2461,12 @@ India has a very rich tropical fish fauna but faces numerous conservation pressu
 > This comprehensive review by [[Peter S. Maitland]] examines the global status of fish conservation, covering approximately 30,000 described fish species worldwide. Despite fish representing three in every five vertebrate species, they have historically received minimal conservation attention...
 > -- *[[TheConservationOfFishPastAndPr_19359]]*
 
+> This fax communication from Winrock International (February 11, 1992) confirms consulting arrangements for Dr. Buddy Jensen to work with India's National Bureau of Fish Genetic Resources (NBFGR) on designing a fish genetic resources conservation project. Dr. F.P. Das, Director of NBFGR, has...
+> -- *[[AnimalGeneticResourcesConserva_11940]]*
+
 ### Mentioned In
 - [[TheConservationOfFishPastAndPr_19359]]
+- [[AnimalGeneticResourcesConserva_11940]]
 
 ## Indian Flap-shelled Turtle
 
@@ -2489,8 +2593,12 @@ Indiana is one of four U.S. states that, as of early 1957, was planning to imple
 > - **Habitat**: The [[Snail Darter]] inhabits the Tellico River, a tributary system in Tennessee, within freshwater riverine habitat characterized by flowing water suitable for small benthic percid fishes. - **Ecological significance**: Small darter species like *P. tanasi* often serve as indicato...
 > -- *[[EndangeredSpeciesLawSubjectOfC_1998_12_31]]*
 
+> This document is a regulatory compilation from Title 50 of the Code of Federal Regulations (CFR), specifically Part 17, which establishes the official lists of endangered and threatened wildlife and plants under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11572]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesLawSubjectOfC_1998_12_31]]
+- [[PartEndangeredAndThreatenedWil_11572]]
 
 ## Indiana Freshwater Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -3135,6 +3243,18 @@ The Integrated Border Environmental Plan (IBEP) was prepared by EPA and Mexico's
 ### Mentioned In
 - [[StateOfTheUsmexicoBorderEnviro_14365]]
 
+## Integrated Systems Resource Management Plan
+
+### Summary
+The Integrated Systems Resource Management Plan (ISRMP) is a comprehensive management framework for the Grand Canyon ecosystem that would incorporate the Multiple Level Intake Structure as one component. This source indicates that developing the ISRMP requires identifying all affected resources, including system components vital to resource health such as temperature, food base, predators/competitors, and pathogens, and defining limits, optimums, and allowable variances for these components. The plan would need to be based on information from research, monitoring, and analysis, with workshop participants recommending five-year review intervals and consideration of long time schemes spanning 10-50 years.
+
+### Context
+> This memorandum from the [[Bureau of Reclamation]] summarizes the November 18, 1992 workshop on the proposed [[Multiple Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to support maintenance and recovery of threatened and endangered fish species, particularly...
+> -- *[[GlenCanyonEnvironmentalStudies_19718]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_19718]]
+
 ## Integrated Technical Report
 
 ### Summary
@@ -3152,6 +3272,18 @@ The Integrated Technical Report is a document that was designated to serve as th
 
 ### Mentioned In
 - [[AnAquaculturalEvaluationOfFlor_1988]]
+
+## Intensive Use
+
+### Summary
+Intensive Use is a fisheries management concept designed to provide high-volume recreational fishing opportunities with frequent stocking of catchable-sized fish, primarily Rainbow Trout. According to this Arizona strategic plan, Intensive Use waters are managed to support 30 angler-days per acre per week in lakes and 40 in streams, with anglers expected to harvest 0.5 fish per hour, representing the most heavily utilized category of cold water fisheries.
+
+### Context
+> This document is the Arizona Game and Fish Department's Strategic Plan for Cold Water Fisheries covering 1985-1990, prepared under Federal Aid Project FW-11-R. The plan addresses the management of Arizona's trout fisheries, which support over 220,000 licensed anglers annually who harvest over 3...
+> -- *[[ArizonaColdWaterFisheriesStrat_14823]]*
+
+### Mentioned In
+- [[ArizonaColdWaterFisheriesStrat_14823]]
 
 ## Inter-Agency Committee On Water Resources
 <!-- fm: auto_enriched: true -->
@@ -3444,6 +3576,9 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 > This letter report from the EPA Border Environmental Plan Public Advisory Committee to Administrator Carol Browner (July 22, 1993) documents critical environmental and public health concerns in the [[U.S.-Mexico Border Region]]. The Committee, working with the [[Udall Center for Studies in Public...
 > -- *[[StateOfTheUsmexicoBorderEnviro_14365]]*
 
+> This 1969 Bureau of Reclamation document describes the comprehensive Operation and Maintenance (O&M) Program for the [[Lower Colorado River]] below [[Davis Dam]], implemented under the Colorado River Front Work and Levee System Act of 1927. The program addresses channel instability, sediment...
+> -- *[[LowerColoradoRiverMaps_12161]]*
+
 ### Mentioned In
 - [[CoordinatedResourceActivitiesC_1997_04_16]]
 - [[NoticeOfIntentToFileCitizenSui_1995_05_24]]
@@ -3452,6 +3587,7 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[WorkshopProceedings_18372]]
 - [[StateOfTheUsmexicoBorderEnviro_14365]]
+- [[LowerColoradoRiverMaps_12161]]
 
 ## International Code of Botanical Nomenclature
 
@@ -3465,9 +3601,21 @@ The International Code of Botanical Nomenclature is the standardized system of s
 > This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the U.S. Fish and Wildlife Service to be Endangered or Threatened under the Endangered Species Act. Published as of January 1,...
 > -- *[[PartEndangeredAndThreatenedWil_13327]]*
 
+> This document is a regulatory compilation from Title 50 of the Code of Federal Regulations (CFR), specifically Part 17, which establishes the official lists of endangered and threatened wildlife and plants under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11572]]*
+
+> This document is the official U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] to be Endangered or Threatened under the [[Endangered Species Act]]. It provides comprehensive regulatory lists (§17.11 for...
+> -- *[[PartEndangeredAndThreatenedWil_11585]]*
+
+> This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (Title 50, Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] and [[National Marine Fisheries Service]] to be Endangered or Threatened under the...
+> -- *[[PartEndangeredAndThreatenedWil_11597]]*
+
 ### Mentioned In
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[PartEndangeredAndThreatenedWil_13327]]
+- [[PartEndangeredAndThreatenedWil_11572]]
+- [[PartEndangeredAndThreatenedWil_11585]]
+- [[PartEndangeredAndThreatenedWil_11597]]
 
 ## International Code Of Zoological Nomenclature
 <!-- fm: auto_enriched: true -->
@@ -3482,11 +3630,23 @@ The International Code of Botanical Nomenclature is the standardized system of s
 > This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the U.S. Fish and Wildlife Service to be Endangered or Threatened under the Endangered Species Act. Published as of January 1,...
 > -- *[[PartEndangeredAndThreatenedWil_13327]]*
 
+> This document is a regulatory compilation from Title 50 of the Code of Federal Regulations (CFR), specifically Part 17, which establishes the official lists of endangered and threatened wildlife and plants under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11572]]*
+
+> This document is the official U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] to be Endangered or Threatened under the [[Endangered Species Act]]. It provides comprehensive regulatory lists (§17.11 for...
+> -- *[[PartEndangeredAndThreatenedWil_11585]]*
+
+> This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (Title 50, Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] and [[National Marine Fisheries Service]] to be Endangered or Threatened under the...
+> -- *[[PartEndangeredAndThreatenedWil_11597]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedRejection_14473]]
 - [[RequestForARulingToCorrectHomo_17135]]
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[PartEndangeredAndThreatenedWil_13327]]
+- [[PartEndangeredAndThreatenedWil_11572]]
+- [[PartEndangeredAndThreatenedWil_11585]]
+- [[PartEndangeredAndThreatenedWil_11597]]
 
 ## International Commission for the Northwest Atlantic Fisheries
 
@@ -4248,6 +4408,18 @@ Inyo County is part of Region 5b and was the second-ranked trout county in 1960 
 ### Mentioned In
 - [[TheRelationOfHydrologicalCondi_20023]]
 
+## IOFC
+
+### Summary
+IOFC (Indian Ocean Fishery Commission) is a regional fishery body that provides scientific advice for fisheries management in the Indian Ocean. This FAO review lists IOFC as one of the key regional organizations responsible for stock assessment and management advice in its designated area.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
+
 ## Ionic Regulation In Fish
 <!-- fm: auto_enriched: true -->
 
@@ -4625,8 +4797,13 @@ Island communities are relatively simple, bounded ecological systems used as nat
 ## Island Lake
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This final report documents a 1987 monitoring study of [[Razorback Sucker]] (*Xyrauchen texanus*) reintroduced into the [[Lower Colorado River]]. Approximately 900,000 larvae produced at [[Dexter National Fish Hatchery]] were stocked into selected Colorado River backwaters in late spring 1987, with...
+> -- *[[AMonitoringStudyOfRazorbackSuc_12703]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
+- [[AMonitoringStudyOfRazorbackSuc_12703]]
 
 ## Island Lake Complex
 
@@ -5092,6 +5269,18 @@ ITESM-Guaymas (Instituto Tecnológico y de Estudios Superiores de Monterrey, Gua
 
 ### Mentioned In
 - [[AgendaAttendeesAndSummariesOfP_14401]]
+
+## Ithaca
+
+### Summary
+Ithaca is a city in central New York that served as the geographic center point for this study of farm ponds. The 48 farm ponds examined in this research were all located within a 60-mile radius of Ithaca, representing typical agricultural water bodies in the central New York region during 1953-1954.
+
+### Context
+> This study examined the chemical characteristics of 48 farm ponds in central [[New York]] during 1953-1954, documenting substantial chemical diversity across these artificial impoundments. Total alkalinity ranged from 5 to 226 p.p.m., with concentrations varying considerably within individual ponds...
+> -- *[[ChemicalCharacteristicsOfNewYo_18778]]*
+
+### Mentioned In
+- [[ChemicalCharacteristicsOfNewYo_18778]]
 
 ## IUCN
 <!-- fm: auto_enriched: true -->

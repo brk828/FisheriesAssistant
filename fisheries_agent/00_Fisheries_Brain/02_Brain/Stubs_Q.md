@@ -155,6 +155,12 @@ Quail Creek is a tributary confluence point and critical sampling location on th
 > This legal notice from the Sierra Club Legal Defense Fund, dated June 22, 1994, addresses violations of the Endangered Species Act (ESA) related to operation of the [[Quail Creek Reservoir Project]] in the [[Virgin River Basin]], Utah. The document notifies the Secretary of the Interior and Bureau...
 > -- *[[ViolationOfQuailCreekReservoir_18647]]*
 
+> This recovery plan addresses two endangered cyprinid species endemic to the [[Virgin River]] system: the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*). The woundfin was listed as endangered on October 13, 1970, and the Virgin River chub on August 24,...
+> -- *[[VirginRiverFishesRecoveryPlan_13186]]*
+
+> This field report documents emergency fish sampling conducted 07-08 January 1989 along the [[Virgin River]] (Arizona-Nevada-Utah) immediately following the catastrophic failure of [[Quail Creek Reservoir]] dike on 01 January 1989. Personnel from [[Arizona State University]] (ASU) and [[University...
+> -- *[[VirginRiverFishSamplingJanuary_19425]]*
+
 ### Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
@@ -162,6 +168,8 @@ Quail Creek is a tributary confluence point and critical sampling location on th
 - [[RequestForRenewalOfEndangeredS_1992_11_27]]
 - [[DraftConservationStrategyVirgi_11659]]
 - [[ViolationOfQuailCreekReservoir_18647]]
+- [[VirginRiverFishesRecoveryPlan_13186]]
+- [[VirginRiverFishSamplingJanuary_19425]]
 
 ## Quail Creek Dam
 <!-- fm: auto_enriched: true -->
@@ -229,6 +237,9 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 > This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
 > -- *[[DraftConservationAgreementVirg_18320]]*
 
+> This field report documents emergency fish sampling conducted 07-08 January 1989 along the [[Virgin River]] (Arizona-Nevada-Utah) immediately following the catastrophic failure of [[Quail Creek Reservoir]] dike on 01 January 1989. Personnel from [[Arizona State University]] (ASU) and [[University...
+> -- *[[VirginRiverFishSamplingJanuary_19425]]*
+
 ### Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -242,6 +253,7 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 - [[DraftConservationStrategyVirgi_11659]]
 - [[AnnotatedBibliographyForTheWou_20385]]
 - [[DraftConservationAgreementVirg_18320]]
+- [[VirginRiverFishSamplingJanuary_19425]]
 
 ## Quail Creek Reservoir Project
 <!-- fm: auto_enriched: true -->
@@ -263,6 +275,18 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 - [[ResponseToWashingtonCountyWate_1998]]
 - [[ViolationOfQuailCreekReservoir_1982_12_07]]
 - [[ViolationOfQuailCreekReservoir_18647]]
+
+## Quail Creek Reservoir System
+
+### Summary
+The Quail Creek Reservoir System is a water storage facility in the Virgin River basin. As part of the extensive water development infrastructure in the system, it contributes to the modification of natural flow regimes and habitat degradation that are primary threats to the endangered native fish species.
+
+### Context
+> This recovery plan addresses two endangered cyprinid species endemic to the [[Virgin River]] system: the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*). The woundfin was listed as endangered on October 13, 1970, and the Virgin River chub on August 24,...
+> -- *[[VirginRiverFishesRecoveryPlan_13186]]*
+
+### Mentioned In
+- [[VirginRiverFishesRecoveryPlan_13186]]
 
 ## Quail Creek Water Reclamation Project
 
@@ -438,6 +462,18 @@ Quebec is a Canadian province supporting 103 freshwater fish species according t
 
 ### Mentioned In
 - [[PeatDepositsInTexas_18615]]
+
+## Queen Conch
+
+### Summary
+Queen Conch is a shellfish species found in the Caribbean region. According to this 1989 FAO review, Queen Conch populations are heavily exploited throughout the Caribbean, indicating overfishing pressure on this resource.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
 
 ## Queen Creek
 

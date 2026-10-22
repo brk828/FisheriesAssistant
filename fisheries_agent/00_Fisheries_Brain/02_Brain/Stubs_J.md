@@ -97,6 +97,18 @@ J. Taylor is an author of a 1983 publication that was referenced in corresponden
 ### Mentioned In
 - [[TheoryOfHybridOriginAndTheEasy_13398]]
 
+## J.A. Gulland
+
+### Summary
+J.A. Gulland was a fisheries scientist who conducted the original 1970 FAO review of world fish stocks. This source notes that his estimate of global biological potential at approximately 100 million tons was still considered valid as of 1989, nearly two decades after the original assessment.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
+
 ## J.E.T. Aitchison
 
 ### Summary
@@ -130,6 +142,18 @@ J.E.T. Aitchison participated in the Afghan Delimitation Commission and collecte
 
 ### Mentioned In
 - [[EineNeueMethodeDerQuantitative_1966]]
+
+## Jabiru mycteria
+
+### Summary
+Jabiru mycteria (jabiru stork) is a large waterbird found in Mexico. This draft endangered species standard classifies it as endangered (P), indicating its distribution or population size has been drastically reduced, threatening its biological viability.
+
+### Context
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
+### Mentioned In
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
 
 ## Jack C. Schmidt
 
@@ -363,6 +387,18 @@ Jacob Corwin Blumer (1872-1947) was a Swiss-born botanist who conducted extensiv
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[DouglasMexicanTemperaturePreci_12378]]
 
+## James Bay Hydroelectric Project
+
+### Summary
+The James Bay Hydroelectric Project is a major hydroelectric development in Quebec that threatened the Great Whale River. In 1993, this project was identified as a significant threat to wilderness river systems in the region.
+
+### Context
+> This 1993 report by [[American Rivers]] identifies the ten most endangered and fifteen most threatened rivers in North America based on importance as natural resources, degree of threat, and imminence of those threats. The document serves as an advocacy tool to raise public awareness about...
+> -- *[[TheNationsTenMostEndangeredRiv_17976]]*
+
+### Mentioned In
+- [[TheNationsTenMostEndangeredRiv_17976]]
+
 ## James Deacon
 <!-- fm: auto_enriched: true -->
 
@@ -557,6 +593,42 @@ Japan is the country where both killifish species documented in this review occu
 - [[TheHydrographicAndFaunalIndepe_19989]]
 - [[BriefBographiesOfLeadingIchthy_12677]]
 
+## Japanese Anchovy
+
+### Summary
+Japanese Anchovy is a small pelagic fish species found in the Northwest Pacific. This source identifies it as one of the commercially important species in the region's fisheries, which experienced significant growth in catches during the 1980s.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
+
+## Japanese Chub Mackerel
+
+### Summary
+Japanese Chub Mackerel is a pelagic fish species found in the Northwest Pacific. This source mentions it as one of the commercially important species in the region's fisheries, though specific catch data or stock assessments are not included in the extracted text.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
+
+## Japanese Flying Squid
+
+### Summary
+Japanese Flying Squid is a cephalopod species found in the Northwest Pacific. This source mentions it as one of the commercially important species in the region's fisheries, though specific catch levels or stock status are not detailed in the extracted portions.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
+
 ## Japanese Goby
 
 ### Summary
@@ -569,11 +641,47 @@ The Japanese Goby (Acanthogobius flavimanus) is a fish species that became estab
 ### Mentioned In
 - [[AnguillaRecordedFromCalifornia_19016]]
 
+## Japanese Jack Mackerel
+
+### Summary
+Japanese Jack Mackerel is a pelagic fish species found in the Northwest Pacific. This source identifies it as one of the commercially important species in the region's fisheries, though specific details about catch levels or stock status are not provided in the extracted portions.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
+
 ## Japanese Livebearing Snail
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[AdditionOfMisgurnusAnguillicau_1969]]
+
+## Japanese Pilchard
+
+### Summary
+Japanese Pilchard (also called Japanese Sardine in this source) is a small pelagic fish species. This source identifies it as one of four species accounting for 70% of the 1980s increase in global marine catches, indicating it experienced significant catch increases during this period in the Northwest Pacific.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
+
+## Japanese Sardine
+
+### Summary
+The Japanese Sardine is a pelagic fish species from the Northwest Pacific that experienced significant population growth in the 1980s. This source reports it was one of four species accounting for 70% of the increase in global marine catches during that decade, contributing to the renewed growth in world fishery landings.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
 
 ## Japanese Weatherfish
 <!-- fm: auto_enriched: true -->
@@ -591,6 +699,18 @@ The Japanese Goby (Acanthogobius flavimanus) is a fish species that became estab
 ### Mentioned In
 - [[PreliminaryReportOnFishRemains_18753]]
 - [[FishRemainsFromDeerCreekCaveEl_18755]]
+
+## Jardinella
+
+### Summary
+Jardinella is a genus of hydrobiid snails found in the Great Artesian Basin springs. The source reports that Edgbaston Springs in the Barcaldine Supergroup contains six sympatric species plus one allopatric species of this genus.
+
+### Context
+> This document reports on the endemic aquatic fauna of artesian springs associated with the [[Great Artesian Basin]] (GAB) of Australia, with particular emphasis on hydrobiid snails. The GAB occupies approximately 22% of the Australian continent (1.76 million km²) and supports over 600 springs...
+> -- *[[MoundSpringSnailsOfTheAustrali_18623]]*
+
+### Mentioned In
+- [[MoundSpringSnailsOfTheAustrali_18623]]
 
 ## Jared P. Kirtland
 <!-- fm: auto_enriched: true -->
@@ -1624,9 +1744,13 @@ Johnson Creek is not mentioned in this source.
 > This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
 > -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
 
+> This recovery plan addresses two endangered cyprinid species endemic to the [[Virgin River]] system: the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*). The woundfin was listed as endangered on October 13, 1970, and the Virgin River chub on August 24,...
+> -- *[[VirginRiverFishesRecoveryPlan_13186]]*
+
 ### Mentioned In
 - [[RequestForRenewalOfEndangeredS_1992_11_27]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
+- [[VirginRiverFishesRecoveryPlan_13186]]
 
 ## Johnson Et Al 1970
 
@@ -1724,8 +1848,12 @@ Jolly-Seber is mentioned as a multi-sample mark-recapture method that can estima
 > - **Historical context**: Fish toxicity testing in relation to river pollution dates back over a century in the UK. Historically, most work focused on determining lethal thresholds (e.g., 48-h TLm, the concentration killing 50% of test fish within 48 hours) rather than "safe" concentrations for c...
 > -- *[[PollutionAndFisheriesAProgress_1966_06_22]]*
 
+> This technical report presents a comprehensive year-long study (July 1958 - July 1959) of drift material in the [[Red Cedar River]], Michigan—a warm-water tributary of the [[Grand River]] system. Drift material was defined as living and non-living suspended matter removable by filtration through...
+> -- *[[TheNutrientCompositionDynamics_12515]]*
+
 ### Mentioned In
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
+- [[TheNutrientCompositionDynamics_12515]]
 
 ## Jones 1938
 <!-- fm: auto_enriched: true -->
@@ -2207,9 +2335,13 @@ The Journal Water Pollution Control Federation was the publication venue for thi
 > This biological opinion, issued March 24, 1997, evaluates the proposed rerouting of an existing [[Navopache Power]] powerline crossing the [[Blue River]] in [[Greenlee County]], [[Arizona]]. The [[U.S. Forest Service]] consulted under Section 7 of the [[Endangered Species Act]] regarding potential...
 > -- *[[BiologicalOpinionForReroutingO_11747]]*
 
+> A comprehensive fisheries survey was conducted along the [[Blue River]] in [[Greenlee County]], Arizona from June 16-19, 1997. The survey team from [[Arizona State University]] and [[United States Forest Service]] sampled 90 pools between [[Smith Ranch]] and F.S. Road 475 ([[Juan Miller...
+> -- *[[BlueRiverPoolSamplingGreenleeC_17213]]*
+
 ### Mentioned In
 - [[SecondQuarterlyProgressReportO_1987_08_09]]
 - [[BiologicalOpinionForReroutingO_11747]]
+- [[BlueRiverPoolSamplingGreenleeC_17213]]
 
 ## Jubb 1967
 <!-- fm: auto_enriched: true -->
@@ -2260,6 +2392,18 @@ Jubilee Spring (Site #27) was a reintroduction site where the spring was modifie
 
 ### Mentioned In
 - [[MioceneFreshwaterMollusksFromT_13495]]
+
+## Jugicambarus
+
+### Summary
+Jugicambarus is a subgenus of the crayfish genus Cambarus to which the newly described species Cambarus gentryi belongs. Within this subgenus, C. gentryi is most closely related to Cambarus carolinus.
+
+### Context
+> This paper describes **Cambarus gentryi**, a new species of burrowing crayfish from the [[Nashville Basin]] in [[Tennessee]]. The species was first collected in the 1890s from a tributary of [[Stones River]] but remained undescribed for approximately 75 years. It was rediscovered in 1968 by Dr....
+> -- *[[ANewCrayfishFromTheNashvilleBa_20416]]*
+
+### Mentioned In
+- [[ANewCrayfishFromTheNashvilleBa_20416]]
 
 ## Juglans major
 
@@ -2333,6 +2477,18 @@ Jumbo Reservoir is a warm water fishery located in Sedgwick County, Colorado, th
 
 ### Mentioned In
 - [[CreelCensusReport_11332]]
+
+## Jump Up Canyon
+
+### Summary
+Jump Up Canyon is a tributary confluence along the Blue River in Greenlee County, Arizona. It was used as one of several landmark reference points for identifying sampling locations during the 1997 fisheries survey.
+
+### Context
+> A comprehensive fisheries survey was conducted along the [[Blue River]] in [[Greenlee County]], Arizona from June 16-19, 1997. The survey team from [[Arizona State University]] and [[United States Forest Service]] sampled 90 pools between [[Smith Ranch]] and F.S. Road 475 ([[Juan Miller...
+> -- *[[BlueRiverPoolSamplingGreenleeC_17213]]*
+
+### Mentioned In
+- [[BlueRiverPoolSamplingGreenleeC_17213]]
 
 ## Juncus
 

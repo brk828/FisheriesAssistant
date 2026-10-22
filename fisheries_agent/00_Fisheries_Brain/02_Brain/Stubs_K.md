@@ -888,8 +888,12 @@ Kemp's Ridley Sea Turtle (Lepidochelys kempii) is a marine turtle species found 
 > This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the U.S. Fish and Wildlife Service to be Endangered or Threatened under the Endangered Species Act. Published as of January 1,...
 > -- *[[PartEndangeredAndThreatenedWil_13327]]*
 
+> This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (Title 50, Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] and [[National Marine Fisheries Service]] to be Endangered or Threatened under the...
+> -- *[[PartEndangeredAndThreatenedWil_11597]]*
+
 ### Mentioned In
 - [[PartEndangeredAndThreatenedWil_13327]]
+- [[PartEndangeredAndThreatenedWil_11597]]
 
 ## Kendall And Behnke 1984
 <!-- fm: auto_enriched: true -->
@@ -1459,6 +1463,18 @@ Keup was a co-author of a 1967 publication that this review identifies as "the m
 ### Mentioned In
 - [[TheIonicCompositionOfSomeLowla_11054]]
 
+## Key Deer
+
+### Summary
+The Key Deer is an ungulate species listed as endangered or threatened under Part 17 of the Code of Federal Regulations. It is included in the federal listings of protected wildlife maintained under the Endangered Species Act.
+
+### Context
+> This document is a regulatory compilation from Title 50 of the Code of Federal Regulations (CFR), specifically Part 17, which establishes the official lists of endangered and threatened wildlife and plants under the [[Endangered Species Act]]. Published as a special reprint current to the date...
+> -- *[[PartEndangeredAndThreatenedWil_11572]]*
+
+### Mentioned In
+- [[PartEndangeredAndThreatenedWil_11572]]
+
 ## Key Findings
 <!-- fm: auto_enriched: true -->
 
@@ -1726,6 +1742,9 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 > This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
 > -- *[[AuthortitleIndexToInlandFisher_14367]]*
 
+> This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
+> -- *[[FishesOfNevada_15993]]*
+
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -1739,6 +1758,7 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 - [[TheDesirabilityOfIntroducingWh_16080]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
 - [[AuthortitleIndexToInlandFisher_14367]]
+- [[FishesOfNevada_15993]]
 
 ## King Snake
 
@@ -1773,8 +1793,12 @@ The Kingfisher (Streptoceyle alcyon) is a fish-eating bird that serves as the de
 > This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
 > -- *[[FishParasites_20804]]*
 
+> This 1962 conference paper examines the relationship between freshwater fisheries and nature conservation in developed countries, particularly Britain and North America. The author identifies four main categories of freshwater fishing: commercial fishing for species like [[Salmon]] (*Salmo salar*)...
+> -- *[[TheInteractionBetweenFreshwate_20227]]*
+
 ### Mentioned In
 - [[FishParasites_20804]]
+- [[TheInteractionBetweenFreshwate_20227]]
 
 ## Kings River
 
@@ -1794,6 +1818,30 @@ Kings River is one of 13 streams studied in this comprehensive evaluation of Cal
 ### Mentioned In
 - [[LetterToJerryBurtonOnBuenosAir_1986_10_21]]
 - [[PreliminaryReportOnTheFirstCol_1987_01_31]]
+
+## Kingsley Dam
+
+### Summary
+Kingsley Dam is a dam on the Platte River in Nebraska whose relicensing was identified in 1993 as holding the key to the river's future. The Platte River was listed as one of America's ten most endangered rivers, serving as critical habitat for 7-9 million ducks and geese and 500,000 Sandhill Cranes annually.
+
+### Context
+> This 1993 report by [[American Rivers]] identifies the ten most endangered and fifteen most threatened rivers in North America based on importance as natural resources, degree of threat, and imminence of those threats. The document serves as an advocacy tool to raise public awareness about...
+> -- *[[TheNationsTenMostEndangeredRiv_17976]]*
+
+### Mentioned In
+- [[TheNationsTenMostEndangeredRiv_17976]]
+
+## Kingston Springs
+
+### Summary
+Kingston Springs is a town in Cheatham County, Tennessee, near the type-locality of Cambarus gentryi. The type-locality is located one mile west of this town, in a boggy area along a tributary to Turnbull Creek.
+
+### Context
+> This paper describes **Cambarus gentryi**, a new species of burrowing crayfish from the [[Nashville Basin]] in [[Tennessee]]. The species was first collected in the 1890s from a tributary of [[Stones River]] but remained undescribed for approximately 75 years. It was rediscovered in 1968 by Dr....
+> -- *[[ANewCrayfishFromTheNashvilleBa_20416]]*
+
+### Mentioned In
+- [[ANewCrayfishFromTheNashvilleBa_20416]]
 
 ## Kingswell Beck
 <!-- fm: auto_enriched: true -->
@@ -1873,9 +1921,13 @@ Kino Spring was a site where Gila Topminnow had been introduced as part of recov
 > This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
 > -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
 
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
 ### Mentioned In
 - [[A New Material for Marking Kordite Line and Various Animals]]
 - [[ZoogeographicalAnalysisAndRevi_15920]]
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
 
 ## Kinosternon Baurii
 <!-- fm: auto_enriched: true -->
@@ -2011,8 +2063,13 @@ Kiyi (Coregonus kiyi) is a deepwater cisco from the Salmonidae family that grows
 ## Kjeldahl Method
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This study examined the chemical characteristics of 48 farm ponds in central [[New York]] during 1953-1954, documenting substantial chemical diversity across these artificial impoundments. Total alkalinity ranged from 5 to 226 p.p.m., with concentrations varying considerably within individual ponds...
+> -- *[[ChemicalCharacteristicsOfNewYo_18778]]*
+
 ### Mentioned In
 - [[EstimationOfBluegillLepomisMac_1974]]
+- [[ChemicalCharacteristicsOfNewYo_18778]]
 
 ## Klamath
 
@@ -2150,6 +2207,9 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
 > -- *[[AuthortitleIndexToInlandFisher_14367]]*
 
+> This correspondence from [[Arizona State University]] Department of Zoology (dated 20 May 1991) provides critical review of a population genetics project report by Moyle and Berg concerning endangered catostomid fishes in northern California. The letter, addressed to the [[California Department of...
+> -- *[[ReviewOfMoyleAndBergsProjectRe_13795]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
@@ -2165,6 +2225,7 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[PartManagementConcernsPriority_14724]]
 - [[OccurrencesOfTheLostRiverSucke_17577]]
 - [[AuthortitleIndexToInlandFisher_14367]]
+- [[ReviewOfMoyleAndBergsProjectRe_13795]]
 
 ## Klamath River Basin
 
@@ -2546,6 +2607,12 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This 1965 report documents the introduction of [[Bonneville Cisco]] (*Prosopium gemmiferum*) from [[Bear Lake]] (Utah-Idaho) into [[Lake Tahoe]] (California-Nevada) in January 1964. The introduction aimed to provide forage for [[Lake Trout]] (*Salvelinus namaycush*) in deep waters during summer...
 > -- *[[IntroductionOfTheBonnevilleCis_18820]]*
 
+> This workshop proceedings document, compiled by James F. LaBounty in February 1976, summarizes the third annual workshop on ecological effects of pumped-storage hydroelectric operations, with primary focus on the [[Mt. Elbert Unit]] at [[Twin Lakes, Colorado]]. The workshop brought together...
+> -- *[[ThirdWorkshopOnEcologyOfPumpst_12641]]*
+
+> This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
+> -- *[[FishesOfNevada_15993]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -2568,6 +2635,8 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[EcologyOfCatostomidsInTwinLake_12424]]
 - [[AuthortitleIndexToInlandFisher_14367]]
 - [[IntroductionOfTheBonnevilleCis_18820]]
+- [[ThirdWorkshopOnEcologyOfPumpst_12641]]
+- [[FishesOfNevada_15993]]
 
 ## Kolkwitz
 
@@ -2703,6 +2772,18 @@ Korsakova was a researcher who reported that oxygen has no influence on denitrif
 ### Mentioned In
 - [[FishesOfTheWorldAKeyToFamilies_1975]]
 
+## Kortes and Alcova Reservoirs
+
+### Summary
+Kortes and Alcova Reservoirs in Wyoming were sites where planning studies for potential pumped-storage operations were being conducted. These reservoirs were discussed at the workshop as part of the expanded scope beyond the primary Twin Lakes focus.
+
+### Context
+> This workshop proceedings document, compiled by James F. LaBounty in February 1976, summarizes the third annual workshop on ecological effects of pumped-storage hydroelectric operations, with primary focus on the [[Mt. Elbert Unit]] at [[Twin Lakes, Colorado]]. The workshop brought together...
+> -- *[[ThirdWorkshopOnEcologyOfPumpst_12641]]*
+
+### Mentioned In
+- [[ThirdWorkshopOnEcologyOfPumpst_12641]]
+
 ## Kortowskie Lake
 <!-- fm: auto_enriched: true -->
 
@@ -2733,6 +2814,18 @@ Korsakova was a researcher who reported that oxygen has no influence on denitrif
 
 ### Mentioned In
 - [[TheDistributionOfTheFreshwater_1979]]
+
+## Kosi System
+
+### Summary
+The Kosi System is an estuarine system in northern Natal, South Africa (26°54'S, 32°53'E) that served as the main study area, characterized by clear water conditions and narrow shelf areas. The system supported approximately 90 fish kraals and experienced significant fishing pressure from indigenous populations, with human activities identified as the greatest source of mortality for Gerres populations.
+
+### Context
+> This study investigated sources of mortality for three species of [[Gerreidae]] ([[Gerres acinaces]], [[Gerres rappi]], and [[Gerres filamentosus]]) in Natal estuaries, South Africa, between 1978 and 1982, with primary focus on the [[Kosi System]]. Despite being abundant benthic feeders forming an...
+> -- *[[PredationAndSourcesOfMortality_18127]]*
+
+### Mentioned In
+- [[PredationAndSourcesOfMortality_18127]]
 
 ## Koster 1948
 <!-- fm: auto_enriched: true -->
@@ -2894,6 +2987,18 @@ Kuenzler Hedgehog Cactus is an endangered cactus species dependent on insect pol
 - [[CentralArizonaProjectCompletio_1967_03_31]]
 - [[ColoradoRiverStudies_1967_03_31]]
 
+## Kuhlia rupestris
+
+### Summary
+Kuhlia rupestris is a fish species found in the Kosi System. One individual was found in Pied Kingfisher pellets collected in September 1980.
+
+### Context
+> This study investigated sources of mortality for three species of [[Gerreidae]] ([[Gerres acinaces]], [[Gerres rappi]], and [[Gerres filamentosus]]) in Natal estuaries, South Africa, between 1978 and 1982, with primary focus on the [[Kosi System]]. Despite being abundant benthic feeders forming an...
+> -- *[[PredationAndSourcesOfMortality_18127]]*
+
+### Mentioned In
+- [[PredationAndSourcesOfMortality_18127]]
+
 ## Kuhn Lake
 <!-- fm: auto_enriched: true -->
 
@@ -2979,6 +3084,18 @@ Kyrauchen (razorback sucker) is a western North American freshwater fish that wa
 
 ### Mentioned In
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
+
+## Kyushu
+
+### Summary
+Kyushu is a Japanese island where Lestidium prolixum is particularly common off its southern coast. Tabeta (1972) reported mass strandings of the species on northern Kyushu beaches facing the Straits of Tsushima during winter months, peaking in December.
+
+### Context
+> This report documents three specimens of [[Lestidium prolixum]] (Y-patched barracudina) caught by motor trawlers outside [[Wakasa Bay]], central west Honshu, Japan, in April-May 1991. These records represent the northern extreme of the species' distribution in the [[Sea of Japan]]. The bathypelagic...
+> -- *[[RecordsOfYpatchedBarracudinasL_19901]]*
+
+### Mentioned In
+- [[RecordsOfYpatchedBarracudinasL_19901]]
 
 ## Kühme 1963
 <!-- fm: auto_enriched: true -->

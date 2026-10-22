@@ -134,6 +134,12 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 > This document comprises field collection records and museum catalog entries from the [[University of Michigan Museum of Zoology]] (UMMZ) spanning 1934-1978, documenting fish fauna of the [[Colorado River]] basin in [[Coconino County]], [[Arizona]]. The records include handwritten field notes,...
 > -- *[[GrandCanyonFieldNotesFromAndVa_15334]]*
 
+> This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
+> -- *[[MorphologicalVariationInGilaPi_12778]]*
+
+> A comprehensive fisheries survey was conducted along the [[Blue River]] in [[Greenlee County]], Arizona from June 16-19, 1997. The survey team from [[Arizona State University]] and [[United States Forest Service]] sampled 90 pools between [[Smith Ranch]] and F.S. Road 475 ([[Juan Miller...
+> -- *[[BlueRiverPoolSamplingGreenleeC_17213]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -147,6 +153,8 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 - [[AdvancedIdentificationOfFuncti_11587]]
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
+- [[MorphologicalVariationInGilaPi_12778]]
+- [[BlueRiverPoolSamplingGreenleeC_17213]]
 
 ## Oak Creek Canyon
 
@@ -423,6 +431,18 @@ Ocean Lake in Wyoming was the subject of mark-recapture studies in 1969-1970 tha
 ### Mentioned In
 - [[BiodiversityProblemsInLakeEcos_11149]]
 
+## Ochrotrichia
+
+### Summary
+Ochrotrichia is a genus of caddisflies (Trichoptera) found in Aravaipa Creek. Its populations were among those severely reduced by summer flash floods (July-September), though the study notes that Trichoptera as a group were present in the stream community.
+
+### Context
+> This Master's thesis investigated the seasonal and longitudinal distribution and abundance of dominant benthic invertebrates in [[Aravaipa Creek]], a [[Sonoran Desert]] stream in Arizona, from April 1975 to April 1976. Eight sampling stations were established representing habitats above, within,...
+> -- *[[DistributionAndAbundanceOfBent_13853]]*
+
+### Mentioned In
+- [[DistributionAndAbundanceOfBent_13853]]
+
 ## Ocklockonee River
 <!-- fm: auto_enriched: true -->
 
@@ -550,8 +570,12 @@ Odocoileus (deer) represents 10% of identified mammals at La Lomita Pequeña, wi
 > This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
 > -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
 
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
 ### Mentioned In
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
 
 ## Odocoileus hemionus
 
@@ -650,9 +674,13 @@ Odonata is the taxonomic order comprising dragonflies and damselflies, which are
 > This paper describes research conducted at the [[Water Pollution Research Laboratory]] in Stevenage, England, examining how rooted aquatic plants and benthic macro-invertebrates affect the oxygen balance in small streams. The study develops and applies methods for measuring photosynthesis,...
 > -- *[[SomeEffectsOfPlantsAndAnimalsO_15778]]*
 
+> This technical report presents a comprehensive year-long study (July 1958 - July 1959) of drift material in the [[Red Cedar River]], Michigan—a warm-water tributary of the [[Grand River]] system. Drift material was defined as living and non-living suspended matter removable by filtration through...
+> -- *[[TheNutrientCompositionDynamics_12515]]*
+
 ### Mentioned In
 - [[FactorsInfluencingLocalDistrib_17059]]
 - [[SomeEffectsOfPlantsAndAnimalsO_15778]]
+- [[TheNutrientCompositionDynamics_12515]]
 
 ## Odum 1956
 <!-- fm: auto_enriched: true -->
@@ -1008,6 +1036,18 @@ The Okhotsk Sea is a body of water adjacent to the Sea of Japan where macrouroid
 ### Mentioned In
 - [[TheHydrographicAndFaunalIndepe_19989]]
 
+## Okinawa Islands
+
+### Summary
+The Okinawa Islands are part of the southern Japanese Islands where Lestidium prolixum is very common. They represent the southern extent of the range mentioned in this source, from Suruga Bay to Okinawa.
+
+### Context
+> This report documents three specimens of [[Lestidium prolixum]] (Y-patched barracudina) caught by motor trawlers outside [[Wakasa Bay]], central west Honshu, Japan, in April-May 1991. These records represent the northern extreme of the species' distribution in the [[Sea of Japan]]. The bathypelagic...
+> -- *[[RecordsOfYpatchedBarracudinasL_19901]]*
+
+### Mentioned In
+- [[RecordsOfYpatchedBarracudinasL_19901]]
+
 ## Okkelbergia
 <!-- fm: auto_enriched: true -->
 
@@ -1222,12 +1262,16 @@ Old Charlie Inlet (RMI 251.8) is identified as one of the six primary sites reco
 > This FY 1994 summary report documents the annual accomplishments of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program addresses recovery of four federally listed endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[RecoveryImplementationProgramF_11712]]*
 
+> The 1996 Annual Report documents progress of the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover four endangered fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and [[Humpback Chub]]...
+> -- *[[AnnualReportRecoveryProgramFor_11678]]*
+
 ### Mentioned In
 - [[AnalysisOfPastCollectionsFromT_1993]]
 - [[DraftRecoveryImplementationPro_11643]]
 - [[FiscalYearWorkPlan_11742]]
 - [[DevelopmentOfAStandardizedMoni_15549]]
 - [[RecoveryImplementationProgramF_11712]]
+- [[AnnualReportRecoveryProgramFor_11678]]
 
 ## Old Dominion
 
@@ -1294,8 +1338,12 @@ Old River is a 4,100-acre oxbow lake in Louisiana that experiences annual floodi
 > This 1965 Master's thesis by Jerry Brashier examined age and growth of [[Largemouth Bass]] (*Micropterus salmoides*) in two Louisiana oxbow lakes: [[False River]] and [[Old River]], located 15 miles apart in [[Pointe Coupee Parish]]. Collections occurred March–November 1964 using electric shockers...
 > -- *[[AStudyOfTheAgeAndGrowthOfLarge_12917]]*
 
+> This study investigated the biology and vital statistics of [[White Catfish]] (*Ictalurus catus*) in the [[Sacramento-San Joaquin Delta]] during 1952-1955. The research employed extensive tagging programs (totaling 4,864 tagged fish across three studies) to assess movement patterns, mortality...
+> -- *[[WhiteCatfishIctalurusCatusOfTh_17725]]*
+
 ### Mentioned In
 - [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
+- [[WhiteCatfishIctalurusCatusOfTh_17725]]
 
 ## Olduvai Gorge
 <!-- fm: auto_enriched: true -->
@@ -1384,12 +1432,16 @@ Oligochaeta are a group of sedentary aquatic invertebrates, particularly oligoch
 > This report presents an eight-year investigation (July 1947 through July 1955) of [[Holbrook Lake Reservoir]] in [[Otero County]], [[Colorado]], examining the environmental factors limiting game fish production in an irrigation impoundment. The study combined chemical, physical, and biological...
 > -- *[[TheEnvironmentalConditionsOfAn_16280]]*
 
+> This Master's thesis investigated the seasonal and longitudinal distribution and abundance of dominant benthic invertebrates in [[Aravaipa Creek]], a [[Sonoran Desert]] stream in Arizona, from April 1975 to April 1976. Eight sampling stations were established representing habitats above, within,...
+> -- *[[DistributionAndAbundanceOfBent_13853]]*
+
 ### Mentioned In
 - [[OnAnInterestingPhilippineSpeci_1970_05_27]]
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
 - [[TheUseOfBiologyInTheStudyOfWat_1964]]
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
 - [[TheEnvironmentalConditionsOfAn_16280]]
+- [[DistributionAndAbundanceOfBent_13853]]
 
 ## Oligocottus Maculosus
 <!-- fm: auto_enriched: true -->
@@ -1637,6 +1689,18 @@ The Olympic Dam Project is a mining operation whose environmental impacts on Gre
 
 ### Mentioned In
 - [[DamRemovalWhoShouldPay_1999_09_26]]
+
+## Oman
+
+### Summary
+Oman is a country on the Arabian Peninsula with fisheries in the Western Indian Ocean. This source identifies Oman as part of the Western Indian Ocean fishing region, though specific details about Omani fisheries are not included in the extracted portions.
+
+### Context
+> This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
+> -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16310]]
 
 ## Ombrogenous Bogs
 <!-- fm: auto_enriched: true -->
@@ -1917,9 +1981,13 @@ Oncorhynchus nerka, commonly known as sockeye salmon, is a Pacific salmon specie
 > This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
 > -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
 
+> This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, which lists all species of wildlife and plants determined by the U.S. Fish and Wildlife Service and National Marine Fisheries Service to be Endangered or Threatened under the [[Endangered Species Act]]....
+> -- *[[PartEndangeredAndThreatenedWil_11634]]*
+
 ### Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[FishRemainsFromDeerCreekCaveEl_18755]]
+- [[PartEndangeredAndThreatenedWil_11634]]
 
 ## Ondatra zibethicus
 
@@ -1956,6 +2024,18 @@ Ondatra zibethicus (muskrat) is an aquatic mammal identified as occurring in the
 - [[FishParasites_20804]]
 - [[WinterFoodHabitsOfPikeperchInO_16899]]
 - [[TheUseOfSedativesToReduceManip_20686]]
+
+## Oniscidae
+
+### Summary
+Oniscidae is a family of terrestrial isopods to which the type specimen of Synuropus grandulatus was originally thought to belong. This source corrects this assignment, determining through examination of the type specimen that the species actually belongs to Scleropactes in the family Sphaeroniscidae rather than Oniscidae.
+
+### Context
+> This taxonomic revision examines terrestrial isopod crustaceans in the family [[Sphaeroniscidae]], resolving the status of several genera originally described by Richardson. The author establishes that [[Synuropus]] is a junior synonym of [[Scleropactes]], transfers multiple species between genera...
+> -- *[[DispositionOfSpeciesOfTerrestr_20619]]*
+
+### Mentioned In
+- [[DispositionOfSpeciesOfTerrestr_20619]]
 
 ## Oniscidea
 <!-- fm: auto_enriched: true -->
@@ -2647,6 +2727,18 @@ Orchard Mesa Check is a water management structure whose operations were identif
 ### Mentioned In
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 
+## Orchard Mesa Irrigation District
+
+### Summary
+Orchard Mesa Irrigation District is one of several water management entities that contributed to water flow agreements providing up to 30,000 acre-feet annually for endangered fish habitat. This agreement was part of the Recovery Program's strategy to secure adequate water flows while allowing continued water development.
+
+### Context
+> The 1996 Annual Report documents progress of the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover four endangered fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and [[Humpback Chub]]...
+> -- *[[AnnualReportRecoveryProgramFor_11678]]*
+
+### Mentioned In
+- [[AnnualReportRecoveryProgramFor_11678]]
+
 ## Orchard Mesa Power Plant
 
 ### Summary
@@ -2675,11 +2767,56 @@ Orchelimum fidicinum is a grasshopper species representing terrestrial macroinve
 ### Mentioned In
 - [[CalorificEquivalentsForStudies_18098]]
 
+## Orchestia grillus
+
+### Summary
+Orchestia grillus is an amphipod species that co-occurs with Corophium aquafuscum in the oligohaline habitat at Riceboro Creek. It is one of four amphipod species found in association with C. aquafuscum at the type-locality.
+
+### Context
+> This paper describes **Corophium aquafuscum** new species, a tube-dwelling amphipod discovered in 1968 in low salinity marsh areas of Georgia estuaries. The species is characterized by a completely segmented urosome, two strong distoventral teeth on antenna 2 segment 4, absence of distinct rostrum...
+> -- *[[ANewSpeciesOfCorophiumLatreill_20748]]*
+
+### Mentioned In
+- [[ANewSpeciesOfCorophiumLatreill_20748]]
+
+## Orchestia uhleri
+
+### Summary
+Orchestia uhleri is an amphipod species that co-occurs with Corophium aquafuscum at the type-locality in Riceboro Creek. It is one of four amphipod species found in the oligohaline invertebrate community.
+
+### Context
+> This paper describes **Corophium aquafuscum** new species, a tube-dwelling amphipod discovered in 1968 in low salinity marsh areas of Georgia estuaries. The species is characterized by a completely segmented urosome, two strong distoventral teeth on antenna 2 segment 4, absence of distinct rostrum...
+> -- *[[ANewSpeciesOfCorophiumLatreill_20748]]*
+
+### Mentioned In
+- [[ANewSpeciesOfCorophiumLatreill_20748]]
+
 ## Orchidaceae
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This document is the official U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] to be Endangered or Threatened under the [[Endangered Species Act]]. It provides comprehensive regulatory lists (§17.11 for...
+> -- *[[PartEndangeredAndThreatenedWil_11585]]*
+
+> This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
+> -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
+
 ### Mentioned In
 - [[SuggestedModificationsOfTheSal_1997]]
+- [[PartEndangeredAndThreatenedWil_11585]]
+- [[DraftOfMexicosNewEndangeredSpe_11644]]
+
+## Orchonectes
+
+### Summary
+Orchonectes is a genus of exotic crayfish that has been introduced to Valle de Cuatrociénegas, threatening native species through predation and competition. The 1998 survey discovered this exotic crayfish in eastern valley pools where it had not been previously reported, representing an expanding invasive species problem.
+
+### Context
+> This document presents the final report of the Emergency Action Program (Programa de Acción Emergente) for the [[Valle de Cuatrociénegas]] Flora and Fauna Protection Area in [[Coahuila]], [[México]], completed in December 1998. The program was a collaborative effort between the North American...
+> -- *[[ProgramaDeAccionEmergenteParaE_19472]]*
+
+### Mentioned In
+- [[ProgramaDeAccionEmergenteParaE_19472]]
 
 ## Orconectes
 <!-- fm: auto_enriched: true -->
@@ -2691,10 +2828,14 @@ Orchelimum fidicinum is a grasshopper species representing terrestrial macroinve
 > This 1971 publication by J. F. Fitzpatrick, Jr. and Horton H. Hobbs, Jr. describes *Procambarus lylei*, a new species of crawfish from the [[Spiculifer Group]] of the genus [[Procambarus]]. The species was discovered in [[Calhoun County]], [[Mississippi]], within the [[Yalobusha River]] drainage...
 > -- *[[ANewCrayfishOfTheSpiculiferGro_16434]]*
 
+> This taxonomic description presents *[[Fallicambarus hortoni]]*, a new species of burrowing crayfish discovered in [[McNairy County]], [[Tennessee]]. The species was collected from shallow burrows in sandy soil near a tributary of [[Cypress Creek]] in the [[Hatchie River]] drainage system. Based on...
+> -- *[[ANewCrayfishOfTheGenusFallicam_20420]]*
+
 ### Mentioned In
 - [[ANewFaxonellaFromNortheastLoui_1968_12_30]]
 - [[ZurTagesperiodikVonNiphargusAq_15503]]
 - [[ANewCrayfishOfTheSpiculiferGro_16434]]
+- [[ANewCrayfishOfTheGenusFallicam_20420]]
 
 ## Orconectes Australis
 <!-- fm: auto_enriched: true -->
@@ -2890,6 +3031,18 @@ The Ordinary High Water Line (OHWL) is defined as the water level representing t
 ### Mentioned In
 - [[InterimProceduresForStockingNo_15423]]
 
+## Ordovician
+
+### Summary
+The Ordovician is a geological period in which traces of early vertebrate remains have been found. These represent some of the earliest evidence of vertebrate life, predating the more abundant Silurian fossils.
+
+### Context
+> This encyclopedic entry provides a comprehensive overview of cyclostomes—the lampreys and hagfishes—which constitute the class [[Cyclostomata]]. These primitive, jawless, eel-shaped fishes represent approximately 50 species inhabiting temperate waters worldwide. The document covers their economic...
+> -- *[[Cyclostome_14164]]*
+
+### Mentioned In
+- [[Cyclostome_14164]]
+
 ## Ore 1965
 <!-- fm: auto_enriched: true -->
 
@@ -2937,12 +3090,16 @@ Orectolobidae is a family of sharks within the order Squaliformes found in the G
 > This technical guidance document from the U.S. Department of Agriculture [[Soil Conservation Service]] provides specifications for designing and constructing farm ponds optimized for fish production. The document addresses water supply management, pond dimensions, outlet structures, vegetation...
 > -- *[[HowToBuildAFarmPondForFishProd_13264]]*
 
+> This bulletin documents an unprecedented epidemic of the fish leech [[Piscicola punctata]] on [[Red-Mouth Buffalo]] (*Ictiobus cyprinella*) in [[Rock River]], Illinois during the winter of 1925-1926. The infestation was remarkable both for its intensity (up to 50+ leeches per fish, averaging ~20)...
+> -- *[[AnEpidemicOfLeechesOnFishesInR_13584]]*
+
 ### Mentioned In
 - [[ComparingInstreamFlowProgramsA_12685]]
 - [[NotesOnFishesCollectedByCaptCh_15664]]
 - [[LectureNotesFromBiologyClass_13784]]
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[HowToBuildAFarmPondForFishProd_13264]]
+- [[AnEpidemicOfLeechesOnFishesInR_13584]]
 
 ## Oregon Chub
 
@@ -3521,9 +3678,13 @@ Orme Dam (also known as Maxwell Dam) was a proposed water infrastructure project
 > This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
 > -- *[[DraftEvaluationOfPotentialsFor_15827]]*
 
+> This memorandum from April 7, 1997 documents a comprehensive curriculum revision for the Wildlife Conservation Biology major at [[Arizona State University]]'s Department of Zoology. The proposal renames the major to "Conservation Biology," restructures core courses to eliminate the...
+> -- *[[ModificationOfTheWildlifeConse_20526]]*
+
 ### Mentioned In
 - [[ReportOfTheCommitteeOnNamesOfF_17233]]
 - [[DraftEvaluationOfPotentialsFor_15827]]
+- [[ModificationOfTheWildlifeConse_20526]]
 
 ## Orocastus
 
@@ -3665,6 +3826,9 @@ Osage River, also called Marais des Cygnes, is a major Kansas waterway where Blu
 > This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
 > -- *[[AquaticEnvironmentalReportForO_17695]]*
 
+> This laboratory study investigated feeding behavior patterns in the [[Algae-eater]] (*Gyrinocheilus ayomonieri*), a tropical freshwater grazer. Two experiments examined: (1) preferences between green algae ([[Chlorella]]) and blue-green algae ([[Oscillatoria]]), and (2) preferences between high and...
+> -- *[[LaboratoryFoodPatchExploitatio_17130]]*
+
 ### Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ReportOnLunaLakeApacheCountyAr_19495]]
@@ -3675,6 +3839,7 @@ Osage River, also called Marais des Cygnes, is a major Kansas waterway where Blu
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[FurtherStudiesOnTheMetalimneti_15723]]
 - [[AquaticEnvironmentalReportForO_17695]]
+- [[LaboratoryFoodPatchExploitatio_17130]]
 
 ## Oscillatoria agardhii
 
@@ -3932,6 +4097,9 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 > This comprehensive report summarizes 1964 pesticide research findings by the [[Fish and Wildlife Service]], covering both wildlife studies (conducted at [[Patuxent Wildlife Research Center]] and [[Denver Research Center]]) and fishery investigations. The document represents the fifth annual report...
 > -- *[[WildlifeStudiesPatuxentWildlif_14328]]*
 
+> This field report documents the first comprehensive biological and hydrological survey of [[Cienega de Santa Clara]], a wetland in the [[Colorado River Delta]] in northwestern [[Sonora]], [[Mexico]], conducted October 13-18, 1992. The multi-institutional team assessed fish populations, avifauna,...
+> -- *[[FieldReportNoStudyOfCienegaDeS_16073]]*
+
 ### Mentioned In
 - [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
 - [[ColoradoRiverTrophicStudiesMee_1991_07_23]]
@@ -3944,6 +4112,19 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 - [[MichiganFishPredators_12681]]
 - [[MovementOfHumpbackChubInTheCol_13639]]
 - [[WildlifeStudiesPatuxentWildlif_14328]]
+- [[FieldReportNoStudyOfCienegaDeS_16073]]
+
+## Ospreys
+
+### Summary
+Ospreys are occasional summer visitors to the Kosi System. This study observed them catching only mullet, suggesting Gerres' benthic feeding behavior limits their vulnerability to these surface-feeding raptors.
+
+### Context
+> This study investigated sources of mortality for three species of [[Gerreidae]] ([[Gerres acinaces]], [[Gerres rappi]], and [[Gerres filamentosus]]) in Natal estuaries, South Africa, between 1978 and 1982, with primary focus on the [[Kosi System]]. Despite being abundant benthic feeders forming an...
+> -- *[[PredationAndSourcesOfMortality_18127]]*
+
+### Mentioned In
+- [[PredationAndSourcesOfMortality_18127]]
 
 ## Osseoglossidae
 <!-- fm: auto_enriched: true -->
@@ -4059,6 +4240,42 @@ Osteichthys is the class-level taxonomic classification for the Pahrump Killifis
 ### Mentioned In
 - [[AnEnzymeMethodOfClearingAndSta_1967]]
 
+## Osteostraci
+
+### Summary
+Osteostraci is a Late Silurian and Early Devonian fossil order characterized by having a median superior nostril and row of porelike gill openings, but with the head enclosed in a flat bony shield. This group was abundant in the Late Silurian and Early Devonian but disappeared by the end of the Devonian.
+
+### Context
+> This encyclopedic entry provides a comprehensive overview of cyclostomes—the lampreys and hagfishes—which constitute the class [[Cyclostomata]]. These primitive, jawless, eel-shaped fishes represent approximately 50 species inhabiting temperate waters worldwide. The document covers their economic...
+> -- *[[Cyclostome_14164]]*
+
+### Mentioned In
+- [[Cyclostome_14164]]
+
+## Ostichthys
+
+### Summary
+Ostichthys is a genus within subfamily Myripristinae characterized by 11 anterior dorsal spines, no suborbital spines, and a short triangular projection on the preopercle (unlike other Myripristinae which lack preopercular spines). This source documents one species, Ostichthys trachypoma, occurring in the Western Central Atlantic.
+
+### Context
+> This FAO species identification guide covers the family [[Holocentridae]] (squirrelfishes and soldierfishes) in Western Central Atlantic fishing area 31. The family comprises two subfamilies: [[Holocentrinae]] and [[Myripristinae]], with 11 species documented in the region. Detailed identification...
+> -- *[[FaoSpeciesIdentificationSheets_20826]]*
+
+### Mentioned In
+- [[FaoSpeciesIdentificationSheets_20826]]
+
+## Ostichthys trachypoma
+
+### Summary
+Ostichthys trachypoma is a soldierfish species in the subfamily Myripristinae found in the Western Central Atlantic (FAO fishing area 31). This source lists it as one of eleven holocentrid species in the region, belonging to a genus characterized by having 11 anterior dorsal spines, no suborbital spines, and a short triangular projection on the preopercle.
+
+### Context
+> This FAO species identification guide covers the family [[Holocentridae]] (squirrelfishes and soldierfishes) in Western Central Atlantic fishing area 31. The family comprises two subfamilies: [[Holocentrinae]] and [[Myripristinae]], with 11 species documented in the region. Detailed identification...
+> -- *[[FaoSpeciesIdentificationSheets_20826]]*
+
+### Mentioned In
+- [[FaoSpeciesIdentificationSheets_20826]]
+
 ## Ostracoda
 <!-- fm: auto_enriched: true -->
 
@@ -4066,9 +4283,25 @@ Osteichthys is the class-level taxonomic classification for the Pahrump Killifis
 > The [[Pahrump Killifish]] (*Empetrichthys latos latos* Miller) is an endangered desert spring fish originally endemic to three spring systems in [[Pahrump Valley]], southern [[Nye County]], [[Nevada]]. All native habitats were destroyed by groundwater pumping for irrigation, with the last natural...
 > -- *[[EndangeredSpeciesInformationSy_14003]]*
 
+> This Master's thesis investigated the seasonal and longitudinal distribution and abundance of dominant benthic invertebrates in [[Aravaipa Creek]], a [[Sonoran Desert]] stream in Arizona, from April 1975 to April 1976. Eight sampling stations were established representing habitats above, within,...
+> -- *[[DistributionAndAbundanceOfBent_13853]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[EndangeredSpeciesInformationSy_14003]]
+- [[DistributionAndAbundanceOfBent_13853]]
+
+## Ostracodermi
+
+### Summary
+Ostracodermi is the group name for most early fishes that were heavily armoured with dermal bone, including fossil relatives of cyclostomes from the Silurian and Devonian periods. These heavily specialized, mailed types likely evolved for protection from predators like gigantic water scorpions and persisted throughout the Late Silurian and all Devonian alongside early jawed fishes, but none are known beyond the end of the Devonian.
+
+### Context
+> This encyclopedic entry provides a comprehensive overview of cyclostomes—the lampreys and hagfishes—which constitute the class [[Cyclostomata]]. These primitive, jawless, eel-shaped fishes represent approximately 50 species inhabiting temperate waters worldwide. The document covers their economic...
+> -- *[[Cyclostome_14164]]*
+
+### Mentioned In
+- [[Cyclostome_14164]]
 
 ## Ostrea
 
@@ -4193,8 +4426,12 @@ Otoliths are calcified structures in fish inner ears used for balance and hearin
 > This memorandum from the [[Glen Canyon Environmental Studies]] (GCES) program, dated November 24, 1992, outlines coordination plans for a December 1, 1992 meeting of principle investigators conducting native fish research in [[Grand Canyon]]. The document focuses on integrating research efforts...
 > -- *[[GlenCanyonEnvironmentalStudies_19708]]*
 
+> This document is an analytical request memorandum from the U.S. Fish and Wildlife Service Ecological Services office dated June 16, 1988, requesting contaminant analysis of fish tissue and bottom sediment samples from the [[Little Colorado River]] in [[Grand Canyon National Park]]. The study aims...
+> -- *[[AnalyticalRequestForContaminan_11843]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_19708]]
+- [[AnalyticalRequestForContaminan_11843]]
 
 ## Otolith Aging
 <!-- fm: auto_enriched: true -->
@@ -4277,8 +4514,12 @@ The Otter (Lutra canadensis) is a large semi-aquatic member of the weasel family
 > This 1952 Michigan Department of Conservation pamphlet provides a comprehensive review of vertebrate fish predators in Michigan waters, including fishes ([[Gar]], [[Bowfin]], [[Carp]]), amphibians ([[Mudpuppy]], [[Bullfrog]]), reptiles ([[Snapping Turtle]], [[Common Watersnake]], [[Garter Snake]]),...
 > -- *[[MichiganFishPredators_12681]]*
 
+> This 1962 conference paper examines the relationship between freshwater fisheries and nature conservation in developed countries, particularly Britain and North America. The author identifies four main categories of freshwater fishing: commercial fishing for species like [[Salmon]] (*Salmo salar*)...
+> -- *[[TheInteractionBetweenFreshwate_20227]]*
+
 ### Mentioned In
 - [[MichiganFishPredators_12681]]
+- [[TheInteractionBetweenFreshwate_20227]]
 
 ## Otter Creek
 
@@ -4452,12 +4693,20 @@ The Ouray Endangered Fish Hatchery is a propagation facility for endangered fish
 > This document presents a standardized protocol for non-lethal tissue collection from [[Razorback Sucker]] (*Xyrauchen texanus*) and related sucker species across the [[Colorado River Basin]] for genetic analysis during FY 1991. Five sampling teams were assigned specific locations and sample number...
 > -- *[[RazorbackSuckerNonlethalTissue_12081]]*
 
+> The 1996 Annual Report documents progress of the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover four endangered fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and [[Humpback Chub]]...
+> -- *[[AnnualReportRecoveryProgramFor_11678]]*
+
+> This document comprises a 1989 research proposal by [[Thomas E. Dowling]] and [[W. L. Minckley]] to assess genetic diversity of [[Razorback Sucker]] (*Xyrauchen texanus*) populations using restriction endonuclease analysis of mitochondrial DNA (mtDNA), submitted to the [[U.S. Bureau of...
+> -- *[[GeneticDiversityOfRazorbackSuc_19113]]*
+
 ### Mentioned In
 - [[LetterToDrWLMinckleyRegardingR_1988_09_20]]
 - [[PropagationAndFacilitiesDevelo_1993]]
 - [[FiscalYearProgramGuidance_11762]]
 - [[FiscalYearWorkPlan_11756]]
 - [[RazorbackSuckerNonlethalTissue_12081]]
+- [[AnnualReportRecoveryProgramFor_11678]]
+- [[GeneticDiversityOfRazorbackSuc_19113]]
 
 ## Ouray National Wildlife Refuge
 <!-- fm: auto_enriched: true -->
@@ -4517,6 +4766,12 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This document is a draft meeting summary and associated materials from the July 11, 1990 Management Group meeting of the [[Colorado River Recovery Implementation Program]]. The program is a cooperative effort among federal agencies (U.S. Fish and Wildlife Service, Bureau of Reclamation, Western...
 > -- *[[DraftManagementGroupMeetingSum_17880]]*
 
+> The 1995 annual report documents the [[Upper Colorado River Recovery Program]]'s transition from research to direct recovery actions for four endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and...
+> -- *[[AnnualReportRecoveryProgramFor_11673]]*
+
+> The 1996 Annual Report documents progress of the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover four endangered fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and [[Humpback Chub]]...
+> -- *[[AnnualReportRecoveryProgramFor_11678]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -4536,6 +4791,8 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[ColoradoRiverEndangeredFishHat_13665]]
 - [[RecoveryImplementationProgramF_11712]]
 - [[DraftManagementGroupMeetingSum_17880]]
+- [[AnnualReportRecoveryProgramFor_11673]]
+- [[AnnualReportRecoveryProgramFor_11678]]
 
 ## Ouray Reach
 
@@ -5044,6 +5301,18 @@ Owl Point is a location in the upper portion of Lake Mohave that marked the upst
 ### Mentioned In
 - [[BonytailrazorbackSuckerCoopera_17048]]
 
+## Owyhee County
+
+### Summary
+Owyhee County is a county in Idaho, USA where the Chasmistes spatulifer fossil specimen was collected. The specific collection site was in T4S, R2W, Sec. 2, NE near Fossil Butte in this county.
+
+### Context
+> This paper describes a partial skeleton of the head region of *[[Chasmistes spatulifer]]*, a catostomid fish from [[Plio-Pleistocene]] [[Lake Idaho]] deposits near [[Fossil Butte]] in [[Owyhee County]], Idaho. The specimen (ISUM 32034), collected June 17, 1971, greatly expands knowledge of this...
+> -- *[[ACatostomidFishFromPliopleisto_20337]]*
+
+### Mentioned In
+- [[ACatostomidFishFromPliopleisto_20337]]
+
 ## Oxalis corniculata
 
 ### Summary
@@ -5065,6 +5334,18 @@ Oxalis corniculata is an exotic plant species identified in the Sierra San Luis 
 
 ### Mentioned In
 - [[CarsonNationalFishHatcheryStat_19570]]
+
+## Oxbow Lake
+
+### Summary
+Oxbow Lake is a backwater area south of Palo Verde Townsite in the Cibola Division of the Lower Colorado River. According to this 1969 source, inlet/outlet structures were completed at Oxbow Lake as a major fish and wildlife feature to provide freshening flows and maintain habitat quality.
+
+### Context
+> This 1969 Bureau of Reclamation document describes the comprehensive Operation and Maintenance (O&M) Program for the [[Lower Colorado River]] below [[Davis Dam]], implemented under the Colorado River Front Work and Levee System Act of 1927. The program addresses channel instability, sediment...
+> -- *[[LowerColoradoRiverMaps_12161]]*
+
+### Mentioned In
+- [[LowerColoradoRiverMaps_12161]]
 
 ## Oxbow Spring
 
@@ -5246,11 +5527,15 @@ The Ozark Cavefish is a rare, endemic freshwater species inhabiting isolated cav
 > This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
 > -- *[[PartEndangeredAndThreatenedWil_11612]]*
 
+> This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (Title 50, Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] and [[National Marine Fisheries Service]] to be Endangered or Threatened under the...
+> -- *[[PartEndangeredAndThreatenedWil_11597]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[StationProfileOfTheNeoshoNatio_1993]]
 - [[PartEndangeredAndThreatenedWil_11612]]
+- [[PartEndangeredAndThreatenedWil_11597]]
 
 ## Ozark Faunal Group
 <!-- fm: auto_enriched: true -->
