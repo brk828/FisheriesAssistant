@@ -167,6 +167,18 @@ Mackay Radio Station was a facility located on Lobitas Creek, approximately 6 mi
 ### Mentioned In
 - [[TheTenchInCalifornia_11391]]
 
+## Mackenthun
+
+### Summary
+Mackenthun was a co-author of a 1967 publication that this review identifies as "the most important recent single contribution to the literature on the biological aspects of water pollution." This companion publication compiled important papers on water pollution biology dating back to classical 1908 work.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Mackenthun Et Al. 1956
 <!-- fm: auto_enriched: true -->
 
@@ -1665,6 +1677,18 @@ Manse Spring is the type locality and historically the sole natural habitat of t
 ### Mentioned In
 - [[NewDistributionalRecordsForThr_1959]]
 
+## Marasas
+
+### Summary
+Marasas is a researcher mentioned in this 1967 literature review on water pollution effects on freshwater fish. The source does not provide specific details about Marasas' research contributions or findings in the reviewed literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Marble Bluff Dam
 <!-- fm: auto_enriched: true -->
 
@@ -2286,6 +2310,18 @@ Mark-recapture design was used to estimate Shoal Bass abundance at spawning aggr
 - [[Cuatro Ciénegas Food Web]]
 - [[FlatheadCatfishAbundanceAndGro_1985]]
 
+## Mark-Recapture Sampling
+
+### Summary
+Mark-recapture sampling is a method for studying animal populations by marking individuals and tracking their subsequent recaptures. This study's mark-recapture data showed that most Rainbow Trout were captured only once or twice (368 caught once, 120 caught twice), with the distribution of captures being f = (368, 120, 31, 7, 1), making hierarchical modeling constraints necessary due to overparameterization.
+
+### Context
+> **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
+> -- *[[ModelingIndividualSpecificFish_2013]]*
+
+### Mentioned In
+- [[ModelingIndividualSpecificFish_2013]]
+
 ## mark-recapture studies
 <!-- fm: auto_enriched: true -->
 
@@ -2640,6 +2676,18 @@ Marshall et al. were researchers who reported denitrification occurring in vigor
 
 ### Mentioned In
 - [[NotesOnCestodesInPaddlefishPol_1956]]
+
+## Marsson
+
+### Summary
+Marsson was co-author of a classical 1908 work on the biological aspects of water pollution. This early publication was included in the 1967 compilation by Keup, Ingram, and Mackenthun that this review identifies as a major contribution to water pollution literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Martin 1949
 <!-- fm: auto_enriched: true -->
@@ -3151,6 +3199,18 @@ Maverick Pasture is one of three north pastures in the Dos S Unit that would be 
 ### Mentioned In
 - [[BiologicalOpinionThatAuthoriza_11901]]
 
+## Max Katz
+
+### Summary
+Max Katz was a researcher at the University of Washington College of Fisheries who served as lead author of this comprehensive 1968 literature review on the biological effects of water pollution on freshwater fish. He synthesized the 1967 scientific literature on topics including dissolved oxygen requirements, industrial waste impacts, pesticide toxicity, and heavy metal contamination.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Maxillingua
 <!-- fm: auto_enriched: true -->
 
@@ -3510,9 +3570,13 @@ The McCloud River is a California waterway identified as one of the key habitats
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[TheCaliforniaSturgeon_17339]]
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## McCloud River California
 
@@ -4434,6 +4498,18 @@ The Mediterranean Monk Seal (Monachus monachus) is a marine mammal species liste
 
 ### Mentioned In
 - [[PartEndangeredAndThreatenedWil_13327]]
+
+## Mediterranean Sea
+
+### Summary
+The Mediterranean Sea forms one boundary of the Levantine Landbridge, with the landbridge described as wedged between it and the Arabian Desert. The landbridge filter episodically operated on a broader front including the Mediterranean Sea, especially at Gibraltar Straits, and circum-Mediterranean distributional patterns represent an odd mixture of Palaearctic and Ethiopian stocks evidencing Mediterranean crossing possibilities.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Medusozoa
 <!-- fm: auto_enriched: true -->
@@ -5810,6 +5886,18 @@ A metapopulation in fish science refers to a collection of spatially separated l
 
 ### Mentioned In
 - [[TheImportanceOfTheAcanthocepha_1963]]
+
+## Meteorology and Environmental Protection Administration
+
+### Summary
+The Meteorology and Environmental Protection Administration (MEPA) is a Saudi Arabian agency based in Jeddah that jointly conducts the Zoological Survey of Saudi Arabia with Pro Entomologia (Basle). Based on preliminary survey findings, MEPA has proposed 40 terrestrial areas for establishment as different types of nature reserves where rare, endangered, and endemic species have been recorded.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Methemoglobinemia
 <!-- fm: auto_enriched: true -->
@@ -7901,6 +7989,18 @@ The Colorado River historically provided migration corridors for native fishes, 
 ### Mentioned In
 - [[FisheriesNews_1993_12_21]]
 
+## Mihursky
+
+### Summary
+Mihursky worked with Kennedy to establish water temperature criteria for protecting aquatic life. Their work described temperature requirements for three distinct ecosystem types: coldwater salmonid streams, warm-water centrarchid environments, and estuaries.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Mike Douglas
 <!-- fm: auto_enriched: true -->
 
@@ -8303,6 +8403,18 @@ Milligan Burn was one of the proposed prescribed fire projects submitted by the 
 
 ### Mentioned In
 - [[ASaltSpringInBorrowdale_1961_04_15]]
+
+## Mills
+
+### Summary
+Mills was lead author of a study documenting biological changes in the Illinois River over seventy years resulting from human activities. The research showed "a drastic and undesirable reduction in the numbers and kinds of desirable plants and animals" due to pollution and other anthropogenic impacts.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Milton R. Sommerfeld
 <!-- fm: auto_enriched: true -->
@@ -12831,6 +12943,9 @@ Mosquito fish (Gambusia affinis) are small, hardy livebearing cyprinodontids com
 > This third annual progress report documents the fisheries and limnological investigation of [[Lake Powell]] from February 1965 to January 1966, during the reservoir's early filling phase. The study, financed under Section 8 of the Colorado River Storage Act, was conducted cooperatively by the Utah...
 > -- *[[GlenCanyonReservoirPostimpound_14587]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
@@ -12841,6 +12956,7 @@ Mosquito fish (Gambusia affinis) are small, hardy livebearing cyprinodontids com
 - [[AGameFishForTheSaltonSeaTheTen_12860]]
 - [[FishesNativeToOrIntroducedInPa_18945]]
 - [[GlenCanyonReservoirPostimpound_14587]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Mosquito Larvae
 <!-- fm: auto_enriched: true -->
@@ -13058,6 +13174,9 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
 > -- *[[EagleCreekGreenleeCountyArizon_17216]]*
 
+> This correspondence from the Arizona Game and Fish Department to Dr. W.L. Minckley documents the collection and preservation of 192 [[Razorback Sucker]] specimens from the 1994 Year Class for genetic and morphometric analysis. The collection occurred on January 31, 1995, when an earthen pond at...
+> -- *[[FollowupOnRazorbackSuckersToAs_18234]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -13179,6 +13298,7 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[AquaticInventoryOfTheBillWilli_12503]]
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
+- [[FollowupOnRazorbackSuckersToAs_18234]]
 
 ## Motorola
 
@@ -13303,6 +13423,18 @@ The Mottled Sculpin (Cottus bairdi) is a small benthic fish species commonly fou
 
 ### Mentioned In
 - [[TheMoundSpringsOfSouthAustrali_20662]]
+
+## Mount
+
+### Summary
+Mount is a researcher who investigated cadmium accumulation and toxicity in fish. This source reports that Mount and Stephan found that in living Bluegills, cadmium accumulation in gill tissue never exceeded 130 μg/g (dry weight), but fish that died of acute cadmium poisoning contained a minimum of 150 μg/g in gill tissue, suggesting this measurement could detect cadmium poisoning.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Mount 1959
 <!-- fm: auto_enriched: true -->
@@ -14020,6 +14152,18 @@ The Mozambique Tilapia (Oreochromis mossambicus) is a cichlid fish native to Afr
 ### Mentioned In
 - [[TheDistributionOfTheFreshwater_1979]]
 
+## MRR Estimator
+
+### Summary
+The MRR (mark-recapture ratio) estimator calculates abundance as c'm/r', where m is the number marked, c' is total captures in the second sample, and r' is recaptures. This source notes that the MRR estimator has undefined moments when r' = 0 (no recaptures occur), making it problematic for small populations or low capture probabilities. Chapman's Estimator was developed as a modification to resolve this issue by ensuring finite estimates for all possible outcomes including zero recaptures.
+
+### Context
+> **Core Problem Addressed**: Quantifying and reducing the bias of Chapman's estimator for stream fish abundance when the spatial closure assumption is violated by dispersal between sampling occasions. The standard 2-sample mark-recapture method assumes no fish enter or exit the study reach between...
+> -- *[[ReducingEffectsOfDispersalOnTh_2018]]*
+
+### Mentioned In
+- [[ReducingEffectsOfDispersalOnTh_2018]]
+
 ## Ms-222
 <!-- fm: auto_enriched: true -->
 
@@ -14179,6 +14323,18 @@ The Mt. Graham Red Squirrel is an endangered species in Arizona that has faced e
 ### Mentioned In
 - [[DraftOfForwardForBookBattleAga_13788]]
 - [[ExecutiveSummaryCoronadoNation_11498]]
+
+## Mt. Lyell Salamander
+
+### Summary
+The Mt. Lyell Salamander is a Category 2 species of special interest in the study area, meaning there is insufficient information for a federal listing determination. It is among the wildlife species documented in the eight eastside rivers Wild and Scenic River study area.
+
+### Context
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
+### Mentioned In
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Mt. Morrison
 
@@ -15047,6 +15203,18 @@ Multiple Use is a management principle that BLM must balance with species conser
 - [[MethodsAndProceduresForScaleSa_1956_02_09]]
 - [[SeasonalVariationsInTheHormone_15092]]
 
+## Muncy
+
+### Summary
+Muncy is a researcher mentioned in this 1967 literature review on water pollution effects on freshwater fish. The source does not provide specific details about Muncy's research contributions or findings in the reviewed literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Muncy 1957
 <!-- fm: auto_enriched: true -->
 
@@ -15475,6 +15643,18 @@ Muskellunge (Esox masquinongy) is a large, predatory freshwater fish species in 
 ### Mentioned In
 - [[SurveyOfALifeSWritingPaulLErri_1964_05_15]]
 
+## Mustelus californicus
+
+### Summary
+Mustelus californicus is the Gray Smoothhound, an edible shark species that can reach 107 cm in length. This source reports one complete centrum from a specimen approximately 65 cm long found at site Ora-119B, representing one of seven fish species exploited from Newport Bay by Gabrielino peoples.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
+
 ## Muttkowski 1929
 <!-- fm: auto_enriched: true -->
 
@@ -15601,8 +15781,12 @@ Myliobatis californica (bat stingray) is represented at the site by 1 tooth segm
 > This zooarchaeological report by W. I. Follett analyzes 459 fish remains recovered from the [[Arroyo Sequit]] Shellmound (LAn-52) in extreme western [[Los Angeles County]], [[California]]. The site, located on a bluff rising to nearly 75 feet elevation, was occupied between approximately 1000 B.C....
 > -- *[[FishRemainsFromArroyoSequitShe_18754]]*
 
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
 ### Mentioned In
 - [[FishRemainsFromArroyoSequitShe_18754]]
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## Mylocheilus
 <!-- fm: auto_enriched: true -->

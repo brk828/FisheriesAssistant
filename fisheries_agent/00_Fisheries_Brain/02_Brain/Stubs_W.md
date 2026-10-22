@@ -30,6 +30,18 @@ letter: W
 ### Mentioned In
 - [[Zoogeography_18180]]
 
+## W. Büttiker
+
+### Summary
+W. Büttiker is the author of the second section describing the Zoological Survey of Saudi Arabia. This systematic inventory project was initiated in 1975 and is jointly conducted by Pro Entomologia (Basle) and the Meteorology and Environmental Protection Administration (Jeddah).
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
+
 ## W. Dennis Clark
 <!-- fm: auto_enriched: true -->
 
@@ -886,6 +898,9 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -986,6 +1001,7 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[BaitsUsedInWinterFishing_17383]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Walleye Growth Comparison
 <!-- fm: auto_enriched: true -->
@@ -1691,8 +1707,12 @@ The Warmwater Reservoir Study was a research program that contributed to larger 
 > - **Historical context**: Fish toxicity testing in relation to river pollution dates back over a century in the UK. Historically, most work focused on determining lethal thresholds (e.g., 48-h TLm, the concentration killing 50% of test fish within 48 hours) rather than "safe" concentrations for c...
 > -- *[[PollutionAndFisheriesAProgress_1966_06_22]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Warner B. Poppleton
 <!-- fm: auto_enriched: true -->
@@ -2411,6 +2431,18 @@ Water pollution in aquatic ecosystems refers to the introduction of harmful subs
 
 ### Mentioned In
 - [[ReductionInNumberOfMucousCells_15675]]
+
+## Water Pollution Control Federation
+
+### Summary
+The Water Pollution Control Federation was the organization that commissioned this comprehensive literature review on the biological effects of water pollution on freshwater fish. The review was prepared for publication in their journal as part of an annual Literature Review issue.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Water Pollution Control Federation Journal
 
@@ -3150,6 +3182,18 @@ The Wayne N. Aspinall Unit is one of four major storage units authorized under t
 ### Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 
+## Weatherholtz
+
+### Summary
+Weatherholtz is a researcher who investigated pesticide contamination in farm pond watersheds. This source reports that Weatherholtz et al. found heptachlor residues in every examined farm pond watershed in southwestern Virginia, with residues detectable up to 25 months after application.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Weaver And Albertson
 <!-- fm: auto_enriched: true -->
 
@@ -3335,6 +3379,18 @@ Weighted Usable Area (WUA) is a quantitative metric used in instream flow assess
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[RelativeVariabilityOfHybridsBe_14215]]
+
+## Weiss
+
+### Summary
+Weiss collaborated with Gakstatter to study pesticide elimination from fish tissues. Their research demonstrated that labeled DDT and dieldrin were readily transferred from contaminated fish to uncontaminated controls in recovery aquaria, revealing pathways of pesticide movement in aquatic systems.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Weiss 1961
 <!-- fm: auto_enriched: true -->
@@ -4567,6 +4623,18 @@ Westfield Creek was a 3.5-mile Wisconsin stream with flow of 17.2 cfs, pH 8.8, a
 
 ### Mentioned In
 - [[PotentialOfSodiumSulfiteCataly_13074]]
+
+## Westoo
+
+### Summary
+Westoo is a researcher who measured mercury contamination in fish populations. This source reports that Westoo determined mercury concentrations in North Atlantic marine fish and freshwater fish, finding that marine fish generally contained less mercury than FAO standards, but highest concentrations were found in freshwater fish near the Swedish Coast, probably due to industrial pollution.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Westslope Cutthroat Trout
 <!-- fm: auto_enriched: true -->
@@ -7311,6 +7379,18 @@ Wild trout are self-sustaining populations of trout that reproduce naturally in 
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11563]]
 
+## Wilderness Area Management
+
+### Summary
+Aravaipa Creek flows through wilderness areas managed by multiple agencies including the US Bureau of Land Management and The Nature Conservancy. This source emphasizes that wilderness management for this system must prioritize maintaining the natural flow regime—including both base flows (0.28-0.85 m³/s monthly means) and regular flood disturbances (76.5 m³/s floods every 1.5 years, 343 m³/s floods every 10 years)—as these natural hydrologic processes are critical for native fish persistence and for displacing nonnative species that lack evolutionary adaptations to flood-prone desert streams.
+
+### Context
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
+### Mentioned In
+- [[LongtermMonitoringOfADesertFis_2021]]
+
 ## Wilderness Consideration
 
 ### Summary
@@ -8386,9 +8466,13 @@ Willow Creek Reservoir was gill-netted as part of the rough fish control program
 > **Associated wildlife**: The riparian corridor supported abundant birdlife, including bald eagles, black hawks, common mergansers, hooded and northern orioles, black phoebes, canyon wrens, cardinals, blue grosbeaks, summer tanagers, various warblers, and two pairs of [[Willow Flycatcher]] observe...
 > -- *[[SummaryReportForFisheriesSurve_1995_07_27]]*
 
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
 ### Mentioned In
 - [[NotesFromMayMeetingLowerColora_1997_05_28]]
 - [[SummaryReportForFisheriesSurve_1995_07_27]]
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Willow Lake
 
@@ -9653,6 +9737,18 @@ Wray Hatchery is a Colorado fish production facility that contributed to the sta
 
 ### Mentioned In
 - [[CreelCensusReport_11332]]
+
+## Wretlind
+
+### Summary
+Wretlind is a researcher who investigated human health effects of mercury-contaminated fish. This source reports that Wretlind worked with Berglund to find that persons eating 200 g of fish from mercury-polluted water had blood concentrations 20-30 times greater than normal, and fish containing 1 mg Hg/kg or more were considered unsuitable for human consumption.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Wright Creek
 <!-- fm: auto_enriched: true -->

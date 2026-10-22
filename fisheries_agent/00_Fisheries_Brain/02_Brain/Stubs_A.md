@@ -259,6 +259,30 @@ Abraham S. Goldin was an author affiliated with the Robert A. Taft Sanitary Engi
 ### Mentioned In
 - [[EnvironmentalImplicationsOfRad_14607]]
 
+## Abram
+
+### Summary
+Abram is mentioned as a researcher in the 1967 literature review on water pollution effects on freshwater fish. However, the specific findings or contributions of this researcher are not detailed in the provided source text.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
+## Abramis
+
+### Summary
+Abramis is a genus of fish that was used in phenol toxicity studies. Research determined that the maximum tolerable concentration of phenol for Abramis eggs was 25 mg/l.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Abramis brama
 
 ### Summary
@@ -310,6 +334,30 @@ Abundance targets are quantitative benchmarks used to assess Northern Pike suppr
 
 ### Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
+
+## Acacia
+
+### Summary
+Acacia is a tree genus with Ethiopian biogeographic associations. According to this source's conservation guidelines, mountain slopes supporting Acacia trees along with their associated Ethiopian fauna represent priority core areas that should receive rigorous conservation protection within the Levantine Landbridge biospheric reserve framework.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
+
+## Academic Medical Centre
+
+### Summary
+The Academic Medical Centre (AMC) is an institution whose researchers were analyzed in the Opthof and Leydesdorff (2010) study that this source critiques. The source uses AMC examples, including 232 scholars and 65 publications from one principal investigator (1997-2006), to illustrate problems with treating institutional data as probability samples when they likely constitute apparent populations or convenience samples from specific databases.
+
+### Context
+> **Core Problem Addressed**: This article critiques the use of statistical significance tests (specifically Null Hypothesis Significance Tests, NHST) in research assessments based on citation indicators, responding to proposals by [[Opthof and Leydesdorff]] (2010) that advocate for normalization...
+> -- *[[CaveatsForUsingStatisticalSign_2013]]*
+
+### Mentioned In
+- [[CaveatsForUsingStatisticalSign_2013]]
 
 ## Academic Tenure
 <!-- fm: auto_enriched: true -->
@@ -2677,6 +2725,18 @@ Albert G. Friend was an author affiliated with the Robert A. Taft Sanitary Engin
 ### Mentioned In
 - [[EnvironmentalImplicationsOfRad_14607]]
 
+## Albert K. Sparks
+
+### Summary
+Albert K. Sparks was a co-author from the University of Washington College of Fisheries who collaborated on this 1968 literature review examining the effects of water pollution on freshwater fish biology. He worked with Max Katz to compile and analyze the 1967 scientific literature on aquatic pollution biology.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Albertini-Berhaut 1974
 <!-- fm: auto_enriched: true -->
 
@@ -2904,6 +2964,18 @@ Alcove Brook is a sampling station on the Green River positioned between Flaming
 
 ### Mentioned In
 - [[TheRelationshipBetweenDissolve_14575]]
+
+## Alder Creek
+
+### Summary
+Alder Creek is one of the eight eastside rivers included in the Wild and Scenic River suitability study conducted for the Tahoe National Forest and Lake Tahoe Basin Management Unit. The source identifies it as a key waterway in the study area but provides no additional specific details about its characteristics.
+
+### Context
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
+### Mentioned In
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Aldo Leopold
 <!-- fm: auto_enriched: true -->
@@ -4930,6 +5002,18 @@ The American Association for the Advancement of Science is a scientific organiza
 ### Mentioned In
 - [[ConcernsAboutIntroductionOfRai_13174]]
 
+## American Bald Eagle
+
+### Summary
+The American Bald Eagle is a federally endangered species identified in the study area of the eight eastside rivers. The source indicates that Wild and Scenic River designation is expected to be primarily beneficial for most threatened and endangered species, though most would not have habitat directly affected by the designation itself.
+
+### Context
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
+### Mentioned In
+- [[EightEastsideRiversWildAndScen_18297]]
+
 ## American Beaver
 
 ### Summary
@@ -5353,6 +5437,9 @@ I appreciate the detailed context provided, but I must note that the American Pe
 > This draft Environmental Assessment evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (Hybognathus amarus) pursuant to section 4 of the Endangered Species Act. The document responds to a February 22, 1999 court order (Forest Guardians and Defenders of...
 > -- *[[DraftEnvironmentalAssessmentDe_13207]]*
 
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
 ### Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
@@ -5362,6 +5449,7 @@ I appreciate the detailed context provided, but I must note that the American Pe
 - [[BiologicalEvaluationOfTheAppro_15074]]
 - [[DraftConsesusReportOnTheDraftC_13540]]
 - [[DraftEnvironmentalAssessmentDe_13207]]
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## American Plaice
 <!-- fm: auto_enriched: true -->
@@ -6944,6 +7032,18 @@ The Angelina River is a Texas river that flows through Jasper County below Sam R
 
 ### Mentioned In
 - [[ReturnsFromTaggedDiscardBroodS_15487]]
+
+## Angler Reporting Programs
+
+### Summary
+Angler reporting programs collect data from recreational fishers who report their catches. In this study, 129 of the 734 total length measurements came from angler-reported data, occurring both during and after the formal tagging study period (with the final measurement in November 2004), supplementing the 605 measurements from formal tagging occasions.
+
+### Context
+> **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
+> -- *[[ModelingIndividualSpecificFish_2013]]*
+
+### Mentioned In
+- [[ModelingIndividualSpecificFish_2013]]
 
 ## Anglers United
 
@@ -9917,6 +10017,18 @@ Aquatic vegetation encompasses submerged and emergent plants in freshwater ecosy
 ### Mentioned In
 - [[ComparativeEvaluationOfTwoTila_15110]]
 
+## Arabian Desert
+
+### Summary
+The Arabian Desert forms one boundary of the Levantine Landbridge, with the landbridge described as a sliver of Middle Eastern fertile to semi-arid land wedged between the Mediterranean Sea and this desert. The landbridge filter episodically operated on a broader front including across Southern Arabia.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
+
 ## Arachnida
 <!-- fm: auto_enriched: true -->
 
@@ -10116,6 +10228,9 @@ Aravaipa Canyon Wilderness Area is a protected perennial desert stream ecosystem
 > This proposal outlines a comprehensive 12-month monitoring protocol for fish populations in [[Aravaipa Creek]], one of the last [[Sonoran Desert]] streams supporting a diverse native fish fauna. The program focuses on tracking the invasion of non-native [[Red Shiner]] (*[[Cyprinella lutrensis]]*)...
 > -- *[[AProposedMonitoringProtocolFor_13782]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[AravaipaCreekMonitoringData_1993_07_15]]
 - [[MemorandumOnAravaipaCreekMonit_1993_06_30]]
@@ -10124,6 +10239,7 @@ Aravaipa Canyon Wilderness Area is a protected perennial desert stream ecosystem
 - [[DesertFishesRecoveryTeamAddres_13785]]
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[AProposedMonitoringProtocolFor_13782]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Aravaipa Creek
 <!-- fm: auto_enriched: true -->
@@ -10330,6 +10446,9 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -10475,6 +10594,7 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 - [[AProposedMonitoringProtocolFor_13782]]
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Aravaipa Creek Native Fish
 <!-- fm: auto_enriched: true -->
@@ -11079,6 +11199,9 @@ Ariidae is a family of catfishes commonly known as sea catfishes, characterized 
 > This document presents a comprehensive distributional checklist of native fishes of Mexico from [[Petromyzontidae]] through [[Goodeidae]], abstracted from Robert Rush Miller's manuscript "Guide to the Freshwater Fishes of Mexico" (September 1993). The checklist provides scientific names, local...
 > -- *[[DistributionalAndLocalVernacul_13815]]*
 
+> This taxonomic description establishes *Therodamas dawsoni* as a new species of parasitic copepod (Cyclopoida: Ergasilidae) from the Pacific coast of [[Panama]]. A single female specimen was collected from the pectoral fin base of a stargazer fish, [[Dactyloscopus thysannotus]], at Chiriqui, Panama...
+> -- *[[TherodamasDawsoniANewSpeciesOf_18011]]*
+
 ### Mentioned In
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]
@@ -11088,6 +11211,7 @@ Ariidae is a family of catfishes commonly known as sea catfishes, characterized 
 - [[InfluenceOfLandMassesOnTheDist_14157]]
 - [[RioBravoFishDistribution_Unknown]]
 - [[DistributionalAndLocalVernacul_13815]]
+- [[TherodamasDawsoniANewSpeciesOf_18011]]
 
 ## Aristichthys Nobilis
 <!-- fm: auto_enriched: true -->
@@ -14772,6 +14896,18 @@ The ASARCO Silverbell Mine is a copper mining operation located northwest of Tuc
 ### Mentioned In
 - [[TheRelationOfHydrologicalCondi_20023]]
 
+## Aschner
+
+### Summary
+Aschner is a researcher mentioned in this 1967 literature review on water pollution effects on freshwater fish. The source does not provide specific details about Aschner's research contributions or findings in the reviewed literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Ascorbic Acid Physiology
 <!-- fm: auto_enriched: true -->
 
@@ -15823,6 +15959,18 @@ Asplanchna is a genus of zooplankton identified in Lake Powell during the 1967-1
 ### Mentioned In
 - [[ReservoirFisheriesInvestigatio_14590]]
 
+## Assemblage Dynamics
+
+### Summary
+The Aravaipa Creek fish assemblage showed high temporal stability over 54 years of monitoring (1963-2017), with Morisita's index values consistently greater than 0.90 from 1986-2017, indicating high year-to-year similarity in species composition. This source documents that longfin dace was consistently the most abundant native species (71.6% of natives during peak 1974-1976 period), while total native abundance peaked in 1974-1976 (up to 33,462 individuals) and 1991-1992 (22,494 individuals), with recent peaks (2009: 8,333 individuals) representing less than 25% of historical highs, though assemblage structure remained stable despite abundance declines.
+
+### Context
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
+### Mentioned In
+- [[LongtermMonitoringOfADesertFis_2021]]
+
 ## Assimilation Efficiency
 <!-- fm: auto_enriched: true -->
 
@@ -16593,6 +16741,9 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[BerkshireNationalFishHatcheryS_19579]]
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
@@ -16634,6 +16785,7 @@ Atlantic Salmon (*Salmo salar*) is a diadromous fish species native to the North
 - [[TheSusceptibilityOfSalmonidFis_16704]]
 - [[EffectOfLightDietAndAgeOfSpawn_19154]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Atlantic Salmon Commission
 <!-- fm: auto_enriched: true -->

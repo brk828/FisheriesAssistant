@@ -1385,6 +1385,18 @@ Idols Dam is a Duke Power hydroelectric facility near Clemmons, Forsyth County, 
 ### Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
 
+## Idus idus
+
+### Summary
+Idus idus, commonly known as ide, is a fish species used in thermal adaptation studies. Research by Precht et al. found that in this species, the frequency of opercular movement decreases continuously over long periods when adaptation temperature is suddenly lowered.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## IFIM
 
 ### Summary
@@ -1534,12 +1546,16 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
 - [[SomeAspectsOfWaterQualityAndBi_12230]]
 - [[SomeObservationsOnLimnologyAnd_1954]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -2236,9 +2252,13 @@ The independence assumption requires that the two data sources capture individua
 > This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
 > -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
 
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
 ### Mentioned In
 - [[PotentialFishHabitatBenefitsIn_18308]]
 - [[TaxonomicStatusEcologyAndDistr_14514]]
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Independence Dam
 <!-- fm: auto_enriched: true -->
@@ -2651,6 +2671,18 @@ The Indus River is a major river system that receives flow from three Afghan dra
 
 ### Mentioned In
 - [[DraftReviewRip_18167]]
+
+## Ingram
+
+### Summary
+Ingram was a co-author of a 1967 publication that this review identifies as "the most important recent single contribution to the literature on the biological aspects of water pollution." This companion work compiled significant historical papers on the biological aspects of water pollution.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Iniopterygia
 <!-- fm: auto_enriched: true -->
@@ -4507,6 +4539,18 @@ Ironwood (Olneya tesota) is a predominant tree species in the Sonoran Desertscru
 
 ### Mentioned In
 - [[LetterFromIrvKornfieldToWendel_1983_08_22]]
+
+## Irvine
+
+### Summary
+Irvine is a location in Orange County, California, at approximately 33°39'N, 117°51'W, where two Gabrielino archaeological sites were excavated in 1963. The sites are situated on knolls at or below the 50-foot contour bordering a former northeastern extension of Newport Bay, less than three miles from favorable fishing locations.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## Irvine Lake
 

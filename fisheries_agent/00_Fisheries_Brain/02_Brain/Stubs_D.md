@@ -166,6 +166,18 @@ Dactylocythere is a genus of entocytherid ostracods found in North America. Fema
 ### Mentioned In
 - [[TheChemicalControlOfSomeDiseas_15950]]
 
+## Dactyloscopus thysannotus
+
+### Summary
+Dactyloscopus thysannotus is a stargazer fish species from the Pacific coast of Panama that served as the host for the newly described parasitic copepod Therodamas dawsoni. Despite examination of over 2,000 specimens of this fish, only a single copepod parasite was found attached at the pectoral fin base, suggesting either extreme rarity of the parasite or that this fish may not be the preferred host species.
+
+### Context
+> This taxonomic description establishes *Therodamas dawsoni* as a new species of parasitic copepod (Cyclopoida: Ergasilidae) from the Pacific coast of [[Panama]]. A single female specimen was collected from the pectoral fin base of a stargazer fish, [[Dactyloscopus thysannotus]], at Chiriqui, Panama...
+> -- *[[TherodamasDawsoniANewSpeciesOf_18011]]*
+
+### Mentioned In
+- [[TherodamasDawsoniANewSpeciesOf_18011]]
+
 ## Daddys Creek
 
 ### Summary
@@ -1840,6 +1852,18 @@ Dead Horse Ranch State Park is a protected area located within the Verde Valley,
 ### Mentioned In
 - [[VerdeValleyReportsAndSurveysFr_12879]]
 
+## Dead Sea
+
+### Summary
+The Dead Sea is a water body in the Syrian Rift Valley. This source uses it as a geographic reference point to illustrate the steep environmental gradients characteristic of the rift valley, noting that the descent from Jerusalem to the Dead Sea covers 1200 meters over just 40 kilometers and encompasses four different phyto-climatic belts.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
+
 ## Deadman Tank
 <!-- fm: auto_enriched: true -->
 
@@ -2397,6 +2421,9 @@ Deer Creek is a relatively unmodified tributary of the Sacramento River in Teham
 > This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
 > -- *[[DiaryOfGrandCanyonSurvey_17643]]*
 
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
 ### Mentioned In
 - [[BibliographyOfStudiesOnIntrodu_13347]]
 - [[FishesOfTheWakarusaRiverInKans_14015]]
@@ -2410,12 +2437,18 @@ Deer Creek is a relatively unmodified tributary of the Sacramento River in Teham
 - [[EarlyFieldNotes_15954]]
 - [[SummaryOfEndangeredFishResearc_13612]]
 - [[DiaryOfGrandCanyonSurvey_17643]]
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Deer Creek Cave
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
 ### Mentioned In
 - [[PreliminaryReportOnFishRemains_18753]]
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Deer Flat
 
@@ -4608,6 +4641,9 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > This U.S. Fish and Wildlife Service Biological Opinion (dated April 15, 1994) addresses the transportation and delivery of [[Colorado River]] water through the [[Central Arizona Project]] (CAP) aqueduct to water users in the [[Gila River Basin]] in Arizona and New Mexico. The opinion focuses...
 > -- *[[SummaryBiologicalOpinionOnTran_11705]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -4841,6 +4877,7 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[FinalDraftEcosystemPlanForTheL_11674]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Desert Pupfish Conservation
 <!-- fm: auto_enriched: true -->
@@ -4951,12 +4988,17 @@ Desert spring endemism refers to the phenomenon where fish species evolve in iso
 ### Summary
 Desert stream ecology encompasses the study of aquatic ecosystems in arid and semi-arid environments, where fish communities and their habitats are shaped by extreme environmental conditions including intermittent or highly variable water flows, temperature fluctuations, and limited water availability. This specialized field examines the unique adaptations of fish species to these harsh conditions and addresses critical conservation challenges related to water scarcity, habitat fragmentation, and anthropogenic impacts on already stressed desert aquatic systems. Understanding desert stream ecology is essential for developing effective management and recovery strategies for endemic and threatened fish species that depend on these fragile and often isolated aquatic habitats.
 
+### Context
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[HyporheicSurfaceWaterExchangeI_13668]]
 - [[TechnicalReportAnalyzingTheImp_14024]]
 - [[WhyLinkSpeciesAndEcosystemsAPe_1994]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Desert Stream Ecosystem
 <!-- fm: auto_enriched: true -->
@@ -5151,6 +5193,9 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
 > -- *[[EagleCreekGreenleeCountyArizon_17216]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -5259,6 +5304,7 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[GilaRiverFishdistributionProje_15844]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Desert Tortoise
 <!-- fm: auto_enriched: true -->
@@ -5817,6 +5863,18 @@ The Devils River is a tributary of the Rio Grande where Ictalurus lupus occurs, 
 ### Mentioned In
 - [[TaxonomicStatusEcologyAndDistr_14514]]
 
+## DeWilde
+
+### Summary
+DeWilde collaborated with Houston to investigate blood oxygen-capacity of Rainbow Trout as a function of thermal acclimation. Their research evaluated hematological parameters including erythrocyte number, packed cell volume, and hemoglobin concentration in relation to temperature adaptation.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Dexter
 <!-- fm: auto_enriched: true -->
 
@@ -6143,6 +6201,9 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
 > -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
 
+> This correspondence from the Arizona Game and Fish Department to Dr. W.L. Minckley documents the collection and preservation of 192 [[Razorback Sucker]] specimens from the 1994 Year Class for genetic and morphometric analysis. The collection occurred on January 31, 1995, when an earthen pond at...
+> -- *[[FollowupOnRazorbackSuckersToAs_18234]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -6353,6 +6414,7 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 - [[ProvisionalKeyToTheProtolarvae_21239]]
+- [[FollowupOnRazorbackSuckersToAs_18234]]
 
 ## Dexter National Fish Hatchery & Technology Center
 <!-- fm: auto_enriched: true -->
@@ -9155,8 +9217,13 @@ Doubtful Peak is one of the prominent peaks in the Peloncillo Mountains reaching
 ## Doudoroff
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[TheEffectOfCalciumSulphateOnTh_16691]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Doudoroff 1942
 <!-- fm: auto_enriched: true -->

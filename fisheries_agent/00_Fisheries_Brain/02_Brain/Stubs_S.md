@@ -856,8 +856,12 @@ Sagehen Creek is a location where Piute sculpin populations have been studied, p
 > This comprehensive life history study of the [[Piute Sculpin]] (*Cottus beldingii*) in [[Lake Tahoe]] examined 6,424 specimens collected from September 1963 through September 1964. The research focused on diet composition, age and growth patterns, reproductive biology, and parasite loads. Sculpins...
 > -- *[[ContributionsToTheLifeHistoryO_15724]]*
 
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
 ### Mentioned In
 - [[ContributionsToTheLifeHistoryO_15724]]
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Sagehen Creek Project
 <!-- fm: auto_enriched: true -->
@@ -1422,6 +1426,18 @@ Salmo clarkii henshawi, the Lahontan cutthroat trout, is a subspecies native to 
 - [[SalmoEvermanniASynonymOfSalmoC_18176]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 
+## Salmo clarkii lewisi
+
+### Summary
+Salmo clarkii lewisi is the cutthroat trout, one of several edible nonmigratory fish species that almost certainly supported populations in the Jarbidge River under primitive conditions. Like other resident fish species extensively utilized by aborigines elsewhere in western North America, it is notably absent from the Deer Creek Cave archaeological assemblage.
+
+### Context
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
+### Mentioned In
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
+
 ## Salmo evermanni
 
 ### Summary
@@ -1542,6 +1558,18 @@ Salmo gairdnerii, commonly known as the rainbow trout, is a freshwater salmonid 
 - [[CyclicalActivityOfTheThyroidGl_15081]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 
+## Salmo gairdnerii irideus
+
+### Summary
+Salmo gairdnerii irideus is the resident rainbow trout, a nonmigratory fish species that almost certainly inhabited the Jarbidge River under primitive conditions. Despite its likely availability, no remains of this species were found at Deer Creek Cave, contributing to the puzzle of why the site's occupants made minimal use of fish resources.
+
+### Context
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
+### Mentioned In
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
+
 ## Salmo Gila
 <!-- fm: auto_enriched: true -->
 
@@ -1655,6 +1683,9 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 > This experimental study investigated how light exposure, diet composition, and spawner age affect the physical and chemical characteristics of [[Brown Trout]] ([[Salmo trutta]]) eggs and fry at the [[Cortland Fish Hatchery]]. Four groups of spawning trout were maintained under different conditions:...
 > -- *[[EffectOfLightDietAndAgeOfSpawn_19154]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[ActivityCyclesInTheBrownTroutS_1964]]
@@ -1680,6 +1711,7 @@ Salmo trutta, commonly known as brown trout, is a freshwater salmonid species na
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[MaterialsOnTheStructureOfTheFi_15061]]
 - [[EffectOfLightDietAndAgeOfSpawn_19154]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Salmon
 <!-- fm: auto_enriched: true -->
@@ -3517,6 +3549,18 @@ Salvelinus fontinalis, commonly known as the brook trout, is a freshwater salmon
 
 ### Mentioned In
 - [[SizeBiasedPredationByTheGilaTo_1980]]
+
+## Salvelinus malma
+
+### Summary
+Salvelinus malma, known as Dolly Varden, is a nonmigratory fish species that almost certainly inhabited the Jarbidge River under primitive conditions and was extensively utilized by aborigines elsewhere in western North America. No remains of this species were recovered from Deer Creek Cave despite its likely availability.
+
+### Context
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
+### Mentioned In
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Salvelinus Namaycush
 <!-- fm: auto_enriched: true -->
@@ -6047,6 +6091,9 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 > This report documents a comprehensive survey of [[Aravaipa Creek]], Arizona, conducted on 20 October 1990 to determine the geographic distribution of introduced [[Red Shiner]] (*Cyprinella lutrensis*), first discovered in the stream in early October 1990. The survey covered approximately 8.0 km...
 > -- *[[SummaryRedShinerSurveyLowerAra_13783]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -6161,6 +6208,7 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[SummaryRedShinerSurveyLowerAra_13783]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## San Pedro River Basin
 <!-- fm: auto_enriched: true -->
@@ -7691,6 +7739,18 @@ The Santiago River is part of the Lerma-Santiago drainage system, with waterfall
 ### Mentioned In
 - [[ProposalForSupportOfResearchOn_15568]]
 
+## Santner
+
+### Summary
+Santner is a researcher who studied detergent effects on fish. This source reports that Santner worked with Thatcher to determine toxicity of linear alkyl sulfonate (LAS) detergent to five freshwater fish species, observing that with ABS most mortality occurred during the first two days, but with LAS mortalities also occurred on days 3 and 4.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Santo Tomas
 
 ### Summary
@@ -8102,6 +8162,18 @@ Satellite DNA is an emerging molecular genomic feature that the research laborat
 ### Mentioned In
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 
+## Saudi Arabia
+
+### Summary
+Saudi Arabia is the location of a systematic zoological survey that began in 1975, encompassing terrestrial, limnetic, and marine taxa across diverse biotopes including coasts, lowland plains, hills, mountains, and deserts. Based on preliminary survey findings identifying rare, endangered, and endemic species, 40 terrestrial areas have been proposed for establishment as nature reserves.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
+
 ## Sauger
 <!-- fm: auto_enriched: true -->
 
@@ -8184,6 +8256,18 @@ Sauna Cave is one of five fixed remote PIT scanning sites established in the Riv
 
 ### Mentioned In
 - [[DemographicsAndMonitoringOfRep_2020]]
+
+## Saunders
+
+### Summary
+Saunders co-authored research with Sprague documenting that copper and zinc pollution from mining operations caused adult Atlantic Salmon to abort their spawning migrations. The study also documented avoidance reactions of salmon to copper-zinc pollution in their natural environment during spawning.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Saunders 1961
 <!-- fm: auto_enriched: true -->
@@ -8608,6 +8692,18 @@ Scenedesmus bijuga is a green algae species that was one of the dominant phytopl
 
 ### Mentioned In
 - [[AquaticEnvironmentalReportForO_17695]]
+
+## Scheier
+
+### Summary
+Scheier is a researcher who investigated gill damage from detergent exposure. This source reports that Scheier and Cairns observed that gill damage in Sunfish from 24-hour exposure to 18 ppm ABS was not reversible even after eight weeks in clean water.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Scherer 1962
 <!-- fm: auto_enriched: true -->
@@ -11383,6 +11479,18 @@ Serranidae is a fish family commonly recognized in fisheries management and spor
 - [[AClassificationOfTheFishesOfTh_14438]]
 - [[FishRemainsFromArroyoSequitShe_18754]]
 
+## Serranus
+
+### Summary
+Serranus is a fish genus that served as the host for Therodamas serranus, the type species of the genus Therodamas originally described by Krøyer in 1863 from the Danish West Indies. This represents one of the other known host taxa for the genus Therodamas, distinct from the stargazer host of the newly described T. dawsoni.
+
+### Context
+> This taxonomic description establishes *Therodamas dawsoni* as a new species of parasitic copepod (Cyclopoida: Ergasilidae) from the Pacific coast of [[Panama]]. A single female specimen was collected from the pectoral fin base of a stargazer fish, [[Dactyloscopus thysannotus]], at Chiriqui, Panama...
+> -- *[[TherodamasDawsoniANewSpeciesOf_18011]]*
+
+### Mentioned In
+- [[TherodamasDawsoniANewSpeciesOf_18011]]
+
 ## Serraria
 <!-- fm: auto_enriched: true -->
 
@@ -11623,6 +11731,18 @@ Sex determination is conducted on captured Northern Pike to track sex ratios and
 ### Mentioned In
 - [[TheCreamInTheGooseberryFool_14542]]
 - [[WeitereUntersuchungenZumGeschl_11192]]
+
+## Sex-Specific Management
+
+### Summary
+Sex-specific management involves tailoring fishery regulations to account for differences between male and female fish. This study found significant sex differences in Rainbow Trout growth, with males having faster growth rates but smaller maximum lengths than females (indicated by significant differences in β_L1 and β_k parameters), suggesting that management strategies should consider these distinct growth patterns.
+
+### Context
+> **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
+> -- *[[ModelingIndividualSpecificFish_2013]]*
+
+### Mentioned In
+- [[ModelingIndividualSpecificFish_2013]]
 
 ## Sexual Dichromatism In Fishes
 <!-- fm: auto_enriched: true -->
@@ -13032,6 +13152,18 @@ The Shoshone Pupfish is a small, endemic fish species inhabiting isolated desert
 ### Mentioned In
 - [[ListOfTheFishesOfTheTennesseeR_1939_02_08]]
 
+## Shovelnose Guitarfish
+
+### Summary
+The Shovelnose Guitarfish (Rhinobatos productus) is a ray species with edible tail meat that can reach 156 cm length and 18 kg weight. This source documents 16 centra from specimens up to at least 120 cm long, making it one of the most abundant species in the Irvine archaeological assemblage and indicating significant exploitation by Gabrielino peoples.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
+
 ## Shovelnose Sturgeon
 <!-- fm: auto_enriched: true -->
 
@@ -13199,6 +13331,30 @@ Showlow Lake is a reservoir in the Little Colorado River basin that is part of a
 
 ### Mentioned In
 - [[VariationsInDdtConcentrationIn_13889]]
+
+## Shulyak
+
+### Summary
+Shulyak is mentioned as a researcher in the 1967 literature review on water pollution effects on freshwater fish. However, the specific findings or contributions of this researcher are not detailed in the provided source text.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
+## Shumway
+
+### Summary
+Shumway co-authored work with Doudoroff emphasizing that complete protection of fish requires dissolved oxygen levels at or near saturation. The research showed that adequate growth, embryonic development, and activity can be limited by dissolved oxygen reductions only slightly below saturation levels.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Shunes Creek
 
@@ -13721,11 +13877,15 @@ Sierra Magazine is a conservation press outlet. This source lists it as one of t
 > This 1967 report by George L. Batchelder provides a comprehensive synthesis of the Pleistocene geology and ecology of the [[Mono Basin]], California. The basin offers a unique opportunity to study synchronous glaciation and lacustrine fluctuations during the Quaternary. The document describes...
 > -- *[[TheMonoBasin_15632]]*
 
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
 ### Mentioned In
 - [[CuiUiRecoveryTeamMeetingNotice_1993_09_14]]
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[TheFishesOfMohaveRiverCaliforn_21253]]
 - [[TheMonoBasin_15632]]
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Sierra Nevada Aquatic Research Laboratory
 <!-- fm: auto_enriched: true -->
@@ -15070,6 +15230,18 @@ Six-Mile Cove is a location on the Nevada side of Cottonwood Basin in Lake Mohav
 ### Mentioned In
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
 
+## Size-Selective Harvest
+
+### Summary
+Size-selective harvest refers to fishing practices that preferentially remove fish of certain sizes from a population. The study's findings on sex-specific growth patterns—where males grow faster but to smaller maximum sizes than females—have implications for designing size-selective harvest regulations that account for these differences in growth trajectories between sexes.
+
+### Context
+> **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
+> -- *[[ModelingIndividualSpecificFish_2013]]*
+
+### Mentioned In
+- [[ModelingIndividualSpecificFish_2013]]
+
 ## Size-Selective Predation
 <!-- fm: auto_enriched: true -->
 
@@ -15381,6 +15553,18 @@ The Slenderhead Darter is a small freshwater fish species of conservation and ec
 - [[DrainageRecordsAndConservation_14901]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+
+## Slim Midshipman
+
+### Summary
+The Slim Midshipman (Porichthys myriaster) is an edible fish reaching 38 cm length that is characteristic of muddy and sandy bays in southern California and can be picked up by hand at extreme low tide. One vertebra from a specimen approximately 30 cm long was found only at site Ora-118A, and the species has documented aboriginal use elsewhere in California.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## Slimy Sculpin
 <!-- fm: auto_enriched: true -->
@@ -16461,6 +16645,9 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 > This Scholarly Studies Program proposal (Winter 1999 review cycle) by Robert Hershler ([[NMNH]]) and Hsiu-Ping Liu ([[Southwest Missouri State University]]) seeks funding to conduct a comprehensive phylogenetic and biogeographic analysis of *[[Pyrgulopsis]]*, the largest genus of nonmarine snails...
 > -- *[[PhylogenyOfPyrgulopsisSpringsn_16724]]*
 
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[EvaluationOfSpringChinookMigra_1969]]
@@ -16485,6 +16672,7 @@ The Snake River, particularly as it relates to the arid Snake River Plain region
 - [[SalmonDecision_19385]]
 - [[DesertFishesCouncilEighteenthA_12829]]
 - [[PhylogenyOfPyrgulopsisSpringsn_16724]]
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Snake River Basin
 <!-- fm: auto_enriched: true -->
@@ -16574,11 +16762,15 @@ Snake River fall chinook salmon is a threatened species listed under the Endange
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[EffectsOfNutrientEnhancementOn_1994]]
 - [[SalmonDecision_19385]]
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Snake River Spring Summer Chinook
 
@@ -17710,6 +17902,9 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 > A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
 > -- *[[EagleCreekGreenleeCountyArizon_17216]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -17783,6 +17978,7 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 - [[ResourceReportOnAravaipaCanyon_11458]]
 - [[GilaRiverFishdistributionProje_15844]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Sonora Tiger Salamander
 <!-- fm: auto_enriched: true -->
@@ -19500,6 +19696,18 @@ Southern Arizona Water Resources Association is an organization focused on water
 
 ### Mentioned In
 - [[FishesOfTheHeadwatersOfShavers_11342]]
+
+## Southern Bluefin Tuna
+
+### Summary
+Southern Bluefin Tuna (Thunnus maccoyii) is a large marine fish species found in the Southern Ocean and Pacific Ocean, particularly around Eastern Australia, New Zealand, and Antarctic waters. This source describes a groundbreaking application of close-kin mark-recapture (CKMR) to estimate Southern Bluefin Tuna adult abundance, where analysis of 45 parent-offspring pairs identified from approximately 38 million genetic comparisons (8,000 juveniles × 5,000 adults) yielded an adult population estimate of just under 2,000,000 animals, demonstrating the method's effectiveness for estimating abundance in commercially harvested species where traditional tagging is impractical.
+
+### Context
+> **Core Problem Addressed**: Estimating adult abundance and demographic parameters (survival φ, fecundity β, population size N) in wildlife populations by generalizing mark-recapture from "recapture of self" to "recapture of closely-related kin" (parent-offspring, half-siblings) identified through...
+> -- *[[ClosekinMarkrecapture_2016]]*
+
+### Mentioned In
+- [[ClosekinMarkrecapture_2016]]
 
 ## Southern Brook Lamprey
 <!-- fm: auto_enriched: true -->
@@ -21382,6 +21590,9 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
 > -- *[[ChangesInTheFishPopulationsInT_20462]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -21557,6 +21768,7 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[GilaRiverFishdistributionProje_15844]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
 - [[ChangesInTheFishPopulationsInT_20462]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Speckled Pavon
 
@@ -22228,6 +22440,9 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 > This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
 > -- *[[ProtectionUpdatePrivateLandown_20666]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -22445,6 +22660,7 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 - [[FishAndWildlifeServiceFailsToA_16901]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
 - [[ProtectionUpdatePrivateLandown_20666]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Spikedace And Loach Minnow Study
 <!-- fm: auto_enriched: true -->
@@ -23016,11 +23232,15 @@ Spot (Leiostomus xanthurus) is one of the prey fish species identified in the st
 > This Federal Aid completion report documents a 14-year experimental program (1957-1971) introducing marine fish species from the [[Gulf of Mexico]] into the saline waters of the [[Pecos River System]] in western Texas. The program was initiated because high salinity levels (800-7,000 ppm chlorides)...
 > -- *[[MarineIntroductionsTexas_13536]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[EcologicalHistoryOfLakePontcha_13947]]
 - [[EstuarineFishesOfLouisiana_1966_11_18]]
 - [[TheInfluenceOfSizeOnStripedBas_2000]]
 - [[MarineIntroductionsTexas_13536]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Spot (Fish)
 <!-- fm: auto_enriched: true -->
@@ -23328,12 +23548,28 @@ I appreciate your question, but I must clarify that the Spotted Owl is not a fis
 > This document is a July 1990 letter from a Department of Zoology faculty member to Stewart L. Udall, former Secretary of the Interior, requesting a forward for an edited volume on endangered western fishes. The letter includes a draft forward outlining key conservation controversies involving...
 > -- *[[DraftOfForwardForBookBattleAga_13788]]*
 
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesLawSubjectOfC_1998_12_31]]
 - [[EstablishingAColoradoRiverCons_20111]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[AddendumToTheMarchEnvironmenta_11496]]
 - [[DraftOfForwardForBookBattleAga_13788]]
+- [[EightEastsideRiversWildAndScen_18297]]
+
+## Spotted Sand Bass
+
+### Summary
+The Spotted Sand Bass is a good food fish (Paralabrax maculatofasciatus, family Serranidae) that reaches a maximum recorded length of 46 cm. Two skeletal elements from fish approximately 28-38 cm long were identified from the Irvine sites, representing one of seven species caught by Gabrielino peoples in Newport Bay.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## Spotted Seatrout
 <!-- fm: auto_enriched: true -->
@@ -23468,6 +23704,18 @@ Spotted Tilapia (Tilapia mariae) is a tropical aquarium species that has been in
 
 ### Mentioned In
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
+
+## Sprague
+
+### Summary
+Sprague co-authored research with Saunders showing that copper and zinc pollution from mines caused adult Atlantic Salmon to abort their spawning migrations. The research documented avoidance reactions of salmon to copper-zinc pollution in their natural spawning environment.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Sprague 1959
 <!-- fm: auto_enriched: true -->
@@ -23807,9 +24055,13 @@ Spruce is a coniferous tree genus found in high-elevation forests. The lecture n
 > This comprehensive 1962 report by the [[Fish and Wildlife Service]] (Circular No. 143) summarizes research findings from 1960 on pesticide effects across wildlife, sport fisheries, and commercial fisheries. The document fulfills Public Law 85-582 mandating the Service to evaluate pesticide impacts...
 > -- *[[EffectsOfPesticidesOnFishAndWi_12842]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[EffectsOfPesticidesOnFishAndWi_14331]]
 - [[EffectsOfPesticidesOnFishAndWi_12842]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Spruce Creek
 <!-- fm: auto_enriched: true -->
@@ -25516,6 +25768,18 @@ Stenotrema monodon aliciae is a terrestrial gastropod found in Greenwood County,
 ### Mentioned In
 - [[MolluscaFromGreenwoodCountyKan_20276]]
 
+## Stephan
+
+### Summary
+Stephan is a researcher who studied cadmium bioaccumulation patterns in fish tissues. This source reports that Stephan worked with Mount to find that living Bluegills never accumulated more than 130 μg/g cadmium in gill tissue (dry weight), but fish that died of acute cadmium poisoning contained a minimum of 150 μg/g in gill tissue.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Stephanoberyciformes
 <!-- fm: auto_enriched: true -->
 
@@ -25740,6 +26004,18 @@ Stevens Ranch is a 60-acre property north of Slaughter Ranch that uses alfalfa i
 
 ### Mentioned In
 - [[FactorAnalysisOfSpeciesAssocia_15740]]
+
+## Stewart
+
+### Summary
+Stewart is a researcher who studied dissolved oxygen effects on fish growth and metabolism. This source reports that Stewart et al. found food conversion efficiencies in Largemouth Bass were markedly reduced only below 4 mg/l dissolved oxygen at constant concentrations, but growth was markedly impaired when fish experienced alternating low and high oxygen concentrations over 24-hour periods.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Stewart Drain
 
@@ -27074,6 +27350,18 @@ The STReaMS Database is a centralized data-sharing system used by multiple agenc
 
 ### Mentioned In
 - [[TheFreshwaterStreamAComplexEco_1970_01_01]]
+
+## Strel'tsova
+
+### Summary
+Strel'tsova is a researcher who investigated fish adaptation to varying dissolved oxygen levels. This source reports that Strel'tsova observed adaptation of Trout and Carp to various dissolved oxygen concentrations, with adaptation occurring after 22 days at 1-2°C and more rapidly at 16-17°C.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Streptomyces
 <!-- fm: auto_enriched: true -->
@@ -28501,6 +28789,18 @@ Suicide data refers to records of suicide deaths used as an application example 
 ### Mentioned In
 - [[OverkillAtOlduvaiGorge_1967_07_08]]
 
+## Suifan River
+
+### Summary
+The Suifan River experienced severe fish population declines between 1942 and 1962, with catches dropping to only 24% of earlier levels. According to Zhilenko's research, this decline was caused by domestic pollution and overfishing.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Sulfaguanidine
 <!-- fm: auto_enriched: true -->
 
@@ -28903,6 +29203,9 @@ Sunfish (family Centrarchidae) are small to medium-sized freshwater fishes nativ
 > This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
 > -- *[[CreelCensusReport_11332]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
@@ -28928,6 +29231,7 @@ Sunfish (family Centrarchidae) are small to medium-sized freshwater fishes nativ
 - [[TheMaineSmallmouth_14928]]
 - [[FishingEffortAndHarvestByArizo_15066]]
 - [[CreelCensusReport_11332]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Sunfish Creek
 <!-- fm: auto_enriched: true -->
@@ -30400,6 +30704,18 @@ Syngnathiformes is an order of bony fishes (Osteichthyes) found in the Gulf of C
 
 ### Mentioned In
 - [[GirardinusSonoriensisMczCatalo_1994_09_01]]
+
+## Syrian Rift Valley
+
+### Summary
+The Syrian Rift Valley is a critical longitudinal feature that opened during the Pliocene, establishing a major north-south axis for biotic exchange. It contains a sequence of waterways and is bordered by mountain ranges that create stepping stones for species movement, with Ethiopian wetland biota preferentially advancing northward along the rift valley bottom while Palaearctic biota advance southward along the mountain ranges.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Syringodium
 

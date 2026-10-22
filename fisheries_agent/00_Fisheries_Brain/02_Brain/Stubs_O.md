@@ -1914,8 +1914,12 @@ Oncorhynchus nerka, commonly known as sockeye salmon, is a Pacific salmon specie
 > - **Anadromous/diadromous lineages**: [[Petromyzonidae|Lampreys]] (including the invasive [[Petromyzon Marinus|Sea Lamprey]]), [[Anguillidae|American Eel]], and clupeids such as [[Alosa Pseudoharengus|Alewife]] and [[Alosa Sapidissima|American Shad]]. - **Coldwater lake specialists**: [[Salvelinu...
 > -- *[[AListOfOntarioFishes_11321]]*
 
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
 ### Mentioned In
 - [[AListOfOntarioFishes_11321]]
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Ondatra zibethicus
 
@@ -2383,6 +2387,18 @@ Opsanus tau is the scientific name for the oyster toadfish, a marine fish specie
 ### Mentioned In
 - [[TwoNewArgulidsCopepodaBranchur_18010]]
 
+## Opthof and Leydesdorff
+
+### Summary
+Opthof and Leydesdorff are researchers who published work in 2010 advocating for normalization procedures that enable statistical significance testing in research assessments based on citation indicators. This source critiques their approach, using their published examples (including analysis of 232 scholars and citation impact scores like 0.91 ± 0.11) to demonstrate fundamental flaws in applying Null Hypothesis Significance Testing to research evaluation contexts.
+
+### Context
+> **Core Problem Addressed**: This article critiques the use of statistical significance tests (specifically Null Hypothesis Significance Tests, NHST) in research assessments based on citation indicators, responding to proposals by [[Opthof and Leydesdorff]] (2010) that advocate for normalization...
+> -- *[[CaveatsForUsingStatisticalSign_2013]]*
+
+### Mentioned In
+- [[CaveatsForUsingStatisticalSign_2013]]
+
 ## Optimal Foraging Theory
 <!-- fm: auto_enriched: true -->
 
@@ -2454,8 +2470,12 @@ Orange County is a county in southern California where Pumpkinseed were reported
 > This 1955 report documents the distribution and status of the introduced [[Pumpkinseed]] (*Lepomis gibbosus*) in [[California]]. The species was considered rare in the state, with scattered populations in widely separated locations. The authors compile historical records from 1939-1954, correcting...
 > -- *[[TheStatusOfThePumpkinseedLepom_12862]]*
 
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
 ### Mentioned In
 - [[TheStatusOfThePumpkinseedLepom_12862]]
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## Orange-Spotted Sunfish
 <!-- fm: auto_enriched: true -->
@@ -3374,6 +3394,18 @@ Organpipe National Monument is a protected area relevant to Desert Pupfish conse
 ### Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 
+## Oriental Realm
+
+### Summary
+The Oriental Realm is one of three major biogeographic realms connected by the Levantine Landbridge as part of its three-way, Y-shaped exchange route. The physiographic features from rifting became detrimental to Oriental biota exchange during the Pleistocene.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
+
 ## Oriental Weatherfish
 <!-- fm: auto_enriched: true -->
 
@@ -3504,6 +3536,18 @@ Orocastus is a genus of deltocephaline leafhoppers that this source proposes sho
 
 ### Mentioned In
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
+
+## Orontes River
+
+### Summary
+The Orontes River is one of the waterways in the sequence contained within the Syrian Rift Valley system. These waterways are part of the longitudinal morphological feature that opened northward, creating a major north-south axis for biotic exchange.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Orsanco
 <!-- fm: auto_enriched: true -->
@@ -3699,6 +3743,18 @@ Oscillatoria rubescens is a blue-green algae species found in Alpine lakes that 
 
 ### Mentioned In
 - [[FurtherStudiesOnTheMetalimneti_15723]]
+
+## Oscillatoria tenius
+
+### Summary
+Oscillatoria tenius is an algal species mentioned in this 1967 literature review on water pollution effects on freshwater fish. The source does not provide specific details about this organism's role or significance in the reviewed literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Osmeridae
 <!-- fm: auto_enriched: true -->

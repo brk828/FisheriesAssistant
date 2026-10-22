@@ -1089,6 +1089,12 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
 > -- *[[ChangesInTheFishPopulationsInT_20462]]*
 
+> **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
+> -- *[[ModelingIndividualSpecificFish_2013]]*
+
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -1495,6 +1501,8 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[IntroductionOfTheBonnevilleCis_18820]]
 - [[SamplingAtAsuResearchParkApril_19429]]
 - [[ChangesInTheFishPopulationsInT_20462]]
+- [[ModelingIndividualSpecificFish_2013]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Rainbow Trout Association
 <!-- fm: auto_enriched: true -->
@@ -1931,6 +1939,18 @@ The Range and Basin Province (also called Great Basin) is an interior region tha
 
 ### Mentioned In
 - [[SedimentTransportFromBigSagebr_1975_08_11]]
+
+## Rangitikei River
+
+### Summary
+The Rangitikei River is a freshwater system in New Zealand where this study was conducted, specifically in its headwater regions. Between March 1993 and November 2004, researchers captured and measured 527 Rainbow Trout from this river across 13 tagging occasions, collecting 734 total length measurements to study individual growth patterns.
+
+### Context
+> **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
+> -- *[[ModelingIndividualSpecificFish_2013]]*
+
+### Mentioned In
+- [[ModelingIndividualSpecificFish_2013]]
 
 ## Raniceps raninus
 
@@ -2975,6 +2995,12 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
 > -- *[[SummarynovemberAndFebruaryMana_21001]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
+> This correspondence from the Arizona Game and Fish Department to Dr. W.L. Minckley documents the collection and preservation of 192 [[Razorback Sucker]] specimens from the 1994 Year Class for genetic and morphometric analysis. The collection occurred on January 31, 1995, when an earthen pond at...
+> -- *[[FollowupOnRazorbackSuckersToAs_18234]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -3769,6 +3795,8 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[ProtectionUpdatePrivateLandown_20666]]
 - [[CivilActionNoFColoradoWildlife_20991]]
 - [[SummarynovemberAndFebruaryMana_21001]]
+- [[LongtermMonitoringOfADesertFis_2021]]
+- [[FollowupOnRazorbackSuckersToAs_18234]]
 
 ## Razorback Sucker Age And Growth
 <!-- fm: auto_enriched: true -->
@@ -4845,8 +4873,12 @@ Red Salmon (Oncorhynchus nerka) is a salmonid species that was being experimenta
 > This document is a bibliography of F. Krupp's scientific output (1976–1994), spanning freshwater and marine ichthyology of the Middle East and adjacent regions. The body of work covers: (1) taxonomic descriptions and revisions of freshwater fishes from the Levant, Mesopotamia, Arabian Peninsula, ...
 > -- *[[PublicationsOfFKrupp_1988]]*
 
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
 ### Mentioned In
 - [[PublicationsOfFKrupp_1988]]
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Red Shiner
 <!-- fm: auto_enriched: true -->
@@ -5131,6 +5163,9 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
 > -- *[[SamplingAtAsuResearchParkApril_19429]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -5346,6 +5381,7 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[FishAndWildlifeServiceFailsToA_16901]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
 - [[SamplingAtAsuResearchParkApril_19429]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Red Shiners
 
@@ -5958,10 +5994,14 @@ The Redfin Shiner (*Notropis umbratilis*) is a small cyprinid minnow species com
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[EffectsOfNutrientEnhancementOn_1994]]
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Redhorse
 <!-- fm: auto_enriched: true -->
@@ -8377,8 +8417,12 @@ Rhinobatos productus (shovelnose guitarfish) is represented at the site by 3 ver
 > This zooarchaeological report by W. I. Follett analyzes 459 fish remains recovered from the [[Arroyo Sequit]] Shellmound (LAn-52) in extreme western [[Los Angeles County]], [[California]]. The site, located on a bluff rising to nearly 75 feet elevation, was occupied between approximately 1000 B.C....
 > -- *[[FishRemainsFromArroyoSequitShe_18754]]*
 
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
 ### Mentioned In
 - [[FishRemainsFromArroyoSequitShe_18754]]
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## Rhinocerophis Nasus
 <!-- fm: auto_enriched: true -->
@@ -13699,6 +13743,18 @@ The Rodeo Area is one of the principal agricultural regions in San Simon Valley 
 ### Mentioned In
 - [[ProvenanceAndDispositionOfFish_16999]]
 
+## Rogers
+
+### Summary
+Rogers documented biological changes in two Alabama streams receiving domestic wastes, demonstrating clear water quality deterioration. The research also showed subsequent recovery of these streams following pollution abatement procedures.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Rogers' Coefficient
 
 ### Summary
@@ -14931,6 +14987,9 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 > This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
 > -- *[[SamplingAtAsuResearchParkApril_19429]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -15114,6 +15173,7 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 - [[GilaRiverFishdistributionProje_15844]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
 - [[SamplingAtAsuResearchParkApril_19429]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Rounsefell And Everhart Formula
 <!-- fm: auto_enriched: true -->
@@ -15593,6 +15653,18 @@ Rutilus rutilus is a fish species that occurs in both the Amu Darya basin of Afg
 ### Mentioned In
 - [[DeclineOfTheNativeFishFaunaOfT_1974]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
+
+## Ruttkay
+
+### Summary
+Ruttkay conducted research on sub-lethal effects of dieldrin exposure in fish. The findings showed that while short-term exposure to sub-lethal dieldrin concentrations was harmless, prolonged exposure even at low concentrations had marked effects on disease resistance, ultimately resulting in mortality.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Ruttner 1953
 <!-- fm: auto_enriched: true -->

@@ -419,6 +419,18 @@ Tagelus affinis is a bivalve mollusk documented at Puerto Peñasco in the Gulf o
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
 
+## Tagging Studies
+
+### Summary
+Tagging studies involve marking individual fish to track them over time and collect repeated measurements. This study used tagging to obtain multiple length measurements from the same Rainbow Trout individuals, with data collected during 13 formal tagging occasions between 1993 and 2004, supplemented by angler-reported measurements.
+
+### Context
+> **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
+> -- *[[ModelingIndividualSpecificFish_2013]]*
+
+### Mentioned In
+- [[ModelingIndividualSpecificFish_2013]]
+
 ## Tagus Estuary
 <!-- fm: auto_enriched: true -->
 
@@ -453,6 +465,18 @@ Tahoe Hatchery is a fish hatchery facility located in the Lake Tahoe region. Acc
 ### Mentioned In
 - [[TheIntroductionOfKokaneeRedSal_18826]]
 - [[KokaneeInCalifornia_18108]]
+
+## Tahoe National Forest
+
+### Summary
+Tahoe National Forest (TNF) is a National Forest management unit on the eastside of the Sierra Nevada in California. This source indicates it manages several rivers evaluated for Wild and Scenic River designation and contains important meadow complexes, old-growth forests, and habitat for threatened and endangered species including Lahontan cutthroat trout.
+
+### Context
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
+### Mentioned In
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Tahoe State Fish Hatcheries
 
@@ -1168,6 +1192,18 @@ The Taunton River is the receiving water body for Wading River in Massachusetts,
 
 ### Mentioned In
 - [[SomeObservationsOnTheReclamati_15490]]
+
+## Taurus-Zagros Mountains
+
+### Summary
+The Taurus-Zagros Mountains form a latitudinal barrier guarding the northern approaches of the Levantine Landbridge. This barrier was extremely effective during glacial maxima in limiting biotic exchange.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Tavasci Marsh
 <!-- fm: auto_enriched: true -->
@@ -2565,6 +2601,18 @@ Testosterone is a hormone that was experimentally administered to two male chann
 ### Mentioned In
 - [[TetheredNomadismAndWaterTerrit_13512]]
 
+## Tethys Sea
+
+### Summary
+The Tethys Sea was bridged over approximately 15 million years ago during the Burdigalian age of the Miocene epoch, an event that brought the Levantine Landbridge into existence. This bridging was a critical moment in establishing the landbridge as a biogeographic filter.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
+
 ## Tethys Sea Biogeography
 <!-- fm: auto_enriched: true -->
 
@@ -3013,6 +3061,30 @@ Thamnophis eques is identified as one of several sensitive taxa that occur in th
 ### Mentioned In
 - [[StatusReportLilaeopsisSchaffne_14909]]
 
+## Thar Desert
+
+### Summary
+The Thar Desert represents the eastern extent of the Palaeoeremic Desert belt, which extends from the African Atlantic coast to this Indian desert. This continent-sized desert belt is latitudinal in extension and perpendicular to intercontinental biotic exchange routes.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
+
+## Thatcher
+
+### Summary
+Thatcher is a researcher who investigated detergent toxicity to freshwater fish. This source reports that Thatcher and Santner determined toxicity of linear alkyl sulfonate (LAS) detergent to five freshwater fish species in flowing water systems, finding that Lake Emerald Shiners were most sensitive while Black Bullheads were most tolerant.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Thatcher, Arizona
 
 ### Summary
@@ -3261,6 +3333,9 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 > This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
 > -- *[[SummarynovemberAndFebruaryMana_21001]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[AssignmentsMadeAtFebruaryMeeti_1992_02_19]]
 - [[AttemptedReEstablish_1969_03_06]]
@@ -3324,6 +3399,7 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 - [[FishAndWildlifeServiceFailsToA_16901]]
 - [[SummaryaprilManagementGroupMee_20995]]
 - [[SummarynovemberAndFebruaryMana_21001]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## The Nature Conservancy Hassayampa Preserve
 
@@ -7544,8 +7620,12 @@ Triakis semifasciata (leopard shark) is represented at the site by 24 vertebral 
 > This zooarchaeological report by W. I. Follett analyzes 459 fish remains recovered from the [[Arroyo Sequit]] Shellmound (LAn-52) in extreme western [[Los Angeles County]], [[California]]. The site, located on a bluff rising to nearly 75 feet elevation, was occupied between approximately 1000 B.C....
 > -- *[[FishRemainsFromArroyoSequitShe_18754]]*
 
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
 ### Mentioned In
 - [[FishRemainsFromArroyoSequitShe_18754]]
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## Triangle-leaf Bursage
 
@@ -8389,6 +8469,18 @@ A trophic cascade is a series of ecological changes triggered by the addition or
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
 
+## Trophy Fishery Management
+
+### Summary
+Trophy fishery management aims to maintain populations of large, desirable fish for recreational angling. The study's finding that 10-30% of captured Rainbow Trout were fully mature at maximum length, combined with data on sex-specific maximum sizes, provides information relevant to managing trophy fisheries where anglers target the largest individuals.
+
+### Context
+> **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
+> -- *[[ModelingIndividualSpecificFish_2013]]*
+
+### Mentioned In
+- [[ModelingIndividualSpecificFish_2013]]
+
 ## Tropical Fish Culture Institute
 
 ### Summary
@@ -8495,6 +8587,9 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > This technical guidance document from the U.S. Department of Agriculture [[Soil Conservation Service]] provides specifications for designing and constructing farm ponds optimized for fish production. The document addresses water supply management, pond dimensions, outlet structures, vegetation...
 > -- *[[HowToBuildAFarmPondForFishProd_13264]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -8538,6 +8633,7 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[EthnographyOfTheNorthernUtes_21134]]
 - [[DramaticBattleForWaterBehindTh_18467]]
 - [[HowToBuildAFarmPondForFishProd_13264]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Trout Creek
 <!-- fm: auto_enriched: true -->

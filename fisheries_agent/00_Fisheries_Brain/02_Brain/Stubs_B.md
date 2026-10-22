@@ -2765,6 +2765,18 @@ Bass-Bluegill refers to a traditional polyculture pond management system combini
 ### Mentioned In
 - [[EnvironmentAndCultureInRetrosp_11357]]
 
+## Bat Stingray
+
+### Summary
+The Bat Stingray (Myliobatis californica) is a ray species that was widely utilized by California aboriginal peoples. This source reports 4 incomplete centra from specimens of perhaps 10 kg weight at the Irvine sites, and notes that the largest specimen on record (95 kg female) was caught in Newport Bay.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
+
 ## Batchelor Turbulence Theory
 <!-- fm: auto_enriched: true -->
 
@@ -4763,6 +4775,18 @@ Benthic macroinvertebrates are large invertebrate organisms that inhabit the bot
 ### Mentioned In
 - [[FieldTrialsOfAntimycinAsASelec_14082]]
 
+## Berglund
+
+### Summary
+Berglund is a researcher who studied mercury bioaccumulation in humans from fish consumption. This source reports that Berglund and Wretlind found that persons eating 200 g of fish from mercury-polluted water had blood concentrations 20-30 times greater than normal.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Bering Land Bridge
 <!-- fm: auto_enriched: true -->
 
@@ -4968,6 +4992,18 @@ The Bethel Island Rod and Gun Club was an angling organization that participated
 ### Mentioned In
 - [[CareOfTropicalAquariumFishes_13271]]
 - [[SocialModificationOfAgonisticB_1968]]
+
+## Betts
+
+### Summary
+Betts is a researcher mentioned in this 1967 literature review on water pollution effects on freshwater fish. The source does not provide specific details about Betts' research contributions or findings in the reviewed literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Beverton-Holt Model
 <!-- fm: auto_enriched: true -->
@@ -7817,6 +7853,18 @@ Black Bullhead Catfish (Ictalurus melas) is a catfish species in the family Icta
 ### Mentioned In
 - [[StatewideRoughFishControleradi_14930]]
 - [[TheEnvironmentalConditionsOfAn_16280]]
+
+## Black Bullheads
+
+### Summary
+Black Bullheads are a freshwater fish species known for pollution tolerance. This source reports they were the most tolerant of five freshwater fish species tested for toxicity to linear alkyl sulfonate (LAS) detergent in flowing water systems.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Black Canyon
 <!-- fm: auto_enriched: true -->
@@ -11165,6 +11213,18 @@ Bluegill sunfish (*Lepomis macrochirus*) is a small freshwater centrarchid speci
 - [[TheEnvironmentalConditionsOfAn_16280]]
 - [[ForageFish_12530]]
 - [[GlenCanyonReservoirPostimpound_14587]]
+
+## Bluegills
+
+### Summary
+Bluegills are a freshwater fish species commonly used in toxicology studies. This source reports they were used to study cadmium accumulation, with research showing that living fish never accumulated more than 130 μg/g cadmium in gill tissue (dry weight), but fish that died of acute cadmium poisoning contained a minimum of 150 μg/g in gill tissue.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## bluehead
 
@@ -16669,6 +16729,9 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This experimental study investigated how light exposure, diet composition, and spawner age affect the physical and chemical characteristics of [[Brown Trout]] ([[Salmo trutta]]) eggs and fry at the [[Cortland Fish Hatchery]]. Four groups of spawning trout were maintained under different conditions:...
 > -- *[[EffectOfLightDietAndAgeOfSpawn_19154]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -16868,6 +16931,7 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[TheSusceptibilityOfSalmonidFis_16704]]
 - [[IntroductionOfTheBonnevilleCis_18820]]
 - [[EffectOfLightDietAndAgeOfSpawn_19154]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Brown Trout Natural Feeding Activity
 <!-- fm: auto_enriched: true -->
@@ -17047,9 +17111,25 @@ Bruneau Hot Spring Snail is a proposed threatened or endangered aquatic inverteb
 > This annual completion report documents water quality investigations conducted by the [[Idaho Fish and Game Department]] from November 1, 1964 to October 31, 1965 across multiple Idaho water bodies. The study comprised two primary jobs: (1) general water quality investigations focusing on nutrient...
 > -- *[[FederalAidToFishRestorationAnn_19654]]*
 
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
 ### Mentioned In
 - [[TheCurrentStatusOfTheBruneauHo_1989_11_16]]
 - [[FederalAidToFishRestorationAnn_19654]]
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
+
+## Brungs
+
+### Summary
+Brungs is mentioned as a researcher in the 1967 literature review on water pollution effects on freshwater fish. However, the specific findings or contributions of this researcher are not detailed in the provided source text.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Bruns And Minckley 1980
 <!-- fm: auto_enriched: true -->
@@ -17248,8 +17328,12 @@ Bubbling Pond is a spring or pond location in Arizona that was documented in the
 > - **Sampling overlap risk**: AGF and USFWS field efforts (seining, minnow trapping) showed only "marginal" temporal/spatial overlap, but **repeated seining at the same sites risked biasing compositional and distributional data**. - **Differing research objectives**: USFWS focused on **habitat cha...
 > -- *[[GlenCanyonEnvironmentalStudies_1993_01_28]]*
 
+> This correspondence from the Arizona Game and Fish Department to Dr. W.L. Minckley documents the collection and preservation of 192 [[Razorback Sucker]] specimens from the 1994 Year Class for genetic and morphometric analysis. The collection occurred on January 31, 1995, when an earthen pond at...
+> -- *[[FollowupOnRazorbackSuckersToAs_18234]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1993_01_28]]
+- [[FollowupOnRazorbackSuckersToAs_18234]]
 
 ## Bubbling Ponds Fish Hatchery
 <!-- fm: auto_enriched: true -->
@@ -17457,8 +17541,12 @@ Bucksport, Maine was the site of one of the first Federal fish culture facilitie
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Bucksport Maine
 
@@ -18468,6 +18556,18 @@ The burbot (*Lota lota*) is a freshwater gadiform fish species and the only true
 - [[ElectrofishingAndItsHarmfulEff_2003]]
 - [[ListOfFishesReportedFromKansas_18026]]
 
+## Burdick
+
+### Summary
+Burdick is mentioned as a researcher in the 1967 literature review on water pollution effects on freshwater fish. However, the specific findings or contributions of this researcher are not detailed in the provided source text.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Burdick Et Al 1954
 <!-- fm: auto_enriched: true -->
 
@@ -18558,6 +18658,9 @@ The Bureau of Indian Affairs, in the context of fish science and aquatic conserv
 > This document is a preliminary review by the [[U.S. Fish and Wildlife Service]] (Service) of a May 1995 report submitted by the [[Central Arizona Water Conservation District]] (CAWCD) challenging the Service's April 20, 1994 biological opinion on the [[Central Arizona Project]] (CAP). The...
 > -- *[[LetterToCentralArizonaWaterCon_17898]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[InteragencySouthwestStrategyFo_1997_11_12]]
@@ -18571,6 +18674,7 @@ The Bureau of Indian Affairs, in the context of fish science and aquatic conserv
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[PreliminaryReviewAndAnalysisOf_11672]]
 - [[LetterToCentralArizonaWaterCon_17898]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Bureau of Land Management
 <!-- fm: auto_enriched: true -->
@@ -18750,6 +18854,12 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -18858,6 +18968,8 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 - [[AProposedMonitoringProtocolFor_13782]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[EightEastsideRiversWildAndScen_18297]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Bureau of Land Management - San Pedro River
 <!-- fm: auto_enriched: true -->
@@ -19180,6 +19292,9 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
 > -- *[[SummarynovemberAndFebruaryMana_21001]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -19341,6 +19456,7 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[CivilActionNoFColoradoWildlife_20991]]
 - [[SummaryoctoberManagementGroupM_21000]]
 - [[SummarynovemberAndFebruaryMana_21001]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Bureau Of Reclamation (Br-Gces)
 <!-- fm: auto_enriched: true -->

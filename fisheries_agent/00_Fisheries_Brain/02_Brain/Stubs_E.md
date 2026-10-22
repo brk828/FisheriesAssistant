@@ -1466,6 +1466,9 @@ Ecosystem Management in fish science and aquatic conservation refers to the inte
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[IssuesAndAlternativesForUseOfH_1994_05_31]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
@@ -1473,6 +1476,7 @@ Ecosystem Management in fish science and aquatic conservation refers to the inte
 - [[ViewsOfAFishBiologistFromAFede_15069]]
 - [[BureauOfLandManagementManualHa_11459]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Ecosystem Metabolism
 <!-- fm: auto_enriched: true -->
@@ -3375,6 +3379,18 @@ The Elkhorn River is a tributary in the Platte River Basin where it meets the Mi
 ### Mentioned In
 - [[AlternativeApproachesToHcpsFor_16735]]
 
+## Elko County
+
+### Summary
+Elko County is a county in Nevada where Deer Creek Cave is located, approximately 4 miles north of Jarbidge and near the Idaho boundary. The cave site, at approximately 5,800 feet elevation near the confluence of Deer Creek and the Jarbidge River, yielded archaeological fish remains dated to 2,585±150 years before present.
+
+### Context
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
+### Mentioned In
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
+
 ## Ellen Mosley-Thompson
 <!-- fm: auto_enriched: true -->
 
@@ -3667,6 +3683,18 @@ Elops saurus is the Atlantic relative of Elops affinis (the ten-pounder) and is 
 
 ### Mentioned In
 - [[AGameFishForTheSaltonSeaTheTen_12860]]
+
+## Elson
+
+### Summary
+Elson was a researcher who collaborated with Kerswill to study the effects of DDT spraying for Spruce Budworm control in New Brunswick on Atlantic Salmon populations. Their research documented that DDT-in-oil at 620 g/ha caused heavy losses of underyearling salmon and parr within 3 weeks of application.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Elton'S Food Chain Concept
 <!-- fm: auto_enriched: true -->
@@ -5153,6 +5181,9 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This memorandum and Director's Order No. 94, dated February 1993, establishes official [[U.S. Fish and Wildlife Service]] policy regarding the participation of State agencies in activities conducted under the [[Endangered Species Act]] of 1973, as amended. The order clarifies coordination and...
 > -- *[[ParticipationOfStateAgenciesIn_21205]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -5563,6 +5594,7 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[SummaryaprilManagementGroupMee_20995]]
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[ParticipationOfStateAgenciesIn_21205]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Endangered Species Act - Colorado River Basin Fishes
 <!-- fm: auto_enriched: true -->
@@ -5946,6 +5978,9 @@ Endangered Species Recovery in fish science refers to the coordinated management
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
 > -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[Gila Topminnow Reintroduction_1996_07_25]]
 - [[GrowoutPondsUsefulForColoradoS_13321]]
@@ -5956,6 +5991,7 @@ Endangered Species Recovery in fish science refers to the coordinated management
 - [[ComplexEffectsOfPredatorsDeter_2001]]
 - [[RazorbackSuckerMovementStrateg_2020]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Endangered Species Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -7391,8 +7427,12 @@ Ergasilidae is the family of parasitic copepods to which Ergasilus sieboldi belo
 > This report documents the first British record of the parasitic copepod *[[Ergasilus sieboldi]]* Nordmann, discovered in July 1967 on [[Brown Trout]] (*Salmo trutta*) in [[Howbrook Reservoir]], Yorkshire. Previously common on freshwater fishes throughout continental Europe but absent from Britain,...
 > -- *[[TheParasiticCopepodErgasilusSi_18883]]*
 
+> This taxonomic description establishes *Therodamas dawsoni* as a new species of parasitic copepod (Cyclopoida: Ergasilidae) from the Pacific coast of [[Panama]]. A single female specimen was collected from the pectoral fin base of a stargazer fish, [[Dactyloscopus thysannotus]], at Chiriqui, Panama...
+> -- *[[TherodamasDawsoniANewSpeciesOf_18011]]*
+
 ### Mentioned In
 - [[TheParasiticCopepodErgasilusSi_18883]]
+- [[TherodamasDawsoniANewSpeciesOf_18011]]
 
 ## Ergasilus sieboldi
 
@@ -9401,6 +9441,18 @@ Etheostomatinae is a subfamily of small benthic percid fishes commonly known as 
 ### Mentioned In
 - [[BiologicalNotesOnSomeEastAfric_14561]]
 
+## Ethiopian Realm
+
+### Summary
+The Ethiopian Realm is one of three major biogeographic realms connected by the Levantine Landbridge. Ethiopian wetland biota preferentially advance northward along the Syrian Rift Valley bottom, though their northward advance became increasingly limited during later Pleistocene stages due to deepening rift valleys and rising mountain ranges.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
+
 ## Ethogram Methodology
 <!-- fm: auto_enriched: true -->
 
@@ -9700,6 +9752,18 @@ Eulachon (Thaleichthys pacificus) is an anadromous fish species found in the Kla
 
 ### Mentioned In
 - [[ThePlanktonSamplerAnInstrument_1950]]
+
+## Euphrates River
+
+### Summary
+The Euphrates River is one of the waterways in the sequence contained within the Syrian Rift Valley system. These segments were never continuously connected but formed part of the rift valley's role in establishing a major axis for biotic exchange.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Eupomotis Gibbosus
 <!-- fm: auto_enriched: true -->

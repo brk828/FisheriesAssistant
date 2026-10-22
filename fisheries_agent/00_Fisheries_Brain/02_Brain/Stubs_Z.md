@@ -236,6 +236,18 @@ Zenaida macroura is the mourning dove, a game bird species. This source lists it
 ### Mentioned In
 - [[FirstRecordOfAnAdultOreoAllocy_1983]]
 
+## Zhilenko
+
+### Summary
+Zhilenko reported on the decline of fish populations in the Suifan River, documenting that the 1962 fish catch was only 24% of the 1942 catch. This dramatic decline was attributed to domestic pollution and overfishing over the twenty-year period.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Zhob-Gowmal River
 
 ### Summary
@@ -538,6 +550,18 @@ Zoological Record is a major indexing and abstracting service covering zoologica
 ### Mentioned In
 - [[ListOfCurrentFisheriesAndWildl_20304]]
 - [[BibliographyOnTheBloodChemistr_14517]]
+
+## Zoological Survey of Saudi Arabia
+
+### Summary
+The Zoological Survey of Saudi Arabia is a systematic animal inventory project that began in 1975, focusing on terrestrial, limnetic, and marine taxa with applications to medical, veterinary, and agricultural zoology, as well as nature conservation. The survey involves taxonomic studies by 160 specialists and has resulted in the publication of eight volumes of "Fauna of Saudi Arabia," with preliminary findings leading to the proposal of 40 terrestrial areas for establishment as nature reserves.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Zoology
 <!-- fm: auto_enriched: true -->

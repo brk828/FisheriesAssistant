@@ -413,9 +413,13 @@ The Pacific Northwest is the native range of Kokanee salmon. This source identif
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[KokaneeInCalifornia_18108]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Pacific Northwest Coastal Rain-Forest Ecoregion
 <!-- fm: auto_enriched: true -->
@@ -457,6 +461,9 @@ The Pacific Ocean, in the context of fish science and conservation biology, repr
 > This paper documents the first confirmed records of true eels (Family [[Anguillidae]]) captured alive in California waters. Two specimens representing different species were taken from the [[Sacramento-San Joaquin Delta]]: [[Anguilla rostrata]] (American Eel) in 1964 and [[Anguilla anguilla]]...
 > -- *[[AnguillaRecordedFromCalifornia_19016]]*
 
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
 ### Mentioned In
 - [[AKeyToTheSnooksGenusCentropomu_17270]]
 - [[StationProfileOfKooskiaNationa_19543]]
@@ -468,6 +475,7 @@ The Pacific Ocean, in the context of fish science and conservation biology, repr
 - [[TheHydrographicAndFaunalIndepe_19989]]
 - [[DraftsAndNotesOnTheCyprinidFis_15336]]
 - [[AnguillaRecordedFromCalifornia_19016]]
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## Pacific Railroad Survey
 
@@ -536,6 +544,9 @@ Pacific Salmon refers to anadromous fish species (primarily Oncorhynchus spp.) n
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[ASystemForRecordingMeasurement_1947]]
 - [[DamRemovalWhoShouldPay_1999_09_26]]
@@ -566,6 +577,7 @@ Pacific Salmon refers to anadromous fish species (primarily Oncorhynchus spp.) n
 - [[BibliographyOnTheBloodChemistr_14517]]
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Pacific Salmon Commission
 <!-- fm: auto_enriched: true -->
@@ -1547,6 +1559,18 @@ The Paiute Indian Tribe is not mentioned in this conservation strategy document 
 ### Mentioned In
 - [[TheCreamInTheGooseberryFool_14542]]
 
+## Palaearctic Realm
+
+### Summary
+The Palaearctic Realm is one of three major biogeographic realms selectively separated by the Levantine Landbridge. Palaearctic biota advance southward along mountain ranges, and the deepening rift valley and rising mountain ranges during the later Pleistocene established an evident predominance of southward-advancing Palaearctic biota.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
+
 ## Palaemon Macrodactylus
 <!-- fm: auto_enriched: true -->
 
@@ -1593,6 +1617,18 @@ The Paiute Indian Tribe is not mentioned in this conservation strategy document 
 - [[PalaemonetesPaludosu_1969]]
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
+
+## Palaeoeremic Desert
+
+### Summary
+The Palaeoeremic Desert (also called the "Saharo-Sindian" belt) is a continent-sized, extremely arid desert that extends from the African Atlantic coast to the Indian Thar Desert and was established during the Miocene. It represents the most important barrier to biotic interchange across the Levantine Landbridge and is both a barrier and a center of biotic evolution, having recruited and evolved specific fauna from Ethiopian, Palaearctic, and old Cenozoic Oriental stocks.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Palau Dove
 
@@ -2287,8 +2323,12 @@ Panama was a tropical region where significant ichthyological work was conducted
 > This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
 > -- *[[BriefBographiesOfLeadingIchthy_12677]]*
 
+> This taxonomic description establishes *Therodamas dawsoni* as a new species of parasitic copepod (Cyclopoida: Ergasilidae) from the Pacific coast of [[Panama]]. A single female specimen was collected from the pectoral fin base of a stargazer fish, [[Dactyloscopus thysannotus]], at Chiriqui, Panama...
+> -- *[[TherodamasDawsoniANewSpeciesOf_18011]]*
+
 ### Mentioned In
 - [[BriefBographiesOfLeadingIchthy_12677]]
+- [[TherodamasDawsoniANewSpeciesOf_18011]]
 
 ## Panchax
 
@@ -2951,6 +2991,18 @@ Paralabrax clathratus (kelp bass) is represented at the site by 2 bones, though 
 ### Mentioned In
 - [[FishRemainsFromArroyoSequitShe_18754]]
 
+## Paralabrax maculatofasciatus
+
+### Summary
+Paralabrax maculatofasciatus is the Spotted Sand Bass, a good food fish from the family Serranidae that reaches a maximum length of 46 cm. This source documents two skeletal elements from specimens approximately 28-38 cm long found at the Irvine archaeological sites.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
+
 ## Paralabrax Nebulifer
 <!-- fm: auto_enriched: true -->
 
@@ -3033,6 +3085,18 @@ Paraleptophlebia praepedita is a larger species of mayfly in the same genus as P
 
 ### Mentioned In
 - [[AnEarlyseasonMayfly_20288]]
+
+## Paralichthys californicus
+
+### Summary
+Paralichthys californicus is the California Halibut, a good food fish that can reach 152 cm length and 28 kg weight. This source documents 6 skeletal elements from specimens ranging 25-66 cm in total length from the Irvine archaeological sites, representing one of seven species exploited from Newport Bay.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## Paraliodesmus Guadagnii
 <!-- fm: auto_enriched: true -->
@@ -5288,6 +5352,18 @@ Pena Blanca Lake is a warmwater Arizona reservoir that served as a study site fo
 ### Mentioned In
 - [[CircatidalActivityRhythmsAndTh_1977]]
 
+## Penaz
+
+### Summary
+Penaz is a researcher mentioned in this 1967 literature review on water pollution effects on freshwater fish. The source does not provide specific details about Penaz's research contributions or findings in the reviewed literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Pence Draw
 
 ### Summary
@@ -5505,6 +5581,30 @@ Pentamera chierchia is a smooth reddish-purple sea cucumber found in the rocky i
 
 ### Mentioned In
 - [[OperationalPlanForTheReclamati_13373]]
+
+## Perazzo Creek
+
+### Summary
+Perazzo Creek is one of eight eastside rivers in the study area that contains known old-growth forest communities along its corridor. These old-growth forests provide recruitment of large woody debris to the stream environment, which is essential for creating fish rearing habitat and maintaining stream channel complexity.
+
+### Context
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
+### Mentioned In
+- [[EightEastsideRiversWildAndScen_18297]]
+
+## Perazzo Meadow
+
+### Summary
+Perazzo Meadow is an approximately 1.5-mile-long meadow complex in the study area that exhibits high botanical diversity. It contains plants common to both the Great Basin and Sierra Nevada, reflecting the unique ecological position of the eastside Sierra Nevada where these two floras overlap.
+
+### Context
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
+### Mentioned In
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Perca Flavescens
 <!-- fm: auto_enriched: true -->
@@ -7601,6 +7701,18 @@ Phenol is a toxic organic compound that represents a significant water pollutant
 
 ### Mentioned In
 - [[EffectsOfPineLitterOnQualityOf_11341]]
+
+## Phenotypic Diversity
+
+### Summary
+Phenotypic diversity refers to the variation in observable characteristics within a population. This study documented substantial individual variation in both maximum length (σ_L) and growth rate (σ_k) among Rainbow Trout, demonstrating considerable phenotypic diversity in growth characteristics that is critical for population viability analysis and understanding the population's adaptive potential.
+
+### Context
+> **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
+> -- *[[ModelingIndividualSpecificFish_2013]]*
+
+### Mentioned In
+- [[ModelingIndividualSpecificFish_2013]]
 
 ## Phenotypic Plasticity
 <!-- fm: auto_enriched: true -->
@@ -13013,6 +13125,18 @@ A groundfish species mentioned as one of the major species covered in this marke
 ### Mentioned In
 - [[FoodFishfreshAndFrozenProducts_11510]]
 
+## Pollock's Robust Design
+
+### Summary
+Pollock's Robust Design is referenced as an approach that combines closed-population models within primary sampling periods with open-population models between periods. This source mentions it as an alternative method for handling dispersal in mark-recapture studies, but notes that like Jolly-Seber, it requires multiple sampling occasions and greater effort than two-sample methods, making it less suitable for large-scale routine monitoring programs where simplicity and cost-effectiveness are priorities.
+
+### Context
+> **Core Problem Addressed**: Quantifying and reducing the bias of Chapman's estimator for stream fish abundance when the spatial closure assumption is violated by dispersal between sampling occasions. The standard 2-sample mark-recapture method assumes no fish enter or exit the study reach between...
+> -- *[[ReducingEffectsOfDispersalOnTh_2018]]*
+
+### Mentioned In
+- [[ReducingEffectsOfDispersalOnTh_2018]]
+
 ## Pollution
 <!-- fm: auto_enriched: true -->
 
@@ -13780,6 +13904,18 @@ Pontiac Lake is a 585-acre warm-water lake in Oakland County, Michigan, connecte
 ### Mentioned In
 - [[DescriptionOfNewFishesOfBermud_1912_07_31]]
 
+## Pontoporeia affinis
+
+### Summary
+Pontoporeia affinis is an amphipod species studied in Green Bay, Lake Michigan for pesticide bioaccumulation. Research by Hickey and colleagues found this species concentrated pesticides approximately 50 times relative to mud levels, with fish showing an additional 10-fold increase in tissue concentrations.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Pool 19
 <!-- fm: auto_enriched: true -->
 
@@ -14150,6 +14286,9 @@ Population Viability Analysis (PVA) is a quantitative modeling approach used to 
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) is a large-bodied, invasive piscivore established in the [[Yampa River]] basin since the 1970s. Captured individuals ranged 59–1,120 mm TL (mean = 465 mm TL). Mean TL was greatest downstream (Maybell–Sunbeam reach: 519 mm) and...
 > -- *[[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]*
 
+> **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
+> -- *[[ModelingIndividualSpecificFish_2013]]*
+
 ### Mentioned In
 - [[DraftMeetingSummaryPopulationV_1991_03_07]]
 - [[InvitationLetterAndAgendaForPo_1991_01_16]]
@@ -14160,6 +14299,7 @@ Population Viability Analysis (PVA) is a quantitative modeling approach used to 
 - [[RefinementOfRecoveryGoalsForTh_1990_12_03]]
 - [[DeclineOfTheRazorbackSuckerInL_2003]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
+- [[ModelingIndividualSpecificFish_2013]]
 
 ## Populus
 
@@ -14279,8 +14419,12 @@ Porichthys myriaster is the slim midshipman, a member of the toadfish family (Ba
 > This zooarchaeological report by W. I. Follett analyzes 459 fish remains recovered from the [[Arroyo Sequit]] Shellmound (LAn-52) in extreme western [[Los Angeles County]], [[California]]. The site, located on a bluff rising to nearly 75 feet elevation, was occupied between approximately 1000 B.C....
 > -- *[[FishRemainsFromArroyoSequitShe_18754]]*
 
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
 ### Mentioned In
 - [[FishRemainsFromArroyoSequitShe_18754]]
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## Porites californica
 
@@ -15101,6 +15245,18 @@ The Greater Prairie Chicken is a grouse species that was part of artificial prop
 
 ### Mentioned In
 - [[ADistributionalAtlas_1986_10_01]]
+
+## Precht
+
+### Summary
+Precht and colleagues studied thermal adaptation in fish, specifically examining Idus idus (ide). Their research found that the frequency of opercular (gill cover) movement decreases continuously over long periods if the adaptation temperature is suddenly lowered.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Predation
 <!-- fm: auto_enriched: true -->
@@ -16453,8 +16609,13 @@ Prosopium is a genus within the Salmonidae family, specifically belonging to the
 ## Prosopium Williamsoni
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
 ### Mentioned In
 - [[FoodHabitsOfTheYellowstoneWhit_1950]]
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Prosopium Williamsoni Cismontanus
 <!-- fm: auto_enriched: true -->
@@ -17536,8 +17697,13 @@ Ptychocheilus lucius, commonly known as the Colorado squawfish, is a large nativ
 ## Ptychocheilus Oregonensis
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
 ### Mentioned In
 - [[HatcheryAndLaboratoryPhaseOfTh_1980]]
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Ptychochilus Lucius
 <!-- fm: auto_enriched: true -->

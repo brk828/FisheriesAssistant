@@ -98,6 +98,18 @@ G. C. Williams was an evolutionary biologist whose 1966 book 'Adaptation and Nat
 ### Mentioned In
 - [[ConstructionAndOperatingEf_19150]]
 
+## Gabrielino
+
+### Summary
+The Gabrielino were indigenous peoples of southern California whose territory included the Irvine area. This source documents fish remains from two Gabrielino archaeological sites (Ora-118A and Ora-119A, B) that demonstrate their subsistence fishing practices in the Newport Bay area during prehistoric times.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
+
 ## Gadiculus argenteus thori
 
 ### Summary
@@ -253,6 +265,18 @@ Gaidropsarus mediterraneus (Shore Rockling) is a member of subfamily Lotinae wit
 
 ### Mentioned In
 - [[TheDistributionOfTheFreshwater_1979]]
+
+## Gakstatter
+
+### Summary
+Gakstatter was a researcher who worked with Weiss to investigate the elimination of radioactively-labeled pesticides (DDT, dieldrin, and lindane) from fish following single exposure. Their studies showed that lindane was eliminated within 2 days, while more than 90% of dieldrin was eliminated after 32 days of recovery.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Galapagos Campaign
 <!-- fm: auto_enriched: true -->
@@ -1796,6 +1820,18 @@ The Gammarus-Pecos Complex is a group of seven freshwater-to-miohaline amphipod 
 
 ### Mentioned In
 - [[TheLimnologyPrimaryProductionA_14690]]
+
+## Ganges River
+
+### Summary
+The Ganges River was documented as receiving domestic sewage pollution that caused complete deoxygenation in some areas. However, the river's rapid currents prevented total oxygen depletion despite the heavy pollution loads.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Gap Analysis Program
 
@@ -3682,6 +3718,18 @@ The Giant Rams-horn Snail (Marisa cornuarietis) is a non-native aquatic organism
 
 ### Mentioned In
 - [[RetentionOfMercuryInTheMuscleO_12637]]
+
+## Gibraltar Straits
+
+### Summary
+The Gibraltar Straits is a geographic feature at the western end of the Mediterranean Sea. According to this source, it was part of a broader front through which the Levantine Landbridge biogeographic filter episodically operated, serving as one of the connection points between the Mediterranean region and adjacent biogeographic realms.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Gibson 1954
 <!-- fm: auto_enriched: true -->
@@ -6286,6 +6334,9 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > The [[Gila River]] Fish-Distribution Project represents a comprehensive database effort documenting the dramatic decline of native freshwater fish fauna in the [[Gila River Basin]] through analysis of museum specimens and peer-reviewed literature. Led by W.L. Minckley at Arizona State University...
 > -- *[[GilaRiverFishdistributionProje_15844]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -6438,6 +6489,7 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[GilaRiverFishdistributionProje_15844]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Gila River Basin Endemic Fishes
 <!-- fm: auto_enriched: true -->
@@ -7432,6 +7484,9 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
 > -- *[[ProtectionUpdatePrivateLandown_20666]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -7678,6 +7733,7 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[AquaticInventoryOfTheBillWilli_12503]]
 - [[GilaRiverFishdistributionProje_15844]]
 - [[ProtectionUpdatePrivateLandown_20666]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Gila Topminnow Decline
 <!-- fm: auto_enriched: true -->
@@ -10743,6 +10799,9 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 > This U.S. Fish and Wildlife Service Biological Opinion (dated April 15, 1994) addresses the transportation and delivery of [[Colorado River]] water through the [[Central Arizona Project]] (CAP) aqueduct to water users in the [[Gila River Basin]] in Arizona and New Mexico. The opinion focuses...
 > -- *[[SummaryBiologicalOpinionOnTran_11705]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -10804,6 +10863,7 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 - [[FishesOfGreatSmokyMountainsNat_20242]]
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Goldman 1960
 <!-- fm: auto_enriched: true -->
@@ -11499,6 +11559,18 @@ Gordon R. Smith was one of the major collectors associated with the University o
 
 ### Mentioned In
 - [[LakeMohaveRazorbackSuckerMonit_1996_05_06]]
+
+## Goshawk
+
+### Summary
+The Goshawk is listed as both a Forest Service and California sensitive species in the study area. It is among the sensitive wildlife species that may benefit from Wild and Scenic River designation and the associated protection of riparian corridors and old-growth forest habitat in the eight eastside rivers.
+
+### Context
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
+### Mentioned In
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Goshute Valley
 
@@ -12927,6 +12999,18 @@ Grand Wash Fontelicella is an undescribed Fontelicella species endemic to Whiske
 ### Mentioned In
 - [[FederalListedAndCandidateSpeci_1995_06_12]]
 
+## Grande
+
+### Summary
+Grande is a researcher who studied heavy metal toxicity to salmonid early life stages. This source reports that Grande conducted experiments on effects of copper and zinc on eggs, fry, and fingerlings of Atlantic Salmon, Brown Trout, and Rainbow Trout, finding that small amounts of both metals reduced hatching percentages.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Grandview
 
 ### Summary
@@ -13498,6 +13582,18 @@ The Gray Fox (Urocyon cinereoargenteus) is a native carnivore inhabiting desert 
 - [[ArizonaDepartmentOfWaterResour_18960]]
 - [[SanPedroRiparianNationalConser_11468]]
 
+## Gray Smoothhound
+
+### Summary
+The Gray Smoothhound is an edible shark species (Mustelus californicus, family Triakididae) that reaches a maximum recorded length of 107 cm. One specimen approximately 65 cm long was identified from the Irvine archaeological sites, found only at site Ora-119B.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
+
 ## Gray Triggerfish
 
 ### Summary
@@ -13752,6 +13848,9 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 > This 1991 correspondence from E.P. Pister, Executive Secretary of the [[Desert Fishes Council]], to Bruce Schmidt of the [[Utah Division of Wildlife Resources]] clarifies philosophical positions on fisheries management presented at the Western Division AFS meeting in Bozeman. The letter addresses...
 > -- *[[ReactionsToTalkAtAfsMeetingInB_18595]]*
 
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
 ### Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -13770,6 +13869,7 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 - [[TheMonoBasin_15632]]
 - [[OccurrencesOfTheLostRiverSucke_17577]]
 - [[ReactionsToTalkAtAfsMeetingInB_18595]]
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Great Basin Complex
 
@@ -14549,8 +14649,12 @@ Grebe Pond is one of the larger water bodies on Buenos Aires National Wildlife R
 > 4. **Fishery methods:** Commercial harvest occurs primarily January–March under ice in [[Green Bay]] using small-mesh (1-1/4 to 1-3/4 inch) gill nets, fyke nets, and pound nets. Recreational harvest includes ice-fishing via shanties (hook and line) and spring dip-netting with hand nets during spa...
 > -- *[[TheSmeltOsmerusMordaxMitchill_13092]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[TheSmeltOsmerusMordaxMitchill_13092]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Green Creek
 <!-- fm: auto_enriched: true -->
@@ -15910,6 +16014,9 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 > This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
 > -- *[[SummarynovemberAndFebruaryMana_21001]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AFishPopulationStudyOfThirdSis_1942]]
@@ -16154,6 +16261,7 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 - [[FisheriesReportOfTheLowerColor_16429]]
 - [[AquaticEnvironmentalReportForO_17695]]
 - [[SummarynovemberAndFebruaryMana_21001]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Green Sunfish Group
 <!-- fm: auto_enriched: true -->
@@ -17375,6 +17483,18 @@ The Gulf of Mexico is a major biogeographic region and drainage basin in ichthyo
 ### Mentioned In
 - [[RioBravoFishDistribution_Unknown]]
 
+## Gulf of Oman
+
+### Summary
+The Gulf of Oman is a marine water body in the Arabian region. This source identifies it as part of the broader geographic front across which the Levantine Landbridge biogeographic filter episodically operated, particularly in relation to exchanges across Southern Arabia between biogeographic realms.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
+
 ## Gulf of Tomini
 
 ### Summary
@@ -17993,9 +18113,13 @@ Gymnobasalia is a series within the genus Chara that includes the Chara zeylanic
 > This 1971 NOAA technical report by [[Robert C. May]] compiles an annotated bibliography of scientific papers describing attempts to rear marine fish larvae in laboratory settings from 1878 through 1969. The work was prepared to support researchers at the [[Bureau of Commercial Fisheries]] (later...
 > -- *[[AnAnnotatedBibliographyOfAttem_15220]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[PhytoplanktonSuccessionsAndLak_12610]]
 - [[AnAnnotatedBibliographyOfAttem_15220]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Gymnodinium splendens
 

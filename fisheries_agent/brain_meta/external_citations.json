@@ -728,6 +728,15 @@
   "type": "Journal Article",
   "year": "1998"
  },
+ "X-339a9a30": {
+  "authors": "J. W. Schneider",
+  "citation_source": "crossref",
+  "doi": "10.1016/j.joi.2012.08.005",
+  "publication": "Journal of Informetrics 7(1): 50-62.",
+  "title": "Caveats for using statistical significance tests in research assessments",
+  "type": "Journal Article",
+  "year": "2013"
+ },
  "X-34c48e83": {
   "authors": "A. A. Burgad, B. R. Kesner, P. C. Marsh",
   "citation_source": "crossref",
@@ -827,6 +836,15 @@
   "type": "Journal Article",
   "year": "2020"
  },
+ "X-4bfd2027": {
+  "authors": "M. V. Bravington, H. J. Skaug, E. C. Anderson",
+  "citation_source": "crossref",
+  "doi": "10.1214/16-sts552",
+  "publication": "Statistical Science 31(2): 259-274.",
+  "title": "Close-Kin Mark-Recapture",
+  "type": "Journal Article",
+  "year": "2016"
+ },
  "X-4c3dce19": {
   "authors": "N. J. Bean, J. M. Connor, J. A. Olson, S. J. Harvey, W. P. Baker",
   "citation_source": "crossref",
@@ -917,6 +935,15 @@
   "type": "Journal Article",
   "year": "2003"
  },
+ "X-7ada1135": {
+  "authors": "M. R. Schofield, R. J. Barker, P. Taylor",
+  "citation_source": "crossref",
+  "doi": "10.1111/biom.12069",
+  "publication": "Biometrics 69(4): 1012-1021.",
+  "title": "Modeling Individual Specific Fish Length from Capture–Recapture Data Using the von Bertalanffy Growth Curve",
+  "type": "Journal Article",
+  "year": "2013"
+ },
  "X-7bdd8757": {
   "authors": "K. Guldbrandsen Frøysa, B. Bogstad, D. W. Skagen",
   "citation_source": "crossref",
@@ -979,6 +1006,15 @@
   "title": "A Conservation Plan for Native Fishes of the Lower Colorado River",
   "type": "Journal Article",
   "year": "2003"
+ },
+ "X-96a27bbd": {
+  "authors": "P. N. Reinthal, H. Blasius, M. Haberstich",
+  "citation_source": "crossref",
+  "doi": "10.7208/chicago/9780226694504.003.0015",
+  "publication": "Standing between Life and Extinction: 225-238.",
+  "title": "15. Long-Term Monitoring of a Desert Fish Assemblage in Aravaipa Creek, Arizona",
+  "type": "Book Chapter",
+  "year": "2021"
  },
  "X-9a51b273": {
   "authors": "P. K. Weber-Scan, L. K. Duffy",
@@ -1249,6 +1285,15 @@
   "title": "Electrofishing and Its Harmful Effects on Fish",
   "type": "Report",
   "year": "2003"
+ },
+ "X-f940cff9": {
+  "authors": "J. N. McNair, C. R. Ruetz, A. Carlson, J. Suh",
+  "citation_source": "crossref",
+  "doi": "10.1371/journal.pone.0200733",
+  "publication": "PLOS ONE 13(8): e0200733.",
+  "title": "Reducing effects of dispersal on the bias of 2-sample mark-recapture estimators of stream fish abundance",
+  "type": "Journal Article",
+  "year": "2018"
  },
  "X-f9ddaa54": {
   "authors": "J. M. Leonard, T. T. Sankey, L. L. Tango, R. W. Tyler",

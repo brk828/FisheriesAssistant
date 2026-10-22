@@ -704,6 +704,18 @@ Caimans are cited alongside alligators as examples of species that were not proh
 ### Mentioned In
 - [[ThePlaceOfEcologyInScience_11353]]
 
+## Cairns
+
+### Summary
+Cairns is a researcher who studied irreversible effects of detergent pollution on fish. This source reports that Cairns worked with Scheier to observe that gill damage in Sunfish from 24-hour exposure to 18 ppm ABS was not reversible even after eight weeks in clean water.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Cairns & Scheier 1957
 <!-- fm: auto_enriched: true -->
 
@@ -1153,6 +1165,9 @@ In the context of fish science and aquatic ecology, California refers to the geo
 > This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
 > -- *[[WaterRightsBibliography_17761]]*
 
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
 - [[RainbowSmeltIntroductionIntoLa_1989]]
@@ -1183,6 +1198,7 @@ In the context of fish science and aquatic ecology, California refers to the geo
 - [[StagesOfDevelopmentOfGulliesIn_16590]]
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[WaterRightsBibliography_17761]]
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## California Academy Of Sciences
 <!-- fm: auto_enriched: true -->
@@ -1598,6 +1614,18 @@ California Gull (Larus californicus) is one of over 50 bird species documented i
 ### Mentioned In
 - [[TheMonoBasin_15632]]
 
+## California Halibut
+
+### Summary
+The California Halibut is a flatfish (Paralichthys californicus, family Bothidae) considered a good food fish, reaching maximum sizes of 152 cm and 28 kg. Six skeletal elements from fish 25-66 cm long were recovered from the Irvine sites, and the species has documented use by aboriginal peoples elsewhere in California.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
+
 ## California King Snake
 
 ### Summary
@@ -1782,6 +1810,18 @@ The Calima River is a Pacific slope tributary where important gymnotid specimens
 
 ### Mentioned In
 - [[Goby_1963]]
+
+## Callicarpa canadicans
+
+### Summary
+Callicarpa canadicans is a plant species mentioned in this 1967 literature review on water pollution effects on freshwater fish. The source does not provide specific details about this plant's role or significance in the reviewed literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Callichthyidae
 <!-- fm: auto_enriched: true -->
@@ -3409,6 +3449,18 @@ Capture-recapture methods were used to document razorback sucker movements and s
 ### Mentioned In
 - [[SpawningAndMovementsOfRazorbac_1990]]
 
+## Capture-Recapture Design
+
+### Summary
+Capture-recapture design is a sampling method where individual animals are captured, marked, released, and potentially recaptured multiple times to estimate population parameters. In this study, 527 Rainbow Trout were captured between 1 and 5 times over an 11-year period, though the irregular time intervals between captures and the fact that only 39 individuals had three or more captures limited the ability to estimate individual-level parameters without strong hierarchical constraints.
+
+### Context
+> **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
+> -- *[[ModelingIndividualSpecificFish_2013]]*
+
+### Mentioned In
+- [[ModelingIndividualSpecificFish_2013]]
+
 ## Caquetaia
 <!-- fm: auto_enriched: true -->
 
@@ -3486,9 +3538,14 @@ Caranx ruber, commonly known as the bar jack, is a midwater fish species. This s
 ## Carassius
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[IncreasedGrowthAndLifeSpanWith_1966_12_10]]
 - [[TheRelationOfHydrologicalCondi_20023]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Carassius Auratus
 <!-- fm: auto_enriched: true -->
@@ -4590,6 +4647,9 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This annual report documents aquatic conditions in [[Morgan Lake]], New Mexico from June through December 1976, focusing on physico-chemical parameters, plankton populations, and fish communities. [[Morgan Lake]] is a cooling water reservoir for the Four Corners Electric Generating Plant, formed in...
 > -- *[[AquaticEnvironmentalReportForO_17695]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -4726,6 +4786,7 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[FisheriesReportOfTheLowerColor_16429]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
 - [[AquaticEnvironmentalReportForO_17695]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Carp Control
 <!-- fm: auto_enriched: true -->
@@ -6324,6 +6385,18 @@ Catostomus bernardini is a native sucker species (Family Catostomidae) endemic t
 
 ### Mentioned In
 - [[EsteraseHeterogeneityDynamicsO_1969_02_28]]
+
+## Catostomus columbianus
+
+### Summary
+Catostomus columbianus is a sucker species that almost certainly inhabited the Jarbidge River under primitive conditions as one of multiple edible nonmigratory fish available to the Deer Creek Cave occupants. Despite being extensively utilized by aborigines elsewhere in western North America, no sucker remains were found at the site.
+
+### Context
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
+### Mentioned In
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Catostomus Commersoni
 <!-- fm: auto_enriched: true -->
@@ -10045,6 +10118,18 @@ The Chapman Modification is an adjusted version of the Peterson method used to e
 ### Mentioned In
 - [[DeclineOfTheRazorbackSuckerInL_2003]]
 
+## Chapman's Estimator
+
+### Summary
+Chapman's Estimator is a bias-corrected version of the mark-recapture ratio estimator for abundance, calculated as [(M+1)(C'+1)/(R'+1)] - 1, where M is the number marked in sample 1, C' is total captures in sample 2, and R' is recaptures. This source derives new analytical expressions showing that under spatial closure (no dispersal), the estimator has a small negative bias due to sampling variation that decreases as abundance increases, but when dispersal occurs between samples, the bias becomes a combination of positive bias from dispersal and negative bias from sampling variation. The modified sampling scheme proposed here (marking only a central zone but recapturing across an expanded reach) makes Chapman's estimator asymptotically unbiased with respect to the expected abundance at sample 2 when the central zone is large enough.
+
+### Context
+> **Core Problem Addressed**: Quantifying and reducing the bias of Chapman's estimator for stream fish abundance when the spatial closure assumption is violated by dispersal between sampling occasions. The standard 2-sample mark-recapture method assumes no fish enter or exit the study reach between...
+> -- *[[ReducingEffectsOfDispersalOnTh_2018]]*
+
+### Mentioned In
+- [[ReducingEffectsOfDispersalOnTh_2018]]
+
 ## Chappuis 1950
 <!-- fm: auto_enriched: true -->
 
@@ -12294,6 +12379,9 @@ Chinook Salmon (*Oncorhynchus tshawytscha*) are the largest Pacific salmon speci
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
 ### Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
@@ -12333,6 +12421,7 @@ Chinook Salmon (*Oncorhynchus tshawytscha*) are the largest Pacific salmon speci
 - [[PublicationsOfPeterBMoyle_15442]]
 - [[SalmonSpawningGroundSurveysSal_17594]]
 - [[ExecutiveSummary_18726]]
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Chione
 
@@ -12581,6 +12670,18 @@ Chiridota aponocrita is a pinkish-red footless sea cucumber with many small whit
 
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
+
+## Chiriqui
+
+### Summary
+Chiriqui is a location on the Pacific coast of Panama where the holotype specimen of Therodamas dawsoni was collected on June 21, 1971. This represents the type locality for this new species and marks the first record of the genus Therodamas from the Pacific Ocean.
+
+### Context
+> This taxonomic description establishes *Therodamas dawsoni* as a new species of parasitic copepod (Cyclopoida: Ergasilidae) from the Pacific coast of [[Panama]]. A single female specimen was collected from the pectoral fin base of a stargazer fish, [[Dactyloscopus thysannotus]], at Chiriqui, Panama...
+> -- *[[TherodamasDawsoniANewSpeciesOf_18011]]*
+
+### Mentioned In
+- [[TherodamasDawsoniANewSpeciesOf_18011]]
 
 ## Chirocentridae
 <!-- fm: auto_enriched: true -->
@@ -13839,6 +13940,18 @@ The Chuska Mountains is an area in the Colorado River system where some arroyos 
 
 ### Mentioned In
 - [[LatePleistoceneAndRecentErosio_17546]]
+
+## Chwala
+
+### Summary
+Chwala is a researcher who studied the mechanism of detergent toxicity to fish. This source reports that Chwala found toxic effects of synthetic detergents result from depression of surface tension, and when surface tension is reduced to 50 dynes/cm, epithelial cells of fish gills become irreversibly swollen and distorted.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Chydoridae
 <!-- fm: auto_enriched: true -->
@@ -18693,6 +18806,9 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 > This consensus report presents findings from a scientific peer review panel convened by the American Institute of Biological Sciences (AIBS) to evaluate the draft Conservation Strategy for the [[Lower Colorado River]] Multi-Species Conservation Program (LCR MSCP). The panel met July 12, 1999 in Las...
 > -- *[[DraftConsesusReportOnTheDraftC_13540]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[ActingProgramDirector_1990_03_29]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -18883,6 +18999,7 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 - [[TripReportForUpperColoradoRive_12974]]
 - [[DraftRecoveryGoals_11689]]
 - [[DraftConsesusReportOnTheDraftC_13540]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Colorado Pikeminnow Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -21068,6 +21185,9 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
 > -- *[[SummaryaprilManagementGroupMee_20995]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -21467,6 +21587,7 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[ReportPlanningGroupForTheColor_19473]]
 - [[CivilActionNoFColoradoWildlife_20991]]
 - [[SummaryaprilManagementGroupMee_20995]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Colorado River Basin Ecology
 <!-- fm: auto_enriched: true -->
@@ -24809,6 +24930,9 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 > This 1994 U.S. District Court opinion addresses a legal challenge by the [[Idaho Department of Fish and Game]] (IDFG) against the [[National Marine Fisheries Service]] (NMFS) regarding the operation of the [[Federal Columbia River Power System]] (FCRPS) and its impacts on three listed [[Snake...
 > -- *[[SalmonDecision_19385]]*
 
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
 ### Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AccumulationAndRetentionOfRadi_1957]]
@@ -24841,6 +24965,7 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[TheSacramentoSquawfish_13255]]
 - [[SalmonDecision_19385]]
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Columbia River Alliance
 <!-- fm: auto_enriched: true -->
@@ -24877,6 +25002,9 @@ The Columbia River Basin is a vast freshwater watershed in the Pacific Northwest
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*), family [[Esocidae]], is a highly fecund opportunistic piscivore native to portions of Alaska, Montana, Missouri, Nebraska, and the Great Lakes region but absent from Pacific drainages south of the Alaska Range prior to...
 > -- *[[MechanicalSuppressionOfInvasiv_2024]]*
 
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
 ### Mentioned In
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
 - [[KitzhaberCallsForBreachingFour_13544]]
@@ -24887,6 +25015,7 @@ The Columbia River Basin is a vast freshwater watershed in the Pacific Northwest
 - [[StationProfileOfTheSpringCreek_19519]]
 - [[UpperColoradoFishRecoveryPlanI_20990]]
 - [[MechanicalSuppressionOfInvasiv_2024]]
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Columbia River Basin Management
 
@@ -27618,8 +27747,12 @@ Cope was a taxonomist who described Clinostomus pandora from the Rio Grande in N
 > This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
 > -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[DraftsAndNotesOnTheCyprinidFis_15336]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Cope 1871
 <!-- fm: auto_enriched: true -->
@@ -28868,6 +29001,18 @@ Coryphanta robbinsorum is a plant species found in the Sierra San Luis reserve t
 ### Mentioned In
 - [[MemorandumOnRegionalStakeholde_1996_09_12]]
 
+## Costa
+
+### Summary
+Costa is a researcher mentioned in this 1967 literature review on water pollution effects on freshwater fish. The source does not provide specific details about Costa's research contributions or findings in the reviewed literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Costa 1989
 <!-- fm: auto_enriched: true -->
 
@@ -29829,9 +29974,13 @@ Craigbrook National Fish Hatchery is one of three facilities established between
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Cranberry Lake
 <!-- fm: auto_enriched: true -->

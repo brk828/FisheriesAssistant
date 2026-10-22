@@ -1744,6 +1744,18 @@ The Hari Rud is one of five endorheic or arheic drainage basins in Afghanistan d
 ### Mentioned In
 - [[NewRecordsDistributionAndStatu_14897]]
 
+## Harlequins
+
+### Summary
+Harlequins is mentioned in the 1967 literature review on water pollution effects on freshwater fish. However, the specific context or findings related to this term are not detailed in the provided source text.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Harmful Algal Bloom
 <!-- fm: auto_enriched: true -->
 
@@ -2034,6 +2046,18 @@ Harvest regulations are rules governing fish removal by anglers, including size 
 ### Mentioned In
 - [[PopulationDynamicsTrophicInter_2003]]
 
+## Harvest Slot Limits
+
+### Summary
+Harvest slot limits are regulations that restrict which size ranges of fish can be kept by anglers. The finding that 10-30% of captured Rainbow Trout were already fully mature (at maximum length) suggests the fishery targets a mix of growing and mature individuals, which is relevant information for designing effective harvest slot limits.
+
+### Context
+> **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
+> -- *[[ModelingIndividualSpecificFish_2013]]*
+
+### Mentioned In
+- [[ModelingIndividualSpecificFish_2013]]
+
 ## Harvester Ants
 
 ### Summary
@@ -2246,6 +2270,18 @@ The Hassayampa River Preserve is a riparian conservation area in Arizona's Sonor
 - [[FishMonitoringOfPalmLakeHassay_16635]]
 - [[PalmLakeMeetingjanuary_20906]]
 - [[PalmLakenativeFishStatus_20905]]
+
+## Hasselrot
+
+### Summary
+Hasselrot studied the effects of pulp and paper mill effluents on aquatic systems, finding that pollution effects extended considerable distances from discharge points. The research showed that effects were more noticeable in winter due to slower decomposition rates in cold water.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Hastings
 
@@ -3609,6 +3645,18 @@ Helmand-Sistan is an endorheic drainage basin in Afghanistan, with the Helmand R
 ### Mentioned In
 - [[EvaluationOfAnElectronicMethod_14437]]
 
+## Hemens
+
+### Summary
+Hemens is a researcher mentioned in this 1967 literature review on water pollution effects on freshwater fish. The source does not provide specific details about Hemens' research contributions or findings in the reviewed literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Hemichromis
 <!-- fm: auto_enriched: true -->
 
@@ -4738,6 +4786,18 @@ The Hia C'ed O'odham are an indigenous O'odham group whose historic occupation i
 ### Mentioned In
 - [[BetweenTheDesertAndTheSeaArche_13223]]
 
+## Hickey
+
+### Summary
+Hickey was lead author of research in Green Bay, Lake Michigan documenting biological concentration of pesticides through food chains. The study found concentration factors of approximately 50 times in the amphipod Pontoporeia affinis relative to mud, with an additional 10-fold increase in fish tissues.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Hickling
 
 ### Summary
@@ -5546,6 +5606,18 @@ Hiwassee Reservoir is a Tennessee Valley Authority (TVA) impoundment in Tennesse
 
 ### Mentioned In
 - [[TheEffectsOfAnOilSpillOnTheMac_1976]]
+
+## Hoff
+
+### Summary
+Hoff is a researcher who studied the relationship between oxygen levels, temperature, and stress in fish. This source reports that Hoff et al. demonstrated that lethal oxygen levels were partially dependent on temperature and stress in marine and anadromous fish.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Hoff 1944
 <!-- fm: auto_enriched: true -->
@@ -7239,6 +7311,18 @@ House Spring is one of five named springs at San Bernardino Ranch in the Rio Yaq
 
 ### Mentioned In
 - [[MovementAndAnglerHarvestOfFish_15696]]
+
+## Houston
+
+### Summary
+Houston worked with DeWilde to study the effects of thermal acclimation on Rainbow Trout blood oxygen-capacity. The research examined various hematological parameters to understand how fish physiologically adapt to different temperature conditions.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Houston And Fenwick 1965
 <!-- fm: auto_enriched: true -->

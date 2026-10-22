@@ -1099,6 +1099,9 @@ The Lahontan Cutthroat Trout is a threatened native salmonid species endemic to 
 > This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the U.S. Fish and Wildlife Service to be Endangered or Threatened under the Endangered Species Act. Published as of January 1,...
 > -- *[[PartEndangeredAndThreatenedWil_13327]]*
 
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
 ### Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -1126,6 +1129,7 @@ The Lahontan Cutthroat Trout is a threatened native salmonid species endemic to 
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 - [[ErythrocyteAntigensOfCaliforni_17330]]
 - [[PartEndangeredAndThreatenedWil_13327]]
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Lahontan Drainage System
 <!-- fm: auto_enriched: true -->
@@ -1986,6 +1990,18 @@ The Lake Emerald Shiner (Notropis atherinoides) is a minnow species that is incr
 
 ### Mentioned In
 - [[MinnowsCyprinidae_17384]]
+
+## Lake Emerald Shiners
+
+### Summary
+Lake Emerald Shiners are a freshwater fish species used in toxicity testing. This source reports they were the most sensitive of five freshwater fish species tested for toxicity to linear alkyl sulfonate (LAS) detergent in flowing water systems.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Lake Erie
 <!-- fm: auto_enriched: true -->
@@ -3644,6 +3660,9 @@ Lake Michigan is one of the five Great Lakes and serves as a critical freshwater
 > Between 1963 and 1964, California and Nevada fisheries agencies introduced approximately 182,300 live [[Mysis relicta]] (opossum shrimp) into four western lakes: [[Lake Tahoe]], [[Lower Echo Lake]], [[Huntington Lake]], and [[Blue Lake]]. The primary objective was to establish a forage base for...
 > -- *[[IntroductionOfTheOpossumShrimp_20345]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[OriginAndDispersalOfTheAlewife_1957]]
@@ -3658,6 +3677,7 @@ Lake Michigan is one of the five Great Lakes and serves as a critical freshwater
 - [[FishAndFishEggDistributionRepo_13434]]
 - [[WildlifeStudiesPatuxentWildlif_14328]]
 - [[IntroductionOfTheOpossumShrimp_20345]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Lake Michigan Ecosystem
 <!-- fm: auto_enriched: true -->
@@ -5628,6 +5648,18 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 - [[CuiuiHybridizationStudyInterim_13856]]
 - [[AuthortitleIndexToInlandFisher_14367]]
 - [[IntroductionOfTheBonnevilleCis_18820]]
+
+## Lake Tahoe Basin Management Unit
+
+### Summary
+Lake Tahoe Basin Management Unit (LTBMU) is a federal land management unit that, along with Tahoe National Forest, manages the eight eastside rivers evaluated in this Wild and Scenic River study. The unit contains critical habitat for threatened species and diverse ecosystems spanning elevations from 3,000 to 9,000 feet.
+
+### Context
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
+### Mentioned In
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Lake Tahoe Sucker
 
@@ -7604,6 +7636,12 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This report documents fish sampling conducted 14-17 April 1989 at [[ASU Research Park]] lakes in Tempe, Arizona, to assess the status of native fishes. Sampling employed trammel nets (12-hour overnight sets) and seining, with supplementary larval sampling initiated in February 1989. The survey...
 > -- *[[SamplingAtAsuResearchParkApril_19429]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -8017,6 +8055,8 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[FisheriesReportOfTheLowerColor_16429]]
 - [[AquaticEnvironmentalReportForO_17695]]
 - [[SamplingAtAsuResearchParkApril_19429]]
+- [[LongtermMonitoringOfADesertFis_2021]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Largemouth Black Bass
 <!-- fm: auto_enriched: true -->
@@ -9162,11 +9202,15 @@ Le Roux Creek is a water source associated with Hotchkiss National Fish Hatchery
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[StationProfileOfTheFortMorganF_1993_12_30]]
 - [[FishAndFishEggDistributionRepo_13434]]
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Leaf Epidermal Anatomy
 <!-- fm: auto_enriched: true -->
@@ -9901,6 +9945,18 @@ Lehner Ranch is the location of a famous Clovis archaeological site in the San P
 ### Mentioned In
 - [[EarlyHoloceneOccupationAlongWh_1985]]
 
+## Leiden Ranking
+
+### Summary
+The Leiden Ranking is a research assessment system mentioned as using "stability intervals" based on resampling techniques (bootstrap, jackknife) for interval estimation and sensitivity analyses. This source notes that while such resampling approaches are useful, they do not fix fundamental problems with non-random, biased, or small samples and are not substitutes for external replication.
+
+### Context
+> **Core Problem Addressed**: This article critiques the use of statistical significance tests (specifically Null Hypothesis Significance Tests, NHST) in research assessments based on citation indicators, responding to proposals by [[Opthof and Leydesdorff]] (2010) that advocate for normalization...
+> -- *[[CaveatsForUsingStatisticalSign_2013]]*
+
+### Mentioned In
+- [[CaveatsForUsingStatisticalSign_2013]]
+
 ## Leif L. Marking
 <!-- fm: auto_enriched: true -->
 
@@ -10395,6 +10451,18 @@ The Leopard Frog, likely referring to the native *Rana pipiens* or related ranid
 - [[ManagementPlanSierraSanLuisWil_11399]]
 - [[ProjectsTakeStaffToTheField_13221]]
 - [[EvaluationOfTheInstreamFlowReq_13030]]
+
+## Leopard Shark
+
+### Summary
+The Leopard Shark (Triakis semifasciata) is an edible shark species from the family Triakididae that can reach 183 cm in length. This source documents 8 centra from specimens approximately 134 cm long (perhaps 11 kg) at the Irvine sites, with one centrum showing a central hole suggesting use as an ornament, indicating this species was exploited by Gabrielino peoples in Newport Bay.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## Leopold Report
 
@@ -11621,6 +11689,18 @@ Lernaea cyprinacea, commonly known as the anchor worm, is a parasitic copepod th
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[InfestationsOfTheCopepodParasi_13216]]
 
+## Lernaeidae
+
+### Summary
+Lernaeidae is a family of parasitic copepods to which the genus Therodamas was initially assigned by Wilson in 1917. However, Thomsen in 1949 reassigned Therodamas to the family Ergasilidae based on morphological examination, and this study confirms that placement is correct based on the appendage morphology typical of ergasilids.
+
+### Context
+> This taxonomic description establishes *Therodamas dawsoni* as a new species of parasitic copepod (Cyclopoida: Ergasilidae) from the Pacific coast of [[Panama]]. A single female specimen was collected from the pectoral fin base of a stargazer fish, [[Dactyloscopus thysannotus]], at Chiriqui, Panama...
+> -- *[[TherodamasDawsoniANewSpeciesOf_18011]]*
+
+### Mentioned In
+- [[TherodamasDawsoniANewSpeciesOf_18011]]
+
 ## Lernaeoceridae
 
 ### Summary
@@ -12180,6 +12260,18 @@ Leuctra is a genus of stoneflies (order Plecoptera) whose nymphs are important o
 
 ### Mentioned In
 - [[PreliminaryStudiesOfTheShadAlo_15433]]
+
+## Levantine Landbridge
+
+### Summary
+The Levantine Landbridge is a sliver of Middle Eastern fertile to semi-arid land wedged between the Mediterranean Sea and the Arabian Desert, functioning as a biogeographic filter that selectively limits species exchange between the Ethiopian, Palaearctic, and Oriental Realms. It originated approximately 15 million years ago when the Tethys Sea was bridged over, and represents the most important nodal point in the distributional history of modern terrestrial biota globally—a three-way, Y-shaped exchange route that is one of the oldest and most complex biogeographic filters.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Levisa Fork
 
@@ -13475,6 +13567,18 @@ Lirceus is a genus of freshwater isopod crustaceans that was formally reinstated
 
 ### Mentioned In
 - [[ReviewOfDraftCandidateConserva_15752]]
+
+## Litani River
+
+### Summary
+The Litani River is one of the waterways in the sequence contained within the Syrian Rift Valley system. These waterways established a "steeplechase" continuation with shifting headwater connections, though never forming a continuous river system.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Litchfield And Wilcoxon 1949
 <!-- fm: auto_enriched: true -->
@@ -14788,9 +14892,13 @@ Little Timber Sale was a proposed timber thinning project on the Apache-Sitgreav
 > This 1994 California Department of Fish and Game (CDFG) report evaluates proposed operational changes to [[Independence Dam]] and [[Independence Lake]] releases, aimed at mitigating fish habitat degradation in [[Independence Creek]] and the [[Little Truckee River]]. The existing management regime...
 > -- *[[PotentialFishHabitatBenefitsIn_18308]]*
 
+> This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
+> -- *[[EightEastsideRiversWildAndScen_18297]]*
+
 ### Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
 - [[PotentialFishHabitatBenefitsIn_18308]]
+- [[EightEastsideRiversWildAndScen_18297]]
 
 ## Little Tuna
 <!-- fm: auto_enriched: true -->
@@ -15439,6 +15547,9 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 > A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
 > -- *[[EagleCreekGreenleeCountyArizon_17216]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -15645,6 +15756,7 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 - [[GilaRiverFishdistributionProje_15844]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Loach Minnow Conservation
 <!-- fm: auto_enriched: true -->
@@ -16581,6 +16693,9 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 > A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
 > -- *[[EagleCreekGreenleeCountyArizon_17216]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -16712,6 +16827,7 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[GilaRiverFishdistributionProje_15844]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Longfin Smelt
 
@@ -17666,6 +17782,18 @@ The Low-Flow Conveyance Channel is a water management feature in the San Acacia 
 
 ### Mentioned In
 - [[DraftEnvironmentalAssessmentDe_13207]]
+
+## Lowe
+
+### Summary
+Lowe studied the effects of endrin exposure on Spot (Leiostomus xanthurus). The research found that 8-month continuous exposure to 0.05 mg/l endrin produced no pathology, but 3-week exposure to near-lethal concentration (0.075 mg/l) produced systemic lesions involving brain, spinal cord, liver, kidneys and stomach.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Lowe & Heath 1969
 <!-- fm: auto_enriched: true -->
@@ -19012,6 +19140,18 @@ Luidia phragma is a sand star (starfish) found in Cholla Bay with a distinctive 
 
 ### Mentioned In
 - [[ÉtudeDUneCollectionDLsopodesTe_13127]]
+
+## Luk'yanenko
+
+### Summary
+Luk'yanenko was one of the principal researchers conducting extensive observations on phenol effects on fish. The work examined how factors like water hardness, pH, and temperature affected fish resistance to phenol toxicity, finding that resistance to 50 mg/l phenol was not affected by pH changes within the range of 4-11.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Lukens Bill
 

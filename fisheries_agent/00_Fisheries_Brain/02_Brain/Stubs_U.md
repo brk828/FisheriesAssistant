@@ -1555,6 +1555,9 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
 > -- *[[MinutesdesertFishesRecoveryTea_13730]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -1608,6 +1611,7 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[GilaTopminnowSitesInArizonaPro_19668]]
 - [[MxMissileSystemAnUrgentLetterF_20507]]
 - [[MinutesdesertFishesRecoveryTea_13730]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## U.S. Geological Survey
 <!-- fm: auto_enriched: true -->
@@ -2749,6 +2753,9 @@ The University of Arizona served as an institutional partner in federally-author
 > This planning document reports on a July 9, 1996 meeting in Guaymas, Sonora, convened by the Planning Group established at a May 15-16, 1996 meeting in Mexicali. The group, coordinated by Carlos Nagel ([[Friends of PRONATURA]]), developed recommendations for creating an interdisciplinary,...
 > -- *[[ReportPlanningGroupForTheColor_19473]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -2775,6 +2782,7 @@ The University of Arizona served as an institutional partner in federally-author
 - [[DraftProposedCriteriaForDesign_14776]]
 - [[ReportOnTheAnnualCensusOfCypri_18280]]
 - [[ReportPlanningGroupForTheColor_19473]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## University Of Arizona Cooperative Fish And Wildlife Research Unit
 <!-- fm: auto_enriched: true -->
@@ -2901,6 +2909,18 @@ The University of California Santa Barbara was one of two institutions where thi
 
 ### Mentioned In
 - [[TroutNomenclature_18189]]
+
+## University of California, Los Angeles
+
+### Summary
+The University of California, Los Angeles (UCLA) was the institutional affiliation of archaeologists Charles A. Schwartz and Carol Lytton. These researchers excavated the Gabrielino archaeological sites at Irvine during spring 1963, recovering the 41 fish remains analyzed in this report.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
 
 ## University Of Chicago
 <!-- fm: auto_enriched: true -->
@@ -3451,8 +3471,12 @@ The University of Washington was the institutional affiliation of Dr. Jerry Fran
 > This document is official correspondence from the [[National Park Service]] (NPS) dated March 24, 1989, addressed to Dr. John C. Gordon, Dean of the [[Yale School of Forestry and Environmental Studies]], regarding the establishment of a Commission on Research and Resource Management Policy in the...
 > -- *[[NationalParksAndConservationAs_15435]]*
 
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
 ### Mentioned In
 - [[NationalParksAndConservationAs_15435]]
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## University of Wisconsin
 
@@ -5015,6 +5039,18 @@ Uruguay is a country in the La Plata Basin where several Poeciliid species occur
 ### Mentioned In
 - [[ThePoeciliidFishesOfRioGrandeD_15799]]
 
+## US Bureau of Land Management
+
+### Summary
+The US Bureau of Land Management is one of the primary management jurisdictions for Aravaipa Creek, Arizona, working alongside The Nature Conservancy, US Bureau of Reclamation, and US Fish and Wildlife Service. This source indicates that BLM shares responsibility for managing this critical desert stream habitat that supports seven naturally co-occurring native fish species including two federally endangered species (spikedace and loach minnow).
+
+### Context
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
+### Mentioned In
+- [[LongtermMonitoringOfADesertFis_2021]]
+
 ## Us Bureau Of Reclamation
 <!-- fm: auto_enriched: true -->
 
@@ -5156,8 +5192,12 @@ The U.S. Department of Agriculture (USDA) is recommended in this review to assum
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Usda Forest Service
 <!-- fm: auto_enriched: true -->

@@ -859,7 +859,7 @@
   "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: ''",
   "source_id": "X-15528cbe",
   "status": "failed",
-  "timestamp": "2026-10-21T20:10:25+00:00"
+  "timestamp": "2026-10-22T00:17:42+00:00"
  },
  "15a121fdafb2a8e0f741163ca7965e8918373307af7d6cec36637ac5e517f0de": {
   "citation_source": "minckley-sheet",
@@ -987,11 +987,14 @@
   "timestamp": "2026-10-19T23:51:17+00:00"
  },
  "18141b5f84a99450f93e9338fbe6e9d59c1ee84fad2711913ac63d75da93631c": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "18755.pdf",
-  "reason": "LLM request failed: Connection error.",
+  "method": "ocr",
+  "note": "FishRemainsFromDeerCreekCaveEl_18755.md",
   "source_id": "X-18141b5f",
-  "status": "failed",
-  "timestamp": "2026-10-21T20:31:14+00:00"
+  "status": "done",
+  "timestamp": "2026-10-22T00:24:55+00:00"
  },
  "1903540b17a8ff24f5794bc55671f3449dfd81c66f3f87b9ef5fe7d39c95866f": {
   "citation_source": "minckley-sheet",
@@ -1610,11 +1613,14 @@
   "timestamp": "2026-10-21T05:35:51+00:00"
  },
  "26ee8404b3650abe578d249d672208abd3d87d2c05ae8383e7f12d61bde210be": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "18634.pdf",
-  "reason": "LLM request failed: Connection error.",
+  "method": "ocr",
+  "note": "TheLevantineLandbridgeHistoric_18634.md",
   "source_id": "X-26ee8404",
-  "status": "failed",
-  "timestamp": "2026-10-21T20:30:58+00:00"
+  "status": "done",
+  "timestamp": "2026-10-22T00:24:22+00:00"
  },
  "270e6bdd49dd029e1f38f5ece220fe0f53758665892b809e1b30b004a69775b0": {
   "citation_source": "minckley-sheet",
@@ -1627,11 +1633,14 @@
   "timestamp": "2026-10-21T13:42:52+00:00"
  },
  "277f1f1daf92f1e325210b1dc5724c353ef5a0cb0d47fae82a3fd3d5ae49fa1b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "18234.pdf",
-  "reason": "LLM request failed: Connection error.",
+  "method": "ocr",
+  "note": "FollowupOnRazorbackSuckersToAs_18234.md",
   "source_id": "X-277f1f1d",
-  "status": "failed",
-  "timestamp": "2026-10-21T20:30:10+00:00"
+  "status": "done",
+  "timestamp": "2026-10-22T00:21:04+00:00"
  },
  "28227e452b08f6967f3f7e20382f7e0cba383d84f33ef61e62c35c6e698b4a21": {
   "citation_source": "minckley-sheet",
@@ -2106,6 +2115,16 @@
   "source_id": "X-3362184c",
   "status": "done",
   "timestamp": "2026-10-18T04:13:39+00:00"
+ },
+ "339a9a300ad55d5d9954f7b45e73109df40f387088416ab0bfe8849ae1fcb68c": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "Statistical significance review 2010.pdf",
+  "method": "text",
+  "note": "CaveatsForUsingStatisticalSign_2013.md",
+  "source_id": "X-339a9a30",
+  "status": "done",
+  "timestamp": "2026-10-22T00:17:32+00:00"
  },
  "33f999637bd6be6246c75996536a051759c6c76825c371911b8c3f67dbfdc2c1": {
   "citation_source": "minckley-sheet",
@@ -3174,6 +3193,16 @@
   "status": "done",
   "timestamp": "2026-10-20T23:17:31+00:00"
  },
+ "4bfd20275ad4472b81ba89497323868d47c03459535110180ce93fd48115c73d": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "CloseKinMarkRecapture.pdf",
+  "method": "text",
+  "note": "ClosekinMarkrecapture_2016.md",
+  "source_id": "X-4bfd2027",
+  "status": "done",
+  "timestamp": "2026-10-22T00:13:07+00:00"
+ },
  "4bffcb766db08a07d8743934a9ceacbdc38e66a10ccb0694f979f4625c624bdf": {
   "citation_source": "minckley-sheet",
   "file": "18607.pdf",
@@ -3184,11 +3213,14 @@
   "timestamp": "2026-10-14T20:45:45+00:00"
  },
  "4c0d579ef4b98b512fe34a497cc58a8e79193ce5cb218a9b569230683ee60bee": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "18297.pdf",
-  "reason": "LLM request failed: Connection error.",
+  "method": "ocr",
+  "note": "EightEastsideRiversWildAndScen_18297.md",
   "source_id": "X-4c0d579e",
-  "status": "failed",
-  "timestamp": "2026-10-21T20:30:26+00:00"
+  "status": "done",
+  "timestamp": "2026-10-22T00:21:37+00:00"
  },
  "4c3dce1981c3eec399bef8948b21631c1092edaca58b2127c27c7ac1647fa67b": {
   "citation_source": "crossref",
@@ -3930,11 +3962,14 @@
   "timestamp": "2026-10-20T00:45:10+00:00"
  },
  "5f4fd5e360cfd1ccb3dfa3c36bdae88f53dfa08e12740827ed12c51393bed715": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "18011.pdf",
-  "reason": "LLM request failed: Connection error.",
+  "method": "mixed",
+  "note": "TherodamasDawsoniANewSpeciesOf_18011.md",
   "source_id": "X-5f4fd5e3",
-  "status": "failed",
-  "timestamp": "2026-10-21T20:29:54+00:00"
+  "status": "done",
+  "timestamp": "2026-10-22T00:20:48+00:00"
  },
  "5ff407203e9facd9ffd69493e7a12704165f91f4557e99ee3540024518372d99": {
   "citation_source": "minckley-sheet",
@@ -4006,11 +4041,14 @@
   "timestamp": "2026-10-20T05:12:08+00:00"
  },
  "609c9b233a6c3aea4fbb4c80004d33953b8ff2a47c5283ae7c96329fb1ee98ff": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "17896.pdf",
-  "reason": "LLM request failed: Connection error.",
+  "method": "ocr",
+  "note": "BiologyOfFreshwaterFishInARevi_17896.md",
   "source_id": "X-609c9b23",
-  "status": "failed",
-  "timestamp": "2026-10-21T20:29:38+00:00"
+  "status": "done",
+  "timestamp": "2026-10-22T00:20:17+00:00"
  },
  "60d907f94bda10be14f4cab29cc9608081539f7351d918eb1f86adb90f3206f9": {
   "citation_source": "minckley-sheet",
@@ -4933,6 +4971,16 @@
   "source_id": "X-7ab7e3c3",
   "status": "done",
   "timestamp": "2026-10-18T05:39:04+00:00"
+ },
+ "7ada11350420ecbadf05544670e3a058b865a44160f27627457ae600454ec6d1": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "GrowthCurveBayesian Schofield et al. 2013.pdf",
+  "method": "text",
+  "note": "ModelingIndividualSpecificFish_2013.md",
+  "source_id": "X-7ada1135",
+  "status": "done",
+  "timestamp": "2026-10-22T00:14:26+00:00"
  },
  "7b08f871ccb98c6c23f5b3ffacacc81318d15b374f120eeaeb39d04431630384": {
   "citation_source": "minckley-sheet",
@@ -6320,6 +6368,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:44:13+00:00"
  },
+ "96a27bbdd03ba59e60adfdd7dd9f4447f3969c2b77ad37adf7a9b2f2c696fd29": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Ch.15Long-TermMonitoringofaDesertFish...--StandingBetweenLifeandExtinction3.pdf",
+  "method": "text",
+  "note": "LongtermMonitoringOfADesertFis_2021.md",
+  "source_id": "X-96a27bbd",
+  "status": "done",
+  "timestamp": "2026-10-22T00:07:02+00:00"
+ },
  "96aa06943dc5b249801441986539e030f190aed280feda798e65d50202c565b1": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -7242,6 +7300,13 @@
   "source_id": "X-ae80d945",
   "status": "done",
   "timestamp": "2026-10-21T06:21:51+00:00"
+ },
+ "ae8d72902d7e6b2904850c174395b2def187f321142af47325c4e1728267a035": {
+  "file": "Chromosome-level_reference_genomes_of_two_imperile.pdf",
+  "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: '--- species: - Meda fulgida - Tiaroga cobitis - Danio rerio - Leucaspius delinea'",
+  "source_id": "X-ae8d7290",
+  "status": "failed",
+  "timestamp": "2026-10-22T00:10:13+00:00"
  },
  "ae9a79ccee2a106d8db724941b22d6b15f0521dd963bd118e1e2701c75525b0f": {
   "citation_source": "minckley-sheet",
@@ -8598,11 +8663,14 @@
   "timestamp": "2026-10-16T19:14:51+00:00"
  },
  "d03802808a67af7da7f0567a5166fba8aaccad30069b975752689513dd57fbc2": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "18310.pdf",
-  "reason": "LLM request failed: Connection error.",
+  "method": "ocr",
+  "note": "ReportOfTheNationalFishHatcher_18310.md",
   "source_id": "X-d0380280",
-  "status": "failed",
-  "timestamp": "2026-10-21T20:30:42+00:00"
+  "status": "done",
+  "timestamp": "2026-10-22T00:22:40+00:00"
  },
  "d03da12df04087ca7f67df962b76b28b039b3ea7c9d661125705bac53cabef76": {
   "citation_source": "minckley-sheet",
@@ -8645,11 +8713,14 @@
   "timestamp": "2026-10-18T05:39:40+00:00"
  },
  "d0d4f452b46046a25524df7cea902f07c792649726ebceea13e06238cc17a2d1": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "18761.pdf",
-  "reason": "LLM request failed: Connection error.",
+  "method": "ocr",
+  "note": "FishRemainsFromArchaeologicalS_18761.md",
   "source_id": "X-d0d4f452",
-  "status": "failed",
-  "timestamp": "2026-10-21T20:31:30+00:00"
+  "status": "done",
+  "timestamp": "2026-10-22T00:25:43+00:00"
  },
  "d10b1ab7ea0ba8b17b9df699b22a42b7b86462c8e5e363e7ab5b3dc418e74463": {
   "citation_source": "minckley-sheet",
@@ -10264,7 +10335,7 @@
   "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: ''",
   "source_id": "X-f4969696",
   "status": "failed",
-  "timestamp": "2026-10-21T20:10:18+00:00"
+  "timestamp": "2026-10-22T00:17:38+00:00"
  },
  "f49ba1fc20146fe7e4a0e340c0b293ce3c5f6e3da6f432b1e3d47ef6233507e9": {
   "citation_source": "minckley-sheet",
@@ -10498,6 +10569,16 @@
   "source_id": "X-f8b86eab",
   "status": "done",
   "timestamp": "2026-10-20T23:15:58+00:00"
+ },
+ "f940cff95056c98b0e95bbad7d52b5bcea7310269f49a89e21e7bf767be38990": {
+  "citation_source": "crossref",
+  "doc_type": "analyses_and_modeling",
+  "file": "McNair et al. 2018 - Reducing effects of dispersal on mark-recapture estimate bias.pdf",
+  "method": "text",
+  "note": "ReducingEffectsOfDispersalOnTh_2018.md",
+  "source_id": "X-f940cff9",
+  "status": "done",
+  "timestamp": "2026-10-22T00:16:15+00:00"
  },
  "f9bce0c6d7b2b57fc5aba53a4e3e53e38baffcb86069e2c5e7dce180284bcd3e": {
   "citation_source": "minckley-sheet",

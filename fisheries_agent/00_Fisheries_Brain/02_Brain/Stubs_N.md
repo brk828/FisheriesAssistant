@@ -782,6 +782,9 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 > This FY 1993 annual report documents the second year of a three-year project (1992-1994) to reorganize, catalogue, and manage the massive holdings of preserved fish specimens from the Upper Colorado River Basin housed at the Larval Fish Laboratory, Colorado State University. The collection contains...
 > -- *[[FyAnnualProjectReportColoradoR_21244]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -798,6 +801,7 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 - [[EndangeredCactusOffersNbsOppor_13220]]
 - [[AProposedDemonstrationModelToI_17636]]
 - [[FyAnnualProjectReportColoradoR_21244]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## National Broodstock Program
 <!-- fm: auto_enriched: true -->
@@ -997,6 +1001,9 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[CooperativeAgreementColoradoRi_1989_06_30]]
 - [[HassayampaLakeRenova_16653]]
@@ -1011,6 +1018,7 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 - [[AmericanRiversProposalFundingR_17975]]
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## National Fish Hatcheries
 <!-- fm: auto_enriched: true -->
@@ -1281,6 +1289,9 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -1311,6 +1322,7 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[FoodFishfreshAndFrozenProducts_11510]]
 - [[EndangeredAndThreatenedSpecies_15998]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## National Museum
 
@@ -3708,10 +3720,14 @@ The Neosho Mountain Minnow (Pimephales tenellus tenellus) is a subspecies of min
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[StationAllocationsAndFtesForOp_1994_03_29]]
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Neosho River
 <!-- fm: auto_enriched: true -->
@@ -4348,6 +4364,18 @@ Nevada Power Company is a water and power entity participating in the Lower Colo
 
 ### Mentioned In
 - [[LowerColoradoRiverMultispecies_11766]]
+
+## Nevada Shoshoni
+
+### Summary
+The Nevada Shoshoni were indigenous people whose territory included the Deer Creek Cave region. They are documented to have made some use of fish resources, though the minimal fish remains at Deer Creek Cave suggest the site's occupants relied principally on non-fish food sources.
+
+### Context
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
+### Mentioned In
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Nevada Side
 
@@ -5049,6 +5077,18 @@ Newfoundland is a Canadian province in eastern Canada covered by this checklist.
 ### Mentioned In
 - [[RelativeVariabilityOfHybridsBe_14215]]
 
+## Newport Bay
+
+### Summary
+Newport Bay is a coastal embayment in Orange County, California, characterized by muddy and sandy habitats, located approximately five miles from the Pacific Ocean. This source shows it provided the primary fishing grounds for nearby Gabrielino peoples, yielding seven edible fish species including the largest recorded Bat Stingray specimen (95 kg), and the bay's abundant mollusk shells likely served as bait for hook-and-line fishing.
+
+### Context
+> This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
+> -- *[[FishRemainsFromArchaeologicalS_18761]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_18761]]
+
 ## Newtown Fish Toxicology Laboratory
 <!-- fm: auto_enriched: true -->
 
@@ -5337,12 +5377,16 @@ The Nile Perch (*Lates niloticus*) is a large predatory fish native to African r
 > This document, compiled in January 1957 by the Department of Fisheries at the University of Michigan under Karl F. Lagler, presents biographical sketches of prominent ichthyologists from the 18th through early 20th centuries. The collection covers approximately 25 scientists whose work shaped...
 > -- *[[BriefBographiesOfLeadingIchthy_12677]]*
 
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
 ### Mentioned In
 - [[AnOccurrenceOfBranchiuraSowerb_16007]]
 - [[WestAfricanRiversAsBiogeograph_1989]]
 - [[ThePleistoceneItsClimateCauses_14987]]
 - [[GambusiaTheFishDestroyer_15551]]
 - [[BriefBographiesOfLeadingIchthy_12677]]
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Nile Tilapia
 <!-- fm: auto_enriched: true -->
@@ -5368,6 +5412,18 @@ The Nile Tilapia (*Oreochromis niloticus*) is a cichlid fish species native to A
 - [[ComparativeEvaluationOfTwoTila_15110]]
 - [[LetterFromDesertFishesCouncilO_1984_07_30]]
 - [[StationProfileOfTheAbernathySa_1993]]
+
+## Nile Valley
+
+### Summary
+The Nile Valley is one segment in the sequence of waterways contained within the Syrian Rift Valley system. The gap separating the Nile River from the Jordan River system was probably the most difficult to cross for species moving through the landbridge, though these segments were never continuously connected.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Nilsson (1963, 1965, 1966)
 <!-- fm: auto_enriched: true -->
@@ -7033,8 +7089,12 @@ Nonnative fish species are aquatic organisms that have been introduced to ecosys
 > The overarching ecological threat addressed by the biological opinion is the **spread and impact of nonnative fish species** (mosquitofish, catfish, and others) on native, federally listed desert fish populations, compounded by water diversion impacts associated with the Central Arizona Project. ...
 > -- *[[MemorandumOnSeptemberMeetingOn_1995_09_12]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[MemorandumOnSeptemberMeetingOn_1995_09_12]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Nonparametric Statistics
 <!-- fm: auto_enriched: true -->
@@ -8336,6 +8396,18 @@ Northern Mexican Gartersnake (Thamnophis eques megalops) is a covered species th
 ### Mentioned In
 - [[ThreatenedFishesOfTheWorldBrac_1998]]
 
+## Northern Paiute
+
+### Summary
+The Northern Paiute were indigenous people of the region, including a band known as Koa'aga'itka ("salmon eaters") whose territory during the early 19th century included the lower Bruneau River. The source suggests that downstream populations, possibly predecessors of the Koa'aga'itka, may have intercepted salmon runs before they reached upper tributaries like the Jarbidge River.
+
+### Context
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
+### Mentioned In
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
+
 ## Northern Paiutes
 
 ### Summary
@@ -8574,6 +8646,9 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
+> -- *[[ReportOfTheNationalFishHatcher_18310]]*
+
 ### Mentioned In
 - [[APopulationOfDwarfCoastrangeSc_1960]]
 - [[RadioactiveMaterialsInAquaticA_13967]]
@@ -8581,6 +8656,7 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 - [[MechanicalSuppressionOfInvasiv_2024]]
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_18310]]
 
 ## Northern Prairie National Wildlife Research Field Station
 <!-- fm: auto_enriched: true -->

@@ -584,8 +584,13 @@ The Japanese Goby (Acanthogobius flavimanus) is a fish species that became estab
 ## Jarbidge River
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This archaeological report documents fish remains recovered from [[Deer Creek Cave]] in [[Elko County]], Nevada, near the confluence of [[Deer Creek]] and the [[Jarbidge River]], at approximately 5,800 feet elevation. The collection consists of 24 identifiable skeletal elements representing...
+> -- *[[FishRemainsFromDeerCreekCaveEl_18755]]*
+
 ### Mentioned In
 - [[PreliminaryReportOnFishRemains_18753]]
+- [[FishRemainsFromDeerCreekCaveEl_18755]]
 
 ## Jared P. Kirtland
 <!-- fm: auto_enriched: true -->
@@ -966,6 +971,18 @@ Jerome State Historic Park is a protected historic site located within the Verde
 
 ### Mentioned In
 - [[SouthAustraliaSMoundSpringsSom_20663]]
+
+## Jerusalem
+
+### Summary
+Jerusalem is a city in the Levantine region used as a reference point for illustrating the dramatic environmental gradients of the Syrian Rift Valley. The source notes that four distinct phyto-climatic belts occur along the 40-kilometer, 1200-meter descent from Jerusalem to the Dead Sea, demonstrating the 'microdimensional' short-term possibilities for biotic adjustments in the landbridge region.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Jewett Cave
 <!-- fm: auto_enriched: true -->
@@ -1479,6 +1496,18 @@ The Johnny Darter (*Etheostoma nigrum*) is a small benthic darter species common
 - [[Perch_16750]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
 
+## Johnson
+
+### Summary
+Johnson is a researcher who studied pesticide persistence in aquatic environments. This source reports that Johnson et al. found that lakes treated with 0.1 mg/l toxaphene 3-9 years prior to sampling contained: water 1-4 ppb, sediments 0.2-1 mg/l, and aquatic plants 0.05-0.4 mg/kg, demonstrating long-term environmental persistence.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Johnson (1945)
 <!-- fm: auto_enriched: true -->
 
@@ -1644,6 +1673,18 @@ Johnstown Hatchery is one of six New York State fish hatchery facilities that pa
 
 ### Mentioned In
 - [[IceCoreRecordsOfPastClimateCha_1995_09_06]]
+
+## Jolly-Seber
+
+### Summary
+Jolly-Seber is mentioned as a multi-sample mark-recapture method that can estimate abundance while accounting for births, deaths, immigration, and emigration. This source notes that while Jolly-Seber models can handle open populations, they require more sampling occasions and greater effort than the two-sample methods examined in this study, making them less practical for routine monitoring of hundreds of stream reaches where agencies need simpler, more cost-effective approaches.
+
+### Context
+> **Core Problem Addressed**: Quantifying and reducing the bias of Chapman's estimator for stream fish abundance when the spatial closure assumption is violated by dispersal between sampling occasions. The standard 2-sample mark-recapture method assumes no fish enter or exit the study reach between...
+> -- *[[ReducingEffectsOfDispersalOnTh_2018]]*
+
+### Mentioned In
+- [[ReducingEffectsOfDispersalOnTh_2018]]
 
 ## Jolyet And Regnard 1877
 <!-- fm: auto_enriched: true -->
@@ -1943,9 +1984,13 @@ Jordan and Evermann refers to the landmark ichthyological works produced by Davi
 > The **[[Jordan River]]** is the principal inlet to [[Lake Kinneret]], formed by the confluence of three headwater rivers: - **Snir (Hatsbani River)** - **Dan River** - **Hermon River (Banias River)**
 > -- *[[TheSuperficialWaters_20130]]*
 
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
 ### Mentioned In
 - [[TheCichlidFishesOfTheGenusTris_1960_12_30]]
 - [[TheSuperficialWaters_20130]]
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Jordan River National Fish Hatchery
 <!-- fm: auto_enriched: true -->
@@ -2139,6 +2184,18 @@ The Journal of Fish Diseases is a scientific journal focused on fish disease sur
 
 ### Mentioned In
 - [[ListOfCurrentFisheriesAndWildl_20304]]
+
+## Journal Water Pollution Control Federation
+
+### Summary
+The Journal Water Pollution Control Federation was the publication venue for this literature review, which appeared in Volume 40, No. 7, July 1968. The journal published annual Literature Review issues that synthesized current scientific knowledge on water pollution and its biological effects.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Juan Miller Crossing
 <!-- fm: auto_enriched: true -->
@@ -2463,6 +2520,18 @@ The Juniper-Cross Mountain Project was one of several proposed water development
 
 ### Mentioned In
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+
+## Juniperus
+
+### Summary
+Juniperus is a tree genus (juniper) associated with Palaearctic fauna. This source identifies mountain slopes supporting Juniperus with its associated Palaearctic fauna as priority core areas for rigorous conservation within the proposed Levantine Landbridge biospheric reserve, representing important examples of phyto-climatic sequences that should be preserved.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
 
 ## Juniperus deppeana
 

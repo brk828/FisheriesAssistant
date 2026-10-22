@@ -88,6 +88,18 @@ The peregrine falcon is an endangered species under federal protection in the Si
 ### Mentioned In
 - [[ManagementPlanSierraSanLuisWil_18303]]
 
+## F.D. Por
+
+### Summary
+F.D. Por is the author of the first section of this document, which presents ten theses on the biogeographic significance of the Levantine Landbridge. Por describes the landbridge as the most important crossroad of biotic exchange on Earth, functioning as a three-way filter connecting major biogeographic realms.
+
+### Context
+> This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
+> -- *[[TheLevantineLandbridgeHistoric_18634]]*
+
+### Mentioned In
+- [[TheLevantineLandbridgeHistoric_18634]]
+
 ## F1 Hybrid
 <!-- fm: auto_enriched: true -->
 
@@ -897,10 +909,14 @@ Fathead minnows (Pimephales promelas) were stocked as supplemental forage in pre
 > This 1959 study by E. E. Prather at [[Auburn University]] evaluated [[Channel Catfish]] (*Ictalurus punctatus*) as a sport fish in managed ponds. A 12.4-acre pond stocked at 2,000 fingerlings per acre with supplemental feeding produced exceptional results: fishermen harvested 1,292.5 pounds of...
 > -- *[[TheUseOfChannelCatfishAsSportF_18662]]*
 
+> This correspondence from the Arizona Game and Fish Department to Dr. W.L. Minckley documents the collection and preservation of 192 [[Razorback Sucker]] specimens from the 1994 Year Class for genetic and morphometric analysis. The collection occurred on January 31, 1995, when an earthen pond at...
+> -- *[[FollowupOnRazorbackSuckersToAs_18234]]*
+
 ### Mentioned In
 - [[ProductionOfTheThreadfinShadDo_15096]]
 - [[GlenCanyonDamDischargeTemperat_11486]]
 - [[TheUseOfChannelCatfishAsSportF_18662]]
+- [[FollowupOnRazorbackSuckersToAs_18234]]
 
 ## Father Kino's Tryonia
 
@@ -2581,6 +2597,18 @@ Fish Barrier Design refers to the engineering and ecological approach of constru
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
 - [[NotesFromAugustMeetingOnFishBa_1994_09_28]]
 - [[SwimmingAbilityOfNonNativeFish_1995_06_10]]
+
+## Fish Barrier Effectiveness
+
+### Summary
+A double fish-movement barrier was installed by the US Bureau of Reclamation in 2001 at the lower end of Aravaipa Creek, approximately 8 km from its confluence with the San Pedro River. This source demonstrates the barrier has been highly effective, preventing establishment of additional nonnative species for 15 years post-installation—common carp, black bullhead, and fathead minnow were not detected upstream of the barrier during this period, though three nonnative species (red shiner, green sunfish, and yellow bullhead) persist above it from earlier introductions.
+
+### Context
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
+### Mentioned In
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Fish Barrier Management
 <!-- fm: auto_enriched: true -->
@@ -5845,6 +5873,9 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
 > -- *[[SummarynovemberAndFebruaryMana_21001]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -6014,6 +6045,7 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 - [[GilaRiverFishdistributionProje_15844]]
 - [[ChangesInTheFishPopulationsInT_20462]]
 - [[SummarynovemberAndFebruaryMana_21001]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Flash Creek
 <!-- fm: auto_enriched: true -->
@@ -6410,6 +6442,18 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 ### Mentioned In
 - [[ANewSpeciesOfLeptocarisCrustac_13646]]
 
+## Flerov
+
+### Summary
+Flerov was an associate of Luk'yanenko who participated in extensive observations on phenol effects on fish. The research group studied various aspects of phenol toxicity including its effects on cholinesterase activity in muscles and ammonia accumulation in brains of phenol-poisoned fish.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Flexibacter Columnaris
 <!-- fm: auto_enriched: true -->
 
@@ -6551,10 +6595,14 @@ Flood Disturbance Ecology is the study of how periodic flooding events structure
 > While no species-specific ecological data are given, the letter outlines a broader ecological context relevant to [[Flood Disturbance Ecology]]:
 > -- *[[EffectOfCatastrophicFloodingOn_12289]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[EffectOfCatastrophicFloodingOn_12289]]
 - [[FishCommunityStructureAndStabi_15186]]
 - [[TripReportBlueRiverDecember_1994_12_16]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Flood Tolerance
 
@@ -7023,9 +7071,13 @@ Flow regime alteration is a major threat to Shoal Bass, particularly below hydro
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) is a monotypic catostomid endemic to the [[Colorado River Basin]]. Adults in the [[Green River Basin]] averaged 507 mm TL for males (range 405–576 mm, n=141) and 547 mm TL for females (range 485–608 mm, n=45). Males...
 > -- *[[SpawningAndMovementsOfRazorbac_1990]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[StatusAssesmentOfAShoalBassPop_2012]]
 - [[SpawningAndMovementsOfRazorbac_1990]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Flow Regime Management
 <!-- fm: auto_enriched: true -->
@@ -10661,6 +10713,18 @@ Fundulus zebrinus, commonly known as the plains killifish, is a small cyprinodon
 ### Mentioned In
 - [[AnEarlyHepatomaEpizooticInRain_1966]]
 - [[SulfonamideTherapyOfFurunculos_1948]]
+
+## Fusarium tricinctum
+
+### Summary
+Fusarium tricinctum is a fungal species mentioned in this 1967 literature review on water pollution effects on freshwater fish. The source does not provide specific details about this organism's role or significance in the reviewed literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Fusconaia Ebenus
 <!-- fm: auto_enriched: true -->

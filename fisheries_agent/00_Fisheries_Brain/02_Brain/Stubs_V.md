@@ -1197,6 +1197,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This community conservation update highlights collaborative efforts between private landowners in Arizona and conservation organizations to protect federally listed and rare aquatic species. Multiple landowners across Arizona have voluntarily implemented habitat protection measures including cattle...
 > -- *[[ProtectionUpdatePrivateLandown_20666]]*
 
+> This correspondence from the Arizona Game and Fish Department to Dr. W.L. Minckley documents the collection and preservation of 192 [[Razorback Sucker]] specimens from the 1994 Year Class for genetic and morphometric analysis. The collection occurred on January 31, 1995, when an earthen pond at...
+> -- *[[FollowupOnRazorbackSuckersToAs_18234]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1338,6 +1341,7 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[ReviewOfTheDraftReportEntitled_12981]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
 - [[ProtectionUpdatePrivateLandown_20666]]
+- [[FollowupOnRazorbackSuckersToAs_18234]]
 
 ## Verde River Aquatic Ecology
 
@@ -3198,6 +3202,18 @@ Volcan La Malinche is a volcano that forms the eastern boundary of the Puebla Pl
 
 ### Mentioned In
 - [[AlgunasNotasSobreLaBiologiaYLa_17604]]
+
+## Volodin
+
+### Summary
+Volodin was an associate of Luk'yanenko who contributed to extensive observations on phenol effects on fish. The collaborative research examined how phenol toxicity varied with environmental factors and documented the biochemical mechanisms of phenol poisoning in fish.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Volume 44 (1914)
 <!-- fm: auto_enriched: true -->

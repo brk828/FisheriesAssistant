@@ -516,6 +516,18 @@ Kaolin is a type of clay mineral used in industrial processes. This study refere
 ### Mentioned In
 - [[WhyAreThereSoManyCichlidSpecie_16893]]
 
+## Kariya
+
+### Summary
+Kariya is a researcher mentioned in this 1967 literature review on water pollution effects on freshwater fish. The source does not provide specific details about Kariya's research contributions or findings in the reviewed literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## kariz
 
 ### Summary
@@ -720,6 +732,18 @@ Kawatana is a location on Omura Bay north of Nagasaki where Jordan and Snyder co
 
 ### Mentioned In
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
+
+## Kawazu
+
+### Summary
+Kawazu is a researcher mentioned in this 1967 literature review on water pollution effects on freshwater fish. The source does not provide specific details about Kawazu's research contributions or findings in the reviewed literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Kayler Spring
 <!-- fm: auto_enriched: true -->
@@ -939,6 +963,18 @@ Kenilworth Aquatic Gardens is a restored marsh area on the Anacostia River in Wa
 
 ### Mentioned In
 - [[FisherySurveyOfTheMousamRiver_12823]]
+
+## Kennedy
+
+### Summary
+Kennedy was a researcher who collaborated with Mihursky on temperature effects in aquatic environments. Together they published an excellent bibliography of 1220 references on temperature effects and described water temperature criteria necessary to protect aquatic life for coldwater salmonid streams, warm-water centrarchid environments, and estuaries.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Kenney Reservoir
 <!-- fm: auto_enriched: true -->
@@ -1365,6 +1401,18 @@ Kerr Reservoir is a reservoir located on the North Carolina/Virginia border wher
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
 
+## Kerswill
+
+### Summary
+Kerswill is a researcher who studied effects of forest pesticide spraying on salmon populations. This source reports that Kerswill and Elson studied effects of DDT spraying for Spruce Budworm control in New Brunswick on Atlantic Salmon, finding that DDT-in-oil at 620 g/ha caused heavy losses of underyearling salmon and parr within 3 weeks, with evidence of delayed mortality occurring 4-6 months after spraying.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
+
 ## Kettle Hole Pond Ecology
 <!-- fm: auto_enriched: true -->
 
@@ -1392,6 +1440,18 @@ Keuka Lake in New York was one of the freshwater collection sites for Characeae 
 ### Mentioned In
 - [[TheBearingOfCytologicalAndCert_19928]]
 - [[ProposalForContinuedSupportOfN_19929]]
+
+## Keup
+
+### Summary
+Keup was a co-author of a 1967 publication that this review identifies as "the most important recent single contribution to the literature on the biological aspects of water pollution." This companion publication compiled important papers on water pollution biology dating back to classical 1908 work.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Keuper Marl
 <!-- fm: auto_enriched: true -->
@@ -2508,6 +2568,18 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[EcologyOfCatostomidsInTwinLake_12424]]
 - [[AuthortitleIndexToInlandFisher_14367]]
 - [[IntroductionOfTheBonnevilleCis_18820]]
+
+## Kolkwitz
+
+### Summary
+Kolkwitz was co-author of a classical 1908 work on the biological aspects of water pollution. This early publication was included in the 1967 compilation by Keup, Ingram, and Mackenthun that this review identifies as a major contribution to water pollution literature.
+
+### Context
+> This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
+> -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
+
+### Mentioned In
+- [[BiologyOfFreshwaterFishInARevi_17896]]
 
 ## Kolkwitz And Marsson Saprobic System
 <!-- fm: auto_enriched: true -->

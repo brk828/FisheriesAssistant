@@ -1703,6 +1703,9 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > A comprehensive fisheries survey of [[Eagle Creek]] in [[Greenlee County]], [[Arizona]] was conducted June 23-25, 1997 by [[Arizona State University]] researchers. The survey documented fifteen fish species across seven sampling locations spanning from [[Honeymoon Campground]] to 1.2 km downstream...
 > -- *[[EagleCreekGreenleeCountyArizon_17216]]*
 
+> **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
+> -- *[[LongtermMonitoringOfADesertFis_2021]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -1792,6 +1795,7 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[SummaryRedShinerSurveyLowerAra_13783]]
 - [[FisheriesReportOfTheLowerColor_16429]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
+- [[LongtermMonitoringOfADesertFis_2021]]
 
 ## Yellow Creek Lake
 <!-- fm: auto_enriched: true -->
