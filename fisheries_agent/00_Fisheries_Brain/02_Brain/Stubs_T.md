@@ -1567,10 +1567,14 @@ Tebalurus is a genus of madtom catfish (family Ictaluridae) found in the Cuatro 
 > This memorandum from the [[U.S. Fish and Wildlife Service]] establishes reporting and accounting requirements for all projects funded under the [[Colorado River Recovery Program]] in fiscal year 1989. The [[Colorado River Implementation Committee]] mandated that each funded project submit an annual...
 > -- *[[FyReportingAndAccounting_21020]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[MemorandumOnAnnualResearchersQ_18168]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[FyReportingAndAccounting_21020]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Technical Work Group
 <!-- fm: auto_enriched: true -->
@@ -9006,6 +9010,9 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > This document provides a comprehensive overview of aquatic insects as food sources for [[Trout]] in New York State streams, with particular emphasis on [[Mayflies]] (Ephemeroptera). Written by Dwight A. Webster of the Department of Conservation, Cornell, the article describes the life cycles,...
 > -- *[[TroutFoodInStreams_19660]]*
 
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
 ### Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -9052,6 +9059,7 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 - [[Cyclostome_14164]]
 - [[TroutFoodInStreams_19660]]
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
 
 ## Trout Creek
 <!-- fm: auto_enriched: true -->

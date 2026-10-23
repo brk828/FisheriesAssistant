@@ -2207,6 +2207,18 @@ Oocystis pusilla is a green algae species that dominated the phytoplankton commu
 ### Mentioned In
 - [[DesmosomesInTheFollicularEpith_1964_06_11]]
 
+## Open Water Creel Census
+
+### Summary
+This was the less intensive spring-season survey used alongside the ice census at Branch Lake. Observers counted anglers only at Hanson's Landing, leaving cottage and other landings unchecked, and sampling stopped once the open water catch matched the full ice-season count, which took 8 days.
+
+### Context
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
+### Mentioned In
+- [[FinalReportOfTheIceFishingCree_12822]]
+
 ## Opercle Aging Method
 <!-- fm: auto_enriched: true -->
 
@@ -4677,8 +4689,12 @@ The Ouray Endangered Fish Hatchery is a propagation facility for endangered fish
 > This FY93 annual report details a multi-year investigation into **olfactory imprinting** and **thyroid hormone (thyroxine, T4) dynamics** in two endangered Colorado River Basin fishes: [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Razorback Sucker]] (*Xyrauchen texanus*). The central hypo...
 > -- *[[UmbrellaProjectChemoreceptionI_1993]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[UmbrellaProjectChemoreceptionI_1993]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Ouray National Fish Hatchery
 <!-- fm: auto_enriched: true -->

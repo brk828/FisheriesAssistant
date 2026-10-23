@@ -2749,6 +2749,18 @@ Justicia (water willow) is an aquatic vegetation genus found in Alabama streams.
 ### Mentioned In
 - [[FishesOfAlabama_1990]]
 
+## Justin W. Leonard
+
+### Summary
+Justin W. Leonard was the author of this 1939 paper, affiliated with the Institute for Fisheries Research in Michigan. The paper reviews stream bottom sampling methods and tests the accuracy of single one-square-foot samples. He endorses the Surber Net as the most satisfactory sampling tool available.
+
+### Context
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
+### Mentioned In
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
+
 ## Juvenile-Adult Telemetry
 <!-- fm: auto_enriched: true -->
 

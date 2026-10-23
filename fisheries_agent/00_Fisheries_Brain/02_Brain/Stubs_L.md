@@ -5410,6 +5410,9 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > This memorandum from the [[Bureau of Reclamation]] summarizes the November 18, 1992 workshop on the proposed [[Multiple Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to support maintenance and recovery of threatened and endangered fish species, particularly...
 > -- *[[GlenCanyonEnvironmentalStudies_19718]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -5555,6 +5558,7 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[PotentialForTransferOfNonnativ_15168]]
 - [[GeneticDiversityOfRazorbackSuc_19113]]
 - [[GlenCanyonEnvironmentalStudies_19718]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Lake Powell Fishery
 <!-- fm: auto_enriched: true -->
@@ -6216,6 +6220,9 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 > This 1947 report by Albert S. Hazzard describes a cooperative multi-state experiment to evaluate the effectiveness of [[Lake Trout]] fingerling stocking in [[Lake Michigan]]. Between 1944-1946, 411,394 hatchery-reared lake trout (12.6% of 3,277,402 total planted) were marked by fin-clipping and...
 > -- *[[LakeTroutPlantingExperimentInL_20742]]*
 
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -6287,6 +6294,7 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 - [[Cyclostome_14164]]
 - [[FishesOfNevada_15993]]
 - [[LakeTroutPlantingExperimentInL_20742]]
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## Lake Trout Decline
 <!-- fm: auto_enriched: true -->
@@ -7298,6 +7306,9 @@ Landlocked salmon are populations of Atlantic salmon (Salmo salar) that complete
 > This 1954 report by Chief Aquatic Biologist John R. Greeley summarizes the rapidly-growing salmon fishery program in New York State lakes, involving two distinct species: [[Landlocked Salmon]] (Atlantic salmon, *Salmo salar*) and [[Red Salmon]] (Pacific sockeye, *Oncorhynchus nerka*). The program,...
 > -- *[[SalmonInNewYork_19216]]*
 
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
 ### Mentioned In
 - [[BigGameFishSpeciesMostSuitedTo_14647]]
 - [[ExperimentalIntroductionsOfFre_1960_01_01]]
@@ -7305,6 +7316,7 @@ Landlocked salmon are populations of Atlantic salmon (Salmo salar) that complete
 - [[StationProfileOfTheGreenLakeNa_1993]]
 - [[TheBrownTroutInMaine_1954]]
 - [[SalmonInNewYork_19216]]
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## Landlocked Salmon Populations
 <!-- fm: auto_enriched: true -->
@@ -20584,6 +20596,18 @@ Lymnaeidae, or pond snails, are mollusks that were present at all sampling stati
 
 ### Mentioned In
 - [[StockingWarmWaterFishMichiganF_14376]]
+
+## Lyndon H. Bond
+
+### Summary
+Lyndon H. Bond is listed as one of the three co-authors of this 1952 Maine Department of Inland Fisheries and Game report evaluating ice fishing effects on Branch Lake trout and salmon. His specific role is not described in the source.
+
+### Context
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
+### Mentioned In
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## Lyngbya
 

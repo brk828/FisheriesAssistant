@@ -1054,6 +1054,9 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
 > -- *[[ReportOfTheNationalFishHatcher_20170]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1457,6 +1460,7 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[GlenCanyonEnvironmentalStudies_19718]]
 - [[UpdateOnActivities_20797]]
 - [[ReportOfTheNationalFishHatcher_20170]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## U.S. Fish And Wildlife Service 1986
 <!-- fm: auto_enriched: true -->

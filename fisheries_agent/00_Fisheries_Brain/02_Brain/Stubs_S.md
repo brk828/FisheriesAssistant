@@ -4171,6 +4171,9 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 > This document comprises correspondence and stocking records from the [[U.S. Fish and Wildlife Service]] documenting the translocation and management of [[Yaqui Chub]] (*Gila purpurea*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis*) at [[San Bernardino National Wildlife Refuge]] and [[Leslie...
 > -- *[[CompiledStockingRecordsForSanB_15975]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AsianTapewormEradicationStrate_13118]]
@@ -4218,6 +4221,7 @@ San Bernardino National Wildlife Refuge (SBNWR) is a protected area in southeast
 - [[MinutesdesertFishesRecoveryTea_13730]]
 - [[StatusReportLilaeopsisSchaffne_14909]]
 - [[CompiledStockingRecordsForSanB_15975]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## San Bernardino Nwr
 <!-- fm: auto_enriched: true -->
@@ -5633,6 +5637,9 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 > This report assesses the potential for non-native fish species transported in [[Central Arizona Project]] (CAP) canal waters to enter the [[Gila River]] system and impact threatened or endangered native fish species, particularly [[Spikedace]] (*Meda fulgida*), [[Loach Minnow]] (*Tiaroga cobitis*),...
 > -- *[[PotentialForTransferOfNonnativ_15168]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -5716,6 +5723,7 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[SanJuanRiverBasinRecoveryImple_11583]]
 - [[PotentialForTransferOfNonnativ_15168]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## San Juan River Arm
 
@@ -7820,6 +7828,9 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 > This April 1997 memorandum from Bureau of Reclamation Area Manager Dennis E. Schroeder documents a contentious budget meeting regarding the Central Arizona Project (CAP) Fiscal Year 1998 appropriations. The Central Arizona Water Conservation District (CAWCD) recommended $6 million in cuts,...
 > -- *[[CentralArizonaProjectCapFiscal_20614]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[CienegaCreekWatershedWaterSour_18990]]
@@ -7863,6 +7874,7 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 - [[ANewGilaTopminnowLocalityInSou_15010]]
 - [[NativeArizonaFishesPartLivebea_18575]]
 - [[CentralArizonaProjectCapFiscal_20614]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Santa Cruz River Basin
 <!-- fm: auto_enriched: true -->
@@ -11188,6 +11200,18 @@ Sediment deposition refers to the accumulation of sediment particles in aquatic 
 ### Mentioned In
 - [[OurayWildlifeRefugeControlOfFl_16471]]
 
+## Sediment Flushing Flow
+
+### Summary
+A sediment flushing flow is a managed release intended to move sediment through a river channel. In this source, the 'Sediment Flushing Flow' proposal ($150.0K requested, rank 2.500) and the 'Sediment Flushing Flow Studies' proposal ($58.0K requested, rank 1.714) were unfunded and unresolved, and were referred to the sediment committee.
+
+### Context
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
+### Mentioned In
+- [[TechnicalGroupMeetingMinutesJu_18171]]
+
 ## Sediment Loading And Fish Habitat
 <!-- fm: auto_enriched: true -->
 
@@ -12587,6 +12611,9 @@ Sharp Spring is a small, isolated desert spring population in the Gila River bas
 > This revised recovery plan addresses the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), one of two subspecies of [[Sonoran Topminnow]] found in Arizona and northern Mexico. Listed as endangered in 1967, the species was historically among the most abundant fishes in the lower...
 > -- *[[DraftGilaTopminnowPoeciliopsis_11637]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 - [[MhcVariationInTheEndangeredGil_20763]]
@@ -12599,6 +12626,7 @@ Sharp Spring is a small, isolated desert spring population in the Gila River bas
 - [[StatusReportForNaturalAndIntro_12972]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[DraftGilaTopminnowPoeciliopsis_11637]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Sharp Springs
 
@@ -15519,6 +15547,9 @@ Simuliidae is a family of aquatic insects commonly known as black flies, whose l
 > This Master's thesis investigated the seasonal and longitudinal distribution and abundance of dominant benthic invertebrates in [[Aravaipa Creek]], a [[Sonoran Desert]] stream in Arizona, from April 1975 to April 1976. Eight sampling stations were established representing habitats above, within,...
 > -- *[[DistributionAndAbundanceOfBent_13853]]*
 
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
 ### Mentioned In
 - [[LifeHistoryOfTheBrindledMadtom_14059]]
 - [[MiddleGilaRiverAquaticStudy_12505]]
@@ -15530,6 +15561,7 @@ Simuliidae is a family of aquatic insects commonly known as black flies, whose l
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
 - [[ObservationsOnTheFoodHabitsOfD_20140]]
 - [[DistributionAndAbundanceOfBent_13853]]
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
 
 ## Simulium
 <!-- fm: auto_enriched: true -->
@@ -18470,6 +18502,9 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 > This revised recovery plan addresses the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), one of two subspecies of [[Sonoran Topminnow]] found in Arizona and northern Mexico. Listed as endangered in 1967, the species was historically among the most abundant fishes in the lower...
 > -- *[[DraftGilaTopminnowPoeciliopsis_11637]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -18494,6 +18529,7 @@ Sonoita Creek is a small permanent tributary of the Santa Cruz River in southern
 - [[HabitatUseAndPreferenceOfGilaT_18783]]
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[DraftGilaTopminnowPoeciliopsis_11637]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Sonora
 <!-- fm: auto_enriched: true -->
@@ -27781,6 +27817,18 @@ Stizostedion vitreum is the walleye, a fish species present in Lake Powell durin
 ### Mentioned In
 - [[VariationInApacheTroutPopulati_1985]]
 
+## Stocking Policy
+
+### Summary
+Stocking policy refers to decisions about releasing fish into waters. The source says bottom sampling results informed stocking policy and estimates of stream carrying capacity for game fish, especially trout. The paper does not give specific stocking recommendations.
+
+### Context
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
+### Mentioned In
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
+
 ## Stocking Programs
 <!-- fm: auto_enriched: true -->
 
@@ -28378,6 +28426,18 @@ Strayhorse Creek is a tributary that flows into the Blue River in Greenlee Count
 
 ### Mentioned In
 - [[CommunityStructureInNaturalStr_16506]]
+
+## Stream Bottom Sampling
+
+### Summary
+Stream bottom sampling is the collection of benthic invertebrates from a defined area of stream bed to estimate food available to fish. This source reviews its accepted techniques and tests whether a single sample is adequate. Repeated samples from uniform gravel and riffle areas in Michigan streams in 1937 gave consistent total volumes, though species composition varied widely.
+
+### Context
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
+### Mentioned In
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
 
 ## Stream Capture
 <!-- fm: auto_enriched: true -->
@@ -29564,6 +29624,18 @@ Strychnine is a rodenticide for which toxicity data was included in this report.
 
 ### Mentioned In
 - [[SacoRiverFisheryManagement_12824]]
+
+## Stuart E. DeRoche
+
+### Summary
+Stuart E. DeRoche is one of the three authors of this 1952 Maine Department of Inland Fisheries and Game report on the Branch Lake ice fishing creel census. The source lists him alongside W. L. Minckley and Lyndon H. Bond as preparers of the study.
+
+### Context
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
+### Mentioned In
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## Stuart G. Fisher
 <!-- fm: auto_enriched: true -->
@@ -30892,6 +30964,18 @@ The Superstition Wilderness is a protected wilderness area on the Globe Ranger D
 
 ### Mentioned In
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
+
+## Surber Net
+
+### Summary
+The Surber Net is a sampling device with two hinged 2-foot-square brass frames and a silk grit-cloth bag that catches material dislodged by the current. It was adopted by the Institute in 1934 and is endorsed by Leonard as the most satisfactory tool available. The paper also lists its limitations, including freezing in cold weather, difficulty seating on rough substrate, and poor performance in quiet water.
+
+### Context
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
+### Mentioned In
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
 
 ## Surber Sampler
 

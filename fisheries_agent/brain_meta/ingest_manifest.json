@@ -1911,6 +1911,16 @@
   "status": "done",
   "timestamp": "2026-10-14T20:15:02+00:00"
  },
+ "2a3e86010e293d9e5f3c739abb18386567d0b0afcb6069cab4a9beceef85bdc3": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16959.pdf",
+  "method": "ocr",
+  "note": "GeneticCharacterizationOfSonor_16959.md",
+  "source_id": "X-2a3e8601",
+  "status": "done",
+  "timestamp": "2026-10-23T23:21:35+00:00"
+ },
  "2a43dd10476ca060911b37a599e5aaa41bdae9e440460cd10a969981f7f1ae15": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -3989,6 +3999,16 @@
   "source_id": "X-57854136",
   "status": "done",
   "timestamp": "2026-10-18T05:13:43+00:00"
+ },
+ "579451bd99cc7995eaf88d5ca8620546f04069f5762ea28a2b1b952b8e4c943b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "20281.pdf",
+  "method": "ocr",
+  "note": "CommentsOnTheAdequacyOfAccepte_20281.md",
+  "source_id": "X-579451bd",
+  "status": "done",
+  "timestamp": "2026-10-23T23:23:10+00:00"
  },
  "5795fe4d427ae1213014998dd5ca6367b298d0e7f1c0cf00a5fb247f1a382d82": {
   "citation_source": "minckley-sheet",
@@ -7059,6 +7079,16 @@
   "status": "done",
   "timestamp": "2026-10-18T05:25:44+00:00"
  },
+ "99847a1f4843f6c0b344af07465ec239c8809241c88b5b027e1cdf573d246272": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "12822.pdf",
+  "method": "ocr",
+  "note": "FinalReportOfTheIceFishingCree_12822.md",
+  "source_id": "X-99847a1f",
+  "status": "done",
+  "timestamp": "2026-10-23T23:20:46+00:00"
+ },
  "99a12da18d937747ecd29c715b704b04986f279049e314132f0157ab278e5e1d": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -8519,6 +8549,13 @@
   "source_id": "X-bb45466c",
   "status": "done",
   "timestamp": "2026-10-18T05:05:35+00:00"
+ },
+ "bbc9c640daf8831b47bbe39a0a9b2429487d68238e6a1e3929ae7e34262735bf": {
+  "file": "12694.pdf",
+  "reason": "model response reached its max_tokens limit",
+  "source_id": "X-bbc9c640",
+  "status": "failed",
+  "timestamp": "2026-10-23T23:20:00+00:00"
  },
  "bbcea8ca324e4df29a80f6d59323699c790b26b799939d107bd27294f6180fd1": {
   "citation_source": "minckley-sheet",
@@ -11435,6 +11472,16 @@
   "source_id": "X-f6f4b4d7",
   "status": "skipped",
   "timestamp": "2026-10-20T03:04:39+00:00"
+ },
+ "f71464e419a92246ddc70949db3c333bbe4e1dc61e3e9514a7b8f314b1249d6e": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "18171.pdf",
+  "method": "ocr",
+  "note": "TechnicalGroupMeetingMinutesJu_18171.md",
+  "source_id": "X-f71464e4",
+  "status": "done",
+  "timestamp": "2026-10-23T23:22:19+00:00"
  },
  "f729f8efff02fd56d526b25cf4ef09540dad54f2e2a7c85e330d36cdd51fda84": {
   "citation_source": "minckley-sheet",

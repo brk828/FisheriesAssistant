@@ -947,9 +947,13 @@ The Main Outlet Drain Extension (M.O.D.E.), also known as the Wellton-Mohawk Can
 > This 1955 publication by the [[Maine Department of Inland Fisheries and Game]] presents findings from a comprehensive 2-year study (1952-1953) of [[Smallmouth Bass]] populations in [[Big Lake]], [[Washington County]], Maine. The study examined spawning behavior, growth rates, fishing pressure,...
 > -- *[[TheMaineSmallmouth_14928]]*
 
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
 ### Mentioned In
 - [[SacoRiverFisheryManagement_12824]]
 - [[TheMaineSmallmouth_14928]]
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## Mainstem Fish Studies
 <!-- fm: auto_enriched: true -->
@@ -993,9 +997,13 @@ The Main Outlet Drain Extension (M.O.D.E.), also known as the Wellton-Mohawk Can
 > Philip Hedrick describes a novel bi-allelic selection model discovered while analyzing parent-offspring segregation data at two human [[Major Histocompatibility Complex]] (MHC) loci — **HLA-A** and **HLA-B** — in a South Amerindian population (data from E. L. Black and P. W. Hedrick, unpublished)...
 > -- *[[NeutralityOrSelection_20768]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[MhcVariationInTheEndangeredGil_20763]]
 - [[NeutralityOrSelection_20768]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Makah Reservation
 <!-- fm: auto_enriched: true -->
@@ -1371,8 +1379,12 @@ This source does not provide specific information about a "Management Committee"
 > This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[TowardRangewideIntegrationOfRe_18628]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[TowardRangewideIntegrationOfRe_18628]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Management Group
 
@@ -1401,6 +1413,18 @@ The Management Group is the coordination-level body within the Recovery Implemen
 
 ### Mentioned In
 - [[ReReviewOfPikeminnowReport_1998_10_28]]
+
+## Management Units
+
+### Summary
+Management Units (MUs) are populations with diverged allele frequencies and low gene flow, as defined by Moritz (1994) and used here as a conservation framework. The authors suggest several Gila topminnow populations, such as Bylas Spring 2, Cienega Creek, Sharp Spring, and the Sonoita Creek group, be considered MUs.
+
+### Context
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
+### Mentioned In
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Manatee
 <!-- fm: auto_enriched: true -->
@@ -8047,6 +8071,18 @@ Micropterus salmoides floridanus is the Florida Largemouth Bass, a subspecies of
 ### Mentioned In
 - [[IsolationAndCharacterizationOf_1998]]
 
+## Microsatellite Loci
+
+### Summary
+Microsatellite loci are short, repeated DNA sequences used as genetic markers. In this study, five polymorphic dinucleotide microsatellite (MS) loci were used to compare allele frequencies and variation among topminnow populations.
+
+### Context
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
+### Mentioned In
+- [[GeneticCharacterizationOfSonor_16959]]
+
 ## Microsporidea
 <!-- fm: auto_enriched: true -->
 
@@ -10506,6 +10542,9 @@ Mitochondrial DNA (mtDNA) in fish science refers to the genetic material contain
 > This administrative memorandum documents space allocation negotiations at [[Arizona State University]] for a proposed multi-year research project on the taxonomy of the fish genus [[Gila]]. The proposal, submitted to the [[U.S. Bureau of Reclamation]], requests $993,693 over 3 years (including...
 > -- *[[SpaceForResearchProjectGilaTax_11793]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[MhcVariationInTheEndangeredGil_20763]]
 - [[PreProposalForStudiesOfMtdnaGe_1989_12_26]]
@@ -10516,6 +10555,7 @@ Mitochondrial DNA (mtDNA) in fish science refers to the genetic material contain
 - [[GeneticDiversityOfRazorbackSuc_18428]]
 - [[DeclineOfTheRazorbackSuckerInL_2003]]
 - [[SpaceForResearchProjectGilaTax_11793]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Mitochondrial Dna (Mtdna) Analysis
 <!-- fm: auto_enriched: true -->
@@ -12203,6 +12243,9 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 > This revised recovery plan addresses the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), one of two subspecies of [[Sonoran Topminnow]] found in Arizona and northern Mexico. Listed as endangered in 1967, the species was historically among the most abundant fishes in the lower...
 > -- *[[DraftGilaTopminnowPoeciliopsis_11637]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[BilateralAsymmetryInMuseumAndW_18912]]
@@ -12221,6 +12264,7 @@ Monkey Spring is an isolated desert spring and creek system located within the G
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[InteractionsBetweenPoeciliopsi_16887]]
 - [[DraftGilaTopminnowPoeciliopsis_11637]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Monkey Spring Fontelicella
 
@@ -13224,6 +13268,18 @@ Moringuidae is an eel family that shares some similarities with Dysommina, inclu
 ### Mentioned In
 - [[FishCommunityStructureAndStabi_15186]]
 - [[FishFaunalBreaksAndStreamOrder_1986]]
+
+## Moritz 1994
+
+### Summary
+A source cited for the definition of Management Units (MUs) as populations with diverged allele frequencies and low gene flow. The paper uses this definition as part of its conservation framework.
+
+### Context
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
+### Mentioned In
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Morizot
 <!-- fm: auto_enriched: true -->

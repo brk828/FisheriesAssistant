@@ -3330,6 +3330,18 @@ The Neches River is a Texas river that flows through Tyler and Jasper Counties a
 ### Mentioned In
 - [[ANewSpeciesOfAnouraMammaliaChi_1968_12_30]]
 
+## Needham Sampler
+
+### Summary
+The Needham Sampler was a bottom sampling device used in New York State drainage surveys in 1928 that enclosed one square foot in a galvanized metal box. The source describes it as bulky. It was one of the earlier devices compared against the later Surber Net.
+
+### Context
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
+### Mentioned In
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
+
 ## Needles
 
 ### Summary

@@ -420,6 +420,18 @@ Quartzite Falls is a waterfall barrier on the uppermost Salt River in Arizona. T
 ### Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
 
+## Quattro et al 1996
+
+### Summary
+A study reporting mitochondrial DNA restriction-site differences between Gila and Yaqui topminnows. The present paper cites it as independent support for the strong genetic divergence between the two taxa.
+
+### Context
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
+### Mentioned In
+- [[GeneticCharacterizationOfSonor_16959]]
+
 ## Quattro Et Al. 1996
 <!-- fm: auto_enriched: true -->
 

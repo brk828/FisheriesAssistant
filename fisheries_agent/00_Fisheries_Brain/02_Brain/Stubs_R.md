@@ -3158,6 +3158,9 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This FY-93 annual report documents hydrological support activities provided by the U.S. Fish and Wildlife Service Water Resources Division for the [[Colorado River Recovery Program]]. The project, ongoing since 1988, provides critical water temperature data collection, flow quantification, gage...
 > -- *[[FyAnnualProjectReportColoradoR_21154]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -3973,6 +3976,7 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[FishFareFineAtPhoenix_19367]]
 - [[AgeAndGrowthOfFlatheadCatfishI_20904]]
 - [[FyAnnualProjectReportColoradoR_21154]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Razorback Sucker Age And Growth
 <!-- fm: auto_enriched: true -->
@@ -4234,10 +4238,14 @@ The Recovery Implementation Committee is the policy-level body overseeing the Co
 > This 1989 correspondence from the U.S. Fish and Wildlife Service Regional Director clarifies the statutory authority for establishing recovery goals for three endangered Colorado River fish species: [[Colorado Squawfish]], [[Humpback Chub]], and [[Bonytail Chub]]. The letter asserts that under...
 > -- *[[UsFishAndWildlifeServiceAuthor_14029]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[UsFishAndWildlifeServiceAuthor_14029]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Recovery Implementation Plan
 <!-- fm: auto_enriched: true -->
@@ -4282,6 +4290,9 @@ A Recovery Implementation Program (RIP) is a structured, multi-stakeholder admin
 > This document is a U.S. Fish and Wildlife Service memorandum and supporting materials dated August 1991 regarding the draft final rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the Endangered Species Act. The memorandum from Regional Director, Region 6,...
 > -- *[[RazorbackFinalRuleCriticalHabi_16155]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -4301,6 +4312,7 @@ A Recovery Implementation Program (RIP) is a structured, multi-stakeholder admin
 - [[FiscalYearProgramGuidance_11762]]
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[RazorbackFinalRuleCriticalHabi_16155]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Recovery Implementation Program for Endangered Fish Species
 

@@ -4144,6 +4144,18 @@ The Parker Division (also referred to as Parker II) is a reach of the Colorado R
 ### Mentioned In
 - [[SomePhysiologicalConsequencesO_1980]]
 
+## Parker Et Al 1999
+
+### Summary
+A prior study that used the same genetic markers to differentiate Gila topminnow stocks from four major watersheds: Bylas Spring 2, Cienega Creek, Monkey Spring, and Sharp Spring. Its earlier results informed the present study's management recommendations.
+
+### Context
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
+### Mentioned In
+- [[GeneticCharacterizationOfSonor_16959]]
+
 ## Parker Fish And Wildlife Resource Office
 <!-- fm: auto_enriched: true -->
 
@@ -15580,6 +15592,18 @@ Pot Creek is a tributary of the Green River within Lodore Canyon in the Colorado
 
 ### Mentioned In
 - [[TheBiologicalEffectsOfSyntheti_1962]]
+
+## Potamogeton Filiformis
+
+### Summary
+Potamogeton filiformis is a pondweed whose dense beds grew in slow, sand-bottomed Pine River water about 24 inches deep. In this source, these beds held almost no bottom fauna, mainly blackfly larvae and pupae and tanypodine midge larvae living on the plants. Leonard suggests the beds may be nearly free of animal life after the blackfly and midge emergence period.
+
+### Context
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
+### Mentioned In
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
 
 ## Potamogeton Pectinatus
 <!-- fm: auto_enriched: true -->

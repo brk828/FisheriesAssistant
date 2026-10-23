@@ -1017,6 +1017,9 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
 > -- *[[SummarynovemberAndFebruaryMana_21001]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -1029,6 +1032,7 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[DraftManagementGroupMeetingSum_17880]]
 - [[SummarynovemberAndFebruaryMana_21001]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Kenny Reservoir
 

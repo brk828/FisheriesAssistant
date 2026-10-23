@@ -15232,12 +15232,16 @@ Boyce Thompson refers to a location maintaining a refugium population of Desert 
 > This 1989 Bureau of Land Management biological assessment documents a proposed introduction of [[Desert Pupfish]] (*Cyprinodon macularius*) into three spring-fed ponds at two locations in the Safford District, Arizona. The sites—Cold Spring Seep (Ponds 1 and 2) and Big Spring—already support...
 > -- *[[BiologicalAssessmentDesertPupf_12882]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[LetterToMarkStrombergRegarding_1986_06_02]]
 - [[StockingOfEndangeredDesertPupf_12706]]
 - [[FactorsAffectingTheSuccessOfGi_12971]]
 - [[RenovationOfMesquiteSpringAndS_17653]]
 - [[BiologicalAssessmentDesertPupf_12882]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Boyce Thompson Desert Arboretum
 
@@ -15629,8 +15633,13 @@ Brahea is a genus of palms in the family Palmae. Multiple Brahea palm species ar
 ## Branch Lake
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
 ### Mentioned In
 - [[TheBrownTroutInMaine_1954]]
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## Branched Oak Reservoir
 
@@ -17519,6 +17528,9 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This 1962 conference paper examines the relationship between freshwater fisheries and nature conservation in developed countries, particularly Britain and North America. The author identifies four main categories of freshwater fishing: commercial fishing for species like [[Salmon]] (*Salmo salar*)...
 > -- *[[TheInteractionBetweenFreshwate_20227]]*
 
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -17725,6 +17737,7 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[FishesOfNevada_15993]]
 - [[ExperimentalBrownTroutManageme_17717]]
 - [[TheInteractionBetweenFreshwate_20227]]
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## Brown Trout Natural Feeding Activity
 <!-- fm: auto_enriched: true -->
@@ -20148,6 +20161,9 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > This memorandum from [[American Rivers]] Executive Director Rebecca R. Wodder to the Board of Directors provides a comprehensive update on organizational activities as of May 24, 1999. The document covers major conservation initiatives focused on river restoration, salmon recovery, dam removal...
 > -- *[[UpdateOnActivities_20797]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -20319,6 +20335,7 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[GlenCanyonEnvironmentalStudies_19685]]
 - [[GlenCanyonEnvironmentalStudies_19718]]
 - [[UpdateOnActivities_20797]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Bureau Of Reclamation (Br-Gces)
 <!-- fm: auto_enriched: true -->
@@ -21018,12 +21035,16 @@ Bylas Spring is one of the four remaining natural refuge populations of the enda
 > This study examines genetic variation in the endangered [[Gila Topminnow]] (Poeciliopsis occidentalis occidentalis) across four remaining natural populations in Arizona using microsatellite loci, and integrates these findings with previous allozyme, mtDNA, and MHC data. The research addresses the...
 > -- *[[MolecularVariationAndEvolution_18435]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[MhcVariationInTheEndangeredGil_20763]]
 - [[MinutesDesertFishesRecoveryTea_1997_12_19]]
 - [[ReAsuTopminnowPopulations_12698]]
 - [[ReportOfFloodDamageToBigSpring_18984]]
 - [[MolecularVariationAndEvolution_18435]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Bylas Springs
 <!-- fm: auto_enriched: true -->

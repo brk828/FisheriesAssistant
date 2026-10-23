@@ -7607,9 +7607,13 @@ The Dingell-Johnson Project refers to a federal funding program supporting fishe
 > This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
 > -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
 
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
 ### Mentioned In
 - [[FisheriesManagementOfElCapitan_16317]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## Dingell-Johnson Wallop-Breaux Sportfish Restoration Fund
 <!-- fm: auto_enriched: true -->
@@ -8992,6 +8996,9 @@ Dolly Varden (*Salvelinus malma*) is a species of char in the Salmonidae family 
 > This document establishes the San Juan River Basin Recovery Implementation Program (RIP), a comprehensive cooperative framework designed to protect and recover endangered fish species—[[Colorado Squawfish]] and [[Razorback Sucker]]—while allowing water development to proceed in compliance with...
 > -- *[[SanJuanRiverBasinRecoveryImple_11583]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[AdultBonytailFromDexterForStom_13615]]
 - [[AsuCostProposalForGilaTaxonomy_18173]]
@@ -9002,6 +9009,7 @@ Dolly Varden (*Salvelinus malma*) is a species of char in the Salmonidae family 
 - [[ANonlethalStomachPumpToRecover_13647]]
 - [[RealitiesOfProvidingWaterForEn_20669]]
 - [[SanJuanRiverBasinRecoveryImple_11583]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Domestic Duck
 <!-- fm: auto_enriched: true -->

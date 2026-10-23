@@ -3149,6 +3149,18 @@ Alchesay National Fish Hatchery is a U.S. Fish & Wildlife Service facility locat
 ### Mentioned In
 - [[StationProfileOfTheAlchesayNat_1991]]
 
+## Alcohol Preservation
+
+### Summary
+Alcohol preservation is storing invertebrate samples in alcohol, here 73 per cent. In this source, snails and insects shrank after 15 months in alcohol, with average snail volume falling from 7.1 cc to 5.6 cc and insect volume from 2.045 cc to 1.615 cc. Leonard concludes that a correction factor is needed when comparing preserved and fresh samples.
+
+### Context
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
+### Mentioned In
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
+
 ## Alcohol-Preserved Specimens
 <!-- fm: auto_enriched: true -->
 
@@ -10177,6 +10189,18 @@ An aquatic food web is the interconnected network of feeding relationships among
 
 ### Mentioned In
 - [[CommunityStructureInNaturalStr_16506]]
+
+## Aquatic Insect Food Cycle
+
+### Summary
+The aquatic insect food cycle is the role of aquatic insects as food moving through stream food webs to fish. The source notes that complete life histories are known for few aquatic insects and few immature stages can be identified. It also notes that stomach analyses cannot yet show how many species enter fish diets, so this cycle is a major research gap.
+
+### Context
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
+### Mentioned In
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
 
 ## Aquatic Insect Larvae As Fish Prey
 <!-- fm: auto_enriched: true -->

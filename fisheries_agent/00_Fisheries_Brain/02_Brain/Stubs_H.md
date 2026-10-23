@@ -1451,6 +1451,18 @@ Hansen (1983, personal communication) reported that based on electrofishing and 
 ### Mentioned In
 - [[AlbinisticCarpCyprinusCarpioFr_1968_04_18]]
 
+## Hanson's Landing
+
+### Summary
+Hanson's Landing was the single access point where observers counted anglers entering and leaving during the open water creel census at Branch Lake. The source notes that other landings, including cottage landings, were not checked, so the open water survey covered only this site.
+
+### Context
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
+### Mentioned In
+- [[FinalReportOfTheIceFishingCree_12822]]
+
 ## Hantzschia Amphioxys
 <!-- fm: auto_enriched: true -->
 
@@ -3529,6 +3541,18 @@ Heath Incubators are egg incubation equipment used in fish hatchery operations. 
 
 ### Mentioned In
 - [[RecommendationsForEstablishmen_20762]]
+
+## Hedrick and Parker 1998
+
+### Summary
+An earlier study by these same authors that applied the same genetic markers to differentiate Gila topminnow stocks from four major watersheds. It provides background for the current genetic characterization.
+
+### Context
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
+### Mentioned In
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Heenan Lake
 <!-- fm: auto_enriched: true -->

@@ -461,6 +461,9 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This FY-93 annual report documents hydrological support activities provided by the U.S. Fish and Wildlife Service Water Resources Division for the [[Colorado River Recovery Program]]. The project, ongoing since 1988, provides critical water temperature data collection, flow quantification, gage...
 > -- *[[FyAnnualProjectReportColoradoR_21154]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -601,6 +604,7 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[SwimmingUpstreamTheEndangeredF_15037]]
 - [[GeneticDiversityOfRazorbackSuc_19113]]
 - [[FyAnnualProjectReportColoradoR_21154]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -1409,6 +1413,9 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This document is an instream flow request submitted by the [[U.S. Fish and Wildlife Service]] to the [[Arizona Department of Water Resources]] for [[Leslie Creek]] within [[Leslie Canyon National Wildlife Refuge]]. The refuge, located 17 miles north of Douglas, Arizona along the southwestern flank...
 > -- *[[LeslieCanyonNationalWildlifeRe_13468]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -1459,6 +1466,7 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[InteractionsBetweenPoeciliopsi_16887]]
 - [[TheGilaTopminnowPoeciliopsisOO_12486]]
 - [[LeslieCanyonNationalWildlifeRe_13468]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Yaqui Watershed
 

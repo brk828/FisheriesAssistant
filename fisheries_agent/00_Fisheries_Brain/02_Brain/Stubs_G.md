@@ -1233,6 +1233,9 @@ Game fish are fish species of recreational or commercial importance that are act
 > This Texas Game and Fish Commission segment completion report (Project F7R3, Job F-1) documents an experimental fisheries management program aimed at introducing non-native, primarily marine/estuarine, fish species into inland Texas reservoirs — particularly saline lakes of North Central Texas an...
 > -- *[[ExperimentalIntroductionOfFish_1955]]*
 
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[DifferentialResponseToHandling_1986]]
@@ -1240,6 +1243,7 @@ Game fish are fish species of recreational or commercial importance that are act
 - [[LifeHistoryOfTheGermanCarpCypr_1967_03_15]]
 - [[MortalityOfAquaticDipteraDueTo_20283]]
 - [[TheGrassCarp_11260]]
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
 
 ## Game Fish Distribution Patterns
 
@@ -7515,11 +7519,15 @@ Gila Taxonomy refers to the systematic classification and genetic characterizati
 > - **[[Colorado Squawfish]]** (*Ptychocheilus lucius*): Subject of electrophoretic genetic studies to assess relatedness among upper-basin populations and hatchery stocks; genetic sampling was previously limited by small sample sizes and incomplete gene pool representation. - **[[Gila Taxonomy]]**...
 > -- *[[SolicitationOfResearchProposal_1990_03_20]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1991_04_20]]
 - [[MemorandumOnAquaticCoordinatio_1991_03_29]]
 - [[RecommendationsOnOperationAndO_1990_05_31]]
 - [[SolicitationOfResearchProposal_1990_03_20]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Gila Taxonomy Group
 <!-- fm: auto_enriched: true -->
@@ -7844,6 +7852,9 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > The Native Fish Project at [[Phoenix Zoo]] established a dual-purpose conservation facility in summer 1996 to provide long-term refugium and head-start capabilities for endangered southwestern native fish species. Through multi-agency collaboration, zoo staff successfully converted existing lake...
 > -- *[[FishFareFineAtPhoenix_19367]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -8098,6 +8109,7 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[CompiledStockingRecordsForSanB_15975]]
 - [[NativeArizonaFishesPartLivebea_18575]]
 - [[FishFareFineAtPhoenix_19367]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Gila Topminnow Decline
 <!-- fm: auto_enriched: true -->
@@ -16020,6 +16032,9 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
 > -- *[[ReportOfTheNationalFishHatcher_20170]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -16217,6 +16232,7 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[GeneticDiversityOfRazorbackSuc_19113]]
 - [[FyAnnualProjectReportColoradoR_21154]]
 - [[ReportOfTheNationalFishHatcher_20170]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Green River (Colorado River Basin)
 <!-- fm: auto_enriched: true -->

@@ -1021,6 +1021,9 @@ Eastern Brook Trout (*Salvelinus fontinalis*) is a coldwater salmonid species na
 > This seven-year experimental study (1954-1960) evaluated various sizes and strains of [[Brown Trout]] (Salmo trutta) and [[Rainbow Trout]] (Salmo gairdnerii) stocking in [[Lower Sardine Lake]], a high-elevation (5,968 feet), oligotrophic lake in [[Sierra County]], California. The research compared...
 > -- *[[ExperimentalBrownTroutManageme_17717]]*
 
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -1039,6 +1042,7 @@ Eastern Brook Trout (*Salvelinus fontinalis*) is a coldwater salmonid species na
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 - [[ErythrocyteAntigensOfCaliforni_17330]]
 - [[ExperimentalBrownTroutManageme_17717]]
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## Eastern Central Atlantic
 
@@ -10875,10 +10879,14 @@ Evolutionarily Significant Units (ESUs) are groups designated by the National Ma
 > This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
 > -- *[[ReportOfTheNationalFishHatcher_20170]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20169]]
 - [[ReportOfTheNationalFishHatcher_20170]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Evolutionary Biology
 <!-- fm: auto_enriched: true -->

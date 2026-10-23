@@ -1723,6 +1723,18 @@ Fife Lake is a 575-acre lake in Grand Traverse and Kalkaska counties, Michigan, 
 ### Mentioned In
 - [[FishingInTwelveMichiganLakesUn_16148]]
 
+## Fifteen-Mile Reach
+
+### Summary
+The Fifteen-Mile Reach is a stretch of the Colorado River named in the source. Proposal #62, a 15-Mile Reach gage (dam check) led by the FWS, was funded at $3.5K allocated against a $3.0K request.
+
+### Context
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
+### Mentioned In
+- [[TechnicalGroupMeetingMinutesJu_18171]]
+
 ## Fig. 1
 <!-- fm: auto_enriched: true -->
 
@@ -5522,6 +5534,9 @@ Flagstaff, Arizona is a city that served as the meeting location for Glen Canyon
 > This FY-93 annual report documents hydrological support activities provided by the U.S. Fish and Wildlife Service Water Resources Division for the [[Colorado River Recovery Program]]. The project, ongoing since 1988, provides critical water temperature data collection, flow quantification, gage...
 > -- *[[FyAnnualProjectReportColoradoR_21154]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[FyProjectReportWetlandsRestora_1993]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
@@ -5547,6 +5562,7 @@ Flagstaff, Arizona is a city that served as the meeting location for Glen Canyon
 - [[SummaryaprilManagementGroupMee_20995]]
 - [[SummaryoctoberManagementGroupM_21000]]
 - [[FyAnnualProjectReportColoradoR_21154]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Flaming Gorge Biological Opinion
 

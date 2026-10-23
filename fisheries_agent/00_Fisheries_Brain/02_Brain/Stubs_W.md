@@ -115,6 +115,9 @@ W. L. Minckley was a prominent ichthyologist and conservation biologist who cond
 > This document comprises a 1989 research proposal by [[Thomas E. Dowling]] and [[W. L. Minckley]] to assess genetic diversity of [[Razorback Sucker]] (*Xyrauchen texanus*) populations using restriction endonuclease analysis of mitochondrial DNA (mtDNA), submitted to the [[U.S. Bureau of...
 > -- *[[GeneticDiversityOfRazorbackSuc_19113]]*
 
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
 ### Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[BehindTheScenesBeingThereNatio_1995_05_17]]
@@ -160,6 +163,7 @@ W. L. Minckley was a prominent ichthyologist and conservation biologist who cond
 - [[GeneticDiversityOfRazorbackSuc_18428]]
 - [[CommercialFisheriesPotentialOf_18584]]
 - [[GeneticDiversityOfRazorbackSuc_19113]]
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## W.B. Scott
 <!-- fm: auto_enriched: true -->
@@ -1334,6 +1338,18 @@ Waples is a researcher referenced in this source for providing a general rule of
 
 ### Mentioned In
 - [[EffectivePopulationNumberForWi_20765]]
+
+## Waples 1995
+
+### Summary
+A source cited for the definition of Evolutionarily Significant Units (ESUs) as populations evolving independently. The paper uses this definition as part of its conservation framework.
+
+### Context
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
+### Mentioned In
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Ward 1940
 <!-- fm: auto_enriched: true -->
@@ -3205,8 +3221,12 @@ Watson Wash is a thermal spring located on BLM land near Thatcher, Arizona, that
 > This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
 > -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Watts Bar Dam
 
@@ -6288,6 +6308,9 @@ The White River refers to a river system in the south-central United States (pri
 > This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
 > -- *[[FisheriesInvestigationsAndSurv_14934]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -6369,6 +6392,7 @@ The White River refers to a river system in the south-central United States (pri
 - [[FishesOfNevada_15993]]
 - [[TheNationsTenMostEndangeredRiv_17976]]
 - [[FisheriesInvestigationsAndSurv_14934]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## White River (Arizona)
 <!-- fm: auto_enriched: true -->
@@ -9821,6 +9845,18 @@ The Work Group provides technical staff support to the Lower Colorado River Mult
 
 ### Mentioned In
 - [[RequestForProposalspresubmitta_18342]]
+
+## Work Plan
+
+### Summary
+In this source, the Work Plan is the annual FY-91 plan of the Recovery Implementation Program for endangered fishes in the Upper Colorado River Basin. The Technical Group ranked and trimmed proposals for it at the June 1990 meeting, and the final funding decisions were recorded in the minutes and ranking table.
+
+### Context
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
+### Mentioned In
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## World Aquaculture 1998
 <!-- fm: auto_enriched: true -->

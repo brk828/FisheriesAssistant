@@ -3278,6 +3278,18 @@ Canyon reaches with deep pools, eddies, and spring inputs provided critical refu
 - [[SpotCheckSurveyRegionViGapCree_1992_06_08]]
 - [[StatusOfPoeciliopsisOOccidenta_1984_07_25]]
 
+## Canyonlands
+
+### Summary
+Canyonlands is a location named in the source as one of the study sites for the endangered-fish recovery work in the Colorado River system. The source lists it among places where proposals were studied but gives no specific findings about it.
+
+### Context
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
+### Mentioned In
+- [[TechnicalGroupMeetingMinutesJu_18171]]
+
 ## Canyonlands National Park
 <!-- fm: auto_enriched: true -->
 
@@ -5437,11 +5449,15 @@ Carrying capacity in fish science refers to the maximum population size of a fis
 > - **Habitat requirements:** Brook, brown, and rainbow trout generally require inlet/outlet streams with gravel substrate for natural spawning; brook trout are an exception, capable of reproducing in lakes fed by spring water through gravel shoals. - **Stream carrying capacity:** Population estima...
 > -- *[[TroutPlanting_14377]]*
 
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
 ### Mentioned In
 - [[EcologyLifeAndEnvironment_11352]]
 - [[FishPopulationConceptsAndManag_1949_03_07]]
 - [[IsArtificialPropagationOfMarin_1957_03_21]]
 - [[TroutPlanting_14377]]
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
 
 ## Carrying Capacity (Aquaculture)
 <!-- fm: auto_enriched: true -->
@@ -9382,6 +9398,9 @@ Chain Pickerel (Esox niger) is a freshwater predatory fish species belonging to 
 > This report presents age and growth data for six species of warm-water game and pan fish collected from 155 ponds in eastern and north central [[Massachusetts]] during 1946-1950. A total of 1,850 individual fish were analyzed using scale reading techniques to determine age structure and growth...
 > -- *[[GrowthOfGameAndPanFish_12817]]*
 
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -9401,6 +9420,7 @@ Chain Pickerel (Esox niger) is a freshwater predatory fish species belonging to 
 - [[SomeObservationsOnTheReclamati_15490]]
 - [[TheMaineSmallmouth_14928]]
 - [[GrowthOfGameAndPanFish_12817]]
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## Chalicotheriidae
 <!-- fm: auto_enriched: true -->
@@ -15555,6 +15575,9 @@ Cienega Creek is a desert stream system in the BLM Tucson Resource Area of Arizo
 > This overview examines the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), an endangered freshwater fish native to the [[Gila River Basin]] in Arizona. The species has experienced dramatic population declines due to habitat alteration from human development and predation by the...
 > -- *[[TheGilaTopminnowPoeciliopsisOO_12486]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[AmendmentToAnnualEndangeredSpe_1992_12_22]]
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
@@ -15582,6 +15605,7 @@ Cienega Creek is a desert stream system in the BLM Tucson Resource Area of Arizo
 - [[HabitatUseAndPreferenceOfGilaT_18783]]
 - [[DraftGilaTopminnowPoeciliopsis_11637]]
 - [[TheGilaTopminnowPoeciliopsisOO_12486]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Cienega De Santa Clara
 <!-- fm: auto_enriched: true -->
@@ -17965,6 +17989,18 @@ Coal Pits Wash is one of eleven tributaries or sub-tributaries in the Virgin Riv
 ### Mentioned In
 - [[PhylogeneticSpeciesConcepts_15652]]
 
+## Coalmine Creek
+
+### Summary
+A creek in Arizona sampled as a Gila topminnow population. In this study it clusters with Sonoita Creek, Red Rock at Cott Tank, and Red Rock Falls, and is very similar to Sonoita Creek.
+
+### Context
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
+### Mentioned In
+- [[GeneticCharacterizationOfSonor_16959]]
+
 ## Coarse Fish
 <!-- fm: auto_enriched: true -->
 
@@ -19697,6 +19733,9 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 > This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
 > -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[CarlinTagsOnColoradoRiverEndan_13642]]
 - [[ColoradoSquawfishInteragencyTr_1973]]
@@ -19716,6 +19755,7 @@ The Colorado Division of Wildlife is the state agency responsible for managing a
 - [[MovementsOfLakeTroutInTwinLake_14420]]
 - [[ChangesInTheFishPopulationsInT_20462]]
 - [[ProvisionalKeyToTheProtolarvae_21239]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Colorado Endangered Fish Research Program
 <!-- fm: auto_enriched: true -->
@@ -22359,6 +22399,9 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > This FY-93 annual report documents hydrological support activities provided by the U.S. Fish and Wildlife Service Water Resources Division for the [[Colorado River Recovery Program]]. The project, ongoing since 1988, provides critical water temperature data collection, flow quantification, gage...
 > -- *[[FyAnnualProjectReportColoradoR_21154]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -22768,6 +22811,7 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[RazorbackFinalRuleCriticalHabi_16155]]
 - [[GeneticDiversityOfRazorbackSuc_19113]]
 - [[FyAnnualProjectReportColoradoR_21154]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Colorado River Basin Ecology
 <!-- fm: auto_enriched: true -->
@@ -25425,6 +25469,9 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
 > -- *[[FishesOfNevada_15993]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -25765,6 +25812,7 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[RequestForCollectingPermitToAl_15050]]
 - [[CompiledStockingRecordsForSanB_15975]]
 - [[FishesOfNevada_15993]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Colorado Squawfish Nursery Habitat
 <!-- fm: auto_enriched: true -->
@@ -25941,6 +25989,9 @@ The Colorado Water Conservation Board was conducting a Hatchery Feasibility Stud
 > This FY-93 annual report documents hydrological support activities provided by the U.S. Fish and Wildlife Service Water Resources Division for the [[Colorado River Recovery Program]]. The project, ongoing since 1988, provides critical water temperature data collection, flow quantification, gage...
 > -- *[[FyAnnualProjectReportColoradoR_21154]]*
 
+> This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
+> -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
+
 ### Mentioned In
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[AlternativeApproachesToHcpsFor_16735]]
@@ -25955,6 +26006,7 @@ The Colorado Water Conservation Board was conducting a Hatchery Feasibility Stud
 - [[SummaryoctoberManagementGroupM_21000]]
 - [[AnnualReportRecoveryProgramFor_11673]]
 - [[FyAnnualProjectReportColoradoR_21154]]
+- [[TechnicalGroupMeetingMinutesJu_18171]]
 
 ## Colorado Wildlife Federation
 
@@ -30553,6 +30605,18 @@ Coryphantha is a genus of cacti. This source lists it among the extensively repr
 ### Mentioned In
 - [[DraftOfMexicosNewEndangeredSpe_11644]]
 
+## Coscio Wash
+
+### Summary
+A Gila topminnow population in Arizona that is now extinct. It was possibly an ancestral source for the Boyce Thompson population, but this cannot be tested because no samples from it exist.
+
+### Context
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
+### Mentioned In
+- [[GeneticCharacterizationOfSonor_16959]]
+
 ## Cosewic
 <!-- fm: auto_enriched: true -->
 
@@ -31018,6 +31082,9 @@ Cottonwood Landing is a location in Nevada on Lake Mohave where the last documen
 > This revised recovery plan addresses the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), one of two subspecies of [[Sonoran Topminnow]] found in Arizona and northern Mexico. Listed as endangered in 1967, the species was historically among the most abundant fishes in the lower...
 > -- *[[DraftGilaTopminnowPoeciliopsis_11637]]*
 
+> This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
+> -- *[[GeneticCharacterizationOfSonor_16959]]*
+
 ### Mentioned In
 - [[MinutesOfTheDesertFishesRecove_1993_04_08]]
 - [[StatusOfTheGilaTopminnowAndIts_13684]]
@@ -31028,6 +31095,7 @@ Cottonwood Landing is a location in Nevada on Lake Mohave where the last documen
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[InteractionsBetweenPoeciliopsi_16887]]
 - [[DraftGilaTopminnowPoeciliopsis_11637]]
+- [[GeneticCharacterizationOfSonor_16959]]
 
 ## Cottonwood Spring Creek
 
@@ -32047,6 +32115,9 @@ A creel census is a survey method used to monitor and assess recreational fishin
 > 1. **Historical scale of stocking:** 40,000,000 trout distributed as eggs/fry/fingerlings (1913–1943) from three park hatcheries (Banff est. 1913, Waterton Lakes est. 1928, Jasper est. 1941); post-1944 shift to rearing larger fish resulted in only 3,000,000 fish distributed to present, >10% of wh...
 > -- *[[WhyHaveFishHatcheriesInCanadaS_11783]]*
 
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
 ### Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -32061,6 +32132,7 @@ A creel census is a survey method used to monitor and assess recreational fishin
 - [[TheDevelopmentOfPopulationEsti_14925]]
 - [[TroutPlanting_14377]]
 - [[WhyHaveFishHatcheriesInCanadaS_11783]]
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## Creel Census Methodology
 <!-- fm: auto_enriched: true -->

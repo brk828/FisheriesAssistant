@@ -129,8 +129,24 @@ I.C. Russell authored the definitive 1889 monograph describing Pleistocene glaci
 > - **Size classes referenced:** - Fingerlings: hatchery-reared average total length ~5.1 inches; wild young-of-the-year ~3.1 inches (Hunt Creek, 1949 cohort). - Sub-legal "advanced fingerlings": 4–6 inches, proposed for spring stocking (April 15–May 15). - Legal-sized trout: defined as 7 inches or...
 > -- *[[TroutPlanting_14377]]*
 
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
 ### Mentioned In
 - [[TroutPlanting_14377]]
+- [[FinalReportOfTheIceFishingCree_12822]]
+
+## Ice Fishing Creel Census
+
+### Summary
+The intensive winter creel census was the main survey method used at Branch Lake in 1951 and 1952. Biologists were present on the lake every day of the ice season, contacted anglers across the whole lake, and weighed, measured and scale-sampled catches at the end of each day. Effort and catch were logged per fishing party.
+
+### Context
+> This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
+> -- *[[FinalReportOfTheIceFishingCree_12822]]*
+
+### Mentioned In
+- [[FinalReportOfTheIceFishingCree_12822]]
 
 ## Ice Fishing Survey Techniques
 <!-- fm: auto_enriched: true -->
@@ -3021,9 +3037,13 @@ Inspiration Consolidated Copper Company was one of three active mining companies
 > - **Pluvial lake basins of the American West:** Beginning with a 1915 survey of the ancient **[[Lake Bonneville]]** basin (now Great Salt Lake) under [[John Otterbein Snyder]], and continuing with [[Robert Rush Miller]], Hubbs mapped fish faunas isolated in now-desiccated basins, reconstructing f...
 > -- *[[CarlLeavittHubbsMcgrawHillMode_1968]]*
 
+> This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
+> -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
+
 ### Mentioned In
 - [[BookReviewsStatisticalMethodsF_20731]]
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
+- [[CommentsOnTheAdequacyOfAccepte_20281]]
 
 ## Institute Of Ecology
 <!-- fm: auto_enriched: true -->
