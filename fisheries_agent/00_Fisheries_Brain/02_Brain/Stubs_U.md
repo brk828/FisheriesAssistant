@@ -350,9 +350,13 @@ The U.S. Department of Agriculture is a federal agency that issued warnings abou
 > This 1988 investigation by the [[U.S. Fish and Wildlife Service]] [[National Fisheries Research Center]] examined the toxicity of [[Chloramine-T]] (n-sodium-n-chloro-para-toluenesulfonamide), a therapeutant used to treat [[Bacterial Gill Disease]] in hatchery fish. The study evaluated how...
 > -- *[[EffectsOfEnvironmentalFactorsO_18248]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[ArizonaDepartmentOfWaterResour_18960]]
 - [[EffectsOfEnvironmentalFactorsO_18248]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## U.S. Department Of The Interior
 <!-- fm: auto_enriched: true -->
@@ -1047,6 +1051,9 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This memorandum from [[American Rivers]] Executive Director Rebecca R. Wodder to the Board of Directors provides a comprehensive update on organizational activities as of May 24, 1999. The document covers major conservation initiatives focused on river restoration, salmon recovery, dam removal...
 > -- *[[UpdateOnActivities_20797]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1449,6 +1456,7 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[VirginRiverFishSamplingJanuary_19425]]
 - [[GlenCanyonEnvironmentalStudies_19718]]
 - [[UpdateOnActivities_20797]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## U.S. Fish And Wildlife Service 1986
 <!-- fm: auto_enriched: true -->

@@ -2127,6 +2127,15 @@ The Virgin Islands are a U.S. territory included in the geographic coverage of t
 - [[ResultsOfTheTektiteProgramEcol_17141]]
 - [[MonthlyNormalTemperaturesPreci_13263]]
 
+## Virgin Islands Ecological Research Station
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
+
 ## Virgin River
 <!-- fm: auto_enriched: true -->
 

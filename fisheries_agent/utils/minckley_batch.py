@@ -73,7 +73,7 @@ def candidates(source: Path, state: dict) -> tuple:
 
 
 def show_estimate(batch: list) -> None:
-    model = os.getenv("OPENROUTER_INGEST_MODEL") or os.getenv("OPENROUTER_MODEL") or pdf_ingest.DEFAULT_MODEL
+    model = pdf_ingest.ingest_model()
     sizes, total_pages, long_docs = [], 0, []
     print(f"\nNext {len(batch)} (smallest first):")
     for it in batch:

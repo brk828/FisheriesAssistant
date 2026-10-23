@@ -203,10 +203,14 @@ Zebrafish (Danio rerio) are small freshwater cyprinids native to South Asia that
 > - **Reduced viability** — documented across all seven species surveyed. - **Reduced growth rates** — a consistent inbreeding depression effect. - **Increased incidence of abnormal phenotypes**, including: - Abnormal body curvatures in inbred [[Rainbow Trout]] fry (Aulstad and Kittelsen 1971). - S...
 > -- *[[EffectiveBreedingEfficiencyAnI_13479]]*
 
+> This genomics paper reports chromosome-scale reference genome assemblies for two endangered, co-distributed desert minnows, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), both endemic to the [[Gila River Basin]] in Arizona and New Mexico. The assemblies were built from...
+> -- *[[ChromosomelevelReferenceGenome_2023]]*
+
 ### Mentioned In
 - [[AdditionOfMisgurnusAnguillicau_1969]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
 - [[EffectiveBreedingEfficiencyAnI_13479]]
+- [[ChromosomelevelReferenceGenome_2023]]
 
 ## Zeidae
 <!-- fm: auto_enriched: true -->

@@ -7644,6 +7644,15 @@ Anguilla anguilla, commonly known as the European eel, is a catadromous fish spe
 - [[Eel_14169]]
 - [[AnguillaRecordedFromCalifornia_19016]]
 
+## Anguilla Bank
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
+
 ## Anguilla Bicolor Bicolor
 <!-- fm: auto_enriched: true -->
 
@@ -11047,6 +11056,9 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 > This report assesses the potential for non-native fish species transported in [[Central Arizona Project]] (CAP) canal waters to enter the [[Gila River]] system and impact threatened or endangered native fish species, particularly [[Spikedace]] (*Meda fulgida*), [[Loach Minnow]] (*Tiaroga cobitis*),...
 > -- *[[PotentialForTransferOfNonnativ_15168]]*
 
+> This genomics paper reports chromosome-scale reference genome assemblies for two endangered, co-distributed desert minnows, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), both endemic to the [[Gila River Basin]] in Arizona and New Mexico. The assemblies were built from...
+> -- *[[ChromosomelevelReferenceGenome_2023]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -11197,6 +11209,7 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[DistributionAndAbundanceOfBent_13853]]
 - [[PotentialForTransferOfNonnativ_15168]]
+- [[ChromosomelevelReferenceGenome_2023]]
 
 ## Aravaipa Creek Native Fish
 <!-- fm: auto_enriched: true -->

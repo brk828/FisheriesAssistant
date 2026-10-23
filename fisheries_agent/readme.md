@@ -129,6 +129,9 @@ python -m utils.pdf_ingest status                       # PDFs waiting in pdfs_t
 python -m utils.brain_eval                                # run the retrieval test set (local, no LLM)
 python -m utils.brain_enrich titles-llm --limit 20        # LLM titles for sources lacking one; shows a cost estimate and asks first
 ```
+PDF note generation currently defaults to Haiku 5.5 (`OPENROUTER_INGEST_MODEL` overrides it). Similar titles and DOIs do not prompt or block processing; an already-used Minckley ID is skipped. Documents over 250,000 characters prompt for cap/full/skip, and no response for 10 seconds uses the 250,000-character cap. The normal cost estimate and consent prompt still applies.
+Per-document API usage is appended to the Git-ignored `runs/pdf_ingest_usage.jsonl` file. Each JSONL record includes model, page/extraction details, source and prompt character counts, tokens, retries, generation IDs, result, and OpenRouter-reported cost when present; it never stores document text.
+
 Fix a wrong or missing alias in `brain_meta/aliases.yaml`; a title can be set by hand in `source_titles.json` with `"from": "manual"`.
 
 ### Additive RAG pilot

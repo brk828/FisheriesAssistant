@@ -237,6 +237,15 @@ Najas (specifically Najas marina or spiny naiad) is the dominant submerged aquat
 ### Mentioned In
 - [[EcologyOfJuvenileFishInImperia_19643]]
 
+## Najas Flexilis
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
+
 ## Najas Marina
 <!-- fm: auto_enriched: true -->
 
@@ -1105,9 +1114,13 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 > - **Directive**: Each of FWS's seven regions was required to hold at least one stakeholder meeting by end of October 1996, per the Acting Director's July 11, 1996 memorandum, in response to direction from the [[Senate Appropriations Committee]] (FY1996 and FY1997 reports) and recommendations from...
 > -- *[[MemorandumOnRegionalStakeholde_1996_09_12]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[MemorandumOnRegionalStakeholde_1996_09_12]]
 - [[ReviewAndCommentsOnTheFunction_11667]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## National Fish Hatchery
 <!-- fm: auto_enriched: true -->
@@ -1125,6 +1138,15 @@ The National Fish and Wildlife Foundation (NFWF) is a congressionally chartered,
 ### Mentioned In
 - [[ReviewAndCommentsOnTheFunction_11667]]
 - [[StationProfileOfNatchitochesNa_1993]]
+
+## National Fish Hatchery Review Panel
+
+### Context
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
+### Mentioned In
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## National Fish Hatchery System
 <!-- fm: auto_enriched: true -->
@@ -3853,8 +3875,12 @@ The Neosho Mountain Minnow (Pimephales tenellus tenellus) is a subspecies of min
 > This document is a U.S. Fish and Wildlife Service Station Profile (Exhibit 1) for the [[Neosho National Fish Hatchery]], located in Neosho, Missouri. Established in 1888 under the Appropriation Act (25 Statute 521), it is the oldest continuously operating fish hatchery in the United States. The s...
 > -- *[[StationProfileOfTheNeoshoNatio_1993]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[StationProfileOfTheNeoshoNatio_1993]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Neosho Nfh
 <!-- fm: auto_enriched: true -->

@@ -57,16 +57,18 @@ SOURCES_DIR = BRAIN_DIR / "01_Sources"
 META_DIR = BASE_DIR / "brain_meta"
 EXTERNAL_CITATIONS_PATH = META_DIR / "external_citations.json"
 MANIFEST_PATH = META_DIR / "ingest_manifest.json"
+USAGE_LOG_PATH = BASE_DIR / "runs" / "pdf_ingest_usage.jsonl"
 
 ID_PREFIX = "X-"
 MIN_PAGE_CHARS = 80  # fewer characters than this on a page means "no text layer"; OCR it
 OCR_DPI = 200
 MAX_NOTE_CHARS = 250_000   # default cap on text sent for the note; longer documents are flagged for a case-by-case decision
 FULL_NOTE_CHARS = 450_000  # ceiling when the user chooses to process a long document in full (~110k tokens, inside the model's context)
+LONG_DOC_PROMPT_TIMEOUT = 10
 OCR_SAMPLE_PAGES = 3
 CITE_SAMPLE_CHARS = 3500
 NOTE_OUT_TOKENS = 3000
-DEFAULT_MODEL = "anthropic/claude-sonnet-4.5"
+DEFAULT_MODEL = "anthropic/claude-haiku-5.5"
 USER_AGENT = "FisheriesAssistant/1.0 (literature ingest; mailto:none)"
 
 NOTE_SYSTEM = """You are an aquatic ecologist and expert ichthyologist, and a data architect. Extract scientific data from the provided document text and output a highly structured Markdown note optimized for Obsidian. The source may focus on fish or on the broader aquatic ecosystem (invertebrates, plankton, water chemistry, habitat); stay faithful to what it actually covers.
@@ -176,6 +178,10 @@ def source_id_for(digest: str) -> str:
     return ID_PREFIX + digest[:8]
 
 
+def ingest_model(override: str = "") -> str:
+    return override or os.getenv("OPENROUTER_INGEST_MODEL") or DEFAULT_MODEL
+
+
 def _norm(text: str) -> str:
     return " ".join(re.sub(r"[^a-z0-9 ]+", " ", (text or "").lower()).split())
 
@@ -204,29 +210,8 @@ def _vault_catalog() -> list:
     return out
 
 
-def find_similar(cite: dict, mid: str, catalog: list) -> list:
-    """[(stem, reason)] for existing notes that look like the same document: same Minckley ID, same DOI, or near-identical title."""
-    hits = []
-    doi, title, year = (cite.get("doi") or "").lower(), cite.get("title") or "", str(cite.get("year") or "")
-    for stem, sid, d, t, y in catalog:
-        if mid and sid == mid:
-            hits.append((stem, f"same Minckley ID {mid}"))
-        elif doi and d == doi:
-            hits.append((stem, f"same DOI {doi}"))
-        elif title and t and len(_norm(title)) > 15 and _similar(title, t) >= 0.88 and (not year or not y or year == y):
-            hits.append((stem, f"very similar title: {t[:80]}"))
-    return hits
-
-
-def ask_duplicate(name: str, hits: list) -> bool:
-    """True to process anyway. Defaults to skipping, including when no one can answer."""
-    print(f"   {name} looks like a document already in the brain:")
-    for stem, why in hits[:4]:
-        print(f"     - {stem} ({why})")
-    try:
-        return input("   [s]kip (default) / [p]rocess anyway (a note with the same Minckley ID is overwritten; git can restore it): ").strip().lower().startswith("p")
-    except EOFError:
-        return False
+def existing_note_for_minckley_id(mid: str, catalog: list) -> str:
+    return next((stem for stem, sid, _, _, _ in catalog if mid and sid == mid), "")
 
 
 def _discard(path: Path, digest: str) -> None:
@@ -520,13 +505,69 @@ def _client():
     return OpenAI(base_url="https://openrouter.ai/api/v1", api_key=key)
 
 
-USAGE = {"in": 0, "out": 0}  # tokens actually billed this run, for comparing with the estimate
+class _OutputTruncatedError(RuntimeError):
+    pass
+
+
+USAGE = {"in": 0, "out": 0, "cost": 0.0, "cost_exact": True, "requests": 0, "retries": 0}
+ACTIVE_DOCUMENT_USAGE = None
+
+
+def _new_usage_record(path: Path, source_id: str, model: str) -> dict:
+    return {
+        "timestamp": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "file": path.name,
+        "source_id": source_id,
+        "model": model,
+        "pages": None,
+        "extraction": "not_started",
+        "ocr_pages": 0,
+        "source_characters": 0,
+        "characters_sent": 0,
+        "tokens_in": 0,
+        "tokens_out": 0,
+        "cost_usd": 0.0,
+        "cost_exact": True,
+        "request_attempts": 0,
+        "retries": 0,
+        "generation_ids": [],
+        "result": "preparing",
+    }
+
+
+def _append_usage_record(record: dict) -> None:
+    USAGE_LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
+    record["completed_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    with USAGE_LOG_PATH.open("a", encoding="utf-8") as stream:
+        stream.write(json.dumps(record, ensure_ascii=False, separators=(",", ":")) + "\n")
+
+
+def _finish_usage_record(record: dict) -> None:
+    try:
+        _append_usage_record(record)
+    except OSError as exc:
+        print(f"   WARNING: could not append usage log: {exc}")
+
+
+def _mark_retry() -> None:
+    USAGE["retries"] += 1
+    if ACTIVE_DOCUMENT_USAGE is not None:
+        ACTIVE_DOCUMENT_USAGE["retries"] += 1
 
 
 def _chat(client, model: str, system: str, user: str, max_tokens: int, tries: int = 3) -> str:
     import time
     last = None
     for attempt in range(tries):
+        if ACTIVE_DOCUMENT_USAGE is not None:
+            ACTIVE_DOCUMENT_USAGE["request_attempts"] += 1
+            ACTIVE_DOCUMENT_USAGE["characters_sent"] += len(system) + len(user)
+            if attempt:
+                _mark_retry()
+        USAGE["requests"] += 1
+        if attempt:
+            if ACTIVE_DOCUMENT_USAGE is None:
+                USAGE["retries"] += 1
         try:
             r = client.chat.completions.create(
                 model=model, temperature=0, max_tokens=max_tokens,
@@ -534,10 +575,39 @@ def _chat(client, model: str, system: str, user: str, max_tokens: int, tries: in
             )
             u = getattr(r, "usage", None)
             if u:
-                USAGE["in"] += getattr(u, "prompt_tokens", 0) or 0
-                USAGE["out"] += getattr(u, "completion_tokens", 0) or 0
-            return r.choices[0].message.content or ""
+                input_tokens = getattr(u, "prompt_tokens", 0) or 0
+                output_tokens = getattr(u, "completion_tokens", 0) or 0
+                cost = getattr(u, "cost", None)
+                USAGE["in"] += input_tokens
+                USAGE["out"] += output_tokens
+                if cost is None:
+                    USAGE["cost_exact"] = False
+                else:
+                    USAGE["cost"] += float(cost)
+                if ACTIVE_DOCUMENT_USAGE is not None:
+                    ACTIVE_DOCUMENT_USAGE["tokens_in"] += input_tokens
+                    ACTIVE_DOCUMENT_USAGE["tokens_out"] += output_tokens
+                    if cost is None:
+                        ACTIVE_DOCUMENT_USAGE["cost_exact"] = False
+                    else:
+                        ACTIVE_DOCUMENT_USAGE["cost_usd"] += float(cost)
+                    generation_id = getattr(r, "id", None)
+                    if generation_id:
+                        ACTIVE_DOCUMENT_USAGE["generation_ids"].append(generation_id)
+            else:
+                USAGE["cost_exact"] = False
+                if ACTIVE_DOCUMENT_USAGE is not None:
+                    ACTIVE_DOCUMENT_USAGE["cost_exact"] = False
+            choice = r.choices[0]
+            if choice.finish_reason == "length":
+                raise _OutputTruncatedError("model response reached its max_tokens limit")
+            return choice.message.content or ""
+        except _OutputTruncatedError:
+            raise
         except Exception as e:  # network / rate limit: back off and retry
+            if ACTIVE_DOCUMENT_USAGE is not None:
+                ACTIVE_DOCUMENT_USAGE["cost_exact"] = False
+            USAGE["cost_exact"] = False
             last = e
             time.sleep(2 * (attempt + 1))
     raise RuntimeError(f"LLM request failed: {last}")
@@ -569,12 +639,22 @@ def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS, 
         if secondary_type:
             body += f" The paper also has a substantial {secondary_type} component: mention it in the last section as keyword stubs, not as extra sections."
     last = ""
-    for _ in range(2):
-        note = _strip_fence(_chat(client, model, system, body, max_tokens=budget))
+    for attempt in range(2):
+        try:
+            response = _chat(client, model, system, body, max_tokens=budget)
+        except _OutputTruncatedError:
+            if attempt == 0:
+                _mark_retry()
+                budget *= 2
+                continue
+            raise
+        note = _strip_fence(response)
         note = re.sub(r"\A.*?^(?=---\s*$)", "", note, count=1, flags=re.S | re.M)  # drop chatty preamble before the frontmatter
         if note.startswith("---") and all(h in note for h in headers):
             return note
         last = note
+        if attempt == 0:
+            _mark_retry()
     start = re.sub(r"\s+", " ", last)[:80]
     raise RuntimeError(f"model did not return a complete note (missing frontmatter or required sections); reply began: {start!r}")
 
@@ -714,7 +794,7 @@ def cmd_stubs(args) -> int:
             if missing:
                 todo.append((stem, note, missing))
     if args.summaries and todo:
-        model = os.getenv("OPENROUTER_INGEST_MODEL") or os.getenv("OPENROUTER_MODEL") or DEFAULT_MODEL
+        model = ingest_model()
         n = sum(len(m) for _, _, m in todo)
         in_tok, out_tok = sum(_stub_tokens(note, len(m))[0] for _, note, m in todo), n * 150
         print(f"\n{n} stubs have no summary. Model: {model}. {_cost_text(model, in_tok, out_tok)}")
@@ -783,6 +863,49 @@ def quick_estimate(path: Path, digest: str = "", calibrate: bool = False) -> tup
     return sum(n for n in sizes if n >= MIN_PAGE_CHARS) + len(need) * per_page, len(sizes), len(need)
 
 
+def _input_with_timeout(prompt: str, timeout: int) -> str | None:
+    print(prompt, end="", flush=True)
+    if os.name == "nt":
+        import msvcrt
+        import time
+
+        chars = []
+        deadline = time.monotonic() + timeout
+        while time.monotonic() < deadline:
+            if msvcrt.kbhit():
+                char = msvcrt.getwch()
+                if char in "\r\n":
+                    print()
+                    return "".join(chars)
+                if char == "\x03":
+                    raise KeyboardInterrupt
+                if char in ("\x00", "\xe0"):
+                    if msvcrt.kbhit():
+                        msvcrt.getwch()
+                elif char == "\b":
+                    if chars:
+                        chars.pop()
+                        print("\b \b", end="", flush=True)
+                else:
+                    chars.append(char)
+                    print(char, end="", flush=True)
+            time.sleep(0.05)
+        print()
+        return None
+
+    import select
+
+    ready, _, _ = select.select([sys.stdin], [], [], timeout)
+    if ready:
+        return sys.stdin.readline().rstrip("\r\n")
+    if sys.stdin.isatty():
+        import termios
+
+        termios.tcflush(sys.stdin.fileno(), termios.TCIFLUSH)
+    print()
+    return None
+
+
 def choose_limit(name: str, chars: int, pages: int, model: str, mode: str = "ask") -> int:
     """Characters to send for the note, or 0 to skip. Documents at or under the cap go through untouched.
     mode: ask | cap | full | skip (what to do with long documents; ask falls back to cap when nobody can answer)."""
@@ -797,12 +920,20 @@ def choose_limit(name: str, chars: int, pages: int, model: str, mode: str = "ask
     print(f"     [c]ap  - send the first {MAX_NOTE_CHARS:,} characters (~{cost(MAX_NOTE_CHARS)}); later text such as conclusions may be cut")
     print(f"     [f]ull - send {full:,} characters (~{cost(full)})" + ("; truncated at the hard ceiling" if full < chars else ""))
     print("     [s]kip - do not process (review the PDF first, then re-add it)")
+    print(f"     No response in {LONG_DOC_PROMPT_TIMEOUT} seconds uses the cap.")
     if mode == "ask":
         try:
-            ans = input("   Choose [c/f/s] (Enter = cap): ").strip().lower()
+            ans = _input_with_timeout(
+                "   Choose [c/f/s] (Enter or 10-second timeout = cap): ",
+                LONG_DOC_PROMPT_TIMEOUT,
+            )
         except EOFError:
-            ans = "c"
-        mode = {"f": "full", "s": "skip"}.get(ans[:1], "cap")
+            ans = None
+        if ans is None:
+            print(f"   No response in {LONG_DOC_PROMPT_TIMEOUT} seconds; using the {MAX_NOTE_CHARS:,}-character cap.")
+            mode = "cap"
+        else:
+            mode = {"f": "full", "s": "skip"}.get(ans.strip().lower()[:1], "cap")
     return {"full": full, "skip": 0}.get(mode, MAX_NOTE_CHARS)
 
 
@@ -934,7 +1065,7 @@ class PdfWatcher:
             print(f"\n⚠️  {len(failed)} PDF(s) failed on an earlier run and are skipped unless you choose to retry:")
             for p, _, why in failed:
                 print(f"   - {p.name}: {why[:150]}")
-        model = os.getenv("OPENROUTER_INGEST_MODEL") or os.getenv("OPENROUTER_MODEL") or DEFAULT_MODEL
+        model = ingest_model()
         retry_files = [str(p) for p, _, _ in failed]
         if items:
             print(f"\n📄 {len(items)} PDF(s) waiting to be added to the Fisheries Brain:")
@@ -942,7 +1073,7 @@ class PdfWatcher:
             for p, d in items:
                 chars, pages, ocr = quick_estimate(p, d, calibrate=True)
                 sizes.append(min(chars, MAX_NOTE_CHARS) if chars else 20_000)
-                long_note = f" -- LONG (~{chars:,} chars; you'll choose cap/full/skip)" if chars > MAX_NOTE_CHARS else ""
+                long_note = f" -- LONG (~{chars:,} chars; no response in {LONG_DOC_PROMPT_TIMEOUT}s uses cap)" if chars > MAX_NOTE_CHARS else ""
                 kind = "unreadable (will be tried anyway)" if not pages else (f"{pages} pages, {ocr} need OCR (slower)" if ocr else f"{pages} pages, text-based")
                 print(f"   - {p.name}: {kind}{long_note}")
             in_tok, out_tok = estimate_tokens(sizes)
@@ -997,6 +1128,9 @@ def cmd_extract(args) -> int:
 
 
 def cmd_process(args) -> int:
+    global ACTIVE_DOCUMENT_USAGE
+    USAGE.update({"in": 0, "out": 0, "cost": 0.0, "cost_exact": True, "requests": 0, "retries": 0})
+    ACTIVE_DOCUMENT_USAGE = None
     try:
         StubStore().require_consolidated()
     except StubStoreError as e:
@@ -1004,6 +1138,9 @@ def cmd_process(args) -> int:
         return 1
     manifest = _load_json(MANIFEST_PATH)
     sheet = _load_json(brain_citations.CITATIONS_PATH)
+    catalog = _vault_catalog()
+    model = ingest_model(args.model)
+    usage_records = {}
     todo = []
     files = list_pdfs(args.files)
     if getattr(args, "mid", "") and len(files) != 1:
@@ -1011,28 +1148,39 @@ def cmd_process(args) -> int:
         return 1
     for p in files:
         d = file_hash(p)
-        if manifest.get(d, {}).get("status") == "done":
-            print(f"Rejected {p.name}: exact duplicate of {manifest[d]['note']}, which is already in the brain (redundant). Removing the extra copy.")
-            if not getattr(args, "keep", False):
-                _discard(p, d)
+        mid = getattr(args, "mid", "") or detect_mid(p)
+        record = _new_usage_record(p, mid or source_id_for(d), model)
+        usage_records[d] = record
+        existing = existing_note_for_minckley_id(mid, catalog) if mid else ""
+        if existing:
+            reason = f"Minckley ID {mid} already in library as {existing}"
+            print(f"Skipping {p.name}: {reason}.")
+            manifest[d] = _record(p, d, "skipped", reason=reason)
+            record["result"] = "skipped_existing_minckley_id"
+            record["skip_reason"] = reason
+            _finish_usage_record(record)
             continue
-        todo.append((p, d))
+        todo.append((p, d, mid))
     if args.limit:
         todo = todo[: args.limit]
+    _save_json(MANIFEST_PATH, manifest)
     if not todo:
         print("Nothing to process.")
         return 0
 
     print(f"Preparing {len(todo)} PDF(s): extracting text (OCR where needed) and looking up citations.")
     prepared, mids, new_sheet, limits = [], {}, {}, {}
-    catalog = _vault_catalog()
-    model = args.model or os.getenv("OPENROUTER_INGEST_MODEL") or os.getenv("OPENROUTER_MODEL") or DEFAULT_MODEL
-    for p, d in todo:
+    for p, d, mid in todo:
         print(f"-> {p.name}")
         est, est_pages, _ = quick_estimate(p, d, calibrate=True)  # before the full OCR, so a huge scan can be declined
         limit = choose_limit(p.name, est, est_pages, model, getattr(args, "long", "ask"))
+        record = usage_records[d]
+        record["pages"] = est_pages
+        record["source_characters"] = min(est, MAX_NOTE_CHARS) if est else 0
         if not limit:
             manifest[d] = _record(p, d, "skipped", reason="too long; skipped by user")
+            record["result"] = "skipped_too_long"
+            _finish_usage_record(record)
             print("   Skipped. The PDF stays in the folder; run process on it again after review if you change your mind.")
             continue
         limits[d] = limit
@@ -1041,12 +1189,20 @@ def cmd_process(args) -> int:
         except Exception as e:
             print(f"   FAILED extraction: {e}")
             manifest[d] = _record(p, d, "failed", reason=f"extraction: {e}")
+            record["extraction"] = "failed"
+            record["result"] = "failed_extraction"
+            record["error"] = str(e)[:500]
+            _finish_usage_record(record)
             continue
-        mid = getattr(args, "mid", "") or detect_mid(p)
+        record["pages"] = ex["pages"]
+        record["extraction"] = ex["method"]
+        record["ocr_pages"] = len(ex["ocr_pages"])
+        record["source_characters"] = min(len(ex["text"]), limit)
         ref = (sheet.get(mid) or brain_citations.fetch_entry(mid)) if mid else {}
         if mid and not ref:
             print(f"   {mid} is not in the Minckley library sheet (or the sheet is unreachable); treating {p.name} as a non-Minckley document.")
             mid = ""
+            record["source_id"] = source_id_for(d)
         if mid:
             new_sheet[mid] = ref
             cite = {**{k: ref.get(k, "") for k in ("authors", "year", "title", "publication", "type")}, "citation_source": "minckley-sheet", "mid": mid}
@@ -1054,11 +1210,6 @@ def cmd_process(args) -> int:
         else:
             cite = free_citation(p, ex, not args.no_crossref)
         print(f"   {ex['pages']} pages, text={ex['method']}, citation so far: {cite.get('citation_source') or 'none'}" + (f", Minckley ID {mid}" if mid else ""))
-        hits = find_similar(cite, mid, catalog)
-        if hits and not ask_duplicate(p.name, hits):
-            manifest[d] = _record(p, d, "skipped", reason="similar document already in the brain: " + hits[0][0])
-            print("   Skipped.")
-            continue
         prepared.append((p, d, ex, cite))
     _save_json(MANIFEST_PATH, manifest)
     if not prepared:
@@ -1068,27 +1219,35 @@ def cmd_process(args) -> int:
     print(f"\nModel: {model}\n{_cost_text(model, in_tok, out_tok)}")
     print("This sends the full text of each document (and its first page for citation reading) to OpenRouter.")
     if not args.yes and input("Proceed? [y/N] ").strip().lower() not in ("y", "yes"):
+        for p, d, ex, _ in prepared:
+            usage_records[d]["result"] = "cancelled_before_send"
+            _finish_usage_record(usage_records[d])
         print("Cancelled; nothing was sent.")
         return 0
 
-    client = _client()
+    try:
+        client = _client()
+    except Exception as e:
+        for p, d, ex, _ in prepared:
+            record = usage_records[d]
+            record["result"] = "failed_client_initialization"
+            record["error"] = str(e)[:500]
+            _finish_usage_record(record)
+        print(f"Failed to initialize OpenRouter client: {e}")
+        return 1
     citations = _load_json(EXTERNAL_CITATIONS_PATH)
     done = 0
     for p, d, ex, cite in prepared:
         mid = mids.get(d, "")
         sid = mid or source_id_for(d)
+        record = usage_records[d]
+        ACTIVE_DOCUMENT_USAGE = record
         print(f"-> {p.name} [{sid}]")
         try:
             if not mid and cite.get("citation_source") != "crossref":
                 llm = llm_citation(client, model, ex["text"])
                 upgraded = crossref_by_title(llm.get("title", ""), llm.get("authors", ""), llm.get("year", "")) if llm and not args.no_crossref else {}
                 cite = _merge(upgraded, llm, cite)
-                hits = find_similar(cite, "", catalog)
-                if hits and not ask_duplicate(p.name, hits):
-                    manifest[d] = _record(p, d, "skipped", reason="similar document already in the brain: " + hits[0][0])
-                    _save_json(MANIFEST_PATH, manifest)
-                    print("   Skipped.")
-                    continue
             kind = {"doc_type": "", "secondary_type": ""} if mid else classify_doc(client, model, ex["text"], getattr(args, "type", ""))
             if kind["doc_type"]:
                 print(f"   digest: {kind['doc_type']}" + (f" (also {kind['secondary_type']})" if kind["secondary_type"] else ""))
@@ -1119,6 +1278,8 @@ def cmd_process(args) -> int:
                 citations[sid] = {k: cite.get(k, "") for k in ("authors", "year", "title", "publication", "type", "doi", "citation_source")}
                 _save_json(EXTERNAL_CITATIONS_PATH, citations)
             manifest[d] = _record(p, d, "done", note=f"{stem}.md", method=ex["method"], citation_source=cite.get("citation_source", ""), doc_type=kind["doc_type"])
+            record["result"] = "done"
+            record["note"] = f"{stem}.md"
             done += 1
             if not getattr(args, "keep", False):
                 _discard(p, d)
@@ -1128,11 +1289,17 @@ def cmd_process(args) -> int:
         except Exception as e:
             print(f"   FAILED: {e}")
             manifest[d] = _record(p, d, "failed", reason=str(e))
-        _save_json(MANIFEST_PATH, manifest)
-    price = _price(model)
-    if USAGE["in"] or USAGE["out"]:
-        cost = f", about ${USAGE['in'] * price[0] + USAGE['out'] * price[1]:.2f}" if price else ""
-        print(f"\nActual usage: {USAGE['in']:,} input + {USAGE['out']:,} output tokens{cost}.")
+            record["result"] = "failed"
+            record["error"] = str(e)[:500]
+        finally:
+            ACTIVE_DOCUMENT_USAGE = None
+            if record["result"] == "preparing":
+                record["result"] = "interrupted"
+            _finish_usage_record(record)
+            _save_json(MANIFEST_PATH, manifest)
+    if USAGE["requests"]:
+        cost_text = f"exact OpenRouter cost ${USAGE['cost']:.6f}" if USAGE["cost_exact"] else f"partial OpenRouter cost ${USAGE['cost']:.6f}; one or more requests lack returned cost metadata (see generation IDs in the usage log)"
+        print(f"\nActual usage: {USAGE['in']:,} input + {USAGE['out']:,} output tokens across {USAGE['requests']} request attempts, {USAGE['retries']} retries; {cost_text}.")
     print(f"\n{done}/{len(prepared)} notes written to {SOURCES_DIR}. Citations that came from the filename or an LLM read are worth a glance in {EXTERNAL_CITATIONS_PATH.name}.")
     return 0 if done == len(prepared) else 1
 

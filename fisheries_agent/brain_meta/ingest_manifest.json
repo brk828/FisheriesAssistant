@@ -925,11 +925,13 @@
   "timestamp": "2026-10-21T05:36:19+00:00"
  },
  "15528cbec543a057f70fb42d0cfb3bce8e8e7316d5851c2ba9fec859eb1c9a70": {
+  "citation_source": "minckley-sheet",
   "file": "14934.pdf",
-  "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: ''",
+  "method": "ocr",
+  "note": "FisheriesInvestigationsAndSurv_14934.md",
   "source_id": "X-15528cbe",
-  "status": "failed",
-  "timestamp": "2026-10-22T00:17:42+00:00"
+  "status": "done",
+  "timestamp": "2026-10-23T21:36:44+00:00"
  },
  "15a121fdafb2a8e0f741163ca7965e8918373307af7d6cec36637ac5e517f0de": {
   "citation_source": "minckley-sheet",
@@ -7962,11 +7964,13 @@
   "timestamp": "2026-10-21T06:21:51+00:00"
  },
  "ae8d72902d7e6b2904850c174395b2def187f321142af47325c4e1728267a035": {
+  "citation_source": "crossref",
   "file": "Chromosome-level_reference_genomes_of_two_imperile.pdf",
-  "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: '--- species: - Meda fulgida - Tiaroga cobitis - Danio rerio - Leucaspius delinea'",
+  "method": "text",
+  "note": "ChromosomelevelReferenceGenome_2023.md",
   "source_id": "X-ae8d7290",
-  "status": "failed",
-  "timestamp": "2026-10-22T00:10:13+00:00"
+  "status": "done",
+  "timestamp": "2026-10-23T21:36:44+00:00"
  },
  "ae9a79ccee2a106d8db724941b22d6b15f0521dd963bd118e1e2701c75525b0f": {
   "citation_source": "minckley-sheet",
@@ -8147,11 +8151,13 @@
   "timestamp": "2026-10-21T20:35:28+00:00"
  },
  "b23d8db8bf41a1385c6512cd25232b3547c888558f8f02610f777828d0559ca1": {
+  "citation_source": "minckley-sheet",
   "file": "20170.pdf",
-  "reason": "similar document already in the brain: ReportOfTheNationalFishHatcher_18310",
+  "method": "ocr",
+  "note": "ReportOfTheNationalFishHatcher_20170.md",
   "source_id": "X-b23d8db8",
-  "status": "skipped",
-  "timestamp": "2026-10-22T03:46:36+00:00"
+  "status": "done",
+  "timestamp": "2026-10-23T21:36:44+00:00"
  },
  "b2c15c9920bbbc8ace433a1b59a10b38232185ee88c5eabe749aeec6c79b633d": {
   "citation_source": "minckley-sheet",
@@ -11288,11 +11294,13 @@
   "timestamp": "2026-10-19T16:42:42+00:00"
  },
  "f4969696c495935b31c9b1b1b2649067df3dfd8be3bcfeeb4b76733d6b3c21c8": {
+  "citation_source": "minckley-sheet",
   "file": "13187.pdf",
-  "reason": "model did not return a complete note (missing frontmatter or required sections); reply began: ''",
+  "method": "ocr",
+  "note": "ExploratoryFishingForASourceOf_13187.md",
   "source_id": "X-f4969696",
-  "status": "failed",
-  "timestamp": "2026-10-22T00:17:38+00:00"
+  "status": "done",
+  "timestamp": "2026-10-23T21:36:44+00:00"
  },
  "f49ba1fc20146fe7e4a0e340c0b293ce3c5f6e3da6f432b1e3d47ef6233507e9": {
   "citation_source": "minckley-sheet",

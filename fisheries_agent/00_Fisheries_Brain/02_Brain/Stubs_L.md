@@ -3193,6 +3193,15 @@ Lake Martin is a 40,000-acre reservoir in Alabama where threadfin shad were succ
 ### Mentioned In
 - [[ProductionOfTheThreadfinShadDo_15096]]
 
+## Lake Marvin
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
+
 ## Lake Mary
 
 ### Summary
@@ -8032,6 +8041,9 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > The Native Fish Project at [[Phoenix Zoo]] established a dual-purpose conservation facility in summer 1996 to provide long-term refugium and head-start capabilities for endangered southwestern native fish species. Through multi-agency collaboration, zoo staff successfully converted existing lake...
 > -- *[[FishFareFineAtPhoenix_19367]]*
 
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
 ### Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -8462,6 +8474,7 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[NotesOnTheSpawningOfTheHumpbac_19098]]
 - [[GeneticDiversityOfRazorbackSuc_19113]]
 - [[FishFareFineAtPhoenix_19367]]
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Largemouth Black Bass
 <!-- fm: auto_enriched: true -->
@@ -9615,9 +9628,13 @@ Le Roux Creek is a water source associated with Hotchkiss National Fish Hatchery
 > - **Geographic scope**: Resident (non-anadromous) salmonid populations across the eight states of USFWS Region 6, concentrated in the [[Rocky Mountains]] (Colorado, Utah, Wyoming, Montana, and surrounding states). - **Habitat types referenced**: Rivers, streams, reservoirs, and impounded waters s...
 > -- *[[TheRoleAndResponsibilitiesOfTh_19662]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[StationProfileLeadvilleNationa_1993_12_16]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Leadville Nfh
 <!-- fm: auto_enriched: true -->
@@ -10700,6 +10717,15 @@ Leo Carrillo Beach State Park is a California state park where the Arroyo Sequit
 
 ### Mentioned In
 - [[FishRemainsFromArroyoSequitShe_18754]]
+
+## Leo D. Lewis
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Leo Shapovalov
 <!-- fm: auto_enriched: true -->
@@ -12673,6 +12699,9 @@ Leuciscidae is a family of freshwater cypriniform fishes that was established th
 > **Taxonomic & Life-History Summary:** The [[Gila robusta]] complex comprises three nominal species in the [[Gila River basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Gila Chub]] (*G. intermedia*), and [[Headwater Chub]] (*G. nigra*). *G. robusta* is large (>50 cm maximum length), slender, and...
 > -- *[[HolisticSpeciesDelimitationSup_2026]]*
 
+> This genomics paper reports chromosome-scale reference genome assemblies for two endangered, co-distributed desert minnows, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), both endemic to the [[Gila River Basin]] in Arizona and New Mexico. The assemblies were built from...
+> -- *[[ChromosomelevelReferenceGenome_2023]]*
+
 ### Mentioned In
 - [[CliolaHybopsisTopekaGilbertCur_18324]]
 - [[DesertFishesCouncilLetterOfSup_1985_07_19]]
@@ -12681,6 +12710,7 @@ Leuciscidae is a family of freshwater cypriniform fishes that was established th
 - [[TableVulnerableSpeciesInPimaCo_18770]]
 - [[SiteAndLandscapescaleEstimates_2026]]
 - [[HolisticSpeciesDelimitationSup_2026]]
+- [[ChromosomelevelReferenceGenome_2023]]
 
 ## Leuciscinae
 <!-- fm: auto_enriched: true -->
@@ -16298,6 +16328,9 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 > A comprehensive fisheries survey was conducted along the [[Blue River]] in [[Greenlee County]], Arizona from June 16-19, 1997. The survey team from [[Arizona State University]] and [[United States Forest Service]] sampled 90 pools between [[Smith Ranch]] and F.S. Road 475 ([[Juan Miller...
 > -- *[[BlueRiverPoolSamplingGreenleeC_17213]]*
 
+> This genomics paper reports chromosome-scale reference genome assemblies for two endangered, co-distributed desert minnows, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), both endemic to the [[Gila River Basin]] in Arizona and New Mexico. The assemblies were built from...
+> -- *[[ChromosomelevelReferenceGenome_2023]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -16510,6 +16543,7 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 - [[UsFishAndWildlifeServicesBiolo_11753]]
 - [[PotentialForTransferOfNonnativ_15168]]
 - [[BlueRiverPoolSamplingGreenleeC_17213]]
+- [[ChromosomelevelReferenceGenome_2023]]
 
 ## Loach Minnow Conservation
 <!-- fm: auto_enriched: true -->
@@ -17972,6 +18006,15 @@ Longview, Washington is a location in the Pacific Northwest where the Abernathy 
 
 ### Mentioned In
 - [[IceCoreRecordsOfPastClimateCha_1995_09_06]]
+
+## Lonnie Peters
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Loon Creek
 

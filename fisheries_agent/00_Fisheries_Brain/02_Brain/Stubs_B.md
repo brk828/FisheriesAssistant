@@ -358,6 +358,15 @@ Backwaters are low-velocity aquatic areas typically formed by sandbars and other
 - [[InteragencyStandardizedMonitor_1993]]
 - [[LetterRegardingCommitteeQuesti_1993_02_26]]
 
+## Bacterial Bioassay
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
+
 ## Bacterial Gill Disease
 <!-- fm: auto_enriched: true -->
 
@@ -2046,6 +2055,15 @@ Barbatia reeveana is a bivalve mollusk in the family Arcidae documented at Puert
 
 ### Mentioned In
 - [[AnnotatedChecklistOfFishesFrom_1962]]
+
+## Barbuda Bank
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
 
 ## Barbus brachycephalus
 
@@ -8078,6 +8096,9 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 > This recovery plan addresses two endangered cyprinid species endemic to the [[Virgin River]] system: the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*). The woundfin was listed as endangered on October 13, 1970, and the Virgin River chub on August 24,...
 > -- *[[VirginRiverFishesRecoveryPlan_13186]]*
 
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
@@ -8195,6 +8216,7 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[PreliminaryDraftEnvironmentalA_11680]]
 - [[VirginRiverFishesRecoveryPlan_13186]]
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Black Bullhead Catfish
 
@@ -9512,6 +9534,15 @@ Black-tailed jackrabbits (Lepus californicus) are the most abundant identified t
 
 ### Mentioned In
 - [[EndangeredSpeciesTodayExtinctT_1977]]
+
+## Blackfin Snapper
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
 
 ## Blackfin Tuna
 <!-- fm: auto_enriched: true -->
@@ -18639,6 +18670,15 @@ Buffalo Pound Lake is a shallow eutrophic lake in the Qu'Appelle River system of
 ### Mentioned In
 - [[ThreatenedFishesOfTheWorldSand_1996]]
 
+## Buffalo Springs Lake
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
+
 ## Buffalo-fish
 
 ### Summary
@@ -20754,6 +20794,15 @@ Bush Creek is a tributary stream that flows into the Blue River in Greenlee Coun
 
 ### Mentioned In
 - [[BiologicalOpinionSummaryBlueRi_11685]]
+
+## Busted Selection Test
+
+### Context
+> This genomics paper reports chromosome-scale reference genome assemblies for two endangered, co-distributed desert minnows, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), both endemic to the [[Gila River Basin]] in Arizona and New Mexico. The assemblies were built from...
+> -- *[[ChromosomelevelReferenceGenome_2023]]*
+
+### Mentioned In
+- [[ChromosomelevelReferenceGenome_2023]]
 
 ## Bustillos Basin
 <!-- fm: auto_enriched: true -->

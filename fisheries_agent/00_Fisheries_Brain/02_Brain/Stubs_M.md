@@ -2318,6 +2318,15 @@ Marineland of the Pacific is referenced as an aquarium facility that successfull
 ### Mentioned In
 - [[TheUseOfAnestheticsForTheHandl_12317]]
 
+## Marion Toole
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
+
 ## Marion, Alabama
 
 ### Summary
@@ -3797,6 +3806,15 @@ McCloud River, California was the location of one of the earliest federal fish h
 
 ### Mentioned In
 - [[ReportOfTheNationalFishHatcher_20169]]
+
+## McCloud River National Fish Hatchery
+
+### Context
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
+### Mentioned In
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Mccloud River Redband Trout
 <!-- fm: auto_enriched: true -->
@@ -9773,6 +9791,15 @@ Minnows (family Cyprinidae) are a large and diverse family of freshwater fishes 
 ### Mentioned In
 - [[PositionStatementOnRecreationa_1994_09_01]]
 
+## Minority Report on Recreational Fishing
+
+### Context
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
+### Mentioned In
+- [[ReportOfTheNationalFishHatcher_20170]]
+
 ## Minshall And Winger 1968
 <!-- fm: auto_enriched: true -->
 
@@ -12036,6 +12063,15 @@ Molva molva (Ling) exhibits an elongate, narrow cerebellum tightly applied to th
 
 ### Mentioned In
 - [[BirdsOfTheMoundSpringsAndBores_17193]]
+
+## Mongoose Bioassay
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
 
 ## Mongrel Buffalo
 
@@ -14538,6 +14574,15 @@ I appreciate the detailed prompt, but I must clarify that "Mourning Dove" does n
 
 ### Mentioned In
 - [[FisherySurveyOfTheMousamRiver_12823]]
+
+## Mouse Bioassay
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
 
 ## Mouth-Brooding Behavior
 <!-- fm: auto_enriched: true -->

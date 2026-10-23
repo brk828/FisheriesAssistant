@@ -64,6 +64,13 @@ When writing or modifying code for this framework, you must strictly follow thes
 * **No Hallucinated or Unvetted R Packages:** Use base R and the packages above by default. A skill may call for other packages (for example `FSA`, `TMB`, `mgcv`, `unmarked`, `RMark`/`marked`), but only ones that actually exist on CRAN (or a cited repository) and are documented in the skill with their source. Check they are installed, never install without the scientist's approval, and never invent function names or arguments; confirm them against the package documentation.
 * **Clean Code Overwrite:** Ensure temporary R script generation paths do not collide during active terminal sessions. Clean up (`os.remove`) runtime wrappers inside a `finally:` block immediately after execution completes.
 
+## Current PDF ingestion behavior
+- `utils/pdf_ingest.py` defaults PDF note generation to `anthropic/claude-haiku-5.5`; `OPENROUTER_INGEST_MODEL` explicitly overrides it. The main orchestrator still uses `OPENROUTER_MODEL`.
+- A PDF is automatically skipped as a duplicate only when its Minckley ID is already represented in the library. Similar titles/DOIs and matching file hashes do not block processing.
+- Notes are capped at 250,000 characters by default. For longer PDFs, the user may choose full text (up to 450,000 characters) or skip; no response within 10 seconds selects the 250,000-character cap.
+- Processing still requires the normal estimate/consent; stub-store consolidation, OCR/extraction failures, model/API failures, and the optional post-run Git sync prompt can also stop or pause a batch. Successful PDFs are removed from `pdfs_to_process` by default.
+- Per-document request usage is appended to the Git-ignored `fisheries_agent/runs/pdf_ingest_usage.jsonl`. It records metadata and OpenRouter cost, not prompts or document text; generation IDs are retained for cost reconciliation if a response omitted `usage.cost`.
+
 ## Minckley Library reference
 - `brain_meta/minckley_library.csv` is the reference for Minckley citations (11,264 rows; built from the curated `00_Fisheries_Brain/MinckleyLibrary.xlsx`). `brain_citations` reads it instead of the old Google sheet.
 - Rebuild after editing the Excel file: `python -m utils.minckley_reference build` then `python -m utils.brain_citations import`. The conservative spell check logs each change to `brain_meta/minckley_spellfix_log.csv`; it skips names, taxa and non-English words.

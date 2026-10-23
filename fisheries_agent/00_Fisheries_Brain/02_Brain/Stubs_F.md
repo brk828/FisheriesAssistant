@@ -850,6 +850,9 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This study evaluated the effectiveness of holding pond systems for treating refinery wastewater at two facilities operated by Apco Oil Corp. in [[Arkansas City]], Kansas and [[Cyril]], Oklahoma. Using [[Fathead Minnow]] ([[Pimephales promelas]]) bioassays and chemical analyses, researchers...
 > -- *[[TheCaseForHoldingPondTwoRefine_19068]]*
 
+> This genomics paper reports chromosome-scale reference genome assemblies for two endangered, co-distributed desert minnows, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), both endemic to the [[Gila River Basin]] in Arizona and New Mexico. The assemblies were built from...
+> -- *[[ChromosomelevelReferenceGenome_2023]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -1005,6 +1008,7 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[EffectsOfEnvironmentalFactorsO_18248]]
 - [[EffectsOfOrganicMatterAndLoadi_18249]]
 - [[TheCaseForHoldingPondTwoRefine_19068]]
+- [[ChromosomelevelReferenceGenome_2023]]
 
 ## Fathead Minnows
 
@@ -1227,8 +1231,12 @@ The Federal Aid in Fisheries Restoration Act was a federal program that funded s
 > This segment completion report documents fisheries problems identified in Texas Region 3-B during February 1, 1962 - January 31, 1963 under Federal Aid Project F-3-R-10. The investigation, led by John N. Dorchester, identified excess aquatic vegetation in larger reservoirs as the primary fishery...
 > -- *[[FisheriesInvestigationsAndSurv_14931]]*
 
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
 ### Mentioned In
 - [[FisheriesInvestigationsAndSurv_14931]]
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Federal Aid In Sport Fish Restoration Act
 <!-- fm: auto_enriched: true -->
@@ -3097,8 +3105,12 @@ Fish Disease Control Centers are specialized facilities within the U.S. Fish and
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Fish Disease Control Lab
 <!-- fm: auto_enriched: true -->
@@ -3446,6 +3458,15 @@ Fish Hatchery Management encompasses the practical operational and technical pro
 
 ### Mentioned In
 - [[ExperimentalPropagationOfNorth_15906]]
+
+## Fish Hawk
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
 
 ## Fish Health Center
 <!-- fm: auto_enriched: true -->
@@ -4497,9 +4518,13 @@ Fish Taxonomy is the scientific classification and systematic organization of fi
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by a panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The review addresses fundamental questions about the role of Federal fish...
 > -- *[[ExecutiveSummary_18726]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[ReviewAndCommentsOnTheFunction_11667]]
 - [[ExecutiveSummary_18726]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Fish Teratology
 <!-- fm: auto_enriched: true -->
@@ -4803,6 +4828,15 @@ Fisheries - USA is a U.S. Fish and Wildlife Service policy that guides the agenc
 
 ### Mentioned In
 - [[FishDistributionPercentByProgr_1994_03_31]]
+
+## Fisheries Investigations And Surveys
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Fisheries Management
 <!-- fm: auto_enriched: true -->
@@ -5847,6 +5881,9 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 > This legal declaration by John Hamill, Director of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]], describes a comprehensive cooperative effort initiated in January 1988 to recover four endangered fish species, including the [[Razorback...
 > -- *[[CivilActionNoFColoradoWildlife_20991]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[MeasuresToImproveSportFishingA_1962]]
@@ -5863,6 +5900,7 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 - [[RealitiesOfProvidingWaterForEn_20669]]
 - [[WantedForTheFutureTheseNativeF_13295]]
 - [[CivilActionNoFColoradoWildlife_20991]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Flaming Gorge Studies Program
 

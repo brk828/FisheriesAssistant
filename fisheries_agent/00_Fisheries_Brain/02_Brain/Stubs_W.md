@@ -1986,6 +1986,15 @@ Warrior Bass (Micropterus warriorensis) is one of the species within the Redeye 
 ### Mentioned In
 - [[ACaseOfMistakenIdentityGenetic_2021]]
 
+## Warsaw Grouper
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
+
 ## Wasatch Front
 
 ### Summary
@@ -6276,6 +6285,9 @@ The White River refers to a river system in the south-central United States (pri
 > This 1993 report by [[American Rivers]] identifies the ten most endangered and fifteen most threatened rivers in North America based on importance as natural resources, degree of threat, and imminence of those threats. The document serves as an advocacy tool to raise public awareness about...
 > -- *[[TheNationsTenMostEndangeredRiv_17976]]*
 
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -6356,6 +6368,7 @@ The White River refers to a river system in the south-central United States (pri
 - [[SwimmingUpstreamTheEndangeredF_15037]]
 - [[FishesOfNevada_15993]]
 - [[TheNationsTenMostEndangeredRiv_17976]]
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## White River (Arizona)
 <!-- fm: auto_enriched: true -->

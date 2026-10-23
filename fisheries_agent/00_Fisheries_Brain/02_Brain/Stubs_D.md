@@ -10612,6 +10612,15 @@ I appreciate your detailed request, but I must be honest: based on the context s
 ### Mentioned In
 - [[IceCoreRecordsOfPastClimateCha_1995_09_06]]
 
+## Dundee Hatchery
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
+
 ## Dunham Et Al. 1979
 <!-- fm: auto_enriched: true -->
 

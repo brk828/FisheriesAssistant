@@ -2727,8 +2727,12 @@ The Canadian River is a major tributary of the Arkansas River that originates on
 > This Master's thesis (December 1984) presents a comprehensive synthesis of the native fish fauna inhabiting drainages east of the [[Continental Divide]] in [[New Mexico]], reconstructing the ichthyofauna as it existed circa 1550 AD. The study documents 51 native species across five major drainage...
 > -- *[[TheNativeFishFaunaOfMajorDrain_20711]]*
 
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
 ### Mentioned In
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Canadian River Basin
 
@@ -3579,6 +3583,15 @@ Capoetobrama kuschakewitschi is an endemic cyprinid fish species. This source id
 
 ### Mentioned In
 - [[StationProfileOfTheNeoshoNatio_1993]]
+
+## Caprock
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Captive Breeding
 
@@ -5052,6 +5065,9 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This 1970 conference paper presents research on the ecological effects of heated water discharges from fossil-fueled steam electric generating plants into cooling reservoirs in Missouri. Studies conducted at [[Montrose Lake]] (1500 acres) and [[Thomas Hill Reservoir]] (4500 acres) examined water...
 > -- *[[PossibilitiesForBeneficialUseO_17360]]*
 
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -5194,6 +5210,7 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[AnEvaluationOfSelectiveShadCon_12859]]
 - [[BlueRiverPoolSamplingGreenleeC_17213]]
 - [[PossibilitiesForBeneficialUseO_17360]]
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Carp Control
 <!-- fm: auto_enriched: true -->
@@ -13164,6 +13181,9 @@ Chinook Salmon (*Oncorhynchus tshawytscha*) are the largest Pacific salmon speci
 > This document is the official U.S. Code of Federal Regulations (50 CFR Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] to be Endangered or Threatened under the [[Endangered Species Act]]. It provides comprehensive regulatory lists (§17.11 for...
 > -- *[[PartEndangeredAndThreatenedWil_11585]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
@@ -13206,6 +13226,7 @@ Chinook Salmon (*Oncorhynchus tshawytscha*) are the largest Pacific salmon speci
 - [[FishRemainsFromDeerCreekCaveEl_18755]]
 - [[PartEndangeredAndThreatenedWil_11572]]
 - [[PartEndangeredAndThreatenedWil_11585]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Chione
 
@@ -15689,6 +15710,24 @@ Cienega Spring is one of 16 existing water sources at San Bernardino National Wi
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
 - [[DraftRecoveryPlanForTheEndange_11645]]
+
+## Ciguatera
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
+
+## Ciguatoxin
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
 
 ## Ciliata
 <!-- fm: auto_enriched: true -->
@@ -26932,6 +26971,9 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 > This 1962 conference paper examines the relationship between freshwater fisheries and nature conservation in developed countries, particularly Britain and North America. The author identifies four main categories of freshwater fishing: commercial fishing for species like [[Salmon]] (*Salmo salar*)...
 > -- *[[TheInteractionBetweenFreshwate_20227]]*
 
+> This genomics paper reports chromosome-scale reference genome assemblies for two endangered, co-distributed desert minnows, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), both endemic to the [[Gila River Basin]] in Arizona and New Mexico. The assemblies were built from...
+> -- *[[ChromosomelevelReferenceGenome_2023]]*
+
 ### Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -27134,6 +27176,7 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 - [[GeneticDiversityOfRazorbackSuc_19113]]
 - [[GlenCanyonEnvironmentalStudies_19718]]
 - [[TheInteractionBetweenFreshwate_20227]]
+- [[ChromosomelevelReferenceGenome_2023]]
 
 ## Common Chuckwalla
 
@@ -28915,11 +28958,15 @@ Coontail (Ceratophyllum demersum) is an aquatic plant species found abundantly i
 > This 1968 manual from the [[Bureau of Sport Fisheries and Wildlife]] provides comprehensive guidance on herbicide use for vegetation control in fish and wildlife management programs. Issued by the [[U.S. Department of the Interior]] under Secretary [[Stewart L. Udall]], the document establishes...
 > -- *[[ChemicalVegetationControlManua_12838]]*
 
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
 ### Mentioned In
 - [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
 - [[ChemicalVegetationControlManua_12838]]
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Cooper (1953)
 <!-- fm: auto_enriched: true -->
@@ -31440,6 +31487,15 @@ Craig is a town in Colorado located near river kilometer 224 on the Yampa River.
 ### Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[FishDistributionPercentByProgr_1994_03_30]]
+
+## Craig Brook National Fish Hatchery
+
+### Context
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
+### Mentioned In
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Craig Brook Nfh
 <!-- fm: auto_enriched: true -->

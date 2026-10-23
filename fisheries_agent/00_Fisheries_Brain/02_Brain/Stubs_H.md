@@ -2619,6 +2619,15 @@ The Hatchery Feasibility Study was being conducted by the Colorado Water Conserv
 ### Mentioned In
 - [[GuidelinesForIntroductionsOfTh_12022]]
 
+## Hatchery Stocking
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
+
 ## Hatchery Stocking Programs
 <!-- fm: auto_enriched: true -->
 
@@ -5191,6 +5200,15 @@ High Performance Liquid Chromatography (HPLC) is an analytical technique used to
 
 ### Mentioned In
 - [[AcclimationOfRainbowTroutToHig_15535]]
+
+## High Plains
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## High Rock Lake
 
@@ -8804,6 +8822,15 @@ Hull Spring (Site #30) was a reintroduction site that was found completely dry i
 
 ### Mentioned In
 - [[GilaTopminnowSitesInArizonaPro_19668]]
+
+## Human Consumption Bioassay
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
 
 ## Human-Environment Interaction
 <!-- fm: auto_enriched: true -->

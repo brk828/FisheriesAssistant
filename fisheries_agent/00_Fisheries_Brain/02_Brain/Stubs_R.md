@@ -4817,6 +4817,15 @@ Red Drum (*Sciaenops ocellata*), commonly known as redfish, is a sciaenid fish s
 - [[MarineIntroductionsTexas_13536]]
 - [[FishIntroductionsGoodManagemen_17630]]
 
+## Red Grouper
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
+
 ## Red Haw Lake
 <!-- fm: auto_enriched: true -->
 
@@ -6792,6 +6801,15 @@ The Reed Cormorant is a piscivorous bird present in lower salinity areas of the 
 ### Mentioned In
 - [[IdentificationOfCandidatesForL_19325]]
 
+## Reef Sampler
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
+
 ## Reelfoot Lake
 <!-- fm: auto_enriched: true -->
 
@@ -7053,6 +7071,15 @@ Region 1 encompasses the Pacific coast states (Washington, Idaho, Oregon, Califo
 
 ### Mentioned In
 - [[ForConservingListedSpeciesTalk_15635]]
+
+## Region 1-A
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Region 2
 
@@ -12529,6 +12556,9 @@ The river carpsucker is a freshwater cyprinid fish species found in North Americ
 > This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
 > -- *[[SummaryOfCommercialFisheriesCa_19834]]*
 
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
 ### Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
@@ -12547,6 +12577,7 @@ The river carpsucker is a freshwater cyprinid fish species found in North Americ
 - [[BioassayAndUseOfPituitaryMater_15952]]
 - [[StatewideRoughFishControljobNo_14932]]
 - [[SummaryOfCommercialFisheriesCa_19834]]
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## River Channelization Impacts On Wildlife
 <!-- fm: auto_enriched: true -->
@@ -15051,6 +15082,9 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 > This Supplemental Environmental Assessment, prepared by the [[Bureau of Land Management]] Phoenix District Office in May 1984, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into 11 selected...
 > -- *[[IntroductionOfGilaTopminnowAnd_17957]]*
 
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
 ### Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -15088,6 +15122,7 @@ Rotenone is a naturally derived piscicide extracted from legume roots that has b
 - [[NorthernPikeControlAtLakeDavis_2001]]
 - [[StatewideRoughFishControlfishE_14929]]
 - [[IntroductionOfGilaTopminnowAnd_17957]]
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Rotenone Poisoning
 <!-- fm: auto_enriched: true -->

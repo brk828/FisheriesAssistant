@@ -1580,6 +1580,9 @@ Ecosystem Management in fish science and aquatic conservation refers to the inte
 > This draft document presents recommendations from the National Fish Hatchery Review Panel (McIntyre, Rinne, Minckley, Williams) dated September 23, 1974, addressing the role of federal fish hatcheries within a National Fisheries Program ([[NFP]]). The panel identified significant challenges...
 > -- *[[DraftRecommendationsNationalFi_19586]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[IssuesAndAlternativesForUseOfH_1994_05_31]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
@@ -1589,6 +1592,16 @@ Ecosystem Management in fish science and aquatic conservation refers to the inte
 - [[ReportOfTheNationalFishHatcher_20169]]
 - [[ReportOfTheNationalFishHatcher_18310]]
 - [[DraftRecommendationsNationalFi_19586]]
+- [[ReportOfTheNationalFishHatcher_20170]]
+
+## Ecosystem Management Team
+
+### Context
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
+### Mentioned In
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Ecosystem Metabolism
 <!-- fm: auto_enriched: true -->
@@ -2996,6 +3009,15 @@ Electric Rays are cartilaginous fishes inhabiting the Gulf of California. The cl
 
 ### Mentioned In
 - [[AClassificationOfTheFishesOfTh_14438]]
+
+## Electric Reel
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
 
 ## Electric Shocking (Fish Sampling)
 <!-- fm: auto_enriched: true -->
@@ -5477,6 +5499,9 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This document comprises a 1989 research proposal by [[Thomas E. Dowling]] and [[W. L. Minckley]] to assess genetic diversity of [[Razorback Sucker]] (*Xyrauchen texanus*) populations using restriction endonuclease analysis of mitochondrial DNA (mtDNA), submitted to the [[U.S. Bureau of...
 > -- *[[GeneticDiversityOfRazorbackSuc_19113]]*
 
+> This genomics paper reports chromosome-scale reference genome assemblies for two endangered, co-distributed desert minnows, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), both endemic to the [[Gila River Basin]] in Arizona and New Mexico. The assemblies were built from...
+> -- *[[ChromosomelevelReferenceGenome_2023]]*
+
 ### Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -5896,6 +5921,7 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[AnnualReportRecoveryProgramFor_11673]]
 - [[BiologicalAssessmentDesertPupf_12882]]
 - [[GeneticDiversityOfRazorbackSuc_19113]]
+- [[ChromosomelevelReferenceGenome_2023]]
 
 ## Endangered Species Act - Colorado River Basin Fishes
 <!-- fm: auto_enriched: true -->
@@ -10087,6 +10113,15 @@ Eudorina is a genus of phytoplankton from the Green Algae (Chlorophyta) phylum f
 ### Mentioned In
 - [[ReservoirFisheriesInvestigatio_14590]]
 
+## Eugene A. Walker
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
+
 ## Eugene Knoder
 <!-- fm: auto_enriched: true -->
 
@@ -10837,9 +10872,13 @@ Evolutionarily Significant Units (ESUs) are groups designated by the National Ma
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] in 1994. The panel assessed 78 federal hatcheries across 35 states that produce 220 million fish of...
 > -- *[[ReportOfTheNationalFishHatcher_20169]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20169]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Evolutionary Biology
 <!-- fm: auto_enriched: true -->

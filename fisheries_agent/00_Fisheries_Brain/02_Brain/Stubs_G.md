@@ -6642,6 +6642,9 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
 > -- *[[MorphologicalVariationInGilaPi_12778]]*
 
+> This genomics paper reports chromosome-scale reference genome assemblies for two endangered, co-distributed desert minnows, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), both endemic to the [[Gila River Basin]] in Arizona and New Mexico. The assemblies were built from...
+> -- *[[ChromosomelevelReferenceGenome_2023]]*
+
 ### Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -6798,6 +6801,7 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[UsFishAndWildlifeServicesBiolo_11753]]
 - [[TheGilaTopminnowPoeciliopsisOO_12486]]
 - [[MorphologicalVariationInGilaPi_12778]]
+- [[ChromosomelevelReferenceGenome_2023]]
 
 ## Gila River Basin Endemic Fishes
 <!-- fm: auto_enriched: true -->
@@ -11324,6 +11328,9 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 > [[Big Bear Lake]] in [[San Bernardino County]], California was treated with toxaphene in September 1960 to eradicate an abundant population of [[Goldfish]] (*Carassius auratus*) and the ectoparasitic copepod *[[Lernaea carassii]]*. The treatment followed two unsuccessful rotenone applications....
 > -- *[[ToxapheneTreatmentOfBigBearLak_19824]]*
 
+> This genomics paper reports chromosome-scale reference genome assemblies for two endangered, co-distributed desert minnows, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), both endemic to the [[Gila River Basin]] in Arizona and New Mexico. The assemblies were built from...
+> -- *[[ChromosomelevelReferenceGenome_2023]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -11388,6 +11395,7 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 - [[FishesOfNevada_15993]]
 - [[ToxapheneTreatmentOfBigBearLak_19824]]
+- [[ChromosomelevelReferenceGenome_2023]]
 
 ## Goldman 1960
 <!-- fm: auto_enriched: true -->
@@ -16009,6 +16017,9 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This FY-93 annual report documents hydrological support activities provided by the U.S. Fish and Wildlife Service Water Resources Division for the [[Colorado River Recovery Program]]. The project, ongoing since 1988, provides critical water temperature data collection, flow quantification, gage...
 > -- *[[FyAnnualProjectReportColoradoR_21154]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -16205,6 +16216,7 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[SwimmingUpstreamTheEndangeredF_15037]]
 - [[GeneticDiversityOfRazorbackSuc_19113]]
 - [[FyAnnualProjectReportColoradoR_21154]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Green River (Colorado River Basin)
 <!-- fm: auto_enriched: true -->

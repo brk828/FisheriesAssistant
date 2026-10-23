@@ -46,6 +46,15 @@ P.C. Marsh is a researcher in the Department of Zoology and Center for Environme
 ### Mentioned In
 - [[SpaceForResearchProjectGilaTax_11793]]
 
+## Pacbio Sequel Ii
+
+### Context
+> This genomics paper reports chromosome-scale reference genome assemblies for two endangered, co-distributed desert minnows, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), both endemic to the [[Gila River Basin]] in Arizona and New Mexico. The assemblies were built from...
+> -- *[[ChromosomelevelReferenceGenome_2023]]*
+
+### Mentioned In
+- [[ChromosomelevelReferenceGenome_2023]]
+
 ## Pace Creek
 
 ### Summary
@@ -571,6 +580,9 @@ Pacific Salmon refers to anadromous fish species (primarily Oncorhynchus spp.) n
 > This comprehensive review of the U.S. Fish and Wildlife Service's National Fish Hatchery (NFH) program was conducted by an independent panel convened by the [[National Fish and Wildlife Foundation]] at the request of the Service Director. The panel assessed 78 federal hatcheries across 35 states...
 > -- *[[ReportOfTheNationalFishHatcher_18310]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[ASystemForRecordingMeasurement_1947]]
 - [[DamRemovalWhoShouldPay_1999_09_26]]
@@ -602,6 +614,7 @@ Pacific Salmon refers to anadromous fish species (primarily Oncorhynchus spp.) n
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20169]]
 - [[ReportOfTheNationalFishHatcher_18310]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Pacific Salmon Commission
 <!-- fm: auto_enriched: true -->
@@ -4245,6 +4258,15 @@ Parker Valley is a location in the lower Colorado River system containing a cana
 
 ### Mentioned In
 - [[SedimentSupplyAndTheDevelopmen_12856]]
+
+## Parks And Wildlife Department
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Paropamisus Mountains
 
@@ -15102,6 +15124,9 @@ Population Viability Analysis (PVA) is a quantitative modeling approach used to 
 > **Core Problem Addressed**: Estimating individual-specific growth parameters (maximum length, growth rate) from capture-recapture data when age is unobserved, with focus on how hierarchical assumptions about nuisance parameters influence inference about biological parameters of interest....
 > -- *[[ModelingIndividualSpecificFish_2013]]*
 
+> This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
+> -- *[[ReportOfTheNationalFishHatcher_20170]]*
+
 ### Mentioned In
 - [[DraftMeetingSummaryPopulationV_1991_03_07]]
 - [[InvitationLetterAndAgendaForPo_1991_01_16]]
@@ -15113,6 +15138,7 @@ Population Viability Analysis (PVA) is a quantitative modeling approach used to 
 - [[DeclineOfTheRazorbackSuckerInL_2003]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
 - [[ModelingIndividualSpecificFish_2013]]
+- [[ReportOfTheNationalFishHatcher_20170]]
 
 ## Populus
 
@@ -15583,6 +15609,9 @@ Potameton pectinatus, commonly known as fennel pondweed, is a submerged aquatic 
 > The [[California Department of Fish and Game]] introduced the freshwater shrimp [[Palaemonetes paludosus]] into the [[Lower Colorado River]] system beginning in 1958 to improve the food chain for small [[Largemouth Bass]] ([[Micropterus salmoides]]) and [[Channel Catfish]] ([[Ictalurus...
 > -- *[[IntroductionOfPalaemonetesPalu_20723]]*
 
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
 ### Mentioned In
 - [[AModelForQuantitativeStudiesOf_1966_05_05]]
 - [[AquaticMacrophytesAndTheOxygen_12171]]
@@ -15595,6 +15624,7 @@ Potameton pectinatus, commonly known as fennel pondweed, is a submerged aquatic 
 - [[TheLightClimateForPlantsInRive_12168]]
 - [[SomeEffectsOfPlantsAndAnimalsO_15778]]
 - [[IntroductionOfPalaemonetesPalu_20723]]
+- [[FisheriesInvestigationsAndSurv_14934]]
 
 ## Potamogetonaceae
 

@@ -97,6 +97,15 @@ J. Taylor is an author of a 1983 publication that was referenced in corresponden
 ### Mentioned In
 - [[TheoryOfHybridOriginAndTheEasy_13398]]
 
+## J. Weldon Watson
+
+### Context
+> This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
+> -- *[[FisheriesInvestigationsAndSurv_14934]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14934]]
+
 ## J.A. Gulland
 
 ### Summary
@@ -232,6 +241,15 @@ Jackman Reservoir is a water body in southern New Hampshire examined in this sur
 
 ### Mentioned In
 - [[FourthAnnualMeetingDeathValley_11111]]
+
+## Jacks
+
+### Context
+> This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
+> -- *[[ExploratoryFishingForASourceOf_13187]]*
+
+### Mentioned In
+- [[ExploratoryFishingForASourceOf_13187]]
 
 ## Jacksmelt
 <!-- fm: auto_enriched: true -->
