@@ -191,8 +191,20 @@ Quail Creek Diversion is a water diversion structure on the Virgin River in Utah
 > This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
 > -- *[[DraftConservationAgreementVirg_18320]]*
 
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division Of Wildlife Resources]] (UDWR), reports on conservation activities for the [[Virgin Spinedace]] ([[Lepidomeda Mollispinis]] mollispinis) during Fiscal Year 1995 under the [[Virgin Spinedace Conservation Agreement]]...
+> -- *[[VirginSpinedaceConservationAgr_20260]]*
+
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division of Wildlife Resources]] (UDWR), reports on activities and progress under the [[Virgin Spinedace Conservation Agreement]] for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during fiscal year 1996. The...
+> -- *[[VirginSpinedaceConservationAgr_20261]]*
+
+> This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
+> -- *[[VirginSpinedaceConservationAgr_20262]]*
+
 ### Mentioned In
 - [[DraftConservationAgreementVirg_18320]]
+- [[VirginSpinedaceConservationAgr_20260]]
+- [[VirginSpinedaceConservationAgr_20261]]
+- [[VirginSpinedaceConservationAgr_20262]]
 
 ## Quail Creek Project
 <!-- fm: auto_enriched: true -->
@@ -581,6 +593,18 @@ Quercus toumeyii is an oak species found in the Sierra San Luis reserve. It occu
 ### Mentioned In
 - [[ManagementPlanSierraSanLuisWil_18303]]
 
+## Questar Mountain Fuel Supply Pipeline
+
+### Summary
+A natural gas pipeline project whose crossing of the Virgin River was reviewed by the U.S. Fish and Wildlife Service in 1997. The source notes FWS commented on or consulted on this project as part of its habitat and regulatory review.
+
+### Context
+> This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
+> -- *[[VirginSpinedaceConservationAgr_20262]]*
+
+### Mentioned In
+- [[VirginSpinedaceConservationAgr_20262]]
+
 ## Quibdo
 
 ### Summary
@@ -654,12 +678,29 @@ Quicklime is calcium oxide used to disinfect drained fish ponds. The source iden
 - [[AgeAndGrowthOfRiverCarpsuckerI_1957_12_12]]
 - [[LifeHistoryOfTheQuillbackAndHi_1961]]
 
+## Quinacrine Hydrochloride
+
+### Summary
+A compound in the low toxicity class. Lake trout were roughly ten times as sensitive as other trout, with a 48-hour LC50 of 21 ppm, and mortality was erratic across a wide concentration range.
+
+### Context
+> This Bureau of Sport Fisheries and Wildlife report (Resource Publication 35, December 1966) by [[Wayne A. Willford]] of the [[Fish Control Laboratory]] measures the acute toxicity of 22 therapeutic chemicals to six freshwater fish taxa. The compounds were 18 parasiticides and 4 oral bacteriostats....
+> -- *[[ToxicityOfTherapeuticCompounds_13281]]*
+
+### Mentioned In
+- [[ToxicityOfTherapeuticCompounds_13281]]
+
 ## Quinaldine
 <!-- fm: auto_enriched: true -->
+
+### Context
+> This source is a 1988 [[Fish And Wildlife Service]] (FWS) correspondence packet with two attachments. It covers three linked items: 1. A request to the [[California Department Of Fish And Game]] recovery team for comments on proposed revisions to the [[Colorado Squawfish]] Recovery Plan. The...
+> -- *[[ColoradoSquawfishRecoveryPlan_20997]]*
 
 ### Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[QuinaldineAsAnAnestheticOnSire_1961]]
+- [[ColoradoSquawfishRecoveryPlan_20997]]
 
 ## Quinault
 <!-- fm: auto_enriched: true -->
@@ -874,6 +915,9 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 > This Arizona Game and Fish Department special report, based on field surveys from June 1989 to April 1990 and a review of historic data, assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) in Arizona. Both species were...
 > -- *[[StatusOfTheSonoranTopminnowPoe_17209]]*
 
+> This document package from the [[Coronado National Forest]] (Sierra Vista Ranger District) comprises a cover letter dated 04/23/92, a project proposal dated March 9, 1992, a draft public comment letter, and a mailing list dated 03/12/92. Together they describe a proposed fish renovation of the...
+> -- *[[BogHoleRenovationProjectPropos_12750]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -904,6 +948,7 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[StatusOfTheSonoranTopminnowPoe_17209]]
+- [[BogHoleRenovationProjectPropos_12750]]
 
 ## Quitobaquito Pupfish Subspecies
 <!-- fm: auto_enriched: true -->
@@ -1025,6 +1070,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > The [[Organ Pipe Cactus National Monument]] annual summary for 1992 reports on the endangered [[Quitobaquito Desert Pupfish]] (*Cyprinodon macularius eremus*), an endemic desert pupfish inhabiting the spring outflows and pond at [[Quitobaquito Springs]]. Weekly inspections and an annual census were...
 > -- *[[AnnualSummaryOfActivitiesQuito_19496]]*
 
+> This is a written comment letter, dated July 10, 1995, from [[Defenders of Wildlife]] (represented by Wildlife Counsel Gregory J. Sater) to the Superintendent of [[Organ Pipe Cactus National Monument]]. It responds to the Draft General Management Plan, Development Concept Plan, and Environmental...
+> -- *[[WrittenCommentsOnDraftGeneralM_20520]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -1047,6 +1095,7 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[AnnualSummaryOfActivitiesQuito_19496]]
+- [[WrittenCommentsOnDraftGeneralM_20520]]
 
 ## Quitobaquito Springs And Pond
 <!-- fm: auto_enriched: true -->

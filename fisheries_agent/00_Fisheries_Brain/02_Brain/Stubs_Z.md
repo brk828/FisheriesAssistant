@@ -11,8 +11,12 @@ letter: Z
 > - **Habitat:** The [[Mesa Central]] constitutes the southern third of the Mexican Plateau, lying between the Sierra Madre Oriental and Sierra Madre Occidental, extending from ~22°N south to the Transverse Volcanic Axis (~19°N). This tropical highland region contains flat-floored, often endorheic ...
 > -- *[[MolecularEvolutionAndBiogeogra_1994_06_28]]*
 
+> This document is a set of three letters from 1969 (September 5, September 10, and October 3) about the conservation of endemic freshwater fishes on the Mexican Plateau. [[Clyde D. Barbour]] and [[Robert R. Miller]] argue that the relict fish fauna of the [[Mesa Central]] is scientifically valuable...
+> -- *[[PresentingInformationAtConserv_15570]]*
+
 ### Mentioned In
 - [[MolecularEvolutionAndBiogeogra_1994_06_28]]
+- [[PresentingInformationAtConserv_15570]]
 
 ## Zacatecas
 <!-- fm: auto_enriched: true -->
@@ -339,8 +343,12 @@ Zill's Tilapia (Tilapia zilli) is an introduced fish species found in trace amou
 > This 1970 study by Brown & Dalton, conducted at the Water Pollution Research Laboratory (Stevenage, England), investigated the acute (48-hour) lethal toxicity of binary and ternary mixtures of [[Copper]], [[Phenol]], [[Zinc]], and [[Nickel]] to [[Rainbow Trout]] (*Salmo gairdneri*). The core hypo...
 > -- *[[TheAcuteLethalToxicityToRainbo_1970_02_17]]*
 
+> This two-part study by R. [[Lloyd]] and D. H. M. [[Herbert]] (Jordan in the source) tests whether the acute toxicity of [[Sewage Effluent]] to [[Rainbow Trout]] (*Salmo gairdnerii*) can be predicted from chemical analysis of a few common poisons. The authors summed the individual toxicities of...
+> -- *[[PredictedAndObservedToxicities_16173]]*
+
 ### Mentioned In
 - [[TheAcuteLethalToxicityToRainbo_1970_02_17]]
+- [[PredictedAndObservedToxicities_16173]]
 
 ## Zinc Sulphate
 <!-- fm: auto_enriched: true -->
@@ -669,6 +677,9 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This thesis, from a Department of Biological Sciences, evaluated whether [[Reclaimed Wastewater]] treated by [[Sand Filtration]] (tertiary treatment) could support a [[Sport Fishery]]. Three fish were tested: [[Channel Catfish]], [[Rainbow Trout]] and [[Tilapia Hybrids]]. The study aimed to...
 > -- *[[SportFishProductionAndProducti_20981]]*
 
+> This graduate thesis, submitted to the Graduate College in the Department of Biological Sciences with a major in fisheries management, compares the diets of four [[Centrarchidae]] fishes in [[Blanca Lake]]: [[Largemouth Bass]], [[Black Crappie]], [[Green Sunfish]], and [[Bluegill]]. The study...
+> -- *[[CentrarchidFeedingInteractions_18244]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -686,6 +697,7 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[FishFareFineAtPhoenix_19367]]
 - [[InfluenceOfMolybdenumOnTheTrou_17593]]
 - [[SportFishProductionAndProducti_20981]]
+- [[CentrarchidFeedingInteractions_18244]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->

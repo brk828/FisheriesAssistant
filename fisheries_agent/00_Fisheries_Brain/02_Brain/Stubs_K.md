@@ -155,10 +155,14 @@ The Kalamazoo River is a major river drainage system in Michigan to which two of
 > This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
 > -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
 
+> Albert S. Hazzard of the [[Institute for Fisheries Research]], [[Michigan Department of Conservation]], argues in this 1948 article (reprinted from *Michigan Conservation*, based on a paper given to the [[Izaak Walton League of America]]) that stocking and habitat improvement are both valid...
+> -- *[[StockingVsEnvironmentalImprove_20743]]*
+
 ### Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[TwoNewBloodFlukeParasitesOfTro_14426]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+- [[StockingVsEnvironmentalImprove_20743]]
 
 ## Kamloops Trout
 <!-- fm: auto_enriched: true -->
@@ -596,6 +600,18 @@ Kara Lamb is the contact listed in this newsletter for reservoir-release notices
 
 ### Mentioned In
 - [[TheContemporaryStatusOfTheTwoA_20499]]
+
+## Karaman-Chappuis Technique
+
+### Summary
+A sampling method for subsurface (hyporheic) fauna, used in this study to sample the hyporheic zone three to six weeks after surface flow ceased. The source does not describe its mechanics in detail.
+
+### Context
+> This 1992 comparative study, published in the Environment Canada symposium volume *Aquatic Ecosystems in Semi-Arid Regions: Implications for Resource Management*, examines how aquatic macroinvertebrates survive [[Drying Disturbance]] in intermittent streams. The authors compare two [[Werribee...
+> -- *[[OversummeringStategiesOfMacroi_17739]]*
+
+### Mentioned In
+- [[OversummeringStategiesOfMacroi_17739]]
 
 ## Karel Liem
 <!-- fm: auto_enriched: true -->
@@ -1069,6 +1085,9 @@ The Kendall Warm Springs Dace is an endangered fish species endemic to the Virgi
 > This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
 > -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
 
+> This Colorado State University Cooperative Extension bulletin (issued September 1980, revised February 1983, with 1982 updates) describes the biology, distribution, status and causes of decline of the endangered and threatened fishes of the [[Upper Colorado River Basin]]. It covers five focal...
+> -- *[[EndangeredAndThreatenedFishesO_18138]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[PharyngealTeethInTheEndangered_1988]]
@@ -1076,6 +1095,7 @@ The Kendall Warm Springs Dace is an endangered fish species endemic to the Virgi
 - [[SubpermitAuthorizationLetterTo_1993_06_17]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[EndangeredAndThreatenedFishesO_18138]]
 
 ## Kenilworth Aquatic Gardens
 
@@ -1975,6 +1995,9 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 > This 1956 study by Millard Coots of the [[California Department of Fish and Game]] examines the [[Yellow Perch]] (*Perca flavescens*) in the [[Klamath River]] of California, a population that was not native to the drainage. The primary aim, begun in 1951, was to determine whether yellow perch...
 > -- *[[TheYellowPerchPercaFlavescensM_17576]]*
 
+> This 1951 preliminary analysis by [[Garth I. Murphy]] and [[Leo Shapovalov]] of the California Division of Fish and Game compares fish-counting records from four northern California stations with commercial catch statistics for [[King Salmon]], [[Silver Salmon]] and [[Steelhead Trout]]. Correlation...
+> -- *[[APreliminaryAnalysisOfNorthern_15526]]*
+
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -1990,6 +2013,7 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 - [[AuthortitleIndexToInlandFisher_14367]]
 - [[FishesOfNevada_15993]]
 - [[TheYellowPerchPercaFlavescensM_17576]]
+- [[APreliminaryAnalysisOfNorthern_15526]]
 
 ## King Snake
 
@@ -2582,6 +2606,18 @@ A station on the Klamath River, 16.5 miles below Copco Dam, that used a mechanic
 ### Mentioned In
 - [[TheYellowPerchPercaFlavescensM_17576]]
 
+## Klamathon Racks
+
+### Summary
+Klamathon Racks is one of the four counting stations in the study, located on the Klamath River in northern California. It provided fish-count records used alongside the other stations and commercial catch data to compare run sizes across streams. The source does not report specific findings for this station beyond its inclusion in the comparison.
+
+### Context
+> This 1951 preliminary analysis by [[Garth I. Murphy]] and [[Leo Shapovalov]] of the California Division of Fish and Game compares fish-counting records from four northern California stations with commercial catch statistics for [[King Salmon]], [[Silver Salmon]] and [[Steelhead Trout]]. Correlation...
+> -- *[[APreliminaryAnalysisOfNorthern_15526]]*
+
+### Mentioned In
+- [[APreliminaryAnalysisOfNorthern_15526]]
+
 ## Klapopteryx
 <!-- fm: auto_enriched: true -->
 
@@ -2929,6 +2965,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This U.S. Fish and Wildlife Service, Bureau of Commercial Fisheries leaflet (Fishery Leaflet 527, September 1961, by Lola T. Dees) describes the brine shrimp, *Artemia salina*, a crustacean that lives only in high-salinity water. It covers the species' taxonomy, natural history, reproduction, and...
 > -- *[[BrineShrimp_12752]]*
 
+> This completion report from the [[Utah Department of Fish and Game]] (Federal Aid Project F-4-R-6, Job V, covering August 1, 1958 to July 31, 1959) documents pre-impoundment surveys of two river systems slated for reservoir creation: the Colorado River through Glen Canyon, which became [[Lake...
+> -- *[[PreimpoundmentInvestigationsOf_12301]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -2954,6 +2993,7 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[ThirdWorkshopOnEcologyOfPumpst_12641]]
 - [[FishesOfNevada_15993]]
 - [[BrineShrimp_12752]]
+- [[PreimpoundmentInvestigationsOf_12301]]
 
 ## Kolkwitz
 
@@ -3210,6 +3250,18 @@ The Kosi System is an estuarine system in northern Natal, South Africa (26°54'S
 
 ### Mentioned In
 - [[VersuchEinerAllgemeinenBiozöno_1961]]
+
+## Krenkel and Parker
+
+### Summary
+Editors of a 1969 symposium proceedings on the biological aspects of thermal pollution, cited as a major reference in the bibliography. The volume is one of the key sources surveyed for thermal effects on fish.
+
+### Context
+> This Massachusetts Agricultural Experiment Station Research Bulletin (No. 605, July 1974), by James R. Beltz, James E. Johnson, Donald L. Cohen and Frank B. Pratt of the [[Department Of Forestry And Wildlife Management]] at the University of Massachusetts at Amherst, compiles an annotated...
+> -- *[[AnAnnotatedBibliographyOfTheEf_18153]]*
+
+### Mentioned In
+- [[AnAnnotatedBibliographyOfTheEf_18153]]
 
 ## Krogh 1914
 <!-- fm: auto_enriched: true -->

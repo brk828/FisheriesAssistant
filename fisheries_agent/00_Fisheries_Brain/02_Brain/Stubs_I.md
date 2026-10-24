@@ -538,11 +538,19 @@ Ichthyophthirius is a parasitic ciliate protozoan that causes a common and econo
 > This U.S. Bureau of Sport Fisheries and Wildlife leaflet (FDL-28, July 1970, Division of Fishery Research), prepared by [[Glenn L. Hoffman]] of the [[Eastern Fish Disease Laboratory]], compiles the most effective chemical and non-chemical methods for controlling external and internal parasites of...
 > -- *[[ControlAndTreatmentOfParasitic_20451]]*
 
+> This Bureau of Sport Fisheries and Wildlife report (Resource Publication 35, December 1966) by [[Wayne A. Willford]] of the [[Fish Control Laboratory]] measures the acute toxicity of 22 therapeutic chemicals to six freshwater fish taxa. The compounds were 18 parasiticides and 4 oral bacteriostats....
+> -- *[[ToxicityOfTherapeuticCompounds_13281]]*
+
+> This Massachusetts Agricultural Experiment Station Research Bulletin (No. 605, July 1974), by James R. Beltz, James E. Johnson, Donald L. Cohen and Frank B. Pratt of the [[Department Of Forestry And Wildlife Management]] at the University of Massachusetts at Amherst, compiles an annotated...
+> -- *[[AnAnnotatedBibliographyOfTheEf_18153]]*
+
 ### Mentioned In
 - [[ChannelCatfishCultureInCalifor_16946]]
 - [[PreliminaryReportOnTheMalaccaT_12279]]
 - [[TheChemicalControlOfSomeDiseas_15950]]
 - [[ControlAndTreatmentOfParasitic_20451]]
+- [[ToxicityOfTherapeuticCompounds_13281]]
+- [[AnAnnotatedBibliographyOfTheEf_18153]]
 
 ## Ichthyophthirius Multifiliis
 <!-- fm: auto_enriched: true -->
@@ -971,6 +979,9 @@ Ictalurus melas, commonly known as the black bullhead, is a freshwater catfish s
 > This document comprises field collection records and museum catalog entries from the [[University of Michigan Museum of Zoology]] (UMMZ) spanning 1934-1978, documenting fish fauna of the [[Colorado River]] basin in [[Coconino County]], [[Arizona]]. The records include handwritten field notes,...
 > -- *[[GrandCanyonFieldNotesFromAndVa_15334]]*
 
+> This report, issued by the [[Oklahoma Fishery Research Laboratory]] and supported by the [[Oklahoma Wildlife Conservation Department]] and the [[University of Oklahoma Biological Survey]], summarizes the age, growth, and population characteristics of [[Black Bullhead Catfish]] (*[[Ictalurus...
+> -- *[[GrowthOfBlackBullheadCatfishIn_19942]]*
+
 ### Mentioned In
 - [[ChecklistOfParasitesFromCatfis_1959]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
@@ -984,6 +995,7 @@ Ictalurus melas, commonly known as the black bullhead, is a freshwater catfish s
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[RecoveryPlanForUnarmoredThrees_20518]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
+- [[GrowthOfBlackBullheadCatfishIn_19942]]
 
 ## Ictalurus mexicanus
 
@@ -1991,6 +2003,9 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This 1974 technical report, prepared by [[Eric S. Gustafson]] and submitted by [[W. L. Minckley]] at the [[Lower Colorado River Basin Research Laboratory]], [[Arizona State University]], to the [[U.S. Fish and Wildlife Service]] Regional Office, evaluates external secondary sex characteristics for...
 > -- *[[SexualDimorphismInTheAdultRazo_17843]]*
 
+> This 1956 report by George W. McCammon (California Department of Fish and Game, Inland Fisheries Branch) describes an exploratory tagging study of [[Channel Catfish]] (*Ictalurus punctatus*) in the lower [[Colorado River]] between [[Parker Dam]] and [[Imperial Dam]], begun in 1953. The fishery was...
+> -- *[[ATaggingExperimentWithChannelC_12244]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedNonessent_1987_10_07]]
 - [[HabitatUseByRazorbackSuckersRe_1995]]
@@ -2015,6 +2030,7 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[AMonitoringStudyOfRazorbackSuc_12703]]
 - [[TfsObservationsOnTheColoradoRi_12246]]
 - [[SexualDimorphismInTheAdultRazo_17843]]
+- [[ATaggingExperimentWithChannelC_12244]]
 
 ## Imperial Dam Impoundment
 <!-- fm: auto_enriched: true -->
@@ -2284,11 +2300,15 @@ Imperial Valley Warmwater Hatchery is a California Department of Fish and Game f
 > This administrative document is a memorandum from the [[Fish And Wildlife Service]] (FWS) transmitting the summary of the June 23, 1988 meeting of the [[Management Group]] of the [[Colorado River Recovery Program]], held at the FWS Regional Office in Lakewood, Colorado. The memo header is dated...
 > -- *[[SummaryjuneManagementGroupMeet_20998]]*
 
+> This administrative packet, issued by the [[Fish and Wildlife Service]] (FWS) in November 1990, documents the August 22, 1990 meeting of the [[Recovery Implementation Program]] (RIP) [[Implementation Committee]] for four endangered or rare Upper Colorado River fishes: [[Colorado Squawfish]],...
+> -- *[[ColoradoRiverRecoveryImplement_17881]]*
+
 ### Mentioned In
 - [[LetterRegardingProposedStockin_1989_06_23]]
 - [[LetterToDuaneLShroufeOnGrandCa_1989_04_24]]
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[SummaryjuneManagementGroupMeet_20998]]
+- [[ColoradoRiverRecoveryImplement_17881]]
 
 ## Implementing Agreement
 <!-- fm: auto_enriched: true -->
@@ -2668,9 +2688,25 @@ Index Medicus is a major medical and biological literature indexing service that
 > - **Site loss**: Of 116 historically documented sites, over 50% no longer support fish life by 1985–93; in the Alto Lerma subprovince alone, 56% of 36 historical sites (20 sites) had disappeared entirely due to groundwater extraction, diversions, or urbanization. - **Species decline**: 40% of the...
 > -- *[[FishAsIndicatorsOfEnvironmenta_1998]]*
 
+> This document is a 1994 conceptual outline, [[Ecosystem Conservation Planning]] Process for the [[Native Fish Fauna]] of the [[Gila River Basin]] in Arizona and New Mexico, promoted by [[The Nature Conservancy]] and [[American Rivers]]. It proposes a holistic, ecosystem-level alternative to...
+> -- *[[ConceptualOutlineEcosystemCons_18705]]*
+
 ### Mentioned In
 - [[FishAsIndicatorsOfEnvironmenta_1998]]
 - [[LetterToSecretaryBabbittReques_1993_10_08]]
+- [[ConceptualOutlineEcosystemCons_18705]]
+
+## Index of Hydrologic Alteration
+
+### Summary
+A set of hydrologic metrics for quantifying how human activity has changed a river's natural flow regime (Richter et al. 1994). The source suggests it as a metric for measuring the success of conservation efforts.
+
+### Context
+> This document is a 1994 conceptual outline, [[Ecosystem Conservation Planning]] Process for the [[Native Fish Fauna]] of the [[Gila River Basin]] in Arizona and New Mexico, promoted by [[The Nature Conservancy]] and [[American Rivers]]. It proposes a holistic, ecosystem-level alternative to...
+> -- *[[ConceptualOutlineEcosystemCons_18705]]*
+
+### Mentioned In
+- [[ConceptualOutlineEcosystemCons_18705]]
 
 ## Index Of Relative Importance
 <!-- fm: auto_enriched: true -->
@@ -3351,6 +3387,18 @@ The successive larval growth stages (instars) of an insect, separated by molts. 
 > This Michigan Department of Conservation pamphlet, written by [[Frank Hooper]] of the [[Institute for Fisheries Research]], gives practical guidance for eradicating unwanted fish from ponds, lakes, and streams using [[Rotenone]]-based toxicants. It covers toxicant selection, lake suitability,...
 > -- *[[EradicationOfFishByChemicalTre_19909]]*
 
+> This 1940 extension article by C. J. D. Brown of the [[Institute For Fisheries Research]], [[Michigan Department Of Conservation]], argues that aquatic plants and algae are essential to fish production, yet can become a nuisance that justifies control in limited circumstances. It covers the role of...
+> -- *[[WaterWeedsTheirValueAndControl_12997]]*
+
+> Albert S. Hazzard of the [[Institute for Fisheries Research]], [[Michigan Department of Conservation]], argues in this 1948 article (reprinted from *Michigan Conservation*, based on a paper given to the [[Izaak Walton League of America]]) that stocking and habitat improvement are both valid...
+> -- *[[StockingVsEnvironmentalImprove_20743]]*
+
+> This 1948 report by [[Albert S. Hazzard]] and K. G. Fukano, of the [[Institute for Fisheries Research]] in the [[Michigan Department of Conservation]], describes the [[Special Regulation Trout Ponds]] program. Because large cold springs and cold streams are scarce near Michigan's population...
+> -- *[[SpecialRegulationTroutPonds_20745]]*
+
+> This 1948 reprint from *Michigan Conservation* (by C. Troy Yoder, [[Institute for Fisheries Research]], [[Michigan Department Of Conservation]]) describes a legalized method for harvesting bait minnows from designated trout streams using [[Glass Minnow Traps]]. A shortage of bait minnows for...
+> -- *[[UseOfGlassMinnowTrapsInTroutSt_20888]]*
+
 ### Mentioned In
 - [[BookReviewsStatisticalMethodsF_20731]]
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
@@ -3358,6 +3406,10 @@ The successive larval growth stages (instars) of an insect, separated by molts. 
 - [[FisheriesLakeSurveyASmallscale_12998]]
 - [[TheElectricShockerAndItsUseInM_18901]]
 - [[EradicationOfFishByChemicalTre_19909]]
+- [[WaterWeedsTheirValueAndControl_12997]]
+- [[StockingVsEnvironmentalImprove_20743]]
+- [[SpecialRegulationTroutPonds_20745]]
+- [[UseOfGlassMinnowTrapsInTroutSt_20888]]
 
 ## Institute Of Ecology
 <!-- fm: auto_enriched: true -->
@@ -3600,6 +3652,18 @@ Instream Flow Requirements refer to the minimum or optimal water discharge level
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
 
+## Instream Flows
+
+### Summary
+Instream flows are water kept flowing in a river channel to support fish and other aquatic life, rather than being diverted for use. In this source, the program converts water rights bought from willing sellers into instream flows wherever no federal reservoir can supply the needed water. Protecting instream flow is central to the program's goal of protecting habitat for the four endangered fishes.
+
+### Context
+> This newsletter-style document describes the [[Recovery Implementation Program]] for four rare native fishes of the Upper Colorado River Basin: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail Chub]] and [[Razorback Sucker]]. A cooperative agreement was signed in January 1988 by the Secretary...
+> -- *[[RecoveryImplementationProgramF_15036]]*
+
+### Mentioned In
+- [[RecoveryImplementationProgramF_15036]]
+
 ## Insular Biogeography
 <!-- fm: auto_enriched: true -->
 
@@ -3702,6 +3766,18 @@ Intensive Use is a fisheries management concept designed to provide high-volume 
 ### Mentioned In
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
 
+## Interagency Consultation
+
+### Summary
+The ESA Section 7 process requiring federal agencies to consult with the Services on actions that may affect listed species. The source states that the policy does not diminish these obligations and that federal agencies must confer on actions likely to jeopardize proposed species.
+
+### Context
+> This Federal Register notice, published June 3, 1996, sets out a joint policy by the [[Fish and Wildlife Service]] (Interior) and the [[National Marine Fisheries Service]] (Commerce), collectively "the Services." The policy addresses the conservation needs of species listed, or proposed for...
+> -- *[[NoticeOfPolicyForConservingSpe_11740]]*
+
+### Mentioned In
+- [[NoticeOfPolicyForConservingSpe_11740]]
+
 ## Interagency Recovery Program
 <!-- fm: auto_enriched: true -->
 
@@ -3752,6 +3828,9 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 > This FY 1994 summary report documents the annual accomplishments of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program addresses recovery of four federally listed endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[RecoveryImplementationProgramF_11712]]*
 
+> This newsletter-style document describes the [[Recovery Implementation Program]] for four rare native fishes of the Upper Colorado River Basin: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail Chub]] and [[Razorback Sucker]]. A cooperative agreement was signed in January 1988 by the Secretary...
+> -- *[[RecoveryImplementationProgramF_15036]]*
+
 ### Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DetermineStatusOfColoradoSquaw_11150]]
@@ -3764,6 +3843,7 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 - [[FiscalYearWorkPlan_11742]]
 - [[DevelopmentOfAStandardizedMoni_15549]]
 - [[RecoveryImplementationProgramF_11712]]
+- [[RecoveryImplementationProgramF_15036]]
 
 ## Interagency Standardized Monitoring Program (Ismp)
 <!-- fm: auto_enriched: true -->
@@ -3782,6 +3862,30 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 
 ### Mentioned In
 - [[LetterToProspectiveAreaCoordin_1977_08_29]]
+
+## Interbasin Water Transfer
+
+### Summary
+The artificial withdrawal of water from a source in one drainage basin for use in another, typically through canals, conduits, tunnels, and reservoirs. The review notes that thousands of such schemes have been built worldwide in the last 50 years, with increasing scale, and that approval criteria have shifted toward environmental concerns.
+
+### Context
+> This review, authored by G. Padmanabhan of [[North Dakota State University]], examines how [[Interbasin Water Transfer]] schemes move aquatic organisms (fish, invertebrates, bacteria, viruses, and parasites) between drainage basins, with emphasis on [[Biota Transfer]]. The author argues that...
+> -- *[[AReviewOfInterbasinWaterTransf_18377]]*
+
+### Mentioned In
+- [[AReviewOfInterbasinWaterTransf_18377]]
+
+## Interdisciplinary Team
+
+### Summary
+An interdisciplinary team is a group of specialists from different fields that a ranger district can assemble to analyze a project. In this source, the team would be needed for the Bog Hole renovation, and the District Ranger would decide whether to form one after reviewing public and agency input.
+
+### Context
+> This document package from the [[Coronado National Forest]] (Sierra Vista Ranger District) comprises a cover letter dated 04/23/92, a project proposal dated March 9, 1992, a draft public comment letter, and a mailing list dated 03/12/92. Together they describe a proposed fish renovation of the...
+> -- *[[BogHoleRenovationProjectPropos_12750]]*
+
+### Mentioned In
+- [[BogHoleRenovationProjectPropos_12750]]
 
 ## Interface Theory
 
@@ -4168,6 +4272,18 @@ The International Commission on Zoological Nomenclature (ICZN) is the primary go
 ### Mentioned In
 - [[InternationalStromatoliteField_20776]]
 
+## International Joint Commission
+
+### Summary
+A binational body that took up Canadian concerns about the Garrison Diversion project and created the International Garrison Diversion Study Board. The IJC concluded the project would adversely affect water quality and biological resources in Manitoba, and it identified ten undesirable fish species in its 1977 report.
+
+### Context
+> This review, authored by G. Padmanabhan of [[North Dakota State University]], examines how [[Interbasin Water Transfer]] schemes move aquatic organisms (fish, invertebrates, bacteria, viruses, and parasites) between drainage basins, with emphasis on [[Biota Transfer]]. The author argues that...
+> -- *[[AReviewOfInterbasinWaterTransf_18377]]*
+
+### Mentioned In
+- [[AReviewOfInterbasinWaterTransf_18377]]
+
 ## International Pacific Halibut Commission
 
 ### Summary
@@ -4459,10 +4575,18 @@ Introduced fishes are non-native fish species that have been deliberately or acc
 > This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
 > -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
 
+> This document is a set of three letters from 1969 (September 5, September 10, and October 3) about the conservation of endemic freshwater fishes on the Mexican Plateau. [[Clyde D. Barbour]] and [[Robert R. Miller]] argue that the relict fish fauna of the [[Mesa Central]] is scientifically valuable...
+> -- *[[PresentingInformationAtConserv_15570]]*
+
+> This Colorado State University master's thesis (Kevin R. Bestgen, Fall 1985) reports a two-year study (December 1982 to December 1984) of the [[Roundtail Chub]] (*Gila robusta*, treated as *G. r. grahami*) in the [[Gila River]] drainage of New Mexico. The study documented historic and present...
+> -- *[[DistributionBiologyAndStatusOf_18205]]*
+
 ### Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[TerminologyAssociatedWithIntro_11384]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[PresentingInformationAtConserv_15570]]
+- [[DistributionBiologyAndStatusOf_18205]]
 
 ## Introduced Species Impacts
 
@@ -4503,6 +4627,18 @@ Introduced species impacts refer to the ecological effects of non-native species
 
 ### Mentioned In
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
+
+## Introductory Pool
+
+### Summary
+The approach area in the laboratory where test fish were released as they arrived and where they encountered the orifice test panel. The pool was 19 ft deep, and the shallow orifices produced surface turbulence there. The authors inferred from fish movement that migrants approached the panel at depths between 3 and 9 ft.
+
+### Context
+> This 1967 U.S. Fish and Wildlife Service Special Scientific Report (No. 547) by Clark S. Thompson, William Spencer Davis, and Emil Slatick tests how migrating adult salmonids respond to [[Fishway]] entrance orifices that differ in alignment and depth. The experiments were run from August 24 to...
+> -- *[[ResponseOfMigratingAdultSalmon_13581]]*
+
+### Mentioned In
+- [[ResponseOfMigratingAdultSalmon_13581]]
 
 ## Introgression
 <!-- fm: auto_enriched: true -->
@@ -5146,6 +5282,18 @@ Iron Gate Hatchery was one of California's "mitigation" hatcheries operated by t
 - [[CaliforniaTroutSalmonAndWarmwa_14868]]
 - [[AuthortitleIndexToInlandFisher_14367]]
 
+## Iron Ore Mining
+
+### Summary
+Iron ore mining is the extraction of iron-bearing rock from the earth, followed by crushing and concentration to produce a marketable product. In this source, it takes the form of an open-pit operation at Hércules that produces iron concentrate at about 65% Fe. The booklet gives planned output of 360,000 tonnes of iron ore per month.
+
+### Context
+> This is an institutional induction booklet for [[Minera Del Norte]], S.A. de C.V., Unidad Hércules, an open-pit [[Iron Ore Mining]] operation in the desert of Sierra Mojada, Coahuila, Mexico. It introduces new employees to the site's location, company history, community services, mining and...
+> -- *[[MineraDelNorteUnidadHercules_16500]]*
+
+### Mentioned In
+- [[MineraDelNorteUnidadHercules_16500]]
+
 ## Iron River
 <!-- fm: auto_enriched: true -->
 
@@ -5249,6 +5397,18 @@ Irvine Lake (also known as Santiago Reservoir) in Orange County received a mixed
 
 ### Mentioned In
 - [[TheStatusOfThePumpkinseedLepom_12862]]
+
+## Irving Langmuir
+
+### Summary
+Irving Langmuir was a scientist whose 1938 hypothesis proposed that helical wind-driven vortices aligned with the wind drive vertical mixing in lakes. The source uses this classical idea as the framework for interpreting its results.
+
+### Context
+> This 1964 Great Lakes Institute paper by [[G. T. Csanady]] reports continued field experiments on turbulent dispersion of fluorescent dye in [[Lake Huron]] and the [[Western Basin]] of [[Lake Erie]]. It has three aims: confirm earlier low vertical diffusivities, compare diffusion between the two...
+> -- *[[TurbulenceAndDiffusionInTheGre_18086]]*
+
+### Mentioned In
+- [[TurbulenceAndDiffusionInTheGre_18086]]
 
 ## Irving Plant
 
@@ -6016,6 +6176,18 @@ A conservation and sportsmen's organization. Its Jefferson County Chapter reques
 
 ### Mentioned In
 - [[SportFisherySurveyOfTheShenand_13091]]
+
+## Izaak Walton League of America
+
+### Summary
+A conservation organization whose meeting or paper is the source of this 1948 article; Hazzard's argument was based on a paper he gave to the League. The source does not describe the League's own positions in further detail.
+
+### Context
+> Albert S. Hazzard of the [[Institute for Fisheries Research]], [[Michigan Department of Conservation]], argues in this 1948 article (reprinted from *Michigan Conservation*, based on a paper given to the [[Izaak Walton League of America]]) that stocking and habitat improvement are both valid...
+> -- *[[StockingVsEnvironmentalImprove_20743]]*
+
+### Mentioned In
+- [[StockingVsEnvironmentalImprove_20743]]
 
 ## Iztaccihuatl
 

@@ -80,6 +80,12 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 > This California Department of Fish and Game Inland Fisheries Administrative Report (No. 66-7, submitted April 1966, by Robert P. Hayden, Region 4) evaluates whether total angler use and harvest at [[Isabella Reservoir]] can be estimated with limited manpower. The reservoir is a heavily used fishery...
 > -- *[[EstimatedAnglerUseAndHarvestIs_20724]]*
 
+> This conference talk by consulting engineer Ronald D. Mayo (Kramer, Chin & Mayo, Seattle) argues that hatchery capacity is limited by oxygen supply and by the ability of water to carry away metabolic wastes, so recirculating or reusing water can raise production where supply is short or where...
+> -- *[[ReuseOfWaterInHatcheriesToIncr_12416]]*
+
+> This 1967 U.S. Fish and Wildlife Service Special Scientific Report (No. 547) by Clark S. Thompson, William Spencer Davis, and Emil Slatick tests how migrating adult salmonids respond to [[Fishway]] entrance orifices that differ in alignment and depth. The experiments were run from August 24 to...
+> -- *[[ResponseOfMigratingAdultSalmon_13581]]*
+
 ### Mentioned In
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
@@ -102,6 +108,8 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 - [[DraftAppendixCMemorandumOfUnde_14134]]
 - [[DissolvedNitrogenConcentration_15718]]
 - [[EstimatedAnglerUseAndHarvestIs_20724]]
+- [[ReuseOfWaterInHatcheriesToIncr_12416]]
+- [[ResponseOfMigratingAdultSalmon_13581]]
 
 ## U.S. Army Intelligence Center And Fort Huachuca
 
@@ -310,6 +318,9 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This is a 25 July 1997 comment letter from a law firm representing the Central Arizona Water Conservation District (CAWCD) to the Regional Director of the [[U.S. Bureau of Reclamation]], Lower Colorado Regional Office. It responds to the [[U.S. Fish and Wildlife Service]] Biological and Conference...
 > -- *[[CommentsOfCentralArizonaWaterC_21131]]*
 
+> This FY 1994 proposal package, prepared under the [[Recovery Implementation Program]] (RIP) for Endangered Fish Species in the Upper Colorado River Basin, describes the second year of a five-year research program on how seasonal releases from [[Flaming Gorge Dam]] (FGD) affect the Green River...
+> -- *[[FyScopeOfWorkFlamingGorgegreen_18016]]*
+
 ### Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -356,6 +367,7 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[SwimmingUpstreamTheEndangeredF_15037]]
 - [[GeneticDiversityOfRazorbackSuc_19113]]
 - [[CommentsOfCentralArizonaWaterC_21131]]
+- [[FyScopeOfWorkFlamingGorgegreen_18016]]
 
 ## U.S. Bureau Of Sport Fisheries And Wildlife
 <!-- fm: auto_enriched: true -->
@@ -1242,6 +1254,51 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This is a 25 July 1997 comment letter from a law firm representing the Central Arizona Water Conservation District (CAWCD) to the Regional Director of the [[U.S. Bureau of Reclamation]], Lower Colorado Regional Office. It responds to the [[U.S. Fish and Wildlife Service]] Biological and Conference...
 > -- *[[CommentsOfCentralArizonaWaterC_21131]]*
 
+> This appendix from the [[U.S. Fish and Wildlife Service]] (FWS, Region 2, Albuquerque) compiles the public and agency review of draft [[Recovery Plan]]s for two threatened cyprinids, the [[Spikedace]] (*Meda fulgida*) and the [[Loach Minnow]] (*Tiaroga cobitis*). Drafts were circulated in July...
+> -- *[[AppendixBForLoachMinnowTiaroga_11588]]*
+
+> This document package from the [[Coronado National Forest]] (Sierra Vista Ranger District) comprises a cover letter dated 04/23/92, a project proposal dated March 9, 1992, a draft public comment letter, and a mailing list dated 03/12/92. Together they describe a proposed fish renovation of the...
+> -- *[[BogHoleRenovationProjectPropos_12750]]*
+
+> This FY 1994 proposal package, prepared under the [[Recovery Implementation Program]] (RIP) for Endangered Fish Species in the Upper Colorado River Basin, describes the second year of a five-year research program on how seasonal releases from [[Flaming Gorge Dam]] (FGD) affect the Green River...
+> -- *[[FyScopeOfWorkFlamingGorgegreen_18016]]*
+
+> This field study by Minckley, Carothers, Jordan and Usher (Museum of Northern Arizona) documents the life history, distribution, reproduction, food habits, behavior and decline of the [[Humpback Chub]] (*Gila cypha*), a [[Colorado River Endemic Fish]] listed as endangered by the [[U.S. Fish and...
+> -- *[[ObservationsOnTheHumpbackChubG_18543]]*
+
+> This one-letter correspondence, dated 19 December 1986, was written by [[David L. Propst]] to [[W.L. Minckley]] of the Department of Zoology, Arizona State University. Propst reports that he, Kevin Bestgen, and Steve Platania sampled [[Gallinas Creek]], a tributary of the [[Rio Mimbres]], the...
+> -- *[[GallinasCreekSampling_18700]]*
+
+> This intra-Service biological opinion from the [[U.S. Fish and Wildlife Service]] (April 15, 1993) evaluates a habitat-restoration project at [[Cottonwood Spring]], Santa Cruz County, Arizona. The project would exclude cattle from a [[Cienega]] and adjacent [[Mesquite Bosque]] along [[Sonoita...
+> -- *[[IntraserviceBiologicalOpinionC_18805]]*
+
+> This August 1991 memorandum from [[Bureau of Reclamation]] staff in the [[Glen Canyon Environmental Studies]] (GCES) program records the outcomes of a two-day Reservoir Work Group meeting (August 13–14, 1991) on [[Lake Powell]] and [[Lake Mead]]. Participants agreed that large volumes of...
+> -- *[[GlenCanyonEnvironmentalStudies_19710]]*
+
+> This review traces the decline, rescue, and recovery of [[Gambusia Gaigei]], an endangered poeciliid fish known only from springs near the [[Rio Grande]] in [[Big Bend National Park]]. The species' status has been shaped less by its biology than by human actions: a 1950s children's fishing pool...
+> -- *[[AReviewOfCircumstancesAffectin_20065]]*
+
+> This memorandum, dated June 20, 1994, from the co-chairs of the [[National Fish Hatchery Review Panel]] (Fred Meyer and Bob Putz, of [[The Conservation Fund]]) distributes 36 issue statements drawn from the June 8, 1994 Minneapolis meeting. The statements question the mission, role, policies, and...
+> -- *[[IssuesToBeAddressedInPanelRepo_20168]]*
+
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division Of Wildlife Resources]] (UDWR), reports on conservation activities for the [[Virgin Spinedace]] ([[Lepidomeda Mollispinis]] mollispinis) during Fiscal Year 1995 under the [[Virgin Spinedace Conservation Agreement]]...
+> -- *[[VirginSpinedaceConservationAgr_20260]]*
+
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division of Wildlife Resources]] (UDWR), reports on activities and progress under the [[Virgin Spinedace Conservation Agreement]] for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during fiscal year 1996. The...
+> -- *[[VirginSpinedaceConservationAgr_20261]]*
+
+> This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
+> -- *[[VirginSpinedaceConservationAgr_20262]]*
+
+> This draft proposal, dated 6 May 1996, sets out a plan to restore the [[Middle Spring]] (S2) system at the [[Bylas Springs]] complex on the [[San Carlos Apache Reservation]] and to reintroduce [[Gila Topminnow]] of S2 lineage. The authors are staff of the [[U.S. Fish And Wildlife Service]] (Arizona...
+> -- *[[DraftProposalMiddleSpringSAndT_20270]]*
+
+> This document is a formal comment package, dated March 30, 1995, from three state agencies: the [[Arizona Department of Water Resources]], the [[Colorado River Board of California]], and the [[Colorado River Commission of Nevada]]. It responds to the [[U.S. Fish and Wildlife Service]] (USFWS)...
+> -- *[[SpecificCommentsOnTheUsFishAnd_20665]]*
+
+> This Outdoor California article, written by [[Dick Hallock]] of the [[California Department of Fish and Game]] (DFG), describes a radio-tagging study of adult [[Chinook Salmon]] migrating past [[Red Bluff Diversion Dam]] on the upper [[Sacramento River]]. The study asks whether the dam delays or...
+> -- *[[SolvingSacramentoRiverSalmonPr_20979]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1689,6 +1746,21 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[ChemicalControlOfSubmergedWate_19910]]
 - [[MexicanPermits_20832]]
 - [[CommentsOfCentralArizonaWaterC_21131]]
+- [[AppendixBForLoachMinnowTiaroga_11588]]
+- [[BogHoleRenovationProjectPropos_12750]]
+- [[FyScopeOfWorkFlamingGorgegreen_18016]]
+- [[ObservationsOnTheHumpbackChubG_18543]]
+- [[GallinasCreekSampling_18700]]
+- [[IntraserviceBiologicalOpinionC_18805]]
+- [[GlenCanyonEnvironmentalStudies_19710]]
+- [[AReviewOfCircumstancesAffectin_20065]]
+- [[IssuesToBeAddressedInPanelRepo_20168]]
+- [[VirginSpinedaceConservationAgr_20260]]
+- [[VirginSpinedaceConservationAgr_20261]]
+- [[VirginSpinedaceConservationAgr_20262]]
+- [[DraftProposalMiddleSpringSAndT_20270]]
+- [[SpecificCommentsOnTheUsFishAnd_20665]]
+- [[SolvingSacramentoRiverSalmonPr_20979]]
 
 ## U.S. Fish And Wildlife Service 1986
 <!-- fm: auto_enriched: true -->
@@ -1918,6 +1990,12 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > This 1977 symposium paper (Tucson, Arizona, July 9, 1977) by a U.S. Forest Service fisheries and non-game biologist argues that stream fisheries in the Southwest depend on energy and nutrients from riparian vegetation and the surrounding watershed. Uncontrolled livestock grazing removes riparian...
 > -- *[[WildlifeConflictsInRiparianMan_17945]]*
 
+> This appendix from the [[U.S. Fish and Wildlife Service]] (FWS, Region 2, Albuquerque) compiles the public and agency review of draft [[Recovery Plan]]s for two threatened cyprinids, the [[Spikedace]] (*Meda fulgida*) and the [[Loach Minnow]] (*Tiaroga cobitis*). Drafts were circulated in July...
+> -- *[[AppendixBForLoachMinnowTiaroga_11588]]*
+
+> This one-letter correspondence, dated 19 December 1986, was written by [[David L. Propst]] to [[W.L. Minckley]] of the Department of Zoology, Arizona State University. Propst reports that he, Kevin Bestgen, and Steve Platania sampled [[Gallinas Creek]], a tributary of the [[Rio Mimbres]], the...
+> -- *[[GallinasCreekSampling_18700]]*
+
 ### Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -1976,6 +2054,8 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[ForestFraudAndForestHealthUsFo_18957]]
 - [[MuleshoeCooperativeManagementA_19869]]
 - [[WildlifeConflictsInRiparianMan_17945]]
+- [[AppendixBForLoachMinnowTiaroga_11588]]
+- [[GallinasCreekSampling_18700]]
 
 ## U.S. General Accounting Office
 
@@ -2038,6 +2118,12 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 > This Bureau of Reclamation memorandum from the [[Glen Canyon Environmental Studies]] group transmits [[HYDROLAB Profiling]] data collected at [[Lake Powell]] during the August 1 through 6, 1994 field trip. The profiles cover water temperature, [[Dissolved Oxygen]], [[Specific Conductivity]], and...
 > -- *[[GlenCanyonEnvironmentalStudies_19731]]*
 
+> This Arizona Game and Fish Department job progress report, prepared under the Federal Aid in Fish Restoration Act (Federal Aid Project F-7-R-17, Job No. VI, Segment 2), documents field surveys of the fishes of [[Leslie Creek]] in summer 1974 and 1975. Leslie Creek is one of the few U.S. aquatic...
+> -- *[[FishesOfLeslieCreekCochiseCoun_18980]]*
+
+> This August 1991 memorandum from [[Bureau of Reclamation]] staff in the [[Glen Canyon Environmental Studies]] (GCES) program records the outcomes of a two-day Reservoir Work Group meeting (August 13–14, 1991) on [[Lake Powell]] and [[Lake Mead]]. Participants agreed that large volumes of...
+> -- *[[GlenCanyonEnvironmentalStudies_19710]]*
+
 ### Mentioned In
 - [[CreationOfTheNationalBiologica_1993_03_17]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -2056,6 +2142,8 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 - [[MapsShowingGroundwaterConditio_11421]]
 - [[LevelOneSurveySheetsForFiveOfT_14821]]
 - [[GlenCanyonEnvironmentalStudies_19731]]
+- [[FishesOfLeslieCreekCochiseCoun_18980]]
+- [[GlenCanyonEnvironmentalStudies_19710]]
 
 ## U.S. Lock And Dam No. 4
 <!-- fm: auto_enriched: true -->
@@ -2200,6 +2288,18 @@ The U.S. Supreme Court described the Endangered Species Act in Tennessee Valley 
 
 ### Mentioned In
 - [[APetitionPursuantToArticleOfTh_17637]]
+
+## U.S. Trout Farmers Association
+
+### Summary
+The U.S. Trout Farmers Association is a trade organization of trout producers. The source notes that Mayo presented this talk at the association's 18th Annual Convention, held October 28–30 in Sacramento, California.
+
+### Context
+> This conference talk by consulting engineer Ronald D. Mayo (Kramer, Chin & Mayo, Seattle) argues that hatchery capacity is limited by oxygen supply and by the ability of water to carry away metabolic wastes, so recirculating or reusing water can raise production where supply is short or where...
+> -- *[[ReuseOfWaterInHatcheriesToIncr_12416]]*
+
+### Mentioned In
+- [[ReuseOfWaterInHatcheriesToIncr_12416]]
 
 ## U.S. Virgin Islands
 
@@ -2797,6 +2897,18 @@ A cedar-water lake in the same drainage basin as Laurel Lake, with pH 5.7, the h
 
 ### Mentioned In
 - [[NeutralizationExperimentsInCer_21202]]
+
+## Union Pacific
+
+### Summary
+The Union Pacific is a major American railroad company. In this source, Stanton had worked as a division engineer for it and built the Devil's Gate Viaduct on the Georgetown Loop before joining the Colorado River survey.
+
+### Context
+> This historical article describes the 1889–90 expedition led by [[Robert Brewster Stanton]] down the [[Colorado River]]. The expedition was commissioned to survey the river's canyons and determine whether a railroad could be built along its full length. It was only the second party to run the...
+> -- *[[TheColoradoRiverRailroadSurvey_16614]]*
+
+### Mentioned In
+- [[TheColoradoRiverRailroadSurvey_16614]]
 
 ## Union Pacific Railroad
 
@@ -4046,6 +4158,18 @@ The University of Nevada Reno is a research institution where Dr. Peter Brussard
 ### Mentioned In
 - [[CuiuiRecoveryTeamMeetingMinute_13872]]
 
+## University of Nevada System
+
+### Summary
+The University of Nevada System produced this multi-report document for the U.S. Geological Survey under a grant. The source names its Reno and Las Vegas campuses as participating institutions in the ERTS feasibility work.
+
+### Context
+> This multi-report document, produced by the [[University of Nevada System]] for the U.S. Geological Survey under Grant No. 14-08-0001-G-28, assesses whether imagery from the [[Earth Resources Technology Satellite]] (ERTS, later Landsat) and small-scale aircraft multiband photography can support...
+> -- *[[FeasibilityStudiesBasedOnRepor_14021]]*
+
+### Mentioned In
+- [[FeasibilityStudiesBasedOnRepor_14021]]
+
 ## University Of Nevada, Las Vegas
 <!-- fm: auto_enriched: true -->
 
@@ -4133,8 +4257,24 @@ A field research station in Kingston, Oklahoma, where this 1993 proposal was pre
 > This document is a 1993 research proposal from the [[University of Oklahoma Biological Station]] (Kingston, Oklahoma), led by [[William J. Matthews]] (Principal Investigator) and [[Frances P. Gelwick]] (Co-Principal Investigator), and submitted to the [[Environmental Protection Agency]]. It asks...
 > -- *[[PotentialEstablishmentOfRedShi_15211]]*
 
+> This 1985 letter from [[Bill Matthews]] to [[W. L. Minckley]] (Arizona State University) transmits a draft methodological framework for assessing how the introduced [[Notropis Lutrensis]] affects native [[Meda]] and [[Tiaroga]] in Arizona streams. It also covers staffing and time commitments for...
+> -- *[[OutlineOfThoughtsForAMethodolo_15198]]*
+
 ### Mentioned In
 - [[PotentialEstablishmentOfRedShi_15211]]
+- [[OutlineOfThoughtsForAMethodolo_15198]]
+
+## University of Oklahoma Biological Survey
+
+### Summary
+A university survey organization that supported the report on black bullhead age, growth, and population in Oklahoma waters. The source lists it as a co-supporter and gives no further detail about its work.
+
+### Context
+> This report, issued by the [[Oklahoma Fishery Research Laboratory]] and supported by the [[Oklahoma Wildlife Conservation Department]] and the [[University of Oklahoma Biological Survey]], summarizes the age, growth, and population characteristics of [[Black Bullhead Catfish]] (*[[Ictalurus...
+> -- *[[GrowthOfBlackBullheadCatfishIn_19942]]*
+
+### Mentioned In
+- [[GrowthOfBlackBullheadCatfishIn_19942]]
 
 ## University of Pittsburgh
 
@@ -4839,6 +4979,9 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This April 1989 memorandum from the [[Fish And Wildlife Service]] (Region 6) to the Regional Solicitor, USDI, asks for a legal opinion on the Service's approach to [[Section 7 Consultation]] under the [[Endangered Species Act]] for water depletion projects affecting the endangered [[Colorado...
 > -- *[[SolicitorsOpinionReColoradoRiv_14140]]*
 
+> This Colorado State University Cooperative Extension bulletin (issued September 1980, revised February 1983, with 1982 updates) describes the biology, distribution, status and causes of decline of the endangered and threatened fishes of the [[Upper Colorado River Basin]]. It covers five focal...
+> -- *[[EndangeredAndThreatenedFishesO_18138]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -4950,6 +5093,7 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[AnnualReportRecoveryProgramFor_11678]]
 - [[DraftFishNeedsDocument_12083]]
 - [[SolicitorsOpinionReColoradoRiv_14140]]
+- [[EndangeredAndThreatenedFishesO_18138]]
 
 ## Upper Colorado River Basin Biological Subcommittee
 <!-- fm: auto_enriched: true -->
@@ -5026,10 +5170,14 @@ The Upper Colorado River Basin Endangered Fishes Council was proposed as part of
 > This document describes the comprehensive database structure developed by BIO/WEST, Inc. for the [[Glen Canyon Environmental Studies]] (GCES) investigation of [[Humpback Chub]] (*Gila cypha*) in [[Grand Canyon]]. The database encompasses 36 monthly field trips from October 1990 through November...
 > -- *[[StatusOfTheBiowestDatabase_13632]]*
 
+> This document is a formal comment package, dated March 30, 1995, from three state agencies: the [[Arizona Department of Water Resources]], the [[Colorado River Board of California]], and the [[Colorado River Commission of Nevada]]. It responds to the [[U.S. Fish and Wildlife Service]] (USFWS)...
+> -- *[[SpecificCommentsOnTheUsFishAnd_20665]]*
+
 ### Mentioned In
 - [[BriefingNotesEndangeredFishInC_14950]]
 - [[MemorandumOnAnnualResearchersQ_18168]]
 - [[StatusOfTheBiowestDatabase_13632]]
+- [[SpecificCommentsOnTheUsFishAnd_20665]]
 
 ## Upper Colorado River Basin Recovery Program
 <!-- fm: auto_enriched: true -->
@@ -6502,6 +6650,18 @@ A USGS gage is a stream monitoring station operated by the U.S. Geological Surve
 ### Mentioned In
 - [[VirginRiverMonitoringNevadaSum_1995_05_31]]
 
+## USGS Stream-Gauge Records
+
+### Summary
+Streamflow measurements collected by the U.S. Geological Survey at gauging stations. The source names them as a potential data source to inventory early in the planning process, alongside state agriculture departments and state engineer offices.
+
+### Context
+> This document is a 1994 conceptual outline, [[Ecosystem Conservation Planning]] Process for the [[Native Fish Fauna]] of the [[Gila River Basin]] in Arizona and New Mexico, promoted by [[The Nature Conservancy]] and [[American Rivers]]. It proposes a holistic, ecosystem-level alternative to...
+> -- *[[ConceptualOutlineEcosystemCons_18705]]*
+
+### Mentioned In
+- [[ConceptualOutlineEcosystemCons_18705]]
+
 ## Usgs Water-Supply Papers
 <!-- fm: auto_enriched: true -->
 
@@ -6513,6 +6673,18 @@ A USGS gage is a stream monitoring station operated by the U.S. Geological Surve
 
 ### Mentioned In
 - [[ARecordOfAGreatSiberianSturgeo_1994]]
+
+## Usumacinta Fish Province
+
+### Summary
+The Usumacinta Fish Province is a freshwater fish biogeographic region of southern Mexico and Central America. According to this source, the fish faunas of the Papaloapan and Coatzacoalcos rivers are biogeographically allied with Central America and form part of this province.
+
+### Context
+> This 1982 taxonomic paper by [[Barry Chernoff]] and [[Robert Rush Miller]] describes *Archomenidia marvelae* as a new species of freshwater silverside from the [[Rio Papaloapan]] basin, Oaxaca and Veracruz, Mexico. The new species raises the genus *Archomenidia* to two species. It is distinguished...
+> -- *[[MexicanFreshwaterSilversidesPi_16117]]*
+
+### Mentioned In
+- [[MexicanFreshwaterSilversidesPi_16117]]
 
 ## Usumacinta-Grijalva Basin
 
@@ -6639,11 +6811,28 @@ The Utah Chub (Gila atraria) is a cyprinid fish species native to the Great Basi
 ### Mentioned In
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
 
+## Utah Department of Fish and Game
+
+### Summary
+The state agency that issued this completion report under Federal Aid Project F-4-R-6, Job V, covering August 1958 to July 31, 1959. The report documents its pre-impoundment surveys of the Green and Colorado Rivers in Utah.
+
+### Context
+> This completion report from the [[Utah Department of Fish and Game]] (Federal Aid Project F-4-R-6, Job V, covering August 1, 1958 to July 31, 1959) documents pre-impoundment surveys of two river systems slated for reservoir creation: the Colorado River through Glen Canyon, which became [[Lake...
+> -- *[[PreimpoundmentInvestigationsOf_12301]]*
+
+### Mentioned In
+- [[PreimpoundmentInvestigationsOf_12301]]
+
 ## Utah Department Of Natural Resources
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
+> -- *[[VirginSpinedaceConservationAgr_20262]]*
+
 ### Mentioned In
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
+- [[VirginSpinedaceConservationAgr_20262]]
 
 ## Utah Department of Wildlife Resources
 <!-- fm: auto_enriched: true -->
@@ -6746,6 +6935,21 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 > This FY 93 annual report from the [[Colorado River Fishes Recovery Program]] (Project 19-C, dated December 10, 1993) evaluates how flow releases from the [[Aspinall Unit]] and experimental flows in the [[Gunnison River]] affect the availability and quality of nursery habitat for [[Colorado...
 > -- *[[AspinallUnitStudiesEvaluationO_20258]]*
 
+> This FY 1994 proposal package, prepared under the [[Recovery Implementation Program]] (RIP) for Endangered Fish Species in the Upper Colorado River Basin, describes the second year of a five-year research program on how seasonal releases from [[Flaming Gorge Dam]] (FGD) affect the Green River...
+> -- *[[FyScopeOfWorkFlamingGorgegreen_18016]]*
+
+> This August 1991 memorandum from [[Bureau of Reclamation]] staff in the [[Glen Canyon Environmental Studies]] (GCES) program records the outcomes of a two-day Reservoir Work Group meeting (August 13–14, 1991) on [[Lake Powell]] and [[Lake Mead]]. Participants agreed that large volumes of...
+> -- *[[GlenCanyonEnvironmentalStudies_19710]]*
+
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division Of Wildlife Resources]] (UDWR), reports on conservation activities for the [[Virgin Spinedace]] ([[Lepidomeda Mollispinis]] mollispinis) during Fiscal Year 1995 under the [[Virgin Spinedace Conservation Agreement]]...
+> -- *[[VirginSpinedaceConservationAgr_20260]]*
+
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division of Wildlife Resources]] (UDWR), reports on activities and progress under the [[Virgin Spinedace Conservation Agreement]] for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during fiscal year 1996. The...
+> -- *[[VirginSpinedaceConservationAgr_20261]]*
+
+> This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
+> -- *[[VirginSpinedaceConservationAgr_20262]]*
+
 ### Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[CaptureOfRareFishInLakePowell_1988_08_18]]
@@ -6776,6 +6980,11 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 - [[AnnualReportRecoveryProgramFor_11678]]
 - [[UtahToStockThousandsOfRareBony_14825]]
 - [[AspinallUnitStudiesEvaluationO_20258]]
+- [[FyScopeOfWorkFlamingGorgegreen_18016]]
+- [[GlenCanyonEnvironmentalStudies_19710]]
+- [[VirginSpinedaceConservationAgr_20260]]
+- [[VirginSpinedaceConservationAgr_20261]]
+- [[VirginSpinedaceConservationAgr_20262]]
 
 ## Utah Fish and Game Department
 
@@ -6927,6 +7136,15 @@ Utah State University, particularly through its Institute for Natural Systems En
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division Of Wildlife Resources]] (UDWR), reports on conservation activities for the [[Virgin Spinedace]] ([[Lepidomeda Mollispinis]] mollispinis) during Fiscal Year 1995 under the [[Virgin Spinedace Conservation Agreement]]...
+> -- *[[VirginSpinedaceConservationAgr_20260]]*
+
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division of Wildlife Resources]] (UDWR), reports on activities and progress under the [[Virgin Spinedace Conservation Agreement]] for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during fiscal year 1996. The...
+> -- *[[VirginSpinedaceConservationAgr_20261]]*
+
+> This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
+> -- *[[VirginSpinedaceConservationAgr_20262]]*
+
 ### Mentioned In
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
 - [[MeetingToDiscussTheSpikeFlow_1993_07_09]]
@@ -6937,6 +7155,9 @@ Utah State University, particularly through its Institute for Natural Systems En
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[VirginSpinedaceConservationAgr_20260]]
+- [[VirginSpinedaceConservationAgr_20261]]
+- [[VirginSpinedaceConservationAgr_20262]]
 
 ## Utah Sucker
 <!-- fm: auto_enriched: true -->

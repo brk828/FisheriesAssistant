@@ -50,6 +50,18 @@ A researcher cited in the source who observed kokanee spawning on the shore of D
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 
+## J. D. McPhail
+
+### Summary
+A researcher who collected the type series of Eretmobrycon bayano and carried out an ecological study of the region. The source credits his specimens and his midday stomach examinations as the basis for much of the diet information.
+
+### Context
+> This taxonomic paper by [[William L. Fink]] describes *Eretmobrycon bayano*, a new species in a new monotypic genus of characid fish (Cypriniformes) from the upper tributaries of the [[Bayano River]] in Panama. The species was collected by [[J. D. McPhail]] and R. Dressler, and additional specimens...
+> -- *[[ANewGenusOfCharacidFishFromThe_16384]]*
+
+### Mentioned In
+- [[ANewGenusOfCharacidFishFromThe_16384]]
+
 ## J. F. Brandt
 <!-- fm: auto_enriched: true -->
 
@@ -337,6 +349,18 @@ Jackman Reservoir is a water body in southern New Hampshire examined in this sur
 
 ### Mentioned In
 - [[DiversityInFeedingByBrandtSCor_1970]]
+
+## Jackson et al. 1987 Assessment
+
+### Summary
+The Jackson et al. 1987 Assessment is the BLM study of water conditions on the upper San Pedro system that Minckley reviewed in his 1990 memo, reporting no corrections to it. The source notes that this assessment grouped San Pedro fishes into four habitat categories, from large eroding rivers and floodplain habitats to ubiquitous species of intermittent streams.
+
+### Context
+> This document is a set of related items concerning native fish management and a federal water-rights claim on the [[San Pedro River]] in southeastern Arizona. It contains: - A 4 May 1990 memorandum from [[Minckley]] (Arizona State University, Fisheries Management) to [[William Jackson]], San Pedro...
+> -- *[[ReassessmentOfOriginalInformat_13781]]*
+
+### Mentioned In
+- [[ReassessmentOfOriginalInformat_13781]]
 
 ## Jackson National Fish Hatchery
 <!-- fm: auto_enriched: true -->
@@ -631,6 +655,18 @@ The James River is a major Atlantic Slope drainage system in Virginia that serve
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
 - [[EstimatingTheProbabilityThatHi_1998]]
+
+## James W. Moffett
+
+### Summary
+James W. Moffett was a fisheries scientist with the Bureau of Commercial Fisheries (U.S. Fish and Wildlife Service) and the author of this 1958 report. In it he argues that sea lampreys caused the collapse of Great Lakes lake trout fisheries and describes the control program being developed against them.
+
+### Context
+> This 1958 special report by [[James W. Moffett]], of the [[Bureau of Commercial Fisheries]] (U.S. Fish and Wildlife Service), reprinted from the *Michigan Conservation Magazine* (May-June 1958), argues that the [[Sea Lamprey]] caused the collapse of the [[Lake Trout]] fishery across the upper...
+> -- *[[AttackOnTheSeaLamprey_16543]]*
+
+### Mentioned In
+- [[AttackOnTheSeaLamprey_16543]]
 
 ## James W. Small Jr
 <!-- fm: auto_enriched: true -->
@@ -1023,8 +1059,12 @@ A round, bird-band style monel tag, 3.5 mm wide and 8 mm in diameter, placed ove
 > This 1956 report by J. B. Kimsey of the [[California Department of Fish and Game]] (Inland Fisheries Branch) evaluates six types of external tags for [[Largemouth Bass]] (*Micropterus salmoides*), tested in the field at [[Clear Lake]] and in aquaria and hatchery ponds. The study was motivated by...
 > -- *[[LargemouthBassTagging_12531]]*
 
+> This 1957 paper by Robert L. Butler of the [[California Department Of Fish And Game]] describes the development of a [[Subcutaneous Vinyl Tag]] for [[Rainbow Trout]] (*Salmo gairdneri*) in the state's [[Catchable Trout Stocking]] program. The work was part of the [[Dingell-Johnson Project]] to...
+> -- *[[TheDevelopmentOfAVinylPlasticS_14114]]*
+
 ### Mentioned In
 - [[LargemouthBassTagging_12531]]
+- [[TheDevelopmentOfAVinylPlasticS_14114]]
 
 ## Jay R. Stauffer
 <!-- fm: auto_enriched: true -->
@@ -1561,6 +1601,18 @@ Johannes Schmidt was a researcher who discovered the spawning areas of fresh-wat
 ### Mentioned In
 - [[StationProfileO_19523]]
 
+## John C Poole
+
+### Summary
+John C. Poole is the author of this 1961 study, published in the New York Fish and Game Journal while he worked with the New York State Conservation Department. He used otolith annuli to determine the age and growth of summer flounder in Great South Bay. His analysis of 357 fish from 1958 and 1959 led him to conclude that annual swings in the sport catch are driven mainly by the previous year's spawning success.
+
+### Context
+> This 1961 study by [[John C Poole]] of the [[New York State Conservation Department]] determined the age and growth of [[Summer Flounder]] (*Paralichthys dentatus*, "fluke") in [[Great South Bay]] using annular marks on the [[Otolith]] (sagitta). Growth was back-calculated for 357 fish taken in...
+> -- *[[AgeAndGrowthOfTheFlukeInGreatS_18632]]*
+
+### Mentioned In
+- [[AgeAndGrowthOfTheFlukeInGreatS_18632]]
+
 ## John Carollo Engineers
 
 ### Summary
@@ -1680,8 +1732,16 @@ John Hamill was involved in recovery planning for endangered Colorado River fish
 > This memorandum documents a trip report from the Upper Colorado River endangered fishes researchers meeting held February 24-25, 1987 in Grand Junction, Colorado. The meeting covered standardized monitoring programs, habitat research, captive spawning efforts, and recovery planning for four...
 > -- *[[TripReportForUpperColoradoRive_12974]]*
 
+> This administrative packet, issued by the [[Fish and Wildlife Service]] (FWS) in November 1990, documents the August 22, 1990 meeting of the [[Recovery Implementation Program]] (RIP) [[Implementation Committee]] for four endangered or rare Upper Colorado River fishes: [[Colorado Squawfish]],...
+> -- *[[ColoradoRiverRecoveryImplement_17881]]*
+
+> This source is a 1988 [[Fish And Wildlife Service]] (FWS) correspondence packet with two attachments. It covers three linked items: 1. A request to the [[California Department Of Fish And Game]] recovery team for comments on proposed revisions to the [[Colorado Squawfish]] Recovery Plan. The...
+> -- *[[ColoradoSquawfishRecoveryPlan_20997]]*
+
 ### Mentioned In
 - [[TripReportForUpperColoradoRive_12974]]
+- [[ColoradoRiverRecoveryImplement_17881]]
+- [[ColoradoSquawfishRecoveryPlan_20997]]
 
 ## John Hunter
 
@@ -1829,22 +1889,63 @@ John R. Calaprice was a researcher who co-authored this 1964 study on erythrocyt
 ### Mentioned In
 - [[ErythrocyteAntigensOfCaliforni_17330]]
 
+## John R. Holsinger
+
+### Summary
+John R. Holsinger is the author of this 1973 taxonomic paper, affiliated with the Smithsonian Institution. In this source he describes two new species of the subterranean amphipod genus Mexiweckelia and discusses the genus's origin and distribution.
+
+### Context
+> This taxonomic paper by [[John R. Holsinger]] (Smithsonian Institution) describes two new species of the subterranean amphipod genus [[Mexiweckelia]] (family [[Gammaridae]]). The first, [[Mexiweckelia Mitchelli]], comes from [[Cueva de la Siquita]] in Durango, Mexico, and the second, [[Mexiweckelia...
+> -- *[[TwoNewSpeciesOfTheSubterranean_19884]]*
+
+### Mentioned In
+- [[TwoNewSpeciesOfTheSubterranean_19884]]
+
 ## John Rinne
 <!-- fm: auto_enriched: true -->
 
 ### Summary
 I appreciate your request, but I must be honest: based on the information provided, I cannot write an accurate definition of "John Rinne" as a scientific concept. The context snippets are empty, and without access to the actual content of those three source documents, I cannot determine whether "John Rinne" refers to a specific scientific methodology, ecological principle, conservation approach, or something else entirely. To provide you with an accurate and credible summary, I would need to review the actual text from those documents to understand how the term is being used and defined within the field of ichthyology and aquatic ecology.
 
+### Context
+> This appendix from the [[U.S. Fish and Wildlife Service]] (FWS, Region 2, Albuquerque) compiles the public and agency review of draft [[Recovery Plan]]s for two threatened cyprinids, the [[Spikedace]] (*Meda fulgida*) and the [[Loach Minnow]] (*Tiaroga cobitis*). Drafts were circulated in July...
+> -- *[[AppendixBForLoachMinnowTiaroga_11588]]*
+
 ### Mentioned In
 - [[LetterAndDraftAgendaForTheAriz_1993_09_07]]
 - [[NotesFromAugustMeetingOnFishBa_1994_09_28]]
 - [[VerdeRiverFishResearchSpring_1997_05_20]]
+- [[AppendixBForLoachMinnowTiaroga_11588]]
+
+## John S. Gottschalk
+
+### Summary
+Gottschalk was Director of the Bureau of Sport Fisheries and Wildlife, and his October 3, 1969 letter reports on his meeting with Mexican fisheries officials. He found that Mexico acknowledged the bass problem and planned surveys and a laboratory, but he expected commercial and sport-fishing interests to keep driving stocking. He also noted Mexican reluctance to accept domination by American scientists.
+
+### Context
+> This document is a set of three letters from 1969 (September 5, September 10, and October 3) about the conservation of endemic freshwater fishes on the Mexican Plateau. [[Clyde D. Barbour]] and [[Robert R. Miller]] argue that the relict fish fauna of the [[Mesa Central]] is scientifically valuable...
+> -- *[[PresentingInformationAtConserv_15570]]*
+
+### Mentioned In
+- [[PresentingInformationAtConserv_15570]]
 
 ## John Seals
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
+
+## John Wesley Powell
+
+### Summary
+John Wesley Powell led the first expedition to run the entire Colorado River, roughly 20 years before Stanton's 1889–90 survey. In this source he serves as the benchmark for river exploration, and Stanton's achievement is often overshadowed by Powell's fame.
+
+### Context
+> This historical article describes the 1889–90 expedition led by [[Robert Brewster Stanton]] down the [[Colorado River]]. The expedition was commissioned to survey the river's canyons and determine whether a railroad could be built along its full length. It was only the second party to run the...
+> -- *[[TheColoradoRiverRailroadSurvey_16614]]*
+
+### Mentioned In
+- [[TheColoradoRiverRailroadSurvey_16614]]
 
 ## John Wesley Powell Centennial
 
@@ -1896,6 +1997,9 @@ The Johnny Darter (*Etheostoma nigrum*) is a small benthic darter species common
 > This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
 > -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
 
+> This 1956 report, prepared by Tom Eady, Ward Faulkner, Jerry Kerbs, and Art Metcalf of the Fisheries Management Class at Kansas State College, documents a preliminary seine survey of [[Mill Creek]] in Riley County, Kansas, carried out between March 21 and early April 1956. The survey sampled six...
+> -- *[[PreliminarySurveyOfTheFishFaun_15760]]*
+
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[AgeGrowthFecundityAndFoodHabit_1964]]
@@ -1906,6 +2010,7 @@ The Johnny Darter (*Etheostoma nigrum*) is a small benthic darter species common
 - [[NaturalProductivityOfFishAndCr_1940]]
 - [[Perch_16750]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[PreliminarySurveyOfTheFishFaun_15760]]
 
 ## Johnson
 
@@ -2203,6 +2308,18 @@ Jolly-Seber is mentioned as a multi-sample mark-recapture method that can estima
 
 ### Mentioned In
 - [[AcclimationOfRainbowTroutToHig_15535]]
+
+## Jones Creek
+
+### Summary
+A tributary that enters the Green River from the north between Echo Park and Island Park in Dinosaur National Monument. It is the notable exception among the Monument's tributaries in having permanent flow. The source notes cutthroat trout were planted there, with the last report in 1956.
+
+### Context
+> This museum publication, prepared by [[Robert Rush Miller]] (Curator of Fishes, Museum of Zoology, University of Michigan) with contributions credited to Paul C. Marsh, surveys the fishes of [[Dinosaur National Monument]]. Water for fish is supplied mainly by the [[Green River]] and [[Yampa...
+> -- *[[FishesOfDinosaur_15347]]*
+
+### Mentioned In
+- [[FishesOfDinosaur_15347]]
 
 ## Jones Creek Channel
 
@@ -2691,6 +2808,30 @@ The Journal Water Pollution Control Federation was the publication venue for thi
 
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
+
+## Ju-shey Ho
+
+### Summary
+A parasitologist credited in the source for a separate section on parasitic animals, mainly copepods, Monogenea and a nematode from waters around Sado Island. The authors acknowledge his reports of 12 new species from the area.
+
+### Context
+> This short communication by [[Yoshiharu Honma]] and [[Takehiko Kitami]] extends the faunal inventory of the waters around [[Sado Island]] in the [[Sea of Japan]]. It was published in the [[Report of the Sado Marine Biological Station]] of [[Niigata University]] (No. 25, March 1995, pp. 13–30) and...
+> -- *[[FaunaAndFloraInTheWatersAdjace_19905]]*
+
+### Mentioned In
+- [[FaunaAndFloraInTheWatersAdjace_19905]]
+
+## Juan Luis Cifuentes
+
+### Summary
+Cifuentes is a trained Mexican biologist at the Dirección General de Pesca in Mexico City. Miller recommended contacting him because he would be receptive to conservation discussions, and Gottschalk met with him during his 1969 trip.
+
+### Context
+> This document is a set of three letters from 1969 (September 5, September 10, and October 3) about the conservation of endemic freshwater fishes on the Mexican Plateau. [[Clyde D. Barbour]] and [[Robert R. Miller]] argue that the relict fish fauna of the [[Mesa Central]] is scientifically valuable...
+> -- *[[PresentingInformationAtConserv_15570]]*
+
+### Mentioned In
+- [[PresentingInformationAtConserv_15570]]
 
 ## Juan Miller Crossing
 <!-- fm: auto_enriched: true -->

@@ -550,6 +550,30 @@ Ocotillo (Fouquieria splendens) is a spiny desert shrub of the Southwest and Baj
 ### Mentioned In
 - [[BotanicalExplorationsInTheSout_12961]]
 
+## Ocotillo Formation
+
+### Summary
+A Pleistocene geologic formation in southeastern California. The authors note that the fossil could come from this formation, which has also yielded other Xyrauchen material.
+
+### Context
+> This manuscript by Geoffrey M. Hoetker and Kenneth W. Gobalet (California State University, Bakersfield) identifies a nearly complete fossil sucker, specimen SBCM A768-1 from the [[Anza-Borrego Desert]], as a [[Razorback Sucker]] (*Xyrauchen texanus*). The specimen is probably Pliocene in age,...
+> -- *[[AFossilRazorbackSuckerPiscesCa_20446]]*
+
+### Mentioned In
+- [[AFossilRazorbackSuckerPiscesCa_20446]]
+
+## Ocotillo Game Management Area
+
+### Summary
+A 17,300-acre area associated with Alamo Dam that the Army Corps of Engineers, the Bureau of Sport Fisheries and Wildlife, and the Arizona Game and Fish Department agreed to make available for fish and wildlife management under a joint General Plan. The source names small game and waterfowl habitat, with improvement for all game species, as the priority for its development.
+
+### Context
+> This Arizona Game and Fish Department completion report (August 1, 1966 to March 31, 1967) covers the construction phase of the [[Alamo Dam]] and [[Alamo Reservoir]] on the [[Bill Williams River]] drainage. The 283-foot earthfill embankment was still under construction. Outlet works, a spillway,...
+> -- *[[AlamoDam_12956]]*
+
+### Mentioned In
+- [[AlamoDam_12956]]
+
 ## Ocqueoc River
 <!-- fm: auto_enriched: true -->
 
@@ -1369,8 +1393,12 @@ The Oklahoma Fishery Research Laboratory was a state research institution that c
 > This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
 > -- *[[SummaryOfCommercialFisheriesCa_19834]]*
 
+> This report, issued by the [[Oklahoma Fishery Research Laboratory]] and supported by the [[Oklahoma Wildlife Conservation Department]] and the [[University of Oklahoma Biological Survey]], summarizes the age, growth, and population characteristics of [[Black Bullhead Catfish]] (*[[Ictalurus...
+> -- *[[GrowthOfBlackBullheadCatfishIn_19942]]*
+
 ### Mentioned In
 - [[SummaryOfCommercialFisheriesCa_19834]]
+- [[GrowthOfBlackBullheadCatfishIn_19942]]
 
 ## Oklahoma Fishery Resources Office
 <!-- fm: auto_enriched: true -->
@@ -1435,6 +1463,18 @@ Oklahoma State University was the institution where this research on fish bioass
 - [[EvaluationAndRelativeResistanc_19097]]
 - [[FishCollectionRecordsAndFieldN_15305]]
 - [[InteractionOfEffectsByEnvironm_14113]]
+
+## Oklahoma Wildlife Conservation Department
+
+### Summary
+A state wildlife agency that supported the Oklahoma Fishery Research Laboratory report on black bullhead growth. The source names it as a sponsor and does not describe its role in detail.
+
+### Context
+> This report, issued by the [[Oklahoma Fishery Research Laboratory]] and supported by the [[Oklahoma Wildlife Conservation Department]] and the [[University of Oklahoma Biological Survey]], summarizes the age, growth, and population characteristics of [[Black Bullhead Catfish]] (*[[Ictalurus...
+> -- *[[GrowthOfBlackBullheadCatfishIn_19942]]*
+
+### Mentioned In
+- [[GrowthOfBlackBullheadCatfishIn_19942]]
 
 ## Okriocythere
 
@@ -2366,6 +2406,9 @@ Ondatra zibethicus (muskrat) is an aquatic mammal identified as occurring in the
 > This 1966 study (Dingell-Johnson Project F-18-R) uses scales to determine age and growth of [[Largemouth Bass]], [[Smallmouth Bass]], [[Bluegill]] and [[Red-ear Sunfish]] in [[Folsom Lake]] during the first 7 years after impoundment (1955-1961). Largemouth bass grew slightly faster than smallmouth...
 > -- *[[TheAgeAndGrowthOfCentrarchidFi_13538]]*
 
+> This 1956 article from the *New York State Conservationist* by Chief Aquatic Biologist John R. Greeley reviews the [[Sea Lamprey]] (*Petromyzon marinus*) and related lampreys in New York. It argues that New York's lamprey situation is less acute than the crisis in the upper [[Great Lakes]], where...
+> -- *[[TheLampreyInNewYorkWaters_19217]]*
+
 ### Mentioned In
 - [[AnElectricalSurfaceDeviceForCa_16181]]
 - [[ChangingChemicalAndBiologicalC_12793]]
@@ -2374,6 +2417,7 @@ Ondatra zibethicus (muskrat) is an aquatic mammal identified as occurring in the
 - [[WinterFoodHabitsOfPikeperchInO_16899]]
 - [[TheUseOfSedativesToReduceManip_20686]]
 - [[TheAgeAndGrowthOfCentrarchidFi_13538]]
+- [[TheLampreyInNewYorkWaters_19217]]
 
 ## Oniscidae
 
@@ -2581,11 +2625,35 @@ This was the less intensive spring-season survey used alongside the ice census a
 ### Mentioned In
 - [[FinalReportOfTheIceFishingCree_12822]]
 
+## Opercle
+
+### Summary
+The opercle is a bone of the gill cover in fishes. The proposal selects landmarks on the opercle as one of the structures to be compared across razorback sucker specimens.
+
+### Context
+> This 1993 research proposal by Christopher R. Reimus describes a planned morphometric study of the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The study aims to quantify how skeletal shape changes with age, body size, and sex, and to provide a baseline that can help resolve long-standing...
+> -- *[[TheEffectsOfAgeSexAndSizeOnMor_16810]]*
+
+### Mentioned In
+- [[TheEffectsOfAgeSexAndSizeOnMor_16810]]
+
 ## Opercle Aging Method
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
+
+## Opercle Regression
+
+### Summary
+An opercle regression is an equation that predicts a fish's standard length from the size of its opercle, the bony gill cover. The authors used these equations to estimate the lengths of carp, Sonora sucker and desert sucker from opercle bones found in prey remains.
+
+### Context
+> This study examines the diet and foraging habitat of the [[Bald Eagle]] (*Haliaeetus leucocephalus*) population breeding along the [[Salt River]] and [[Verde River]] in central Arizona. The population is small and occupies the southern edge of the species' range in a desert riparian setting. Eleven...
+> -- *[[UtilizationOfBenthicfeedingFis_20740]]*
+
+### Mentioned In
+- [[UtilizationOfBenthicfeedingFis_20740]]
 
 ## Opercular Strap Tag
 <!-- fm: auto_enriched: true -->
@@ -2869,6 +2937,18 @@ Opthof and Leydesdorff are researchers who published work in 2010 advocating for
 ### Mentioned In
 - [[CaveatsForUsingStatisticalSign_2013]]
 
+## Optical Character Recognition
+
+### Summary
+Optical Character Recognition (OCR) is software that converts images of printed text into machine-readable text. In this source, the text was extracted by OCR, and the result is heavily degraded: words are truncated, reversed, or replaced by symbols, and page 1 is rotated. The note therefore treats the OCR output as unreliable and does not use its fragments as data.
+
+### Context
+> The source is a two-page scan of a newspaper edition dated Monday, February 17, 1964, with the masthead "ARIZONA." Most of the text is too degraded to read reliably. Page 1 is rotated and dominated by OCR noise, and Page 2 contains numbered, column-style text with some dollar-like figures. No...
+> -- *[[UdallPutsCentralArizonaProject_14402]]*
+
+### Mentioned In
+- [[UdallPutsCentralArizonaProject_14402]]
+
 ## Optimal Foraging Theory
 <!-- fm: auto_enriched: true -->
 
@@ -3078,6 +3158,9 @@ The orangespotted sunfish (Lepomis humilis) is a small centrarchid species commo
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This 1956 report, prepared by Tom Eady, Ward Faulkner, Jerry Kerbs, and Art Metcalf of the Fisheries Management Class at Kansas State College, documents a preliminary seine survey of [[Mill Creek]] in Riley County, Kansas, carried out between March 21 and early April 1956. The survey sampled six...
+> -- *[[PreliminarySurveyOfTheFishFaun_15760]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[DistributionHabitatAndAbundanc_1959]]
@@ -3088,6 +3171,7 @@ The orangespotted sunfish (Lepomis humilis) is a small centrarchid species commo
 - [[UseOfAntimycinForSelectiveThin_14083]]
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[PreliminarySurveyOfTheFishFaun_15760]]
 
 ## Orangethroat Darter
 <!-- fm: auto_enriched: true -->
@@ -3114,6 +3198,9 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 > This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
 > -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
 
+> This 1956 report, prepared by Tom Eady, Ward Faulkner, Jerry Kerbs, and Art Metcalf of the Fisheries Management Class at Kansas State College, documents a preliminary seine survey of [[Mill Creek]] in Riley County, Kansas, carried out between March 21 and early April 1956. The survey sampled six...
+> -- *[[PreliminarySurveyOfTheFishFaun_15760]]*
+
 ### Mentioned In
 - [[DistributionHabitatAndAbundanc_1959]]
 - [[DurationOfSpermViabilityAsAFac_14210]]
@@ -3123,6 +3210,7 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[ObservationsOnTheFoodHabitsOfD_20140]]
+- [[PreliminarySurveyOfTheFishFaun_15760]]
 
 ## Orara River
 <!-- fm: auto_enriched: true -->
@@ -3873,6 +3961,9 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 > The [[Organ Pipe Cactus National Monument]] annual summary for 1992 reports on the endangered [[Quitobaquito Desert Pupfish]] (*Cyprinodon macularius eremus*), an endemic desert pupfish inhabiting the spring outflows and pond at [[Quitobaquito Springs]]. Weekly inspections and an annual census were...
 > -- *[[AnnualSummaryOfActivitiesQuito_19496]]*
 
+> This is a written comment letter, dated July 10, 1995, from [[Defenders of Wildlife]] (represented by Wildlife Counsel Gregory J. Sater) to the Superintendent of [[Organ Pipe Cactus National Monument]]. It responds to the Draft General Management Plan, Development Concept Plan, and Environmental...
+> -- *[[WrittenCommentsOnDraftGeneralM_20520]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
@@ -3896,6 +3987,7 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 - [[BetweenTheDesertAndTheSeaArche_13223]]
 - [[ReportOnTheAnnualCensusOfCypri_18280]]
 - [[AnnualSummaryOfActivitiesQuito_19496]]
+- [[WrittenCommentsOnDraftGeneralM_20520]]
 
 ## Organ Pipe National Monument
 
@@ -5069,9 +5161,13 @@ Otoliths are calcified structures in fish inner ears used for balance and hearin
 > This document is an analytical request memorandum from the U.S. Fish and Wildlife Service Ecological Services office dated June 16, 1988, requesting contaminant analysis of fish tissue and bottom sediment samples from the [[Little Colorado River]] in [[Grand Canyon National Park]]. The study aims...
 > -- *[[AnalyticalRequestForContaminan_11843]]*
 
+> This 1961 study by [[John C Poole]] of the [[New York State Conservation Department]] determined the age and growth of [[Summer Flounder]] (*Paralichthys dentatus*, "fluke") in [[Great South Bay]] using annular marks on the [[Otolith]] (sagitta). Growth was back-calculated for 357 fish taken in...
+> -- *[[AgeAndGrowthOfTheFlukeInGreatS_18632]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_19708]]
 - [[AnalyticalRequestForContaminan_11843]]
+- [[AgeAndGrowthOfTheFlukeInGreatS_18632]]
 
 ## Otolith Ageing
 
@@ -5089,10 +5185,14 @@ Otoliths are calcified structures in fish inner ears used for balance and hearin
 > **Taxonomic & Life-History Summary**: The Colorado River basin historically supported 30-32 native freshwater species with ~75% endemism at species level and 93% when including subspecies. Eight native fishes inhabited Grand Canyon National Park: [[Humpback Chub]] (*Gila cypha*), [[Bonytail]]...
 > -- *[[NativeFishesOfTheGrandCanyonRe_1991]]*
 
+> This 1993 research proposal by Christopher R. Reimus describes a planned morphometric study of the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The study aims to quantify how skeletal shape changes with age, body size, and sex, and to provide a baseline that can help resolve long-standing...
+> -- *[[TheEffectsOfAgeSexAndSizeOnMor_16810]]*
+
 ### Mentioned In
 - [[FlatheadCatfishAbundanceAndGro_1985]]
 - [[VoucherSpecimensDonatedToDepar_1997_01_08]]
 - [[NativeFishesOfTheGrandCanyonRe_1991]]
+- [[TheEffectsOfAgeSexAndSizeOnMor_16810]]
 
 ## Otolith Aging Methodology
 <!-- fm: auto_enriched: true -->
@@ -5133,6 +5233,18 @@ Otolith analysis is a method that reads growth rings in the ear stones of fish t
 
 ### Mentioned In
 - [[FishSamplingAtAsuResearchParkA_19405]]
+
+## Otolithes
+
+### Summary
+A genus of fishes in the drum family. The author first thought Lompoquia retropes was an ally of it but later concluded it is a typical sciaenid.
+
+### Context
+> This 1924 taxonomic paper by [[David Starr Jordan]] describes new and previously known fossil fishes from Miocene sediments in southern California. The main material comes from the [[Lompoc Diatom Beds]], Santa Barbara County, where collector [[Eric Knight Jordan]] found three new species in...
+> -- *[[DescriptionOfMioceneFishesFrom_19848]]*
+
+### Mentioned In
+- [[DescriptionOfMioceneFishesFrom_19848]]
 
 ## Otsego Whitefish
 
@@ -5238,6 +5350,34 @@ The Otter River was the location of the last known population of Michigan Grayli
 
 ### Mentioned In
 - [[TheMontanaGraylingInMichigan_20282]]
+
+## Otter Trawl
+
+### Summary
+A bottom-towed net used by the four northern California vessels that supplied the animal food fishery. The source notes that it is largely non-selective on mixed-species grounds, which is why unsalable "trash" fish are caught along with market species.
+
+### Context
+> This paper by E. A. Best of the [[California Department of Fish and Game]] reviews the [[Animal Food Fishery]] of Northern California, in which unmarketable trawl-caught "trash" fish are ground, frozen or canned for fur-animal and pet food. Landings grew from about 528,000 pounds of whole fish in...
+> -- *[[StatusOfTheAnimalFoodFisheryIn_18204]]*
+
+> This 1961 study by [[John C Poole]] of the [[New York State Conservation Department]] determined the age and growth of [[Summer Flounder]] (*Paralichthys dentatus*, "fluke") in [[Great South Bay]] using annular marks on the [[Otolith]] (sagitta). Growth was back-calculated for 357 fish taken in...
+> -- *[[AgeAndGrowthOfTheFlukeInGreatS_18632]]*
+
+### Mentioned In
+- [[StatusOfTheAnimalFoodFisheryIn_18204]]
+- [[AgeAndGrowthOfTheFlukeInGreatS_18632]]
+
+## Otter Trawling
+
+### Summary
+A bottom trawling method using an otter board to keep the net open while towed. In this study it was the main gear for collecting sculpins, with nearly 98% of the 7,390 sculpins taken this way and the best catches at 100 to 500 ft. The authors note it is selective and does not give true absolute abundance.
+
+### Context
+> This 1969 study, part of the six-year [[Lake Tahoe Fisheries Study]] (begun 1960 by the California and Nevada Departments of Fish and Game), describes where [[Piute Sculpin]] live in [[Lake Tahoe]], how large they are, and how abundant they are relative to other fishes. Most fish were collected by...
+> -- *[[DistributionSizeCompositionAnd_17286]]*
+
+### Mentioned In
+- [[DistributionSizeCompositionAnd_17286]]
 
 ## Ouabain
 <!-- fm: auto_enriched: true -->
@@ -5452,6 +5592,9 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This is a December 14, 1994 memorandum from Pat Nelson, Coordinator of the Flooded Bottom Lands Restoration Program, to its Technical Advisory Group. It requests review of draft FY 95 proposals by January 5, 1995, and asks four questions: do the proposals fit what the group had in mind, do they...
 > -- *[[RequestForReviewOfDraftFyWorkP_19638]]*
 
+> This source is a 1988 [[Fish And Wildlife Service]] (FWS) correspondence packet with two attachments. It covers three linked items: 1. A request to the [[California Department Of Fish And Game]] recovery team for comments on proposed revisions to the [[Colorado Squawfish]] Recovery Plan. The...
+> -- *[[ColoradoSquawfishRecoveryPlan_20997]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -5474,6 +5617,7 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[AnnualReportRecoveryProgramFor_11673]]
 - [[AnnualReportRecoveryProgramFor_11678]]
 - [[RequestForReviewOfDraftFyWorkP_19638]]
+- [[ColoradoSquawfishRecoveryPlan_20997]]
 
 ## Ouray Reach
 
@@ -5528,6 +5672,18 @@ Outbreeding depression in fish science refers to the reduction in fitness and su
 
 ### Mentioned In
 - [[FisheriesNews_1993_12_21]]
+
+## Over-Summering Refuges
+
+### Summary
+Places where aquatic macroinvertebrates persist through the dry period, such as the hyporheic zone, crayfish burrows, dried litter and algae, and dry sediments. The study measures how much each refuge contributes to the fauna that reappears when flow resumes.
+
+### Context
+> This 1992 comparative study, published in the Environment Canada symposium volume *Aquatic Ecosystems in Semi-Arid Regions: Implications for Resource Management*, examines how aquatic macroinvertebrates survive [[Drying Disturbance]] in intermittent streams. The authors compare two [[Werribee...
+> -- *[[OversummeringStategiesOfMacroi_17739]]*
+
+### Mentioned In
+- [[OversummeringStategiesOfMacroi_17739]]
 
 ## Overbank Flooding
 <!-- fm: auto_enriched: true -->
@@ -6138,8 +6294,12 @@ Oxnard, California was the site of the Daryl Arnold Ranch where in 1953, five th
 > Activity level was directly assessed via spot-checks (see Activity Chart), correlating behavioral activity with measured [[Oxygen Consumption]] rates across both thermal regimes.
 > -- *[[ARelativeStudyOfOxygenConsumpt_16948]]*
 
+> This Massachusetts Agricultural Experiment Station Research Bulletin (No. 605, July 1974), by James R. Beltz, James E. Johnson, Donald L. Cohen and Frank B. Pratt of the [[Department Of Forestry And Wildlife Management]] at the University of Massachusetts at Amherst, compiles an annotated...
+> -- *[[AnAnnotatedBibliographyOfTheEf_18153]]*
+
 ### Mentioned In
 - [[ARelativeStudyOfOxygenConsumpt_16948]]
+- [[AnAnnotatedBibliographyOfTheEf_18153]]
 
 ## Oxygen Isotope Paleothermometry
 <!-- fm: auto_enriched: true -->
@@ -6219,6 +6379,18 @@ The oxygen minimum zone is a region of extremely low dissolved oxygen concentrat
 ### Mentioned In
 - [[ListOfFisheryAssociationsInThe_12333]]
 - [[RoleOfEstuarineWatersInGulfFis_19019]]
+
+## Oyster Creek Generating Station
+
+### Summary
+A power generating facility with a thermal outfall, listed among the thermal discharge systems that were common study settings. The source provides no specific findings for it in this excerpt.
+
+### Context
+> This Massachusetts Agricultural Experiment Station Research Bulletin (No. 605, July 1974), by James R. Beltz, James E. Johnson, Donald L. Cohen and Frank B. Pratt of the [[Department Of Forestry And Wildlife Management]] at the University of Massachusetts at Amherst, compiles an annotated...
+> -- *[[AnAnnotatedBibliographyOfTheEf_18153]]*
+
+### Mentioned In
+- [[AnAnnotatedBibliographyOfTheEf_18153]]
 
 ## Oyster Larvae
 <!-- fm: auto_enriched: true -->

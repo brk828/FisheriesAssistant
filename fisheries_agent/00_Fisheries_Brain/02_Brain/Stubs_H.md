@@ -235,8 +235,12 @@ Habitat Conservation Planning (HCP) is a process under the Endangered Species Ac
 > This memorandum and Director's Order No. 94, dated February 1993, establishes official [[U.S. Fish and Wildlife Service]] policy regarding the participation of State agencies in activities conducted under the [[Endangered Species Act]] of 1973, as amended. The order clarifies coordination and...
 > -- *[[ParticipationOfStateAgenciesIn_21205]]*
 
+> This Federal Register notice, published June 3, 1996, sets out a joint policy by the [[Fish and Wildlife Service]] (Interior) and the [[National Marine Fisheries Service]] (Commerce), collectively "the Services." The policy addresses the conservation needs of species listed, or proposed for...
+> -- *[[NoticeOfPolicyForConservingSpe_11740]]*
+
 ### Mentioned In
 - [[ParticipationOfStateAgenciesIn_21205]]
+- [[NoticeOfPolicyForConservingSpe_11740]]
 
 ## Habitat Conservation Plans
 
@@ -294,9 +298,13 @@ Habitat degradation in fish science refers to the deterioration of aquatic envir
 > - The document is a **planning and correspondence record**, not a data-bearing scientific paper; it should be treated as **metadata about the genesis of a conservation document**, not as a source of empirical fish biology. - The proposed **Global Action Plan for Freshwater Fishes** was structured...
 > -- *[[GlobalActionPlanForFreshwaterF_1993_05_05]]*
 
+> This U.S. Fish and Wildlife Service revised recovery plan (September 1998, prepared by David A. Weedman for Region 2) covers the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), the U.S. subspecies of the [[Sonoran Topminnow]] complex. Both subspecies were listed as endangered in 1967...
+> -- *[[GilaTopminnowPoeciliopsisOccid_19672]]*
+
 ### Mentioned In
 - [[CommentsOnProposedRuleChangeCa_1994_11_30]]
 - [[GlobalActionPlanForFreshwaterF_1993_05_05]]
+- [[GilaTopminnowPoeciliopsisOccid_19672]]
 
 ## Habitat Evaluation Procedures
 
@@ -546,6 +554,18 @@ Habitat segregation is the pattern in which fish communities partition themselve
 ### Mentioned In
 - [[OkaloosaDarterEtheostomaOkaloo_1992]]
 
+## Habitat Size Hypothesis
+
+### Summary
+The habitat size hypothesis proposes that life-history traits such as age and size at maturity and fecundity vary with the size of the habitat a population occupies. The author interprets the differences between small Turkey Creek and larger Gila River roundtail chub life histories as consistent with this hypothesis, citing G. R. Smith (1981).
+
+### Context
+> This Colorado State University master's thesis (Kevin R. Bestgen, Fall 1985) reports a two-year study (December 1982 to December 1984) of the [[Roundtail Chub]] (*Gila robusta*, treated as *G. r. grahami*) in the [[Gila River]] drainage of New Mexico. The study documented historic and present...
+> -- *[[DistributionBiologyAndStatusOf_18205]]*
+
+### Mentioned In
+- [[DistributionBiologyAndStatusOf_18205]]
+
 ## Habitat Stability And Community Structure
 <!-- fm: auto_enriched: true -->
 
@@ -793,6 +813,18 @@ Hadropterus maculatus, commonly known as the spotted darter, is a small North Am
 
 ### Mentioned In
 - [[RedescriptionOfHadrurusPinteri_12054]]
+
+## Hadzia
+
+### Summary
+Hadzia is a genus of amphipods in the Hadzia group of interstitial-subterranean crustaceans, with the synonym Metaniphargus. The source describes Mexiweckelia as more distantly related to Hadzia than to the Caribbean genera Weckelia, Paraweckelia and Alloweckelia.
+
+### Context
+> This taxonomic paper by [[John R. Holsinger]] (Smithsonian Institution) describes two new species of the subterranean amphipod genus [[Mexiweckelia]] (family [[Gammaridae]]). The first, [[Mexiweckelia Mitchelli]], comes from [[Cueva de la Siquita]] in Durango, Mexico, and the second, [[Mexiweckelia...
+> -- *[[TwoNewSpeciesOfTheSubterranean_19884]]*
+
+### Mentioned In
+- [[TwoNewSpeciesOfTheSubterranean_19884]]
 
 ## Hadziidae
 <!-- fm: auto_enriched: true -->
@@ -1076,8 +1108,12 @@ Pacific halibut, a commercially valuable flatfish managed under a 50-million-pou
 > This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
 > -- *[[FoodFishfreshAndFrozenProducts_11510]]*
 
+> This 1924 taxonomic paper by [[David Starr Jordan]] describes new and previously known fossil fishes from Miocene sediments in southern California. The main material comes from the [[Lompoc Diatom Beds]], Santa Barbara County, where collector [[Eric Knight Jordan]] found three new species in...
+> -- *[[DescriptionOfMioceneFishesFrom_19848]]*
+
 ### Mentioned In
 - [[FoodFishfreshAndFrozenProducts_11510]]
+- [[DescriptionOfMioceneFishesFrom_19848]]
 
 ## Haliclona
 
@@ -1490,6 +1526,18 @@ Hanford was a major nuclear reactor facility that discharged approximately 8.0 �
 ### Mentioned In
 - [[EnvironmentalImplicationsOfRad_14607]]
 - [[TheRadioactivityAndEcologyOfAq_14009]]
+
+## Hanford Nuclear Station
+
+### Summary
+A nuclear facility with a river thermal discharge that was studied for fish behavior. The source reports that chinook salmon and steelhead moved along the bank opposite its discharge during peak river temperature (Coutant, 1969a).
+
+### Context
+> This Massachusetts Agricultural Experiment Station Research Bulletin (No. 605, July 1974), by James R. Beltz, James E. Johnson, Donald L. Cohen and Frank B. Pratt of the [[Department Of Forestry And Wildlife Management]] at the University of Massachusetts at Amherst, compiles an annotated...
+> -- *[[AnAnnotatedBibliographyOfTheEf_18153]]*
+
+### Mentioned In
+- [[AnAnnotatedBibliographyOfTheEf_18153]]
 
 ## Hanford Reach
 <!-- fm: auto_enriched: true -->
@@ -2060,8 +2108,12 @@ Harold Tyus was a fisheries researcher working on endangered Colorado River fish
 > This memorandum documents a trip report from the Upper Colorado River endangered fishes researchers meeting held February 24-25, 1987 in Grand Junction, Colorado. The meeting covered standardized monitoring programs, habitat research, captive spawning efforts, and recovery planning for four...
 > -- *[[TripReportForUpperColoradoRive_12974]]*
 
+> This source is a 1988 [[Fish And Wildlife Service]] (FWS) correspondence packet with two attachments. It covers three linked items: 1. A request to the [[California Department Of Fish And Game]] recovery team for comments on proposed revisions to the [[Colorado Squawfish]] Recovery Plan. The...
+> -- *[[ColoradoSquawfishRecoveryPlan_20997]]*
+
 ### Mentioned In
 - [[TripReportForUpperColoradoRive_12974]]
+- [[ColoradoSquawfishRecoveryPlan_20997]]
 
 ## Harold Wascko
 <!-- fm: auto_enriched: true -->
@@ -2404,6 +2456,18 @@ The only species of Hartocythere, originally described as Entocythere torreya by
 ### Mentioned In
 - [[NewEntocytheridOstracodsOfTheG_20414]]
 
+## Harvest Rate
+
+### Summary
+The proportion of a fish population removed by angling in a given period, which this study tried to estimate from tag returns. The author judged the first-year estimate tentative and of doubtful value for regulation. The 20 percent return suggested harvest was not excessive, but more tagged fish across more river sections were needed for a valid estimate.
+
+### Context
+> This 1956 report by George W. McCammon (California Department of Fish and Game, Inland Fisheries Branch) describes an exploratory tagging study of [[Channel Catfish]] (*Ictalurus punctatus*) in the lower [[Colorado River]] between [[Parker Dam]] and [[Imperial Dam]], begun in 1953. The fishery was...
+> -- *[[ATaggingExperimentWithChannelC_12244]]*
+
+### Mentioned In
+- [[ATaggingExperimentWithChannelC_12244]]
+
 ## Harvest Regulation
 
 ### Summary
@@ -2555,8 +2619,13 @@ Haskell 1959 documented that threadfin shad are pelagic plankton feeders that ut
 ## Hassayampa Preserve
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This draft proposal, dated 6 May 1996, sets out a plan to restore the [[Middle Spring]] (S2) system at the [[Bylas Springs]] complex on the [[San Carlos Apache Reservation]] and to reintroduce [[Gila Topminnow]] of S2 lineage. The authors are staff of the [[U.S. Fish And Wildlife Service]] (Arizona...
+> -- *[[DraftProposalMiddleSpringSAndT_20270]]*
+
 ### Mentioned In
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
+- [[DraftProposalMiddleSpringSAndT_20270]]
 
 ## Hassayampa Pumping Plant
 
@@ -2727,6 +2796,18 @@ Hastings was a researcher at the Fish Farming Experimental Station who conducted
 ### Mentioned In
 - [[YaquiTopminnowDraftRecoveryPla_1979]]
 
+## Hastings Fish Hatchery
+
+### Summary
+The Hastings Fish Hatchery is a Michigan state hatchery near which Bates Pond was located. The source mentions it only as the location of that pond, not as a detailed subject.
+
+### Context
+> This 1948 report by [[Albert S. Hazzard]] and K. G. Fukano, of the [[Institute for Fisheries Research]] in the [[Michigan Department of Conservation]], describes the [[Special Regulation Trout Ponds]] program. Because large cold springs and cold streams are scarce near Michigan's population...
+> -- *[[SpecialRegulationTroutPonds_20745]]*
+
+### Mentioned In
+- [[SpecialRegulationTroutPonds_20745]]
+
 ## Hasty Lake
 
 ### Summary
@@ -2874,6 +2955,18 @@ The Hatchery Feasibility Study was being conducted by the Colorado Water Conserv
 - [[PositionStatementOnRecreationa_1994_09_01]]
 - [[SortingFishAtCowlitzHatchery_12417]]
 
+## Hatchery Operations
+
+### Summary
+The source describes a hatchery program at the David Koch Cui-ui Hatchery that maintains a refuge stock of cui-ui. Earlier stocking added millions of larvae, but their recruitment into the population is unknown. The plan lists hatchery support as one of the recovery tools.
+
+### Context
+> This U.S. Fish and Wildlife Service recovery plan (second revision, 1991) addresses the [[Cui-ui]], a large, long-lived lakesucker endemic to [[Pyramid Lake]], Nevada, listed as endangered in 1967. The species was driven to decline mainly by reduced [[Truckee River]] inflow caused by upstream...
+> -- *[[CuiuiChasmistesCujusSecondRevi_11586]]*
+
+### Mentioned In
+- [[CuiuiChasmistesCujusSecondRevi_11586]]
+
 ## Hatchery Production Trends
 <!-- fm: auto_enriched: true -->
 
@@ -2883,6 +2976,18 @@ The Hatchery Feasibility Study was being conducted by the Colorado Water Conserv
 
 ### Mentioned In
 - [[StationProfileOfTheQ_1993]]
+
+## Hatchery Program
+
+### Summary
+A hatchery program is a fish-rearing effort in which eggs or young fish are raised in captivity and released to supplement wild runs. This source criticizes hatcheries, noting that natural hatch rates under normal conditions are about as high as in hatcheries, and that a program must return at least one dollar of fish per dollar spent. It mentions an experimental program being started on the Mad River to test economic feasibility, with exceptions possibly justified for rehabilitating depleted runs or runs blocked by dams.
+
+### Context
+> This 1951 preliminary analysis by [[Garth I. Murphy]] and [[Leo Shapovalov]] of the California Division of Fish and Game compares fish-counting records from four northern California stations with commercial catch statistics for [[King Salmon]], [[Silver Salmon]] and [[Steelhead Trout]]. Correlation...
+> -- *[[APreliminaryAnalysisOfNorthern_15526]]*
+
+### Mentioned In
+- [[APreliminaryAnalysisOfNorthern_15526]]
 
 ## Hatchery Programs
 <!-- fm: auto_enriched: true -->
@@ -2896,6 +3001,18 @@ The Hatchery Feasibility Study was being conducted by the Colorado Water Conserv
 
 ### Mentioned In
 - [[HatcheryBashingAUselessPastime_14357]]
+
+## Hatchery Propagation
+
+### Summary
+Hatchery propagation is the raising of fish in captivity for release or stocking. In this source, razorback suckers have been under hatchery propagation since the early 1970s, which is why many wild and hatchery broodfish are available for the proposed study.
+
+### Context
+> This 1993 research proposal by Christopher R. Reimus describes a planned morphometric study of the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The study aims to quantify how skeletal shape changes with age, body size, and sex, and to provide a baseline that can help resolve long-standing...
+> -- *[[TheEffectsOfAgeSexAndSizeOnMor_16810]]*
+
+### Mentioned In
+- [[TheEffectsOfAgeSexAndSizeOnMor_16810]]
 
 ## Hatchery Raceway Design
 <!-- fm: auto_enriched: true -->
@@ -3786,6 +3903,9 @@ Headgate Rock Dam is a structure on the Colorado River at river mile 524.5 that 
 > This final report documents a 1987 monitoring study of [[Razorback Sucker]] (*Xyrauchen texanus*) reintroduced into the [[Lower Colorado River]]. Approximately 900,000 larvae produced at [[Dexter National Fish Hatchery]] were stocked into selected Colorado River backwaters in late spring 1987, with...
 > -- *[[AMonitoringStudyOfRazorbackSuc_12703]]*
 
+> This 1956 report by George W. McCammon (California Department of Fish and Game, Inland Fisheries Branch) describes an exploratory tagging study of [[Channel Catfish]] (*Ictalurus punctatus*) in the lower [[Colorado River]] between [[Parker Dam]] and [[Imperial Dam]], begun in 1953. The fishery was...
+> -- *[[ATaggingExperimentWithChannelC_12244]]*
+
 ### Mentioned In
 - [[IntraserviceSectionConsultatio_11829]]
 - [[IntraserviceSectionConsultatio_20152]]
@@ -3794,6 +3914,7 @@ Headgate Rock Dam is a structure on the Colorado River at river mile 524.5 that 
 - [[EffectOfChannelizationOnTheFis_18139]]
 - [[FisheriesReportOfTheLowerColor_16429]]
 - [[AMonitoringStudyOfRazorbackSuc_12703]]
+- [[ATaggingExperimentWithChannelC_12244]]
 
 ## Headquarters Spring
 
@@ -3856,6 +3977,18 @@ Headwater Catfish (Ictalurus lupus) is a catfish species thought to be closely r
 ### Mentioned In
 - [[FishFaunalBreaksAndStreamOrder_1986]]
 
+## Hearne and Dewey Regression Model
+
+### Summary
+The Hearne and Dewey Regression Model (1988) is a method for estimating mountain front recharge in alluvial basins. The source says it applies to elongate southwest alluvial basins receiving less than 7.4 inches of winter precipitation. The study used it, along with field estimates by Rivers West (1990), to simulate recharge for the Castaneda, Centennial, and Mineral Washes.
+
+### Context
+> This U.S. Fish and Wildlife Service (USFWS) brief, authored by hydrologist Celina Harshman of the USFWS Division of Water Management, summarizes a groundwater modeling study of the Bill Williams River basin. The study was run with the University of Arizona to examine how the riparian ecosystem of...
+> -- *[[TheHydrologyOfTheBillWilliamsR_20683]]*
+
+### Mentioned In
+- [[TheHydrologyOfTheBillWilliamsR_20683]]
+
 ## Heart
 <!-- fm: auto_enriched: true -->
 
@@ -3904,6 +4037,18 @@ Heath Incubators are egg incubation equipment used in fish hatchery operations. 
 ### Mentioned In
 - [[OurayRazorbackHatcherySummary_13377]]
 
+## Heaton Study
+
+### Summary
+An earlier study of the strip-mine lakes that this source says began in 1940. The source gives no details of its methods or findings.
+
+### Context
+> This report describes an ongoing limnological study of five strip-mine lakes in Callaway County, Missouri, with monitoring running continuously from January 1962 to 1965. The authors examine how acid mine drainage shapes water chemistry and aquatic biota, and how these lakes change as acidity...
+> -- *[[WaterPollutionStudiesInAcidStr_17358]]*
+
+### Mentioned In
+- [[WaterPollutionStudiesInAcidStr_17358]]
+
 ## Heavy Metal Contamination
 <!-- fm: auto_enriched: true -->
 
@@ -3951,8 +4096,12 @@ Heavy metals are metallic elements, such as lead or mercury, that can be toxic t
 > This is the third revised edition (January 1998) of a directory published by the [[Water Resources Research Center]] at the University of Arizona, College of Agriculture, as Issue Paper Number Thirteen. It lists 201 people with water-related expertise at Arizona's three state universities: the...
 > -- *[[WhereToFindWaterExpertiseAtSta_13523]]*
 
+> This two-part study by R. [[Lloyd]] and D. H. M. [[Herbert]] (Jordan in the source) tests whether the acute toxicity of [[Sewage Effluent]] to [[Rainbow Trout]] (*Salmo gairdnerii*) can be predicted from chemical analysis of a few common poisons. The authors summed the individual toxicities of...
+> -- *[[PredictedAndObservedToxicities_16173]]*
+
 ### Mentioned In
 - [[WhereToFindWaterExpertiseAtSta_13523]]
+- [[PredictedAndObservedToxicities_16173]]
 
 ## Hebei Intertidal Zone
 
@@ -4008,6 +4157,18 @@ An earlier study by these same authors that applied the same genetic markers to 
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
 - [[SerologicalEvidenceForInbreedi_1966]]
 - [[ErythrocyteAntigensOfCaliforni_17330]]
+
+## Heincke Stud Tag
+
+### Summary
+An acrylic tag placed on the dorsal side of fish and compared with the vinyl tag in this study. It was retained for 135 days but produced an unsightly wound.
+
+### Context
+> This 1957 paper by Robert L. Butler of the [[California Department Of Fish And Game]] describes the development of a [[Subcutaneous Vinyl Tag]] for [[Rainbow Trout]] (*Salmo gairdneri*) in the state's [[Catchable Trout Stocking]] program. The work was part of the [[Dingell-Johnson Project]] to...
+> -- *[[TheDevelopmentOfAVinylPlasticS_14114]]*
+
+### Mentioned In
+- [[TheDevelopmentOfAVinylPlasticS_14114]]
 
 ## Heinemann and Dvorak Volumetric Survey Procedures
 
@@ -4810,8 +4971,13 @@ Herb Martyr Dam is a location on Cave Creek in Arizona where intensive sampling 
 ## Herbert
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This two-part study by R. [[Lloyd]] and D. H. M. [[Herbert]] (Jordan in the source) tests whether the acute toxicity of [[Sewage Effluent]] to [[Rainbow Trout]] (*Salmo gairdnerii*) can be predicted from chemical analysis of a few common poisons. The authors summed the individual toxicities of...
+> -- *[[PredictedAndObservedToxicities_16173]]*
+
 ### Mentioned In
 - [[TheEffectOfCalciumSulphateOnTh_16691]]
+- [[PredictedAndObservedToxicities_16173]]
 
 ## Herbert & Merkens 1952
 <!-- fm: auto_enriched: true -->
@@ -6004,6 +6170,18 @@ A bridge crossing the Salt River in Arizona that served as a survey endpoint. Th
 - [[TechnicalReviewDraftPahranagat_13301]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 
+## Hildebrand and Shroeder (1928)
+
+### Summary
+Hildebrand and Shroeder (1928) estimated the age of fluke in Chesapeake Bay from length-frequency distributions. They did not separate the sexes, so their age estimates were approximate. Poole cites this work as an early attempt at aging the species.
+
+### Context
+> This 1961 study by [[John C Poole]] of the [[New York State Conservation Department]] determined the age and growth of [[Summer Flounder]] (*Paralichthys dentatus*, "fluke") in [[Great South Bay]] using annular marks on the [[Otolith]] (sagitta). Growth was back-calculated for 357 fish taken in...
+> -- *[[AgeAndGrowthOfTheFlukeInGreatS_18632]]*
+
+### Mentioned In
+- [[AgeAndGrowthOfTheFlukeInGreatS_18632]]
+
 ## Hile 1936
 <!-- fm: auto_enriched: true -->
 
@@ -6090,6 +6268,18 @@ Hillsboro County is a county in southern New Hampshire. The study area encompass
 
 ### Mentioned In
 - [[OccurrenceOfASouthAmericanArmo_16234]]
+
+## Hillsdale Ponds
+
+### Summary
+The Hillsdale Ponds were a Hillsdale rearing pond system used for trout fishing, with a second unit in use by 1947. The Hillsdale Station allowed fish checks and full drainage, so it provided the detailed survival data for Pond 2 in 1946 and remained permit-regulated for stocking and marking experiments.
+
+### Context
+> This 1948 report by [[Albert S. Hazzard]] and K. G. Fukano, of the [[Institute for Fisheries Research]] in the [[Michigan Department of Conservation]], describes the [[Special Regulation Trout Ponds]] program. Because large cold springs and cold streams are scarce near Michigan's population...
+> -- *[[SpecialRegulationTroutPonds_20745]]*
+
+### Mentioned In
+- [[SpecialRegulationTroutPonds_20745]]
 
 ## Hilsa Kelee
 <!-- fm: auto_enriched: true -->
@@ -6189,6 +6379,30 @@ Hiodon alosoides (Goldeye) was represented by only 4 specimens collected from a 
 - [[FreshwaterFishesOfTheEasternAr_18569]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 
+## Hippoglossus
+
+### Summary
+The living halibut genus. The author tentatively assigns the fossil Hippoglossus antiquus to this genus.
+
+### Context
+> This 1924 taxonomic paper by [[David Starr Jordan]] describes new and previously known fossil fishes from Miocene sediments in southern California. The main material comes from the [[Lompoc Diatom Beds]], Santa Barbara County, where collector [[Eric Knight Jordan]] found three new species in...
+> -- *[[DescriptionOfMioceneFishesFrom_19848]]*
+
+### Mentioned In
+- [[DescriptionOfMioceneFishesFrom_19848]]
+
+## Hippoglossus Antiquus
+
+### Summary
+A new fossil species from the Lompoc Diatom Beds, known from a large, mostly incomplete type. The author tentatively places it in Hippoglossus, the halibut genus, because no character clearly separates it from living halibuts.
+
+### Context
+> This 1924 taxonomic paper by [[David Starr Jordan]] describes new and previously known fossil fishes from Miocene sediments in southern California. The main material comes from the [[Lompoc Diatom Beds]], Santa Barbara County, where collector [[Eric Knight Jordan]] found three new species in...
+> -- *[[DescriptionOfMioceneFishesFrom_19848]]*
+
+### Mentioned In
+- [[DescriptionOfMioceneFishesFrom_19848]]
+
 ## Hippuris
 
 ### Summary
@@ -6238,8 +6452,12 @@ Hiram W. Li is the author of this 1991 critique, written while affiliated with t
 > This critique by [[Hiram W. Li]] of the [[Oregon State University]] [[Oregon Cooperative Fishery Research Unit]] reviews the [[Glen Canyon Environmental Studies Program]], which funds research on the endangered [[Humpback Chub]] in the [[Grand Canyon]] of the [[Colorado River]]. The author argues...
 > -- *[[CritiqueOfHumpbackChubResearch_20317]]*
 
+> This document is a 1967 package from the [[Colorado Cooperative Fishery Unit]] at Colorado State University. It contains a cover letter from [[Robert Behnke]] to Dr. W.L. Minckley, a *Progress Report on the Fishes of Colorado* by [[Hiram W. Li]] and Robert J. Behnke, and a set of Behnke's comments...
+> -- *[[FishesOfColorado_20315]]*
+
 ### Mentioned In
 - [[CritiqueOfHumpbackChubResearch_20317]]
+- [[FishesOfColorado_20315]]
 
 ## Hirudinea
 <!-- fm: auto_enriched: true -->
@@ -6347,6 +6565,18 @@ The hispid cotton rat (Sigmodon hispidus) is a rodent that inhabits riparian and
 ### Mentioned In
 - [[ASaltSpringInBorrowdale_1961_04_15]]
 
+## Historical Newspaper Archives
+
+### Summary
+Historical newspaper archives are collections of digitized past newspaper editions, often kept by libraries for research. This source is a scanned Arizona newspaper page dated Monday, February 17, 1964, held in the Minckley Library collection. The scan is only partly legible, so the archived page can establish the date and place but supports no ichthyological findings.
+
+### Context
+> The source is a two-page scan of a newspaper edition dated Monday, February 17, 1964, with the masthead "ARIZONA." Most of the text is too degraded to read reliably. Page 1 is rotated and dominated by OCR noise, and Page 2 contains numbered, column-style text with some dollar-like figures. No...
+> -- *[[UdallPutsCentralArizonaProject_14402]]*
+
+### Mentioned In
+- [[UdallPutsCentralArizonaProject_14402]]
+
 ## History Of Genetics
 <!-- fm: auto_enriched: true -->
 
@@ -6366,10 +6596,14 @@ The hispid cotton rat (Sigmodon hispidus) is a rodent that inhabits riparian and
 > This 1963 administrative report from the California Department of Fish and Game provides comprehensive guidance on rough fish control as a fisheries management tool. The document reviews theory, methods, and practical considerations for chemical treatment of waters to eliminate undesirable fish...
 > -- *[[RoughFishControl_20167]]*
 
+> This 1952 study by [[Donald E Wohlschlag]] (Stanford University), published in *California Fish and Game*, estimates the fish populations of [[Searsville Lake]], a 98-acre, weed-choked reservoir in San Mateo County, California. The lake had received negligible fishing pressure for about a decade....
+> -- *[[EstimationOfFishPopulationsInA_20799]]*
+
 ### Mentioned In
 - [[EarlyDevelopmentOfTheHitchLavi_1965]]
 - [[SynonymyCharactersAndVariation_15339]]
 - [[RoughFishControl_20167]]
+- [[EstimationOfFishPopulationsInA_20799]]
 
 ## Hitchcock Creek
 <!-- fm: auto_enriched: true -->
@@ -7072,6 +7306,18 @@ Holothuria arenicola is a hard-walled sea cucumber with patches of various shade
 ### Mentioned In
 - [[ParameziweckeliaANewGenusOfSub_1982]]
 
+## Holsinger and Minckley (1971)
+
+### Summary
+Holsinger and Minckley (1971) is the earlier publication that described the genus Mexiweckelia with two species, M. colei and M. particeps, from groundwater outlets in the Cuatro Ciénegas Basin, Coahuila. This source builds on that work by adding two new species.
+
+### Context
+> This taxonomic paper by [[John R. Holsinger]] (Smithsonian Institution) describes two new species of the subterranean amphipod genus [[Mexiweckelia]] (family [[Gammaridae]]). The first, [[Mexiweckelia Mitchelli]], comes from [[Cueva de la Siquita]] in Durango, Mexico, and the second, [[Mexiweckelia...
+> -- *[[TwoNewSpeciesOfTheSubterranean_19884]]*
+
+### Mentioned In
+- [[TwoNewSpeciesOfTheSubterranean_19884]]
+
 ## Holston River
 
 ### Summary
@@ -7211,8 +7457,12 @@ Home range analysis quantifies the spatial extent of an animal's movements and h
 > This paper by Gary P. Moberg presents a conceptual framework for understanding how **stress** leads to **pathology** in fish, particularly in aquaculture settings. Unlike domesticated terrestrial animals, fish lack generations of selective breeding for captivity tolerance, making them especially ...
 > -- *[[StressInducedPathologiesInFish_16522 (scanned)]]*
 
+> This Voice of America [[Forum Lectures|Forum Lecture]] (Biology Series, No. 3) by [[Edward S. Deevey]], Professor of Biology at Yale University, argues that animal populations are self-regulatory systems. Populations keep near a statistical constancy because their members perceive crowding and...
+> -- *[[AnimalPopulationsSelfregulatio_12756]]*
+
 ### Mentioned In
 - [[StressInducedPathologiesInFish_16522 (scanned)]]
+- [[AnimalPopulationsSelfregulatio_12756]]
 
 ## Homeothermic Animals
 <!-- fm: auto_enriched: true -->
@@ -7390,6 +7640,18 @@ Honker Cut is a waterway in the Sacramento-San Joaquin Delta located approximate
 
 ### Mentioned In
 - [[InfluenceOfAppearanceOfPreyAnd_1973]]
+
+## Hook and Line Angling
+
+### Summary
+Fishing with a hook and line, the method used by anglers to harvest fish. Hazzard argues it is an inefficient way to remove fish, noting that southern studies found only about half of adult largemouth bass and bluegill could be caught even with heavy fishing and no closed seasons or limits.
+
+### Context
+> Albert S. Hazzard of the [[Institute for Fisheries Research]], [[Michigan Department of Conservation]], argues in this 1948 article (reprinted from *Michigan Conservation*, based on a paper given to the [[Izaak Walton League of America]]) that stocking and habitat improvement are both valid...
+> -- *[[StockingVsEnvironmentalImprove_20743]]*
+
+### Mentioned In
+- [[StockingVsEnvironmentalImprove_20743]]
 
 ## Hook Resistance
 <!-- fm: auto_enriched: true -->
@@ -7684,6 +7946,9 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 > Baker and Paulson describe how the saline, nutrient-rich [[Las Vegas Wash]] inflow forms a [[Density Current]] in [[Las Vegas Bay]], [[Lake Mead]], and how this current controls nutrient availability and [[Phytoplankton]] growth. The current acts as an underflow in winter, an interflow along the...
 > -- *[[InfluenceOfLasVegasWashDensity_17284]]*
 
+> This Colorado State University Cooperative Extension bulletin (issued September 1980, revised February 1983, with 1982 updates) describes the biology, distribution, status and causes of decline of the endangered and threatened fishes of the [[Upper Colorado River Basin]]. It covers five focal...
+> -- *[[EndangeredAndThreatenedFishesO_18138]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -7771,6 +8036,7 @@ The Hoover Dam represents a major hydrological infrastructure project on the Col
 - [[GeneticDiversityOfRazorbackSuc_19113]]
 - [[ReviewOfTheNationalResearchCom_13738]]
 - [[InfluenceOfLasVegasWashDensity_17284]]
+- [[EndangeredAndThreatenedFishesO_18138]]
 
 ## Hoover Dam Ecological Impacts
 <!-- fm: auto_enriched: true -->
@@ -7980,6 +8246,18 @@ Hora was an ichthyologist who made significant contributions to understanding Af
 ### Mentioned In
 - [[TheFreshwaterStreamAComplexEco_1970_01_01]]
 
+## Horicon Marsh
+
+### Summary
+Horicon Marsh is a large, shallow freshwater wetland in Dodge County, Wisconsin, about 14 miles long and 3 to 4 miles wide, on the upper Rock River. The source traces its history through dam building, market hunting, drainage in the 1900s and eventual public restoration beginning in 1921. By about 1952 the state held over 10,000 acres of it, of which only about 6,000 acres in the centre were considered productive.
+
+### Context
+> This 1952 Wisconsin Conservation Department publication (Pub. 350-52, July 1952, manager W. C. Truax) traces the history, condition and management outlook of [[Horicon Marsh]], a large shallow freshwater wetland in Dodge County, Wisconsin. It describes how the marsh was repeatedly altered by dams,...
+> -- *[[HoriconMarshWildlifeAreaItsPas_13402]]*
+
+### Mentioned In
+- [[HoriconMarshWildlifeAreaItsPas_13402]]
+
 ## Hormonal Induction
 <!-- fm: auto_enriched: true -->
 
@@ -8063,9 +8341,13 @@ Horned Pondweed (Zannichellia sp.) is a submerged aquatic plant. This report doc
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This 1948 reprint from *Michigan Conservation* (by C. Troy Yoder, [[Institute for Fisheries Research]], [[Michigan Department Of Conservation]]) describes a legalized method for harvesting bait minnows from designated trout streams using [[Glass Minnow Traps]]. A shortage of bait minnows for...
+> -- *[[UseOfGlassMinnowTrapsInTroutSt_20888]]*
+
 ### Mentioned In
 - [[TheComparativeFoodHabitsOfTheC_1950_07_15]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[UseOfGlassMinnowTrapsInTroutSt_20888]]
 
 ## Horrell Ranch
 
@@ -8162,6 +8444,18 @@ Horse Mesa Dam is located upstream of Mormon Flat Dam on the Salt River and had 
 
 ### Mentioned In
 - [[OperationalPlanForTheReclamati_13373]]
+
+## Horsefall Canyon
+
+### Summary
+Two cattle tanks in the Chiricahua Mountains and the study site for *Rana chiricahuensis*, studied from May 1994. A hydrogen sulfide die-off there in June 1994 reduced 60–80 adults to fewer than 10, with detritus load, low water level, high temperature and low dissolved oxygen implicated.
+
+### Context
+> This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Program Technical Report 121, June 1997, edited by Michael J. Sredl) compiles three linked studies on Arizona's native ranid frogs, chiefly [[Lowland Leopard Frog]] (*Rana yavapaiensis*) and [[Chiricahua Leopard...
+> -- *[[RanidFrogConservationAndManage_11871]]*
+
+### Mentioned In
+- [[RanidFrogConservationAndManage_11871]]
 
 ## Horsepasture River
 <!-- fm: auto_enriched: true -->
@@ -8548,6 +8842,9 @@ A proposed Area of Critical Environmental Concern in the Muleshoe planning area,
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This source is a 1988 [[Fish And Wildlife Service]] (FWS) correspondence packet with two attachments. It covers three linked items: 1. A request to the [[California Department Of Fish And Game]] recovery team for comments on proposed revisions to the [[Colorado Squawfish]] Recovery Plan. The...
+> -- *[[ColoradoSquawfishRecoveryPlan_20997]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
@@ -8558,6 +8855,7 @@ A proposed Area of Critical Environmental Concern in the Muleshoe planning area,
 - [[ColoradoRiverEndangeredFishHat_13665]]
 - [[AStudyToEvaluateSeveralTagging_13901]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[ColoradoSquawfishRecoveryPlan_20997]]
 
 ## Hotchkiss Nfh
 <!-- fm: auto_enriched: true -->
@@ -8926,8 +9224,12 @@ Huachuca Tiger Salamander (Ambystoma mavortium stebbinsi) is a native aquatic sa
 > This document is a formal review letter from the [[Arizona Game And Fish Department]] (AGFD) to the [[Coronado National Forest]] regarding the Bog Hole Renovation Proposal dated July 30, 1992. The letter provides detailed comments on a proposed fish toxicant renovation project at [[Bog Hole]], a...
 > -- *[[LetterReviewOfBogHoleRenovatio_12470]]*
 
+> This document package from the [[Coronado National Forest]] (Sierra Vista Ranger District) comprises a cover letter dated 04/23/92, a project proposal dated March 9, 1992, a draft public comment letter, and a mailing list dated 03/12/92. Together they describe a proposed fish renovation of the...
+> -- *[[BogHoleRenovationProjectPropos_12750]]*
+
 ### Mentioned In
 - [[LetterReviewOfBogHoleRenovatio_12470]]
+- [[BogHoleRenovationProjectPropos_12750]]
 
 ## Huachuca Water Umbel
 <!-- fm: auto_enriched: true -->
@@ -8963,6 +9265,9 @@ The Huachuca Water Umbel appears to be a native aquatic plant species associated
 > This Environmental Assessment evaluates the designation of critical habitat for two threatened cyprinid fishes, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), endemic to the [[Gila River]] basin of Arizona and New Mexico. The document was prepared by the U.S. Fish and...
 > -- *[[DraftEnvironmentalAssessmentDe_11688]]*
 
+> This intra-Service biological opinion from the [[U.S. Fish and Wildlife Service]] (April 15, 1993) evaluates a habitat-restoration project at [[Cottonwood Spring]], Santa Cruz County, Arizona. The project would exclude cattle from a [[Cienega]] and adjacent [[Mesquite Bosque]] along [[Sonoita...
+> -- *[[IntraserviceBiologicalOpinionC_18805]]*
+
 ### Mentioned In
 - [[FishAndWildlifeServiceLetterOn_1994_08_22]]
 - [[IntraServiceSectionBiologicalE_1993_03_26]]
@@ -8974,6 +9279,19 @@ The Huachuca Water Umbel appears to be a native aquatic plant species associated
 - [[AResolutionOfTheBoardOfSupervi_18593]]
 - [[SanBernardinoAndLeslieCanyonNa_11694]]
 - [[DraftEnvironmentalAssessmentDe_11688]]
+- [[IntraserviceBiologicalOpinionC_18805]]
+
+## Huachuca Watersnail
+
+### Summary
+The Huachuca watersnail is a snail that was a Category 1 candidate for federal listing under the Endangered Species Act. The source names it as one of the species the 1992 Cottonwood Spring cooperative agreement aims to benefit, along with the Gila topminnow and Huachuca water umbel, through protection and restoration of cottonwood-willow and cienega wetland habitat.
+
+### Context
+> This intra-Service biological opinion from the [[U.S. Fish and Wildlife Service]] (April 15, 1993) evaluates a habitat-restoration project at [[Cottonwood Spring]], Santa Cruz County, Arizona. The project would exclude cattle from a [[Cienega]] and adjacent [[Mesquite Bosque]] along [[Sonoita...
+> -- *[[IntraserviceBiologicalOpinionC_18805]]*
+
+### Mentioned In
+- [[IntraserviceBiologicalOpinionC_18805]]
 
 ## Huachucas Mountains
 
@@ -9459,10 +9777,14 @@ Hubbs and Lagler (1958) established standardized protocols for morphometric meas
 > Williams and Etnier (1978) describe the Coppercheek Darter, *Etheostoma aquali*, a new species of the subgenus [[Nothonotus]] known only from the [[Duck River]] and [[Buffalo River]], tributaries of the [[Tennessee River]] in central Tennessee. It is most similar to [[Etheostoma maculatum...
 > -- *[[EtheostomaAqualiANewPercidFish_12004]]*
 
+> This 1980 Oregon State University doctoral thesis by Jack Edward Williams treats the [[Gila]] chubs of the endorheic [[Alvord Basin]] in southeastern Oregon and northwestern Nevada. Seventeen localities were surveyed and the populations were found to occupy warm springs, cool springs, creeks,...
+> -- *[[SystematicsAndEcologyOfChubsGi_12016]]*
+
 ### Mentioned In
 - [[TaxonomicMethodsMorphology_1990]]
 - [[TaxonomicStatusEcologyAndDistr_14514]]
 - [[EtheostomaAqualiANewPercidFish_12004]]
+- [[SystematicsAndEcologyOfChubsGi_12016]]
 
 ## Hubbs And Lagler (1949)
 <!-- fm: auto_enriched: true -->
@@ -9552,8 +9874,12 @@ Hubbs and Miller (1972) are the authors who named Gila alvordensis from Trout Cr
 > This document formally describes [[Gila Boraxobius]] (Borax Lake Chub), a new dwarf species of cyprinid fish from [[Borax Lake]], a small spring-fed lake in the [[Alvord Basin]] of southeastern Oregon. The authors compare it morphologically with its closest relative, [[Gila Alvordensis]], known...
 > -- *[[GilaBoraxobiusANewSpeciesOfCyp_12031]]*
 
+> This 1993 research proposal by Christopher R. Reimus describes a planned morphometric study of the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The study aims to quantify how skeletal shape changes with age, body size, and sex, and to provide a baseline that can help resolve long-standing...
+> -- *[[TheEffectsOfAgeSexAndSizeOnMor_16810]]*
+
 ### Mentioned In
 - [[GilaBoraxobiusANewSpeciesOfCyp_12031]]
+- [[TheEffectsOfAgeSexAndSizeOnMor_16810]]
 
 ## Hubbs And Miller 1941
 <!-- fm: auto_enriched: true -->
@@ -9762,8 +10088,12 @@ Hudson Bay is a large body of water in northeastern Canada. The Smallmouth Buffa
 > This technical report presents Habitat Suitability Index (HSI) models for the [[Smallmouth Buffalo]] (*Ictiobus bubalus*), a large freshwater fish native to the [[Mississippi Valley]] and [[Hudson Bay]] drainage systems. The models synthesize literature on habitat requirements and preferences to...
 > -- *[[HabitatSuitabilityIndexModelsS_15767]]*
 
+> This review, authored by G. Padmanabhan of [[North Dakota State University]], examines how [[Interbasin Water Transfer]] schemes move aquatic organisms (fish, invertebrates, bacteria, viruses, and parasites) between drainage basins, with emphasis on [[Biota Transfer]]. The author argues that...
+> -- *[[AReviewOfInterbasinWaterTransf_18377]]*
+
 ### Mentioned In
 - [[HabitatSuitabilityIndexModelsS_15767]]
+- [[AReviewOfInterbasinWaterTransf_18377]]
 
 ## Hudson Bay Drainage
 
@@ -10704,6 +11034,42 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
 > -- *[[PartEndangeredAndThreatenedWil_11733]]*
 
+> This newsletter-style document describes the [[Recovery Implementation Program]] for four rare native fishes of the Upper Colorado River Basin: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail Chub]] and [[Razorback Sucker]]. A cooperative agreement was signed in January 1988 by the Secretary...
+> -- *[[RecoveryImplementationProgramF_15036]]*
+
+> This museum publication, prepared by [[Robert Rush Miller]] (Curator of Fishes, Museum of Zoology, University of Michigan) with contributions credited to Paul C. Marsh, surveys the fishes of [[Dinosaur National Monument]]. Water for fish is supplied mainly by the [[Green River]] and [[Yampa...
+> -- *[[FishesOfDinosaur_15347]]*
+
+> This administrative packet, issued by the [[Fish and Wildlife Service]] (FWS) in November 1990, documents the August 22, 1990 meeting of the [[Recovery Implementation Program]] (RIP) [[Implementation Committee]] for four endangered or rare Upper Colorado River fishes: [[Colorado Squawfish]],...
+> -- *[[ColoradoRiverRecoveryImplement_17881]]*
+
+> This FY 1994 proposal package, prepared under the [[Recovery Implementation Program]] (RIP) for Endangered Fish Species in the Upper Colorado River Basin, describes the second year of a five-year research program on how seasonal releases from [[Flaming Gorge Dam]] (FGD) affect the Green River...
+> -- *[[FyScopeOfWorkFlamingGorgegreen_18016]]*
+
+> This Colorado State University Cooperative Extension bulletin (issued September 1980, revised February 1983, with 1982 updates) describes the biology, distribution, status and causes of decline of the endangered and threatened fishes of the [[Upper Colorado River Basin]]. It covers five focal...
+> -- *[[EndangeredAndThreatenedFishesO_18138]]*
+
+> This field study by Minckley, Carothers, Jordan and Usher (Museum of Northern Arizona) documents the life history, distribution, reproduction, food habits, behavior and decline of the [[Humpback Chub]] (*Gila cypha*), a [[Colorado River Endemic Fish]] listed as endangered by the [[U.S. Fish and...
+> -- *[[ObservationsOnTheHumpbackChubG_18543]]*
+
+> This document is a set of management correspondence from the [[Glen Canyon Environmental Studies]] (GCES) program, dated January 1992. It transmits an external review of the four endangered-fish projects on the [[Humpback Chub]] (*Gila cypha*), organized by [[Wendell Minckley]], and sets out the...
+> -- *[[GlenCanyonEnvironmentalStudies_19716]]*
+
+> This document is a 1967 package from the [[Colorado Cooperative Fishery Unit]] at Colorado State University. It contains a cover letter from [[Robert Behnke]] to Dr. W.L. Minckley, a *Progress Report on the Fishes of Colorado* by [[Hiram W. Li]] and Robert J. Behnke, and a set of Behnke's comments...
+> -- *[[FishesOfColorado_20315]]*
+
+> This document is a formal comment package, dated March 30, 1995, from three state agencies: the [[Arizona Department of Water Resources]], the [[Colorado River Board of California]], and the [[Colorado River Commission of Nevada]]. It responds to the [[U.S. Fish and Wildlife Service]] (USFWS)...
+> -- *[[SpecificCommentsOnTheUsFishAnd_20665]]*
+
+> This document bundles three items: a 5 October 1994 letter from [[Phelps Dodge Corporation]] counsel Jerry O. Worsham II to the [[Arizona Department of Environmental Quality]] (ADEQ), and two excerpts from the draft [[Arizona Comparative Risk Project]] (ACERP) report on streams and rivers by...
+> -- *[[CommentsOnAcerpReport_20843]]*
+
+> This source is a 1988 [[Fish And Wildlife Service]] (FWS) correspondence packet with two attachments. It covers three linked items: 1. A request to the [[California Department Of Fish And Game]] recovery team for comments on proposed revisions to the [[Colorado Squawfish]] Recovery Plan. The...
+> -- *[[ColoradoSquawfishRecoveryPlan_20997]]*
+
+> This is a 1994 U.S. Fish and Wildlife Service (FWS) correspondence package, not a research study. It is a subpermit letter, dated July 18, 1994, from the Regional Director to Dr. W.L. Minckley of [[Arizona State University]]. It authorizes Minckley and named colleagues and graduate assistants to...
+> -- *[[EndangeredSpeciesPermit_21118]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -11259,6 +11625,18 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[AprilManagementGroupMeetingSum_21009]]
 - [[ColoradoRiverManagementGroupMe_21025]]
 - [[PartEndangeredAndThreatenedWil_11733]]
+- [[RecoveryImplementationProgramF_15036]]
+- [[FishesOfDinosaur_15347]]
+- [[ColoradoRiverRecoveryImplement_17881]]
+- [[FyScopeOfWorkFlamingGorgegreen_18016]]
+- [[EndangeredAndThreatenedFishesO_18138]]
+- [[ObservationsOnTheHumpbackChubG_18543]]
+- [[GlenCanyonEnvironmentalStudies_19716]]
+- [[FishesOfColorado_20315]]
+- [[SpecificCommentsOnTheUsFishAnd_20665]]
+- [[CommentsOnAcerpReport_20843]]
+- [[ColoradoSquawfishRecoveryPlan_20997]]
+- [[EndangeredSpeciesPermit_21118]]
 
 ## Humpback Chub Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -11324,6 +11702,15 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 > This 1963 essay by [[Robert R. Miller]], Curator of Fishes at the University of Michigan Museum of Zoology, argues against the widespread use of non-specific chemical toxicants, chiefly [[Rotenone]], in fishery management. Miller contends that "trash fish" eradication programs kill native fishes...
 > -- *[[IsOurNativeUnderwaterLifeWorth_15341]]*
 
+> This completion report from the [[Utah Department of Fish and Game]] (Federal Aid Project F-4-R-6, Job V, covering August 1, 1958 to July 31, 1959) documents pre-impoundment surveys of two river systems slated for reservoir creation: the Colorado River through Glen Canyon, which became [[Lake...
+> -- *[[PreimpoundmentInvestigationsOf_12301]]*
+
+> This museum publication, prepared by [[Robert Rush Miller]] (Curator of Fishes, Museum of Zoology, University of Michigan) with contributions credited to Paul C. Marsh, surveys the fishes of [[Dinosaur National Monument]]. Water for fish is supplied mainly by the [[Green River]] and [[Yampa...
+> -- *[[FishesOfDinosaur_15347]]*
+
+> This document is a 1967 package from the [[Colorado Cooperative Fishery Unit]] at Colorado State University. It contains a cover letter from [[Robert Behnke]] to Dr. W.L. Minckley, a *Progress Report on the Fishes of Colorado* by [[Hiram W. Li]] and Robert J. Behnke, and a set of Behnke's comments...
+> -- *[[FishesOfColorado_20315]]*
+
 ### Mentioned In
 - [[ArthropodsAndVertebratesOfAriz_16220]]
 - [[ChangesInNativeFishDistributio_1973]]
@@ -11339,6 +11726,9 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 - [[FishesNativeToOrIntroducedInPa_18945]]
 - [[DraftsaltRiverSurvey_14100]]
 - [[IsOurNativeUnderwaterLifeWorth_15341]]
+- [[PreimpoundmentInvestigationsOf_12301]]
+- [[FishesOfDinosaur_15347]]
+- [[FishesOfColorado_20315]]
 
 ## Humpback Whale
 <!-- fm: auto_enriched: true -->
@@ -12107,6 +12497,18 @@ Hybopsis x-punctata is the Gravel Chub, described by Hubbs and Crowe in 1956. Th
 ### Mentioned In
 - [[TwoNaturalDarterHybridsInvolvi_1980]]
 
+## Hybrid Non-Metric Multidimensional Scaling
+
+### Summary
+An ordination method, abbreviated HMDS in the source, that arranges samples by similarity in species composition, here using the Kulczynski coefficient. The authors used it alongside TWINSPAN to compare refuge faunas with surface faunas at flow resumption.
+
+### Context
+> This 1992 comparative study, published in the Environment Canada symposium volume *Aquatic Ecosystems in Semi-Arid Regions: Implications for Resource Management*, examines how aquatic macroinvertebrates survive [[Drying Disturbance]] in intermittent streams. The authors compare two [[Werribee...
+> -- *[[OversummeringStategiesOfMacroi_17739]]*
+
+### Mentioned In
+- [[OversummeringStategiesOfMacroi_17739]]
+
 ## Hybrid Sterility
 <!-- fm: auto_enriched: true -->
 
@@ -12176,6 +12578,9 @@ Hybridization in fish science refers to the interbreeding between different spec
 > This document is a cooperative agreement between the [[U.S. Fish and Wildlife Service]] (the Service) and the [[Smithsonian Institution]] to complete Phase I of a three-phase study of the taxonomy and systematics of the [[Humpback Chub]] (*Gila cypha*), the [[Bonytail Chub]] (*Gila elegans*), and...
 > -- *[[CooperativeAgreementBetweenThe_12073]]*
 
+> This 1993 research proposal by Christopher R. Reimus describes a planned morphometric study of the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The study aims to quantify how skeletal shape changes with age, body size, and sex, and to provide a baseline that can help resolve long-standing...
+> -- *[[TheEffectsOfAgeSexAndSizeOnMor_16810]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[DifferentiationInFishesOfTheAm_12774]]
@@ -12188,6 +12593,7 @@ Hybridization in fish science refers to the interbreeding between different spec
 - [[MinutesCuiuiRecoveryTeamMeetin_13867]]
 - [[SpeciesRelationshipsAmongFishe_21162]]
 - [[CooperativeAgreementBetweenThe_12073]]
+- [[TheEffectsOfAgeSexAndSizeOnMor_16810]]
 
 ## Hybridization In Catostomidae
 <!-- fm: auto_enriched: true -->
@@ -12253,6 +12659,18 @@ Genetic mixing between Pecos pupfish and sheepshead minnow (C. variegatus), whic
 
 ### Mentioned In
 - [[DistributionStatusAndConservat_12985]]
+
+## Hybridogenesis
+
+### Summary
+A mode of reproduction in which a hybrid lineage propagates itself by discarding one parental genome and relying on sperm from a parental species. In this source, the all-female hybrid Poeciliopsis monacha-occidentalis reproduces this way and depends on sperm from the parental species, which is absent from the Gila River drainage.
+
+### Context
+> This U.S. Fish and Wildlife Service revised recovery plan (September 1998, prepared by David A. Weedman for Region 2) covers the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), the U.S. subspecies of the [[Sonoran Topminnow]] complex. Both subspecies were listed as endangered in 1967...
+> -- *[[GilaTopminnowPoeciliopsisOccid_19672]]*
+
+### Mentioned In
+- [[GilaTopminnowPoeciliopsisOccid_19672]]
 
 ## Hyde Lake
 <!-- fm: auto_enriched: true -->
@@ -12758,6 +13176,18 @@ Hydroptilidae is a family of caddisflies (Trichoptera) found in the Red Cedar Ri
 
 ### Mentioned In
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
+
+## Hydrostatic Tag
+
+### Summary
+A water-tight transparent plastic tube, 14 inches long, with a stainless steel bridle and a return-instruction message, used to tag catfish. Its specific gravity is close to water, and it was tested on 100 fish in this study. The author estimated 15 to 20 percent of these tags shed within a year, and 21 percent of tagged fish were reported back.
+
+### Context
+> This 1956 report by George W. McCammon (California Department of Fish and Game, Inland Fisheries Branch) describes an exploratory tagging study of [[Channel Catfish]] (*Ictalurus punctatus*) in the lower [[Colorado River]] between [[Parker Dam]] and [[Imperial Dam]], begun in 1953. The fishery was...
+> -- *[[ATaggingExperimentWithChannelC_12244]]*
+
+### Mentioned In
+- [[ATaggingExperimentWithChannelC_12244]]
 
 ## Hydrozoa
 <!-- fm: auto_enriched: true -->
@@ -13365,6 +13795,9 @@ The hyporheic zone is the subsurface region of saturated sediment beneath and ad
 > This draft review by [[Robert J. Naiman]] and [[Henri Decamps]] (University of Washington and CNRS, Toulouse), submitted to the *Annual Review of Ecology and Systematics*, treats [[Riparian Zones]] as a class of ecological interface (ecotone) between terrestrial and aquatic systems. It defines...
 > -- *[[TheEcologyOfInterfacesriparian_19487]]*
 
+> This 1992 comparative study, published in the Environment Canada symposium volume *Aquatic Ecosystems in Semi-Arid Regions: Implications for Resource Management*, examines how aquatic macroinvertebrates survive [[Drying Disturbance]] in intermittent streams. The authors compare two [[Werribee...
+> -- *[[OversummeringStategiesOfMacroi_17739]]*
+
 ### Mentioned In
 - [[ContributionOfTheHyporheicZone_17791]]
 - [[HyporheicSurfaceWaterExchangeI_13668]]
@@ -13375,6 +13808,7 @@ The hyporheic zone is the subsurface region of saturated sediment beneath and ad
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[WhereToFindWaterExpertiseAtSta_13523]]
 - [[TheEcologyOfInterfacesriparian_19487]]
+- [[OversummeringStategiesOfMacroi_17739]]
 
 ## Hyporheos
 <!-- fm: auto_enriched: true -->

@@ -863,6 +863,18 @@ An advisory panel of the Ecological Society of America, chaired by Orie Loucks, 
 ### Mentioned In
 - [[VegetationPanelsScopeOfWork_16204]]
 
+## Vegetation Management Study
+
+### Summary
+The Vegetation Management Study, conducted by the Bureau of Reclamation in 1990, provided consumptive use rates for riparian vegetation used in this model. The source reports rates of 8 ft/yr for Tamarix and 9 ft/yr for Russian olive. The study's rates informed the evapotranspiration estimates for the Bill Williams River riparian zones.
+
+### Context
+> This U.S. Fish and Wildlife Service (USFWS) brief, authored by hydrologist Celina Harshman of the USFWS Division of Water Management, summarizes a groundwater modeling study of the Bill Williams River basin. The study was run with the University of Arizona to examine how the riparian ecosystem of...
+> -- *[[TheHydrologyOfTheBillWilliamsR_20683]]*
+
+### Mentioned In
+- [[TheHydrologyOfTheBillWilliamsR_20683]]
+
 ## Vegetation Removal
 <!-- fm: auto_enriched: true -->
 
@@ -1428,6 +1440,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This U.S. Geological Survey state summary describes stream water quality in Arizona. Data come from 13 monitoring stations. Ten stations are used for conditions in water years 1987-89, and all 13 for trends. Irrigation return flow, mine drainage, sewage effluent, and urban runoff degrade water...
 > -- *[[ArizonaStreamWaterQuality_19603]]*
 
+> This study examines the diet and foraging habitat of the [[Bald Eagle]] (*Haliaeetus leucocephalus*) population breeding along the [[Salt River]] and [[Verde River]] in central Arizona. The population is small and occupies the southern edge of the species' range in a desert riparian setting. Eleven...
+> -- *[[UtilizationOfBenthicfeedingFis_20740]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1582,6 +1597,7 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[RegionIiStreamHabitatSurveyMet_15919]]
 - [[WildlifeConflictsInRiparianMan_17945]]
 - [[ArizonaStreamWaterQuality_19603]]
+- [[UtilizationOfBenthicfeedingFis_20740]]
 
 ## Verde River Aquatic Ecology
 
@@ -2608,6 +2624,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This document is an Arizona State University (ASU) proposal routing and approval packet for a new grant proposal titled *Fish Community Reorganization in a Perturbed Stream, the Virgin River of UT, AZ and NV*. The proposal would be submitted to the [[U.S. Fish & Wildlife Service]] (Albuquerque, NM)...
 > -- *[[ProposalRoutingApprovalFormFor_13793]]*
 
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division Of Wildlife Resources]] (UDWR), reports on conservation activities for the [[Virgin Spinedace]] ([[Lepidomeda Mollispinis]] mollispinis) during Fiscal Year 1995 under the [[Virgin Spinedace Conservation Agreement]]...
+> -- *[[VirginSpinedaceConservationAgr_20260]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -2721,6 +2740,7 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[SpeciesRelationshipsAmongFishe_21162]]
 - [[ProposalRoutingApprovalFormFor_13793]]
+- [[VirginSpinedaceConservationAgr_20260]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -2754,6 +2774,9 @@ The Virgin River Basin is a tri-state aquatic ecosystem spanning Arizona, Utah, 
 > This legal notice from the Sierra Club Legal Defense Fund, dated June 22, 1994, addresses violations of the Endangered Species Act (ESA) related to operation of the [[Quail Creek Reservoir Project]] in the [[Virgin River Basin]], Utah. The document notifies the Secretary of the Interior and Bureau...
 > -- *[[ViolationOfQuailCreekReservoir_18647]]*
 
+> This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
+> -- *[[VirginSpinedaceConservationAgr_20262]]*
+
 ### Mentioned In
 - [[CommentsOnDraftConservationAgr_1994_08_25]]
 - [[CommentsOnVirginSpinedaceConse_1994_12_13]]
@@ -2764,6 +2787,7 @@ The Virgin River Basin is a tri-state aquatic ecosystem spanning Arizona, Utah, 
 - [[VirginSpinedaceListingPackageR_1994_09_08]]
 - [[VirginSpinedaceLepidomedaMolli_14744]]
 - [[ViolationOfQuailCreekReservoir_18647]]
+- [[VirginSpinedaceConservationAgr_20262]]
 
 ## Virgin River Basin Conservation
 <!-- fm: auto_enriched: true -->
@@ -2778,8 +2802,20 @@ The Virgin River Basin is a tri-state aquatic ecosystem spanning Arizona, Utah, 
 > - **Instream Flow Studies**: BLM-led instream flow study (Ron Hooper, Arizona) faced delays; Recovery Team agreed to send inter-agency letters urging completion for use in the [[Virgin River Basin Integrated Resource Management and Recovery Program]].
 > -- *[[VrrtNoticeAndMeetingMinutes_20253]]*
 
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division Of Wildlife Resources]] (UDWR), reports on conservation activities for the [[Virgin Spinedace]] ([[Lepidomeda Mollispinis]] mollispinis) during Fiscal Year 1995 under the [[Virgin Spinedace Conservation Agreement]]...
+> -- *[[VirginSpinedaceConservationAgr_20260]]*
+
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division of Wildlife Resources]] (UDWR), reports on activities and progress under the [[Virgin Spinedace Conservation Agreement]] for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during fiscal year 1996. The...
+> -- *[[VirginSpinedaceConservationAgr_20261]]*
+
+> This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
+> -- *[[VirginSpinedaceConservationAgr_20262]]*
+
 ### Mentioned In
 - [[VrrtNoticeAndMeetingMinutes_20253]]
+- [[VirginSpinedaceConservationAgr_20260]]
+- [[VirginSpinedaceConservationAgr_20261]]
+- [[VirginSpinedaceConservationAgr_20262]]
 
 ## Virgin River chub
 <!-- fm: auto_enriched: true -->
@@ -2863,6 +2899,15 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This draft plan, prepared by the [[Washington County Water Conservancy District]] (WCWCD) and dated January 10, 1995, seeks to reconcile rapid population growth and water development in Washington County, Utah, with protection of threatened and endangered aquatic and riparian species. Washington...
 > -- *[[TheVirginRiverHabitatConservat_14916]]*
 
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division of Wildlife Resources]] (UDWR), reports on activities and progress under the [[Virgin Spinedace Conservation Agreement]] for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during fiscal year 1996. The...
+> -- *[[VirginSpinedaceConservationAgr_20261]]*
+
+> This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
+> -- *[[VirginSpinedaceConservationAgr_20262]]*
+
+> This is a 1994 U.S. Fish and Wildlife Service (FWS) correspondence package, not a research study. It is a subpermit letter, dated July 18, 1994, from the Regional Director to Dr. W.L. Minckley of [[Arizona State University]]. It authorizes Minckley and named colleagues and graduate assistants to...
+> -- *[[EndangeredSpeciesPermit_21118]]*
+
 ### Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -2924,6 +2969,9 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[VirginRiverFishesRecoveryPlan_13186]]
 - [[DraftLowerVirginRiverProjectPr_11483]]
 - [[TheVirginRiverHabitatConservat_14916]]
+- [[VirginSpinedaceConservationAgr_20261]]
+- [[VirginSpinedaceConservationAgr_20262]]
+- [[EndangeredSpeciesPermit_21118]]
 
 ## Virgin River Corridor Area of Critical Environmental Concern
 
@@ -2978,10 +3026,14 @@ The Virgin River Corridor Area of Critical Environmental Concern is a Bureau of 
 > This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
 > -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
 
+> This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
+> -- *[[VirginSpinedaceConservationAgr_20262]]*
+
 ### Mentioned In
 - [[VirginRiverMeetingOf_11186]]
 - [[VirginRiverWoundfinPlanForBroo_16685]]
 - [[FinalDraftEcosystemPlanForTheL_11674]]
+- [[VirginSpinedaceConservationAgr_20262]]
 
 ## Virgin River Fishes Recovery Program
 <!-- fm: auto_enriched: true -->
@@ -3289,6 +3341,15 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 > This draft plan, prepared by the [[Washington County Water Conservancy District]] (WCWCD) and dated January 10, 1995, seeks to reconcile rapid population growth and water development in Washington County, Utah, with protection of threatened and endangered aquatic and riparian species. Washington...
 > -- *[[TheVirginRiverHabitatConservat_14916]]*
 
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division Of Wildlife Resources]] (UDWR), reports on conservation activities for the [[Virgin Spinedace]] ([[Lepidomeda Mollispinis]] mollispinis) during Fiscal Year 1995 under the [[Virgin Spinedace Conservation Agreement]]...
+> -- *[[VirginSpinedaceConservationAgr_20260]]*
+
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division of Wildlife Resources]] (UDWR), reports on activities and progress under the [[Virgin Spinedace Conservation Agreement]] for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during fiscal year 1996. The...
+> -- *[[VirginSpinedaceConservationAgr_20261]]*
+
+> This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
+> -- *[[VirginSpinedaceConservationAgr_20262]]*
+
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AttachedDraftListOfSpeciesAssi_14772]]
@@ -3331,6 +3392,29 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 - [[VirginRiverFishesRecoveryPlan_13186]]
 - [[VirginRiverFishSamplingJanuary_19425]]
 - [[TheVirginRiverHabitatConservat_14916]]
+- [[VirginSpinedaceConservationAgr_20260]]
+- [[VirginSpinedaceConservationAgr_20261]]
+- [[VirginSpinedaceConservationAgr_20262]]
+
+## Virgin Spinedace Conservation Agreement
+
+### Summary
+The Virgin Spinedace Conservation Agreement (VSCA) is a cooperative conservation framework for the Virgin spinedace in the Virgin River Basin. Per this source, it aims to reduce or eliminate significant threats and to enhance or stabilize occupied and unoccupied historic habitat, and this FY1995 assessment reports that all first-year actions under it are on track.
+
+### Context
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division Of Wildlife Resources]] (UDWR), reports on conservation activities for the [[Virgin Spinedace]] ([[Lepidomeda Mollispinis]] mollispinis) during Fiscal Year 1995 under the [[Virgin Spinedace Conservation Agreement]]...
+> -- *[[VirginSpinedaceConservationAgr_20260]]*
+
+> This draft annual assessment, prepared by Jane Perkins of the [[Utah Division of Wildlife Resources]] (UDWR), reports on activities and progress under the [[Virgin Spinedace Conservation Agreement]] for [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) during fiscal year 1996. The...
+> -- *[[VirginSpinedaceConservationAgr_20261]]*
+
+> This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
+> -- *[[VirginSpinedaceConservationAgr_20262]]*
+
+### Mentioned In
+- [[VirginSpinedaceConservationAgr_20260]]
+- [[VirginSpinedaceConservationAgr_20261]]
+- [[VirginSpinedaceConservationAgr_20262]]
 
 ## Virgin Spinedace Conservation Agreement Strategy
 <!-- fm: auto_enriched: true -->
@@ -3486,6 +3570,18 @@ Vishnu Quadrangle is a topographic map by Evans and Matthes that the expedition 
 
 ### Mentioned In
 - [[TheOptomotorReactionOfSchoolin_11406]]
+
+## Visual Encounter Survey
+
+### Summary
+A survey method in which observers count frogs by sight. This report validated VES counts at ten aquatic sites in the Tonto Basin from 1995 to 1997. Detections were common in the activity season, but counts varied between two observers, and zero counts became common in winter.
+
+### Context
+> This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Program Technical Report 121, June 1997, edited by Michael J. Sredl) compiles three linked studies on Arizona's native ranid frogs, chiefly [[Lowland Leopard Frog]] (*Rana yavapaiensis*) and [[Chiricahua Leopard...
+> -- *[[RanidFrogConservationAndManage_11871]]*
+
+### Mentioned In
+- [[RanidFrogConservationAndManage_11871]]
 
 ## Visual Predation In Fish
 <!-- fm: auto_enriched: true -->

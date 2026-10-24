@@ -485,6 +485,24 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This is an administrative packet from the U.S. Fish and Wildlife Service (FWS), Region 6, dated March 29, 1990. It announces an April 25, 1990 meeting of the Management Group of the [[Colorado River Recovery Implementation Committee]]. It contains an agenda, a memo from Program Director John Hamill...
 > -- *[[ColoradoRiverManagementGroupMe_21025]]*
 
+> This newsletter-style document describes the [[Recovery Implementation Program]] for four rare native fishes of the Upper Colorado River Basin: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail Chub]] and [[Razorback Sucker]]. A cooperative agreement was signed in January 1988 by the Secretary...
+> -- *[[RecoveryImplementationProgramF_15036]]*
+
+> This museum publication, prepared by [[Robert Rush Miller]] (Curator of Fishes, Museum of Zoology, University of Michigan) with contributions credited to Paul C. Marsh, surveys the fishes of [[Dinosaur National Monument]]. Water for fish is supplied mainly by the [[Green River]] and [[Yampa...
+> -- *[[FishesOfDinosaur_15347]]*
+
+> This administrative packet, issued by the [[Fish and Wildlife Service]] (FWS) in November 1990, documents the August 22, 1990 meeting of the [[Recovery Implementation Program]] (RIP) [[Implementation Committee]] for four endangered or rare Upper Colorado River fishes: [[Colorado Squawfish]],...
+> -- *[[ColoradoRiverRecoveryImplement_17881]]*
+
+> This Colorado State University Cooperative Extension bulletin (issued September 1980, revised February 1983, with 1982 updates) describes the biology, distribution, status and causes of decline of the endangered and threatened fishes of the [[Upper Colorado River Basin]]. It covers five focal...
+> -- *[[EndangeredAndThreatenedFishesO_18138]]*
+
+> This document is a set of management correspondence from the [[Glen Canyon Environmental Studies]] (GCES) program, dated January 1992. It transmits an external review of the four endangered-fish projects on the [[Humpback Chub]] (*Gila cypha*), organized by [[Wendell Minckley]], and sets out the...
+> -- *[[GlenCanyonEnvironmentalStudies_19716]]*
+
+> This source is a 1988 [[Fish And Wildlife Service]] (FWS) correspondence packet with two attachments. It covers three linked items: 1. A request to the [[California Department Of Fish And Game]] recovery team for comments on proposed revisions to the [[Colorado Squawfish]] Recovery Plan. The...
+> -- *[[ColoradoSquawfishRecoveryPlan_20997]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -633,6 +651,12 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[CooperativeAgreementBetweenThe_12073]]
 - [[AprilManagementGroupMeetingSum_21009]]
 - [[ColoradoRiverManagementGroupMe_21025]]
+- [[RecoveryImplementationProgramF_15036]]
+- [[FishesOfDinosaur_15347]]
+- [[ColoradoRiverRecoveryImplement_17881]]
+- [[EndangeredAndThreatenedFishesO_18138]]
+- [[GlenCanyonEnvironmentalStudies_19716]]
+- [[ColoradoSquawfishRecoveryPlan_20997]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -1036,6 +1060,12 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This document is a U.S. [[Fish And Wildlife Service]] (Service) cover letter and Federal Register notice announcing an extension of the public review and comment period for a [[Draft Recovery Plan]] covering four fishes of the [[Rio Yaqui]] listed under the [[Endangered Species Act]]. The comment...
 > -- *[[ExtensionOfCommentPeriodRioYaq_20898]]*
 
+> This Arizona Game and Fish Department job progress report, prepared under the Federal Aid in Fish Restoration Act (Federal Aid Project F-7-R-17, Job No. VI, Segment 2), documents field surveys of the fishes of [[Leslie Creek]] in summer 1974 and 1975. Leslie Creek is one of the few U.S. aquatic...
+> -- *[[FishesOfLeslieCreekCochiseCoun_18980]]*
+
+> This is a 1994 U.S. Fish and Wildlife Service (FWS) correspondence package, not a research study. It is a subpermit letter, dated July 18, 1994, from the Regional Director to Dr. W.L. Minckley of [[Arizona State University]]. It authorizes Minckley and named colleagues and graduate assistants to...
+> -- *[[EndangeredSpeciesPermit_21118]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -1121,6 +1151,8 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[AgencyReviewDraftYaquiFishesRe_13257]]
 - [[ExtensionOfCommentPeriodRioYaq_20898]]
+- [[FishesOfLeslieCreekCochiseCoun_18980]]
+- [[EndangeredSpeciesPermit_21118]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -1191,6 +1223,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This Comprehensive Management Plan (CMP) covers the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona, and sets a 20-year planning framework for managing both units as elements of a larger "area of ecological concern" centred on...
 > -- *[[DraftSanBernardinoNationalWild_11500]]*
 
+> This one-letter correspondence, dated 19 December 1986, was written by [[David L. Propst]] to [[W.L. Minckley]] of the Department of Zoology, Arizona State University. Propst reports that he, Kevin Bestgen, and Steve Platania sampled [[Gallinas Creek]], a tributary of the [[Rio Mimbres]], the...
+> -- *[[GallinasCreekSampling_18700]]*
+
 ### Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1992_12_07]]
 - [[MemorandumOnDesertFishesRecove_1986_02_20]]
@@ -1201,6 +1236,7 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[MinutesdesertFishesRecoveryTea_13730]]
 - [[LeslieCanyonNationalWildlifeRe_13468]]
 - [[DraftSanBernardinoNationalWild_11500]]
+- [[GallinasCreekSampling_18700]]
 
 ## Yaqui Form Of Longfin Dace
 <!-- fm: auto_enriched: true -->
@@ -1530,6 +1566,12 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This document is a U.S. [[Fish And Wildlife Service]] (Service) cover letter and Federal Register notice announcing an extension of the public review and comment period for a [[Draft Recovery Plan]] covering four fishes of the [[Rio Yaqui]] listed under the [[Endangered Species Act]]. The comment...
 > -- *[[ExtensionOfCommentPeriodRioYaq_20898]]*
 
+> This Arizona Game and Fish Department job progress report, prepared under the Federal Aid in Fish Restoration Act (Federal Aid Project F-7-R-17, Job No. VI, Segment 2), documents field surveys of the fishes of [[Leslie Creek]] in summer 1974 and 1975. Leslie Creek is one of the few U.S. aquatic...
+> -- *[[FishesOfLeslieCreekCochiseCoun_18980]]*
+
+> This U.S. Fish and Wildlife Service revised recovery plan (September 1998, prepared by David A. Weedman for Region 2) covers the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), the U.S. subspecies of the [[Sonoran Topminnow]] complex. Both subspecies were listed as endangered in 1967...
+> -- *[[GilaTopminnowPoeciliopsisOccid_19672]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -1587,6 +1629,8 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[StatusOfTheSonoranTopminnowPoe_17209]]
 - [[AgencyReviewDraftYaquiFishesRe_13257]]
 - [[ExtensionOfCommentPeriodRioYaq_20898]]
+- [[FishesOfLeslieCreekCochiseCoun_18980]]
+- [[GilaTopminnowPoeciliopsisOccid_19672]]
 
 ## Yaqui Watershed
 
@@ -2016,6 +2060,12 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This is a research proposal/grant application to The Nature Conservancy (submitted 15 December 1988) by Principal Investigator W. L. Minckley of Arizona State University. It requests **$3150.00** (matching funds $1050.00; total cost $4200.00) for work running 1 February 1989 to July 1990 at the...
 > -- *[[MovementsOfNativeFishesAndImpa_13762]]*
 
+> This 1956 report by George W. McCammon (California Department of Fish and Game, Inland Fisheries Branch) describes an exploratory tagging study of [[Channel Catfish]] (*Ictalurus punctatus*) in the lower [[Colorado River]] between [[Parker Dam]] and [[Imperial Dam]], begun in 1953. The fishery was...
+> -- *[[ATaggingExperimentWithChannelC_12244]]*
+
+> This Colorado State University master's thesis (Kevin R. Bestgen, Fall 1985) reports a two-year study (December 1982 to December 1984) of the [[Roundtail Chub]] (*Gila robusta*, treated as *G. r. grahami*) in the [[Gila River]] drainage of New Mexico. The study documented historic and present...
+> -- *[[DistributionBiologyAndStatusOf_18205]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -2112,6 +2162,8 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[FishesOfOklahoma_16566]]
 - [[DraftLowerVirginRiverProjectPr_11483]]
 - [[MovementsOfNativeFishesAndImpa_13762]]
+- [[ATaggingExperimentWithChannelC_12244]]
+- [[DistributionBiologyAndStatusOf_18205]]
 
 ## Yellow Creek
 
@@ -2350,6 +2402,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
 > -- *[[ReportOfFisheriesInvestigation_18911]]*
 
+> This 1948 reprint from *Michigan Conservation* (by C. Troy Yoder, [[Institute for Fisheries Research]], [[Michigan Department Of Conservation]]) describes a legalized method for harvesting bait minnows from designated trout streams using [[Glass Minnow Traps]]. A shortage of bait minnows for...
+> -- *[[UseOfGlassMinnowTrapsInTroutSt_20888]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -2451,6 +2506,7 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[FishesOfOklahoma_16566]]
 - [[UtilizationAndSurvivalOfTroutI_16857]]
 - [[ReportOfFisheriesInvestigation_18911]]
+- [[UseOfGlassMinnowTrapsInTroutSt_20888]]
 
 ## Yellow Pikeperch
 <!-- fm: auto_enriched: true -->
@@ -2488,6 +2544,18 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 ### Mentioned In
 - [[AnnualReportArizonaCooperative_1967]]
 - [[LectureNotesFromBiologyClass_13784]]
+
+## Yellow River Basin
+
+### Summary
+The Yellow River Basin is a drainage system in Florida adjacent to the Escambia River Basin. The source names P. rathbunae as the ecological counterpart of P. capillatus in this basin.
+
+### Context
+> This taxonomic paper, published in the *Proceedings of the Biological Society of Washington* (Vol. 84, No. 11, pp. 81-94, 30 June 1971) by Horton H. Hobbs, Jr., of the [[Smithsonian Institution]], describes two new freshwater crayfish species of the genus *Procambarus*. [[Procambarus Capillatus]]...
+> -- *[[NewCrayfishesOfTheGenusProcamb_20418]]*
+
+### Mentioned In
+- [[NewCrayfishesOfTheGenusProcamb_20418]]
 
 ## Yellow Sea
 
@@ -2689,6 +2757,9 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 > This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
 > -- *[[FishesOfNevada_15993]]*
 
+> This document is a 1967 package from the [[Colorado Cooperative Fishery Unit]] at Colorado State University. It contains a cover letter from [[Robert Behnke]] to Dr. W.L. Minckley, a *Progress Report on the Fishes of Colorado* by [[Hiram W. Li]] and Robert J. Behnke, and a set of Behnke's comments...
+> -- *[[FishesOfColorado_20315]]*
+
 ### Mentioned In
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
 - [[ObservationsOnTheLongnoseSucke_1954]]
@@ -2697,6 +2768,7 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[FishesOfNevada_15993]]
+- [[FishesOfColorado_20315]]
 
 ## Yellowstone Drainage
 <!-- fm: auto_enriched: true -->
@@ -2817,8 +2889,12 @@ A marine fish mentioned as one of the species whose tagging work was compared wi
 > This 1956 report by J. B. Kimsey of the [[California Department of Fish and Game]] (Inland Fisheries Branch) evaluates six types of external tags for [[Largemouth Bass]] (*Micropterus salmoides*), tested in the field at [[Clear Lake]] and in aquaria and hatchery ponds. The study was motivated by...
 > -- *[[LargemouthBassTagging_12531]]*
 
+> This 1956 report by George W. McCammon (California Department of Fish and Game, Inland Fisheries Branch) describes an exploratory tagging study of [[Channel Catfish]] (*Ictalurus punctatus*) in the lower [[Colorado River]] between [[Parker Dam]] and [[Imperial Dam]], begun in 1953. The fishery was...
+> -- *[[ATaggingExperimentWithChannelC_12244]]*
+
 ### Mentioned In
 - [[LargemouthBassTagging_12531]]
+- [[ATaggingExperimentWithChannelC_12244]]
 
 ## Yellowtail Flounder
 
@@ -2886,10 +2962,14 @@ A commercially important flounder species managed under ICNAF quotas of 13,000 m
 > This Supplemental Environmental Assessment, prepared by the [[Bureau of Land Management]] Phoenix District Office in May 1984, authorizes the introduction of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius macularius*) into 11 selected...
 > -- *[[IntroductionOfGilaTopminnowAnd_17957]]*
 
+> This draft proposal, dated 6 May 1996, sets out a plan to restore the [[Middle Spring]] (S2) system at the [[Bylas Springs]] complex on the [[San Carlos Apache Reservation]] and to reintroduce [[Gila Topminnow]] of S2 lineage. The authors are staff of the [[U.S. Fish And Wildlife Service]] (Arizona...
+> -- *[[DraftProposalMiddleSpringSAndT_20270]]*
+
 ### Mentioned In
 - [[PupfishPopulationSupplementPeo_1988_09_20]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[IntroductionOfGilaTopminnowAnd_17957]]
+- [[DraftProposalMiddleSpringSAndT_20270]]
 
 ## Yerger 1977
 <!-- fm: auto_enriched: true -->
@@ -2998,6 +3078,18 @@ Yield is the total weight of fish harvested from a population over a specified t
 
 ### Mentioned In
 - [[OccurrenceGrowthAndFoodHabitsO_14072]]
+
+## Yoshiharu Honma
+
+### Summary
+Co-author of this 1995 checklist with Takehiko Kitami, who has published multiple faunal catalogues and fish records for the Sado Island and Niigata waters cited in the source. The source credits him with earlier fish and cetacean reports and with the 1992 colored illustrations of Niigata marine fishes.
+
+### Context
+> This short communication by [[Yoshiharu Honma]] and [[Takehiko Kitami]] extends the faunal inventory of the waters around [[Sado Island]] in the [[Sea of Japan]]. It was published in the [[Report of the Sado Marine Biological Station]] of [[Niigata University]] (No. 25, March 1995, pp. 13–30) and...
+> -- *[[FaunaAndFloraInTheWatersAdjace_19905]]*
+
+### Mentioned In
+- [[FaunaAndFloraInTheWatersAdjace_19905]]
 
 ## Yoshimura
 
@@ -3222,6 +3314,9 @@ Yuma is a city in southwestern Arizona at very low elevation. The lecture notes 
 > This 1904 report from the [[New York Botanical Garden]], published in the *Journal of the New York Botanical Garden*, records a botanical collecting expedition across Texas, Arizona, Sonora, and Baja California. The party surveyed desert vegetation, descended the [[Colorado River]] by sloop from...
 > -- *[[BotanicalExplorationsInTheSout_12961]]*
 
+> This is a first-person travel and hunting reminiscence, not a research paper. The author describes a trip of roughly three weeks down the lower [[Colorado River]] from [[Yuma]] to its mouth and about fifty miles beyond, written to guide future sportsmen. The text covers the best waterfowl habitat...
+> -- *[[SportOnTheLowerColorado_19172]]*
+
 ### Mentioned In
 - [[LectureNotesFromBiologyClass_13784]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
@@ -3230,6 +3325,7 @@ Yuma is a city in southwestern Arizona at very low elevation. The lecture notes 
 - [[FringetoedLizardstheSnowshoeHa_13222]]
 - [[AHuntingTripDownTheColorado_17597]]
 - [[BotanicalExplorationsInTheSout_12961]]
+- [[SportOnTheLowerColorado_19172]]
 
 ## Yuma Area Office
 
@@ -3355,6 +3451,9 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This March 1988 document is the [[Arizona Nongame Strategic Plan]] (1987-1991), prepared under Federal Aid Project FW-11-R by the [[Arizona Game and Fish Department]] (AGFD). It sets policy and five-year goals for the Department's [[Nongame and Endangered Wildlife Program]], which is run through...
 > -- *[[ArizonaNongameStrategicPlans_18278]]*
 
+> This is a 1994 U.S. Fish and Wildlife Service (FWS) correspondence package, not a research study. It is a subpermit letter, dated July 18, 1994, from the Regional Director to Dr. W.L. Minckley of [[Arizona State University]]. It authorizes Minckley and named colleagues and graduate assistants to...
+> -- *[[EndangeredSpeciesPermit_21118]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -3384,6 +3483,7 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[DraftConsesusReportOnTheDraftC_13540]]
 - [[FieldReportNoStudyOfCienegaDeS_16073]]
 - [[ArizonaNongameStrategicPlans_18278]]
+- [[EndangeredSpeciesPermit_21118]]
 
 ## Yuma Clapper Rail Recovery Plan
 

@@ -568,6 +568,9 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This 1974 technical report, prepared by [[Eric S. Gustafson]] and submitted by [[W. L. Minckley]] at the [[Lower Colorado River Basin Research Laboratory]], [[Arizona State University]], to the [[U.S. Fish and Wildlife Service]] Regional Office, evaluates external secondary sex characteristics for...
 > -- *[[SexualDimorphismInTheAdultRazo_17843]]*
 
+> This 1993 research proposal by Christopher R. Reimus describes a planned morphometric study of the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The study aims to quantify how skeletal shape changes with age, body size, and sex, and to provide a baseline that can help resolve long-standing...
+> -- *[[TheEffectsOfAgeSexAndSizeOnMor_16810]]*
+
 ### Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -636,6 +639,7 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[NotesOnTheSpawningOfTheHumpbac_19098]]
 - [[SexualDimorphismInTheAdultRazo_17843]]
+- [[TheEffectsOfAgeSexAndSizeOnMor_16810]]
 
 ## Xyrauchen-Catostomus Hybridization
 <!-- fm: auto_enriched: true -->
