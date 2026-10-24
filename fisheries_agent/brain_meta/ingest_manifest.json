@@ -40,10 +40,10 @@
  },
  "013525c508dff0b4e2b0e9c6baae581e685d2d81e13aed86a735401e03441491": {
   "file": "13851.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 13851 already in library as IntegrationAndEvaluationOfGlen_13851",
   "source_id": "X-013525c5",
-  "status": "failed",
-  "timestamp": "2026-10-24T02:26:43+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "01386f6d99956ffcdeb33d738228d84d86d0cd0512e171a1fca8a740ef26b51b": {
   "citation_source": "minckley-sheet",
@@ -126,10 +126,10 @@
  },
  "023783311f9c53fa32b678cf484026abec9cb23e472d524e7c4eeca6a35092e1": {
   "file": "12334.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 12334 already in library as GeneralLimnologyAndMarineFishe_12334",
   "source_id": "X-02378331",
-  "status": "failed",
-  "timestamp": "2026-10-24T02:16:55+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "024c662d62e763e005a764ac2896211faf00b17f21c12e19b3d89792865df953": {
   "citation_source": "minckley-sheet",
@@ -1374,10 +1374,10 @@
  },
  "17cce81f716eee3e55eaac75191b973d6e94320023cf36987b47ccb83e8555c3": {
   "file": "15733.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 15733 already in library as StatusOfThePecosGambusiaGambus_15733",
   "source_id": "X-17cce81f",
-  "status": "failed",
-  "timestamp": "2026-10-24T06:11:52+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "17e81cc6070647e18f014b08cbc6d2fdf98c96074a7f8613d21f3b8e547145b8": {
   "citation_source": "minckley-sheet",
@@ -2910,10 +2910,10 @@
  },
  "347483a74083576afee9db650ae1d06f7e3abe2ae487928e25e358f30039d4f0": {
   "file": "14412.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 14412 already in library as RemoteSensingMappingOfArizonaI_14412",
   "source_id": "X-347483a7",
-  "status": "failed",
-  "timestamp": "2026-10-24T06:04:28+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "34c48e837784c687d99e1e07e07e1b1a37b7577722c84677ac4426768614fbee": {
   "citation_source": "crossref",
@@ -3842,10 +3842,10 @@
  },
  "46273f80e66b2cd7aa89053b1decdf501e9326f49da94562934e707d8456840e": {
   "file": "20499.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 20499 already in library as TheContemporaryStatusOfTheTwoA_20499",
   "source_id": "X-46273f80",
-  "status": "failed",
-  "timestamp": "2026-10-24T03:04:05+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "462962e68c06dc4885be599426eb586382f5127bded3b35fbea92a64ccfc0ab5": {
   "citation_source": "minckley-sheet",
@@ -3878,10 +3878,10 @@
  },
  "468ef75292e8c6b6ac9c79edee68d4acfaf6047b73c24fe8e8b96747048cf3d7": {
   "file": "17993.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 17993 already in library as GeneralReviewsAndSummariesTrop_17993",
   "source_id": "X-468ef752",
-  "status": "failed",
-  "timestamp": "2026-10-24T06:28:12+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "46bacd53747d01bfc372d676e5dbf0fd055a7102b5dd7ec0107c511a11bc837f": {
   "citation_source": "minckley-sheet",
@@ -5862,10 +5862,10 @@
  },
  "6db6d0aeeb56329ba7fe334371db243fdd91a45d80f38155247944a216aac5db": {
   "file": "20225.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 20225 already in library as SomeObservationsOnMethodsOfSpe_20225",
   "source_id": "X-6db6d0ae",
-  "status": "failed",
-  "timestamp": "2026-10-24T03:00:47+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "6dcbe9dd8f1911d7e00445fd8d995ca3821f4eb669cae010e902e4025db647e9": {
   "citation_source": "llm",
@@ -6156,10 +6156,10 @@
  },
  "766e7edb869d2662aa5c8dd02e62f46369ed0e8ef96de18003a7d76103e7905f": {
   "file": "11939.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 11939 already in library as BiologicalOpinionOnTheProposed_11939",
   "source_id": "X-766e7edb",
-  "status": "failed",
-  "timestamp": "2026-10-24T05:49:57+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "76b8ffe6a3b0d11ee6e70e931e3fbbb6529ee17ca4f6c591e1e0558c3fc3b507": {
   "citation_source": "minckley-sheet",
@@ -6608,10 +6608,10 @@
  },
  "7f05e54eabc827ccf5cbc9e12f57811dbbf3017eb900b4cc7c2acecedffd7d0e": {
   "file": "15024.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 15024 already in library as ResultsOfMarchAndMeetingsConce_15024",
   "source_id": "X-7f05e54e",
-  "status": "failed",
-  "timestamp": "2026-10-24T06:09:31+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "7f2ac05c105a8450206a257be1235d3e9370e23595e6c6420942805f7b35d9d1": {
   "citation_source": "minckley-sheet",
@@ -6642,10 +6642,10 @@
  },
  "800a7898a2d6e928ca8f709625740a77aa9c64e0133fda7cf87a41a352deee03": {
   "file": "16567.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 16567 already in library as OklahomaFishesWithDistribution_16567",
   "source_id": "X-800a7898",
-  "status": "failed",
-  "timestamp": "2026-10-24T06:19:46+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "803217abb5d62a3372504c9d9bbcc22fd3675c36ae60e9a20115e3928a679ea1": {
   "citation_source": "minckley-sheet",
@@ -7160,10 +7160,10 @@
  },
  "8805287281f727095fe0c490e3a1801c950b028d4f42ba76a9dcafe3d289d11d": {
   "file": "12752.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 12752 already in library as BrineShrimp_12752",
   "source_id": "X-88052872",
-  "status": "failed",
-  "timestamp": "2026-10-24T05:54:21+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "88d44f8e66557c32bce2737c031b80ac74eb8c8bb4ca70e18435bd68ef3981b2": {
   "citation_source": "minckley-sheet",
@@ -8649,10 +8649,10 @@
  },
  "a2b837ebc011bb614e1a2c5fec72257574f7558d4b903998cb8ab444915a086c": {
   "file": "18609.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 18609 already in library as TimeTrendsInRiverbedSedimentCo_18609",
   "source_id": "X-a2b837eb",
-  "status": "failed",
-  "timestamp": "2026-10-24T06:35:14+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "a2d2e498fe313b03bdc2d2f5e113c231dbe8a8030e0abe16759118fa40971532": {
   "citation_source": "minckley-sheet",
@@ -8783,10 +8783,10 @@
  },
  "a4ed4b09cdb239d2a20d89b2feed519f8cc3bcc374dc2fd6a46b9634a3965ae8": {
   "file": "19082.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 19082 already in library as InMemoriamMontACazier_19082",
   "source_id": "X-a4ed4b09",
-  "status": "failed",
-  "timestamp": "2026-10-24T02:51:03+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "a4f15386fcc8d6bc0a1f3382c4c04d14e34151f362fd9d0a4bc092ce60511134": {
   "citation_source": "minckley-sheet",
@@ -8840,10 +8840,10 @@
  },
  "a64d5d61d97011d64109e32e0f5aeafb463e7822954e1620b7f18c6a27bc56fa": {
   "file": "12020.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 12020 already in library as LetterToPhilPisterLiteratureOn_12020",
   "source_id": "X-a64d5d61",
-  "status": "failed",
-  "timestamp": "2026-10-24T02:15:27+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "a66327ba6cab3b2feac11ed72a88b349a3e459587036c5703b0924d9b0b12721": {
   "citation_source": "minckley-sheet",
@@ -8986,10 +8986,10 @@
  },
  "a9677f85fb6aaa7a8ad6879a9342fa188ea1d3be3cb1570101b4708385a038cd": {
   "file": "15523.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 15523 already in library as AContributionToTheLifeHistoryO_15523",
   "source_id": "X-a9677f85",
-  "status": "failed",
-  "timestamp": "2026-10-24T02:32:53+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "a96fefcdab074fe3ee8ccb4458f8ac111322f8132f274d0f27a116a5bcf5348c": {
   "citation_source": "minckley-sheet",
@@ -9969,10 +9969,10 @@
  },
  "bd4a6faf542d6fc5d2e039f55911164f67efdd1e9e7ca5205b2d983776757a75": {
   "file": "16402.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 16402 already in library as GrubsInFishes_16402",
   "source_id": "X-bd4a6faf",
-  "status": "failed",
-  "timestamp": "2026-10-24T06:16:44+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "bd6d6ca8d6ade194e7727b132a2559ecb2876a52cbe74252381c90719d5f55b2": {
   "citation_source": "minckley-sheet",
@@ -11585,10 +11585,10 @@
  },
  "d97fbea28ed4639ad4e5c14ef499992af26d1fd75cd3f087f61d0c34cc09c3c1": {
   "file": "13065.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 13065 already in library as ReInformationYouRequestedForFi_13065",
   "source_id": "X-d97fbea2",
-  "status": "failed",
-  "timestamp": "2026-10-24T02:21:36+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "da011ebe6a0245d707fb3b5b4c1c8eea2acef8d9419d3860f0afe7db91c6a9d9": {
   "citation_source": "minckley-sheet",
@@ -12712,10 +12712,10 @@
  },
  "ed5f9dae4c3c328228aeff96385fa7c63c6dcf09745ff7c3fbdb0ececa48970f": {
   "file": "19600.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 19600 already in library as SummaryReportSanCarlosApacheIn_19600",
   "source_id": "X-ed5f9dae",
-  "status": "failed",
-  "timestamp": "2026-10-24T02:58:05+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "ed7605fbf856f06d91e99667074f1c5cf1629c917cec66741583ed29ebf38b29": {
   "citation_source": "minckley-sheet",
@@ -13052,10 +13052,10 @@
  },
  "f3878efc11f41604a560f6a2572c6404d5d74f49f2f2372f36d423f534fb8bdb": {
   "file": "15801.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 15801 already in library as TheFishesOfLakeValenciaCaracas_15801",
   "source_id": "X-f3878efc",
-  "status": "failed",
-  "timestamp": "2026-10-24T06:13:55+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "f391f55606e303e98e3906b9f8ce76ea722f50a69c8476de4f165a27cd2fabc8": {
   "citation_source": "minckley-sheet",
@@ -13480,10 +13480,10 @@
  },
  "fa84589be437c837d2eb40464fa553bb2c2fd9f129f714af27d1120cc95cd4b5": {
   "file": "18581.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "reason": "Minckley ID 18581 already in library as LowerColoradoRiverBaitIndustry_18581",
   "source_id": "X-fa84589b",
-  "status": "failed",
-  "timestamp": "2026-10-24T02:47:23+00:00"
+  "status": "skipped",
+  "timestamp": "2026-10-24T07:12:00+00:00"
  },
  "fb0772b30667237e201567e0fd7e0ced3545cbda48414483e28e04cae002f15f": {
   "citation_source": "minckley-sheet",
