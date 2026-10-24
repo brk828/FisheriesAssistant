@@ -178,6 +178,9 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 > This U.S. Fish and Wildlife Service Biological Opinion (dated April 15, 1994) addresses the transportation and delivery of [[Colorado River]] water through the [[Central Arizona Project]] (CAP) aqueduct to water users in the [[Gila River Basin]] in Arizona and New Mexico. The opinion focuses...
 > -- *[[SummaryBiologicalOpinionOnTran_11705]]*
 
+> This compiled set of U.S. Fish and Wildlife Service (Service) documents, dated roughly 1991–1994, addresses how the [[National Fish Hatchery System]] (NFHS) can better conserve wild stocks, maintain genetic integrity, and propagate threatened and endangered fishes. Central proposals include the...
+> -- *[[ChangingDirectionsOfTheNationa_11656]]*
+
 ### Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -186,6 +189,7 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 - [[TopTenFisheriesActiv_1996_10_14]]
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
+- [[ChangingDirectionsOfTheNationa_11656]]
 
 ## Zebra-tailed Lizard
 
@@ -387,8 +391,17 @@ Zill's Tilapia (Tilapia zilli) is an introduced fish species found in trace amou
 ## Zinc-65
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This document is the second supplement (March 1964) to a selected bibliography on [[Terrestrial and Freshwater Radioecology]], compiled by Alfred W. Klement, Jr. and Vincent Schultz for the U.S. [[Atomic Energy Commission]] Division of Biology and Medicine (TID-3910, Suppl. 2). It is not a research...
+> -- *[[TerrestrialAndFreshwaterRadioe_12563]]*
+
+> This is the third supplement (February 1965) to a selected bibliography of terrestrial and freshwater radioecology, compiled by [[Alfred W. Klement Jr.]] and [[Vincent Schultz]] for the [[United States Atomic Energy Commission]] (AEC), Division of Biology and Medicine (report TID-3910, Suppl. 3)....
+> -- *[[TerrestrialAndFreshwaterRadioe_12564]]*
+
 ### Mentioned In
 - [[RadioactiveMaterialsInAquaticA_13967]]
+- [[TerrestrialAndFreshwaterRadioe_12563]]
+- [[TerrestrialAndFreshwaterRadioe_12564]]
 
 ## Zion Canyon
 
@@ -416,11 +429,27 @@ Zion Canyon is one of the steep-walled, narrow canyons that characterize the Vir
 > This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
 > -- *[[DraftConservationAgreementVirg_18320]]*
 
+> This report, organized and edited by [[Wendell L. Minckley]] at Arizona State University (17 February 1997), compiles five independent reviews prepared for the Western Water Policy Review Advisory Commission. Each review examines one component of western aquatic systems and concludes that these...
+> -- *[[AquaticEcosystemSymposiumARepo_15847]]*
+
 ### Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
 - [[VirginSpinedaceLepidomedaMolli_14744]]
 - [[DraftConservationAgreementVirg_18320]]
+- [[AquaticEcosystemSymposiumARepo_15847]]
+
+## Zion Power Station
+
+### Summary
+A thermal power plant on Lake Michigan that the report lists among major intake installations using capped, gallery, and inverted-cone offshore intakes, the last with an air screen. The report notes that operating experience at these intakes is limited.
+
+### Context
+> This report compiles concept designs, operating experience, and screening technologies used in the United States to protect fish at water intakes. It was prepared under the 1974 US/USSR Agreement on Thermal Power Plant Heat Rejection and Water Supply Systems, which required the exchange of fish...
+> -- *[[FishProtectiveDevicesACompilat_11796]]*
+
+### Mentioned In
+- [[FishProtectiveDevicesACompilat_11796]]
 
 ## Zirahuén
 <!-- fm: auto_enriched: true -->
@@ -587,6 +616,18 @@ Zoogeography in fish science refers to the study of how fish species are distrib
 ### Mentioned In
 - [[TheCichlidFishesOfTheGenusTris_1960_12_30]]
 
+## Zoogoneticus
+
+### Summary
+A genus of small viviparous Goodeid fishes that Meek established as new in this paper. The source describes new species in it, including Zoogoneticus diazi and Zoogoneticus miniatus, and lists Zoogoneticus robustus among the study's species. Its members belong to the Goodeidae, where the source notes most species bear live young.
+
+### Context
+> This 1902 taxonomic and faunal report by [[Seth Eugene Meek]], published as Field Columbian Museum Publication 65 (Zoological Series, Vol. III, No. 6), presents results of a fish collecting expedition across Mexico in April to June 1901. The collection, made with [[Frank Eugene Lutz]], was...
+> -- *[[AContributionToTheIcthyologyOf_12369]]*
+
+### Mentioned In
+- [[AContributionToTheIcthyologyOf_12369]]
+
 ## Zoological Laboratory of Indiana University
 
 ### Summary
@@ -637,6 +678,18 @@ The Zoological Survey of Saudi Arabia is a systematic animal inventory project t
 ### Mentioned In
 - [[AcademicallyCorrectBiologicalS_13183]]
 
+## Zoology Department, Oklahoma State University
+
+### Summary
+The university department that ran the refinery effluent toxicity bioassay program in Oklahoma from February 1957, as described in this 1959 report. It operated the traveling trailer laboratory and tested samples on campus, and its staff raised the pond-reared minnows used as test organisms.
+
+### Context
+> This 1959 report, reprinted from the Second Seminar on Biological Problems in Water Pollution, summarizes a toxicity bioassay program on oil refinery effluents in Oklahoma. The program was funded by the Oklahoma Oil Refiners' Waste Control Council and run by the [[Zoology Department, Oklahoma State...
+> -- *[[ToxicityBioassayOfOilRefineryE_19066]]*
+
+### Mentioned In
+- [[ToxicityBioassayOfOilRefineryE_19066]]
+
 ## Zooplanktivory
 <!-- fm: auto_enriched: true -->
 
@@ -680,6 +733,12 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This graduate thesis, submitted to the Graduate College in the Department of Biological Sciences with a major in fisheries management, compares the diets of four [[Centrarchidae]] fishes in [[Blanca Lake]]: [[Largemouth Bass]], [[Black Crappie]], [[Green Sunfish]], and [[Bluegill]]. The study...
 > -- *[[CentrarchidFeedingInteractions_18244]]*
 
+> This job completion report from the [[New Mexico State Game Commission]] documents a fish population survey of [[Bluewater Lake]] in August 1955, the subsequent treatment of the lake and its inflowing streams with [[Rotenone]] in October 1955, and post-treatment monitoring and [[Rainbow Trout]]...
+> -- *[[BluewaterLakeRehabilitation_14527]]*
+
+> This Master of Science thesis in fishery biology, written by [[Steven Alan Lewis]] at the [[University of Arizona]], examines how [[Mechanical Evaporation Barriers]] affect [[Fish Growth]] and overall [[Pond Productivity]]. Four experiments were run: a spring [[Trout]] experiment, a summer...
+> -- *[[SomeEffectsOfMechanicalEvapora_20305]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -698,6 +757,8 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[InfluenceOfMolybdenumOnTheTrou_17593]]
 - [[SportFishProductionAndProducti_20981]]
 - [[CentrarchidFeedingInteractions_18244]]
+- [[BluewaterLakeRehabilitation_14527]]
+- [[SomeEffectsOfMechanicalEvapora_20305]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->

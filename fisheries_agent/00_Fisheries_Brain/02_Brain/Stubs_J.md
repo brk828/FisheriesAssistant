@@ -507,9 +507,13 @@ Jacob Corwin Blumer (1872-1947) was a Swiss-born botanist who conducted extensiv
 > This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
 > -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
 
+> This 1988 U.S. Fish and Wildlife Service (FWS) memorandum from the [[Regional Office]] of [[Region 2]] (Albuquerque, NM) transfers day-to-day lead responsibility for endangered, threatened, and candidate species from the regional office to individual [[Ecological Services Field Stations]] and...
+> -- *[[ReassignmentOfEndangeredSpecie_11826]]*
+
 ### Mentioned In
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[ReassignmentOfEndangeredSpecie_11826]]
 
 ## Jalisco
 <!-- fm: auto_enriched: true -->
@@ -582,6 +586,12 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 > This Bureau of Reclamation booklet (prepared by Wayne O. Deason, Environmental Office, Lower Colorado Region) reproduces, often word for word, sheets from the U.S. Fish and Wildlife Service "Red Book" (*Threatened Wildlife of the United States*, 1973 edition). Its purpose is to help Reclamation...
 > -- *[[RegionalInformationSummaryOfTh_12740]]*
 
+> This bundle of documents concerns the forthcoming volume *Battle Against Extinction: Native Fish Management in the American West*, edited by [[W.L. Minckley]] and [[James E. Deacon]] for the [[University of Arizona Press]]. The volume is a symposium-derived compilation on declines and extinctions...
+> -- *[[ManuscriptAppraisalForWlMinckl_11437]]*
+
+> This [[National Park Service]] research proposal, submitted by [[James E. Deacon]] (principal investigator) and [[Eric S. Gustafson]] (graduate student) at the [[University of Nevada Las Vegas]], asks whether diel (daily) oxygen variation is needed for normal embryonic development and hatching in...
+> -- *[[ResearchProposalOutlineEffects_11729]]*
+
 ### Mentioned In
 - [[CommentsOnTheVirginRiverHabita_1995_02_14]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -593,6 +603,8 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 - [[TheBioticCommunitiesOfSouthern_12880]]
 - [[FaunaFarewellLegacyOfEnvironme_12623]]
 - [[RegionalInformationSummaryOfTh_12740]]
+- [[ManuscriptAppraisalForWlMinckl_11437]]
+- [[ResearchProposalOutlineEffects_11729]]
 
 ## James Ellsworth DeKay
 
@@ -628,6 +640,18 @@ James Elser is one of the experts listed under the Keywords chapter's Fish entry
 ### Mentioned In
 - [[LetterRegardingReviewOfPopulat_1990_12_17]]
 
+## James J. Cooper
+
+### Summary
+James J. Cooper of the Bioresources Center, Desert Research Institute, is the author of this 1983 study of fish distribution in the Pit River System of northeastern California. The source reports that his survey was conducted for the U.S. Bureau of Reclamation to assess the proposed Allen Camp Reservoir's effects on Modoc sucker and rough sculpin habitat.
+
+### Context
+> This 1983 study by [[James J. Cooper]] (Bioresources Center, Desert Research Institute) surveys fish distribution in the [[Pit River]] and its tributaries between Turner and Juniper creeks in northeastern California, based on fieldwork in summer and fall 1978. The survey found native fishes...
+> -- *[[DistributionalEcologyOfNativeA_17570]]*
+
+### Mentioned In
+- [[DistributionalEcologyOfNativeA_17570]]
+
 ## James P. Collins
 <!-- fm: auto_enriched: true -->
 
@@ -655,6 +679,18 @@ The James River is a major Atlantic Slope drainage system in Virginia that serve
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
 - [[EstimatingTheProbabilityThatHi_1998]]
+
+## James Stevenson
+
+### Summary
+A co-author of the 1958 report on gizzard shad removal in Lake Hamilton, affiliated with the University of Little Rock. He wrote the report with Andrew H. Hulsey.
+
+### Context
+> This report describes a 1957 rotenone treatment of [[Lake Hamilton]], a 7,200-acre reservoir near [[Hot Springs]], Arkansas, undertaken to reduce an overpopulation of [[Gizzard Shad]] and [[Freshwater Drum]]. The control was recommended by a three-year comparative fisheries survey and was carried...
+> -- *[[GizzardShadRemovalInLakeHamilt_14509]]*
+
+### Mentioned In
+- [[GizzardShadRemovalInLakeHamilt_14509]]
 
 ## James W. Moffett
 
@@ -1112,6 +1148,18 @@ Jeff Davis County is a Texas county where Gammarus hyalelloides occurs at Phanto
 ### Mentioned In
 - [[TheGammaruspecosComplexCrustac_16002]]
 
+## Jeff Hershler
+
+### Summary
+Jeff Hershler is a malacologist at the Smithsonian Institution and co-author of this systematic paper on western American hydrobiid snails. He worked with Fred G. Thompson on the anatomical study of Tryonia and related genera.
+
+### Context
+> This systematic paper by [[Jeff Hershler]] and [[Fred G. Thompson]] (Smithsonian Institution and Florida State Museum) examines the anatomy of small freshwater snails of the family [[Hydrobiidae]] from western North America. The authors focus on two predominant southwestern genera, [[Tryonia]] and...
+> -- *[[WesternAmericanHydrobiidaeGast_16713]]*
+
+### Mentioned In
+- [[WesternAmericanHydrobiidaeGast_16713]]
+
 ## Jeff Howland
 <!-- fm: auto_enriched: true -->
 
@@ -1234,6 +1282,18 @@ The Jemez River basin (HUC8: 13020202) in north-central New Mexico contains the 
 
 ### Mentioned In
 - [[ObservationsOnSpawningAndBreed_1976_06_11]]
+
+## Jenkins and Morris
+
+### Summary
+Authors of a 1979 study whose predictions the report uses as a reference point. Based on their predictions, the report projected a seven-fold increase in fish harvest at Calamus Reservoir as the fishery developed, against which the baseline creel data are compared.
+
+### Context
+> This Bureau of Reclamation technical report (R-92-14, October 1992) by Davine Lieberman documents a two-year limnological study (April 1989 to May 1991) of [[Calamus Reservoir]], a young impoundment created by [[Calamus Dam]] on the Calamus River in the Sand Hills of central Nebraska. The reservoir...
+> -- *[[LimnologyOfAPrairieReservoirAN_11701]]*
+
+### Mentioned In
+- [[LimnologyOfAPrairieReservoirAN_11701]]
 
 ## Jenkins Lachner And Schwartz 1972
 <!-- fm: auto_enriched: true -->
@@ -1491,8 +1551,13 @@ Jim Sedell is a stream ecologist associated with the Pacific Northwest (PNW) reg
 ## Jim Woodruff Dam
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1967 study by Laurence and Yerger (Florida State University) reports the first detailed life-history data for the [[Alabama Shad]], a Gulf coast anadromous clupeid about which knowledge was "almost nonexistent." Adults were sampled on their 1966 spawning run in the [[Apalachicola River]]...
+> -- *[[LifeHistoryStudiesOfTheAlabama_20199]]*
+
 ### Mentioned In
 - [[AFreshwaterMolluskSurveyOfNort_15956]]
+- [[LifeHistoryStudiesOfTheAlabama_20199]]
 
 ## Jmsg
 <!-- fm: auto_enriched: true -->
@@ -3029,6 +3094,18 @@ Juncus (rushes) are obligate wetland species that occur in wet fluvial marshes i
 ### Mentioned In
 - [[TransitionMonitoringForRiparia_17903]]
 - [[NotesFromFieldWorkInTheCuatroc_12737]]
+
+## June Lake
+
+### Summary
+A high-elevation glacial lake (7,612 ft) in central Mono County, California, within the Mono National Forest. The source describes it as roughly 310 acres with a steep rocky shoreline and rush margins, and it had no natural trout reproduction, so its fishery relied on hatchery stocking. The 1939-1942 creel study was conducted here.
+
+### Context
+> This 1943 report by Elden H. Vestal, of the California Division of Fish and Game, evaluates the yield of [[Hatchery Stocking]] programs at [[June Lake]], a high-elevation glacial lake in Mono County. From May 1939 through 1942, the study used intensive [[Creel Census]] methods and [[Fish Marking]]...
+> -- *[[CreelReturnsFromHatcheryTroutI_13125]]*
+
+### Mentioned In
+- [[CreelReturnsFromHatcheryTroutI_13125]]
 
 ## June Sucker
 <!-- fm: auto_enriched: true -->

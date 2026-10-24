@@ -4,6 +4,18 @@ letter: O
 ---
 # Concept Stubs: O
 
+## O'Brien et al. 1990
+
+### Summary
+A 1990 genetic study of Florida panthers that identified two stocks: a Big Cypress stock representing the historic subspecies and an Everglades stock carrying South American mtDNA and an APRT-B allele. The source notes the Big Cypress animals showed high inbreeding signs, and the likely source of the Everglades lineage was captive stock and 1950s–1960s releases.
+
+### Context
+> This document is an internal, pre-decisional package from the [[U.S. Fish and Wildlife Service]] (FWS) on how the [[Endangered Species Act]] (ESA) should treat hybrids. It contains a draft National Policy Issuance, a draft Federal Register notice, a November 1990 working group report, and a series...
+> -- *[[ReviewOfDraftPolicyProtectionO_11697]]*
+
+### Mentioned In
+- [[ReviewOfDraftPolicyProtectionO_11697]]
+
 ## O'Donnell And Churchill (1954)
 <!-- fm: auto_enriched: true -->
 
@@ -220,11 +232,15 @@ Oak Ridge is a location in Tennessee that houses the Oak Ridge National Laborato
 > This doctoral thesis investigates the population characteristics of [[Smallmouth Buffalo]] (*Ictiobus bubalus*) in [[Watts Bar Reservoir]] and the [[Clinch River]], Tennessee, focusing on age distribution, growth rates, dispersion, and radionuclide accumulation. The study analyzed 1,271...
 > -- *[[GrowthAndMovementOfSmallmouthB_17077]]*
 
+> This is the third supplement (February 1965) to a selected bibliography of terrestrial and freshwater radioecology, compiled by [[Alfred W. Klement Jr.]] and [[Vincent Schultz]] for the [[United States Atomic Energy Commission]] (AEC), Division of Biology and Medicine (report TID-3910, Suppl. 3)....
+> -- *[[TerrestrialAndFreshwaterRadioe_12564]]*
+
 ### Mentioned In
 - [[AccumulationAndRetentionOfRadi_1957]]
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
 - [[GrowthAndMovementOfSmallmouthB_17077]]
+- [[TerrestrialAndFreshwaterRadioe_12564]]
 
 ## Oasis Valley
 
@@ -460,6 +476,18 @@ The Ocean University of Qingdao is the school from which Gao Lianyong earned his
 ### Mentioned In
 - [[RequestToStudyAtArizonaStateUn_20318]]
 
+## Oceanic Skipjack
+
+### Summary
+The oceanic skipjack (Katsuwonus pelamis) is a pelagic tuna that lives far from shore. In this source, its remains are part of the evidence for Chumash offshore fishing, and the author cites Landberg (1965) for its seasonal occurrence mainly from July to October. The source points to its presence at both sites in the context of tunalike remains that the author attributes to Chumash canoes.
+
+### Context
+> This appendix by W. I. Follett reports the identified fish remains from [[LAn-229]], a [[Chumash]] archaeological site on the [[Century Ranch Sites]] in western Los Angeles County. The collection of 574 specimens, mostly vertebrae in fragmentary condition, yielded at least 19 species in 18 genera...
+> -- *[[FishRemainsFromCenturyRanchSit_18766]]*
+
+### Mentioned In
+- [[FishRemainsFromCenturyRanchSit_18766]]
+
 ## Ocelot
 <!-- fm: auto_enriched: true -->
 
@@ -476,10 +504,14 @@ The Ocean University of Qingdao is the school from which Gao Lianyong earned his
 > This document is the third edition Planning Bulletin for [[Buenos Aires National Wildlife Refuge]] (NWR) in [[Pima County]], [[Arizona]], presenting the draft master plan for public review in 1986. The refuge's primary mission is recovery of the endangered [[Masked Bobwhite Quail]] (*Colinus...
 > -- *[[PlanningEffortNearItsConclusio_11515]]*
 
+> This 1988 U.S. Fish and Wildlife Service (FWS) memorandum from the [[Regional Office]] of [[Region 2]] (Albuquerque, NM) transfers day-to-day lead responsibility for endangered, threatened, and candidate species from the regional office to individual [[Ecological Services Field Stations]] and...
+> -- *[[ReassignmentOfEndangeredSpecie_11826]]*
+
 ### Mentioned In
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[PlanningEffortNearItsConclusio_11515]]
+- [[ReassignmentOfEndangeredSpecie_11826]]
 
 ## Ochetobius Elongatus
 <!-- fm: auto_enriched: true -->
@@ -961,6 +993,18 @@ The legal office within an agency that provides legal opinions. The Forest reque
 
 ### Mentioned In
 - [[PigeonCreekLakeProject_20727]]
+
+## Offshore Intake
+
+### Summary
+An intake design in which the inlet is set apart from the pump well by a closed conduit, used where shorelines shift or surf and siltation are strong. The report discusses several offshore installations.
+
+### Context
+> This report compiles concept designs, operating experience, and screening technologies used in the United States to protect fish at water intakes. It was prepared under the 1974 US/USSR Agreement on Thermal Power Plant Heat Rejection and Water Supply Systems, which required the exchange of fish...
+> -- *[[FishProtectiveDevicesACompilat_11796]]*
+
+### Mentioned In
+- [[FishProtectiveDevicesACompilat_11796]]
 
 ## Ogallala Formation
 
@@ -1824,8 +1868,12 @@ Oligochaeta are a group of sedentary aquatic invertebrates, particularly oligoch
 > This 1966 study (Dingell-Johnson Project F-18-R) uses scales to determine age and growth of [[Largemouth Bass]], [[Smallmouth Bass]], [[Bluegill]] and [[Red-ear Sunfish]] in [[Folsom Lake]] during the first 7 years after impoundment (1955-1961). Largemouth bass grew slightly faster than smallmouth...
 > -- *[[TheAgeAndGrowthOfCentrarchidFi_13538]]*
 
+> This report presents the 1962 results of a joint [[California Department of Fish and Game]] and [[Nevada Fish and Game Commission]] creel census on [[Lake Tahoe]]. The census estimated total angler use at 144,147 angler-hours (47,732 angler-days), equal to 1.2 angler-hours per surface acre. The...
+> -- *[[TroutCatchAndAnglerUseAtLakeTa_12122]]*
+
 ### Mentioned In
 - [[TheAgeAndGrowthOfCentrarchidFi_13538]]
+- [[TroutCatchAndAnglerUseAtLakeTa_12122]]
 
 ## Oligotrophic Loughs
 <!-- fm: auto_enriched: true -->
@@ -1844,6 +1892,30 @@ Oliva incrassata is a gastropod mollusk found at Puerto Peñasco. This field gui
 
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
+
+## Oliva oblonga
+
+### Summary
+Oliva oblonga is an olive snail that is the southern member of a paraprovincial pair with Oliva reticularis. It is restricted to the south of the Caribbean boundary and is most prevalent along northern South America. The source notes that it occupies the same kinds of environments as its northern partner.
+
+### Context
+> This Proceedings of the Biological Society of Washington paper by [[Edward J. Petuch]] (1982) introduces **paraprovincialism**, a biogeographic pattern in which congeneric species pairs occupy mutually exclusive ranges that meet along sharply defined boundaries. Petuch argues that these pairs are...
+> -- *[[ParaprovincialismRemnantsOfPal_11207]]*
+
+### Mentioned In
+- [[ParaprovincialismRemnantsOfPal_11207]]
+
+## Oliva reticularis
+
+### Summary
+Oliva reticularis is an olive snail that is the northern member of a paraprovincial pair with Oliva oblonga. It is found only north of the Leeward Islands. The source says it occurs in shallow, sandy areas of the northern Caribbean and Greater Antilles.
+
+### Context
+> This Proceedings of the Biological Society of Washington paper by [[Edward J. Petuch]] (1982) introduces **paraprovincialism**, a biogeographic pattern in which congeneric species pairs occupy mutually exclusive ranges that meet along sharply defined boundaries. Petuch argues that these pairs are...
+> -- *[[ParaprovincialismRemnantsOfPal_11207]]*
+
+### Mentioned In
+- [[ParaprovincialismRemnantsOfPal_11207]]
 
 ## Oliva spicata
 
@@ -1934,6 +2006,18 @@ Smithsonian Institution entomologist and the author of this 1971 taxonomic revis
 
 ### Mentioned In
 - [[StudiesOfNeotropicalCaddisFlie_16467]]
+
+## Olivia and Caroline Phelps Stokes Fund
+
+### Summary
+The Olivia and Caroline Phelps Stokes Fund funded essay prizes on preserving wild plants that are noted at the end of this 1905 report. The source lists prize amounts of $25, $15 and $10 and essay deadlines, but does not describe the Fund's wider activities.
+
+### Context
+> This 1905 report by [[D. T. MacDougal]], Assistant Director of the [[New York Botanical Garden]], describes a spring botanical expedition down the [[Colorado River]] from northern Arizona to the [[Gulf of California]]. The party collected living cacti and other plants, herbarium specimens and...
+> -- *[[BotanicalExplorationsInTheSout_12962]]*
+
+### Mentioned In
+- [[BotanicalExplorationsInTheSout_12962]]
 
 ## Ollentodon
 
@@ -2387,6 +2471,18 @@ Ondatra zibethicus (muskrat) is an aquatic mammal identified as occurring in the
 ### Mentioned In
 - [[LiteratureReviewAndImpactRepor_14988]]
 
+## Oneida Fish Hatchery
+
+### Summary
+The Oneida Fish Hatchery is a New York fish hatchery whose personnel collected smallmouth bass in May using trapnets. They held the fish in hatchery ponds for spawning and released them in early June, which was part of the Oneida Lake tagging program.
+
+### Context
+> This compiled journal issue contains three items. The first is only a literature-cited page from a [[Canvasback]] distribution and mortality study. The second is a full research paper by John L. Forney on the growth, movements, survival and exploitation of [[Smallmouth Bass]] in [[Oneida Lake]],...
+> -- *[[GrowthMovementsAndSurvivalOfSm_18781]]*
+
+### Mentioned In
+- [[GrowthMovementsAndSurvivalOfSm_18781]]
+
 ## Oneida Lake
 <!-- fm: auto_enriched: true -->
 
@@ -2409,6 +2505,9 @@ Ondatra zibethicus (muskrat) is an aquatic mammal identified as occurring in the
 > This 1956 article from the *New York State Conservationist* by Chief Aquatic Biologist John R. Greeley reviews the [[Sea Lamprey]] (*Petromyzon marinus*) and related lampreys in New York. It argues that New York's lamprey situation is less acute than the crisis in the upper [[Great Lakes]], where...
 > -- *[[TheLampreyInNewYorkWaters_19217]]*
 
+> This compiled journal issue contains three items. The first is only a literature-cited page from a [[Canvasback]] distribution and mortality study. The second is a full research paper by John L. Forney on the growth, movements, survival and exploitation of [[Smallmouth Bass]] in [[Oneida Lake]],...
+> -- *[[GrowthMovementsAndSurvivalOfSm_18781]]*
+
 ### Mentioned In
 - [[AnElectricalSurfaceDeviceForCa_16181]]
 - [[ChangingChemicalAndBiologicalC_12793]]
@@ -2418,6 +2517,7 @@ Ondatra zibethicus (muskrat) is an aquatic mammal identified as occurring in the
 - [[TheUseOfSedativesToReduceManip_20686]]
 - [[TheAgeAndGrowthOfCentrarchidFi_13538]]
 - [[TheLampreyInNewYorkWaters_19217]]
+- [[GrowthMovementsAndSurvivalOfSm_18781]]
 
 ## Oniscidae
 
@@ -2612,6 +2712,30 @@ Oocystis pusilla is a green algae species that dominated the phytoplankton commu
 
 ### Mentioned In
 - [[DesmosomesInTheFollicularEpith_1964_06_11]]
+
+## Opaleye
+
+### Summary
+The Opaleye (Girella simplicans) is a fish the key uses to illustrate basic external anatomy of a spiny-rayed fish. Terms such as spiny and soft dorsal fins, lateral line, and caudal peduncle are shown on it.
+
+### Context
+> This document is a provisional "working key" by Donald A. Thomson and William H. Eger (Department of Zoology, University of Arizona, July 1964) for identifying 66 fish families likely to occur in the shallow inshore waters of the [[Upper Gulf of California]], between [[Guaymas]] and [[Puerto...
+> -- *[[KeyToTheFamiliesOfTheInshoreTe_13333]]*
+
+### Mentioned In
+- [[KeyToTheFamiliesOfTheInshoreTe_13333]]
+
+## Open Ditch Effluent Passage
+
+### Summary
+The movement of refinery effluent through open ditches or streams, which usually produced rapid improvement in water quality. Examples included a 3.7-mile ditch traversed in 16 to 20 hours, and typical changes were lower pH, alkalinity, sulfides and phenols, and higher dissolved oxygen.
+
+### Context
+> This 1959 report, reprinted from the Second Seminar on Biological Problems in Water Pollution, summarizes a toxicity bioassay program on oil refinery effluents in Oklahoma. The program was funded by the Oklahoma Oil Refiners' Waste Control Council and run by the [[Zoology Department, Oklahoma State...
+> -- *[[ToxicityBioassayOfOilRefineryE_19066]]*
+
+### Mentioned In
+- [[ToxicityBioassayOfOilRefineryE_19066]]
 
 ## Open Water Creel Census
 
@@ -2878,6 +3002,18 @@ Ophiothrix spiculata is a brittle star characterized by very long arm spines and
 ### Mentioned In
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
 
+## Oplegnathus fasciatus
+
+### Summary
+Oplegnathus fasciatus is the striped beakperch, a species of the family Oplegnathidae. In this source, a specimen from Toyooka, Ryotsu City, lost most of its dorsal region and showed irregular healing of the dorsal ridge and cross bands.
+
+### Context
+> This short report by [[Yoshiharu Honma]] documents six anomalies in six specimens: five bony fishes collected around [[Sado Island]] and one cartilaginous fish (a skate) from off Naoetsu on the western Niigata coast of the [[Sea of Japan]]. The specimens were examined macroscopically and, where...
+> -- *[[DropletsFromTheSadoMarineBiolo_19899]]*
+
+### Mentioned In
+- [[DropletsFromTheSadoMarineBiolo_19899]]
+
 ## Opossum Shrimp
 <!-- fm: auto_enriched: true -->
 
@@ -2948,6 +3084,18 @@ Optical Character Recognition (OCR) is software that converts images of printed 
 
 ### Mentioned In
 - [[UdallPutsCentralArizonaProject_14402]]
+
+## Optical Method
+
+### Summary
+The optical method is the second particle-sizing technique used in the study. It gave larger median sizes than sedimentation, at 3 µm for kaolin and 17.5 µm for diatomaceous earth. The authors noted that it cannot detect particles under about 1 to 2 µm, which helps explain the difference between the two methods.
+
+### Context
+> This laboratory study by D. W. M. Herbert and J. C. Merkens, of the [[Water Pollution Research Laboratory]] in Stevenage, tested whether inert mineral particles held in suspension at relatively low concentrations (30 to 810 p.p.m.) harm [[Rainbow Trout]] directly. Two commercial solids were used,...
+> -- *[[TheEffectOfSuspendedMineralSol_16698]]*
+
+### Mentioned In
+- [[TheEffectOfSuspendedMineralSol_16698]]
 
 ## Optimal Foraging Theory
 <!-- fm: auto_enriched: true -->
@@ -4094,11 +4242,15 @@ Organochlorine pesticides are synthetic chlorine-containing compounds historical
 > - **Water**: Endrin detected at 0.04 ppm (June 25) declining to non-detectable by ~1 month post-spray (July 24, "0.00" ppm); peak reported concentration equivalent to ~40 ppb four days after spraying. - **Mud**: Endrin persisted far longer than in water — detected as late as August 21 (0.35 ppm) ...
 > -- *[[DisappearanceOfEndrinFromFishA_12936]]*
 
+> This document is a [[Biological Opinion]] issued by the [[Fish and Wildlife Service]] under Section 7 consultation of the [[Endangered Species Act]]. It evaluates the effects of proposed long-term operating procedures for the [[Newlands Project]] in western Nevada on two protected species: the...
+> -- *[[BaldEagle_13866]]*
+
 ### Mentioned In
 - [[BiologicalMagnificationAndDegr_1971]]
 - [[DdtMetabolismInToler_1966]]
 - [[DisappearanceOfEndrinFromFishA_12936]]
 - [[SizeRelatedFactorsAssociatedWi_13891]]
+- [[BaldEagle_13866]]
 
 ## Organophosphate Pesticides
 <!-- fm: auto_enriched: true -->
@@ -4131,8 +4283,13 @@ Organpipe National Monument is a protected area relevant to Desert Pupfish conse
 ## Oriental Goby
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This document is not a research study. It is the closing reference section (printed pages 1109–1271) of a larger review of California fishes and aquatic ecosystems. It lists several thousand alphabetically ordered citations, from Aasen (1998) to Young (1994). The entries cover fish taxonomy, life...
+> -- *[[ReferencesForNdEditionOfInland_15457]]*
+
 ### Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
+- [[ReferencesForNdEditionOfInland_15457]]
 
 ## Oriental Realm
 
@@ -4445,6 +4602,18 @@ ORSTOM was the French overseas scientific research institute, now known as IRD. 
 ### Mentioned In
 - [[ObservationsOnTheFishesOfTheGe_1909_12_08]]
 
+## Orthogenesis
+
+### Summary
+Orthogenesis is the idea that evolution follows a directed course governed by internal laws of the organism rather than by external selection alone. The author follows Stammer (1959) in describing the *Dryops* series this way. He ultimately rejects autonomous developmental forces without a physiological basis, favouring selection-based explanations.
+
+### Context
+> This paper, presented by [[August Wilhelm Steffan]] at the XI International Congress of Entomology (Vienna, 1960), analyses the phylogeny of the beetle genus [[Dryops]] (family [[Dryopidae]]). The genus contains 35 species according to Bollow (1938, 1939). Based on micromorphology of male...
+> -- *[[PhylogenetischeTrendsInDerGatt_14751]]*
+
+### Mentioned In
+- [[PhylogenetischeTrendsInDerGatt_14751]]
+
 ## Orthophosphate
 
 ### Summary
@@ -4468,6 +4637,18 @@ Orthopodomyia is a mosquito genus whose eggs are laid singly in damp humus or ab
 
 ### Mentioned In
 - [[TheMosquitoesOfIllinoisDiptera_21083]]
+
+## Orthoselection
+
+### Summary
+Orthoselection is a form of directional selection that the author proposes as the cause of the observed trends. In this paper, it acts during directional colonisation of new habitats and works on traits linked to dispersal. The author admits that identifying the primary target of selection would require genetic experiments.
+
+### Context
+> This paper, presented by [[August Wilhelm Steffan]] at the XI International Congress of Entomology (Vienna, 1960), analyses the phylogeny of the beetle genus [[Dryops]] (family [[Dryopidae]]). The genus contains 35 species according to Bollow (1938, 1939). Based on micromorphology of male...
+> -- *[[PhylogenetischeTrendsInDerGatt_14751]]*
+
+### Mentioned In
+- [[PhylogenetischeTrendsInDerGatt_14751]]
 
 ## Oryzias
 
@@ -4663,6 +4844,9 @@ Osmeridae is a family of small, silvery forage fishes characterized by the prese
 > This document comprises two related reports from the Lake Powell Fisheries Project (Utah Division of Wildlife Resources, 1987): (1) an assessment of forage fish needs in [[Lake Powell]] and (2) a formal proposal to introduce [[Rainbow Smelt]] (*Osmerus mordax*) as a deepwater forage species. [[Lake...
 > -- *[[AssessmentOfTheNeedForForageEn_17853]]*
 
+> This 1925 taxonomic paper by [[Carl L Hubbs]] revises the smelt family [[Osmeridae]] in the North Pacific. Based on examination of nearly all osmerid material preserved in American museums, Hubbs presents a dichotomous key to the genera and species, reassesses the validity of several named forms,...
+> -- *[[ARevisionOfTheOsmeridFishesOfT_19980]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[FreshwaterFishesOfTheEasternAr_18569]]
@@ -4672,6 +4856,19 @@ Osmeridae is a family of small, silvery forage fishes characterized by the prese
 - [[WesternRangeExtensionOfTheSurf_1968]]
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[AssessmentOfTheNeedForForageEn_17853]]
+- [[ARevisionOfTheOsmeridFishesOfT_19980]]
+
+## Osmerus dentex
+
+### Summary
+A Pacific smelt occurring from the northern coast of Alaska to Japan that spawns in streams. Hubbs found it differs from the Atlantic smelt mainly in gill-raker count and anal fin height, and in the posterior reach of the upper jaw.
+
+### Context
+> This 1925 taxonomic paper by [[Carl L Hubbs]] revises the smelt family [[Osmeridae]] in the North Pacific. Based on examination of nearly all osmerid material preserved in American museums, Hubbs presents a dichotomous key to the genera and species, reassesses the validity of several named forms,...
+> -- *[[ARevisionOfTheOsmeridFishesOfT_19980]]*
+
+### Mentioned In
+- [[ARevisionOfTheOsmeridFishesOfT_19980]]
 
 ## Osmerus Mordax
 <!-- fm: auto_enriched: true -->
@@ -4695,6 +4892,9 @@ Osmerus mordax, commonly known as rainbow smelt, is a small euryhaline teleost f
 > This biological opinion addresses the February 12, 1991 request by the [[Bureau of Reclamation]] for formal consultation under Section 7 of the [[Endangered Species Act]] regarding delivery of [[Central Arizona Project]] (CAP) water to the [[Gila River Basin]] in Arizona and New Mexico. The...
 > -- *[[TransportationAndDeliveryOfCen_11638]]*
 
+> This 1925 taxonomic paper by [[Carl L Hubbs]] revises the smelt family [[Osmeridae]] in the North Pacific. Based on examination of nearly all osmerid material preserved in American museums, Hubbs presents a dichotomous key to the genera and species, reassesses the validity of several named forms,...
+> -- *[[ARevisionOfTheOsmeridFishesOfT_19980]]*
+
 ### Mentioned In
 - [[SexRatiosAquaticAnimals_13946]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
@@ -4702,6 +4902,7 @@ Osmerus mordax, commonly known as rainbow smelt, is a small euryhaline teleost f
 - [[TroutFishingAtCliffPondBrewste_15489]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[TransportationAndDeliveryOfCen_11638]]
+- [[ARevisionOfTheOsmeridFishesOfT_19980]]
 
 ## Osmerus Mordax Mordax
 <!-- fm: auto_enriched: true -->
@@ -5088,6 +5289,30 @@ Ostrea conchaphila is a bivalve species (oyster) found at Puerto Peñasco, Sonor
 ### Mentioned In
 - [[AFurtherStudyOfTheToxicityOfPo_16689]]
 
+## Otala Lactea
+
+### Summary
+The milk or Spanish snail, a land snail locally introduced to several U.S. states and South Carolina. The source says it has not become an important agricultural pest, and it can estivate high on trees and buildings, forming a double operculum that helps it tolerate extreme heat and cold.
+
+### Context
+> This 1970 U.S. Fish and Wildlife Service publication (Resource Publication 91, by Lola T. Dees) reviews nine species of [[Edible Land Snails]] introduced to the United States for food. The author concludes that most of these introductions have been problematic. Several species damage gardens and...
+> -- *[[EdibleLandSnailsInTheUnitedSta_12755]]*
+
+### Mentioned In
+- [[EdibleLandSnailsInTheUnitedSta_12755]]
+
+## Otala Vermiculata
+
+### Summary
+A land snail that was introduced locally into New Orleans, where it was first seen in 1918. The source reports it has not been collected there since, so its present status is unclear.
+
+### Context
+> This 1970 U.S. Fish and Wildlife Service publication (Resource Publication 91, by Lola T. Dees) reviews nine species of [[Edible Land Snails]] introduced to the United States for food. The author concludes that most of these introductions have been problematic. Several species damage gardens and...
+> -- *[[EdibleLandSnailsInTheUnitedSta_12755]]*
+
+### Mentioned In
+- [[EdibleLandSnailsInTheUnitedSta_12755]]
+
 ## Otero County
 
 ### Summary
@@ -5394,9 +5619,14 @@ A bottom trawling method using an otter board to keep the net open while towed. 
 ## Ouachita River
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This report describes a 1957 rotenone treatment of [[Lake Hamilton]], a 7,200-acre reservoir near [[Hot Springs]], Arkansas, undertaken to reduce an overpopulation of [[Gizzard Shad]] and [[Freshwater Drum]]. The control was recommended by a three-year comparative fisheries survey and was carried...
+> -- *[[GizzardShadRemovalInLakeHamilt_14509]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[EtheostomaRadiosumOrangebellyD_1986]]
+- [[GizzardShadRemovalInLakeHamilt_14509]]
 
 ## Ouachita Rock Pocketbook
 
@@ -5595,6 +5825,12 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This source is a 1988 [[Fish And Wildlife Service]] (FWS) correspondence packet with two attachments. It covers three linked items: 1. A request to the [[California Department Of Fish And Game]] recovery team for comments on proposed revisions to the [[Colorado Squawfish]] Recovery Plan. The...
 > -- *[[ColoradoSquawfishRecoveryPlan_20997]]*
 
+> This U.S. Fish and Wildlife Service report, prepared by David B. Irving and Bob D. Burdick for the [[Recovery Implementation Program]] for Endangered Fishes, inventories and prioritizes flooded bottomland habitats believed important for recovery of endangered fishes, especially [[Razorback...
+> -- *[[ReconnaissanceInventoryAndPrio_14383]]*
+
+> This manuscript (Ms. no. 95-130 in peer review at the [[Great Basin Naturalist]]) by [[Timothy Modde]] of the [[Colorado River Fishery Project]] (U.S. Fish and Wildlife Service) reports the occurrence of subadult [[Razorback Sucker]] in the [[Green River]] and [[Yampa River]] and examines whether...
+> -- *[[OccurrenceOfSubadultRazorbackS_16531]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -5618,6 +5854,8 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[AnnualReportRecoveryProgramFor_11678]]
 - [[RequestForReviewOfDraftFyWorkP_19638]]
 - [[ColoradoSquawfishRecoveryPlan_20997]]
+- [[ReconnaissanceInventoryAndPrio_14383]]
+- [[OccurrenceOfSubadultRazorbackS_16531]]
 
 ## Ouray Reach
 
@@ -5631,9 +5869,25 @@ Ouray Reach is a study site at river mile 1 on the White River, characterized as
 > This first-draft conceptual framework document, prepared by [[Robert T. Muth]] at the [[Larval Fish Laboratory]] ([[Colorado State University]]), outlines a standardized, long-term monitoring program to evaluate restoration activities for the federally endangered [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[DevelopmentOfAStandardizedMoni_15549]]*
 
+> This annual report from the [[Colorado River Fishes Recovery Program]] (Recovery Program Project 18-2, dated December 10, 1993) describes the second-to-last field season of a study on how [[Colorado Squawfish]] (*Ptychocheilus lucius*) nursery habitat forms and persists in the [[Green River]] below...
+> -- *[[YearFlamingGorgeFlowRecommenda_20257]]*
+
 ### Mentioned In
 - [[CompletionReportYampawhitePhys_18677]]
 - [[DevelopmentOfAStandardizedMoni_15549]]
+- [[YearFlamingGorgeFlowRecommenda_20257]]
+
+## Ouray Refugia Facility
+
+### Summary
+The Ouray Refugia Facility is a fish refugia site associated with the Upper Colorado River endangered fishes recovery effort. This source notes that the facility needs operation and maintenance (O&M) funding, and that its funding is one of the water and habitat management topics the Management Committee discussed.
+
+### Context
+> This administrative packet from the [[Recovery Program]] for the Endangered Fishes of the Upper Colorado River Basin includes the final summary of the November 26, 1990 [[Management Committee]] meeting, its attendee and assignment lists, a calendar of events for January to August 1991, and a...
+> -- *[[NovemberManagementCommitteeMee_21033]]*
+
+### Mentioned In
+- [[NovemberManagementCommitteeMee_21033]]
 
 ## Ouray Wildlife Refuge
 
@@ -5691,6 +5945,18 @@ Places where aquatic macroinvertebrates persist through the dry period, such as 
 ### Mentioned In
 - [[MeetingSummaryColoradoRiverTec_1989_03_30]]
 
+## Overfall Type Fishway
+
+### Summary
+A fishway in which water passes from pool to pool mainly over notched weirs or chutes, with small drainage orifices near the baffle bottoms. The source keeps the drop per pool to a maximum of one foot and lists rectangular, V-notch and Cipoletti weirs as possible notch shapes.
+
+### Context
+> This 1956 pamphlet, Pamphlet No. 5 of the [[Inland Fisheries and Game Department]] (Maine), sets out the Department's policy on [[Fishway]] (fish ladder) construction, operation and function. Written by Chief Engineer [[Laurence Decker]], it explains why fishways are needed to restore fish...
+> -- *[[FishwaysInMaine_12745]]*
+
+### Mentioned In
+- [[FishwaysInMaine_12745]]
+
 ## Overfishing
 <!-- fm: auto_enriched: true -->
 
@@ -5698,9 +5964,13 @@ Places where aquatic macroinvertebrates persist through the dry period, such as 
 > - The document is a **planning and correspondence record**, not a data-bearing scientific paper; it should be treated as **metadata about the genesis of a conservation document**, not as a source of empirical fish biology. - The proposed **Global Action Plan for Freshwater Fishes** was structured...
 > -- *[[GlobalActionPlanForFreshwaterF_1993_05_05]]*
 
+> This U.S. Fish and Wildlife Service, Bureau of Commercial Fisheries leaflet (Fishery Leaflet 526, September 1961, by Lola T. Dees) is a general overview of the [[Sturgeon]] family, Acipenseridae. It covers morphology, life history, feeding, reproduction, behavior, the causes of population decline,...
+> -- *[[Sturgeons_12753]]*
+
 ### Mentioned In
 - [[GlobalActionPlanForFreshwaterF_1993_05_05]]
 - [[TheControlOfPopulationDensityT_1959]]
+- [[Sturgeons_12753]]
 
 ## Overflow Wetlands Wildlife Habitat Area
 <!-- fm: auto_enriched: true -->
@@ -5779,6 +6049,18 @@ Overton Arm is one of the four major sections of Lake Mead reservoir. The study 
 
 ### Mentioned In
 - [[DraftLowerVirginRiverProjectPr_11483]]
+
+## Ovipositor
+
+### Summary
+The ovipositor is the egg-laying organ of female insects. The paper reports that in *Yrdops*, primitive species have well-developed ovipositors, some species lack them, and the most advanced species have weak, slender ones that are probably no longer functional. The author notes that male genital complexity does not correlate clearly with female structures in *Dryops* s.str.
+
+### Context
+> This paper, presented by [[August Wilhelm Steffan]] at the XI International Congress of Entomology (Vienna, 1960), analyses the phylogeny of the beetle genus [[Dryops]] (family [[Dryopidae]]). The genus contains 35 species according to Bollow (1938, 1939). Based on micromorphology of male...
+> -- *[[PhylogenetischeTrendsInDerGatt_14751]]*
+
+### Mentioned In
+- [[PhylogenetischeTrendsInDerGatt_14751]]
 
 ## Ovis Canadensis
 <!-- fm: auto_enriched: true -->
@@ -5922,6 +6204,12 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 > This Bureau of Reclamation booklet (prepared by Wayne O. Deason, Environmental Office, Lower Colorado Region) reproduces, often word for word, sheets from the U.S. Fish and Wildlife Service "Red Book" (*Threatened Wildlife of the United States*, 1973 edition). Its purpose is to help Reclamation...
 > -- *[[RegionalInformationSummaryOfTh_12740]]*
 
+> This document is not a research study. It is the closing reference section (printed pages 1109–1271) of a larger review of California fishes and aquatic ecosystems. It lists several thousand alphabetically ordered citations, from Aasen (1998) to Young (1994). The entries cover fish taxonomy, life...
+> -- *[[ReferencesForNdEditionOfInland_15457]]*
+
+> *At the Crossroads* is the January 1972 inaugural report of the [[California Department of Fish and Game]] (DFG) to Governor Ronald Reagan on the state's endangered and rare fish and wildlife. It was prepared under the [[California Species Preservation Act]] of 1970 and the [[California Endangered...
+> -- *[[AtTheCrossroadsAReportOnCalifo_20214]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
@@ -5941,6 +6229,8 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[StatusOfTheInlandAquaticAndSem_12694]]
 - [[RegionalInformationSummaryOfTh_12740]]
+- [[ReferencesForNdEditionOfInland_15457]]
+- [[AtTheCrossroadsAReportOnCalifo_20214]]
 
 ## Owens River
 <!-- fm: auto_enriched: true -->
@@ -6472,6 +6762,9 @@ The Ozark Cavefish is a rare, endemic freshwater species inhabiting isolated cav
 > This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
 > -- *[[PartEndangeredAndThreatenedWil_11733]]*
 
+> This document is Appendix I of a U.S. Fish and Wildlife Service (FWS) guide to preparing [[Recovery Plan]]s for species listed under the Endangered Species Act. It sets out the required title page, disclaimer, executive summary, plan outline, introduction, recovery criteria, narrative outline,...
+> -- *[[AppendixIRecoveryPlanFormat_13274]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
@@ -6479,6 +6772,7 @@ The Ozark Cavefish is a rare, endemic freshwater species inhabiting isolated cav
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[PartEndangeredAndThreatenedWil_11597]]
 - [[PartEndangeredAndThreatenedWil_11733]]
+- [[AppendixIRecoveryPlanFormat_13274]]
 
 ## Ozark Faunal Group
 <!-- fm: auto_enriched: true -->

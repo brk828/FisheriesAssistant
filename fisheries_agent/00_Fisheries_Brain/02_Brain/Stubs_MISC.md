@@ -112,6 +112,12 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This is a draft summary, circulated by a US Fish and Wildlife Service (FWS) Region 6 program director on May 5, 1989, of a two-day Management Group meeting of the Colorado River Recovery Implementation Program. The Program aims to recover endangered Colorado River fishes: [[Colorado Squawfish]],...
 > -- *[[AprilManagementGroupMeetingSum_21009]]*
 
+> This bundle of 1989 correspondence covers the [[Upper Colorado River Endangered Fish Recovery Program]]. It includes the draft summary of the September 13, 1989 [[Management Group]] meeting, the meeting agenda, the November 9, 1989 agenda, a memo on the [[15-Mile Reach]] gage, the adopted motion on...
+> -- *[[ManagementGroupMeeting_21017]]*
+
+> This administrative packet from the [[Recovery Program]] for the Endangered Fishes of the Upper Colorado River Basin includes the final summary of the November 26, 1990 [[Management Committee]] meeting, its attendee and assignment lists, a calendar of events for January to August 1991, and a...
+> -- *[[NovemberManagementCommitteeMee_21033]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -124,6 +130,20 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[SummaryaprilManagementGroupMee_20995]]
 - [[FyAnnualProjectReportColoradoR_21154]]
 - [[AprilManagementGroupMeetingSum_21009]]
+- [[ManagementGroupMeeting_21017]]
+- [[NovemberManagementCommitteeMee_21033]]
+
+## 15-Mile Reach Gage
+
+### Summary
+A streamflow gage planned for the Colorado River 15-Mile Reach to measure water supplied for endangered fish flows. The source says Reclamation provided $20,000 for it in the 1990 budget. Four candidate sites were studied in August 1989, and the Management Group approved a site immediately below the Orchard Mesa Power Plant, with the Survey to supply installation and maintenance cost estimates.
+
+### Context
+> This bundle of 1989 correspondence covers the [[Upper Colorado River Endangered Fish Recovery Program]]. It includes the draft summary of the September 13, 1989 [[Management Group]] meeting, the meeting agenda, the November 9, 1989 agenda, a memo on the [[15-Mile Reach]] gage, the adopted motion on...
+> -- *[[ManagementGroupMeeting_21017]]*
+
+### Mentioned In
+- [[ManagementGroupMeeting_21017]]
 
 ## 18-Mile Reach
 

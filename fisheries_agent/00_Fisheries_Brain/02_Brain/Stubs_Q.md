@@ -161,6 +161,9 @@ Quail Creek is a tributary confluence point and critical sampling location on th
 > This field report documents emergency fish sampling conducted 07-08 January 1989 along the [[Virgin River]] (Arizona-Nevada-Utah) immediately following the catastrophic failure of [[Quail Creek Reservoir]] dike on 01 January 1989. Personnel from [[Arizona State University]] (ASU) and [[University...
 > -- *[[VirginRiverFishSamplingJanuary_19425]]*
 
+> This BIO/WEST report (PR-197-1, January 1991), prepared with the [[Utah Division of Wildlife Resources]] (UDWR), assesses the distribution, abundance and threats facing the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a fish endemic to the [[Virgin River Drainage]]. Field work by...
+> -- *[[StatusOfTheVirginSpinedaceLepi_13652]]*
+
 ### Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
@@ -170,6 +173,7 @@ Quail Creek is a tributary confluence point and critical sampling location on th
 - [[ViolationOfQuailCreekReservoir_18647]]
 - [[VirginRiverFishesRecoveryPlan_13186]]
 - [[VirginRiverFishSamplingJanuary_19425]]
+- [[StatusOfTheVirginSpinedaceLepi_13652]]
 
 ## Quail Creek Dam
 <!-- fm: auto_enriched: true -->

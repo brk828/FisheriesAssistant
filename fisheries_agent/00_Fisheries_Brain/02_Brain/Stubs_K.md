@@ -50,6 +50,18 @@ Kaeding and Zimmerman (1982, 1983) are Arizona Game and Fish Department studies 
 ### Mentioned In
 - [[PredationByIntroducedFishesOnE_1997]]
 
+## Kahili Award
+
+### Summary
+The Kahili Award is given annually by the Hawaiʻi Visitors Bureau in 13 categories. Gray Line Hawaii's "Aloha in Motion" initiative won it in 1993 and 1994. The article cites the award as recognition of the company's tourism work.
+
+### Context
+> This 1995 magazine feature, with a dining advertising supplement, describes the growth of [[Ecotourism]] in Hawaiʻi. It argues that visitors increasingly want meaningful, low-impact experiences of the environment and culture rather than only sun and surf, and that tourism itself has begun to stress...
+> -- *[[EcotourismTheNewWaveOfTravel_12560]]*
+
+### Mentioned In
+- [[EcotourismTheNewWaveOfTravel_12560]]
+
 ## Kaibab Lake
 <!-- fm: auto_enriched: true -->
 
@@ -131,6 +143,18 @@ The Kalamazoo River is a major river drainage system in Michigan to which two of
 ### Mentioned In
 - [[ARecordOfAGreatSiberianSturgeo_1994]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
+
+## Kamchatka
+
+### Summary
+A peninsula in the Russian Far East that lies within the North Pacific range of several smelt species discussed here. Hubbs reports Petropavlovsk material from Kamchatka as belonging to Hypomesus japonicus.
+
+### Context
+> This 1925 taxonomic paper by [[Carl L Hubbs]] revises the smelt family [[Osmeridae]] in the North Pacific. Based on examination of nearly all osmerid material preserved in American museums, Hubbs presents a dichotomous key to the genera and species, reassesses the validity of several named forms,...
+> -- *[[ARevisionOfTheOsmeridFishesOfT_19980]]*
+
+### Mentioned In
+- [[ARevisionOfTheOsmeridFishesOfT_19980]]
 
 ## Kamloop Trout
 <!-- fm: auto_enriched: true -->
@@ -565,8 +589,12 @@ Kaolin is a type of clay mineral used in industrial processes. This study refere
 > This 1963 study by Herbert and Richards investigated the effects of suspended industrial solids on [[Rainbow Trout]] (Oncorhynchus mykiss) and [[Brown Trout]] (Salmo trutta) through laboratory experiments and field surveys. Laboratory tests examined survival and growth of yearling rainbow trout...
 > -- *[[TheGrowthAndSurvivalOfFishInSo_16699]]*
 
+> This laboratory study by D. W. M. Herbert and J. C. Merkens, of the [[Water Pollution Research Laboratory]] in Stevenage, tested whether inert mineral particles held in suspension at relatively low concentrations (30 to 810 p.p.m.) harm [[Rainbow Trout]] directly. Two commercial solids were used,...
+> -- *[[TheEffectOfSuspendedMineralSol_16698]]*
+
 ### Mentioned In
 - [[TheGrowthAndSurvivalOfFishInSo_16699]]
+- [[TheEffectOfSuspendedMineralSol_16698]]
 
 ## Kaolinite
 
@@ -731,6 +759,18 @@ Kasetsart University is a research institution in Bangkok, Thailand. In this sou
 ### Mentioned In
 - [[FishAndWildlifeServiceNoticeOf_11728]]
 
+## Kaskaskia River
+
+### Summary
+The Kaskaskia River is an Illinois river used here for comparison. The author noted that fish yield in the Kaskaskia was appreciably higher than in the Sangamon, even though plankton in the Sangamon was abundant enough to enter fish food chains.
+
+### Context
+> This Illinois Natural History Survey bulletin by [[Samuel Eddy]] (published November 1931) examines how a [[Sewage Treatment Plant]] at Springfield and the [[Lake Decatur]] impoundment at Decatur have changed the abundance and composition of [[Plankton]] in the [[Sangamon River]]. Collections were...
+> -- *[[ThePlanktonOfTheSangamonRiverI_15758]]*
+
+### Mentioned In
+- [[ThePlanktonOfTheSangamonRiverI_15758]]
+
 ## Katherine
 <!-- fm: auto_enriched: true -->
 
@@ -851,6 +891,18 @@ Kawazu is a researcher mentioned in this 1967 literature review on water polluti
 
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
+
+## Kayak Kauaʻi Outfitters
+
+### Summary
+Kayak Kauaʻi Outfitters is a Hanalei, Kauaʻi business founded 11 years before the article by brothers Micco and Chino Godinez. By the time of the article it had grown to 150 kayaks, 15 employees and two stores. It runs sea kayak trips along the Napali Coast and the South Shore.
+
+### Context
+> This 1995 magazine feature, with a dining advertising supplement, describes the growth of [[Ecotourism]] in Hawaiʻi. It argues that visitors increasingly want meaningful, low-impact experiences of the environment and culture rather than only sun and surf, and that tourism itself has begun to stress...
+> -- *[[EcotourismTheNewWaveOfTravel_12560]]*
+
+### Mentioned In
+- [[EcotourismTheNewWaveOfTravel_12560]]
 
 ## Kayler Spring
 <!-- fm: auto_enriched: true -->
@@ -982,6 +1034,18 @@ Kelp bass is a nearshore reef fish of the California coast that supports a recre
 
 ### Mentioned In
 - [[AnAnnotatedBibliographyOfResea_14741]]
+
+## Kelp Beds
+
+### Summary
+Kelp beds are nearshore underwater forests of large brown algae along the Pacific coast. The source notes that the kelp beds and adjacent waters provide the habitat where most of the near-shore species in the assemblage are found. They are therefore central to the interpretation of local fishing grounds.
+
+### Context
+> This appendix by W. I. Follett reports the identified fish remains from [[LAn-229]], a [[Chumash]] archaeological site on the [[Century Ranch Sites]] in western Los Angeles County. The collection of 574 specimens, mostly vertebrae in fragmentary condition, yielded at least 19 species in 18 genera...
+> -- *[[FishRemainsFromCenturyRanchSit_18766]]*
+
+### Mentioned In
+- [[FishRemainsFromCenturyRanchSit_18766]]
 
 ## Kelp Forest
 <!-- fm: auto_enriched: true -->
@@ -1198,6 +1262,9 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This is a draft summary, circulated by a US Fish and Wildlife Service (FWS) Region 6 program director on May 5, 1989, of a two-day Management Group meeting of the Colorado River Recovery Implementation Program. The Program aims to recover endangered Colorado River fishes: [[Colorado Squawfish]],...
 > -- *[[AprilManagementGroupMeetingSum_21009]]*
 
+> This bundle of 1989 correspondence covers the [[Upper Colorado River Endangered Fish Recovery Program]]. It includes the draft summary of the September 13, 1989 [[Management Group]] meeting, the meeting agenda, the November 9, 1989 agenda, a memo on the [[15-Mile Reach]] gage, the adopted motion on...
+> -- *[[ManagementGroupMeeting_21017]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -1212,6 +1279,7 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[TechnicalGroupMeetingMinutesJu_18171]]
 - [[AprilManagementGroupMeetingSum_21009]]
+- [[ManagementGroupMeeting_21017]]
 
 ## Kennith Foster
 
@@ -1557,12 +1625,16 @@ Kern County Parks and Recreation is a local agency that supported the Isabella R
 > This California Department of Fish and Game Inland Fisheries Administrative Report (No. 66-7, submitted April 1966, by Robert P. Hayden, Region 4) evaluates whether total angler use and harvest at [[Isabella Reservoir]] can be estimated with limited manpower. The reservoir is a heavily used fishery...
 > -- *[[EstimatedAnglerUseAndHarvestIs_20724]]*
 
+> This 1962 report by [[Robert L. Butler]] of the [[California Department of Fish and Game]] (Inland Fisheries Branch) examines why voluntary angler tag returns often fail to represent the true catch of planted fish. Drawing on 76 tagging studies of catchable-sized [[Rainbow Trout]] in 17 California...
+> -- *[[RecognitionAndReturnOfTroutTag_14111]]*
+
 ### Mentioned In
 - [[SalmoRoseiNotAValidSpecies_12861]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[CaliforniaCatchableTroutFisher_14146]]
 - [[ErythrocyteAntigensOfCaliforni_17330]]
 - [[EstimatedAnglerUseAndHarvestIs_20724]]
+- [[RecognitionAndReturnOfTroutTag_14111]]
 
 ## Kern River Hatchery
 
@@ -1632,6 +1704,18 @@ Kerswill is a researcher who studied effects of forest pesticide spraying on sal
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 
+## Kesterson Reservoir
+
+### Summary
+Kesterson Reservoir was a California wetland that received agricultural drainage water carrying selenium. The source cites it as a selenium disaster that caused embryonic deaths in about 40% of nests in a 1983 assessment, and deformed chicks in about 20% of nests, showing how irrigation drainage can harm wildlife.
+
+### Context
+> This report, organized and edited by [[Wendell L. Minckley]] at Arizona State University (17 February 1997), compiles five independent reviews prepared for the Western Water Policy Review Advisory Commission. Each review examines one component of western aquatic systems and concludes that these...
+> -- *[[AquaticEcosystemSymposiumARepo_15847]]*
+
+### Mentioned In
+- [[AquaticEcosystemSymposiumARepo_15847]]
+
 ## Kettle Hole Pond Ecology
 <!-- fm: auto_enriched: true -->
 
@@ -1643,6 +1727,18 @@ Kerswill is a researcher who studied effects of forest pesticide spraying on sal
 
 ### Mentioned In
 - [[LifeHistoryNotesRelevantToTheC_11254]]
+
+## Kettle Top Butte
+
+### Summary
+Kettle Top Butte is a landmark in Elephant Butte Reservoir that divides the study's two zones. The deep area lies downstream (south) of the butte, and the shallow area lies upstream (north) of it. The author used this boundary to classify tagging and recapture locations.
+
+### Context
+> This 1968 report by Robert R. Patterson (New Mexico State University) examines the movement of [[Smallmouth Buffalo]] in [[Elephant Butte Reservoir]]. The species is a major rough fish targeted by [[Commercial Fishing]] as part of the reservoir's management plan. Between June 1964 and December...
+> -- *[[MovementOfSmallmouthBuffaloIct_18463]]*
+
+### Mentioned In
+- [[MovementOfSmallmouthBuffaloIct_18463]]
 
 ## Keuka Lake
 
@@ -1693,6 +1789,18 @@ Kevin Fitzsimmons is one of the experts listed under the Keywords chapter's Fish
 ### Mentioned In
 - [[WhereToFindWaterExpertiseAtSta_13522]]
 - [[WhereToFindWaterExpertiseAtSta_13523]]
+
+## Kewaunee Power Plant
+
+### Summary
+A thermal power plant on Lake Michigan whose offshore intake, with an inverted-cone design, includes an air screen. The report lists it among major intake installations and notes that its operating experience is limited.
+
+### Context
+> This report compiles concept designs, operating experience, and screening technologies used in the United States to protect fish at water intakes. It was prepared under the 1974 US/USSR Agreement on Thermal Power Plant Heat Rejection and Water Supply Systems, which required the exchange of fish...
+> -- *[[FishProtectiveDevicesACompilat_11796]]*
+
+### Mentioned In
+- [[FishProtectiveDevicesACompilat_11796]]
 
 ## Key Deer
 
@@ -1877,6 +1985,18 @@ Killifish are small cyprinodontid fishes (family Cyprinodontidae/Fundulidae) kno
 - [[TheEffectOfThermalAcclimationO_15619]]
 - [[TimeCoOrdinatedPrefeedingActiv_13978]]
 - [[AStudyOfTheFisheriesOnBitterLa_14374]]
+
+## Kimmel and Groeger
+
+### Summary
+Authors of a 1986 publication that the report cites for the principle that fishery yields in the early years of a reservoir should not be used as the basis for long-term management. The authors of this study apply that principle to Calamus Reservoir, which is in its early years.
+
+### Context
+> This Bureau of Reclamation technical report (R-92-14, October 1992) by Davine Lieberman documents a two-year limnological study (April 1989 to May 1991) of [[Calamus Reservoir]], a young impoundment created by [[Calamus Dam]] on the Calamus River in the Sand Hills of central Nebraska. The reservoir...
+> -- *[[LimnologyOfAPrairieReservoirAN_11701]]*
+
+### Mentioned In
+- [[LimnologyOfAPrairieReservoirAN_11701]]
 
 ## Kimsey 1956
 <!-- fm: auto_enriched: true -->
@@ -2481,6 +2601,9 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This 1956 study by Millard Coots of the [[California Department of Fish and Game]] examines the [[Yellow Perch]] (*Perca flavescens*) in the [[Klamath River]] of California, a population that was not native to the drainage. The primary aim, begun in 1951, was to determine whether yellow perch...
 > -- *[[TheYellowPerchPercaFlavescensM_17576]]*
 
+> This 1925 taxonomic paper by [[Carl L Hubbs]] revises the smelt family [[Osmeridae]] in the North Pacific. Based on examination of nearly all osmerid material preserved in American museums, Hubbs presents a dichotomous key to the genera and species, reassesses the validity of several named forms,...
+> -- *[[ARevisionOfTheOsmeridFishesOfT_19980]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
@@ -2498,6 +2621,7 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[AuthortitleIndexToInlandFisher_14367]]
 - [[ReviewOfMoyleAndBergsProjectRe_13795]]
 - [[TheYellowPerchPercaFlavescensM_17576]]
+- [[ARevisionOfTheOsmeridFishesOfT_19980]]
 
 ## Klamath River Basin
 
@@ -2884,6 +3008,9 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > This document is the third supplement to an annotated bibliography compiled by the State of California, Department of Fish and Game, and submitted to the Legislature under House Resolution No. 70 (1959 Regular Session). It catalogues research publications, bulletins, popular articles and short...
 > -- *[[AnAnnotatedBibliographyOfResea_14741]]*
 
+> This 1968 report by Regional Fishery Biologist Jerry L. Mallet, [[Idaho Department of Fish and Game]], evaluates fishery management on [[Coeur d'Alene Lake]] using a [[Boat Count Interview Census]] run from April 29 to November 30, 1967. The survey estimated 37,757 anglers spent 169,908 hours and...
+> -- *[[CoueuDaleneLakeFisheriesInvest_19366]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -2900,6 +3027,7 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[ReProposalIntroductionOfRainbo_13753]]
 - [[NotesOnKokaneeSpawningInDonner_12527]]
 - [[AnAnnotatedBibliographyOfResea_14741]]
+- [[CoueuDaleneLakeFisheriesInvest_19366]]
 
 ## Kokanee Salmon
 <!-- fm: auto_enriched: true -->
@@ -2968,6 +3096,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This completion report from the [[Utah Department of Fish and Game]] (Federal Aid Project F-4-R-6, Job V, covering August 1, 1958 to July 31, 1959) documents pre-impoundment surveys of two river systems slated for reservoir creation: the Colorado River through Glen Canyon, which became [[Lake...
 > -- *[[PreimpoundmentInvestigationsOf_12301]]*
 
+> This report presents the 1962 results of a joint [[California Department of Fish and Game]] and [[Nevada Fish and Game Commission]] creel census on [[Lake Tahoe]]. The census estimated total angler use at 144,147 angler-hours (47,732 angler-days), equal to 1.2 angler-hours per surface acre. The...
+> -- *[[TroutCatchAndAnglerUseAtLakeTa_12122]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -2994,6 +3125,7 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[FishesOfNevada_15993]]
 - [[BrineShrimp_12752]]
 - [[PreimpoundmentInvestigationsOf_12301]]
+- [[TroutCatchAndAnglerUseAtLakeTa_12122]]
 
 ## Kolkwitz
 
@@ -3120,6 +3252,18 @@ Kolmos et al. 2013 developed a historical dorsal spine ageing protocol for Gray 
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[UpperColoradoFishRecoveryPlanI_20990]]
 
+## Korean Flounder
+
+### Summary
+The Korean flounder, Glyptocephalus stelleri, is a deep-water pleuronectid flatfish. The source notes it was taken at depths over 200 m, which the author uses to argue that human-enhanced anomalies are unlikely in this species.
+
+### Context
+> This short report by [[Yoshiharu Honma]] documents six anomalies in six specimens: five bony fishes collected around [[Sado Island]] and one cartilaginous fish (a skate) from off Naoetsu on the western Niigata coast of the [[Sea of Japan]]. The specimens were examined macroscopically and, where...
+> -- *[[DropletsFromTheSadoMarineBiolo_19899]]*
+
+### Mentioned In
+- [[DropletsFromTheSadoMarineBiolo_19899]]
+
 ## Korsakova
 
 ### Summary
@@ -3190,8 +3334,24 @@ The Kosi System is an estuarine system in northern Natal, South Africa (26°54'S
 > This study investigated sources of mortality for three species of [[Gerreidae]] ([[Gerres acinaces]], [[Gerres rappi]], and [[Gerres filamentosus]]) in Natal estuaries, South Africa, between 1978 and 1982, with primary focus on the [[Kosi System]]. Despite being abundant benthic feeders forming an...
 > -- *[[PredationAndSourcesOfMortality_18127]]*
 
+> This paper by D.P. Cyrus and S.J.M. Blaber (University of Natal, Pietermaritzburg; published in *The Lammergeyer* 32, January 1984) describes the food, feeding periodicity and seasonal diet of five [[Gerres]] species of the family [[Gerreidae]] in the [[Kosi System]]. The authors characterise the...
+> -- *[[TheFeedingEcologyOfGerreidaeTe_18128]]*
+
 ### Mentioned In
 - [[PredationAndSourcesOfMortality_18127]]
+- [[TheFeedingEcologyOfGerreidaeTe_18128]]
+
+## Koski
+
+### Summary
+Koski (1974) is an author cited in the source who proposed that anthropogenic environmental change can enhance flatfish anomalies in shallow coastal and estuarine habitats.
+
+### Context
+> This short report by [[Yoshiharu Honma]] documents six anomalies in six specimens: five bony fishes collected around [[Sado Island]] and one cartilaginous fish (a skate) from off Naoetsu on the western Niigata coast of the [[Sea of Japan]]. The specimens were examined macroscopically and, where...
+> -- *[[DropletsFromTheSadoMarineBiolo_19899]]*
+
+### Mentioned In
+- [[DropletsFromTheSadoMarineBiolo_19899]]
 
 ## Koster 1948
 <!-- fm: auto_enriched: true -->
@@ -3263,6 +3423,18 @@ Editors of a 1969 symposium proceedings on the biological aspects of thermal pol
 ### Mentioned In
 - [[AnAnnotatedBibliographyOfTheEf_18153]]
 
+## Krieger
+
+### Summary
+The author of U.S. Geological Survey geologic quadrangle maps GQ-668 and GQ-669 (1968), covering the Brandenburg Mountain and Holy Joe Peak quadrangles. The report cites this work as a geologic reference for the area.
+
+### Context
+> This [[United States Geological Survey]] open-file report (Water-Resources Investigations 76-107, September 1976, Tucson) compiles basic well data for the Aravaipa Valley area of southeastern Arizona, prepared in cooperation with the [[Arizona Water Commission]]. The document is a hydrologic...
+> -- *[[WellInformationaravaipaValleyA_19181]]*
+
+### Mentioned In
+- [[WellInformationaravaipaValleyA_19181]]
+
 ## Krogh 1914
 <!-- fm: auto_enriched: true -->
 
@@ -3272,6 +3444,18 @@ Editors of a 1969 symposium proceedings on the biological aspects of thermal pol
 
 ### Mentioned In
 - [[RespirationOfFishesWithSpecial_1964]]
+
+## Krumholz
+
+### Summary
+Krumholz is an author cited in the leaflet's reference list for a 1948 work on rotenone in fisheries research. The source note does not describe the specific findings of that work.
+
+### Context
+> This 1949 U.S. Fish and Wildlife Service leaflet, prepared by the Branches of Fishery Biology and Game-fish and Hatcheries, gives practical guidance on using [[Rotenone]] (from [[Derris]] and [[Cube]] powders) to eradicate unwanted fish from lakes, ponds, and streams. It stresses that poisoning...
+> -- *[[TheUseOfRotenoneAsAFishPoison_13279]]*
+
+### Mentioned In
+- [[TheUseOfRotenoneAsAFishPoison_13279]]
 
 ## Krumholz 1946
 <!-- fm: auto_enriched: true -->

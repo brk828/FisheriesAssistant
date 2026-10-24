@@ -4,6 +4,18 @@ letter: V
 ---
 # Concept Stubs: V
 
+## V-Notch Weir
+
+### Summary
+A weir with a triangular notch, used as an overfall-fishway notch option. The source gives flow factors for 90° and 60° notches, with the general formula Q = 2.5 tan(θ/2) H^2.5.
+
+### Context
+> This 1956 pamphlet, Pamphlet No. 5 of the [[Inland Fisheries and Game Department]] (Maine), sets out the Department's policy on [[Fishway]] (fish ladder) construction, operation and function. Written by Chief Engineer [[Laurence Decker]], it explains why fishways are needed to restore fish...
+> -- *[[FishwaysInMaine_12745]]*
+
+### Mentioned In
+- [[FishwaysInMaine_12745]]
+
 ## V. D. Vladykov
 <!-- fm: auto_enriched: true -->
 
@@ -37,6 +49,18 @@ A area of volcanic rocks about 50 km south of Picacho Peak, used as a regional c
 
 ### Mentioned In
 - [[RadiometricAndChemicalDataForT_17317]]
+
+## Vaillant
+
+### Summary
+A researcher whose 1897 work is cited among the earlier surveys of Panama's freshwater fish fauna. Eigenmann places his contribution before the joint Smithsonian and Field Museum survey.
+
+### Context
+> This classic zoogeographic paper by [[Carl H. Eigenmann]] (Indiana University Studies, Contribution No. 175) analyses the freshwater fishes of eastern and southern Panama, the region east of the 80° W meridian that includes the [[Chagres River]] and [[Panama Canal]] basin, the [[Chepo River]]...
+> -- *[[TheFreshwaterFishesOfPanamaEas_15803]]*
+
+### Mentioned In
+- [[TheFreshwaterFishesOfPanamaEas_15803]]
 
 ## Vaillantia
 <!-- fm: auto_enriched: true -->
@@ -86,6 +110,18 @@ Val Verde County is a county in Texas, USA, that was home to Goodenough Spring, 
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 
+## Valdez and Nilson
+
+### Summary
+Valdez and Nilson (1982) produced earlier habitat curves for the Colorado River fishes. Their work was incorporated into the humpback chub SI curve development reported in this 1990 source.
+
+### Context
+> This 1990 paper by [[Valdez Et Al.]] (BIO/WEST, Inc.) presents habitat suitability index (SI) curves for the endangered [[Humpback Chub]] (*Gila cypha*) in the Upper [[Colorado River]] Basin. The curves were built from previously collected microhabitat data (1964–1986, 17 principal investigators,...
+> -- *[[HabitatSuitabilityIndexCurvesF_13643]]*
+
+### Mentioned In
+- [[HabitatSuitabilityIndexCurvesF_13643]]
+
 ## Valdez And Ryel 1997
 <!-- fm: auto_enriched: true -->
 
@@ -111,6 +147,18 @@ Val Verde County is a county in Texas, USA, that was home to Goodenough Spring, 
 
 ### Mentioned In
 - [[VirginSpinedaceListingPackageR_1994_09_08]]
+
+## Valdez Et Al.
+
+### Summary
+Valdez, Holden and Hardy, of BIO/WEST, Inc., are the authors of this 1990 paper presenting habitat suitability index curves for humpback chub in the Upper Colorado River Basin. The curves were assembled from previously collected microhabitat data and refined by an expert panel.
+
+### Context
+> This 1990 paper by [[Valdez Et Al.]] (BIO/WEST, Inc.) presents habitat suitability index (SI) curves for the endangered [[Humpback Chub]] (*Gila cypha*) in the Upper [[Colorado River]] Basin. The curves were built from previously collected microhabitat data (1964–1986, 17 principal investigators,...
+> -- *[[HabitatSuitabilityIndexCurvesF_13643]]*
+
+### Mentioned In
+- [[HabitatSuitabilityIndexCurvesF_13643]]
 
 ## Valdez Et Al. 1990
 <!-- fm: auto_enriched: true -->
@@ -909,6 +957,18 @@ The Vegetation Management Study, conducted by the Bureau of Reclamation in 1990,
 ### Mentioned In
 - [[BiologicalNotesOnSomeEastAfric_14561]]
 
+## Velocity Capped Intake
+
+### Summary
+An offshore intake with a cap that draws water in at a set approach velocity, used at Southern California plants. The report gives a range of 1.5–2.0 ft/sec and notes that higher velocities produced proportionally more fish intake.
+
+### Context
+> This report compiles concept designs, operating experience, and screening technologies used in the United States to protect fish at water intakes. It was prepared under the 1974 US/USSR Agreement on Thermal Power Plant Heat Rejection and Water Supply Systems, which required the exchange of fish...
+> -- *[[FishProtectiveDevicesACompilat_11796]]*
+
+### Mentioned In
+- [[FishProtectiveDevicesACompilat_11796]]
+
 ## Velvet Ant
 
 ### Summary
@@ -1091,9 +1151,13 @@ Ventrifossa macronemus is a deep-sea macrourid fish species endemic to the Phili
 > This study documents the embryonic and early larval development of the [[Tui Chub]] (*Siphateles bicolor*) from [[Eagle Lake]], [[Lassen County]], California. Conducted in 1949 by Robert R. Harry at Stanford University while employed by the California Division of Fish and Game, this represents...
 > -- *[[TheEmbryonicAndEarlyLarvalStag_20681]]*
 
+> This 1954 life history study by J. B. Kimsey of the California Department of Fish and Game examines the [[Tui Chub]] (*Siphateles bicolor*), the most abundant fish in [[Eagle Lake]], Lassen County. The work was launched because the [[Eagle Lake Rainbow Trout]] (*Salmo gairdneri aquilarum*) was near...
+> -- *[[TheLifeHistoryOfTheTuiChubSiph_12529]]*
+
 ### Mentioned In
 - [[EarlyDevelopmentOfTheHitchLavi_1965]]
 - [[TheEmbryonicAndEarlyLarvalStag_20681]]
+- [[TheLifeHistoryOfTheTuiChubSiph_12529]]
 
 ## Veracruz
 
@@ -1131,9 +1195,13 @@ The Verde Formation is a Miocene-Pliocene geological formation associated with a
 > This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
 > -- *[[FinalReportToMontezumaMonument_16015]]*
 
+> This U.S. Fish and Wildlife Service (FWS) biological opinion, dated March 30, 1998, evaluates a Bureau of Reclamation action to approve the reassignment of [[Central Arizona Project]] (CAP) water allocations held by Cottonwood Water Works, Inc. (CWW) and Camp Verde Water System, Inc. (CVWS) to the...
+> -- *[[CentralArizonaProjectWaterAssi_13197]]*
+
 ### Mentioned In
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[FinalReportToMontezumaMonument_16015]]
+- [[CentralArizonaProjectWaterAssi_13197]]
 
 ## Verde Paddlethon
 <!-- fm: auto_enriched: true -->
@@ -1443,6 +1511,18 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This study examines the diet and foraging habitat of the [[Bald Eagle]] (*Haliaeetus leucocephalus*) population breeding along the [[Salt River]] and [[Verde River]] in central Arizona. The population is small and occupies the southern edge of the species' range in a desert riparian setting. Eleven...
 > -- *[[UtilizationOfBenthicfeedingFis_20740]]*
 
+> This draft [[Fish and Wildlife Coordination Act]] report, prepared by the [[Fish and Wildlife Service]] in July 1989 and cooperating with the [[Arizona Game and Fish Department]], assesses how proposed [[Central Arizona Project]] (CAP) water exchanges and direct diversions by [[Bureau of...
+> -- *[[CentralArizonaProjectVerdeAndE_11603]]*
+
+> This draft Fish and Wildlife Coordination Act report, prepared by the [[U.S. Fish and Wildlife Service]] for the [[Bureau of Reclamation]] (December 14, 1988), assesses impacts of proposed [[Central Arizona Project]] (CAP) water exchanges and direct diversions on the Verde and East Verde Rivers in...
+> -- *[[DraftFishAndWildlifeCoordinati_11625]]*
+
+> This U.S. Fish and Wildlife Service (FWS) biological opinion, dated March 30, 1998, evaluates a Bureau of Reclamation action to approve the reassignment of [[Central Arizona Project]] (CAP) water allocations held by Cottonwood Water Works, Inc. (CWW) and Camp Verde Water System, Inc. (CVWS) to the...
+> -- *[[CentralArizonaProjectWaterAssi_13197]]*
+
+> This first annual report (1987–88) from the [[Arizona State University]] Department of Zoology, prepared for the [[Arizona Game and Fish Department]], evaluates how the introduced [[Red Shiner]] interacts with two threatened native minnows of the [[Gila River Basin]]: the [[Spikedace]] and the...
+> -- *[[AnalysisOfHabitatInterrelation_19085]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1598,6 +1678,10 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[WildlifeConflictsInRiparianMan_17945]]
 - [[ArizonaStreamWaterQuality_19603]]
 - [[UtilizationOfBenthicfeedingFis_20740]]
+- [[CentralArizonaProjectVerdeAndE_11603]]
+- [[DraftFishAndWildlifeCoordinati_11625]]
+- [[CentralArizonaProjectWaterAssi_13197]]
+- [[AnalysisOfHabitatInterrelation_19085]]
 
 ## Verde River Aquatic Ecology
 
@@ -1943,6 +2027,18 @@ Research Associate at the Cooperative Fisheries Research Laboratory, Southern Il
 ### Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 
+## Vertical Traveling Screen
+
+### Summary
+A conventional intake screen that moves in a vertical loop to collect debris and fish, usually with monel mesh. The report says fish on these screens are often killed by intermittent operation and high-pressure spray, and a backfitted trough and low-pressure wash design reduced mortality.
+
+### Context
+> This report compiles concept designs, operating experience, and screening technologies used in the United States to protect fish at water intakes. It was prepared under the 1974 US/USSR Agreement on Thermal Power Plant Heat Rejection and Water Supply Systems, which required the exchange of fish...
+> -- *[[FishProtectiveDevicesACompilat_11796]]*
+
+### Mentioned In
+- [[FishProtectiveDevicesACompilat_11796]]
+
 ## Vertigo
 
 ### Summary
@@ -2237,6 +2333,18 @@ Vinberg's 1960 work, *The Primary Production of Bodies of Water* (AEC-TR-5692), 
 ### Mentioned In
 - [[EvaluationOfPreIntroductionStr_16534]]
 
+## Vincent Schultz
+
+### Summary
+Vincent Schultz co-compiled this 1965 bibliography with Klement for the US Atomic Energy Commission. The source also lists two of his own 1965 papers on strontium-90 in white-tailed deer antler and mandible, including a study of sex and age effects on deer mandibles.
+
+### Context
+> This is the third supplement (February 1965) to a selected bibliography of terrestrial and freshwater radioecology, compiled by [[Alfred W. Klement Jr.]] and [[Vincent Schultz]] for the [[United States Atomic Energy Commission]] (AEC), Division of Biology and Medicine (report TID-3910, Suppl. 3)....
+> -- *[[TerrestrialAndFreshwaterRadioe_12564]]*
+
+### Mentioned In
+- [[TerrestrialAndFreshwaterRadioe_12564]]
+
 ## Vinnikov 1956
 <!-- fm: auto_enriched: true -->
 
@@ -2280,6 +2388,18 @@ A county in southeastern Ohio where Lake Alma is located. The source places the 
 
 ### Mentioned In
 - [[InfluenceOfTurbidInflowsOnVert_1984]]
+
+## Vinyl Plastic Subcutaneous Tag
+
+### Summary
+A vinyl plastic subcutaneous tag is a small tag inserted beneath the belly skin of a fish, here just in front of the ventral fins. In this study the tag stayed visible for three to four weeks, after which a heavy pigmented area marked its location.
+
+### Context
+> This 1962 report by [[Robert L. Butler]] of the [[California Department of Fish and Game]] (Inland Fisheries Branch) examines why voluntary angler tag returns often fail to represent the true catch of planted fish. Drawing on 76 tagging studies of catchable-sized [[Rainbow Trout]] in 17 California...
+> -- *[[RecognitionAndReturnOfTroutTag_14111]]*
+
+### Mentioned In
+- [[RecognitionAndReturnOfTroutTag_14111]]
 
 ## Viperidae
 
@@ -2627,6 +2747,12 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This draft annual assessment, prepared by Jane Perkins of the [[Utah Division Of Wildlife Resources]] (UDWR), reports on conservation activities for the [[Virgin Spinedace]] ([[Lepidomeda Mollispinis]] mollispinis) during Fiscal Year 1995 under the [[Virgin Spinedace Conservation Agreement]]...
 > -- *[[VirginSpinedaceConservationAgr_20260]]*
 
+> This BIO/WEST report (PR-197-1, January 1991), prepared with the [[Utah Division of Wildlife Resources]] (UDWR), assesses the distribution, abundance and threats facing the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a fish endemic to the [[Virgin River Drainage]]. Field work by...
+> -- *[[StatusOfTheVirginSpinedaceLepi_13652]]*
+
+> This report, organized and edited by [[Wendell L. Minckley]] at Arizona State University (17 February 1997), compiles five independent reviews prepared for the Western Water Policy Review Advisory Commission. Each review examines one component of western aquatic systems and concludes that these...
+> -- *[[AquaticEcosystemSymposiumARepo_15847]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -2741,6 +2867,8 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[SpeciesRelationshipsAmongFishe_21162]]
 - [[ProposalRoutingApprovalFormFor_13793]]
 - [[VirginSpinedaceConservationAgr_20260]]
+- [[StatusOfTheVirginSpinedaceLepi_13652]]
+- [[AquaticEcosystemSymposiumARepo_15847]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -2992,9 +3120,13 @@ The Virgin River Corridor Area of Critical Environmental Concern is a Bureau of 
 > This short field report by David A. White (Department of Zoology, [[Brigham Young University]], Provo, Utah) documents the capture of seven adult [[Virgin River Spinedace]] (*Lepidomeda mollispinis mollispinis*) from the [[Sevier River]] in Utah on 6 July 1967. The fish were seined about 3.2 miles...
 > -- *[[TheVirginRiverSpinedaceLepidom_12189]]*
 
+> This BIO/WEST report (PR-197-1, January 1991), prepared with the [[Utah Division of Wildlife Resources]] (UDWR), assesses the distribution, abundance and threats facing the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a fish endemic to the [[Virgin River Drainage]]. Field work by...
+> -- *[[StatusOfTheVirginSpinedaceLepi_13652]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_1993_03_16]]
 - [[TheVirginRiverSpinedaceLepidom_12189]]
+- [[StatusOfTheVirginSpinedaceLepi_13652]]
 
 ## Virgin River Fishes Data Base
 <!-- fm: auto_enriched: true -->
@@ -3350,6 +3482,9 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 > This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
 > -- *[[VirginSpinedaceConservationAgr_20262]]*
 
+> This BIO/WEST report (PR-197-1, January 1991), prepared with the [[Utah Division of Wildlife Resources]] (UDWR), assesses the distribution, abundance and threats facing the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a fish endemic to the [[Virgin River Drainage]]. Field work by...
+> -- *[[StatusOfTheVirginSpinedaceLepi_13652]]*
+
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AttachedDraftListOfSpeciesAssi_14772]]
@@ -3395,6 +3530,7 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 - [[VirginSpinedaceConservationAgr_20260]]
 - [[VirginSpinedaceConservationAgr_20261]]
 - [[VirginSpinedaceConservationAgr_20262]]
+- [[StatusOfTheVirginSpinedaceLepi_13652]]
 
 ## Virgin Spinedace Conservation Agreement
 
@@ -3910,6 +4046,18 @@ Volvox is a genus of phytoplankton (colonial green algae) that commonly blooms i
 
 ### Mentioned In
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+
+## Vomerine Dentition
+
+### Summary
+The arrangement of teeth on the vomer, a bone of the roof of the mouth, used by Hubbs as a key generic character. In Osmerus and related genera the teeth are canine-like and confined to the lateral tips, while in Spirinchus and Hypomesus they are numerous, convex and uniserial.
+
+### Context
+> This 1925 taxonomic paper by [[Carl L Hubbs]] revises the smelt family [[Osmeridae]] in the North Pacific. Based on examination of nearly all osmerid material preserved in American museums, Hubbs presents a dichotomous key to the genera and species, reassesses the validity of several named forms,...
+> -- *[[ARevisionOfTheOsmeridFishesOfT_19980]]*
+
+### Mentioned In
+- [[ARevisionOfTheOsmeridFishesOfT_19980]]
 
 ## Von Bayer
 

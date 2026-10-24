@@ -188,8 +188,12 @@ Iceberg Canyon is a named sampling site on Lake Powell. The graphs are coded SCU
 > This Bureau of Reclamation memorandum from the [[Glen Canyon Environmental Studies]] group transmits [[HYDROLAB Profiling]] data collected at [[Lake Powell]] during the August 1 through 6, 1994 field trip. The profiles cover water temperature, [[Dissolved Oxygen]], [[Specific Conductivity]], and...
 > -- *[[GlenCanyonEnvironmentalStudies_19731]]*
 
+> This document is a set of interagency planning materials from 1995 for the [[Fish Management Plan]] (FMP) of [[Glen Canyon National Recreation Area]] (GLCA). It contains four parts: an FMP outline with assigned responsibilities, a [[National Park Service]] (NPS) scoping memo to the [[Native Fish...
+> -- *[[GlenCanyonNationalRecreationAr_17852]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_19731]]
+- [[GlenCanyonNationalRecreationAr_17852]]
 
 ## Iceland
 
@@ -1416,9 +1420,13 @@ The Idaho Department of Fish and Game is a state wildlife management agency that
 > This 1994 U.S. District Court opinion addresses a legal challenge by the [[Idaho Department of Fish and Game]] (IDFG) against the [[National Marine Fisheries Service]] (NMFS) regarding the operation of the [[Federal Columbia River Power System]] (FCRPS) and its impacts on three listed [[Snake...
 > -- *[[SalmonDecision_19385]]*
 
+> This 1968 report by Regional Fishery Biologist Jerry L. Mallet, [[Idaho Department of Fish and Game]], evaluates fishery management on [[Coeur d'Alene Lake]] using a [[Boat Count Interview Census]] run from April 29 to November 30, 1967. The survey estimated 37,757 anglers spent 169,908 hours and...
+> -- *[[CoueuDaleneLakeFisheriesInvest_19366]]*
+
 ### Mentioned In
 - [[TheIntroductionOfKokaneeRedSal_18826]]
 - [[SalmonDecision_19385]]
+- [[CoueuDaleneLakeFisheriesInvest_19366]]
 
 ## Idaho Fish and Game Department
 
@@ -1438,11 +1446,15 @@ The Idaho Fish and Game Department is a state agency responsible for fisheries a
 > This Idaho Department of Fish and Game report by [[Melvin Reingold]] evaluates the transplant of juvenile [[Steelhead Trout]] from the mid-[[Snake River]] to the [[Pahsimeroi River]]. Approximately 1,292,000 juveniles were released into two one-acre holding ponds from February 8 to May 2, 1967, and...
 > -- *[[EvaluationOfTransplantingMidsn_16814]]*
 
+> This Job Completion Report, prepared by [[Terry Holubetz]] for the [[Idaho Fish and Game Department]] (Federal Aid to Fish Restoration, Projects F 49-R-4 and F 49-R-5, Job 4), covers March 1, 1965 to December 31, 1966. The study examined juvenile production, adult enumeration, harvest, and spawning...
+> -- *[[SalmonAndSteelheadProductionEs_19897]]*
+
 ### Mentioned In
 - [[FederalAidToFishRestorationAnn_19654]]
 - [[SalmonAndSteelheadInvestigatio_12147]]
 - [[SalmonSpawningGroundSurveysSal_17594]]
 - [[EvaluationOfTransplantingMidsn_16814]]
+- [[SalmonAndSteelheadProductionEs_19897]]
 
 ## Idaho Power Company
 
@@ -1772,6 +1784,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This 1960 report (Oklahoma Fishery Research Laboratory Report No. 78, by Alfred Houser) summarizes growth of the [[Freshwater Drum]] (*Aplodinotus grunniens*) in Oklahoma from 19 years of data (1940–1958). Scale samples from 3,103 fish were drawn from 32 waters (16 reservoirs, 7 large lakes, 9...
 > -- *[[GrowthOfFreshwaterDrumInOklaho_19938]]*
 
+> This Illinois Natural History Survey bulletin by [[Samuel Eddy]] (published November 1931) examines how a [[Sewage Treatment Plant]] at Springfield and the [[Lake Decatur]] impoundment at Decatur have changed the abundance and composition of [[Plankton]] in the [[Sangamon River]]. Collections were...
+> -- *[[ThePlanktonOfTheSangamonRiverI_15758]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -1785,6 +1800,7 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[NationalFishHatcherySystemRevi_11668]]
 - [[OklahomaFishesWithDistribution_16567]]
 - [[GrowthOfFreshwaterDrumInOklaho_19938]]
+- [[ThePlanktonOfTheSangamonRiverI_15758]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -2290,6 +2306,18 @@ Imperial Valley Warmwater Hatchery is a California Department of Fish and Game f
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
 
+## Impingement
+
+### Summary
+The trapping of fish against intake screens by the force of water being drawn into a cooling or diversion system. The report notes it has been a problem at fewer than 10% of existing US thermal installations and is not a serious threat to overall ecological balance.
+
+### Context
+> This report compiles concept designs, operating experience, and screening technologies used in the United States to protect fish at water intakes. It was prepared under the 1974 US/USSR Agreement on Thermal Power Plant Heat Rejection and Water Supply Systems, which required the exchange of fish...
+> -- *[[FishProtectiveDevicesACompilat_11796]]*
+
+### Mentioned In
+- [[FishProtectiveDevicesACompilat_11796]]
+
 ## Implementation Committee
 <!-- fm: auto_enriched: true -->
 
@@ -2303,12 +2331,32 @@ Imperial Valley Warmwater Hatchery is a California Department of Fish and Game f
 > This administrative packet, issued by the [[Fish and Wildlife Service]] (FWS) in November 1990, documents the August 22, 1990 meeting of the [[Recovery Implementation Program]] (RIP) [[Implementation Committee]] for four endangered or rare Upper Colorado River fishes: [[Colorado Squawfish]],...
 > -- *[[ColoradoRiverRecoveryImplement_17881]]*
 
+> This bundle of 1989 correspondence covers the [[Upper Colorado River Endangered Fish Recovery Program]]. It includes the draft summary of the September 13, 1989 [[Management Group]] meeting, the meeting agenda, the November 9, 1989 agenda, a memo on the [[15-Mile Reach]] gage, the adopted motion on...
+> -- *[[ManagementGroupMeeting_21017]]*
+
 ### Mentioned In
 - [[LetterRegardingProposedStockin_1989_06_23]]
 - [[LetterToDuaneLShroufeOnGrandCa_1989_04_24]]
 - [[TowardRangewideIntegrationOfRe_18628]]
 - [[SummaryjuneManagementGroupMeet_20998]]
 - [[ColoradoRiverRecoveryImplement_17881]]
+- [[ManagementGroupMeeting_21017]]
+
+## Implementation Schedule
+
+### Summary
+This is the section of a U.S. Fish and Wildlife Service recovery plan that the source calls the most important, because it is used to secure and obligate funds. Tasks are ranked by priority, and costs are listed in thousands of dollars by fiscal year, with Service costs shown separately from other agencies' costs.
+
+### Context
+> This document is Appendix I of a U.S. Fish and Wildlife Service (FWS) guide to preparing [[Recovery Plan]]s for species listed under the Endangered Species Act. It sets out the required title page, disclaimer, executive summary, plan outline, introduction, recovery criteria, narrative outline,...
+> -- *[[AppendixIRecoveryPlanFormat_13274]]*
+
+> This document is a February 3, 1987 letter from the [[Fish and Wildlife Service]] (FWS) Colorado/Platte River Endangered Species Recovery Coordinator to Dr. W. L. Minckley of Arizona State University. It requests literature review for the planned 1987 updates of three [[Recovery Plan]]s for the...
+> -- *[[RecoveryPlanscoloradoSquawfish_20994]]*
+
+### Mentioned In
+- [[AppendixIRecoveryPlanFormat_13274]]
+- [[RecoveryPlanscoloradoSquawfish_20994]]
 
 ## Implementing Agreement
 <!-- fm: auto_enriched: true -->
@@ -2493,6 +2541,18 @@ Inbreeding depression in fish science refers to the reduction in fitness, surviv
 - [[BiologicalOpinionResearchProje_20155]]
 - [[ReYourLetterRegardingTheForest_11890]]
 - [[BiologicalOpinionOnTheProposed_11939]]
+
+## Inclined Screen
+
+### Summary
+A screen type used mainly in irrigation and water supply systems, with limited documentation in thermal plants. The report mentions it among other screen designs in use but does not give detailed performance findings for it.
+
+### Context
+> This report compiles concept designs, operating experience, and screening technologies used in the United States to protect fish at water intakes. It was prepared under the 1974 US/USSR Agreement on Thermal Power Plant Heat Rejection and Water Supply Systems, which required the exchange of fish...
+> -- *[[FishProtectiveDevicesACompilat_11796]]*
+
+### Mentioned In
+- [[FishProtectiveDevicesACompilat_11796]]
 
 ## Incomplete Lineage Sorting
 
@@ -2800,6 +2860,18 @@ The Indian Ocean is one of the ocean basins where species of Anguilla (fresh-wat
 - [[Eel_14169]]
 - [[PartialBibliographyOfInterestT_18238]]
 
+## Indian Point Power Station
+
+### Summary
+A power plant on the Hudson River that has had fish kills at its intake since 1962. The report says about two million US dollars were spent from 1962 to 1970 without solving the problem.
+
+### Context
+> This report compiles concept designs, operating experience, and screening technologies used in the United States to protect fish at water intakes. It was prepared under the 1974 US/USSR Agreement on Thermal Power Plant Heat Rejection and Water Supply Systems, which required the exchange of fish...
+> -- *[[FishProtectiveDevicesACompilat_11796]]*
+
+### Mentioned In
+- [[FishProtectiveDevicesACompilat_11796]]
+
 ## Indian Reserve Sloughs
 <!-- fm: auto_enriched: true -->
 
@@ -3076,6 +3148,18 @@ The Indus River is a major river system that receives flow from three Afghan dra
 ### Mentioned In
 - [[StationProfileOfKooskiaNationa_19543]]
 
+## Infiltration Gallery
+
+### Summary
+A groundwater collection structure in Bonita Creek, sited about 6 km above the Gila River confluence, through which water is pumped. The source mentions it only as part of the creek's water use and does not describe its effects on fishes.
+
+### Context
+> This report by Robert W. Clarkson (June 10, 1980) quantifies the standing crop (biomass and density) of fishes in [[Bonita Creek]], a small desert tributary of the [[Gila River]] in southeastern Arizona. Electrofishing was conducted at three sites from November 1977 to December 1978, spanning a...
+> -- *[[StandingCropsOfFishesOfBonitaC_15921]]*
+
+### Mentioned In
+- [[StandingCropsOfFishesOfBonitaC_15921]]
+
 ## Information And Education (I&E)
 <!-- fm: auto_enriched: true -->
 
@@ -3142,6 +3226,18 @@ Ingram was a co-author of a 1967 publication that this review identifies as "the
 
 ### Mentioned In
 - [[StationProfileOfTheInksDamNati_19548]]
+
+## Inland Fisheries and Game Department
+
+### Summary
+The Maine state agency that issued this 1956 pamphlet as its Pamphlet No. 5 and set the Department's policy on fishway construction. Its Commissioner decides whether a dam owner must install a fishway, and its Engineering Division usually prepares the designs.
+
+### Context
+> This 1956 pamphlet, Pamphlet No. 5 of the [[Inland Fisheries and Game Department]] (Maine), sets out the Department's policy on [[Fishway]] (fish ladder) construction, operation and function. Written by Chief Engineer [[Laurence Decker]], it explains why fishways are needed to restore fish...
+> -- *[[FishwaysInMaine_12745]]*
+
+### Mentioned In
+- [[FishwaysInMaine_12745]]
 
 ## Inland Fisheries Branch
 
@@ -3282,6 +3378,18 @@ The sand, gravel and silt deposits filling the narrower, later-cut valley of the
 ### Mentioned In
 - [[UrenchelysAbditusNewSpeciesThe_11967]]
 
+## Insect Yields
+
+### Summary
+Insect yields are the amounts of aquatic insects produced in the ponds, which serve as food for fish. The thesis measures them in a separate summer experiment and relates them to fish growth.
+
+### Context
+> This Master of Science thesis in fishery biology, written by [[Steven Alan Lewis]] at the [[University of Arizona]], examines how [[Mechanical Evaporation Barriers]] affect [[Fish Growth]] and overall [[Pond Productivity]]. Four experiments were run: a spring [[Trout]] experiment, a summer...
+> -- *[[SomeEffectsOfMechanicalEvapora_20305]]*
+
+### Mentioned In
+- [[SomeEffectsOfMechanicalEvapora_20305]]
+
 ## Insecta
 <!-- fm: auto_enriched: true -->
 
@@ -3333,6 +3441,18 @@ Inspiration Consolidated Copper Company was one of three active mining companies
 
 ### Mentioned In
 - [[MiningActivitiesAndWaterQualit_21102]]
+
+## Installation Restoration Program
+
+### Summary
+A military program for cleaning up contaminated sites on installations. The source reports six Arizona military facilities have sites under this program, with eight IRP sites in total having Phase I studies.
+
+### Context
+> This State summary from the [[National Water Summary 1986]] assesses ground-water quality in Arizona. Ground water is the principal public water source: about two-thirds of the State's 1983 water use and 65 percent of its population depended on it, and roughly 73 percent of withdrawals went to...
+> -- *[[ArizonaGroundwaterQuality_19602]]*
+
+### Mentioned In
+- [[ArizonaGroundwaterQuality_19602]]
 
 ## Instantaneous Growth Rate
 <!-- fm: auto_enriched: true -->
@@ -3497,10 +3617,14 @@ A Mexican national fisheries research institute credited in the source as a co-p
 > This April 1989 memorandum from the [[Fish And Wildlife Service]] (Region 6) to the Regional Solicitor, USDI, asks for a legal opinion on the Service's approach to [[Section 7 Consultation]] under the [[Endangered Species Act]] for water depletion projects affecting the endangered [[Colorado...
 > -- *[[SolicitorsOpinionReColoradoRiv_14140]]*
 
+> This document is not a research study. It is the closing reference section (printed pages 1109–1271) of a larger review of California fishes and aquatic ecosystems. It lists several thousand alphabetically ordered citations, from Aasen (1998) to Young (1994). The entries cover fish taxonomy, life...
+> -- *[[ReferencesForNdEditionOfInland_15457]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[WhereToFindWaterExpertiseAtSta_13523]]
 - [[SolicitorsOpinionReColoradoRiv_14140]]
+- [[ReferencesForNdEditionOfInland_15457]]
 
 ## Instream Flow Ad Hoc Group
 
@@ -3568,6 +3692,15 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 > This U.S. Department of the Interior, National Biological Service primer (Biological Report 29, March 1995) introduces the [[Instream Flow Incremental Methodology]] (IFIM), a interdisciplinary framework for evaluating how water management decisions affect aquatic habitat in flowing waters. The...
 > -- *[[TheInstreamFlowIncrementalMeth_14710]]*
 
+> This draft [[Fish and Wildlife Coordination Act]] report, prepared by the [[Fish and Wildlife Service]] in July 1989 and cooperating with the [[Arizona Game and Fish Department]], assesses how proposed [[Central Arizona Project]] (CAP) water exchanges and direct diversions by [[Bureau of...
+> -- *[[CentralArizonaProjectVerdeAndE_11603]]*
+
+> This draft Fish and Wildlife Coordination Act report, prepared by the [[U.S. Fish and Wildlife Service]] for the [[Bureau of Reclamation]] (December 14, 1988), assesses impacts of proposed [[Central Arizona Project]] (CAP) water exchanges and direct diversions on the Verde and East Verde Rivers in...
+> -- *[[DraftFishAndWildlifeCoordinati_11625]]*
+
+> This 1990 paper by [[Valdez Et Al.]] (BIO/WEST, Inc.) presents habitat suitability index (SI) curves for the endangered [[Humpback Chub]] (*Gila cypha*) in the Upper [[Colorado River]] Basin. The curves were built from previously collected microhabitat data (1964–1986, 17 principal investigators,...
+> -- *[[HabitatSuitabilityIndexCurvesF_13643]]*
+
 ### Mentioned In
 - [[AnInstreamFlowPhilosophyForRec_13064]]
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
@@ -3577,6 +3710,9 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 - [[AcquisitionOfHabitatPreference_11568]]
 - [[CompletionReportYampawhitePhys_18677]]
 - [[TheInstreamFlowIncrementalMeth_14710]]
+- [[CentralArizonaProjectVerdeAndE_11603]]
+- [[DraftFishAndWildlifeCoordinati_11625]]
+- [[HabitatSuitabilityIndexCurvesF_13643]]
 
 ## Instream Flow Incremental Methodology (Ifim)
 <!-- fm: auto_enriched: true -->
@@ -3697,6 +3833,18 @@ The Integrated Border Environmental Plan (IBEP) was prepared by EPA and Mexico's
 
 ### Mentioned In
 - [[StateOfTheUsmexicoBorderEnviro_14365]]
+
+## Integrated Standardized Monitoring Program
+
+### Summary
+The Integrated Standardized Monitoring Program is the broader monitoring effort within which this study was placed, and the report says the work could help evaluate and possibly improve it. The study aimed to clarify how flows affect habitat availability for squawfish under this program. The source gives no further details about the program's structure.
+
+### Context
+> This annual report from the [[Colorado River Fishes Recovery Program]] (Recovery Program Project 18-2, dated December 10, 1993) describes the second-to-last field season of a study on how [[Colorado Squawfish]] (*Ptychocheilus lucius*) nursery habitat forms and persists in the [[Green River]] below...
+> -- *[[YearFlamingGorgeFlowRecommenda_20257]]*
+
+### Mentioned In
+- [[YearFlamingGorgeFlowRecommenda_20257]]
 
 ## Integrated Systems Resource Management Plan
 
@@ -4009,6 +4157,18 @@ The interior least tern is a federally listed endangered bird species that is on
 ### Mentioned In
 - [[BiogeographyOfTroglobites_15604]]
 
+## Interior Secretary James G. Watt
+
+### Summary
+James G. Watt was the U.S. Secretary of the Interior and a principal defendant in this suit. The Tribe alleges he mismanaged federal water and land matters in favor of federal reclamation projects, including by suppressing Tribal water development and inducing runoff for the Salt River Federal Reclamation Project and the Central Arizona Project.
+
+### Context
+> This document is a litigation file and legal complaint from the [[White Mountain Apache Tribe]] against federal and Arizona state officials, filed in the U.S. District Court for the District of Arizona (Civ. 83-2045 PCT CAM, filed October 20, 1983). It concerns the Tribe's reserved water rights to...
+> -- *[[WhiteMountainApacheSuitAgainst_14941]]*
+
+### Mentioned In
+- [[WhiteMountainApacheSuitAgainst_14941]]
+
 ## Interior Secretary Stewart L. Udall
 
 ### Summary
@@ -4283,6 +4443,18 @@ A binational body that took up Canadian concerns about the Garrison Diversion pr
 
 ### Mentioned In
 - [[AReviewOfInterbasinWaterTransf_18377]]
+
+## International North Pacific Fisheries Commission
+
+### Summary
+The International North Pacific Fisheries Commission is an international body that ran tagging programs on Pacific salmon. The source notes that its tagging showed Alaskan chum salmon mingle with Asian stocks in the North Pacific and Bering Sea.
+
+### Context
+> This 1970 U.S. Fish and Wildlife Service / Bureau of Commercial Fisheries Fishery Leaflet (No. 632, by Theodore R. Merrell, Jr., Auke Bay Biological Laboratory) profiles the [[Chum Salmon]] (*Oncorhynchus keta*), the most widely distributed and second most abundant of the five [[Pacific Salmon]]...
+> -- *[[AlaskasFisheryResourcesTheChum_20135]]*
+
+### Mentioned In
+- [[AlaskasFisheryResourcesTheChum_20135]]
 
 ## International Pacific Halibut Commission
 
@@ -4768,6 +4940,9 @@ An invasive species in fish science refers to a non-native fish species that has
 > Executive Order 13112, issued February 3, 1999, establishes comprehensive federal policy for preventing introduction and controlling spread of [[Invasive Species]] in the [[United States]]. The order creates the [[Invasive Species Council]] co-chaired by the Secretaries of Interior, Agriculture,...
 > -- *[[ExecutiveOrderInvasiveSpeices_13569]]*
 
+> This document is not a research study. It is the closing reference section (printed pages 1109–1271) of a larger review of California fishes and aquatic ecosystems. It lists several thousand alphabetically ordered citations, from Aasen (1998) to Young (1994). The entries cover fish taxonomy, life...
+> -- *[[ReferencesForNdEditionOfInland_15457]]*
+
 ### Mentioned In
 - [[ConcernAboutThePresenceOfASpec_14235]]
 - [[DistributionAndStatusOfTheGras_11158]]
@@ -4778,6 +4953,7 @@ An invasive species in fish science refers to a non-native fish species that has
 - [[TerminologyAssociatedWithIntro_11384]]
 - [[SpeciesSurvivalCommissionAMemb_14399]]
 - [[ExecutiveOrderInvasiveSpeices_13569]]
+- [[ReferencesForNdEditionOfInland_15457]]
 
 ## invasive species biocontrol
 <!-- fm: auto_enriched: true -->
@@ -5476,6 +5652,18 @@ The Isabelle Timber Sale was a proposed timber harvest project covering approxim
 - [[DragonfliesCollectedInKentucky_1984_06_26]]
 - [[TheOdonataOfCapeCodMassachuset_16984]]
 
+## Isinglass
+
+### Summary
+Isinglass is a product made from the sturgeon's air bladder. The source says it is used mainly to clarify wines and beers, and in limited manufacture of court plaster, cement, and waterproofing.
+
+### Context
+> This U.S. Fish and Wildlife Service, Bureau of Commercial Fisheries leaflet (Fishery Leaflet 526, September 1961, by Lola T. Dees) is a general overview of the [[Sturgeon]] family, Acipenseridae. It covers morphology, life history, feeding, reproduction, behavior, the causes of population decline,...
+> -- *[[Sturgeons_12753]]*
+
+### Mentioned In
+- [[Sturgeons_12753]]
+
 ## Isla De Lobos
 
 ### Summary
@@ -5487,6 +5675,18 @@ Isla de Lobos is a coralline island off the Mexican Gulf coast that is the only 
 
 ### Mentioned In
 - [[DistributionalAndEcologicalNot_17538]]
+
+## Island and Rainbow Parks
+
+### Summary
+Island and Rainbow Parks is a flat, meandering reach of the Green River that the report identifies as a store of sand. Sand from upstream may be held there over several low to moderate runoff years. A large peak flow, such as the 1993 event, can move that stored sand downstream to the Escalanti reach.
+
+### Context
+> This FY-93 annual report from the [[Colorado River Recovery Program]] documents the first year of a limited long-term [[Channel Monitoring]] effort on the [[Green River]] between Split Mountain and Jensen, Utah. The work, led by principal investigator George R. Smith of the [[U.S. Fish and Wildlife...
+> -- *[[FyAnnualProjectReportColoradoR_21153]]*
+
+### Mentioned In
+- [[FyAnnualProjectReportColoradoR_21153]]
 
 ## Island Biogeography
 <!-- fm: auto_enriched: true -->
@@ -6142,6 +6342,18 @@ The Ivel River in England was used as a comparative system in the Blue River stu
 
 ### Mentioned In
 - [[SizeBiasedPredationByTheGilaTo_1980]]
+
+## Ivlev's Electivity Index
+
+### Summary
+Ivlev's Electivity Index (1961) is a measure of feeding selectivity comparing prey use with prey availability. The source used it to show that Gerres positively selected bivalve siphon tips.
+
+### Context
+> This paper by D.P. Cyrus and S.J.M. Blaber (University of Natal, Pietermaritzburg; published in *The Lammergeyer* 32, January 1984) describes the food, feeding periodicity and seasonal diet of five [[Gerres]] species of the family [[Gerreidae]] in the [[Kosi System]]. The authors characterise the...
+> -- *[[TheFeedingEcologyOfGerreidaeTe_18128]]*
+
+### Mentioned In
+- [[TheFeedingEcologyOfGerreidaeTe_18128]]
 
 ## Ivory-billed Woodpecker
 

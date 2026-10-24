@@ -84,6 +84,18 @@ D. R. Tindall collected environmental data documenting habitat conditions for Ch
 ### Mentioned In
 - [[ACytotaxonomicStudyOfTheCharac_19927]]
 
+## D. T. MacDougal
+
+### Summary
+D. T. MacDougal was Assistant Director of the New York Botanical Garden and wrote this 1905 report on a spring botanical expedition down the Colorado River to the Gulf of California. The source identifies him as its author and describes the expedition's plant collecting and observations.
+
+### Context
+> This 1905 report by [[D. T. MacDougal]], Assistant Director of the [[New York Botanical Garden]], describes a spring botanical expedition down the [[Colorado River]] from northern Arizona to the [[Gulf of California]]. The party collected living cacti and other plants, herbarium specimens and...
+> -- *[[BotanicalExplorationsInTheSout_12962]]*
+
+### Mentioned In
+- [[BotanicalExplorationsInTheSout_12962]]
+
 ## D. W. Taylor
 <!-- fm: auto_enriched: true -->
 
@@ -646,6 +658,18 @@ Damselflies are aquatic insects closely related to dragonflies, whose nymphs are
 ### Mentioned In
 - [[AReportOnTheLakesOfTheTippecan_11316]]
 
+## Dan McSweeney's Whalewatching Adventures
+
+### Summary
+Dan McSweeney's Whalewatching Adventures is a 15-year-old Kona whale-watching operation that runs three-hour cruises on the 40-foot Lady Ann. Trips carry an average of 30 visitors and run year-round. A portion of its revenue goes to the Wild Whale Research Foundation.
+
+### Context
+> This 1995 magazine feature, with a dining advertising supplement, describes the growth of [[Ecotourism]] in Hawaiʻi. It argues that visitors increasingly want meaningful, low-impact experiences of the environment and culture rather than only sun and surf, and that tourism itself has begun to stress...
+> -- *[[EcotourismTheNewWaveOfTravel_12560]]*
+
+### Mentioned In
+- [[EcotourismTheNewWaveOfTravel_12560]]
+
 ## Dana Expedition
 
 ### Summary
@@ -705,6 +729,18 @@ Dane Canyon is a tributary of East Clear Creek in Arizona that was surveyed duri
 
 ### Mentioned In
 - [[BiologyOfTheBlacksideDacePhoxi_1981]]
+
+## Daniel Creek
+
+### Summary
+A clear, moderately flowing stream in Dade County, Georgia, about 15 feet wide, with bedrock and sand substrate. It is the type locality of Cambarus unestami and the only site where the species was definitively recorded.
+
+### Context
+> This 1969 taxonomic paper by [[Horton H. Hobbs Jr.]] and [[Edward T. Hall Jr.]] (Smithsonian Institution and Georgia Water Quality Control Board) describes two new crayfish species from Georgia, both in the genus *Cambarus*. [[Cambarus Howardi]] belongs to the typical subgenus and is known from the...
+> -- *[[NewCrayfishesFromGeorgiaDecapo_20421]]*
+
+### Mentioned In
+- [[NewCrayfishesFromGeorgiaDecapo_20421]]
 
 ## Dans Gulch
 
@@ -850,6 +886,18 @@ Daphnia are small freshwater crustaceans (water fleas) that serve as a crucial t
 
 ### Mentioned In
 - [[ObservationsOnTheFoodOfCladoce_16410]]
+
+## Daphnia Longispina
+
+### Summary
+Daphnia longispina is a planktonic cladoceran (water flea) found among the conspicuous forms in this survey. The author noted it as a lake-derived species that declined downstream in June and July.
+
+### Context
+> This Illinois Natural History Survey bulletin by [[Samuel Eddy]] (published November 1931) examines how a [[Sewage Treatment Plant]] at Springfield and the [[Lake Decatur]] impoundment at Decatur have changed the abundance and composition of [[Plankton]] in the [[Sangamon River]]. Collections were...
+> -- *[[ThePlanktonOfTheSangamonRiverI_15758]]*
+
+### Mentioned In
+- [[ThePlanktonOfTheSangamonRiverI_15758]]
 
 ## Daphnia Magna
 <!-- fm: auto_enriched: true -->
@@ -1143,6 +1191,18 @@ Daruntah is a location in Afghanistan where a fish research and breeding center 
 ### Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[LetterToRayVaughnOpposingRestr_1973_04_13]]
+
+## Dasyatis akajei
+
+### Summary
+Dasyatis akajei is a stingray of the family Dasyatidae. The source cites Honma and Sugihara (1971) as the only other Japanese batoid record of a fin abnormality, reported in this species.
+
+### Context
+> This short report by [[Yoshiharu Honma]] documents six anomalies in six specimens: five bony fishes collected around [[Sado Island]] and one cartilaginous fish (a skate) from off Naoetsu on the western Niigata coast of the [[Sea of Japan]]. The specimens were examined macroscopically and, where...
+> -- *[[DropletsFromTheSadoMarineBiolo_19899]]*
+
+### Mentioned In
+- [[DropletsFromTheSadoMarineBiolo_19899]]
 
 ## Dasylirion Wheeleri
 
@@ -1496,6 +1556,9 @@ David Starr Jordan was a pioneering American ichthyologist and naturalist of the
 > This 1924 taxonomic paper by [[David Starr Jordan]] describes new and previously known fossil fishes from Miocene sediments in southern California. The main material comes from the [[Lompoc Diatom Beds]], Santa Barbara County, where collector [[Eric Knight Jordan]] found three new species in...
 > -- *[[DescriptionOfMioceneFishesFrom_19848]]*
 
+> This bundle of documents concerns the forthcoming volume *Battle Against Extinction: Native Fish Management in the American West*, edited by [[W.L. Minckley]] and [[James E. Deacon]] for the [[University of Arizona Press]]. The volume is a symposium-derived compilation on declines and extinctions...
+> -- *[[ManuscriptAppraisalForWlMinckl_11437]]*
+
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
@@ -1505,6 +1568,7 @@ David Starr Jordan was a pioneering American ichthyologist and naturalist of the
 - [[DescriptionOfANewSpeciesOfKill_19850]]
 - [[BriefBographiesOfLeadingIchthy_12677]]
 - [[DescriptionOfMioceneFishesFrom_19848]]
+- [[ManuscriptAppraisalForWlMinckl_11437]]
 
 ## David Wegner
 <!-- fm: auto_enriched: true -->
@@ -1863,6 +1927,18 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 ### Mentioned In
 - [[ProgressReportAndMeetingAnnoun_1991_08_01]]
 
+## Davis Fecundity Method
+
+### Summary
+The Davis Fecundity Method is a technique for estimating fish egg production, which this study modified to count eggs in Alabama shad. The source says the method was adapted with reference to Lehman (1953), and that complete counts on two females came within 6% and 8% of calculated values.
+
+### Context
+> This 1967 study by Laurence and Yerger (Florida State University) reports the first detailed life-history data for the [[Alabama Shad]], a Gulf coast anadromous clupeid about which knowledge was "almost nonexistent." Adults were sampled on their 1966 spawning run in the [[Apalachicola River]]...
+> -- *[[LifeHistoryStudiesOfTheAlabama_20199]]*
+
+### Mentioned In
+- [[LifeHistoryStudiesOfTheAlabama_20199]]
+
 ## Davis Mountains
 <!-- fm: auto_enriched: true -->
 
@@ -1919,6 +1995,18 @@ Day was an ichthyologist who made significant contributions to documenting Afgha
 ### Mentioned In
 - [[ComputerizedDataBaseForExoticF_1991]]
 
+## DBCP
+
+### Summary
+Dibromochloropropane, a soil fumigant pesticide. The source reports it was found in 59 of 170 wells sampled in Maricopa and Yuma counties in 1979–1980, leading to four public wells being removed from service, with use peaking at 495,800 pounds in 1979.
+
+### Context
+> This State summary from the [[National Water Summary 1986]] assesses ground-water quality in Arizona. Ground water is the principal public water source: about two-thirds of the State's 1983 water use and 65 percent of its population depended on it, and roughly 73 percent of withdrawals went to...
+> -- *[[ArizonaGroundwaterQuality_19602]]*
+
+### Mentioned In
+- [[ArizonaGroundwaterQuality_19602]]
+
 ## Dc Booth Historic Fish Hatchery
 <!-- fm: auto_enriched: true -->
 
@@ -1948,11 +2036,15 @@ I appreciate your question, but I must clarify that "Ddd" does not appear to be 
 > This comprehensive 1962 report by the [[Fish and Wildlife Service]] (Circular No. 143) summarizes research findings from 1960 on pesticide effects across wildlife, sport fisheries, and commercial fisheries. The document fulfills Public Law 85-582 mandating the Service to evaluate pesticide impacts...
 > -- *[[EffectsOfPesticidesOnFishAndWi_12842]]*
 
+> This 1967 document (Pesticides Monitoring Journal, Vol. 1, No. 2) contains two linked studies of persistent chlorinated pesticides. The first, by [[Cole et al. 1967]] (Pennsylvania State University and the Pennsylvania Fish Commission), tested commercial trout feed from four manufacturers and...
+> -- *[[PesticidesInHatcheryTroutdiffe_17109]]*
+
 ### Mentioned In
 - [[ConsiderationsForAcceptableCon_15438]]
 - [[DdtMetabolismInToler_1966]]
 - [[EffectsOfPesticidesOnFishAndWi_14331]]
 - [[EffectsOfPesticidesOnFishAndWi_12842]]
+- [[PesticidesInHatcheryTroutdiffe_17109]]
 
 ## Dde
 <!-- fm: auto_enriched: true -->
@@ -1964,10 +2056,14 @@ I appreciate your question, but I must clarify that "Ddd" does not appear to be 
 > This comprehensive 1964 report from the [[Fish and Wildlife Service]] documents extensive research on pesticide effects across multiple taxa and ecosystems. The [[Denver Wildlife Research Center]] shifted emphasis from general surveillance to intensive investigation of new pesticides as potential...
 > -- *[[WildlifeStudiesDenverWildlifeR_14329]]*
 
+> This 1967 document (Pesticides Monitoring Journal, Vol. 1, No. 2) contains two linked studies of persistent chlorinated pesticides. The first, by [[Cole et al. 1967]] (Pennsylvania State University and the Pennsylvania Fish Commission), tested commercial trout feed from four manufacturers and...
+> -- *[[PesticidesInHatcheryTroutdiffe_17109]]*
+
 ### Mentioned In
 - [[DdtMetabolismInToler_1966]]
 - [[EffectsOfPesticidesOnFishAndWi_14331]]
 - [[WildlifeStudiesDenverWildlifeR_14329]]
+- [[PesticidesInHatcheryTroutdiffe_17109]]
 
 ## DDMU
 
@@ -2027,6 +2123,12 @@ DDT is a synthetic chlorinated hydrocarbon pesticide that has significant impact
 > A 1965 survey was carried out in the Colne Valley, near the Maple Lodge sewage works, an area with a history of complaints about swarms of the non-biting midge [[Chironomus riparius]]. Larval densities in the water courses, previously very high, were now low (average below 10,000/m² at all...
 > -- *[[TheDistributionOfTheMidgeChiro_20216]]*
 
+> This 1967 document (Pesticides Monitoring Journal, Vol. 1, No. 2) contains two linked studies of persistent chlorinated pesticides. The first, by [[Cole et al. 1967]] (Pennsylvania State University and the Pennsylvania Fish Commission), tested commercial trout feed from four manufacturers and...
+> -- *[[PesticidesInHatcheryTroutdiffe_17109]]*
+
+> *At the Crossroads* is the January 1972 inaugural report of the [[California Department of Fish and Game]] (DFG) to Governor Ronald Reagan on the state's endangered and rare fish and wildlife. It was prepared under the [[California Species Preservation Act]] of 1970 and the [[California Endangered...
+> -- *[[AtTheCrossroadsAReportOnCalifo_20214]]*
+
 ### Mentioned In
 - [[DdtMetabolismInToler_1966]]
 - [[EffectsOfPesticidesOnFishAndWi_14331]]
@@ -2037,6 +2139,8 @@ DDT is a synthetic chlorinated hydrocarbon pesticide that has significant impact
 - [[EffectsOfPesticidesOnFishAndWi_12842]]
 - [[HowToGrowMoreFishInKansasThanI_18032]]
 - [[TheDistributionOfTheMidgeChiro_20216]]
+- [[PesticidesInHatcheryTroutdiffe_17109]]
+- [[AtTheCrossroadsAReportOnCalifo_20214]]
 
 ## Ddt And Ddd Toxicology
 <!-- fm: auto_enriched: true -->
@@ -2187,8 +2291,16 @@ Dead Horse Ranch State Park is a protected area located within the Verde Valley,
 > This document presents results from two public opinion surveys conducted in the [[Verde Valley]], Arizona between Fall 1990 and 1991. The first survey was administered at Verde River Days 1991, while the second was a comprehensive mail survey of community residents (n=94, 36% response rate) and...
 > -- *[[VerdeValleyReportsAndSurveysFr_12879]]*
 
+> This draft [[Fish and Wildlife Coordination Act]] report, prepared by the [[Fish and Wildlife Service]] in July 1989 and cooperating with the [[Arizona Game and Fish Department]], assesses how proposed [[Central Arizona Project]] (CAP) water exchanges and direct diversions by [[Bureau of...
+> -- *[[CentralArizonaProjectVerdeAndE_11603]]*
+
+> This draft Fish and Wildlife Coordination Act report, prepared by the [[U.S. Fish and Wildlife Service]] for the [[Bureau of Reclamation]] (December 14, 1988), assesses impacts of proposed [[Central Arizona Project]] (CAP) water exchanges and direct diversions on the Verde and East Verde Rivers in...
+> -- *[[DraftFishAndWildlifeCoordinati_11625]]*
+
 ### Mentioned In
 - [[VerdeValleyReportsAndSurveysFr_12879]]
+- [[CentralArizonaProjectVerdeAndE_11603]]
+- [[DraftFishAndWildlifeCoordinati_11625]]
 
 ## Dead Run
 
@@ -2410,6 +2522,18 @@ The Death Valley Agabus Diving Beetle (Agabus rumpii) is an aquatic beetle speci
 ### Mentioned In
 - [[HotSpringsAndFishLife_15318]]
 
+## Death Valley Cyprinodont Complex
+
+### Summary
+A group of pupfishes from Death Valley that has been studied for biochemical divergence. The source cites Turner (1974) and notes that the low levels of difference reported there are comparable to those found in the springfish populations.
+
+### Context
+> This study applies [[Protein Electrophoresis]] to the springfishes [[Crenichthys Baileyi]] and [[Crenichthys Nevadae]], a genus that had never been examined by allozyme methods. The authors sampled 180 fish from six population groups and scored 80 presumptive loci. Most populations of *C. baileyi*...
+> -- *[[BiochemicalGeneticsOfCrenichth_21075]]*
+
+### Mentioned In
+- [[BiochemicalGeneticsOfCrenichth_21075]]
+
 ## Death Valley Drainage
 
 ### Summary
@@ -2502,8 +2626,12 @@ Death Valley National Park is a conservation area in the western United States t
 > This grant proposal, submitted jointly by the municipal government of [[Cuatro Cienegas]], [[Arizona State University]] (ASU), and the [[Desert Fishes Council]] (DFC), requests $48,031 USD for a one-year training program in wetland management. The [[Cuatro Cienegas Basin]] in Coahuila, Mexico...
 > -- *[[UsfwsmexicoCooperativeProgramG_16498]]*
 
+> This [[National Park Service]] research proposal, submitted by [[James E. Deacon]] (principal investigator) and [[Eric S. Gustafson]] (graduate student) at the [[University of Nevada Las Vegas]], asks whether diel (daily) oxygen variation is needed for normal embryonic development and hatching in...
+> -- *[[ResearchProposalOutlineEffects_11729]]*
+
 ### Mentioned In
 - [[UsfwsmexicoCooperativeProgramG_16498]]
+- [[ResearchProposalOutlineEffects_11729]]
 
 ## Death Valley Province
 <!-- fm: auto_enriched: true -->
@@ -3093,6 +3221,18 @@ Structures placed in a stream to divert current away from eroding banks and to s
 ### Mentioned In
 - [[RiverPollutionAsAFisheriesProb_12292]]
 
+## Degree-Day Accumulation
+
+### Summary
+Degree-day accumulation is a measure of cumulative thermal exposure, used here to relate temperature conditions in the main channel and in nursery habitats to fish use. The study planned to calculate it from hourly temperature loggers placed in backwaters, so squawfish distribution could be compared with long-term thermal conditions rather than single-point samples. The source describes this as a planned analysis, not a completed result.
+
+### Context
+> This annual report from the [[Colorado River Fishes Recovery Program]] (Recovery Program Project 18-2, dated December 10, 1993) describes the second-to-last field season of a study on how [[Colorado Squawfish]] (*Ptychocheilus lucius*) nursery habitat forms and persists in the [[Green River]] below...
+> -- *[[YearFlamingGorgeFlowRecommenda_20257]]*
+
+### Mentioned In
+- [[YearFlamingGorgeFlowRecommenda_20257]]
+
 ## Dehydration
 <!-- fm: auto_enriched: true -->
 
@@ -3267,6 +3407,18 @@ Delmue Springs is the primary water source for Condor Canyon, providing base flo
 ### Mentioned In
 - [[BigSpringSpinedaceLepidomedaMo_11635]]
 
+## Delphi Technique
+
+### Summary
+A structured consensus method for eliciting expert judgment. In this study, Category I curves were supposed to be built with it, but the experts did not submit them, saying they lacked the data or knowledge to judge habitat needs.
+
+### Context
+> This 1990 paper by [[Valdez Et Al.]] (BIO/WEST, Inc.) presents habitat suitability index (SI) curves for the endangered [[Humpback Chub]] (*Gila cypha*) in the Upper [[Colorado River]] Basin. The curves were built from previously collected microhabitat data (1964–1986, 17 principal investigators,...
+> -- *[[HabitatSuitabilityIndexCurvesF_13643]]*
+
+### Mentioned In
+- [[HabitatSuitabilityIndexCurvesF_13643]]
+
 ## Delrad
 <!-- fm: auto_enriched: true -->
 
@@ -3301,6 +3453,18 @@ Delta County is the Colorado county where Forest Lake is located on Grand Mesa (
 ### Mentioned In
 - [[ForestLakeMarkedFishStudies_15614]]
 
+## Delta Fish Protective Facility
+
+### Summary
+A fish protection facility in the Sacramento-San Joaquin Delta that uses louvers to divert fish. The report says it reached 65–90% diversion efficiency, depending on fish size and species.
+
+### Context
+> This report compiles concept designs, operating experience, and screening technologies used in the United States to protect fish at water intakes. It was prepared under the 1974 US/USSR Agreement on Thermal Power Plant Heat Rejection and Water Supply Systems, which required the exchange of fish...
+> -- *[[FishProtectiveDevicesACompilat_11796]]*
+
+### Mentioned In
+- [[FishProtectiveDevicesACompilat_11796]]
+
 ## Delta Native Fishes Recovery Team
 
 ### Summary
@@ -3326,10 +3490,14 @@ The Delta Native Fishes Recovery Team was a conservation planning group on which
 > This document is a comprehensive curriculum vitae listing the publications, reports, presentations, and reviews of **Peter B. Moyle**, an aquatic ecologist and ichthyologist at the University of California, Davis. The CV spans 1964 to 1999 and documents 113+ peer-reviewed publications, 95+ reports...
 > -- *[[PublicationsOfPeterBMoyle_15442]]*
 
+> This document is not a research study. It is the closing reference section (printed pages 1109–1271) of a larger review of California fishes and aquatic ecosystems. It lists several thousand alphabetically ordered citations, from Aasen (1998) to Young (1994). The entries cover fish taxonomy, life...
+> -- *[[ReferencesForNdEditionOfInland_15457]]*
+
 ### Mentioned In
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[ConservationOfNativeFreshwater_15444]]
 - [[PublicationsOfPeterBMoyle_15442]]
+- [[ReferencesForNdEditionOfInland_15457]]
 
 ## Delta System
 <!-- fm: auto_enriched: true -->
@@ -3393,6 +3561,30 @@ Deltistes is a genus of catostomid suckers found in western North America. This 
 
 ### Mentioned In
 - [[TheDevelopmentOfPopulationEsti_14925]]
+
+## DeLury Estimate
+
+### Summary
+A DeLury estimate is a statistical method for estimating fish population or catch from successive removal data. In this source it was one of the benchmarks used to compute angler nonresponse by comparing voluntary tag returns against estimated catch.
+
+### Context
+> This 1962 report by [[Robert L. Butler]] of the [[California Department of Fish and Game]] (Inland Fisheries Branch) examines why voluntary angler tag returns often fail to represent the true catch of planted fish. Drawing on 76 tagging studies of catchable-sized [[Rainbow Trout]] in 17 California...
+> -- *[[RecognitionAndReturnOfTroutTag_14111]]*
+
+### Mentioned In
+- [[RecognitionAndReturnOfTroutTag_14111]]
+
+## DeLury Removal Method
+
+### Summary
+A depletion-based method for estimating fish population size from declining catches during repeated removal passes. In this report it was applied to Muddy Creek and Savery Creek, the smaller tributaries of the Little Snake River system.
+
+### Context
+> This Wyoming Game and Fish Department administrative report (February 1987; authors Kevin Johnson and Melvin Oberholtzer) describes a 1986 survey for [[Colorado Squawfish]] (*Ptychocheilus lucius*), a federally listed endangered species, in the [[Green River]] and [[Little Snake River]] drainages....
+> -- *[[InvestigationIntoPossibleOccur_19789]]*
+
+### Mentioned In
+- [[InvestigationIntoPossibleOccur_19789]]
 
 ## Demersal Egg Development
 <!-- fm: auto_enriched: true -->
@@ -3522,6 +3714,18 @@ Dendy (1946) studied pikeperch in Norris Reservoir, Tennessee and observed that 
 
 ### Mentioned In
 - [[SwimmingSpeedOfTheWesternSucke_14423]]
+
+## Denil Fishway
+
+### Summary
+A straight channel fishway with closely spaced baffles sloping upstream, which creates cross-currents that dissipate energy. The source says it performs well under normal level fluctuations but needs much more water and is more complex, and that only one had been built in Maine as of 1956.
+
+### Context
+> This 1956 pamphlet, Pamphlet No. 5 of the [[Inland Fisheries and Game Department]] (Maine), sets out the Department's policy on [[Fishway]] (fish ladder) construction, operation and function. Written by Chief Engineer [[Laurence Decker]], it explains why fishways are needed to restore fish...
+> -- *[[FishwaysInMaine_12745]]*
+
+### Mentioned In
+- [[FishwaysInMaine_12745]]
 
 ## Denison Dam
 <!-- fm: auto_enriched: true -->
@@ -3859,6 +4063,18 @@ Department of Soil & Water Science is an academic department at the University o
 - [[ExperimentalDigitalShadedrelie_15792]]
 - [[JuneSteeringCommitteeMeetingAn_20943]]
 
+## Department Of Water Resources
+
+### Summary
+A state agency whose ownership is one category of fish hatchery listed in the Department of Fish and Game facilities directory included in this package. The other categories are state-operated and privately owned facilities run by the Department.
+
+### Context
+> This document is a 1982 California Department of Fish and Game Scientific Collector's Permit, issued to W.L. Minckler of Tempe, Arizona, together with supporting material: lists of state and federally protected species, the 1975 list of fully protected animals, a directory of Department facilities,...
+> -- *[[CollectingPermitAndEndangeredR_11465]]*
+
+### Mentioned In
+- [[CollectingPermitAndEndangeredR_11465]]
+
 ## Department of Zoology
 
 ### Summary
@@ -3935,6 +4151,18 @@ A fossil fish known from jaw fragments from El Modena and Alhambra, California. 
 ### Mentioned In
 - [[DescriptionOfMioceneFishesFrom_19848]]
 
+## Depressicambarus
+
+### Summary
+A subgenus of the crayfish genus Cambarus. The source places Cambarus unestami in this subgenus.
+
+### Context
+> This 1969 taxonomic paper by [[Horton H. Hobbs Jr.]] and [[Edward T. Hall Jr.]] (Smithsonian Institution and Georgia Water Quality Control Board) describes two new crayfish species from Georgia, both in the genus *Cambarus*. [[Cambarus Howardi]] belongs to the typical subgenus and is known from the...
+> -- *[[NewCrayfishesFromGeorgiaDecapo_20421]]*
+
+### Mentioned In
+- [[NewCrayfishesFromGeorgiaDecapo_20421]]
+
 ## Derby Dam
 <!-- fm: auto_enriched: true -->
 
@@ -4008,9 +4236,13 @@ Derris is a plant genus from which rotenone, the primary piscicide used in Calif
 > This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
 > -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
 
+> This 1949 U.S. Fish and Wildlife Service leaflet, prepared by the Branches of Fishery Biology and Game-fish and Hatcheries, gives practical guidance on using [[Rotenone]] (from [[Derris]] and [[Cube]] powders) to eradicate unwanted fish from lakes, ponds, and streams. It stresses that poisoning...
+> -- *[[TheUseOfRotenoneAsAFishPoison_13279]]*
+
 ### Mentioned In
 - [[RoughFishControl_20167]]
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
+- [[TheUseOfRotenoneAsAFishPoison_13279]]
 
 ## Derris Root
 
@@ -4668,6 +4900,12 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 > This keynote paper by E. P. Pister and W. C. Unkel, of the [[California Department of Fish and Game]], reviews the steep loss of western wetlands and their associated fish faunas since World War II. California has lost more than 90 percent of its historic wetlands, and the greatest losses of fishes...
 > -- *[[ConservationOfWesternWetlandsA_18603]]*
 
+> This bundle of documents concerns the forthcoming volume *Battle Against Extinction: Native Fish Management in the American West*, edited by [[W.L. Minckley]] and [[James E. Deacon]] for the [[University of Arizona Press]]. The volume is a symposium-derived compilation on declines and extinctions...
+> -- *[[ManuscriptAppraisalForWlMinckl_11437]]*
+
+> This document set comprises a 1993 cover letter and the Primer Informe (First Report: Description and Analysis) of the *Proyecto de Ordenamiento Ecológico, del Uso y Aprovechamiento del Agua* for the [[Cuatro Ciénegas]] region of [[Coahuila]], Mexico. The project was commissioned by [[SEDESOL]]...
+> -- *[[PreliminaryWorkOnCuatroCienega_18141]]*
+
 ### Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -4794,6 +5032,8 @@ The Desert Fishes Council is a professional organization of ichthyologists, cons
 - [[UsfwsmexicoGrantRequestTrainin_15836]]
 - [[BogHoleRenovationProjectPropos_12750]]
 - [[ConservationOfWesternWetlandsA_18603]]
+- [[ManuscriptAppraisalForWlMinckl_11437]]
+- [[PreliminaryWorkOnCuatroCienega_18141]]
 
 ## Desert Fishes Council Newsletter
 <!-- fm: auto_enriched: true -->
@@ -5052,10 +5292,14 @@ Desert Game Range is a USDI-Fish and Wildlife Service property in Clark County, 
 > This 1981 report by Dirk V. Lanning, prepared for [[The Nature Conservancy]] and the [[U.S. Fish and Wildlife Service]] through the [[Arizona Natural Heritage Program]], presents a baseline vertebrate survey of the 984 ha [[San Bernardino Ranch]], a spring-fed riparian oasis at the northern...
 > -- *[[TheVertebratesOfSanBernardinoR_12717]]*
 
+> This final report (1981), edited by Terry B. Johnson for the Trust for the George Whittell Wildlife Preserve, closes a three-year biological survey of the [[George Whittell Wildlife Preserve]] in southeastern Arizona. The Preserve covers 26,104 acres (6,029 deeded, 20,075 leased) on the north...
+> -- *[[FinalReportForTheBiologicalSur_19813]]*
+
 ### Mentioned In
 - [[TheSantaCatalinaMountainsEcolo_1967_03_10]]
 - [[ReportOnTheSurveyOfTheMammalsO_11840]]
 - [[TheVertebratesOfSanBernardinoR_12717]]
+- [[FinalReportForTheBiologicalSur_19813]]
 
 ## Desert Iguana
 
@@ -5146,6 +5390,18 @@ Desert Minnow (Cyprinodon macularius) is a small fish native to the Salton Sink 
 
 ### Mentioned In
 - [[VerdeRiverFishSampling_1989_03_06]]
+
+## Desert Mountain-Sucker
+
+### Summary
+The Desert Mountain-Sucker is a native fish of Aravaipa Creek, listed among the seven native species in the canyon and tributaries. The source includes it in its fish fauna survey without giving additional findings specific to this species.
+
+### Context
+> This Bureau of Land Management (BLM) Cultural Resource Series monograph (No. 7, 1991), prepared by [[Diana Hadley]], [[Peter Warshall]] and [[Don Bufkin]] of Hadley Associates, reconstructs a century of human-caused and natural environmental change in the [[Aravaipa Canyon]] area of southeastern...
+> -- *[[EnvironmentalChangesInAravaipa_20951]]*
+
+### Mentioned In
+- [[EnvironmentalChangesInAravaipa_20951]]
 
 ## Desert Nesting Bald Eagle
 
@@ -5448,6 +5704,15 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > This is a 1994 U.S. Fish and Wildlife Service (FWS) correspondence package, not a research study. It is a subpermit letter, dated July 18, 1994, from the Regional Director to Dr. W.L. Minckley of [[Arizona State University]]. It authorizes Minckley and named colleagues and graduate assistants to...
 > -- *[[EndangeredSpeciesPermit_21118]]*
 
+> This bundle of documents concerns the forthcoming volume *Battle Against Extinction: Native Fish Management in the American West*, edited by [[W.L. Minckley]] and [[James E. Deacon]] for the [[University of Arizona Press]]. The volume is a symposium-derived compilation on declines and extinctions...
+> -- *[[ManuscriptAppraisalForWlMinckl_11437]]*
+
+> This document is not a research study. It is the closing reference section (printed pages 1109–1271) of a larger review of California fishes and aquatic ecosystems. It lists several thousand alphabetically ordered citations, from Aasen (1998) to Young (1994). The entries cover fish taxonomy, life...
+> -- *[[ReferencesForNdEditionOfInland_15457]]*
+
+> A June 4, 1984 memorandum from the [[Bureau of Land Management]] (BLM) Phoenix District Office to the State Director transmits a Briefing Summary, Supplemental Environmental Assessment, and Operational Plan for introducing [[Gila Topminnow]] and [[Desert Pupfish]] to eleven sites. The effort is a...
+> -- *[[IntroductionOfGilaTopminnowAnd_19839]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -5697,6 +5962,9 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[ReassessmentOfOriginalInformat_13781]]
 - [[GilaTopminnowPoeciliopsisOccid_19672]]
 - [[EndangeredSpeciesPermit_21118]]
+- [[ManuscriptAppraisalForWlMinckl_11437]]
+- [[ReferencesForNdEditionOfInland_15457]]
+- [[IntroductionOfGilaTopminnowAnd_19839]]
 
 ## Desert Pupfish Conservation
 <!-- fm: auto_enriched: true -->
@@ -5753,6 +6021,18 @@ The Desert Research Institute was one of the participating institutions in the E
 - [[CommissionPresentationOnCaptiv_1994_12_08]]
 - [[LowerColoradoRiverMultispecies_11766]]
 
+## Desert Slender Salamander
+
+### Summary
+An endangered salamander (Batrachoseps aridus) of desert habitats. The report says it is known only from Hidden Palm Canyon in Riverside County.
+
+### Context
+> *At the Crossroads* is the January 1972 inaugural report of the [[California Department of Fish and Game]] (DFG) to Governor Ronald Reagan on the state's endangered and rare fish and wildlife. It was prepared under the [[California Species Preservation Act]] of 1970 and the [[California Endangered...
+> -- *[[AtTheCrossroadsAReportOnCalifo_20214]]*
+
+### Mentioned In
+- [[AtTheCrossroadsAReportOnCalifo_20214]]
+
 ## Desert Southwest
 <!-- fm: auto_enriched: true -->
 
@@ -5802,6 +6082,18 @@ Desert spring endemism refers to the phenomenon where fish species evolve in iso
 - [[Cuatro Ciénegas Food Web]]
 - [[PossibleAlternativeA_1989_01_20]]
 - [[ReproductionAndGrowthOfThePahr_15649]]
+
+## Desert Springs
+
+### Summary
+Desert springs are spring-fed water sources in arid landscapes, ranging from creek-forming flows to quiet pools and marsh seepages. The source says they offer constant flow and stable physicochemical conditions, though harsh water chemistry can exclude some fishes, and that their isolation produces high endemism much like islands.
+
+### Context
+> This review by Gary K. Meffe (Savannah River Ecology Laboratory) argues that small desert springs and [[Ciénegas]] (riparian marshlands), though a small fraction of surface water in the arid American Southwest, are critical to the evolution, persistence and endemism of native fishes. Using...
+> -- *[[FishUtilizationOfSpringsAndCie_20080]]*
+
+### Mentioned In
+- [[FishUtilizationOfSpringsAndCie_20080]]
 
 ## Desert Springs And Marshes
 
@@ -5905,6 +6197,18 @@ Desert Stream Ecosystems are lotic freshwater systems found in arid regions such
 
 ### Mentioned In
 - [[SpikedaceAndLoachMinnowStudyPr_1988_02_08]]
+
+## Desert Streams
+
+### Summary
+Desert streams are the flowing waterways of arid regions, which the source describes as unstable, prone to flash-flood scouring, and sometimes intermittently drying. Because of these conditions, they are one of the main, though harsh, habitats where aquatic life in the arid Southwest is confined, alongside springs and ciénegas.
+
+### Context
+> This review by Gary K. Meffe (Savannah River Ecology Laboratory) argues that small desert springs and [[Ciénegas]] (riparian marshlands), though a small fraction of surface water in the arid American Southwest, are critical to the evolution, persistence and endemism of native fishes. Using...
+> -- *[[FishUtilizationOfSpringsAndCie_20080]]*
+
+### Mentioned In
+- [[FishUtilizationOfSpringsAndCie_20080]]
 
 ## Desert Subsistence Economies
 <!-- fm: auto_enriched: true -->
@@ -6081,6 +6385,12 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > This study examines the diet and foraging habitat of the [[Bald Eagle]] (*Haliaeetus leucocephalus*) population breeding along the [[Salt River]] and [[Verde River]] in central Arizona. The population is small and occupies the southern edge of the species' range in a desert riparian setting. Eleven...
 > -- *[[UtilizationOfBenthicfeedingFis_20740]]*
 
+> This draft [[Fish and Wildlife Coordination Act]] report, prepared by the [[Fish and Wildlife Service]] in July 1989 and cooperating with the [[Arizona Game and Fish Department]], assesses how proposed [[Central Arizona Project]] (CAP) water exchanges and direct diversions by [[Bureau of...
+> -- *[[CentralArizonaProjectVerdeAndE_11603]]*
+
+> This intra-Service biological opinion (Cons. #2-22-94-F-210, dated February 23, 1994) evaluates a [[Partners for Wildlife Challenge Cost Share Agreement]] between [[The Nature Conservancy]] and the [[U.S. Fish and Wildlife Service]]. The project would detonate and remove the southernmost of four...
+> -- *[[IntraserviceBiologicalOpinionP_18806]]*
+
 ### Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -6204,6 +6514,8 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[MovementsOfNativeFishesAndImpa_13762]]
 - [[RegionIiStreamHabitatSurveyMet_15919]]
 - [[UtilizationOfBenthicfeedingFis_20740]]
+- [[CentralArizonaProjectVerdeAndE_11603]]
+- [[IntraserviceBiologicalOpinionP_18806]]
 
 ## Desert Tortoise
 <!-- fm: auto_enriched: true -->
@@ -6260,6 +6572,9 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > This is a 1994 U.S. Fish and Wildlife Service (FWS) correspondence package, not a research study. It is a subpermit letter, dated July 18, 1994, from the Regional Director to Dr. W.L. Minckley of [[Arizona State University]]. It authorizes Minckley and named colleagues and graduate assistants to...
 > -- *[[EndangeredSpeciesPermit_21118]]*
 
+> This final report (1981), edited by Terry B. Johnson for the Trust for the George Whittell Wildlife Preserve, closes a three-year biological survey of the [[George Whittell Wildlife Preserve]] in southeastern Arizona. The Preserve covers 26,104 acres (6,029 deeded, 20,075 leased) on the north...
+> -- *[[FinalReportForTheBiologicalSur_19813]]*
+
 ### Mentioned In
 - [[ReportingFederalExpendituresPu_1992_11_25]]
 - [[PapagoParkMilitaryReservationB_13351]]
@@ -6278,6 +6593,7 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[DraftLowerVirginRiverProjectPr_11483]]
 - [[WrittenCommentsOnDraftGeneralM_20520]]
 - [[EndangeredSpeciesPermit_21118]]
+- [[FinalReportForTheBiologicalSur_19813]]
 
 ## Desert Tortoises
 
@@ -6416,6 +6732,18 @@ Desolation Canyon is a significant reach of the Green River in the upper Colorad
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[SwimmingUpstreamTheEndangeredF_15037]]
 
+## Desolation Canyon and Gray Canyon
+
+### Summary
+Desolation and Gray Canyons are sections of the Green River used as a geographic dividing line in the study design. Sites were stratified as lying above or below these canyons, with Block 1 listing 12 sites above and Block 2 listing 8 sites below.
+
+### Context
+> This draft plan, prepared for the [[Upper Basin Recovery Implementation Program]] (UBRIP) and dated October 4, 1995, sets out a strategy for removing or breaching levees on selected [[Floodplain Wetlands]] in the Upper Colorado River Basin. The goal is to restore floodplain function that supports...
+> -- *[[LeveeRemovalStrategicPlan_18081]]*
+
+### Mentioned In
+- [[LeveeRemovalStrategicPlan_18081]]
+
 ## Desolation Gray Canyons
 
 ### Summary
@@ -6460,6 +6788,18 @@ Detection efficiency measures the probability that tagged fish are successfully 
 ### Mentioned In
 - [[RazorbackSuckerMovementStrateg_2020]]
 
+## Detection Limit
+
+### Summary
+The detection limit is the lowest level a method can reliably measure. In the fish study it was 0.002 ppm, and values below it were reported as NR (no residue).
+
+### Context
+> This 1967 document (Pesticides Monitoring Journal, Vol. 1, No. 2) contains two linked studies of persistent chlorinated pesticides. The first, by [[Cole et al. 1967]] (Pennsylvania State University and the Pennsylvania Fish Commission), tested commercial trout feed from four manufacturers and...
+> -- *[[PesticidesInHatcheryTroutdiffe_17109]]*
+
+### Mentioned In
+- [[PesticidesInHatcheryTroutdiffe_17109]]
+
 ## Detox Station
 
 ### Summary
@@ -6471,6 +6811,18 @@ The facility set up on the Virgin River to neutralize rotenone before it moved d
 
 ### Mentioned In
 - [[SummaryOfTheMeetingOfOctoberCo_14775]]
+
+## Detoxification Station
+
+### Summary
+A facility built to neutralize rotenone before it reached downstream waters. In this 1962 project, the station at Brown's Park Bridge, about 31 river miles below Flaming Gorge Dam, used potassium permanganate to protect Dinosaur National Monument. The report describes detoxification failures, including supply shortfalls and crystal quality problems, and fish kills that still occurred within the monument.
+
+### Context
+> This joint Utah–Wyoming report documents the planning, execution and post-treatment analysis of a 1962 chemical rehabilitation of roughly 450 miles of the [[Green River]] and its tributaries above [[Flaming Gorge Dam]]. The project aimed to remove non-desirable fish, chiefly [[Carp]], suckers and...
+> -- *[[ThePlanningOperationAndAnalysi_17632]]*
+
+### Mentioned In
+- [[ThePlanningOperationAndAnalysi_17632]]
 
 ## Detracia floridana
 
@@ -6614,12 +6966,16 @@ Northern pike are listed as a "detrimental animal" under California Code of Regu
 > This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
 > -- *[[FishesOfNevada_15993]]*
 
+> This [[National Park Service]] research proposal, submitted by [[James E. Deacon]] (principal investigator) and [[Eric S. Gustafson]] (graduate student) at the [[University of Nevada Las Vegas]], asks whether diel (daily) oxygen variation is needed for normal embryonic development and hatching in...
+> -- *[[ResearchProposalOutlineEffects_11729]]*
+
 ### Mentioned In
 - [[CommentsOnTheDesertFishesCounc_20490]]
 - [[InformalSectionConsultationReP_13297]]
 - [[DevilsHolePupfishCyprinodonDia_18341]]
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[FishesOfNevada_15993]]
+- [[ResearchProposalOutlineEffects_11729]]
 
 ## Devil'S Hole Pupfish
 <!-- fm: auto_enriched: true -->
@@ -6801,6 +7157,9 @@ The Devils Hole Pupfish (*Cyprinodon diabolis*) is an extremely endangered cypri
 > This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
 > -- *[[PartEndangeredAndThreatenedWil_11733]]*
 
+> This bundle of documents concerns the forthcoming volume *Battle Against Extinction: Native Fish Management in the American West*, edited by [[W.L. Minckley]] and [[James E. Deacon]] for the [[University of Arizona Press]]. The volume is a symposium-derived compilation on declines and extinctions...
+> -- *[[ManuscriptAppraisalForWlMinckl_11437]]*
+
 ### Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
@@ -6838,6 +7197,7 @@ The Devils Hole Pupfish (*Cyprinodon diabolis*) is an extremely endangered cypri
 - [[MxMissileSystemAnUrgentLetterF_20507]]
 - [[RegionalInformationSummaryOfTh_12740]]
 - [[PartEndangeredAndThreatenedWil_11733]]
+- [[ManuscriptAppraisalForWlMinckl_11437]]
 
 ## Devils Hole Warm Spring Riffle Beetle
 
@@ -7657,6 +8017,12 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 > This Comprehensive Management Plan (CMP) covers the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona, and sets a 20-year planning framework for managing both units as elements of a larger "area of ecological concern" centred on...
 > -- *[[DraftSanBernardinoNationalWild_11500]]*
 
+> This compiled set of U.S. Fish and Wildlife Service (Service) documents, dated roughly 1991–1994, addresses how the [[National Fish Hatchery System]] (NFHS) can better conserve wild stocks, maintain genetic integrity, and propagate threatened and endangered fishes. Central proposals include the...
+> -- *[[ChangingDirectionsOfTheNationa_11656]]*
+
+> This U.S. Fish and Wildlife Service Environmental Assessment (September 1993) evaluates a proposal by [[Cibola National Wildlife Refuge]], the [[Parker Fishery Resource Office]], the [[Arizona Game and Fish Department]] and the [[U.S. Bureau of Reclamation]] to build growout ponds for rearing...
+> -- *[[EnvironmentalAssessmentForProp_17082]]*
+
 ### Mentioned In
 - [[AnnualReportOnUSBureauOfReclam_19117]]
 - [[BonytailChubsHeldAtWillowBeach_1993_05_13]]
@@ -7694,6 +8060,8 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 - [[GeneralGeneticGuidelinesForReg_18841]]
 - [[VirginRiverFishesRecoveryPlan_13186]]
 - [[DraftSanBernardinoNationalWild_11500]]
+- [[ChangingDirectionsOfTheNationa_11656]]
+- [[EnvironmentalAssessmentForProp_17082]]
 
 ## Dexter Nfh
 <!-- fm: auto_enriched: true -->
@@ -8009,6 +8377,18 @@ Diamond Y Spring is a spring in Pecos County, Texas, serving as the type localit
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 
+## Diana Hadley
+
+### Summary
+Diana Hadley is one of the three authors of this 1991 BLM monograph on environmental change in Aravaipa, working through Hadley Associates. She contributed to the documentary research, field observation and oral history work that the report combines.
+
+### Context
+> This Bureau of Land Management (BLM) Cultural Resource Series monograph (No. 7, 1991), prepared by [[Diana Hadley]], [[Peter Warshall]] and [[Don Bufkin]] of Hadley Associates, reconstructs a century of human-caused and natural environmental change in the [[Aravaipa Canyon]] area of southeastern...
+> -- *[[EnvironmentalChangesInAravaipa_20951]]*
+
+### Mentioned In
+- [[EnvironmentalChangesInAravaipa_20951]]
+
 ## Diaphanosoma brachyurum
 <!-- fm: auto_enriched: true -->
 
@@ -8277,8 +8657,12 @@ Diatomaceous earth is a naturally occurring sedimentary rock composed of fossili
 > This 1963 study by Herbert and Richards investigated the effects of suspended industrial solids on [[Rainbow Trout]] (Oncorhynchus mykiss) and [[Brown Trout]] (Salmo trutta) through laboratory experiments and field surveys. Laboratory tests examined survival and growth of yearling rainbow trout...
 > -- *[[TheGrowthAndSurvivalOfFishInSo_16699]]*
 
+> This laboratory study by D. W. M. Herbert and J. C. Merkens, of the [[Water Pollution Research Laboratory]] in Stevenage, tested whether inert mineral particles held in suspension at relatively low concentrations (30 to 810 p.p.m.) harm [[Rainbow Trout]] directly. Two commercial solids were used,...
+> -- *[[TheEffectOfSuspendedMineralSol_16698]]*
+
 ### Mentioned In
 - [[TheGrowthAndSurvivalOfFishInSo_16699]]
+- [[TheEffectOfSuspendedMineralSol_16698]]
 
 ## Diatoms
 <!-- fm: auto_enriched: true -->
@@ -8290,10 +8674,14 @@ Diatomaceous earth is a naturally occurring sedimentary rock composed of fossili
 > This educational article from the New York State Conservationist examines the ecological importance of algae in freshwater systems, their role in aquatic food chains, and management considerations for controlling excessive algal growth. The document addresses common concerns about algae control...
 > -- *[[Algae_19232]]*
 
+> This Bureau of Reclamation technical report (R-92-14, October 1992) by Davine Lieberman documents a two-year limnological study (April 1989 to May 1991) of [[Calamus Reservoir]], a young impoundment created by [[Calamus Dam]] on the Calamus River in the Sand Hills of central Nebraska. The reservoir...
+> -- *[[LimnologyOfAPrairieReservoirAN_11701]]*
+
 ### Mentioned In
 - [[CollectingAndMountingMethodsFo_12966]]
 - [[Eutrophication_1967_05_06]]
 - [[Algae_19232]]
+- [[LimnologyOfAPrairieReservoirAN_11701]]
 
 ## Dibutyl Tin Dilaurate
 
@@ -8342,6 +8730,18 @@ Dibutyl tin dilaurate is an anthelmintic chemical used against tapeworms and adu
 
 ### Mentioned In
 - [[ChecklistOfParasitesFromCatfis_1959]]
+
+## Dichotomous Key
+
+### Summary
+A dichotomous key is an identification tool that presents paired, contrasting character states, with each pair leading the user to a family or to the next couplet. This source builds its key around four master subkeys based on pelvic fin position, pelvic ray count, and dorsal fin continuity.
+
+### Context
+> This document is a provisional "working key" by Donald A. Thomson and William H. Eger (Department of Zoology, University of Arizona, July 1964) for identifying 66 fish families likely to occur in the shallow inshore waters of the [[Upper Gulf of California]], between [[Guaymas]] and [[Puerto...
+> -- *[[KeyToTheFamiliesOfTheInshoreTe_13333]]*
+
+### Mentioned In
+- [[KeyToTheFamiliesOfTheInshoreTe_13333]]
 
 ## Dichotomous Keys
 
@@ -8434,6 +8834,18 @@ Dictyosphaerium is a green alga found in the phytoplankton community of Twin Lak
 ### Mentioned In
 - [[DiurnalRhythmInOrganicDriftOfG_15500]]
 
+## Diel Oxygen Variation
+
+### Summary
+Daily cycles in dissolved oxygen, with highs typically around midday and lows before dawn. The proposal treats these cycles as a possible requirement for normal embryonic development in Devil's Hole pupfish, and tests this by monitoring oxygen at 15-minute intervals near expected maxima and minima.
+
+### Context
+> This [[National Park Service]] research proposal, submitted by [[James E. Deacon]] (principal investigator) and [[Eric S. Gustafson]] (graduate student) at the [[University of Nevada Las Vegas]], asks whether diel (daily) oxygen variation is needed for normal embryonic development and hatching in...
+> -- *[[ResearchProposalOutlineEffects_11729]]*
+
+### Mentioned In
+- [[ResearchProposalOutlineEffects_11729]]
+
 ## Diel Vertical Migration
 <!-- fm: auto_enriched: true -->
 
@@ -8464,6 +8876,9 @@ Dieldrin is a persistent organochlorine pesticide that bioaccumulates in aquatic
 > This comprehensive 1962 report by the [[Fish and Wildlife Service]] (Circular No. 143) summarizes research findings from 1960 on pesticide effects across wildlife, sport fisheries, and commercial fisheries. The document fulfills Public Law 85-582 mandating the Service to evaluate pesticide impacts...
 > -- *[[EffectsOfPesticidesOnFishAndWi_12842]]*
 
+> This 1967 document (Pesticides Monitoring Journal, Vol. 1, No. 2) contains two linked studies of persistent chlorinated pesticides. The first, by [[Cole et al. 1967]] (Pennsylvania State University and the Pennsylvania Fish Commission), tested commercial trout feed from four manufacturers and...
+> -- *[[PesticidesInHatcheryTroutdiffe_17109]]*
+
 ### Mentioned In
 - [[AccumulationAndEliminationOfDi_1977]]
 - [[EffectsOfPesticidesOnFishAndWi_14331]]
@@ -8473,6 +8888,7 @@ Dieldrin is a persistent organochlorine pesticide that bioaccumulates in aquatic
 - [[WildlifeStudiesDenverWildlifeR_14329]]
 - [[WildlifeStudiesPatuxentWildlif_14328]]
 - [[EffectsOfPesticidesOnFishAndWi_12842]]
+- [[PesticidesInHatcheryTroutdiffe_17109]]
 
 ## Diet Plasticity In Fish
 <!-- fm: auto_enriched: true -->
@@ -8502,6 +8918,18 @@ Difficult Run is the largest creek system in the surveyed area, located in Virgi
 ### Mentioned In
 - [[SmallFishCommunityStructureInO_1982]]
 - [[OutlineOfThoughtsForAMethodolo_15198]]
+
+## Diffusion Floor
+
+### Summary
+A diffusion floor is a depth below which vertical mixing is strongly suppressed, typically under a stable thermocline. The source reports such floors as close to the surface as 1 m during calm July periods, even with temperature drops of only a few degrees.
+
+### Context
+> This paper, presented at a Great Lakes research conference, reviews the University of Waterloo group's work on how pollutants spread through the Great Lakes. It argues that effluent concentrations are random variables, so engineering estimates should rely on statistics beyond the mean, chiefly the...
+> -- *[[DispersalOfForeignMatterByTheC_18087]]*
+
+### Mentioned In
+- [[DispersalOfForeignMatterByTheC_18087]]
 
 ## Digenetic Trematode
 <!-- fm: auto_enriched: true -->
@@ -8571,6 +8999,30 @@ Dill is a researcher who in 1944 characterized the river-reservoir system of the
 ### Mentioned In
 - [[TheBiologyOfTheRazorbackSucker_1979_10_22]]
 - [[ATaggingExperimentWithChannelC_12244]]
+
+## Dill and Cordone 1997
+
+### Summary
+A 414-page compilation titled 'History and status of introduced fishes in California, 1871–1996.' The source describes it as the most comprehensive regional compilation on introduced fishes in the state.
+
+### Context
+> This document is not a research study. It is the closing reference section (printed pages 1109–1271) of a larger review of California fishes and aquatic ecosystems. It lists several thousand alphabetically ordered citations, from Aasen (1998) to Young (1994). The entries cover fish taxonomy, life...
+> -- *[[ReferencesForNdEditionOfInland_15457]]*
+
+### Mentioned In
+- [[ReferencesForNdEditionOfInland_15457]]
+
+## Dilution Factor
+
+### Summary
+The dilution factor is the ratio of an outfall's concentration at a given distance to its initial concentration. The source estimates it at 1 km using a Gaussian-based formula that depends on current speed and plume spreads, and finds that even small plants dilute only about 30:1 there.
+
+### Context
+> This paper, presented at a Great Lakes research conference, reviews the University of Waterloo group's work on how pollutants spread through the Great Lakes. It argues that effluent concentrations are random variables, so engineering estimates should rely on statistics beyond the mean, chiefly the...
+> -- *[[DispersalOfForeignMatterByTheC_18087]]*
+
+### Mentioned In
+- [[DispersalOfForeignMatterByTheC_18087]]
 
 ## Dimethyl Sulfoxide
 <!-- fm: auto_enriched: true -->
@@ -8793,6 +9245,18 @@ Dinobryon is a chrysophyte (golden-brown algae) that dominates the phytoplankton
 ### Mentioned In
 - [[StudiesOnAKentuckyKnobsLakeIii_16009]]
 
+## Dinoflagellate
+
+### Summary
+Dinoflagellates are a group of mostly marine single-celled flagellate organisms, several of which can form harmful blooms. In this source, the Florida Red Tide organism belongs to this group, within the genus Gymnodinium, and it is described as moving in an irregular spiral with two flagella. The source treats it as a plant-like organism that depends on light for energy.
+
+### Context
+> This U.S. Fish and Wildlife Service staff publication (Bureau of Commercial Fisheries Biological Laboratory, Galveston, Texas) reviews the [[Florida Red Tide]], a recurring fish-killing phenomenon on Florida's Gulf coast. The 1946–47 outbreak, which followed a roughly 30-year absence, killed...
+> -- *[[TheFloridaRedTide_13266]]*
+
+### Mentioned In
+- [[TheFloridaRedTide_13266]]
+
 ## Dinosaur National Monument
 <!-- fm: auto_enriched: true -->
 
@@ -8902,6 +9366,9 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 > This museum publication, prepared by [[Robert Rush Miller]] (Curator of Fishes, Museum of Zoology, University of Michigan) with contributions credited to Paul C. Marsh, surveys the fishes of [[Dinosaur National Monument]]. Water for fish is supplied mainly by the [[Green River]] and [[Yampa...
 > -- *[[FishesOfDinosaur_15347]]*
 
+> This joint Utah–Wyoming report documents the planning, execution and post-treatment analysis of a 1962 chemical rehabilitation of roughly 450 miles of the [[Green River]] and its tributaries above [[Flaming Gorge Dam]]. The project aimed to remove non-desirable fish, chiefly [[Carp]], suckers and...
+> -- *[[ThePlanningOperationAndAnalysi_17632]]*
+
 ### Mentioned In
 - [[AResumeOfTheDetoxificationPhas_1963]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -8948,6 +9415,7 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 - [[SwimmingUpstreamTheEndangeredF_15037]]
 - [[IsOurNativeUnderwaterLifeWorth_15341]]
 - [[FishesOfDinosaur_15347]]
+- [[ThePlanningOperationAndAnalysi_17632]]
 
 ## Dinosaur National Park
 <!-- fm: auto_enriched: true -->
@@ -9236,6 +9704,18 @@ The official government-to-government routes through which Mexico requires all f
 ### Mentioned In
 - [[MexicanPermits_20832]]
 
+## Diplomatic Note
+
+### Summary
+A formal written communication between governments, used here as the required channel for submitting research requests to the Mexican Secretariat of Foreign Relations. According to the source, approval is granted only in writing through a diplomatic note from that secretariat, and any substantive amendment to an approved project must also be approved this way.
+
+### Context
+> This document is an administrative correspondence and regulatory packet, not a fish study. A U.S. Embassy letter dated January 10, 1989 (which refers to a researcher's inquiry dated January 3, 1990) sends [[W.L. Minckley]], Professor of Zoology at [[Arizona State University]], the [[Mexican...
+> -- *[[WlmResearchRequestcuatroCieneg_19488]]*
+
+### Mentioned In
+- [[WlmResearchRequestcuatroCieneg_19488]]
+
 ## Diplomatic Notes
 
 ### Summary
@@ -9493,8 +9973,16 @@ The Dirty Devil River is one of the major tributaries flowing into Lake Powell w
 > related: [[Morone]] · [[Sheared Principal Components Analysis]] · [[Discriminant Analysis]] · [[Truss Network Morphometrics]] · [[Fish Hybridization]] · [[Reservoir Fisheries Management]]
 > -- *[[MultivariateMorphometricAnalys_1991]]*
 
+> This 1983 study by [[James J. Cooper]] (Bioresources Center, Desert Research Institute) surveys fish distribution in the [[Pit River]] and its tributaries between Turner and Juniper creeks in northeastern California, based on fieldwork in summer and fall 1978. The survey found native fishes...
+> -- *[[DistributionalEcologyOfNativeA_17570]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) manual part, Release No. 1-81 (April 10, 1981), sets standards for building [[Habitat Suitability Index]] (HSI) models for use with the [[Habitat Evaluation Procedures]] (HEP). An HSI is a 0–1.0 index of a habitat's capacity to support a species, and...
+> -- *[[StandardsForTheDevelopmentOfHa_18273]]*
+
 ### Mentioned In
 - [[MultivariateMorphometricAnalys_1991]]
+- [[DistributionalEcologyOfNativeA_17570]]
+- [[StandardsForTheDevelopmentOfHa_18273]]
 
 ## Discriminant Function Analysis
 <!-- fm: auto_enriched: true -->
@@ -9656,6 +10144,18 @@ Dissolved oxygen (DO) is the concentration of oxygen gas dissolved in water that
 > This two-part study by R. [[Lloyd]] and D. H. M. [[Herbert]] (Jordan in the source) tests whether the acute toxicity of [[Sewage Effluent]] to [[Rainbow Trout]] (*Salmo gairdnerii*) can be predicted from chemical analysis of a few common poisons. The authors summed the individual toxicities of...
 > -- *[[PredictedAndObservedToxicities_16173]]*
 
+> This [[National Park Service]] research proposal, submitted by [[James E. Deacon]] (principal investigator) and [[Eric S. Gustafson]] (graduate student) at the [[University of Nevada Las Vegas]], asks whether diel (daily) oxygen variation is needed for normal embryonic development and hatching in...
+> -- *[[ResearchProposalOutlineEffects_11729]]*
+
+> This 1935 report from the [[Bureau of Fisheries]], Department of Commerce, presents a biological, chemical, and physical survey of the streams and lakes on the [[Fort Apache Indian Reservation]] and [[San Carlos Indian Reservation]] in Arizona. Field work by M. J. Madsen and a party of three...
+> -- *[[ABiologicalSurveyOfStreamsAndL_19341]]*
+
+> This Master of Science thesis in fishery biology, written by [[Steven Alan Lewis]] at the [[University of Arizona]], examines how [[Mechanical Evaporation Barriers]] affect [[Fish Growth]] and overall [[Pond Productivity]]. Four experiments were run: a spring [[Trout]] experiment, a summer...
+> -- *[[SomeEffectsOfMechanicalEvapora_20305]]*
+
+> This 1969 taxonomic paper by [[Horton H. Hobbs Jr.]] and [[Edward T. Hall Jr.]] (Smithsonian Institution and Georgia Water Quality Control Board) describes two new crayfish species from Georgia, both in the genus *Cambarus*. [[Cambarus Howardi]] belongs to the typical subgenus and is known from the...
+> -- *[[NewCrayfishesFromGeorgiaDecapo_20421]]*
+
 ### Mentioned In
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
 - [[ConsiderationsForAcceptableCon_15438]]
@@ -9683,6 +10183,10 @@ Dissolved oxygen (DO) is the concentration of oxygen gas dissolved in water that
 - [[AnIndexedListOfFaoPublications_16312]]
 - [[SportFishProductionAndProducti_20981]]
 - [[PredictedAndObservedToxicities_16173]]
+- [[ResearchProposalOutlineEffects_11729]]
+- [[ABiologicalSurveyOfStreamsAndL_19341]]
+- [[SomeEffectsOfMechanicalEvapora_20305]]
+- [[NewCrayfishesFromGeorgiaDecapo_20421]]
 
 ## Dissolved Oxygen And Aquatic Life
 <!-- fm: auto_enriched: true -->
@@ -9815,8 +10319,12 @@ The total of dissolved mineral and organic material in water, measured in mg/L, 
 > This U.S. Geological Survey state summary describes stream water quality in Arizona. Data come from 13 monitoring stations. Ten stations are used for conditions in water years 1987-89, and all 13 for trends. Irrigation return flow, mine drainage, sewage effluent, and urban runoff degrade water...
 > -- *[[ArizonaStreamWaterQuality_19603]]*
 
+> This [[United States Geological Survey]] open-file report (Water-Resources Investigations 76-107, September 1976, Tucson) compiles basic well data for the Aravaipa Valley area of southeastern Arizona, prepared in cooperation with the [[Arizona Water Commission]]. The document is a hydrologic...
+> -- *[[WellInformationaravaipaValleyA_19181]]*
+
 ### Mentioned In
 - [[ArizonaStreamWaterQuality_19603]]
+- [[WellInformationaravaipaValleyA_19181]]
 
 ## Distichlis
 
@@ -10343,6 +10851,18 @@ A spring-fed stream in Meade County, Kentucky, that empties into the Ohio River 
 ### Mentioned In
 - [[FlatheadCatfishAbundanceAndGro_1985]]
 
+## Dog River
+
+### Summary
+A stream in the upper Piedmont Chattahoochee drainage of Georgia. The source records Cambarus howardi from it and notes its specimens show denser areolar punctation than the type population.
+
+### Context
+> This 1969 taxonomic paper by [[Horton H. Hobbs Jr.]] and [[Edward T. Hall Jr.]] (Smithsonian Institution and Georgia Water Quality Control Board) describes two new crayfish species from Georgia, both in the genus *Cambarus*. [[Cambarus Howardi]] belongs to the typical subgenus and is known from the...
+> -- *[[NewCrayfishesFromGeorgiaDecapo_20421]]*
+
+### Mentioned In
+- [[NewCrayfishesFromGeorgiaDecapo_20421]]
+
 ## Dog Salmon
 
 ### Summary
@@ -10537,6 +11057,18 @@ The Dominguez Project was a proposed water development project identified as a p
 
 ### Mentioned In
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
+
+## Don Bufkin
+
+### Summary
+Don Bufkin is one of the three co-authors of this 1991 BLM monograph on Aravaipa Canyon, prepared with Diana Hadley and Peter Warshall of Hadley Associates. He contributed to the study of the area's environmental and land-use history.
+
+### Context
+> This Bureau of Land Management (BLM) Cultural Resource Series monograph (No. 7, 1991), prepared by [[Diana Hadley]], [[Peter Warshall]] and [[Don Bufkin]] of Hadley Associates, reconstructs a century of human-caused and natural environmental change in the [[Aravaipa Canyon]] area of southeastern...
+> -- *[[EnvironmentalChangesInAravaipa_20951]]*
+
+### Mentioned In
+- [[EnvironmentalChangesInAravaipa_20951]]
 
 ## Don Buth
 
@@ -10742,11 +11274,15 @@ Donald Tindall was a graduate student working under Arland Hotchkiss on the Char
 > Field observations from the fall of 1949 examined whether [[Kokanee]] (*Oncorhynchus nerka kennerlyi*) spawning on the shore of [[Donner Lake]], Nevada County, California, could produce viable offspring. Spawning began in early November 1949. Nests were exposed by a severe drawdown in December, and...
 > -- *[[NotesOnKokaneeSpawningInDonner_12527]]*
 
+> This 1954 life history study by J. B. Kimsey of the California Department of Fish and Game examines the [[Tui Chub]] (*Siphateles bicolor*), the most abundant fish in [[Eagle Lake]], Lassen County. The work was launched because the [[Eagle Lake Rainbow Trout]] (*Salmo gairdneri aquilarum*) was near...
+> -- *[[TheLifeHistoryOfTheTuiChubSiph_12529]]*
+
 ### Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[NoteOnSpringFoodHabitsOfTheLak_12533]]
 - [[KokaneeInCalifornia_18108]]
 - [[NotesOnKokaneeSpawningInDonner_12527]]
+- [[TheLifeHistoryOfTheTuiChubSiph_12529]]
 
 ## Doomed Surplus
 <!-- fm: auto_enriched: true -->
@@ -11188,6 +11724,18 @@ A 1950 source cited by Herbert to show that published fish toxicity data are har
 ### Mentioned In
 - [[UseOfBioassaysInDeterminingLev_13904]]
 
+## Doudoroff et al. 1951
+
+### Summary
+A previously published bioassay methods reference that the Oklahoma investigators followed for their toxicity testing procedures. This source cites it as methodological background only.
+
+### Context
+> This 1959 report, reprinted from the Second Seminar on Biological Problems in Water Pollution, summarizes a toxicity bioassay program on oil refinery effluents in Oklahoma. The program was funded by the Oklahoma Oil Refiners' Waste Control Council and run by the [[Zoology Department, Oklahoma State...
+> -- *[[ToxicityBioassayOfOilRefineryE_19066]]*
+
+### Mentioned In
+- [[ToxicityBioassayOfOilRefineryE_19066]]
+
 ## Doudoroff Leduc And Schneider 1966
 <!-- fm: auto_enriched: true -->
 
@@ -11296,6 +11844,18 @@ The Douglas Point Nuclear Power Reactor is a nuclear power station on the shore 
 
 ### Mentioned In
 - [[PhysicalLimnologySurfaceWavesA_18196]]
+
+## Douglas Point Power Station
+
+### Summary
+Douglas Point is a nuclear power station on the Canadian shore of Lake Huron. The source recommends full-scale outfall studies there, with support from Atomic Energy of Canada Limited.
+
+### Context
+> This paper, presented at a Great Lakes research conference, reviews the University of Waterloo group's work on how pollutants spread through the Great Lakes. It argues that effluent concentrations are random variables, so engineering estimates should rely on statistics beyond the mean, chiefly the...
+> -- *[[DispersalOfForeignMatterByTheC_18087]]*
+
+### Mentioned In
+- [[DispersalOfForeignMatterByTheC_18087]]
 
 ## Douglas Reservoir
 <!-- fm: auto_enriched: true -->
@@ -11550,6 +12110,18 @@ A researcher who provided an 800-gallon observation tank at Steinhart Aquarium f
 
 ### Mentioned In
 - [[LargemouthBassTagging_12531]]
+
+## Dr. G. C. Embody
+
+### Summary
+Dr. G. C. Embody is the author of a planting table that the survey used as the basis for its stocking recommendations in Table 3. The source does not describe his work beyond this use.
+
+### Context
+> This 1935 report from the [[Bureau of Fisheries]], Department of Commerce, presents a biological, chemical, and physical survey of the streams and lakes on the [[Fort Apache Indian Reservation]] and [[San Carlos Indian Reservation]] in Arizona. Field work by M. J. Madsen and a party of three...
+> -- *[[ABiologicalSurveyOfStreamsAndL_19341]]*
+
+### Mentioned In
+- [[ABiologicalSurveyOfStreamsAndL_19341]]
 
 ## Dr. Gairdner
 
@@ -11921,9 +12493,13 @@ Dripping Spring is a desert spring location in Arizona that was surveyed in 1981
 > This 1954 two-part paper from *The Aquarium Journal*, authored by [[Clark Hubbs]] and [[Kirk Strawn]] at the University of Texas, details laboratory-tested protocols for culturing live foods for aquarium fish, focusing primarily on [[Drosophila]] (fruit flies) and secondarily on [[Daphnia magna]]...
 > -- *[[CulturingFruitFliesDrosophilaA_14269]]*
 
+> This document is the second supplement (March 1964) to a selected bibliography on [[Terrestrial and Freshwater Radioecology]], compiled by Alfred W. Klement, Jr. and Vincent Schultz for the U.S. [[Atomic Energy Commission]] Division of Biology and Medicine (TID-3910, Suppl. 2). It is not a research...
+> -- *[[TerrestrialAndFreshwaterRadioe_12563]]*
+
 ### Mentioned In
 - [[CulturingFruitFliesDrosophilaA_14269]]
 - [[TheUseOfHybridizationInTheDete_14223]]
+- [[TerrestrialAndFreshwaterRadioe_12563]]
 
 ## Drought
 
@@ -11980,6 +12556,18 @@ Drum (freshwater drum) is a rough fish species that showed dramatic population i
 - [[RoughFishControl_20167]]
 - [[CreelCensusReport_11332]]
 - [[SummaryOfCommercialFisheriesCa_19834]]
+
+## Drum Screen
+
+### Summary
+A rotating screen type used in irrigation and water supply, with limited documentation in thermal-plant applications. The report lists it among other screen designs in use without detailed performance findings.
+
+### Context
+> This report compiles concept designs, operating experience, and screening technologies used in the United States to protect fish at water intakes. It was prepared under the 1974 US/USSR Agreement on Thermal Power Plant Heat Rejection and Water Supply Systems, which required the exchange of fish...
+> -- *[[FishProtectiveDevicesACompilat_11796]]*
+
+### Mentioned In
+- [[FishProtectiveDevicesACompilat_11796]]
 
 ## Dry Beaver Creek
 
@@ -12072,6 +12660,66 @@ Drying is the loss of surface water from intermittent streams, which the source 
 
 ### Mentioned In
 - [[OversummeringStategiesOfMacroi_17739]]
+
+## Dryopidae
+
+### Summary
+Dryopidae is a beetle family whose adults are tied to water and whose larvae live in damp soil, litter, or aquatic vegetation near water. The source uses *Dryops* as the nominate genus of this family. The paper's focus is the phylogeny of *Dryops* within it.
+
+### Context
+> This paper, presented by [[August Wilhelm Steffan]] at the XI International Congress of Entomology (Vienna, 1960), analyses the phylogeny of the beetle genus [[Dryops]] (family [[Dryopidae]]). The genus contains 35 species according to Bollow (1938, 1939). Based on micromorphology of male...
+> -- *[[PhylogenetischeTrendsInDerGatt_14751]]*
+
+### Mentioned In
+- [[PhylogenetischeTrendsInDerGatt_14751]]
+
+## Dryops
+
+### Summary
+*Dryops* is a genus of beetles in the family Dryopidae, and the note treats it as the nominate genus of that family. The adults are tied to water, and the larvae develop in damp soil or near water in mulm, detritus, or aquatic plants. The paper counts 35 species in the genus, following Bollow (1938, 1939), and divides them into two subgenera.
+
+### Context
+> This paper, presented by [[August Wilhelm Steffan]] at the XI International Congress of Entomology (Vienna, 1960), analyses the phylogeny of the beetle genus [[Dryops]] (family [[Dryopidae]]). The genus contains 35 species according to Bollow (1938, 1939). Based on micromorphology of male...
+> -- *[[PhylogenetischeTrendsInDerGatt_14751]]*
+
+### Mentioned In
+- [[PhylogenetischeTrendsInDerGatt_14751]]
+
+## Dryops Anglicanus
+
+### Summary
+*Dryops anglicanus* (Edwards 1909) is a species in the subgenus *Dryops*, ranked as an advanced member of its series. The paper says it shows an increasing preference for standing waters and mires, making it the clearest example of this trend. Its distal membrane sack has become a strongly sclerotised tubular body.
+
+### Context
+> This paper, presented by [[August Wilhelm Steffan]] at the XI International Congress of Entomology (Vienna, 1960), analyses the phylogeny of the beetle genus [[Dryops]] (family [[Dryopidae]]). The genus contains 35 species according to Bollow (1938, 1939). Based on micromorphology of male...
+> -- *[[PhylogenetischeTrendsInDerGatt_14751]]*
+
+### Mentioned In
+- [[PhylogenetischeTrendsInDerGatt_14751]]
+
+## Dryops Auriculatus
+
+### Summary
+*Dryops auriculatus* (Geoffroy 1785) is a species of water-associated beetle in the subgenus *Dryops*. In this paper it is the most advanced species of the *Dryops* series, with fused teeth, an enlarged cardinal tooth, and a compact sclerite complex. It has a strongly arched body and longitudinally striated elytra, and it is among the largest species in its group.
+
+### Context
+> This paper, presented by [[August Wilhelm Steffan]] at the XI International Congress of Entomology (Vienna, 1960), analyses the phylogeny of the beetle genus [[Dryops]] (family [[Dryopidae]]). The genus contains 35 species according to Bollow (1938, 1939). Based on micromorphology of male...
+> -- *[[PhylogenetischeTrendsInDerGatt_14751]]*
+
+### Mentioned In
+- [[PhylogenetischeTrendsInDerGatt_14751]]
+
+## Dryops Striatopunctatus
+
+### Summary
+*Dryops striatopunctatus* (Heer 1841) is a species in the subgenus *Yrdops*, described as the most advanced member of that series. The paper notes it is completely flattened and has coarse rows of large square punctures on the elytra. It is one of the few species that occurs even in alpine torrents.
+
+### Context
+> This paper, presented by [[August Wilhelm Steffan]] at the XI International Congress of Entomology (Vienna, 1960), analyses the phylogeny of the beetle genus [[Dryops]] (family [[Dryopidae]]). The genus contains 35 species according to Bollow (1938, 1939). Based on micromorphology of male...
+> -- *[[PhylogenetischeTrendsInDerGatt_14751]]*
+
+### Mentioned In
+- [[PhylogenetischeTrendsInDerGatt_14751]]
 
 ## Drywood Creek
 
