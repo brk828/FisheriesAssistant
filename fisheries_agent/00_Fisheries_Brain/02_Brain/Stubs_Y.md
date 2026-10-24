@@ -2347,6 +2347,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > Ricker, Mosbaugh and Lung report on tagging experiments in 1943 and 1944 with hatchery-reared, catchable-size [[Rainbow Trout]] and a few [[Brown Trout]] planted in northern Indiana streams. Voluntary tag returns from rainbows ranged from 0 to 42 percent in the year of planting. Second-year...
 > -- *[[UtilizationAndSurvivalOfTroutI_16857]]*
 
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -2447,6 +2450,7 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[ADemonstrationOfMethodsAndTech_20555]]
 - [[FishesOfOklahoma_16566]]
 - [[UtilizationAndSurvivalOfTroutI_16857]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Yellow Pikeperch
 <!-- fm: auto_enriched: true -->

@@ -1668,8 +1668,12 @@ Adobe Creek is a site in the Gunnison River system being studied for selenium to
 > This document presents the Fiscal Year 1997 work plan and budget for the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. Approved by the Colorado River Implementation Committee on October 2, 1996, the plan encompasses over 90 scopes of work...
 > -- *[[FiscalYearWorkPlan_11742]]*
 
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
 ### Mentioned In
 - [[FiscalYearWorkPlan_11742]]
+- [[FinalHabitatRestorationProgram_18332]]
 
 ## Adobe Lake
 
@@ -2828,10 +2832,14 @@ Alabama Bass (Micropterus henshalli) is a non-native black bass species introduc
 > This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (Title 50, Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] and [[National Marine Fisheries Service]] to be Endangered or Threatened under the...
 > -- *[[PartEndangeredAndThreatenedWil_11597]]*
 
+> This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
+> -- *[[PartEndangeredAndThreatenedWil_11733]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[PartEndangeredAndThreatenedWil_11597]]
+- [[PartEndangeredAndThreatenedWil_11733]]
 
 ## Alabama Department of Conservation
 
@@ -10015,6 +10023,9 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 > This report by Danny M. Regan (Colorado Cooperative Fishery Unit) compares body measurements of 16 [[Gila Trout]] and 16 [[Ord Creek Trout]] as part of a broader study of Gila trout ecology and its taxonomic relationship to other trouts. Funding came from the New Mexico Department of Game and Fish...
 > -- *[[ComparisonOfMorphometricMeasur_16798]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[AnAnalysisOfFHybridsBetweenApa_1984_09_24]]
 - [[AnalysisOfApacheTroutPopulatio_15424]]
@@ -10097,6 +10108,7 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[SurveysForLoachMinnowInBigBoni_20266]]
 - [[ComparisonOfMorphometricMeasur_16798]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Apache Trout Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -12364,6 +12376,9 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 > This is a research proposal/grant application to The Nature Conservancy (submitted 15 December 1988) by Principal Investigator W. L. Minckley of Arizona State University. It requests **$3150.00** (matching funds $1050.00; total cost $4200.00) for work running 1 February 1989 to July 1990 at the...
 > -- *[[MovementsOfNativeFishesAndImpa_13762]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -12521,6 +12536,7 @@ Aravaipa Creek is a relatively pristine desert stream in Arizona (spanning appro
 - [[PreliminaryDraftEnvironmentalA_11754]]
 - [[ReviewOfTheDraftReportPotentia_13378]]
 - [[MovementsOfNativeFishesAndImpa_13762]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Aravaipa Creek Native Fish
 <!-- fm: auto_enriched: true -->
@@ -17947,6 +17963,9 @@ Ash Canyon is a stream site in southern Arizona that was surveyed for fish in 19
 > This draft Conservation Agreement for the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*) establishes a comprehensive framework to ensure the continued existence and recovery of this endemic minnow in the [[Virgin River]] drainage basin spanning Utah, Arizona, and Nevada. The species...
 > -- *[[DraftConservationAgreementVirg_18320]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[RequestForRenewalOfEndangeredS_1992_11_27]]
 - [[DraftConservationAgreementForV_13234]]
@@ -17955,6 +17974,7 @@ Ash Canyon is a stream site in southern Arizona that was surveyed for fish in 19
 - [[VirginSpinedaceLepidomedaMolli_14744]]
 - [[StatewideRoughFishControljobNo_14932]]
 - [[DraftConservationAgreementVirg_18320]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Ash Creek Cattle Association
 <!-- fm: auto_enriched: true -->
@@ -18744,6 +18764,9 @@ The Aspinall Unit refers to a series of four large federal hydroelectric dams an
 > This FY 93 annual report from the [[Colorado River Fishes Recovery Program]] (Project 19-C, dated December 10, 1993) evaluates how flow releases from the [[Aspinall Unit]] and experimental flows in the [[Gunnison River]] affect the availability and quality of nursery habitat for [[Colorado...
 > -- *[[AspinallUnitStudiesEvaluationO_20258]]*
 
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
 ### Mentioned In
 - [[InterestGroupParticipationInTh_1994_08_05]]
 - [[RoundtableDiscussionOnStreamfl_1994_12_22]]
@@ -18764,6 +18787,7 @@ The Aspinall Unit refers to a series of four large federal hydroelectric dams an
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[FyAnnualProjectReportColoradoR_21154]]
 - [[AspinallUnitStudiesEvaluationO_20258]]
+- [[FinalHabitatRestorationProgram_18332]]
 
 ## Aspiolucius
 

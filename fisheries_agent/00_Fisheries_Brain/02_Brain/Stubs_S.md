@@ -9735,6 +9735,9 @@ Sauger (*Stizostedion canadense*) is a percid fish species native to North Ameri
 > This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
 > -- *[[FishesOfOklahoma_16566]]*
 
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerInPoolOfTh_16034]]
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
@@ -9759,6 +9762,7 @@ Sauger (*Stizostedion canadense*) is a percid fish species native to North Ameri
 - [[ListOfFishesReportedFromKansas_18026]]
 - [[TheInfluenceOfCertainEnvironme_20701]]
 - [[FishesOfOklahoma_16566]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Saugeye
 <!-- fm: auto_enriched: true -->
@@ -10015,6 +10019,9 @@ Scale aging methods are techniques used in ichthyology to determine the age of f
 > This 1960 report (Oklahoma Fishery Research Laboratory Report No. 78, by Alfred Houser) summarizes growth of the [[Freshwater Drum]] (*Aplodinotus grunniens*) in Oklahoma from 19 years of data (1940–1958). Scale samples from 3,103 fish were drawn from 32 waters (16 reservoirs, 7 large lakes, 9...
 > -- *[[GrowthOfFreshwaterDrumInOklaho_19938]]*
 
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[AnOutlineForTheStudyOfEstuarin_1954_10_31]]
 - [[SexRatioInWildPopulationsOfBro_12315]]
@@ -10022,6 +10029,7 @@ Scale aging methods are techniques used in ichthyology to determine the age of f
 - [[AgeAndGrowthOfTheRedearedSunfi_20592]]
 - [[PrincipalInvestigatorsMeeting_13623]]
 - [[GrowthOfFreshwaterDrumInOklaho_19938]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Scale Annuli Aging
 <!-- fm: auto_enriched: true -->
@@ -11386,6 +11394,18 @@ Scott and Crossman 1973 is a foundational taxonomic and ecological reference wor
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[ObservationsOnSpawningAndBreed_1976_06_11]]
 
+## Scott Matheson Wildlife Preserve
+
+### Summary
+The Scott Matheson Wildlife Preserve is a floodplain site on the Moab Sloughs, at Colorado River miles 64-62, in the Upper Colorado River Basin. The source lists a UDWR enhancement proposal for it at $164,000 for FY95, with $214,000 in FY96.
+
+### Context
+> This is a December 14, 1994 memorandum from Pat Nelson, Coordinator of the Flooded Bottom Lands Restoration Program, to its Technical Advisory Group. It requests review of draft FY 95 proposals by January 5, 1995, and asks four questions: do the proposals fit what the group had in mind, do they...
+> -- *[[RequestForReviewOfDraftFyWorkP_19638]]*
+
+### Mentioned In
+- [[RequestForReviewOfDraftFyWorkP_19638]]
+
 ## Scottsville
 
 ### Summary
@@ -11876,8 +11896,13 @@ Sea Stickleback (Spinachia spinachia) is one of the fish species inhabiting Steg
 ## Sea Turtles
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
+> -- *[[PartEndangeredAndThreatenedWil_11733]]*
+
 ### Mentioned In
 - [[ProceduresForObtainingMexicanP_20830]]
+- [[PartEndangeredAndThreatenedWil_11733]]
 
 ## Sea-Run Cutthroat Trout
 <!-- fm: auto_enriched: true -->
@@ -12919,8 +12944,12 @@ A fishing gear type, a net drawn through the water, that the source lists among 
 > This document is a 1953 demonstration paper by the [[New Jersey Division Of Fish And Game]] describing the methods and principles of fisheries management in New Jersey. It was presented at the Schiffs Scout Reservation, Mendham, New Jersey, on June 19, 1953. The paper argues that fisheries...
 > -- *[[ADemonstrationOfMethodsAndTech_20555]]*
 
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[ADemonstrationOfMethodsAndTech_20555]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Seine Netting
 
@@ -13051,6 +13080,18 @@ A trace element that can build up in soils and water in arid western landscapes 
 
 ### Mentioned In
 - [[LevelOneSurveySheetsForFiveOfT_14821]]
+
+## Selenium Contamination
+
+### Summary
+Elevated levels of the trace element selenium in water, sediment, and fish tissue at some floodplain sites in the Upper Colorado basin, treated as a serious concern for razorback sucker. The source reports Adobe Creek and Walter Walker samples above levels of concern, with Walter Walker water reaching as high as 170 ppm, and says selenium stalled the Escalante Ranch land deal.
+
+### Context
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
+### Mentioned In
+- [[FinalHabitatRestorationProgram_18332]]
 
 ## Selenium Contamination In Aquatic Systems
 <!-- fm: auto_enriched: true -->
@@ -15448,6 +15489,9 @@ The Shortnose Gar (*Lepisosteus platostomus*) is a primitive holostean fish spec
 > This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
 > -- *[[FishesOfOklahoma_16566]]*
 
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -15461,6 +15505,7 @@ The Shortnose Gar (*Lepisosteus platostomus*) is a primitive holostean fish spec
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[OklahomaFishesWithDistribution_16567]]
 - [[FishesOfOklahoma_16566]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Shortnose Sturgeon
 <!-- fm: auto_enriched: true -->
@@ -15704,6 +15749,9 @@ The Shovelnose Sturgeon (*Scaphirhynchus platorynchus*) is a small sturgeon spec
 > This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
 > -- *[[FishesOfOklahoma_16566]]*
 
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
@@ -15720,6 +15768,7 @@ The Shovelnose Sturgeon (*Scaphirhynchus platorynchus*) is a small sturgeon spec
 - [[EndangeredAndThreatenedWildlif_11718]]
 - [[OklahomaFishesWithDistribution_16567]]
 - [[FishesOfOklahoma_16566]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Show Low
 <!-- fm: auto_enriched: true -->
@@ -20312,6 +20361,9 @@ Sockeye salmon (Oncorhynchus nerka) are anadromous Pacific salmon species charac
 > This document is a 1929 taxonomic check-list of freshwater fishes recorded in [[Oregon]] and [[Washington]] and adjacent regions. It was compiled by [[Leonard P. Schultz]] from published literature, supplemented by a few unpublished records of introduced species observed by D. R. Crawford and the...
 > -- *[[ChecklistOfTheFreshwaterFishes_20621]]*
 
+> This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
+> -- *[[PartEndangeredAndThreatenedWil_11733]]*
+
 ### Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[AbundanceOfStJohnsRiverShad_1960_03_08]]
@@ -20333,6 +20385,7 @@ Sockeye salmon (Oncorhynchus nerka) are anadromous Pacific salmon species charac
 - [[PartEndangeredAndThreatenedWil_11572]]
 - [[ReportOfTheNationalFishHatcher_20170]]
 - [[ChecklistOfTheFreshwaterFishes_20621]]
+- [[PartEndangeredAndThreatenedWil_11733]]
 
 ## Socorro County
 
@@ -22782,6 +22835,18 @@ South Dakota is one of the U.S. states for which this bibliography provides stat
 
 ### Mentioned In
 - [[WaterRightsBibliography_17761]]
+
+## South Dakota Department of Game, Fish and Parks
+
+### Summary
+The state agency that carried out the Fort Randall Reservoir fishery study under the Federal Aid in Fish and Wildlife Restoration Act (Dingell-Johnson Project F-1-R-6). The report's author, James T. Shields, was part of this study, and earlier reports covered 1954 and 1955.
+
+### Context
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
+### Mentioned In
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## South Diamond Creek
 
@@ -25535,6 +25600,12 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > This inter-office memo from the [[Arizona Game and Fish Department]] (dated 10 April 1991) reports a reconnaissance of the upper [[Deadman Creek]] drainage, focusing on the [[South Fork Deadman Creek]], in the [[Mazatal Wilderness]]. The survey aimed to verify reports of an unidentified trout in...
 > -- *[[DeadmanCreekSurveyApril_20350]]*
 
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -25734,6 +25805,8 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[SanPedroHabitatManagementPlan_17353]]
 - [[SomeAspectsOfTheLifeHistoryOfT_19254]]
 - [[DeadmanCreekSurveyApril_20350]]
+- [[FinalHabitatRestorationProgram_18332]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Speckled Pavon
 
@@ -26566,6 +26639,9 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 > This is an April 13, 1990 cover letter from the Bureau of Land Management (BLM) Safford District to Dr. W. L. Minckley (Arizona State University). It summarizes the April 5, 1990 meeting of the Biological Resources Technical Committee in Tucson and encloses draft planned actions and management...
 > -- *[[SanPedroHabitatManagementPlan_17353]]*
 
+> This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
+> -- *[[PartEndangeredAndThreatenedWil_11733]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -26802,6 +26878,7 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 - [[MovementsOfNativeFishesAndImpa_13762]]
 - [[BiologicalOpinionOnTheMimbresR_16802]]
 - [[SanPedroHabitatManagementPlan_17353]]
+- [[PartEndangeredAndThreatenedWil_11733]]
 
 ## Spikedace And Loach Minnow Study
 <!-- fm: auto_enriched: true -->

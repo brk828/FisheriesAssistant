@@ -2855,11 +2855,14 @@
   "timestamp": "2026-10-24T03:09:59+00:00"
  },
  "2fbaf1295f3af2445158225fb014323bc30fc3aed963c428724f9331e54423f9": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "18911.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "method": "ocr",
+  "note": "ReportOfFisheriesInvestigation_18911.md",
   "source_id": "X-2fbaf129",
-  "status": "failed",
-  "timestamp": "2026-10-24T07:22:39+00:00"
+  "status": "done",
+  "timestamp": "2026-10-24T16:25:39+00:00"
  },
  "2fd555fe890cdfd9a4fa64dff32d7800517789a819e7e790dd793da16952b7fb": {
   "citation_source": "minckley-sheet",
@@ -6402,11 +6405,14 @@
   "timestamp": "2026-10-20T00:45:29+00:00"
  },
  "702cb734f1855bf8042818cd993cfb4c4c24247fcd7e94e70aaf7fc832b3c0a3": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "11733.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "method": "ocr",
+  "note": "PartEndangeredAndThreatenedWil_11733.md",
   "source_id": "X-702cb734",
-  "status": "failed",
-  "timestamp": "2026-10-24T07:14:24+00:00"
+  "status": "done",
+  "timestamp": "2026-10-24T16:23:37+00:00"
  },
  "708a01c55265500704ffbb72f137c4cc571f9a75978da6130191e2ce3844229e": {
   "citation_source": "minckley-sheet",
@@ -11099,11 +11105,14 @@
   "timestamp": "2026-10-21T06:51:24+00:00"
  },
  "c52441fdce8b6d0aeff00fc2e416c9c00dbdf7d1498a32006ed97f1a37fde6b7": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "18332.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "method": "ocr",
+  "note": "FinalHabitatRestorationProgram_18332.md",
   "source_id": "X-c52441fd",
-  "status": "failed",
-  "timestamp": "2026-10-24T07:20:48+00:00"
+  "status": "done",
+  "timestamp": "2026-10-24T16:23:59+00:00"
  },
  "c540c6051ea05ab0e8743e81dc1324c7b6ec287679f2bad7f1d54b066ead2e14": {
   "citation_source": "minckley-sheet",
@@ -11592,11 +11601,14 @@
   "timestamp": "2026-10-18T04:34:44+00:00"
  },
  "cd7d7277a03e4a05c4b5bf07c7c3411e70df161d59fa64135e70a1e9af2b6185": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "19638.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "method": "ocr",
+  "note": "RequestForReviewOfDraftFyWorkP_19638.md",
   "source_id": "X-cd7d7277",
-  "status": "failed",
-  "timestamp": "2026-10-24T07:23:38+00:00"
+  "status": "done",
+  "timestamp": "2026-10-24T16:26:26+00:00"
  },
  "cdfe8798a3771a147d1060403991aff11ca0e67488fe424e74730d8440759b9f": {
   "citation_source": "crossref",
@@ -12450,11 +12462,14 @@
   "timestamp": "2026-10-18T04:39:04+00:00"
  },
  "daab7d129fb4400d262f0c441f34c53636f0164c444cfb175679b76943e6eb99": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "18567.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "method": "ocr",
+  "note": "VertebrateFaunaOfTheGrahamPina_18567.md",
   "source_id": "X-daab7d12",
-  "status": "failed",
-  "timestamp": "2026-10-24T07:21:43+00:00"
+  "status": "done",
+  "timestamp": "2026-10-24T16:24:48+00:00"
  },
  "dac46876aa58ed1a297b31c8cbfb7c08799f5e95ab3b69f7dcb818e9e49dd1c1": {
   "citation_source": "minckley-sheet",

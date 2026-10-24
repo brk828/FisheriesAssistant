@@ -1014,6 +1014,9 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This 1965 Auburn University Agricultural Experiment Station report (E. E. Prather) describes three pond experiments (1962–1964) evaluating the [[White Catfish]] (*Ictalurus catus*) as a sport fish for small ponds, stocked alone at 2,000 and 3,000 per acre and in combination with [[Channel Catfish]]...
 > -- *[[ExperimentsWithWhiteCatfishAsA_18665]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -1178,6 +1181,7 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[FishesOfOklahoma_16566]]
 - [[TheEffectsOfThreadfinShadOnWhi_15623]]
 - [[ExperimentsWithWhiteCatfishAsA_18665]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Fathead Minnows
 
@@ -4465,11 +4469,15 @@ A work group that met on September 1, 1992, in Grand Junction, Colorado, and pro
 > This document presents an engineering schematic for controlling flood inflow to nursery habitat through a system of managed ponds, canals, and water control structures. The design incorporates multiple units (L-1 through L-10) with varying water surface elevations (4660-4667 feet), connected by...
 > -- *[[OurayWildlifeRefugeControlOfFl_16471]]*
 
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
 ### Mentioned In
 - [[OwnersToDemolishDamThatBlocksF_14938]]
 - [[SampleInterviewRecordOnHatcher_1994_05_13]]
 - [[OurayWildlifeRefugeSemicontrol_16474]]
 - [[OurayWildlifeRefugeControlOfFl_16471]]
+- [[FinalHabitatRestorationProgram_18332]]
 
 ## Fish Passage Barriers
 <!-- fm: auto_enriched: true -->
@@ -6507,6 +6515,9 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > This feature article from the *River Report* (Summer 1998) examines recovery efforts for four endangered native fishes of the [[Colorado River Basin]]: the [[Razorback Sucker]], [[Bonytail Chub]], [[Humpback Chub]] and [[Colorado Squawfish]]. It frames the tension between endangered species...
 > -- *[[AnglingForAnswersTheQuestToSav_17167]]*
 
+> This is a December 14, 1994 memorandum from Pat Nelson, Coordinator of the Flooded Bottom Lands Restoration Program, to its Technical Advisory Group. It requests review of draft FY 95 proposals by January 5, 1995, and asks four questions: do the proposals fit what the group had in mind, do they...
+> -- *[[RequestForReviewOfDraftFyWorkP_19638]]*
+
 ### Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -6598,6 +6609,7 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[SpeciesRelationshipsAmongFishe_21162]]
 - [[EndemicFishesOfTheColoradoRive_17181]]
 - [[AnglingForAnswersTheQuestToSav_17167]]
+- [[RequestForReviewOfDraftFyWorkP_19638]]
 
 ## Flaming Gorge Flow Investigations
 
@@ -7016,6 +7028,9 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > This draft supplement to the [[Razorback Sucker Recovery Plan]], prepared by SWCA, Inc. for the [[Upper Colorado River Recovery Program]] and the U.S. Fish and Wildlife Service (April 1, 2000), develops objective, measurable criteria for downlisting and delisting the endangered razorback sucker...
 > -- *[[RecoveryGoalsForRazorbackSucke_15075]]*
 
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
 ### Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -7204,6 +7219,7 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 - [[DraftLowerVirginRiverProjectPr_11483]]
 - [[TheVirginRiverHabitatConservat_14916]]
 - [[RecoveryGoalsForRazorbackSucke_15075]]
+- [[FinalHabitatRestorationProgram_18332]]
 
 ## Flash Creek
 <!-- fm: auto_enriched: true -->
@@ -7940,6 +7956,18 @@ Flooded bottomlands are shallow, periodically inundated areas along river margin
 
 ### Mentioned In
 - [[UseOfFloodplainHabitatByAgeRaz_16530]]
+
+## Floodplain Habitat Restoration Program
+
+### Summary
+A program within the Upper Colorado River Recovery effort aimed at restoring or enhancing natural floodplain functions that support endangered fish recovery. This source reports an FY 1993 inventory of 293 sites totaling 34,628 acres, ranks nine priority reaches, and budgets about $1.92 million for FY 1997 work including land easements, levee removal, and site studies.
+
+### Context
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
+### Mentioned In
+- [[FinalHabitatRestorationProgram_18332]]
 
 ## Floodplain Pools
 
@@ -9700,9 +9728,13 @@ Fort Randall Reservoir in South Dakota successfully controlled carp populations 
 > This paper, by George W. McCammon, Don LaFaunce and Charles M. Seeley of the [[California Department of Fish and Game]] Inland Fisheries Branch, compares four August food habit studies of young-of-the-year [[Largemouth Bass]] (fingerlings) in [[Clear Lake]]. The 1948 study had proposed that the...
 > -- *[[ObservationsOnTheFoodOfFingler_12249]]*
 
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[RoughFishControl_20167]]
 - [[ObservationsOnTheFoodOfFingler_12249]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Fort Riley Army Installation
 <!-- fm: auto_enriched: true -->
@@ -11559,8 +11591,12 @@ Freshwater mollusca are snails and bivalves living in freshwater habitats. The s
 > - **Freshwater/lentic and lotic systems**: species discussed inhabit springs (Whiteline Topminnow), lakes (June Sucker, Utah Lake Sculpin, ciscoes in Lake Erie), and river/stream systems (Harelip Sucker, Thicktail Chub, Smoky Madtom). - **Habitat sensitivity**: many extinct/endangered fishes were...
 > -- *[[EndangeredSpeciesTodayExtinctT_1977]]*
 
+> This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
+> -- *[[PartEndangeredAndThreatenedWil_11733]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesTodayExtinctT_1977]]
+- [[PartEndangeredAndThreatenedWil_11733]]
 
 ## Freshwater Pearly Mussels
 <!-- fm: auto_enriched: true -->

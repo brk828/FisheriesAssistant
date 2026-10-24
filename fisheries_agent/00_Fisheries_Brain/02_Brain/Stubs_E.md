@@ -6096,6 +6096,9 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This is an administrative packet from the U.S. Fish and Wildlife Service (FWS), Region 6, dated March 29, 1990. It announces an April 25, 1990 meeting of the Management Group of the [[Colorado River Recovery Implementation Committee]]. It contains an agenda, a memo from Program Director John Hamill...
 > -- *[[ColoradoRiverManagementGroupMe_21025]]*
 
+> This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
+> -- *[[PartEndangeredAndThreatenedWil_11733]]*
+
 ### Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -6544,6 +6547,7 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[AnglingForAnswersTheQuestToSav_17167]]
 - [[ExtensionOfCommentPeriodRioYaq_20898]]
 - [[ColoradoRiverManagementGroupMe_21025]]
+- [[PartEndangeredAndThreatenedWil_11733]]
 
 ## Endangered Species Act - Colorado River Basin Fishes
 <!-- fm: auto_enriched: true -->
@@ -9181,8 +9185,12 @@ Escalante Ranch was a candidate restoration site that faced significant selenium
 > This document comprises correspondence and program proposals (1994) regarding the [[Upper Colorado River Basin]] [[Flooded Bottom Land Restoration Program]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*). Dr. C.F. Bryan of the [[Louisiana Cooperative Fish and...
 > -- *[[ReReviewOfFloodedBottomLandRes_13862]]*
 
+> This is a December 14, 1994 memorandum from Pat Nelson, Coordinator of the Flooded Bottom Lands Restoration Program, to its Technical Advisory Group. It requests review of draft FY 95 proposals by January 5, 1995, and asks four questions: do the proposals fit what the group had in mind, do they...
+> -- *[[RequestForReviewOfDraftFyWorkP_19638]]*
+
 ### Mentioned In
 - [[ReReviewOfFloodedBottomLandRes_13862]]
+- [[RequestForReviewOfDraftFyWorkP_19638]]
 
 ## Escalante Razorback Bar
 <!-- fm: auto_enriched: true -->

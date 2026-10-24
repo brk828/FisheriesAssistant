@@ -5080,6 +5080,9 @@ The Upper Colorado River Endangered Fish Recovery Program is a collaborative fed
 > This Fall/Winter 1998 newsletter from the [[Upper Colorado River Endangered Fish Recovery Program]] reports on recovery work for four endangered fishes of the upper [[Colorado River]] basin: [[Bonytail]], [[Colorado Squawfish]], [[Razorback Sucker]], and [[Humpback Chub]]. It covers a planned...
 > -- *[[UtahToStockThousandsOfRareBony_14825]]*
 
+> This is a December 14, 1994 memorandum from Pat Nelson, Coordinator of the Flooded Bottom Lands Restoration Program, to its Technical Advisory Group. It requests review of draft FY 95 proposals by January 5, 1995, and asks four questions: do the proposals fit what the group had in mind, do they...
+> -- *[[RequestForReviewOfDraftFyWorkP_19638]]*
+
 ### Mentioned In
 - [[CapturesOfAdultRazorbackSucker_18265]]
 - [[ColoradoEndangeredFishResearch_1989_10_10]]
@@ -5097,6 +5100,7 @@ The Upper Colorado River Endangered Fish Recovery Program is a collaborative fed
 - [[EvaluationOfALongtermPredatorR_2016]]
 - [[DraftRecoveryGoals_11689]]
 - [[UtahToStockThousandsOfRareBony_14825]]
+- [[RequestForReviewOfDraftFyWorkP_19638]]
 
 ## Upper Colorado River Recovery Implementation Program
 

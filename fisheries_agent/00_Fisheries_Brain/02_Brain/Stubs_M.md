@@ -2412,6 +2412,18 @@ The Maricopa County Public Health Service is a public health agency in Arizona. 
 ### Mentioned In
 - [[FinalProgressReport_18563]]
 
+## Marijilda Creek
+
+### Summary
+Marijilda Creek is one of the permanent streams in the Graham Mountains, and the base camp was located at Marijilda Canyon Campground. The source reports that Brown Trout maintain a small naturally reproducing population in its upper and middle sections, and Brook Trout reproduce naturally in its upper reaches. Canyon Treefrogs were also abundant in lower Marijilda Canyon.
+
+### Context
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
+### Mentioned In
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
+
 ## Marin County
 
 ### Summary
@@ -11527,6 +11539,9 @@ The Missouri River is a major North American river system of significant importa
 > This 1995 policy document by [[Gordon Berg]], chairman of the [[Devils Lake-Sheyenne-Red River Advisory Committee]], argues that [[Devils Lake]] water management must include both an inlet and an outlet, not an outlet alone. Berg contends that an outlet-only plan will concentrate salts, risk a...
 > -- *[[WaterForBirdsFishPeople_18182]]*
 
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -11556,6 +11571,7 @@ The Missouri River is a major North American river system of significant importa
 - [[UpdateOnActivities_20797]]
 - [[TheStatusOfNebraskaFishesInThe_20371]]
 - [[WaterForBirdsFishPeople_18182]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Missouri River Basin
 <!-- fm: auto_enriched: true -->
@@ -11936,6 +11952,18 @@ Moab Slough was one of five initial sites selected for detailed evaluation in th
 ### Mentioned In
 - [[ReReviewOfFloodedBottomLandRes_13862]]
 - [[MeetingToDiscussProgramGoalsSt_19639]]
+
+## Moab Sloughs
+
+### Summary
+The Moab Sloughs are backwater and slough habitats along the Colorado River near Moab, Utah, at river miles 64-62, where the Scott Matheson Wildlife Preserve is located. The source names them as a key bottomland site for the program's restoration work, with restoration scheduled to start in FY 95.
+
+### Context
+> This is a December 14, 1994 memorandum from Pat Nelson, Coordinator of the Flooded Bottom Lands Restoration Program, to its Technical Advisory Group. It requests review of draft FY 95 proposals by January 5, 1995, and asks four questions: do the proposals fit what the group had in mind, do they...
+> -- *[[RequestForReviewOfDraftFyWorkP_19638]]*
+
+### Mentioned In
+- [[RequestForReviewOfDraftFyWorkP_19638]]
 
 ## Moab, Utah
 <!-- fm: auto_enriched: true -->
@@ -15506,6 +15534,9 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > This 1970 study (Greenfield, Ross and Deckert) describes the life history of the [[Santa Ana Sucker]], a small stream-dwelling catostomid of the subgenus [[Pantosteus]], in the [[Santa Clara River]] from April 1968 to August 1969. A total of 3,359 individuals was collected at two stations. Spawning...
 > -- *[[SomeAspectsOfTheLifeHistoryOfT_19254]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -15647,6 +15678,7 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[FindingsConclusionsAndRecommen_15791]]
 - [[DraftLowerVirginRiverProjectPr_11483]]
 - [[SomeAspectsOfTheLifeHistoryOfT_19254]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Moss Landing
 

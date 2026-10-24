@@ -9069,6 +9069,9 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 > This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
 > -- *[[FishesOfOklahoma_16566]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
@@ -9191,6 +9194,7 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 - [[DraftsaltRiverSurvey_14100]]
 - [[OklahomaFishesWithDistribution_16567]]
 - [[FishesOfOklahoma_16566]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Black Bullhead Catfish
 
@@ -9504,6 +9508,12 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 > This 1966 summary report from the U.S. Bureau of Sport Fisheries and Wildlife reviews 1965 fishery management on the 1,643,939-acre San Carlos Reservation. The work followed a 1958 agreement among the San Carlos Apache Tribe, the Bureau of Indian Affairs and the Bureau. Management covered 110 stock...
 > -- *[[SummaryReportSanCarlosApacheIn_19599]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -9625,6 +9635,8 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 - [[TheInfluenceOfCertainEnvironme_20701]]
 - [[FishesOfOklahoma_16566]]
 - [[SummaryReportSanCarlosApacheIn_19599]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Black Creek Project
 <!-- fm: auto_enriched: true -->
@@ -12612,6 +12624,9 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 > This 1966 experimental study, reprinted in the FAO *World Symposium on Warm-Water Pond Fish Culture* proceedings, tested how infection by the strigeid trematode [[Posthodiplostomum Minimum]] (the [[White Liver Grub]]) affects [[Bluegill]] ([[Lepomis Macrochirus]]) growth and survival. Infection at...
 > -- *[[EffectOfTheStrigeidTrematodePo_21208]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -12928,6 +12943,7 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 - [[SummaryReportSanCarlosApacheIn_19599]]
 - [[EstimatedAnglerUseAndHarvestIs_20724]]
 - [[EffectOfTheStrigeidTrematodePo_21208]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Bluegill Population Control
 <!-- fm: auto_enriched: true -->
@@ -13264,6 +13280,9 @@ The Bluehead Sucker (Pantosteus delphinus) is a native catostomid fish species f
 > This 1963 essay by [[Robert R. Miller]], Curator of Fishes at the University of Michigan Museum of Zoology, argues against the widespread use of non-specific chemical toxicants, chiefly [[Rotenone]], in fishery management. Miller contends that "trash fish" eradication programs kill native fishes...
 > -- *[[IsOurNativeUnderwaterLifeWorth_15341]]*
 
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
 ### Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -13357,6 +13376,7 @@ The Bluehead Sucker (Pantosteus delphinus) is a native catostomid fish species f
 - [[ProgressReportForCooperativeAg_19095]]
 - [[TheEffectsOfInterimFlowsFromGl_13621]]
 - [[IsOurNativeUnderwaterLifeWorth_15341]]
+- [[FinalHabitatRestorationProgram_18332]]
 
 ## Bluehead Wrasse
 <!-- fm: auto_enriched: true -->
@@ -15392,6 +15412,12 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 > This is a 25 July 1997 comment letter from a law firm representing the Central Arizona Water Conservation District (CAWCD) to the Regional Director of the [[U.S. Bureau of Reclamation]], Lower Colorado Regional Office. It responds to the [[U.S. Fish and Wildlife Service]] Biological and Conference...
 > -- *[[CommentsOfCentralArizonaWaterC_21131]]*
 
+> This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
+> -- *[[PartEndangeredAndThreatenedWil_11733]]*
+
+> This is a December 14, 1994 memorandum from Pat Nelson, Coordinator of the Flooded Bottom Lands Restoration Program, to its Technical Advisory Group. It requests review of draft FY 95 proposals by January 5, 1995, and asks four questions: do the proposals fit what the group had in mind, do they...
+> -- *[[RequestForReviewOfDraftFyWorkP_19638]]*
+
 ### Mentioned In
 - [[ANonLethalStomachPumpingTechni_14917]]
 - [[ANonlethalTechniqueToRecoverGu_1994]]
@@ -15788,6 +15814,8 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 - [[CooperativeAgreementBetweenThe_12073]]
 - [[AnglingForAnswersTheQuestToSav_17167]]
 - [[CommentsOfCentralArizonaWaterC_21131]]
+- [[PartEndangeredAndThreatenedWil_11733]]
+- [[RequestForReviewOfDraftFyWorkP_19638]]
 
 ## Bonytail Chub Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -15916,9 +15944,13 @@ Borax Lake is a desert aquatic habitat that was discussed in conservation contex
 > This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
 > -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
 
+> This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
+> -- *[[PartEndangeredAndThreatenedWil_11733]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[PartEndangeredAndThreatenedWil_11733]]
 
 ## Border Environmental Cooperation Agreement
 <!-- fm: auto_enriched: true -->
@@ -18622,6 +18654,9 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 > This 1942 *Michigan Conservation* article by David S. Shetter and Albert S. Hazzard of the Michigan Institute for Fisheries Research summarizes five years of marking experiments. They compare when hatchery-reared "legal-size" trout (7 inches or longer) should be released: fall, spring (before...
 > -- *[[PlantingKeeperTroutFallSpringA_18907]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[AMethodOfEstimatingFecundityWi_15698]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -18756,6 +18791,7 @@ Brook Trout (Salvelinus fontinalis) is a coldwater salmonid species native to ea
 - [[ComparisonOfMorphometricMeasur_16798]]
 - [[UtilizationAndSurvivalOfTroutI_16857]]
 - [[PlantingKeeperTroutFallSpringA_18907]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Brooks 1971
 <!-- fm: auto_enriched: true -->
@@ -19447,6 +19483,9 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This 1942 *Michigan Conservation* article by David S. Shetter and Albert S. Hazzard of the Michigan Institute for Fisheries Research summarizes five years of marking experiments. They compare when hatchery-reared "legal-size" trout (7 inches or longer) should be released: fall, spring (before...
 > -- *[[PlantingKeeperTroutFallSpringA_18907]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -19666,6 +19705,7 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[UtilizationAndSurvivalOfTroutI_16857]]
 - [[WildlifeConflictsInRiparianMan_17945]]
 - [[PlantingKeeperTroutFallSpringA_18907]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Brown Trout Natural Feeding Activity
 <!-- fm: auto_enriched: true -->

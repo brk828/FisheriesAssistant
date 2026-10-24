@@ -6006,6 +6006,9 @@ The Gila Mountain Sucker (Pantosteus clarki) is a native endemic sucker species 
 > This 1970 annotated checklist by [[W. L. Minckley]] of Arizona State University, Tempe, summarizes the current status of the native fishes of [[Arizona]]. Roughly 35 native kinds, including subspecies and suspected distinctive forms, are recognized. Although Arizona is largely desert, its aquatic...
 > -- *[[StatusOfTheNativeArizonaIchthy_18579]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[StatusOfTheGilaTopminnowAndIts_13684]]
@@ -6013,6 +6016,7 @@ The Gila Mountain Sucker (Pantosteus clarki) is a native endemic sucker species 
 - [[InvestigationsOfCommercialFish_18562]]
 - [[AquaticInventoryOfTheBillWilli_12503]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Gila Mountains
 
@@ -6834,6 +6838,9 @@ The Gila River is a major tributary system in the southwestern United States tha
 > This document is a set of agency and county correspondence (1992-1993) on the proposed [[Pigeon Creek Lake]] on the [[Apache-Sitgreaves National Forest]]. The main obstacle was [[Water Rights Severance and Transfer]]. Under [[Arizona Revised Statutes 45-172]], downstream irrigation districts hold...
 > -- *[[PigeonCreekLakeProject_20727]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -7144,6 +7151,7 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[ReviewOfTheDraftReportPotentia_13378]]
 - [[ArizonaStreamWaterQuality_19603]]
 - [[PigeonCreekLakeProject_20727]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Gila River Above Yuma, Arizona
 <!-- fm: auto_enriched: true -->
@@ -8603,6 +8611,9 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > This is an April 13, 1990 cover letter from the Bureau of Land Management (BLM) Safford District to Dr. W. L. Minckley (Arizona State University). It summarizes the April 5, 1990 meeting of the Biological Resources Technical Committee in Tucson and encloses draft planned actions and management...
 > -- *[[SanPedroHabitatManagementPlan_17353]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -8869,6 +8880,7 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[NoticeToPursueLegalActionForVi_18966]]
 - [[RegionalInformationSummaryOfTh_12740]]
 - [[SanPedroHabitatManagementPlan_17353]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Gila Topminnow Decline
 <!-- fm: auto_enriched: true -->
@@ -9538,11 +9550,15 @@ Gill net selectivity refers to the differential capture efficiency of gill nets 
 > This interim progress report, prepared for the [[Adaptive Management Work Group]] (ACT) meeting of April 19, 1991, summarizes the first seven months of a field study of [[Humpback Chub]] in the [[Grand Canyon]]. The contractor, [[Bio/West Inc]], was awarded the contract on September 1, 1990, and...
 > -- *[[CharacterizationOfTheLifeHisto_13648]]*
 
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[QualitativeAndQuantitativeAppl_20856]]
 - [[FieldTestsOfStainlessSteelAndT_19017]]
 - [[PrincipalInvestigatorsMeeting_13623]]
 - [[CharacterizationOfTheLifeHisto_13648]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Gill Netting
 <!-- fm: auto_enriched: true -->
@@ -10025,6 +10041,9 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 > This 1956-era report by the Florida Game and Fresh Water Fish Commission, compiled under Chief of Fisheries [[Don Luethy]], assesses the fishery of [[Lake George]] and the adjoining [[St. Johns River]] (Volusia Bar to Buffalo Bluff). It combines multiple sampling methods (haul seine, otter trawl,...
 > -- *[[SurveyFindingsOnTheLakeGeorgeA_16244]]*
 
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -10095,6 +10114,7 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 - [[TheInfluenceOfCertainEnvironme_20701]]
 - [[FishesOfOklahoma_16566]]
 - [[SurveyFindingsOnTheLakeGeorgeA_16244]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Glacial Cirque Lake
 <!-- fm: auto_enriched: true -->
@@ -12274,6 +12294,9 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > This 1969 cytological study by [[Michael Lieppman]] and [[Clark Hubbs]] (University of Texas at Austin) examines two Texas minnows, [[Notemigonus Crysoleucas]] ([[Golden Shiner]]) and [[Notropis Lutrensis]] ([[Red Shiner]]). Both species have a diploid chromosome number of 2n = 50, but their...
 > -- *[[AKaryologicalAnalysisOfTwoCypr_20325]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -12344,6 +12367,7 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[TheEffectsOfThreadfinShadOnWhi_15623]]
 - [[SummaryReportSanCarlosApacheIn_19599]]
 - [[AKaryologicalAnalysisOfTwoCypr_20325]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Golden Shiner Group
 <!-- fm: auto_enriched: true -->
@@ -12470,6 +12494,9 @@ Goldeye (*Hiodon alosoides*) is a small, silvery freshwater fish species native 
 > This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
 > -- *[[FishesOfOklahoma_16566]]*
 
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
 - [[DifferencesInTheOccurrenceOfNy_1947]]
@@ -12479,6 +12506,7 @@ Goldeye (*Hiodon alosoides*) is a small, silvery freshwater fish species native 
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[FishesOfOklahoma_16566]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Goldfish
 <!-- fm: auto_enriched: true -->
@@ -12738,6 +12766,18 @@ Golenkinia radiata is an alga that formed blooms downstream from the ORNL discha
 
 ### Mentioned In
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
+
+## Golf-Course West
+
+### Summary
+Golf-Course West is a gravel pit pond site on Adobe Creek near Grand Junction, Colorado. The source lists it among sites for testing pond configurations to reduce nonnative fishes, with a USFWS Grand Junction proposal of $22,775 plus NEPA costs and restoration scheduled to start in FY 95.
+
+### Context
+> This is a December 14, 1994 memorandum from Pat Nelson, Coordinator of the Flooded Bottom Lands Restoration Program, to its Technical Advisory Group. It requests review of draft FY 95 proposals by January 5, 1995, and asks four questions: do the proposals fit what the group had in mind, do they...
+> -- *[[RequestForReviewOfDraftFyWorkP_19638]]*
+
+### Mentioned In
+- [[RequestForReviewOfDraftFyWorkP_19638]]
 
 ## Golfo De California
 <!-- fm: auto_enriched: true -->
@@ -13687,6 +13727,18 @@ Graham County is a county in Arizona that contains part of Aravaipa Creek. The 1
 
 ### Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
+
+## Graham Mountains
+
+### Summary
+The Graham (Pinaleno) Mountains are a sky-island range in Graham County, southeastern Arizona, rising to 10,713 ft from valleys generally below 4,000 ft. This 1968 survey by Minckley treats them as the northernmost of a chain of isolated ranges along Arizona's eastern border, with a fauna that mixes northern and Mexican elements.
+
+### Context
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
+### Mentioned In
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Graham Peak
 
@@ -14998,6 +15050,18 @@ Grand Valley Irrigation Company operates a diversion structure on the Colorado R
 - [[FiscalYearWorkPlan_11742]]
 - [[AnnualReportRecoveryProgramFor_11678]]
 
+## Grand Valley Irrigation Company Diversion
+
+### Summary
+A diversion structure on the Colorado River in the Cameo/Roller Dam area that acts as a barrier to fish passage at low flows. The source gives an estimated total cost of $725,000 for addressing it in 1996-1997 and notes it must be dealt with before the Price-Stubb structure can be addressed as the last major passage barrier above the 15-Mile Reach.
+
+### Context
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
+### Mentioned In
+- [[FinalHabitatRestorationProgram_18332]]
+
 ## Grand Valley Power Plant
 
 ### Summary
@@ -15312,8 +15376,12 @@ Grant Creek is a White Mountains stream where phenotypic observations of a 30-fi
 > This January 1990 letter from Dr. John N. Rinne (USFS Rocky Mountain Forestry Sciences Lab) to Jim Hanson (USFWS Pinetop) discusses electrophoretic genetic studies of [[Apache Trout]] populations in the [[White Mountains]] and their implications for conservation management. Rinne compares recent...
 > -- *[[ReTheElectrophoreticStudyOfWhi_14999]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[ReTheElectrophoreticStudyOfWhi_14999]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Grapevine Spring
 <!-- fm: auto_enriched: true -->
@@ -17594,6 +17662,12 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This document is a cooperative agreement between the [[U.S. Fish and Wildlife Service]] (the Service) and the [[Smithsonian Institution]] to complete Phase I of a three-phase study of the taxonomy and systematics of the [[Humpback Chub]] (*Gila cypha*), the [[Bonytail Chub]] (*Gila elegans*), and...
 > -- *[[CooperativeAgreementBetweenThe_12073]]*
 
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
+> This is a December 14, 1994 memorandum from Pat Nelson, Coordinator of the Flooded Bottom Lands Restoration Program, to its Technical Advisory Group. It requests review of draft FY 95 proposals by January 5, 1995, and asks four questions: do the proposals fit what the group had in mind, do they...
+> -- *[[RequestForReviewOfDraftFyWorkP_19638]]*
+
 ### Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -17800,6 +17874,8 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[SpeciesRelationshipsAmongFishe_21162]]
 - [[EndemicFishesOfTheColoradoRive_17181]]
 - [[CooperativeAgreementBetweenThe_12073]]
+- [[FinalHabitatRestorationProgram_18332]]
+- [[RequestForReviewOfDraftFyWorkP_19638]]
 
 ## Green River (Colorado River Basin)
 <!-- fm: auto_enriched: true -->
@@ -18506,6 +18582,9 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 > This 1966 summary report from the U.S. Bureau of Sport Fisheries and Wildlife reviews 1965 fishery management on the 1,643,939-acre San Carlos Reservation. The work followed a 1958 agreement among the San Carlos Apache Tribe, the Bureau of Indian Affairs and the Bureau. Management covered 110 stock...
 > -- *[[SummaryReportSanCarlosApacheIn_19599]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AFishPopulationStudyOfThirdSis_1942]]
@@ -18769,6 +18848,7 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 - [[MovementsOfNativeFishesAndImpa_13762]]
 - [[ExperimentsWithWhiteCatfishAsA_18665]]
 - [[SummaryReportSanCarlosApacheIn_19599]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Green Sunfish Group
 <!-- fm: auto_enriched: true -->
@@ -20697,6 +20777,9 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 > This FY 93 annual report from the [[Colorado River Fishes Recovery Program]] (Project 19-C, dated December 10, 1993) evaluates how flow releases from the [[Aspinall Unit]] and experimental flows in the [[Gunnison River]] affect the availability and quality of nursery habitat for [[Colorado...
 > -- *[[AspinallUnitStudiesEvaluationO_20258]]*
 
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
 ### Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -20757,6 +20840,7 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 - [[FyAnnualProjectReportColoradoR_21154]]
 - [[UtahToStockThousandsOfRareBony_14825]]
 - [[AspinallUnitStudiesEvaluationO_20258]]
+- [[FinalHabitatRestorationProgram_18332]]
 
 ## Gunnison River Basin
 <!-- fm: auto_enriched: true -->

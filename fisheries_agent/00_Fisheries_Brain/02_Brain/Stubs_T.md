@@ -673,6 +673,18 @@ Glen Canyon Dam creates hypolimnetic releases of 7-10°C water that rarely warm 
 ### Mentioned In
 - [[SomeAspectsOfWaterQualityAndBi_12230]]
 
+## Tailwaters
+
+### Summary
+The stretch of river immediately below a dam, here the Fort Randall Dam outflow on the Missouri River. In this report the tailwaters were about 200 surface acres with a maximum depth near 25 ft, and they supported very heavy angling pressure, with sauger and channel catfish dominating the catch by weight.
+
+### Context
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
+### Mentioned In
+- [[ReportOfFisheriesInvestigation_18911]]
+
 ## Takahashi
 
 ### Summary
@@ -6052,12 +6064,16 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 > This Federal Register notice, published January 6, 1989, by the U.S. Fish and Wildlife Service, presents a comprehensive review of vertebrate and invertebrate animal taxa native to the United States being considered for possible addition to the List of Endangered and Threatened Wildlife under the...
 > -- *[[CodeOfFederalRegulationsPartEn_11616]]*
 
+> This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
+> -- *[[PartEndangeredAndThreatenedWil_11733]]*
+
 ### Mentioned In
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
 - [[AConservationorientedClassific_15455]]
 - [[ConservationOfNativeFreshwater_15444]]
 - [[CodeOfFederalRegulationsPartEn_11616]]
+- [[PartEndangeredAndThreatenedWil_11733]]
 
 ## Tie Park
 
@@ -6179,6 +6195,9 @@ The Tiger Salamander (*Ambystoma tigrinum*) is an aquatic amphibian whose larval
 > This document is a compilation of materials for a West Turkey Creek (WTC) watershed project in Cochise County, Arizona. It contains (1) a U.S. Fish and Wildlife Service (USFWS) Environmental Assessment/Habitat Conservation Plan (EA/HCP) for a 25-year [[Section 10(a)(1)(B) Incidental Take Permit]]...
 > -- *[[ApplicationForWestTurkeyCreekW_12162]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[CommissionPresentationOnCaptiv_1994_12_08]]
@@ -6198,6 +6217,7 @@ The Tiger Salamander (*Ambystoma tigrinum*) is an aquatic amphibian whose larval
 - [[LetterRequestingLetterOfRecomm_19844]]
 - [[LowerColoradoRiverBaitIndustry_18581]]
 - [[ApplicationForWestTurkeyCreekW_12162]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Tiger Salamanders
 
@@ -12025,6 +12045,18 @@ Twin Pond is one of 16 existing water sources at San Bernardino National Wildlif
 ### Mentioned In
 - [[BiologicalOpinionForTheSanBern_13329]]
 - [[CompiledStockingRecordsForSanB_15975]]
+
+## Twin-Spotted Rattlesnake
+
+### Summary
+The twin-spotted rattlesnake is a venomous reptile of the American Southwest. This source notes that the Graham Mountains are one of five Arizona ranges where it occurs.
+
+### Context
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
+### Mentioned In
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Two Buttes Reservoir
 

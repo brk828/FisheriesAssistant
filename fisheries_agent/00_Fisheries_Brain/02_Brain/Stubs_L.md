@@ -8915,6 +8915,12 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This California Department of Fish and Game Inland Fisheries Administrative Report (No. 66-7, submitted April 1966, by Robert P. Hayden, Region 4) evaluates whether total angler use and harvest at [[Isabella Reservoir]] can be estimated with limited manpower. The reservoir is a heavily used fishery...
 > -- *[[EstimatedAnglerUseAndHarvestIs_20724]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -9384,6 +9390,8 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[ExperimentsWithWhiteCatfishAsA_18665]]
 - [[SummaryReportSanCarlosApacheIn_19599]]
 - [[EstimatedAnglerUseAndHarvestIs_20724]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Largemouth Black Bass
 <!-- fm: auto_enriched: true -->
@@ -12215,6 +12223,18 @@ Leota Bottom was identified as a potential restoration site in the Flooded Botto
 ### Mentioned In
 - [[ReReviewOfFloodedBottomLandRes_13862]]
 
+## Leota Bottoms
+
+### Summary
+Leota Bottoms is a floodplain site on the Ouray National Wildlife Refuge, about nine miles upstream of the Duchesne River mouth. The source describes it as a key site for the program's work, including the Leota ponds (L-3, L-4) treated with rotenone and stocked with wild razorback larvae, and the planned Leota pond 7 reconnection.
+
+### Context
+> This is a December 14, 1994 memorandum from Pat Nelson, Coordinator of the Flooded Bottom Lands Restoration Program, to its Technical Advisory Group. It requests review of draft FY 95 proposals by January 5, 1995, and asks four questions: do the proposals fit what the group had in mind, do they...
+> -- *[[RequestForReviewOfDraftFyWorkP_19638]]*
+
+### Mentioned In
+- [[RequestForReviewOfDraftFyWorkP_19638]]
+
 ## Lepibema Chrysops
 <!-- fm: auto_enriched: true -->
 
@@ -14215,6 +14235,18 @@ The Levantine Landbridge is a sliver of Middle Eastern fertile to semi-arid land
 
 ### Mentioned In
 - [[TheLevantineLandbridgeHistoric_18634]]
+
+## Levee Removal Strategy
+
+### Summary
+A planned set of actions to remove or breach levees so that floodplain habitats reconnect with the river and become available to endangered fishes. The source lists FY 1997 Green River candidate sites such as Bonanza Bridge, Horseshoe Bend, Stirrup, Baeser Bend, Johnson J-4, Leota L-7, and Old Charlie, and notes that application sites are depressions, some built as terraces to limit nonnative fish buildup.
+
+### Context
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
+### Mentioned In
+- [[FinalHabitatRestorationProgram_18332]]
 
 ## Level 1 Survey
 

@@ -3638,9 +3638,13 @@ Canyon reaches with deep pools, eddies, and spring inputs provided critical refu
 > - **Water temperature:** Average of 15°C (59°F) across 3 samples — within suitable range for coldwater salmonids. - **Dissolved oxygen:** Average of 10.2 ppm across 5 samples — adequate for trout survival. - **Streamflow:** Estimated at less than 0.5 cfs — critically low flow conditions. - **Inve...
 > -- *[[SpotCheckSurveyRegionViGapCree_1992_06_08]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[SpotCheckSurveyRegionViGapCree_1992_06_08]]
 - [[StatusOfPoeciliopsisOOccidenta_1984_07_25]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Canyonlands
 
@@ -4896,9 +4900,13 @@ Carl Leland Hubbs was a prominent ichthyologist who conducted fish collection su
 > This administrative report documents a three-year fisheries management program (1960-1962) at [[El Capitan Reservoir]], [[San Diego County]], [[California]], conducted by the [[California Department of Fish and Game]]. The reservoir exhibited a long-standing population imbalance characterized by...
 > -- *[[FisheriesManagementOfElCapitan_16317]]*
 
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerInPoolOfTh_16034]]
 - [[FisheriesManagementOfElCapitan_16317]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Carlander (1950, 1953)
 
@@ -5808,8 +5816,13 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 ## Carp Control
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This job completion report (Federal Aid project F-1-R-6) covers the third consecutive year of fishery study on [[Fort Randall Reservoir]] and its [[Tailwaters]] on the [[Missouri River]]. Net sampling showed a continuing shift from rough fishes toward pan and game fishes. [[Black Crappie]]...
+> -- *[[ReportOfFisheriesInvestigation_18911]]*
+
 ### Mentioned In
 - [[ToxapheneAsAFishToxin_1951]]
+- [[ReportOfFisheriesInvestigation_18911]]
 
 ## Carp Cove
 <!-- fm: auto_enriched: true -->
@@ -11176,6 +11189,9 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > This is a draft summary, circulated by a US Fish and Wildlife Service (FWS) Region 6 program director on May 5, 1989, of a two-day Management Group meeting of the Colorado River Recovery Implementation Program. The Program aims to recover endangered Colorado River fishes: [[Colorado Squawfish]],...
 > -- *[[AprilManagementGroupMeetingSum_21009]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -11597,6 +11613,7 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[EffectOfAntimycinAOnTissueResp_20590]]
 - [[SportFishProductionAndProducti_20981]]
 - [[AprilManagementGroupMeetingSum_21009]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Channel Catfish Aquaculture
 <!-- fm: auto_enriched: true -->
@@ -14566,6 +14583,9 @@ Chinook Salmon (*Oncorhynchus tshawytscha*) are the largest Pacific salmon speci
 > This 1961 study by [[Lam Nam Muse]] tested the dietary protein level needed for optimum growth of [[Channel Catfish]] (*Ictalurus punctatus*). Eight purified diets, combining four protein levels (6.3, 15.8, 25.3 and 34.8 percent) with two [[Carbohydrate Levels]] (9.3 and 18.6 percent), were fed to...
 > -- *[[TheProteinRequirementOfChannel_19477]]*
 
+> This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
+> -- *[[PartEndangeredAndThreatenedWil_11733]]*
+
 ### Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
@@ -14612,6 +14632,7 @@ Chinook Salmon (*Oncorhynchus tshawytscha*) are the largest Pacific salmon speci
 - [[DissolvedNitrogenConcentration_15718]]
 - [[TimeTrendsInRiverbedSedimentCo_18609]]
 - [[TheProteinRequirementOfChannel_19477]]
+- [[PartEndangeredAndThreatenedWil_11733]]
 
 ## Chione
 
@@ -14823,6 +14844,9 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 > This 1896 paper (California Academy of Sciences) reports on three small collections of Pacific-slope freshwater fishes from Mexico and Arizona. Part I covers the [[Rio Yaqui]] basin, based on collections by Dr. Gustav Eisen at [[Hermosillo]] and Mr. William Wightman Price in the Yaqui headwaters....
 > -- *[[TheFishesOfTheRioYaquiSonoraWi_21122]]*
 
+> This report, edited by W. L. Minckley (Arizona State University), summarizes summer field surveys (15 June–15 July 1966 and 8–13 July 1967) of the vertebrates of the [[Graham Mountains]]. More than 3,000 specimens were collected. About 340 vertebrate species are represented, an estimated 70–80% of...
+> -- *[[VertebrateFaunaOfTheGrahamPina_18567]]*
+
 ### Mentioned In
 - [[AshmunellaAngulataEsuritorLent_18478]]
 - [[ChiricahuaRegionalCouncilNewsl_16142]]
@@ -14844,6 +14868,7 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 - [[SomeCretaceoustertiaryRelation_16838]]
 - [[ApplicationForWestTurkeyCreekW_12162]]
 - [[TheFishesOfTheRioYaquiSonoraWi_21122]]
+- [[VertebrateFaunaOfTheGrahamPina_18567]]
 
 ## Chiricahua Mountains Aquatic Habitat
 <!-- fm: auto_enriched: true -->
@@ -23364,6 +23389,9 @@ The Colorado River is a major southwestern North American river system that serv
 > This is an administrative packet from the U.S. Fish and Wildlife Service (FWS), Region 6, dated March 29, 1990. It announces an April 25, 1990 meeting of the Management Group of the [[Colorado River Recovery Implementation Committee]]. It contains an agenda, a memo from Program Director John Hamill...
 > -- *[[ColoradoRiverManagementGroupMe_21025]]*
 
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -24055,6 +24083,7 @@ The Colorado River is a major southwestern North American river system that serv
 - [[ArizonaStreamWaterQuality_19603]]
 - [[AKaryologicalAnalysisOfTwoCypr_20325]]
 - [[ColoradoRiverManagementGroupMe_21025]]
+- [[FinalHabitatRestorationProgram_18332]]
 
 ## Colorado River (Texas)
 <!-- fm: auto_enriched: true -->
@@ -26808,6 +26837,9 @@ The Colorado River Recovery Program is a comprehensive, federally-coordinated co
 > This administrative document is a memorandum from the [[Fish And Wildlife Service]] (FWS) transmitting the summary of the June 23, 1988 meeting of the [[Management Group]] of the [[Colorado River Recovery Program]], held at the FWS Regional Office in Lakewood, Colorado. The memo header is dated...
 > -- *[[SummaryjuneManagementGroupMeet_20998]]*
 
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
 ### Mentioned In
 - [[ActingProgramDirector_1990_03_29]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -26841,6 +26873,7 @@ The Colorado River Recovery Program is a comprehensive, federally-coordinated co
 - [[FyAnnualProjectReportColoradoR_21154]]
 - [[SolicitorsOpinionReColoradoRiv_14140]]
 - [[SummaryjuneManagementGroupMeet_20998]]
+- [[FinalHabitatRestorationProgram_18332]]
 
 ## Colorado River Regulation
 <!-- fm: auto_enriched: true -->
@@ -27848,6 +27881,15 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This is a draft summary, circulated by a US Fish and Wildlife Service (FWS) Region 6 program director on May 5, 1989, of a two-day Management Group meeting of the Colorado River Recovery Implementation Program. The Program aims to recover endangered Colorado River fishes: [[Colorado Squawfish]],...
 > -- *[[AprilManagementGroupMeetingSum_21009]]*
 
+> This document is a special reprint of 50 CFR 17.11 (wildlife) and 17.12 (plants), current as of October 31, 1996. The Division of Endangered Species, U.S. Fish and Wildlife Service, prepared it. It is the [[Endangered Species Act]] list of every species determined to be Endangered (E) or Threatened...
+> -- *[[PartEndangeredAndThreatenedWil_11733]]*
+
+> This document is the FY 1997 work plan package of the [[Colorado River Recovery Program]] (dated October 2, 1996), covering two linked efforts for the endangered [[Colorado Squawfish]] and [[Razorback Sucker]]: (1) fish passage at instream barriers, and (2) the [[Floodplain Habitat Restoration...
+> -- *[[FinalHabitatRestorationProgram_18332]]*
+
+> This is a December 14, 1994 memorandum from Pat Nelson, Coordinator of the Flooded Bottom Lands Restoration Program, to its Technical Advisory Group. It requests review of draft FY 95 proposals by January 5, 1995, and asks four questions: do the proposals fit what the group had in mind, do they...
+> -- *[[RequestForReviewOfDraftFyWorkP_19638]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -28210,6 +28252,9 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[AnglingForAnswersTheQuestToSav_17167]]
 - [[WildlifeConflictsInRiparianMan_17945]]
 - [[AprilManagementGroupMeetingSum_21009]]
+- [[PartEndangeredAndThreatenedWil_11733]]
+- [[FinalHabitatRestorationProgram_18332]]
+- [[RequestForReviewOfDraftFyWorkP_19638]]
 
 ## Colorado Squawfish Nursery Habitat
 <!-- fm: auto_enriched: true -->
