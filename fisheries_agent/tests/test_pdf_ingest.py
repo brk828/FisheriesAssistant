@@ -97,7 +97,7 @@ class PdfIngestTests(unittest.TestCase):
             result = pdf_ingest.synthesize_note(None, "test", "source")
 
         self.assertEqual(result, valid_note)
-        self.assertEqual([call.kwargs["max_tokens"] for call in chat.call_args_list], [4500, 9000])
+        self.assertEqual([call.kwargs["max_tokens"] for call in chat.call_args_list], [pdf_ingest.NOTE_MAX_TOKENS, 2 * pdf_ingest.NOTE_MAX_TOKENS])
 
     def test_truncated_note_falls_back_to_stronger_model_and_saves_partial(self):
         valid_note = "---\ntitle: Test\n---\n\n" + "\n\n".join(

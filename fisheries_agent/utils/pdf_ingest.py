@@ -67,7 +67,15 @@ FULL_NOTE_CHARS = 450_000  # ceiling when the user chooses to process a long doc
 LONG_DOC_PROMPT_TIMEOUT = 10
 OCR_SAMPLE_PAGES = 3
 CITE_SAMPLE_CHARS = 3500
-NOTE_OUT_TOKENS = 3000
+NOTE_OUT_TOKENS = 3000  # typical note length, used for cost estimates
+# Output ceilings sent as max_tokens (doubled 2026-10-24). Reasoning ("thinking") tokens count against them on
+# OpenRouter but are not returned, so they need headroom well above the visible note. Only tokens used are billed.
+NOTE_MAX_TOKENS = 9000
+DIGEST_MAX_TOKENS = 9000
+CITE_MAX_TOKENS = 800
+CLASSIFY_MAX_TOKENS = 200
+STUB_TOKENS_PER_NAME = 300
+STUB_TOKENS_BASE = 200
 DEFAULT_MODEL = "anthropic/claude-haiku-5.5"
 DEFAULT_FALLBACK_MODEL = "anthropic/claude-sonnet-5.5"  # used once when the ingest model runs out of output room
 USER_AGENT = "FisheriesAssistant/1.0 (literature ingest; mailto:none)"
@@ -89,7 +97,6 @@ CITE_SYSTEM = """You read the first page of a scientific document and report its
 
 DIGEST_TYPES = ("analyses_and_modeling", "sampling_design", "ecological_and_biological")
 DEFAULT_DIGEST = "ecological_and_biological"
-DIGEST_OUT_TOKENS = 4500
 
 # Section headers and type-specific frontmatter keys for each digest (see 00_Fisheries_Brain/ThreeDigestSystem.md).
 DIGEST_SPECS = {
@@ -458,7 +465,7 @@ def free_citation(path: Path, ex: dict, use_crossref: bool) -> dict:
 
 
 def llm_citation(client, model: str, text: str) -> dict:
-    reply = _chat(client, model, CITE_SYSTEM, text[:CITE_SAMPLE_CHARS], max_tokens=400)
+    reply = _chat(client, model, CITE_SYSTEM, text[:CITE_SAMPLE_CHARS], max_tokens=CITE_MAX_TOKENS)
     m = re.search(r"\{.*\}", reply or "", re.S)
     try:
         data = json.loads(m.group(0)) if m else {}
@@ -488,7 +495,7 @@ def classify_doc(client, model: str, text: str, forced: str = "") -> dict:
     """{'doc_type', 'secondary_type'}: one primary digest per paper. A low-confidence call falls back to the ecological digest."""
     if forced in DIGEST_TYPES:
         return {"doc_type": forced, "secondary_type": ""}
-    reply = _chat(client, model, CLASSIFY_SYSTEM, text[:CITE_SAMPLE_CHARS], max_tokens=100)
+    reply = _chat(client, model, CLASSIFY_SYSTEM, text[:CITE_SAMPLE_CHARS], max_tokens=CLASSIFY_MAX_TOKENS)
     m = re.search(r"\{.*\}", reply or "", re.S)
     try:
         data = json.loads(m.group(0)) if m else {}
@@ -644,9 +651,9 @@ def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS, 
         f"<document>\n{text[:limit]}\n</document>\n\n"
         "Now write the note: start with the --- YAML frontmatter and include ## Executive Summary and ## Key Findings."
     )
-    system, headers, budget = NOTE_SYSTEM, REQUIRED_HEADERS, NOTE_OUT_TOKENS + 1500
+    system, headers, budget = NOTE_SYSTEM, REQUIRED_HEADERS, NOTE_MAX_TOKENS
     if doc_type in DIGEST_SPECS:
-        system, budget = digest_system(doc_type), DIGEST_OUT_TOKENS
+        system, budget = digest_system(doc_type), DIGEST_MAX_TOKENS
         headers = tuple(f"## {name}" for name, _ in DIGEST_SPECS[doc_type]["sections"])
         body = body.rsplit("Now write the note:", 1)[0] + "Now write the digest: start with the --- YAML frontmatter and include every required section."
         if secondary_type:
@@ -768,7 +775,7 @@ def summarize_new_stubs(client, model: str, note: str, names: list, store: StubS
     for i in range(0, len(names), STUB_BATCH):
         batch = names[i:i + STUB_BATCH]
         user = f"SOURCE NOTE:\n{note[:STUB_SOURCE_CHARS]}\n\nCONCEPTS:\n" + "\n".join(f"- {n}" for n in batch)
-        m = re.search(r"\{.*\}", _chat(client, model, STUB_SYSTEM, user, max_tokens=150 * len(batch) + 100), re.S)
+        m = re.search(r"\{.*\}", _chat(client, model, STUB_SYSTEM, user, max_tokens=STUB_TOKENS_PER_NAME * len(batch) + STUB_TOKENS_BASE), re.S)
         try:
             data = json.loads(m.group(0)) if m else {}
         except json.JSONDecodeError:
