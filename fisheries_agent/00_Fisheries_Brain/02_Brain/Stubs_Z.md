@@ -872,6 +872,18 @@ The Zwartkops River in the eastern Cape represents the southern limit of Gerres 
 ### Mentioned In
 - [[PerlidStonefliesPlecopteraInAn_1985]]
 
+## Zygapophyses
+
+### Summary
+Zygapophyses are the articular processes on vertebrae that join adjacent vertebrae together. The source lists the term in its glossary of skeletal structures. It is part of the anatomical vocabulary used in the key.
+
+### Context
+> Fish Bulletin No. 79 by [[Charles R. Clothier]] (1950), published by the [[California Division of Fish and Game]] through its [[Bureau of Marine Fisheries]], presents a dichotomous identification key for 163 teleost fish species (excluding Elasmobranchii) found between Point Conception and San...
+> -- *[[AKeyToSomeSouthernCaliforniaFi_15959]]*
+
+### Mentioned In
+- [[AKeyToSomeSouthernCaliforniaFi_15959]]
+
 ## Zygonectes
 
 ### Summary

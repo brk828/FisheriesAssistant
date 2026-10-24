@@ -4,6 +4,18 @@ letter: J
 ---
 # Concept Stubs: J
 
+## J. B. Kimsey
+
+### Summary
+The author of the 1951 paper on kokanee spawning in Donner Lake, affiliated with the Bureau of Fish Conservation, California Division of Fish and Game. The source reports that he documented the 1949 field observations, found that eggs in seepage areas and some frozen nests survived, and concluded that large-scale natural reproduction would be possible if lake water levels were stabilized. (The source citation lists the author's initial as R., while the text gives J. B.)
+
+### Context
+> Field observations from the fall of 1949 examined whether [[Kokanee]] (*Oncorhynchus nerka kennerlyi*) spawning on the shore of [[Donner Lake]], Nevada County, California, could produce viable offspring. Spawning began in early November 1949. Nests were exposed by a severe drawdown in December, and...
+> -- *[[NotesOnKokaneeSpawningInDonner_12527]]*
+
+### Mentioned In
+- [[NotesOnKokaneeSpawningInDonner_12527]]
+
 ## J. B. S. Haldane
 
 ### Summary
@@ -15,6 +27,18 @@ J. B. S. Haldane was one of the foundational figures in population genetics. Acc
 
 ### Mentioned In
 - [[DevelopmentOfSupportForAResear_17152]]
+
+## J. C. Fraser
+
+### Summary
+A researcher cited in the source who observed kokanee spawning on the shore of Donner Lake in November 1947 (Curtis and Fraser, 1948). The source uses this observation as part of the background record of shore spawning before the 1949 study.
+
+### Context
+> Field observations from the fall of 1949 examined whether [[Kokanee]] (*Oncorhynchus nerka kennerlyi*) spawning on the shore of [[Donner Lake]], Nevada County, California, could produce viable offspring. Spawning began in early November 1949. Nests were exposed by a severe drawdown in December, and...
+> -- *[[NotesOnKokaneeSpawningInDonner_12527]]*
+
+### Mentioned In
+- [[NotesOnKokaneeSpawningInDonner_12527]]
 
 ## J. Curtis Wilcott
 <!-- fm: auto_enriched: true -->
@@ -35,6 +59,18 @@ J. B. S. Haldane was one of the foundational figures in population genetics. Acc
 
 ### Mentioned In
 - [[ÉtudeDUneCollectionDLsopodesTe_13127]]
+
+## J. H. Ferriss
+
+### Summary
+A collector who made the earliest malacological trip to the Pinaleno Mountains in 1913. The material he collected was used to describe Sonorella grahamensis.
+
+### Context
+> This taxonomic paper describes two new pulmonate land snail species, [[Sonorella Christenseni]] and [[Sonorella Macrophallus]], from the [[Pinaleno Mountains]] of southeastern Arizona. Species are separated mainly on genitalic characters, since shell differences are often insufficient for...
+> -- *[[TwoNewSpeciesOfSonorellaGastro_16304]]*
+
+### Mentioned In
+- [[TwoNewSpeciesOfSonorellaGastro_16304]]
 
 ## J. H. Wales
 <!-- fm: auto_enriched: true -->
@@ -185,6 +221,15 @@ Jack C. Schmidt is a researcher from Utah State University who was scheduled to 
 
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
+
+## Jack E Williams
+
+### Context
+> This packet is a 1985–1986 conservation appeal concerning the [[Haplochromine Cichlids]] species flock of [[Lake Victoria]]. It contains a cover letter from [[Jack E Williams]] of the U.S. Fish and Wildlife Service, a Leiden solicitation letter, the resolutions of the [[Cichlid Workshop]], an...
+> -- *[[LetterToPhilPisterLiteratureOn_12020]]*
+
+### Mentioned In
+- [[LetterToPhilPisterLiteratureOn_12020]]
 
 ## Jack Harlan
 <!-- fm: auto_enriched: true -->
@@ -368,6 +413,12 @@ Jacob Corwin Blumer (1872-1947) was a Swiss-born botanist who conducted extensiv
 > This document is a formal consultation letter from the [[U.S. Fish and Wildlife Service]] (USFWS) Arizona Ecological Services Field Office to the [[Apache-Sitgreaves National Forest]] regarding 27 proposed forest management projects submitted for Section 7 consultation under the [[Endangered...
 > -- *[[ReWrittenConcurrenceOnTheFores_11749]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) biological opinion, dated June 3, 1998 (file 2-21-98-F-373), evaluates the Bureau of Land Management's proposed [[Cienega Creek]] Stream Restoration Project on the [[Empire-Cienega Resource Conservation Area]] (RCA) in southeastern Arizona. The...
+> -- *[[FormalConsultationForTheCieneg_13201]]*
+
+> This 1996 paper reports molecular genetic tests on tissue from an alleged Mexican [[Onza]], a large cat shot in the western [[Sierra Madre]] of [[Sinaloa]] in 1986. The authors compared protein markers ([[Isoenzyme Electrophoresis]] and [[Albumin]] [[Isoelectric Focusing]]) and [[Mitochondrial...
+> -- *[[MolecularGeneticIdentification_19135]]*
+
 ### Mentioned In
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
@@ -376,6 +427,8 @@ Jacob Corwin Blumer (1872-1947) was a Swiss-born botanist who conducted extensiv
 - [[PlanningEffortNearItsConclusio_11515]]
 - [[ManagementPlanSierraSanLuisWil_11399]]
 - [[ReWrittenConcurrenceOnTheFores_11749]]
+- [[FormalConsultationForTheCieneg_13201]]
+- [[MolecularGeneticIdentification_19135]]
 
 ## Jaguarundi
 <!-- fm: auto_enriched: true -->
@@ -456,6 +509,9 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 > - The **Lower Basin Recovery Implementation Scientific Workgroup** comprises a small group of academic ichthyologists (e.g., [[James E. Deacon]], [[Paul Marsh]], [[William Matthews]], [[W.L. Minckley]], [[Dave Propst]]) and agency biologists (e.g., [[Owen T. Gorman]], [[C.O. Minckley]], [[Gordon ...
 > -- *[[RosterLowerBasinRecoveryImplem_21095]]*
 
+> This report (Nevada State Museum Anthropological Papers No. 13, Part 4, by [[W. Glen Bradley]] and [[James E. Deacon]], October 1967) assigns the native and introduced vascular plants and vertebrate animals of southern Nevada to biotic communities and describes their present distribution and...
+> -- *[[TheBioticCommunitiesOfSouthern_12880]]*
+
 ### Mentioned In
 - [[CommentsOnTheVirginRiverHabita_1995_02_14]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -464,6 +520,7 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 - [[MostDesertFishSinkingTowardEnd_14407]]
 - [[RosterLowerBasinRecoveryImplem_21095]]
 - [[TheBiologyOfTheRazorbackSucker_1979_10_22]]
+- [[TheBioticCommunitiesOfSouthern_12880]]
 
 ## James Ellsworth DeKay
 
@@ -476,6 +533,22 @@ James Ellsworth DeKay (1792-1852) published a five-volume work on New York zoolo
 
 ### Mentioned In
 - [[BriefBographiesOfLeadingIchthy_12677]]
+
+## James Elser
+
+### Summary
+James Elser is one of the experts listed under the Keywords chapter's Fish entry. The source lists him there as a fish-related specialist at an Arizona state university.
+
+### Context
+> This second revised edition (May 1995) is Number Thirteen in a series of issue papers from the [[Water Resources Research Center]] at the [[University of Arizona]]. It is a directory of 173 people at Arizona's three state universities, [[University of Arizona]], [[Arizona State University]], and...
+> -- *[[WhereToFindWaterExpertiseAtSta_13522]]*
+
+> This is the third revised edition (January 1998) of a directory published by the [[Water Resources Research Center]] at the University of Arizona, College of Agriculture, as Issue Paper Number Thirteen. It lists 201 people with water-related expertise at Arizona's three state universities: the...
+> -- *[[WhereToFindWaterExpertiseAtSta_13523]]*
+
+### Mentioned In
+- [[WhereToFindWaterExpertiseAtSta_13522]]
+- [[WhereToFindWaterExpertiseAtSta_13523]]
 
 ## James F. Collins
 <!-- fm: auto_enriched: true -->
@@ -718,6 +791,18 @@ The Japanese Sardine is a pelagic fish species from the Northwest Pacific that e
 - [[PreliminaryReportOnFishRemains_18753]]
 - [[FishRemainsFromDeerCreekCaveEl_18755]]
 
+## Jardin del Sur
+
+### Summary
+A locality in the Sierra del Carmen where Marsh moved camp on August 23, 1936. A Couch Rock Squirrel colony there had lost its fear of humans.
+
+### Context
+> A 1936 field report by Ernest G. Marsh Jr., a Student Naturalist Technician working for the [[National Park Service]], documents a biological survey of the [[Sierra del Carmen]] and [[Santa Rosa Mountains]] in northern [[Coahuila]], Mexico. The survey lay across the [[Rio Grande]] from the [[Big...
+> -- *[[BiologicalSurveyOfTheSantaRosa_19383]]*
+
+### Mentioned In
+- [[BiologicalSurveyOfTheSantaRosa_19383]]
+
 ## Jardinella
 
 ### Summary
@@ -931,6 +1016,18 @@ Jeffrey Pine (Pinus jeffreyi) is the dominant conifer of the Jeffrey Pine Forest
 
 ### Mentioned In
 - [[TheMonoBasin_15632]]
+
+## Jeffrey R Wilson
+
+### Summary
+Jeffrey R. Wilson of Arizona State University prepared the statistical power analysis in Appendix I of this plan. That analysis found that a 25% change in a species' relative abundance is detectable at power above 80% when at least 30 individuals are collected per sample, and that 60 individuals allow detection of a 10% change.
+
+### Context
+> This DRAFT plan, dated June 7, 1996, was prepared by the [[Bureau Of Reclamation]] (Lower Colorado Region, Phoenix Area Office) for the [[U S Fish And Wildlife Service]] and the [[Arizona Game And Fish Department]]. It implements a Reasonable and Prudent Alternative (RPA) of the [[Biological...
+> -- *[[DraftlongtermMonitoringPlanFor_11488]]*
+
+### Mentioned In
+- [[DraftlongtermMonitoringPlanFor_11488]]
 
 ## Jemez Canyon Dam
 
@@ -1223,6 +1320,18 @@ Based on the archival documents, Jim Deacon appears to be a prominent figure in 
 ### Mentioned In
 - [[MemorandumOnSpinedaceMeetingIn_1993_02_26]]
 
+## Jim Sedell
+
+### Summary
+Jim Sedell is a stream ecologist associated with the Pacific Northwest (PNW) region. The author recommends him as an outside expert to consult, so that the research program is not limited to regional perspectives.
+
+### Context
+> This critique by [[Hiram W. Li]] of the [[Oregon State University]] [[Oregon Cooperative Fishery Research Unit]] reviews the [[Glen Canyon Environmental Studies Program]], which funds research on the endangered [[Humpback Chub]] in the [[Grand Canyon]] of the [[Colorado River]]. The author argues...
+> -- *[[CritiqueOfHumpbackChubResearch_20317]]*
+
+### Mentioned In
+- [[CritiqueOfHumpbackChubResearch_20317]]
+
 ## Jim Woodruff Dam
 <!-- fm: auto_enriched: true -->
 
@@ -1446,6 +1555,18 @@ John Hamill was involved in recovery planning for endangered Colorado River fish
 ### Mentioned In
 - [[TripReportForUpperColoradoRive_12974]]
 
+## John Hunter
+
+### Summary
+John Hunter is a scientist at the National Marine Fisheries Service in Hawaii whom the author suggests as an outside expert for the program. The source names him only in this recommendation and does not describe his research.
+
+### Context
+> This critique by [[Hiram W. Li]] of the [[Oregon State University]] [[Oregon Cooperative Fishery Research Unit]] reviews the [[Glen Canyon Environmental Studies Program]], which funds research on the endangered [[Humpback Chub]] in the [[Grand Canyon]] of the [[Colorado River]]. The author argues...
+> -- *[[CritiqueOfHumpbackChubResearch_20317]]*
+
+### Mentioned In
+- [[CritiqueOfHumpbackChubResearch_20317]]
+
 ## John James Audubon
 <!-- fm: auto_enriched: true -->
 
@@ -1480,6 +1601,18 @@ John Hamill was involved in recovery planning for endangered Colorado River fish
 
 ### Mentioned In
 - [[DescriptionsOfNewSpeciesOfFish_17274]]
+
+## John Lundberg
+
+### Summary
+John Lundberg is listed in the directory as a University of Arizona expert in Ecology and Evolutionary Biology, under the Fish/Fisheries/Ichthyology keyword. The source gives no further details about his work.
+
+### Context
+> This is the third revised edition (January 1998) of a directory published by the [[Water Resources Research Center]] at the University of Arizona, College of Agriculture, as Issue Paper Number Thirteen. It lists 201 people with water-related expertise at Arizona's three state universities: the...
+> -- *[[WhereToFindWaterExpertiseAtSta_13523]]*
+
+### Mentioned In
+- [[WhereToFindWaterExpertiseAtSta_13523]]
 
 ## John Martin Reservoir
 
@@ -1781,6 +1914,18 @@ Johnson et al. 1970 is referenced in this study but the specific findings or con
 
 ### Mentioned In
 - [[VerticalDistributionOfFishesRe_18202]]
+
+## Johnson Historical Museum
+
+### Summary
+A historical museum connected to the refuge area; the source says the historic Slaughter ranch headquarters (131 acres) was sold to it, and that the Service holds an easement there for fisheries management in House Pond. It also reports about 3,000 annual museum visits, with half predicted to stop at the refuge.
+
+### Context
+> This Comprehensive Management Plan (CMP) covers the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona, and sets a 20-year planning framework for managing both units as elements of a larger "area of ecological concern" centred on...
+> -- *[[DraftSanBernardinoNationalWild_11500]]*
+
+### Mentioned In
+- [[DraftSanBernardinoNationalWild_11500]]
 
 ## Johnsson And Abrahams 1991
 <!-- fm: auto_enriched: true -->
@@ -2092,8 +2237,12 @@ Jordan and Evermann refers to the landmark ichthyological works produced by Davi
 > - **Deep rocky reef habitat (30+ fathoms):** The [[Turkey-red Rockfish]] and [[Vermilion Rockfish]] are strongly associated with deep water over rocky bottom, consistent with conditions at [[Northwest Seal Rock]] (St. George Reef), roughly 6.5 miles offshore — indicating open-water, boat-based fi...
 > -- *[[FishSpeciesFromThePointStGeorg_1965_02_22]]*
 
+> This 1955 paper by [[Leonard Durham]], published in the *Illinois Academy of Science Transactions* (Vol. 47), reports age and growth analyses of [[Smallmouth Bass]] and [[Longear Sunfish]] in the lower four miles of [[Jordan Creek]], a small tributary of the [[Salt Fork of the Vermilion River]] in...
+> -- *[[EcologicalFactorsAffectingTheG_19169]]*
+
 ### Mentioned In
 - [[FishSpeciesFromThePointStGeorg_1965_02_22]]
+- [[EcologicalFactorsAffectingTheG_19169]]
 
 ## Jordan Evermann And Clark
 <!-- fm: auto_enriched: true -->
@@ -2233,6 +2382,18 @@ The Jornada del Muerto is a geographic region in south-central New Mexico throug
 ### Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[ControlOfNonnativeFishAtTheCon_1993_12_10]]
+
+## Joseph F. Fitzpatrick Jr.
+
+### Summary
+Joseph F. Fitzpatrick Jr. is the person in whose honor the species was named. According to the source, he refurbished the Lyle Collection after joining Mississippi State University staff and helped deposit the material at the Smithsonian.
+
+### Context
+> This taxonomic paper formally describes *Procambarus fitzpatricki* as a new species of [[Crayfish]] from southern [[Mississippi]]. The species was first listed as *Cambarus (Paracambarus) harnedi* by [[Lyle 1938]], a name the source treats as a nomen nudum. The author, [[Horton H. Hobbs Jr.]] of...
+> -- *[[ANewCrayfishOfTheGenusProcamba_20417]]*
+
+### Mentioned In
+- [[ANewCrayfishOfTheGenusProcamba_20417]]
 
 ## Joseph Grinnell
 <!-- fm: auto_enriched: true -->
@@ -2473,10 +2634,14 @@ Julian M. Humphries is the lead author of this 1982 taxonomic study on Ictalurus
 > This document is a memorandum package from [[American Rivers]] announcing the annual meeting of the Scientific Technical and Advisory Committee (STAC) scheduled for October 8, 1998, at [[Arizona State University]]. The package includes meeting agenda, discussion papers on Southwest rivers, the...
 > -- *[[AmericanRiversScientificAndTec_15167]]*
 
+> This second revised edition (May 1995) is Number Thirteen in a series of issue papers from the [[Water Resources Research Center]] at the [[University of Arizona]]. It is a directory of 173 people at Arizona's three state universities, [[University of Arizona]], [[Arizona State University]], and...
+> -- *[[WhereToFindWaterExpertiseAtSta_13522]]*
+
 ### Mentioned In
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
 - [[MemorandumOnNativeFishRecovery_15822]]
 - [[AmericanRiversScientificAndTec_15167]]
+- [[WhereToFindWaterExpertiseAtSta_13522]]
 
 ## Julimes
 <!-- fm: auto_enriched: true -->

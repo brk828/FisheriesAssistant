@@ -506,6 +506,27 @@ Kaolin is a type of clay mineral used in industrial processes. This study refere
 ### Mentioned In
 - [[TheGrowthAndSurvivalOfFishInSo_16699]]
 
+## Kara Lamb
+
+### Summary
+Kara Lamb is the contact listed in this newsletter for reservoir-release notices in the upper Colorado River basin, reachable at (970) 667-4410. The source does not describe her role beyond serving as this point of contact. Her listing reflects the program's coordinated reservoir release work that boosted spring flows in 1998.
+
+### Context
+> This Fall/Winter 1998 newsletter from the [[Upper Colorado River Endangered Fish Recovery Program]] reports on recovery work for four endangered fishes of the upper [[Colorado River]] basin: [[Bonytail]], [[Colorado Squawfish]], [[Razorback Sucker]], and [[Humpback Chub]]. It covers a planned...
+> -- *[[UtahToStockThousandsOfRareBony_14825]]*
+
+### Mentioned In
+- [[UtahToStockThousandsOfRareBony_14825]]
+
+## Karakum Canal
+
+### Context
+> This document contains two papers from *The Sturgeon Quarterly* (Vol. 4, No. 3, July 1996). 1. **Status of two Amu Darya shovelnose sturgeons.** Salnikov, Birstein and Mayden assessed the [[Pseudoscaphirhynchus Kaufmanni]] and [[Pseudoscaphirhynchus Hermanni]] populations in the middle reaches of...
+> -- *[[TheContemporaryStatusOfTheTwoA_20499]]*
+
+### Mentioned In
+- [[TheContemporaryStatusOfTheTwoA_20499]]
+
 ## Karel Liem
 <!-- fm: auto_enriched: true -->
 
@@ -808,6 +829,18 @@ Kehl Canyon is one of several tributary waterways that drain into the Blue Ridge
 ### Mentioned In
 - [[ThreatenedFishesOfTheWorldSand_1996]]
 
+## Keith V. Slack
+
+### Summary
+Keith V. Slack is the author of this 1964 U.S. Geological Survey study of how tree leaves affect water quality in the Cacapon River, West Virginia. The paper examines chemistry, dissolved oxygen, and temperature in leaf-filled pools.
+
+### Context
+> This study by [[Keith V. Slack]] (U.S. Geological Survey Professional Paper 475-D, Article 161, 1964) examines how accumulated tree leaves in low-flow pools of the [[Cacapon River]], [[Morgan County]], West Virginia, change stream water chemistry, dissolved oxygen, and temperature. Decomposition of...
+> -- *[[EffectOfTreeLeavesOnWaterQuali_19021]]*
+
+### Mentioned In
+- [[EffectOfTreeLeavesOnWaterQuali_19021]]
+
 ## Kellicotia
 
 ### Summary
@@ -1033,6 +1066,18 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[DraftManagementGroupMeetingSum_17880]]
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[TechnicalGroupMeetingMinutesJu_18171]]
+
+## Kennith Foster
+
+### Summary
+Kennith Foster is one of the experts the source lists under constructed and artificial wetlands. The directory presents him as a resource for that area of wetland expertise.
+
+### Context
+> This second revised edition (May 1995) is Number Thirteen in a series of issue papers from the [[Water Resources Research Center]] at the [[University of Arizona]]. It is a directory of 173 people at Arizona's three state universities, [[University of Arizona]], [[Arizona State University]], and...
+> -- *[[WhereToFindWaterExpertiseAtSta_13522]]*
+
+### Mentioned In
+- [[WhereToFindWaterExpertiseAtSta_13522]]
 
 ## Kenny Reservoir
 
@@ -1467,6 +1512,22 @@ Keup was a co-author of a 1967 publication that this review identifies as "the m
 ### Mentioned In
 - [[TheIonicCompositionOfSomeLowla_11054]]
 
+## Kevin Fitzsimmons
+
+### Summary
+Kevin Fitzsimmons is one of the experts listed under the Keywords chapter's Fish entry. The source presents him as having fish-related expertise.
+
+### Context
+> This second revised edition (May 1995) is Number Thirteen in a series of issue papers from the [[Water Resources Research Center]] at the [[University of Arizona]]. It is a directory of 173 people at Arizona's three state universities, [[University of Arizona]], [[Arizona State University]], and...
+> -- *[[WhereToFindWaterExpertiseAtSta_13522]]*
+
+> This is the third revised edition (January 1998) of a directory published by the [[Water Resources Research Center]] at the University of Arizona, College of Agriculture, as Issue Paper Number Thirteen. It lists 201 people with water-related expertise at Arizona's three state universities: the...
+> -- *[[WhereToFindWaterExpertiseAtSta_13523]]*
+
+### Mentioned In
+- [[WhereToFindWaterExpertiseAtSta_13522]]
+- [[WhereToFindWaterExpertiseAtSta_13523]]
+
 ## Key Deer
 
 ### Summary
@@ -1478,6 +1539,18 @@ The Key Deer is an ungulate species listed as endangered or threatened under Par
 
 ### Mentioned In
 - [[PartEndangeredAndThreatenedWil_11572]]
+
+## Key Factor Analysis
+
+### Summary
+Key factor analysis identifies the mortality factors that have the greatest influence on the size of a population. The source lists it as a bottom-up method for locating limiting factors in the humpback chub's life history.
+
+### Context
+> This critique by [[Hiram W. Li]] of the [[Oregon State University]] [[Oregon Cooperative Fishery Research Unit]] reviews the [[Glen Canyon Environmental Studies Program]], which funds research on the endangered [[Humpback Chub]] in the [[Grand Canyon]] of the [[Colorado River]]. The author argues...
+> -- *[[CritiqueOfHumpbackChubResearch_20317]]*
+
+### Mentioned In
+- [[CritiqueOfHumpbackChubResearch_20317]]
 
 ## Key Findings
 <!-- fm: auto_enriched: true -->
@@ -1749,6 +1822,9 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 > This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
 > -- *[[FishesOfNevada_15993]]*
 
+> This 1956 study by Millard Coots of the [[California Department of Fish and Game]] examines the [[Yellow Perch]] (*Perca flavescens*) in the [[Klamath River]] of California, a population that was not native to the drainage. The primary aim, begun in 1951, was to determine whether yellow perch...
+> -- *[[TheYellowPerchPercaFlavescensM_17576]]*
+
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -1763,6 +1839,7 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
 - [[AuthortitleIndexToInlandFisher_14367]]
 - [[FishesOfNevada_15993]]
+- [[TheYellowPerchPercaFlavescensM_17576]]
 
 ## King Snake
 
@@ -2214,6 +2291,9 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This correspondence from [[Arizona State University]] Department of Zoology (dated 20 May 1991) provides critical review of a population genetics project report by Moyle and Berg concerning endangered catostomid fishes in northern California. The letter, addressed to the [[California Department of...
 > -- *[[ReviewOfMoyleAndBergsProjectRe_13795]]*
 
+> This 1956 study by Millard Coots of the [[California Department of Fish and Game]] examines the [[Yellow Perch]] (*Perca flavescens*) in the [[Klamath River]] of California, a population that was not native to the drainage. The primary aim, begun in 1951, was to determine whether yellow perch...
+> -- *[[TheYellowPerchPercaFlavescensM_17576]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
@@ -2230,6 +2310,7 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[OccurrencesOfTheLostRiverSucke_17577]]
 - [[AuthortitleIndexToInlandFisher_14367]]
 - [[ReviewOfMoyleAndBergsProjectRe_13795]]
+- [[TheYellowPerchPercaFlavescensM_17576]]
 
 ## Klamath River Basin
 
@@ -2253,6 +2334,18 @@ The Klamath River Basin is the drainage system where Lost River Sucker and Short
 ### Mentioned In
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 
+## Klamath Small-scaled Sucker
+
+### Summary
+A sucker found in the Klamath River and listed among the fishes associated with yellow perch in the study area. Small suckers were among the fish remains identified in perch stomachs.
+
+### Context
+> This 1956 study by Millard Coots of the [[California Department of Fish and Game]] examines the [[Yellow Perch]] (*Perca flavescens*) in the [[Klamath River]] of California, a population that was not native to the drainage. The primary aim, begun in 1951, was to determine whether yellow perch...
+> -- *[[TheYellowPerchPercaFlavescensM_17576]]*
+
+### Mentioned In
+- [[TheYellowPerchPercaFlavescensM_17576]]
+
 ## Klamath Smallscale Sucker
 <!-- fm: auto_enriched: true -->
 
@@ -2274,11 +2367,35 @@ The Klamath River Basin is the drainage system where Lost River Sucker and Short
 - [[ScopeOfWorkForShortnoseAndLost_1986_12_08]]
 - [[AConservationorientedClassific_15455]]
 
+## Klamath Speckled Dace
+
+### Summary
+A small minnow of the Klamath River listed among the fishes associated with yellow perch in the study. Dace were among the fish remains identified in perch stomachs.
+
+### Context
+> This 1956 study by Millard Coots of the [[California Department of Fish and Game]] examines the [[Yellow Perch]] (*Perca flavescens*) in the [[Klamath River]] of California, a population that was not native to the drainage. The primary aim, begun in 1951, was to determine whether yellow perch...
+> -- *[[TheYellowPerchPercaFlavescensM_17576]]*
+
+### Mentioned In
+- [[TheYellowPerchPercaFlavescensM_17576]]
+
 ## Klamath Sucker
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[RareAndEndangeredWorldFreshwat_15350]]
+
+## Klamath Tui Chub
+
+### Summary
+A minnow-type fish of the Klamath River listed among the species associated with yellow perch in the study. Small chubs were among the fish remains found in perch stomachs.
+
+### Context
+> This 1956 study by Millard Coots of the [[California Department of Fish and Game]] examines the [[Yellow Perch]] (*Perca flavescens*) in the [[Klamath River]] of California, a population that was not native to the drainage. The primary aim, begun in 1951, was to determine whether yellow perch...
+> -- *[[TheYellowPerchPercaFlavescensM_17576]]*
+
+### Mentioned In
+- [[TheYellowPerchPercaFlavescensM_17576]]
 
 ## Klamath-Trinity River Basin
 <!-- fm: auto_enriched: true -->
@@ -2289,6 +2406,18 @@ The Klamath River Basin is the drainage system where Lost River Sucker and Short
 
 ### Mentioned In
 - [[StationProfileOfTheCaliforniaN_19503]]
+
+## Klamathon Egg Collecting Station
+
+### Summary
+A station on the Klamath River, 16.5 miles below Copco Dam, that used a mechanical fish trap. In January 1951, considerable numbers of perch were trapped here during water spill from Copco Dam, and many trapped fish were still alive.
+
+### Context
+> This 1956 study by Millard Coots of the [[California Department of Fish and Game]] examines the [[Yellow Perch]] (*Perca flavescens*) in the [[Klamath River]] of California, a population that was not native to the drainage. The primary aim, begun in 1951, was to determine whether yellow perch...
+> -- *[[TheYellowPerchPercaFlavescensM_17576]]*
+
+### Mentioned In
+- [[TheYellowPerchPercaFlavescensM_17576]]
 
 ## Klapopteryx
 <!-- fm: auto_enriched: true -->
@@ -2541,6 +2670,9 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > This document is a formal letter from Professor W.L. Minckley (Arizona State University, Department of Zoology) dated February 4, 1983, responding to a proposal by the Utah Division of Wildlife to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]]. Minckley expresses strong...
 > -- *[[ReProposalIntroductionOfRainbo_13753]]*
 
+> Field observations from the fall of 1949 examined whether [[Kokanee]] (*Oncorhynchus nerka kennerlyi*) spawning on the shore of [[Donner Lake]], Nevada County, California, could produce viable offspring. Spawning began in early November 1949. Nests were exposed by a severe drawdown in December, and...
+> -- *[[NotesOnKokaneeSpawningInDonner_12527]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -2555,6 +2687,7 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[TroutOrSalmon_19215]]
 - [[KokaneeInCalifornia_18108]]
 - [[ReProposalIntroductionOfRainbo_13753]]
+- [[NotesOnKokaneeSpawningInDonner_12527]]
 
 ## Kokanee Salmon
 <!-- fm: auto_enriched: true -->
@@ -2659,6 +2792,15 @@ Kolkwitz was co-author of a classical 1908 work on the biological aspects of wat
 
 ### Mentioned In
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
+
+## Kolmogorov-Smirnov Test
+
+### Context
+> This document is a 1997 review by P. E. Brunkow, Post-doctoral Research Associate in the Department of Zoology at [[Arizona State University]], of aquatic biology project reports from the [[Glen Canyon Environmental Studies]] (GCES) Phase I and Phase II efforts. It was prepared for the [[Bureau of...
+> -- *[[IntegrationAndEvaluationOfGlen_13851]]*
+
+### Mentioned In
+- [[IntegrationAndEvaluationOfGlen_13851]]
 
 ## Kolmos et al. 2013
 
@@ -3012,6 +3154,18 @@ Kuhlia rupestris is a fish species found in the Kosi System. One individual was 
 
 ### Mentioned In
 - [[AReportOnTheLakesOfTheTippecan_11316]]
+
+## Kunde Allotment
+
+### Summary
+The Kunde Allotment is one of the five grazing allotments shown on the watershed maps in the Redrock Canyon plan. Under Alternative 2 its livestock operation would be combined with the Seibold Allotment, and under Alternative 4 the entire allotment would be closed to grazing.
+
+### Context
+> This U.S. Forest Service letter, signed by District Ranger [[Erry A. Deiter]] of the [[Sierra Vista Ranger District]], updates interested parties on the proposed Redrock Canyon Action Plan in the [[Canelo Hills]] area of the [[Coronado National Forest]]. The plan aims to improve vegetation...
+> -- *[[ReRedrockCanyonActionPlanCoron_12858]]*
+
+### Mentioned In
+- [[ReRedrockCanyonActionPlanCoron_12858]]
 
 ## Kupffer's Vesicle
 

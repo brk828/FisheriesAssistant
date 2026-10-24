@@ -308,6 +308,15 @@ Namalycastis abiuma is a polychaete worm species found in brackish water habitat
 ### Mentioned In
 - [[ANewSpeciesOfCorophiumLatreill_20748]]
 
+## Nameless Sucker
+
+### Context
+> This document is the summary statement of a first, rapidly executed survey of [[Bait Dealers]] along the [[Lower Colorado River]], from [[Lake Mead]] to the U.S.-Mexican Boundary. The survey was coordinated across [[California]], [[Arizona]], and [[Nevada]]. The author, W. L. Minckley of [[Arizona...
+> -- *[[LowerColoradoRiverBaitIndustry_18581]]*
+
+### Mentioned In
+- [[LowerColoradoRiverBaitIndustry_18581]]
+
 ## Namibia
 
 ### Summary
@@ -331,6 +340,18 @@ Nampa is a city in southwestern Idaho near which Lake Lowell reservoir is locate
 
 ### Mentioned In
 - [[FederalAidToFishRestorationAnn_19654]]
+
+## Nancy Grimm
+
+### Summary
+Nancy Grimm is listed under the Fish keyword and also in entries for aquatic and water quality chemistry. This makes her one of the more broadly represented aquatic experts in the directory.
+
+### Context
+> This second revised edition (May 1995) is Number Thirteen in a series of issue papers from the [[Water Resources Research Center]] at the [[University of Arizona]]. It is a directory of 173 people at Arizona's three state universities, [[University of Arizona]], [[Arizona State University]], and...
+> -- *[[WhereToFindWaterExpertiseAtSta_13522]]*
+
+### Mentioned In
+- [[WhereToFindWaterExpertiseAtSta_13522]]
 
 ## Nandopsis
 <!-- fm: auto_enriched: true -->
@@ -553,6 +574,18 @@ Nash Canyon is a geographic landmark on the East Fork White River in Arizona. Ac
 
 ### Mentioned In
 - [[FormalSectionConsultationMiner_11842]]
+
+## Nash Fork Creek
+
+### Summary
+A high mountain stream in the Snowy Range of Albany County, Wyoming, where this study was conducted. The author sampled about 1 km of the creek, from its confluence with Telephone Creek at about 3,048 m down to a meadow section near 2,984 m.
+
+### Context
+> This Water Resources Series report (No. 50, April 1974, by William R. Good) is a thesis-based study of how a [[Benthic Invertebrate]] community in a high mountain stream responds to the [[Snowmelt Runoff]]. The study covered a 1 km reach of [[Nash Fork Creek]] in the [[Snowy Range]], Wyoming, with...
+> -- *[[SomeEffectsOfSpringSnowmeltRun_11294]]*
+
+### Mentioned In
+- [[SomeEffectsOfSpringSnowmeltRun_11294]]
 
 ## Nashua
 <!-- fm: auto_enriched: true -->
@@ -793,10 +826,14 @@ The National Audubon Society is one of the environmental organization participan
 > This public education brochure describes four endangered native fish species of the [[Colorado River Basin]]: the [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These species...
 > -- *[[SwimmingUpstreamTheEndangeredF_15037]]*
 
+> This Fall/Winter 1998 newsletter from the [[Upper Colorado River Endangered Fish Recovery Program]] reports on recovery work for four endangered fishes of the upper [[Colorado River]] basin: [[Bonytail]], [[Colorado Squawfish]], [[Razorback Sucker]], and [[Humpback Chub]]. It covers a planned...
+> -- *[[UtahToStockThousandsOfRareBony_14825]]*
+
 ### Mentioned In
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[TheWhoopingCranesOfAransasNati_13268]]
 - [[SwimmingUpstreamTheEndangeredF_15037]]
+- [[UtahToStockThousandsOfRareBony_14825]]
 
 ## National Audubon Society Research Ranch
 
@@ -809,6 +846,18 @@ The National Audubon Society Research Ranch is a conservation property near Elgi
 
 ### Mentioned In
 - [[IntraofficeMemoTopminnowpupfis_13822]]
+
+## National Biological Service
+
+### Summary
+A U.S. federal science agency, later part of the U.S. Geological Survey, that is named in the source as a sponsoring partner of the Vegetation Classification Panel. Its acting or vice-chair representative Michael Jennings is listed among Panel members, and it helped fund the work.
+
+### Context
+> This document is not an ichthyological or aquatic study. It is an administrative packet from the [[Ecological Society of America]] (ESA) that covers the [[Vegetation Classification Panel]]'s scope of work for 1996-97, its July 1996 annual report, and a [[Federal Geographic Data Committee]] (FGDC)...
+> -- *[[VegetationPanelsScopeOfWork_16204]]*
+
+### Mentioned In
+- [[VegetationPanelsScopeOfWork_16204]]
 
 ## National Biological Survey
 <!-- fm: auto_enriched: true -->
@@ -853,6 +902,9 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 > This draft document presents recommendations from the National Fish Hatchery Review Panel (McIntyre, Rinne, Minckley, Williams) dated September 23, 1974, addressing the role of federal fish hatcheries within a National Fisheries Program ([[NFP]]). The panel identified significant challenges...
 > -- *[[DraftRecommendationsNationalFi_19586]]*
 
+> This 1994 facsimile from [[David M. Schleser]], Aquatic Biologist at the [[Dallas Aquarium]], to [[W.L. Minckley]] of Arizona State University transmits an unformatted manuscript (dated 11 May 1994) and a cover letter (dated 16 May 1994). The author argues that the [[National Fish Hatchery System]]...
+> -- *[[EnclosedManuscript_20559]]*
+
 ### Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -871,6 +923,7 @@ The National Biological Survey was a U.S. Department of the Interior agency esta
 - [[FyAnnualProjectReportColoradoR_21244]]
 - [[ReportOfTheNationalFishHatcher_18310]]
 - [[DraftRecommendationsNationalFi_19586]]
+- [[EnclosedManuscript_20559]]
 
 ## National Broodstock Program
 <!-- fm: auto_enriched: true -->
@@ -1009,6 +1062,18 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 > This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
 > -- *[[IllegalFindingOfNoSignificantI_18971]]*
 
+> This 1979 baseline inventory, prepared for the [[Bureau of Land Management]] Phoenix District Office, surveyed the aquatic habitat, water quality, [[Macroinvertebrates]], and [[Ichthyofauna]] of the perennial drainages of the upper [[Bill Williams River]] basin upstream from [[Alamo Lake]],...
+> -- *[[AquaticInventoryOfTheUpperBill_12502]]*
+
+> This 1979 Bureau of Land Management (BLM) Technical Note, authored by [[William G. Kepner]] of the Phoenix District Office, reports a winter 1978–79 aquatic inventory of the perennial drainages of the Hualapai and Aquarius Planning Units. The survey covered the upper [[Bill Williams River]] basin...
+> -- *[[AquaticInventoryOfTheUpperBill_12504]]*
+
+> This document is a 1981 [[National Environmental Policy Act]] (NEPA) compliance package from the [[Bureau Of Land Management]] (BLM), Phoenix District, together with supporting correspondence. It covers a proposal to reintroduce the federally endangered [[Gila Topminnow]] and the state Group I...
+> -- *[[NepaCompliancereintroductionOf_17954]]*
+
+> This administrative document is a memorandum from the [[Fish And Wildlife Service]] (FWS) transmitting the summary of the June 23, 1988 meeting of the [[Management Group]] of the [[Colorado River Recovery Program]], held at the FWS Regional Office in Lakewood, Colorado. The memo header is dated...
+> -- *[[SummaryjuneManagementGroupMeet_20998]]*
+
 ### Mentioned In
 - [[BoardOfCountyCommissionersOfTh_11767]]
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
@@ -1037,6 +1102,10 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 - [[InteragencyProposalToExamineTh_13018]]
 - [[ExecutiveOrderInvasiveSpeices_13569]]
 - [[IllegalFindingOfNoSignificantI_18971]]
+- [[AquaticInventoryOfTheUpperBill_12502]]
+- [[AquaticInventoryOfTheUpperBill_12504]]
+- [[NepaCompliancereintroductionOf_17954]]
+- [[SummaryjuneManagementGroupMeet_20998]]
 
 ## National Environmental Protection Act
 <!-- fm: auto_enriched: true -->
@@ -1173,6 +1242,12 @@ The National Fish Hatchery System (NFHS) is a network of federally operated fish
 > This report documents the distribution of fish and fish eggs by the [[National Fish Hatchery System]] during Fiscal Year 1992 (October 1, 1991 through September 30, 1992). The system distributed 188,769,500 fish weighing 5,983,740 pounds and produced 132,329,133 eggs across coldwater, coolwater,...
 > -- *[[FishAndFishEggDistributionRepo_13434]]*
 
+> This compiled document, dated 1994, is a set of correspondence, meeting records, proposals, and technical reference material prepared for the U.S. Fish and Wildlife Service (FWS) [[National Fish Hatchery System]] Review. Its central theme is a proposed shift in the role of federal hatcheries from...
+> -- *[[NationalFishHatcherySystemRevi_11668]]*
+
+> This 1994 facsimile from [[David M. Schleser]], Aquatic Biologist at the [[Dallas Aquarium]], to [[W.L. Minckley]] of Arizona State University transmits an unformatted manuscript (dated 11 May 1994) and a cover letter (dated 16 May 1994). The author argues that the [[National Fish Hatchery System]]...
+> -- *[[EnclosedManuscript_20559]]*
+
 ### Mentioned In
 - [[CommentsOnNationalFishHatchery_1994_05_24]]
 - [[ConcernsOnSpecializedFacilitie_1994_05_20]]
@@ -1194,6 +1269,8 @@ The National Fish Hatchery System (NFHS) is a network of federally operated fish
 - [[StationProfileOfWarmSpringsNat_1993]]
 - [[StationProfileOfWolf_1994]]
 - [[FishAndFishEggDistributionRepo_13434]]
+- [[NationalFishHatcherySystemRevi_11668]]
+- [[EnclosedManuscript_20559]]
 
 ## National Fish Meal & Oil Association
 <!-- fm: auto_enriched: true -->
@@ -1343,6 +1420,18 @@ National Geographic partnered with American Rivers to develop a traveling exhibi
 ### Mentioned In
 - [[DistributionAndProbableSourceO_18959]]
 
+## National Lime Association
+
+### Summary
+The trade association whose 1952 Fiftieth Annual Convention in Hot Springs, Virginia, hosted the presentation of this paper. The source is listed as its proceedings.
+
+### Context
+> Roland F. Smith, Fisheries Biologist with the [[New Jersey Division of Fish and Game]], reports on [[Liming]] (alkalization) experiments in acid lakes and farm ponds in New Jersey. Most waters on the [[Atlantic Coastal Plain]] are acidic because the underlying soils are low in calcium and poorly...
+> -- *[[NeutralizationExperimentsInCer_21202]]*
+
+### Mentioned In
+- [[NeutralizationExperimentsInCer_21202]]
+
 ## National Marine Fisheries Service
 <!-- fm: auto_enriched: true -->
 
@@ -1490,12 +1579,16 @@ The National Museum of Canada is one of three institutions where paratype specim
 > This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
 > -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
 
+> This taxonomic paper formally describes *Procambarus fitzpatricki* as a new species of [[Crayfish]] from southern [[Mississippi]]. The species was first listed as *Cambarus (Paracambarus) harnedi* by [[Lyle 1938]], a name the source treats as a nomen nudum. The author, [[Horton H. Hobbs Jr.]] of...
+> -- *[[ANewCrayfishOfTheGenusProcamba_20417]]*
+
 ### Mentioned In
 - [[ProvenanceAndDispositionOfFish_16999]]
 - [[RangeOfChriodorus_17137]]
 - [[TheLarvaOfANewSubterraneanWate_16197]]
 - [[RedescriptionAndAssignmentToTh_17755]]
 - [[ANewTroglobiticCrayfishFromOkl_20419]]
+- [[ANewCrayfishOfTheGenusProcamba_20417]]
 
 ## National Museum of Natural Sciences
 
@@ -1690,6 +1783,18 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > This memorandum from the [[Bureau of Reclamation]] summarizes the November 18, 1992 workshop on the proposed [[Multiple Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to support maintenance and recovery of threatened and endangered fish species, particularly...
 > -- *[[GlenCanyonEnvironmentalStudies_19718]]*
 
+> This document is a 1997 review by P. E. Brunkow, Post-doctoral Research Associate in the Department of Zoology at [[Arizona State University]], of aquatic biology project reports from the [[Glen Canyon Environmental Studies]] (GCES) Phase I and Phase II efforts. It was prepared for the [[Bureau of...
+> -- *[[IntegrationAndEvaluationOfGlen_13851]]*
+
+> This document is a March 9, 1994 memorandum from [[David L. Wegner]] of the [[Glen Canyon Environmental Studies]] (GCES) program, [[Bureau Of Reclamation]], transmitting the [[Arizona State University]] (ASU) 1993 annual progress report on the [[Humpback Chub]] (*Gila cypha*) in the [[Little...
+> -- *[[ProgressReportForCooperativeAg_19095]]*
+
+> A 1936 field report by Ernest G. Marsh Jr., a Student Naturalist Technician working for the [[National Park Service]], documents a biological survey of the [[Sierra del Carmen]] and [[Santa Rosa Mountains]] in northern [[Coahuila]], Mexico. The survey lay across the [[Rio Grande]] from the [[Big...
+> -- *[[BiologicalSurveyOfTheSantaRosa_19383]]*
+
+> This document is a 1994 pre-publication review by the [[National Research Council]] (NRC) Committee to Review the [[Glen Canyon Environmental Studies]] of the Bureau of Reclamation's *Draft Federal Long-Term Monitoring Plan* for the Colorado River below [[Glen Canyon Dam]]. The committee judges the...
+> -- *[[ReviewOfTheDraftFederalLongter_19498]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -1772,6 +1877,10 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[ChangesInTheFishPopulationsInT_20462]]
 - [[GlenCanyonEnvironmentalStudies_19685]]
 - [[GlenCanyonEnvironmentalStudies_19718]]
+- [[IntegrationAndEvaluationOfGlen_13851]]
+- [[ProgressReportForCooperativeAg_19095]]
+- [[BiologicalSurveyOfTheSantaRosa_19383]]
+- [[ReviewOfTheDraftFederalLongter_19498]]
 
 ## National Park Service Resource Management
 <!-- fm: auto_enriched: true -->
@@ -1858,9 +1967,13 @@ The National Register of Historic Places is the federal list of historic propert
 > This entry is a scientific book review, not a primary research study, covering the 1957 report of the [[Committee on the Effects of Atomic Radiation on Oceanography and Fisheries]], produced under the U.S. [[National Academy of Sciences]] – [[National Research Council]]. The report was one of six...
 > -- *[[TheEffectsOfAtomicRadiationOnO_1957]]*
 
+> This document is a 1994 pre-publication review by the [[National Research Council]] (NRC) Committee to Review the [[Glen Canyon Environmental Studies]] of the Bureau of Reclamation's *Draft Federal Long-Term Monitoring Plan* for the Colorado River below [[Glen Canyon Dam]]. The committee judges the...
+> -- *[[ReviewOfTheDraftFederalLongter_19498]]*
+
 ### Mentioned In
 - [[NrcWstbGcmrcCommitteeStrategic_1998_07_30]]
 - [[TheEffectsOfAtomicRadiationOnO_1957]]
+- [[ReviewOfTheDraftFederalLongter_19498]]
 
 ## National Reservoir Research Unit
 
@@ -1911,11 +2024,15 @@ National Scenic Areas are special management designations within the California 
 > This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
 > -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
 
+> This document is not an ichthyological or aquatic study. It is an administrative packet from the [[Ecological Society of America]] (ESA) that covers the [[Vegetation Classification Panel]]'s scope of work for 1996-97, its July 1996 annual report, and a [[Federal Geographic Data Committee]] (FGDC)...
+> -- *[[VegetationPanelsScopeOfWork_16204]]*
+
 ### Mentioned In
 - [[TheRoleAndInfluenceOfTheUSNati_1995_07_06]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
 - [[BathyconchoeciaDeeveyaeAHighly_12629]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
+- [[VegetationPanelsScopeOfWork_16204]]
 
 ## National Shellfisheries Association
 <!-- fm: auto_enriched: true -->
@@ -1934,14 +2051,30 @@ National Scenic Areas are special management designations within the California 
 > This 1960 report is **not a species-level biological or ecological study**; it is a federal inter-agency policy document establishing an **interim economic valuation schedule** for the recreational aspects of fishing and hunting associated with U.S. water resource development projects (e.g., rese...
 > -- *[[ReportOfThePanelOnRecreational_1960_05_24]]*
 
+> This paper, by John Mahoney of the [[California Department of Fish and Game]] (Inland Fisheries Branch), reports a statewide economic survey of [[Sport Fishery Economics|sport fishing]] in California for the year 1955. Data were collected by a [[Mailed Questionnaire]] sent to a random sample of...
+> -- *[[AnEconomicEvaluationOfCaliforn_19355]]*
+
 ### Mentioned In
 - [[ReportOfThePanelOnRecreational_1960_05_24]]
+- [[AnEconomicEvaluationOfCaliforn_19355]]
 
 ## National Technical Advisory Committee On Water Quality Criteria
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
+
+## National Vegetation Classification Standard
+
+### Summary
+A proposed federal standard for classifying U.S. vegetation, drafted with input from the ESA Vegetation Classification Panel. According to the source, it has a physiognomic portion and floristic levels, and in July 1996 the FGDC sought public comment on questions such as vegetation thresholds and tree cover classes.
+
+### Context
+> This document is not an ichthyological or aquatic study. It is an administrative packet from the [[Ecological Society of America]] (ESA) that covers the [[Vegetation Classification Panel]]'s scope of work for 1996-97, its July 1996 annual report, and a [[Federal Geographic Data Committee]] (FGDC)...
+> -- *[[VegetationPanelsScopeOfWork_16204]]*
+
+### Mentioned In
+- [[VegetationPanelsScopeOfWork_16204]]
 
 ## National Water Quality Network
 <!-- fm: auto_enriched: true -->
@@ -1985,11 +2118,15 @@ The National Wildlife Federation is an environmental organization that was invol
 > This document describes the status and ecology of the world's wild [[Whooping Crane]] (*Grus americana*) population, which winters exclusively at [[Aransas National Wildlife Refuge]] on the [[Texas Gulf Coast]]. As of 1966, the population stood at 43 birds (38 adults, 5 young), representing a...
 > -- *[[TheWhoopingCranesOfAransasNati_13268]]*
 
+> This document reports a post-election telephone poll of voters, conducted for the [[National Wildlife Federation]] by [[Peter D. Hart Research Associates]] from December 1 to 4, 1994. The survey covered 1,201 registered voters who said they voted in the November 8, 1994 U.S. Congressional election....
+> -- *[[KeyFindingsFromAPostelectionVo_19501]]*
+
 ### Mentioned In
 - [[ExecutiveReviewCommitteeMeetin_19686]]
 - [[EndangeredAndThreatenedWildlif_11548]]
 - [[ForConservingListedSpeciesTalk_15635]]
 - [[TheWhoopingCranesOfAransasNati_13268]]
+- [[KeyFindingsFromAPostelectionVo_19501]]
 
 ## National Wildlife Refuge
 <!-- fm: auto_enriched: true -->
@@ -2696,6 +2833,15 @@ The Natural Diversity Scorecard is a separate biodiversity assessment process th
 ### Mentioned In
 - [[AProposedDemonstrationModelToI_17636]]
 
+## Natural Fluctuations
+
+### Context
+> This paper by E. D. Le Cren, reprinted from the [[International Commission For The Northwest Atlantic Fisheries]] Special Publication No. 1 ([[Biarritz Symposium]], March 1-10, 1956; issued 1958), addresses how to produce faster fishery assessments without sacrificing their usefulness. The author...
+> -- *[[SomeObservationsOnMethodsOfSpe_20225]]*
+
+### Mentioned In
+- [[SomeObservationsOnMethodsOfSpe_20225]]
+
 ## Natural Heritage Central Database
 <!-- fm: auto_enriched: true -->
 
@@ -2743,9 +2889,13 @@ Natural History of Arizona (Bio 300) was proposed as a lecture/laboratory course
 > **Taxonomic & Life-History Summary**: [[Northern Pike]] (*Esox lucius*) in Camerton Lake (28.3 ha, maximum depth 3.0 m) formed a dense population with 59.0 fish/ha for age-2 and older fish. Population structure was dominated by young fish: most individuals were age-3 or younger, with less than 3%...
 > -- *[[PopulationDynamicsTrophicInter_2003]]*
 
+> This paper by E. D. Le Cren, reprinted from the [[International Commission For The Northwest Atlantic Fisheries]] Special Publication No. 1 ([[Biarritz Symposium]], March 1-10, 1956; issued 1958), addresses how to produce faster fishery assessments without sacrificing their usefulness. The author...
+> -- *[[SomeObservationsOnMethodsOfSpe_20225]]*
+
 ### Mentioned In
 - [[TheoreticalYieldsAtVariousRate_1953]]
 - [[PopulationDynamicsTrophicInter_2003]]
+- [[SomeObservationsOnMethodsOfSpe_20225]]
 
 ## Natural Reproduction
 <!-- fm: auto_enriched: true -->
@@ -2774,6 +2924,22 @@ Natural History of Arizona (Bio 300) was proposed as a lecture/laboratory course
 - [[InteragencySouthwestStrategyFo_1997_11_12]]
 - [[ReviewOfProposedCounterpartReg_11907]]
 - [[BiologicalOpinionOnTheEffectsO_11915]]
+
+## Natural Resources Defense Council
+
+### Summary
+An environmental advocacy organization that filed an October 1973 lawsuit which led to wildlife inventories being started on public lands, since general grazing evaluations were judged too broad for localized impacts.
+
+### Context
+> This 1979 baseline inventory, prepared for the [[Bureau of Land Management]] Phoenix District Office, surveyed the aquatic habitat, water quality, [[Macroinvertebrates]], and [[Ichthyofauna]] of the perennial drainages of the upper [[Bill Williams River]] basin upstream from [[Alamo Lake]],...
+> -- *[[AquaticInventoryOfTheUpperBill_12502]]*
+
+> This 1979 Bureau of Land Management (BLM) Technical Note, authored by [[William G. Kepner]] of the Phoenix District Office, reports a winter 1978–79 aquatic inventory of the perennial drainages of the Hualapai and Aquarius Planning Units. The survey covered the upper [[Bill Williams River]] basin...
+> -- *[[AquaticInventoryOfTheUpperBill_12504]]*
+
+### Mentioned In
+- [[AquaticInventoryOfTheUpperBill_12502]]
+- [[AquaticInventoryOfTheUpperBill_12504]]
 
 ## Natural Selection
 <!-- fm: auto_enriched: true -->
@@ -2830,10 +2996,14 @@ The Nature Conservancy maintains a preserve along Sonoita Creek that was sampled
 > This U.S. Fish and Wildlife Service document from July-September 1994 provides comprehensive listings of federally threatened, endangered, proposed, and candidate species in Arizona. The document includes 54 listed species total (7 proposed, 4 petitioned), with 18 listed fish species and 1 proposed...
 > -- *[[ListOfAnimalSpeciesInArizonaTh_11649]]*
 
+> This Comprehensive Management Plan (CMP) covers the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona, and sets a 20-year planning framework for managing both units as elements of a larger "area of ecological concern" centred on...
+> -- *[[DraftSanBernardinoNationalWild_11500]]*
+
 ### Mentioned In
 - [[IntraofficeMemoTopminnowpupfis_13822]]
 - [[PublicMeetingsAnnoucnementAndP_11475]]
 - [[ListOfAnimalSpeciesInArizonaTh_11649]]
+- [[DraftSanBernardinoNationalWild_11500]]
 
 ## Nature Conservancy Colorado Natural Heritage Program
 
@@ -2846,6 +3016,18 @@ The Nature Conservancy Colorado Natural Heritage Program is one of the key parti
 
 ### Mentioned In
 - [[FyAnnualProjectReportColoradoR_21244]]
+
+## Nature Reserve System
+
+### Summary
+A network of protected areas. The paper argues that multiple population representations in such a system provide colonists and buffer against variability, and that reserve area matters most for carrying capacity-dependent species.
+
+### Context
+> This paper classifies extinction risk for 758 species, using 1941 population time series from the [[Global Population Dynamics Database]]. The taxa are [[Mammals]], [[Birds]], [[Marine Fish]], and [[Lepidopterans]]. Using the [[Variation Threshold]] concept from [[Fagan Et Al 1999]], species are...
+> -- *[[CharacterizingExtinctionRisksF_16299]]*
+
+### Mentioned In
+- [[CharacterizingExtinctionRisksF_16299]]
 
 ## Nau Cpsu
 <!-- fm: auto_enriched: true -->
@@ -2919,6 +3101,9 @@ Navajo Dam is one of nine potential sites evaluated in the feasibility study for
 > This document establishes the San Juan River Basin Recovery Implementation Program (RIP), a comprehensive cooperative framework designed to protect and recover endangered fish species—[[Colorado Squawfish]] and [[Razorback Sucker]]—while allowing water development to proceed in compliance with...
 > -- *[[SanJuanRiverBasinRecoveryImple_11583]]*
 
+> This administrative document is a memorandum from the [[Fish And Wildlife Service]] (FWS) transmitting the summary of the June 23, 1988 meeting of the [[Management Group]] of the [[Colorado River Recovery Program]], held at the FWS Regional Office in Lakewood, Colorado. The memo header is dated...
+> -- *[[SummaryjuneManagementGroupMeet_20998]]*
+
 ### Mentioned In
 - [[DraftcoloradoRiverEndangeredFi_13664]]
 - [[CaseStudyColoradoRiverSqauwfis_16101]]
@@ -2926,6 +3111,7 @@ Navajo Dam is one of nine potential sites evaluated in the feasibility study for
 - [[PartICurrentSituationPartIiAPr_13306]]
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[SanJuanRiverBasinRecoveryImple_11583]]
+- [[SummaryjuneManagementGroupMeet_20998]]
 
 ## Navajo Fish And Game Department
 <!-- fm: auto_enriched: true -->
@@ -3043,12 +3229,16 @@ The Navajo Natural Heritage Program appears to be a Navajo Nation-led initiative
 > This document comprises two reports from the [[Arizona Game and Fish Department]] covering native fish and trout studies in the [[Colorado River]] system below [[Glen Canyon Dam]] during 1991. The March 26-April 14, 1991 trip report details field sampling in mainstream and [[Little Colorado River]]...
 > -- *[[GlenCanyonEnvironmentalStudies_15938]]*
 
+> This document is a March 9, 1994 memorandum from [[David L. Wegner]] of the [[Glen Canyon Environmental Studies]] (GCES) program, [[Bureau Of Reclamation]], transmitting the [[Arizona State University]] (ASU) 1993 annual progress report on the [[Humpback Chub]] (*Gila cypha*) in the [[Little...
+> -- *[[ProgressReportForCooperativeAg_19095]]*
+
 ### Mentioned In
 - [[DatabaseIntegrationWithNavajoN_13634]]
 - [[NotificationOfModifiedHoopNetS_17045]]
 - [[TransmittalOfNavajoNationLittl_1992_11_17]]
 - [[EndangeredSpeciesProgramReview_19696]]
 - [[GlenCanyonEnvironmentalStudies_15938]]
+- [[ProgressReportForCooperativeAg_19095]]
 
 ## Navajo Powerplant
 
@@ -3093,6 +3283,9 @@ Navajo Powerplant is a power generation facility that was evaluated as a potenti
 > This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
 > -- *[[SummarynovemberAndFebruaryMana_21001]]*
 
+> This administrative document is a memorandum from the [[Fish And Wildlife Service]] (FWS) transmitting the summary of the June 23, 1988 meeting of the [[Management Group]] of the [[Colorado River Recovery Program]], held at the FWS Regional Office in Lakewood, Colorado. The memo header is dated...
+> -- *[[SummaryjuneManagementGroupMeet_20998]]*
+
 ### Mentioned In
 - [[MemoOnDesertFishesCouncilRevie_1994_05_11]]
 - [[EndangeredAndThreatenedWildlif_11592]]
@@ -3103,6 +3296,7 @@ Navajo Powerplant is a power generation facility that was evaluated as a potenti
 - [[WantedForTheFutureTheseNativeF_13295]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[SummarynovemberAndFebruaryMana_21001]]
+- [[SummaryjuneManagementGroupMeet_20998]]
 
 ## Navajo Tribe
 
@@ -3244,6 +3438,18 @@ The ND2 gene is a mitochondrial DNA marker used for phylogenetic analysis. This 
 ### Mentioned In
 - [[DiversityWithinTheRedeyeBassMi_2013]]
 
+## ND5 Gene
+
+### Summary
+A mitochondrial gene encoding NADH dehydrogenase subunit 5. In this study a 245 bp segment was sequenced, and the Onza's sequence was 100% identical to western North American pumas.
+
+### Context
+> This 1996 paper reports molecular genetic tests on tissue from an alleged Mexican [[Onza]], a large cat shot in the western [[Sierra Madre]] of [[Sinaloa]] in 1986. The authors compared protein markers ([[Isoenzyme Electrophoresis]] and [[Albumin]] [[Isoelectric Focusing]]) and [[Mitochondrial...
+> -- *[[MolecularGeneticIdentification_19135]]*
+
+### Mentioned In
+- [[MolecularGeneticIdentification_19135]]
+
 ## NE Windmill
 
 ### Summary
@@ -3265,6 +3471,15 @@ NE Windmill is one of 16 existing water sources at San Bernardino National Wildl
 
 ### Mentioned In
 - [[EvaluationOfProposedIntroducti_12261]]
+
+## Nearctic
+
+### Context
+> This combined March/June 1996 issue of [[Cicindela]], a quarterly journal devoted to [[Cicindelidae]], contains three main items: an in memoriam for the tiger beetle specialist [[Mont A. Cazier]] (1911-1995), the editorial and subscription policy of the journal, and a research note by [[David L....
+> -- *[[InMemoriamMontACazier_19082]]*
+
+### Mentioned In
+- [[InMemoriamMontACazier_19082]]
 
 ## Nebraska
 
@@ -3329,6 +3544,18 @@ The Neches River is a Texas river that flows through Tyler and Jasper Counties a
 
 ### Mentioned In
 - [[ANewSpeciesOfAnouraMammaliaChi_1968_12_30]]
+
+## Needham And Usinger 1956
+
+### Summary
+A 1956 study of stream macrofauna cited by Curtis as relevant background on how bottom-dwelling organisms vary in a riffle. Curtis notes that much about these bottom communities remained unknown, and he uses the work to frame expected effects of velocity changes on bottom fauna.
+
+### Context
+> This 1959 paper by Brian Curtis, a fishery consultant and former Supervising Fisheries Biologist, reports how a river's wetted perimeter, depth, cross-sectional area, and mean water velocity change as flow is reduced below a [[Hydroelectric Diversion]] dam. The work was part of a program by the...
+> -- *[[ChangesInARiversPhysicalCharac_18107]]*
+
+### Mentioned In
+- [[ChangesInARiversPhysicalCharac_18107]]
 
 ## Needham Sampler
 
@@ -3505,11 +3732,35 @@ Negros is a Philippine island that forms one side of Tanon Strait (the other bei
 ### Mentioned In
 - [[EvaluationOfPreIntroductionStr_16534]]
 
+## Nei and Tajima Method
+
+### Summary
+This is a 1981 method for estimating effective population size from gene frequency change, using the standardized variance of gene frequency change (F). The source cites it as an improvement over earlier gene-frequency approaches. The authors report that F-based estimates can be sensitive to unusually large gene frequency deviations at individual loci, as seen in the Winter Standard strain.
+
+### Context
+> This paper by William B. Schill, Raymond C. Simon, and Stevan R. Phelps (U.S. Fish and Wildlife Service) proposes a method for estimating [[Effective Population Size]] (Ne) from accumulated [[Genetic Drift]], quantified as [[Nei's Standard Genetic Distance]] (Nei's D). The authors derive formulas...
+> -- *[[EstimationOfEffectivePopulatio_20556]]*
+
+### Mentioned In
+- [[EstimationOfEffectivePopulatio_20556]]
+
 ## Nei'S Genetic Similarity Index
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[BiochemicalIdentificationOfMox_14133]]
+
+## Nei's Standard Genetic Distance
+
+### Summary
+Nei's standard genetic distance (Nei's D) is a measure of how dissimilar two populations or two samples are based on allele frequencies. In this source the authors use the accumulated Nei's D between repeat samples of the same population as the quantity that reflects drift, and they derive formulas linking it to effective population size. They note its biological significance and sampling properties are well documented.
+
+### Context
+> This paper by William B. Schill, Raymond C. Simon, and Stevan R. Phelps (U.S. Fish and Wildlife Service) proposes a method for estimating [[Effective Population Size]] (Ne) from accumulated [[Genetic Drift]], quantified as [[Nei's Standard Genetic Distance]] (Nei's D). The authors derive formulas...
+> -- *[[EstimationOfEffectivePopulatio_20556]]*
+
+### Mentioned In
+- [[EstimationOfEffectivePopulatio_20556]]
 
 ## Nekogigi
 <!-- fm: auto_enriched: true -->
@@ -3890,9 +4141,13 @@ The Neosho Mountain Minnow (Pimephales tenellus tenellus) is a subspecies of min
 > This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
 > -- *[[ReportOfTheNationalFishHatcher_20170]]*
 
+> This compiled document, dated 1994, is a set of correspondence, meeting records, proposals, and technical reference material prepared for the U.S. Fish and Wildlife Service (FWS) [[National Fish Hatchery System]] Review. Its central theme is a proposed shift in the role of federal hatcheries from...
+> -- *[[NationalFishHatcherySystemRevi_11668]]*
+
 ### Mentioned In
 - [[StationProfileOfTheNeoshoNatio_1993]]
 - [[ReportOfTheNationalFishHatcher_20170]]
+- [[NationalFishHatcherySystemRevi_11668]]
 
 ## Neosho Nfh
 <!-- fm: auto_enriched: true -->
@@ -4011,6 +4266,18 @@ Neotoca is a goodeid genus in the subfamily Girardinichthyinae that has been exa
 
 ### Mentioned In
 - [[TheEcologyOfSmallMammalsAtSara_12881]]
+
+## Neotrichia
+
+### Summary
+A genus of hydroptilid caddisflies. According to this source, Ulmer's 1913 Paraguayan material assigned to Rhyacopsyche hageni was apparently a Neotrichia species.
+
+### Context
+> This taxonomic paper by [[Oliver S. Flint Jr.]] (Smithsonian Institution) revises the poorly known hydroptilid caddisfly genus [[Rhyacopsyche]], originally named by [[Fritz Müller]] from Brazil. The author argues that [[Rhyacopsyche Mexicana]] (originally described as [[Metrichia]] mexicana) is...
+> -- *[[StudiesOfNeotropicalCaddisFlie_16467]]*
+
+### Mentioned In
+- [[StudiesOfNeotropicalCaddisFlie_16467]]
 
 ## Nepa
 <!-- fm: auto_enriched: true -->
@@ -4215,6 +4482,18 @@ Netta rufina is a diving duck species (Red-crested Pochard) studied for its bree
 ### Mentioned In
 - [[ANewStoneflyFromBaffinLandPlec_16847]]
 
+## Neural Arch
+
+### Summary
+The neural arch is the dorsal bony arch of a vertebra that encloses the spinal cord. The source includes it in its glossary of skeletal terms. It serves as background terminology for the key's vertebral descriptions.
+
+### Context
+> Fish Bulletin No. 79 by [[Charles R. Clothier]] (1950), published by the [[California Division of Fish and Game]] through its [[Bureau of Marine Fisheries]], presents a dichotomous identification key for 163 teleost fish species (excluding Elasmobranchii) found between Point Conception and San...
+> -- *[[AKeyToSomeSouthernCaliforniaFi_15959]]*
+
+### Mentioned In
+- [[AKeyToSomeSouthernCaliforniaFi_15959]]
+
 ## Neuroendocrine Stress Axis
 <!-- fm: auto_enriched: true -->
 
@@ -4320,6 +4599,9 @@ Nevada in the context of fish science and conservation refers to the geographic 
 > This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, Subpart B, which contains the official lists of endangered and threatened wildlife (§17.11) and plants (§17.12) under the [[Endangered Species Act]]. Published as a special reprint current to the date...
 > -- *[[PartEndangeredAndThreatenedWil_11612]]*
 
+> This document is the summary statement of a first, rapidly executed survey of [[Bait Dealers]] along the [[Lower Colorado River]], from [[Lake Mead]] to the U.S.-Mexican Boundary. The survey was coordinated across [[California]], [[Arizona]], and [[Nevada]]. The author, W. L. Minckley of [[Arizona...
+> -- *[[LowerColoradoRiverBaitIndustry_18581]]*
+
 ### Mentioned In
 - [[DemographicsOfTroutAnglersInTh_12587]]
 - [[EndanderedAndThreatenedWildlif_16520]]
@@ -4338,6 +4620,7 @@ Nevada in the context of fish science and conservation refers to the geographic 
 - [[HowToBuildAFarmPondForFishProd_13264]]
 - [[StagesOfDevelopmentOfGulliesIn_16590]]
 - [[PartEndangeredAndThreatenedWil_11612]]
+- [[LowerColoradoRiverBaitIndustry_18581]]
 
 ## Nevada County
 
@@ -4753,6 +5036,18 @@ New Jersey is a state where the all-time record Yellow Perch was caught. This re
 ### Mentioned In
 - [[Perch_16750]]
 
+## New Jersey Division of Fish and Game
+
+### Summary
+The state fisheries agency whose lake and pond survey provided data for this study over two summers. The author, Roland F. Smith, was a fisheries biologist with the agency.
+
+### Context
+> Roland F. Smith, Fisheries Biologist with the [[New Jersey Division of Fish and Game]], reports on [[Liming]] (alkalization) experiments in acid lakes and farm ponds in New Jersey. Most waters on the [[Atlantic Coastal Plain]] are acidic because the underlying soils are low in calcium and poorly...
+> -- *[[NeutralizationExperimentsInCer_21202]]*
+
+### Mentioned In
+- [[NeutralizationExperimentsInCer_21202]]
+
 ## New Jersey Fisheries Survey
 
 ### Summary
@@ -4929,6 +5224,9 @@ The New Mexico Department of Game and Fish is the state regulatory agency respon
 > This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
 > -- *[[DraftProposedCriteriaForDesign_14776]]*
 
+> This Department of Game and Fish final report, prepared under the [[Endangered Species Project]] (Project No. E-1-3, Job No. 1, contract period January 15, 1981 to June 30, 1983, amended), assesses the conservation status of New Mexico's living freshwater mollusks. The work was carried out largely...
+> -- *[[StatusInvestigationOfMollusks_13493]]*
+
 ### Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[LetterClarifyingReportingDates_1987_08_03]]
@@ -4943,6 +5241,7 @@ The New Mexico Department of Game and Fish is the state regulatory agency respon
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
 - [[MinutesdesertFishesRecoveryTea_13730]]
 - [[DraftProposedCriteriaForDesign_14776]]
+- [[StatusInvestigationOfMollusks_13493]]
 
 ## New Mexico Fishes
 <!-- fm: auto_enriched: true -->
@@ -5101,6 +5400,18 @@ New York was one of eight state agencies that contributed data to this 1961 safe
 - [[LetterFromDeanAHendricksonToCa_1990_01_09]]
 - [[GeneralNotesTemperaturecontrol_16184]]
 
+## New York Bight
+
+### Summary
+The New York Bight is the coastal Atlantic area off New York, New Jersey and Delaware where this study sampled whiting. Inshore samples came from Long Branch Pier and offshore samples from the Mud Hole trawl grounds.
+
+### Context
+> This study by [[Richard H. Schaefer]] of the [[New York State Conservation Department]], published in the [[New York Fish and Game Journal]] (1960, Vol. 7, No. 2), examines the growth, length-weight relationships, and feeding habits of the [[Silver Hake]] (*[[Merluccius Bilinearis]]*) in the [[New...
+> -- *[[GrowthAndFeedingHabitsOfTheWhi_20544]]*
+
+### Mentioned In
+- [[GrowthAndFeedingHabitsOfTheWhi_20544]]
+
 ## New York Canal
 
 ### Summary
@@ -5128,6 +5439,18 @@ The New York Conservation Department is a state agency that conducted fisheries 
 ### Mentioned In
 - [[Perch_16750]]
 - [[TheNutritionOfTroutCortalandHa_11168]]
+
+## New York Fish and Game Journal
+
+### Summary
+The New York Fish and Game Journal is the publication in which this study appeared (1960, Vol. 7, No. 2, pages 85-98). It is the outlet for the source note's growth and feeding findings on whiting.
+
+### Context
+> This study by [[Richard H. Schaefer]] of the [[New York State Conservation Department]], published in the [[New York Fish and Game Journal]] (1960, Vol. 7, No. 2), examines the growth, length-weight relationships, and feeding habits of the [[Silver Hake]] (*[[Merluccius Bilinearis]]*) in the [[New...
+> -- *[[GrowthAndFeedingHabitsOfTheWhi_20544]]*
+
+### Mentioned In
+- [[GrowthAndFeedingHabitsOfTheWhi_20544]]
 
 ## New York State
 
@@ -5164,10 +5487,14 @@ The New York State Conservation Department was one of three cooperating institut
 > This experimental study compared an all-pellet dry food diet with a traditional pellet-plus-meat diet for [[Brook Trout]] and [[Brown Trout]] in New York State hatcheries from November 1957 through April 1958. Nine pairs of hatchery ponds across six facilities were used to evaluate growth,...
 > -- *[[PelletedDryFoodAsATotalDietFor_20344]]*
 
+> This study by [[Richard H. Schaefer]] of the [[New York State Conservation Department]], published in the [[New York Fish and Game Journal]] (1960, Vol. 7, No. 2), examines the growth, length-weight relationships, and feeding habits of the [[Silver Hake]] (*[[Merluccius Bilinearis]]*) in the [[New...
+> -- *[[GrowthAndFeedingHabitsOfTheWhi_20544]]*
+
 ### Mentioned In
 - [[TroutFeedsAndFeeding_11173]]
 - [[GeneralNotesTemperaturecontrol_16184]]
 - [[PelletedDryFoodAsATotalDietFor_20344]]
+- [[GrowthAndFeedingHabitsOfTheWhi_20544]]
 
 ## New York State Feeding Chart
 
@@ -5297,8 +5624,12 @@ Newport Bay is a coastal embayment in Orange County, California, characterized b
 > This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
 > -- *[[FishRemainsFromArchaeologicalS_18761]]*
 
+> Fish Bulletin No. 79 by [[Charles R. Clothier]] (1950), published by the [[California Division of Fish and Game]] through its [[Bureau of Marine Fisheries]], presents a dichotomous identification key for 163 teleost fish species (excluding Elasmobranchii) found between Point Conception and San...
+> -- *[[AKeyToSomeSouthernCaliforniaFi_15959]]*
+
 ### Mentioned In
 - [[FishRemainsFromArchaeologicalS_18761]]
+- [[AKeyToSomeSouthernCaliforniaFi_15959]]
 
 ## Newtown Fish Toxicology Laboratory
 <!-- fm: auto_enriched: true -->
@@ -5601,12 +5932,16 @@ The Nile Perch (*Lates niloticus*) is a large predatory fish native to African r
 > - **Location:** Southern Lake Victoria — Speke Gulf, Mwanza Gulf, and adjacent western shoreline areas, surveyed intensively since 1991 by [[HEST]] (Haplochromis Ecology Survey Team) / TAFIRI researchers. - **Primary threat driver:** Introduction and population boom of [[Nile Perch]] (*Lates nilo...
 > -- *[[CichlidSpeciesRescueEffortsInS_11326]]*
 
+> This packet is a 1985–1986 conservation appeal concerning the [[Haplochromine Cichlids]] species flock of [[Lake Victoria]]. It contains a cover letter from [[Jack E Williams]] of the U.S. Fish and Wildlife Service, a Leiden solicitation letter, the resolutions of the [[Cichlid Workshop]], an...
+> -- *[[LetterToPhilPisterLiteratureOn_12020]]*
+
 ### Mentioned In
 - [[CichlidSpeciesRescueEffortsInS_11326]]
 - [[ConservingFishGenomesPhilosoph_1988_08_02]]
 - [[DesertFishesCouncilLetterSuppo_1986_02_21]]
 - [[ExperimentalIntroductionOfFish_1955]]
 - [[SpeciesStockingHistoryInTexasD_1987]]
+- [[LetterToPhilPisterLiteratureOn_12020]]
 
 ## Nile River
 <!-- fm: auto_enriched: true -->
@@ -6219,6 +6554,18 @@ Nitocrella is a genus of harpacticoid copepods (small crustaceans) belonging to 
 ### Mentioned In
 - [[ContributionOfTheHyporheicZone_17791]]
 
+## Nitrogen
+
+### Summary
+Nitrogen is a nutrient that, in excess, can degrade water quality and drive eutrophication. The directory lists it under water quality and chemistry as one of the relevant specialist topics.
+
+### Context
+> This is the third revised edition (January 1998) of a directory published by the [[Water Resources Research Center]] at the University of Arizona, College of Agriculture, as Issue Paper Number Thirteen. It lists 201 people with water-related expertise at Arizona's three state universities: the...
+> -- *[[WhereToFindWaterExpertiseAtSta_13523]]*
+
+### Mentioned In
+- [[WhereToFindWaterExpertiseAtSta_13523]]
+
 ## Nitrogen Balance Method
 <!-- fm: auto_enriched: true -->
 
@@ -6356,6 +6703,18 @@ NMNH is the National Museum of Natural History at the Smithsonian Institution. R
 
 ### Mentioned In
 - [[PhylogenyOfPyrgulopsisSpringsn_16724]]
+
+## No Action Alternative
+
+### Summary
+The No Action Alternative keeps all grazing allotments as they are, with no new water developments or fencing, and roads remain open and user-maintained. An Arizona Trail proposal would be considered separately under this option. It is one of the five alternatives analyzed in the plan.
+
+### Context
+> This U.S. Forest Service letter, signed by District Ranger [[Erry A. Deiter]] of the [[Sierra Vista Ranger District]], updates interested parties on the proposed Redrock Canyon Action Plan in the [[Canelo Hills]] area of the [[Coronado National Forest]]. The plan aims to improve vegetation...
+> -- *[[ReRedrockCanyonActionPlanCoron_12858]]*
+
+### Mentioned In
+- [[ReRedrockCanyonActionPlanCoron_12858]]
 
 ## No Name Lake
 <!-- fm: auto_enriched: true -->
@@ -6827,6 +7186,18 @@ This source conducts a major nomenclatural revision of black basses, increasing 
 ### Mentioned In
 - [[LetterToJerryConleyOnStateFede_1994_08_09]]
 
+## Non-Invasive Monitoring
+
+### Summary
+The NRC committee recommends greater use of non-invasive monitoring methods in the Colorado River long-term monitoring plan. The source names this as one of its overall recommendations for the draft plan, but the excerpt does not detail the specific techniques.
+
+### Context
+> This document is a 1994 pre-publication review by the [[National Research Council]] (NRC) Committee to Review the [[Glen Canyon Environmental Studies]] of the Bureau of Reclamation's *Draft Federal Long-Term Monitoring Plan* for the Colorado River below [[Glen Canyon Dam]]. The committee judges the...
+> -- *[[ReviewOfTheDraftFederalLongter_19498]]*
+
+### Mentioned In
+- [[ReviewOfTheDraftFederalLongter_19498]]
+
 ## Non-Market Valuation
 <!-- fm: auto_enriched: true -->
 
@@ -7026,6 +7397,18 @@ Non-native species introduction refers to the deliberate or accidental establish
 
 ### Mentioned In
 - [[OccurrenceOfTheLampreyIchthyom_15942]]
+
+## Non-Point Source Pollution
+
+### Summary
+Non-point source pollution is contamination that comes from diffuse sources, such as runoff from land, rather than from a single discharge pipe. The directory lists it under water quality and chemistry as a keyword for finding experts.
+
+### Context
+> This is the third revised edition (January 1998) of a directory published by the [[Water Resources Research Center]] at the University of Arizona, College of Agriculture, as Issue Paper Number Thirteen. It lists 201 people with water-related expertise at Arizona's three state universities: the...
+> -- *[[WhereToFindWaterExpertiseAtSta_13523]]*
+
+### Mentioned In
+- [[WhereToFindWaterExpertiseAtSta_13523]]
 
 ## Non-Target Species Exposure
 <!-- fm: auto_enriched: true -->
@@ -7369,6 +7752,18 @@ Nonnative fish species are aquatic organisms that have been introduced to ecosys
 ### Mentioned In
 - [[NewDeadlineForSubmittingHNonpo_1990_11_07]]
 
+## Nonresponse Bias
+
+### Summary
+Error that occurs when people who did not reply to a survey differ from those who did. Mahoney assigned nonrespondents the spending values of late respondents, following Wallace (1956), and noted that some upward bias probably remains.
+
+### Context
+> This paper, by John Mahoney of the [[California Department of Fish and Game]] (Inland Fisheries Branch), reports a statewide economic survey of [[Sport Fishery Economics|sport fishing]] in California for the year 1955. Data were collected by a [[Mailed Questionnaire]] sent to a random sample of...
+> -- *[[AnEconomicEvaluationOfCaliforn_19355]]*
+
+### Mentioned In
+- [[AnEconomicEvaluationOfCaliforn_19355]]
+
 ## Norfork Dam
 <!-- fm: auto_enriched: true -->
 
@@ -7710,6 +8105,18 @@ North American Grasslands are the habitat context for this study, as these new l
 ### Mentioned In
 - [[ImperiledAquaticResourcesGeneP_14905]]
 
+## North American Waterfowl Management Plan
+
+### Summary
+A cooperative continental plan for conserving waterfowl and their habitats across North America. It is listed among related documents in this source, which does not describe any specific findings or actions from it for this refuge.
+
+### Context
+> This Comprehensive Management Plan (CMP) covers the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona, and sets a 20-year planning framework for managing both units as elements of a larger "area of ecological concern" centred on...
+> -- *[[DraftSanBernardinoNationalWild_11500]]*
+
+### Mentioned In
+- [[DraftSanBernardinoNationalWild_11500]]
+
 ## North Arizona Juvenile
 
 ### Summary
@@ -7759,6 +8166,18 @@ North Arizona Juvenile is one of the backwater coves utilized for rearing juveni
 
 ### Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
+
+## North Branch Dam
+
+### Summary
+A dam about one-third mile above the North Branch junction, associated with a natural ledge falls, whose remains are considered a complete barrier to upstream migration. The report judges fish passage here unnecessary because salmon spawning and nursery habitat is limited.
+
+### Context
+> This 1956 report, issued by the [[Maine Department of Inland Fisheries and Game]] and the [[Atlantic Salmon Commission]], condenses biological surveys of the [[Pleasant River]] drainage in eastern Maine. It evaluates the lakes and streams for sport and commercial fisheries, catalogues obstructions...
+> -- *[[ThePleasantRiverFishManagement_20718]]*
+
+### Mentioned In
+- [[ThePleasantRiverFishManagement_20718]]
 
 ## North Carolina
 <!-- fm: auto_enriched: true -->
@@ -7950,8 +8369,12 @@ North Fork Diamond Creek is one of the headwater streams in the White Mountains 
 > The [[North Fork Feather River]] is a heavily hydro-modified tributary of the Sacramento River system, managed by Pacific Gas & Electric (PG&E) with multiple impoundments, tunnels, and penstocks that have eliminated natural flood/low-flow extremes. Two river reaches were studied:
 > -- *[[ResponsesOfFishPopulationsInTh_1983]]*
 
+> This 1959 paper by Brian Curtis, a fishery consultant and former Supervising Fisheries Biologist, reports how a river's wetted perimeter, depth, cross-sectional area, and mean water velocity change as flow is reduced below a [[Hydroelectric Diversion]] dam. The work was part of a program by the...
+> -- *[[ChangesInARiversPhysicalCharac_18107]]*
+
 ### Mentioned In
 - [[ResponsesOfFishPopulationsInTh_1983]]
+- [[ChangesInARiversPhysicalCharac_18107]]
 
 ## North Fork Gunnison River
 
@@ -8417,6 +8840,15 @@ Northern Arizona University appears in these historical documents as a research 
 > This administrative document from the [[Bureau of Reclamation]] Upper Colorado Regional Office announces Environmental and Economic Study Team meetings for the [[Glen Canyon Environmental Studies]] (GCES) program scheduled for June 15-16, 1989, in [[Flagstaff, Arizona]]. The meetings were designed...
 > -- *[[EnvironmentalAndEconomicStudyT_19683]]*
 
+> This second revised edition (May 1995) is Number Thirteen in a series of issue papers from the [[Water Resources Research Center]] at the [[University of Arizona]]. It is a directory of 173 people at Arizona's three state universities, [[University of Arizona]], [[Arizona State University]], and...
+> -- *[[WhereToFindWaterExpertiseAtSta_13522]]*
+
+> This is the third revised edition (January 1998) of a directory published by the [[Water Resources Research Center]] at the University of Arizona, College of Agriculture, as Issue Paper Number Thirteen. It lists 201 people with water-related expertise at Arizona's three state universities: the...
+> -- *[[WhereToFindWaterExpertiseAtSta_13523]]*
+
+> This document is a 1997 review by P. E. Brunkow, Post-doctoral Research Associate in the Department of Zoology at [[Arizona State University]], of aquatic biology project reports from the [[Glen Canyon Environmental Studies]] (GCES) Phase I and Phase II efforts. It was prepared for the [[Bureau of...
+> -- *[[IntegrationAndEvaluationOfGlen_13851]]*
+
 ### Mentioned In
 - [[LetterToWLMinckleyOnLittleColo_1987_01_26]]
 - [[MeetingNoticeOnLittleColoradoR_1994_01_21]]
@@ -8429,6 +8861,9 @@ Northern Arizona University appears in these historical documents as a research 
 - [[PotentialForACHartMerriamCente_13747]]
 - [[DraftColoradoRiverTrophicStudi_14828]]
 - [[EnvironmentalAndEconomicStudyT_19683]]
+- [[WhereToFindWaterExpertiseAtSta_13522]]
+- [[WhereToFindWaterExpertiseAtSta_13523]]
+- [[IntegrationAndEvaluationOfGlen_13851]]
 
 ## Northern Arizona University (Nau)
 <!-- fm: auto_enriched: true -->
@@ -9552,6 +9987,9 @@ Notropis is a genus of small freshwater cyprinid fishes (minnows) distributed th
 > This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
 > -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
 
+> This taxonomic paper, Contribution No. 15 from the Laboratorio de Vertebrados, Facultad de Ciencias Biológicas, [[Universidad Autónoma de Nuevo León]] (Monterrey, Mexico), by S. Contreras-B and Jorge Verduzco-M, describes [[Notropis Medialunae]] as a new species of [[Cyprinidae]] known only from a...
+> -- *[[NotropisMedialunae_17532]]*
+
 ### Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[ASystematicAndGeographicalStud_1961]]
@@ -9569,6 +10007,7 @@ Notropis is a genus of small freshwater cyprinid fishes (minnows) distributed th
 - [[ListOfFishesKnownOrExpectedToB_14196]]
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[DraftOfMexicosNewEndangeredSpe_11644]]
+- [[NotropisMedialunae_17532]]
 
 ## Notropis Albeolus
 <!-- fm: auto_enriched: true -->
@@ -10225,6 +10664,9 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 > This document comprises field collection records and museum catalog entries from the [[University of Michigan Museum of Zoology]] (UMMZ) spanning 1934-1978, documenting fish fauna of the [[Colorado River]] basin in [[Coconino County]], [[Arizona]]. The records include handwritten field notes,...
 > -- *[[GrandCanyonFieldNotesFromAndVa_15334]]*
 
+> Carl L. Hubbs (Scripps Institution of Oceanography) reports the recent establishment of the [[Red Shiner]] ([[Notropis Lutrensis]]) in the [[Lower Colorado River System]], based on [[Field Collections]] made in January and December 1953. The species is a small, nonpredatory forage fish that may...
+> -- *[[EstablishmentOfAForageFishTheR_20058]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -10258,6 +10700,55 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 - [[TheEffectOfDomesticAndOilRefin_15666]]
 - [[SpikedaceAndLoachMinnowStudyAP_16483]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
+- [[EstablishmentOfAForageFishTheR_20058]]
+
+## Notropis Lutrensis Lutrensis
+
+### Summary
+The nominal subspecies of the red shiner, whose typical form has more anal rays (about 9.2) and a relatively larger dorsal-to-anal distance than the suavis form. Hubbs states that the introduced fish do not match typical lutrensis, so he classes them as intergrades with suavis.
+
+### Context
+> Carl L. Hubbs (Scripps Institution of Oceanography) reports the recent establishment of the [[Red Shiner]] ([[Notropis Lutrensis]]) in the [[Lower Colorado River System]], based on [[Field Collections]] made in January and December 1953. The species is a small, nonpredatory forage fish that may...
+> -- *[[EstablishmentOfAForageFishTheR_20058]]*
+
+### Mentioned In
+- [[EstablishmentOfAForageFishTheR_20058]]
+
+## Notropis Lutrensis Suavis
+
+### Summary
+A subspecies of the red shiner, reported to average about 8.7 anal rays. Hubbs finds that the introduced specimens' dorsal-to-anal distance agrees with suavis, so he classes them as intergrades between lutrensis and suavis.
+
+### Context
+> Carl L. Hubbs (Scripps Institution of Oceanography) reports the recent establishment of the [[Red Shiner]] ([[Notropis Lutrensis]]) in the [[Lower Colorado River System]], based on [[Field Collections]] made in January and December 1953. The species is a small, nonpredatory forage fish that may...
+> -- *[[EstablishmentOfAForageFishTheR_20058]]*
+
+### Mentioned In
+- [[EstablishmentOfAForageFishTheR_20058]]
+
+## Notropis Mearnsi
+
+### Summary
+A minnow form that Hubbs separates from the introduced red shiners, since it has about 40 lateral line scales and usually 8 anal rays. He suggests it be treated as Notropis formosa mearnsi.
+
+### Context
+> Carl L. Hubbs (Scripps Institution of Oceanography) reports the recent establishment of the [[Red Shiner]] ([[Notropis Lutrensis]]) in the [[Lower Colorado River System]], based on [[Field Collections]] made in January and December 1953. The species is a small, nonpredatory forage fish that may...
+> -- *[[EstablishmentOfAForageFishTheR_20058]]*
+
+### Mentioned In
+- [[EstablishmentOfAForageFishTheR_20058]]
+
+## Notropis Medialunae
+
+### Summary
+Notropis medialunae is a small freshwater minnow in the family Cyprinidae, described here as a new species. The source knows it only from one distributary channel at La Media Luna springs in San Luis Potosí, Mexico. It is distinguished by its low lateral-line scale count (38–44), few predorsal scales, and a double S-shaped intestine.
+
+### Context
+> This taxonomic paper, Contribution No. 15 from the Laboratorio de Vertebrados, Facultad de Ciencias Biológicas, [[Universidad Autónoma de Nuevo León]] (Monterrey, Mexico), by S. Contreras-B and Jorge Verduzco-M, describes [[Notropis Medialunae]] as a new species of [[Cyprinidae]] known only from a...
+> -- *[[NotropisMedialunae_17532]]*
+
+### Mentioned In
+- [[NotropisMedialunae_17532]]
 
 ## Notropis Mekistocholas
 <!-- fm: auto_enriched: true -->
@@ -10266,8 +10757,12 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 > - **Total diversity documented**: 398 fish forms + 5 intergrade populations across **28 families** in the central/northern Appalachian region. - **Geographic scope expansion**: This checklist extends the original [[Jenkins Lachner and Schwartz 1972]] table by adding the **Susquehanna, Licking, Gr...
 > -- *[[ChecklistOfTheFishesOfTheCentr_1982_04_13]]*
 
+> This taxonomic paper, Contribution No. 15 from the Laboratorio de Vertebrados, Facultad de Ciencias Biológicas, [[Universidad Autónoma de Nuevo León]] (Monterrey, Mexico), by S. Contreras-B and Jorge Verduzco-M, describes [[Notropis Medialunae]] as a new species of [[Cyprinidae]] known only from a...
+> -- *[[NotropisMedialunae_17532]]*
+
 ### Mentioned In
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
+- [[NotropisMedialunae_17532]]
 
 ## Notropis Muskoka
 <!-- fm: auto_enriched: true -->
@@ -11128,6 +11623,18 @@ The Nueces River is a Texas drainage where Ictalurus lupus has been reported but
 ### Mentioned In
 - [[TaxonomicStatusEcologyAndDistr_14514]]
 
+## Nuevo Casas Grandes
+
+### Summary
+A town in Chihuahua, Mexico, where the 1989 informal research forum on northwestern Chihuahua's paleoecology, ecology and geography was to be held. The source gives its altitude as 4450 (units not stated) and a population of 45,000, and describes its mild year-round climate.
+
+### Context
+> This document is a first-circular invitation letter, dated January 25 (1989), from R. B. Brown for an informal research forum on the paleoecology, ecology and physical geography of northwestern Chihuahua. The forum was to be held April 28–30, 1989, in [[Nuevo Casas Grandes]], Chihuahua, Mexico. The...
+> -- *[[ForumOfResearchersInterestedIn_13826]]*
+
+### Mentioned In
+- [[ForumOfResearchersInterestedIn_13826]]
+
 ## Nuevo León
 
 ### Summary
@@ -11328,6 +11835,18 @@ Nutrient cycling in aquatic systems refers to the continuous movement and transf
 
 ### Mentioned In
 - [[SalmonidHatcheryWastewaterTrea_12415]]
+
+## Nutrient Limitation
+
+### Summary
+Nutrient limitation occurs when the supply of an essential nutrient restricts primary production. The source names nitrogen, phosphorus, and molybdenum as limiting nutrients in aquatic productivity.
+
+### Context
+> This is a class-use bibliography compiled by [[Robert J. Beyers]], Director of the [[Savannah River Ecology Laboratory]], in October 1967. It lists published and unpublished literature on measuring the primary productivity of aquatic ecosystems. Entries are coded with Roman numerals (I–VII) for...
+> -- *[[PartialBibliographyOfInterestT_18238]]*
+
+### Mentioned In
+- [[PartialBibliographyOfInterestT_18238]]
 
 ## Nutrient Pollution Abatement
 <!-- fm: auto_enriched: true -->

@@ -464,6 +464,12 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
 > -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
 
+> This document is a set of correspondence and tabulated data from an [[Otolith Ageing]] project on large-bodied fishes of the Colorado River basin. It contains three letters and a series of age-reading tables. The work was carried out under contract between [[Arizona State University]] (Dr. [[W. L....
+> -- *[[ReInformationYouRequestedForFi_13065]]*
+
+> This administrative document is a memorandum from the [[Fish And Wildlife Service]] (FWS) transmitting the summary of the June 23, 1988 meeting of the [[Management Group]] of the [[Colorado River Recovery Program]], held at the FWS Regional Office in Lakewood, Colorado. The memo header is dated...
+> -- *[[SummaryjuneManagementGroupMeet_20998]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -605,6 +611,8 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[GeneticDiversityOfRazorbackSuc_19113]]
 - [[FyAnnualProjectReportColoradoR_21154]]
 - [[TechnicalGroupMeetingMinutesJu_18171]]
+- [[ReInformationYouRequestedForFi_13065]]
+- [[SummaryjuneManagementGroupMeet_20998]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -815,6 +823,9 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This document is an instream flow request submitted by the [[U.S. Fish and Wildlife Service]] to the [[Arizona Department of Water Resources]] for [[Leslie Creek]] within [[Leslie Canyon National Wildlife Refuge]]. The refuge, located 17 miles north of Douglas, Arizona along the southwestern flank...
 > -- *[[LeslieCanyonNationalWildlifeRe_13468]]*
 
+> This Comprehensive Management Plan (CMP) covers the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona, and sets a 20-year planning framework for managing both units as elements of a larger "area of ecological concern" centred on...
+> -- *[[DraftSanBernardinoNationalWild_11500]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -879,6 +890,7 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[GeneralGeneticGuidelinesForReg_18841]]
 - [[ProtectionUpdatePrivateLandown_20666]]
 - [[LeslieCanyonNationalWildlifeRe_13468]]
+- [[DraftSanBernardinoNationalWild_11500]]
 
 ## Yaqui chub
 <!-- fm: auto_enriched: true -->
@@ -965,6 +977,12 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This editorial from the Arizona Section of the Society for Range Management discusses the case of rancher Josiah T. Austin, recipient of SRM's prestigious Chapline Land Stewardship Award in 1998, who developed a Habitat Conservation Plan for the endangered [[Yaqui Chub]] (Gila purpurea) on his [[El...
 > -- *[[EditorsCorner_21179]]*
 
+> This Comprehensive Management Plan (CMP) covers the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona, and sets a 20-year planning framework for managing both units as elements of a larger "area of ecological concern" centred on...
+> -- *[[DraftSanBernardinoNationalWild_11500]]*
+
+> This issue of *Wildlife Views* (Arizona Game and Fish Department magazine) contains three main items. The first is a short popular account of stinging and biting insects of Arizona, covering [[Fire Ant]], [[Harvester Ant]], [[Velvet Ant]], [[Paper Nest Wasp]], and [[Honeybee]] stings and first-aid...
+> -- *[[NativeArizonaFishesPartIiiChub_12635]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -1041,6 +1059,8 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[LeslieCanyonNationalWildlifeRe_13468]]
 - [[CompiledStockingRecordsForSanB_15975]]
 - [[EditorsCorner_21179]]
+- [[DraftSanBernardinoNationalWild_11500]]
+- [[NativeArizonaFishesPartIiiChub_12635]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -1108,6 +1128,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This document is an instream flow request submitted by the [[U.S. Fish and Wildlife Service]] to the [[Arizona Department of Water Resources]] for [[Leslie Creek]] within [[Leslie Canyon National Wildlife Refuge]]. The refuge, located 17 miles north of Douglas, Arizona along the southwestern flank...
 > -- *[[LeslieCanyonNationalWildlifeRe_13468]]*
 
+> This Comprehensive Management Plan (CMP) covers the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona, and sets a 20-year planning framework for managing both units as elements of a larger "area of ecological concern" centred on...
+> -- *[[DraftSanBernardinoNationalWild_11500]]*
+
 ### Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1992_12_07]]
 - [[MemorandumOnDesertFishesRecove_1986_02_20]]
@@ -1117,6 +1140,7 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[EnvironmentalAssessmentAndHabi_11684]]
 - [[MinutesdesertFishesRecoveryTea_13730]]
 - [[LeslieCanyonNationalWildlifeRe_13468]]
+- [[DraftSanBernardinoNationalWild_11500]]
 
 ## Yaqui Form Of Longfin Dace
 <!-- fm: auto_enriched: true -->
@@ -1416,6 +1440,9 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This study uses five polymorphic [[Microsatellite Loci]] and a [[Major Histocompatibility Complex]] (MHC) gene to characterize 13 populations of [[Gila Topminnow]] and two populations of [[Yaqui Topminnow]] in Arizona. The aim is to identify [[Evolutionarily Significant Units]] (ESUs) and...
 > -- *[[GeneticCharacterizationOfSonor_16959]]*
 
+> This Comprehensive Management Plan (CMP) covers the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona, and sets a 20-year planning framework for managing both units as elements of a larger "area of ecological concern" centred on...
+> -- *[[DraftSanBernardinoNationalWild_11500]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -1467,6 +1494,7 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[TheGilaTopminnowPoeciliopsisOO_12486]]
 - [[LeslieCanyonNationalWildlifeRe_13468]]
 - [[GeneticCharacterizationOfSonor_16959]]
+- [[DraftSanBernardinoNationalWild_11500]]
 
 ## Yaqui Watershed
 
@@ -1585,6 +1613,18 @@ The Yavapai-Prescott Indian Community proposed to divert 500 acre-feet of water 
 ### Mentioned In
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
 
+## Year-Round Fishing
+
+### Summary
+Angling allowed throughout the year rather than only in a set season. The survey tested this in a six-mile experimental section of the Shenandoah and found no evidence it harmed the fishery, so the authors recommended keeping it open year-round.
+
+### Context
+> This 1954 report from the [[Conservation Commission of West Virginia]] (Division of Fish Management) documents a five-day summer survey of the [[Shenandoah River]] in West Virginia's eastern panhandle. The survey assessed whether [[Year-Round Fishing]] in a six-mile experimental section affected...
+> -- *[[SportFisherySurveyOfTheShenand_13091]]*
+
+### Mentioned In
+- [[SportFisherySurveyOfTheShenand_13091]]
+
 ## Yeatman 1956
 <!-- fm: auto_enriched: true -->
 
@@ -1700,6 +1740,18 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[FisheryInvestigationsInRegionI_12196]]
+
+## Yellow Belly Sunfish
+
+### Summary
+Lepomis auritus, a sunfish of the Shenandoah. The survey rated it abundant, aged 37 individuals, and found it grew to about 6.4 inches by its third summer, and that its populations had recovered from 1940s pollution.
+
+### Context
+> This 1954 report from the [[Conservation Commission of West Virginia]] (Division of Fish Management) documents a five-day summer survey of the [[Shenandoah River]] in West Virginia's eastern panhandle. The survey assessed whether [[Year-Round Fishing]] in a six-mile experimental section affected...
+> -- *[[SportFisherySurveyOfTheShenand_13091]]*
+
+### Mentioned In
+- [[SportFisherySurveyOfTheShenand_13091]]
 
 ## Yellow Bullhead
 <!-- fm: auto_enriched: true -->
@@ -2103,6 +2155,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This 1951 report from the [[New Jersey Fisheries Survey]] examines the ecological role of freshwater leeches (Hirudinea) in fish populations. The authors document leech diversity, distribution, and their multifaceted interactions with fishes—as parasites, prey, competitors, and disease vectors....
 > -- *[[LeechesAndTheirImportanceInThe_18934]]*
 
+> This 1956 study by Millard Coots of the [[California Department of Fish and Game]] examines the [[Yellow Perch]] (*Perca flavescens*) in the [[Klamath River]] of California, a population that was not native to the drainage. The primary aim, begun in 1951, was to determine whether yellow perch...
+> -- *[[TheYellowPerchPercaFlavescensM_17576]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -2195,6 +2250,7 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[FishesNativeToOrIntroducedInPa_18945]]
 - [[ThirdWorkshopOnEcologyOfPumpst_12641]]
 - [[LeechesAndTheirImportanceInThe_18934]]
+- [[TheYellowPerchPercaFlavescensM_17576]]
 
 ## Yellow Pikeperch
 <!-- fm: auto_enriched: true -->
@@ -2679,6 +2735,15 @@ Yield is the total weight of fish harvested from a population over a specified t
 ### Mentioned In
 - [[RelictFaunaOfEnnerdaleWaterAPr_1959_10_31]]
 
+## Yolo By-Pass
+
+### Context
+> This 1948 *California Fish and Game* paper by Garth I. Murphy of the California Division of Fish and Game reports field observations on the [[Sacramento Perch]] (*Archoplites interruptus*) in [[Clear Lake]], Lake County, California. The study covers spawning behavior, growth, food habits, and the...
+> -- *[[AContributionToTheLifeHistoryO_15523]]*
+
+### Mentioned In
+- [[AContributionToTheLifeHistoryO_15523]]
+
 ## Yorba Linda Reservoir
 <!-- fm: auto_enriched: true -->
 
@@ -2937,6 +3002,18 @@ The Yuma Bat is mentioned in this source as one of several bat species present i
 
 ### Mentioned In
 - [[PreliminaryDraftEnvironmentalA_11680]]
+
+## Yuma Bridge
+
+### Summary
+A crossing on the Colorado River at Yuma where the commission recorded a daily water temperature record as part of its pre-stocking assessment of river conditions.
+
+### Context
+> This is the third annual report of the [[Arizona Fish Commission]], submitted by business manager J. H. Taggart to Governor [[Frederick A. Tritle]] of the Territory of Arizona. It covers the commission's efforts to obtain and distribute fish, chiefly [[Common Carp]], and its introduction of...
+> -- *[[ToHisExcellencyFrederickATritl_13445]]*
+
+### Mentioned In
+- [[ToHisExcellencyFrederickATritl_13445]]
 
 ## Yuma Canal System
 <!-- fm: auto_enriched: true -->

@@ -4,6 +4,18 @@ letter: MISC
 ---
 # Concept Stubs: MISC
 
+## 104th Congress
+
+### Summary
+The U.S. Congress elected in the November 8, 1994 midterm election. The source frames the survey around its newly elected members and the debate over rolling back environmental laws.
+
+### Context
+> This document reports a post-election telephone poll of voters, conducted for the [[National Wildlife Federation]] by [[Peter D. Hart Research Associates]] from December 1 to 4, 1994. The survey covered 1,201 registered voters who said they voted in the November 8, 1994 U.S. Congressional election....
+> -- *[[KeyFindingsFromAPostelectionVo_19501]]*
+
+### Mentioned In
+- [[KeyFindingsFromAPostelectionVo_19501]]
+
 ## 119 Mile Creek
 
 ### Summary

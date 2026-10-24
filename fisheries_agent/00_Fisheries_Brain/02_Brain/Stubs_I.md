@@ -243,8 +243,12 @@ A significant groundfish supplier whose cod landings declined from 390,000 metri
 > - **Trophic Structure Alteration**: Stocking of forage species to create "two-story fisheries" in lakes and ponds is described as a form of "widespread biological pollution" that has permanently altered the trophic structure of oligotrophic waters. - **Niche Displacement via Stocking**: Historica...
 > -- *[[LetterToDrWLMinckleyRegardingN_1994_05_16]]*
 
+> This 1979 baseline inventory, prepared for the [[Bureau of Land Management]] Phoenix District Office, surveyed the aquatic habitat, water quality, [[Macroinvertebrates]], and [[Ichthyofauna]] of the perennial drainages of the upper [[Bill Williams River]] basin upstream from [[Alamo Lake]],...
+> -- *[[AquaticInventoryOfTheUpperBill_12502]]*
+
 ### Mentioned In
 - [[LetterToDrWLMinckleyRegardingN_1994_05_16]]
+- [[AquaticInventoryOfTheUpperBill_12502]]
 
 ## Ichthyofauna Of Arizona
 <!-- fm: auto_enriched: true -->
@@ -491,10 +495,14 @@ Ichthyophthirius is a parasitic ciliate protozoan that causes a common and econo
 > - **Native/introduced status**: Channel catfish is nonnative to California, having become established in southern California reservoirs, the [[Colorado River]], and the lower Sacramento River drainage — motivating active management propagation for further introduction into warm-water reservoirs s...
 > -- *[[ChannelCatfishCultureInCalifor_16946]]*
 
+> This U.S. Bureau of Sport Fisheries and Wildlife leaflet (FDL-28, July 1970, Division of Fishery Research), prepared by [[Glenn L. Hoffman]] of the [[Eastern Fish Disease Laboratory]], compiles the most effective chemical and non-chemical methods for controlling external and internal parasites of...
+> -- *[[ControlAndTreatmentOfParasitic_20451]]*
+
 ### Mentioned In
 - [[ChannelCatfishCultureInCalifor_16946]]
 - [[PreliminaryReportOnTheMalaccaT_12279]]
 - [[TheChemicalControlOfSomeDiseas_15950]]
+- [[ControlAndTreatmentOfParasitic_20451]]
 
 ## Ichthyophthirius Multifiliis
 <!-- fm: auto_enriched: true -->
@@ -550,6 +558,18 @@ Ichthyophthirius multifiliis, commonly known as "ich," is a parasitic ciliate pr
 
 ### Mentioned In
 - [[StationProfileOfTheLeavenworth_1993]]
+
+## ICLARM
+
+### Summary
+ICLARM (International Center for Living Aquatic Resources Management) is a research organization focused on aquatic resources. This source mentions it only in the acronym list that defines institutions cited in the bibliography.
+
+### Context
+> This document is FAO Fisheries Circular No. 926 (FIRI/C926, ISSN 0429-9329), compiled by André G. Coche and published by the [[Food and Agriculture Organization]] in Rome in 1997. It is an indexed bibliography of about 630 selected non-FAO reference books and monographs on [[Freshwater...
+> -- *[[AquacultureInFreshWatersAnInde_16307]]*
+
+### Mentioned In
+- [[AquacultureInFreshWatersAnInde_16307]]
 
 ## Icnaf
 <!-- fm: auto_enriched: true -->
@@ -1451,6 +1471,18 @@ Idols Dam is a Duke Power hydroelectric facility near Clemmons, Forsyth County, 
 ### Mentioned In
 - [[SurveyOfIctaluridPopulationsIn_15266]]
 
+## IDRC
+
+### Summary
+IDRC (International Development Research Centre) is a Canadian agency that funds development research. This source mentions it only in the acronym list of institutions used in the bibliography.
+
+### Context
+> This document is FAO Fisheries Circular No. 926 (FIRI/C926, ISSN 0429-9329), compiled by André G. Coche and published by the [[Food and Agriculture Organization]] in Rome in 1997. It is an indexed bibliography of about 630 selected non-FAO reference books and monographs on [[Freshwater...
+> -- *[[AquacultureInFreshWatersAnInde_16307]]*
+
+### Mentioned In
+- [[AquacultureInFreshWatersAnInde_16307]]
+
 ## Idt Tank
 <!-- fm: auto_enriched: true -->
 
@@ -1554,6 +1586,18 @@ Illegal introductions by fishermen are suspected as the source of northern pike 
 - [[AnEconomicStudyOfTheProcessing_15621]]
 - [[StatesIncorporateScubaDivingIn_16035]]
 
+## Illinois Department of Conservation
+
+### Summary
+The Illinois Department of Conservation is the state agency that jointly supported the Jordan Creek stream research project with the Illinois Natural History Survey. The source notes that smallmouth bass were the main focus because they are the stream's most important game fish.
+
+### Context
+> This 1955 paper by [[Leonard Durham]], published in the *Illinois Academy of Science Transactions* (Vol. 47), reports age and growth analyses of [[Smallmouth Bass]] and [[Longear Sunfish]] in the lower four miles of [[Jordan Creek]], a small tributary of the [[Salt Fork of the Vermilion River]] in...
+> -- *[[EcologicalFactorsAffectingTheG_19169]]*
+
+### Mentioned In
+- [[EcologicalFactorsAffectingTheG_19169]]
+
 ## Illinois Department Of Public Health
 <!-- fm: auto_enriched: true -->
 
@@ -1602,9 +1646,13 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
 > -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
 
+> This 1955 paper by [[Leonard Durham]], published in the *Illinois Academy of Science Transactions* (Vol. 47), reports age and growth analyses of [[Smallmouth Bass]] and [[Longear Sunfish]] in the lower four miles of [[Jordan Creek]], a small tributary of the [[Salt Fork of the Vermilion River]] in...
+> -- *[[EcologicalFactorsAffectingTheG_19169]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
+- [[EcologicalFactorsAffectingTheG_19169]]
 
 ## Illinois River
 <!-- fm: auto_enriched: true -->
@@ -1634,6 +1682,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This 1951 report from the [[New Jersey Fisheries Survey]] examines the ecological role of freshwater leeches (Hirudinea) in fish populations. The authors document leech diversity, distribution, and their multifaceted interactions with fishes—as parasites, prey, competitors, and disease vectors....
 > -- *[[LeechesAndTheirImportanceInThe_18934]]*
 
+> This compiled document, dated 1994, is a set of correspondence, meeting records, proposals, and technical reference material prepared for the U.S. Fish and Wildlife Service (FWS) [[National Fish Hatchery System]] Review. Its central theme is a proposed shift in the role of federal hatcheries from...
+> -- *[[NationalFishHatcherySystemRevi_11668]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -1644,6 +1695,7 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[AnEpidemicOfLeechesOnFishesInR_13584]]
 - [[TheNationsTenMostEndangeredRiv_17976]]
 - [[LeechesAndTheirImportanceInThe_18934]]
+- [[NationalFishHatcherySystemRevi_11668]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -2128,10 +2180,14 @@ Imperial Valley Warmwater Hatchery is a California Department of Fish and Game f
 > This document examines regulatory accommodations and recovery programs for four endangered native fishes of the [[Colorado River Basin]]: the [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Humpback Chub]] (*Gila cypha*), [[Bonytail Chub]] (*Gila elegans*), and [[Razorback Sucker]] (*Xyrauchen...
 > -- *[[TowardRangewideIntegrationOfRe_18628]]*
 
+> This administrative document is a memorandum from the [[Fish And Wildlife Service]] (FWS) transmitting the summary of the June 23, 1988 meeting of the [[Management Group]] of the [[Colorado River Recovery Program]], held at the FWS Regional Office in Lakewood, Colorado. The memo header is dated...
+> -- *[[SummaryjuneManagementGroupMeet_20998]]*
+
 ### Mentioned In
 - [[LetterRegardingProposedStockin_1989_06_23]]
 - [[LetterToDuaneLShroufeOnGrandCa_1989_04_24]]
 - [[TowardRangewideIntegrationOfRe_18628]]
+- [[SummaryjuneManagementGroupMeet_20998]]
 
 ## Implementing Agreement
 <!-- fm: auto_enriched: true -->
@@ -2331,6 +2387,18 @@ Inconnu (Stenodus leucichthys) is a large whitefish species documented as part o
 ### Mentioned In
 - [[ExperimentalVerificationOfNatu_1931]]
 
+## Incremental Methodology
+
+### Summary
+A habitat assessment framework that combines hydraulic simulation of a stream reach, mapping of depth, velocity, substrate and cover by area, and application of habitat criteria for each species and life stage. The source describes it as giving biologists and engineers a shared basis for communication and uses it with PHABSIM in the Uinta River analysis.
+
+### Context
+> This technical paper, by David L. Wegner of the [[U.S. Fish And Wildlife Service]] Instream Flow and Aquatic Systems Group in Fort Collins, Colorado, develops an aquatic mitigation plan for the [[Uinta River]] in Utah. The [[Central Utah Project]], including the proposed [[Uinta Dam And...
+> -- *[[TheDevelopmentOfAnAquaticMitig_19674]]*
+
+### Mentioned In
+- [[TheDevelopmentOfAnAquaticMitig_19674]]
+
 ## Independence Area
 
 ### Summary
@@ -2448,6 +2516,18 @@ The Independence Valley Tui Chub (Gila bicolor isolata) is an extinct subspecies
 ### Mentioned In
 - [[AnnotatedListOfTheFishesOfNeva_14026]]
 
+## Independent Palatability Factor
+
+### Summary
+The independent palatability factor is the author's proposed explanation for why Culex pipiens larvae were eaten less often than Anopheles albimanus when presented alone to Cyprinodon nevadensis, suggesting C. pipiens has an intrinsic property that reduces consumption. The source reports no such factor in Gambusia affinis, which the author suggests lacks this depressant effect.
+
+### Context
+> This 1968 doctoral dissertation by Thomas Lester Danielsen (University of California, Riverside, Department of Biology) reports 16 laboratory experiments comparing the predation of two fish species, [[Gambusia Affinis]] (mosquitofish) and [[Cyprinodon Nevadensis]] (desert pupfish), on two mosquito...
+> -- *[[DifferentialPredationOnCulexPi_13938]]*
+
+### Mentioned In
+- [[DifferentialPredationOnCulexPi_13938]]
+
 ## Index Medicus
 
 ### Summary
@@ -2540,8 +2620,12 @@ The Indian Ocean is one of the ocean basins where species of Anguilla (fresh-wat
 > This encyclopedic entry provides a comprehensive overview of eels (order [[Anguilliformes]]), covering their distinctive morphology, life history, and ecological diversity. The document emphasizes the commercially important fresh-water eels (family [[Anguillidae]]) and their remarkable catadromous...
 > -- *[[Eel_14169]]*
 
+> This is a class-use bibliography compiled by [[Robert J. Beyers]], Director of the [[Savannah River Ecology Laboratory]], in October 1967. It lists published and unpublished literature on measuring the primary productivity of aquatic ecosystems. Entries are coded with Roman numerals (I–VII) for...
+> -- *[[PartialBibliographyOfInterestT_18238]]*
+
 ### Mentioned In
 - [[Eel_14169]]
+- [[PartialBibliographyOfInterestT_18238]]
 
 ## Indian Reserve Sloughs
 <!-- fm: auto_enriched: true -->
@@ -2624,6 +2708,18 @@ Indiana is one of four U.S. states that, as of early 1957, was planning to imple
 ### Mentioned In
 - [[EndangeredSpeciesLawSubjectOfC_1998_12_31]]
 - [[PartEndangeredAndThreatenedWil_11572]]
+
+## Indiana Fish Growth
+
+### Summary
+This refers to the Indiana longear sunfish growth data reported by Hile (1931), used as a comparison in this study. The source reports that Jordan Creek longears were slower in early years but faster in later years than the Indiana fish.
+
+### Context
+> This 1955 paper by [[Leonard Durham]], published in the *Illinois Academy of Science Transactions* (Vol. 47), reports age and growth analyses of [[Smallmouth Bass]] and [[Longear Sunfish]] in the lower four miles of [[Jordan Creek]], a small tributary of the [[Salt Fork of the Vermilion River]] in...
+> -- *[[EcologicalFactorsAffectingTheG_19169]]*
+
+### Mentioned In
+- [[EcologicalFactorsAffectingTheG_19169]]
 
 ## Indiana Freshwater Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -2805,6 +2901,18 @@ The Indus River is a major river system that receives flow from three Afghan dra
 ### Mentioned In
 - [[DraftReviewRip_18167]]
 
+## Ingolf Expedition
+
+### Summary
+The Ingolf Expedition is the source of the two male specimens that Ditlevsen used to describe Enoplus groenlandicus in 1926. The source notes that this original description was brief and remained the only published account until 1970.
+
+### Context
+> This 1970 paper by W. Duane Hope and D. G. Murphy, published in the *Proceedings of the Biological Society of Washington*, redescribes the marine free-living nematode [[Enoplus Groenlandicus]] (family [[Enoplidae]]). The original [[Ditlevsen 1926]] description, based on two males from the [[Ingolf...
+> -- *[[ARedescriptionOfEnoplusGroenla_19915]]*
+
+### Mentioned In
+- [[ARedescriptionOfEnoplusGroenla_19915]]
+
 ## Ingram
 
 ### Summary
@@ -2957,6 +3065,18 @@ The Inland Water Resources and Aquaculture Service is an organizational unit wit
 ### Mentioned In
 - [[AquacultureInFreshWatersAListO_15987]]
 
+## Inner Valley Alluvium
+
+### Summary
+The sand, gravel and silt deposits filling the narrower, later-cut valley of the Gila River within the Duncan Basin, refilled to roughly 50 to 100 feet with river and tributary-wash sediments. The report identifies it as the principal proven reservoir, supplying all irrigation wells in the basin and receiving water from older fill, river underflow, rainfall and irrigation infiltration.
+
+### Context
+> This 1946 [[United States Geological Survey]] report, prepared in cooperation with the [[Arizona State Land Department]], evaluates the ground-water resources of the [[Duncan Basin]] on the [[Gila River]] in Greenlee County, Arizona. The study was undertaken because the Arizona State Legislature...
+> -- *[[GroundwaterResourcesOfTheDunca_20984]]*
+
+### Mentioned In
+- [[GroundwaterResourcesOfTheDunca_20984]]
+
 ## Innes 1952
 <!-- fm: auto_enriched: true -->
 
@@ -3004,6 +3124,18 @@ The Inland Water Resources and Aquaculture Service is an organizational unit wit
 
 ### Mentioned In
 - [[TheEffectsOfCombinationsOfInse_1966]]
+
+## Insects
+
+### Summary
+Insects are a large group of arthropods, and some species are aquatic at part of their life cycle. The directory lists Insects under aquatic biota as an area of expertise, but it gives no species-level findings.
+
+### Context
+> This is the third revised edition (January 1998) of a directory published by the [[Water Resources Research Center]] at the University of Arizona, College of Agriculture, as Issue Paper Number Thirteen. It lists 201 people with water-related expertise at Arizona's three state universities: the...
+> -- *[[WhereToFindWaterExpertiseAtSta_13523]]*
+
+### Mentioned In
+- [[WhereToFindWaterExpertiseAtSta_13523]]
 
 ## Inspiration Consolidated Copper Company
 
@@ -3113,8 +3245,28 @@ The Instituto Indigenista is a Mexican government institution that provided cred
 > - **Habitat degradation baseline**: By the mid-20th century, the Owens and Walker river systems had already undergone significant habitat alteration and loss of native species composition, primarily due to water diversion for hydroelectric power and municipal water supply (Los Angeles Department ...
 > -- *[[APilgrimSProgressFromGroupAToG_1987]]*
 
+> This is the third revised edition (January 1998) of a directory published by the [[Water Resources Research Center]] at the University of Arizona, College of Agriculture, as Issue Paper Number Thirteen. It lists 201 people with water-related expertise at Arizona's three state universities: the...
+> -- *[[WhereToFindWaterExpertiseAtSta_13523]]*
+
+> This April 1989 memorandum from the [[Fish And Wildlife Service]] (Region 6) to the Regional Solicitor, USDI, asks for a legal opinion on the Service's approach to [[Section 7 Consultation]] under the [[Endangered Species Act]] for water depletion projects affecting the endangered [[Colorado...
+> -- *[[SolicitorsOpinionReColoradoRiv_14140]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
+- [[WhereToFindWaterExpertiseAtSta_13523]]
+- [[SolicitorsOpinionReColoradoRiv_14140]]
+
+## Instream Flow Ad Hoc Group
+
+### Summary
+One of the key program bodies of the Colorado River Recovery Program named in this source. At the June 23, 1988 meeting, the group drafted criteria for biologically defensible instream flow recommendations, and the Management Group asked that these criteria be finalized with an explanatory narrative while legal and policy information needs were set aside for the time being.
+
+### Context
+> This administrative document is a memorandum from the [[Fish And Wildlife Service]] (FWS) transmitting the summary of the June 23, 1988 meeting of the [[Management Group]] of the [[Colorado River Recovery Program]], held at the FWS Regional Office in Lakewood, Colorado. The memo header is dated...
+> -- *[[SummaryjuneManagementGroupMeet_20998]]*
+
+### Mentioned In
+- [[SummaryjuneManagementGroupMeet_20998]]
 
 ## Instream Flow Ecology
 <!-- fm: auto_enriched: true -->
@@ -3259,6 +3411,18 @@ Instream Flow Requirements refer to the minimum or optimal water discharge level
 
 ### Mentioned In
 - [[WestAfricanRiversAsBiogeograph_1989]]
+
+## Integrated Agriculture-Aquaculture
+
+### Summary
+Integrated agriculture-aquaculture refers to farming systems that combine fish culture with agriculture, such as rice fields, sugarcane, and animal husbandry. The source indexes this subject area alongside waste recycling and wastewater use in aquaculture.
+
+### Context
+> This document is FAO Fisheries Circular No. 926 (FIRI/C926, ISSN 0429-9329), compiled by André G. Coche and published by the [[Food and Agriculture Organization]] in Rome in 1997. It is an indexed bibliography of about 630 selected non-FAO reference books and monographs on [[Freshwater...
+> -- *[[AquacultureInFreshWatersAnInde_16307]]*
+
+### Mentioned In
+- [[AquacultureInFreshWatersAnInde_16307]]
 
 ## Integrated Border Environmental Plan
 
@@ -3421,6 +3585,18 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 ### Mentioned In
 - [[LetterToProspectiveAreaCoordin_1977_08_29]]
 
+## Interface Theory
+
+### Summary
+Interface theory treats transition zones as places where structural or functional properties change discontinuously. The review characterizes interfaces by rate of change, contrast between adjacent patches, and within-interface homogeneity, and uses riparian zones as a key example.
+
+### Context
+> This draft review by [[Robert J. Naiman]] and [[Henri Decamps]] (University of Washington and CNRS, Toulouse), submitted to the *Annual Review of Ecology and Systematics*, treats [[Riparian Zones]] as a class of ecological interface (ecotone) between terrestrial and aquatic systems. It defines...
+> -- *[[TheEcologyOfInterfacesriparian_19487]]*
+
+### Mentioned In
+- [[TheEcologyOfInterfacesriparian_19487]]
+
 ## Interference Competition
 <!-- fm: auto_enriched: true -->
 
@@ -3442,8 +3618,13 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 ## Interim Flows
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This document is a 1997 review by P. E. Brunkow, Post-doctoral Research Associate in the Department of Zoology at [[Arizona State University]], of aquatic biology project reports from the [[Glen Canyon Environmental Studies]] (GCES) Phase I and Phase II efforts. It was prepared for the [[Bureau of...
+> -- *[[IntegrationAndEvaluationOfGlen_13851]]*
+
 ### Mentioned In
 - [[DecemberCritsMeetingSynthesisA_1994_01_04]]
+- [[IntegrationAndEvaluationOfGlen_13851]]
 
 ## Interim Operating Criteria
 
@@ -3466,6 +3647,18 @@ Interim Operating Criteria are temporary operational guidelines for Glen Canyon 
 
 ### Mentioned In
 - [[FishesOfTheDesert_1940]]
+
+## Interior Highlands
+
+### Summary
+An upland region of central and eastern North America, including the Ozark, Ouachita, and Appalachian uplands, with cool, clear, higher-gradient streams. The source describes it as one of the richest centers of fish biodiversity on the continent, with many endemic minnows, suckers, and darters, and notes that the red shiner has never established there.
+
+### Context
+> This document is a 1993 research proposal from the [[University of Oklahoma Biological Station]] (Kingston, Oklahoma), led by [[William J. Matthews]] (Principal Investigator) and [[Frances P. Gelwick]] (Co-Principal Investigator), and submitted to the [[Environmental Protection Agency]]. It asks...
+> -- *[[PotentialEstablishmentOfRedShi_15211]]*
+
+### Mentioned In
+- [[PotentialEstablishmentOfRedShi_15211]]
 
 ## Interior Least Tern
 
@@ -3689,9 +3882,13 @@ The International Commission for the Northwest Atlantic Fisheries is a specializ
 > This quarterly market research report from the [[National Marine Fisheries Service]] analyzes the U.S. commercial fisheries market during January-September 1971, with particular focus on groundfish products (blocks, sticks, portions, and fillets), [[Pacific Halibut]], and [[Salmon]]. The document...
 > -- *[[FoodFishfreshAndFrozenProducts_11510]]*
 
+> This paper by E. D. Le Cren, reprinted from the [[International Commission For The Northwest Atlantic Fisheries]] Special Publication No. 1 ([[Biarritz Symposium]], March 1-10, 1956; issued 1958), addresses how to produce faster fishery assessments without sacrificing their usefulness. The author...
+> -- *[[SomeObservationsOnMethodsOfSpe_20225]]*
+
 ### Mentioned In
 - [[ListOfCurrentFisheriesAndWildl_20304]]
 - [[FoodFishfreshAndFrozenProducts_11510]]
+- [[SomeObservationsOnMethodsOfSpe_20225]]
 
 ## International Commission On Radiological Protection
 <!-- fm: auto_enriched: true -->
@@ -4372,6 +4569,18 @@ The Invasive Species Specialist Group is one of five disciplinary groups within 
 ### Mentioned In
 - [[SpeciesSurvivalCommissionAMemb_14399]]
 
+## Inventory of the Fishes of Jordan Creek
+
+### Summary
+This is a 1952 publication by Larimore, Pickering, and Durham cited in the source as related work on the fish community of Jordan Creek. The source mentions it only as a related published study and does not report its contents.
+
+### Context
+> This 1955 paper by [[Leonard Durham]], published in the *Illinois Academy of Science Transactions* (Vol. 47), reports age and growth analyses of [[Smallmouth Bass]] and [[Longear Sunfish]] in the lower four miles of [[Jordan Creek]], a small tributary of the [[Salt Fork of the Vermilion River]] in...
+> -- *[[EcologicalFactorsAffectingTheG_19169]]*
+
+### Mentioned In
+- [[EcologicalFactorsAffectingTheG_19169]]
+
 ## Invertebrate Bioassay
 
 ### Context
@@ -4410,9 +4619,13 @@ Invertebrate drift refers to the downstream movement of aquatic invertebrates (p
 > This document is a comprehensive member's guide for the [[IUCN]] [[Species Survival Commission]] (SSC) covering the 1994-1996 triennium. The SSC is described as the largest global network of volunteer experts working for species conservation, comprising approximately 5,000 members in 170 countries....
 > -- *[[SpeciesSurvivalCommissionAMemb_14399]]*
 
+> This is the third revised edition (January 1998) of a directory published by the [[Water Resources Research Center]] at the University of Arizona, College of Agriculture, as Issue Paper Number Thirteen. It lists 201 people with water-related expertise at Arizona's three state universities: the...
+> -- *[[WhereToFindWaterExpertiseAtSta_13523]]*
+
 ### Mentioned In
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
 - [[SpeciesSurvivalCommissionAMemb_14399]]
+- [[WhereToFindWaterExpertiseAtSta_13523]]
 
 ## Investigations In Fish Control
 <!-- fm: auto_enriched: true -->
@@ -4941,15 +5154,31 @@ Isleta Diversion Dam is one of six mainstream dams on the middle Rio Grande that
 > This correspondence from Dr. Bruce J. Turner at [[Virginia Polytechnic Institute]] to the [[California Department of Fish and Game]] reports findings from a genetic survey of [[Desert Pupfish]] ([[Cyprinodon macularius]]) populations. Using advanced [[Allozyme Analysis]] techniques including...
 > -- *[[BriefVerbalSynopsisOfFindingsO_13416]]*
 
+> This 1996 paper reports molecular genetic tests on tissue from an alleged Mexican [[Onza]], a large cat shot in the western [[Sierra Madre]] of [[Sinaloa]] in 1986. The authors compared protein markers ([[Isoenzyme Electrophoresis]] and [[Albumin]] [[Isoelectric Focusing]]) and [[Mitochondrial...
+> -- *[[MolecularGeneticIdentification_19135]]*
+
 ### Mentioned In
 - [[LactateDehydrogenaseLdhIsozyme_1978]]
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
+- [[MolecularGeneticIdentification_19135]]
 
 ## Isoenzyme Analysis
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[BlueSpringsMiLittleColoradoRiv_1971]]
+
+## Isoenzyme Electrophoresis
+
+### Summary
+A protein-based method that separates enzyme variants by their electrical mobility. In this study it was used to compare the Onza with pumas and jaguars, and it found no differences from North American pumas.
+
+### Context
+> This 1996 paper reports molecular genetic tests on tissue from an alleged Mexican [[Onza]], a large cat shot in the western [[Sierra Madre]] of [[Sinaloa]] in 1986. The authors compared protein markers ([[Isoenzyme Electrophoresis]] and [[Albumin]] [[Isoelectric Focusing]]) and [[Mitochondrial...
+> -- *[[MolecularGeneticIdentification_19135]]*
+
+### Mentioned In
+- [[MolecularGeneticIdentification_19135]]
 
 ## Isogenus
 <!-- fm: auto_enriched: true -->
@@ -5380,10 +5609,14 @@ The IUCN Red Data Book provides the major international framework for assessing 
 > This document is a comprehensive member's guide for the [[IUCN]] [[Species Survival Commission]] (SSC) covering the 1994-1996 triennium. The SSC is described as the largest global network of volunteer experts working for species conservation, comprising approximately 5,000 members in 170 countries....
 > -- *[[SpeciesSurvivalCommissionAMemb_14399]]*
 
+> This document contains two papers from *The Sturgeon Quarterly* (Vol. 4, No. 3, July 1996). 1. **Status of two Amu Darya shovelnose sturgeons.** Salnikov, Birstein and Mayden assessed the [[Pseudoscaphirhynchus Kaufmanni]] and [[Pseudoscaphirhynchus Hermanni]] populations in the middle reaches of...
+> -- *[[TheContemporaryStatusOfTheTwoA_20499]]*
+
 ### Mentioned In
 - [[GlobalActionPlanForFreshwaterF_1993_05_05]]
 - [[Status of Atlantic, Acipenser oxyrhynchus, and Shortnose, A. brevirostrum, Sturgeons in North Carolina (Pisces, Acipense]]
 - [[SpeciesSurvivalCommissionAMemb_14399]]
+- [[TheContemporaryStatusOfTheTwoA_20499]]
 
 ## Iucn Species Survival Commission
 <!-- fm: auto_enriched: true -->
@@ -5428,6 +5661,18 @@ The Ivel River in England was used as a comparative system in the Blue River stu
 
 ### Mentioned In
 - [[DragonfliesCollectedInKentucky_1984_06_26]]
+
+## Izaak Walton League
+
+### Summary
+A conservation and sportsmen's organization. Its Jefferson County Chapter requested the experimental year-round fishing in 1953, and the Berkeley County Chapter urged caution in 1954.
+
+### Context
+> This 1954 report from the [[Conservation Commission of West Virginia]] (Division of Fish Management) documents a five-day summer survey of the [[Shenandoah River]] in West Virginia's eastern panhandle. The survey assessed whether [[Year-Round Fishing]] in a six-mile experimental section affected...
+> -- *[[SportFisherySurveyOfTheShenand_13091]]*
+
+### Mentioned In
+- [[SportFisherySurveyOfTheShenand_13091]]
 
 ## Iztaccihuatl
 

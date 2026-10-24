@@ -72,6 +72,22 @@ O'Shaughnessy and Hewitt were researchers who reported that nitrification begins
 ### Mentioned In
 - [[SomeObservationsOnDenitrificat_12181]]
 
+## O. Eugene Maughan
+
+### Summary
+O. Eugene Maughan is listed under the Keywords chapter's Fish entry. The source identifies him as having fish-related expertise.
+
+### Context
+> This second revised edition (May 1995) is Number Thirteen in a series of issue papers from the [[Water Resources Research Center]] at the [[University of Arizona]]. It is a directory of 173 people at Arizona's three state universities, [[University of Arizona]], [[Arizona State University]], and...
+> -- *[[WhereToFindWaterExpertiseAtSta_13522]]*
+
+> This is the third revised edition (January 1998) of a directory published by the [[Water Resources Research Center]] at the University of Arizona, College of Agriculture, as Issue Paper Number Thirteen. It lists 201 people with water-related expertise at Arizona's three state universities: the...
+> -- *[[WhereToFindWaterExpertiseAtSta_13523]]*
+
+### Mentioned In
+- [[WhereToFindWaterExpertiseAtSta_13522]]
+- [[WhereToFindWaterExpertiseAtSta_13523]]
+
 ## O. virginianus
 
 ### Summary
@@ -440,8 +456,12 @@ Ochrotrichia is a genus of caddisflies (Trichoptera) found in Aravaipa Creek. It
 > This Master's thesis investigated the seasonal and longitudinal distribution and abundance of dominant benthic invertebrates in [[Aravaipa Creek]], a [[Sonoran Desert]] stream in Arizona, from April 1975 to April 1976. Eight sampling stations were established representing habitats above, within,...
 > -- *[[DistributionAndAbundanceOfBent_13853]]*
 
+> This taxonomic paper by [[Oliver S. Flint Jr.]] (Smithsonian Institution) revises the poorly known hydroptilid caddisfly genus [[Rhyacopsyche]], originally named by [[Fritz Müller]] from Brazil. The author argues that [[Rhyacopsyche Mexicana]] (originally described as [[Metrichia]] mexicana) is...
+> -- *[[StudiesOfNeotropicalCaddisFlie_16467]]*
+
 ### Mentioned In
 - [[DistributionAndAbundanceOfBent_13853]]
+- [[StudiesOfNeotropicalCaddisFlie_16467]]
 
 ## Ocklockonee River
 <!-- fm: auto_enriched: true -->
@@ -688,6 +708,18 @@ Odonata is the taxonomic order comprising dragonflies and damselflies, which are
 ### Mentioned In
 - [[AquaticMacrophytesAndTheOxygen_12171]]
 
+## Odum 1957b
+
+### Summary
+Odum's 1957 paper is listed as a notable linked work on the trophic structure and productivity of Silver Springs, Florida. It is one of the freshwater spring studies cited in the bibliography.
+
+### Context
+> This is a class-use bibliography compiled by [[Robert J. Beyers]], Director of the [[Savannah River Ecology Laboratory]], in October 1967. It lists published and unpublished literature on measuring the primary productivity of aquatic ecosystems. Entries are coded with Roman numerals (I–VII) for...
+> -- *[[PartialBibliographyOfInterestT_18238]]*
+
+### Mentioned In
+- [[PartialBibliographyOfInterestT_18238]]
+
 ## Odum 1960
 <!-- fm: auto_enriched: true -->
 
@@ -734,6 +766,18 @@ Odonata is the taxonomic order comprising dragonflies and damselflies, which are
 ### Mentioned In
 - [[UptakeAndAssimilationOfNitroge_1969]]
 
+## Odum and Hoskin 1957
+
+### Summary
+A study of the metabolism of a laboratory stream microcosm. It is listed among the bibliography's foundational methods entries.
+
+### Context
+> This is a class-use bibliography compiled by [[Robert J. Beyers]], Director of the [[Savannah River Ecology Laboratory]], in October 1967. It lists published and unpublished literature on measuring the primary productivity of aquatic ecosystems. Entries are coded with Roman numerals (I–VII) for...
+> -- *[[PartialBibliographyOfInterestT_18238]]*
+
+### Mentioned In
+- [[PartialBibliographyOfInterestT_18238]]
+
 ## Odum And Hoskin 1958
 <!-- fm: auto_enriched: true -->
 
@@ -743,6 +787,18 @@ Odonata is the taxonomic order comprising dragonflies and damselflies, which are
 
 ### Mentioned In
 - [[ProductivityRelationsInCarboyM_12276]]
+
+## Odum and Odum 1955
+
+### Summary
+Odum and Odum's 1955 study describes the trophic structure of a windward coral reef on Eniwetok Atoll. The bibliography lists it as a notable linked work on marine reef productivity.
+
+### Context
+> This is a class-use bibliography compiled by [[Robert J. Beyers]], Director of the [[Savannah River Ecology Laboratory]], in October 1967. It lists published and unpublished literature on measuring the primary productivity of aquatic ecosystems. Entries are coded with Roman numerals (I–VII) for...
+> -- *[[PartialBibliographyOfInterestT_18238]]*
+
+### Mentioned In
+- [[PartialBibliographyOfInterestT_18238]]
 
 ## Oedogonium
 
@@ -807,6 +863,18 @@ Ogilbia pearsei is the blind brotula, a member of the family Bythitidae. This so
 
 ### Mentioned In
 - [[WestAfricanRiversAsBiogeograph_1989]]
+
+## Ohaus Scale
+
+### Summary
+The Ohaus Scale is a balance with a 1,100-gram capacity used in this study to weigh whiting where possible. It was one of the instruments for measuring fish weight in the sampling methods.
+
+### Context
+> This study by [[Richard H. Schaefer]] of the [[New York State Conservation Department]], published in the [[New York Fish and Game Journal]] (1960, Vol. 7, No. 2), examines the growth, length-weight relationships, and feeding habits of the [[Silver Hake]] (*[[Merluccius Bilinearis]]*) in the [[New...
+> -- *[[GrowthAndFeedingHabitsOfTheWhi_20544]]*
+
+### Mentioned In
+- [[GrowthAndFeedingHabitsOfTheWhi_20544]]
 
 ## Ohio
 <!-- fm: auto_enriched: true -->
@@ -936,6 +1004,18 @@ Ohio Valley is a reference region used for comparative context regarding species
 
 ### Mentioned In
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
+
+## Oil Refinery Effluent
+
+### Summary
+Oil refinery effluent is listed in the bibliography as one of the effluent types studied in relation to eutrophication and productivity. The source gives no findings for it, only the topic link.
+
+### Context
+> This is a class-use bibliography compiled by [[Robert J. Beyers]], Director of the [[Savannah River Ecology Laboratory]], in October 1967. It lists published and unpublished literature on measuring the primary productivity of aquatic ecosystems. Entries are coded with Roman numerals (I–VII) for...
+> -- *[[PartialBibliographyOfInterestT_18238]]*
+
+### Mentioned In
+- [[PartialBibliographyOfInterestT_18238]]
 
 ## Oil-Refinery Effluent
 
@@ -1588,6 +1668,18 @@ Olivella dama is a gastropod mollusk present in the Puerto Peñasco area. This f
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 
+## Oliver S. Flint Jr.
+
+### Summary
+Smithsonian Institution entomologist and the author of this 1971 taxonomic revision of Central American Rhyacopsyche. He transferred Metrichia mexicana to Rhyacopsyche, described three new species, and proposed the two species groups discussed in the paper.
+
+### Context
+> This taxonomic paper by [[Oliver S. Flint Jr.]] (Smithsonian Institution) revises the poorly known hydroptilid caddisfly genus [[Rhyacopsyche]], originally named by [[Fritz Müller]] from Brazil. The author argues that [[Rhyacopsyche Mexicana]] (originally described as [[Metrichia]] mexicana) is...
+> -- *[[StudiesOfNeotropicalCaddisFlie_16467]]*
+
+### Mentioned In
+- [[StudiesOfNeotropicalCaddisFlie_16467]]
+
 ## Ollentodon
 
 ### Summary
@@ -2147,6 +2239,18 @@ Ontario County is a county in New York State where Flint Creek is located. The n
 ### Mentioned In
 - [[TheEcologyOfSmallMammalsAtSara_12881]]
 
+## Onza
+
+### Summary
+A large cat reported in the western Sierra Madre of Mexico, described by local hunters as puma-like but leaner with longer legs. This source examines one shot specimen from 1986 and concludes it was a puma, not a distinct species.
+
+### Context
+> This 1996 paper reports molecular genetic tests on tissue from an alleged Mexican [[Onza]], a large cat shot in the western [[Sierra Madre]] of [[Sinaloa]] in 1986. The authors compared protein markers ([[Isoenzyme Electrophoresis]] and [[Albumin]] [[Isoelectric Focusing]]) and [[Mitochondrial...
+> -- *[[MolecularGeneticIdentification_19135]]*
+
+### Mentioned In
+- [[MolecularGeneticIdentification_19135]]
+
 ## Oocystis pusilla
 
 ### Summary
@@ -2568,6 +2672,15 @@ Orange County is a county in southern California where Pumpkinseed were reported
 ### Mentioned In
 - [[TheStatusOfThePumpkinseedLepom_12862]]
 - [[FishRemainsFromArchaeologicalS_18761]]
+
+## Orange-Mouth Corvina
+
+### Context
+> This 1967 seminar paper by [[Warren McNall]], prepared for the Northern Great Plains Limnology Seminar in Hastings, Nebraska (January 25, 1967), reviews the limnology of saline waters in southeastern New Mexico and evaluates their potential for stocking marine and alkali-tolerant fish. Limnological...
+> -- *[[GeneralLimnologyAndMarineFishe_12334]]*
+
+### Mentioned In
+- [[GeneralLimnologyAndMarineFishe_12334]]
 
 ## Orange-Spotted Sunfish
 <!-- fm: auto_enriched: true -->
@@ -3125,6 +3238,18 @@ Oregon Chub (Oregonichthys crameri) is a fish species that was discussed at this
 ### Mentioned In
 - [[DesertFishesCouncilEighteenthA_12829]]
 
+## Oregon Cooperative Fishery Research Unit
+
+### Summary
+The Oregon Cooperative Fishery Research Unit is an Oregon State University research unit with which the critic, Hiram W. Li, is affiliated. The source identifies it only as the author's institutional home and does not describe its work beyond that.
+
+### Context
+> This critique by [[Hiram W. Li]] of the [[Oregon State University]] [[Oregon Cooperative Fishery Research Unit]] reviews the [[Glen Canyon Environmental Studies Program]], which funds research on the endangered [[Humpback Chub]] in the [[Grand Canyon]] of the [[Colorado River]]. The author argues...
+> -- *[[CritiqueOfHumpbackChubResearch_20317]]*
+
+### Mentioned In
+- [[CritiqueOfHumpbackChubResearch_20317]]
+
 ## Oregon Junco
 
 ### Summary
@@ -3227,10 +3352,14 @@ Oregon State Hatcheries developed moist pellets made from meats and dry meals th
 > This April 13, 1988 memorandum from the National Park Service Western Regional Director announces the appointment of an NPS coordination group to work with the newly-appointed [[National Parks and Conservation Association]] (NPCA) Commission on Research and Resource Management Policy in the...
 > -- *[[AppointmentOfNpsCoordinationGr_12199]]*
 
+> This critique by [[Hiram W. Li]] of the [[Oregon State University]] [[Oregon Cooperative Fishery Research Unit]] reviews the [[Glen Canyon Environmental Studies Program]], which funds research on the endangered [[Humpback Chub]] in the [[Grand Canyon]] of the [[Colorado River]]. The author argues...
+> -- *[[CritiqueOfHumpbackChubResearch_20317]]*
+
 ### Mentioned In
 - [[AquaticCoordinationTeamMeeting_1991_10_28]]
 - [[ListOfCurrentFisheriesAndWildl_20304]]
 - [[AppointmentOfNpsCoordinationGr_12199]]
+- [[CritiqueOfHumpbackChubResearch_20317]]
 
 ## Oregonichthys
 <!-- fm: auto_enriched: true -->
@@ -3251,8 +3380,12 @@ Oregon State Hatcheries developed moist pellets made from meats and dry meals th
 > - **Target species**: *Tilapia aurea* (now generally classified as [[Oreochromis Aureus]]/blue tilapia), an introduced cichlid established in the Lower Colorado River drainage. - **Study area**: Colorado and Gila Rivers and associated agricultural drainage canals near Yuma, Arizona, including: 1....
 > -- *[[EvaluationOfThePotentialOfTila_15172]]*
 
+> This document is a preliminary dichotomous identification key to the [[Cichlidae]] (cichlid fishes) of Florida, prepared by William F. Smith-Vaniz and James D. Williams of the National Fisheries Research Center, National Biological Survey, Gainesville, Florida. The key was circulated to selected...
+> -- *[[KeyToCichlidFishesOfFlorida_21211]]*
+
 ### Mentioned In
 - [[EvaluationOfThePotentialOfTila_15172]]
+- [[KeyToCichlidFishesOfFlorida_21211]]
 
 ## Oreochromis Mortimeri
 <!-- fm: auto_enriched: true -->
@@ -3267,10 +3400,14 @@ Oregon State Hatcheries developed moist pellets made from meats and dry meals th
 > This memorandum from the California Department of Fish and Game to the Fish and Game Commission addresses a request by [[United Energy Corporation]] (UEC) to import and possess eight exotic fish species for aquaculture and research at a facility near [[Yermo]], [[San Bernardino County]]. The...
 > -- *[[RequestByUecToImportAndPossess_18439]]*
 
+> This document is a preliminary dichotomous identification key to the [[Cichlidae]] (cichlid fishes) of Florida, prepared by William F. Smith-Vaniz and James D. Williams of the National Fisheries Research Center, National Biological Survey, Gainesville, Florida. The key was circulated to selected...
+> -- *[[KeyToCichlidFishesOfFlorida_21211]]*
+
 ### Mentioned In
 - [[CichlasomaLoiselleiANewNandops_1989]]
 - [[EffectsOfSalinityOnPreferredAn_14746]]
 - [[RequestByUecToImportAndPossess_18439]]
+- [[KeyToCichlidFishesOfFlorida_21211]]
 
 ## Oreochromis Niloticus
 <!-- fm: auto_enriched: true -->
@@ -3411,6 +3548,9 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 > This report documents the 1989 annual census of [[Desert Pupfish]] (*Cyprinodon macularius eremus*) conducted at [[Quitobaquito Pond]] in [[Organ Pipe Cactus National Monument]] on September 27-28, 1989, under U.S. Fish and Wildlife Service endangered species permit PRT-676811. Using a...
 > -- *[[ReportOnTheAnnualCensusOfCypri_18280]]*
 
+> The [[Organ Pipe Cactus National Monument]] annual summary for 1992 reports on the endangered [[Quitobaquito Desert Pupfish]] (*Cyprinodon macularius eremus*), an endemic desert pupfish inhabiting the spring outflows and pond at [[Quitobaquito Springs]]. Weekly inspections and an annual census were...
+> -- *[[AnnualSummaryOfActivitiesQuito_19496]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
@@ -3433,6 +3573,7 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 - [[ProjectsTakeStaffToTheField_13221]]
 - [[BetweenTheDesertAndTheSeaArche_13223]]
 - [[ReportOnTheAnnualCensusOfCypri_18280]]
+- [[AnnualSummaryOfActivitiesQuito_19496]]
 
 ## Organ Pipe National Monument
 
@@ -3732,6 +3873,18 @@ The Orontes River is one of the waterways in the sequence contained within the S
 ### Mentioned In
 - [[ChangesInTheFishPopulationInTh_12453]]
 
+## ORSTOM
+
+### Summary
+ORSTOM was the French overseas scientific research institute, now known as IRD. This source includes it only in the acronym list defining institutions cited in the bibliography.
+
+### Context
+> This document is FAO Fisheries Circular No. 926 (FIRI/C926, ISSN 0429-9329), compiled by André G. Coche and published by the [[Food and Agriculture Organization]] in Rome in 1997. It is an indexed bibliography of about 630 selected non-FAO reference books and monographs on [[Freshwater...
+> -- *[[AquacultureInFreshWatersAnInde_16307]]*
+
+### Mentioned In
+- [[AquacultureInFreshWatersAnInde_16307]]
+
 ## Orthocyclops
 <!-- fm: auto_enriched: true -->
 
@@ -3841,6 +3994,9 @@ Osage River, also called Marais des Cygnes, is a major Kansas waterway where Blu
 > This laboratory study investigated feeding behavior patterns in the [[Algae-eater]] (*Gyrinocheilus ayomonieri*), a tropical freshwater grazer. Two experiments examined: (1) preferences between green algae ([[Chlorella]]) and blue-green algae ([[Oscillatoria]]), and (2) preferences between high and...
 > -- *[[LaboratoryFoodPatchExploitatio_17130]]*
 
+> This document is a 1997 review by P. E. Brunkow, Post-doctoral Research Associate in the Department of Zoology at [[Arizona State University]], of aquatic biology project reports from the [[Glen Canyon Environmental Studies]] (GCES) Phase I and Phase II efforts. It was prepared for the [[Bureau of...
+> -- *[[IntegrationAndEvaluationOfGlen_13851]]*
+
 ### Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ReportOnLunaLakeApacheCountyAr_19495]]
@@ -3852,6 +4008,7 @@ Osage River, also called Marais des Cygnes, is a major Kansas waterway where Blu
 - [[FurtherStudiesOnTheMetalimneti_15723]]
 - [[AquaticEnvironmentalReportForO_17695]]
 - [[LaboratoryFoodPatchExploitatio_17130]]
+- [[IntegrationAndEvaluationOfGlen_13851]]
 
 ## Oscillatoria agardhii
 
@@ -4445,6 +4602,15 @@ Otoliths are calcified structures in fish inner ears used for balance and hearin
 - [[GlenCanyonEnvironmentalStudies_19708]]
 - [[AnalyticalRequestForContaminan_11843]]
 
+## Otolith Ageing
+
+### Context
+> This document is a set of correspondence and tabulated data from an [[Otolith Ageing]] project on large-bodied fishes of the Colorado River basin. It contains three letters and a series of age-reading tables. The work was carried out under contract between [[Arizona State University]] (Dr. [[W. L....
+> -- *[[ReInformationYouRequestedForFi_13065]]*
+
+### Mentioned In
+- [[ReInformationYouRequestedForFi_13065]]
+
 ## Otolith Aging
 <!-- fm: auto_enriched: true -->
 
@@ -4474,6 +4640,18 @@ Otoliths are calcified structures in fish inner ears used for balance and hearin
 
 ### Mentioned In
 - [[AgeEstimationFromOtolithsOfBon_1997_02_24]]
+
+## Otolith Analysis
+
+### Summary
+Otolith analysis is a method that reads growth rings in the ear stones of fish to estimate age and growth. The author considers it a method worth improving, suggesting that the length-based back-calculation be calibrated and that other parameters be considered.
+
+### Context
+> This critique by [[Hiram W. Li]] of the [[Oregon State University]] [[Oregon Cooperative Fishery Research Unit]] reviews the [[Glen Canyon Environmental Studies Program]], which funds research on the endangered [[Humpback Chub]] in the [[Grand Canyon]] of the [[Colorado River]]. The author argues...
+> -- *[[CritiqueOfHumpbackChubResearch_20317]]*
+
+### Mentioned In
+- [[CritiqueOfHumpbackChubResearch_20317]]
 
 ## Otolith Back-Calculation Growth Analysis
 <!-- fm: auto_enriched: true -->
@@ -4715,6 +4893,9 @@ The Ouray Endangered Fish Hatchery is a propagation facility for endangered fish
 > This document comprises a 1989 research proposal by [[Thomas E. Dowling]] and [[W. L. Minckley]] to assess genetic diversity of [[Razorback Sucker]] (*Xyrauchen texanus*) populations using restriction endonuclease analysis of mitochondrial DNA (mtDNA), submitted to the [[U.S. Bureau of...
 > -- *[[GeneticDiversityOfRazorbackSuc_19113]]*
 
+> This Fall/Winter 1998 newsletter from the [[Upper Colorado River Endangered Fish Recovery Program]] reports on recovery work for four endangered fishes of the upper [[Colorado River]] basin: [[Bonytail]], [[Colorado Squawfish]], [[Razorback Sucker]], and [[Humpback Chub]]. It covers a planned...
+> -- *[[UtahToStockThousandsOfRareBony_14825]]*
+
 ### Mentioned In
 - [[LetterToDrWLMinckleyRegardingR_1988_09_20]]
 - [[PropagationAndFacilitiesDevelo_1993]]
@@ -4723,6 +4904,7 @@ The Ouray Endangered Fish Hatchery is a propagation facility for endangered fish
 - [[RazorbackSuckerNonlethalTissue_12081]]
 - [[AnnualReportRecoveryProgramFor_11678]]
 - [[GeneticDiversityOfRazorbackSuc_19113]]
+- [[UtahToStockThousandsOfRareBony_14825]]
 
 ## Ouray National Wildlife Refuge
 <!-- fm: auto_enriched: true -->

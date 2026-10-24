@@ -634,6 +634,18 @@ The vaquita (*Phocoena sinus*) is a critically endangered porpoise endemic to th
 ### Mentioned In
 - [[GrowthRatesOfTheCharSalvelinus_15166]]
 
+## Variation Threshold
+
+### Summary
+The level of environmental variability above which a population has a greater than 5% chance of extinction within 100 years. It comes from Fagan et al. (1999) and is the basis for sorting species into extinction categories.
+
+### Context
+> This paper classifies extinction risk for 758 species, using 1941 population time series from the [[Global Population Dynamics Database]]. The taxa are [[Mammals]], [[Birds]], [[Marine Fish]], and [[Lepidopterans]]. Using the [[Variation Threshold]] concept from [[Fagan Et Al 1999]], species are...
+> -- *[[CharacterizingExtinctionRisksF_16299]]*
+
+### Mentioned In
+- [[CharacterizingExtinctionRisksF_16299]]
+
 ## Variational Analysis
 
 ### Summary
@@ -739,6 +751,18 @@ The Vegas Wash Arm is a section of Lake Mead where the Project Vela Uniform test
 ### Mentioned In
 - [[ProjectVelaUniformLakeMeadTest_20812]]
 
+## Vegetation Classification Panel
+
+### Summary
+An advisory panel of the Ecological Society of America, chaired by Orie Loucks, formed in 1995 to support a standardized scientific vegetation classification for the U.S. The source describes its 1996-97 scope of work, including reviewing standards, promoting consistent naming of vegetation units, and preparing a long-term proposal for an institutional structure.
+
+### Context
+> This document is not an ichthyological or aquatic study. It is an administrative packet from the [[Ecological Society of America]] (ESA) that covers the [[Vegetation Classification Panel]]'s scope of work for 1996-97, its July 1996 annual report, and a [[Federal Geographic Data Committee]] (FGDC)...
+> -- *[[VegetationPanelsScopeOfWork_16204]]*
+
+### Mentioned In
+- [[VegetationPanelsScopeOfWork_16204]]
+
 ## Vegetation Removal
 <!-- fm: auto_enriched: true -->
 
@@ -772,6 +796,18 @@ The Vegas Wash Arm is a section of Lake Mead where the Project Vela Uniform test
 
 ### Mentioned In
 - [[BiologicalNotesOnSomeEastAfric_14561]]
+
+## Velvet Ant
+
+### Summary
+Velvet ants are not true ants but wingless female wasps, also called cow ants or ground wasps. The source describes them as brightly colored, hairy, and much larger than ordinary ants, with potent venom, and as parasites of bees and other wasps. The most common Arizona forms are about a quarter to one inch long, based on the OCR text.
+
+### Context
+> This issue of *Wildlife Views* (Arizona Game and Fish Department magazine) contains three main items. The first is a short popular account of stinging and biting insects of Arizona, covering [[Fire Ant]], [[Harvester Ant]], [[Velvet Ant]], [[Paper Nest Wasp]], and [[Honeybee]] stings and first-aid...
+> -- *[[NativeArizonaFishesPartIiiChub_12635]]*
+
+### Mentioned In
+- [[NativeArizonaFishesPartIiiChub_12635]]
 
 ## Velvet Ash
 
@@ -1247,6 +1283,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This study examined age class structures and growth rates of [[Flathead Catfish]] (*Pylodictis olivaris*) populations in four southwestern rivers: the [[Lower Colorado River]] (Arizona-California), [[Gila River]], [[Salt River]], and [[Verde River]] (all Arizona). Introduced between 1950-1975,...
 > -- *[[AgeAndGrowthOfFlatheadCatfishI_20904]]*
 
+> The U.S. Fish and Wildlife Service's September 1991 [[Recovery Plan]] for the [[Spikedace]] (*Meda fulgida*), a threatened [[Cyprinidae|cyprinid]] fish, addresses a species extirpated from most of its historic range in the [[Gila River Basin]]. Remaining populations occur in the upper Gila River in...
+> -- *[[SpikedaceMedaFulgidaRecoveryPl_11598]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1394,6 +1433,7 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[TheGilaTopminnowPoeciliopsisOO_12486]]
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[AgeAndGrowthOfFlatheadCatfishI_20904]]
+- [[SpikedaceMedaFulgidaRecoveryPl_11598]]
 
 ## Verde River Aquatic Ecology
 
@@ -1953,6 +1993,18 @@ Vinberg developed methods for calculating photosynthesis and respiration rates i
 ### Mentioned In
 - [[SomeEffectsOfPlantsAndAnimalsO_15778]]
 
+## Vinberg 1960
+
+### Summary
+Vinberg's 1960 work, *The Primary Production of Bodies of Water* (AEC-TR-5692), is a compendium on how primary production is measured and estimated in lakes and other water bodies. The bibliography lists it among its key reviews and compendia.
+
+### Context
+> This is a class-use bibliography compiled by [[Robert J. Beyers]], Director of the [[Savannah River Ecology Laboratory]], in October 1967. It lists published and unpublished literature on measuring the primary productivity of aquatic ecosystems. Entries are coded with Roman numerals (I–VII) for...
+> -- *[[PartialBibliographyOfInterestT_18238]]*
+
+### Mentioned In
+- [[PartialBibliographyOfInterestT_18238]]
+
 ## Vincent 1960
 <!-- fm: auto_enriched: true -->
 
@@ -2030,6 +2082,18 @@ The Vir Reservoir is an impoundment on the Svratka River that demonstrated signi
 
 ### Mentioned In
 - [[HydrobiologicalAndIchthyologic_12963]]
+
+## Virden Valley
+
+### Summary
+The trough section extending southeast of the Arizona-New Mexico state line, toward Lordsburg, New Mexico. The report treats it together with the Duncan Basin as interrelated, since the Duncan/Virden division is administrative rather than geologic or hydrologic.
+
+### Context
+> This 1946 [[United States Geological Survey]] report, prepared in cooperation with the [[Arizona State Land Department]], evaluates the ground-water resources of the [[Duncan Basin]] on the [[Gila River]] in Greenlee County, Arizona. The study was undertaken because the Arizona State Legislature...
+> -- *[[GroundwaterResourcesOfTheDunca_20984]]*
+
+### Mentioned In
+- [[GroundwaterResourcesOfTheDunca_20984]]
 
 ## Virgil Beck
 <!-- fm: auto_enriched: true -->
@@ -2308,6 +2372,12 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This field report documents emergency fish sampling conducted 07-08 January 1989 along the [[Virgin River]] (Arizona-Nevada-Utah) immediately following the catastrophic failure of [[Quail Creek Reservoir]] dike on 01 January 1989. Personnel from [[Arizona State University]] (ASU) and [[University...
 > -- *[[VirginRiverFishSamplingJanuary_19425]]*
 
+> This report (Nevada State Museum Anthropological Papers No. 13, Part 4, by [[W. Glen Bradley]] and [[James E. Deacon]], October 1967) assigns the native and introduced vascular plants and vertebrate animals of southern Nevada to biotic communities and describes their present distribution and...
+> -- *[[TheBioticCommunitiesOfSouthern_12880]]*
+
+> This document is the summary statement of a first, rapidly executed survey of [[Bait Dealers]] along the [[Lower Colorado River]], from [[Lake Mead]] to the U.S.-Mexican Boundary. The survey was coordinated across [[California]], [[Arizona]], and [[Nevada]]. The author, W. L. Minckley of [[Arizona...
+> -- *[[LowerColoradoRiverBaitIndustry_18581]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -2415,6 +2485,8 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[RequestForCollectingPermitToAl_15050]]
 - [[TheNationsTenMostEndangeredRiv_17976]]
 - [[VirginRiverFishSamplingJanuary_19425]]
+- [[TheBioticCommunitiesOfSouthern_12880]]
+- [[LowerColoradoRiverBaitIndustry_18581]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -3158,6 +3230,15 @@ Vishnu Quadrangle is a topographic map by Evans and Matthes that the expedition 
 ### Mentioned In
 - [[InfluenceOfAppearanceOfPreyAnd_1973]]
 
+## Vital Rates
+
+### Context
+> This paper by E. D. Le Cren, reprinted from the [[International Commission For The Northwest Atlantic Fisheries]] Special Publication No. 1 ([[Biarritz Symposium]], March 1-10, 1956; issued 1958), addresses how to produce faster fishery assessments without sacrificing their usefulness. The author...
+> -- *[[SomeObservationsOnMethodsOfSpe_20225]]*
+
+### Mentioned In
+- [[SomeObservationsOnMethodsOfSpe_20225]]
+
 ## Vitamin C
 <!-- fm: auto_enriched: true -->
 
@@ -3251,6 +3332,18 @@ Viviparidae is a family of freshwater gastropod mollusks (snails) characterized 
 ### Mentioned In
 - [[NotesOnSomeGastropodsFromNorth_12895]]
 
+## Vivoras Canyon
+
+### Summary
+A canyon at about 7,500 ft where Marsh camped from July 2, 1936. Green Rattlesnakes were seen from about 9,000 ft here down to the Western Hills.
+
+### Context
+> A 1936 field report by Ernest G. Marsh Jr., a Student Naturalist Technician working for the [[National Park Service]], documents a biological survey of the [[Sierra del Carmen]] and [[Santa Rosa Mountains]] in northern [[Coahuila]], Mexico. The survey lay across the [[Rio Grande]] from the [[Big...
+> -- *[[BiologicalSurveyOfTheSantaRosa_19383]]*
+
+### Mentioned In
+- [[BiologicalSurveyOfTheSantaRosa_19383]]
+
 ## Vladimir Walters
 <!-- fm: auto_enriched: true -->
 
@@ -3317,6 +3410,15 @@ Volcan La Malinche is a volcano that forms the eastern boundary of the Puebla Pl
 
 ### Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
+
+## Volga River
+
+### Context
+> This document contains two papers from *The Sturgeon Quarterly* (Vol. 4, No. 3, July 1996). 1. **Status of two Amu Darya shovelnose sturgeons.** Salnikov, Birstein and Mayden assessed the [[Pseudoscaphirhynchus Kaufmanni]] and [[Pseudoscaphirhynchus Hermanni]] populations in the middle reaches of...
+> -- *[[TheContemporaryStatusOfTheTwoA_20499]]*
+
+### Mentioned In
+- [[TheContemporaryStatusOfTheTwoA_20499]]
 
 ## Volk 1907
 <!-- fm: auto_enriched: true -->
@@ -3402,6 +3504,18 @@ Volodin was an associate of Luk'yanenko who contributed to extensive observation
 ### Mentioned In
 - [[CommitteeToConsiderEstablishme_17229]]
 
+## Volumetric Piston-Type Sampler
+
+### Summary
+A core sampler with interchangeable barrels 1 and 2.7 m long and 7.30 cm in diameter, used to collect 57 samples from 13 locations in 1962. Its values were consistently lighter than those from the gamma density probe.
+
+### Context
+> This paper, presented at the International Association of Scientific Hydrology Symposium on Lakes and Reservoirs (Lake Garda, Italy, 1966), by H.G. Heinemann, D.L. Rausch and R.S. Campbell, reports a multi-survey study of sediment accumulation in [[Ashland Lake]], a small [[Channel-Type Reservoir]]...
+> -- *[[SedimentationInASmallChannelty_16602]]*
+
+### Mentioned In
+- [[SedimentationInASmallChannelty_16602]]
+
 ## Volvox
 
 ### Summary
@@ -3483,6 +3597,18 @@ Von Ihering was a previous researcher who noted the general similarity between f
 
 ### Mentioned In
 - [[ThePoeciliidFishesOfRioGrandeD_15799]]
+
+## VORTEX
+
+### Summary
+VORTEX (Version 5.1) is a Monte Carlo stochastic simulation model used for population viability analysis. It models demographic stochasticity, environmental variation, catastrophes, genetic drift, density dependence, harvest, supplementation, and metapopulations. The source notes, citing Lacy (1993), that it is most applicable to long-lived, low-fecundity species such as mammals, birds, and reptiles, and its sample simulation is presented as illustrative rather than a field estimate.
+
+### Context
+> This compiled document, dated 1994, is a set of correspondence, meeting records, proposals, and technical reference material prepared for the U.S. Fish and Wildlife Service (FWS) [[National Fish Hatchery System]] Review. Its central theme is a proposed shift in the role of federal hatcheries from...
+> -- *[[NationalFishHatcherySystemRevi_11668]]*
+
+### Mentioned In
+- [[NationalFishHatcherySystemRevi_11668]]
 
 ## Vorticifex Effusus
 <!-- fm: auto_enriched: true -->

@@ -561,6 +561,18 @@ Quibdo is a collection locality in Trans-Andean Colombia where specimens of Hypo
 ### Mentioned In
 - [[TheGymnotidaeOfTransandeanColo_15808]]
 
+## Quicklime
+
+### Summary
+Quicklime is calcium oxide used to disinfect drained fish ponds. The source identifies it at 1 ton per acre of drained, moist pond bottom as the best-known pond disinfectant for myxosporidian infections.
+
+### Context
+> This U.S. Bureau of Sport Fisheries and Wildlife leaflet (FDL-28, July 1970, Division of Fishery Research), prepared by [[Glenn L. Hoffman]] of the [[Eastern Fish Disease Laboratory]], compiles the most effective chemical and non-chemical methods for controlling external and internal parasites of...
+> -- *[[ControlAndTreatmentOfParasitic_20451]]*
+
+### Mentioned In
+- [[ControlAndTreatmentOfParasitic_20451]]
+
 ## Quilcene
 <!-- fm: auto_enriched: true -->
 
@@ -756,9 +768,13 @@ Quitobaquito Basin is an area within Organ Pipe Cactus National Monument contain
 > This document is a formal comment letter from [[Defenders of Wildlife]] to the Superintendent of [[Organ Pipe Cactus National Monument]], submitted June 12, 1996, regarding the Supplement to the Draft General Management Plan. The letter, representing 135,000 members nationwide including 2,000 in...
 > -- *[[WrittenCommentsOnSupplementToD_20523]]*
 
+> The [[Organ Pipe Cactus National Monument]] annual summary for 1992 reports on the endangered [[Quitobaquito Desert Pupfish]] (*Cyprinodon macularius eremus*), an endemic desert pupfish inhabiting the spring outflows and pond at [[Quitobaquito Springs]]. Weekly inspections and an annual census were...
+> -- *[[AnnualSummaryOfActivitiesQuito_19496]]*
+
 ### Mentioned In
 - [[LetterRegardingQuitobaquitoDes_1987_01_15]]
 - [[WrittenCommentsOnSupplementToD_20523]]
+- [[AnnualSummaryOfActivitiesQuito_19496]]
 
 ## Quitobaquito Ecosystem
 
@@ -954,6 +970,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This document is an unfinished draft bibliography compiled by a researcher documenting literature on fishes in Arizona. It contains hundreds of citations spanning from the 1850s through 1988, covering taxonomic descriptions, ecological studies, fisheries management reports, endangered species...
 > -- *[[DraftbibliographyOnFishesInAri_12263]]*
 
+> The [[Organ Pipe Cactus National Monument]] annual summary for 1992 reports on the endangered [[Quitobaquito Desert Pupfish]] (*Cyprinodon macularius eremus*), an endemic desert pupfish inhabiting the spring outflows and pond at [[Quitobaquito Springs]]. Weekly inspections and an annual census were...
+> -- *[[AnnualSummaryOfActivitiesQuito_19496]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -975,6 +994,7 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[PopulationEcologyOfTheSonoranM_21071]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[DraftbibliographyOnFishesInAri_12263]]
+- [[AnnualSummaryOfActivitiesQuito_19496]]
 
 ## Quitobaquito Springs And Pond
 <!-- fm: auto_enriched: true -->
