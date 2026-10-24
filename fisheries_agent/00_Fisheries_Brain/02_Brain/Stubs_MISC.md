@@ -109,6 +109,9 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This FY-93 annual report documents hydrological support activities provided by the U.S. Fish and Wildlife Service Water Resources Division for the [[Colorado River Recovery Program]]. The project, ongoing since 1988, provides critical water temperature data collection, flow quantification, gage...
 > -- *[[FyAnnualProjectReportColoradoR_21154]]*
 
+> This is a draft summary, circulated by a US Fish and Wildlife Service (FWS) Region 6 program director on May 5, 1989, of a two-day Management Group meeting of the Colorado River Recovery Implementation Program. The Program aims to recover endangered Colorado River fishes: [[Colorado Squawfish]],...
+> -- *[[AprilManagementGroupMeetingSum_21009]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -120,6 +123,7 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[FiscalYearWorkPlan_11742]]
 - [[SummaryaprilManagementGroupMee_20995]]
 - [[FyAnnualProjectReportColoradoR_21154]]
+- [[AprilManagementGroupMeetingSum_21009]]
 
 ## 18-Mile Reach
 
@@ -236,8 +240,12 @@ The 1983 flood was a high-flow event on the Colorado River below Glen Canyon Dam
 > This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
 > -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
 
+> This Michigan Department of Conservation Fish Division pamphlet (No. 16, by F. F. Hooper and A. B. Cook, Jr.) summarizes practical guidance on using liquid sodium arsenite to control rooted submerged flowering weeds in ponds and along lake shorelines. It covers target and non-target plants, dosage...
+> -- *[[ChemicalControlOfSubmergedWate_19910]]*
+
 ### Mentioned In
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
+- [[ChemicalControlOfSubmergedWate_19910]]
 
 ## 2-Methylquinoline
 <!-- fm: auto_enriched: true -->

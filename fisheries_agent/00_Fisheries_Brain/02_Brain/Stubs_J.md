@@ -555,6 +555,9 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 > This Fall 1992 [[Arizona State University]] (ASU) feature, the second part of a series on environmental abuse, reports on how water management in the arid West is driving the loss of native fishes, birds, and riparian habitat. ASU researchers [[W. L. Minckley]], [[Michael E. Douglas]], and [[Robert...
 > -- *[[FaunaFarewellLegacyOfEnvironme_12623]]*
 
+> This Bureau of Reclamation booklet (prepared by Wayne O. Deason, Environmental Office, Lower Colorado Region) reproduces, often word for word, sheets from the U.S. Fish and Wildlife Service "Red Book" (*Threatened Wildlife of the United States*, 1973 edition). Its purpose is to help Reclamation...
+> -- *[[RegionalInformationSummaryOfTh_12740]]*
+
 ### Mentioned In
 - [[CommentsOnTheVirginRiverHabita_1995_02_14]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -565,6 +568,7 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 - [[TheBiologyOfTheRazorbackSucker_1979_10_22]]
 - [[TheBioticCommunitiesOfSouthern_12880]]
 - [[FaunaFarewellLegacyOfEnvironme_12623]]
+- [[RegionalInformationSummaryOfTh_12740]]
 
 ## James Ellsworth DeKay
 
@@ -982,9 +986,13 @@ The Jarvis Decisions are a series of Arizona Supreme Court rulings on groundwate
 > - With **supplemental feeding**, rankings reversed: [[Channel Catfish]] reached 2,688 kg/ha vs. [[Bluegill]] at 896 kg/ha — smaller bluegill mouth size favored natural food harvesting but not pelleted feed use. - [[Congo Tilapia]] (macrophyte feeder) yielded only 2,240 kg/ha with feeding vs. 6,04...
 > -- *[[BiologicalMeansOfIncreasingPro_1968]]*
 
+> This 1965 Auburn University Agricultural Experiment Station report (E. E. Prather) describes three pond experiments (1962–1964) evaluating the [[White Catfish]] (*Ictalurus catus*) as a sport fish for small ponds, stocked alone at 2,000 and 3,000 per acre and in combination with [[Channel Catfish]]...
+> -- *[[ExperimentsWithWhiteCatfishAsA_18665]]*
+
 ### Mentioned In
 - [[BiologicalMeansOfIncreasingPro_1968]]
 - [[ComparativeEvaluationOfTwoTila_15110]]
+- [[ExperimentsWithWhiteCatfishAsA_18665]]
 
 ## Javaid And Anderson 1967
 <!-- fm: auto_enriched: true -->
@@ -1722,6 +1730,18 @@ John Hunter is a scientist at the National Marine Fisheries Service in Hawaii wh
 ### Mentioned In
 - [[DescriptionsOfNewSpeciesOfFish_17274]]
 
+## John Lawrence Butler
+
+### Summary
+John Lawrence Butler is the author of this 1964 Oklahoma State University doctoral dissertation in Zoology, dated May 31, 1964. The work examines how water exchange, turbidity, dissolved solids, temperature and light control primary productivity in farm ponds and laboratory microecosystems.
+
+### Context
+> This 1964 Oklahoma State University doctoral dissertation in Zoology by [[John Lawrence Butler]] examines how water exchange, turbidity, dissolved solids, temperature and light control primary productivity in farm ponds and in laboratory [[Microecosystem]] studies. Field work on [[Myers Ponds]] and...
+> -- *[[InteractionOfEffectsByEnvironm_14113]]*
+
+### Mentioned In
+- [[InteractionOfEffectsByEnvironm_14113]]
+
 ## John Lundberg
 
 ### Summary
@@ -2047,6 +2067,18 @@ A historical museum connected to the refuge area; the source says the historic S
 ### Mentioned In
 - [[DraftSanBernardinoNationalWild_11500]]
 
+## Johnson-Taylor Suction Trap
+
+### Summary
+A suction trap used to sample adult insects in the study. Its catches of C. riparius correlated with sticky-trap catches (r = 0.73), but it caught a much smaller share of chironomids and a larger share of Psychodidae than sticky traps did.
+
+### Context
+> A 1965 survey was carried out in the Colne Valley, near the Maple Lodge sewage works, an area with a history of complaints about swarms of the non-biting midge [[Chironomus riparius]]. Larval densities in the water courses, previously very high, were now low (average below 10,000/m² at all...
+> -- *[[TheDistributionOfTheMidgeChiro_20216]]*
+
+### Mentioned In
+- [[TheDistributionOfTheMidgeChiro_20216]]
+
 ## Johnsson And Abrahams 1991
 <!-- fm: auto_enriched: true -->
 
@@ -2333,8 +2365,12 @@ Jordan and Evermann refers to the landmark ichthyological works produced by Davi
 > - The parenthetical citation of a single species name following a generic name in works by [[David Starr Jordan]] and colleagues (Evermann, Gilbert, Seale, Snyder, Starks, and others) was **consistently intended as formal type-species designation**, not incidental listing. - This convention trace...
 > -- *[[CommentsOnTheProposedRejection_14473]]*
 
+> This 1933 Proceedings of the [[United States National Museum]] paper by Carl L. Hubbs describes a new genus and species of [[Embiotocidae]] (viviparous perches of the North Pacific), [[Crossochir Koelzi]]. The species had been misidentified for decades as [[Holconotus Rhodoterus]]. Its...
+> -- *[[CrossochirKeolziANewCalifornia_20004]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedRejection_14473]]
+- [[CrossochirKeolziANewCalifornia_20004]]
 
 ## Jordan And Hubbs 1919
 <!-- fm: auto_enriched: true -->
@@ -2442,6 +2478,18 @@ Jordan and Evermann refers to the landmark ichthyological works produced by Davi
 ### Mentioned In
 - [[StationAllocationsAndFtesForOp_1994_03_29]]
 
+## Jordan Valley
+
+### Summary
+The Jordan Valley is the river system and rift valley in which tilapias of Israel live, forming the Jordan System that includes Lake Kinneret. The source says Israeli tilapias likely reached Israel through the Jordan Valley and the coastal plain from their tropical centre.
+
+### Context
+> This talk-based review (L. Fishelson, Tel-Aviv University) describes the biology, breeding behaviour and early development of the four main *Tilapia* species of Israel. It contrasts bottom-spawners (*T. zillii*) with mouth-breeders (*T. aurea*, *T. nilotica*) and the intermediate *T. galilaea*. It...
+> -- *[[CichlidaeOfTheGenusTilapiaInIs_16408]]*
+
+### Mentioned In
+- [[CichlidaeOfTheGenusTilapiaInIs_16408]]
+
 ## Jordanella
 <!-- fm: auto_enriched: true -->
 
@@ -2545,6 +2593,18 @@ Joseph F. Fitzpatrick Jr. is the person in whose honor the species was named. Ac
 
 ### Mentioned In
 - [[ClosureOfBogHoleToFishing_1992_05_05]]
+
+## Joseph Spring
+
+### Summary
+A spring in Calhoun County (Station 6), about 24 miles from Blue Eye Spring, where only one flame chub specimen was collected, representing a new population of the species.
+
+### Context
+> This Southeastern Fishes Council survey documents the fish fauna of springs and spring-fed creeks in [[Calhoun County]], Alabama. Sampling at 83 stations (May 1986 to February 1987, plus earlier collections from the [[Fort McClellan Military Reservation]]) yielded 45 species and 2 hybrids in 24...
+> -- *[[FishesOfSpringsAndSpringfedCre_19006]]*
+
+### Mentioned In
+- [[FishesOfSpringsAndSpringfedCre_19006]]
 
 ## Joseph Swain
 <!-- fm: auto_enriched: true -->
@@ -2689,6 +2749,18 @@ Jubilee Spring (Site #27) was a reintroduction site where the spring was modifie
 
 ### Mentioned In
 - [[ThePlanktonSamplerAnInstrument_1950]]
+
+## Judy Creek
+
+### Summary
+A small northern Indiana stream where hatchery rainbow trout were planted and tagged. It was among the best sites in the study, with about 32 percent tag returns in 1943 and recovery in the 16 percent or more class.
+
+### Context
+> Ricker, Mosbaugh and Lung report on tagging experiments in 1943 and 1944 with hatchery-reared, catchable-size [[Rainbow Trout]] and a few [[Brown Trout]] planted in northern Indiana streams. Voluntary tag returns from rainbows ranged from 0 to 42 percent in the year of planting. Second-year...
+> -- *[[UtilizationAndSurvivalOfTroutI_16857]]*
+
+### Mentioned In
+- [[UtilizationAndSurvivalOfTroutI_16857]]
 
 ## Juga Silicula
 <!-- fm: auto_enriched: true -->
@@ -2941,6 +3013,18 @@ Juniper Mountain Canyon is a high-gradient canyon reach of the Yampa River in Co
 
 ### Mentioned In
 - [[HabitatUseAndStreamflowNeedsOf_11609]]
+
+## Juniper Spring
+
+### Summary
+Juniper Spring is one of the springs that feed Lake George on its western side, according to the source. The report names it only as a contributing spring and does not describe its characteristics further.
+
+### Context
+> This 1956-era report by the Florida Game and Fresh Water Fish Commission, compiled under Chief of Fisheries [[Don Luethy]], assesses the fishery of [[Lake George]] and the adjoining [[St. Johns River]] (Volusia Bar to Buffalo Bluff). It combines multiple sampling methods (haul seine, otter trawl,...
+> -- *[[SurveyFindingsOnTheLakeGeorgeA_16244]]*
+
+### Mentioned In
+- [[SurveyFindingsOnTheLakeGeorgeA_16244]]
 
 ## Juniper Springs Canyon
 

@@ -545,6 +545,18 @@ Queen Creek is a stream in the Gila River basin in Arizona that serves as the re
 ### Mentioned In
 - [[IceCoreRecordsOfPastClimateCha_1995_09_06]]
 
+## Quercus
+
+### Summary
+Quercus is the genus of oaks. This source lists oak as one of the legible plant entries in its vegetation inventory, without a species-level identification.
+
+### Context
+> This document is a multi-page field log, not a fish study. It records a small-mammal trapping effort and a plant inventory at two roadside sites near creek drainages. The scan is heavily degraded, and most pages are unreadable. The legible entries cover a September field session, a group of student...
+> -- *[[AzGilaCoSierraAnchaMtFieldNote_19357]]*
+
+### Mentioned In
+- [[AzGilaCoSierraAnchaMtFieldNote_19357]]
+
 ## Quercus arizonica
 
 ### Summary

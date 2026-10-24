@@ -243,6 +243,18 @@ Cyprinodon verecundus is one of five endemic pupfish species found in Laguna Chi
 ### Mentioned In
 - [[DistributionalAndLocalVernacul_13815]]
 
+## C. Willard Hart Jr.
+
+### Summary
+A carcinologist to whom paratypes of the new species were assigned. The paper states that paratypes are deposited with him, along with the Smithsonian and Horton H. Hobbs III.
+
+### Context
+> This taxonomic paper describes four new entocytherid ostracods: [[Ascetocythere holti]], [[Dactylocythere enoploholca]], [[Dactylocythere myura]], and [[Dactylocythere spinata]]. The specimens come from the upper Tennessee and [[Cumberland River]] drainages in Tennessee and the [[Holston River]]...
+> -- *[[NewEntocytheridOstracodsFromTe_20423]]*
+
+### Mentioned In
+- [[NewEntocytheridOstracodsFromTe_20423]]
+
 ## C.F. Hickling
 <!-- fm: auto_enriched: true -->
 
@@ -602,6 +614,18 @@ Caddo Lake is a natural freshwater ecosystem located on the Texas-Louisiana bord
 - [[ThreeShinersNotropisOrtenburge_14255]]
 - [[FisheriesInvestigationsAndSurv_14931]]
 
+## Cadmium
+
+### Summary
+A toxic heavy metal that can harm aquatic life. In this report, cadmium at 1.85 µg/L in the upper lake and 0.50 µg/L in the lower lake on June 2, 1982, exceeded the 0.4 µg/L recommended upper limit, and the authors suspected it of causing tailrace fish kills.
+
+### Context
+> This Bureau of Reclamation report presents the 1982 limnological monitoring results for [[Twin Lakes]], a montane lake system in central Colorado, and compares them with pre-operation data. The study is part of the long-term [[Mt. Elbert Pumped-Storage Powerplant]] assessment (project DR-331). The...
+> -- *[[EffectsOfOperatingTheMtElbertP_12651]]*
+
+### Mentioned In
+- [[EffectsOfOperatingTheMtElbertP_12651]]
+
 ## Caecidae
 <!-- fm: auto_enriched: true -->
 
@@ -659,6 +683,18 @@ Caenidae is a family of small mayflies (order Ephemeroptera) that represents one
 
 ### Mentioned In
 - [[CageCulturingTheEndangeredBony_1999]]
+
+## Cage-Trap Method
+
+### Summary
+A sampling device that enclosed a unit area of stream bed to catch insects as they emerged, measuring the turnover of bottom fauna rather than a standing population. The source notes it was introduced by F. P. Ide in 1937 and gave higher values than bottom sampling, though hourly collections were needed to capture the full emergence.
+
+### Context
+> This University of Toronto Studies monograph (Biological Series No. 56, Ontario Fisheries Research Laboratory Publication No. 69, 1947) by Wm. M. Sprules reports a four-year ecological investigation (1938–1941) of stream insects in the Mud Creek and Madawaska River system of [[Algonquin Park]],...
+> -- *[[AnEcologicalInvestigationOfStr_11870]]*
+
+### Mentioned In
+- [[AnEcologicalInvestigationOfStr_11870]]
 
 ## Cahaba Bass
 
@@ -1149,8 +1185,12 @@ Calhoun County is a county in Mississippi where Procambarus lylei was discovered
 > This 1971 publication by J. F. Fitzpatrick, Jr. and Horton H. Hobbs, Jr. describes *Procambarus lylei*, a new species of crawfish from the [[Spiculifer Group]] of the genus [[Procambarus]]. The species was discovered in [[Calhoun County]], [[Mississippi]], within the [[Yalobusha River]] drainage...
 > -- *[[ANewCrayfishOfTheSpiculiferGro_16434]]*
 
+> This Southeastern Fishes Council survey documents the fish fauna of springs and spring-fed creeks in [[Calhoun County]], Alabama. Sampling at 83 stations (May 1986 to February 1987, plus earlier collections from the [[Fort McClellan Military Reservation]]) yielded 45 species and 2 hybrids in 24...
+> -- *[[FishesOfSpringsAndSpringfedCre_19006]]*
+
 ### Mentioned In
 - [[ANewCrayfishOfTheSpiculiferGro_16434]]
+- [[FishesOfSpringsAndSpringfedCre_19006]]
 
 ## Cali
 
@@ -1590,6 +1630,12 @@ The California Department of Fish and Game (now the California Department of Fis
 > This Bureau of Reclamation memorandum (April 1990) summarizes two March 1990 meetings of the [[Native Fish Work Group]] on a proposed on-site backwater rearing facility at [[Lake Mohave]]. The group aims to protect the [[Razorback Sucker]] population, which is judged to be at risk of extirpation...
 > -- *[[ResultsOfMarchAndMeetingsConce_15024]]*
 
+> This paper, by George W. McCammon, Don LaFaunce and Charles M. Seeley of the [[California Department of Fish and Game]] Inland Fisheries Branch, compares four August food habit studies of young-of-the-year [[Largemouth Bass]] (fingerlings) in [[Clear Lake]]. The 1948 study had proposed that the...
+> -- *[[ObservationsOnTheFoodOfFingler_12249]]*
+
+> This 1980 study proposal, prepared by W. E. Loudermilk (Assistant Fishery Biologist, [[California Department of Fish and Game]] Region 5), seeks to fill major data gaps on the [[Razorback Sucker]], a declining native fish of the [[Colorado River]] drainage. The proposal covers juvenile and adult...
+> -- *[[AspectsOfJuvenileAndAdultRazor_16214]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -1638,6 +1684,8 @@ The California Department of Fish and Game (now the California Department of Fis
 - [[LargemouthBassTagging_12531]]
 - [[AnAnnotatedBibliographyOfResea_14741]]
 - [[ResultsOfMarchAndMeetingsConce_15024]]
+- [[ObservationsOnTheFoodOfFingler_12249]]
+- [[AspectsOfJuvenileAndAdultRazor_16214]]
 
 ## California Department of Public Health
 
@@ -1998,6 +2046,18 @@ The institution to which the 1944 specimen was first presented after capture. It
 - [[OccurrenceOfTheBrambleSharkInC_14197]]
 - [[AKeyToSomeSouthernCaliforniaFi_15959]]
 
+## California Tagging Program
+
+### Summary
+Earlier California tagging efforts, cited here as the work of Clark (1934, 1936), which tagged mostly small striped bass under about 20 inches. Those results led Clark to conclude bass dispersed without definite migration, a conclusion Calhoun attributes to juvenile behavior and the lack of tagged large adults.
+
+### Context
+> This California Department of Fish and Game report by A. J. Calhoun establishes a well-defined annual migration of large adult [[Striped Bass]] (*Roccus saxatilis*) in the [[Sacramento-San Joaquin Delta]] and adjacent waters. Using [[Petersen Disc Tag]]s on roughly 4,200 fish tagged in 1947–1951,...
+> -- *[[AnnualMigrationsOfCaliforniaSt_17335]]*
+
+### Mentioned In
+- [[AnnualMigrationsOfCaliforniaSt_17335]]
+
 ## California Tiger Salamander
 
 ### Summary
@@ -2059,6 +2119,18 @@ The Calima River is a Pacific slope tributary where important gymnotid specimens
 
 ### Mentioned In
 - [[TheGymnotidaeOfTransandeanColo_15808]]
+
+## Callao
+
+### Summary
+Callao is a Peruvian port city on the central coast where anchovy oil content was sampled in 1964, with a minimum oil content of 4%. The source lists it among the main Peruvian anchovy fishing and processing locations, along with Chimbote and Ilo.
+
+### Context
+> This chapter (Chapter 26 of *Fish Oils*, reprinted as U.S. Bureau of Commercial Fisheries Circular 282, December 1967) by J. R. Sanchez Torres of the Instituto del Mar del Peru describes the fish oil industry in South America, focusing on Peru. Peru has been the world's largest fish oil producer...
+> -- *[[FishOilIndustryInSouthAmerica_20503]]*
+
+### Mentioned In
+- [[FishOilIndustryInSouthAmerica_20503]]
 
 ## Callianassa
 <!-- fm: auto_enriched: true -->
@@ -2228,6 +2300,18 @@ Cambaridae, the crayfish family, is mentioned as an example of regulatory incons
 ### Mentioned In
 - [[RequestByUecToImportAndPossess_18439]]
 
+## Cambarus
+
+### Summary
+A genus of freshwater crayfish in North America. The entocytherid ostracods described here live as epibionts on Cambarus hosts in Tennessee and Virginia streams.
+
+### Context
+> This taxonomic paper describes four new entocytherid ostracods: [[Ascetocythere holti]], [[Dactylocythere enoploholca]], [[Dactylocythere myura]], and [[Dactylocythere spinata]]. The specimens come from the upper Tennessee and [[Cumberland River]] drainages in Tennessee and the [[Holston River]]...
+> -- *[[NewEntocytheridOstracodsFromTe_20423]]*
+
+### Mentioned In
+- [[NewEntocytheridOstracodsFromTe_20423]]
+
 ## Cambarus (Depressicambarus) halli
 
 ### Summary
@@ -2291,8 +2375,13 @@ Cambarus (Jugicambarus) tartarus is a newly described troglobitic (cave-dwelling
 ## Cambarus Asperimanus
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1968 paper in the *Proceedings of the Biological Society of Washington* examines two harpacticoid copepods of the genus [[Attheyella]], [[Attheyella Pilosa]] and [[Attheyella Carolinensis]], which live on [[Crayfish]] hosts in the eastern United States. The authors redescribe both species,...
+> -- *[[NotesOnTheHarpacticoidCopepods_17754]]*
+
 ### Mentioned In
 - [[ANewCrayfishOfTheGenusCambarus_18690]]
+- [[NotesOnTheHarpacticoidCopepods_17754]]
 
 ## Cambarus Bartoni
 <!-- fm: auto_enriched: true -->
@@ -2309,8 +2398,12 @@ Cambarus carolinus is another crayfish species in the subgenus Jugicambarus to w
 > This paper describes **Cambarus gentryi**, a new species of burrowing crayfish from the [[Nashville Basin]] in [[Tennessee]]. The species was first collected in the 1890s from a tributary of [[Stones River]] but remained undescribed for approximately 75 years. It was rediscovered in 1968 by Dr....
 > -- *[[ANewCrayfishFromTheNashvilleBa_20416]]*
 
+> This taxonomic paper describes four new entocytherid ostracods: [[Ascetocythere holti]], [[Dactylocythere enoploholca]], [[Dactylocythere myura]], and [[Dactylocythere spinata]]. The specimens come from the upper Tennessee and [[Cumberland River]] drainages in Tennessee and the [[Holston River]]...
+> -- *[[NewEntocytheridOstracodsFromTe_20423]]*
+
 ### Mentioned In
 - [[ANewCrayfishFromTheNashvilleBa_20416]]
+- [[NewEntocytheridOstracodsFromTe_20423]]
 
 ## Cambarus Chaugaensis
 
@@ -2378,6 +2471,18 @@ Cambarus diogenes ludovicianus is an apparent subspecies of burrowing crayfish f
 ### Mentioned In
 - [[ANewFaxonellaFromNortheastLoui_1968_12_30]]
 
+## Cambarus longirostris
+
+### Summary
+A species of crayfish in the genus Cambarus. It is one of the hosts from which Dactylocythere enoploholca was collected.
+
+### Context
+> This taxonomic paper describes four new entocytherid ostracods: [[Ascetocythere holti]], [[Dactylocythere enoploholca]], [[Dactylocythere myura]], and [[Dactylocythere spinata]]. The specimens come from the upper Tennessee and [[Cumberland River]] drainages in Tennessee and the [[Holston River]]...
+> -- *[[NewEntocytheridOstracodsFromTe_20423]]*
+
+### Mentioned In
+- [[NewEntocytheridOstracodsFromTe_20423]]
+
 ## Cambarus Obeyensis
 <!-- fm: auto_enriched: true -->
 
@@ -2407,6 +2512,18 @@ Cambarus diogenes ludovicianus is an apparent subspecies of burrowing crayfish f
 - [[ANewCrayfishOfTheGenusCambarus_18690]]
 - [[ANewCrayfishOfTheSubgenusPunct_18692]]
 
+## Cambarus sphenoides
+
+### Summary
+A species of crayfish in the genus Cambarus. It is a host for Ascetocythere holti in the Tennessee collections reported in this paper.
+
+### Context
+> This taxonomic paper describes four new entocytherid ostracods: [[Ascetocythere holti]], [[Dactylocythere enoploholca]], [[Dactylocythere myura]], and [[Dactylocythere spinata]]. The specimens come from the upper Tennessee and [[Cumberland River]] drainages in Tennessee and the [[Holston River]]...
+> -- *[[NewEntocytheridOstracodsFromTe_20423]]*
+
+### Mentioned In
+- [[NewEntocytheridOstracodsFromTe_20423]]
+
 ## Cambarus striatus
 
 ### Summary
@@ -2418,6 +2535,18 @@ Cambarus striatus is a crayfish species found in the adjacent creek near the typ
 
 ### Mentioned In
 - [[ANewCrayfishOfTheGenusFallicam_20420]]
+
+## Cambarus Tenebrosus
+
+### Summary
+A crayfish species on which Attheyella pilosa formed dense assemblages at Doe Run, Kentucky. It is one of the hosts documented in the study.
+
+### Context
+> This 1968 paper in the *Proceedings of the Biological Society of Washington* examines two harpacticoid copepods of the genus [[Attheyella]], [[Attheyella Pilosa]] and [[Attheyella Carolinensis]], which live on [[Crayfish]] hosts in the eastern United States. The authors redescribe both species,...
+> -- *[[NotesOnTheHarpacticoidCopepods_17754]]*
+
+### Mentioned In
+- [[NotesOnTheHarpacticoidCopepods_17754]]
 
 ## Cambodia
 
@@ -3368,8 +3497,12 @@ Canton Island is a Pacific territory of the United States included in the climat
 > - The pronounced difference in yield/catch rate between the upper (shallow, turbid) and lower (deep, clear) reservoir sections was larger than expected, and warrants further investigation into causal mechanisms (fishing pressure vs. habitat/turbidity effects) to inform sport fishery management. -...
 > -- *[[TheSportFisheryOfTenkillerFerr_16926]]*
 
+> This 1960 report (Oklahoma Fishery Research Laboratory Report No. 78, by Alfred Houser) summarizes growth of the [[Freshwater Drum]] (*Aplodinotus grunniens*) in Oklahoma from 19 years of data (1940–1958). Scale samples from 3,103 fish were drawn from 32 waters (16 reservoirs, 7 large lakes, 9...
+> -- *[[GrowthOfFreshwaterDrumInOklaho_19938]]*
+
 ### Mentioned In
 - [[TheSportFisheryOfTenkillerFerr_16926]]
+- [[GrowthOfFreshwaterDrumInOklaho_19938]]
 
 ## Canyon Creek
 
@@ -3621,6 +3754,15 @@ Cape Echizen is a location on the southwestern coast of Wakasa Bay, Japan. The t
 
 ### Mentioned In
 - [[AbundanceOfStJohnsRiverShad_1960_03_08]]
+
+## Cape San Lucas
+
+### Context
+> This 1896 paper (California Academy of Sciences) reports on three small collections of Pacific-slope freshwater fishes from Mexico and Arizona. Part I covers the [[Rio Yaqui]] basin, based on collections by Dr. Gustav Eisen at [[Hermosillo]] and Mr. William Wightman Price in the Yaqui headwaters....
+> -- *[[TheFishesOfTheRioYaquiSonoraWi_21122]]*
+
+### Mentioned In
+- [[TheFishesOfTheRioYaquiSonoraWi_21122]]
 
 ## Cape Verde Islands
 
@@ -4248,6 +4390,18 @@ The Carbon Dioxide Information Analysis Center (CDIAC) is a data center that co-
 ### Mentioned In
 - [[TheGlobalHistoricalClimatology_12377]]
 
+## Carbon Dioxide Titration
+
+### Summary
+Carbon dioxide titration estimates carbon fixation from pH and CO₂ titration curves. In this study the curves were integrated by computer and applied to the microcosms.
+
+### Context
+> This 1964 Oklahoma State University doctoral dissertation in Zoology by [[John Lawrence Butler]] examines how water exchange, turbidity, dissolved solids, temperature and light control primary productivity in farm ponds and in laboratory [[Microecosystem]] studies. Field work on [[Myers Ponds]] and...
+> -- *[[InteractionOfEffectsByEnvironm_14113]]*
+
+### Mentioned In
+- [[InteractionOfEffectsByEnvironm_14113]]
+
 ## Carbon Dioxide-Bicarbonate-Carbonate Equilibrium
 <!-- fm: auto_enriched: true -->
 
@@ -4273,8 +4427,12 @@ The carbon-14 method measures primary production by tracking the uptake of radio
 > This is a class-use bibliography compiled by [[Robert J. Beyers]], Director of the [[Savannah River Ecology Laboratory]], in October 1967. It lists published and unpublished literature on measuring the primary productivity of aquatic ecosystems. Entries are coded with Roman numerals (I–VII) for...
 > -- *[[PartialBibliographyOfInterestT_18238]]*
 
+> Baker and Paulson describe how the saline, nutrient-rich [[Las Vegas Wash]] inflow forms a [[Density Current]] in [[Las Vegas Bay]], [[Lake Mead]], and how this current controls nutrient availability and [[Phytoplankton]] growth. The current acts as an underflow in winter, an interflow along the...
+> -- *[[InfluenceOfLasVegasWashDensity_17284]]*
+
 ### Mentioned In
 - [[PartialBibliographyOfInterestT_18238]]
+- [[InfluenceOfLasVegasWashDensity_17284]]
 
 ## Carbon-Sulfur Ratio
 <!-- fm: auto_enriched: true -->
@@ -4670,6 +4828,12 @@ Carl L. Hubbs was a pioneering American ichthyologist and evolutionary biologist
 > This document is a 1929 taxonomic check-list of freshwater fishes recorded in [[Oregon]] and [[Washington]] and adjacent regions. It was compiled by [[Leonard P. Schultz]] from published literature, supplemented by a few unpublished records of introduced species observed by D. R. Crawford and the...
 > -- *[[ChecklistOfTheFreshwaterFishes_20621]]*
 
+> This 1949 article by John F. Dequine (reprinted from *Florida Wildlife*, Game & Fresh Water Fish Commission) addresses whether northern Smallmouth Bass occur in Florida. The author reports that, despite many claims of "record Smallmouth" catches, every fish he examined was a Florida Largemouth. No...
+> -- *[[IdentifyingTheFloridaBasses_12820]]*
+
+> This 1933 article by [[Carl L. Hubbs]], Curator of Fishes at the University of Michigan, was written to correct long-standing confusion among aquarists and ichthyologists about the species of the live-bearing genus *Mollienisia* (family [[Poeciliidae]]). Hubbs sorts the genus into two groups, the...
+> -- *[[SpeciesAndHybridsOfMollienisia_20006]]*
+
 ### Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -4690,6 +4854,8 @@ Carl L. Hubbs was a pioneering American ichthyologist and evolutionary biologist
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[EleotrisPictaAddedToTheFishFau_20054]]
 - [[ChecklistOfTheFreshwaterFishes_20621]]
+- [[IdentifyingTheFloridaBasses_12820]]
+- [[SpeciesAndHybridsOfMollienisia_20006]]
 
 ## Carl L. Hubbs 1955
 <!-- fm: auto_enriched: true -->
@@ -4809,6 +4975,18 @@ Published growth data for yellow perch used as a comparison in this study. Coots
 ### Mentioned In
 - [[AgeAndGrowthOfRiverCarpsuckerI_1957_12_12]]
 - [[EcologicalFactorsAffectingTheG_19169]]
+
+## Carlander Nomograph
+
+### Summary
+A graphical tool, from Carlander (1953), used to back-calculate fish length at each earlier annulus from scale measurements. In this study, growth was back-calculated on the nomograph assuming an intercept of zero.
+
+### Context
+> This study compares the age and growth of [[White Sucker]] (*[[Catostomus commersoni]]*) from two small Kentucky streams that drain to the [[Ohio River]]: [[Doe Run Creek]] in Meade County and [[Goose Creek]] in Jefferson County. Ages were estimated by counting annuli on scales, and growth was...
+> -- *[[TheAgeAndGrowthOfCatostomusCom_14581]]*
+
+### Mentioned In
+- [[TheAgeAndGrowthOfCatostomusCom_14581]]
 
 ## Carlander, Lewis, Ruhr, And Cleary 1953
 <!-- fm: auto_enriched: true -->
@@ -5097,6 +5275,18 @@ Caroga Lake is a New York State lake where red salmon (sockeye salmon, Oncorhync
 ### Mentioned In
 - [[WeightLossOfCelluloseAndAquati_12624]]
 
+## Caroline and Olivia Phelps Stokes Fund
+
+### Summary
+The Caroline and Olivia Phelps Stokes Fund ran a 1904 competition for writing on native plant protection. The source says the essay 'The Protection of Our Native Plants' received second prize in that competition.
+
+### Context
+> This 1904 report from the [[New York Botanical Garden]], published in the *Journal of the New York Botanical Garden*, records a botanical collecting expedition across Texas, Arizona, Sonora, and Baja California. The party surveyed desert vegetation, descended the [[Colorado River]] by sloop from...
+> -- *[[BotanicalExplorationsInTheSout_12961]]*
+
+### Mentioned In
+- [[BotanicalExplorationsInTheSout_12961]]
+
 ## Carotenoid Transfer In Fish
 <!-- fm: auto_enriched: true -->
 
@@ -5124,6 +5314,18 @@ Caroga Lake is a New York State lake where red salmon (sockeye salmon, Oncorhync
 
 ### Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
+
+## Carothers et al. 1981
+
+### Summary
+Carothers et al. (1981) is an earlier study whose data was compiled into one of the four Arizona Game and Fish Department databases used in this review. According to the source, this work captured young-of-the-year humpback chub almost exclusively in the Little Colorado River, which the report uses to suggest that river is the principal spawning and nursery area.
+
+### Context
+> This 1990 draft report by the [[Arizona Game and Fish Department]] (Research Branch), submitted to the [[Bureau of Reclamation]] (Upper Colorado Region), compiles and reanalyzes the scattered "grey literature," agency reports and unpublished data on the endangered [[Humpback Chub]] in the Colorado...
+> -- *[[TheEndangeredHumpbackChubGilaC_12469]]*
+
+### Mentioned In
+- [[TheEndangeredHumpbackChubGilaC_12469]]
 
 ## Carp
 <!-- fm: auto_enriched: true -->
@@ -5447,6 +5649,9 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
 > -- *[[FishesOfOklahoma_16566]]*
 
+> This is the 1950 revision (earlier revisions 1946; first edition mimeographed 30 March 1940) of Milton B. Trautman's mimeographed dichotomous keys to the native fishes of Ohio, issued by the [[Franz Theodore Stone Institute of Hydrobiology]] (Put-in-Bay) and the [[Ohio Division of Wildlife]]. It...
+> -- *[[ArtificialKeysForTheIdentifica_13390]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -5598,6 +5803,7 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[TheElectricShockerAndItsUseInM_18901]]
 - [[ConservationOfTheBlackBassReso_19213]]
 - [[FishesOfOklahoma_16566]]
+- [[ArtificialKeysForTheIdentifica_13390]]
 
 ## Carp Control
 <!-- fm: auto_enriched: true -->
@@ -6187,6 +6393,18 @@ Cassidiniidea lunifrons is an isopod species that co-occurs with Corophium aquaf
 ### Mentioned In
 - [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
 
+## Castalia Lake
+
+### Summary
+A lake in the Algonquin Park study area whose outlet beaver dam failed on 25 May 1940, sending a flood down Mud Creek for about seven days. That freshet reduced emergence at downstream sampling stations.
+
+### Context
+> This University of Toronto Studies monograph (Biological Series No. 56, Ontario Fisheries Research Laboratory Publication No. 69, 1947) by Wm. M. Sprules reports a four-year ecological investigation (1938–1941) of stream insects in the Mud Creek and Madawaska River system of [[Algonquin Park]],...
+> -- *[[AnEcologicalInvestigationOfStr_11870]]*
+
+### Mentioned In
+- [[AnEcologicalInvestigationOfStr_11870]]
+
 ## Castle Creek
 <!-- fm: auto_enriched: true -->
 
@@ -6438,6 +6656,9 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 > This public education brochure describes four endangered native fish species of the [[Colorado River Basin]]: the [[Bonytail Chub]] (*Gila elegans*), [[Humpback Chub]] (*Gila cypha*), [[Colorado Squawfish]] (*Ptychocheilus lucius*), and [[Razorback Sucker]] (*Xyrauchen texanus*). These species...
 > -- *[[SwimmingUpstreamTheEndangeredF_15037]]*
 
+> This is a draft summary, circulated by a US Fish and Wildlife Service (FWS) Region 6 program director on May 5, 1989, of a two-day Management Group meeting of the Colorado River Recovery Implementation Program. The Program aims to recover endangered Colorado River fishes: [[Colorado Squawfish]],...
+> -- *[[AprilManagementGroupMeetingSum_21009]]*
+
 ### Mentioned In
 - [[FeedingActivityAndSpawning_11266]]
 - [[FyAnnualProjectReportGilaTaxon_1993_12_06]]
@@ -6463,6 +6684,7 @@ Cataract Canyon is a reach of the Upper Colorado River located in Utah that repr
 - [[DraftRecoveryGoals_11689]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[SwimmingUpstreamTheEndangeredF_15037]]
+- [[AprilManagementGroupMeetingSum_21009]]
 
 ## Cataract Creek
 
@@ -7007,6 +7229,12 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 > This 1974 technical report, prepared by [[Eric S. Gustafson]] and submitted by [[W. L. Minckley]] at the [[Lower Colorado River Basin Research Laboratory]], [[Arizona State University]], to the [[U.S. Fish and Wildlife Service]] Regional Office, evaluates external secondary sex characteristics for...
 > -- *[[SexualDimorphismInTheAdultRazo_17843]]*
 
+> This Bureau of Reclamation booklet (prepared by Wayne O. Deason, Environmental Office, Lower Colorado Region) reproduces, often word for word, sheets from the U.S. Fish and Wildlife Service "Red Book" (*Threatened Wildlife of the United States*, 1973 edition). Its purpose is to help Reclamation...
+> -- *[[RegionalInformationSummaryOfTh_12740]]*
+
+> This is the 1950 revision (earlier revisions 1946; first edition mimeographed 30 March 1940) of Milton B. Trautman's mimeographed dichotomous keys to the native fishes of Ohio, issued by the [[Franz Theodore Stone Institute of Hydrobiology]] (Put-in-Bay) and the [[Ohio Division of Wildlife]]. It...
+> -- *[[ArtificialKeysForTheIdentifica_13390]]*
+
 ### Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[AListOfOntarioFishes_11321]]
@@ -7241,6 +7469,8 @@ Catostomidae is a family of freshwater cypriniform fishes commonly known as suck
 - [[BlueRiverPoolSamplingGreenleeC_17213]]
 - [[AllozymeDivergenceAmongPopulat_14119]]
 - [[SexualDimorphismInTheAdultRazo_17843]]
+- [[RegionalInformationSummaryOfTh_12740]]
+- [[ArtificialKeysForTheIdentifica_13390]]
 
 ## Catostomidae Spawning Ecology
 <!-- fm: auto_enriched: true -->
@@ -7453,11 +7683,15 @@ Catostomus columbianus is a sucker species that almost certainly inhabited the J
 > This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
 > -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
 
+> This study compares the age and growth of [[White Sucker]] (*[[Catostomus commersoni]]*) from two small Kentucky streams that drain to the [[Ohio River]]: [[Doe Run Creek]] in Meade County and [[Goose Creek]] in Jefferson County. Ages were estimated by counting annuli on scales, and growth was...
+> -- *[[TheAgeAndGrowthOfCatostomusCom_14581]]*
+
 ### Mentioned In
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[LetterToDrDonaldGButhRegarding_1989_12_26]]
 - [[EvaluationAndRelativeResistanc_19097]]
 - [[ProvisionalKeyToTheProtolarvae_21239]]
+- [[TheAgeAndGrowthOfCatostomusCom_14581]]
 
 ## Catostomus Commersonii
 <!-- fm: auto_enriched: true -->
@@ -8144,6 +8378,18 @@ The caudal fin, commonly known as the tail fin, is the primary locomotor structu
 ### Mentioned In
 - [[SurLaSystématiqueEtLaBiogéogra_1968_07_01]]
 
+## Cave Fish Adaptation
+
+### Summary
+The evolutionary and physiological changes that cave-dwelling fish show compared with surface relatives. This source does not study adaptation directly; it notes that the cave-associated and surface forms of Astyanax mexicanus recorded in Coahuila make these localities relevant to such studies.
+
+### Context
+> This document is a composite of three unrelated items. Its first and largest part is a catalog of freshwater fish specimen records from Coahuila, Mexico, collected in 1938 and 1939, with catalog numbers, species identities, localities and dates. Its second part is a scientific study of larval...
+> -- *[[MarshsCollections_19384]]*
+
+### Mentioned In
+- [[MarshsCollections_19384]]
+
 ## Cave Fish Evolution
 <!-- fm: auto_enriched: true -->
 
@@ -8793,6 +9039,15 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 > This August 16, 1994 letter from the [[Southwest Center For Biological Diversity]] (SWCBD), signed by Robin D. Silver, M.D., is a notice of intent to sue federal agencies. It alleges that they violated Sections 2, 7, and/or 9 of the [[Endangered Species Act]] and the [[National Environmental Policy...
 > -- *[[NoticeToPursueLegalActionForVi_18966]]*
 
+> This July 1998 internal-review draft by the [[Bureau of Reclamation]] (lead agency; [[Bureau of Indian Affairs]] and [[U.S. Fish and Wildlife Service]] cooperating) evaluates building two concrete drop-structure fish barriers on lower [[Aravaipa Creek]]. The barriers are required under the 1994...
+> -- *[[PreliminaryDraftEnvironmentalA_11754]]*
+
+> This is a January 1991 transmittal letter from the Bureau of Reclamation (Arizona Projects Office) to Dr. Bill Matter (University of Arizona). It forwards agency and expert comments on the draft report "Potential for Transfer of Non-native Fish in Central Arizona Project Canal Waters to the Gila...
+> -- *[[ReviewOfTheDraftReportPotentia_13378]]*
+
+> This is a 25 July 1997 comment letter from a law firm representing the Central Arizona Water Conservation District (CAWCD) to the Regional Director of the [[U.S. Bureau of Reclamation]], Lower Colorado Regional Office. It responds to the [[U.S. Fish and Wildlife Service]] Biological and Conference...
+> -- *[[CommentsOfCentralArizonaWaterC_21131]]*
+
 ### Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -8847,6 +9102,9 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 - [[FisheryInvestigationsProgressR_11561]]
 - [[CentralArizonaProject_13261]]
 - [[NoticeToPursueLegalActionForVi_18966]]
+- [[PreliminaryDraftEnvironmentalA_11754]]
+- [[ReviewOfTheDraftReportPotentia_13378]]
+- [[CommentsOfCentralArizonaWaterC_21131]]
 
 ## Central Arizona Project Canal
 
@@ -9676,6 +9934,18 @@ Ceratozamia is a genus of cycads in the family Zamiaceae. This source states tha
 ### Mentioned In
 - [[TwoNewBloodFlukeParasitesOfTro_14426]]
 
+## Cercariae
+
+### Summary
+Cercariae are the free-swimming larval stage of trematodes that emerge from snails and penetrate fish to form metacercariae. In this study, pool-reared fish received about 4,500 cercariae and hatchery fish received about 25,000 over several days.
+
+### Context
+> This 1966 experimental study, reprinted in the FAO *World Symposium on Warm-Water Pond Fish Culture* proceedings, tested how infection by the strigeid trematode [[Posthodiplostomum Minimum]] (the [[White Liver Grub]]) affects [[Bluegill]] ([[Lepomis Macrochirus]]) growth and survival. Infection at...
+> -- *[[EffectOfTheStrigeidTrematodePo_21208]]*
+
+### Mentioned In
+- [[EffectOfTheStrigeidTrematodePo_21208]]
+
 ## Cercobagrus Ichikawai
 <!-- fm: auto_enriched: true -->
 
@@ -9685,6 +9955,18 @@ Ceratozamia is a genus of cycads in the family Zamiaceae. This source states tha
 
 ### Mentioned In
 - [[LetterToRayVaughnOpposingRestr_1973_04_13]]
+
+## Cercocarpus Betuloides
+
+### Summary
+Cercocarpus betuloides is mountain mahogany, a woody shrub common in dry uplands. This source lists it among the legible plant names from the chaparral-type survey sites.
+
+### Context
+> This document is a multi-page field log, not a fish study. It records a small-mammal trapping effort and a plant inventory at two roadside sites near creek drainages. The scan is heavily degraded, and most pages are unreadable. The legible entries cover a September field session, a group of student...
+> -- *[[AzGilaCoSierraAnchaMtFieldNote_19357]]*
+
+### Mentioned In
+- [[AzGilaCoSierraAnchaMtFieldNote_19357]]
 
 ## Cercopithecidae
 <!-- fm: auto_enriched: true -->
@@ -10867,6 +11149,33 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
 > -- *[[FishesOfOklahoma_16566]]*
 
+> This agency review draft, prepared by the U.S. Fish and Wildlife Service (Region 2, Albuquerque), is a recovery plan for three federally listed fishes of the upper [[Rio Yaqui Basin]]: the [[Yaqui Chub]] (*Gila purpurea*, endangered), the [[Beautiful Shiner]] (*Notropis formosus*, threatened) and...
+> -- *[[AgencyReviewDraftYaquiFishesRe_13257]]*
+
+> This 1956-era report by the Florida Game and Fresh Water Fish Commission, compiled under Chief of Fisheries [[Don Luethy]], assesses the fishery of [[Lake George]] and the adjoining [[St. Johns River]] (Volusia Bar to Buffalo Bluff). It combines multiple sampling methods (haul seine, otter trawl,...
+> -- *[[SurveyFindingsOnTheLakeGeorgeA_16244]]*
+
+> This 1977 symposium paper (Tucson, Arizona, July 9, 1977) by a U.S. Forest Service fisheries and non-game biologist argues that stream fisheries in the Southwest depend on energy and nutrients from riparian vegetation and the surrounding watershed. Uncontrolled livestock grazing removes riparian...
+> -- *[[WildlifeConflictsInRiparianMan_17945]]*
+
+> This 1965 Auburn University Agricultural Experiment Station report (E. E. Prather) describes three pond experiments (1962–1964) evaluating the [[White Catfish]] (*Ictalurus catus*) as a sport fish for small ponds, stocked alone at 2,000 and 3,000 per acre and in combination with [[Channel Catfish]]...
+> -- *[[ExperimentsWithWhiteCatfishAsA_18665]]*
+
+> This 1966 summary report from the U.S. Bureau of Sport Fisheries and Wildlife reviews 1965 fishery management on the 1,643,939-acre San Carlos Reservation. The work followed a 1958 agreement among the San Carlos Apache Tribe, the Bureau of Indian Affairs and the Bureau. Management covered 110 stock...
+> -- *[[SummaryReportSanCarlosApacheIn_19599]]*
+
+> This 1960 report (Oklahoma Fishery Research Laboratory Report No. 78, by Alfred Houser) summarizes growth of the [[Freshwater Drum]] (*Aplodinotus grunniens*) in Oklahoma from 19 years of data (1940–1958). Scale samples from 3,103 fish were drawn from 32 waters (16 reservoirs, 7 large lakes, 9...
+> -- *[[GrowthOfFreshwaterDrumInOklaho_19938]]*
+
+> This 1970 report from the [[Bureau of Sport Fisheries and Wildlife]] (Fish Control Laboratory, La Crosse, Wisconsin) by Richard A. Schoettger and Gerald E. Svendsen measures how the piscicide [[Antimycin A]] affects oxygen consumption (respiration) in liver, kidney, brain and gill tissue of a...
+> -- *[[EffectOfAntimycinAOnTissueResp_20590]]*
+
+> This thesis, from a Department of Biological Sciences, evaluated whether [[Reclaimed Wastewater]] treated by [[Sand Filtration]] (tertiary treatment) could support a [[Sport Fishery]]. Three fish were tested: [[Channel Catfish]], [[Rainbow Trout]] and [[Tilapia Hybrids]]. The study aimed to...
+> -- *[[SportFishProductionAndProducti_20981]]*
+
+> This is a draft summary, circulated by a US Fish and Wildlife Service (FWS) Region 6 program director on May 5, 1989, of a two-day Management Group meeting of the Colorado River Recovery Implementation Program. The Program aims to recover endangered Colorado River fishes: [[Colorado Squawfish]],...
+> -- *[[AprilManagementGroupMeetingSum_21009]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -11279,6 +11588,15 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[SummaryReportSanCarlosApacheIn_19597]]
 - [[FindingsConclusionsAndRecommen_15791]]
 - [[FishesOfOklahoma_16566]]
+- [[AgencyReviewDraftYaquiFishesRe_13257]]
+- [[SurveyFindingsOnTheLakeGeorgeA_16244]]
+- [[WildlifeConflictsInRiparianMan_17945]]
+- [[ExperimentsWithWhiteCatfishAsA_18665]]
+- [[SummaryReportSanCarlosApacheIn_19599]]
+- [[GrowthOfFreshwaterDrumInOklaho_19938]]
+- [[EffectOfAntimycinAOnTissueResp_20590]]
+- [[SportFishProductionAndProducti_20981]]
+- [[AprilManagementGroupMeetingSum_21009]]
 
 ## Channel Catfish Aquaculture
 <!-- fm: auto_enriched: true -->
@@ -11423,10 +11741,14 @@ Chanos chanos, commonly known as milkfish, is an economically important euryhali
 > - **Milkfish (*[[Chanos chanos]]*)**: Average growth of **1–1.36 kg per annum**. - **White carp (*[[Cirrhina cirrosa]]*)**: Growth rate described as "equally good" as milkfish. - **Catla (*[[Catla catla]]*)**: Exceptional individual growth — up to **10.43 kg in 2.5 years**, indicating a very fast...
 > -- *[[TheLimnologyPrimaryProductionA_14690]]*
 
+> This 1978 study by Stephen J.M. Blaber (University of Natal) documents the fish fauna of the Kosi system, a set of four connected coastal basins in KwaZulu-Natal, South Africa, that drain to the Indian Ocean through a usually open estuary. Quantitative sampling was carried out at 2 to 3 month...
+> -- *[[FishesOfTheKosiSystem_17663]]*
+
 ### Mentioned In
 - [[FishResourcesOfDhofarKhawrsCoa_18793]]
 - [[TheDistributionOfTheFreshwater_1979]]
 - [[TheLimnologyPrimaryProductionA_14690]]
+- [[FishesOfTheKosiSystem_17663]]
 
 ## Chao
 
@@ -11455,6 +11777,18 @@ The Chao estimator is a two-visit mark-recapture method calculated as N̂ = (M+n
 
 ### Mentioned In
 - [[FoodHabitsOfTheLarvalTigerSala_12865]]
+
+## Chaoborinae
+
+### Summary
+Chaoborinae is a mosquito subfamily that the source describes as non-biting, midge-like forms. In Illinois it is represented by the genera Chaoborus, Corethrella, and Mochlonyx, and Eucorethra is noted as widespread north of the state but unrecorded in Illinois.
+
+### Context
+> Herbert H. Ross's 1947 Illinois Natural History Survey bulletin (Volume 24, Article 1) provides illustrated keys, descriptions, and distribution and habitat summaries for the mosquitoes of Illinois. Of about 150 mosquito species known from the United States and Canada, 52 have been recorded in...
+> -- *[[TheMosquitoesOfIllinoisDiptera_21083]]*
+
+### Mentioned In
+- [[TheMosquitoesOfIllinoisDiptera_21083]]
 
 ## Chaoborus
 <!-- fm: auto_enriched: true -->
@@ -11613,6 +11947,18 @@ Chapman's Estimator is a bias-corrected version of the mark-recapture ratio esti
 
 ### Mentioned In
 - [[ReducingEffectsOfDispersalOnTh_2018]]
+
+## Chappuis
+
+### Summary
+A researcher who first described both Attheyella pilosa (1929) and Attheyella carolinensis (1932). The source cites his original descriptions as the starting point for the taxonomic history of both species.
+
+### Context
+> This 1968 paper in the *Proceedings of the Biological Society of Washington* examines two harpacticoid copepods of the genus [[Attheyella]], [[Attheyella Pilosa]] and [[Attheyella Carolinensis]], which live on [[Crayfish]] hosts in the eastern United States. The authors redescribe both species,...
+> -- *[[NotesOnTheHarpacticoidCopepods_17754]]*
+
+### Mentioned In
+- [[NotesOnTheHarpacticoidCopepods_17754]]
 
 ## Chappuis 1950
 <!-- fm: auto_enriched: true -->
@@ -12298,6 +12644,18 @@ Clothier was the author of this 1950 California Fish Bulletin (No. 79), which pr
 ### Mentioned In
 - [[AKeyToSomeSouthernCaliforniaFi_15959]]
 
+## Charles R. Goldman
+
+### Summary
+Limnologist at UC Davis who has studied Castle Lake's limnology since 1959. According to this source, his 1960 work found molybdenum to be the micronutrient limiting primary productivity in the lake, and his 1966 work attributed zooplankton increases in 1964-1965 to the molybdenum addition.
+
+### Context
+> In July 1963, 35 lb of sodium molybdate (containing 14 lb of molybdenum) were added to Castle Lake, California. Angler yields of [[Rainbow Trout]] in 1966 and [[Eastern Brook Trout]] in 1967 were then at record levels. Each year's yield was about 3.5 lb per acre above the 1960-1965 mean (12.8...
+> -- *[[InfluenceOfMolybdenumOnTheTrou_17593]]*
+
+### Mentioned In
+- [[InfluenceOfMolybdenumOnTheTrou_17593]]
+
 ## Charleston
 
 ### Summary
@@ -12825,6 +13183,18 @@ Chemical Abstracts is a major indexing and abstracting service covering chemical
 - [[ListOfCurrentFisheriesAndWildl_20304]]
 - [[BibliographyOnTheBloodChemistr_14517]]
 
+## Chemical Composition
+
+### Summary
+The nutritional makeup of candidate feed ingredients. The authors used it, along with availability, appearance and price, to reject rice bran, alfalfa and oat meals and to choose the meals used in the trial.
+
+### Context
+> This 1965 article from the *Boletín de Piscicultura Rural*, published by the Mexican [[Secretaría de Industria y Comercio]] through the [[Dirección General de Pesca e Industrias Conexas]] and the [[Instituto Nacional de Investigaciones Biológico-Pesqueras]], reports preliminary work on a cheap,...
+> -- *[[UnaManeraSencillaYEconomicaDeA_11373]]*
+
+### Mentioned In
+- [[UnaManeraSencillaYEconomicaDeA_11373]]
+
 ## Chemical Eradication
 
 ### Summary
@@ -12888,6 +13258,18 @@ Chemical Waste Management Inc. v. EPA (869 F.2d 1526, D.C. Cir. 1989) was a cour
 
 ### Mentioned In
 - [[ExplanationOfSnailDiversityAnd_15845]]
+
+## Chen and Ebeling (1968)
+
+### Summary
+A cited study that reported sexual karyotypic dimorphism in Gambusia affinis. The source contrasts that finding with its own result of no karyotypic sexual dimorphism in the two study species.
+
+### Context
+> This 1969 cytological study by [[Michael Lieppman]] and [[Clark Hubbs]] (University of Texas at Austin) examines two Texas minnows, [[Notemigonus Crysoleucas]] ([[Golden Shiner]]) and [[Notropis Lutrensis]] ([[Red Shiner]]). Both species have a diploid chromosome number of 2n = 50, but their...
+> -- *[[AKaryologicalAnalysisOfTwoCypr_20325]]*
+
+### Mentioned In
+- [[AKaryologicalAnalysisOfTwoCypr_20325]]
 
 ## Chen Huibin
 
@@ -13198,6 +13580,18 @@ Chester Buchanan served as the Fish and Wildlife Service liaison between the cui
 
 ### Mentioned In
 - [[MinutesCuiuiRecoveryTeamMeetin_13867]]
+
+## Chester C. Buchanan
+
+### Summary
+Co-author of this 1988 report, affiliated with the U.S. Fish and Wildlife Service. He and Thomas A. Strekal developed the simulated water management and evaluation procedures for cui-ui described in the note.
+
+### Context
+> This 1988 report by [[Chester C. Buchanan]] (U.S. Fish and Wildlife Service) and [[Thomas A. Strekal]] (U.S. Bureau of Reclamation) documents two computer subroutines added to the [[Truckee-Carson Hydrologic Model]]: the [[Stampede Subroutine]], which schedules releases from [[Stampede Reservoir]]...
+> -- *[[SimulatedWaterManagementAndEva_13864]]*
+
+### Mentioned In
+- [[SimulatedWaterManagementAndEva_13864]]
 
 ## Chestnut Lamprey
 <!-- fm: auto_enriched: true -->
@@ -13604,6 +13998,12 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 > This 1971 prospectus from [[Arizona State University]]'s [[Colorado River Basin Research Laboratory]] outlines a comprehensive, multi-year research program to assess environmental impacts of the [[Central Arizona Project]] (CAP). The CAP represents one of the most ambitious water transfer projects...
 > -- *[[EnvironmentalImpactsOfTheCentr_15862]]*
 
+> This data sheet, from the WWF/IUCN *Centres of Plant Diversity* series (Volume 3, The Americas), describes the [[Cuatro Ciénegas Basin]] in Coahuila, northern Mexico. The c. 2000 km² region is a closed-drainage intermontane basin within the eastern [[Chihuahuan Desert]], and its warm springs,...
+> -- *[[CentresOfPlantDiversityAGuideA_18340]]*
+
+> This 1980 taxonomic paper, by Michael Leonard Smith and Robert Rush Miller and published in the *Proceedings of the Biological Society of Washington* (93(2): 405-416), describes *[[Cyprinodon Fontinalis]]*, a new [[Pupfish]] species from a cluster of springs in the endorheic [[Guzman Basin]] of...
+> -- *[[SystematicsAndVariationOfANewC_21189]]*
+
 ### Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[ButterfliesFromCoahuilaMexico_1968]]
@@ -13630,6 +14030,8 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 - [[DesertFishesCouncilThirteenthA_12827]]
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[EnvironmentalImpactsOfTheCentr_15862]]
+- [[CentresOfPlantDiversityAGuideA_18340]]
+- [[SystematicsAndVariationOfANewC_21189]]
 
 ## Chihuahuan Desert (Mexico)
 <!-- fm: auto_enriched: true -->
@@ -13909,6 +14311,18 @@ Chimbo-Chan Chan is a river basin that is part of the larger Guayas drainage sys
 ### Mentioned In
 - [[OnANewSpeciesOfFishesFromColom_15807]]
 
+## Chimbote
+
+### Summary
+Chimbote is a Peruvian coastal port city. The source reports a 1964 minimum anchovy oil content of 4% there, and notes that merluza concentrations were commercially suitable between Chimbote and Paita.
+
+### Context
+> This chapter (Chapter 26 of *Fish Oils*, reprinted as U.S. Bureau of Commercial Fisheries Circular 282, December 1967) by J. R. Sanchez Torres of the Instituto del Mar del Peru describes the fish oil industry in South America, focusing on Peru. Peru has been the world's largest fish oil producer...
+> -- *[[FishOilIndustryInSouthAmerica_20503]]*
+
+### Mentioned In
+- [[FishOilIndustryInSouthAmerica_20503]]
+
 ## Chimits
 
 ### Summary
@@ -13965,6 +14379,18 @@ The China Sea (specifically the northern China Sea off southern Luzon) is a mari
 ### Mentioned In
 - [[TheHydrographicAndFaunalIndepe_19989]]
 
+## China Wash Electrical Fish Barrier
+
+### Summary
+An electrical barrier on the Central Arizona Project canal system that is one of the existing safeguards against non-native fish moving toward the Gila River. The source says Reclamation questions whether it should be discontinued, given the apparently low threat identified by the draft study and by Minckley, and weighed against its operation, maintenance and safety costs. It also asks whether the barrier should be maintained for the project's life or reevaluated periodically.
+
+### Context
+> This is a January 1991 transmittal letter from the Bureau of Reclamation (Arizona Projects Office) to Dr. Bill Matter (University of Arizona). It forwards agency and expert comments on the draft report "Potential for Transfer of Non-native Fish in Central Arizona Project Canal Waters to the Gila...
+> -- *[[ReviewOfTheDraftReportPotentia_13378]]*
+
+### Mentioned In
+- [[ReviewOfTheDraftReportPotentia_13378]]
+
 ## China-Clay
 
 ### Summary
@@ -14008,8 +14434,12 @@ Chinese Carps are a group of freshwater fish species important in aquaculture. T
 > This FAO Fisheries Circular (No. 724 Revision 2) is a comprehensive bibliographic compilation of 255 selected reference books and monographs on freshwater aquaculture published between 1951 and 1984. Compiled by André G. Coche of the [[Inland Water Resources and Aquaculture Service]], the document...
 > -- *[[AquacultureInFreshWatersAListO_15987]]*
 
+> This document is FAO Fisheries Circular No. 924 (FIRI/C924), compiled by André G. Coche and published by the [[Food and Agriculture Organization]] in Rome in 1997. It is a bibliographical index of about 600 selected FAO documents on [[Aquaculture]] published between January 1960 and March 1997. It...
+> -- *[[AnIndexedListOfFaoPublications_16312]]*
+
 ### Mentioned In
 - [[AquacultureInFreshWatersAListO_15987]]
+- [[AnIndexedListOfFaoPublications_16312]]
 
 ## Chinese Grass Carp
 <!-- fm: auto_enriched: true -->
@@ -14390,6 +14820,9 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 > This document is a compilation of materials for a West Turkey Creek (WTC) watershed project in Cochise County, Arizona. It contains (1) a U.S. Fish and Wildlife Service (USFWS) Environmental Assessment/Habitat Conservation Plan (EA/HCP) for a 25-year [[Section 10(a)(1)(B) Incidental Take Permit]]...
 > -- *[[ApplicationForWestTurkeyCreekW_12162]]*
 
+> This 1896 paper (California Academy of Sciences) reports on three small collections of Pacific-slope freshwater fishes from Mexico and Arizona. Part I covers the [[Rio Yaqui]] basin, based on collections by Dr. Gustav Eisen at [[Hermosillo]] and Mr. William Wightman Price in the Yaqui headwaters....
+> -- *[[TheFishesOfTheRioYaquiSonoraWi_21122]]*
+
 ### Mentioned In
 - [[AshmunellaAngulataEsuritorLent_18478]]
 - [[ChiricahuaRegionalCouncilNewsl_16142]]
@@ -14410,6 +14843,7 @@ The Chiricahua Mountains represent a critical "sky island" mountain ecosystem in
 - [[TwoNewSpeciesOfSonorellaGastro_16304]]
 - [[SomeCretaceoustertiaryRelation_16838]]
 - [[ApplicationForWestTurkeyCreekW_12162]]
+- [[TheFishesOfTheRioYaquiSonoraWi_21122]]
 
 ## Chiricahua Mountains Aquatic Habitat
 <!-- fm: auto_enriched: true -->
@@ -14625,6 +15059,15 @@ Chironomidae, commonly known as midges or non-biting midges, are a family of sma
 > The U.S. Fish and Wildlife Service's September 1991 [[Recovery Plan]] for the [[Spikedace]] (*Meda fulgida*), a threatened [[Cyprinidae|cyprinid]] fish, addresses a species extirpated from most of its historic range in the [[Gila River Basin]]. Remaining populations occur in the upper Gila River in...
 > -- *[[SpikedaceMedaFulgidaRecoveryPl_11598]]*
 
+> This University of Toronto Studies monograph (Biological Series No. 56, Ontario Fisheries Research Laboratory Publication No. 69, 1947) by Wm. M. Sprules reports a four-year ecological investigation (1938–1941) of stream insects in the Mud Creek and Madawaska River system of [[Algonquin Park]],...
+> -- *[[AnEcologicalInvestigationOfStr_11870]]*
+
+> This 1956-era report by the Florida Game and Fresh Water Fish Commission, compiled under Chief of Fisheries [[Don Luethy]], assesses the fishery of [[Lake George]] and the adjoining [[St. Johns River]] (Volusia Bar to Buffalo Bluff). It combines multiple sampling methods (haul seine, otter trawl,...
+> -- *[[SurveyFindingsOnTheLakeGeorgeA_16244]]*
+
+> A 1965 survey was carried out in the Colne Valley, near the Maple Lodge sewage works, an area with a history of complaints about swarms of the non-biting midge [[Chironomus riparius]]. Larval densities in the water courses, previously very high, were now low (average below 10,000/m² at all...
+> -- *[[TheDistributionOfTheMidgeChiro_20216]]*
+
 ### Mentioned In
 - [[ComparativeEcologyOfNotropisAl_14679]]
 - [[DifferencesInLittoralFaunaDueT_1972]]
@@ -14648,6 +15091,9 @@ Chironomidae, commonly known as midges or non-biting midges, are a family of sma
 - [[WhatIsIt_12800]]
 - [[DistributionAndAbundanceOfBent_13853]]
 - [[SpikedaceMedaFulgidaRecoveryPl_11598]]
+- [[AnEcologicalInvestigationOfStr_11870]]
+- [[SurveyFindingsOnTheLakeGeorgeA_16244]]
+- [[TheDistributionOfTheMidgeChiro_20216]]
 
 ## Chironomus
 <!-- fm: auto_enriched: true -->
@@ -14682,6 +15128,18 @@ This concept name appears in the list but is not mentioned or discussed in the s
 
 ### Mentioned In
 - [[ProgressReportOfTheCultureOfTi_14692]]
+
+## Chironomus Larvae
+
+### Summary
+The larval stage of non-biting midges, a common aquatic insect that lives on the bottom. In this impoundment they were the predominant food organism, making up 90% of an estimated annual benthic production of 1,160 kg per hectare and serving as the main food base for the fish.
+
+### Context
+> This thesis, from a Department of Biological Sciences, evaluated whether [[Reclaimed Wastewater]] treated by [[Sand Filtration]] (tertiary treatment) could support a [[Sport Fishery]]. Three fish were tested: [[Channel Catfish]], [[Rainbow Trout]] and [[Tilapia Hybrids]]. The study aimed to...
+> -- *[[SportFishProductionAndProducti_20981]]*
+
+### Mentioned In
+- [[SportFishProductionAndProducti_20981]]
 
 ## Chironomus Plumosus
 <!-- fm: auto_enriched: true -->
@@ -14723,12 +15181,16 @@ Chironomus riparius, commonly known as the midge or chironomid, is a benthic inv
 > This paper describes research conducted at the [[Water Pollution Research Laboratory]] in Stevenage, England, examining how rooted aquatic plants and benthic macro-invertebrates affect the oxygen balance in small streams. The study develops and applies methods for measuring photosynthesis,...
 > -- *[[SomeEffectsOfPlantsAndAnimalsO_15778]]*
 
+> A 1965 survey was carried out in the Colne Valley, near the Maple Lodge sewage works, an area with a history of complaints about swarms of the non-biting midge [[Chironomus riparius]]. Larval densities in the water courses, previously very high, were now low (average below 10,000/m² at all...
+> -- *[[TheDistributionOfTheMidgeChiro_20216]]*
+
 ### Mentioned In
 - [[PolarographicMeasurementOfTheR_12575]]
 - [[TheEffectOfLarvaeOfChironomusR_15777]]
 - [[TheEffectsOfBiologicalCommunit_12165]]
 - [[TheEffectsOfOrganismsOnPolluti_12169]]
 - [[SomeEffectsOfPlantsAndAnimalsO_15778]]
+- [[TheDistributionOfTheMidgeChiro_20216]]
 
 ## Chironomus Zone
 <!-- fm: auto_enriched: true -->
@@ -15017,11 +15479,15 @@ Chlorella is a green alga that formed blooms in the ORNL settling basin and demo
 > This laboratory study investigated feeding behavior patterns in the [[Algae-eater]] (*Gyrinocheilus ayomonieri*), a tropical freshwater grazer. Two experiments examined: (1) preferences between green algae ([[Chlorella]]) and blue-green algae ([[Oscillatoria]]), and (2) preferences between high and...
 > -- *[[LaboratoryFoodPatchExploitatio_17130]]*
 
+> This 1964 Oklahoma State University doctoral dissertation in Zoology by [[John Lawrence Butler]] examines how water exchange, turbidity, dissolved solids, temperature and light control primary productivity in farm ponds and in laboratory [[Microecosystem]] studies. Field work on [[Myers Ponds]] and...
+> -- *[[InteractionOfEffectsByEnvironm_14113]]*
+
 ### Mentioned In
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
 - [[FurtherStudiesOnTheMetalimneti_15723]]
 - [[CalorificEquivalentsForStudies_18098]]
 - [[LaboratoryFoodPatchExploitatio_17130]]
+- [[InteractionOfEffectsByEnvironm_14113]]
 
 ## Chlorella pyrenoidosa
 
@@ -15826,6 +16292,18 @@ An accident on July 16, 1989 that released about 100 million gallons of uranium 
 ### Mentioned In
 - [[PreliminaryLimnologicInformati_1968_12_31]]
 
+## Churince River
+
+### Summary
+A river in the Cuatro Ciénegas Basin that runs into Laguna Grande. The source lists it among the basin's seven major above-ground drainage systems, and it lies within the Laguna Grande–Laguna Churince complex, which has about 12 endemics.
+
+### Context
+> This data sheet, from the WWF/IUCN *Centres of Plant Diversity* series (Volume 3, The Americas), describes the [[Cuatro Ciénegas Basin]] in Coahuila, northern Mexico. The c. 2000 km² region is a closed-drainage intermontane basin within the eastern [[Chihuahuan Desert]], and its warm springs,...
+> -- *[[CentresOfPlantDiversityAGuideA_18340]]*
+
+### Mentioned In
+- [[CentresOfPlantDiversityAGuideA_18340]]
+
 ## Chuska Mountains
 
 ### Summary
@@ -16432,10 +16910,14 @@ Cichlids are a highly diverse family of freshwater fish (Cichlidae) characterize
 > 2. **Sexual selection maintains reproductive isolation** ([[Seehausen et al. 1997]]): Female mate choice for specific male colors (blue vs. red/yellow) maintains species boundaries between sympatric, closely related [[Cichlid]] species. Under monochromatic experimental lighting (masking color), f...
 > -- *[[WhyAreThereSoManyCichlidSpecie_16893]]*
 
+> George W. Barlow (University of California, Berkeley) argues that the thin, interorbital "split-head" color stripe seen in many fishes is a concealment device that breaks up the frontal outline of a predator as it approaches prey. The argument is developed mainly with the South American [[Leaf...
+> -- *[[TheFunctionalSignificanceOfThe_15589]]*
+
 ### Mentioned In
 - [[BiologicalInvasionsLessonsForE_16179]]
 - [[TheYellowPerchInvadesTexas_14207]]
 - [[WhyAreThereSoManyCichlidSpecie_16893]]
+- [[TheFunctionalSignificanceOfThe_15589]]
 
 ## Cichlid Pharyngeal Jaw Apparatus
 <!-- fm: auto_enriched: true -->
@@ -16824,11 +17306,15 @@ Cienega Spring is one of 16 existing water sources at San Bernardino National Wi
 > This recovery plan addresses four federally listed fish species from the [[Rio Yaqui Basin]]: two endangered species—[[Yaqui Chub]] (*Gila purpurea*) and [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*)—and two threatened species—[[Yaqui Catfish]] (*Ictalurus pricei*) and [[Beautiful...
 > -- *[[DraftRecoveryPlanForTheEndange_11645]]*
 
+> This agency review draft, prepared by the U.S. Fish and Wildlife Service (Region 2, Albuquerque), is a recovery plan for three federally listed fishes of the upper [[Rio Yaqui Basin]]: the [[Yaqui Chub]] (*Gila purpurea*, endangered), the [[Beautiful Shiner]] (*Notropis formosus*, threatened) and...
+> -- *[[AgencyReviewDraftYaquiFishesRe_13257]]*
+
 ### Mentioned In
 - [[PetitionToListTheGilaChubGilaI_11805]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[DraftRecoveryPlanForTheEndange_15977]]
 - [[DraftRecoveryPlanForTheEndange_11645]]
+- [[AgencyReviewDraftYaquiFishesRe_13257]]
 
 ## CIFRI
 
@@ -17082,11 +17568,15 @@ CITES (the Convention on International Trade in Endangered Species of Wild Fauna
 > This document is a comprehensive member's guide for the [[IUCN]] [[Species Survival Commission]] (SSC) covering the 1994-1996 triennium. The SSC is described as the largest global network of volunteer experts working for species conservation, comprising approximately 5,000 members in 170 countries....
 > -- *[[SpeciesSurvivalCommissionAMemb_14399]]*
 
+> This document is a set of 1986 correspondence and a U.S. Embassy telegram describing how U.S. scientists must obtain [[Mexican Scientific Research Permits]] before conducting fieldwork in Mexico. It covers the U.S. Fish and Wildlife Service's procedural guidance, a June 1986 meeting between the...
+> -- *[[MexicanPermits_20832]]*
+
 ### Mentioned In
 - [[InvitaciónALaReuniónDelComitéC_13115]]
 - [[ProceduresForObtainingMexicanP_20830]]
 - [[ReportFromWashingtonEndangered_11988]]
 - [[SpeciesSurvivalCommissionAMemb_14399]]
+- [[MexicanPermits_20832]]
 
 ## Cites Convention
 <!-- fm: auto_enriched: true -->
@@ -17453,6 +17943,9 @@ Cladophora glomerata is a filamentous green alga commonly found in freshwater ec
 > This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
 > -- *[[GlenCanyonEnvironmentalStudies_19719]]*
 
+> This is a compiled review packet. It opens with a 4 April 1990 cover letter from GCES Senior Scientist Duncan T. Patten asking W. L. Minckley for a two-week review of research proposals. The letter asks reviewers to judge whether each proposal addresses its hypothesis and whether its design tests...
+> -- *[[ReviewOfGcesResearchProposalsA_18453]]*
+
 ### Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[NonLethalStomachPumpingTechniq_1992_08_10]]
@@ -17463,6 +17956,7 @@ Cladophora glomerata is a filamentous green alga commonly found in freshwater ec
 - [[FishAndWildlifeResourcesAndOpe_20151]]
 - [[FishAndWildlifeResourcesAndOpe_11858]]
 - [[GlenCanyonEnvironmentalStudies_19719]]
+- [[ReviewOfGcesResearchProposalsA_18453]]
 
 ## Cladophora-Asellus Zone
 <!-- fm: auto_enriched: true -->
@@ -17681,6 +18175,9 @@ I appreciate your question, but I must be honest that based on the information p
 > This research proposal by James Everett Deacon (Associate Professor, Nevada Southern University) seeks funding to conduct comprehensive limnological surveys of spring systems in Nevada, particularly the [[Pluvial White River System]], [[Moapa Valley]], and [[Ash Meadows]]. The proposal addresses...
 > -- *[[TheLimnologyOfDesertSprings_13994]]*
 
+> This 1969 cytological study by [[Michael Lieppman]] and [[Clark Hubbs]] (University of Texas at Austin) examines two Texas minnows, [[Notemigonus Crysoleucas]] ([[Golden Shiner]]) and [[Notropis Lutrensis]] ([[Red Shiner]]). Both species have a diploid chromosome number of 2n = 50, but their...
+> -- *[[AKaryologicalAnalysisOfTwoCypr_20325]]*
+
 ### Mentioned In
 - [[CulturingFruitFliesDrosophilaA_14269]]
 - [[LifeHistoryStudiesOfThePahrump_1964_01_01]]
@@ -17688,6 +18185,7 @@ I appreciate your question, but I must be honest that based on the information p
 - [[RecordsOfMenidiaBery_13348]]
 - [[ReviewLetterStrawberryValleyEn_14234]]
 - [[TheLimnologyOfDesertSprings_13994]]
+- [[AKaryologicalAnalysisOfTwoCypr_20325]]
 
 ## Clark Hubbs 1954
 <!-- fm: auto_enriched: true -->
@@ -17943,6 +18441,9 @@ The Clean Water Act, particularly Section 404, is a federal statute that regulat
 > This legal analysis examines the comprehensive federal and state environmental regulatory framework governing the domestic copper mining industry in the United States as of the early 1990s. The document focuses on major environmental statutes including the [[Resource Conservation and Recovery Act]]...
 > -- *[[OverviewOfEnvironmentalRegulat_18083]]*
 
+> This U.S. Geological Survey state summary describes stream water quality in Arizona. Data come from 13 monitoring stations. Ten stations are used for conditions in water years 1987-89, and all 13 for trends. Irrigation return flow, mine drainage, sewage effluent, and urban runoff degrade water...
+> -- *[[ArizonaStreamWaterQuality_19603]]*
+
 ### Mentioned In
 - [[DesertFishesCouncilLetterToSec_1990_06_06]]
 - [[FaxogramRegardingAravaipaCreek_1990_12_19]]
@@ -17956,6 +18457,7 @@ The Clean Water Act, particularly Section 404, is a federal statute that regulat
 - [[AnIndustryViewOfTheRegulationO_12522]]
 - [[AmericanRiversScientificAndTec_15167]]
 - [[OverviewOfEnvironmentalRegulat_18083]]
+- [[ArizonaStreamWaterQuality_19603]]
 
 ## Clean Water Act Section 404
 <!-- fm: auto_enriched: true -->
@@ -18089,6 +18591,12 @@ Clear Lake, Iowa is a shallow, turbid freshwater lake characterized by limited w
 > This 1956 report by J. B. Kimsey of the [[California Department of Fish and Game]] (Inland Fisheries Branch) evaluates six types of external tags for [[Largemouth Bass]] (*Micropterus salmoides*), tested in the field at [[Clear Lake]] and in aquaria and hatchery ponds. The study was motivated by...
 > -- *[[LargemouthBassTagging_12531]]*
 
+> This paper, by George W. McCammon, Don LaFaunce and Charles M. Seeley of the [[California Department of Fish and Game]] Inland Fisheries Branch, compares four August food habit studies of young-of-the-year [[Largemouth Bass]] (fingerlings) in [[Clear Lake]]. The 1948 study had proposed that the...
+> -- *[[ObservationsOnTheFoodOfFingler_12249]]*
+
+> This 1966 study (Dingell-Johnson Project F-18-R) uses scales to determine age and growth of [[Largemouth Bass]], [[Smallmouth Bass]], [[Bluegill]] and [[Red-ear Sunfish]] in [[Folsom Lake]] during the first 7 years after impoundment (1955-1961). Largemouth bass grew slightly faster than smallmouth...
+> -- *[[TheAgeAndGrowthOfCentrarchidFi_13538]]*
+
 ### Mentioned In
 - [[ASimpleTransportableLakeShocke_1966]]
 - [[AgeAndGrowthOfLargemouthBassIn_1964]]
@@ -18112,6 +18620,8 @@ Clear Lake, Iowa is a shallow, turbid freshwater lake characterized by limited w
 - [[AuthortitleIndexToInlandFisher_14367]]
 - [[AContributionToTheLifeHistoryO_15523]]
 - [[LargemouthBassTagging_12531]]
+- [[ObservationsOnTheFoodOfFingler_12249]]
+- [[TheAgeAndGrowthOfCentrarchidFi_13538]]
 
 ## Clear Lake (California)
 <!-- fm: auto_enriched: true -->
@@ -18326,9 +18836,13 @@ The Clearwater River is a major tributary system in north-central Idaho that ser
 > - **Diagnostic generic trait:** *Awaous* is distinguished from other gobiids by one to five (usually two or three) fleshy lappets projecting under the operculum from the edge of the [[Cleithrum]]. - **Sensory structures:** Watson (1992) documented distinctive, extensive development of sensory pap...
 > -- *[[MemorandumOnAmericanRiverGobie_1993_02_19]]*
 
+> This archaeoichthyological study by W. I. Follett, published in the 1964 Annual Report of the [[Archaeological Survey]] at the University of California, Los Angeles, examines 64 fish remains from site [[Mrn-307]], a shellmound on the east shore of [[Estero de Limantour]] in [[Drakes Bay]], Marin...
+> -- *[[FishRemainsFromASixteenthCentu_18757]]*
+
 ### Mentioned In
 - [[GuideToTheMusclesOfBonyFishesE_12904]]
 - [[MemorandumOnAmericanRiverGobie_1993_02_19]]
+- [[FishRemainsFromASixteenthCentu_18757]]
 
 ## Clejdodiscus
 <!-- fm: auto_enriched: true -->
@@ -18349,6 +18863,18 @@ The Clearwater River is a major tributary system in north-central Idaho that ser
 
 ### Mentioned In
 - [[StomachContentsOfAdultStarryFl_15271]]
+
+## Clement W. Meighan
+
+### Summary
+Clement W. Meighan was a researcher at the University of California, Los Angeles who collected the fish remains from Mrn-307. He was planning a detailed site report, which Follett's paper was meant to accompany.
+
+### Context
+> This archaeoichthyological study by W. I. Follett, published in the 1964 Annual Report of the [[Archaeological Survey]] at the University of California, Los Angeles, examines 64 fish remains from site [[Mrn-307]], a shellmound on the east shore of [[Estero de Limantour]] in [[Drakes Bay]], Marin...
+> -- *[[FishRemainsFromASixteenthCentu_18757]]*
+
+### Mentioned In
+- [[FishRemainsFromASixteenthCentu_18757]]
 
 ## Cleopatra's Couch
 
@@ -18542,6 +19068,18 @@ The Clifton Ranger District is an administrative unit of the Apache-Sitgreaves N
 
 ### Mentioned In
 - [[BiologicalOpinionForReroutingO_11747]]
+
+## Clifton-Morenci Area
+
+### Summary
+The Clifton-Morenci Area is a region of southeastern Arizona. The source describes the Frasnian positive element as extending east and northeast from Winkelman to this area, which is where the Frasnian high reached its northeastern limit.
+
+### Context
+> This 1976 *Arizona Geological Society Digest* paper by Schumacher, Witter, Meader and Keith (Department of Geosciences, University of Arizona) reconstructs Late Devonian structural change in southeastern Arizona. The authors compare [[Isopach Mapping|isopach maps]] of the Frasnian [[Martin...
+> -- *[[LateDevonianTectonismInSouthea_11282]]*
+
+### Mentioned In
+- [[LateDevonianTectonismInSouthea_11282]]
 
 ## Climate Analysis Center Modified Palmer Drought Index
 
@@ -19255,6 +19793,12 @@ The Coachwhip (Masticophis flagellum) is a snake species found in desert habitat
 > A 1936 field report by Ernest G. Marsh Jr., a Student Naturalist Technician working for the [[National Park Service]], documents a biological survey of the [[Sierra del Carmen]] and [[Santa Rosa Mountains]] in northern [[Coahuila]], Mexico. The survey lay across the [[Rio Grande]] from the [[Big...
 > -- *[[BiologicalSurveyOfTheSantaRosa_19383]]*
 
+> This is a data package, not a research paper. A cover letter dated 2 November 1984 from the University of Arizona Laboratory of Tree-Ring Research was sent to Mr. Dave E. Brown of the Zoology Department at Arizona State University. It encloses temperature and precipitation data for Mexican...
+> -- *[[TemperatureAndPrecipitationDat_12376]]*
+
+> This 1969 taxonomic paper by [[W. L. Minckley]] and Gerald L. Lytle (Arizona State University) formally describes *Notropis xanthicara*, the [[Cuatro Ciénegas Shiner]], a cyprinid minnow endemic to the [[Cuatro Ciénegas Basin]] in [[Coahuila]], Mexico. The species is most closely related to, and...
+> -- *[[NotropisXanthicaraANewCyprinid_15877]]*
+
 ### Mentioned In
 - [[BehindTheScenesBeingThereNatio_1995_05_17]]
 - [[DouglasMexicanTemperaturePreci_12378]]
@@ -19268,6 +19812,8 @@ The Coachwhip (Masticophis flagellum) is a snake species found in desert habitat
 - [[SaleOfLandInLasTortugasNearThe_12870]]
 - [[ProgramaDeAccionEmergenteParaE_19472]]
 - [[BiologicalSurveyOfTheSantaRosa_19383]]
+- [[TemperatureAndPrecipitationDat_12376]]
+- [[NotropisXanthicaraANewCyprinid_15877]]
 
 ## Coahuila Archaeology
 <!-- fm: auto_enriched: true -->
@@ -19348,6 +19894,18 @@ A creek in Arizona sampled as a Gila topminnow population. In this study it clus
 
 ### Mentioned In
 - [[RiverPollutionBiologicalEffect_14557]]
+
+## Coast Miwok
+
+### Summary
+The Coast Miwok are the Native people whose territory included Drakes Bay, where the Mrn-307 site lies. The source places the occupants of the 1450–1600 A.D. shellmound within this territory.
+
+### Context
+> This archaeoichthyological study by W. I. Follett, published in the 1964 Annual Report of the [[Archaeological Survey]] at the University of California, Los Angeles, examines 64 fish remains from site [[Mrn-307]], a shellmound on the east shore of [[Estero de Limantour]] in [[Drakes Bay]], Marin...
+> -- *[[FishRemainsFromASixteenthCentu_18757]]*
+
+### Mentioned In
+- [[FishRemainsFromASixteenthCentu_18757]]
 
 ## Coast Range
 
@@ -20318,8 +20876,13 @@ A cited work on hydrogen-ion concentration and fishes in tributaries of the Cata
 ## Colchicine
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1969 cytological study by [[Michael Lieppman]] and [[Clark Hubbs]] (University of Texas at Austin) examines two Texas minnows, [[Notemigonus Crysoleucas]] ([[Golden Shiner]]) and [[Notropis Lutrensis]] ([[Red Shiner]]). Both species have a diploid chromosome number of 2n = 50, but their...
+> -- *[[AKaryologicalAnalysisOfTwoCypr_20325]]*
+
 ### Mentioned In
 - [[TechniqueForPreparingChromosom_1971_08_01]]
+- [[AKaryologicalAnalysisOfTwoCypr_20325]]
 
 ## Cold Acclimation
 <!-- fm: auto_enriched: true -->
@@ -20459,6 +21022,18 @@ The ability of a fish to survive and feed at low water temperatures. The source 
 ### Mentioned In
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
 
+## Coldwater Darter
+
+### Summary
+Etheostoma ditrema, a darter historically present in Martin and Coldwater springs. Only three specimens were found in the Coldwater Spring effluent, and two new localities (Smart and Todd springs) were located; it is classed as threatened and a species of special concern.
+
+### Context
+> This Southeastern Fishes Council survey documents the fish fauna of springs and spring-fed creeks in [[Calhoun County]], Alabama. Sampling at 83 stations (May 1986 to February 1987, plus earlier collections from the [[Fort McClellan Military Reservation]]) yielded 45 species and 2 hybrids in 24...
+> -- *[[FishesOfSpringsAndSpringfedCre_19006]]*
+
+### Mentioned In
+- [[FishesOfSpringsAndSpringfedCre_19006]]
+
 ## Coldwater Fish
 <!-- fm: auto_enriched: true -->
 
@@ -20505,6 +21080,18 @@ The ability of a fish to survive and feed at low water temperatures. The source 
 
 ### Mentioned In
 - [[StationProfileOfWolf_1994]]
+
+## Coldwater Spring
+
+### Summary
+The largest spring in Calhoun County, with a minimum daily discharge of 32 million gallons. It is the type locality of the pygmy sculpin, where about 30 specimens were captured and released in September 1986, and historically held the coldwater darter.
+
+### Context
+> This Southeastern Fishes Council survey documents the fish fauna of springs and spring-fed creeks in [[Calhoun County]], Alabama. Sampling at 83 stations (May 1986 to February 1987, plus earlier collections from the [[Fort McClellan Military Reservation]]) yielded 45 species and 2 hybrids in 24...
+> -- *[[FishesOfSpringsAndSpringfedCre_19006]]*
+
+### Mentioned In
+- [[FishesOfSpringsAndSpringfedCre_19006]]
 
 ## Coldwater Stream Fish
 <!-- fm: auto_enriched: true -->
@@ -20617,6 +21204,18 @@ Coleman Creek is a tributary on the northeastern boundary of the Isabelle Timber
 
 ### Mentioned In
 - [[BiologicalOpinionOnTheEffectsT_11884]]
+
+## Coleman Goin
+
+### Summary
+A University of Florida scientist cited in the source as one of the experts who found no Smallmouth Bass in Florida. He is named as having examined the question alongside Dr. Lloyd Meehean.
+
+### Context
+> This 1949 article by John F. Dequine (reprinted from *Florida Wildlife*, Game & Fresh Water Fish Commission) addresses whether northern Smallmouth Bass occur in Florida. The author reports that, despite many claims of "record Smallmouth" catches, every fish he examined was a Florida Largemouth. No...
+> -- *[[IdentifyingTheFloridaBasses_12820]]*
+
+### Mentioned In
+- [[IdentifyingTheFloridaBasses_12820]]
 
 ## Coleman National Fish Hatchery
 <!-- fm: auto_enriched: true -->
@@ -21199,6 +21798,15 @@ The Colorado Environmental Coalition is an environmental advocacy organization t
 ### Mentioned In
 - [[NoticeOfViolationOfTheEsaConce_18645]]
 
+## Colorado Fishes Recovery Team
+
+### Context
+> This is a June 20, 1989 transmittal letter from the U.S. Fish and Wildlife Service (Phoenix Ecological Services) with an attached June 1, 1989 draft of seven conservation measures. The measures are actions that the [[Bureau of Reclamation]] would commit to in the biological opinion on operation of...
+> -- *[[DraftConservationMeasuresGlenC_11851]]*
+
+### Mentioned In
+- [[DraftConservationMeasuresGlenC_11851]]
+
 ## Colorado Game and Fish Department
 
 ### Summary
@@ -21301,6 +21909,12 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 
 > This FY-93 annual report documents hydrological support activities provided by the U.S. Fish and Wildlife Service Water Resources Division for the [[Colorado River Recovery Program]]. The project, ongoing since 1988, provides critical water temperature data collection, flow quantification, gage...
 > -- *[[FyAnnualProjectReportColoradoR_21154]]*
+
+> This draft supplement to the [[Razorback Sucker Recovery Plan]], prepared by SWCA, Inc. for the [[Upper Colorado River Recovery Program]] and the U.S. Fish and Wildlife Service (April 1, 2000), develops objective, measurable criteria for downlisting and delisting the endangered razorback sucker...
+> -- *[[RecoveryGoalsForRazorbackSucke_15075]]*
+
+> This is an April 13, 1990 cover letter from the Bureau of Land Management (BLM) Safford District to Dr. W. L. Minckley (Arizona State University). It summarizes the April 5, 1990 meeting of the Biological Resources Technical Committee in Tucson and encloses draft planned actions and management...
+> -- *[[SanPedroHabitatManagementPlan_17353]]*
 
 ### Mentioned In
 - [[ActingProgramDirector_1990_03_29]]
@@ -21496,6 +22110,8 @@ The Colorado Pikeminnow (Ptychocheilus lucius), formerly known as the Colorado S
 - [[PartEndangeredAndThreatenedWil_11572]]
 - [[PartEndangeredAndThreatenedWil_11597]]
 - [[FyAnnualProjectReportColoradoR_21154]]
+- [[RecoveryGoalsForRazorbackSucke_15075]]
+- [[SanPedroHabitatManagementPlan_17353]]
 
 ## Colorado Pikeminnow Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -22724,6 +23340,30 @@ The Colorado River is a major southwestern North American river system that serv
 > This paper by [[Robert Rush Miller]] and [[W. Daniel Sable]] examines the taxonomy of the chubs of the [[Gila Robusta Complex]] (family Cyprinidae) inhabiting the [[Colorado River]] basin and certain rivers in northwestern Mexico. The authors argue that the group has been confused by subjective,...
 > -- *[[SpeciesRelationshipsAmongFishe_21162]]*
 
+> This is a draft Preliminary Findings Report (PFR) from the Bureau of Reclamation (Lower Colorado Region) and the Las Vegas Valley Water District (LVVWD), circulated for a 30-day comment period ending April 30, 1993. It evaluates a dual-purpose project on the lower Virgin River in Nevada. The...
+> -- *[[DraftLowerVirginRiverProjectPr_11483]]*
+
+> This 1904 report from the [[New York Botanical Garden]], published in the *Journal of the New York Botanical Garden*, records a botanical collecting expedition across Texas, Arizona, Sonora, and Baja California. The party surveyed desert vegetation, descended the [[Colorado River]] by sloop from...
+> -- *[[BotanicalExplorationsInTheSout_12961]]*
+
+> This 1966 study (Dingell-Johnson Project F-18-R) uses scales to determine age and growth of [[Largemouth Bass]], [[Smallmouth Bass]], [[Bluegill]] and [[Red-ear Sunfish]] in [[Folsom Lake]] during the first 7 years after impoundment (1955-1961). Largemouth bass grew slightly faster than smallmouth...
+> -- *[[TheAgeAndGrowthOfCentrarchidFi_13538]]*
+
+> This 1980 study proposal, prepared by W. E. Loudermilk (Assistant Fishery Biologist, [[California Department of Fish and Game]] Region 5), seeks to fill major data gaps on the [[Razorback Sucker]], a declining native fish of the [[Colorado River]] drainage. The proposal covers juvenile and adult...
+> -- *[[AspectsOfJuvenileAndAdultRazor_16214]]*
+
+> Baker and Paulson describe how the saline, nutrient-rich [[Las Vegas Wash]] inflow forms a [[Density Current]] in [[Las Vegas Bay]], [[Lake Mead]], and how this current controls nutrient availability and [[Phytoplankton]] growth. The current acts as an underflow in winter, an interflow along the...
+> -- *[[InfluenceOfLasVegasWashDensity_17284]]*
+
+> This U.S. Geological Survey state summary describes stream water quality in Arizona. Data come from 13 monitoring stations. Ten stations are used for conditions in water years 1987-89, and all 13 for trends. Irrigation return flow, mine drainage, sewage effluent, and urban runoff degrade water...
+> -- *[[ArizonaStreamWaterQuality_19603]]*
+
+> This 1969 cytological study by [[Michael Lieppman]] and [[Clark Hubbs]] (University of Texas at Austin) examines two Texas minnows, [[Notemigonus Crysoleucas]] ([[Golden Shiner]]) and [[Notropis Lutrensis]] ([[Red Shiner]]). Both species have a diploid chromosome number of 2n = 50, but their...
+> -- *[[AKaryologicalAnalysisOfTwoCypr_20325]]*
+
+> This is an administrative packet from the U.S. Fish and Wildlife Service (FWS), Region 6, dated March 29, 1990. It announces an April 25, 1990 meeting of the Management Group of the [[Colorado River Recovery Implementation Committee]]. It contains an agenda, a memo from Program Director John Hamill...
+> -- *[[ColoradoRiverManagementGroupMe_21025]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -23407,6 +24047,14 @@ The Colorado River is a major southwestern North American river system that serv
 - [[AspinallUnitStudiesEvaluationO_20258]]
 - [[SeniorReclamationOfficialAppoi_20786]]
 - [[SpeciesRelationshipsAmongFishe_21162]]
+- [[DraftLowerVirginRiverProjectPr_11483]]
+- [[BotanicalExplorationsInTheSout_12961]]
+- [[TheAgeAndGrowthOfCentrarchidFi_13538]]
+- [[AspectsOfJuvenileAndAdultRazor_16214]]
+- [[InfluenceOfLasVegasWashDensity_17284]]
+- [[ArizonaStreamWaterQuality_19603]]
+- [[AKaryologicalAnalysisOfTwoCypr_20325]]
+- [[ColoradoRiverManagementGroupMe_21025]]
 
 ## Colorado River (Texas)
 <!-- fm: auto_enriched: true -->
@@ -23924,6 +24572,12 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
 > -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
 
+> This document is a cooperative agreement between the [[U.S. Fish and Wildlife Service]] (the Service) and the [[Smithsonian Institution]] to complete Phase I of a three-phase study of the taxonomy and systematics of the [[Humpback Chub]] (*Gila cypha*), the [[Bonytail Chub]] (*Gila elegans*), and...
+> -- *[[CooperativeAgreementBetweenThe_12073]]*
+
+> This feature article from the *River Report* (Summer 1998) examines recovery efforts for four endangered native fishes of the [[Colorado River Basin]]: the [[Razorback Sucker]], [[Bonytail Chub]], [[Humpback Chub]] and [[Colorado Squawfish]]. It frames the tension between endangered species...
+> -- *[[AnglingForAnswersTheQuestToSav_17167]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -24340,6 +24994,8 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[IsOurNativeUnderwaterLifeWorth_15341]]
 - [[OnThePlagopterinAndTheIchthyol_17578]]
 - [[CompilationOfRecordsOfSurfaceW_13211]]
+- [[CooperativeAgreementBetweenThe_12073]]
+- [[AnglingForAnswersTheQuestToSav_17167]]
 
 ## Colorado River Basin Ecology
 <!-- fm: auto_enriched: true -->
@@ -24515,12 +25171,16 @@ The Colorado River Basin Project Act (P.L. 90-537) is the primary legal authorit
 > This document is a [[Bureau Of Reclamation]] public-information brochure describing the planned [[Central Arizona Project]] (CAP), a large water-importation scheme authorized by the [[Colorado River Basin Project Act]] (Public Law 90-537, September 30, 1968) but not yet constructed. The project...
 > -- *[[CentralArizonaProject_13261]]*
 
+> This July 1998 internal-review draft by the [[Bureau of Reclamation]] (lead agency; [[Bureau of Indian Affairs]] and [[U.S. Fish and Wildlife Service]] cooperating) evaluates building two concrete drop-structure fish barriers on lower [[Aravaipa Creek]]. The barriers are required under the 1994...
+> -- *[[PreliminaryDraftEnvironmentalA_11754]]*
+
 ### Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[PublicMeetingsAnnoucnementAndP_11475]]
 - [[RealitiesOfProvidingWaterForEn_20669]]
 - [[ReviewOfTheDraftFederalLongter_19498]]
 - [[CentralArizonaProject_13261]]
+- [[PreliminaryDraftEnvironmentalA_11754]]
 
 ## Colorado River Basin Research Laboratory
 
@@ -24539,6 +25199,18 @@ The Colorado River Basin Research Laboratory was a research facility at Arizona 
 
 ### Mentioned In
 - [[ProposalToChangeVirginRiverChu_1994_05_27]]
+
+## Colorado River Basin Salinity Forum
+
+### Summary
+A body created in 1973 by seven western States to address salinity in the Colorado River Basin. The source reports that in 1975 the group adopted numerical dissolved-solids standards, which are maintained under the Colorado River Basin Salinity Control Act (authorized 1974, amended 1984).
+
+### Context
+> This U.S. Geological Survey state summary describes stream water quality in Arizona. Data come from 13 monitoring stations. Ten stations are used for conditions in water years 1987-89, and all 13 for trends. Irrigation return flow, mine drainage, sewage effluent, and urban runoff degrade water...
+> -- *[[ArizonaStreamWaterQuality_19603]]*
+
+### Mentioned In
+- [[ArizonaStreamWaterQuality_19603]]
 
 ## Colorado River Basin States
 
@@ -26011,10 +26683,18 @@ The Colorado River Province includes the Colorado River and its tributaries in C
 > This document comprises meeting materials for the [[Colorado River Recovery Implementation Committee]] meeting on August 30, 1988, including the final draft FY-89 work plan, a proposed plan for [[San Juan River Basin]] endangered species activities, and administrative correspondence. The Recovery...
 > -- *[[LetterOnImplementationCommitte_11623]]*
 
+> This document is a cooperative agreement between the [[U.S. Fish and Wildlife Service]] (the Service) and the [[Smithsonian Institution]] to complete Phase I of a three-phase study of the taxonomy and systematics of the [[Humpback Chub]] (*Gila cypha*), the [[Bonytail Chub]] (*Gila elegans*), and...
+> -- *[[CooperativeAgreementBetweenThe_12073]]*
+
+> This is an administrative packet from the U.S. Fish and Wildlife Service (FWS), Region 6, dated March 29, 1990. It announces an April 25, 1990 meeting of the Management Group of the [[Colorado River Recovery Implementation Committee]]. It contains an agenda, a memo from Program Director John Hamill...
+> -- *[[ColoradoRiverManagementGroupMe_21025]]*
+
 ### Mentioned In
 - [[ColoradoRiverRecoveryImplement_1990_02_12]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[LetterOnImplementationCommitte_11623]]
+- [[CooperativeAgreementBetweenThe_12073]]
+- [[ColoradoRiverManagementGroupMe_21025]]
 
 ## Colorado River Recovery Implementation Program
 <!-- fm: auto_enriched: true -->
@@ -26434,6 +27114,9 @@ The Colorado River System, in the context of fisheries and aquatic ecology, refe
 > This document is a set of planning correspondence for the [[Muleshoe Cooperative Management Area]] (CMA) in southeastern Arizona. It contains three parts: a December 10, 1993 letter from the [[Bureau of Land Management]] (BLM) reinitiating planning for the [[Muleshoe Ecosystem Management Plan]]...
 > -- *[[MuleshoeCooperativeManagementA_19869]]*
 
+> This short field report by David A. White (Department of Zoology, [[Brigham Young University]], Provo, Utah) documents the capture of seven adult [[Virgin River Spinedace]] (*Lepidomeda mollispinis mollispinis*) from the [[Sevier River]] in Utah on 6 July 1967. The fish were seined about 3.2 miles...
+> -- *[[TheVirginRiverSpinedaceLepidom_12189]]*
+
 ### Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
@@ -26445,6 +27128,7 @@ The Colorado River System, in the context of fisheries and aquatic ecology, refe
 - [[DraftDocumentimpactsOfElectrof_19691]]
 - [[GilaRiverFishdistributionProje_15844]]
 - [[MuleshoeCooperativeManagementA_19869]]
+- [[TheVirginRiverSpinedaceLepidom_12189]]
 
 ## Colorado River System Simulation
 <!-- fm: auto_enriched: true -->
@@ -27149,6 +27833,21 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
 > -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
 
+> This 1990 draft report by the [[Arizona Game and Fish Department]] (Research Branch), submitted to the [[Bureau of Reclamation]] (Upper Colorado Region), compiles and reanalyzes the scattered "grey literature," agency reports and unpublished data on the endangered [[Humpback Chub]] in the Colorado...
+> -- *[[TheEndangeredHumpbackChubGilaC_12469]]*
+
+> This Bureau of Reclamation booklet (prepared by Wayne O. Deason, Environmental Office, Lower Colorado Region) reproduces, often word for word, sheets from the U.S. Fish and Wildlife Service "Red Book" (*Threatened Wildlife of the United States*, 1973 edition). Its purpose is to help Reclamation...
+> -- *[[RegionalInformationSummaryOfTh_12740]]*
+
+> This feature article from the *River Report* (Summer 1998) examines recovery efforts for four endangered native fishes of the [[Colorado River Basin]]: the [[Razorback Sucker]], [[Bonytail Chub]], [[Humpback Chub]] and [[Colorado Squawfish]]. It frames the tension between endangered species...
+> -- *[[AnglingForAnswersTheQuestToSav_17167]]*
+
+> This 1977 symposium paper (Tucson, Arizona, July 9, 1977) by a U.S. Forest Service fisheries and non-game biologist argues that stream fisheries in the Southwest depend on energy and nutrients from riparian vegetation and the surrounding watershed. Uncontrolled livestock grazing removes riparian...
+> -- *[[WildlifeConflictsInRiparianMan_17945]]*
+
+> This is a draft summary, circulated by a US Fish and Wildlife Service (FWS) Region 6 program director on May 5, 1989, of a two-day Management Group meeting of the Colorado River Recovery Implementation Program. The Program aims to recover endangered Colorado River fishes: [[Colorado Squawfish]],...
+> -- *[[AprilManagementGroupMeetingSum_21009]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -27506,6 +28205,11 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[AspinallUnitStudiesEvaluationO_20258]]
 - [[SpeciesRelationshipsAmongFishe_21162]]
 - [[NoticeOfAvailabilityOfDraftEnv_16326]]
+- [[TheEndangeredHumpbackChubGilaC_12469]]
+- [[RegionalInformationSummaryOfTh_12740]]
+- [[AnglingForAnswersTheQuestToSav_17167]]
+- [[WildlifeConflictsInRiparianMan_17945]]
+- [[AprilManagementGroupMeetingSum_21009]]
 
 ## Colorado Squawfish Nursery Habitat
 <!-- fm: auto_enriched: true -->
@@ -27903,6 +28607,18 @@ Columbia Bottom Conservation Area is a 4,318-acre property located at the conflu
 ### Mentioned In
 - [[MissouriansToHelpShapeFutureOf_11242]]
 
+## Columbia Dam
+
+### Summary
+A dam under construction on the middle Duck River at the time of the paper. The authors expect it to eliminate E. aquali populations in that stretch and to reduce species diversity in roughly 120 river miles downstream.
+
+### Context
+> Williams and Etnier (1978) describe the Coppercheek Darter, *Etheostoma aquali*, a new species of the subgenus [[Nothonotus]] known only from the [[Duck River]] and [[Buffalo River]], tributaries of the [[Tennessee River]] in central Tennessee. It is most similar to [[Etheostoma maculatum...
+> -- *[[EtheostomaAqualiANewPercidFish_12004]]*
+
+### Mentioned In
+- [[EtheostomaAqualiANewPercidFish_12004]]
+
 ## Columbia Falls
 
 ### Summary
@@ -27998,6 +28714,9 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 > This document is a 1929 taxonomic check-list of freshwater fishes recorded in [[Oregon]] and [[Washington]] and adjacent regions. It was compiled by [[Leonard P. Schultz]] from published literature, supplemented by a few unpublished records of introduced species observed by D. R. Crawford and the...
 > -- *[[ChecklistOfTheFreshwaterFishes_20621]]*
 
+> This California Department of Fish and Game report by A. J. Calhoun establishes a well-defined annual migration of large adult [[Striped Bass]] (*Roccus saxatilis*) in the [[Sacramento-San Joaquin Delta]] and adjacent waters. Using [[Petersen Disc Tag]]s on roughly 4,200 fish tagged in 1947–1951,...
+> -- *[[AnnualMigrationsOfCaliforniaSt_17335]]*
+
 ### Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[AccumulationAndRetentionOfRadi_1957]]
@@ -28035,6 +28754,7 @@ The Columbia River is a major Pacific Northwest river system and critical geogra
 - [[UpdateOnActivities_20797]]
 - [[DissolvedNitrogenConcentration_15718]]
 - [[ChecklistOfTheFreshwaterFishes_20621]]
+- [[AnnualMigrationsOfCaliforniaSt_17335]]
 
 ## Columbia River Alliance
 <!-- fm: auto_enriched: true -->
@@ -28155,6 +28875,15 @@ The Columbia River Fish Management Plan (CRFMP) is a framework adopted in 1988 f
 
 ### Mentioned In
 - [[TribalAndTreatyObligationsIssu_18113]]
+
+## Columbia River Technical Committee
+
+### Context
+> This is an administrative packet from the U.S. Fish and Wildlife Service (FWS), Region 6, dated March 29, 1990. It announces an April 25, 1990 meeting of the Management Group of the [[Colorado River Recovery Implementation Committee]]. It contains an agenda, a memo from Program Director John Hamill...
+> -- *[[ColoradoRiverManagementGroupMe_21025]]*
+
+### Mentioned In
+- [[ColoradoRiverManagementGroupMe_21025]]
 
 ## Columbia Spotted Frog
 
@@ -28426,6 +29155,18 @@ The Comision Internacional de Limites y Aguas (International Boundary and Water 
 ### Mentioned In
 - [[FieldReportNoStudyOfCienegaDeS_16073]]
 
+## Comita and Tommerdahl
+
+### Summary
+Comita and Tommerdahl (1960) gave the most extensive earlier description of all post-embryonic stages of Diaptomus siciloides. The Kamal and Armitage paper uses their work as the main prior reference for the development of this genus.
+
+### Context
+> This 1967 *University of Kansas Science Bulletin* paper by Kamate and [[Kenneth B. Armitage]] describes the external anatomy of all copepodid stages (CI–CVI) and the adults of [[Diaptomus clavipes]], a freshwater calanoid copepod collected from ponds at the University of Kansas. The species was...
+> -- *[[ExternalMorphologyOfAdultAndCo_17878]]*
+
+### Mentioned In
+- [[ExternalMorphologyOfAdultAndCo_17878]]
+
 ## Commercial Fish Processing
 <!-- fm: auto_enriched: true -->
 
@@ -28490,6 +29231,18 @@ This refers to the systematic collection of removal data from the large-scale Co
 ### Mentioned In
 - [[CompensatoryRecruitmentDynamic_2020]]
 
+## Commission for Inland Fisheries of Latin America
+
+### Summary
+A regional body for inland fisheries in Latin America, abbreviated COPESCAL. The source lists it only in its acronym list of organisations and programmes.
+
+### Context
+> This document is FAO Fisheries Circular No. 924 (FIRI/C924), compiled by André G. Coche and published by the [[Food and Agriculture Organization]] in Rome in 1997. It is a bibliographical index of about 600 selected FAO documents on [[Aquaculture]] published between January 1960 and March 1997. It...
+> -- *[[AnIndexedListOfFaoPublications_16312]]*
+
+### Mentioned In
+- [[AnIndexedListOfFaoPublications_16312]]
+
 ## Commission on National Parks and Protected Areas
 
 ### Summary
@@ -28513,6 +29266,18 @@ The Commission on the Arizona Environment was a governmental or quasi-government
 
 ### Mentioned In
 - [[ArizonaEnvironmentalAndResourc_17454]]
+
+## Committee for Inland Fisheries of Africa
+
+### Summary
+A regional body for inland fisheries in Africa, abbreviated CIFA. The source lists it only among the organisations and programmes named in its acronym list.
+
+### Context
+> This document is FAO Fisheries Circular No. 924 (FIRI/C924), compiled by André G. Coche and published by the [[Food and Agriculture Organization]] in Rome in 1997. It is a bibliographical index of about 600 selected FAO documents on [[Aquaculture]] published between January 1960 and March 1997. It...
+> -- *[[AnIndexedListOfFaoPublications_16312]]*
+
+### Mentioned In
+- [[AnIndexedListOfFaoPublications_16312]]
 
 ## Committee on Methods for Toxicity Tests with Aquatic Organisms
 
@@ -28820,6 +29585,12 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 > This summary report from the [[U.S. Fish And Wildlife Service]] [[Bureau Of Sport Fisheries And Wildlife]] (Branch of Fishery Management Services, Phoenix, Arizona) describes the 1964 fishery management program on the [[San Carlos Apache Indian Reservation]], Arizona. Under a 1958 agreement with...
 > -- *[[SummaryReportSanCarlosApacheIn_19597]]*
 
+> This short field report by David A. White (Department of Zoology, [[Brigham Young University]], Provo, Utah) documents the capture of seven adult [[Virgin River Spinedace]] (*Lepidomeda mollispinis mollispinis*) from the [[Sevier River]] in Utah on 6 July 1967. The fish were seined about 3.2 miles...
+> -- *[[TheVirginRiverSpinedaceLepidom_12189]]*
+
+> This document is FAO Fisheries Circular No. 924 (FIRI/C924), compiled by André G. Coche and published by the [[Food and Agriculture Organization]] in Rome in 1997. It is a bibliographical index of about 600 selected FAO documents on [[Aquaculture]] published between January 1960 and March 1997. It...
+> -- *[[AnIndexedListOfFaoPublications_16312]]*
+
 ### Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -29031,6 +29802,8 @@ Common Carp (*Cyprinus carpio*) is a large, omnivorous freshwater fish native to
 - [[IsOurNativeUnderwaterLifeWorth_15341]]
 - [[MoreFactsmoreFish_17550]]
 - [[SummaryReportSanCarlosApacheIn_19597]]
+- [[TheVirginRiverSpinedaceLepidom_12189]]
+- [[AnIndexedListOfFaoPublications_16312]]
 
 ## Common Chuckwalla
 
@@ -30152,6 +30925,18 @@ The Connecticut State Hatchery at Burlington was one of two facilities where exp
 ### Mentioned In
 - [[CommentsOnTheProposedRejection_14473]]
 
+## Conodont Biostratigraphy
+
+### Summary
+Conodont biostratigraphy uses the zonal distribution of conodont microfossils to date rock units. In this paper, conodonts from 35 sections provide the age control that narrows the Famennian basin reversal to the Palmatolepis rhomboidea and P. marginifera zones. They also date the Percha Formation's basal and upper members to the late Famennian.
+
+### Context
+> This 1976 *Arizona Geological Society Digest* paper by Schumacher, Witter, Meader and Keith (Department of Geosciences, University of Arizona) reconstructs Late Devonian structural change in southeastern Arizona. The authors compare [[Isopach Mapping|isopach maps]] of the Frasnian [[Martin...
+> -- *[[LateDevonianTectonismInSouthea_11282]]*
+
+### Mentioned In
+- [[LateDevonianTectonismInSouthea_11282]]
+
 ## Conover Ash Ratio Method
 <!-- fm: auto_enriched: true -->
 
@@ -30745,6 +31530,18 @@ Continuous ether extraction is a laboratory method for measuring fat content. Th
 ### Mentioned In
 - [[ThePlanktonSamplerAnInstrument_1950]]
 
+## Continuous-Flow Apparatus
+
+### Summary
+The test system used at the Watford laboratory, in which aerated water flows at about 2 litres per minute and poison is dosed at a constant rate into a test tank holding 50 yearling trout. Herbert notes it is too large and costly for routine use, though it avoids the oxygen depletion and waste build-up of fixed-volume tests.
+
+### Context
+> This 1952 paper by D. W. M. Herbert (Water Pollution Research Laboratory, Watford) was presented to the Midland Branch of the Institute of Sewage Purification. It reviews how toxicity of industrial wastes to fish is measured and interpreted, and argues that existing methods (the "lethal limit",...
+> -- *[[MeasurementOfTheToxicityOfSubs_16688]]*
+
+### Mentioned In
+- [[MeasurementOfTheToxicityOfSubs_16688]]
+
 ## Contra Costa County
 
 ### Summary
@@ -31021,12 +31818,16 @@ Coontail (Ceratophyllum demersum) is an aquatic plant species found abundantly i
 > This Job Completion Report from the [[Parks And Wildlife Department]] (Austin, Texas, dated July 26, 1963) covers Job No. D-1, Fisheries Problems Determination, under [[Federal Aid In Fisheries Restoration Act]] Project No. F-7-R-10, [[Fisheries Investigations And Surveys]] of the Waters of...
 > -- *[[FisheriesInvestigationsAndSurv_14934]]*
 
+> This Michigan Department of Conservation Fish Division pamphlet (No. 16, by F. F. Hooper and A. B. Cook, Jr.) summarizes practical guidance on using liquid sodium arsenite to control rooted submerged flowering weeds in ponds and along lake shorelines. It covers target and non-target plants, dosage...
+> -- *[[ChemicalControlOfSubmergedWate_19910]]*
+
 ### Mentioned In
 - [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
 - [[UtahLakeEcosystemMonitoringToS_2023]]
 - [[EffectsOfTotalDissolvedSolidsO_2007]]
 - [[ChemicalVegetationControlManua_12838]]
 - [[FisheriesInvestigationsAndSurv_14934]]
+- [[ChemicalControlOfSubmergedWate_19910]]
 
 ## Cooper (1953)
 <!-- fm: auto_enriched: true -->
@@ -31160,6 +31961,15 @@ The Cooperative Fish and Wildlife Research Unit is a research organization at Co
 ### Mentioned In
 - [[MemorandumOnRegionalStakeholde_1996_09_12]]
 
+## Cooperative Water Project
+
+### Context
+> This is a draft Preliminary Findings Report (PFR) from the Bureau of Reclamation (Lower Colorado Region) and the Las Vegas Valley Water District (LVVWD), circulated for a 30-day comment period ending April 30, 1993. It evaluates a dual-purpose project on the lower Virgin River in Nevada. The...
+> -- *[[DraftLowerVirginRiverProjectPr_11483]]*
+
+### Mentioned In
+- [[DraftLowerVirginRiverProjectPr_11483]]
+
 ## Coordinated Land Management Plan
 
 ### Summary
@@ -31213,8 +32023,12 @@ Coos Bay, Oregon is a Pacific Coast location where striped bass reproductive bio
 > This 1969 literature review by Gary Edwards synthesizes existing knowledge on the [[Striped Bass]] (*Roccus saxatilis*) in preparation for studying a population in the [[Colorado River]] between Davis and Parker Dams. The review covers taxonomy, distribution, feeding ecology, growth, reproduction,...
 > -- *[[DraftliteratureReviewOfTheStri_15768]]*
 
+> This California Department of Fish and Game report by A. J. Calhoun establishes a well-defined annual migration of large adult [[Striped Bass]] (*Roccus saxatilis*) in the [[Sacramento-San Joaquin Delta]] and adjacent waters. Using [[Petersen Disc Tag]]s on roughly 4,200 fish tagged in 1947–1951,...
+> -- *[[AnnualMigrationsOfCaliforniaSt_17335]]*
+
 ### Mentioned In
 - [[DraftliteratureReviewOfTheStri_15768]]
+- [[AnnualMigrationsOfCaliforniaSt_17335]]
 
 ## Coos Bay Oregon
 <!-- fm: auto_enriched: true -->
@@ -31235,12 +32049,20 @@ Coos Bay, Oregon is a Pacific Coast location where striped bass reproductive bio
 > **Taxonomic & Life-History Summary**: [[Redeye Bass]] (*Micropterus coosae* sensu stricto) is native to the Coosa River system of Alabama, Georgia, and Tennessee. The species was originally described in 1940 and has since undergone genetic revision separating it into several species within the...
 > -- *[[ACaseOfMistakenIdentityGenetic_2021]]*
 
+> This 1968 paper in the *Proceedings of the Biological Society of Washington* examines two harpacticoid copepods of the genus [[Attheyella]], [[Attheyella Pilosa]] and [[Attheyella Carolinensis]], which live on [[Crayfish]] hosts in the eastern United States. The authors redescribe both species,...
+> -- *[[NotesOnTheHarpacticoidCopepods_17754]]*
+
+> This Southeastern Fishes Council survey documents the fish fauna of springs and spring-fed creeks in [[Calhoun County]], Alabama. Sampling at 83 stations (May 1986 to February 1987, plus earlier collections from the [[Fort McClellan Military Reservation]]) yielded 45 species and 2 hybrids in 24...
+> -- *[[FishesOfSpringsAndSpringfedCre_19006]]*
+
 ### Mentioned In
 - [[AFreshwaterMolluskSurveyOfNort_15956]]
 - [[PercinaImostomaAntesellaANewPe_12000]]
 - [[ProductionOfTheThreadfinShadDo_15096]]
 - [[FishesOfAlabama_1990]]
 - [[ACaseOfMistakenIdentityGenetic_2021]]
+- [[NotesOnTheHarpacticoidCopepods_17754]]
+- [[FishesOfSpringsAndSpringfedCre_19006]]
 
 ## Coosa River System
 <!-- fm: auto_enriched: true -->
@@ -31433,6 +32255,18 @@ Copepoda are small crustacean zooplankton that form a crucial component of fresh
 - [[ThePlanktonSamplerAnInstrument_1950]]
 - [[RoughFishControl_20167]]
 
+## Copepodid Stages
+
+### Summary
+Copepodid stages are the successive juvenile phases of a copepod between the nauplius and the adult, with the final copepodid stage being the adult. This source describes CI through CVI for D. clavipes, tracking changes in body length, segmentation, and appendage setation at each stage.
+
+### Context
+> This 1967 *University of Kansas Science Bulletin* paper by Kamate and [[Kenneth B. Armitage]] describes the external anatomy of all copepodid stages (CI–CVI) and the adults of [[Diaptomus clavipes]], a freshwater calanoid copepod collected from ponds at the University of Kansas. The species was...
+> -- *[[ExternalMorphologyOfAdultAndCo_17878]]*
+
+### Mentioned In
+- [[ExternalMorphologyOfAdultAndCo_17878]]
+
 ## Copepods
 
 ### Summary
@@ -31522,6 +32356,12 @@ Copper sulfate is a chemical algaecide commonly used in aquatic systems to contr
 > This U.S. Bureau of Sport Fisheries and Wildlife leaflet (FDL-28, July 1970, Division of Fishery Research), prepared by [[Glenn L. Hoffman]] of the [[Eastern Fish Disease Laboratory]], compiles the most effective chemical and non-chemical methods for controlling external and internal parasites of...
 > -- *[[ControlAndTreatmentOfParasitic_20451]]*
 
+> This 1965 Auburn University Agricultural Experiment Station report (E. E. Prather) describes three pond experiments (1962–1964) evaluating the [[White Catfish]] (*Ictalurus catus*) as a sport fish for small ponds, stocked alone at 2,000 and 3,000 per acre and in combination with [[Channel Catfish]]...
+> -- *[[ExperimentsWithWhiteCatfishAsA_18665]]*
+
+> This Michigan Department of Conservation Fish Division pamphlet (No. 16, by F. F. Hooper and A. B. Cook, Jr.) summarizes practical guidance on using liquid sodium arsenite to control rooted submerged flowering weeds in ponds and along lake shorelines. It covers target and non-target plants, dosage...
+> -- *[[ChemicalControlOfSubmergedWate_19910]]*
+
 ### Mentioned In
 - [[CorrespondenceRegardingResearc_1986_08_06]]
 - [[EffectsOfFiveHerbicidesOnFarmP_15811]]
@@ -31530,6 +32370,8 @@ Copper sulfate is a chemical algaecide commonly used in aquatic systems to contr
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[ChemicalVegetationControlManua_12838]]
 - [[ControlAndTreatmentOfParasitic_20451]]
+- [[ExperimentsWithWhiteCatfishAsA_18665]]
+- [[ChemicalControlOfSubmergedWate_19910]]
 
 ## Copper Sulphate
 <!-- fm: auto_enriched: true -->
@@ -32737,6 +33579,18 @@ A Gila topminnow population in Arizona that is now extinct. It was possibly an a
 ### Mentioned In
 - [[ConservationStatusOfTheNorthAm_1990]]
 
+## Cost Comparison
+
+### Summary
+The source's economic comparison showing Diet A at $3.00/kg, Diet B at $1.85/kg and horse or donkey meat at $3.50/kg. Because trout consumed roughly half as much dry feed as fresh meat, the prepared diets were cheaper overall.
+
+### Context
+> This 1965 article from the *Boletín de Piscicultura Rural*, published by the Mexican [[Secretaría de Industria y Comercio]] through the [[Dirección General de Pesca e Industrias Conexas]] and the [[Instituto Nacional de Investigaciones Biológico-Pesqueras]], reports preliminary work on a cheap,...
+> -- *[[UnaManeraSencillaYEconomicaDeA_11373]]*
+
+### Mentioned In
+- [[UnaManeraSencillaYEconomicaDeA_11373]]
+
 ## Cost Effective Index
 
 ### Summary
@@ -33500,6 +34354,18 @@ The Council on Environmental Quality is a federal body that assessed environment
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[DraftProposedCriteriaForDesign_14776]]
 
+## Cowan 1967
+
+### Summary
+Cowan 1967 is a 1967 publication on Lovelock Cave material that the source cites as one of the works it draws on. The source does not summarize its findings in the text provided.
+
+### Context
+> This report by W. I. Follett identifies fish remains recovered in 1968 and 1969 from human coprolites (fossilized feces) and midden deposits at [[Lovelock Cave]], Churchill County, Nevada. Remains come from two coprolite series, "AN" and "LX," plus midden refuse. Three species are identified: the...
+> -- *[[FishRemainsFromHumanCoprolites_18767]]*
+
+### Mentioned In
+- [[FishRemainsFromHumanCoprolites_18767]]
+
 ## Coward Springs
 <!-- fm: auto_enriched: true -->
 
@@ -34199,6 +35065,9 @@ Crayfish are freshwater decapod crustaceans that serve as important components o
 > This document is a set of planning correspondence for the [[Muleshoe Cooperative Management Area]] (CMA) in southeastern Arizona. It contains three parts: a December 10, 1993 letter from the [[Bureau of Land Management]] (BLM) reinitiating planning for the [[Muleshoe Ecosystem Management Plan]]...
 > -- *[[MuleshoeCooperativeManagementA_19869]]*
 
+> This 1968 paper in the *Proceedings of the Biological Society of Washington* examines two harpacticoid copepods of the genus [[Attheyella]], [[Attheyella Pilosa]] and [[Attheyella Carolinensis]], which live on [[Crayfish]] hosts in the eastern United States. The authors redescribe both species,...
+> -- *[[NotesOnTheHarpacticoidCopepods_17754]]*
+
 ### Mentioned In
 - [[A New Material for Marking Kordite Line and Various Animals]]
 - [[APreliminarySurveyOfFoodHabits_1954]]
@@ -34224,6 +35093,7 @@ Crayfish are freshwater decapod crustaceans that serve as important components o
 - [[ANewCrayfishOfTheGenusProcamba_20417]]
 - [[ConservationOfTheBlackBassReso_19213]]
 - [[MuleshoeCooperativeManagementA_19869]]
+- [[NotesOnTheHarpacticoidCopepods_17754]]
 
 ## Crayfish Predation
 <!-- fm: auto_enriched: true -->
@@ -34302,6 +35172,9 @@ The Creek Chub (*Semotilus atromaculatus*) is a cyprinid minnow that functions a
 > This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
 > -- *[[FishesOfOklahoma_16566]]*
 
+> Ricker, Mosbaugh and Lung report on tagging experiments in 1943 and 1944 with hatchery-reared, catchable-size [[Rainbow Trout]] and a few [[Brown Trout]] planted in northern Indiana streams. Voluntary tag returns from rainbows ranged from 0 to 42 percent in the year of planting. Second-year...
+> -- *[[UtilizationAndSurvivalOfTroutI_16857]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -34329,6 +35202,7 @@ The Creek Chub (*Semotilus atromaculatus*) is a cyprinid minnow that functions a
 - [[CreekChubMinnowPropagation_15905]]
 - [[PotentialEstablishmentOfRedShi_15211]]
 - [[FishesOfOklahoma_16566]]
+- [[UtilizationAndSurvivalOfTroutI_16857]]
 
 ## Creek Chubsucker
 <!-- fm: auto_enriched: true -->
@@ -34385,6 +35259,18 @@ A creel census is a survey method used to monitor and assess recreational fishin
 > This document is a 1953 demonstration paper by the [[New Jersey Division Of Fish And Game]] describing the methods and principles of fisheries management in New Jersey. It was presented at the Schiffs Scout Reservation, Mendham, New Jersey, on June 19, 1953. The paper argues that fisheries...
 > -- *[[ADemonstrationOfMethodsAndTech_20555]]*
 
+> This 1956-era report by the Florida Game and Fresh Water Fish Commission, compiled under Chief of Fisheries [[Don Luethy]], assesses the fishery of [[Lake George]] and the adjoining [[St. Johns River]] (Volusia Bar to Buffalo Bluff). It combines multiple sampling methods (haul seine, otter trawl,...
+> -- *[[SurveyFindingsOnTheLakeGeorgeA_16244]]*
+
+> In July 1963, 35 lb of sodium molybdate (containing 14 lb of molybdenum) were added to Castle Lake, California. Angler yields of [[Rainbow Trout]] in 1966 and [[Eastern Brook Trout]] in 1967 were then at record levels. Each year's yield was about 3.5 lb per acre above the 1960-1965 mean (12.8...
+> -- *[[InfluenceOfMolybdenumOnTheTrou_17593]]*
+
+> This 1942 *Michigan Conservation* article by David S. Shetter and Albert S. Hazzard of the Michigan Institute for Fisheries Research summarizes five years of marking experiments. They compare when hatchery-reared "legal-size" trout (7 inches or longer) should be released: fall, spring (before...
+> -- *[[PlantingKeeperTroutFallSpringA_18907]]*
+
+> This California Department of Fish and Game Inland Fisheries Administrative Report (No. 66-7, submitted April 1966, by Robert P. Hayden, Region 4) evaluates whether total angler use and harvest at [[Isabella Reservoir]] can be estimated with limited manpower. The reservoir is a heavily used fishery...
+> -- *[[EstimatedAnglerUseAndHarvestIs_20724]]*
+
 ### Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
 - [[AnIntensiveCreelCensusOfTwoSim_16458]]
@@ -34404,6 +35290,10 @@ A creel census is a survey method used to monitor and assess recreational fishin
 - [[TfsObservationsOnTheColoradoRi_12246]]
 - [[LimeTreatmentOfLakeReducesAcid_17119]]
 - [[ADemonstrationOfMethodsAndTech_20555]]
+- [[SurveyFindingsOnTheLakeGeorgeA_16244]]
+- [[InfluenceOfMolybdenumOnTheTrou_17593]]
+- [[PlantingKeeperTroutFallSpringA_18907]]
+- [[EstimatedAnglerUseAndHarvestIs_20724]]
 
 ## Creel Census Methodology
 <!-- fm: auto_enriched: true -->
@@ -34926,6 +35816,18 @@ Critical path analysis is a planning technique that identifies the sequence of d
 ### Mentioned In
 - [[FoodLimitedSurvivalOfLarvalRaz_18417]]
 
+## Critical Period Hypothesis
+
+### Summary
+The critical period hypothesis holds that the early larval stages are the most vulnerable point in a fish's life. The report presents it as background, noting that pelagic larvae hatch before their gills, mouth, intestine and other organs are fully developed, which makes them especially sensitive to salinity stress.
+
+### Context
+> This 1968 progress report (Lasker and Tenaza, California Department of Fish and Game, Inland Fisheries Administrative Report No. 68-4) responds to the rising salinity of the [[Salton Sea]]. It describes methods for capturing ripe [[Bairdiella]], [[Sargo]] and [[Orangemouth Corvina]], artificially...
+> -- *[[SaltonSeaFishLarvaeInvestigati_20193]]*
+
+### Mentioned In
+- [[SaltonSeaFishLarvaeInvestigati_20193]]
+
 ## Critical Thermal Maximum
 <!-- fm: auto_enriched: true -->
 
@@ -35250,6 +36152,15 @@ Crosskey (1960) hypothesized that six larval instars are characteristic across t
 ### Mentioned In
 - [[TheBiologyOfTheRazorbackSucker_1979_10_22]]
 
+## Crossochir Koelzi
+
+### Context
+> This 1933 Proceedings of the [[United States National Museum]] paper by Carl L. Hubbs describes a new genus and species of [[Embiotocidae]] (viviparous perches of the North Pacific), [[Crossochir Koelzi]]. The species had been misidentified for decades as [[Holconotus Rhodoterus]]. Its...
+> -- *[[CrossochirKeolziANewCalifornia_20004]]*
+
+### Mentioned In
+- [[CrossochirKeolziANewCalifornia_20004]]
+
 ## Crossopterygii
 <!-- fm: auto_enriched: true -->
 
@@ -35354,6 +36265,18 @@ Crown Point Hatchery is one of six New York State fish hatchery facilities that 
 
 ### Mentioned In
 - [[GeneralReviewsAndSummariesTrop_17993]]
+
+## CRSP Legislation
+
+### Summary
+The Colorado River Storage Project legislation is the federal authorization for major Upper Colorado River reservoirs and water development. In this source it appears only as an agenda item at the April 1989 Management Group meeting, and the summary gives no details about what was discussed.
+
+### Context
+> This is a draft summary, circulated by a US Fish and Wildlife Service (FWS) Region 6 program director on May 5, 1989, of a two-day Management Group meeting of the Colorado River Recovery Implementation Program. The Program aims to recover endangered Colorado River fishes: [[Colorado Squawfish]],...
+> -- *[[AprilManagementGroupMeetingSum_21009]]*
+
+### Mentioned In
+- [[AprilManagementGroupMeetingSum_21009]]
 
 ## Crummock Water
 <!-- fm: auto_enriched: true -->
@@ -35750,6 +36673,9 @@ Cualac tesselatus is a pupfish species from La Media Luna, San Luis Potosi. The 
 > This packet is a 1985–1986 conservation appeal concerning the [[Haplochromine Cichlids]] species flock of [[Lake Victoria]]. It contains a cover letter from [[Jack E Williams]] of the U.S. Fish and Wildlife Service, a Leiden solicitation letter, the resolutions of the [[Cichlid Workshop]], an...
 > -- *[[LetterToPhilPisterLiteratureOn_12020]]*
 
+> This USFWS–Mexico Cooperative Program grant proposal requests **$48,031.00 (US)** for one year to train local citizens and municipal public servants of [[Cuatro Cienegas]] in management of a newly created biological reserve of roughly 150,000 hectares. The applicants are the Municipality of Cuatro...
+> -- *[[UsfwsmexicoGrantRequestTrainin_15836]]*
+
 ### Mentioned In
 - [[LetterFromRobertHershlerToRobe_1986_04_07]]
 - [[DistributionalAndLocalVernacul_13815]]
@@ -35764,6 +36690,7 @@ Cualac tesselatus is a pupfish species from La Media Luna, San Luis Potosi. The 
 - [[SexualSelectionInTheCuatroCien_20108]]
 - [[UnauthorizedCollectingInMexico_20833]]
 - [[LetterToPhilPisterLiteratureOn_12020]]
+- [[UsfwsmexicoGrantRequestTrainin_15836]]
 
 ## Cuatro Cienegas Basin
 <!-- fm: auto_enriched: true -->
@@ -35923,6 +36850,12 @@ The Cuatro Ciénegas Basin is an isolated, ancient desert wetland system in Coah
 > This 1967 doctoral dissertation by Jeanette H. Lysne at [[Arizona State University]] presents histocompatibility studies of [[Xiphophorus gordoni]] (northern platyfish) from three isolated lagunas in the [[Cuatro Ciénegas Basin]] of Coahuila, México. Using dorsal fin transplantation techniques, the...
 > -- *[[HistocompatibilityStudiesOfThe_16290]]*
 
+> This 1969 taxonomic paper by [[W. L. Minckley]] and Gerald L. Lytle (Arizona State University) formally describes *Notropis xanthicara*, the [[Cuatro Ciénegas Shiner]], a cyprinid minnow endemic to the [[Cuatro Ciénegas Basin]] in [[Coahuila]], Mexico. The species is most closely related to, and...
+> -- *[[NotropisXanthicaraANewCyprinid_15877]]*
+
+> This data sheet, from the WWF/IUCN *Centres of Plant Diversity* series (Volume 3, The Americas), describes the [[Cuatro Ciénegas Basin]] in Coahuila, northern Mexico. The c. 2000 km² region is a closed-drainage intermontane basin within the eastern [[Chihuahuan Desert]], and its warm springs,...
+> -- *[[CentresOfPlantDiversityAGuideA_18340]]*
+
 ### Mentioned In
 - [[ANewSpeciesOfLeptocarisCrustac_13646]]
 - [[AlonzoRiosContreras_20775]]
@@ -35950,6 +36883,8 @@ The Cuatro Ciénegas Basin is an isolated, ancient desert wetland system in Coah
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[NotesFromFieldWorkInTheCuatroc_12737]]
 - [[HistocompatibilityStudiesOfThe_16290]]
+- [[NotropisXanthicaraANewCyprinid_15877]]
+- [[CentresOfPlantDiversityAGuideA_18340]]
 
 ## Cuatro Ciénegas Cichlids
 <!-- fm: auto_enriched: true -->
@@ -35984,6 +36919,18 @@ The Cuatro Ciénegas Basin is an isolated, ancient desert wetland system in Coah
 
 ### Mentioned In
 - [[ButterfliesFromCoahuilaMexico_1968]]
+
+## Cuatro Ciénegas Shiner
+
+### Summary
+A small cyprinid minnow, Notropis xanthicara, endemic to the Cuatro Ciénegas basin in Coahuila, Mexico. This 1969 paper by Minckley and Lytle formally describes it as a new species, separating it from its close relative N. rutilus by pigmentation, meristic counts, and body proportions. It occurs in springs and upper spring-fed streams, most abundantly just below spring sources, and is absent from shallow marshes and terminal lakes.
+
+### Context
+> This 1969 taxonomic paper by [[W. L. Minckley]] and Gerald L. Lytle (Arizona State University) formally describes *Notropis xanthicara*, the [[Cuatro Ciénegas Shiner]], a cyprinid minnow endemic to the [[Cuatro Ciénegas Basin]] in [[Coahuila]], Mexico. The species is most closely related to, and...
+> -- *[[NotropisXanthicaraANewCyprinid_15877]]*
+
+### Mentioned In
+- [[NotropisXanthicaraANewCyprinid_15877]]
 
 ## Cuatro Ciénegas Snails
 <!-- fm: auto_enriched: true -->
@@ -36270,6 +37217,15 @@ The cui-ui (*Chasmistics cujus*) is an endangered catostomid fish (sucker family
 > These minutes record the initial meeting of the reconvened [[Cui-ui]] Recovery Team, held August 2, 1989, in Reno, Nevada. Attendees were T. Strekal, W. Minckley, G. Scoppettone, G. Vinyard, and P. Wagner, with [[Robert Smith]] (Assistant Regional Director, Fish and Wildlife Enhancement) present at...
 > -- *[[MinutesCuiuiRecoveryTeamMeetin_13867]]*
 
+> This is a partially legible, OCR-degraded fragment of the recovery plan for the endangered [[Cui-ui]]. It includes the executive summary page, a cost table by recovery need, and the implementation schedule. The only extant population lives in [[Pyramid Lake]] in western Nevada. The text notes that...
+> -- *[[ExecutiveSummaryOfTheRecoveryP_11480]]*
+
+> This 1988 report by [[Chester C. Buchanan]] (U.S. Fish and Wildlife Service) and [[Thomas A. Strekal]] (U.S. Bureau of Reclamation) documents two computer subroutines added to the [[Truckee-Carson Hydrologic Model]]: the [[Stampede Subroutine]], which schedules releases from [[Stampede Reservoir]]...
+> -- *[[SimulatedWaterManagementAndEva_13864]]*
+
+> This report by W. I. Follett identifies fish remains recovered in 1968 and 1969 from human coprolites (fossilized feces) and midden deposits at [[Lovelock Cave]], Churchill County, Nevada. Remains come from two coprolite series, "AN" and "LX," plus midden refuse. Three species are identified: the...
+> -- *[[FishRemainsFromHumanCoprolites_18767]]*
+
 ### Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[AllozymeDifferencesDuplicateGe_11423]]
@@ -36323,6 +37279,9 @@ The cui-ui (*Chasmistics cujus*) is an endangered catostomid fish (sucker family
 - [[ReviewOfMoyleAndBergsProjectRe_13795]]
 - [[FishesOfNevada_15993]]
 - [[MinutesCuiuiRecoveryTeamMeetin_13867]]
+- [[ExecutiveSummaryOfTheRecoveryP_11480]]
+- [[SimulatedWaterManagementAndEva_13864]]
+- [[FishRemainsFromHumanCoprolites_18767]]
 
 ## Cui-ui Hatchery
 
@@ -36347,6 +37306,18 @@ The Cui-ui Hatchery is a facility at Pyramid Lake where conservation breeding of
 
 ### Mentioned In
 - [[LetterToMarvinPlenertOnCuiUiRe_1993_10_22]]
+
+## Cui-ui Population Index Subroutine
+
+### Summary
+A computer subroutine (CPI) that simulates the reproductive response of the endangered cui-ui population in Pyramid Lake to river flow and lake elevation. It combines a Leslie matrix model with effective habitat time series analysis, models only females, and was verified but not validated in this report.
+
+### Context
+> This 1988 report by [[Chester C. Buchanan]] (U.S. Fish and Wildlife Service) and [[Thomas A. Strekal]] (U.S. Bureau of Reclamation) documents two computer subroutines added to the [[Truckee-Carson Hydrologic Model]]: the [[Stampede Subroutine]], which schedules releases from [[Stampede Reservoir]]...
+> -- *[[SimulatedWaterManagementAndEva_13864]]*
+
+### Mentioned In
+- [[SimulatedWaterManagementAndEva_13864]]
 
 ## Cui-Ui Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -36480,8 +37451,12 @@ Culex spp. are mosquitoes documented as adventitious species in Caldwell Hollow 
 > This dissertation investigates the ecology and physiological mechanisms enabling macroinvertebrates to survive in a small south-central Indiana stream ([[Caldwell Hollow]]) that becomes completely dry each summer. The stream fauna is dominated by two aquatic peracarid crustaceans, [[Lirceus...
 > -- *[[TheEcologyOfInvertebratesInAnI_15957]]*
 
+> Herbert H. Ross's 1947 Illinois Natural History Survey bulletin (Volume 24, Article 1) provides illustrated keys, descriptions, and distribution and habitat summaries for the mosquitoes of Illinois. Of about 150 mosquito species known from the United States and Canada, 52 have been recorded in...
+> -- *[[TheMosquitoesOfIllinoisDiptera_21083]]*
+
 ### Mentioned In
 - [[TheEcologyOfInvertebratesInAnI_15957]]
+- [[TheMosquitoesOfIllinoisDiptera_21083]]
 
 ## Culex Pipiens
 
@@ -36494,6 +37469,18 @@ Culex pipiens (listed here as C. p. quinquefasciatus) is a mosquito whose labora
 
 ### Mentioned In
 - [[DifferentialPredationOnCulexPi_13938]]
+
+## Culex Quinquefasciatus
+
+### Summary
+Culex quinquefasciatus is a mosquito species that the source places in a later seasonal group, which usually appears at least by midsummer. The source also notes that Culex, in towns, contributes to nuisance biting.
+
+### Context
+> Herbert H. Ross's 1947 Illinois Natural History Survey bulletin (Volume 24, Article 1) provides illustrated keys, descriptions, and distribution and habitat summaries for the mosquitoes of Illinois. Of about 150 mosquito species known from the United States and Canada, 52 have been recorded in...
+> -- *[[TheMosquitoesOfIllinoisDiptera_21083]]*
+
+### Mentioned In
+- [[TheMosquitoesOfIllinoisDiptera_21083]]
 
 ## Culiacan
 
@@ -36519,6 +37506,18 @@ Culicidae, or mosquito larvae, were found only at Station III immediately below 
 ### Mentioned In
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
 
+## Culicinae
+
+### Summary
+Culicinae is the subfamily of true mosquitoes, in contrast to the non-biting Chaoborinae. The bulletin keys 10 genera of Culicinae occurring in Illinois, and the biting species and most of the nuisance and vector species discussed in the source belong here.
+
+### Context
+> Herbert H. Ross's 1947 Illinois Natural History Survey bulletin (Volume 24, Article 1) provides illustrated keys, descriptions, and distribution and habitat summaries for the mosquitoes of Illinois. Of about 150 mosquito species known from the United States and Canada, 52 have been recorded in...
+> -- *[[TheMosquitoesOfIllinoisDiptera_21083]]*
+
+### Mentioned In
+- [[TheMosquitoesOfIllinoisDiptera_21083]]
+
 ## Culicoides
 
 ### Summary
@@ -36530,6 +37529,18 @@ Culicoides is a genus of biting midges that appeared in Hartlaub Lake following 
 
 ### Mentioned In
 - [[TheEffectOfAToxapheneTreatment_20404]]
+
+## Culiseta
+
+### Summary
+Culiseta is a mosquito genus whose females lay eggs in floating rafts. In Illinois, Culiseta inornata is an early-season species that follows the early Aedes, and it overwinters as a fertilized female in sheltered sites.
+
+### Context
+> Herbert H. Ross's 1947 Illinois Natural History Survey bulletin (Volume 24, Article 1) provides illustrated keys, descriptions, and distribution and habitat summaries for the mosquitoes of Illinois. Of about 150 mosquito species known from the United States and Canada, 52 have been recorded in...
+> -- *[[TheMosquitoesOfIllinoisDiptera_21083]]*
+
+### Mentioned In
+- [[TheMosquitoesOfIllinoisDiptera_21083]]
 
 ## Culter Erythropterus
 <!-- fm: auto_enriched: true -->
@@ -36709,6 +37720,12 @@ The Cumberland River is a major river system in the southeastern United States (
 > This paper describes **Cambarus gentryi**, a new species of burrowing crayfish from the [[Nashville Basin]] in [[Tennessee]]. The species was first collected in the 1890s from a tributary of [[Stones River]] but remained undescribed for approximately 75 years. It was rediscovered in 1968 by Dr....
 > -- *[[ANewCrayfishFromTheNashvilleBa_20416]]*
 
+> Williams and Etnier (1978) describe the Coppercheek Darter, *Etheostoma aquali*, a new species of the subgenus [[Nothonotus]] known only from the [[Duck River]] and [[Buffalo River]], tributaries of the [[Tennessee River]] in central Tennessee. It is most similar to [[Etheostoma maculatum...
+> -- *[[EtheostomaAqualiANewPercidFish_12004]]*
+
+> This taxonomic paper describes four new entocytherid ostracods: [[Ascetocythere holti]], [[Dactylocythere enoploholca]], [[Dactylocythere myura]], and [[Dactylocythere spinata]]. The specimens come from the upper Tennessee and [[Cumberland River]] drainages in Tennessee and the [[Holston River]]...
+> -- *[[NewEntocytheridOstracodsFromTe_20423]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
@@ -36721,6 +37738,8 @@ The Cumberland River is a major river system in the southeastern United States (
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[PreimpoundmentSurveysOfSixKent_13033]]
 - [[ANewCrayfishFromTheNashvilleBa_20416]]
+- [[EtheostomaAqualiANewPercidFish_12004]]
+- [[NewEntocytheridOstracodsFromTe_20423]]
 
 ## Cumberland River Drainage
 <!-- fm: auto_enriched: true -->
@@ -36799,8 +37818,13 @@ Curculionidae are weevils, a family of beetles. In this warm-water stream study,
 ## Curimatidae
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1990 taxonomic paper by [[Richard P. Vari]] and [[Ramiro Barriga S.]] describes *Cyphocharax pantostictos* as a new species of curimatid characiform from the western Amazon Basin. Its defining feature is seven or eight longitudinal series of prominent dark spots on the body. The species was...
+> -- *[[CyphocharaxPantostictosANewSpe_13103]]*
+
 ### Mentioned In
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]
+- [[CyphocharaxPantostictosANewSpe_13103]]
 
 ## Curlew Sandpiper
 <!-- fm: auto_enriched: true -->
@@ -37142,6 +38166,18 @@ Cutthroat trout are a native North American salmonid species (*Salmo clarki*) wi
 
 ### Mentioned In
 - [[MasterMemorandumOfUnderstandin_18597]]
+
+## Cyanide
+
+### Summary
+A highly toxic chemical compound (CN) used in this 1952 study as the test poison for rainbow trout. The source uses cyanide exposures to show that fish survival time falls with concentration in a power-law relationship and that no safe threshold is evident in the data.
+
+### Context
+> This 1952 paper by D. W. M. Herbert (Water Pollution Research Laboratory, Watford) was presented to the Midland Branch of the Institute of Sewage Purification. It reviews how toxicity of industrial wastes to fish is measured and interpreted, and argues that existing methods (the "lethal limit",...
+> -- *[[MeasurementOfTheToxicityOfSubs_16688]]*
+
+### Mentioned In
+- [[MeasurementOfTheToxicityOfSubs_16688]]
 
 ## Cyanide Toxicity In Fish
 <!-- fm: auto_enriched: true -->
@@ -37590,6 +38626,24 @@ Cyperus is a genus of sedges that dominates the vegetation of artesian springs i
 ### Mentioned In
 - [[MoundSpringSnailsOfTheAustrali_18623]]
 
+## Cyphocharax
+
+### Context
+> This 1990 taxonomic paper by [[Richard P. Vari]] and [[Ramiro Barriga S.]] describes *Cyphocharax pantostictos* as a new species of curimatid characiform from the western Amazon Basin. Its defining feature is seven or eight longitudinal series of prominent dark spots on the body. The species was...
+> -- *[[CyphocharaxPantostictosANewSpe_13103]]*
+
+### Mentioned In
+- [[CyphocharaxPantostictosANewSpe_13103]]
+
+## Cyphocharax multilineatus
+
+### Context
+> This 1990 taxonomic paper by [[Richard P. Vari]] and [[Ramiro Barriga S.]] describes *Cyphocharax pantostictos* as a new species of curimatid characiform from the western Amazon Basin. Its defining feature is seven or eight longitudinal series of prominent dark spots on the body. The species was...
+> -- *[[CyphocharaxPantostictosANewSpe_13103]]*
+
+### Mentioned In
+- [[CyphocharaxPantostictosANewSpe_13103]]
+
 ## Cypraea annettae
 
 ### Summary
@@ -37794,6 +38848,18 @@ Cyprinella lutrensis, commonly known as the Red Shiner, is a small-bodied cyprin
 
 ### Mentioned In
 - [[NoNewAndLittleKnownReptilesAnd_16917]]
+
+## Cyprinella Subgenus
+
+### Summary
+A subgenus of the minnow genus Notropis that includes the lutrensis-ornatus group to which N. xanthicara and N. rutilus belong. In this source, the subgenus is the taxonomic framework in which the authors place the new species and its relatives, including N. proserpinus and N. lepidus.
+
+### Context
+> This 1969 taxonomic paper by [[W. L. Minckley]] and Gerald L. Lytle (Arizona State University) formally describes *Notropis xanthicara*, the [[Cuatro Ciénegas Shiner]], a cyprinid minnow endemic to the [[Cuatro Ciénegas Basin]] in [[Coahuila]], Mexico. The species is most closely related to, and...
+> -- *[[NotropisXanthicaraANewCyprinid_15877]]*
+
+### Mentioned In
+- [[NotropisXanthicaraANewCyprinid_15877]]
 
 ## Cyprinid
 <!-- fm: auto_enriched: true -->
@@ -38033,6 +39099,15 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 
 > This taxonomic paper, Contribution No. 15 from the Laboratorio de Vertebrados, Facultad de Ciencias Biológicas, [[Universidad Autónoma de Nuevo León]] (Monterrey, Mexico), by S. Contreras-B and Jorge Verduzco-M, describes [[Notropis Medialunae]] as a new species of [[Cyprinidae]] known only from a...
 > -- *[[NotropisMedialunae_17532]]*
+
+> This Bureau of Reclamation booklet (prepared by Wayne O. Deason, Environmental Office, Lower Colorado Region) reproduces, often word for word, sheets from the U.S. Fish and Wildlife Service "Red Book" (*Threatened Wildlife of the United States*, 1973 edition). Its purpose is to help Reclamation...
+> -- *[[RegionalInformationSummaryOfTh_12740]]*
+
+> This is the 1950 revision (earlier revisions 1946; first edition mimeographed 30 March 1940) of Milton B. Trautman's mimeographed dichotomous keys to the native fishes of Ohio, issued by the [[Franz Theodore Stone Institute of Hydrobiology]] (Put-in-Bay) and the [[Ohio Division of Wildlife]]. It...
+> -- *[[ArtificialKeysForTheIdentifica_13390]]*
+
+> This 1969 cytological study by [[Michael Lieppman]] and [[Clark Hubbs]] (University of Texas at Austin) examines two Texas minnows, [[Notemigonus Crysoleucas]] ([[Golden Shiner]]) and [[Notropis Lutrensis]] ([[Red Shiner]]). Both species have a diploid chromosome number of 2n = 50, but their...
+> -- *[[AKaryologicalAnalysisOfTwoCypr_20325]]*
 
 ### Mentioned In
 - [[A LAHONTAN REDSIDE, RICHARDSONIUS EGREGIUS (GIRARD), LACKING PELVIC FINS]]
@@ -38349,6 +39424,9 @@ Cyprinidae is the largest family of freshwater fishes, encompassing minnows, car
 - [[SpikedaceMedaFulgidaRecoveryPl_11598]]
 - [[NativeArizonaFishesPartIiiChub_12635]]
 - [[NotropisMedialunae_17532]]
+- [[RegionalInformationSummaryOfTh_12740]]
+- [[ArtificialKeysForTheIdentifica_13390]]
+- [[AKaryologicalAnalysisOfTwoCypr_20325]]
 
 ## Cyprinidae Feeding Ecology
 <!-- fm: auto_enriched: true -->
@@ -38540,8 +39618,12 @@ Cyprinodon alvarezi is a pupfish species suspected to be related to Cyprinodon m
 > This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
 > -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
 
+> This 1980 taxonomic paper, by Michael Leonard Smith and Robert Rush Miller and published in the *Proceedings of the Biological Society of Washington* (93(2): 405-416), describes *[[Cyprinodon Fontinalis]]*, a new [[Pupfish]] species from a cluster of springs in the endorheic [[Guzman Basin]] of...
+> -- *[[SystematicsAndVariationOfANewC_21189]]*
+
 ### Mentioned In
 - [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[SystematicsAndVariationOfANewC_21189]]
 
 ## Cyprinodon artatus
 
@@ -38579,6 +39661,9 @@ Cyprinodon atrorus, commonly known as the Blackfin Pupfish, is a small cyprinodo
 > This document presents the final report of the Emergency Action Program (Programa de Acción Emergente) for the [[Valle de Cuatrociénegas]] Flora and Fauna Protection Area in [[Coahuila]], [[México]], completed in December 1998. The program was a collaborative effort between the North American...
 > -- *[[ProgramaDeAccionEmergenteParaE_19472]]*
 
+> This document is a composite of three unrelated items. Its first and largest part is a catalog of freshwater fish specimen records from Coahuila, Mexico, collected in 1938 and 1939, with catalog numbers, species identities, localities and dates. Its second part is a scientific study of larval...
+> -- *[[MarshsCollections_19384]]*
+
 ### Mentioned In
 - [[CuatroCienegasFishesResearchRe_13699]]
 - [[LetterToDrWLMinckleyRequesting_1994_07_11]]
@@ -38587,6 +39672,7 @@ Cyprinodon atrorus, commonly known as the Blackfin Pupfish, is a small cyprinodo
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[SexualSelectionInTheCuatroCien_20108]]
 - [[ProgramaDeAccionEmergenteParaE_19472]]
+- [[MarshsCollections_19384]]
 
 ## Cyprinodon Beltrani
 <!-- fm: auto_enriched: true -->
@@ -38766,9 +39852,13 @@ Cyprinodon eximius, commonly known as the Cuatro Cienegas pupfish, is a small cy
 > This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
 > -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
 
+> This 1980 taxonomic paper, by Michael Leonard Smith and Robert Rush Miller and published in the *Proceedings of the Biological Society of Washington* (93(2): 405-416), describes *[[Cyprinodon Fontinalis]]*, a new [[Pupfish]] species from a cluster of springs in the endorheic [[Guzman Basin]] of...
+> -- *[[SystematicsAndVariationOfANewC_21189]]*
+
 ### Mentioned In
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[SystematicsAndVariationOfANewC_21189]]
 
 ## Cyprinodon Gibbosus
 <!-- fm: auto_enriched: true -->
@@ -38833,8 +39923,12 @@ Cyprinodon macrolepis is a pupfish species that researchers suspect may be relat
 > This correspondence between Dr. W.L. Minckley (Arizona State University) and Dr. Michael L. Smith (University of Michigan Museum of Zoology) documents ongoing collaborative research on southwestern North American pupfishes and other fishes during August-September 1981. The letters discuss specimen...
 > -- *[[TwoLettersConcerningStudyOfSpe_13691]]*
 
+> This 1980 taxonomic paper, by Michael Leonard Smith and Robert Rush Miller and published in the *Proceedings of the Biological Society of Washington* (93(2): 405-416), describes *[[Cyprinodon Fontinalis]]*, a new [[Pupfish]] species from a cluster of springs in the endorheic [[Guzman Basin]] of...
+> -- *[[SystematicsAndVariationOfANewC_21189]]*
+
 ### Mentioned In
 - [[TwoLettersConcerningStudyOfSpe_13691]]
+- [[SystematicsAndVariationOfANewC_21189]]
 
 ## Cyprinodon macularius
 <!-- fm: auto_enriched: true -->
@@ -39357,6 +40451,9 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 > This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, which lists all species of wildlife and plants determined by the U.S. Fish and Wildlife Service and National Marine Fisheries Service to be Endangered or Threatened under the [[Endangered Species Act]]....
 > -- *[[PartEndangeredAndThreatenedWil_11634]]*
 
+> This Bureau of Reclamation booklet (prepared by Wayne O. Deason, Environmental Office, Lower Colorado Region) reproduces, often word for word, sheets from the U.S. Fish and Wildlife Service "Red Book" (*Threatened Wildlife of the United States*, 1973 edition). Its purpose is to help Reclamation...
+> -- *[[RegionalInformationSummaryOfTh_12740]]*
+
 ### Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AReDescriptionOfAphaniusGinaon_1980]]
@@ -39431,6 +40528,7 @@ Cyprinodontidae is a family of small, typically desert-dwelling freshwater fishe
 - [[FishesOfGreatSmokyMountainsNat_20242]]
 - [[ExperimentalNonessentialPopula_11852]]
 - [[PartEndangeredAndThreatenedWil_11634]]
+- [[RegionalInformationSummaryOfTh_12740]]
 
 ## Cyprinodontiform
 

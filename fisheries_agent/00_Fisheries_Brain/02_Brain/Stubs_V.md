@@ -26,6 +26,18 @@ V9 coded acoustic tags are acoustic transmitters operating at 69 kHz frequency t
 ### Mentioned In
 - [[ChasingNorthernPikeUnderIceLon_2021]]
 
+## Vaca Hills
+
+### Summary
+A area of volcanic rocks about 50 km south of Picacho Peak, used as a regional comparison point. The source contrasts its thick western volcanic sequence with the Tortolita section, which is not underlain by ~25 m.y. volcanics correlative to those of the quadrangle.
+
+### Context
+> This report (Banks, McKee, Keith, Shafiqullah and Damon; Isochron/West no. 22, August 1978) presents potassium-argon (K-Ar) ages and rapid-rock chemical analyses for Precambrian basement, middle Tertiary volcanic and clastic rocks, and a middle Tertiary [[Metamorphic Core Complex]] in the Tortolita...
+> -- *[[RadiometricAndChemicalDataForT_17317]]*
+
+### Mentioned In
+- [[RadiometricAndChemicalDataForT_17317]]
+
 ## Vaillantia
 <!-- fm: auto_enriched: true -->
 
@@ -198,6 +210,18 @@ Valle de Cuatrociénegas is an arid valley in central Coahuila, México, charact
 ### Mentioned In
 - [[ProgramaDeAccionEmergenteParaE_19472]]
 
+## Valley and Ridge Province
+
+### Summary
+A physiographic region of northeastern Alabama where most of Calhoun County lies, characterized by mountainous Appalachian foothill terrain. The authors note that other workers had also failed to find additional pygmy sculpin populations there.
+
+### Context
+> This Southeastern Fishes Council survey documents the fish fauna of springs and spring-fed creeks in [[Calhoun County]], Alabama. Sampling at 83 stations (May 1986 to February 1987, plus earlier collections from the [[Fort McClellan Military Reservation]]) yielded 45 species and 2 hybrids in 24...
+> -- *[[FishesOfSpringsAndSpringfedCre_19006]]*
+
+### Mentioned In
+- [[FishesOfSpringsAndSpringfedCre_19006]]
+
 ## Valley City Fao
 <!-- fm: auto_enriched: true -->
 
@@ -291,8 +315,12 @@ Vallisneria americana, commonly known as wild celery, is an aquatic plant that g
 > This 1968 technical report by Brehmer, Ball, and Kevern examines the biological and chemical characteristics of the [[Red Cedar River]] near [[Williamston, Michigan]], focusing on the impacts of domestic sewage pollution on water quality and benthic invertebrate communities. The study employed six...
 > -- *[[TheBiologyAndChemistryOfAWarmw_12927]]*
 
+> This 1956-era report by the Florida Game and Fresh Water Fish Commission, compiled under Chief of Fisheries [[Don Luethy]], assesses the fishery of [[Lake George]] and the adjoining [[St. Johns River]] (Volusia Bar to Buffalo Bluff). It combines multiple sampling methods (haul seine, otter trawl,...
+> -- *[[SurveyFindingsOnTheLakeGeorgeA_16244]]*
+
 ### Mentioned In
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
+- [[SurveyFindingsOnTheLakeGeorgeA_16244]]
 
 ## Vallonia
 <!-- fm: auto_enriched: true -->
@@ -1391,6 +1419,15 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
 > -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
 
+> This document describes the standardized stream habitat survey used by the [[Arizona Game and Fish Department]] in Region II. It also contains scanned 1979 field data sheets from several central Arizona streams. The method combines three kinds of measurement: - Physico-chemical habitat: channel...
+> -- *[[RegionIiStreamHabitatSurveyMet_15919]]*
+
+> This 1977 symposium paper (Tucson, Arizona, July 9, 1977) by a U.S. Forest Service fisheries and non-game biologist argues that stream fisheries in the Southwest depend on energy and nutrients from riparian vegetation and the surrounding watershed. Uncontrolled livestock grazing removes riparian...
+> -- *[[WildlifeConflictsInRiparianMan_17945]]*
+
+> This U.S. Geological Survey state summary describes stream water quality in Arizona. Data come from 13 monitoring stations. Ten stations are used for conditions in water years 1987-89, and all 13 for trends. Irrigation return flow, mine drainage, sewage effluent, and urban runoff degrade water...
+> -- *[[ArizonaStreamWaterQuality_19603]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1542,6 +1579,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[CommentsOnEnvironmentalAssessm_11570]]
 - [[NativeArizonaFishesPartIispiny_18572]]
 - [[NoticeOfAvailabilityOfDraftEnv_16326]]
+- [[RegionIiStreamHabitatSurveyMet_15919]]
+- [[WildlifeConflictsInRiparianMan_17945]]
+- [[ArizonaStreamWaterQuality_19603]]
 
 ## Verde River Aquatic Ecology
 
@@ -1616,10 +1656,14 @@ Verdigris River is a Kansas waterway where Spotted Sucker was most common along 
 > This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
 > -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
 
+> This 1960 report (Oklahoma Fishery Research Laboratory Report No. 78, by Alfred Houser) summarizes growth of the [[Freshwater Drum]] (*Aplodinotus grunniens*) in Oklahoma from 19 years of data (1940–1958). Scale samples from 3,103 fish were drawn from 32 waters (16 reservoirs, 7 large lakes, 9...
+> -- *[[GrowthOfFreshwaterDrumInOklaho_19938]]*
+
 ### Mentioned In
 - [[WhatHaveICaught_12929]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[MolluscaFromGreenwoodCountyKan_20276]]
+- [[GrowthOfFreshwaterDrumInOklaho_19938]]
 
 ## Verduin 1960
 <!-- fm: auto_enriched: true -->
@@ -2561,6 +2605,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This paper by [[Robert Rush Miller]] and [[W. Daniel Sable]] examines the taxonomy of the chubs of the [[Gila Robusta Complex]] (family Cyprinidae) inhabiting the [[Colorado River]] basin and certain rivers in northwestern Mexico. The authors argue that the group has been confused by subjective,...
 > -- *[[SpeciesRelationshipsAmongFishe_21162]]*
 
+> This document is an Arizona State University (ASU) proposal routing and approval packet for a new grant proposal titled *Fish Community Reorganization in a Perturbed Stream, the Virgin River of UT, AZ and NV*. The proposal would be submitted to the [[U.S. Fish & Wildlife Service]] (Albuquerque, NM)...
+> -- *[[ProposalRoutingApprovalFormFor_13793]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -2673,6 +2720,7 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[SummaryOfTheMeetingOfOctoberCo_14775]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[SpeciesRelationshipsAmongFishe_21162]]
+- [[ProposalRoutingApprovalFormFor_13793]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -2809,6 +2857,12 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This recovery plan addresses two endangered cyprinid species endemic to the [[Virgin River]] system: the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*). The woundfin was listed as endangered on October 13, 1970, and the Virgin River chub on August 24,...
 > -- *[[VirginRiverFishesRecoveryPlan_13186]]*
 
+> This is a draft Preliminary Findings Report (PFR) from the Bureau of Reclamation (Lower Colorado Region) and the Las Vegas Valley Water District (LVVWD), circulated for a 30-day comment period ending April 30, 1993. It evaluates a dual-purpose project on the lower Virgin River in Nevada. The...
+> -- *[[DraftLowerVirginRiverProjectPr_11483]]*
+
+> This draft plan, prepared by the [[Washington County Water Conservancy District]] (WCWCD) and dated January 10, 1995, seeks to reconcile rapid population growth and water development in Washington County, Utah, with protection of threatened and endangered aquatic and riparian species. Washington...
+> -- *[[TheVirginRiverHabitatConservat_14916]]*
+
 ### Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -2868,6 +2922,8 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[ViolationOfQuailCreekReservoir_18647]]
 - [[PreliminaryDraftEnvironmentalA_11680]]
 - [[VirginRiverFishesRecoveryPlan_13186]]
+- [[DraftLowerVirginRiverProjectPr_11483]]
+- [[TheVirginRiverHabitatConservat_14916]]
 
 ## Virgin River Corridor Area of Critical Environmental Concern
 
@@ -2884,8 +2940,13 @@ The Virgin River Corridor Area of Critical Environmental Concern is a Bureau of 
 ## Virgin River Drainage
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This short field report by David A. White (Department of Zoology, [[Brigham Young University]], Provo, Utah) documents the capture of seven adult [[Virgin River Spinedace]] (*Lepidomeda mollispinis mollispinis*) from the [[Sevier River]] in Utah on 6 July 1967. The fish were seined about 3.2 miles...
+> -- *[[TheVirginRiverSpinedaceLepidom_12189]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_1993_03_16]]
+- [[TheVirginRiverSpinedaceLepidom_12189]]
 
 ## Virgin River Fishes Data Base
 <!-- fm: auto_enriched: true -->
@@ -3108,6 +3169,12 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 > This Arizona Game & Fish Department article (*Wildlife Views*, Vol. 16, No. 6, Nov.-Dec. 1969) by [[W. L. Minckley]] of Arizona State University describes the four native [[Spiny-Rayed Minnows]] of the tribe [[Plagopterini]]. These silvery, stream-dwelling cyprinids occur only in the middle and...
 > -- *[[NativeArizonaFishesPartIispiny_18572]]*
 
+> This is a draft Preliminary Findings Report (PFR) from the Bureau of Reclamation (Lower Colorado Region) and the Las Vegas Valley Water District (LVVWD), circulated for a 30-day comment period ending April 30, 1993. It evaluates a dual-purpose project on the lower Virgin River in Nevada. The...
+> -- *[[DraftLowerVirginRiverProjectPr_11483]]*
+
+> This short field report by David A. White (Department of Zoology, [[Brigham Young University]], Provo, Utah) documents the capture of seven adult [[Virgin River Spinedace]] (*Lepidomeda mollispinis mollispinis*) from the [[Sevier River]] in Utah on 6 July 1967. The fish were seined about 3.2 miles...
+> -- *[[TheVirginRiverSpinedaceLepidom_12189]]*
+
 ### Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -3130,6 +3197,8 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[FishesOfNevada_15993]]
 - [[NativeArizonaFishesPartIispiny_18572]]
+- [[DraftLowerVirginRiverProjectPr_11483]]
+- [[TheVirginRiverSpinedaceLepidom_12189]]
 
 ## Virgin Roundtail Chub
 <!-- fm: auto_enriched: true -->
@@ -3217,6 +3286,9 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 > This field report documents emergency fish sampling conducted 07-08 January 1989 along the [[Virgin River]] (Arizona-Nevada-Utah) immediately following the catastrophic failure of [[Quail Creek Reservoir]] dike on 01 January 1989. Personnel from [[Arizona State University]] (ASU) and [[University...
 > -- *[[VirginRiverFishSamplingJanuary_19425]]*
 
+> This draft plan, prepared by the [[Washington County Water Conservancy District]] (WCWCD) and dated January 10, 1995, seeks to reconcile rapid population growth and water development in Washington County, Utah, with protection of threatened and endangered aquatic and riparian species. Washington...
+> -- *[[TheVirginRiverHabitatConservat_14916]]*
+
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AttachedDraftListOfSpeciesAssi_14772]]
@@ -3258,6 +3330,7 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 - [[PreliminaryDraftEnvironmentalA_11680]]
 - [[VirginRiverFishesRecoveryPlan_13186]]
 - [[VirginRiverFishSamplingJanuary_19425]]
+- [[TheVirginRiverHabitatConservat_14916]]
 
 ## Virgin Spinedace Conservation Agreement Strategy
 <!-- fm: auto_enriched: true -->
@@ -3440,6 +3513,18 @@ Vishnu Quadrangle is a topographic map by Evans and Matthes that the expedition 
 
 ### Mentioned In
 - [[AnEvaluationOfFeedsForRaisingR_1992]]
+
+## Vitamin Premix
+
+### Summary
+A vitamin supplement added to the diets, containing vitamins A (50,000 IU), D (5,000 IU) and E (10 units), plus B-complex vitamins, niacinamide, choline bitartrate and monobasic calcium phosphate as a dispersant. It was mixed with a small portion of meal before blending the rest of the feed.
+
+### Context
+> This 1965 article from the *Boletín de Piscicultura Rural*, published by the Mexican [[Secretaría de Industria y Comercio]] through the [[Dirección General de Pesca e Industrias Conexas]] and the [[Instituto Nacional de Investigaciones Biológico-Pesqueras]], reports preliminary work on a cheap,...
+> -- *[[UnaManeraSencillaYEconomicaDeA_11373]]*
+
+### Mentioned In
+- [[UnaManeraSencillaYEconomicaDeA_11373]]
 
 ## Vitreoscillaceae
 <!-- fm: auto_enriched: true -->
@@ -3625,6 +3710,18 @@ Volcan La Malinche is a volcano that forms the eastern boundary of the Puebla Pl
 
 ### Mentioned In
 - [[AquaticResourceSurveyOfTheUnli_17285]]
+
+## Vollenweider-Dillon Phosphorus Model
+
+### Summary
+A loading-based model used to estimate the phosphorus input that a lake or reservoir can receive before becoming eutrophic. In this source, it was applied (via Goldman 1976) to show that phosphorus loading in Las Vegas Bay was about 34 times the 'dangerous' level, yet the bay's actual trophic state was far lower.
+
+### Context
+> Baker and Paulson describe how the saline, nutrient-rich [[Las Vegas Wash]] inflow forms a [[Density Current]] in [[Las Vegas Bay]], [[Lake Mead]], and how this current controls nutrient availability and [[Phytoplankton]] growth. The current acts as an underflow in winter, an interflow along the...
+> -- *[[InfluenceOfLasVegasWashDensity_17284]]*
+
+### Mentioned In
+- [[InfluenceOfLasVegasWashDensity_17284]]
 
 ## Vollestad & Jonsson 1988
 <!-- fm: auto_enriched: true -->
@@ -3831,6 +3928,18 @@ VORTEX (Version 5.1) is a Monte Carlo stochastic simulation model used for popul
 
 ### Mentioned In
 - [[ReportOnPrtActivityFromDecembe_1992_12_01]]
+
+## Voucher Specimens
+
+### Summary
+Voucher specimens are preserved whole organisms kept in collections as permanent, verifiable records of a species at a given place and time. In this survey, the four Roundtail Chub were preserved as vouchers, and the memo recommends collecting Speckled Dace vouchers on the next survey.
+
+### Context
+> This inter-office memo from the [[Arizona Game and Fish Department]] (dated 10 April 1991) reports a reconnaissance of the upper [[Deadman Creek]] drainage, focusing on the [[South Fork Deadman Creek]], in the [[Mazatal Wilderness]]. The survey aimed to verify reports of an unidentified trout in...
+> -- *[[DeadmanCreekSurveyApril_20350]]*
+
+### Mentioned In
+- [[DeadmanCreekSurveyApril_20350]]
 
 ## VR100 portable receiver
 

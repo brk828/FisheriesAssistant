@@ -229,6 +229,18 @@ A code of practice from the International Council for the Exploration of the Sea
 ### Mentioned In
 - [[FindingsConclusionsAndRecommen_15791]]
 
+## Ichetucknee Springs
+
+### Summary
+A spring system in Columbia County, Florida, where University of Florida biologists first reported the Suwannee Bass in 1941. The source notes the species has since been found in the Santa Fe, Withlacoochee and main Suwannee rivers.
+
+### Context
+> This 1949 article by John F. Dequine (reprinted from *Florida Wildlife*, Game & Fresh Water Fish Commission) addresses whether northern Smallmouth Bass occur in Florida. The author reports that, despite many claims of "record Smallmouth" catches, every fish he examined was a Florida Largemouth. No...
+> -- *[[IdentifyingTheFloridaBasses_12820]]*
+
+### Mentioned In
+- [[IdentifyingTheFloridaBasses_12820]]
+
 ## Ichthyobus Tumidus
 <!-- fm: auto_enriched: true -->
 
@@ -885,8 +897,12 @@ Ictalurus lacustris (Channel Catfish) was documented in this survey of Carnahan 
 > This document describes a fish collection survey conducted on [[Carnahan Creek]], a small prairie stream tributary to the [[Big Blue River]] near Stockdale, Kansas. Six collection stations were established along the stream from its mouth to approximately 2 miles upstream. The survey documented 17...
 > -- *[[SurveyOfCarnahanCreekPottawato_15864]]*
 
+> This document is a composite of three unrelated items. Its first and largest part is a catalog of freshwater fish specimen records from Coahuila, Mexico, collected in 1938 and 1939, with catalog numbers, species identities, localities and dates. Its second part is a scientific study of larval...
+> -- *[[MarshsCollections_19384]]*
+
 ### Mentioned In
 - [[SurveyOfCarnahanCreekPottawato_15864]]
+- [[MarshsCollections_19384]]
 
 ## Ictalurus Lacustris Punctatus
 <!-- fm: auto_enriched: true -->
@@ -1698,10 +1714,14 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This 1955 paper by [[Leonard Durham]], published in the *Illinois Academy of Science Transactions* (Vol. 47), reports age and growth analyses of [[Smallmouth Bass]] and [[Longear Sunfish]] in the lower four miles of [[Jordan Creek]], a small tributary of the [[Salt Fork of the Vermilion River]] in...
 > -- *[[EcologicalFactorsAffectingTheG_19169]]*
 
+> Herbert H. Ross's 1947 Illinois Natural History Survey bulletin (Volume 24, Article 1) provides illustrated keys, descriptions, and distribution and habitat summaries for the mosquitoes of Illinois. Of about 150 mosquito species known from the United States and Canada, 52 have been recorded in...
+> -- *[[TheMosquitoesOfIllinoisDiptera_21083]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
 - [[EcologicalFactorsAffectingTheG_19169]]
+- [[TheMosquitoesOfIllinoisDiptera_21083]]
 
 ## Illinois River
 <!-- fm: auto_enriched: true -->
@@ -1737,6 +1757,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
 > -- *[[OklahomaFishesWithDistribution_16567]]*
 
+> This 1960 report (Oklahoma Fishery Research Laboratory Report No. 78, by Alfred Houser) summarizes growth of the [[Freshwater Drum]] (*Aplodinotus grunniens*) in Oklahoma from 19 years of data (1940–1958). Scale samples from 3,103 fish were drawn from 32 waters (16 reservoirs, 7 large lakes, 9...
+> -- *[[GrowthOfFreshwaterDrumInOklaho_19938]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -1749,6 +1772,7 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[LeechesAndTheirImportanceInThe_18934]]
 - [[NationalFishHatcherySystemRevi_11668]]
 - [[OklahomaFishesWithDistribution_16567]]
+- [[GrowthOfFreshwaterDrumInOklaho_19938]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -1771,6 +1795,18 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 
 ### Mentioned In
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
+
+## Ilo
+
+### Summary
+Ilo is a Peruvian coastal port city where the source reports a 1964 minimum anchovy oil content of 3.5%, the lowest of the sampled sites. It is one of the anchovy fishing locations discussed in the chapter.
+
+### Context
+> This chapter (Chapter 26 of *Fish Oils*, reprinted as U.S. Bureau of Commercial Fisheries Circular 282, December 1967) by J. R. Sanchez Torres of the Instituto del Mar del Peru describes the fish oil industry in South America, focusing on Peru. Peru has been the world's largest fish oil producer...
+> -- *[[FishOilIndustryInSouthAmerica_20503]]*
+
+### Mentioned In
+- [[FishOilIndustryInSouthAmerica_20503]]
 
 ## Ilyodon
 <!-- fm: auto_enriched: true -->
@@ -2700,6 +2736,18 @@ The Indian Flap-shelled Turtle is a reptile species that was previously listed u
 - [[FishesInhabitingTheRioGrandeTe_1977_07_09]]
 - [[LaboratoryAndFieldTestsOfTempe_16970]]
 
+## Indian Major Carps
+
+### Summary
+A group of large freshwater cyprinid fishes native to the Indian subcontinent that are widely farmed there. The source's taxonomic index includes this group, and it cites a synopsis of biological data on catla (Jhingran, 1968) as one example.
+
+### Context
+> This document is FAO Fisheries Circular No. 924 (FIRI/C924), compiled by André G. Coche and published by the [[Food and Agriculture Organization]] in Rome in 1997. It is a bibliographical index of about 600 selected FAO documents on [[Aquaculture]] published between January 1960 and March 1997. It...
+> -- *[[AnIndexedListOfFaoPublications_16312]]*
+
+### Mentioned In
+- [[AnIndexedListOfFaoPublications_16312]]
+
 ## Indian Ocean
 
 ### Summary
@@ -2885,6 +2933,18 @@ The Indo-Australian Archipelago was the primary research focus of Pieter van Ble
 
 ### Mentioned In
 - [[InfluenceOfLandMassesOnTheDist_14157]]
+
+## Indo-Pacific Fishery Commission
+
+### Summary
+A regional fisheries body covering the Indo-Pacific region, abbreviated IPFC. The source names it only in its list of organisations and programmes.
+
+### Context
+> This document is FAO Fisheries Circular No. 924 (FIRI/C924), compiled by André G. Coche and published by the [[Food and Agriculture Organization]] in Rome in 1997. It is a bibliographical index of about 600 selected FAO documents on [[Aquaculture]] published between January 1960 and March 1997. It...
+> -- *[[AnIndexedListOfFaoPublications_16312]]*
+
+### Mentioned In
+- [[AnIndexedListOfFaoPublications_16312]]
 
 ## Indo-Pacific Humpback Dolphin
 
@@ -3251,6 +3311,18 @@ Inspiration Consolidated Copper Company was one of three active mining companies
 - [[FreshwaterDrumAplodinotusGrunn_14145]]
 - [[TheoreticalYieldsAtVariousRate_1953]]
 
+## Instar Stadia
+
+### Summary
+The successive larval growth stages (instars) of an insect, separated by molts. In this source, larval stadia are counted and their durations measured to describe development in three Tetragoneuria species, and the author notes that molt number alone does not reliably indicate age.
+
+### Context
+> This document is a composite of three unrelated items. Its first and largest part is a catalog of freshwater fish specimen records from Coahuila, Mexico, collected in 1938 and 1939, with catalog numbers, species identities, localities and dates. Its second part is a scientific study of larval...
+> -- *[[MarshsCollections_19384]]*
+
+### Mentioned In
+- [[MarshsCollections_19384]]
+
 ## Instinctive Behavior
 
 ### Context
@@ -3347,6 +3419,18 @@ The Instituto Indigenista is a Mexican government institution that provided cred
 
 ### Mentioned In
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
+
+## Instituto Nacional de Investigaciones Biológico-Pesqueras
+
+### Summary
+A Mexican national fisheries research institute credited in the source as a co-publisher of this 1965 article on trout feeding. Its role here was institutional, supporting the research reported.
+
+### Context
+> This 1965 article from the *Boletín de Piscicultura Rural*, published by the Mexican [[Secretaría de Industria y Comercio]] through the [[Dirección General de Pesca e Industrias Conexas]] and the [[Instituto Nacional de Investigaciones Biológico-Pesqueras]], reports preliminary work on a cheap,...
+> -- *[[UnaManeraSencillaYEconomicaDeA_11373]]*
+
+### Mentioned In
+- [[UnaManeraSencillaYEconomicaDeA_11373]]
 
 ## Instream Flow
 <!-- fm: auto_enriched: true -->
@@ -3854,6 +3938,18 @@ Stewart L. Udall, a former U.S. Interior Secretary, wrote the foreword to Battle
 
 ### Mentioned In
 - [[FishCommunityStructureAndStabi_15186]]
+
+## Intermittent Stream
+
+### Summary
+A stream that stops flowing for part of the year, leaving pools or dried bed. Station 1 dried on 17 July 1938 after a beaver pond supply failed, eliminating fixed-habit groups such as black flies and many caddisflies.
+
+### Context
+> This University of Toronto Studies monograph (Biological Series No. 56, Ontario Fisheries Research Laboratory Publication No. 69, 1947) by Wm. M. Sprules reports a four-year ecological investigation (1938–1941) of stream insects in the Mud Creek and Madawaska River system of [[Algonquin Park]],...
+> -- *[[AnEcologicalInvestigationOfStr_11870]]*
+
+### Mentioned In
+- [[AnEcologicalInvestigationOfStr_11870]]
 
 ## Intermittent Stream Ecology
 <!-- fm: auto_enriched: true -->
@@ -5100,6 +5196,18 @@ Ironwood (Olneya tesota) is a predominant tree species in the Sonoran Desertscru
 ### Mentioned In
 - [[SeleniumMayHarmRazorbackSucker_11707]]
 
+## Irrigation Return Flow
+
+### Summary
+Water that drains back to streams after being applied to irrigated crops, often carrying dissolved salts and nutrients. The source identifies it as a cause of water-quality degradation in parts of Arizona, including the high dissolved solids (730 mg/L) of the Colorado River at the international boundary below Parker Dam.
+
+### Context
+> This U.S. Geological Survey state summary describes stream water quality in Arizona. Data come from 13 monitoring stations. Ten stations are used for conditions in water years 1987-89, and all 13 for trends. Irrigation return flow, mine drainage, sewage effluent, and urban runoff degrade water...
+> -- *[[ArizonaStreamWaterQuality_19603]]*
+
+### Mentioned In
+- [[ArizonaStreamWaterQuality_19603]]
+
 ## Irrving Development
 
 ### Summary
@@ -5153,6 +5261,34 @@ A small hydroelectric plant, operated by Arizona Public Service, that is supplie
 
 ### Mentioned In
 - [[FossilCreakFlumeaPioneerMonume_16579]]
+
+## Isabella Dam
+
+### Summary
+Isabella Dam is the dam that forms Isabella Reservoir on the Kern River, completed by the U.S. Army Corps of Engineers in 1954. The source describes the reservoir behind it as a large fluctuating flood-control impoundment with a capacity of 570,000 acre-feet.
+
+### Context
+> This California Department of Fish and Game Inland Fisheries Administrative Report (No. 66-7, submitted April 1966, by Robert P. Hayden, Region 4) evaluates whether total angler use and harvest at [[Isabella Reservoir]] can be estimated with limited manpower. The reservoir is a heavily used fishery...
+> -- *[[EstimatedAnglerUseAndHarvestIs_20724]]*
+
+### Mentioned In
+- [[EstimatedAnglerUseAndHarvestIs_20724]]
+
+## Isabella Reservoir
+
+### Summary
+Isabella Reservoir is a large reservoir in Kern County, California, about 40 miles northeast of Bakersfield, built mainly for flood protection of Bakersfield and surrounding agricultural land. According to this source, it holds about 570,000 acre-feet at gross pool, covers up to 11,200 acres, and averages about 50 feet deep. The study site for the threadfin shad and white crappie growth investigation described here.
+
+### Context
+> This California Department of Fish and Game administrative report (Inland Fisheries Report No. 66-6, submitted March 1966) evaluates whether [[Threadfin Shad]] stocked as forage improved the growth of a stunted [[White Crappie]] population in [[Isabella Reservoir]]. Scales from 444 white crappie,...
+> -- *[[TheEffectsOfThreadfinShadOnWhi_15623]]*
+
+> This California Department of Fish and Game Inland Fisheries Administrative Report (No. 66-7, submitted April 1966, by Robert P. Hayden, Region 4) evaluates whether total angler use and harvest at [[Isabella Reservoir]] can be estimated with limited manpower. The reservoir is a heavily used fishery...
+> -- *[[EstimatedAnglerUseAndHarvestIs_20724]]*
+
+### Mentioned In
+- [[TheEffectsOfThreadfinShadOnWhi_15623]]
+- [[EstimatedAnglerUseAndHarvestIs_20724]]
 
 ## Isabelle Timber Sale
 
@@ -5481,6 +5617,18 @@ Isognomon chemnitsiana is a bivalve species documented at Puerto Peñasco. This 
 
 ### Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
+
+## Isopach Mapping
+
+### Summary
+Isopach maps contour equal-thickness lines for a stratigraphic unit, showing where it thickened or thinned. In this paper, successive isopach maps serve as a record of tectonism during deposition, and the authors argue that a series of maps for short intervals can reconstruct Paleozoic structural development in detail.
+
+### Context
+> This 1976 *Arizona Geological Society Digest* paper by Schumacher, Witter, Meader and Keith (Department of Geosciences, University of Arizona) reconstructs Late Devonian structural change in southeastern Arizona. The authors compare [[Isopach Mapping|isopach maps]] of the Frasnian [[Martin...
+> -- *[[LateDevonianTectonismInSouthea_11282]]*
+
+### Mentioned In
+- [[LateDevonianTectonismInSouthea_11282]]
 
 ## Isoperla decepta
 
@@ -5834,6 +5982,18 @@ The Ivel River in England was used as a comparative system in the Blue River stu
 
 ### Mentioned In
 - [[SizeBiasedPredationByTheGilaTo_1980]]
+
+## Ivory-billed Woodpecker
+
+### Summary
+The ivory-billed woodpecker is a large woodpecker of North American forests. Happ cites it as a species whose decline came from human-driven forest changes that produced opposing relations, leading to eventual extinction.
+
+### Context
+> This conceptual essay by George B. Happ of [[The Principia College]] argues that [[Human Ecology]] offers a practical framework for [[Natural Resource Management]]. Happ holds that people are the dominant environmental factor in resource management because of their capacity to make choices,...
+> -- *[[ResourceManagementAndHumanEcol_20627]]*
+
+### Mentioned In
+- [[ResourceManagementAndHumanEcol_20627]]
 
 ## Ivy Log Creek
 <!-- fm: auto_enriched: true -->

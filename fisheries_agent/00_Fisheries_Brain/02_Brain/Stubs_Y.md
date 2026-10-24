@@ -476,6 +476,15 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
 > -- *[[EndemicFishesOfTheColoradoRive_17181]]*
 
+> This document is a cooperative agreement between the [[U.S. Fish and Wildlife Service]] (the Service) and the [[Smithsonian Institution]] to complete Phase I of a three-phase study of the taxonomy and systematics of the [[Humpback Chub]] (*Gila cypha*), the [[Bonytail Chub]] (*Gila elegans*), and...
+> -- *[[CooperativeAgreementBetweenThe_12073]]*
+
+> This is a draft summary, circulated by a US Fish and Wildlife Service (FWS) Region 6 program director on May 5, 1989, of a two-day Management Group meeting of the Colorado River Recovery Implementation Program. The Program aims to recover endangered Colorado River fishes: [[Colorado Squawfish]],...
+> -- *[[AprilManagementGroupMeetingSum_21009]]*
+
+> This is an administrative packet from the U.S. Fish and Wildlife Service (FWS), Region 6, dated March 29, 1990. It announces an April 25, 1990 meeting of the Management Group of the [[Colorado River Recovery Implementation Committee]]. It contains an agenda, a memo from Program Director John Hamill...
+> -- *[[ColoradoRiverManagementGroupMe_21025]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -621,6 +630,9 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[SummaryjuneManagementGroupMeet_20998]]
 - [[PreliminaryDraftRecoveryPlanRa_13063]]
 - [[EndemicFishesOfTheColoradoRive_17181]]
+- [[CooperativeAgreementBetweenThe_12073]]
+- [[AprilManagementGroupMeetingSum_21009]]
+- [[ColoradoRiverManagementGroupMe_21025]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -837,6 +849,12 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This document is a compilation of materials for a West Turkey Creek (WTC) watershed project in Cochise County, Arizona. It contains (1) a U.S. Fish and Wildlife Service (USFWS) Environmental Assessment/Habitat Conservation Plan (EA/HCP) for a 25-year [[Section 10(a)(1)(B) Incidental Take Permit]]...
 > -- *[[ApplicationForWestTurkeyCreekW_12162]]*
 
+> This agency review draft, prepared by the U.S. Fish and Wildlife Service (Region 2, Albuquerque), is a recovery plan for three federally listed fishes of the upper [[Rio Yaqui Basin]]: the [[Yaqui Chub]] (*Gila purpurea*, endangered), the [[Beautiful Shiner]] (*Notropis formosus*, threatened) and...
+> -- *[[AgencyReviewDraftYaquiFishesRe_13257]]*
+
+> This document is a U.S. [[Fish And Wildlife Service]] (Service) cover letter and Federal Register notice announcing an extension of the public review and comment period for a [[Draft Recovery Plan]] covering four fishes of the [[Rio Yaqui]] listed under the [[Endangered Species Act]]. The comment...
+> -- *[[ExtensionOfCommentPeriodRioYaq_20898]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -903,6 +921,8 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[LeslieCanyonNationalWildlifeRe_13468]]
 - [[DraftSanBernardinoNationalWild_11500]]
 - [[ApplicationForWestTurkeyCreekW_12162]]
+- [[AgencyReviewDraftYaquiFishesRe_13257]]
+- [[ExtensionOfCommentPeriodRioYaq_20898]]
 
 ## Yaqui chub
 <!-- fm: auto_enriched: true -->
@@ -1010,6 +1030,12 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This 1970 annotated checklist by [[W. L. Minckley]] of Arizona State University, Tempe, summarizes the current status of the native fishes of [[Arizona]]. Roughly 35 native kinds, including subspecies and suspected distinctive forms, are recognized. Although Arizona is largely desert, its aquatic...
 > -- *[[StatusOfTheNativeArizonaIchthy_18579]]*
 
+> This agency review draft, prepared by the U.S. Fish and Wildlife Service (Region 2, Albuquerque), is a recovery plan for three federally listed fishes of the upper [[Rio Yaqui Basin]]: the [[Yaqui Chub]] (*Gila purpurea*, endangered), the [[Beautiful Shiner]] (*Notropis formosus*, threatened) and...
+> -- *[[AgencyReviewDraftYaquiFishesRe_13257]]*
+
+> This document is a U.S. [[Fish And Wildlife Service]] (Service) cover letter and Federal Register notice announcing an extension of the public review and comment period for a [[Draft Recovery Plan]] covering four fishes of the [[Rio Yaqui]] listed under the [[Endangered Species Act]]. The comment...
+> -- *[[ExtensionOfCommentPeriodRioYaq_20898]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -1093,6 +1119,8 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[StatusOfTheSonoranTopminnowPoe_17209]]
 - [[NativeArizonaFishesPartIiichub_18578]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
+- [[AgencyReviewDraftYaquiFishesRe_13257]]
+- [[ExtensionOfCommentPeriodRioYaq_20898]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -1381,6 +1409,9 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 > This 1970 annotated checklist by [[W. L. Minckley]] of Arizona State University, Tempe, summarizes the current status of the native fishes of [[Arizona]]. Roughly 35 native kinds, including subspecies and suspected distinctive forms, are recognized. Although Arizona is largely desert, its aquatic...
 > -- *[[StatusOfTheNativeArizonaIchthy_18579]]*
 
+> This agency review draft, prepared by the U.S. Fish and Wildlife Service (Region 2, Albuquerque), is a recovery plan for three federally listed fishes of the upper [[Rio Yaqui Basin]]: the [[Yaqui Chub]] (*Gila purpurea*, endangered), the [[Beautiful Shiner]] (*Notropis formosus*, threatened) and...
+> -- *[[AgencyReviewDraftYaquiFishesRe_13257]]*
+
 ### Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -1400,6 +1431,7 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 - [[IllegalFindingOfNoSignificantI_18971]]
 - [[LeslieCanyonNationalWildlifeRe_13468]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
+- [[AgencyReviewDraftYaquiFishesRe_13257]]
 
 ## Yaqui topminnow
 <!-- fm: auto_enriched: true -->
@@ -1492,6 +1524,12 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This Arizona Game and Fish Department special report, based on field surveys from June 1989 to April 1990 and a review of historic data, assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) in Arizona. Both species were...
 > -- *[[StatusOfTheSonoranTopminnowPoe_17209]]*
 
+> This agency review draft, prepared by the U.S. Fish and Wildlife Service (Region 2, Albuquerque), is a recovery plan for three federally listed fishes of the upper [[Rio Yaqui Basin]]: the [[Yaqui Chub]] (*Gila purpurea*, endangered), the [[Beautiful Shiner]] (*Notropis formosus*, threatened) and...
+> -- *[[AgencyReviewDraftYaquiFishesRe_13257]]*
+
+> This document is a U.S. [[Fish And Wildlife Service]] (Service) cover letter and Federal Register notice announcing an extension of the public review and comment period for a [[Draft Recovery Plan]] covering four fishes of the [[Rio Yaqui]] listed under the [[Endangered Species Act]]. The comment...
+> -- *[[ExtensionOfCommentPeriodRioYaq_20898]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -1547,6 +1585,8 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[TechnicalMemorandumToAddressAs_11247]]
 - [[ApplicationForWestTurkeyCreekW_12162]]
 - [[StatusOfTheSonoranTopminnowPoe_17209]]
+- [[AgencyReviewDraftYaquiFishesRe_13257]]
+- [[ExtensionOfCommentPeriodRioYaq_20898]]
 
 ## Yaqui Watershed
 
@@ -1571,6 +1611,18 @@ A new monotypic hydrobiid genus described in this source from the Arizona/Sonora
 
 ### Mentioned In
 - [[FreshwaterMollusksFromNewMexic_13497]]
+
+## Yarkon River
+
+### Summary
+The Yarkon River is a Mediterranean coastal river in Israel. The source says Tilapia nilotica occurs in small numbers there, mainly in this river among the coastal rivers.
+
+### Context
+> This talk-based review (L. Fishelson, Tel-Aviv University) describes the biology, breeding behaviour and early development of the four main *Tilapia* species of Israel. It contrasts bottom-spawners (*T. zillii*) with mouth-breeders (*T. aurea*, *T. nilotica*) and the intermediate *T. galilaea*. It...
+> -- *[[CichlidaeOfTheGenusTilapiaInIs_16408]]*
+
+### Mentioned In
+- [[CichlidaeOfTheGenusTilapiaInIs_16408]]
 
 ## Yashouv 1958
 <!-- fm: auto_enriched: true -->
@@ -1786,6 +1838,9 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 > This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
 > -- *[[FishesOfOklahoma_16566]]*
 
+> This is a January 1991 transmittal letter from the Bureau of Reclamation (Arizona Projects Office) to Dr. Bill Matter (University of Arizona). It forwards agency and expert comments on the draft report "Potential for Transfer of Non-native Fish in Central Arizona Project Canal Waters to the Gila...
+> -- *[[ReviewOfTheDraftReportPotentia_13378]]*
+
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -1820,6 +1875,7 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[FisheryInvestigationsInRegionI_12196]]
 - [[FishesOfOklahoma_16566]]
+- [[ReviewOfTheDraftReportPotentia_13378]]
 
 ## Yellow Belly Sunfish
 
@@ -1954,6 +2010,12 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
 > -- *[[FishesOfOklahoma_16566]]*
 
+> This is a draft Preliminary Findings Report (PFR) from the Bureau of Reclamation (Lower Colorado Region) and the Las Vegas Valley Water District (LVVWD), circulated for a 30-day comment period ending April 30, 1993. It evaluates a dual-purpose project on the lower Virgin River in Nevada. The...
+> -- *[[DraftLowerVirginRiverProjectPr_11483]]*
+
+> This is a research proposal/grant application to The Nature Conservancy (submitted 15 December 1988) by Principal Investigator W. L. Minckley of Arizona State University. It requests **$3150.00** (matching funds $1050.00; total cost $4200.00) for work running 1 February 1989 to July 1990 at the...
+> -- *[[MovementsOfNativeFishesAndImpa_13762]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -2048,6 +2110,8 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[DraftsaltRiverSurvey_14100]]
 - [[SummaryReportSanCarlosApacheIn_19597]]
 - [[FishesOfOklahoma_16566]]
+- [[DraftLowerVirginRiverProjectPr_11483]]
+- [[MovementsOfNativeFishesAndImpa_13762]]
 
 ## Yellow Creek
 
@@ -2280,6 +2344,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
 > -- *[[FishesOfOklahoma_16566]]*
 
+> Ricker, Mosbaugh and Lung report on tagging experiments in 1943 and 1944 with hatchery-reared, catchable-size [[Rainbow Trout]] and a few [[Brown Trout]] planted in northern Indiana streams. Voluntary tag returns from rainbows ranged from 0 to 42 percent in the year of planting. Second-year...
+> -- *[[UtilizationAndSurvivalOfTroutI_16857]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -2379,6 +2446,7 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[ConservationOfTheBlackBassReso_19213]]
 - [[ADemonstrationOfMethodsAndTech_20555]]
 - [[FishesOfOklahoma_16566]]
+- [[UtilizationAndSurvivalOfTroutI_16857]]
 
 ## Yellow Pikeperch
 <!-- fm: auto_enriched: true -->
@@ -2555,6 +2623,18 @@ The Yellowfin Madtom is a fish species with special regulatory designations unde
 
 ### Mentioned In
 - [[PartEndangeredAndThreatenedWil_11612]]
+
+## Yellowfin Sole
+
+### Summary
+A flatfish (*Limanda aspera*) whose overfishing, according to the source, drastically increased demand for Alaska pollock. The paper does not give further details about its biology.
+
+### Context
+> This 1983 student paper (Rod Campbell, Biology 328) reviews the biology, fishery history and economic importance of the Alaska pollock, *Theragra chalcogramma*. It is the most abundant groundfish in the eastern [[Bering Sea]] and Gulf of Alaska. The paper concludes that pollock is the most...
+> -- *[[TheBiologyAndeEconomicImportan_17363]]*
+
+### Mentioned In
+- [[TheBiologyAndeEconomicImportan_17363]]
 
 ## Yellowfin Tuna
 <!-- fm: auto_enriched: true -->
@@ -2939,6 +3019,18 @@ Yoshimura is a researcher who studied Japanese lakes and their trophic classific
 ### Mentioned In
 - [[ANewSpeciesOfLaccobiusFromTheG_1968_12_30]]
 
+## Young Block Gravel Pit Ponds
+
+### Summary
+Ponds in the San Pedro Riparian National Conservation Area created by former gravel mining at the Young Block site. The 1990 draft plan lists them as a habitat for evaluating reintroduction of Gila topminnow, desert pupfish, Colorado pikeminnow and razorback sucker, and as a site for improving pond habitat for native fish.
+
+### Context
+> This is an April 13, 1990 cover letter from the Bureau of Land Management (BLM) Safford District to Dr. W. L. Minckley (Arizona State University). It summarizes the April 5, 1990 meeting of the Biological Resources Technical Committee in Tucson and encloses draft planned actions and management...
+> -- *[[SanPedroHabitatManagementPlan_17353]]*
+
+### Mentioned In
+- [[SanPedroHabitatManagementPlan_17353]]
+
 ## Young Trout
 <!-- fm: auto_enriched: true -->
 
@@ -3031,6 +3123,18 @@ Yucatán is a Mexican state included in the geographic extent of this climatolog
 ### Mentioned In
 - [[DouglasMexicanTemperaturePreci_12378]]
 
+## Yucatán Peninsula
+
+### Summary
+A low-lying limestone peninsula in southeastern Mexico, covering Yucatán, Campeche and Quintana Roo. In this source, stations there, such as Mérida at about 92 in per year, show a wet summer and autumn season, and raw monthly series are provided for several of them.
+
+### Context
+> This is a data package, not a research paper. A cover letter dated 2 November 1984 from the University of Arizona Laboratory of Tree-Ring Research was sent to Mr. Dave E. Brown of the Zoology Department at Arizona State University. It encloses temperature and precipitation data for Mexican...
+> -- *[[TemperatureAndPrecipitationDat_12376]]*
+
+### Mentioned In
+- [[TemperatureAndPrecipitationDat_12376]]
+
 ## Yucca baccata
 
 ### Summary
@@ -3111,6 +3215,9 @@ Yuma is a city in southwestern Arizona at very low elevation. The lecture notes 
 > This historical account describes a December hunting expedition down the [[Colorado River]] from [[Yuma]] and up the [[Hardy River]] in [[Lower California]], Mexico. The party traveled 109 miles down the Colorado and attempted 100 miles up the Hardy to reach volcanoes. While primarily a hunting...
 > -- *[[AHuntingTripDownTheColorado_17597]]*
 
+> This 1904 report from the [[New York Botanical Garden]], published in the *Journal of the New York Botanical Garden*, records a botanical collecting expedition across Texas, Arizona, Sonora, and Baja California. The party surveyed desert vegetation, descended the [[Colorado River]] by sloop from...
+> -- *[[BotanicalExplorationsInTheSout_12961]]*
+
 ### Mentioned In
 - [[LectureNotesFromBiologyClass_13784]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
@@ -3118,6 +3225,7 @@ Yuma is a city in southwestern Arizona at very low elevation. The lecture notes 
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
 - [[FringetoedLizardstheSnowshoeHa_13222]]
 - [[AHuntingTripDownTheColorado_17597]]
+- [[BotanicalExplorationsInTheSout_12961]]
 
 ## Yuma Area Office
 
@@ -3512,6 +3620,18 @@ The Yuma Division is one of two routing options through which water can be coope
 ### Mentioned In
 - [[TransmittalRegardingReasonable_19809]]
 - [[LowerColoradoRiverMaps_12161]]
+
+## Yuma Division Plans
+
+### Summary
+These are planned projects for the Yuma division of the lower Colorado River. The source names them as threats that could change river conditions affecting the razorback sucker. The authors argue that agencies need species data before designing such projects.
+
+### Context
+> This 1980 study proposal, prepared by W. E. Loudermilk (Assistant Fishery Biologist, [[California Department of Fish and Game]] Region 5), seeks to fill major data gaps on the [[Razorback Sucker]], a declining native fish of the [[Colorado River]] drainage. The proposal covers juvenile and adult...
+> -- *[[AspectsOfJuvenileAndAdultRazor_16214]]*
+
+### Mentioned In
+- [[AspectsOfJuvenileAndAdultRazor_16214]]
 
 ## Yuma Dunes
 

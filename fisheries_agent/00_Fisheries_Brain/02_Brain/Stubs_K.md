@@ -28,6 +28,18 @@ The Kabul River is a 350 km freshwater river in Afghanistan that rises at Sar Ch
 ### Mentioned In
 - [[FishesOfAfghanistanAnAnnotated_15968]]
 
+## Kaeding and Zimmerman
+
+### Summary
+Kaeding and Zimmerman (1982, 1983) are Arizona Game and Fish Department studies whose data formed part of the database compiled for this review. Their work estimated roughly 7,000–8,000 adult humpback chub (>200 mm TL) in 1980–1981, described as a 'ball park' figure. They also tagged fish, recapturing 3.9–5.4% with a maximum movement of 17.1 km.
+
+### Context
+> This 1990 draft report by the [[Arizona Game and Fish Department]] (Research Branch), submitted to the [[Bureau of Reclamation]] (Upper Colorado Region), compiles and reanalyzes the scattered "grey literature," agency reports and unpublished data on the endangered [[Humpback Chub]] in the Colorado...
+> -- *[[TheEndangeredHumpbackChubGilaC_12469]]*
+
+### Mentioned In
+- [[TheEndangeredHumpbackChubGilaC_12469]]
+
 ## Kaeding And Zimmerman 1983
 <!-- fm: auto_enriched: true -->
 
@@ -263,6 +275,9 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 > This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
 > -- *[[DiaryOfGrandCanyonSurvey_17643]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) annual report for the 1993 field season of [[Glen Canyon Environmental Studies]] (GCES) Phase II documents habitat use by the endangered [[Humpback Chub]] and other native fishes in the [[Little Colorado River]] (LCR), and assesses the potential of...
+> -- *[[GlenCanyonEnvironmentalStudies_11085]]*
+
 ### Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -286,6 +301,7 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[SummaryOfEndangeredFishResearc_13612]]
 - [[DiaryOfGrandCanyonSurvey_17643]]
+- [[GlenCanyonEnvironmentalStudies_11085]]
 
 ## Kanab Creek-Virgin River Basin
 <!-- fm: auto_enriched: true -->
@@ -356,6 +372,18 @@ Kane Creek was a fishing location in Lake Powell that received 4.1% of angler tr
 ### Mentioned In
 - [[EndangeredSpeciesLawSubjectOfC_1998_12_31]]
 - [[EndangeredAndThreatenedWildlif_11654]]
+
+## Kankakee River
+
+### Summary
+A river in the Illinois-Mississippi drainage that flows through northern Indiana and receives the Little Kankakee River. The study included tributary streams in its drainage among the sites where hatchery trout were planted and their returns were tracked.
+
+### Context
+> Ricker, Mosbaugh and Lung report on tagging experiments in 1943 and 1944 with hatchery-reared, catchable-size [[Rainbow Trout]] and a few [[Brown Trout]] planted in northern Indiana streams. Voluntary tag returns from rainbows ranged from 0 to 42 percent in the year of planting. Second-year...
+> -- *[[UtilizationAndSurvivalOfTroutI_16857]]*
+
+### Mentioned In
+- [[UtilizationAndSurvivalOfTroutI_16857]]
 
 ## Kanopolis Reservoir
 <!-- fm: auto_enriched: true -->
@@ -1083,6 +1111,18 @@ Kennedy was a researcher who collaborated with Mihursky on temperature effects i
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 
+## Kenneth B. Armitage
+
+### Summary
+Kenneth B. Armitage is a co-author of this 1967 University of Kansas Science Bulletin paper on the external morphology of Diaptomus clavipes. The source credits him with co-writing the study of the species' adult and copepodid stages.
+
+### Context
+> This 1967 *University of Kansas Science Bulletin* paper by Kamate and [[Kenneth B. Armitage]] describes the external anatomy of all copepodid stages (CI–CVI) and the adults of [[Diaptomus clavipes]], a freshwater calanoid copepod collected from ponds at the University of Kansas. The species was...
+> -- *[[ExternalMorphologyOfAdultAndCo_17878]]*
+
+### Mentioned In
+- [[ExternalMorphologyOfAdultAndCo_17878]]
+
 ## Kenneth V. Rosenberg
 
 ### Summary
@@ -1135,6 +1175,9 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This Colorado Division of Wildlife memorandum (August 14, 1990, from Jim Bennett, Chairman of the Technical Group) transmits the final minutes of the [[Technical Group]] meeting held June 5-7, 1990. The meeting reviewed and ranked proposals for the FY-91 [[Work Plan]] of the [[Recovery...
 > -- *[[TechnicalGroupMeetingMinutesJu_18171]]*
 
+> This is a draft summary, circulated by a US Fish and Wildlife Service (FWS) Region 6 program director on May 5, 1989, of a two-day Management Group meeting of the Colorado River Recovery Implementation Program. The Program aims to recover endangered Colorado River fishes: [[Colorado Squawfish]],...
+> -- *[[AprilManagementGroupMeetingSum_21009]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -1148,6 +1191,7 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[DraftManagementGroupMeetingSum_17880]]
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[TechnicalGroupMeetingMinutesJu_18171]]
+- [[AprilManagementGroupMeetingSum_21009]]
 
 ## Kennith Foster
 
@@ -1465,6 +1509,18 @@ Kern County was the fifth-ranked black bass county in California in 1960, with 7
 ### Mentioned In
 - [[MovementsOfInlandAnglersWithin_11325]]
 
+## Kern County Parks and Recreation
+
+### Summary
+Kern County Parks and Recreation is a local agency that supported the Isabella Reservoir study. According to the source, it provided boat counts and Kern County weather data. The report notes that filling use-count gaps with these data was impractical because no consistent pattern emerged.
+
+### Context
+> This California Department of Fish and Game Inland Fisheries Administrative Report (No. 66-7, submitted April 1966, by Robert P. Hayden, Region 4) evaluates whether total angler use and harvest at [[Isabella Reservoir]] can be estimated with limited manpower. The reservoir is a heavily used fishery...
+> -- *[[EstimatedAnglerUseAndHarvestIs_20724]]*
+
+### Mentioned In
+- [[EstimatedAnglerUseAndHarvestIs_20724]]
+
 ## Kern River
 <!-- fm: auto_enriched: true -->
 
@@ -1478,11 +1534,15 @@ Kern County was the fifth-ranked black bass county in California in 1960, with 7
 > This 1964 study by [[John R. Calaprice]] and [[John E. Cushing]] investigated erythrocyte (red blood cell) antigens in California trout species to determine if immunogenetic techniques could identify relationships and variation useful for fisheries management. The research examined [[Golden Trout]]...
 > -- *[[ErythrocyteAntigensOfCaliforni_17330]]*
 
+> This California Department of Fish and Game Inland Fisheries Administrative Report (No. 66-7, submitted April 1966, by Robert P. Hayden, Region 4) evaluates whether total angler use and harvest at [[Isabella Reservoir]] can be estimated with limited manpower. The reservoir is a heavily used fishery...
+> -- *[[EstimatedAnglerUseAndHarvestIs_20724]]*
+
 ### Mentioned In
 - [[SalmoRoseiNotAValidSpecies_12861]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
 - [[CaliforniaCatchableTroutFisher_14146]]
 - [[ErythrocyteAntigensOfCaliforni_17330]]
+- [[EstimatedAnglerUseAndHarvestIs_20724]]
 
 ## Kern River Hatchery
 
@@ -3125,6 +3185,15 @@ The Kosi System is an estuarine system in northern Natal, South Africa (26°54'S
 
 ### Mentioned In
 - [[ThreatenedFishesOfTheWorldSand_1996]]
+
+## Kramer and Smith
+
+### Context
+> This paper, by George W. McCammon, Don LaFaunce and Charles M. Seeley of the [[California Department of Fish and Game]] Inland Fisheries Branch, compares four August food habit studies of young-of-the-year [[Largemouth Bass]] (fingerlings) in [[Clear Lake]]. The 1948 study had proposed that the...
+> -- *[[ObservationsOnTheFoodOfFingler_12249]]*
+
+### Mentioned In
+- [[ObservationsOnTheFoodOfFingler_12249]]
 
 ## Krauskopf 1956
 <!-- fm: auto_enriched: true -->

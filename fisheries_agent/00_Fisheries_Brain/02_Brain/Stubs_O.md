@@ -156,6 +156,9 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 > A comprehensive fisheries survey was conducted along the [[Blue River]] in [[Greenlee County]], Arizona from June 16-19, 1997. The survey team from [[Arizona State University]] and [[United States Forest Service]] sampled 90 pools between [[Smith Ranch]] and F.S. Road 475 ([[Juan Miller...
 > -- *[[BlueRiverPoolSamplingGreenleeC_17213]]*
 
+> This document describes the standardized stream habitat survey used by the [[Arizona Game and Fish Department]] in Region II. It also contains scanned 1979 field data sheets from several central Arizona streams. The method combines three kinds of measurement: - Physico-chemical habitat: channel...
+> -- *[[RegionIiStreamHabitatSurveyMet_15919]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -171,6 +174,7 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[BlueRiverPoolSamplingGreenleeC_17213]]
+- [[RegionIiStreamHabitatSurveyMet_15919]]
 
 ## Oak Creek Canyon
 
@@ -257,6 +261,18 @@ The Oasis Valley Springsnail (Pyrgulopsis micrococcus) is a hydrobiid snail foun
 
 ### Mentioned In
 - [[DraftDayFindingForDesertFishes_20489]]
+
+## Oatmeal Bait
+
+### Summary
+Oatmeal bait is a food lure placed inside traps to attract small mammals. According to this source, the Sherman traps at the first site were baited with oatmeal.
+
+### Context
+> This document is a multi-page field log, not a fish study. It records a small-mammal trapping effort and a plant inventory at two roadside sites near creek drainages. The scan is heavily degraded, and most pages are unreadable. The legible entries cover a September field session, a group of student...
+> -- *[[AzGilaCoSierraAnchaMtFieldNote_19357]]*
+
+### Mentioned In
+- [[AzGilaCoSierraAnchaMtFieldNote_19357]]
 
 ## Oax Pa
 
@@ -348,6 +364,18 @@ Obliquaria reflexa is a unionid mussel found rarely at West Creek (Station 6) in
 
 ### Mentioned In
 - [[RecordsFromEastTexasOfThreeSpe_1951_09_30]]
+
+## OCAP
+
+### Summary
+Operating criteria and procedures, the rules governing how Truckee River flows and reservoirs are operated. The recovery plan lists revising the OCAP as one of the actions needed to secure cui-ui spawning inflow.
+
+### Context
+> This is a partially legible, OCR-degraded fragment of the recovery plan for the endangered [[Cui-ui]]. It includes the executive summary page, a cost table by recovery need, and the implementation schedule. The only extant population lives in [[Pyramid Lake]] in western Nevada. The text notes that...
+> -- *[[ExecutiveSummaryOfTheRecoveryP_11480]]*
+
+### Mentioned In
+- [[ExecutiveSummaryOfTheRecoveryP_11480]]
 
 ## Ocate Creek
 
@@ -509,6 +537,18 @@ The Ocoee River is a stream system in Tennessee where introgression between Rede
 
 ### Mentioned In
 - [[DragonfliesCollectedInKentucky_1984_06_26]]
+
+## Ocotillo
+
+### Summary
+Ocotillo (Fouquieria splendens) is a spiny desert shrub of the Southwest and Baja California. The source lists it among the desert species growing on the coastal slopes near San Felipe Bay.
+
+### Context
+> This 1904 report from the [[New York Botanical Garden]], published in the *Journal of the New York Botanical Garden*, records a botanical collecting expedition across Texas, Arizona, Sonora, and Baja California. The party surveyed desert vegetation, descended the [[Colorado River]] by sloop from...
+> -- *[[BotanicalExplorationsInTheSout_12961]]*
+
+### Mentioned In
+- [[BotanicalExplorationsInTheSout_12961]]
 
 ## Ocqueoc River
 <!-- fm: auto_enriched: true -->
@@ -721,10 +761,14 @@ Odonata is the taxonomic order comprising dragonflies and damselflies, which are
 > This technical report presents a comprehensive year-long study (July 1958 - July 1959) of drift material in the [[Red Cedar River]], Michigan—a warm-water tributary of the [[Grand River]] system. Drift material was defined as living and non-living suspended matter removable by filtration through...
 > -- *[[TheNutrientCompositionDynamics_12515]]*
 
+> This 1964 Oklahoma State University doctoral dissertation in Zoology by [[John Lawrence Butler]] examines how water exchange, turbidity, dissolved solids, temperature and light control primary productivity in farm ponds and in laboratory [[Microecosystem]] studies. Field work on [[Myers Ponds]] and...
+> -- *[[InteractionOfEffectsByEnvironm_14113]]*
+
 ### Mentioned In
 - [[FactorsInfluencingLocalDistrib_17059]]
 - [[SomeEffectsOfPlantsAndAnimalsO_15778]]
 - [[TheNutrientCompositionDynamics_12515]]
+- [[InteractionOfEffectsByEnvironm_14113]]
 
 ## Odum 1956
 <!-- fm: auto_enriched: true -->
@@ -870,6 +914,30 @@ Office Cove is a backwater rearing site located at Bill Williams River National 
 ### Mentioned In
 - [[CreationOfTheNationalBiologica_1993_03_17]]
 
+## Office Of The Federal Register
+
+### Summary
+The U.S. federal office that publishes official government notices, including the Federal Register. In this source, the Fish and Wildlife Service's cover letter is addressed to it, asking that the comment period extension notice be published as soon as possible.
+
+### Context
+> This document is a U.S. [[Fish And Wildlife Service]] (Service) cover letter and Federal Register notice announcing an extension of the public review and comment period for a [[Draft Recovery Plan]] covering four fishes of the [[Rio Yaqui]] listed under the [[Endangered Species Act]]. The comment...
+> -- *[[ExtensionOfCommentPeriodRioYaq_20898]]*
+
+### Mentioned In
+- [[ExtensionOfCommentPeriodRioYaq_20898]]
+
+## Office of the General Counsel
+
+### Summary
+The legal office within an agency that provides legal opinions. The Forest requested a legal opinion from the OGC on the fairness of the state statute giving downstream districts veto power. According to this source, the request received no formal response.
+
+### Context
+> This document is a set of agency and county correspondence (1992-1993) on the proposed [[Pigeon Creek Lake]] on the [[Apache-Sitgreaves National Forest]]. The main obstacle was [[Water Rights Severance and Transfer]]. Under [[Arizona Revised Statutes 45-172]], downstream irrigation districts hold...
+> -- *[[PigeonCreekLakeProject_20727]]*
+
+### Mentioned In
+- [[PigeonCreekLakeProject_20727]]
+
 ## Ogallala Formation
 
 ### Summary
@@ -939,9 +1007,13 @@ The Ohaus Scale is a balance with a 1,100-gram capacity used in this study to we
 > This 1957 article, reprinted from *Industrial Wastes* and written by [[Vernon W. Cole]], describes how [[Acid Mine Drainage]] from bituminous coal mines damaged [[Lake Alma]] in southeastern Ohio. Acid inflow caused a decline and loss of several fish species, including [[Gizzard Shad]], [[Carp]],...
 > -- *[[LimeTreatmentOfLakeReducesAcid_17119]]*
 
+> This is the 1950 revision (earlier revisions 1946; first edition mimeographed 30 March 1940) of Milton B. Trautman's mimeographed dichotomous keys to the native fishes of Ohio, issued by the [[Franz Theodore Stone Institute of Hydrobiology]] (Put-in-Bay) and the [[Ohio Division of Wildlife]]. It...
+> -- *[[ArtificialKeysForTheIdentifica_13390]]*
+
 ### Mentioned In
 - [[SomeMeritsOfThreeKindsOfMarker_18096]]
 - [[LimeTreatmentOfLakeReducesAcid_17119]]
+- [[ArtificialKeysForTheIdentifica_13390]]
 
 ## Ohio Muskellunge
 
@@ -986,6 +1058,12 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 > This 1957 article, reprinted from *Industrial Wastes* and written by [[Vernon W. Cole]], describes how [[Acid Mine Drainage]] from bituminous coal mines damaged [[Lake Alma]] in southeastern Ohio. Acid inflow caused a decline and loss of several fish species, including [[Gizzard Shad]], [[Carp]],...
 > -- *[[LimeTreatmentOfLakeReducesAcid_17119]]*
 
+> This is the 1950 revision (earlier revisions 1946; first edition mimeographed 30 March 1940) of Milton B. Trautman's mimeographed dichotomous keys to the native fishes of Ohio, issued by the [[Franz Theodore Stone Institute of Hydrobiology]] (Put-in-Bay) and the [[Ohio Division of Wildlife]]. It...
+> -- *[[ArtificialKeysForTheIdentifica_13390]]*
+
+> This study compares the age and growth of [[White Sucker]] (*[[Catostomus commersoni]]*) from two small Kentucky streams that drain to the [[Ohio River]]: [[Doe Run Creek]] in Meade County and [[Goose Creek]] in Jefferson County. Ages were estimated by counting annuli on scales, and growth was...
+> -- *[[TheAgeAndGrowthOfCatostomusCom_14581]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
@@ -1006,6 +1084,8 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 - [[AStudyOfTheToothPatchOnTheSpot_16200]]
 - [[GrowthRatesOfTheWhiteCrappiePo_16032]]
 - [[LimeTreatmentOfLakeReducesAcid_17119]]
+- [[ArtificialKeysForTheIdentifica_13390]]
+- [[TheAgeAndGrowthOfCatostomusCom_14581]]
 
 ## Ohio River Drainage
 <!-- fm: auto_enriched: true -->
@@ -1057,6 +1137,18 @@ Ohio Valley is a reference region used for comparative context regarding species
 
 ### Mentioned In
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
+
+## Oil Pollution
+
+### Summary
+Contamination of water by petroleum products, one of the industrial waste sources covered in the review. The source reports that a refinery study found species reduction once organic carbon exceeded 4.5 percent in benthos and 8 percent in sediment bottles. It also notes that microbial oxidation of sea oil may reach 100–960 mg/m³/day.
+
+### Context
+> This is the annual "Biology" review for the Water Pollution Control Federation, covering the 1966 literature. It summarizes about 324 cited papers plus 50 additional references. Authors are Katz, Sparks and Oglesby, with contributors from the University of Washington College of Fisheries. The...
+> -- *[[BiologyInAReviewOfTheLiteratur_17895]]*
+
+### Mentioned In
+- [[BiologyInAReviewOfTheLiteratur_17895]]
 
 ## Oil Refinery Effluent
 
@@ -1308,6 +1400,18 @@ The Oklahoma Natural Heritage Inventory is an organization that conducted status
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11592]]
 
+## Oklahoma Reservoirs
+
+### Summary
+Man-made impoundments in Oklahoma that were built in large numbers and were relatively new when this 1960 report was written. The report groups reservoirs over 500 acres as one of three water types and finds freshwater drum grew more slowly in them than in small lakes, with mean length at age 6 of 18.2 inches. Construction of these reservoirs also increased angler numbers and a commercial drum fishery.
+
+### Context
+> This 1960 report (Oklahoma Fishery Research Laboratory Report No. 78, by Alfred Houser) summarizes growth of the [[Freshwater Drum]] (*Aplodinotus grunniens*) in Oklahoma from 19 years of data (1940–1958). Scale samples from 3,103 fish were drawn from 32 waters (16 reservoirs, 7 large lakes, 9...
+> -- *[[GrowthOfFreshwaterDrumInOklaho_19938]]*
+
+### Mentioned In
+- [[GrowthOfFreshwaterDrumInOklaho_19938]]
+
 ## Oklahoma State University
 
 ### Summary
@@ -1323,10 +1427,14 @@ Oklahoma State University was the institution where this research on fish bioass
 > This document comprises historical field collection notes (Station M34-2 and M30-60) and correspondence dated March 28, 1989, from the [[University of Michigan Museum of Zoology]] Division of Fishes to Dr. W. L. Minckley at [[Arizona State University]]. The field notes document collection of...
 > -- *[[FishCollectionRecordsAndFieldN_15305]]*
 
+> This 1964 Oklahoma State University doctoral dissertation in Zoology by [[John Lawrence Butler]] examines how water exchange, turbidity, dissolved solids, temperature and light control primary productivity in farm ponds and in laboratory [[Microecosystem]] studies. Field work on [[Myers Ponds]] and...
+> -- *[[InteractionOfEffectsByEnvironm_14113]]*
+
 ### Mentioned In
 - [[TheSuitabilitiesAndRelativeRes_19185]]
 - [[EvaluationAndRelativeResistanc_19097]]
 - [[FishCollectionRecordsAndFieldN_15305]]
+- [[InteractionOfEffectsByEnvironm_14113]]
 
 ## Okriocythere
 
@@ -1661,6 +1769,15 @@ Oligochaeta are a group of sedentary aquatic invertebrates, particularly oligoch
 
 ### Mentioned In
 - [[TheChemicalCompositionOfSomeNa_11052]]
+
+## Oligotrophic Lakes
+
+### Context
+> This 1966 study (Dingell-Johnson Project F-18-R) uses scales to determine age and growth of [[Largemouth Bass]], [[Smallmouth Bass]], [[Bluegill]] and [[Red-ear Sunfish]] in [[Folsom Lake]] during the first 7 years after impoundment (1955-1961). Largemouth bass grew slightly faster than smallmouth...
+> -- *[[TheAgeAndGrowthOfCentrarchidFi_13538]]*
+
+### Mentioned In
+- [[TheAgeAndGrowthOfCentrarchidFi_13538]]
 
 ## Oligotrophic Loughs
 <!-- fm: auto_enriched: true -->
@@ -2238,6 +2355,9 @@ Ondatra zibethicus (muskrat) is an aquatic mammal identified as occurring in the
 > This 1958 study by Wilbur L. Hartman investigated whether sedating fish with [[Urethane]] reduced measurement error and improved accuracy when recording fork and total lengths. Four groups of fish were measured repeatedly while normal and while drugged: yearling [[Brown Trout]], yearling [[Lake...
 > -- *[[TheUseOfSedativesToReduceManip_20686]]*
 
+> This 1966 study (Dingell-Johnson Project F-18-R) uses scales to determine age and growth of [[Largemouth Bass]], [[Smallmouth Bass]], [[Bluegill]] and [[Red-ear Sunfish]] in [[Folsom Lake]] during the first 7 years after impoundment (1955-1961). Largemouth bass grew slightly faster than smallmouth...
+> -- *[[TheAgeAndGrowthOfCentrarchidFi_13538]]*
+
 ### Mentioned In
 - [[AnElectricalSurfaceDeviceForCa_16181]]
 - [[ChangingChemicalAndBiologicalC_12793]]
@@ -2245,6 +2365,7 @@ Ondatra zibethicus (muskrat) is an aquatic mammal identified as occurring in the
 - [[FishParasites_20804]]
 - [[WinterFoodHabitsOfPikeperchInO_16899]]
 - [[TheUseOfSedativesToReduceManip_20686]]
+- [[TheAgeAndGrowthOfCentrarchidFi_13538]]
 
 ## Oniscidae
 
@@ -2697,9 +2818,13 @@ Ophiothrix spiculata is a brittle star characterized by very long arm spines and
 > This comprehensive risk assessment examines anthropogenic stressors affecting Arizona's stream and river ecosystems. The document, authored by W.L. Minckley and Dennis M. Kubly from Arizona State University and Arizona Game & Fish Department, evaluates physical, chemical, and biological alterations...
 > -- *[[ArizonaComparativeRiskProjectE_15833]]*
 
+> This Bureau of Reclamation report presents the 1982 limnological monitoring results for [[Twin Lakes]], a montane lake system in central Colorado, and compares them with pre-operation data. The study is part of the long-term [[Mt. Elbert Pumped-Storage Powerplant]] assessment (project DR-331). The...
+> -- *[[EffectsOfOperatingTheMtElbertP_12651]]*
+
 ### Mentioned In
 - [[BiologicalInvasionsLessonsForE_16179]]
 - [[ArizonaComparativeRiskProjectE_15833]]
+- [[EffectsOfOperatingTheMtElbertP_12651]]
 
 ## Oppenheimer 1937
 <!-- fm: auto_enriched: true -->
@@ -2777,6 +2902,18 @@ Opthof and Leydesdorff are researchers who published work in 2010 advocating for
 
 ### Mentioned In
 - [[FieldTripNotes_12290]]
+
+## Oracle Granite
+
+### Summary
+A Precambrian-Y granite that underlies much of the Tortolita Mountains quadrangle and contains pendants of Pinal Schist. The source notes it is cut by tourmaline-bearing pegmatite and diabase dikes, and gives its age as roughly 1420-1460 m.y. for comparison with the quartz diorite sample.
+
+### Context
+> This report (Banks, McKee, Keith, Shafiqullah and Damon; Isochron/West no. 22, August 1978) presents potassium-argon (K-Ar) ages and rapid-rock chemical analyses for Precambrian basement, middle Tertiary volcanic and clastic rocks, and a middle Tertiary [[Metamorphic Core Complex]] in the Tortolita...
+> -- *[[RadiometricAndChemicalDataForT_17317]]*
+
+### Mentioned In
+- [[RadiometricAndChemicalDataForT_17317]]
 
 ## Oracle, Arizona
 <!-- fm: auto_enriched: true -->
@@ -2896,6 +3033,9 @@ Orangemouth Corvina is a marine fish species that has been documented in the con
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> This 1968 progress report (Lasker and Tenaza, California Department of Fish and Game, Inland Fisheries Administrative Report No. 68-4) responds to the rising salinity of the [[Salton Sea]]. It describes methods for capturing ripe [[Bairdiella]], [[Sargo]] and [[Orangemouth Corvina]], artificially...
+> -- *[[SaltonSeaFishLarvaeInvestigati_20193]]*
+
 ### Mentioned In
 - [[ComputerizedDataBaseForExoticF_1991]]
 - [[EvaluationOfProposedIntroducti_12261]]
@@ -2903,6 +3043,7 @@ Orangemouth Corvina is a marine fish species that has been documented in the con
 - [[SpeciesStockingHistoryInTexasD_1987]]
 - [[SurvivalOfSomeFishesRecentlyIn_19099]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[SaltonSeaFishLarvaeInvestigati_20193]]
 
 ## Orangespotted Sunfish
 <!-- fm: auto_enriched: true -->
@@ -3216,6 +3357,18 @@ Orconectes neglectus neglectus is an epigean (surface-dwelling) crayfish species
 ### Mentioned In
 - [[ThreeNewCrawfishesRelatedToOrc_1972_02_29]]
 
+## Orconectes Rusticus Rusticus
+
+### Summary
+A crayfish subspecies that hosted Attheyella pilosa at Doe Run, Kentucky. The study used Orconectes infestation levels to show that copepod numbers peak in winter and drop in midsummer, tracking host molting.
+
+### Context
+> This 1968 paper in the *Proceedings of the Biological Society of Washington* examines two harpacticoid copepods of the genus [[Attheyella]], [[Attheyella Pilosa]] and [[Attheyella Carolinensis]], which live on [[Crayfish]] hosts in the eastern United States. The authors redescribe both species,...
+> -- *[[NotesOnTheHarpacticoidCopepods_17754]]*
+
+### Mentioned In
+- [[NotesOnTheHarpacticoidCopepods_17754]]
+
 ## Orconectes Shoupi
 <!-- fm: auto_enriched: true -->
 
@@ -3276,6 +3429,9 @@ Ord Creek is a small mountain stream in Apache County, Arizona, within the Gila 
 > This January 1990 letter from Dr. John N. Rinne (USFS Rocky Mountain Forestry Sciences Lab) to Jim Hanson (USFWS Pinetop) discusses electrophoretic genetic studies of [[Apache Trout]] populations in the [[White Mountains]] and their implications for conservation management. Rinne compares recent...
 > -- *[[ReTheElectrophoreticStudyOfWhi_14999]]*
 
+> This report by Danny M. Regan (Colorado Cooperative Fishery Unit) compares body measurements of 16 [[Gila Trout]] and 16 [[Ord Creek Trout]] as part of a broader study of Gila trout ecology and its taxonomic relationship to other trouts. Funding came from the New Mexico Department of Game and Fish...
+> -- *[[ComparisonOfMorphometricMeasur_16798]]*
+
 ### Mentioned In
 - [[AnalysisOfApacheTroutPopulatio_15424]]
 - [[EffectsOfChemicalTreatmentForF_15892]]
@@ -3284,6 +3440,19 @@ Ord Creek is a small mountain stream in Apache County, Arizona, within the Gila 
 - [[VariationInApacheTroutPopulati_1985]]
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[ReTheElectrophoreticStudyOfWhi_14999]]
+- [[ComparisonOfMorphometricMeasur_16798]]
+
+## Ord Creek Trout
+
+### Summary
+A trout population from Ord Creek on the Apache Indian Reservation in Arizona, not yet formally classified at the time of this report. Regan compared its body measurements with Gila trout and found significant differences in most traits, leading him to recommend it be classified as a new species, proposed as Salmo apache.
+
+### Context
+> This report by Danny M. Regan (Colorado Cooperative Fishery Unit) compares body measurements of 16 [[Gila Trout]] and 16 [[Ord Creek Trout]] as part of a broader study of Gila trout ecology and its taxonomic relationship to other trouts. Funding came from the New Mexico Department of Game and Fish...
+> -- *[[ComparisonOfMorphometricMeasur_16798]]*
+
+### Mentioned In
+- [[ComparisonOfMorphometricMeasur_16798]]
 
 ## Ordinary High Water Line
 
@@ -3744,6 +3913,18 @@ Organ Pipe National Monument in Pima County, Arizona, contains Quitobaquito Spri
 - [[FinalProgressReport_18563]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 
+## Organic Act
+
+### Summary
+The 1897 federal statute establishing the purposes of National Forests. In this source, the Forest Service cited it, together with the Multiple Use Sustained Yield Act, in support of keeping the water rights in its own name rather than transferring them to the County.
+
+### Context
+> This document is a set of agency and county correspondence (1992-1993) on the proposed [[Pigeon Creek Lake]] on the [[Apache-Sitgreaves National Forest]]. The main obstacle was [[Water Rights Severance and Transfer]]. Under [[Arizona Revised Statutes 45-172]], downstream irrigation districts hold...
+> -- *[[PigeonCreekLakeProject_20727]]*
+
+### Mentioned In
+- [[PigeonCreekLakeProject_20727]]
+
 ## Organic Drift
 <!-- fm: auto_enriched: true -->
 
@@ -4164,6 +4345,30 @@ ORSTOM was the French overseas scientific research institute, now known as IRD. 
 ### Mentioned In
 - [[ObservationsOnTheFishesOfTheGe_1909_12_08]]
 
+## Orthophosphate
+
+### Summary
+A dissolved form of phosphorus that acts as a nutrient for algae and plants. In this impoundment, average inflow orthophosphate was high at 2 mg/l, and the source says it helped stimulate the phytoplankton blooms that caused low oxygen.
+
+### Context
+> This thesis, from a Department of Biological Sciences, evaluated whether [[Reclaimed Wastewater]] treated by [[Sand Filtration]] (tertiary treatment) could support a [[Sport Fishery]]. Three fish were tested: [[Channel Catfish]], [[Rainbow Trout]] and [[Tilapia Hybrids]]. The study aimed to...
+> -- *[[SportFishProductionAndProducti_20981]]*
+
+### Mentioned In
+- [[SportFishProductionAndProducti_20981]]
+
+## Orthopodomyia
+
+### Summary
+Orthopodomyia is a mosquito genus whose eggs are laid singly in damp humus or above the water line. The source notes that it overwinters as larvae in pitcher plants or tree holes.
+
+### Context
+> Herbert H. Ross's 1947 Illinois Natural History Survey bulletin (Volume 24, Article 1) provides illustrated keys, descriptions, and distribution and habitat summaries for the mosquitoes of Illinois. Of about 150 mosquito species known from the United States and Canada, 52 have been recorded in...
+> -- *[[TheMosquitoesOfIllinoisDiptera_21083]]*
+
+### Mentioned In
+- [[TheMosquitoesOfIllinoisDiptera_21083]]
+
 ## Oryzias
 
 ### Summary
@@ -4454,6 +4659,18 @@ Osmoregulation refers to the physiological processes by which fish maintain home
 
 ### Mentioned In
 - [[OsmoregulatoryRoleOfSerumGluco_1971]]
+
+## Osmotic Stress
+
+### Summary
+Osmotic stress is the physiological strain an organism experiences when the salt concentration of its environment differs from that of its body fluids. The report frames rising Salton Sea salinity as an osmotic challenge and tests whether bairdiella, sargo and Neanthes can tolerate it during early life stages.
+
+### Context
+> This 1968 progress report (Lasker and Tenaza, California Department of Fish and Game, Inland Fisheries Administrative Report No. 68-4) responds to the rising salinity of the [[Salton Sea]]. It describes methods for capturing ripe [[Bairdiella]], [[Sargo]] and [[Orangemouth Corvina]], artificially...
+> -- *[[SaltonSeaFishLarvaeInvestigati_20193]]*
+
+### Mentioned In
+- [[SaltonSeaFishLarvaeInvestigati_20193]]
 
 ## Osphranticum
 <!-- fm: auto_enriched: true -->
@@ -4896,8 +5113,12 @@ Otolith analysis is a method that reads growth rings in the ear stones of fish t
 > This critique by [[Hiram W. Li]] of the [[Oregon State University]] [[Oregon Cooperative Fishery Research Unit]] reviews the [[Glen Canyon Environmental Studies Program]], which funds research on the endangered [[Humpback Chub]] in the [[Grand Canyon]] of the [[Colorado River]]. The author argues...
 > -- *[[CritiqueOfHumpbackChubResearch_20317]]*
 
+> This 1970 study (Greenfield, Ross and Deckert) describes the life history of the [[Santa Ana Sucker]], a small stream-dwelling catostomid of the subgenus [[Pantosteus]], in the [[Santa Clara River]] from April 1968 to August 1969. A total of 3,359 individuals was collected at two stations. Spawning...
+> -- *[[SomeAspectsOfTheLifeHistoryOfT_19254]]*
+
 ### Mentioned In
 - [[CritiqueOfHumpbackChubResearch_20317]]
+- [[SomeAspectsOfTheLifeHistoryOfT_19254]]
 
 ## Otolith Back-Calculation Growth Analysis
 <!-- fm: auto_enriched: true -->
@@ -4938,8 +5159,12 @@ Ottawa River in Quebec was one of the field collection sites where charophyte sp
 > This is a research proposal submitted by Dr. Arland T. Hotchkiss, Associate Professor of Biology at the [[University of Louisville]], requesting continued NSF support for a three-year cytotaxonomic study of the [[Characeae]] (charophytes). The proposal seeks funding from September 1, 1961 to...
 > -- *[[ProposalForContinuedSupportOfN_19929]]*
 
+> This University of Toronto Studies monograph (Biological Series No. 56, Ontario Fisheries Research Laboratory Publication No. 69, 1947) by Wm. M. Sprules reports a four-year ecological investigation (1938–1941) of stream insects in the Mud Creek and Madawaska River system of [[Algonquin Park]],...
+> -- *[[AnEcologicalInvestigationOfStr_11870]]*
+
 ### Mentioned In
 - [[ProposalForContinuedSupportOfN_19929]]
+- [[AnEcologicalInvestigationOfStr_11870]]
 
 ## Otter
 
@@ -5378,6 +5603,15 @@ Overton Arm is one of the four major sections of Lake Mead reservoir. The study 
 ### Mentioned In
 - [[MicronutrientsAndBiologicalPat_11436]]
 
+## Overton Wildlife Management Area
+
+### Context
+> This is a draft Preliminary Findings Report (PFR) from the Bureau of Reclamation (Lower Colorado Region) and the Las Vegas Valley Water District (LVVWD), circulated for a 30-day comment period ending April 30, 1993. It evaluates a dual-purpose project on the lower Virgin River in Nevada. The...
+> -- *[[DraftLowerVirginRiverProjectPr_11483]]*
+
+### Mentioned In
+- [[DraftLowerVirginRiverProjectPr_11483]]
+
 ## Ovis Canadensis
 <!-- fm: auto_enriched: true -->
 
@@ -5517,6 +5751,9 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 > This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
 > -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
 
+> This Bureau of Reclamation booklet (prepared by Wayne O. Deason, Environmental Office, Lower Colorado Region) reproduces, often word for word, sheets from the U.S. Fish and Wildlife Service "Red Book" (*Threatened Wildlife of the United States*, 1973 edition). Its purpose is to help Reclamation...
+> -- *[[RegionalInformationSummaryOfTh_12740]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
@@ -5535,6 +5772,7 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 - [[ConservationGeneticsInTheManag_20087]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[StatusOfTheInlandAquaticAndSem_12694]]
+- [[RegionalInformationSummaryOfTh_12740]]
 
 ## Owens River
 <!-- fm: auto_enriched: true -->
@@ -5737,6 +5975,18 @@ Owens Valley Refuge is a conservation facility in the western United States that
 ### Mentioned In
 - [[UsfwsmexicoCooperativeProgramG_16498]]
 
+## Owens Valley Sucker
+
+### Summary
+A catostomid sucker native to the Owens Valley region of eastern California. According to this source, Santa Clara River Santa Ana suckers have been influenced by genes from this species, which may mean their results differ from those in other drainages.
+
+### Context
+> This 1970 study (Greenfield, Ross and Deckert) describes the life history of the [[Santa Ana Sucker]], a small stream-dwelling catostomid of the subgenus [[Pantosteus]], in the [[Santa Clara River]] from April 1968 to August 1969. A total of 3,359 individuals was collected at two stations. Spawning...
+> -- *[[SomeAspectsOfTheLifeHistoryOfT_19254]]*
+
+### Mentioned In
+- [[SomeAspectsOfTheLifeHistoryOfT_19254]]
+
 ## Owl Cove
 
 ### Summary
@@ -5891,6 +6141,18 @@ Oxnard, California was the site of the Daryl Arnold Ranch where in 1953, five th
 ### Mentioned In
 - [[InUnexpectedPlacesCluesToAncie_14832]]
 
+## Oxygen Method
+
+### Summary
+The oxygen method measures primary productivity from changes in dissolved oxygen over a day. In this study it was applied in farm ponds using the Winkler/azide titration for diurnal dissolved oxygen.
+
+### Context
+> This 1964 Oklahoma State University doctoral dissertation in Zoology by [[John Lawrence Butler]] examines how water exchange, turbidity, dissolved solids, temperature and light control primary productivity in farm ponds and in laboratory [[Microecosystem]] studies. Field work on [[Myers Ponds]] and...
+> -- *[[InteractionOfEffectsByEnvironm_14113]]*
+
+### Mentioned In
+- [[InteractionOfEffectsByEnvironm_14113]]
+
 ## oxygen minimum zone
 
 ### Summary
@@ -5969,6 +6231,18 @@ The oyster toadfish is a marine fish species that serves as the host for the new
 
 ### Mentioned In
 - [[TwoNewArgulidsCopepodaBranchur_18010]]
+
+## Oysters
+
+### Summary
+Marine and estuarine bivalve molluscs that are widely cultured for food. The source includes them as one of the taxonomic groups in its index of more than 60 groups.
+
+### Context
+> This document is FAO Fisheries Circular No. 924 (FIRI/C924), compiled by André G. Coche and published by the [[Food and Agriculture Organization]] in Rome in 1997. It is a bibliographical index of about 600 selected FAO documents on [[Aquaculture]] published between January 1960 and March 1997. It...
+> -- *[[AnIndexedListOfFaoPublications_16312]]*
+
+### Mentioned In
+- [[AnIndexedListOfFaoPublications_16312]]
 
 ## Ozark Blindfish
 
@@ -6158,3 +6432,15 @@ The Ozarks is a geographic region that contains significant cave systems with nu
 
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11596]]
+
+## Ozone Treatment
+
+### Summary
+Ozone treatment is a water disinfection process that uses ozone gas to kill or remove biological organisms. In this source, Berg proposes a 300 cfs ozone treatment plant at McClusky to sterilise Missouri River water before it enters the inlet, so that biota are removed and Canada's objection is addressed.
+
+### Context
+> This 1995 policy document by [[Gordon Berg]], chairman of the [[Devils Lake-Sheyenne-Red River Advisory Committee]], argues that [[Devils Lake]] water management must include both an inlet and an outlet, not an outlet alone. Berg contends that an outlet-only plan will concentrate salts, risk a...
+> -- *[[WaterForBirdsFishPeople_18182]]*
+
+### Mentioned In
+- [[WaterForBirdsFishPeople_18182]]

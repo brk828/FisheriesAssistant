@@ -91,8 +91,12 @@ Zander (Stizostedion lucioperca) is a European fish species closely related to t
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> This 1995 policy document by [[Gordon Berg]], chairman of the [[Devils Lake-Sheyenne-Red River Advisory Committee]], argues that [[Devils Lake]] water management must include both an inlet and an outlet, not an outlet alone. Berg contends that an outlet-only plan will concentrate salts, risk a...
+> -- *[[WaterForBirdsFishPeople_18182]]*
+
 ### Mentioned In
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[WaterForBirdsFishPeople_18182]]
 
 ## Zannichellia
 
@@ -501,10 +505,14 @@ Zoarces, the viviparous blenny, was the subject of classic studies on fish races
 > This 1970 Bureau of Land Management resource report documents the natural values of [[Aravaipa Canyon]], Arizona, and proposes management criteria for its designation as a Primitive Area. The canyon contains a 15-mile perennial stream supporting seven of twelve native fish species from the [[San...
 > -- *[[ResourceReportOnAravaipaCanyon_11458]]*
 
+> This inter-office memo from the [[Arizona Game and Fish Department]] (dated 10 April 1991) reports a reconnaissance of the upper [[Deadman Creek]] drainage, focusing on the [[South Fork Deadman Creek]], in the [[Mazatal Wilderness]]. The survey aimed to verify reports of an unidentified trout in...
+> -- *[[DeadmanCreekSurveyApril_20350]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
 - [[ChangesInRiparianVegetationAnd_14524]]
 - [[ResourceReportOnAravaipaCanyon_11458]]
+- [[DeadmanCreekSurveyApril_20350]]
 
 ## Zonitoides Arboreus
 <!-- fm: auto_enriched: true -->
@@ -556,10 +564,14 @@ Zoogeography in fish science refers to the study of how fish species are distrib
 > This structure illustrates a classic freshwater-to-marine ecological continuum along Pacific coastal drainages of the [[Sonoran Desert]]-adjacent thorn forest biome, governed by [[Zoogeography|zoogeographic affinity]] and salinity tolerance.
 > -- *[[FishFaunaOfTheThornForestOnPac_1988_07_27]]*
 
+> This is a data package, not a research paper. A cover letter dated 2 November 1984 from the University of Arizona Laboratory of Tree-Ring Research was sent to Mr. Dave E. Brown of the Zoology Department at Arizona State University. It encloses temperature and precipitation data for Mexican...
+> -- *[[TemperatureAndPrecipitationDat_12376]]*
+
 ### Mentioned In
 - [[ARevisionOfTheSandDartersOfThe_1969]]
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
 - [[Zoogeography_18180]]
+- [[TemperatureAndPrecipitationDat_12376]]
 
 ## Zoogeography Of The Levant
 <!-- fm: auto_enriched: true -->
@@ -651,6 +663,12 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > The Native Fish Project at [[Phoenix Zoo]] established a dual-purpose conservation facility in summer 1996 to provide long-term refugium and head-start capabilities for endangered southwestern native fish species. Through multi-agency collaboration, zoo staff successfully converted existing lake...
 > -- *[[FishFareFineAtPhoenix_19367]]*
 
+> In July 1963, 35 lb of sodium molybdate (containing 14 lb of molybdenum) were added to Castle Lake, California. Angler yields of [[Rainbow Trout]] in 1966 and [[Eastern Brook Trout]] in 1967 were then at record levels. Each year's yield was about 3.5 lb per acre above the 1960-1965 mean (12.8...
+> -- *[[InfluenceOfMolybdenumOnTheTrou_17593]]*
+
+> This thesis, from a Department of Biological Sciences, evaluated whether [[Reclaimed Wastewater]] treated by [[Sand Filtration]] (tertiary treatment) could support a [[Sport Fishery]]. Three fish were tested: [[Channel Catfish]], [[Rainbow Trout]] and [[Tilapia Hybrids]]. The study aimed to...
+> -- *[[SportFishProductionAndProducti_20981]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -666,6 +684,8 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[ThePlanktonSamplerAnInstrument_1950]]
 - [[HabitatSuitabilityIndexModelsC_15766]]
 - [[FishFareFineAtPhoenix_19367]]
+- [[InfluenceOfMolybdenumOnTheTrou_17593]]
+- [[SportFishProductionAndProducti_20981]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->
@@ -732,6 +752,18 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 
 ### Mentioned In
 - [[CalanoidCopepodsFromSomeOldAri_16013]]
+
+## Zorach
+
+### Summary
+Zorach (1972) is cited as the researcher who summarized about 15 years of work on Nothonotus darters, which produced five new species. Earlier, Zorach also flagged the Duck River specimens as an undescribed species rather than E. microlepidum.
+
+### Context
+> Williams and Etnier (1978) describe the Coppercheek Darter, *Etheostoma aquali*, a new species of the subgenus [[Nothonotus]] known only from the [[Duck River]] and [[Buffalo River]], tributaries of the [[Tennessee River]] in central Tennessee. It is most similar to [[Etheostoma maculatum...
+> -- *[[EtheostomaAqualiANewPercidFish_12004]]*
+
+### Mentioned In
+- [[EtheostomaAqualiANewPercidFish_12004]]
 
 ## Zorach 1967
 <!-- fm: auto_enriched: true -->
