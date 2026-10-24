@@ -50,10 +50,21 @@ def _now() -> str:
     return datetime.now(timezone.utc).isoformat(timespec="seconds")
 
 
+def _mids_with_notes() -> set:
+    """MIDs that already have a note in 01_Sources (file name ends in _<MID>.md), e.g. processed before this tool
+    existed or on another machine. Staging them again would only be skipped or ignored by the ingest watcher."""
+    out = set()
+    for f in pdf_ingest.SOURCES_DIR.glob("*.md"):
+        tail = f.stem.rsplit("_", 1)[-1]
+        if tail.isdigit() and 5 <= len(tail) <= 6:
+            out.add(tail)
+    return out
+
+
 def candidates(source: Path, state: dict) -> tuple:
     """([{mid, names, paths, size}] smallest first, [mids whose PDF is not in the source folder]).
     Rows sharing a MID (e.g. '19192 (1).pdf', '19192 (2).pdf') form one item and are merged when staged."""
-    done = {r["mid"] for r in _read(DONE_CSV)}
+    done = {r["mid"] for r in _read(DONE_CSV)} | _mids_with_notes()
     excluded = set(state.get("excluded", {}))
     groups = {}
     for r in _read(TODO_CSV):
@@ -111,11 +122,24 @@ def stage(item: dict) -> None:
     os.replace(tmp, dest)
 
 
+_HASHES = {}
+
+
+def _hash(path: Path) -> str:
+    """File hash, cached by (name, size, mtime) so the 15-second poll does not re-read unchanged PDFs."""
+    st = path.stat()
+    key = (path.name, st.st_size, st.st_mtime)
+    if key not in _HASHES:
+        _HASHES[key] = pdf_ingest.file_hash(path)
+    return _HASHES[key]
+
+
 def _statuses(state: dict) -> dict:
     """{mid: 'done' | 'skipped' | 'failed' | 'duplicate' | None} from the ingest manifest.
     'duplicate': the file left pdfs_to_process without a new record (an exact copy of a note already in the brain)."""
+    manifest = _load_json(MANIFEST_PATH)
     latest = {}
-    for rec in sorted(_load_json(MANIFEST_PATH).values(), key=lambda r: r.get("timestamp", "")):
+    for rec in sorted(manifest.values(), key=lambda r: r.get("timestamp", "")):
         if rec.get("timestamp", "") >= state["staged_at"]:
             latest[rec.get("file")] = rec
     out = {}
@@ -125,7 +149,12 @@ def _statuses(state: dict) -> dict:
         if rec:
             out[it["mid"]] = rec.get("status") if rec.get("status") in ("done", "skipped", "failed") else None
         else:
-            out[it["mid"]] = None if (PDF_DIR / name).exists() else "duplicate"
+            staged = PDF_DIR / name
+            if staged.exists() and manifest.get(_hash(staged), {}).get("status") == "done":
+                # an identical file was finished before this batch; the watcher ignores it, so it would wait forever
+                staged.unlink(missing_ok=True)
+                print(f"  {it['mid']}: identical PDF already processed earlier; removed the staged copy")
+            out[it["mid"]] = None if staged.exists() else "duplicate"
     return out
 
 
