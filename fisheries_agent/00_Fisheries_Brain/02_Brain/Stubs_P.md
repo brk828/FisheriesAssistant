@@ -538,6 +538,18 @@ Pacific Ocean Perch is a demersal species that was depleted by heavy fishing in 
 ### Mentioned In
 - [[ReviewOfTheStateOfWorldFishery_16310]]
 
+## Pacific Oyster
+
+### Summary
+Crassostrea gigas, a marine oyster in the family Ostreidae, native to the Pacific Ocean. The source notes it underpins much Pacific Coast marine aquaculture in the United States.
+
+### Context
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
+### Mentioned In
+- [[FindingsConclusionsAndRecommen_15791]]
+
 ## Pacific Railroad Survey
 
 ### Summary
@@ -889,6 +901,9 @@ Paddlefish (*Polyodon spathula*) is a primitive chondrostean fish species belong
 > This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
 > -- *[[OklahomaFishesWithDistribution_16567]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -920,6 +935,7 @@ Paddlefish (*Polyodon spathula*) is a primitive chondrostean fish species belong
 - [[EnclosedManuscript_20559]]
 - [[EndangeredAndThreatenedWildlif_11654]]
 - [[OklahomaFishesWithDistribution_16567]]
+- [[FishesOfOklahoma_16566]]
 
 ## Paddlefish Aquaculture
 <!-- fm: auto_enriched: true -->
@@ -2014,8 +2030,12 @@ Paleoclimatology in fish science refers to the study of ancient climate conditio
 > - Disjunct fish distributions in [[Chihuahua]], [[Durango]], and [[Zacatecas]] are confirmed as **genuine biogeographic patterns**, not artifacts of incomplete sampling. - **Progressive Tertiary subdivision of hydrographic basins** — driven by uplift of the Sierra Madre Occidental and associated ...
 > -- *[[ProbableOriginOfSomeDisjunctFi_15303]]*
 
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
 ### Mentioned In
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
+- [[StatusOfTheInlandAquaticAndSem_12694]]
 
 ## Paleoichthyology Of Chapala
 <!-- fm: auto_enriched: true -->
@@ -4955,6 +4975,18 @@ Paul C. Marsh is a prominent ichthyologist and principal investigator who has co
 - [[WhereToFindWaterExpertiseAtSta_13523]]
 - [[ProgressReportForCooperativeAg_19095]]
 
+## Paul E. Damon
+
+### Summary
+Paul E. Damon was a University of Arizona researcher who participated in the investigations of Montezuma Well. The source names him as a participant without detailing his specific role.
+
+### Context
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
+### Mentioned In
+- [[FinalReportToMontezumaMonument_16015]]
+
 ## Paul Holden
 <!-- fm: auto_enriched: true -->
 
@@ -5074,6 +5106,18 @@ Paul Reinhardt is named in the 1992 letter as one of two people who reportedly r
 
 ### Mentioned In
 - [[DfcSymposiumProgram_16193]]
+
+## Paul S. Martin
+
+### Summary
+Paul S. Martin was a University of Arizona researcher who participated in the investigations of Montezuma Well. The source names him as a participant without detailing his specific role.
+
+### Context
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
+### Mentioned In
+- [[FinalReportToMontezumaMonument_16015]]
 
 ## Paul Tashjian
 
@@ -5504,6 +5548,9 @@ The Pecos Gambusia (*Gambusia nobilis*) is an extremely rare, critically endange
 > This New Mexico Department of Game and Fish technical report (Hoagstrom and Brooks, 1998; Tech. Rpt. No. 2) reviews the distribution, status, and conservation of the [[Pecos Pupfish]] (*Cyprinodon pecosensis*) across the Pecos River Basin of New Mexico and Texas. Sampling of all known populations...
 > -- *[[DistributionStatusAndConservat_12985]]*
 
+> This U.S. Fish and Wildlife Service final project report, prepared by Anthony A. Echelle, Alice F. Echelle, and D. R. Edds (Oklahoma State University, Dept. of Zoology), compares the genetic structure of captive populations held at the [[Dexter National Fish Hatchery]] (DNFH) with natural...
+> -- *[[GeneticStructureOfThreeSpecies_11601]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[AspectsOfTheThermalEcologyOfCy_13860]]
@@ -5516,6 +5563,7 @@ The Pecos Gambusia (*Gambusia nobilis*) is an extremely rare, critically endange
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 - [[AbstractsFromTheDesertFishesCo_15019]]
 - [[DistributionStatusAndConservat_12985]]
+- [[GeneticStructureOfThreeSpecies_11601]]
 
 ## Pecos Pupfish
 <!-- fm: auto_enriched: true -->
@@ -11640,8 +11688,12 @@ Pirarucu is a large freshwater fish species for which mark-recapture methods are
 > This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
 > -- *[[OklahomaFishesWithDistribution_16567]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[OklahomaFishesWithDistribution_16567]]
+- [[FishesOfOklahoma_16566]]
 
 ## Piru Creek
 <!-- fm: auto_enriched: true -->

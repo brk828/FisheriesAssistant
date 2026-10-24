@@ -1088,8 +1088,12 @@ The Verde Formation is a Miocene-Pliocene geological formation associated with a
 > This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
 > -- *[[MorphologicalVariationInGilaPi_12778]]*
 
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
 ### Mentioned In
 - [[MorphologicalVariationInGilaPi_12778]]
+- [[FinalReportToMontezumaMonument_16015]]
 
 ## Verde Paddlethon
 <!-- fm: auto_enriched: true -->
@@ -1384,6 +1388,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This Arizona Game & Fish Department article (*Wildlife Views*, Vol. 16, No. 6, Nov.-Dec. 1969) by [[W. L. Minckley]] of Arizona State University describes the four native [[Spiny-Rayed Minnows]] of the tribe [[Plagopterini]]. These silvery, stream-dwelling cyprinids occur only in the middle and...
 > -- *[[NativeArizonaFishesPartIispiny_18572]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1534,6 +1541,7 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[SpikedaceMedaFulgidaRecoveryPl_11598]]
 - [[CommentsOnEnvironmentalAssessm_11570]]
 - [[NativeArizonaFishesPartIispiny_18572]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Verde River Aquatic Ecology
 

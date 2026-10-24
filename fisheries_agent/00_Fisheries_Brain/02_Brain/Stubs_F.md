@@ -964,6 +964,9 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This Arizona Game and Fish Department special report, based on field surveys from June 1989 to April 1990 and a review of historic data, assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) in Arizona. Both species were...
 > -- *[[StatusOfTheSonoranTopminnowPoe_17209]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -1125,6 +1128,7 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[SomeEffectsOfSupplementalFeedi_20572]]
 - [[ReviewOfTheNationalResearchCom_13738]]
 - [[StatusOfTheSonoranTopminnowPoe_17209]]
+- [[FishesOfOklahoma_16566]]
 
 ## Fathead Minnows
 
@@ -1453,10 +1457,14 @@ The Federal Committee on Pest Control was a federal oversight body that required
 > This conference presentation examines alternatives to [[Habitat Conservation Plan]]s (HCPs) for protecting aquatic endangered species, focusing on two major recovery programs: the [[Upper Colorado River Recovery Program]] and the [[Central Platte River Recovery Program]]. The document argues that...
 > -- *[[AlternativeApproachesToHcpsFor_16735]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[DamRemovalWhoShouldPay_1999_09_26]]
 - [[AmericanRiversStacMeetingOfJun_17977]]
 - [[AlternativeApproachesToHcpsFor_16735]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Federal Fish Hatchery Funding Trends
 <!-- fm: auto_enriched: true -->
@@ -6227,6 +6235,9 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > This paper by [[Robert Rush Miller]] and [[W. Daniel Sable]] examines the taxonomy of the chubs of the [[Gila Robusta Complex]] (family Cyprinidae) inhabiting the [[Colorado River]] basin and certain rivers in northwestern Mexico. The authors argue that the group has been confused by subjective,...
 > -- *[[SpeciesRelationshipsAmongFishe_21162]]*
 
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
+> -- *[[EndemicFishesOfTheColoradoRive_17181]]*
+
 ### Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -6316,6 +6327,7 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[ReInformationYouRequestedForFi_13065]]
 - [[ReviewOfTheNationalResearchCom_13738]]
 - [[SpeciesRelationshipsAmongFishe_21162]]
+- [[EndemicFishesOfTheColoradoRive_17181]]
 
 ## Flaming Gorge Flow Investigations
 
@@ -7178,6 +7190,9 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 > This document is a 1 September 1987 letter from a professor of zoology at [[Arizona State University]] to the Project Manager of the [[Bureau of Reclamation]] (Arizona Project Office). It reviews the draft [[Environmental Assessment]] (EA) for [[Roosevelt Diversion Dam]] modifications for public...
 > -- *[[CommentsOnEnvironmentalAssessm_11570]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
@@ -7276,6 +7291,7 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 - [[GeneticDiversityOfRazorbackSuc_19113]]
 - [[AgeAndGrowthOfFlatheadCatfishI_20904]]
 - [[CommentsOnEnvironmentalAssessm_11570]]
+- [[FishesOfOklahoma_16566]]
 
 ## Flathead Chub
 <!-- fm: auto_enriched: true -->
@@ -9506,6 +9522,9 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 > This document is a 1966 magazine feature from the [[Arizona Engineer And Scientist]] describing the [[Fossil Creek Flume]], a historic water conduit that diverts spring-fed flow from [[Fossil Creek]] to power two small hydroelectric plants, [[Irving Plant]] and [[Childs Plant]], operated by...
 > -- *[[FossilCreakFlumeaPioneerMonume_16579]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[DesertFishesRecoveryTeamAction_11691]]
@@ -9525,6 +9544,7 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[FossilCreakFlumeaPioneerMonume_16579]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Fossil Creek Flume
 
@@ -9553,8 +9573,12 @@ Fossil Springs is a spring system in the Verde River drainage with constant warm
 > This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
 > -- *[[MorphologicalVariationInGilaPi_12778]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[MorphologicalVariationInGilaPi_12778]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Fossil Springs Diversion Dam
 <!-- fm: auto_enriched: true -->
@@ -9578,6 +9602,18 @@ Fossil Springs Fontelicella is an undescribed Fontelicella species endemic to Fo
 ### Mentioned In
 - [[CurrentStatusOfEndangeredThrea_12695]]
 
+## Fossil Springsnail
+
+### Summary
+A snail associated with Fossil Springs on Fossil Creek. The source lists it among the sensitive species of the canyon's riparian and terrestrial community, alongside species such as the Common Black-Hawk and Southwestern River Otter.
+
+### Context
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
+### Mentioned In
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
+
 ## Foster-Lucas Ponds
 <!-- fm: auto_enriched: true -->
 
@@ -9590,11 +9626,16 @@ Fossil Springs Fontelicella is an undescribed Fontelicella species endemic to Fo
 ### Summary
 The founder effect in fish science refers to the genetic bottleneck that occurs when a new population is established from a small number of individuals, resulting in reduced genetic diversity and the random loss of alleles present in the source population. This phenomenon is particularly relevant in aquaculture, fish introductions, and conservation breeding programs, where founding stock size directly influences the long-term genetic health and adaptive potential of the population. Understanding and minimizing the founder effect is critical for maintaining viable populations in hatchery programs and for successful species reintroduction or translocation efforts.
 
+### Context
+> This U.S. Fish and Wildlife Service final project report, prepared by Anthony A. Echelle, Alice F. Echelle, and D. R. Edds (Oklahoma State University, Dept. of Zoology), compares the genetic structure of captive populations held at the [[Dexter National Fish Hatchery]] (DNFH) with natural...
+> -- *[[GeneticStructureOfThreeSpecies_11601]]*
+
 ### Mentioned In
 - [[GuidelinesForIntroductionsOfTh_12022]]
 - [[LetterRegardingQuitobaquitoDes_1987_01_15]]
 - [[LetterToMrMichaelSpearRegardin_1986_10_22]]
 - [[SalmonidGeneticsBreedingGuidel_1983]]
+- [[GeneticStructureOfThreeSpecies_11601]]
 
 ## Founder Effects
 <!-- fm: auto_enriched: true -->
@@ -10495,6 +10536,9 @@ The freshwater drum (Aplodinotus grunniens) is a benthic-feeding cypriniform fis
 > This article by Edwin L. Cooper, Chief Fishery Biologist, presents the rationale and active research program of the Wisconsin fishery research department. Its central argument is that effective [[Fish Management]] depends on learning the biological facts of fish populations and then acting on them,...
 > -- *[[MoreFactsmoreFish_17550]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -10529,6 +10573,7 @@ The freshwater drum (Aplodinotus grunniens) is a benthic-feeding cypriniform fis
 - [[RotenoneInFishPondManagement_12549]]
 - [[LengthweightRelationshipsOfAla_15123]]
 - [[MoreFactsmoreFish_17550]]
+- [[FishesOfOklahoma_16566]]
 
 ## Freshwater Drum Life History
 <!-- fm: auto_enriched: true -->

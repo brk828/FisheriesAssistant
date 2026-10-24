@@ -5423,9 +5423,14 @@ Heterostraci is a fossil order of armoured fishes closely resembling Osteostraci
 ## Heterozygosity
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This U.S. Fish and Wildlife Service final project report, prepared by Anthony A. Echelle, Alice F. Echelle, and D. R. Edds (Oklahoma State University, Dept. of Zoology), compares the genetic structure of captive populations held at the [[Dexter National Fish Hatchery]] (DNFH) with natural...
+> -- *[[GeneticStructureOfThreeSpecies_11601]]*
+
 ### Mentioned In
 - [[EffectiveBreedingEfficiencyAnI_13479]]
 - [[SalmonidGeneticsBreedingGuidel_1983]]
+- [[GeneticStructureOfThreeSpecies_11601]]
 
 ## Heterozygosity And Fitness
 <!-- fm: auto_enriched: true -->
@@ -12027,9 +12032,13 @@ Hydrilla (Hydrilla verticillata) is an exotic aquatic weed that spreads rapidly 
 > This newspaper article reports concern that [[Grass Carp]] are spreading and reproducing successfully in Southern Louisiana rivers and are becoming more widespread in Texas. It cites a [[U.S. Fish and Wildlife Service]] study, *Grass Carp in the Lower Mississippi*, which found a rising share of...
 > -- *[[ThePotentialForBigGrassCarpPro_19180]]*
 
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11555]]
 - [[ThePotentialForBigGrassCarpPro_19180]]
+- [[FindingsConclusionsAndRecommen_15791]]
 
 ## Hydrobiidae
 <!-- fm: auto_enriched: true -->
@@ -12065,6 +12074,9 @@ Hydrobiidae is a family of small freshwater and brackish-water gastropod mollusk
 > This Scholarly Studies Program proposal (Winter 1999 review cycle) by Robert Hershler ([[NMNH]]) and Hsiu-Ping Liu ([[Southwest Missouri State University]]) seeks funding to conduct a comprehensive phylogenetic and biogeographic analysis of *[[Pyrgulopsis]]*, the largest genus of nonmarine snails...
 > -- *[[PhylogenyOfPyrgulopsisSpringsn_16724]]*
 
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
 ### Mentioned In
 - [[ARemarkableSnailFaunaFromCoahu_1966]]
 - [[AustralianFreshwaterMolluscaCo_1994_06_30]]
@@ -12078,6 +12090,7 @@ Hydrobiidae is a family of small freshwater and brackish-water gastropod mollusk
 - [[DraftDayFindingForDesertFishes_20489]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[PhylogenyOfPyrgulopsisSpringsn_16724]]
+- [[StatusOfTheInlandAquaticAndSem_12694]]
 
 ## Hydrobiologische Anstalt Der Max-Planck-Gesellschaft
 <!-- fm: auto_enriched: true -->

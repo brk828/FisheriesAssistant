@@ -4009,6 +4009,9 @@ Lake Mead National Recreation Area is a federally managed landscape encompassing
 > This Environmental Assessment evaluates proposed improvements to native fish rearing facilities at [[Lake Mohave]], [[Lake Mead National Recreation Area]], focused on recovering the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The [[Razorback...
 > -- *[[EnvironmentalAssessmentForNati_13228]]*
 
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
 ### Mentioned In
 - [[DerivationOfSpecialUseMultipli_1962_10_01]]
 - [[EffectsOfInterimFlowsFromGlenC_1993_04_17]]
@@ -4024,6 +4027,7 @@ Lake Mead National Recreation Area is a federally managed landscape encompassing
 - [[MinutesOfTheMeetingOfTheTechni_20887]]
 - [[LakeMohaveSamplingMarch_20326]]
 - [[EnvironmentalAssessmentForNati_13228]]
+- [[StatusOfTheInlandAquaticAndSem_12694]]
 
 ## Lake Mead National Recreational Area
 <!-- fm: auto_enriched: true -->
@@ -7383,10 +7387,14 @@ Lampetra reissneri is a lamprey species found in China's freshwater systems. Thi
 > This 1954 California Department of Fish and Game document announces the reopening of recreational sturgeon fishing after a 35-year closure. The white sturgeon (*Acipenser transmontanus*) and green sturgeon (*Acipenser medirostris*) populations had recovered sufficiently to allow limited harvest....
 > -- *[[TheCaliforniaSturgeon_17339]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[StatusOfSeaLampreyProblem_15264]]
 - [[WhatHaveICaught_12929]]
 - [[TheCaliforniaSturgeon_17339]]
+- [[FishesOfOklahoma_16566]]
 
 ## Lamprey Biology
 <!-- fm: auto_enriched: true -->
@@ -7761,6 +7769,18 @@ Landlocked salmon are populations of Atlantic salmon (Salmo salar) that complete
 
 ### Mentioned In
 - [[RemoteSensingMappingOfArizonaI_14412]]
+
+## Lange (1957)
+
+### Summary
+Lange (1957) proposed that Montezuma Well formed through dissolution of a deep salt lens followed by collapse. The report's authors consider this explanation to have merit, because the surrounding topography is not typical karst and the Well is the only depression of its type in the Verde Valley.
+
+### Context
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
+### Mentioned In
+- [[FinalReportToMontezumaMonument_16015]]
 
 ## Langford 1938 Lake Nipissing Study
 <!-- fm: auto_enriched: true -->
@@ -8572,6 +8592,12 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This reprinted 1955 proceedings paper by William W. Hassler (North Carolina State College) examines how natural environmental variables affect first-year growth of [[Sauger]] (*[[Stizostedion Canadense Canadense]]*) in [[Norris Reservoir]], [[Tennessee]], using an age and growth sample of 3,393...
 > -- *[[TheInfluenceOfCertainEnvironme_20701]]*
 
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -9029,6 +9055,8 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[SummaryReportSanCarlosApacheIn_19597]]
 - [[ADemonstrationOfMethodsAndTech_20555]]
 - [[TheInfluenceOfCertainEnvironme_20701]]
+- [[FindingsConclusionsAndRecommen_15791]]
+- [[FishesOfOklahoma_16566]]
 
 ## Largemouth Black Bass
 <!-- fm: auto_enriched: true -->
@@ -11509,6 +11537,9 @@ The Leon Springs Pupfish is a small cyprinodontid fish species endemic to limite
 > This New Mexico Department of Game and Fish technical report (Hoagstrom and Brooks, 1998; Tech. Rpt. No. 2) reviews the distribution, status, and conservation of the [[Pecos Pupfish]] (*Cyprinodon pecosensis*) across the Pecos River Basin of New Mexico and Texas. Sampling of all known populations...
 > -- *[[DistributionStatusAndConservat_12985]]*
 
+> This U.S. Fish and Wildlife Service final project report, prepared by Anthony A. Echelle, Alice F. Echelle, and D. R. Edds (Oklahoma State University, Dept. of Zoology), compares the genetic structure of captive populations held at the [[Dexter National Fish Hatchery]] (DNFH) with natural...
+> -- *[[GeneticStructureOfThreeSpecies_11601]]*
+
 ### Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[FisheriesFieldStationSummarySo_1996]]
@@ -11517,6 +11548,7 @@ The Leon Springs Pupfish is a small cyprinodontid fish species endemic to limite
 - [[EvaluationsAndSuggestionsConce_16480]]
 - [[CvForNewProposal_17525]]
 - [[DistributionStatusAndConservat_12985]]
+- [[GeneticStructureOfThreeSpecies_11601]]
 
 ## Leonard 1941
 <!-- fm: auto_enriched: true -->
@@ -17418,6 +17450,9 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 > This report, prepared for the [[U.S. Fish And Wildlife Service]] Albuquerque office by the Arizona Fishery Resources Office, summarizes stream surveys for the threatened [[Loach Minnow]] (*Rhinichthys cobitis*) in the lower reaches of [[Tonto Creek]] and [[Big Bonito Creek]] on the [[Fort Apache...
 > -- *[[SurveysForLoachMinnowInBigBoni_20266]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -17639,6 +17674,7 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[NoticeToPursueLegalActionForVi_18966]]
 - [[SurveysForLoachMinnowInBigBoni_20266]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Loach Minnow Conservation
 <!-- fm: auto_enriched: true -->
@@ -18761,6 +18797,9 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 > This document is a set of planning correspondence for the [[Muleshoe Cooperative Management Area]] (CMA) in southeastern Arizona. It contains three parts: a December 10, 1993 letter from the [[Bureau of Land Management]] (BLM) reinitiating planning for the [[Muleshoe Ecosystem Management Plan]]...
 > -- *[[MuleshoeCooperativeManagementA_19869]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -18907,6 +18946,7 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 - [[StatusOfTheSonoranTopminnowPoe_17209]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[MuleshoeCooperativeManagementA_19869]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Longfin Smelt
 
@@ -19102,6 +19142,9 @@ Longnose Gar (*Lepisosteus longirostus*) is a primitive freshwater fish species 
 > This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
 > -- *[[OklahomaFishesWithDistribution_16567]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
 - [[DynamicsOfMsInTheBloodAndBrain_14518]]
@@ -19119,6 +19162,7 @@ Longnose Gar (*Lepisosteus longirostus*) is a primitive freshwater fish species 
 - [[AntimycinaNewFisheryTool_20243]]
 - [[AnEvaluationOfSelectiveShadCon_12859]]
 - [[OklahomaFishesWithDistribution_16567]]
+- [[FishesOfOklahoma_16566]]
 
 ## Longnose Killifish
 <!-- fm: auto_enriched: true -->
@@ -20509,9 +20553,13 @@ The Lower Colorado River Basin Management Plan was a proposed management framewo
 > This 1974 technical report, prepared by [[Eric S. Gustafson]] and submitted by [[W. L. Minckley]] at the [[Lower Colorado River Basin Research Laboratory]], [[Arizona State University]], to the [[U.S. Fish and Wildlife Service]] Regional Office, evaluates external secondary sex characteristics for...
 > -- *[[SexualDimorphismInTheAdultRazo_17843]]*
 
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
 ### Mentioned In
 - [[StudiesOnTheRazorbackSuckerXyr_1974_06_18]]
 - [[SexualDimorphismInTheAdultRazo_17843]]
+- [[StatusOfTheInlandAquaticAndSem_12694]]
 
 ## Lower Colorado River Big River Fishes Management Plan
 <!-- fm: auto_enriched: true -->
@@ -21202,6 +21250,9 @@ The Lowland Leopard Frog is an amphibian species associated with native freshwat
 > This USDA Forest Service Environmental Assessment (EA), dated April 16, 1996, evaluates a proposal to re-establish a native fish community in [[Arnett Creek]] and [[Telegraph Canyon]] on the [[Tonto National Forest]] (Globe Ranger District), in partnership with the [[Arizona Game And Fish...
 > -- *[[EnvironmentalAssessmentarnettC_11509]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
 - [[FieldMonitoringOfPeoplesCanyon_1990_01_09]]
@@ -21218,6 +21269,7 @@ The Lowland Leopard Frog is an amphibian species associated with native freshwat
 - [[PreliminaryDraftEnvironmentalA_11680]]
 - [[FieldReportNoStudyOfCienegaDeS_16073]]
 - [[EnvironmentalAssessmentarnettC_11509]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Lowland Streams
 <!-- fm: auto_enriched: true -->

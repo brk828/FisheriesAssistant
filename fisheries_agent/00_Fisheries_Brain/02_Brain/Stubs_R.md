@@ -1277,6 +1277,12 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > This document is a 1953 demonstration paper by the [[New Jersey Division Of Fish And Game]] describing the methods and principles of fisheries management in New Jersey. It was presented at the Schiffs Scout Reservation, Mendham, New Jersey, on June 19, 1953. The paper argues that fisheries...
 > -- *[[ADemonstrationOfMethodsAndTech_20555]]*
 
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -1720,6 +1726,8 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[SummaryReportSanCarlosApacheIn_19597]]
 - [[SurveysForLoachMinnowInBigBoni_20266]]
 - [[ADemonstrationOfMethodsAndTech_20555]]
+- [[FindingsConclusionsAndRecommen_15791]]
+- [[FishesOfOklahoma_16566]]
 
 ## Rainbow Trout Association
 <!-- fm: auto_enriched: true -->
@@ -3454,6 +3462,9 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > A letter dated October 30, 1989, from the [[Bureau of Reclamation]] (Lower Colorado Regional Office) to [[Arizona State University]], the [[Fish and Wildlife Service]], and the [[National Park Service]] requests help in developing an interagency proposal. The proposal would examine the feasibility...
 > -- *[[RequestForAssistanceInDevelopi_20977]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -4294,6 +4305,7 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[NoticeToPursueLegalActionForVi_18966]]
 - [[AspinallUnitStudiesEvaluationO_20258]]
 - [[RequestForAssistanceInDevelopi_20977]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Razorback Sucker Age And Growth
 <!-- fm: auto_enriched: true -->
@@ -10066,6 +10078,18 @@ Richard H. Schaefer of the New York State Conservation Department is the author 
 
 ### Mentioned In
 - [[GrowthAndFeedingHabitsOfTheWhi_20544]]
+
+## Richard Heviy
+
+### Summary
+Richard Heviy was a University of Arizona researcher who took part in the investigations of Montezuma Well. The source lists him among the participants without detailing his specific role.
+
+### Context
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
+### Mentioned In
+- [[FinalReportToMontezumaMonument_16015]]
 
 ## Richard J. Navarre
 
@@ -17019,6 +17043,9 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 > This field survey of the [[Salt River]] in Arizona was conducted in two excursions: one from [[Gleason Flats]] (Station 5) to [[Roosevelt Lake]], and one from the junction of the [[Black River]] and [[White River]] (Station 1) to the crossing of the Salt River at the [[Highway 60 Bridge]]. Sampling...
 > -- *[[DraftsaltRiverSurvey_14100]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -17213,6 +17240,7 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 - [[TheEffectsOfInterimFlowsFromGl_13621]]
 - [[PrincipalInvestigatorsMeeting_13623]]
 - [[DraftsaltRiverSurvey_14100]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Rounsefell And Everhart Formula
 <!-- fm: auto_enriched: true -->

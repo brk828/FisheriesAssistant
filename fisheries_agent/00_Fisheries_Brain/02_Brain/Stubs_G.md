@@ -607,6 +607,9 @@ Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the
 > This document presents the final report of the Emergency Action Program (Programa de Acción Emergente) for the [[Valle de Cuatrociénegas]] Flora and Fauna Protection Area in [[Coahuila]], [[México]], completed in December 1998. The program was a collaborative effort between the North American...
 > -- *[[ProgramaDeAccionEmergenteParaE_19472]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AnomalousThermalConditionsInAH_17103]]
@@ -647,6 +650,7 @@ Gambusia is a genus of small livebearing fish (family Poeciliidae) native to the
 - [[NativeArizonaFishesPartLivebea_18575]]
 - [[MoundSpringSnailsOfTheAustrali_18623]]
 - [[ProgramaDeAccionEmergenteParaE_19472]]
+- [[FishesOfOklahoma_16566]]
 
 ## Gambusia (Poeciliidae)
 <!-- fm: auto_enriched: true -->
@@ -1289,6 +1293,18 @@ Gambusiinae is a subfamily within the Poeciliidae family. This source indicates 
 
 ### Mentioned In
 - [[CopulatoryFunctionOfTheModifie_14265]]
+
+## Game and Fish
+
+### Summary
+The Arizona Game and Fish Department, which classifies many of the state's native freshwater fishes as wildlife of special concern. In this source it expresses concern that travertine deposition could cement the substrate, restrict fish movement, and reduce spawning gravel.
+
+### Context
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
+### Mentioned In
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Game And Fish Commissions
 <!-- fm: auto_enriched: true -->
@@ -3112,6 +3128,9 @@ Genetic drift in fish science refers to the random changes in allele frequencies
 > This paper by William B. Schill, Raymond C. Simon, and Stevan R. Phelps (U.S. Fish and Wildlife Service) proposes a method for estimating [[Effective Population Size]] (Ne) from accumulated [[Genetic Drift]], quantified as [[Nei's Standard Genetic Distance]] (Nei's D). The authors derive formulas...
 > -- *[[EstimationOfEffectivePopulatio_20556]]*
 
+> This U.S. Fish and Wildlife Service final project report, prepared by Anthony A. Echelle, Alice F. Echelle, and D. R. Edds (Oklahoma State University, Dept. of Zoology), compares the genetic structure of captive populations held at the [[Dexter National Fish Hatchery]] (DNFH) with natural...
+> -- *[[GeneticStructureOfThreeSpecies_11601]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[CommentsOnNationalFishHatchery_1994_05_24]]
@@ -3129,6 +3148,7 @@ Genetic drift in fish science refers to the random changes in allele frequencies
 - [[SummaryOfPopulationViabilityAn_1991_03_26]]
 - [[ASerologicalAnalysisOfThreePop_17331]]
 - [[EstimationOfEffectivePopulatio_20556]]
+- [[GeneticStructureOfThreeSpecies_11601]]
 
 ## Genetic Drift In Small Populations
 <!-- fm: auto_enriched: true -->
@@ -3832,8 +3852,12 @@ Gerald A. Cole was a retired Arizona State University researcher recognized as a
 > This correspondence documents collaboration between Mexican biologists at [[Universidad Autónoma Metropolitana]] and Dr. [[W. L. Minckley]] of [[Arizona State University]] regarding the first management plan for the proposed [[Cuatro Ciénegas]] watershed [[Biosphere Reserve]] in [[Coahuila]],...
 > -- *[[CuatroCienegasWatershedCoahuil_16108]]*
 
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
 ### Mentioned In
 - [[CuatroCienegasWatershedCoahuil_16108]]
+- [[FinalReportToMontezumaMonument_16015]]
 
 ## Gerald Burton
 <!-- fm: auto_enriched: true -->
@@ -6682,6 +6706,9 @@ The Gila River is a major tributary system in the southwestern United States tha
 > This document is a 1992 correspondence package from the [[Fish And Wildlife Service]] (Region 2, Albuquerque, N.M.). It includes a cover letter to [[Minckley]], Leader of the [[Desert Fishes Recovery Team]] at [[Arizona State University]], and an enclosed memorandum to the State Director of the...
 > -- *[[NativeFishConservationgilaBoxR_20834]]*
 
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -6988,6 +7015,7 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[NativeArizonaFishesPartIiichub_18578]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[NativeFishConservationgilaBoxR_20834]]
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## Gila River Above Yuma, Arizona
 <!-- fm: auto_enriched: true -->
@@ -7128,6 +7156,9 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 
 > This document is a set of planning correspondence for the [[Muleshoe Cooperative Management Area]] (CMA) in southeastern Arizona. It contains three parts: a December 10, 1993 letter from the [[Bureau of Land Management]] (BLM) reinitiating planning for the [[Muleshoe Ecosystem Management Plan]]...
 > -- *[[MuleshoeCooperativeManagementA_19869]]*
+
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
 
 ### Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -7289,6 +7320,7 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[DraftlongtermMonitoringPlanFor_11488]]
 - [[SpikedaceMedaFulgidaRecoveryPl_11598]]
 - [[MuleshoeCooperativeManagementA_19869]]
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## Gila River Basin Endemic Fishes
 <!-- fm: auto_enriched: true -->
@@ -7355,6 +7387,18 @@ The Gila River Bird Habitat Management Unit is a designated area along the Gila 
 
 ### Mentioned In
 - [[TheGilaBoxAWildernessCanyonOnT_13093]]
+
+## Gila River Decree
+
+### Summary
+The Gila River Decree is a water-rights ruling that took effect January 1, 1936. According to the source, it regulates canal water so that much less waste water is returned to the river, whereas before 1936 considerable excess water flowed back into the river below many stations.
+
+### Context
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
+
+### Mentioned In
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## Gila River Drainage
 <!-- fm: auto_enriched: true -->
@@ -9779,6 +9823,9 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 > This reprinted 1955 proceedings paper by William W. Hassler (North Carolina State College) examines how natural environmental variables affect first-year growth of [[Sauger]] (*[[Stizostedion Canadense Canadense]]*) in [[Norris Reservoir]], [[Tennessee]], using an age and growth sample of 3,393...
 > -- *[[TheInfluenceOfCertainEnvironme_20701]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -9847,6 +9894,7 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 - [[LimeTreatmentOfLakeReducesAcid_17119]]
 - [[TheArtificialPropagationOfWall_20615]]
 - [[TheInfluenceOfCertainEnvironme_20701]]
+- [[FishesOfOklahoma_16566]]
 
 ## Glacial Cirque Lake
 <!-- fm: auto_enriched: true -->
@@ -11951,6 +11999,9 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > This summary report from the [[U.S. Fish And Wildlife Service]] [[Bureau Of Sport Fisheries And Wildlife]] (Branch of Fishery Management Services, Phoenix, Arizona) describes the 1964 fishery management program on the [[San Carlos Apache Indian Reservation]], Arizona. Under a 1958 agreement with...
 > -- *[[SummaryReportSanCarlosApacheIn_19597]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -12016,6 +12067,7 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[LowerColoradoRiverBaitIndustry_18581]]
 - [[FisheriesLakeSurveyASmallscale_12998]]
 - [[SummaryReportSanCarlosApacheIn_19597]]
+- [[FishesOfOklahoma_16566]]
 
 ## Golden Shiner Group
 <!-- fm: auto_enriched: true -->
@@ -12139,6 +12191,9 @@ Goldeye (*Hiodon alosoides*) is a small, silvery freshwater fish species native 
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
 - [[DifferencesInTheOccurrenceOfNy_1947]]
@@ -12147,6 +12202,7 @@ Goldeye (*Hiodon alosoides*) is a small, silvery freshwater fish species native 
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[FishesOfOklahoma_16566]]
 
 ## Goldfish
 <!-- fm: auto_enriched: true -->
@@ -12248,6 +12304,9 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 > This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
 > -- *[[OklahomaFishesWithDistribution_16567]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -12315,6 +12374,7 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 - [[ChromosomelevelReferenceGenome_2023]]
 - [[LowerColoradoRiverBaitIndustry_18581]]
 - [[OklahomaFishesWithDistribution_16567]]
+- [[FishesOfOklahoma_16566]]
 
 ## Goldman 1960
 <!-- fm: auto_enriched: true -->
@@ -17155,6 +17215,9 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This paper by [[Robert Rush Miller]] and [[W. Daniel Sable]] examines the taxonomy of the chubs of the [[Gila Robusta Complex]] (family Cyprinidae) inhabiting the [[Colorado River]] basin and certain rivers in northwestern Mexico. The authors argue that the group has been confused by subjective,...
 > -- *[[SpeciesRelationshipsAmongFishe_21162]]*
 
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
+> -- *[[EndemicFishesOfTheColoradoRive_17181]]*
+
 ### Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -17359,6 +17422,7 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[PreliminaryDraftRecoveryPlanRa_13063]]
 - [[MissionAccomplishedGoodFishing_14409]]
 - [[SpeciesRelationshipsAmongFishe_21162]]
+- [[EndemicFishesOfTheColoradoRive_17181]]
 
 ## Green River (Colorado River Basin)
 <!-- fm: auto_enriched: true -->

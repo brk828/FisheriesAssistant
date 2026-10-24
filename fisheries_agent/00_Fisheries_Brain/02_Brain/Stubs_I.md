@@ -217,6 +217,18 @@ A significant groundfish supplier whose cod landings declined from 390,000 metri
 - [[ProblemsWithGrayLiteratureInFi_1990]]
 - [[ReviewOfTheStateOfWorldFishery_16310]]
 
+## ICES Code of Practice
+
+### Summary
+A code of practice from the International Council for the Exploration of the Sea governing the introduction and transfer of marine organisms. The source includes it as an appendix to the report, as a reference framework for introduction decisions.
+
+### Context
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
+### Mentioned In
+- [[FindingsConclusionsAndRecommen_15791]]
+
 ## Ichthyobus Tumidus
 <!-- fm: auto_enriched: true -->
 
@@ -2360,8 +2372,12 @@ An in-stream flow water right is a legal entitlement to keep water flowing in a 
 > - **Genetic risk factors** cited for hatchery-reared fish populations: founder effects, genetic drift, [[Inbreeding]], [[Domestication Selection]], introgression, and hybridization with wild conspecifics. - Concern #6 alleges hatchery fish may be "defective genetically, behaviorally, [and] physio...
 > -- *[[SampleInterviewRecordOnHatcher_1994_05_13]]*
 
+> This U.S. Fish and Wildlife Service final project report, prepared by Anthony A. Echelle, Alice F. Echelle, and D. R. Edds (Oklahoma State University, Dept. of Zoology), compares the genetic structure of captive populations held at the [[Dexter National Fish Hatchery]] (DNFH) with natural...
+> -- *[[GeneticStructureOfThreeSpecies_11601]]*
+
 ### Mentioned In
 - [[SampleInterviewRecordOnHatcher_1994_05_13]]
+- [[GeneticStructureOfThreeSpecies_11601]]
 
 ## Inbreeding Depression
 <!-- fm: auto_enriched: true -->
@@ -5083,6 +5099,18 @@ Ironwood (Olneya tesota) is a predominant tree species in the Sonoran Desertscru
 
 ### Mentioned In
 - [[SeleniumMayHarmRazorbackSucker_11707]]
+
+## Irrving Development
+
+### Summary
+One of the two developments of the Childs Irving Hydroelectric Project on Fossil Creek. It includes a 25-foot diversion structure diverting up to 43 cfs, a 16,578-foot flume, a 3,278-foot penstock, and a powerhouse with one 1,600 kW unit. Existing flow in its 4-mile bypassed reach is only 0.2 cfs.
+
+### Context
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
+### Mentioned In
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Irv Kornfield
 <!-- fm: auto_enriched: true -->

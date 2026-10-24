@@ -5414,6 +5414,18 @@ Megupsilon aporus is an endemic fish species in the Cuatro Cienegas basin. This 
 ### Mentioned In
 - [[ANewGenusAndNewSpeciesOfWaterB_1972_02_29]]
 
+## Melaleuca
+
+### Summary
+Melaleuca, a tree species imported to Florida for forestry that has extensively invaded its wetlands. The source cites it as an example of a nonindigenous organism that spread after intentional importation.
+
+### Context
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
+### Mentioned In
+- [[FindingsConclusionsAndRecommen_15791]]
+
 ## Melampus bidentatus
 
 ### Summary
@@ -5446,6 +5458,18 @@ Melanoides tuberculata is an invasive freshwater snail species that has become e
 - [[CommentsOnTheDesertFishesCounc_20490]]
 - [[Cuatro Ciénegas Food Web]]
 - [[DistributionOfAnUndescribedDig_1999_12_14]]
+
+## Melanoides Tuberculatus
+
+### Summary
+Melanoides tuberculatus is an Oriental snail that became common in the aquarium trade and was introduced into North America. The note reports that it has decimated native Tryonia populations in springs of the Muddy (Moapa) Valley, Pahranagat Valley, and Ash Meadows, Nevada, and it is treated as a major future invasive threat.
+
+### Context
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
+### Mentioned In
+- [[StatusOfTheInlandAquaticAndSem_12694]]
 
 ## Melanophore-Concentrating Hormone
 <!-- fm: auto_enriched: true -->
@@ -11964,6 +11988,18 @@ Modde et al. reported an average razorback sucker population size between 300 an
 ### Mentioned In
 - [[An Improved Feed for Experimental Fish]]
 
+## Model State Code
+
+### Summary
+A model code of State-level rules for managing intentional introductions of aquatic organisms. The source says the Task Force recommends a Model State Code but does not support making it a federally mandated requirement tied to fines or withheld funds.
+
+### Context
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
+### Mentioned In
+- [[FindingsConclusionsAndRecommen_15791]]
+
 ## Modified Low Fluctuating Flow
 <!-- fm: auto_enriched: true -->
 
@@ -13589,10 +13625,14 @@ Monterrey is a city in Mexico. This source indicates it was the planned location
 > This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
 > -- *[[CurrentStatusOfEndangeredThrea_12695]]*
 
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
 ### Mentioned In
 - [[ThePersistentPerennialVegetati_15904]]
 - [[VerdeValleyReportsAndSurveysFr_12879]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
+- [[FinalReportToMontezumaMonument_16015]]
 
 ## Montezuma Quail
 
@@ -13640,12 +13680,16 @@ Montezuma Well is a naturally occurring limestone sinkhole in Arizona that funct
 > This 1981 contract report to the [[U.S. Fish and Wildlife Service]] presents a comprehensive status assessment and prioritization of 27 mollusk species in [[New Mexico]] and [[Arizona]]. The investigation categorizes species into three priority classes: (1) endangered and threatened requiring...
 > -- *[[CurrentStatusOfEndangeredThrea_12695]]*
 
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
 ### Mentioned In
 - [[HabitatsOfNorthAmericanDesertF_1981]]
 - [[LimnologicalInvestigationsInAr_1963]]
 - [[ThePersistentPerennialVegetati_15904]]
 - [[VerdeValleyReportsAndSurveysFr_12879]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
+- [[FinalReportToMontezumaMonument_16015]]
 
 ## Montezuma Well Fontelicella
 
@@ -14424,6 +14468,18 @@ Moronidae is a family of temperate bass species characterized by anadromous or s
 ### Mentioned In
 - [[ChangesInWalleyeStizostedionVi_1977_03_18]]
 
+## Morphological Differentiation
+
+### Summary
+In this report, morphological differentiation refers to measurable body-form differences among Pecos Gambusia populations. Using principal components analysis of 293 specimens from 12 localities, the authors identified three morphological subsets, including a Blue Spring group, a Comanche Springs/Balmorhea group with high fin-ray counts and long fin bases, and an intermediate Bitter Lake/Roswell and Leon Creek group. The authors used these patterns, together with genetic data, to conclude that subspecific designations were unwarranted.
+
+### Context
+> This U.S. Fish and Wildlife Service final project report, prepared by Anthony A. Echelle, Alice F. Echelle, and D. R. Edds (Oklahoma State University, Dept. of Zoology), compares the genetic structure of captive populations held at the [[Dexter National Fish Hatchery]] (DNFH) with natural...
+> -- *[[GeneticStructureOfThreeSpecies_11601]]*
+
+### Mentioned In
+- [[GeneticStructureOfThreeSpecies_11601]]
+
 ## Morphological Variation
 <!-- fm: auto_enriched: true -->
 
@@ -14927,6 +14983,9 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > This Arizona Game and Fish Department special report, based on field surveys from June 1989 to April 1990 and a review of historic data, assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) in Arizona. Both species were...
 > -- *[[StatusOfTheSonoranTopminnowPoe_17209]]*
 
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -15065,6 +15124,7 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[LowerColoradoRiverBaitIndustry_18581]]
 - [[EnvironmentalAssessmentarnettC_11509]]
 - [[StatusOfTheSonoranTopminnowPoe_17209]]
+- [[FindingsConclusionsAndRecommen_15791]]
 
 ## Moss Landing
 

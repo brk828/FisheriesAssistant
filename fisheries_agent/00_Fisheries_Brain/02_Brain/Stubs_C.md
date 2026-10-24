@@ -4229,8 +4229,12 @@ Carbon dioxide is an atmospheric gas that traps long-wave radiation as part of t
 > These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
 > -- *[[LectureNotesFromBiologyClass_13784]]*
 
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
 ### Mentioned In
 - [[LectureNotesFromBiologyClass_13784]]
+- [[FinalReportToMontezumaMonument_16015]]
 
 ## Carbon Dioxide Information Analysis Center
 
@@ -5440,6 +5444,9 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This New York Conservation Department document presents a preliminary survey of the [[Smallmouth Bass]] (black bass) resource in [[Lake Ontario]] and the [[St. Lawrence River]], prepared by the Bureau of Biological Survey under [[Dr. John R. Greeley]]. The survey treats the region as the largest...
 > -- *[[ConservationOfTheBlackBassReso_19213]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -5590,6 +5597,7 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[LimeTreatmentOfLakeReducesAcid_17119]]
 - [[TheElectricShockerAndItsUseInM_18901]]
 - [[ConservationOfTheBlackBassReso_19213]]
+- [[FishesOfOklahoma_16566]]
 
 ## Carp Control
 <!-- fm: auto_enriched: true -->
@@ -8473,6 +8481,18 @@ The Celebes Sea is one of the open waters surrounding the Sulu Sea complex, conn
 ### Mentioned In
 - [[WeightLossOfCelluloseAndAquati_12624]]
 
+## Cenotes of Yucatan
+
+### Summary
+Cenotes are sinkhole-type water-filled depressions found on the Yucatan Peninsula of Mexico. The report compares Montezuma Well with them as one of several analogous limestone-sink features.
+
+### Context
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
+### Mentioned In
+- [[FinalReportToMontezumaMonument_16015]]
+
 ## Center For Biological Diversity
 <!-- fm: auto_enriched: true -->
 
@@ -10044,6 +10064,9 @@ Chain Pickerel (Esox niger) is a freshwater predatory fish species belonging to 
 > This document is a 1953 demonstration paper by the [[New Jersey Division Of Fish And Game]] describing the methods and principles of fisheries management in New Jersey. It was presented at the Schiffs Scout Reservation, Mendham, New Jersey, on June 19, 1953. The paper argues that fisheries...
 > -- *[[ADemonstrationOfMethodsAndTech_20555]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -10068,6 +10091,7 @@ Chain Pickerel (Esox niger) is a freshwater predatory fish species belonging to 
 - [[OklahomaFishesWithDistribution_16567]]
 - [[ThePikeAPrizedAndSpurnedFish_17386]]
 - [[ADemonstrationOfMethodsAndTech_20555]]
+- [[FishesOfOklahoma_16566]]
 
 ## Chalicotheriidae
 <!-- fm: auto_enriched: true -->
@@ -10837,6 +10861,12 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > This summary report from the [[U.S. Fish And Wildlife Service]] [[Bureau Of Sport Fisheries And Wildlife]] (Branch of Fishery Management Services, Phoenix, Arizona) describes the 1964 fishery management program on the [[San Carlos Apache Indian Reservation]], Arizona. Under a 1958 agreement with...
 > -- *[[SummaryReportSanCarlosApacheIn_19597]]*
 
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -11247,6 +11277,8 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[LimeTreatmentOfLakeReducesAcid_17119]]
 - [[TheProteinRequirementOfChannel_19477]]
 - [[SummaryReportSanCarlosApacheIn_19597]]
+- [[FindingsConclusionsAndRecommen_15791]]
+- [[FishesOfOklahoma_16566]]
 
 ## Channel Catfish Aquaculture
 <!-- fm: auto_enriched: true -->
@@ -13180,10 +13212,14 @@ Chester Buchanan served as the Fish and Wildlife Service liaison between the cui
 > This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
 > -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[TheInvasionPresentStatusAndLif_1949_12_01]]
 - [[ListOfFishesReportedFromKansas_18026]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[FishesOfOklahoma_16566]]
 
 ## Chestnut Teal
 <!-- fm: auto_enriched: true -->
@@ -13721,6 +13757,30 @@ The Chikaskia River is an Oklahoma river system mentioned for comparison purpose
 
 ### Mentioned In
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+
+## Childs Development
+
+### Summary
+The second development of the Childs Irving Hydroelectric Project on Fossil Creek. It includes a 5-foot diversion, a 23,190-foot conduit discharging to Stehr Lake, a pressure tunnel, a penstock, and a powerhouse with three units totaling 5,400 kW. It releases 2 cfs into the 10-mile Childs bypassed reach, and the staff's preferred alternative sets its minimum flow at 5 cfs.
+
+### Context
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
+### Mentioned In
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
+
+## Childs Irving Hydroelectric Project
+
+### Summary
+The FERC-licensed hydroelectric project on Fossil Creek in central Arizona, operated by Arizona Public Service Company, which diverts water from about 14 miles of stream. The draft environmental assessment evaluates its relicense application and recommends relicensing with environmental enhancements, including minimum flows of 10 cfs in the Irving reach and 5 cfs in the Childs reach.
+
+### Context
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
+### Mentioned In
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Childs Plant
 
@@ -19790,6 +19850,9 @@ The Coconino National Forest represents a critical management jurisdiction encom
 > This Southwest Forest Alliance report, dated November 14, 1995 and authored by Torey Silloway and Kieran Suckling of the [[Southwest Center for Biological Diversity]], is a policy critique rather than a primary research study. It argues that a [[U.S. Forest Service]] report by M. Johnson (1995)...
 > -- *[[ForestFraudAndForestHealthUsFo_18957]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[LetterAndDraftAgendaForTheAriz_1993_09_07]]
 - [[LetterRegardingRazorbackSucker_1990_05_31]]
@@ -19805,6 +19868,7 @@ The Coconino National Forest represents a critical management jurisdiction encom
 - [[ReFishSurveyRecordsCoconinoNat_16905]]
 - [[UsFishAndWildlifeServicesBiolo_11753]]
 - [[ForestFraudAndForestHealthUsFo_18957]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Cocopa
 
@@ -23857,6 +23921,9 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > This 1874 *Proceedings of the American Philosophical Society* extract, in its fish-related portion, is a taxonomic paper by [[Edward Drinker Cope]]. It describes a new subfamily, the [[Plagopterinae]] (Cyprinidae) of the [[Colorado River Basin]], with three genera: [[Plagopterus]], [[Lepidomeda]]...
 > -- *[[OnThePlagopterinAndTheIchthyol_17578]]*
 
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -24272,6 +24339,7 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[PreliminaryDraftRecoveryPlanRa_13063]]
 - [[IsOurNativeUnderwaterLifeWorth_15341]]
 - [[OnThePlagopterinAndTheIchthyol_17578]]
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## Colorado River Basin Ecology
 <!-- fm: auto_enriched: true -->
@@ -25544,6 +25612,9 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 > This document comprises meeting summaries, correspondence, and administrative materials from the [[Colorado River Recovery Implementation Program]] Management Group meetings held November 22-23, 1988 (Grand Junction, Colorado) and February 9, 1989 (Lakewood, Colorado). The Recovery Program...
 > -- *[[SummarynovemberAndFebruaryMana_21001]]*
 
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
+> -- *[[EndemicFishesOfTheColoradoRive_17181]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ColoradoRiverFishesRecoveryPro_1988_11_02]]
@@ -25581,6 +25652,7 @@ The Colorado River Fishes Recovery Team is an inter-agency coordination body est
 - [[UsFishAndWildlifeServiceAuthor_14029]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[SummarynovemberAndFebruaryMana_21001]]
+- [[EndemicFishesOfTheColoradoRive_17181]]
 
 ## Colorado River Fishes Working Group
 <!-- fm: auto_enriched: true -->
@@ -26499,6 +26571,9 @@ The Colorado River Wildlife Council appears to be an interagency coordination bo
 > This 1987 proposal to the [[Colorado River Wildlife Council]] recommends introducing [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] to address forage deficiencies for game fish populations. The reservoir's sole pelagic forage species, [[Threadfin Shad]] (*Dorosoma petenense*), has been...
 > -- *[[IntroductionOfRainbowSmeltInto_17850]]*
 
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
+> -- *[[EndemicFishesOfTheColoradoRive_17181]]*
+
 ### Mentioned In
 - [[LetterRegardingProposalForIntr_1989_08_30]]
 - [[ProceduresForIntroductionOfAqu_17182]]
@@ -26506,6 +26581,7 @@ The Colorado River Wildlife Council appears to be an interagency coordination bo
 - [[StationProfileOfTheP_1991_11_28]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[IntroductionOfRainbowSmeltInto_17850]]
+- [[EndemicFishesOfTheColoradoRive_17181]]
 
 ## Colorado River Wildlife Management Committee
 
@@ -27070,6 +27146,9 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This paper by [[Robert Rush Miller]] and [[W. Daniel Sable]] examines the taxonomy of the chubs of the [[Gila Robusta Complex]] (family Cyprinidae) inhabiting the [[Colorado River]] basin and certain rivers in northwestern Mexico. The authors argue that the group has been confused by subjective,...
 > -- *[[SpeciesRelationshipsAmongFishe_21162]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -27426,6 +27505,7 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[IsOurNativeUnderwaterLifeWorth_15341]]
 - [[AspinallUnitStudiesEvaluationO_20258]]
 - [[SpeciesRelationshipsAmongFishe_21162]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Colorado Squawfish Nursery Habitat
 <!-- fm: auto_enriched: true -->
@@ -28270,6 +28350,9 @@ The Comanche Springs Pupfish (*Cyprinodon* sp.) is a critically endangered cypri
 > This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
 > -- *[[AbstractsFromTheDesertFishesCo_15019]]*
 
+> This U.S. Fish and Wildlife Service final project report, prepared by Anthony A. Echelle, Alice F. Echelle, and D. R. Edds (Oklahoma State University, Dept. of Zoology), compares the genetic structure of captive populations held at the [[Dexter National Fish Hatchery]] (DNFH) with natural...
+> -- *[[GeneticStructureOfThreeSpecies_11601]]*
+
 ### Mentioned In
 - [[AspectsOfTheThermalEcologyOfCy_13860]]
 - [[DraftConservationAgreementForT_1998_12_28]]
@@ -28281,6 +28364,7 @@ The Comanche Springs Pupfish (*Cyprinodon* sp.) is a critically endangered cypri
 - [[SubpermitAuthorizationForColle_1990]]
 - [[CvForNewProposal_17525]]
 - [[AbstractsFromTheDesertFishesCo_15019]]
+- [[GeneticStructureOfThreeSpecies_11601]]
 
 ## Combs
 
@@ -28385,6 +28469,15 @@ The Comision Internacional de Limites y Aguas (International Boundary and Water 
 ### Mentioned In
 - [[DistributionAndStatusOfTheGras_11158]]
 
+## Commercial Netting
+
+### Context
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
+### Mentioned In
+- [[FishesOfOklahoma_16566]]
+
 ## commercial_harvest_reporting
 
 ### Summary
@@ -28484,8 +28577,12 @@ Common Black-Hawk (Buteogallus anthracinus) is a state-threatened species that o
 > This 1987 baseline report documents vegetation and breeding bird communities along a 3 km cattle exclosure established in 1984 on [[Lower Bonita Creek]], [[Graham County]], [[Arizona]]. The study was conducted by [[William C. Hunter]] from [[Arizona State University]] for the [[U.S. Bureau of Land...
 > -- *[[ChangesInRiparianVegetationAnd_14524]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[ChangesInRiparianVegetationAnd_14524]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Common Burrowing Crayfish
 <!-- fm: auto_enriched: true -->
@@ -29577,6 +29674,15 @@ CERCLA is a federal environmental law that establishes liability for cleanup of 
 
 ### Mentioned In
 - [[APrimerOfPopulationBiology_1971]]
+
+## Concentration Structures
+
+### Context
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
+### Mentioned In
+- [[FishesOfOklahoma_16566]]
 
 ## Conceptual Ecosystem Modeling
 <!-- fm: auto_enriched: true -->
@@ -30855,6 +30961,9 @@ Coolidge Dam is a water management structure on the Gila River in Arizona that s
 > This report assesses the potential for non-native fish species transported in [[Central Arizona Project]] (CAP) canal waters to enter the [[Gila River]] system and impact threatened or endangered native fish species, particularly [[Spikedace]] (*Meda fulgida*), [[Loach Minnow]] (*Tiaroga cobitis*),...
 > -- *[[PotentialForTransferOfNonnativ_15168]]*
 
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
+
 ### Mentioned In
 - [[CommentsOnProposedBonytailChub_1986_01_07]]
 - [[GeologicRelationsOfTheGilaCong_11466]]
@@ -30868,6 +30977,7 @@ Coolidge Dam is a water management structure on the Gila River in Arizona that s
 - [[DraftEnvironmentalAssessmentDe_11688]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[PotentialForTransferOfNonnativ_15168]]
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## Coon Creek
 <!-- fm: auto_enriched: true -->
@@ -34189,6 +34299,9 @@ The Creek Chub (*Semotilus atromaculatus*) is a cyprinid minnow that functions a
 > This document is a 1993 research proposal from the [[University of Oklahoma Biological Station]] (Kingston, Oklahoma), led by [[William J. Matthews]] (Principal Investigator) and [[Frances P. Gelwick]] (Co-Principal Investigator), and submitted to the [[Environmental Protection Agency]]. It asks...
 > -- *[[PotentialEstablishmentOfRedShi_15211]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -34215,6 +34328,7 @@ The Creek Chub (*Semotilus atromaculatus*) is a cyprinid minnow that functions a
 - [[ModelingDiffusiveSpreadInAHete_2000]]
 - [[CreekChubMinnowPropagation_15905]]
 - [[PotentialEstablishmentOfRedShi_15211]]
+- [[FishesOfOklahoma_16566]]
 
 ## Creek Chubsucker
 <!-- fm: auto_enriched: true -->

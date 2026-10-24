@@ -473,6 +473,9 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This draft recovery plan, prepared for [[U.S. Fish And Wildlife Service]] Region 6 by Harold M. Tyus of the [[Center For Limnology]] (University of Colorado at Boulder) and dated January 30, 1996, addresses the [[Razorback Sucker]], an endemic, monotypic catostomid of mainstream [[Colorado River...
 > -- *[[PreliminaryDraftRecoveryPlanRa_13063]]*
 
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
+> -- *[[EndemicFishesOfTheColoradoRive_17181]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -617,6 +620,7 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[ReInformationYouRequestedForFi_13065]]
 - [[SummaryjuneManagementGroupMeet_20998]]
 - [[PreliminaryDraftRecoveryPlanRa_13063]]
+- [[EndemicFishesOfTheColoradoRive_17181]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -1779,6 +1783,9 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 > This completion report documents creel census activities conducted across seven regions of Arizona from January to December 1965. The Arizona Game and Fish Department gathered data on fishing success, species composition, angler origin, and fishing methods across multiple lakes including [[Big...
 > -- *[[FisheryInvestigationsInRegionI_12196]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -1812,6 +1819,7 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[FisheryInvestigationsInRegionI_12196]]
+- [[FishesOfOklahoma_16566]]
 
 ## Yellow Belly Sunfish
 
@@ -1943,6 +1951,9 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This summary report from the [[U.S. Fish And Wildlife Service]] [[Bureau Of Sport Fisheries And Wildlife]] (Branch of Fishery Management Services, Phoenix, Arizona) describes the 1964 fishery management program on the [[San Carlos Apache Indian Reservation]], Arizona. Under a 1958 agreement with...
 > -- *[[SummaryReportSanCarlosApacheIn_19597]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -2036,6 +2047,7 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[FisheriesLakeSurveyASmallscale_12998]]
 - [[DraftsaltRiverSurvey_14100]]
 - [[SummaryReportSanCarlosApacheIn_19597]]
+- [[FishesOfOklahoma_16566]]
 
 ## Yellow Creek
 
@@ -2265,6 +2277,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This document is a 1953 demonstration paper by the [[New Jersey Division Of Fish And Game]] describing the methods and principles of fisheries management in New Jersey. It was presented at the Schiffs Scout Reservation, Mendham, New Jersey, on June 19, 1953. The paper argues that fisheries...
 > -- *[[ADemonstrationOfMethodsAndTech_20555]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -2363,6 +2378,7 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[GrubsInFishes_16402]]
 - [[ConservationOfTheBlackBassReso_19213]]
 - [[ADemonstrationOfMethodsAndTech_20555]]
+- [[FishesOfOklahoma_16566]]
 
 ## Yellow Pikeperch
 <!-- fm: auto_enriched: true -->

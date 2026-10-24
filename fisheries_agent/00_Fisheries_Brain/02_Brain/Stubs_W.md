@@ -1125,6 +1125,9 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 > This 1956 report by [[Frank Schryer]], Fisheries Biologist, to the [[Kansas Forestry, Fish And Game Commission]] documents a spring spawn-taking program for [[Walleye]] at [[Fall River Reservoir]]. Kansas had no in-state source of walleye eggs, and out-of-state supplies were uncertain, so...
 > -- *[[TheArtificialPropagationOfWall_20615]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -1238,6 +1241,7 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 - [[MoreFactsmoreFish_17550]]
 - [[ADemonstrationOfMethodsAndTech_20555]]
 - [[TheArtificialPropagationOfWall_20615]]
+- [[FishesOfOklahoma_16566]]
 
 ## Walleye Growth Comparison
 <!-- fm: auto_enriched: true -->
@@ -2791,10 +2795,14 @@ Water pollution in aquatic ecosystems refers to the introduction of harmful subs
 > 1. **Novel instrumentation**: A polarographic respirometer using dropping-mercury electrodes enables precise, stable, and continuous measurement of dissolved oxygen depletion over intact mud cores, permitting direct calibration of meters/recorders in ppm dissolved oxygen. 2. **Pollution–respirati...
 > -- *[[PolarographicMeasurementOfTheR_12575]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[PolarographicMeasurementOfTheR_12575]]
 - [[TheEffectOfTemperatureOnTheAcu_1967]]
 - [[WaterDevelopmentVersusTheNatur_18589]]
+- [[FishesOfOklahoma_16566]]
 
 ## Water Pollution Control
 <!-- fm: auto_enriched: true -->
@@ -3263,6 +3271,18 @@ A Water User Association is a local organization representing water rights holde
 
 ### Mentioned In
 - [[AquaticResourceSurveyOfTheUnli_17285]]
+
+## Water-Supply Paper 1313
+
+### Summary
+USGS Water-Supply Paper 1313 is a numbered federal publication series, and this source is Part 9 covering the Colorado River Basin. It compiles surface-water records (gaging, discharge, runoff, and diversion data) for the Gila River system through September 1950, published in 1954.
+
+### Context
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
+
+### Mentioned In
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## Watercourse Integrity
 <!-- fm: auto_enriched: true -->
@@ -5957,6 +5977,9 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
 > -- *[[OklahomaFishesWithDistribution_16567]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -6011,6 +6034,7 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[PotentialForTransferOfNonnativ_15168]]
 - [[SummaryReportSanCarlosApacheIn_19600]]
 - [[OklahomaFishesWithDistribution_16567]]
+- [[FishesOfOklahoma_16566]]
 
 ## White Bass Group
 <!-- fm: auto_enriched: true -->
@@ -6195,6 +6219,9 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 > This 1970 conference paper presents research on the ecological effects of heated water discharges from fossil-fueled steam electric generating plants into cooling reservoirs in Missouri. Studies conducted at [[Montrose Lake]] (1500 acres) and [[Thomas Hill Reservoir]] (4500 acres) examined water...
 > -- *[[PossibilitiesForBeneficialUseO_17360]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -6258,6 +6285,7 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 - [[FishLarvaeecologicallyDistinct_21240]]
 - [[AnEvaluationOfSelectiveShadCon_12859]]
 - [[PossibilitiesForBeneficialUseO_17360]]
+- [[FishesOfOklahoma_16566]]
 
 ## White Croaker
 <!-- fm: auto_enriched: true -->
@@ -7463,6 +7491,9 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 > This document is a set of correspondence and tabulated data from an [[Otolith Ageing]] project on large-bodied fishes of the Colorado River basin. It contains three letters and a series of age-reading tables. The work was carried out under contract between [[Arizona State University]] (Dr. [[W. L....
 > -- *[[ReInformationYouRequestedForFi_13065]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -7515,6 +7546,7 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 - [[GrowthOfGameAndPanFish_12817]]
 - [[MovementsOfLakeTroutInTwinLake_14420]]
 - [[ReInformationYouRequestedForFi_13065]]
+- [[FishesOfOklahoma_16566]]
 
 ## White Suckers
 
@@ -8939,8 +8971,13 @@ William King Gregory (1876-1949+) was an evolutionary morphologist who published
 ## William T. Barry
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
 ### Mentioned In
 - [[LimnologicalInvestigationsInAr_1963]]
+- [[FinalReportToMontezumaMonument_16015]]
 
 ## Williams 1959
 <!-- fm: auto_enriched: true -->
@@ -9547,6 +9584,9 @@ Willow Beach is a location approximately 12 miles downstream from Hoover Dam in 
 > This Bureau of Reclamation memorandum from the [[Glen Canyon Environmental Studies]] group transmits [[HYDROLAB Profiling]] data collected at [[Lake Powell]] during the August 1 through 6, 1994 field trip. The profiles cover water temperature, [[Dissolved Oxygen]], [[Specific Conductivity]], and...
 > -- *[[GlenCanyonEnvironmentalStudies_19731]]*
 
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
+
 ### Mentioned In
 - [[EquilibriumConditionAndSedimen_1976]]
 - [[TheColoradoRiverFishesRecovery_11196]]
@@ -9557,6 +9597,7 @@ Willow Beach is a location approximately 12 miles downstream from Hoover Dam in 
 - [[OccurrencesOfTheLostRiverSucke_17577]]
 - [[DistributionAbundanceAndHabita_12811]]
 - [[GlenCanyonEnvironmentalStudies_19731]]
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## Willow Creek Reservoir
 
@@ -9951,6 +9992,18 @@ Winnipeg is a Canadian city that represented the primary market for Montana Gold
 
 ### Mentioned In
 - [[AnEconomicStudyOfTheProcessing_15621]]
+
+## Winograd 1971
+
+### Summary
+Winograd (1971) is cited for the point that major springs in the White River Valley, Ash Meadows (both Nevada), and Death Valley, California, depend on the same basic aquifer. The note uses this to explain why pumping in one area can dry springs far away.
+
+### Context
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
+### Mentioned In
+- [[StatusOfTheInlandAquaticAndSem_12694]]
 
 ## Winona Lake
 <!-- fm: auto_enriched: true -->
@@ -11045,12 +11098,16 @@ The Woundfin Recovery Team is a collaborative conservation effort established to
 > This paraphrased meeting summary documents a post-incident review of a [[Rotenone]] renovation (piscicide) operation on the [[Virgin River]] in which a fish kill occurred well beyond the planned treatment reach. Rotenone was not neutralized in time by the [[Detox Station]] because it was set up...
 > -- *[[SummaryOfTheMeetingOfOctoberCo_14775]]*
 
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
+> -- *[[EndemicFishesOfTheColoradoRive_17181]]*
+
 ### Mentioned In
 - [[SpeciesResponsibilit_1992_12_25]]
 - [[SpeciesResponsibilitiesOfDeser_1989_12_07]]
 - [[TechnicalReportAnalyzingTheImp_14024]]
 - [[CorrespondenceBetweenMinckleyA_16449]]
 - [[SummaryOfTheMeetingOfOctoberCo_14775]]
+- [[EndemicFishesOfTheColoradoRive_17181]]
 
 ## Wray Hatchery
 

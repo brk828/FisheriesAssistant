@@ -1919,11 +1919,14 @@
   "timestamp": "2026-10-21T00:36:09+00:00"
  },
  "233f94d82f4aea31c3516d94cd0067e5d3304ad264b02ef3edfb21820a447565": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "11601.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "method": "ocr",
+  "note": "GeneticStructureOfThreeSpecies_11601.md",
   "source_id": "X-233f94d8",
-  "status": "failed",
-  "timestamp": "2026-10-24T02:14:26+00:00"
+  "status": "done",
+  "timestamp": "2026-10-24T07:13:15+00:00"
  },
  "239cb09f096f39bcb8c0b5932a1e8803c4bb6903da6dd1eb592f065bcfeb10ae": {
   "citation_source": "minckley-sheet",
@@ -2107,7 +2110,7 @@
   "reason": "model response reached its max_tokens limit",
   "source_id": "X-264178ce",
   "status": "failed",
-  "timestamp": "2026-10-24T06:18:53+00:00"
+  "timestamp": "2026-10-24T07:19:08+00:00"
  },
  "2673a38ffc45b737ad94c7be241822b5ea806f5c5c5d3150d3a84d563f282fe1": {
   "citation_source": "minckley-sheet",
@@ -2659,7 +2662,7 @@
   "reason": "model response reached its max_tokens limit",
   "source_id": "X-2fbaf129",
   "status": "failed",
-  "timestamp": "2026-10-24T02:49:53+00:00"
+  "timestamp": "2026-10-24T07:22:39+00:00"
  },
  "2fd555fe890cdfd9a4fa64dff32d7800517789a819e7e790dd793da16952b7fb": {
   "citation_source": "minckley-sheet",
@@ -6022,7 +6025,7 @@
   "reason": "model response reached its max_tokens limit",
   "source_id": "X-702cb734",
   "status": "failed",
-  "timestamp": "2026-10-24T05:49:36+00:00"
+  "timestamp": "2026-10-24T07:14:24+00:00"
  },
  "708a01c55265500704ffbb72f137c4cc571f9a75978da6130191e2ce3844229e": {
   "citation_source": "minckley-sheet",
@@ -6624,11 +6627,14 @@
   "timestamp": "2026-10-19T23:57:58+00:00"
  },
  "7f6447a3e7156f949d37d3a5b7e5d2c560ac6cfb2dd2d90e0f223be990717f04": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "16326.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "method": "ocr",
+  "note": "NoticeOfAvailabilityOfDraftEnv_16326.md",
   "source_id": "X-7f6447a3",
-  "status": "failed",
-  "timestamp": "2026-10-24T06:15:57+00:00"
+  "status": "done",
+  "timestamp": "2026-10-24T07:18:24+00:00"
  },
  "7fa48505e8355fce1b2894cbafbdfbbd809ad95b3a6d1a4c3778d59819e43546": {
   "citation_source": "minckley-sheet",
@@ -8755,11 +8761,14 @@
   "timestamp": "2026-10-21T07:10:34+00:00"
  },
  "a43c58bbd504a386cbccb14b38e26dc5b9cf79055b44e5e870b2bbd0e1a5e9e2": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "17181.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "method": "ocr",
+  "note": "EndemicFishesOfTheColoradoRive_17181.md",
   "source_id": "X-a43c58bb",
-  "status": "failed",
-  "timestamp": "2026-10-24T02:40:29+00:00"
+  "status": "done",
+  "timestamp": "2026-10-24T07:19:48+00:00"
  },
  "a4742442b883122d82a7374ebe863dbfb6cdc0834225ba9ae4e71f78bd91ceeb": {
   "citation_source": "minckley-sheet",
@@ -9132,11 +9141,14 @@
   "timestamp": "2026-10-19T23:54:52+00:00"
  },
  "ac52ea69f003c3c6adf6839e868fc331d594efc151c1bbf83be30cb64e1d141b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "13211.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "method": "ocr",
+  "note": "CompilationOfRecordsOfSurfaceW_13211.md",
   "source_id": "X-ac52ea69",
-  "status": "failed",
-  "timestamp": "2026-10-24T05:57:18+00:00"
+  "status": "done",
+  "timestamp": "2026-10-24T07:15:41+00:00"
  },
  "ac603d9fffe461b4173c0a0ffe1a3a8f265a57deb7843c1f63128475fc1f07eb": {
   "citation_source": "minckley-sheet",
@@ -9905,11 +9917,14 @@
   "timestamp": "2026-10-18T05:05:35+00:00"
  },
  "bbc9c640daf8831b47bbe39a0a9b2429487d68238e6a1e3929ae7e34262735bf": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "12694.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "method": "ocr",
+  "note": "StatusOfTheInlandAquaticAndSem_12694.md",
   "source_id": "X-bbc9c640",
-  "status": "failed",
-  "timestamp": "2026-10-23T23:20:00+00:00"
+  "status": "done",
+  "timestamp": "2026-10-24T07:15:21+00:00"
  },
  "bbcea8ca324e4df29a80f6d59323699c790b26b799939d107bd27294f6180fd1": {
   "citation_source": "minckley-sheet",
@@ -10101,11 +10116,14 @@
   "timestamp": "2026-10-16T19:08:21+00:00"
  },
  "c028e8e0b702946619ebf712c2b2e185da79b1d4da7c16e4916700f7da2e7069": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "15791.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "method": "ocr",
+  "note": "FindingsConclusionsAndRecommen_15791.md",
   "source_id": "X-c028e8e0",
-  "status": "failed",
-  "timestamp": "2026-10-24T06:13:09+00:00"
+  "status": "done",
+  "timestamp": "2026-10-24T07:16:36+00:00"
  },
  "c088f52bc19d4a3c823af81315a3e2f31d4ec1338619b974e5e3b7d4e867ea28": {
   "citation_source": "minckley-sheet",
@@ -10303,11 +10321,14 @@
   "timestamp": "2026-10-17T08:44:17+00:00"
  },
  "c3efc5970072e1a4b8cf0f093787487b99793558167784bab4917a8bd815eec4": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
   "file": "16015.pdf",
-  "reason": "model response reached its max_tokens limit",
+  "method": "ocr",
+  "note": "FinalReportToMontezumaMonument_16015.md",
   "source_id": "X-c3efc597",
-  "status": "failed",
-  "timestamp": "2026-10-24T02:34:23+00:00"
+  "status": "done",
+  "timestamp": "2026-10-24T07:17:40+00:00"
  },
  "c403854769f2d6eee9ffe3a3ea160971aabba0a7d2cd824149029cb56621a50a": {
   "citation_source": "minckley-sheet",
@@ -10354,7 +10375,7 @@
   "reason": "model response reached its max_tokens limit",
   "source_id": "X-c52441fd",
   "status": "failed",
-  "timestamp": "2026-10-24T06:31:57+00:00"
+  "timestamp": "2026-10-24T07:20:48+00:00"
  },
  "c540c6051ea05ab0e8743e81dc1324c7b6ec287679f2bad7f1d54b066ead2e14": {
   "citation_source": "minckley-sheet",
@@ -10810,7 +10831,7 @@
   "reason": "model response reached its max_tokens limit",
   "source_id": "X-cd7d7277",
   "status": "failed",
-  "timestamp": "2026-10-24T02:59:03+00:00"
+  "timestamp": "2026-10-24T07:23:38+00:00"
  },
  "cdfe8798a3771a147d1060403991aff11ca0e67488fe424e74730d8440759b9f": {
   "citation_source": "crossref",
@@ -11634,7 +11655,7 @@
   "reason": "model response reached its max_tokens limit",
   "source_id": "X-daab7d12",
   "status": "failed",
-  "timestamp": "2026-10-24T02:46:34+00:00"
+  "timestamp": "2026-10-24T07:21:43+00:00"
  },
  "dac46876aa58ed1a297b31c8cbfb7c08799f5e95ab3b69f7dcb818e9e49dd1c1": {
   "citation_source": "minckley-sheet",

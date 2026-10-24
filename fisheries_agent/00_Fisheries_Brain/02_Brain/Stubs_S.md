@@ -1029,9 +1029,13 @@ A separate BLM resource management plan whose completion the source says was the
 > This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
 > -- *[[MorphologicalVariationInGilaPi_12778]]*
 
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
+
 ### Mentioned In
 - [[LetterToWLMinckleyOnFisheryRes_1994_05_27]]
 - [[MorphologicalVariationInGilaPi_12778]]
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## Safford-San Carlos Basin
 
@@ -3719,6 +3723,9 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > This 1953 reprint from *California Fish and Game* (Vol. 39, No. 1) by [[Carl L. Hubbs]] of the [[Scripps Institution of Oceanography]] reports the first capture of the [[Spotted Sleeper]] (*Eleotris picta*, family [[Eleotridae]]) in California. A non-breeding adult male was caught on April 16,...
 > -- *[[EleotrisPictaAddedToTheFishFau_20054]]*
 
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
+> -- *[[EndemicFishesOfTheColoradoRive_17181]]*
+
 ### Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[BenthicInvertebratesOfTheEarth_1983]]
@@ -3768,6 +3775,7 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[GeneralLimnologyAndMarineFishe_12334]]
 - [[AKeyToSomeSouthernCaliforniaFi_15959]]
 - [[EleotrisPictaAddedToTheFishFau_20054]]
+- [[EndemicFishesOfTheColoradoRive_17181]]
 
 ## Salton Sea Basin
 <!-- fm: auto_enriched: true -->
@@ -4975,6 +4983,9 @@ San Carlos Reservoir is an impounded lentic (lake-like) water body on the Gila R
 > This summary report from the [[U.S. Fish And Wildlife Service]] [[Bureau Of Sport Fisheries And Wildlife]] (Branch of Fishery Management Services, Phoenix, Arizona) describes the 1964 fishery management program on the [[San Carlos Apache Indian Reservation]], Arizona. Under a 1958 agreement with...
 > -- *[[SummaryReportSanCarlosApacheIn_19597]]*
 
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
+
 ### Mentioned In
 - [[ModificationOfCoolidgeDamAFeat_11478]]
 - [[RadiotaggingRazorbackSuckersGi_1989_06_12]]
@@ -4988,6 +4999,7 @@ San Carlos Reservoir is an impounded lentic (lake-like) water body on the Gila R
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[SummaryReportSanCarlosApacheIn_19597]]
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## San Carlos River
 
@@ -5492,6 +5504,9 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 > This revised recovery plan addresses the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), one of two subspecies of [[Sonoran Topminnow]] found in Arizona and northern Mexico. Listed as endangered in 1967, the species was historically among the most abundant fishes in the lower...
 > -- *[[DraftGilaTopminnowPoeciliopsis_11637]]*
 
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -5547,6 +5562,7 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 - [[FishAndWildlifeServiceFailsToA_16901]]
 - [[BiologicalAssessmentForTheProp_11456]]
 - [[DraftGilaTopminnowPoeciliopsis_11637]]
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## San Francisco Striped Bass Club
 
@@ -6987,6 +7003,9 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 > This August 16, 1994 letter from the [[Southwest Center For Biological Diversity]] (SWCBD), signed by Robin D. Silver, M.D., is a notice of intent to sue federal agencies. It alleges that they violated Sections 2, 7, and/or 9 of the [[Endangered Species Act]] and the [[National Environmental Policy...
 > -- *[[NoticeToPursueLegalActionForVi_18966]]*
 
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
+
 ### Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -7108,6 +7127,7 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 - [[DraftlongtermMonitoringPlanFor_11488]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[NoticeToPursueLegalActionForVi_18966]]
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## San Pedro River Basin
 <!-- fm: auto_enriched: true -->
@@ -9415,6 +9435,9 @@ Sauger (*Stizostedion canadense*) is a percid fish species native to North Ameri
 > This reprinted 1955 proceedings paper by William W. Hassler (North Carolina State College) examines how natural environmental variables affect first-year growth of [[Sauger]] (*[[Stizostedion Canadense Canadense]]*) in [[Norris Reservoir]], [[Tennessee]], using an age and growth sample of 3,393...
 > -- *[[TheInfluenceOfCertainEnvironme_20701]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerInPoolOfTh_16034]]
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
@@ -9438,6 +9461,7 @@ Sauger (*Stizostedion canadense*) is a percid fish species native to North Ameri
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[ListOfFishesReportedFromKansas_18026]]
 - [[TheInfluenceOfCertainEnvironme_20701]]
+- [[FishesOfOklahoma_16566]]
 
 ## Saugeye
 <!-- fm: auto_enriched: true -->
@@ -11204,6 +11228,9 @@ Sculpins are small benthic fishes found in freshwater and marine environments th
 > This comprehensive study by Jay R. Traver examines the life history, feeding habits, reproductive behavior, and age determination of the [[Black-nosed Dace]] (*Rhinichthys atronasus*) in [[Cascadilla Creek]], Ithaca, New York, from September 1918 to August 1919. The research corrects previous...
 > -- *[[TheHabitsOfTheBlacknosedDaceRh_13393]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
 - [[ChemicalTreatmentOfTheMercedRi_13362]]
@@ -11211,6 +11238,7 @@ Sculpins are small benthic fishes found in freshwater and marine environments th
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
+- [[FishesOfOklahoma_16566]]
 
 ## Sculpin-Like Fishes
 <!-- fm: auto_enriched: true -->
@@ -11969,6 +11997,18 @@ A Section 10A permit is an authorization under the Endangered Species Act for ac
 
 ### Mentioned In
 - [[LetterToBeaumontMcclureOnGilaT_1988_05_03]]
+
+## Section 401 Water Quality Certification
+
+### Summary
+A state certification under Section 401 of the Clean Water Act, which here was issued by the Arizona Department of Environmental Quality on December 14, 1993, after the 1-year period had lapsed. Its conditions include keeping Irving flows at current levels or reduced by no more than 2 cfs, building a constructed wetland at Stehr Lake, and submitting annual management plans by October 31.
+
+### Context
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
+### Mentioned In
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Section 404 Permit
 
@@ -14142,9 +14182,13 @@ Sheep Corral Creek received stockings of Gila Trout in 1972 as part of early rec
 > 2. **Seasonal immigrants (spawn offshore)** — species spawning in the open sea or at estuary mouths/barrier islands, whose juveniles dominate summer estuarine populations. Examples: [[Largescale Menhaden]] (*Brevoortia patronus*), [[Silver Perch]] (*Bairdiella chrysura*), [[Sand Trout]] (*Cynosci...
 > -- *[[EstuarineFishesOfLouisiana_1966_11_18]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[EstuarineFishesOfLouisiana_1966_11_18]]
+- [[FishesOfOklahoma_16566]]
 
 ## Sheepshead (Freshwater Drum)
 <!-- fm: auto_enriched: true -->
@@ -14869,6 +14913,9 @@ The Shortnose Gar (*Lepisosteus platostomus*) is a primitive holostean fish spec
 > This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
 > -- *[[OklahomaFishesWithDistribution_16567]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -14881,6 +14928,7 @@ The Shortnose Gar (*Lepisosteus platostomus*) is a primitive holostean fish spec
 - [[NotesOnTheEarlyLifeHistoryOfLe_18548]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[OklahomaFishesWithDistribution_16567]]
+- [[FishesOfOklahoma_16566]]
 
 ## Shortnose Sturgeon
 <!-- fm: auto_enriched: true -->
@@ -15121,6 +15169,9 @@ The Shovelnose Sturgeon (*Scaphirhynchus platorynchus*) is a small sturgeon spec
 > This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
 > -- *[[OklahomaFishesWithDistribution_16567]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
@@ -15136,6 +15187,7 @@ The Shovelnose Sturgeon (*Scaphirhynchus platorynchus*) is a small sturgeon spec
 - [[ListOfFishesReportedFromKansas_18026]]
 - [[EndangeredAndThreatenedWildlif_11718]]
 - [[OklahomaFishesWithDistribution_16567]]
+- [[FishesOfOklahoma_16566]]
 
 ## Show Low
 <!-- fm: auto_enriched: true -->
@@ -18201,6 +18253,9 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 > This document is a 1953 demonstration paper by the [[New Jersey Division Of Fish And Game]] describing the methods and principles of fisheries management in New Jersey. It was presented at the Schiffs Scout Reservation, Mendham, New Jersey, on June 19, 1953. The paper argues that fisheries...
 > -- *[[ADemonstrationOfMethodsAndTech_20555]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -18374,6 +18429,7 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 - [[ConservationOfTheBlackBassReso_19213]]
 - [[SummaryReportSanCarlosApacheIn_19597]]
 - [[ADemonstrationOfMethodsAndTech_20555]]
+- [[FishesOfOklahoma_16566]]
 
 ## Smallmouth Black Bass
 <!-- fm: auto_enriched: true -->
@@ -20549,6 +20605,9 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 > This report, prepared for the [[U.S. Fish And Wildlife Service]] Albuquerque office by the Arizona Fishery Resources Office, summarizes stream surveys for the threatened [[Loach Minnow]] (*Rhinichthys cobitis*) in the lower reaches of [[Tonto Creek]] and [[Big Bonito Creek]] on the [[Fort Apache...
 > -- *[[SurveysForLoachMinnowInBigBoni_20266]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -20630,6 +20689,7 @@ The Sonora Sucker (*Catostomus insignis*) is a southwestern North American cypri
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[MuleshoeCooperativeManagementA_19869]]
 - [[SurveysForLoachMinnowInBigBoni_20266]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Sonora Tiger Salamander
 <!-- fm: auto_enriched: true -->
@@ -22586,9 +22646,13 @@ Southern Bluefin Tuna (Thunnus maccoyii) is a large marine fish species found in
 > Key taxonomic groups documented include: - **[[Petromyzonidae]]**: Six lamprey taxa, including the [[Western Lamprey]] (*Ichthyomyzon castaneus*), [[Southern Brook Lamprey]] (*I. gagei*), and an unnamed "Mountain brook lamprey." - **[[Acipenseridae]]** and **[[Polyodontidae]]**: The [[Paddlefish]...
 > -- *[[ListOfTheFishesOfTheTennesseeR_1939_02_08]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[EndangeredThreatenedAndRarePla_14903]]
 - [[ListOfTheFishesOfTheTennesseeR_1939_02_08]]
+- [[FishesOfOklahoma_16566]]
 
 ## Southern Brown Bullhead
 
@@ -23369,8 +23433,12 @@ The Southwestern River Otter is a species that has been extirpated from the Lowe
 > This Final Draft Ecosystem Plan for the [[Lower Colorado River Ecoregion]] (LCRE) represents one of 52 watershed-based units defined by the [[U.S. Fish and Wildlife Service]] through an ecosystem approach to natural resource conservation. The LCRE encompasses approximately 160 million acres across...
 > -- *[[FinalDraftEcosystemPlanForTheL_11674]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[FinalDraftEcosystemPlanForTheL_11674]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Southwestern Sand Shiner
 <!-- fm: auto_enriched: true -->
@@ -23606,6 +23674,9 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 > This August 16, 1994 letter from the [[Southwest Center For Biological Diversity]] (SWCBD), signed by Robin D. Silver, M.D., is a notice of intent to sue federal agencies. It alleges that they violated Sections 2, 7, and/or 9 of the [[Endangered Species Act]] and the [[National Environmental Policy...
 > -- *[[NoticeToPursueLegalActionForVi_18966]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -23672,6 +23743,7 @@ The Southwestern Willow Flycatcher is a federally threatened riparian bird speci
 - [[FormalConsultationForTheCieneg_13201]]
 - [[DraftBiologicalOpinionOperatio_11642]]
 - [[NoticeToPursueLegalActionForVi_18966]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Soza Mesa Allotment
 
@@ -24686,6 +24758,12 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > This report, prepared for the [[U.S. Fish And Wildlife Service]] Albuquerque office by the Arizona Fishery Resources Office, summarizes stream surveys for the threatened [[Loach Minnow]] (*Rhinichthys cobitis*) in the lower reaches of [[Tonto Creek]] and [[Big Bonito Creek]] on the [[Fort Apache...
 > -- *[[SurveysForLoachMinnowInBigBoni_20266]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
+> -- *[[EndemicFishesOfTheColoradoRive_17181]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -24878,6 +24956,8 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[MuleshoeCooperativeManagementA_19869]]
 - [[SurveysForLoachMinnowInBigBoni_20266]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
+- [[EndemicFishesOfTheColoradoRive_17181]]
 
 ## Speckled Pavon
 
@@ -25683,6 +25763,9 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 > This August 16, 1994 letter from the [[Southwest Center For Biological Diversity]] (SWCBD), signed by Robin D. Silver, M.D., is a notice of intent to sue federal agencies. It alleges that they violated Sections 2, 7, and/or 9 of the [[Endangered Species Act]] and the [[National Environmental Policy...
 > -- *[[NoticeToPursueLegalActionForVi_18966]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -25914,6 +25997,7 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 - [[NativeArizonaFishesPartIispiny_18572]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[NoticeToPursueLegalActionForVi_18966]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Spikedace And Loach Minnow Study
 <!-- fm: auto_enriched: true -->
@@ -26729,6 +26813,9 @@ Spotted Bass (Micropterus punctulatus) is a centrarchid fish species characteriz
 > This 1959 Federal Aid to Fisheries report (Project F-10-R) documents comprehensive pre-impoundment fish population surveys of seven Kentucky streams scheduled for dam construction by the U.S. Army Corps of Engineers. Between 1956-1958, personnel from the Kentucky Department of Fish and Wildlife...
 > -- *[[PreimpoundmentSurveysOfSixKent_13033]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[FishDistributionAndAbundanceCo_1942]]
@@ -26757,6 +26844,7 @@ Spotted Bass (Micropterus punctulatus) is a centrarchid fish species characteriz
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[ListOfFishesReportedFromKansas_18026]]
 - [[PreimpoundmentSurveysOfSixKent_13033]]
+- [[FishesOfOklahoma_16566]]
 
 ## Spotted Bat
 
@@ -26822,6 +26910,9 @@ The Spotted Gar (*Lepisosteus oculatus*) is a longnose gar species that inhabits
 > This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
 > -- *[[OklahomaFishesWithDistribution_16567]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[DrainageRecordsAndConservation_14901]]
 - [[EstuarineFishesOfLouisiana_1966_11_18]]
@@ -26830,6 +26921,7 @@ The Spotted Gar (*Lepisosteus oculatus*) is a longnose gar species that inhabits
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[OklahomaFishesWithDistribution_16567]]
+- [[FishesOfOklahoma_16566]]
 
 ## spotted goatfish
 
@@ -29177,9 +29269,13 @@ Stege Lagoon is a shallow brackish lagoon covering 5.69 km² with a mean depth o
 > This document is a 1966 magazine feature from the [[Arizona Engineer And Scientist]] describing the [[Fossil Creek Flume]], a historic water conduit that diverts spring-fed flow from [[Fossil Creek]] to power two small hydroelectric plants, [[Irving Plant]] and [[Childs Plant]], operated by...
 > -- *[[FossilCreakFlumeaPioneerMonume_16579]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[MinutesOfMeetingOfFisheryBiolo_2000_05_24]]
 - [[FossilCreakFlumeaPioneerMonume_16579]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Stein Peak
 
@@ -30565,6 +30661,9 @@ Stoneroller refers to cyprinid fishes of the genus Campostoma, particularly comm
 > This correspondence documents three fish stocking events at [[Topock Marsh]], Arizona in 1977 where shipments from [[Tisomingo National Fish Hatchery]] in Oklahoma inadvertently introduced multiple non-target species alongside requested fish. The incidents involved [[Channel Catfish]] (March 30),...
 > -- *[[ContaminatedFishStockingsIntoT_20328]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AnnotatedChecklistOfFishesFrom_1962]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -30581,6 +30680,7 @@ Stoneroller refers to cyprinid fishes of the genus Campostoma, particularly comm
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
 - [[ContaminatedFishStockingsIntoT_20328]]
+- [[FishesOfOklahoma_16566]]
 
 ## Stoneroller Minnow
 <!-- fm: auto_enriched: true -->
@@ -32282,8 +32382,12 @@ Student's T-Test is a classic form of the t-test used to compare group means, ty
 > - **Total harvest (1939–1948)**: 44,072 fish removed by 23,442 fisherman-days (1.88 fish/fisherman-day average). - **Species composition by number**: Crappie 36.91% (16,269), Bluegill 27.31% (12,035), unidentified sunfishes 16.23% (7,150), Bass 14.09% (6,210), Bullheads 2.97% (1,311), Channel cat...
 > -- *[[ATenYearCreelCensusOnLakePawhu_1951]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
+- [[FishesOfOklahoma_16566]]
 
 ## Sturgeon
 <!-- fm: auto_enriched: true -->

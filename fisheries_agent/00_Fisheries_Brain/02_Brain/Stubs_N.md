@@ -2030,8 +2030,12 @@ The National Register of Historic Places is the federal list of historic propert
 > This 1986 draft environmental assessment presents the master plan for the newly established [[Buenos Aires National Wildlife Refuge]] in [[Pima County]], [[Arizona]]. The 112,500-acre refuge was created primarily to protect and restore populations of the endangered [[Masked Bobwhite]] (Colinus...
 > -- *[[MasterPlanForBuenosAiresWildli_13323]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[MasterPlanForBuenosAiresWildli_13323]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## National Research Council
 <!-- fm: auto_enriched: true -->
@@ -2114,6 +2118,9 @@ National Scenic Areas are special management designations within the California 
 > This 1994 correspondence is a dispute between the [[Southwest Center for Biological Diversity]] (SWCBD), led by [[Robin D. Silver]], and the [[National Science Foundation]] (NSF) over NSF funding for astronomical facilities on [[Mt. Graham]], Arizona. SWCBD argues that the project destroys habitat...
 > -- *[[FailureOfTheNationalScienceFou_18967]]*
 
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
 ### Mentioned In
 - [[TheRoleAndInfluenceOfTheUSNati_1995_07_06]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
@@ -2121,6 +2128,7 @@ National Scenic Areas are special management designations within the California 
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
 - [[VegetationPanelsScopeOfWork_16204]]
 - [[FailureOfTheNationalScienceFou_18967]]
+- [[FinalReportToMontezumaMonument_16015]]
 
 ## National Shellfisheries Association
 <!-- fm: auto_enriched: true -->
@@ -7815,9 +7823,13 @@ The Arizona Game and Fish Department's database (NGDMS) that tracks about 200 ve
 > Executive Order 13112, issued February 3, 1999, establishes comprehensive federal policy for preventing introduction and controlling spread of [[Invasive Species]] in the [[United States]]. The order creates the [[Invasive Species Council]] co-chaired by the Secretaries of Interior, Agriculture,...
 > -- *[[ExecutiveOrderInvasiveSpeices_13569]]*
 
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
 ### Mentioned In
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
 - [[ExecutiveOrderInvasiveSpeices_13569]]
+- [[FindingsConclusionsAndRecommen_15791]]
 
 ## Nonindigenous Aquatic Nuisance Species Prevention And Control Act
 <!-- fm: auto_enriched: true -->

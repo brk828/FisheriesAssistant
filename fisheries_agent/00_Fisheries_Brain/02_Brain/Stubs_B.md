@@ -1502,6 +1502,9 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 > This March 1988 document is the [[Arizona Nongame Strategic Plan]] (1987-1991), prepared under Federal Aid Project FW-11-R by the [[Arizona Game and Fish Department]] (AGFD). It sets policy and five-year goals for the Department's [[Nongame and Endangered Wildlife Program]], which is run through...
 > -- *[[ArizonaNongameStrategicPlans_18278]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[BiologicalOpinionOnTheProposed_13196]]
@@ -1571,6 +1574,7 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 - [[DraftBiologicalOpinionOperatio_11642]]
 - [[BiologicalOpinionOnTheProposed_11939]]
 - [[ArizonaNongameStrategicPlans_18278]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Bald Eagle Recovery - Tonto National Forest
 <!-- fm: auto_enriched: true -->
@@ -1963,8 +1967,12 @@ The Banded Pygmy Sunfish is a small freshwater fish species documented across di
 > **Doe Run Hotel Reach (Minckley's Station 2, mile 8.2):** - Spring-like character; marl deposition minimal but increasing downstream. - Densely shaded (beech, sycamore); abundant ferns, watercress, mint. - Fauna: amphipods, isopods (spring-water indicators), snail *Goniobasis* (dominant by biomas...
 > -- *[[RoadLogOfTheBiologyOfDoeRunMea_1960]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[RoadLogOfTheBiologyOfDoeRunMea_1960]]
+- [[FishesOfOklahoma_16566]]
 
 ## Banded Sunfish
 <!-- fm: auto_enriched: true -->
@@ -4920,6 +4928,9 @@ The Belted Kingfisher (Megaceryle alcyon) is a sensitive bird species addressed 
 > This field report documents the first comprehensive biological and hydrological survey of [[Cienega de Santa Clara]], a wetland in the [[Colorado River Delta]] in northwestern [[Sonora]], [[Mexico]], conducted October 13-18, 1992. The multi-institutional team assessed fish populations, avifauna,...
 > -- *[[FieldReportNoStudyOfCienegaDeS_16073]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[WarmSpringsPupfish_13288]]
@@ -4927,6 +4938,7 @@ The Belted Kingfisher (Megaceryle alcyon) is a sensitive bird species addressed 
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[MichiganFishPredators_12681]]
 - [[FieldReportNoStudyOfCienegaDeS_16073]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Belzoni, Mississippi
 <!-- fm: auto_enriched: true -->
@@ -7460,8 +7472,12 @@ In fish science and aquatic ecology, biodiversity refers to the variety of fish 
 > **No habitat, ocean basin, or ecological data present in source text.** The document as provided does not describe aquatic environments, water chemistry, depth zonation, or species distributions. If the original paper discusses aquatic refugia or aridification effects on freshwater fish faunas (a...
 > -- *[[Drought, Diastrophism, and Quantum Evolution]]*
 
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
 ### Mentioned In
 - [[Drought, Diastrophism, and Quantum Evolution]]
+- [[StatusOfTheInlandAquaticAndSem_12694]]
 
 ## Biogeography Of Western Europe
 <!-- fm: auto_enriched: true -->
@@ -8402,6 +8418,9 @@ Bitter Lake National Wildlife Refuge is a critical conservation area located in 
 > This contract report, prepared for the [[U.S. Fish and Wildlife Service]] by Anthony A. and Alice F. Echelle of Baylor University (contract #14-16-0002-79-133, dated 22 October 1979), assesses the status of the endangered [[Gambusia Nobilis]] (Pecos gambusia) across its four extant areas in the...
 > -- *[[StatusOfThePecosGambusiaGambus_15733]]*
 
+> This U.S. Fish and Wildlife Service final project report, prepared by Anthony A. Echelle, Alice F. Echelle, and D. R. Edds (Oklahoma State University, Dept. of Zoology), compares the genetic structure of captive populations held at the [[Dexter National Fish Hatchery]] (DNFH) with natural...
+> -- *[[GeneticStructureOfThreeSpecies_11601]]*
+
 ### Mentioned In
 - [[ConservationAgreementForThePec_1998]]
 - [[EndangeredAndThreatenedWildlif_1998_01_30]]
@@ -8411,6 +8430,7 @@ Bitter Lake National Wildlife Refuge is a critical conservation area located in 
 - [[StatusInvestigationOfMollusks_13493]]
 - [[DistributionStatusAndConservat_12985]]
 - [[StatusOfThePecosGambusiaGambus_15733]]
+- [[GeneticStructureOfThreeSpecies_11601]]
 
 ## Bitter Lake NWR
 
@@ -8812,6 +8832,9 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 > This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
 > -- *[[OklahomaFishesWithDistribution_16567]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
@@ -8933,6 +8956,7 @@ The Black Bullhead (*Ameiurus melas*) is a small ictalurid catfish species found
 - [[FisheriesLakeSurveyASmallscale_12998]]
 - [[DraftsaltRiverSurvey_14100]]
 - [[OklahomaFishesWithDistribution_16567]]
+- [[FishesOfOklahoma_16566]]
 
 ## Black Bullhead Catfish
 
@@ -9240,6 +9264,9 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 > This reprinted 1955 proceedings paper by William W. Hassler (North Carolina State College) examines how natural environmental variables affect first-year growth of [[Sauger]] (*[[Stizostedion Canadense Canadense]]*) in [[Norris Reservoir]], [[Tennessee]], using an age and growth sample of 3,393...
 > -- *[[TheInfluenceOfCertainEnvironme_20701]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -9359,6 +9386,7 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 - [[FisheriesLakeSurveyASmallscale_12998]]
 - [[ADemonstrationOfMethodsAndTech_20555]]
 - [[TheInfluenceOfCertainEnvironme_20701]]
+- [[FishesOfOklahoma_16566]]
 
 ## Black Creek Project
 <!-- fm: auto_enriched: true -->
@@ -11094,6 +11122,9 @@ Blue Catfish (*Ictalurus furcatus*) is a large, opportunistic ictalurid catfish 
 > This document presents two comprehensive reviews of commercial warm-water pond fish culture developments: one covering the United States (by James R. Fielding) and one covering Europe (by Elek Woynarovich). The U.S. section describes four new systems of commercial pond culture that emerged in the...
 > -- *[[NewSystemsAndNewFishesForCultu_16369]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AProvisionalCheckListOfTheFish_15941]]
@@ -11119,6 +11150,7 @@ Blue Catfish (*Ictalurus furcatus*) is a large, opportunistic ictalurid catfish 
 - [[GrowthOfBlueCatfishIctalurusFu_17924]]
 - [[ListOfFishesReportedFromKansas_18026]]
 - [[NewSystemsAndNewFishesForCultu_16369]]
+- [[FishesOfOklahoma_16566]]
 
 ## Blue Chromis
 <!-- fm: auto_enriched: true -->
@@ -12271,6 +12303,9 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 > This document is a 1953 demonstration paper by the [[New Jersey Division Of Fish And Game]] describing the methods and principles of fisheries management in New Jersey. It was presented at the Schiffs Scout Reservation, Mendham, New Jersey, on June 19, 1953. The paper argues that fisheries...
 > -- *[[ADemonstrationOfMethodsAndTech_20555]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -12577,6 +12612,7 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 - [[PreliminaryStudiesOnTilapiaMos_17926]]
 - [[SummaryReportSanCarlosApacheIn_19597]]
 - [[ADemonstrationOfMethodsAndTech_20555]]
+- [[FishesOfOklahoma_16566]]
 
 ## Bluegill Population Control
 <!-- fm: auto_enriched: true -->
@@ -16158,6 +16194,9 @@ The Bowfin (Amia calva) is a primitive freshwater fish species of North American
 > This job completion report documents the chemical treatment of [[Century Lake]] (555 acres, reduced to 463 acres at treatment) and 1.5 miles of [[White Oak Creek]] in [[Hopkins County]], Texas on May 15-16, 1963. The treatment used 995 gallons of 5% rotenone to remove the existing fish population,...
 > -- *[[StatewideRoughRishControlJobNo_19049]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
 - [[CausesOfDeathAmongIndianaFishe_1945]]
@@ -16175,6 +16214,7 @@ The Bowfin (Amia calva) is a primitive freshwater fish species of North American
 - [[AntimycinaNewFisheryTool_20243]]
 - [[ListOfFishesReportedFromKansas_18026]]
 - [[StatewideRoughRishControlJobNo_19049]]
+- [[FishesOfOklahoma_16566]]
 
 ## Bowfins
 <!-- fm: auto_enriched: true -->
@@ -18912,6 +18952,9 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 > This document is a 1953 demonstration paper by the [[New Jersey Division Of Fish And Game]] describing the methods and principles of fisheries management in New Jersey. It was presented at the Schiffs Scout Reservation, Mendham, New Jersey, on June 19, 1953. The paper argues that fisheries...
 > -- *[[ADemonstrationOfMethodsAndTech_20555]]*
 
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
@@ -19126,6 +19169,7 @@ Brown Trout (Salmo trutta) is a highly adaptable, invasive salmonid species nati
 - [[FisheriesResearchInNewYorkFarm_15810]]
 - [[SurveysForLoachMinnowInBigBoni_20266]]
 - [[ADemonstrationOfMethodsAndTech_20555]]
+- [[FindingsConclusionsAndRecommen_15791]]
 
 ## Brown Trout Natural Feeding Activity
 <!-- fm: auto_enriched: true -->

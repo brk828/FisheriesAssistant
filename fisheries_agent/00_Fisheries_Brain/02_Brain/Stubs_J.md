@@ -1621,6 +1621,18 @@ John Edward Holbrook (1794-1871) produced the "Ichthyology of South Carolina" (1
 ### Mentioned In
 - [[CuiUiRecoveryTeamMeeting_1990_11_29]]
 
+## John G. Weise
+
+### Summary
+John G. Weise assisted William T. Barry with the field work on Montezuma Well, which began in July 1960 and ran through the summer of 1962. The source names him only as a helper and does not describe a specific contribution.
+
+### Context
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
+### Mentioned In
+- [[FinalReportToMontezumaMonument_16015]]
+
 ## John Gottschalk
 <!-- fm: auto_enriched: true -->
 

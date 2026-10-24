@@ -267,6 +267,9 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 > This U.S. Fish and Wildlife Service (Arizona Ecological Services State Office) biological opinion, dated July 20, 1995 (reference 2-21-95-F-020), evaluates a proposed [[Allotment Management Plan]] for the combined Baseline and Horse Springs livestock grazing allotments in Greenlee County, Arizona....
 > -- *[[BiologicalOpinionOnTheProposed_11939]]*
 
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
+
 ### Mentioned In
 - [[BiologicalOpinionOnEmergencyWa_1994_01_31]]
 - [[CommentsOnTheDraftActivityPlan_13812]]
@@ -315,6 +318,7 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[SpikedaceMedaFulgidaRecoveryPl_11598]]
 - [[BiologicalOpinionOnTheProposed_11939]]
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## Eagle Creek Pump Station
 
@@ -6498,6 +6502,9 @@ The Endangered Species Act of 1973 is a landmark federal legislation that provid
 > This Fall 1992 [[Arizona State University]] (ASU) feature, the second part of a series on environmental abuse, reports on how water management in the arid West is driving the loss of native fishes, birds, and riparian habitat. ASU researchers [[W. L. Minckley]], [[Michael E. Douglas]], and [[Robert...
 > -- *[[FaunaFarewellLegacyOfEnvironme_12623]]*
 
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
+> -- *[[EndemicFishesOfTheColoradoRive_17181]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[CorrespondenceRegardingExperim_1986_07_25]]
@@ -6519,6 +6526,7 @@ The Endangered Species Act of 1973 is a landmark federal legislation that provid
 - [[WildlifeConservationActAmendme_1995]]
 - [[FeasibilityStudyOfLeslieCanyon_15717]]
 - [[FaunaFarewellLegacyOfEnvironme_12623]]
+- [[EndemicFishesOfTheColoradoRive_17181]]
 
 ## Endangered Species Act Permitting
 <!-- fm: auto_enriched: true -->
@@ -7015,6 +7023,18 @@ The Endangered Yuma Clapper Rail is a Federally-listed wetland species targeted 
 ### Mentioned In
 - [[IssuesAndAlternativesForUseOfH_1994_05_31]]
 - [[DiversityWithinTheRedeyeBassMi_2013]]
+
+## Endemic Species Committees
+
+### Summary
+Committees under the Prohibited and Protected Fishes, Amphibians and Reptiles Committee that consolidate management programs for endemic species and coordinate study groups and recovery teams. This 1977 report was prepared by them for the Colorado River Wildlife Council.
+
+### Context
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
+> -- *[[EndemicFishesOfTheColoradoRive_17181]]*
+
+### Mentioned In
+- [[EndemicFishesOfTheColoradoRive_17181]]
 
 ## Endemic Species Vulnerability
 <!-- fm: auto_enriched: true -->
@@ -11770,6 +11790,18 @@ Ex situ conservation refers to the protection and management of fish species out
 
 ### Mentioned In
 - [[PhylogeneticSpeciesConcepts_15652]]
+
+## Executive Order 11987
+
+### Summary
+A 1977 U.S. executive order directing federal agencies to avoid introducing exotic species into ecosystems unless the action is beneficial and consistent with environmental protection. The report includes it as an appendix and recommends formalizing compliance procedures under it.
+
+### Context
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
+### Mentioned In
+- [[FindingsConclusionsAndRecommen_15791]]
 
 ## Executive Order 12962
 <!-- fm: auto_enriched: true -->

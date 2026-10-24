@@ -4261,6 +4261,18 @@ An endangered isopod species that co-occurs with the Socorro Hydrobioid at sprin
 ### Mentioned In
 - [[CurrentStatusOfEndangeredThrea_12695]]
 
+## Thiara Granifera
+
+### Summary
+Thiara granifera is an Oriental gastropod recently collected at Resting Springs near Tecopa, California. The note cites it as a possible host for human parasites and includes it among the introduced species that pose a biological pollution threat.
+
+### Context
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
+### Mentioned In
+- [[StatusOfTheInlandAquaticAndSem_12694]]
+
 ## Thick-Billed Grasswren
 <!-- fm: auto_enriched: true -->
 
@@ -7846,9 +7858,13 @@ The Toyah Basin is part of the West Texas Permian Basin where multiple Gammarus-
 > This final report (Contract No. 14-16-98@82-81-219) by [[Julian M. Humphries]] and [[Robert Rush Miller]] from the [[Museum of Zoology]], [[University of Michigan]], establishes the taxonomic validity of [[Ictalurus lupus]] (headwater catfish) as a distinct species from the closely related...
 > -- *[[TaxonomicStatusEcologyAndDistr_14514]]*
 
+> This U.S. Fish and Wildlife Service final project report, prepared by Anthony A. Echelle, Alice F. Echelle, and D. R. Edds (Oklahoma State University, Dept. of Zoology), compares the genetic structure of captive populations held at the [[Dexter National Fish Hatchery]] (DNFH) with natural...
+> -- *[[GeneticStructureOfThreeSpecies_11601]]*
+
 ### Mentioned In
 - [[GilaPandoraACyprinidNewToTheTe_15392]]
 - [[TaxonomicStatusEcologyAndDistr_14514]]
+- [[GeneticStructureOfThreeSpecies_11601]]
 
 ## Tpi
 <!-- fm: auto_enriched: true -->
@@ -8165,6 +8181,18 @@ Transformer Pit was a heavily fished strip-pit lake that attracted anglers from 
 ### Mentioned In
 - [[SummaryOfFishGrowthAndFishingS_14038]]
 
+## Transgenic Fishes
+
+### Summary
+Fish whose genomes have been altered by genetic engineering. The source reprints an American Fisheries Society position statement on them and notes that the Task Force considers transgenic organisms to be nonindigenous species, recommending NRC or OTA review rather than specific recommendations.
+
+### Context
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
+### Mentioned In
+- [[FindingsConclusionsAndRecommen_15791]]
+
 ## Translocation (Wildlife Management)
 <!-- fm: auto_enriched: true -->
 
@@ -8274,11 +8302,15 @@ Travertine in aquatic ecology refers to porous, calcium carbonate mineral deposi
 > This final report, submitted by C.O. Minckley of the [[Northern Arizona University]] Biology Department to the Nongame Branch of the [[Arizona Game and Fish Department]] (dated 20 December 1988), documents two months of field research (27 days in 1987 and 30 days in 1988) on the federally...
 > -- *[[FinalReportOnResearchConducted_18506]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[ExplanationOfSnailDiversityAnd_15845]]
 - [[SpeocirolanaThermydronisCrusta_1968_10_16]]
 - [[StenasellidIsopodCrustaceansIn_1972_02_29]]
 - [[FinalReportOnResearchConducted_18506]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Travertine Canyon
 

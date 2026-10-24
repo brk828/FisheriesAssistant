@@ -4640,6 +4640,9 @@ Allozyme electrophoresis is a molecular technique that separates protein variant
 > This document is a research proposal submitted by [[Donald G. Buth]] of the [[University Of California Los Angeles]] Department of Biology to the [[Bureau Of Reclamation]] (Upper Colorado River Region). It proposes to use [[Allozyme Electrophoresis]] to assess genetic structure, introgressive...
 > -- *[[AllozymeDivergenceAmongPopulat_14119]]*
 
+> This U.S. Fish and Wildlife Service final project report, prepared by Anthony A. Echelle, Alice F. Echelle, and D. R. Edds (Oklahoma State University, Dept. of Zoology), compares the genetic structure of captive populations held at the [[Dexter National Fish Hatchery]] (DNFH) with natural...
+> -- *[[GeneticStructureOfThreeSpecies_11601]]*
+
 ### Mentioned In
 - [[AdditionalRazorbackSuckerGenet_1994_04_28]]
 - [[Allozymic variation in desert pupfish from natural and artificial habitats genetic conservation in fluctuating populatio]]
@@ -4653,6 +4656,7 @@ Allozyme electrophoresis is a molecular technique that separates protein variant
 - [[ResponseToReviewOfGilaSeminuda_1992_03_03]]
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
 - [[AllozymeDivergenceAmongPopulat_14119]]
+- [[GeneticStructureOfThreeSpecies_11601]]
 
 ## Allozyme Phylogenetics
 <!-- fm: auto_enriched: true -->
@@ -6212,6 +6216,9 @@ The American Eel is a catadromous fish species native to Atlantic coastal waters
 > This document presents a comprehensive taxonomic checklist of fish species documented in Kansas waters. The list encompasses 122 species across 22 families, ranging from primitive lampreys and sturgeons to advanced percids and centrarchids. Many species are further subdivided into subspecies,...
 > -- *[[ListOfFishesReportedFromKansas_18026]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 - [[ChangingChemicalAndBiologicalC_12793]]
@@ -6223,6 +6230,7 @@ The American Eel is a catadromous fish species native to Atlantic coastal waters
 - [[WhatHaveICaught_12929]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[ListOfFishesReportedFromKansas_18026]]
+- [[FishesOfOklahoma_16566]]
 
 ## American Egret
 
@@ -6322,6 +6330,15 @@ The American Fisheries Society is a professional scientific organization dedicat
 > This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
 > -- *[[FishesOfNevada_15993]]*
 
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
+> -- *[[EndemicFishesOfTheColoradoRive_17181]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[AmericanFisheriesSocietyProtoc_12011]]
@@ -6365,6 +6382,9 @@ The American Fisheries Society is a professional scientific organization dedicat
 - [[ExecutiveSummary_18726]]
 - [[AChecklistOfTexasFreshwaterFis_19871]]
 - [[FishesOfNevada_15993]]
+- [[FindingsConclusionsAndRecommen_15791]]
+- [[FishesOfOklahoma_16566]]
+- [[EndemicFishesOfTheColoradoRive_17181]]
 
 ## American Fisheries Society 1960
 <!-- fm: auto_enriched: true -->
@@ -6506,6 +6526,9 @@ I appreciate the detailed context provided, but I must note that the American Pe
 > This document is an excerpt from a Wild and Scenic River Suitability Study and Draft Environmental Impact Statement for eight eastside rivers in the [[Tahoe National Forest]] and [[Lake Tahoe Basin Management Unit]]. The study evaluates ecological values including meadow associations, alpine...
 > -- *[[EightEastsideRiversWildAndScen_18297]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
@@ -6516,6 +6539,7 @@ I appreciate the detailed context provided, but I must note that the American Pe
 - [[DraftConsesusReportOnTheDraftC_13540]]
 - [[DraftEnvironmentalAssessmentDe_13207]]
 - [[EightEastsideRiversWildAndScen_18297]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## American Philosophical Society
 
@@ -6627,6 +6651,9 @@ American Rivers is a conservation organization that has played a significant rol
 > This memorandum from [[American Rivers]] Executive Director Rebecca R. Wodder to the Board of Directors provides a comprehensive update on organizational activities as of May 24, 1999. The document covers major conservation initiatives focused on river restoration, salmon recovery, dam removal...
 > -- *[[UpdateOnActivities_20797]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[GroupsReachAgreementToRemoveDa_1999_08_23]]
 - [[LetterOnFirstYearDeliverablesF_1994_04_14]]
@@ -6638,6 +6665,7 @@ American Rivers is a conservation organization that has played a significant rol
 - [[GilaRiverFishdistributionProje_15844]]
 - [[TheNationsTenMostEndangeredRiv_17976]]
 - [[UpdateOnActivities_20797]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## American Rivers Association
 
@@ -11299,9 +11327,13 @@ Aquatic invertebrates are small animals without backbones that inhabit freshwate
 > Executive Order 13112, issued February 3, 1999, establishes comprehensive federal policy for preventing introduction and controlling spread of [[Invasive Species]] in the [[United States]]. The order creates the [[Invasive Species Council]] co-chaired by the Secretaries of Interior, Agriculture,...
 > -- *[[ExecutiveOrderInvasiveSpeices_13569]]*
 
+> This proposed Report to Congress, prepared by the [[Aquatic Nuisance Species Task Force]] under Section 1207 of the [[Nonindigenous Aquatic Nuisance Prevention and Control Act]] (P.L. 101-646, 1990), reviews approaches for reducing "adverse consequences associated with intentional introduction of...
+> -- *[[FindingsConclusionsAndRecommen_15791]]*
+
 ### Mentioned In
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
 - [[ExecutiveOrderInvasiveSpeices_13569]]
+- [[FindingsConclusionsAndRecommen_15791]]
 
 ## Aquatic Oligochaeta
 <!-- fm: auto_enriched: true -->
@@ -13206,8 +13238,12 @@ Arizona Agave (Agave arizonica) is a special-interest plant species evaluated du
 > SWCA, Inc. Environmental Consultants conducted a biological evaluation of the approximately 2,154-acre [[Spur Cross Ranch]] project site in [[Maricopa County]], [[Arizona]], adjacent to the southern boundary of the [[Tonto National Forest]]. The evaluation was commissioned by The Pinnacle Group to...
 > -- *[[BiologicalEvaluationOfTheAppro_15074]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[BiologicalEvaluationOfTheAppro_15074]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Arizona Alligator Lizard
 
@@ -13479,6 +13515,9 @@ The Arizona Department of Agriculture is a state agency participating in the mul
 > This October 1994 correspondence from the [[Southwest Center for Biological Diversity]] (SWCBD) to the [[U.S. Army Corps of Engineers]] challenges the proposed "Finding of No Significant Impact" (FONSI) for the [[Wellton-Mohawk Gila River Flood Channel Restoration Project]]. The organization argues...
 > -- *[[IllegalFindingOfNoSignificantI_18971]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[LetterAppointingWendellMinckle_1993_05_18]]
 - [[LetterReviewOfBogHoleRenovatio_12470]]
@@ -13488,6 +13527,7 @@ The Arizona Department of Agriculture is a state agency participating in the mul
 - [[EnvironmentalAssessmentForNati_13228]]
 - [[ArizonaEnvironmentalAndResourc_17454]]
 - [[IllegalFindingOfNoSignificantI_18971]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Arizona Department Of Game And Fish
 <!-- fm: auto_enriched: true -->
@@ -14363,6 +14403,9 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > This Bureau of Reclamation memorandum from the [[Glen Canyon Environmental Studies]] group transmits [[HYDROLAB Profiling]] data collected at [[Lake Powell]] during the August 1 through 6, 1994 field trip. The profiles cover water temperature, [[Dissolved Oxygen]], [[Specific Conductivity]], and...
 > -- *[[GlenCanyonEnvironmentalStudies_19731]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -14673,6 +14716,7 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[NativeArizonaFishesPartIispiny_18572]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[GlenCanyonEnvironmentalStudies_19731]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Arizona Game And Fish Department Research Contracts
 <!-- fm: auto_enriched: true -->
@@ -15026,6 +15070,18 @@ Arizona Public Service is mentioned in the 1981 report in connection with desert
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[FossilCreakFlumeaPioneerMonume_16579]]
 
+## Arizona Public Service Company
+
+### Summary
+The utility company (referred to as Public Service in the source) that holds and seeks relicensing of the Childs Irving Hydroelectric Project. It proposed minimum flows of 10 cfs in the Irving bypassed reach and 5 cfs in the Childs bypassed reach, and it proposed enhancements at Stehr Lake that staff did not recommend.
+
+### Context
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
+### Mentioned In
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
+
 ## Arizona Queen of the Night
 
 ### Summary
@@ -15099,9 +15155,13 @@ The Arizona Riparian Council is a conservation organization that was included on
 > This comprehensive directory, published by the Commission on the Arizona Environment in 1987, catalogs businesses, organizations, and agencies concerned with environmental resources in Arizona. The document provides contact information and descriptions for over 200 entities across multiple sectors...
 > -- *[[ArizonaEnvironmentalAndResourc_17454]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[BogHoleProjectMeetingSummary_12749]]
 - [[ArizonaEnvironmentalAndResourc_17454]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Arizona Southwestern Toad
 
@@ -15571,6 +15631,9 @@ Arizona State University is a major research institution that has played a signi
 > A letter dated October 30, 1989, from the [[Bureau of Reclamation]] (Lower Colorado Regional Office) to [[Arizona State University]], the [[Fish and Wildlife Service]], and the [[National Park Service]] requests help in developing an interagency proposal. The proposal would examine the feasibility...
 > -- *[[RequestForAssistanceInDevelopi_20977]]*
 
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -15815,6 +15878,7 @@ Arizona State University is a major research institution that has played a signi
 - [[RequestToStudyAtArizonaStateUn_20318]]
 - [[NativeFishConservationgilaBoxR_20834]]
 - [[RequestForAssistanceInDevelopi_20977]]
+- [[FinalReportToMontezumaMonument_16015]]
 
 ## Arizona State University (Asu)
 <!-- fm: auto_enriched: true -->
@@ -17547,6 +17611,9 @@ Ash Meadows is a spring-fed complex of isolated wetland habitats in the Death Va
 > This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
 > -- *[[FishesOfNevada_15993]]*
 
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
 ### Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -17582,6 +17649,7 @@ Ash Meadows is a spring-fed complex of isolated wetland habitats in the Death Va
 - [[MxMissileSystemAnUrgentLetterF_20507]]
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[FishesOfNevada_15993]]
+- [[StatusOfTheInlandAquaticAndSem_12694]]
 
 ## Ash Meadows Amargosa Pupfish
 
@@ -17696,6 +17764,9 @@ The Ash Meadows Pupfish (*Cyprinodon nevadensis*) is a small cyprinodontid fish 
 > This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
 > -- *[[FishesOfNevada_15993]]*
 
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
 ### Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
@@ -17704,6 +17775,7 @@ The Ash Meadows Pupfish (*Cyprinodon nevadensis*) is a small cyprinodontid fish 
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[FishesOfNevada_15993]]
+- [[StatusOfTheInlandAquaticAndSem_12694]]
 
 ## Ash Meadows Recovery Plan
 <!-- fm: auto_enriched: true -->

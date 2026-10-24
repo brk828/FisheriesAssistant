@@ -2308,6 +2308,9 @@ Death Valley National Monument serves as a critical research site and conservati
 > This December 1979 urgent letter from the [[Desert Fishes Council]] to NANFA members warns of catastrophic threats to desert aquatic ecosystems in [[Nevada]] and [[Utah]] from the proposed [[MX Missile System]]. The $33 billion Department of Defense project would construct 200 "racetrack loops"...
 > -- *[[MxMissileSystemAnUrgentLetterF_20507]]*
 
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
 ### Mentioned In
 - [[FourthAnnualMeetingDeathValley_11111]]
 - [[ResearchOnEndangeredFishesInTh_14023]]
@@ -2316,6 +2319,7 @@ Death Valley National Monument serves as a critical research site and conservati
 - [[InformalSectionConsultationReP_13297]]
 - [[DesertFishesCouncilThirteenthA_12827]]
 - [[MxMissileSystemAnUrgentLetterF_20507]]
+- [[StatusOfTheInlandAquaticAndSem_12694]]
 
 ## Death Valley National Park
 
@@ -5697,6 +5701,9 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 > This report, prepared for the [[U.S. Fish And Wildlife Service]] Albuquerque office by the Arizona Fishery Resources Office, summarizes stream surveys for the threatened [[Loach Minnow]] (*Rhinichthys cobitis*) in the lower reaches of [[Tonto Creek]] and [[Big Bonito Creek]] on the [[Fort Apache...
 > -- *[[SurveysForLoachMinnowInBigBoni_20266]]*
 
+> This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
+> -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
+
 ### Mentioned In
 - [[AdditionsToAnimalCandidateRevi_1993_08_10]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -5815,6 +5822,7 @@ The Desert Sucker (*Pantosteus clarki*) is a native cyprinid catostomid fish spe
 - [[EnvironmentalAssessmentarnettC_11509]]
 - [[MuleshoeCooperativeManagementA_19869]]
 - [[SurveysForLoachMinnowInBigBoni_20266]]
+- [[NoticeOfAvailabilityOfDraftEnv_16326]]
 
 ## Desert Tortoise
 <!-- fm: auto_enriched: true -->
@@ -5889,6 +5897,18 @@ Desert Tortoises (Gopherus agassizii) are a protected species found in the Arava
 
 ### Mentioned In
 - [[BiologicalOpinionForRepairAndo_11904]]
+
+## Desertification of the American Southwest
+
+### Summary
+The note describes hydrobiid snails as relicts of Pliocene age whose populations became isolated when desertification cut up spring systems in the region. Many spring complexes now hold snails that have evolved into distinct taxa.
+
+### Context
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
+### Mentioned In
+- [[StatusOfTheInlandAquaticAndSem_12694]]
 
 ## Desertscrub-Grassland Ecotone
 <!-- fm: auto_enriched: true -->
@@ -6235,6 +6255,18 @@ Northern pike are listed as a "detrimental animal" under California Code of Regu
 - [[UnitedStatesListOfEndangeredFa_11533]]
 - [[FishesOfNevada_15993]]
 - [[ArizonaGroundwaterLawHistorica_16464]]
+
+## Devil's Inkwell
+
+### Summary
+Devil's Inkwell is a water-filled sinkhole in New Mexico. The report draws a comparison between it and Montezuma Well as a similar type of depression.
+
+### Context
+> This 1965 final report to [[Montezuma Castle National Monument]] presents a multi-year limnological study of [[Montezuma Well]], a spring-fed, artesian lake in a limestone depression in Yavapai County, Arizona. The work was funded by a [[National Science Foundation]] grant (NSF-13161) to [[Arizona...
+> -- *[[FinalReportToMontezumaMonument_16015]]*
+
+### Mentioned In
+- [[FinalReportToMontezumaMonument_16015]]
 
 ## Devil'S Lake
 <!-- fm: auto_enriched: true -->
@@ -6843,6 +6875,9 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This March 1988 document is the [[Arizona Nongame Strategic Plan]] (1987-1991), prepared under Federal Aid Project FW-11-R by the [[Arizona Game and Fish Department]] (AGFD). It sets policy and five-year goals for the Department's [[Nongame and Endangered Wildlife Program]], which is run through...
 > -- *[[ArizonaNongameStrategicPlans_18278]]*
 
+> This U.S. Fish and Wildlife Service final project report, prepared by Anthony A. Echelle, Alice F. Echelle, and D. R. Edds (Oklahoma State University, Dept. of Zoology), compares the genetic structure of captive populations held at the [[Dexter National Fish Hatchery]] (DNFH) with natural...
+> -- *[[GeneticStructureOfThreeSpecies_11601]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -7066,6 +7101,7 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[IntraserviceSectionOnTransferO_20157]]
 - [[GilaTaxonomyProjectFiscalProgr_14722]]
 - [[ArizonaNongameStrategicPlans_18278]]
+- [[GeneticStructureOfThreeSpecies_11601]]
 
 ## Dexter National Fish Hatchery & Technology Center
 <!-- fm: auto_enriched: true -->
@@ -11591,6 +11627,18 @@ I appreciate your detailed request, but I must be honest: based on the context s
 
 ### Mentioned In
 - [[AquaticCoordinationTeamMeeting_1991_10_28]]
+
+## Duncan Valley
+
+### Summary
+Duncan Valley is a river valley in southeastern Arizona along the Gila River, where the source lists a gaging station near Virden and Duncan. The note reports that about 12,500 acres of irrigation diversions lie above the Gila River near Virden, and the Duncan Canal is among the canals listed there.
+
+### Context
+> This document is a compilation of surface-water records for the [[Gila River Basin]], part of the [[Colorado River Basin]] in southwestern New Mexico and Arizona. It was prepared under the direction of J. V. B. Wells, Chief, Surface Water Branch, for the [[United States Geological Survey]] as...
+> -- *[[CompilationOfRecordsOfSurfaceW_13211]]*
+
+### Mentioned In
+- [[CompilationOfRecordsOfSurfaceW_13211]]
 
 ## Dunde Ice Cap
 <!-- fm: auto_enriched: true -->

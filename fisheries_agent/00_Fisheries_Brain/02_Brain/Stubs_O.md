@@ -1025,6 +1025,15 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 ### Mentioned In
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
 
+## Ohio Shad
+
+### Context
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
+### Mentioned In
+- [[FishesOfOklahoma_16566]]
+
 ## Ohio State University
 
 ### Summary
@@ -1207,6 +1216,9 @@ The Okinawa Islands are part of the southern Japanese Islands where Lestidium pr
 > This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
 > -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
 
+> This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
+> -- *[[FishesOfOklahoma_16566]]*
+
 ### Mentioned In
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[RegionEndangeredSpeciesActIntr_11825]]
@@ -1214,6 +1226,7 @@ The Okinawa Islands are part of the southern Japanese Islands where Lestidium pr
 - [[EndangeredAndThreatenedWildlif_11596]]
 - [[SummaryOfCommercialFisheriesCa_19834]]
 - [[ANewTroglobiticCrayfishFromOkl_20419]]
+- [[FishesOfOklahoma_16566]]
 
 ## Oklahoma Biological Survey
 
@@ -5501,6 +5514,9 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 > This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
 > -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
 
+> This 1973 report, submitted by James J. Landye of the [[Lower Colorado River Basin Research Laboratory]] (Arizona State University) to the U.S. Department of Interior, Bureau of Sport Fisheries and Wildlife, Office of Rare and Endangered Species, assesses the status of threatened, rare, and...
+> -- *[[StatusOfTheInlandAquaticAndSem_12694]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
@@ -5518,6 +5534,7 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 - [[AConservationorientedClassific_15455]]
 - [[ConservationGeneticsInTheManag_20087]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[StatusOfTheInlandAquaticAndSem_12694]]
 
 ## Owens River
 <!-- fm: auto_enriched: true -->
