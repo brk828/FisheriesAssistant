@@ -99,6 +99,28 @@ class PdfIngestTests(unittest.TestCase):
         self.assertEqual(result, valid_note)
         self.assertEqual([call.kwargs["max_tokens"] for call in chat.call_args_list], [4500, 9000])
 
+    def test_truncated_note_falls_back_to_stronger_model_and_saves_partial(self):
+        valid_note = "---\ntitle: Test\n---\n\n" + "\n\n".join(
+            f"{header}\nText." for header in pdf_ingest.REQUIRED_HEADERS
+        )
+        with tempfile.TemporaryDirectory() as temp:
+            partial = Path(temp) / "abc_truncated.md"
+            with patch.dict(os.environ, {"OPENROUTER_FALLBACK_MODEL": "fallback-model"}), patch.object(
+                pdf_ingest,
+                "_chat",
+                side_effect=[pdf_ingest._OutputTruncatedError("truncated", "partial text"), valid_note],
+            ) as chat:
+                result = pdf_ingest.synthesize_note(None, "cheap-model", "source", partial_path=partial)
+            self.assertEqual(partial.read_text(encoding="utf-8"), "partial text")
+        self.assertEqual(result, valid_note)
+        self.assertEqual([call.args[1] for call in chat.call_args_list], ["cheap-model", "fallback-model"])
+
+    def test_fallback_model_can_be_disabled(self):
+        with patch.dict(os.environ, {"OPENROUTER_FALLBACK_MODEL": "off"}):
+            self.assertEqual(pdf_ingest.fallback_model("anthropic/claude-haiku-5.5"), "")
+        with patch.dict(os.environ, {}, clear=True):
+            self.assertEqual(pdf_ingest.fallback_model("anthropic/claude-haiku-5.5"), pdf_ingest.DEFAULT_FALLBACK_MODEL)
+
     def test_ingest_model_defaults_to_haiku_and_uses_ingest_override(self):
         with patch.dict(os.environ, {"OPENROUTER_MODEL": "anthropic/claude-sonnet-5.5"}, clear=True):
             self.assertEqual(pdf_ingest.ingest_model(), "anthropic/claude-haiku-5.5")

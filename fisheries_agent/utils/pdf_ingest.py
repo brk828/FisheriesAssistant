@@ -69,6 +69,7 @@ OCR_SAMPLE_PAGES = 3
 CITE_SAMPLE_CHARS = 3500
 NOTE_OUT_TOKENS = 3000
 DEFAULT_MODEL = "anthropic/claude-haiku-5.5"
+DEFAULT_FALLBACK_MODEL = "anthropic/claude-sonnet-5.5"  # used once when the ingest model runs out of output room
 USER_AGENT = "FisheriesAssistant/1.0 (literature ingest; mailto:none)"
 
 NOTE_SYSTEM = """You are an aquatic ecologist and expert ichthyologist, and a data architect. Extract scientific data from the provided document text and output a highly structured Markdown note optimized for Obsidian. The source may focus on fish or on the broader aquatic ecosystem (invertebrates, plankton, water chemistry, habitat); stay faithful to what it actually covers.
@@ -79,6 +80,7 @@ Strictly follow this format:
 3. Standardized sections: ## Executive Summary, ## Background & Description, ## Ecological & Environmental Context, ## Key Findings.
 4. Use [[Double Brackets]] to cross-link related concepts (species, places, methods), always in Title Case, e.g. [[Largemouth Bass]].
 5. Report numbers, sample sizes and statistics exactly as given; never invent data. Skip figure/table debris.
+6. Keep the note under about 1500 words. Summarize long lists (species checklists, site lists, specimen or record tables, regulation text) instead of reproducing them: give the count and the most important entries. Cross-link at most about 30 concepts.
 
 The text may come from OCR; silently fix obvious scan errors (e.g. 'f1sh' -> 'fish'). Return ONLY raw Markdown."""
 
@@ -135,12 +137,13 @@ def digest_system(doc_type: str) -> str:
     return f"""You are an aquatic ecologist and expert ichthyologist, and a data architect. Extract scientific data from the provided document text and output a highly structured Markdown digest optimized for Obsidian. This digest type covers {spec['focus']}; stay faithful to what the document actually covers.
 
 Strictly follow this format:
-1. YAML frontmatter at the very top with: species (list of every species the document names, scientific names), target_species (the main species of interest, as 'Common Name (Scientific name)'; "N/A" when there is no single focus), common_name, family, habitat, ocean_basin, location, tags, and these type-specific keys: {spec['keys']}. Use "N/A" for fields the document does not address. Do NOT include title, doc_type, source_id or citation fields; they are added separately.
+1. YAML frontmatter at the very top with: species (scientific names of the species the document studies or discusses substantively, at most 25; for checklists and faunal surveys list the main ones and put the total count in tags), target_species (the main species of interest, as 'Common Name (Scientific name)'; "N/A" when there is no single focus), common_name, family, habitat, ocean_basin, location, tags, and these type-specific keys: {spec['keys']}. Use "N/A" for fields the document does not address. Do NOT include title, doc_type, source_id or citation fields; they are added separately.
 2. A single `# Title` heading, then Obsidian tags on one line: #ichthyology #<specific-family-or-taxon>. For non-fish taxa tag that taxon instead.
 3. Exactly these sections, in order (the bullets after the colon are the points to cover, as bold labels inside the section):
 {sections}
 4. Use [[Double Brackets]] to cross-link related concepts (species, places, methods), always in Title Case, e.g. [[Largemouth Bass]].
 5. Report numbers, sample sizes, equations and statistics exactly as given; never invent data. Write 'Not reported' for points the document does not address. Skip figure/table debris.
+6. Keep the note under about 1800 words. Summarize long lists (species checklists, site lists, specimen or record tables, regulation text) instead of reproducing them: give the count and the most important entries. Cross-link at most about 30 concepts.
 
 The text may come from OCR; silently fix obvious scan errors. Return ONLY raw Markdown."""
 
@@ -180,6 +183,12 @@ def source_id_for(digest: str) -> str:
 
 def ingest_model(override: str = "") -> str:
     return override or os.getenv("OPENROUTER_INGEST_MODEL") or DEFAULT_MODEL
+
+
+def fallback_model(primary: str) -> str:
+    """Model tried once when the ingest model hits its output limit; "off" disables the fallback."""
+    fb = os.getenv("OPENROUTER_FALLBACK_MODEL", DEFAULT_FALLBACK_MODEL).strip()
+    return "" if fb.lower() in ("", "off", "none") or fb == primary else fb
 
 
 def _norm(text: str) -> str:
@@ -506,11 +515,14 @@ def _client():
 
 
 class _OutputTruncatedError(RuntimeError):
-    pass
+    def __init__(self, message: str, partial: str = ""):
+        super().__init__(message)
+        self.partial = partial or ""
 
 
 USAGE = {"in": 0, "out": 0, "cost": 0.0, "cost_exact": True, "requests": 0, "retries": 0}
 ACTIVE_DOCUMENT_USAGE = None
+LAST_RUN_WRITTEN = 0  # notes written by the most recent cmd_process run; the watcher offers a git sync only when > 0
 
 
 def _new_usage_record(path: Path, source_id: str, model: str) -> dict:
@@ -519,6 +531,7 @@ def _new_usage_record(path: Path, source_id: str, model: str) -> dict:
         "file": path.name,
         "source_id": source_id,
         "model": model,
+        "fallback_model": "",
         "pages": None,
         "extraction": "not_started",
         "ocr_pages": 0,
@@ -600,7 +613,7 @@ def _chat(client, model: str, system: str, user: str, max_tokens: int, tries: in
                     ACTIVE_DOCUMENT_USAGE["cost_exact"] = False
             choice = r.choices[0]
             if choice.finish_reason == "length":
-                raise _OutputTruncatedError("model response reached its max_tokens limit")
+                raise _OutputTruncatedError("model response reached its max_tokens limit", choice.message.content or "")
             return choice.message.content or ""
         except _OutputTruncatedError:
             raise
@@ -619,7 +632,7 @@ def _strip_fence(text: str) -> str:
     return (m.group(1) if m else text).strip()
 
 
-def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS, doc_type: str = "", secondary_type: str = "") -> str:
+def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS, doc_type: str = "", secondary_type: str = "", partial_path: Path = None) -> str:
     """doc_type selects one of the three digests; empty keeps the original single layout (Minckley notes)."""
     # The document goes inside tags with an instruction after it. Sent bare, a proposal or scanned report can look like
     # text to continue, and the model echoes the document tail instead of writing the note.
@@ -639,13 +652,22 @@ def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS, 
         if secondary_type:
             body += f" The paper also has a substantial {secondary_type} component: mention it in the last section as keyword stubs, not as extra sections."
     last = ""
+    fallback = fallback_model(model)
     for attempt in range(2):
         try:
             response = _chat(client, model, system, body, max_tokens=budget)
-        except _OutputTruncatedError:
+        except _OutputTruncatedError as e:
+            if partial_path is not None and e.partial:
+                partial_path.parent.mkdir(parents=True, exist_ok=True)
+                partial_path.write_text(e.partial, encoding="utf-8")  # kept for diagnosis (gitignored folder)
             if attempt == 0:
+                nxt = fallback or model
+                print(f"   {model} ran out of output room; retrying once with {nxt} and a larger budget" + (f" (partial reply saved to {partial_path.name})" if partial_path is not None and e.partial else ""))
                 _mark_retry()
+                model = nxt
                 budget *= 2
+                if ACTIVE_DOCUMENT_USAGE is not None and fallback:
+                    ACTIVE_DOCUMENT_USAGE["fallback_model"] = fallback
                 continue
             raise
         note = _strip_fence(response)
@@ -1043,7 +1065,10 @@ class PdfWatcher:
             return list(self._failed)
 
     def _offer_sync(self):
-        """After a run, asks before committing and pushing the new notes (set AUTO_GIT_SYNC=1 to skip the question)."""
+        """After a run, asks before committing and pushing the new notes (set AUTO_GIT_SYNC=1 to skip the question).
+        Nothing is offered when the run wrote no notes (cancelled, all skipped, or all failed)."""
+        if not LAST_RUN_WRITTEN:
+            return
         if os.getenv("AUTO_GIT_SYNC") != "1":
             try:
                 if input("   Commit and push the new notes to GitHub now? [y/N]: ").strip().lower() not in ("y", "yes"):
@@ -1128,7 +1153,8 @@ def cmd_extract(args) -> int:
 
 
 def cmd_process(args) -> int:
-    global ACTIVE_DOCUMENT_USAGE
+    global ACTIVE_DOCUMENT_USAGE, LAST_RUN_WRITTEN
+    LAST_RUN_WRITTEN = 0
     USAGE.update({"in": 0, "out": 0, "cost": 0.0, "cost_exact": True, "requests": 0, "retries": 0})
     ACTIVE_DOCUMENT_USAGE = None
     try:
@@ -1159,6 +1185,8 @@ def cmd_process(args) -> int:
             record["result"] = "skipped_existing_minckley_id"
             record["skip_reason"] = reason
             _finish_usage_record(record)
+            if not getattr(args, "keep", False):
+                _discard(p, d)  # only touches pdfs_to_process; the library's own copy is untouched
             continue
         todo.append((p, d, mid))
     if args.limit:
@@ -1237,6 +1265,7 @@ def cmd_process(args) -> int:
         return 1
     citations = _load_json(EXTERNAL_CITATIONS_PATH)
     done = 0
+    written = []
     for p, d, ex, cite in prepared:
         mid = mids.get(d, "")
         sid = mid or source_id_for(d)
@@ -1251,7 +1280,8 @@ def cmd_process(args) -> int:
             kind = {"doc_type": "", "secondary_type": ""} if mid else classify_doc(client, model, ex["text"], getattr(args, "type", ""))
             if kind["doc_type"]:
                 print(f"   digest: {kind['doc_type']}" + (f" (also {kind['secondary_type']})" if kind["secondary_type"] else ""))
-            note = synthesize_note(client, model, ex["text"], limits[d], kind["doc_type"], kind["secondary_type"])
+            note = synthesize_note(client, model, ex["text"], limits[d], kind["doc_type"], kind["secondary_type"],
+                                   partial_path=CACHE_DIR / f"{d[:16]}_truncated.md")
             title = cite.get("title") or note_title(note) or p.stem
             cite["title"] = title
             stem = note_stem(title, cite.get("year", ""), sid)
@@ -1284,8 +1314,7 @@ def cmd_process(args) -> int:
             if not getattr(args, "keep", False):
                 _discard(p, d)
             print(f"   wrote {stem}.md, {upd} concept stubs updated ({new} new, {summarized} summarized)  (citation: {cite.get('citation_source') or 'none'}; {cite.get('authors') or '?'} {cite.get('year') or '?'})")
-            if not smoke_check(stem, title):
-                print(f"   WARNING: searching for '{title[:60]}' did not return {stem}; check the note and rebuild the index.")
+            written.append((stem, title))
         except Exception as e:
             print(f"   FAILED: {e}")
             manifest[d] = _record(p, d, "failed", reason=str(e))
@@ -1297,6 +1326,12 @@ def cmd_process(args) -> int:
                 record["result"] = "interrupted"
             _finish_usage_record(record)
             _save_json(MANIFEST_PATH, manifest)
+    LAST_RUN_WRITTEN = done
+    if written:
+        brain_index._checked = False  # the index was built before these notes existed; let it notice the change
+        missing = [(stem, title) for stem, title in written if not smoke_check(stem, title)]
+        for stem, title in missing:
+            print(f"   WARNING: '{title[:60]}' ({stem}) is not in the search index; check the note.")
     if USAGE["requests"]:
         cost_text = f"exact OpenRouter cost ${USAGE['cost']:.6f}" if USAGE["cost_exact"] else f"partial OpenRouter cost ${USAGE['cost']:.6f}; one or more requests lack returned cost metadata (see generation IDs in the usage log)"
         print(f"\nActual usage: {USAGE['in']:,} input + {USAGE['out']:,} output tokens across {USAGE['requests']} request attempts, {USAGE['retries']} retries; {cost_text}.")
